@@ -1,5 +1,7 @@
 
 <h1>A museum of malicious software from the DOS era</h1>
+**ADMINS: NONE OF THESE FILES CAN EXECUTE OR HARM MODERN OPERATING SYSTEMS**
+
 
 The period from mid-1980'ies until the end of the century was an incredibly important period in cybersecurity. 
 
