@@ -1,6 +1,3 @@
-# virushistory
-
-
 
 <h1>A museum of malicious software from the DOS era</h1>
 
