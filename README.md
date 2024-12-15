@@ -1,5 +1,5 @@
 # virushistory
-**A museum of malicious software from the DOS era
+<h1>A museum of malicious software from the DOS era</h1>
 
 The period from mid-1980'ies until the end of the century was an incredibly important period in cybersecurity. 
 
