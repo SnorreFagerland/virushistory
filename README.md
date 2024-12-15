@@ -3,14 +3,14 @@
 
 The period from mid-1980'ies until the end of the century was an incredibly important period in cybersecurity. 
 
+
+
 Nowadays, malware is commercial. Tools of theft and fraud. Commoditized, automated and churned out in millions of samples.
 99.99% uninteresting and discardable.
 
-However, the early malwares weren't. They often explored entirely new concepts and weaknesses. They were sometimes pranks. They were sometimes social statements or personal posturing. They often showed messages or had screen effects. And a handful were destructive. 
 
-In this era, we saw replicating software - what became known as computer viruses - that targeted multiple operating systems and platforms. There were huge computer worms, traversing networks. There were destructive programs, the origin of the moniker 'trojans'.
 
-Within replicating malware, we had several classes:
+*However, the early malwares weren't*. They often explored entirely new concepts and weaknesses. They were sometimes pranks. They were sometimes social statements or personal posturing. They often showed messages or had screen effects. And a handful were destructive. In this era, we saw replicating software - what became known as computer viruses - that targeted multiple operating systems and platforms. There were huge computer worms, traversing networks. There were destructive programs, the origin of the moniker 'trojans'. Within replicating malware, we had several classes:
 
 * **Boot viruses**
 These viruses replaced the boot program on the floppy disks and hard drives, infecting the very storage medium itself
@@ -24,7 +24,7 @@ These viruses used a combination of the above (both boot and file infection).
 * **Macro viruses**
 These viruses infect file formats that support macro scripting, typically (but not limited to) Microsoft Office documents.
 
-But this history is going away. The files are leaking out of history. My own collection was added to the Norwegian AV company Norman when I joined them in 1998. The Norman file database was many years later just deleted when the company was acquired, files irrelevant. Many of the old virus files may still be located in other antivirus companies vaults - but they'll be hashes among billions of hashes, all context gone. With this repository, I try to remedy some of this.
+But this history is going away. The files are leaking out of history. My own collection was added to the Norwegian AV company Norman when I joined them in 1998. The Norman file database was many years later just deleted when the company was acquired, files irrelevant. Many of the old virus files may still be located in other antivirus companies vaults - but they'll be hashes among billions of hashes, all context gone. Worse than useless.
 
 
 <h2>What this collection contains</h2>
