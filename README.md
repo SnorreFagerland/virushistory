@@ -3,6 +3,8 @@
 
 **ADMINS: NONE OF THESE FILES CAN EXECUTE OR HARM MODERN OPERATING SYSTEMS**
 
+(That does not mean you should be careless around unverified content. Always use a VM if you want to research these files).
+
 
 The period from mid-1980'ies until the end of the century was an incredibly important period in cybersecurity. 
 
