@@ -30,9 +30,10 @@ These viruses used a combination of the above (both boot and file infection).
 These viruses infect file formats that support macro scripting, typically (but not limited to) Microsoft Office documents.
 
 
+<br><br>
 **The history is fading out.** 
 
-These old files are leaking out of history, though bitrot, deletion and unindexing. My own collection was added to the Norwegian AV company Norman when I joined them in 1998 - and The Norman file database was many years later just deleted when the company was acquired, files by then irrelevant for the product. Many of the old virus files may still be located in other antivirus companies vaults but they'll be hashes among billions of hashes, all context gone, and worse than useless.
+These old files are leaking out of history, though bitrot, deletion and unindexing. My own collection was added to the Norwegian AV company Norman when I joined them in 1998 - and that Norman file database was many years later just deleted when the company was acquired, files by then irrelevant for the product. Many of the old virus files may still be located in other antivirus companies vaults but they'll be hashes among billions of hashes, all context gone, and worse than useless.
 
 
 
