@@ -3,7 +3,8 @@
 
 **NONE OF THESE FILES CAN EXECUTE OR HARM MODERN OPERATING SYSTEMS**
 
-(That does not mean you should be careless around unverified content. Always use a VM if you want to research these files).
+*That does not mean you should be careless around unverified content. Always use a VM if you want to research these files.
+And be aware that they very much are detected by antivirus products. Downloading these to a work system is likely to earn you a concerned visit from the IT department.*
 
 
 The period from mid-1980'ies until the end of the century was an incredibly important period in cybersecurity. 
