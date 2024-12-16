@@ -37,7 +37,7 @@ These old files are leaking out of history, though bitrot, deletion and unindexi
 
 
 
-
+<br><br>
 <h2>What this collection contains</h2>
 
 In the period from 1990 to 1998, I was incredibly interested in the computer virus phenomenon. I developed a database system called AVID (AV-ID, get it?) to compare detections between different antivirus products, a sort of pre-VirusTotal comparison mechanism. As part of this project, I built a computer virus collection that rivaled many AV products in scope. Remember, this was before the incredible proliferation and automation of the 2000's. Viruses were manageable. To make sure the detections were consistent, I also personally maintained, analyzed and replicated most viruses.  
