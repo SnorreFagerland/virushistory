@@ -46,7 +46,13 @@ As I mentioned, I gave my collection to Norman when I joined them. HOWEVER: I sa
 
 This collection is what I am now making available. It won't be relevant for most of you. You won't learn much with regards to modern day cybersecurity. But of you are an uber-geek, interested in concepts and history, then this collection is for you. 
 
+<br><br>
+<h2>What more can be added?</h2>
 
+As mentioned, this is an effort to preserve history. But all these viruses have *more* context than I usually have. Such as who made them, and what was the motivation? Any anecdotes, any war stories?
+Virus creation was very much frowned upon at the time, to the point of being career-threatening. However, for these DOS viruses, statute of limitaton must have expired. I really doubt anyone cares 25 years 
+later - at least as long as you weren't doing large scale damage. I know for a fact that some virus creators went on to have incredibly impactful careers in several areas of computing, though I won't name anyone here. 
 
+However, if you are one such person, either author, or have stories to tell about these viruses or the period they were made, please feel free to add some text files (author.txt, notes.txt) in the applicable folders talking about it. Also, should you have good (commented) disassemblies or source, please add.
 
 
