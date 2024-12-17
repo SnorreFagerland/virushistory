@@ -2,6 +2,8 @@
 <h1>A museum of malicious software from the DOS era</h1>
 
 **NONE OF THESE FILES CAN EXECUTE OR HARM MODERN OPERATING SYSTEMS**
+**Exceptions to this rule: Malware that can still somehow execute (eg batch files, macro viruses) will be zipped with password: "history"**
+
 
 *That does not mean you should be careless around unverified content. Always use a VM if you want to research these files.
 And be aware that they very much are detected by antivirus products. Downloading these to a work system is likely to earn you a concerned visit from the IT department.*
@@ -48,7 +50,10 @@ As I mentioned, I gave my collection to Norman when I joined them. HOWEVER: I sa
 This collection is what I am now making available. It won't be relevant for most of you. You won't learn much with regards to modern day cybersecurity. But of you are an uber-geek, interested in concepts and history, then this collection is for you. 
 
 Note that it is not yet complete - I am missing one or two zip drives where I had A-B file infectors and boot virus samples. They have to be here somewhere, I'll add those when I find them.
-<br><br>You will also see that a lot of samples have unfamiliar file extensions (*.vom, *.vxe). I had an automated process renaming executable file formats *.com and *.exe to avoid running the programs by accident.  
+<br><br>You will also see that a lot of samples have unfamiliar file extensions (*.vom, *.vxe). I had an automated process renaming executable file formats *.com and *.exe to avoid running the programs by accident. Files with the .boo extension are boot/mbr images.
+
+
+
 
 <br><br>
 <h2>What more can be added?</h2>
