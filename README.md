@@ -18,7 +18,9 @@ Although some of them break new ground, 99.99% of them are uninteresting and dis
 
 
 
-*However, the early malwares weren't*. They often explored entirely new concepts and weaknesses. They were sometimes pranks. They were sometimes social statements or personal posturing. They often showed messages or had screen effects. And a handful were destructive. In this era, we saw replicating software - what became known as computer viruses - that targeted multiple operating systems and platforms. There were huge computer worms, traversing networks. There were destructive programs, the origin of the moniker 'trojans'. Within replicating malware, we had several classes:
+*However, the early malwares weren't*. They often explored entirely new concepts and weaknesses. They were sometimes pranks. They were sometimes social statements or personal posturing. They often showed messages or had screen effects. And a handful were destructive. In this era, we saw replicating software - what became known as computer viruses - that targeted multiple operating systems and platforms. There were huge computer worms, traversing networks. There were destructive programs, the origin of the moniker 'trojans'. 
+
+<br><br>Within replicating malware, we had several classes:
 
 * **Boot viruses**
 These viruses replaced the boot program on the floppy disks and hard drives, infecting the very storage medium itself
