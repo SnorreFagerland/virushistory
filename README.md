@@ -1,7 +1,7 @@
 
 <h1>A museum of malicious software from the DOS era</h1>
 
-**NONE OF THESE FILES CAN EXECUTE OR HARM MODERN OPERATING SYSTEMS**
+**NONE OF THESE FILES CAN EXECUTE OR HARM MODERN OPERATING SYSTEMS**<br>
 **Exceptions to this rule: Malware that can still somehow execute (eg batch files, macro viruses) will be zipped with password: "history"**
 
 
