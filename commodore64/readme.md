@@ -12,22 +12,7 @@ https://www.youtube.com/watch?v=Dl7l7gdr34o
 
 
 <br><br>**BHP** <br>
-This is the description from the C64 mailing list:<br><br>
-
->BHP-Virus
----------
-
-Author:  Dr.Dr.Strobe & Papa Hacker & Garfield
-Size:    2030 bytes. (9 Blocks)
-Type:    Memory-resident parasitic prepender.
-Infects: Commodore 64 Basic files.
-Payload: Displays text under certain conditions:
-
-	DR.DR.STROBE&PAPA HACKER WAS HERE!
-	COPROGRAMMER: GARFIELD
-	
-	HALLO DICKERCHEN, DIES IST EIN ECHTER
-	VIRUS!
-	
-	SERIALNO.:2
+One of the very first stealth viruses around. Peter Ferrie did a good analysis for Virus Bulletin, and this is still available.<br><br>
+*Analysis*<br>
+https://pferrie.tripod.com/papers/bhp.pdf
 
