@@ -1,9 +1,8 @@
 
 <h2>Animal</h2>
 <br>
-This is a very early experiment into self-replicating programs, written by John Walker. 
-The Virus Encyclopedia (http://virus.wikidot.com/animal) describes it as follows:
-<br>
+Description fetched from The Virus Encyclopedia (http://virus.wikidot.com/animal):
+<br><br>
 Animal is an early self-repeating program from 1975. Its primary purpose was to distribute a "20 Questions" game in which the user gives the program clues as to what animal they are thinking of and the program guesses it. Though it is predated by Creeper, Reaper and some Rabbit programs, the Animal program is the earliest self-replicator whose existence can be confirmed.
 
 When Animal is executed, it asks twenty questions for clues and tries to guess an animal that the user is thinking of. Animal calls the "Pervade" subroutine, which finds the directories that the current user has access to. If the directory does not contain an up-to-date version of Animal, it will copy itself to that directory. It will overwrite any older version of Animal, but will take special care to not delete any other programs.
