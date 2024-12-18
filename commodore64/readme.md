@@ -6,7 +6,7 @@ Posts on the old C64 mailing list describe a handful, such as Bula, HIV and BHP.
 **Bula** <br>
 These are viruses likely originating in Poland. There's a [virus encyclopedia entry](http://virus.wikidot.com/bula), and the incredible Cesare Pizzi did a proper analysis and presented on DEFCON30.<br><br>
 *Analysis*<br>
-https://github.com/cecio/BULA-Virus
+https://github.com/cecio/BULA-Virus<br>
 *Presentation*<br>
 https://www.youtube.com/watch?v=Dl7l7gdr34o
 
