@@ -11,11 +11,11 @@ When Animal is executed, it asks twenty questions for clues and tries to guess a
 
 Animal's creator, John Walker let the program loose in San Francisco, and after around a week it was in Washington DC. Univac's development center in Roseville Minnesota had an Animal infection, and some Univac users claimed that they had received infected software distribution tapes. The program spread for about a year, until an update for the Exec 8 operating system was released, which changed the system tables that the Pervade subroutine checks.
 
-It is unlikely that Animal ever caused any measurable damage. The program contained no deliberately malicious code and did not even exploit any system vulnerabilities. It even took special care to not affect any of the user's programs.*
+It is unlikely that Animal ever caused any measurable damage. The program contained no deliberately malicious code and did not even exploit any system vulnerabilities. It even took special care to not affect any of the user's programs.
 
 **Origin**
 
-*John Walker's original Animal program was coded in 1974 April, but the Pervade routine that gave the program its self-replication ability was introduced to the program in 1975 January. Walker observed many years later that the program would be considered a malicious program, but at the time he saw it as a good idea.
+John Walker's original Animal program was coded in 1974 April, but the Pervade routine that gave the program its self-replication ability was introduced to the program in 1975 January. Walker observed many years later that the program would be considered a malicious program, but at the time he saw it as a good idea.
 
 **Legend to History**
 
