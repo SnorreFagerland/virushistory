@@ -1,7 +1,7 @@
-Author: Lord (A0)
+**Author: Lord (A0)
 Date: June 2009
 Characteristics: non-resident, non-stealth, non-encrypted, infects floppies and C:\AUTO
-Assembler: Devpac 3.10
+Assembler: Devpac 3.10**
 
 What it does:
 A: drive boot:
