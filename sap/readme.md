@@ -5,7 +5,8 @@ As far as I know, only one malware has been written for the Advanced Business Ap
 It is very much a proof of concept. The earliest mention I could find is from 2001:
 https://web.archive.org/web/20011207213902/http://www.geocities.com/cbergalex/sap/sapvir.htm
 
-![image](https://github.com/user-attachments/assets/355c3568-e1cc-4c6b-99ed-a341c429b0ca)
+![image](https://github.com/user-attachments/assets/c3e91e35-16bf-4e0f-821c-aec89835680f)
+
 
 
 
