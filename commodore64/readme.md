@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=Dl7l7gdr34o
 
 
 <br><br>**BHP** <br>
-One of the very first stealth viruses around. Peter Ferrie did a good analysis for Virus Bulletin, and this is still available.<br>
+One of the very first stealth viruses around. Peter Ferrie did a good analysis for Virus Bulletin, and this is still available.<br><br>
 *Analysis*<br>
 https://pferrie.tripod.com/papers/bhp.pdf
 
