@@ -13,24 +13,16 @@ And be aware that they very much are detected by antivirus products. Downloading
 
 The period from mid-1980'ies until the end of the century was an incredibly important period in cybersecurity. 
 
-
-
 Nowadays, malware are commercial tools of theft and fraud - commoditized, automated and churned out in millions of samples.
 Although some of them break new ground, 99.99% of them are uninteresting and discardable.
 
-
-
 *However, the early malwares weren't*. They often explored entirely new concepts and weaknesses. They were sometimes pranks. They were sometimes social statements or personal posturing. They often showed messages or had screen effects. And a handful were destructive. In this era, we saw replicating software - what became known as computer viruses - that targeted multiple operating systems and platforms. There were huge computer worms, traversing networks. There were destructive programs, the origin of the moniker 'trojans'. 
-
-
-* **Macro viruses**
-These viruses infect file formats that support macro scripting, typically (but not limited to) Microsoft Office documents.
 
 
 <br><br>
 **The history is fading out.** 
 
-These old files are leaking out of history, though bitrot, deletion and unindexing. My own collection was added to the Norwegian AV company Norman when I joined them in 1998 - and that Norman file database was many years later just deleted when the company was acquired, files by then irrelevant for the product. Many of the old virus files may still be located in other antivirus companies vaults but they'll be hashes among billions of hashes, all context gone, and worse than useless.
+These old files are leaking out of history, though bitrot, deletion and unindexing. My own collection was added to the Norwegian AV company Norman when I joined them in 1998 - and that Norman file database was many years later just deleted when the company was acquired, files by then irrelevant for the product. Many of the old virus files may still be located in other antivirus companies vaults but they'll be hashes among billions of hashes, all context gone, and fairly useless.
 
 
 
@@ -56,6 +48,13 @@ As mentioned, this is an effort to preserve history. But all these viruses have 
 Virus creation was very much frowned upon at the time, to the point of being career-threatening. However, for these DOS viruses, statute of limitaton must have expired. I really doubt anyone cares 25 years 
 later - at least as long as you weren't doing large scale damage. I know for a fact that some virus creators went on to have incredibly impactful careers in several areas of computing, though I won't name anyone here. 
 
-However, if you are one such person, either author, or have stories to tell about these viruses or the period they were made, please feel free to add some text files (author.txt, notes.txt) in the applicable folders talking about it. Also, should you have good (commented) disassemblies or source, please add.
+However, if you are one such person, either author, or have stories to tell about these viruses or the period they were made, please feel free to add text files or readme.md's in the applicable folders. Should you have good (commented) disassemblies or source, please add. If you previously have done experiments with replicating code without publishing it - if the code is no longer a threat, feel free to share. Lets keep the history alive.
+
+
+<br><br>
+<h2>Can I use this collection for testing of security products?</h2>
+lol, no.
+
+
 
 
