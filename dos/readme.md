@@ -1,6 +1,6 @@
 <h2>DOS malware</h2>
 
-<br><br>In this folder you will find the following types of malware:<br>
+<br><br>In this folder you will find the following types of malware:
 
 * **Boot viruses**
 These viruses replaced the boot program on the floppy disks and hard drives, infecting the very storage medium itself.
