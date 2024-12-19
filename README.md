@@ -31,7 +31,7 @@ These old files are leaking out of history, though bitrot, deletion and unindexi
 
 In the period from 1990 to 1998, I was incredibly interested in the computer virus phenomenon. I developed a database system called AVID (AV-ID, get it?) to compare detections between different antivirus products, a sort of pre-VirusTotal comparison mechanism. As part of this project, I built a computer virus collection that rivaled many AV products in scope. Remember, this was before the incredible proliferation and automation of the 2000's. Viruses were manageable. To make sure the detections were consistent, I also personally maintained, analyzed and replicated most viruses.  
 
-As I mentioned, I gave my collection to Norman when I joined them. HOWEVER: I saved a backup on IOMega ZIP drives, stored them in the basement and forgot about them. I stumbled upon them when cleaning up earlier this year. I had to buy a used drive online (god knows where my old drive is), but luckily it worked, and I was able to restore the collection with just a minimum of read errors.
+As I mentioned, I gave my collection to Norman when I joined them. HOWEVER: I saved a backup on IOMega ZIP drives, stored them in the basement and forgot about them. I stumbled upon them when cleaning up earlier this year. I had to buy a used drive online (god knows where my old drive is), but luckily it worked, and I was able to restore the collection with just a minimum of read errors.<br>
 
 ![image](https://github.com/user-attachments/assets/5470fbdb-aa29-4bb8-8683-7c276e5cc6e8)
 
