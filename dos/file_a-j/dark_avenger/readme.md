@@ -1,6 +1,6 @@
 
 
->2.3. The Dark Avenger<br>
+>**2.3. The Dark Avenger**<br>
 >In the spring of 1989 a new virus appeared in Bulgaria. It was obviously "home-made" and just to remove any doubts about it, there was a string in it, saying "This program was written in the city of Sofia (C) 1988-89 Dark Avenger".
 
 >The virus was incredibly infectious when it was in memory, it was sufficient to copy or just to open a file to get it infected. When the user felt that there is a virus in his/her system and, without booting from a non-infected write-protected system diskette, ran an anti-virus program which wasn't aware of this new virus, he usually got all his/her executable files infected.
