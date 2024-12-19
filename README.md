@@ -1,5 +1,5 @@
 
-<h1>THE VIRUS HISTORY PROJECT<br>A museum of malicious software from the DOS era</h1>
+<h1>THE VIRUS HISTORY PROJECT<br>A museum of malicious software from bygone days</h1>
 
 **37600 samples and counting** 
 <br><br>
