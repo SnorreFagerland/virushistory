@@ -33,6 +33,10 @@ In the period from 1990 to 1998, I was incredibly interested in the computer vir
 
 As I mentioned, I gave my collection to Norman when I joined them. HOWEVER: I saved a backup on IOMega ZIP drives, stored them in the basement and forgot about them. I stumbled upon them when cleaning up earlier this year. I had to buy a used drive online (god knows where my old drive is), but luckily it worked, and I was able to restore the collection with just a minimum of read errors.
 
+![image](https://github.com/user-attachments/assets/5470fbdb-aa29-4bb8-8683-7c276e5cc6e8)
+
+
+
 This collection is what I am now making available. It won't be relevant for most of you. You won't learn much with regards to modern day cybersecurity. But of you are an uber-geek, interested in concepts and history, then this collection is for you. 
 
 Note that it is not yet complete - I am missing one or two zip drives where I had A-B file infectors and boot virus samples. They have to be here somewhere, I'll add those when I find them.
