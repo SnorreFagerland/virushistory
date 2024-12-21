@@ -33,7 +33,7 @@ In the period from 1990 to 1998, I was incredibly interested in the computer vir
 
 As I mentioned, I gave my collection to Norman when I joined them. HOWEVER: I saved a backup on IOMega ZIP drives, stored them in the basement and forgot about them. I stumbled upon them when cleaning up earlier this year. I had to buy a used drive online (god knows where my old drive is), but luckily it worked, and I was able to restore the collection with just a minimum of read errors.<br>
 
-![image](https://github.com/user-attachments/assets/c7563e08-ebe1-40a6-b91a-b8de9a4b7128 | =250x250)
+![image](https://github.com/user-attachments/assets/c7563e08-ebe1-40a6-b91a-b8de9a4b7128)
 
 
 
