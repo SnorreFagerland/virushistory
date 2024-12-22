@@ -1,4 +1,4 @@
-**Name : Freeze Virus.**
+**Name : Freeze Virus.**<br>
 Type : Memory-resident bootsector virus.<br>
 Discovery date : July 12th 1988 (Carsten Frischkorn).<br>
 Virus can copy to drive(s) : A or B (current drive).<br>
@@ -13,5 +13,5 @@ When does that happen :  Right from the beginning on, increasing  at
 Reset-proof : No.<br>
 Can copy to hard disk : No.<br>
 
-
+Source: https://web.archive.org/web/20140203050640/https://www.atari-forum.com/wiki/index.php?title=Listing_AVK
 
