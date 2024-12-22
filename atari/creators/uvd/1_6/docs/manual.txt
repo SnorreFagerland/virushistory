@@ -1,0 +1,562 @@
+     T H E   U L T I M A T E   V I R U S   D E S I G N E R
+                           User Manual
+             first edition, writen on 07.09.1994 by:
+             Lucky Lady, *THE* Atari Virus Codress!
+
+                    last changed: 06.10.1994
+
+           ½ MCMXCIV Slovene Stonewashing Organization
+
+
+
+                         1. INTRODUCTION
+
+Congratulations   on   purchasing   the   most   powerfull    and 
+comprehensive  tool for designing and editing bootsector  viruses 
+on  the Atari range of computers.  with this powerfull  tool  you 
+will  be  able  to build your  own  bootsector  viruses,  without 
+previous knowledge of machine code programing.
+
+Please follow the instructions in this manual carefully. Unproper 
+use of this applicatin can seriously damage your software  and/or 
+hardware,  so  please read this manual entirely befor any use  of 
+"The Ultimate Virus Designer" (or for shortly: UVD) application!
+
+Please note that with improvements in the package,  there may  be 
+modifications to the software. Any notices from Lucky Lady Coding 
+Team will be posted in the UPDATE.TXT file which you will find it 
+after the installation in \UVD_x_x\DOCS folder on your floppy  or 
+hard disk.  Please read that file by double click on it and  note 
+all changes to software and to this manual.
+
+UVD  is  designed  for  all kind of  coders  (from  beginners  to 
+experts),  now,  if you are a beginner,  we recomend you to  read 
+"Lucky  Lady's Atari Virus Cook Book",  a book supplied with  UVD 
+package  (ONLY with registered version),  for virus coding  could 
+not be simple if you previously have not know anything about TOS, 
+system vectors, memory map.. etc. If you are seriously interested 
+in  virus  coding,  then  we also recommend you to  get  as  much 
+practice as possible with machine code programing.
+
+                          2. COPYRIGHT
+
+The  software  provided  with this system  and  this  manual  are 
+Shareware!  This means you can copy all files as much as you want 
+to,  but they must be all in its original condition! Please, test 
+the program and if you like it and you want to get newest version 
+together  with printed manual and "Lucky Lady's Atari Virus  Cook 
+Book", then you have to register. Please see section 12 on how to 
+register  and  there  is also a price  list  included  in  \DOCS\ 
+folder!
+
+                          3. DISCLAIMER
+
+Even though Sector MP and Lucky Lady coding Group have tested the 
+software and have reviewed and checked the manual,  they can make 
+no warranties,  either expressed or implied, with respect to this 
+manual or with respect to the software described in this  manual, 
+its  quality,  performance,  merchantbility,  or fitness for  any 
+particular  purpose.  The  entire risk as to it its  quality  and 
+performance is with the buyer. Should the program prove defective 
+following its purchace,  the buyer assumes the entire cost of all 
+necessary servicing,  repair, or correction and any incidental or 
+consequentil damages.  In no event will we be liable for  direct, 
+indirect  or consequential damages resulting from any  defect  in 
+the software.  As such, this package (registered version) and all 
+files included in UVD_x_x folder are sold "AS IS".
+
+                    4. HARDWARE REQUIREMENTS
+
+This  application requires an Atari machine (or compatibile) with
+anykind  of  TOS version with  at  least 640*400 pixels of screen 
+resolution and with 1Mb RAM.
+
+                         5. WARNING!
+
+         WITH THIS PACKAGE YOU WILL BE ABLE TO 
+         CONSTRUCT COMPUTER VIRUSES ON THE ATARI 
+         MACHINES.  NATIONAL LAWS IN VARIOUS STATES 
+         VARIES AS CONSIDERING VIRUS CODERS; THEY CAN 
+         EVEN BE PROSECUTED BY NATIONAL LAWS, ESPECIALLY 
+         IF THEIR CODE PURPOSELY DAMAGES OTHER PEOPLE 
+         SOFTWARE AND/OR HARDWARE! IN GENERAL: VIRUS 
+         CODING IS NOT UNLAWFUL IF VIRUS OR OTHER SIMILAR 
+         DESTRUCTIVE CODE IS NOT PURPOSELY SPREADED TO 
+         THE OTHER COMPUTER SYSTEMS. PLEASE NOTE 
+         THAT THE VIRUSES MADE WITH UVD MAY BE 
+         COMPATIBILE WITH ALL TOS BASED COMPUTERS: ST, 
+         STE, MEGA ST, MEGA STE, TT, MEDUSA T40, EAGLE, 
+         STACY, ST BOOK, FALCON030.
+
+                      6. TABLE OF CONTENTS
+
+SECTION TOPIC
+1.   Introduction
+2.   Copyright
+3.   Disclaimers Notice
+4.   Hardware requirements
+5.   Warning
+6.   Table of Contents
+7.   Instalation
+8.   How Bootsector Works
+8.1.      The Bootsector Construction
+9.   Booting
+10.  Important Memory Locations And System Vectors
+11.  How To Create a Virus With UVD
+11.1.     A Tour of the Screen / User Interpreter
+11.2.     Making the Bootsector With UVD
+11.2.1.        Boot Brancher / Place Code At
+11.2.2.        RAM Destination
+11.2.3.        Attach Vector
+11.2.4.        Reset-Proof
+11.2.5.        Destruction Routine
+11.2.6.        Exit Icons
+11.2.6.1.         Release Virus
+11.2.6.2.         Quit
+11.2.6.3.         Virus Info
+11.2.6.4.         Spread factor
+12.  Registration and Feedback address
+
+                         7. INSTALATION
+
+If  you are running UVD from floppy disk,  there is no  need  for 
+instalation proces. Just make a backup copy by copying UVD floppy 
+disk  to  another  (use desktop factilities  and  refer  to  your 
+computer  manual on how to do this if you are not  familiar  with 
+it).  To run UVD,  insert UVD floppy in floppy disk drive, double 
+click on drive icon, then double click on UVD_x_x folder (where x 
+stands this refers to current version) and finaly double click on 
+UVD_x_x.PRG file. The program will load automaticly now.
+MAKE SURE YOUR FLOPPY IS NOT WRITE PROTECTED!
+
+If you have a hard disk, then you would probably like to run your 
+UVD application from hard disk drive. 
+The  most  comfortable  and  quickest  way  to  instal  your  UVD 
+application  on  hard  disk is to run INSTAL.PRG  from  your  UVD 
+floppy disk.  You will be asked on which partition would you like 
+to place your UVD application.  There must be at least 200 Kb  of 
+free  space  on  desired  partition.  After  selection  is  made, 
+INSTAL.PRG will do all for you. When instalation is completed you 
+will be returned to Desktop.  You can run now UVD by double click 
+on UVD_x_x.PRG in the UVD_x_x folder.
+If you like, you can drag the UVD_x_x.PRG icon out from window to 
+desktop  (only  for machines with TOS 2.xx or  higher).  You  can 
+change icon shape and look. In the UVD_x_x folder you will find a 
+UVDICON.RSC  file.   This  file  contains  new  icon  shape   for 
+UVD_x_x.PRG.  Use  apropriate  program to add UVD  icon  to  file 
+DESKICON.RCS.
+
+Let's see, what files should be in the UVD_x_x folder:
+
+-<UVD_x_x>      folder:
+
+     -UVD_x_x.PRG    program file (x means current version 
+                     number).
+
+     -UVD.001        data file 1
+
+     -UVD.002        data file 2
+
+     -UVD.003        data file 3
+
+     -DATA.UVD       UVD data file.
+
+     -INSTAL.PRG     instalation program
+
+     -UVDICON.RSC    UVD icon shape data
+
+     -<DOCS>         folder of documents:
+
+          -MANUAL.TXT     this file.
+
+          -HISTORY.TXT    previous and future versions of UVD.
+
+          -UPDATE.TXT     what is a step to next version.
+
+          -SEX.TXT        only for persons of 21 and over !!!
+
+          -STAT.TXT       provides some statistic informations.
+
+          -PRICES.TXT     price list and register informations.
+
+Before runing UVD,  you have to set your video display.  Refer to 
+your  computer manual on how to do this.  UVD prefers anykind  of 
+resolution with at least 640*400 pixels!
+
+                     8. HOW BOOTSECTOR WORKS
+
+Bootsector  is the first sector (#0) on an TOS disk,  it is  also 
+called "the boot track". It tells your computer several necessary 
+things  about the nature of the disk and whether or not the  boot 
+program  can  be  loaded  from the disk or  code  must  be  found 
+elsewhere.
+First,  an  executable  boot  sector  must "word-checksum" to the
+value  of  $1234 (4660). If the checksum  is correct,  the system
+does  a  JSR to the first byte of the  buffer where the boot code
+was  loaded. Since the  buffer location is  variable, code in the
+bootsector must be relative, not location-independent!
+
+The bootsector is normally  written down when a disk is formatted
+or an entire disk is copied onto another. The bootsector includes
+a  "BIOS   Parameter   Block"  (BPB)   which  contains  essential
+information concerning the disk and is structured like this:
+
+                8.1. THE BOOTSECTOR CONSTRUCTION
+
+byte:   label:  meaning:                     valuesý:
+$00     BRA.Sþ  branch to boot code          00 00
+$02     ......  reserved bytes for OEM code  .. .. .. .. .. ..
+$08     SERIAL  24-bit serial number         .. .. ..
+$0B     BPS     bytes per sector             00 02
+$0D     SPC     sectors per cluster          02
+$0E     RES     number of reserved sectors   01 00
+$10     NFATS   number of FATs               02
+$11     NDIRS   number of directory entries  70 00
+$13     NSECTS  number of sectors on media   A0 05
+$15     MEDIA   description byte of media    F9
+$16     SPF     number of sectors per FAT    05 00
+$18     SPT     number of sectors per track  09 00
+$1A     NSIDES  number of sides on media     02 00
+$1C     NHID    number of hidden sectors     00 00
+$1E     -       BOOT CODE (if any)      -
+
+ ý Values are for standard double sided floppy disk.
+ þ BRA.S ="BRAnch to... .S=short" in MC680x0 assembly language.
+
+The  values  described  here refer to  typical  values found on a
+double sided non-boot disk. The OEM bytes are used on a boot disk
+and may be on other company  disks but are not used on a  generic
+non-boot disk. The serial number is written at format time and is
+meant to be unique so TOS can tell if a disk has been swapped.
+For some tools to be able to manupulate the loader, the OEM bytes
+must  be $4C 6F 61 64 65 72  ("Loader"  in  ASCI).  The final two
+bytes (one word) of the boot sector are reserved for the "evening
+out" value which allows the checksum to be corrected accordingly.
+
+The boot loader also contains specific information as well:
+
+byte:   label:      meaning:        
+$1E     EXECFLG     copied to  cmdload
+$20     LDMODE      load mode
+$22     SSECT       sector start
+$24     SCETCNT     number of sectors to load
+$26     LDADDR      load address
+$2A     FATBUF      FAT address
+$2E     FNAME       file name if LDMODE is 0
+$39     .           reserved
+$3A     BOOTIT      boot code
+
+If LDMODE is zero, then  the  filename in FNAME is  searched  and
+loaded.  If  non-zero,  then  the number of sectors in SECTCNT is
+loaded,  beginning  with  SSECT. FATBUF points to the location in
+RAM  where  the  FAT  and  directory is placed. FNAME consists of
+eight  characters and a three  character extension. Of course, if
+bootsector  is executable but is not a boot  loader the values on
+bytes from $1E to $3A are not neccesary to be set.
+
+                           9. BOOTING
+
+Upon a cold  or warm  bootý, microprocessors  in the 680x0 series
+load  the  initial  supervisor  stack  pointer  from  the  second
+longword  in  memory  ($4) and begin execution at the PC found in
+the first  longword  ($0).  The  location  this  points to is the
+base initialization point for the Atari computers.
+Every  Atari  computer or TOS  clone  follows a predefined set of
+steps  to  accomplish  system   initialization.   The   following
+illustrates  these steps leaving out some hardware initialization
+which  is  specific  to  the  particular  computer  line (ST, TT,
+Falcon, etc.).
+
+ ýA cold boot occurs when the computer system experiences a total
+  loss of power and no memory locations can be considered valid
+  (this can be done artificially by zeroing memory, as is the
+  case with  the CTRL_ALT_rightSHIFT-DELETE reset). A warm boot
+  is a manual restart of the system which can be accomplished via
+  software or the reset button or with CTRL-ALT_DELETE reset.
+
+step / description:
+
+1.  The Interrupt Priority Level (IPL) is set to 7 and the OS 
+    switches to supervisor mode.
+
+2.  A RESET instruction is executed to reset external 
+    hardware devices.
+
+3.  The presence of diagnostic cartridge is determined. If one 
+    is inserted, it is JMP'ed to with a return address in 
+    register A6.
+
+4.  If running on a MC68030/68040, the CACR, VBR, TC, 
+    TT0 and TT1 registers are initialized.
+
+5.  If a floating-poin coprocessor is present it is initialized.
+
+6.  If the memvalid ($4F2), memval2 ($43A), and 
+    memval3 ($51A) system variables are all valid, a warm 
+    boot is assumed and the memory controller is initialized 
+    with the return value from memcntrl ($424).
+
+7.  The initial color palette registers are loaded and the 
+    screen base is initialized to $100000.
+
+8.  Memory is sized if it wasn't from a previous reset.
+
+9.  Magic numbers are stored in low memory to indicate the 
+    successful sizing and initialization of memory.
+
+10. System variables and the cookie jar are initialized.
+
+11. The BIOS initialization point is executed.
+
+12. Installed cartridges of type 2 are executed.
+
+13. The screen resolution is programmed.
+
+14. Installed cartridges of type 0 are executed.
+
+15. Interrupts are enabled by lowering the IPL to 3.
+
+16. Installed cartridges of type 1 are executed.
+
+17. If running TOS 2.06, 3.06, 4.0x or 5.0x, the Fuji logo is 
+    displayed and a memory test and hard disk spin-up 
+    sequence is executed.
+
+18. If at least one floppy drive is attached to the system, the 
+    first sector (bootsector) of the first floppy drive is loaded 
+    and if executable, it is called.
+
+19. If at least one hard disk or other media is attached to the 
+    system, the first sector of each is loaded in succession 
+    until one with an executable sector is found or each has 
+    been tried.
+
+20. If a hard disk sector was found that was executable, it is 
+    executed.
+
+21. The text cursor is enabled.
+
+22. All "\AUTO\*.PRG" files found on the boot disk are 
+    executed.
+
+23. If  cmdload ($482) is 0 then an evironment string is 
+    created and the AES is launched, otherwise 
+    "\COMMAND.PRG" is loaded.
+
+24. If the AES ever terminates, the system is reset and 
+    system initialization begins again.
+
+        10. IMPORTANT SYSTEM VECTORS AND MEMORY LOCATIONS
+
+In previous section, we mentioned cold and warm reset.  For every
+virus coder it is very important to know what's going on at reset 
+sequence  esspecially  concerning  memory  locations  and  system
+vectors.  In generally: in both reset cases memory is zeroed from
+(phystop - $200) to $800.  Just  before that, TOS searches memory
+in  steps  of  two  memory  pages (512 bytes) in "hope" to find a
+following  contents:  longword $12123456 and a longword of actual
+double memory  page. In  successful  case,  TOS first does a word
+checksum, which has to be $5678. If that  is correct, the code on
+that  double  memory  page  is  executed  through JSR with return
+address in A6.
+
+As  you can see, there are two areas to place a code to survive a
+warm  resetþ:  down  from  address  $800  or  up  from phystop by 
+simpling lowering  the  phystop itself. System vectors beggins at
+address  $400 but there are many of other vectors in area from $0
+to $800. The  most  popular address to place a virus or antivirus
+or  anykind  of  a  resetproof  code  is  $140.  At  that address
+Multi-Function Pheripheral Port Vectors are placed, but they have
+any meaning only on a machines  based on TOS 3.0x (TT, Medusa T40
+and Eagle computers). Of course, you can place a virus at $140 on
+TOS 3.0x as well, but it can not be reset proof.
+
+ þ"In the old days" of virus coding there was always one simple
+ rule: If you turned off your computer - no code could survive a
+ cold reset! Nowadays that is not true anymore! A cold reset can
+ code survive on a systems such as Mega ST, Mega STE, TT,
+ Falcon030, Medusa T040 and Eagle or on a updated other ST or
+ STE through a placing it to NVM (Non Volatile Memory), this is
+ the battery backed-up memory, which remains untouched even if
+ your computer stays shut off for a long time (some months).
+ Well, there is another way, more comfortable as space concers,
+ but more of this one will be told in further versions of UVD. 
+
+Everything  you  have to know  about systems vectors and about an
+imortant memory  locations  is  in  a book avaible at SSO: "Lucky
+Lady's Atari Virus Cook Book" written by Lucky Lady of Lucky Lady
+Coding Group. Refer to that guide for further informations.
+
+          11. HOW TO CREATE A BOOTSECTOR VIRUS WITH UVD
+
+          11.1. A TOUR OF THE SCREEN / USER INTERPRETER
+
+Once  you  have run your UVD program, after a short time, the UVD
+"intro"  screen (dialog box)  appears.  All screens in UVD are at
+the same time your user interpreter - through this screens you'll
+communicate with the programme, it is designed easy to use and it
+is very user frendly.
+All  dialog and alert boxes displayed on your screen by UVD  have 
+some  extras  compared to standard GEM dialogs  and  alerts.  For 
+maximum  comfortability  of selection there are  special  buttons 
+with  underlined  characters - you can select a  button  thus  by 
+presing ALT + apropriate underlined character,  by clicking on it 
+with your mouse or by pressing RETURN/ENTER IF desired button  is 
+in  bold  outline,  or  by pressing UNDO  IF  desired  button  is 
+"checked".
+Also,  you will notice a small triangel in the upper-right corner 
+of each dialog box/alert.  These resembles to my dog ears (I have 
+a  fox  terrier  wire  dogy at home) and  offers  moving  of  all 
+dialog/alert  boxes around your screen.  If you have a more  that 
+one  meg  machine,  all  boxes will slide  smoothly  and  visibly 
+through your screen.  If you have a one meg machine,  or there is 
+not  enought RAM due to other applications under  a  multitasking 
+systems,  the moving will look like a ghost frame sliding through 
+your screen.  To move a dialog box,  just click on "dog ear"  and 
+hold down your mouse key.  Now move the mouse and place a box  at 
+desired  location.  If  there is enough  RAM,  UVD  will  remeber 
+positions of all boxes.
+
+           11.2. MAKING THE BOOTSECTOR VIRUS WITH UVD
+
+In this section, you will learn how to use UVD to create your own
+bootsector  viruses.   Please,   follow   instructions  carefully
+especialy  if  you  are  not quite  familiar with bootsectors and
+their nature. Now, if you are a begginer, read all, otherwise you
+can  skip  some  familiar  things  if you want to. However: it IS
+advicable  to  read  all:  if you'll understand all, then you are
+ready to code your  own  bootsector  codes  and  applications, if
+there will be  something you do not  understand - please refer to
+other manuals and programer's guides before you should continue.
+
+After UVD has been loaded,  the Intro screen appears.  This is  a 
+dialog  box,  which  provides some intro  informations.  You  can 
+select  two options by clicking on two buttons:  "UVD  Info"  and 
+"Virus Designer".  If you wanna go straight to designing viruses, 
+then  press  ALT+V or press return or click with  mouse  on  that 
+button.  You can also select the first button, this provides some 
+global informations and statistics about UVD  application.  There 
+is another slection possible from this dialog box, which leads to 
+a "hidden screen",  you have to click on a hidden dot,  which  is 
+placed somewhere in this dialog box.
+Let's launch a bootsector virus  on a floppy disk drive! Click OK
+button  on the Intro  screen.  The  Ultimate Virus Designer  Main
+screen appears.  Now, follow the next subsections in this manual, 
+and set options as you like it to have your virus.
+
+             11.2.1. BOOT BRANCHER / PLACE CODE AT:
+
+In  the first box you can choose a "Boot brancher/Place code at":
+$601C or $6038. This means where in bootsector your code  will be
+placed!  If you  choose $601C,  the  code  will  be placed at the
+offset .w$001e, otherwise at .w$003a. UVD is also offering you an
+MS-DOS  start bytes, this is very suituable to evade virus killer
+applications  to  think  that  your  virus is just an MS-DOS boot
+record disk. You can add MS-DOS bytes to both boot branchers.
+
+                    11.2.2. RAM DESTINATION:
+
+Here  you can select  where  in  memory your virus will be placed
+when  it  will be loaded and  executed  at  booting.  Most common
+destination  is $140. Here are some unused vectors on TOSes below
+3.0x. If you  are choose this location, your virus will be always
+memory-resident,  but it will not  be reset-proof on systems with
+TOS 3.0x  or  higher  (but  it will still work just fine). If you 
+choose  $1C0,  your  virus  will   be  100%  memory-resident  AND
+reset-proof  on ALL machines!  As last, you can select $600, here
+code  will be memory-resident  and reset-proof  only  on machines
+with  TOS  below  2.0x,  it  will  NOT be reset-proof AND memory-
+resident on any other TOS!
+
+                     11.2.3. ATTACH VECTOR:
+
+UVD offers you two common choices: hdv_bpb and hdv_mchn.  This is 
+how  your  virus  will  be  copied  to other floppies. On hdv_bpb
+vector  it  will  attack  other  disks  each time you update your
+floppy drive  directory  window  (for example, if you press ESC),
+on  hdv_rw  it will attack each time when your system will access
+to disk. We recommend hdv_bpb.   At  selection  Hdw_mchn   (media 
+change)  a  floppy will be attacked each time a  floppy  disk  is 
+changed.
+
+                      11.2.4. RESET PROOF:
+
+Here  you choose  whenever your virus will be trying to survive a
+warm reset or it will be destroyed by it. If you placed your code
+at $1C0 it IS guaranteed your virus WILL survive on all TOSes!
+
+                  11.2.5. DESTRUCTION ROUTINE:
+
+Two options are offered here:
+
+        - "print string"           and          -"lock system"
+
+This  is  what  your virus will do when it will be activated! You
+can select both options  or  none (then your virus will only copy
+itself without visual sign(s)). On "lock system", any system will
+freeze  totally  and  abruptly,  when  virus  will  activate it's
+destruction  routine  (after  about  30 - 45  minutes after virus
+instalation)! If you have selected  "print string"  then  you can
+type in your own message which will be displayed  at  screen when
+virus  will  activate  destruction  routine.  If both options are
+selected,  code will first print the string then it will lock the
+system. If only  "print string" is selected, it will print string
+and allow user to do whatever he was doing!
+
+                       11.2.6. EXIT ICONS:
+
+In  the bottom part of the UVD main screen there are four  icons. 
+These are so called exit icons.  With these you are leaving  main 
+screen to some specific options offered by UVD.
+
+                    11.2.6.1. RELEASE VIRUS:
+
+After  you have set all parameters, just press RETURN or click on
+the  icon named  "release virus".  UVD  will tell you to insert a
+disk in drive A. Do that and confirm (please make sure to  remove
+write protection label on your destination floppy). When light on
+drive  switches  off, UVD will display:  "DISK INFECTED!" and you
+are back to Main menu. Now, you can build new virus or you can:
+
+                         11.2.6.2. QUIT
+
+Click  on this icon, when you want to leave the program. You will
+be previouslly warned that you are about to do that, then  you'll
+return to GEM Desktop.
+
+                      11.2.6.3. VIRUS INFO
+
+Sometimes  it is good to know some virus characteristics as  well 
+as  some  spreading informations before you release  a  virus  to 
+bootsector.
+After  you have set all options,  click on Virus Info  icon,  you 
+will  leave  main  screen  and  be  presented  with  some   virus 
+informatios  and statistics as well as with virus  compatibility, 
+calculated by UVD. Select OK to return to main screen!
+If  you  wanna  informations about your virus  spread  level  and 
+spread factor, click on icon named:
+
+                     11.2.6.4. SPREAD FACTOR
+
+Here  you will be presented with your virus spread  leve  factor, 
+calculated by UVD in percents.  And with lethal level.  Select OK 
+to return to main screen.
+
+            12. REGISTRATION AND FEEDBACK ADDRESSES:
+
+For all who want to register this product, must first leave me a 
+message with your name (you could use only first name) and an 
+address and/or phone number at my private Email boxes:
+
+FidoNet: Katja Kladnik - 2:380/111
+
+or you can call:
+Autronic BBS: (061)302-581; 16-08 (saturdays & sundays NON-STOP!)
+and leave me message in PFMB.
+I'll call you back and told you all informations!
+(ALL VALID UP TO 1995!)
+                                                           Enjoy!
+                                                       Lucky Lady
+
+                                            Ljubljana, 06.10.1994
+

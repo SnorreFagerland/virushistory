@@ -1,0 +1,88 @@
+HISTORY FILE FOR THE ULTIMATE VIRUS DESIGNER:
+נננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננננ
+
+- Version 1.0 (May '94):
+Not commercial, not spreaded. This was a kind of beta version for 
+preview at SSO convention '94.  Without a GEM  user-interface.  A 
+machine code was developed for "universal virus frame" which  was 
+placed in UVD for user editing.
+
+- Version 1.5 (September '94):
+A full compact commercial version.  It supports all systems  with 
+anykind of TOS version.  Still, some things are not yet fixed up: 
+an  error occured at MS-DOS boot brancher,  (well it works  100%, 
+but  only at first copy of a virus),  a hdv_rw vector cloning  is 
+not  working  as  it should,  No color dials on  TT  /  Falcon  / 
+MedusaT40  / Eagle systems,  there are not yet  supported  "Virus 
+Spread Factor" and "Virus Info" options at main screen.
+What's new?
+     ש Fast,  compact & flexible machine code with low VPF (Virus 
+Probability  Factor) for virus frame,  allowing user to create  a 
+total  of 192 different versions of bootsector virus with  custom 
+defined  string  message which can be print on  the  screen  when 
+destruction routine is enabled!
+     ש GEM user-interface (very user friendly).
+     ש Undocumented Hidden Screen is included,  allowing user  to 
+launch on a floppy disk six "oldies-goldies" viruses.
+     ש DOCS files included on disk.
+It's  main  statistics:  192 different versions of  user  defined 
+bootsector virus, 6 "oldies-goldies" viruses.
+
+- Version 1.6 (October 6th '94):
+Some unpredictible errors occured in previous  version:  bould-in 
+machine  code routines were developed and tested only  on  Falcon 
+and Eagle systems,  and so I did't noticed that in some cases  on 
+the 68000 machines, 3 bombs have appeared. This was because 68030 
+and 68040 CPUs supports odd addressing and 68000 do not.  This is 
+fixed now,  the whole program was reviewed and translated to  the 
+universal  Motorola's  680x0  language,  that  however  makes  it 
+somewhat  slower,  but who cares - the offsets in time  are  app. 
+some nsec.  Problem with MS-DOS bytes offset is now fixed - a new 
+version  of virus frame was programed (thank you Lazy Lion  II  - 
+for  help with that).  Also,  an error occured with virus  attach 
+vector:  Hdw_rw.  Instead of including another virus frame, I and 
+Lazy  Lion  II  decided to removed the  hdw_rw  vector  attaching 
+routine  from  virus  frame  and  replaced  it  with  hdw_mediach 
+(hdw_mchn), but still even that routine doesn't work as it should 
+be.  OK, and now my little lambs, here are improvements and other 
+new stuff:
+     ש A whole brand new GEM user interface was developed. It now 
+supports  colour systems as well as monocrome.  Thanx to  Stephan 
+Muenich's MyDials PD routines.  It also supports moving of dialog 
+and   alert  boxes  around  the  screen  and   more   comfortable 
+selections.
+     ש UVD is now totaly compatibile with anykind of multitasking 
+system (incl. MultiTos, Genova, Mag!X...)
+     ש  In version 1.5 I didn't finished "virus info"  &  "spread 
+factor"  options (icons),  now they are ready  to  use,  offering 
+automatic calculation of virus spread factor,  lethaly level  and 
+can  represent  some basic virus statistics and  informations  as 
+well as virus compatibility.  This is very useful if you want  to 
+be sure what kind of virus will you place on a floppy disk.
+     ש  I have add automatic recording of UVD.INF  file,  keeping 
+info such as number of total viruses released and builded,  total 
+number of sessions and some other stuff,  which isn't  documented 
+yet.
+
+Version's  mains:  192  different bootsector  viruse,  6  oldies-
+goldies viruses.
+
+-Future versions:
+
+Now,  when  all  output  is more or  less  satisfactory,  I  will 
+seriously  take more time on developing new virus frames!  I  can 
+say  right now,  that version 1.7 will be able to build over  400 
+viruses!  Of,  course  I  will look around for some  new  oldies-
+goldies as well.
+ALSO:  I  will  include  a second,  SPECIAL  hidden  screen  with 
+VALKYRIE link virus system launcher!
+
+           THIS QUARTER'S MUSICAL AND BOOK SUGGESTIONS:
+The most wonderfull book I've read since version 1.5 is for  sure 
+Ru  Emersons's "The Princess of Flames"!!!  If you  like  fantasy 
+books try this one - I doubt you will regret.
+As  for  music concerns:  there is plenty of this  great  summers 
+megamixes selection!  Try DJ Molella/Fargetta's Megamix Vol.23!!! 
+(If you like speed mixing with lottsa use of cross-fader..)
+
+

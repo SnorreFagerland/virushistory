@@ -1,0 +1,39 @@
+- Version 1.6 (October 6th '94):
+Some unpredictible errors occured in previous  version:  bould-in 
+machine  code routines were developed and tested only  on  Falcon 
+and Eagle systems,  and so I did't noticed that in some cases  on 
+the 68000 machines, 3 bombs have appeared. This was because 68030 
+and 68040 CPUs supports odd addressing and 68000 do not.  This is 
+fixed now,  the whole program was reviewed and translated to  the 
+universal  Motorola's  680x0  language,  that  however  makes  it 
+somewhat  slower,  but who cares - the offsets in time  are  app. 
+some nsec.  Problem with MS-DOS bytes offset is now fixed - a new 
+version  of virus frame was programed (thank you Lazy Lion  II  - 
+for  help with that).  Also,  an error occured with virus  attach 
+vector:  Hdw_rw.  Instead of including another virus frame, I and 
+Lazy  Lion  II  decided to removed the  hdw_rw  vector  attaching 
+routine  from  virus  frame  and  replaced  it  with  hdw_mediach 
+(hdw_mchn), but still even that routine doesn't work as it should 
+be.  OK, and now my little lambs, here are improvements and other 
+new stuff:
+     ù A whole brand new GEM user interface was developed. It now 
+supports  colour systems as well as monocrome.  Thanx to  Stephan 
+Muenich's MyDials PD routines.  It also supports moving of dialog 
+and   alert  boxes  around  the  screen  and   more   comfortable 
+selections.
+     ù UVD is now totaly compatibile with anykind of multitasking 
+system (incl. MultiTos, Genova, Mag!X...)
+     ù  In version 1.5 I didn't finished "virus info"  &  "spread 
+factor"  options (icons),  now they are ready  to  use,  offering 
+automatic calculation of virus spread factor,  lethaly level  and 
+can  represent  some basic virus statistics and  informations  as 
+well as virus compatibility.  This is very useful if you want  to 
+be sure what kind of virus will you place on a floppy disk.
+     ù  I have add automatic recording of UVD.INF  file,  keeping 
+info such as number of total viruses released and builded,  total 
+number of sessions and some other stuff,  which isn't  documented 
+yet.
+
+Version's  mains:  192  different bootsector  viruse,  6  oldies-
+goldies viruses.
+
