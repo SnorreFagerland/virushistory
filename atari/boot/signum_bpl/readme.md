@@ -10,3 +10,6 @@ When does that happen :  When key is found on other disks (this has never been f
 Reset-proof : No.<br>
 Can copy to hard disk : No.<br>
 Remark :  This  is  the most widely  spread  virus;  an  approximate estimate brings it to at least 1.5 million copies worldwide! It is  also known as the Emil 1A virus.<br>
+
+
+Source: https://web.archive.org/web/20140203050640/https://www.atari-forum.com/wiki/index.php?title=Listing_AVK
