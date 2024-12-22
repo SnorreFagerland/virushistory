@@ -53,5 +53,4 @@
      Test made by : Safe Hex International 
      
 
-     HEX dump of Byte Parasite III virus:
-     
+Source: https://vht-dk.dk/amiga/desc/txt/byteparasite3.htm     
