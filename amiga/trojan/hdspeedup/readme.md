@@ -1,12 +1,12 @@
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+            ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
                            SHI WARNING NEW VIRUSES
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+            ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-* 17-07-94  Harddisk Speedup in a file named "HD_Speed.lha" 7.318 bytes
+            * 17-07-94  Harddisk Speedup in a file named "HD_Speed.lha" 7.318 bytes
             lha packed, will delete all of your files at you harddisk.
 
             The Harddisk Speedup 1.0 trojn unpacked 6.376 bytes is founf at
