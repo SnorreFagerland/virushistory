@@ -11,4 +11,4 @@ Reset-proof : Yes.<br>
 Can copy to hard disk : No.
 Remark : The  only difference with the A variant is that it is reset-proof.<br>
 
-SOurce: https://web.archive.org/web/20140203050640/https://www.atari-forum.com/wiki/index.php?title=Listing_AVK
+Source: https://web.archive.org/web/20140203050640/https://www.atari-forum.com/wiki/index.php?title=Listing_AVK
