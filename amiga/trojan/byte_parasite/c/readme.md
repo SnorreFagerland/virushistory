@@ -1,4 +1,4 @@
- ------------------------
+    ------------------------
      Amiga Virus Encyclopedia
      Byte Parasite III Virus
     -------------------------
