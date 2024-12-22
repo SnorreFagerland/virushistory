@@ -12,3 +12,5 @@ Can copy to hard disk : No.<br>
 Remarks :  Contains the text " EVIL ! - A Gift from Old Nick". It is written in England.  Obviously,  the author acquired a copy of an earlier version of the "Ultimate Virus Killer" - he made sure the 
 virus  was recognized to be an Atari system  disk! Very cleverly done, by using the recognition bytes somewhere in the virus code. I  am glad to say that we're now at least ONE step ahead of this
 guy! This virus is very often found in Scandinavian countries.
+
+Source: https://web.archive.org/web/20140203050640/https://www.atari-forum.com/wiki/index.php?title=Listing_AVK
