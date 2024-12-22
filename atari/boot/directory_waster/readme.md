@@ -22,3 +22,6 @@ Remark : The name is quite improper,  as it destroys about 25% of  a
  installs  itself  on the standard reset vector.  After  the  first 
  reset,  it bends the hdv_bpb vector and becomes reset-resistant in 
  the undocumented way.
+
+
+Source: https://web.archive.org/web/20140203050640/https://www.atari-forum.com/wiki/index.php?title=Listing_AVK
