@@ -45,4 +45,4 @@
      Test made by : Safe Hex International       
 
 
-     Source: https://vht-dk.dk/amiga/desc/txt/byteparasite1.htm
+Source: https://vht-dk.dk/amiga/desc/txt/byteparasite1.htm
