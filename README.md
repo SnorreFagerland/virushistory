@@ -19,7 +19,7 @@ Although some of them break new ground, 99.99% of them are uninteresting and dis
 *However, the early malwares weren't*. They often explored entirely new concepts and weaknesses. They were sometimes pranks. They were sometimes social statements or personal posturing. They often showed messages or had screen effects. And a handful were destructive. In this era, we saw replicating software - what became known as computer viruses - that targeted multiple operating systems and platforms. There were huge computer worms, traversing networks. There were destructive programs, the origin of the moniker 'trojans'. 
 
 
-<br><br>
+<br>
 **This history is fading out.** 
 
 These old files are leaking out of history, though bitrot, deletion and unindexing. My own collection was added to the Norwegian AV company Norman when I joined them in 1998 - and that Norman file database was many years later just deleted when the company was acquired, files by then irrelevant for the product. Many of the old virus files may still be located in other antivirus companies vaults but they'll be hashes among billions of hashes, all context gone, and fairly useless.
