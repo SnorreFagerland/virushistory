@@ -57,6 +57,17 @@ However, if you are one such person, either author, or have stories to tell abou
 
 
 <br><br>
+<h2>Other sites</h2>
+
+There are a few other sites that contain information about malware. Most of these are do not host actual samples, but they are valuable sources of information, and I'll be referencing them at times in connection wth the entries here. Some of these are:
+
+* The Virus Encyclopedia (http://virus.wikidot.com/) for descriptions of various malware 
+* The Malware Museum (https://archive.org/details/malwaremuseum) for screen effects
+* The Amiga Virus Encyclopedia (https://www.vht-dk.dk/amiga/desc/virus.htm) for information on Amiga malware
+
+
+
+<br><br>
 <h2>Can I use this collection for testing of security products?</h2>
 lol, no.
 
