@@ -1,4 +1,4 @@
-W32/Codered.A
+**W32/Codered.A**
 
 One of the big network worms of the early 2000's. 
 
