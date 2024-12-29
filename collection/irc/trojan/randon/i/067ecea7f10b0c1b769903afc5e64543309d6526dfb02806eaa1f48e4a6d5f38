@@ -1,0 +1,79 @@
+;Root key Name                        Abbreviation 
+;---------------------------------------------------------------
+;HKEY_CURRENT_USER            	HKCU 
+;HKEY_LOCAL_MACHINE 	            HKLM 
+;HKEY_CLASSES_ROOT	            HKCR 
+;HKEY_USERS 		            HKEY_USERS 
+;HKEY_CURRENT_CONFIG 	            HKEY_CURRENT_CONFIG 
+;
+;
+;REGWRITE(Name,Value,Type)
+;Type			            Description
+;---------------------------------------------------------------
+;REG_SZ 		            A string
+;REG_DWORD		            A number
+;REG_BINARY		            A binary value	
+;REG_EXPAND_SZ	            An expandable string 
+;
+;Note: The REG_MULTI_SZ type is not supported.
+
+alias RegRead {
+  if ($1 != $null) {
+    var %a = regread
+    .comopen %a WScript.Shell
+    if !$comerr {
+      var %b =  $com(%a,RegRead,3,bstr,$1-)
+      var %c = $com(%a).result
+      .comclose %a
+      if (%c != $null) return %c
+      else {
+        return NA 
+      }
+    }
+  }
+  else { return error! complete data }
+}
+
+alias RegWrite {
+  if ($1 != $null) && ($2 != $null) && ($3 != $null) {
+    var %a = RegWrite
+    .comopen %a WScript.Shell
+    if !$comerr {
+      var %b =  $com(%a,RegWrite,3,bstr,$1,bstr,$2,bstr,$3)
+      .comclose %a
+    }
+    if ($3 == REG_EXPAND_SZ) || ($3 == REG_SZ) {
+      if ($regread($1) == $2) { return the value ( $+ $1 $+ ) was created }
+      else { return error! when writing }
+    }
+  }
+  else { return error! complete data }
+}
+
+alias RegDelete {
+  if ($1 != $null) {
+    var %a = RegDelete 
+    .comopen %a WScript.Shell
+    if !$comerr {
+      var %b =  $com(%a,RegDelete,3,bstr,$1)
+      .comclose %a
+    }
+  }
+  else { return error! complete data }
+}
+alias regsys { 
+  if ($1 == name) {
+    if (($os == 95) || ($os == 98) || ($os == ME)) { return $regread(HKLM\Software\Microsoft\Windows\CurrentVersion\Version) }
+    elseif (($os == NT) || ($os == 2K) || ($os == XP)) { return $regread(HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProductName) }
+  }
+  if ($1 == version) {
+    if (($os == 95) || ($os == 98) || ($os == ME)) { return $regread(HKLM\Software\Microsoft\Windows\CurrentVersion\VersionNumber) }
+    elseif (($os == NT) || ($os == 2K) || ($os == XP)) { return $regread(HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\CurrentVersion) }
+  }
+}
+
+alias swatkey { /set %key $regread(HKCU\software\valve\half-life\settings\key) }
+alias CSKEY { /set %cs-key $regread(HKCU\software\valve\half-life\settings\key) }
+alias winkey { /set %winkey $regread(HKLM\Software\Microsoft\Windows\CurrentVersion\ProductId) | if (%winkey == $null) { /set %winkey $regread(HKLM\Software\Microsoft\Windows\CurrentVersion\ProductKey) } }
+alias officexp { /set %officexp $regread(HKLM\
+}

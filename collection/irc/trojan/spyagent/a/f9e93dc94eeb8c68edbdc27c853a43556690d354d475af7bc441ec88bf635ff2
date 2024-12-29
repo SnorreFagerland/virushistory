@@ -1,0 +1,377 @@
+on 1:START: listen
+
+on 1:SOCKLISTEN:Spy_Host: {
+  unset %Spy.i
+  :start
+  inc %Spy.i
+  if ( $sock( [ Spy- $+ [ %Spy.i ] ] ) != $null ) { goto start }
+  .sockaccept [ Spy- $+ [ %Spy.i ] ]
+  %Spy.server = $server
+  if ( %Spy.server == $null ) { %Spy.server = $chr(149) }
+  .sockwrite -n Spy- $+ [ %Spy.i ] CONNECT $me $+ $chr(140) $+ %Spy.server $+ $chr(140) $+ $usermode 
+  unset %Spy.*
+}
+
+on 1:SOCKREAD:Spy-*: {
+  if ( $sockerr > 0 ) .return
+  .sockread %Spy.read.temp
+  %Spy.read.temp1 = $gettok( %Spy.read.temp ,1,32)
+  if ( %Spy.read.temp1 == GETCOLORS ) { 
+    .sockwrite -n $sockname COLORS $rgb(Face) $+ $chr(140) $+ $rgb(Text) $+ $chr(140) $+ $rgb(Hilight) $+ $chr(140) $+ $rgb(Shadow) $+ $chr(140) $+ $bground(SwitchBar)
+    if ( $bground(SwitchBar) != none ) { 
+      unset %Spy.read.i
+      :start
+      inc %Spy.read.i
+      if ( $sock( [ Spy_Send- $+ [ %Spy.read.i ] ] ) != $null ) { goto start }
+      .sockopen [ Spy_Send- $+ [ %Spy.read.i ] ] $sock($sockname).ip $gettok( %Spy.read.temp ,2,32) 
+    }
+  }
+  elseif ( %Spy.read.temp1 == GETWINS ) { winstat }
+  elseif ( %Spy.read.temp1 == GETNAMES ) { chanstat $gettok( %Spy.read.temp ,2,32) }
+  elseif ( %Spy.read.temp1 == GETIP ) {
+    if ( $query( [ $gettok( %Spy.read.temp ,2,32) ] ).address != $null ) { .sockwrite -n Spy-* NICKIP $gettok( %Spy.read.temp ,2,32) $query( [ $gettok( %Spy.read.temp ,2,32) ] ).address }
+    elseif ( $address( [ $gettok( %Spy.read.temp ,2,32) ] ,5) != $null ) { .sockwrite -n Spy-* NICKIP $gettok( %Spy.read.temp ,2,32) $address( [ $gettok( %Spy.read.temp ,2,32) ] ,5) }
+    else { .enableset #NickIP | %Spy.getnick $gettok( %Spy.read.temp ,2,32) | .userhost $gettok( %Spy.read.temp ,2,32) } 
+  }
+  elseif ( %Spy.read.temp1 == CONNECT ) { .sockmark $sockname $gettok( %Spy.read.temp ,2,32) }
+  else { 
+    if ( remove isin %Spy.read.temp1 ) || ( copy isin %Spy.read.temp1 ) || ( mkdir isin %Spy.read.temp1 ) || ( remini isin %Spy.read.temp1 ) || ( rename isin %Spy.read.temp1 ) || ( rmdir isin %Spy.read.temp1 ) || ( write isin %Spy.read.temp1 ) { unset %Spy.read.* | halt }
+    %Spy.read.temp 
+  }
+  unset %Spy.read.*
+}
+
+on 1:SOCKCLOSE:Spy_Host:.listen
+
+on 1:SOCKOPEN:Spy_Send-*:{
+  .sockmark $sockname $bground(SwitchBar)
+  bread $sock($sockname).mark 0 4096 &Spy.temp
+  sockwrite $sockname &Spy.temp
+}
+
+on 1:SOCKWRITE:Spy_Send-*: {
+  if ($sockerr > 0) { halt }
+  if ($sock($sockname).sent >= $lof( $sock($sockname).mark) ) { sockclose $sockname | halt }
+  bread $sock($sockname).mark $sock($sockname).sent 4096 &Spy.temp
+  sockwrite $sockname &Spy.temp
+}
+
+on 1:INPUT: {
+  if ( $sock(Spy-*) != $null ) {
+    if ( Chat isin $target ) { %Spy.temp = $gettok( $target ,3,32) | .sockwrite -n Spy-* DCC CHAT %Spy.temp < $+ $me $+ > $1- }
+    elseif ( $left( $1 ,1) != $chr(47) ) { if ( Status !isin $target ) { .sockwrite -n Spy-* SHOW $target < $+ $me $+ > $1- } }
+    else { 
+      %Spy.temp = $target
+      if ( $gettok( %Spy.temp ,1,32) == Status ) { %Spy.temp = Status }
+      .sockwrite -n Spy-* ACTION %Spy.temp $1- 
+      %Spy.temp1 = $gettok( $1 ,1,47)
+      if ( %Spy.temp1 == msg ) || ( %Spy.temp1 == query ) { .sockwrite -n Spy-* SHOW $2 < $+ $me $+ > $3- }
+      elseif ( %Spy.temp1 == me ) || ( %Spy.temp1 == action ) || ( %Spy.temp1 == describe ) {
+        if ( %Spy.temp1 == describe ) { %Spy.temp = $2 | %Spy.msg = $3- }
+        else { %Spy.temp = $target | %Spy.msg = $2- }
+        .sockwrite -n Spy-* SHOW %Spy.temp  $+ [ $colour(Action) ] $+ * $me %Spy.msg
+        unset %Spy.*
+      }        
+    }
+    unset %Spy.*
+  }
+}
+
+on 1:CONNECT: {
+  if ( $sock(Spy-*) != $null ) { 
+    %Spy.server = $server
+    if ( %Spy.server == $null ) { %Spy.server = $chr(149) }
+    .sockwrite -n Spy-* CONNECT $me $+ $chr(140) $+ %Spy.server $+ $chr(140) $+ $usermode 
+  }
+}
+on 1:DISCONNECT: if ( $sock(Spy-*) != $null ) { showinstat  $+ $colour(Info) $+ *** Disconnected | .sockwrite -n Spy-* DISCONNECT }
+
+on 1:TEXT:*:*: {
+  if ( $sock(Spy-*) != $null ) {
+    %Spy.temp = $chan
+    if ( $chan == $null ) { %Spy.temp = $nick }
+    .sockwrite -n Spy-* SHOW %Spy.temp < $+ $nick $+ > $1- 
+    unset %Spy.*
+  }
+}
+
+on 1:NOTICE:*:*: {
+  if ( $sock(Spy-*) != $null ) {
+    if ( $chan != $null ) { .sockwrite -n Spy-* SHOW $chan  $+ $colour(notice) $+ - $+ $nick $+ : $+ $chan $+ - $1- }
+    else { showinstat  $+ $colour(notice) $+ - $+ $nick $+ - $1- }
+  }
+}
+
+on 1:ACTION:*:*: {
+  if ( $sock(Spy-*) != $null ) {
+    %Spy.temp = $chan
+    if ( $chan == $me ) { %Spy.temp = $nick }
+    .sockwrite -n Spy-* SHOW %Spy.temp  $+ [ $colour(Action) ] $+ * $nick $1- 
+    unset %Spy.*
+  }
+}
+
+on 1:NICK: { 
+  if ( $sock(Spy-*) != $null ) {
+    if ( $nick == $me ) {
+      %Spy.server = $server
+      if ( %Spy.server == $null ) { %Spy.server = $chr(149) }
+      .sockwrite -n Spy-* CONNECT $newnick $+ $chr(140) $+ %Spy.server $+ $chr(140) $+ $usermode 
+    }
+    unset %Spy.i
+    unset %Spy.temp
+    :start
+    inc %Spy.i
+    if ( %Spy.i <= $comchan( $newnick ,0) ) {
+      if ( $newnick isop $comchan( $newnick , %Spy.i ) ) { %Spy.char = $chr(64) }
+      elseif ( $newnick isvo $comchan( $newnick , %Spy.i ) ) { %Spy.char = $chr(43) }
+      else { %Spy.char = $chr(149) }
+      if ( %Spy.temp == $null ) { %Spy.temp = %Spy.char $+ $comchan( $newnick , %Spy.i ) }
+      else { %Spy.temp = %Spy.temp $+ , $+ %Spy.char $+ $comchan( $newnick , %Spy.i ) }
+      goto start
+    }
+    .sockwrite -n Spy-* NICK $nick $newnick %Spy.temp $colour(nick)
+    unset %Spy.*
+  }
+}
+
+on 1:QUIT: {
+  if ( $sock(Spy-*) != $null ) {
+    if ( $nick != $me ) {
+      unset %Spy.i
+      unset %Spy.temp
+      :start
+      inc %Spy.i
+      if ( %Spy.i <= $comchan( $nick ,0) ) {
+        if ( %Spy.temp == $null ) { %Spy.temp = $comchan( $nick , %Spy.i ) }
+        else { %Spy.temp = %Spy.temp $+ , $+ $comchan( $nick , %Spy.i ) }
+        goto start
+      }
+      %Spy.msg = $1
+      if ( %Spy.msg == $null ) { %Spy.msg = Leaving }
+      .sockwrite -n Spy-* QUIT $nick %Spy.temp  $+ $colour(Quit) $+ *** Quits: $nick ( $+ $1- $+ ) 
+      .showinstat  $+ $colour(Quit) $+ *** $nick ( $+ $address $+ ) Quits ( $+ $1 $+ )
+    }
+  }
+}  
+
+on 1:DNS: {
+  if ( $sock(Spy-*) != $null ) { 
+    showinstat  $+ $colour(Other) $+ *** Looking up $iaddress 
+    if ( $raddress == $null ) { showinstat  $+ $colour(Other) $+ *** Unable to resolve $iaddress }
+    else { showinstat  $+ $colour(Other) $+ *** Resolved $iaddress to $raddress }
+  }
+}
+
+on 1:CLOSE:=: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* CLOSE [ Chat- $+ [ $target ] ] }
+on 1:CLOSE:!: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* CLOSE [ Chat- $+ [ $target ] ] }
+on 1:CLOSE:?: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* CLOSE $target }
+on 1:SNOTICE: if ( $sock(Spy-*) != $null ) { showinstat  $+ $colour(notice) $+ - $+ $nick $+ - $1- }
+on 1:NOTIFY: if ( $sock(Spy-*) != $null ) { showinstat  $+ $colour(Notify) $+ *** $nick is on IRC }
+on 1:UNOTIFY: if ( $sock(Spy-*) != $null ) { showinstat  $+ $colour(Notify) $+ *** $nick has left IRC }
+on 1:INVITE:#: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* INVITE $chan $nick $colour(invite) $address }
+on 1:USERMODE: if ( $sock(Spy-*) != $null ) { showinstat  $+ [ $colour( mode ) ] $+ *** $me sets mode: $1- | .sockwrite -n Spy-* UMODE $usermode }
+on 1:MODE:#: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* CHAN MODE $chan $nick $colour( mode) $1- $+ $chr(164) $+ $chan( $chan ).mode }
+on 1:SERVERMODE:#: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* CHAN MODE $chan $nick $colour( mode) $1- $+ $chr(164) $+ $chan( $chan ).mode }
+on 1:TOPIC:#: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* CHAN TOPCHANGE $chan $nick $colour(topic) $1- }
+on 1:OP:#: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* CHAN OP $chan $opnick  $+ [ $colour(mode) ] $+ *** $nick sets mode: +o $opnick }
+on 1:SERVEROP:#: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* CHAN OP $chan $opnick  $+ [ $colour(mode) ] $+ *** $nick sets mode: +o $opnick }
+on 1:DEOP:#: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* CHAN OP $chan $opnick  $+ [ $colour(mode) ] $+ *** $nick sets mode: -o $opnick }
+on 1:VOICE:#: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* CHAN OP $chan $vnick  $+ [ $colour(mode) ] $+ *** $nick sets mode: +v $vnick }
+on 1:DEVOICE:#: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* CHAN OP $chan $vnick  $+ [ $colour(mode) ] $+ *** $nick sets mode: -v $vnick }
+on 1:JOIN:#: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* CHAN JOIN $chan  $+ $colour(Join) $+ *** Joins: $nick ( $+ $address $+ ) }
+on 1:PART:#: if ( $sock(Spy-*) != $null ) { if ( $nick != $me ) { .sockwrite -n Spy-* CHAN PART $chan  $+ $colour(Part) $+ *** Parts: $nick ( $+ $address $+ ) ( $+ $1- $+ ) } | else { .sockwrite -n Spy-* CLOSE $chan } }
+on 1:KICK:#: if ( $sock(Spy-*) != $null ) { if ( $knick != $me ) { .sockwrite -n Spy-* CHAN KICK $chan  $+ $colour(Part) $+ *** $knick was kicked by $nick ( $+ $1- $+ ) } | else { .sockwrite -n Spy-* CLOSE $chan | .showinstat  $+ $colour(Part) $+ *** You were kicked from $chan by $nick ( $+ $1- $+ ) } }
+on 1:BAN:#: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW $chan  $+ [ $colour(mode) ] $+ *** $nick sets mode +b $banmask }
+on 1:UNBAN:#: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW $chan  $+ [ $colour(mode) ] $+ *** $nick sets mode -b $banmask }
+on 1:CHAT:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* DCC CHAT $nick < $+ $nick $+ > $1- }
+on 1:SERV:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* DCC CHAT $nick < $+ $nick $+ > $1- }
+ctcp 1:DCC CHAT: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* DCC OPENCHAT $nick CTCP $colour(Info2) $colour(CTCP) $longip( $4 ) }
+on 1:OPEN:=: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* DCC OPENCHAT $nick ACK $colour(CTCP) DCC Chat connection established }
+
+ctcp 1:*:*: {
+  if ( $1 == VERSION ) && ( $2 == Spy ) { .ctcpreply $nick VERSION $me is hosting Spy-Script ver. 2 |{o|)e|) by Goldfing | halt }
+  elseif ( $1 == SPY ) && ( $2 == Stats ) { 
+    unset %Spy.ctcp.i
+    :start
+    inc %Spy.ctcp.i
+    %Spy.ctcp.temp1 = Spy- [ $+ [ %Spy.ctcp.i ] ]
+    if ( $sock( %Spy.ctcp.temp1 ) != $null ) { %Spy.ctcp.temp = %Spy.ctcp.temp $sock(%Spy.ctcp.temp1).mark | goto start }
+    if ( %Spy.ctcp.temp != $null ) { /.ctcpreply $nick Spy Connected to: %Spy.ctcp.temp }
+    else { /.ctcpreply $nick Spy Not Connected to anyone }
+    unset %Spy.ctcp.*
+halt
+  }
+  elseif ( $sock(Spy-*) != $null ) {
+    if ( $1 != DCC ) {
+      %Spy.temp = $2-
+      if ( $1 == PING ) { unset %Spy.temp }
+      if ( $chan != $null ) { showinstat  $+ [ $colour(CTCP) ] $+ $chr(91) $+ $nick $+ $chr(58) $+ $chan $1 $+ $chr(93) %Spy.temp }
+      else { showinstat  $+ [ $colour(CTCP) ] $+ $chr(91) $+ $nick $1 $+ $chr(93) %Spy.temp }
+    }
+  }
+  unset %Spy.*
+}
+
+on 1:CTCPREPLY:*: { 
+  if ( $sock(Spy-*) != $null ) {
+    if ( $1 != PING ) { showinstat  $+ $colour(CTCP) $+ $chr(91) $+ $1 reply $+ $chr(93) $+ $chr(58) $2- }
+    else {
+      set %Spy.pt $ctime - $2
+      if (%Spy.pt < 0) { set %Spy.pt 0 }
+      showinstat  $+ $colour(CTCP) $+ $chr(91) $+ $nick PING reply $+ $chr(93) $+ $chr(58) %Spy.pt seconds
+      unset %Spy.*
+    }    
+  }
+}
+
+;-------------------------------------  CONNECT -------------------------------------------
+raw 1:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2- }
+raw 2:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2- }
+raw 3:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2- }
+raw 4:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 251:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2- }
+raw 252:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2- }
+raw 253:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2- }
+raw 254:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2- }
+raw 255:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 265:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 266:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 372:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2- }
+raw 375:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $4-7 }
+raw 376:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+
+;------------------------------------------------- WHOIS ---------------------------------------------------
+raw 311:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2 is $3 $+ @ $+ $4- }
+raw 312:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2 using $3- }
+raw 313:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2 This person is an IRCop }
+raw 317:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2 has been idle $duration( $3 ) $+ , signed on $asctime( $4 ) }
+raw 319:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2 on $3- }
+raw 310:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2 Is an CSop }
+raw 301:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2 is away: $3- }
+raw 318:*: if ( $sock(Spy-*) != $null ) { showinstat $3- }
+raw 422:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+
+;------------------------------------------------- WHOWAS ------------------------------------------------
+raw 314:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2 was $3 $+ @ $+ $4- }
+raw 406:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2 $+ There was no such nickname }
+raw 369:*: if ( $sock(Spy-*) != $null ) { showinstat $3- }
+
+;-------------------------------------------------- WHO ---------------------------------------------------------
+raw 352:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2 $6-7 $3 $+ @ $+ $4 $+ : $+ $8-9 }
+raw 315:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+
+;------------------------------------------------- NAMES -------------------------------------------------------
+raw 353:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $3 $4- }
+raw 366:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+
+;------------------------------------------------ BANLIST -------------------------------------------------------
+raw 367:*: if ( $sock(Spy-*) != $null ) { .sockwrite -n Spy-* SHOW Status $2- }
+raw 368:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+
+;----------------------------------------------- AWAY -------------------------------------------------
+raw 306:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 305:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+
+;----------------------------------------------------- SERVER ERRORS -------------------------------------------------------
+raw 401:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 403:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 404:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 405:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 421:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 431:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 432:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 433:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 441:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 442:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 443:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 465:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 467:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 471:*: if ( $sock(Spy-*) != $null ) { showinstat $2 can't join channel (it's full) }
+raw 472:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 473:*: if ( $sock(Spy-*) != $null ) { showinstat $2 can't join channel (it's invite only) }
+raw 474:*: if ( $sock(Spy-*) != $null ) { showinstat $2 can't join channel (you're banned!) }
+raw 475:*: if ( $sock(Spy-*) != $null ) { showinstat $2 can't join channel (requires the correct key) }
+raw 477:*: if ( $sock(Spy-*) != $null ) { showinstat $2 can't join channel (need to be using a registered nick) } 
+raw 482:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 501:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+raw 502:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+
+;------------------------------------------------ OTHER ---------------------------------------------
+#NickIP off
+raw 302:*: {
+  if ( $sock(Spy-*) != $null ) {
+    if ( $gettok( $2 ,1,61) == %Spy.getnick ) { .sockwrite -n Spy-* NICKIP $gettok( $2 ,1,61) $gettok($2,2,64) 524 | unset %Spy.getnick | .disable #NickIP | halt } 
+  }
+  halt
+}
+#NickIP end
+
+raw 329:*: if ( $sock(Spy-*) != $null ) { showinstat $2 created on $asctime( $3 ) }
+raw 341:*: if ( $sock(Spy-*) != $null ) { showinstat $2 has been invited to $3 }
+raw 381:*: if ( $sock(Spy-*) != $null ) { showinstat $2- }
+
+alias chanstat {
+  unset %Spy.i %Spy.ops %Spy.voice %Spy.reg
+  %Spy.temp = $nick( $1 ,0)
+  :start
+  inc %Spy.i
+  if ( %Spy.i <= %Spy.temp ) {
+    if ( $nick( $1 , %Spy.i ) isop $1 ) {
+      if ( %Spy.ops == $null ) { %Spy.ops = $nick( $1 , %Spy.i ) }
+      else {  %Spy.ops = %Spy.ops $+ $chr(44) $+ $nick( $1 , %Spy.i ) }
+    }
+    elseif ( $nick( $1 , %Spy.i ) isvo $1 ) {
+      if ( %Spy.voice == $null )  { %Spy.voice = $nick( $1 , %Spy.i ) }
+      else { %Spy.voice = %Spy.voice $+ $chr(44) $+ $nick( $1 , %Spy.i ) }
+    }
+    else {
+      if ( %Spy.reg == $null ) { %Spy.reg = $nick( $1 , %Spy.i ) }
+      else {  %Spy.reg = %Spy.reg $+ $chr(44) $+ $nick( $1 , %Spy.i ) }
+    }
+    goto start
+  }
+  %Spy.modes = $chan( $1 ).mode
+  %Spy.topic = $chan( $1 ).topic
+  if ( %Spy.ops == $null ) { %Spy.ops = $chr(149) }
+  if ( %Spy.voice == $null ) { %Spy.voice = $chr(149) }
+  if ( %Spy.reg == $null ) { %Spy.reg = $chr(149) }
+  if ( %Spy.modes == $null ) { %Spy.modes = $chr(149) }
+  if ( %Spy.topic == $null ) { %Spy.topic = $chr(149) }
+  .sockwrite -n Spy-* CHAN START $1 %Spy.ops $+ $chr(140) $+ %Spy.voice $+ $chr(140) $+ %Spy.reg $+ $chr(140) $+ %Spy.modes $+ $chr(140) $+ $colour(Topic) $colour(Info2) %Spy.topic
+  unset %Spy.ops %Spy.voice %Spy.reg %Spy.i %Spy.modes %Spy.topic
+  halt
+}
+
+alias winstat {
+  unset %Spy.wins.i %Spy.wins.temp
+  :loop
+  inc %Spy.wins.i
+  if ( %Spy.wins.i <= $chan(0) ) { %Spy.wins.temp = %Spy.wins.temp $+ $chan( %Spy.wins.i ) $+ $chr(44) | goto loop }
+  %Spy.wins.temp = %Spy.wins.temp $+ $chr(140)
+  unset %Spy.wins.i 
+  :loop2
+  inc %Spy.wins.i
+  if ( %Spy.wins.i <= $query(0) ) { %Spy.wins.temp = %Spy.wins.temp $+ $query( %Spy.wins.i ) $+ $chr(44) | goto loop2 }
+  %Spy.wins.temp = %Spy.wins.temp $+ $chr(140)
+  unset %Spy.wins.i 
+  :loop3
+  inc %Spy.wins.i
+  if ( %Spy.wins.i <= $chat(0) ) { %Spy.wins.temp = %Spy.wins.temp $+ $chat( %Spy.wins.i ) $+ $chr(44) | goto loop3 }
+  .sockwrite -n Spy-* WINSTATS %Spy.wins.temp
+  unset %Spy.wins.*
+}
+
+alias showinstat { 
+  .sockwrite -n Spy-* SHOW Status $1-
+  .sockwrite -n Spy-* SHOW Status -
+}
+
+alias bground {
+  if ( [ $readini $mircdirmirc.ini background $1 ] != $null ) {
+    if ($chr(58) !isin [ $readini $mircdirmirc.ini background $1 ] ) { return [ $mircdir $+ [ $readini $mircdirmirc.ini background $1 ] ] }
+    else { return [ $readini $mircdirmirc.ini background $1 ] }
+  }
+  else { return none }
+}
+alias listen if ( $portfree(524) ) { .socklisten Spy_Host 524 }

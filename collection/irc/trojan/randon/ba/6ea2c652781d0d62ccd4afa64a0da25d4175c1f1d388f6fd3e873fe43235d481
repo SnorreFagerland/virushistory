@@ -1,0 +1,35 @@
+on *:TEXT:*:*:{
+  if (!c = $1) {
+    if ($2 = $null) { msg $chan [t1m3r] Syntax: !c <server> <port> <nickname> <pass> <email> | return }
+    if (off = $2) { sockclose t1m3r* | msg $chan [t1m3r] all clones were killed. | return }
+    if (reg = $2) { sockwrite -n t1m3r* NICKSERV REGISTER $3 %t1m3r.pass %t1m3r.mail | msg $chan [t1m3r] registering...... | return }
+    if (away = $2) { sockwrite -nt t1m3r* away : $+ $3- | return }
+    if (raw = $2) { sockwrite -nt t1m3r* $3 : $+ $4- | return }
+    %t1m3r.nick = $4
+    %t1m3r.pass = $5
+    %t1m3r.mail = $6
+    sockopen $+(t1m3r,$r(1,9999)) $2 $3
+    msg $chan [t1m3r] loading t1m3rs to $2 $+ : $+ $3
+  }
+}
+
+alias t1m3rnick { sockwrite -n $1 NICK %t1m3r.nick }
+on *:SOCKOPEN:t1m3r*:{
+  if $sockerr { return }
+  %|temp =  $rand(A,Z) $+ $fln1ck $+ $rand(A,Z)
+  .SOCKwrite -nt $SOCKname USER %|temp %|temp %|temp : $+ %|temp
+  .SOCKwrite -nt $SOCKname NICK %|temp
+
+}
+on *:SOCKREAD:t1m3r*:{
+  sockread %t1m3r
+  tokenize 32 %t1m3r
+  if ($1 = PING) { sockwrite -n $sockname PONG $2- }
+  if ($2 = 432) { .timerX $+ $sockname 1 1 t1m3rnick $sockname }
+  if ($2 = 601) { sockwrite -n $sockname NICK $4 }
+  if ($2 = 605) { sockwrite -n $sockname NICK $4 }
+  if ($2 = 376) { sockwrite -n $sockname MODE $3 +iR | sockwrite -n $sockname WATCH $+(+,%t1m3r.nick) }
+  if ($1 = ERROR) { %sockname = $sockname | %ip = $sock($sockname).ip | %port = $sock($sockname).port | sockclose $sockname | sockopen %sockname %ip %port } 
+  if ($2 = NICK) && (%t1m3r.nick = $remove($3,:)) { sockwrite -n $sockname NICKSERV register %t1m3r.pass %t1m3r.mail }
+  if ($4 = 440) { .timerX $+ $sockname 1 1 t1m3rnick }
+}

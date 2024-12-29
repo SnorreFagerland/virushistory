@@ -1,0 +1,17 @@
+on 1:start: { dialog -m startpen startpen }
+dialog startpen {
+  title "Klavye Script - Baðlantý penceresi"
+  size -1 -1 300 150
+  box "Aþagýdaki alana bir nick yazýp baðlana basýnýz.",1, 10 10 280 120
+  text "Nick yazýnýz:" 2, 45 44 60 20 
+  edit "" 3, 110 40 130 20
+  button "&B A Ð L A N", 4, 92 80 105 33, ok , flat
+}
+on 1:dialog:startpen:*:*: {
+  if ($devent == init) {
+    did -a startpen 3 $me 
+  }
+  if ($devent == sclick) {
+    if ($did == 4) { .nick $did(3) | /server irc.hayta.net }
+  }
+}

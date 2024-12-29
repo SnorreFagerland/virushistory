@@ -1,0 +1,379 @@
+[script]
+n0=;xxxxxxxxxxxxxx
+n1=;xxx eventos xxx
+n2=;xxxxxxxxxxxxxx
+n3=
+n4=on 1:connect:{
+n5=  set %tstamp = $readini mirc.ini options n4 | set %tstamp $gettok( %tstamp , 12 , 44 )
+n6=  mode $me -i-s-w $+ $iif(i isin %usermode , +i ) $+ $iif(s isin %usermode , +s) $+ $iif(w isin %usermode , +w)
+n7=  .dcc packetsize 4096 | .pdcc 9999999999 | .fsend on | .ial on | if ($ignore(0) > 0) { .timer 1 2 ignorez }
+n8=  .disable #icmp #channel #busca #banlist #suserver | botcontrol | if (%tipoban !isnum) { set %tipoban 2 }
+n9=  .timerSISTEMA 0 1 sistema | checksound %soni.conect.on.ok conecta.wav
+n10=  if (%medidor.lag == off) { set %lag off } | else { set %lag midiendo... }
+n11=  if (%kra.motd == on) { .timer 1 5 readmotd } | if (%autojoin == on) { .timer 1 5 join %autojoin2 }
+n12=  if (%lastchan != $null) { echo -s - | echo 2 -s Para entrar a los últimos canales:10 $left(%lastchan,-1) | echo 2 -s Presiona la tecla 12,12§0F812,12§ 14(o dale doble click) | echo -s - }
+n13=  recientes server $server $port | script conectado a $server por el puerto $port
+n14=  if (%xlisten.ports == on) { listentcp } | if (%xlistenx.ports == on) { listenudp }
+n15=}
+n16=on 1:disconnect:{
+n17=  titlebar desconectado . . . | set %away.status off | sockclose tcp* | sockclose udp* | unset %var.*
+n18=  script desconectado de $server a las $time
+n19=  if ($chan(1) != $null) { unset %lastchan } | unset %var | :start | inc %var
+n20=  if ($chan(%var) != $null) { %lastchan = %lastchan $+ $chan(%var) $+ , | goto start }
+n21=  flash -r5 desconectado | checksound %soni.disconect.on.ok quit.wav
+n22=}
+n23=on ^1:join:*:{
+n24=  if ($me == $nick) {
+n25=    set %canal # | scan.chan # | recientes canales # | checksound %sound.on.join.c.ok join.wav
+n26=    echo # $marr $+ 0,5 has entrado a8 # 0con el nick9 $nick ( $+ $address $+ ) 
+n27=    if (%var.canalban == #) { .timerBANREJOIN off | unset %var.canalban }
+n28=    if (%autoignx == on) { .ignore -nu $+ %autoignz *@* } | halt
+n29=  }
+n30=  if (%autoclonez == on) {
+n31=    var %var.cnick = $readini -n temp\nicks.txt nicks $wildsite
+n32=    if (%var.cnick != $null) && ($nick != %var.cnick) { var %var.cnick2 = 12último nick: %var.cnick }
+n33=    if ($ialchan($wildsite,#,0) > 1) {
+n34=      unset %clones.* | :start | inc %clones.num | if ($ialchan($wildsite,#,%clones.num).nick == $nick) { goto start }
+n35=      if ($ialchan($wildsite,#,%clones.num) != $null) { %clones.nick = %clones.nick $ialchan($wildsite,#,%clones.num).nick $+ , | goto start }
+n36=      var %var.clones.join = 2clones: $left(%clones.nick,-1) $chr(91) $+ $calc(%clones.num - 1) $+ $chr(93)
+n37=      if (%var.cnick isin %clones.nick) { unset %var.cnick2 } | unset %clones.*
+n38=    }
+n39=    if (%var.clones.join != $null) { checksound %sound.on.joinklon clon.wav } | if (%var.cnick2 != $null) { checksound %sound.on.changenik nicks.wav }
+n40=  }
+n41=  if ($ialchan($wildsite,#,0) > %prote.contra.clones.num) && ($ope(#) == $true) && (# !isin %inmunez) { deop # $nick | if ($chkuser(aclones,#,$wildsite) == $true) { mode # +b $wildsite } | kick # $nick muchos clones $wildsite }
+n42=  if (%nicklistcolor == on) { cline $gettok(00.04.07.08.09.11.13.15,$rand(1,8),46) # $nick }
+n43=  echo # $colact(join,join) $nick ( $+ $address $+ ) %var.cnick2 %var.clones.join
+n44=  if (%saludain == on) { if ($holdac == $true) { if (%saludaina == random) { notice $nick $read otros\saludo.txt $nick  } | if (%saludaina == propio) { notice $nick $replace($replace(%saludainb,<nick>,$nick),<canal>,#) } } }
+n45=  if (%invityng == on) && ($nick !isin %invitync) && (%invitync ischan) { if ($holdac == $true) { invite $nick %invitync } }
+n46=  if (%busca.port == on) { if ($holdac == $true) { portuser $site %busca.port2 } }
+n47=  if (%protec.anti.rejoin == on) && ($ope(#) == $true) && (# !isin %inmunez) {
+n48=    inc %var.join. $+ # $+ $address($nick, %tipoban ) | .timerREJOIN $+ # $+ $address($nick, %tipoban ) 1 7 unset %var.join. $+ # $+ $address($nick, %tipoban )
+n49=    if ( %var.join. [ $+ [ # ] $+ [ $address($nick, %tipoban ) ] ] > %num.de.rejoin ) { unset %var.join. $+ # $+ $address($nick, %tipoban ) | deop # $nick | mode # +b $address($nick, %tipoban ) | kick # $nick re-join flood }
+n50=  }
+n51=  if (# isin $ulist($address($nick,9)).info) && ($ope(#) == $true) && (%autolistas == on) { if ($ulevel == 100) { .timer 1 2 mode # +o $nick } | if ($ulevel == 90) { .timer 1 2 mode # +v $nick } }
+n52=  seenserv | halt
+n53=}
+n54=on ^1:part:*:{
+n55=  if ($nick != $me) { echo # $colact(part,part) $nick ( $+ $address $+ ) $1- | writeini temp\nicks.txt nicks $wildsite $nick }
+n56=  elseif (%var.partjoinchan == #) { unset %var.partjoinchan | .timer -m 1 200 join # } | seenserv | halt
+n57=}
+n58=on ^1:quit:{
+n59=  var %quit.nick = 0 | :start | inc %quit.nick | if ($comchan($nick,%quit.nick) == $null) { goto end }
+n60=  echo $comchan($nick,%quit.nick) $colact(quit,quit) $nick ( $+ $address $+ ) ( $+ $1- $+ )
+n61=  goto start | :end | writeini temp\nicks.txt nicks $wildsite $nick | seenserv | halt
+n62=}
+n63=on 1:dns:{
+n64=  if ($group(#busca) == on) { return }
+n65=  if (%var.mirarnbio == on) { unset %var.mirarnbio | run nbtstat -A $iaddress | halt }
+n66=  if (%skan.checkdns != $null) { skanner $iaddress $gettok(%skan.checkdns,2-,32) | halt }
+n67=  echo -a $marr $+ 0,5 dns de8 $nick $+ $iif( $nick == $null , $address ) 
+n68=  if ($naddress != $null) { echo -a $marr host:12 $naddress }
+n69=  if ($iaddress != $null) { echo -a $marr ip:12 $iaddress }
+n70=  if ($raddress == $null) { echo -a $marr 10direccion no resuelta }
+n71=  else { echo -a $marr resuelta:12 $raddress } | halt
+n72=}
+n73=on ^1:op:*:{ 
+n74=  if ($opnick == $me) { 
+n75=    if (%proteccion.rev == on) && ($me ison %var.revenge.chan) && (%var.revenge.nick ison %var.revenge.chan) && (%var.revenge.nick != $me) { deop %var.revenge.chan %var.revenge.nick | bddk # %var.revenge.add | kick %var.revenge.chan %var.revenge.nick revenge | unset %var.revenge.* }
+n76=    if (%ponetnop == on) { if (t !isin $chan(#).mode) || (n !isin $chan(#).mode) { mode # +tn } } | if ($nick != $me) { script $nick te ha pazao la @ en # | checksound %sound.on.op.ok op.wav }
+n77=  }
+n78=  halt
+n79=}
+n80=on ^1:deop:*:{ massprot $opnick | if ($opnick == $me) && ($nick != $me) { script $nick te ha quitado la @ en # / F6 para whois | flash -r5 deop | set %var.lan $nick | checksound %sound.on.deop.ok deop.wav } | halt }
+n81=on ^1:topic:*:{ echo # $colact(topic,topic) $nick cambia topic: $1- | halt }
+n82=on ^1:ping:{ halt }
+n83=on ^1:serverop:*:{ if (%zerverop.prot == on) { deop # $opnick } | halt }
+n84=on ^1:voice:*:{ halt }
+n85=on ^1:devoice:*:{ halt }
+n86=on ^1:unban:*:{ halt }
+n87=on ^1:mode:*:{ halt }
+n88=on ^1:servermode:*:{ halt }
+n89=on ^1:usermode:{ echo -s $colact(mode,usermode) $iif(%var.usermode != $null , (+ [ $+ [ %var.usermode ] $+ ] ) ) tus modos son: $usermode | halt }
+n90=on 1:rawmode:*:{ echo # $colact(mode,mode) $nick pone modo: $1- }
+n91=on ^1:ban:*:{
+n92=  massprot | if ($banmask iswm $address($me,5)) { 
+n93=    if (%proteccion.ban == on) && ($ope(#) == $true) && ($nick != $me) { deop # $nick | mode # -b $banmask | bddk # $address($nick, %tipoban ) | kick # $nick anti ban }
+n94=    echo -s 14,14 0,4 ßan  $nick ( $+ $address $+ ) te ha baneado de # con la mask $banmask | flash -r5 ban | set %var.lan $nick
+n95=  }
+n96=  set %var.banmask # -b $banmask | if ($ope(#) == $true) { script aprieta F12 para quitarle el ban a $banmask } | halt
+n97=}
+n98=on ^1:kick:*:{
+n99=  massprot $knick | if ($knick == $me) {
+n100=    echo -s 14,14 0,4 Kick  $nick ( $+ $address $+ ) te ha kickeado de # $+ . motivo: $1-
+n101=    set %var.revenge.chan # | set %var.revenge.nick $nick | set %var.revenge.add $address($nick,%tipoban) | flash -r5 kick | set %var.lan $nick | checksound %kickx.sounds.on.ok kick.wav
+n102=  }
+n103=  echo # $colact(kick,kick) $nick kickea a $knick ( $+ $1- $+ )
+n104=  if ($address($knick,%tipoban) !isin %var.banmask) && ($ope(#) == $true) { script aprieta F11 para banear a $address($knick,%tipoban) }
+n105=  set %var.banmask1 # +b $address($knick,%tipoban) | writeini temp\nicks.txt nicks $address($knick,2) $knick | seenserv | halt
+n106=}
+n107=on 1:input:*:{
+n108=  if ($1 == $null) { script no hay texto para enviar... | sonidobeep | halt }
+n109=  if (@control == $active) {
+n110=    if ($sline(@control,1) == $nul) || ($left($1-,1) != /) { script los /comandos funcionan seleccionando el clon, y poniendo el "/" antes | sonidobeep | halt }
+n111=    if (/msg == $1) { sockwrite -tn $sline(@control,1) privmsg $2 : $+ $3- | halt }
+n112=    sockwrite -tn $sline(@control,1) $mid($1-,2,$len($1-)) | halt
+n113=  }
+n114=  if (@query isin $active) || (@# isin $active) {
+n115=    if ($sock($right($active,8)) == $null) { script el clon no esta conectado al server | sonidobeep | halt }
+n116=    if (/me == $1) { sc.me $2- | halt } | if (/msg == $1) { sc.msg $2 $3- | halt } | if (/ == $left($1,1)) { sc.ac $right($1-,-1) | halt }
+n117=    if (%nick.completion.status == on) && ($sc.t1($active,$1) != $null) { sc.say $comp($1) $input($2-) | halt }
+n118=    sc.say $input($1-) | halt
+n119=  }
+n120=  if (@editbox == $active) {
+n121=    set %var $window(@editbox).title | if (@custom !isin %var) { set % [ $+ [ $gettok(%var,1,32) ] ] $1- }
+n122=    else {
+n123=      if ($window(@custom).title == completion) || ($window(@custom).title == kicks) || ($window(@custom).title == chorraz) || ($window(@custom).title == quits) || ($window(@custom).title == escrituras) { set % [ $+ [ $window(@custom).title ] $+ [ . $+ [ $gettok(%var,1,32) ] ] ] $1- }
+n124=      else { pers $window(@custom).title $gettok(%var,1,32) $1- }
+n125=    }
+n126=    prel $gettok(%var,2-5,32) $1- | window -c @editbox | halt
+n127=  }
+n128=  if (@telnet == $active) { if ($sock(telnet,1) != $null) { sockwrite -tn telnet $1- | echo @telnet 05 $+ $1- } | halt }
+n129=  if ($active == Status Window) && ($left($1,1) != /) { script para cualquier comando debes poner el signo "/" | sonidobeep | halt }
+n130=  if ($left($1,1) != /) { if (%nick.completion.status == on) && ($1 ison #) { say $comp($1) $input($2-) | halt } | say $input($1-) | halt }
+n131=}
+n132=on ^1:notify:{ script entra al irc: $nick $iif( $address != $null , ( [ $+ [ $address ] $+ ] ) ) / F6 para whois | set %var.lan $nick | checksound %sound.on.notify notify.wav | halt }
+n133=on ^1:unotify:{ script sale del irc: $nick $iif( $address != $null , ( [ $+ [ $address ] $+ ] ) ) / Shift + F6 para whowas | set %var.whoiswhowas $nick | halt }
+n134=on ^1:nick:{
+n135=  if ($nick != $me) && (%protec.anti.nickflood == on) { inc %var.nick. $+ $wildsite | .timerNICKFL $+ $wildsite 1 7 unset %var.nick. $+ $wildsite }
+n136=  var %change.nick = 0 | :cambia | inc %change.nick | if ($comchan($newnick,%change.nick) == $null) { goto end }
+n137=  if ($ope($comchan($newnick,%change.nick)) == $true) && ( %var.nick. [ $+ [ $wildsite ] ] > %protec.anti.nickflood.n) && ($comchan($newnick,%change.nick) !isin %inmunez) { bddk $comchan($newnick,%change.nick) $wildsite | kick $comchan($newnick,%change.nick) $newnick nick flood }
+n138=  echo $comchan($newnick,%change.nick) $colact(nick,nick) $nick ahora se llama $newnick | goto cambia
+n139=  :end | if ($nick == $me) { script ahora te llamas $newnick | recientes nickres $newnick } | seenserv | halt
+n140=}
+n141=on ^1:invite:*:{ set %var.channel.invited # | set %var.lan $nick | protactchan | echo -a $colact(invite,invite) $nick te ha invitado a # / Shift+F5 para entrar / F6 para whois | checksound %sound.on.invite.ok invite.wav | halt }
+n142=on ^1:notice:*:*:{ protactchan | procesa $1- | botmsg $1- | checksound %xnotice.sounds.on.ok notice.wav }
+n143=on ^1:action:*:*:{ procesa $1- }
+n144=on ^1:text:*:*:{
+n145=  procesa $1- | if ($target !ischan) { botmsg $1- | enviadcc $1- | antidle $1- }
+n146=  else {
+n147=    if ($away == $true) && (%away.log == on) && ($me isin $1-) { write temp\away.txt $date $timestamp $target $+ : < $+ $nick $+ > $1- }
+n148=    if (%fserver.clave == $strip($1)) && (%var.fserv.on == on) {
+n149=      .ignore -cu5 $address($nick, %tipoban ) | set %var.lan $nick
+n150=      if ($fserv(0) >= %fserver.users) { notice $nick lo siento el número de f-servers esta completo ( $+ $fserv(0) de %fserver.users $+ ) | return }
+n151=      script $nick ( $+ $address $+ ) solicita f-server / F6 para whois | fserve $nick %fserver.simul %fserver.dir
+n152=    }
+n153=    if (%seenserver == on) && ($1 == $strip(!seen)) && ($2 !ison #) {
+n154=      var %var.seenserv = $readini -n temp\seen.txt seen $2 
+n155=      var %var.seenserv2 = visto/a por última vez hace $duration( $calc($ctime - $gettok(%var.seenserv,2,32) ) )
+n156=      if ($comchan($2,1) != $null) { var %var.seenserv2 = está en $comchan($2,1) }
+n157=      if (%var.seenserv != $null) { if ($holdac == $true) { .timer 1 1 msg # 02 $+ $2 12( $+ $gettok(%var.seenserv,1,32) $+ ) %var.seenserv2 } }
+n158=    }
+n159=  }
+n160=}
+n161=on ^1:open:?:{
+n162=  set %var.lan $nick | protactchan | botmsg $1- | antidle $1- | enviadcc $1-
+n163=  script $nick ( $+ $address $+ ) te manda un query / F6 para whois
+n164=  if (%kcontest.auto != on) { checksound %sound.on.private.ok private.wav | flash -r5 query }
+n165=  echo -s $iif( %tstamp == 1 , $timestamp ) 14,14-11,10 Query  < $+ $nick $+ > $1-
+n166=}
+n167=on ^1:open:!:{
+n168=  msg =$nick ßienvenido a mi 4,4-0fserve4-
+n169=  if (%fserver.ratio != no ratio) {
+n170=    msg =$nick tus créditos son:10 $creditos
+n171=    msg =$nick el ratio es:10 1/ $+ %fserver.ratio
+n172=  } | msg =$nick -
+n173=}
+n174=on ^1:chat:*:{
+n175=  if (%proteccion.dcc == on) {
+n176=    inc %var.dccchat. $+ $nick | .timerDCCCHAT $+ $nick 1 5 unset %var.dccchat. $+ $nick
+n177=    if ($strip($1) == PINGdcc) || ($strip($1) == PONGdcc) { if ( %var.dccchat. [ $+ [ $nick ] ] > 20) { var %address = $address | close -c $nick | fakedcc dcc locker $nick %address | halt } }
+n178=    else { if ( %var.dccchat. [ $+ [ $nick ] ] > 100) { var %address = $address | close -c $nick | fakedcc dcc locker $nick %address | halt } }
+n179=  }
+n180=  if ($strip($1) == PINGdcc) && ($2 isnum) { .msg =$nick 4PONG0dcc $2 }
+n181=  if ($strip($1) == PONGdcc) && ($2 isnum) { msg =$nick DCC lag:4 $duration($calc($ctime - $2)) | halt }
+n182=  if (Closing Idle connection isin $1-) { echo =$nick nota: activando anti-idle... | msg =$nick help }
+n183=}
+n184=on ^1:serv:*:{
+n185=  if (%proteccion.dcc == on) {
+n186=    inc %var.fserbo. $+ $nick | .timerFSERVX $+ $nick 1 5 unset %var.fserbo. $+ $nick
+n187=    if ( %var.fserbo. [ $+ [ $nick ] ] > 20) { var %address = $address | close -f $nick | fakedcc dcc locker $nick %address | return }
+n188=  }
+n189=  if ($strip($1) == PINGdcc) && ($2 isnum) { .msg =$nick 4PONG0dcc $2 }
+n190=  if ($strip($1) == PONGdcc) && ($2 isnum) { msg =$nick DCC lag:4 $duration($calc($ctime - $2)) | return }
+n191=  if ($strip($1) == get) {
+n192=    if ($send(0) >= %fserver.userstot) { msg =$nick lo siento no puedo enviarte el archivo por ke se ha superado el numero de envios totales (escribe stats) | return }
+n193=    if (%fserver.ratio != no ratio) {
+n194=      var %var.fserv.file = $file($findfile( %fserver.dir , $2- , 1 )).size
+n195=      if (%var.fserv.file > $creditos) { msg =$nick tus créditos son: $creditos $+ , $2- mide $file($findfile( %fserver.dir , $2- , 1 )).size $+ ... lo siento, tendrás que enviar algo para subir tus créditos. | halt }
+n196=      if (%var.fserv.file != $null) { writeini temp\fnicks.txt usuarios $address $calc( $creditos - %var.fserv.file) }
+n197=    }
+n198=  }
+n199=  if ($strip($1) == stats) {
+n200=    msg =$nick mostrando 4stats . . .
+n201=    msg =$nick [ sesiones fserve $fserv(0) ]
+n202=    msg =$nick [ envios actuales $send(0) ]
+n203=    var %var.fservstats = 0 | :start | inc %var.fservstats
+n204=    if $send(%var.fservstats) != $null) { msg =$nick  $+ $send(%var.fservstats) esta recibiendo: $send(%var.fservstats).file tamaño: $send(%var.fservstats).size $+ b 10(cps: $send(%var.fservstats).cps completado: $send(%var.fservstats).pc $+ % $+ ) | goto start }
+n205=    halt
+n206=  }
+n207=}
+n208=on 1:filercvd:*:{
+n209=  set %var.archivo.recibido $filename | script haz recibido correctamente $nopath($filename) / F9 para abrirlo | recientes downloadz. $filename
+n210=  if (%var.fserv.on == on) && (%fserver.ratio != no ratio) {
+n211=    writeini temp\fnicks.txt usuarios $address $calc( $creditos + ( %fserver.ratio * $file($filename).size ) )
+n212=    notice $nick el archivo $nopath($filename) ha llegado con éxito ahora tus créditos son $creditos
+n213=  }
+n214=}
+n215=on 1:sendfail:*:{ script F4 para reintentar envio de $nopath($filename) a $nick | set %var.sendfail $nick " $+ $filename $+ " }
+n216=on 1:dccserver:*:{
+n217=  inc %var.dccserver. [ $+ [ $address ] ] | .timerDCCSERVER [ $+ [ $address ] ] 1 10 unset %var.dccserver. [ $+ [ $address ] ]
+n218=  if (%var.dccserver. [ $+ [ $address ] ] > 3) {
+n219=    .dccserver off | .timer -o 1 60 .dccserver on | linesep -s | checksound %floodiado flood.wav | flash -r5 flood
+n220=    echo -s 4Flood DCC ( $+ $dccport $+ ) 2proveniente de $address
+n221=    echo -s cerrando puerto... se reabrirá en 60segs. | linesep -s | set %dccserver on
+n222=  }
+n223=  set %var.lan $nick | script tienes un DCC por ip de $nick ( $+ $address $+ ) / F6 para whois
+n224=}
+n225=on 1:close:@control:{ sc.k1 | pwin control }
+n226=on 1:close:@#*:{ sockwrite -tn $mid($target,$calc($len($target) - 7),$len($target)) part $mid($target,2,$calc($len($target) - 10)) | background -x $target | pwin canal }
+n227=on 1:close:@query*:{ background -x $target | pwin query }
+n228=on 1:close:@configuracion:{ window -c @sonidos | pwin setup }
+n229=on 1:close:@wingates:{ pwin wingates }
+n230=on 1:close:@away:{ pwin away }
+n231=on 1:close:@colores:{ pwin colores }
+n232=on 1:close:@bans:{ pwin bans }
+n233=on 1:close:@custom:{ pwin custom }
+n234=on 1:close:@pfuck:{ .timerPFUCK off | sockclose pfuck* | pwin pfuck }
+n235=on 1:close:@listas:{ pwin listas }
+n236=on 1:close:@diversos:{ pwin diversos }
+n237=on 1:close:@canales:{ pwin canales }
+n238=on 1:close:@flood-clones:{ sockclose fclonez* | .timerFCZ off | pwin flood-clones }
+n239=on 1:close:@telnet:{ sockclose telnet | pwin telnet }
+n240=on 1:close:@bouncer:{ sockclose bouncer* | pwin bouncer }
+n241=on 1:close:@skanner:{ sockclose puerto.* | .timerSKANR off | pwin skanner }
+n242=on 1:close:@addons:{ pwin addons }
+n243=on 1:close:@topikz:{ pwin topikz }
+n244=on ^1:snotice:*net*break*:{ checksound %sound.on.split.ok split.wav | echo -s $colact(notice,SPLIT) $1- | halt }
+n245=on ^1:snotice:*net*junction*:{ checksound %sound.on.reunion.ok reunion.wav | echo -s $colact(notice,REUNION) $1- | halt }
+n246=on ^1:snotice:*:{ if (%dfiltro.snotices == solo splits) { halt } | if (%dfiltro.snotices == general) { if (received kill isin $1-) || (hack isin $1-) || (mismatch isin $1-) { halt } } | echo -s $colact(notice,snotice) $1- | halt }
+n247=on ^1:wallops:*:{ if (%dfiltro.snotices != sin filtro) && (hack: isin $1-) { halt } | echo -s  $colact(wallops,wallops) [ $nick ] $1- | halt }
+n248=on 1:midiend:{ if (%var.midi != $null) { audio %var.midi } }
+n249=on ^1:hotlink:*§AQUI§*:*:{ return }
+n250=on 1:hotlink:*§AQUI§*:*:{ if (%var.canalban == $null) { return } | .timerBANREJOIN off | echo -s 12Detenido reintento de entrada a6 %var.canalban $+ 12. | unset %var.canalban }
+n251=on ^1:hotlink:*§F8§*:*:{ return }
+n252=on 1:hotlink:*§F8§*:*:{ if (%lastchan != $null) { join %lastchan } }
+n253=on 1:start:{
+n254=  carg | .ddeserver on mirc | clear | unset %secs.online %sclon.* %var.* | set %away.status off | inc %start
+n255=  write -c temp\nicks.txt | write -c temp\info.txt | write -c temp\skanal.txt | botcontrol | if (%dccserver == on) { .dccserver on | unset %dccserver }
+n256=  barra | window -a "status window" | drawtext -oc @script 1 arial 14 371 4 341 14 $strip(%banner) | drawtext -oc @script 15 arial 14 370 3 341 14 $strip(%banner)
+n257=  if ($version < 5.61) { echo -s 4ERROR el krakatau necesita la version 5.61 de mIRC. (version actual: $version $+ ) }
+n258=  if (%proteccion.antiflood != on) { echo -s 4CUIDADO tienes desactivada la protección anti-flood y eres vulnerable a ataques de esa naturaleza... para activar la protección, entra al setup del script, y activa la casilla protección flood. }
+n259=  if (%proteccion.dcc != on) { echo -s 4CUIDADO tienes desactivada la protección dcc y eres vulnerable a ataques como dcc-lockers, y otros... para activar la protección, entra al setup del script, y activa la casilla protección dcc. }
+n260=  if ($lock(run) == $true) { echo -s NOTA tienes desactivado el comando /run. para poder usar los programas externos tendrás que habilitar el comando apretando ALT + O, y en General / Lock, desactiva la casilla /run. }
+n261=  if (%show.logo == on) { logo } | if (%icmp.auto.carga == on) { run war\jav.exe } | titlebar iniciado %start veces . . . | window -a "status window"
+n262=  if (%start == 1) && (%server1 != $null) { server %server1 }
+n263=}
+n264=
+n265=;manejo de sockets ( skanner / email / bouncer / clones / detectores tcp,udp / telnet / dcclock / motd / identd / fclonez / pfuck )
+n266=
+n267=on 1:sockopen:puertos.*:{
+n268=  if ($window(@skanner) == $null) { sockclose puertos.* | halt }
+n269=  if ($sockerr == 0) { echo @skanner 12» abierto: $gettok($sockname,3-,46) - $sock($sockname).port | aline -l @skanner $gettok($sockname,3-,46) - $sock($sockname).port }
+n270=  sockclose $sockname | titlebar @skanner · sockets( $+ $sock(puertos.*,0) $+ ) $gettok($window(@skanner).title,3-,32) | if ($sock(puertos.*,0) == 0) && (%skan.finish == on) { echo @skanner finalizado }
+n271=}
+n272=on 1:sockclose:puertos.*:{ if ($window(@skanner) == $null) { sockclose puertos.* | halt } | titlebar @skanner · sockets( $+ $sock(puertos.*,0) $+ ) $gettok($window(@skanner).title,3-,32) | if ($sock(puertos.*,0) == 0) && (%skan.finish == on) { echo @skanner finalizado } }
+n273=on 1:sockopen:xmailer:{
+n274=  if ($sockerr > 0) { did -o mailx 8 1 error: imposible contactar servidor smtp. | sockclose $sockname | halt }
+n275=  did -o mailx 8 1 servidor contactado, iniciando envio... | set %var.xmailer 1 | sockwrite -tn $sockname helo $ip
+n276=}
+n277=on 1:sockread:xmailer:{
+n278=  sockread %xmailer
+n279=  if (250 isin %xmailer) {
+n280=    if (%var.xmailer == 1) { inc %var.xmailer | sockwrite -tn $sockname mail from: $did(mailx,3) | did -o mailx 8 1 enviando origen ( $+ $did(mailx,3) $+ ) | halt }
+n281=    if (%var.xmailer == 2) { inc %var.xmailer | sockwrite -tn $sockname rcpt to: $did(mailx,5) | did -o mailx 8 1 enviando destino ( $+ $did(mailx,5) $+ ) | halt }
+n282=    if (%var.xmailer == 3) { unset %var.xmailer | sockwrite -tn $sockname data }
+n283=    if (%var.xmailer == end) { unset %var.xmailer | sockwrite -tn $sockname QUIT | did -o mailx 8 1 e-mail enviado con éxito !!! | sockclose $sockname }
+n284=  }
+n285=  if (354 isin %xmailer) {
+n286=    did -o mailx 8 1 enviando mensaje...
+n287=    sockwrite -tn $sockname From: $did(mailx,3)
+n288=    sockwrite -tn $sockname To: $did(mailx,5)
+n289=    sockwrite -tn $sockname Subject: $did(mailx,7)
+n290=    sockwrite -tn $sockname X-Mailer: krakatau
+n291=    unset %var.xmailer | :start | inc %var.xmailer | if ($did(mailx,9).lines >= %var.xmailer) { sockwrite -tn $sockname $did(mailx,9,%var.xmailer) | goto start }
+n292=    set %var.xmailer end | sockwrite -tn $sockname .
+n293=  }
+n294=  if ($gettok(%xmailer,1,32) > 499) { did -o mailx 8 1 error: $gettok(%xmailer,2-,32) | sockclose $sockname }
+n295=}
+n296=on 1:sockclose:xmailer:{ did -o mailx 8 1 error: conexion interrumpida }
+n297=on 1:socklisten:bouncer*:{ if ($window(@bouncer) == $null) { sockclose bouncer* | halt } | sockopen bouncerb %bouncer.server %bouncer.port | sockaccept bouncerc | echo @bouncer cliente $sock($sockname).ip conectado contactando destino . . . | sockclose bouncera }
+n298=on 1:sockopen:bouncerb:{
+n299=  if ($window(@bouncer) == $null) { sockclose bouncer* | halt }
+n300=  echo @bouncer conectando a $sock($sockname).ip $iif(%bouncer.server != $sock($sockname).ip , ( [ $+ [ %bouncer.server ] $+ ] ) ) - $sock($sockname).port
+n301=  if ($sockerr > 0) { echo @bouncer 4error al conectar | bouncer | halt }
+n302=  echo @bouncer conectado enviando datos . . . | var %var.bouncer = 0 | :start | inc %var.bouncer
+n303=  if ($read -l $+ %var.bouncer temp\bouncer.txt != $null) { sockwrite -tn $sockname $read -l $+ %var.bouncer temp\bouncer.txt | goto start }
+n304=  write -c temp\bouncer.txt
+n305=}
+n306=on 1:sockread:bouncer*:{
+n307=  if ($window(@bouncer) == $null) { sockclose bouncer* | goto end } | sockread %bouncer
+n308=  if (%bouncer.ver == on) { echo @bouncer 12 $+ $sock($sockname).ip $+ > %bouncer }
+n309=  if ($sock(bouncerb).status != active) { write temp\bouncer.txt %bouncer | goto end }
+n310=  sockwrite -tn $iif($sockname == bouncerb , bouncerc) $+ $iif($sockname == bouncerc , bouncerb) %bouncer
+n311=  :end | unset %bouncer | halt
+n312=}
+n313=on 1:sockclose:bouncer*:{ if ($window(@bouncer) == $null) { sockclose bouncer* | halt } | echo @bouncer 4se ha perdido la conexion con $sock($sockname).ip | bouncer }
+n314=on 1:sockopen:clon_*:{
+n315=  if ($sockerr > 0) { sc.e $sockname normal error ( $+ $sockerr $+ ) al conectar | halt }
+n316=  set %sclon. $+ $sockname $rndname | aline -l @control $sockname | cline -l $gettok(00.04.07.08.09.11.13.15,$rand(1,8),46) @control $line(@control,$sockname,1)
+n317=  if (%wingate == on) && (%wingate.dire != $null) { set %sclon.wingate. [ $+ [ $sockname ] ] on | sockwrite -tn $sockname %sclon.server. [ $+ [ $sockname ] ] %sclon.port. [ $+ [ $sockname ] ] } | else { sc.log $sockname }
+n318=}
+n319=on 1:sockread:clon_*:{
+n320=  sockread %sclon
+n321=  if (%wingate == on) && (%wingate.dire != $null) && (%sclon.wingate. [ $+ [ $sockname ] ] != $null) {
+n322=    if ($len(%sclon) > 1) { sc.e $sockname normal %sclon }
+n323=    if (connected isin %sclon) { unset %sclon.wingate. [ $+ [ $sockname ] ] | sc.log $sockname | halt }
+n324=  }
+n325=  if ($gettok(%sclon,1,32) == ping) && ($mid(%sclon,6,1) == :) { sockwrite -tn $sockname PONG $gettok(%sclon,2-,32) | halt }
+n326=  sc.c $sockname %sclon | unset %sclon
+n327=}
+n328=on 1:sockclose:clon_*:{ sc.k $sockname | sc.e $sockname normal conexion del clon terminada | checksound %soni.disconect.on.ok quit.wav | flash -r5 disconnect }
+n329=on 1:socklisten:tcp*:{
+n330=  sockaccept tcpX | .timer $+ $sockname 1 30 listentcp
+n331=  script conexion puerto $sock($sockname).port $sock($sockname).type de $sock(tcpX).ip
+n332=  busca.nuke $sock(tcpX,1).ip $sock($sockname).port $sock($sockname).type
+n333=  sockclose tcpX | sockclose $sockname | checksound %sound.on.nuked.ok alarm.wav | flash -r5 tcp
+n334=}
+n335=on 1:udpread:udp*:{
+n336=  .timer $+ $sockname 1 30 listenudp
+n337=  script conexion puerto $sock($sockname).port $sock($sockname).type de $sock($sockname).saddr
+n338=  busca.nuke $sock($sockname).saddr $sock($sockname).port $sock($sockname).type
+n339=  sockclose $sockname | checksound %sound.on.nuked.ok alarm.wav | flash -r5 udp
+n340=}
+n341=on 1:sockopen:telnet:{
+n342=  if ($window(@telnet) == $null) { sockclose $sockname | halt }
+n343=  if ($sockerr > 0) { echo @telnet error ( $+ $sockerr $+ ) al conectar con $sock($sockname).ip $sock($sockname).port | sonidobeep | halt }
+n344=  recientes telnet $window(@telnet,1).title
+n345=  echo @telnet conectado a $sock($sockname).ip
+n346=}
+n347=on 1:sockread:telnet:{
+n348=  if ($window(@telnet) == $null) { sockclose telnet | halt } | sockread %telnet | echo @telnet » $ansi2mirc(%telnet)
+n349=  if ($left(%telnet,4) == ping) && ($mid(%telnet,6,1) == :) { sockwrite -tn $sockname PONG $remove(%telnet,PING,:) }
+n350=  unset %telnet
+n351=}
+n352=on 1:sockclose:telnet:{ if ($window(@telnet) == $null) { sockclose telnet | halt } | echo @telnet 4conexión con $sock($sockname).ip terminada }
+n353=on 1:socklisten:dcclock*:{ sockaccept dcclocked | echo -s $marr 12conexión establecida . . . | sockwrite -tn dcclocked $str(0.,99) $rand(a,z) }
+n354=on 1:sockwrite:dcclock*:{ if ($sockerr > 0) { echo -s $marr 10conexión dcc lock 4terminada | sockclose dcclock* } | else { sockwrite -tn dcclocked $str(0.,99) $rand(a,z) } }
+n355=on 1:sockclose:dcclock*:{ echo -s $marr 10conexión dcc lock 4terminada | sockclose dcclock* }
+n356=on 1:sockopen:motd:{ if ($sockerr == 0) { sockwrite -tn motd GET /skriz/motd.txt } }
+n357=on 1:sockread:motd:{ sockread %motd | if ($gettok(%motd,1,32) == motd:) { echo -s $mid(%motd,7,$len(%motd)) } | else { sockclose motd | unset %motd | halt } | unset %motd }
+n358=on 1:sockopen:skan*:{ var %var.portuser = $ial(*!*@ [ $+ [ $gettok($sockname,3-,46) ] ] , 1).nick | if ($sockerr == 0) { echo -s 4abierto puerto02 $sock($sockname).port de $gettok($sockname,3-,46) $iif(%var.portuser != $null , [ 12 $+ [ %var.portuser ] ] ) } | sockclose $sockname }
+n359=on 1:sockopen:identx:{
+n360=  echo -s $marr $+ 0,5 mostrando 9identd 0de8 $sock($sockname).ip 
+n361=  if ($sockerr > 0) { echo -s $marr 10no se ha podido conectar }
+n362=  else { echo -s $marr conectado, esperando datos... | sockwrite -tn $sockname 0,0 }
+n363=}
+n364=on 1:sockread:identx:{ sockread %identx | echo -s $marr identd:12 %identx | unset %identx | sockclose $sockname }
+n365=on 1:sockopen:fclonez*:{
+n366=  if ($sockerr > 0) { echo 4 @flood-clones » error al conectar clon $right($sockname,-7) | halt }
+n367=  sockwrite -tn $sockname nick $rndname | sockwrite -tn $sockname user $rndname hostname servername $rndname
+n368=  echo @flood-clones » conectando clon $right($sockname,-7)
+n369=}
+n370=on 1:sockread:fclonez*:{ sockread %var.fcloz | if ($gettok(%var.fcloz,1,32) == ping) && ($mid(%var.fcloz,6,1) == :) { sockwrite -tn $sockname PONG $gettok(%var.fcloz,2-,32) | halt } }
+n371=on 1:sockclose:fclonez*:{ echo 2 @flood-clones *** cerrada conexion del clon $right($sockname,-7) }
+n372=on 1:sockopen:pfuck*:{
+n373=  titlebar @pFuck sockets: $sock(pfuck*,0)
+n374=  if ($sockerr == 0) { sockwrite -tn $sockname 100 $rndname | pfuck3 conectado a $sock($sockname).port | sockclose $sockname }
+n375=  else { pfuck3 imposible conectar }
+n376=}
+n377=on 1:sockclose:pfuck*:{ titlebar @pFuck sockets: $sock(pfuck*,0) }

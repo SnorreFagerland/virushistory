@@ -1,0 +1,290 @@
+[script]
+n0=; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+n1=; Clone Manager v1.2
+n2=; Programmed by Sir MixALot  - ©1999
+n3=; Bug reports, coments...anything you want, to awesome@mailbr.com.br
+n4=; Visit me in #scriptx on irc.trix.net port 6667 and send a memo to MixALot ok?
+n5=; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+n6=
+n7=alias clone.connected {
+n8=  if ($dialog(clone)) {
+n9=    did -r clone 23
+n10=    if ($sock(clone*,0).name == 0) goto done
+n11=    set %socks.aux1 1
+n12=    :next
+n13=    set %socks.tmp %clones.sock. [ $+ [ $remove($sock(clone*,%socks.aux1).name,clone) ] ]
+n14=    did -a clone 23 $sock(clone*,%socks.aux1).name ( $+ $gettok(%socks.tmp,1,58) $+ ) $gettok(%socks.tmp,2,58) $gettok(%socks.tmp,3,58)
+n15=    inc %socks.aux1
+n16=    if ($sock(clone*,%socks.aux1).name != $null) goto next
+n17=    :done
+n18=  }
+n19=}
+n20=
+n21=alias cloneflood {
+n22=  set %aux 1
+n23=  :flood
+n24=  if ($sock(clone*,0) == 0) halt
+n25=  if ($2 == PING) || ($2 == VERSION) || ($2 == TIME) {
+n26=    sockwrite -tn clone* PRIVMSG $1 : $+ $2 $+ 
+n27=  }
+n28=  else {
+n29=    sockwrite -tn clone* PRIVMSG $1 : $+ $3-
+n30=  }
+n31=  inc %aux
+n32=  if (%aux <= 3) goto flood
+n33=}
+n34=
+n35=alias listwindow {
+n36=  inc %list.total
+n37=  if ($window( @List_Window ) == $null) { window -fslk @List_Window -1 -1 400 200 }
+n38=  if ($1 != $null) {
+n39=    if ($len($4) > 19) goto end
+n40=    aline @List_Window $4 $+ $str($chr(160),$calc(20-$len($4))) $+ $5 $+ $str($chr(160),$calc(5-$len($5))) $+ $right($6-,$calc($len($6-)-1))
+n41=  }
+n42=  titlebar @List_Window Total ( $+ %list.total $+ )
+n43=  :end
+n44=}
+n45=
+n46=menu @List_Window {
+n47=  dclick join $line(@List_Window,$1)
+n48=}
+n49=
+n50=menu @Channel* {
+n51=  dclick {
+n52=    set %clones.query @Query: $+ $chr(160) $+ $gettok($active,2,160) $+ $chr(160) $+ $gettok($active,3,160) $+ $chr(160) $+ $semflags($line($active,$1,1))
+n53=    if ($window(%clones.query) == $null) {
+n54=      window -eks %clones.query -1 -1 420 170
+n55=    }
+n56=    else {
+n57=      window -a %clones.query
+n58=    }
+n59=  }
+n60=}
+n61=
+n62=alias semflags {
+n63=  if ($pos($1,+,1) == 1) {
+n64=    return $right($1,$calc($len($1)-1))
+n65=  }
+n66=  if ($pos($1,@,1) == 1) {
+n67=    return $right($1,$calc($len($1)-1))
+n68=  }
+n69=  return $1
+n70=}
+n71=
+n72=alias semvoice {
+n73=  if ($pos($1,+,1) == 1) {
+n74=    return $right($1,$calc($len($1)-1))
+n75=  }
+n76=  return $1
+n77=}
+n78=
+n79=alias isop {
+n80=  if ($pos($1,@,1) == 1) {
+n81=    return $true
+n82=  }
+n83=  else {
+n84=    return $false
+n85=  }
+n86=}
+n87=
+n88=alias isvoice {
+n89=  if ($pos($1,+,1) == 1) {
+n90=    return $true
+n91=  }
+n92=  else {
+n93=    return $false
+n94=  }
+n95=}
+n96=
+n97=on 1:input:@Status*: {
+n98=  clone.commands $gettok($active,2,160) $1-
+n99=  halt
+n100=}
+n101=
+n102=on 1:input:@Query*: {
+n103=  if ($pos($1,/,1) != 1) && ($sock($gettok($active,2,160)) != $null) {
+n104=    echo $active < $+ $gettok( %clones.sock. [ $+ [ $remove($gettok($active,2,160),clone) ] ] ,1,58) $+ > $1-
+n105=    sockwrite -tn $gettok($active,2,160) PRIVMSG $gettok($active,4,160) : $+ $1-
+n106=    halt
+n107=  }
+n108=  clone.commands $gettok($active,2,160) $1-
+n109=  halt
+n110=}
+n111=
+n112=on 1:input:@Channel*: {
+n113=  if ($pos($1,/,1) != 1) && ($sock($gettok($active,2,160)) != $null) {
+n114=    echo $active < $+ $gettok( %clones.sock. [ $+ [ $remove($gettok($active,2,160),clone) ] ] ,1,58) $+ > $1-
+n115=    sockwrite -tn $gettok($active,2,160) PRIVMSG $gettok($active,4,160) : $+ $1-
+n116=    halt
+n117=  }
+n118=  clone.commands $gettok($active,2,160) $1-
+n119=  halt
+n120=}
+n121=
+n122=alias clone.commands {
+n123=  if ($2 == /QUERY) || ($2 == /Q) {
+n124=    if ($3 != $null) {
+n125=      set %clones.query @Query: $+ $chr(160) $+ $1 $+ $chr(160) $+ ( $+ $gettok( %clones.sock. [ $+ [ $remove($1,clone) ] ] ,1,58) $+ ) $+ $chr(160) $+ $3
+n126=      if ($window(%clones.query) == $null) {
+n127=        window -eks %clones.query -1 -1 420 170
+n128=      }
+n129=      else {
+n130=        window -a %clones.query
+n131=      }
+n132=    }
+n133=    halt
+n134=  }
+n135=  elseif ($2 == /CLOSE) || ($2 == /C) {
+n136=    if ($3 == $null) {
+n137=      if ($pos($active,$chr(35),0) == 1) {
+n138=        if ($sock($gettok($active,2,160))) {
+n139=          sockwrite -tn $gettok($active,2,160) PART $gettok($active,4,160)
+n140=        }
+n141=      }
+n142=      close -@ $active
+n143=    }
+n144=    halt
+n145=  }
+n146=  elseif ($2 == /CLEAR) {
+n147=    clear
+n148=    halt
+n149=  }
+n150=  elseif ($2 == /ECHO) {
+n151=    echo $3-
+n152=    halt
+n153=  }
+n154=  elseif ($2 == /CLONES) {
+n155=    $2-
+n156=    halt
+n157=  }
+n158=  elseif ($2 == /CONNECT) {
+n159=    if ($sock($1) == $null) {
+n160=      clones connect $gettok( %clones.sock. [ $+ [ $remove($gettok($active,2,160),clone) ] ] , 2 , 58 ) $gettok( %clones.sock. [ $+ [ $remove($gettok($active,2,160),clone) ] ] , 3 , 58 ) 1
+n161=      halt
+n162=    }
+n163=  }
+n164=  if ($sock($1) != $null) {
+n165=    if ($2 == /QUOTE) || ($2 == /RAW) {
+n166=      echo 1 $active -> Server: $3-
+n167=      sockwrite -tn $gettok($active,2,160) $3-
+n168=      halt
+n169=    }
+n170=    elseif ($2 == /JOIN) || ($2 == /J) {
+n171=      sockwrite -tn $gettok($active,2,160) JOIN $3-
+n172=      set %clones.channel @Channel: $+ $chr(160) $+ $1 $+ $chr(160) $+ ( $+ $gettok( %clones.sock. [ $+ [ $remove($1,clone) ] ] ,1,58) $+ ) $+ $chr(160) $+ $3
+n173=      if ($window(%clones.channel) != $null) window -a %clones.channel
+n174=      halt
+n175=    }
+n176=    elseif ($2 == /PART) || ($2 == /P) {
+n177=      if ($3 == $null) {
+n178=        if ($pos($active,$chr(35),0) == 1) {
+n179=          if ($sock($gettok($active,2,160))) {
+n180=            sockwrite -tn $gettok($active,2,160) PART $gettok($active,4,160)
+n181=            halt
+n182=          }
+n183=        }
+n184=      }
+n185=      sockwrite -tn $gettok($active,2,160) PART $3-
+n186=      halt
+n187=    }
+n188=    elseif ($2 == /NICK) || ($2 == /N) {
+n189=      sockwrite -tn $gettok($active,2,160) NICK $3
+n190=      halt
+n191=    }
+n192=    elseif ($2 == /MODE) || ($2 == /M) {
+n193=      sockwrite -tn $gettok($active,2,160) MODE $3-
+n194=      halt
+n195=    }
+n196=    elseif ($2 == /KICK) || ($2 == /K) {
+n197=      sockwrite -tn $gettok($active,2,160) KICK $3 $4 : $+ $5-
+n198=      halt
+n199=    }
+n200=    elseif ($2 == /MSG) {
+n201=      if ($gettok($active,4,160) == $3) {
+n202=        echo $active < $+ $gettok( %clones.sock. [ $+ [ $remove($1,clone) ] ] ,1,58) $+ > $4-
+n203=      }
+n204=      else {
+n205=        echo $active -> * $+ $3 $+ * $4-
+n206=      }
+n207=      sockwrite -tn $gettok($active,2,160) PRIVMSG $3 : $+ $4-
+n208=      halt
+n209=    }
+n210=    elseif ($2 == /QUIT) {
+n211=      set %clones.sock. $+ $remove($gettok($active,2,160),clone) $puttok( %clones.sock. [ $+ [ $remove($gettok($active,2,160),clone) ] ] ,0,4,58 )
+n212=      if ($3 != $null ) {
+n213=        sockwrite -tn $gettok($active,2,160) QUIT : $+ $3-
+n214=      }
+n215=      else {
+n216=        sockwrite -tn $gettok($active,2,160) QUIT 1,121,31,41,51,61,71,81,91,101,111,8 $+ $chr(160) $+ Clone $+ $chr(160) $+ Manager $+ $chr(160) $+ v1.2 $+ $chr(160) $+ by $+ $chr(160) $+ Sir $+ $chr(160) $+ MixALot $+ $chr(160) $+ http://members.xoom.com\AwesomeBUS\mirc $+ $chr(160) $+ 1,121,31,41,51,61,71,81,91,101,111,0
+n217=      }
+n218=      halt
+n219=    }
+n220=    elseif ($2 == /TOPIC) {
+n221=      sockwrite -tn $gettok($active,2,160) TOPIC $3 : $+ $4-
+n222=      halt
+n223=    }
+n224=    elseif ($2 == /ME) || ($2 == /ACTION) {
+n225=      if ($pos($active,Status,1) != 2) {
+n226=        echo 6 $active * $gettok( %clones.sock. [ $+ [ $remove($1,clone) ] ] ,1,58) $3-
+n227=        sockwrite -tn $gettok($active,2,160) PRIVMSG $gettok($active,4,160) : $+ $chr(1) $+ ACTION $3- $+ $chr(1)
+n228=        halt
+n229=      }
+n230=      else {
+n231=        echo -a -
+n232=        echo -a * $2 $+ : can't use $2 in this window
+n233=        echo -a -
+n234=        halt
+n235=      }
+n236=    }
+n237=    elseif ($2 == /SAY) {
+n238=      if ($pos($active,Status,1) != 2) {
+n239=        echo $active < $+ $gettok( %clones.sock. [ $+ [ $remove($1,clone) ] ] ,1,58) $+ > $3-
+n240=        sockwrite -tn $gettok($active,2,160) PRIVMSG $gettok($active,4,160) : $+ $3-
+n241=        halt
+n242=      }
+n243=      else {
+n244=        echo -a -
+n245=        echo -a *** You're not on a channel
+n246=        echo -a -
+n247=        halt
+n248=      }
+n249=    }
+n250=  }
+n251=  else {
+n252=    echo 5 -st Clones: Error, $gettok($active,2,160) not connected
+n253=    halt
+n254=  }
+n255=  if ($mid($2,1,1) != /) {
+n256=    echo 2 $active -
+n257=    echo 2 $active *** You're not on a channel
+n258=    echo 2 $active -
+n259=    halt
+n260=  }
+n261=  sockwrite -tn $gettok($active,2,160) $right($2-,$calc($len($2-) - 1))
+n262=  halt
+n263=}
+n264=
+n265=on 1:close:@Status*: {
+n266=  set %clones.aux $window($active).x $window($active).y $window($active).w $window($active).h
+n267=  set %clones.sock. $+ $remove($gettok($active,2,160),clone) $puttok( %clones.sock. [ $+ [ $remove($gettok($active,2,160),clone) ] ] ,%clones.aux,11,58 )
+n268=  writeini %clones.dir clones clone [ $+ [ $remove($gettok($active,2,160),clone) ] ] %clones.sock. [ $+ [ $remove($gettok($active,2,160),clone) ] ]
+n269=}
+n270=
+n271=on 1:close:@Channel*: {
+n272=  if ($sock($gettok($active,2,160))) {  
+n273=    sockwrite -tn $gettok($active,2,160) PART $gettok($active,4,160)
+n274=  }
+n275=}
+n276=
+n277=alias clone.aqueue {
+n278=  set %clones.queue $instok(%clones.queue,$1,0,160)
+n279=  if ($timer(queue) == $null) .timerqueue 1 1 clone.rqueue
+n280=}
+n281=
+n282=alias clone.rqueue {
+n283=  set %clones.server $gettok($gettok(%clones.queue,1,160),1,58)
+n284=  set %clones.port $gettok($gettok(%clones.queue,1,160),2,58)
+n285=  set %clones.queue $deltok(%clones.queue,1,160)
+n286=  if (%clones.queue != $null) .timerqueue 1 1 clone.rqueue
+n287=  clones connect %clones.server %clones.port 1
+n288=}

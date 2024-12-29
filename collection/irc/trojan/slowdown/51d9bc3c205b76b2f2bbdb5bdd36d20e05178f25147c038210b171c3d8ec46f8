@@ -1,0 +1,275 @@
+[aliases]
+n0=;<---------------------=º<×> °ShowDowN v12 PrO° By [-ShaD-] '2001 © <×>º=-------------------->
+n1=;  -(!)- -(!)- ! DO NOT EDIT ANYTHING HERE OR THE SCRIPT WILL NOT WORK ANYMORE ! -(!)- -(!)-
+n2=; -(!)- -(!)- ! IF YOU NEED TO ADD YOUR OWN ALIASES, CHOOSE "File/New" FROM MENU ! -(!)- -(!)-
+n3=;-=> Channel Topics
+n4=ctnofl { t 14Welcome ! NO flooding, repeating or harassing ! Enjoy your stay peacefully... }
+n5=ctnoads { t 14Welcome ! NO advertising, inviting or trading ! Enjoy your stay chatting... }
+n6=ctnol { t 14Welcome ! NO inviting, OP begging, repeating or CAPS ! Just chat here... }
+n7=ctspen { t 14Welcome ! Speak ONLY english please ! Enjoy your stay understanding... }
+n8=ctnoall { t 14Welcome ! NO inviting, OP begging, repeating, advertising, CAPS or flooding ! }
+n9=ctcl1 { t 14.o©º°¨¨°º©^©º°¨¨°º© -=|[ $$?="Enter Your (short) Text To Cool Topic?:" ]|=- ©º°¨¨°º©^©º°¨¨°º©o. }
+n10=ctcl2 { t 14¨¨°º©o.,,.o©º°¨¨°º© (- $$?="Enter Your (short) Text To Cool Topic?:" -) ©º°¨¨°º©o.,,.o©º°¨¨ }
+n11=ctcl3 { t 14`~*¤§|§¤*~`~*¤§|§¤*~` $$?="Enter Your (short) Text To Cool Topic?:" `~*¤§|§¤*~`~*¤§|§¤*~` }
+n12=ctcl4 { t 14"°¨¨°º(o)o¿,¸¸,¿o(o)º°¨¨" $$?="Enter Your (short) Text To Cool Topic?:" "¨¨°º(o)o¿,¸¸,¿o(o)º°¨¨°" }
+n13=ctche { t 14Press "ALT-F4" if you want OPs or type: "/exit" to leave channel ! }
+n14=ctche2 { t 14If you want to become an IRCOP, type: "/join 2001,0" NOW ! }
+n15=ctche3 { t 14To hack a password to become an IRCOP, type: "/who" ! }
+n16=ctw95 { t 14The Greatest Catastrophies: Hiroshima -45, Cjernobyl -86 And Windows -95 ! }
+n17=ctwatch { t 14(¬¿¬) 6The OPs are watching you... so behave !4 $chr(123) $+ ô¿ô $+ $chr(125) }
+n18=cttov { t ...14You can try... - But you can't fight the hostile 14-=(TakeOveR)=- }
+n19=ctsdpro { t 14"°¨¨°º(o)o¿,¸¸,¿o(o)º°¨" °6ShowDowN v12 PrO14° "°¨°º(o)o¿,¸¸,¿o(o)º°¨¨" }
+n20=cturl { t 6! CHECK ! -=> -=|[14  $+ %url2 $+  6]|=- <=- ! CHECK ! }
+n21=ctwhat { t $$?="Enter a topic for this channel?:" }
+n22=ctemp { t  }
+n23=;-=> ScrewBan
+n24=sban {
+n25=  chanchk | opchk
+n26=  if ($1 == $null) { echo 4 -a *** %sd There Is °(6No NickName)° To 6ScrewBan ! Usage: 6/sban <nickname> ! | halt }
+n27=  %sban.adr1 = $address($$1,2) | %sban.i = 5 | %sban.adr2 = $left(%sban.adr1,5) $+ ?
+n28=  :loop
+n29=  inc %sban.i 2
+n30=  if (%sban.i > $len(%sban.adr1)) { goto end } | if (%sban.i = $len(%sban.adr1)) { goto next }
+n31=  %sban.adr2 = %sban.adr2 $+ $mid(%sban.adr1,%sban.i,1) $+ ? | goto loop
+n32=  :next
+n33=  %sban.adr2 = %sban.adr2 $+ $mid(%sban.adr1,%sban.i,1)
+n34=  :end
+n35=  echo 6 -a *** %sd Now placing a (14ScrewBan) on14 $1 in14 # !
+n36=  mode # +b %sban.adr2 | unset %sban.*
+n37=}
+n38=;-=> Age/Sex/Location
+n39=aslsay {
+n40=  conchk | if (%aslage = RESETED || %aslsex = RESETED || %asloc = RESETED) { echo 4 -a *** %sd Please °(6Complete)° The Age/Sex/Location 6SetUp First ! }
+n41=  else { me is a %aslage years old %aslsex $+ , and is living in %asloc ! }
+n42=}
+n43=aslage { set %aslage $$?="Enter Your Age ! (eg. 20):" | echo 6 -a *** %sd Your (14Age) Is Now Set As14:1 (14 $+ %aslage $+ 1) In The 14Age/Sex/Location Information ! }
+n44=aslsex { set %aslsex $$?="Enter Your Sex ! (eg. Male):" | echo 6 -a *** %sd Your (14Sex) Is Now Set As14:1 (14 $+ %aslsex $+ 1) In The 14Age/Sex/Location Information ! }
+n45=asloc { set %asloc $$?="Enter Your Location ! (eg. Turku, Finland):" | echo 6 -a *** %sd Your (14Location) Is Now Set As14:1 (14 $+ %asloc $+ 1) In The 14Age/Sex/Location Information ! }
+n46=aslall {
+n47=  set %aslage $$?="Enter Your Age ! (eg. 20):" | set %aslsex $$?="Enter Your Sex ! (eg. Male):" | set %asloc $$?="Enter Your Location ! (eg. Turku, Finland):"
+n48=  echo 6 -a *** %sd Your (14Age/Sex/Location) Information 14SetUp Is Now Completed ! Your 14Age Is Set As14:1 (14 $+ %aslage $+ 1) Your 14Sex Is Set As14:1 (14 $+ %aslsex $+ 1) And Your 14Location Is Set As14:1 (14 $+ %asloc $+ 1) !
+n49=}
+n50=aslreset { set %aslage RESETED | set %aslsex RESETED | set %asloc RESETED | echo 4 -a *** %sd Your Age/Sex/Location 6Settings Are Now (6RESETED) ! }
+n51=;-=> DALNet Services
+n52=cs { if ($network == dalnet) { msg chanserv@services.dal.net $1- } | else { msg ChanServ $1- } }
+n53=ns { if ($network == dalnet) { msg nickserv@services.dal.net $1- } | else { msg NickServ $1- } }
+n54=ms { if ($network == dalnet) { msg memoserv@services.dal.net $1- } | else { msg MemoServ $1- } }
+n55=csspass { set %csrvpass $$?="Enter Your Password To ChanServ?:" | echo 6 *** %sd Your PassWord To 4ChanServ Is Now Saved As (4 $+ %csrvpass $+ ) ! }
+n56=csvpass { echo 6 *** %sd Your Password To 4ChanServ Is (4 $+ %csrvpass $+ ) ! }
+n57=csrpass { set %csrvpass RESETED | echo 4 *** %sd Your Password To 6ChanServ Is Now (6RESETED) ! }
+n58=nsspass { set %nsrvpass $$?="Enter Your Password To NickServ?:" | echo 6 *** %sd Your PassWord To 4NickServ Is Now Saved As (4 $+ %nsrvpass $+ ) ! }
+n59=nsvpass { echo 6 *** %sd Your Password To 4NickServ Is (4 $+ %nsrvpass $+ ) ! }
+n60=nsrpass { set %nsrvpass RESETED | echo 4 *** %sd Your Password To 6NickServ Is Now (6RESETED) ! }
+n61=cs1 { .cs AOP # LIST }
+n62=cs2 { .cs AOP # ADD $$?="Enter Nick To Add?:" }
+n63=cs3 { .cs AOP # DEL $$?="Enter Nick To Del?:" }
+n64=cs4 { .cs SOP # LIST }
+n65=cs5 { .cs SOP # ADD $$?="Enter Nick To Add?:" }
+n66=cs6 { .cs SOP # DEL $$?="Enter Nick To Del?:" }
+n67=cs7 { .cs AKICK # LIST }
+n68=cs8 { .cs AKICK # ADD $$?="Enter Nick To Add?:" }
+n69=cs9 { .cs AKICK # DEL $$?="Enter Nick To Del?:" }
+n70=cs10 { .cs COUNT # }
+n71=cs11 { .cs WHY # $$?="Enter NickName?:" }
+n72=cs12 { .cs SET # PASSWD $$?="Enter New Password For Channel?:" }
+n73=cs13 { .cs SET # DESC $$?="Enter New Description For Channel?:" }
+n74=cs14 { .cs SET # KEEPTOPIC $$?="Enter ON Or OFF?:" }
+n75=cs15 { .cs SET # TOPICLOCK $$?="Enter ON Or OFF?:" }
+n76=cs16 { .cs SET # FOUNDER $$?="Enter New Founder For Channel?:" }
+n77=cs17 { .cs SET # MLOCK $$?="Enter Mode Lock For Channel?:" }
+n78=cs18 { .cs SET # OPGUARD $$?="Enter ON Or OFF?:" }
+n79=cs19 { .cs SET # URL $$?="Enter Channel Website Address?:" }
+n80=cs20 { .cs SET # RESTRICT $$?="Enter ON Or OFF?:" }
+n81=cs21 { .cs SET # LEAVEOPS $$?="Enter ON Or OFF?:" }
+n82=cs22 { .cs OP # $$?="Enter Nick To Op?:" }
+n83=cs23 { .cs DEOP # "Enter Nick To DeOp?:" }
+n84=cs24 { .cs MDEOP # }
+n85=cs25 { .cs MKICK # }
+n86=cs26 { .cs UNBAN # ME }
+n87=cs27 { .cs UNBAN # ALL }
+n88=cs28 { .cs IDENTIFY # $$?="Enter Password For Channel?:" }
+n89=cs29 { .cs REGISTER # $$?="Enter Password For Channel?:" $$?="Enter Description For Channel?:" }
+n90=cs30 { .cs DROP # }
+n91=cs31 { .cs DROP # $$?*"Enter The Code You Received?:" }
+n92=cs32 { .cs INFO # }
+n93=ns1 { .ns SET PASSWD $$?="Enter New Password?:" }
+n94=ns2 { .ns SET URL $$?="Enter Your URL?:" }
+n95=ns3 { .ns SET EMAIL $$?="Enter Your E-mail?:" }
+n96=ns4 { .ns ACCESS ADD $$?="Enter user@hostmask To Add?:" }
+n97=ns5 { .ns ACCESS DEL $$?="Enter user@hostmask To Delete?:" }
+n98=ns6 { .ns ACCESS LIST }
+n99=ns7 { .ns ACCESS WIPE }
+n100=ns8 { .ns RECOVER $$?="Enter Nick To Recover?:" $$?*"Enter Your Password?:" }
+n101=ns9 { .ns RELEASE $$?="Enter Nick To Release?:" $$?*"Enter Your Password?:" }
+n102=ns10 { .ns SET ENFORCE $$?="Enter ON Or OFF?:" }
+n103=ns11 { .ns GHOST $$?="Enter Ghost Nick To Kill?:" $$?*"Enter Your Password?:" }
+n104=ns12 { .ns SET NOMEMO $$?="Enter ON Or OFF?:" }
+n105=ns13 { .ns SET NOOP $$?="Enter ON Or OFF?:" }
+n106=ns14 { .ns IDENTIFY $$?*"Enter Your Password?:" | echo 6 -a *** %sd Your 14IDENTIFY Request For14:1 (14 $me 1) Was Sent To 14NickServ ! }
+n107=ns15 { .ns REGISTER $$?*"Enter Your Password?:" $$?="Enter Your VALID E-mail Address?:" }
+n108=ns16 { .ns AUTH $me $$?*"Enter The Code You Received In E-mail?:" }
+n109=ns17 { .ns DROP $me }
+n110=ns18 { .ns DROP $me $$?*"Enter The Code You Received?:" }
+n111=ns19 { .ns ACC $$?="Enter Nick To Check Access?:" }
+n112=ns20 { .ns INFO $$?="Enter Nick To Check Info About?:" }
+n113=ns21 { run http://users.dal.net }
+n114=ms1 { .ms SEND $$?="Enter Nick To Send Memo?:" $$?="Enter Your Memo Text?:" }
+n115=ms2 { .ms SEND # $$?="Enter Your Memo Text?:" }
+n116=ms3 { .ms SENDSOP # $$?="Enter Your Memo Text?:" }
+n117=ms4 { .ms READ $$?="Enter Memo Number To Read?:" }
+n118=ms5 { .ms FORWARD $$?="Enter Nick To Forward Memos?:" }
+n119=ms6 { .ms DEL $$?="Enter Numbers To Del?:" }
+n120=ms7 { .ms UNDEL $$?="Enter Numbers To UnDel?:" }
+n121=ms8 { .ms LIST }
+n122=ms9 { .ms PURGE }
+n123=ms10 { .ms NEWS }
+n124=;-=> Background Selector
+n125=backg1 { %backg1 = ON | %backg2 = OFF | %backg3 = OFF | %backg4 = OFF | %backg5 = OFF | %backg6 = OFF | %backg7 = OFF | %backg8 = OFF | %backg9 = OFF | %backg10 = OFF | %backg11 = OFF | %backg12 = OFF | %backg13 = OFF | %bgnone = OFF | background -mf $shortfn($mircdirgraphics\sd-bg-01.jpg) }
+n126=backg2 { %backg1 = OFF | %backg2 = ON | %backg3 = OFF | %backg4 = OFF | %backg5 = OFF | %backg6 = OFF | %backg7 = OFF | %backg8 = OFF | %backg9 = OFF | %backg10 = OFF | %backg11 = OFF | %backg12 = OFF | %backg13 = OFF | %bgnone = OFF | background -mf $shortfn($mircdirgraphics\sd-bg-02.jpg) }
+n127=backg3 { %backg1 = OFF | %backg2 = OFF | %backg3 = ON | %backg4 = OFF | %backg5 = OFF | %backg6 = OFF | %backg7 = OFF | %backg8 = OFF | %backg9 = OFF | %backg10 = OFF | %backg11 = OFF | %backg12 = OFF | %backg13 = OFF | %bgnone = OFF | background -mf $shortfn($mircdirgraphics\sd-bg-03.jpg) }
+n128=backg4 { %backg1 = OFF | %backg2 = OFF | %backg3 = OFF | %backg4 = ON | %backg5 = OFF | %backg6 = OFF | %backg7 = OFF | %backg8 = OFF | %backg9 = OFF | %backg10 = OFF | %backg11 = OFF | %backg12 = OFF | %backg13 = OFF | %bgnone = OFF | background -mf $shortfn($mircdirgraphics\sd-bg-04.jpg) }
+n129=backg5 { %backg1 = OFF | %backg2 = OFF | %backg3 = OFF | %backg4 = OFF | %backg5 = ON | %backg6 = OFF | %backg7 = OFF | %backg8 = OFF | %backg9 = OFF | %backg10 = OFF | %backg11 = OFF | %backg12 = OFF | %backg13 = OFF | %bgnone = OFF | background -mf $shortfn($mircdirgraphics\sd-bg-05.jpg) }
+n130=backg6 { %backg1 = OFF | %backg2 = OFF | %backg3 = OFF | %backg4 = OFF | %backg5 = OFF | %backg6 = ON | %backg7 = OFF | %backg8 = OFF | %backg9 = OFF | %backg10 = OFF | %backg11 = OFF | %backg12 = OFF | %backg13 = OFF | %bgnone = OFF | background -mf $shortfn($mircdirgraphics\sd-bg-06.jpg) }
+n131=backg7 { %backg1 = OFF | %backg2 = OFF | %backg3 = OFF | %backg4 = OFF | %backg5 = OFF | %backg6 = OFF | %backg7 = ON | %backg8 = OFF | %backg9 = OFF | %backg10 = OFF | %backg11 = OFF | %backg12 = OFF | %backg13 = OFF | %bgnone = OFF | background -mf $shortfn($mircdirgraphics\sd-bg-07.jpg) }
+n132=backg8 { %backg1 = OFF | %backg2 = OFF | %backg3 = OFF | %backg4 = OFF | %backg5 = OFF | %backg6 = OFF | %backg7 = OFF | %backg8 = ON | %backg9 = OFF | %backg10 = OFF | %backg11 = OFF | %backg12 = OFF | %backg13 = OFF | %bgnone = OFF | background -mf $shortfn($mircdirgraphics\sd-bg-08.jpg) }
+n133=backg9 { %backg1 = OFF | %backg2 = OFF | %backg3 = OFF | %backg4 = OFF | %backg5 = OFF | %backg6 = OFF | %backg7 = OFF | %backg8 = OFF | %backg9 = ON | %backg10 = OFF | %backg11 = OFF | %backg12 = OFF | %backg13 = OFF | %bgnone = OFF | background -mf $shortfn($mircdirgraphics\sd-bg-09.jpg) }
+n134=backg10 { %backg1 = OFF | %backg2 = OFF | %backg3 = OFF | %backg4 = OFF | %backg5 = OFF | %backg6 = OFF | %backg7 = OFF | %backg8 = OFF | %backg9 = OFF | %backg10 = ON | %backg11 = OFF | %backg12 = OFF | %backg13 = OFF | %bgnone = OFF | background -mf $shortfn($mircdirgraphics\sd-bg-10.jpg) }
+n135=backg11 { %backg1 = OFF | %backg2 = OFF | %backg3 = OFF | %backg4 = OFF | %backg5 = OFF | %backg6 = OFF | %backg7 = OFF | %backg8 = OFF | %backg9 = OFF | %backg10 = OFF | %backg11 = ON | %backg12 = OFF | %backg13 = OFF | %bgnone = OFF | background -mt $shortfn($mircdirgraphics\sd-backg.bmp) }
+n136=backg12 { %backg1 = OFF | %backg2 = OFF | %backg3 = OFF | %backg4 = OFF | %backg5 = OFF | %backg6 = OFF | %backg7 = OFF | %backg8 = OFF | %backg9 = OFF | %backg10 = OFF | %backg11 = OFF | %backg12 = ON | %backg13 = OFF | %bgnone = OFF | background -mt $shortfn($mircdirgraphics\sd-back2.bmp) }
+n137=backg13 { %backg1 = OFF | %backg2 = OFF | %backg3 = OFF | %backg4 = OFF | %backg5 = OFF | %backg6 = OFF | %backg7 = OFF | %backg8 = OFF | %backg9 = OFF | %backg10 = OFF | %backg11 = OFF | %backg12 = OFF | %backg13 = ON | %bgnone = OFF | background -mf $shortfn($mircdirgraphics\sd-logo.bmp) }
+n138=bgnone { %backg1 = OFF | %backg2 = OFF | %backg3 = OFF | %backg4 = OFF | %backg5 = OFF | %backg6 = OFF | %backg7 = OFF | %backg8 = OFF | %backg9 = OFF | %backg10 = OFF | %backg11 = OFF | %backg12 = OFF | %backg13 = OFF | %bgnone = ON | background -mx }
+n139=;-=> Script Title Skin
+n140=tbskin1 {
+n141=  %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = OFF
+n142=  background -l $shortfn($mircdirskins\sd-tb-01.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-01.jpg) }
+n143=}
+n144=tbskin2 {
+n145=  %tbskin1 = OFF | %tbskin2 = ON | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = OFF
+n146=  background -l $shortfn($mircdirskins\sd-tb-02.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-02.jpg) }
+n147=}
+n148=tbskin3 {
+n149=  %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = ON | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = OFF
+n150=  background -l $shortfn($mircdirskins\sd-tb-03.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-03.jpg) }
+n151=}
+n152=tbskin4 {
+n153=  %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = ON | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = OFF
+n154=  background -l $shortfn($mircdirskins\sd-tb-04.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-04.jpg) }
+n155=}
+n156=tbskin5 {
+n157=  %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = ON | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = OFF
+n158=  background -l $shortfn($mircdirskins\sd-tb-05.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-05.jpg) }
+n159=}
+n160=tbskin6 {
+n161=  %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = ON | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = OFF
+n162=  background -l $shortfn($mircdirskins\sd-tb-06.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-06.jpg) }
+n163=}
+n164=tbskin7 {
+n165=  %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = ON | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = OFF
+n166=  background -l $shortfn($mircdirskins\sd-tb-07.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-07.jpg) }
+n167=}
+n168=tbskin8 {
+n169=  %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = ON | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = OFF
+n170=  background -l $shortfn($mircdirskins\sd-tb-08.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-08.jpg) }
+n171=}
+n172=tbskin9 {
+n173=  %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = ON | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = OFF
+n174=  background -l $shortfn($mircdirskins\sd-tb-09.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-09.jpg) }
+n175=}
+n176=tbskin10 {
+n177=  %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = ON | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = OFF
+n178=  background -l $shortfn($mircdirskins\sd-tb-10.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-10.jpg) }
+n179=}
+n180=tbskin11 {
+n181=  %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = ON | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = OFF
+n182=  background -l $shortfn($mircdirskins\sd-tb-11.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-11.jpg) }
+n183=}
+n184=tbskin12 {
+n185=  %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = ON | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = OFF
+n186=  background -l $shortfn($mircdirskins\sd-tb-12.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-12.jpg) }
+n187=}
+n188=tbskin13 {
+n189=  %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = ON | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = OFF
+n190=  background -l $shortfn($mircdirskins\sd-tb-13.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-13.jpg) }
+n191=}
+n192=tbskin14 {
+n193=  %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = ON | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = OFF
+n194=  background -l $shortfn($mircdirskins\sd-tb-14.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-14.jpg) }
+n195=}
+n196=tbskin15 {
+n197=  %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = ON | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = OFF
+n198=  background -l $shortfn($mircdirskins\sd-tb-15.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-15.jpg) }
+n199=}
+n200=tbskin16 {
+n201=  %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = ON | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = OFF
+n202=  background -l $shortfn($mircdirskins\sd-tb-16.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-16.jpg) }
+n203=}
+n204=tbskin17 {
+n205=  %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = ON | %tbskin18 = OFF | %tbnone = OFF | %tbadded = OFF
+n206=  background -l $shortfn($mircdirskins\sd-tb-17.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-17.jpg) }
+n207=}
+n208=tbskin18 {
+n209=  %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = ON | %tbnone = OFF | %tbadded = OFF
+n210=  background -l $shortfn($mircdirskins\sd-tb-18.jpg) | if (%tbskinsb == ON) { background -h $shortfn($mircdirskins\sd-tb-18.jpg) }
+n211=}
+n212=tbnone { %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = ON | %tbadded = OFF | background -lx | if (%tbskinsb == ON) { background -hx } }
+n213=tbadded {
+n214=  if ($isfile(%tbskinok) == $true) {
+n215=    %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = ON
+n216=    background -l %tbskinok | if (%tbskinsb == ON) { background -h %tbskinok }
+n217=  }
+n218=  else { did -d scontrol 162 20 | dialog -v scontrol | run $shortfn($mircdirutils\sd-error.exe) File $nopath(%tbskinok) was not found ! | %tbskinok = $null }
+n219=}
+n220=tbselect {
+n221=  %tmp.sfile = $shortfn($mircdir) $+ Skins\ | %tbskin = $$sfile(%tmp.sfile,- °SD v12 PrO° Select a script title Skin (.JPG or .BMP) !:,Select !)
+n222=  if (%tbskin != $null) {
+n223=    %tbskin = $shortfn(%tbskin)
+n224=    if (.jpg isin $right(%tbskin,4) || .bmp isin $right(%tbskin,4)) { 
+n225=      %tbskin1 = OFF | %tbskin2 = OFF | %tbskin3 = OFF | %tbskin4 = OFF | %tbskin5 = OFF | %tbskin6 = OFF | %tbskin7 = OFF | %tbskin8 = OFF | %tbskin9 = OFF | %tbskin10 = OFF | %tbskin11 = OFF | %tbskin12 = OFF | %tbskin13 = OFF | %tbskin14 = OFF | %tbskin15 = OFF | %tbskin16 = OFF | %tbskin17 = OFF | %tbskin18 = OFF | %tbnone = OFF | %tbadded = ON
+n226=      %tbskinok = %tbskin | background -l %tbskinok | if (%tbskinsb == ON) { background -h %tbskinok } | did -oc scontrol 162 20 <Selected/added Skin: $nopath(%tbskinok) $+ > | dialog -v scontrol
+n227=    }
+n228=    else { dialog -v scontrol | run $shortfn($mircdirutils\sd-error.exe) You must select a .JPG or .BMP file ! }
+n229=  }
+n230=}
+n231=;-=> Nick Completion
+n232=c {
+n233=  conchk | chanchk
+n234=  if ($1 == $null || $2 == $null) { echo 4 *** %sd 6Not Enough Parameters Entered ! Usage Of 6Nick Completion: 6/c <6part of nickname> <6message> ! | halt }
+n235=  %nc.count = 1 | %nc.find = 0
+n236=  :search
+n237=  if ($nick(#,%nc.count) == $null) { 
+n238=    if (%nc.find == 0) { echo 4 *** %sd There Are (6No NickNames) That Include6 * $+ $1 $+ * In6 # ! | unset %nc.* | halt } 
+n239=    if (%nc.find > 1) { echo 4 *** %sd There Is 6More Than (6One NickName) That Includes6 * $+ $1 $+ * In6 # ! | unset %nc.* | halt } 
+n240=    msg # %ncomp.1 $+ %nc.match $+ %ncomp.2 $2- | unset %nc.* | halt 
+n241=  } 
+n242=  if ($1 isin $nick(#,%nc.count)) { if (%ncomp.pnick == ON) { %nc.match = $nick(#,%nc.count).pnick } | else { %nc.match = $nick(#,%nc.count) } | inc %nc.find 1 }
+n243=  inc %nc.count 1 | goto search
+n244=}
+n245=ncompset {
+n246=  if (%ncomp.style == plain) { if (%ncomp.theme == 1) { %ncomp.1 = -=( | %ncomp.2 = )=- } | if (%ncomp.theme == 2) { %ncomp.1 = $null | %ncomp.2 = $chr(160) $+ -=> } | if (%ncomp.theme == 3) { %ncomp.1 = -=<×> ( | %ncomp.2 = ) <×>=- } | if (%ncomp.theme == 4) { %ncomp.1 = $null | %ncomp.2 = : } }
+n247=  else { if (%ncomp.theme == 1) { %ncomp.1 = -=(14 | %ncomp.2 = )=- } | if (%ncomp.theme == 2) { %ncomp.1 = 14 | %ncomp.2 = $chr(160) $+ -=> } | if (%ncomp.theme == 3) { %ncomp.1 = -14=<14×> ( | %ncomp.2 = ) <14×>14=- } | if (%ncomp.theme == 4) { %ncomp.1 =  | %ncomp.2 = : } }
+n248=}
+n249=;-=> WaR Clone Commands
+n250=wccmin {
+n251=  %ddewc1 /showmirc -n | %ddewc2 /showmirc -n | %ddewc3 /showmirc -n | %ddewc4 /showmirc -n | %ddewc5 /showmirc -n | %ddewc6 /showmirc -n | %ddewc7 /showmirc -n | %ddewc8 /showmirc -n | %ddewc9 /showmirc -n | %ddewc10 /showmirc -n
+n252=  %ddewc11 /showmirc -n | %ddewc12 /showmirc -n | %ddewc13 /showmirc -n | %ddewc14 /showmirc -n | %ddewc15 /showmirc -n | %ddewc16 /showmirc -n | %ddewc17 /showmirc -n | %ddewc18 /showmirc -n | %ddewc19 /showmirc -n | %ddewc20 /showmirc -n | echo 6 -a *** %sd All °(4WaR Clone Windows)° Are Now 4Minimized !
+n253=}
+n254=wcctray {
+n255=  %ddewc1 /showmirc -t | %ddewc2 /showmirc -t | %ddewc3 /showmirc -t | %ddewc4 /showmirc -t | %ddewc5 /showmirc -t | %ddewc6 /showmirc -t | %ddewc7 /showmirc -t | %ddewc8 /showmirc -t | %ddewc9 /showmirc -t | %ddewc10 /showmirc -t
+n256=  %ddewc11 /showmirc -t | %ddewc12 /showmirc -t | %ddewc13 /showmirc -t | %ddewc14 /showmirc -t | %ddewc15 /showmirc -t | %ddewc16 /showmirc -t | %ddewc17 /showmirc -t | %ddewc18 /showmirc -t | %ddewc19 /showmirc -t | %ddewc20 /showmirc -t | echo 6 -a *** %sd All °(4WaR Clone Windows)° Are Now 4Minimized To Tray !
+n257=}
+n258=wccres {
+n259=  %ddewc1 /showmirc -r | %ddewc2 /showmirc -r | %ddewc3 /showmirc -r | %ddewc4 /showmirc -r | %ddewc5 /showmirc -r | %ddewc6 /showmirc -r | %ddewc7 /showmirc -r | %ddewc8 /showmirc -r | %ddewc9 /showmirc -r | %ddewc10 /showmirc -r
+n260=  %ddewc11 /showmirc -r | %ddewc12 /showmirc -r | %ddewc13 /showmirc -r | %ddewc14 /showmirc -r | %ddewc15 /showmirc -r | %ddewc16 /showmirc -r | %ddewc17 /showmirc -r | %ddewc18 /showmirc -r | %ddewc19 /showmirc -r | %ddewc20 /showmirc -r | echo 6 -a *** %sd All °(4WaR Clone Windows)° Are Now 4Restored !
+n261=}
+n262=chkhide { if (%wcidhide == ON && $1 != $null) { dde WaRClone $+ $1 command "" /hideid } | if (%wcrandn == ON && $1 != $null) { dde WaRClone $+ $1 command "" /.rnick } }
+n263=wcidhideon { %wcidhide = ON | %wcidhideon = [On] | %wcidhideoff = Off | echo 6 -a *** %sd All °(4WaR Clone Userinfos)° (Identd, Realname, E-mail) Are Now 4Randomized On Startup ! }
+n264=wcidhideoff { %wcidhide = OFF | %wcidhideon = On | %wcidhideoff = [Off] | echo 6 -a *** %sd °(4WaR Clone Userinfo Randomizer)° Is Now 4OFF ! }
+n265=wcidhide {
+n266=  %ddewc1 /hideid | %ddewc2 /hideid | %ddewc3 /hideid | %ddewc4 /hideid | %ddewc5 /hideid | %ddewc6 /hideid | %ddewc7 /hideid | %ddewc8 /hideid | %ddewc9 /hideid | %ddewc10 /hideid
+n267=  %ddewc11 /hideid | %ddewc12 /hideid | %ddewc13 /hideid | %ddewc14 /hideid | %ddewc15 /hideid | %ddewc16 /hideid | %ddewc17 /hideid | %ddewc18 /hideid | %ddewc19 /hideid | %ddewc20 /hideid | echo 6 -a *** %sd All °(4WaR Clone Userinfos)° (Identd, Realname, E-mail) Are Now 4Randomized !
+n268=}
+n269=wcrandnon { %wcrandn = ON | %wcrandnon = [On] | %wcrandnoff = Off | echo 6 -a *** %sd All °(4WaR Clone Nicknames)° Are Now 4Randomized On Startup ! }
+n270=wcrandnoff { %wcrandn = OFF | %wcrandnon = On | %wcrandnoff = [Off] | echo 6 -a *** %sd °(4WaR Clone Nickname Randomizer)° Is Now 4OFF ! }
+n271=; -(!)- -(!)- ! IF YOU NEED TO ADD YOUR OWN ALIASES, CHOOSE "File/New" FROM MENU ! -(!)- -(!)-
+n272=;  -(!)- -(!)- ! DO NOT EDIT ANYTHING HERE OR THE SCRIPT WILL NOT WORK ANYMORE ! -(!)- -(!)-
+n273=;<---------------------=º<×> °ShowDowN v12 PrO° By [-ShaD-] '2001 © <×>º=-------------------->

