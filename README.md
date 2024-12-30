@@ -11,7 +11,7 @@
 And be aware that they very much are detected by antivirus products. Downloading these to a work system is likely to earn you a concerned visit from the IT department.*
 
 
-The period from mid-1980'ies until the end of the century was an incredibly important period in cybersecurity. 
+**The period from mid-1980'ies until the end of the century was an incredibly important period in cybersecurity.**
 
 Nowadays, malware are commercial tools of theft and fraud - commoditized, automated and churned out in millions of samples.
 Although some of them break new ground, 99.99% of them are uninteresting and discardable.
