@@ -1,4 +1,4 @@
-Virus scanning report  -  30 December 2024 @ 8:17
+Virus scanning report  -  30 December 2024 @ 10:48
 
 F-PROT ANTIVIRUS
 Program version: 3.16f
@@ -577,6 +577,11 @@ u:\collection\dos\file_a-j\alia\1300\Virus.DOS.Alia.1300  Infection: Alia.1300
 u:\collection\dos\file_a-j\alicia\6554\351acc183ba00e68b85e19747798d1b1b56a994ea27febb642a7b40e5c003f6e  Infection: Alicia.6554
 u:\collection\dos\file_a-j\alicia\6554\6ef7c86810abc9c8891e01681aab09b796bcd7943a15b726987e4462899c7ccd  Infection: Alicia.6554
 u:\collection\dos\file_a-j\alien\1356\ali1356b.vxe  Infection: Alien.1356
+u:\collection\dos\file_a-j\alien\1356\Virus.DOS.Alien.1356  Infection: Alien.1356
+u:\collection\dos\file_a-j\alien\1976\Virus.DOS.Alien.1976  Infection: Alien.1976
+u:\collection\dos\file_a-j\alienfury\480\Virus.DOS.Alien.480  Infection: Alienfury.480 (exact)
+u:\collection\dos\file_a-j\aline\993\Virus.DOS.Aline.993  Infection: Aline.993 (exact)
+u:\collection\dos\file_a-j\alladin\2293\Virus.DOS.Alladin.1827  Infection: Alladin.2293
 u:\collection\dos\file_a-j\already\71\71.vom  Infection: Already.71 (exact)
 u:\collection\dos\file_a-j\altx\1264\Virus.DOS.Altx.1264  Infection: Altx.1264
 u:\collection\dos\file_a-j\altx\1309\Virus.DOS.Altx.1309  Infection: Altx.1309
@@ -591,8 +596,13 @@ u:\collection\dos\file_a-j\altx\2889\Virus.DOS.Altx.2889  Infection: Altx.2889
 u:\collection\dos\file_a-j\aman\10716\10716.vxe  Infection: Aman.10716
 u:\collection\dos\file_a-j\amazon_queen\467\amazo467.vom  Infection: Amazon_Queen.467
 u:\collection\dos\file_a-j\amazon_queen\468\ama468b.vom  Infection: Amazon_Queen.468 (exact)
+u:\collection\dos\file_a-j\amazon_queen\473\Virus.DOS.AmazonQueen.473  Infection: Amazon_Queen.473 (exact)
+u:\collection\dos\file_a-j\amazon_queen\478\Virus.DOS.AmazonQueen.478  Infection: Amazon_Queen.478 (exact)
 u:\collection\dos\file_a-j\amazon_queen\479\ama479b.vom  Infection: Amazon_Queen.479 (exact)
-u:\collection\dos\file_a-j\amazon_queen\500\ama500b.vom  Infection: Amazon_Queen.500 (exact)
+u:\collection\dos\file_a-j\amazon_queen\500\a\ama500b.vom  Infection: Amazon_Queen.500 (exact)
+u:\collection\dos\file_a-j\amazon_queen\500\a\Virus.DOS.AmazonQueen.500.a  Infection: Amazon_Queen.500 (exact)
+u:\collection\dos\file_a-j\amazon_queen\506\Virus.DOS.AmazonQueen.506  Infection: Amazon_Queen.506
+u:\collection\dos\file_a-j\amazon_queen\507\c\Virus.DOS.AmazonQueen.500.b  Infection: Amazon_Queen.507.C (exact)
 u:\collection\dos\file_a-j\ambulance\796\a\ambul.vom  Infection: Ambulance.796.D (exact)
 u:\collection\dos\file_a-j\ambulance\796\b\ambulceb.vom  Infection: Ambulance.796.B (exact)
 u:\collection\dos\file_a-j\ambulance\796\c\ambul_c.vom  Infection: Ambulance.796.C (exact)
@@ -739,6 +749,8 @@ u:\collection\dos\file_a-j\barrotes\1461\Virus.DOS.Barrotes.1461  Infection: Bar
 u:\collection\dos\file_a-j\barrotes\1463\Virus.DOS.Barrotes.1463  Infection: Barrotes.1463 (exact)
 u:\collection\dos\file_a-j\barrotes\1874\Virus.DOS.Barrotes.1874  Infection: Barrotes.1874.A (exact)
 u:\collection\dos\file_a-j\benny\126\126.vom  Infection: Benny.126
+u:\collection\dos\file_a-j\bilbao\735\Virus.DOS.Alien.735  Infection: Bilbao.735
+u:\collection\dos\file_a-j\bilbao\893\Virus.DOS.Alien.893  Infection: Bilbao.893
 u:\collection\dos\file_a-j\bomb\1492\Virus.DOS.Bomb.1492  Infection: _1492
 u:\collection\dos\file_a-j\brackets\1367\Virus.DOS.Brackets.1367  Infection: _1367
 u:\collection\dos\file_a-j\burger\560\ch\brg560bt.c1  Infection: Burger.560.CH (exact)
@@ -3702,6 +3714,10 @@ u:\collection\dos\file_a-j\czech_happy\t5.vom  Infection: Czech_Happy.1687
 u:\collection\dos\file_a-j\czech_happy\t5.vxe  Infection: Czech_Happy.1687
 u:\collection\dos\file_a-j\czech_happy\t6.vom  Infection: Czech_Happy.1687
 u:\collection\dos\file_a-j\czech_happy\t7.vom  Infection: Czech_Happy.1687
+u:\collection\dos\file_a-j\c_alien\259\Virus.DOS.Alien_II.259  Infection: C_Alien.259
+u:\collection\dos\file_a-j\c_alien\298\Virus.DOS.Alien_II.298  Infection: C_Alien.298
+u:\collection\dos\file_a-j\c_alien\304\Virus.DOS.Alien_II.304  Infection: C_Alien.304
+u:\collection\dos\file_a-j\c_alien\374\Virus.DOS.Alien_II.374  Infection: C_Alien.374
 u:\collection\dos\file_a-j\dada\dada.vxe  Infection: Dada.1356 (exact)
 u:\collection\dos\file_a-j\dada\t1.vxe  Infection: Dada.1356 (exact)
 u:\collection\dos\file_a-j\dada\t3.vxe  Infection: Dada.1356 (exact)
@@ -12999,7 +13015,11 @@ u:\collection\dos\file_a-j\jerusalem\2465\fri_2465.vom  Infection: Jerusalem.246
 u:\collection\dos\file_a-j\jerusalem\2465\s-ice.vxe  Infection: Jerusalem.2465
 u:\collection\dos\file_a-j\jerusalem\2472\2472.vom  Infection: Jerusalem.2472 (exact)
 u:\collection\dos\file_a-j\jerusalem\2472\jerub.vom  Infection: Jerusalem.2472 (exact)
-u:\collection\dos\file_a-j\jerusalem\allsyste\wci0173j.vxe  Infection: Jerusalem.1808.EW
+u:\collection\dos\file_a-j\jerusalem\allsystem\313e2699943de9c353b0ce3b7f2ebdfffa99a58e7e137724e9ef71f68ac5bc5f  Infection: Jerusalem.1808.EW
+u:\collection\dos\file_a-j\jerusalem\allsystem\4ecdf2d10fd9f813e48aaf953c019f782f74d9b0d8b2ba3973bc19ef78b69ee6  Infection: Jerusalem.1808.EW
+u:\collection\dos\file_a-j\jerusalem\allsystem\5ddc11842b224a56a8c320d91bc970e3a044d54bca50fa65b550bf2664e5a3b4  Infection: Jerusalem.1808.EW - Dropper
+u:\collection\dos\file_a-j\jerusalem\allsystem\aed054db0d0d3774782ea70915f016e41df0143f2e65152df48bc423244c06de  Infection: Jerusalem.1808.EW
+u:\collection\dos\file_a-j\jerusalem\allsystem\wci0173j.vxe  Infection: Jerusalem.1808.EW
 u:\collection\dos\file_a-j\jerusalem\anarkia\a\anarki-c.vxe  Infection: Jerusalem.1824.C
 u:\collection\dos\file_a-j\jerusalem\anarkia\a\t1.vom  Infection: Jerusalem.1824.C
 u:\collection\dos\file_a-j\jerusalem\anarkia\a\t1.vxe  Infection: Jerusalem.1824.C
@@ -36112,14 +36132,14 @@ u:\collection\wince\trojan\brador\a\WinCE.Brador.vxe  is a security risk named W
 
 Results of virus scanning:
 
-Files: 37459
+Files: 37479
 MBRs: 0
 Boot sectors: 0
-Objects scanned: 37221
-Infected: 35675
+Objects scanned: 37241
+Infected: 35695
 Suspicious: 414
 Disinfected: 0
 Deleted: 0
 Renamed: 0
 
-Time: 1:47
+Time: 1:37
