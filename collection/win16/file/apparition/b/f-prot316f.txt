@@ -1,0 +1,36 @@
+Virus scanning report  -  30 December 2024 @ 8:12
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\1-appa-b.vxe  Infection: Win/Apparition.89021
+u:\clipbrd.vxe  Infection: Win/Apparition.89021
+u:\sysedit.vxe  Infection: Win/Apparition.89021
+u:\winapp.vxe  Infection: Win/Apparition.89021
+
+Results of virus scanning:
+
+Files: 5
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 5
+Infected: 4
+Suspicious: 0
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00
