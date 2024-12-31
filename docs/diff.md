@@ -1,6 +1,6 @@
 # Comparison Results
 
-[x] 10_Past_3.748<br>
+[x] 10_Past_3.748
 [x] 10_Past_3.789
 [x] 2-up.6000
 [x] 3E.384
