@@ -1,7 +1,7 @@
 
 <h1>THE VIRUS HISTORY PROJECT<br>A museum of malicious software from bygone days</h1>
 
-**38379 samples and counting**
+**40406 samples and counting**
 <br><br>
 **NONE OF THESE FILES CAN EXECUTE OR HARM MODERN OPERATING SYSTEMS**<br>
 **Malware that can still somehow execute (eg batch files, macro viruses) will be zipped with password: "history"**
