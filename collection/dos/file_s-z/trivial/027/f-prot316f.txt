@@ -1,0 +1,45 @@
+Virus scanning report  -  3 January 2025 @ 0:14
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\27unk.vom  contains Trivial.27 (non-working)
+u:\a\ow7.vom  Infection: Trivial.27.A (exact)
+u:\b\trv-27b.vom  Infection: Trivial.27.B (exact)
+u:\c\v27.vom  Infection: Trivial.27.C (exact)
+u:\e\trv-027e.vom  Infection: Trivial.27.E (exact)
+u:\f\piojo27.vom  Infection: Trivial.27.F (exact)
+u:\j\small27.vom  Infection: Trivial.27.J (exact)
+u:\j\small27.vxe  Infection: Trivial.27.J (exact)
+u:\j\t7.vom  Infection: Trivial.27.J (exact)
+u:\j\t7.vxe  Infection: Trivial.27.J (exact)
+u:\j\tf.vom  Infection: Trivial.27.J (exact)
+u:\j\tf.vxe  Infection: Trivial.27.J (exact)
+u:\k\unke2183.vom  Infection: Trivial.27.K (exact)
+
+Results of virus scanning:
+
+Files: 14
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 14
+Infected: 13
+Suspicious: 0
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00
