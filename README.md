@@ -3,11 +3,10 @@
 
 **42541 samples and counting**
 <br><br>
-**NONE OF THESE FILES CAN EXECUTE OR HARM MODERN OPERATING SYSTEMS**<br>
-**Malware that can still somehow execute (eg batch files, macro viruses) will be zipped with password: "history"**
+**NONE OF THESE FILES SHOULD BE ABLE TO HARM MODERN SYSTEMS IN THEIR STORED FORM**<br>
+**Most of the samples will simply not execute on modern operating systems. A few might; for example batch files or macro viruses - these will be zipped with password: "history".**
 
-
-*That does not mean you should be careless around unverified content. Always use a VM if you want to research these files.
+*That does not mean you should be careless around unverified content. There are no guarantees as to safety, so please know your way around malware and always use a VM if you want to research these files. 
 And be aware that they very much are detected by antivirus products. Downloading these to a work system is likely to earn you a concerned visit from the IT department.*
 
 
