@@ -1,4 +1,4 @@
-Virus scanning report  -  7 January 2025 @ 16:25
+Virus scanning report  -  8 January 2025 @ 1:22
 
 F-PROT ANTIVIRUS
 Program version: 3.16f
@@ -893,6 +893,7 @@ u:\collection\dos\boot\atcorp\321\wci03303.boo  Infection: ATCorp.321 image file
 u:\collection\dos\boot\azusa\a\azusa.boo  Infection: Azusa.A image file (exact)
 u:\collection\dos\boot\b2\b2.boo  Infection: B2 image file (exact)
 u:\collection\dos\boot\black_worm\blackwor.boo  Infection: Black_Worm image file (exact)
+u:\collection\dos\boot\bleah\d\sevilla.boo  Infection: Bleah.D image file (exact)
 u:\collection\dos\boot\blinky\dd6cfba1.boo  Infection: Blinky image file
 u:\collection\dos\boot\boot-437\a\boot-437.boo  Infection: Boot-437.A image file (exact)
 u:\collection\dos\boot\boot666\boothrs3.boo  Infection: Boot666 image file
@@ -918,12 +919,14 @@ u:\collection\dos\boot\brain\g\braing.boo  Infection: Brain.G image file (exact)
 u:\collection\dos\boot\brain\h\brainh.boo  Infection: Brain.H image file (exact)
 u:\collection\dos\boot\brain\j\brainj.boo  Infection: Brain.J image file (exact)
 u:\collection\dos\boot\brain\k\braink.boo  Infection: Brain.unknown? image file
+u:\collection\dos\boot\brasil\brasil.boo  Infection: Brasil image file (exact)
 u:\collection\dos\boot\breederboot\b128a6ac.boo  Infection: BreederBoot image file (exact)
 u:\collection\dos\boot\brr\b\wci03704.td0  Infection: Brr.B image file (exact)
 u:\collection\dos\boot\brr\c\boothrs2.boo  Infection: Brr.C image file (exact)
 u:\collection\dos\boot\bucharest\a\form.boo  Infection: Bucharest.A image file (exact)
 u:\collection\dos\boot\bucharest\b\chs.boo  Infection: Bucharest.B image file (exact)
 u:\collection\dos\boot\bucharest\c\rp-bsv4.boo  Infection: Bucharest.C image file (exact)
+u:\collection\dos\boot\buhr\virus.boot.experimental  Infection: Buhr image file (exact)
 u:\collection\dos\boot\bye\a\bye.boo  Infection: Bye.A image file (exact)
 u:\collection\dos\boot\camaleon\camaleon.boo  Infection: Camaleon image file (exact)
 u:\collection\dos\boot\cannabis\a\cannabia.boo  Infection: Cannabis.A image file (exact)
@@ -1649,9 +1652,6 @@ u:\collection\dos\file_a-d\ambulance\796\d\amgflanc.vom  Infection: Ambulance.79
 u:\collection\dos\file_a-d\ambulance\796\e\amb796e.vom  Infection: Ambulance.796.E (exact)
 u:\collection\dos\file_a-d\ambulance\796\f\ambul.vom  Infection: Ambulance.796.F (exact)
 u:\collection\dos\file_a-d\ambulance_ii\2124\Virus.DOS.Ambulance_II.2124  Infection: _2124
-u:\collection\dos\file_a-d\amd\3081\2f81f8e72fdc3d438d8af9a79b110b517b1769a3725a1eab81b121b5ccd6ce5d  Infection: Bcow.3081 (exact)
-u:\collection\dos\file_a-d\amd\3081\84b1c28c541f2c5de70e59648cc28be1da26337a8a114780a876acc93e0612bb  Infection: Bcow.3081 (exact)
-u:\collection\dos\file_a-d\amd\3948\Virus.DOS.AMD.3948  Infection: Dead.3948.A (exact)
 u:\collection\dos\file_a-d\amoeba\1392\amoeba-0.vxe  Infection: Amoeba.1392 (exact)
 u:\collection\dos\file_a-d\amoeba\1392\a\414a8cc29174b85806cc394a64ebcbe17659ae65a034cd5cedc642f5084041be  Infection: Amoeba.1392 (exact)
 u:\collection\dos\file_a-d\amoeba\1392\c\f9b0d9f185bcfbf102582d79df25bd592d8b9e2b5e2ec2460b0384dd65d9bd37  Infection: Amoeba.1392 (exact)
@@ -3003,32 +3003,70 @@ u:\collection\dos\file_a-d\bit_addict\512\b\addict4.vom  Infection: Bit_Addict.5
 u:\collection\dos\file_a-d\bizarre\2716\virus.dos.bizarre.2716  Infection: Bizarre.2716
 u:\collection\dos\file_a-d\bjk\2814\virus.dos.bjk.2814  Infection: BJK.2814 (exact)
 u:\collection\dos\file_a-d\blackice\1930\blac1930.vxe  Infection: BlackIce.1930
+u:\collection\dos\file_a-d\blackjack\803\virus.dos.donbass.803  Infection: BlackJack.803 (exact)
+u:\collection\dos\file_a-d\blacksco\2278\virus.dos.scorpion.2278  Infection: Blacksco.2278
 u:\collection\dos\file_a-d\blacksun\2372\Virus.DOS.BlackSun.2372  Infection: BlackSun.2372 (exact)
 u:\collection\dos\file_a-d\black_jec\230\a\BJ-230.vom  Infection: Black_Jec.230.A (exact)
 u:\collection\dos\file_a-d\black_jec\230\b\Virus.DOS.BlackJec.230.b  Infection: Black_Jec.230.B (exact)
 u:\collection\dos\file_a-d\black_jec\231\a\BJ-231.vom  Infection: Black_Jec.231.A (exact)
+u:\collection\dos\file_a-d\black_jec\231\b\bjec231b.vxe  Infection: Black_Jec.231.B (exact)
 u:\collection\dos\file_a-d\black_jec\231\c\BlackJec.231.b  Infection: Black_Jec.231.C (exact)
+u:\collection\dos\file_a-d\black_jec\231\d\virus.dos.blackjec.231.c  Infection: Black_Jec.231.D (exact)
 u:\collection\dos\file_a-d\black_jec\231\e\Virus.DOS.BlackJec.231.d  Infection: Black_Jec.231.E (exact)
+u:\collection\dos\file_a-d\black_jec\231\f\virus.dos.blackjec.231.e  Infection: Black_Jec.231.F (exact)
+u:\collection\dos\file_a-d\black_jec\232\virus.dos.blackjec.232  Infection: Black_Jec.232 (exact)
 u:\collection\dos\file_a-d\black_jec\235\Virus.DOS.BlackJec.235  Infection: Black_Jec.235 (exact)
 u:\collection\dos\file_a-d\black_jec\236\BJ-236.vom  Infection: Black_Jec.236.A (exact)
-u:\collection\dos\file_a-d\black_jec\246\BJ-246.vom  Infection: Black_Jec.246.A (exact)
+u:\collection\dos\file_a-d\black_jec\246\a\BJ-246.vom  Infection: Black_Jec.246.A (exact)
+u:\collection\dos\file_a-d\black_jec\246\c\virus.dos.blackjec.246.b  Infection: Black_Jec.246.C (exact)
 u:\collection\dos\file_a-d\black_jec\247\a\BJ-247A.vom  Infection: Black_Jec.247.A (exact)
-u:\collection\dos\file_a-d\black_jec\267\BJ-267.vom  Infection: Black_Jec.267.A (exact)
-u:\collection\dos\file_a-d\black_jec\272\BJ-272.vom  Infection: Black_Jec.272.A (exact)
+u:\collection\dos\file_a-d\black_jec\247\b\bla247b1.vom  Infection: Black_Jec.247.B (exact)
+u:\collection\dos\file_a-d\black_jec\247\c\bljk247c.vom  Infection: Black_Jec.247.C (exact)
+u:\collection\dos\file_a-d\black_jec\247\d\bla247d1.vom  Infection: Black_Jec.247.D (exact)
+u:\collection\dos\file_a-d\black_jec\247\d\blackjec.256  Infection: Black_Jec.247.D (exact)
+u:\collection\dos\file_a-d\black_jec\247\e\blackjec.247.d  Infection: Black_Jec.247.E (exact)
+u:\collection\dos\file_a-d\black_jec\247\g\virus.dos.blackjec.247.e  Infection: Black_Jec.247.G (exact)
+u:\collection\dos\file_a-d\black_jec\247\h\virus.dos.blackjec.247.f  Infection: Black_Jec.247.H (exact)
+u:\collection\dos\file_a-d\black_jec\247\i\virus.dos.blackjec.247.g  Infection: Black_Jec.247.I (exact)
+u:\collection\dos\file_a-d\black_jec\247\unknown\blackjec.247.h  Infection: Black_Jec.247.unknown?
+u:\collection\dos\file_a-d\black_jec\252\a\blackjec.252  Infection: Black_Jec.252.A (exact)
+u:\collection\dos\file_a-d\black_jec\267\a\BJ-267.vom  Infection: Black_Jec.267.A (exact)
+u:\collection\dos\file_a-d\black_jec\267\c\virus.dos.blackjec.267.b  Infection: Black_Jec.267.C (exact)
+u:\collection\dos\file_a-d\black_jec\267\d\virus.dos.blackjec.267.c  Infection: Black_Jec.267.D (exact)
+u:\collection\dos\file_a-d\black_jec\267\e\virus.dos.blackjec.267.d  Infection: Black_Jec.267.E (exact)
+u:\collection\dos\file_a-d\black_jec\272\a\BJ-272.vom  Infection: Black_Jec.272.A (exact)
+u:\collection\dos\file_a-d\black_jec\272\b\bjec5.com  Infection: Black_Jec.272.B (exact)
 u:\collection\dos\file_a-d\black_jec\276\a\BJ-276.vom  Infection: Black_Jec.276.A (exact)
 u:\collection\dos\file_a-d\black_jec\276\c\Virus.DOS.BlackJec.276.b  Infection: Black_Jec.276.C (exact)
+u:\collection\dos\file_a-d\black_jec\276\d\virus.dos.blackjec.276.c  Infection: Black_Jec.276.D (exact)
 u:\collection\dos\file_a-d\black_jec\276\e\Virus.DOS.BlackJec.276.d  Infection: Black_Jec.276.E (exact)
+u:\collection\dos\file_a-d\black_jec\281\c\blackjec.281.a  Infection: Black_Jec.281.C (exact)
+u:\collection\dos\file_a-d\black_jec\281\d\blackjec.281.b  Infection: Black_Jec.281.D (exact)
+u:\collection\dos\file_a-d\black_jec\284\virus.dos.blackjec.284  Infection: Black_Jec.284 (exact)
 u:\collection\dos\file_a-d\black_jec\287\a\BJ-287.vom  Infection: Black_Jec.287.A (exact)
+u:\collection\dos\file_a-d\black_jec\287\c\virus.dos.blackjec.287.b  Infection: Black_Jec.287.C (exact)
 u:\collection\dos\file_a-d\black_jec\287\d\Virus.DOS.BlackJec.287.c  Infection: Black_Jec.287.D (exact)
+u:\collection\dos\file_a-d\black_jec\287\e\virus.dos.blackjec.287.d  Infection: Black_Jec.287.E (exact)
 u:\collection\dos\file_a-d\black_jec\292\a\BJ-292.vom  Infection: Black_Jec.292.A (exact)
+u:\collection\dos\file_a-d\black_jec\292\b\bljec292.com  Infection: Black_Jec.292.B (exact)
+u:\collection\dos\file_a-d\black_jec\292\unknown\virus.dos.blackjec.292.b  Infection: Black_Jec.292.unknown?
 u:\collection\dos\file_a-d\black_jec\358\a\BJ-358.vom  Infection: Black_Jec.358.A (exact)
 u:\collection\dos\file_a-d\black_jec\358\b\Virus.DOS.BlackJec.358.c  Infection: Black_Jec.358.B (exact) - Dropper
 u:\collection\dos\file_a-d\black_jec\358\d\Virus.DOS.BlackJec.358.e  Infection: Black_Jec.358.D (exact)
-u:\collection\dos\file_a-d\black_jec\363\Virus.DOS.BlackJec.363.d  Infection: Black_Jec.363.unknown? - Dropper
+u:\collection\dos\file_a-d\black_jec\363\Virus.DOS.BlackJec.363.d  Infection: Black_Jec.363.unknown?
+u:\collection\dos\file_a-d\black_jec\363\b\blackjec.363  Infection: Black_Jec.363.B (exact)
+u:\collection\dos\file_a-d\black_jec\363\c\bjec363b.c1  Infection: Black_Jec.363.C (exact)
+u:\collection\dos\file_a-d\black_jec\363\c\bjec363b.c2  Infection: Black_Jec.363.C (exact)
+u:\collection\dos\file_a-d\black_jec\363\c\bjec363b.c3  Infection: Black_Jec.363.C (exact)
+u:\collection\dos\file_a-d\black_jec\363\c\virus.dos.blackjec.363.c  Infection: Black_Jec.363.C (exact)
+u:\collection\dos\file_a-d\black_jec\367\virus.dos.blackjec.367  Infection: Black_Jec.367
 u:\collection\dos\file_a-d\black_jec\369\BJ-369.vom  Infection: Black_Jec.369.A (exact)
+u:\collection\dos\file_a-d\black_jec\369\c\virus.dos.blackjec.369.b  Infection: Black_Jec.369.C (exact)
 u:\collection\dos\file_a-d\black_jec\374\a\BJ-374.vom  Infection: Black_Jec.374.A (exact)
+u:\collection\dos\file_a-d\black_jec\374\b\bljec374.com  Infection: Black_Jec.374.B (exact)
 u:\collection\dos\file_a-d\black_jec\374\c\Virus.DOS.BlackJec.374.c  Infection: Black_Jec.374.C (exact)
 u:\collection\dos\file_a-d\black_jec\378\BJ-378.vom  Infection: Black_Jec.378 (exact)
+u:\collection\dos\file_a-d\black_jec\385\virus.dos.blackjec.385  Infection: Black_Jec.385 (exact)
 u:\collection\dos\file_a-d\black_jec\427\a\BJ-DX427.vom  Infection: Black_Jec.427.A (exact)
 u:\collection\dos\file_a-d\black_jec\427\b\Virus.DOS.BlackJec.427.b  Infection: Black_Jec.427.B (exact)
 u:\collection\dos\file_a-d\black_jec\440\BJ-DX440.vom  Infection: Black_Jec.440.A (exact)
@@ -3037,150 +3075,616 @@ u:\collection\dos\file_a-d\black_jec\441\a\a8901a852e4719a8098f891cfe0cdb55af3f1
 u:\collection\dos\file_a-d\black_jec\441\a\BJ-441.vom  Infection: Black_Jec.441.A (exact)
 u:\collection\dos\file_a-d\black_jec\441\b\a9744de43db0dccbdb20db754c35eecbeceff110a94876cde4a7fd708c931de9  Infection: Black_Jec.441.B (exact)
 u:\collection\dos\file_a-d\black_jec\sad\300\a\BJ-S300.vom  Infection: Black_Jec.Sad.300.A (exact)
+u:\collection\dos\file_a-d\black_jec\sad\300\b\virus.dos.blackjec.300.b  Infection: Black_Jec.Sad.300.B (exact)
+u:\collection\dos\file_a-d\black_jec\sad\300\c\bj-s300.vom  Infection: Black_Jec.Sad.300.C (exact)
 u:\collection\dos\file_a-d\black_jec\sad\301\a\BJ-S301.vom  Infection: Black_Jec.Sad.301.A (exact)
+u:\collection\dos\file_a-d\black_jec\sad\301\b\sad.ex_  Infection: Black_Jec.Sad.301.B (exact)
+u:\collection\dos\file_a-d\black_jec\sad\301\c\bj-s301.vom  Infection: Black_Jec.Sad.301.C (exact)
+u:\collection\dos\file_a-d\black_jec\sad\301\d\virus.dos.blackjec.301.b  Infection: Black_Jec.Sad.301.D (exact)
 u:\collection\dos\file_a-d\black_jec\sad\307\a\BJ-S307.vom  Infection: Black_Jec.Sad.307.A (exact)
+u:\collection\dos\file_a-d\black_jec\sad\307\b\bj-s307.vom  Infection: Black_Jec.Sad.307.B (exact)
 u:\collection\dos\file_a-d\black_monday\0781\a\BM-0781.vom  Infection: Black_Monday.781.A (exact)
+u:\collection\dos\file_a-d\black_monday\0928\virus.dos.blackmonday.928  Infection: Black_Monday.928 (exact)
 u:\collection\dos\file_a-d\black_monday\1055\a\BM-1055A.vom  Infection: Black_Monday.1055.A (exact)
 u:\collection\dos\file_a-d\black_monday\1055\a\BMONDAYB.vom  Infection: Black_Monday.1055.A (exact)
+u:\collection\dos\file_a-d\black_monday\1055\e\bmon-e.vom  Infection: Black_Monday.1055.E (exact)
+u:\collection\dos\file_a-d\black_monday\1055\f\bmon-f.vom  Infection: Black_Monday.1055.F (exact)
+u:\collection\dos\file_a-d\black_monday\1055\g\bmon-g.vom  Infection: Black_Monday.1055.G (exact)
+u:\collection\dos\file_a-d\black_monday\1055\h\bmon-h.vom  Infection: Black_Monday.1055.H (exact)
+u:\collection\dos\file_a-d\black_monday\1055\unknown\virus.dos.blackmonday.1055.b  Infection: Black_Monday.1055.unknown?
+u:\collection\dos\file_a-d\bladder\1015\a\bladder0.vxe  Infection: Bladder.1015.A (exact)
+u:\collection\dos\file_a-d\bladder\1015\a\bladder1.vxe  Infection: Bladder.1015.A (exact)
+u:\collection\dos\file_a-d\bladder\1015\c\virus.dos.blackadder.1015  Infection: Bladder.1015.C (exact)
 u:\collection\dos\file_a-d\blade_runner\831\bladerun.vom  Infection: Blade_Runner.831 (exact)
+u:\collection\dos\file_a-d\blah\3379\blah-.vom  Infection: Blah.3379 image file (bad sample)
+u:\collection\dos\file_a-d\blah\3379\bvblah.vom  Infection: Blah.3379
+u:\collection\dos\file_a-d\blava\787\virus.dos.blava.787  Infection: Blava.787
+u:\collection\dos\file_a-d\blazer\1000\virus.dos.blazer.1000  Infection: Blazer.1000 (exact)
 u:\collection\dos\file_a-d\blin\230\Virus.DOS.Blin.230  Infection: Blin.230 (exact)
+u:\collection\dos\file_a-d\blind_guardian\346\virus.dos.i13.blind.346  Infection: Blind_Guardian.346 (exact)
+u:\collection\dos\file_a-d\blind_guardian\549\virus.dos.blind.549  Infection: Blind_Guardian.549
 u:\collection\dos\file_a-d\blink\501\BLIN0501.vom  Infection: Blink.501 (exact)
 u:\collection\dos\file_a-d\blink\504\BLIN0504.vom  Infection: Blink.504 (exact)
 u:\collection\dos\file_a-d\blood\418\a\BLOOD.vom  Infection: Blood.418.A (exact)
+u:\collection\dos\file_a-d\blood\418\d\virus.dos.blood.418.b  Infection: Blood.418.D
 u:\collection\dos\file_a-d\bloodlust\302\BLOODLUS.vom  Infection: Bloodlust.302
+u:\collection\dos\file_a-d\bloody_revenge\727\virus.dos.bloodyrevenger.727  Infection: Bloody_Revenge.727
+u:\collection\dos\file_a-d\bloody_warrior\1344\a\virus.dos.bloodywarrior  Infection: Bloody_Warrior.1344.A (exact)
+u:\collection\dos\file_a-d\blood_monday\968\virus.dos.bloodmonday.968  Infection: Blood_Monday.968 (exact)
 u:\collection\dos\file_a-d\blood_rage\450\a\BLOODRAG.vom  Infection: Blood_Rage.450.A (exact)
-u:\collection\dos\file_a-d\blue_nine\925\a\Virus.DOS.BlueNine.925.b  Infection: Blue_Nine.925.A (exact)
-u:\collection\dos\file_a-d\blue_nine\925\b\BNINE-B.vom  Infection: Blue_Nine.925.B (exact)
+u:\collection\dos\file_a-d\blood_rage\450\b\bloodrag.vom  Infection: Blood_Rage.450.B (exact)
+u:\collection\dos\file_a-d\blood_rage\451\virus.dos.betaboys.451  Infection: Blood_Rage.451
+u:\collection\dos\file_a-d\blossom\1087\virus.dos.blos.1087  Infection: Blossom.1087
+u:\collection\dos\file_a-d\blotus\2390\virus.dos.lotus.2390  Infection: Blotus.2390 (exact)
+u:\collection\dos\file_a-d\blotus\2407\virus.dos.lotus.2407  Infection: Blotus.2407
+u:\collection\dos\file_a-d\bluesky\1360\virus.dos.bluesky.1360  Infection: Bluesky.1360
+u:\collection\dos\file_a-d\blue_nine\0925\a\Virus.DOS.BlueNine.925.b  Infection: Blue_Nine.925.A (exact)
+u:\collection\dos\file_a-d\blue_nine\0925\b\BNINE-B.vom  Infection: Blue_Nine.925.B (exact)
+u:\collection\dos\file_a-d\blue_nine\0925\d\virus.dos.bluenine.925.c  Infection: Blue_Nine.925.D (exact)
+u:\collection\dos\file_a-d\blue_nine\1725\virus.dos.bluenine.1725  Infection: Blue_Nine.1725 (exact)
+u:\collection\dos\file_a-d\blue_poison\487\virus.dos.riot.bluepoison.487  Infection: Blue_Poison.487
+u:\collection\dos\file_a-d\blue_shark\1771\virus.dos.blueshark.1771  Infection: Blue_Shark.1771
+u:\collection\dos\file_a-d\bmbb\762\virus.dos.bmbb.762  Infection: BMBB.762 (exact)
 u:\collection\dos\file_a-d\bmbb\766\bmbb766.vom  Infection: BMBB.766 (exact)
 u:\collection\dos\file_a-d\bne\1115\intenbne.vom  Infection: BnE.1115
+u:\collection\dos\file_a-d\bny\1365\virus.dos.bony.1365  Infection: Bny.1365
 u:\collection\dos\file_a-d\bny\1373\Virus.DOS.Bony.1373  Infection: Bny.1373 (exact)
+u:\collection\dos\file_a-d\bny\1406\virus.dos.nrlg.bny.1406  Infection: Bny.1406 (exact)
 u:\collection\dos\file_a-d\bob\682\448.vxe  Infection: Bob.682
+u:\collection\dos\file_a-d\bobas\754\virus.dos.bobas.754  Infection: Bobas.754
+u:\collection\dos\file_a-d\bobby\613\virus.dos.bobby.513  Infection: Bobby.613 (exact)
+u:\collection\dos\file_a-d\bobo\0427\virus.dos.bobo.427  Infection: Bobo.427 (exact)
+u:\collection\dos\file_a-d\bobo\0530\virus.dos.bobo.530  Infection: Bobo.530
 u:\collection\dos\file_a-d\bobo\1355\Virus.DOS.Bobo.1355  Infection: Bobo.1563
 u:\collection\dos\file_a-d\bobo\1363\Virus.DOS.Bobo.1363  Infection: Bobo.1563
 u:\collection\dos\file_a-d\bobo\1373\Virus.DOS.Bobo.1373  Infection: Bobo.1373
 u:\collection\dos\file_a-d\bodybuilding\884\a\body884a.vxe  Infection: BodyBuilding.884.A (exact)
 u:\collection\dos\file_a-d\bodybuilding\884\b\Virus.DOS.Body.884.b  Infection: BodyBuilding.884.unknown?
 u:\collection\dos\file_a-d\bodycount\1078\Virus.DOS.Ifor.1078  Infection: BodyCount.1078
+u:\collection\dos\file_a-d\bodycount\1427\d\virus.dos.ifor.1427  Infection: BodyCount.1427.D (exact)
 u:\collection\dos\file_a-d\boing\349\Virus.DOS.Boing.349  Infection: Boing.349 (exact)
 u:\collection\dos\file_a-d\bolek\1326\Virus.DOS.Bolek.1326  Infection: Bolek.1326
-u:\collection\dos\file_a-d\bolero\0983\a\787e969c8844f7e32d9cc2b264ded93d1b48b9f454b9fda29d51d307f04eb069  Infection: Bolero.983.A (exact) - Dropper
+u:\collection\dos\file_a-d\bolero\0749\boler749.c1  Infection: Bolero.749 (exact)
+u:\collection\dos\file_a-d\bolero\0749\boler749.c2  Infection: Bolero.749 (exact)
+u:\collection\dos\file_a-d\bolero\0749\boler749.c3  Infection: Bolero.749 (exact)
+u:\collection\dos\file_a-d\bolero\0749\wci05693.vom  Infection: Bolero.749 (exact)
+u:\collection\dos\file_a-d\bolero\0983\a\bolero.vom  Infection: Bolero.983.A (exact)
 u:\collection\dos\file_a-d\bolero\0983\a\bolero983.vom  Infection: Bolero.983.A (exact)
-u:\collection\dos\file_a-d\bolero\0983\a\e30615d94a2b3915e24f93db97424cdf1e66917d2e9351b0828bc641c60bd52a  Infection: Bolero.983.A (exact)
-u:\collection\dos\file_a-d\bolero\0983\b\afaa3a0d23ece87abe9b9f4bfe3db57c74e4dd2ac937d23e15ad82771b4b1dcb  Infection: Bolero.983.B (exact)
-u:\collection\dos\file_a-d\bolero\1000\bol1.vom  Infection: Bolero.1000.unknown?
-u:\collection\dos\file_a-d\bolero\1000\bol2.vom  Infection: Bolero.1000.unknown?
+u:\collection\dos\file_a-d\bolero\0983\b\bolerob.vom  Infection: Bolero.983.B (exact)
 u:\collection\dos\file_a-d\bolero\1000\a\123d50f82b8780325403bc87920ddc16853a6d7412f66f8037916935ce4426e1  Infection: Bolero.1000.A (exact)
 u:\collection\dos\file_a-d\bolero\1000\b\6af8c92aeda023c44c2c1987978fa97ec82db8437019a790b5426c5d190042c4  Infection: Bolero.1000.B (exact)
 u:\collection\dos\file_a-d\bolero\1039\29881b3c582b79e3a36c856c4f040ecbc270427c82e070c763d9ee32a39daca0  Infection: Bolero.1039 (exact)
-u:\collection\dos\file_a-d\bolero\1039\da6b6223aa1fa73fa3e5e8af6459cca797a32a49739e2d505a8c39a193cd1a00  Infection: Bolero.1039 (exact) - Dropper
 u:\collection\dos\file_a-d\bolero\1100\a\faba9dbc8e03fb6bd18294cdb27a00906f3d738fdb01d1416c15dd7c774e6cfe  Infection: Bolero.1100.A (exact)
 u:\collection\dos\file_a-d\bolero\1100\b\136eeae17cd38f45ae20ac1093993eb34b336f627f2edb11aa542ec6d0b4fe98  Infection: Bolero.1100.B (exact)
-u:\collection\dos\file_a-d\bolero\1254\e6283ce1042a9fa02c8b842343460f935c90fe1f1893d42390d256149c503302  Infection: Bolero.1254 (exact) - Dropper
+u:\collection\dos\file_a-d\bolero\1254\a\bolero0.vom  Infection: Bolero.1254 (exact)
+u:\collection\dos\file_a-d\bolero\1254\b\a.vom  Infection: Bolero.1254.unknown?
+u:\collection\dos\file_a-d\bolero\1254\b\t1.vom  Infection: Bolero.1254.unknown?
+u:\collection\dos\file_a-d\bolero\1254\b\t3.vom  Infection: Bolero.1254.unknown?
 u:\collection\dos\file_a-d\bolero\1300\bole1300.vom  Infection: Bolero.1300
+u:\collection\dos\file_a-d\bolero\1307\virus.dos.bolero.1307  Infection: Bolero.1307
+u:\collection\dos\file_a-d\bolero\1470\LWM.vom  Infection: Bolero.1470.unknown?
+u:\collection\dos\file_a-d\bolero\1470\t1.vom  Infection: Bolero.1470.unknown?
+u:\collection\dos\file_a-d\bolero\1470\t3.vom  Infection: Bolero.1470.unknown?
 u:\collection\dos\file_a-d\bolero\1470\Virus.DOS.Bolero.1470  Infection: Bolero.1470.unknown?
 u:\collection\dos\file_a-d\bomb\1492\Virus.DOS.Bomb.1492  Infection: _1492
-u:\collection\dos\file_a-d\boojum\BOOJUM.vxe  Infection: Boojum.334.A (exact)
-u:\collection\dos\file_a-d\boojum\Virus.DOS.Ku.334.b  Infection: Boojum.334.A (exact)
+u:\collection\dos\file_a-d\bombole\334\virus.dos.bombole.334  Infection: Bombole.334 (exact)
+u:\collection\dos\file_a-d\bombole\400\virus.dos.bombole.400  Infection: Bombole.400
+u:\collection\dos\file_a-d\bombole\511\virus.dos.bombole.511  Infection: Bombole.511 (exact)
+u:\collection\dos\file_a-d\bombole\512\virus.dos.bombole.512  Infection: Bombole.512
+u:\collection\dos\file_a-d\bomj\904\virus.dos.bomj.904  Infection: Bomj.904 (exact)
+u:\collection\dos\file_a-d\booja\334\virus.dos.ku.334.c  Infection: Booja.334
+u:\collection\dos\file_a-d\boojum\334\a\BOOJUM.vxe  Infection: Boojum.334.A (exact)
+u:\collection\dos\file_a-d\boojum\334\a\Virus.DOS.Ku.334.b  Infection: Boojum.334.A (exact)
+u:\collection\dos\file_a-d\boojum\334\b\booj334b.e1  Infection: Boojum.334.B (exact)
+u:\collection\dos\file_a-d\boojum\334\b\booj334b.e2  Infection: Boojum.334.B (exact)
+u:\collection\dos\file_a-d\boojum\334\b\booj334b.e3  Infection: Boojum.334.B (exact)
 u:\collection\dos\file_a-d\bootcom\512\a\LOCKOUT.vom  Infection: BootCom.512.A
 u:\collection\dos\file_a-d\bootexe\394\Virus.DOS.ExeHeader.394  Infection: BootEXE.394 (exact)
+u:\collection\dos\file_a-d\bootexe\396\virus.dos.exeheader.396  Infection: BootEXE.396 (exact)
+u:\collection\dos\file_a-d\bootexe\451\a\be451.vxe  Infection: BootEXE.451.A (exact)
+u:\collection\dos\file_a-d\bootexe\451\a\bexe-451.com  Infection: BootEXE.451.A (exact)
+u:\collection\dos\file_a-d\bootexe\451\a\bootexe.451.exe  Infection: BootEXE.451.A (exact)
+u:\collection\dos\file_a-d\bootexe\451\a\bootex~1.com  Infection: BootEXE.451.A (exact)
+u:\collection\dos\file_a-d\bootexe\452\be452.vxe  Infection: BootEXE.452 (exact)
+u:\collection\dos\file_a-d\bootexe\452\bexe-452.com  Infection: BootEXE.452 (exact)
+u:\collection\dos\file_a-d\bootexe\452\bootexe_.vom  Infection: BootEXE.452 (exact)
+u:\collection\dos\file_a-d\bootexe\452\bootex~2.com  Infection: BootEXE.452 (exact)
+u:\collection\dos\file_a-d\bootexe\453\a\virus.dos.exeheader.bosco.a  Infection: BootEXE.453.A (exact)
 u:\collection\dos\file_a-d\bootexe\453\b\Virus.DOS.ExeHeader.Bosco.b  Infection: BootEXE.453.B (exact)
+u:\collection\dos\file_a-d\bootexe\453\c\virus.dos.exeheader.bosco.c  Infection: BootEXE.453.C (exact)
+u:\collection\dos\file_a-d\bootexe\453\d\virus.dos.exeheader.bosco.d  Infection: BootEXE.453.D (exact)
+u:\collection\dos\file_a-d\bootexe\512\virus.dos.exeheader.394.b  Infection: BootEXE.512 (exact)
+u:\collection\dos\file_a-d\bopp\421\virus.dos.destructor.421  Infection: Bopp.421
 u:\collection\dos\file_a-d\born\0895\Virus.DOS.Born2Loose.895  Infection: Born.895.unknown?
+u:\collection\dos\file_a-d\born\0970\virus.dos.born2loose.970  Infection: Born.970
+u:\collection\dos\file_a-d\born\0974\virus.dos.vienna.born.974  Infection: Born.974 (exact)
+u:\collection\dos\file_a-d\born\1038\b\virus.dos.born2loose.1038  Infection: Born.1038.B (exact)
 u:\collection\dos\file_a-d\born\1049\Virus.DOS.Anti-AV.1049  Infection: Born.1049
+u:\collection\dos\file_a-d\boso\1037\virus.dos.boso.1037  Infection: Boso.1037 (exact)
+u:\collection\dos\file_a-d\boso\1388\virus.dos.boso.1388  Infection: Boso.1388 (exact)
+u:\collection\dos\file_a-d\boso\1636\virus.dos.boso.1636  Infection: Boso.1636
 u:\collection\dos\file_a-d\bowl\135\Virus.DOS.SillyC.135  Infection: Bowl.135 (exact)
 u:\collection\dos\file_a-d\bowl\737\bowl737b.vom  Infection: Bowl.737
+u:\collection\dos\file_a-d\bowl\742\virus.dos.bowl.742  Infection: Bowl.742
 u:\collection\dos\file_a-d\boys\500\BOYS2.vom  Infection: Boys.500 (exact)
+u:\collection\dos\file_a-d\bpu\2269\virus.dos.bpu.2269  Infection: Bpu.2269
+u:\collection\dos\file_a-d\bpu\2338\virus.dos.bpu.2345  Infection: Bpu.2338
 u:\collection\dos\file_a-d\br\1180\Virus.DOS.BR.1180  Infection: BR.1180 (exact)
 u:\collection\dos\file_a-d\brackets\1367\Virus.DOS.Brackets.1367  Infection: _1367
 u:\collection\dos\file_a-d\brainy\1531\BRAINY.vom  Infection: Brainy.1531
+u:\collection\dos\file_a-d\breakdown\997\virus.dos.breakdown.997  Infection: Breakdown.997
+u:\collection\dos\file_a-d\breaking\1000\a\virus.dos.black.1000.a  Infection: Breaking.1000.A (exact)
+u:\collection\dos\file_a-d\breaking\1000\b\virus.dos.angel.1000.a  Infection: Breaking.1000.B (exact)
+u:\collection\dos\file_a-d\breaking\1000\c\virus.dos.black.1000.b  Infection: Breaking.1000.C (exact)
+u:\collection\dos\file_a-d\breath\3457\virus.dos.breath.3457  Infection: Breath.3457
+u:\collection\dos\file_a-d\breeder\0172\breede~3.vom  Infection: Breeder.172
+u:\collection\dos\file_a-d\breeder\0172\by.vom  Infection: Breeder.172
+u:\collection\dos\file_a-d\breeder\5152\breeder.vom  Infection: Breeder.5152
+u:\collection\dos\file_a-d\bresci\2078\b\bresc-b.e1  Infection: Bresci.2078.B (exact)
+u:\collection\dos\file_a-d\bresci\2078\b\bresc-b.e2  Infection: Bresci.2078.B (exact)
+u:\collection\dos\file_a-d\bresci\2078\b\bresc-b.e3  Infection: Bresci.2078.B (exact)
+u:\collection\dos\file_a-d\bresci\2078\c\cabinfo.vxe  Infection: Bresci.2078.unknown?
+u:\collection\dos\file_a-d\bresci\2078\c\UUENCODE.vxe  Infection: Bresci.2078.unknown?
+u:\collection\dos\file_a-d\bresci\2078\c\virus.dos.krnl.2078  Infection: Bresci.2078.unknown?
 u:\collection\dos\file_a-d\brezhnev\974\virus.dos.brezhnev.974  Infection: _974
+u:\collection\dos\file_a-d\brownie\688\virus.dos.brownie.688  Infection: Brownie.688 (exact)
 u:\collection\dos\file_a-d\bryansk\673\BRYANSK.vom  Infection: Bryansk.673
+u:\collection\dos\file_a-d\bsb\789\a\virus.dos.sillyoe.789.b  Infection: BSB.789.A (exact)
 u:\collection\dos\file_a-d\bsb\789\b\Virus.DOS.SillyOE.789.a  Infection: BSB.789.B (exact)
+u:\collection\dos\file_a-d\btg\792\virus.dos.btg.792  Infection: BTG.792 (exact)
 u:\collection\dos\file_a-d\bubble\471\bubbles.vom  Infection: Bubble.471
+u:\collection\dos\file_a-d\bubble_house\397\virus.dos.house.389  Infection: Bubble_House.397
+u:\collection\dos\file_a-d\bubonic\2181\bub2181b.vxe  Infection: Bubonic.2181 (exact)
+u:\collection\dos\file_a-d\bubonic\2181\bubonic.vom  Infection: Bubonic.2181 (exact)
+u:\collection\dos\file_a-d\bubonic\2181\virus.dos.bubonic.2181  Infection: Bubonic.2181 (exact)
 u:\collection\dos\file_a-d\budo\0890\Virus.DOS.Budo.890  Infection: Budo.890
 u:\collection\dos\file_a-d\budo\1000\Virus.DOS.Budo.1000  Infection: Budo.1000 - Dropper
+u:\collection\dos\file_a-d\buendia\816\buendia.exe  Infection: BuenDia.816 (exact)
+u:\collection\dos\file_a-d\buffalo\486\virus.dos.buffalo.486  Infection: Buffalo.486 (exact)
+u:\collection\dos\file_a-d\buffeater\508\virus.dos.av_ck.508  Infection: Buffeater.508
+u:\collection\dos\file_a-d\buffy\1053\virus.dos.buffy.1053  Infection: Buffy.1053 (exact)
+u:\collection\dos\file_a-d\bug-2\920\virus.dos.bug.920  Infection: Bug-2.920
+u:\collection\dos\file_a-d\bugsb\282\virus.dos.bugsbunny.282  Infection: Bugsb.282 (exact)
+u:\collection\dos\file_a-d\bumbee\250\virus.dos.bumbee.250  Infection: Bumbee.250
+u:\collection\dos\file_a-d\bumbee\478\virus.dos.bumbee.478  Infection: Bumbee.478 (exact)
+u:\collection\dos\file_a-d\bumbee\480\virus.dos.bumbee.480  Infection: Bumbee.480
+u:\collection\dos\file_a-d\bumble\251\virus.dos.bumbee.251  Infection: Bumble.251
+u:\collection\dos\file_a-d\bumble\251\virus.dos.bumbee.251.b  Infection: Bumble.251
+u:\collection\dos\file_a-d\bunny\497\a\virus.dos.bugsbunny.497  Infection: Bunny.497.A (exact)
+u:\collection\dos\file_a-d\bunny\497\b\virus.dos.bugsbunny.497.b  Infection: Bunny.497.B (exact)
 u:\collection\dos\file_a-d\bupt\1220\a\BUPT.vom  Infection: BUPT.1220.A (exact)
 u:\collection\dos\file_a-d\bupt\1220\b\bupt12~2.vom  Infection: BUPT.1220.B (exact)
 u:\collection\dos\file_a-d\bupt\1220\c\c.vom  Infection: BUPT.1220.C (exact)
 u:\collection\dos\file_a-d\bupt\1261\a\bupt12~4.vom  Infection: BUPT.1261.A (exact)
-u:\collection\dos\file_a-d\burger\382\a\BURG382.vom  Infection: Burger.382.A (exact)
-u:\collection\dos\file_a-d\burger\382\a\BURG_382.vom  Infection: Burger.382.A (exact)
-u:\collection\dos\file_a-d\burger\382\c\B-382C.vom  Infection: Burger.382.C (exact)
-u:\collection\dos\file_a-d\burger\405\a\BURG405A.vom  Infection: Burger.405.A (exact)
-u:\collection\dos\file_a-d\burger\405\c\virus_2790.vir  Infection: Burger.405.C (exact) - Dropper
-u:\collection\dos\file_a-d\burger\405\f\B-405F.vom  Infection: Burger.405.F (exact)
-u:\collection\dos\file_a-d\burger\441\a\B-441A.vom  Infection: Burger.441.A (exact)
-u:\collection\dos\file_a-d\burger\442\e.vom  Infection: Burma.442.F (exact)
-u:\collection\dos\file_a-d\burger\512\a\B-512A.vom  Infection: Burger.512.A (exact)
-u:\collection\dos\file_a-d\burger\512\b\Virus.DOS.Burger.512.b  Infection: Burger.512.B (exact)
-u:\collection\dos\file_a-d\burger\536\a\B-536.vom  Infection: Burger.536.A (exact)
-u:\collection\dos\file_a-d\burger\542\B-542.vom  Infection: Burger.542 (exact)
-u:\collection\dos\file_a-d\burger\560\a\B-560A.vom  Infection: Burger.560.A (exact)
-u:\collection\dos\file_a-d\burger\560\ah\BURG560K.vom  Infection: Burger.560.AH (exact)
-u:\collection\dos\file_a-d\burger\560\ak\B-560AK.vom  Infection: Burger.560.AK (exact)
-u:\collection\dos\file_a-d\burger\560\al\B-560AL.vom  Infection: Burger.560.AL (exact)
-u:\collection\dos\file_a-d\burger\560\ao\B-560AO.vom  Infection: Burger.560.AO (exact)
-u:\collection\dos\file_a-d\burger\560\aq\B-560AQ.vom  Infection: Burger.560.AQ (exact)
-u:\collection\dos\file_a-d\burger\560\at\B-560AT.vom  Infection: Burger.560.AT (exact)
-u:\collection\dos\file_a-d\burger\560\av\B-560AV.vom  Infection: Burger.560.AV (exact)
-u:\collection\dos\file_a-d\burger\560\aw\B-560AW.vom  Infection: Burger.560.AW (exact)
-u:\collection\dos\file_a-d\burger\560\b\B-560B.vom  Infection: Burger.560.B (exact)
-u:\collection\dos\file_a-d\burger\560\c\BURG-541.vom  Infection: Burger.560.C (exact)
-u:\collection\dos\file_a-d\burger\560\c\BURG560C.vom  Infection: Burger.560.C (exact)
-u:\collection\dos\file_a-d\burger\560\cb\br.vom  Infection: Burger.560.CB (exact)
-u:\collection\dos\file_a-d\burger\560\cf\a5.vom  Infection: Burger.560.CF (exact)
-u:\collection\dos\file_a-d\burger\560\ch\brg560bt.c1  Infection: Burger.560.CH (exact)
-u:\collection\dos\file_a-d\burger\560\ci\brg560bs.c1  Infection: Burger.560.CI (exact)
-u:\collection\dos\file_a-d\burger\560\ck\burge653.vom  Infection: Burger.560.CK (exact)
-u:\collection\dos\file_a-d\burger\560\cm\g.vom  Infection: Burger.560.CM (exact)
-u:\collection\dos\file_a-d\burger\560\cn\Virus.DOS.Burger.560.a10  Infection: Burger.560.CN (exact) - Dropper
-u:\collection\dos\file_a-d\burger\560\cx\B-560LIQ.vom  Infection: Burger.560.CX (exact)
-u:\collection\dos\file_a-d\burger\560\d\B-560D.vom  Infection: Burger.560.D (exact)
-u:\collection\dos\file_a-d\burger\560\dc\Virus.DOS.Burger.560.p2  Infection: Burger.560.DC
-u:\collection\dos\file_a-d\burger\560\e\BURG560E.vom  Infection: Burger.560.E (exact)
-u:\collection\dos\file_a-d\burger\560\f\B-560F.vom  Infection: Burger.560.F (exact)
-u:\collection\dos\file_a-d\burger\560\g\B-560G.vom  Infection: Burger.560.G (exact)
-u:\collection\dos\file_a-d\burger\560\h\B-560-B.vom  Infection: Burger.560.H (exact)
-u:\collection\dos\file_a-d\burger\560\h\BURG560H.vom  Infection: Burger.560.H (exact)
-u:\collection\dos\file_a-d\burger\560\i\B-560I.vom  Infection: Burger.560.I (exact)
-u:\collection\dos\file_a-d\burger\560\j\BURG560J.vom  Infection: Burger.560.J (exact)
-u:\collection\dos\file_a-d\burger\560\k\B-560K.vom  Infection: Burger.560.K (exact)
-u:\collection\dos\file_a-d\burger\560\p\BURG-CIA.vom  Infection: Burger.560.P (exact)
-u:\collection\dos\file_a-d\burger\560\p\BURGER.vom  Infection: Burger.560.P (exact)
-u:\collection\dos\file_a-d\burger\560\q\B-560Q.vom  Infection: Burger.560.Q (exact)
-u:\collection\dos\file_a-d\burger\560\s\B-560S.vom  Infection: Burger.560.S (exact)
-u:\collection\dos\file_a-d\burger\560\v\B-560V.vom  Infection: Burger.560.V (exact)
-u:\collection\dos\file_a-d\burger\560\w\B-560W.vom  Infection: Burger.560.W (exact)
-u:\collection\dos\file_a-d\burger\560\x\B-560X.vom  Infection: Burger.560.X (exact)
-u:\collection\dos\file_a-d\burger\560\y\B-560Y.vom  Infection: Burger.560.Y (exact)
-u:\collection\dos\file_a-d\burger\609\a\BURGPIRA.vom  Infection: Burger.609.A (exact)
+u:\collection\dos\file_a-d\bupt\1261\b\bpt1261b.vom  Infection: BUPT.1261.B (exact)
+u:\collection\dos\file_a-d\bupt\1261\c\virus.dos.jessica.1261  Infection: BUPT.1261.C (exact)
+u:\collection\dos\file_a-d\bupt\1261\d\virus.dos.shanghai_ii.1261  Infection: BUPT.1261.D (exact)
+u:\collection\dos\file_a-d\bupt\1279\a\virus.dos.traveller.1279  Infection: BUPT.1279.A (exact)
+u:\collection\dos\file_a-d\bupt\1279\d\virus.dos.traveller.1279.b  Infection: BUPT.1279.D (exact)
+u:\collection\dos\file_a-d\bupt\1568\virus.dos.jerusalem.bupt.1367.b  Infection: BUPT.1568 (exact)
+u:\collection\dos\file_a-d\bur\4183\virus.dos.iwag.4183  Infection: Bur.4183
+u:\collection\dos\file_a-d\burger\0382\a\BURG382.vom  Infection: Burger.382.A (exact)
+u:\collection\dos\file_a-d\burger\0382\a\BURG_382.vom  Infection: Burger.382.A (exact)
+u:\collection\dos\file_a-d\burger\0382\c\B-382C.vom  Infection: Burger.382.C (exact)
+u:\collection\dos\file_a-d\burger\0393\a\405_.vom  Infection: Burger.393.A (exact)
+u:\collection\dos\file_a-d\burger\0398\bait2.vom  Infection: Burger.398 (exact)
+u:\collection\dos\file_a-d\burger\0398\new6.vom  Infection: Burger.398 (exact)
+u:\collection\dos\file_a-d\burger\0405\a\BURG405A.vom  Infection: Burger.405.A (exact)
+u:\collection\dos\file_a-d\burger\0405\b\b!405b.vom  Infection: Burger.405.B (exact)
+u:\collection\dos\file_a-d\burger\0405\b\burger.405.b  Infection: Burger.405.B (exact)
+u:\collection\dos\file_a-d\burger\0405\b\burger~1.vom  Infection: Burger.405.B (exact)
+u:\collection\dos\file_a-d\burger\0405\c\virus_2790.vir  Infection: Burger.405.C (exact) - Dropper
+u:\collection\dos\file_a-d\burger\0405\f\B-405F.vom  Infection: Burger.405.F (exact)
+u:\collection\dos\file_a-d\burger\0405\g\405unkno.vom  Infection: Burger.405.G (exact)
+u:\collection\dos\file_a-d\burger\0405\g\bait1.vom  Infection: Burger.405.G (exact)
+u:\collection\dos\file_a-d\burger\0441\a\B-441A.vom  Infection: Burger.441.A (exact)
+u:\collection\dos\file_a-d\burger\0441\c\burg441.vom  Infection: Burger.441.C (exact)
+u:\collection\dos\file_a-d\burger\0442\e.vom  Infection: Burma.442.F (exact)
+u:\collection\dos\file_a-d\burger\0498\b\virus.dos.burger.498  Infection: Burger.498.B (exact) - Dropper
+u:\collection\dos\file_a-d\burger\0505\e\virus.dos.burger.505.e  Infection: Burger.505.E (exact)
+u:\collection\dos\file_a-d\burger\0505\f\virus.dos.burger.505.b  Infection: Burger.505.F (exact)
+u:\collection\dos\file_a-d\burger\0505\g\virus.dos.burger.505.b2  Infection: Burger.505.G (exact) - Dropper
+u:\collection\dos\file_a-d\burger\0505\j\bur505j0.vom  Infection: Burger.505.J (exact)
+u:\collection\dos\file_a-d\burger\0505\l\bur505l0.vom  Infection: Burger.505.L (exact)
+u:\collection\dos\file_a-d\burger\0505\m\virus.dos.burger.505.a  Infection: Burger.505.M (exact)
+u:\collection\dos\file_a-d\burger\0505\n\bur505n0.vom  Infection: Burger.505.N (exact)
+u:\collection\dos\file_a-d\burger\0505\p\virus.dos.burger.505.d  Infection: Burger.505.P (exact)
+u:\collection\dos\file_a-d\burger\0509\a\_509~1.vom  Infection: Burger.509.A (exact)
+u:\collection\dos\file_a-d\burger\0509\b\virus.dos.burger.509  Infection: Burger.509.B (exact) - Dropper
+u:\collection\dos\file_a-d\burger\0512\a\B-512A.vom  Infection: Burger.512.A (exact)
+u:\collection\dos\file_a-d\burger\0512\b\Virus.DOS.Burger.512.b  Infection: Burger.512.B (exact)
+u:\collection\dos\file_a-d\burger\0536\a\B-536.vom  Infection: Burger.536.A (exact)
+u:\collection\dos\file_a-d\burger\0542\B-542.vom  Infection: Burger.542 (exact)
+u:\collection\dos\file_a-d\burger\0560\a\B-560A.vom  Infection: Burger.560.A (exact)
+u:\collection\dos\file_a-d\burger\0560\aa\virus.dos.burger.560.r2  Infection: Burger.560.AA (exact)
+u:\collection\dos\file_a-d\burger\0560\ab\virus.dos.burger.560.t  Infection: Burger.560.AB (exact)
+u:\collection\dos\file_a-d\burger\0560\ad\virus.dos.burger.560.w2  Infection: Burger.560.AD (exact)
+u:\collection\dos\file_a-d\burger\0560\ae\virus.dos.burger.560.w  Infection: Burger.560.AE (exact)
+u:\collection\dos\file_a-d\burger\0560\ag\b-560ag.vom  Infection: Burger.560.AG (exact)
+u:\collection\dos\file_a-d\burger\0560\ah\BURG560K.vom  Infection: Burger.560.AH (exact)
+u:\collection\dos\file_a-d\burger\0560\ai\virus.dos.burger.560.i  Infection: Burger.560.AI (exact)
+u:\collection\dos\file_a-d\burger\0560\ak\B-560AK.vom  Infection: Burger.560.AK (exact)
+u:\collection\dos\file_a-d\burger\0560\al\B-560AL.vom  Infection: Burger.560.AL (exact)
+u:\collection\dos\file_a-d\burger\0560\ao\B-560AO.vom  Infection: Burger.560.AO (exact)
+u:\collection\dos\file_a-d\burger\0560\aq\B-560AQ.vom  Infection: Burger.560.AQ (exact)
+u:\collection\dos\file_a-d\burger\0560\at\B-560AT.vom  Infection: Burger.560.AT (exact)
+u:\collection\dos\file_a-d\burger\0560\av\B-560AV.vom  Infection: Burger.560.AV (exact)
+u:\collection\dos\file_a-d\burger\0560\aw\B-560AW.vom  Infection: Burger.560.AW (exact)
+u:\collection\dos\file_a-d\burger\0560\b\B-560B.vom  Infection: Burger.560.B (exact)
+u:\collection\dos\file_a-d\burger\0560\ba\virus.dos.burger.int.542  Infection: Burger.560.BA (exact)
+u:\collection\dos\file_a-d\burger\0560\bc\virus.dos.burger.560.x  Infection: Burger.560.BC (exact)
+u:\collection\dos\file_a-d\burger\0560\bd\virus.dos.burger.560.v  Infection: Burger.560.BD (exact)
+u:\collection\dos\file_a-d\burger\0560\be\virus.dos.burger.560.y  Infection: Burger.560.BE (exact)
+u:\collection\dos\file_a-d\burger\0560\bf\virus.dos.burger.560.a4  Infection: Burger.560.BF (exact)
+u:\collection\dos\file_a-d\burger\0560\bg\burger.560.j3  Infection: Burger.560.BG (exact)
+u:\collection\dos\file_a-d\burger\0560\bh\virus.dos.burger.560  Infection: Burger.560.BH (exact)
+u:\collection\dos\file_a-d\burger\0560\bj\virus.dos.burger.560  Infection: Burger.560.BJ (exact)
+u:\collection\dos\file_a-d\burger\0560\c\BURG-541.vom  Infection: Burger.560.C (exact)
+u:\collection\dos\file_a-d\burger\0560\c\BURG560C.vom  Infection: Burger.560.C (exact)
+u:\collection\dos\file_a-d\burger\0560\cb\br.vom  Infection: Burger.560.CB (exact)
+u:\collection\dos\file_a-d\burger\0560\cc\virus.dos.burger.560.bm  Infection: Burger.560.CC (exact)
+u:\collection\dos\file_a-d\burger\0560\ce\virus.dos.burger.560.d2  Infection: Burger.560.CE (exact)
+u:\collection\dos\file_a-d\burger\0560\cf\a5.vom  Infection: Burger.560.CF (exact)
+u:\collection\dos\file_a-d\burger\0560\cg\burger.405.e  Infection: Burger.560.CG (exact)
+u:\collection\dos\file_a-d\burger\0560\ch\brg560bt.c1  Infection: Burger.560.CH (exact)
+u:\collection\dos\file_a-d\burger\0560\ch\virus2.vxe  Infection: Burger.560.CH (exact)
+u:\collection\dos\file_a-d\burger\0560\ci\brg560bs.c1  Infection: Burger.560.CI (exact)
+u:\collection\dos\file_a-d\burger\0560\ck\burge653.vom  Infection: Burger.560.CK (exact)
+u:\collection\dos\file_a-d\burger\0560\cm\g.vom  Infection: Burger.560.CM (exact)
+u:\collection\dos\file_a-d\burger\0560\cn\Virus.DOS.Burger.560  Infection: Burger.560.CN (exact)
+u:\collection\dos\file_a-d\burger\0560\cs\burg560o.vom  Infection: Burger.560.CS (exact)
+u:\collection\dos\file_a-d\burger\0560\ct\virus.dos.burger.560.aa  Infection: Burger.560.CT (exact)
+u:\collection\dos\file_a-d\burger\0560\cv\virus.dos.burger.560.a7  Infection: Burger.560.CV (exact)
+u:\collection\dos\file_a-d\burger\0560\cw\virus.dos.burger.560.a6  Infection: Burger.560.CW (exact)
+u:\collection\dos\file_a-d\burger\0560\cx\rb2.vom  Infection: Burger.560.CX (exact)
+u:\collection\dos\file_a-d\burger\0560\cy\virus.dos.burger.560.n2  Infection: Burger.560.CY (exact)
+u:\collection\dos\file_a-d\burger\0560\cz\virus.dos.burger.560  Infection: Burger.560.CZ (exact)
+u:\collection\dos\file_a-d\burger\0560\d\B-560D.vom  Infection: Burger.560.D (exact)
+u:\collection\dos\file_a-d\burger\0560\db\virus.dos.burger.560  Infection: Burger.560.DB (exact)
+u:\collection\dos\file_a-d\burger\0560\dc\Virus.DOS.Burger.560.p2  Infection: Burger.560.DC
+u:\collection\dos\file_a-d\burger\0560\e\BURG560E.vom  Infection: Burger.560.E (exact)
+u:\collection\dos\file_a-d\burger\0560\f\B-560F.vom  Infection: Burger.560.F (exact)
+u:\collection\dos\file_a-d\burger\0560\g\B-560G.vom  Infection: Burger.560.G (exact)
+u:\collection\dos\file_a-d\burger\0560\h\B-560-B.vom  Infection: Burger.560.H (exact)
+u:\collection\dos\file_a-d\burger\0560\i\B-560I.vom  Infection: Burger.560.I (exact)
+u:\collection\dos\file_a-d\burger\0560\j\BURG560J.vom  Infection: Burger.560.J (exact)
+u:\collection\dos\file_a-d\burger\0560\k\B-560K.vom  Infection: Burger.560.K (exact)
+u:\collection\dos\file_a-d\burger\0560\l\virus.dos.burger.560.m  Infection: Burger.560.L (exact)
+u:\collection\dos\file_a-d\burger\0560\m\virus.dos.burger.560.k  Infection: Burger.560.M (exact)
+u:\collection\dos\file_a-d\burger\0560\p\BURG-CIA.vom  Infection: Burger.560.P (exact)
+u:\collection\dos\file_a-d\burger\0560\p\BURGER.vom  Infection: Burger.560.P (exact)
+u:\collection\dos\file_a-d\burger\0560\q\B-560Q.vom  Infection: Burger.560.Q (exact)
+u:\collection\dos\file_a-d\burger\0560\s\B-560S.vom  Infection: Burger.560.S (exact)
+u:\collection\dos\file_a-d\burger\0560\unknown\560.vxe  Infection: Burger.560.BG (exact)
+u:\collection\dos\file_a-d\burger\0560\unknown\virdunk3.vom  Infection: Burger.560.unknown?
+u:\collection\dos\file_a-d\burger\0560\unknown\virus.dos.burger.405.f  Infection: Burger.560.unknown?
+u:\collection\dos\file_a-d\burger\0560\unknown\virus.dos.burger.560.bn  Infection: Burger.560.unknown?
+u:\collection\dos\file_a-d\burger\0560\unknown\virus.dos.burger.int.560  contains Burger.560 (non-working)
+u:\collection\dos\file_a-d\burger\0560\v\B-560V.vom  Infection: Burger.560.V (exact)
+u:\collection\dos\file_a-d\burger\0560\w\B-560W.vom  Infection: Burger.560.W (exact)
+u:\collection\dos\file_a-d\burger\0560\x\B-560X.vom  Infection: Burger.560.X (exact)
+u:\collection\dos\file_a-d\burger\0560\y\B-560Y.vom  Infection: Burger.560.Y (exact)
+u:\collection\dos\file_a-d\burger\0609\a\BURGPIRA.vom  Infection: Burger.609.A (exact)
+u:\collection\dos\file_a-d\burger\0750\a\virus.dos.burger.750  Infection: Burger.750.A (exact)
+u:\collection\dos\file_a-d\burger\1310\b\virus.dos.burger.1310  Infection: Burger.1310.B (exact) - Dropper
 u:\collection\dos\file_a-d\burghofer\525\BURGHOF.vom  Infection: Burghofer.525
+u:\collection\dos\file_a-d\burglar\0777\virus.dos.burglar.777  Infection: Burglar.777
+u:\collection\dos\file_a-d\burglar\0820\virus.dos.burglar.820  Infection: Burglar.820
 u:\collection\dos\file_a-d\burglar\0824\Virus.DOS.Burglar.824  Infection: Burglar.824
+u:\collection\dos\file_a-d\burglar\0833\virus.dos.burglar.833  Infection: Burglar.833
+u:\collection\dos\file_a-d\burglar\0877\virus.dos.burglar.877  Infection: Burglar.877
 u:\collection\dos\file_a-d\burglar\1004\Virus.DOS.Burglar.1004  Infection: Burglar.1004
+u:\collection\dos\file_a-d\burglar\1029\virus.dos.cannabis_ii.1029  Infection: Burglar.1029
 u:\collection\dos\file_a-d\burglar\1042\Virus.DOS.Burglar.1042  Infection: Burglar.1042
+u:\collection\dos\file_a-d\burglar\1047\virus.dos.burglar.1047  Infection: Burglar.1047 - Dropper
 u:\collection\dos\file_a-d\burglar\1050\Virus.DOS.Burglar.1050  Infection: Burglar.1050
+u:\collection\dos\file_a-d\burglar\1150\a\bur1150a.vxe  Infection: Burglar.1150.A (exact)
+u:\collection\dos\file_a-d\burglar\1150\a\bur1150b.vxe  Infection: Burglar.1150.A (exact)
+u:\collection\dos\file_a-d\burglar\1150\a\bur1150c.vxe  Infection: Burglar.1150.A (exact)
+u:\collection\dos\file_a-d\burglar\1150\a\bur1150d.vxe  Infection: Burglar.1150.A (exact)
+u:\collection\dos\file_a-d\burglar\1150\a\bur1150e.vxe  Infection: Burglar.1150.A (exact)
+u:\collection\dos\file_a-d\burglar\1150\a\bur1150f.vxe  Infection: Burglar.1150.A (exact)
+u:\collection\dos\file_a-d\burglar\1150\a\burglar.vxe  Infection: Burglar.1150.A (exact)
+u:\collection\dos\file_a-d\burglar\1150\c\virus.dos.burglar.1150.dropper  Infection: Burglar.1150.C (exact) - Dropper
+u:\collection\dos\file_a-d\burglar\1150\d\virus.dos.burglar.1150  Infection: Burglar.1150.D (exact)
 u:\collection\dos\file_a-d\burglar\1356\Virus.DOS.Burglar.1356  Infection: Burglar.1356 (exact)
+u:\collection\dos\file_a-d\burglar\1365\virus.dos.burglar.1365  Infection: Burglar.1365
+u:\collection\dos\file_a-d\burglar\1413\virus.dos.ttt.1413  Infection: Burglar.1413
 u:\collection\dos\file_a-d\burma\442\a\BUR442A.vom  Infection: Burma.442.A (exact)
 u:\collection\dos\file_a-d\burma\442\b\BUR442B.vom  Infection: Burma.442.B (exact)
 u:\collection\dos\file_a-d\burma\442\d\Burma.442.d  Infection: Burma.442.D (exact)
+u:\collection\dos\file_a-d\burma\442\h\burma.vom  Infection: Burma.442.H (exact)
+u:\collection\dos\file_a-d\burma\442\i\burma.442.c  Infection: Burma.442.I (exact)
+u:\collection\dos\file_a-d\burma\442\l\wci0850v.vom  Infection: Burma.442.L (exact)
+u:\collection\dos\file_a-d\burma\442\n\burma2.vom  Infection: Burma.442.N (exact)
+u:\collection\dos\file_a-d\burma\442\o\burma.vom  Infection: Burma.442.O (exact)
+u:\collection\dos\file_a-d\burma\442\p\virus.dos.burma.442.i  Infection: Burma.442.P (exact)
+u:\collection\dos\file_a-d\burma\442\q\bur442b.vom  Infection: Burma.442.Q (exact)
 u:\collection\dos\file_a-d\burma\563\a\BUR563.vom  Infection: Burma.563.A (exact)
+u:\collection\dos\file_a-d\burma\756\virus.dos.burma.756  Infection: Burma.756 (exact)
+u:\collection\dos\file_a-d\burn\285\virus.dos.burn.285  Infection: Burn.285
+u:\collection\dos\file_a-d\burnt\743\virus.dos.bytesv.743  Infection: Burnt.743
+u:\collection\dos\file_a-d\burnt\773\virus.dos.bytesv.759  Infection: Burnt.773 (exact)
+u:\collection\dos\file_a-d\burnt\780\virus.dos.bytesv.780  Infection: Burnt.780
+u:\collection\dos\file_a-d\busm\3072\unknown\virus.dos.busmouse.3072  Infection: Busm.3072.unknown?
 u:\collection\dos\file_a-d\buster\511\Virus.DOS.Buster.511  Infection: Buster.511
+u:\collection\dos\file_a-d\butt\398\bat.butt.b  Infection: Butt.398
 u:\collection\dos\file_a-d\butt\461\BUTT.vom  Infection: Butt.461
+u:\collection\dos\file_a-d\butterfly\299\buttr299.c1  Infection: Butterfly.299 (exact)
+u:\collection\dos\file_a-d\butterfly\299\buttr299.c2  Infection: Butterfly.299 (exact)
+u:\collection\dos\file_a-d\butterfly\299\buttr299.c3  Infection: Butterfly.299 (exact)
+u:\collection\dos\file_a-d\butterfly\299\virus.dos.buttr.299  Infection: Butterfly.299 (exact) - Dropper
 u:\collection\dos\file_a-d\butterfly\302\a\BTR-BTRF.vom  Infection: Butterfly.302.A (exact)
 u:\collection\dos\file_a-d\butterfly\302\b\BTR-CCOM.vom  Infection: Butterfly.302.B (exact)
 u:\collection\dos\file_a-d\butterfly\302\c\but302c1.vxe  Infection: Butterfly.302.C (exact)
 u:\collection\dos\file_a-d\butterfly\302\c\ironbutr.vxe  Infection: Butterfly.302.C (exact)
+u:\collection\dos\file_a-d\butterfly\302\d\list.vom  Infection: Butterfly.302.D (exact) - Dropper
+u:\collection\dos\file_a-d\butterfly\302\d\t1.vom  Infection: Butterfly.302.D (exact)
+u:\collection\dos\file_a-d\butterfly\302\d\t3.vom  Infection: Butterfly.302.D (exact)
+u:\collection\dos\file_a-d\butterfly\302\e\Virus.DOS.Ash.302.b  Infection: Butterfly.302.E (exact)
+u:\collection\dos\file_a-d\butterfly\302\f\butter-f0.vom  Infection: Butterfly.302.F (exact)
+u:\collection\dos\file_a-d\butterfly\302\f\butter-f1.vom  Infection: Butterfly.302.F (exact)
+u:\collection\dos\file_a-d\butterfly\302\g\butter-g.vom  Infection: Butterfly.302.G (exact)
+u:\collection\dos\file_a-d\butterfly\302\h\butter-h0.vom  Infection: Butterfly.302.H (exact)
+u:\collection\dos\file_a-d\butterfly\302\h\butter-h1.vom  Infection: Butterfly.302.H (exact)
+u:\collection\dos\file_a-d\butterfly\302\i\butter-i.vom  Infection: Butterfly.302.I (exact)
+u:\collection\dos\file_a-d\butterfly\302\j\butter-j.vom  Infection: Butterfly.302.J (exact)
+u:\collection\dos\file_a-d\butterfly\302\k\readme.vom  Infection: Butterfly.302.K (exact)
+u:\collection\dos\file_a-d\butterfly\302\l\butterfi.c1  Infection: Butterfly.302.L (exact)
+u:\collection\dos\file_a-d\butterfly\302\l\butterfi.c2  Infection: Butterfly.302.L (exact)
+u:\collection\dos\file_a-d\butterfly\302\l\butterfi.c3  Infection: Butterfly.302.L (exact)
+u:\collection\dos\file_a-d\butterfly\302\m\butter-m.vom  Infection: Butterfly.302.M (exact)
+u:\collection\dos\file_a-d\butterfly\302\n\butter-n.vom  Infection: Butterfly.302.N (exact)
+u:\collection\dos\file_a-d\butterfly\302\o\butter-o.vom  Infection: Butterfly.302.O (exact)
+u:\collection\dos\file_a-d\butterfly\302\p\butter-p.vom  Infection: Butterfly.302.P (exact)
 u:\collection\dos\file_a-d\butterfly\342\KLD.vom  Infection: Butterfly.342
-u:\collection\dos\file_a-d\bw\372\BW-372.vom  Infection: BW.372
-u:\collection\dos\file_a-d\bw\401\bwmay401.c1  Infection: BW.401 (exact)
-u:\collection\dos\file_a-d\bw\401\bwmay401.c2  Infection: BW.401 (exact)
-u:\collection\dos\file_a-d\bw\474\BW-474.vom  Infection: BW.474
-u:\collection\dos\file_a-d\bw\747\c\bw750.c1  Infection: BW.747.C
-u:\collection\dos\file_a-d\bw\747\c\bw750.e1  Infection: BW.747.C
-u:\collection\dos\file_a-d\bw\756\BW-756.vom  Infection: BW.756 (exact)
-u:\collection\dos\file_a-d\bw\793\BW#793.vom  Infection: BW.793
-u:\collection\dos\file_a-d\bw\799\BW#799.vom  Infection: BW.799
-u:\collection\dos\file_a-d\bw\858\bw861.c1  Infection: BW.858
-u:\collection\dos\file_a-d\bw\858\bw861.e1  Infection: BW.858
+u:\collection\dos\file_a-d\bvm\831\virus.dos.bvm.831  Infection: BVM.831 (exact)
+u:\collection\dos\file_a-d\bw\0293\bwso293.c1  Infection: BW.293 (exact)
+u:\collection\dos\file_a-d\bw\0293\bwso293.c2  Infection: BW.293 (exact)
+u:\collection\dos\file_a-d\bw\0294\soitgoes.vom  Infection: BW.294 (exact)
+u:\collection\dos\file_a-d\bw\0304\virus.dos.ps-mpc.304  Infection: BW.304
+u:\collection\dos\file_a-d\bw\0309\a\blimp1.com  Infection: BW.309.A (exact)
+u:\collection\dos\file_a-d\bw\0309\a\blimp1.vxe  Infection: BW.309.A (exact) - Dropper
+u:\collection\dos\file_a-d\bw\0311\bw311~1.vom  Infection: BW.311 (exact)
+u:\collection\dos\file_a-d\bw\0323\phased.vom  Infection: BW.323
+u:\collection\dos\file_a-d\bw\0337\fluke.com  Infection: BW.337
+u:\collection\dos\file_a-d\bw\0371\bw371~1.vom  Infection: BW.371 (exact)
+u:\collection\dos\file_a-d\bw\0371\virus.dos.ps-mpc.chicago.371  Infection: BW.371 (exact)
+u:\collection\dos\file_a-d\bw\0371\_mom~1.vom  Infection: BW.371 (exact)
+u:\collection\dos\file_a-d\bw\0372\BW-372.vom  Infection: BW.372
+u:\collection\dos\file_a-d\bw\0382\blimp2.com  Infection: BW.382
+u:\collection\dos\file_a-d\bw\0382\blimp2.vxe  Infection: BW.382 - Dropper
+u:\collection\dos\file_a-d\bw\0401\bwmay401.c1  Infection: BW.401 (exact)
+u:\collection\dos\file_a-d\bw\0401\bwmay401.c2  Infection: BW.401 (exact)
+u:\collection\dos\file_a-d\bw\0402\a\bw!402 (2).com  Infection: BW.402.A (exact)
+u:\collection\dos\file_a-d\bw\0402\unknown\virus.dos.bw.399  Infection: BW.402.unknown? - Dropper
+u:\collection\dos\file_a-d\bw\0405\opy2.vxe  Infection: BW.405 (exact) - Dropper
+u:\collection\dos\file_a-d\bw\0409\a\bw!409 (2).com  Infection: BW.409.A (exact)
+u:\collection\dos\file_a-d\bw\0409\a\opy.vxe  Infection: BW.409.A (exact) - Dropper
+u:\collection\dos\file_a-d\bw\0409\unknown\virus.dos.bw.406  Infection: BW.409.unknown?
+u:\collection\dos\file_a-d\bw\0474\BW-474.vom  Infection: BW.474
+u:\collection\dos\file_a-d\bw\0475\a\bw!475 (2).com  Infection: BW.475.A (exact)
+u:\collection\dos\file_a-d\bw\0475\unknown\jethro.vxe  Infection: BW.475.unknown? - Dropper
+u:\collection\dos\file_a-d\bw\0496\bw!496.com  Infection: BW.496 (exact)
+u:\collection\dos\file_a-d\bw\0502\bw!502.com  Infection: BW.502 (exact)
+u:\collection\dos\file_a-d\bw\0502\virus.dos.mnemonix.mayberry.502  Infection: BW.502 (exact)
+u:\collection\dos\file_a-d\bw\0523\bw2.vxe  Infection: BW.523 - Dropper
+u:\collection\dos\file_a-d\bw\0525\bw-ex3.com  Infection: BW.525
+u:\collection\dos\file_a-d\bw\0525\bwunk_2.vxe  Infection: BW.525 - Dropper
+u:\collection\dos\file_a-d\bw\0525\bx5.vxe  Infection: BW.525 - Dropper
+u:\collection\dos\file_a-d\bw\0556\bw-ex2.com  Infection: BW.556 (exact) - Dropper
+u:\collection\dos\file_a-d\bw\0604\a\andy2.vxe  Infection: BW.604.A
+u:\collection\dos\file_a-d\bw\0604\a\andyex~1.vxe  Infection: BW.604.A
+u:\collection\dos\file_a-d\bw\0648\b\cibd.vxe  Infection: BW.648.B
+u:\collection\dos\file_a-d\bw\0666\virus.dos.bw.aos.666  Infection: BW.666 - Dropper
+u:\collection\dos\file_a-d\bw\0681\b\bbds.vxe  Infection: BW.681.B (exact)
+u:\collection\dos\file_a-d\bw\0687\a\bw!687.com  Infection: BW.687.A (exact)
+u:\collection\dos\file_a-d\bw\0687\a\bwm687a.vxe  Infection: BW.687.A (exact)
+u:\collection\dos\file_a-d\bw\0691\gomer.vxe  Infection: BW.691 (exact)
+u:\collection\dos\file_a-d\bw\0704\c\virus.dos.bw.704  Infection: BW.704.C (exact)
+u:\collection\dos\file_a-d\bw\0706\cin.vxe  Infection: BW.706
+u:\collection\dos\file_a-d\bw\0714\virus.dos.bw.714  Infection: BW.714 (exact)
+u:\collection\dos\file_a-d\bw\0726\virus.dos.lewd.a  Infection: BW.726
+u:\collection\dos\file_a-d\bw\0732\bw!732.com  Infection: BW.732 (exact)
+u:\collection\dos\file_a-d\bw\0732\bwm732a.vxe  Infection: BW.732 (exact)
+u:\collection\dos\file_a-d\bw\0740\oldefart.vxe  Infection: BW.740
+u:\collection\dos\file_a-d\bw\0747\a\bw!747.com  Infection: BW.747.A (exact)
+u:\collection\dos\file_a-d\bw\0747\a\otis.vxe  Infection: BW.747.A (exact)
+u:\collection\dos\file_a-d\bw\0747\c\bw750.c1  Infection: BW.747.C
+u:\collection\dos\file_a-d\bw\0747\c\bw750.e1  Infection: BW.747.C
+u:\collection\dos\file_a-d\bw\0747\unknown\virus.dos.bw.744  Infection: BW.747.unknown?
+u:\collection\dos\file_a-d\bw\0750\mscrump2.vxe  Infection: BW.750
+u:\collection\dos\file_a-d\bw\0751\a\bw751b.c1  Infection: BW.751.A
+u:\collection\dos\file_a-d\bw\0751\a\bw751b.c2  Infection: BW.751.A
+u:\collection\dos\file_a-d\bw\0751\a\bw751b.c3  Infection: BW.751.A
+u:\collection\dos\file_a-d\bw\0754\coyo-754.vom  Infection: BW.754 (exact)
+u:\collection\dos\file_a-d\bw\0754\coyo754-.vxe  Infection: BW.754 (exact)
+u:\collection\dos\file_a-d\bw\0754\coyo754_.vxe  Infection: BW.754 (exact)
+u:\collection\dos\file_a-d\bw\0754\coyot754.vxe  Infection: BW.754 (exact)
+u:\collection\dos\file_a-d\bw\0756\BW-756.vom  Infection: BW.756 (exact)
+u:\collection\dos\file_a-d\bw\0758\a\bw!758.com  Infection: BW.758.A (exact)
+u:\collection\dos\file_a-d\bw\0758\a\mscrump.vxe  Infection: BW.758.A (exact)
+u:\collection\dos\file_a-d\bw\0771\b\bwshk771.c1  Infection: BW.771.B (exact)
+u:\collection\dos\file_a-d\bw\0771\b\bwshk771.c2  Infection: BW.771.B (exact)
+u:\collection\dos\file_a-d\bw\0771\b\bwshk771.e1  Infection: BW.771.B (exact)
+u:\collection\dos\file_a-d\bw\0771\b\bwshk771.e2  Infection: BW.771.B (exact)
+u:\collection\dos\file_a-d\bw\0785\virus.dos.bw.aos.lord.785  Infection: BW.785 (exact) - Dropper
+u:\collection\dos\file_a-d\bw\0790\drole790.vom  Infection: BW.790
+u:\collection\dos\file_a-d\bw\0793\BW#793.vom  Infection: BW.793
+u:\collection\dos\file_a-d\bw\0796\drole796.vom  Infection: BW.796
+u:\collection\dos\file_a-d\bw\0799\BW#799.vom  Infection: BW.799
+u:\collection\dos\file_a-d\bw\0801\drole801.vom  Infection: BW.801 (exact)
+u:\collection\dos\file_a-d\bw\0802\quiet802.vom  Infection: BW.802
+u:\collection\dos\file_a-d\bw\0803\drole806.vom  Infection: BW.803
+u:\collection\dos\file_a-d\bw\0805\quiet805.vom  Infection: BW.805
+u:\collection\dos\file_a-d\bw\0808\quiet808.vom  Infection: BW.808
+u:\collection\dos\file_a-d\bw\0811\drole811.vom  Infection: BW.811
+u:\collection\dos\file_a-d\bw\0811\quiet811.vom  Infection: BW.811
+u:\collection\dos\file_a-d\bw\0814\quiet814.vom  Infection: BW.814
+u:\collection\dos\file_a-d\bw\0815\virus.dos.ca.815  Infection: BW.815 (exact)
+u:\collection\dos\file_a-d\bw\0816\drole816.vom  Infection: BW.816
+u:\collection\dos\file_a-d\bw\0817\quiet817.vom  Infection: BW.817
+u:\collection\dos\file_a-d\bw\0819\virus.dos.bw.aos.lord.819  Infection: BW.819
+u:\collection\dos\file_a-d\bw\0821\drole821.vom  Infection: BW.821
+u:\collection\dos\file_a-d\bw\0821\quiet821.vom  Infection: BW.821
+u:\collection\dos\file_a-d\bw\0823\quiet823.vom  Infection: BW.823
+u:\collection\dos\file_a-d\bw\0826\drole826.vom  Infection: BW.826
+u:\collection\dos\file_a-d\bw\0828\a\bw!828.com  Infection: BW.828.A
+u:\collection\dos\file_a-d\bw\0828\a\bwm828a.vxe  Infection: BW.828.A
+u:\collection\dos\file_a-d\bw\0857\archive.exe  Infection: BW.857 (exact)
+u:\collection\dos\file_a-d\bw\0858\bw861.c1  Infection: BW.858
+u:\collection\dos\file_a-d\bw\0858\bw861.e1  Infection: BW.858
+u:\collection\dos\file_a-d\bw\0860\1-sea860.vom  Infection: BW.860.A
+u:\collection\dos\file_a-d\bw\0860\1-sea860.vxe  Infection: BW.860.A
+u:\collection\dos\file_a-d\bw\0860\2-sea860.vom  Infection: BW.860.A
+u:\collection\dos\file_a-d\bw\0860\2-sea860.vxe  Infection: BW.860.A
+u:\collection\dos\file_a-d\bw\0860\3-sea860.vom  Infection: BW.860.A
+u:\collection\dos\file_a-d\bw\0860\3-sea860.vxe  Infection: BW.860.A
+u:\collection\dos\file_a-d\bw\0860\4-sea860.vom  Infection: BW.860.A
+u:\collection\dos\file_a-d\bw\0860\bwmrt860.e1  Infection: BW.860.B
+u:\collection\dos\file_a-d\bw\0860\seast860.vom  Infection: BW.860.A
+u:\collection\dos\file_a-d\bw\0860\virus.dos.bw.aos.860  Infection: BW.860 - Dropper
+u:\collection\dos\file_a-d\bw\0860\virus.dos.bw.seastorm.860  Infection: BW.860.A
+u:\collection\dos\file_a-d\bw\0860\b\bwmrt860.c1  Infection: BW.860.B
+u:\collection\dos\file_a-d\bw\0860\b\bwmrt860.c2  Infection: BW.860.B
+u:\collection\dos\file_a-d\bw\0860\b\bwmrt860.e2  Infection: BW.860.B
+u:\collection\dos\file_a-d\bw\0864\b\bwmrt867.c1  Infection: BW.864.B
+u:\collection\dos\file_a-d\bw\0864\b\bwmrt867.c2  Infection: BW.864.B
+u:\collection\dos\file_a-d\bw\0864\b\bwmrt867.e1  Infection: BW.864.B
+u:\collection\dos\file_a-d\bw\0864\b\bwmrt867.e2  Infection: BW.864.B
+u:\collection\dos\file_a-d\bw\0864\b\mortir.com  Infection: BW.864.B
+u:\collection\dos\file_a-d\bw\0864\b\mortir.exe  Infection: BW.864.B
+u:\collection\dos\file_a-d\bw\0881\b\virus.dos.bw.aos.881  Infection: BW.881.B
+u:\collection\dos\file_a-d\bw\0912\borg912.vom  Infection: BW.912
+u:\collection\dos\file_a-d\bw\0922\borg922.vom  Infection: BW.922
+u:\collection\dos\file_a-d\bw\0927\borg927.vom  Infection: BW.927
+u:\collection\dos\file_a-d\bw\0932\borg932.vom  Infection: BW.932
+u:\collection\dos\file_a-d\bw\0937\borg937.vom  Infection: BW.937
+u:\collection\dos\file_a-d\bw\0942\borg942.vom  Infection: BW.942
+u:\collection\dos\file_a-d\bw\0947\borg947.vom  Infection: BW.947
+u:\collection\dos\file_a-d\bw\0952\borg952.vom  Infection: BW.952
+u:\collection\dos\file_a-d\bw\0954\blimp3.vxe  Infection: BW.954 - Dropper
+u:\collection\dos\file_a-d\bw\0954\virus.dos.bwme.blimp.954  Infection: BW.954
+u:\collection\dos\file_a-d\bw\0957\borg957.vom  Infection: BW.957
+u:\collection\dos\file_a-d\bw\0967\borg967.vom  Infection: BW.967
+u:\collection\dos\file_a-d\bw\0972\borg972.vom  Infection: BW.972
+u:\collection\dos\file_a-d\bw\0977\borg977.vom  Infection: BW.977
+u:\collection\dos\file_a-d\bw\0982\borg982.vom  Infection: BW.982
+u:\collection\dos\file_a-d\bw\0987\borg987.vom  Infection: BW.987
+u:\collection\dos\file_a-d\bw\0989\989.com  Infection: BW.989
+u:\collection\dos\file_a-d\bw\0989\disea989.vxe  Infection: BW.989 - Dropper
+u:\collection\dos\file_a-d\bw\0992\borg992.vom  Infection: BW.992
+u:\collection\dos\file_a-d\bw\0997\borg997.vom  Infection: BW.997
+u:\collection\dos\file_a-d\bw\1001\fms1001.vxe  Infection: BW.1001 - Dropper
+u:\collection\dos\file_a-d\bw\1001\virus.dos.bwme.fms.1001  Infection: BW.1001
+u:\collection\dos\file_a-d\bw\1002\a\borg1002.vom  Infection: BW.1002.A
+u:\collection\dos\file_a-d\bw\1002\b\virus.dos.goma.1002  Infection: BW.1002.B (exact)
+u:\collection\dos\file_a-d\bw\1013\b\outbrk8.vxe  Infection: BW.1013.B (exact)
+u:\collection\dos\file_a-d\bw\1013\b\virus.dos.bwme.outbreak.1016  Infection: BW.1013.B (exact)
+u:\collection\dos\file_a-d\bw\1016\virus.dos.bw.metal.1019  Infection: BW.1016
+u:\collection\dos\file_a-d\bw\1027\bw1027a.vxe  Infection: BW.1027
+u:\collection\dos\file_a-d\bw\1027\dp4.vom  Infection: BW.1027
+u:\collection\dos\file_a-d\bw\1027\virus.dos.mnemonix.dementia.1027  Infection: BW.1027
+u:\collection\dos\file_a-d\bw\1031\dark1031.vom  Infection: BW.1031
+u:\collection\dos\file_a-d\bw\1035\virus.dos.bwme.1014  Infection: BW.1035 (exact)
+u:\collection\dos\file_a-d\bw\1036\dark1036.vom  Infection: BW.1036
+u:\collection\dos\file_a-d\bw\1041\dark1041.vom  Infection: BW.1041
+u:\collection\dos\file_a-d\bw\1044\rule2.vxe  Infection: BW.1044 (exact) - Dropper
+u:\collection\dos\file_a-d\bw\1044\virus.dos.bwme.ferengi.1044  Infection: BW.1044 (exact)
+u:\collection\dos\file_a-d\bw\1046\dark1046.vom  Infection: BW.1046
+u:\collection\dos\file_a-d\bw\1046\virus.dos.bw.skies-based  Infection: BW.1046
+u:\collection\dos\file_a-d\bw\1047\borg1047.vom  Infection: BW.1047
+u:\collection\dos\file_a-d\bw\1047\virus.dos.bw.borg-based  Infection: BW.1047
+u:\collection\dos\file_a-d\bw\1048\rule1.vxe  Infection: BW.1048 (exact)
+u:\collection\dos\file_a-d\bw\1048\virus.dos.bwme.ferengi.1048  Infection: BW.1048 (exact)
+u:\collection\dos\file_a-d\bw\1051\dark1051.vom  Infection: BW.1051
+u:\collection\dos\file_a-d\bw\1053\rule8.vxe  Infection: BW.1053 (exact)
+u:\collection\dos\file_a-d\bw\1053\virus.dos.bwme.rule.1056  Infection: BW.1053 (exact)
+u:\collection\dos\file_a-d\bw\1056\dark1056.vom  Infection: BW.1056
+u:\collection\dos\file_a-d\bw\1057\a\dark1057.vom  Infection: BW.1057.A
+u:\collection\dos\file_a-d\bw\1066\rule6.vxe  Infection: BW.1066 (exact)
+u:\collection\dos\file_a-d\bw\1066\virus.dos.bwme.rule.1069  Infection: BW.1066 (exact)
+u:\collection\dos\file_a-d\bw\1068\virus.dos.bwme.1068  Infection: BW.1068
+u:\collection\dos\file_a-d\bw\1071\rule5.vxe  Infection: BW.1071 (exact)
+u:\collection\dos\file_a-d\bw\1071\virus.dos.bwme.rule.1074  Infection: BW.1071 (exact)
+u:\collection\dos\file_a-d\bw\1077\virus.dos.bwme.1077  Infection: BW.1077
+u:\collection\dos\file_a-d\bw\1083\outbrk6.vxe  Infection: BW.1083 (exact)
+u:\collection\dos\file_a-d\bw\1083\virus.dos.bwme.outbreak.1083  Infection: BW.1083 (exact)
+u:\collection\dos\file_a-d\bw\1084\virus.dos.bwme.1084  Infection: BW.1084 (exact)
+u:\collection\dos\file_a-d\bw\1102\virus.dos.bwme.1102  Infection: BW.1102
+u:\collection\dos\file_a-d\bw\1123\neurol.vxe  Infection: BW.1123 (exact)
+u:\collection\dos\file_a-d\bw\1130\virus.dos.bwme.gangi.1130  Infection: BW.1130 (exact)
+u:\collection\dos\file_a-d\bw\1132\outbrk7.vxe  Infection: BW.1132 (exact)
+u:\collection\dos\file_a-d\bw\1145\virus.dos.bwme.gsd.1145  Infection: BW.1145 (exact)
+u:\collection\dos\file_a-d\bw\1147\ch.vxe  Infection: BW.1147 (exact)
+u:\collection\dos\file_a-d\bw\1147\virus.dos.bwme.cirrhosis.1147  Infection: BW.1147 (exact)
+u:\collection\dos\file_a-d\bw\1153\virus.dos.bwme.cowpox.1156  Infection: BW.1153 (exact)
+u:\collection\dos\file_a-d\bw\1158\bb.vxe  Infection: BW.1158
+u:\collection\dos\file_a-d\bw\1159\bwme_moo.vxe  Infection: BW.1159 (exact)
+u:\collection\dos\file_a-d\bw\1159\virus.dos.bwme.cowpox.1162  Infection: BW.1159 (exact)
+u:\collection\dos\file_a-d\bw\1220\badday.vxe  Infection: BW.1220 (exact)
+u:\collection\dos\file_a-d\bw\1220\virus.dos.bwme.badday.1220  Infection: BW.1220 (exact)
+u:\collection\dos\file_a-d\bw\1224\unknown\virus.dos.bwme.outbreak.1224  Infection: BW.1224.unknown? - Dropper
+u:\collection\dos\file_a-d\bw\1227\a\virus.dos.bwme.outbreak.1227  Infection: BW.1227.A (exact)
+u:\collection\dos\file_a-d\bw\1243\virus.dos.bwme.violator.1243  Infection: BW.1243
+u:\collection\dos\file_a-d\bw\1255\1255.exe  Infection: BW.1255 (exact)
+u:\collection\dos\file_a-d\bw\1255\virus.dos.bwme.snowbird.1255  Infection: BW.1255 (exact)
+u:\collection\dos\file_a-d\bw\1270\bw1.vxe  Infection: BW.1270
+u:\collection\dos\file_a-d\bw\1270\virus.dos.bwme.test.1287  Infection: BW.1270
+u:\collection\dos\file_a-d\bw\1274\bw3.vxe  Infection: BW.1274
+u:\collection\dos\file_a-d\bw\1285\delima.com  Infection: BW.1285
+u:\collection\dos\file_a-d\bw\1285\virus.dos.bw.delima  Infection: BW.1285
+u:\collection\dos\file_a-d\bw\1285\virus.dos.bwme.outbreak.1268  Infection: BW.1285
+u:\collection\dos\file_a-d\bw\1287\bw-ex1.com  Infection: BW.1287
+u:\collection\dos\file_a-d\bw\1287\bwunk_4.vxe  Infection: BW.1287
+u:\collection\dos\file_a-d\bw\1287\bx4.vxe  Infection: BW.1287
+u:\collection\dos\file_a-d\bw\1290\outbrk10.vxe  Infection: BW.1290
+u:\collection\dos\file_a-d\bw\1290\virus.dos.bwme.outbreak.1290  Infection: BW.1290
+u:\collection\dos\file_a-d\bw\1308\virus.dos.bwme.invader.1308  Infection: BW.1308
+u:\collection\dos\file_a-d\bw\1325\virus.dos.bwme.1325  Infection: BW.1325 - Dropper
+u:\collection\dos\file_a-d\bw\1338\1338.com  Infection: BW.1338
+u:\collection\dos\file_a-d\bw\1338\virus.dos.bw.luddite.1338  Infection: BW.1338
+u:\collection\dos\file_a-d\bw\1338\virus.dos.bwme.1340  Infection: BW.1338
+u:\collection\dos\file_a-d\bw\1342\virus.dos.bw.luddite.1342  Infection: BW.1342
+u:\collection\dos\file_a-d\bw\1346\1346.com  Infection: BW.1346
+u:\collection\dos\file_a-d\bw\1346\virus.dos.bw.luddite.1346  Infection: BW.1346
+u:\collection\dos\file_a-d\bw\1348\a\virus.dos.bg.1348  Infection: BW.1348.A (exact)
+u:\collection\dos\file_a-d\bw\1348\a\virus.dos.bwme.1348  Infection: BW.1348.A
+u:\collection\dos\file_a-d\bw\1378\twltoes.vxe  Infection: BW.1378
+u:\collection\dos\file_a-d\bw\1378\virus.dos.bwme.twelve.1378  Infection: BW.1378
+u:\collection\dos\file_a-d\bw\1383\oj.vxe  Infection: BW.1383
+u:\collection\dos\file_a-d\bw\1383\virus.dos.bwme.jelly.1383  Infection: BW.1383
+u:\collection\dos\file_a-d\bw\1396\jellyb.vxe  Infection: BW.1396
+u:\collection\dos\file_a-d\bw\1396\virus.dos.bwme.jelly.1396  Infection: BW.1396
+u:\collection\dos\file_a-d\bw\1433\virus.dos.bw.jakarta.1433  Infection: BW.1433
+u:\collection\dos\file_a-d\bw\1438\virus.dos.bw.1432  Infection: BW.1438
+u:\collection\dos\file_a-d\bw\1656\virus.dos.lewd.b  Infection: BW.1656
+u:\collection\dos\file_a-d\bw\1875\virus.dos.roet.1875  Infection: BW.1875
+u:\collection\dos\file_a-d\bw\2055\cf2055.com  Infection: BW.2055
+u:\collection\dos\file_a-d\bw\2055\virus.dos.mutagen.110.cf.2055  Infection: BW.2055
+u:\collection\dos\file_a-d\bw\2259\virus.dos.bw.roet.753  Infection: BW.2259
+u:\collection\dos\file_a-d\bw\32107\virus.dos.lewd.c  Infection: BW.32107
+u:\collection\dos\file_a-d\bw\mayberry\609\andy.vxe  Infection: BW.Mayberry.609 (exact)
+u:\collection\dos\file_a-d\bw\mayberry\609\bw!609.com  Infection: BW.Mayberry.609 (exact)
+u:\collection\dos\file_a-d\bw\mayberry\609\bwm609a.vxe  Infection: BW.Mayberry.609 (exact)
+u:\collection\dos\file_a-d\bward\1024\b\virus.dos.bward.1024  Infection: Bward.1024.B
+u:\collection\dos\file_a-d\byaka\864\virus.dos.byaka.864  Infection: Byaka.864 (exact)
+u:\collection\dos\file_a-d\bye-bye\768\virus.dos.byebye.768  Infection: Bye-bye.768 (exact)
+u:\collection\dos\file_a-d\bytesv\373\virus.dos.bytesv.379  Infection: ByteSV.373 (exact)
+u:\collection\dos\file_a-d\bytesv\377\virus.dos.bytesv.377  Infection: ByteSV.377
+u:\collection\dos\file_a-d\bytesv\378\virus.dos.bytesv.378  Infection: ByteSV.378
+u:\collection\dos\file_a-d\bytewipe\1204\virus.dos.bytewipe.1204  Infection: ByteWipe.1204
+u:\collection\dos\file_a-d\byte_warrior\1159\virus.dos.vienna.bytewarrior.1159  Infection: Byte_Warrior.1159
+u:\collection\dos\file_a-d\byte_warrior\1214\virus.dos.vienna.bytewarrior.1155.b  Infection: Byte_Warrior.1214 (exact)
+u:\collection\dos\file_a-d\byworm\1200\virus.dos.byworm.1200  Infection: Byworm.1200
+u:\collection\dos\file_a-d\byworm\1600\virus.dos.byworm.1600  Infection: Byworm.1600
+u:\collection\dos\file_a-d\bzz\522\virus.dos.bzz-based  Infection: Bzz.522 (exact)
+u:\collection\dos\file_a-d\bzz\525\virus.dos.bzz.525  Infection: Bzz.525 (exact)
+u:\collection\dos\file_a-d\bzz\699\t1.vom  Infection: Bzz.699
+u:\collection\dos\file_a-d\bzz\699\t2.vom  Infection: Bzz.699
+u:\collection\dos\file_a-d\bzz\699\t3.vom  Infection: Bzz.699
+u:\collection\dos\file_a-d\bzz\699\virus.dos.bzz.mutagen.695  Infection: Bzz.699
+u:\collection\dos\file_a-d\bzz\699\virus.dos.bzz.mutagen.699  Infection: Bzz.699
 u:\collection\dos\file_a-d\caca\390\ex2.vxe  Infection: Caca.390 (exact)
 u:\collection\dos\file_a-d\caca\390\t1.vxe  Infection: Caca.390 (exact)
 u:\collection\dos\file_a-d\caca\390\t3.vxe  Infection: Caca.390 (exact)
@@ -7020,20 +7524,21 @@ u:\collection\dos\file_a-d\dbf\1115\t7.vxe  Infection: DBF.1115
 u:\collection\dos\file_a-d\dbf\1115\t8.vom  Infection: DBF.1115
 u:\collection\dos\file_a-d\dbf\1115\trace.vxe  Infection: DBF.1115
 u:\collection\dos\file_a-d\dbf\1115\wci0163d.vxe  Infection: DBF.1115
-u:\collection\dos\file_a-d\dead\0790\dead-790.vom  Infection: Deaf.790
-u:\collection\dos\file_a-d\dead\0790\deaf790.vom  Infection: Deaf.790
-u:\collection\dos\file_a-d\dead\0790\t1.vom  Infection: Deaf.790
-u:\collection\dos\file_a-d\dead\0790\t2.vom  Infection: Deaf.790
-u:\collection\dos\file_a-d\dead\0790\t3.vom  Infection: Deaf.790
-u:\collection\dos\file_a-d\dead\0790\t4.vom  Infection: Deaf.790
-u:\collection\dos\file_a-d\dead\0790\t5.vom  Infection: Deaf.790
-u:\collection\dos\file_a-d\dead\0790\t6.vom  Infection: Deaf.790
-u:\collection\dos\file_a-d\dead\0790\t9.vom  Infection: Deaf.790
 u:\collection\dos\file_a-d\dead\1362\a\DEAD1362.vxe  Infection: Dead.1362.A (exact)
 u:\collection\dos\file_a-d\dead\1364\DEAD1364.vxe  Infection: Dead.1364 (exact)
+u:\collection\dos\file_a-d\dead\3948\Virus.DOS.AMD.3948  Infection: Dead.3948.A (exact)
 u:\collection\dos\file_a-d\deadboot\446\bnut448.vxe  Infection: Deadboot.448 (exact)
 u:\collection\dos\file_a-d\deadboot\446\t2.vxe  Infection: Deadboot.448 (exact)
 u:\collection\dos\file_a-d\deadboot\446\t3.vxe  Infection: Deadboot.448 (exact)
+u:\collection\dos\file_a-d\deaf\0790\dead-790.vom  Infection: Deaf.790
+u:\collection\dos\file_a-d\deaf\0790\deaf790.vom  Infection: Deaf.790
+u:\collection\dos\file_a-d\deaf\0790\t1.vom  Infection: Deaf.790
+u:\collection\dos\file_a-d\deaf\0790\t2.vom  Infection: Deaf.790
+u:\collection\dos\file_a-d\deaf\0790\t3.vom  Infection: Deaf.790
+u:\collection\dos\file_a-d\deaf\0790\t4.vom  Infection: Deaf.790
+u:\collection\dos\file_a-d\deaf\0790\t5.vom  Infection: Deaf.790
+u:\collection\dos\file_a-d\deaf\0790\t6.vom  Infection: Deaf.790
+u:\collection\dos\file_a-d\deaf\0790\t9.vom  Infection: Deaf.790
 u:\collection\dos\file_a-d\deathboy\640\db-640.vom  Infection: Deathboy.640
 u:\collection\dos\file_a-d\deathboy\640\dea640a.vxe  Infection: Deathboy.640
 u:\collection\dos\file_a-d\deathboy\640\grep.vom  Infection: Deathboy.640
@@ -18189,6 +18694,11 @@ u:\collection\dos\file_k-r\many_fingers\3-ma1322.vxe  Infection: Many_fingers.13
 u:\collection\dos\file_k-r\many_fingers\4-ma1322.vom  Infection: Many_fingers.1322.A (exact)
 u:\collection\dos\file_k-r\many_fingers\fingers.vom  Infection: Many_fingers.1322.A (exact)
 u:\collection\dos\file_k-r\many_fingers\v5125.vom  Infection: Many_fingers.1322.A (exact)
+u:\collection\dos\file_k-r\manzon\1385\virus.dos.manzon.1385  Infection: Manzon.1385
+u:\collection\dos\file_k-r\manzon\1395\virus.dos.manzon.1395  Infection: Manzon.1395
+u:\collection\dos\file_k-r\manzon\1408\virus.dos.manzon.1408  Infection: Manzon.1408 (exact)
+u:\collection\dos\file_k-r\manzon\1785\1785.com  Infection: Manzon.1785
+u:\collection\dos\file_k-r\manzon\1785\virus.dos.manzon.burning.1785  Infection: Manzon.1785
 u:\collection\dos\file_k-r\marauder\560\v5130.vom  Infection: Marauder.560
 u:\collection\dos\file_k-r\marauder\855\marau855.vom  Infection: Marauder.855
 u:\collection\dos\file_k-r\marauder\860\a\t1.vom  Infection: Marauder.860.A
@@ -18223,7 +18733,10 @@ u:\collection\dos\file_k-r\marawi\2719\t7.vom  Infection: Marawi.2828.B
 u:\collection\dos\file_k-r\marawi\2719\t7.vxe  Infection: Marawi.2828.B
 u:\collection\dos\file_k-r\marawi\2719\tf.vom  Infection: Marawi.2828.B
 u:\collection\dos\file_k-r\marawi\2719\tf.vxe  Infection: Marawi.2828.B
+u:\collection\dos\file_k-r\marawi\2750\virus.dos.marawi.2750  Infection: Marawi.2750 (exact)
 u:\collection\dos\file_k-r\marawi\2828\wci0068m.vxe  Infection: Marawi.2828.A
+u:\collection\dos\file_k-r\marawi\2888\philippines.2888.vom  Infection: Marawi.2888
+u:\collection\dos\file_k-r\marawi\2899\virus.dos.marawi.2899  Infection: Marawi.2899
 u:\collection\dos\file_k-r\marbas\1303\grep.vom  Infection: Marbas.1303
 u:\collection\dos\file_k-r\marbas\1303\keyb.vom  Infection: Marbas.1303
 u:\collection\dos\file_k-r\marbas\1303\marb1303.vom  Infection: Marbas.1303
@@ -18250,7 +18763,8 @@ u:\collection\dos\file_k-r\marbas\1313\t7.vom  Infection: Marbas.1313.A
 u:\collection\dos\file_k-r\marbas\1313\t9.vom  Infection: Marbas.1313.A
 u:\collection\dos\file_k-r\marbas\1313\thos.vom  Infection: Marbas.1313.A
 u:\collection\dos\file_k-r\maresme\maresme.vxe  Infection: Maresme.1062
-u:\collection\dos\file_k-r\marian\mari700.vom  Infection: Marian.700.A (exact)
+u:\collection\dos\file_k-r\marian\a\mari700.vom  Infection: Marian.700.A (exact)
+u:\collection\dos\file_k-r\marian\b\virus.dos.marian.700  Infection: Marian.700.B (exact)
 u:\collection\dos\file_k-r\mario\661\mario661.vxe  Infection: Mario.661 (exact)
 u:\collection\dos\file_k-r\mario\746\wci0073m.vxe  Infection: Mario.746.B (exact)
 u:\collection\dos\file_k-r\mario\746\wci04503.vxe  Infection: Mario.746.A (exact)
@@ -41209,14 +41723,14 @@ u:\collection\wince\trojan\brador\a\WinCE.Brador.vxe  is a security risk named W
 
 Results of virus scanning:
 
-Files: 45801
+Files: 46318
 MBRs: 0
 Boot sectors: 0
-Objects scanned: 42360
-Infected: 40749
+Objects scanned: 42877
+Infected: 41263
 Suspicious: 437
 Disinfected: 0
 Deleted: 0
 Renamed: 0
 
-Time: 1:36
+Time: 1:21
