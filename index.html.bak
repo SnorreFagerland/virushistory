@@ -11,7 +11,7 @@
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="virushistory" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="A museum of malicious samples from the DOS era" />
+<meta name="description" content="A repository of computer virus samples" />
 <meta property="og:description" content="A museum of malicious samples from the DOS era" />
 <link rel="canonical" href="https://snorrefagerland.github.io/virushistory/" />
 <meta property="og:url" content="https://snorrefagerland.github.io/virushistory/" />
@@ -39,7 +39,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1>virushistory</h1>
+      <h1>Computer virus history</h1>
       
 
       
