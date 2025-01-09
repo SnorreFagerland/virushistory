@@ -58,13 +58,19 @@ However, if you are one such person, either author, or have stories to tell abou
 <br><br>
 <h2>Other sites</h2>
 
-There are a few other sites that contain information about malware. Most of these are do not host actual samples, but they are valuable sources of information, and I'll be referencing them at times in connection wth the entries here. Some of these are:
+There are a few other sites that contain information about malware. Many of these do not host samples, but they are valuable sources of information, and I'll be referencing them at times in connection wth the entries here. Some of these are:
 
 * The Virus Encyclopedia (http://virus.wikidot.com/) for descriptions of various malware 
 * The Malware Museum (https://archive.org/details/malwaremuseum) for screen effects
 * The Amiga Virus Encyclopedia (https://www.vht-dk.dk/amiga/desc/virus.htm) for information on Amiga malware
 
+The Virus History Project contains only ancient (mostly pre-win32) material. If you are looking for actual **recent** samples, there are sites that specialize in that:
 
+* Malshare (https://malshare.com/)
+* MalwareBazaar (https://bazaar.abuse.ch/browse/)
+* VX Underground (https://vx-underground.org/samples.html)
+* Contagio (https://contagiodump.blogspot.com/)
+* Malware DB (https://thezoo.morirt.com/)
 
 <br><br>
 <h2>Can I use this collection for testing of security products?</h2>
