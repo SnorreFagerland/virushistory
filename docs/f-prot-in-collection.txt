@@ -1,4 +1,4 @@
-Virus scanning report  -  8 January 2025 @ 1:22
+Virus scanning report  -  10 January 2025 @ 12:38
 
 F-PROT ANTIVIRUS
 Program version: 3.16f
@@ -16,6 +16,13 @@ Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\docs\f-prot-in-collection
 Memory was not scanned.
 No viruses were found in MBRs or hard disk boot sectors.
 
+u:\collection\abap\virus\rivpas\a\rivpas-a0  Infection: ABAP/Rivpas.A (exact)
+u:\collection\abap\virus\rivpas\a\rivpas-a1  Infection: ABAP/Rivpas.A (exact)
+u:\collection\abap\virus\rivpas\a\rivpas-a2  Infection: ABAP/Rivpas.A (exact)
+u:\collection\abap\virus\rivpas\b\rivpasb  Infection: ABAP/Rivpas.B (exact)
+u:\collection\abap\virus\rivpas\c\rivpas-c0  Infection: ABAP/Rivpas.C (exact)
+u:\collection\abap\virus\rivpas\c\rivpas-c1  Infection: ABAP/Rivpas.C (exact)
+u:\collection\abap\virus\rivpas\d\rivpas-d  is a security risk or a "backdoor" program
 u:\collection\dos\bat\trojan\advir\a\trojan.bat.avir.11  Infection: BAT/Advir.A (exact)
 u:\collection\dos\bat\trojan\agobot\virus_3201.vir  Infection: BAT/Agobot@bd (exact)
 u:\collection\dos\bat\trojan\ansiform\trojan.ansi.deloss  Infection: BAT/Ansiform@troj (exact)
@@ -934,11 +941,17 @@ u:\collection\dos\boot\cannabis\b\cannabib.boo  Infection: Cannabis.B image file
 u:\collection\dos\boot\cannabis\c\cannabic.boo  Infection: Cannabis.C image file (exact)
 u:\collection\dos\boot\cannabis\d\cannabid.boo  Infection: Cannabis.D image file (exact)
 u:\collection\dos\boot\cannabis\e\cannabie.boo  Infection: Cannabis.E image file (exact)
+u:\collection\dos\boot\cannabis\f\canna-f.boo  Infection: Cannabis.F image file (exact)
 u:\collection\dos\boot\cannabis\g\cannabig.vom  Infection: Cannabis.G image file (exact)
 u:\collection\dos\boot\cannabis\h\cannabih.vom  Infection: Cannabis.H image file (exact)
+u:\collection\dos\boot\carnival\2346\carnival.boo  Infection: Carnival.2346 image file (exact)
 u:\collection\dos\boot\catman\65766dhg.boo  Infection: Catman image file (exact)
 u:\collection\dos\boot\catman\catman.boo  Infection: Catman image file (exact)
 u:\collection\dos\boot\chance\a\chance-a.boo  Infection: Chance.A image file (exact)
+u:\collection\dos\boot\chance\a\chancea.boo  Infection: Chance.A image file (exact)
+u:\collection\dos\boot\chance\b\chance-b.boo  Infection: Chance.B image file (exact)
+u:\collection\dos\boot\chance\c\chance-c.boo  Infection: Chance.C image file (exact)
+u:\collection\dos\boot\chance\d\virus.boot.chance.d  Infection: Chance.D image file (exact)
 u:\collection\dos\boot\chinese_fish\a\chines~1.boo  Infection: Chinese_Fish.A image file (exact)
 u:\collection\dos\boot\civil_defense\a\civil_~1.boo  Infection: Civil_Defense.6656.A image file (exact)
 u:\collection\dos\boot\cmosboot\intcmos.cc  Infection: CmosBoot (exact) - Dropper
@@ -3685,6 +3698,7 @@ u:\collection\dos\file_a-d\bzz\699\t2.vom  Infection: Bzz.699
 u:\collection\dos\file_a-d\bzz\699\t3.vom  Infection: Bzz.699
 u:\collection\dos\file_a-d\bzz\699\virus.dos.bzz.mutagen.695  Infection: Bzz.699
 u:\collection\dos\file_a-d\bzz\699\virus.dos.bzz.mutagen.699  Infection: Bzz.699
+u:\collection\dos\file_a-d\c7e\1262\virus.dos.c7e.1262  Infection: C7E.1262 (exact)
 u:\collection\dos\file_a-d\caca\390\ex2.vxe  Infection: Caca.390 (exact)
 u:\collection\dos\file_a-d\caca\390\t1.vxe  Infection: Caca.390 (exact)
 u:\collection\dos\file_a-d\caca\390\t3.vxe  Infection: Caca.390 (exact)
@@ -3693,11 +3707,41 @@ u:\collection\dos\file_a-d\caca\391\ex2.vxe  Infection: Caca.391
 u:\collection\dos\file_a-d\caca\391\t1.vxe  Infection: Caca.391
 u:\collection\dos\file_a-d\caca\391\t2.vxe  Infection: Caca.391
 u:\collection\dos\file_a-d\caca\391\wci06341.vxe  Infection: Caca.391
+u:\collection\dos\file_a-d\caco\2965\b\virus.dos.svc.caco.2965  Infection: Caco.2965.B (exact)
+u:\collection\dos\file_a-d\caco\3310\a\caco3310a.vxe  Infection: Caco.3310.A (exact)
+u:\collection\dos\file_a-d\caco\3310\c\virus.dos.svc.caco.3310  Infection: Caco.3310.C (exact)
+u:\collection\dos\file_a-d\cae\1978\a\cae-a.vxe  Infection: Cae.1978.A (exact)
+u:\collection\dos\file_a-d\cae\1978\c\virus.dos.caterpillar.1739  Infection: Cae.1978.C (exact)
 u:\collection\dos\file_a-d\caesar\655\Virus.DOS.Caesar.655  Infection: Caesar.655 (exact)
+u:\collection\dos\file_a-d\caesar\755\virus.dos.caesar.755  Infection: Caesar.755 (exact)
+u:\collection\dos\file_a-d\cafe\667\virus.dos.companion.667  Infection: Cafe.667
+u:\collection\dos\file_a-d\cagliari\620\cagl620.vom  Infection: Cagliari.620 (exact)
+u:\collection\dos\file_a-d\cagliari\620\virus.dos.cagliary.620  Infection: Cagliari.620 (exact)
+u:\collection\dos\file_a-d\cagliari\621\virus.dos.cagliary.621  Infection: Cagliari.621 (exact)
+u:\collection\dos\file_a-d\cagliari\622\virus.dos.cagliary.622  Infection: Cagliari.622
+u:\collection\dos\file_a-d\calu\2429\virus.dos.calu.2429  Infection: Calu.2429
 u:\collection\dos\file_a-d\camel\364\Virus.DOS.Camel.based  Infection: Camel.364 (exact)
+u:\collection\dos\file_a-d\camel\402\virus.dos.camel.402  Infection: Camel.402 (exact)
+u:\collection\dos\file_a-d\camel\421\virus.dos.camel.421  Infection: Camel.421 (exact)
+u:\collection\dos\file_a-d\camel\422\virus.dos.camel.422  Infection: Camel.422 (exact)
+u:\collection\dos\file_a-d\camel\425\virus.dos.camel.425  Infection: Camel.425
 u:\collection\dos\file_a-d\camel\442\Virus.DOS.Camel.442  Infection: Camel.442
+u:\collection\dos\file_a-d\camel\443\a\camel-a0.vom  Infection: Camel.443 (exact)
+u:\collection\dos\file_a-d\camel\443\a\camel-a1.vom  Infection: Camel.443 (exact)
+u:\collection\dos\file_a-d\camel\443\b\camel-b.vom  Infection: Camel.443.unknown?
+u:\collection\dos\file_a-d\camel\443\b\t1.vom  Infection: Camel.443.unknown?
+u:\collection\dos\file_a-d\camel\443\b\t3.vom  Infection: Camel.443.unknown?
+u:\collection\dos\file_a-d\camel\443\b\virus.dos.camel.443  Infection: Camel.443.unknown?
+u:\collection\dos\file_a-d\camel\483\virus.dos.camel.483  Infection: Camel.483 (exact) - Dropper
+u:\collection\dos\file_a-d\camel\496\virus.dos.camel.496  Infection: Camel.496 (exact)
+u:\collection\dos\file_a-d\camel\500\virus.dos.camel.500  Infection: Camel.500
+u:\collection\dos\file_a-d\camel\514\virus.dos.camel.514  Infection: Camel.514
+u:\collection\dos\file_a-d\camel\555\virus.dos.camel.555  Infection: Camel.555 (exact)
+u:\collection\dos\file_a-d\camila\1823\b\virus.dos.camila.1823  Infection: Camila.1823.B (exact)
+u:\collection\dos\file_a-d\camilo\0256\virus.dos.camilo.256  Infection: Camilo.256
+u:\collection\dos\file_a-d\camilo\0380\virus.dos.i13.camilo.380  Infection: Camilo.380 - Dropper
+u:\collection\dos\file_a-d\camilo\1240\virus.dos.i13.camilo.1240  Infection: Camilo.1240
 u:\collection\dos\file_a-d\camilo\247\Virus.DOS.I13.Camilo.247  Infection: Camilo.247
-u:\collection\dos\file_a-d\cancerbero\0670\killer.vxe  Infection: Cancerbero.670 (exact) - Dropper
 u:\collection\dos\file_a-d\cancerbero\0670\killer2.vom  Infection: Cancerbero.670 (exact)
 u:\collection\dos\file_a-d\cancerbero\0670\t1.vom  Infection: Cancerbero.670 (exact)
 u:\collection\dos\file_a-d\cancerbero\0670\t10.vom  Infection: Cancerbero.670 (exact)
@@ -3707,14 +3751,14 @@ u:\collection\dos\file_a-d\cancerbero\0670\t4.vom  Infection: Cancerbero.670 (ex
 u:\collection\dos\file_a-d\cancerbero\0670\t9.vom  Infection: Cancerbero.670 (exact)
 u:\collection\dos\file_a-d\cancerbero\0670\wcio8311.vom  Infection: Cancerbero.670 (exact)
 u:\collection\dos\file_a-d\cancerbero\0672\Virus.DOS.DAN.Killer.672  Infection: Cancerbero.672 (exact)
-u:\collection\dos\file_a-d\cancerbero\0677\killer1.vom  Infection: Cancerbero.677.D (exact)
-u:\collection\dos\file_a-d\cancerbero\0677\t1.vom  Infection: Cancerbero.677.unknown?
-u:\collection\dos\file_a-d\cancerbero\0677\t10.vom  Infection: Cancerbero.677.unknown?
-u:\collection\dos\file_a-d\cancerbero\0677\t2.vom  Infection: Cancerbero.677.unknown?
-u:\collection\dos\file_a-d\cancerbero\0677\t3.vom  Infection: Cancerbero.677.unknown?
-u:\collection\dos\file_a-d\cancerbero\0677\t4.vom  Infection: Cancerbero.677.unknown?
-u:\collection\dos\file_a-d\cancerbero\0677\t9.vom  Infection: Cancerbero.677.unknown?
-u:\collection\dos\file_a-d\cancerbero\0677\wci0573d.vxe  Infection: Cancerbero.677.D (exact) - Dropper
+u:\collection\dos\file_a-d\cancerbero\0674\virus.dos.cancerbero.killer.674  Infection: Cancerbero.674 (exact)
+u:\collection\dos\file_a-d\cancerbero\0677\d\killer1.vom  Infection: Cancerbero.677.D (exact)
+u:\collection\dos\file_a-d\cancerbero\0677\d\t1.vom  Infection: Cancerbero.677.unknown?
+u:\collection\dos\file_a-d\cancerbero\0677\d\t10.vom  Infection: Cancerbero.677.unknown?
+u:\collection\dos\file_a-d\cancerbero\0677\d\t2.vom  Infection: Cancerbero.677.unknown?
+u:\collection\dos\file_a-d\cancerbero\0677\d\t3.vom  Infection: Cancerbero.677.unknown?
+u:\collection\dos\file_a-d\cancerbero\0677\d\t4.vom  Infection: Cancerbero.677.unknown?
+u:\collection\dos\file_a-d\cancerbero\0677\d\t9.vom  Infection: Cancerbero.677.unknown?
 u:\collection\dos\file_a-d\cancerbero\1000\a\t1.vom  Infection: Cancerbero.1000.A (exact)
 u:\collection\dos\file_a-d\cancerbero\1000\a\t2.vom  Infection: Cancerbero.1000.A (exact)
 u:\collection\dos\file_a-d\cancerbero\1000\a\t3.vom  Infection: Cancerbero.1000.A (exact)
@@ -3740,6 +3784,8 @@ u:\collection\dos\file_a-d\cancerbero\1000\c\t1.vom  Infection: Cancerbero.1000.
 u:\collection\dos\file_a-d\cancerbero\1000\c\t5.vom  Infection: Cancerbero.1000.C (exact)
 u:\collection\dos\file_a-d\cancerbero\1000\c\t6.vom  Infection: Cancerbero.1000.C (exact)
 u:\collection\dos\file_a-d\cancerbero\1000\d\Virus.DOS.Birgit.1000.c  Infection: Cancerbero.1000.D (exact)
+u:\collection\dos\file_a-d\candyman\999\virus.dos.candy.999  Infection: CandyMan.999
+u:\collection\dos\file_a-d\cannibal\1312\virus.dos.cannibal.1312  Infection: Cannibal.1312
 u:\collection\dos\file_a-d\cantando\857\Virus.DOS.Cantando.857  Infection: Cantando.857
 u:\collection\dos\file_a-d\caos\716\caos.vom  Infection: Caos.716
 u:\collection\dos\file_a-d\caos\716\grep.vom  Infection: Caos.716
@@ -3749,12 +3795,60 @@ u:\collection\dos\file_a-d\caos\716\t4.vom  Infection: Caos.716
 u:\collection\dos\file_a-d\caos\716\t6.vom  Infection: Caos.716
 u:\collection\dos\file_a-d\caos\716\t8.vom  Infection: Caos.716
 u:\collection\dos\file_a-d\capicua\511\Virus.DOS.Capicua.511  Infection: Capicua.511.unknown?
+u:\collection\dos\file_a-d\capital\927\virus.dos.cascade.927  Infection: Capital.927
+u:\collection\dos\file_a-d\capricorn\2984\virus.dos.capricorn.2984  Infection: Capricorn.2984
+u:\collection\dos\file_a-d\cara\1009\virus.dos.cara.1009  Infection: CARA.1009 (exact)
+u:\collection\dos\file_a-d\cara\1022\a\cara-a.vom  Infection: CARA.1022 (exact)
+u:\collection\dos\file_a-d\cara\1022\b\cara-b1.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\b\cara-b2.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\b\comp-b.bin  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\b\t1.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\b\virus.dos.cara.1022  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\c\cara-c.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\c\DUMP32.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\c\LWM.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\c\t1.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\d\cara-d.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\d\DUMP32.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\d\LWM.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\d\t1.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\e\cara-e.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\e\DUMP32.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\e\LWM.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\e\t1.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\f\cara-f.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\f\DUMP32.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\f\LWM.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1022\f\t1.vom  Infection: CARA.1022.unknown?
+u:\collection\dos\file_a-d\cara\1025\a\car1025d.vom  Infection: CARA.1025.A (exact)
+u:\collection\dos\file_a-d\cara\1025\a\cara.vom  Infection: CARA.1025.A (exact)
+u:\collection\dos\file_a-d\cara\1025\a\virus.dos.cara.1024  Infection: CARA.1025.A (exact)
+u:\collection\dos\file_a-d\cara\1025\b\cara-b.c1  Infection: CARA.1025.B (exact)
+u:\collection\dos\file_a-d\cara\1025\b\cara-b.c2  Infection: CARA.1025.B (exact)
+u:\collection\dos\file_a-d\cara\1025\b\cara-b.c4  Infection: CARA.1025.B (exact)
 u:\collection\dos\file_a-d\carbuncle\144\carbu621.vom  Infection: Carbuncle.144
 u:\collection\dos\file_a-d\carbuncle\622\a\CARBUNCL.vom  Infection: Carbuncle.622.A (exact)
+u:\collection\dos\file_a-d\carbuncle\622\b\carbuncl.vom  Infection: Carbuncle.622.B (exact)
+u:\collection\dos\file_a-d\carcass\1795\virus.dos.carcass.1795  Infection: Carcass.1795 (exact)
+u:\collection\dos\file_a-d\carcass\1796\virus.dos.carcass.1796  Infection: Carcass.1796 (exact)
 u:\collection\dos\file_a-d\career\446\a\446\a\CREER446.vom  Infection: Career.446.A (exact)
 u:\collection\dos\file_a-d\career\446\a\697\CREER697.vom  Infection: Career.697 (exact)
+u:\collection\dos\file_a-d\careful\568\virus.dos.vd.568  Infection: Careful.568
 u:\collection\dos\file_a-d\carioca\951\a\CAR-A.vom  Infection: Carioca.951.A (exact)
+u:\collection\dos\file_a-d\carnage\621\virus.dos.carnage.621  Infection: Carnage.621
+u:\collection\dos\file_a-d\carnage\671\carnage.e1  Infection: Carnage.671
+u:\collection\dos\file_a-d\carnage\671\carnage.e2  Infection: Carnage.671
+u:\collection\dos\file_a-d\carnage\671\carnage.e3  Infection: Carnage.671
+u:\collection\dos\file_a-d\carnage\671\virus.dos.carnage.671  Infection: Carnage.671
+u:\collection\dos\file_a-d\carnivore\504\virus.dos.carnivore.504  Infection: Carnivore.504
+u:\collection\dos\file_a-d\carriers\6582\virus.dos.carriers.6582  Infection: Carriers.6582 (exact)
+u:\collection\dos\file_a-d\carriers\6589\virus.dos.carriers.6589  Infection: Carriers.6589 (exact)
+u:\collection\dos\file_a-d\carriers\6603\virus.dos.carriers.6603  Infection: Carriers.6603
+u:\collection\dos\file_a-d\carriers\6608\virus.dos.carriers.6608  Infection: Carriers.6608
+u:\collection\dos\file_a-d\carry\153\virus.dos.tscm.153  Infection: Carry.153 (exact)
+u:\collection\dos\file_a-d\cartuja\1541\virus.dos.frz.1539  Infection: Cartuja.1541
 u:\collection\dos\file_a-d\cartuja\1568\frz1567.vxe  Infection: Cartuja.1568
+u:\collection\dos\file_a-d\cartuja\2001\virus.dos.frz.2001  Infection: Cartuja.2001
 u:\collection\dos\file_a-d\cascade\0691\dk.vom  Infection: Cascade.691
 u:\collection\dos\file_a-d\cascade\0691\t1.vom  Infection: Cascade.691
 u:\collection\dos\file_a-d\cascade\0691\t3.vom  Infection: Cascade.691
@@ -3791,6 +3885,8 @@ u:\collection\dos\file_a-d\cascade\1661\c\t3.vom  Infection: Cascade.1661.C (exa
 u:\collection\dos\file_a-d\cascade\1661\c\t5.vom  Infection: Cascade.1661.C (exact)
 u:\collection\dos\file_a-d\cascade\1661\c\t7.vom  Infection: Cascade.1661.C (exact)
 u:\collection\dos\file_a-d\cascade\1661\c\wci0019c.vom  Infection: Cascade.1661.C (exact)
+u:\collection\dos\file_a-d\cascade\1661\e\virus.dos.cascade.1661.b  Infection: Cascade.1661.E (exact)
+u:\collection\dos\file_a-d\cascade\1667\rc-1701.vom  Infection: Cascade.1667
 u:\collection\dos\file_a-d\cascade\1699\a\ca1699a0.vom  Infection: Cascade.1699.A (exact)
 u:\collection\dos\file_a-d\cascade\1699\a\t1.vom  Infection: Cascade.1699.A (exact)
 u:\collection\dos\file_a-d\cascade\1699\a\t3.vom  Infection: Cascade.1699.A (exact)
@@ -3840,6 +3936,9 @@ u:\collection\dos\file_a-d\cascade\1701\ac\t1.vom  Infection: Cascade.1701.AC (e
 u:\collection\dos\file_a-d\cascade\1701\ac\t3.vom  Infection: Cascade.1701.AC (exact)
 u:\collection\dos\file_a-d\cascade\1701\ac\t5.vom  Infection: Cascade.1701.AC (exact)
 u:\collection\dos\file_a-d\cascade\1701\ac\t7.vom  Infection: Cascade.1701.AC (exact)
+u:\collection\dos\file_a-d\cascade\1701\ad\cas1701ad0.vom  Infection: Cascade.1701.AD (exact)
+u:\collection\dos\file_a-d\cascade\1701\ad\cas1701ad1.vom  Infection: Cascade.1701.AD (exact)
+u:\collection\dos\file_a-d\cascade\1701\ad\cas1701ad2.vom  Infection: Cascade.1701.AD (exact)
 u:\collection\dos\file_a-d\cascade\1701\ae\t1.vom  Infection: Cascade.1701.unknown?
 u:\collection\dos\file_a-d\cascade\1701\ae\t2.vom  Infection: Cascade.1701.unknown?
 u:\collection\dos\file_a-d\cascade\1701\ae\t3.vom  Infection: Cascade.1701.unknown?
@@ -3848,6 +3947,16 @@ u:\collection\dos\file_a-d\cascade\1701\ae\t5.vom  Infection: Cascade.1701.unkno
 u:\collection\dos\file_a-d\cascade\1701\ae\t6.vom  Infection: Cascade.1701.unknown?
 u:\collection\dos\file_a-d\cascade\1701\ae\t7.vom  Infection: Cascade.1701.unknown?
 u:\collection\dos\file_a-d\cascade\1701\ae\t8.vom  Infection: Cascade.1701.unknown?
+u:\collection\dos\file_a-d\cascade\1701\ag (yap.a)\casc-yap.vom  Infection: Cascade.1701.AG (exact)
+u:\collection\dos\file_a-d\cascade\1701\ag (yap.a)\t1.vom  Infection: Cascade.1701.AG (exact)
+u:\collection\dos\file_a-d\cascade\1701\ag (yap.a)\t2.vom  Infection: Cascade.1701.AG (exact)
+u:\collection\dos\file_a-d\cascade\1701\ag (yap.a)\t3.vom  Infection: Cascade.1701.AG (exact)
+u:\collection\dos\file_a-d\cascade\1701\ag (yap.a)\t4.vom  Infection: Cascade.1701.AG (exact)
+u:\collection\dos\file_a-d\cascade\1701\ag (yap.a)\t5.vom  Infection: Cascade.1701.AG (exact)
+u:\collection\dos\file_a-d\cascade\1701\ag (yap.a)\t6.vom  Infection: Cascade.1701.AG (exact)
+u:\collection\dos\file_a-d\cascade\1701\ag (yap.a)\t7.vom  Infection: Cascade.1701.AG (exact)
+u:\collection\dos\file_a-d\cascade\1701\ag (yap.a)\t8.vom  Infection: Cascade.1701.AG (exact)
+u:\collection\dos\file_a-d\cascade\1701\aj\5f255bb86fa16a9a22de7639d04754414e6f407b6bbb0e8dc96cea8310c0e93b  Infection: Cascade.1701.AJ (exact)
 u:\collection\dos\file_a-d\cascade\1701\ao\t1.vom  Infection: Cascade.1701.AO
 u:\collection\dos\file_a-d\cascade\1701\ao\t2.vom  Infection: Cascade.1701.AO
 u:\collection\dos\file_a-d\cascade\1701\ao\t3.vom  Infection: Cascade.1701.AO
@@ -3857,6 +3966,10 @@ u:\collection\dos\file_a-d\cascade\1701\ao\t6.vom  Infection: Cascade.1701.AO
 u:\collection\dos\file_a-d\cascade\1701\ao\t7.vom  Infection: Cascade.1701.AO
 u:\collection\dos\file_a-d\cascade\1701\ao\wci3554_.vom  Infection: Cascade.1701.AO
 u:\collection\dos\file_a-d\cascade\1701\ap\Virus.DOS.Cascade.1701.o  Infection: Cascade.1701.AP (exact)
+u:\collection\dos\file_a-d\cascade\1701\at\casc-at0.vom  Infection: Cascade.1701.AT (exact)
+u:\collection\dos\file_a-d\cascade\1701\at\casc-at1.vom  Infection: Cascade.1701.AT (exact)
+u:\collection\dos\file_a-d\cascade\1701\at\casc-at2.vom  Infection: Cascade.1701.AT (exact)
+u:\collection\dos\file_a-d\cascade\1701\at\casc-at3.vom  Infection: Cascade.1701.AT (exact)
 u:\collection\dos\file_a-d\cascade\1701\au\t1.vom  Infection: Cascade.1701.AU (exact)
 u:\collection\dos\file_a-d\cascade\1701\au\t2.vom  Infection: Cascade.1701.AU (exact)
 u:\collection\dos\file_a-d\cascade\1701\au\t3.vom  Infection: Cascade.1701.AU (exact)
@@ -3865,6 +3978,7 @@ u:\collection\dos\file_a-d\cascade\1701\au\t5.vom  Infection: Cascade.1701.AU (e
 u:\collection\dos\file_a-d\cascade\1701\au\t6.vom  Infection: Cascade.1701.AU (exact)
 u:\collection\dos\file_a-d\cascade\1701\au\t7.vom  Infection: Cascade.1701.AU (exact)
 u:\collection\dos\file_a-d\cascade\1701\au\yap.vom  Infection: Cascade.1701.AU (exact)
+u:\collection\dos\file_a-d\cascade\1701\av\casc-av.vom  Infection: Cascade.1701.AV (exact)
 u:\collection\dos\file_a-d\cascade\1701\aw\t1.vom  Infection: Cascade.1701.AW (exact)
 u:\collection\dos\file_a-d\cascade\1701\aw\t2.vom  Infection: Cascade.1701.AW (exact)
 u:\collection\dos\file_a-d\cascade\1701\aw\t3.vom  Infection: Cascade.1701.AW (exact)
@@ -3873,6 +3987,7 @@ u:\collection\dos\file_a-d\cascade\1701\aw\t5.vom  Infection: Cascade.1701.AW (e
 u:\collection\dos\file_a-d\cascade\1701\aw\t6.vom  Infection: Cascade.1701.AW (exact)
 u:\collection\dos\file_a-d\cascade\1701\aw\t7.vom  Infection: Cascade.1701.AW (exact)
 u:\collection\dos\file_a-d\cascade\1701\aw\wci0030c.vom  Infection: Cascade.1701.AW (exact)
+u:\collection\dos\file_a-d\cascade\1701\ax\wci0031c.vom  Infection: Cascade.1701.AX (exact)
 u:\collection\dos\file_a-d\cascade\1701\ay\t1.vom  Infection: Cascade.1701.AY (exact)
 u:\collection\dos\file_a-d\cascade\1701\ay\t2.vom  Infection: Cascade.1701.AY (exact)
 u:\collection\dos\file_a-d\cascade\1701\ay\t3.vom  Infection: Cascade.1701.AY (exact)
@@ -3889,6 +4004,13 @@ u:\collection\dos\file_a-d\cascade\1701\b\t4.vom  Infection: Cascade.1701.B (exa
 u:\collection\dos\file_a-d\cascade\1701\b\t5.vom  Infection: Cascade.1701.B (exact)
 u:\collection\dos\file_a-d\cascade\1701\b\t6.vom  Infection: Cascade.1701.B (exact)
 u:\collection\dos\file_a-d\cascade\1701\b\t7.vom  Infection: Cascade.1701.B (exact)
+u:\collection\dos\file_a-d\cascade\1701\bc\casc-bc.vom  Infection: Cascade.1701.BC (exact)
+u:\collection\dos\file_a-d\cascade\1701\be\casc-be.vom  Infection: Cascade.1701.BE (exact)
+u:\collection\dos\file_a-d\cascade\1701\bh\250b52b298e4fa54a789f06992c548a5a6ce99a3e87cbe5f4ed14d8bfdbd4a23  Infection: Cascade.1701.BH (exact)
+u:\collection\dos\file_a-d\cascade\1701\bh\f65caeb3a91d50d278f924f8e13f7ebce6a129289afcb6f828857ee8559d315a  Infection: Cascade.1701.BH (exact)
+u:\collection\dos\file_a-d\cascade\1701\bi\casc-bi0.vom  Infection: Cascade.1701.BI (exact)
+u:\collection\dos\file_a-d\cascade\1701\bi\casc-bi1.vom  Infection: Cascade.1701.BI (exact)
+u:\collection\dos\file_a-d\cascade\1701\bi\casc-bi2.vom  Infection: Cascade.1701.BI (exact)
 u:\collection\dos\file_a-d\cascade\1701\bl\1-c1701w.vom  Infection: Cascade.1701.BL (exact)
 u:\collection\dos\file_a-d\cascade\1701\bl\2-c1701w.vom  Infection: Cascade.1701.BL (exact)
 u:\collection\dos\file_a-d\cascade\1701\bl\3-c1701w.vom  Infection: Cascade.1701.BL (exact)
@@ -3910,6 +4032,72 @@ u:\collection\dos\file_a-d\cascade\1701\bm\t4.vom  Infection: Cascade.1701.BM (e
 u:\collection\dos\file_a-d\cascade\1701\bm\t5.vom  Infection: Cascade.1701.BM (exact)
 u:\collection\dos\file_a-d\cascade\1701\bm\t6.vom  Infection: Cascade.1701.BM (exact)
 u:\collection\dos\file_a-d\cascade\1701\bm\t7.vom  Infection: Cascade.1701.BM (exact)
+u:\collection\dos\file_a-d\cascade\1701\bp (yap.b)\098asas.vom  Infection: Cascade.1701.BP (exact)
+u:\collection\dos\file_a-d\cascade\1701\bp (yap.b)\t1.vom  Infection: Cascade.1701.BP (exact)
+u:\collection\dos\file_a-d\cascade\1701\bp (yap.b)\t2.vom  Infection: Cascade.1701.BP (exact)
+u:\collection\dos\file_a-d\cascade\1701\bp (yap.b)\t3.vom  Infection: Cascade.1701.BP (exact)
+u:\collection\dos\file_a-d\cascade\1701\bp (yap.b)\t4.vom  Infection: Cascade.1701.BP (exact)
+u:\collection\dos\file_a-d\cascade\1701\bp (yap.b)\t5.vom  Infection: Cascade.1701.BP (exact)
+u:\collection\dos\file_a-d\cascade\1701\bp (yap.b)\t6.vom  Infection: Cascade.1701.BP (exact)
+u:\collection\dos\file_a-d\cascade\1701\bp (yap.b)\t7.vom  Infection: Cascade.1701.BP (exact)
+u:\collection\dos\file_a-d\cascade\1701\bp (yap.b)\t8.vom  Infection: Cascade.1701.BP (exact)
+u:\collection\dos\file_a-d\cascade\1701\bq\jojo.vom  Infection: Cascade.1701.BQ (exact)
+u:\collection\dos\file_a-d\cascade\1701\br\casca-br0.vom  Infection: Cascade.1701.BR (exact)
+u:\collection\dos\file_a-d\cascade\1701\br\casca-br1.vom  Infection: Cascade.1701.BR (exact)
+u:\collection\dos\file_a-d\cascade\1701\br\casca-br2.vom  Infection: Cascade.1701.BR (exact)
+u:\collection\dos\file_a-d\cascade\1701\bt\casca-bt0.vom  Infection: Cascade.1701.BT (exact)
+u:\collection\dos\file_a-d\cascade\1701\bt\casca-bt1.vom  Infection: Cascade.1701.BT (exact)
+u:\collection\dos\file_a-d\cascade\1701\bt\casca-bt2.vom  Infection: Cascade.1701.BT (exact)
+u:\collection\dos\file_a-d\cascade\1701\bu (yap.c)\09ana.vom  Infection: Cascade.1701.BU (exact)
+u:\collection\dos\file_a-d\cascade\1701\bv (jojo.d)\casjojod.vom  Infection: Cascade.1701.BV (exact)
+u:\collection\dos\file_a-d\cascade\1701\bv (jojo.d)\klac-.vom  Infection: Cascade.1701.BV (exact)
+u:\collection\dos\file_a-d\cascade\1701\bv (jojo.d)\t1.vom  Infection: Cascade.1701.BV (exact)
+u:\collection\dos\file_a-d\cascade\1701\bv (jojo.d)\t2.vom  Infection: Cascade.1701.BV (exact)
+u:\collection\dos\file_a-d\cascade\1701\bv (jojo.d)\t3.vom  Infection: Cascade.1701.BV (exact)
+u:\collection\dos\file_a-d\cascade\1701\bv (jojo.d)\t4.vom  Infection: Cascade.1701.BV (exact)
+u:\collection\dos\file_a-d\cascade\1701\bv (jojo.d)\t5.vom  Infection: Cascade.1701.BV (exact)
+u:\collection\dos\file_a-d\cascade\1701\bv (jojo.d)\t6.vom  Infection: Cascade.1701.BV (exact)
+u:\collection\dos\file_a-d\cascade\1701\bv (jojo.d)\t7.vom  Infection: Cascade.1701.BV (exact)
+u:\collection\dos\file_a-d\cascade\1701\bv (jojo.d)\t8.vom  Infection: Cascade.1701.BV (exact)
+u:\collection\dos\file_a-d\cascade\1701\bw (jojo.f)\09734hi4.vom  Infection: Cascade.1701.BW (exact)
+u:\collection\dos\file_a-d\cascade\1701\bw (jojo.f)\cascfb.vom  Infection: Cascade.1701.BW (exact)
+u:\collection\dos\file_a-d\cascade\1701\bw (jojo.f)\t1.vom  Infection: Cascade.1701.BW (exact)
+u:\collection\dos\file_a-d\cascade\1701\bw (jojo.f)\t2.vom  Infection: Cascade.1701.BW (exact)
+u:\collection\dos\file_a-d\cascade\1701\bw (jojo.f)\t3.vom  Infection: Cascade.1701.BW (exact)
+u:\collection\dos\file_a-d\cascade\1701\bw (jojo.f)\t4.vom  Infection: Cascade.1701.BW (exact)
+u:\collection\dos\file_a-d\cascade\1701\bw (jojo.f)\t5.vom  Infection: Cascade.1701.BW (exact)
+u:\collection\dos\file_a-d\cascade\1701\bw (jojo.f)\t6.vom  Infection: Cascade.1701.BW (exact)
+u:\collection\dos\file_a-d\cascade\1701\bw (jojo.f)\t7.vom  Infection: Cascade.1701.BW (exact)
+u:\collection\dos\file_a-d\cascade\1701\bw (jojo.f)\t8.vom  Infection: Cascade.1701.BW (exact)
+u:\collection\dos\file_a-d\cascade\1701\bx (jojo.a)\cajojo1a.vom  Infection: Cascade.1701.BX (exact)
+u:\collection\dos\file_a-d\cascade\1701\bx (jojo.a)\casca~14.vom  Infection: Cascade.1701.BX (exact)
+u:\collection\dos\file_a-d\cascade\1701\bx (jojo.a)\t1.vom  Infection: Cascade.1701.BX (exact)
+u:\collection\dos\file_a-d\cascade\1701\bx (jojo.a)\t2.vom  Infection: Cascade.1701.BX (exact)
+u:\collection\dos\file_a-d\cascade\1701\bx (jojo.a)\t3.vom  Infection: Cascade.1701.BX (exact)
+u:\collection\dos\file_a-d\cascade\1701\bx (jojo.a)\t4.vom  Infection: Cascade.1701.BX (exact)
+u:\collection\dos\file_a-d\cascade\1701\bx (jojo.a)\t5.vom  Infection: Cascade.1701.BX (exact)
+u:\collection\dos\file_a-d\cascade\1701\bx (jojo.a)\t6.vom  Infection: Cascade.1701.BX (exact)
+u:\collection\dos\file_a-d\cascade\1701\bx (jojo.a)\t7.vom  Infection: Cascade.1701.BX (exact)
+u:\collection\dos\file_a-d\cascade\1701\bx (jojo.a)\t8.vom  Infection: Cascade.1701.BX (exact)
+u:\collection\dos\file_a-d\cascade\1701\by (jojo.b)\cajojo1b.vom  Infection: Cascade.1701.BY (exact)
+u:\collection\dos\file_a-d\cascade\1701\by (jojo.b)\casca~15.vom  Infection: Cascade.1701.BY (exact)
+u:\collection\dos\file_a-d\cascade\1701\by (jojo.b)\t1.vom  Infection: Cascade.1701.BY (exact)
+u:\collection\dos\file_a-d\cascade\1701\by (jojo.b)\t2.vom  Infection: Cascade.1701.BY (exact)
+u:\collection\dos\file_a-d\cascade\1701\by (jojo.b)\t3.vom  Infection: Cascade.1701.BY (exact)
+u:\collection\dos\file_a-d\cascade\1701\by (jojo.b)\t4.vom  Infection: Cascade.1701.BY (exact)
+u:\collection\dos\file_a-d\cascade\1701\by (jojo.b)\t5.vom  Infection: Cascade.1701.BY (exact)
+u:\collection\dos\file_a-d\cascade\1701\by (jojo.b)\t6.vom  Infection: Cascade.1701.BY (exact)
+u:\collection\dos\file_a-d\cascade\1701\by (jojo.b)\t7.vom  Infection: Cascade.1701.BY (exact)
+u:\collection\dos\file_a-d\cascade\1701\by (jojo.b)\t8.vom  Infection: Cascade.1701.BY (exact)
+u:\collection\dos\file_a-d\cascade\1701\bz (jojo.c)\jojoc.vom  Infection: Cascade.1701.BZ (exact)
+u:\collection\dos\file_a-d\cascade\1701\bz (jojo.c)\t1.vom  Infection: Cascade.1701.BZ (exact)
+u:\collection\dos\file_a-d\cascade\1701\bz (jojo.c)\t2.vom  Infection: Cascade.1701.BZ (exact)
+u:\collection\dos\file_a-d\cascade\1701\bz (jojo.c)\t3.vom  Infection: Cascade.1701.BZ (exact)
+u:\collection\dos\file_a-d\cascade\1701\bz (jojo.c)\t4.vom  Infection: Cascade.1701.BZ (exact)
+u:\collection\dos\file_a-d\cascade\1701\bz (jojo.c)\t5.vom  Infection: Cascade.1701.BZ (exact)
+u:\collection\dos\file_a-d\cascade\1701\bz (jojo.c)\t6.vom  Infection: Cascade.1701.BZ (exact)
+u:\collection\dos\file_a-d\cascade\1701\bz (jojo.c)\t7.vom  Infection: Cascade.1701.BZ (exact)
+u:\collection\dos\file_a-d\cascade\1701\bz (jojo.c)\t8.vom  Infection: Cascade.1701.BZ (exact)
 u:\collection\dos\file_a-d\cascade\1701\c\c1.vom  Infection: Cascade.1701.C (exact)
 u:\collection\dos\file_a-d\cascade\1701\c\c2.vom  Infection: Cascade.1701.C (exact)
 u:\collection\dos\file_a-d\cascade\1701\c\c3.vom  Infection: Cascade.1701.C (exact)
@@ -3918,6 +4106,16 @@ u:\collection\dos\file_a-d\cascade\1701\c\c5.vom  Infection: Cascade.1701.C (exa
 u:\collection\dos\file_a-d\cascade\1701\c\c6.vom  Infection: Cascade.1701.C (exact)
 u:\collection\dos\file_a-d\cascade\1701\c\c7.vom  Infection: Cascade.1701.C (exact)
 u:\collection\dos\file_a-d\cascade\1701\c\cas1701c.vom  Infection: Cascade.1701.C (exact)
+u:\collection\dos\file_a-d\cascade\1701\cb (jojo.g)\kdhdaa.vom  Infection: Cascade.1701.CB (exact)
+u:\collection\dos\file_a-d\cascade\1701\cb (jojo.g)\t1.vom  Infection: Cascade.1701.CB (exact)
+u:\collection\dos\file_a-d\cascade\1701\cb (jojo.g)\t2.vom  Infection: Cascade.1701.CB (exact)
+u:\collection\dos\file_a-d\cascade\1701\cb (jojo.g)\t3.vom  Infection: Cascade.1701.CB (exact)
+u:\collection\dos\file_a-d\cascade\1701\cb (jojo.g)\t4.vom  Infection: Cascade.1701.CB (exact)
+u:\collection\dos\file_a-d\cascade\1701\cb (jojo.g)\t5.vom  Infection: Cascade.1701.CB (exact)
+u:\collection\dos\file_a-d\cascade\1701\cb (jojo.g)\t6.vom  Infection: Cascade.1701.CB (exact)
+u:\collection\dos\file_a-d\cascade\1701\cb (jojo.g)\t7.vom  Infection: Cascade.1701.CB (exact)
+u:\collection\dos\file_a-d\cascade\1701\cb (jojo.g)\t8.vom  Infection: Cascade.1701.CB (exact)
+u:\collection\dos\file_a-d\cascade\1701\d\cascade-d.vom  Infection: Cascade.1701.D (exact)
 u:\collection\dos\file_a-d\cascade\1701\e\c$e.vom  Infection: Cascade.1701.E (exact)
 u:\collection\dos\file_a-d\cascade\1701\e\t1.vom  Infection: Cascade.1701.E (exact)
 u:\collection\dos\file_a-d\cascade\1701\e\t2.vom  Infection: Cascade.1701.E (exact)
@@ -3946,6 +4144,7 @@ u:\collection\dos\file_a-d\cascade\1701\g\t6.vom  Infection: Cascade.1701.G (exa
 u:\collection\dos\file_a-d\cascade\1701\g\t7.vom  Infection: Cascade.1701.G (exact)
 u:\collection\dos\file_a-d\cascade\1701\g\t8.vom  Infection: Cascade.1701.G (exact)
 u:\collection\dos\file_a-d\cascade\1701\h\Virus.DOS.Cascade.1701.j  Infection: Cascade.1701.H (exact)
+u:\collection\dos\file_a-d\cascade\1701\i\cascadei.vom  Infection: Cascade.1701.I (exact)
 u:\collection\dos\file_a-d\cascade\1701\j\cas1701j.vom  Infection: Cascade.1701.J (exact)
 u:\collection\dos\file_a-d\cascade\1701\j\t1.vom  Infection: Cascade.1701.J (exact)
 u:\collection\dos\file_a-d\cascade\1701\j\t2.vom  Infection: Cascade.1701.J (exact)
@@ -3954,64 +4153,6 @@ u:\collection\dos\file_a-d\cascade\1701\j\t4.vom  Infection: Cascade.1701.J (exa
 u:\collection\dos\file_a-d\cascade\1701\j\t5.vom  Infection: Cascade.1701.J (exact)
 u:\collection\dos\file_a-d\cascade\1701\j\t6.vom  Infection: Cascade.1701.J (exact)
 u:\collection\dos\file_a-d\cascade\1701\j\t7.vom  Infection: Cascade.1701.J (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\a\cajojo1a.vom  Infection: Cascade.1701.BX (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\a\casca~14.vom  Infection: Cascade.1701.BX (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\a\t1.vom  Infection: Cascade.1701.BX (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\a\t2.vom  Infection: Cascade.1701.BX (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\a\t3.vom  Infection: Cascade.1701.BX (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\a\t4.vom  Infection: Cascade.1701.BX (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\a\t5.vom  Infection: Cascade.1701.BX (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\a\t6.vom  Infection: Cascade.1701.BX (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\a\t7.vom  Infection: Cascade.1701.BX (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\a\t8.vom  Infection: Cascade.1701.BX (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\b\cajojo1b.vom  Infection: Cascade.1701.BY (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\b\casca~15.vom  Infection: Cascade.1701.BY (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\b\t1.vom  Infection: Cascade.1701.BY (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\b\t2.vom  Infection: Cascade.1701.BY (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\b\t3.vom  Infection: Cascade.1701.BY (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\b\t4.vom  Infection: Cascade.1701.BY (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\b\t5.vom  Infection: Cascade.1701.BY (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\b\t6.vom  Infection: Cascade.1701.BY (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\b\t7.vom  Infection: Cascade.1701.BY (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\b\t8.vom  Infection: Cascade.1701.BY (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\c\jojoc.vom  Infection: Cascade.1701.BZ (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\c\t1.vom  Infection: Cascade.1701.BZ (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\c\t2.vom  Infection: Cascade.1701.BZ (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\c\t3.vom  Infection: Cascade.1701.BZ (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\c\t4.vom  Infection: Cascade.1701.BZ (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\c\t5.vom  Infection: Cascade.1701.BZ (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\c\t6.vom  Infection: Cascade.1701.BZ (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\c\t7.vom  Infection: Cascade.1701.BZ (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\c\t8.vom  Infection: Cascade.1701.BZ (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\d\casjojod.vom  Infection: Cascade.1701.BV (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\d\klac-.vom  Infection: Cascade.1701.BV (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\d\t1.vom  Infection: Cascade.1701.BV (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\d\t2.vom  Infection: Cascade.1701.BV (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\d\t3.vom  Infection: Cascade.1701.BV (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\d\t4.vom  Infection: Cascade.1701.BV (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\d\t5.vom  Infection: Cascade.1701.BV (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\d\t6.vom  Infection: Cascade.1701.BV (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\d\t7.vom  Infection: Cascade.1701.BV (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\d\t8.vom  Infection: Cascade.1701.BV (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\f\09734hi4.vom  Infection: Cascade.1701.BW (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\f\cascfb.vom  Infection: Cascade.1701.BW (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\f\t1.vom  Infection: Cascade.1701.BW (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\f\t2.vom  Infection: Cascade.1701.BW (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\f\t3.vom  Infection: Cascade.1701.BW (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\f\t4.vom  Infection: Cascade.1701.BW (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\f\t5.vom  Infection: Cascade.1701.BW (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\f\t6.vom  Infection: Cascade.1701.BW (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\f\t7.vom  Infection: Cascade.1701.BW (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\f\t8.vom  Infection: Cascade.1701.BW (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\g\kdhdaa.vom  Infection: Cascade.1701.CB (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\g\t1.vom  Infection: Cascade.1701.CB (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\g\t2.vom  Infection: Cascade.1701.CB (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\g\t3.vom  Infection: Cascade.1701.CB (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\g\t4.vom  Infection: Cascade.1701.CB (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\g\t5.vom  Infection: Cascade.1701.CB (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\g\t6.vom  Infection: Cascade.1701.CB (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\g\t7.vom  Infection: Cascade.1701.CB (exact)
-u:\collection\dos\file_a-d\cascade\1701\jojo\g\t8.vom  Infection: Cascade.1701.CB (exact)
 u:\collection\dos\file_a-d\cascade\1701\l\t1.vom  Infection: Cascade.1701.L (exact)
 u:\collection\dos\file_a-d\cascade\1701\l\t2.vom  Infection: Cascade.1701.L (exact)
 u:\collection\dos\file_a-d\cascade\1701\l\t3.vom  Infection: Cascade.1701.L (exact)
@@ -4129,25 +4270,6 @@ u:\collection\dos\file_a-d\cascade\1701\y\t4.vom  Infection: Cascade.1701.Y (exa
 u:\collection\dos\file_a-d\cascade\1701\y\t5.vom  Infection: Cascade.1701.Y (exact)
 u:\collection\dos\file_a-d\cascade\1701\y\t6.vom  Infection: Cascade.1701.Y (exact)
 u:\collection\dos\file_a-d\cascade\1701\y\t7.vom  Infection: Cascade.1701.Y (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\a\casc-yap.vom  Infection: Cascade.1701.AG (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\a\t1.vom  Infection: Cascade.1701.AG (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\a\t2.vom  Infection: Cascade.1701.AG (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\a\t3.vom  Infection: Cascade.1701.AG (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\a\t4.vom  Infection: Cascade.1701.AG (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\a\t5.vom  Infection: Cascade.1701.AG (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\a\t6.vom  Infection: Cascade.1701.AG (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\a\t7.vom  Infection: Cascade.1701.AG (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\a\t8.vom  Infection: Cascade.1701.AG (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\b\098asas.vom  Infection: Cascade.1701.BP (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\b\t1.vom  Infection: Cascade.1701.BP (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\b\t2.vom  Infection: Cascade.1701.BP (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\b\t3.vom  Infection: Cascade.1701.BP (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\b\t4.vom  Infection: Cascade.1701.BP (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\b\t5.vom  Infection: Cascade.1701.BP (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\b\t6.vom  Infection: Cascade.1701.BP (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\b\t7.vom  Infection: Cascade.1701.BP (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\b\t8.vom  Infection: Cascade.1701.BP (exact)
-u:\collection\dos\file_a-d\cascade\1701\yap\c\09ana.vom  Infection: Cascade.1701.BU (exact)
 u:\collection\dos\file_a-d\cascade\1701\z\casc-z.vom  Infection: Cascade.1701.Z (exact)
 u:\collection\dos\file_a-d\cascade\1701\z\t1.vom  Infection: Cascade.1701.Z (exact)
 u:\collection\dos\file_a-d\cascade\1701\z\t2.vom  Infection: Cascade.1701.Z (exact)
@@ -4241,6 +4363,22 @@ u:\collection\dos\file_a-d\cascade\1704\ag\t4.vom  Infection: Cascade.1704.AG
 u:\collection\dos\file_a-d\cascade\1704\ag\t7.vom  Infection: Cascade.1704.AG
 u:\collection\dos\file_a-d\cascade\1704\ag\t8.vom  Infection: Cascade.1704.AG
 u:\collection\dos\file_a-d\cascade\1704\ag\wci03703.vom  Infection: Cascade.1704.AG
+u:\collection\dos\file_a-d\cascade\1704\ak\ca1704ak0.vom  Infection: Cascade.1704.AK (exact)
+u:\collection\dos\file_a-d\cascade\1704\ak\ca1704ak1.vom  Infection: Cascade.1704.AK (exact)
+u:\collection\dos\file_a-d\cascade\1704\al\virus.dos.cascade.1704.s  Infection: Cascade.1704.AL (exact)
+u:\collection\dos\file_a-d\cascade\1704\am\739f17b6ff6d5a61b05a5ee4f1e012ae53dd180e1ae34b1bf9fe533ba2627f87  Infection: Cascade.1704.AM (exact)
+u:\collection\dos\file_a-d\cascade\1704\ao\cas1704ao0.vom  Infection: Cascade.1704.AO (exact)
+u:\collection\dos\file_a-d\cascade\1704\aq\casc1704aq.vom  Infection: Cascade.1704.AQ (exact)
+u:\collection\dos\file_a-d\cascade\1704\aq\casc1704aq1.vom  Infection: Cascade.1704.AQ (exact)
+u:\collection\dos\file_a-d\cascade\1704\as (multi)\cascmlti.vom  Infection: Cascade.1704.AS (exact)
+u:\collection\dos\file_a-d\cascade\1704\as (multi)\t1.vom  Infection: Cascade.1704.AS (exact)
+u:\collection\dos\file_a-d\cascade\1704\as (multi)\t2.vom  Infection: Cascade.1704.AS (exact)
+u:\collection\dos\file_a-d\cascade\1704\as (multi)\t3.vom  Infection: Cascade.1704.AS (exact)
+u:\collection\dos\file_a-d\cascade\1704\as (multi)\t4.vom  Infection: Cascade.1704.AS (exact)
+u:\collection\dos\file_a-d\cascade\1704\as (multi)\t5.vom  Infection: Cascade.1704.AS (exact)
+u:\collection\dos\file_a-d\cascade\1704\as (multi)\t6.vom  Infection: Cascade.1704.AS (exact)
+u:\collection\dos\file_a-d\cascade\1704\as (multi)\t7.vom  Infection: Cascade.1704.AS (exact)
+u:\collection\dos\file_a-d\cascade\1704\as (multi)\t8.vom  Infection: Cascade.1704.AS (exact)
 u:\collection\dos\file_a-d\cascade\1704\b\cas1704b.vom  Infection: Cascade.1704.B (exact)
 u:\collection\dos\file_a-d\cascade\1704\b\casca~30.vom  Infection: Cascade.1704.B (exact)
 u:\collection\dos\file_a-d\cascade\1704\b\t1.vom  Infection: Cascade.1704.B (exact)
@@ -4281,21 +4419,21 @@ u:\collection\dos\file_a-d\cascade\1704\e\t5.vom  Infection: Cascade.1704.E (exa
 u:\collection\dos\file_a-d\cascade\1704\e\t6.vom  Infection: Cascade.1704.E (exact)
 u:\collection\dos\file_a-d\cascade\1704\e\t7.vom  Infection: Cascade.1704.E (exact)
 u:\collection\dos\file_a-d\cascade\1704\e\t8.vom  Infection: Cascade.1704.E (exact)
-u:\collection\dos\file_a-d\cascade\1704\format\1-ca1704.vom  Infection: Cascade.1704.F (exact)
-u:\collection\dos\file_a-d\cascade\1704\format\2-ca1704.vom  Infection: Cascade.1704.F (exact)
-u:\collection\dos\file_a-d\cascade\1704\format\3-ca1704.vom  Infection: Cascade.1704.F (exact)
-u:\collection\dos\file_a-d\cascade\1704\format\4-ca1704.vom  Infection: Cascade.1704.F (exact)
-u:\collection\dos\file_a-d\cascade\1704\format\cascad~4.vom  Infection: Cascade.1704.F (exact)
-u:\collection\dos\file_a-d\cascade\1704\format\cascfrmt.vom  Infection: Cascade.1704.F (exact)
-u:\collection\dos\file_a-d\cascade\1704\format\t1.vom  Infection: Cascade.1704.F (exact)
-u:\collection\dos\file_a-d\cascade\1704\format\t2.vom  Infection: Cascade.1704.F (exact)
-u:\collection\dos\file_a-d\cascade\1704\format\t3.vom  Infection: Cascade.1704.F (exact)
-u:\collection\dos\file_a-d\cascade\1704\format\t4.vom  Infection: Cascade.1704.F (exact)
-u:\collection\dos\file_a-d\cascade\1704\format\t5.vom  Infection: Cascade.1704.F (exact)
-u:\collection\dos\file_a-d\cascade\1704\format\t6.vom  Infection: Cascade.1704.F (exact)
-u:\collection\dos\file_a-d\cascade\1704\format\t7.vom  Infection: Cascade.1704.F (exact)
-u:\collection\dos\file_a-d\cascade\1704\format\t8.vom  Infection: Cascade.1704.F (exact)
-u:\collection\dos\file_a-d\cascade\1704\format\_1704_f.vom  Infection: Cascade.1704.F (exact)
+u:\collection\dos\file_a-d\cascade\1704\f (format)\1-ca1704.vom  Infection: Cascade.1704.F (exact)
+u:\collection\dos\file_a-d\cascade\1704\f (format)\2-ca1704.vom  Infection: Cascade.1704.F (exact)
+u:\collection\dos\file_a-d\cascade\1704\f (format)\3-ca1704.vom  Infection: Cascade.1704.F (exact)
+u:\collection\dos\file_a-d\cascade\1704\f (format)\4-ca1704.vom  Infection: Cascade.1704.F (exact)
+u:\collection\dos\file_a-d\cascade\1704\f (format)\cascad~4.vom  Infection: Cascade.1704.F (exact)
+u:\collection\dos\file_a-d\cascade\1704\f (format)\cascfrmt.vom  Infection: Cascade.1704.F (exact)
+u:\collection\dos\file_a-d\cascade\1704\f (format)\t1.vom  Infection: Cascade.1704.F (exact)
+u:\collection\dos\file_a-d\cascade\1704\f (format)\t2.vom  Infection: Cascade.1704.F (exact)
+u:\collection\dos\file_a-d\cascade\1704\f (format)\t3.vom  Infection: Cascade.1704.F (exact)
+u:\collection\dos\file_a-d\cascade\1704\f (format)\t4.vom  Infection: Cascade.1704.F (exact)
+u:\collection\dos\file_a-d\cascade\1704\f (format)\t5.vom  Infection: Cascade.1704.F (exact)
+u:\collection\dos\file_a-d\cascade\1704\f (format)\t6.vom  Infection: Cascade.1704.F (exact)
+u:\collection\dos\file_a-d\cascade\1704\f (format)\t7.vom  Infection: Cascade.1704.F (exact)
+u:\collection\dos\file_a-d\cascade\1704\f (format)\t8.vom  Infection: Cascade.1704.F (exact)
+u:\collection\dos\file_a-d\cascade\1704\f (format)\_1704_f.vom  Infection: Cascade.1704.F (exact)
 u:\collection\dos\file_a-d\cascade\1704\g\ca1704g.vom  Infection: Cascade.1704.G (exact)
 u:\collection\dos\file_a-d\cascade\1704\g\casca~35.vom  Infection: Cascade.1704.G (exact)
 u:\collection\dos\file_a-d\cascade\1704\g\t1.vom  Infection: Cascade.1704.G (exact)
@@ -4350,15 +4488,6 @@ u:\collection\dos\file_a-d\cascade\1704\m\t5.vom  Infection: Cascade.1704.M (exa
 u:\collection\dos\file_a-d\cascade\1704\m\t6.vom  Infection: Cascade.1704.M (exact)
 u:\collection\dos\file_a-d\cascade\1704\m\t7.vom  Infection: Cascade.1704.M (exact)
 u:\collection\dos\file_a-d\cascade\1704\m\t8.vom  Infection: Cascade.1704.M (exact)
-u:\collection\dos\file_a-d\cascade\1704\multi\cascmlti.vom  Infection: Cascade.1704.AS (exact)
-u:\collection\dos\file_a-d\cascade\1704\multi\t1.vom  Infection: Cascade.1704.AS (exact)
-u:\collection\dos\file_a-d\cascade\1704\multi\t2.vom  Infection: Cascade.1704.AS (exact)
-u:\collection\dos\file_a-d\cascade\1704\multi\t3.vom  Infection: Cascade.1704.AS (exact)
-u:\collection\dos\file_a-d\cascade\1704\multi\t4.vom  Infection: Cascade.1704.AS (exact)
-u:\collection\dos\file_a-d\cascade\1704\multi\t5.vom  Infection: Cascade.1704.AS (exact)
-u:\collection\dos\file_a-d\cascade\1704\multi\t6.vom  Infection: Cascade.1704.AS (exact)
-u:\collection\dos\file_a-d\cascade\1704\multi\t7.vom  Infection: Cascade.1704.AS (exact)
-u:\collection\dos\file_a-d\cascade\1704\multi\t8.vom  Infection: Cascade.1704.AS (exact)
 u:\collection\dos\file_a-d\cascade\1704\n\cas1704n.vom  Infection: Cascade.1704.N (exact)
 u:\collection\dos\file_a-d\cascade\1704\n\t1.vom  Infection: Cascade.1704.N (exact)
 u:\collection\dos\file_a-d\cascade\1704\n\t2.vom  Infection: Cascade.1704.N (exact)
@@ -4535,11 +4664,19 @@ u:\collection\dos\file_a-d\casino\e\t11.vom  Infection: Casino.2330.E (exact)
 u:\collection\dos\file_a-d\casino\e\t12.vom  Infection: Casino.2330.E (exact)
 u:\collection\dos\file_a-d\casino\e\t9.vom  Infection: Casino.2330.E (exact)
 u:\collection\dos\file_a-d\casino\e\wci0079c.vom  Infection: Casino.2330.E (exact)
+u:\collection\dos\file_a-d\casper_ii\333\virus.dos.casp.333  Infection: Casper_II.333
+u:\collection\dos\file_a-d\casper_ii\380\virus.dos.casp.380  Infection: Casper_II.380
 u:\collection\dos\file_a-d\castigo\430\t1.vom  Infection: Castigo.430
 u:\collection\dos\file_a-d\castigo\430\t3.vom  Infection: Castigo.430
 u:\collection\dos\file_a-d\castigo\430\t5.vom  Infection: Castigo.430
 u:\collection\dos\file_a-d\castigo\430\t7.vom  Infection: Castigo.430
 u:\collection\dos\file_a-d\castigo\430\wci03713.vom  Infection: Castigo.430
+u:\collection\dos\file_a-d\cata\660\virus.dos.cata.660  Infection: Cata.660 (exact)
+u:\collection\dos\file_a-d\catch_me\370\b\virus.dos.jerkin.370.b  Infection: Catch_Me.370.B (exact)
+u:\collection\dos\file_a-d\catherine\1365\virus.dos.xcat.1365  Infection: Catherine.1365 (exact)
+u:\collection\dos\file_a-d\cathinone\440\virus.dos.cathinone.440  Infection: Cathione.440 (exact) - Dropper
+u:\collection\dos\file_a-d\cathinone\480\virus.dos.evul.480.b  Infection: Cathione.480
+u:\collection\dos\file_a-d\cathinone\783\virus.dos.cathin.783  Infection: Cathinone.783 (exact)
 u:\collection\dos\file_a-d\catholic\1129\t1.vom  Infection: Catholic.1129
 u:\collection\dos\file_a-d\catholic\1129\t2.vom  Infection: Catholic.1129
 u:\collection\dos\file_a-d\catholic\1129\t3.vom  Infection: Catholic.1129
@@ -4549,16 +4686,17 @@ u:\collection\dos\file_a-d\catholic\1129\t6.vom  Infection: Catholic.1129
 u:\collection\dos\file_a-d\catholic\1129\t7.vom  Infection: Catholic.1129
 u:\collection\dos\file_a-d\catholic\1129\t8.vom  Infection: Catholic.1129
 u:\collection\dos\file_a-d\catholic\1129\wci0084c.vom  Infection: Catholic.1129
+u:\collection\dos\file_a-d\catphish\698\catphisz.vom  Infection: Catphish.698 - Dropper
+u:\collection\dos\file_a-d\catphish\698\virus.dos.catphish.698.a  Infection: Catphish.698
 u:\collection\dos\file_a-d\catphish\701\a\catphish.vxe  Infection: Catphish.701.A (exact)
 u:\collection\dos\file_a-d\catphish\701\a\t1.vxe  Infection: Catphish.701.A (exact)
 u:\collection\dos\file_a-d\catphish\701\a\t3.vxe  Infection: Catphish.701.A (exact)
 u:\collection\dos\file_a-d\catphish\701\a\t5.vxe  Infection: Catphish.701.A (exact)
 u:\collection\dos\file_a-d\catphish\701\b\catph701.vxe  Infection: Catphish.701.B (exact)
-u:\collection\dos\file_a-d\catscrat\984\csf.vxe  Infection: Catscratch.984 (exact)
-u:\collection\dos\file_a-d\catscrat\984\t1.vxe  Infection: Catscratch.984.damaged?
-u:\collection\dos\file_a-d\catscrat\984\t3.vxe  Infection: Catscratch.984.damaged?
-u:\collection\dos\file_a-d\catscrat\984\t5.vxe  Infection: Catscratch.984.damaged?
-u:\collection\dos\file_a-d\catscrat\984\t6.vxe  Infection: Catscratch.984.damaged?
+u:\collection\dos\file_a-d\catscratch\558\t1.vxe  Infection: Catscratch.558 (exact)
+u:\collection\dos\file_a-d\catscratch\558\t3.vxe  Infection: Catscratch.558 (exact)
+u:\collection\dos\file_a-d\catscratch\558\virus.dos.catscrf.558  Infection: Catscratch.558 (exact)
+u:\collection\dos\file_a-d\catscratch\984\csf.vxe  Infection: Catscratch.984 (exact)
 u:\collection\dos\file_a-d\caustic\caust601.vom  Infection: Caustic.601
 u:\collection\dos\file_a-d\caustic\t1.vom  Infection: Caustic.601
 u:\collection\dos\file_a-d\caustic\t2.vom  Infection: Caustic.601
@@ -4571,14 +4709,15 @@ u:\collection\dos\file_a-d\caustic\t8.vom  Infection: Caustic.601
 u:\collection\dos\file_a-d\cawber\baclab.vxe  Infection: Cawber.2138 (exact)
 u:\collection\dos\file_a-d\cawber\cawber.vxe  Infection: Cawber.2138 (exact)
 u:\collection\dos\file_a-d\cawber\t4.vxe  Infection: Cawber.2138 (exact)
-u:\collection\dos\file_a-d\caz\1159\t1.vom  Infection: CAZ.1159.A (exact)
-u:\collection\dos\file_a-d\caz\1159\t2.vom  Infection: CAZ.1159.A (exact)
-u:\collection\dos\file_a-d\caz\1159\t3.vom  Infection: CAZ.1159.A (exact)
-u:\collection\dos\file_a-d\caz\1159\t4.vom  Infection: CAZ.1159.A (exact)
-u:\collection\dos\file_a-d\caz\1159\t5.vom  Infection: CAZ.1159.A (exact)
-u:\collection\dos\file_a-d\caz\1159\t6.vom  Infection: CAZ.1159.A (exact)
-u:\collection\dos\file_a-d\caz\1159\t7.vom  Infection: CAZ.1159.A (exact)
-u:\collection\dos\file_a-d\caz\1159\v840.vom  Infection: CAZ.1159.A (exact)
+u:\collection\dos\file_a-d\caz\1159\a\t1.vom  Infection: CAZ.1159.A (exact)
+u:\collection\dos\file_a-d\caz\1159\a\t2.vom  Infection: CAZ.1159.A (exact)
+u:\collection\dos\file_a-d\caz\1159\a\t3.vom  Infection: CAZ.1159.A (exact)
+u:\collection\dos\file_a-d\caz\1159\a\t4.vom  Infection: CAZ.1159.A (exact)
+u:\collection\dos\file_a-d\caz\1159\a\t5.vom  Infection: CAZ.1159.A (exact)
+u:\collection\dos\file_a-d\caz\1159\a\t6.vom  Infection: CAZ.1159.A (exact)
+u:\collection\dos\file_a-d\caz\1159\a\t7.vom  Infection: CAZ.1159.A (exact)
+u:\collection\dos\file_a-d\caz\1159\a\v840.vom  Infection: CAZ.1159.A (exact)
+u:\collection\dos\file_a-d\caz\1159\b\virus.dos.caz.1159.b  Infection: CAZ.1159.B (exact)
 u:\collection\dos\file_a-d\caz\1204\a\t1.vom  Infection: CAZ.1204.A (exact)
 u:\collection\dos\file_a-d\caz\1204\a\t2.vom  Infection: CAZ.1204.A (exact)
 u:\collection\dos\file_a-d\caz\1204\a\t3.vom  Infection: CAZ.1204.A (exact)
@@ -4595,6 +4734,9 @@ u:\collection\dos\file_a-d\caz\1204\b\t5.vom  Infection: CAZ.1204.B (exact)
 u:\collection\dos\file_a-d\caz\1204\b\t6.vom  Infection: CAZ.1204.B (exact)
 u:\collection\dos\file_a-d\caz\1204\b\t7.vom  Infection: CAZ.1204.B (exact)
 u:\collection\dos\file_a-d\caz\1204\b\wci0094c.vom  Infection: CAZ.1204.B (exact)
+u:\collection\dos\file_a-d\cbv\6807\virus.dos.mib.6807  Infection: Cbv.6807 (exact)
+u:\collection\dos\file_a-d\cbv\6810\virus.dos.wit.mib.6810  Infection: Cbv.6810 (exact)
+u:\collection\dos\file_a-d\cbv\6814\unknown\virus.dos.wit.mib.6814  Infection: Cbv.6814.unknown?
 u:\collection\dos\file_a-d\ccbb\2221\wci0417c.vom  Infection: CCBB.2221
 u:\collection\dos\file_a-d\ccc\ccc381.vxe  Infection: CCC.381 (exact)
 u:\collection\dos\file_a-d\ccc\t1.vxe  Infection: CCC.381 (exact)
@@ -4610,6 +4752,12 @@ u:\collection\dos\file_a-d\cccp\t3.vom  Infection: CCCP.510
 u:\collection\dos\file_a-d\cccp\t4.vom  Infection: CCCP.510
 u:\collection\dos\file_a-d\cccp\t5.vom  Infection: CCCP.510
 u:\collection\dos\file_a-d\cccp\t6.vom  Infection: CCCP.510
+u:\collection\dos\file_a-d\cdeed\2123\virus.dos.hardcore.2123  Infection: Cdeed.2123 (exact)
+u:\collection\dos\file_a-d\cdjoke\848\virus.dos.cd_joke.848  Infection: CDJoke.848 (exact)
+u:\collection\dos\file_a-d\cece\1699\virus.dos.cece.1699  Infection: CeCe.1699
+u:\collection\dos\file_a-d\cece\1703\virus.dos.cece.1703  Infection: CeCe.1703
+u:\collection\dos\file_a-d\cece\1705\virus.dos.cece.1705  Infection: CeCe.1705
+u:\collection\dos\file_a-d\cece\1991\virus.dos.cece.1991  Infection: CeCe.1991
 u:\collection\dos\file_a-d\cece\1994\a\cece1994.vom  Infection: CeCe.1994
 u:\collection\dos\file_a-d\cece\1994\a\keyb.vom  Infection: CeCe.1994
 u:\collection\dos\file_a-d\cece\1994\a\mode.vom  Infection: CeCe.1994
@@ -4634,6 +4782,11 @@ u:\collection\dos\file_a-d\cece\1998\t2.vom  Infection: CeCe.1998.A
 u:\collection\dos\file_a-d\cece\1998\t2.vxe  Infection: CeCe.1998.A
 u:\collection\dos\file_a-d\cece\1998\t3.vom  Infection: CeCe.1998.A
 u:\collection\dos\file_a-d\cece\1998\t4.vom  Infection: CeCe.1998.A
+u:\collection\dos\file_a-d\cece\2011\virus.dos.cece.2011  Infection: CeCe.2011
+u:\collection\dos\file_a-d\cece\2036\virus.dos.cece.2036  Infection: CeCe.2036
+u:\collection\dos\file_a-d\cece\2056\virus.dos.cece.2056  Infection: CeCe.2056
+u:\collection\dos\file_a-d\cece\2063\virus.dos.cece.2063  Infection: CeCe.2063
+u:\collection\dos\file_a-d\ced\647\virus.dos.vcl.ced.647  Infection: Ced.647
 u:\collection\dos\file_a-d\cell\1617\cel1617.vom  Infection: Cell.1629
 u:\collection\dos\file_a-d\cell\1617\t2.vom  Infection: Cell.1629
 u:\collection\dos\file_a-d\cell\1617\t3.vom  Infection: Cell.1629
@@ -4684,6 +4837,8 @@ u:\collection\dos\file_a-d\cerberus\t2.vom  Infection: Cerburus.1315
 u:\collection\dos\file_a-d\cerberus\t3.vom  Infection: Cerburus.1315
 u:\collection\dos\file_a-d\cerberus\t4.vom  Infection: Cerburus.1315
 u:\collection\dos\file_a-d\cerberus\t9.vom  Infection: Cerburus.1315
+u:\collection\dos\file_a-d\cezar_ii\346\virus.dos.cezar.351  Infection: Cezar_II.346 (exact)
+u:\collection\dos\file_a-d\cffl\2560\a\virus.dos.cffl.2560  Infection: CFFL.2560.A
 u:\collection\dos\file_a-d\cfsk\cfsk.vom  Infection: CFSK.918
 u:\collection\dos\file_a-d\cfsk\t1.vom  Infection: CFSK.918
 u:\collection\dos\file_a-d\cfsk\t2.vom  Infection: CFSK.918
@@ -4702,6 +4857,9 @@ u:\collection\dos\file_a-d\cha-cha\t4.vom  Infection: Cha-cha.2391 (exact)
 u:\collection\dos\file_a-d\cha-cha\t5.vom  Infection: Cha-cha.2391 (exact)
 u:\collection\dos\file_a-d\cha-cha\t6.vom  Infection: Cha-cha.2391 (exact)
 u:\collection\dos\file_a-d\cha-cha\t7.vom  Infection: Cha-cha.2391 (exact)
+u:\collection\dos\file_a-d\chad\307\chad.307  Infection: Chad.307
+u:\collection\dos\file_a-d\chad\307\chad307.vom  Infection: Chad.307
+u:\collection\dos\file_a-d\chad\749\virus.dos.chad.749  Infection: Chad.749
 u:\collection\dos\file_a-d\chad\750\a\chad-750.vom  Infection: Chad.750.A (exact)
 u:\collection\dos\file_a-d\chad\750\a\t1.vom  Infection: Chad.750.A (exact)
 u:\collection\dos\file_a-d\chad\750\a\t10.vom  Infection: Chad.750.A (exact)
@@ -4727,117 +4885,124 @@ u:\collection\dos\file_a-d\chad\751\b\t2.vom  Infection: Chad.751
 u:\collection\dos\file_a-d\chad\751\b\t4.vom  Infection: Chad.751
 u:\collection\dos\file_a-d\chad\751\b\t5.vom  Infection: Chad.751
 u:\collection\dos\file_a-d\chad\751\b\t6.vom  Infection: Chad.751
-u:\collection\dos\file_a-d\champain\445\t1.vom  Infection: Champaigne.445 (exact)
-u:\collection\dos\file_a-d\champain\445\t2.vom  Infection: Champaigne.445 (exact)
-u:\collection\dos\file_a-d\champain\445\t3.vom  Infection: Champaigne.445 (exact)
-u:\collection\dos\file_a-d\champain\445\t4.vom  Infection: Champaigne.445 (exact)
-u:\collection\dos\file_a-d\champain\445\t5.vom  Infection: Champaigne.445 (exact)
-u:\collection\dos\file_a-d\champain\445\t6.vom  Infection: Champaigne.445 (exact)
-u:\collection\dos\file_a-d\champain\445\t7.vom  Infection: Champaigne.445 (exact)
-u:\collection\dos\file_a-d\champain\445\wci0104c.vom  Infection: Champaigne.445 (exact)
-u:\collection\dos\file_a-d\champain\446\t1.vom  Infection: Champaigne.446 (exact)
-u:\collection\dos\file_a-d\champain\446\t2.vom  Infection: Champaigne.446 (exact)
-u:\collection\dos\file_a-d\champain\446\t3.vom  Infection: Champaigne.446 (exact)
-u:\collection\dos\file_a-d\champain\446\t4.vom  Infection: Champaigne.446 (exact)
-u:\collection\dos\file_a-d\champain\446\t5.vom  Infection: Champaigne.446 (exact)
-u:\collection\dos\file_a-d\champain\446\t6.vom  Infection: Champaigne.446 (exact)
-u:\collection\dos\file_a-d\champain\446\t7.vom  Infection: Champaigne.446 (exact)
-u:\collection\dos\file_a-d\champain\446\wci0105c.vom  Infection: Champaigne.446 (exact)
-u:\collection\dos\file_a-d\champain\508\chmpain2.vom  Infection: Champaigne.508 (exact)
-u:\collection\dos\file_a-d\champain\508\grep.vom  Infection: Champaigne.508 (exact)
-u:\collection\dos\file_a-d\champain\508\keyb.vom  Infection: Champaigne.508 (exact)
-u:\collection\dos\file_a-d\champain\508\t1.vom  Infection: Champaigne.508 (exact)
-u:\collection\dos\file_a-d\champain\508\t2.vom  Infection: Champaigne.508 (exact)
-u:\collection\dos\file_a-d\champain\508\t3.vom  Infection: Champaigne.508 (exact)
-u:\collection\dos\file_a-d\champain\508\t4.vom  Infection: Champaigne.508 (exact)
-u:\collection\dos\file_a-d\champain\508\t5.vom  Infection: Champaigne.508 (exact)
-u:\collection\dos\file_a-d\champain\508\t6.vom  Infection: Champaigne.508 (exact)
-u:\collection\dos\file_a-d\champain\508\t7.vom  Infection: Champaigne.508 (exact)
-u:\collection\dos\file_a-d\champain\508\t9.vom  Infection: Champaigne.508 (exact)
-u:\collection\dos\file_a-d\champain\523\t1.vom  Infection: Champaigne.523 (exact)
-u:\collection\dos\file_a-d\champain\523\t2.vom  Infection: Champaigne.523 (exact)
-u:\collection\dos\file_a-d\champain\523\t3.vom  Infection: Champaigne.523 (exact)
-u:\collection\dos\file_a-d\champain\523\t4.vom  Infection: Champaigne.523 (exact)
-u:\collection\dos\file_a-d\champain\523\t5.vom  Infection: Champaigne.523 (exact)
-u:\collection\dos\file_a-d\champain\523\t6.vom  Infection: Champaigne.523 (exact)
-u:\collection\dos\file_a-d\champain\523\t7.vom  Infection: Champaigne.523 (exact)
-u:\collection\dos\file_a-d\champain\523\wci0107c.vom  Infection: Champaigne.523 (exact)
-u:\collection\dos\file_a-d\champain\527\t1.vom  Infection: Champaigne.527 (exact)
-u:\collection\dos\file_a-d\champain\527\t2.vom  Infection: Champaigne.527 (exact)
-u:\collection\dos\file_a-d\champain\527\t3.vom  Infection: Champaigne.527 (exact)
-u:\collection\dos\file_a-d\champain\527\t4.vom  Infection: Champaigne.527 (exact)
-u:\collection\dos\file_a-d\champain\527\t5.vom  Infection: Champaigne.527 (exact)
-u:\collection\dos\file_a-d\champain\527\t6.vom  Infection: Champaigne.527 (exact)
-u:\collection\dos\file_a-d\champain\527\t7.vom  Infection: Champaigne.527 (exact)
-u:\collection\dos\file_a-d\champain\527\wci0108c.vom  Infection: Champaigne.527 (exact)
-u:\collection\dos\file_a-d\champain\542\t1.vom  Infection: Champaigne.542 (exact)
-u:\collection\dos\file_a-d\champain\542\t2.vom  Infection: Champaigne.542 (exact)
-u:\collection\dos\file_a-d\champain\542\t3.vom  Infection: Champaigne.542 (exact)
-u:\collection\dos\file_a-d\champain\542\t4.vom  Infection: Champaigne.542 (exact)
-u:\collection\dos\file_a-d\champain\542\t5.vom  Infection: Champaigne.542 (exact)
-u:\collection\dos\file_a-d\champain\542\t6.vom  Infection: Champaigne.542 (exact)
-u:\collection\dos\file_a-d\champain\542\t7.vom  Infection: Champaigne.542 (exact)
-u:\collection\dos\file_a-d\champain\542\wci0109c.vom  Infection: Champaigne.542 (exact)
-u:\collection\dos\file_a-d\champain\585\585.vom  Infection: Champaigne.585 (exact)
-u:\collection\dos\file_a-d\champain\585\617.vom  Infection: Champaigne.585 (exact)
-u:\collection\dos\file_a-d\champain\585\grep.vom  Infection: Champaigne.585 (exact)
-u:\collection\dos\file_a-d\champain\585\keyb.vom  Infection: Champaigne.585 (exact)
-u:\collection\dos\file_a-d\champain\585\t1.vom  Infection: Champaigne.585 (exact)
-u:\collection\dos\file_a-d\champain\585\t2.vom  Infection: Champaigne.585 (exact)
-u:\collection\dos\file_a-d\champain\585\t3.vom  Infection: Champaigne.585 (exact)
-u:\collection\dos\file_a-d\champain\585\t4.vom  Infection: Champaigne.585 (exact)
-u:\collection\dos\file_a-d\champain\585\t5.vom  Infection: Champaigne.585 (exact)
-u:\collection\dos\file_a-d\champain\585\t6.vom  Infection: Champaigne.585 (exact)
-u:\collection\dos\file_a-d\champain\585\t7.vom  Infection: Champaigne.585 (exact)
-u:\collection\dos\file_a-d\champain\636\!459.vom  Infection: Champaigne.636 (exact)
-u:\collection\dos\file_a-d\champain\636\champ636.vom  Infection: Champaigne.636 (exact)
-u:\collection\dos\file_a-d\champain\636\grep.vom  Infection: Champaigne.636 (exact)
-u:\collection\dos\file_a-d\champain\636\keyb.vom  Infection: Champaigne.636 (exact)
-u:\collection\dos\file_a-d\champain\636\t1.vom  Infection: Champaigne.636 (exact)
-u:\collection\dos\file_a-d\champain\636\t2.vom  Infection: Champaigne.636 (exact)
-u:\collection\dos\file_a-d\champain\636\t3.vom  Infection: Champaigne.636 (exact)
-u:\collection\dos\file_a-d\champain\636\t4.vom  Infection: Champaigne.636 (exact)
-u:\collection\dos\file_a-d\champain\636\t5.vom  Infection: Champaigne.636 (exact)
-u:\collection\dos\file_a-d\champain\636\t6.vom  Infection: Champaigne.636 (exact)
-u:\collection\dos\file_a-d\champain\636\t7.vom  Infection: Champaigne.636 (exact)
-u:\collection\dos\file_a-d\champain\691\champ691.vom  Infection: Champaigne.691
-u:\collection\dos\file_a-d\champain\691\chmpain3.vom  Infection: Champaigne.691
-u:\collection\dos\file_a-d\champain\691\grep.vom  Infection: Champaigne.691
-u:\collection\dos\file_a-d\champain\691\keyb.vom  Infection: Champaigne.691
-u:\collection\dos\file_a-d\champain\691\t1.vom  Infection: Champaigne.691
-u:\collection\dos\file_a-d\champain\691\t2.vom  Infection: Champaigne.691
-u:\collection\dos\file_a-d\champain\691\t3.vom  Infection: Champaigne.691
-u:\collection\dos\file_a-d\champain\691\t4.vom  Infection: Champaigne.691
-u:\collection\dos\file_a-d\champain\691\t5.vom  Infection: Champaigne.691
-u:\collection\dos\file_a-d\champain\691\t6.vom  Infection: Champaigne.691
-u:\collection\dos\file_a-d\champain\691\t7.vom  Infection: Champaigne.691
-u:\collection\dos\file_a-d\champain\692\champ692.vom  Infection: Champaigne.692
-u:\collection\dos\file_a-d\champain\692\chmpain3.vom  Infection: Champaigne.692
-u:\collection\dos\file_a-d\champain\692\grep.vom  Infection: Champaigne.692
-u:\collection\dos\file_a-d\champain\692\keyb.vom  Infection: Champaigne.692
-u:\collection\dos\file_a-d\champain\692\t1.vom  Infection: Champaigne.692
-u:\collection\dos\file_a-d\champain\692\t2.vom  Infection: Champaigne.692
-u:\collection\dos\file_a-d\champain\692\t3.vom  Infection: Champaigne.692
-u:\collection\dos\file_a-d\champain\692\t4.vom  Infection: Champaigne.692
-u:\collection\dos\file_a-d\champain\692\t5.vom  Infection: Champaigne.692
-u:\collection\dos\file_a-d\champain\692\t6.vom  Infection: Champaigne.692
-u:\collection\dos\file_a-d\champain\692\t7.vom  Infection: Champaigne.692
-u:\collection\dos\file_a-d\champain\696\chmpain3.vom  Infection: Champaigne.696 (exact)
-u:\collection\dos\file_a-d\champain\696\grep.vom  Infection: Champaigne.696 (exact)
-u:\collection\dos\file_a-d\champain\696\keyb.vom  Infection: Champaigne.696 (exact)
-u:\collection\dos\file_a-d\champain\696\t1.vom  Infection: Champaigne.696 (exact)
-u:\collection\dos\file_a-d\champain\696\t2.vom  Infection: Champaigne.696 (exact)
-u:\collection\dos\file_a-d\champain\696\t3.vom  Infection: Champaigne.696 (exact)
-u:\collection\dos\file_a-d\champain\696\t4.vom  Infection: Champaigne.696 (exact)
-u:\collection\dos\file_a-d\champain\696\t5.vom  Infection: Champaigne.696 (exact)
-u:\collection\dos\file_a-d\champain\696\t6.vom  Infection: Champaigne.696 (exact)
-u:\collection\dos\file_a-d\champain\696\t7.vom  Infection: Champaigne.696 (exact)
-u:\collection\dos\file_a-d\champain\815\crack.vom  Infection: Champaigne.815
-u:\collection\dos\file_a-d\champain\815\t1.vom  Infection: Champaigne.815
-u:\collection\dos\file_a-d\champain\815\t3.vom  Infection: Champaigne.815
-u:\collection\dos\file_a-d\champain\815\t5.vom  Infection: Champaigne.815
-u:\collection\dos\file_a-d\champain\815\t7.vom  Infection: Champaigne.815
-u:\collection\dos\file_a-d\champain\815\t9.vom  Infection: Champaigne.815
+u:\collection\dos\file_a-d\chad\759\virus.dos.chad.759  Infection: Chad.759 (exact)
+u:\collection\dos\file_a-d\champaigne\218\virus.dos.cheap.218  Infection: Champaigne.218 (exact)
+u:\collection\dos\file_a-d\champaigne\445\t1.vom  Infection: Champaigne.445 (exact)
+u:\collection\dos\file_a-d\champaigne\445\t2.vom  Infection: Champaigne.445 (exact)
+u:\collection\dos\file_a-d\champaigne\445\t3.vom  Infection: Champaigne.445 (exact)
+u:\collection\dos\file_a-d\champaigne\445\t4.vom  Infection: Champaigne.445 (exact)
+u:\collection\dos\file_a-d\champaigne\445\t5.vom  Infection: Champaigne.445 (exact)
+u:\collection\dos\file_a-d\champaigne\445\t6.vom  Infection: Champaigne.445 (exact)
+u:\collection\dos\file_a-d\champaigne\445\t7.vom  Infection: Champaigne.445 (exact)
+u:\collection\dos\file_a-d\champaigne\445\wci0104c.vom  Infection: Champaigne.445 (exact)
+u:\collection\dos\file_a-d\champaigne\446\t1.vom  Infection: Champaigne.446 (exact)
+u:\collection\dos\file_a-d\champaigne\446\t2.vom  Infection: Champaigne.446 (exact)
+u:\collection\dos\file_a-d\champaigne\446\t3.vom  Infection: Champaigne.446 (exact)
+u:\collection\dos\file_a-d\champaigne\446\t4.vom  Infection: Champaigne.446 (exact)
+u:\collection\dos\file_a-d\champaigne\446\t5.vom  Infection: Champaigne.446 (exact)
+u:\collection\dos\file_a-d\champaigne\446\t6.vom  Infection: Champaigne.446 (exact)
+u:\collection\dos\file_a-d\champaigne\446\t7.vom  Infection: Champaigne.446 (exact)
+u:\collection\dos\file_a-d\champaigne\446\wci0105c.vom  Infection: Champaigne.446 (exact)
+u:\collection\dos\file_a-d\champaigne\508\chmpain2.vom  Infection: Champaigne.508 (exact)
+u:\collection\dos\file_a-d\champaigne\508\grep.vom  Infection: Champaigne.508 (exact)
+u:\collection\dos\file_a-d\champaigne\508\keyb.vom  Infection: Champaigne.508 (exact)
+u:\collection\dos\file_a-d\champaigne\508\t1.vom  Infection: Champaigne.508 (exact)
+u:\collection\dos\file_a-d\champaigne\508\t2.vom  Infection: Champaigne.508 (exact)
+u:\collection\dos\file_a-d\champaigne\508\t3.vom  Infection: Champaigne.508 (exact)
+u:\collection\dos\file_a-d\champaigne\508\t4.vom  Infection: Champaigne.508 (exact)
+u:\collection\dos\file_a-d\champaigne\508\t5.vom  Infection: Champaigne.508 (exact)
+u:\collection\dos\file_a-d\champaigne\508\t6.vom  Infection: Champaigne.508 (exact)
+u:\collection\dos\file_a-d\champaigne\508\t7.vom  Infection: Champaigne.508 (exact)
+u:\collection\dos\file_a-d\champaigne\508\t9.vom  Infection: Champaigne.508 (exact)
+u:\collection\dos\file_a-d\champaigne\515\virus.dos.champaigne.511  Infection: Champaigne.515 (exact)
+u:\collection\dos\file_a-d\champaigne\523\t1.vom  Infection: Champaigne.523 (exact)
+u:\collection\dos\file_a-d\champaigne\523\t2.vom  Infection: Champaigne.523 (exact)
+u:\collection\dos\file_a-d\champaigne\523\t3.vom  Infection: Champaigne.523 (exact)
+u:\collection\dos\file_a-d\champaigne\523\t4.vom  Infection: Champaigne.523 (exact)
+u:\collection\dos\file_a-d\champaigne\523\t5.vom  Infection: Champaigne.523 (exact)
+u:\collection\dos\file_a-d\champaigne\523\t6.vom  Infection: Champaigne.523 (exact)
+u:\collection\dos\file_a-d\champaigne\523\t7.vom  Infection: Champaigne.523 (exact)
+u:\collection\dos\file_a-d\champaigne\523\wci0107c.vom  Infection: Champaigne.523 (exact)
+u:\collection\dos\file_a-d\champaigne\527\t1.vom  Infection: Champaigne.527 (exact)
+u:\collection\dos\file_a-d\champaigne\527\t2.vom  Infection: Champaigne.527 (exact)
+u:\collection\dos\file_a-d\champaigne\527\t3.vom  Infection: Champaigne.527 (exact)
+u:\collection\dos\file_a-d\champaigne\527\t4.vom  Infection: Champaigne.527 (exact)
+u:\collection\dos\file_a-d\champaigne\527\t5.vom  Infection: Champaigne.527 (exact)
+u:\collection\dos\file_a-d\champaigne\527\t6.vom  Infection: Champaigne.527 (exact)
+u:\collection\dos\file_a-d\champaigne\527\t7.vom  Infection: Champaigne.527 (exact)
+u:\collection\dos\file_a-d\champaigne\527\wci0108c.vom  Infection: Champaigne.527 (exact)
+u:\collection\dos\file_a-d\champaigne\542\t1.vom  Infection: Champaigne.542 (exact)
+u:\collection\dos\file_a-d\champaigne\542\t2.vom  Infection: Champaigne.542 (exact)
+u:\collection\dos\file_a-d\champaigne\542\t3.vom  Infection: Champaigne.542 (exact)
+u:\collection\dos\file_a-d\champaigne\542\t4.vom  Infection: Champaigne.542 (exact)
+u:\collection\dos\file_a-d\champaigne\542\t5.vom  Infection: Champaigne.542 (exact)
+u:\collection\dos\file_a-d\champaigne\542\t6.vom  Infection: Champaigne.542 (exact)
+u:\collection\dos\file_a-d\champaigne\542\t7.vom  Infection: Champaigne.542 (exact)
+u:\collection\dos\file_a-d\champaigne\542\wci0109c.vom  Infection: Champaigne.542 (exact)
+u:\collection\dos\file_a-d\champaigne\585\585.vom  Infection: Champaigne.585 (exact)
+u:\collection\dos\file_a-d\champaigne\585\617.vom  Infection: Champaigne.585 (exact)
+u:\collection\dos\file_a-d\champaigne\585\grep.vom  Infection: Champaigne.585 (exact)
+u:\collection\dos\file_a-d\champaigne\585\keyb.vom  Infection: Champaigne.585 (exact)
+u:\collection\dos\file_a-d\champaigne\585\t1.vom  Infection: Champaigne.585 (exact)
+u:\collection\dos\file_a-d\champaigne\585\t2.vom  Infection: Champaigne.585 (exact)
+u:\collection\dos\file_a-d\champaigne\585\t3.vom  Infection: Champaigne.585 (exact)
+u:\collection\dos\file_a-d\champaigne\585\t4.vom  Infection: Champaigne.585 (exact)
+u:\collection\dos\file_a-d\champaigne\585\t5.vom  Infection: Champaigne.585 (exact)
+u:\collection\dos\file_a-d\champaigne\585\t6.vom  Infection: Champaigne.585 (exact)
+u:\collection\dos\file_a-d\champaigne\585\t7.vom  Infection: Champaigne.585 (exact)
+u:\collection\dos\file_a-d\champaigne\636\!459.vom  Infection: Champaigne.636 (exact)
+u:\collection\dos\file_a-d\champaigne\636\champ636.vom  Infection: Champaigne.636 (exact)
+u:\collection\dos\file_a-d\champaigne\636\grep.vom  Infection: Champaigne.636 (exact)
+u:\collection\dos\file_a-d\champaigne\636\keyb.vom  Infection: Champaigne.636 (exact)
+u:\collection\dos\file_a-d\champaigne\636\t1.vom  Infection: Champaigne.636 (exact)
+u:\collection\dos\file_a-d\champaigne\636\t2.vom  Infection: Champaigne.636 (exact)
+u:\collection\dos\file_a-d\champaigne\636\t3.vom  Infection: Champaigne.636 (exact)
+u:\collection\dos\file_a-d\champaigne\636\t4.vom  Infection: Champaigne.636 (exact)
+u:\collection\dos\file_a-d\champaigne\636\t5.vom  Infection: Champaigne.636 (exact)
+u:\collection\dos\file_a-d\champaigne\636\t6.vom  Infection: Champaigne.636 (exact)
+u:\collection\dos\file_a-d\champaigne\636\t7.vom  Infection: Champaigne.636 (exact)
+u:\collection\dos\file_a-d\champaigne\658\virus.dos.champaigne.658  Infection: Champaigne.658
+u:\collection\dos\file_a-d\champaigne\691\champ691.vom  Infection: Champaigne.691
+u:\collection\dos\file_a-d\champaigne\691\chmpain3.vom  Infection: Champaigne.691
+u:\collection\dos\file_a-d\champaigne\691\grep.vom  Infection: Champaigne.691
+u:\collection\dos\file_a-d\champaigne\691\keyb.vom  Infection: Champaigne.691
+u:\collection\dos\file_a-d\champaigne\691\t1.vom  Infection: Champaigne.691
+u:\collection\dos\file_a-d\champaigne\691\t2.vom  Infection: Champaigne.691
+u:\collection\dos\file_a-d\champaigne\691\t3.vom  Infection: Champaigne.691
+u:\collection\dos\file_a-d\champaigne\691\t4.vom  Infection: Champaigne.691
+u:\collection\dos\file_a-d\champaigne\691\t5.vom  Infection: Champaigne.691
+u:\collection\dos\file_a-d\champaigne\691\t6.vom  Infection: Champaigne.691
+u:\collection\dos\file_a-d\champaigne\691\t7.vom  Infection: Champaigne.691
+u:\collection\dos\file_a-d\champaigne\692\champ692.vom  Infection: Champaigne.692
+u:\collection\dos\file_a-d\champaigne\692\chmpain3.vom  Infection: Champaigne.692
+u:\collection\dos\file_a-d\champaigne\692\grep.vom  Infection: Champaigne.692
+u:\collection\dos\file_a-d\champaigne\692\keyb.vom  Infection: Champaigne.692
+u:\collection\dos\file_a-d\champaigne\692\t1.vom  Infection: Champaigne.692
+u:\collection\dos\file_a-d\champaigne\692\t2.vom  Infection: Champaigne.692
+u:\collection\dos\file_a-d\champaigne\692\t3.vom  Infection: Champaigne.692
+u:\collection\dos\file_a-d\champaigne\692\t4.vom  Infection: Champaigne.692
+u:\collection\dos\file_a-d\champaigne\692\t5.vom  Infection: Champaigne.692
+u:\collection\dos\file_a-d\champaigne\692\t6.vom  Infection: Champaigne.692
+u:\collection\dos\file_a-d\champaigne\692\t7.vom  Infection: Champaigne.692
+u:\collection\dos\file_a-d\champaigne\696\chmpain3.vom  Infection: Champaigne.696 (exact)
+u:\collection\dos\file_a-d\champaigne\696\grep.vom  Infection: Champaigne.696 (exact)
+u:\collection\dos\file_a-d\champaigne\696\keyb.vom  Infection: Champaigne.696 (exact)
+u:\collection\dos\file_a-d\champaigne\696\t1.vom  Infection: Champaigne.696 (exact)
+u:\collection\dos\file_a-d\champaigne\696\t2.vom  Infection: Champaigne.696 (exact)
+u:\collection\dos\file_a-d\champaigne\696\t3.vom  Infection: Champaigne.696 (exact)
+u:\collection\dos\file_a-d\champaigne\696\t4.vom  Infection: Champaigne.696 (exact)
+u:\collection\dos\file_a-d\champaigne\696\t5.vom  Infection: Champaigne.696 (exact)
+u:\collection\dos\file_a-d\champaigne\696\t6.vom  Infection: Champaigne.696 (exact)
+u:\collection\dos\file_a-d\champaigne\696\t7.vom  Infection: Champaigne.696 (exact)
+u:\collection\dos\file_a-d\champaigne\706\virus.dos.champaigne.706  Infection: Champaigne.706
+u:\collection\dos\file_a-d\champaigne\749\a\virus.dos.champaigne.749.a  Infection: Champaigne.749.A (exact)
+u:\collection\dos\file_a-d\champaigne\749\b\virus.dos.champaigne.749.b  Infection: Champaigne.749.B (exact)
+u:\collection\dos\file_a-d\champaigne\815\crack.vom  Infection: Champaigne.815
+u:\collection\dos\file_a-d\champaigne\815\t1.vom  Infection: Champaigne.815
+u:\collection\dos\file_a-d\champaigne\815\t3.vom  Infection: Champaigne.815
+u:\collection\dos\file_a-d\champaigne\815\t5.vom  Infection: Champaigne.815
+u:\collection\dos\file_a-d\champaigne\815\t7.vom  Infection: Champaigne.815
+u:\collection\dos\file_a-d\champaigne\815\t9.vom  Infection: Champaigne.815
 u:\collection\dos\file_a-d\changsha\chang.vxe  Infection: Changsha.3072
 u:\collection\dos\file_a-d\changsha\changsha.vom  Infection: Changsha.3072
 u:\collection\dos\file_a-d\changsha\yaqi.vom  Infection: Changsha.3072
@@ -6731,6 +6896,7 @@ u:\collection\dos\file_a-d\c_alien\259\Virus.DOS.Alien_II.259  Infection: C_Alie
 u:\collection\dos\file_a-d\c_alien\298\Virus.DOS.Alien_II.298  Infection: C_Alien.298
 u:\collection\dos\file_a-d\c_alien\304\Virus.DOS.Alien_II.304  Infection: C_Alien.304
 u:\collection\dos\file_a-d\c_alien\374\Virus.DOS.Alien_II.374  Infection: C_Alien.374
+u:\collection\dos\file_a-d\c_y\428\virus.dos.cny.428  Infection: C_Y.428 (exact)
 u:\collection\dos\file_a-d\dada\dada.vxe  Infection: Dada.1356 (exact)
 u:\collection\dos\file_a-d\dada\t1.vxe  Infection: Dada.1356 (exact)
 u:\collection\dos\file_a-d\dada\t3.vxe  Infection: Dada.1356 (exact)
@@ -14296,17 +14462,17 @@ u:\collection\dos\file_e-j\ida\1490\t1.vom  Infection: Veronika.1490.A
 u:\collection\dos\file_e-j\idiotvulture\2032\idiotv1.vxe  Infection: HLLP.2032
 u:\collection\dos\file_e-j\idiotvulture\2592\idiotv2.vxe  Infection: Idiot.2592
 u:\collection\dos\file_e-j\ienez\ienez_ii.vxe  Infection: Ienez.1428
-u:\collection\dos\file_e-j\ieronim\512\ier512.vom  Infection: Ieronim.512
-u:\collection\dos\file_e-j\ieronim\560\ier560.vom  Infection: Ieronim.560
-u:\collection\dos\file_e-j\ieron_ii\0570\ier570.vom  Infection: Ieronim_II.570
-u:\collection\dos\file_e-j\ieron_ii\0600\ieroni~3.vom  Infection: Ieronim_II.600
-u:\collection\dos\file_e-j\ieron_ii\1020\iero1020.vom  Infection: Ieronim.1020
-u:\collection\dos\file_e-j\ieron_ii\1024\iero1024.vom  Infection: Ieronim.1024
-u:\collection\dos\file_e-j\ieron_ii\1082\wci0023i.vom  Infection: Ieronim.1082
-u:\collection\dos\file_e-j\ieron_ii\1166\iero1166.vxe  Infection: Ieronim_III.1166
-u:\collection\dos\file_e-j\ieron_ii\1492\wci0273i.vxe  Infection: Ieronim.1492 (exact)
-u:\collection\dos\file_e-j\ieron_ii\1581\ier1581.vom  Infection: Ieronim_II.1581
-u:\collection\dos\file_e-j\ieron_ii\1596\wci0274i.vxe  Infection: Ieronim.1596
+u:\collection\dos\file_e-j\ieronim\0512\ier512.vom  Infection: Ieronim.512
+u:\collection\dos\file_e-j\ieronim\0560\ier560.vom  Infection: Ieronim.560
+u:\collection\dos\file_e-j\ieronim\1020\iero1020.vom  Infection: Ieronim.1020
+u:\collection\dos\file_e-j\ieronim\1024\iero1024.vom  Infection: Ieronim.1024
+u:\collection\dos\file_e-j\ieronim\1082\wci0023i.vom  Infection: Ieronim.1082
+u:\collection\dos\file_e-j\ieronim\1492\wci0273i.vxe  Infection: Ieronim.1492 (exact)
+u:\collection\dos\file_e-j\ieronim\1596\wci0274i.vxe  Infection: Ieronim.1596
+u:\collection\dos\file_e-j\ieronim_ii\0570\ier570.vom  Infection: Ieronim_II.570
+u:\collection\dos\file_e-j\ieronim_ii\0600\ieroni~3.vom  Infection: Ieronim_II.600
+u:\collection\dos\file_e-j\ieronim_ii\1581\ier1581.vom  Infection: Ieronim_II.1581
+u:\collection\dos\file_e-j\ieronim_iii\1166\iero1166.vxe  Infection: Ieronim_III.1166
 u:\collection\dos\file_e-j\iet\3200\iet.vom  Infection: Ink.3200.A
 u:\collection\dos\file_e-j\iet\3200\t7.vom  Infection: Ink.3200.A
 u:\collection\dos\file_e-j\iet\3200\tf.vom  contains Ink.3200.A (non-working)
@@ -32020,6 +32186,8 @@ u:\collection\dos\file_s-z\v2px\v2p1\casper\1440\t4.vom  Infection: V2PX.1440
 u:\collection\dos\file_s-z\v2px\v2p1\casper\1440\t5.vom  Infection: V2PX.1440
 u:\collection\dos\file_s-z\v2px\v2p1\casper\1440\t6.vom  Infection: V2PX.1440
 u:\collection\dos\file_s-z\v2px\v2p1\casper\1440\wci0818v.vom  Infection: V2PX.1440
+u:\collection\dos\file_s-z\v2px\v2p1\casper\1455\t1.vom  Infection: Casper.1455
+u:\collection\dos\file_s-z\v2px\v2p1\casper\1455\virus.dos.chameleon.casper.1455  Infection: Casper.1455
 u:\collection\dos\file_s-z\v2px\v2p2\v2px_x.vom  Infection: V2PX.1722
 u:\collection\dos\file_s-z\v2px\v2p2\v2px_z.vom  Infection: V2PX.1722
 u:\collection\dos\file_s-z\v2px\v2p2\_1260_b.vom  Infection: V2PX.1722
@@ -37641,6 +37809,7 @@ u:\collection\dos\file_s-z\wwpe\cezar\4579\cezar.vom  Infection: WWPE.4579
 u:\collection\dos\file_s-z\wwpe\cezar\4579\t1.vom  Infection: WWPE.4579
 u:\collection\dos\file_s-z\wwpe\cezar\4579\t3.vom  Infection: WWPE.4579
 u:\collection\dos\file_s-z\wwpe\cezar\4579\t4.vom  Infection: WWPE.4579
+u:\collection\dos\file_s-z\wwpe\cezar\4628\virus.dos.wwpe.rsa.4626  Infection: Cezar.4628
 u:\collection\dos\file_s-z\wwpe\cezar\4819\cezar.vom  Infection: WWPE.4820.A (exact)
 u:\collection\dos\file_s-z\wwpe\cezar\4819\t1.vom  Infection: WWPE.4820.A (exact)
 u:\collection\dos\file_s-z\wwpe\cezar\4819\t1.vxe  Infection: WWPE.4820.A (exact)
@@ -39218,9 +39387,34 @@ u:\collection\irc\worm\whacked\b\9efdaab64d30d91abbd8514ff5f69684a4b296ae184f35a
 u:\collection\irc\worm\whacked\b\e30ca458d9760e84b8a607472634f66e3c32353be7da7cb7628162e5f987b9ad  Infection: IRC/Whacked.B (exact)
 u:\collection\irc\worm\whacked\k\73859182b3a1bf0d9d119daeae7b099dc2cb18f1220e0106dfa93b79089dfdbe  Infection: IRC/Whacked.K (exact)
 u:\collection\irc\worm\zapchast\a\8d82e02fca75514bd3ec33943b63b8e61f9196268cbc44e01e1020d9835f8318  Infection: IRC/Zapchast.A (exact)
-u:\collection\macro\amipro\greenstripe\a\d6829593.smm  Infection: APM/GreenStripes.A (exact)
-u:\collection\macro\amipro\greenstripe\a\gsvtest.sam  is a security risk or a "backdoor" program
-u:\collection\macro\lotus\ramble\ramble.wk1  Infection: LM/Ramble.A (exact) (dropper)
+u:\collection\macro\a97m\accessiv\a\accessiv-a.md_  Infection: A97M/AccessiV
+u:\collection\macro\a97m\accessiv\a\accessiv-a.md_  Infection: A97M/AccessiV
+u:\collection\macro\a97m\accessiv\b\accessv-b.mdb  Infection: A97M/AccessiV
+u:\collection\macro\a97m\accessiv\c\filez.md_  Infection: A97M/AccessiV.C
+u:\collection\macro\a97m\accessiv\d\accessiv-d.md_  Infection: A97M/AccessiV.D
+u:\collection\macro\a97m\amg\a\amg-a.md_  Infection: A97M/AMG.A
+u:\collection\macro\a97m\lovely\a\lovely-a.md_  Infection: A97M/AccessiV.D
+u:\collection\macro\a97m\mdlc\a\mdlc-a.md_  Infection: A97M/MDLC.A
+u:\collection\macro\a97m\poly\poly-a-int.md_  Infection: A97M/Poly.A
+u:\collection\macro\a97m\slither\a\slither.md_  Infection: A97M/Loaded.A
+u:\collection\macro\a97m\tox\a\tox-a.md_  Infection: A97M/Tox
+u:\collection\macro\a97m\tox\a\tox-a.md_  Infection: A97M/Tox
+u:\collection\macro\a97m\tox\b\tox-b.md_  Infection: A97M/Tox
+u:\collection\macro\a97m\tox\b\tox-b.md_  Infection: A97M/Tox
+u:\collection\macro\a97m\tox\c\tox.md_  Infection: A97M/Tox
+u:\collection\macro\a97m\tox\d\tox-d.md_  Infection: A97M/Tox
+u:\collection\macro\a97m\uamp\a\uamp-a.md_->UAMP.mdb  Infection: A97M/UAMP
+u:\collection\macro\a97m\walla\a\walla-a.md_  Infection: A97M/Walla.A
+u:\collection\macro\acm\star\a\star-a.dw_  Infection: ACM/Star.A (exact)
+u:\collection\macro\alisp\bursted\a\Virus.Acad.Bursted.a  Infection: ALS/Bursted (exact)
+u:\collection\macro\alisp\bursted\bu\f5ce45061a6ce51f3e7bfb85b12400b6424fc7f5b6c5d04204d3b05e0ce0f2b5  Infection: ALS/Bursted (exact)
+u:\collection\macro\alisp\bursted\f\Virus.Acad.Bursted.f  Infection: ALS/Bursted (exact)
+u:\collection\macro\alisp\bursted\m\Virus.Acad.Bursted.m  Infection: ALS/Bursted (exact)
+u:\collection\macro\alisp\pobresito\a\Virus.Acad.Pobresito  is a security risk or a "backdoor" program
+u:\collection\macro\apm\greenstripe\a\d6829593.smm  Infection: APM/GreenStripes.A (exact)
+u:\collection\macro\apm\greenstripe\a\gsvtest.sam  is a security risk or a "backdoor" program
+u:\collection\macro\lm\ramble\ramble.wk1  Infection: LM/Ramble.A (exact) (dropper)
+u:\collection\macro\v5m\kolera\a\kolera-a.vs  Infection: V5M/Kolera.A (exact)
 u:\collection\macro\w2m\polite\pol2.doc  Infection: W2M/Polite.A (exact)
 u:\collection\macro\w2m\wiederoeffnen\wieder.doc  Infection: W2M/Wiederoeffnen.A (exact) (trojan)
 u:\collection\macro\w97m\allen\a\allen-a.doc  Infection: W97M/Allen.A (exact)
@@ -41603,7 +41797,6 @@ u:\collection\os2\aep\1772\os2aep.vxe  Infection: Win/AEP.1772 (exact) - Dropper
 u:\collection\os2\jiskefet\2048\jiskefet.vxe  Infection: OS2/Jiskefet.2048 (exact)
 u:\collection\os2\mynameis\2000\a\OS2FIRST.vxe  Infection: OS2/MyNameIs.2000.A (exact)
 u:\collection\os2\rexx\38620\os2rexx.vxe  Infection: OS2/Rexx.38620
-u:\collection\sap\rivpas\a\SAPvir  Infection: ABAP/Rivpas.A (exact)
 u:\collection\symbian\trojan\mquito\b\Mosquitos2.0-full.vis  is a security risk named Epoc/Mosquit.A
 u:\collection\symbian\worm\cabir\a\Cabir.vis  is a security risk or a "backdoor" program
 u:\collection\symbian\worm\cabir\bb\02001bfa07cf10b7cd30753ae937eb23aa986db4cc37b18821d413d2c8cc0fea  is a security risk or a "backdoor" program
@@ -41718,19 +41911,18 @@ u:\collection\win16\file\win_vir\2_0\winvir20.vxe  Infection: VfW.988 (exact) - 
 u:\collection\win16\kit\omvck\Virus.Win16.Odysseus  is a virus dropper
 u:\collection\win16\trojan\parkin\parkin.vxe  Infection: Win/Parkin.trojan.15360
 u:\collection\win16\trojan\trojaninfo\Virus.Win16.TrojanInfo  Infection: Win/Info.trojan.199792
-u:\collection\win32\codered\a\codered.bin  is a security risk or a "backdoor" program
 u:\collection\wince\trojan\brador\a\WinCE.Brador.vxe  is a security risk named W32/Brador.A
 
 Results of virus scanning:
 
-Files: 46318
-MBRs: 0
-Boot sectors: 0
-Objects scanned: 42877
-Infected: 41263
-Suspicious: 437
+Files: 46983
+MBRs: 1
+Boot sectors: 1
+Objects scanned: 43152
+Infected: 41454
+Suspicious: 438
 Disinfected: 0
 Deleted: 0
 Renamed: 0
 
-Time: 1:21
+Time: 1:10
