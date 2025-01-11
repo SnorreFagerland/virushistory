@@ -1,0 +1,48 @@
+Virus scanning report  -  11 January 2025 @ 3:05
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\447\virus.dos.chapa.447  Infection: Chapa.447 (exact)
+u:\448\virus.dos.chapa.448  Infection: Chapa.448 (exact)
+u:\450\a\chap-b.vom  Infection: Chapa.450.A (exact)
+u:\450\a\t1.vom  Infection: Chapa.450.A (exact)
+u:\450\a\t2.vom  Infection: Chapa.450.A (exact)
+u:\450\a\t3.vom  Infection: Chapa.450.A (exact)
+u:\450\a\t4.vom  Infection: Chapa.450.A (exact)
+u:\450\a\t5.vom  Infection: Chapa.450.A (exact)
+u:\450\a\t6.vom  Infection: Chapa.450.A (exact)
+u:\450\b\virus.dos.chapa.450.a  Infection: Chapa.450.B (exact) - Dropper
+u:\450\c\virus.dos.chapa.450.c  Infection: Chapa.450.C (exact)
+u:\450\d\virus.dos.varna.450  Infection: Chapa.450.D (exact) - Dropper
+u:\450\unknown\virus.dos.chapa.450.d  Infection: Chapa.450.unknown?
+u:\566\a\virus.dos.chapa.566  Infection: Chapa.566.A (exact)
+u:\572\virus.dos.chapa.572  Infection: Chapa.572 (exact)
+u:\586\virus.dos.chapa.586  Infection: Chapa.586 (exact)
+
+Results of virus scanning:
+
+Files: 17
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 17
+Infected: 16
+Suspicious: 0
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00
