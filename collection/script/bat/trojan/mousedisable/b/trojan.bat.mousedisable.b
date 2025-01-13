@@ -1,0 +1,1 @@
+rundll32 mouse,disable

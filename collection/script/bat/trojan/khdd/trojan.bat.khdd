@@ -1,0 +1,16 @@
+GOTO BEGIN
+
+F 200 L1000 0
+A CS:100
+mov ax,301
+mov bx,200
+mov cx,1
+mov dx,80
+int 13
+int 20
+
+g
+q
+
+:begin
+debug < khdd.bat

