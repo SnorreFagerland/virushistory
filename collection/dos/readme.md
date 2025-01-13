@@ -11,3 +11,4 @@ These viruses injected themselves into legitimate programs, or otherwise manipul
 * **Multipartite viruses**
 These viruses used a combination of the above (both boot and file infection). In these cases, the boot instance of the virus will be found in the boot folder, and file instance in the file folders.
   
+![20250112_205646](https://github.com/user-attachments/assets/4fa051cc-80a0-413a-925c-d9c48c303175)
