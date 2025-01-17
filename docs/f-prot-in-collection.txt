@@ -1,4 +1,4 @@
-Virus scanning report  -  15 January 2025 @ 1:19
+Virus scanning report  -  17 January 2025 @ 4:58
 
 F-PROT ANTIVIRUS
 Program version: 3.16f
@@ -32,17 +32,64 @@ u:\collection\dos\boot\aircop\c\aircngc.boo  Infection: Aircop.C image file (exa
 u:\collection\dos\boot\aircop\c\aircop4.boo  Infection: Aircop.C image file (bad sample) (exact)
 u:\collection\dos\boot\aircop\c\airngc.boo  Infection: Aircop.C image file (exact)
 u:\collection\dos\boot\aircop\d\aircopng.boo  Infection: Aircop.D image file (exact)
+u:\collection\dos\boot\aircop\e\aircope-0.bin  Infection: Aircop.E image file (exact)
+u:\collection\dos\boot\aircop\e\aircope-1.bin  Infection: Aircop.E image file (exact)
+u:\collection\dos\boot\aircop\e\aircope-2.boo  Infection: Aircop.E image file (exact)
+u:\collection\dos\boot\aircop\g\aircopg-0.boo  Infection: Aircop.G image file (exact)
+u:\collection\dos\boot\aircop\g\aircopg-1.boo  Infection: Aircop.G image file (exact)
 u:\collection\dos\boot\aircop\h\__airc~1.boo  Infection: Aircop.H image file (bad sample) (exact)
+u:\collection\dos\boot\alar\4625\alar4625-0.boo  Infection: Alar.4625 image file
+u:\collection\dos\boot\alar\4625\alar4625-1.boo  Infection: Alar.4625 image file
+u:\collection\dos\boot\alar\4625\alar4625-2.boo  Infection: Alar.4625 image file
+u:\collection\dos\boot\alfa\3072\alfa3072-0.vom  Infection: Alfa.3072 image file (exact)
+u:\collection\dos\boot\alfa\3072\alfa3072-1.vom  Infection: Alfa.3072
+u:\collection\dos\boot\alfa\3072\alfa3072-2.vom  Infection: Alfa.3072
+u:\collection\dos\boot\amjads\amjads-0.boo  Infection: Amjads image file (exact)
+u:\collection\dos\boot\andli\andli-0.boo  Infection: Andli image file (exact)
+u:\collection\dos\boot\andli\andli-1.boo  Infection: Andli.unknown? image file
+u:\collection\dos\boot\andrew\andrew-0.boo  Infection: Andrew.C image file (bad sample) (exact)
+u:\collection\dos\boot\andrew\andrew-1.boo  Infection: Andrew.unknown? image file
+u:\collection\dos\boot\andrew\a\andrew-2.boo  Infection: Andrew.A image file (exact)
+u:\collection\dos\boot\andrew\b\andrew-3.boo  Infection: Andrew.B image file (exact)
 u:\collection\dos\boot\andrew\c\wci03293.boo  Infection: Andrew.C image file (exact)
+u:\collection\dos\boot\androbot\androbot-0.boo  Infection: Androbot image file (exact)
+u:\collection\dos\boot\androbot\androbot-1.boo  Infection: Androbot image file (exact)
+u:\collection\dos\boot\androbot\androbot-2.boo  Infection: Androbot image file (exact)
 u:\collection\dos\boot\anthrax\wci0117a.boo  Infection: Anthrax image file (exact)
 u:\collection\dos\boot\anticad\a\ana.boo  Infection: AntiCad.A image file (exact)
+u:\collection\dos\boot\anticad\b\antic-b-0.boo  Infection: AntiCad.B image file (exact)
+u:\collection\dos\boot\anticad\b\antic-b-1.boo  Infection: AntiCad.B image file (exact)
 u:\collection\dos\boot\anticad\c\3455a485.boo  Infection: AntiCad.C image file
 u:\collection\dos\boot\anticad\d\invaderd.boo  Infection: AntiCad.D image file
 u:\collection\dos\boot\anticad\e\invader.boo  Infection: AntiCad.E image file (exact)
+u:\collection\dos\boot\anticad\f\antic-f-0.boo  Infection: AntiCad.F image file (exact)
+u:\collection\dos\boot\anticad\f\antic-f-1.boo  Infection: AntiCad.F image file (exact)
 u:\collection\dos\boot\anticmos\a\anticmos.boo  Infection: AntiCMOS.A image file (exact)
 u:\collection\dos\boot\anticmos\a\anticm~1.boo  Infection: AntiCMOS.A image file (exact)
 u:\collection\dos\boot\anticmos\b\anticmos.boo  Infection: AntiCMOS.B image file (exact)
-u:\collection\dos\boot\antiexe\a\wci0166a.boo  Infection: AntiExe.A image file (bad sample) (exact)
+u:\collection\dos\boot\anticmos\c\antic-c-0.boo  Infection: AntiCMOS.C image file (exact)
+u:\collection\dos\boot\anticmos\c\antic-c-1.boo  Infection: AntiCMOS.C image file (exact)
+u:\collection\dos\boot\anticmos\c\antic-c-2.boo  Infection: AntiCMOS.C image file (exact)
+u:\collection\dos\boot\anticmos\d\anticm-d.boo  Infection: AntiCMOS.D image file (exact)
+u:\collection\dos\boot\anticmos\e\anticm-e.boo  Infection: AntiCMOS.E image file (exact)
+u:\collection\dos\boot\anticmos\f\anticm-f.boo  Infection: AntiCMOS.F image file (exact)
+u:\collection\dos\boot\antiexe\a\wci0166a.boo  Infection: AntiExe.A image file (exact)
+u:\collection\dos\boot\antiexe\b\antiexeb-0.boo  Infection: AntiExe.B image file (exact)
+u:\collection\dos\boot\antiexe\f\antiexef-0.boo  Infection: AntiExe.F image file (exact)
+u:\collection\dos\boot\antiexe\g\antiexeg-0.boo  Infection: AntiExe.G image file (exact)
+u:\collection\dos\boot\antiexe\i\antiexei-0.boo  Infection: AntiExe.I image file (exact)
+u:\collection\dos\boot\antiexe\j\antiexej-0.boo  Infection: AntiExe.J image file (exact)
+u:\collection\dos\boot\antiexe\j\antiexej-1.boo  Infection: AntiExe.J image file (exact)
+u:\collection\dos\boot\antiexe\k\antiexek-0.boo  Infection: AntiExe.K image file (exact)
+u:\collection\dos\boot\antiexe\l\antiexel-0.boo  Infection: AntiExe.L image file (exact)
+u:\collection\dos\boot\antiexe\unknown\anti-unk-0.boo  Infection: AntiExe.unknown? image file
+u:\collection\dos\boot\antiexe\unknown\anti-unk-1.boo  Infection: AntiExe.unknown? image file
+u:\collection\dos\boot\antiexe\unknown\anti-unk-2.boo  Infection: AntiExe.unknown? image file
+u:\collection\dos\boot\antimd\antimd-0.boo  Infection: Antimd image file
+u:\collection\dos\boot\antimd\antimd-1.boo  Infection: Antimd image file
+u:\collection\dos\boot\antimd\antimd-2.boo  Infection: Antimd image file
+u:\collection\dos\boot\antiwin95\antiw95-0.boo  Infection: AntiWin95 image file
+u:\collection\dos\boot\antiwin95\antiw95-1.boo  Infection: AntiWin95 image file
 u:\collection\dos\boot\ap\a\apa.boo  Infection: AP.A image file (exact)
 u:\collection\dos\boot\ap\b\ap-b.boo  Infection: AP.B image file (exact)
 u:\collection\dos\boot\ap\c\ap-c.boo  Infection: AP.C image file (exact)
@@ -60,6 +107,10 @@ u:\collection\dos\boot\ap\m\apm.boo  Infection: AP.M image file (exact)
 u:\collection\dos\boot\ap\nightcity\nightcit.boo  Infection: NightCity image file (exact)
 u:\collection\dos\boot\ap\p\apj.boo  Infection: AP.P image file (exact)
 u:\collection\dos\boot\aragon\a\aragon.boo  Infection: Aragon.A image file (exact)
+u:\collection\dos\boot\aragon\b\aragonb-0.boo  Infection: Aragon.B image file (exact)
+u:\collection\dos\boot\aragon\b\aragonb-1.boo  Infection: Aragon.B image file (exact)
+u:\collection\dos\boot\aragon\c\aragonc-0.boo  Infection: Aragon.C image file (exact)
+u:\collection\dos\boot\aragon\d\aragond-0.boo  Infection: Aragon.D image file (exact)
 u:\collection\dos\boot\asbv\asbv.boo  Infection: Asbv image file (exact)
 u:\collection\dos\boot\asterisk\asterisk.boo  Infection: Asterisk.unknown? image file
 u:\collection\dos\boot\atcorp\321\wci03303.boo  Infection: ATCorp.321 image file (exact)
@@ -130,6 +181,9 @@ u:\collection\dos\boot\coup\2052\a\virus.boot-dos.coup.2052.a  Infection: Coup i
 u:\collection\dos\boot\crepate\2910\wci06233.td0  Infection: Crepate.2910 image file (exact)
 u:\collection\dos\boot\cruel\a\cruela.boo  Infection: Cruel.A image file (exact)
 u:\collection\dos\boot\daboys\a\da'boy~1.boo  Infection: Da'Boys.A image file (exact)
+u:\collection\dos\boot\daboys\a\daboys-0.boo  Infection: Da'Boys.A image file (exact)
+u:\collection\dos\boot\daboys\b\daboysb-0.td0  Infection: Da'Boys.B image file (exact)
+u:\collection\dos\boot\daboys\b\daboysb-1.boo  Infection: Da'Boys.B image file (exact)
 u:\collection\dos\boot\damcdoom\damcdoom.boo  Infection: DamCDoom image file (exact)
 u:\collection\dos\boot\darkelf\darkelf.boo  Infection: Delf image file (exact)
 u:\collection\dos\boot\dark_angel\3250\wci03333.boo  Infection: Dark_Angel.3250 image file
@@ -157,7 +211,13 @@ u:\collection\dos\boot\denzuk\j\denzuk-j.boo  Infection: Denzuko.E image file (b
 u:\collection\dos\boot\devil\devilc.boo  Infection: Devil.A image file (exact)
 u:\collection\dos\boot\diablo\b\diablob.boo  Infection: Diablo.B image file (bad sample) (exact)
 u:\collection\dos\boot\digits\memeater.boo  Infection: Digits image file (exact)
+u:\collection\dos\boot\disk_d\a\trojan.dos.diskeraser.d  Infection: Disk_D.A image file
+u:\collection\dos\boot\disk_killer\a\boot17.boo  Infection: Disk_Killer.A image file (exact)
 u:\collection\dos\boot\disk_killer\a\DISKKILL.boo  Infection: Disk_Killer.A image file (exact)
+u:\collection\dos\boot\disk_killer\a\ogre.boo  Infection: Disk_Killer.A image file (exact)
+u:\collection\dos\boot\disk_killer\a\ogre1.bin  Infection: Disk_Killer.A image file (exact)
+u:\collection\dos\boot\disk_killer\a\ogre104.bin  Infection: Disk_Killer.A image file (exact)
+u:\collection\dos\boot\disk_killer\c\ogre.vom  Infection: Disk_Killer.C image file (bad sample) (exact)
 u:\collection\dos\boot\disk_killer\d\diskkild.boo  Infection: Disk_Killer.D image file (bad sample) (exact)
 u:\collection\dos\boot\drdemon\wci03343.boo  Infection: DrDemon image file
 u:\collection\dos\boot\drivel\wci04502.boo  Infection: Drivel image file (exact)
@@ -588,6 +648,7 @@ u:\collection\dos\file_a-d\abba\9849\a\ca9849a1.vom  Infection: Abba.9849.A
 u:\collection\dos\file_a-d\abba\9849\a\carzy9~1.vom  Infection: Abba.9849.A
 u:\collection\dos\file_a-d\abba\9849\b\abba.vom  Infection: Abba.9849.B
 u:\collection\dos\file_a-d\abba\9849\b\Virus.DOS.Abba.9849.b  Infection: Abba.9849.B
+u:\collection\dos\file_a-d\abba\9849\c\abba-c-0.vom  Infection: Abba.9849.C
 u:\collection\dos\file_a-d\abbadada\786\virus.dos.dada_ii.786  Infection: Abbadada.786
 u:\collection\dos\file_a-d\abbas\1100\Virus.DOS.Abbas.1100  Infection: Abbas.1100 (exact)
 u:\collection\dos\file_a-d\abbas\1313\Virus.DOS.Abbas.1313  Infection: Abbas.1313
@@ -627,6 +688,8 @@ u:\collection\dos\file_a-d\acg\b\Virus.DOS.ACG.c  Infection: ACG.B
 u:\collection\dos\file_a-d\ache\338\1584cb83f727e33ccefd75e49a8fc39d36bf6c3087ecc5a6136d2dda51c25025  Infection: Ache.338 (exact)
 u:\collection\dos\file_a-d\ache\338\Virus.DOS.Ache.338  Infection: Ache.338 (exact)
 u:\collection\dos\file_a-d\ache\352\04bbf2b80164bf217668a50ab083e70717e2355ef8ffd223da7aa21f628bd862  Infection: Ache.352
+u:\collection\dos\file_a-d\acid\603\acid603-0.vom  Infection: Acid.603
+u:\collection\dos\file_a-d\acid\603\acid603-1.vxe  Infection: Acid.603
 u:\collection\dos\file_a-d\acid\670\aci670b.vxe  Infection: Acid.670
 u:\collection\dos\file_a-d\acid\670\acid67~1.vxe  Infection: Acid.670
 u:\collection\dos\file_a-d\acid\670\binacid1.vxe  Infection: Acid.670
@@ -642,6 +705,8 @@ u:\collection\dos\file_a-d\acurev\666\Virus.DOS.Acurev.666  Infection: Acurev.66
 u:\collection\dos\file_a-d\acurev\670\Virus.DOS.Acurev.670  Infection: Acurev.670
 u:\collection\dos\file_a-d\acv\1342\Virus.DOS.ACV.1342  Infection: ACV.1342
 u:\collection\dos\file_a-d\acv\1400\Virus.DOS.Algerian.1400  Infection: ACV.1400
+u:\collection\dos\file_a-d\acvt\1243\acvt1243-0.vom  Infection: Acvt.1243
+u:\collection\dos\file_a-d\acvt\1243\acvt1243-1.vom  Infection: Acvt.1243
 u:\collection\dos\file_a-d\acy\790\Virus.DOS.Acy.790  Infection: Acy.790
 u:\collection\dos\file_a-d\ad\132\2634d39e9d3e3a472389f7fb6877ed9fcdbdf9692de017f2cf5ffef06a2a46c2  Infection: AD.132 (exact)
 u:\collection\dos\file_a-d\ad\132\36a31ce057554a51639c05dd12495854c2a7c6cf6f7b240dc2f4c130bde33ff2  Infection: AD.132 (exact)
@@ -653,9 +718,18 @@ u:\collection\dos\file_a-d\ad\436\Virus.DOS.AD.436.b  Infection: _436
 u:\collection\dos\file_a-d\ad\437\Virus.DOS.AD.437  Infection: RRS.437.unknown? - Dropper
 u:\collection\dos\file_a-d\ada\2600\a\ada-2600.vom  Infection: Ada.2600.A (exact)
 u:\collection\dos\file_a-d\ada\2600\a\Virus.DOS.Ada.2600  Infection: Ada.2600.A (exact)
+u:\collection\dos\file_a-d\ada\2600\b\ada2600b-0.vom  Infection: Ada.2600.B (exact)
+u:\collection\dos\file_a-d\ada\2600\b\ada2600b-1.vom  Infection: Ada.2600.B (exact)
 u:\collection\dos\file_a-d\ada\3368\a\ada.vom  Infection: Ada.3368.A (exact)
 u:\collection\dos\file_a-d\ada\3368\a\ada3368.vom  Infection: Ada.3368.A (exact)
 u:\collection\dos\file_a-d\ada\3368\b\Virus.DOS.Ada.3368  Infection: Ada.3368.B (exact) - Dropper
+u:\collection\dos\file_a-d\aderrora\3192\a\c571e5cbe3c7a81f71afcafd50f0d1ee899f7cc30b8deda87a013daf6fe9a5e5  Infection: Aderrora.3192 (exact)
+u:\collection\dos\file_a-d\aderrora\3192\b\aderrorb.vom  Infection: Aderrora.3192.unknown?
+u:\collection\dos\file_a-d\aderrora\3192\b\DUMP32.vom  Infection: Aderrora.3192.unknown?
+u:\collection\dos\file_a-d\aderrora\3192\b\LWM.vom  Infection: Aderrora.3192.unknown?
+u:\collection\dos\file_a-d\aderrora\3192\b\NETRUN.vom  Infection: Aderrora.3192.unknown?
+u:\collection\dos\file_a-d\aderrora\3192\b\t1.vom  Infection: Aderrora.3192.unknown?
+u:\collection\dos\file_a-d\aderrora\3192\b\t3.vom  Infection: Aderrora.3192.unknown?
 u:\collection\dos\file_a-d\adin\1504\97c89174606be8997d9da32a3a57a577012471e396bbf2a765166e2fba75df13  Infection: Adin.1504 (exact)
 u:\collection\dos\file_a-d\adin\1504\f0abdd539fe3461b8be7d9a291220ca80d8509c49bb94084e5c9d5b13eae99d9  Infection: Adin.1504 (exact)
 u:\collection\dos\file_a-d\adin\1504\Virus.DOS.Adin.1488  Infection: Adin.1504 (exact)
@@ -683,6 +757,12 @@ u:\collection\dos\file_a-d\adsmile\1113\wci05833.vxe  Infection: ADsmile.1113
 u:\collection\dos\file_a-d\adt\Virus.DOS.ADT.1778  Infection: Adt.1778
 u:\collection\dos\file_a-d\aep\0626\a\aep626~1.vom  Infection: AEP.626.A (exact)
 u:\collection\dos\file_a-d\aep\0626\b\18eee47445f38ad9d23a3c2f3c550bcba0a630e350641d583a22125b12f2f0ae  Infection: AEP.626.B (exact)
+u:\collection\dos\file_a-d\aeta\5161\aeta5161-0.vxe  Infection: Aeta.5161
+u:\collection\dos\file_a-d\aeta\5161\aeta5161-1.vxe  Infection: Aeta.5161
+u:\collection\dos\file_a-d\aeta\5161\aeta5161-2.vxe  Infection: Aeta.5161
+u:\collection\dos\file_a-d\aeta\5299\a\aeta5299-0.vxe  Infection: Aeta.5299.A
+u:\collection\dos\file_a-d\aeta\5299\a\aeta5299-1.vxe  Infection: Aeta.5299.A
+u:\collection\dos\file_a-d\aeta\5299\a\aeta5299-2.vxe  Infection: Aeta.5299.A
 u:\collection\dos\file_a-d\aeta\5315\antieta.c1  Infection: Aeta.5315
 u:\collection\dos\file_a-d\aeta\5315\antieta.c2  Infection: Aeta.5315
 u:\collection\dos\file_a-d\aeta\5315\antieta.e1  Infection: Aeta.5315
@@ -706,20 +786,30 @@ u:\collection\dos\file_a-d\ah\2241\Virus.DOS.AH.2241  Infection: Underdov.2241
 u:\collection\dos\file_a-d\ahasverus\1244\Virus.DOS.Ahasverus.1244  Infection: Earle.1244
 u:\collection\dos\file_a-d\ahav\336\ahav336.vom  Infection: Ahav.336 (exact)
 u:\collection\dos\file_a-d\ahav\337\a\ahav337.vom  Infection: Ahav.337.A (exact)
+u:\collection\dos\file_a-d\ahav\337\b\ahav337-0.vom  Infection: Ahav.337.B (exact)
 u:\collection\dos\file_a-d\ahav\377\ahav377.vom  Infection: Ahav.377 (exact)
 u:\collection\dos\file_a-d\ahav\377\ahv377en.vom  Infection: Ahav.377 (exact)
+u:\collection\dos\file_a-d\ahav\379\a\ahav379a-0.vom  Infection: Ahav.379.A (exact)
 u:\collection\dos\file_a-d\ahav\379\b\ahav379.vom  Infection: Ahav.379.B (exact)
+u:\collection\dos\file_a-d\ahav\379\c\ahav379c-0.vom  Infection: Ahav.379.C (exact)
 u:\collection\dos\file_a-d\ahav\383\ahav383.vom  Infection: Ahav.383 (exact)
 u:\collection\dos\file_a-d\ahav\385\a\ahav385.vom  Infection: Ahav.385.A (exact)
+u:\collection\dos\file_a-d\ahav\385\b\ahav385b-0.vom  Infection: Ahav.385.B (exact)
+u:\collection\dos\file_a-d\ahav\385\c\ahav385c-0.vom  Infection: Ahav.385.C (exact)
 u:\collection\dos\file_a-d\ai\1759\ai-1759.vxe  Infection: AI.1759
 u:\collection\dos\file_a-d\ai\1759\ai.vxe  Infection: AI.1759
 u:\collection\dos\file_a-d\ai\1759\ai1759.vxe  Infection: AI.1759
 u:\collection\dos\file_a-d\ai22\1659\Virus.DOS.Ai22.1659  Infection: AI22.1659
+u:\collection\dos\file_a-d\airdefp\999\a\airdefpa-0.vom  Infection: Airdefp.999.A (exact)
+u:\collection\dos\file_a-d\airdefp\999\a\airdefpa-1.vom  Infection: Airdefp.999.A (exact)
+u:\collection\dos\file_a-d\airdefp\999\a\airdefpa-2.vom  Infection: Airdefp.999.A (exact)
+u:\collection\dos\file_a-d\airdefp\999\a\airdefpa-3.vom  Infection: Airdefp.999.A (exact)
 u:\collection\dos\file_a-d\airdefp\999\b\virus.dos.v.999  Infection: Airdefp.999.B (exact)
 u:\collection\dos\file_a-d\airwalker\300\airw300.vom  Infection: AirWalker.300
 u:\collection\dos\file_a-d\airwalker\303\airw303.vom  Infection: AirWalker.303
 u:\collection\dos\file_a-d\airwalker\384\airw384.vom  Infection: AirWalker.384
 u:\collection\dos\file_a-d\airwalker\385\a\airw385.vom  Infection: AirWalker.385.A (exact)
+u:\collection\dos\file_a-d\airwalker\385\b\airwalk-b-0.vom  Infection: AirWalker.385.B (exact)
 u:\collection\dos\file_a-d\airwalker\386\airw386.vom  Infection: AirWalker.386 (exact)
 u:\collection\dos\file_a-d\aiw\572\1.vom  Infection: Aiw.572 (exact)
 u:\collection\dos\file_a-d\aiw\572\t1.vom  Infection: Aiw.572 (exact)
@@ -759,18 +849,25 @@ u:\collection\dos\file_a-d\al-dith\1502\b\virus.dos.dith.1502  Infection: Al-Dit
 u:\collection\dos\file_a-d\alabama\1560\a\alabamg1.vom  Infection: Alabama.1560.A (exact) - Dropper
 u:\collection\dos\file_a-d\alabama\1560\a\alabam~1.vom  Infection: Alabama.1560.A (exact)
 u:\collection\dos\file_a-d\alabama\1560\b\Virus.DOS.Alabama.b  Infection: Alabama.1560.B (exact)
+u:\collection\dos\file_a-d\alar\4873\alar4873-0.vom  Infection: Alar.4873
+u:\collection\dos\file_a-d\alar\5088\52cb1798f9c79b45fe7fbd077e244d89d1b88d688dbdcb5da77908ef20ab9156  Infection: Alar.5088
+u:\collection\dos\file_a-d\alar\6047\3c33de13495acedabd56966fb67bd399d3c55740792edcb8d54a5824054c5a97  Infection: Alar.6047 (exact)
+u:\collection\dos\file_a-d\alar\6047\ba32079d84bf85c0e64e1878175f0d8bd5b68c8402f7e14430e1f0e62a766ec9  Infection: Alar.6047.unknown?
 u:\collection\dos\file_a-d\alarm\1820\Virus.DOS.Alarm.1820  Infection: Alarm.1820 (exact)
 u:\collection\dos\file_a-d\albania\429\alb-42x.vom  Infection: Albania.429 (exact)
 u:\collection\dos\file_a-d\albania\506\a\alb-50y.vom  Infection: Albania.506.A (exact)
 u:\collection\dos\file_a-d\albania\506\b\Virus.DOS.Albania.506.b  Infection: Albania.506.B (exact) - Dropper
+u:\collection\dos\file_a-d\albania\506\d\alb506c-0.vom  Infection: Albania.506.D (exact)
 u:\collection\dos\file_a-d\albania\575\a\AB-575.vom  Infection: Albania.575.A (exact)
 u:\collection\dos\file_a-d\albania\575\b\alba575b.vom  Infection: Albania.575.B (exact)
 u:\collection\dos\file_a-d\albania\575\b\Virus.DOS.Albania.575.b  Infection: Albania.575.B (exact)
 u:\collection\dos\file_a-d\albania\606\albnew01.vom  Infection: Albania.606.unknown?
 u:\collection\dos\file_a-d\albania\606\a\AB-606.vom  Infection: Albania.606.A (exact)
+u:\collection\dos\file_a-d\albania\606\b\alb606b-0.vom  Infection: Albania.606.B (exact)
 u:\collection\dos\file_a-d\albanian\1991\albani~1.vxe  Infection: Albanian.1991
 u:\collection\dos\file_a-d\albanian\1991\Virus.DOS.Albanian.1991  Infection: Albanian.1991
 u:\collection\dos\file_a-d\albirroja\1442\virus.dos.i13.albi.1442  Infection: Albirroja.1442 (exact)
+u:\collection\dos\file_a-d\albirroja\2180\albi2180-0.vom  Infection: Albirroja.2180 (exact)
 u:\collection\dos\file_a-d\alcom\257\Virus.DOS.Alcom.257  Infection: Kufu.257 (exact)
 u:\collection\dos\file_a-d\ale\1911\Virus.DOS.Ale.1911  Infection: Ale.1911 (exact)
 u:\collection\dos\file_a-d\alevir\2349\alev2349.c1  Infection: Alevir.2349
@@ -793,6 +890,10 @@ u:\collection\dos\file_a-d\alexander\1951\alex.vom  Infection: Alexander.1951
 u:\collection\dos\file_a-d\alexander\2104\virus.dos.eddie.apa.2104  Infection: Alexander.2104 (exact)
 u:\collection\dos\file_a-d\alexe\1287\Virus.DOS.Alxe.1287  Infection: Alexe.1287 (exact)
 u:\collection\dos\file_a-d\alex_solo\512\Virus.DOS.AlexAndSolo.512  Infection: Alex_Solo.512 - Dropper
+u:\collection\dos\file_a-d\alfa\3072\21e4c29afe9420b3a2fc51460eab12f131c4c6aef306d37cbe99b730d9559c53  Infection: Alfa.3072
+u:\collection\dos\file_a-d\alfa\3072\560b9912f9b6a60bb0a78744bb391bc37b254eaf2708dfd6c57eb72de6c2fd35  Infection: Alfa.3072
+u:\collection\dos\file_a-d\alfa\3072\a657fb69ae64be1e3980049c328312c3e2da7fbc56325f0996fa475d0e70ee72  Infection: Alfa.3072
+u:\collection\dos\file_a-d\alfa\3072\df4ebd7345642ad00a6069ce9c1e46432ddcb3516eeeefbab6557190a2f45751  Infection: Alfa.3072
 u:\collection\dos\file_a-d\alfons\1344\a\Virus.DOS.Alfons.1424  Infection: Alfons.1344.A (exact)
 u:\collection\dos\file_a-d\alfons\1344\b\a8f60608995b02130accff0dd6435e53a4b8d6ef97dd360f866f5caaed1221d7  Infection: Alfons.1344.B (exact)
 u:\collection\dos\file_a-d\alfons\1344\d\785b59f96ff2020520d68f182bceb2e50cd56ff83390d3f8b36661aa37d4732f  Infection: Alfons.1344.D (exact)
@@ -813,7 +914,15 @@ u:\collection\dos\file_a-d\alien\1356\Virus.DOS.Alien.1356  Infection: Alien.135
 u:\collection\dos\file_a-d\alien\1976\Virus.DOS.Alien.1976  Infection: Alien.1976
 u:\collection\dos\file_a-d\alienfury\480\Virus.DOS.Alien.480  Infection: Alienfury.480 (exact)
 u:\collection\dos\file_a-d\aline\993\Virus.DOS.Aline.993  Infection: Aline.993 (exact)
+u:\collection\dos\file_a-d\alla\1281\alla1281-0.vom  Infection: Alla.1281 (exact)
+u:\collection\dos\file_a-d\alla\1281\alla1281-1.vom  Infection: Alla.1281 (exact)
 u:\collection\dos\file_a-d\alladin\2293\Virus.DOS.Alladin.1827  Infection: Alladin.2293
+u:\collection\dos\file_a-d\alliance\675\a\alli675a-0.vom  Infection: Alliance.675.A (exact)
+u:\collection\dos\file_a-d\alliance\675\a\alli675a-1.vom  Infection: Alliance.675.A (exact) - Dropper
+u:\collection\dos\file_a-d\alliance\675\b\alli675b-0.vom  Infection: Alliance.675.B (exact) - Dropper
+u:\collection\dos\file_a-d\alliance\675\b\alli675b-1.vom  Infection: Alliance.675.B (exact)
+u:\collection\dos\file_a-d\alliance\675\b\alli675b-2.vom  Infection: Alliance.675.B (exact)
+u:\collection\dos\file_a-d\alma\8397\alma8397-0.vom  Infection: Alma.8397
 u:\collection\dos\file_a-d\alpha\1121\b\Virus.DOS.AlphaVirus.1121  Infection: Alpha.1121.B (exact)
 u:\collection\dos\file_a-d\alpha\1466\Virus.DOS.AlphaVirus.1466  Infection: Punk.1466 (exact)
 u:\collection\dos\file_a-d\alphabet\447\Virus.DOS.Alphabet.447  Infection: Alphabet.447 (exact)
@@ -830,6 +939,9 @@ u:\collection\dos\file_a-d\altx\2663\Virus.DOS.Altx.2663  Infection: Altx.2663
 u:\collection\dos\file_a-d\altx\2675\Virus.DOS.Altx.2675  Infection: Altx.2675
 u:\collection\dos\file_a-d\altx\2748\Virus.DOS.Altx.2748  Infection: Altx.2748
 u:\collection\dos\file_a-d\altx\2889\Virus.DOS.Altx.2889  Infection: Altx.2889
+u:\collection\dos\file_a-d\altx\2900\altx2900-0.vom  Infection: Altx.2900
+u:\collection\dos\file_a-d\altx\2900\altx2900-1.vom  Infection: Altx.2900
+u:\collection\dos\file_a-d\altx\2900\altx2900-2.vom  Infection: Altx.2900
 u:\collection\dos\file_a-d\am\1281\Virus.DOS.Am_II.1281  Infection: Am.1281
 u:\collection\dos\file_a-d\aman\10716\10716.vxe  Infection: Aman.10716
 u:\collection\dos\file_a-d\amanita\1135\Virus.DOS.Amanita.1135  Infection: Amanita.1135
@@ -850,6 +962,8 @@ u:\collection\dos\file_a-d\ambulance\796\c\ambul_c.vom  Infection: Ambulance.796
 u:\collection\dos\file_a-d\ambulance\796\d\amgflanc.vom  Infection: Ambulance.796.A (exact)
 u:\collection\dos\file_a-d\ambulance\796\e\amb796e.vom  Infection: Ambulance.796.E (exact)
 u:\collection\dos\file_a-d\ambulance\796\f\ambul.vom  Infection: Ambulance.796.F (exact)
+u:\collection\dos\file_a-d\ambulance\796\h\ambul796-0.vom  Infection: Ambulance.796.H
+u:\collection\dos\file_a-d\ambulance\796\k\ambul796k-0.vom  Infection: Ambulance.796.K (exact)
 u:\collection\dos\file_a-d\ambulance_ii\2124\Virus.DOS.Ambulance_II.2124  Infection: _2124
 u:\collection\dos\file_a-d\amoeba\1392\amoeba-0.vxe  Infection: Amoeba.1392 (exact)
 u:\collection\dos\file_a-d\amoeba\1392\a\414a8cc29174b85806cc394a64ebcbe17659ae65a034cd5cedc642f5084041be  Infection: Amoeba.1392 (exact)
@@ -868,6 +982,9 @@ u:\collection\dos\file_a-d\an\512\a\9d830a2bbab93ebcf4ccd9f2a36e6db4505ddb058aab
 u:\collection\dos\file_a-d\an\512\a\c02e473afe31a7f04007e6a356711d05305bc402c7bd3e743ee476ce00a17415  Infection: AN.512.B (exact)
 u:\collection\dos\file_a-d\an\512\b\an.vom  Infection: AN.512.A (exact)
 u:\collection\dos\file_a-d\an\512\b\an512.vxe  Infection: AN.512.A (exact) - Dropper
+u:\collection\dos\file_a-d\anad\725\b\anad725-0.vom  Infection: Anad.725.B (exact)
+u:\collection\dos\file_a-d\anad\725\b\anad725-1.vom  Infection: Anad.725.B (exact)
+u:\collection\dos\file_a-d\anad\725\b\anad725-2.vom  Infection: Anad.725.B (exact)
 u:\collection\dos\file_a-d\anarchy\6503\virus.dos.anarchy.6503  Infection: Anarchy.6503
 u:\collection\dos\file_a-d\anarchyst\1268\Virus.DOS.Anarchy.1268  Infection: Anarchyst.1268 (exact)
 u:\collection\dos\file_a-d\anarchy_ii\300\an.vom  Infection: Anarchy_II.300 (exact)
@@ -879,6 +996,9 @@ u:\collection\dos\file_a-d\andris\0683\Virus.DOS.Andris.683  Infection: Andris.6
 u:\collection\dos\file_a-d\andris\0843\virus.dos.andris.843  Infection: Andris.843 (exact) - Dropper
 u:\collection\dos\file_a-d\andris\1107\virus.dos.andreas.1107  Infection: Andris.1107
 u:\collection\dos\file_a-d\andris\1126\virus.dos.andreas.1126  Infection: Andris.1126
+u:\collection\dos\file_a-d\android\969\6a45584315a2bffb77f65c3cf1e7962049de32e6851f8e8e549d740c784e38ef  Infection: Android.969 (exact)
+u:\collection\dos\file_a-d\android\969\7cb99274945ff1ae7f9dae5df2e704f5489de7677c305c12d6d65f4be10ec2d7  Infection: Android.969 (exact)
+u:\collection\dos\file_a-d\android\969\beb147994163d15419a535962a30a7a46e2cf147f5f3e80a99d8343611c9aea2  Infection: Android.969 (exact)
 u:\collection\dos\file_a-d\android\985\andr-985.vom  Infection: Android.985
 u:\collection\dos\file_a-d\android\985\andr-985.vxe  Infection: Android.985
 u:\collection\dos\file_a-d\android\985\andro1.vom  Infection: Android.985
@@ -923,14 +1043,28 @@ u:\collection\dos\file_a-d\andy\1016\a\Virus.DOS.Andy.1016  Infection: Andy.1016
 u:\collection\dos\file_a-d\andy\1016\b\b11cfdac1d6d163f29f1bfbcf2079c22c742403a10a08cda14626c9ed87a3f7e  Infection: Andy.1016.B (exact)
 u:\collection\dos\file_a-d\angarsk\238\angarsk.238  Infection: Angarsk.238 - Dropper
 u:\collection\dos\file_a-d\angel\661\virus.dos.angel_2.661  Infection: Angel.661
+u:\collection\dos\file_a-d\angela\dc322d9bfb34f94eac71ebb7d3b543af5d9a97730380d2c8817bc7e49c5f36d7  Infection: New or modified variant of Angela
+u:\collection\dos\file_a-d\angela\0290\61bf69f4db32d1aabd2e8b74ccc10825af795fec0c3b5be5cfc089ba2cb97caa  Infection: Angela.290
+u:\collection\dos\file_a-d\angela\0290\a27625ecba2c045c08a2e1505691e7822d3a0700218e88d7489757ab470caf13  Infection: Angela.290
+u:\collection\dos\file_a-d\angela\0291\angela291-0.vom  Infection: Angela.291
+u:\collection\dos\file_a-d\angela\2204\84d0118983b0c6c7c4d2a2af796dcf6733580d08b3d79916e09148e91b18bf32  Infection: Angela.2204 - Dropper
+u:\collection\dos\file_a-d\angela\2314\69161879ff3724c53ef6ff63ef7bf0d59f9aeca05dab9cf4c528d9064cc49790  Infection: Angela.2314 (exact)
+u:\collection\dos\file_a-d\angela\2337\23e9f6571ddc1c0aac0df736e58818ba15e01a9c89b8725814e5b5de17545dc7  Infection: Angela.2337
+u:\collection\dos\file_a-d\angela\2337\34503a9f0082d9e19be078b8aef05876091aa83e17352e12fcbf40a990601e8b  Infection: Angela.2337 - Dropper
+u:\collection\dos\file_a-d\angela\2337\df5d78da144395026998b6f7b4b3bb3499390b0ceb2a6b6c7da675c332d4cc46  Infection: Angela.2337
+u:\collection\dos\file_a-d\angela\2347\12fdb68a194e12e93e95a5e250b2f33dca9cdd3b5df86027b657112a8191ed43  Infection: Angela.2347 (exact) - Dropper
+u:\collection\dos\file_a-d\angela\2347\4e7679423c697a0ef2e8e1b60cd5c45418aa6784f151c49f87fcf9f8418ef9f0  Infection: Angela.2347 (exact)
+u:\collection\dos\file_a-d\angela\2418\6d6bbc3b105045634b5264db314041115e080623ae15d65b4a393fc760234ca3  Infection: Angela.2418
 u:\collection\dos\file_a-d\angels\1571\virus.dos.angel_2.1571  Infection: Angels.1571
 u:\collection\dos\file_a-d\anger\395\a\virus.dos.anger.395  Infection: Anger.395.A (exact)
+u:\collection\dos\file_a-d\anger\395\b\anger-b-0.vom  Infection: Anger.395.B (exact)
 u:\collection\dos\file_a-d\angry\393\angry.vom  Infection: Angry.393
 u:\collection\dos\file_a-d\animal\2400\b\virus.dos.animals.2400.b  Infection: Animal.2400.B (exact)
 u:\collection\dos\file_a-d\animal\2400\unknown\virus.dos.animals.2400.a  Infection: Animal.2400.unknown?
 u:\collection\dos\file_a-d\anjo\456\virus.dos.jogan.456  Infection: Anjo.456
 u:\collection\dos\file_a-d\anjo\700\Virus.DOS.Anjo.700  Infection: Anjo.700 (exact)
 u:\collection\dos\file_a-d\anlage\1273\Virus.DOS.Martin.1276  Infection: Anlage.1273 (exact)
+u:\collection\dos\file_a-d\anninjarb\581\005915babfb4c6dc27ec7db17371ac5cef81a4e21bd4b77e45c02f94e59fae2e  Infection: PS-MPC.581 (generic)
 u:\collection\dos\file_a-d\anomally\277\a\da.vom  Infection: Anomally.277.A (exact)
 u:\collection\dos\file_a-d\anomally\277\a\t1.vom  Infection: Anomally.277.A (exact)
 u:\collection\dos\file_a-d\anomally\277\a\t3.vom  Infection: Anomally.277.A (exact)
@@ -945,13 +1079,23 @@ u:\collection\dos\file_a-d\answer\1153\virus.dos.answer.1153  Infection: Answer.
 u:\collection\dos\file_a-d\anthrax\1024\a\ANTHRAX.vom  Infection: Anthrax.1024.A (exact)
 u:\collection\dos\file_a-d\anti\1101\virus.dos.antipas.1101  Infection: Anti.1101
 u:\collection\dos\file_a-d\anti-av\839\virus.dos.anti-av.839  Infection: _839
+u:\collection\dos\file_a-d\anti-aznar\664\a\antiaz664-0.vom  Infection: Anti-Aznar.664.A (exact)
 u:\collection\dos\file_a-d\anti-aznar\666\a\virus.dos.anti-aznar.666  Infection: Anti-Aznar.666.A (exact)
+u:\collection\dos\file_a-d\anti-aznar\666\b\antiaz666b-0.vom  Infection: Anti-Aznar.666.B (exact)
 u:\collection\dos\file_a-d\anti-aznar\667\b\t1.vom  Infection: Anti-Aznar.667.unknown?
 u:\collection\dos\file_a-d\anti-aznar\667\b\t3.vom  Infection: Anti-Aznar.667.unknown?
 u:\collection\dos\file_a-d\anti-aznar\667\b\virus.dos.aznar.667  Infection: Anti-Aznar.667.unknown?
 u:\collection\dos\file_a-d\anti-c\726\virus.dos.anticmos.726  Infection: Anti-C.726 (exact)
-u:\collection\dos\file_a-d\anti-clerical\877\b\A.vom  Infection: Anti-Clerical.877.unknown?
-u:\collection\dos\file_a-d\anti-clerical\877\b\virus.dos.glemp.877  Infection: Anti-Clerical.877.unknown?
+u:\collection\dos\file_a-d\anti-clerical\877\a\anticl-a.vom  Infection: Anti-Clerical.877.A (exact)
+u:\collection\dos\file_a-d\anti-clerical\877\b\anticl-b.vom  Infection: Anti-Clerical.877.B (exact)
+u:\collection\dos\file_a-d\anti-clerical\877\d\A.vom  Infection: Anti-Clerical.877.unknown?
+u:\collection\dos\file_a-d\anti-clerical\877\d\virus.dos.glemp.877  Infection: Anti-Clerical.877.unknown?
+u:\collection\dos\file_a-d\anti-clerical\877\e\anticl877.vom  Infection: Anti-Clerical.877.unknown? - Dropper
+u:\collection\dos\file_a-d\anti-clerical\877\e\DUMP32.vom  Infection: Anti-Clerical.877.unknown?
+u:\collection\dos\file_a-d\anti-clerical\877\e\LWM.vom  Infection: Anti-Clerical.877.unknown?
+u:\collection\dos\file_a-d\anti-clerical\877\e\NETRUN.vom  Infection: Anti-Clerical.877.unknown?
+u:\collection\dos\file_a-d\anti-clerical\877\e\t1.vom  Infection: Anti-Clerical.877.unknown?
+u:\collection\dos\file_a-d\anti-clerical\877\e\t2.vom  Infection: Anti-Clerical.877.unknown?
 u:\collection\dos\file_a-d\anti-fortran\1110\virus.dos.antifort.1110  Infection: Anti-Fortran.1110
 u:\collection\dos\file_a-d\anti-fortran\1117\virus.dos.antifort.1117  Infection: Anti-Fortran.1117 (exact)
 u:\collection\dos\file_a-d\anti-fortran\1493\virus.dos.antifort.1493  Infection: Anti-Fortran.1493 (exact)
@@ -973,6 +1117,9 @@ u:\collection\dos\file_a-d\anti-pascal_ii\400\g\apas400f.vom  Infection: Anti-Pa
 u:\collection\dos\file_a-d\anti-pascal_ii\400\g\Virus.DOS.AntiPascal.400.e  Infection: Anti-Pascal_II.400.G (exact)
 u:\collection\dos\file_a-d\anti-pascal_ii\400\h\apas400g.vom  Infection: Anti-Pascal_II.400.H (exact)
 u:\collection\dos\file_a-d\anti-pascal_ii\400\i\Virus.DOS.AntiPascal.400.g  Infection: Anti-Pascal_II.400.I (exact)
+u:\collection\dos\file_a-d\anti-pascal_ii\400\l\antipas400l0.vom  Infection: Anti-Pascal_II.400.L (exact)
+u:\collection\dos\file_a-d\anti-pascal_ii\401\a\anti401a-0.vom  Infection: Anti-Pascal_II.401.A (exact)
+u:\collection\dos\file_a-d\anti-pascal_ii\401\a\anti401a-1.vom  Infection: Anti-Pascal_II.401.A (exact)
 u:\collection\dos\file_a-d\anti-pascal_ii\401\b\Virus.DOS.AntiPascal.400.b  Infection: Anti-Pascal_II.401.B (exact)
 u:\collection\dos\file_a-d\anti-pascal_ii\407\Virus.DOS.AntiPascal.407  Infection: Anti-Pascal_II.407 (exact)
 u:\collection\dos\file_a-d\anti-pascal_ii\440\a\92fc990ef908ad1d405e7901cbd3ec46a95a2dc11e9644202b8719197bda7efe  Infection: Anti-Pascal_II.440.A (exact)
@@ -990,12 +1137,12 @@ u:\collection\dos\file_a-d\anti-pascal_ii\440\f\9eb38bbb6e411a13c96ee6ed1330213d
 u:\collection\dos\file_a-d\anti-pascal_ii\440\g\23231d48e37f1182691546243ec385b7967a0d89e278dfe151b6ff1cee41e65c  Infection: Anti-Pascal_II.440.G
 u:\collection\dos\file_a-d\anti-pascal_ii\440\unknown\virus.dos.antipascal.440.e  Infection: Anti-Pascal_II.440.unknown?
 u:\collection\dos\file_a-d\anti-pascal_ii\480\a\5ed1a3db6d05fc97ff94ebb58b5a90147b1261acc67f0831a993275d6f33ec4b  Infection: Anti-Pascal_II.480.A (exact)
-u:\collection\dos\file_a-d\anti-pascal_ii\480\a\65a04ed471d72caffeac3f9b3aebdeeb847c11d18fb1441a89cce4eee79297c4  Infection: Anti-Pascal_II.480.A (exact) - Dropper
+u:\collection\dos\file_a-d\anti-pascal_ii\480\a\65a04ed471d72caffeac3f9b3aebdeeb847c11d18fb1441a89cce4eee79297c4  Infection: Anti-Pascal_II.480.A (exact)
 u:\collection\dos\file_a-d\anti-pascal_ii\480\a\d7bec6fefe8e6eb7b8c9834b67608ae1e8c2f87f3d78c947f8f6d293dd1a3e70  Infection: Anti-Pascal_II.480.A (exact)
-u:\collection\dos\file_a-d\anti-pascal_ii\480\b\52f0eefec4725c0745fe3eaabec5ad8b8b1c201d40b3696ccfcbc99b3164e9ac  Infection: Anti-Pascal_II.480.B (exact) - Dropper
-u:\collection\dos\file_a-d\anti-pascal_ii\480\b\670c8a91b05f2663982782c6741ca059f938999111f96acdf56fa89da7f09a03  Infection: Anti-Pascal_II.480.B (exact)
+u:\collection\dos\file_a-d\anti-pascal_ii\480\b\anti480b-0.vom  Infection: Anti-Pascal_II.480.B (exact)
 u:\collection\dos\file_a-d\anti-pascal_ii\480\c\apas480d.vom  Infection: Anti-Pascal_II.480.C (exact)
 u:\collection\dos\file_a-d\anti-pascal_ii\480\d\apas480c.vom  Infection: Anti-Pascal_II.480.D (exact)
+u:\collection\dos\file_a-d\anti-pascal_ii\480\e\anti480e-0.vom  Infection: Anti-Pascal_II.480.E (exact)
 u:\collection\dos\file_a-d\anti-pascal_ii\480\f\Virus.DOS.AntiPascal.480.f  Infection: Anti-Pascal_II.480.F (exact)
 u:\collection\dos\file_a-d\anti-win\2305\Virus.DOS.Antiwin_II.2305  Infection: Anti-Win.2305
 u:\collection\dos\file_a-d\antiarj\313\Virus.DOS.ExeHeader.313  Infection: Antiarj.313 (exact)
@@ -1010,7 +1157,9 @@ u:\collection\dos\file_a-d\antiavp\1050\virus.dos.anti-av.1050  Infection: AntiA
 u:\collection\dos\file_a-d\antiavp\1183\Virus.DOS.Anti-AVP.1183  Infection: AntiAVP.1183 (exact)
 u:\collection\dos\file_a-d\antiavp\1232\virus.dos.anti-avp.1232  Infection: AntiAVP.1232
 u:\collection\dos\file_a-d\antiavp\1234\Virus.DOS.Anti-AVP.1234  Infection: AntiAVP.1234
-u:\collection\dos\file_a-d\antiavp\1235\anti1235.vom  Infection: AntiAVP.1235.A (exact)
+u:\collection\dos\file_a-d\antiavp\1235\a\anti1235.vom  Infection: AntiAVP.1235.A (exact)
+u:\collection\dos\file_a-d\antiavp\1235\b\anti1235b-0.vom  Infection: AntiAVP.1235.B (exact)
+u:\collection\dos\file_a-d\antiavp\1235\b\anti1235b-1.vom  Infection: AntiAVP.1235.B (exact)
 u:\collection\dos\file_a-d\antibase\1900\virus.dos.antibase.1900  Infection: AntiBase.1900 (exact)
 u:\collection\dos\file_a-d\antibasic\351\virus.dos.antibasic.351  Infection: AntiBasic.351 (exact)
 u:\collection\dos\file_a-d\anticad\2454\antica~1.vom  Infection: AntiCad.2454 (exact)
@@ -1114,8 +1263,10 @@ u:\collection\dos\file_a-d\antipascal\0535\T7.vom  Infection: AntiPascal.1070 (e
 u:\collection\dos\file_a-d\antipascal\0535\Virus.DOS.AntiPascal.535  Infection: AntiPascal.1070 (exact)
 u:\collection\dos\file_a-d\antipascal\0583\ap583.vom  Infection: AntiPascal.583 (exact)
 u:\collection\dos\file_a-d\antipascal\0603\virus.dos.antipascal.603  Infection: AntiPascal.603
+u:\collection\dos\file_a-d\antipascal\0604\a\ap-604a-0.vom  Infection: AntiPascal.604.A (exact)
+u:\collection\dos\file_a-d\antipascal\0604\c\ap-604c-0.vom  Infection: AntiPascal.604.C (exact)
 u:\collection\dos\file_a-d\antipascal\0604\d\virus.dos.antipascal.604.b  Infection: AntiPascal.604.D
-u:\collection\dos\file_a-d\antipascal\0604\e\ap-605.vxe  Infection: AntiPascal.604.E (exact) - Dropper
+u:\collection\dos\file_a-d\antipascal\0604\f\ap604unk.vom  Infection: AntiPascal.604.unknown?
 u:\collection\dos\file_a-d\antipascal\0604\f\cabinfo.vxe  Infection: AntiPascal.604.unknown?
 u:\collection\dos\file_a-d\antipascal\0604\f\debug.vxe  Infection: AntiPascal.604.unknown?
 u:\collection\dos\file_a-d\antipascal\0604\f\virus.dos.antipascal.604  Infection: AntiPascal.604.unknown?
@@ -1660,6 +1811,7 @@ u:\collection\dos\file_a-d\atas_ii\3233\Virus.DOS.Atas.3233  Infection: Atas_II.
 u:\collection\dos\file_a-d\atas_ii\3321\ATA23321.vom  Infection: Atas_II.3321
 u:\collection\dos\file_a-d\atb\1522\a\virus.dos.atb.1522.a  Infection: Atb.1522
 u:\collection\dos\file_a-d\atb\1522\b\virus.dos.atb.1522.b  Infection: Atb.1522
+u:\collection\dos\file_a-d\atcorp\363\atcorp0.vom  Infection: ATCorp.363
 u:\collection\dos\file_a-d\atencion\927\virus.dos.atencion.927  Infection: Atencion.927
 u:\collection\dos\file_a-d\atenfor\1122\virus.dos.atenfor.2515  Infection: Atenfor.1122
 u:\collection\dos\file_a-d\atmos\1080\Virus.DOS.Atmos.1080  Infection: Atmos.1080
@@ -7611,6 +7763,7 @@ u:\collection\dos\file_a-d\delwin\1759\delw1759.vxe  Infection: Delwin.1759.A (e
 u:\collection\dos\file_a-d\delwin\1759\fc.vxe  Infection: Delwin.1759.A (exact)
 u:\collection\dos\file_a-d\delwin\1759\tes10000.vxe  Infection: Delwin.1759.A (exact)
 u:\collection\dos\file_a-d\delwin\1759\xcopy.vxe  Infection: Delwin.1759.A (exact)
+u:\collection\dos\file_a-d\dementia\3951\virus.dos.callfast.3959  Infection: Dementia.3951 (exact)
 u:\collection\dos\file_a-d\dementia\4207\a\t1.vom  Infection: Dementia.4207.A (exact)
 u:\collection\dos\file_a-d\dementia\4207\a\t1.vxe  Infection: Dementia.4207.A (exact)
 u:\collection\dos\file_a-d\dementia\4207\a\t2.vom  Infection: Dementia.4207.A (exact)
@@ -7633,63 +7786,74 @@ u:\collection\dos\file_a-d\dementia\4207\b\t5.vxe  Infection: Dementia.4207.B (e
 u:\collection\dos\file_a-d\dementia\4207\b\t6.vxe  Infection: Dementia.4207.B (exact)
 u:\collection\dos\file_a-d\dementia\4207\b\wci07111.vxe  Infection: Dementia.4207.B (exact)
 u:\collection\dos\file_a-d\dementia\4207\b\_demen~1.vom  Infection: Dementia.4207.B (exact)
-u:\collection\dos\file_a-d\dementia\4207\c\dementia.vom  Infection: Dementia.4207.D (exact)
-u:\collection\dos\file_a-d\dementia\4207\c\t1.vom  Infection: Dementia.4207.D (exact)
-u:\collection\dos\file_a-d\dementia\4207\c\t1.vxe  Infection: Dementia.4207.D (exact)
-u:\collection\dos\file_a-d\dementia\4207\c\t11.vom  Infection: Dementia.4207.D (exact)
-u:\collection\dos\file_a-d\dementia\4207\c\t2.vom  Infection: Dementia.4207.D (exact)
-u:\collection\dos\file_a-d\dementia\4207\c\t2.vxe  Infection: Dementia.4207.D (exact)
-u:\collection\dos\file_a-d\dementia\4207\c\t3.vom  Infection: Dementia.4207.D (exact)
-u:\collection\dos\file_a-d\dementia\4207\c\t3.vxe  Infection: Dementia.4207.D (exact)
-u:\collection\dos\file_a-d\dementia\4207\c\t4.vom  Infection: Dementia.4207.D (exact)
-u:\collection\dos\file_a-d\dementia\4207\c\t5.vom  Infection: Dementia.4207.D (exact)
-u:\collection\dos\file_a-d\dementia\4207\c\t5.vxe  Infection: Dementia.4207.D (exact)
-u:\collection\dos\file_a-d\dementia\4207\c\t6.vom  Infection: Dementia.4207.D (exact)
-u:\collection\dos\file_a-d\dementia\4207\c\t6.vxe  Infection: Dementia.4207.D (exact)
-u:\collection\dos\file_a-d\dementia\4207\c\t7.vom  Infection: Dementia.4207.D (exact)
-u:\collection\dos\file_a-d\dementia\4207\c\t8.vom  Infection: Dementia.4207.D (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\1-d4207c.vom  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\1-d4207c.vxe  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\2-d4207c.vom  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\2-d4207c.vxe  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\3-d4207c.vom  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\3-d4207c.vxe  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\4-d4207c.vom  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\c-d4207c.vom  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\t1.vom  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\t1.vxe  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\t2.vom  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\t2.vxe  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\t3.vom  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\t3.vxe  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\t4.vom  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\t5.vom  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\t5.vxe  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\t6.vom  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\t6.vxe  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\t7.vom  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\t8.vom  Infection: Dementia.4207.C (exact)
-u:\collection\dos\file_a-d\dementia\4207\d\wci02454.vom  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\1-d4207c.vom  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\1-d4207c.vxe  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\2-d4207c.vom  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\2-d4207c.vxe  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\3-d4207c.vom  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\3-d4207c.vxe  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\4-d4207c.vom  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\c-d4207c.vom  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\t1.vom  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\t1.vxe  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\t2.vom  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\t2.vxe  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\t3.vom  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\t3.vxe  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\t4.vom  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\t5.vom  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\t5.vxe  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\t6.vom  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\t6.vxe  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\t7.vom  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\t8.vom  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\c\wci02454.vom  Infection: Dementia.4207.C (exact)
+u:\collection\dos\file_a-d\dementia\4207\d\dementia.vom  Infection: Dementia.4207.D (exact)
+u:\collection\dos\file_a-d\dementia\4207\d\t1.vom  Infection: Dementia.4207.D (exact)
+u:\collection\dos\file_a-d\dementia\4207\d\t1.vxe  Infection: Dementia.4207.D (exact)
+u:\collection\dos\file_a-d\dementia\4207\d\t11.vom  Infection: Dementia.4207.D (exact)
+u:\collection\dos\file_a-d\dementia\4207\d\t2.vom  Infection: Dementia.4207.D (exact)
+u:\collection\dos\file_a-d\dementia\4207\d\t2.vxe  Infection: Dementia.4207.D (exact)
+u:\collection\dos\file_a-d\dementia\4207\d\t3.vom  Infection: Dementia.4207.D (exact)
+u:\collection\dos\file_a-d\dementia\4207\d\t3.vxe  Infection: Dementia.4207.D (exact)
+u:\collection\dos\file_a-d\dementia\4207\d\t4.vom  Infection: Dementia.4207.D (exact)
+u:\collection\dos\file_a-d\dementia\4207\d\t5.vom  Infection: Dementia.4207.D (exact)
+u:\collection\dos\file_a-d\dementia\4207\d\t5.vxe  Infection: Dementia.4207.D (exact)
+u:\collection\dos\file_a-d\dementia\4207\d\t6.vom  Infection: Dementia.4207.D (exact)
+u:\collection\dos\file_a-d\dementia\4207\d\t6.vxe  Infection: Dementia.4207.D (exact)
+u:\collection\dos\file_a-d\dementia\4207\d\t7.vom  Infection: Dementia.4207.D (exact)
+u:\collection\dos\file_a-d\dementia\4207\d\t8.vom  Infection: Dementia.4207.D (exact)
+u:\collection\dos\file_a-d\dementia\4207\e\debug.vxe  Infection: Dementia.4207.unknown?
+u:\collection\dos\file_a-d\dementia\4207\e\DUMP32.vom  Infection: Dementia.4207.unknown?
+u:\collection\dos\file_a-d\dementia\4207\e\t1.vxe  Infection: Dementia.4207.unknown?
+u:\collection\dos\file_a-d\dementia\4207\e\t3.vxe  Infection: Dementia.4207.unknown?
+u:\collection\dos\file_a-d\dementia\4207\e\virus.dos.dementia.4207.b  Infection: Dementia.4207.unknown?
+u:\collection\dos\file_a-d\dementia\4218\virus.dos.dementia.4218  Infection: Dementia.4218
+u:\collection\dos\file_a-d\dementia\4226\virus.dos.dementia.4226  Infection: Dementia.4226
+u:\collection\dos\file_a-d\dementia\4229\virus.dos.dementia.4229  Infection: Dementia.4229 (exact)
+u:\collection\dos\file_a-d\democracy\3670\virus.dos.democracy.3670  Infection: Democracy.3670 (exact)
 u:\collection\dos\file_a-d\democracy\3806\wci0218d.vxe  Infection: Democracy.3806 (exact)
 u:\collection\dos\file_a-d\democracy\3959\wci0219d.vxe  Infection: Democracy.3959 (exact)
-u:\collection\dos\file_a-d\demolitn\a\demolitn.vom  Infection: Demolition.1585.A (exact)
-u:\collection\dos\file_a-d\demolitn\a\t1.vom  Infection: Demolition.1585.A (exact)
-u:\collection\dos\file_a-d\demolitn\a\t2.vom  Infection: Demolition.1585.A (exact)
-u:\collection\dos\file_a-d\demolitn\a\t3.vom  Infection: Demolition.1585.A (exact)
-u:\collection\dos\file_a-d\demolitn\a\t4.vom  Infection: Demolition.1585.A (exact)
-u:\collection\dos\file_a-d\demolitn\a\t5.vom  Infection: Demolition.1585.A (exact)
-u:\collection\dos\file_a-d\demolitn\a\t6.vom  Infection: Demolition.1585.A (exact)
-u:\collection\dos\file_a-d\demolitn\a\t7.vom  Infection: Demolition.1585.A (exact)
-u:\collection\dos\file_a-d\demolitn\a\t9.vom  Infection: Demolition.1585.A (exact)
-u:\collection\dos\file_a-d\demolitn\b\de1585b0.vom  Infection: Demolition.1585.B (exact)
-u:\collection\dos\file_a-d\demolitn\b\t1.vom  Infection: Demolition.1585.B (exact)
-u:\collection\dos\file_a-d\demolitn\b\t2.vom  Infection: Demolition.1585.B (exact)
-u:\collection\dos\file_a-d\demolitn\b\t3.vom  Infection: Demolition.1585.B (exact)
-u:\collection\dos\file_a-d\demolitn\b\t4.vom  Infection: Demolition.1585.B (exact)
-u:\collection\dos\file_a-d\demolitn\b\t5.vom  Infection: Demolition.1585.B (exact)
-u:\collection\dos\file_a-d\demolitn\b\t6.vom  Infection: Demolition.1585.B (exact)
-u:\collection\dos\file_a-d\demolitn\b\t7.vom  Infection: Demolition.1585.B (exact)
-u:\collection\dos\file_a-d\demolitn\b\t9.vom  Infection: Demolition.1585.B (exact)
+u:\collection\dos\file_a-d\democrazy\225\virus.dos.democrazy.225  Infection: DemoCrazy.225 (exact)
+u:\collection\dos\file_a-d\democrazy\226\virus.dos.democrazy.226  Infection: DemoCrazy.226 (exact)
+u:\collection\dos\file_a-d\demolition\a\demolitn.vom  Infection: Demolition.1585.A (exact)
+u:\collection\dos\file_a-d\demolition\a\t1.vom  Infection: Demolition.1585.A (exact)
+u:\collection\dos\file_a-d\demolition\a\t2.vom  Infection: Demolition.1585.A (exact)
+u:\collection\dos\file_a-d\demolition\a\t3.vom  Infection: Demolition.1585.A (exact)
+u:\collection\dos\file_a-d\demolition\a\t4.vom  Infection: Demolition.1585.A (exact)
+u:\collection\dos\file_a-d\demolition\a\t5.vom  Infection: Demolition.1585.A (exact)
+u:\collection\dos\file_a-d\demolition\a\t6.vom  Infection: Demolition.1585.A (exact)
+u:\collection\dos\file_a-d\demolition\a\t7.vom  Infection: Demolition.1585.A (exact)
+u:\collection\dos\file_a-d\demolition\a\t9.vom  Infection: Demolition.1585.A (exact)
+u:\collection\dos\file_a-d\demolition\b\de1585b0.vom  Infection: Demolition.1585.B (exact)
+u:\collection\dos\file_a-d\demolition\b\t1.vom  Infection: Demolition.1585.B (exact)
+u:\collection\dos\file_a-d\demolition\b\t2.vom  Infection: Demolition.1585.B (exact)
+u:\collection\dos\file_a-d\demolition\b\t3.vom  Infection: Demolition.1585.B (exact)
+u:\collection\dos\file_a-d\demolition\b\t4.vom  Infection: Demolition.1585.B (exact)
+u:\collection\dos\file_a-d\demolition\b\t5.vom  Infection: Demolition.1585.B (exact)
+u:\collection\dos\file_a-d\demolition\b\t6.vom  Infection: Demolition.1585.B (exact)
+u:\collection\dos\file_a-d\demolition\b\t7.vom  Infection: Demolition.1585.B (exact)
+u:\collection\dos\file_a-d\demolition\b\t9.vom  Infection: Demolition.1585.B (exact)
 u:\collection\dos\file_a-d\demon\4313\demon4.vom  Infection: Demon.4313
 u:\collection\dos\file_a-d\demon\4313\t1.vom  Infection: Demon.4313
 u:\collection\dos\file_a-d\demon\4313\t10.vom  Infection: Demon.4313
@@ -7741,6 +7905,7 @@ u:\collection\dos\file_a-d\demon\4767\dem4767.vxe  Infection: Demon.4767
 u:\collection\dos\file_a-d\demon\4767\demon3b.vom  Infection: Demon.4767
 u:\collection\dos\file_a-d\demon\4767\t1.vom  Infection: Demon.4767
 u:\collection\dos\file_a-d\demon\4767\t2.vom  Infection: Demon.4767
+u:\collection\dos\file_a-d\demon\5350\virus.dos.demon3b.5350  Infection: Demon.5350 (exact)
 u:\collection\dos\file_a-d\demon\5669\1-de5669.vom  Infection: Demon.5669
 u:\collection\dos\file_a-d\demon\5669\1-de5669.vxe  Infection: Demon.5669
 u:\collection\dos\file_a-d\demon\5669\2-de5669.vom  Infection: Demon.5669
@@ -7802,18 +7967,38 @@ u:\collection\dos\file_a-d\demon\5724\tc.vxe  Infection: Demon.5724
 u:\collection\dos\file_a-d\demon\5724\td.vxe  Infection: Demon.5724
 u:\collection\dos\file_a-d\demon\5724\te.vxe  Infection: Demon.5724
 u:\collection\dos\file_a-d\demon\5724\tf.vxe  Infection: Demon.5724
-u:\collection\dos\file_a-d\denied\1056\mirr1056.vxe  Infection: Denied.1056.A
-u:\collection\dos\file_a-d\denied\1056\mirr1064.vxe  Infection: Denied.1056.A
-u:\collection\dos\file_a-d\denied\1056\t1.vxe  Infection: Denied.1056.A
-u:\collection\dos\file_a-d\denied\1056\t3.vxe  Infection: Denied.1056.A
-u:\collection\dos\file_a-d\denied\1056\t5.vxe  Infection: Denied.1056.A
-u:\collection\dos\file_a-d\denied\1056\t7.vxe  Infection: Denied.1056.A
-u:\collection\dos\file_a-d\dennis\689\t1.vxe  Infection: Dennis.689.damaged?
-u:\collection\dos\file_a-d\dennis\689\t3.vxe  Infection: Dennis.689.damaged?
-u:\collection\dos\file_a-d\dennis\689\t5.vxe  Infection: Dennis.689.damaged?
-u:\collection\dos\file_a-d\dennis\689\t7.vxe  Infection: Dennis.689.damaged?
-u:\collection\dos\file_a-d\dennis\689\trace.vxe  Infection: Dennis.689 (exact)
-u:\collection\dos\file_a-d\dennis\689\wci0223d.vxe  Infection: Dennis.689 (exact)
+u:\collection\dos\file_a-d\demoralized\359\a.vom  Infection: Demoralized.359.unknown? - Dropper
+u:\collection\dos\file_a-d\demoralized\359\cabinfo.vxe  Infection: Demoralized.359.unknown?
+u:\collection\dos\file_a-d\demoralized\359\debug.vxe  Infection: Demoralized.359.unknown?
+u:\collection\dos\file_a-d\demoralized\359\EXTRACT.vxe  Infection: Demoralized.359.unknown?
+u:\collection\dos\file_a-d\demoralized\359\t1.vxe  Infection: Demoralized.359.unknown?
+u:\collection\dos\file_a-d\demoralized\359\t3.vxe  Infection: Demoralized.359.unknown?
+u:\collection\dos\file_a-d\demoralized\359\TASM.vxe  Infection: Demoralized.359.unknown?
+u:\collection\dos\file_a-d\demoralized\359\TLINK.vxe  Infection: Demoralized.359.unknown?
+u:\collection\dos\file_a-d\demoralized\359\unp.vxe  Infection: Demoralized.359.unknown?
+u:\collection\dos\file_a-d\demoralized\359\UUENCODE.vxe  Infection: Demoralized.359.unknown?
+u:\collection\dos\file_a-d\denialis\542\virus.dos.v.542  Infection: Denialis.542 (exact)
+u:\collection\dos\file_a-d\denied\1056\a\mirr1056.vxe  Infection: Denied.1056.A
+u:\collection\dos\file_a-d\denied\1056\a\mirr1064.vxe  Infection: Denied.1056.A
+u:\collection\dos\file_a-d\denied\1056\a\t1.vxe  Infection: Denied.1056.A
+u:\collection\dos\file_a-d\denied\1056\a\t3.vxe  Infection: Denied.1056.A
+u:\collection\dos\file_a-d\denied\1056\a\t5.vxe  Infection: Denied.1056.A
+u:\collection\dos\file_a-d\denied\1056\a\t7.vxe  Infection: Denied.1056.A
+u:\collection\dos\file_a-d\denied\1056\b\virus.dos.mirror.1056.b  Infection: Denied.1056.B (exact)
+u:\collection\dos\file_a-d\dennis\0539\virus.dos.dennis.539  Infection: Dennis.539
+u:\collection\dos\file_a-d\dennis\0656\virus.dos.dennis.656  Infection: Dennis.656
+u:\collection\dos\file_a-d\dennis\0689\t1.vxe  Infection: Dennis.689.damaged?
+u:\collection\dos\file_a-d\dennis\0689\t3.vxe  Infection: Dennis.689.damaged?
+u:\collection\dos\file_a-d\dennis\0689\t5.vxe  Infection: Dennis.689.damaged?
+u:\collection\dos\file_a-d\dennis\0689\t7.vxe  Infection: Dennis.689.damaged?
+u:\collection\dos\file_a-d\dennis\0689\trace.vxe  Infection: Dennis.689 (exact)
+u:\collection\dos\file_a-d\dennis\0689\wci0223d.vxe  Infection: Dennis.689 (exact)
+u:\collection\dos\file_a-d\dennis\1000\unknown\virus.dos.dennis.1000  Infection: Dennis.1000.unknown?
+u:\collection\dos\file_a-d\der_wulf\2219\a\derwolfa-0.vom  Infection: Der_Wulf.2219.A (exact)
+u:\collection\dos\file_a-d\der_wulf\2219\a\derwolfa-1.vom  Infection: Der_Wulf.2219.A (exact)
+u:\collection\dos\file_a-d\der_wulf\2219\b\virus.dos.derwolf.2219  Infection: Der_Wulf.2219.B (exact)
+u:\collection\dos\file_a-d\descendancy\1097\virus.dos.v.1097  Infection: Descendancy.1097 (exact)
+u:\collection\dos\file_a-d\desert\641\virus.dos.vienna.641  Infection: Desert.641 (exact)
 u:\collection\dos\file_a-d\desperado\2403\a\1-d2403a.vom  Infection: Desperado.2403.A (exact)
 u:\collection\dos\file_a-d\desperado\2403\a\1-d2403a.vxe  Infection: Desperado.2403.A (exact)
 u:\collection\dos\file_a-d\desperado\2403\a\2-d2403a.vom  Infection: Desperado.2403.A (exact)
@@ -7827,20 +8012,26 @@ u:\collection\dos\file_a-d\desperado\2403\a\despera0.vxe  Infection: Desperado.2
 u:\collection\dos\file_a-d\desperado\2403\a\desperad.vom  Infection: Desperado.2403.A (exact)
 u:\collection\dos\file_a-d\desperado\2403\a\desper~1.vom  Infection: Desperado.2403.A (exact)
 u:\collection\dos\file_a-d\desperado\2403\a\t1.vom  Infection: Desperado.2403.A (exact)
-u:\collection\dos\file_a-d\desperado\2403\b\wci0503d.vom  Infection: Desperado.2403.C (exact)
-u:\collection\dos\file_a-d\desperado\2403\c\des2403c.vom  Infection: Desperado.2403.B (exact)
-u:\collection\dos\file_a-d\desperado\2403\c\des2403c.vxe  Infection: Desperado.2403.B (exact)
-u:\collection\dos\file_a-d\desperado\2403\c\t2.vxe  Infection: Desperado.2403.B (exact)
-u:\collection\dos\file_a-d\desperado\2403\c\t3.vxe  Infection: Desperado.2403.B (exact)
-u:\collection\dos\file_a-d\desperado\2403\c\t7.vom  Infection: Desperado.2403.B (exact)
+u:\collection\dos\file_a-d\desperado\2403\b\des2403c.vom  Infection: Desperado.2403.B (exact)
+u:\collection\dos\file_a-d\desperado\2403\b\des2403c.vxe  Infection: Desperado.2403.B (exact)
+u:\collection\dos\file_a-d\desperado\2403\b\t2.vxe  Infection: Desperado.2403.B (exact)
+u:\collection\dos\file_a-d\desperado\2403\b\t3.vxe  Infection: Desperado.2403.B (exact)
+u:\collection\dos\file_a-d\desperado\2403\b\t7.vom  Infection: Desperado.2403.B (exact)
+u:\collection\dos\file_a-d\desperado\2403\c\wci0503d.vom  Infection: Desperado.2403.C (exact)
 u:\collection\dos\file_a-d\desperate\desp633.vom  Infection: Desperate.633 (exact)
+u:\collection\dos\file_a-d\destroyer\4956\virus.dos.baran.4968  Infection: Destroyer.4956 (exact)
 u:\collection\dos\file_a-d\destructor\a\destruct.vxe  Infection: Destructor.1150.A (exact)
 u:\collection\dos\file_a-d\destructor\a\destru~1.vom  Infection: Destructor.1150.A (exact)
 u:\collection\dos\file_a-d\destructor\b\oreo.vxe  Infection: Destructor.1150.B (exact)
+u:\collection\dos\file_a-d\detic\1514\virus.dos.detic.1514  Infection: Detic.1514 (exact)
+u:\collection\dos\file_a-d\dev\138\virus.dos.dev.138  Infection: Dev.138 (exact) - Dropper
 u:\collection\dos\file_a-d\devastator\174\deva174.vom  Infection: Devastator.174
 u:\collection\dos\file_a-d\devastator\274\deva-174.vom  Infection: Devastator.301 (exact)
 u:\collection\dos\file_a-d\devastator\274\t2.vom  Infection: Devastator.301 (exact)
 u:\collection\dos\file_a-d\devastator\274\t3.vom  Infection: Devastator.301 (exact)
+u:\collection\dos\file_a-d\devastator\512\a\virus.dos.devastator_ii.a  Infection: Devastator.512.A (exact)
+u:\collection\dos\file_a-d\devastator\512\b\virus.dos.devastator_ii.b  Infection: Devastator.512.B (exact)
+u:\collection\dos\file_a-d\devastator\512\c\virus.dos.devastator_ii.c  Infection: Devastator.512.C (exact)
 u:\collection\dos\file_a-d\deviant\429\hen429.vom  Infection: Henon.429
 u:\collection\dos\file_a-d\deviant\429\t1.vom  Infection: Henon.429
 u:\collection\dos\file_a-d\deviant\448\c-dev448.vom  Infection: Henon.448
@@ -7902,8 +8093,8 @@ u:\collection\dos\file_a-d\deviant\918\t4.vxe  Infection: Henon.918
 u:\collection\dos\file_a-d\deviant\918\t5.vxe  Infection: Henon.918
 u:\collection\dos\file_a-d\deviant\918\t6.vxe  is a corrupted or intended virus
 u:\collection\dos\file_a-d\deviant\918\t7.vxe  Infection: Henon.918
+u:\collection\dos\file_a-d\deviator\205\virus.dos.mikrob.205  Infection: Deviator.205 (exact) - Dropper
 u:\collection\dos\file_a-d\devices\2000\wci0505d.sys  Infection: Device.2000 (exact)
-u:\collection\dos\file_a-d\devils_dance\devilsd.vom  contains Devil's_Dance.941 (non-working)
 u:\collection\dos\file_a-d\devils_dance\a\ddance-a.vom  Infection: Devil's_Dance.941.A (exact)
 u:\collection\dos\file_a-d\devils_dance\a\grep.vom  Infection: Devil's_Dance.941.A (exact)
 u:\collection\dos\file_a-d\devils_dance\a\keyb.vom  Infection: Devil's_Dance.941.A (exact)
@@ -7974,6 +8165,7 @@ u:\collection\dos\file_a-d\devils_dance\f\t5.vom  Infection: Devil's_Dance.941.E
 u:\collection\dos\file_a-d\devils_dance\f\t6.vom  Infection: Devil's_Dance.941.E (exact)
 u:\collection\dos\file_a-d\devils_dance\f\t7.vom  Infection: Devil's_Dance.941.E (exact)
 u:\collection\dos\file_a-d\devils_dance\f\t9.vom  Infection: Devil's_Dance.941.E (exact)
+u:\collection\dos\file_a-d\devils_dance\g\devilsd.vom  contains Devil's_Dance.941 (non-working)
 u:\collection\dos\file_a-d\dewbug\938\dewb-938.vom  Infection: Yosha.980
 u:\collection\dos\file_a-d\dewbug\938\dewbug.vom  Infection: Yosha.980
 u:\collection\dos\file_a-d\dewbug\938\t1.vom  Infection: Yosha.980
@@ -7997,6 +8189,12 @@ u:\collection\dos\file_a-d\dewbug\980\t2.vom  Infection: Yosha.980
 u:\collection\dos\file_a-d\dewbug\980\t4.vom  Infection: Yosha.980
 u:\collection\dos\file_a-d\dewdz\dewdz.vom  Infection: Dewdz.601 (exact)
 u:\collection\dos\file_a-d\dewdz\t2.vom  Infection: Dewdz.601 (exact)
+u:\collection\dos\file_a-d\dex\1536\a.vom  Infection: Dex.1356.damaged?
+u:\collection\dos\file_a-d\dex\1536\DUMP32.vom  Infection: Dex.1356.unknown?
+u:\collection\dos\file_a-d\dex\1536\t1.vom  Infection: Dex.1356.unknown?
+u:\collection\dos\file_a-d\dg\378\dg.378  Infection: DG.378
+u:\collection\dos\file_a-d\dg\386\a\Virus.DOS.DG.386  Infection: DG.386.A (exact)
+u:\collection\dos\file_a-d\dg\386\b\dg.386.b  Infection: DG.386.B (exact)
 u:\collection\dos\file_a-d\dialogos\1350\Virus.DOS.Dialogos.1350  Infection: Dialogos.1350
 u:\collection\dos\file_a-d\dialogos\1522\Virus.DOS.Dialogos.1522  Infection: _1522 - Dropper
 u:\collection\dos\file_a-d\diametric\3465\Virus.DOS.Diametric.3465  is a corrupted or intended virus
@@ -8100,6 +8298,8 @@ u:\collection\dos\file_a-d\diamond\0891\t5.vom  Infection: Diamond.891 (exact)
 u:\collection\dos\file_a-d\diamond\0891\t5.vxe  Infection: Diamond.891 (exact)
 u:\collection\dos\file_a-d\diamond\0891\t6.vom  Infection: Diamond.891 (exact)
 u:\collection\dos\file_a-d\diamond\0978\dia978.vom  Infection: Diamond.978 (exact)
+u:\collection\dos\file_a-d\diamond\0994\virus.dos.diamond.994  Infection: Diamond.994
+u:\collection\dos\file_a-d\diamond\1003\virus.dos.diamond.1014  Infection: Diamond.1003
 u:\collection\dos\file_a-d\diamond\1013\dia1013.vom  Infection: Diamond.1013 (exact)
 u:\collection\dos\file_a-d\diamond\1013\t1.vom  Infection: Diamond.1013 (exact)
 u:\collection\dos\file_a-d\diamond\1013\t1.vxe  Infection: Diamond.1013 (exact)
@@ -8213,6 +8413,7 @@ u:\collection\dos\file_a-d\diamond\sathanyk\1399\t4.vom  Infection: Diamond.1399
 u:\collection\dos\file_a-d\dichotmy\863\dikotom2.vom  Infection: Dichotomy.296.A
 u:\collection\dos\file_a-d\dichotmy\863\dikotom2.vxe  Infection: Dichotomy.296.A
 u:\collection\dos\file_a-d\dichotmy\863\dikotomy.vom  Infection: Dichotomy.296.A
+u:\collection\dos\file_a-d\dichotmy\864\virus.dos.avatar.dichotomy.864  Infection: Dichotomy.864
 u:\collection\dos\file_a-d\dichotmy\867\dikotom1.vom  Infection: Dichotomy.296.B
 u:\collection\dos\file_a-d\dicker\dicker.vom  Infection: Dicker.400 (exact)
 u:\collection\dos\file_a-d\dicker\max00073.vom  Infection: Dicker.400 (exact)
@@ -8223,6 +8424,10 @@ u:\collection\dos\file_a-d\dicker\t4.vom  Infection: Dicker.400 (exact)
 u:\collection\dos\file_a-d\dicker\t5.vom  Infection: Dicker.400 (exact)
 u:\collection\dos\file_a-d\dicker\t6.vom  Infection: Dicker.400 (exact)
 u:\collection\dos\file_a-d\dicker\t7.vom  Infection: Dicker.400 (exact)
+u:\collection\dos\file_a-d\dictum\646\virus.dos.dictum.646  Infection: Dictum.646 (exact)
+u:\collection\dos\file_a-d\diddler\309\virus.dos.i13.asterix.309  Infection: Diddler.309
+u:\collection\dos\file_a-d\diddler\337\virus.dos.sillyc.337  Infection: Diddler.337 (exact)
+u:\collection\dos\file_a-d\die\0352\virus.dos.die.352  Infection: Die.352
 u:\collection\dos\file_a-d\die\0385\die385.vom  Infection: Die.385 (exact)
 u:\collection\dos\file_a-d\die\0385\t2.vom  Infection: Die.385 (exact)
 u:\collection\dos\file_a-d\die\0385\t4.vom  Infection: Die.385 (exact)
@@ -8233,6 +8438,8 @@ u:\collection\dos\file_a-d\die\0387\t2.vom  Infection: Die.387.A (exact)
 u:\collection\dos\file_a-d\die\0387\t4.vom  Infection: Die.387.A (exact)
 u:\collection\dos\file_a-d\die\0387\t6.vom  Infection: Die.387.A (exact)
 u:\collection\dos\file_a-d\die\0387\wci0578d.vom  Infection: Die.387.A (exact)
+u:\collection\dos\file_a-d\die\0487\virus.dos.die.487  Infection: Die.487 (exact)
+u:\collection\dos\file_a-d\die\0488\virus.dos.die.488  Infection: Die.488 (exact)
 u:\collection\dos\file_a-d\die\0666\b\elite666.vom  Infection: Die.666.B (exact)
 u:\collection\dos\file_a-d\die\0666\b\grep.vom  Infection: Die.666.B (exact)
 u:\collection\dos\file_a-d\die\0666\b\keyb.vom  Infection: Die.666.B (exact)
@@ -8247,17 +8454,19 @@ u:\collection\dos\file_a-d\die\0666\b\t5.vxe  Infection: Die.666.B (exact)
 u:\collection\dos\file_a-d\die\0666\b\t7.vxe  Infection: Die.666.B (exact)
 u:\collection\dos\file_a-d\die\0666\b\t8.vom  Infection: Die.666.B (exact)
 u:\collection\dos\file_a-d\die\0666\b\t9.vom  Infection: Die.666.B (exact)
-u:\collection\dos\file_a-d\die\0669\rce-666.vom  Infection: Die.669.unknown?
-u:\collection\dos\file_a-d\die\0669\t1.vom  Infection: Die.669.unknown?
-u:\collection\dos\file_a-d\die\0669\t1.vxe  Infection: Die.669.unknown?
-u:\collection\dos\file_a-d\die\0669\t2.vom  Infection: Die.669.unknown?
-u:\collection\dos\file_a-d\die\0669\t3.vom  Infection: Die.669.unknown?
-u:\collection\dos\file_a-d\die\0669\t3.vxe  Infection: Die.669.unknown?
-u:\collection\dos\file_a-d\die\0669\t4.vom  Infection: Die.669.unknown?
-u:\collection\dos\file_a-d\die\0669\t5.vom  Infection: Die.669.unknown?
-u:\collection\dos\file_a-d\die\0669\t5.vxe  Infection: Die.669.unknown?
-u:\collection\dos\file_a-d\die\0669\t6.vom  Infection: Die.669.unknown?
-u:\collection\dos\file_a-d\die\0669\t7.vom  Infection: Die.669.unknown?
+u:\collection\dos\file_a-d\die\0667\virus.dos.die.667  Infection: Die.667
+u:\collection\dos\file_a-d\die\0669\a\virus.dos.die.669  Infection: Die.669 (exact)
+u:\collection\dos\file_a-d\die\0669\b\rce-666.vom  Infection: Die.669.unknown?
+u:\collection\dos\file_a-d\die\0669\b\t1.vom  Infection: Die.669.unknown?
+u:\collection\dos\file_a-d\die\0669\b\t1.vxe  Infection: Die.669.unknown?
+u:\collection\dos\file_a-d\die\0669\b\t2.vom  Infection: Die.669.unknown?
+u:\collection\dos\file_a-d\die\0669\b\t3.vom  Infection: Die.669.unknown?
+u:\collection\dos\file_a-d\die\0669\b\t3.vxe  Infection: Die.669.unknown?
+u:\collection\dos\file_a-d\die\0669\b\t4.vom  Infection: Die.669.unknown?
+u:\collection\dos\file_a-d\die\0669\b\t5.vom  Infection: Die.669.unknown?
+u:\collection\dos\file_a-d\die\0669\b\t5.vxe  Infection: Die.669.unknown?
+u:\collection\dos\file_a-d\die\0669\b\t6.vom  Infection: Die.669.unknown?
+u:\collection\dos\file_a-d\die\0669\b\t7.vom  Infection: Die.669.unknown?
 u:\collection\dos\file_a-d\die\0800\elite800.vom  Infection: Die.800
 u:\collection\dos\file_a-d\die\0800\rce-800.vom  Infection: Die.800
 u:\collection\dos\file_a-d\die\0800\t1.vom  Infection: Die.800
@@ -8281,92 +8490,101 @@ u:\collection\dos\file_a-d\die\0803\t5.vom  Infection: Die.803.A (exact)
 u:\collection\dos\file_a-d\die\0803\t5.vxe  Infection: Die.803.A (exact)
 u:\collection\dos\file_a-d\die\0803\t6.vom  Infection: Die.803.A (exact)
 u:\collection\dos\file_a-d\die\0803\t7.vom  Infection: Die.803.A (exact)
+u:\collection\dos\file_a-d\die\0808\virus.dos.die.808  Infection: Die.808
 u:\collection\dos\file_a-d\die\1048\rcefr.vom  Infection: Light_General.1014 (exact)
 u:\collection\dos\file_a-d\die\1055\rcefrod.vom  Infection: Light_General.1022 (exact)
-u:\collection\dos\file_a-d\dieg\1586\dieg1586.vom  Infection: Diego.1586.A (exact)
-u:\collection\dos\file_a-d\dieg\1586\dieg1586.vxe  Infection: Diego.1586.A (exact)
-u:\collection\dos\file_a-d\dieg\1586\t1.vom  Infection: Diego.1586.A (exact)
-u:\collection\dos\file_a-d\dieg\1586\t1.vxe  Infection: Diego.1586.A (exact)
-u:\collection\dos\file_a-d\dieg\1586\t2.vom  Infection: Diego.1586.A (exact)
-u:\collection\dos\file_a-d\dieg\1586\t2.vxe  Infection: Diego.1586.A (exact)
-u:\collection\dos\file_a-d\diehard\a\die-hard.vom  Infection: Die_Hard.4000.A (exact)
-u:\collection\dos\file_a-d\diehard\a\diehard.vom  Infection: Die_Hard.4000.A (exact)
-u:\collection\dos\file_a-d\diehard\a\viruz2.vom  Infection: Die_Hard.4000.A (exact)
-u:\collection\dos\file_a-d\diehard\b\diehardb.vom  Infection: Die_Hard.4000.D (exact)
-u:\collection\dos\file_a-d\diehard\b\diehardb.vxe  Infection: Die_Hard.4000.D (exact)
-u:\collection\dos\file_a-d\diehard\b\t1.vom  Infection: Die_Hard.4000.D (exact)
-u:\collection\dos\file_a-d\diehard\b\t7.vom  Infection: Die_Hard.4000.D (exact)
-u:\collection\dos\file_a-d\diehard\b\t7.vxe  Infection: Die_Hard.4000.D (exact)
-u:\collection\dos\file_a-d\diehard\b\tf.vxe  Infection: Die_Hard.4000.D (exact)
-u:\collection\dos\file_a-d\diehard\d\1-no4000.vom  Infection: Die_Hard.4000.F (exact)
-u:\collection\dos\file_a-d\diehard\d\1-no4000.vxe  Infection: Die_Hard.4000.F (exact)
-u:\collection\dos\file_a-d\diehard\d\2-no4000.vom  Infection: Die_Hard.4000.F (exact)
-u:\collection\dos\file_a-d\diehard\d\2-no4000.vxe  Infection: Die_Hard.4000.F (exact)
-u:\collection\dos\file_a-d\diehard\d\3-no4000.vom  Infection: Die_Hard.4000.F (exact)
-u:\collection\dos\file_a-d\diehard\d\3-no4000.vxe  Infection: Die_Hard.4000.F (exact)
-u:\collection\dos\file_a-d\diehard\d\c-no4000.vom  Infection: Die_Hard.4000.F (exact)
-u:\collection\dos\file_a-d\diehard\d\dh2-d.vom  Infection: Die_Hard.4000.F (exact)
-u:\collection\dos\file_a-d\diehard\d\dh2-d.vxe  Infection: Die_Hard.4000.F (exact)
-u:\collection\dos\file_a-d\diehard\d\t1.vom  Infection: Die_Hard.4000.F (exact)
-u:\collection\dos\file_a-d\diehard\d\t1.vxe  Infection: Die_Hard.4000.F (exact)
-u:\collection\dos\file_a-d\diehard\d\t2.vxe  Infection: Die_Hard.4000.F (exact)
-u:\collection\dos\file_a-d\diehard\e\1-d4000e.vom  Infection: Die_Hard.4000.B (exact)
-u:\collection\dos\file_a-d\diehard\e\1-d4000e.vxe  Infection: Die_Hard.4000.B (exact)
-u:\collection\dos\file_a-d\diehard\e\2-d4000e.vom  Infection: Die_Hard.4000.B (exact)
-u:\collection\dos\file_a-d\diehard\e\2-d4000e.vxe  Infection: Die_Hard.4000.B (exact)
-u:\collection\dos\file_a-d\diehard\e\3-d4000e.vom  Infection: Die_Hard.4000.B (exact)
-u:\collection\dos\file_a-d\diehard\e\3-d4000e.vxe  Infection: Die_Hard.4000.B (exact)
-u:\collection\dos\file_a-d\diehard\e\c-d4000e.vom  Infection: Die_Hard.4000.B (exact)
-u:\collection\dos\file_a-d\diehard\e\dh2-e.vom  Infection: Die_Hard.4000.B (exact)
-u:\collection\dos\file_a-d\diehard\e\dh2-e.vxe  Infection: Die_Hard.4000.B (exact)
-u:\collection\dos\file_a-d\diehard\e\t1.vom  Infection: Die_Hard.4000.B (exact)
-u:\collection\dos\file_a-d\diehard\e\t1.vxe  Infection: Die_Hard.4000.B (exact)
-u:\collection\dos\file_a-d\diehard\e\t2.vxe  Infection: Die_Hard.4000.B (exact)
-u:\collection\dos\file_a-d\diehard\f\1-d4000c.vom  Infection: Die_Hard.4000.G (exact)
-u:\collection\dos\file_a-d\diehard\f\1-d4000c.vxe  Infection: Die_Hard.4000.G (exact)
-u:\collection\dos\file_a-d\diehard\f\2-d4000c.vom  Infection: Die_Hard.4000.G (exact)
-u:\collection\dos\file_a-d\diehard\f\2-d4000c.vxe  Infection: Die_Hard.4000.G (exact)
-u:\collection\dos\file_a-d\diehard\f\3-d4000c.vom  Infection: Die_Hard.4000.G (exact)
-u:\collection\dos\file_a-d\diehard\f\3-d4000c.vxe  Infection: Die_Hard.4000.G (exact)
-u:\collection\dos\file_a-d\diehard\f\c-d4000c.vom  Infection: Die_Hard.4000.G (exact)
-u:\collection\dos\file_a-d\diehard\f\dh2-f.vom  Infection: Die_Hard.4000.G (exact)
-u:\collection\dos\file_a-d\diehard\f\dh2-f.vxe  Infection: Die_Hard.4000.G (exact)
-u:\collection\dos\file_a-d\diehard\f\diehardc.vom  Infection: Die_Hard.4000.G (exact)
-u:\collection\dos\file_a-d\diehard\f\diehardc.vxe  Infection: Die_Hard.4000.G (exact)
-u:\collection\dos\file_a-d\diehard\f\t1.vom  Infection: Die_Hard.4000.G (exact)
-u:\collection\dos\file_a-d\diehard\f\t1.vxe  Infection: Die_Hard.4000.G (exact)
-u:\collection\dos\file_a-d\diehard\f\t2.vxe  Infection: Die_Hard.4000.G (exact)
-u:\collection\dos\file_a-d\diehard\f\t7.vom  Infection: Die_Hard.4000.G (exact)
-u:\collection\dos\file_a-d\diehard\f\t7.vxe  Infection: Die_Hard.4000.G (exact)
-u:\collection\dos\file_a-d\diehard\f\tf.vxe  Infection: Die_Hard.4000.G (exact)
-u:\collection\dos\file_a-d\diehard\g\ip.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\m1.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\m10.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\m2.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\m3.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\m4.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\m5.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\m6.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\m7.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\m8.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\m9.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\t1.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\t1.vxe  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\t10.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\t2.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\t2.vxe  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\t3.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\t3.vxe  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\t4.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\t4.vxe  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\t5.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\t5.vxe  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\t6.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\t6.vxe  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\t7.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\t8.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\t9.vom  Infection: Die_Hard.4000.H (exact)
-u:\collection\dos\file_a-d\diehard\g\trace.vxe  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\dieg\1586\a\dieg1586.vom  Infection: Diego.1586.A (exact)
+u:\collection\dos\file_a-d\dieg\1586\a\dieg1586.vxe  Infection: Diego.1586.A (exact)
+u:\collection\dos\file_a-d\dieg\1586\a\t1.vom  Infection: Diego.1586.A (exact)
+u:\collection\dos\file_a-d\dieg\1586\a\t1.vxe  Infection: Diego.1586.A (exact)
+u:\collection\dos\file_a-d\dieg\1586\a\t2.vom  Infection: Diego.1586.A (exact)
+u:\collection\dos\file_a-d\dieg\1586\a\t2.vxe  Infection: Diego.1586.A (exact)
+u:\collection\dos\file_a-d\dieg\1586\b\virus.dos.dieg.1586  Infection: Diego.1586.unknown?
+u:\collection\dos\file_a-d\diehard\4000\a\die-hard.vom  Infection: Die_Hard.4000.A (exact)
+u:\collection\dos\file_a-d\diehard\4000\a\diehard.vom  Infection: Die_Hard.4000.A (exact)
+u:\collection\dos\file_a-d\diehard\4000\a\viruz2.vom  Infection: Die_Hard.4000.A (exact)
+u:\collection\dos\file_a-d\diehard\4000\b\1-d4000e.vom  Infection: Die_Hard.4000.B (exact)
+u:\collection\dos\file_a-d\diehard\4000\b\1-d4000e.vxe  Infection: Die_Hard.4000.B (exact)
+u:\collection\dos\file_a-d\diehard\4000\b\2-d4000e.vom  Infection: Die_Hard.4000.B (exact)
+u:\collection\dos\file_a-d\diehard\4000\b\2-d4000e.vxe  Infection: Die_Hard.4000.B (exact)
+u:\collection\dos\file_a-d\diehard\4000\b\3-d4000e.vom  Infection: Die_Hard.4000.B (exact)
+u:\collection\dos\file_a-d\diehard\4000\b\3-d4000e.vxe  Infection: Die_Hard.4000.B (exact)
+u:\collection\dos\file_a-d\diehard\4000\b\c-d4000e.vom  Infection: Die_Hard.4000.B (exact)
+u:\collection\dos\file_a-d\diehard\4000\b\dh2-e.vom  Infection: Die_Hard.4000.B (exact)
+u:\collection\dos\file_a-d\diehard\4000\b\dh2-e.vxe  Infection: Die_Hard.4000.B (exact)
+u:\collection\dos\file_a-d\diehard\4000\b\t1.vom  Infection: Die_Hard.4000.B (exact)
+u:\collection\dos\file_a-d\diehard\4000\b\t1.vxe  Infection: Die_Hard.4000.B (exact)
+u:\collection\dos\file_a-d\diehard\4000\b\t2.vxe  Infection: Die_Hard.4000.B (exact)
+u:\collection\dos\file_a-d\diehard\4000\c\virus.dos.diehard2.4000.c  Infection: Die_Hard.4000.C (exact)
+u:\collection\dos\file_a-d\diehard\4000\d\diehardb.vom  Infection: Die_Hard.4000.D (exact)
+u:\collection\dos\file_a-d\diehard\4000\d\diehardb.vxe  Infection: Die_Hard.4000.D (exact)
+u:\collection\dos\file_a-d\diehard\4000\d\t1.vom  Infection: Die_Hard.4000.D (exact)
+u:\collection\dos\file_a-d\diehard\4000\d\t7.vom  Infection: Die_Hard.4000.D (exact)
+u:\collection\dos\file_a-d\diehard\4000\d\t7.vxe  Infection: Die_Hard.4000.D (exact)
+u:\collection\dos\file_a-d\diehard\4000\d\tf.vxe  Infection: Die_Hard.4000.D (exact)
+u:\collection\dos\file_a-d\diehard\4000\e\virus.dos.diehard2.4000.g  Infection: Die_Hard.4000.E (exact)
+u:\collection\dos\file_a-d\diehard\4000\f\1-no4000.vom  Infection: Die_Hard.4000.F (exact)
+u:\collection\dos\file_a-d\diehard\4000\f\1-no4000.vxe  Infection: Die_Hard.4000.F (exact)
+u:\collection\dos\file_a-d\diehard\4000\f\2-no4000.vom  Infection: Die_Hard.4000.F (exact)
+u:\collection\dos\file_a-d\diehard\4000\f\2-no4000.vxe  Infection: Die_Hard.4000.F (exact)
+u:\collection\dos\file_a-d\diehard\4000\f\3-no4000.vom  Infection: Die_Hard.4000.F (exact)
+u:\collection\dos\file_a-d\diehard\4000\f\3-no4000.vxe  Infection: Die_Hard.4000.F (exact)
+u:\collection\dos\file_a-d\diehard\4000\f\c-no4000.vom  Infection: Die_Hard.4000.F (exact)
+u:\collection\dos\file_a-d\diehard\4000\f\dh2-d.vom  Infection: Die_Hard.4000.F (exact)
+u:\collection\dos\file_a-d\diehard\4000\f\dh2-d.vxe  Infection: Die_Hard.4000.F (exact)
+u:\collection\dos\file_a-d\diehard\4000\f\t1.vom  Infection: Die_Hard.4000.F (exact)
+u:\collection\dos\file_a-d\diehard\4000\f\t1.vxe  Infection: Die_Hard.4000.F (exact)
+u:\collection\dos\file_a-d\diehard\4000\f\t2.vxe  Infection: Die_Hard.4000.F (exact)
+u:\collection\dos\file_a-d\diehard\4000\g\1-d4000c.vom  Infection: Die_Hard.4000.G (exact)
+u:\collection\dos\file_a-d\diehard\4000\g\1-d4000c.vxe  Infection: Die_Hard.4000.G (exact)
+u:\collection\dos\file_a-d\diehard\4000\g\2-d4000c.vom  Infection: Die_Hard.4000.G (exact)
+u:\collection\dos\file_a-d\diehard\4000\g\2-d4000c.vxe  Infection: Die_Hard.4000.G (exact)
+u:\collection\dos\file_a-d\diehard\4000\g\3-d4000c.vom  Infection: Die_Hard.4000.G (exact)
+u:\collection\dos\file_a-d\diehard\4000\g\3-d4000c.vxe  Infection: Die_Hard.4000.G (exact)
+u:\collection\dos\file_a-d\diehard\4000\g\c-d4000c.vom  Infection: Die_Hard.4000.G (exact)
+u:\collection\dos\file_a-d\diehard\4000\g\dh2-f.vom  Infection: Die_Hard.4000.G (exact)
+u:\collection\dos\file_a-d\diehard\4000\g\dh2-f.vxe  Infection: Die_Hard.4000.G (exact)
+u:\collection\dos\file_a-d\diehard\4000\g\diehardc.vom  Infection: Die_Hard.4000.G (exact)
+u:\collection\dos\file_a-d\diehard\4000\g\diehardc.vxe  Infection: Die_Hard.4000.G (exact)
+u:\collection\dos\file_a-d\diehard\4000\g\t1.vom  Infection: Die_Hard.4000.G (exact)
+u:\collection\dos\file_a-d\diehard\4000\g\t1.vxe  Infection: Die_Hard.4000.G (exact)
+u:\collection\dos\file_a-d\diehard\4000\g\t2.vxe  Infection: Die_Hard.4000.G (exact)
+u:\collection\dos\file_a-d\diehard\4000\g\t7.vom  Infection: Die_Hard.4000.G (exact)
+u:\collection\dos\file_a-d\diehard\4000\g\t7.vxe  Infection: Die_Hard.4000.G (exact)
+u:\collection\dos\file_a-d\diehard\4000\g\tf.vxe  Infection: Die_Hard.4000.G (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\ip.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\m1.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\m10.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\m2.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\m3.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\m4.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\m5.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\m6.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\m7.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\m8.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\m9.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\t1.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\t1.vxe  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\t10.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\t2.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\t2.vxe  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\t3.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\t3.vxe  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\t4.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\t4.vxe  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\t5.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\t5.vxe  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\t6.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\t6.vxe  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\t7.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\t8.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\t9.vom  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\h\trace.vxe  Infection: Die_Hard.4000.H (exact)
+u:\collection\dos\file_a-d\diehard\4000\k\virus.dos.diehard2.4000.l  Infection: Die_Hard.4000.K (exact)
+u:\collection\dos\file_a-d\diehard\4000\n\virus.dos.diehard2.4000.k  Infection: Die_Hard.4000.N
+u:\collection\dos\file_a-d\diffision\333\virus.dos.jerkin.333  Infection: Diffision.333
+u:\collection\dos\file_a-d\diffision\362\virus.dos.jerkin.362  Infection: Diffision.362
+u:\collection\dos\file_a-d\difteria\826\virus.dos.difteria.826  Infection: Difteria.826
 u:\collection\dos\file_a-d\digger\0600\t1.vom  Infection: Digger.600
 u:\collection\dos\file_a-d\digger\0600\t2.vom  Infection: Digger.600
 u:\collection\dos\file_a-d\digger\0600\t3.vom  Infection: Digger.600
@@ -8422,10 +8640,21 @@ u:\collection\dos\file_a-d\dima\t5.vxe  Infection: Dima.1024
 u:\collection\dos\file_a-d\dima\t7.vom  Infection: Dima.1024
 u:\collection\dos\file_a-d\dima\t7.vxe  Infection: Dima.1024
 u:\collection\dos\file_a-d\dima\v2050.vxe  Infection: Dima.1024
+u:\collection\dos\file_a-d\dima_ii\325\virus.dos.dima.325  Infection: Dima_II.325
+u:\collection\dos\file_a-d\dimo\1051\virus.dos.dimon.1051  Infection: Dimo.1051
+u:\collection\dos\file_a-d\dina\254\virus.dos.exeheader.dina.254  Infection: Dina.254 (exact)
+u:\collection\dos\file_a-d\dina\271\virus.dos.exeheader.dina.271  Infection: Dina.271
+u:\collection\dos\file_a-d\dina\283\virus.dos.exeheader.dina.283  Infection: Dina.283
+u:\collection\dos\file_a-d\dina\492\virus.dos.dina.492  Infection: Dina.492
 u:\collection\dos\file_a-d\dina\512\dina512.vom  Infection: Dina.512
 u:\collection\dos\file_a-d\dina\512\t7.vom  Infection: Dina.512
 u:\collection\dos\file_a-d\dina\512\tc.vom  Infection: Dina.512
 u:\collection\dos\file_a-d\dina\512\tf.vom  Infection: Dina.512
+u:\collection\dos\file_a-d\dinglik\247\emulator.247  Infection: Dinglik.247 (exact)
+u:\collection\dos\file_a-d\dinky\122\virus.dos.small.122.d  Infection: Dinky.122 (exact)
+u:\collection\dos\file_a-d\dipper\1021\a\dippera-0.vom  Infection: Dipper.1021.A (exact)
+u:\collection\dos\file_a-d\dipper\1021\b\dipperb-0.vom  Infection: Dipper.1021.B (exact)
+u:\collection\dos\file_a-d\dipper\1021\d\virus.dos.dipper.1021  Infection: Dipper.1021.D (exact)
 u:\collection\dos\file_a-d\dir\691\dir691.vom  Infection: DIR.691
 u:\collection\dos\file_a-d\dir\691\t1.vom  Infection: DIR.691
 u:\collection\dos\file_a-d\dir\691\t10.vom  Infection: DIR.691
@@ -8455,20 +8684,27 @@ u:\collection\dos\file_a-d\dir-ii\1024\a\dirx.vom  Infection: DIR-II.A (exact)
 u:\collection\dos\file_a-d\dir-ii\1024\a\dirxii.vom  Infection: DIR-II.A (exact)
 u:\collection\dos\file_a-d\dir-ii\1024\a\dir_ii.vom  Infection: DIR-II.A (exact)
 u:\collection\dos\file_a-d\dir-ii\1024\a\rc-1024.vom  Infection: DIR-II.A (exact)
-u:\collection\dos\file_a-d\dir-ii\1024\ab\c-death.vom  Infection: DIR-II.AI (exact)
-u:\collection\dos\file_a-d\dir-ii\1024\ab\cdeath1.vom  contains DIR-II.AV (non-working)
-u:\collection\dos\file_a-d\dir-ii\1024\ab\dir2.vom  Infection: DIR-II.AI (exact)
-u:\collection\dos\file_a-d\dir-ii\1024\ab\dirii5.vom  contains DIR-II.AV (non-working)
 u:\collection\dos\file_a-d\dir-ii\1024\ac\ira-002.vom  is a security risk or a "backdoor" program
 u:\collection\dos\file_a-d\dir-ii\1024\ad\cdeath4.vom  is a corrupted or intended virus
 u:\collection\dos\file_a-d\dir-ii\1024\ah\Virus.DOS.DirII.1024.u  Infection: DIR-II.AH (exact)
+u:\collection\dos\file_a-d\dir-ii\1024\ai\c-death.vom  Infection: DIR-II.AI (exact)
 u:\collection\dos\file_a-d\dir-ii\1024\ai\cdsetr.vom  is a corrupted or intended virus
+u:\collection\dos\file_a-d\dir-ii\1024\ai\dir2.vom  Infection: DIR-II.AI (exact)
 u:\collection\dos\file_a-d\dir-ii\1024\aj\cdeath2.vom  Infection: DIR-II.AJ (exact)
+u:\collection\dos\file_a-d\dir-ii\1024\ak\virus.dos.dirii.1024.v  Infection: DIR-II.AK (exact)
+u:\collection\dos\file_a-d\dir-ii\1024\al\virus.dos.dirii.1024.w  Infection: DIR-II.AL (exact)
+u:\collection\dos\file_a-d\dir-ii\1024\am\virus.dos.dirii.1024.a4  Infection: DIR-II.AM (exact)
 u:\collection\dos\file_a-d\dir-ii\1024\an\1-d1024y.vom  Infection: DIR-II.AN (exact)
+u:\collection\dos\file_a-d\dir-ii\1024\ao\virus.dos.dirii.1024.ax  Infection: DIR-II.AO (exact)
 u:\collection\dos\file_a-d\dir-ii\1024\ap\diriunk4.vom  is a security risk or a "backdoor" program
-u:\collection\dos\file_a-d\dir-ii\1024\ar\wci0525d.vom  Infection: DIR-II.AT (exact)
+u:\collection\dos\file_a-d\dir-ii\1024\aq\virus.dos.dirii.1024.bh  Infection: DIR-II.AQ (exact)
 u:\collection\dos\file_a-d\dir-ii\1024\as\Virus.DOS.DirII.Dragon.c  Infection: DIR-II.AS (exact)
+u:\collection\dos\file_a-d\dir-ii\1024\at\wci0525d.vom  Infection: DIR-II.AT (exact)
+u:\collection\dos\file_a-d\dir-ii\1024\av\cdeath1.vom  contains DIR-II.AV (non-working)
+u:\collection\dos\file_a-d\dir-ii\1024\av\dirii5.vom  contains DIR-II.AV (non-working)
 u:\collection\dos\file_a-d\dir-ii\1024\aw\dirii.vom  Infection: DIR-II.AW (exact)
+u:\collection\dos\file_a-d\dir-ii\1024\ax\virus.dos.dirii.1024.a6  Infection: DIR-II.AX (exact)
+u:\collection\dos\file_a-d\dir-ii\1024\az\virus.dos.dirii.1024.e3  Infection: DIR-II.AZ
 u:\collection\dos\file_a-d\dir-ii\1024\b\dir-iib.vom  Infection: DIR-II.B (exact)
 u:\collection\dos\file_a-d\dir-ii\1024\byway\a\byway-a.vom  Infection: Byway.2048.A
 u:\collection\dos\file_a-d\dir-ii\1024\byway\a\kanari.vom  Infection: Byway.2048.A
@@ -8480,12 +8716,19 @@ u:\collection\dos\file_a-d\dir-ii\1024\dragon\a\dragon.vom  Infection: DIR-II.10
 u:\collection\dos\file_a-d\dir-ii\1024\dragon\b\wci0523d.vom  Infection: DIR-II.1024.J
 u:\collection\dos\file_a-d\dir-ii\1024\e\cdset5.vom  Infection: DIR-II.E (exact)
 u:\collection\dos\file_a-d\dir-ii\1024\f\dir-iif.vom  Infection: DIR-II.F (exact)
+u:\collection\dos\file_a-d\dir-ii\1024\f\virus.dos.dirii.1024.n  Infection: DIR-II.1024.F
+u:\collection\dos\file_a-d\dir-ii\1024\g\dir-2.vom  Infection: DIR-II.1024.G
 u:\collection\dos\file_a-d\dir-ii\1024\g\dir2-910.vom  Infection: DIR-II.G (exact)
 u:\collection\dos\file_a-d\dir-ii\1024\g\wci0283d.vom  Infection: DIR-II.G (exact)
+u:\collection\dos\file_a-d\dir-ii\1024\h\virus.dos.dirii.1024.ay  Infection: DIR-II.1024.H
 u:\collection\dos\file_a-d\dir-ii\1024\i\cdset3.vom  Infection: DIR-II.I (exact)
+u:\collection\dos\file_a-d\dir-ii\1024\i\virus.dos.dirii.1024.a12  Infection: DIR-II.1024.I
 u:\collection\dos\file_a-d\dir-ii\1024\j\cdset.vom  Infection: DIR-II.J (exact)
 u:\collection\dos\file_a-d\dir-ii\1024\k\dirii-w.vom  Infection: DIR-II.K (exact)
-u:\collection\dos\file_a-d\dir-ii\1024\l\dir-2.vom  Infection: DIR-II.1024.G
+u:\collection\dos\file_a-d\dir-ii\1024\k\virus.dos.dirii.1024.x  Infection: DIR-II.1024.K
+u:\collection\dos\file_a-d\dir-ii\1024\l\virus.dos.dirii.1024.l  Infection: DIR-II.L (exact)
+u:\collection\dos\file_a-d\dir-ii\1024\l\virus.dos.dirii.1024.w2  Infection: DIR-II.1024.L
+u:\collection\dos\file_a-d\dir-ii\1024\m\virus.dos.dirii.1024.m  Infection: DIR-II.M (exact)
 u:\collection\dos\file_a-d\dir-ii\1024\n\vsmart.vom  Infection: DIR-II.1024.N
 u:\collection\dos\file_a-d\dir-ii\1024\o\drivr-a.vom  Infection: DIR-II.O (exact)
 u:\collection\dos\file_a-d\dir-ii\1024\q\drivr-d.vom  Infection: DIR-II.Q (exact)
@@ -8499,10 +8742,11 @@ u:\collection\dos\file_a-d\dir-ii\1024\w\dir2.vom  Infection: DIR-II.W (exact)
 u:\collection\dos\file_a-d\dir-ii\1024\z\cdeath3.vom  Infection: DIR-II.2048.B
 u:\collection\dos\file_a-d\dir-ii\1024\z\diriij2a.vom  Infection: DIR-II.2048.B
 u:\collection\dos\file_a-d\dir-ii\1024\z\grep.vom  Infection: DIR-II.2048.B
-u:\collection\dos\file_a-d\dir-ii\2048\wci0276d.vom  Infection: DIR-II.2048.A
+u:\collection\dos\file_a-d\dir-ii\2048\a\wci0276d.vom  Infection: DIR-II.2048.A
 u:\collection\dos\file_a-d\dir-iii\dir_iii.vom  Infection: DIR-III
 u:\collection\dos\file_a-d\dir-iii\driv-exe.vxe  Infection: DIR-III
 u:\collection\dos\file_a-d\dircom\573\dir-com.vom  Infection: DIR.573
+u:\collection\dos\file_a-d\direc\834\virus.dos.vgol-based  Infection: Direc.834 (exact)
 u:\collection\dos\file_a-d\dirty\dirt.vom  Infection: Dirty.483
 u:\collection\dos\file_a-d\dirty\dirty.vom  Infection: Dirty.483
 u:\collection\dos\file_a-d\dirty\t1.vom  Infection: Dirty.483
@@ -8530,6 +8774,8 @@ u:\collection\dos\file_a-d\disillution\1108\t9.vom  Infection: Cog.1108
 u:\collection\dos\file_a-d\diskboom\576\dboom576.vom  Infection: Baron.576
 u:\collection\dos\file_a-d\diskboom\576\t7.vom  Infection: Baron.576
 u:\collection\dos\file_a-d\diskboom\576\tf.vom  Infection: Baron.576
+u:\collection\dos\file_a-d\diskhound\331\boote331.vom  Infection: Diskhound.331
+u:\collection\dos\file_a-d\diskhound\331\unke0302.vom  Infection: Diskhound.331
 u:\collection\dos\file_a-d\diskplus1\v2055.vom  Infection: Disk_Plus_1.1385
 u:\collection\dos\file_a-d\diskspoiler\dskspoil.vom  Infection: Diskspoiler.1308
 u:\collection\dos\file_a-d\diskspoiler\t1.vom  Infection: Diskspoiler.1308
@@ -8587,6 +8833,10 @@ u:\collection\dos\file_a-d\ditwet\466\t4.vom  Infection: Ditwet.466
 u:\collection\dos\file_a-d\ditwet\466\t9.vom  Infection: Ditwet.466
 u:\collection\dos\file_a-d\ditwet\466\wci0300d.vom  Infection: Ditwet.466
 u:\collection\dos\file_a-d\div0\604\lost604.vxe  Infection: ZeroDivide.604 (exact)
+u:\collection\dos\file_a-d\diw\229\diw.229  Infection: Diw.229 (exact)
+u:\collection\dos\file_a-d\diw\286\b\virus.dos.diw.286  Infection: Diw.286.B (exact)
+u:\collection\dos\file_a-d\diw\287\virus.dos.diw.287  Infection: Diw.287 (exact)
+u:\collection\dos\file_a-d\diw\288\diw.288  Infection: Diw.288 (exact)
 u:\collection\dos\file_a-d\diw\377\famm.vom  Infection: Diw.377
 u:\collection\dos\file_a-d\diw\377\t1.vom  Infection: Diw.377
 u:\collection\dos\file_a-d\diw\377\t10.vom  Infection: Diw.377
@@ -8596,6 +8846,7 @@ u:\collection\dos\file_a-d\diw\377\t4.vom  Infection: Diw.377
 u:\collection\dos\file_a-d\diw\377\t5.vom  Infection: Diw.377
 u:\collection\dos\file_a-d\diw\377\t6.vom  Infection: Diw.377
 u:\collection\dos\file_a-d\diw\377\t7.vom  Infection: Diw.377
+u:\collection\dos\file_a-d\diw\386\diw.386  Infection: Diw.386
 u:\collection\dos\file_a-d\diw\389\t1.vom  Infection: Diw.389
 u:\collection\dos\file_a-d\diw\389\t10.vom  Infection: Diw.389
 u:\collection\dos\file_a-d\diw\389\t2.vom  Infection: Diw.389
@@ -8606,6 +8857,9 @@ u:\collection\dos\file_a-d\diw\389\t6.vom  Infection: Diw.389
 u:\collection\dos\file_a-d\diw\389\t7.vom  Infection: Diw.389
 u:\collection\dos\file_a-d\diw\389\t9.vom  Infection: Diw.389
 u:\collection\dos\file_a-d\diw\389\wci0303d.vom  Infection: Diw.389
+u:\collection\dos\file_a-d\diw\393\diw.393  Infection: Diw.393
+u:\collection\dos\file_a-d\diw\428\diw.428  Infection: Diw.428
+u:\collection\dos\file_a-d\diw\480\virus.dos.diw.480  Infection: Diw.480
 u:\collection\dos\file_a-d\diw\488\t1.vom  Infection: Diw.488
 u:\collection\dos\file_a-d\diw\488\t10.vom  Infection: Diw.488
 u:\collection\dos\file_a-d\diw\488\t2.vom  Infection: Diw.488
@@ -8616,7 +8870,16 @@ u:\collection\dos\file_a-d\diw\488\t6.vom  Infection: Diw.488
 u:\collection\dos\file_a-d\diw\488\t7.vom  Infection: Diw.488
 u:\collection\dos\file_a-d\diw\488\t9.vom  Infection: Diw.488
 u:\collection\dos\file_a-d\diw\488\wci0304d.vom  Infection: Diw.488
+u:\collection\dos\file_a-d\diw\512\virus.dos.diw.512  Infection: Diw.512
+u:\collection\dos\file_a-d\diw\555\virus.dos.diw.555  Infection: Diw.555
 u:\collection\dos\file_a-d\diw\565\wci0305d.vom  Infection: Diw.565
+u:\collection\dos\file_a-d\diw\597\virus.dos.diw.597  Infection: Diw.597
+u:\collection\dos\file_a-d\diw\600\virus.dos.diw.600  Infection: Diw.600
+u:\collection\dos\file_a-d\djifx\2372\virus.dos.djifx.2372  Infection: Djifx.2372
+u:\collection\dos\file_a-d\djin\132\virus.dos.sillyorce.132.b  Infection: Djin.132 (exact)
+u:\collection\dos\file_a-d\djin\133\virus.dos.djin.133  Infection: Djin.133 (exact)
+u:\collection\dos\file_a-d\djin\167\virus.dos.sillyoc.167.a  Infection: Djin.167 (exact)
+u:\collection\dos\file_a-d\djin\169\demo.169  Infection: Djin.169 (exact)
 u:\collection\dos\file_a-d\dk\dk.vom  Infection: DK.269
 u:\collection\dos\file_a-d\dk\grep.vom  Infection: DK.269
 u:\collection\dos\file_a-d\dk\t1.vom  Infection: DK.269
@@ -8633,6 +8896,8 @@ u:\collection\dos\file_a-d\dk-mpc\iris\567\t1.vom  Infection: Iris.567 (exact)
 u:\collection\dos\file_a-d\dk-mpc\iris\567\t10.vom  Infection: Iris.567 (exact)
 u:\collection\dos\file_a-d\dk-mpc\iris\567\t3.vom  Infection: Iris.567 (exact)
 u:\collection\dos\file_a-d\dk-mpc\iris\567\t5.vom  Infection: Iris.567 (exact)
+u:\collection\dos\file_a-d\dkme\1721\virus.dos.dkme.1786  Infection: DKME.1721 (exact)
+u:\collection\dos\file_a-d\dl\326\virus.dos.dl.326  Infection: DL.326 (exact)
 u:\collection\dos\file_a-d\dlsu\dlsu477.vom  Infection: Dlsu.477 (exact)
 u:\collection\dos\file_a-d\dlsu\t1.vom  Infection: Dlsu.477 (exact)
 u:\collection\dos\file_a-d\dlsu\t10.vom  Infection: Dlsu.477 (exact)
@@ -8678,7 +8943,10 @@ u:\collection\dos\file_a-d\dm\400\c\t4.vom  Infection: DM.400.C
 u:\collection\dos\file_a-d\dm\400\c\t5.vom  Infection: DM.400.C
 u:\collection\dos\file_a-d\dm\400\c\t6.vom  Infection: DM.400.C
 u:\collection\dos\file_a-d\dm\400\c\t7.vom  Infection: DM.400.C
+u:\collection\dos\file_a-d\dmworm\806\virus.dos.dmworm.806  Infection: DmWorm.806
+u:\collection\dos\file_a-d\dmworm\812\virus.dos.dmworm.812  Infection: DmWorm.812
 u:\collection\dos\file_a-d\dna\1200\dna.vom  Infection: New or modified variant of Vienna
+u:\collection\dos\file_a-d\dna\1204\virus.dos.dna.1206.b  Infection: DNA.1204 (exact)
 u:\collection\dos\file_a-d\dna\1206\dna.vom  Infection: DNA.1206
 u:\collection\dos\file_a-d\dna\1206\doskey.vom  Infection: DNA.1206
 u:\collection\dos\file_a-d\dna\1206\format.vom  Infection: DNA.1206
@@ -8696,12 +8964,14 @@ u:\collection\dos\file_a-d\dna\1800\getpass!.vom  Infection: Vienna.1800 (exact)
 u:\collection\dos\file_a-d\dna\1800\t1.vom  Infection: Vienna.1800 (exact)
 u:\collection\dos\file_a-d\dna\1800\t2.vom  Infection: Vienna.1800 (exact)
 u:\collection\dos\file_a-d\dna\1800\weir1800.vom  Infection: Vienna.1800 (exact)
+u:\collection\dos\file_a-d\dnepr\377\virus.dos.dnepr.377  Infection: Dnepr.377
 u:\collection\dos\file_a-d\dnr\331\dnr-331.vom  Infection: DNR.331.A (exact)
 u:\collection\dos\file_a-d\dnr\331\dnr.vom  Infection: DNR.331.A (exact)
 u:\collection\dos\file_a-d\dnr\331\test2.vom  Infection: DNR.331.A (exact)
 u:\collection\dos\file_a-d\dnr\397\badrom.vom  Infection: DNR.397 (exact)
 u:\collection\dos\file_a-d\dnr\397\dnr-397.vom  Infection: DNR.397 (exact)
 u:\collection\dos\file_a-d\dnr\397\test2.vom  Infection: DNR.397 (exact)
+u:\collection\dos\file_a-d\do-nothing\369\virus.dos.ivp.369  Infection: Do-nothing.369 (exact)
 u:\collection\dos\file_a-d\dobkin\177\c-dob177.vom  Infection: Trivial.177.C (exact)
 u:\collection\dos\file_a-d\dobkin\177\dobki177.vom  Infection: Trivial.177.C (exact)
 u:\collection\dos\file_a-d\dobkin\177\t1.vom  Infection: Trivial.177.C (exact)
@@ -8709,6 +8979,7 @@ u:\collection\dos\file_a-d\dobkin\177\t2.vom  Infection: Trivial.177.C (exact)
 u:\collection\dos\file_a-d\dobkin\191\dobki191.vom  Infection: Trivial.191 (exact)
 u:\collection\dos\file_a-d\dobkin\191\t7.vom  Infection: Trivial.191 (exact)
 u:\collection\dos\file_a-d\dobkin\191\tf.vom  Infection: Trivial.191 (exact)
+u:\collection\dos\file_a-d\doctors_advice\4105\virus.dos.hllp.advice.4105  Infection: Doctors_Advice.4105
 u:\collection\dos\file_a-d\dodger\notax825.vom  Infection: Dodger.825
 u:\collection\dos\file_a-d\dodger\t1.vom  Infection: Dodger.825
 u:\collection\dos\file_a-d\dodger\t1.vxe  Infection: Dodger.825
@@ -8727,6 +8998,11 @@ u:\collection\dos\file_a-d\dogpaw\t3.vxe  Infection: DogPound.720
 u:\collection\dos\file_a-d\dogpaw\t5.vxe  Infection: DogPound.720
 u:\collection\dos\file_a-d\dogpaw\t7.vxe  Infection: DogPound.720
 u:\collection\dos\file_a-d\dogpaw\trace.vxe  Infection: DogPound.720
+u:\collection\dos\file_a-d\dog_squad\1299\virus.dos.squad.1299  Infection: Dog_Squad.1299
+u:\collection\dos\file_a-d\dolphin\4096\virus.dos.frodo.fish  Infection: Dolphin.4096
+u:\collection\dos\file_a-d\dontkil\577\virus.dos.whydont.577  Infection: Dontkil.577
+u:\collection\dos\file_a-d\dontkil\578\virus.dos.whydont.578  Infection: Dontkil.578
+u:\collection\dos\file_a-d\doofus\1000\virus.dos.dof.1000  Infection: Doofus.1000
 u:\collection\dos\file_a-d\doom-ii\1240\wci03773.vom  Infection: Doom_II.1240
 u:\collection\dos\file_a-d\doom-ii\1240\a\doom-2.vom  Infection: Doom_II.1240
 u:\collection\dos\file_a-d\doom-ii\1240\a\doom1240.vom  Infection: Doom_II.1240
@@ -8744,9 +9020,13 @@ u:\collection\dos\file_a-d\doomsday\715\dday-b.vom  Infection: Doomsday.715
 u:\collection\dos\file_a-d\doomsday\733\doo733a.vom  Infection: Doomsday.733 (exact)
 u:\collection\dos\file_a-d\doomsday\733\v2085.vom  Infection: Doomsday.733 (exact)
 u:\collection\dos\file_a-d\doomsday\736\wci0323d.vom  Infection: Doomsday.736 (exact)
+u:\collection\dos\file_a-d\dope\530\virus.dos.dope_hat.551  Infection: Dope.530 (exact)
+u:\collection\dos\file_a-d\dope\534\virus.dos.dope_hat.555  Infection: Dope.534 (exact)
+u:\collection\dos\file_a-d\doperland\490\virus.dos.doperland.490  Infection: Doperland.490 (exact)
 u:\collection\dos\file_a-d\dos32vir\dos32.vxe  Infection: Daber.728
 u:\collection\dos\file_a-d\dos32vir\dos32vir.vom  is a security risk or a "backdoor" program
-u:\collection\dos\file_a-d\doshunt\doshunt.vom  Infection: DOShunter.483.A (exact)
+u:\collection\dos\file_a-d\doshunter\483\a\doshunt.vom  Infection: DOShunter.483.A (exact)
+u:\collection\dos\file_a-d\doshunter\483\b\virus.dos.doshunter.483.b  Infection: DOShunter.483.B (exact)
 u:\collection\dos\file_a-d\dostepu\dostepu.vom  Infection: Dostepu.1664
 u:\collection\dos\file_a-d\dostepu\wabikcom.vom  Infection: Dostepu.1664
 u:\collection\dos\file_a-d\dosver\dosver.vxe  Infection: Dosver.2062
@@ -8758,6 +9038,7 @@ u:\collection\dos\file_a-d\dos_1\184\a\t3.vom  Infection: Dos_1.184.A (exact)
 u:\collection\dos\file_a-d\dos_1\184\a\t5.vom  Infection: Dos_1.184.A (exact)
 u:\collection\dos\file_a-d\dos_1\184\a\t7.vom  Infection: Dos_1.184.A (exact)
 u:\collection\dos\file_a-d\dos_1\184\a\v2100.vom  Infection: Dos_1.184.A (exact)
+u:\collection\dos\file_a-d\dos_1\184\b\dos.184.e  Infection: Dos_1.184.B (exact)
 u:\collection\dos\file_a-d\dos_1\184\d\dos184-d.vom  Infection: Dos_1.184.C (exact)
 u:\collection\dos\file_a-d\dos_1\184\d\t7.vom  Infection: Dos_1.184.C (exact)
 u:\collection\dos\file_a-d\dos_1\184\d\tf.vom  Infection: Dos_1.184.C (exact)
@@ -8780,21 +9061,33 @@ u:\collection\dos\file_a-d\doteater\c\copene.vom  Infection: Doteater.944.C (exa
 u:\collection\dos\file_a-d\doteater\d\dha-dkil.vom  Infection: Doteater.944.D (exact)
 u:\collection\dos\file_a-d\doteater\d\v2120.vom  Infection: Doteater.944.D (exact)
 u:\collection\dos\file_a-d\doteater\e\dot-c.vom  Infection: Doteater.944.E (exact)
+u:\collection\dos\file_a-d\doteater\f\virus.dos.dot.944.d  Infection: Doteater.944.F
+u:\collection\dos\file_a-d\dotter\3961\virus.dos.dotter.3961  Infection: Dotter.3961
 u:\collection\dos\file_a-d\dotter\4611\dott4611.vxe  Infection: Dotter.4611
 u:\collection\dos\file_a-d\dotter\4611\t1.vxe  Infection: Dotter.4611
 u:\collection\dos\file_a-d\dotter\4611\t2.vxe  Infection: Dotter.4611
-u:\collection\dos\file_a-d\doublehe\452\a\dheart.vxe  Infection: Doubleheart.452.A (exact)
-u:\collection\dos\file_a-d\doublehe\452\b\double~2.vom  Infection: Doubleheart.452.B (exact) - Dropper
-u:\collection\dos\file_a-d\doublehe\452\b\e452.vxe  Infection: Doubleheart.452.B (exact)
-u:\collection\dos\file_a-d\doublehe\452\c\dou452a.vxe  Infection: Doubleheart.452.C (exact)
-u:\collection\dos\file_a-d\doublehe\649\russia.vom  Infection: Doubleheart.649 (exact)
+u:\collection\dos\file_a-d\doubleheart\452\a\dheart.vxe  Infection: Doubleheart.452.A (exact)
+u:\collection\dos\file_a-d\doubleheart\452\b\double~2.vom  Infection: Doubleheart.452.B (exact) - Dropper
+u:\collection\dos\file_a-d\doubleheart\452\b\e452.vxe  Infection: Doubleheart.452.B (exact)
+u:\collection\dos\file_a-d\doubleheart\452\c\dou452a.vxe  Infection: Doubleheart.452.C (exact)
+u:\collection\dos\file_a-d\doubleheart\452\d\virus.dos.dheart.460.b  Infection: Doubleheart.452.D (exact)
+u:\collection\dos\file_a-d\doubleheart\452\e\virus.dos.dheart.460.a  Infection: Doubleheart.452.E (exact)
+u:\collection\dos\file_a-d\doubleheart\539\virus.dos.dheart.539  Infection: Doubleheart.539
+u:\collection\dos\file_a-d\doubleheart\553\virus.dos.dheart.553  Infection: Doubleheart.553
+u:\collection\dos\file_a-d\doubleheart\639\virus.dos.dheart.639  Infection: Doubleheart.639
+u:\collection\dos\file_a-d\doubleheart\645\virus.dos.dheart.645  Infection: Doubleheart.645
+u:\collection\dos\file_a-d\doubleheart\649\russia.vom  Infection: Doubleheart.649 (exact)
 u:\collection\dos\file_a-d\downtown\639\downtown.vom  Infection: PS-MPC.639
 u:\collection\dos\file_a-d\downtown\639\t7.vom  Infection: PS-MPC.639
+u:\collection\dos\file_a-d\dox\2794\virus.dos.dox.2794  Infection: Divers.2725
+u:\collection\dos\file_a-d\dox\3339\virus.dos.dox.3339  Infection: Divers.2725
+u:\collection\dos\file_a-d\dpn6m\309\virus.dos.dead.309  Infection: Dpn6m.309 (exact)
 u:\collection\dos\file_a-d\dr&et\dr&et.vom  Infection: Dr_Et.1710
 u:\collection\dos\file_a-d\dr&et\dret.vom  Infection: Dr_Et.1710
 u:\collection\dos\file_a-d\dr&et\dret.vxe  Infection: Dr_Et.1710
-u:\collection\dos\file_a-d\dracula\dracula.vxe  Infection: Dracula.827 (exact)
-u:\collection\dos\file_a-d\dracula\dracula2.vxe  Infection: Dracula.827 (exact)
+u:\collection\dos\file_a-d\dracula\0827\dracula.vxe  Infection: Dracula.827 (exact)
+u:\collection\dos\file_a-d\dracula\0827\dracula2.vxe  Infection: Dracula.827 (exact)
+u:\collection\dos\file_a-d\dracula\1079\virus.dos.dracula.1079  Infection: Dracula.1079 (exact)
 u:\collection\dos\file_a-d\drag\499\keyb.vom  Infection: Drag.499 (exact)
 u:\collection\dos\file_a-d\drag\499\t1.vom  Infection: Drag.499 (exact)
 u:\collection\dos\file_a-d\drag\499\t10.vom  Infection: Drag.499 (exact)
@@ -8806,6 +9099,7 @@ u:\collection\dos\file_a-d\dragon\512\dragon.vxe  Infection: Dragon.512
 u:\collection\dos\file_a-d\draw\6530\copr6530.vom  Infection: Coprophage.6530
 u:\collection\dos\file_a-d\draw\6530\t1.vxe  Infection: Coprophage.6530
 u:\collection\dos\file_a-d\draw\6530\t7.vom  Infection: Coprophage.6530
+u:\collection\dos\file_a-d\drawcom\1182\virus.dos.sillyoc.1182  Infection: Drawcom.1182 (exact)
 u:\collection\dos\file_a-d\drazil\1967\debug.vxe  Infection: Lizard.1967 (exact)
 u:\collection\dos\file_a-d\drazil\1967\lizard.vxd  Infection: W32/Win/Lizard.1967
 u:\collection\dos\file_a-d\drazil\1967\lizard.vxe  Infection: Lizard.1967 (exact)
@@ -8835,6 +9129,18 @@ u:\collection\dos\file_a-d\drazil\2381\tdconfig.vxe  Infection: Lizard.2381 (exa
 u:\collection\dos\file_a-d\drazil\2381\unp.vxe  Infection: Lizard.2381 (exact)
 u:\collection\dos\file_a-d\drazil\2869\dzl.386  Infection: W32/Win/Lizard.2869
 u:\collection\dos\file_a-d\drazil\2869\infected.vxe  Infection: Lizard.2869 (exact)
+u:\collection\dos\file_a-d\draziw\2237\virus.dos.vrn.2276  Infection: Draziw.2237
+u:\collection\dos\file_a-d\draziw\2268\virus.dos.vrn.2229  Infection: Draziw.2268
+u:\collection\dos\file_a-d\draziw\2284\virus.dos.vrn.2284  Infection: Draziw.2284 (exact)
+u:\collection\dos\file_a-d\drdoom\283\a\virus.dos.drdoom.283  Infection: Drdoom.283.A (exact)
+u:\collection\dos\file_a-d\drdoom\283\b\virus.dos.drdoom.283.b  Infection: Drdoom.283.B (exact)
+u:\collection\dos\file_a-d\drdx\346\virus.dos.rdx.346  Infection: Drdx.346 (exact)
+u:\collection\dos\file_a-d\dre\192\virus.dos.trivial.dre.192  Infection: Dre.192 (exact)
+u:\collection\dos\file_a-d\dre\581\virus.dos.king.581  Infection: Dre.581
+u:\collection\dos\file_a-d\dre\725\virus.dos.dre.725  Infection: Dre.725 (exact)
+u:\collection\dos\file_a-d\dre\756\a\virus.dos.dre.756  Infection: Dre.756.A (exact)
+u:\collection\dos\file_a-d\dream\2012\virus.dos.dream.2012  Infection: Dream.2012
+u:\collection\dos\file_a-d\dream2\736\virus.dos.dw.736  Infection: Dream2.736
 u:\collection\dos\file_a-d\dreamer\1972\1-st1972.vom  Infection: Strings.1972 (exact)
 u:\collection\dos\file_a-d\dreamer\1972\2-st1972.vom  Infection: Strings.1972 (exact)
 u:\collection\dos\file_a-d\dreamer\1972\3-st1972.vom  Infection: Strings.1972 (exact)
@@ -8842,6 +9148,7 @@ u:\collection\dos\file_a-d\dreamer\1972\4-st1972.vom  Infection: Strings.1972 (e
 u:\collection\dos\file_a-d\dreamer\1972\stri1972.vom  Infection: Strings.1972 (exact)
 u:\collection\dos\file_a-d\dreamer\1972\t1.vom  Infection: Strings.1972 (exact)
 u:\collection\dos\file_a-d\dreamer\1972\t2.vom  Infection: Strings.1972 (exact)
+u:\collection\dos\file_a-d\dreamer\4781\virus.dos.dreamer.4781  Infection: Dreamer.4781 (exact)
 u:\collection\dos\file_a-d\dreamer\4808\a\hitler.vom  Infection: Dreamer.4808
 u:\collection\dos\file_a-d\dreamer\4808\a\v2125.vom  Infection: Dreamer.4808
 u:\collection\dos\file_a-d\dreamer\4808\b\dreame~1.vom  Infection: Dreamer.4808
@@ -8861,6 +9168,7 @@ u:\collection\dos\file_a-d\dreamer\4808\c\t5.vom  Infection: Dreamer.4808
 u:\collection\dos\file_a-d\dreamer\4808\c\t6.vom  Infection: Dreamer.4808
 u:\collection\dos\file_a-d\dreamer\4808\c\t7.vom  Infection: Dreamer.4808
 u:\collection\dos\file_a-d\dreamer\4808\c\t8.vom  Infection: Dreamer.4808
+u:\collection\dos\file_a-d\dreamer\4809\b\virus.dos.dreamer.4809  Infection: Dreamer.4809.B (exact)
 u:\collection\dos\file_a-d\dreamer\8869\dar.vom  Infection: Dreamer.8869.B (exact)
 u:\collection\dos\file_a-d\dreamer\8869\dar8869.vom  Infection: Dreamer.8869.B (exact)
 u:\collection\dos\file_a-d\dreamer\8869\darmandr.vom  Infection: Dreamer.8869.B (exact)
@@ -9054,7 +9362,9 @@ u:\collection\dos\file_a-d\dreg\2221\dreg0109.vom  Infection: Dreg.2221 (exact)
 u:\collection\dos\file_a-d\dreg\2281\dreg0080.vom  Infection: Dreg.2281 (exact)
 u:\collection\dos\file_a-d\dreg\2365\dreg0042.vom  Infection: Dreg.2365 (exact)
 u:\collection\dos\file_a-d\dreg\2365\grep.vom  Infection: Dreg.2365 (exact)
+u:\collection\dos\file_a-d\drepo\2461\virus.dos.drepo.2461  Infection: Drepo.2461 (exact)
 u:\collection\dos\file_a-d\drepo\2470\drep2470.vom  Infection: Drepo.2470
+u:\collection\dos\file_a-d\drizzle\1600\virus.dos.drizzle.1600  Infection: Drizzle.1600 (exact) - Dropper
 u:\collection\dos\file_a-d\drjohn\2000\b\debug.vxe  Infection: DrJohn.2000.damaged?
 u:\collection\dos\file_a-d\drjohn\2000\b\drjohn.vom  Infection: DrJohn.2000.B (exact)
 u:\collection\dos\file_a-d\drjohn\2000\b\fc.vxe  Infection: DrJohn.2000.damaged?
@@ -9067,14 +9377,25 @@ u:\collection\dos\file_a-d\drop\1131\t1.vxe  Infection: Drop.1131
 u:\collection\dos\file_a-d\drop\1131\t2.vom  Infection: Drop.1131
 u:\collection\dos\file_a-d\drop\1131\t3.vxe  Infection: Drop.1131
 u:\collection\dos\file_a-d\drop\1131\t5.vxe  Infection: Drop.1131
+u:\collection\dos\file_a-d\drozd\303\virus.dos.drozd.303  Infection: Drozd.303 (exact)
+u:\collection\dos\file_a-d\drozd\542\virus.dos.drozd.542  Infection: Drozd.542 (exact)
 u:\collection\dos\file_a-d\drqumak2\drq2.vom  Infection: Dr_Qumak.1079
 u:\collection\dos\file_a-d\drug\drug.vom  Infection: Drug.985 (exact)
 u:\collection\dos\file_a-d\drug\n2000.vom  Infection: Drug.985 (exact)
 u:\collection\dos\file_a-d\drug\n3.vom  Infection: Drug.985 (exact)
+u:\collection\dos\file_a-d\druid\149\druid2.vom  Infection: Druid.149 (exact)
+u:\collection\dos\file_a-d\druid\150\virus.dos.druid.248  Infection: Druid.150 (exact)
+u:\collection\dos\file_a-d\druid\247\druid.vom  Infection: Druid.247
+u:\collection\dos\file_a-d\druid\312\druidc~1.vom  Infection: Druid.312
 u:\collection\dos\file_a-d\druid\313\DRUID.vom  Infection: Druid.313
-u:\collection\dos\file_a-d\drunk\522\dirr.vom  Infection: Drunk_Avenger.522 (exact)
-u:\collection\dos\file_a-d\drunk\522\drunk5~1.vom  Infection: Drunk_Avenger.522 (exact)
-u:\collection\dos\file_a-d\drunk\527\dirr.vom  Infection: Drunk_Avenger.527 (exact)
+u:\collection\dos\file_a-d\druid\561\561.com  Infection: Druid.561
+u:\collection\dos\file_a-d\druidic\293\a\druid.303  Infection: Druidic.293.A (exact)
+u:\collection\dos\file_a-d\druidic\297\d\druid.297.a  Infection: Druidic.297.D (exact)
+u:\collection\dos\file_a-d\druidic\518\a\454.com  Infection: Druidic.518.A (exact)
+u:\collection\dos\file_a-d\druidic\518\b\druid.454  Infection: Druidic.518.B (exact)
+u:\collection\dos\file_a-d\drunk_avenger\522\dirr.vom  Infection: Drunk_Avenger.522 (exact)
+u:\collection\dos\file_a-d\drunk_avenger\522\drunk5~1.vom  Infection: Drunk_Avenger.522 (exact)
+u:\collection\dos\file_a-d\drunk_avenger\527\dirr.vom  Infection: Drunk_Avenger.527 (exact)
 u:\collection\dos\file_a-d\drwatson\1503\dr_w.vom  Infection: Drwatson.1503
 u:\collection\dos\file_a-d\drydream\drydream.vom  Infection: Dry_Dream.1091
 u:\collection\dos\file_a-d\drydream\t1.vom  Infection: Dry_Dream.1091
@@ -9084,6 +9405,7 @@ u:\collection\dos\file_a-d\drydream\t4.vom  Infection: Dry_Dream.1091
 u:\collection\dos\file_a-d\drydream\t5.vom  Infection: Dry_Dream.1091
 u:\collection\dos\file_a-d\drydream\t6.vom  Infection: Dry_Dream.1091
 u:\collection\dos\file_a-d\drydream\t9.vom  Infection: Dry_Dream.1091
+u:\collection\dos\file_a-d\ds\511\virus.dos.ds.512.b  Infection: DS.511
 u:\collection\dos\file_a-d\ds\512\ds512.vom  Infection: DS.512
 u:\collection\dos\file_a-d\ds\512\new512.vom  Infection: DS.512
 u:\collection\dos\file_a-d\dsce\demo\dscedem.vom  Infection: DSCE.2957
@@ -9104,6 +9426,9 @@ u:\collection\dos\file_a-d\dsce\mdak\dscemkak.vxe  Infection: Mudak.2941
 u:\collection\dos\file_a-d\dsce\mdak\t7.vom  Infection: Mudak.2941
 u:\collection\dos\file_a-d\dsce\mdak\t7.vxe  Infection: Mudak.2941
 u:\collection\dos\file_a-d\dsce\mdak\tf.vxe  Infection: Mudak.2941
+u:\collection\dos\file_a-d\dseven\793\virus.dos.dseven.793  Infection: Dseven.793 - Dropper
+u:\collection\dos\file_a-d\dseven\795\virus.dos.dseven.795  Infection: Dseven.795 - Dropper
+u:\collection\dos\file_a-d\dseven\801\virus.dos.dseven.801  Infection: Dseven.801 - Dropper
 u:\collection\dos\file_a-d\dsme\apex\2685\apex.vom  Infection: Polydemo.2685#DSME
 u:\collection\dos\file_a-d\dsme\apex\2685\t1.vom  Infection: Polydemo.2685#DSME
 u:\collection\dos\file_a-d\dsme\apex\2685\t2.vom  Infection: Polydemo.2685#DSME
@@ -9138,34 +9463,20 @@ u:\collection\dos\file_a-d\dsme\teacher\t6.vom  Infection: Teacher.3197#DSME
 u:\collection\dos\file_a-d\dsme\teacher\t7.vom  Infection: Teacher.3197#DSME
 u:\collection\dos\file_a-d\dsme\teacher\teacher.vom  Infection: Teacher.3197#DSME
 u:\collection\dos\file_a-d\dsme\teacher\unke0502.vxe  Infection: Teacher.3197#DSME
+u:\collection\dos\file_a-d\dsp\613\virus.dos.dsp.613  Infection: DSP.613 (exact)
 u:\collection\dos\file_a-d\dspdh-16\dspdh-16.vxe  Infection: DSPDH.1063
+u:\collection\dos\file_a-d\dst\231\virus.dos.dst.231  Infection: DST.231 (exact)
+u:\collection\dos\file_a-d\dst\242\dst.242  Infection: DST.242 (exact)
+u:\collection\dos\file_a-d\dst\330\virus.dos.dst.330  Infection: DST.330 (exact)
+u:\collection\dos\file_a-d\dst\347\virus.dos.dst.347  Infection: DST.347 (exact)
+u:\collection\dos\file_a-d\dst\396\virus.dos.dst.396  Infection: DST.396 (exact)
+u:\collection\dos\file_a-d\dst\406\virus.dos.dst.406.a  Infection: DST.406
+u:\collection\dos\file_a-d\dst\424\virus.dos.dst.424  Infection: DST.424
+u:\collection\dos\file_a-d\dst\425\virus.dos.dst.425  Infection: DST.425
+u:\collection\dos\file_a-d\dstar\130\virus.dos.sillyoc.130  Infection: Dstar.130 (exact)
 u:\collection\dos\file_a-d\dsu\1414\wci0362d.vxe  Infection: DSU.1414 (exact)
 u:\collection\dos\file_a-d\dsu\1422\wci0363d.vxe  Infection: DSU.1422 (exact)
-u:\collection\dos\file_a-d\dtchtiny\087\dutch-87.vom  Infection: Dutch_Tiny.87 (exact)
-u:\collection\dos\file_a-d\dtchtiny\087\t7.vom  Infection: Dutch_Tiny.87 (exact)
-u:\collection\dos\file_a-d\dtchtiny\087\tf.vom  Infection: Dutch_Tiny.87 (exact)
-u:\collection\dos\file_a-d\dtchtiny\098\mini98.vom  Infection: Dutch_Tiny.98.A (exact)
-u:\collection\dos\file_a-d\dtchtiny\099\a\v2165.vom  Infection: Dutch_Tiny.99.A (exact)
-u:\collection\dos\file_a-d\dtchtiny\099\b\c-dut99#.vom  Infection: Dutch_Tiny.99.B (exact)
-u:\collection\dos\file_a-d\dtchtiny\099\b\dutch99.vom  Infection: Dutch_Tiny.99.B (exact)
-u:\collection\dos\file_a-d\dtchtiny\099\b\t1.vom  Infection: Dutch_Tiny.99.B (exact)
-u:\collection\dos\file_a-d\dtchtiny\099\b\t2.vom  Infection: Dutch_Tiny.99.B (exact)
-u:\collection\dos\file_a-d\dtchtiny\111\a\dutch111.vom  Infection: Dutch_Tiny.111 (exact)
-u:\collection\dos\file_a-d\dtchtiny\111\b\dtny111b.vom  Infection: SillyC.111.A (exact)
-u:\collection\dos\file_a-d\dtchtiny\111\b\t1.vom  Infection: SillyC.111.A (exact)
-u:\collection\dos\file_a-d\dtchtiny\111\b\t3.vom  Infection: SillyC.111.A (exact)
-u:\collection\dos\file_a-d\dtchtiny\111\b\t5.vom  Infection: SillyC.111.A (exact)
-u:\collection\dos\file_a-d\dtchtiny\111\b\t7.vom  Infection: SillyC.111.A (exact)
-u:\collection\dos\file_a-d\dtchtiny\111\b\t9.vom  Infection: SillyC.111.A (exact)
-u:\collection\dos\file_a-d\dtchtiny\111\b\wci07781.vom  Infection: SillyC.111.A (exact)
-u:\collection\dos\file_a-d\dtchtiny\117\v2135.vom  Infection: Dutch_Tiny.117 (exact)
-u:\collection\dos\file_a-d\dtchtiny\117\v2140.vom  is a corrupted or intended virus
-u:\collection\dos\file_a-d\dtchtiny\122\v2145.vom  Infection: Dutch_Tiny.122 (exact)
-u:\collection\dos\file_a-d\dtchtiny\124\a\v2150.vom  Infection: Dutch_Tiny.124.A (exact)
-u:\collection\dos\file_a-d\dtchtiny\124\b\dut124b0.vom  Infection: Dutch_Tiny.124.B (exact)
-u:\collection\dos\file_a-d\dtchtiny\124\b\v2155.vom  Infection: Dutch_Tiny.124.B (exact)
-u:\collection\dos\file_a-d\dtchtiny\126\dut126a.vom  Infection: Dutch_Tiny.126 (exact)
-u:\collection\dos\file_a-d\dtchtiny\126\v2160.vom  Infection: Dutch_Tiny.126 (exact)
+u:\collection\dos\file_a-d\dthoughts\6144\virus.dos.darkthoughts.6144  Infection: DThoughts.6144
 u:\collection\dos\file_a-d\du\725\wci0364d.vxe  Infection: Du.725 (exact)
 u:\collection\dos\file_a-d\dual_gtm\0727\casati31.vom  Infection: Dual_GTM.727 (exact)
 u:\collection\dos\file_a-d\dual_gtm\0727\wci0063#.vom  Infection: Dual_GTM.727 (exact)
@@ -9174,11 +9485,18 @@ u:\collection\dos\file_a-d\dual_gtm\1436\casati22.vom  Infection: Dual_GTM.1436 
 u:\collection\dos\file_a-d\dual_gtm\1436\dual_gtm.vom  Infection: Dual_GTM.1436 (exact)
 u:\collection\dos\file_a-d\dual_gtm\1446\casati_1.vom  Infection: Dual_GTM.1446 (exact)
 u:\collection\dos\file_a-d\dual_gtm\1446\dual_gtm.vom  Infection: Dual_GTM.1446 (exact)
+u:\collection\dos\file_a-d\dual_gtm\1527\virus.dos.gtm.bewarebug.1527  Infection: Dual_GTM.1527 (exact)
 u:\collection\dos\file_a-d\dual_gtm\1528\frbu1544.vom  Infection: Dual_GTM.1528.A (exact)
 u:\collection\dos\file_a-d\dual_gtm\1643\bewa.vom  Infection: Dual_GTM.1643 (exact)
 u:\collection\dos\file_a-d\dumb\4722\dumb.vom  Infection: Dumb.4722
 u:\collection\dos\file_a-d\dumbhttm\192\wci01732.vom  Infection: Dumb.192 (exact)
 u:\collection\dos\file_a-d\dumbhttm\215\wci01742.vom  Infection: Dumb.215 (exact)
+u:\collection\dos\file_a-d\dumbhttm\217\virus.dos.dumb.217  Infection: Dumb.217 (exact)
+u:\collection\dos\file_a-d\dumbhttm\218\a\virus.dos.dumb.218  Infection: Dumb.218 (exact)
+u:\collection\dos\file_a-d\dumbhttm\218\b\virus.dos.dumb.218.b  Infection: Dumb.218.B (exact)
+u:\collection\dos\file_a-d\dumbhttm\227\a\virus.dos.dumb.227.b  Infection: Dumb.227.A (exact)
+u:\collection\dos\file_a-d\dumbhttm\227\b\virus.dos.dumb.227.a  Infection: Dumb.227.B (exact)
+u:\collection\dos\file_a-d\dumbhttm\227\c\virus.dos.dumb.227.c  Infection: Dumb.227.C (exact)
 u:\collection\dos\file_a-d\dumbtrash\404\dumb.vom  Infection: Dumbtrash.404
 u:\collection\dos\file_a-d\dumbtrash\404\t1.vom  Infection: Dumbtrash.404
 u:\collection\dos\file_a-d\dumbtrash\404\t2.vom  Infection: Dumbtrash.404
@@ -9195,6 +9513,48 @@ u:\collection\dos\file_a-d\dumbtrash\406\t4.vom  Infection: Dumbtrash.406 (exact
 u:\collection\dos\file_a-d\dumbtrash\406\t5.vom  Infection: Dumbtrash.406 (exact)
 u:\collection\dos\file_a-d\dumbtrash\406\t6.vom  Infection: Dumbtrash.406 (exact)
 u:\collection\dos\file_a-d\dumbtrash\406\t7.vom  Infection: Dumbtrash.406 (exact)
+u:\collection\dos\file_a-d\dune\408\t1.vom  Infection: Dune.408.unknown?
+u:\collection\dos\file_a-d\dune\408\t3.vom  Infection: Dune.408.unknown?
+u:\collection\dos\file_a-d\dune\408\virus.dos.dune.408  Infection: Dune.408.unknown?
+u:\collection\dos\file_a-d\dune\728\virus.dos.dune.728  Infection: Dune.728
+u:\collection\dos\file_a-d\duplet\1479\virus.dos.dupl.1479  Infection: Duplet.1479 (exact)
+u:\collection\dos\file_a-d\dust\1088\virus.dos.deadwin.1088  Infection: Dust.1088
+u:\collection\dos\file_a-d\dutch_tiny\087\dutch-87.vom  Infection: Dutch_Tiny.87 (exact)
+u:\collection\dos\file_a-d\dutch_tiny\087\t7.vom  Infection: Dutch_Tiny.87 (exact)
+u:\collection\dos\file_a-d\dutch_tiny\087\tf.vom  Infection: Dutch_Tiny.87 (exact)
+u:\collection\dos\file_a-d\dutch_tiny\098\a\mini98.vom  Infection: Dutch_Tiny.98.A (exact)
+u:\collection\dos\file_a-d\dutch_tiny\098\b\virus.dos.mini.98.b  Infection: Dutch_Tiny.98.B
+u:\collection\dos\file_a-d\dutch_tiny\098\c\virus.dos.sillyc.102  Infection: Dutch_Tiny.98.B
+u:\collection\dos\file_a-d\dutch_tiny\099\a\v2165.vom  Infection: Dutch_Tiny.99.A (exact)
+u:\collection\dos\file_a-d\dutch_tiny\099\b\c-dut99#.vom  Infection: Dutch_Tiny.99.B (exact)
+u:\collection\dos\file_a-d\dutch_tiny\099\b\dutch99.vom  Infection: Dutch_Tiny.99.B (exact)
+u:\collection\dos\file_a-d\dutch_tiny\099\b\t1.vom  Infection: Dutch_Tiny.99.B (exact)
+u:\collection\dos\file_a-d\dutch_tiny\099\b\t2.vom  Infection: Dutch_Tiny.99.B (exact)
+u:\collection\dos\file_a-d\dutch_tiny\099\c\virus.dos.dutch_tiny.99.c  Infection: Dutch_Tiny.99.C (exact)
+u:\collection\dos\file_a-d\dutch_tiny\099\d\DUMP32.vom  Infection: Dutch_Tiny.99.unknown?
+u:\collection\dos\file_a-d\dutch_tiny\099\d\virus.dos.mini.99  Infection: Dutch_Tiny.99.unknown?
+u:\collection\dos\file_a-d\dutch_tiny\111\a\dutch111.vom  Infection: Dutch_Tiny.111 (exact)
+u:\collection\dos\file_a-d\dutch_tiny\111\b\dtny111b.vom  Infection: SillyC.111.A (exact)
+u:\collection\dos\file_a-d\dutch_tiny\111\b\t1.vom  Infection: SillyC.111.A (exact)
+u:\collection\dos\file_a-d\dutch_tiny\111\b\t3.vom  Infection: SillyC.111.A (exact)
+u:\collection\dos\file_a-d\dutch_tiny\111\b\t5.vom  Infection: SillyC.111.A (exact)
+u:\collection\dos\file_a-d\dutch_tiny\111\b\t7.vom  Infection: SillyC.111.A (exact)
+u:\collection\dos\file_a-d\dutch_tiny\111\b\t9.vom  Infection: SillyC.111.A (exact)
+u:\collection\dos\file_a-d\dutch_tiny\111\b\wci07781.vom  Infection: SillyC.111.A (exact)
+u:\collection\dos\file_a-d\dutch_tiny\117\v2135.vom  Infection: Dutch_Tiny.117 (exact)
+u:\collection\dos\file_a-d\dutch_tiny\117\v2140.vom  is a corrupted or intended virus
+u:\collection\dos\file_a-d\dutch_tiny\122\v2145.vom  Infection: Dutch_Tiny.122 (exact)
+u:\collection\dos\file_a-d\dutch_tiny\124\a\v2150.vom  Infection: Dutch_Tiny.124.A (exact)
+u:\collection\dos\file_a-d\dutch_tiny\124\b\dut124b0.vom  Infection: Dutch_Tiny.124.B (exact)
+u:\collection\dos\file_a-d\dutch_tiny\124\b\v2155.vom  Infection: Dutch_Tiny.124.B (exact)
+u:\collection\dos\file_a-d\dutch_tiny\126\dut126a.vom  Infection: Dutch_Tiny.126 (exact)
+u:\collection\dos\file_a-d\dutch_tiny\126\v2160.vom  Infection: Dutch_Tiny.126 (exact)
+u:\collection\dos\file_a-d\duwende\392\duwende.392.vom  Infection: Duwende.392 (exact)
+u:\collection\dos\file_a-d\duwende\393\a\virus.dos.duwende.393.a  Infection: Duwende.393.A (exact)
+u:\collection\dos\file_a-d\duwende\393\b\virus.dos.duwende.393.b  Infection: Duwende.393.B (exact)
+u:\collection\dos\file_a-d\duwende\402\duwende.402.vom  Infection: Duwende.402 (exact)
+u:\collection\dos\file_a-d\duwende\403\a\duwende.403  Infection: Duwende.403.A (exact)
+u:\collection\dos\file_a-d\duwende\403\b\virus.dos.duwende.403.b  Infection: Duwende.403.B (exact)
 u:\collection\dos\file_a-d\duwende\409\a\duwend-a.vom  Infection: Duwende.409.A (exact)
 u:\collection\dos\file_a-d\duwende\409\a\dwnd409a.vom  Infection: Duwende.409.A (exact)
 u:\collection\dos\file_a-d\duwende\409\a\keyb.vom  Infection: Duwende.409.A (exact)
@@ -9226,6 +9586,7 @@ u:\collection\dos\file_a-d\duwende\409\d\t4.vom  Infection: Duwende.409.C (exact
 u:\collection\dos\file_a-d\duwende\409\d\t5.vom  Infection: Duwende.409.C (exact)
 u:\collection\dos\file_a-d\duwende\409\d\t6.vom  Infection: Duwende.409.C (exact)
 u:\collection\dos\file_a-d\duwende\409\e\duwend-e.vom  Infection: Duwende.409.D (exact)
+u:\collection\dos\file_a-d\duwende\409\e\duwende.409.e.vom  Infection: Duwende.409.D (exact)
 u:\collection\dos\file_a-d\duwende\409\e\dwnd409e.vom  Infection: Duwende.409.D (exact)
 u:\collection\dos\file_a-d\duwende\409\e\keyb.vom  Infection: Duwende.409.D (exact)
 u:\collection\dos\file_a-d\duwende\409\e\t10.vom  Infection: Duwende.409.D (exact)
@@ -9234,6 +9595,8 @@ u:\collection\dos\file_a-d\duwende\409\e\t3.vom  Infection: Duwende.409.D (exact
 u:\collection\dos\file_a-d\duwende\409\e\t4.vom  Infection: Duwende.409.D (exact)
 u:\collection\dos\file_a-d\duwende\409\e\t5.vom  Infection: Duwende.409.D (exact)
 u:\collection\dos\file_a-d\duwende\409\e\t6.vom  Infection: Duwende.409.D (exact)
+u:\collection\dos\file_a-d\duwende\409\f\duwende.409.f  Infection: Duwende.409.E (exact)
+u:\collection\dos\file_a-d\duwende\409\unknown\virus.dos.duwende.409.h  Infection: Duwende.409.unknown?
 u:\collection\dos\file_a-d\duwende\410\a\duwend-f.vom  Infection: Duwende.410.A (exact)
 u:\collection\dos\file_a-d\duwende\410\a\dwnd410a.vom  Infection: Duwende.410.A (exact)
 u:\collection\dos\file_a-d\duwende\410\a\keyb.vom  Infection: Duwende.410.A (exact)
@@ -9252,6 +9615,28 @@ u:\collection\dos\file_a-d\duwende\410\b\t3.vom  Infection: Duwende.410.B (exact
 u:\collection\dos\file_a-d\duwende\410\b\t4.vom  Infection: Duwende.410.B (exact)
 u:\collection\dos\file_a-d\duwende\410\b\t5.vom  Infection: Duwende.410.B (exact)
 u:\collection\dos\file_a-d\duwende\410\b\t6.vom  Infection: Duwende.410.B (exact)
+u:\collection\dos\file_a-d\duwende\410\c\virus.dos.duwende.410.c  Infection: Duwende.410.C (exact)
+u:\collection\dos\file_a-d\duwende\410\f\virus.dos.duwende.410.d  Infection: Duwende.410.F (exact)
+u:\collection\dos\file_a-d\duwende\431\a\duwende.431.a.vom  Infection: Duwende.431.A (exact)
+u:\collection\dos\file_a-d\duwende\431\b\duwende.431.b.vom  Infection: Duwende.431.B (exact)
+u:\collection\dos\file_a-d\duwende\432\b\virus.dos.duwende.432.b  Infection: Duwende.432.B (exact)
+u:\collection\dos\file_a-d\duwende\432\c\virus.dos.duwende.432.a  Infection: Duwende.432.C (exact)
+u:\collection\dos\file_a-d\duwende\584\d\virus.dos.duwende.584  Infection: Duwende.584.D (exact)
+u:\collection\dos\file_a-d\duwende\595\a\duwende.595.com  Infection: Duwende.595.A (exact)
+u:\collection\dos\file_a-d\duwende\595\c\virus.dos.duwende.595.b  Infection: Duwende.595.C (exact)
+u:\collection\dos\file_a-d\duwende\724\duwende.724.vom  Infection: Duwende.724 (exact)
+u:\collection\dos\file_a-d\duwende\734\a\duwende.734.a.vom  Infection: Duwende.734.A (exact)
+u:\collection\dos\file_a-d\duwende\734\a\virus.dos.duwende.734.a  Infection: Duwende.734.A (exact)
+u:\collection\dos\file_a-d\duwende\734\b\duwende.734.b.vom  Infection: Duwende.734.B (exact)
+u:\collection\dos\file_a-d\dv\1869\virus.dos.vandal.1869  Infection: DV.1869 (exact)
+u:\collection\dos\file_a-d\dva\437\virus.dos.dva.437  Infection: DVA.437
+u:\collection\dos\file_a-d\dva\440\virus.dos.dva.440  Infection: DVA.440
+u:\collection\dos\file_a-d\dva\443\virus.dos.dva.443  Infection: DVA.443
+u:\collection\dos\file_a-d\dva\445\virus.dos.dva.445  Infection: DVA.445 (exact)
+u:\collection\dos\file_a-d\dva\490\virus.dos.dva.490  Infection: DVA.490
+u:\collection\dos\file_a-d\dva\640\virus.dos.dva.640  Infection: DVA.640
+u:\collection\dos\file_a-d\dva\749\virus.dos.dva.749  Infection: DVA.749 (exact)
+u:\collection\dos\file_a-d\dva\753\virus.dos.dva.753  Infection: DVA.753
 u:\collection\dos\file_a-d\dvc\336\t1.vom  Infection: DVC.336
 u:\collection\dos\file_a-d\dvc\336\t3.vom  Infection: DVC.336
 u:\collection\dos\file_a-d\dvc\336\t5.vom  Infection: DVC.336
@@ -9264,27 +9649,35 @@ u:\collection\dos\file_a-d\dvc\341\t3.vom  Infection: SillyC.341.A (exact)
 u:\collection\dos\file_a-d\dvc\341\t4.vom  Infection: SillyC.341.A (exact)
 u:\collection\dos\file_a-d\dvc\341\t5.vom  Infection: SillyC.341.A (exact)
 u:\collection\dos\file_a-d\dvc\341\t6.vom  Infection: SillyC.341.A (exact)
-u:\collection\dos\file_a-d\dvd\choice.vom  Infection: DvD.455
-u:\collection\dos\file_a-d\dvd\doskey.vom  Infection: DvD.455
-u:\collection\dos\file_a-d\dvd\dvd.vom  Infection: DvD.455
-u:\collection\dos\file_a-d\dvd\grep.vom  Infection: DvD.455
-u:\collection\dos\file_a-d\dvd\lwm.vom  Infection: DvD.455
-u:\collection\dos\file_a-d\dvd\mode.vom  Infection: DvD.455
-u:\collection\dos\file_a-d\dvd\more.vom  Infection: DvD.455
-u:\collection\dos\file_a-d\dvd\sys.vom  Infection: DvD.455
+u:\collection\dos\file_a-d\dvd\455\choice.vom  Infection: DvD.455
+u:\collection\dos\file_a-d\dvd\455\doskey.vom  Infection: DvD.455
+u:\collection\dos\file_a-d\dvd\455\dvd.vom  Infection: DvD.455
+u:\collection\dos\file_a-d\dvd\455\grep.vom  Infection: DvD.455
+u:\collection\dos\file_a-d\dvd\455\lwm.vom  Infection: DvD.455
+u:\collection\dos\file_a-d\dvd\455\mode.vom  Infection: DvD.455
+u:\collection\dos\file_a-d\dvd\455\more.vom  Infection: DvD.455
+u:\collection\dos\file_a-d\dvd\455\sys.vom  Infection: DvD.455
+u:\collection\dos\file_a-d\dvd\940\virus.dos.vcl.jfk.940  Infection: DvD.940 (exact)
+u:\collection\dos\file_a-d\dwbomk\607\virus.dos.dwbomk.607  Infection: Dwbomk.607
 u:\collection\dos\file_a-d\dwi\1051\dwi.vom  is a virus dropper
 u:\collection\dos\file_a-d\dwi\1051\v2175.vxe  Infection: Dwi.1051
 u:\collection\dos\file_a-d\dwi\1051\v2180.vxe  Infection: Dwi.1051
 u:\collection\dos\file_a-d\dwi\1053\dwi.vom  is a corrupted or intended virus
 u:\collection\dos\file_a-d\dwi\1053\dwi.vxe  is a corrupted or intended virus
+u:\collection\dos\file_a-d\dwi\1053\virus.dos.dwi.1053  Infection: Dwi.1053
 u:\collection\dos\file_a-d\dy\275\b\wci0381d.vom  Infection: Dy.254.B (exact)
 u:\collection\dos\file_a-d\dy\277\a\wci0382d.vom  Infection: Dy.254.A (exact)
 u:\collection\dos\file_a-d\dy\278\dy.vom  Infection: Dy.257
 u:\collection\dos\file_a-d\dy\278\dy278a.vom  Infection: Dy.257
+u:\collection\dos\file_a-d\dy\285\virus.dos.dy.285  Infection: Dy.285 (exact)
 u:\collection\dos\file_a-d\dyagileva\3153\Virus.DOS.Anarchy.3153  Infection: Dyagileva.3153
 u:\collection\dos\file_a-d\dyinoath\264\oath.vom  Infection: Oath.357.B (exact)
 u:\collection\dos\file_a-d\dyinoath\268\wci03374.vxe  Infection: Oath.268
 u:\collection\dos\file_a-d\dyinoath\270\wci03384.vxe  Infection: Oath.357.A (exact)
+u:\collection\dos\file_a-d\dynamics\1400\virus.dos.dynamics.1400  Infection: Dynamics.1400
+u:\collection\dos\file_a-d\dyr\915\virus.dos.daga.915  Infection: Dyr.915 (exact)
+u:\collection\dos\file_a-d\dysfunction\1310\virus.dos.communist.1310  Infection: Dysfunction.1310
+u:\collection\dos\file_a-d\dy_dreamer\4926\virus.dos.dream.4926  Infection: Dy_Dreamer.4926 (exact)
 u:\collection\dos\file_a-d\dzino\dzino.vom  Infection: Dzino.1000
 u:\collection\dos\file_a-d\_0130\t1.vom  Infection: _130 (exact)
 u:\collection\dos\file_a-d\_0130\t3.vom  Infection: _130 (exact)
@@ -17001,6 +17394,7 @@ u:\collection\dos\file_k-r\keypress\1744\keypresd.vxe  Infection: Keypress.1744
 u:\collection\dos\file_k-r\keypress\2728\a\keypufo.vxe  Infection: Keypress.2728
 u:\collection\dos\file_k-r\keypress\2728\b\kpufob.vxe  Infection: Keypress.2728
 u:\collection\dos\file_k-r\khai\1835\wci0080k.vom  Infection: Khai.1835
+u:\collection\dos\file_k-r\kherson\800\dw-800-0.vom  Infection: DW.800 (exact)
 u:\collection\dos\file_k-r\kherson\982\virus.dos.kherson.982  Infection: Kherson.982 (exact)
 u:\collection\dos\file_k-r\khizhnjak\0306\khiz306.vom  Infection: Khizhnjak.306 (exact)
 u:\collection\dos\file_k-r\khizhnjak\0306\khsnjk.vom  Infection: Khizhnjak.306 (exact)
@@ -18927,8 +19321,9 @@ u:\collection\dos\file_k-r\milan\badguy\v5225.vom  Infection: Milan.265.A (exact
 u:\collection\dos\file_k-r\milan\bill_me\mi-billm.vom  Infection: Milan.263 (exact)
 u:\collection\dos\file_k-r\milan\bill_me\wwt263.vom  Infection: Milan.263 (exact)
 u:\collection\dos\file_k-r\milan\demon\270\mi-d270.vom  Infection: Milan.270.A (exact)
-u:\collection\dos\file_k-r\milan\demon\272\demon.vom  Infection: Milan.272 (exact)
-u:\collection\dos\file_k-r\milan\demon\272\milan2~5.vom  Infection: Milan.272 (exact)
+u:\collection\dos\file_k-r\milan\demon\272\a\demon.vom  Infection: Milan.272 (exact)
+u:\collection\dos\file_k-r\milan\demon\272\a\milan2~5.vom  Infection: Milan.272 (exact)
+u:\collection\dos\file_k-r\milan\demon\272\b\virus.dos.milan.demon.272  Infection: Demonhyak.272 (exact)
 u:\collection\dos\file_k-r\milan\evul\264\grep.vom  Infection: Milan.264 (exact)
 u:\collection\dos\file_k-r\milan\evul\264\milan264.vom  Infection: Milan.264 (exact)
 u:\collection\dos\file_k-r\milan\evul\264\t1.vom  Infection: Milan.264 (exact)
@@ -19674,6 +20069,8 @@ u:\collection\dos\file_k-r\mte\destruct\b\mtedestb.vom  Infection: Cryptlab.3284
 u:\collection\dos\file_k-r\mte\destruct\c\mtedestc.vom  Infection: Cryptlab.3290
 u:\collection\dos\file_k-r\mte\devil\wci0727m.vom  Infection: Cracker.3088#MtE
 u:\collection\dos\file_k-r\mte\dewy\wci0728m.vom  Infection: Dewy.3272#MtE
+u:\collection\dos\file_k-r\mte\duwende\2719\a\mte.duwende.2698.a.vom  Infection: Duwende.2719.A (exact)
+u:\collection\dos\file_k-r\mte\duwende\2719\b\mte.duwende.2698.b.vom  Infection: Duwende.2719.B (exact)
 u:\collection\dos\file_k-r\mte\encroach\a\mtel.vom  Infection: Encroacher.2932#MtE
 u:\collection\dos\file_k-r\mte\encroach\a\v5365.vom  Infection: Encroacher.2932#MtE
 u:\collection\dos\file_k-r\mte\encroach\b\mte-enc2.vom  Infection: Encroacher.2860#MtE
@@ -23782,7 +24179,9 @@ u:\collection\dos\file_k-r\ps-mpc\anarchy\524\wci0801p.vom  Infection: PS-MPC.52
 u:\collection\dos\file_k-r\ps-mpc\anarchy\525\wci0803p.vom  Infection: PS-MPC.525
 u:\collection\dos\file_k-r\ps-mpc\anathema\psm589a.vxe  Infection: PS-MPC.589
 u:\collection\dos\file_k-r\ps-mpc\annihilator\555\virus.dos.ps-mpc.annihilator.555  Infection: Annihilator.568
-u:\collection\dos\file_k-r\ps-mpc\anninjar\aurec.vom  Infection: PS-MPC.581 (generic) - Dropper
+u:\collection\dos\file_k-r\ps-mpc\anninjar\581\aurec.vom  Infection: PS-MPC.581 (generic) - Dropper
+u:\collection\dos\file_k-r\ps-mpc\anninjar\581\t1.vxe  Infection: PS-MPC.581 (generic)
+u:\collection\dos\file_k-r\ps-mpc\anninjar\581\t3.vxe  Infection: PS-MPC.581 (generic)
 u:\collection\dos\file_k-r\ps-mpc\anonymou\virus.vom  Infection: PS-MPC.305.A
 u:\collection\dos\file_k-r\ps-mpc\another\645\wci04542.vom  Infection: Another_World.645
 u:\collection\dos\file_k-r\ps-mpc\another\658\Virus.DOS.PS-MPC.AnotherWorld.555  Infection: Another_World.658 - Dropper
@@ -27426,39 +27825,41 @@ u:\collection\dos\file_s-z\sirius\alive\4608\f\keyb.vom  Infection: Alive.4608.F
 u:\collection\dos\file_s-z\sirius\alive\4608\f\t7.vxe  Infection: Alive.4608.F
 u:\collection\dos\file_s-z\sirius\alive\4608\f\trace.vxe  Infection: Alive.4608.F
 u:\collection\dos\file_s-z\sirius\alive\4608\f\wci00303.vom  Infection: Alive.4608.F
-u:\collection\dos\file_s-z\sirius\annihila\272\a\wci0097a.vom  Infection: Annihilator.272.A (exact)
-u:\collection\dos\file_s-z\sirius\annihila\272\b\wci0098a.vom  Infection: Annihilator.272.B (exact)
-u:\collection\dos\file_s-z\sirius\annihila\272\c\virus.dos.sirius.annihilator.272  Infection: Annihilator.272.C (exact)
-u:\collection\dos\file_s-z\sirius\annihila\276\wci02122.vom  Infection: Annihilator.276 (exact)
-u:\collection\dos\file_s-z\sirius\annihila\280\a\wci0099a.vom  Infection: Annihilator.280.A (exact)
-u:\collection\dos\file_s-z\sirius\annihila\280\b\virus.dos.sirius.annihilator.280  Infection: Annihilator.280.B (exact)
-u:\collection\dos\file_s-z\sirius\annihila\298\wci02132.vom  Infection: Annihilator.298 (exact)
-u:\collection\dos\file_s-z\sirius\annihila\299\wci02142.vom  Infection: Annihilator.299 (exact)
-u:\collection\dos\file_s-z\sirius\annihila\304\wci0100a.vom  Infection: Annihilator.304
-u:\collection\dos\file_s-z\sirius\annihila\305\wci0101a.vom  Infection: Annihilator.305
-u:\collection\dos\file_s-z\sirius\annihila\308\wci02152.vom  Infection: Annihilator.308
-u:\collection\dos\file_s-z\sirius\annihila\314\wci02162.vom  Infection: Annihilator.314
-u:\collection\dos\file_s-z\sirius\annihila\357\wci0102a.vom  Infection: Annihilator.357
-u:\collection\dos\file_s-z\sirius\annihila\361\wci02172.vom  Infection: Annihilator.361
-u:\collection\dos\file_s-z\sirius\annihila\379\wci0103a.vom  Infection: Annihilator.379
-u:\collection\dos\file_s-z\sirius\annihila\383\wci02182.vom  Infection: Annihilator.383
-u:\collection\dos\file_s-z\sirius\annihila\390\wci0104a.vom  Infection: Annihilator.390
-u:\collection\dos\file_s-z\sirius\annihila\394\wci02192.vom  Infection: Annihilator.394
-u:\collection\dos\file_s-z\sirius\annihila\412\wci0105a.vom  Infection: Annihilator.412
-u:\collection\dos\file_s-z\sirius\annihila\416\wci02202.vom  Infection: Annihilator.416
-u:\collection\dos\file_s-z\sirius\annihila\449\virus.dos.anni.449  Infection: Annihilator.449 (exact)
-u:\collection\dos\file_s-z\sirius\annihila\453\wci02702.vom  Infection: Annihilator.453
-u:\collection\dos\file_s-z\sirius\annihila\510\wci02212.vom  Infection: Annihilator.510
-u:\collection\dos\file_s-z\sirius\annihila\548\wci02222.vom  Infection: Annihilator.548
-u:\collection\dos\file_s-z\sirius\annihila\596\wci02712.vom  Infection: Annihilator.596
-u:\collection\dos\file_s-z\sirius\annihila\599\wci02232.vom  Infection: Annihilator.599
-u:\collection\dos\file_s-z\sirius\annihila\603\wci0106a.vom  Infection: Annihilator.603
-u:\collection\dos\file_s-z\sirius\annihila\607\wci02242.vom  Infection: Annihilator.607
-u:\collection\dos\file_s-z\sirius\annihila\610\wci02252.vom  Infection: Annihilator.610
-u:\collection\dos\file_s-z\sirius\annihila\673\wci02262.vom  Infection: Annihilator.673
-u:\collection\dos\file_s-z\sirius\annihila\711\wci0107a.vom  Infection: Annihilator.711
-u:\collection\dos\file_s-z\sirius\annihila\733\wci0108a.vom  Infection: Annihilator.733
-u:\collection\dos\file_s-z\sirius\annihila\739\wci0109a.vom  Infection: Annihilator.739
+u:\collection\dos\file_s-z\sirius\annihilator\272\a\wci0097a.vom  Infection: Annihilator.272.A (exact)
+u:\collection\dos\file_s-z\sirius\annihilator\272\b\wci0098a.vom  Infection: Annihilator.272.B (exact)
+u:\collection\dos\file_s-z\sirius\annihilator\272\c\virus.dos.sirius.annihilator.272  Infection: Annihilator.272.C (exact)
+u:\collection\dos\file_s-z\sirius\annihilator\272\d\annihil272-0.vom  Infection: Annihilator.272.D (exact)
+u:\collection\dos\file_s-z\sirius\annihilator\272\d\annihil272-1.vom  Infection: Annihilator.272.D (exact)
+u:\collection\dos\file_s-z\sirius\annihilator\276\wci02122.vom  Infection: Annihilator.276 (exact)
+u:\collection\dos\file_s-z\sirius\annihilator\280\a\wci0099a.vom  Infection: Annihilator.280.A (exact)
+u:\collection\dos\file_s-z\sirius\annihilator\280\b\virus.dos.sirius.annihilator.280  Infection: Annihilator.280.B (exact)
+u:\collection\dos\file_s-z\sirius\annihilator\298\wci02132.vom  Infection: Annihilator.298 (exact)
+u:\collection\dos\file_s-z\sirius\annihilator\299\wci02142.vom  Infection: Annihilator.299 (exact)
+u:\collection\dos\file_s-z\sirius\annihilator\304\wci0100a.vom  Infection: Annihilator.304
+u:\collection\dos\file_s-z\sirius\annihilator\305\wci0101a.vom  Infection: Annihilator.305
+u:\collection\dos\file_s-z\sirius\annihilator\308\wci02152.vom  Infection: Annihilator.308
+u:\collection\dos\file_s-z\sirius\annihilator\314\wci02162.vom  Infection: Annihilator.314
+u:\collection\dos\file_s-z\sirius\annihilator\357\wci0102a.vom  Infection: Annihilator.357
+u:\collection\dos\file_s-z\sirius\annihilator\361\wci02172.vom  Infection: Annihilator.361
+u:\collection\dos\file_s-z\sirius\annihilator\379\wci0103a.vom  Infection: Annihilator.379
+u:\collection\dos\file_s-z\sirius\annihilator\383\wci02182.vom  Infection: Annihilator.383
+u:\collection\dos\file_s-z\sirius\annihilator\390\wci0104a.vom  Infection: Annihilator.390
+u:\collection\dos\file_s-z\sirius\annihilator\394\wci02192.vom  Infection: Annihilator.394
+u:\collection\dos\file_s-z\sirius\annihilator\412\wci0105a.vom  Infection: Annihilator.412
+u:\collection\dos\file_s-z\sirius\annihilator\416\wci02202.vom  Infection: Annihilator.416
+u:\collection\dos\file_s-z\sirius\annihilator\449\virus.dos.anni.449  Infection: Annihilator.449 (exact)
+u:\collection\dos\file_s-z\sirius\annihilator\453\wci02702.vom  Infection: Annihilator.453
+u:\collection\dos\file_s-z\sirius\annihilator\510\wci02212.vom  Infection: Annihilator.510
+u:\collection\dos\file_s-z\sirius\annihilator\548\wci02222.vom  Infection: Annihilator.548
+u:\collection\dos\file_s-z\sirius\annihilator\596\wci02712.vom  Infection: Annihilator.596
+u:\collection\dos\file_s-z\sirius\annihilator\599\wci02232.vom  Infection: Annihilator.599
+u:\collection\dos\file_s-z\sirius\annihilator\603\wci0106a.vom  Infection: Annihilator.603
+u:\collection\dos\file_s-z\sirius\annihilator\607\wci02242.vom  Infection: Annihilator.607
+u:\collection\dos\file_s-z\sirius\annihilator\610\wci02252.vom  Infection: Annihilator.610
+u:\collection\dos\file_s-z\sirius\annihilator\673\wci02262.vom  Infection: Annihilator.673
+u:\collection\dos\file_s-z\sirius\annihilator\711\wci0107a.vom  Infection: Annihilator.711
+u:\collection\dos\file_s-z\sirius\annihilator\733\wci0108a.vom  Infection: Annihilator.733
+u:\collection\dos\file_s-z\sirius\annihilator\739\wci0109a.vom  Infection: Annihilator.739
 u:\collection\dos\file_s-z\sirius\annres\0553\a\wci0111a.vom  Infection: Annres.553.A (exact)
 u:\collection\dos\file_s-z\sirius\annres\0553\b\virus.dos.sirius.mem.553  Infection: Annres.553.B (exact)
 u:\collection\dos\file_s-z\sirius\annres\0972\wci0112a.vom  Infection: Annres.972 (exact)
@@ -27814,6 +28215,12 @@ u:\collection\dos\file_s-z\smeg\0_2\queeg\c\t6.vom  Infection: SMEG.Queeg.3724.A
 u:\collection\dos\file_s-z\smeg\0_2\queeg\c\t6.vxe  Infection: SMEG.Queeg.3724.A (exact)
 u:\collection\dos\file_s-z\smeg\0_2\queeg\c\t7.vom  Infection: SMEG.Queeg.3724.A (exact)
 u:\collection\dos\file_s-z\smeg\0_2\queeg\c\t8.vom  Infection: SMEG.Queeg.3724.A (exact)
+u:\collection\dos\file_s-z\smeg\0_3\duwende\2513\smeg.duwende.2513.vom  Infection: Duwende.2513 (exact)
+u:\collection\dos\file_s-z\smeg\0_3\duwende\2514\smeg.duwende.2514.vom  Infection: Duwende.2514 (exact)
+u:\collection\dos\file_s-z\smeg\0_3\duwende\2519\smeg.duwende.2519.vom  Infection: Duwende.2519 (exact)
+u:\collection\dos\file_s-z\smeg\0_3\duwende\2533\smeg.duwende.2533.vom  Infection: Duwende.2533 (exact)
+u:\collection\dos\file_s-z\smeg\0_3\duwende\2534\smeg.duwende.2534.vom  Infection: Duwende.2534 (exact)
+u:\collection\dos\file_s-z\smeg\0_3\duwende\2539\smeg.duwende.2539.vom  Infection: Duwende.2539 (exact)
 u:\collection\dos\file_s-z\smeg\0_3\queeg\queeg-c.vxe  Infection: SMEG.Queeg.3714 (exact)
 u:\collection\dos\file_s-z\smeg\0_3\queeg\t1.vom  Infection: SMEG.Queeg.3714 (exact)
 u:\collection\dos\file_s-z\smeg\0_3\queeg\t1.vxe  Infection: SMEG.Queeg.3714 (exact)
@@ -29428,6 +29835,9 @@ u:\collection\dos\file_s-z\totaltra\2174\tottras1.vom  Infection: Total_Trash.21
 u:\collection\dos\file_s-z\toxic\208\lwm.vom  Infection: Toxic.208 (exact)
 u:\collection\dos\file_s-z\toxic\208\t10.vom  Infection: Toxic.208 (exact)
 u:\collection\dos\file_s-z\toxic\208\wci0191t.vom  Infection: Toxic.208 (exact)
+u:\collection\dos\file_s-z\tpe\1_0\duwende\1849\tpe.duwende.1849.vom  Infection: Duwende.1849 (exact)
+u:\collection\dos\file_s-z\tpe\1_0\duwende\1852\a\tpe.duwende.1852.a.vom  Infection: Duwende.1852.A (exact)
+u:\collection\dos\file_s-z\tpe\1_0\duwende\1852\a\virus.dos.tpe.duwende.1852  Infection: Duwende.1852.A (exact)
 u:\collection\dos\file_s-z\tpe\1_0\girafe\a\coffshp3.vom  Infection: Girafe.3000.A#TPE
 u:\collection\dos\file_s-z\tpe\1_0\girafe\a\girafe.vom  Infection: Girafe.3000.A#TPE
 u:\collection\dos\file_s-z\tpe\1_0\girafe\a\t1.vom  Infection: Girafe.3000.A#TPE
@@ -29503,6 +29913,9 @@ u:\collection\dos\file_s-z\tpe\1_0\girafe\f\t6.vom  Infection: Coffeeshop.3059
 u:\collection\dos\file_s-z\tpe\1_0\girafe\f\t6.vxe  Infection: Coffeeshop.3059
 u:\collection\dos\file_s-z\tpe\1_0\girafe\f\wci03094.vom  Infection: Coffeeshop.3059
 u:\collection\dos\file_s-z\tpe\1_0\girafe\f\wci03104.vom  Infection: Coffeeshop.3059
+u:\collection\dos\file_s-z\tpe\1_1\duwende\1871\tpe.duwende.1871.vom  Infection: Duwende.1871 (exact)
+u:\collection\dos\file_s-z\tpe\1_1\duwende\1872\tpe.duwende.1872.vom  Infection: Duwende.1872 (exact)
+u:\collection\dos\file_s-z\tpe\1_2\duwende\1848\a\tpe.duwende.1848.vom  Infection: Duwende.1848.A (exact)
 u:\collection\dos\file_s-z\tpe\1_3\aep\1758\tpe5.vom  Infection: DGME.1758#TPE
 u:\collection\dos\file_s-z\tpe\1_3\aep\1758\tpe6.vom  Infection: DGME.1758#TPE
 u:\collection\dos\file_s-z\tpe\1_3\aep\1758\tpeb.vom  Infection: DGME.1758#TPE
@@ -29580,6 +29993,7 @@ u:\collection\dos\file_s-z\tpe\1_3\civilwar\2063\t4.vom  Infection: Civil_War.20
 u:\collection\dos\file_s-z\tpe\1_3\civilwar\2063\t5.vom  Infection: Civil_War.2063#TPE
 u:\collection\dos\file_s-z\tpe\1_3\civilwar\2063\t6.vom  Infection: Civil_War.2063#TPE
 u:\collection\dos\file_s-z\tpe\1_3\civilwar\2222\virus.dos.tpe.civilwar.2222  Infection: Civil_War.2222#TPE
+u:\collection\dos\file_s-z\tpe\1_3\duwende\1904\a\tpe.duwende.1904.vom  Infection: Duwende.1904.A (exact)
 u:\collection\dos\file_s-z\tpe\1_3\kela\4568\wci0590t.vxe  Infection: Khai.4588#TPE
 u:\collection\dos\file_s-z\tpe\1_3\yb-1\2328\t3.vom  Infection: YB.2328 (exact)
 u:\collection\dos\file_s-z\tpe\1_3\yb-1\2328\t4.vom  Infection: YB.2328 (exact)
@@ -29619,6 +30033,7 @@ u:\collection\dos\file_s-z\tpe\1_4\civilwar\2223\t7.vom  Infection: Civil_War.22
 u:\collection\dos\file_s-z\tpe\1_4\civilwar\2223\t8.vom  Infection: Civil_War.2223#TPE
 u:\collection\dos\file_s-z\tpe\1_4\civilwar\2223\t9.vom  Infection: Civil_War.2223#TPE
 u:\collection\dos\file_s-z\tpe\1_4\civilwar\2223\tpev.vom  Infection: Civil_War.2223#TPE
+u:\collection\dos\file_s-z\tpe\1_4\duwende\2130\a\tpe.duwende.2130.vom  Infection: Duwende.2130.A (exact)
 u:\collection\dos\file_s-z\tpe\1_4\eccles\lord.vom  Infection: TPE_demo.3191 (exact)
 u:\collection\dos\file_s-z\tpe\1_4\eccles\wci00264.vom  Infection: TPE_demo.3191 (exact)
 u:\collection\dos\file_s-z\tpe\1_4\gambit\t1.vom  Infection: Gambit.2280
@@ -32695,6 +33110,10 @@ u:\collection\dos\file_s-z\vcl\diarrhea\1222\a\diarrh-b.vom  Infection: VCL.1222
 u:\collection\dos\file_s-z\vcl\diarrhea\1222\b\wci0133v.vom  Infection: VCL.1222.B (exact)
 u:\collection\dos\file_s-z\vcl\diogenes\diogenes.vom  Infection: VCL.846
 u:\collection\dos\file_s-z\vcl\diogenes\wci03134.vom  Infection: VCL.846
+u:\collection\dos\file_s-z\vcl\direct\339\virus.dos.vcl.339  Infection: Direct.339 (exact)
+u:\collection\dos\file_s-z\vcl\direct\351\b\virus.dos.vcl.351  Infection: Direct.351.B (exact)
+u:\collection\dos\file_s-z\vcl\direct\371\virus.dos.univ.371  Infection: Direct.371 (exact)
+u:\collection\dos\file_s-z\vcl\dirpha\2522\virus.dos.dirpha.2522  Infection: Dirpha.2522 - Dropper
 u:\collection\dos\file_s-z\vcl\dirup\498\a\c832f820.vom  Infection: VCL.498.A (exact)
 u:\collection\dos\file_s-z\vcl\dirup\498\a\t1.vom  Infection: VCL.498.A (exact)
 u:\collection\dos\file_s-z\vcl\dirup\498\a\t3.vom  Infection: VCL.498.A (exact)
@@ -37752,7 +38171,8 @@ u:\collection\dos\file_s-z\yadeka\3064\t2.vom  Infection: Yad.2966
 u:\collection\dos\file_s-z\yadeka\3064\yade.vom  Infection: Yad.2966
 u:\collection\dos\file_s-z\yafo\yafo.vom  Infection: Yafo.328.B (exact)
 u:\collection\dos\file_s-z\yafo\yafo2.vom  Infection: Yafo.328.A (exact)
-u:\collection\dos\file_s-z\yam\0334\yam_exe.vom  Infection: Admiral.334.A (exact) - Dropper
+u:\collection\dos\file_s-z\yam\0334\a\yam334a.vom  Infection: Admiral.334.A (exact) - Dropper
+u:\collection\dos\file_s-z\yam\0334\b\yam334b0.vom  Infection: Admiral.334.B (exact) - Dropper
 u:\collection\dos\file_s-z\yam\1136\64blazer.vxe  Infection: Yam.1136
 u:\collection\dos\file_s-z\yam\1136\m-mathts.vom  Infection: Yam.1136
 u:\collection\dos\file_s-z\yam\1136\mathtest.vom  Infection: Yam.1136
@@ -42493,14 +42913,14 @@ u:\collection\wince\trojan\brador\a\WinCE.Brador.vxe  is a security risk named W
 
 Results of virus scanning:
 
-Files: 47386
+Files: 47824
 MBRs: 1
 Boot sectors: 1
-Objects scanned: 43853
-Infected: 42033
+Objects scanned: 44291
+Infected: 42453
 Suspicious: 437
 Disinfected: 0
 Deleted: 0
 Renamed: 0
 
-Time: 1:54
+Time: 2:00
