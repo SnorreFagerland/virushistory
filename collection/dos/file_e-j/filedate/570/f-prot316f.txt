@@ -1,0 +1,35 @@
+Virus scanning report  -  18 January 2025 @ 9:03
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\!4240.vxe->(PKLITE)  Infection: New or modified variant of Filedate_11
+u:\570.vxe  Infection: Filedate_11.570.A (exact)
+u:\fdate570.vxe  contains Filedate_11.570 (non-working)
+
+Results of virus scanning:
+
+Files: 4
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 4
+Infected: 3
+Suspicious: 0
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00
