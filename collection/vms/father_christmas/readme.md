@@ -1,7 +1,21 @@
+<h3>Malware name	: - </h3><br>
 
-<h2>Father Christmas</h2>
-<br>
-<br>
-The DECNET worm of 1988. Read on wikipedia:<br>
-https://en.wikipedia.org/wiki/Father_Christmas_(computer_worm)
-<br>
+| **Attribute**          | **Details** |
+|------------------------|------------|
+| **Known aliases**      | - |
+| **Type**              | - |
+| **Size** | - |
+| **Contains text**     | - |
+| **Screen effects**    | - |
+| **Destructivity**     | - |
+| **Seen in the wild**  | - |
+| **Notes and comments** | - |
+| **Screenshot** | - |
+
+
+
+
+
+
+
+
