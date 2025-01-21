@@ -3,7 +3,7 @@
 | **Attribute**          | **Details** |
 |------------------------|------------|
 | **Known aliases**      | - |
-| **Type**              | - |
+| **Type**              | Direct action prepending COM file infector |
 | **Size** | 130 bytes |
 | **Contains text**     | - |
 | **Screen effects**    | - |
