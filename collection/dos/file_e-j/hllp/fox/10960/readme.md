@@ -1,10 +1,10 @@
-<h3>Malware name	: - </h3><br>
+<h3>Malware name	: Hllp.Fox.10960 </h3><br>
 
 | **Attribute**          | **Details** |
 |------------------------|------------|
 | **Known aliases**      | - |
 | **Type**              | - |
-| **Size** | - |
+| **Size** | 10960 bytes |
 | **Contains text**     | - |
 | **Screen effects**    | - |
 | **Destructivity**     | - |

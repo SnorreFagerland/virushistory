@@ -1,10 +1,10 @@
-<h3>Malware name	: - </h3><br>
+<h3>Malware name	: Hllp.Buka.6978 </h3><br>
 
 | **Attribute**          | **Details** |
 |------------------------|------------|
 | **Known aliases**      | - |
 | **Type**              | - |
-| **Size** | - |
+| **Size** | 6978 bytes |
 | **Contains text**     | - |
 | **Screen effects**    | - |
 | **Destructivity**     | - |

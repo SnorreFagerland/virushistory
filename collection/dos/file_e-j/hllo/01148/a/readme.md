@@ -1,10 +1,10 @@
-<h3>Malware name	: - </h3><br>
+<h3>Malware name	: Hllo.01148.A </h3><br>
 
 | **Attribute**          | **Details** |
 |------------------------|------------|
 | **Known aliases**      | - |
 | **Type**              | - |
-| **Size** | - |
+| **Size** | 01148 bytes |
 | **Contains text**     | - |
 | **Screen effects**    | - |
 | **Destructivity**     | - |

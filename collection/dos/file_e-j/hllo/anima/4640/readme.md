@@ -1,10 +1,10 @@
-<h3>Malware name	: - </h3><br>
+<h3>Malware name	: Hllo.Anima.4640 </h3><br>
 
 | **Attribute**          | **Details** |
 |------------------------|------------|
 | **Known aliases**      | - |
 | **Type**              | - |
-| **Size** | - |
+| **Size** | 4640 bytes |
 | **Contains text**     | - |
 | **Screen effects**    | - |
 | **Destructivity**     | - |

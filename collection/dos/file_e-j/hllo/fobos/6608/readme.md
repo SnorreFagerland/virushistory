@@ -1,10 +1,10 @@
-<h3>Malware name	: - </h3><br>
+<h3>Malware name	: Hllo.Fobos.6608 </h3><br>
 
 | **Attribute**          | **Details** |
 |------------------------|------------|
 | **Known aliases**      | - |
 | **Type**              | - |
-| **Size** | - |
+| **Size** | 6608 bytes |
 | **Contains text**     | - |
 | **Screen effects**    | - |
 | **Destructivity**     | - |
