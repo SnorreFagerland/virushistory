@@ -1,4 +1,4 @@
-Virus scanning report  -  19 January 2025 @ 12:42
+Virus scanning report  -  25 January 2025 @ 11:16
 
 F-PROT ANTIVIRUS
 Program version: 3.16f
@@ -305,6 +305,8 @@ u:\collection\dos\boot\happybox\happybox.boo  Infection: Happybox image file (ex
 u:\collection\dos\boot\hardcore\a\vladbios.boo  Infection: Hardcore image file (exact)
 u:\collection\dos\boot\hardcore\b\hard2.c1  Infection: Hardcore.B image file (exact)
 u:\collection\dos\boot\hdkiller\hdkiller.boo  Infection: HDkiller image file (exact)
+u:\collection\dos\boot\hemlock\3183\wci01183.td0  Infection: Hemlock.3183.unknown? image file
+u:\collection\dos\boot\hikaru\a\virus.boot.hikaru.a  Infection: Hikaru.A image file (exact)
 u:\collection\dos\boot\hippie\hippie.boo  Infection: Hippie image file (exact)
 u:\collection\dos\boot\horse_boot\a\horse_ba.boo  Infection: Horse_Boot.A image file (exact)
 u:\collection\dos\boot\horse_boot\b\horse_bb.boo  Infection: Horse_Boot.B image file (exact)
@@ -658,9 +660,13 @@ u:\collection\dos\boot\zeus\zeus.boo  Infection: Zeus image file (bad sample) (e
 u:\collection\dos\boot\zimbab\wci05673.boo  Infection: Zimbab image file (exact)
 u:\collection\dos\boot\zuganov\Virus.Boot.Secretar  Infection: Zuganov image file (exact)
 u:\collection\dos\boot\_1526\virus_2455.boo  Infection: _1526 image file
-u:\collection\dos\file_a-d\1000_years\791\a\3935ba36b6e1816fe66a0167050f75fff85390ad5a61a7c266b4bf89a9a2e090  Infection: Earth_Survival.791
-u:\collection\dos\file_a-d\1000_years\791\a\Virus.DOS.1000Years.791.a  Infection: Earth_Survival.791
-u:\collection\dos\file_a-d\1000_years\791\b\Virus.DOS.1000Years.791.b  Infection: Earth_Survival.791
+u:\collection\dos\file_a-d\1000_years\791\a\DUMP32.vom  Infection: Earth_Survival.791
+u:\collection\dos\file_a-d\1000_years\791\a\LWM.vom  Infection: Earth_Survival.791
+u:\collection\dos\file_a-d\1000_years\791\a\Virus.DOS.1000Years.791.b  Infection: Earth_Survival.791
+u:\collection\dos\file_a-d\1000_years\791\b\1000years.vom  Infection: Earth_Survival.791
+u:\collection\dos\file_a-d\1000_years\791\b\DUMP32.vom  Infection: Earth_Survival.791
+u:\collection\dos\file_a-d\1000_years\791\b\LWM.vom  Infection: Earth_Survival.791
+u:\collection\dos\file_a-d\1000_years\791\b\Virus.DOS.1000Years.791.a  Infection: Earth_Survival.791
 u:\collection\dos\file_a-d\10_past_3\748\a\10p.vom  Infection: 10_Past_3.748
 u:\collection\dos\file_a-d\10_past_3\789\Virus.DOS.10past3.b  Infection: 10_Past_3.789
 u:\collection\dos\file_a-d\2_up\6000\Virus.DOS.2up.6000  Infection: 2-up.6000
@@ -2314,6 +2320,7 @@ u:\collection\dos\file_a-d\beer\3774\virus.dos.beer.3774  Infection: Beer.3774
 u:\collection\dos\file_a-d\beet\2755\virus.dos.beethoven.2752  Infection: Beet.2755 - Dropper
 u:\collection\dos\file_a-d\beethoven\1721\virus.dos.beethoven  Infection: Beethoven.1721
 u:\collection\dos\file_a-d\beetle\virus.dos.bigv.1441  Infection: Beetle
+u:\collection\dos\file_a-d\before\2915\virus.dos.before.2915  Infection: HLLP.2915
 u:\collection\dos\file_a-d\beholder\0304\virus.dos.vicky.demon.304  Infection: Beholder.304 (exact)
 u:\collection\dos\file_a-d\beholder\1186\Virus.DOS.Vicky.Demon.1186  Infection: Beholder.1186 (exact) - Dropper
 u:\collection\dos\file_a-d\belarus\2119\virus.dos.bel.2124  Infection: Belarus.2119
@@ -13849,6 +13856,8 @@ u:\collection\dos\file_e-j\hfr\670\virus.dos.hfr.670  Infection: HFR.670 (exact)
 u:\collection\dos\file_e-j\hfr\702\hfr702.vom  Infection: HFR.702
 u:\collection\dos\file_e-j\hfr\702\t1.vxe  Infection: HFR.702
 u:\collection\dos\file_e-j\hfr\702\ta.vxe  Infection: HFR.702
+u:\collection\dos\file_e-j\hg\448\virus.dos.hg.448  Infection: HG.448 (exact)
+u:\collection\dos\file_e-j\hg\450\virus.dos.hg.450  Infection: HG.450 (exact)
 u:\collection\dos\file_e-j\hh&h\4087\hh&h.vom  Infection: HH_H.4087.A (exact)
 u:\collection\dos\file_e-j\hh&h\4087\hh&hh.vom  Infection: HH_H.4087.A (exact)
 u:\collection\dos\file_e-j\hh&h\4091\a\gmb.vom  Infection: HH_H.4091.A (exact)
@@ -13858,17 +13867,25 @@ u:\collection\dos\file_e-j\hh&h\4091\b\hh&h.vom  Infection: HH_H.4091.A (exact)
 u:\collection\dos\file_e-j\hh&h\4091\b\v2855.vom  Infection: HH_H.4091.A (exact)
 u:\collection\dos\file_e-j\hh&h\4091\c\hvirus.vom  Infection: HH_H.4091.A (exact)
 u:\collection\dos\file_e-j\hh&h\4093\gomb.vom  Infection: HH_H.4093.A (exact)
+u:\collection\dos\file_e-j\hh&h\4331\LWM.vom  Infection: HH_H.4331
+u:\collection\dos\file_e-j\hh&h\4331\NETRUN.vom  Infection: HH_H.4331
+u:\collection\dos\file_e-j\hh&h\4331\virus.dos.hhnhh.4115  Infection: HH_H.4331
+u:\collection\dos\file_e-j\hh&h\4331\virus.dos.hhnhh.4331  Infection: HH_H.4331
 u:\collection\dos\file_e-j\hi\378\378.vom  Infection: Hi.378 (exact)
-u:\collection\dos\file_e-j\hi\460\hi-460.vxe  Infection: Hi.460.A (exact)
-u:\collection\dos\file_e-j\hi\460\hi.vxe  Infection: Hi.460.damaged?
-u:\collection\dos\file_e-j\hi\460\hi460.vxe  Infection: Hi.460.A (exact)
-u:\collection\dos\file_e-j\hi\460\hi460~1.vom  Infection: Hi.460.A (exact) - Dropper
-u:\collection\dos\file_e-j\hi\460\hi460~1.vxe  Infection: Hi.460.A (exact)
-u:\collection\dos\file_e-j\hi\460\hivirus.vxe  Infection: Hi.460.A (exact)
+u:\collection\dos\file_e-j\hi\460\a\hi-460.vxe  Infection: Hi.460.A (exact)
+u:\collection\dos\file_e-j\hi\460\a\hi.vxe  Infection: Hi.460.damaged?
+u:\collection\dos\file_e-j\hi\460\a\hi460.vxe  Infection: Hi.460.A (exact)
+u:\collection\dos\file_e-j\hi\460\a\hi460~1.vom  Infection: Hi.460.A (exact) - Dropper
+u:\collection\dos\file_e-j\hi\460\a\hi460~1.vxe  Infection: Hi.460.A (exact)
+u:\collection\dos\file_e-j\hi\460\a\hivirus.vxe  Infection: Hi.460.A (exact)
+u:\collection\dos\file_e-j\hi\460\b\virus.dos.hi.460.b  Infection: Hi.460.B (exact)
 u:\collection\dos\file_e-j\hi\468\hi468.vom  Infection: Hi.468 (exact)
 u:\collection\dos\file_e-j\hi\468\t7.vom  Infection: Hi.468 (exact)
 u:\collection\dos\file_e-j\hi\468\tf.vom  Infection: Hi.468 (exact)
 u:\collection\dos\file_e-j\hi\512\hi-512.vxe  Infection: Hi.512 (exact)
+u:\collection\dos\file_e-j\hi\671\t1.vxe  Infection: Hi.671 (exact)
+u:\collection\dos\file_e-j\hi\671\t3.vxe  Infection: Hi.671 (exact)
+u:\collection\dos\file_e-j\hi\671\virus.dos.hi.671  Infection: Hi.671 (exact)
 u:\collection\dos\file_e-j\hi\680\hi-680.vxe  Infection: Hi.680 (exact)
 u:\collection\dos\file_e-j\hi\764\hi-764.vxe  Infection: Hi.764 (exact)
 u:\collection\dos\file_e-j\hi\764\rav-764.vxe  Infection: Hi.764 (exact)
@@ -13892,6 +13909,7 @@ u:\collection\dos\file_e-j\hi\895\capcana1.vom  Infection: Hi.895
 u:\collection\dos\file_e-j\hi\895\capcana1.vxe  Infection: Hi.895
 u:\collection\dos\file_e-j\hi\895\hi-895.vxe  Infection: Hi.895
 u:\collection\dos\file_e-j\hi\895\ncm.vxe  Infection: Hi.895
+u:\collection\dos\file_e-j\hiatus\988\virus.dos.halloween.988  Infection: Hiatus.988 (exact)
 u:\collection\dos\file_e-j\hidenowt\a\hiden.vom  Infection: HideNowt.1741.A (exact)
 u:\collection\dos\file_e-j\hidenowt\a\hidenowt.vom  Infection: HideNowt.1741.A (exact)
 u:\collection\dos\file_e-j\hidenowt\a\hideno~1.vom  Infection: HideNowt.1741.A (exact)
@@ -13918,11 +13936,25 @@ u:\collection\dos\file_e-j\hideous\d\min2.vxe  Infection: Hideous.1024.D (exact)
 u:\collection\dos\file_e-j\hideous\d\t6.vom  Infection: Hideous.1024.D (exact)
 u:\collection\dos\file_e-j\hideous\d\t6.vxe  Infection: Hideous.1024.D (exact)
 u:\collection\dos\file_e-j\hideous\e\hidhog-d.vom  Infection: Hideous.1024.E (exact)
+u:\collection\dos\file_e-j\hideous\f\t1.vom  Infection: Hideous.1024.unknown?
+u:\collection\dos\file_e-j\hideous\f\t3.vom  Infection: Hideous.1024.unknown?
+u:\collection\dos\file_e-j\hideous\f\virus.dos.hh.1024.b  Infection: Hideous.1024.unknown?
+u:\collection\dos\file_e-j\hider\899\virus.dos.hider_ii.599  Infection: Hider.899
 u:\collection\dos\file_e-j\hideseek\hide&see.vom  Infection: Hide_and_Seek.709
 u:\collection\dos\file_e-j\hideseek\hideand.vom  Infection: Hide_and_Seek.709
 u:\collection\dos\file_e-j\highlander\477\highl.vom  Infection: Highlander.467
 u:\collection\dos\file_e-j\highlander\477\v3030.vom  Infection: Highlander.467
 u:\collection\dos\file_e-j\highlander\478\highland.vom  Infection: Highlander.478
+u:\collection\dos\file_e-j\hinder\380\virus.dos.hinder.380  Infection: Hinder.380 (exact)
+u:\collection\dos\file_e-j\hiny\690\virus.dos.hny.690  Infection: Hiny.690
+u:\collection\dos\file_e-j\hip\200\a\NETRUN.vom  Infection: Hip.200
+u:\collection\dos\file_e-j\hip\200\a\t1.vom  Infection: Hip.200
+u:\collection\dos\file_e-j\hip\200\a\t3.vom  Infection: Hip.200
+u:\collection\dos\file_e-j\hip\200\b\a.vom  Infection: Hip.200
+u:\collection\dos\file_e-j\hip\200\b\DUMP32.vom  Infection: Hip.200
+u:\collection\dos\file_e-j\hip\200\b\t1.vom  Infection: Hip.200
+u:\collection\dos\file_e-j\hip\200\b\t3.vom  Infection: Hip.200
+u:\collection\dos\file_e-j\hip\209\virus.dos.hip.209  Infection: Hip.209 (exact)
 u:\collection\dos\file_e-j\hiperion\248\gh1.vxe  Infection: Hiperion.248.A (exact) - Dropper
 u:\collection\dos\file_e-j\hiperion\248\t4.vom  Infection: Hiperion.248.A (exact)
 u:\collection\dos\file_e-j\hiperion\248\t5.vom  Infection: Hiperion.248.A (exact)
@@ -13930,26 +13962,66 @@ u:\collection\dos\file_e-j\hiperion\249\gh.vxe  Infection: Hiperion.249.A (exact
 u:\collection\dos\file_e-j\hiperion\254\hip.vom  Infection: Hiperion.254
 u:\collection\dos\file_e-j\hiperion\254\hiper254.vom  Infection: Hiperion.254
 u:\collection\dos\file_e-j\hiroshima\826\wci03793.vom  Infection: Hiroshima.826
+u:\collection\dos\file_e-j\hirsel\4096\virus.dos.eka.4096  Infection: Hirsel.4096 (exact)
 u:\collection\dos\file_e-j\hitchcock\1238\wci0103h.vom  Infection: Hitchcock.1238 (exact)
-u:\collection\dos\file_e-j\hitchcock\1247\hitchc~2.vom  Infection: Hitchcock.1247.A (exact)
-u:\collection\dos\file_e-j\hitchcock\1247\hitchkok.vom  Infection: Hitchcock.1247.A (exact)
-u:\collection\dos\file_e-j\hitchcock\1247\v3035.vom  Infection: Hitchcock.1247.A (exact)
+u:\collection\dos\file_e-j\hitchcock\1247\a\hitchc~2.vom  Infection: Hitchcock.1247.A (exact)
+u:\collection\dos\file_e-j\hitchcock\1247\a\hitchkok.vom  Infection: Hitchcock.1247.A (exact)
+u:\collection\dos\file_e-j\hitchcock\1247\a\v3035.vom  Infection: Hitchcock.1247.A (exact)
+u:\collection\dos\file_e-j\hitchcock\1247\c\virus.dos.hitch.1247.b  Infection: Hitchcock.1247.C (exact)
+u:\collection\dos\file_e-j\hi_sea\373\virus.dos.vcl.lisa.290  Infection: Hi_Sea.373 (exact)
+u:\collection\dos\file_e-j\hkill\342\hkill.342  Infection: HKill.342 (exact)
 u:\collection\dos\file_e-j\hllc\03351\hlc3351.vom->(DIET)  Infection: HLLC.3351
+u:\collection\dos\file_e-j\hllc\04082\virus.dos.hllc.4194  Infection: HLLC.4082 (exact) - Dropper
+u:\collection\dos\file_e-j\hllc\04288\virus.dos.hllc.3612  Infection: HLLC.4288
+u:\collection\dos\file_e-j\hllc\04320\virus.dos.hllc.loruba.4320  Infection: HLLO.4320
+u:\collection\dos\file_e-j\hllc\04336\a\virus.dos.hllc.4336  Infection: HLLC.4336.A
 u:\collection\dos\file_e-j\hllc\04528\hllc4528.vxe  Infection: HLLC.3351
+u:\collection\dos\file_e-j\hllc\04544\a\virus.dos.hllc.4554  Infection: HLLC.4544.A (exact)
+u:\collection\dos\file_e-j\hllc\04688\virus.dos.hllc.4688  Infection: HLLC.4688
 u:\collection\dos\file_e-j\hllc\04768\a\cris40e.vom  Infection: HLLC.4768.A (exact)
 u:\collection\dos\file_e-j\hllc\04768\a\cris60e.vom  Infection: HLLC.4768.A (exact)
 u:\collection\dos\file_e-j\hllc\04768\a\hlc4768a.vxe  Infection: HLLC.4768.A (exact)
 u:\collection\dos\file_e-j\hllc\04768\b\lindalou.vxe  Infection: HLLC.4768.B (exact)
+u:\collection\dos\file_e-j\hllc\05000\a\virus.dos.hllc.5000.b  Infection: HLLC.5000.A
+u:\collection\dos\file_e-j\hllc\05000\b\virus.dos.hllc.5000.c  Infection: HLLC.5000.B (exact)
+u:\collection\dos\file_e-j\hllc\05296\virus.dos.hllc.5296  Infection: HLLC.5296
+u:\collection\dos\file_e-j\hllc\05376\virus.dos.hllc.5376  Infection: HLLC.5376 (exact)
+u:\collection\dos\file_e-j\hllc\05568\virus.dos.hllc.5568  Infection: HLLO.5568
+u:\collection\dos\file_e-j\hllc\05696\virus.dos.hllc.5696  Infection: HLLC.5696 (exact)
+u:\collection\dos\file_e-j\hllc\05728\a\virus.dos.hllc.5728.a  Infection: HLLC.5728.A
+u:\collection\dos\file_e-j\hllc\05728\b\virus.dos.hllc.5728.b  Infection: HLLC.5728.B (exact)
+u:\collection\dos\file_e-j\hllc\05792\virus.dos.hllc.5792  Infection: HLLC.5792 (exact)
 u:\collection\dos\file_e-j\hllc\05808\quicksil.vom  Infection: HLLC.5808.B
+u:\collection\dos\file_e-j\hllc\05824\a\virus.dos.hllc.5824  Infection: HLLC.5824.A
+u:\collection\dos\file_e-j\hllc\05840\virus.dos.hllc.5840  Infection: HLLC.5840
+u:\collection\dos\file_e-j\hllc\05888\a\virus.dos.hllc.energy.5888  Infection: HLLC.5888
+u:\collection\dos\file_e-j\hllc\05888\b\virus.dos.hllc.okilo.5888  Infection: HLLC.5888
+u:\collection\dos\file_e-j\hllc\06032\virus.dos.hllc.revc.6048  Infection: HLLC.6032
+u:\collection\dos\file_e-j\hllc\07392\virus.dos.hllc.7920  Infection: HLLC.7392
+u:\collection\dos\file_e-j\hllc\08034\plane.vom  Infection: HLLC.8034
+u:\collection\dos\file_e-j\hllc\08034\virus.dos.hllc.8304  Infection: HLLC.8034
 u:\collection\dos\file_e-j\hllc\08096\hllc8096.vxe  Infection: HLLO.8096
 u:\collection\dos\file_e-j\hllc\08736\hllc87~1.vxe  Infection: HLLC.8736
 u:\collection\dos\file_e-j\hllc\08902\pc_alive.vxe  Infection: HLLC.8902 (exact)
 u:\collection\dos\file_e-j\hllc\12304\wci0294h.vxe  Infection: HLLC.12304
+u:\collection\dos\file_e-j\hllc\12368\virus.dos.hllc.12368  Infection: HLLC.12368 (exact)
+u:\collection\dos\file_e-j\hllc\12573\virus.dos.hllc.12573  Infection: HLLC.12573
+u:\collection\dos\file_e-j\hllc\12880\virus.dos.hllc.12880  Infection: HLLO.12880
 u:\collection\dos\file_e-j\hllc\13277\hlc13277.vxe  Infection: HLLO.13277
+u:\collection\dos\file_e-j\hllc\13760\virus.dos.hllc.13760  Infection: HLLC.13760 (exact)
+u:\collection\dos\file_e-j\hllc\14000\a\virus.dos.hllc.14000  Infection: HLLC.14000.A (exact)
+u:\collection\dos\file_e-j\hllc\14795\virus.dos.hllc.14795  Infection: HLLC.14795
 u:\collection\dos\file_e-j\hllc\14880\wci0106h.vxe  Infection: HLLC.14880
+u:\collection\dos\file_e-j\hllc\16248\virus.dos.hllc.16240  Infection: HLLC.16248 (exact)
+u:\collection\dos\file_e-j\hllc\17552\virus.dos.hllc.17552  Infection: HLLC.17552 (exact)
+u:\collection\dos\file_e-j\hllc\19376\virus.dos.hllc.19376  Infection: HLLC.19376
+u:\collection\dos\file_e-j\hllc\21904\virus.dos.hllc.21904  Infection: HLLC.21904
+u:\collection\dos\file_e-j\hllc\adinf\5712\virus.dos.hllp.adinf.5712  Infection: HLLC.5712
 u:\collection\dos\file_e-j\hllc\aids2\aids-ii.vom  Infection: HLLC.8064
+u:\collection\dos\file_e-j\hllc\anser\6544\virus.dos.hllc.anser.6544  Infection: HLLC.6544.A (exact)
 u:\collection\dos\file_e-j\hllc\ansjovis\12695\ansjovis.vxe->(LZEXE)  Infection: HLLC.12695
 u:\collection\dos\file_e-j\hllc\april1st\wci0656a.vxe->(PKLITE)  Infection: HLLO.27269
+u:\collection\dos\file_e-j\hllc\bug777\10000\virus.dos.hllc.10000  Infection: HLLC.10000
 u:\collection\dos\file_e-j\hllc\captain\wci0114h.vxe  Infection: HLLC.9936
 u:\collection\dos\file_e-j\hllc\chrstmas\06888\a\6888.vxe->(DIET)  Infection: HLLC.15264
 u:\collection\dos\file_e-j\hllc\chrstmas\06888\b\xmas.vxe  is a corrupted or intended virus
@@ -13988,19 +14060,33 @@ u:\collection\dos\file_e-j\hllc\cornucop\k\010.vxe->(PKLITE)->(ICE)  Infection: 
 u:\collection\dos\file_e-j\hllc\cornucop\k\unke0162.vxe->(PKLITE)->(ICE)  Infection: Cornucopia
 u:\collection\dos\file_e-j\hllc\cornucop\l\unke0167.vxe->(PKLITE)->(ICE)  Infection: Cornucopia
 u:\collection\dos\file_e-j\hllc\cornucop\m\unke0149.vxe->(PKLITE)->(ICE)  Infection: Cornucopia
+u:\collection\dos\file_e-j\hllc\cp-man\virus.dos.hllc.cp-man  Infection: HLLO.12288.D
 u:\collection\dos\file_e-j\hllc\crawen\8306\hlc-c306.vom->(PKLITE)  Infection: HLLC.12256
 u:\collection\dos\file_e-j\hllc\crawen\8306\hllccr~1.vom->(PKLITE)  Infection: HLLC.12256
 u:\collection\dos\file_e-j\hllc\crawen\8516\crawen.vom->(PKLITE)  Infection: HLLC.12672
+u:\collection\dos\file_e-j\hllc\crawly\6624\b\virus.dos.crawly.6624  Infection: HLLC.6624.B (exact)
+u:\collection\dos\file_e-j\hllc\cruz\8210\virus.dos.hllc.cruz.8210  Infection: HLLC.8210
+u:\collection\dos\file_e-j\hllc\dia\7200\virus.dos.hllc.dia.7200  Infection: HLLC.7200
 u:\collection\dos\file_e-j\hllc\dope\4870\a\dopu.vom->(PKLITE)  Infection: HLLC.4870 (exact)
 u:\collection\dos\file_e-j\hllc\dope\4870\b\dopeu.vom  Infection: HLLC.4870 (exact)
 u:\collection\dos\file_e-j\hllc\dope\5219\1273a611.vxe->(PKLITE)  Infection: HLLC.5219 (exact)
 u:\collection\dos\file_e-j\hllc\dope\6830\dopeh.vom  Infection: HLLC.5219 (exact)
 u:\collection\dos\file_e-j\hllc\doren\9904\wci00372.vom  Infection: HLLC.9904
+u:\collection\dos\file_e-j\hllc\dred\6128\virus.dos.hllc.dred.6416  Infection: HLLC.6128 (exact) - Dropper
+u:\collection\dos\file_e-j\hllc\duke\demo\6016\virus.dos.hllc.6016  Infection: HLLC.5498 (exact)
+u:\collection\dos\file_e-j\hllc\duke\friend\4496\virus.dos.hllc.4496  Infection: HLLC.4496 (exact)
+u:\collection\dos\file_e-j\hllc\duke\friend\4715\virus.dos.hllc.friend.4752  Infection: HLLC.4715 (exact)
+u:\collection\dos\file_e-j\hllc\duke\friend\4752\b\virus.dos.hllc.4752  Infection: HLLC.4752.B
+u:\collection\dos\file_e-j\hllc\duke\friend\5216\virus.dos.hllc.mf.5216  Infection: HLLC.5216
+u:\collection\dos\file_e-j\hllc\duke\mini\4528\a\virus.dos.hllc.duke.4528  Infection: HLLC.4528.A (exact)
+u:\collection\dos\file_e-j\hllc\duke\neighbor\4480\virus.dos.hllc.4480  Infection: HLLO.4480.C (exact)
+u:\collection\dos\file_e-j\hllc\duke\tppe\demo\13936\virus.dos.hllc.tppe.13936  Infection: HLLC.12768 (exact) - Dropper
 u:\collection\dos\file_e-j\hllc\eagle\08001\b\unobe.vom  Infection: HLLC.Globe.7705
+u:\collection\dos\file_e-j\hllc\elektron\6608\virus.dos.hllc.elektron.6608  Infection: HLLC.6608 (exact)
+u:\collection\dos\file_e-j\hllc\energy\6480\virus.dos.hllc.energy.6480  Infection: HLLC.6480
+u:\collection\dos\file_e-j\hllc\energy\6496\virus.dos.hllc.energy.6496  Infection: HLLC.6496
 u:\collection\dos\file_e-j\hllc\enrico\a\enrico.vom  Infection: HLLC.Enrico
-u:\collection\dos\file_e-j\hllc\enrico\b\enrico-b.vom  contains HLLC.4444 (non-working)
-u:\collection\dos\file_e-j\hllc\enrico\b\t1.vom  contains HLLC.4444 (non-working)
-u:\collection\dos\file_e-j\hllc\enrico\b\t2.vom  contains HLLC.4444 (non-working)
+u:\collection\dos\file_e-j\hllc\enrico\b\wci07072.vxe  Infection: HLLC.4444
 u:\collection\dos\file_e-j\hllc\enviro\6752\environm.vom  Infection: HLLC.6752
 u:\collection\dos\file_e-j\hllc\evenbeep\a\lz.vxe->(LZEXE)  Infection: HLLC.Even_Beeper
 u:\collection\dos\file_e-j\hllc\evenbeep\b\v2885.vom->(LZEXE)  Infection: HLLC.Even_Beeper
@@ -14012,33 +14098,60 @@ u:\collection\dos\file_e-j\hllc\evenbeep\e\nu.vom  Infection: HLLC.Even_Beeper
 u:\collection\dos\file_e-j\hllc\evenbeep\f\t1000e.vom  Infection: HLLC.Even_Beeper
 u:\collection\dos\file_e-j\hllc\evenbeep\f\trace.vom  Infection: HLLC.Even_Beeper
 u:\collection\dos\file_e-j\hllc\fataler\bv1basic.vxe  is a destructive program
+u:\collection\dos\file_e-j\hllc\figvam\7696\virus.dos.hllp.figvam.8240  Infection: HLLC.7696 (exact)
 u:\collection\dos\file_e-j\hllc\findme\12736\upworm.vxe  Infection: HLLC.12736
 u:\collection\dos\file_e-j\hllc\globe\6610\virus3.vom->(DIET)  Infection: HLLC.Globe.6610
 u:\collection\dos\file_e-j\hllc\globe\7705\hlcg7705.vom->(PKLITE)  Infection: HLLC.Globe.7705
 u:\collection\dos\file_e-j\hllc\globe\8001\a\globe.vxe  is a corrupted or intended virus
-u:\collection\dos\file_e-j\hllc\globe\8001\c\global-b.vom  contains HLLC.8001.D (non-working)
+u:\collection\dos\file_e-j\hllc\globe\8001\b\virus.dos.hllc.globe.8001.d  Infection: HLLC.8001.B (exact)
+u:\collection\dos\file_e-j\hllc\globe\8001\c\virus.dos.hllo.globe.8001  Infection: HLLC.8001.C
+u:\collection\dos\file_e-j\hllc\globe\8001\d\global-b.vom  contains HLLC.8001.D (non-working)
+u:\collection\dos\file_e-j\hllc\globe\8001\d\virus.dos.hllc.globe.8001.b  Infection: HLLC.8001.D
+u:\collection\dos\file_e-j\hllc\globe\8001\i\virus.dos.hllc.globe.8001.g  Infection: HLLC.8001.I
 u:\collection\dos\file_e-j\hllc\globe\9796\hllc9796.vom  Infection: HLLC.Globe.6610
+u:\collection\dos\file_e-j\hllc\godsquad\16902\virus.dos.hllc.godsquad  Infection: HLLC.16902
 u:\collection\dos\file_e-j\hllc\guest\4752\guest.vom  Infection: HLLC.4752.A
 u:\collection\dos\file_e-j\hllc\halley\halley.vom  Infection: HLLC.7856
+u:\collection\dos\file_e-j\hllc\halv\10160\virus.dos.hllc.halv.10160  Infection: HLLC.10160
 u:\collection\dos\file_e-j\hllc\happy_mo\a\hllcha~1.vxe  Infection: HLLC.5667
 u:\collection\dos\file_e-j\hllc\happy_mo\b\hllcha~2.vxe->(LZEXE)  Infection: HLLC.5667
 u:\collection\dos\file_e-j\hllc\happy_mo\c\hllcha~3.vxe->(PKLITE)  Infection: HLLC.5667
+u:\collection\dos\file_e-j\hllc\holop\6544\virus.dos.hllo.holop.6544  Infection: HLLC.6544.B (exact)
 u:\collection\dos\file_e-j\hllc\idomoshe\idomoshe.vxe  Infection: HLLO.6896 (exact)
 u:\collection\dos\file_e-j\hllc\imp\4790\b\hlc4790u.vom  contains HLLC.4790.B (non-working)
 u:\collection\dos\file_e-j\hllc\imp\4790\b\t7.vom  Infection: HLLC.4790.B
 u:\collection\dos\file_e-j\hllc\imp\4790\b\tf.vom  Infection: HLLC.4790.B
+u:\collection\dos\file_e-j\hllc\infor\7664\virus.dos.hllc.infor.7664  Infection: HLLO.7168
+u:\collection\dos\file_e-j\hllc\inna\6648\virus.dos.hllp.inna.6640.b  Infection: HLLC.6648
+u:\collection\dos\file_e-j\hllc\jackpot\8752\virus.dos.hllc.jackpot.8752  Infection: HLLC.8752
+u:\collection\dos\file_e-j\hllc\james\24196\virus.dos.hllc.james.24196  Infection: HLLC.24196
+u:\collection\dos\file_e-j\hllc\jomry\12896\virus.dos.hllc.jomry.12896  Infection: HLLC.12896
 u:\collection\dos\file_e-j\hllc\k-rad\4658\krad.vxe->(PKLITE)  Infection: HLLC.5664
 u:\collection\dos\file_e-j\hllc\k-rad\5664\hllc5664.vxe  Infection: HLLC.5664
 u:\collection\dos\file_e-j\hllc\knight\dknight.vxe->(PKLITE)  Infection: HLLO.9131
 u:\collection\dos\file_e-j\hllc\knight\loadpats.vxe->(PKLITE)  Infection: HLLO.9131
 u:\collection\dos\file_e-j\hllc\knight\t1.vxe->(PKLITE)  Infection: HLLO.9131
 u:\collection\dos\file_e-j\hllc\knight\t3.vxe->(PKLITE)  Infection: HLLO.9131
+u:\collection\dos\file_e-j\hllc\krile\4569\virus.dos.hllp.krile.4569  Infection: HLLC.4569
+u:\collection\dos\file_e-j\hllc\lastbug\6096\a\virus.dos.hllc.lastbug.6096  Infection: HLLC.6096.A
 u:\collection\dos\file_e-j\hllc\laufwerk\hllcla~1.vxe  Infection: HLLC.7040
+u:\collection\dos\file_e-j\hllc\madmax\3966\virus.dos.hllc.vsw.3966  Infection: HLLC.3966
+u:\collection\dos\file_e-j\hllc\malta\9248\virus.dos.hllc.malta.9248  Infection: HLLC.9248 (exact)
 u:\collection\dos\file_e-j\hllc\nogg\6420\nogg.vxe  Infection: HLLC.6240
+u:\collection\dos\file_e-j\hllc\odani\11184\virus.dos.hllc.odani.11184  Infection: HLLC.11184
+u:\collection\dos\file_e-j\hllc\pest\4243\virus.dos.hllc.pest.4243  Infection: HLLC.4243.Bleeper
+u:\collection\dos\file_e-j\hllc\pokusny\21603\virus.dos.hllc.pokusny.21603  Infection: HLLO.21603
+u:\collection\dos\file_e-j\hllc\protipus\5472\virus.dos.hllc.5472  Infection: HLLC.5472.unknown?
+u:\collection\dos\file_e-j\hllc\psycho\9280\virus.dos.hllc.psycho.9280  Infection: HLLC.9280
+u:\collection\dos\file_e-j\hllc\rarin\6157\virus.dos.hllc.rarin.6157  Infection: HLLC.6157
+u:\collection\dos\file_e-j\hllc\rider\4000\virus.dos.hllc.rider.4000  Infection: HLLO.4000.A (exact)
 u:\collection\dos\file_e-j\hllc\rider\4000\a\rider.vxe->(PKLITE)  Infection: HLLO.4000.B (exact)
 u:\collection\dos\file_e-j\hllc\rider\4000\b\hc400bu.vxe  Infection: HLLO.4000.B (exact)
 u:\collection\dos\file_e-j\hllc\rider\4094\ride4094.vxe->(PKLITE)  Infection: HLLO.5696.A
+u:\collection\dos\file_e-j\hllc\rider\5552\virus.dos.hllc.rider.5552  Infection: HLLC.5552
 u:\collection\dos\file_e-j\hllc\rider\5696\hll4094u.vxe  Infection: HLLO.5696.A
+u:\collection\dos\file_e-j\hllc\rider\5808\a\virus.dos.hllc.rider.5808  Infection: HLLC.5808.A
+u:\collection\dos\file_e-j\hllc\rider\6016\virus.dos.hllo.rider.6016  Infection: HLLO.6016
 u:\collection\dos\file_e-j\hllc\runme\05008\wci0232r.vxe  Infection: HLLO.5008
 u:\collection\dos\file_e-j\hllc\runme\10832\wci0105h.vxe  Infection: HLLC.10832
 u:\collection\dos\file_e-j\hllc\sauna\08224\max00258.vxe  Infection: HLLC.8224
@@ -14049,15 +14162,27 @@ u:\collection\dos\file_e-j\hllc\sebek\4303\t2.vxe->(DIET)  Infection: HLLC.4303
 u:\collection\dos\file_e-j\hllc\slam\6000\slam.vom  Infection: HLLC.6000.A
 u:\collection\dos\file_e-j\hllc\slam\8176\trace.vom  Infection: HLLC.8176
 u:\collection\dos\file_e-j\hllc\slowlite\slowlite.vxe->(PKLITE)  Infection: HLLO.4505.B
+u:\collection\dos\file_e-j\hllc\sounds\6592\virus.dos.hllc.sounds.6592  Infection: HLLC.6592
+u:\collection\dos\file_e-j\hllc\spawner\12353\virus.dos.hllc.spawner  Infection: HLLO.12353
+u:\collection\dos\file_e-j\hllc\sputnic\16622\virus.dos.hllc.sputnic.16622  Infection: HLLO.16622
 u:\collection\dos\file_e-j\hllc\srm\16052\hlc16052.vom  Infection: HLLC.16052
 u:\collection\dos\file_e-j\hllc\sv\6016\hllc6016.vom  Infection: HLLC.6016 (exact)
 u:\collection\dos\file_e-j\hllc\sv\6016\t1.vom  Infection: HLLC.6016 (exact)
 u:\collection\dos\file_e-j\hllc\sv\6016\t2.vom  Infection: HLLC.6016 (exact)
 u:\collection\dos\file_e-j\hllc\tavc\5228\t1.vxe->(PKLITE)  Infection: HLLC.5228
+u:\collection\dos\file_e-j\hllc\team\8897\virus.dos.hllc.team.8897  Infection: HLLC.8897
 u:\collection\dos\file_e-j\hllc\total\9977\t1.vom->(PKLITE)  Infection: HLLC.9977
+u:\collection\dos\file_e-j\hllc\trans\6000\b\virus.dos.hllc.trans.6000  Infection: HLLC.6000.B
 u:\collection\dos\file_e-j\hllc\tree2\hllc9261.vom->(LZEXE)  Infection: HLLC.14186
+u:\collection\dos\file_e-j\hllc\tree2\14186\virus.dos.hllc.tree2.14186  Infection: HLLO.14186
+u:\collection\dos\file_e-j\hllc\unvisibl\a\virus.dos.hllc.unvisible.a  Infection: HLLC.27505 (exact)
 u:\collection\dos\file_e-j\hllc\unvisibl\b\wci0296h.vxe->(LZEXE)  Infection: HLLC.13292
-u:\collection\dos\file_e-j\hllc\vampire\hllc3488.vxe  Infection: HLLC.3488
+u:\collection\dos\file_e-j\hllc\uri\5616\virus.dos.hllc.uri.5616  Infection: HLLC.5616
+u:\collection\dos\file_e-j\hllc\vampire\3488\hllc3488.vxe  Infection: HLLC.3488
+u:\collection\dos\file_e-j\hllc\vampire\3616\vampire.vxe  Infection: HLLC.3616
+u:\collection\dos\file_e-j\hllc\viorica\5968\virus.dos.hllc.5968  Infection: HLLC.5968
+u:\collection\dos\file_e-j\hllc\viruslog\10736\virus.dos.hllc.viruslog.10736  Infection: HLLC.10736 (exact)
+u:\collection\dos\file_e-j\hllc\vsw\5936\virus.dos.hllc.vsw.5936  Infection: HLLC.5936
 u:\collection\dos\file_e-j\hllc\worm\16850\compworm.vom  Infection: HLLC.16850
 u:\collection\dos\file_e-j\hllc\worm\17690\wrm17690.vxe  is a corrupted or intended virus
 u:\collection\dos\file_e-j\hllc\worm\17690\a\_17690.vxe  Infection: HLLO.17690
@@ -14068,80 +14193,125 @@ u:\collection\dos\file_e-j\hllc\wurm\09948\wci04302.vxe->(PKLITE)  Infection: HL
 u:\collection\dos\file_e-j\hllc\wurm\10306\wci01802.vom  Infection: HLLO.10306
 u:\collection\dos\file_e-j\hllc\w_a\a\hlcw_a.vom  Infection: HLLC.16412
 u:\collection\dos\file_e-j\hllc\w_a\b\wa.vom  is a corrupted or intended virus
+u:\collection\dos\file_e-j\hllo\00666\cabinfo.vxe  Infection: HLLO.666
+u:\collection\dos\file_e-j\hllo\00666\virus.dos.sillyoce.666  Infection: HLLO.666
+u:\collection\dos\file_e-j\hllo\01148\a\bat2exec.vom  Infection: HLLO.1148.A
+u:\collection\dos\file_e-j\hllo\02040\virus.dos.hllo.2040  Infection: HLLO.2040 (exact)
 u:\collection\dos\file_e-j\hllo\02428\debug.vxe->(LZEXE)  Infection: HLLP.2428 (exact)
 u:\collection\dos\file_e-j\hllo\02428\dialer.vxe->(LZEXE)  Infection: HLLP.2428 (exact)
 u:\collection\dos\file_e-j\hllo\02428\fontview.vxe->(LZEXE)  Infection: HLLP.2428 (exact)
 u:\collection\dos\file_e-j\hllo\02428\starbug.vxe->(LZEXE)  Infection: HLLP.2428 (exact)
+u:\collection\dos\file_e-j\hllo\02576\virus.dos.hllo.2704  Infection: HLLO.2576 (exact)
+u:\collection\dos\file_e-j\hllo\02673\virus.dos.hllo.2673  Infection: HLLO.2673
 u:\collection\dos\file_e-j\hllo\02827\hllo2827.vxe->(LZEXE)  Infection: HLLO.2827
 u:\collection\dos\file_e-j\hllo\02827\t7.vxe->(LZEXE)  Infection: HLLO.2827
 u:\collection\dos\file_e-j\hllo\02827\tf.vxe->(LZEXE)  Infection: HLLO.2827
 u:\collection\dos\file_e-j\hllo\02827\wci01133.vxe->(LZEXE)  Infection: HLLO.2827
 u:\collection\dos\file_e-j\hllo\03008\hlo3008.vxe  Infection: HLLO.3008
+u:\collection\dos\file_e-j\hllo\03328\vir1.vxe  Infection: HLLO.3328
+u:\collection\dos\file_e-j\hllo\03520\a\virus.dos.hllo.3520.a  Infection: HLLO.3520.A (exact)
 u:\collection\dos\file_e-j\hllo\03712\unke0447.vxe  Infection: HLLO.3712
 u:\collection\dos\file_e-j\hllo\03816\jjj.vom  Infection: HLLO.3816
 u:\collection\dos\file_e-j\hllo\03855\a\virus6.vom->(DIET)  Infection: HLLO.3855.A
 u:\collection\dos\file_e-j\hllo\03855\b\unke0448.vxe  Infection: HLLO.3535.B (exact)
 u:\collection\dos\file_e-j\hllo\03855\c\3853.vxe  Infection: HLLO.3855.A
+u:\collection\dos\file_e-j\hllo\03968\a\virus.dos.hllo.3968  Infection: HLLO.3968.A (exact)
 u:\collection\dos\file_e-j\hllo\04032\a\hlo4032a.vxe  Infection: HLLO.4032.A
 u:\collection\dos\file_e-j\hllo\04032\b\aftrshk.vxe  Infection: HLLO.4304
 u:\collection\dos\file_e-j\hllo\04032\c\unke0457.vxe  Infection: HLLO.4032.D
 u:\collection\dos\file_e-j\hllo\04240\hlo4240.vxe  Infection: HLLO.4240.A
 u:\collection\dos\file_e-j\hllo\04240\wci08381.vxe  Infection: HLLO.4240.A
 u:\collection\dos\file_e-j\hllo\04742\hlo4742.vxe  Infection: HLLO.4742
+u:\collection\dos\file_e-j\hllo\04752\hllo4752.vxe  Infection: HLLO.4752
+u:\collection\dos\file_e-j\hllo\04800\virus.dos.hllo.4816  Infection: HLLO.4800 (exact)
 u:\collection\dos\file_e-j\hllo\04870\a\over4870.vxe->(LZEXE)  Infection: HLLO.4870
 u:\collection\dos\file_e-j\hllo\04870\b\4870owb.vom->(LZEXE)  Infection: HLLO.4870
+u:\collection\dos\file_e-j\hllo\04880\virus.dos.hllo.4880  Infection: HLLO.4880 (exact)
+u:\collection\dos\file_e-j\hllo\05151\virus.dos.hllo.5151  Infection: HLLO.5151
+u:\collection\dos\file_e-j\hllo\05296\virus.dos.hllo.dexter.5296  Infection: HLLO.5296
 u:\collection\dos\file_e-j\hllo\05520\wci0161h.vxe  Infection: HLLO.5520.A
 u:\collection\dos\file_e-j\hllo\05760\hllo5760.vxe  Infection: HLLO.5760
+u:\collection\dos\file_e-j\hllo\06240\virus.dos.hllo.6240  Infection: HLLO.6240
+u:\collection\dos\file_e-j\hllo\06688\virus.dos.hllo.candym.6688  Infection: HLLO.6144.B
+u:\collection\dos\file_e-j\hllo\07088\virus.dos.hllo.7808  Infection: HLLO.7088
 u:\collection\dos\file_e-j\hllo\07392\hllo7392.vom  Infection: HLLO.7392
 u:\collection\dos\file_e-j\hllo\08400\hlo8400.vxe  is a destructive program
+u:\collection\dos\file_e-j\hllo\08592\virus.dos.hllo.8592  Infection: HLLO.8592
 u:\collection\dos\file_e-j\hllo\09000\ovrwr_v.vxe  Infection: HLLO.9000.A
 u:\collection\dos\file_e-j\hllo\09504\hllo9504.vom  Infection: HLLO.9504
 u:\collection\dos\file_e-j\hllo\09504\t1.vom  Infection: HLLO.9504
 u:\collection\dos\file_e-j\hllo\09504\t2.vom  Infection: HLLO.9504
 u:\collection\dos\file_e-j\hllo\09999\hlo9999.vxe->(PKLITE)  Infection: HLLO.9999
 u:\collection\dos\file_e-j\hllo\09999\t1.vxe->(PKLITE)  Infection: HLLO.9999
+u:\collection\dos\file_e-j\hllo\10579\virus.dos.hllo.10579  Infection: HLLO.10579
+u:\collection\dos\file_e-j\hllo\11201\megadeth.vxe  Infection: HLLO.11201
+u:\collection\dos\file_e-j\hllo\11379\crap.vxe  Infection: HLLO.11379
+u:\collection\dos\file_e-j\hllo\12272\virus.dos.hllo.12272  Infection: HLLO.12272
+u:\collection\dos\file_e-j\hllo\13112\a\virus.dos.hllo.13112.a  Infection: HLLO.13112.A (exact)
+u:\collection\dos\file_e-j\hllo\13112\b\virus.dos.hllo.13112.b  Infection: HLLO.13112.B (exact) - Dropper
+u:\collection\dos\file_e-j\hllo\14610\virus.dos.hllo.14610  Infection: HLLO.14610 (exact)
+u:\collection\dos\file_e-j\hllo\163984\virus.dos.hllo.163984  Infection: HLLO.163984
 u:\collection\dos\file_e-j\hllo\17179\wci0135h.vxe->(LZEXE)  Infection: HLLO.17179.B
 u:\collection\dos\file_e-j\hllo\41714\hllc187a.vxe  Infection: HLLO.41714
+u:\collection\dos\file_e-j\hllo\aids\6528\virus.dos.hllo.gothmod.4891  Infection: HLLO.6528
+u:\collection\dos\file_e-j\hllo\aids\7504\virus.dos.hllo.gothmod.5071  Infection: HLLO.7504
 u:\collection\dos\file_e-j\hllo\akarashi\3428\wci0140h.vxe->(LZEXE)  Infection: HLLO.3488
 u:\collection\dos\file_e-j\hllo\akarashi\4979\wci0159h.vxe->(LZEXE)  Infection: HLLO.4979
 u:\collection\dos\file_e-j\hllo\akarashi\4980\wci0160h.vxe->(LZEXE)  Infection: HLLO.4980
+u:\collection\dos\file_e-j\hllo\anima\4640\virus.dos.hllo.4640  Infection: HLLO.4640.E (exact)
+u:\collection\dos\file_e-j\hllo\antinato\4496\virus.dos.hllo.anti-nato.4496  Infection: HLLO.4496.D (exact)
+u:\collection\dos\file_e-j\hllo\bestia\13418\virus.dos.hllo.bestia.13418  Infection: HLLO.13418
+u:\collection\dos\file_e-j\hllo\bigbug\9500\virus.dos.hll.bigbug.9500.a  Infection: HLLP.9320 (exact)
+u:\collection\dos\file_e-j\hllo\bigc\12224\virus.dos.hllo.bigc.12224  Infection: HLLO.12224 (exact)
+u:\collection\dos\file_e-j\hllo\bille\6592\virus.dos.hllo.bille.6592  Infection: HLLO.6592 (exact)
 u:\collection\dos\file_e-j\hllo\bizarr\1-hl_biz.vom->(PKLITE)  Infection: HLLC.Bizarre
 u:\collection\dos\file_e-j\hllo\blackcry\crypt.vxe  Infection: HLLO.6624.A
+u:\collection\dos\file_e-j\hllo\bormut\5744\virus.dos.hllo.bormut.5744  Infection: HLLO.5744.A (exact)
+u:\collection\dos\file_e-j\hllo\bunny\7274\virus.dos.hllo.bunny.7274  Infection: HLLO.7274
+u:\collection\dos\file_e-j\hllo\c-virus\3521\c_virus5.vxe->(LZEXE)  Infection: HLLO.3521
+u:\collection\dos\file_e-j\hllo\c-virus\3521\t1.vxe->(LZEXE)  Infection: HLLO.3521
+u:\collection\dos\file_e-j\hllo\c-virus\3521\trace.vxe->(LZEXE)  Infection: HLLO.3521
+u:\collection\dos\file_e-j\hllo\c-virus\3800\cvir3800.vom  Infection: HLLO.3800
+u:\collection\dos\file_e-j\hllo\c-virus\3800\grep.vom  Infection: HLLO.3800
+u:\collection\dos\file_e-j\hllo\c-virus\3800\t1.vom  Infection: HLLO.3800
+u:\collection\dos\file_e-j\hllo\c-virus\4096\cvirus.vxe->(LZEXE)  Infection: HLLO.4317.B
+u:\collection\dos\file_e-j\hllo\c-virus\4096\trace.vxe->(LZEXE)  Infection: HLLO.4317.B
+u:\collection\dos\file_e-j\hllo\c-virus\4316\hllo4316.vom->(LZEXE)  Infection: HLLO.4316
+u:\collection\dos\file_e-j\hllo\c-virus\4316\hllo4316.vxe->(LZEXE)  Infection: HLLO.4316
+u:\collection\dos\file_e-j\hllo\c-virus\4316\t1.vom->(LZEXE)  Infection: HLLO.4316
+u:\collection\dos\file_e-j\hllo\c-virus\4316\t1.vxe->(LZEXE)  Infection: HLLO.4316
+u:\collection\dos\file_e-j\hllo\c-virus\4316\t2.vom->(LZEXE)  Infection: HLLO.4316
+u:\collection\dos\file_e-j\hllo\c-virus\4316\t2.vxe->(LZEXE)  Infection: HLLO.4316
+u:\collection\dos\file_e-j\hllo\c-virus\4317\atrace.vxe->(LZEXE)  Infection: HLLO.4317.A (exact)
+u:\collection\dos\file_e-j\hllo\c-virus\4317\a\cvirsory.vxe->(LZEXE)  Infection: HLLO.4317.A (exact)
+u:\collection\dos\file_e-j\hllo\c-virus\4317\a\wci00371.vxe->(LZEXE)  Infection: HLLO.4317.A (exact)
+u:\collection\dos\file_e-j\hllo\c-virus\4317\a\wci02445.vxe->(LZEXE)  Infection: HLLO.4317.A (exact)
+u:\collection\dos\file_e-j\hllo\c-virus\4317\b\t1.vxe  contains HLLO.4317.A (non-working)
+u:\collection\dos\file_e-j\hllo\c-virus\4317\b\tb.vxe  Infection: HLLO.4317.A (exact)
+u:\collection\dos\file_e-j\hllo\c-virus\4317\b\unke0987.vxe  Infection: HLLO.4317.A (exact)
+u:\collection\dos\file_e-j\hllo\c-virus\4340\cvir4340.vxe  Infection: HLLO.4340
+u:\collection\dos\file_e-j\hllo\c-virus\4340\trace.vxe  Infection: HLLO.4340
+u:\collection\dos\file_e-j\hllo\c-virus\4372\c_exe_3.vxe  Infection: HLLO.4372
+u:\collection\dos\file_e-j\hllo\c-virus\4600\cvirus~1.vxe->(LZEXE)  Infection: HLLO.4601.A
+u:\collection\dos\file_e-j\hllo\c-virus\4600\nman-c.vxe->(LZEXE)  Infection: HLLO.4601.A
+u:\collection\dos\file_e-j\hllo\c-virus\4600\trace.vxe->(LZEXE)  Infection: HLLO.4601.A
+u:\collection\dos\file_e-j\hllo\c-virus\4778\c_virus.vxe  Infection: HLLO.4778
+u:\collection\dos\file_e-j\hllo\c-virus\4830\trace.vxe->(LZEXE)  Infection: HLLO.4700
+u:\collection\dos\file_e-j\hllo\c-virus\4830\v2905.vxe->(LZEXE)  Infection: HLLO.4700
+u:\collection\dos\file_e-j\hllo\c-virus\5924\virus.dos.hllo.c-virus.5924  Infection: HLLO.4317.C (exact)
+u:\collection\dos\file_e-j\hllo\c-virus\6286\cvirus19.vxe->(LZEXE)  Infection: HLLO.8214
+u:\collection\dos\file_e-j\hllo\c-virus\6286\v2900.vxe->(LZEXE)  Infection: HLLO.8214
+u:\collection\dos\file_e-j\hllo\chest\3240\virus.dos.hllo.chest.2340  Infection: HLLO.3240 (exact)
+u:\collection\dos\file_e-j\hllo\coderz\7664\a\virus.dos.hllo.coderz.7664  Infection: HLLO.7664.A (exact)
+u:\collection\dos\file_e-j\hllo\commando\18496\virus.dos.hllp.commando.18496  Infection: HLLO.18496
 u:\collection\dos\file_e-j\hllo\crash\7227\a\hllo7227.vxe  Infection: HLLO.7227
 u:\collection\dos\file_e-j\hllo\crash\7227\b\crash.vxe->(LZEXE)  Infection: HLLO.7227
 u:\collection\dos\file_e-j\hllo\crash\7227\b\crshbrn.vxe->(LZEXE)  Infection: HLLO.7227
-u:\collection\dos\file_e-j\hllo\cvirus\3521\c_virus5.vxe->(LZEXE)  Infection: HLLO.3521
-u:\collection\dos\file_e-j\hllo\cvirus\3521\t1.vxe->(LZEXE)  Infection: HLLO.3521
-u:\collection\dos\file_e-j\hllo\cvirus\3521\trace.vxe->(LZEXE)  Infection: HLLO.3521
-u:\collection\dos\file_e-j\hllo\cvirus\3800\cvir3800.vom  Infection: HLLO.3800
-u:\collection\dos\file_e-j\hllo\cvirus\3800\grep.vom  Infection: HLLO.3800
-u:\collection\dos\file_e-j\hllo\cvirus\3800\t1.vom  Infection: HLLO.3800
-u:\collection\dos\file_e-j\hllo\cvirus\4096\cvirus.vxe->(LZEXE)  Infection: HLLO.4317.B
-u:\collection\dos\file_e-j\hllo\cvirus\4096\trace.vxe->(LZEXE)  Infection: HLLO.4317.B
-u:\collection\dos\file_e-j\hllo\cvirus\4316\hllo4316.vom->(LZEXE)  Infection: HLLO.4316
-u:\collection\dos\file_e-j\hllo\cvirus\4316\hllo4316.vxe->(LZEXE)  Infection: HLLO.4316
-u:\collection\dos\file_e-j\hllo\cvirus\4316\t1.vom->(LZEXE)  Infection: HLLO.4316
-u:\collection\dos\file_e-j\hllo\cvirus\4316\t1.vxe->(LZEXE)  Infection: HLLO.4316
-u:\collection\dos\file_e-j\hllo\cvirus\4316\t2.vom->(LZEXE)  Infection: HLLO.4316
-u:\collection\dos\file_e-j\hllo\cvirus\4316\t2.vxe->(LZEXE)  Infection: HLLO.4316
-u:\collection\dos\file_e-j\hllo\cvirus\4317\atrace.vxe->(LZEXE)  Infection: HLLO.4317.A (exact)
-u:\collection\dos\file_e-j\hllo\cvirus\4317\a\cvirsory.vxe->(LZEXE)  Infection: HLLO.4317.A (exact)
-u:\collection\dos\file_e-j\hllo\cvirus\4317\a\wci00371.vxe->(LZEXE)  Infection: HLLO.4317.A (exact)
-u:\collection\dos\file_e-j\hllo\cvirus\4317\a\wci02445.vxe->(LZEXE)  Infection: HLLO.4317.A (exact)
-u:\collection\dos\file_e-j\hllo\cvirus\4317\b\t1.vxe  contains HLLO.4317.A (non-working)
-u:\collection\dos\file_e-j\hllo\cvirus\4317\b\tb.vxe  Infection: HLLO.4317.A (exact)
-u:\collection\dos\file_e-j\hllo\cvirus\4317\b\unke0987.vxe  Infection: HLLO.4317.A (exact)
-u:\collection\dos\file_e-j\hllo\cvirus\4340\cvir4340.vxe  Infection: HLLO.4340
-u:\collection\dos\file_e-j\hllo\cvirus\4340\trace.vxe  Infection: HLLO.4340
-u:\collection\dos\file_e-j\hllo\cvirus\4372\c_exe_3.vxe  Infection: HLLO.4372
-u:\collection\dos\file_e-j\hllo\cvirus\4600\cvirus~1.vxe->(LZEXE)  Infection: HLLO.4601.A
-u:\collection\dos\file_e-j\hllo\cvirus\4600\nman-c.vxe->(LZEXE)  Infection: HLLO.4601.A
-u:\collection\dos\file_e-j\hllo\cvirus\4600\trace.vxe->(LZEXE)  Infection: HLLO.4601.A
-u:\collection\dos\file_e-j\hllo\cvirus\4778\c_virus.vxe  Infection: HLLO.4778
-u:\collection\dos\file_e-j\hllo\cvirus\4830\trace.vxe->(LZEXE)  Infection: HLLO.4700
-u:\collection\dos\file_e-j\hllo\cvirus\4830\v2905.vxe->(LZEXE)  Infection: HLLO.4700
-u:\collection\dos\file_e-j\hllo\cvirus\6286\cvirus19.vxe->(LZEXE)  Infection: HLLO.8214
-u:\collection\dos\file_e-j\hllo\cvirus\6286\v2900.vxe->(LZEXE)  Infection: HLLO.8214
+u:\collection\dos\file_e-j\hllo\crusher\9856\virus.dos.hllo.crusher.6726  Infection: HLLO.6726
+u:\collection\dos\file_e-j\hllo\deadbyte\5712\virus.dos.hllo.deadbyte.5712  Infection: HLLO.5712
+u:\collection\dos\file_e-j\hllo\deadbyte\5952\virus.dos.hllo.install.4578  Infection: HLLO.5696.B (exact)
+u:\collection\dos\file_e-j\hllo\death\8768\virus.dos.hllo.team.8768  Infection: HLLO.8768 (exact)
+u:\collection\dos\file_e-j\hllo\death\8816\virus.dos.hllo.death.8816  Infection: HLLO.8816
 u:\collection\dos\file_e-j\hllo\disdev\pasc6144.vxe  Infection: HLLO.6144.A
 u:\collection\dos\file_e-j\hllo\dogwerks\2951\hllo2951.vxe->(LZEXE)  Infection: HLLO.2951
 u:\collection\dos\file_e-j\hllo\dogwerks\2951\t1.vxe->(LZEXE)  Infection: HLLO.2951
@@ -14150,6 +14320,12 @@ u:\collection\dos\file_e-j\hllo\dozen\hghink.vxe->(LZEXE)  Infection: HLLO.Dozen
 u:\collection\dos\file_e-j\hllo\dozen\hlo-dozn.vxe->(LZEXE)  Infection: HLLO.Dozen
 u:\collection\dos\file_e-j\hllo\dozen\hlodozen.vxe->(LZEXE)  Infection: HLLO.Dozen
 u:\collection\dos\file_e-j\hllo\dozen\hmon.vxe->(LZEXE)  Infection: HLLO.Dozen
+u:\collection\dos\file_e-j\hllo\duke\dpvg\5056\a\virus.dos.hllo.dpvg.5056  Infection: HLLO.5056.A
+u:\collection\dos\file_e-j\hllo\duke\littleover\2688\virus.dos.hllo.mf.2688  Infection: HLLO.2688 (exact)
+u:\collection\dos\file_e-j\hllo\duke\tppe\12816\virus.dos.hllp.zyx.b  Infection: HLLC.12816 (exact)
+u:\collection\dos\file_e-j\hllo\duke\tppe\13744\virus.dos.hllo.tppe.13744  Infection: HLLO.13744
+u:\collection\dos\file_e-j\hllo\duke\tppe\15600\virus.dos.hllo.tppe.15600  Infection: HLLO.15600
+u:\collection\dos\file_e-j\hllo\fobos\6608\virus.dos.hllo.fobos.6608  Infection: HLLO.6608 (exact)
 u:\collection\dos\file_e-j\hllo\forever\4952\1-hl4592.vom  Infection: HLLO.4592.A
 u:\collection\dos\file_e-j\hllo\forever\4952\1-hl4592.vxe  Infection: HLLO.4592.A
 u:\collection\dos\file_e-j\hllo\forever\4952\2-hl4592.vom  Infection: HLLO.4592.A
@@ -14169,6 +14345,8 @@ u:\collection\dos\file_e-j\hllo\fsf\6736\t1.vxe  Infection: HLLO.6736
 u:\collection\dos\file_e-j\hllo\fsf\6736\t2.vxe  Infection: HLLO.6736
 u:\collection\dos\file_e-j\hllo\fu\8608\ranovr.vxe  Infection: HLLO.8608.A
 u:\collection\dos\file_e-j\hllo\fu\8608\wci0165h.vxe  Infection: HLLO.8608.A
+u:\collection\dos\file_e-j\hllo\gothmog\5008\virus.dos.hllo.gothmod.4176  Infection: HLLO.4176
+u:\collection\dos\file_e-j\hllo\gothmog\5056\hllo5056.vxe  Infection: HLLO.4200
 u:\collection\dos\file_e-j\hllo\gov\13452\attrib.vxe  Infection: HLLO.Gov
 u:\collection\dos\file_e-j\hllo\gov\13452\binhex.vxe  Infection: HLLO.Gov
 u:\collection\dos\file_e-j\hllo\gov\13452\chkdsk.vxe  Infection: HLLO.Gov
@@ -14184,30 +14362,54 @@ u:\collection\dos\file_e-j\hllo\gov\13916\chkdsk.vxe  Infection: HLLO.Gov
 u:\collection\dos\file_e-j\hllo\gov\13916\debug.vxe  Infection: HLLO.Gov
 u:\collection\dos\file_e-j\hllo\gov\13916\deltree.vxe  Infection: HLLO.Gov
 u:\collection\dos\file_e-j\hllo\gov\13916\gov_pt1.vxe  Infection: HLLO.Gov
-u:\collection\dos\file_e-j\hllo\harakiri\a\v2910.vxe  Infection: HLLO.5488.C
-u:\collection\dos\file_e-j\hllo\harakiri\b\hllhab0.vxe  Infection: HLLO.5488.D
-u:\collection\dos\file_e-j\hllo\harakiri\c\defrag.vxe  Infection: HLLO.5488.E (exact)
-u:\collection\dos\file_e-j\hllo\harakiri\c\haraki-c.vxe  Infection: HLLO.5488.E (exact)
-u:\collection\dos\file_e-j\hllo\harakiri\c\harakiri.vxe  Infection: HLLO.5488.E (exact)
-u:\collection\dos\file_e-j\hllo\harakiri\c\mplayer.vxe  Infection: HLLO.5488.E (exact)
-u:\collection\dos\file_e-j\hllo\harakiri\c\setver.vxe  Infection: HLLO.5488.E (exact)
-u:\collection\dos\file_e-j\hllo\harakiri\c\smartdrv.vxe  Infection: HLLO.5488.E (exact)
-u:\collection\dos\file_e-j\hllo\harakiri\c\t2.vxe  Infection: HLLO.5488.E (exact)
-u:\collection\dos\file_e-j\hllo\harakiri\c\t3.vxe  Infection: HLLO.5488.E (exact)
 u:\collection\dos\file_e-j\hllo\havoc\11056\hav11056.vxe  Infection: HLLO.11056
 u:\collection\dos\file_e-j\hllo\havoc\11056\t1.vxe  Infection: HLLO.11056
+u:\collection\dos\file_e-j\hllo\hello\3428\virus.dos.hllo.3488  Infection: HLLO.3428
+u:\collection\dos\file_e-j\hllo\hemp\3096\cabinfo.vxe  Infection: HLLO.3520.B
+u:\collection\dos\file_e-j\hllo\hemp\3096\debug.vxe  Infection: HLLO.3520.B
+u:\collection\dos\file_e-j\hllo\hemp\3096\virus.dos.hllo.3520.b  Infection: HLLO.3520.B
+u:\collection\dos\file_e-j\hllo\hemp\3520\A.vom  Infection: HLLO.3520.B
 u:\collection\dos\file_e-j\hllo\hepatitu\hepatitu.vxe  Infection: HLLO.Hepatitu
 u:\collection\dos\file_e-j\hllo\hitohana\hitohana.vxe  Infection: HLLO.8259 (exact)
+u:\collection\dos\file_e-j\hllo\holop\5504\virus.dos.hllo.holop.5504  Infection: HLLO.5504 (exact)
 u:\collection\dos\file_e-j\hllo\honi\a\dosinfo.vxe  Infection: HLLO.Honi.A
 u:\collection\dos\file_e-j\hllo\honi\b\dosinfo.vxe  Infection: HLLO.Honi.A
 u:\collection\dos\file_e-j\hllo\horny\04505\horny.vxe  Infection: HLLO.4505.A
 u:\collection\dos\file_e-j\hllo\horny\04515\hllo4515.vxe  is a corrupted or intended virus
+u:\collection\dos\file_e-j\hllo\hotdog\09860\virus.dos.hllo.hotdog.9860  Infection: HLLO.9860
+u:\collection\dos\file_e-j\hllo\hotdog\13458\virus.dos.hllo.hotdog.13458  Infection: HLLO.10240
+u:\collection\dos\file_e-j\hllo\infek\a\infek-0.vom  Infection: HLLO.5488.A
+u:\collection\dos\file_e-j\hllo\infek\b\infek-0.vom  Infection: HLLO.5488.B
+u:\collection\dos\file_e-j\hllo\infek\c\v2910.vxe  Infection: HLLO.5488.C
+u:\collection\dos\file_e-j\hllo\infek\d\hllhab0.vxe  Infection: HLLO.5488.D
+u:\collection\dos\file_e-j\hllo\infek\e\defrag.vxe  Infection: HLLO.5488.E (exact)
+u:\collection\dos\file_e-j\hllo\infek\e\haraki-c.vxe  Infection: HLLO.5488.E (exact)
+u:\collection\dos\file_e-j\hllo\infek\e\harakiri.vxe  Infection: HLLO.5488.E (exact)
+u:\collection\dos\file_e-j\hllo\infek\e\mplayer.vxe  Infection: HLLO.5488.E (exact)
+u:\collection\dos\file_e-j\hllo\infek\e\setver.vxe  Infection: HLLO.5488.E (exact)
+u:\collection\dos\file_e-j\hllo\infek\e\smartdrv.vxe  Infection: HLLO.5488.E (exact)
+u:\collection\dos\file_e-j\hllo\infek\e\t2.vxe  Infection: HLLO.5488.E (exact)
+u:\collection\dos\file_e-j\hllo\infek\e\t3.vxe  Infection: HLLO.5488.E (exact)
+u:\collection\dos\file_e-j\hllo\infek\h\virus.dos.hllo.infek.5488  Infection: HLLO.5488.H (exact)
+u:\collection\dos\file_e-j\hllo\infek\i\virus.dos.hllo.gotovo.5488  Infection: HLLO.5488.I (exact)
+u:\collection\dos\file_e-j\hllo\invader\11904\virus.dos.hll.invader.11904  Infection: HLLO.11904 (exact)
+u:\collection\dos\file_e-j\hllo\jackie\05744\virus.dos.hllo.jackie.5744  Infection: HLLO.5744.A
+u:\collection\dos\file_e-j\hllo\jackie\12416\DUMP32.vom  Infection: HLLP.12416
+u:\collection\dos\file_e-j\hllo\jackie\12416\virus.dos.hllo.12416  Infection: HLLP.12416
+u:\collection\dos\file_e-j\hllo\jeanluc\3855\CABINFO.vxe  Infection: HLLO.3535.A (exact)
+u:\collection\dos\file_e-j\hllo\jeanluc\3855\DEBUG.vxe  Infection: HLLO.3535.A (exact)
+u:\collection\dos\file_e-j\hllo\jeanluc\3855\virus.dos.hllo.jeanluc.3855  Infection: HLLO.3535.A (exact)
 u:\collection\dos\file_e-j\hllo\joker\a\jocker.vxe  Infection: Joker.11000.A (exact)
 u:\collection\dos\file_e-j\hllo\joker\a\joke0.vxe  Infection: Joker.11000.B (exact)
 u:\collection\dos\file_e-j\hllo\joker\a\v4435.vxe  Infection: Joker.11000.A (exact)
 u:\collection\dos\file_e-j\hllo\joker\b\comp.vxe  is a security risk or a "backdoor" program
 u:\collection\dos\file_e-j\hllo\joker\b\hllojo~1.vxe  is a corrupted or intended virus
+u:\collection\dos\file_e-j\hllo\jopa\5632\virus.dos.hllo.opa.5632  Infection: HLLO.5632.A
+u:\collection\dos\file_e-j\hllo\julius\40932\virus.dos.hllo.julius.40932  Infection: HLLO.40932
 u:\collection\dos\file_e-j\hllo\kamikaze\kamikaze.vom  Infection: HLLO.4032.C
+u:\collection\dos\file_e-j\hllo\koles\4493\virus.dos.hllp.koles.4493  Infection: HLLO.4493
+u:\collection\dos\file_e-j\hllo\lab5\35229\virus.dos.hllw.lab5  Infection: HLLO.35229
+u:\collection\dos\file_e-j\hllo\lm\20240\virus.dos.hllo.lm.3678  Infection: HLLO.9000.B (exact)
 u:\collection\dos\file_e-j\hllo\madismo\6007\madismo.vxe->(PKLITE)  Infection: HLLO.6007
 u:\collection\dos\file_e-j\hllo\madismo\6104\a\1-hl6401.vxe->(PKLITE)  Infection: HLLO.6104
 u:\collection\dos\file_e-j\hllo\madismo\6104\a\2-hl6401.vxe->(PKLITE)  Infection: HLLO.6104
@@ -14220,60 +14422,90 @@ u:\collection\dos\file_e-j\hllo\madismo\6104\b\t1.vxe  Infection: HLLO.6104
 u:\collection\dos\file_e-j\hllo\madismo\6104\b\t2.vxe  Infection: HLLO.6104
 u:\collection\dos\file_e-j\hllo\maniac\5946\mani5946.vxe->(PKLITE)  Infection: HLLO.5946
 u:\collection\dos\file_e-j\hllo\maniac\5946\t1.vxe->(PKLITE)  Infection: HLLO.5946
+u:\collection\dos\file_e-j\hllo\mastixa\8608\virus.dos.hllo.mdv.8608  Infection: HLLO.8608.B
 u:\collection\dos\file_e-j\hllo\mission\hlo-misn.vxe  Infection: HLLO.8214
+u:\collection\dos\file_e-j\hllo\moonbug\5424\a\virus.dos.hllo.5424  Infection: HLLO.5424.A (exact)
+u:\collection\dos\file_e-j\hllo\moonbug\5424\b\virus.dos.hllo.moon.5424  Infection: HLLO.5424.B (exact)
+u:\collection\dos\file_e-j\hllo\nedal\13312\virus.dos.hllo.nedal.17174  Infection: HLLO.13312
+u:\collection\dos\file_e-j\hllo\nic\2600\virus.dos.hllo.nic.2600  Infection: HLLO.2600
+u:\collection\dos\file_e-j\hllo\nmkamil\8383\virus.dos.hllo.nmkamil.8383.a  Infection: HLLO.8383
 u:\collection\dos\file_e-j\hllo\not\17923\v1-not!.vxe  Infection: HLLO.17923
 u:\collection\dos\file_e-j\hllo\novademo\11644\wci00903.vxe  Infection: HLLO.12288.A
 u:\collection\dos\file_e-j\hllo\novademo\12288\a\fragchk.vxe->(PKLITE)  Infection: HLLO.12288.A
 u:\collection\dos\file_e-j\hllo\novademo\12288\a\hllo-nov.vxe->(PKLITE)  Infection: HLLO.12288.A
 u:\collection\dos\file_e-j\hllo\novademo\12288\b\hl12288b.vxe  Infection: HLLO.12288.B
-u:\collection\dos\file_e-j\hllo\number1\12032\color\a\number1d.vom  Infection: Number_1.12032.D (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\color\b\grep.vom  Infection: HLLO.12032
-u:\collection\dos\file_e-j\hllo\number1\12032\color\b\keyb.vom  Infection: HLLO.12032
-u:\collection\dos\file_e-j\hllo\number1\12032\color\b\lwm.vom  Infection: HLLO.12032
-u:\collection\dos\file_e-j\hllo\number1\12032\color\b\mode.vom  Infection: HLLO.12032
-u:\collection\dos\file_e-j\hllo\number1\12032\color\b\num_1.vom  Infection: HLLO.12032
-u:\collection\dos\file_e-j\hllo\number1\12032\color\c\grep.vom  Infection: Number_1.12032.D (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\color\c\keyb.vom  Infection: Number_1.12032.D (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\color\c\lwm.vom  Infection: Number_1.12032.D (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\color\c\number1a.vom  Infection: Number_1.12032.D (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\color\c\t1.vom  Infection: Number_1.12032.D (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\a\grep.vom  Infection: Number_1.12032.B (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\a\lwm.vom  Infection: Number_1.12032.B (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\a\meyb.vom  Infection: Number_1.12032.B (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\a\mode.vom  Infection: Number_1.12032.B (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\a\mrep.vom  Infection: Number_1.12032.B (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\a\mwm.vom  Infection: Number_1.12032.B (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\a\num_1-e.vom  Infection: Number_1.12032.B (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\b\diskcopy.vom  Infection: Number_1.12032.H (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\b\keyb.vom  Infection: Number_1.12032.H (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\b\mode.vom  Infection: Number_1.12032.H (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\b\n1-(b).vom  Infection: Number_1.12032.H (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\c\grep.vom  Infection: Number_1.12032.M (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\c\keyb.vom  Infection: Number_1.12032.M (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\c\lwm.vom  Infection: Number_1.12032.M (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\c\mode.vom  Infection: Number_1.12032.M (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\d\format.vom  Infection: Number_1.12032.C (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\d\grep.vom  Infection: Number_1.12032.C (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\d\keyb.vom  Infection: Number_1.12032.C (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\d\lwm.vom  Infection: Number_1.12032.C (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\d\mode.vom  Infection: Number_1.12032.C (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\d\numb-1b.vom  Infection: Number_1.12032.C (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\default\d\number1b.vom  Infection: Number_1.12032.C (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\mono\a\grep.vom  Infection: Number_1.12032.A (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\mono\a\hllo5.vom  Infection: Number_1.12032.A (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\mono\a\keyb.vom  Infection: Number_1.12032.A (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\mono\a\lwm.vom  Infection: Number_1.12032.A (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\mono\a\meyb.vom  Infection: Number_1.12032.A (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\mono\a\mode.vom  Infection: Number_1.12032.A (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\mono\a\mwm.vom  Infection: Number_1.12032.A (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\mono\a\numbhjui.vom  Infection: Number_1.12032.A (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\mono\a\numbjhu.vom  Infection: Number_1.12032.A (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\mono\a\sys.vom  Infection: Number_1.12032.A (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\mono\b\grep.vom  Infection: Number_1.12032.J (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\mono\b\keyb.vom  Infection: Number_1.12032.J (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\mono\b\lwm.vom  Infection: Number_1.12032.J (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\mono\b\mode.vom  Infection: Number_1.12032.J (exact)
-u:\collection\dos\file_e-j\hllo\number1\12032\mono\b\wci00113.vom  Infection: Number_1.12032.J (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\a\grep.vom  Infection: Number_1.12032.A (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\a\hllo5.vom  Infection: Number_1.12032.A (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\a\keyb.vom  Infection: Number_1.12032.A (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\a\lwm.vom  Infection: Number_1.12032.A (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\a\meyb.vom  Infection: Number_1.12032.A (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\a\mode.vom  Infection: Number_1.12032.A (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\a\mwm.vom  Infection: Number_1.12032.A (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\a\numbhjui.vom  Infection: Number_1.12032.A (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\a\numbjhu.vom  Infection: Number_1.12032.A (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\a\sys.vom  Infection: Number_1.12032.A (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\aa\grep.vom  Infection: HLLO.12032
+u:\collection\dos\file_e-j\hllo\number1\12032\aa\keyb.vom  Infection: HLLO.12032
+u:\collection\dos\file_e-j\hllo\number1\12032\aa\lwm.vom  Infection: HLLO.12032
+u:\collection\dos\file_e-j\hllo\number1\12032\aa\mode.vom  Infection: HLLO.12032
+u:\collection\dos\file_e-j\hllo\number1\12032\aa\num_1.vom  Infection: HLLO.12032
+u:\collection\dos\file_e-j\hllo\number1\12032\b\grep.vom  Infection: Number_1.12032.B (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\b\lwm.vom  Infection: Number_1.12032.B (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\b\meyb.vom  Infection: Number_1.12032.B (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\b\mode.vom  Infection: Number_1.12032.B (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\b\mrep.vom  Infection: Number_1.12032.B (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\b\mwm.vom  Infection: Number_1.12032.B (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\b\num_1-e.vom  Infection: Number_1.12032.B (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\c\format.vom  Infection: Number_1.12032.C (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\c\grep.vom  Infection: Number_1.12032.C (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\c\keyb.vom  Infection: Number_1.12032.C (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\c\lwm.vom  Infection: Number_1.12032.C (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\c\mode.vom  Infection: Number_1.12032.C (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\c\numb-1b.vom  Infection: Number_1.12032.C (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\c\number1b.vom  Infection: Number_1.12032.C (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\d\grep.vom  Infection: Number_1.12032.D (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\d\keyb.vom  Infection: Number_1.12032.D (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\d\lwm.vom  Infection: Number_1.12032.D (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\d\number1a.vom  Infection: Number_1.12032.D (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\d\number1d.vom  Infection: Number_1.12032.D (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\d\t1.vom  Infection: Number_1.12032.D (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\e\number1e-0.vom  Infection: Number_1.12032.E (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\f\number1f-0.vom  Infection: Number_1.12032.F (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\f\number1f-1.vom  Infection: Number_1.12032.F (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\f\number1f-2.vom  Infection: Number_1.12032.F (exact) - Dropper
+u:\collection\dos\file_e-j\hllo\number1\12032\f\number1f-3.vom  Infection: Number_1.12032.F (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\f\number1f-4.vom  Infection: Number_1.12032.F (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\f\number1f-5.vom  Infection: Number_1.12032.F (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\f\number1f-6.vom  Infection: Number_1.12032.F (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\f\number1f-8.vom  Infection: Number_1.12032.F (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\f\b\unke1586.vom  is a security risk or a "backdoor" program
+u:\collection\dos\file_e-j\hllo\number1\12032\h\diskcopy.vom  Infection: Number_1.12032.H (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\h\keyb.vom  Infection: Number_1.12032.H (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\h\mode.vom  Infection: Number_1.12032.H (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\h\n1-(b).vom  Infection: Number_1.12032.H (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\j\grep.vom  Infection: Number_1.12032.J (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\j\keyb.vom  Infection: Number_1.12032.J (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\j\lwm.vom  Infection: Number_1.12032.J (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\j\mode.vom  Infection: Number_1.12032.J (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\j\wci00113.vom  Infection: Number_1.12032.J (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\l\number1l-0.vom  Infection: Number_1.12032.L (exact) - Dropper
+u:\collection\dos\file_e-j\hllo\number1\12032\l\number1l-1.vom  Infection: Number_1.12032.L (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\m\number1m-0.vom  Infection: Number_1.12032.M (exact) - Dropper
+u:\collection\dos\file_e-j\hllo\number1\12032\m\number1m-1.vom  Infection: Number_1.12032.M (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\m\number1m-2.vom  Infection: Number_1.12032.M (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\m\number1m-3.vom  Infection: Number_1.12032.M (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\m\number1m-4.vom  Infection: Number_1.12032.M (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\m\number1m-5.vom  Infection: Number_1.12032.M (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\m\number1m-6.vom  Infection: Number_1.12032.M (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\n\number1n-0.vom  Infection: Number_1.12032.N (exact) - Dropper
+u:\collection\dos\file_e-j\hllo\number1\12032\n\number1n-1.vom  Infection: Number_1.12032.N (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\n\number1n-2.vom  Infection: Number_1.12032.N (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\o\number1o-0.vom  Infection: Number_1.12032.O (exact) - Dropper
+u:\collection\dos\file_e-j\hllo\number1\12032\o\number1o-1.vom  Infection: Number_1.12032.O (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\p\number1p-0.vom  Infection: Number_1.12032.P (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\p\number1p-1.vom  Infection: Number_1.12032.P (exact) - Dropper
+u:\collection\dos\file_e-j\hllo\number1\12032\r\number1r-0.vom  Infection: Number_1.12032.R (exact)
+u:\collection\dos\file_e-j\hllo\number1\12032\r\number1r-1.vom  Infection: Number_1.12032.R (exact) - Dropper
 u:\collection\dos\file_e-j\hllo\number1\aids\13952\a\!558.vom  Infection: Number_1.13952.A (exact)
 u:\collection\dos\file_e-j\hllo\number1\aids\13952\a\!755.vom  Infection: Number_1.13952.A (exact)
 u:\collection\dos\file_e-j\hllo\number1\aids\13952\a\13312a.vom  Infection: Number_1.13952.A (exact)
@@ -14296,15 +14528,10 @@ u:\collection\dos\file_e-j\hllo\number1\aids\13952\c\lwm.vom  Infection: Number_
 u:\collection\dos\file_e-j\hllo\number1\aids\13952\c\no1fiis.vom  Infection: Number_1.13952.C (exact)
 u:\collection\dos\file_e-j\hllo\number1\aids\13952\c\number~6.vom  Infection: Number_1.13952.C (exact)
 u:\collection\dos\file_e-j\hllo\number1\aids\13952\c\t1.vom  Infection: Number_1.13952.C (exact)
-u:\collection\dos\file_e-j\hllo\number1\plutoniu\a\1poult.vom  Infection: Number_1.12032.F (exact)
-u:\collection\dos\file_e-j\hllo\number1\plutoniu\a\grep.vom  Infection: Number_1.12032.F (exact)
-u:\collection\dos\file_e-j\hllo\number1\plutoniu\a\lwm.vom  Infection: Number_1.12032.F (exact)
-u:\collection\dos\file_e-j\hllo\number1\plutoniu\a\mode.vom  Infection: Number_1.12032.F (exact)
-u:\collection\dos\file_e-j\hllo\number1\plutoniu\a\n1-pluto.vom  Infection: Number_1.12032.F (exact)
-u:\collection\dos\file_e-j\hllo\number1\plutoniu\a\t1.vom  Infection: Number_1.12032.F (exact)
-u:\collection\dos\file_e-j\hllo\number1\plutoniu\b\unke1586.vom  is a security risk or a "backdoor" program
-u:\collection\dos\file_e-j\hllo\number1\s_man\grep.vom  Infection: Number_1.12032.N (exact)
-u:\collection\dos\file_e-j\hllo\number1\s_man\keyb.vom  Infection: Number_1.12032.N (exact)
+u:\collection\dos\file_e-j\hllo\number1\aids\13952\d\33eacffce06b57092971282b1ad60f2e6540dd24161d82871d4f2bc975c551fb  Infection: Number_1.13952.D (exact) - Dropper
+u:\collection\dos\file_e-j\hllo\number1\aids\13952\d\7ec7a50803a30a48af9c4cb97ffa30561a00e812e66385cec3aa1d1959e41a30  Infection: Number_1.13952.D (exact)
+u:\collection\dos\file_e-j\hllo\number1\aids\13952\e\42eeb2420b7f30bc37dedc9adc1f1472337ed35841290212887293ae0d35675a  Infection: Number_1.13952.E (exact)
+u:\collection\dos\file_e-j\hllo\number1\aids\13952\f\808d5dc62cd6016ec24f388f7273e101709a4f208e4a5a9ac5b437d3e6a22378  Infection: Number_1.13952.F (exact)
 u:\collection\dos\file_e-j\hllo\oj\15788\a\canary.vxe  Infection: HLLO.15788
 u:\collection\dos\file_e-j\hllo\oj\15788\a\wci0134h.vxe  Infection: HLLO.15788
 u:\collection\dos\file_e-j\hllo\oj\15788\b\calc.vxe->(PKLITE)  Infection: HLLO.15788
@@ -14312,18 +14539,29 @@ u:\collection\dos\file_e-j\hllo\oj\15788\b\oj.vxe->(PKLITE)  Infection: HLLO.157
 u:\collection\dos\file_e-j\hllo\ondra\ondra.vxe  Infection: HLLO.4914
 u:\collection\dos\file_e-j\hllo\orion\hloorion.vxe  Infection: HLLO.Orion
 u:\collection\dos\file_e-j\hllo\orion\orionhll.vxe  Infection: HLLO.Orion
-u:\collection\dos\file_e-j\hllo\pain\4213\pain.vxe  Infection: HLLO.4213
-u:\collection\dos\file_e-j\hllo\pain\4213\pain4213.vxe  Infection: HLLO.4213
-u:\collection\dos\file_e-j\hllo\pain\4213\t1.vxe  Infection: HLLO.4213
-u:\collection\dos\file_e-j\hllo\pain\4213\t2.vxe  Infection: HLLO.4213
-u:\collection\dos\file_e-j\hllo\pain\4213\t3.vxe  Infection: HLLO.4213
-u:\collection\dos\file_e-j\hllo\pain\4213\t7.vxe  Infection: HLLO.4213
+u:\collection\dos\file_e-j\hllo\ostraboo\virus.dos.hllo.ostraboo  Infection: HLLO.7807
+u:\collection\dos\file_e-j\hllo\pain\4213\a\pain.vxe  Infection: HLLO.4213
+u:\collection\dos\file_e-j\hllo\pain\4213\a\pain4213.vxe  Infection: HLLO.4213
+u:\collection\dos\file_e-j\hllo\pain\4213\a\t1.vxe  Infection: HLLO.4213
+u:\collection\dos\file_e-j\hllo\pain\4213\a\t2.vxe  Infection: HLLO.4213
+u:\collection\dos\file_e-j\hllo\pain\4213\a\t3.vxe  Infection: HLLO.4213
+u:\collection\dos\file_e-j\hllo\pain\4213\a\t7.vxe  Infection: HLLO.4213
+u:\collection\dos\file_e-j\hllo\pain\4213\b\virus.dos.hllp.4213  Infection: HLLP.4213
+u:\collection\dos\file_e-j\hllo\pester\17288\virus.dos.hllo.pester.17288  Infection: HLLO.17288
 u:\collection\dos\file_e-j\hllo\pish\6208\hllo6208.vxe  Infection: HLLC.6208
+u:\collection\dos\file_e-j\hllo\president\7616\virus.dos.hllo.7616  Infection: HLLO.7616 (exact)
+u:\collection\dos\file_e-j\hllo\pressturbo\7760\virus.dos.hllo.pressturbo.7760  Infection: HLLO.7760
 u:\collection\dos\file_e-j\hllo\protipus\c5472.vxe  Infection: HLLC.5472 (exact)
+u:\collection\dos\file_e-j\hllo\rama\2666\virus.dos.hllo.rama.2666  Infection: HLLO.2666
 u:\collection\dos\file_e-j\hllo\reversi\reversi.vom  Infection: HLLO.4476
+u:\collection\dos\file_e-j\hllo\runme\6224\virus.dos.hllo.runme.6224  Infection: HLLO.6224
 u:\collection\dos\file_e-j\hllo\ruw\ruw.vom  Infection: HLLO.6496
+u:\collection\dos\file_e-j\hllo\samael\8416\virus.dos.hllo.samael.8416  Infection: HLLO.8416 (exact)
 u:\collection\dos\file_e-j\hllo\shadowga\wci0185h.vxe  Infection: HLLO.Shadowgard
 u:\collection\dos\file_e-j\hllo\shiet\v2335.vxe->(LZEXE)  Infection: HLLO.8259 (exact)
+u:\collection\dos\file_e-j\hllo\skull\17712\virus.dos.hllw.skull.17712  Infection: HLLO.17712
+u:\collection\dos\file_e-j\hllo\sleeping\6208\virus.dos.hllc.chs.6208  Infection: HLLO.6208
+u:\collection\dos\file_e-j\hllo\sym\34384\virus.dos.hllo.sym.34384  Infection: HLLO.34384
 u:\collection\dos\file_e-j\hllo\tavc\4282\1-hl4282.vxe->(PKLITE)  Infection: HLLO.4282.B
 u:\collection\dos\file_e-j\hllo\tavc\4282\2-hl4282.vxe->(PKLITE)  Infection: HLLO.4282.B
 u:\collection\dos\file_e-j\hllo\tavc\4282\3-hl4282.vxe->(PKLITE)  Infection: HLLO.4282.B
@@ -14331,85 +14569,256 @@ u:\collection\dos\file_e-j\hllo\tavc\4282\t1.vxe->(PKLITE)  Infection: HLLO.4282
 u:\collection\dos\file_e-j\hllo\tavc\4282\t2.vxe->(PKLITE)  Infection: HLLO.4282.B
 u:\collection\dos\file_e-j\hllo\tavc\4282\t3.vxe->(PKLITE)  Infection: HLLO.4282.B
 u:\collection\dos\file_e-j\hllo\tavc\4282\tavc4282.vxe->(PKLITE)  Infection: HLLO.4282.B
+u:\collection\dos\file_e-j\hllo\team\6000\virus.dos.hllo.team.6000  Infection: HLLO.6000.A (exact)
+u:\collection\dos\file_e-j\hllo\termit\3201\virus.dos.hllo.termit.3201  Infection: HLLO.3201
 u:\collection\dos\file_e-j\hllo\tyst\comspec.vxe  Infection: HLLO.3424
 u:\collection\dos\file_e-j\hllo\ultimatn\ultimat.vxe  Infection: HLLO.23802
+u:\collection\dos\file_e-j\hllo\virms\virus.dos.hllo.4576  Infection: HLLO.Virms
 u:\collection\dos\file_e-j\hllo\vulcanoi\3038\wci0315h.vxe->(LZEXE)  Infection: HLLO.3038
+u:\collection\dos\file_e-j\hllo\weasel\8871\virus.dos.hllp.weasel.8871  Infection: HLLO.8144 (exact)
 u:\collection\dos\file_e-j\hllo\wonder\a\hlowonde.vxe  Infection: HLLO.7424.C
 u:\collection\dos\file_e-j\hllo\wonder\a\wonder.vxe  Infection: HLLO.7424.C
 u:\collection\dos\file_e-j\hllo\wonder\b\wond.vom  Infection: HLLO.7424.A
 u:\collection\dos\file_e-j\hllo\wonder\b\wonder.vom  Infection: HLLO.7424.A
 u:\collection\dos\file_e-j\hllo\wonder\c\wonder.vxe  Infection: HLLO.7424.B
+u:\collection\dos\file_e-j\hllo\worm\6400\virus.dos.hllo.6400  Infection: HLLO.6400.B (exact)
+u:\collection\dos\file_e-j\hllo\zircon\6400\virus.dos.hllo.zircon  Infection: HLLO.6400.A
 u:\collection\dos\file_e-j\hllp\03678\hll3678.vxe->(LZEXE)  Infection: HLLP.3678
 u:\collection\dos\file_e-j\hllp\03680\hll3680.vxe->(LZEXE)  Infection: HLLP.3680
 u:\collection\dos\file_e-j\hllp\03779\hll3779.vxe->(LZEXE)  Infection: HLLP.3779
 u:\collection\dos\file_e-j\hllp\03779\hll377~1.vom->(LZEXE)  Infection: HLLP.3779
+u:\collection\dos\file_e-j\hllp\03792\virus.dos.hllp.3792.a  Infection: HLLP.3792
+u:\collection\dos\file_e-j\hllp\03944\unknown\virus.dos.hllp.3944  Infection: HLLP.3944.unknown?
 u:\collection\dos\file_e-j\hllp\04075\wci0196h.vxe->(LZEXE)  Infection: HLLP.4075
 u:\collection\dos\file_e-j\hllp\04109\wci0197h.vxe->(PKLITE)  Infection: HLLP.4109.A
+u:\collection\dos\file_e-j\hllp\04214\virus.dos.hllp.4214  Infection: HLLP.4214
+u:\collection\dos\file_e-j\hllp\04274\a\virus.dos.hllp.4274  Infection: HLLP.4274.A (exact)
+u:\collection\dos\file_e-j\hllp\04384\CABINFO.vxe  Infection: HLLP.4384 (exact)
+u:\collection\dos\file_e-j\hllp\04384\DEBUG.vxe  Infection: HLLP.4384 (exact)
+u:\collection\dos\file_e-j\hllp\04384\virus.dos.hllp.4384  Infection: HLLP.4384.unknown?
+u:\collection\dos\file_e-j\hllp\04395\virus.dos.hllp.4395  Infection: HLLP.4395
+u:\collection\dos\file_e-j\hllp\04487\virus.dos.hllp.4487  Infection: HLLP.4487
+u:\collection\dos\file_e-j\hllp\04512\cabinfo.vxe  Infection: HLLP.4272 (exact)
+u:\collection\dos\file_e-j\hllp\04512\debug.vxe  Infection: HLLP.4272 (exact)
+u:\collection\dos\file_e-j\hllp\04512\virus.dos.hllp.4512  Infection: HLLP.4272 (exact)
+u:\collection\dos\file_e-j\hllp\04536\virus.dos.hllp.4536  Infection: HLLP.4536
+u:\collection\dos\file_e-j\hllp\04600\DUMP32.vom  Infection: HLLP.4600
+u:\collection\dos\file_e-j\hllp\04600\t1.vom  Infection: HLLP.4600
+u:\collection\dos\file_e-j\hllp\04600\t1.vxe  Infection: HLLP.4600
+u:\collection\dos\file_e-j\hllp\04600\virus.dos.hllp.agent.4600  Infection: HLLP.4600
+u:\collection\dos\file_e-j\hllp\04665\virus.dos.hllp.4665  Infection: HLLP.4665
 u:\collection\dos\file_e-j\hllp\04676\wci01812.vom  Infection: HLLP.4676
+u:\collection\dos\file_e-j\hllp\04754\unp.vxe  Infection: HLLP.4754.unknown?
+u:\collection\dos\file_e-j\hllp\04754\virus.dos.hllp.4754  Infection: HLLP.4754 (exact)
+u:\collection\dos\file_e-j\hllp\04758\virus.dos.hllp.sm.4758  Infection: HLLP.4758
 u:\collection\dos\file_e-j\hllp\05000\hll-4990.vxe->(LZEXE)  Infection: HLLO.5000.A
+u:\collection\dos\file_e-j\hllp\05008\virus.dos.hllp.5008  Infection: HLLP.5008
+u:\collection\dos\file_e-j\hllp\05062\virus.dos.hllp.5062  Infection: HLLP.5062 (exact)
+u:\collection\dos\file_e-j\hllp\05333\virus.dos.hllp.irus.5333  Infection: HLLP.5333
 u:\collection\dos\file_e-j\hllp\05400\hlp5400.vom->(PKLITE)  Infection: HLLP.5400.A
 u:\collection\dos\file_e-j\hllp\05400\hlp5400.vxe->(PKLITE)  Infection: HLLP.5400.A
 u:\collection\dos\file_e-j\hllp\05400\tf.vxe->(PKLITE)  Infection: HLLP.5400.A
 u:\collection\dos\file_e-j\hllp\05444\hll5444.vxe  is a corrupted or intended virus
 u:\collection\dos\file_e-j\hllp\05444\hlpp5444.vxe->(LZEXE)  Infection: HLLP.5444
+u:\collection\dos\file_e-j\hllp\05536\virus.dos.hllp.5536  Infection: HLLP.5536 (exact)
+u:\collection\dos\file_e-j\hllp\05568\a\virus.dos.hllp.4156  Infection: HLLP.5568.A (exact)
+u:\collection\dos\file_e-j\hllp\05568\b\virus.dos.hllp.5568  Infection: HLLP.5568.C (exact)
 u:\collection\dos\file_e-j\hllp\05602\a\hl5602a0.vxe->(LZEXE)  Infection: HLLP.5602.A (exact)
 u:\collection\dos\file_e-j\hllp\05602\a\hll5602a.vxe->(LZEXE)  Infection: HLLP.5602.A (exact)
 u:\collection\dos\file_e-j\hllp\05602\a\hlpp560b.vxe->(LZEXE)  Infection: HLLP.5602.A (exact)
 u:\collection\dos\file_e-j\hllp\05602\b\hll5602b.vxe->(LZEXE)  Infection: HLLP.5602.B
 u:\collection\dos\file_e-j\hllp\05602\b\hlpp5602.vxe->(LZEXE)  Infection: HLLP.5602.B
+u:\collection\dos\file_e-j\hllp\05808\virus.dos.hllp.5808  Infection: HLLP.5808 (exact)
+u:\collection\dos\file_e-j\hllp\05844\virus.dos.hllp.5844  Infection: HLLP.5844
+u:\collection\dos\file_e-j\hllp\05872\virus.dos.hllp.5872  Infection: HLLP.5872 (exact)
 u:\collection\dos\file_e-j\hllp\05904\hllp5904.vom  Infection: HLLP.5904.A
 u:\collection\dos\file_e-j\hllp\05904\hllp5904.vxe  Infection: HLLP.5904.A
 u:\collection\dos\file_e-j\hllp\05904\t1.vom  Infection: HLLP.5904.A
 u:\collection\dos\file_e-j\hllp\05904\t1.vxe  Infection: HLLP.5904.A
 u:\collection\dos\file_e-j\hllp\05904\t2.vxe  Infection: HLLP.5904.A
+u:\collection\dos\file_e-j\hllp\05904\b\virus.dos.hllp.5904.b  Infection: HLLP.5904.B (exact)
 u:\collection\dos\file_e-j\hllp\05938\hll5938.vxe->(LZEXE)  Infection: HLLP.5938.A
 u:\collection\dos\file_e-j\hllp\05938\hlpp5938.vxe->(LZEXE)  Infection: HLLP.5938.A
+u:\collection\dos\file_e-j\hllp\05984\b\virus.dos.hllp.5984.a  Infection: HLLP.5984.B
+u:\collection\dos\file_e-j\hllp\06128\a\virus.dos.hllp.6128.a  Infection: HLLP.6128.B (exact)
 u:\collection\dos\file_e-j\hllp\06176\wci0207h.vxe  Infection: HLLP.6176.A (exact)
+u:\collection\dos\file_e-j\hllp\06384\virus.dos.hllp.6384  Infection: HLLP.6384 (exact)
+u:\collection\dos\file_e-j\hllp\06420\virus.dos.hllp.6420  Infection: HLLP.6420 (exact)
+u:\collection\dos\file_e-j\hllp\06480\a\virus.dos.hllp.6480  Infection: HLLP.6480
+u:\collection\dos\file_e-j\hllp\06480\b\virus.dos.hllp.harmless.6480  Infection: HLLP.6480
+u:\collection\dos\file_e-j\hllp\07102\virus.dos.hllp.7102  Infection: HLLP.7102
+u:\collection\dos\file_e-j\hllp\07360\virus.dos.hllp.7360  Infection: HLLP.7360.B (exact)
+u:\collection\dos\file_e-j\hllp\07712\a\virus.dos.hllp.7712  Infection: HLLP.7712.A
+u:\collection\dos\file_e-j\hllp\07712\b\virus.dos.hllp.nover.7712  Infection: HLLP.7712.B (exact)
+u:\collection\dos\file_e-j\hllp\07776\virus.dos.hllp.7776  Infection: HLLP.7216
 u:\collection\dos\file_e-j\hllp\07940\hll7940.vom  contains HLLP.7940 (non-working)
+u:\collection\dos\file_e-j\hllp\08112\virus.dos.hllp.8112  Infection: HLLP.8112
+u:\collection\dos\file_e-j\hllp\08784\virus.dos.hllp.8784  Infection: HLLO.8784 (exact)
 u:\collection\dos\file_e-j\hllp\08832\hllp8832.vxe  Infection: HLLP.8832
 u:\collection\dos\file_e-j\hllp\08832\t1.vxe  Infection: HLLP.8832
 u:\collection\dos\file_e-j\hllp\08832\t2.vxe  Infection: HLLP.8832
 u:\collection\dos\file_e-j\hllp\08905\hllp8905.vxe  Infection: HLLP.8905
 u:\collection\dos\file_e-j\hllp\08905\t7.vxe  Infection: HLLP.8905
 u:\collection\dos\file_e-j\hllp\08905\tf.vxe  Infection: HLLP.8905
+u:\collection\dos\file_e-j\hllp\08938\b\virus.dos.hllp.8938  Infection: HLLP.8938.B (exact)
+u:\collection\dos\file_e-j\hllp\08960\virus.dos.hllp.8960  Infection: HLLP.8960 (exact)
+u:\collection\dos\file_e-j\hllp\09072\a\virus.dos.hllp.9072  Infection: HLLP.9072.A (exact)
+u:\collection\dos\file_e-j\hllp\10932\virus.dos.hllp.10932  Infection: HLLP.10932
+u:\collection\dos\file_e-j\hllp\11553\virus.dos.hllp.11553  Infection: HLLP.11553 (exact)
+u:\collection\dos\file_e-j\hllp\12064\virus.dos.hllp.12064  Infection: HLLP.12064
+u:\collection\dos\file_e-j\hllp\14042\virus.dos.hllp.santos.14042  Infection: HLLP.14042
 u:\collection\dos\file_e-j\hllp\14954\hll14954.vxe  Infection: HLLP.14954
 u:\collection\dos\file_e-j\hllp\14954\t2.vxe  Infection: HLLP.14954
+u:\collection\dos\file_e-j\hllp\16000\virus.dos.hllp.ia.16000  Infection: HLLP.16000
+u:\collection\dos\file_e-j\hllp\16196\virus.dos.hllp.16196  Infection: HLLP.16196
+u:\collection\dos\file_e-j\hllp\16470\virus.dos.hllp.16470  Infection: HLLP.16470 (exact)
+u:\collection\dos\file_e-j\hllp\18078\virus.dos.hllp.18078  Infection: HLLP.18078 (exact)
+u:\collection\dos\file_e-j\hllp\21356\virus.dos.hllp.21356  Infection: HLLP.21356
+u:\collection\dos\file_e-j\hllp\a134a\5381\cabinfo.vxe  Infection: HLLP.5386
+u:\collection\dos\file_e-j\hllp\a134a\5381\debug.vxe  Infection: HLLP.5386
+u:\collection\dos\file_e-j\hllp\a134a\5381\EXTRACT.vxe  Infection: HLLP.5386
+u:\collection\dos\file_e-j\hllp\a134a\5381\unp.vxe  Infection: HLLP.5386
+u:\collection\dos\file_e-j\hllp\a134a\5381\UUENCODE.vxe  Infection: HLLP.5386
+u:\collection\dos\file_e-j\hllp\ab\7508\virus.dos.hllp.ab.7508  Infection: HLLP.7508
 u:\collection\dos\file_e-j\hllp\acid\5016\acid5016.vxe->(WWPACK)  Infection: Acid_II.5016
 u:\collection\dos\file_e-j\hllp\acid\5016\t7.vxe->(WWPACK)  Infection: Acid_II.5016
+u:\collection\dos\file_e-j\hllp\agent\6500\virus.dos.hllp.agent.6500  Infection: HLLP.6500
+u:\collection\dos\file_e-j\hllp\aha\6555\virus.dos.hllp.aha.6555  Infection: HLLP.6555
+u:\collection\dos\file_e-j\hllp\anticheck\6016\virus.dos.hllp.anticheck.6016  Infection: HLLP.6016.A
 u:\collection\dos\file_e-j\hllp\antiline\hllantil.vxe  Infection: HLLP.10460
 u:\collection\dos\file_e-j\hllp\antiline\v10640.vom  Infection: HLLP.10460
+u:\collection\dos\file_e-j\hllp\apocalypse\10674\virus.dos.hllo.apocalypse.10674  Infection: HLLP.10674
+u:\collection\dos\file_e-j\hllp\archiver\virus.dos.hllp.archiver.b  Infection: HLLP.Archiver
 u:\collection\dos\file_e-j\hllp\archvir\5070\arch5070.vom->(PKLITE)  Infection: HLLP.5070
 u:\collection\dos\file_e-j\hllp\archvir\5070\t1.vom->(PKLITE)  Infection: HLLP.5070
 u:\collection\dos\file_e-j\hllp\archvir\5070\t2.vom->(PKLITE)  Infection: HLLP.5070
 u:\collection\dos\file_e-j\hllp\archvir\5070\t3.vom->(PKLITE)  Infection: HLLP.5070
-u:\collection\dos\file_e-j\hllp\archvir\7136\1-hl7136.vom  Infection: HLLP.7136.A
-u:\collection\dos\file_e-j\hllp\archvir\7136\2-hl7136.vom  Infection: HLLP.7136.A
-u:\collection\dos\file_e-j\hllp\archvir\7136\3-hl7136.vom  Infection: HLLP.7136.A
-u:\collection\dos\file_e-j\hllp\archvir\7136\4-hl7136.vom  Infection: HLLP.7136.A
-u:\collection\dos\file_e-j\hllp\archvir\7136\arch7136.vxe  Infection: HLLP.7136.A
-u:\collection\dos\file_e-j\hllp\archvir\7136\t1.vxe  Infection: HLLP.7136.A
-u:\collection\dos\file_e-j\hllp\archvir\7136\t2.vxe  Infection: HLLP.7136.A
+u:\collection\dos\file_e-j\hllp\archvir\7136\a\1-hl7136.vom  Infection: HLLP.7136.A
+u:\collection\dos\file_e-j\hllp\archvir\7136\a\2-hl7136.vom  Infection: HLLP.7136.A
+u:\collection\dos\file_e-j\hllp\archvir\7136\a\3-hl7136.vom  Infection: HLLP.7136.A
+u:\collection\dos\file_e-j\hllp\archvir\7136\a\4-hl7136.vom  Infection: HLLP.7136.A
+u:\collection\dos\file_e-j\hllp\archvir\7136\a\arch7136.vxe  Infection: HLLP.7136.A
+u:\collection\dos\file_e-j\hllp\archvir\7136\a\t1.vxe  Infection: HLLP.7136.A
+u:\collection\dos\file_e-j\hllp\archvir\7136\a\t2.vxe  Infection: HLLP.7136.A
+u:\collection\dos\file_e-j\hllp\archvir\7136\b\virus.dos.hllp.7136  Infection: HLLP.7136.C (exact)
+u:\collection\dos\file_e-j\hllp\arian\8936\virus.dos.hllp.arian.8936  Infection: HLLP.8936 (exact)
+u:\collection\dos\file_e-j\hllp\ascent\8080\virus.dos.hllp.ascent.8080  Infection: HLLP.8080 (exact)
+u:\collection\dos\file_e-j\hllp\asea\a\asea-a-1.vxe  is a security risk or a "backdoor" program
+u:\collection\dos\file_e-j\hllp\asea\b\virus.dos.hllp.asea.b  Infection: HLLP.Asea.B
+u:\collection\dos\file_e-j\hllp\asea\c\virus.dos.hllp.asea.c  Infection: HLLP.Asea.C
 u:\collection\dos\file_e-j\hllp\banshee\4348\banshee.vxe->(PKLITE)  Infection: HLLP.4349 (exact)
 u:\collection\dos\file_e-j\hllp\banshee\4348\pandora.vxe->(PKLITE)  Infection: HLLP.4349 (exact)
+u:\collection\dos\file_e-j\hllp\bigrat\6279\virus.dos.hllp.bigrat.6279  Infection: HLLP.6279
+u:\collection\dos\file_e-j\hllp\billy\6112\virus.dos.hllp.frolik.6112  Infection: HLLP.6112
 u:\collection\dos\file_e-j\hllp\birthday\5824\birt5824.vom  Infection: HLLP.5824
 u:\collection\dos\file_e-j\hllp\birthday\7808\birt7808.vom->(LZEXE)  Infection: HLLP.7808.A
+u:\collection\dos\file_e-j\hllp\birthday_ii\5619\virus.dos.hllp.5619  Infection: HLLP.5619 (exact)
+u:\collection\dos\file_e-j\hllp\bishkek\3990\virus.dos.hllp.bishkek.3990  Infection: HLLP.3990 (exact)
 u:\collection\dos\file_e-j\hllp\bishkek\4160\a\bish4160.vxe->(PKLITE)  Infection: HLLP.4160
 u:\collection\dos\file_e-j\hllp\bishkek\4160\b\bishunp.vxe  Infection: HLLP.4160
+u:\collection\dos\file_e-j\hllp\bishkek\4170\virus.dos.hllp.bishkek.4170  Infection: HLLP.4170
+u:\collection\dos\file_e-j\hllp\bishkek\4240\a\virus.dos.hllp.bishkek.4240  Infection: HLLP.4240.A
+u:\collection\dos\file_e-j\hllp\bishop\15706\a\virus.dos.hllp.bishop.15706  Infection: HLLP.15706.A
+u:\collection\dos\file_e-j\hllp\bishop\20251\virus.dos.hllp.bishop.20251  Infection: HLLP.20251 (exact)
+u:\collection\dos\file_e-j\hllp\black\5270\virus.dos.hllp.black.5720  Infection: HLLP.5270 (exact)
+u:\collection\dos\file_e-j\hllp\blackstar\6880\virus.dos.hllp.blackstar.6880  Infection: HLLP.6880.C
+u:\collection\dos\file_e-j\hllp\bob\10752\virus.dos.hllp.bob.10752  Infection: HLLP.10752
+u:\collection\dos\file_e-j\hllp\bob\11280\virus.dos.hllp.bob.11296  Infection: HLLP.11280 (exact)
+u:\collection\dos\file_e-j\hllp\bobak\7428\debug.vxe  Infection: HLLP.7428
+u:\collection\dos\file_e-j\hllp\bobak\7428\virus.dos.hllp.7248  Infection: HLLP.7428
 u:\collection\dos\file_e-j\hllp\bobas\hllbobas.vxe  Infection: HLLP.5792
 u:\collection\dos\file_e-j\hllp\boogers\37931\hlp37931.vxe->(LZEXE)  Infection: HLLP.37931
 u:\collection\dos\file_e-j\hllp\boogers\37931\t1.vxe->(LZEXE)  Infection: HLLP.37931
 u:\collection\dos\file_e-j\hllp\boogers\37931\t2.vxe->(LZEXE)  Infection: HLLP.37931
+u:\collection\dos\file_e-j\hllp\brian\4449\virus.dos.hllp.4449  Infection: HLLP.4449.B (exact)
+u:\collection\dos\file_e-j\hllp\brian\4629\b\virus.dos.hllp.brian.4629  Infection: HLLP.4629.B
+u:\collection\dos\file_e-j\hllp\brian\4709\a\virus.dos.hllp.brian.4709.a  Infection: HLLP.4709
+u:\collection\dos\file_e-j\hllp\brian\4709\b\virus.dos.hllp.brian.4709.b  Infection: HLLP.4709
+u:\collection\dos\file_e-j\hllp\brian\4725\virus.dos.hllp.bjvc.4725  Infection: HLLP.4725
+u:\collection\dos\file_e-j\hllp\brian\4805\virus.dos.hllp.lugad.4805  Infection: HLLP.4805
+u:\collection\dos\file_e-j\hllp\brian\4885\virus.dos.hllp.brian.4885  Infection: HLLP.4885
+u:\collection\dos\file_e-j\hllp\brian\4933\virus.dos.hllp.brian.4933  Infection: HLLP.4933
+u:\collection\dos\file_e-j\hllp\brian\4949\a\virus.dos.hllp.brian.4949.a  Infection: HLLP.4949.A (exact)
+u:\collection\dos\file_e-j\hllp\brian\4949\b\virus.dos.hllp.brian.4949.b  Infection: HLLP.4949.B (exact)
+u:\collection\dos\file_e-j\hllp\buka\6978\virus.dos.hllp.buka.6978  Infection: HLLP.6978.unknown?
+u:\collection\dos\file_e-j\hllp\buka\6998\virus.dos.hllp.buka.6998  Infection: HLLP.6998.B
+u:\collection\dos\file_e-j\hllp\bunter\4514\virus.dos.hllp.bunter.4514  Infection: HLLP.4514
+u:\collection\dos\file_e-j\hllp\carol\04869\cabinfo.vxe  Infection: HLLP.20500
+u:\collection\dos\file_e-j\hllp\carol\04869\debug.vxe  Infection: HLLP.20500
+u:\collection\dos\file_e-j\hllp\carol\04869\EXTRACT.vxe  Infection: HLLP.20500
+u:\collection\dos\file_e-j\hllp\carol\04869\UUENCODE.vxe  Infection: HLLP.20500
+u:\collection\dos\file_e-j\hllp\carol\10250\UNP.vxe  Infection: HLLP.10250
+u:\collection\dos\file_e-j\hllp\cdoux\6880\virus.dos.hllp.6880  Infection: HLLP.6880.A
+u:\collection\dos\file_e-j\hllp\cdoux\7088\virus.dos.hllp.ux.7088  Infection: HLLP.7088
+u:\collection\dos\file_e-j\hllp\cdoux\7200\a\7200-764.vxe  Infection: HLLP.7200.A
+u:\collection\dos\file_e-j\hllp\cdoux\7200\b\virus.dos.hllp.7200  Infection: HLLP.7200.A
+u:\collection\dos\file_e-j\hllp\ceib\5000\virus.dos.hllp.ceib.5000  Infection: HLLP.5000.B (exact)
+u:\collection\dos\file_e-j\hllp\cheska\4630\virus.dos.hllp.cheska.4630  Infection: HLLP.4630
+u:\collection\dos\file_e-j\hllp\cheska\4631\virus.dos.hllp.4631  Infection: HLLP.4313.B
+u:\collection\dos\file_e-j\hllp\close\11600\virus.dos.hllp.close.11600  Infection: HLLP.11600
+u:\collection\dos\file_e-j\hllp\colba\7981\cabinfo.vxe  Infection: HLLP.7981
+u:\collection\dos\file_e-j\hllp\colba\7981\virus.dos.hllp.colba.7981  Infection: HLLP.7981
+u:\collection\dos\file_e-j\hllp\colund\7992\CABINFO.vxe  Infection: HLLP.7992
+u:\collection\dos\file_e-j\hllp\colund\7992\DEBUG.vxe  Infection: HLLP.7992
+u:\collection\dos\file_e-j\hllp\colund\7992\T1.vxe  Infection: HLLP.7992
+u:\collection\dos\file_e-j\hllp\colund\7992\virus.dos.colund.7792  Infection: HLLP.7992
 u:\collection\dos\file_e-j\hllp\combat\9736\bat&com.vom  is a destructive program
+u:\collection\dos\file_e-j\hllp\commo\10304\virus.dos.hllp.10304  Infection: HLLP.Commo
 u:\collection\dos\file_e-j\hllp\cookie\7360\anim7360.vxe  Infection: HLLP.7360.A
 u:\collection\dos\file_e-j\hllp\cookie\7360\hll7360a.vxe  Infection: HLLP.7360.A
 u:\collection\dos\file_e-j\hllp\cookie\7360\v2860.vom  Infection: HLLP.7360.A
 u:\collection\dos\file_e-j\hllp\cookie\7392\anim7392.vxe  Infection: HLLP.7392
 u:\collection\dos\file_e-j\hllp\cookie\7392\hllcoo~2.vom  Infection: HLLP.7392
 u:\collection\dos\file_e-j\hllp\cookie\7392\v2865.vom  Infection: HLLP.7392
+u:\collection\dos\file_e-j\hllp\cool\8032\virus.dos.hllp.cool.8032  Infection: HLLO.7152 (exact) - Dropper
+u:\collection\dos\file_e-j\hllp\creed\5413\virus.dos.hllp.creed.5413  Infection: HLLP.5413
+u:\collection\dos\file_e-j\hllp\crsvirus\12048\virus.dos.hllp.12048  Infection: HLLP.12048
+u:\collection\dos\file_e-j\hllp\cure\10000\a\virus.dos.hllp.10000  Infection: HLLP.10000.I
+u:\collection\dos\file_e-j\hllp\cure\10000\b\virus.dos.hllp.infect.10000  Infection: HLLP.10000.J
+u:\collection\dos\file_e-j\hllp\cv\15152\virus.dos.hllp.cv.15152  Infection: HLLP.15152
 u:\collection\dos\file_e-j\hllp\danilak\vzorka1.vxe  Infection: HLLC.4112
-u:\collection\dos\file_e-j\hllp\dnvg\5045\hllt5045.vxe  Infection: HLLP.5045.A
-u:\collection\dos\file_e-j\hllp\dnvg\5045\t1.vxe  Infection: HLLP.5045.A
-u:\collection\dos\file_e-j\hllp\dnvg\5045\wci02104.vxe  Infection: HLLP.5045.A
+u:\collection\dos\file_e-j\hllp\darkfox\5299\virus.dos.hllp.darkfox.5299  Infection: HLLP.5299.B
+u:\collection\dos\file_e-j\hllp\deadbyte\3568\virus.dos.hllo.deadbyte.3568  Infection: HLLP.3568 (exact)
+u:\collection\dos\file_e-j\hllp\deadbyte\7250\virus.dos.hllo.bivis  Infection: HLLP.7250 (exact)
+u:\collection\dos\file_e-j\hllp\deadbyte\7328\virus.dos.hllp.deadbyte.7328  Infection: HLLP.7328 (exact)
+u:\collection\dos\file_e-j\hllp\deepthough\13120\virus.dos.hllp.deepthough.13120  Infection: HLLP.13120
+u:\collection\dos\file_e-j\hllp\deftones\7920\virus.dos.hllp.dtfs.8756  Infection: HLLP.7920
+u:\collection\dos\file_e-j\hllp\deftones\8576\virus.dos.hllp.deftones.8576  Infection: HLLP.8576 (exact)
+u:\collection\dos\file_e-j\hllp\dekas\7109\virus.dos.hllp.dekas.7104  Infection: HLLP.7109
+u:\collection\dos\file_e-j\hllp\deleter\6048\virus.dos.hllc.deleter.6048  Infection: HLLP.6272 (exact)
+u:\collection\dos\file_e-j\hllp\demo\10105\virus.dos.hllp.demo.10105  Infection: HLLP.10105
+u:\collection\dos\file_e-j\hllp\den\8563\a\virus.dos.hllp.den.8563  Infection: HLLP.8563.A (exact)
+u:\collection\dos\file_e-j\hllp\derfnam\virus.dos.hllp.derfnam  Infection: HLLP.Derfnam
+u:\collection\dos\file_e-j\hllp\derick\6192\virus.dos.hllp.les.6192  Infection: HLLP.6192
+u:\collection\dos\file_e-j\hllp\descendant\11712\a\virus.dos.hllp.zeku.11712  Infection: HLLP.11712.A
+u:\collection\dos\file_e-j\hllp\descendant\11712\b\virus.dos.hllp.tms.11712  Infection: HLLP.11712.D (exact)
+u:\collection\dos\file_e-j\hllp\dh\7199\virus.dos.hllp.dh.7199  Infection: HLLP.7199.A
+u:\collection\dos\file_e-j\hllp\diablo\5260\virus.dos.hllp.diablo.5260  Infection: HLLP.5260.B
+u:\collection\dos\file_e-j\hllp\dimana\6880\virus.dos.hllp.6880.b  Infection: HLLP.6880.B
+u:\collection\dos\file_e-j\hllp\dinglik\3583\virus.dos.hllp.ding.3583  Infection: HLLP.3583 (exact)
+u:\collection\dos\file_e-j\hllp\dnvg\4997\a\cabinfo.vxe  Infection: HLLP.4997.B
+u:\collection\dos\file_e-j\hllp\dnvg\4997\a\debug.vxe  Infection: HLLP.4997.B
+u:\collection\dos\file_e-j\hllp\dnvg\4997\a\EXTRACT.vxe  Infection: HLLP.4997.B
+u:\collection\dos\file_e-j\hllp\dnvg\4997\a\unp.vxe  Infection: HLLP.4997.B
+u:\collection\dos\file_e-j\hllp\dnvg\4997\a\virus.dos.hllp.dnvg.4997  Infection: HLLP.4997.B
+u:\collection\dos\file_e-j\hllp\dnvg\4997\b\cabinfo.vxe  Infection: HLLP.4997.B
+u:\collection\dos\file_e-j\hllp\dnvg\4997\b\debug.vxe  Infection: HLLP.4997.B
+u:\collection\dos\file_e-j\hllp\dnvg\4997\b\EXTRACT.vxe  Infection: HLLP.4997.B
+u:\collection\dos\file_e-j\hllp\dnvg\4997\b\TASM.vxe  Infection: HLLP.4997.B
+u:\collection\dos\file_e-j\hllp\dnvg\4997\b\TLINK.vxe  Infection: HLLP.4997.B
+u:\collection\dos\file_e-j\hllp\dnvg\4997\b\unp.vxe  Infection: HLLP.4997.B
+u:\collection\dos\file_e-j\hllp\dnvg\4997\b\UUENCODE.vxe  Infection: HLLP.4997.B
+u:\collection\dos\file_e-j\hllp\dnvg\4997\b\virus.dos.hllp.dnvg.5040  Infection: HLLP.4997.B
+u:\collection\dos\file_e-j\hllp\dnvg\5045\a\hllt5045.vxe  Infection: HLLP.5045.A
+u:\collection\dos\file_e-j\hllp\dnvg\5045\a\t1.vxe  Infection: HLLP.5045.A
+u:\collection\dos\file_e-j\hllp\dnvg\5045\a\wci02104.vxe  Infection: HLLP.5045.A
+u:\collection\dos\file_e-j\hllp\dnvg\5045\b\virus.dos.hllp.dnvg.5045.b  Infection: HLLP.5045.B (exact)
+u:\collection\dos\file_e-j\hllp\doggy\6685\virus.dos.hllp.doggy.6685  Infection: HLLP.6685
+u:\collection\dos\file_e-j\hllp\doggy\8308\virus.dos.hllp.doggy.8308  Infection: HLLP.8308
+u:\collection\dos\file_e-j\hllp\doggy\8416\virus.dos.hllp.doggy.8421  Infection: HLLP.8416 (exact)
+u:\collection\dos\file_e-j\hllp\doggy\9535\virus.dos.hllp.doggy.9535  Infection: HLLP.9535
+u:\collection\dos\file_e-j\hllp\doggy_ii\6606\virus.dos.hllp.doggy_ii.6606  Infection: HLLP.6606
+u:\collection\dos\file_e-j\hllp\doggy_ii\6667\virus.dos.hllp.doggy_ii.6667  Infection: HLLP.6667
 u:\collection\dos\file_e-j\hllp\doggy_ii\6686\canary.vxe  Infection: HLLP.6686
 u:\collection\dos\file_e-j\hllp\doggy_ii\6686\hllt6686.vxe  Infection: HLLP.6686
 u:\collection\dos\file_e-j\hllp\doggy_ii\6686\s-canary.vxe  Infection: HLLP.6686
@@ -14417,20 +14826,45 @@ u:\collection\dos\file_e-j\hllp\doggy_ii\6686\scinst.vxe  Infection: HLLP.6686
 u:\collection\dos\file_e-j\hllp\dr\9223\dr9223.vxe  Infection: HLLO.9223
 u:\collection\dos\file_e-j\hllp\dr\9223\t7.vxe  Infection: HLLO.9223
 u:\collection\dos\file_e-j\hllp\dr\9223\tf.vxe  Infection: HLLO.9223
+u:\collection\dos\file_e-j\hllp\duke\04224\virus.dos.hllo.dpog.4224  Infection: HLLP.4224
+u:\collection\dos\file_e-j\hllp\duke\04436\virus.dos.hllp.duke.4336  Infection: HLLP.4436 (exact)
+u:\collection\dos\file_e-j\hllp\duke\05200\virus.dos.hllp.duke.5200  Infection: HLLP.5200 (exact)
+u:\collection\dos\file_e-j\hllp\duke\05280\a\virus.dos.hllp.duke.5280  Infection: HLLP.5280.A (exact)
+u:\collection\dos\file_e-j\hllp\duke\06014\virus.dos.hllp.mf.6014  Infection: HLLP.6014
+u:\collection\dos\file_e-j\hllp\duke\16272\virus.dos.hllp.duke.16272  Infection: HLLP.16272
+u:\collection\dos\file_e-j\hllp\duke\16400\virus.dos.hllp.duke.16400  Infection: HLLP.16400
 u:\collection\dos\file_e-j\hllp\dupacel\a\dupa.vxe  Infection: HLLP.Dupa.A
 u:\collection\dos\file_e-j\hllp\dupacel\a\dupac.vxe  Infection: HLLP.Dupa.A
 u:\collection\dos\file_e-j\hllp\dupacel\a\dupacel.vxe  Infection: HLLP.Dupa.A
 u:\collection\dos\file_e-j\hllp\dupacel\a\dupacel0.vxe  Infection: HLLP.Dupa.A
 u:\collection\dos\file_e-j\hllp\dupacel\b\wci0219h.vom  Infection: HLLP.Dupa.B
+u:\collection\dos\file_e-j\hllp\eddie\4992\virus.dos.hllp.edil.4992  Infection: HLLP.4992
+u:\collection\dos\file_e-j\hllp\eddie\6576\virus.dos.hllp.edil.6576  Infection: HLLP.6576.A
+u:\collection\dos\file_e-j\hllp\eek\09652\virus.dos.hllp.eek.9652  Infection: HLLP.9652
+u:\collection\dos\file_e-j\hllp\eek\09700\virus.dos.hllp.eek.9700  Infection: HLLP.9700
 u:\collection\dos\file_e-j\hllp\eek\10382\1-h10382.vxe  Infection: HLLP.10382
 u:\collection\dos\file_e-j\hllp\eek\10382\2-h10382.vxe  Infection: HLLP.10382
 u:\collection\dos\file_e-j\hllp\eek\10382\3-h10382.vxe  Infection: HLLP.10382
 u:\collection\dos\file_e-j\hllp\eek\10382\eek10382.vxe  Infection: HLLP.10382
 u:\collection\dos\file_e-j\hllp\eek\10382\t1.vxe  Infection: HLLP.10382
+u:\collection\dos\file_e-j\hllp\eek\22922\virus.dos.hllp.eek.22922  Infection: HLLP.22922
+u:\collection\dos\file_e-j\hllp\enigma\6406\virus.dos.hllp.enigma.6406  Infection: HLLP.6406 (exact)
+u:\collection\dos\file_e-j\hllp\erot\5718\virus.dos.hllp.erot.5718  Infection: HLLP.5718.A
+u:\collection\dos\file_e-j\hllp\eva\4967\b\virus.dos.hllp.eva.4967  Infection: HLLP.4967.B (exact)
+u:\collection\dos\file_e-j\hllp\ew\7838\virus.dos.hllp.ew.7838  Infection: HLLP.7838
 u:\collection\dos\file_e-j\hllp\feci\6000\drvspace.vxe  Infection: HLLP.6000.A
 u:\collection\dos\file_e-j\hllp\feci\6000\isuninst.vxe  Infection: HLLP.6000.A
 u:\collection\dos\file_e-j\hllp\feci\6000\wci0411h.vxe  Infection: HLLP.6000.A
 u:\collection\dos\file_e-j\hllp\feci\6000\winhlp32.vxe  Infection: HLLP.6000.A
+u:\collection\dos\file_e-j\hllp\feudal\4643.int\CABINFO.vxe  Infection: HLLP.6160
+u:\collection\dos\file_e-j\hllp\feudal\4643.int\DEBUG.vxe  Infection: HLLP.6160
+u:\collection\dos\file_e-j\hllp\feudal\4643.int\EXTRACT.vxe  Infection: HLLP.6160
+u:\collection\dos\file_e-j\hllp\feudal\4643.int\t1.vxe  Infection: HLLP.6160
+u:\collection\dos\file_e-j\hllp\feudal\4643.int\TASM.vxe  Infection: HLLP.6160
+u:\collection\dos\file_e-j\hllp\feudal\4643.int\TLINK.vxe  Infection: HLLP.6160
+u:\collection\dos\file_e-j\hllp\feudal\4643.int\UNP.vxe  Infection: HLLP.6160
+u:\collection\dos\file_e-j\hllp\feudal\4643.int\UUENCODE.vxe  Infection: HLLP.6160
+u:\collection\dos\file_e-j\hllp\feudal\4643.int\virus.dos.hllp.2312  Infection: HLLP.6160
 u:\collection\dos\file_e-j\hllp\firelove\firelove.vxe  Infection: HLLP.10217
 u:\collection\dos\file_e-j\hllp\forth\4608\t1.vxe  Infection: Fort.4608
 u:\collection\dos\file_e-j\hllp\forth\4608\t2.vxe  Infection: Fort.4608
@@ -14439,24 +14873,59 @@ u:\collection\dos\file_e-j\hllp\forth\4608\t4.vxe  Infection: Fort.4608
 u:\collection\dos\file_e-j\hllp\forth\4608\t5.vxe  Infection: Fort.4608
 u:\collection\dos\file_e-j\hllp\forth\4608\t6.vxe  Infection: Fort.4608
 u:\collection\dos\file_e-j\hllp\forth\4608\wci00305.vxe  Infection: Fort.4608
-u:\collection\dos\file_e-j\hllp\globe\globe3.vom->(DIET)  Infection: HLLP.5150.A (exact)
-u:\collection\dos\file_e-j\hllp\globe\hll5150.vxe->(DIET)  Infection: HLLP.5150.A (exact)
-u:\collection\dos\file_e-j\hllp\globe\hll515~1.vom->(DIET)  Infection: HLLP.5150.A (exact)
-u:\collection\dos\file_e-j\hllp\globe\hll515~1.vxe->(DIET)  Infection: HLLP.5150.A (exact)
+u:\collection\dos\file_e-j\hllp\fox\10960\virus.dos.hllo.fox.10992  Infection: HLLP.10960 (exact)
+u:\collection\dos\file_e-j\hllp\frontier\9583\virus.dos.hllp.frontier.9583  Infection: HLLP.9583
+u:\collection\dos\file_e-j\hllp\frost\6960\virus.dos.hllp.frost.6960  Infection: HLLP.6960.A
+u:\collection\dos\file_e-j\hllp\frv\11652\virus.dos.hllp.frv.11652  Infection: HLLP.11652
+u:\collection\dos\file_e-j\hllp\gid\11824\virus.dos.hllp.gid.11824  Infection: HLLP.11824 (exact)
+u:\collection\dos\file_e-j\hllp\globe\a\globe3.vom->(DIET)  Infection: HLLP.5150.A (exact)
+u:\collection\dos\file_e-j\hllp\globe\a\hll5150.vxe->(DIET)  Infection: HLLP.5150.A (exact)
+u:\collection\dos\file_e-j\hllp\globe\a\hll515~1.vom->(DIET)  Infection: HLLP.5150.A (exact)
+u:\collection\dos\file_e-j\hllp\globe\a\hll515~1.vxe->(DIET)  Infection: HLLP.5150.A (exact)
+u:\collection\dos\file_e-j\hllp\globe\b\globev-0.vom  Infection: HLLP.5150.B (exact)
+u:\collection\dos\file_e-j\hllp\globe\b\globev-1.vom  Infection: HLLP.5150.B (exact)
+u:\collection\dos\file_e-j\hllp\godog\8600\b\virus.dos.hllp.8600  Infection: HLLP.8600.B
+u:\collection\dos\file_e-j\hllp\gold\15746\virus.dos.hllp.15746  Infection: HLLP.15746 (exact)
+u:\collection\dos\file_e-j\hllp\goma\5568\a\virus.dos.hllp.goma.5568.a  Infection: HLLP.5568.B (exact)
+u:\collection\dos\file_e-j\hllp\goma\5568\b\virus.dos.hllp.goma.5568.b  Infection: HLLP.5568.D (exact)
+u:\collection\dos\file_e-j\hllp\grab\5728\virus.dos.hllp.grab.5728  Infection: HLLP.5728
+u:\collection\dos\file_e-j\hllp\gravanda\10272\virus.dos.hllp.gravanda.10272  Infection: HLLP.10272
+u:\collection\dos\file_e-j\hllp\grosser\6387\virus.dos.hllp.grosser  Infection: HLLP.6387
+u:\collection\dos\file_e-j\hllp\gula\7413\a\virus.dos.hllp.gula.7413  Infection: HLLP.7413.A
+u:\collection\dos\file_e-j\hllp\gula\7413\b\virus.dos.hllp.7413  Infection: HLLP.7413.B (exact)
 u:\collection\dos\file_e-j\hllp\hallowee\hallow.vxe  Infection: HLLP.Halloween
 u:\collection\dos\file_e-j\hllp\hallowee\hallowe1.vxe  Infection: HLLP.Halloween
 u:\collection\dos\file_e-j\hllp\hallowee\hllhal0.vxe  Infection: HLLP.Halloween
 u:\collection\dos\file_e-j\hllp\hallowee\hllhal~1.vxe  Infection: HLLP.Halloween
-u:\collection\dos\file_e-j\hllp\hello\10000\hlt10000.vxe  Infection: HLLP.10000.A
-u:\collection\dos\file_e-j\hllp\hello\10000\t1.vxe  Infection: HLLP.10000.A
+u:\collection\dos\file_e-j\hllp\happy\6912\virus.dos.hllp.happy.6912  Infection: HLLP.6912
+u:\collection\dos\file_e-j\hllp\harmless\6144\virus.dos.hllp.harmless.6144  Infection: HLLP.6144.B (exact)
+u:\collection\dos\file_e-j\hllp\harry\4696\virus.dos.hllp.harry.4696  Infection: HLLP.4696
+u:\collection\dos\file_e-j\hllp\hello\10000\a\hlt10000.vxe  Infection: HLLP.10000.A
+u:\collection\dos\file_e-j\hllp\hello\10000\a\t1.vxe  Infection: HLLP.10000.A
+u:\collection\dos\file_e-j\hllp\hello\10000\b\virus.dos.hllp.hello.10000.a  Infection: HLLP.10000.B
+u:\collection\dos\file_e-j\hllp\hello\10000\c\virus.dos.hllp.hello.10000.c  Infection: HLLP.10000.F (exact)
 u:\collection\dos\file_e-j\hllp\hooters\5000\1-hl5000.vom  Infection: HLLP.5000.C (exact)
 u:\collection\dos\file_e-j\hllp\hooters\5000\2-hl5000.vom  Infection: HLLP.5000.C (exact)
+u:\collection\dos\file_e-j\hllp\hronos\7242\virus.dos.hllp.hronos.7242  Infection: HLLP.7242.B
+u:\collection\dos\file_e-j\hllp\hung\4944\virus.dos.hllp.hung.4949  Infection: HLLP.4944
+u:\collection\dos\file_e-j\hllp\ilse\7616\virus.dos.hllp.ilse.7616  Infection: HLLP.7616
+u:\collection\dos\file_e-j\hllp\imdead\6016\virus.dos.hllp.nolon.6016  Infection: HLLP.6016.C
+u:\collection\dos\file_e-j\hllp\inna\5260\virus.dos.hllp.inna.5260  Infection: HLLP.5260.A
+u:\collection\dos\file_e-j\hllp\inna\6648\virus.dos.hllp.inna.6648  Infection: HLLP.6648.B
+u:\collection\dos\file_e-j\hllp\iraq\7299\virus.dos.hllp.iraq.7299  Infection: HLLP.7299
+u:\collection\dos\file_e-j\hllp\irka\5400\virus.dos.hllp.irka.5400  Infection: HLLP.5400.unknown?
+u:\collection\dos\file_e-j\hllp\irm\7360\virus.dos.hllp.irm.7360  Infection: HLLP.10000.G
+u:\collection\dos\file_e-j\hllp\irok\10000\a\virus.dos.hllp.irok.10000.a  Infection: HLLP.10000.C
+u:\collection\dos\file_e-j\hllp\irok\10000\b\virus.dos.hllp.irok.10000.b  Infection: HLLP.10000.C
 u:\collection\dos\file_e-j\hllp\isaw\6274\hllt6274.vom  Infection: HLLP.6274.A (exact)
 u:\collection\dos\file_e-j\hllp\isaw\6274\hllt6274.vxe  Infection: HLLP.6274.A (exact)
 u:\collection\dos\file_e-j\hllp\isaw\6274\t1.vxe  Infection: HLLP.6274.A (exact)
 u:\collection\dos\file_e-j\hllp\isaw\6274\wci02114.vxe  Infection: HLLP.6274.A (exact)
 u:\collection\dos\file_e-j\hllp\izvrat\5555\izvrat3b.vxe->(PKLITE)  Infection: HLLP.5555.A (exact)
 u:\collection\dos\file_e-j\hllp\izvrat\5555\wci0379h.vxe->(PKLITE)  Infection: HLLP.5555.A (exact)
+u:\collection\dos\file_e-j\hllp\jackie\6304\T1.vxe  Infection: HLLP.6304.A
+u:\collection\dos\file_e-j\hllp\jackie\6304\T3.vxe  Infection: HLLP.6304.A
+u:\collection\dos\file_e-j\hllp\jackie\6304\virus.dos.hllp.jackie.6304  Infection: HLLP.6304.A
 u:\collection\dos\file_e-j\hllp\jojo\4400\1-hl4400.vom  Infection: HLLP.4400
 u:\collection\dos\file_e-j\hllp\jojo\4400\1-hl4400.vxe  Infection: HLLP.4400
 u:\collection\dos\file_e-j\hllp\jojo\4400\2-hl4400.vom  Infection: HLLP.4400
@@ -14465,11 +14934,20 @@ u:\collection\dos\file_e-j\hllp\jojo\4400\3-hl4400.vom  Infection: HLLP.4400
 u:\collection\dos\file_e-j\hllp\jojo\4400\3-hl4400.vxe  Infection: HLLP.4400
 u:\collection\dos\file_e-j\hllp\jojo\4400\4-hl4400.vom  Infection: HLLP.4400
 u:\collection\dos\file_e-j\hllp\jojo\4416\wci0378h.vxe  Infection: HLLP.4416
+u:\collection\dos\file_e-j\hllp\jokes\4844\virus.dos.hllo.vt.4844  Infection: HLLO.4844
+u:\collection\dos\file_e-j\hllp\jokes\7152\virus.dos.hllo.5057  Infection: HLLO.4937
+u:\collection\dos\file_e-j\hllp\jsme\6999\virus.dos.hllp.jsme.7020  Infection: HLLP.6999
+u:\collection\dos\file_e-j\hllp\jutro\9872\virus.dos.hllp.jutro.9872  Infection: HLLP.9872
 u:\collection\dos\file_e-j\hllp\kasienka\kasienka.vxe  Infection: HLLP.Kasienka
+u:\collection\dos\file_e-j\hllp\kgb\8352\virus.dos.hllp.kgb.5943  Infection: HLLP.8352
 u:\collection\dos\file_e-j\hllp\kiev\4793\kiev4793.vxe->(PKLITE)  Infection: HLLP.4793
 u:\collection\dos\file_e-j\hllp\kiev\4793\t1.vxe->(PKLITE)  Infection: HLLP.4793
 u:\collection\dos\file_e-j\hllp\kiev\4793\t2.vxe->(PKLITE)  Infection: HLLP.4793
 u:\collection\dos\file_e-j\hllp\kiev\4793\t7.vxe->(PKLITE)  Infection: HLLP.4793
+u:\collection\dos\file_e-j\hllp\kobr\8636\virus.dos.hllp.kobr.8636  Infection: HLLP.8636
+u:\collection\dos\file_e-j\hllp\kokos\6889\virus.dos.hllp.kokos.6889  Infection: HLLP.6889
+u:\collection\dos\file_e-j\hllp\kondor\6800\virus.dos.hllp.kondor.6800  Infection: HLLP.6800.A
+u:\collection\dos\file_e-j\hllp\kork\5400\virus.dos.hllp.kork.5400  Infection: HLLP.5400.B
 u:\collection\dos\file_e-j\hllp\kornik\5658\a\1-hl5658.vxe->(PKLITE)  Infection: HLLP.5658.A (exact)
 u:\collection\dos\file_e-j\hllp\kornik\5658\a\2-hl5658.vxe->(PKLITE)  Infection: HLLP.5658.A (exact)
 u:\collection\dos\file_e-j\hllp\kornik\5658\a\3-hl5658.vxe->(PKLITE)  Infection: HLLP.5658.A (exact)
@@ -14477,16 +14955,24 @@ u:\collection\dos\file_e-j\hllp\kornik\5658\a\korn5658.vxe->(PKLITE)  Infection:
 u:\collection\dos\file_e-j\hllp\kornik\5658\a\t1.vxe->(PKLITE)  Infection: HLLP.5658.A (exact)
 u:\collection\dos\file_e-j\hllp\kornik\5658\b\hlt5658u.vxe  Infection: HLLP.5658.A (exact)
 u:\collection\dos\file_e-j\hllp\kornik\5658\b\t1.vxe  Infection: HLLP.5658.A (exact)
-u:\collection\dos\file_e-j\hllp\kornik\5712\1-hl5712.vxe  Infection: HLLP.5712.B
-u:\collection\dos\file_e-j\hllp\kornik\5712\2-hl5712.vxe  Infection: HLLP.5712.B
-u:\collection\dos\file_e-j\hllp\kornik\5712\3-hl5712.vxe  Infection: HLLP.5712.B
-u:\collection\dos\file_e-j\hllp\kornik\5712\hllt5712.vxe  Infection: HLLP.5712.B
-u:\collection\dos\file_e-j\hllp\kornik\5712\t1.vxe  Infection: HLLP.5712.B
+u:\collection\dos\file_e-j\hllp\kornik\5712\a\virus.dos.hllp.kornik.5712  Infection: HLLP.5712.A
+u:\collection\dos\file_e-j\hllp\kornik\5712\b\1-hl5712.vxe  Infection: HLLP.5712.B
+u:\collection\dos\file_e-j\hllp\kornik\5712\b\2-hl5712.vxe  Infection: HLLP.5712.B
+u:\collection\dos\file_e-j\hllp\kornik\5712\b\3-hl5712.vxe  Infection: HLLP.5712.B
+u:\collection\dos\file_e-j\hllp\kornik\5712\b\hllt5712.vxe  Infection: HLLP.5712.B
+u:\collection\dos\file_e-j\hllp\kornik\5712\b\t1.vxe  Infection: HLLP.5712.B
 u:\collection\dos\file_e-j\hllp\kornik\6256\1-hl6256.vxe  Infection: HLLP.6256.A
 u:\collection\dos\file_e-j\hllp\kornik\6256\2-hl6256.vxe  Infection: HLLP.6256.A
 u:\collection\dos\file_e-j\hllp\kornik\6256\3-hl6256.vxe  Infection: HLLP.6256.A
 u:\collection\dos\file_e-j\hllp\kornik\6256\hllp6256.vxe  Infection: HLLP.6256.A
 u:\collection\dos\file_e-j\hllp\kornik\6256\t1.vxe  Infection: HLLP.6256.A
+u:\collection\dos\file_e-j\hllp\kpl\11897\virus.dos.hllp.kpl.11897  Infection: HLLP.11897
+u:\collection\dos\file_e-j\hllp\kremlin\5055\virus.dos.hllp.kremlin.5055  Infection: HLLP.5055
+u:\collection\dos\file_e-j\hllp\kremlin\5228\virus.dos.hllp.kremlin.5228  Infection: HLLP.5228 (exact)
+u:\collection\dos\file_e-j\hllp\kretyn\5760\virus.dos.hllp.test.5760  Infection: HLLP.5760
+u:\collection\dos\file_e-j\hllp\kretyn\5776\a\virus.dos.hllp.kretyn.5776  Infection: HLLP.5776.C (exact)
+u:\collection\dos\file_e-j\hllp\kretyn\5776\b\virus.dos.hllp.kat.5776  Infection: HLLP.5776.C
+u:\collection\dos\file_e-j\hllp\krile\4515\virus.dos.hllp.krile.4515  Infection: HLLP.4515
 u:\collection\dos\file_e-j\hllp\krile\4537\binhex.vxe->(LZEXE)  Infection: HLLP.4537
 u:\collection\dos\file_e-j\hllp\krile\4537\debug.vxe->(LZEXE)  Infection: HLLP.4537
 u:\collection\dos\file_e-j\hllp\krile\4537\grep.vom->(LZEXE)  Infection: HLLP.4537
@@ -14529,13 +15015,14 @@ u:\collection\dos\file_e-j\hllp\krile\5504\t10.vom  Infection: HLLP.5504
 u:\collection\dos\file_e-j\hllp\krile\5504\t7.vxe  Infection: HLLP.5504
 u:\collection\dos\file_e-j\hllp\krile\5504\t9.vom  Infection: HLLP.5504
 u:\collection\dos\file_e-j\hllp\krile\5504\trace.vxe  Infection: HLLP.5504
-u:\collection\dos\file_e-j\hllp\krile\5696\abadbs.vxe  Infection: HLLP.5696.B (exact)
-u:\collection\dos\file_e-j\hllp\krile\5696\keyb.vom  Infection: HLLP.5696.B (exact)
-u:\collection\dos\file_e-j\hllp\krile\5696\krile.vxe  Infection: HLLP.5696.B (exact)
-u:\collection\dos\file_e-j\hllp\krile\5696\t10.vom  Infection: HLLP.5696.B (exact)
-u:\collection\dos\file_e-j\hllp\krile\5696\t7.vxe  Infection: HLLP.5696.B (exact)
-u:\collection\dos\file_e-j\hllp\krile\5696\t9.vom  Infection: HLLP.5696.B (exact)
-u:\collection\dos\file_e-j\hllp\krile\5696\trace.vxe  Infection: HLLP.5696.B (exact)
+u:\collection\dos\file_e-j\hllp\krile\5696\a\virus.dos.hllp.krile.5696.b  Infection: HLLP.5696.A (exact)
+u:\collection\dos\file_e-j\hllp\krile\5696\b\abadbs.vxe  Infection: HLLP.5696.B (exact)
+u:\collection\dos\file_e-j\hllp\krile\5696\b\keyb.vom  Infection: HLLP.5696.B (exact)
+u:\collection\dos\file_e-j\hllp\krile\5696\b\krile.vxe  Infection: HLLP.5696.B (exact)
+u:\collection\dos\file_e-j\hllp\krile\5696\b\t10.vom  Infection: HLLP.5696.B (exact)
+u:\collection\dos\file_e-j\hllp\krile\5696\b\t7.vxe  Infection: HLLP.5696.B (exact)
+u:\collection\dos\file_e-j\hllp\krile\5696\b\t9.vom  Infection: HLLP.5696.B (exact)
+u:\collection\dos\file_e-j\hllp\krile\5696\b\trace.vxe  Infection: HLLP.5696.B (exact)
 u:\collection\dos\file_e-j\hllp\krile\5744\antichek.vxe  Infection: HLLP.5744
 u:\collection\dos\file_e-j\hllp\krile\5744\baitaac.vxe  Infection: HLLP.5744
 u:\collection\dos\file_e-j\hllp\krile\5744\debug.vxe  Infection: HLLP.5744
@@ -14548,12 +15035,14 @@ u:\collection\dos\file_e-j\hllp\krile\5762\t10.vom  Infection: HLLP.5762
 u:\collection\dos\file_e-j\hllp\krile\5762\t7.vxe  Infection: HLLP.5762
 u:\collection\dos\file_e-j\hllp\krile\5762\t9.vom  Infection: HLLP.5762
 u:\collection\dos\file_e-j\hllp\krile\5762\trace.vxe  Infection: HLLP.5762
+u:\collection\dos\file_e-j\hllp\krile\5776\virus.dos.hllp.krile.5776  Infection: HLLP.5776.B
 u:\collection\dos\file_e-j\hllp\krile\5831\debug.vxe  Infection: HLLP.5831
 u:\collection\dos\file_e-j\hllp\krile\5831\krile.vxe  Infection: HLLP.5831
 u:\collection\dos\file_e-j\hllp\krile\5831\t10.vom  Infection: HLLP.5831
 u:\collection\dos\file_e-j\hllp\krile\5831\t7.vxe  Infection: HLLP.5831
 u:\collection\dos\file_e-j\hllp\krile\5831\t9.vom  Infection: HLLP.5831
 u:\collection\dos\file_e-j\hllp\krile\5831\trace.vxe  Infection: HLLP.5831
+u:\collection\dos\file_e-j\hllp\krile\5864\virus.dos.hllp.krile.5864  Infection: HLLP.5864
 u:\collection\dos\file_e-j\hllp\krile\5880\grep.vom  Infection: HLLP.5880
 u:\collection\dos\file_e-j\hllp\krile\5880\kril5880.vom  Infection: HLLP.5880
 u:\collection\dos\file_e-j\hllp\krile\5880\kril5880.vxe  Infection: HLLP.5880
@@ -14564,12 +15053,21 @@ u:\collection\dos\file_e-j\hllp\krile\5880\t9.vom  Infection: HLLP.5880
 u:\collection\dos\file_e-j\hllp\krile\5880\tf.vom  Infection: HLLP.5880
 u:\collection\dos\file_e-j\hllp\krile\5880\tf.vxe  Infection: HLLP.5880
 u:\collection\dos\file_e-j\hllp\krile\5880\trace.vxe  Infection: HLLP.5880
-u:\collection\dos\file_e-j\hllp\lcamtuf\3888\1-hl3888.vom  Infection: HLLP.3888.A
-u:\collection\dos\file_e-j\hllp\lcamtuf\3888\1-hl3888.vxe  Infection: HLLP.3888.A
-u:\collection\dos\file_e-j\hllp\lcamtuf\3888\2-hl3888.vom  Infection: HLLP.3888.A
-u:\collection\dos\file_e-j\hllp\lcamtuf\3888\2-hl3888.vxe  Infection: HLLP.3888.A
-u:\collection\dos\file_e-j\hllp\lcamtuf\3888\3-hl3888.vom  Infection: HLLP.3888.A
-u:\collection\dos\file_e-j\hllp\lcamtuf\3888\3-hl3888.vxe  Infection: HLLP.3888.A
+u:\collection\dos\file_e-j\hllp\krueger\5283\virus.dos.hllp.krueger.5283  Infection: HLLP.5283 (exact)
+u:\collection\dos\file_e-j\hllp\kurt\10370\virus.dos.hllp.kurt.10370  Infection: HLLO.10370 (exact)
+u:\collection\dos\file_e-j\hllp\kuzin\12978\virus.dos.hllp.kuzin.12978  Infection: HLLP.12978
+u:\collection\dos\file_e-j\hllp\kye\6288\virus.dos.hllp.kye.6288  Infection: HLLP.6288.B (exact)
+u:\collection\dos\file_e-j\hllp\kye\6496\virus.dos.hllp.kye.6496  Infection: HLLP.6496 (exact)
+u:\collection\dos\file_e-j\hllp\kye\6848\virus.dos.hllp.kye.6848  Infection: HLLP.6848 (exact)
+u:\collection\dos\file_e-j\hllp\kye\7056\virus.dos.hllp.kye.7056  Infection: HLLP.7056 (exact)
+u:\collection\dos\file_e-j\hllp\lcamtuf\03888\1-hl3888.vom  Infection: HLLP.3888.A
+u:\collection\dos\file_e-j\hllp\lcamtuf\03888\1-hl3888.vxe  Infection: HLLP.3888.A
+u:\collection\dos\file_e-j\hllp\lcamtuf\03888\2-hl3888.vom  Infection: HLLP.3888.A
+u:\collection\dos\file_e-j\hllp\lcamtuf\03888\2-hl3888.vxe  Infection: HLLP.3888.A
+u:\collection\dos\file_e-j\hllp\lcamtuf\03888\3-hl3888.vom  Infection: HLLP.3888.A
+u:\collection\dos\file_e-j\hllp\lcamtuf\03888\3-hl3888.vxe  Infection: HLLP.3888.A
+u:\collection\dos\file_e-j\hllp\lcamtuf\21037\virus.dos.hllp.lcamtuf.21037  Infection: HLLP.21037
+u:\collection\dos\file_e-j\hllp\leon\8755\b\virus.dos.hllp.leon.8755  Infection: HLLP.8755.B (exact)
 u:\collection\dos\file_e-j\hllp\light\4859\a\bbody.vom->(PKLITE)  Infection: HLLP.4859.A
 u:\collection\dos\file_e-j\hllp\light\4859\a\bigbody.vom->(PKLITE)  Infection: HLLP.4859.A
 u:\collection\dos\file_e-j\hllp\light\4859\a\big_body.vom->(PKLITE)  Infection: HLLP.4859.A
@@ -14585,10 +15083,12 @@ u:\collection\dos\file_e-j\hllp\light\4859\a\t6.vom->(PKLITE)  Infection: HLLP.4
 u:\collection\dos\file_e-j\hllp\light\4859\a\t7.vom->(PKLITE)  Infection: HLLP.4859.A
 u:\collection\dos\file_e-j\hllp\light\4859\b\hlp4858u.vom  Infection: HLLP.4859.A
 u:\collection\dos\file_e-j\hllp\light\4859\b\t7.vom  Infection: HLLP.4859.A
+u:\collection\dos\file_e-j\hllp\light\4879\virus.dos.hllp.light.4879  Infection: HLLP.4879 (exact)
 u:\collection\dos\file_e-j\hllp\light\4917\ligh4917.vom->(LZEXE)  Infection: HLLP.4917
 u:\collection\dos\file_e-j\hllp\light\4917\ligh4917.vxe->(LZEXE)  Infection: HLLP.4917
 u:\collection\dos\file_e-j\hllp\light\4917\t1.vom->(LZEXE)  Infection: HLLP.4917
 u:\collection\dos\file_e-j\hllp\lindalou\linlou2.vxe  Infection: HLLP.7128
+u:\collection\dos\file_e-j\hllp\linux\6800\virus.dos.hllp.6800  Infection: HLLP.6240
 u:\collection\dos\file_e-j\hllp\lipstick\4784\lip4784.vxe  Infection: HLLP.4784
 u:\collection\dos\file_e-j\hllp\lipstick\4784\t7.vxe  Infection: HLLP.4784
 u:\collection\dos\file_e-j\hllp\lipstick\4784\tf.vxe  Infection: HLLP.4784
@@ -14596,28 +15096,57 @@ u:\collection\dos\file_e-j\hllp\lipstick\4880\lip4880.vxe  Infection: HLLP.4880
 u:\collection\dos\file_e-j\hllp\lipstick\4880\t7.vxe  Infection: HLLP.4880
 u:\collection\dos\file_e-j\hllp\lipstick\4880\tf.vxe  Infection: HLLP.4880
 u:\collection\dos\file_e-j\hllp\loulou\hllloulo.vxe  Infection: HLLP.4745.C
-u:\collection\dos\file_e-j\hllp\nazi\6528\canary.vxe->(PKLITE)  Infection: HLLP.6528
-u:\collection\dos\file_e-j\hllp\nazi\6528\debug.vxe->(PKLITE)  Infection: HLLP.6528
-u:\collection\dos\file_e-j\hllp\nazi\6528\dnazi31b.vxe->(PKLITE)  Infection: HLLP.6528
-u:\collection\dos\file_e-j\hllp\nazi\7904\cdplyr.vxe->(PKLITE)  Infection: HLLP.8000.B (exact)
-u:\collection\dos\file_e-j\hllp\nazi\7904\dnazi10b.vxe->(PKLITE)  Infection: HLLP.8000.B (exact)
-u:\collection\dos\file_e-j\hllp\nazi\7904\mediarck.vxe->(PKLITE)  Infection: HLLP.8000.B (exact)
-u:\collection\dos\file_e-j\hllp\nazi\7904\nazi7904.vxe->(PKLITE)  Infection: HLLP.8000.B (exact)
-u:\collection\dos\file_e-j\hllp\nazi\7904\t1.vxe->(PKLITE)  Infection: HLLP.8000.B (exact)
-u:\collection\dos\file_e-j\hllp\nazi\7904\t2.vxe->(PKLITE)  Infection: HLLP.8000.B (exact)
-u:\collection\dos\file_e-j\hllp\nazi\7904\t3.vxe->(PKLITE)  Infection: HLLP.8000.B (exact)
-u:\collection\dos\file_e-j\hllp\nazi\8600\a\1-hl8600.vom->(PKLITE)  Infection: HLLP.8600.A
-u:\collection\dos\file_e-j\hllp\nazi\8600\a\1-hl8600.vxe->(PKLITE)  Infection: HLLP.8600.A
-u:\collection\dos\file_e-j\hllp\nazi\8600\a\2-hl8600.vxe->(PKLITE)  Infection: HLLP.8600.A
-u:\collection\dos\file_e-j\hllp\nazi\8600\a\nazi8600.vxe->(PKLITE)  Infection: HLLP.8600.A
-u:\collection\dos\file_e-j\hllp\nazi\8600\a\t1.vxe->(PKLITE)  Infection: HLLP.8600.A
-u:\collection\dos\file_e-j\hllp\nazi\8600\a\t2.vxe->(PKLITE)  Infection: HLLP.8600.A
-u:\collection\dos\file_e-j\hllp\nazi\8600\b\dnazi20b.vxe->(PKLITE)  Infection: HLLP.8600.A
-u:\collection\dos\file_e-j\hllp\nazi\8600\b\hlt8600b.vom->(PKLITE)  Infection: HLLP.8600.A
-u:\collection\dos\file_e-j\hllp\nazi\8600\b\hlt8600b.vxe->(PKLITE)  Infection: HLLP.8600.A
-u:\collection\dos\file_e-j\hllp\nazi\8600\b\t2.vom->(PKLITE)  Infection: HLLP.8600.A
-u:\collection\dos\file_e-j\hllp\nazi\8600\b\t2.vxe->(PKLITE)  Infection: HLLP.8600.A
-u:\collection\dos\file_e-j\hllp\nazi\8600\b\t3.vxe->(PKLITE)  Infection: HLLP.8600.A
+u:\collection\dos\file_e-j\hllp\ludvi\4999\virus.dos.hllp.ludvi.4999  Infection: HLLP.4999
+u:\collection\dos\file_e-j\hllp\macbeth\5894\virus.dos.hllp.macbeth.5894  Infection: HLLP.5894.A
+u:\collection\dos\file_e-j\hllp\malomush\8192\a\virus.dos.hllp.malomush.8192  Infection: HLLP.8192.A
+u:\collection\dos\file_e-j\hllp\maniac\6144\virus.dos.hllp.6144  Infection: HLLP.6144.A
+u:\collection\dos\file_e-j\hllp\marek\6016\virus.dos.hllp.marek.6016  Infection: HLLP.6016.B
+u:\collection\dos\file_e-j\hllp\marker\9526\virus.dos.hllp.marker.9526  Infection: HLLP.9526.B (exact)
+u:\collection\dos\file_e-j\hllp\martin\9680\virus.dos.hllp.martin.9680  Infection: HLLP.9680
+u:\collection\dos\file_e-j\hllp\merlin\6119\virus.dos.hllp.merlin.6119  Infection: HLLP.6119
+u:\collection\dos\file_e-j\hllp\metal\07489\virus.dos.hllp.mutant.7489  Infection: HLLP.7489.unknown?
+u:\collection\dos\file_e-j\hllp\metal\07929\virus.dos.hllp.metal.7929  Infection: HLLP.7929
+u:\collection\dos\file_e-j\hllp\metal\13040\virus.dos.hllp.metal.13040  Infection: HLLP.13040
+u:\collection\dos\file_e-j\hllp\miet\11840\virus.dos.hllp.miet.11840  Infection: HLLP.11840
+u:\collection\dos\file_e-j\hllp\mis\10594\virus.dos.hllp.mis.10594  Infection: HLLP.10594
+u:\collection\dos\file_e-j\hllp\moonbug\5233\a\virus.dos.hllp.5233.a  Infection: HLLP.5233.B (exact)
+u:\collection\dos\file_e-j\hllp\moonbug\5233\b\virus.dos.hllp.5233.b  Infection: HLLP.5233.C (exact)
+u:\collection\dos\file_e-j\hllp\motu\4496\virus.dos.hllp.motu.4496  Infection: HLLP.4496
+u:\collection\dos\file_e-j\hllp\mud\7336\virus.dos.hllp.mud.7336  Infection: HLLP.7336.C (exact)
+u:\collection\dos\file_e-j\hllp\nazi\06528\canary.vxe->(PKLITE)  Infection: HLLP.6528
+u:\collection\dos\file_e-j\hllp\nazi\06528\debug.vxe->(PKLITE)  Infection: HLLP.6528
+u:\collection\dos\file_e-j\hllp\nazi\06528\dnazi31b.vxe->(PKLITE)  Infection: HLLP.6528
+u:\collection\dos\file_e-j\hllp\nazi\07864\virus.dos.hllp.ppz.7864  Infection: HLLP.7864
+u:\collection\dos\file_e-j\hllp\nazi\07904\cdplyr.vxe->(PKLITE)  Infection: HLLP.8000.B (exact)
+u:\collection\dos\file_e-j\hllp\nazi\07904\dnazi10b.vxe->(PKLITE)  Infection: HLLP.8000.B (exact)
+u:\collection\dos\file_e-j\hllp\nazi\07904\mediarck.vxe->(PKLITE)  Infection: HLLP.8000.B (exact)
+u:\collection\dos\file_e-j\hllp\nazi\07904\nazi7904.vxe->(PKLITE)  Infection: HLLP.8000.B (exact)
+u:\collection\dos\file_e-j\hllp\nazi\07904\t1.vxe->(PKLITE)  Infection: HLLP.8000.B (exact)
+u:\collection\dos\file_e-j\hllp\nazi\07904\t2.vxe->(PKLITE)  Infection: HLLP.8000.B (exact)
+u:\collection\dos\file_e-j\hllp\nazi\07904\t3.vxe->(PKLITE)  Infection: HLLP.8000.B (exact)
+u:\collection\dos\file_e-j\hllp\nazi\08000\a\virus.dos.hllp.dn.8000  Infection: HLLP.8000.A (exact)
+u:\collection\dos\file_e-j\hllp\nazi\08288\virus.dos.hllp.remiz.8288  Infection: HLLP.8288
+u:\collection\dos\file_e-j\hllp\nazi\08297\virus.dos.hllp.nazi.8297  Infection: HLLP.11712.B (exact)
+u:\collection\dos\file_e-j\hllp\nazi\08506\virus.dos.hllp.tomsk.8506  Infection: HLLP.8506
+u:\collection\dos\file_e-j\hllp\nazi\08516\virus.dos.hllp.ppz.8516  Infection: HLLP.8516
+u:\collection\dos\file_e-j\hllp\nazi\08600\a\1-hl8600.vom->(PKLITE)  Infection: HLLP.8600.A
+u:\collection\dos\file_e-j\hllp\nazi\08600\a\1-hl8600.vxe->(PKLITE)  Infection: HLLP.8600.A
+u:\collection\dos\file_e-j\hllp\nazi\08600\a\2-hl8600.vxe->(PKLITE)  Infection: HLLP.8600.A
+u:\collection\dos\file_e-j\hllp\nazi\08600\a\nazi8600.vxe->(PKLITE)  Infection: HLLP.8600.A
+u:\collection\dos\file_e-j\hllp\nazi\08600\a\t1.vxe->(PKLITE)  Infection: HLLP.8600.A
+u:\collection\dos\file_e-j\hllp\nazi\08600\a\t2.vxe->(PKLITE)  Infection: HLLP.8600.A
+u:\collection\dos\file_e-j\hllp\nazi\08600\b\dnazi20b.vxe->(PKLITE)  Infection: HLLP.8600.A
+u:\collection\dos\file_e-j\hllp\nazi\08600\b\hlt8600b.vom->(PKLITE)  Infection: HLLP.8600.A
+u:\collection\dos\file_e-j\hllp\nazi\08600\b\hlt8600b.vxe->(PKLITE)  Infection: HLLP.8600.A
+u:\collection\dos\file_e-j\hllp\nazi\08600\b\t2.vom->(PKLITE)  Infection: HLLP.8600.A
+u:\collection\dos\file_e-j\hllp\nazi\08600\b\t2.vxe->(PKLITE)  Infection: HLLP.8600.A
+u:\collection\dos\file_e-j\hllp\nazi\08600\b\t3.vxe->(PKLITE)  Infection: HLLP.8600.A
+u:\collection\dos\file_e-j\hllp\neth\6688\virus.dos.hllp.neth.6688  Infection: HLLP.6688
+u:\collection\dos\file_e-j\hllp\niki\7412\virus.dos.hllp.niki.7412  Infection: HLLP.7412
+u:\collection\dos\file_e-j\hllp\nirvana\8016\a\virus.dos.hllp.8016  Infection: HLLP.8016.A
+u:\collection\dos\file_e-j\hllp\nixda\8928\virus.dos.hllp.nixda.8928  Infection: HLLP.8928
+u:\collection\dos\file_e-j\hllp\notfound\6176\virus.dos.hllp.notfound.6176  Infection: HLLP.6176.C (exact)
+u:\collection\dos\file_e-j\hllp\nover\8496\virus.dos.hllp.nover.8496  Infection: HLLP.8496
 u:\collection\dos\file_e-j\hllp\np\4240\a\debug.vxe  Infection: HLLP.4240.C
 u:\collection\dos\file_e-j\hllp\np\4240\a\trace.vxe  Infection: HLLP.4240.C
 u:\collection\dos\file_e-j\hllp\np\4240\a\v6585.vxe  Infection: HLLP.4240.C
@@ -14627,13 +15156,23 @@ u:\collection\dos\file_e-j\hllp\np\4240\b\trace.vxe  Infection: HLLO.4240.A
 u:\collection\dos\file_e-j\hllp\np\4415\doskey.vom->(DIET)  Infection: HLLP.4415
 u:\collection\dos\file_e-j\hllp\np\4415\nazipb_v.vxe->(DIET)  Infection: HLLP.4415
 u:\collection\dos\file_e-j\hllp\np\4415\t2.vom->(DIET)  Infection: HLLP.4415
+u:\collection\dos\file_e-j\hllp\np\5488\a\DUMP32.vom  Infection: HLLP.5488
+u:\collection\dos\file_e-j\hllp\np\5488\a\naziph2.vxe  Infection: HLLP.5488
+u:\collection\dos\file_e-j\hllp\np\5488\b\DUMP32.vom  Infection: HLLP.5488
+u:\collection\dos\file_e-j\hllp\np\5488\b\unke0444.vxe  Infection: HLLP.5488
 u:\collection\dos\file_e-j\hllp\np\5984\t2.vom  Infection: HLLP.5984.A
 u:\collection\dos\file_e-j\hllp\np\5984\t3.vom  Infection: HLLP.5984.A
 u:\collection\dos\file_e-j\hllp\np\5984\v6580.vxe  Infection: HLLP.5984.A
-u:\collection\dos\file_e-j\hllp\np\6128\nazi6128.vxe  Infection: HLLP.6128.A
-u:\collection\dos\file_e-j\hllp\np\6128\t2.vom  Infection: HLLP.6128.A
-u:\collection\dos\file_e-j\hllp\np\6128\t3.vom  Infection: HLLP.6128.A
-u:\collection\dos\file_e-j\hllp\np\6128\v6575.vxe  Infection: HLLP.6128.A
+u:\collection\dos\file_e-j\hllp\np\6128\a\nazi6128.vxe  Infection: HLLP.6128.A
+u:\collection\dos\file_e-j\hllp\np\6128\a\t2.vom  Infection: HLLP.6128.A
+u:\collection\dos\file_e-j\hllp\np\6128\a\t3.vom  Infection: HLLP.6128.A
+u:\collection\dos\file_e-j\hllp\np\6128\a\v6575.vxe  Infection: HLLP.6128.A
+u:\collection\dos\file_e-j\hllp\np\6128\d\unke0445.vxe  Infection: HLLP.6128.D (exact)
+u:\collection\dos\file_e-j\hllp\np\6128\e\naziph2b.vxe  Infection: HLLP.6128.E (exact)
+u:\collection\dos\file_e-j\hllp\nutmeg\3310\virus.dos.hllp.nutmeg.3310  Infection: HLLP.3310
+u:\collection\dos\file_e-j\hllp\nutmeg\3327\virus.dos.hllp.nutmeg.3327  Infection: HLLP.3327
+u:\collection\dos\file_e-j\hllp\oeba\7000\virus.dos.hllp.oeba.7000  Infection: HLLP.7000.B (exact)
+u:\collection\dos\file_e-j\hllp\oskal\11004\virus.dos.hllp.oskal.11004  Infection: HLLP.11004
 u:\collection\dos\file_e-j\hllp\pascal\03072\a\hlp3072a.vxe  Infection: HLLP.3072.A
 u:\collection\dos\file_e-j\hllp\pascal\03072\a\pas3072a.vom  Infection: HLLP.3072.A
 u:\collection\dos\file_e-j\hllp\pascal\03072\b\3040-168.vxe  Infection: HLLP.3072.B
@@ -14646,16 +15185,35 @@ u:\collection\dos\file_e-j\hllp\pascal\07808\hllpas~1.vom  Infection: HLLP.7808.
 u:\collection\dos\file_e-j\hllp\pascal\07808\hlp7808.vxe  Infection: HLLP.7808.A
 u:\collection\dos\file_e-j\hllp\pascal\07808\v2870.vom  Infection: HLLP.7808.A
 u:\collection\dos\file_e-j\hllp\pascal\07808\_7808_a.vom  Infection: HLLP.7808.A
+u:\collection\dos\file_e-j\hllp\pascasio\9504\virus.dos.hllp.pascasio.9504  Infection: HLLP.9504.A (exact)
+u:\collection\dos\file_e-j\hllp\pech\10736\virus.dos.hllp.pech.10736  Infection: HLLP.10736
+u:\collection\dos\file_e-j\hllp\pet\10592\virus.dos.hllc.pet.10592  Infection: HLLP.10593
 u:\collection\dos\file_e-j\hllp\petra\7956\hllp7956.vxe->(LZEXE)  Infection: HLLP.7965
 u:\collection\dos\file_e-j\hllp\petra\7956\t1.vxe->(LZEXE)  Infection: HLLP.7965
+u:\collection\dos\file_e-j\hllp\picked\3808\unke0495.vxe  Infection: HLLP.3808
+u:\collection\dos\file_e-j\hllp\pmp\14432\virus.dos.hllp.pmp  Infection: HLLP.14432 (exact)
+u:\collection\dos\file_e-j\hllp\polly\9104\a\virus.dos.hllp.tiit.9104.a  Infection: HLLP.8336
+u:\collection\dos\file_e-j\hllp\polly\9104\b\virus.dos.hllp.tiit.9104.b  Infection: HLLP.8336
 u:\collection\dos\file_e-j\hllp\procat\3989\proc3989.vom  Infection: ProCat.3989
 u:\collection\dos\file_e-j\hllp\procat\3989\t7.vom  Infection: ProCat.3989
 u:\collection\dos\file_e-j\hllp\procat\4661\proc4661.vom  Infection: ProCat.4661 (exact)
 u:\collection\dos\file_e-j\hllp\procat\4661\t7.vom  Infection: ProCat.4661 (exact)
+u:\collection\dos\file_e-j\hllp\proga\10536\a\virus.dos.hllp.proga.10536  Infection: HLLP.10536.A
+u:\collection\dos\file_e-j\hllp\puzo\4000\virus.dos.hllo.puzo.4000  Infection: HLLP.3712 (exact)
+u:\collection\dos\file_e-j\hllp\queen\7504\virus.dos.hllp.queen.7504.a  Infection: HLLP.6960.B (exact)
+u:\collection\dos\file_e-j\hllp\quila\6416\virus.dos.hllp.quila.6416  Infection: HLLP.6416.A
 u:\collection\dos\file_e-j\hllp\rangel\5000\a\debug.vxe->(LZEXE)  Infection: HLLP.5000.A (exact)
 u:\collection\dos\file_e-j\hllp\rangel\5000\a\wci0198h.vxe->(LZEXE)  Infection: HLLP.5000.A (exact)
 u:\collection\dos\file_e-j\hllp\rangel\5000\b\debug.vxe  Infection: HLLP.5000.E (exact)
 u:\collection\dos\file_e-j\hllp\rangel\5000\b\wci07092.vxe  Infection: HLLP.5000.E (exact)
+u:\collection\dos\file_e-j\hllp\razborka\5856\virus.dos.hllp.razborka.5856  Infection: HLLP.5856
+u:\collection\dos\file_e-j\hllp\razborka\6048\virus.dos.hllp.razborka.6048  Infection: HLLP.6048
+u:\collection\dos\file_e-j\hllp\redarc\44136\virus.dos.hllp.redarc.44136  Infection: HLLP.44136
+u:\collection\dos\file_e-j\hllp\refly\5063\virus.dos.hllp.vsw.5063  Infection: HLLP.5063 (exact)
+u:\collection\dos\file_e-j\hllp\renia\6253\virus.dos.hllp.renia.6253  Infection: HLLP.6253
+u:\collection\dos\file_e-j\hllp\revenge\6018\virus.dos.hllp.revenge.6018  Infection: HLLP.6018.A
+u:\collection\dos\file_e-j\hllp\rhape\11056\virus.dos.hllp.rhape.11056  Infection: HLLP.11056 (exact)
+u:\collection\dos\file_e-j\hllp\ripper\7046\virus.dos.hllo.ripper.b  Infection: HLLP.7046 (exact)
 u:\collection\dos\file_e-j\hllp\rna\7296\hllrna~1.vom  Infection: HLLP.7296
 u:\collection\dos\file_e-j\hllp\rna\7296\hlp7296.vxe  Infection: HLLP.7296
 u:\collection\dos\file_e-j\hllp\rna\7296\v2875.vxe  Infection: HLLP.7296
@@ -14666,6 +15224,7 @@ u:\collection\dos\file_e-j\hllp\rna\7664\rna.vxe  is a corrupted or intended vir
 u:\collection\dos\file_e-j\hllp\romeo\5248\t2.vxe->(LZEXE)  Infection: HLLP.5248
 u:\collection\dos\file_e-j\hllp\romeo\5248\t3.vxe->(LZEXE)  Infection: HLLP.5248
 u:\collection\dos\file_e-j\hllp\romeo\5248\twno.vxe->(LZEXE)  Infection: HLLP.5248
+u:\collection\dos\file_e-j\hllp\roxy\4400\virus.dos.hllp.roxy.4400  Infection: HLLP.Roxy.4400
 u:\collection\dos\file_e-j\hllp\rsw\hllp5846.vom->(PKLITE)  Infection: HLLP.5846
 u:\collection\dos\file_e-j\hllp\runner\9312\1f931c6b.vxe  Infection: HLLP.9312 (exact)
 u:\collection\dos\file_e-j\hllp\runner\9312\fing9312.vxe  Infection: HLLP.9312 (exact)
@@ -14673,11 +15232,46 @@ u:\collection\dos\file_e-j\hllp\russian\5071\attrib.vxe->(DIET)  Infection: HLLP
 u:\collection\dos\file_e-j\hllp\russian\5071\canary.vxe->(DIET)  Infection: HLLP.5701.A
 u:\collection\dos\file_e-j\hllp\russian\5071\wci0204h.vxe->(DIET)  Infection: HLLP.5701.A
 u:\collection\dos\file_e-j\hllp\russian\6002\wci0206h.vxe->(DIET)  Infection: HLLP.6002
+u:\collection\dos\file_e-j\hllp\saboteur\41961\virus.dos.hllp.saboteur.41961  Infection: HLLP.41961
+u:\collection\dos\file_e-j\hllp\sara\6672\a\virus.dos.hllp.sara.6672.a  Infection: HLLP.6672.A
+u:\collection\dos\file_e-j\hllp\sara\6672\b\virus.dos.hllp.sara.6672.b  Infection: HLLP.6672.C
+u:\collection\dos\file_e-j\hllp\satyricon\6624\virus.dos.hllp.6624  Infection: HLLP.6624
+u:\collection\dos\file_e-j\hllp\satyricon\7808\virus.dos.hllp.satyricon.7808  Infection: HLLP.7808.B
+u:\collection\dos\file_e-j\hllp\satyricon\7824\virus.dos.hllp.satyricon.7824  Infection: HLLP.7824
+u:\collection\dos\file_e-j\hllp\satyricon\7840\virus.dos.hllp.satyricon.7840  Infection: HLLP.7840.A
 u:\collection\dos\file_e-j\hllp\sauron\wci0231h.vxe->(LZEXE)  Infection: HLLP.4731
+u:\collection\dos\file_e-j\hllp\sayx\virus.dos.hllp.bayx  Infection: HLLP.Sayx
+u:\collection\dos\file_e-j\hllp\scorp\7285\virus.dos.hllp.scorp.7285  Infection: HLLP.7285
+u:\collection\dos\file_e-j\hllp\sector\8640\virus.dos.hllp.sector.8640  Infection: HLLP.8640 (exact)
 u:\collection\dos\file_e-j\hllp\set\20621\1-h20621.vxe  Infection: HLLP.20621
 u:\collection\dos\file_e-j\hllp\set\20621\2-h20621.vxe  Infection: HLLP.20621
+u:\collection\dos\file_e-j\hllp\shutdown\6256\virus.dos.hllp.6256  Infection: HLLP.6256.C
+u:\collection\dos\file_e-j\hllp\simbirsk\11472\virus.dos.hllp.simbirsk.11472  Infection: HLLP.11472
+u:\collection\dos\file_e-j\hllp\sinw\33152\virus.dos.hllp.sinw.33152  Infection: HLLP.33152
+u:\collection\dos\file_e-j\hllp\siri\4996\virus.dos.hllp.siri.4996  Infection: HLLP.4996
+u:\collection\dos\file_e-j\hllp\skuns\5616\virus.dos.hllp.skuns.5616  Infection: HLLP.5616
+u:\collection\dos\file_e-j\hllp\slam\5549\virus.dos.hllp.slam.5549  Infection: HLLP.5549
+u:\collection\dos\file_e-j\hllp\smahtung\6208\virus.dos.hllp.smahtung.6208  Infection: HLLO.5552 (exact)
+u:\collection\dos\file_e-j\hllp\snooze\9504\virus.dos.hllp.snooze.9504  Infection: HLLP.9504.B
+u:\collection\dos\file_e-j\hllp\sonic\3783\virus.dos.hllp.hmok.3783  Infection: HLLP.3783 (exact)
+u:\collection\dos\file_e-j\hllp\sonic\4318\virus.dos.hllp.4318  Infection: HLLP.4318 (exact)
+u:\collection\dos\file_e-j\hllp\sonic\5447\virus.dos.hllp.sonic.5447  Infection: HLLP.5447
+u:\collection\dos\file_e-j\hllp\soul\5410\virus.dos.hllp.soul.5410  Infection: HLLP.5410.B (exact)
+u:\collection\dos\file_e-j\hllp\spawn\5701\virus.dos.hllp.spawn.8432  Infection: HLLP.5701.B
+u:\collection\dos\file_e-j\hllp\spice\14336\b\virus.dos.hllp.14336  Infection: HLLP.14336.B (exact)
+u:\collection\dos\file_e-j\hllp\spice\17456\unknown\virus.dos.hllp.spice.17456  Infection: HLLP.17456.unknown?
+u:\collection\dos\file_e-j\hllp\spyect\5968\a\virus.dos.hllp.5968  Infection: HLLP.5968.A
+u:\collection\dos\file_e-j\hllp\spyect\5968\b\virus.dos.hllp.spyect.5968  Infection: HLLP.5968.B
+u:\collection\dos\file_e-j\hllp\ssgp\7480\virus.dos.hllp.7840  Infection: HLLP.7480 (exact)
 u:\collection\dos\file_e-j\hllp\stanco\hllsta~1.vxe->(PKLITE)  Infection: HLLP.7529
 u:\collection\dos\file_e-j\hllp\stanco\stanco.vxe->(PKLITE)  Infection: HLLP.7529
+u:\collection\dos\file_e-j\hllp\stevenking\7493\EXTRACT.vxe  Infection: HLLP.7493
+u:\collection\dos\file_e-j\hllp\stevenking\7493\UUENCODE.vxe  Infection: HLLP.7493
+u:\collection\dos\file_e-j\hllp\stevenking\7493\virus.dos.hllp.stevenking.7897  Infection: HLLP.7493
+u:\collection\dos\file_e-j\hllp\sui\5674\virus.dos.hllp.sui.5674  Infection: HLLP.5674
+u:\collection\dos\file_e-j\hllp\suroz\5767\virus.dos.hllp.suroz.5767  Infection: HLLP.5767
+u:\collection\dos\file_e-j\hllp\tally\34846\virus.dos.hllo.tally.34846  Infection: HLLP.34846
+u:\collection\dos\file_e-j\hllp\taras\5046\virus.dos.hllp.taras.5046  Infection: HLLP.5046
 u:\collection\dos\file_e-j\hllp\tavc\05232\t1.vxe->(LZEXE)  Infection: HLLP.5233.A
 u:\collection\dos\file_e-j\hllp\tavc\05232\t2.vxe->(LZEXE)  Infection: HLLP.5233.A
 u:\collection\dos\file_e-j\hllp\tavc\05232\tavc6232.vxe->(LZEXE)  Infection: HLLP.5233.A
@@ -14687,7 +15281,25 @@ u:\collection\dos\file_e-j\hllp\tavc\07336\t1.vom  Infection: HLLP.7336.B
 u:\collection\dos\file_e-j\hllp\tavc\07336\t1.vxe  Infection: HLLP.7336.B
 u:\collection\dos\file_e-j\hllp\tavc\73436\t1.vxe  Infection: HLLP.73436
 u:\collection\dos\file_e-j\hllp\tavc\73436\tav73436.vxe  Infection: HLLP.73436
+u:\collection\dos\file_e-j\hllp\team\6274\virus.dos.hllp.team.6274  Infection: HLLP.6274.B (exact)
+u:\collection\dos\file_e-j\hllp\tempest\10058\virus.dos.hllp.tempest.10058  Infection: HLLP.10058
+u:\collection\dos\file_e-j\hllp\tempfall\8768\virus.dos.hllp.fall.8768  Infection: HLLP.8768
+u:\collection\dos\file_e-j\hllp\tempfall\9344\virus.dos.hllp.9344  Infection: HLLP.9344
+u:\collection\dos\file_e-j\hllp\termite\5000\a\virus.dos.hllp.termite.5000.a  Infection: HLLP.5000.F
+u:\collection\dos\file_e-j\hllp\termite\5000\b\virus.dos.hllp.termite.5000.b  Infection: HLLP.5000.G
+u:\collection\dos\file_e-j\hllp\termite\5575\virus.dos.hllp.termite.5575  Infection: HLLP.5575
+u:\collection\dos\file_e-j\hllp\tester1\4016\unke0494.vxe  Infection: HLLP.4016
+u:\collection\dos\file_e-j\hllp\tester1\4256\a\unke0496.vxe  Infection: HLLP.4256.A
+u:\collection\dos\file_e-j\hllp\timehalf\6355\virus.dos.hllp.timehalf.6355  Infection: HLLP.6783
+u:\collection\dos\file_e-j\hllp\toadie\6585\virus.dos.hllp.toadie.6585  Infection: HLLP.6585
+u:\collection\dos\file_e-j\hllp\toadie\7800\a\virus.dos.hllp.toadie.7800.a  Infection: HLLP.7800.A
+u:\collection\dos\file_e-j\hllp\toadie\7800\b\virus.dos.hllp.toadie.7800.b  Infection: HLLP.7800.B
+u:\collection\dos\file_e-j\hllp\toadie\9100\virus.dos.hllp.toadie.9100  Infection: HLLP.9100
+u:\collection\dos\file_e-j\hllp\trax\8001\virus.dos.hllp.trax.8001  Infection: HLLP.8001
+u:\collection\dos\file_e-j\hllp\turnoff\5326\virus.dos.hllp.turnoff.5326  Infection: HLLP.5326
 u:\collection\dos\file_e-j\hllp\ukazna\17414\10bb7e20.vxe  Infection: HLLP.17414
+u:\collection\dos\file_e-j\hllp\unmm\6917\virus.dos.hllp.uhmm.6917  Infection: HLLP.6917.A
+u:\collection\dos\file_e-j\hllp\unsteady\5667\b\virus.dos.hllp.unsteady.b  Infection: HLLP.5667.B
 u:\collection\dos\file_e-j\hllp\upi\4482\a\hllt4482.vom->(PKLITE)  Infection: HLLP.4482
 u:\collection\dos\file_e-j\hllp\upi\4482\a\hllt4482.vxe->(PKLITE)  Infection: HLLP.4482
 u:\collection\dos\file_e-j\hllp\upi\4482\a\t1.vom->(PKLITE)  Infection: HLLP.4482
@@ -14696,18 +15308,27 @@ u:\collection\dos\file_e-j\hllp\upi\4482\a\t2.vom->(PKLITE)  Infection: HLLP.448
 u:\collection\dos\file_e-j\hllp\upi\4482\a\t2.vxe->(PKLITE)  Infection: HLLP.4482
 u:\collection\dos\file_e-j\hllp\upi\4482\b\hlt4482u.vom  is a corrupted or intended virus
 u:\collection\dos\file_e-j\hllp\upi\4482\b\hlt4482u.vxe  is a corrupted or intended virus
+u:\collection\dos\file_e-j\hllp\upi\4641\virus.dos.hllp.upi.4641  Infection: HLLP.4641
+u:\collection\dos\file_e-j\hllp\usepass\11096\virus.dos.hllp.usepass.11096  Infection: HLLP.11096
+u:\collection\dos\file_e-j\hllp\usershell\4926\virus.dos.hllp.uh.4926  Infection: HLLP.4926 (exact)
 u:\collection\dos\file_e-j\hllp\viper\7792\7792.vxe  Infection: HLLP.7792
 u:\collection\dos\file_e-j\hllp\viper\7792\autoexec.bat  Infection: HLLP.7792
+u:\collection\dos\file_e-j\hllp\vircod\4225\a\virus.dos.hllp.vircod.4255  Infection: HLLP.4225.A (exact)
+u:\collection\dos\file_e-j\hllp\virtemp\7776\virus.dos.hllp.virtemp.7776  Infection: HLLP.7776.A
 u:\collection\dos\file_e-j\hllp\voodoo\4745\a\bontchev.vxe->(PKLITE)  Infection: HLLP.4745.A
 u:\collection\dos\file_e-j\hllp\voodoo\4745\a\hllvoo~1.vom->(PKLITE)  Infection: HLLP.4745.A
 u:\collection\dos\file_e-j\hllp\voodoo\4745\a\voodoo.vxe->(PKLITE)  Infection: HLLP.4745.A
 u:\collection\dos\file_e-j\hllp\voodoo\4745\b\t10.vom  Infection: HLLP.4745.A
 u:\collection\dos\file_e-j\hllp\voodoo\4745\b\unke0967.vxe  Infection: HLLP.4745.A
+u:\collection\dos\file_e-j\hllp\voodoo\4745\c\unke0441.vxe  Infection: HLLP.4745.B
 u:\collection\dos\file_e-j\hllp\vova\08896\wci0234h.vxe  Infection: HLLP.8896
 u:\collection\dos\file_e-j\hllp\vova\09904\wci0235h.vxe  Infection: HLLP.9904
+u:\collection\dos\file_e-j\hllp\vova\11328\virus.dos.hllp.vova.11328  Infection: HLLP.11328 (exact)
 u:\collection\dos\file_e-j\hllp\vova\12560\hllrus~1.vom  contains HLLP.12560 (non-working)
 u:\collection\dos\file_e-j\hllp\vova\12560\max01019.vom  Infection: HLLP.12560
 u:\collection\dos\file_e-j\hllp\vvc\8304\wci0211h.vxe  Infection: HLLP.8304
+u:\collection\dos\file_e-j\hllp\vxd\10000\virus.dos.hllp.vxd.10000  Infection: HLLP.10000.E (exact)
+u:\collection\dos\file_e-j\hllp\warheader\10220\virus.dos.hllp.warheader.7263  Infection: HLLP.10224
 u:\collection\dos\file_e-j\hllp\warmboot\4940\warmboot.vxe->(LZEXE)  Infection: HLLP.4940
 u:\collection\dos\file_e-j\hllp\weed\3263\a\shguncrk.vxe->(LZEXE)  Infection: HLLP.3263
 u:\collection\dos\file_e-j\hllp\weed\3263\a\weed1.vxe->(LZEXE)  Infection: HLLP.3263
@@ -14792,6 +15413,7 @@ u:\collection\dos\file_e-j\hllp\weed\5850\g\t3.vxe->(LZEXE)  Infection: HLLO.585
 u:\collection\dos\file_e-j\hllp\weed\5850\g\weed5850.vom->(LZEXE)  Infection: HLLO.5850
 u:\collection\dos\file_e-j\hllp\weed\5850\g\weed5850.vxe->(LZEXE)  Infection: HLLO.5850
 u:\collection\dos\file_e-j\hllp\weed\5850\h\wci00874.vxe  Infection: HLLP.5850.D#LZEXE
+u:\collection\dos\file_e-j\hllp\weed\7072\virus.dos.hllp.weed.7072  Infection: HLLP.7072
 u:\collection\dos\file_e-j\hllp\witam\5952\1-hl5952.vxe  Infection: HLLP.5952
 u:\collection\dos\file_e-j\hllp\witam\5952\2-hl5952.vxe  Infection: HLLP.5952
 u:\collection\dos\file_e-j\hllp\witam\5952\3-hl5952.vxe  Infection: HLLP.5952
@@ -14801,6 +15423,16 @@ u:\collection\dos\file_e-j\hllp\witam\5952\t2.vxe  Infection: HLLP.5952
 u:\collection\dos\file_e-j\hllp\witam\6368\hllt6368.vxe  Infection: HLLP.6368
 u:\collection\dos\file_e-j\hllp\witam\6368\t1.vxe  Infection: HLLP.6368
 u:\collection\dos\file_e-j\hllp\witam\6368\t2.vxe  Infection: HLLP.6368
+u:\collection\dos\file_e-j\hllp\worwin\7000\virus.dos.hllp.worwin.7000  Infection: HLLP.7000.E
+u:\collection\dos\file_e-j\hllp\ww\6768\virus.dos.hllp.ww.6768  Infection: HLLP.6768 (exact)
+u:\collection\dos\file_e-j\hllp\wyd\10127\virus.dos.hllp.wyd.10127  Infection: HLLP.10127
+u:\collection\dos\file_e-j\hllp\xyf\7858\virus.dos.hllp.xyf.7858  Infection: HLLP.7858
+u:\collection\dos\file_e-j\hllp\yap\8421\virus.dos.hllp.yap.8421  Infection: HLLP.8421
+u:\collection\dos\file_e-j\hllp\zenit\8688\virus.dos.hllp.zenit.8688  Infection: HLLP.8688
+u:\collection\dos\file_e-j\hllp\zielona\7300\virus.dos.hllp.zielona.7300  Infection: HLLP.7300
+u:\collection\dos\file_e-j\hllw\5696\virus.dos.hllw.5696  Infection: HLLP.5696.C
+u:\collection\dos\file_e-j\hllw\dosinfo\b\virus.dos.hllw.dosinfo  Infection: HLLO.Honi.B
+u:\collection\dos\file_e-j\hllw\show\18739\virus.dos.hllw.show  Infection: HLLP.18739
 u:\collection\dos\file_e-j\hoa\950\hoa950~1.vom  Infection: Hoa.950
 u:\collection\dos\file_e-j\hobbit\hobbit.vxe  Infection: Hobbit.416 (exact)
 u:\collection\dos\file_e-j\hobo\369\hobo369.vom  Infection: Hobo.369 (exact)
@@ -32750,6 +33382,7 @@ u:\collection\dos\file_s-z\unruly\a\t3.vom  Infection: _1121.A
 u:\collection\dos\file_s-z\unruly\a\Virus.DOS.V.1121.a  Infection: _1121.A - Dropper
 u:\collection\dos\file_s-z\unruly\a\wci0010#.vom  Infection: _1121.A
 u:\collection\dos\file_s-z\unruly\b\Virus.DOS.V.1121.b  Infection: _1121.B
+u:\collection\dos\file_s-z\unstress\1647\virus.dos.unstress.1647  Infection: HLLP.Meckpomm
 u:\collection\dos\file_s-z\ups\1155\t1.vom  Infection: Ups.1155 (exact)
 u:\collection\dos\file_s-z\ups\1155\t10.vom  Infection: Ups.1155 (exact)
 u:\collection\dos\file_s-z\ups\1155\t2.vom  Infection: Ups.1155 (exact)
@@ -40110,7 +40743,7 @@ u:\collection\dos\file_s-z\zz\429\zz.vom  Infection: ZZ.429
 u:\collection\dos\file_s-z\zz\429\zz2.vom  Infection: ZZ.429
 u:\collection\dos\file_s-z\zzz\1379\Virus.DOS.Zzz.1379  Infection: Zzz.1379 (exact)
 u:\collection\dos\file_s-z\z_mania\1741\Virus.DOS.Companion.Zmania.639  Infection: Z_Mania.1741
-u:\collection\dos\trojan\etroj\d\trojan.dos.zicar  Infection: Etroj.D
+u:\collection\dos\trojan\etroj\68\d\trojan.dos.zicar  Infection: Etroj.D
 u:\collection\macos (classic)\simpsons\a\simpsons-a.bin  is a security risk or a "backdoor" program
 u:\collection\macro\a97m\accessiv\a\accessiv-a.md_  Infection: A97M/AccessiV
 u:\collection\macro\a97m\accessiv\a\accessiv-a.md_  Infection: A97M/AccessiV
@@ -43648,14 +44281,14 @@ u:\collection\wince\trojan\brador\a\WinCE.Brador.vxe  is a security risk named W
 
 Results of virus scanning:
 
-Files: 48543
+Files: 67927
 MBRs: 0
 Boot sectors: 0
-Objects scanned: 45008
-Infected: 43188
-Suspicious: 437
+Objects scanned: 64392
+Infected: 43820
+Suspicious: 438
 Disinfected: 0
 Deleted: 0
 Renamed: 0
 
-Time: 1:48
+Time: 1:51
