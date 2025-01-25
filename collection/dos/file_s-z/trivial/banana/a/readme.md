@@ -4,7 +4,7 @@
 |------------------------|------------|
 | **Known aliases**      | - |
 | **Type**              | - |
-| **Size** | None bytes |
+| **Size** | 139 bytes |
 | **Contains text**     | - |
 | **Screen effects**    | - |
 | **Destructivity**     | - |
