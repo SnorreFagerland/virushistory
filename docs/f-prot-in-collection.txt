@@ -1,4 +1,4 @@
-Virus scanning report  -  26 January 2025 @ 2:59
+Virus scanning report  -  28 January 2025 @ 8:58
 
 F-PROT ANTIVIRUS
 Program version: 3.16f
@@ -16,6 +16,7 @@ Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\docs\f-prot-in-collection
 Memory was not scanned.
 No viruses were found in MBRs or hard disk boot sectors.
 
+u:\collection\beos\kate\a\beos.kate  Infection: Unix/Kate.A (exact)
 u:\collection\dos\boot\3apa3a\a\1a9fb66b687c9065b50f8feb1ac164faf785e110622e5de8fe32de00276f0edb  Infection: 3apa3a.A image file (exact)
 u:\collection\dos\boot\3apa3a\a\3apa3a.td0  Infection: 3apa3a.A image file (exact)
 u:\collection\dos\boot\3_nops\a\053b834bfb17b4b4943ff26289b431731312ed90201ba98edac8c9e70090f2f5  Infection: 3_NOPs.A image file (exact)
@@ -641,6 +642,7 @@ u:\collection\dos\boot\whirl\whirl.bin  Infection: Ping-Pong.Q image file (exact
 u:\collection\dos\boot\whirl\whirla.bin  Infection: Ping-Pong.Q image file (exact)
 u:\collection\dos\boot\whirl\whirlb.bin  Infection: Ping-Pong.R image file (exact)
 u:\collection\dos\boot\windmill\windmill.bin  Infection: Windmill image file (exact)
+u:\collection\dos\boot\wma\425\a\wci01213.td0  Infection: WMA.425.A image file (exact)
 u:\collection\dos\boot\wxyc\a\wxyca.boo  Infection: WXYC.A image file (exact)
 u:\collection\dos\boot\wxyc\b\wxycb.boo  Infection: WXYC.B image file (exact)
 u:\collection\dos\boot\wxyc\c\wxyc.boo  Infection: WXYC.unknown? image file
@@ -15436,6 +15438,7 @@ u:\collection\dos\file_e-j\hllp\zielona\7300\virus.dos.hllp.zielona.7300  Infect
 u:\collection\dos\file_e-j\hllw\5696\virus.dos.hllw.5696  Infection: HLLP.5696.C
 u:\collection\dos\file_e-j\hllw\dosinfo\b\virus.dos.hllw.dosinfo  Infection: HLLO.Honi.B
 u:\collection\dos\file_e-j\hllw\show\18739\virus.dos.hllw.show  Infection: HLLP.18739
+u:\collection\dos\file_e-j\hnyslov\770\virus.dos.hnys.770  Infection: Hnyslov.770
 u:\collection\dos\file_e-j\hoa\950\hoa950~1.vom  Infection: Hoa.950
 u:\collection\dos\file_e-j\hobbit\hobbit.vxe  Infection: Hobbit.416 (exact)
 u:\collection\dos\file_e-j\hobo\369\hobo369.vom  Infection: Hobo.369 (exact)
@@ -15626,8 +15629,6 @@ u:\collection\dos\file_e-j\htr\3791\t4.vom  Infection: Viroright.3791 (exact)
 u:\collection\dos\file_e-j\htr\3791\t6.vom  Infection: Viroright.3791 (exact)
 u:\collection\dos\file_e-j\htr\3791\t7.vom  Infection: Viroright.3791 (exact)
 u:\collection\dos\file_e-j\htr\3791\t8.vom  Infection: Viroright.3791 (exact)
-u:\collection\dos\file_e-j\httm\572\wci01822.vom  Infection: Httm.572
-u:\collection\dos\file_e-j\httm\580\wci01832.vom  Infection: Httm.580
 u:\collection\dos\file_e-j\huge\32767\hug32767.vom  Infection: Hug.9021
 u:\collection\dos\file_e-j\huge\32767\t1.vom  Infection: Hug.9021
 u:\collection\dos\file_e-j\huge\32767\t2.vom  Infection: Hug.9021
@@ -19828,6 +19829,7 @@ u:\collection\dos\file_k-r\lockjaw\893\lokjawd.vom  Infection: Lockjaw.893 (exac
 u:\collection\dos\file_k-r\lockjaw\894\loc894a.vom  Infection: Lockjaw.894 (exact)
 u:\collection\dos\file_k-r\lockjaw\894\lokjawz.vom  Infection: Lockjaw.894 (exact)
 u:\collection\dos\file_k-r\lockjaw\898\lokjawd.vom  Infection: Lockjaw.898
+u:\collection\dos\file_k-r\lockjaw\firefly\778\virus.dos.lokjaw.firefly.778  Infection: Honey.788 (exact)
 u:\collection\dos\file_k-r\lockjaw\pfeiffer\1203\ljpfeiff.vxe  Infection: Scramble.1203 - Dropper
 u:\collection\dos\file_k-r\lockjaw\pfeiffer\1203\pfeiff2.vxe  Infection: Scramble.1203 - Dropper
 u:\collection\dos\file_k-r\lockup\a\1-l2969a.vom  Infection: Lock-up.2969.A
@@ -25980,8 +25982,13 @@ u:\collection\dos\file_k-r\ps-mpc\hackmpc\599\g2deal10.vom  Infection: PS-MPC.59
 u:\collection\dos\file_k-r\ps-mpc\happy\v7875.vom  Infection: PS-MPC.475
 u:\collection\dos\file_k-r\ps-mpc\hd\ps-hd.vom  Infection: PS-MPC.497
 u:\collection\dos\file_k-r\ps-mpc\hiccup\03ce151d.vom  Infection: PS-MPC.533
+u:\collection\dos\file_k-r\ps-mpc\httm\285\virus.dos.httm.285  Infection: Httm.285 (exact)
+u:\collection\dos\file_k-r\ps-mpc\httm\351\virus.dos.ps-mpc.351  Infection: PS-MPC.351 (generic)
 u:\collection\dos\file_k-r\ps-mpc\httm\399\infectme.vxe  Infection: PS-MPC.399
 u:\collection\dos\file_k-r\ps-mpc\httm\475\wci0722p.vom  Infection: PS-MPC.475 (generic)
+u:\collection\dos\file_k-r\ps-mpc\httm\572\wci01822.vom  Infection: Httm.572
+u:\collection\dos\file_k-r\ps-mpc\httm\580\wci01832.vom  Infection: Httm.580
+u:\collection\dos\file_k-r\ps-mpc\httm\584\virus.dos.anni.584  Infection: Httm.584 (exact)
 u:\collection\dos\file_k-r\ps-mpc\httm\627\wci03983.vom  Infection: PS-MPC.627
 u:\collection\dos\file_k-r\ps-mpc\httm\691\691.vom  Infection: PS-MPC.691
 u:\collection\dos\file_k-r\ps-mpc\ironhoof\459\ihoof1.vom  Infection: PS-MPC.459 - Dropper
@@ -38742,14 +38749,20 @@ u:\collection\dos\file_s-z\weizen\471\t3.vom  Infection: Weizen.471
 u:\collection\dos\file_s-z\weizen\471\t5.vom  Infection: Weizen.471
 u:\collection\dos\file_s-z\weizen\471\t7.vom  Infection: Weizen.471
 u:\collection\dos\file_s-z\weizen\471\weizen.vom  Infection: Weizen.471
-u:\collection\dos\file_s-z\werehere\t1.vom  Infection: We're_Here.836 (exact)
-u:\collection\dos\file_s-z\werehere\t2.vom  Infection: We're_Here.836 (exact)
-u:\collection\dos\file_s-z\werehere\t3.vom  Infection: We're_Here.836 (exact)
-u:\collection\dos\file_s-z\werehere\t4.vom  Infection: We're_Here.836 (exact)
-u:\collection\dos\file_s-z\werehere\t5.vom  Infection: We're_Here.836 (exact)
-u:\collection\dos\file_s-z\werehere\t6.vom  Infection: We're_Here.836 (exact)
-u:\collection\dos\file_s-z\werehere\t9.vom  Infection: We're_Here.836 (exact)
-u:\collection\dos\file_s-z\werehere\werehere.vom  Infection: We're_Here.836 (exact)
+u:\collection\dos\file_s-z\weizen\503\virus.dos.weizen.503  Infection: Weizen.503
+u:\collection\dos\file_s-z\wenzel\824\virus.dos.wenzel.824  Infection: Wenzel.824
+u:\collection\dos\file_s-z\wenzel\919\virus.dos.wenzel.919  Infection: Wenzel.919
+u:\collection\dos\file_s-z\wenzel\952\virus.dos.wenzel.952  Infection: Wenzel.952 (exact)
+u:\collection\dos\file_s-z\wenzel\982\virus.dos.wenzel.982  Infection: Wenzel.982 (exact)
+u:\collection\dos\file_s-z\werehere\659\virus.dos.allfools.659  Infection: We're_Here.659
+u:\collection\dos\file_s-z\werehere\836\t1.vom  Infection: We're_Here.836 (exact)
+u:\collection\dos\file_s-z\werehere\836\t2.vom  Infection: We're_Here.836 (exact)
+u:\collection\dos\file_s-z\werehere\836\t3.vom  Infection: We're_Here.836 (exact)
+u:\collection\dos\file_s-z\werehere\836\t4.vom  Infection: We're_Here.836 (exact)
+u:\collection\dos\file_s-z\werehere\836\t5.vom  Infection: We're_Here.836 (exact)
+u:\collection\dos\file_s-z\werehere\836\t6.vom  Infection: We're_Here.836 (exact)
+u:\collection\dos\file_s-z\werehere\836\t9.vom  Infection: We're_Here.836 (exact)
+u:\collection\dos\file_s-z\werehere\836\werehere.vom  Infection: We're_Here.836 (exact)
 u:\collection\dos\file_s-z\werewolf\0658\wci0025w.vxe  Infection: WereWolf.658 (exact)
 u:\collection\dos\file_s-z\werewolf\0678\hsh.vxe  Infection: WereWolf.678 (exact)
 u:\collection\dos\file_s-z\werewolf\0678\packager.vxe  Infection: WereWolf.678 (exact)
@@ -38786,6 +38799,11 @@ u:\collection\dos\file_s-z\werewolf\1152\b\t1.vxe  Infection: WereWolf_III.1152.
 u:\collection\dos\file_s-z\werewolf\1152\b\t3.vxe  Infection: WereWolf_III.1152.B (exact)
 u:\collection\dos\file_s-z\werewolf\1152\b\t5.vxe  Infection: WereWolf_III.1152.B (exact)
 u:\collection\dos\file_s-z\werewolf\1152\b\trace.vxe  Infection: WereWolf_III.1152.B (exact)
+u:\collection\dos\file_s-z\werewolf\1152\c\t1.vom  Infection: WereWolf_III.1152.unknown?
+u:\collection\dos\file_s-z\werewolf\1152\c\t1.vxe  Infection: WereWolf_III.1152.unknown?
+u:\collection\dos\file_s-z\werewolf\1152\c\t3.vom  Infection: WereWolf_III.1152.unknown?
+u:\collection\dos\file_s-z\werewolf\1152\c\t3.vxe  Infection: WereWolf_III.1152.unknown?
+u:\collection\dos\file_s-z\werewolf\1152\c\virus.dos.werewolf.1152  Infection: WereWolf_III.1152.unknown?
 u:\collection\dos\file_s-z\werewolf\1158\scream.vxe  Infection: WereWolf_III.1142 (exact)
 u:\collection\dos\file_s-z\werewolf\1158\t1.vxe  Infection: WereWolf_III.1142 (exact)
 u:\collection\dos\file_s-z\werewolf\1158\t3.vxe  Infection: WereWolf_III.1142 (exact)
@@ -38816,36 +38834,40 @@ u:\collection\dos\file_s-z\werewolf\1361\t5.vxe  Infection: WereWolf.1361.A
 u:\collection\dos\file_s-z\werewolf\1361\t6.vxe  Infection: WereWolf.1361.A
 u:\collection\dos\file_s-z\werewolf\1361\trace.vxe  Infection: WereWolf.1361.A
 u:\collection\dos\file_s-z\werewolf\1367\first.vxe  Infection: WereWolf.1367 (exact)
-u:\collection\dos\file_s-z\werewolf\1450\t1.vom  Infection: WereWolf.1450.A
-u:\collection\dos\file_s-z\werewolf\1450\t1.vxe  Infection: WereWolf.1450.A
-u:\collection\dos\file_s-z\werewolf\1450\t3.vom  Infection: WereWolf.1450.A
-u:\collection\dos\file_s-z\werewolf\1450\t3.vxe  Infection: WereWolf.1450.A
-u:\collection\dos\file_s-z\werewolf\1450\t4.vxe  Infection: WereWolf.1450.A
-u:\collection\dos\file_s-z\werewolf\1450\t5.vom  Infection: WereWolf.1450.A
-u:\collection\dos\file_s-z\werewolf\1450\t5.vxe  Infection: WereWolf.1450.A
-u:\collection\dos\file_s-z\werewolf\1450\t6.vom  Infection: WereWolf.1450.A
-u:\collection\dos\file_s-z\werewolf\1450\t7.vom  Infection: WereWolf.1450.A
-u:\collection\dos\file_s-z\werewolf\1450\wulf2.vxe  Infection: WereWolf.1450.A
+u:\collection\dos\file_s-z\werewolf\1427\virus.dos.werewolf.1427  Infection: WereWolf.1427
+u:\collection\dos\file_s-z\werewolf\1450\a\t1.vom  Infection: WereWolf.1450.A
+u:\collection\dos\file_s-z\werewolf\1450\a\t1.vxe  Infection: WereWolf.1450.A
+u:\collection\dos\file_s-z\werewolf\1450\a\t3.vom  Infection: WereWolf.1450.A
+u:\collection\dos\file_s-z\werewolf\1450\a\t3.vxe  Infection: WereWolf.1450.A
+u:\collection\dos\file_s-z\werewolf\1450\a\t4.vxe  Infection: WereWolf.1450.A
+u:\collection\dos\file_s-z\werewolf\1450\a\t5.vom  Infection: WereWolf.1450.A
+u:\collection\dos\file_s-z\werewolf\1450\a\t5.vxe  Infection: WereWolf.1450.A
+u:\collection\dos\file_s-z\werewolf\1450\a\t6.vom  Infection: WereWolf.1450.A
+u:\collection\dos\file_s-z\werewolf\1450\a\t7.vom  Infection: WereWolf.1450.A
+u:\collection\dos\file_s-z\werewolf\1450\a\wulf2.vxe  Infection: WereWolf.1450.A
+u:\collection\dos\file_s-z\werewolf\1450\b\virus.dos.werewolf.1450.b  Infection: WereWolf.1450.B (exact)
+u:\collection\dos\file_s-z\werewolf\1500\a\virus.dos.werewolf.1500.a  Infection: WereWolf.1500.A
+u:\collection\dos\file_s-z\werewolf\1500\b\t1.vom  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\t1.vxe  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\t10.vom  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\t2.vom  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\t2.vxe  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\t3.vom  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\t3.vxe  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\t4.vom  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\t4.vxe  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\t5.vom  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\t5.vxe  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\t6.vom  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\t6.vxe  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\t7.vom  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\t8.vom  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\t9.vom  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\trace.vxe  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\wer1500c.vom  Infection: WereWolf.1500.B
 u:\collection\dos\file_s-z\werewolf\1500\b\were1500.vxe  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\t1.vom  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\t1.vxe  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\t10.vom  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\t2.vom  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\t2.vxe  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\t3.vom  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\t3.vxe  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\t4.vom  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\t4.vxe  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\t5.vom  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\t5.vxe  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\t6.vom  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\t6.vxe  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\t7.vom  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\t8.vom  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\t9.vom  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\trace.vxe  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\wer1500c.vom  Infection: WereWolf.1500.B
-u:\collection\dos\file_s-z\werewolf\1500\c\wulf.vxe  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\b\wulf.vxe  Infection: WereWolf.1500.B
+u:\collection\dos\file_s-z\werewolf\1500\c\virus.dos.werewolf.1500.d  Infection: WereWolf.1500.C
 u:\collection\dos\file_s-z\werewolf\howl\2660\1-we2660.vom  Infection: BW.2660
 u:\collection\dos\file_s-z\werewolf\howl\2660\1-we2660.vxe  Infection: BW.2660
 u:\collection\dos\file_s-z\werewolf\howl\2660\2-we2660.vom  Infection: BW.2660
@@ -38873,12 +38895,12 @@ u:\collection\dos\file_s-z\werewolf\howl\2662\b\3-we2662.vxe  Infection: BW.2662
 u:\collection\dos\file_s-z\werewolf\howl\2845\t1.vxe  Infection: Mad.2845
 u:\collection\dos\file_s-z\werewolf\howl\2845\t2.vxe  Infection: Mad.2845
 u:\collection\dos\file_s-z\werewolf\howl\2845\wav2845.vxe  Infection: Mad.2845
-u:\collection\dos\file_s-z\westukra\t1.vom  Infection: W_Ukraine.274
-u:\collection\dos\file_s-z\westukra\t2.vom  Infection: W_Ukraine.274
-u:\collection\dos\file_s-z\westukra\t3.vom  Infection: W_Ukraine.274
-u:\collection\dos\file_s-z\westukra\t4.vom  Infection: W_Ukraine.274
-u:\collection\dos\file_s-z\westukra\t5.vom  Infection: W_Ukraine.274
-u:\collection\dos\file_s-z\westukra\westukra.vom  Infection: W_Ukraine.274
+u:\collection\dos\file_s-z\westukraine\t1.vom  Infection: W_Ukraine.274
+u:\collection\dos\file_s-z\westukraine\t2.vom  Infection: W_Ukraine.274
+u:\collection\dos\file_s-z\westukraine\t3.vom  Infection: W_Ukraine.274
+u:\collection\dos\file_s-z\westukraine\t4.vom  Infection: W_Ukraine.274
+u:\collection\dos\file_s-z\westukraine\t5.vom  Infection: W_Ukraine.274
+u:\collection\dos\file_s-z\westukraine\westukra.vom  Infection: W_Ukraine.274
 u:\collection\dos\file_s-z\whale\mutwhale.vom  Infection: Whale.9216
 u:\collection\dos\file_s-z\whale\neufish.vom  is a corrupted or intended virus
 u:\collection\dos\file_s-z\whale\neuwhal1.vom  is a corrupted or intended virus
@@ -38907,6 +38929,11 @@ u:\collection\dos\file_s-z\whale\22\whale022.vom  Infection: Whale.9216
 u:\collection\dos\file_s-z\whale\26\whale026.vom  Infection: Whale.9216
 u:\collection\dos\file_s-z\whale\28\whale028.vom  Infection: Whale.9216
 u:\collection\dos\file_s-z\whale\30\whale030.vom  Infection: Whale.9216
+u:\collection\dos\file_s-z\whimsy\256\virus.dos.whimsy.256  Infection: Whimsy.256
+u:\collection\dos\file_s-z\whiplash\3168\virus.dos.whiplash.3168  Infection: Whiplash.3168
+u:\collection\dos\file_s-z\whiplash\4592\a\virus.dos.whiplash.4592.b  Infection: Whiplash.4592.A (exact)
+u:\collection\dos\file_s-z\whiplash\4829\virus.dos.whiplash.4829  Infection: Whiplash.4829
+u:\collection\dos\file_s-z\white\900\virus.dos.coma.900  Infection: White.900
 u:\collection\dos\file_s-z\whitenoi\4853\t1.vom  Infection: Noice.4853
 u:\collection\dos\file_s-z\whitenoi\4853\t2.vom  Infection: Noice.4853
 u:\collection\dos\file_s-z\whitenoi\4853\t3.vom  Infection: Noice.4853
@@ -38925,6 +38952,7 @@ u:\collection\dos\file_s-z\whitenoi\4897\t6.vom  Infection: Noice.4897
 u:\collection\dos\file_s-z\whitenoi\4897\t7.vom  Infection: Noice.4897
 u:\collection\dos\file_s-z\whitenoi\4897\t8.vom  Infection: Noice.4897
 u:\collection\dos\file_s-z\whitenoi\4897\vir.vom  Infection: Noice.4897
+u:\collection\dos\file_s-z\white_lion\942\virus.dos.whitelion.942  Infection: White_Lion.942 (exact)
 u:\collection\dos\file_s-z\wilbur\a\format.vom  Infection: Wilbur.512.A
 u:\collection\dos\file_s-z\wilbur\a\t10.vom  Infection: Wilbur.512.A
 u:\collection\dos\file_s-z\wilbur\a\wilbur-a.vom  Infection: Wilbur.512.A
@@ -38962,6 +38990,8 @@ u:\collection\dos\file_s-z\wildy\421\t1.vom  Infection: Wildy.421
 u:\collection\dos\file_s-z\wildy\421\t3.vom  Infection: Wildy.421
 u:\collection\dos\file_s-z\wildy\421\t5.vom  Infection: Wildy.421
 u:\collection\dos\file_s-z\wildy\421\wci04383.vom  Infection: Wildy.421
+u:\collection\dos\file_s-z\wildy\559\virus.dos.wildy.559  Infection: Wildy.559
+u:\collection\dos\file_s-z\williwonka\1088\virus.dos.williwonka.1088  Infection: WilliWonka.1088 (exact)
 u:\collection\dos\file_s-z\willow\1870\willow-a.vxe  Infection: Willow.1870
 u:\collection\dos\file_s-z\willow\1870\willow.vxe  Infection: Willow.1870
 u:\collection\dos\file_s-z\willow\1870\willow2.vxe  Infection: Willow.1870
@@ -39004,14 +39034,15 @@ u:\collection\dos\file_s-z\wintermu\delphine\761\t1.vom  Infection: Delphine.761
 u:\collection\dos\file_s-z\wintermu\delphine\761\t2.vom  Infection: Delphine.761 (exact)
 u:\collection\dos\file_s-z\wintermu\delphine\761\t3.vom  Infection: Delphine.761 (exact)
 u:\collection\dos\file_s-z\wintermu\delphine\761\t4.vom  Infection: Delphine.761 (exact)
-u:\collection\dos\file_s-z\wisconsi\a\t1.vom  Infection: Wisconsin.825.A (exact)
-u:\collection\dos\file_s-z\wisconsi\a\t3.vom  Infection: Wisconsin.825.A (exact)
-u:\collection\dos\file_s-z\wisconsi\a\wiscon.vom  Infection: Wisconsin.825.A (exact)
-u:\collection\dos\file_s-z\wisconsi\a\wisconsn.vom  Infection: Wisconsin.825.A (exact)
-u:\collection\dos\file_s-z\wisconsi\b\t1.vom  Infection: Wisconsin.825.B (exact)
-u:\collection\dos\file_s-z\wisconsi\b\t3.vom  Infection: Wisconsin.825.B (exact)
-u:\collection\dos\file_s-z\wisconsi\b\t5.vom  Infection: Wisconsin.825.B (exact)
-u:\collection\dos\file_s-z\wisconsi\b\wiscon-b.vom  Infection: Wisconsin.825.B (exact)
+u:\collection\dos\file_s-z\wisconsin\825\a\t1.vom  Infection: Wisconsin.825.A (exact)
+u:\collection\dos\file_s-z\wisconsin\825\a\t3.vom  Infection: Wisconsin.825.A (exact)
+u:\collection\dos\file_s-z\wisconsin\825\a\wiscon.vom  Infection: Wisconsin.825.A (exact)
+u:\collection\dos\file_s-z\wisconsin\825\a\wisconsn.vom  Infection: Wisconsin.825.A (exact)
+u:\collection\dos\file_s-z\wisconsin\825\b\t1.vom  Infection: Wisconsin.825.B (exact)
+u:\collection\dos\file_s-z\wisconsin\825\b\t3.vom  Infection: Wisconsin.825.B (exact)
+u:\collection\dos\file_s-z\wisconsin\825\b\t5.vom  Infection: Wisconsin.825.B (exact)
+u:\collection\dos\file_s-z\wisconsin\825\b\wiscon-b.vom  Infection: Wisconsin.825.B (exact)
+u:\collection\dos\file_s-z\wisconsin\830\virus.dos.v.3388  Infection: Wisconsin.830
 u:\collection\dos\file_s-z\witch\1140\witch.vxe  Infection: Witch.1040
 u:\collection\dos\file_s-z\witch\1140\witch1~1.vom  is a corrupted or intended virus
 u:\collection\dos\file_s-z\witch\1140\witch_.vxe  Infection: Witch.1040
@@ -39020,6 +39051,7 @@ u:\collection\dos\file_s-z\witch\1400\t2.vxe  Infection: Witching.1400
 u:\collection\dos\file_s-z\witch\1400\trace.vxe  Infection: Witching.1400
 u:\collection\dos\file_s-z\witch\1400\wci0125w.vxe  Infection: Witching.1400
 u:\collection\dos\file_s-z\witcode\0966\witcode.vxe  Infection: Witcode.966 (exact)
+u:\collection\dos\file_s-z\wiz\812\virus.dos.polonaise.812  Infection: Wiz.812
 u:\collection\dos\file_s-z\wizard\268\wci3380_.vom  Infection: Wizard.268 (exact)
 u:\collection\dos\file_s-z\wizard\268\wizard3.vom  Infection: Wizard.268 (exact)
 u:\collection\dos\file_s-z\wizard\268\wiz_3-0.vom  Infection: Wizard.268 (exact)
@@ -39036,6 +39068,8 @@ u:\collection\dos\file_s-z\wlasnie\174\doskey.vom  Infection: Wlasnie.174 (exact
 u:\collection\dos\file_s-z\wlasnie\174\sc-174.vom  Infection: Wlasnie.174 (exact)
 u:\collection\dos\file_s-z\wlasnie\174\t1.vom  Infection: Wlasnie.174 (exact)
 u:\collection\dos\file_s-z\wlasnie\174\t3.vom  Infection: Wlasnie.174 (exact)
+u:\collection\dos\file_s-z\wma\0425\a\wci01213.td0  Infection: WMA.425.A image file (exact)
+u:\collection\dos\file_s-z\wma\0425\a\wma-425.c1  Infection: WMA.425.A (exact)
 u:\collection\dos\file_s-z\wma\0425\b\multiwma.vom  Infection: WMA.425.B (exact)
 u:\collection\dos\file_s-z\wma\0708\baba.vxe  Infection: WMA.708
 u:\collection\dos\file_s-z\wma\0708\t1.vxe  Infection: WMA.708
@@ -39054,6 +39088,7 @@ u:\collection\dos\file_s-z\wma\0709\t7.vxe  Infection: WMA.709 (exact)
 u:\collection\dos\file_s-z\wma\0709\trace.vxe  Infection: WMA.709 (exact)
 u:\collection\dos\file_s-z\wma\0709\wci0061#.vxe  Infection: WMA.709 (exact)
 u:\collection\dos\file_s-z\wma_ii\448\a\jacinto.vom  Infection: Wma_II.448.A (exact)
+u:\collection\dos\file_s-z\wma_ii\448\b\dan.wma.448.b  Infection: Wma_II.448.B (exact)
 u:\collection\dos\file_s-z\wma_ii\451\jacinto.vom  Infection: Wma_II.451
 u:\collection\dos\file_s-z\wolfman\wolf1.vom  Infection: Wolfman.2064.unknown?
 u:\collection\dos\file_s-z\wolfman\a\1-w2064a.vom  Infection: Wolfman.2064.A (exact)
@@ -39072,6 +39107,7 @@ u:\collection\dos\file_s-z\wolfman\b\format.vom  Infection: Wolfman.2064.B (exac
 u:\collection\dos\file_s-z\wolfman\b\grep.vom  Infection: Wolfman.2064.B (exact)
 u:\collection\dos\file_s-z\wolfman\b\trace.vxe  Infection: Wolfman.2064.B (exact)
 u:\collection\dos\file_s-z\wolfman\b\wolfmanb.vom  Infection: Wolfman.2064.B (exact)
+u:\collection\dos\file_s-z\wolfman\c\virus.dos.wolfman.2064.c  Infection: Wolfman.2064.C (exact)
 u:\collection\dos\file_s-z\won\2352\t2.vom  Infection: Won.2339
 u:\collection\dos\file_s-z\won\2352\t2.vxe  Infection: Won.2339
 u:\collection\dos\file_s-z\won\2352\t3.vom  Infection: Won.2339
@@ -39242,6 +39278,8 @@ u:\collection\dos\file_s-z\wormsign\1503\Virus.DOS.Sandworm.1503  Infection: Wor
 u:\collection\dos\file_s-z\wormsign\1511\t1.vom  Infection: Wormsign.1503
 u:\collection\dos\file_s-z\wormsign\1511\t3.vom  Infection: Wormsign.1503
 u:\collection\dos\file_s-z\wormsign\1511\Virus.DOS.Wormsign.1511  Infection: Wormsign.1503
+u:\collection\dos\file_s-z\wormsign\1572\virus.dos.wormsign.1572  Infection: Wormsign.1572
+u:\collection\dos\file_s-z\wormsign\1710\A.vom  Infection: Wormsign.1710
 u:\collection\dos\file_s-z\wormsign\1710\wci0079w.vom  Infection: Wormsign.1710
 u:\collection\dos\file_s-z\wpcbats\2279\ala-eh.vom  Infection: WPC_Bats.2279
 u:\collection\dos\file_s-z\wpcbats\2279\ala-eh.vxe  Infection: WPC_Bats.2279
@@ -39249,6 +39287,7 @@ u:\collection\dos\file_s-z\wpcbats\2279\ala1.vom  Infection: WPC_Bats.2279
 u:\collection\dos\file_s-z\wpcbats\2279\ala1.vxe  Infection: WPC_Bats.2279
 u:\collection\dos\file_s-z\wpcbats\2279\ala2.vom  Infection: WPC_Bats.2279
 u:\collection\dos\file_s-z\wpcbats\2279\ala2.vxe  Infection: WPC_Bats.2279
+u:\collection\dos\file_s-z\wpcbats\2786\virus.dos.wpcbats.2786  Infection: WPC_Bats.2786 (exact)
 u:\collection\dos\file_s-z\wpcbats\2793\t1.vom  Infection: WPC_Bats.2793 (exact)
 u:\collection\dos\file_s-z\wpcbats\2793\t1.vxe  Infection: WPC_Bats.2793 (exact)
 u:\collection\dos\file_s-z\wpcbats\2793\t2.vom  Infection: WPC_Bats.2793 (exact)
@@ -39261,6 +39300,8 @@ u:\collection\dos\file_s-z\wpcbats\2793\wpc2793.vom  Infection: WPC_Bats.2793 (e
 u:\collection\dos\file_s-z\wpcbats\2793\wpc2793.vxe  Infection: WPC_Bats.2793 (exact)
 u:\collection\dos\file_s-z\wpcbats\2793\wpcb2793.vom  Infection: WPC_Bats.2793 (exact)
 u:\collection\dos\file_s-z\wpcbats\2793\wpcb2793.vxe  Infection: WPC_Bats.2793 (exact)
+u:\collection\dos\file_s-z\wpcbats\3069\virus.dos.wpcbats.3077  Infection: WPC_Bats.3069
+u:\collection\dos\file_s-z\wpcbats\3072\virus.dos.wpcbats.3072  Infection: WPC_Bats.3072
 u:\collection\dos\file_s-z\wpcbats\3161\a\t1.vom  Infection: WPC_Bats.3161
 u:\collection\dos\file_s-z\wpcbats\3161\a\t1.vxe  Infection: WPC_Bats.3161
 u:\collection\dos\file_s-z\wpcbats\3161\a\t2.vom  contains WPC_Bats.3161 (non-working)
@@ -39273,6 +39314,8 @@ u:\collection\dos\file_s-z\wpcbats\3161\b\t2.vom  contains WPC_Bats.3161 (non-wo
 u:\collection\dos\file_s-z\wpcbats\3161\b\t2.vxe  Infection: WPC_Bats.3161
 u:\collection\dos\file_s-z\wpcbats\3161\b\wpcb3161.vom  Infection: WPC_Bats.3161
 u:\collection\dos\file_s-z\wpcbats\3161\b\wpcb3161.vxe  Infection: WPC_Bats.3161
+u:\collection\dos\file_s-z\wpcbats\3199\virus.dos.wpcbats.3198  Infection: WPC_Bats.3199
+u:\collection\dos\file_s-z\wra\512\virus.dos.wra.512  Infection: WRA.512
 u:\collection\dos\file_s-z\write\474\1-wri474.vxe  Infection: Write.474
 u:\collection\dos\file_s-z\write\474\2-wri474.vxe  Infection: Write.474
 u:\collection\dos\file_s-z\write\474\3-wri474.vxe  Infection: Write.474
@@ -39283,8 +39326,10 @@ u:\collection\dos\file_s-z\write\474\wci0080w.vxe  Infection: Write.474
 u:\collection\dos\file_s-z\wrzod\1043.vom  Infection: Wrzod.1043
 u:\collection\dos\file_s-z\wrzod\scroll.vom  Infection: Wrzod.1043
 u:\collection\dos\file_s-z\wrzod\win.vom  Infection: Wrzod.1043
+u:\collection\dos\file_s-z\wsi\853\virus.dos.wsi.853  Infection: WSI.853 (exact)
 u:\collection\dos\file_s-z\wtfm\307\a\virus.dos.wtfm.307.a  Infection: _307.A (exact)
 u:\collection\dos\file_s-z\wtfm\307\b\virus.dos.wtfm.307.b  Infection: _307.B (exact)
+u:\collection\dos\file_s-z\wuhan\3289\virus.dos.wuhan.3289  Infection: Wuhan.3289
 u:\collection\dos\file_s-z\wvp\352\t1.vom  Infection: WVP.352 (exact)
 u:\collection\dos\file_s-z\wvp\352\t2.vom  Infection: WVP.352 (exact)
 u:\collection\dos\file_s-z\wvp\352\wci0082w.vom  Infection: WVP.352 (exact)
@@ -40630,6 +40675,7 @@ u:\collection\dos\file_s-z\zogzog\915\t7.vxe  Infection: ZogZog.915.damaged?
 u:\collection\dos\file_s-z\zogzog\915\trace.vxe  Infection: ZogZog.915 (exact)
 u:\collection\dos\file_s-z\zogzog\915\zogzog.vom  Infection: ZogZog.915 (exact)
 u:\collection\dos\file_s-z\zohra\4160\Virus.DOS.Zohra.4160  Infection: Zohra.4160
+u:\collection\dos\file_s-z\zohra\4382\virus.dos.zohra.4382  Infection: Zohra.4382
 u:\collection\dos\file_s-z\zohra\4488\debug.vxe  Infection: Zohra.4488 (exact)
 u:\collection\dos\file_s-z\zohra\4488\keyb.vom  Infection: Zohra.4488 (exact)
 u:\collection\dos\file_s-z\zohra\4488\mode.vom  Infection: Zohra.4488 (exact)
@@ -40704,8 +40750,27 @@ u:\collection\dos\file_s-z\zoom\260\t8.vom  Infection: Zoom.260
 u:\collection\dos\file_s-z\zoom\260\tf.vom  Infection: Zoom.260
 u:\collection\dos\file_s-z\zoom\260\zoom260.vom  Infection: Zoom.260
 u:\collection\dos\file_s-z\zorm\0265\Virus.DOS.Zorm.265  Infection: Zorm.265
+u:\collection\dos\file_s-z\zorm\0504\virus.dos.zorm.504  Infection: Zorm.504
+u:\collection\dos\file_s-z\zorm\0517\virus.dos.zorm.517  Infection: Zorm.517
+u:\collection\dos\file_s-z\zorm\0573\virus.dos.zorm.573  Infection: Zorm.573 - Dropper
 u:\collection\dos\file_s-z\zorm\0620\Virus.DOS.V.620  Infection: Zorm.620 (exact)
+u:\collection\dos\file_s-z\zorm\0643\a\virus.dos.zorm.643.a  Infection: Zorm.643.A (exact)
+u:\collection\dos\file_s-z\zorm\0643\b\virus.dos.zorm.643.b  Infection: Zorm.643.B - Dropper
+u:\collection\dos\file_s-z\zorm\0648\virus.dos.zorm.648  Infection: Zorm.648 (exact)
+u:\collection\dos\file_s-z\zorm\0661\virus.dos.jn.661  Infection: Zorm.661 (exact) - Dropper
+u:\collection\dos\file_s-z\zorm\1120\virus.dos.zorm.1120  Infection: Zorm.1120
+u:\collection\dos\file_s-z\zorm\1123\virus.dos.zorm.1123.a  Infection: Zorm.1123
+u:\collection\dos\file_s-z\zorm\1123\virus.dos.zorm.1123.b  Infection: Zorm.1123
+u:\collection\dos\file_s-z\zorm\1123\virus.dos.zorm.1139  Infection: Zorm.1123
+u:\collection\dos\file_s-z\zorm\1193\virus.dos.zorm.1193  Infection: Zorm.1193 - Dropper
 u:\collection\dos\file_s-z\zorm\1203\Virus.DOS.Zorm.1203.b  Infection: Zorm.1203
+u:\collection\dos\file_s-z\zorm\1368\virus.dos.mahon.1368  Infection: Zorm.1368 (exact)
+u:\collection\dos\file_s-z\zorm\1404\virus.dos.zorm.1404  Infection: Zorm.1404
+u:\collection\dos\file_s-z\zorm\1412\virus.dos.zorm.1412  Infection: Zorm.1412
+u:\collection\dos\file_s-z\zorm\1417\b\virus.dos.zorm.1417.c  Infection: Zorm.1417.B (exact)
+u:\collection\dos\file_s-z\zorm\1807\virus.dos.zorm.1475  Infection: Zorm.1807
+u:\collection\dos\file_s-z\zorm\1863\virus.dos.zorm.1863  Infection: Zorm.1863 (exact)
+u:\collection\dos\file_s-z\zorm\1872\virus.dos.zorm.1872  Infection: Zorm.1872 (exact)
 u:\collection\dos\file_s-z\zortech\836\debug.vxe  Infection: Zort.836
 u:\collection\dos\file_s-z\zortech\836\t1.vom  Infection: Zort.836
 u:\collection\dos\file_s-z\zortech\836\t1.vxe  Infection: Zort.836
@@ -40718,6 +40783,8 @@ u:\collection\dos\file_s-z\zp\503\t1.vxe  Infection: ZP.503
 u:\collection\dos\file_s-z\zp\503\t3.vxe  Infection: ZP.503
 u:\collection\dos\file_s-z\zp\503\t5.vxe  Infection: ZP.503
 u:\collection\dos\file_s-z\zp\503\wci0031z.vxe  Infection: ZP.503
+u:\collection\dos\file_s-z\zrdavim\1472\virus.dos.rms.1472  Infection: Zrdavim.1472 (exact)
+u:\collection\dos\file_s-z\ztert\1003\virus.dos.keypress.1003  Infection: Ztert.1003 (exact)
 u:\collection\dos\file_s-z\zub\792\1-zub792.vom  Infection: Zub.792
 u:\collection\dos\file_s-z\zub\792\1-zub792.vxe  Infection: Zub.792
 u:\collection\dos\file_s-z\zub\792\2-zub792.vom  Infection: Zub.792
@@ -40729,9 +40796,14 @@ u:\collection\dos\file_s-z\zulu\1390\t3.vom  Infection: Zulu.1390 (exact)
 u:\collection\dos\file_s-z\zulu\1390\t5.vom  Infection: Zulu.1390 (exact)
 u:\collection\dos\file_s-z\zulu\1390\t7.vom  Infection: Zulu.1390 (exact)
 u:\collection\dos\file_s-z\zulu\1390\wci0032z.vom  Infection: Zulu.1390 (exact)
+u:\collection\dos\file_s-z\zun\837\virus.dos.zun.837  Infection: Zun.837 (exact)
+u:\collection\dos\file_s-z\zurp\922\virus.dos.cf.922  Infection: Zurp.922 (exact)
+u:\collection\dos\file_s-z\zver\512\virus.dos.zver.512  Infection: Zver.512
 u:\collection\dos\file_s-z\zver\689\t7.vom  Infection: Zver.689 (exact)
 u:\collection\dos\file_s-z\zver\689\tf.vom  Infection: Zver.689 (exact)
 u:\collection\dos\file_s-z\zver\689\zver-689.vom  Infection: Zver.689 (exact)
+u:\collection\dos\file_s-z\zw\1967\virus.dos.zw.1967  Infection: ZW.1967 (exact)
+u:\collection\dos\file_s-z\zwick\505\virus.dos.zwickau.505  Infection: Zwick.505
 u:\collection\dos\file_s-z\zx-x\600\1-zxx600.vxe  Infection: ZX-X.600
 u:\collection\dos\file_s-z\zx-x\600\2-zxx600.vxe  Infection: ZX-X.600
 u:\collection\dos\file_s-z\zx-x\600\3-zxx600.vxe  Infection: ZX-X.600
@@ -40739,11 +40811,14 @@ u:\collection\dos\file_s-z\zx-x\600\t1.vxe  Infection: ZX-X.600
 u:\collection\dos\file_s-z\zx-x\600\t3.vxe  Infection: ZX-X.600
 u:\collection\dos\file_s-z\zx-x\600\t5.vxe  Infection: ZX-X.600
 u:\collection\dos\file_s-z\zx-x\600\wci0033z.vxe  Infection: ZX-X.600
+u:\collection\dos\file_s-z\zyklon\754\virus.dos.tt.754  Infection: Zyklon.754
+u:\collection\dos\file_s-z\zyx\5685\virus.dos.zyx.5685  Infection: Zyx.5685
 u:\collection\dos\file_s-z\zz\412\1-dou412.vxe  Infection: Doublez.412.A (exact)
 u:\collection\dos\file_s-z\zz\412\2-dou412.vxe  Infection: Doublez.412.A (exact)
 u:\collection\dos\file_s-z\zz\412\3-dou412.vxe  Infection: Doublez.412.A (exact)
 u:\collection\dos\file_s-z\zz\429\zz.vom  Infection: ZZ.429
 u:\collection\dos\file_s-z\zz\429\zz2.vom  Infection: ZZ.429
+u:\collection\dos\file_s-z\zzero\667\virus.dos.zombie.667  Infection: Zzero.667 (exact)
 u:\collection\dos\file_s-z\zzz\1379\Virus.DOS.Zzz.1379  Infection: Zzz.1379 (exact)
 u:\collection\dos\file_s-z\z_mania\1741\Virus.DOS.Companion.Zmania.639  Infection: Z_Mania.1741
 u:\collection\dos\trojan\etroj\68\d\trojan.dos.zicar  Infection: Etroj.D
@@ -43695,7 +43770,6 @@ u:\collection\macro\wm\daniel\b\daniel_d.doc  Infection: WM/Daniel.B (exact)
 u:\collection\macro\wm\daniel\c\dani-c_2.doc  Infection: WM/Daniel.C (exact)
 u:\collection\macro\wm\daniel\c\dani-c_4.dot  Infection: WM/Daniel.C (exact)
 u:\collection\macro\wm\dark\a\darkinfo.dot  Infection: WM/Dark.A (exact)
-u:\collection\macro\wm\dark\b\back!!.doc  Infection: WM/Dark.B (exact)
 u:\collection\macro\wm\dark\c\darksd1c.doc  Infection: WM/Dark.C (exact)
 u:\collection\macro\wm\dark\d\hills.doc  Infection: WM/Dark.D (exact)
 u:\collection\macro\wm\dark\d\lithium.doc  Infection: WM/Dark.D (exact)
@@ -44185,7 +44259,6 @@ u:\collection\macro\wm\lamah\a\lama-a_5.dot  Infection: WM/Lamah.A:Br (exact)
 u:\collection\macro\wm\lamah\a\lamah-a.doc  Infection: WM/Lamah.A:Br (exact)
 u:\collection\macro\wm\lamah\a\lamah-a.dot  Infection: WM/Lamah.A:Br (exact)
 u:\collection\macro\wm\lamah\a\wmlamaha.dot  Infection: WM/Lamah.A:Br (exact)
-u:\collection\macro\wm\lazy\a\!!lazy!!.doc  Infection: WM/Lazy.A (exact)
 u:\collection\macro\wm\lemon\a\virus.msword.lemon.a  Infection: WM/Lemon.A (exact)
 u:\collection\macro\wm\lemon\b\virus.msword.lemon.b  Infection: WM/Lemon.B (exact)
 u:\collection\macro\wm\leonor\b\virus.msword.leonor.b  Infection: WM/Leonor.B (exact)
@@ -44389,7 +44462,6 @@ u:\collection\macro\wm\minimorph\a\morph.doc  Infection: WM/Minimorph.A
 u:\collection\macro\wm\minimorph\a\morph.dot  Infection: WM/Minimorph.A
 u:\collection\macro\wm\mortal\a\virus.msword.kombat  Infection: WM/Mortal.A (exact)
 u:\collection\macro\wm\moscow\a\virus.msword.moscow91  Infection: WM/Moscow.A (exact)
-u:\collection\macro\wm\mota\a\mota!.doc  Infection: WM/Mota.A (exact)
 u:\collection\macro\wm\mtf\a\mft-a_2.doc  Infection: WM/Mtf.A (exact)
 u:\collection\macro\wm\mtf\a\mft-a_4.dot  Infection: WM/Mtf.A (exact)
 u:\collection\macro\wm\muck\a\muck-a_2.doc  Infection: WM/Muck.A (exact)
@@ -45978,28 +46050,60 @@ u:\collection\script\alisp\bursted\bu\f5ce45061a6ce51f3e7bfb85b12400b6424fc7f5b6
 u:\collection\script\alisp\bursted\f\Virus.Acad.Bursted.f  Infection: ALS/Bursted (exact)
 u:\collection\script\alisp\bursted\m\Virus.Acad.Bursted.m  Infection: ALS/Bursted (exact)
 u:\collection\script\alisp\pobresito\a\Virus.Acad.Pobresito  is a security risk or a "backdoor" program
+u:\collection\script\bat\trojan\aantiv\a\trojan.bat.anitv.a  Infection: BAT/AAntiv.A (exact)
+u:\collection\script\bat\trojan\aantiv\a\trojan.bat.anitv.txt  Infection: BAT/AAntiv.A (exact)
+u:\collection\script\bat\trojan\acid\a\trojan.bat.acid  Infection: BAT/Acid.A (exact)
+u:\collection\script\bat\trojan\acid\a\trojan.bat.txt  Infection: BAT/Acid.A (exact)
 u:\collection\script\bat\trojan\advir\a\trojan.bat.avir.11  Infection: BAT/Advir.A (exact)
 u:\collection\script\bat\trojan\agobot\virus_3201.vir  Infection: BAT/Agobot@bd (exact)
 u:\collection\script\bat\trojan\ansiform\trojan.ansi.deloss  Infection: BAT/Ansiform@troj (exact)
+u:\collection\script\bat\trojan\anticomp\trojan.bat.anticomp  Infection: BAT/Anticomp@troj (exact)
+u:\collection\script\bat\trojan\anticomp\trojan.bat.anticomp.txt  Infection: BAT/Anticomp@troj (exact)
+u:\collection\script\bat\trojan\aolome\a\trojan-psw.bat.faspy  Infection: BAT/Aolome.A (exact)
 u:\collection\script\bat\trojan\ares\b\trojan.dos.ares.b  Infection: BAT/DelWin@troj (exact)
 u:\collection\script\bat\trojan\babomb\a\trojan.bat.babylon  Infection: BAT/Babomb.A (exact)
 u:\collection\script\bat\trojan\babomb\a\trojan.bat.bomb.a  Infection: BAT/Babomb.A (exact)
 u:\collection\script\bat\trojan\babomb\a\trojan.bat.bomb.b  Infection: BAT/SillyB.436 (exact)
+u:\collection\script\bat\trojan\badjoke\b\virus.bat.badjok.b  Infection: BAT/Badjoke.B (exact)
+u:\collection\script\bat\trojan\barbos\a\trojan.bat.barbos  Infection: BAT/Barbos.A (exact)
+u:\collection\script\bat\trojan\barbos\a\trojan.bat.barbos.txt  Infection: BAT/Barbos.A (exact)
 u:\collection\script\bat\trojan\baster\b\trojan.bat.qrap  Infection: BAT/Baster.B (exact)
+u:\collection\script\bat\trojan\bejing\a\trojan.bat.bejing  Infection: BAT/Bejing.A (exact)
+u:\collection\script\bat\trojan\bejing\a\trojan.bat.bejing.txt  Infection: BAT/Bejing.A (exact)
 u:\collection\script\bat\trojan\bendbot\c\trojan.bat.crapbat  Infection: BAT/Bendbot.C (exact)
+u:\collection\script\bat\trojan\bomgen\a\trojan-dropper.vbs.bomgen.c  Infection: BAT/Bomgen.A@dr (exact)
+u:\collection\script\bat\trojan\bomgen\a\trojan-dropper.vbs.bomgen.c.txt  Infection: BAT/Bomgen.A@dr (exact)
+u:\collection\script\bat\trojan\bomgen\ad\trojan-dropper.vbs.bomgen.p  Infection: BAT/Bomgen.AD@dr (exact)
+u:\collection\script\bat\trojan\bomgen\ad\trojan-dropper.vbs.bomgen.p.txt  Infection: BAT/Bomgen.AD@dr (exact)
+u:\collection\script\bat\trojan\bomgen\g\trojan-dropper.vbs.bomgen.g  Infection: BAT/Bomgen.G (exact)
 u:\collection\script\bat\trojan\boroda\a\trojan.bat.boroda  Infection: BAT/Boroda.A (exact)
+u:\collection\script\bat\trojan\boroda\b\trojan.bat.deltreey.s  Infection: BAT/Boroda.B (exact)
+u:\collection\script\bat\trojan\boroda\b\trojan.bat.deltreey.s.txt  Infection: BAT/Boroda.B (exact)
 u:\collection\script\bat\trojan\boroda\c\trojan.dos.boroda  Infection: BAT/Boroda.C (exact)
+u:\collection\script\bat\trojan\brat\virus.vbs.brat  Infection: BAT/Brat (exact)
 u:\collection\script\bat\trojan\btc\trojan.bat.btc  Infection: BAT/FormatC@troj (exact)
 u:\collection\script\bat\trojan\btg\638\virus.bat.silly.btg.c  Infection: BAT/SillyB.638 (exact)
 u:\collection\script\bat\trojan\bugger\a\trojan.bat.bugger  Infection: BAT/Bugger.A (exact)
 u:\collection\script\bat\trojan\cancer\a\bat.vat  Infection: BAT/Looper.A (exact)
 u:\collection\script\bat\trojan\chapana\trojan.bat.delautoexec.a  Infection: BAT/Chapana@troj (exact)
+u:\collection\script\bat\trojan\checker\a\trojan.bat.daniel  Infection: BAT/Checker.A (exact)
+u:\collection\script\bat\trojan\checker\a\trojan.bat.daniel.txt  Infection: BAT/Checker.A (exact)
 u:\collection\script\bat\trojan\cloner\g\backdoor.irc.cloner.g  Infection: BAT/Cloner.G (exact)
 u:\collection\script\bat\trojan\clouds\readme.vat  Infection: BAT/Looper@troj (exact)
+u:\collection\script\bat\trojan\cocol\trojan.bat.cocol.txt  Infection: BAT/Cocol@troj (exact)
 u:\collection\script\bat\trojan\cocoon\a\trojan.bat.cocun  Infection: BAT/Cocoon.A (exact)
 u:\collection\script\bat\trojan\cocoon\b\trojan.bat.concon.a  Infection: BAT/Concon.A@troj (exact)
 u:\collection\script\bat\trojan\colons\a\trojan.bat.collons  Infection: BAT/Colons.A (exact)
 u:\collection\script\bat\trojan\connect\a\backdoor.win32.connect4.10  Infection: BAT/Connect.A (exact)
+u:\collection\script\bat\trojan\copybat\af\p2p-worm.bat.copybat.ag  Infection: BAT/Copybat.AF@p2p (exact)
+u:\collection\script\bat\trojan\copybat\af\p2p-worm.bat.copybat.ag.txt  Infection: BAT/Copybat.AF@p2p (exact)
+u:\collection\script\bat\trojan\copybat\l\p2p-worm.bat.interor.h  Infection: BAT/Copybat.L (exact)
+u:\collection\script\bat\trojan\copybat\l\p2p-worm.bat.interor.h.txt  Infection: BAT/Copybat.L (exact)
+u:\collection\script\bat\trojan\copybat\s\p2p-worm.bat.copybat.ae  Infection: BAT/Copybat.S (exact)
+u:\collection\script\bat\trojan\copybat\s\p2p-worm.bat.copybat.ae.txt  Infection: BAT/Copybat.S (exact)
+u:\collection\script\bat\trojan\copybat\w\virus.bat.copytoall.k  Infection: BAT/Copybat.W (exact)
+u:\collection\script\bat\trojan\copybat\x\p2p-worm.bat.copybat.ah  Infection: BAT/Copybat.X (exact)
+u:\collection\script\bat\trojan\copybat\x\p2p-worm.bat.copybat.ah.txt  Infection: BAT/Copybat.X (exact)
 u:\collection\script\bat\trojan\copyme\a\trojan.bat.spth.copyme.a  Infection: BAT/Copyme.A@troj (exact)
 u:\collection\script\bat\trojan\copyme\b\trojan.bat.spth.copyme.b  Infection: BAT/Copyme.B@troj (exact)
 u:\collection\script\bat\trojan\copyme\c\trojan.bat.spth.copyme.c  Infection: BAT/Copyme.C@troj (exact)
@@ -46010,7 +46114,11 @@ u:\collection\script\bat\trojan\copyme\g\trojan.bat.spth.copyme.g  Infection: BA
 u:\collection\script\bat\trojan\copyme\h\trojan.bat.spth.copyme.h  Infection: BAT/Copyme.H@troj (exact)
 u:\collection\script\bat\trojan\copytoall\c\bat.copytoall.c  Infection: BAT/DelSys@troj (exact)
 u:\collection\script\bat\trojan\copytoall\j\virus.bat.copytoall.j  Infection: BAT/FormatC@troj (exact)
+u:\collection\script\bat\trojan\cuenta\trojan.bat.cuenta  Infection: BAT/Cuenta@troj (exact)
+u:\collection\script\bat\trojan\cuenta\trojan.bat.cuenta.txt  Infection: BAT/Cuenta@troj (exact)
+u:\collection\script\bat\trojan\cyber\a\trojan-dropper.bat.cyber  Infection: BAT/Cyber.A@dr (exact)
 u:\collection\script\bat\trojan\delall\a\delall.a  Infection: BAT/DelAll.A@troj (exact)
+u:\collection\script\bat\trojan\delall\aq\trojan.bat.delall.aq  Infection: BAT/DelTreeY.U@troj (exact)
 u:\collection\script\bat\trojan\delall\b\trojan.bat.delall.b  Infection: BAT/DelAll@troj (exact)
 u:\collection\script\bat\trojan\delall\d\trojan.bat.delall.d  Infection: BAT/Looper.A (exact)
 u:\collection\script\bat\trojan\delall\g\trojan.bat.delall.g  Infection: BAT/DelAll@troj (exact)
@@ -46018,15 +46126,22 @@ u:\collection\script\bat\trojan\delall\i\trojan.bat.delall.i  Infection: BAT/Del
 u:\collection\script\bat\trojan\delall\l\trojan.bat.delall.l  Infection: BAT/DelAll@troj (exact)
 u:\collection\script\bat\trojan\delall\s\trojan.bat.delall.s  Infection: BAT/MagicHelp.A (exact)
 u:\collection\script\bat\trojan\delaol\b\trojan.bat.delaol.b  Infection: BAT/DelAOL@troj (exact)
+u:\collection\script\bat\trojan\delautoex\virus.bat.worexec  Infection: BAT/DelAutoex@troj (exact)
 u:\collection\script\bat\trojan\delautoexec\d\trojan.bat.delautoexec.d  Infection: BAT/Looper.A (exact)
 u:\collection\script\bat\trojan\delautoexec\e\trojan.bat.delautoexec.e  Infection: BAT/Looper.A (exact)
 u:\collection\script\bat\trojan\delav\a\trojan.bat.delav  Infection: BAT/Cigar.A (exact)
 u:\collection\script\bat\trojan\deldisk\d\trojan.bat.dvl.deldisk.d  Infection: BAT/DelAll@troj (exact)
 u:\collection\script\bat\trojan\deldos\trojan.bat.deldos.a  Infection: BAT/DelDos@troj (exact)
+u:\collection\script\bat\trojan\delfil\d\virus.bat.boru  Infection: BAT/DelFil.D@troj (exact)
+u:\collection\script\bat\trojan\delfil\z\trojan.bat.killfiles.ee  Infection: BAT/DelFil.Z@troj (exact)
 u:\collection\script\bat\trojan\delfiles\n\trojan.bat.delfiles.n  Infection: BAT/DelFil@troj (exact)
 u:\collection\script\bat\trojan\delini\trojan.bat.delini  Infection: BAT/DelINI@troj (exact)
 u:\collection\script\bat\trojan\delini\trojan.bat.delini.a  Infection: BAT/DelINI@troj (exact)
+u:\collection\script\bat\trojan\delirium\a\virus.bat.delirium.a  Infection: BAT/Delirium.A (exact)
+u:\collection\script\bat\trojan\delirium\b\virus.bat.delirium.b  Infection: BAT/Delirium.B (exact)
 u:\collection\script\bat\trojan\delmydoc\trojan.bat.delmydoc  Infection: BAT/DelMyDoc@troj (exact)
+u:\collection\script\bat\trojan\delsys\a\virus.bat.copytoc.c  Infection: BAT/DelSys.A@troj (exact)
+u:\collection\script\bat\trojan\delsys\a\virus.bat.copytoc.c.txt  Infection: BAT/DelSys.A@troj (exact)
 u:\collection\script\bat\trojan\delsys\ab\trojan.bat.delsys.ab  Infection: BAT/DelSys@troj (exact)
 u:\collection\script\bat\trojan\delsys\ad\trojan.bat.delsys.ad  Infection: BAT/DelSys@troj (exact)
 u:\collection\script\bat\trojan\delsys\ag\trojan.bat.delsys.ag  Infection: BAT/DelSys@troj (exact)
@@ -46112,17 +46227,60 @@ u:\collection\script\bat\trojan\delwin\n\trojan.bat.delwin.n  Infection: BAT/Del
 u:\collection\script\bat\trojan\delwin\p\trojan.bat.delwin.p  Infection: BAT/DelWin@troj (exact)
 u:\collection\script\bat\trojan\delwin\x\trojan.bat.delwin.x  Infection: BAT/DelWin@troj (exact)
 u:\collection\script\bat\trojan\delwinini\b\trojan.bat.delwinini.b  Infection: BAT/Crack.A (exact)
+u:\collection\script\bat\trojan\dev\trojan.bat.dev  Infection: BAT/Dev@troj (exact)
+u:\collection\script\bat\trojan\dev\trojan.bat.dev.txt  Infection: BAT/Dev@troj (exact)
+u:\collection\script\bat\trojan\devsix\trojan.bat.dev16.txt  Infection: BAT/DevSix@troj (exact)
 u:\collection\script\bat\trojan\dial911\trojan.bat.dial911  Infection: BAT/Dial911@troj (exact)
 u:\collection\script\bat\trojan\digger\a\trojan.bat.digger  Infection: BAT/Digger.A (exact)
+u:\collection\script\bat\trojan\dismous\e\p2p-worm.bat.copybat.f  Infection: BAT/Dismous.E (exact)
+u:\collection\script\bat\trojan\dismous\e\p2p-worm.bat.copybat.f.txt  Infection: BAT/Dismous.E (exact)
 u:\collection\script\bat\trojan\dispmess\trojan.bat.dispmessage.a  Infection: BAT/DispMess@troj (exact)
+u:\collection\script\bat\trojan\dit\a\virus.bat.dit  Infection: BAT/Dit.A (exact)
+u:\collection\script\bat\trojan\dit\a\virus.bat.dit.txt  Infection: BAT/Dit.A (exact)
 u:\collection\script\bat\trojan\dlexbat\trojan-downloader.bat.dlexbat  Infection: BAT/Dlexbat@troj (exact)
+u:\collection\script\bat\trojan\dmenu\a\trojan-dropper.bat.dmenu.a  Infection: BAT/Dmenu.A (exact)
+u:\collection\script\bat\trojan\dmenu\b\trojan-dropper.bat.dmenu.b  Infection: BAT/Dmenu.B (exact)
+u:\collection\script\bat\trojan\dmenu\c\trojan-dropper.bat.dmenu.c  Infection: BAT/Dmenu.C (exact)
+u:\collection\script\bat\trojan\dmenu\d\trojan-dropper.bat.dmenu.d  Infection: BAT/Dmenu.D (exact)
+u:\collection\script\bat\trojan\dmenu\e\trojan-dropper.bat.dmenu.e  Infection: BAT/Dmenu.H (exact)
+u:\collection\script\bat\trojan\dmenu\f\trojan-dropper.bat.dmenu.f  Infection: BAT/Dmenu.G (exact)
+u:\collection\script\bat\trojan\dmenu\g\trojan-dropper.bat.dmenu.g  Infection: BAT/Dmenu.G (exact)
+u:\collection\script\bat\trojan\dmenu\h\trojan-dropper.bat.dmenu.h  Infection: BAT/Dmenu.G (exact)
+u:\collection\script\bat\trojan\dmenu\i\trojan-dropper.bat.dmenu.i  Infection: BAT/Dmenu.G (exact)
+u:\collection\script\bat\trojan\dmenu\j\trojan-dropper.bat.dmenu.j  Infection: BAT/Dmenu.G (exact)
+u:\collection\script\bat\trojan\dmenu\l\trojan-dropper.bat.dmenu.l  Infection: BAT/Dmenu.I (exact)
+u:\collection\script\bat\trojan\dmenu\m\trojan-dropper.bat.dmenu.m  Infection: BAT/Dmenu.L (exact)
+u:\collection\script\bat\trojan\dmenu\m\trojan-dropper.bat.dmenu.m.txt  Infection: BAT/Dmenu.L (exact)
+u:\collection\script\bat\trojan\dmenu\n\trojan-dropper.bat.sbvc.10  Infection: BAT/Dmenu.M (exact)
 u:\collection\script\bat\trojan\doskey\trojan.bat.doskey  Infection: BAT/Doskey@troj (exact)
 u:\collection\script\bat\trojan\drewein\trojan.bat.drewein  Infection: BAT/Drewein@troj (exact)
 u:\collection\script\bat\trojan\drives\a\trojan.msword.melissa.ad  Infection: BAT/Drives.A (exact)
 u:\collection\script\bat\trojan\dvar\trojan.bat.dvar  Infection: BAT/Dvar@troj (exact)
+u:\collection\script\bat\trojan\dvl\crash\a\trojan.bat.crash.a  Infection: BAT/DVLCrash.A (exact)
+u:\collection\script\bat\trojan\dvl\crash\a\trojan.bat.dvl.crash.txt  Infection: BAT/DVLCrash.A (exact)
+u:\collection\script\bat\trojan\dvl\crash\c\trojan.bat.crash.c  Infection: BAT/DVLCrash.C (exact)
+u:\collection\script\bat\trojan\dvl\crash\c\trojan.bat.dvl.crash.c.txt  Infection: BAT/DVLCrash.C (exact)
 u:\collection\script\bat\trojan\dvl\deldir\b\trojan.bat.dvl.deldir.b  Infection: BAT/DelFil@troj (exact)
 u:\collection\script\bat\trojan\dvl\deldisk\c\trojan.bat.dvl.deldisk.c  Infection: BAT/DelFil@troj (exact)
+u:\collection\script\bat\trojan\dvl\killfiles\a\trojan.bat.dvl.killfilese.txt  Infection: BAT/DVLKillFiles.A@troj (exact)
+u:\collection\script\bat\trojan\dvl\kit\a\constructor.bat.restart.10  Infection: BAT/DVLkit.A (exact)
+u:\collection\script\bat\trojan\dvl\kit\a\constructor.bat.restart.c.txt  Infection: BAT/DVLkit.A (exact)
+u:\collection\script\bat\trojan\dvl\kit\b\constructor.bat.restart.20  Infection: BAT/DVLkit.B (exact)
+u:\collection\script\bat\trojan\dvl\kit\b\constructor.bat.restart.txt  Infection: BAT/DVLkit.B (exact)
+u:\collection\script\bat\trojan\dvl\kit\c\constructor.bat.restart.50  Infection: BAT/DVLkit.C (exact)
+u:\collection\script\bat\trojan\dvl\kit\c\constructor.bat.restart.50.txt  Infection: BAT/DVLkit.C (exact)
+u:\collection\script\bat\trojan\dvl\kit\d\constructor.bat.restart.40  Infection: BAT/DVLkit.D (exact)
+u:\collection\script\bat\trojan\dvl\kit\d\constructor.bat.restart.40.txt  Infection: BAT/DVLkit.D (exact)
+u:\collection\script\bat\trojan\dvl\kit\e\constructor.bat.restart.30  Infection: BAT/DVLkit.E (exact)
+u:\collection\script\bat\trojan\dvl\kit\e\constructor.bat.restart.30.txt  Infection: BAT/DVLkit.E (exact)
+u:\collection\script\bat\trojan\dvl\kit\f\constructor.bat.restart.60  Infection: BAT/DVLkit.F@troj (exact)
+u:\collection\script\bat\trojan\dvl\kit\f\constructor.bat.restart.60.txt  Infection: BAT/DVLkit.F@troj (exact)
+u:\collection\script\bat\trojan\dvl\kit\g\constructor.bat.restart.70  Infection: BAT/DVLkit.G@troj (exact)
+u:\collection\script\bat\trojan\dvl\kit\g\constructor.bat.restart.70.txt  Infection: BAT/DVLkit.G@troj (exact)
+u:\collection\script\bat\trojan\dvl\kit\h\constructor.bat.restart.80  Infection: BAT/DVLkit.H@troj (exact)
+u:\collection\script\bat\trojan\dvl\kit\h\constructor.bat.restart.80.txt  Infection: BAT/DVLkit.H@troj (exact)
 u:\collection\script\bat\trojan\dvl\looper\a\trojan.bat.dvl.looper.c  Infection: BAT/DVLLoop.A (exact)
+u:\collection\script\bat\trojan\dvl\looper\b\trojan.bat.dvl.looper.e.txt  Infection: BAT/DVLLoop.B@troj (exact)
 u:\collection\script\bat\trojan\dvl\looper\c\trojan.bat.dvl.looper.d  Infection: BAT/DVLLoop.C@troj (exact)
 u:\collection\script\bat\trojan\dvl\looper\f\trojan.bat.dvl.looper.f  Infection: BAT/Looper@troj (exact)
 u:\collection\script\bat\trojan\dvl\looper\g\trojan.bat.dvl.looper.g  Infection: BAT/Looper@troj (exact)
@@ -46135,15 +46293,21 @@ u:\collection\script\bat\trojan\exitwindows\j\trojan.bat.exitwindows.j  Infectio
 u:\collection\script\bat\trojan\exitwindows\l\trojan.bat.exitwindows.l  Infection: BAT/ExitWin.I@troj (exact)
 u:\collection\script\bat\trojan\fakecmos\a\trojan.zip.fakecmos  Infection: BAT/Fakecmos.A@troj (exact)
 u:\collection\script\bat\trojan\fakemessage\a\trojan.bat.error286  Infection: BAT/FakeMessage.A (exact)
+u:\collection\script\bat\trojan\falken\c\virus.bat.falken.b  Infection: BAT/Falken.C (exact)
+u:\collection\script\bat\trojan\falken\c\virus.bat.falken.txt  Infection: BAT/Falken.C (exact)
 u:\collection\script\bat\trojan\fare\a\trojan.bat.fare  Infection: BAT/Fare.A (exact)
 u:\collection\script\bat\trojan\fasterer\a\trojan.dos.fasterer  Infection: BAT/Fasterer.A@troj (exact)
 u:\collection\script\bat\trojan\flashans\trojan.bat.flashans  Infection: BAT/Flashans@troj (exact)
 u:\collection\script\bat\trojan\flood\a\trojan.bat.floda  Infection: BAT/Flood.A (exact)
+u:\collection\script\bat\trojan\formata\a\trojan.bat.formata.d  Infection: BAT/FormatA.A@troj (exact)
 u:\collection\script\bat\trojan\formatall\b\trojan.bat.formatall.b  Infection: BAT/FormatAll@troj (exact)
 u:\collection\script\bat\trojan\formatall\c\trojan.bat.formatall.c  Infection: BAT/FormatC.H@troj (exact)
 u:\collection\script\bat\trojan\formatall\i\trojan.bat.formatall.i  Infection: BAT/DelSys@troj (exact)
 u:\collection\script\bat\trojan\formatc\ab\trojan.bat.formatc.ab  Infection: BAT/FormatC.Q@troj (exact)
 u:\collection\script\bat\trojan\formatc\ac\trojan.vbs.formatc  Infection: BAT/FormatC@troj (exact)
+u:\collection\script\bat\trojan\formatc\ah\trojan.bat.formatc.ah  Infection: BAT/FormatC.E@troj (exact)
+u:\collection\script\bat\trojan\formatc\ao\trojan.bat.formatc.ao  Infection: BAT/FormatC.D@troj (exact)
+u:\collection\script\bat\trojan\formatc\ao\trojan.bat.formatc.ao.txt  Infection: BAT/FormatC.D@troj (exact)
 u:\collection\script\bat\trojan\formatc\b2\trojan.bat.formatc.b2  Infection: BAT/FormatC@troj (exact)
 u:\collection\script\bat\trojan\formatc\c\trojan.bat.formatc.c  Infection: BAT/FormatC@troj (exact)
 u:\collection\script\bat\trojan\formatc\e\trojan.bat.formatc.e  Infection: BAT/FormatC@troj (exact)
@@ -46175,6 +46339,8 @@ u:\collection\script\bat\trojan\formatcqu\e\trojan.bat.formatcqu.e  Infection: B
 u:\collection\script\bat\trojan\formatcqu\h\trojan.bat.formatcqu.h  Infection: BAT/FormatC@troj (exact)
 u:\collection\script\bat\trojan\formatcqu\i\trojan.bat.formatcqu.i  Infection: BAT/FormatC@troj (exact)
 u:\collection\script\bat\trojan\formatcqu\l\trojan.bat.formatcqu.l  Infection: BAT/FormatC@troj (exact)
+u:\collection\script\bat\trojan\formatcqu\m\trojan.bat.formatcqu.m  Infection: BAT/FormatC.B@troj (exact)
+u:\collection\script\bat\trojan\formatcqu\m\trojan.bat.formatcqu.m.txt  Infection: BAT/FormatC.B@troj (exact)
 u:\collection\script\bat\trojan\formatcqu\o\trojan.bat.formatcqu.o  Infection: BAT/FormatC@troj (exact)
 u:\collection\script\bat\trojan\formatcy\a\trojan.bat.formatcy.a  Infection: BAT/FormatC@troj (exact)
 u:\collection\script\bat\trojan\formatd\a\trojan.bat.formatd.a  Infection: BAT/Munga.D (exact)
@@ -46186,12 +46352,15 @@ u:\collection\script\bat\trojan\formatdrive\d\trojan.bat.stupid  Infection: BAT/
 u:\collection\script\bat\trojan\formatdrive\f\trojan.bat.joreg  Infection: BAT/FormatDrive.F (exact)
 u:\collection\script\bat\trojan\formatdrive\g\trojan.bat.formatall.a  Infection: BAT/FormatDrive.G (exact)
 u:\collection\script\bat\trojan\formatdrive\i\hdk_v2.vat  Infection: BAT/FormatDrive.I (exact)
+u:\collection\script\bat\trojan\formatdrive\k\trojan.bat.killall.c  Infection: BAT/FormatDrive.K (exact)
 u:\collection\script\bat\trojan\formatdrive\l\trojan.bat.formatall.d  Infection: BAT/FormatDrive.L (exact)
 u:\collection\script\bat\trojan\fuflo\a\trojan.bat.fuflo.a  Infection: BAT/FormatC@troj (exact)
 u:\collection\script\bat\trojan\fuflo\b\trojan.bat.fuflo.b  Infection: BAT/FormatC@troj (exact)
 u:\collection\script\bat\trojan\gibmonk\virus.dos.gimon.2512  Infection: BAT/Gibmonk@troj (exact)
 u:\collection\script\bat\trojan\gibmonk\virus.dos.gimon.2555  Infection: BAT/Gibmonk@troj (exact)
 u:\collection\script\bat\trojan\gold\trojan.dos.gold  Infection: BAT/Gold@troj (exact)
+u:\collection\script\bat\trojan\golet\trojan.bat.golett  Infection: BAT/Golet@troj (exact)
+u:\collection\script\bat\trojan\golet\trojan.bat.golett.txt  Infection: BAT/Golet@troj (exact)
 u:\collection\script\bat\trojan\goy\a\trojan.win32.goy  Infection: BAT/Goy.A (exact)
 u:\collection\script\bat\trojan\hacor\trojan.bat.hacor  Infection: BAT/DelFil@troj (exact)
 u:\collection\script\bat\trojan\haltwin\b\trojan.bat.haltwin.b  Infection: BAT/Haltwin@troj (exact)
@@ -46202,6 +46371,9 @@ u:\collection\script\bat\trojan\haltwin\j\trojan.bat.haltwin.j  Infection: BAT/H
 u:\collection\script\bat\trojan\happas\trojan.bat.happas.a  Infection: BAT/Happas@troj (exact)
 u:\collection\script\bat\trojan\happas\trojan.bat.happas.b  Infection: BAT/Happas@troj (exact)
 u:\collection\script\bat\trojan\hbbg\b\bat.hbbg  Infection: BAT/Hbbg.B (exact)
+u:\collection\script\bat\trojan\hdhunter\trojan.bat.hdhunter  Infection: BAT/Hdhunter@troj (exact)
+u:\collection\script\bat\trojan\hdhunter\trojan.bat.hdhunter.txt  Infection: BAT/Hdhunter@troj (exact)
+u:\collection\script\bat\trojan\hdhunter\trojan.bat.rumble  Infection: BAT/Hdhunter@troj (exact)
 u:\collection\script\bat\trojan\hdk13\a\trojan.win32.smile.c  Infection: BAT/HDK13.A (exact)
 u:\collection\script\bat\trojan\holop\a\trojan.dos.holop  Infection: BAT/Holop.A (exact)
 u:\collection\script\bat\trojan\inreg\trojan.bat.inreg  Infection: BAT/Inreg (exact)
@@ -46211,11 +46383,27 @@ u:\collection\script\bat\trojan\kbrdisble\virus.bat.copytostart.a  Infection: BA
 u:\collection\script\bat\trojan\khdd\trojan.bat.khdd  Infection: BAT/Khdd@troj (exact)
 u:\collection\script\bat\trojan\killall\a\trojan.bat.killall.a  Infection: BAT/KillAll.G@troj (exact)
 u:\collection\script\bat\trojan\killall\b\trojan.bat.killall.b  Infection: BAT/FormatC@troj (exact)
+u:\collection\script\bat\trojan\killall\c\trojan.bat.delall.p  Infection: BAT/KillAll.C@troj (exact)
+u:\collection\script\bat\trojan\killall\c\trojan.bat.delall.p.txt  Infection: BAT/KillAll.C@troj (exact)
 u:\collection\script\bat\trojan\killall\c\trojan.bat.killall.c  Infection: BAT/KillAll.D@troj (exact)
+u:\collection\script\bat\trojan\killall\f\trojan.bat.killall.d  Infection: BAT/KillAll.F@troj (exact)
+u:\collection\script\bat\trojan\killall\f\trojan.bat.killall.d.txt  Infection: BAT/KillAll.F@troj (exact)
 u:\collection\script\bat\trojan\killall\g\trojan.bat.killall.g  Infection: BAT/KillAll@troj (exact)
+u:\collection\script\bat\trojan\killav\ag\trojan.bat.killav.cf  Infection: BAT/KillAV.AG@troj (exact)
 u:\collection\script\bat\trojan\killav\ai\trojan.bat.killav.ai  Infection: BAT/KillAV.I@troj (exact)
 u:\collection\script\bat\trojan\killav\d\trojan.bat.killav.d  Infection: BAT/KillAV@troj (exact)
-u:\collection\script\bat\trojan\killcmos\trojan.dos.killcmos.i  Infection: BAT/KillCMOS@troj (exact)
+u:\collection\script\bat\trojan\killav\f\trojan.bat.killav.r  Infection: BAT/KillAV.F@troj (exact)
+u:\collection\script\bat\trojan\killav\g\trojan.bat.killav.ao  Infection: BAT/KillAV.G@troj (exact)
+u:\collection\script\bat\trojan\killav\g\trojan.bat.netstop.q  Infection: BAT/KillAV.G@troj (exact)
+u:\collection\script\bat\trojan\killav\h\trojan.bat.killav.aj  Infection: BAT/KillAV.H@troj (exact)
+u:\collection\script\bat\trojan\killav\h\trojan.bat.netstop.o  Infection: BAT/KillAV.H@troj (exact)
+u:\collection\script\bat\trojan\killav\o\trojan.bat.killav.bt  Infection: BAT/KillAV.O@troj (exact)
+u:\collection\script\bat\trojan\killav\o\trojan.bat.killav.s  Infection: BAT/KillAV.O@troj (exact)
+u:\collection\script\bat\trojan\killav\q\trojan.bat.netstop.f  Infection: BAT/KillAV.Q@troj (exact)
+u:\collection\script\bat\trojan\killav\r\trojan.bat.netstop.m  Infection: BAT/KillAV.R@troj (exact)
+u:\collection\script\bat\trojan\killav\s\backdoor.irc.demfire  Infection: BAT/KillAV.S@troj (exact)
+u:\collection\script\bat\trojan\killcmos\b\trojan.bat.sidey.a  Infection: BAT/KillCMOS.B@troj (exact)
+u:\collection\script\bat\trojan\killcmos\i\trojan.dos.killcmos.i  Infection: BAT/KillCMOS@troj (exact)
 u:\collection\script\bat\trojan\killer\a\trojan.bat.deltreey.d  Infection: BAT/Killer.A (exact)
 u:\collection\script\bat\trojan\killfiles\a\trojan.bat.killfiles.a  Infection: BAT/KillFiles@troj (exact)
 u:\collection\script\bat\trojan\killfiles\am\trojan.bat.killfiles.am  Infection: BAT/DelFil@troj (exact)
@@ -46226,9 +46414,11 @@ u:\collection\script\bat\trojan\killfiles\bd\trojan.bat.killfiles.bd  Infection:
 u:\collection\script\bat\trojan\killfiles\bs\trojan.bat.killfiles.bs  Infection: BAT/DelFil.K@troj (exact)
 u:\collection\script\bat\trojan\killfiles\g\trojan.bat.killfiles.g  Infection: BAT/KillFiles@troj (exact)
 u:\collection\script\bat\trojan\killfiles\h\trojan.bat.killfiles.h  Infection: BAT/KillFiles@troj (exact)
+u:\collection\script\bat\trojan\killfiles\i\trojan.bat.dvl.killfiles.54.txt  Infection: BAT/KillFiles.I@troj (exact)
 u:\collection\script\bat\trojan\killfiles\o\trojan.bat.killfiles.o  Infection: BAT/FormatC@troj (exact)
 u:\collection\script\bat\trojan\killfiles\t\trojan.bat.killfiles.t  Infection: BAT/KillFiles@troj (exact)
 u:\collection\script\bat\trojan\killfiles\u\trojan.bat.killfiles.u  Infection: BAT/KillFiles@troj (exact)
+u:\collection\script\bat\trojan\killreg\a\trojan.bat.killreg.a  Infection: BAT/KillReg@troj (exact)
 u:\collection\script\bat\trojan\kuhar\trojan.bat.kuhar  Infection: BAT/DelWin@troj (exact)
 u:\collection\script\bat\trojan\lol\b\trojan.bat.lol.b  Infection: BAT/DelWin@troj (exact)
 u:\collection\script\bat\trojan\looper\a\trojan.bat.looper.a  Infection: BAT/Looper.B (exact)
@@ -46269,6 +46459,7 @@ u:\collection\script\bat\trojan\nodeldir\e\trojan.bat.nodeldir.e  Infection: BAT
 u:\collection\script\bat\trojan\noshare\a\trojan.bat.noshare.a  Infection: BAT/NoShare.Q@troj (exact)
 u:\collection\script\bat\trojan\noshare\s\trojan.bat.noshare.s  Infection: BAT/NoShare.G@troj (exact)
 u:\collection\script\bat\trojan\noshare\t\trojan.bat.noshare.t  Infection: BAT/NoShare.H@troj (exact)
+u:\collection\script\bat\trojan\oeminfer\trojan.bat.oeminfer.a  Infection: BAT/Oeminfer@troj (exact)
 u:\collection\script\bat\trojan\ops\a\trojan.bat.ops  Infection: BAT/Ops.A (exact)
 u:\collection\script\bat\trojan\passer\a\backdoor.irc.cloner.k  Infection: BAT/Passer.A (exact)
 u:\collection\script\bat\trojan\passer\a\trojan.bat.passer.p  Infection: BAT/Passer.A (exact)
@@ -46292,12 +46483,15 @@ u:\collection\script\bat\trojan\rebun\a\trojan.bat.repun.a  Infection: BAT/Rebun
 u:\collection\script\bat\trojan\rebun\b\trojan.bat.repun.b  Infection: BAT/Rebun.B (exact)
 u:\collection\script\bat\trojan\recker\a\trojan.win32.recker  Infection: BAT/Recker.A (exact)
 u:\collection\script\bat\trojan\regbomb\a\trojan.bat.regbomb  Infection: BAT/RegBomb.A (exact)
+u:\collection\script\bat\trojan\regdel\trojan.bat.regidel  Infection: BAT/Regdel@troj (exact)
 u:\collection\script\bat\trojan\reiz\a\trojan.bat.reizfaktor  Infection: BAT/Reiz.A (exact)
 u:\collection\script\bat\trojan\reiz\b\trojan.msword.asphyxiate  Infection: BAT/Reiz.B (exact)
 u:\collection\script\bat\trojan\renameall\a\trojan.bat.renameall.a  Infection: BAT/Renameall@troj (exact)
+u:\collection\script\bat\trojan\renamefil\trojan.bat.renamefiles.b  Infection: BAT/Renamefil@troj (exact)
 u:\collection\script\bat\trojan\renamefiles\a\trojan.bat.renamefiles.a  Infection: BAT/Renameall@troj (exact)
 u:\collection\script\bat\trojan\renamer\c\trojan.bat.renamer.c  Infection: BAT/Renamer.A@troj (exact)
 u:\collection\script\bat\trojan\rengay\trojan.bat.rengay  Infection: BAT/Rengay@troj (exact)
+u:\collection\script\bat\trojan\rott\trojan.bat.rottengar  Infection: BAT/Rott@troj (exact)
 u:\collection\script\bat\trojan\ruinator\trojan.bat.ruinator  Infection: BAT/DelTreeY.L@troj (exact)
 u:\collection\script\bat\trojan\runner\a\trojan.bat.runner  Infection: BAT/Runner.A (exact)
 u:\collection\script\bat\trojan\satanik\trojan.bat.satanik  Infection: BAT/Satanik@troj (exact)
@@ -46313,6 +46507,7 @@ u:\collection\script\bat\trojan\spiral\a\trojan.bat.spiral  Infection: BAT/Spira
 u:\collection\script\bat\trojan\spth\copyme\i\trojan.bat.spth.copyme.i  Infection: BAT/Looper@troj (exact)
 u:\collection\script\bat\trojan\spth\mkdir\b\trojan.bat.spth.mkdir.b  Infection: BAT/Looper@troj (exact)
 u:\collection\script\bat\trojan\startdcom\a\trojan.bat.startdcom.a  Infection: BAT/StartDcom.A@troj (exact)
+u:\collection\script\bat\trojan\startpage\trojan.winreg.startpage  Infection: BAT/StartPage@troj (exact)
 u:\collection\script\bat\trojan\startv\a\trojan.bat.startv  Infection: BAT/StartV.A (exact)
 u:\collection\script\bat\trojan\substcde\a\trojan.bat.ratty.substcde  Infection: BAT/Substcde.A (exact)
 u:\collection\script\bat\trojan\substcde\b\trojan.bat.dvl.nulldate.a  Infection: BAT/Substcde.B (exact)
@@ -46336,16 +46531,21 @@ u:\collection\script\bat\trojan\winreg\destro\trojan.winreg.destro  Infection: B
 u:\collection\script\bat\trojan\winuck\b\winfuck.vat  Infection: BAT/Winuck.B (exact)
 u:\collection\script\bat\trojan\zapchast\n\trojan.bat.autorooter  Infection: BAT/Zapchast.N (exact)
 u:\collection\script\bat\trojan\zebumb\a\trojan.bat.zebumb  Infection: BAT/Zebumb.A (exact)
+u:\collection\script\bat\virus\abm\a\virus.bat.abm.txt  Infection: BAT/Abm.A (exact)
 u:\collection\script\bat\virus\abm\b\virtool.dos.abm.13  Infection: BAT/Abm.B (exact)
 u:\collection\script\bat\virus\aduh\a\aduh1.vat  Infection: BAT/Aduh.A (exact)
 u:\collection\script\bat\virus\aduh\b\aduh2.vat  Infection: BAT/Aduh.B (exact)
+u:\collection\script\bat\virus\afint\a\email-worm.vbs.jerm.c.txt  Infection: BAT/Afint.A (exact)
+u:\collection\script\bat\virus\ahoj\a\virus.bat.ahoj.1284  Infection: BAT/Ahoj.A (exact)
 u:\collection\script\bat\virus\alcaul\a\aguilerab.vat  Infection: BAT/Alcaul.A@dr (exact)
-u:\collection\script\bat\virus\alcaul\b\aguilera.vat  Infection: BAT/Calhob.B (exact)
+u:\collection\script\bat\virus\alcaul\b\email-worm.bat.alcobul.b.txt  Infection: BAT/Alcaul.B@m (exact)
 u:\collection\script\bat\virus\alek\a\virus.bat.alek  Infection: BAT/Alek.A (exact)
 u:\collection\script\bat\virus\allthebat\a\virus.bat.copytoc.a  Infection: BAT/Allthebat.A (exact)
 u:\collection\script\bat\virus\along\a\email-worm.win32.hopalon.b  Infection: BAT/Along.A@mm (exact)
 u:\collection\script\bat\virus\alpha\a\virus.bas.alpha  Infection: BAT/Alpha.A (exact)
+u:\collection\script\bat\virus\antifa\a\email-worm.vbs.cuerpo.txt  Infection: BAT/Antifa.A (exact)
 u:\collection\script\bat\virus\antinap\a\email-worm.vbs.chapo  Infection: BAT/Antinap.A (exact)
+u:\collection\script\bat\virus\apm\a\virus.bat.ibbm.agm  Infection: BAT/Apm.A (exact)
 u:\collection\script\bat\virus\archiworm\a\virus.bat.arhiworm.555  Infection: BAT/Archiworm.A (exact)
 u:\collection\script\bat\virus\archiworm\b\virus.bat.archiworm.d  Infection: BAT/Archiworm.B (exact)
 u:\collection\script\bat\virus\archiworm\c\virus.bat.arhiworm.547  Infection: BAT/Archiworm.C (exact)
@@ -46353,11 +46553,20 @@ u:\collection\script\bat\virus\archiworm\d\virus.bat.arhiworm.590  Infection: BA
 u:\collection\script\bat\virus\archiworm\e\bat.khorp.289  Infection: BAT/Archiworm.E (exact)
 u:\collection\script\bat\virus\archiworm\f\bat.archiworm.e  Infection: BAT/Archiworm.F (exact)
 u:\collection\script\bat\virus\argon\a\bat.argon.217  Infection: BAT/Argon.A (exact)
+u:\collection\script\bat\virus\aricaworm\a\email-worm.bat.arica.txt  Infection: BAT/Aricaworm.A (exact)
 u:\collection\script\bat\virus\asscom\b\part-b06.htm  Infection: BAT/Asscom.B (exact)
+u:\collection\script\bat\virus\ataris\a\virus.bat.ibbm.ataris.a  Infection: BAT/Ataris.A (exact)
+u:\collection\script\bat\virus\ataris\b\virus.bat.ibbm.ataris.b  Infection: BAT/Ataris.B (exact)
 u:\collection\script\bat\virus\ataris\c\virus.bat.ibbm.ataris.c  Infection: BAT/Ataris.C (exact)
+u:\collection\script\bat\virus\ataris\d\virus.bat.ibbm.ataris.d  Infection: BAT/Ataris.D (exact)
 u:\collection\script\bat\virus\ataris\e\virus.bat.ibbm.ataris.e  Infection: BAT/Ataris.E (exact)
+u:\collection\script\bat\virus\ataris\f\virus.bat.ibbm.ataris.f  Infection: BAT/Ataris.F (exact)
+u:\collection\script\bat\virus\ataris\g\virus.bat.ataris.963  Infection: BAT/Ataris.G (exact)
+u:\collection\script\bat\virus\atarj\a\virus.bat.first  Infection: BAT/Atarj.A (exact)
 u:\collection\script\bat\virus\bandit\c\virus.bat.bandit  Infection: BAT/Bandit.C (exact)
+u:\collection\script\bat\virus\baster\a\virus.bat.baster  Infection: BAT/Baster.A (exact)
 u:\collection\script\bat\virus\basvir\a\basvir.vat  is a destructive program
+u:\collection\script\bat\virus\basvir\a\trojan.bat.basvir.txt  Infection: BAT/Basvir.A (exact)
 u:\collection\script\bat\virus\bat\301\virus.bat.301  Infection: BAT/Bat.301 (exact)
 u:\collection\script\bat\virus\bat300\virus.bat.300  Infection: BAT/Bat300 (exact)
 u:\collection\script\bat\virus\bat84\a\virus.bat.silly.y  Infection: BAT/Bat84.A (exact)
@@ -46366,11 +46575,21 @@ u:\collection\script\bat\virus\batal\b\bat.batalia5.b  Infection: BAT/Batal.B (e
 u:\collection\script\bat\virus\batalia\d\bat.batalia3.b  Infection: BAT/Batalia.D (exact)
 u:\collection\script\bat\virus\batalia\g\521.vat  Infection: BAT/Batalia.G (exact)
 u:\collection\script\bat\virus\batalia1\840.vat  Infection: BAT/Batalia1 (exact)
+u:\collection\script\bat\virus\batalia2\b\virus.bat.batalia2  Infection: BAT/Batalia2.B (exact)
+u:\collection\script\bat\virus\batalia2\b\virus.bat.batalia2.b  Infection: BAT/Batalia2.B (exact)
+u:\collection\script\bat\virus\batalia2\b\virus.bat.batalia2.b.txt  Infection: BAT/Batalia2.B (exact)
+u:\collection\script\bat\virus\batalia2\b\virus.bat.batalia2e.txt  Infection: BAT/Batalia2.B (exact)
 u:\collection\script\bat\virus\batalia3\bat.vat  Infection: BAT/Batalia3 (exact)
 u:\collection\script\bat\virus\batalia3\c\bat.batalia3.c  Infection: BAT/Batalia3.C (exact)
+u:\collection\script\bat\virus\batalia4\c\virus.bat.batalia4  Infection: BAT/Batalia4.C (exact)
 u:\collection\script\bat\virus\batalia4\d\460.vat  Infection: BAT/Batalia4.D (exact)
 u:\collection\script\bat\virus\batalia4\d\491-493.vat  Infection: BAT/Batalia4.D (exact)
 u:\collection\script\bat\virus\batalia4\d\bat.batalia2.460  Infection: BAT/Batalia4.D (exact)
+u:\collection\script\bat\virus\batalia5\a\virus.bat.sg  Infection: BAT/Batalia5.A (exact)
+u:\collection\script\bat\virus\batalia5\b\virus.bat.batalia4.b  Infection: BAT/Batalia5.B (exact)
+u:\collection\script\bat\virus\batalia5\b\virus.bat.batalia4.c  Infection: BAT/Batalia5.B (exact)
+u:\collection\script\bat\virus\batalia5\c\virus.bat.batalia5.b  Infection: BAT/Batalia5.C (exact)
+u:\collection\script\bat\virus\batalia7\virus.bat.batalia7.434  Infection: BAT/Batalia7 (exact)
 u:\collection\script\bat\virus\batix\a\bat.batix  Infection: BAT/Batix.A (exact)
 u:\collection\script\bat\virus\batix\b\bat.dvquest.a  Infection: BAT/Batix.B (exact)
 u:\collection\script\bat\virus\batix\c\virus.bat.dvquest.c  Infection: BAT/Batix (exact)
@@ -46382,46 +46601,101 @@ u:\collection\script\bat\virus\baton\c\bat.baton.a  Infection: BAT/Baton.C (exac
 u:\collection\script\bat\virus\baton\c\bat.vat  Infection: BAT/Baton.C (exact)
 u:\collection\script\bat\virus\baton\d\bat.baton.b  Infection: BAT/Baton.D (exact)
 u:\collection\script\bat\virus\baton\d\bat.silly.at  Infection: BAT/Baton.D (exact)
+u:\collection\script\bat\virus\battler\a\virus.bat.battler  Infection: BAT/Battler.A (exact)
+u:\collection\script\bat\virus\battona\a\virus.bat.battona  Infection: BAT/Battona.A (exact)
 u:\collection\script\bat\virus\battona\b\virus.bat.mtito  Infection: BAT/Battona.B (exact)
+u:\collection\script\bat\virus\battus\a\virus.bat.tus.1680  Infection: BAT/Battus.A (exact)
+u:\collection\script\bat\virus\batwin\a\email-worm.bat.batwin.txt  Infection: BAT/Batwin.A (exact)
+u:\collection\script\bat\virus\batzback\a\virus.bat.batzback  Infection: BAT/Batzback.A (exact)
 u:\collection\script\bat\virus\bclone\a\trojan.bat.caloner.a  Infection: BAT/Bclone.A (exact)
 u:\collection\script\bat\virus\bcom\154\combat.154  Infection: BAT/BCOM.154 (exact)
 u:\collection\script\bat\virus\bcom\156\bat.ss.a  Infection: BAT/BCOM.156 (exact)
 u:\collection\script\bat\virus\beat\a\bat.beat  Infection: BAT/Beat.A (exact)
 u:\collection\script\bat\virus\becky\a\antibecky.vat  Infection: BAT/Becky.A (exact)
+u:\collection\script\bat\virus\becky\a\irc-worm.bat.txt  Infection: BAT/Becky.A (exact)
+u:\collection\script\bat\virus\becky\b\virus.bat.ibbm.becky  Infection: BAT/Becky (exact)
+u:\collection\script\bat\virus\betty\a\p2p-worm.bat.betty  Infection: BAT/Betty.A@p2p (exact)
+u:\collection\script\bat\virus\betty\a\p2p-worm.bat.betty.txt  Infection: BAT/Betty.A@p2p (exact)
+u:\collection\script\bat\virus\beware\b\virus.bat.beware.c  Infection: BAT/Beware.B (exact)
 u:\collection\script\bat\virus\beware\c\virus.bat.beware.698  Infection: BAT/Beware.C (exact)
 u:\collection\script\bat\virus\beware\c\virus.bat.beware.b  Infection: BAT/Beware.C (exact)
+u:\collection\script\bat\virus\beware\d\virus.bat.beware.d  Infection: BAT/Beware.D (exact)
+u:\collection\script\bat\virus\beware\d\virus.wbs.beware  Infection: BAT/Beware.D (exact)
+u:\collection\script\bat\virus\beware\e\virus.wbs.beware.b  Infection: BAT/Beware.E (exact)
 u:\collection\script\bat\virus\bfv\bat.bfv.475  Infection: BAT/Bfv (exact)
+u:\collection\script\bat\virus\bingo\b\bingo.1963.vat  Infection: BAT/Bingo.B (exact)
+u:\collection\script\bat\virus\bingo\b\virus.bat.bingo.1963  Infection: BAT/Bingo.B (exact)
+u:\collection\script\bat\virus\biong\a\irc-worm.bat.biongat  Infection: BAT/Biong.A (exact)
+u:\collection\script\bat\virus\biong\a\irc-worm.bat.biongat.txt  Infection: BAT/Biong.A (exact)
 u:\collection\script\bat\virus\black\a\virus.bat.black.b  Infection: BAT/Black.A (exact)
 u:\collection\script\bat\virus\black\b\virus.bat.black.a  Infection: BAT/Black.B (exact)
 u:\collection\script\bat\virus\black\c\bat.black.c  Infection: BAT/Black.C (exact)
 u:\collection\script\bat\virus\blb\a\virus.bat.blb  Infection: BAT/Blb.A (exact)
 u:\collection\script\bat\virus\bogger\a\679bcc03adec7729bbdd1646720d2e3f998022cb37cc5aa48ee64e146133325b  Infection: BAT/Bogger.A (exact)
+u:\collection\script\bat\virus\bolt\a\virus.bat.bolt  Infection: BAT/Bolt.A (exact)
+u:\collection\script\bat\virus\bolt\a\virus.bat.bolt.txt  Infection: BAT/Bolt.A (exact)
 u:\collection\script\bat\virus\bombas\a\bat.bombas  Infection: BAT/Bombas.A (exact)
 u:\collection\script\bat\virus\bombas\b\trojan.bat.bombas  Infection: BAT/Bombas.B (exact)
+u:\collection\script\bat\virus\bombas\c\virus.bat.bombas.1078  Infection: BAT/Bombas.C (exact)
 u:\collection\script\bat\virus\bombas\d\virus.bat.bombas.504  Infection: BAT/Bombas.D (exact)
 u:\collection\script\bat\virus\bombas\e\virus.bat.bombas.364  Infection: BAT/Bombas.E (exact)
 u:\collection\script\bat\virus\brcompress\a\virus.bat.br  Infection: BAT/BrCompress.A (exact)
+u:\collection\script\bat\virus\btg\a\irc-worm.bat.phile.a  Infection: BAT/BTG.A (exact)
+u:\collection\script\bat\virus\btg\a\irc-worm.bat.phile.txt  Infection: BAT/BTG.A (exact)
 u:\collection\script\bat\virus\bug\a\virus.bat.ibbm.bug.a  Infection: BAT/Bug.A (exact)
 u:\collection\script\bat\virus\bug\b\virus.bat.ibbm.bug.b  Infection: BAT/Bug.B (exact)
+u:\collection\script\bat\virus\bug\c\virus.bat.ibbm.bug.c  Infection: BAT/Bug.C (exact)
 u:\collection\script\bat\virus\bumblebat\a\bat.bumble.445  Infection: BAT/BumbleBat.A (exact)
 u:\collection\script\bat\virus\bumblebat\a\bat.bumble.a  Infection: BAT/BumbleBat.A (exact)
 u:\collection\script\bat\virus\bumblebat\a\virus.bat.bumble.444  Infection: BAT/BumbleBat.A (exact)
+u:\collection\script\bat\virus\butcher\a\virus.bat.butcher.a  Infection: BAT/Butcher.A (exact)
+u:\collection\script\bat\virus\butcher\b\virus.bat.butcher.d  Infection: BAT/Butcher.B (exact)
+u:\collection\script\bat\virus\butcher\c\virus.bat.butcher.b  Infection: BAT/Butcher.C (exact)
+u:\collection\script\bat\virus\butcher\d\virus.bat.butcher.c  Infection: BAT/Butcher.D (exact)
+u:\collection\script\bat\virus\butcher\e\virus.bat.butcher.1134  Infection: BAT/Butcher.E (exact)
+u:\collection\script\bat\virus\butcher\e\virus.bat.butcher.e  Infection: BAT/Butcher.E (exact)
+u:\collection\script\bat\virus\butcher\g\virus.bat.butcher.f  Infection: BAT/Butcher.G (exact)
+u:\collection\script\bat\virus\butcher\h\virus.bat.butcher.1851  Infection: BAT/Butcher.H (exact)
+u:\collection\script\bat\virus\butcher\i\virus.bat.butcher.1175  Infection: BAT/Butcher.I (exact)
+u:\collection\script\bat\virus\butcher\j\virus.bat.butcher.j  Infection: BAT/Butcher.J (exact)
+u:\collection\script\bat\virus\butcher\k\virus.bat.butcher.1018  Infection: BAT/Butcher.K (exact)
+u:\collection\script\bat\virus\bveg\a\virus.bat.pepi.a  Infection: BAT/BVEG.A (exact)
+u:\collection\script\bat\virus\bveg\b\virus.bat.pepi.b  Infection: BAT/BVEG.B (exact)
 u:\collection\script\bat\virus\bvgn\a\virus.bat.ibbm.mkv  Infection: BAT/BVGN.A (exact)
+u:\collection\script\bat\virus\bvgn\b\constructor.bat.bvgen  Infection: BAT/BVGN.B (exact)
+u:\collection\script\bat\virus\bvgn\b\constructor.bat.bvghh.11  Infection: BAT/BVGN.B (exact)
+u:\collection\script\bat\virus\bvgn\b\constructor.bat.bvghh.txt  Infection: BAT/BVGN.B (exact)
+u:\collection\script\bat\virus\bvgn\b\constructor.bat.txt  Infection: BAT/BVGN.B (exact)
+u:\collection\script\bat\virus\bvone\b\virus.bat.roshi.804  Infection: BAT/BVOne.B (exact)
 u:\collection\script\bat\virus\bwg\c\virus.bat.bwg.c  Infection: BAT/BWG.C (exact)
+u:\collection\script\bat\virus\bwg\f\virus.bat.bwg.f  Infection: BAT/BWG.F (exact)
+u:\collection\script\bat\virus\bwg\g\virus.bat.bwg.g  Infection: BAT/BWG.G (exact)
 u:\collection\script\bat\virus\bwg\h\bat.bwg.a  Infection: BAT/BWG.H (exact)
+u:\collection\script\bat\virus\bwg\j\p2p-worm.bat.copybat.ai  Infection: BAT/BWG.J (exact)
+u:\collection\script\bat\virus\bwg\j\p2p-worm.bat.copybat.ai.txt  Infection: BAT/BWG.J (exact)
 u:\collection\script\bat\virus\bwg\k\server.vat  Infection: BAT/BWG.K (exact)
+u:\collection\script\bat\virus\bwg\l\email-worm.bat.bwg.d.txt  Infection: BAT/BWG.L (exact)
 u:\collection\script\bat\virus\bwg\q\constructor.bat.bwg  Infection: BAT/BWG.Q@troj (exact)
+u:\collection\script\bat\virus\bwg\r\email-worm.bat.bwg.c.txt  Infection: BAT/BWG.J@mm (exact)
+u:\collection\script\bat\virus\calhob\a\email-worm.bat.calhob.txt  Infection: BAT/Calhob.A@mm (exact)
+u:\collection\script\bat\virus\calhob\b\aguilera.vat  Infection: BAT/Calhob.B (exact)
+u:\collection\script\bat\virus\camile\a\email-worm.vbs.gamile.txt  Infection: BAT/Camile.A (exact)
 u:\collection\script\bat\virus\carbuncle\a5bc2578.vat  Infection: BAT/Carbuncle (exact)
 u:\collection\script\bat\virus\cat\a\virus.bat.cat  Infection: BAT/Cat.A (exact)
 u:\collection\script\bat\virus\chantal\b\virus.bat.ibbm.mkv.b  Infection: BAT/Chantal.B (exact)
 u:\collection\script\bat\virus\cheezy\a\329.vat  Infection: BAT/Cheezy.A (exact)
+u:\collection\script\bat\virus\chkem\a\p2p-worm.bat.cyseq.a  Infection: BAT/Chkem.A (exact)
+u:\collection\script\bat\virus\chkem\a\p2p-worm.bat.cyseq.txt  Infection: BAT/Chkem.A (exact)
 u:\collection\script\bat\virus\cigar\b\virus.bat.cigar.a  Infection: BAT/Cigar.B (exact)
 u:\collection\script\bat\virus\cigar\b\virus.bat.cigar.b  Infection: BAT/Cigar.B (exact)
+u:\collection\script\bat\virus\cigar\c\virus.bat.cigar.d  Infection: BAT/Cigar.C (exact)
 u:\collection\script\bat\virus\clsv\bat.ibbm.clsv  Infection: BAT/Clsv (exact)
 u:\collection\script\bat\virus\code\a\169.vat  Infection: BAT/Code.A (exact)
 u:\collection\script\bat\virus\code\b\0fe.vat  Infection: BAT/Code.B (exact)
 u:\collection\script\bat\virus\code\b\wci02164.vat  Infection: BAT/Code.B (exact)
+u:\collection\script\bat\virus\cold\b\virus.bat.cold.b  Infection: BAT/Cold.B (exact)
 u:\collection\script\bat\virus\com\448\virus_2192.vir  Infection: BAT/Com.448 (exact)
+u:\collection\script\bat\virus\combat\a\combat.398  Infection: BAT/Combat.A (exact)
 u:\collection\script\bat\virus\combat\e\virus.bat.combat.i  Infection: BAT/Combat.E (exact)
 u:\collection\script\bat\virus\combat\f\virus.bat.combat.j  Infection: BAT/Combat.F (exact)
 u:\collection\script\bat\virus\comp\a\virus.bat.companion.b  Infection: BAT/Comp.A (exact)
@@ -46434,24 +46708,45 @@ u:\collection\script\bat\virus\copyall\a\bat.copytoall.a  Infection: BAT/CopyAll
 u:\collection\script\bat\virus\copyall\a\virus.bat.copytoall.f  Infection: BAT/CopyAll.A (exact)
 u:\collection\script\bat\virus\copybat\aa\virus.bat.mumo.a  Infection: BAT/Copybat.AA (exact)
 u:\collection\script\bat\virus\copybat\ac\virus.bat.copytoautoexec  Infection: BAT/Copybat.AC (exact)
+u:\collection\script\bat\virus\copybat\am\p2p-worm.bat.copybat.am  Infection: BAT/Dmenu.F (exact)
+u:\collection\script\bat\virus\copybat\am\p2p-worm.bat.copybat.am.txt  Infection: BAT/Dmenu.F (exact)
 u:\collection\script\bat\virus\copybat\p\virus.bat.crock  Infection: BAT/Copybat.P (exact)
+u:\collection\script\bat\virus\copytoc\a\virus.bat.copytoc.b  Infection: BAT/CopyToC.A (exact)
 u:\collection\script\bat\virus\corea\a\bat.corea.293  Infection: BAT/Corea.A (exact)
 u:\collection\script\bat\virus\craz\a\1267.vat  Infection: BAT/Craz.A (exact)
 u:\collection\script\bat\virus\craz\c\craz_c.vat  Infection: BAT/Craz.C (exact)
 u:\collection\script\bat\virus\cream\a\virus.bat.mosquito.a  Infection: BAT/Cream.A (exact)
+u:\collection\script\bat\virus\crodom\virus.bat.hny.3350  Infection: BAT/Crodom (exact)
 u:\collection\script\bat\virus\ctty\a\virus.bat.ctty.b  Infection: BAT/Ctty.A (exact)
 u:\collection\script\bat\virus\ctty\b\virus.bat.ctty.a  Infection: BAT/Ctty.B (exact)
 u:\collection\script\bat\virus\cw\a\bat.cw.a  Infection: BAT/CW.A (exact)
 u:\collection\script\bat\virus\cw\b\virus.bat.cw.b  Infection: BAT/CW.B (exact)
 u:\collection\script\bat\virus\cw\c\virus.bat.cw.c  Infection: BAT/CW.C (exact)
+u:\collection\script\bat\virus\cw\d\virus.bat.cw.d  Infection: BAT/CW.G (exact)
 u:\collection\script\bat\virus\cw\e\virus.bat.cw.e  Infection: BAT/CW.E (exact)
+u:\collection\script\bat\virus\cw\f\virus.bat.cw.f  Infection: BAT/CW.G (exact)
 u:\collection\script\bat\virus\cyber\cyber.vat  Infection: BAT/Cyber (exact)
 u:\collection\script\bat\virus\cybrphuc\703.vat  Infection: BAT/Cybrphuc (exact)
 u:\collection\script\bat\virus\daar\virus_2907.vir  Infection: BAT/Daar (exact)
+u:\collection\script\bat\virus\dakuma\a\virus.bat.akuma.1935  Infection: BAT/Dakuma.A (exact)
+u:\collection\script\bat\virus\dakuma\a\virus.bat.akuma.b  Infection: BAT/Dakuma.A (exact)
 u:\collection\script\bat\virus\damang\a\virus.bat.damang.600  Infection: BAT/Damang.A (exact)
+u:\collection\script\bat\virus\damn\virus.bat.damn.a  Infection: BAT/Damn (exact)
+u:\collection\script\bat\virus\damn\virus.bat.damn.b  Infection: BAT/Damn (exact)
+u:\collection\script\bat\virus\damn\virus.bat.damn.txt  Infection: BAT/Damn (exact)
+u:\collection\script\bat\virus\danom\b\virus.msh.danom.b  Infection: BAT/Danom.B (exact)
+u:\collection\script\bat\virus\darky\a\virus.bat.darky  Infection: BAT/Darky.A (exact)
+u:\collection\script\bat\virus\darky\b\virus.bat.darky.1119  Infection: BAT/Darky.B (exact)
+u:\collection\script\bat\virus\darky\b\virus.bat.ibbm.darky  Infection: BAT/Darky.B (exact)
+u:\collection\script\bat\virus\darmp2p\a\darn.vat  Infection: BAT/DarmP2P.A (exact)
+u:\collection\script\bat\virus\darmp2p\a\virus.bat.darn  Infection: BAT/DarmP2P.A (exact)
+u:\collection\script\bat\virus\ddv\f\email-worm.bat.heloon.txt  Infection: BAT/DDV.F@dr (exact)
 u:\collection\script\bat\virus\deadbyte\a\bat.dbyte  Infection: BAT/Deadbyte.A (exact)
+u:\collection\script\bat\virus\deadbyte\d\virus.bat.deadbyte.b  Infection: BAT/Deadbyte.D (exact)
+u:\collection\script\bat\virus\deadbyte\d\virus.bat.deadbyte.txt  Infection: BAT/Deadbyte.D (exact)
 u:\collection\script\bat\virus\deadbyte\f\virus.bat.deadbyte.f  Infection: BAT/Deadbyte.F (exact)
 u:\collection\script\bat\virus\deadbyte\g\virus.bat.deadbyte.e  Infection: BAT/Deadbyte.G (exact)
+u:\collection\script\bat\virus\deadbyte\h\virus.bat.batalia6  Infection: BAT/Deadbyte.H (exact)
 u:\collection\script\bat\virus\deadman\a\bat.deadman  Infection: BAT/Deadman.A (exact)
 u:\collection\script\bat\virus\delavsoft\redarc.b_t  Infection: BAT/DelAVsoft@troj (exact)
 u:\collection\script\bat\virus\dik\a\bat.dick.b  Infection: BAT/Dik.A (exact)
@@ -46465,11 +46760,20 @@ u:\collection\script\bat\virus\duke\a\bat.sob.a  Infection: BAT/Duke.A (exact)
 u:\collection\script\bat\virus\duke\b\bat.comp.226  Infection: BAT/Duke.B (exact)
 u:\collection\script\bat\virus\duke\c\bat.duke.a  Infection: BAT/Duke.C (exact)
 u:\collection\script\bat\virus\duke\c\bat.duke.e  Infection: BAT/Duke.C (exact)
+u:\collection\script\bat\virus\duke\d\virus.bat.duke.b  Infection: BAT/Duke.D (exact)
+u:\collection\script\bat\virus\duke\d\virus.bat.duke.c  Infection: BAT/Duke.D (exact)
 u:\collection\script\bat\virus\duplo\a\virus.bat.duplo.277  Infection: BAT/Duplo.A (exact)
 u:\collection\script\bat\virus\duplo\c\virus.bat.duplo.344  Infection: BAT/Duplo.C (exact)
 u:\collection\script\bat\virus\dvlcrash\b\virus.bat.copytostart.b  Infection: BAT/DVLCrash.B (exact)
+u:\collection\script\bat\virus\d_smack\virus.bat.dick.1424  Infection: BAT/D_Smack (exact)
+u:\collection\script\bat\virus\eightone\a\virus.bat.ibbm.vrs.a  Infection: BAT/Eightone.A (exact)
 u:\collection\script\bat\virus\elf\782.vat  Infection: BAT/Elf (exact)
+u:\collection\script\bat\virus\emma\411\a\virus.bat.emma  Infection: BAT/Emma.411.A (exact)
+u:\collection\script\bat\virus\england\a\virus.bat.ibbm.england.a  Infection: BAT/England.A (exact)
+u:\collection\script\bat\virus\england\b\virus.bat.ibbm.england.b  Infection: BAT/England.B (exact)
+u:\collection\script\bat\virus\england\d\virus.bat.ibbm.england.c  Infection: BAT/England.D (exact)
 u:\collection\script\bat\virus\evir\a\virus.bat.evir.661  Infection: BAT/Evir.A (exact)
+u:\collection\script\bat\virus\evir\b\virus.bat.evir.1139  Infection: BAT/Evir.B (exact)
 u:\collection\script\bat\virus\fakebb\a@troj\trojan-psw.win32.fakebb.a  Infection: BAT/Fakebb.A@troj (exact)
 u:\collection\script\bat\virus\falken\a\virus.bat.green.1431  Infection: BAT/Falken.A (exact)
 u:\collection\script\bat\virus\find\bat.silly.am  Infection: BAT/Find (exact)
@@ -46569,6 +46873,8 @@ u:\collection\script\bat\virus\midtext\b\battext.tx0  Infection: BAT/Midtext.B (
 u:\collection\script\bat\virus\midtext\b\battext.tx1  Infection: BAT/Midtext.B (exact)
 u:\collection\script\bat\virus\midtext\b\battext.tx2  Infection: BAT/Midtext.B (exact)
 u:\collection\script\bat\virus\mircbat\b\virus.bat.orgy.523  Infection: BAT/MircBat.B (exact)
+u:\collection\script\bat\virus\misan\a\virus.bat.misan.a  Infection: BAT/Batq (exact)
+u:\collection\script\bat\virus\misan\b\virus.bat.misan.b  Infection: BAT/Batq (exact)
 u:\collection\script\bat\virus\mobius\a\mobius.b_t  Infection: BAT/Mobius.A (exact)
 u:\collection\script\bat\virus\moral\941.vat  Infection: BAT/Moral (exact)
 u:\collection\script\bat\virus\moral\moral.vat  Infection: BAT/Moral (exact)
@@ -46625,6 +46931,9 @@ u:\collection\script\bat\virus\reinfector\e\virus.bat.reinfector.565  Infection:
 u:\collection\script\bat\virus\remworm\150\virus.bat.remworm.150  Infection: BAT/Remworm.150 (exact)
 u:\collection\script\bat\virus\ripost\b\virus.bat.ripost  Infection: BAT/Ripost.B (exact)
 u:\collection\script\bat\virus\root\bat.ibbm.vrs.b  Infection: BAT/Root (exact)
+u:\collection\script\bat\virus\sadic\a\p2p-worm.vbs.sadic  Infection: BAT/Sadic.A (exact)
+u:\collection\script\bat\virus\sakura\a\virus.bat.sakura  Infection: BAT/Sakura.A (exact)
+u:\collection\script\bat\virus\sanfur\a\virus.bat.sanfur.a  Infection: BAT/Sanfur.A@dr (exact)
 u:\collection\script\bat\virus\savec\bat.savec  Infection: BAT/Savec (exact)
 u:\collection\script\bat\virus\sbvm\a@troj\virus.bat.sbvm.306  Infection: BAT/SBVM.A@troj (exact)
 u:\collection\script\bat\virus\scorn\a\virus.bat.scorn  Infection: BAT/Scorn.A (exact)
@@ -46971,6 +47280,8 @@ u:\collection\script\irc\worm\whacked\b\9efdaab64d30d91abbd8514ff5f69684a4b296ae
 u:\collection\script\irc\worm\whacked\b\e30ca458d9760e84b8a607472634f66e3c32353be7da7cb7628162e5f987b9ad  Infection: IRC/Whacked.B (exact)
 u:\collection\script\irc\worm\whacked\k\73859182b3a1bf0d9d119daeae7b099dc2cb18f1220e0106dfa93b79089dfdbe  Infection: IRC/Whacked.K (exact)
 u:\collection\script\irc\worm\zapchast\a\8d82e02fca75514bd3ec33943b63b8e61f9196268cbc44e01e1020d9835f8318  Infection: IRC/Zapchast.A (exact)
+u:\collection\script\is\energon\a\virus.vbs.energ  Infection: IS/Energon.A@dr (exact)
+u:\collection\script\wbt\method\a\virus.wbs.method  Infection: WBS/Method.A (exact)
 u:\collection\symbian\trojan\mquito\b\Mosquitos2.0-full.vis  is a security risk named Epoc/Mosquit.A
 u:\collection\symbian\worm\cabir\a\Cabir.vis  is a security risk or a "backdoor" program
 u:\collection\symbian\worm\cabir\bb\02001bfa07cf10b7cd30753ae937eb23aa986db4cc37b18821d413d2c8cc0fea  is a security risk or a "backdoor" program
@@ -46999,6 +47310,7 @@ u:\collection\win16\file\aep\1772\ae1df8b43d004604fd56cbf6689af1b740341ddebbe129
 u:\collection\win16\file\aep\1772\de70e20be34b06e061a3c05c66f1567e07005fbeb0a648625d468ab2a2db94db  Infection: AEP.1772 (exact)
 u:\collection\win16\file\aep\1772\f50458879d056e0523dff7d7d72bc3c28758269ba3e94269b03c28b2540fccf7  Infection: Win/AEP.1772 (exact) - Dropper
 u:\collection\win16\file\alicia\6554\Virus.DOS.Alicia.a  Infection: Win/Alicia.6554 - Dropper
+u:\collection\win16\file\anti-aznar\664\a\virus.dos.anti-aznar.664  Infection: Win/Anti-Aznar.664.A (exact) - Dropper
 u:\collection\win16\file\apparition\a\wci0193w.vxe  Infection: Win/Apparition.87438
 u:\collection\win16\file\apparition\b\1-appa-b.vxe  Infection: Win/Apparition.89021
 u:\collection\win16\file\apparition\b\clipbrd.vxe  Infection: Win/Apparition.89021
@@ -47007,6 +47319,7 @@ u:\collection\win16\file\apparition\b\winapp.vxe  Infection: Win/Apparition.8902
 u:\collection\win16\file\apparition\c\Virus.Win16.Apparition.c  Infection: Win/Apparition.91565
 u:\collection\win16\file\apparition\d\Virus.Win16.Apparition.d  Infection: Win/Apparition.102932
 u:\collection\win16\file\apparition\e\Virus.Win16.Apparition.e  Infection: Win/Apparition.182338
+u:\collection\win16\file\cezar\4567\virus.dos.wwpe.rsa.4570  Infection: Win/Cezar.4567 - Dropper
 u:\collection\win16\file\cybertech\Virus.Win16.CyberTech  Infection: Win/CyberWin
 u:\collection\win16\file\gollum\debug.vxe  Infection: Win/Gollum_II.6592 (exact)
 u:\collection\win16\file\gollum\gollum.386  Infection: W32/Win/Gollum_II.6592
@@ -47094,14 +47407,14 @@ u:\collection\wince\trojan\brador\a\WinCE.Brador.vxe  is a security risk named W
 
 Results of virus scanning:
 
-Files: 74840
+Files: 76679
 MBRs: 0
 Boot sectors: 0
-Objects scanned: 69811
-Infected: 46631
+Objects scanned: 70392
+Infected: 46944
 Suspicious: 440
 Disinfected: 0
 Deleted: 0
 Renamed: 0
 
-Time: 1:42
+Time: 2:13

