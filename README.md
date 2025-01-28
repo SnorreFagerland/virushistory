@@ -1,23 +1,6 @@
 
-    !                                                                        
-    !                                                                        
-    !  VVVVVVVV           VVVVVVVVHHHHHHHHH     HHHHHHHHHPPPPPPPPPPPPPPPPP   
-    !  V::::::V           V::::::VH:::::::H     H:::::::HP::::::::::::::::P  
-    !  V::::::V           V::::::VH:::::::H     H:::::::HP::::::PPPPPP:::::P 
-    !  V::::::V           V::::::VHH::::::H     H::::::HHPP:::::P     P:::::P
-    !   V:::::V           V:::::V   H:::::H     H:::::H    P::::P     P:::::P
-    !    V:::::V         V:::::V    H:::::H     H:::::H    P::::P     P:::::P
-    !     V:::::V       V:::::V     H::::::HHHHH::::::H    P::::PPPPPP:::::P 
-    !      V:::::V     V:::::V      H:::::::::::::::::H    P:::::::::::::PP  
-    !       V:::::V   V:::::V       H:::::::::::::::::H    P::::PPPPPPPPP    
-    !        V:::::V V:::::V        H::::::HHHHH::::::H    P::::P            
-    !         V:::::V:::::V         H:::::H     H:::::H    P::::P            
-    !          V:::::::::V          H:::::H     H:::::H    P::::P            
-    !           V:::::::V         HH::::::H     H::::::HHPP::::::PP          
-    !            V:::::V          H:::::::H     H:::::::HP::::::::P          
-    !             V:::V           H:::::::H     H:::::::HP::::::::P          
-    !              VVV            HHHHHHHHH     HHHHHHHHHPPPPPPPPPP          
-    !                                                                                                                          
+    ![image](https://github.com/user-attachments/assets/7dda7706-5018-4e0e-8d3b-71b34963855e)
+                                             
 
 
 
