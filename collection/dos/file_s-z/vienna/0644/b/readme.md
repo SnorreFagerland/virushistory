@@ -1,4 +1,4 @@
-<h3>Malware name	: Vienna.0644.B </h3><br>
+<h3>Malware name	: Vienna.644.B </h3><br>
 
 | **Attribute**          | **Details** |
 |------------------------|------------|
