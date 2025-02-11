@@ -1,4 +1,4 @@
-Virus scanning report  -  31 January 2025 @ 23:50
+Virus scanning report  -  11 February 2025 @ 21:16
 
 F-PROT ANTIVIRUS
 Program version: 3.16f
@@ -2043,7 +2043,10 @@ u:\collection\dos\file_a-d\awme\1201\virus.dos.awme.1206  Infection: Awme.1201 (
 u:\collection\dos\file_a-d\awme\1214\awme1213.com  Infection: Awme.1214 (exact)
 u:\collection\dos\file_a-d\awme\1255\virus.dos.awme.1255  Infection: Awme.1255
 u:\collection\dos\file_a-d\awme\1268\virus.dos.awme.1267  Infection: Awme.1268
-u:\collection\dos\file_a-d\awvck\178\Virus.DOS.Trivial.Winex.180.a  Infection: Awvck.178 (exact)
+u:\collection\dos\file_a-d\awvck\144\virus.dos.trivial.winex.144  Infection: Trivial.144.B (exact)
+u:\collection\dos\file_a-d\awvck\176\virus.dos.trivial.winex.176  Infection: Trivial.174.B
+u:\collection\dos\file_a-d\awvck\178\a\Virus.DOS.Trivial.Winex.180.a  Infection: Awvck.178 (exact)
+u:\collection\dos\file_a-d\awvck\178\b\virus.dos.trivial.winex.180.b  Infection: Trivial.178
 u:\collection\dos\file_a-d\awvck\184\virus.dos.trivial.winex.186  Infection: Awvck.184 (exact)
 u:\collection\dos\file_a-d\axe\884\virus.dos.axe.884  Infection: Axe.884
 u:\collection\dos\file_a-d\axe\918\virus.dos.axe.918  Infection: Axe.918
@@ -3248,6 +3251,7 @@ u:\collection\dos\file_a-d\cara\1025\b\cara-b.c4  Infection: CARA.1025.B (exact)
 u:\collection\dos\file_a-d\carbuncle\144\carbu621.vom  Infection: Carbuncle.144
 u:\collection\dos\file_a-d\carbuncle\622\a\CARBUNCL.vom  Infection: Carbuncle.622.A (exact)
 u:\collection\dos\file_a-d\carbuncle\622\b\carbuncl.vom  Infection: Carbuncle.622.B (exact)
+u:\collection\dos\file_a-d\carbuncle\623\virus.dos.carbuncle.623  Infection: Trivial.623 (generic)
 u:\collection\dos\file_a-d\carcass\1795\virus.dos.carcass.1795  Infection: Carcass.1795 (exact)
 u:\collection\dos\file_a-d\carcass\1796\virus.dos.carcass.1796  Infection: Carcass.1796 (exact)
 u:\collection\dos\file_a-d\career\446\a\446\a\CREER446.vom  Infection: Career.446.A (exact)
@@ -13818,7 +13822,6 @@ u:\collection\dos\file_e-j\helloween\2470\2470.vom  Infection: Helloween.2470 (e
 u:\collection\dos\file_e-j\helloween\2470\hell2470.vom  Infection: Helloween.2470 (exact)
 u:\collection\dos\file_e-j\helloween\2470\hellow~6.vxe  Infection: Helloween.2470 (exact)
 u:\collection\dos\file_e-j\helloy\293\virus.dos.helloy.293  Infection: Helloy.293 (exact)
-u:\collection\dos\file_e-j\hellpart\hellpart.vom  Infection: Rexan.903
 u:\collection\dos\file_e-j\hellraiser\hellra~1.vxe  Infection: Leprosy.1580 (exact)
 u:\collection\dos\file_e-j\hellraiser\v3010.vom  Infection: Leprosy.1580 (exact)
 u:\collection\dos\file_e-j\hellspawn\0681\companio.vom  Infection: Hellspawn.681
@@ -20785,8 +20788,10 @@ u:\collection\dos\file_k-r\milan\vivisex\vivisex1.vom  Infection: Milan.683 (exa
 u:\collection\dos\file_k-r\milan\wwt\063\63.vom  Infection: Milan.63 (exact)
 u:\collection\dos\file_k-r\milan\wwt\065\milan4.vom  Infection: Trivial.65.C (exact)
 u:\collection\dos\file_k-r\milan\wwt\067\a\v5265.vom  Infection: Milan.67.A (exact)
+u:\collection\dos\file_k-r\milan\wwt\067\b\milanw~5.vom  Infection: Milan.67.B (exact)
 u:\collection\dos\file_k-r\milan\wwt\067\b\wwt-01.vom  Infection: Milan.67.B (exact)
 u:\collection\dos\file_k-r\milan\wwt\067\c\v5270.vom  Infection: Milan.67.C (exact)
+u:\collection\dos\file_k-r\milan\wwt\067\e\virus.dos.trivial.67.e  Infection: Milan.67.E (exact)
 u:\collection\dos\file_k-r\milan\wwt\116\milan3.vom  Infection: Milan.116 (exact)
 u:\collection\dos\file_k-r\milan\wwt\125\a\milan1~2.vom  Infection: Milan.125.A (exact)
 u:\collection\dos\file_k-r\milan\wwt\125\a\v5255.vom  Infection: Milan.125.A (exact)
@@ -21390,6 +21395,8 @@ u:\collection\dos\file_k-r\mshark\378\a\msharka.vom  Infection: Mshark.378.A (ex
 u:\collection\dos\file_k-r\mshark\378\b\mshrk378.vom  Infection: Mshark.378.B (exact)
 u:\collection\dos\file_k-r\mshark\889\mshar889.vom  Infection: _889
 u:\collection\dos\file_k-r\msj\msj.vxe  Infection: HLLP.15392
+u:\collection\dos\file_k-r\msk\105\a\03222651.vom  Infection: MSK.105.A (exact)
+u:\collection\dos\file_k-r\msk\105\b\virus.dos.trivial.105.a  Infection: MSK.105.B (exact)
 u:\collection\dos\file_k-r\msk\272\a\v5015.vom  Infection: MSK.272.A (exact)
 u:\collection\dos\file_k-r\msk\272\b\msk-c.vxe  Infection: MSK.272.A (exact)
 u:\collection\dos\file_k-r\msk\272\c\msk272.vom  Infection: MSK.272.B (exact)
@@ -27343,6 +27350,7 @@ u:\collection\dos\file_k-r\rexan\786\t1.vom  Infection: Rexan.786 (exact)
 u:\collection\dos\file_k-r\rexan\786\t3.vom  Infection: Rexan.786 (exact)
 u:\collection\dos\file_k-r\rexan\786\t5.vom  Infection: Rexan.786 (exact)
 u:\collection\dos\file_k-r\rexan\786\wci02974.vom  Infection: Rexan.786 (exact)
+u:\collection\dos\file_k-r\rexan\903\hellpart.vom  Infection: Rexan.903
 u:\collection\dos\file_k-r\rexan\903\rexan903.vom  Infection: Rexan.903
 u:\collection\dos\file_k-r\rexan\903\t7.vom  Infection: Rexan.903
 u:\collection\dos\file_k-r\rexan\903\tf.vom  Infection: Rexan.903
@@ -28625,6 +28633,7 @@ u:\collection\dos\file_s-z\silicon\0960\t7.vxe  Infection: Silicon_Avenger.980
 u:\collection\dos\file_s-z\silicon\0960\tf.vxe  Infection: Silicon_Avenger.980
 u:\collection\dos\file_s-z\silicon\0999\silicon.vom  Infection: Silicon_Avenger.1019 - Dropper
 u:\collection\dos\file_s-z\silicon\1019\silaveng.vxe  Infection: Silicon_Avenger.1019
+u:\collection\dos\file_s-z\sillyc\00071\small71.vom  Infection: SillyC.71.A (exact)
 u:\collection\dos\file_s-z\sillyc\00084\mini-84.vom  Infection: SillyC.84.A
 u:\collection\dos\file_s-z\sillyc\00084\_84~1.vom  Infection: SillyC.84.A
 u:\collection\dos\file_s-z\sillyc\00087\nicki-l.vom  Infection: Dutch_Tiny.87 (exact)
@@ -28632,6 +28641,15 @@ u:\collection\dos\file_s-z\sillyc\00087\t1.vom  Infection: Dutch_Tiny.87 (exact)
 u:\collection\dos\file_s-z\sillyc\00087\t3.vom  Infection: Dutch_Tiny.87 (exact)
 u:\collection\dos\file_s-z\sillyc\00087\t5.vom  Infection: Dutch_Tiny.87 (exact)
 u:\collection\dos\file_s-z\sillyc\00087\t7.vom  Infection: Dutch_Tiny.87 (exact)
+u:\collection\dos\file_s-z\sillyc\00088\a\min-88.vom  Infection: SillyC.88.A (exact)
+u:\collection\dos\file_s-z\sillyc\00088\a\t7.vom  Infection: SillyC.88.A (exact)
+u:\collection\dos\file_s-z\sillyc\00088\a\tf.vom  Infection: SillyC.88.A (exact)
+u:\collection\dos\file_s-z\sillyc\00088\a\virus.dos.mini.88.a  Infection: SillyC.88.A (exact)
+u:\collection\dos\file_s-z\sillyc\00088\b\virus.dos.mini.88.e  Infection: SillyC.88.B (exact)
+u:\collection\dos\file_s-z\sillyc\00088\c\virus.dos.small.88  Infection: SillyC.88.C (exact)
+u:\collection\dos\file_s-z\sillyc\00088\d\DUMP32.vom  Infection: SillyC.88
+u:\collection\dos\file_s-z\sillyc\00088\d\LWM.vom  Infection: SillyC.88
+u:\collection\dos\file_s-z\sillyc\00088\d\virus.dos.mini.88.d  Infection: SillyC.88
 u:\collection\dos\file_s-z\sillyc\00090\wci0227s.vom  Infection: SillyC.90.B (exact)
 u:\collection\dos\file_s-z\sillyc\00091\mini91.vom  Infection: SillyC.91.A (exact)
 u:\collection\dos\file_s-z\sillyc\00094\t1.vom  Infection: SillyC.97.A (exact)
@@ -28673,15 +28691,22 @@ u:\collection\dos\file_s-z\sillyc\00125\c\c-min125.vom  Infection: SillyC.125.B 
 u:\collection\dos\file_s-z\sillyc\00125\c\mini125.vom  Infection: SillyC.125.B (exact)
 u:\collection\dos\file_s-z\sillyc\00125\c\t1.vom  Infection: SillyC.125.B (exact)
 u:\collection\dos\file_s-z\sillyc\00125\c\t2.vom  Infection: SillyC.125.B (exact)
-u:\collection\dos\file_s-z\sillyc\00126\silic126.vom  Infection: SillyC.126.A (exact)
+u:\collection\dos\file_s-z\sillyc\00126\a\silic126.vom  Infection: SillyC.126.A (exact)
+u:\collection\dos\file_s-z\sillyc\00126\a\triv-126.vom  Infection: SillyC.126.A (exact)
+u:\collection\dos\file_s-z\sillyc\00126\b\virus.dos.sillyc.126.a  Infection: SillyC.126.B (exact)
+u:\collection\dos\file_s-z\sillyc\00126\c\virus.dos.sillyc.126.b  Infection: SillyC.126.C (exact)
 u:\collection\dos\file_s-z\sillyc\00127\min-127c.vom  Infection: SillyC.127 (exact)
 u:\collection\dos\file_s-z\sillyc\00127\t7.vom  Infection: SillyC.127 (exact)
 u:\collection\dos\file_s-z\sillyc\00127\tf.vom  Infection: SillyC.127 (exact)
 u:\collection\dos\file_s-z\sillyc\00128\a\wci0184s.vom  Infection: SillyC.128.A (exact)
-u:\collection\dos\file_s-z\sillyc\00128\b\mini-128.vom  Infection: SillyC.128.C (exact)
-u:\collection\dos\file_s-z\sillyc\00128\b\t7.vom  Infection: SillyC.128.C (exact)
-u:\collection\dos\file_s-z\sillyc\00128\b\tf.vom  Infection: SillyC.128.C (exact)
+u:\collection\dos\file_s-z\sillyc\00128\b\virus.dos.xany.128  Infection: SillyC.128.B (exact)
+u:\collection\dos\file_s-z\sillyc\00128\c\mini-128.vom  Infection: SillyC.128.C (exact)
+u:\collection\dos\file_s-z\sillyc\00128\c\t7.vom  Infection: SillyC.128.C (exact)
+u:\collection\dos\file_s-z\sillyc\00128\c\tf.vom  Infection: SillyC.128.C (exact)
+u:\collection\dos\file_s-z\sillyc\00128\e\virus.dos.sillyc.128.b  Infection: SillyC.128.E (exact)
+u:\collection\dos\file_s-z\sillyc\00128\f\virus.dos.small.128.d  Infection: SillyC.128.F (exact)
 u:\collection\dos\file_s-z\sillyc\00129\a\ANTO.vom  Infection: SillyC.129.A (exact)
+u:\collection\dos\file_s-z\sillyc\00132\virus.dos.sillyc.132  Infection: Trivial.142.C (exact)
 u:\collection\dos\file_s-z\sillyc\00139\b\min-139b.vom  Infection: SillyC.139.B
 u:\collection\dos\file_s-z\sillyc\00139\b\t7.vom  Infection: SillyC.139.B
 u:\collection\dos\file_s-z\sillyc\00139\b\tf.vom  Infection: SillyC.139.B
@@ -28771,6 +28796,8 @@ u:\collection\dos\file_s-z\sillyc\00205\c\t2.vom  Infection: SillyC.205.B (exact
 u:\collection\dos\file_s-z\sillyc\00205\c\zany205.vom  Infection: SillyC.205.B (exact)
 u:\collection\dos\file_s-z\sillyc\00207\a\silly207.vom  Infection: SillyC.207.A (exact)
 u:\collection\dos\file_s-z\sillyc\00207\b\sil207b0.vom  Infection: SillyC.207.B (exact)
+u:\collection\dos\file_s-z\sillyc\00207\c\virus.dos.trivial.207.b  Infection: SillyC.207.C
+u:\collection\dos\file_s-z\sillyc\00207\c\virus.dos.trivial.207.c  Infection: SillyC.207.C
 u:\collection\dos\file_s-z\sillyc\00208\wci0208s.vom  Infection: SillyC.208.A (exact)
 u:\collection\dos\file_s-z\sillyc\00210\myvir.vom  could be infected with an unknown virus
 u:\collection\dos\file_s-z\sillyc\00211\cavt.vom  Infection: New or modified variant of SillyC
@@ -32303,6 +32330,13 @@ u:\collection\dos\file_s-z\trieda\851\t3.vxe  Infection: Trieda.851.A (exact)
 u:\collection\dos\file_s-z\trieda\851\t4.vxe  Infection: Trieda.851.A (exact)
 u:\collection\dos\file_s-z\trieda\851\t5.vxe  Infection: Trieda.851.A (exact)
 u:\collection\dos\file_s-z\trieda\851\t6.vxe  Infection: Trieda.851.A (exact)
+u:\collection\dos\file_s-z\trigger\746\a\virus.dos.trigger.746  Infection: Trigger.746.A (exact)
+u:\collection\dos\file_s-z\trigger\748\virus.dos.hgsp.748  Infection: Trigger.748
+u:\collection\dos\file_s-z\trigger\775\virus.dos.hgsp.775  Infection: Trigger.775
+u:\collection\dos\file_s-z\trigger\776\virus.dos.trigger.776  Infection: Trigger.776 (exact)
+u:\collection\dos\file_s-z\trinity\499\virus.dos.trinity.499  Infection: Trinity.499
+u:\collection\dos\file_s-z\trinity\500\virus.dos.trinity.500  Infection: Trinity.500 (exact)
+u:\collection\dos\file_s-z\trio\197\virus.dos.small.197  Infection: Trio.197 (exact)
 u:\collection\dos\file_s-z\triple5\556\t1.vom  Infection: Triple_Five.556 (exact)
 u:\collection\dos\file_s-z\triple5\556\t2.vom  Infection: Triple_Five.556 (exact)
 u:\collection\dos\file_s-z\triple5\556\t3.vom  Infection: Triple_Five.556 (exact)
@@ -32312,6 +32346,10 @@ u:\collection\dos\file_s-z\triple5\556\t6.vom  Infection: Triple_Five.556 (exact
 u:\collection\dos\file_s-z\triple5\556\t7.vom  Infection: Triple_Five.556 (exact)
 u:\collection\dos\file_s-z\triple5\556\t8.vom  Infection: Triple_Five.556 (exact)
 u:\collection\dos\file_s-z\triple5\556\trapnv.vom  Infection: Triple_Five.556 (exact)
+u:\collection\dos\file_s-z\triplek\471\virus.dos.i13.triple.471  Infection: Triplek.471 (exact)
+u:\collection\dos\file_s-z\tripper\1952\virus.dos.tripper.1952  Infection: Tripper.1952 (exact)
+u:\collection\dos\file_s-z\trireme\664\virus.dos.v.664  Infection: Trireme.664
+u:\collection\dos\file_s-z\trireme\703\virus.dos.v.703  Infection: Trireme.703 (exact)
 u:\collection\dos\file_s-z\trivia\a\smegv03a.vom  Infection: Smgtest.319.B (exact)
 u:\collection\dos\file_s-z\trivia\a\t1.vom  Infection: Smgtest.319.B (exact)
 u:\collection\dos\file_s-z\trivia\a\t3.vom  Infection: Smgtest.319.B (exact)
@@ -32337,26 +32375,29 @@ u:\collection\dos\file_s-z\trivial\024\b\wci0270t.vom  contains Trivial.24 (non-
 u:\collection\dos\file_s-z\trivial\025\a\trv-025a.vom  Infection: Trivial.25.A (exact)
 u:\collection\dos\file_s-z\trivial\025\b\ow8.vom  Infection: Trivial.25.B (exact)
 u:\collection\dos\file_s-z\trivial\025\c\25.vom  Infection: Trivial.25.C (exact)
-u:\collection\dos\file_s-z\trivial\025\d\wci0277t.vom  Infection: Trivial.26.A (exact)
+u:\collection\dos\file_s-z\trivial\025\d\virus.dos.trivial.25.g  Infection: Trivial.25.D (exact)
 u:\collection\dos\file_s-z\trivial\025\e\piojo25.vom  Infection: Trivial.25.E (exact)
-u:\collection\dos\file_s-z\trivial\025\g\small25.vom  Infection: Trivial.158.B (exact)
-u:\collection\dos\file_s-z\trivial\025\g\small25.vxe  Infection: Trivial.158.A (exact)
-u:\collection\dos\file_s-z\trivial\025\g\t7.vom  Infection: Trivial.158.A (exact)
-u:\collection\dos\file_s-z\trivial\025\g\t7.vxe  Infection: Trivial.158.A (exact)
-u:\collection\dos\file_s-z\trivial\025\g\tf.vom  Infection: Trivial.158.A (exact)
-u:\collection\dos\file_s-z\trivial\025\g\tf.vxe  Infection: Trivial.158.A (exact)
-u:\collection\dos\file_s-z\trivial\026\a\trv-026a.vom  Infection: Trivial.27.H (exact)
-u:\collection\dos\file_s-z\trivial\026\b\triv26b.vom  Infection: Trivial.26.E (exact)
+u:\collection\dos\file_s-z\trivial\025\f\virus.dos.trivial.25.h  Infection: Trivial.25.F (exact)
+u:\collection\dos\file_s-z\trivial\025\g\virus.dos.trivial.cmd.25.a  Infection: Trivial.25.G (exact)
+u:\collection\dos\file_s-z\trivial\025\h\virus.dos.trivial.cmd.25.b  Infection: Trivial.25.H (exact)
+u:\collection\dos\file_s-z\trivial\025\j\virus.dos.trivial.25.j  Infection: Trivial.25.J (exact)
+u:\collection\dos\file_s-z\trivial\026\a\wci0277t.vom  Infection: Trivial.26.A (exact)
 u:\collection\dos\file_s-z\trivial\026\b\v26.vom  Infection: Trivial.26.B (exact)
 u:\collection\dos\file_s-z\trivial\026\c\triv26.vom  Infection: Trivial.26.C (exact)
 u:\collection\dos\file_s-z\trivial\026\d\tri26d0.vom  Infection: Trivial.26.D (exact)
-u:\collection\dos\file_s-z\trivial\026\e\wci0632t.vom  Infection: Trivial.26.F (exact)
-u:\collection\dos\file_s-z\trivial\027\27unk.vom  contains Trivial.27 (non-working)
+u:\collection\dos\file_s-z\trivial\026\e\triv26b.vom  Infection: Trivial.26.E (exact)
+u:\collection\dos\file_s-z\trivial\026\f\wci0632t.vom  Infection: Trivial.26.F (exact)
+u:\collection\dos\file_s-z\trivial\026\g\virus.dos.trivial.26.g  Infection: Trivial.26.G (exact)
+u:\collection\dos\file_s-z\trivial\026\h\virus.dos.trivial.30.h2  Infection: Trivial.26.H (exact)
+u:\collection\dos\file_s-z\trivial\026\i\virus.dos.trivial.26.f  Infection: Trivial.26.I (exact)
 u:\collection\dos\file_s-z\trivial\027\a\ow7.vom  Infection: Trivial.27.A (exact)
 u:\collection\dos\file_s-z\trivial\027\b\trv-27b.vom  Infection: Trivial.27.B (exact)
 u:\collection\dos\file_s-z\trivial\027\c\v27.vom  Infection: Trivial.27.C (exact)
+u:\collection\dos\file_s-z\trivial\027\d\virus.dos.trivial.27.p  Infection: Trivial.27.D (exact)
 u:\collection\dos\file_s-z\trivial\027\e\trv-027e.vom  Infection: Trivial.27.E (exact)
 u:\collection\dos\file_s-z\trivial\027\f\piojo27.vom  Infection: Trivial.27.F (exact)
+u:\collection\dos\file_s-z\trivial\027\h\trv-026a.vom  Infection: Trivial.27.H (exact)
+u:\collection\dos\file_s-z\trivial\027\i\virus.dos.trivial.27.g  Infection: Trivial.27.I (exact)
 u:\collection\dos\file_s-z\trivial\027\j\small27.vom  Infection: Trivial.27.J (exact)
 u:\collection\dos\file_s-z\trivial\027\j\small27.vxe  Infection: Trivial.27.J (exact)
 u:\collection\dos\file_s-z\trivial\027\j\t7.vom  Infection: Trivial.27.J (exact)
@@ -32364,10 +32405,14 @@ u:\collection\dos\file_s-z\trivial\027\j\t7.vxe  Infection: Trivial.27.J (exact)
 u:\collection\dos\file_s-z\trivial\027\j\tf.vom  Infection: Trivial.27.J (exact)
 u:\collection\dos\file_s-z\trivial\027\j\tf.vxe  Infection: Trivial.27.J (exact)
 u:\collection\dos\file_s-z\trivial\027\k\unke2183.vom  Infection: Trivial.27.K (exact)
+u:\collection\dos\file_s-z\trivial\027\l\virus.dos.trivial.28.e  Infection: Trivial.27.L (exact)
+u:\collection\dos\file_s-z\trivial\027\m\virus.dos.trivial.cmd.27  Infection: Trivial.27.M (exact)
+u:\collection\dos\file_s-z\trivial\027\n\virus.dos.trivial.27.k  Infection: Trivial.27.N (exact)
 u:\collection\dos\file_s-z\trivial\028\a\ow5.vom  Infection: Trivial.28.A (exact)
 u:\collection\dos\file_s-z\trivial\028\b\ow6.vom  Infection: Trivial.28.B (exact)
 u:\collection\dos\file_s-z\trivial\028\c\v28.vom  Infection: Trivial.28.C (exact)
 u:\collection\dos\file_s-z\trivial\028\d\Virus.DOS.Trivial.28.d  Infection: Trivial.28.D (exact)
+u:\collection\dos\file_s-z\trivial\028\e\virus.dos.trivial.28.f  Infection: Trivial.28.E (exact)
 u:\collection\dos\file_s-z\trivial\028\g\wci0288t.vom  Infection: Trivial.28.G (exact)
 u:\collection\dos\file_s-z\trivial\029\a\triv29.vom  Infection: Trivial.29.A (exact)
 u:\collection\dos\file_s-z\trivial\029\b\triv288.vom  Infection: Trivial.29.B (exact)
@@ -32375,10 +32420,11 @@ u:\collection\dos\file_s-z\trivial\029\c\trv-029c.vom  Infection: Trivial.29.C (
 u:\collection\dos\file_s-z\trivial\029\d\micro29.vom  Infection: Trivial.29.D (exact)
 u:\collection\dos\file_s-z\trivial\029\e\triv29b.vom  Infection: Trivial.29.E (exact)
 u:\collection\dos\file_s-z\trivial\029\f\piojo29.vom  Infection: Trivial.29.F (exact)
-u:\collection\dos\file_s-z\trivial\029\g\trivunkr.vom  Infection: Trivial.29.I (exact)
-u:\collection\dos\file_s-z\trivial\029\i\nkmn25.vom  Infection: Trivial.28.F (exact)
-u:\collection\dos\file_s-z\trivial\029\j\trivunkp.vom  Infection: New or modified variant of Trivial
-u:\collection\dos\file_s-z\trivial\029\k\triv~128.vom  contains Trivial.29.L (non-working)
+u:\collection\dos\file_s-z\trivial\029\h\virus.dos.trivial.29.h  Infection: Trivial.29.H (exact)
+u:\collection\dos\file_s-z\trivial\029\i\trivunkr.vom  Infection: Trivial.29.I (exact)
+u:\collection\dos\file_s-z\trivial\029\j\virus.dos.trivial.29.f  Infection: Trivial.29.J (exact)
+u:\collection\dos\file_s-z\trivial\029\l\triv~128.vom  contains Trivial.29.L (non-working)
+u:\collection\dos\file_s-z\trivial\029\m\trivunkp.vom  Infection: New or modified variant of Trivial
 u:\collection\dos\file_s-z\trivial\030\a\trv-30a.vom  Infection: Trivial.30.A (exact)
 u:\collection\dos\file_s-z\trivial\030\b\trv-30b.vom  Infection: Trivial.30.B (exact)
 u:\collection\dos\file_s-z\trivial\030\c\ow30.vom  Infection: Trivial.30.C (exact)
@@ -32396,17 +32442,22 @@ u:\collection\dos\file_s-z\trivial\031\b\miniscul.vom  Infection: Trivial.31.B (
 u:\collection\dos\file_s-z\trivial\031\c\ow9.vom  Infection: Trivial.31.C (exact)
 u:\collection\dos\file_s-z\trivial\031\d\wci0315t.vom  Infection: Trivial.31.D (exact)
 u:\collection\dos\file_s-z\trivial\031\e\unke0054.vom  Infection: Trivial.31.E (exact)
-u:\collection\dos\file_s-z\trivial\031\f\tri31a.vom  Infection: Trivial.31.G (exact)
-u:\collection\dos\file_s-z\trivial\031\g\trivunks.vom  Infection: Trivial.31.I (exact)
+u:\collection\dos\file_s-z\trivial\031\f\thesmall.vom  Infection: Trivial.31.F (exact)
+u:\collection\dos\file_s-z\trivial\031\g\tri31a.vom  Infection: Trivial.31.G (exact)
 u:\collection\dos\file_s-z\trivial\031\h\wci0311t.vom  Infection: Trivial.31.H (exact)
-u:\collection\dos\file_s-z\trivial\031\i\thesmall.vom  Infection: Trivial.31.F (exact)
+u:\collection\dos\file_s-z\trivial\031\i\trivunks.vom  Infection: Trivial.31.I (exact)
 u:\collection\dos\file_s-z\trivial\032\a\triv32.vom  Infection: Trivial.32.A (exact)
 u:\collection\dos\file_s-z\trivial\032\b\wci0319t.vom  Infection: Trivial.32.B (exact)
 u:\collection\dos\file_s-z\trivial\032\c\runt-b.vom  Infection: Trivial.32.C (exact)
 u:\collection\dos\file_s-z\trivial\032\d\unke1829.vom  Infection: Trivial.32.D (exact)
 u:\collection\dos\file_s-z\trivial\032\e\unke0056.vom  Infection: Trivial.32.E (exact)
+u:\collection\dos\file_s-z\trivial\032\f\virus.dos.trivial.32.f  Infection: Trivial.32.F (exact)
 u:\collection\dos\file_s-z\trivial\032\g\unke0055.vom  Infection: Trivial.32.G (exact)
-u:\collection\dos\file_s-z\trivial\032\i\Virus.DOS.Trivial.32.i  Infection: Trivial.32.K (exact) - Dropper
+u:\collection\dos\file_s-z\trivial\032\h\virus.dos.trivial.32.j  Infection: Trivial.32.H (exact)
+u:\collection\dos\file_s-z\trivial\032\j\virus.dos.trivial.32.g  Infection: Trivial.32.J (exact)
+u:\collection\dos\file_s-z\trivial\032\k\Virus.DOS.Trivial.32.i  Infection: Trivial.32.K (exact) - Dropper
+u:\collection\dos\file_s-z\trivial\032\m\virus.dos.trivial.32.k  Infection: Trivial.32.M (exact)
+u:\collection\dos\file_s-z\trivial\032\n\virus.dos.trivial.32.l  Infection: Trivial.32.N (exact)
 u:\collection\dos\file_s-z\trivial\033\a\runt-a.vom  Infection: Trivial.33.A (exact)
 u:\collection\dos\file_s-z\trivial\033\b\trv-033b.vom  Infection: Trivial.33.B (exact)
 u:\collection\dos\file_s-z\trivial\033\c\trivunkt.vom  Infection: Trivial.33.C (exact)
@@ -32419,34 +32470,43 @@ u:\collection\dos\file_s-z\trivial\035\b\trivunkh.vom  Infection: Trivial.35.B (
 u:\collection\dos\file_s-z\trivial\035\c\trivunkq.vom  Infection: Trivial.35.C (exact)
 u:\collection\dos\file_s-z\trivial\035\d\tri35c.vom  Infection: Trivial.35.D (exact)
 u:\collection\dos\file_s-z\trivial\035\e\trivunko.vom  Infection: Trivial.35.E (exact)
-u:\collection\dos\file_s-z\trivial\035\f\wci0334t.vom  Infection: Trivial.35.unknown?
-u:\collection\dos\file_s-z\trivial\035\g\wci0637t.vom  Infection: Trivial.37.I (exact)
+u:\collection\dos\file_s-z\trivial\035\f\virus.dos.trivial.35.f  Infection: Trivial.35.F (exact)
+u:\collection\dos\file_s-z\trivial\035\i\wci0637t.vom  Infection: Trivial.37.I (exact)
+u:\collection\dos\file_s-z\trivial\035\j\wci0334t.vom  Infection: Trivial.35.unknown?
 u:\collection\dos\file_s-z\trivial\036\a\wci0340t.vom  Infection: Trivial.36.A (exact)
 u:\collection\dos\file_s-z\trivial\036\b\trv-036b.vom  Infection: Trivial.36.B (exact)
 u:\collection\dos\file_s-z\trivial\036\c\trv-036c.vom  Infection: Trivial.36.C (exact)
 u:\collection\dos\file_s-z\trivial\036\d\trv-036d.vom  Infection: Trivial.36.D (exact)
 u:\collection\dos\file_s-z\trivial\036\e\trivunki.vom  Infection: Trivial.36.E (exact)
 u:\collection\dos\file_s-z\trivial\036\f\trivunku.vom  Infection: Trivial.36.F (exact)
-u:\collection\dos\file_s-z\trivial\036\g\wci0339t.vom  Infection: Trivial.36.I (exact)
+u:\collection\dos\file_s-z\trivial\036\g\virus.dos.trivial.36.g  Infection: Trivial.36.G (exact)
+u:\collection\dos\file_s-z\trivial\036\i\wci0339t.vom  Infection: Trivial.36.I (exact)
 u:\collection\dos\file_s-z\trivial\037\a\tri37a0.vom  Infection: Trivial.37.A (exact)
 u:\collection\dos\file_s-z\trivial\037\b\ow3.vom  Infection: Trivial.37.B (exact)
 u:\collection\dos\file_s-z\trivial\037\c\tri37c0.vom  Infection: Trivial.37.C (exact)
 u:\collection\dos\file_s-z\trivial\037\d\trivunkj.vom  Infection: Trivial.37.D (exact)
 u:\collection\dos\file_s-z\trivial\037\e\wci0351t.vom  Infection: Trivial.37.E (exact)
 u:\collection\dos\file_s-z\trivial\037\f\wci0352t.vom  Infection: Trivial.37.F (exact)
-u:\collection\dos\file_s-z\trivial\037\g\wci0346t.vom  Infection: Trivial.37.H (exact)
+u:\collection\dos\file_s-z\trivial\037\g\virus.dos.trivial.37.f  Infection: Trivial.37.G (exact)
+u:\collection\dos\file_s-z\trivial\037\h\wci0346t.vom  Infection: Trivial.37.H (exact)
 u:\collection\dos\file_s-z\trivial\038\a\min38.vom  Infection: Trivial.38.A (exact)
 u:\collection\dos\file_s-z\trivial\038\b\picovir.vom  Infection: Trivial.38.B (exact)
 u:\collection\dos\file_s-z\trivial\038\c\trivunkk.vom  Infection: Trivial.38.C (exact)
 u:\collection\dos\file_s-z\trivial\038\d\triv38d.vom  Infection: Trivial.38.D (exact)
 u:\collection\dos\file_s-z\trivial\038\d\triv38d.vxe  Infection: Trivial.38.D (exact)
+u:\collection\dos\file_s-z\trivial\038\e\virus.dos.trivial.38.e  Infection: Trivial.38.E (exact)
+u:\collection\dos\file_s-z\trivial\038\f\virus.dos.trivial.38.f  Infection: Trivial.38.F (exact)
+u:\collection\dos\file_s-z\trivial\038\g\virus.dos.trivial.38.g  Infection: Trivial.38.G (exact)
 u:\collection\dos\file_s-z\trivial\039\a\min39.vom  Infection: Trivial.39.A (exact)
 u:\collection\dos\file_s-z\trivial\039\b\smurf.vom  Infection: Trivial.39.B (exact)
+u:\collection\dos\file_s-z\trivial\039\d\virus.dos.trivial.39.f  Infection: Trivial.39.D (exact)
+u:\collection\dos\file_s-z\trivial\039\e\virus.dos.trivial.39.h  Infection: Trivial.39.E (exact)
 u:\collection\dos\file_s-z\trivial\039\f\t1.vom  Infection: Trivial.39.F (exact)
 u:\collection\dos\file_s-z\trivial\039\f\t3.vom  Infection: Trivial.39.F (exact)
 u:\collection\dos\file_s-z\trivial\039\f\t5.vom  Infection: Trivial.39.F (exact)
 u:\collection\dos\file_s-z\trivial\039\f\t7.vom  Infection: Trivial.39.F (exact)
 u:\collection\dos\file_s-z\trivial\039\f\wci03972.vom  Infection: Trivial.39.F (exact)
+u:\collection\dos\file_s-z\trivial\039\g\virus.dos.trivial.39.i  Infection: Trivial.39.G (exact)
 u:\collection\dos\file_s-z\trivial\039\h\Virus.DOS.Trivial.39.j  Infection: Trivial.39.H (exact)
 u:\collection\dos\file_s-z\trivial\039\i\trv-039c.vom  Infection: Trivial.39.I (exact)
 u:\collection\dos\file_s-z\trivial\040\a\triv40.vom  Infection: Trivial.40.A (exact)
@@ -32464,7 +32524,8 @@ u:\collection\dos\file_s-z\trivial\040\j\triv40i.co1  Infection: Trivial.40.J (e
 u:\collection\dos\file_s-z\trivial\040\k\b7-40.vom  Infection: Trivial.40.K (exact)
 u:\collection\dos\file_s-z\trivial\040\k\t1.vom  Infection: Trivial.40.K (exact)
 u:\collection\dos\file_s-z\trivial\040\k\t2.vom  Infection: Trivial.40.K (exact)
-u:\collection\dos\file_s-z\trivial\041\41.vom  Infection: Trivial.41.A (exact)
+u:\collection\dos\file_s-z\trivial\041\a\41.vom  Infection: Trivial.41.A (exact)
+u:\collection\dos\file_s-z\trivial\041\b\virus.dos.trivial.41.b  Infection: Trivial.41.B
 u:\collection\dos\file_s-z\trivial\042\a\trv-42a.vom  Infection: Trivial.42.A (exact)
 u:\collection\dos\file_s-z\trivial\042\b\ow1.vom  Infection: Trivial.42.B (exact)
 u:\collection\dos\file_s-z\trivial\042\c\trv-042h.vom  Infection: Trivial.42.C (exact)
@@ -32477,14 +32538,18 @@ u:\collection\dos\file_s-z\trivial\042\h\test2.vom  Infection: Trivial.42.H (exa
 u:\collection\dos\file_s-z\trivial\042\i\define.vom  Infection: Trivial.42.I (exact)
 u:\collection\dos\file_s-z\trivial\042\j\tri42j0.vom  Infection: Trivial.42.J (exact)
 u:\collection\dos\file_s-z\trivial\042\k\tri42k0.vom  Infection: Trivial.42.K (exact)
+u:\collection\dos\file_s-z\trivial\042\l\virus.dos.trivial.42.k  Infection: Trivial.42.L (exact)
 u:\collection\dos\file_s-z\trivial\042\m\tri42a.vom  Infection: Trivial.42.M (exact)
-u:\collection\dos\file_s-z\trivial\042\n\t7.vom  Infection: Trivial.42.O (exact)
-u:\collection\dos\file_s-z\trivial\042\n\tf.vom  Infection: Trivial.42.O (exact)
-u:\collection\dos\file_s-z\trivial\042\n\tiny-42.vom  Infection: Trivial.42.O (exact)
+u:\collection\dos\file_s-z\trivial\042\n\virus.dos.trivial.42.n  Infection: Trivial.42.N (exact)
+u:\collection\dos\file_s-z\trivial\042\o\t7.vom  Infection: Trivial.42.O (exact)
+u:\collection\dos\file_s-z\trivial\042\o\tf.vom  Infection: Trivial.42.O (exact)
+u:\collection\dos\file_s-z\trivial\042\o\tiny-42.vom  Infection: Trivial.42.O (exact)
+u:\collection\dos\file_s-z\trivial\042\q\h.com  Infection: Trivial.42.Q (exact)
 u:\collection\dos\file_s-z\trivial\043\a\v43.vom  Infection: Trivial.43.A (exact)
 u:\collection\dos\file_s-z\trivial\043\b\wci0382t.vom  Infection: Trivial.43.B (exact)
 u:\collection\dos\file_s-z\trivial\043\c\wci0383t.vom  Infection: Trivial.43.C (exact)
 u:\collection\dos\file_s-z\trivial\043\d\trv-043d.vom  Infection: Trivial.43.D (exact)
+u:\collection\dos\file_s-z\trivial\043\f\virus.dos.trivial.43.e  Infection: Trivial.43.F (exact)
 u:\collection\dos\file_s-z\trivial\044\a\trv-44a.vom  Infection: Trivial.44.A (exact)
 u:\collection\dos\file_s-z\trivial\044\b\44.vom  Infection: Trivial.44.B (exact)
 u:\collection\dos\file_s-z\trivial\044\c\trv-044c.vom  Infection: Trivial.44.C (exact)
@@ -32499,10 +32564,13 @@ u:\collection\dos\file_s-z\trivial\044\h\t1.vom  Infection: Trivial.44.H (exact)
 u:\collection\dos\file_s-z\trivial\044\h\t3.vom  Infection: Trivial.44.H (exact)
 u:\collection\dos\file_s-z\trivial\044\h\t5.vom  Infection: Trivial.44.H (exact)
 u:\collection\dos\file_s-z\trivial\044\h\t7.vom  Infection: Trivial.44.H (exact)
-u:\collection\dos\file_s-z\trivial\044\i\t1.vom  Infection: Trivial.44.unknown?
-u:\collection\dos\file_s-z\trivial\044\i\t2.vom  Infection: Trivial.44.unknown?
+u:\collection\dos\file_s-z\trivial\044\i\mini-44b.vom  Infection: Trivial.44.I (exact)
+u:\collection\dos\file_s-z\trivial\044\j\mini-44e.vom  Infection: Trivial.44.J (exact)
 u:\collection\dos\file_s-z\trivial\044\k\Virus.DOS.Trivial.44.f  Infection: Trivial.44.K (exact)
 u:\collection\dos\file_s-z\trivial\044\l\Virus.DOS.Trivial.44.k  Infection: Trivial.44.L (exact)
+u:\collection\dos\file_s-z\trivial\044\m\virus.dos.trivial.44.l  Infection: Trivial.44.M (exact)
+u:\collection\dos\file_s-z\trivial\044\o\t1.vom  Infection: Trivial.44.unknown?
+u:\collection\dos\file_s-z\trivial\044\o\t2.vom  Infection: Trivial.44.unknown?
 u:\collection\dos\file_s-z\trivial\045\a\trv-45a.vom  Infection: Trivial.45.A (exact)
 u:\collection\dos\file_s-z\trivial\045\b\trv-45b.vom  Infection: Trivial.45.B (exact)
 u:\collection\dos\file_s-z\trivial\045\c\trv-045c.vom  Infection: Trivial.45.C (exact)
@@ -32514,16 +32582,20 @@ u:\collection\dos\file_s-z\trivial\045\g\tri45g0.vom  Infection: Trivial.45.G (e
 u:\collection\dos\file_s-z\trivial\045\h\tri45h0.vom  Infection: Trivial.45.H (exact)
 u:\collection\dos\file_s-z\trivial\045\i\tri45i0.vom  Infection: Trivial.45.I (exact)
 u:\collection\dos\file_s-z\trivial\045\j\wci0404t.vom  Infection: Trivial.45.J (exact)
+u:\collection\dos\file_s-z\trivial\045\k\virus.dos.trivial.45.o  Infection: Trivial.45.K (exact)
 u:\collection\dos\file_s-z\trivial\045\l\tri45c.vom  Infection: Trivial.45.L (exact)
-u:\collection\dos\file_s-z\trivial\045\m\trivial.vom  Infection: Trivial.45.U (exact)
-u:\collection\dos\file_s-z\trivial\045\n\unke1833.vom  Infection: Trivial.45.R (exact)
-u:\collection\dos\file_s-z\trivial\045\o\weflow.vom  is a corrupted or intended virus
-u:\collection\dos\file_s-z\trivial\045\p\triv~139.vom  Infection: Trivial.45.O (exact)
+u:\collection\dos\file_s-z\trivial\045\m\virus.dos.trivial.45.q  Infection: Trivial.45.M (exact)
+u:\collection\dos\file_s-z\trivial\045\n\virus.dos.trivial.45.r  Infection: Trivial.45.N (exact)
+u:\collection\dos\file_s-z\trivial\045\o\triv~139.vom  Infection: Trivial.45.O (exact)
+u:\collection\dos\file_s-z\trivial\045\p\virus.dos.trivial.45.h  Infection: Trivial.45.P (exact)
 u:\collection\dos\file_s-z\trivial\045\q\unke1832.vom  Infection: Trivial.45.Q (exact)
+u:\collection\dos\file_s-z\trivial\045\r\unke1833.vom  Infection: Trivial.45.R (exact)
+u:\collection\dos\file_s-z\trivial\045\u\trivial.vom  Infection: Trivial.45.U (exact)
 u:\collection\dos\file_s-z\trivial\046\a\46virus.vom  Infection: Trivial.46.A (exact)
 u:\collection\dos\file_s-z\trivial\046\b\trv-046b.vom  Infection: Trivial.46.B (exact)
 u:\collection\dos\file_s-z\trivial\046\c\wci0406t.vom  Infection: Trivial.46.C (exact)
 u:\collection\dos\file_s-z\trivial\046\d\Virus.DOS.Trivial.46.b  Infection: Trivial.46.D (exact)
+u:\collection\dos\file_s-z\trivial\046\j\virus.dos.trivial.46.e  Infection: Trivial.46.J (exact)
 u:\collection\dos\file_s-z\trivial\047\a\tri47a.vom  Infection: Trivial.47.A (exact)
 u:\collection\dos\file_s-z\trivial\047\b\debug.vxe  Infection: Trivial.47.D (exact)
 u:\collection\dos\file_s-z\trivial\047\b\t1.vxe  Infection: Trivial.47.D (exact)
@@ -32531,36 +32603,103 @@ u:\collection\dos\file_s-z\trivial\047\b\t3.vxe  Infection: Trivial.47.D (exact)
 u:\collection\dos\file_s-z\trivial\047\b\t5.vxe  Infection: Trivial.47.D (exact)
 u:\collection\dos\file_s-z\trivial\047\b\trace.vxe  Infection: Trivial.47.D (exact)
 u:\collection\dos\file_s-z\trivial\047\b\wci03982.vom  Infection: Trivial.47.D (exact)
-u:\collection\dos\file_s-z\trivial\048\d\t1.vxe  Infection: Trivial.48.A
-u:\collection\dos\file_s-z\trivial\048\d\t2.vxe  Infection: Trivial.48.A
-u:\collection\dos\file_s-z\trivial\048\d\trivd48.vxe  Infection: Trivial.48.A
-u:\collection\dos\file_s-z\trivial\048\e\t1.vom  Infection: Trivial.48.B (exact)
-u:\collection\dos\file_s-z\trivial\048\e\triv48e.vom  Infection: Trivial.48.B (exact)
-u:\collection\dos\file_s-z\trivial\048\e\triv48e.vxe  Infection: Trivial.48.B (exact)
+u:\collection\dos\file_s-z\trivial\048\a\t1.vxe  Infection: Trivial.48.A
+u:\collection\dos\file_s-z\trivial\048\a\t2.vxe  Infection: Trivial.48.A
+u:\collection\dos\file_s-z\trivial\048\a\trivd48.vxe  Infection: Trivial.48.A
+u:\collection\dos\file_s-z\trivial\048\b\t1.vom  Infection: Trivial.48.B (exact)
+u:\collection\dos\file_s-z\trivial\048\b\triv48e.vom  Infection: Trivial.48.B (exact)
+u:\collection\dos\file_s-z\trivial\048\b\triv48e.vxe  Infection: Trivial.48.B (exact)
+u:\collection\dos\file_s-z\trivial\048\f\virus.dos.trivial.48.g  Infection: Trivial.48.F (exact)
+u:\collection\dos\file_s-z\trivial\048\g\virus.dos.trivial.48.h  Infection: Trivial.48.G (exact)
+u:\collection\dos\file_s-z\trivial\049\a\virus.dos.trivial.dest.49  Infection: Trivial.49.A (exact)
+u:\collection\dos\file_s-z\trivial\049\b\virus.dos.trivial.49.a  Infection: Trivial.49.B (exact)
 u:\collection\dos\file_s-z\trivial\050\a\trv-50.vom  Infection: Trivial.50.A (exact)
 u:\collection\dos\file_s-z\trivial\050\b\trv-50b.vom  Infection: Trivial.50.B (exact)
 u:\collection\dos\file_s-z\trivial\050\c\fiftyb.vom  Infection: Trivial.50.C (exact)
 u:\collection\dos\file_s-z\trivial\050\d\wci0410t.vom  Infection: Trivial.50.D (exact)
+u:\collection\dos\file_s-z\trivial\050\l\virus.dos.trivial.50.d  Infection: Trivial.50.L (exact)
 u:\collection\dos\file_s-z\trivial\051\a\51.vom  Infection: Trivial.51.A (exact)
 u:\collection\dos\file_s-z\trivial\051\b\t1.vom  Infection: Trivial.51.B (exact)
 u:\collection\dos\file_s-z\trivial\051\b\triv39d.vom  Infection: Trivial.51.B (exact)
 u:\collection\dos\file_s-z\trivial\051\b\triv39d.vxe  Infection: Trivial.51.B (exact)
 u:\collection\dos\file_s-z\trivial\051\c\unke1834.vom  Infection: Trivial.51.C (exact)
+u:\collection\dos\file_s-z\trivial\051\k\virus.dos.trivial.51.c  Infection: Trivial.51.K (exact)
+u:\collection\dos\file_s-z\trivial\051\l\virus.dos.trivial.51.e  Infection: Trivial.51.L (exact)
+u:\collection\dos\file_s-z\trivial\051\m\virus.dos.trivial.51.f  Infection: Trivial.51.M (exact)
 u:\collection\dos\file_s-z\trivial\052\a\wci0415t.vom  Infection: Trivial.52.A (exact)
 u:\collection\dos\file_s-z\trivial\052\b\wci0416t.vom  Infection: Trivial.52.B (exact)
 u:\collection\dos\file_s-z\trivial\052\c\unke1830.vom  Infection: Trivial.52.C (exact)
+u:\collection\dos\file_s-z\trivial\052\d\virus.dos.trivial.52.b  Infection: Trivial.52.D (exact)
+u:\collection\dos\file_s-z\trivial\052\e\virus.dos.trivial.zlodic.52  Infection: Trivial.52.E
+u:\collection\dos\file_s-z\trivial\052\o\virus.dos.sillyoc.52.a  Infection: Trivial.52.O (exact)
+u:\collection\dos\file_s-z\trivial\052\p\virus.dos.trivial.52.d  Infection: Trivial.52.P (exact)
+u:\collection\dos\file_s-z\trivial\052\q\virus.dos.trivial.52.c  Infection: Trivial.52.Q (exact)
+u:\collection\dos\file_s-z\trivial\052\r\virus.dos.trivial.53.g  Infection: Trivial.52.R (exact)
+u:\collection\dos\file_s-z\trivial\052\s\virus.dos.trivial.52.e  Infection: Trivial.52.S (exact)
+u:\collection\dos\file_s-z\trivial\052\s\virus.dos.trivial.54.d  Infection: Trivial.52.S (exact)
+u:\collection\dos\file_s-z\trivial\052\t\virus.dos.sillyoc.52.b  Infection: Trivial.52.T (exact)
 u:\collection\dos\file_s-z\trivial\053\a\babycom.vom  Infection: Trivial.53.A (exact)
+u:\collection\dos\file_s-z\trivial\053\c\virus.dos.trivial.53.b  Infection: Trivial.53.C (exact)
 u:\collection\dos\file_s-z\trivial\053\d\wci0417t.vom  Infection: Trivial.53.D (exact)
-u:\collection\dos\file_s-z\trivial\054\slim1.vom  Infection: Trivial.54.A (exact)
+u:\collection\dos\file_s-z\trivial\053\f\virus.dos.trivial.53.d  Infection: Trivial.53.F (exact)
+u:\collection\dos\file_s-z\trivial\053\g\dikshev.53  Infection: Trivial.53.G (exact)
+u:\collection\dos\file_s-z\trivial\053\n\virus.dos.sillyoc.53  Infection: Trivial.53.N (exact)
+u:\collection\dos\file_s-z\trivial\053\o\virus.dos.trivial.53.e  Infection: Trivial.53.O (exact)
+u:\collection\dos\file_s-z\trivial\053\p\virus.dos.trivial.53.f  Infection: Trivial.53.P (exact)
+u:\collection\dos\file_s-z\trivial\053\q\virus.dos.dikshev.53.b  Infection: Trivial.53.Q (exact)
+u:\collection\dos\file_s-z\trivial\054\a\slim1.vom  Infection: Trivial.54.A (exact)
+u:\collection\dos\file_s-z\trivial\054\b\virus.dos.trivial.54.b  Infection: Trivial.54.B (exact)
+u:\collection\dos\file_s-z\trivial\054\c\virus.dos.trivial.wasm.54  Infection: Trivial.54.C (exact)
+u:\collection\dos\file_s-z\trivial\054\e\virus.dos.trivial.54.c  Infection: Trivial.54.E (exact)
+u:\collection\dos\file_s-z\trivial\054\f\dikshev.54  Infection: Trivial.54.F (exact)
 u:\collection\dos\file_s-z\trivial\055\a\tc.vom  Infection: Trivial.55.A (exact)
 u:\collection\dos\file_s-z\trivial\055\a\triv55a.vom  Infection: Trivial.55.A (exact)
 u:\collection\dos\file_s-z\trivial\055\b\tc.vom  Infection: Trivial.55.B (exact)
 u:\collection\dos\file_s-z\trivial\055\b\triv55b.vom  Infection: Trivial.55.B (exact)
-u:\collection\dos\file_s-z\trivial\060\a\milan6.vom  Infection: Trivial.60.C (exact)
+u:\collection\dos\file_s-z\trivial\055\c\virus.dos.trivial.55.c  Infection: Trivial.55.C (exact)
+u:\collection\dos\file_s-z\trivial\055\d\virus.dos.trivial.55.d  Infection: Trivial.55.D (exact)
+u:\collection\dos\file_s-z\trivial\055\e\virus.dos.sillyoc.37  Infection: Trivial.55.E (exact)
+u:\collection\dos\file_s-z\trivial\055\f\virus.dos.trivial.55.g  Infection: Trivial.55.F (exact)
+u:\collection\dos\file_s-z\trivial\056\a\virus.dos.trivial.56.a  Infection: Trivial.56.A (exact)
+u:\collection\dos\file_s-z\trivial\056\b\virus.dos.trivial.56.c  Infection: Trivial.56.B (exact)
+u:\collection\dos\file_s-z\trivial\056\c\virus.dos.trivial.56.b  Infection: Trivial.56.C (exact)
+u:\collection\dos\file_s-z\trivial\056\d\t1.vom  Infection: Trivial.56.D (exact)
+u:\collection\dos\file_s-z\trivial\056\d\t3.vom  Infection: Trivial.56.D (exact)
+u:\collection\dos\file_s-z\trivial\056\d\virus.dos.trivial.56.d  Infection: Trivial.56.D (exact)
+u:\collection\dos\file_s-z\trivial\056\e\virus.dos.sillyoc.56  Infection: Trivial.56.E (exact)
+u:\collection\dos\file_s-z\trivial\056\f\t1.vom  Infection: Trivial.56.D (exact)
+u:\collection\dos\file_s-z\trivial\056\f\t3.vom  Infection: Trivial.56.D (exact)
+u:\collection\dos\file_s-z\trivial\056\f\virus.dos.trivial.56.e  Infection: Trivial.56.D (exact)
+u:\collection\dos\file_s-z\trivial\057\a\virus.dos.trivial.zip.57  Infection: Trivial.57.A (exact)
+u:\collection\dos\file_s-z\trivial\057\b\virus.dos.trivial.57.a  Infection: Trivial.57.B (exact)
+u:\collection\dos\file_s-z\trivial\057\c\virus.dos.trivial.57.b  Infection: Trivial.57.C (exact)
+u:\collection\dos\file_s-z\trivial\057\d\virus.dos.trivial.57.d  Infection: Trivial.57.D (exact)
+u:\collection\dos\file_s-z\trivial\058\a\virus.dos.trivial.58.a  Infection: Trivial.58.A (exact)
+u:\collection\dos\file_s-z\trivial\058\d\virus.dos.trivial.58.d  Infection: Trivial.58.D (exact)
+u:\collection\dos\file_s-z\trivial\059\b\virus.dos.trivial.59.b  Infection: Trivial.59.B (exact)
+u:\collection\dos\file_s-z\trivial\059\c\virus.dos.trivial.tom.59.b  Infection: Trivial.59.C (exact)
+u:\collection\dos\file_s-z\trivial\060\a\virus.dos.trivial.broaf.60  Infection: Trivial.60.A (exact)
 u:\collection\dos\file_s-z\trivial\060\b\trivunkv.vom  Infection: Trivial.60.B (exact)
-u:\collection\dos\file_s-z\trivial\060\c\baby60.vom  Infection: Small_comp.60
-u:\collection\dos\file_s-z\trivial\061\trivunkw.vom  Infection: Trivial.61.A (exact)
-u:\collection\dos\file_s-z\trivial\062\c-triv62.vom  Infection: Trivial.62.A (exact)
+u:\collection\dos\file_s-z\trivial\060\c\milan6.vom  Infection: Trivial.60.C (exact)
+u:\collection\dos\file_s-z\trivial\060\d\virus.dos.trivial.zlodic.60  Infection: Trivial.60.D (exact)
+u:\collection\dos\file_s-z\trivial\060\e\virus.dos.trivial.60.g  Infection: Trivial.60.E (exact)
+u:\collection\dos\file_s-z\trivial\060\f\virus.dos.trivial.60.e  Infection: Trivial.60.F (exact)
+u:\collection\dos\file_s-z\trivial\060\g\virus.dos.trivial.60.d  Infection: Trivial.60.G (exact)
+u:\collection\dos\file_s-z\trivial\060\h\virus.dos.trivial.love_ya.60  Infection: Trivial.60.H (exact)
+u:\collection\dos\file_s-z\trivial\060\i\virus.dos.mini.60.a  Infection: Trivial.60.I (exact)
+u:\collection\dos\file_s-z\trivial\060\j\virus.dos.mini.60.b  Infection: Trivial.60.J (exact)
+u:\collection\dos\file_s-z\trivial\061\a\trivunkw.vom  Infection: Trivial.61.A (exact)
+u:\collection\dos\file_s-z\trivial\061\c\virus.dos.trivial.61.c  Infection: Trivial.61.C (exact)
+u:\collection\dos\file_s-z\trivial\061\d\virus.dos.trivial.61.b  Infection: Trivial.61.D (exact)
+u:\collection\dos\file_s-z\trivial\061\e\t1.vom  Infection: Trivial.61 (generic)
+u:\collection\dos\file_s-z\trivial\061\e\t3.vom  Infection: Trivial.61 (generic)
+u:\collection\dos\file_s-z\trivial\061\e\virus.dos.trivial.61.d  Infection: Trivial.61 (generic)
+u:\collection\dos\file_s-z\trivial\062\a\c-triv62.vom  Infection: Trivial.62.A (exact)
+u:\collection\dos\file_s-z\trivial\062\b\virus.dos.trivial.62.c  Infection: Trivial.62.B (exact)
+u:\collection\dos\file_s-z\trivial\062\c\virus.dos.trivial.62.d  Infection: Trivial.62.C (exact)
+u:\collection\dos\file_s-z\trivial\062\d\virus.dos.mini.62  Infection: Trivial.62.D (exact)
+u:\collection\dos\file_s-z\trivial\063\b\virus.dos.trivial.63.b  Infection: Trivial.63.B
+u:\collection\dos\file_s-z\trivial\063\c\virus.dos.trivial.63.c  Infection: Trivial.63.C (exact)
 u:\collection\dos\file_s-z\trivial\064\a\ow0.vom  Infection: Trivial.64.A (exact)
 u:\collection\dos\file_s-z\trivial\064\b\triv~140.vom  Infection: Trivial.64.B (exact)
 u:\collection\dos\file_s-z\trivial\064\c\t1.vom  Infection: Trivial.64.D (exact)
@@ -32568,18 +32707,38 @@ u:\collection\dos\file_s-z\trivial\064\c\t3.vom  Infection: Trivial.64.D (exact)
 u:\collection\dos\file_s-z\trivial\064\c\t5.vom  Infection: Trivial.64.D (exact)
 u:\collection\dos\file_s-z\trivial\064\c\t7.vom  Infection: Trivial.64.D (exact)
 u:\collection\dos\file_s-z\trivial\064\c\wci03992.vom  Infection: Trivial.64.D (exact)
+u:\collection\dos\file_s-z\trivial\064\e\virus.dos.trivial.64.b  Infection: Trivial.64.E (exact)
 u:\collection\dos\file_s-z\trivial\066\a\triv~102.vom  Infection: Trivial.66.A (exact)
 u:\collection\dos\file_s-z\trivial\066\b\wci0426t.vom  Infection: Trivial.66.B (exact)
 u:\collection\dos\file_s-z\trivial\066\e\dhog.vom  Infection: Trivial.66.E (exact)
 u:\collection\dos\file_s-z\trivial\066\f\wci0424t.vom  Infection: Trivial.66.F (exact)
+u:\collection\dos\file_s-z\trivial\066\h\virus.dos.trivial.vootie.66.b  Infection: Trivial.66.H (exact)
+u:\collection\dos\file_s-z\trivial\067\virus.dos.trivial.67.d  Infection: Trivial.67 (exact)
 u:\collection\dos\file_s-z\trivial\068\a\trv-068.vom  Infection: Trivial.68.A (exact)
 u:\collection\dos\file_s-z\trivial\068\b\tri68c.vom  Infection: Trivial.68.B (exact)
-u:\collection\dos\file_s-z\trivial\071\small71.vom  Infection: SillyC.71.A (exact)
-u:\collection\dos\file_s-z\trivial\075\trv-075.vom  Infection: Trivial.75.A (exact)
-u:\collection\dos\file_s-z\trivial\077\tri77a.vom  Infection: Trivial.77.A (exact)
+u:\collection\dos\file_s-z\trivial\068\c\virus.dos.trivial.68.c  Infection: Trivial.68.C (exact)
+u:\collection\dos\file_s-z\trivial\069\a\virus.dos.trivial.69.a  Infection: Trivial.69 (exact)
+u:\collection\dos\file_s-z\trivial\069\b\t1.vom  Infection: New or modified variant of Trivial
+u:\collection\dos\file_s-z\trivial\069\b\t1.vxe  Infection: New or modified variant of Trivial
+u:\collection\dos\file_s-z\trivial\069\b\t3.vom  Infection: New or modified variant of Trivial
+u:\collection\dos\file_s-z\trivial\069\b\virus.dos.trivial.69.c  Infection: New or modified variant of Trivial
+u:\collection\dos\file_s-z\trivial\071\virus.dos.trivial.71  Infection: Trivial.71 (exact)
+u:\collection\dos\file_s-z\trivial\072\f\virus.dos.trivial.72.a  Infection: Trivial.72.F (exact)
+u:\collection\dos\file_s-z\trivial\072\h\virus.dos.trivial.72.b  Infection: Trivial.72.H (exact)
+u:\collection\dos\file_s-z\trivial\072\i\virus.dos.sillyoc.72  Infection: Trivial.72.I (exact)
+u:\collection\dos\file_s-z\trivial\073\virus.dos.sillyoc.73  Infection: Trivial.73 (exact)
+u:\collection\dos\file_s-z\trivial\075\a\trv-075.vom  Infection: Trivial.75.A (exact)
+u:\collection\dos\file_s-z\trivial\075\b\virus.dos.trivial.75.b  Infection: Trivial.75.B (exact)
+u:\collection\dos\file_s-z\trivial\076\a\virus.dos.trivial.baal.76  Infection: Trivial.76.A (exact)
+u:\collection\dos\file_s-z\trivial\076\b\virus.dos.trivial.1522  Infection: Trivial.76.B (exact)
+u:\collection\dos\file_s-z\trivial\077\a\tri77a.vom  Infection: Trivial.77.A (exact)
+u:\collection\dos\file_s-z\trivial\077\c\virus.dos.trivial.77.b  Infection: Trivial.77.C (exact)
 u:\collection\dos\file_s-z\trivial\078\a\tri78a.vom  Infection: Trivial.78.A (exact)
 u:\collection\dos\file_s-z\trivial\078\b\unke0378.vom  Infection: Trivial.78.B (exact)
 u:\collection\dos\file_s-z\trivial\078\c\triv78.vom  Infection: Trivial.78.C (exact)
+u:\collection\dos\file_s-z\trivial\078\d\virus.dos.mini.78.b  Infection: Trivial.78.D (exact)
+u:\collection\dos\file_s-z\trivial\078\e\virus.dos.mini.78.c  Infection: Trivial.78.E (exact)
+u:\collection\dos\file_s-z\trivial\078\f\virus.dos.sillyoc.78  Infection: Trivial.78.F (exact)
 u:\collection\dos\file_s-z\trivial\080\a\t1.vom  Infection: Trivial.80.B (exact)
 u:\collection\dos\file_s-z\trivial\080\a\t2.vom  Infection: Trivial.80.B (exact)
 u:\collection\dos\file_s-z\trivial\080\a\t3.vom  Infection: Trivial.80.B (exact)
@@ -32588,27 +32747,44 @@ u:\collection\dos\file_s-z\trivial\080\a\wci00125.vom  Infection: Trivial.80.B (
 u:\collection\dos\file_s-z\trivial\080\b\mj13_0b.vom  Infection: Trivial.80.C (exact)
 u:\collection\dos\file_s-z\trivial\080\b\t1.vom  Infection: Trivial.80.C (exact)
 u:\collection\dos\file_s-z\trivial\080\b\t3.vom  Infection: Trivial.80.C (exact)
+u:\collection\dos\file_s-z\trivial\080\e\virus.dos.trivial.80.e  Infection: Trivial.80.E (exact)
 u:\collection\dos\file_s-z\trivial\081\a\wci0444t.vom  Infection: Trivial.81.A (exact)
 u:\collection\dos\file_s-z\trivial\081\b\trv-081.vom  Infection: Trivial.81.B (exact)
+u:\collection\dos\file_s-z\trivial\081\c\virus.dos.sillyoc.81  Infection: Trivial.81.C (exact)
+u:\collection\dos\file_s-z\trivial\081\d\virus.dos.trivial.81.a  Infection: Trivial.81.D (exact)
 u:\collection\dos\file_s-z\trivial\082\wci0446t.vom  Infection: Trivial.82 (exact)
 u:\collection\dos\file_s-z\trivial\083\a\t7.vom  Infection: Trivial.83.A (exact)
 u:\collection\dos\file_s-z\trivial\083\a\tf.vom  Infection: Trivial.83.A (exact)
 u:\collection\dos\file_s-z\trivial\083\a\trv-83.vom  Infection: Trivial.83.A (exact)
-u:\collection\dos\file_s-z\trivial\083\c\ovtex2.vom  Infection: Trivial.83.D (exact)
-u:\collection\dos\file_s-z\trivial\083\c\t1.vom  Infection: Trivial.83.D (exact)
+u:\collection\dos\file_s-z\trivial\083\b\virus.dos.trivial.84.a  Infection: Trivial.83.B (exact)
+u:\collection\dos\file_s-z\trivial\083\c\virus.dos.trivial.83.a  Infection: Trivial.83.C (exact)
+u:\collection\dos\file_s-z\trivial\083\d\ovtex2.vom  Infection: Trivial.83.D (exact)
+u:\collection\dos\file_s-z\trivial\083\d\t1.vom  Infection: Trivial.83.D (exact)
+u:\collection\dos\file_s-z\trivial\083\e\virus.dos.trivial.80.c  Infection: Trivial.83.E (exact)
+u:\collection\dos\file_s-z\trivial\083\i\virus.dos.mini.83.d  Infection: Trivial.83.I (exact)
+u:\collection\dos\file_s-z\trivial\083\j\ovtex2.vom  Infection: Trivial.83.J (exact)
 u:\collection\dos\file_s-z\trivial\084\a\trv-84.vom  Infection: Trivial.84.A (exact)
-u:\collection\dos\file_s-z\trivial\084\b\ovtex2.vom  Infection: Trivial.83.J (exact)
-u:\collection\dos\file_s-z\trivial\084\c\t1.vom  Infection: Trivial.84.B (exact)
-u:\collection\dos\file_s-z\trivial\084\c\wci06613.vom  Infection: Trivial.84.B (exact)
-u:\collection\dos\file_s-z\trivial\085\14ea1de9.vom  Infection: Trivial.85.A (exact)
+u:\collection\dos\file_s-z\trivial\084\b\t1.vom  Infection: Trivial.84.B (exact)
+u:\collection\dos\file_s-z\trivial\084\b\wci06613.vom  Infection: Trivial.84.B (exact)
+u:\collection\dos\file_s-z\trivial\084\c\virus.dos.trivial.84.b  Infection: Trivial.84.C (exact)
+u:\collection\dos\file_s-z\trivial\084\d\virus.dos.trivial.84.c  Infection: Trivial.84.D (exact)
+u:\collection\dos\file_s-z\trivial\084\e\virus.dos.trivial.84.e  Infection: Trivial.84.E (exact)
+u:\collection\dos\file_s-z\trivial\084\f\virus.dos.trivial.84.d  Infection: Trivial.84.F (exact)
+u:\collection\dos\file_s-z\trivial\084\g\virus.dos.trivial.ratboy.80.b  Infection: Trivial.84.G (exact)
+u:\collection\dos\file_s-z\trivial\085\a\14ea1de9.vom  Infection: Trivial.85.A (exact)
+u:\collection\dos\file_s-z\trivial\085\b\virus.dos.trivial.anton.85.b  Infection: Trivial.85.B (exact)
+u:\collection\dos\file_s-z\trivial\085\c\virus.dos.trivial.anton.85.a  Infection: Trivial.85.C (exact)
+u:\collection\dos\file_s-z\trivial\086\a\virus.dos.trivial.wan.86  Infection: Trivial.86.A (exact)
 u:\collection\dos\file_s-z\trivial\087\b\t7.vom  Infection: Trivial.87.B (exact)
 u:\collection\dos\file_s-z\trivial\087\b\tf.vom  Infection: Trivial.87.B (exact)
 u:\collection\dos\file_s-z\trivial\087\b\tiny-83.vom  Infection: Trivial.87.B (exact)
+u:\collection\dos\file_s-z\trivial\087\c\virus.dos.sillyoc.87  Infection: Trivial.87.C (exact)
 u:\collection\dos\file_s-z\trivial\088\a\triv~111.vom  Infection: Trivial.88.A (exact)
 u:\collection\dos\file_s-z\trivial\088\c\wci0453t.vom  Infection: Trivial.88.C (exact)
-u:\collection\dos\file_s-z\trivial\088\d\min-88.vom  Infection: SillyC.88.A (exact)
-u:\collection\dos\file_s-z\trivial\088\d\t7.vom  Infection: SillyC.88.A (exact)
-u:\collection\dos\file_s-z\trivial\088\d\tf.vom  Infection: SillyC.88.A (exact)
+u:\collection\dos\file_s-z\trivial\088\f\virus.dos.mini.88.b  Infection: Trivial.88.F (exact)
+u:\collection\dos\file_s-z\trivial\088\g\virus.dos.mini.88.c  Infection: Trivial.88.G (exact)
+u:\collection\dos\file_s-z\trivial\088\h\virus.dos.sillyoc.88.a  Infection: Trivial.88.H (exact)
+u:\collection\dos\file_s-z\trivial\088\i\virus.dos.sillyoc.88.b  Infection: Trivial.88.I (exact)
 u:\collection\dos\file_s-z\trivial\089\a\trv-089.vom  Infection: Trivial.89.A (exact)
 u:\collection\dos\file_s-z\trivial\090\a\c-tri90a.vom  Infection: Trivial.90.A (exact)
 u:\collection\dos\file_s-z\trivial\090\a\kode4.vom  Infection: Trivial.90.A (exact)
@@ -32616,44 +32792,153 @@ u:\collection\dos\file_s-z\trivial\090\b\tri90a.vom  Infection: Trivial.90.B (ex
 u:\collection\dos\file_s-z\trivial\092\a\rat.vom  Infection: Trivial.92.A (exact)
 u:\collection\dos\file_s-z\trivial\092\b\rat.vom  Infection: Trivial.92.B (exact)
 u:\collection\dos\file_s-z\trivial\092\b\tri92b.vom  Infection: Trivial.92.B (exact)
-u:\collection\dos\file_s-z\trivial\092\c\min-92.vom  Infection: SillyC.92.A (exact)
-u:\collection\dos\file_s-z\trivial\092\c\t7.vom  Infection: SillyC.92.A (exact)
-u:\collection\dos\file_s-z\trivial\092\c\tf.vom  Infection: SillyC.92.A (exact)
-u:\collection\dos\file_s-z\trivial\092\d\min-92b.vom  Infection: SillyC.92.B (exact)
-u:\collection\dos\file_s-z\trivial\092\d\t7.vom  Infection: SillyC.92.B (exact)
-u:\collection\dos\file_s-z\trivial\092\d\tf.vom  Infection: SillyC.92.B (exact)
+u:\collection\dos\file_s-z\trivial\092\e\virus.dos.trivial.92.b  Infection: Trivial.92.E (exact)
+u:\collection\dos\file_s-z\trivial\092\f\virus.dos.trivial.lite  Infection: Trivial.92.F (exact)
 u:\collection\dos\file_s-z\trivial\093\t1.vom  Infection: V-Noise.628 (exact)
 u:\collection\dos\file_s-z\trivial\093\t2.vom  Infection: V-Noise.628 (exact)
 u:\collection\dos\file_s-z\trivial\093\trivg93.vom  Infection: V-Noise.628 (exact)
 u:\collection\dos\file_s-z\trivial\094\min-94.vom  Infection: SillyC.94.A (exact)
 u:\collection\dos\file_s-z\trivial\094\t7.vom  Infection: SillyC.94.A (exact)
 u:\collection\dos\file_s-z\trivial\094\tf.vom  Infection: SillyC.94.A (exact)
+u:\collection\dos\file_s-z\trivial\095\virus.dos.trivial.95  Infection: Trivial.95 (exact)
 u:\collection\dos\file_s-z\trivial\096\wci0460t.vom  Infection: SillyC.96.B (exact)
 u:\collection\dos\file_s-z\trivial\097\a\97.vom  Infection: Trivial.97.A (exact)
 u:\collection\dos\file_s-z\trivial\097\b\trv-097b.vom  Infection: Trivial.97.B (exact)
+u:\collection\dos\file_s-z\trivial\097\c\virus.dos.trivial.anton.97  Infection: Trivial.97.C (exact)
 u:\collection\dos\file_s-z\trivial\098\tri98a.vom  Infection: Trivial.98 (exact)
-u:\collection\dos\file_s-z\trivial\102\trv-102.vom  Infection: Trivial.102.A (exact)
-u:\collection\dos\file_s-z\trivial\105\03222651.vom  Infection: MSK.105.A (exact)
+u:\collection\dos\file_s-z\trivial\100\b\virus.dos.sillyoc.100  Infection: Trivial.100.B (exact)
+u:\collection\dos\file_s-z\trivial\100\c\virus.dos.trivial.100  Infection: Trivial.100.C (exact)
+u:\collection\dos\file_s-z\trivial\100\d\virus.dos.sillyoe.100  Infection: Trivial.100.D (exact)
+u:\collection\dos\file_s-z\trivial\100\e\virus.dos.trivial.100.b  Infection: Trivial.100.E (exact)
+u:\collection\dos\file_s-z\trivial\101\a\virus.dos.trivial.ftw.101  Infection: Trivial.101.A (exact)
+u:\collection\dos\file_s-z\trivial\101\e\virus.dos.sillyoc.101  Infection: Trivial.101.E (exact)
+u:\collection\dos\file_s-z\trivial\101\f\virus.dos.trivial.101.d  Infection: Trivial.101.F (exact)
+u:\collection\dos\file_s-z\trivial\102\a\trv-102.vom  Infection: Trivial.102.A (exact)
+u:\collection\dos\file_s-z\trivial\102\c\virus.dos.trivial.102.c  Infection: Trivial.102.C (exact)
+u:\collection\dos\file_s-z\trivial\102\d\DUMP32.vom  Infection: Trivial.102 (generic)
+u:\collection\dos\file_s-z\trivial\102\d\t1.vom  Infection: Trivial.102 (generic)
+u:\collection\dos\file_s-z\trivial\102\d\t3.vom  Infection: Trivial.102 (generic)
+u:\collection\dos\file_s-z\trivial\102\d\virus.dos.trivial.102.e  Infection: Trivial.102 (generic)
+u:\collection\dos\file_s-z\trivial\104\a\virus.dos.trivial.legi.104  Infection: Trivial.104.A (exact)
+u:\collection\dos\file_s-z\trivial\104\b\virus.dos.sillyoc.104  Infection: Trivial.104.B (exact)
+u:\collection\dos\file_s-z\trivial\105\a\virus.dos.sillyoc.105  Infection: Trivial.105 (exact)
+u:\collection\dos\file_s-z\trivial\105\b\t1.vom  Infection: Trivial.105 (generic)
+u:\collection\dos\file_s-z\trivial\105\b\t1.vxe  Infection: Trivial.105 (generic)
+u:\collection\dos\file_s-z\trivial\105\b\virus.dos.trivial.105.b  Infection: Trivial.105 (generic)
+u:\collection\dos\file_s-z\trivial\106\a\virus.dos.sillyoc.106.a  Infection: Trivial.106.A (exact)
+u:\collection\dos\file_s-z\trivial\106\b\virus.dos.sillyoc.106.b  Infection: Trivial.106.B (exact)
+u:\collection\dos\file_s-z\trivial\106\c\virus.dos.trivial.106.a  Infection: Trivial.106.C (exact)
+u:\collection\dos\file_s-z\trivial\106\d\virus.dos.sillyoc.106.c  Infection: Trivial.106.D
+u:\collection\dos\file_s-z\trivial\106\e\virus.dos.trivial.106.b  Infection: Trivial.106.E (exact)
+u:\collection\dos\file_s-z\trivial\106\f\virus.dos.trivial.106.c  Infection: Trivial.106.F (exact)
+u:\collection\dos\file_s-z\trivial\107\DUMP32.vom  Infection: Trivial.107.unknown?
+u:\collection\dos\file_s-z\trivial\107\t1.vom  Infection: Trivial.107.unknown?
+u:\collection\dos\file_s-z\trivial\107\t3.vom  Infection: Trivial.107.unknown?
+u:\collection\dos\file_s-z\trivial\107\virus.dos.trivial.trident.107  Infection: Trivial.107.unknown?
+u:\collection\dos\file_s-z\trivial\108\virus.dos.trivial.108  Infection: Trivial.108 (exact)
+u:\collection\dos\file_s-z\trivial\109\a\DUMP32.vom  Infection: Trivial.109 (exact)
+u:\collection\dos\file_s-z\trivial\109\a\t1.vom  Infection: Trivial.109 (exact)
+u:\collection\dos\file_s-z\trivial\109\a\t3.vom  Infection: Trivial.109 (exact)
+u:\collection\dos\file_s-z\trivial\109\a\virus.dos.trivial.109.a  Infection: Trivial.109 (exact)
+u:\collection\dos\file_s-z\trivial\109\b\DUMP32.vom  Infection: Checker.109 (exact)
+u:\collection\dos\file_s-z\trivial\109\b\t1.vom  Infection: Checker.109 (exact)
+u:\collection\dos\file_s-z\trivial\109\b\t3.vom  Infection: Checker.109 (exact)
+u:\collection\dos\file_s-z\trivial\109\b\virus.dos.trivial.109.b  Infection: Checker.109 (exact)
+u:\collection\dos\file_s-z\trivial\109\c\DUMP32.vom  Infection: SillyC.109 (exact)
+u:\collection\dos\file_s-z\trivial\109\c\t1.vom  Infection: SillyC.109 (exact)
+u:\collection\dos\file_s-z\trivial\109\c\t3.vom  Infection: SillyC.109 (exact)
+u:\collection\dos\file_s-z\trivial\109\c\virus.dos.trivial.109.c  Infection: SillyC.109 (exact)
+u:\collection\dos\file_s-z\trivial\110\virus.dos.sillyoe.110  Infection: Trivial.110 (exact)
+u:\collection\dos\file_s-z\trivial\111\a\virus.dos.mini.111  Infection: Trivial.111 (exact)
+u:\collection\dos\file_s-z\trivial\111\b\virus.dos.trivial.love_ya.111  Infection: Trivial.111.B (exact)
+u:\collection\dos\file_s-z\trivial\113\virus.dos.trivial.113.b  Infection: Trivial.113.C (exact)
+u:\collection\dos\file_s-z\trivial\115\virus.dos.trivial.115  Infection: Trivial.115.B (exact)
+u:\collection\dos\file_s-z\trivial\116\b\virus.dos.sillyoc.116.b  Infection: Trivial.116.B
+u:\collection\dos\file_s-z\trivial\116\c\LWM.vom  Infection: Trivial.116 (generic)
+u:\collection\dos\file_s-z\trivial\116\c\NETRUN.vom  Infection: Trivial.116 (generic)
+u:\collection\dos\file_s-z\trivial\116\c\virus.dos.sillyoc.116.c  Infection: Trivial.116 (generic)
+u:\collection\dos\file_s-z\trivial\117\virus.dos.trivial.117  Infection: Trivial.117 (exact)
+u:\collection\dos\file_s-z\trivial\118\virus.dos.trivial.winex.118  Infection: Trivial.118.C (exact)
 u:\collection\dos\file_s-z\trivial\119\087624ca7a821186365b7c4c752e3f8b32de8534cfb3ac9c6f5408f8803384a1  Infection: Trivial.119 (generic)
 u:\collection\dos\file_s-z\trivial\119\DUMP32.vom  Infection: Trivial.119 (generic)
 u:\collection\dos\file_s-z\trivial\119\t3.vom  Infection: Trivial.119 (generic)
-u:\collection\dos\file_s-z\trivial\126\triv-126.vom  Infection: SillyC.126.A (exact)
+u:\collection\dos\file_s-z\trivial\121\a\virus.dos.sillyoc.121.b  Infection: Trivial.121.A (exact)
+u:\collection\dos\file_s-z\trivial\121\b\virus.dos.trivial.121.a  Infection: Trivial.121.B (exact)
+u:\collection\dos\file_s-z\trivial\121\c\virus.dos.sillyoc.121.c  Infection: Trivial.121.C (exact)
+u:\collection\dos\file_s-z\trivial\121\d\virus.dos.trivial.121.b  Infection: Trivial.121.D (exact)
+u:\collection\dos\file_s-z\trivial\121\e\virus.dos.trivial.121.c  Infection: Trivial.121.E (exact)
+u:\collection\dos\file_s-z\trivial\121\f\t1.vom  Infection: Trivial.121.unknown?
+u:\collection\dos\file_s-z\trivial\121\f\t3.vom  Infection: Trivial.121.unknown?
+u:\collection\dos\file_s-z\trivial\121\f\virus.dos.trivial.121.d  Infection: Trivial.121.unknown?
+u:\collection\dos\file_s-z\trivial\123\virus.dos.sillyoc.116.a  Infection: Trivial.123 (exact)
+u:\collection\dos\file_s-z\trivial\125\virus.dos.sillyoc.125.b  Infection: Trivial.125 (generic)
+u:\collection\dos\file_s-z\trivial\126\virus.dos.sillyoc.126  Infection: Trivial.126 (exact)
 u:\collection\dos\file_s-z\trivial\128\a\triv128a.vom  Infection: Trivial.128.A (exact)
 u:\collection\dos\file_s-z\trivial\128\b\triv128b.vom  Infection: Trivial.128.B (exact)
+u:\collection\dos\file_s-z\trivial\129\b\hov.vom  Infection: Trivial.129.B (exact)
+u:\collection\dos\file_s-z\trivial\131\a\virus.dos.trivial.131  Infection: Trivial.131.A (exact)
+u:\collection\dos\file_s-z\trivial\131\b\virus.dos.tricks.131  Infection: Trivial.131.B (exact)
 u:\collection\dos\file_s-z\trivial\133\c-tri133.vom  Infection: Trivial.133 (exact)
 u:\collection\dos\file_s-z\trivial\133\triv133.vom  Infection: Trivial.133 (exact)
+u:\collection\dos\file_s-z\trivial\136\virus.dos.sillyoc.136  Infection: Trivial.136.C (exact)
 u:\collection\dos\file_s-z\trivial\137\a\wci0236t.vom  Infection: Trivial.137.A (exact)
 u:\collection\dos\file_s-z\trivial\137\b\wci0237t.vom  Infection: Trivial.137.B (exact)
+u:\collection\dos\file_s-z\trivial\140\virus.dos.trivial.140  Infection: Trivial.140 (exact)
+u:\collection\dos\file_s-z\trivial\143\b\virus.dos.sillyoc.143  Infection: Trivial.143.B (exact)
+u:\collection\dos\file_s-z\trivial\143\d\virus.dos.trivial.143.b  Infection: Trivial.143.D (exact)
+u:\collection\dos\file_s-z\trivial\143\e\virus.dos.trivial.143.c  Infection: Trivial.143.E (exact)
 u:\collection\dos\file_s-z\trivial\146\trv-146.vom  Infection: Trivial.146 (exact)
-u:\collection\dos\file_s-z\trivial\166\t7.vom  Infection: Trivial.166.C (exact)
-u:\collection\dos\file_s-z\trivial\166\tf.vom  Infection: Trivial.166.C (exact)
-u:\collection\dos\file_s-z\trivial\166\triv166.vom  Infection: Trivial.166.C (exact)
+u:\collection\dos\file_s-z\trivial\155\virus.dos.sillyoc.155  Infection: Trivial.155
+u:\collection\dos\file_s-z\trivial\158\a\small25.vxe  Infection: Trivial.158.A (exact)
+u:\collection\dos\file_s-z\trivial\158\a\t7.vom  Infection: Trivial.158.A (exact)
+u:\collection\dos\file_s-z\trivial\158\a\t7.vxe  Infection: Trivial.158.A (exact)
+u:\collection\dos\file_s-z\trivial\158\a\tf.vom  Infection: Trivial.158.A (exact)
+u:\collection\dos\file_s-z\trivial\158\a\tf.vxe  Infection: Trivial.158.A (exact)
+u:\collection\dos\file_s-z\trivial\158\b\small25.vom  Infection: Trivial.158.B (exact)
+u:\collection\dos\file_s-z\trivial\161\virus.dos.trivial.161  Infection: Trivial.161.C (exact)
+u:\collection\dos\file_s-z\trivial\166\a\virus.dos.trivial.drunk.166  Infection: Trivial.166.A (exact)
+u:\collection\dos\file_s-z\trivial\166\c\t7.vom  Infection: Trivial.166.C (exact)
+u:\collection\dos\file_s-z\trivial\166\c\tf.vom  Infection: Trivial.166.C (exact)
+u:\collection\dos\file_s-z\trivial\166\c\triv166.vom  Infection: Trivial.166.C (exact)
+u:\collection\dos\file_s-z\trivial\166\d\virus.dos.sillyoc.166  Infection: Trivial.166.D (exact)
+u:\collection\dos\file_s-z\trivial\166\f\virus.dos.sillyoc.166.c  Infection: Trivial.166.F (exact)
+u:\collection\dos\file_s-z\trivial\166\g\virus.dos.companion.166  Infection: Trivial.166.G
+u:\collection\dos\file_s-z\trivial\166\j\virus.dos.trivial.166.c  Infection: Trivial.166.J
+u:\collection\dos\file_s-z\trivial\166\k\virus.dos.trivial.166.d  Infection: Trivial.166.K (exact)
+u:\collection\dos\file_s-z\trivial\168\dikshev.168  Infection: Trivial.168 (exact)
+u:\collection\dos\file_s-z\trivial\169\a\virus.dos.trivial.169  Infection: Trivial.169.A (exact)
+u:\collection\dos\file_s-z\trivial\173\b\virus.dos.sillyoc.173  Infection: Trivial.173.B (exact)
+u:\collection\dos\file_s-z\trivial\173\c\virus.dos.sillyoc.173.b  Infection: Trivial.173.C (exact)
+u:\collection\dos\file_s-z\trivial\174\virus.dos.sillyoc.174  Infection: Trivial.174.A (exact)
+u:\collection\dos\file_s-z\trivial\177\virus.dos.sibal.177  Infection: Trivial.177 (generic)
 u:\collection\dos\file_s-z\trivial\178\wci0257t.vom  Infection: Trivial.178.A (exact)
+u:\collection\dos\file_s-z\trivial\179\virus.dos.trivial.179  Infection: Trivial.179.B (exact)
+u:\collection\dos\file_s-z\trivial\181\virus.dos.sillyoc.181  Infection: Trivial.181.B (exact)
+u:\collection\dos\file_s-z\trivial\185\a\virus.dos.sillyoc.185  Infection: Trivial.185.A (exact)
+u:\collection\dos\file_s-z\trivial\185\b\virus.dos.trivial.185  Infection: Trivial.185.B (exact)
+u:\collection\dos\file_s-z\trivial\185\c\virus.dos.sillyoc.185.d  Infection: Trivial.185.C (exact)
+u:\collection\dos\file_s-z\trivial\186\a\virus.dos.sillyoc.186  Infection: Trivial.186.A (exact)
+u:\collection\dos\file_s-z\trivial\186\b\virus.dos.sillyoc.186.b  Infection: Trivial.186.B (exact)
+u:\collection\dos\file_s-z\trivial\186\c\virus.dos.sillyoc.186.c  Infection: Trivial.186.C (exact)
+u:\collection\dos\file_s-z\trivial\187\virus.dos.trivial.187  Infection: Trivial.187 (exact)
+u:\collection\dos\file_s-z\trivial\189\virus.dos.sillyc.189.c  Infection: Trivial.189 (generic)
+u:\collection\dos\file_s-z\trivial\190\a\dikshev.190  Infection: Trivial.190.A (exact)
+u:\collection\dos\file_s-z\trivial\192\virus.dos.sillyc.192.b  Infection: Trivial.192.C
+u:\collection\dos\file_s-z\trivial\193\virus.dos.sillyc.193.e  Infection: Trivial.193
+u:\collection\dos\file_s-z\trivial\200\virus.dos.trivial.wo.200  Infection: Trivial.200.C (exact)
 u:\collection\dos\file_s-z\trivial\214\tri214a.vom  Infection: Trivial.214.A (exact)
+u:\collection\dos\file_s-z\trivial\247\virus.dos.palma.247  Infection: Trivial.247
+u:\collection\dos\file_s-z\trivial\274\virus.dos.slam.hunter.274  Infection: Trivial.274 (generic)
+u:\collection\dos\file_s-z\trivial\288\virus.dos.vgclone.288  Infection: Trivial.288 (exact)
+u:\collection\dos\file_s-z\trivial\295\virus.dos.sillyc.295.c  Infection: Trivial.295 (generic)
 u:\collection\dos\file_s-z\trivial\320\ow_64.vom  Infection: Nowhere.306
 u:\collection\dos\file_s-z\trivial\320\unke1006.vom  Infection: Nowhere.306
 u:\collection\dos\file_s-z\trivial\341\vw13.vom  Infection: Vienna.341.B (exact)
 u:\collection\dos\file_s-z\trivial\342\pca-vir.vom  Infection: Trivial.342.A (exact)
+u:\collection\dos\file_s-z\trivial\413\virus.dos.sillyoc.413  Infection: Trivial.413
+u:\collection\dos\file_s-z\trivial\642\virus.dos.trivial.wordovus.642  Infection: Trivial.642 (exact)
+u:\collection\dos\file_s-z\trivial\650\virus.dos.sillyoc.650  Infection: Trivial.650 (exact)
+u:\collection\dos\file_s-z\trivial\974\virus.dos.sillyoc.974  Infection: Trivial.974 (exact)
 u:\collection\dos\file_s-z\trivial\afraid\72\a\minus1.vom  Infection: Trivial.72.E (exact)
 u:\collection\dos\file_s-z\trivial\afraid\72\a\t1.vom  Infection: Trivial.72.E (exact)
 u:\collection\dos\file_s-z\trivial\afraid\72\b\minus2.vom  Infection: Trivial.72.C (exact)
@@ -32667,7 +32952,9 @@ u:\collection\dos\file_s-z\trivial\ajax\145\t3.vom  Infection: Trivial.145 (exac
 u:\collection\dos\file_s-z\trivial\ajax\145\t6.vom  Infection: Trivial.145 (exact)
 u:\collection\dos\file_s-z\trivial\ajax\145\t7.vom  Infection: Trivial.145 (exact)
 u:\collection\dos\file_s-z\trivial\ajax\145\t9.vom  Infection: Trivial.145 (exact)
-u:\collection\dos\file_s-z\trivial\ansibomb\ansibomb.vom  Infection: Trivial.281.A (exact)
+u:\collection\dos\file_s-z\trivial\ansibomb\262\virus.dos.trivial.ansi.262  Infection: Trivial.262 (exact)
+u:\collection\dos\file_s-z\trivial\ansibomb\281\ansibomb.vom  Infection: Trivial.281.A (exact)
+u:\collection\dos\file_s-z\trivial\ansibomb\282\virus.dos.sillyoc.282  Infection: Trivial.282 (exact)
 u:\collection\dos\file_s-z\trivial\aussie\147\aussi147.vom  Infection: Trivial.147 (exact)
 u:\collection\dos\file_s-z\trivial\aussie\147\c-aus147.vom  Infection: Trivial.147 (exact)
 u:\collection\dos\file_s-z\trivial\aussie\147\t1.vom  Infection: Trivial.147 (exact)
@@ -32685,7 +32972,17 @@ u:\collection\dos\file_s-z\trivial\banana\i\trv-bani.vom  Infection: Trivial.139
 u:\collection\dos\file_s-z\trivial\banana\j\trv-banj.vom  Infection: Trivial.139.J (exact)
 u:\collection\dos\file_s-z\trivial\banana\k\trv-bank.vom  Infection: Trivial.139.K (exact)
 u:\collection\dos\file_s-z\trivial\banana\l\trv-banl.vom  Infection: Trivial.139.L (exact)
+u:\collection\dos\file_s-z\trivial\banana\m\virus.dos.trivial.banana.139.m  Infection: Trivial.139.M (exact)
 u:\collection\dos\file_s-z\trivial\beavis\201\wci0260t.vom  Infection: Trivial.201 (exact)
+u:\collection\dos\file_s-z\trivial\birgit\200\clone-based  Infection: Trivial.200.D (exact)
+u:\collection\dos\file_s-z\trivial\bredrais\223\virus.dos.trivial.bre.223  Infection: Trivial.223 (exact)
+u:\collection\dos\file_s-z\trivial\bredrais\225\virus.dos.trivial.bre.225  Infection: Trivial.225 (exact)
+u:\collection\dos\file_s-z\trivial\bsv\128\virus.dos.trivial.bsv.128  Infection: Trivial.128.D (exact)
+u:\collection\dos\file_s-z\trivial\bsv\207\virus.dos.sillyoc.207  Infection: Trivial.207 (exact)
+u:\collection\dos\file_s-z\trivial\bughunter\152\virus.dos.sillyoc.152  Infection: Trivial.152.B (exact)
+u:\collection\dos\file_s-z\trivial\call\247\t1.vom  Infection: Trivial.247 (generic)
+u:\collection\dos\file_s-z\trivial\call\247\t3.vom  Infection: Trivial.247 (generic)
+u:\collection\dos\file_s-z\trivial\call\247\virus.dos.trivial.call.247  Infection: Trivial.247 (generic)
 u:\collection\dos\file_s-z\trivial\chicken\127\c-tr127b.vom  Infection: Trivial.127.B (exact)
 u:\collection\dos\file_s-z\trivial\chicken\127\chchoke.vom  Infection: Trivial.127.B (exact)
 u:\collection\dos\file_s-z\trivial\chicken\127\t1.vom  Infection: Trivial.127.B (exact)
@@ -32694,6 +32991,14 @@ u:\collection\dos\file_s-z\trivial\chicken\132\chk.vom  Infection: Trivial.132 (
 u:\collection\dos\file_s-z\trivial\chicken\132\t1.vom  Infection: Trivial.132 (exact)
 u:\collection\dos\file_s-z\trivial\chicken\132\t2.vom  Infection: Trivial.132 (exact)
 u:\collection\dos\file_s-z\trivial\civilwar\trv-civi.vom  Infection: Civil_II.444 (exact)
+u:\collection\dos\file_s-z\trivial\clone\218\virus.dos.clone.218  Infection: Trivial.218.B
+u:\collection\dos\file_s-z\trivial\clone\296\virus.dos.clone.296  Infection: Trivial.296 (exact)
+u:\collection\dos\file_s-z\trivial\codebreakers\0115\codebreaker.crypt.115  Infection: Trivial.115.unknown?
+u:\collection\dos\file_s-z\trivial\codebreakers\0115\t1.vom  Infection: Trivial.115.unknown?
+u:\collection\dos\file_s-z\trivial\codebreakers\0115\t3.vom  Infection: Trivial.115.unknown?
+u:\collection\dos\file_s-z\trivial\codebreakers\0118\virus.dos.codebreaker.xchg.118  Infection: Trivial.118.B (exact)
+u:\collection\dos\file_s-z\trivial\codebreakers\0177\virus.dos.codebreaker.naked.177  Infection: Trivial.177.D (exact)
+u:\collection\dos\file_s-z\trivial\codebreakers\1060\virus.dos.sillyoc.1060  Infection: Trivial.1060 (exact)
 u:\collection\dos\file_s-z\trivial\crypt\134\c-tri134.vom  Infection: Trivial.134.A
 u:\collection\dos\file_s-z\trivial\crypt\134\crypt134.vom  Infection: Trivial.134.A
 u:\collection\dos\file_s-z\trivial\crypt\134\grep.vom  Infection: Trivial.134.A
@@ -32702,11 +33007,26 @@ u:\collection\dos\file_s-z\trivial\crypt\134\t1.vom  Infection: Trivial.134.A
 u:\collection\dos\file_s-z\trivial\crypt\134\t3.vom  Infection: Trivial.134.A
 u:\collection\dos\file_s-z\trivial\crypt\134\t5.vom  Infection: Trivial.134.A
 u:\collection\dos\file_s-z\trivial\devastat\tri173a.vom  Infection: Trivial.173.A (exact)
-u:\collection\dos\file_s-z\trivial\diddler\trv-didl.vom  Infection: Trivial.91.A (exact)
+u:\collection\dos\file_s-z\trivial\diddler\091\trv-didl.vom  Infection: Trivial.91.A (exact)
+u:\collection\dos\file_s-z\trivial\diddler\137\bait.vom  Infection: Trivial.137.C (exact)
 u:\collection\dos\file_s-z\trivial\druid\337\druid.337  Infection: Trivial.337 (exact)
 u:\collection\dos\file_s-z\trivial\drunk\167\drunk167.vom  Infection: Trivial.167.A (exact)
 u:\collection\dos\file_s-z\trivial\drunk\167\t7.vom  Infection: Trivial.167.A (exact)
 u:\collection\dos\file_s-z\trivial\drunk\167\tf.vom  Infection: Trivial.167.A (exact)
+u:\collection\dos\file_s-z\trivial\duriki\144\a\t1.vom  Infection: Trivial.144.A
+u:\collection\dos\file_s-z\trivial\duriki\144\a\t3.vom  Infection: Trivial.144.A
+u:\collection\dos\file_s-z\trivial\duriki\144\a\virus.dos.duriki.144  Infection: Trivial.144.A
+u:\collection\dos\file_s-z\trivial\duriki\144\b\t1.vom  Infection: Trivial.144.A
+u:\collection\dos\file_s-z\trivial\duriki\144\b\t3.vom  Infection: Trivial.144.A
+u:\collection\dos\file_s-z\trivial\duriki\144\b\virus.dos.trivial.dur.144  Infection: Trivial.144.A
+u:\collection\dos\file_s-z\trivial\duriki\152\virus.dos.duriki.152  Infection: Trivial.152.A (exact)
+u:\collection\dos\file_s-z\trivial\eicar\122\virus.dos.trivial.eicar.122  Infection: Trivial.122 (exact)
+u:\collection\dos\file_s-z\trivial\eicar\134\virus.dos.trivial.eicar.134  Infection: Trivial.134.B (exact)
+u:\collection\dos\file_s-z\trivial\elf\256\virus.dos.trivial.elf.256  Infection: Trivial.256.B (exact)
+u:\collection\dos\file_s-z\trivial\empire\297\arson297.c1  Infection: Trivial.297 (exact)
+u:\collection\dos\file_s-z\trivial\empire\297\arson297.c2  Infection: Trivial.297 (exact)
+u:\collection\dos\file_s-z\trivial\empire\297\arson297.c3  Infection: Trivial.297 (exact)
+u:\collection\dos\file_s-z\trivial\empire\297\empire.297  Infection: Trivial.297 (exact)
 u:\collection\dos\file_s-z\trivial\erin\628\virus.dos.trivial.erin.628  Infection: Erin.628
 u:\collection\dos\file_s-z\trivial\evul\evul109.vom  Infection: Evul.109 (exact)
 u:\collection\dos\file_s-z\trivial\evul\grep.vom  Infection: Evul.109 (exact)
@@ -32720,16 +33040,23 @@ u:\collection\dos\file_s-z\trivial\exec\100\triv4al_.vom  Infection: Trivial.100
 u:\collection\dos\file_s-z\trivial\exec\162\exec162.vom  Infection: Itti.162
 u:\collection\dos\file_s-z\trivial\exec\162\triv3al_.vom  Infection: Itti.162
 u:\collection\dos\file_s-z\trivial\exec\417\161.vom  Infection: Itti.161
-u:\collection\dos\file_s-z\trivial\explode\212\wci0262t.vom  Infection: Trivial.212.A (exact)
+u:\collection\dos\file_s-z\trivial\explode\212\a\wci0262t.vom  Infection: Trivial.212.A (exact)
+u:\collection\dos\file_s-z\trivial\explode\212\b\virus.dos.trivial.uabbs.212  Infection: Trivial.212.B (exact)
 u:\collection\dos\file_s-z\trivial\explode\229\a\explode.vom  Infection: Trivial.229.A (exact)
 u:\collection\dos\file_s-z\trivial\explode\229\b\litt-229.vom  Infection: Trivial.229.B (exact)
 u:\collection\dos\file_s-z\trivial\explode\229\b\t1.vom  Infection: Trivial.229.B (exact)
 u:\collection\dos\file_s-z\trivial\explode\229\b\t2.vom  Infection: Trivial.229.B (exact)
 u:\collection\dos\file_s-z\trivial\explode\229\b\t3.vom  Infection: Trivial.229.B (exact)
+u:\collection\dos\file_s-z\trivial\explode\250\virus.dos.trivial.explode.250  Infection: Trivial.250 (exact)
+u:\collection\dos\file_s-z\trivial\ftw\192\virus.dos.trivial.ftw.192  Infection: Trivial.192.A (exact)
+u:\collection\dos\file_s-z\trivial\fuk\653\virus.dos.fuk.653  Infection: Trivial.653
 u:\collection\dos\file_s-z\trivial\fyodor\145\c-fyp145.vom  Infection: Trivial.101.C (exact)
 u:\collection\dos\file_s-z\trivial\fyodor\145\fyodor.vom  Infection: Trivial.101.C (exact)
 u:\collection\dos\file_s-z\trivial\fyodor\145\t1.vom  Infection: Trivial.101.C (exact)
 u:\collection\dos\file_s-z\trivial\fyodor\145\t3.vom  Infection: Trivial.101.C (exact)
+u:\collection\dos\file_s-z\trivial\gabber\167\virus.dos.trivial.gabber.167  Infection: Trivial.167.B (exact)
+u:\collection\dos\file_s-z\trivial\gobleen\237\virus.dos.bleen.237  Infection: Trivial.237 (exact)
+u:\collection\dos\file_s-z\trivial\gobleen\238\virus.dos.bleen.238  Infection: Trivial.238.B (exact)
 u:\collection\dos\file_s-z\trivial\hanger\143\hanger.vom  Infection: Trivial.143.A (exact)
 u:\collection\dos\file_s-z\trivial\hanger\157\triv157.vxe  Infection: Trivial.157 (exact)
 u:\collection\dos\file_s-z\trivial\hastings\a\hastings.vom  Infection: Trivial.200.A (exact)
@@ -32740,16 +33067,28 @@ u:\collection\dos\file_s-z\trivial\httm\087\trivial_.vom  Infection: Trivial.87.
 u:\collection\dos\file_s-z\trivial\httm\112\a\triv1al_.vom  Infection: Trivial.112.A (exact)
 u:\collection\dos\file_s-z\trivial\httm\112\b\112.vom  Infection: Trivial.112.B (exact)
 u:\collection\dos\file_s-z\trivial\httm\241\vsign241.vom  Infection: Trivial.241 (exact)
+u:\collection\dos\file_s-z\trivial\hungarian\330\virus.dos.sillyc.330.c  Infection: Trivial.330 (exact)
+u:\collection\dos\file_s-z\trivial\income\700\virus.dos.trivial.income.700  Infection: Trivial.700 (exact)
+u:\collection\dos\file_s-z\trivial\infect\154\virus.dos.trivial.154  Infection: Trivial.154 (generic)
+u:\collection\dos\file_s-z\trivial\infect\197\virus.dos.hells.197  Infection: Trivial.197 (generic)
+u:\collection\dos\file_s-z\trivial\infect\201\virus.dos.hells.201.a  Infection: Trivial.201 (generic)
+u:\collection\dos\file_s-z\trivial\infect\203\virus.dos.hells.203.a  Infection: Trivial.203 (generic)
+u:\collection\dos\file_s-z\trivial\ivrl\167\virus.dos.sillyoc.167.b  Infection: Trivial.167.C (exact)
+u:\collection\dos\file_s-z\trivial\ivrl\271\a\virus.dos.sillyoc.271  Infection: Trivial.271.A (exact)
 u:\collection\dos\file_s-z\trivial\kaliporn\088\auvstiny.vom  Infection: Trivial.88.B (exact)
 u:\collection\dos\file_s-z\trivial\kaliporn\140\auvstny2.vom  Infection: Kalipornia.586
 u:\collection\dos\file_s-z\trivial\kaliporn\154\auvstny3.vom  Infection: Kalipornia.154 (exact)
 u:\collection\dos\file_s-z\trivial\kaliporn\190\auvstny4.vom  Infection: Kalipornia.190
 u:\collection\dos\file_s-z\trivial\kaliporn\303\auvstny5.vom  Infection: Kalipornia.303 (exact)
+u:\collection\dos\file_s-z\trivial\kode4\115\t1.vom  Infection: Trivial.115 (generic)
+u:\collection\dos\file_s-z\trivial\kode4\115\t3.vom  Infection: Trivial.115 (generic)
+u:\collection\dos\file_s-z\trivial\kode4\115\virus.dos.sillyoc.115  Infection: Trivial.115 (generic)
 u:\collection\dos\file_s-z\trivial\krap\124\krapv2_0.vom  Infection: Trivial.124 (exact)
 u:\collection\dos\file_s-z\trivial\krap\124\t1.vom  Infection: Trivial.124 (exact)
 u:\collection\dos\file_s-z\trivial\krap\124\t3.vom  Infection: Trivial.124 (exact)
 u:\collection\dos\file_s-z\trivial\krap\124\t5.vom  Infection: Trivial.124 (exact)
 u:\collection\dos\file_s-z\trivial\krap\124\t7.vom  Infection: Trivial.124 (exact)
+u:\collection\dos\file_s-z\trivial\lamah\211\virus.dos.lamah.211.b  Infection: Trivial.211 (generic)
 u:\collection\dos\file_s-z\trivial\mainman\070\mainman.vom  Infection: Trivial.70 (exact)
 u:\collection\dos\file_s-z\trivial\mainman\070\t1.vom  Infection: Trivial.70 (exact)
 u:\collection\dos\file_s-z\trivial\mainman\070\t3.vom  Infection: Trivial.70 (exact)
@@ -32762,9 +33101,21 @@ u:\collection\dos\file_s-z\trivial\mainman\233\t1.vom  Infection: Lame.233
 u:\collection\dos\file_s-z\trivial\mainman\233\t3.vom  Infection: Lame.233
 u:\collection\dos\file_s-z\trivial\mainman\233\t5.vom  Infection: Lame.233
 u:\collection\dos\file_s-z\trivial\mainman\233\t7.vom  Infection: Lame.233
+u:\collection\dos\file_s-z\trivial\malmsey\496\virus.dos.malmsey.496  Infection: Trivial.496 (exact)
+u:\collection\dos\file_s-z\trivial\national\virus.dos.trivial.nat.111  Infection: Trivial.111.A (exact)
+u:\collection\dos\file_s-z\trivial\nelson\113\DUMP32.vom  Infection: Trivial.114.unknown?
+u:\collection\dos\file_s-z\trivial\nelson\113\t1.vom  Infection: Trivial.114.unknown?
+u:\collection\dos\file_s-z\trivial\nelson\113\t3.vom  Infection: Trivial.114.unknown?
+u:\collection\dos\file_s-z\trivial\nelson\113\virus.dos.nelson.226  Infection: Trivial.114.unknown?
 u:\collection\dos\file_s-z\trivial\nkotb\trvnkotb.vom  Infection: Trivial.723 (exact)
+u:\collection\dos\file_s-z\trivial\obj\162\virus.dos.vecna.obj.162  Infection: Trivial.162.A (exact)
+u:\collection\dos\file_s-z\trivial\oddessy\602\DUMP32.vom  Infection: Trivial.602.unknown?
+u:\collection\dos\file_s-z\trivial\oddessy\602\t1.vom  Infection: Trivial.602.unknown?
+u:\collection\dos\file_s-z\trivial\oddessy\602\t3.vom  Infection: Trivial.602.unknown?
+u:\collection\dos\file_s-z\trivial\oddessy\602\virus.dos.oddessy.602  Infection: Trivial.602.unknown?
 u:\collection\dos\file_s-z\trivial\o_spring\unke0627.vom  Infection: Ospring.44
 u:\collection\dos\file_s-z\trivial\packed\156\demovir2.vom  Infection: Trivial.156.A (exact)
+u:\collection\dos\file_s-z\trivial\party\142\virus.dos.trivial.142  Infection: Trivial.142.A (exact)
 u:\collection\dos\file_s-z\trivial\phile\209\phile16c.vom  Infection: Phile.209 (exact)
 u:\collection\dos\file_s-z\trivial\phile\209\t1.vom  Infection: Phile.209 (exact)
 u:\collection\dos\file_s-z\trivial\phile\209\t3.vom  Infection: Phile.209 (exact)
@@ -32780,21 +33131,50 @@ u:\collection\dos\file_s-z\trivial\pitti\77\pity.vom  Infection: Pittiful.77.A (
 u:\collection\dos\file_s-z\trivial\pitti\77\t1.vom  Infection: Pittiful.77.A (exact)
 u:\collection\dos\file_s-z\trivial\pitti\77\t7.vom  Infection: Pittiful.77.A (exact)
 u:\collection\dos\file_s-z\trivial\pitti\77\tf.vom  Infection: Pittiful.77.A (exact)
+u:\collection\dos\file_s-z\trivial\poland\256\virus.dos.sillyoc.256  Infection: Trivial.256.C (exact)
+u:\collection\dos\file_s-z\trivial\poopie\284\virus.dos.poopie.284  Infection: Trivial.284 (exact) - Dropper
+u:\collection\dos\file_s-z\trivial\pozor\475\virus.dos.pozor.a  Infection: Trivial.475 (generic)
+u:\collection\dos\file_s-z\trivial\rave\195\virus.dos.trivial.rave.195  Infection: Trivial.195 (exact)
+u:\collection\dos\file_s-z\trivial\rave\213\virus.dos.trivial.rave.213  Infection: Trivial.213 (exact)
+u:\collection\dos\file_s-z\trivial\renegade\161\virus.dos.trivial.trident.161  Infection: Trivial.161.B (exact)
+u:\collection\dos\file_s-z\trivial\rex\113\virus.dos.trivial.rex.113  Infection: Trivial.113.B (exact)
+u:\collection\dos\file_s-z\trivial\sbvc\a\virus.dos.trivial.sbvc.a  Infection: Trivial.30000.A (exact)
+u:\collection\dos\file_s-z\trivial\sbvc\b\virus.dos.trivial.sbvc.b  Infection: Trivial.30000.B (exact)
+u:\collection\dos\file_s-z\trivial\serb\784\virus.dos.serb.784  Infection: Trivial.784 (generic)
+u:\collection\dos\file_s-z\trivial\shawn\135\hbr.135  Infection: Trivial.135.B (exact) - Dropper
+u:\collection\dos\file_s-z\trivial\simple\207\simple.vom  Infection: Simple_Minded.207
 u:\collection\dos\file_s-z\trivial\sink\90\sinkv1.vom  Infection: Trivial.90.C (exact)
 u:\collection\dos\file_s-z\trivial\sink\93\c-triv93.vom  Infection: Trivial.93 (exact)
 u:\collection\dos\file_s-z\trivial\sink\93\ksink93.vom  Infection: Trivial.93 (exact)
 u:\collection\dos\file_s-z\trivial\sink\93\sink.vom  Infection: Trivial.93 (exact)
 u:\collection\dos\file_s-z\trivial\sink\93\t1.vom  Infection: Trivial.93 (exact)
 u:\collection\dos\file_s-z\trivial\sink\93\t2.vom  Infection: Trivial.93 (exact)
+u:\collection\dos\file_s-z\trivial\skull\177\virus.dos.trivial.skull.177  Infection: Trivial.177.B (exact) - Dropper
+u:\collection\dos\file_s-z\trivial\sloth\445\virus.dos.trivial.445  Infection: Trivial.445.B (exact)
+u:\collection\dos\file_s-z\trivial\sneaker\179\virus.dos.trivial.sneaker.179  Infection: Trivial.179.A (exact)
 u:\collection\dos\file_s-z\trivial\sped\101\sped.vom  Infection: Trivial.101.B (exact)
 u:\collection\dos\file_s-z\trivial\sped\101\t1.vxe  Infection: Trivial.101.B (exact)
 u:\collection\dos\file_s-z\trivial\sped\101\t3.vxe  Infection: Trivial.101.B (exact)
 u:\collection\dos\file_s-z\trivial\sped\101\t5.vxe  Infection: Trivial.101.B (exact)
 u:\collection\dos\file_s-z\trivial\sped\101\trace.vxe  Infection: Trivial.101.B (exact)
+u:\collection\dos\file_s-z\trivial\spl\412\virus.dos.trivial.spl.412  Infection: Trivial.412.A (exact) - Dropper
+u:\collection\dos\file_s-z\trivial\splinter\115\virus.dos.trivial.splinter.115  Infection: Trivial.115.C (exact)
+u:\collection\dos\file_s-z\trivial\splinter\165\virus.dos.sillyoc.165  Infection: Trivial.165.C (exact)
+u:\collection\dos\file_s-z\trivial\spooky\214\virus.dos.sillyoc.214  Infection: Trivial.214.B (exact)
 u:\collection\dos\file_s-z\trivial\stars\223\discstar.vom  Infection: Dstar.223
 u:\collection\dos\file_s-z\trivial\stars\407\greestar.vom  Infection: Dstar.407
 u:\collection\dos\file_s-z\trivial\stars\439\darkstar.vom  Infection: Dstar.439
-u:\collection\dos\file_s-z\trivial\t-1000\123\t-1000.vom  Infection: Simple_Minded.123
+u:\collection\dos\file_s-z\trivial\steel\136\a\virus.dos.trivial.steel.136.a  Infection: Trivial.136.A (exact)
+u:\collection\dos\file_s-z\trivial\steel\136\b\virus.dos.trivial.steel.136.b  Infection: Trivial.136.B (exact)
+u:\collection\dos\file_s-z\trivial\suxx\60\virus.dos.trivial.60.f  Infection: Trivial.163 (exact)
+u:\collection\dos\file_s-z\trivial\t-1000\123\a\t1.vom  Infection: Simple_Minded.123
+u:\collection\dos\file_s-z\trivial\t-1000\123\a\t3.vom  Infection: Simple_Minded.123
+u:\collection\dos\file_s-z\trivial\t-1000\123\a\virus.dos.trivial.123  Infection: Simple_Minded.123
+u:\collection\dos\file_s-z\trivial\t-1000\123\b\t3.vom  Infection: Simple_Minded.123
+u:\collection\dos\file_s-z\trivial\t-1000\123\b\virus.dos.trivial.123.b  Infection: Simple_Minded.123
+u:\collection\dos\file_s-z\trivial\t-1000\123\c\t-1000.vom  Infection: Simple_Minded.123
+u:\collection\dos\file_s-z\trivial\t-1000\123\c\t1.vom  Infection: Simple_Minded.123
+u:\collection\dos\file_s-z\trivial\t-1000\123\c\t3.vom  Infection: Simple_Minded.123
 u:\collection\dos\file_s-z\trivial\t-1000\128\v9035.vom  Infection: Simple_Minded.128
 u:\collection\dos\file_s-z\trivial\t-1300\t-1300.vom  Infection: Trivial.157 (exact)
 u:\collection\dos\file_s-z\trivial\t-1400\t-1400.vom  Infection: Trivial.346
@@ -32814,6 +33194,8 @@ u:\collection\dos\file_s-z\trivial\unknown\129\unk.vom  Infection: Trivial.129.A
 u:\collection\dos\file_s-z\trivial\vdl\383\mv383.vom  Infection: Trivial.383.A (exact)
 u:\collection\dos\file_s-z\trivial\vdl\383\t7.vom  Infection: Trivial.383.A (exact)
 u:\collection\dos\file_s-z\trivial\vdl\383\tf.vom  Infection: Trivial.383.A (exact)
+u:\collection\dos\file_s-z\trivial\viructive\199\virus.dos.sillyoc.199  Infection: Trivial.199
+u:\collection\dos\file_s-z\trivial\viructive\272\virus.dos.trivial.272  Infection: Trivial.272 (exact)
 u:\collection\dos\file_s-z\trivial\vootie\a\vootie.vom  Infection: Trivial.66.C (exact)
 u:\collection\dos\file_s-z\trivial\vootie\b\vootie.vom  Infection: Trivial.66.D (exact)
 u:\collection\dos\file_s-z\trivial\vootie\c\trivunkl.vom  Infection: Trivial.63.A (exact)
@@ -32832,11 +33214,15 @@ u:\collection\dos\file_s-z\trivial\wca\275\t3.vxe  Infection: Vofca.275 (exact)
 u:\collection\dos\file_s-z\trivial\wca\275\t5.vom  Infection: Vofca.275 (exact)
 u:\collection\dos\file_s-z\trivial\wca\275\t5.vxe  Infection: Vofca.275 (exact)
 u:\collection\dos\file_s-z\trivial\wca\275\wca.vom  Infection: Vofca.275 (exact)
-u:\collection\dos\file_s-z\trivial\wolverin\wolverin.vom  Infection: Trivial.202 (exact)
+u:\collection\dos\file_s-z\trivial\wolverine\a\wolverin.vom  Infection: Trivial.202 (exact)
+u:\collection\dos\file_s-z\trivial\wolverine\b\DUMP32.vom  Infection: Trivial.202.unknown?
+u:\collection\dos\file_s-z\trivial\wolverine\b\virus.dos.trivial.202  Infection: Trivial.202.unknown?
 u:\collection\dos\file_s-z\trivial\wraith\unke1825.vom  Infection: Trivial.64.C (exact)
 u:\collection\dos\file_s-z\trivial\ymir\101\ymir101.vom  Infection: Ymir.101 (exact)
 u:\collection\dos\file_s-z\trivial\ymir\144\ymi144b.vom  Infection: Ymir.144 (exact)
 u:\collection\dos\file_s-z\trivial\ymir\145\ymir141.vom  Infection: Ymir.145 (exact)
+u:\collection\dos\file_s-z\trivial\youlha\142\virus.dos.sillyoc.142  Infection: Trivial.142.B (exact)
+u:\collection\dos\file_s-z\trivial\youlha\144\virus.dos.sillyoc.144  Infection: Trivial.144.C (exact)
 u:\collection\dos\file_s-z\trivial\zigzag\127\a\doskey.vom  Infection: ZigZag.127.A (exact)
 u:\collection\dos\file_s-z\trivial\zigzag\127\a\t1.vom  Infection: ZigZag.127.A (exact)
 u:\collection\dos\file_s-z\trivial\zigzag\127\a\t3.vom  Infection: ZigZag.127.A (exact)
@@ -32852,6 +33238,7 @@ u:\collection\dos\file_s-z\trivial\zigzag\127\c\tf.vom  Infection: ZigZag.127.B 
 u:\collection\dos\file_s-z\trivial\zigzag\127\c\trv-127.vom  Infection: ZigZag.127.B (exact)
 u:\collection\dos\file_s-z\trivial\zigzag\127\c\trv127.vom  Infection: ZigZag.127.B (exact)
 u:\collection\dos\file_s-z\trivial\zigzag\127\c\wci04252.vom  Infection: ZigZag.127.B (exact)
+u:\collection\dos\file_s-z\trivial\zigzag\127\d\virus.dos.trivial.zz.127.b  Infection: Trivial.127.C (exact)
 u:\collection\dos\file_s-z\trivial\zigzag\232\a\t1.vom  Infection: ZigZag.232.A (exact)
 u:\collection\dos\file_s-z\trivial\zigzag\232\a\t3.vom  Infection: ZigZag.232.A (exact)
 u:\collection\dos\file_s-z\trivial\zigzag\232\a\t5.vom  Infection: ZigZag.232.A (exact)
@@ -32860,6 +33247,8 @@ u:\collection\dos\file_s-z\trivial\zigzag\232\b\t1.vom  Infection: ZigZag.232.B 
 u:\collection\dos\file_s-z\trivial\zigzag\232\b\t3.vom  Infection: ZigZag.232.B (exact)
 u:\collection\dos\file_s-z\trivial\zigzag\232\b\t6.vom  Infection: ZigZag.232.B (exact)
 u:\collection\dos\file_s-z\trivial\zigzag\232\b\zz-232.vom  Infection: ZigZag.232.B (exact)
+u:\collection\dos\file_s-z\trix\193\virus.dos.tricks.193  Infection: Trix.193 (exact)
+u:\collection\dos\file_s-z\triyanto\2234\virus.dos.triyanto.2234  Infection: Triyanto.2234 (exact)
 u:\collection\dos\file_s-z\trjp\junk.vom  Infection: Trjp.1067
 u:\collection\dos\file_s-z\troi\a\t1.vom  Infection: Troi.322.A (exact)
 u:\collection\dos\file_s-z\troi\a\t3.vom  Infection: Troi.322.A (exact)
@@ -32952,9 +33341,17 @@ u:\collection\dos\file_s-z\tron\b\t3.vom  Infection: Tron.754
 u:\collection\dos\file_s-z\tron\b\t5.vom  Infection: Tron.754
 u:\collection\dos\file_s-z\tron\b\t7.vom  Infection: Tron.754
 u:\collection\dos\file_s-z\tron\b\tronunk1.vom  Infection: Tron.754
+u:\collection\dos\file_s-z\tronspy\4528\virus.dos.tronspy.4528  Infection: Tronspy.4528
+u:\collection\dos\file_s-z\tronspy\5024\virus.dos.tornspy.5024  Infection: Tronspy.5024
+u:\collection\dos\file_s-z\trooper\2259\virus.dos.trooper.2259  Infection: Trooper.2259 (exact)
+u:\collection\dos\file_s-z\trout\6804\2trout.vom  Infection: Trout.6804 (exact)
+u:\collection\dos\file_s-z\trout\6804\2trout_.vom  Infection: Trout.6804 (exact)
+u:\collection\dos\file_s-z\trout\6804\virus.dos.trout2.6804  Infection: Trout.6804 (exact)
+u:\collection\dos\file_s-z\trust\687\virus.dos.trust.687  Infection: Trust.687 (exact)
 u:\collection\dos\file_s-z\truth\503\t7.vom  Infection: Truth.503 (exact)
 u:\collection\dos\file_s-z\truth\503\tf.vom  Infection: Truth.503 (exact)
 u:\collection\dos\file_s-z\truth\503\truth503.vom  Infection: Truth.503 (exact)
+u:\collection\dos\file_s-z\trux\1154\virus.dos.trux.1154  Infection: Trux.1154
 u:\collection\dos\file_s-z\trux\1291\t1.vom  Infection: Trux.1291
 u:\collection\dos\file_s-z\trux\1291\trux0239.vom  Infection: Trux.1291
 u:\collection\dos\file_s-z\trux\1464\t1.vom  Infection: Trux.1464
@@ -32962,11 +33359,15 @@ u:\collection\dos\file_s-z\trux\1464\t3.vom  Infection: Trux.1464
 u:\collection\dos\file_s-z\trux\1464\t5.vom  Infection: Trux.1464
 u:\collection\dos\file_s-z\trux\1464\t7.vom  Infection: Trux.1464
 u:\collection\dos\file_s-z\trux\1464\wci06282.vom  Infection: Trux.1464
+u:\collection\dos\file_s-z\trux\1472\virus.dos.trux.1472  Infection: Trux.1472
+u:\collection\dos\file_s-z\trux\1721\virus.dos.trux.1464  Infection: Trux.1721
+u:\collection\dos\file_s-z\trux\5147\virus.dos.trux-based  Infection: Trux.5147
 u:\collection\dos\file_s-z\try\1074\t1.vom  Infection: Try.1074
 u:\collection\dos\file_s-z\try\1074\t2.vom  Infection: Try.1074
 u:\collection\dos\file_s-z\try\1074\t3.vom  Infection: Try.1074
 u:\collection\dos\file_s-z\try\1074\t4.vom  Infection: Try.1074
 u:\collection\dos\file_s-z\try\1074\wci0477t.vom  Infection: Try.1074
+u:\collection\dos\file_s-z\try_me\624\tryme-0.vom  Infection: Try_me.624 (exact)
 u:\collection\dos\file_s-z\ts\1200\t1.vom  Infection: TS.1200
 u:\collection\dos\file_s-z\ts\1200\t1.vxe  Infection: TS.1200
 u:\collection\dos\file_s-z\ts\1200\t2.vom  Infection: TS.1200
@@ -33047,6 +33448,17 @@ u:\collection\dos\file_s-z\tsc\714\wci0479t.vom  Infection: Tsc.714
 u:\collection\dos\file_s-z\tsc\716\t7.vom  Infection: Tsc.716 (exact)
 u:\collection\dos\file_s-z\tsc\716\tc.vom  Infection: Tsc.716 (exact)
 u:\collection\dos\file_s-z\tsc\716\tsc716.vom  Infection: Tsc.716 (exact)
+u:\collection\dos\file_s-z\tsunami\2962\t1.vom  Infection: Tsunami.2961
+u:\collection\dos\file_s-z\tsunami\2962\t3.vom  Infection: Tsunami.2961
+u:\collection\dos\file_s-z\tsunami\2962\virus.dos.tsunami.2965.b  Infection: Tsunami.2961
+u:\collection\dos\file_s-z\tsunami\2966\a\DUMP32.vom  Infection: Tsunami.2966.A (exact)
+u:\collection\dos\file_s-z\tsunami\2966\a\virus.dos.tsunami.2965.a  Infection: Tsunami.2966.A (exact)
+u:\collection\dos\file_s-z\tsunami\2974\t3.vom  Infection: Tsunami.2965
+u:\collection\dos\file_s-z\tsunami\2974\virus.dos.tsunami.2974  Infection: Tsunami.2965
+u:\collection\dos\file_s-z\tsunami\3008\DUMP32.vom  Infection: Tsunami.3008
+u:\collection\dos\file_s-z\tsunami\3008\t1.vom  Infection: Tsunami.3008
+u:\collection\dos\file_s-z\tsunami\3008\t3.vom  Infection: Tsunami.3008
+u:\collection\dos\file_s-z\tsunami\3008\virus.dos.firestorm.3008  Infection: Tsunami.3008
 u:\collection\dos\file_s-z\ttq\1009\00012341.vom  Infection: TTQ.1009
 u:\collection\dos\file_s-z\ttq\1009\t1.vxe  Infection: TTQ.1009
 u:\collection\dos\file_s-z\ttq\1009\t3.vxe  Infection: TTQ.1009
@@ -33064,12 +33476,16 @@ u:\collection\dos\file_s-z\tu\482\2500\lwm.vom  Infection: TU.2500
 u:\collection\dos\file_s-z\tu\482\2500\mode.vom  Infection: TU.2500
 u:\collection\dos\file_s-z\tu\482\2500\more.vom  Infection: TU.2500
 u:\collection\dos\file_s-z\tu\482\2500\wci0481t.vom  Infection: TU.2500
+u:\collection\dos\file_s-z\tucuman\0828\virus.dos.tucuman.828  Infection: Tucuman.828 (exact)
+u:\collection\dos\file_s-z\tucuman\1408\virus.dos.tucuman.1408  Infection: Tucuman.1408 (exact)
 u:\collection\dos\file_s-z\tula\tula.vom  Infection: Tula.419 (exact)
-u:\collection\dos\file_s-z\tula-ii\t1.vom  Infection: Tula_II.1480
-u:\collection\dos\file_s-z\tula-ii\t1.vxe  Infection: Tula_II.1480
-u:\collection\dos\file_s-z\tula-ii\t3.vxe  Infection: Tula_II.1480
-u:\collection\dos\file_s-z\tula-ii\t5.vxe  Infection: Tula_II.1480
-u:\collection\dos\file_s-z\tula-ii\tul21480.vom  Infection: Tula_II.1480
+u:\collection\dos\file_s-z\tula-ii\1480\t1.vom  Infection: Tula_II.1480
+u:\collection\dos\file_s-z\tula-ii\1480\t1.vxe  Infection: Tula_II.1480
+u:\collection\dos\file_s-z\tula-ii\1480\t3.vxe  Infection: Tula_II.1480
+u:\collection\dos\file_s-z\tula-ii\1480\t5.vxe  Infection: Tula_II.1480
+u:\collection\dos\file_s-z\tula-ii\1480\tul21480.vom  Infection: Tula_II.1480
+u:\collection\dos\file_s-z\tula-ii\1540\virus.dos.tula.1540  Infection: Tula_II.1540
+u:\collection\dos\file_s-z\tula-ii\1656\virus.dos.tula.1656  Infection: Tula_II.1656
 u:\collection\dos\file_s-z\tula96\1997\t7.vom  Infection: Redar.1997
 u:\collection\dos\file_s-z\tula96\1997\tf.vom  Infection: Redar.1997
 u:\collection\dos\file_s-z\tula96\1997\tul1997.vom  Infection: Redar.1997
@@ -33083,16 +33499,20 @@ u:\collection\dos\file_s-z\tumen\1242\t3.vom  Infection: Tumen.1242 (exact)
 u:\collection\dos\file_s-z\tumen\1242\t5.vom  Infection: Tumen.1242 (exact)
 u:\collection\dos\file_s-z\tumen\1242\t7.vom  Infection: Tumen.1242 (exact)
 u:\collection\dos\file_s-z\tumen\1242\tum1242.vom  Infection: Tumen.1242 (exact)
-u:\collection\dos\file_s-z\tumen\1255\t1.vom  Infection: Tumen.1255.A (exact)
-u:\collection\dos\file_s-z\tumen\1255\t3.vom  Infection: Tumen.1255.A (exact)
-u:\collection\dos\file_s-z\tumen\1255\t5.vom  Infection: Tumen.1255.A (exact)
-u:\collection\dos\file_s-z\tumen\1255\t7.vom  Infection: Tumen.1255.A (exact)
-u:\collection\dos\file_s-z\tumen\1255\tumen1_2.vom  Infection: Tumen.1255.A (exact)
+u:\collection\dos\file_s-z\tumen\1255\a\t1.vom  Infection: Tumen.1255.A (exact)
+u:\collection\dos\file_s-z\tumen\1255\a\t3.vom  Infection: Tumen.1255.A (exact)
+u:\collection\dos\file_s-z\tumen\1255\a\t5.vom  Infection: Tumen.1255.A (exact)
+u:\collection\dos\file_s-z\tumen\1255\a\t7.vom  Infection: Tumen.1255.A (exact)
+u:\collection\dos\file_s-z\tumen\1255\a\tumen1_2.vom  Infection: Tumen.1255.A (exact)
+u:\collection\dos\file_s-z\tumen\1255\b\tumen1_2.vom  Infection: Tumen.1255.B (exact)
 u:\collection\dos\file_s-z\tumen\1663\t1.vom  Infection: Tumen.1663.A (exact)
 u:\collection\dos\file_s-z\tumen\1663\t3.vom  Infection: Tumen.1663.A (exact)
 u:\collection\dos\file_s-z\tumen\1663\t5.vom  Infection: Tumen.1663.A (exact)
 u:\collection\dos\file_s-z\tumen\1663\t7.vom  Infection: Tumen.1663.A (exact)
 u:\collection\dos\file_s-z\tumen\1663\tumenv05.vom  Infection: Tumen.1663.A (exact)
+u:\collection\dos\file_s-z\tune\663\b\virus.dos.tune.663  Infection: Tune.663.B (exact)
+u:\collection\dos\file_s-z\tunneler\811\virus.dos.tunnel.811  Infection: Tunneler.811 (exact)
+u:\collection\dos\file_s-z\tunneler\823\virus.dos.tunnel.823  Infection: Tunneler.823
 u:\collection\dos\file_s-z\tupac\1308\t7.vom  Infection: Tupac.1308
 u:\collection\dos\file_s-z\tupac\1308\tupa1308.vom  Infection: Tupac.1308
 u:\collection\dos\file_s-z\tupac\1308\tupac.vom  Infection: Tupac.1308
@@ -33113,6 +33533,7 @@ u:\collection\dos\file_s-z\turn\571\t3.vom  Infection: Turn.571
 u:\collection\dos\file_s-z\turn\571\t5.vom  Infection: Turn.571
 u:\collection\dos\file_s-z\turn\571\wci0491t.vom  Infection: Turn.571
 u:\collection\dos\file_s-z\turner\3276\wci0660t.vom  Infection: Turner.3276
+u:\collection\dos\file_s-z\tutanchamun\1034\virus.dos.tutan.1034  Infection: Tutanchamun.1034
 u:\collection\dos\file_s-z\tv\720\virus.dos.tv.720  Infection: TV.720 (exact)
 u:\collection\dos\file_s-z\tv\730\ontar730.vom  Infection: TV.730 (exact)
 u:\collection\dos\file_s-z\tv\730\t1.vom  Infection: TV.730 (exact)
@@ -33130,6 +33551,11 @@ u:\collection\dos\file_s-z\tved\puppy\782\00012320.vom  Infection: Trivial.840
 u:\collection\dos\file_s-z\tved\puppy\782\00012321.vom  Infection: Trivial.840
 u:\collection\dos\file_s-z\tved\puppy\782\00012322.vom  Infection: Trivial.840
 u:\collection\dos\file_s-z\tved\puppy\782\trurl.vom  Infection: Trivial.840
+u:\collection\dos\file_s-z\tved\sunsoft\798\t1.vom  Infection: TVED.798
+u:\collection\dos\file_s-z\tved\sunsoft\798\t3.vom  Infection: TVED.798
+u:\collection\dos\file_s-z\tved\sunsoft\798\virus.dos.tved.798  Infection: TVED.798
+u:\collection\dos\file_s-z\tved\test\770\TEST.vom  Infection: TVED.770 (exact)
+u:\collection\dos\file_s-z\tved\test\770\wci00314.vom  Infection: TVED.770 (exact)
 u:\collection\dos\file_s-z\tved\trurl\789\demovir.vom  Infection: TVED.780
 u:\collection\dos\file_s-z\tved\trurl\789\t1.vom  Infection: TVED.780
 u:\collection\dos\file_s-z\tved\trurl\789\t10.vom  Infection: TVED.780
@@ -33141,6 +33567,7 @@ u:\collection\dos\file_s-z\tved\trurl\789\t6.vom  Infection: TVED.780
 u:\collection\dos\file_s-z\tved\trurl\789\t7.vom  Infection: TVED.780
 u:\collection\dos\file_s-z\tved\trurl\789\t8.vom  Infection: TVED.780
 u:\collection\dos\file_s-z\tved\trurl\789\t9.vom  Infection: TVED.780
+u:\collection\dos\file_s-z\tved\trurl\791\virus.dos.tved.trurl.792  Infection: TVED.791 (exact)
 u:\collection\dos\file_s-z\tver\0308\tver308.vom  Infection: Tver.308
 u:\collection\dos\file_s-z\tver\0532\a\wci0494t.vxe  Infection: Tver.532.A (exact)
 u:\collection\dos\file_s-z\tver\0532\b\t2.vxe  Infection: Tver.532.B (exact)
@@ -48206,14 +48633,14 @@ u:\collection\wince\trojan\brador\a\WinCE.Brador.vxe  is a security risk named W
 
 Results of virus scanning:
 
-Files: 77720
+Files: 78140
 MBRs: 0
 Boot sectors: 0
-Objects scanned: 71196
-Infected: 47749
-Suspicious: 434
+Objects scanned: 71615
+Infected: 48177
+Suspicious: 433
 Disinfected: 0
 Deleted: 0
 Renamed: 0
 
-Time: 2:24
+Time: 2:36
