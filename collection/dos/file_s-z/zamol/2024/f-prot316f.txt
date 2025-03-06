@@ -1,0 +1,52 @@
+Virus scanning report  -  4 March 2025 @ 16:23
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\1-za2024.vom  Infection: Timisoara.2003
+u:\1-za2024.vxe  Infection: Timisoara.2003
+u:\2-za2024.vom  Infection: Timisoara.2003
+u:\2-za2024.vxe  Infection: Timisoara.2003
+u:\3-za2024.vom  Infection: Timisoara.2003
+u:\3-za2024.vxe  Infection: Timisoara.2003
+u:\fire2024.vom  Infection: Timisoara.2003
+u:\fire2024.vxe  Infection: Timisoara.2003
+u:\m1.vom  Infection: Timisoara.2003
+u:\m1.vxe  Infection: Timisoara.2003
+u:\m2.vom  Infection: Timisoara.2003
+u:\m3.vom  Infection: Timisoara.2003
+u:\m4.vom  Infection: Timisoara.2003
+u:\m5.vom  Infection: Timisoara.2003
+u:\m6.vom  Infection: Timisoara.2003
+u:\m7.vom  Infection: Timisoara.2003
+u:\t1.vom  Infection: Timisoara.2003
+u:\t1.vxe  Infection: Timisoara.2003
+u:\t2.vom  Infection: Timisoara.2003
+u:\t2.vxe  Infection: Timisoara.2003
+
+Results of virus scanning:
+
+Files: 22
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 22
+Infected: 20
+Suspicious: 0
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00
