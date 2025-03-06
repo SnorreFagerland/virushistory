@@ -1,4 +1,4 @@
-Virus scanning report  -  11 February 2025 @ 21:16
+Virus scanning report  -  6 March 2025 @ 22:20
 
 F-PROT ANTIVIRUS
 Program version: 3.16f
@@ -407,6 +407,7 @@ u:\collection\dos\boot\nutcracker\ab7\2000\a\virus.boot-dos.nutcracker.ab7.2000.
 u:\collection\dos\boot\nutcracker\d\virus_2443.vir  Infection: Nutcracker.D image file
 u:\collection\dos\boot\nyb\a\B1.boo  Infection: NYB.A image file (exact)
 u:\collection\dos\boot\one_half\3486\Virus.DOS.OneHalf.boo  Infection: One_Half.3486 image file
+u:\collection\dos\boot\one_half\3551\virus.dos.onehalf.3551  Infection: Time.3551 image file (exact)
 u:\collection\dos\boot\one_half\35xx\c\onehalf.boo  Infection: One_Half.35xx.C image file (exact)
 u:\collection\dos\boot\ontario\2048\fab93202.boo  Infection: Ontario.2048 image file (exact)
 u:\collection\dos\boot\parity_boot\a\genb.boo  Infection: Parity_Boot.A image file (exact)
@@ -618,14 +619,19 @@ u:\collection\dos\boot\stoned\volga\h\volgah.boo  Infection: Stoned.Volga.H imag
 u:\collection\dos\boot\stoned\x\stonedcx.boo  Infection: Stoned.X image file (exact)
 u:\collection\dos\boot\stoned\z (dbas)\stondbas.boo  Infection: Stoned.Z image file (exact)
 u:\collection\dos\boot\strange\strange.boo  Infection: Strange.A image file (bad sample) (exact)
+u:\collection\dos\boot\svsa\a\wci01452.bin  Infection: SVSA.A image file (exact)
 u:\collection\dos\boot\svsa\b\wci05653.boo  Infection: SVSA.B image file (exact)
 u:\collection\dos\boot\swiss_boot\swiss_ba.boo  Infection: Swiss_Boot.A image file (exact)
 u:\collection\dos\boot\tanko\abcda.boo  Infection: Tanko image file (exact)
+u:\collection\dos\boot\tchechen\1912\virus.dos.tchechen.1912  Infection: Tchechen.19xx image file
+u:\collection\dos\boot\tchechen\3420\virus.dos.tchechen.3420  Infection: Tchechen.A image file (exact)
+u:\collection\dos\boot\tchechen\3564\virus.dos.tchechen.3564  Infection: Tchechen.3564 image file
 u:\collection\dos\boot\tequila\teq_prt.boo  Infection: Tequila.2468 image file (exact)
 u:\collection\dos\boot\thanksgiving\1253\c8e1ee5c.boo  Infection: Thanksgiving.1253 image file (exact)
 u:\collection\dos\boot\tiddler\virus.boot.tiddler  Infection: Tiddler image file (exact)
 u:\collection\dos\boot\tomalak\tomalak.boo  Infection: Tomalak image file (exact)
 u:\collection\dos\boot\tony_boot\a\tonyb-a.boo  Infection: Tony_Boot.A image file (exact)
+u:\collection\dos\boot\triboo\199\trojan.dos.killhdd.g  Infection: Triboo.199 image file (exact)
 u:\collection\dos\boot\twoj\b\virus.boot-dos.boo  Infection: Twoj.B image file (exact)
 u:\collection\dos\boot\unashamed\unashame.boo  Infection: Unashamed.B image file (exact)
 u:\collection\dos\boot\ungra\4065\virus.boot-dos.hongkong.4056  Infection: Ungra.4065 image file (exact)
@@ -2641,6 +2647,11 @@ u:\collection\dos\file_a-d\boso\1636\virus.dos.boso.1636  Infection: Boso.1636
 u:\collection\dos\file_a-d\bowl\135\Virus.DOS.SillyC.135  Infection: Bowl.135 (exact)
 u:\collection\dos\file_a-d\bowl\737\bowl737b.vom  Infection: Bowl.737
 u:\collection\dos\file_a-d\bowl\742\virus.dos.bowl.742  Infection: Bowl.742
+u:\collection\dos\file_a-d\bowl\754\bowl754.vom  Infection: Toilet.754
+u:\collection\dos\file_a-d\bowl\754\virus.dos.bowl.754  Infection: Toilet.754
+u:\collection\dos\file_a-d\bowl\756\bowl756.vom  Infection: Toilet.756
+u:\collection\dos\file_a-d\bowl\756\virus.dos.bowl.756  Infection: Toilet.756
+u:\collection\dos\file_a-d\bowl\757\virus.dos.bowl.757  Infection: Toilet.756
 u:\collection\dos\file_a-d\boys\500\BOYS2.vom  Infection: Boys.500 (exact)
 u:\collection\dos\file_a-d\bpu\2269\virus.dos.bpu.2269  Infection: Bpu.2269
 u:\collection\dos\file_a-d\bpu\2338\virus.dos.bpu.2345  Infection: Bpu.2338
@@ -5941,6 +5952,8 @@ u:\collection\dos\file_a-d\creeper\252\t4.vom  Infection: Creeper.252 (exact)
 u:\collection\dos\file_a-d\creeper\252\t5.vom  Infection: Creeper.252 (exact)
 u:\collection\dos\file_a-d\creeper\252\t6.vom  Infection: Creeper.252 (exact)
 u:\collection\dos\file_a-d\creeper\252\zmt-252.vom  Infection: Creeper.252 (exact)
+u:\collection\dos\file_a-d\creeper\294\a\virus.dos.tormentor.294  Infection: Creeper.294 (exact)
+u:\collection\dos\file_a-d\creeper\294\b\virus.dos.tormentor.294.b  Infection: Tormentor.294 (exact)
 u:\collection\dos\file_a-d\creeper\297\a\virus.dos.tormentor.297  Infection: Creeper.297.A (exact)
 u:\collection\dos\file_a-d\creeper\425\creepe~3.vom  Infection: Creeper.425 (exact)
 u:\collection\dos\file_a-d\creeper\425\t1.vom  Infection: Creeper.425 (exact)
@@ -12725,6 +12738,8 @@ u:\collection\dos\file_e-j\goma\0892\virus.dos.goma.892  Infection: Goma.892 (ex
 u:\collection\dos\file_e-j\goma\0896\virus.dos.goma.896  Infection: Goma.896
 u:\collection\dos\file_e-j\goma\0985\virus.dos.goma.985  Infection: Goma.985 (exact)
 u:\collection\dos\file_e-j\goma\1338\virus.dos.goma.1338  Infection: Goma.1338 (exact)
+u:\collection\dos\file_e-j\goma\1343\virus.dos.goma.1343  Infection: TDG.1343 (exact)
+u:\collection\dos\file_e-j\goma\1344\goma1344-0.vom  Infection: TDG.1344 (exact)
 u:\collection\dos\file_e-j\goma\1370\virus.dos.goma.1370  Infection: Goma.1370
 u:\collection\dos\file_e-j\goma\1524\virus.dos.goma.1524  Infection: Goma.1524 (exact)
 u:\collection\dos\file_e-j\goma\1551\unknown\cabinfo.vxe  Infection: Goma.1551.unknown?
@@ -20275,20 +20290,26 @@ u:\collection\dos\file_k-r\malatine\3737\mala3737.vom  Infection: Malatinec.3737
 u:\collection\dos\file_k-r\malatine\3737\mala3737.vxe  Infection: Malatinec.3737
 u:\collection\dos\file_k-r\malatine\3737\t2.vom  Infection: Malatinec.3737
 u:\collection\dos\file_k-r\malatine\3737\t3.vom  Infection: Malatinec.3737
-u:\collection\dos\file_k-r\malice\a\malicea.vom  Infection: Tridow.4095.B (exact)
-u:\collection\dos\file_k-r\malice\a\malicea.vxe  Infection: Tridow.4095.B (exact)
-u:\collection\dos\file_k-r\malice\a\wcio2981.vom  Infection: Tridow.4095.B (exact)
-u:\collection\dos\file_k-r\malice\b\maliceb.vom  Infection: Tridow.4095.D (exact)
-u:\collection\dos\file_k-r\malice\b\wcioo671.vom  Infection: Tridow.4095.D (exact)
+u:\collection\dos\file_k-r\malice\b\malicea.vom  Infection: Tridow.4095.B (exact)
+u:\collection\dos\file_k-r\malice\b\malicea.vxe  Infection: Tridow.4095.B (exact)
+u:\collection\dos\file_k-r\malice\b\wcio2981.vom  Infection: Tridow.4095.B (exact)
 u:\collection\dos\file_k-r\malice\c\wci01541.vom  Infection: Tridow.4095.C (exact)
 u:\collection\dos\file_k-r\malice\c\wci01541.vxe  Infection: Tridow.4095.C (exact)
-u:\collection\dos\file_k-r\malice\d\wci0428s.vom  Infection: Tridow.4095.G (exact)
-u:\collection\dos\file_k-r\malice\e\spri4095.vom  Infection: Sprig.4095 (exact)
-u:\collection\dos\file_k-r\malice\e\spri4095.vxe  Infection: Sprig.4095 (exact)
-u:\collection\dos\file_k-r\malice\e\t1.vom  Infection: Sprig.4095 (exact)
+u:\collection\dos\file_k-r\malice\d\maliceb.vom  Infection: Tridow.4095.D (exact)
+u:\collection\dos\file_k-r\malice\d\wcioo671.vom  Infection: Tridow.4095.D (exact)
+u:\collection\dos\file_k-r\malice\e\mali304.vxe  Infection: Tridow.4095.E (exact)
+u:\collection\dos\file_k-r\malice\e\tf.vxe  Infection: Tridow.4095.E (exact)
 u:\collection\dos\file_k-r\malice\f\mali304.vom  Infection: Tridow.4095.F (exact)
-u:\collection\dos\file_k-r\malice\f\mali304.vxe  Infection: Tridow.4095.E (exact)
-u:\collection\dos\file_k-r\malice\f\tf.vxe  Infection: Tridow.4095.E (exact)
+u:\collection\dos\file_k-r\malice\g\wci0428s.vom  Infection: Tridow.4095.G (exact)
+u:\collection\dos\file_k-r\malice\h\virus.dos.sillyoe.fff.b  Infection: Tridow.4095.H (exact)
+u:\collection\dos\file_k-r\malice\i\spri4095.vom  Infection: Sprig.4095 (exact)
+u:\collection\dos\file_k-r\malice\i\spri4095.vxe  Infection: Sprig.4095 (exact)
+u:\collection\dos\file_k-r\malice\i\t1.vom  Infection: Sprig.4095 (exact)
+u:\collection\dos\file_k-r\malice\j\cabinfo.vxe  Infection: Tridow.4095.unknown?
+u:\collection\dos\file_k-r\malice\j\EXTRACT.vxe  Infection: Tridow.4095.unknown?
+u:\collection\dos\file_k-r\malice\j\TLINK.vxe  Infection: Tridow.4095.unknown?
+u:\collection\dos\file_k-r\malice\j\trid4095.vom  Infection: Tridow.4095.unknown?
+u:\collection\dos\file_k-r\malice\j\unp.vxe  Infection: Tridow.4095.unknown?
 u:\collection\dos\file_k-r\malign\575\malign~1.vom  Infection: Malign.575
 u:\collection\dos\file_k-r\malign\630\malign~2.vom  Infection: Malign.630
 u:\collection\dos\file_k-r\malms_ii\malm1703.vxe  Infection: MalmseyII.1703
@@ -22221,6 +22242,7 @@ u:\collection\dos\file_k-r\neko\2690\neko2.vxe  Infection: Neko.2690
 u:\collection\dos\file_k-r\neko\2690\neko2697.vxe  Infection: Neko.2690
 u:\collection\dos\file_k-r\neumann\752\wci0036n.vom  Infection: Neumann.752.A (exact)
 u:\collection\dos\file_k-r\neuroqui\a\neuroqui.vxe  Infection: Neuroquila.4544.A (exact)
+u:\collection\dos\file_k-r\neuroqui\b\neurob~1.vxe  Infection: Neuroquila.4544.B (exact)
 u:\collection\dos\file_k-r\neuroqui\b\neuroq.vxe  Infection: Neuroquila.4544.B (exact)
 u:\collection\dos\file_k-r\neuroqui\b\nq_adc.vxe  Infection: Neuroquila.4544.B (exact)
 u:\collection\dos\file_k-r\neuroqui\b\nq_add.vxe  Infection: Neuroquila.4544.B (exact)
@@ -22232,8 +22254,7 @@ u:\collection\dos\file_k-r\neuroqui\b\nq_sbb.vxe  Infection: Neuroquila.4544.B (
 u:\collection\dos\file_k-r\neuroqui\b\nq_sbb2.vxe  Infection: Neuroquila.4544.B (exact)
 u:\collection\dos\file_k-r\neuroqui\b\nq_sub.vxe  Infection: Neuroquila.4544.B (exact)
 u:\collection\dos\file_k-r\neuroqui\b\nq_xor.vxe  Infection: Neuroquila.4544.B (exact)
-u:\collection\dos\file_k-r\neuroqui\b\wci00534.vxe  Infection: Neuroquila.4544.C (exact)
-u:\collection\dos\file_k-r\neuroqui\c\neurob~1.vxe  Infection: Neuroquila.4544.B (exact)
+u:\collection\dos\file_k-r\neuroqui\c\wci00534.vxe  Infection: Neuroquila.4544.C (exact)
 u:\collection\dos\file_k-r\never\1000\nevr1000.vom  Infection: Never.1000
 u:\collection\dos\file_k-r\never\1000\nevr1000.vxe  Infection: Never.1000
 u:\collection\dos\file_k-r\never\1000\t2.vxe  Infection: Never.1000
@@ -23566,6 +23587,7 @@ u:\collection\dos\file_k-r\nuker\entity\1986\t6.vom  Infection: Entity.1986
 u:\collection\dos\file_k-r\nuker\entity\1986\t6.vxe  Infection: Entity.1986
 u:\collection\dos\file_k-r\nuker\entity\1986\t7.vom  Infection: Entity.1986
 u:\collection\dos\file_k-r\nuker\entity\1986\t8.vom  Infection: Entity.1986
+u:\collection\dos\file_k-r\nuker\syndrome\1485\virus.dos.nuker.syndrome.1485  Infection: Syndrome.1485 (exact)
 u:\collection\dos\file_k-r\nuker\trance\1677\t1.vom  Infection: Trance.1677
 u:\collection\dos\file_k-r\nuker\trance\1677\t3.vom  Infection: Trance.1677
 u:\collection\dos\file_k-r\nuker\trance\1677\t4.vom  Infection: Trance.1677
@@ -28340,6 +28362,7 @@ u:\collection\dos\file_s-z\sdfe\californ\5976\t2.vom  Infection: ZhugeLiang.5976
 u:\collection\dos\file_s-z\sdfe\californ\5976\t3.vom  Infection: ZhugeLiang.5976.C
 u:\collection\dos\file_s-z\sdfe\californ\5976\t4.vom  Infection: ZhugeLiang.5976.C
 u:\collection\dos\file_s-z\sdfe\californ\5976\t5.vom  Infection: ZhugeLiang.5976.C
+u:\collection\dos\file_s-z\sdfe\terrax\2874\virus.dos.terrax.2874  Infection: Terrax.2874#SDFE (exact)
 u:\collection\dos\file_s-z\sdfe\zhuge\4784\zhige.vxe  Infection: ZhugeLiang.4784
 u:\collection\dos\file_s-z\sdfe\zhuge\4784\zhug4784.vom  Infection: ZhugeLiang.4784
 u:\collection\dos\file_s-z\sdfe\zhuge\4784\zhug4784.vxe  Infection: ZhugeLiang.4784
@@ -29270,10 +29293,6 @@ u:\collection\dos\file_s-z\sink\512\sink512.vom  Infection: Dinasoft.512 (exact)
 u:\collection\dos\file_s-z\sink\512\t7.vom  Infection: Dinasoft.512 (exact)
 u:\collection\dos\file_s-z\sirius\0270\wci0301s.vom  Infection: Sirius.270
 u:\collection\dos\file_s-z\sirius\0279\wci02112.vom  Infection: Sirius.279.A (exact)
-u:\collection\dos\file_s-z\sirius\0335\sir-335.vom  Infection: Sirius.335.A (exact)
-u:\collection\dos\file_s-z\sirius\0335\t7.vom  Infection: Sirius.335.A (exact)
-u:\collection\dos\file_s-z\sirius\0337\sir-337.vom  Infection: Sirius.337 (exact)
-u:\collection\dos\file_s-z\sirius\0337\t1.vom  Infection: Sirius.337 (exact)
 u:\collection\dos\file_s-z\sirius\0361\wci0302s.vom  Infection: Sirius.361.A (exact)
 u:\collection\dos\file_s-z\sirius\0365\hell365.vom  Infection: Sirius.365 (exact)
 u:\collection\dos\file_s-z\sirius\0365\wci01782.vom  Infection: Sirius.365 (exact)
@@ -30499,6 +30518,7 @@ u:\collection\dos\file_s-z\sw\236\t4.vom  Infection: SillyC.236.A (exact)
 u:\collection\dos\file_s-z\sw\236\t5.vom  Infection: SillyC.236.A (exact)
 u:\collection\dos\file_s-z\sw\236\t6.vom  Infection: SillyC.236.A (exact)
 u:\collection\dos\file_s-z\sw\236\t7.vom  Infection: SillyC.236.A (exact)
+u:\collection\dos\file_s-z\sw\504\virus.dos.sw.504  Infection: Sw.504 (exact)
 u:\collection\dos\file_s-z\swapper\746\swap.vxe  Infection: Swapper.746 - Dropper
 u:\collection\dos\file_s-z\swapper\746\swapp746.vom  Infection: Swapper.746
 u:\collection\dos\file_s-z\swapper\746\t1.vom  Infection: Swapper.746
@@ -30525,14 +30545,18 @@ u:\collection\dos\file_s-z\swapper\748\t7.vom  Infection: Swapper.748
 u:\collection\dos\file_s-z\swapper\748\t8.vom  Infection: Swapper.748
 u:\collection\dos\file_s-z\swapper\748\t9.vom  Infection: Swapper.748
 u:\collection\dos\file_s-z\swastika\442\wci0649s.vom  Infection: Swash.442 (exact)
-u:\collection\dos\file_s-z\swedboys\datamole\538.vom  Infection: Swedish_Boys.538
-u:\collection\dos\file_s-z\swedboys\datamole\v9385.vom  is a security risk or a "backdoor" program
-u:\collection\dos\file_s-z\swedboys\headache\441\swe441a.vom  Infection: Swedish_Boys.441.A (exact)
-u:\collection\dos\file_s-z\swedboys\headache\457\headache.vom  Infection: Swedish_Boys.457 (exact)
-u:\collection\dos\file_s-z\swedboys\headache\457\v9390.vom  Infection: Swedish_Boys.457 (exact)
-u:\collection\dos\file_s-z\swedboys\why_wind\sbww.vom  Infection: Swedish_Boys.459.A (exact)
-u:\collection\dos\file_s-z\swedboys\why_wind\v9395.vom  Infection: Swedish_Boys.459.A (exact)
-u:\collection\dos\file_s-z\swedboys\why_wind\ww.vom  Infection: Swedish_Boys.459.unknown?
+u:\collection\dos\file_s-z\swedish_boys\datamole\538.vom  Infection: Swedish_Boys.538
+u:\collection\dos\file_s-z\swedish_boys\datamole\v9385.vom  is a security risk or a "backdoor" program
+u:\collection\dos\file_s-z\swedish_boys\headache\441\swe441a.vom  Infection: Swedish_Boys.441.A (exact)
+u:\collection\dos\file_s-z\swedish_boys\headache\457\headache.vom  Infection: Swedish_Boys.457 (exact)
+u:\collection\dos\file_s-z\swedish_boys\headache\457\v9390.vom  Infection: Swedish_Boys.457 (exact)
+u:\collection\dos\file_s-z\swedish_boys\why_wind\ww.vom  Infection: Swedish_Boys.459.unknown?
+u:\collection\dos\file_s-z\swedish_boys\why_wind\a\sbww.vom  Infection: Swedish_Boys.459.A (exact)
+u:\collection\dos\file_s-z\swedish_boys\why_wind\a\v9395.vom  Infection: Swedish_Boys.459.A (exact)
+u:\collection\dos\file_s-z\swedish_boys\why_wind\b\betaboys.maz.459  Infection: Swedish_Boys.459.B (exact)
+u:\collection\dos\file_s-z\swedish_boys\why_wind\c\virus.dos.zahak.906  Infection: Swedish_Boys.459.C (exact)
+u:\collection\dos\file_s-z\swedish_boys\why_wind\d\virus.dos.betaboys.459.b  Infection: Swedish_Boys.459.D (exact)
+u:\collection\dos\file_s-z\swedish_boys\why_wind\e\virus.dos.betaboys.maz.459.b  Infection: Swedish_Boys.459.E (exact)
 u:\collection\dos\file_s-z\swin\3000\a\1-s3000a.vom  Infection: Swine.3000.A
 u:\collection\dos\file_s-z\swin\3000\a\1-s3000a.vxe  Infection: Swine.3000.A
 u:\collection\dos\file_s-z\swin\3000\a\2-s3000a.vom  Infection: Swine.3000.A
@@ -30550,19 +30574,23 @@ u:\collection\dos\file_s-z\swin\3000\b\swi3000b.vxe  Infection: Swine.3000.B
 u:\collection\dos\file_s-z\swin\3000\b\t1.vom  Infection: Swine.3000.B
 u:\collection\dos\file_s-z\swin\3000\b\t1.vxe  Infection: Swine.3000.B
 u:\collection\dos\file_s-z\swin\3000\b\t2.vxe  Infection: Swine.3000.B
-u:\collection\dos\file_s-z\swiss\143\v9400.vom  Infection: Swiss-143.143 (exact)
-u:\collection\dos\file_s-z\swiss\921\wci0654s.vom  Infection: Swiss.921
-u:\collection\dos\file_s-z\swiss\957\Virus.DOS.Mephisto.957  Infection: Swiss.957 (exact)
-u:\collection\dos\file_s-z\swiss\969.int\Virus.DOS.Mephisto.969  Infection: New or modified variant of Swiss
+u:\collection\dos\file_s-z\swiss\0143\v9400.vom  Infection: Swiss-143.143 (exact)
+u:\collection\dos\file_s-z\swiss\0921\wci0654s.vom  Infection: Swiss.921
+u:\collection\dos\file_s-z\swiss\0949\virus.dos.mephisto.949  Infection: Swiss.949 (exact)
+u:\collection\dos\file_s-z\swiss\0957\Virus.DOS.Mephisto.957  Infection: Swiss.957 (exact)
+u:\collection\dos\file_s-z\swiss\0969.int\Virus.DOS.Mephisto.969  Infection: New or modified variant of Swiss
+u:\collection\dos\file_s-z\swiss\1239\virus.dos.mephisto.1239  Infection: Swiss.1239
 u:\collection\dos\file_s-z\swisspho\phoenix.vxe  Infection: Swiss_Phoenix.927
 u:\collection\dos\file_s-z\swisspho\sw-phoen.vxe  Infection: Swiss_Phoenix.927
 u:\collection\dos\file_s-z\switch\switch.vom  Infection: Switch.855
+u:\collection\dos\file_s-z\swizzlestyx\666\burma666.vom  Infection: SwizzleStyx.666
 u:\collection\dos\file_s-z\sword\a\swo794a0.vom  Infection: Sword.794.A (exact)
 u:\collection\dos\file_s-z\sword\a\sword.vom  Infection: Sword.794.A (exact)
 u:\collection\dos\file_s-z\sword\a\sword.vxe  Infection: Sword.794.A (exact)
 u:\collection\dos\file_s-z\sword\b\swordb.vxe  Infection: Sword.794.B (exact)
 u:\collection\dos\file_s-z\sword\b\swrd794b.vxe  Infection: Sword.794.B (exact)
 u:\collection\dos\file_s-z\sword\c\swrd794c.vxe  Infection: Sword.794.C (exact)
+u:\collection\dos\file_s-z\sworm\470\virus.dos.tapus.470  Infection: Sworm.470
 u:\collection\dos\file_s-z\sylvia\1321\sylvia.vom  Infection: Sylvia.1321
 u:\collection\dos\file_s-z\sylvia\1321\sylvia~5.vom  Infection: Sylvia.1321
 u:\collection\dos\file_s-z\sylvia\1332\a\holland.vom  Infection: Sylvia.1332.A (exact)
@@ -30573,13 +30601,22 @@ u:\collection\dos\file_s-z\sylvia\1332\c\sylvia3.vom  Infection: Sylvia.1332.C (
 u:\collection\dos\file_s-z\sylvia\1332\d\sylvia-2.vom  is a corrupted or intended virus
 u:\collection\dos\file_s-z\sylvia\1332\e\sylvia-c.vom  Infection: Sylvia.1332.E (exact)
 u:\collection\dos\file_s-z\sylvia\1332\f\sylvia~4.vom  Infection: Sylvia.1332.F (exact)
-u:\collection\dos\file_s-z\sylvia\1332\g\holl-b.vom  Infection: Sylvia.1332.I (exact)
-u:\collection\dos\file_s-z\sylvia\1332\hongkong\hongkong.vom  Infection: Sylvia.1332.H
-u:\collection\dos\file_s-z\sylvia\1332\kranz\v9430.vom  Infection: Sylvia.1332.G
+u:\collection\dos\file_s-z\sylvia\1332\g (kranz)\v9430.vom  Infection: Sylvia.1332.G
+u:\collection\dos\file_s-z\sylvia\1332\h (hongkong)\hongkong.vom  Infection: Sylvia.1332.H
+u:\collection\dos\file_s-z\sylvia\1332\i\holl-b.vom  Infection: Sylvia.1332.I (exact)
+u:\collection\dos\file_s-z\sylvia\1332\j\virus.dos.sylvia.1332.j  Infection: Sylvia.1332.J (exact)
+u:\collection\dos\file_s-z\sylvia\1332\k\sylv1332k0.vom  Infection: Sylvia.1332.K (exact)
 u:\collection\dos\file_s-z\sylwia\734\wci0671s.vom  Infection: Sylwia.734
 u:\collection\dos\file_s-z\synergy\synergy.vom  Infection: Synergy.288
 u:\collection\dos\file_s-z\syrian\241\241.vom  Infection: Syrian.241
+u:\collection\dos\file_s-z\syrian\296\virus.dos.fcruncher.296  Infection: Syrian.296
 u:\collection\dos\file_s-z\syrian\412\412.vom  Infection: Syrian.412
+u:\collection\dos\file_s-z\sysintended\960\virus.dos.cs.960  Infection: Sysintended.960
+u:\collection\dos\file_s-z\syskill\290\a\syskill-0.vom  Infection: Syskill.290 (exact)
+u:\collection\dos\file_s-z\syskill\290\b\t1.vxe  Infection: Syskill.290.unknown?
+u:\collection\dos\file_s-z\syskill\290\b\t3.vxe  Infection: Syskill.290.unknown?
+u:\collection\dos\file_s-z\syskill\290\b\unp.vxe  Infection: Syskill.290.unknown?
+u:\collection\dos\file_s-z\syskill\290\b\virus.dos.trivial.syskiller.290  Infection: Syskill.290.unknown? - Dropper
 u:\collection\dos\file_s-z\syslock\advent\advent.vom  Infection: SysLock.2764 (exact)
 u:\collection\dos\file_s-z\syslock\advent\v9435.vxe  contains SysLock.2764 (non-working)
 u:\collection\dos\file_s-z\syslock\advent\xmasco~1.vom  Infection: SysLock.2764 (exact)
@@ -30597,14 +30634,31 @@ u:\collection\dos\file_s-z\syslock\syslock\e\v9470.vxe  Infection: SysLock.3551.
 u:\collection\dos\file_s-z\syslock\syslock\f\3551-prn.vom  Infection: SysLock.3551.F (exact)
 u:\collection\dos\file_s-z\syslock\syslock\f\3551-prn.vxe  Infection: SysLock.3551.F (exact)
 u:\collection\dos\file_s-z\syslock\syslock\g\ad-3551b.vom  Infection: SysLock.3551.C (exact)
-u:\collection\dos\file_s-z\systa\systa.sys  Infection: Systa.231
-u:\collection\dos\file_s-z\systa\systa.vom  Infection: Systa.231 - Dropper
-u:\collection\dos\file_s-z\systa\systa231.sys  Infection: Systa.231
+u:\collection\dos\file_s-z\syslock\syslock\i\sys3551a.vom  Infection: SysLock.3551.I (exact)
+u:\collection\dos\file_s-z\sysman\249\virus.dos.sysman.249  Infection: Sysman.249 (exact) - Dropper
+u:\collection\dos\file_s-z\sysman\272\virus.dos.deadman.272  Infection: Sysman.272 (exact) - Dropper
+u:\collection\dos\file_s-z\syst\1750\virus.dos.syst.1750  Infection: Syst.1750
+u:\collection\dos\file_s-z\syst\1763\virus.dos.syst.1763  Infection: Syst.1763
+u:\collection\dos\file_s-z\syst\1767\virus.dos.syst.1767  Infection: Syst.1767
+u:\collection\dos\file_s-z\systa\212\virus.dos.sillys.212  Infection: Systa.212 (exact)
+u:\collection\dos\file_s-z\systa\231\systa.sys  Infection: Systa.231
+u:\collection\dos\file_s-z\systa\231\systa.vom  Infection: Systa.231 - Dropper
+u:\collection\dos\file_s-z\systa\231\systa231.sys  Infection: Systa.231
+u:\collection\dos\file_s-z\systa\232\virus.dos.systa.232  Infection: Systa.232 (exact) - Dropper
+u:\collection\dos\file_s-z\systers\2181\virus.dos.temple.2221  Infection: Systers.2181 (exact)
 u:\collection\dos\file_s-z\sysvir\0454\lapiddan.sys  Infection: Sysvir.454 (exact)
 u:\collection\dos\file_s-z\sysvir\0454\lapiddan.vxe  is a corrupted or intended virus
 u:\collection\dos\file_s-z\sysvir\0457\lapiddan.sys  Infection: Sysvir.457 (exact)
+u:\collection\dos\file_s-z\sysvir\0512\512.com  Infection: Sysvir.512 (exact)
+u:\collection\dos\file_s-z\sysvir\0515\virus.dos.sysinf.515  Infection: Sysvir.515 (exact)
+u:\collection\dos\file_s-z\sysvir\0649\virus.dos.lapiddan.649  Infection: Sysvir.649 (exact)
 u:\collection\dos\file_s-z\sysvir\1137\ansi.sys  Infection: Sysvir.1137 (exact)
 u:\collection\dos\file_s-z\sysvir\1137\himem.sys  Infection: Sysvir.1137 (exact)
+u:\collection\dos\file_s-z\sysworm\992\virus.dos.iosys  Infection: Sysworm.992 (exact)
+u:\collection\dos\file_s-z\sysxample\285\virus.dos.sysxample.285  Infection: Sysxample.285 (exact) - Dropper
+u:\collection\dos\file_s-z\sysxample\286\virus.dos.sysxample.286  Infection: Sysxample.286 - Dropper
+u:\collection\dos\file_s-z\sysxample\339\virus.dos.sysxample.339  Infection: Sysxample.339
+u:\collection\dos\file_s-z\sysxample\384\virus.dos.sysxample.384  Infection: Sysxample.384
 u:\collection\dos\file_s-z\szamalk\1872\szam1872.vom  Infection: SZA.1864 (exact)
 u:\collection\dos\file_s-z\szamalk\1872\Virus.DOS.Szamalk.1861  Infection: SZA.1864 (exact)
 u:\collection\dos\file_s-z\szamalk\2037\Virus.DOS.Szamalk.2034  Infection: SZA.2037 - Dropper
@@ -30618,7 +30672,18 @@ u:\collection\dos\file_s-z\szamalk\2588\wci0036w.vom  Infection: Wework.2588
 u:\collection\dos\file_s-z\sze\314\sze314.vom  Infection: Sze.314 (exact)
 u:\collection\dos\file_s-z\sze\351\myvir.vom  Infection: Sze.351 (exact)
 u:\collection\dos\file_s-z\sze\351\sze2.vom  Infection: Sze.351 (exact)
+u:\collection\dos\file_s-z\szoveg\959\a\szoveg-0.vom  Infection: Szoveg.959 (exact)
+u:\collection\dos\file_s-z\szoveg\959\a\t1.vom  Infection: Szoveg.959 (exact)
+u:\collection\dos\file_s-z\szoveg\959\a\t1.vxe  Infection: Szoveg.959 (exact)
+u:\collection\dos\file_s-z\szoveg\959\a\t3.vom  Infection: Szoveg.959 (exact)
+u:\collection\dos\file_s-z\szoveg\959\a\t3.vxe  Infection: Szoveg.959 (exact)
+u:\collection\dos\file_s-z\szoveg\959\b\t1.vom  Infection: Szoveg.959.unknown?
+u:\collection\dos\file_s-z\szoveg\959\b\t1.vxe  Infection: Szoveg.959.unknown?
+u:\collection\dos\file_s-z\szoveg\959\b\t3.vom  Infection: Szoveg.959.unknown?
+u:\collection\dos\file_s-z\szoveg\959\b\t3.vxe  Infection: Szoveg.959.unknown?
+u:\collection\dos\file_s-z\szoveg\959\b\virus.dos.szoveg.959  Infection: Szoveg.959.unknown?
 u:\collection\dos\file_s-z\s_man\s_man.vom  Infection: S_man.441.A (exact)
+u:\collection\dos\file_s-z\tabrizh\2571\virus.dos.ocean.2571  Infection: Tabrizh.2571
 u:\collection\dos\file_s-z\tabulero\2048\a\tab2048a.vxe  Infection: Tabulero.2048.A (exact)
 u:\collection\dos\file_s-z\tabulero\2048\b\tab2048b.vxe  Infection: Tabulero.2048.B (exact)
 u:\collection\dos\file_s-z\tack\411\lovec.vom  Infection: Tack.411
@@ -30663,7 +30728,9 @@ u:\collection\dos\file_s-z\taek\redscorp\1965\t1.vxe  Infection: Red_Scorpion.19
 u:\collection\dos\file_s-z\taek\redscorp\1965\t2.vom  Infection: Red_Scorpion.1965 (exact)
 u:\collection\dos\file_s-z\taek\redscorp\1965\t2.vxe  Infection: Red_Scorpion.1965 (exact)
 u:\collection\dos\file_s-z\taek\redscorp\1965\trace.vxe  Infection: Red_Scorpion.1965 (exact)
-u:\collection\dos\file_s-z\tai-pan\434\taip434.vxe  Infection: Tai-Pan.434.A (exact)
+u:\collection\dos\file_s-z\tafat\1532\virus.dos.haze.1532  Infection: Tafat.1532
+u:\collection\dos\file_s-z\tai-pan\434\a\taip434.vxe  Infection: Tai-Pan.434.A (exact)
+u:\collection\dos\file_s-z\tai-pan\434\b\virus.dos.taipan.434  Infection: Tai-Pan.434.B (exact)
 u:\collection\dos\file_s-z\tai-pan\437\1-tai437.vxe  Infection: Tai-Pan.437
 u:\collection\dos\file_s-z\tai-pan\437\2-tai437.vxe  Infection: Tai-Pan.437
 u:\collection\dos\file_s-z\tai-pan\437\3-tai437.vxe  Infection: Tai-Pan.437
@@ -30690,10 +30757,24 @@ u:\collection\dos\file_s-z\tai-pan\438\c\taip438b.vxe  Infection: Tai-Pan.438.C 
 u:\collection\dos\file_s-z\tai-pan\438\d\t1.vxe  Infection: Tai-Pan.438.D (exact)
 u:\collection\dos\file_s-z\tai-pan\438\d\t2.vxe  Infection: Tai-Pan.438.D (exact)
 u:\collection\dos\file_s-z\tai-pan\438\d\taip438c.vxe  Infection: Tai-Pan.438.D (exact)
+u:\collection\dos\file_s-z\tai-pan\438\e\taip438e-0.vxe  Infection: Tai-Pan.438.E (exact)
+u:\collection\dos\file_s-z\tai-pan\438\e\taip438e-1.vxe  Infection: Tai-Pan.438.E (exact)
+u:\collection\dos\file_s-z\tai-pan\438\f\taip438f-0.vxe  Infection: Tai-Pan.438.F (exact)
+u:\collection\dos\file_s-z\tai-pan\438\g\taip438g-0.vxe  Infection: Tai-Pan.438.G (exact)
+u:\collection\dos\file_s-z\tai-pan\438\g\taip438g-1.vxe  Infection: Tai-Pan.438.G (exact)
+u:\collection\dos\file_s-z\tai-pan\438\g\taip438g-2.vxe  Infection: Tai-Pan.438.G (exact)
+u:\collection\dos\file_s-z\tai-pan\438\h\virus.dos.taipan.438.c  Infection: Tai-Pan.438.H (exact)
+u:\collection\dos\file_s-z\tai-pan\438\i\taip438i-0.vxe  Infection: Tai-Pan.438.I (exact)
+u:\collection\dos\file_s-z\tai-pan\438\i\taip438i-1.vxe  Infection: Tai-Pan.438.I (exact)
+u:\collection\dos\file_s-z\tai-pan\438\j\taip438j-0.vxe  Infection: Tai-Pan.438.J (exact)
+u:\collection\dos\file_s-z\tai-pan\438\k\taip438k-0.vxe  Infection: Tai-Pan.438.K (exact)
+u:\collection\dos\file_s-z\tai-pan\438\l\taip438l-0.vxe  Infection: Tai-Pan.438.L (exact)
+u:\collection\dos\file_s-z\tai-pan\440\virus.dos.taipan.440  Infection: Tai-Pan.440 (exact) - Dropper
 u:\collection\dos\file_s-z\tai-pan\454\t1.vxe  Infection: Tai-Pan.438.E (exact)
 u:\collection\dos\file_s-z\tai-pan\454\t3.vxe  Infection: Tai-Pan.438.E (exact)
 u:\collection\dos\file_s-z\tai-pan\454\t5.vxe  Infection: Tai-Pan.438.E (exact)
 u:\collection\dos\file_s-z\tai-pan\454\wci0009t.vxe  Infection: Tai-Pan.438.E (exact)
+u:\collection\dos\file_s-z\tai-pan\513\virus.dos.taipan.hooze.513  Infection: Tai-Pan.513 (exact)
 u:\collection\dos\file_s-z\tai-pan\666\taip666.vxe  Infection: Tai-Pan.666.A (exact)
 u:\collection\dos\file_s-z\tai-pan\666\t_pan666.vxe  Infection: Tai-Pan.666.A (exact)
 u:\collection\dos\file_s-z\taiwan\677\doom-1b.vom  Infection: Taiwan.677.A (exact)
@@ -30717,9 +30798,16 @@ u:\collection\dos\file_s-z\taiwan\743\a\tai743a1.vom  Infection: Taiwan.743.A (e
 u:\collection\dos\file_s-z\taiwan\743\a\v9520.vom  Infection: Taiwan.743.A (exact)
 u:\collection\dos\file_s-z\taiwan\743\b\taiw743b.vom  Infection: Taiwan.743.B (exact)
 u:\collection\dos\file_s-z\taiwan\743\c\taiw743c.vom  Infection: Taiwan.743.C (exact)
-u:\collection\dos\file_s-z\taiwan\743\d\t1.vom  Infection: Taiwan.743.I (exact)
-u:\collection\dos\file_s-z\taiwan\743\d\t2.vom  Infection: Taiwan.743.I (exact)
-u:\collection\dos\file_s-z\taiwan\743\d\tw.vom  Infection: Taiwan.743.I (exact)
+u:\collection\dos\file_s-z\taiwan\743\d\taiw743d.vom  Infection: Taiwan.743.D (exact)
+u:\collection\dos\file_s-z\taiwan\743\e\!352.vom  Infection: Taiwan.743.E (exact)
+u:\collection\dos\file_s-z\taiwan\743\f\taiw743f-0.vom  Infection: Taiwan.743.F (exact)
+u:\collection\dos\file_s-z\taiwan\743\g\taiw743g-0.vom  Infection: Taiwan.743.G (exact)
+u:\collection\dos\file_s-z\taiwan\743\h\tai743b.vom  Infection: Taiwan.743.H (exact)
+u:\collection\dos\file_s-z\taiwan\743\i\t1.vom  Infection: Taiwan.743.I (exact)
+u:\collection\dos\file_s-z\taiwan\743\i\t2.vom  Infection: Taiwan.743.I (exact)
+u:\collection\dos\file_s-z\taiwan\743\i\tw.vom  Infection: Taiwan.743.I (exact)
+u:\collection\dos\file_s-z\taiwan\743\j\tw.vxe  Infection: Taiwan.743.J (exact)
+u:\collection\dos\file_s-z\taiwan\743\k\virus.dos.taiwan.743.b  Infection: Taiwan.743.K (exact)
 u:\collection\dos\file_s-z\taiwan\752\a\doom-i.vom  Infection: Taiwan.752.A (exact)
 u:\collection\dos\file_s-z\taiwan\752\a\taiw752a.vom  Infection: Taiwan.752.A (exact)
 u:\collection\dos\file_s-z\taiwan\752\a\v9525.vom  Infection: Taiwan.752.A (exact)
@@ -30728,6 +30816,7 @@ u:\collection\dos\file_s-z\taiwan\752\c\taiw752c.vom  Infection: Taiwan.752.C (e
 u:\collection\dos\file_s-z\taiwan\752\c\taiwan~6.vom  Infection: Taiwan.752.C (exact)
 u:\collection\dos\file_s-z\tajfun\250\tajfun.vom  Infection: Tajfun.250
 u:\collection\dos\file_s-z\tajfun\593\wabikovl.vxe  Infection: Quash.593
+u:\collection\dos\file_s-z\take_control\4243\virus.dos.takecontrol  Infection: Take_Control.4243
 u:\collection\dos\file_s-z\talon\1894\daemon2.vom  Infection: Talon.1894 (exact)
 u:\collection\dos\file_s-z\talon\1894\daempant.vxe  Infection: Talon.1894 (exact)
 u:\collection\dos\file_s-z\talon\2040\wci03044.vom  Infection: Hugs.2040
@@ -30737,18 +30826,27 @@ u:\collection\dos\file_s-z\talon\2042\talounk0.vom  is a corrupted or intended v
 u:\collection\dos\file_s-z\talon\2048\daemaen.vom  is a corrupted or intended virus
 u:\collection\dos\file_s-z\talon\2048\daemaen4.sys  Infection: Talon.2048 (exact)
 u:\collection\dos\file_s-z\talon\2050\wci03054.vom  Infection: Hugs.2050
+u:\collection\dos\file_s-z\tamagoci\2700\virus.dos.tamagoci.2700  Infection: Tamagoci.2700
 u:\collection\dos\file_s-z\tamanna\tamana2.vom  Infection: Tamanna.1857
 u:\collection\dos\file_s-z\tamsui\01694\a\v9535.vxe  Infection: Tamsui.1694
 u:\collection\dos\file_s-z\tamsui\01694\b\merry.vxe  Infection: Tamsui.1694
 u:\collection\dos\file_s-z\tamsui\19033\sat201.vxe  Infection: Tamsui.19033
 u:\collection\dos\file_s-z\tamsui\19033\satan20z.vxe  Infection: Tamsui.19033
 u:\collection\dos\file_s-z\tamsui\19033\tam19033.vxe  Infection: Tamsui.19033
+u:\collection\dos\file_s-z\tangle\378\virus.dos.tangle.378  Infection: Tangle.378
+u:\collection\dos\file_s-z\tangle\387\virus.dos.tangle.387  Infection: Tangle.387
+u:\collection\dos\file_s-z\tankar\212\virus.dos.subconsious.212  Infection: Tankar.212 (exact)
 u:\collection\dos\file_s-z\tankard\493\tan493a.vom  Infection: Tankard.493
 u:\collection\dos\file_s-z\tankard\493\tankar~2.vom  Infection: Tankard.493
 u:\collection\dos\file_s-z\tankard\542\tank542.vom  Infection: Tankard.542 (exact)
 u:\collection\dos\file_s-z\tankard\556\tank556.vom  Infection: Tankard.556
 u:\collection\dos\file_s-z\tanpro\524\wci04243.vom  Infection: Tanpro.524 (exact)
 u:\collection\dos\file_s-z\tanpro\749\tanpr749.vom  Infection: Tanpro.749 (exact)
+u:\collection\dos\file_s-z\tanya\2000\a\virus.dos.tanya.2000.b  Infection: Tanya.2000.A
+u:\collection\dos\file_s-z\tanya\2000\b\virus.dos.tanya.2000.e  Infection: Tanya.2000.B
+u:\collection\dos\file_s-z\tanya\2000\c\virus.dos.tanya.2000.c  Infection: Tanya.2000.C
+u:\collection\dos\file_s-z\tanya\2000\d\virus.dos.tanya.2000.a  Infection: Tanya.2000.D
+u:\collection\dos\file_s-z\tanya\2000\e\virus.dos.tanya.2000.d  Infection: Tanya.2000.E
 u:\collection\dos\file_s-z\tanya\3000\a\t1.vom  Infection: Paymat.3000
 u:\collection\dos\file_s-z\tanya\3000\a\t1.vxe  Infection: Paymat.3000
 u:\collection\dos\file_s-z\tanya\3000\a\t2.vxe  Infection: Paymat.3000
@@ -30759,6 +30857,8 @@ u:\collection\dos\file_s-z\tanya\3000\b\pamy3000.vxe  Infection: Pamy.3000
 u:\collection\dos\file_s-z\tanya\3000\b\t3.vom  Infection: Pamy.3000
 u:\collection\dos\file_s-z\tanya\3000\b\t3.vxe  Infection: Pamy.3000
 u:\collection\dos\file_s-z\tanya\3000\b\t4.vxe  Infection: Pamy.3000
+u:\collection\dos\file_s-z\tapeworm\1911\virus.dos.tapeworm.1927  Infection: Tapeworm.1911 (exact)
+u:\collection\dos\file_s-z\tapi\1293\virus.dos.unknown.1293  Infection: Tapi.1293
 u:\collection\dos\file_s-z\taras\4884\t7.vxe->(PKLITE)  Infection: HLLP.4884
 u:\collection\dos\file_s-z\taras\4884\tara4884.vom->(PKLITE)  Infection: HLLP.4884
 u:\collection\dos\file_s-z\taras\4884\tara4884.vxe->(PKLITE)  Infection: HLLP.4884
@@ -30772,6 +30872,7 @@ u:\collection\dos\file_s-z\tashayar\4083\katy4083.vom  Infection: Katy.4080
 u:\collection\dos\file_s-z\tashayar\4083\t6.vom  Infection: Katy.4080
 u:\collection\dos\file_s-z\tashkent\490\wci0042t.vom  Infection: Tashkent.490
 u:\collection\dos\file_s-z\tashkent\509\wci0043t.vom  Infection: Tashkent.509
+u:\collection\dos\file_s-z\tass\1958\virus.dos.antipc.1958  Infection: Tass.1958
 u:\collection\dos\file_s-z\taurus\358\command1.vom  Infection: Taurus.358 (exact)
 u:\collection\dos\file_s-z\taurus\562\a\taurus.vom  Infection: Ibqqz.562.A
 u:\collection\dos\file_s-z\taurus\562\b\1-ha562b.vom  Infection: Hny.526
@@ -30781,6 +30882,8 @@ u:\collection\dos\file_s-z\taurus\562\b\hny562b.vom  Infection: Hny.526
 u:\collection\dos\file_s-z\taurus\562\b\t1.vom  Infection: Hny.526
 u:\collection\dos\file_s-z\taurus\562\b\t2.vom  Infection: Hny.526
 u:\collection\dos\file_s-z\taurus\562\b\taurus.vom  Infection: Hny.526
+u:\collection\dos\file_s-z\taurus\795\virus.dos.taurus.1852  Infection: Taurus.795
+u:\collection\dos\file_s-z\tavyron\404\virus.dos.xav.xavier.404  Infection: Tavyron.404 (exact)
 u:\collection\dos\file_s-z\taz\0987\taz-0987.vom  Infection: Taz.987
 u:\collection\dos\file_s-z\taz\0987\taz987b.vom  Infection: Taz.987
 u:\collection\dos\file_s-z\taz\0995\taz-0995.vom  Infection: Taz.995
@@ -30799,6 +30902,7 @@ u:\collection\dos\file_s-z\taz\1106\firefly.vom  Infection: Taz.1106
 u:\collection\dos\file_s-z\taz\1106\taz1106b.vom  Infection: Taz.1106
 u:\collection\dos\file_s-z\taz\1107\taz1106c.vom  Infection: Taz.1106
 u:\collection\dos\file_s-z\taz\1107\taz1106f.vom  Infection: Taz.1106
+u:\collection\dos\file_s-z\tbo\1281\virus.dos.thebestone.1281  Infection: TBO.1281
 u:\collection\dos\file_s-z\tce\chaos-ad\3375\chaos-ad.vom  Infection: Persecute.3375
 u:\collection\dos\file_s-z\tce\chaos-ad\3375\t2.vom  Infection: Persecute.3375
 u:\collection\dos\file_s-z\tce\chaos-ad\3375\t3.vom  Infection: Persecute.3375
@@ -30807,9 +30911,30 @@ u:\collection\dos\file_s-z\tce\chaos-ad\3375\t5.vom  Infection: Persecute.3375
 u:\collection\dos\file_s-z\tce\chaos-ad\3375\t6.vom  Infection: Persecute.3375
 u:\collection\dos\file_s-z\tce\chaos-ad\3375\t7.vom  Infection: Persecute.3375
 u:\collection\dos\file_s-z\tce\chaos-ad\3375\t8.vom  Infection: Persecute.3375
+u:\collection\dos\file_s-z\tchechen\1903\virus.dos.tchechen.1903  Infection: Tchechen.1903
+u:\collection\dos\file_s-z\tchechen\1909\virus.dos.tchechen.1909  Infection: Tchechen.1909
+u:\collection\dos\file_s-z\tchechen\1913\virus.dos.tchechen.1913  Infection: Tchechen.1913
+u:\collection\dos\file_s-z\tchechen\1918\virus.dos.tchechen.1918  Infection: Tchechen.1918
+u:\collection\dos\file_s-z\tchechen\1920\virus.dos.tchechen.1920  Infection: Tchechen.1920 (exact)
+u:\collection\dos\file_s-z\tchechen\1924\virus.dos.tchechen.1924  Infection: Tchechen.1924
+u:\collection\dos\file_s-z\tchechen\1925\virus.dos.tchechen.1925  Infection: Tchechen.1925 (exact)
+u:\collection\dos\file_s-z\tchechen\3268\virus.dos.tchechen.3268  Infection: Tchechen.3268
+u:\collection\dos\file_s-z\tchechen\3430\virus.dos.tchechen.3338  Infection: Tchechen.3430
+u:\collection\dos\file_s-z\tchechen\3436\virus.dos.tchechen.3436.b  Infection: Tchechen.3436
+u:\collection\dos\file_s-z\tchechen\3470\virus.dos.tchechen.3370  Infection: Tchechen.3470
+u:\collection\dos\file_s-z\tchechen\3560\virus.dos.tchechen.3436.a  Infection: Tchechen.3560
+u:\collection\dos\file_s-z\tchechen\3636\virus.dos.tchechen.3438  Infection: Tchechen.3636
+u:\collection\dos\file_s-z\tcp\407\babybug.vxe  Infection: Tcp.407
+u:\collection\dos\file_s-z\tcp\407\virus.dos.tcp.407  Infection: Tcp.407
 u:\collection\dos\file_s-z\tea4two\t42-1024.vom  Infection: TeaForTwo.1024 (exact)
 u:\collection\dos\file_s-z\teacher\2000\wci0531t.vxe  Infection: Teacher.2000
+u:\collection\dos\file_s-z\team\364\virus.dos.exeheader.team.364  Infection: Team.364
+u:\collection\dos\file_s-z\team\383\a\com.vom  Infection: Team.383
+u:\collection\dos\file_s-z\team\383\b\virus.dos.zoo.383.b  Infection: Team.383
+u:\collection\dos\file_s-z\team\383\c\virus.dos.zoo.383.c  Infection: Team.383
+u:\collection\dos\file_s-z\teapa\1609\b\virus.dos.teapa.1609  Infection: TEAPA.1609.B (exact)
 u:\collection\dos\file_s-z\techno\techno.vom  Infection: Techno.1123
+u:\collection\dos\file_s-z\technogad\2448\virus.dos.technogad.2448  Infection: Technogad.2448 (exact)
 u:\collection\dos\file_s-z\technoma\tmania.vom  Infection: Technomaniac.779 (exact)
 u:\collection\dos\file_s-z\technora\615\blaise.vom  Infection: Techno-Rat.615
 u:\collection\dos\file_s-z\tedy\4350\1-te4350.vxe  Infection: Tedy.4350 (exact)
@@ -30861,7 +30986,10 @@ u:\collection\dos\file_s-z\tequila\2468\a\tequila.vxe  Infection: Tequila.2468.A
 u:\collection\dos\file_s-z\tequila\2468\a\tequila5.vxe  Infection: Tequila.2468.A (exact)
 u:\collection\dos\file_s-z\tequila\2468\a\tequilaa.vxe  Infection: Tequila.2468.A (exact)
 u:\collection\dos\file_s-z\tequila\2468\a\_tequi~1.vom  Infection: Tequila.2468.B (exact) - Dropper
+u:\collection\dos\file_s-z\tequila\2468\b\tequ2468-0.vxe  Infection: Tequila.2468.B (exact)
+u:\collection\dos\file_s-z\tequila\2468\b\tequ2468-1.vxe  Infection: Tequila.2468.B (exact)
 u:\collection\dos\file_s-z\tequila\2468\c\wci0668t.vxe  Infection: Tequila.2468.D (exact)
+u:\collection\dos\file_s-z\tequila\2468\e\tequila.vxe  Infection: Tequila.2468.E (exact)
 u:\collection\dos\file_s-z\tequila\2469\tequila.vom  Infection: Tequila.2469 (exact) - Dropper
 u:\collection\dos\file_s-z\tequila\5volt\5volt.vxe  Infection: Tequila.2659 (exact)
 u:\collection\dos\file_s-z\tequila\5volt\mem2.vxe  Infection: Tequila.2659 (exact)
@@ -30877,14 +31005,21 @@ u:\collection\dos\file_s-z\teraz\4004\scroll.vom  Infection: Teraz.4004
 u:\collection\dos\file_s-z\tere\370\t7.vom  Infection: Tere.370 (exact)
 u:\collection\dos\file_s-z\tere\370\tf.vom  Infection: Tere.370 (exact)
 u:\collection\dos\file_s-z\tere\370\triv-370.vom  Infection: Tere.370 (exact)
-u:\collection\dos\file_s-z\term-ii\termii.vxe  Infection: Terminator_II.2294
-u:\collection\dos\file_s-z\term-iii\termiii.vxe->(LZEXE)  Infection: Terminator_III.3549
-u:\collection\dos\file_s-z\terminat\0918\term0918.vom  Infection: Terminator.918
-u:\collection\dos\file_s-z\terminat\1501\term1501.vom  Infection: Terminator.1501
-u:\collection\dos\file_s-z\tero\a\tero.vom  Infection: Tero.308
-u:\collection\dos\file_s-z\tero\b\tero1.vom  Infection: Tero.308
-u:\collection\dos\file_s-z\terronia\b00bs.vxe  is a corrupted or intended virus
+u:\collection\dos\file_s-z\tere\374\b\virus.dos.diablo.374.b  Infection: Tere.374.B (exact)
+u:\collection\dos\file_s-z\tere\383\virus.dos.diablo.383  Infection: Tere.383 (exact)
+u:\collection\dos\file_s-z\terminator\0918\term0918.vom  Infection: Terminator.918
+u:\collection\dos\file_s-z\terminator\1501\term1501.vom  Infection: Terminator.1501
+u:\collection\dos\file_s-z\terminator_ii\termii.vxe  Infection: Terminator_II.2294
+u:\collection\dos\file_s-z\terminator_iii\termiii.vxe->(LZEXE)  Infection: Terminator_III.3549
+u:\collection\dos\file_s-z\terminator_one\1095\trojan.vom  Infection: Terminator_One.1095 (exact)
+u:\collection\dos\file_s-z\tero\293\a\virus.dos.tero.293  Infection: Tero.293.A (exact)
+u:\collection\dos\file_s-z\tero\308\a\tero.vom  Infection: Tero.308
+u:\collection\dos\file_s-z\tero\308\b\tero1.vom  Infection: Tero.308
 u:\collection\dos\file_s-z\terronia\2448\Virus.DOS.Terronia.2480  Infection: Terronia.2448.B (exact)
+u:\collection\dos\file_s-z\terronia\2538\virus.dos.terronia.2538  Infection: Terronia.2538 (exact)
+u:\collection\dos\file_s-z\terronia\2548\b00bs.vxe  Infection: Terronia.2548
+u:\collection\dos\file_s-z\terronia\2548\terr2548-0.vom  Infection: Terronia.2548
+u:\collection\dos\file_s-z\terronia\2674\virus.dos.terronia.2674  Infection: Terronia.2674
 u:\collection\dos\file_s-z\terror\darklord\a\manovar.vxe  Infection: Terror.921.A (exact)
 u:\collection\dos\file_s-z\terror\darklord\a\terr921a.vom  Infection: Terror.921.A (exact)
 u:\collection\dos\file_s-z\terror\darklord\a\terrdark.vom  Infection: Terror.921.A (exact)
@@ -30904,11 +31039,21 @@ u:\collection\dos\file_s-z\terror\darklord\h\tr-0921h.vom  Infection: Terror.921
 u:\collection\dos\file_s-z\terror\terror\a\terror.vom  Infection: Terror.1085
 u:\collection\dos\file_s-z\terror\terror\a\v9620.vxe  Infection: Terror.1085
 u:\collection\dos\file_s-z\terror\terror\b\terrsuic.vom  Infection: Terror.1085
-u:\collection\dos\file_s-z\testvirb\a\max00475.vom  Infection: Testvirus-B.993.A (exact)
-u:\collection\dos\file_s-z\testvirb\a\testvirx.vom  Infection: Testvirus-B.993.A (exact)
-u:\collection\dos\file_s-z\testvirb\a\testv_b.vom  Infection: Testvirus-B.993.A (exact)
-u:\collection\dos\file_s-z\testvirb\a\v9650.vom  Infection: Testvirus-B.993.A (exact)
-u:\collection\dos\file_s-z\testvirb\b\tstvir-c.vom  Infection: Testvirus-B.993.B (exact)
+u:\collection\dos\file_s-z\tervir\402\virus.dos.tervir.402  Infection: Tervir.402 (exact)
+u:\collection\dos\file_s-z\testv\1006\new.vom  Infection: TestV.1006 (exact)
+u:\collection\dos\file_s-z\testvirus-b\a\max00475.vom  Infection: Testvirus-B.993.A (exact)
+u:\collection\dos\file_s-z\testvirus-b\a\testvirx.vom  Infection: Testvirus-B.993.A (exact)
+u:\collection\dos\file_s-z\testvirus-b\a\testv_b.vom  Infection: Testvirus-B.993.A (exact)
+u:\collection\dos\file_s-z\testvirus-b\a\v9650.vom  Infection: Testvirus-B.993.A (exact)
+u:\collection\dos\file_s-z\testvirus-b\b\tstvir-c.vom  Infection: Testvirus-B.993.B (exact)
+u:\collection\dos\file_s-z\testvirus-b\c\virus.dos.virusb.1000.c  Infection: Testvirus-B.993.C (exact)
+u:\collection\dos\file_s-z\testworm\518\virus.dos.testworm.518  Infection: Testworm.518
+u:\collection\dos\file_s-z\testworm\520\virus.dos.testworm.520  Infection: Testworm.520
+u:\collection\dos\file_s-z\tet\393\virus.dos.inch.393  Infection: Tet.393
+u:\collection\dos\file_s-z\tet\409\virus.dos.inch.409  Infection: Tet.409 (exact)
+u:\collection\dos\file_s-z\tfsg\2710\virus.dos.tfsg.2805  Infection: TFSG.2710
+u:\collection\dos\file_s-z\tgasc\354\virus.dos.tgasc.354  Infection: Tgasc.354
+u:\collection\dos\file_s-z\tgasc\841\virus.dos.tgasc.841  Infection: Tgasc.841
 u:\collection\dos\file_s-z\thanksgi\a\0f025375.vom  is a corrupted or intended virus
 u:\collection\dos\file_s-z\thanksgi\a\thanksgi.vom  Infection: Thanksgiving.1253 (exact)
 u:\collection\dos\file_s-z\thanksgi\a\thxgivn.vom  contains Thanksgiving.1253 (non-working)
@@ -30921,10 +31066,19 @@ u:\collection\dos\file_s-z\that\618\t2.vom  Infection: That's_All.618 (exact)
 u:\collection\dos\file_s-z\that\618\t4.vom  Infection: That's_All.618 (exact)
 u:\collection\dos\file_s-z\that\618\t6.vom  Infection: That's_All.618 (exact)
 u:\collection\dos\file_s-z\that\618\wci0087t.vom  Infection: That's_All.618 (exact)
+u:\collection\dos\file_s-z\theplot\1997\virus.dos.killme.1997  Infection: Theplot.1997 (exact)
+u:\collection\dos\file_s-z\the_draw\1410\virus.dos.thedraw.1410  Infection: The_Draw.1410
+u:\collection\dos\file_s-z\third\1016\virus.dos.axe.1016  Infection: Third.1016
 u:\collection\dos\file_s-z\thirteen_minutes\699\a\THMIN-A.vom  Infection: Thirteen_minutes.699.A (exact)
 u:\collection\dos\file_s-z\thirteen_minutes\699\a\_699.vom  Infection: Thirteen_minutes.699.A (exact)
+u:\collection\dos\file_s-z\thirteen_minutes\699\c\13mins-c-0.vom  Infection: Thirteen_minutes.699.C (exact)
+u:\collection\dos\file_s-z\thirteen_minutes\699\d\13mins-d-0.vom  Infection: Thirteen_minutes.699.D (exact)
+u:\collection\dos\file_s-z\thirteen_minutes\699\e\virus.dos.v.704  Infection: Thirteen_minutes.699.E (exact)
 u:\collection\dos\file_s-z\thirty_three\525\33.vom  Infection: Thirty-Three.525 (exact)
 u:\collection\dos\file_s-z\thirty_three\525\Virus.DOS.33.525  Infection: Thirty-Three.525 (exact)
+u:\collection\dos\file_s-z\thke\1024\b\virus.dos.thk.1024.b  Infection: Thke.1024.B (exact)
+u:\collection\dos\file_s-z\thke\1024\c\virus.dos.thk.1024  Infection: Thke.1024.C (exact)
+u:\collection\dos\file_s-z\three6\666\virus.dos.three6.666  Infection: Three6.666 (exact)
 u:\collection\dos\file_s-z\threemon\3month.vxe  Infection: Three_months.509 (exact)
 u:\collection\dos\file_s-z\threetun\three_tu.vom  Infection: Three_Tunes.1784.A (exact)
 u:\collection\dos\file_s-z\threetun\tt.vom  Infection: Three_Tunes.1784.A (exact)
@@ -30933,13 +31087,36 @@ u:\collection\dos\file_s-z\thunder\1543\t1.vom  Infection: Thunder.1543
 u:\collection\dos\file_s-z\thunder\1543\t1.vxe  Infection: Thunder.1543
 u:\collection\dos\file_s-z\thunder\1543\thun1543.vom  Infection: Thunder.1543
 u:\collection\dos\file_s-z\thunder\1543\thun1543.vxe  Infection: Thunder.1543
+u:\collection\dos\file_s-z\thunte\1324\virus.dos.writer.1324  Infection: Thunte.1324
+u:\collection\dos\file_s-z\thunte\1336\virus.dos.writer.1336  Infection: Thunte.1336 (exact)
 u:\collection\dos\file_s-z\thur12th\cd-virus.vom  Infection: Thursday_12th.2161
 u:\collection\dos\file_s-z\thur12th\cd.vom  Infection: Thursday_12th.2161
 u:\collection\dos\file_s-z\thur12th\cdvir.vom  Infection: Thursday_12th.2161
+u:\collection\dos\file_s-z\tib\528\virus.dos.tib.528  Infection: Tib.528
+u:\collection\dos\file_s-z\tib\713\virus.dos.tib.713  Infection: Tib.713 (exact)
 u:\collection\dos\file_s-z\tic\093\a\hacktic2.vom  Infection: Tic.93.A (exact)
 u:\collection\dos\file_s-z\tic\093\b\v9695.vom  Infection: Tic.93.B (exact)
+u:\collection\dos\file_s-z\tic\093\c\tic93-0.vom  Infection: Tic.93.C (exact)
+u:\collection\dos\file_s-z\tic\093\c\tic93-1.vom  Infection: Tic.93.C (exact)
+u:\collection\dos\file_s-z\tic\093\d\virus.dos.mini.93.b  Infection: Tic.93.D (exact)
+u:\collection\dos\file_s-z\tic\093\e\virus.dos.mini.93.d  Infection: Tic.93.E (exact)
+u:\collection\dos\file_s-z\tic\093\f\virus.dos.sillyc.93.a  Infection: Tic.93.F (exact)
+u:\collection\dos\file_s-z\tic\101\virus.dos.tic.101  Infection: Tic.101 (exact)
 u:\collection\dos\file_s-z\tic\109\a\v9680.vom  Infection: Tic.109
 u:\collection\dos\file_s-z\tic\109\b\mini10.vom  Infection: Tic.109
+u:\collection\dos\file_s-z\tic\130\b\hack.130.b  Infection: Tic.130.B (exact)
+u:\collection\dos\file_s-z\tic\130\b\hacktc2a.vom  Infection: Tic.130.B (exact)
+u:\collection\dos\file_s-z\tie\512\virus.dos.tie.512  Infection: Tie.512 (exact)
+u:\collection\dos\file_s-z\tie\513\a\virus.dos.tie.513  Infection: Tie.513.A (exact)
+u:\collection\dos\file_s-z\tie\513\b\virus.dos.tie.513.b  Infection: Tie.513.B (exact)
+u:\collection\dos\file_s-z\tie\517\virus.dos.tie.517  Infection: Tie.517 (exact)
+u:\collection\dos\file_s-z\tie\518\virus.dos.tie.518  Infection: Tie.518 (exact)
+u:\collection\dos\file_s-z\tie\547\virus.dos.tie.547  Infection: Tie.547 (exact)
+u:\collection\dos\file_s-z\tie\548\virus.dos.deadman.548  Infection: Tie.548 (exact)
+u:\collection\dos\file_s-z\tie\552\virus.dos.tie.552  Infection: Tie.552 (exact)
+u:\collection\dos\file_s-z\tie\619\virus.dos.tie.619  Infection: Tie.619
+u:\collection\dos\file_s-z\tie\710\virus.dos.tie.710  Infection: Tie.710 (exact)
+u:\collection\dos\file_s-z\tie\713\virus.dos.tie.713  Infection: Tie.713 (exact)
 u:\collection\dos\file_s-z\tiffany\440\t1.vom  Infection: Tiffany.440.A (exact)
 u:\collection\dos\file_s-z\tiffany\440\t1.vxe  Infection: Tiffany.440.A (exact)
 u:\collection\dos\file_s-z\tiffany\440\t2.vom  Infection: Tiffany.440.A (exact)
@@ -30963,6 +31140,11 @@ u:\collection\dos\file_s-z\tiffany\458\t7.vom  Infection: Tiffany.458.A (exact)
 u:\collection\dos\file_s-z\tiffany\458\tiff-458.vom  Infection: Tiffany.458.A (exact)
 u:\collection\dos\file_s-z\tiffany\458\tiff458.vom  Infection: Tiffany.458.A (exact)
 u:\collection\dos\file_s-z\tiffany\458\tiff458.vxe  Infection: Tiffany.458.damaged?
+u:\collection\dos\file_s-z\tiger\0709\virus.dos.ivp.tiger.709  Infection: Tiger.709 (exact)
+u:\collection\dos\file_s-z\tiger\1116\virus.dos.tiger.1116  Infection: Tiger.1116 (exact)
+u:\collection\dos\file_s-z\tigger\1573\a\tigger-a-0.vxe  Infection: Tigger.1573.A (exact)
+u:\collection\dos\file_s-z\tigger\1573\b\tigger-b-0.vxe  Infection: Tigger.1573.B (exact)
+u:\collection\dos\file_s-z\tigger\1573\c\virus.dos.tigger.1573  Infection: Tigger.1573.C (exact)
 u:\collection\dos\file_s-z\tigre\1795\t1.vom  Infection: Tigre.1795
 u:\collection\dos\file_s-z\tigre\1795\t1.vxe  Infection: Tigre.1795
 u:\collection\dos\file_s-z\tigre\1795\t2.vom  Infection: Tigre.1795
@@ -31006,15 +31188,27 @@ u:\collection\dos\file_s-z\timemark\1067\t3.vxe  Infection: Timemark.1067
 u:\collection\dos\file_s-z\timemark\1067\t7.vxe  Infection: Timemark.1067
 u:\collection\dos\file_s-z\timemark\1067\timema~3.vxe  Infection: Timemark.1067
 u:\collection\dos\file_s-z\timemark\1067\trace.vxe  Infection: Timemark.1067
-u:\collection\dos\file_s-z\timeslic\2330\timeslic.vxe  Infection: Timeslice.2330
-u:\collection\dos\file_s-z\timeslic\2332\timeslic.vom  Infection: Timeslice.2330
+u:\collection\dos\file_s-z\timer\1019\virus.dos.sanga.1019  Infection: Timer.1019
+u:\collection\dos\file_s-z\timer\1171\virus.dos.sanga.1171  Infection: Timer.1171
+u:\collection\dos\file_s-z\timeslice\2330\timeslic.vxe  Infection: Timeslice.2330
+u:\collection\dos\file_s-z\timeslice\2332\timeslic.vom  Infection: Timeslice.2330
 u:\collection\dos\file_s-z\timid\245\tim245.vom  Infection: Timid.245 (exact)
 u:\collection\dos\file_s-z\timid\263\timiunk1.vom  Infection: Timid.263 (exact)
 u:\collection\dos\file_s-z\timid\288\v6380.vom  Infection: Timid.288 (exact)
-u:\collection\dos\file_s-z\timid\289\tim289.vom  Infection: Timid.289.A (exact)
+u:\collection\dos\file_s-z\timid\289\a\tim289.vom  Infection: Timid.289.A (exact)
+u:\collection\dos\file_s-z\timid\289\b\virus.dos.timid.289  Infection: Timid.289.B (exact)
 u:\collection\dos\file_s-z\timid\290\a\tim290a.vom  Infection: Timid.290.A (exact)
 u:\collection\dos\file_s-z\timid\290\a\v9705.vom  Infection: Timid.290.A (exact)
-u:\collection\dos\file_s-z\timid\297\v9710.vom  Infection: Timid.297.A (exact)
+u:\collection\dos\file_s-z\timid\290\b\virus.dos.timid.290.b  Infection: Timid.290.B (exact)
+u:\collection\dos\file_s-z\timid\290\c\grouch.vom  Infection: Timid.290.C
+u:\collection\dos\file_s-z\timid\295\b\cabinfo.vxe  Infection: Timid.295.unknown?
+u:\collection\dos\file_s-z\timid\295\b\debug.vxe  Infection: Timid.295.unknown?
+u:\collection\dos\file_s-z\timid\295\b\t1.vxe  Infection: Timid.295.unknown?
+u:\collection\dos\file_s-z\timid\295\b\virus.dos.timid.295  Infection: Timid.295.unknown?
+u:\collection\dos\file_s-z\timid\297\a\v9710.vom  Infection: Timid.297.A (exact)
+u:\collection\dos\file_s-z\timid\297\b\virus.dos.timid.297.b  Infection: Timid.297.B (exact)
+u:\collection\dos\file_s-z\timid\297\c\grouchye.vom  Infection: Timid.297.C (exact)
+u:\collection\dos\file_s-z\timid\297\e\virus.dos.timid.297.c  Infection: Timid.297.E (exact)
 u:\collection\dos\file_s-z\timid\298\a\298.vom  Infection: Timid.298.A (exact)
 u:\collection\dos\file_s-z\timid\298\a\timid2.vom  Infection: Timid.298.A (exact)
 u:\collection\dos\file_s-z\timid\298\a\tm-298.vom  Infection: Timid.298.A (exact)
@@ -31029,25 +31223,36 @@ u:\collection\dos\file_s-z\timid\300\a\timid300.vom  Infection: Timid.300.A (exa
 u:\collection\dos\file_s-z\timid\300\b\t1.vom  Infection: Timid.300.B (exact)
 u:\collection\dos\file_s-z\timid\300\b\t2.vom  Infection: Timid.300.B (exact)
 u:\collection\dos\file_s-z\timid\300\b\tim300b.vom  Infection: Timid.300.B (exact)
-u:\collection\dos\file_s-z\timid\301\301.vom  Infection: Timid.301.A (exact)
-u:\collection\dos\file_s-z\timid\301\timid3.vom  Infection: Timid.301.A (exact)
-u:\collection\dos\file_s-z\timid\301\timmi301.vom  Infection: Timid.301.A (exact)
-u:\collection\dos\file_s-z\timid\301\tm-301.vom  Infection: Timid.301.A (exact)
+u:\collection\dos\file_s-z\timid\301\a\301.vom  Infection: Timid.301.A (exact)
+u:\collection\dos\file_s-z\timid\301\a\timid3.vom  Infection: Timid.301.A (exact)
+u:\collection\dos\file_s-z\timid\301\a\timmi301.vom  Infection: Timid.301.A (exact)
+u:\collection\dos\file_s-z\timid\301\a\tm-301.vom  Infection: Timid.301.A (exact)
+u:\collection\dos\file_s-z\timid\301\b\virus.dos.timid.301.b  Infection: Timid.301.B (exact)
+u:\collection\dos\file_s-z\timid\301\c\virus.dos.timid.301.c  Infection: Timid.301.C (exact)
+u:\collection\dos\file_s-z\timid\302\a\virus.dos.timid.302.a  Infection: Timid.302.A (exact)
 u:\collection\dos\file_s-z\timid\302\b\timid-lm.vom  Infection: Timid.302.B (exact)
 u:\collection\dos\file_s-z\timid\303\a\tim303a0.vom  Infection: Timid.303.A (exact)
 u:\collection\dos\file_s-z\timid\303\a\timid!!.vom  Infection: Timid.303.A (exact)
 u:\collection\dos\file_s-z\timid\303\a\timidx.vom  Infection: Timid.303.A (exact)
-u:\collection\dos\file_s-z\timid\303\b\_timid~1.vom  Infection: New or modified variant of Timid
+u:\collection\dos\file_s-z\timid\303\b\virus.dos.timid.303.a  Infection: Timid.303.B (exact)
+u:\collection\dos\file_s-z\timid\303\c\_timid~1.vom  Infection: New or modified variant of Timid
 u:\collection\dos\file_s-z\timid\305\a\v9715.vom  Infection: Timid.305.A (exact)
 u:\collection\dos\file_s-z\timid\305\b\305.vom  Infection: Timid.305.B (exact)
 u:\collection\dos\file_s-z\timid\305\b\timi3051.vom  Infection: Timid.305.B (exact)
+u:\collection\dos\file_s-z\timid\305\c\DUMP32.vom  Infection: Timid.305.unknown?
+u:\collection\dos\file_s-z\timid\305\c\LWM.vom  Infection: Timid.305.unknown?
+u:\collection\dos\file_s-z\timid\305\c\t1.vom  Infection: Timid.305.unknown?
+u:\collection\dos\file_s-z\timid\305\c\t3.vom  Infection: Timid.305.unknown?
+u:\collection\dos\file_s-z\timid\305\c\virus.dos.timid.305.b  Infection: Timid.305.unknown?
 u:\collection\dos\file_s-z\timid\306\a\306.vom  Infection: Timid.306.B (exact)
 u:\collection\dos\file_s-z\timid\306\a\timid.vom  Infection: Timid.306.B (exact)
 u:\collection\dos\file_s-z\timid\306\a\timid306.vom  Infection: Timid.306.B (exact)
 u:\collection\dos\file_s-z\timid\306\a\v9730.vom  Infection: Timid.306.B (exact)
 u:\collection\dos\file_s-z\timid\306\b\1d82a077.vom  Infection: Timid.306.A (exact)
 u:\collection\dos\file_s-z\timid\306\c\timid.vom  Infection: Timid.306.C (exact)
+u:\collection\dos\file_s-z\timid\306\d\virus.dos.timid.306.c  Infection: Timid.306.D (exact)
 u:\collection\dos\file_s-z\timid\309\infectme.vom  Infection: Timid.309 (exact)
+u:\collection\dos\file_s-z\timid\313\virus.dos.timid.313  Infection: Timid.313 (exact)
 u:\collection\dos\file_s-z\timid\320\tim320a.vom  Infection: Timid.320 (exact)
 u:\collection\dos\file_s-z\timid\320\tm-320.vom  Infection: Timid.320 (exact)
 u:\collection\dos\file_s-z\timid\371\tim371a.vom  Infection: Timid.371 (exact)
@@ -31068,55 +31273,87 @@ u:\collection\dos\file_s-z\tina\comm.vom  Infection: Tina.826
 u:\collection\dos\file_s-z\tina\tina-826.vom  Infection: Tina.826
 u:\collection\dos\file_s-z\tiny-di\094\v9795.vom  Infection: Tiny_DI.94 (exact)
 u:\collection\dos\file_s-z\tiny-di\101\v9765.vom  Infection: Tiny_DI.101 (exact)
-u:\collection\dos\file_s-z\tiny-di\108\v9770.vom  Infection: Tiny_DI.108.A (exact)
+u:\collection\dos\file_s-z\tiny-di\108\a\v9770.vom  Infection: Tiny_DI.108.A (exact)
+u:\collection\dos\file_s-z\tiny-di\108\b\virus.dos.sillyc.108  Infection: Tiny_DI.108.B (exact)
+u:\collection\dos\file_s-z\tiny-di\109\virus.dos.tic.109.c  Infection: Tiny_DI.109 (exact)
 u:\collection\dos\file_s-z\tiny-di\110\v9775.vom  Infection: Tiny_DI.110 (exact)
 u:\collection\dos\file_s-z\tiny-di\123\v9780.vom  Infection: Tiny_DI.123 (exact)
 u:\collection\dos\file_s-z\tiny-di\127\v9785.vom  Infection: Tiny_DI.127 (exact)
 u:\collection\dos\file_s-z\tiny-di\grower\mute-128.vom  Infection: Tiny_DI.Grower
 u:\collection\dos\file_s-z\tiny-di\grower\v9790.vom  Infection: Tiny_DI.Grower
-u:\collection\dos\file_s-z\tinyfam\133\a\tiny133.vom  Infection: Tiny_Family.133.A (exact)
-u:\collection\dos\file_s-z\tinyfam\133\b\wci0567t.vom  Infection: Tiny_Family.133.B (exact)
-u:\collection\dos\file_s-z\tinyfam\134\tin134a.vom  contains Tiny_Family.134 (non-working)
-u:\collection\dos\file_s-z\tinyfam\134\a\tiny-134.vom  Infection: Tiny_Family.134.A (exact)
-u:\collection\dos\file_s-z\tinyfam\134\a\v9810.vom  Infection: Tiny_Family.134.A (exact)
-u:\collection\dos\file_s-z\tinyfam\134\a\wci0143t.vom  Infection: Tiny_Family.134.A (exact)
-u:\collection\dos\file_s-z\tinyfam\134\b\tf-134b.vom  Infection: Tiny_Family.134.B (exact)
-u:\collection\dos\file_s-z\tinyfam\134\c\134.vom  Infection: Tiny_Family.134.C (exact)
-u:\collection\dos\file_s-z\tinyfam\137\wci0145t.vom  Infection: Tiny_Family.137 (exact)
-u:\collection\dos\file_s-z\tinyfam\138\138-g1.vom  Infection: Tiny_Family.138.A (exact)
-u:\collection\dos\file_s-z\tinyfam\138\v9820.vom  Infection: Tiny_Family.138.A (exact)
-u:\collection\dos\file_s-z\tinyfam\143\143-g1.vom  Infection: Tiny_Family.143 (exact)
-u:\collection\dos\file_s-z\tinyfam\143\v9825.vom  Infection: Tiny_Family.143 (exact)
-u:\collection\dos\file_s-z\tinyfam\154\154-g1.vom  Infection: Tiny_Family.154 (exact)
-u:\collection\dos\file_s-z\tinyfam\154\v9830.vom  Infection: Tiny_Family.154 (exact)
-u:\collection\dos\file_s-z\tinyfam\156\156-g1.vom  Infection: Tiny_Family.156 (exact)
-u:\collection\dos\file_s-z\tinyfam\156\v9835.vom  Infection: Tiny_Family.156 (exact)
-u:\collection\dos\file_s-z\tinyfam\156\wci08411.vom  Infection: Tiny_Family.156 (exact)
-u:\collection\dos\file_s-z\tinyfam\157\infectme.vom  Infection: Tiny_Family.157 (exact)
-u:\collection\dos\file_s-z\tinyfam\158\158-g1.vom  Infection: Tiny_Family.158 (exact)
-u:\collection\dos\file_s-z\tinyfam\158\v9840.vom  Infection: Tiny_Family.158 (exact)
-u:\collection\dos\file_s-z\tinyfam\159\159-g1.vom  Infection: Tiny_Family.159 (exact)
-u:\collection\dos\file_s-z\tinyfam\159\v9845.vom  Infection: Tiny_Family.159 (exact)
-u:\collection\dos\file_s-z\tinyfam\160\160-g1.vom  Infection: Tiny_Family.160 (exact)
-u:\collection\dos\file_s-z\tinyfam\160\v9850.vom  Infection: Tiny_Family.160 (exact)
-u:\collection\dos\file_s-z\tinyfam\167\v9860.vom  Infection: Tiny_Family.167.A (exact)
-u:\collection\dos\file_s-z\tinyfam\171\t1.vom  Infection: Tiny_Family.171
-u:\collection\dos\file_s-z\tinyfam\171\t4.vom  Infection: Tiny_Family.171
-u:\collection\dos\file_s-z\tinyfam\171\t7.vom  Infection: Tiny_Family.171
-u:\collection\dos\file_s-z\tinyfam\171\wci03084.vom  Infection: Tiny_Family.171
-u:\collection\dos\file_s-z\tinyfam\198\tiny--g1.vom  Infection: Tiny_Family.198 (exact)
-u:\collection\dos\file_s-z\tinyfam\198\tiny198.vom  Infection: Tiny_Family.198 (exact)
-u:\collection\dos\file_s-z\tinyfam\202\t1.vom  Infection: Tiny_Family.202
-u:\collection\dos\file_s-z\tinyfam\202\t3.vom  Infection: Tiny_Family.202
-u:\collection\dos\file_s-z\tinyfam\202\t5.vom  Infection: Tiny_Family.202
-u:\collection\dos\file_s-z\tinyfam\202\t7.vom  Infection: Tiny_Family.202
-u:\collection\dos\file_s-z\tinyfam\202\wci03594.vom  Infection: Tiny_Family.202
-u:\collection\dos\file_s-z\tinyfam\fred\tinyfred.vom  Infection: Tiny_Family.255 (exact)
-u:\collection\dos\file_s-z\tinyfam\ghost\ghost-a.vom  Infection: Tiny_Family.330 (exact)
+u:\collection\dos\file_s-z\tiny_baby\82\virus.dos.baby.82  Infection: Tiny_Baby.82
+u:\collection\dos\file_s-z\tiny_family\060\virus.dos.mini.60.c  Infection: Tiny_Family.60 (exact)
+u:\collection\dos\file_s-z\tiny_family\104\virus.dos.tiny.104  Infection: Tiny_Family.104 (exact)
+u:\collection\dos\file_s-z\tiny_family\133\a\tiny133.vom  Infection: Tiny_Family.133.A (exact)
+u:\collection\dos\file_s-z\tiny_family\133\b\wci0567t.vom  Infection: Tiny_Family.133.B (exact)
+u:\collection\dos\file_s-z\tiny_family\133\c\virus.dos.tiny.133.c  Infection: Tiny_Family.133.C (exact)
+u:\collection\dos\file_s-z\tiny_family\133\d\virus.dos.tiny.133.d  Infection: Tiny_Family.133.D (exact)
+u:\collection\dos\file_s-z\tiny_family\134\a\tiny-134.vom  Infection: Tiny_Family.134.A (exact)
+u:\collection\dos\file_s-z\tiny_family\134\a\v9810.vom  Infection: Tiny_Family.134.A (exact)
+u:\collection\dos\file_s-z\tiny_family\134\a\wci0143t.vom  Infection: Tiny_Family.134.A (exact)
+u:\collection\dos\file_s-z\tiny_family\134\b\tf-134b.vom  Infection: Tiny_Family.134.B (exact)
+u:\collection\dos\file_s-z\tiny_family\134\c\134.vom  Infection: Tiny_Family.134.C (exact)
+u:\collection\dos\file_s-z\tiny_family\134\unknown\virus.dos.tiny.135.b  Infection: Tiny_Family.134.unknown?
+u:\collection\dos\file_s-z\tiny_family\137\wci0145t.vom  Infection: Tiny_Family.137 (exact)
+u:\collection\dos\file_s-z\tiny_family\138\a\138-g1.vom  Infection: Tiny_Family.138.A (exact)
+u:\collection\dos\file_s-z\tiny_family\138\a\v9820.vom  Infection: Tiny_Family.138.A (exact)
+u:\collection\dos\file_s-z\tiny_family\138\b\virus.dos.tiny.138.b  Infection: Tiny_Family.138.B (exact)
+u:\collection\dos\file_s-z\tiny_family\141\virus.dos.tiny.141  Infection: Tiny_Family.141 (exact)
+u:\collection\dos\file_s-z\tiny_family\143\143-g1.vom  Infection: Tiny_Family.143 (exact)
+u:\collection\dos\file_s-z\tiny_family\143\v9825.vom  Infection: Tiny_Family.143 (exact)
+u:\collection\dos\file_s-z\tiny_family\145\virus.dos.tiny.145  Infection: Tiny_Family.145 (exact)
+u:\collection\dos\file_s-z\tiny_family\146\virus.dos.tiny.146  Infection: Tiny_Family.146 (exact)
+u:\collection\dos\file_s-z\tiny_family\154\154-g1.vom  Infection: Tiny_Family.154 (exact)
+u:\collection\dos\file_s-z\tiny_family\154\v9830.vom  Infection: Tiny_Family.154 (exact)
+u:\collection\dos\file_s-z\tiny_family\156\156-g1.vom  Infection: Tiny_Family.156 (exact)
+u:\collection\dos\file_s-z\tiny_family\156\v9835.vom  Infection: Tiny_Family.156 (exact)
+u:\collection\dos\file_s-z\tiny_family\156\wci08411.vom  Infection: Tiny_Family.156 (exact)
+u:\collection\dos\file_s-z\tiny_family\157\infectme.vom  Infection: Tiny_Family.157 (exact)
+u:\collection\dos\file_s-z\tiny_family\158\158-g1.vom  Infection: Tiny_Family.158 (exact)
+u:\collection\dos\file_s-z\tiny_family\158\v9840.vom  Infection: Tiny_Family.158 (exact)
+u:\collection\dos\file_s-z\tiny_family\158\unknown\virus.dos.tiny.167.b  contains Tiny_Family.158 (non-working)
+u:\collection\dos\file_s-z\tiny_family\159\159-g1.vom  Infection: Tiny_Family.159 (exact)
+u:\collection\dos\file_s-z\tiny_family\159\v9845.vom  Infection: Tiny_Family.159 (exact)
+u:\collection\dos\file_s-z\tiny_family\160\160-g1.vom  Infection: Tiny_Family.160 (exact)
+u:\collection\dos\file_s-z\tiny_family\160\v9850.vom  Infection: Tiny_Family.160 (exact)
+u:\collection\dos\file_s-z\tiny_family\161\a\virus.dos.tiny.161  Infection: Tiny_Family.161.A (exact)
+u:\collection\dos\file_s-z\tiny_family\161\b\virus.dos.tiny.161.b  Infection: Tiny_Family.161.B (exact)
+u:\collection\dos\file_s-z\tiny_family\164\a\virus.dos.tiny.164.a  Infection: Tiny_Family.164.A (exact)
+u:\collection\dos\file_s-z\tiny_family\164\b\virus.dos.tiny.164.b  Infection: Tiny_Family.164.B (exact)
+u:\collection\dos\file_s-z\tiny_family\167\v9860.vom  Infection: Tiny_Family.167.A (exact)
+u:\collection\dos\file_s-z\tiny_family\171\t1.vom  Infection: Tiny_Family.171
+u:\collection\dos\file_s-z\tiny_family\171\t4.vom  Infection: Tiny_Family.171
+u:\collection\dos\file_s-z\tiny_family\171\t7.vom  Infection: Tiny_Family.171
+u:\collection\dos\file_s-z\tiny_family\171\wci03084.vom  Infection: Tiny_Family.171
+u:\collection\dos\file_s-z\tiny_family\175\a\virus.dos.tiny.175.a  Infection: Tiny_Family.175.A (exact)
+u:\collection\dos\file_s-z\tiny_family\175\b\virus.dos.tiny.175.b  Infection: Tiny_Family.175.B (exact)
+u:\collection\dos\file_s-z\tiny_family\179\b\virus.dos.tiny.179.b  Infection: Tiny_Family.179.B (exact)
+u:\collection\dos\file_s-z\tiny_family\179\unknown\virus.dos.tiny.179.c  Infection: Tiny_Family.179.unknown?
+u:\collection\dos\file_s-z\tiny_family\195\virus.dos.tiny.195.b  Infection: Tiny_Family.195 (exact)
+u:\collection\dos\file_s-z\tiny_family\197\virus.dos.tiny.197  Infection: Tiny_Family.197 (exact)
+u:\collection\dos\file_s-z\tiny_family\198\tiny--g1.vom  Infection: Tiny_Family.198 (exact)
+u:\collection\dos\file_s-z\tiny_family\198\tiny198.vom  Infection: Tiny_Family.198 (exact)
+u:\collection\dos\file_s-z\tiny_family\202\t1.vom  Infection: Tiny_Family.202
+u:\collection\dos\file_s-z\tiny_family\202\t3.vom  Infection: Tiny_Family.202
+u:\collection\dos\file_s-z\tiny_family\202\t5.vom  Infection: Tiny_Family.202
+u:\collection\dos\file_s-z\tiny_family\202\t7.vom  Infection: Tiny_Family.202
+u:\collection\dos\file_s-z\tiny_family\202\wci03594.vom  Infection: Tiny_Family.202
+u:\collection\dos\file_s-z\tiny_family\210\virus.dos.tiny.210  Infection: Tiny_Family.210 (exact)
+u:\collection\dos\file_s-z\tiny_family\218\b\virus.dos.tiny.218  Infection: Tiny_Family.218.B (exact)
+u:\collection\dos\file_s-z\tiny_family\220\virus.dos.tiny.220  Infection: Tiny_Family.220
+u:\collection\dos\file_s-z\tiny_family\273\virus.dos.sillyoc.273  Infection: Tiny_Family.273 (exact)
+u:\collection\dos\file_s-z\tiny_family\275\virus.dos.sillyoc.275  Infection: Tiny_Family.275 (exact)
+u:\collection\dos\file_s-z\tiny_family\321\virus.dos.vein.321  Infection: Tiny_Family.321 (exact)
+u:\collection\dos\file_s-z\tiny_family\442\intended\virus.dos.tiny.442  Infection: Tiny_Family.442.intended
+u:\collection\dos\file_s-z\tiny_family\fred\tinyfred.vom  Infection: Tiny_Family.255 (exact)
+u:\collection\dos\file_s-z\tiny_family\ghost\ghost-a.vom  Infection: Tiny_Family.330 (exact)
 u:\collection\dos\file_s-z\tiny_gm\129\tinydi.vom  Infection: Tiny_GM.129 (exact)
 u:\collection\dos\file_s-z\tiny_gm\163\v6385.vom  Infection: Tiny_GM.163.A (exact)
 u:\collection\dos\file_s-z\tique\386\sc-386.vom  Infection: Tique.386 (exact)
+u:\collection\dos\file_s-z\tiran\0950\virus.dos.tiran.950  Infection: Tiran.950 (exact)
+u:\collection\dos\file_s-z\tiran\1372\virus.dos.tiran.1372  Infection: Tiran.1372 (exact)
 u:\collection\dos\file_s-z\tired\tired.vom  Infection: Tired.1720
+u:\collection\dos\file_s-z\tirfor\1095\virus.dos.featureless.1098  Infection: Tirfor.1095
 u:\collection\dos\file_s-z\tiso\0846\tiso.vom  Infection: Tiso.846
 u:\collection\dos\file_s-z\tiso\0940\tiso-940.vom  Infection: Tiso.940
 u:\collection\dos\file_s-z\tiso\1279\wci0162t.vxe  Infection: Tiso.1279
@@ -31131,6 +31368,10 @@ u:\collection\dos\file_s-z\tmc\mapmem.vxe  Infection: TMC.A
 u:\collection\dos\file_s-z\tmc\mm.vom  Infection: TMC.A
 u:\collection\dos\file_s-z\tmc\tmc_6x9.vom  Infection: TMC.A
 u:\collection\dos\file_s-z\tme\tme01a.vom  Infection: Sardonic.643 (exact)
+u:\collection\dos\file_s-z\tmfv\828\virus.dos.perth.828  Infection: Tmfv.828 (exact)
+u:\collection\dos\file_s-z\tobacco\1148\virus.dos.tobacco.1148  Infection: Tobacco.1148
+u:\collection\dos\file_s-z\today\477\virus.dos.today.477  Infection: Today.477
+u:\collection\dos\file_s-z\todayjfk\3100\virus.dos.neuro.3100  Infection: TodayJFK.3100
 u:\collection\dos\file_s-z\todor\todor.vxe  Infection: Todor.1993 (exact)
 u:\collection\dos\file_s-z\tokyo\1068\tok1068.vxe  Infection: Tokyo.1068 (exact)
 u:\collection\dos\file_s-z\tokyo\1258\v9890.vxe  Infection: Tokyo.1258 (exact)
@@ -31146,6 +31387,7 @@ u:\collection\dos\file_s-z\tolbuhin\0992\a\tolb_992.vom  Infection: Tolbuhin.992
 u:\collection\dos\file_s-z\tolbuhin\0992\b\tlb0992b.vom  Infection: Tolbuhin.992.B (exact)
 u:\collection\dos\file_s-z\tolbuhin\1004\a\v9895.vom  Infection: Tolbuhin.1004.A (exact)
 u:\collection\dos\file_s-z\tolbuhin\1004\b\tolb1004.vom  Infection: Tolbuhin.1004.B (exact)
+u:\collection\dos\file_s-z\tolbuhin\1024\virus.dos.shengli.1024  Infection: Tolbuhin.1024
 u:\collection\dos\file_s-z\tolbuhin\1147\tol1147b.vom  Infection: Tolbuhin.1147
 u:\collection\dos\file_s-z\tolbuhin\1147\tolb1147.vom  Infection: Tolbuhin.1147
 u:\collection\dos\file_s-z\tomato\tomato.vom  Infection: Tomato.2156
@@ -31158,6 +31400,8 @@ u:\collection\dos\file_s-z\tongji\1535\t3.vxe  Infection: Tongji.1527
 u:\collection\dos\file_s-z\tongji\1535\tong1535.vxe  Infection: Tongji.1527
 u:\collection\dos\file_s-z\tony\200\v9905.vom  Infection: Tony.200 (exact)
 u:\collection\dos\file_s-z\tony\203\tony203.vom  Infection: Tony.203 (exact)
+u:\collection\dos\file_s-z\toobig\01779\virus.dos.whitehand.1799  Infection: Toobig.1779 (exact)
+u:\collection\dos\file_s-z\toobig\21844\virus.dos.whitehand.21844  Infection: Toobig.21844
 u:\collection\dos\file_s-z\toothles\lady873.vom  Infection: Toothless.873
 u:\collection\dos\file_s-z\toothles\lwm.vom  Infection: Toothless.873
 u:\collection\dos\file_s-z\toothles\t1.vom  Infection: Toothless.873
@@ -31352,8 +31596,25 @@ u:\collection\dos\file_s-z\tornado\redzar\616\t5.vom  Infection: Nado.616
 u:\collection\dos\file_s-z\tornado\redzar\616\t6.vom  Infection: Nado.616
 u:\collection\dos\file_s-z\tornado\redzar\616\t7.vom  Infection: Nado.616
 u:\collection\dos\file_s-z\tornado\redzar\616\t8.vom  Infection: Nado.616
+u:\collection\dos\file_s-z\torpino\11591\virus.dos.torpino.11591  Infection: Torpino.11591
+u:\collection\dos\file_s-z\torture\3706\virus.dos.torture.3706  Infection: Torture.3706 (exact)
+u:\collection\dos\file_s-z\tosha\0313\virus.dos.tosha.313  Infection: Tosha.313 (exact)
+u:\collection\dos\file_s-z\tosha\0321\virus.dos.tosha.321  Infection: Tosha.321 (exact)
+u:\collection\dos\file_s-z\tosha\3314\virus.dos.tosha.3314  Infection: Tosha.3314 (exact)
 u:\collection\dos\file_s-z\totaltra\2169\tt.vom  Infection: Total_Trash.2169
 u:\collection\dos\file_s-z\totaltra\2174\tottras1.vom  Infection: Total_Trash.2174 - Dropper
+u:\collection\dos\file_s-z\toto\307\a\virus.dos.totobola.307  Infection: Toto.307.A (exact)
+u:\collection\dos\file_s-z\tourist\1875\virus.dos.tourist.1871  Infection: Tourist.1875
+u:\collection\dos\file_s-z\tout\260\virus.dos.sillyc.260.a  Infection: Tout.260 (exact)
+u:\collection\dos\file_s-z\tout\272\virus.dos.sirius.annihilator.272.d  Infection: Tout.272 (exact)
+u:\collection\dos\file_s-z\tout\275\a\virus.dos.tout.275  Infection: Tout.275.A (exact)
+u:\collection\dos\file_s-z\tout\335\a\virus.dos.tout.335  Infection: Tout.335 (exact)
+u:\collection\dos\file_s-z\tout\335\b\sir-335.vom  Infection: Sirius.335.A (exact)
+u:\collection\dos\file_s-z\tout\335\b\t7.vom  Infection: Sirius.335.A (exact)
+u:\collection\dos\file_s-z\tout\335\b\virus.dos.tout.335.b  Infection: Sirius.335.A (exact)
+u:\collection\dos\file_s-z\tout\337\sir-337.vom  Infection: Sirius.337 (exact)
+u:\collection\dos\file_s-z\tout\337\t1.vom  Infection: Sirius.337 (exact)
+u:\collection\dos\file_s-z\tout\338\virus.dos.tout.338  Infection: Tout.338 (exact)
 u:\collection\dos\file_s-z\toxic\208\lwm.vom  Infection: Toxic.208 (exact)
 u:\collection\dos\file_s-z\toxic\208\t10.vom  Infection: Toxic.208 (exact)
 u:\collection\dos\file_s-z\toxic\208\wci0191t.vom  Infection: Toxic.208 (exact)
@@ -31648,14 +31909,12 @@ u:\collection\dos\file_s-z\tpower\zarma\2389\zm2389-1.vom  Infection: Zarma.2389
 u:\collection\dos\file_s-z\tpower\zarma\2389\zm2389-1.vxe  Infection: Zarma.2389
 u:\collection\dos\file_s-z\tpower\zarma\2389\zm2389-2.vxe  Infection: Zarma.2389
 u:\collection\dos\file_s-z\tpower\zarma\2389\zm2389-3.vxe  Infection: Zarma.2389
-u:\collection\dos\file_s-z\tps\484\t7.vom  Infection: Trivial.484.B (exact)
-u:\collection\dos\file_s-z\tps\484\tc.vom  Infection: Trivial.484.A (exact)
-u:\collection\dos\file_s-z\tps\484\tf.vom  Infection: Trivial.484.B (exact)
-u:\collection\dos\file_s-z\tps\484\tps484.vom  Infection: Trivial.484.B (exact)
+u:\collection\dos\file_s-z\tps\658\virus.dos.tps.659  Infection: Tps.658 (exact)
 u:\collection\dos\file_s-z\tpvo\ansi\155\vir.vom  Infection: Fuzzy.155
 u:\collection\dos\file_s-z\tpvo\ansi\158\vir.vom  Infection: SillyComp.158 (exact)
 u:\collection\dos\file_s-z\tpvo\connie\connie3.vom  Infection: Connie.2834
 u:\collection\dos\file_s-z\tpvo\cvex\cvex8.vom  Infection: Cvex8.689.A (exact)
+u:\collection\dos\file_s-z\tpvo\declaration\3654\virus.dos.tpvo.3345  Infection: Tpvo.3654 (exact)
 u:\collection\dos\file_s-z\tpvo\dir\dircom.vom  Infection: DIR.573
 u:\collection\dos\file_s-z\tpvo\easy\542\easy10.vom  Infection: New or modified variant of Answer
 u:\collection\dos\file_s-z\tpvo\easy\543\easy.vom  contains Answer (non-working)
@@ -31791,6 +32050,7 @@ u:\collection\dos\file_s-z\tpvo\pitch\1329\c\t1.vom  Infection: Tpvo.1329.A (exa
 u:\collection\dos\file_s-z\tpvo\pitch\1329\c\t1.vxe  Infection: Tpvo.1329.A (exact)
 u:\collection\dos\file_s-z\tpvo\pitch\1329\c\t2.vxe  Infection: Tpvo.1329.A (exact)
 u:\collection\dos\file_s-z\tpvo\pitch\1329\c\t5.vom  Infection: Tpvo.1329.A (exact)
+u:\collection\dos\file_s-z\tpvo\pitch\1329\f\virus.dos.tpvo.pitch.1329.a  Infection: Tpvo.1329.F (exact)
 u:\collection\dos\file_s-z\tpvo\poodle\poodle.vom  Infection: Poodle.1418
 u:\collection\dos\file_s-z\tpvo\remember\0811\t1.vom  Infection: Remember.811
 u:\collection\dos\file_s-z\tpvo\remember\0811\t3.vom  Infection: Remember.811
@@ -31833,6 +32093,8 @@ u:\collection\dos\file_s-z\tpvo\stealth\803\t1.vom  Infection: Stdemo.803
 u:\collection\dos\file_s-z\tpvo\stealth\803\t3.vom  Infection: Stdemo.803
 u:\collection\dos\file_s-z\tpvo\stealth\803\t5.vom  Infection: Stdemo.803
 u:\collection\dos\file_s-z\tpvo\stealth\803\t7.vom  Infection: Stdemo.803
+u:\collection\dos\file_s-z\tpvo\stealth\819\a\virus.dos.tpvo.stealth.819.a  Infection: Tpvo.819 (exact)
+u:\collection\dos\file_s-z\tpvo\stealth\819\b\virus.dos.tpvo.stealth.819.b  Infection: Tpvo.819 (exact)
 u:\collection\dos\file_s-z\tpvo\stealth\820\stealth.vom  Infection: Stdemo.820
 u:\collection\dos\file_s-z\tpvo\stealth\820\t1.vom  Infection: Stdemo.820
 u:\collection\dos\file_s-z\tpvo\stealth\820\t3.vom  Infection: Stdemo.820
@@ -31857,6 +32119,7 @@ u:\collection\dos\file_s-z\tpvo\terrax\1069\t6.vom  Infection: Terrax.1069
 u:\collection\dos\file_s-z\tpvo\terrax\1069\t7.vom  Infection: Terrax.1069
 u:\collection\dos\file_s-z\tpvo\terrax\1069\t8.vom  Infection: Terrax.1069
 u:\collection\dos\file_s-z\tpvo\terrax\1069\wci0076t.vom  Infection: Terrax.1069
+u:\collection\dos\file_s-z\tpvo\win\3783\3783.vom  Infection: Tpvo.3783.A (exact)
 u:\collection\dos\file_s-z\tpvo\win\3783\ne3783.vxe  Infection: Win/Tpvo.3783.A (exact)
 u:\collection\dos\file_s-z\tpvo\zhuge\1568\t1.vom  Infection: Open.1568
 u:\collection\dos\file_s-z\tpvo\zhuge\1568\t1.vxe  Infection: Open.1568
@@ -31945,95 +32208,95 @@ u:\collection\dos\file_s-z\tpvo\zhuge\1729\t6.vom  Infection: YCTC.1729
 u:\collection\dos\file_s-z\tpvo\zhuge\1729\t6.vxe  Infection: YCTC.1729
 u:\collection\dos\file_s-z\tpvo\zhuge\1729\wci00273.vom  Infection: YCTC.1729
 u:\collection\dos\file_s-z\tpworm\tpworm.vxe  Infection: HLLC.12969 (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\progman.vxe  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\rundll.vxe  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\t1.vom  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\t1.vxe  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\t10.vom  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\t2.vom  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\t2.vxe  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\t3.vom  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\t3.vxe  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\t4.vom  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\t4.vxe  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\t5.vom  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\t5.vxe  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\t6.vom  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\t6.vxe  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\t7.vom  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\t8.vom  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\trb2930b.vom  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\a\winfile.vxe  Infection: Traceback.2930.A (exact)
-u:\collection\dos\file_s-z\tracebck\2930\b\t1.vom  Infection: Traceback.2930.B (exact)
-u:\collection\dos\file_s-z\tracebck\2930\b\t1.vxe  Infection: Traceback.2930.B (exact)
-u:\collection\dos\file_s-z\tracebck\2930\b\t2.vom  Infection: Traceback.2930.B (exact)
-u:\collection\dos\file_s-z\tracebck\2930\b\t2.vxe  Infection: Traceback.2930.B (exact)
-u:\collection\dos\file_s-z\tracebck\2930\b\t3.vom  Infection: Traceback.2930.B (exact)
-u:\collection\dos\file_s-z\tracebck\2930\b\t3.vxe  Infection: Traceback.2930.B (exact)
-u:\collection\dos\file_s-z\tracebck\2930\b\t4.vom  Infection: Traceback.2930.B (exact)
-u:\collection\dos\file_s-z\tracebck\2930\b\t4.vxe  Infection: Traceback.2930.B (exact)
-u:\collection\dos\file_s-z\tracebck\2930\b\t5.vom  Infection: Traceback.2930.B (exact)
-u:\collection\dos\file_s-z\tracebck\2930\b\t5.vxe  Infection: Traceback.2930.B (exact)
-u:\collection\dos\file_s-z\tracebck\2930\b\t6.vom  Infection: Traceback.2930.B (exact)
-u:\collection\dos\file_s-z\tracebck\2930\b\t6.vxe  Infection: Traceback.2930.B (exact)
-u:\collection\dos\file_s-z\tracebck\2930\b\t7.vom  Infection: Traceback.2930.B (exact)
-u:\collection\dos\file_s-z\tracebck\2930\b\t8.vom  Infection: Traceback.2930.B (exact)
-u:\collection\dos\file_s-z\tracebck\2930\b\tcb2930b.vxe  Infection: Traceback.2930.B (exact)
-u:\collection\dos\file_s-z\tracebck\2930\b\v9920.vxe  Infection: Traceback.2930.B (exact)
-u:\collection\dos\file_s-z\tracebck\2930\b\v9925.vom  Infection: Traceback.2930.B (exact)
-u:\collection\dos\file_s-z\tracebck\2930\c\2930.vxe  Infection: Traceback.2930.C (exact)
-u:\collection\dos\file_s-z\tracebck\2930\c\t1.vom  Infection: Traceback.2930.E (exact)
-u:\collection\dos\file_s-z\tracebck\2930\c\t1.vxe  Infection: Traceback.2930.E (exact)
-u:\collection\dos\file_s-z\tracebck\2930\c\t2.vom  Infection: Traceback.2930.E (exact)
-u:\collection\dos\file_s-z\tracebck\2930\c\t2.vxe  Infection: Traceback.2930.E (exact)
-u:\collection\dos\file_s-z\tracebck\2930\c\t3.vom  Infection: Traceback.2930.E (exact)
-u:\collection\dos\file_s-z\tracebck\2930\c\t3.vxe  Infection: Traceback.2930.E (exact)
-u:\collection\dos\file_s-z\tracebck\2930\c\t4.vom  Infection: Traceback.2930.E (exact)
-u:\collection\dos\file_s-z\tracebck\2930\c\t4.vxe  Infection: Traceback.2930.E (exact)
-u:\collection\dos\file_s-z\tracebck\2930\c\t5.vom  Infection: Traceback.2930.E (exact)
-u:\collection\dos\file_s-z\tracebck\2930\c\t5.vxe  Infection: Traceback.2930.E (exact)
-u:\collection\dos\file_s-z\tracebck\2930\c\t6.vom  Infection: Traceback.2930.E (exact)
-u:\collection\dos\file_s-z\tracebck\2930\c\t6.vxe  Infection: Traceback.2930.E (exact)
-u:\collection\dos\file_s-z\tracebck\2930\c\t7.vom  Infection: Traceback.2930.E (exact)
-u:\collection\dos\file_s-z\tracebck\2930\c\t8.vom  Infection: Traceback.2930.E (exact)
-u:\collection\dos\file_s-z\tracebck\2930\c\trace.vom  Infection: Traceback.2930.E (exact)
-u:\collection\dos\file_s-z\tracebck\2930\c\win.vom  Infection: Traceback.2930.C (exact)
-u:\collection\dos\file_s-z\tracebck\3029\command.vom  Infection: Traceback.3029
-u:\collection\dos\file_s-z\tracebck\3029\v9945.vxe  Infection: Traceback.3029
-u:\collection\dos\file_s-z\tracebck\3029\win.vom  Infection: Traceback.3029
-u:\collection\dos\file_s-z\tracebck\3066\a\3066.vom  is a corrupted or intended virus
-u:\collection\dos\file_s-z\tracebck\3066\a\t1.vom  Infection: Traceback.3066.A (exact)
-u:\collection\dos\file_s-z\tracebck\3066\a\t1.vxe  Infection: Traceback.3066.A (exact)
-u:\collection\dos\file_s-z\tracebck\3066\a\t2.vom  Infection: Traceback.3066.A (exact)
-u:\collection\dos\file_s-z\tracebck\3066\a\t2.vxe  Infection: Traceback.3066.A (exact)
-u:\collection\dos\file_s-z\tracebck\3066\a\t3.vom  Infection: Traceback.3066.A (exact)
-u:\collection\dos\file_s-z\tracebck\3066\a\t3.vxe  Infection: Traceback.3066.A (exact)
-u:\collection\dos\file_s-z\tracebck\3066\a\t4.vom  Infection: Traceback.3066.A (exact)
-u:\collection\dos\file_s-z\tracebck\3066\a\t4.vxe  Infection: Traceback.3066.A (exact)
-u:\collection\dos\file_s-z\tracebck\3066\a\t5.vom  Infection: Traceback.3066.A (exact)
-u:\collection\dos\file_s-z\tracebck\3066\a\t5.vxe  Infection: Traceback.3066.A (exact)
-u:\collection\dos\file_s-z\tracebck\3066\a\t6.vom  Infection: Traceback.3066.A (exact)
-u:\collection\dos\file_s-z\tracebck\3066\a\t6.vxe  Infection: Traceback.3066.A (exact)
-u:\collection\dos\file_s-z\tracebck\3066\a\t7.vom  Infection: Traceback.3066.A (exact)
-u:\collection\dos\file_s-z\tracebck\3066\a\t8.vom  Infection: Traceback.3066.A (exact)
-u:\collection\dos\file_s-z\tracebck\3066\a\tcb3066a.vxe  Infection: Traceback.3066.A (exact)
-u:\collection\dos\file_s-z\tracebck\3066\a\tracback.vom  is a virus dropper
-u:\collection\dos\file_s-z\tracebck\3066\a\tracebck.vom  Infection: Traceback.3066.A (exact)
-u:\collection\dos\file_s-z\tracebck\3066\b\t1.vom  Infection: Traceback.3066.B (exact)
-u:\collection\dos\file_s-z\tracebck\3066\b\t1.vxe  Infection: Traceback.3066.B (exact)
-u:\collection\dos\file_s-z\tracebck\3066\b\t2.vom  Infection: Traceback.3066.B (exact)
-u:\collection\dos\file_s-z\tracebck\3066\b\t2.vxe  Infection: Traceback.3066.B (exact)
-u:\collection\dos\file_s-z\tracebck\3066\b\t3.vom  Infection: Traceback.3066.B (exact)
-u:\collection\dos\file_s-z\tracebck\3066\b\t3.vxe  Infection: Traceback.3066.B (exact)
-u:\collection\dos\file_s-z\tracebck\3066\b\t4.vom  Infection: Traceback.3066.B (exact)
-u:\collection\dos\file_s-z\tracebck\3066\b\t4.vxe  Infection: Traceback.3066.B (exact)
-u:\collection\dos\file_s-z\tracebck\3066\b\t5.vom  Infection: Traceback.3066.B (exact)
-u:\collection\dos\file_s-z\tracebck\3066\b\t5.vxe  Infection: Traceback.3066.B (exact)
-u:\collection\dos\file_s-z\tracebck\3066\b\t6.vom  Infection: Traceback.3066.B (exact)
-u:\collection\dos\file_s-z\tracebck\3066\b\t6.vxe  Infection: Traceback.3066.B (exact)
-u:\collection\dos\file_s-z\tracebck\3066\b\t7.vom  Infection: Traceback.3066.B (exact)
-u:\collection\dos\file_s-z\tracebck\3066\b\t8.vom  Infection: Traceback.3066.B (exact)
-u:\collection\dos\file_s-z\tracebck\3066\b\trace306.vom  Infection: Traceback.3066.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\progman.vxe  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\rundll.vxe  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\t1.vom  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\t1.vxe  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\t10.vom  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\t2.vom  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\t2.vxe  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\t3.vom  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\t3.vxe  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\t4.vom  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\t4.vxe  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\t5.vom  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\t5.vxe  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\t6.vom  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\t6.vxe  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\t7.vom  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\t8.vom  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\trb2930b.vom  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\a\winfile.vxe  Infection: Traceback.2930.A (exact)
+u:\collection\dos\file_s-z\traceback\2930\b\t1.vom  Infection: Traceback.2930.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\b\t1.vxe  Infection: Traceback.2930.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\b\t2.vom  Infection: Traceback.2930.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\b\t2.vxe  Infection: Traceback.2930.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\b\t3.vom  Infection: Traceback.2930.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\b\t3.vxe  Infection: Traceback.2930.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\b\t4.vom  Infection: Traceback.2930.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\b\t4.vxe  Infection: Traceback.2930.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\b\t5.vom  Infection: Traceback.2930.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\b\t5.vxe  Infection: Traceback.2930.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\b\t6.vom  Infection: Traceback.2930.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\b\t6.vxe  Infection: Traceback.2930.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\b\t7.vom  Infection: Traceback.2930.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\b\t8.vom  Infection: Traceback.2930.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\b\tcb2930b.vxe  Infection: Traceback.2930.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\b\v9920.vxe  Infection: Traceback.2930.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\b\v9925.vom  Infection: Traceback.2930.B (exact)
+u:\collection\dos\file_s-z\traceback\2930\c\2930.vxe  Infection: Traceback.2930.C (exact)
+u:\collection\dos\file_s-z\traceback\2930\c\t1.vom  Infection: Traceback.2930.E (exact)
+u:\collection\dos\file_s-z\traceback\2930\c\t1.vxe  Infection: Traceback.2930.E (exact)
+u:\collection\dos\file_s-z\traceback\2930\c\t2.vom  Infection: Traceback.2930.E (exact)
+u:\collection\dos\file_s-z\traceback\2930\c\t2.vxe  Infection: Traceback.2930.E (exact)
+u:\collection\dos\file_s-z\traceback\2930\c\t3.vom  Infection: Traceback.2930.E (exact)
+u:\collection\dos\file_s-z\traceback\2930\c\t3.vxe  Infection: Traceback.2930.E (exact)
+u:\collection\dos\file_s-z\traceback\2930\c\t4.vom  Infection: Traceback.2930.E (exact)
+u:\collection\dos\file_s-z\traceback\2930\c\t4.vxe  Infection: Traceback.2930.E (exact)
+u:\collection\dos\file_s-z\traceback\2930\c\t5.vom  Infection: Traceback.2930.E (exact)
+u:\collection\dos\file_s-z\traceback\2930\c\t5.vxe  Infection: Traceback.2930.E (exact)
+u:\collection\dos\file_s-z\traceback\2930\c\t6.vom  Infection: Traceback.2930.E (exact)
+u:\collection\dos\file_s-z\traceback\2930\c\t6.vxe  Infection: Traceback.2930.E (exact)
+u:\collection\dos\file_s-z\traceback\2930\c\t7.vom  Infection: Traceback.2930.E (exact)
+u:\collection\dos\file_s-z\traceback\2930\c\t8.vom  Infection: Traceback.2930.E (exact)
+u:\collection\dos\file_s-z\traceback\2930\c\trace.vom  Infection: Traceback.2930.E (exact)
+u:\collection\dos\file_s-z\traceback\2930\c\win.vom  Infection: Traceback.2930.C (exact)
+u:\collection\dos\file_s-z\traceback\3029\command.vom  Infection: Traceback.3029
+u:\collection\dos\file_s-z\traceback\3029\v9945.vxe  Infection: Traceback.3029
+u:\collection\dos\file_s-z\traceback\3029\win.vom  Infection: Traceback.3029
+u:\collection\dos\file_s-z\traceback\3066\a\3066.vom  is a corrupted or intended virus
+u:\collection\dos\file_s-z\traceback\3066\a\t1.vom  Infection: Traceback.3066.A (exact)
+u:\collection\dos\file_s-z\traceback\3066\a\t1.vxe  Infection: Traceback.3066.A (exact)
+u:\collection\dos\file_s-z\traceback\3066\a\t2.vom  Infection: Traceback.3066.A (exact)
+u:\collection\dos\file_s-z\traceback\3066\a\t2.vxe  Infection: Traceback.3066.A (exact)
+u:\collection\dos\file_s-z\traceback\3066\a\t3.vom  Infection: Traceback.3066.A (exact)
+u:\collection\dos\file_s-z\traceback\3066\a\t3.vxe  Infection: Traceback.3066.A (exact)
+u:\collection\dos\file_s-z\traceback\3066\a\t4.vom  Infection: Traceback.3066.A (exact)
+u:\collection\dos\file_s-z\traceback\3066\a\t4.vxe  Infection: Traceback.3066.A (exact)
+u:\collection\dos\file_s-z\traceback\3066\a\t5.vom  Infection: Traceback.3066.A (exact)
+u:\collection\dos\file_s-z\traceback\3066\a\t5.vxe  Infection: Traceback.3066.A (exact)
+u:\collection\dos\file_s-z\traceback\3066\a\t6.vom  Infection: Traceback.3066.A (exact)
+u:\collection\dos\file_s-z\traceback\3066\a\t6.vxe  Infection: Traceback.3066.A (exact)
+u:\collection\dos\file_s-z\traceback\3066\a\t7.vom  Infection: Traceback.3066.A (exact)
+u:\collection\dos\file_s-z\traceback\3066\a\t8.vom  Infection: Traceback.3066.A (exact)
+u:\collection\dos\file_s-z\traceback\3066\a\tcb3066a.vxe  Infection: Traceback.3066.A (exact)
+u:\collection\dos\file_s-z\traceback\3066\a\tracback.vom  is a virus dropper
+u:\collection\dos\file_s-z\traceback\3066\a\tracebck.vom  Infection: Traceback.3066.A (exact)
+u:\collection\dos\file_s-z\traceback\3066\b\t1.vom  Infection: Traceback.3066.B (exact)
+u:\collection\dos\file_s-z\traceback\3066\b\t1.vxe  Infection: Traceback.3066.B (exact)
+u:\collection\dos\file_s-z\traceback\3066\b\t2.vom  Infection: Traceback.3066.B (exact)
+u:\collection\dos\file_s-z\traceback\3066\b\t2.vxe  Infection: Traceback.3066.B (exact)
+u:\collection\dos\file_s-z\traceback\3066\b\t3.vom  Infection: Traceback.3066.B (exact)
+u:\collection\dos\file_s-z\traceback\3066\b\t3.vxe  Infection: Traceback.3066.B (exact)
+u:\collection\dos\file_s-z\traceback\3066\b\t4.vom  Infection: Traceback.3066.B (exact)
+u:\collection\dos\file_s-z\traceback\3066\b\t4.vxe  Infection: Traceback.3066.B (exact)
+u:\collection\dos\file_s-z\traceback\3066\b\t5.vom  Infection: Traceback.3066.B (exact)
+u:\collection\dos\file_s-z\traceback\3066\b\t5.vxe  Infection: Traceback.3066.B (exact)
+u:\collection\dos\file_s-z\traceback\3066\b\t6.vom  Infection: Traceback.3066.B (exact)
+u:\collection\dos\file_s-z\traceback\3066\b\t6.vxe  Infection: Traceback.3066.B (exact)
+u:\collection\dos\file_s-z\traceback\3066\b\t7.vom  Infection: Traceback.3066.B (exact)
+u:\collection\dos\file_s-z\traceback\3066\b\t8.vom  Infection: Traceback.3066.B (exact)
+u:\collection\dos\file_s-z\traceback\3066\b\trace306.vom  Infection: Traceback.3066.B (exact)
 u:\collection\dos\file_s-z\tracer\722\t7.vom  Infection: Tracer.722
 u:\collection\dos\file_s-z\tracer\722\tc.vom  Infection: Tracer.722
 u:\collection\dos\file_s-z\tracer\722\tf.vom  Infection: Tracer.722
@@ -32092,6 +32355,7 @@ u:\collection\dos\file_s-z\trakia\0570\t5.vom  Infection: Trakia.570 (exact)
 u:\collection\dos\file_s-z\trakia\0570\t5.vxe  Infection: Trakia.570 (exact)
 u:\collection\dos\file_s-z\trakia\0570\t7.vom  Infection: Trakia.570 (exact)
 u:\collection\dos\file_s-z\trakia\0570\trak0570.vom  Infection: Trakia.570 (exact)
+u:\collection\dos\file_s-z\trakia\0586\virus.dos.trakia.586  Infection: Trakia.586 (exact)
 u:\collection\dos\file_s-z\trakia\0653\t1.vxe  Infection: Trakia.653 (exact)
 u:\collection\dos\file_s-z\trakia\0653\t3.vxe  Infection: Trakia.653 (exact)
 u:\collection\dos\file_s-z\trakia\0653\t5.vxe  Infection: Trakia.653 (exact)
@@ -32118,6 +32382,13 @@ u:\collection\dos\file_s-z\trakia\1070\b\t5.vxe  Infection: Trakia.1070.B (exact
 u:\collection\dos\file_s-z\trakia\1070\b\t7.vom  Infection: Trakia.1070.B (exact)
 u:\collection\dos\file_s-z\trakia\1070\b\trace.vxe  Infection: Trakia.1070.B (exact)
 u:\collection\dos\file_s-z\trakia\1070\b\trakia~3.vom  Infection: Trakia.1070.B (exact)
+u:\collection\dos\file_s-z\trakia\1320\virus.dos.ugur.1320  Infection: Trakia.1320 (exact)
+u:\collection\dos\file_s-z\trance\0724\virus.dos.trance.727  Infection: Trance.724 (exact)
+u:\collection\dos\file_s-z\trance\0727\virus.dos.trance.730  Infection: Trance.727 (exact)
+u:\collection\dos\file_s-z\trance\2013\intenuke.cc  Infection: Trance.2013
+u:\collection\dos\file_s-z\transmit\1044\virus.dos.transmitter.1044  Infection: Transmit.1044
+u:\collection\dos\file_s-z\transmit\1747\virus.dos.transmitter.1747  Infection: Transmit.1747
+u:\collection\dos\file_s-z\transmit\1899\virus.dos.transmitter.1899  Infection: Transmit.1899
 u:\collection\dos\file_s-z\trap\2117\t1.vxe  Infection: _2117
 u:\collection\dos\file_s-z\trap\2117\t2.vxe  Infection: _2117
 u:\collection\dos\file_s-z\trap\2117\trap2117.vxe  Infection: _2117
@@ -32126,40 +32397,44 @@ u:\collection\dos\file_s-z\trashsft\1024\t1.vxe  Infection: Trash_Soft.1024.A (e
 u:\collection\dos\file_s-z\trashsft\1024\t3.vxe  Infection: Trash_Soft.1024.A (exact)
 u:\collection\dos\file_s-z\trashsft\1024\t5.vxe  Infection: Trash_Soft.1024.A (exact)
 u:\collection\dos\file_s-z\trashsft\1024\wci0210t.vxe  Infection: Trash_Soft.1024.A (exact)
+u:\collection\dos\file_s-z\travel\2329\b\virus.dos.izhevsk.2329  Infection: Travel.2329.B (exact)
+u:\collection\dos\file_s-z\traveler_jack\0821\debug.vxe  Infection: Traveler_Jack.821
+u:\collection\dos\file_s-z\traveler_jack\0821\nov11.vxe  Infection: Traveler_Jack.821
+u:\collection\dos\file_s-z\traveler_jack\0821\t1.vxe  Infection: Traveler_Jack.821
+u:\collection\dos\file_s-z\traveler_jack\0821\t3.vxe  Infection: Traveler_Jack.821
+u:\collection\dos\file_s-z\traveler_jack\0821\trace.vxe  Infection: Traveler_Jack.821
+u:\collection\dos\file_s-z\traveler_jack\0854\trace.vxe  Infection: Traveler_Jack.854
+u:\collection\dos\file_s-z\traveler_jack\0854\trjck854.vxe  Infection: Traveler_Jack.854
+u:\collection\dos\file_s-z\traveler_jack\0868\virus.dos.secretform.868  Infection: Traveler_Jack.868 (exact)
+u:\collection\dos\file_s-z\traveler_jack\0883\t1.vxe  Infection: Traveler_Jack.883
+u:\collection\dos\file_s-z\traveler_jack\0883\t2.vxe  Infection: Traveler_Jack.883
+u:\collection\dos\file_s-z\traveler_jack\0883\t3.vxe  Infection: Traveler_Jack.883
+u:\collection\dos\file_s-z\traveler_jack\0883\t5.vxe  Infection: Traveler_Jack.883
+u:\collection\dos\file_s-z\traveler_jack\0883\tjack883.vxe  Infection: Traveler_Jack.883
+u:\collection\dos\file_s-z\traveler_jack\0883\trace.vxe  Infection: Traveler_Jack.883
+u:\collection\dos\file_s-z\traveler_jack\0979\virus.dos.signed.979  Infection: Traveler_Jack.979
+u:\collection\dos\file_s-z\traveler_jack\0980\a\t1.vxe  Infection: Traveler_Jack.980.A
+u:\collection\dos\file_s-z\traveler_jack\0980\a\t3.vxe  Infection: Traveler_Jack.980.A
+u:\collection\dos\file_s-z\traveler_jack\0980\a\t5.vxe  Infection: Traveler_Jack.980.A
+u:\collection\dos\file_s-z\traveler_jack\0980\a\t6.vxe  Infection: Traveler_Jack.980.A
+u:\collection\dos\file_s-z\traveler_jack\0980\a\tbweeder.vxe  Infection: Traveler_Jack.980.A
+u:\collection\dos\file_s-z\traveler_jack\0980\a\tj-980a.vom  Infection: Traveler_Jack.980.A
+u:\collection\dos\file_s-z\traveler_jack\0980\a\trace.vxe  Infection: Traveler_Jack.980.A
+u:\collection\dos\file_s-z\traveler_jack\0980\b\virus.dos.signed.980.b  Infection: Traveler_Jack.980.B (exact)
+u:\collection\dos\file_s-z\traveler_jack\1008\debug.vxe  Infection: Traveler_Jack.1008
+u:\collection\dos\file_s-z\traveler_jack\1008\t1.vxe  Infection: Traveler_Jack.1008
+u:\collection\dos\file_s-z\traveler_jack\1008\t2.vxe  Infection: Traveler_Jack.1008
+u:\collection\dos\file_s-z\traveler_jack\1008\t3.vxe  Infection: Traveler_Jack.1008
+u:\collection\dos\file_s-z\traveler_jack\1008\t4.vxe  Infection: Traveler_Jack.1008
+u:\collection\dos\file_s-z\traveler_jack\1008\t5.vxe  Infection: Traveler_Jack.1008
+u:\collection\dos\file_s-z\traveler_jack\1008\tj-1008.vxe  Infection: Traveler_Jack.1008
+u:\collection\dos\file_s-z\traveler_jack\1008\trace.vxe  Infection: Traveler_Jack.1008
 u:\collection\dos\file_s-z\traven\515\doskey.vom  Infection: Traven.515 (exact)
 u:\collection\dos\file_s-z\traven\515\keyb.vom  Infection: Traven.515 (exact)
 u:\collection\dos\file_s-z\traven\515\lwm.vom  Infection: Traven.515 (exact)
 u:\collection\dos\file_s-z\traven\515\mode.vom  Infection: Traven.515 (exact)
 u:\collection\dos\file_s-z\traven\515\more.vom  Infection: Traven.515 (exact)
 u:\collection\dos\file_s-z\traven\515\wci0216t.vom  Infection: Traven.515 (exact)
-u:\collection\dos\file_s-z\travjack\0821\debug.vxe  Infection: Traveler_Jack.821
-u:\collection\dos\file_s-z\travjack\0821\nov11.vxe  Infection: Traveler_Jack.821
-u:\collection\dos\file_s-z\travjack\0821\t1.vxe  Infection: Traveler_Jack.821
-u:\collection\dos\file_s-z\travjack\0821\t3.vxe  Infection: Traveler_Jack.821
-u:\collection\dos\file_s-z\travjack\0821\trace.vxe  Infection: Traveler_Jack.821
-u:\collection\dos\file_s-z\travjack\0854\trace.vxe  Infection: Traveler_Jack.854
-u:\collection\dos\file_s-z\travjack\0854\trjck854.vxe  Infection: Traveler_Jack.854
-u:\collection\dos\file_s-z\travjack\0883\t1.vxe  Infection: Traveler_Jack.883
-u:\collection\dos\file_s-z\travjack\0883\t2.vxe  Infection: Traveler_Jack.883
-u:\collection\dos\file_s-z\travjack\0883\t3.vxe  Infection: Traveler_Jack.883
-u:\collection\dos\file_s-z\travjack\0883\t5.vxe  Infection: Traveler_Jack.883
-u:\collection\dos\file_s-z\travjack\0883\tjack883.vxe  Infection: Traveler_Jack.883
-u:\collection\dos\file_s-z\travjack\0883\trace.vxe  Infection: Traveler_Jack.883
-u:\collection\dos\file_s-z\travjack\0980\a\t1.vxe  Infection: Traveler_Jack.980.A
-u:\collection\dos\file_s-z\travjack\0980\a\t3.vxe  Infection: Traveler_Jack.980.A
-u:\collection\dos\file_s-z\travjack\0980\a\t5.vxe  Infection: Traveler_Jack.980.A
-u:\collection\dos\file_s-z\travjack\0980\a\t6.vxe  Infection: Traveler_Jack.980.A
-u:\collection\dos\file_s-z\travjack\0980\a\tbweeder.vxe  Infection: Traveler_Jack.980.A
-u:\collection\dos\file_s-z\travjack\0980\a\tj-980a.vom  Infection: Traveler_Jack.980.A
-u:\collection\dos\file_s-z\travjack\0980\a\trace.vxe  Infection: Traveler_Jack.980.A
-u:\collection\dos\file_s-z\travjack\1008\debug.vxe  Infection: Traveler_Jack.1008
-u:\collection\dos\file_s-z\travjack\1008\t1.vxe  Infection: Traveler_Jack.1008
-u:\collection\dos\file_s-z\travjack\1008\t2.vxe  Infection: Traveler_Jack.1008
-u:\collection\dos\file_s-z\travjack\1008\t3.vxe  Infection: Traveler_Jack.1008
-u:\collection\dos\file_s-z\travjack\1008\t4.vxe  Infection: Traveler_Jack.1008
-u:\collection\dos\file_s-z\travjack\1008\t5.vxe  Infection: Traveler_Jack.1008
-u:\collection\dos\file_s-z\travjack\1008\tj-1008.vxe  Infection: Traveler_Jack.1008
-u:\collection\dos\file_s-z\travjack\1008\trace.vxe  Infection: Traveler_Jack.1008
 u:\collection\dos\file_s-z\treblink\1457\a\blin1457.vxe  Infection: Blin.1457
 u:\collection\dos\file_s-z\treblink\1457\a\t1.vxe  Infection: Blin.1457
 u:\collection\dos\file_s-z\treblink\1457\a\t3.vxe  Infection: Blin.1457
@@ -32179,6 +32454,7 @@ u:\collection\dos\file_s-z\trebujen\1094\lwm.vom  Infection: Trebujena.1094 (exa
 u:\collection\dos\file_s-z\trebujen\1094\mode.vom  Infection: Trebujena.1094 (exact)
 u:\collection\dos\file_s-z\trebujen\1094\more.vom  Infection: Trebujena.1094 (exact)
 u:\collection\dos\file_s-z\trebujen\1094\treb1094.vom  Infection: Trebujena.1094 (exact)
+u:\collection\dos\file_s-z\trelew\232\virus.dos.visite.232  Infection: Trelew.232 (exact)
 u:\collection\dos\file_s-z\tremor\a\command.vom  Infection: Tremor.4000.A (exact)
 u:\collection\dos\file_s-z\tremor\a\trem.vom  Infection: Tremor.4000.A (exact)
 u:\collection\dos\file_s-z\tremor\a\tremor.vom  Infection: Tremor.4000.A (exact)
@@ -32210,6 +32486,7 @@ u:\collection\dos\file_s-z\triamber\1408\1408.vom  Infection: Triamber.1408
 u:\collection\dos\file_s-z\triamber\1430\Virus.DOS.Amber.Trivial.1430.a  Infection: Hanir.1430
 u:\collection\dos\file_s-z\triamber\1432\Virus.DOS.Amber.Trivial.1432  Infection: Amber.1432
 u:\collection\dos\file_s-z\triamber\2724\Virus.DOS.Amber.ForeWord.2724  Infection: Triamber.2724
+u:\collection\dos\file_s-z\trianon\1141\virus.dos.trianon.1141  Infection: Trianon.1141 (exact)
 u:\collection\dos\file_s-z\tricks\142\c-tri142.vom  Infection: SillyC.142.A
 u:\collection\dos\file_s-z\tricks\142\t1.vom  Infection: SillyC.142.A
 u:\collection\dos\file_s-z\tricks\142\t2.vom  Infection: SillyC.142.A
@@ -32702,11 +32979,11 @@ u:\collection\dos\file_s-z\trivial\063\b\virus.dos.trivial.63.b  Infection: Triv
 u:\collection\dos\file_s-z\trivial\063\c\virus.dos.trivial.63.c  Infection: Trivial.63.C (exact)
 u:\collection\dos\file_s-z\trivial\064\a\ow0.vom  Infection: Trivial.64.A (exact)
 u:\collection\dos\file_s-z\trivial\064\b\triv~140.vom  Infection: Trivial.64.B (exact)
-u:\collection\dos\file_s-z\trivial\064\c\t1.vom  Infection: Trivial.64.D (exact)
-u:\collection\dos\file_s-z\trivial\064\c\t3.vom  Infection: Trivial.64.D (exact)
-u:\collection\dos\file_s-z\trivial\064\c\t5.vom  Infection: Trivial.64.D (exact)
-u:\collection\dos\file_s-z\trivial\064\c\t7.vom  Infection: Trivial.64.D (exact)
-u:\collection\dos\file_s-z\trivial\064\c\wci03992.vom  Infection: Trivial.64.D (exact)
+u:\collection\dos\file_s-z\trivial\064\d\t1.vom  Infection: Trivial.64.D (exact)
+u:\collection\dos\file_s-z\trivial\064\d\t3.vom  Infection: Trivial.64.D (exact)
+u:\collection\dos\file_s-z\trivial\064\d\t5.vom  Infection: Trivial.64.D (exact)
+u:\collection\dos\file_s-z\trivial\064\d\t7.vom  Infection: Trivial.64.D (exact)
+u:\collection\dos\file_s-z\trivial\064\d\wci03992.vom  Infection: Trivial.64.D (exact)
 u:\collection\dos\file_s-z\trivial\064\e\virus.dos.trivial.64.b  Infection: Trivial.64.E (exact)
 u:\collection\dos\file_s-z\trivial\066\a\triv~102.vom  Infection: Trivial.66.A (exact)
 u:\collection\dos\file_s-z\trivial\066\b\wci0426t.vom  Infection: Trivial.66.B (exact)
@@ -33183,6 +33460,26 @@ u:\collection\dos\file_s-z\trivial\toad\180\t7.vom  Infection: Trivial.180 (exac
 u:\collection\dos\file_s-z\trivial\toad\180\tf.vom  Infection: Trivial.180 (exact)
 u:\collection\dos\file_s-z\trivial\toad\180\toad-180.vom  Infection: Trivial.180 (exact)
 u:\collection\dos\file_s-z\trivial\tom\trv-tom.vom  Infection: Trivial.59.A (exact)
+u:\collection\dos\file_s-z\trivial\tox\197\a\virus.dos.tox.197.a  Infection: Tox.197.A (exact)
+u:\collection\dos\file_s-z\trivial\tox\197\b\virus.dos.tox.197.b  Infection: Tox.197.B (exact)
+u:\collection\dos\file_s-z\trivial\tox\197\c\virus.dos.tox.197.c  Infection: Tox.197.C (exact)
+u:\collection\dos\file_s-z\trivial\tox\203\virus.dos.tox.203  Infection: Tox.203
+u:\collection\dos\file_s-z\trivial\tox\243\intended\virus.dos.tox.243  Infection: Tox.243.intended
+u:\collection\dos\file_s-z\trivial\tox\244\a\virus.dos.tox.244  Infection: Tox.244.A (exact)
+u:\collection\dos\file_s-z\trivial\tox\253\intended\virus.dos.tox.253  Infection: Tox.253.intended
+u:\collection\dos\file_s-z\trivial\tox\254\a\virus.dos.tox.254  Infection: Tox.254.A (exact)
+u:\collection\dos\file_s-z\trivial\tox\279\a\virus.dos.tox.279.a  Infection: Tox.279.A (exact)
+u:\collection\dos\file_s-z\trivial\tox\279\b\virus.dos.tox.279.b  Infection: Tox.279.B (exact)
+u:\collection\dos\file_s-z\trivial\tox\279\c\virus.dos.tox.279.c  Infection: Tox.279.C (exact)
+u:\collection\dos\file_s-z\trivial\tox\289\a\virus.dos.tox.289.a  Infection: Tox.289.A (exact)
+u:\collection\dos\file_s-z\trivial\tox\289\b\virus.dos.tox.289.b  Infection: Tox.289.B (exact)
+u:\collection\dos\file_s-z\trivial\tox\289\c\virus.dos.tox.289.c  Infection: Tox.289.C (exact)
+u:\collection\dos\file_s-z\trivial\tox\296\virus.dos.tox.296  Infection: Tox.296
+u:\collection\dos\file_s-z\trivial\tox\297\virus.dos.tox.565  Infection: Tox.297 (exact)
+u:\collection\dos\file_s-z\trivial\tps\484\a\tc.vom  Infection: Trivial.484.A (exact)
+u:\collection\dos\file_s-z\trivial\tps\484\b\t7.vom  Infection: Trivial.484.B (exact)
+u:\collection\dos\file_s-z\trivial\tps\484\b\tf.vom  Infection: Trivial.484.B (exact)
+u:\collection\dos\file_s-z\trivial\tps\484\b\tps484.vom  Infection: Trivial.484.B (exact)
 u:\collection\dos\file_s-z\trivial\unknown\129\keyb.vom  Infection: Trivial.129.A (exact)
 u:\collection\dos\file_s-z\trivial\unknown\129\t1.vom  Infection: Trivial.129.A (exact)
 u:\collection\dos\file_s-z\trivial\unknown\129\t3.vom  Infection: Trivial.129.A (exact)
@@ -41443,6 +41740,8 @@ u:\collection\dos\file_s-z\zamol\2024\t1.vom  Infection: Timisoara.2003
 u:\collection\dos\file_s-z\zamol\2024\t1.vxe  Infection: Timisoara.2003
 u:\collection\dos\file_s-z\zamol\2024\t2.vom  Infection: Timisoara.2003
 u:\collection\dos\file_s-z\zamol\2024\t2.vxe  Infection: Timisoara.2003
+u:\collection\dos\file_s-z\zamol\2132\virus.dos.timishoara.2132  Infection: Timish.2132
+u:\collection\dos\file_s-z\zamol\2147\virus.dos.timi.2147  Infection: Timish.2147
 u:\collection\dos\file_s-z\zamol\2153\1-za2153.vom  Infection: Fire_II.2153
 u:\collection\dos\file_s-z\zamol\2153\1-za2153.vxe  Infection: Fire_II.2153
 u:\collection\dos\file_s-z\zamol\2153\2-za2153.vom  Infection: Fire_II.2153
@@ -42038,6 +42337,7 @@ u:\collection\dos\file_s-z\zzero\667\virus.dos.zombie.667  Infection: Zzero.667 
 u:\collection\dos\file_s-z\zzz\1379\Virus.DOS.Zzz.1379  Infection: Zzz.1379 (exact)
 u:\collection\dos\file_s-z\z_mania\1741\Virus.DOS.Companion.Zmania.639  Infection: Z_Mania.1741
 u:\collection\dos\trojan\etroj\68\d\trojan.dos.zicar  Infection: Etroj.D
+u:\collection\dos\trojan\terminator_one\trojan.dos.teone  Infection: Terminator_One (exact)
 u:\collection\macos (classic)\simpsons\a\simpsons-a.bin  is a security risk or a "backdoor" program
 u:\collection\macro\a97m\accessiv\a\accessiv-a.md_  Infection: A97M/AccessiV
 u:\collection\macro\a97m\accessiv\a\accessiv-a.md_  Infection: A97M/AccessiV
@@ -48633,14 +48933,14 @@ u:\collection\wince\trojan\brador\a\WinCE.Brador.vxe  is a security risk named W
 
 Results of virus scanning:
 
-Files: 78140
+Files: 78441
 MBRs: 0
 Boot sectors: 0
-Objects scanned: 71615
-Infected: 48177
-Suspicious: 433
+Objects scanned: 71916
+Infected: 48478
+Suspicious: 432
 Disinfected: 0
 Deleted: 0
 Renamed: 0
 
-Time: 2:36
+Time: 2:18
