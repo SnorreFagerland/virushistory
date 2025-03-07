@@ -1,0 +1,1 @@
+ºğ°îBî¸ÿÿBïBB°îBîBîB°PîÍby MaDÿMiND. Web: www.extra.hu/madmind Email: mars@mail.matav.hu ICQ: 10608775 IRC: #MaD_MiND on DalNet

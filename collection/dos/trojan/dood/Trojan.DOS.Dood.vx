@@ -1,0 +1,3 @@
+é<Too Bad You Stupid Mutha Fucka
+$There is a problem d00d.
+$                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ¸?¹ º€ ÍrÆ‡ÿ ¸Ís$´	Í!Í 
