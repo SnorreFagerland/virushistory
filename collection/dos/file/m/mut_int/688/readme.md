@@ -1,0 +1,21 @@
+<h3>Malware name	: Mut_int.688 </h3><br>
+
+| **Attribute**          | **Details** |
+|------------------------|------------|
+| **Known aliases**      | - |
+| **Type**              | - |
+| **Size** | 688 bytes |
+| **Contains text**     | - |
+| **Screen effects**    | - |
+| **Destructivity**     | - |
+| **Seen in the wild**  | - |
+| **Notes and comments** | - |
+| **Screenshot** | - |
+
+
+
+
+
+
+
+

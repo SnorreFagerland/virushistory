@@ -1,0 +1,21 @@
+<h3>Malware name	: Burger.0442 </h3><br>
+
+| **Attribute**          | **Details** |
+|------------------------|------------|
+| **Known aliases**      | - |
+| **Type**              | - |
+| **Size** | 0442 bytes |
+| **Contains text**     | - |
+| **Screen effects**    | - |
+| **Destructivity**     | - |
+| **Seen in the wild**  | - |
+| **Notes and comments** | - |
+| **Screenshot** | - |
+
+
+
+
+
+
+
+

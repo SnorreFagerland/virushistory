@@ -1,0 +1,77 @@
+Virus scanning report  -  30 January 2025 @ 22:23
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\380\ear-380.vxe  Infection: Ear.380 (exact)
+u:\405\virus.dos.ps-mpc.ear.job.405  Infection: Ear.405 (exact)
+u:\cowboy\virus.dos.cowboy.2483  Infection: Ear.2487 (exact)
+u:\ear\1024\a\t1.vom  Infection: Ear.1024.A (exact)
+u:\ear\1024\a\t3.vom  Infection: Ear.1024.A (exact)
+u:\ear\1024\a\t5.vom  Infection: Ear.1024.A (exact)
+u:\ear\1024\a\t7.vom  Infection: Ear.1024.A (exact)
+u:\ear\1024\a\t9.vom  Infection: Ear.1024.A (exact)
+u:\ear\1024\a\v5910.vom  Infection: Ear.1024.A (exact)
+u:\ear\1024\b\ear-6.vom  Infection: Ear.1024.B (exact) - Dropper
+u:\ear\1024\b\ear1024b.vom  Infection: Ear.1024.B (exact)
+u:\ear\1024\b\t1.vom  Infection: Ear.1024.B (exact)
+u:\ear\1024\b\t3.vom  Infection: Ear.1024.B (exact)
+u:\ear\1024\b\t3.vxe  Infection: Ear.1024.B (exact)
+u:\ear\1024\b\t5.vom  Infection: Ear.1024.B (exact)
+u:\ear\1024\b\t7.vom  Infection: Ear.1024.B (exact)
+u:\ear\1024\b\t9.vom  Infection: Ear.1024.B (exact)
+u:\ear\1024\c\virus.dos.ps-mpc.ear.1024.b  Infection: Ear.1024.C (exact)
+u:\ear\1024\e\ear-6.vom  Infection: Ear.1024.E (exact) - Dropper
+u:\ear\1024\e\ear1024c.vom  Infection: Ear.1024.E (exact)
+u:\ear\1024\e\ear1024c.vxe  Infection: Ear.1024.E (exact)
+u:\ear\1024\e\t1.vom  Infection: Ear.1024.E (exact)
+u:\ear\1024\e\t1.vxe  Infection: Ear.1024.E (exact)
+u:\ear\1024\e\t3.vom  Infection: Ear.1024.unknown?
+u:\ear\1024\e\t3.vxe  Infection: Ear.1024.E (exact)
+u:\ear\1024\e\t5.vom  Infection: Ear.1024.E (exact)
+u:\ear\1024\e\t5.vxe  Infection: Ear.1024.E (exact)
+u:\ear\1024\e\t7.vom  Infection: Ear.1024.E (exact)
+u:\ear\1024\e\t9.vom  Infection: Ear.1024.E (exact)
+u:\ear\1026\ear-1026.vom  Infection: Ear.1026 - Dropper
+u:\ear\1026\m2.vom  Infection: Ear.1026
+u:\ear\1026\m3.vom  Infection: Ear.1026
+u:\ear\1026\m5.vom  Infection: Ear.1026
+u:\ear\1026\m7.vom  Infection: Ear.1026
+u:\ear\1026\t2.vom  Infection: Ear.1026
+u:\ear\1026\t3.vom  Infection: Ear.1026
+u:\ear\1026\t5.vom  Infection: Ear.1026
+u:\ear\1026\t7.vom  Infection: Ear.1026
+u:\ear\1026\t9.vom  Infection: Ear.1026
+u:\homecoming\homecomi.vxe  Infection: Ear.1330
+u:\homecoming\v7805.vom  Infection: Ear.1330
+u:\homecoming\wci01173.sys  Infection: Ear.1330
+u:\leonardo\1207\wci00823.vxe  Infection: Ear_Leonardo.1207
+u:\quake-o\ear-quak.vom  Infection: Ear.960
+u:\suicide\ear-suic.vom  Infection: PS-MPC.2048 (generic) - Dropper
+
+Results of virus scanning:
+
+Files: 58
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 58
+Infected: 45
+Suspicious: 0
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:01

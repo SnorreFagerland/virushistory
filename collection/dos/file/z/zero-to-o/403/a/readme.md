@@ -1,0 +1,21 @@
+<h3>Malware name	: Zero-to-o.403.A </h3><br>
+
+| **Attribute**          | **Details** |
+|------------------------|------------|
+| **Known aliases**      | - |
+| **Type**              | - |
+| **Size** | 403 bytes |
+| **Contains text**     | - |
+| **Screen effects**    | - |
+| **Destructivity**     | - |
+| **Seen in the wild**  | - |
+| **Notes and comments** | - |
+| **Screenshot** | - |
+
+
+
+
+
+
+
+

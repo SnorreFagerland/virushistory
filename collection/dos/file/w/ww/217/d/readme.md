@@ -1,0 +1,21 @@
+<h3>Malware name	: Ww.217.D </h3><br>
+
+| **Attribute**          | **Details** |
+|------------------------|------------|
+| **Known aliases**      | - |
+| **Type**              | - |
+| **Size** | 217 bytes |
+| **Contains text**     | - |
+| **Screen effects**    | - |
+| **Destructivity**     | - |
+| **Seen in the wild**  | - |
+| **Notes and comments** | - |
+| **Screenshot** | - |
+
+
+
+
+
+
+
+
