@@ -1,4 +1,4 @@
-<h3>Malware name	: Slovakia.3584.A </h3><br>
+<h3>Malware name	: Slovakia.3584.C </h3><br>
 
 | **Attribute**          | **Details** |
 |------------------------|------------|

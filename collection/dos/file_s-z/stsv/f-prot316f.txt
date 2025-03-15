@@ -1,0 +1,51 @@
+Virus scanning report  -  9 March 2025 @ 12:23
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\sts200a.vom  contains STSV.200 (non-working)
+u:\200\a\v8295.vom  Infection: STSV.200.A (exact)
+u:\200\b\v200-1.vom  Infection: STSV.200.B (exact)
+u:\200\c\stsv-c.vom  Infection: STSV.200.C (exact)
+u:\200\d\stsv-d.vom  Infection: STSV.200.D (exact)
+u:\200\e\stsv-e.vom  Infection: STSV.200.E (exact)
+u:\200\f\stsv-f.vom  Infection: STSV.200.F (exact)
+u:\200\g\stsv200g.vom  Infection: STSV.200.G (exact)
+u:\200\h\virus.dos.stsv.200.h  Infection: STSV.200.H (exact)
+u:\200\i\virus.dos.sillyc.200.d  Infection: STSV.200.I (exact)
+u:\200\j\virus.dos.stsv.200.i  Infection: STSV.200.J (exact)
+u:\221\grep.vom  Infection: STSV.221 (exact)
+u:\221\mammoths.vom  Infection: STSV.221 (exact)
+u:\221\stsv221.vom  Infection: STSV.221 (exact)
+u:\221\t1.vom  Infection: STSV.221 (exact)
+u:\221\t2.vom  Infection: STSV.221 (exact)
+u:\221\t3.vom  Infection: STSV.221 (exact)
+u:\221\t5.vom  Infection: STSV.221 (exact)
+u:\221\t6.vom  Infection: STSV.221 (exact)
+
+Results of virus scanning:
+
+Files: 29
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 29
+Infected: 19
+Suspicious: 0
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00
