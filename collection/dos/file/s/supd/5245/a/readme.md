@@ -10,7 +10,7 @@
 | **Destructivity**     | None |
 | **Seen in the wild**  | No |
 | **Notes and comments** | - |
-| **Screenshot** | - |
+| **Screenshot** | ![command_002](https://github.com/user-attachments/assets/2a085833-c7b7-4e92-a27c-ae1bc98ec6b9) |
 
 
 
