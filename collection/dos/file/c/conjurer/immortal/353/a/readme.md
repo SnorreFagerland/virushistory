@@ -1,4 +1,4 @@
-<h3>Malware name	: Conjurer.Immortal.353.A </h3><br>
+<h3>Malware name	: Conjurer.Immortal.353.C </h3><br>
 
 | **Attribute**          | **Details** |
 |------------------------|------------|

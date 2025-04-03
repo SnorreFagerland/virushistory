@@ -1,0 +1,49 @@
+Virus scanning report  -  3 April 2025 @ 21:44
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\supd4500-0.vom  Infection: Cryptor.4500.A (exact)
+u:\supd4500-1.vom  Infection: Cryptor.4500.A (exact)
+u:\supd4500-2.vom  Infection: Cryptor.4500.A (exact)
+u:\supd4500-3.vom  Infection: Cryptor.4500.A (exact)
+u:\supd4500-4.vom  Infection: Cryptor.4500.A (exact)
+u:\supd4500-5.vom  Infection: Cryptor.4500.A (exact)
+u:\supd4500-6.vom  Infection: Cryptor.4500.A (exact)
+u:\supd4500-7.vom  Infection: Cryptor.4500.A (exact)
+u:\supd4500-9.vom  Infection: New or modified variant of SillyC
+u:\t1.co_  Infection: Cryptor.4500.A (exact)
+u:\t1.vx  Infection: Cryptor.4500.A (exact)
+u:\t3.co_  Infection: Cryptor.4500.A (exact)
+u:\t3.vom  Infection: Cryptor.4500.B (exact)
+u:\t3.vx  Infection: Cryptor.4500.A (exact)
+u:\unp.vxe  Infection: Cryptor.4500.A (exact)
+u:\UUENCODE.vxe  Infection: Cryptor.4500.A (exact)
+u:\virus.dos.cryptor.4500  Infection: Cryptor.4500.A (exact)
+
+Results of virus scanning:
+
+Files: 20
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 20
+Infected: 17
+Suspicious: 0
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:01
