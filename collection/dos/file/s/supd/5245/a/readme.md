@@ -5,7 +5,8 @@
 | **Known aliases**      | Cryptor.5245.A |
 | **Type**              | Polymorphic direct action COM infector |
 | **Size** | 5245 bytes (variable) |
-| **Contains text**     | - |
+| **Contains text**     | [$UPD.2.2], $pirit's Universal Polymorphic Device v2.2. (C)1995-1996 by Night $pirit  |
+| **Contains text** | .-=.CrYpToR v2.2.=- (C)1996 by Nigh..$piri BEST POLYMORPH-ENCRYPT VIRII |
 | **Screen effects**    | See screenshot |
 | **Destructivity**     | None |
 | **Seen in the wild**  | No |
