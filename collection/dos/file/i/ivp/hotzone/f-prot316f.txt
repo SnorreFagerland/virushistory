@@ -1,0 +1,52 @@
+Virus scanning report  -  5 April 2025 @ 2:20
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\334\ivp_334.vom  contains IVP.334 (non-working)
+u:\411\hotzon6.vom  Infection: IVP.O.410
+u:\412\hotzon8.vom  Infection: IVP.O.412
+u:\475\hotzon7b.vom  Infection: IVP.475
+u:\475\wci08421.vom  Infection: IVP.475
+u:\539\hotzon4.vom  Infection: IVP.539
+u:\561\hotzon2.vom  Infection: IVP.561 - Dropper
+u:\642\ivphz642.vom  Infection: IVP.642 - Dropper
+u:\647\a\hotzon4b.vom  Infection: IVP.647 - Dropper
+u:\647\b\hotzon4e.vom  Infection: IVP.647 - Dropper
+u:\648\hotzon4d.vom  Infection: IVP.648 - Dropper
+u:\650\hotzon4f.vom  Infection: IVP.650 - Dropper
+u:\652\hotzon4c.vom  Infection: IVP.652 - Dropper
+u:\728\hotzon6b.vom  Infection: IVP.728 - Dropper
+u:\751\a\hotzone.vom  contains IVP (non-working)
+u:\751\b\hotzon5c.vom  Infection: IVP.751.A
+u:\751\c\wci0230i.vom  Infection: IVP.751.A
+u:\754\hotzon5b.vom  Infection: IVP.754
+u:\815\815.vom  Infection: IVP.815
+u:\815\ht_zn815.vom  Infection: IVP.815
+
+Results of virus scanning:
+
+Files: 38
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 38
+Infected: 20
+Suspicious: 0
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00
