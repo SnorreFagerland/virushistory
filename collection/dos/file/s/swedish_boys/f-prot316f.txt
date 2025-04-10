@@ -1,0 +1,44 @@
+Virus scanning report  -  8 April 2025 @ 18:56
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\datamole\538.vom  Infection: Swedish_Boys.538
+u:\datamole\v9385.vom  is a security risk or a "backdoor" program
+u:\headache\441\swe441a.vom  Infection: Swedish_Boys.441.A (exact)
+u:\headache\457\headache.vom  Infection: Swedish_Boys.457 (exact)
+u:\headache\457\v9390.vom  Infection: Swedish_Boys.457 (exact)
+u:\why_wind\ww.vom  Infection: Swedish_Boys.459.unknown?
+u:\why_wind\a\sbww.vom  Infection: Swedish_Boys.459.A (exact)
+u:\why_wind\a\v9395.vom  Infection: Swedish_Boys.459.A (exact)
+u:\why_wind\b\betaboys.maz.459  Infection: Swedish_Boys.459.B (exact)
+u:\why_wind\c\virus.dos.zahak.906  Infection: Swedish_Boys.459.C (exact)
+u:\why_wind\d\virus.dos.betaboys.459.b  Infection: Swedish_Boys.459.D (exact)
+u:\why_wind\e\virus.dos.betaboys.maz.459.b  Infection: Swedish_Boys.459.E (exact)
+
+Results of virus scanning:
+
+Files: 17
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 17
+Infected: 11
+Suspicious: 1
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00

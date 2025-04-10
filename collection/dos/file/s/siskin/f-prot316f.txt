@@ -1,0 +1,62 @@
+Virus scanning report  -  8 April 2025 @ 17:42
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\763\wci0326s.vxe  Infection: Siskin.763 (exact)
+u:\goodbye\0511\virus.dos.brpi.511  Infection: Siskin.511 (exact)
+u:\goodbye\0555\virus.dos.brpi.555  Infection: Siskin.555 (exact)
+u:\goodbye\0789\virus.dos.normal.789  Infection: Siskin.789 (exact)
+u:\goodbye\0839\siskin~3.vom  Infection: Siskin.839 (exact)
+u:\goodbye\0948\a\sk-g0948.vxe  Infection: Siskin.948.A (exact)
+u:\goodbye\0948\a\t1.vom  Infection: Siskin.948.unknown?
+u:\goodbye\0948\a\t1.vxe  Infection: Siskin.948.unknown?
+u:\goodbye\0948\a\t3.vom  Infection: Siskin.948.unknown?
+u:\goodbye\0948\a\t3.vxe  Infection: Siskin.948.unknown?
+u:\goodbye\0948\a\t5.vom  Infection: Siskin.948.unknown?
+u:\goodbye\0948\a\t5.vxe  Infection: Siskin.948.unknown?
+u:\goodbye\0948\a\t7.vom  Infection: Siskin.948.unknown?
+u:\goodbye\0948\c\sisg948a.vom  Infection: Siskin.948.C (exact)
+u:\goodbye\0948\c\t1.vom  Infection: Siskin.948.C (exact)
+u:\goodbye\0948\c\t1.vxe  Infection: Siskin.948.C (exact)
+u:\goodbye\0948\c\t3.vom  Infection: Siskin.948.C (exact)
+u:\goodbye\0948\c\t3.vxe  Infection: Siskin.948.C (exact)
+u:\goodbye\0948\c\t5.vom  Infection: Siskin.948.C (exact)
+u:\goodbye\0948\c\t5.vxe  Infection: Siskin.948.C (exact)
+u:\goodbye\0948\c\t7.vom  Infection: Siskin.948.C (exact)
+u:\goodbye\0966\virus.dos.siskin.966  Infection: Siskin.966
+u:\goodbye\1017\sisk1017.vom  Infection: Siskin.1017.A (exact)
+u:\goodbye\1017\siskin.vom  Infection: Siskin.1017.A (exact)
+u:\hero\394\hero-394.vxe  Infection: Siskin.394 (exact)
+u:\hero\394\v9045.vxe  Infection: Siskin.394 (exact)
+u:\hero\506\hero-506.vom  Infection: Siskin.506
+u:\hero\506\hro'-506.vom  Infection: Siskin.506
+u:\hero\506\sisk506.vom  Infection: Siskin.506
+u:\resurrec\siskresc.vxe  Infection: Siskin.483 (exact)
+
+Results of virus scanning:
+
+Files: 40
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 40
+Infected: 30
+Suspicious: 0
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00

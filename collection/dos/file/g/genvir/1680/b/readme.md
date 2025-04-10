@@ -1,4 +1,4 @@
-<h3>Malware name	: Genvir.1680.B </h3><br>
+<h3>Malware name	: Genvir.1680.Cousin </h3><br>
 
 | **Attribute**          | **Details** |
 |------------------------|------------|
