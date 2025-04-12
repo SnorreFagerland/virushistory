@@ -3,26 +3,26 @@
 
 ```
 ├── 2711
-│   └── wci0330c.sys
+│   └── wci0330c.sys [7a2c3f76d946eedf050ae63b64a3de0cb96b788f848066212adf93921f0cb17a]
 ├── 2954
-│   ├── metka.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   └── t7.vom
+│   ├── metka.vxe [54e1d9b705729904a9400586368af21a3f9400bda5a4991d2b879864fe089d5b]
+│   ├── t1.vom [ad5d15b448b2333304391bebe2e9d7a0f4511457b606efdf8eb33922fca27141]
+│   ├── t1.vxe [27419a678e66e89fe4b780a46119ad138ebbed8383ed4b623c0e62f42adf80e3]
+│   ├── t3.vom [31ecfba69941115c093830ed2748d2831f88958e5ac29a45cac3c7e37f384e31]
+│   ├── t3.vxe [8ff868038d27ae7755b2c8fca582fa30090069b49248aec96146db6f0f655110]
+│   ├── t5.vom [5a3759d2f3a37fc10b98256f31df60a81c015aa305614cba5993915b338e8ff7]
+│   ├── t5.vxe [f34824c152518e99ea42732c2375acf28b6a48caf166cd7e8a5f00f2f138b7c9]
+│   └── t7.vom [7acd2a9af917da2271d0faefc1c38835ef33218340fe1697b1ce31f2c31ccec3]
 └── 8045
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t2.vom
-    ├── t3.vom
-    ├── t3.vxe
-    ├── t4.vom
-    ├── t5.vom
-    ├── t5.vxe
-    ├── t6.vom
-    ├── t7.vom
-    └── wci0332c.vxe
+    ├── t1.vom [009c6ce1f41db30338bc95de3e53f5cd1fbe3dc446800609fd028c04cf80970d]
+    ├── t1.vxe [0f15e97c5bda797ffd9704ad4ff8077ca6152443c83107cbae32f64a7407319b]
+    ├── t2.vom [3028ed3ef6a807847551767ebf273e4428ffff3266607abb92a062a137688471]
+    ├── t3.vom [c49ff4f6f4c08c1a71d3ab2d65036da2b4d0278855a2b22bedc858729ef89abb]
+    ├── t3.vxe [bf5ab8d68de50fa34475b5953bd71c273b6a5c9194baf71aa3b94e9d3d862534]
+    ├── t4.vom [dca699e37878ed0e1c1216a4ef700b43a27c9ba5d914415f595ea202ced7a77c]
+    ├── t5.vom [b687980fbbed31180b70a59e06aee84df509000dc43fca2b9b88c2b3bf5af799]
+    ├── t5.vxe [46bc005628a4f8c7c6f2ee5a45e7d5f455b755b7e7172fce986df472dbbff9db]
+    ├── t6.vom [99d69ba080f689ff63c7a7320f2ad1c0e277c2d1adc47a8bd7bb987c4adab766]
+    ├── t7.vom [3849b7f663e8c165827acb1006906ef97efea5a27ee5736abdc83b1b15a9ac0c]
+    └── wci0332c.vxe [79966005c2f48135135efb15ff4dc36cb98cf6e602f23cef7c87fe8f350ee039]
 ```

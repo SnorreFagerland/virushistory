@@ -4,36 +4,36 @@
 ```
 ├── 400
 │   ├── a
-│   │   ├── t1.vom
-│   │   ├── t3.vom
-│   │   ├── t5.vom
-│   │   ├── t7.vom
-│   │   └── wanderer.vom
+│   │   ├── t1.vom [c7de073ba500d9d84607b56304b57adf711a83997fc89a68183893d27909c232]
+│   │   ├── t3.vom [2cf26dc493ef91676d165da3f0b6f2f03e4aaaf7feba3092aed0269a46c7423a]
+│   │   ├── t5.vom [84a6a83eec6c95bd5eac2ef83990cc2a4a836622a6059886bb61f86c1b5ee58b]
+│   │   ├── t7.vom [96be840fd339e291f366545838bed57f1de279a5a741e26a1e273879ea3b2ac2]
+│   │   └── wanderer.vom [93e3ba236762aa7d3ffe8b97731d3dddb8fc7318ae4b9f5219cb768ffefd4992]
 │   └── b
-│       ├── t1.vom
-│       ├── t3.vom
-│       ├── t5.vom
-│       ├── t7.vom
-│       └── wanderer.vom
+│       ├── t1.vom [3329705a4f77a20ca4b2d8ef6047a9c8726f8a524d622b888c4c5f34463cbf70]
+│       ├── t3.vom [9795a19373e657f46dc5f7455e3f3424b7a5405fc56d1fe473d7d04ceb2dc6c4]
+│       ├── t5.vom [1cce546d89ab97622bdb0850bd90b76f85fb966da227b558b2c65f36120642b3]
+│       ├── t7.vom [2a75699f6442fb348cc479fc3d389cea00f3994d092919b165e652d6f6b9ab94]
+│       └── wanderer.vom [9b7c98ae00632cade6d3dd54a42419fb19658c9137d8ef0086d602d39c3316bd]
 ├── 403
-│   └── virus.dos.wanderer.403
+│   └── virus.dos.wanderer.403 [1de78cbb55bf50e41e2c02fe78ef820452c8e4ed9979c273868552e11165fec2]
 ├── 404
-│   └── virus.dos.wanderer.404
+│   └── virus.dos.wanderer.404 [c2ed78be54c135997d5782fb627c9039111f24a351255f960044890214f6e633]
 └── 484
     ├── a
-    │   ├── smal.vom
-    │   ├── smal.vxe
-    │   ├── t1.vom
-    │   ├── t3.vom
-    │   ├── t5.vom
-    │   └── t7.vom
+    │   ├── smal.vom [362da74d1f006da926aae980359b9074c76f11e8532e1b77abadebe376d86144]
+    │   ├── smal.vxe [56bab0f170be593d631a4d1735284cf28aaf92b51ea94c1b4a49b333df5b80d2]
+    │   ├── t1.vom [7853b50fcc9954999cfad71001d2414cad6969c23c263ebe7101336a6c23381d]
+    │   ├── t3.vom [9ec17b2646c54b251b872fd252c824e62b32cd38bcb5fcf85851c06932834e0a]
+    │   ├── t5.vom [69146913a9bfb844518fbafcc20061a82e4254c5e0206162ecd3a9619ea368f6]
+    │   └── t7.vom [9eaf29cb0f5ed292b7cecef1d0fae6e4a31ec83f40108a9188cc739199594f6a]
     └── b
-        ├── t1.vom
-        ├── t1.vxe
-        ├── t3.vom
-        ├── t3.vxe
-        ├── t5.vom
-        ├── t5.vxe
-        ├── t7.vom
-        └── wci0008w.vom
+        ├── t1.vom [780756dc604d76afc9ab6f1cc4dafbe50f66fb66ff58d835e0cb07c270a918d9]
+        ├── t1.vxe [bdcb7ef42e3c08734fbcf44d9aa98be4157cd5110d7009ac47f7be6c4079b9a8]
+        ├── t3.vom [edca0ce8e5da64c28ceeb600b1dad3e60466bc72068f48799ab4ecab393b26ea]
+        ├── t3.vxe [7f8685c41adf5693914bf32c568ea5bdac90396dc33f42f69b916e5c12491500]
+        ├── t5.vom [db4128caac60ac2335045039c9f5940392077bb443d83108669ed2de0166d6b7]
+        ├── t5.vxe [6e9a9ee97c38920eba7722050a1f02825ecd3d860cf1933be3c7a03bcccb1d1b]
+        ├── t7.vom [5dbfeaa2dccc7ec19ddcd951fb34464f4419e08bf01c38042a65964842856342]
+        └── wci0008w.vom [ebc20ec291c76281815edfc61b0c0612111dd776a0fb46984b3af86eefe56f6c]
 ```

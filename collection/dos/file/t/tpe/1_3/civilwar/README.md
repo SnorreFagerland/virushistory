@@ -3,57 +3,57 @@
 
 ```
 ├── 1978
-│   └── faa96900.vom
+│   └── faa96900.vom [c92c9cadc6ef7dee55c31f64b19dda554b6de7d5859ef7fa93e4b06068d1c683]
 ├── 1979
-│   ├── t1.vom
-│   ├── t100.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── unke1010.vom
-│   └── v9480.vom
+│   ├── t1.vom [7fb1fcde7a8487fa741e330379d495eec97c5616592ac00ea3db696cc5092cb2]
+│   ├── t100.vom [33e00e4322a418376500bc49cee9b9519d372d3ca7b0e22639f9408933705b42]
+│   ├── t2.vom [6977f89cd2da24366a698c8a80145a30f59c7083ca997a52fb16a3c241dde1ef]
+│   ├── t3.vom [dad4da038ef8faa50301189ac2f8ba44f966d38e79e830c5d5e9f23f4dc6f8d9]
+│   ├── t4.vom [017680dccabae87c132d13dbe88ec1a8387d6c1809b3459d457e2fbc4385c996]
+│   ├── unke1010.vom [f830a6dd149e240e207df5c9b037902d3e943f82d841cabeefb8d8372e10043c]
+│   └── v9480.vom [ad73c6551dfc4f120d80a3506d3d5e4973928254401299f661388793d5a28372]
 ├── 1994
-│   ├── cwariv11.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── tpe8.vom
-│   └── v9475.vom
+│   ├── cwariv11.vom [eef3ec30db7702930124557cddbda03019184cc7a7a431b4844a423694924037]
+│   ├── t2.vom [e29df029c254d174c4f50b9937733c475861bf36560a738f7fad74a00a239791]
+│   ├── t3.vom [9facc304c6464cd85ea563c7c2a0ea6bc0f75d257b0fab85d20b22eab81a37f6]
+│   ├── t4.vom [f5208db8e374f70842833608e9eede6355e4a779c537e6c0df02e1670a2f7d67]
+│   ├── t5.vom [459ac0f2b01ec73befec356d6cd49eed006090d0dc9dd7aecf897af1f6e5ad47]
+│   ├── tpe8.vom [f88b96569491abc5c25879be4d17094cc74fdf66f3260f7f425105c313a439fa]
+│   └── v9475.vom [1783c2451091478ed8abee578af5b8958e86d84065abb13a78b63f3d675f21d6]
 ├── 2032
-│   ├── cw1993.vom
-│   ├── m5.vom
-│   ├── m6.vom
-│   ├── m7.vom
-│   ├── s5.vom
-│   ├── s6.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── wci03114.vom
+│   ├── cw1993.vom [2c7fbea21037f07838d07ce62115935786423e97d13bd91292b1dde7051ad6c1]
+│   ├── m5.vom [7167c1b2623226baf5a779263fcb1339eeefdab2936d822b8a9e01cdbc073aca]
+│   ├── m6.vom [6a6cfef12cdc900c77dd0d68ced99e80005ab44e9585860285b582d25f3059f2]
+│   ├── m7.vom [769abd4e38d9f48d3b02700631a8a07093ddcdcd67c61387788262854027eb43]
+│   ├── s5.vom [5004a8f21f5fc086f826321e26bda45d64a2b08dcc7fc1c1ca03bdc3272754b9]
+│   ├── s6.vom [d47d7be30d632aa3bbb49011f21f0b27c59568b43d9855c502a22b112451355b]
+│   ├── t1.vom [29ca9bcea439a99f3e5e092ddd9c443d73e53edc0d65b643b685dc65da238d23]
+│   ├── t2.vom [d0d7c000267e484cd3740e6402918070025776d16d9199e6ba463ef6954874fc]
+│   ├── t3.vom [84597091fb5f3b8b257a9a362fbf9e3fe6dd03c53191678ed05148958bed7022]
+│   ├── t4.vom [292c3d4a80ff9c729197dc12ef09f02712fc7cfe1e0dbb216a124bda0c95f26c]
+│   ├── t5.vom [9d837f3a7e82d3529cda120d8b62ca5cce208394389e24a9d24a2ac8cda3bcf4]
+│   ├── t6.vom [1ea208e8b84cfb33419208c99f3ae2c305980cc68caa7d6161058775e647eff4]
+│   └── wci03114.vom [010ba6ffc58ea0b04411c9720207b22cd2efed5d65ee70a276e98f3f30867b16]
 ├── 2049
-│   ├── civil_5.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   └── t4.vom
+│   ├── civil_5.vom [e78225e31ab6bcf2350e51bdbc2e8cc9116b86e2b59e07fdf1b747a6e4f6cc2f]
+│   ├── t1.vom [e09a226c01752883f505ac3bb028b41180ebf7da7c2f58a583244a2460345ce1]
+│   ├── t2.vom [ebfa9e44b34342ec696e5d7f568147323903ff6078675fbcdeacbe5bce8b02dd]
+│   ├── t3.vom [3205bfb65d8ed3bef54cf9e1632880d574d10fd7036cd188bc7f149d3e584a16]
+│   └── t4.vom [fa2bc4830badda839b4104a1ecbc66e437cb1824561c751121a7d8d5de2334a3]
 ├── 2053
-│   ├── cw1997.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── cw1997.vom [7b623cfadf34ffafb71c77b60bbc220c9b1910e8dca739235e09821ad93aee0f]
+│   ├── t2.vom [41921af3235d8d0ae688a61a31cb888d1974d2b2642519df8e47ae0c1c7f4333]
+│   ├── t3.vom [a033ee416b1d08fc4c1a7a6d43ac6b378a032a5077115d6f624e05112081282f]
+│   ├── t4.vom [3e3810f2b13cdd216069faf4063f8d8ce05534a6fc125765054072e65593a741]
+│   ├── t5.vom [e860e67d8fbaa8348762af82facb58e22a2c541602e401533056ba0e82035c10]
+│   └── t6.vom [ac67e2390bacaf8c107aa4fe3cf71085f89e1d8a03a5f0ebbdf93d75cc290d22]
 ├── 2063
-│   ├── cw1996.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── cw1996.vom [95eae03ff3cdc29ec0eb947de29f8294b34b77c8ed4dc93268047c901190fcde]
+│   ├── t2.vom [953b56f1b6520829d21b03160635ccf4dda328601654810bfca6a9c136fb1b86]
+│   ├── t3.vom [fd3ee4d78c7cd3ad31634afbbaf02cc2ae9c9a6b31cb8f9113781217799875d2]
+│   ├── t4.vom [25a209b71caa2d9c91f69c2cfefb0a74773d508fb901a019d60e6248fb2c6158]
+│   ├── t5.vom [6d8a5bdf03da69fe8c1a3196037d8924cbe315f664657624f55fdd9ef9244dd4]
+│   └── t6.vom [87b212388568e0f5068e6e5b6c9f90c3f1e3cf6700e2633460d2172847d91bd4]
 └── 2222
-    └── virus.dos.tpe.civilwar.2222
+    └── virus.dos.tpe.civilwar.2222 [983d6144d1cb49d8db4d58ba251bfc0492dbf12b643ec2772757847d7468e0de]
 ```

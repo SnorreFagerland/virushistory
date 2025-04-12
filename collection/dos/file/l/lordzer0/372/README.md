@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   ├── lor372a.vom
-│   └── sw.vom
+│   ├── lor372a.vom [ac126590b669d27d9d228e86ed26ce415e2d425797f7363cea23b1311abc0dfc]
+│   └── sw.vom [b3fb4a977dda8bb5d9213f7c9c511c6c2199918f1da90d63329bfe1de84d8734]
 └── b
-    ├── lor372c.vom
-    ├── t1.vom
-    ├── t5.vom
-    └── t7.vom
+    ├── lor372c.vom [08038455253e9e55f14474c60033c02f7ebacca479a7d8075aa3f9f16d9990cf]
+    ├── t1.vom [4d7f88fd0316721672f1619d1221fe269821aece6c769c626143678f0fd5cf24]
+    ├── t5.vom [c817e9ce58e57de7cdaab87d247d719d423772f9c6657f6fe4c0c6bd33a744b0]
+    └── t7.vom [9022753544693dceca6640136e31d486a79979758648fd1f0cb8cbd12a383d48]
 ```

@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   ├── keyb.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── vhp565.vom
+│   ├── keyb.vom [d8c9908e766f88643f316852eed755390035deb8d29b18096cc714c710b5ecee]
+│   ├── t2.vom [50fcac1d68d9e2f9a2a8b3f62f7a801d84b3f1de47cdf06d39b00a04e22f9c6e]
+│   ├── t3.vom [ce3e016131897cdc1f376efe94e828e3c8448513b74b4722efa92d077620f12f]
+│   ├── t4.vom [b28db4c6d2311387d9466e31b576c477b6ec13339c0bf6511b64e734acfbfd13]
+│   ├── t5.vom [3509dfb5dd5381e420cd9064d46ee920dc400c9c5289fb9ed1eb81754ee44643]
+│   ├── t6.vom [083894a2b4443e938e703f8365aedb1d68f245c68b1419ab82206f6e2b7a99d9]
+│   └── vhp565.vom [afd694dccb5fcfa8b346647abb1797415c24541e35e3faa698c9bb77df29bd2e]
 └── b
-    └── virus.dos.vienna.565
+    └── virus.dos.vienna.565 [832790ec87bff9a5aff4a16754ca220610b3990a3ec92ba2900ac23b14f704e1]
 ```

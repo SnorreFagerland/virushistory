@@ -3,30 +3,30 @@
 
 ```
 ├── 0706
-│   └── tazman_7.vom
+│   └── tazman_7.vom [125995c1e1ee8e8897bf08bb436104b4a84b8205e52b58b0b2e00afce3937207]
 ├── 0987
-│   ├── taz-0987.vom
-│   └── taz987b.vom
+│   ├── taz-0987.vom [7c891fd9300f46b5ba7937dc75e6b4e7379b6fa996819c8e0560131995fdf82c]
+│   └── taz987b.vom [b20bfc80b6dfc70d14a8e641125ba945339a9c391e4599ccec48244adbb53f76]
 ├── 0995
-│   ├── taz-0995.vom
-│   └── taz995a.vom
+│   ├── taz-0995.vom [efc4e936d5c5b88b83375071ecf688e0acfbb8cb6a69e81f7d2086b1d9a367ff]
+│   └── taz995a.vom [eb66eee4701a3eaab40a82db60bc2badf66e25d072b77946aee9a77f11859b5a]
 ├── 1041
-│   ├── taz-1041.vom
-│   └── taz1041a.vom
+│   ├── taz-1041.vom [8e7ed2fe8d40326641a40eb388f61f6411b3dd26cebc231aca40a6a3b4d77636]
+│   └── taz1041a.vom [becf6bc0842c016703db022a8d88d341cceb9bd05b94cebd1dfc1a127103b401]
 ├── 1087
-│   ├── taz-1087.vom
-│   └── taz1087a.vom
+│   ├── taz-1087.vom [49d947c1c3598e8887141871be8f4ca6cc48c0db81b450d401024dc64a730b68]
+│   └── taz1087a.vom [ee001de37ebd21617001990032aaf10e285afb66481327e94c1bbe603e1d278e]
 ├── 1097
-│   ├── 1-ta1097.vom
-│   ├── 2-ta1097.vom
-│   ├── 3-ta1097.vom
-│   ├── 4-ta1097.vom
-│   └── firefly.vom
+│   ├── 1-ta1097.vom [1cbeb95df92e865f3b3ac58adf73facac0a0e0b95cc3b42c9cfacef9ad72d084]
+│   ├── 2-ta1097.vom [2ab218464bd7a2f98f5da41ab948bcb9f5ada9cc89e58b85b5602ff4c0a9f7ec]
+│   ├── 3-ta1097.vom [1fe129a23e2052c4f9681a6a758da490a19e1a7766124134ecb04119a43bb444]
+│   ├── 4-ta1097.vom [ce82f7f3df42bcc5d23e18818684e1eecbd17f5713525f6fa8e1afc75d5cca7a]
+│   └── firefly.vom [b14d2af4bd6b9246ca048491d3f368e8df06ddecfd4614a94cf04bf2d5dc6f71]
 ├── 1106
-│   ├── firecris.vom
-│   ├── firefly.vom
-│   └── taz1106b.vom
+│   ├── firecris.vom [6d6d106f7aa07d9c85924d0a87de2061ea000b7af3a2a61da7cd27eef7a5ea43]
+│   ├── firefly.vom [c34bd59bf881c5f5fdfedade840b625fddfefc6f550149798954f68e14eede30]
+│   └── taz1106b.vom [c1d1ac15540140f04f9ac01b4d2d6e81edf8b10f4ac6eb5cd8e160a07e4d0634]
 └── 1107
-    ├── taz1106c.vom
-    └── taz1106f.vom
+    ├── taz1106c.vom [9f46912f829045dfb3fb255604e8cf105110fc1c926ae39b64b6d661dd37d26d]
+    └── taz1106f.vom [0219e61aee8f2e5ccd10eae2d6acf66ea50afcc8567154c9de325c829375600d]
 ```

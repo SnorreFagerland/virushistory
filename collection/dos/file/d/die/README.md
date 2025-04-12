@@ -3,91 +3,91 @@
 
 ```
 ├── 0352
-│   └── virus.dos.die.352
+│   └── virus.dos.die.352 [064a86811bbc194b9f3fadb298968d9a2c25f03e29d1006871b59730b36ea4e4]
 ├── 0353
-│   └── die_353-001.vom
+│   └── die_353-001.vom [d8363e7ee2164c4c035accc6c7b6955316f9fb4fe5a2be852981c51d8173b865]
 ├── 0385
-│   ├── die385.vom
-│   ├── t2.vom
-│   ├── t4.vom
-│   └── t6.vom
+│   ├── die385.vom [183f676005c6d4437da188f6b5771fcfc8c8f4db1f01f645c72ef975cf826039]
+│   ├── t2.vom [761374d2ece30b1920a507bcda8a41a23977d5b7201fc1cfe44cd4767213d558]
+│   ├── t4.vom [d952fcd47d6ab44e6849814140826ab95565e2d28d09fbd93847dc2df2c61282]
+│   └── t6.vom [23523a04b398b31dc64d627ed457980974d070ae2653613c630db8f706b8f9cd]
 ├── 0387
-│   ├── grep.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t4.vom
-│   ├── t6.vom
-│   └── wci0578d.vom
+│   ├── grep.vom [456a2786728417dbc90459c7fc5380a988fdd412017bda65e2f2182279289a6e]
+│   ├── t10.vom [07ffdcb7f574b4afb4c12da0409e7c1ba155904161189c086d346129a862f6f7]
+│   ├── t2.vom [e9663464a9fa78b098c3bf22f69938a6128007bbe78b20a29ce73e7030d49c51]
+│   ├── t4.vom [3d7e6a87d297d19686c27184cf9e471050350cbd175a09074ca1be25f43e0a16]
+│   ├── t6.vom [445ddb9cbb2fd8b396469e5b66b827af59a17f7077cf6cac831fc313ecea0960]
+│   └── wci0578d.vom [37a50bd8f841380521d5da1dbd1917e5d75966f3a1b03ac6def103ca861edbf4]
 ├── 0487
-│   └── virus.dos.die.487
+│   └── virus.dos.die.487 [33bec16f2182219d2ea242e19a378e92046b0aa70260ff6a41b9e55e78837271]
 ├── 0488
-│   └── virus.dos.die.488
+│   └── virus.dos.die.488 [e6df01530158ddb02e20f60e85079c20068b6ba27d658c0c8b496f4f5a5397b0]
 ├── 0666
 │   ├── a
-│   │   ├── die_666_-001.vom
-│   │   ├── die_666_-002.vom
-│   │   └── die_666_.vom
+│   │   ├── die_666_-001.vom [689e7be85c69c887c0454db95dd34f32297ac52855deee1dd6952c2078c934c5]
+│   │   ├── die_666_-002.vom [fc493563eb7e473d8f28ed060aece3ff6e060285b194267887594e444ad21b26]
+│   │   └── die_666_.vom [67b1dd86806430c19bb5306825cb84d7288cdbf90512f7658f1e02d8cd7adcad]
 │   └── b
-│       ├── elite666.vom
-│       ├── grep.vom
-│       ├── keyb.vom
-│       ├── rce-666.vom
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t2.vom
-│       ├── t3.vom
-│       ├── t3.vxe
-│       ├── t4.vom
-│       ├── t5.vxe
-│       ├── t7.vxe
-│       ├── t8.vom
-│       └── t9.vom
+│       ├── elite666.vom [be2b1a27cd421a06a2432cc67f765d843e737f1ee86d13157f0bf16083c67c6f]
+│       ├── grep.vom [c45307ea0b8a7c9a50df639577c3cd5af8c3864246f0a1f669ec6c0e34617bf7]
+│       ├── keyb.vom [7477fcb742a6eb0c61e3f52fd5928a800657402ebec70e0bc77c86b73754079c]
+│       ├── rce-666.vom [074f4cd14238618d918de5f3967dbcd54e58f6d5910dc2ae453dc921cec07606]
+│       ├── t1.vom [b1540671149a93e640585093836df3c1397565b51754417ade5d90845dfc6453]
+│       ├── t1.vxe [e251c911589034917571a7c63b03f5f97cea27b57d78d550d6a641bfa3bf7319]
+│       ├── t2.vom [bf1534e3e68f9a979423a78a0a321b6dd62a3c6c9e9d35471ea128a87304c792]
+│       ├── t3.vom [1f74ce91fa00c470977911f38063a6bc0209c489923662b8783f417a65f71168]
+│       ├── t3.vxe [dcabcb127c463685114df387f261a6aeec403cef66fd5fb47bff8ec1866f7392]
+│       ├── t4.vom [d23a0a318a685aac55a82b8ebde038127a62650a1e7fdad9118ab284b5a59460]
+│       ├── t5.vxe [017d0a1c29eb8d0497ed35c266808ef6e5d8074133fb7177c6378652a5aad034]
+│       ├── t7.vxe [72f1140ca10438dd6834b4331ab84676f1eb66dce8763ecf4ac6275af090fd12]
+│       ├── t8.vom [1146968cdde0cd1923d9fdebd433e08a515a169eb9f2e94ff44db78806b1265b]
+│       └── t9.vom [737c7f3ff81b302b63ff6e90c7f7022e8b4a0cb5f0815049973bc20030da2659]
 ├── 0667
-│   └── virus.dos.die.667
+│   └── virus.dos.die.667 [ce3e8c17d655ebacac2c5d2a32ae1c7195942a63494e9f5ba36cf3ad948566b0]
 ├── 0669
 │   ├── a
-│   │   └── virus.dos.die.669
+│   │   └── virus.dos.die.669 [78f60c262bf8e77babe9e897ecb06e47586b871ef8fdf8016f7ba4f559dedbbc]
 │   └── b
-│       ├── rce-666.vom
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t2.vom
-│       ├── t3.vom
-│       ├── t3.vxe
-│       ├── t4.vom
-│       ├── t5.vom
-│       ├── t5.vxe
-│       ├── t6.vom
-│       └── t7.vom
+│       ├── rce-666.vom [61046f9ecf73ca82ef241eda9c117ee92c4f270bf381c87215422eeed4295f07]
+│       ├── t1.vom [a0f1a16ad25d2ec5f87d87726975bad436516d49d333113cee17c7de3a8a9e4a]
+│       ├── t1.vxe [f9ad5b39e20c6ab1ce4159f727b1c7dd25d95c032dfe805f9c2b4c522d707e8d]
+│       ├── t2.vom [2000aeec48bc15f32777cc51a151a8478ca8b57a751b8ddb5fa14c467f618ec4]
+│       ├── t3.vom [ad17594f75eda03f9058415905b57b60462bd3ae36ab83e86217265610ca0c06]
+│       ├── t3.vxe [20095fb30d9ff0670b496821d39b73cf89a80ddc5199af0b465621088b7e3c46]
+│       ├── t4.vom [5c32d9caf9b4b2b54dd72e29c9dea9d8dd3af790f53d5e2ddcfb706e16f21399]
+│       ├── t5.vom [e4407eb0360a01b397d7e68b0c64e3f1c3e075e98342affc81862a1568e22e53]
+│       ├── t5.vxe [ef73ae55a75f9960b3fa31815ca67594e4ce6ad39abc9a97c58685654b381225]
+│       ├── t6.vom [d7a077f0d8f47fe23730b9de0a19d378d3fcd53a7edf6246acfeebc2565a9023]
+│       └── t7.vom [37bfac6de4da31aaf27add6a3b0ff2e358affb06f6f2184024753cd2a68629df]
 ├── 0800
-│   ├── elite800.vom
-│   ├── rce-800.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t10.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t7.vom
-│   ├── t7.vxe
-│   └── t9.vom
+│   ├── elite800.vom [2870bc1b6ee39361fba125ed3a8e1dbb2ad86829866145d2b0baa830396a6d91]
+│   ├── rce-800.vom [ddf69c63e441da372a0802aea62df59d2e03edf27716e76f978531a2bf74edb1]
+│   ├── t1.vom [5c70724a400cfa7bf9e6081b135670c3422fed2ece093401d0e4903ccb28252d]
+│   ├── t1.vxe [af3fd6f6cf4c28a19a059b60a261e810e08a5e9de79c6e1873cf1f181781006a]
+│   ├── t10.vom [66be5080760063016e044990aa9785574947101005e1d881e7a0680b554bfa63]
+│   ├── t3.vom [5bbd22bde75ecc43d9414e07a9342896bc7d93e77c5d6ea2a9337b5ec58788d2]
+│   ├── t3.vxe [74ff7819a5b508b4873016c0576823947162af7825edec3fbb1dc666c7e7a21c]
+│   ├── t5.vom [707ce18242248de2350bc71b220ca6d26e3261584ff179b5bdd12a953edc5d78]
+│   ├── t5.vxe [6a40c585832d200c1d6caf04a395abe0a65782b3b486a143f7e4b62c8663a283]
+│   ├── t7.vom [1886daa0507f531c83029c5b14c825818c65bac31019f5667aafd5e3124d5b80]
+│   ├── t7.vxe [0449c3aecc7234dedb6d7e064e66802766d5204556195b7b5a8595bc7809b7a2]
+│   └── t9.vom [3c8c260ff4a722b673bd3a77ec36164ae80884c7d0e6d0e71c85844c32be5923]
 ├── 0803
-│   ├── rce-800.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── rce-800.vom [6e2736e7579779b8d9bf2f2f00c3dd869fbe02aad299679dff37f709960efb4c]
+│   ├── t1.vom [c172f7783f57adbf9b7779b674bb165598675a69fa178cb751876174238fa6b3]
+│   ├── t1.vxe [e0d18fe1df6b8f891614dbda14b370dcf0494279a00836fc9a819e568da7775b]
+│   ├── t2.vom [52e2c85c7ac0b95337f51062dccdbbaee7d90a67ee2590cc1cdfa8e9ef2018f2]
+│   ├── t3.vom [dcdc7830b9692c3c0d847de474a2d8c056c6abef9157234ec4641c0798d4c52e]
+│   ├── t3.vxe [c85b139f118c27b4ad8bb883c103ae6656ada0ffe96421696fb68fff23067a93]
+│   ├── t4.vom [3c7d2f936b0c7e36be4f975e3c339d95d434949a1bc17dbe8da69cfb066db0b6]
+│   ├── t5.vom [10257649c277c37c59bc2d95728aca457037cfde31561192f08ee3abd11966f8]
+│   ├── t5.vxe [154698c7f8f156b526fbe71442b19c18cb15eceb32fc71e0aeac907625fd9e8d]
+│   ├── t6.vom [68d529584a2b2064076ee6a2ec51ada4882f190777a572cab6fd4c7ed8c1c69d]
+│   └── t7.vom [c8516093f38aff8422710d5792ca34b982312dfd42ef8d7aafb88537890161bf]
 ├── 0808
-│   └── virus.dos.die.808
+│   └── virus.dos.die.808 [8e163d5994c80ce05411398a4a3f323c75b88cb2b7e8b13c009ab8f6226568ac]
 ├── 1048
-│   └── rcefr.vom
+│   └── rcefr.vom [91c17b32c616cbb28a2335ecffcc404aeb4dcdd1f9e59e77f14e3417f156ba72]
 └── 1055
-    └── rcefrod.vom
+    └── rcefrod.vom [9e881a18188eff9e8af89376abd90d6b0a88cd95bd39179d20716eb8d64cefc1]
 ```

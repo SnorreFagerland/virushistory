@@ -2,8 +2,8 @@
 # Contents of `d`
 
 ```
-├── DPOG38.vxe
+├── DPOG38.vxe [49f0d26b36b0fd6f2bd6b48183129d02a17534b641c703f1421efd588a0b0cc7]
 └── src
-    ├── DPOG38.CFG
-    └── DPOG38.PAS
+    ├── DPOG38.CFG [8432bb288bcba42e9f2220faf02e7b1a27aa623fa06c48ae894fa37a1ef8edce]
+    └── DPOG38.PAS [6520535326f79569adc88b8777db083a3fd2be19159480805a7d9fbfd7f42fff]
 ```

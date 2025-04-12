@@ -3,52 +3,52 @@
 
 ```
 ├── 172
-│   └── wci0137k.vom
+│   └── wci0137k.vom [0d31da519ba4b72f55ffd66dd26dc20d4a78a6852c1fb808aeefc973868fb742]
 ├── 174
-│   └── wci0138k.vom
+│   └── wci0138k.vom [3af77c4db4842b5c726439c0743a440a17acb3c5ca096b70cb084315e6c6a837]
 ├── 216
-│   └── wci0139k.vom
+│   └── wci0139k.vom [58ae5e1435fe50d90532bfd8a99125b8598466dce4a63497fe8a87a64774477e]
 ├── 217
-│   └── wci0140k.vom
+│   └── wci0140k.vom [83c98454db3002213766473780b1b63751bf11c04d972275a209521d8b49822a]
 ├── 281
 │   ├── a
-│   │   └── kode4v2.vom
+│   │   └── kode4v2.vom [d4462507675a669fd3a5bd6c66a8c59525766801aa4774212e02567e6c71a146]
 │   └── b
-│       └── wci0141k.vom
+│       └── wci0141k.vom [95a8a56727b772344e228e57b6674d0b27c21207a4e7a8b89017e430a94c602b]
 ├── 282
-│   └── kode4-2.vom
+│   └── kode4-2.vom [00ef1f8031a27d9029078b6aa9cfa727b2103466a289e45ab93768528788de85]
 ├── 285
-│   └── kode-285.vom
+│   └── kode-285.vom [2da88e673f195cb5119bc8f0fefd4278d442d2aa285110969dd8f9fa3800519e]
 ├── 287
-│   └── v4585.vom
+│   └── v4585.vom [4e8037d7a2f8a8ba952d826f9626837b72ecb71ca04e4bb499226fdc00428414]
 ├── 328
-│   └── wci0145k.vom
+│   └── wci0145k.vom [b98a6932db69ae322466b51560db39dda4b8748b5e5e3f8475c166bd0051a1d1]
 ├── 329
-│   └── wci0146k.vom
+│   └── wci0146k.vom [fa1a876346f591e63d42db35d6fd64642fece82a5b8cad0a317085c1d8f579ae]
 ├── 335
-│   └── wci0147k.vom
+│   └── wci0147k.vom [4a32dc058787044d9812a8596be6f7780d3fac7c7b70e88808e0c81afd7f547d]
 ├── 336
 │   ├── unknown
-│   │   ├── id.txt
-│   │   └── virus.dos.kode.336
-│   └── wci0148k.vom
+│   │   ├── id.txt [269c0a4aed47f88ce8a086ce3ba35def1292293da4df5f131394adcd959d5c44]
+│   │   └── virus.dos.kode.336 [cfe4ee99ae8e3eb9b2b27e109c8e2095faa904fbd8765564f0566c2d0502b61a]
+│   └── wci0148k.vom [c9bbd2cdc1a1a37ab319fbc57095bc464c2cb4906f6bb1675c4b55a84a714535]
 ├── 398
-│   └── virus.dos.kode4.398
+│   └── virus.dos.kode4.398 [fcabab2615e5ec15039cab4a0c828f930aaf57265d85fabeca673c77d462d076]
 ├── 399
 │   ├── a
-│   │   ├── kode4.vom
-│   │   └── v4590.vom
+│   │   ├── kode4.vom [eef6b19d03c4c241c669dad71307f88cb1e2177e33ca9eae70d51940a2307924]
+│   │   └── v4590.vom [1967149b107ebf289f76391799ebfc7510cc02648f4c73a3555f48f4f45e7088]
 │   ├── b
-│   │   └── kode4b.vom
+│   │   └── kode4b.vom [6db957c1bac6570110801e0621a89b362eb2f9f9dd7d0de0126601fdb4c1d63d]
 │   └── c
-│       └── kd4-399.vom
+│       └── kd4-399.vom [ea4c68fad683ae4c1860fdcc84e33d0824988477dee7465a73207651b3d54afe]
 ├── 412
-│   └── virus.dos.kode4.412
+│   └── virus.dos.kode4.412 [257d86db0b482c22db398da3778cb154449e2c1072425e4d460ff62a5b755dc4]
 └── ow
     ├── 129
-    │   └── kode4-1.vom
+    │   └── kode4-1.vom [e5757f7959bbd86c9c0b5094fa4481115b5f29efafec1314bd9d1c3f529d2e4d]
     ├── 130
-    │   └── virus.dos.trivial.kode4.130
+    │   └── virus.dos.trivial.kode4.130 [1066e9547f092faadead9ea6ab1a1844c3b56a69fbc43abf7bdc49f1c3a30e6e]
     └── 131
-        └── kode131.vom
+        └── kode131.vom [b02f5d4775cf0a212d2d2522ec12da45335fad8c60553aaee4cdce6c0a9d76c8]
 ```

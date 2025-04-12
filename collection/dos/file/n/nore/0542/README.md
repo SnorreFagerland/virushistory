@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   └── virus.dos.wit.542.a
+│   └── virus.dos.wit.542.a [22a290a11c35e27eb4220bdf1f87beed2b07cc6ac54bc3a7c862fd4cf7c3d6ba]
 ├── c
-│   └── nore542c-1.vom
+│   └── nore542c-1.vom [e0a0a35278bdda97603d590d3489c7a4cae997f0123f5d7f433c1bc602cc0754]
 └── d
-    ├── nore542d-0.vom
-    ├── nore542d-1.vom
-    ├── nore542d-2.vom
-    ├── nore542d-3.vom
-    ├── nore542d-4.vom
-    └── nore542d-5.vom
+    ├── nore542d-0.vom [c3d5c72e4bcd5d5dd4c3d2724268e6f4009d70495544c9278ad7827f7149928f]
+    ├── nore542d-1.vom [6fe3b34d919d153019fa099eab37e542e5e7b41f04694d175232b22ec528e462]
+    ├── nore542d-2.vom [1546f48c99285ed7428f7e945f448539c6a544d511b25254b550629a5eb940d1]
+    ├── nore542d-3.vom [bb979e4b689b4d8a7676ba37ebc2cb437455c187e77f0e1643cdc48bb7077254]
+    ├── nore542d-4.vom [9de5e8a0b09e2a140577d4044f59b3f2051d86459dc2d7ab9ca0684e3678660a]
+    └── nore542d-5.vom [e5dc1f5c3840606b858dd4712d7addde60a101ddb3aaacb881912b621aa9dc3d]
 ```

@@ -3,34 +3,34 @@
 
 ```
 ├── a
-│   ├── oldyank1.vom
-│   └── v6885.vxe
+│   ├── oldyank1.vom [c2614fcd91cbf32a622ff1d45c9d04a0da661f03011f85a1b52f4ae1276c66f5]
+│   └── v6885.vxe [ba95d33bbd88159615d4e0f186a33e75110501220141d162cbc2df63a42ff892]
 ├── b
-│   ├── enigma.vom
-│   └── t4.vxe
+│   ├── enigma.vom [c13f875c9d8fd68972fcf2c64df373804c003756310bd8d6eba63b4bd54e5595]
+│   └── t4.vxe [1e74e4f0410fd9cdad876c050d49834652fc4fc55f69e6c11f9f162123fca0d0]
 ├── c
-│   ├── enigma2.vom
-│   └── t1.vxe
+│   ├── enigma2.vom [0ff42660cce7182427e56abfadf32293614223b1c2d2599d11adc9409edfd7af]
+│   └── t1.vxe [eedac58d0f964a5300484675521b2ee2ada0dbe1e186a833d48a5484a7881ad4]
 ├── e
-│   ├── enigma2.vom
-│   ├── wci0121y.vxe
-│   └── wcio121y.vxe
+│   ├── enigma2.vom [1fcf968388fe8e6b37c1a41968061afe45274acc6659daa5b27cba2843814658]
+│   ├── wci0121y.vxe [c03f779a0c64b3b3baa6acf1f188fdf9e2ac3ed580c54a8d5fdfaed44fe7da1a]
+│   └── wcio121y.vxe [c623cac190db815ffc56fc01dd64970cbe17a6ee017ca2c0ed94a79861932583]
 ├── f
-│   ├── chkdsk.vxe
-│   ├── find.vxe
-│   ├── kernel.vxe
-│   ├── subst.vxe
-│   └── yansh-g1.vom
+│   ├── chkdsk.vxe [1a9dd0da7ce0f60089fdf3b940e6255ed83878bfad3790988302ec27c43fb1d9]
+│   ├── find.vxe [ce704dd24fafd4f389945885524230d09d0db7e3d7c6afd8a07587b1e8b2107c]
+│   ├── kernel.vxe [1034612a6705e9b69bcf9e14fec79a47d4127bc9e132b257a63f497b02a83023]
+│   ├── subst.vxe [412454aa8415f2181e5e7b84f4a86a9ebfa38c755d477a6fa88580dc4425b112]
+│   └── yansh-g1.vom [ab74a13738db67fcb0ba59f882107712a3c2efaea604514ece977714909462cb]
 ├── g
-│   ├── enigma3.vom
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   └── t5.vxe
+│   ├── enigma3.vom [7f6c46308b1c122a914acafe5aa7ffc70e9002e7616494203a6255e871ec1e25]
+│   ├── t2.vxe [76a35e189064d7589ab8b1bdee758b9e65b8cddb617b54298c62399076468dbb]
+│   ├── t3.vxe [202cf0ca3cad6d80507db27e671527de8d86b82d7a2440310cab0e0455c03fae]
+│   └── t5.vxe [6139d1e9fcadee92a3862f0329e309c28366179a05d16dcfeb06c521e3484dbc]
 ├── h
-│   ├── enigma3.vom
-│   ├── t1.vxe
-│   └── t7.vxe
+│   ├── enigma3.vom [ffb058201c52a4079bfd216e3317f544f9914f09ffea0bc824ea8a67c06132d4]
+│   ├── t1.vxe [90c133fd23f9ba2ed15e85215c7e10b3c92bf91c189874b1f057803db19c2b95]
+│   └── t7.vxe [a24cc8bfa8e85c3ae54e17a4d07f69febbb758cea6250f1b62b7a11629aa9b81]
 └── k
-    ├── old_yank.vom
-    └── old_yank.vxe
+    ├── old_yank.vom [bc0e9ba21bc0794244c3bbc1c4944d5afa2b3d5e572010cb6a699148c7d5d173]
+    └── old_yank.vxe [7dae2cd9e9a6aae34873506d2c840f47a174de985d2d61d341aa464289d37fe5]
 ```

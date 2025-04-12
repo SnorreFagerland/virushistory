@@ -4,485 +4,341 @@
 ```
 ├── 1049
 │   ├── a
-│   │   ├── 1-y1049a.vom
-│   │   ├── 1049.vom
-│   │   ├── 1049a.vom
-│   │   ├── 1049a.vxe
-│   │   ├── 1049b.vom
-│   │   ├── 1049b.vxe
-│   │   ├── 2-y1049a.vom
-│   │   ├── 3-y1049a.vom
-│   │   ├── ussr1049.vxe
-│   │   └── ynk-1049.vom
+│   │   ├── 1-y1049a.vom [89916bcc45ddbe8ffce9d8b74e42a4827fc38436d999c8c0df17ebd1b8cf2db6]
+│   │   ├── 1049.vom [e51070dca23e49c4621a27d9117b982eb1d061f679e37fc2920dc1b1d31e5972]
+│   │   ├── 1049a.vom [0048fd56e3a2fb86786d2d4d51f3f3e20a1c28b8d5a9fa707103d28009b3a574]
+│   │   ├── 1049a.vxe [328f388939ddd7291baf7cbae1485112a2f5df126c783bcef0e4d76304c01630]
+│   │   ├── 1049b.vom [7513d20c20c01249cd42a43d259ce297f2c85c08abb26099068a0505eaf9c4e4]
+│   │   ├── 1049b.vxe [4c94589045360fd2039e54046c85dd3c70aa870c7fa1f6b58f6484f4bf29fb11]
+│   │   ├── 2-y1049a.vom [a01fb6689cf37eb08a190f44877be19913bbcde5af69d398a6a65463c3faf792]
+│   │   ├── 3-y1049a.vom [f2749eebd2e9ca06ba98fa844b2611099c17dca0a7a5ec1b966895dfb11a960b]
+│   │   ├── ussr1049.vxe [b735a780ad23e340d31c9fd4e1826887b09c39c0ed69af2eccc44f0b31d1c1df]
+│   │   └── ynk-1049.vom [9ac65fc199e96530f335463fbecb9aced5ee3691b528aa45f8d1200632d3826e]
 │   ├── b
-│   │   └── virus.dos.yankee.1049.b
+│   │   └── virus.dos.yankee.1049.b [e983f3c1a3a450cb495ebde9afc85ed7242bbf5c94d1b01251ac159f70766662]
 │   └── c
-│       ├── yd--1049.vom
-│       └── yd_1049.vom
+│       ├── yd--1049.vom [3e9d8d72abf336ffde2b75b6a8ee5c962d534194f89a56921c56a129fdc29399]
+│       └── yd_1049.vom [515932713dc04deaa8c4389acaf5336bbba6862cdccbd99f2af162245bacacaa]
 ├── 1150
-│   ├── 1-ya1150.vom
-│   ├── 2-ya1150.vom
-│   ├── 3-ya1150.vom
-│   ├── y-1150.vom
-│   ├── yan_1150.vom
-│   ├── yan_1150.vxe
-│   ├── yank1150.vxe
-│   └── yd-1150.vxe
+│   ├── 1-ya1150.vom [c7f366d88429ff37db490c8f2cb04a87278a8306f2db6fc8685bed62ec737455]
+│   ├── 2-ya1150.vom [793049958367b0bc55374b7d188f18f6f7af807d2279147bffef0cc3e283dddd]
+│   ├── 3-ya1150.vom [6b39d4dbe3f6c9fc1b809dd2003bd117780b2e0447fefa36c556871417ce0080]
+│   ├── y-1150.vom [ede0ad7fcf9632759063fc9c31daea7bcdee57b4d32685e7128da9ffbbb5c980]
+│   ├── yan_1150.vom [80f0efa7dc69b997b74ddf8b870be4d17712b14d86f3c60c42347a3cca31f09d]
+│   ├── yan_1150.vxe [94c2a1d56284c194c8ca4c6d2a3ab6eddac3581271a54b172280bfb853612d37]
+│   ├── yank1150.vxe [80a59a764b14fcc384671c6e797a2f25e44b2bc4f5c0e17070fdcb3fdc9b33c9]
+│   └── yd-1150.vxe [dbc1ee96f78cc73f5aed559ba14a1215a2f0b515aee54f15b9c00e41a145ccef]
 ├── 1202
-│   ├── 1-ya1202.vom
-│   ├── 2-ya1202.vom
-│   ├── 3-ya1202.vom
-│   ├── af001202.vom
-│   ├── alfa.vom
-│   ├── y-1202.vom
-│   ├── yd-1202.vom
-│   └── yd1202.vom
+│   ├── 1-ya1202.vom [d7248522292b809228fae3c3b2c67c75e4248688d083c8afc497faeb0bdabab9]
+│   ├── 2-ya1202.vom [5f23d34d7bb0b3c2cc106522a555ece29eb2fb24851866de2ef81728c0986857]
+│   ├── 3-ya1202.vom [d21b7d1290651b0881018d7dc22c754394152d0700b40491c4c1c43946d824fa]
+│   ├── af001202.vom [e99ff53a7477121ca0a33b77e6ffe147378976fe7d37d801ffd3ba3aaa598bd3]
+│   ├── alfa.vom [eb9dcbc31972531429f271562bd26e80e7c3e8464cfa3bbacbb4a4d2316f8bc1]
+│   ├── y-1202.vom [1ad0e1147d92e61c6eb905a9e1a14df9916cd2435f1d82eec1c5582a278990b8]
+│   ├── yd-1202.vom [9a5ac5e936e1cacb6598e9a7d4aebed3b14924245be735761e793e7b18e4ea08]
+│   └── yd1202.vom [d306c32b6ba80a6617241345b6dd671beb7373f94a61daab08930a51150519d8]
 ├── 1256
-│   ├── 1-ya1256.vom
-│   ├── 2-ya1256.vom
-│   ├── 3-ya1256.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── yd-1256.vom
+│   ├── 1-ya1256.vom [315c84cc0e6208d953efd87ec075745e90d109a5169126e6d448e57b1e4b196a]
+│   ├── 2-ya1256.vom [5e46c0e3c0c20b7880532d0566d98640cd6b384f351fdef852e058bd4d8e25db]
+│   ├── 3-ya1256.vom [49f905422ddbe1e298c3282b3074d7ca43df8648885561c424f94436e35ff857]
+│   ├── t1.vom [30cf4be2d4d009fcda2cdb53ee0882c9eb6f566abd3d7681f4ce32b4aa740126]
+│   ├── t3.vom [233b881cad0a6b496db2fe7bed4ddf864631e26222be6aa6f1c6d212890e2261]
+│   ├── t5.vom [413f34a4392eec1613b00af30d81dad2125042c948559d9742d187b5661748e0]
+│   ├── t7.vom [a4227cab6aebe0de70589bdc75dd147d16bf21e9aa99fc058c447a2ba246bbd2]
+│   └── yd-1256.vom [38ec769ad181d4c945f3dcb41fc32ec9a49112e697cd92bfde933fc3e993abc0]
 ├── 1905
-│   ├── 1-ya1905.vom
-│   ├── 2-ya1905.vom
-│   ├── 3-ya1905.vom
-│   ├── y-1905.vom
-│   ├── y-1905.vxe
-│   ├── yd-1905.vxe
-│   └── yd1905.vom
+│   ├── 1-ya1905.vom [3299d1fe1f3af7d437b6eadd7985035b819733273d05f8c996cb0527a0799883]
+│   ├── 2-ya1905.vom [de91e580ef54b1a8271d58315dfad3ea1fa000a335e995a4d4bf489088479350]
+│   ├── 3-ya1905.vom [5a24f78febdbcd489b398795da9532c3feda75fa91a9b38463355d2597c4a497]
+│   ├── y-1905.vom [37b9d02b3412f5a5e7d5b491c6da3f6fa3f6853371855425fb825cadb20bef31]
+│   ├── y-1905.vxe [ecd44e0b291704978926c0a1d350db5c269b1be5be9e145dcad66fca98e68e9a]
+│   ├── yd-1905.vxe [47281eb1c587c7495f31730c00b5effdb083d68aacce3082fb40cf1d28ed0e35]
+│   └── yd1905.vom [13533e8149243293a9777fabd1ed1d119b999379fbf42f87872a487f794888b4]
 ├── 2167
-│   ├── 1-ya2167.vom
-│   ├── 2-ya2167.vom
-│   ├── 3-ya2167.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t7.vom
-│   └── wci0019y.vxe
+│   ├── 1-ya2167.vom [7c46acc66bbce77b976f32c92af738e87499aace190c892616e377e062b74e86]
+│   ├── 2-ya2167.vom [6b0225198ce6681605a0cb03cfee797fa236abd46940d6a0e0bab00dc9483c16]
+│   ├── 3-ya2167.vom [32a53c7e3b3c80512333ce2cb780d3fbb1f5a77fed95067b2a33fe37ac249150]
+│   ├── t1.vom [592f325e25f0b79c025d96323ae766b806d2507f8518ec945477a069e64b8429]
+│   ├── t1.vxe [b61f742ddf1042ad23e833f01b5fa9744c2dc8da8b944e89e8db68489f3a69f3]
+│   ├── t3.vom [744164b29b3fbe555d6b4a77cbc7907b195aff2cee6a8c84d0bf702cf432b671]
+│   ├── t3.vxe [e908225ab6fc5758e9539be99ae7d541cda46bdee9f231b0d5753b977924d20b]
+│   ├── t5.vom [98e673667d31bcda06537826bd73618f8bde246f765c7d9cfdfe1325b0352a7d]
+│   ├── t5.vxe [3358556292a3cde5c0137ae75172b45b3ac07ed8ab1d4b53e3fd2d3e6e6625f5]
+│   ├── t7.vom [46c046baeb37d59b24bc0313bc10bad9a016283854746d00ff5d96610afce9dd]
+│   └── wci0019y.vxe [c6c4e86dbd92a30c1551ea191fe8e75bb445c9364cfeb6e5a68f18e14739d85b]
 ├── 2189
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   └── wci0020y.vxe
+│   ├── t1.vxe [4509e5c4c2d193568d912d159bd3af23a72cf5e4e9065e2a6ab98feb7eb7915e]
+│   ├── t2.vxe [35df49c3a600fe48f0dd9b0ee7e87e8e2a488cb0b6025b01068a0664914776df]
+│   ├── t3.vxe [c244c4875dbce49cc8eed90bc1168abe7ee82ea05cc5bb748e37d88cce7b5db6]
+│   ├── t5.vxe [346bac1890febdb3beea64d242c4fed92b086382fe83ae2b66a061d59f9c9289]
+│   └── wci0020y.vxe [d3b1a153c003c8f83f41bc44d11a4d43c504bb467d3499371911b0ddceadb7fd]
 ├── 2199
-│   └── virus.dos.yankee.2199
+│   └── virus.dos.yankee.2199 [25cde5a81d439e94fe2133bb5e1ce273ed66f95c0276f31aca8fea7f848a27a4]
 ├── 2433
-│   └── virus.dos.yankee.2433
+│   └── virus.dos.yankee.2433 [6230d9ee2202199e0133935ae4e73f06f9d424798eaf31e68929a1764ee38447]
 ├── 2505
-│   ├── 1-ya2505.vom
-│   ├── 2-ya2505.vom
-│   ├── 3-ya2505.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t7.vom
-│   └── yd-2505.vom
+│   ├── 1-ya2505.vom [350f26534ab4dcbbfe126d8eb7afd51e72c7a882d26bf4eb5a53106aa992c7df]
+│   ├── 2-ya2505.vom [eabd10bd9474e7f5d96ba7edf3f50e94f6e15f50217bacbbbb74495625a367df]
+│   ├── 3-ya2505.vom [b905d8fff281d83dd78478dfe0d3ca753b5b8d590952192d04f219d443541e90]
+│   ├── t1.vom [8e346d917682e78e2ed40148815d8f3ef0f50742b92393c6dfc7a11ddc163b3a]
+│   ├── t1.vxe [7992f97bdb38d22d987a40ea98397761b5991f1e5edd3c42ef997acd2ac821e1]
+│   ├── t3.vom [c00bde055ba07507e6ea09544575ed7bd86ff9ec62db14da8af82e5e59713d96]
+│   ├── t3.vxe [af21da864c6f62ba2b30e10459837f12793bf6d91eaf18b4370dacdfc1e4f44d]
+│   ├── t5.vom [4f1c714814dbd0aecb8dda010b4e5b19810eb02851e8e3748d1017d5bc25f05f]
+│   ├── t5.vxe [cbc9abc90236c31618b0e574c2c5ff9d1ac72c9d119b41961c678070669687ca]
+│   ├── t7.vom [6b85bbb1183227f8fb5e77edaeaeec2076c968d097ad4cf0185eb3458127f79b]
+│   └── yd-2505.vom [59a47bbbee542c2446c694184e9c300d7d63d2907db1625e6cd762a8c1976782]
 ├── 2561
-│   └── virus.dos.yankee.2561
+│   └── virus.dos.yankee.2561 [9005ddd71e37ce56e37b5924e47b305e3f2ca5ab8e28ef78a4483003e41f7cc0]
 ├── 25760
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   └── virus.dos.yankee.2720
+│   ├── t1.vom [39daaf2a181a6524727f5e9b7a04f6cf12f39aa6533c54ff57352c430892e5b6]
+│   ├── t1.vxe [04c21675fb315e92705772796bed66367fe6ef38299c688124b3b310a6d810d9]
+│   ├── t3.vom [f0a82cd955ce3c5f14d0a10ab144df21800cd2906732caa28ca69f864b966bce]
+│   └── virus.dos.yankee.2720 [e32adc9748ae158da07c1f45ea739976d406336746574308deb51af99c800620]
 ├── alfa
 │   └── 1223
-│       ├── 1-ya1223.vom
-│       ├── 1-ya1223.vxe
-│       ├── 2-ya1223.vom
-│       ├── 2-ya1223.vxe
-│       ├── 3-ya1223.vom
-│       ├── 3-ya1223.vxe
-│       └── alfa1223.vom
+│       ├── 1-ya1223.vom [ffd6e3df8215e6b4287c284c415be831f34f115299f4dfdad47d6518b4334193]
+│       ├── 1-ya1223.vxe [f5e5b9744cea5e6ad49b10411776af730613dfe670e24088c88f570fdd2d2b63]
+│       ├── 2-ya1223.vom [68385c5e3e1476d1fba748191f4e9f307247096d3e5e9f2e841f51dc52647e72]
+│       ├── 2-ya1223.vxe [7c5a8382d92b9d6a7f9ab16bc225d3c054b35328149e67c8f362a62996522b05]
+│       ├── 3-ya1223.vom [12ac53bf58cb1eb2cf0b7d67c170775c97dd769afe57297b534c213056618859]
+│       ├── 3-ya1223.vxe [d79c8db6bd4af0a2346d7ff59d1c6ab3ac7b275840a6f97594ee679b20bf4aec]
+│       └── alfa1223.vom [ced759707ec68f014c1aa691292fd34c448352f1252c39fae7e00ab0e16555b2]
 ├── estonia
 │   └── 1712
-│       ├── 1-ya1712.vxe
-│       ├── 2-ya1712.vxe
-│       ├── 3-ya1712.vxe
-│       ├── estonia.vxe
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t3.vom
-│       ├── t3.vxe
-│       ├── t5.vom
-│       ├── t5.vxe
-│       └── t7.vom
+│       ├── 1-ya1712.vxe [7fdd72e2310aeeb2c75f01be9e6680e9333343129c6989a1bcf8b6be707e8b6c]
+│       ├── 2-ya1712.vxe [aa1cb93cc6f5b4e30e3f88a63ae692835b7b478c6e9b36cfc6dfb53520b1de90]
+│       ├── 3-ya1712.vxe [f12d4df5fcfce47c6325181c20ba37a7657641901de60fe92b243496427f4304]
+│       ├── estonia.vxe [7aa073bc4f76a4f3abd6d27a46cb4180198a6bcc937a6fbd971c71abb3a6967c]
+│       ├── t1.vom [d0de472183f3e3a0b5787f9f15eb4b0dfce2f3ea284cb8eec8a953b9a1cdc5d5]
+│       ├── t1.vxe [7ecdffd05147b915f41b315bd9daad4b09cf545377ddf5fd73ef49787254a8bb]
+│       ├── t3.vom [970d3002c636101fc1286885a1a4e97966ab419db5fc2c4b4907462e71c149e5]
+│       ├── t3.vxe [d6dd315463816f3f1246bc34acb5e6c328af7c058a82c980360bdda4670d052e]
+│       ├── t5.vom [d8253c45bd5c0a11e1c73897c4853e2adaf96317e17242881a83f571863af9ab]
+│       ├── t5.vxe [9f324a9ba7cc1a51d799c3f3f06523e0f3d1fa876dcc670d05416c61643b5438]
+│       └── t7.vom [76aadd6721bfbec2baaceba86bf0872d77e71ebdcaf50151d5bffb6ff60caee7]
 ├── joker
-│   ├── 003d6ca7.vom
-│   ├── 1-ya1371.vom
-│   ├── 2-ya1371.vom
-│   ├── 3-ya1371.vom
-│   └── joker.vom
+│   ├── 003d6ca7.vom [73cd2a3a375296e80cf0059bd2d44a0922442bf3cb29a36173e5fccadab25872]
+│   ├── 1-ya1371.vom [9ea547fcff7eb986e5113d73d36a2184efd68881db545c7a037125b95f2e9da2]
+│   ├── 2-ya1371.vom [c1e846df4773ac6d1ee966c4a5f458b8a812ca4b1d12bd4d90152001b15fc22f]
+│   ├── 3-ya1371.vom [ca7cd2776ff10943a917ed18bb657ea6f6a40b691cc44ec4d2791e35f9b7ce30]
+│   └── joker.vom [e12bb111edddc86e76cda783f978f34dfd4557f4aa4bb37701742fd13c36a54d]
 ├── login
 │   ├── 2967
 │   │   └── b
-│   │       ├── t1.vom
-│   │       ├── t1.vxe
-│   │       ├── t2.vom
-│   │       ├── t3.vom
-│   │       └── yank2967.vxe
 │   ├── 2968
-│   │   ├── 1-ya2968.vom
-│   │   ├── 2-ya2968.vom
-│   │   ├── 3-ya2968.vom
-│   │   ├── max00189.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t7.vom
-│   │   ├── y-l2968.vxe
-│   │   ├── yankloge.vom
-│   │   └── yd-2968.vom
+│   │   ├── 1-ya2968.vom [154848902c2670d946c1c322ef0233989eaf7a53c2c7c90dfcd789a729f03ffa]
+│   │   ├── 2-ya2968.vom [dd588afacf8a1dcf0836fe780666ed0ec3ba284a98a971941985aebb53e0ddf9]
+│   │   ├── 3-ya2968.vom [aae6d5e17bfe08df4fc1c33f770b20ec54062e12706d6ce794c551ad9fc0caec]
+│   │   ├── max00189.vom [0a2dacdeeca7ca4d6b6569b26f04e6f4f3d33b62cbbde5c6b32a45b5ede2b29d]
+│   │   ├── t1.vom [1565aa42f27e7481de49c378505d7257672fac02ab5fbc21e4610b12d0078c29]
+│   │   ├── t1.vxe [f5d0c28c56e3bbf317301600c3da1a0cdfffaca122ca2e2adba84225f6f53544]
+│   │   ├── t3.vom [244f17fca50d995276a15202718eb442e0201e2c9504a965bb2531e9fddca6eb]
+│   │   ├── t3.vxe [940168186871b7434bc20f0122c9f715407a134fcbd3bd52412f895a76918a11]
+│   │   ├── t5.vom [cf9ea50bb973e22d3c255eb23e37b91823194f19383fe94c34a6bf348b11df59]
+│   │   ├── t5.vxe [50a9b48e2e9dd27c476aed30e6eaba5c6a8a426f9d2994a557b87d93c7f41535]
+│   │   ├── t7.vom [ae3e7f6787278129841cad4dfbb6e09b57c3bd5867e256ae9cffa631ebcf1735]
+│   │   ├── y-l2968.vxe [1300fb142df62940fe048eb488f038e4f98bbd710070c7c747f3b44c0efc80c9]
+│   │   ├── yankloge.vom [c25e4fc8be53198693b22802875427684ebd1a0446fdfaf78da100ddafebdc28]
+│   │   └── yd-2968.vom [ceffcb4a1a084b1a7d38806a8ea8b2c8781c6c83645ba000ce5e391a388ef0d4]
 │   ├── 2974
 │   │   ├── a
-│   │   │   ├── 1-y2974a.vom
-│   │   │   ├── 2-y2974a.vom
-│   │   │   ├── 3-y2974a.vom
-│   │   │   ├── y-l2974a.vom
-│   │   │   └── yankloga.vom
 │   │   └── b
-│   │       ├── y-l2978b.vom
-│   │       └── ydl2974b.vom
 │   ├── 3045
 │   │   ├── a
-│   │   │   ├── y-l3045a.vom
-│   │   │   ├── y-l3045a.vxe
-│   │   │   ├── yanklogc.vom
-│   │   │   ├── yanklogc.vxe
-│   │   │   └── ydl3045a.vom
 │   │   ├── b
-│   │   │   ├── 1-y3045b.vom
-│   │   │   ├── 2-y3045b.vom
-│   │   │   ├── 3-y3045b.vom
-│   │   │   ├── newco0.vom
-│   │   │   ├── newcom.vom
-│   │   │   ├── newcom.vxe
-│   │   │   ├── y-l3045b.vom
-│   │   │   ├── y-l3045b.vxe
-│   │   │   ├── yanklogd.vom
-│   │   │   └── yanklogd.vxe
 │   │   ├── c
-│   │   │   ├── t1.vom
-│   │   │   ├── t1.vxe
-│   │   │   ├── t3.vom
-│   │   │   ├── t3.vxe
-│   │   │   ├── t5.vom
-│   │   │   ├── t5.vxe
-│   │   │   ├── t7.vom
-│   │   │   └── wci04232.vom
 │   │   └── d
-│   │       ├── t1.vom
-│   │       ├── t1.vxe
-│   │       ├── t2.vom
-│   │       ├── t2.vxe
-│   │       ├── t3.vom
-│   │       ├── t3.vxe
-│   │       ├── t4.vom
-│   │       ├── t4.vxe
-│   │       ├── t5.vom
-│   │       ├── t5.vxe
-│   │       ├── t6.vom
-│   │       ├── t6.vxe
-│   │       ├── t7.vom
-│   │       ├── t8.vom
-│   │       └── wci0040y.vxe
 │   ├── 3052
-│   │   ├── 1-ya3052.vom
-│   │   ├── 2-ya3052.vom
-│   │   ├── 3-ya3052.vom
-│   │   ├── yanklogf.vom
-│   │   ├── yanklogf.vxe
-│   │   └── ydl3052.vom
+│   │   ├── 1-ya3052.vom [c798937a5ddac24c8c686322962321e52b7210d2d119c88b40d432bc9a3bc556]
+│   │   ├── 2-ya3052.vom [8c9716470012c820a65dcd16326c33a82c73bf49d50f978bb704cda00c45c44d]
+│   │   ├── 3-ya3052.vom [b416135ac503e5c3fc8f715abdc1a0cf92e60a6f76230b633e99d226201924ff]
+│   │   ├── yanklogf.vom [b666b40792217322146d1f82f20817ebc723adcf40fd5f1d868298beca009093]
+│   │   ├── yanklogf.vxe [d080159cff102bbde041c8d275a6d1d09c7491f260008998ee328789bd92c770]
+│   │   └── ydl3052.vom [b159216f9ffba8fac9776da4b236343ed7be3f2d8896437088c65b2fc0cf3270]
 │   └── 3096
-│       ├── 1-ya3096.vom
-│       ├── 2-ya3096.vom
-│       ├── 3-ya3096.vom
-│       ├── com1000.vom
-│       ├── max00186.vxe
-│       └── yan3096a.vom
+│       ├── 1-ya3096.vom [59e3d1a0757e59611380b1c9c673e5a8cb383514f930f65e5814f539c2189d43]
+│       ├── 2-ya3096.vom [2628f8633573758910496010fe20cdf9d5bf0df47b927587b21c414baa895107]
+│       ├── 3-ya3096.vom [b58d16f88f33bde73bd62a7c223152c05f53702799fd5d65a15337f0ccc46899]
+│       ├── com1000.vom [d24b16699cef0172926f6f247146aeaf6941d4086fb9649c38ed5e913d3d4182]
+│       ├── max00186.vxe [b6fa3456a359ae9289e59bf482025c8c0ff355e8ddcf40b8a31aa65cec1a95f3]
+│       └── yan3096a.vom [5850c4df23078224d7a3c5f44a7cba886a4dfdd2dcf68073a600969ea2d53207]
 ├── penza
 │   └── 1210
-│       ├── 1-ya1210.vom
-│       ├── 2-ya1210.vom
-│       ├── 3-ya1210.vom
-│       └── yd.vom
+│       ├── 1-ya1210.vom [e7b2785ea58a6d07551b57191b6ffc965fb62efa70a777695574a087e0bf6c76]
+│       ├── 2-ya1210.vom [41ed0fc06a8f1e33bc2224dddcd8fcc3a154476eeedf67b713155df40759d564]
+│       ├── 3-ya1210.vom [441a35b26efd59229e1e4ccb6b452f9f899e5ddcf465e80d97f183c1884465a3]
+│       └── yd.vom [ce31ac56f186d14e4f93fb610b676127eaf80a821cde855bb096e370f8b94704]
 ├── tp
 │   ├── 38
-│   │   ├── 1-ya2756.vom
-│   │   ├── 2-ya2756.vom
-│   │   ├── 2756.vom
-│   │   ├── 2756.vxe
-│   │   ├── 3-ya2756.vom
-│   │   ├── rce-2756.vom
-│   │   ├── tp38.vom
-│   │   ├── tp38.vxe
-│   │   ├── tp38vir.vom
-│   │   ├── yank26co.vom
-│   │   ├── yank_26.vom
-│   │   ├── yank_26.vxe
-│   │   ├── yankee26.vom
-│   │   └── yanktp38.vom
+│   │   ├── 1-ya2756.vom [e9d6e14c9d3f3e69f51e72f2c7a9944fe8e9e63ca8ea6d6596e3e049418d5234]
+│   │   ├── 2-ya2756.vom [60f2399f97ceb67dcc6dbeac3aa9c6bd7b5187018fafccc30bf2f5908b034dbc]
+│   │   ├── 2756.vom [996056e4927077d9a98c2c5fc0fa06814d730ccf0c9efe5c05369f10e62153ae]
+│   │   ├── 2756.vxe [3de3328dcf0814ab99a34607b47394e375244009f164895aa6bcaf4fe0223dfc]
+│   │   ├── 3-ya2756.vom [0f5a9effb0eb1ca6900d987e6b185f218284f7eca86617246a90b84b955d7ed5]
+│   │   ├── rce-2756.vom [0f184fa14ab831383c5865948c60e02a8b5bd96dc8a1a403c9655858d6fda51e]
+│   │   ├── tp38.vom [253f53f398133a5baf3566de7062da0b00ab3c3a1a0f87f5ba2bad866f6b44fa]
+│   │   ├── tp38.vxe [07ae85d1b53078d3d6b36cef1c412356a9d15db53d523291616caa6d9ec70442]
+│   │   ├── tp38vir.vom [b4bf3f63f56d4c74ccfe56ec5327d47d1f5b0760074c04dba644f7f715756bd5]
+│   │   ├── yank26co.vom [dcb0336012d307efdb5b913417d64195f8ef2ec03cf3a34fd5dcdb429af4711d]
+│   │   ├── yank_26.vom [0946ed492a3ba39ac19b4109a11c41e5c0f36a0c94e49b0c4456cd13220ff11e]
+│   │   ├── yank_26.vxe [de30743d418e2acf3a7af4f7e38f3df150bd6f0c8b6d191bf6913197a98aa0d3]
+│   │   ├── yankee26.vom [2b5899f49c544f92288811f0820585116ce9caadb22977095db18db972ef60c8]
+│   │   └── yanktp38.vom [24022e5db02500d2156f9b63dc7326db8a2720dbb489dbc019dad218f9596865]
 │   ├── 39
-│   │   ├── !619.vom
-│   │   ├── 1-ya2772.vom
-│   │   ├── 2-ya2772.vom
-│   │   ├── 2772.vom
-│   │   ├── 2772.vxe
-│   │   ├── 3-ya2772.vom
-│   │   ├── m27-2772.vom
-│   │   ├── tp39.vom
-│   │   ├── tp39.vxe
-│   │   ├── tp39vir.vom
-│   │   ├── tp39yank.vom
-│   │   ├── y-tp39.vxe
-│   │   ├── yank27co.vom
-│   │   ├── yanktp39.vom
-│   │   └── ynk-tp39.vom
+│   │   ├── !619.vom [4eacf1f1f94e0ef5ff9ae0f1c52fae0570538e83c87048af8cdea6b80019fffc]
+│   │   ├── 1-ya2772.vom [c3becf39c60b954f9802748709acf3199466d6331c9fd128d083e3b352cca8f0]
+│   │   ├── 2-ya2772.vom [955f36aa1712054105ff43692230717533cdce41512a9214097f9e396fc0ec80]
+│   │   ├── 2772.vom [55588f2f63328938c4019f55aa9d875ca059dfd5c5b4173c5887c3e75bb0ce14]
+│   │   ├── 2772.vxe [c3e9840ed5b77422c1503cd207e330449bdb82a81f0afa75d22ef43e8d7a9b30]
+│   │   ├── 3-ya2772.vom [55c9ffcea5150ea92304612424e0d314ced02df8dc987740db9d4d2af7b5305e]
+│   │   ├── m27-2772.vom [6cbd24e5b78285b89db61b087317703eb4bf88eca193cfdf04e2dc99bcdab8c5]
+│   │   ├── tp39.vom [b45af53cd896e4bcdb1d1eb9a61f3fafd067b3a90e2b94d4d6f939b75e269d88]
+│   │   ├── tp39.vxe [420d310336e2dfaea077f1ebfd483fd0a488b11d18495e28d5a37f9b6909a35a]
+│   │   ├── tp39vir.vom [d180a88aa1a0611c0c46c53479b0866e75a064ac98041b2bb2cbf35c7f64274a]
+│   │   ├── tp39yank.vom [6d0ee7531c9d01c95a331490e871ce0e8357105f50f223b1eaf0d29b3ba1abe6]
+│   │   ├── y-tp39.vxe [16a7dbbb29b8a450396a4124c576a0f910e6107d879e56ef5d5449c8960190ed]
+│   │   ├── yank27co.vom [98d26ee65b27a5b442a89ed108abcdc48e55856f239dc9afa4da2e01a00670c2]
+│   │   ├── yanktp39.vom [2867a6a3cebe005c46a385b23a87cca26c9bed4139d718659c542f6dc37fd415]
+│   │   └── ynk-tp39.vom [0f0816188492760aa540b00da2e652300ba3b8c73a54361c129d228ad5f94a3f]
 │   ├── 41
-│   │   ├── 1-ya2932.vom
-│   │   ├── 2-ya2932.vom
-│   │   ├── 2932.vom
-│   │   ├── 2932.vxe
-│   │   ├── 3-ya2932.vom
-│   │   ├── m29-2932.vom
-│   │   ├── rce-2932.vom
-│   │   ├── tp41.vom
-│   │   ├── tp41.vxe
-│   │   ├── y-tp41.vom
-│   │   ├── y-tp41.vxe
-│   │   ├── yank29co.vom
-│   │   ├── yank_29.vom
-│   │   ├── yank_29.vxe
-│   │   ├── yankee41.vom
-│   │   ├── yankee41.vxe
-│   │   ├── yanktp41.vom
-│   │   ├── yanktp41.vxe
-│   │   └── ynk-tp41.vom
+│   │   ├── 1-ya2932.vom [53750fc0e83311800c34cbebdfec76d372472be5a481faec53b8bff6367afcc5]
+│   │   ├── 2-ya2932.vom [f93d8aa5c7cfb193a7b6641a8b27bf54f60651ac30ff4ddd54cd9bcd880f6a24]
+│   │   ├── 2932.vom [19eeead1cab156932439d3f19c48165d4a43a027f9301a64eec4554a6f67b2de]
+│   │   ├── 2932.vxe [804ef45b8a7e92d129766744648d041fa76fde6cd53afdcd5d6a2bf54a47478a]
+│   │   ├── 3-ya2932.vom [64b8daeb95315ab264ce504cf4be880c48cad48195a6fe48b13958691dbac950]
+│   │   ├── m29-2932.vom [c9aa66ede06a69de32629678e8f105ff7cd7d695c809b376aa1e40696d1b9bdb]
+│   │   ├── rce-2932.vom [bd22f9262c52674c0ad223a3dfee1f539cefa9525e77c05eca43c5ecfde7b277]
+│   │   ├── tp41.vom [979fb71dfd5a1efa2337a02aed86fcfcfba78fe87acb58bb5f55275ab06f3fbf]
+│   │   ├── tp41.vxe [e2a5fad0c3c294b2d0741fa0d67e295c849ba41db628d13895c5e2ed267a9f76]
+│   │   ├── y-tp41.vom [03425c5a5d3a7c356e03beb5464d618e1d1086a8a7f4209837ab325ffdef2720]
+│   │   ├── y-tp41.vxe [8f4dc7c7f0850d5a362b9f5c4cbdc22916bf015461ebd250c22a3633e16eb6f3]
+│   │   ├── yank29co.vom [def03fe7e1cc9c1502d1dbcd4c5c26638b51d0b84dd1fe1ff5462dc3b3f7331d]
+│   │   ├── yank_29.vom [ce95ad62a7479b6f9a69fa67694c7513175fd2436db31a859d1ba60dadd64f19]
+│   │   ├── yank_29.vxe [e1616e3da3a251dcdcc9f90145c80eb95e14d7cdbd12851972b21117f0e2d8b6]
+│   │   ├── yankee41.vom [5488575df039beccf87ef1b34d2c2c47b31cc0e032811a893cdf9777973662fa]
+│   │   ├── yankee41.vxe [05c8709e2c31519742a8a5a5bcd79837daa7aeadcf3c4d8d1ff3aa956e98a635]
+│   │   ├── yanktp41.vom [9ef1a6d12787b53d8cb7285fa272259ff82712af1d0eb732a80aed532adb2190]
+│   │   ├── yanktp41.vxe [df90e548d1ee9e39f1a4e23afb2891971403f912ce1103151782f798fa947e6c]
+│   │   └── ynk-tp41.vom [32df65a8e8b4d4c3091565d6cab52f0b9a98acc91a3c023ab1c24313e57b282c]
 │   ├── 42
-│   │   ├── 1-ya2993.vom
-│   │   ├── 2-ya2993.vom
-│   │   ├── 3-ya2993.vom
-│   │   ├── tp42.vom
-│   │   ├── tp42.vxe
-│   │   ├── y-tp42.vom
-│   │   ├── yank_2a.vom
-│   │   ├── yank_2a.vxe
-│   │   └── yanktp42.vom
+│   │   ├── 1-ya2993.vom [6170a3761440fedcc81fedd7e5be3e4977a5b6d764a4f5a8f9f2c2496136903f]
+│   │   ├── 2-ya2993.vom [47a11f58a1600dbf867a04a4d98196ce15379b8856820d736235aa31a13c194a]
+│   │   ├── 3-ya2993.vom [d71c26c85feca453319b17888ef81a0fba41767588224740c938b03a890db04e]
+│   │   ├── tp42.vom [43c53ab3141fce7ecb912949db6a87d680c8d375b1b4f274eab63c69d14ecc6d]
+│   │   ├── tp42.vxe [2f1e29cf711a0fda726db4f0b183880ec572e5e90c4af4d2d804753f2bf7e977]
+│   │   ├── y-tp42.vom [04076036731e895e162f0851f4a01145a44c9963a653b6115c9937a887913e08]
+│   │   ├── yank_2a.vom [3c919b643cc49e3037759f67e4d7125b04304cc120f8ad9365d197069675780a]
+│   │   ├── yank_2a.vxe [31a8fa0136a6b8a77f95d21da0c1f64fee47e521e07b16d42ef28d0187d4f82f]
+│   │   └── yanktp42.vom [2054e7be6e72d5c736468069a03ab4eff5617d9d8308b8a62371cede4a64ee24]
 │   ├── 44
-│   │   ├── 516a.vom
+│   │   ├── 516a.vom [68004f288cfc80c7444bbb60536d9e16aa6840d7c358f5a525a07ba5066f7041]
 │   │   ├── a
-│   │   │   ├── 1-y2881a.vom
-│   │   │   ├── 2-y2881a.vom
-│   │   │   ├── 2881.vxe
-│   │   │   ├── 2885a.vom
-│   │   │   ├── 2885b.vom
-│   │   │   ├── 3-y2881a.vom
-│   │   │   ├── 3103.vom
-│   │   │   ├── dood.vom
-│   │   │   ├── doodle.vom
-│   │   │   ├── doodle.vxe
-│   │   │   ├── doodle2.vom
-│   │   │   ├── doodle_.vxe
-│   │   │   ├── em5250.vom
-│   │   │   ├── m2c-2885.vom
-│   │   │   ├── ret.vom
-│   │   │   ├── sd.vxe
-│   │   │   ├── tc1.vom
-│   │   │   ├── tc3.vom
-│   │   │   ├── tc4.vom
-│   │   │   ├── tca.vom
-│   │   │   ├── tcb.vom
-│   │   │   ├── tcb2.vom
-│   │   │   ├── tcb3.vom
-│   │   │   ├── tcc.vom
-│   │   │   ├── tp-44.vom
-│   │   │   ├── tp44.vom
-│   │   │   ├── tp44.vxe
-│   │   │   ├── word.vxe
-│   │   │   ├── y-p1210b.vom
-│   │   │   ├── y-tp40.vom
-│   │   │   ├── y-tp44.vom
-│   │   │   ├── y-tp44.vxe
-│   │   │   ├── yank2cco.vom
-│   │   │   ├── yank_2c.vxe
-│   │   │   ├── yankee.vom
-│   │   │   ├── yankee.vxe
-│   │   │   ├── yankee44.vom
-│   │   │   ├── yankee44.vxe
-│   │   │   ├── yankie.vom
-│   │   │   ├── yanktp44.vom
-│   │   │   ├── yanktp44.vxe
-│   │   │   ├── yd-tp44.vom
-│   │   │   ├── yd_tp44.vom
-│   │   │   ├── ydoodle.vom
-│   │   │   ├── ydoodle.vxe
-│   │   │   ├── ydtp44a.vxe
-│   │   │   └── ynk.vom
 │   │   ├── b
-│   │   │   └── Virus.DOS.Yankee.2C.b
 │   │   ├── c
-│   │   │   ├── t1.vom
-│   │   │   ├── t1.vxe
-│   │   │   ├── t3.vom
-│   │   │   ├── t3.vxe
-│   │   │   ├── t5.vom
-│   │   │   ├── t5.vxe
-│   │   │   ├── t7.vom
-│   │   │   └── yd-2885f.vom
 │   │   ├── d
-│   │   │   ├── 1-y2881d.vom
-│   │   │   ├── 2-y2881d.vom
-│   │   │   ├── 3-y2881d.vom
-│   │   │   ├── t1.vom
-│   │   │   ├── t1.vxe
-│   │   │   ├── t3.vom
-│   │   │   ├── t3.vxe
-│   │   │   ├── t5.vom
-│   │   │   ├── t5.vxe
-│   │   │   ├── t7.vom
-│   │   │   └── yd-2885g.vom
 │   │   ├── g
-│   │   │   ├── t1.vom
-│   │   │   ├── t1.vxe
-│   │   │   ├── t3.vom
-│   │   │   ├── t3.vxe
-│   │   │   ├── t5.vom
-│   │   │   ├── t5.vxe
-│   │   │   ├── t7.vom
-│   │   │   └── yd-2881g.vxe
 │   │   ├── j
-│   │   │   └── yd-2885b.vxe
-│   │   ├── yan2885c.vom
-│   │   ├── yd-2885c.vom
-│   │   └── ynktp44m.vom
+│   │   ├── yan2885c.vom [481980ae0dc3bf51efabe19030941dbd9b791fa98aa45484e4ab2eb6242d9ec5]
+│   │   ├── yd-2885c.vom [b60a0382bd2497ba998efd427b21e54b2327586f78470154b2aed4761f96fd1d]
+│   │   └── ynktp44m.vom [0d434f31f0c3cdfaacf693d8b33f2a6b2c8d138163cb0378f42fb06947355987]
 │   ├── 45
-│   │   ├── 1-ya2897.vom
-│   │   ├── 2-ya2897.vom
-│   │   ├── 2897.vxe
-│   │   ├── 2901.vom
-│   │   ├── 3-ya2897.vom
-│   │   ├── rce-2901.vom
-│   │   ├── tp45.vom
-│   │   ├── tp45.vxe
-│   │   ├── tp45vir.vom
-│   │   ├── y-tp45.vxe
-│   │   ├── yan2901d.vom
-│   │   ├── yank2dco.vom
-│   │   ├── yank_2d.vom
-│   │   ├── yank_2d.vxe
-│   │   ├── yanktp45.vom
-│   │   ├── yanktp45.vxe
-│   │   └── ynk-tp45.vom
+│   │   ├── 1-ya2897.vom [ece0c3e9275efdb86ae17df2bb82690a79e539d7d4180bfd4a0c9abe97758007]
+│   │   ├── 2-ya2897.vom [6875fcace7351334950e2f54472f7f366fbae177d6963d5919bcbbeec35cbc71]
+│   │   ├── 2897.vxe [1569354f987e994122dcbfdd807cdbb1bb0e9d632f71a1def604beb076a5059c]
+│   │   ├── 2901.vom [c84d75d22e0782d35a7de9fbaa352c45512985af2053c067a22c6c2d19b7b426]
+│   │   ├── 3-ya2897.vom [9c2bdaaa7f67c75e1787406bbbef9de3abc959d9e008269b32839e24fd301589]
+│   │   ├── rce-2901.vom [7848df87ba63decb99f2548c67a066d5752943dedf4d23c64614ea08d15ce2cd]
+│   │   ├── tp45.vom [103f4c0246d131eb1430607bb01e02fc534765d92b43c217fa733293d18250fd]
+│   │   ├── tp45.vxe [66ca601b4f4e9dd91800fbcbf33a0ff58a29eb87b6de4a444e5dd7e0c0826994]
+│   │   ├── tp45vir.vom [aad1daee8b56807deb143c72d514b6985132bcc266b5315f5168658fd98ef0f4]
+│   │   ├── y-tp45.vxe [0e8c8b2f05069c9f6f9af6fc19fac86bb8fadb9ff59179d3c9ffbb830f95b643]
+│   │   ├── yan2901d.vom [36e020ef7f440f234a680566ba23a3286406ef943f6af7837d6d9bc03156f0df]
+│   │   ├── yank2dco.vom [dac73e75e5b9b51dfd573f0d5bb031c23481b1f8025c1d87606872c180ae7a25]
+│   │   ├── yank_2d.vom [8a60cd850ba35a624c06987c3a59ec0fb8edf3c52a21a15463d283bbc8c349f0]
+│   │   ├── yank_2d.vxe [148a6bcb6b1e901b86315d33967050aea0183a19afece1a1e2f4571335984402]
+│   │   ├── yanktp45.vom [eff271a2a8e8639a8d7d65922aaaae215792adf2af33a591fb7fa5bed8a99d96]
+│   │   ├── yanktp45.vxe [b1708e08210c1b30395a3c5de841bd6a44ff0eb9e6fbfaabceb8285307148ad9]
+│   │   └── ynk-tp45.vom [6b364322a0d4f2b3121520142219af613dddfc89946ce6ae196ff3f8a8acb52b]
 │   └── 46
-│       ├── 1-ya2977.vom
-│       ├── 2-ya2977.vom
-│       ├── 3-ya2977.vom
-│       ├── tp46.vom
-│       ├── tp46.vxe
-│       ├── tp46vir.vom
-│       ├── tp46vir.vxe
-│       ├── vac-tp4.vom
-│       ├── y-tp46.vxe
-│       ├── yan2981a.vom
-│       ├── yank_2e.vom
-│       ├── yanktp46.vom
-│       └── ynk-tp46.vom
+│       ├── 1-ya2977.vom [9028f621879e19fabab6bd19e2b00e14f8e29bcd7dd1687f7af74b2f0f548fbe]
+│       ├── 2-ya2977.vom [571fb4a9c1af12de7b251aadfa719b747ccc332083d06b425c3470ac65058b55]
+│       ├── 3-ya2977.vom [eb96d59490902ddae6b5251d40fcd04d27e94db27b94382b7c0a3abfbc385993]
+│       ├── tp46.vom [2279ec8ed548bd25613c881b193d6fa19eb4ed5896779d4507d0a99c56981a56]
+│       ├── tp46.vxe [85f0510ccf1ec46ca441d910083a8adb0a12a63674f1e88454dbd442cff3ce7f]
+│       ├── tp46vir.vom [f79865d678b4c017630a7c766618ab25b3adec2803badb6dc5b0793e5c23348a]
+│       ├── tp46vir.vxe [bbe3312b1df8358d33c5ddf9b3b55681cd88f5242ff24fde6ab34d79714be0ba]
+│       ├── vac-tp4.vom [1693581a746c0705a71c8bc6b4f1d52ed8b3fcc1fa574da054835ff89e6860da]
+│       ├── y-tp46.vxe [0e4cdcde772cf03bfc2c69c6fbb35dd028cdca97a680344a2bfab0d85bb0c61d]
+│       ├── yan2981a.vom [8874fc0b79e12b35f49725e7e67afffcb665fe6e8b4aee4f91df6d354fc3a813]
+│       ├── yank_2e.vom [7720d3c01990514b589b5600a83c27781b19fb89097584445f4b726821f99982]
+│       ├── yanktp46.vom [818d278d3f84e566345c85654a9ad309695fe7e04b77b5d628820991d2607167]
+│       └── ynk-tp46.vom [3d265aaefab59fd2ff90bfdce27d3737b64ec579feaeb74707ba326841a98123]
 ├── warlock
 │   ├── 1672
-│   │   └── virus.dos.warlock.1676
+│   │   └── virus.dos.warlock.1676 [95d6138e5f1dc905ecc77e3c9188d0f715b648d10f8f04ffee748f81823ac712]
 │   ├── 1817
-│   │   ├── warlock.vom
-│   │   └── warlock.vxe
+│   │   ├── warlock.vom [c21381bd945c8713212ae38a875304988d25d837e5f30293bceca80423df67f2]
+│   │   └── warlock.vxe [16af730178206480a5c17d14aca304d8a72fad785632b74d672efc8ec9585408]
 │   └── 2895
 │       ├── a
-│       │   ├── t1.vom
-│       │   ├── t2.vom
-│       │   ├── t3.vxe
-│       │   ├── t4.vxe
-│       │   ├── t5.vxe
-│       │   └── yan2895.vxe
 │       └── b
-│           ├── t1.vom
-│           ├── t1.vxe
-│           ├── t2.vom
-│           ├── t2.vxe
-│           ├── t3.vom
-│           ├── t3.vxe
-│           ├── t4.vom
-│           ├── t4.vxe
-│           ├── wci01143.vxe
-│           └── wlk2879b.vom
 └── xpeh
     ├── 3600
-    │   ├── 1-ya3600.vom
-    │   ├── 2-ya3600.vom
-    │   ├── 3-ya3600.vom
-    │   └── xpeh3608.vom
+    │   ├── 1-ya3600.vom [0552ed6d8f44cab14242bef905de5d7e917a3cefcd40dbf80b12980eeb729c10]
+    │   ├── 2-ya3600.vom [110ed5b1ba1e2c5eb8c5e5fc044d75843f99291a1c330b763721b5d823df84fb]
+    │   ├── 3-ya3600.vom [84649faa5680159b40582f1d653ee4c611926779489f9fd6ec9589db301d8dd2]
+    │   └── xpeh3608.vom [56ef37fa5606d65980447d48f7a5cf518c98a0f9b58d9fdd1fc9b68c7c207ab7]
     ├── 3840
-    │   ├── 1-ya3840.vom
-    │   ├── 2-ya3840.vom
-    │   ├── 3-ya3840.vom
-    │   ├── xpeh.vom
-    │   └── xpeh3840.vom
+    │   ├── 1-ya3840.vom [58dc2148e68dcb8c18d2f541bcb492d2af11b99fe3b0a22ce8129306f1f4969c]
+    │   ├── 2-ya3840.vom [3af1019c54da9c5c5f80eaa351183cc654c627f55bb8cdf4bcd4b51c7c87cc76]
+    │   ├── 3-ya3840.vom [d654cfe4ccff52e332885fab61ae2da58ca0c5b8abf46f2f9892d7179956f9ef]
+    │   ├── xpeh.vom [0acde00a03e9d945c99d7eaeb4499e65e721bcd8651ef3ab5595aa2d31b95b78]
+    │   └── xpeh3840.vom [560500ed22c61ac0f97d0a3c6d844ef1867fdc63c92f9d46859812c6468eaea8]
     ├── 4016
-    │   ├── xpeh.vom
-    │   └── xpeh4016.vom
+    │   ├── xpeh.vom [30999e1cd30bd8f8d0c788a6e373180451783cc8295b70c3ab67c90af4f9f382]
+    │   └── xpeh4016.vom [b7fe75fc33698c638793025e9e63ff9aa49629112313523a4d56eda6d1622744]
     ├── 4048
     │   ├── a
-    │   │   └── xpeh4048.vom
     │   └── b
-    │       └── virus.dos.xpeh.4048
     ├── 4752
-    │   ├── 0517.vxe
-    │   └── xpeh4752.vom
+    │   ├── 0517.vxe [1bbd47f1ef23b1eaa4132c940082386ce2d50881e7dc8802871bf57d41249abf]
+    │   └── xpeh4752.vom [bd0f530faab546fc90446c0ec0b7fbfa9b880a1d5730f6ead30f6f873443470f]
     ├── 4928
-    │   ├── 1-ya4928.vom
-    │   ├── 1-ya4928.vxe
-    │   ├── 2-ya4928.vom
-    │   ├── 2-ya4928.vxe
-    │   ├── 3-ya4928.vom
-    │   ├── 3-ya4928.vxe
-    │   ├── 4928.vom
-    │   ├── kvirus.vom
-    │   ├── m-pox-v.vom
-    │   ├── micropo.vom
-    │   ├── micropo0.vom
-    │   ├── micropox.vom
-    │   ├── u2000.vxe
-    │   ├── xpeh4928.vom
-    │   ├── xpeh4928.vxe
-    │   ├── xpeh4943.vom
-    │   └── yd-xpeh.vom
+    │   ├── 1-ya4928.vom [92bfda8c9dd780050779564042297e71a7ce5dd66b7f800c4882bd52c2dc3730]
+    │   ├── 1-ya4928.vxe [b873321a5e540de2962f0ac91b4702d5f5fb04d0d6d5e1029a4f5a6f31a9213e]
+    │   ├── 2-ya4928.vom [9aadb021d08b0e5738cefbad5c115fb215fa1bdf97c6c9ac899a394610c757a3]
+    │   ├── 2-ya4928.vxe [de21a39cb98559419e204a8d8b00db001325307cfc6492d85ee9453a2ee6c86f]
+    │   ├── 3-ya4928.vom [f4179d71efb33ce201edea802073b9b14441874f63c4dfeb6e12945785baba1b]
+    │   ├── 3-ya4928.vxe [f5983bd820347e073d7380a8999838fea4bf45a28798c761a8d94519eabcb451]
+    │   ├── 4928.vom [e9fc114684228d215b81cc0b8c63307940b24351078917c6c9553c24c349dd17]
+    │   ├── kvirus.vom [b4833ed835e45b4706a299d7ec85f3792f50f76f25437838221849d387452768]
+    │   ├── m-pox-v.vom [8aa46d27e22956fc9ddfc813d74f3194b364d351248a94de38a5d5d5d8d51044]
+    │   ├── micropo.vom [273406d64bb31f6a66472b3467a7f6d4658c22dae55c1e747a3f0578d96faffc]
+    │   ├── micropo0.vom [3f80ba51a2f158b6742fe285c7bb47876df7af3980c0fbb7886789b9e4495410]
+    │   ├── micropox.vom [ef44011658d34c698578829ad03c2eaec5a54eb9df5895c7a1a87e73f4f40486]
+    │   ├── u2000.vxe [74d97c015fb930ad40de03596f82e4790caa4ea2a6a666a2df4430f9e275b624]
+    │   ├── xpeh4928.vom [dfd1a8d6b1c81b0abe2e8b22dda9fc0fc123f576883d59828d5ea74581744753]
+    │   ├── xpeh4928.vxe [337a3953ba94d054716402958e5e146fc6bf2acca37a422662d966c0c7736318]
+    │   ├── xpeh4943.vom [92505fef8c20483854b21139ea8ec70b58b64c81990146379aedc94129c5bfce]
+    │   └── yd-xpeh.vom [2f290e23fb75501a1ecc904d1d7f70a2aaf3d5d91b631933fe84012caa1c51e2]
     ├── 5648
-    │   ├── 1-ya5648.vom
-    │   ├── 1-ya5648.vxe
-    │   ├── 2-ya5648.vom
-    │   ├── 2-ya5648.vxe
-    │   ├── 3-ya5648.vom
-    │   ├── 3-ya5648.vxe
-    │   └── xpeh5648.vom
+    │   ├── 1-ya5648.vom [c30e53de31eaed81085635329ee6732fa7f08314fe209cae514a7c0ec2340f42]
+    │   ├── 1-ya5648.vxe [045b751c7290b2d22bac0aa8563939fed208100d048648315e9829d53c2dbc6e]
+    │   ├── 2-ya5648.vom [da62fc1501d8769e00d354ecaef1eabf2de59f54da9d2df1cafa0671e15f56e9]
+    │   ├── 2-ya5648.vxe [d37bf979b3fbf46873d1ec873e00fd7f613c0739e569813e488ea09005caed47]
+    │   ├── 3-ya5648.vom [c12a0f8089f0ca59e8d294328c7a13a1f9b73ddca5c7df35b6f47bda2ae30dd5]
+    │   ├── 3-ya5648.vxe [39311758f572f4e78ef2889bf80cd616d15741bd54892e519ab51a7fbef6d58f]
+    │   └── xpeh5648.vom [33156f84364cb117a031354d0fd75cf64658e3e6e737e8dc355b677f25b1c878]
     ├── 5808
-    │   └── xpeh5808.vom
+    │   └── xpeh5808.vom [8965a8a66c05889797d42d04e6ac80c9cb7a58979d75e0747073792f098c18b7]
     └── 5856
-        ├── 1-ya5856.vom
-        ├── 1-ya5856.vxe
-        ├── 2-ya5856.vom
-        ├── 2-ya5856.vxe
-        ├── 3-ya5856.vom
-        ├── 3-ya5856.vxe
-        ├── xpeh5840.vxe
-        └── xpeh5856.vom
+        ├── 1-ya5856.vom [5c94c21ef643018f425fe38914b09c98d463e6db87fffee731823b304068be3c]
+        ├── 1-ya5856.vxe [d8f51ca761b9d8a32e7a2b731864c0764e229cd46e22bf76d17d22d66fb69e3d]
+        ├── 2-ya5856.vom [e63cb7fb0839075be50925e83f928f4028ddd8e7955108c9e834daae1427493c]
+        ├── 2-ya5856.vxe [2dad0352a5720a2ff9adbbb4a185d64a2e12f06b90eaa92bd4c547462cb1aa51]
+        ├── 3-ya5856.vom [91e1f470704105617fcc4a131ac96cc0ebd56f29caeed6b7f09121f51cbf1874]
+        ├── 3-ya5856.vxe [53e3047b5edeeccae9d6f24181720acb4ca2d215fe208be4ec557cb701196183]
+        ├── xpeh5840.vxe [8eeb7763c6271c87a9b4c2215bfe9e4fba54777216f499da75b4f27739df2279]
+        └── xpeh5856.vom [91bad7065e54f61c860540c2916e7da1109e57d432c3a46786b7ca0a1e775e7f]
 ```

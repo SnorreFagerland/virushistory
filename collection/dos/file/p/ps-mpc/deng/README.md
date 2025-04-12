@@ -3,19 +3,19 @@
 
 ```
 ├── 336
-│   ├── psmpc336.vom
-│   ├── t7.vom
-│   ├── tc.vom
-│   └── tf.vom
+│   ├── psmpc336.vom [efa17c729f784ce8f10f2af2c64b477a894875fb7fbf3a2b8bbcb4552f33b95c]
+│   ├── t7.vom [f2a3cc793300378b3ef40674c8a36973d629b614fbf6543fc3875e9db31281ac]
+│   ├── tc.vom [f3fe6c442a95874775eddf4db63c98e148862a294bd9d79d8d1a0e61d8ba5eeb]
+│   └── tf.vom [4e2ff74ec59e4c484743a143b286521a613d302acec96c0018b9ffbf381b1b09]
 └── 364
-    ├── hw02.vom
-    ├── t1.vom
-    ├── t10.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t7.vom
-    ├── tf.vom
-    └── triv-364.vom
+    ├── hw02.vom [04053b0267a136120eb63d5396445fc69a053fc3c34d95622ef9f5bb4a0efb8f]
+    ├── t1.vom [801064b089b54431ceca6ecc80231459170402f47466bcf0a0b56edf60d01429]
+    ├── t10.vom [622b2a9aaecc00acae40f128a6b43726094e74e0106098e48e1e068578a47565]
+    ├── t2.vom [96e852a291149a7c00d6482e65866298133b1205dda249dab31080a75c7a2628]
+    ├── t3.vom [0251d3e4b4b90848a7167b0c86c03069879f0c78b7d0c556e09f694d09f3ad15]
+    ├── t4.vom [9a19d608b4b8276149e2725cd9d1c57c1e43683440da4372eba38c389f7fe002]
+    ├── t5.vom [a78b6c55f60e86262b8ac9eb1eee4540fde3e2f931f1f2d2280fffb70254440b]
+    ├── t7.vom [f4ce50f74135c0835bdce0b547f11de7bb830d3ca8a09e8e541e5e012c796dfc]
+    ├── tf.vom [f9893292709d5596a37b369ea357cf77dc2143da797482be45d46a01e4e1ce8d]
+    └── triv-364.vom [1f3f44e620f76477deda6fbe47f1e85bb5fba2dc35b7d182be190a46dcc13001]
 ```

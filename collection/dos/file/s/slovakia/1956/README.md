@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   ├── 1956.vxe
-│   ├── 1956a.vxe
-│   ├── slov1956.vxe
-│   ├── slovak2.vxe
-│   └── sv-202.vxe
+│   ├── 1956.vxe [a3ac84729154df7da9f76eb551728c166d65a1753ba348d73eaa3ceb7f4af5c7]
+│   ├── 1956a.vxe [34b1a155bd989e1c5c7c2a03d02638eb451eb147462b6893a2575ebaa83541c8]
+│   ├── slov1956.vxe [0b1d5d58a910aec0f931b61947cf519bc92e415f42425e29ddf34c7e300a1c5d]
+│   ├── slovak2.vxe [a9543f7dab65fda49aa368cd372d6cd991293a2fca367c9597c77e5fb05089d6]
+│   └── sv-202.vxe [616dec2e4ced13652ddf5f4edaec9ca92dc0d0625e5b193f47d83a0f584f6d8f]
 └── b
-    ├── nlsfunc.vxe
-    ├── regedit.vxe
-    ├── slov_2.vxe
-    ├── t1.vxe
-    ├── t2.vxe
-    ├── trace.vxe
-    └── uninstal.vxe
+    ├── nlsfunc.vxe [3e9bb3822c8bfd5171692d285da35373e983846a265da88f902579355f7ff474]
+    ├── regedit.vxe [bdb39063c0dc659abfb836a4f97dbb600e9188a89e871a386485f111d13cdb08]
+    ├── slov_2.vxe [0d4fa9de54c0583a4a942db2d3dee189a0ee0b3967560d66a9fcfc47f261f2ec]
+    ├── t1.vxe [d37b6e54f3d1217c1e745211b069b6f5ee6abe9331be029104f0145ebbe3b939]
+    ├── t2.vxe [72cbe2d7be1d3a5038857d6419d538114f8a067c109a9023284588a299ca4484]
+    ├── trace.vxe [2bbe2f7c8236237f34e7d69cf06eb0324dab662d59899a177c8dc3b0274c91b5]
+    └── uninstal.vxe [eca9ba8b0c042043fa4c584fddc1619f9cc9b44e27ab7fb83a9d141945f4a35f]
 ```

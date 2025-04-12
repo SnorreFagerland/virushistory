@@ -3,11 +3,11 @@
 
 ```
 ├── 1051
-│   ├── dwi.vom
-│   ├── v2175.vxe
-│   └── v2180.vxe
+│   ├── dwi.vom [21c22e3701eab55a2c3a833d2e6e2d6b55e7134eb9c7685894c54987996d5fea]
+│   ├── v2175.vxe [85c01bb51e5413756f1b8525a5eb5abf0acd9f69de4250e5f8de86f1ab04ed83]
+│   └── v2180.vxe [bd909613c54ef2d1150842fa2bb57fbf3202820319f870f454da9ee3c45587f6]
 └── 1053
-    ├── dwi.vom
-    ├── dwi.vxe
-    └── virus.dos.dwi.1053
+    ├── dwi.vom [fa8a5e89b2824628174739f863987b48c71ed9039e5ffbb93ff469a81108ac7e]
+    ├── dwi.vxe [9f685c7a40d5dbb147f38d50793a614f79f0158cb82cf6b50a35133e922aae65]
+    └── virus.dos.dwi.1053 [563e7bf95e531095bc47882e0dc871feddbb1b66354b32ee728c68973a43583d]
 ```

@@ -3,121 +3,121 @@
 
 ```
 ├── 0327
-│   └── virus.dos.deicide.327
+│   └── virus.dos.deicide.327 [9fe7e60986b2f3c100661981b1b01be8cd7bbe06e3ec8a1357bf011c5d8efeb6]
 ├── 0328
-│   └── virus.dos.deicide.328
+│   └── virus.dos.deicide.328 [57c235cd382b30c5bc9939d943b2e7914f833414a24786f726e92875e6a8cf2b]
 ├── 0358
-│   ├── breeze.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   └── t5.vom
+│   ├── breeze.vom [2cc5a050c9fd3dd13e1c5140be80ba97e005ae0bceb73838b33e6672201ed29b]
+│   ├── t1.vom [425c816b3382137c03ee64caf00922cfbfab6cd7df4b099153191161d0e69c64]
+│   ├── t2.vom [74b6d108fca0db93858303494847997c82c0edb9dc411af1f128a17d033109b6]
+│   ├── t3.vom [683d264d10942f68eb2c3cd98f5fd2ed0fbecda421e94eaf00019058eb1e3b5a]
+│   ├── t4.vom [1a959179100185c8c3d045bcbfeb51eb9655f0672fd69ff589e2cbb030fd674a]
+│   └── t5.vom [b4485718305ca909a55f054942c0bad7873abe447d46f8bda12f319f20df5ac8]
 ├── 0359
-│   ├── br.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── br.vom [c38794f079e8f44ed0a4bf4cd9e116576aaf3785d1eba682d29aa1ca6cd347d7]
+│   ├── t1.vom [83ef832fd431065a8345e08edb9b17ecf7173b086b94330a6649a7cafb2eaa23]
+│   ├── t10.vom [c8734199922f7cbeb48babd866427d4a69b1b299d3c3f2377960147474ae9062]
+│   ├── t2.vom [d086f60ca9416b65140afa1ea1106a174cec92b21d97bd224872756abcc62ea4]
+│   ├── t3.vom [11eb20ce945d25ed52789936dc324fc73fb0988d061c99a315bcc045552c70f0]
+│   ├── t4.vom [e97a757ec444d1f54e6a6e9b318b39805164bad1327b165ce4c7b79a501d123e]
+│   ├── t5.vom [a22e69c098ece5225978300b74d6f7c247089251d1c9e9c3e97ee29ce75afa61]
+│   └── t6.vom [27a089952d833609372244d25544e9c3e566dd901dff22e4845d387be06e5838]
 ├── 0508
-│   └── virus.dos.deicide.508
+│   └── virus.dos.deicide.508 [0ddb09b91bee34e80dda0563f3077863c3dcf4c06bb63675f78d1c97833b8811]
 ├── 0622
-│   ├── morgoth.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── morgoth.vom [eb0c79d4d485d19417e1cfc885ec08d18725bd6d4911953de866c2b014ce8aa8]
+│   ├── t1.vom [df49829b6e8d366397cffd9de2e170534586150dec717a1f4ecdc560cd927ae6]
+│   ├── t10.vom [e42140c80c8835ffeaec2bf9ddebb495668bd73756cd609129ce870dbd3c0523]
+│   ├── t2.vom [faa7dc60c2b2e79e950121aa3b18f002f85a839b72576d1ca9951c21d9cc74fa]
+│   ├── t3.vom [1ee44250fab84f033f1ff58c4e93585b215c210ba8f7d23c859d6f0b00ef7da7]
+│   ├── t4.vom [966bd45677bd4a588afd261ddc5f38cfc857804a44e88b74c2f7dca97ca66136]
+│   ├── t5.vom [24b1670fb0cf10b74578b979990e1e898f8327f110d45e0a62c1845892b252db]
+│   └── t6.vom [82ca4086d86ee2e443581a5239fc020bfb617b23f5a22efa747c66ecff9e211d]
 ├── 0623
-│   ├── morgoth2.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── morgoth2.vom [584099002e30ede7b59be2383d13e23599237336796dab62f5577dc1ba385fc9]
+│   ├── t1.vom [5e47ddc857770ca20ca2835f42586bf2bc6f6fa4ca96a748d57c5a677a66ebe2]
+│   ├── t10.vom [51bf148482b63b19143a2c81eb2d645e3a4648143a717e74a94c48407e974e1a]
+│   ├── t2.vom [338e19ab4ca8713d60a1ea7727bda701aca2e4d31e9775c211c4cbbdc6dc71f3]
+│   ├── t3.vom [7a56a38194deadfdae54e2f4b7484e0f22c75398f63420f407fb5401a7a04201]
+│   ├── t4.vom [9bed22118474f42671569d18a155509c13bdc9b850137b62ca23397461f85839]
+│   ├── t5.vom [18ebe6e9f1adffe9dd9a23c8f6292d696d2e715b0b28ffadeb239662726ba3bd]
+│   └── t6.vom [65b7bbf50a62438b4f4d1d204fab633442c98e96cb9f88767835c802ccd29c9d]
 ├── 0690
-│   └── virus.dos.deicide.690
+│   └── virus.dos.deicide.690 [f688ff4e2d6244c33ab2a029396c13639175a3dca3d8554942185735f496d2a3]
 ├── 0691
-│   └── virus.dos.deicide.691
+│   └── virus.dos.deicide.691 [da97a37d2cec0b4551c30bead9f073a005c75e8f985ed455c7a04aea874a6c88]
 ├── 0693
-│   ├── brother.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── brother.vom [c434797e55e5b457370171b54f716229db117ccb841f57f6806de4b804574e26]
+│   ├── t1.vom [121940e06f81e0be16259a0ded632c43d6ed2192737363c9ad6c8f5af6af0aa8]
+│   ├── t10.vom [8e03b240e0dfe17181880cde3e381de76afddaad8e71bd134a92929f89c34ed8]
+│   ├── t2.vom [dafe8ff0d0309aea150a631de8947fbdede864ce6eeb919604d8e91ed2c590d0]
+│   ├── t3.vom [6bf2df1e70a4147eec416e38e8ddf24e11db851362fca655587a7a282ceb6dea]
+│   ├── t4.vom [b8a40cb14c136202013cd783ccd97f7e00c25da43adfa84901a9c91cd9d7f53c]
+│   ├── t5.vom [48f73a7caaeb17b1148e3be1498912437044f3aba68580fc8a61b7e76e5ac90d]
+│   └── t6.vom [afe5db56903e4fc1dbe50f9890c5325d4e6b372bee9d45e3e65e11c4b9b87680]
 ├── 1335
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── morgoth.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   └── t4.vom
+│   ├── grep.vom [84e86b2fbe3edade9101d57044df01a34468d2071e0d6be9f3e5eb03b22c98d4]
+│   ├── keyb.vom [ca67dabb0cb5df3ca93b93eef579b18fb4138004dd1d568d765ade82a793cb46]
+│   ├── morgoth.vom [2385bd7f0a3ba786cc868c4517dfe4a0221b4f2321f0f67c1d315f3781fb631d]
+│   ├── t1.vom [44cc373e80ca5047f005e32862a2b1d0c1cc0712db64a5f1776baaeef4f55ef2]
+│   ├── t10.vom [00e6460097b2cd72d4ffb6d17397723e5d62030a303ba011d1b0914ca1ffe3b9]
+│   ├── t2.vom [1934f102d12ba17f7c58148f64013d27bca41234ae96e4db00618232b72baf77]
+│   ├── t3.vom [edace616b191235eae6eafea5ceaf94430e60789dea78c771b3a827c83816f81]
+│   └── t4.vom [e6ec9c804255ad7fa02364464cd9d39564853069792b7047a21db09c8269ef0a]
 ├── 1433
-│   └── virus.dos.deicide.1406
+│   └── virus.dos.deicide.1406 [7d20db0d51069a6e84c7c693588852913c3a2b841d8ec5d0996ac96ae5a3812a]
 ├── 2403
 │   ├── a
-│   │   ├── deic2403.vom
-│   │   ├── grep.vom
-│   │   ├── keyb.vom
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t9.vom
-│   │   └── wci0190d.vom
+│   │   ├── deic2403.vom [fa04f5896b41f32e255e6fabb962cd755e83072c8e0f313c0b9340869c69ad8d]
+│   │   ├── grep.vom [234868272e52ebac764c7a11fbce6418591a1402b08de3e6693fd7e0df3589d1]
+│   │   ├── keyb.vom [022c50cddcaf5acb4aa47137896c015918bf259765a19b19caf21c227e28b82f]
+│   │   ├── t1.vom [abe9aa6cd7cc7e1612412856989b32a0e2cf02f11941934f98538a2f71183c6f]
+│   │   ├── t10.vom [c6a6b4417fd6bd36873a4a331fd9f1befd138cc8056033c75f337797712cdd14]
+│   │   ├── t2.vom [a1d187b527d3b6d874b7fe21399ec35eb9a4a3183b7d21d2e276344791e84e48]
+│   │   ├── t9.vom [d959495d58ecf0725064a3f60d8119359e98171f106ebfe68ee11112e5e79a95]
+│   │   └── wci0190d.vom [a5d2212cec22f90e51fbc708d6c9181228e26335aaeb5c61071acf28196ec026]
 │   └── b
-│       └── virus.dos.deicide.comment.2403.b
+│       └── virus.dos.deicide.comment.2403.b [6a827afbfe2c6bacbb6045dae54f8288bda770c5d607f09a4262155933f94d17]
 ├── 2404
-│   ├── comment1.vom
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   └── t9.vom
+│   ├── comment1.vom [38631eacc6d55fe05e9f762666b693baae9bf0968ce8e194d2b67459fb6963b8]
+│   ├── grep.vom [9b61ea410a20895a3f942efaffb2bcc9995d6647c82bfc861247965c598ca5d4]
+│   ├── keyb.vom [9afe3504da8da0dfddc3bb35facccc8148939d175f8a4027a881c35cf843b40a]
+│   ├── t1.vom [7d8a17bde86e020c227a6eba4c32454fd9d69dffaf58ae1f5731847b0b018df9]
+│   ├── t10.vom [ea6d73f6c360b00c34eba65f2d54f4c00e220a649b699b904d88970804f21521]
+│   ├── t2.vom [43d228ab50395cd60eb4f82a5b1f7f8e5f418ec4a17f3142ef5eb608ea0325d2]
+│   └── t9.vom [4579da92852ebbfa4a693c651bd954b0a1a48e352bcf7897fdf4c2b4ad8b7cae]
 ├── 2405
-│   ├── comment.vom
-│   ├── deic2405.vom
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   └── t9.vom
+│   ├── comment.vom [6cbf6f0f4fe6cd75ad22ac828e254aaeb0d44d83815fe88dd361b931b8a8e854]
+│   ├── deic2405.vom [91b9f89bd7673bc426ae1c8870dd2e0a4ce7db020de15eda1207d6eb8aa22da2]
+│   ├── grep.vom [76b1bc64265a5110250d85c488e56b7ff5a9c96e5f8df7f4a457788b1ee112b5]
+│   ├── keyb.vom [02ef5e728a3b455b5a9a80fd92234ff6e7dda412c6fd44ab1cd87a4a9410c016]
+│   ├── t1.vom [9d02b0f09d51c3906428db7c57d22a355b61c3512a40b22c499acf65f0e9c162]
+│   ├── t10.vom [2bcf9c34fa2ab4ec974e3bc7732389128d1d6ba277c91b908366b661c93e9ed8]
+│   ├── t2.vom [c83ea60b24276a1b69287243e84ce98bbe0dc0d80cf35c05c5239d6b3d2b405a]
+│   └── t9.vom [729688b66e063b35e9aed3e6e17a58e902aad4c84ea1a6bd8cb6be283d475c49]
 ├── 2568
-│   ├── deic2568.vom
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t9.vom
-│   └── wci0194d.vom
+│   ├── deic2568.vom [54312393dd1e8cb52b6ef5bfd8b99279517961a3d1bc3fbfc0dce91474f7a45b]
+│   ├── grep.vom [d4a33fb3a8f5e055e578100dd654d42fab2f0b1b1d993c47760cb6981836cbcd]
+│   ├── keyb.vom [6dea5039614d07556ffbc1b52091414da3338b0b3a81aa28b52ce729c3482894]
+│   ├── t1.vom [6c72841ecfad44deb017c9635807fafd103203c559725f302efe533c87d7b240]
+│   ├── t10.vom [e4efa3ba44685f8f42c237d1f7bae8d81a251214303d54155610c4437a5549d5]
+│   ├── t2.vom [d9fe32cd7da8d6d0257c60836881cd714807b284ac77c86c413dc7011e4ca54b]
+│   ├── t9.vom [e8f459a0bd6127b05f2c7dfadd8aa61bb8fd4d4026da33e0a7d88b504d89187e]
+│   └── wci0194d.vom [ba984416cb938a74a7a36fd542fb15841bb08b7122b61b9e57aaa2b002d7dc51]
 ├── 2569
-│   ├── comment2.vom
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t9.vom
-│   └── wci08531.vom
+│   ├── comment2.vom [022cf79389add0f51b68aefb73d8e1148b4be386acb76c51a3c266b689bba4e7]
+│   ├── grep.vom [b9cf7677c2c7f09d5359b2cc22a2363106a4a5ad27d8aaeb0670e31271af8722]
+│   ├── keyb.vom [f677e86222f8d2aebb1ae0175dbb8d2c75dc90a3fa2b18e82212ebde3fff7b17]
+│   ├── t1.vom [2ac6844d756e945a3b9fc84a13b8eab4fc4e8cfd80fd32c8166f3b5b2120908b]
+│   ├── t10.vom [ccd224f642febdc47d098b689b64ad03a39aa8baf5c86886362b32f1f369a42b]
+│   ├── t2.vom [accfc0edb02fb65cf0496a89393f52e56acb50e65b21bab10c106c6416d0abb4]
+│   ├── t9.vom [b7b388e37ef276497555428d3c78dc331e7261571aa45c6e5b20d53bc3060783]
+│   └── wci08531.vom [fa694b6656f1ac64ce617091856d46161c5ce3764452c6cfca8230b7c72551fb]
 └── 2570
-    ├── co2_2570.vom
-    ├── keyb.vom
-    ├── t1.vom
-    ├── t10.vom
-    ├── t2.vom
-    └── t9.vom
+    ├── co2_2570.vom [7399c39e2911a5e27d84855a3a2314d033044effef1492ea1faf6a58330db608]
+    ├── keyb.vom [123d96fe6663131f602accce92288eab175075849357204465fb9a58bb578129]
+    ├── t1.vom [d80c1d824b4a76d41e663f01e8aa1a0f8f8194a9c622e0ed143d5ae49f12249d]
+    ├── t10.vom [4c65798f83d0630bde0efb10ce8a78afddd6a25c3bbac76a1f0d1cd847e2f1cd]
+    ├── t2.vom [fca9cab7eab64fac9c13c1d5b7d3b3fdad6e98e1ac1371d4ec22bf16f39c57a1]
+    └── t9.vom [05032f80bb949b24df4dc4cec9ae0c40447bffb9b56e80a67cb0b552c4b8def5]
 ```

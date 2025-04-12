@@ -3,44 +3,44 @@
 
 ```
 ├── a
-│   └── trv-42a.vom
+│   └── trv-42a.vom [735878a10897242c3115711ac97b655035debf81396340e74a0189e48d29c737]
 ├── b
-│   └── ow1.vom
+│   └── ow1.vom [f8816aacb4b1d48b1d1ae7c638f92d766cc501383a95c51f2898864c37d0f3f5]
 ├── c
-│   └── trv-042h.vom
+│   └── trv-042h.vom [93ca199acf991f4b4c05635f1c7a4817c59ac0cd4ac8c29bd36f51e2b30f171c]
 ├── d
-│   └── ow2.vom
+│   └── ow2.vom [61bd7d5d65e17fb4e9bf1be32900ae4a955349b3059a313d13261e1c6c648c06]
 ├── e
-│   └── v42.vom
+│   └── v42.vom [7513b74f61f936470b9995128b5e00404559070de46e523ddbc57fc7de094ab8]
 ├── f
-│   └── 42x.vom
+│   └── 42x.vom [39fdf9d8c761c6596831efdc82b64c19de9203b14682ebdf59d56544e15cae57]
 ├── g
-│   └── trv-042g.vom
+│   └── trv-042g.vom [4470bd680c0e58cd1d65d6d97b7ad475bf8fae209f031c181c5dc0784a34e7ae]
 ├── h
-│   ├── 44.vom
-│   └── test2.vom
+│   ├── 44.vom [8befbed6405915da65f583309b50903128d915c658156af3e1f28d2dbba4b974]
+│   └── test2.vom [66eb80140d9ef08f477e11f767a4c3e1580493eee063bc386729e953c8dc2e11]
 ├── i
-│   └── define.vom
+│   └── define.vom [5eb605b2aea3c409e86b9e828256686ced0e194c3d232f4678fd18e536b38c28]
 ├── j
-│   └── tri42j0.vom
+│   └── tri42j0.vom [80f6a83e4b197c8f4f223fca5ca6de2897e783c2cf4134255974d0bd5c1287cf]
 ├── k
-│   └── tri42k0.vom
+│   └── tri42k0.vom [89b934bdc6b21f246fba6d16accf72749695b6824a8a738c3b181c690a775cad]
 ├── l
-│   └── virus.dos.trivial.42.k
+│   └── virus.dos.trivial.42.k [6339327eec22c1c37d7ff6117d4e4b3159ce9e732ca4d16e203bf3d48965d8a5]
 ├── m
-│   └── tri42a.vom
+│   └── tri42a.vom [64631d80bd074777ba5f06ebe9da706679acebf70983b6446f51056f20cce695]
 ├── n
-│   └── virus.dos.trivial.42.n
+│   └── virus.dos.trivial.42.n [f3ce271905662bc7c59002906e3962c679b0ae71c985f621cd37b33346ca8c25]
 ├── o
-│   ├── t7.vom
-│   ├── tf.vom
-│   └── tiny-42.vom
+│   ├── t7.vom [8e9aab1eee4f2c79a1445d5b849b6d340df9fa7274711efe9846aa4dbd469fb9]
+│   ├── tf.vom [f6bdfc57f239ec6fe40424160bf37743f57362e3efe1082322be7ac854a3f081]
+│   └── tiny-42.vom [c6c9d477c8cd55182f8c738f10dcfaa4005eb4f120203ee1b8df652a4cd4b2b9]
 ├── p
-│   ├── trivial_-001.vom
-│   ├── trivial_.vom
-│   └── trivial_.vxe
+│   ├── trivial_-001.vom [ecc15c4cef31403b168ea8ced42d6f5144df16d3ee71e273f415d89d5784d27f]
+│   ├── trivial_.vom [ecc15c4cef31403b168ea8ced42d6f5144df16d3ee71e273f415d89d5784d27f]
+│   └── trivial_.vxe [7989a21c7f991c5215c9580acbddb5a7457b3dba4937d33b4cfcd2ba6f62ba5c]
 ├── q
-│   └── h.com
+│   └── h.com [ad5817a40a07e312c48f3eb3a3f519e0862e1a244ecfeaf961f3a093a34030f5]
 └── r
-    └── trivial_.vxe
+    └── trivial_.vxe [5fac2605aebb38618888febcccc912159d1b9129211495c358e041a246ae113f]
 ```

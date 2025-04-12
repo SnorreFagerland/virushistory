@@ -3,24 +3,24 @@
 
 ```
 ├── a
-│   ├── protov~1.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── t7.vom
+│   ├── protov~1.vom [368453ddb0a98ac4fe68d8a84534599177e69c0c5d8b5e68b56a318902115c85]
+│   ├── t1.vom [1cfef5c2260fe1639433a8dba88e991be3aec7a16efa1592f9f84c26964491b5]
+│   ├── t3.vom [725666f18b392d4a3ee218d246bbd8c58f9de15b59241aa92100ee50cb88f30b]
+│   ├── t5.vom [f7a9050f40ff6164231a514d78b76ce8f142db9f42ff51cc469e1b16700820d6]
+│   └── t7.vom [e354e7aafe9c713754f5a25e4462698f01b3cc860855b13ac5104e3185aa77f7]
 ├── b
-│   ├── proto.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── t7.vom
+│   ├── proto.vom [630947a4e92817d3d7460b79dd9b049a479e1c97f9826cdd50033aacd27ff4de]
+│   ├── t1.vom [c7a3dfafd7bffa6b6f6b65d0cc5928955672dda5188d8f316d24fee3eec13fa4]
+│   ├── t3.vom [e4a1429d5a3362a54aa4a192da63a00f1aa5397023691073fb6375b08f3e047b]
+│   ├── t5.vom [94936496d633da3754f3ab1aedb8951e86c53cc71ed769d7283e032da60ba36e]
+│   └── t7.vom [8caaf94487b20444b8e27e39df6bf94d86170d0fe00e0257100070bd0023ca3f]
 └── c
-    ├── prot720c.vom
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t7.vom
-    └── wci05751.vom
+    ├── prot720c.vom [7c56551c9fd88964415a702718e0ae16475b4ab45953a7a0fd81f41d14181c40]
+    ├── t1.vom [2a49e9359bb129230f957a81eb917328461cc5bbdcc9159cff7636de257174bd]
+    ├── t2.vom [fa646c72a270e3f0853d88398bdabb272bc6a40e528f4afd356eec91ed86afba]
+    ├── t3.vom [a195a182568abc03ac72b59861ccc34c3f0c175f6ceb0db0001a2b780fa60532]
+    ├── t4.vom [d321392c20c295414990b1ed01482144a95d4cf5cf99349bec3219cfc40ac656]
+    ├── t5.vom [c611d761cd69b4e730b0fbc0aa214b5a214e4aaf33fdeb2737126b7e1d8523cb]
+    ├── t7.vom [50ad7bf445098bca257f8a0eb52ca88aeee5b6528de62de64bb00afc7ecc09ac]
+    └── wci05751.vom [8d6101af72ae7cc4245722545eccb5cc9561b03cff3fb9ea953a1ec8d77410e6]
 ```

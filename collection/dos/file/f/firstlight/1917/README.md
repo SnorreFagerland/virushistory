@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   ├── LWM.vom
-│   ├── firstlig.vom
-│   ├── t1.vom
-│   └── t3.vom
+│   ├── LWM.vom [3970c43c86f3eeff7403f253b24034cc8c8fc5307aa3f5940e4b48e44850a9d8]
+│   ├── firstlig.vom [5d22b2d7727304517fc3271350db3e4e0d89b168242f0850bdafc626d05bd239]
+│   ├── t1.vom [cfdcb131c3bd3948936361821b2706f5f9382a1196ea4a1295724e02c33d0646]
+│   └── t3.vom [f8e9be388732b367a0a88b463181300954bf22a59af3cd3e629e5bbea81260d8]
 └── c
-    ├── DUMP32.vom
-    ├── LWM.vom
-    ├── t1.vom
-    ├── t3.vom
-    └── virus.dos.xian.1917
+    ├── DUMP32.vom [b3682e23bc15ebcd645ab6aef313b149344247bfe08621f377857e996b07de3e]
+    ├── LWM.vom [1d092931a4795124a5cea20ede9e703a6351e580a798e1cfc10bc0ff880ec809]
+    ├── t1.vom [8add7cfc1a214e47a92ec04cc6c6128b74085e80d45b1e16c9c201133520b064]
+    ├── t3.vom [38e7e6a5f5b8574d3b6ddc4a5d22b267d72d07cb1b4c92495f7eff9875b1195a]
+    └── virus.dos.xian.1917 [242212e1e5411789bedc39e7844f4113794480bbf14acd4b50b7037c21e9811c]
 ```

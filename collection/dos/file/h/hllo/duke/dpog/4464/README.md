@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   ├── DPOG30.vxe
+│   ├── DPOG30.vxe [aef30ff05274b9ae991a35dd0fd1159948852d960bbd4914864bc077a1c5f660]
 │   └── src
-│       ├── DPOG30.CFG
-│       └── DPOG30.PAS
+│       ├── DPOG30.CFG [27ec276101a5b620c317aaddbceed456f90a7a00bff94d152a5499f5950bd26e]
+│       └── DPOG30.PAS [8c875f386130ac714d832a4de474831c3ad70ccd1076abf63a7b117893fc6f6d]
 └── b
-    ├── DPOG80.vxe
+    ├── DPOG80.vxe [328f379fc90f307e2602c1379b8a3cd7556a979bb4cfd3149b12a1adf104751b]
     └── src
-        ├── DPOG80.CFG
-        └── DPOG80.PAS
+        ├── DPOG80.CFG [22d480785af03d6b46606071eeb9b03be31bae5688bad57db5df6ef24170c7d8]
+        └── DPOG80.PAS [c3116d0232642e809e8e07d6962cce65bdd1028d894858bdad3898b96e14da61]
 ```

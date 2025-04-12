@@ -3,15 +3,15 @@
 
 ```
 ├── 399
-│   └── virus.dos.vic.399
+│   └── virus.dos.vic.399 [7cbaaa02137f1d1b3d3f6e621cd218060606fc732452cfd21a02d28ffc3a5f36]
 └── 793
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    ├── t7.vom
-    ├── vic793.vom
-    └── wci0445v.vom
+    ├── t1.vom [646ac567c29c15313841b2c01d4b5c22267f4a4f877466d5f84f9d7b8974881d]
+    ├── t2.vom [568e9e6587008b8c8583acb42f4a1969e062e31342d1840f8c803214cceaac7e]
+    ├── t3.vom [f91118ed8fc4ea7409141c5663924c4cca49e34da6c6163bf93405f1a96247e4]
+    ├── t4.vom [270fdca30ad335fa3fb8a82c6e246f53c0af7f70a4e6cbec40e43a08221fdcf5]
+    ├── t5.vom [9338f6a4c6efea797b0e4de2dc09b0015fe2ed2a6d64783f92018f7ee5c71659]
+    ├── t6.vom [87705b649092b24c3bf6a04993ac813f30a554e7e2b81d97d7e5799d78a11484]
+    ├── t7.vom [f0de906c1c6f0e4be14056b4b265dee0fbadf13e181a5e36e822d7296580820b]
+    ├── vic793.vom [1d8efaa387be33b68a9e7cb930b8f8c1ee215942cc66f3a066e1a22fbf71e280]
+    └── wci0445v.vom [74ee712472b9207235d29ee60adcde614013d85519956b557cf3d83108f63173]
 ```

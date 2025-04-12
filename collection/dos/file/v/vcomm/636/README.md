@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   └── vcm-636.vom
+│   ├── t1.vxe [bcd3333e94e4ce69f5f4ba70d24656ce321725911f010484c34cb6594571e4f0]
+│   ├── t3.vxe [f2aa17701f92d83da00678f264ea1a5315f785bf339522c9bb1f061788f452c0]
+│   ├── t5.vxe [de2459a41bfcb6ed1b1c389eb3d4ec73f4e4126c78f3eee9212e86e1bf92e6be]
+│   └── vcm-636.vom [de1cf2beb8719d7bc7736a724cdad1ef6c42e431c16c8b54865d3c3b94294c09]
 ├── b
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   └── wci0406v.vxe
+│   ├── t1.vxe [509f7e5d7ce971e052bc56cb58a0c4e128007710f04367a909765e6843aa8f11]
+│   ├── t3.vxe [be65887c0faec27870deff12697e4597dca30d2cf2e70f382c55e55ddbef7207]
+│   ├── t5.vxe [ebecae4243dc264d360a4158fd0f97db67efd9ef1b1d140656cbc611306e56e5]
+│   └── wci0406v.vxe [87051da69422dd4441b4b3891ead07d4213140b3bd3b1b78eff0679aa0253ede]
 └── c
-    └── virus.dos.vcomm.636.b
+    └── virus.dos.vcomm.636.b [64d7767310f57e522803dde74109eb9392c241b03ba1c608181a34702f86138e]
 ```

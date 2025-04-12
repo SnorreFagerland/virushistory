@@ -3,27 +3,27 @@
 
 ```
 ├── 1200
-│   └── dna.vom
+│   └── dna.vom [eb54bece38402d1f0932a788f3d1b16764679bda9bc4f2308e09f8b288fbfd40]
 ├── 1204
-│   └── virus.dos.dna.1206.b
+│   └── virus.dos.dna.1206.b [98d968ceba68eec27b219d3672a602d2cf8c855de63e46927bc5309aeda698b2]
 ├── 1206
-│   ├── dna.vom
-│   ├── doskey.vom
-│   ├── format.vom
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── mode.vom
-│   ├── sys.vom
-│   ├── t1.vom
-│   └── win.vom
+│   ├── dna.vom [f46269b5949b4bd2aad685f5e39fa5af895ecf70e658811238e64702d4adc61a]
+│   ├── doskey.vom [9e114253c277c8790ce16e2f6a7ea8b27e8a6e0f2d204f75f794093db42f5d07]
+│   ├── format.vom [8c8956d96ef82fc7be9cb693f13d23feaf29506dcdc1a5a87edbfe39863b9505]
+│   ├── grep.vom [8b01407dbb056948616c77335ecb1ca0e1750ae93fb6442f01321070ac8e5875]
+│   ├── keyb.vom [8131d5efbcfb8c9b7208a3c87fc382cd920ff0cf7a28e09123f3f9067d92dae6]
+│   ├── mode.vom [121219a6724256c18cbe69b0ad27b72c5c3872d1b33f3af0c7df5c251ff814b5]
+│   ├── sys.vom [75251014290c5b4583decc7df810c04e966cc31dfa4a9cb4a50efec11a713551]
+│   ├── t1.vom [52b5502876e04d1f98edfb55bf2bf859d68bac345401eeb4013980fddec60c52]
+│   └── win.vom [4bd818c0106cf842e2363a4923efbc0e2a98f5c3fffd0a27eaaa976c1976b62a]
 ├── 1793
-│   └── getpass!.vom
+│   └── getpass!.vom [53d6b5d581e45c0b071845851b9c6b17f1731af175d10af67143b52d98fb45e5]
 └── 1800
-    ├── 1-we1800.vom
-    ├── 2-we1800.vom
-    ├── 3-we1800.vom
-    ├── getpass!.vom
-    ├── t1.vom
-    ├── t2.vom
-    └── weir1800.vom
+    ├── 1-we1800.vom [6d4677d5612cb26e2bd53b097b9b117a5bca137a525de338088d0bea91562f58]
+    ├── 2-we1800.vom [e2edc73417015b54d161d6599195644846cdd63170ee9d6ab42eff37787eb33e]
+    ├── 3-we1800.vom [1b24b36d9cbcdfc44a529302a4b549e7969b28bd7ff9dc0e5ef38fb1f7b637d5]
+    ├── getpass!.vom [a2506cf8ded64279d51bcbb6216315cc600526231070ec8c9ab02559178a05de]
+    ├── t1.vom [a620ab91cea2af8487fd96028c4fadb29446fa7d34fd0e4753b77246ab3e7b17]
+    ├── t2.vom [47f81d626988e517518f6a1d22c1dec274d25ea93b0f4a9d2de2344f2d75f004]
+    └── weir1800.vom [9f65249da02f570784d295d69a3e2ce9f7a4c15f3c6c9ed0400b1e2f5148e218]
 ```

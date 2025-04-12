@@ -3,33 +3,33 @@
 
 ```
 ├── a
-│   ├── duwend-f.vom
-│   ├── dwnd410a.vom
-│   ├── keyb.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── duwend-f.vom [79c72efabb6ffb4b98ee71348d72f366d96f0f67f56a0adfb11d2f3fa3764c19]
+│   ├── dwnd410a.vom [c62a535018ead1ed7e685ff876e661472c0c56ba4a6118e25483d1e10f69d4f8]
+│   ├── keyb.vom [5a67526b12e01019f77bddf668cc9bfe51b3e3016151ace8aae143b7a0e4d469]
+│   ├── t10.vom [8535390a1c192a1a43d28953580361cd2be3fa95acccb3a0c8568450be8cdef3]
+│   ├── t2.vom [65ac5cfc1b18eddca7a6a1217e0a0871358c4da23b54ae221d3578eb2b109db9]
+│   ├── t3.vom [c752eb34a01c9d673c5a756bc444caacbcf392cecfdbf4313e447607bf3ea726]
+│   ├── t4.vom [cb0258b074d4e0be0007b1c7756a2b9912e45aad0aab7160d19c9ecdd91db8ba]
+│   ├── t5.vom [d7d65632e41ed86609bebc6753c2ecf2e9493756427ec8713d04a80f4bed0240]
+│   └── t6.vom [36c2b023b03083f6ef8269ba98a6d8d287a25144411e23d591c0e44c12e316b6]
 ├── b
-│   ├── duwend-g.vom
-│   ├── dwnd410b.vom
-│   ├── keyb.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── duwend-g.vom [3406012407faf770192bf4add25ff64bf5ccf76d31a65d8d94bd6b2cccec9237]
+│   ├── dwnd410b.vom [1118858621717ea73ff96abf217ef94fed45ac8dee6c1eea443b5ec68a0c48be]
+│   ├── keyb.vom [5c9fbce980f040002b0039d00586800077a7d5a667c4cd303aa8b96978ccce9e]
+│   ├── t10.vom [6ef8ba15161ac3b9af31bc54eb083e5f3a2e702dbf55d972265f56b0ff56a823]
+│   ├── t2.vom [02583e615b9b0a24828825b566d7284429d5c1774a0b097f6a2ad1d77c211798]
+│   ├── t3.vom [2b04c9ac1a8ff604bb359e6a3c061b495c183d5bbdd78db6f362562487800573]
+│   ├── t4.vom [5a4f9229bbb8ebbe14a6a969d6b0eda88156f5b87b85b1d3a25051dfeb4d2f5e]
+│   ├── t5.vom [6c5e07bcc5dcf55aee3c15582d49319944048a585f320ca0d22f5830aa62197d]
+│   └── t6.vom [b12b7bce700a3784e9b479ad26635d7ba7388610d93ff3c64d9de9729679432b]
 ├── c
-│   └── virus.dos.duwende.410.c
+│   └── virus.dos.duwende.410.c [4d772d947c8333e647534d115f548470d2514f81dc4bfb3bab7797283b94d842]
 ├── d
-│   ├── duwende_-001.vom
-│   ├── duwende_-002.vom
-│   └── duwende_.vom
+│   ├── duwende_-001.vom [db165d316f024baba883661c2bbc0f7e34f654a148aae5f31d22f70718031a5c]
+│   ├── duwende_-002.vom [b6e64641dfa4cda47c39568f69414d8a55dfa4fb8adc892b0456d66b2ff525d9]
+│   └── duwende_.vom [7113e9f686ccb8e8eb1ac4dea208317ba5a2bd845069859c2bc42f6853068b9f]
 ├── e
-│   └── duwende_.vom
+│   └── duwende_.vom [f35049e5fd8cb6b920c34c4450f6ac196022bec9e315c4b07503282d21780bf3]
 └── f
-    └── virus.dos.duwende.410.d
+    └── virus.dos.duwende.410.d [d21c81737d34e879ebaced0fa0645cdd9734bdcc656c684ddde394dd0c918fe2]
 ```

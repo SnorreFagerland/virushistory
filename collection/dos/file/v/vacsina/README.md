@@ -3,204 +3,137 @@
 
 ```
 ├── 634
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t7.vom
-│   └── va-634.vom
+│   ├── t1.vom [580fcfa56a08aa3c7759e6964be69ba4752739a26c513ac8b512c97762b80dd0]
+│   ├── t1.vxe [921f23fe4bf81dc4397e0cb896d306374b803ebd291f9ad3e4243cef09edb3e9]
+│   ├── t3.vom [6af2cb328d0af6f520179e5b568e1bfe75c2faeaebe9fbb4d88211ebf1993f7e]
+│   ├── t3.vxe [733d5d476a3465a9fbaa739690470b84dd496b6bb4388c98046a38b77ad37d7c]
+│   ├── t5.vom [9caae67da2bf78dafc4ac33de040f676a6ce759be84f3daaba59e120a07e6887]
+│   ├── t5.vxe [9702199efcea43837db7bc27eed56717f409fbb527401c6162ef9d2e66d66028]
+│   ├── t7.vom [4b077e66d778851b26d550791efa6e8fc798ca4363659136322d8cb9b935b8de]
+│   └── va-634.vom [78043a5bc08f2cadd8793e3486e7ecbcaa697008ce1fa9b187af923fc5af6271]
 ├── grog
 │   └── 1082
-│       ├── debug.vxe
-│       ├── grog1082.vom
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t3.vom
-│       ├── t3.vxe
-│       ├── t5.vom
-│       ├── t5.vxe
-│       ├── t7.vom
-│       ├── trace.vxe
-│       └── va-g1082.vxe
+│       ├── debug.vxe [e812ee11de56fda7e5f58a1a861510733e4a3cafe1c6833eeb3b6320334e1ae7]
+│       ├── grog1082.vom [c67ceafe944273706b6935bb16d763c4c701603c88dff2b490b2cb418d4dd82d]
+│       ├── t1.vom [af8f31e32106027c3f761da3c8b289160d5544318d74dbf19de85534d05985cd]
+│       ├── t1.vxe [9dfb29eb411749c80cd201a27ba4bb2504717ff8c3747338e2e28606edaef87c]
+│       ├── t3.vom [c6f01d0b2bebb834343508ca22571679b4a2da7e33702c11bc2e083888b91dba]
+│       ├── t3.vxe [0e8519d9bf538a2b097663336b252a5d2de83252b00941d2c4fab6aa8537a411]
+│       ├── t5.vom [359c4a7415a036f99f9f703817e09210934f8c7d22c1f5183b43f405ee36facf]
+│       ├── t5.vxe [d648676c68d0ab69eee36aa28fd1cd1fca8d24ff6cb31561144c6d136f7bdda1]
+│       ├── t7.vom [8d0ac53c3067e40cd467a3f10e960a434b2896964a14e779e57ccf0a39961ecc]
+│       ├── trace.vxe [2b2b37aa8624337036229e2495f03610e885a02b41e0359a1e87113bbc3e9236]
+│       └── va-g1082.vxe [88f973d395fc59bd79400d084fc13b8aa33c93e3cc880138ea3f37fc201f2294]
 ├── joker
-│   ├── 29233.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t7.vom
-│   ├── vac-joke.vom
-│   └── vac-joke.vxe
+│   ├── 29233.vxe [7841efdf1558d3c3e377d0bc7de97489012dd8f796a4d9a693574d9fa81279e6]
+│   ├── t1.vom [3b933c0b7fa71da28a580872fb5b42d94f674bda4e768a7d55f3b270be2f52d3]
+│   ├── t1.vxe [68531d81e4ba88d738e17cdebc08c790efd5af8d3909e8ed3c309ff20a5c83b6]
+│   ├── t3.vom [d3f82070b414f9271b4236cf39f5e7571e36943fd145b96c65c4ce1e738ec2d4]
+│   ├── t3.vxe [740e64a9a6927d47328e82f5936538ac8ad2c33709406d2be17f72f0c712b77d]
+│   ├── t5.vom [e239bc7788f359d748b9f6e3e776fd23467b2896b74d0968941d927f46fa922b]
+│   ├── t5.vxe [55a3b727e60cc359b389dfea21659c989494b71d6003da5074ad9bcc8ab75a08]
+│   ├── t7.vom [7403c96e11f36897afd6e4d926fa44249abdab3d33215463f2a18b8461366ec9]
+│   ├── vac-joke.vom [f7320a6f40d1886f637e302d7dc9d92f3ced25bc6ca80327b5822df4a4bc9669]
+│   └── vac-joke.vxe [420aeeb4be4453ed23e49abfa408c40914ed1fd5eb70aa57009c625a7d69fc0b]
 ├── loader
 │   ├── a
-│   │   └── va-vl-a.vxe
+│   │   └── va-vl-a.vxe [876cae3df294d5063827790a7a1d49488cc29296067ed093be9e37e125f528b1]
 │   ├── b
-│   │   └── v-vl-b.vxe
+│   │   └── v-vl-b.vxe [4818c64add12318799c06dd1c1efefb80839e287b1eafe4eae990c201c9c5d60]
 │   ├── c
-│   │   └── va-vl-c.vom
+│   │   └── va-vl-c.vom [af218dec81987a4707903f746a951f9ae7f104065dc872a56c783d3a76b48ba7]
 │   └── d
-│       ├── t1.vxe
-│       ├── t2.vxe
-│       └── t3.vxe
+│       ├── t1.vxe [77a53d1bc172ec71afd5261e1dd7a4d355a1956cce90f3fae46d9e2c0021cbf7]
+│       ├── t2.vxe [d64bb1dc29b26cebe1f2ac9e15d08881dfcd8cc0e428ac550f3181460b434c4d]
+│       └── t3.vxe [257edd99bf98da1218b79b9aacb31e5438d5760d501af087d04eb9e07236203c]
 ├── mutant
 │   ├── 1680
-│   │   ├── doskey.vom
-│   │   └── wci0826m.vom
+│   │   ├── doskey.vom [544d6a533e8b6b5dba1d6507cfd5ddaf4b60012685bbbe860149bbe0f9c96d18]
+│   │   └── wci0826m.vom [37c9d10a5e312dce1f904c27eea21ef2a5a316f08888b79a41d9271d8d4abab8]
 │   └── 1744
-│       ├── format.vom
-│       └── muta1744.vom
+│       ├── format.vom [598beff9a2d5276681f6bced491f516330a78428f79edf26e23cae02b74d5d9d]
+│       └── muta1744.vom [c3965cec0531ec821601cba10305c21add822fdee32e6898315e3f12c1b993ba]
 ├── penza
-│   └── va-penza.vom
+│   └── va-penza.vom [acec5f1564e4fd821bd52af1c44746284faf43487477a1b353dccf156b137bf2]
 └── tp
     ├── 04
     │   ├── a
-    │   │   ├── t1.vxe
-    │   │   ├── t3.vxe
-    │   │   └── yanktp04.vom
     │   ├── b
-    │   │   ├── rce-1212.vom
-    │   │   └── vac1212c.vxe
     │   └── c
-    │       ├── t2.vxe
-    │       └── vacs4ira.vom
     ├── 05
     │   ├── a
-    │   │   ├── t1.vxe
-    │   │   ├── t3.vxe
-    │   │   └── yanktp05.vom
     │   ├── d
-    │   │   └── UNKNOWN.vom
     │   └── ira
-    │       ├── t1.vxe
-    │       ├── t2.vxe
-    │       └── vacs5ira.vom
     ├── 06
     │   ├── a
-    │   │   ├── t1.vxe
-    │   │   ├── t3.vxe
-    │   │   └── va-tp06.vom
     │   └── ira
-    │       ├── m1.vxe
-    │       ├── t1.vxe
-    │       ├── t2.vom
-    │       ├── t2.vxe
-    │       ├── t3.vxe
-    │       ├── t4.vom
-    │       ├── t4.vxe
-    │       └── vacs6ira.vom
     ├── 16
     │   ├── a
-    │   │   ├── vac-tp16.vom
-    │   │   ├── yanktp16.vom
-    │   │   └── yanktp16.vxe
     │   ├── b
-    │   │   ├── t1.vom
-    │   │   ├── t1.vxe
-    │   │   ├── t3.vom
-    │   │   ├── t3.vxe
-    │   │   └── vac16b.vom
     │   ├── c
-    │   │   └── virus.dos.vacsina.1339
     │   └── multi
-    │       ├── rybka-2.vxe
-    │       ├── t1.vom
-    │       ├── t1.vxe
-    │       ├── t2.vxe
-    │       ├── t3.vom
-    │       ├── t3.vxe
-    │       └── t4.vxe
     ├── 23
-    │   ├── 1-va1753.vom
-    │   ├── 1-va1753.vxe
-    │   ├── 1753.vxe
-    │   ├── 2-va1753.vom
-    │   ├── 2-va1753.vxe
-    │   ├── 3-va1753.vom
-    │   ├── 3-va1753.vxe
-    │   ├── t1.vom
-    │   ├── t1.vxe
-    │   ├── t3.vom
-    │   ├── t3.vxe
-    │   ├── t5.vom
-    │   ├── t5.vxe
-    │   └── t7.vom
+    │   ├── 1-va1753.vom [f0899ff182b5505051412ea81de700b47be2ebb1d23baec7562ade872d079fa7]
+    │   ├── 1-va1753.vxe [46bd56fe8e99c78685c5a1bc9519258b3f7d33422ab698d1bd3de3076628715f]
+    │   ├── 1753.vxe [359db6fc0cbd25d6668c5011b49aeadb25b1c7cd5b6c34948c256faa78848c68]
+    │   ├── 2-va1753.vom [bbc3906671096d31598cd0ff05a433ca164772bac628e11a5bd73f3926fa434a]
+    │   ├── 2-va1753.vxe [46bbb482c2bc592b1b5d07b61b8845ac003d007666c1ddc0417217a0269ef28e]
+    │   ├── 3-va1753.vom [f60b1029b02b362244b0a419132aed54e5fb5200d787cf9080eb9367db19774d]
+    │   ├── 3-va1753.vxe [b63d07200d3ae7e31a24709aced6d8d0d28736d0cb93181fabd6546d94ef21af]
+    │   ├── t1.vom [5e5825d0d90840847d2635deb372cc0526b651a0ed685a574161f233145a0c5f]
+    │   ├── t1.vxe [4ae07a926d43f5e99b28c90cc7b3db156f229252a77aee0d3312057e9b6cd5c2]
+    │   ├── t3.vom [4b5c9d855e11c4d88c1302183a8250a508baa8cb26c2ecfe48a9fa0de41da219]
+    │   ├── t3.vxe [72ac4dc5dec3a06eb8368264e6bd320e1c98dd1ec484a8763a20090496669c16]
+    │   ├── t5.vom [e94f4e6a7cbaa44278e7fb473e851a7c3a8e39832145cdadd1ed72dd8577a164]
+    │   ├── t5.vxe [6458db41eb9b2efe378ad35308168e9e0d745471ee1bfdceb61e5e13b20baa79]
+    │   └── t7.vom [101673b71855d4614ad3ea59b4930611d4df3106f041fe5d8925c857988e12a0]
     ├── 24
-    │   ├── 1-va1760.vom
-    │   ├── 1-va1760.vxe
-    │   ├── 1760.vxe
-    │   ├── 2-va1760.vom
-    │   ├── 2-va1760.vxe
-    │   ├── 3-va1760.vom
-    │   ├── 3-va1760.vxe
-    │   ├── t1.vom
-    │   ├── t1.vxe
-    │   ├── t3.vom
-    │   ├── t3.vxe
-    │   ├── t5.vom
-    │   ├── t5.vxe
-    │   └── t7.vom
+    │   ├── 1-va1760.vom [d085680b479cf095be7b3e5579c236b73b65b8a7993499ebf34173aeaafb4797]
+    │   ├── 1-va1760.vxe [7f8aa03ba0e4a0d09231d93391341f91862358c2884b70fbe17dc411d836baf6]
+    │   ├── 1760.vxe [581ebcbb1c19f4e6444996aa1ce97d10a5d6e514194a105bf0d2f9b57d571584]
+    │   ├── 2-va1760.vom [1d7229a3322beee73ba035c3ce89a3f6d08f8a51a160ed5e24b5c7db76241819]
+    │   ├── 2-va1760.vxe [da08e5a1948d88f0b2791784705f2c33eec688f5cd661ccd7c049bfa42e19508]
+    │   ├── 3-va1760.vom [87f0c54bcb0a29673eb9c437f62cf17639501bb0a3838b52a67416ffb7ef756e]
+    │   ├── 3-va1760.vxe [e1c4558f9c941d35cd0ce64e0affc784d91a47ed845c8e388c642951f18d74b5]
+    │   ├── t1.vom [553225c7af0686f13dc830bb50f55aed9b24eac6970e173b0f9d62d3f41bfa8f]
+    │   ├── t1.vxe [39a64c834a029df569a5e878622fe49663ccdc51e120473dddf153fc61d22c98]
+    │   ├── t3.vom [ccd91a8a3e81eb861285756c382f860f9a15af3875e536156d3db7ddf31b9697]
+    │   ├── t3.vxe [5169f2f4963246d3a033688bf7461b4337190f7ef555a89b3881f388fdf37a2e]
+    │   ├── t5.vom [7239b4bd67043a93f53d8aa29ccba9849198a108cd2729d062c7e28da40e6bf5]
+    │   ├── t5.vxe [8f80366f666f3449022e77d80986b91c5385b9f2614712b99657be1954b983e9]
+    │   └── t7.vom [e74da15ecb6d01e834e06addd1a245f4f236a166817dbb914ec5b231b3d65f36]
     ├── 25
     │   ├── a
-    │   │   ├── 1-v1805a.vom
-    │   │   ├── 1-v1805a.vxe
-    │   │   ├── 2-v1805a.vom
-    │   │   ├── 2-v1805a.vxe
-    │   │   ├── 3-v1805a.vom
-    │   │   ├── 3-v1805a.vxe
-    │   │   ├── t1.vom
-    │   │   ├── t1.vxe
-    │   │   ├── t3.vom
-    │   │   ├── t3.vxe
-    │   │   ├── t5.vom
-    │   │   ├── t5.vxe
-    │   │   ├── t7.vom
-    │   │   └── yanktp25.vom
     │   ├── b
-    │   │   ├── t1.vom
-    │   │   ├── t1.vxe
-    │   │   ├── t3.vom
-    │   │   ├── t3.vxe
-    │   │   ├── t5.vom
-    │   │   ├── t5.vxe
-    │   │   ├── t7.vom
-    │   │   └── vacsin~5.vom
     │   └── c
-    │       ├── t1.vom
-    │       ├── t1.vxe
-    │       ├── t2.vom
-    │       └── wci0019v.vom
     ├── 33
-    │   ├── 1-va2680.vom
-    │   ├── 1-va2680.vxe
-    │   ├── 2-va2680.vom
-    │   ├── 2-va2680.vxe
-    │   ├── 3-va2680.vom
-    │   ├── 3-va2680.vxe
-    │   ├── t1.vom
-    │   ├── t1.vxe
-    │   ├── t3.vom
-    │   ├── t3.vxe
-    │   ├── t5.vom
-    │   ├── t5.vxe
-    │   ├── t7.vom
-    │   └── yanktp33.vom
+    │   ├── 1-va2680.vom [0b6df68cbf52d3a09c43b754cbb6850dba08cdd90613c878e8fc3666127c0cc2]
+    │   ├── 1-va2680.vxe [170d6592ced9255698686f106baba369cbcfa1da97bf76932bc8e74709db773c]
+    │   ├── 2-va2680.vom [a02bad147d2bbaaca4c50348e1c57f00f11d9663cf185abe2ac66bfcabefc9f5]
+    │   ├── 2-va2680.vxe [67a2f14c135d4cc43a1ff6c3ffeceac512e06c36db5a9a2c7ee50cdf91200d84]
+    │   ├── 3-va2680.vom [3e0543e527846fc111af6975d973184f03f3ce823d078f0236bf75c06521be95]
+    │   ├── 3-va2680.vxe [06975c9e49d4d4acdfd76c32cf29ed126035e75c005e3b88ed8bb3a781c654f9]
+    │   ├── t1.vom [2746a4c0ce55bcb9f7d5cfdd26b9d02b8a80e8edeb3fdb1f08fbeb4b30af427d]
+    │   ├── t1.vxe [5e395f17fef3d101b2208b1cfdd7ae56d0449f2fa21a68a0e2bf2dc03fe71c04]
+    │   ├── t3.vom [3e32a662c2c55b4ff8ebbb38541b6001c60517f9a7bf4fd2519f551985fac0e1]
+    │   ├── t3.vxe [b259930b3cfc5771116542e2377cb7feca1c61713f277624bb32e96f1d6c808c]
+    │   ├── t5.vom [17ab49e8b73174e6f642a3414163c6da1143ed55a7fcdd0ec1248d70986e8974]
+    │   ├── t5.vxe [f94a9f3a16c238972cc32e429e363ad3ad5a08125174a6f7f3cd920d7f80b767]
+    │   ├── t7.vom [49f3cc740703a3b4144627b24eec45b385dee6dec61f8887145d3f9122978601]
+    │   └── yanktp33.vom [cc49f288a86372a90fc3e8c15f83e41d7d35233626aa66fceeb980c15dd242c5]
     └── 34
-        ├── 1-va2568.vom
-        ├── 1-va2568.vxe
-        ├── 2-va2568.vom
-        ├── 2-va2568.vxe
-        ├── 3-va2568.vom
-        ├── 3-va2568.vxe
-        ├── t1.vom
-        ├── t1.vxe
-        ├── t3.vom
-        ├── t3.vxe
-        ├── t5.vom
-        ├── t5.vxe
-        ├── t7.vom
-        └── yanktp34.vom
+        ├── 1-va2568.vom [6b7337437f267b5cace2926161ab9f049a078b747e318c7bd064776c7f31b4ee]
+        ├── 1-va2568.vxe [c9abdb3fc30299107198563301b1cea4f5e74f2574463e38471685d7118b01c1]
+        ├── 2-va2568.vom [be9db1aa604e15f358b5963bc1bad54542c6243f5d026f7ef3203b370ec324f2]
+        ├── 2-va2568.vxe [d89e28d6662905a109e0f27a8ede61c300e68826fe2d44c925616c5499313f42]
+        ├── 3-va2568.vom [b48a34d882b9d5593b2aced46e92bfd651c8194df76b161b44ccb73964c96eab]
+        ├── 3-va2568.vxe [37630d82333348d461366d4ba135c47038daf264c6a8da4d5ec397a16b3ca079]
+        ├── t1.vom [a100329ec8c0ffef2665163f1e2e875014bb9d50a19a9572f1dae4c7b691c079]
+        ├── t1.vxe [4e57f49d83bc3a51407e6ed3dd1396c460d75be5f00af900299322b67c694e5d]
+        ├── t3.vom [e585f4c18d54dfac810f450adf19dd1f393bb31cd3a3928604113979c32a404e]
+        ├── t3.vxe [c85a68155824bf9b48cf0d25a9cc7c205b277057c8d2478abccd20e2a5e2d410]
+        ├── t5.vom [3aab382dd4d62bfaad98803fa2fe112dc7d59f3b5e442811f0b0c444ec128876]
+        ├── t5.vxe [760a4bda851ae40a195dc2b76225f3209b42268361e737633f25ff55f102fe68]
+        ├── t7.vom [b193a374ce3887fe7df7a4c94896bd9be7465609edea046b37d90265547ad348]
+        └── yanktp34.vom [157f4694feb217e66b1d401321e6c0493bf7e614eaccb3463a5f6af8b05f7d75]
 ```

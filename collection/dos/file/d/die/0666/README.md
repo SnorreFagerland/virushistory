@@ -3,22 +3,22 @@
 
 ```
 ├── a
-│   ├── die_666_-001.vom
-│   ├── die_666_-002.vom
-│   └── die_666_.vom
+│   ├── die_666_-001.vom [689e7be85c69c887c0454db95dd34f32297ac52855deee1dd6952c2078c934c5]
+│   ├── die_666_-002.vom [fc493563eb7e473d8f28ed060aece3ff6e060285b194267887594e444ad21b26]
+│   └── die_666_.vom [67b1dd86806430c19bb5306825cb84d7288cdbf90512f7658f1e02d8cd7adcad]
 └── b
-    ├── elite666.vom
-    ├── grep.vom
-    ├── keyb.vom
-    ├── rce-666.vom
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t2.vom
-    ├── t3.vom
-    ├── t3.vxe
-    ├── t4.vom
-    ├── t5.vxe
-    ├── t7.vxe
-    ├── t8.vom
-    └── t9.vom
+    ├── elite666.vom [be2b1a27cd421a06a2432cc67f765d843e737f1ee86d13157f0bf16083c67c6f]
+    ├── grep.vom [c45307ea0b8a7c9a50df639577c3cd5af8c3864246f0a1f669ec6c0e34617bf7]
+    ├── keyb.vom [7477fcb742a6eb0c61e3f52fd5928a800657402ebec70e0bc77c86b73754079c]
+    ├── rce-666.vom [074f4cd14238618d918de5f3967dbcd54e58f6d5910dc2ae453dc921cec07606]
+    ├── t1.vom [b1540671149a93e640585093836df3c1397565b51754417ade5d90845dfc6453]
+    ├── t1.vxe [e251c911589034917571a7c63b03f5f97cea27b57d78d550d6a641bfa3bf7319]
+    ├── t2.vom [bf1534e3e68f9a979423a78a0a321b6dd62a3c6c9e9d35471ea128a87304c792]
+    ├── t3.vom [1f74ce91fa00c470977911f38063a6bc0209c489923662b8783f417a65f71168]
+    ├── t3.vxe [dcabcb127c463685114df387f261a6aeec403cef66fd5fb47bff8ec1866f7392]
+    ├── t4.vom [d23a0a318a685aac55a82b8ebde038127a62650a1e7fdad9118ab284b5a59460]
+    ├── t5.vxe [017d0a1c29eb8d0497ed35c266808ef6e5d8074133fb7177c6378652a5aad034]
+    ├── t7.vxe [72f1140ca10438dd6834b4331ab84676f1eb66dce8763ecf4ac6275af090fd12]
+    ├── t8.vom [1146968cdde0cd1923d9fdebd433e08a515a169eb9f2e94ff44db78806b1265b]
+    └── t9.vom [737c7f3ff81b302b63ff6e90c7f7022e8b4a0cb5f0815049973bc20030da2659]
 ```

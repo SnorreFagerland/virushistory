@@ -3,69 +3,69 @@
 
 ```
 ├── 2169
-│   ├── m1.vom
-│   ├── m10.vom
-│   ├── m2.vom
-│   ├── m4.vom
-│   ├── m5.vom
-│   ├── m6.vom
-│   ├── t10.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t9.vom
+│   ├── m1.vom [7ff9b498b9a3b51087683e03151b3605e8c464b08812b9b18d9a217f5f9b1e72]
+│   ├── m10.vom [8e4e6d626c9b4d2c55fd674768d897f695aff5e981a5bc95a54288ef6a0259cc]
+│   ├── m2.vom [2ffad397452f07666f2b2c22e2fd0f26fd4267d08851259dade0e123492cb463]
+│   ├── m4.vom [8076bbf1cfc5a44a0143583cfee9a7a33e0d0418c2b930632e95abca111d53c9]
+│   ├── m5.vom [519c88c32715bf0754e7a631c714cb2fc4fa117c724eff0b641580bd31c04053]
+│   ├── m6.vom [9b2a118ca861cfe72e216f562a5388dbcb05313e6841f4ab83b03048cf8f84ef]
+│   ├── t10.vom [4065d27d60ed5157b7b1a3909bc9b03f2f8b77d1032a7ad6386525fc22a39b66]
+│   ├── t3.vom [481d790ac175e27d2fdec51c93b29db312ffad40fc174fca87b250e34a380a39]
+│   ├── t4.vom [0752a340f1b3d8af7261e8bfa895229f77be4fbb866a89b1fc7dfee7fcc3246d]
+│   ├── t5.vom [433e855623895a5e30ac7bd6d1bac60e3d89233b81f37c7bf99c53ccf4e84d21]
+│   ├── t6.vom [94764f43273dc489c981bb7380aff0985c7cc50ef9203308630bbf9be326c1c3]
+│   └── t9.vom [f32b63bbf5557c814dd7ce373eec70688414301fdd502729cab0cb1e7366b1af]
 ├── 2582
-│   └── virus.dos.cryptor.2582
+│   └── virus.dos.cryptor.2582 [0c525d15a6b9c7adaf4a8fd25982f84ee52b1d3368d77eb9feac0fabcb0a0515]
 ├── 3049
-│   └── virus.dos.cryptor.3049
+│   └── virus.dos.cryptor.3049 [fc256ab4b5ef02c143a34de896300893cc0e41971848570ca9f53b69a9b6dc99]
 ├── 3166
-│   └── virus.dos.cryptor.3166
+│   └── virus.dos.cryptor.3166 [178b60e9b02b912d9c5fc688f1f759d903a95814d7758cce7570539a974175bb]
 ├── 3216
-│   └── virus.dos.cryptor.3278
+│   └── virus.dos.cryptor.3278 [0ef97d025d437ef5f63a948700eed1a46356a1e04272b588053953ef6438d520]
 ├── 3612
-│   ├── cryptor_-001.vom
-│   ├── cryptor_.vo
-│   └── cryptor_.vom
+│   ├── cryptor_-001.vom [56c93e0899d7418493b6a054e97c59c327426b807bd4bd52832bddeb66ddb5e5]
+│   ├── cryptor_.vo [7d1474e31c92c3a95be3bf4bfe848f909aa367bb8984824419268b9bc3befcfa]
+│   └── cryptor_.vom [a2193e1c570dc5ea9e904bf45222a4717bc5d2ea7b1dd417adc24dea2d83db03]
 ├── 3728
-│   └── virus.dos.cryptor.3612
+│   └── virus.dos.cryptor.3612 [dc23d4dc6122dc0ad39a2c01d43fb8735753c44fcfcc1e51842c34d051102a0c]
 ├── 4500
 │   └── a
-│       ├── UUENCODE.vxe
-│       ├── f-prot316f.txt
-│       ├── supd4500-0.vom
-│       ├── supd4500-1.vom
-│       ├── supd4500-2.vom
-│       ├── supd4500-3.vom
-│       ├── supd4500-4.vom
-│       ├── supd4500-5.vom
-│       ├── supd4500-6.vom
-│       ├── supd4500-7.vom
-│       ├── supd4500-9.vom
-│       ├── t1.co_
-│       ├── t1.vx
-│       ├── t1.vxe
-│       ├── t3.co_
-│       ├── t3.vx
-│       ├── t3.vxe
-│       ├── unp.vxe
-│       └── virus.dos.cryptor.4500
+│       ├── UUENCODE.vxe [ed961b61e9c3673074593b9ada73ebefb67e07b2c3c22cea71734a287c5a665f]
+│       ├── f-prot316f.txt [eb27443c4b297db3d06f4143fd59bf46fb5a99efa90db13ade7a9ce889b9318b]
+│       ├── supd4500-0.vom [9cf2e61218ef41ed0605c24ef337e10e9ebd89519d1fab2f1b41b635527be285]
+│       ├── supd4500-1.vom [312a8d2a88d8e58b967c93f4926a6f8a69d5b9ae7833b5b18610c1f794c5448c]
+│       ├── supd4500-2.vom [3828da07578c89b1a39c049baf8db7ba41f9321fa92d8d5fe494c40fd5d826a5]
+│       ├── supd4500-3.vom [e9c65d3a504d267558eb891d1053a78d1d8d043908334eed6999739d8dbb3913]
+│       ├── supd4500-4.vom [f2f8011c60a4f9e95f277c5f7e8694da90a1e5384babe5e7ad330287507518ed]
+│       ├── supd4500-5.vom [cae73d4ffa3b30759f9eb01034133d931e67d7bc3f63e134dd07ce6b7d7c2bb6]
+│       ├── supd4500-6.vom [a5ea0b4f27d05409c9af97f226e28d2073afd1f537be2ae3c77540fdb51309e2]
+│       ├── supd4500-7.vom [ecf114333f9b010f6f6534532f9340c8c6bf138dc65b0f1e169f73a4738d1b2b]
+│       ├── supd4500-9.vom [071239905b5afbbb8c7c1e9d4e2f86612ce61694b2f593374e9f4128f4f0ef16]
+│       ├── t1.co_ [bfbbb6df7dbb3de43c7683901948ec6ae17e975a9453549660b724910ea96788]
+│       ├── t1.vx [242fbb779fd0b68e4746ef6091067a4f3940a97252f471fcc8d25f165af316d2]
+│       ├── t1.vxe [9e018f90f14bd25f09c1074444c84bc183a1b61a0b347c2d60d496cac456200a]
+│       ├── t3.co_ [d77784a806f7d1c7b177b1542ca542076da9cd9701af0a0a1739b7cffb315f53]
+│       ├── t3.vx [f02781900d5bf41249daf01bce86a38f631d3b76cc151ce791bda20f63773545]
+│       ├── t3.vxe [204b2eea2320863d17f5e6246095a647fbcf25ab43c63d315d22e485f14d966c]
+│       ├── unp.vxe [025153094de9b7bee10e7c12037d546866a76116da356ca2a2137a6c88ec5f8e]
+│       └── virus.dos.cryptor.4500 [44649c5dd865e842abaeb76a27d8a73528ce785dd4d5e31fffb952e8fe5d2c62]
 └── 5245
     └── a
-        ├── cry5245-0.vom
-        ├── cry5245-1.vom
-        ├── cry5245-2.vom
-        ├── cry5245-3.vom
-        ├── cry5245-4.vom
-        ├── cry5245-5.vom
-        ├── cry5245-6.vom
-        ├── cry5245-7.vom
-        ├── cry5245-8.vom
-        ├── t1.co_
-        ├── t1.vo_
-        ├── t1.vom
-        ├── t3.co_
-        ├── t3.vo_
-        ├── t3.vom
-        └── virus.dos.cryptor.5245.b
+        ├── cry5245-0.vom [94ed1e3a13700f0cb26c158af9bb7cf2505cd7a36836ff802c31a4be919914a3]
+        ├── cry5245-1.vom [e5625d461a0fc17c23d89c5ce6df13c3a95c2fb724aa1b026a96439f093dcd03]
+        ├── cry5245-2.vom [61d247f785b724e7ec46f31e9ef670706a3be7df96a8afd5ae09f87c0ae43404]
+        ├── cry5245-3.vom [de52ea289d9695306aae6bc186dc794c86beff9f56c7e9c44d0843f824878906]
+        ├── cry5245-4.vom [3132509dffc6e1fc85a35d5b82fb974b79b02419d7fababc6bd3a2511db82f34]
+        ├── cry5245-5.vom [1b35ef45dcdc78f184974556f00cd7bd73f99b4b16f2b3d9bbd8bfa0dcf7dbe4]
+        ├── cry5245-6.vom [b560404ee7a5dad7689820d568cebcf09e984397119018970b4df9068f65e891]
+        ├── cry5245-7.vom [5650b28cf22d010dd685f34cc56f7baf5812ca773f83b7d5cf65f9588334c081]
+        ├── cry5245-8.vom [aa7eaa03e550d00343632571a9379ecb940bd3840f687f5bbb69de540c1e3dbb]
+        ├── t1.co_ [79a1cb4f9b486414945047dec4e3a6bf43ac125bd5f767bf3404cd3ff63c6dcf]
+        ├── t1.vo_ [c4798ecba2b191acb495883df81f832a10894ba8803ed4ef30ea6a04287c835c]
+        ├── t1.vom [01d6c6af0ae7abd3991c5a684ed736db01cf19020a69fbb614f7a5812a8d58f7]
+        ├── t3.co_ [8d6bf6005c7115cbe4599b2d835d237c90f1d1f3237a6993af625472356722df]
+        ├── t3.vo_ [5175465d9af5ea9a2c2f5e36ab7f090e5dd69e1c384a4d392242b6f3685b1bed]
+        ├── t3.vom [fa06fe4b581e6f899aaab60fd0c705398dba258a7bd66c7c6529f0bab3b7b77c]
+        └── virus.dos.cryptor.5245.b [dac346b53062e109d7cc8cd21bcb3571a2dd86c6a5bc212c0130d4473a7b75d3]
 ```

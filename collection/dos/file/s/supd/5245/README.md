@@ -3,20 +3,20 @@
 
 ```
 └── a
-    ├── cry5245-0.vom
-    ├── cry5245-1.vom
-    ├── cry5245-2.vom
-    ├── cry5245-3.vom
-    ├── cry5245-4.vom
-    ├── cry5245-5.vom
-    ├── cry5245-6.vom
-    ├── cry5245-7.vom
-    ├── cry5245-8.vom
-    ├── t1.co_
-    ├── t1.vo_
-    ├── t1.vom
-    ├── t3.co_
-    ├── t3.vo_
-    ├── t3.vom
-    └── virus.dos.cryptor.5245.b
+    ├── cry5245-0.vom [94ed1e3a13700f0cb26c158af9bb7cf2505cd7a36836ff802c31a4be919914a3]
+    ├── cry5245-1.vom [e5625d461a0fc17c23d89c5ce6df13c3a95c2fb724aa1b026a96439f093dcd03]
+    ├── cry5245-2.vom [61d247f785b724e7ec46f31e9ef670706a3be7df96a8afd5ae09f87c0ae43404]
+    ├── cry5245-3.vom [de52ea289d9695306aae6bc186dc794c86beff9f56c7e9c44d0843f824878906]
+    ├── cry5245-4.vom [3132509dffc6e1fc85a35d5b82fb974b79b02419d7fababc6bd3a2511db82f34]
+    ├── cry5245-5.vom [1b35ef45dcdc78f184974556f00cd7bd73f99b4b16f2b3d9bbd8bfa0dcf7dbe4]
+    ├── cry5245-6.vom [b560404ee7a5dad7689820d568cebcf09e984397119018970b4df9068f65e891]
+    ├── cry5245-7.vom [5650b28cf22d010dd685f34cc56f7baf5812ca773f83b7d5cf65f9588334c081]
+    ├── cry5245-8.vom [aa7eaa03e550d00343632571a9379ecb940bd3840f687f5bbb69de540c1e3dbb]
+    ├── t1.co_ [79a1cb4f9b486414945047dec4e3a6bf43ac125bd5f767bf3404cd3ff63c6dcf]
+    ├── t1.vo_ [c4798ecba2b191acb495883df81f832a10894ba8803ed4ef30ea6a04287c835c]
+    ├── t1.vom [01d6c6af0ae7abd3991c5a684ed736db01cf19020a69fbb614f7a5812a8d58f7]
+    ├── t3.co_ [8d6bf6005c7115cbe4599b2d835d237c90f1d1f3237a6993af625472356722df]
+    ├── t3.vo_ [5175465d9af5ea9a2c2f5e36ab7f090e5dd69e1c384a4d392242b6f3685b1bed]
+    ├── t3.vom [fa06fe4b581e6f899aaab60fd0c705398dba258a7bd66c7c6529f0bab3b7b77c]
+    └── virus.dos.cryptor.5245.b [dac346b53062e109d7cc8cd21bcb3571a2dd86c6a5bc212c0130d4473a7b75d3]
 ```

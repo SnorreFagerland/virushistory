@@ -3,21 +3,21 @@
 
 ```
 ├── 2962
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── virus.dos.tsunami.2965.b
+│   ├── t1.vom [d34be0415a855b44edb45825a4350880807813471eb868ff40a4e71fb5665c5c]
+│   ├── t3.vom [3fc2c3316d62ee1902e629db72e790448fd26e9c8b5e87ffeaa08ba5235ea92f]
+│   └── virus.dos.tsunami.2965.b [08a7d18b811a31b32b12419705fb8852fdeead5370a652b9f7d6a9f247120757]
 ├── 2966
 │   ├── a
-│   │   ├── DUMP32.vom
-│   │   └── virus.dos.tsunami.2965.a
+│   │   ├── DUMP32.vom [4978741755c5c2010c3fe21817836176d1708584a852a41145f836a81adad991]
+│   │   └── virus.dos.tsunami.2965.a [7c196b00d08fc448e21be61d1970f4aa29bd901a88f7c3e3f49eab8600736abd]
 │   └── b
-│       └── tsunami_.vom
+│       └── tsunami_.vom [0793c7aa9f5759be65031421191a9864b5bf4e4820a030a352c49016ab9063dc]
 ├── 2974
-│   ├── t3.vom
-│   └── virus.dos.tsunami.2974
+│   ├── t3.vom [843cf0128bbc46ed222feed7e2e93e5e2050d29a0b5f45ac4c14357e98ac3e0b]
+│   └── virus.dos.tsunami.2974 [a0294868e7179eca19d56d43256c603a5995f6f16c9669b1280a8901e0460d88]
 └── 3008
-    ├── DUMP32.vom
-    ├── t1.vom
-    ├── t3.vom
-    └── virus.dos.firestorm.3008
+    ├── DUMP32.vom [b4fd80f05ca200b953ca23b8ff0f2c6b8b7070ab3c7d9dfb569ab735d663c660]
+    ├── t1.vom [bc70c1c21fe4e3ccc0dda8389710ccff42fd22a79602f97fda74377176db8455]
+    ├── t3.vom [2d1f440ea171b165a83fd160329fb3b8f00fae51800a7b7bedc6b6a3bcf0ab52]
+    └── virus.dos.firestorm.3008 [7bd86a33be65be369b45527f5d10b648aa354b84f459b45f54de7f7763f014c6]
 ```

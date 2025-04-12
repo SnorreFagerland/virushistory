@@ -4,103 +4,103 @@
 ```
 ├── 0429
 │   ├── a
-│   │   ├── beast.vom
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   └── t4.vom
+│   │   ├── beast.vom [2c3f6d955e89349088f5bd839ba87e5ec3436640b7a03e473778da9a81d0f7d3]
+│   │   ├── t1.vom [0759178fcbf20491d239f28fe766ce2d737e083d2458e02f2cfd7bfb0016164f]
+│   │   ├── t10.vom [a18c598e2e4dc5606ccfcf95007b3dd192caee4c0d1ac00891b8666508c6f154]
+│   │   ├── t2.vom [485d079ec337715f56610fbcd80fae311f08b2a4478bdcc27ddb159174fb5f40]
+│   │   ├── t3.vom [b8435b4a12bf58fbf4bd0c35de1d923193f23abfd2e0b850859f01c9f0ab47aa]
+│   │   └── t4.vom [8185fc0337bc0f5023c3da8db3b210cb9e50b1791e88b54bd07fb4450aeda5a5]
 │   ├── b
 │   ├── c
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   └── v-bnb-c.vom
+│   │   ├── t1.vom [e6283ee92ea0e614a106ac697f225f0372079d02cd93d74e07cfd4cf4fbe65cf]
+│   │   ├── t10.vom [0d3a74af823e580956d88026b4851b84767126964be4b7c468d1fcced7ce8778]
+│   │   ├── t2.vom [8400fdc9f4b37ee2227b6138d0e788bab0c922c4a2a41fe3c482cded284d5197]
+│   │   ├── t3.vom [8b044a061e4ad572a083a1bdbd4d709d9c024e95c7b7b768d05eddf72893e44c]
+│   │   ├── t4.vom [8dd49977024fe01cd20d068fb7f207cc555feea0bfcd90a531b654a9489dc29f]
+│   │   └── v-bnb-c.vom [93f886e4728b15c568420d8ad83653823ec350771fad3457798747a2bac6095b]
 │   ├── d
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   └── v-bnb-d.vom
+│   │   ├── t1.vom [3fe7cab3629f16956115284867f379ea1b8242428ca1bad85930d1a626a2cc5e]
+│   │   ├── t10.vom [efe8de32285ac692e512c869c11ff8b3d0e49bbbc9df2683723f9922095a08f9]
+│   │   ├── t2.vom [7cf31c245b029282db1b5387c35eea16c577ae7ee78fe97417b219ae15a90d94]
+│   │   ├── t3.vom [5c34efc063a6d4825f7d566a4c199a12278b5ce170326acb3c7641fdec981a17]
+│   │   ├── t4.vom [234fe8239163a303c6e334c90c7361ca900c5be68203181bebc113a06e1e5aa1]
+│   │   └── v-bnb-d.vom [9ff3b9cdd6591cb782cbda809af714fe7ecfbeb9e8debc5246c85cb8a91f25e7]
 │   ├── e
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   └── v-bnb-e.vom
+│   │   ├── t1.vom [286d8874b495a2d60cd8da9168f1aa885c0db8459693f8ff5aa70b14ae924ad0]
+│   │   ├── t10.vom [72fd5c387312e0d0f0933e27bc8665e5614d3d59f782aeedfc7f43e9f1ded9f9]
+│   │   ├── t2.vom [5fb94d9143555023a172541656f391af9c576a1589a40f64f979a6135be21143]
+│   │   ├── t3.vom [fe2b2716a7f7457a5837c88cec8ef2c2f6cbb30544b025d08ffa39d721ce84ff]
+│   │   ├── t4.vom [9c960e6b96ed10dd7d2aa4fe8c4da9de25bc1ab6c194eae24dd0311acca10d7e]
+│   │   └── v-bnb-e.vom [23401ac610cd514674d4c77b621db28ed3ae7bfefe8b3e43cf9044a408ab1eb3]
 │   ├── f
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   └── v-bnb-f.vom
+│   │   ├── t1.vom [9f09653bf23e283da903d2a21b36cb10613e9afc4aeafb226219347ec5bdaa26]
+│   │   ├── t10.vom [136c339481b02192b3c22b7df4ed2362ffa181828c8051bb737ea68e0997ca36]
+│   │   ├── t2.vom [59039e5e9e0fbe4dd3bbb780540c7047e329fd98b42958043c8ae4fbccdd118c]
+│   │   ├── t3.vom [00995b5458f6514c1554702302d9cc171dfcb43cdbdca5016582f21ddcdeaee1]
+│   │   ├── t4.vom [7319e40931e1207557e98821e530da4b3c93e99ffcc575b349eafe3a578251e1]
+│   │   └── v-bnb-f.vom [9e103e0b304ac5795fd68d83b1ef2ad275e87f2cc50956fce654102a9da5e06d]
 │   ├── g
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   └── v-bnb-g.vom
+│   │   ├── t1.vom [f47fdcd279a75e38b49116d3fe7e5f1e26236052001b5520fd93b0b59a5e85f4]
+│   │   ├── t10.vom [88f375689bd8b97a86cba1d581b1733a74f44d4c7025ed071370057981d5b235]
+│   │   ├── t2.vom [879c5afc74f666bec45e2a95e7caadc299147bab6438016ef7150021e3ee1a87]
+│   │   ├── t3.vom [f5dfd954376f60a3106cf40715ea0581ccaeb75a6e9c1637b6f73b9f491e50e5]
+│   │   ├── t4.vom [19a8e6b3503d08a2084df8b9dea51be1ace96d8bda73a8fd1cfa841233969e6e]
+│   │   └── v-bnb-g.vom [f1e026f2b76b674b0a6f9cd2b420e52ce2b3eb3f1d1d3576f31a5b71c9b4e2a0]
 │   ├── h
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   └── v-bnb-h.vom
+│   │   ├── t1.vom [8ca17d69b34e063f0f933dcb4465b6c9cd133e929281ad08e5a9d21e8f21a651]
+│   │   ├── t10.vom [41552de039c5d2e9cb820ac7900830fa0b636c1a709b243314855411348a33a5]
+│   │   ├── t2.vom [42162b58807a38d3c47955dbfedb65ab4dea2c91527d53887c6e43fb7a15feac]
+│   │   ├── t3.vom [ea665edd413655d9d214086b1f165db165a89d0f6eda7e0940473d5e33d7b99a]
+│   │   ├── t4.vom [3867214d5c2b4e22e743e240d7ff0610fa8379cddfcb1604927d27bd92e674ca]
+│   │   └── v-bnb-h.vom [da7d2743bca12ba00f9ef1ce2a36486daf9abf71b9dea333cefcf1f6e82c3b9c]
 │   ├── i
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   └── v-bnb-i.vom
+│   │   ├── t1.vom [54c37726240fb0dc15a2043fcd57dca9322224301a60a456611eb800c87d5254]
+│   │   ├── t10.vom [3d25fef974fc6e8a0af3312bc5f2cd296fa7525910ca37b952342b87fb88df05]
+│   │   ├── t2.vom [2d28f78f00400e0b34d326755169d8212712e28d8602b682c04da475651716f1]
+│   │   ├── t3.vom [d2256c4fe4ebb05ef5813bd4df16e2ae3fc15970c754a9dfc39587136a389eab]
+│   │   ├── t4.vom [8f4180c409a0e198f34427e57ae21cb04c77d12322bdc5481cb14e79015fff94]
+│   │   └── v-bnb-i.vom [d6c2aedf25ccc5bb68df32b14d779316425c84db061bb16515045ed4f9ad1e65]
 │   ├── j
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   └── v-bnb-j.vom
+│   │   ├── t1.vom [8840f94a6f7999c5d74ccaa1a2033f9806426999fbe95d796882ee79070ffeda]
+│   │   ├── t10.vom [e741182cfe73838f102aca8f56977ec65e9adfa84aca31195df92f7202008647]
+│   │   ├── t2.vom [ae95137525e34adf03e5a0da75e6c5c217b29fe9c71800e55a6b2aaab562af21]
+│   │   ├── t3.vom [808a9fbbad41f02ddc34641ed1844ad7e981e80c38f3f482f2e7edbc43d8a2a5]
+│   │   ├── t4.vom [71389695ef96c4ffb6bc403c104e77386f8af682dd60d05109c73fbc23de637d]
+│   │   └── v-bnb-j.vom [7d21ddd54af8fa73778ba89d5bed202628436d48d62b825fb1244a25f813dd85]
 │   ├── k
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   └── v-bnb-pe.vom
+│   │   ├── t1.vom [6e86194f27d09f6963804816df22a8b7782f6b194cd9fd7d1d03c01cfc4bd13f]
+│   │   ├── t10.vom [294ba6b6635d4d28a92c5d9ccd2d5ffa3c27ac14a06e9b8e6aae3b44a4b1acaf]
+│   │   ├── t2.vom [f4bc06caef174c0cb0e40de100f63f9b00a4aa41089be750694f2b0eb97f22cc]
+│   │   ├── t3.vom [7797e72a04f87eb8b226657be4ceae9624fc76ba726b7459eff67d5ab22e37f5]
+│   │   ├── t4.vom [6beac1e087f6825ce815b24b4637b93772e2f4f677dfbb6be1af8b87855459c8]
+│   │   └── v-bnb-pe.vom [f19da4a4d3f59d808215d82f9e4dc001043bb2e87933945efec0e934cb4fc4b8]
 │   ├── l
-│   │   ├── pe#1.vom
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   └── t4.vom
+│   │   ├── pe#1.vom [449b9b00d9e2c6b7c16d31237434a6866ceefb4de69bfd7c68d192ea49bef1af]
+│   │   ├── t1.vom [f4c83aa3891dacabad2910f4727b440e910ab6cc5b707c67a23be2267c75c97a]
+│   │   ├── t10.vom [c172ce2805d9b6ec4f19051447b10f94758d87031be5d5d1b8e208241ecbe7fa]
+│   │   ├── t2.vom [fd7c0379a3b2b8f29dc1655bd3fb292a122e67d7d2639d1a8a7a94fde766da45]
+│   │   ├── t3.vom [0ceb09d32155ad880aeb9782feed57dc21d3a5c4ac71f7118fd427dc45b85c04]
+│   │   └── t4.vom [092166428af388a71bc64f56eb1f970f2770d9e5ce37012fa4a892803a0990c8]
 │   ├── m
-│   │   └── virus.dos.vienna.bnb.429.c
+│   │   └── virus.dos.vienna.bnb.429.c [2686c0557dddc45781b5dbb7c7935a8888e30c6f5c84d1074c170b23bfb5d38d]
 │   └── n
-│       └── vienna_4.vom
+│       └── vienna_4.vom [0719a1b8f396673fc566a755f2c9e7edb54150e42d14b56f2a0f8e85989e9fb9]
 ├── 0498
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   └── wci0606v.vom
+│   ├── t1.vom [9b7de3ae249bd130e8abe4a5eb00b5aaaa65b26e281cc6cdc04721deb1ffad47]
+│   ├── t10.vom [0052558e0ae003702396bdb2768045de064c5ee5655b1131460aaffce8825238]
+│   ├── t2.vom [66d7ef341a440a7cdcaa476cb19e13140a099e532b5c3f2cc35331a734064b31]
+│   ├── t3.vom [09264d551ca5ae5ca163b72625a5c4b5f9d2211f30a0653ba2abe8be74049191]
+│   ├── t4.vom [521dcb1d00ab2d0fdd031d220c43fd0e77676ed95675b6c3119f94887408d257]
+│   └── wci0606v.vom [923179781bf05439c4c6171ede6e9bdb74b7a2ab753da8689587483739a0840f]
 ├── 0554
-│   └── c-bnb554.vom
+│   └── c-bnb554.vom [3e7114cd6f99d3c210075613ca12c7a3821dfe0ddc68c00d60f3d0d2a386c223]
 ├── 1278
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   └── wci0455v.vom
+│   ├── t1.vom [47b9a806b93a152f4e63d0ce39227b44ef4b3f64f226b5b0f9c64b0e06c3ea58]
+│   ├── t10.vom [c3116a8651ac5b2b7c801f4c7b6d12068e54ecccf15ed6b9e9a39bdd26f653bf]
+│   ├── t2.vom [e5a7c1e86b748d44215333fbe179d5d464853d6970859957da5c0a20ea574643]
+│   ├── t3.vom [ceb04ab4f87093597ef65f27d95f9188ac9af4d1352e438629ab534cde61debb]
+│   ├── t4.vom [665c02e9c710d689cfd13259b249227f8f570f671cc3c58e94d772bfe901db41]
+│   └── wci0455v.vom [e7ca60decbaa707a16e366ee50ddd9c9183e246372d78d82400479ec44df3b86]
 └── 1427
-    └── virus.dos.bnb.1427
+    └── virus.dos.bnb.1427 [3f3f333875b7d0f69e23f07db7fd4e6d1d9fe789de1a9b7328737739f60cedf2]
 ```

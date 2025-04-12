@@ -3,34 +3,34 @@
 
 ```
 ├── 1029
-│   └── wd-m1029.vom
+│   └── wd-m1029.vom [539c7158111ca6752d5fc5dac0ace45b9bbb109a2984e701d66c03705276562e]
 ├── 1087
 │   ├── a
-│   │   └── wd-m1087.vom
+│   │   └── wd-m1087.vom [8c349dde44dcbb928642aa5021b385b3fad38576e957096c4c4e9b7b01d5b70f]
 │   └── b
-│       ├── kstro_10-001.vom
-│       ├── kstro_10-002.vom
-│       └── kstro_10.vom
+│       ├── kstro_10-001.vom [ca5713ca3ce331a46ab2de724d2dcc52d22acab8a144dd2370bd0131ec006c5d]
+│       ├── kstro_10-002.vom [aecb50027fa9cfb2d0cf79a38b9e4c578f6d767e0708bc97888d14e33f780826]
+│       └── kstro_10.vom [44039ce9cac8a80a65259c82fdd21f99f8ea2d9607a996db5945f7d6a85d1a8b]
 ├── 1324
-│   ├── kov1324.vom
-│   ├── kov1324.vxe
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   ├── t7.vom
-│   ├── t7.vxe
-│   ├── tf.vom
-│   ├── tf.vxe
-│   ├── trojan.vom
-│   ├── wand1324.vom
-│   └── wand1324.vxe
+│   ├── kov1324.vom [11d94d27b6ce5508d53540925dbd190160fe6a23f9fbd8823462ded39e8a24e1]
+│   ├── kov1324.vxe [b68cb238860f765502e1d22055c0a2a3e986ef71cbdda7d037b4230ded25abeb]
+│   ├── t1.vxe [d297114ef249d39bad65c565f81975dfef07e0b01cb28f75819391edbe141166]
+│   ├── t3.vom [0f84ca7e8a3f59ba352043851483ee55cdec66a34525b2c95bbd29036812a76b]
+│   ├── t3.vxe [c33d2190d036f16037e8aa19d2029443e4c2be6a7693487003ddc2e23f96da99]
+│   ├── t4.vom [9a3ddb051ec350d7928446c18621b32f0510a70d08fcfa29e345be166b4a1332]
+│   ├── t5.vom [03a5d759ae364b83c2e6e49f7fcde885f1fa01c3014efb79f0ac792153c1532d]
+│   ├── t5.vxe [fc76ae40c19b3df59f81e4dac319953e802be4de793e884c2d1b32da261238a5]
+│   ├── t6.vom [759def2cba3165570e54f12b2cb414e17a85cacb33ab60e5c0e6afce9ca64880]
+│   ├── t7.vom [7e81303886f49c770a56645919a74dd7aae98e4fd1085253c68279e360974361]
+│   ├── t7.vxe [fd084072bdec5fb4cd6afff0120b796ed3aa53ee176b8125fbfd21bf9462b06c]
+│   ├── tf.vom [dd76e961a66e1d526c1e3603d5876b49f877f8850992bd6170deade80a48f45b]
+│   ├── tf.vxe [497b95735c1bf0b7ac73735ced95b0e3da815e28f2ed3e7dafdc8e6ef95efd0f]
+│   ├── trojan.vom [52a2bfa009559518cc32917fff32c8ffc4cbe77a5d3ea654d070bbf587b26b9d]
+│   ├── wand1324.vom [cfb086543f26a479748277f469eeb734751bc93422db36efdc0bc3aa59fae996]
+│   └── wand1324.vxe [0c4208a4873a147b93d96d99280178c7c8db3a6787292de9d6e2f391e727cd16]
 └── 1332
     ├── a
-    │   └── wd-m1332.vom
+    │   └── wd-m1332.vom [13838af4e7ebcb4059dc0dd952e1d8add75dd1767574929bd80c4002437a3881]
     └── c
-        └── virus.dos.kov.wanderer.1332.b
+        └── virus.dos.kov.wanderer.1332.b [50368522d07addc0a4b94cfa0e3a93e3b67996501d62f014f0f7c5c218b7e706]
 ```

@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   ├── pixl762.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── t9.vom
+│   ├── pixl762.vom [aaa4c4a093ca8fe1f93c9726f2c150f9dbc50e82f36610edc83e2e8f85792fef]
+│   ├── t1.vom [8978472db72816a37a9f953480b41a36276092ad346ad1df938d381b1ea861d4]
+│   ├── t3.vom [46c415df10d3f72e5076cac16525db548b0d6e0f2b41ec4a139a32bc34dc4c72]
+│   ├── t5.vom [de340280394a7a052a0c27bbbd4df1e1fa78947de03b1bb1252b589f7cd74add]
+│   ├── t7.vom [b7b2ae6c452b2d5bdd69a7302954332d9f9135459637778e3c16db824d764648]
+│   └── t9.vom [739f0a1867cdd074b9242046cb2386755c5bf6db6bf40097643ad3b2b2f2ac14]
 └── b
-    ├── grep.vom
-    ├── t1.vom
-    ├── t3.vom
-    ├── t5.vom
-    ├── t7.vom
-    ├── t9.vom
-    └── wci0151p.vom
+    ├── grep.vom [4a30f1876d49cb90dd1f34c614b4e48dd3a097427eaf01254fd0f5261bf9c64c]
+    ├── t1.vom [dfde16bd71347c61e894bed0f18a016681d3afab90ffa21f7980292d299d1015]
+    ├── t3.vom [4917e9ccdb8bdb8069c2ae7a66aebb09749963a54a2f4bd2ad705640130e326d]
+    ├── t5.vom [23396e5266b0599f43ea3ab5254bf7b10ca7c8e5be85b23cdb6466b7e04df482]
+    ├── t7.vom [9e73d86ce2fc9591dad86805daaed10a4e5121b8b9bf52db5f88e3ec1abad44c]
+    ├── t9.vom [3585eb9f4980453d26dca6591eb4564d8b7129ea162c4dc7c863f404809a2aba]
+    └── wci0151p.vom [7155c95f408ba28f995923760be0e4b13a538d213b6d605c2ff1ebb12933e57d]
 ```

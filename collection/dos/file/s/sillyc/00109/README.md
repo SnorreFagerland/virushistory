@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── vs_108.vom
+│   ├── t1.vom [3a16a4b96eed85a334902b51f1be57453d53b5f95b41e7a5125bad23049cff5e]
+│   ├── t3.vom [77de604cf6ed3eea320433bc19ac2281395a44baa39965d2a232446971660556]
+│   └── vs_108.vom [d1813864c8b2f7061a272494d935378f13ed570af175799d83c8b5ea24f90421]
 └── b
-    ├── t1.vom
-    ├── t3.vom
-    └── virus.dos.sillyc.109.b
+    ├── t1.vom [78b3ae57f1e0c87d514a405215788ec3ebad4f7f3a7bdc303c868f575359ed8a]
+    ├── t3.vom [f62f041433a51d6be1d720308f74517ce157f51236f04c064dd2e7d97e4a8449]
+    └── virus.dos.sillyc.109.b [ac5e42b22b9819bb9ef9dbed28346be19e1015d04b25c1d9e5d0cdac00c4911b]
 ```

@@ -3,30 +3,30 @@
 
 ```
 ├── 1919
-│   └── POJR1919.vxe
+│   └── POJR1919.vxe [cfb98a626430ca8ebc661fbb39904ca32c462f7486f1e5a55ffeebbf94e9ed26]
 ├── 1935
-│   └── pojr1935.vxe
+│   └── pojr1935.vxe [c29fa9fabd2f4ccac2544be3953a268c948ee273179a738597ab7c884f1c40ae]
 ├── 1941
-│   ├── pojr1941.vom
-│   └── pojr1941.vxe
+│   ├── pojr1941.vom [4281ed6c1cb6514bf7856d303d45c2776b205dd1fb571836b3df2b5c79b15880]
+│   └── pojr1941.vxe [622fa97cf6b5860c4ee89143f0774b1b64cd20fe62dab3193acbeef9ad7d8804]
 ├── 1949
 │   ├── a
-│   │   ├── pojr1949.vom
-│   │   └── pojr1949.vxe
+│   │   ├── pojr1949.vom [7e616a201e62076c309c7f21362eb56df9db5a056a4e6c4048fdb4fd4cf87dd7]
+│   │   └── pojr1949.vxe [474ffe9b42ac82db57f8c0b39f24b792c4bc258dd577fa4fb7763d513ce30aa7]
 │   └── b
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t2.vom
-│       ├── t3.vom
-│       ├── t3.vxe
-│       ├── t4.vxe
-│       ├── t5.vom
-│       ├── t5.vxe
-│       ├── t6.vxe
-│       ├── t7.vom
-│       └── wci0229p.vom
+│       ├── t1.vom [fa19c81a00e88de7578e8b570328256d318b14922335d97285c1b24157cdc943]
+│       ├── t1.vxe [feb7de0e63d0473657e88ca0f1825fced9dc5be65fe48de02af6a2567d1324a6]
+│       ├── t2.vom [b3f1b4c6656f64ee4c568de4427eecf2861d30422ebd2975e3799073738a5918]
+│       ├── t3.vom [51717278e25d8a001bc7b21fe4952ebe8104b91b3f8882df6cc60c1173122fa7]
+│       ├── t3.vxe [665d105e8f18e7969a0a8c63c111fd466a8ebf71ba4024011c53948ea94e2c1b]
+│       ├── t4.vxe [2f3db3a426aa97f16fe76307eb222478ab6151ec032cb503dd2b10e1c2b73aaa]
+│       ├── t5.vom [a5193bc0a643d6810d6012c2e13d3f05369bbedac82e919249adc7cc773828e9]
+│       ├── t5.vxe [edddd29d83c391c3b4080a09fb7235dfc328bf70b5514fd85c9868a36a7d4c8f]
+│       ├── t6.vxe [5c3af7ba5684b5cfed69292aab649d982a58de6eea5e23b9292f786d5977bb2a]
+│       ├── t7.vom [19af57434c232b7babda0eb3bb7b1c4b4722ccd69373535625f76c0378dd5d95]
+│       └── wci0229p.vom [f91102e1fe37a261928898a581ab052a3ca109ae318d9e50e58a6e5bf32c91eb]
 ├── 4028
-│   └── beta4028.vom
-├── pojrnew2.vxe
-└── pojrnew3.vxe
+│   └── beta4028.vom [040097fb7d2725fc3d8b1e08ae48f9ad2b4a9b51cec96785bf7776b9b6180f82]
+├── pojrnew2.vxe [133bc76466f39c074afc5b7f43f49ef39e885ddf6ab2bb08376ece7a8ca2d3da]
+└── pojrnew3.vxe [e3e46d777094524e6961e29c765bfa56d50193a0af08208dc008ca4a2508b258]
 ```

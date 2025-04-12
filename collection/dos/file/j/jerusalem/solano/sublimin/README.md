@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   ├── j-sol1.vom
-│   ├── j-solsub.vom
-│   ├── jeru0660.vom
-│   ├── jeru0661.vom
-│   └── sublimi.vom
+│   ├── j-sol1.vom [85c6ba9682140725e872262bf93f0e9146391766d2199bcc4823af328ef9444c]
+│   ├── j-solsub.vom [390c37230434e767bd8814201594a712ac7c0b34506a4e4567e2ab12f557e60d]
+│   ├── jeru0660.vom [b5da2665e3a613bad9d06a80f1558ce4d65eccafb452239f7d4c4aad6fd12c22]
+│   ├── jeru0661.vom [d6a7284cd87f403517d9d01c792e3314fd8e82df9a5e40b488f393a1fb5af246]
+│   └── sublimi.vom [6b5f593e0980dc00837ed31648c9b90934a8eb94d13d96f6c63a9e4c5db4db34]
 └── b
-    ├── rot.vxe
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    └── t7.vom
+    ├── rot.vxe [d8361b523f018c468e3ff6d4908929b2a4d137149b6104f225468f80227f55ee]
+    ├── t1.vom [d01e365c09791c180aa10e301b53e092c43c585441fee579c8884905172a9939]
+    ├── t2.vom [b708088e04b54275e77b957c7249df075226775ee5ed29498989644ce96b04c9]
+    ├── t3.vom [75bf27425c4e776e5db73b67f1578adcc85b777c28b4728f5e048f97751a1e7d]
+    ├── t4.vom [68314e703ad537daa6fa1acd50215c7231899e1b15f94d25f39044003f2105e0]
+    ├── t5.vom [1849d3a0c3deef5db5ec9eaa6f1ef49064ab138ccac0cf63b5120fb166e7b60e]
+    ├── t6.vom [069d1f74b0ad3ca9eeff79981e4e94dcb6de7166c3e5278be6e959ee09427db7]
+    └── t7.vom [1472c0808c84e74171c6fd11e2f955f08388f0b347333274a671b15f6f2ade3a]
 ```

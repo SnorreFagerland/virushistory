@@ -4,14 +4,14 @@
 ```
 ├── 200
 │   ├── a
-│   │   ├── NETRUN.vom
-│   │   ├── t1.vom
-│   │   └── t3.vom
+│   │   ├── NETRUN.vom [792c9dcd6fbcafe5b98c50b0ea82b0ea81abe22cc2747e2f6c45bc0764f68b3e]
+│   │   ├── t1.vom [3d77e426488d92cb18c3a866d3c0484d49c062afdbbe5352efa3500cf16732ac]
+│   │   └── t3.vom [8e4480c2fc00a9b1679657b9ed52d6e28200c83208b88660f66b01405bdeb28a]
 │   └── b
-│       ├── DUMP32.vom
-│       ├── a.vom
-│       ├── t1.vom
-│       └── t3.vom
+│       ├── DUMP32.vom [ee8a609dcf09465d94b5bf96a71169d3d06107158ebea487d95a5e92b47f5b53]
+│       ├── a.vom [512af29f316009f74ccfd19159aff05fa218490f17fbddeec769e01a30853612]
+│       ├── t1.vom [f906e59386b24b30a58acbc8fb08a320430d8f8e747df0091099d2ddf558a422]
+│       └── t3.vom [9e1dc547d8131c353b38a3e7952711e2d1a649e93924e4251e2735d40a8dcd80]
 └── 209
-    └── virus.dos.hip.209
+    └── virus.dos.hip.209 [9f19b944ffae052f9798dfbc97d8db28ec9cacf6426da2edc5e19b302b605cf9]
 ```

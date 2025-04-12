@@ -3,33 +3,33 @@
 
 ```
 ├── 4087
-│   ├── hh&h.vom
-│   └── hh&hh.vom
+│   ├── hh&h.vom [1ef521e51de79339360b40f35efb195845f19f095d364b4b5e0b8d375b1c8183]
+│   └── hh&hh.vom [f49ddc7d7893d108d09ab2fea0f8955e6238d35a412119a8455b1899c51f081d]
 ├── 4091
 │   ├── a
-│   │   ├── gmb.vom
-│   │   └── hh&h40~2.vom
+│   │   ├── gmb.vom [41253a3dfc7713762ebb0cd9e64a997d36df48da4417376c6433e5017a0afdde]
+│   │   └── hh&h40~2.vom [62494d43d86540a45cb200f73e41f83cc146b38386b1aae105140805cdc18a8b]
 │   ├── b
-│   │   ├── hh&h-b.vom
-│   │   ├── hh&h.vom
-│   │   ├── unk17.vom
-│   │   └── v2855.vom
+│   │   ├── hh&h-b.vom [d24662093539d379a90d95b775ff4fd7f3def4db8b31732dc40e5085f89c7d21]
+│   │   ├── hh&h.vom [9180e382a2c050a7adfe4261386bf0a5f531e88aafdf4dd1b796335ef37d602c]
+│   │   ├── unk17.vom [aae08a6f5b9b60136b3286de6ee0d51c2b40a328c72f39aee1c7408cff3e2c3b]
+│   │   └── v2855.vom [26c3959d66a8a3511da63c5de12aa14f908aefd573767ad1cff895404d6d73f4]
 │   └── c
-│       └── hvirus.vom
+│       └── hvirus.vom [77cb7dcc41c739925c0d83f8f6ab644bf31a21cba14c605ef63543bdd923fd98]
 ├── 4093
 │   ├── a
-│   │   └── gomb.vom
+│   │   └── gomb.vom [144c4958e4402f91094a93079a433cc4cfaae0c4ed9dae62cee3ac598d5c5cd3]
 │   └── b
-│       └── hh_h_409.vom
+│       └── hh_h_409.vom [641f592e7beb809eb765f2f1e8109318c452c5772bb2cd4c141412660df76c61]
 ├── 4115
-│   ├── lwm1.vom
-│   ├── lwm2.vom
-│   ├── netrun1.vom
-│   ├── netrun2.vom
-│   └── virus.dos.hhnhh.4115
+│   ├── lwm1.vom [faab0935f7a0a967862cce33bb76f2871bba0a090a1858d147a1cc310ef92cef]
+│   ├── lwm2.vom [ae3f6477480274fdfea7568f5809b1158987b19adf9d0097bcd35da995e41d23]
+│   ├── netrun1.vom [6dba662cd8f8c3b7bb014b96b7738959ae117773edba3d7b5531192c15616a86]
+│   ├── netrun2.vom [c2f5a2dade99dcea18d9818f8dac026c05ebb5cd44d313259cbe3daab69b9fef]
+│   └── virus.dos.hhnhh.4115 [8563e46be6e20e6091fa969126ed276958be057d08e2710b88569d2e2ab09178]
 └── 4331
-    ├── LWM.vom
-    ├── NETRUN.vom
-    ├── T9.vom
-    └── virus.dos.hhnhh.4331
+    ├── LWM.vom [9fe72f49cace6874cd7b4aa8ed93a485f25c9f443cc15d06d0b7615518651070]
+    ├── NETRUN.vom [8984ed29906022d25546d5fba8e679f2fcb06aa31cb6232b671c96529284cc37]
+    ├── T9.vom [e421778a0134502fbcec69209e9a092821b9d6a1e723041fd95b08b79b1113e8]
+    └── virus.dos.hhnhh.4331 [ad281327bb1332504b37bbaa11474e768fe8f40f6018998308303c664ffee552]
 ```

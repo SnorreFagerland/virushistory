@@ -3,47 +3,47 @@
 
 ```
 ├── 1699
-│   └── virus.dos.cece.1699
+│   └── virus.dos.cece.1699 [8d5cb765b5d42d53ff64fd25068152dd87cbbbfcb860f4f47688ddc9ecf3c689]
 ├── 1703
-│   └── virus.dos.cece.1703
+│   └── virus.dos.cece.1703 [233268ca05e3e8a9b7b3ca052a4e9a5a14d160c31707ebff9ce205c0f3e5127c]
 ├── 1705
-│   └── virus.dos.cece.1705
+│   └── virus.dos.cece.1705 [a4f09a96ad513e35994db2178c1ceb04bf49c22ce9539434d54b7fba4bede4dc]
 ├── 1991
-│   └── virus.dos.cece.1991
+│   └── virus.dos.cece.1991 [5111eb7927737b8503c689d82169b45ed777fd0035338f31a15585a63d276851]
 ├── 1994
 │   ├── a
-│   │   ├── cece1994.vom
-│   │   ├── keyb.vom
-│   │   ├── mode.vom
-│   │   ├── n5000.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vom
-│   │   └── t4.vom
+│   │   ├── cece1994.vom [8d3885ebd6d2d70cb2aba40bd10a11bfe428cd338b671abc36de80a27e9b6b85]
+│   │   ├── keyb.vom [3ba26a6e9ee5d8d7b269621860afe7066563296c001308f8d4135e41f7f2dfe0]
+│   │   ├── mode.vom [9389ba3814352dd5c7ad55791ce740d1f44b21e8907d7e291795678653f2269d]
+│   │   ├── n5000.vom [e1f7a8e5d2a697798babd1a3d15359117803180f973ce55e5f8874a83bcc3deb]
+│   │   ├── t1.vom [b229fb8943a604c998d06a19e5e041c2d1cea23ae102c66cb1955a42a6243502]
+│   │   ├── t1.vxe [dd469dd2e9b0d589375488522d591ed3f6e53ecd286777a6d51f0d7fe440eefd]
+│   │   ├── t2.vom [7cb284a14737438cbc458960d138ae2d523e549cc3cb10e90efa0fe9fea4d73c]
+│   │   ├── t2.vxe [9167d099c45853e457df6bc661ad7643ca92bdc23e28acfd6708b70b60919e13]
+│   │   ├── t3.vom [6f56c1dc9cd9366193ab433e56b0ed5889df59c5727d25d4e92a48fa16069f33]
+│   │   └── t4.vom [ecfdb76ff91887cf7fccd92de2a73552f98ba08c95b3dfb8798422910d3e2090]
 │   └── b
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t2.vom
-│       ├── t2.vxe
-│       ├── t3.vom
-│       ├── t4.vom
-│       └── u5000.vxe
+│       ├── t1.vom [090cf69bcc43c04fb1c1ee746dbdc156b864e82f48d96de0fd9e01d54fd6015f]
+│       ├── t1.vxe [f005b9792486172c7995209a7ba6addd7aff3cf2d3da302499de86db819d95e7]
+│       ├── t2.vom [8b3ef0e4ca3d4639a072b470c4aa32133a14e46028c9432e62a9c23ad18c3abd]
+│       ├── t2.vxe [92a8b67caa56914dea05bf842f22558bf0e23ec18907cfb322effd6427b507b7]
+│       ├── t3.vom [d553d5e9cfa2c52582b6ed867d2ae425ec788d50128b7006946c4d3f782da5c1]
+│       ├── t4.vom [0760bc10a027c4fb02231b875814c7616f934f3ec00bec6640eb19f599f45306]
+│       └── u5000.vxe [c99c845a6c2f0f92ea267a12d7febfc881a4a0234cef65c8d325d971fbea4143]
 ├── 1998
-│   ├── cece1998.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   └── t4.vom
+│   ├── cece1998.vom [2d7cc260b4911299f71573248aec6518e2c441153364593ff4fc6ec42a8d56fc]
+│   ├── t1.vom [3e15b1ad174124e9e0c67ccac57c40eefd7d26604152eaa525cdc2f40e0eadd6]
+│   ├── t1.vxe [5b2205e485083a22e3d39cddd56ce58ad9d3ccadb2e8af04c3362d75e0b23c69]
+│   ├── t2.vom [607201e23334e56987b0145d1e9a94f69faa7954dd1f7d69a86d89de9e7e0c04]
+│   ├── t2.vxe [2d61f965970ee5de96bed0f4b41a40285650c8c020e3c204765a6434e7d493e0]
+│   ├── t3.vom [f3a9c0f963c788eba3d5af1ec6701e31c0583a121ccd0070499319de5ace8294]
+│   └── t4.vom [5b7df304139d25d3190769851f19a35f137e7a65c310835683f5ff7c286f9e57]
 ├── 2011
-│   └── virus.dos.cece.2011
+│   └── virus.dos.cece.2011 [5592bd1dcad36564b4741d89dd48ff90c6b583f882f297aeade88c90211f4dc8]
 ├── 2036
-│   └── virus.dos.cece.2036
+│   └── virus.dos.cece.2036 [5fef49503f04f2ffa275f75527d487b38ffe8c99c35b09f2c13f71895ad93e5b]
 ├── 2056
-│   └── virus.dos.cece.2056
+│   └── virus.dos.cece.2056 [e365cbf906d1fe0c7688482b8a37441c2a97a96a8182a022f1a921aab4992c6a]
 └── 2063
-    └── virus.dos.cece.2063
+    └── virus.dos.cece.2063 [3edc4b9daf10a38f6f1592cb9d6a65c5d2aedeae2204be00df9a589e348f0ed2]
 ```

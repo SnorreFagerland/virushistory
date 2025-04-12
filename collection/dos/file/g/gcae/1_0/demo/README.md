@@ -3,12 +3,12 @@
 
 ```
 ├── 2520
-│   ├── 1348e555.vxe
-│   ├── t1.vom
-│   ├── t1000.vom
-│   ├── t2.vom
-│   ├── test2.vom
-│   └── wci00293.vom
+│   ├── 1348e555.vxe [1ab4ad3fed11a6ff1c8a39cd860909a3de53607247329eada86856086c8853df]
+│   ├── t1.vom [1573f623f0d420421264b352cd1143c6865e08671b093105cbcefdd944421f5f]
+│   ├── t1000.vom [21dee4551a22cdaadaa06d56e86afa8a6476717b3e4eaf70a6a8bcb163827032]
+│   ├── t2.vom [85f1911af932cae4edf78da52831f31d012faf05714401238878244462f56edb]
+│   ├── test2.vom [c0dbb9de4aa5d1db1679f319bc858b215b8b199cf1d109eed0829392b45c28f3]
+│   └── wci00293.vom [d4d5a069d31e1b45b15b332b9dae7f5ce6169ab4e6be98beac683099ada43e5d]
 └── 2530
-    └── virus.dos.gcae.100.demo.2274
+    └── virus.dos.gcae.100.demo.2274 [18f0510a15e897f74323c0e56b11cd1b81714d552d5a116ee38a5e46699290b6]
 ```

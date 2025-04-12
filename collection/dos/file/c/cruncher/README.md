@@ -3,73 +3,73 @@
 
 ```
 ├── 2092
-│   ├── 1-cr2092.vom
-│   ├── 2-cr2092.vom
-│   ├── 3-cr2092.vom
-│   ├── crunch1.vom
-│   ├── crunchr1.vom
-│   ├── grep.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── 1-cr2092.vom [315a58ad49525177de71f9f46308fa14e1b85b9b74886a570db600ccbe6de921]
+│   ├── 2-cr2092.vom [a8101d83e719c97e25017ed1843d7b64e8166b94a4a9a9e8452420dd2935b062]
+│   ├── 3-cr2092.vom [5088ade09de83ce6d20df21612b822cd3f1973ce406061b96472b39db7050253]
+│   ├── crunch1.vom [c081faaec43d1c58a89e503636a3828e8de147665cd4503d09d39b2a39544e7a]
+│   ├── crunchr1.vom [f9855faa9de74bad527e685c774a4657074ac0413397e63c5543b587e7504156]
+│   ├── grep.vom [fc52cde5bea106eb011b180829375eec5f803b29442a7683136fc5ce836ae185]
+│   ├── t1.vom [2ddbe8eef5eb478f87c9d3b192057f1fcb2e5a75250b1948fe39881ef81d37a2]
+│   ├── t2.vom [2ae66fa8be1a28f412ef6e4405b767c6458d020461bfaa03c7b8d168f6ce5d70]
+│   ├── t3.vom [e16e938749e6dbba951c9a2ee29917f5ab9985ff2c6041c644856939343be2a0]
+│   ├── t4.vom [80c9f165b5a21d4783c882ca83757efc90476b42dd532cdeaec017d69a22ebcc]
+│   ├── t5.vom [58f49b6d4ca2d807eb655278a54066d4f051123a706cf55c777bd56ce4ab5b4b]
+│   └── t6.vom [9bf9ff23e65efa09568e254d0d3db293cfbcc68d1368f85108b550595c54a66b]
 ├── 3664
-│   └── Virus.DOS.Cruncher.3664
+│   └── Virus.DOS.Cruncher.3664 [477284f4442159777381377dfc32ff1c889b15e9c67929ba817216dd908fc4f6]
 ├── 3955
 │   ├── a
-│   │   └── virus.dos.cruncher.3955.a
+│   │   └── virus.dos.cruncher.3955.a [4fd5c55b59c57cbad3d1ffd8a9a6e03e1e83e11edba05eb59e919fb31a4a60c5]
 │   └── b
-│       └── virus.dos.cruncher.3955.b
+│       └── virus.dos.cruncher.3955.b [d4399af49c9c65619251e0ae6dac0b677bc8c0a96e7c67436397dc29d55299ec]
 ├── 3999
-│   ├── cruncher-001.vom
-│   ├── cruncher-002.vxe
-│   └── cruncher.vxe
+│   ├── cruncher-001.vom [5dc06cc900763fedc2a5d03f53156f52c5f71d457ce18b92dca310f4ee607463]
+│   ├── cruncher-002.vxe [80fcdd9176bf4c2bbe41e0c185702e8a7142f92f8416fee0a3f961d6bf6913ec]
+│   └── cruncher.vxe [23ed4c6bf4e1e9def252afd111c033361501b67116648bd4a80a3cfdeb96d43f]
 ├── 4000
 │   ├── a
-│   │   ├── cofshpv2.vom
-│   │   ├── crunch2.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t4.vxe
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   └── t6.vxe
+│   │   ├── cofshpv2.vom [355450d1cdf32e31e95d26cec9a3cdd2f7eb47d35a7e29245abda66810d5940e]
+│   │   ├── crunch2.vom [68edbcc995a17efb94fd447c2a0baca20144da37eeea9d0bde4e7a5ae1a410ef]
+│   │   ├── t1.vom [a9cbd3d8d11fb0ec67b343e608fac075bbd702c6138638c73f6c113bfa627ed9]
+│   │   ├── t1.vxe [f6d197d6f84c5531a908d6e4d0d7ef9e54c30c8bc13c6a92ed19b812c8bb7ba9]
+│   │   ├── t2.vom [1fd2983546ca6e59bd1d2a81e26b5dd07db8c498d5148899d2f3f8e0ec1af6f4]
+│   │   ├── t2.vxe [381a21f0f83ddc2b8ae702c29d6163489ed268e82b0f5b116aeebfb415296cee]
+│   │   ├── t3.vom [50e636704efdd9ce74e5966475ac32ccaee1ff17c2b8c67b2fe3c4ce76280603]
+│   │   ├── t3.vxe [15b525b4d7e9cb7d2f1ee359461ddb952b3be7a00948b1e3523d90dec676d1b9]
+│   │   ├── t4.vom [e0fa5b9a3d6a9dd2f1a827fd52c53ed3696b0641dea95f7b54d0b174e509a19f]
+│   │   ├── t4.vxe [f14fb3148270784ed6ae4cbca18310a510e7a5a276242322641ef3ea95b2a45e]
+│   │   ├── t5.vom [81e2742742628987f48dd572c17bb51f7f9b22daca4aa1359232380167fc3f76]
+│   │   ├── t5.vxe [4b180a73d9acb2a8f202e0d076e5f6bec1d903417c9335eb372763a5f8427510]
+│   │   ├── t6.vom [4a4011bd019a9b0f7a64d040a42e85c2561f72baffd46b2933892fa2dc0e484e]
+│   │   └── t6.vxe [91a7fc1873d54ade7e36d06f396b059b24b498cfee74086c1766715c701d8ba3]
 │   ├── b
-│   │   ├── satan403.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t4.vxe
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   └── t6.vxe
+│   │   ├── satan403.vom [1edfbf314a0461c35c94050424827775d5715d6c12dee7faae42f5f097768570]
+│   │   ├── t1.vom [366a0b255a2f6f3e356c64bcb00362126fbc5edfc51696a8e234a7860f73b4e1]
+│   │   ├── t1.vxe [d9567a85ece198786cbd08d842a14400acd8ea582fe5504b0aaebfd29abf0d62]
+│   │   ├── t2.vom [7f79012e5f388b32a270ea7a4f9192354d96c90feb9ee7e6933bf6cf1594bbea]
+│   │   ├── t2.vxe [b459e8081bae52ccb81f77e8a93a7b85c704a97c7ccaf49bc8cce382f47f49ec]
+│   │   ├── t3.vom [ae1d40a9c0cc88a8455471a138965b120c956b97a8c252d468911f2bfaed0b73]
+│   │   ├── t3.vxe [0636818fd5af874868a3a2d5f751608c0ee1ef5e551fa582985ce51660292a18]
+│   │   ├── t4.vom [f3ecab4584e6de6bc5fe6d2ef9b6dab559a4de6cb5c3f4c68c16806fb80a0b1d]
+│   │   ├── t4.vxe [7a7d8f85ab4d171ede296e12a170b69cd9174a3cfd84ba995c6b371a79a1741b]
+│   │   ├── t5.vom [a8cbbb2d876f3fa597d08deaaa21bf3078593c9f24d706eae4ddc83a5f144c87]
+│   │   ├── t5.vxe [8aaf61be95b95e5a3d2d6e62c0c0588676db516568b44af4e2348cee06a564a0]
+│   │   ├── t6.vom [3e8b9c002e4ee60a87c7d22e7fd26815b78f4fc8aefabc6e0a0128abf8686a9d]
+│   │   └── t6.vxe [f7c7045cfbc9de755a1f57b265ff264b92ff28352936248e12e8de17d97c2a8e]
 │   └── d
-│       └── Virus.DOS.Cruncher.4000.d
+│       └── Virus.DOS.Cruncher.4000.d [f9d7d479a97bad757362e3703e32ee25dace91a3c7f0f8cb408444f5f640ed0c]
 ├── 4005
-│   └── virus.dos.cruncher.4005
+│   └── virus.dos.cruncher.4005 [bd13c7d8ba1efa63ed5b68273d3ee121019f6e80ba0a1201ec9c0ead1755fe22]
 ├── 4006
-│   └── virus.dos.cruncher.4006
+│   └── virus.dos.cruncher.4006 [63e6607211e3b8858848bbee0285de92b396739cab4a96329f3c96a62afd1f2a]
 └── 4800
-    ├── crunch21.vom
-    ├── keyb.vom
-    ├── lwm.vom
-    ├── t1.vxe
-    ├── t2.vxe
-    ├── t3.vxe
-    ├── t4.vxe
-    ├── t5.vxe
-    └── t6.vxe
+    ├── crunch21.vom [d1a6c38303dba7cd7f457aa631bb0997097855193e6519bb2898139d0a46c2cb]
+    ├── keyb.vom [47a19afca9318279752b452484b5e0a00f0df2bac3123e818277422d8078232d]
+    ├── lwm.vom [71f676ffcbc933ea346423dfd4c4f3d1609be15499a0ea2b146714cdf9bde7b7]
+    ├── t1.vxe [0ec555ffec0ff1bdafbe3ad642e83bedce2208ecdd0432af0ee73d277ab73831]
+    ├── t2.vxe [488542bd3278bf1b2a8aaf75aed345e36be57e5f64734d7a2fcffbad5e1549a8]
+    ├── t3.vxe [ddeab4f5e9964375753d76a3c3c862b46e00ab7fa36c9ed13cd228ca4c1f416a]
+    ├── t4.vxe [47fec95c2abc3e84a8a45545b2c751fb7a9f35b629b11ffafe0b2a2d101adb68]
+    ├── t5.vxe [7c021bf4d6605efc9d158772e67db7d9da472867daaf1f6a55fbc0d92a11a8c9]
+    └── t6.vxe [2c0dae2ecbfb220be86309db0dd56b9d36e21cec6dbd0e17324e81b629262179]
 ```

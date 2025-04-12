@@ -3,20 +3,20 @@
 
 ```
 ├── 0967
-│   └── virus.dos.sme.heurist.955
+│   └── virus.dos.sme.heurist.955 [8e95173ce7eb06be86fee69d33207f5df74a2d322af2de6de0b2d931f331c336]
 ├── 0976
-│   ├── DUMP32.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── virus.dos.sme.heurist.961
+│   ├── DUMP32.vom [4d3ba17a3292201b1f5ba08e589ce0932e41efc291324ed37a7915674d788790]
+│   ├── t1.vom [6ef3e2dcdb99a4b00b0344f7b6ad97e0dd712fbf49a0873e62e945c9268eef22]
+│   ├── t3.vom [2b878b6acdc0219c773725c0458e814a2ca109fefa003f4176d15068a04f0286]
+│   └── virus.dos.sme.heurist.961 [baaf4c901560684db246b4795ab7e0e8965f7c9158a3ce429f2c2378f9f62e07]
 ├── 1976
-│   └── virus.dos.smm.demo.1976
+│   └── virus.dos.smm.demo.1976 [a70da46f02030c56a661e2e1cfd1ed34e8d606dcc9c81cbf03d2a06203a6c733]
 ├── 2047
-│   └── virus.dos.smm.demo.2047
+│   └── virus.dos.smm.demo.2047 [9d378f71d069fd92a90444c7bc53ceaf15fef2f9064c99f2bf84ec232c400b74]
 ├── 2157
-│   └── virus.dos.smm.demo.2157
+│   └── virus.dos.smm.demo.2157 [835e80ef03f2e8a85efea2db0a2b6d18dc078e523a158fc6cee0612cea134290]
 └── 2170
-    ├── sme_2170-001.vom
-    ├── sme_2170-002.vom
-    └── sme_2170.vom
+    ├── sme_2170-001.vom [18ccde5cb4e83521c7b804d2d65d17549767103a4b9fb9b16b0e2bfeff18eadf]
+    ├── sme_2170-002.vom [1fe979e9a97316b29be4391880516a797a84485788aec5909766f7ff8a257c02]
+    └── sme_2170.vom [12a9b4ed732342a9d0c19d59a84d86b86e44910c5b9d9a348e124899e78c31a9]
 ```

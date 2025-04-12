@@ -3,45 +3,45 @@
 
 ```
 ├── 847
-│   ├── doskey.vom
-│   ├── flav.vom
-│   ├── flav847.vom
-│   ├── keyb.vom
-│   ├── lwm.vom
-│   ├── mode.vom
-│   ├── more.vom
-│   └── t1.vom
+│   ├── doskey.vom [fc79e1f22a50bdd145a909f335939c3657ac21c2cce6b2ad8fed111816869ccf]
+│   ├── flav.vom [4b6e03f8fe5f60ab86d99048913bfc746c5e4c60f08d5041088d246374b1ae61]
+│   ├── flav847.vom [2ae0c579e64c56baae5abcf04c1055c3023faf523117f94bc2aed6d9dbf1dc40]
+│   ├── keyb.vom [c3d7aa4cc45a9b0680cf3a939a1749a28d4cf648215401e2f13a0ee9d94d0625]
+│   ├── lwm.vom [ac4d7805a9b9d89a478d88aebdb1561fe037b35384d90cd12b4d871898a986dd]
+│   ├── mode.vom [029902c02762fbac31562ab2417efd9a22944297fc1e156a6c3b9ab3b871f419]
+│   ├── more.vom [3ed3a9020d14501229d05e3d740b3b17dfb5e9b24320060e5a78427ab349ee75]
+│   └── t1.vom [741997eb15012b4d9f651bcb86782d1e4f625bce0854abea9dfe856b5dc7d8a9]
 ├── 848
-│   ├── flavo_0.vom
-│   └── t1.vom
+│   ├── flavo_0.vom [c04fbf3ea2733e1610df0036fef270ac877cfb073645ef32ad3e647389dba8d9]
+│   └── t1.vom [424c4f2073ed90ed7bd8da8a8fcc8e9976a6468ad5a6e8221423b97d489559b7]
 ├── 850
-│   ├── doskey.vom
-│   ├── flav850.vom
-│   ├── flavour.cof
-│   ├── flavour.vom
-│   ├── keyb.vom
-│   ├── lwm.vom
-│   ├── mode.vom
-│   └── more.vom
+│   ├── doskey.vom [0f928c0f6238fcb1b4510d16f4438216bcc90250c6e2cabb7693fc46b358c18d]
+│   ├── flav850.vom [bac0b7145a9e61c84074e7ee9c9e3f46a857a54d505c5afccda87ecc57bcf48a]
+│   ├── flavour.cof [cf461e6a9a9d3e43bc7dffa44f93962cb51d88f9ca1197b0b618191da2b34b23]
+│   ├── flavour.vom [c99d461e11bf3e8ee1ff77851ea897d72e048bd9427e365870d4a423ad84bc06]
+│   ├── keyb.vom [468a9f5c60984a3294b4598b98e884eeb5f67852ad13db098e7127bd3584d1b6]
+│   ├── lwm.vom [150ba59b99e1dc705980351559d305a43c47f5023305ab66c5ee78c76e223b96]
+│   ├── mode.vom [b7fd448af993eb00ad32fde362e6b20d5084dbb4f60095d71cb762337be32170]
+│   └── more.vom [f5d617fe9ce0ef3dc5ab1eb64d1c13f36b21c03d63a282af4bc83e2fcc7ab2e3]
 ├── 911
-│   ├── 1-fla911.vom
-│   ├── 2-fla911.vom
-│   ├── 3-fla911.vom
-│   ├── 4-fla911.vom
-│   ├── c-fla911.vom
-│   ├── flav911.vom
-│   ├── flavour4.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t7.vom
+│   ├── 1-fla911.vom [c97f163c4a82f48d228d2903913fb0b93d8a256a1d2e4dba9acaa647faa642da]
+│   ├── 2-fla911.vom [936a218bdb59f21dad2a27abbfa2c66027aaf21b16d412ed9602b90313a69bcc]
+│   ├── 3-fla911.vom [aab895f0f4936690646f0c157ce4cf39ed767d5189e5be381fe809d9b3cc1e92]
+│   ├── 4-fla911.vom [33b73a6db3274c765c4b8ecaeddc34d7162fe592d08f0d0c8e7cd94eee8cb7fb]
+│   ├── c-fla911.vom [fbcd946a5262d0732eecc807f991d9c495a4686b3819634d25628983be0d41fb]
+│   ├── flav911.vom [235aa3892c4f8ee4d2ee27e8b1e73509465219cdc2406cc4029bfe5aca7cf4dc]
+│   ├── flavour4.vom [6a0b7c66ddff151ab1ecae2cf46009f17daaa0d088fd5fc52be5549dd458fe6a]
+│   ├── t1.vom [8c299e6e2f6c4ce18dabc1478cf50b21e052f481b94c8f0cebde524627d42984]
+│   ├── t2.vom [c9d76bcb0be7c8e31d1d2ce9021ab4bff8c2cc479049f1cc7b6ba5ba3797bce4]
+│   ├── t3.vom [0cdf6a962dcbf46914f0d8b99b5c7e95cc4362cfa02b84a06407f6ba3c8b1ed0]
+│   ├── t4.vom [a73e91ef76c613966490c67ae5796e0e567deefa048570bf4de9ebe7c972ed57]
+│   ├── t5.vom [76616280ed689c263780533c56b833ae27092c767713765dfd91a21d086edb3f]
+│   └── t7.vom [653ca0618beff6374fcf187db41b8762d8308f80415ee8f462075a1ab288ccc1]
 └── 989
-    ├── doskey.vom
-    ├── keyb.vom
-    ├── lwm.vom
-    ├── mode.vom
-    ├── more.vom
-    └── wci00132.vom
+    ├── doskey.vom [ddebadeb1f4824bf0c580f8e85c03510cc54ee2f2fbbde261c8a14a3787d12c5]
+    ├── keyb.vom [36082e15144d52301ee5a6260af0df02ebae5b299acbe1d1c7fc6e37930b193a]
+    ├── lwm.vom [63ffe62f50f40a92999bc371ba13c79503f35a519820916d4f6d462be0d7f9e4]
+    ├── mode.vom [b3701e38a7ff7300e889a3de0b28b853b4f63a3de25a8d7c0945105c4f4c3b42]
+    ├── more.vom [8c4ce091d8294aeaa3a9143dd0d3f55ffc16f0cbc411cf7c72153024c22750f4]
+    └── wci00132.vom [f9cb4cb61137e365388e88dc9abb12322b4f7b00bc6046ca1aca048c674a26c8]
 ```

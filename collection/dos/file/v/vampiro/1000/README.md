@@ -3,29 +3,29 @@
 
 ```
 ├── a
-│   ├── vamp.vom
-│   └── vampiro.vom
+│   ├── vamp.vom [3e3962e596cc6ea38e5c20643491e69a2766c110a0dd32d5c88b3f0b156cddda]
+│   └── vampiro.vom [fa42ad760dc10b0a030c4dc7d2b3f13c3a15fa9364d6f13e2f0dbc73de5263e2]
 ├── b
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── vamp-heu.vom
+│   ├── t5.vom [3eb48981e0948eb99a642b85b70b26dfbdf052bb78751334d57b116ccc4f558c]
+│   ├── t6.vom [711e4216390eaa0671c92f44c6efaffb0881335229414e6e4aa52a3f0c1818c2]
+│   └── vamp-heu.vom [cf9bc1675a04623d4f928c42519d9849e924821200c731b4bb89c557bbeacd9c]
 ├── c
-│   └── virus.dos.vampiro.1000.c
+│   └── virus.dos.vampiro.1000.c [5ed9b0b64d2ca7b696115b17901c2bebc63ad409f037849ca68740e304f05af8]
 ├── d
-│   ├── t2.vom
-│   └── vamp_10.vom
+│   ├── t2.vom [6a70b6f0da8a531ef26599fea1628e024859a0eb552d8413978348d440af4b41]
+│   └── vamp_10.vom [d16dd0d37c2ee08ffe8e77b19ff98658348af85da6833724bf5070fd935a25a9]
 ├── e
-│   ├── vampiro_-001.vom
-│   └── vampiro_.vom
+│   ├── vampiro_-001.vom [9a38f95f7ba4431bf83c8285c193ccdfe5d64253f2c559aae144e38e5ae8eec7]
+│   └── vampiro_.vom [2dfc90512dfb7ff1f4220c5f9588902b6a2cc9f4cfab90c3d35cdb408c7367d7]
 ├── f
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── vam1000f.vom
+│   ├── t1.vom [f6a64a17a15f651360bd5ebc419fa8fddd43b563852c635c9373baba75dfa2f9]
+│   ├── t2.vom [89d4db1ca3d78788f06f8bffebe375901ef650297189f6677c3f899a67b2dc99]
+│   ├── t3.vom [8c7b3ca7f5cba70bd7404b9bf9e857710001475d83d753baf2d17b5e89664198]
+│   ├── t4.vom [e7a27bd07d3bf15bbfeacd5de1d78f84ecb5cab7728f2188362259f31f1e27ec]
+│   ├── t5.vom [da40b197d296ed16a7f18759d6f14c22a8016576af4998b5a404ff02f04db7c7]
+│   └── vam1000f.vom [24703e3a48a63f48612dd9cc175ac854610ce4c884eab067ab18a7d4e93cdbf9]
 └── h
-    ├── t7.vom
-    ├── t8.vom
-    └── vamp_10.vom
+    ├── t7.vom [8807d3dff36ce7bda55017caf921c014b0e76b517f40098f505bc0f0bcfb1168]
+    ├── t8.vom [a9d3a832a0cbd737f4d784d30dc574b90eb6f573e78309a0aa33635165978bfe]
+    └── vamp_10.vom [e67210317872669eeedbeeda1db46efae2e0881cc1dd5b0713f564096580bef0]
 ```

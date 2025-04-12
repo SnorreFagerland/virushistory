@@ -4,248 +4,248 @@
 ```
 ├── 0222
 │   ├── a
-│   │   ├── 1st_star.vom
-│   │   ├── cyber222.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── 1st_star.vom [ffe6d93f22e39d997a9773398f50940187709164b686ee032e75bdfa6b248e48]
+│   │   ├── cyber222.vom [f53e1c5a0448f339207e1ca1773f5f7652e822c6d2a94ebcab17dd3dc0ad02f7]
+│   │   ├── t1.vom [121bfb0bdb1886c0d158c3104b2a43022e894d3e9531ae31e4e345cf61dfedaa]
+│   │   ├── t2.vom [6e68388f80d6de2581f879e2014905aeed5b49d59e1885406c40eb602e0488ef]
+│   │   ├── t3.vom [7e23f30213c6dcbb86232aade38b6b05596d65bd3679a787fcd1a6df0dc638df]
+│   │   ├── t4.vom [a3e0e21e6f1c6c8b6040acbaa131aa2b507cdf54165c3eca4b32c5592f4000fc]
+│   │   ├── t5.vom [dc47114e5baab0fee23ba350b791a6d397f413c54fa1da6032ee6a1d0ccac946]
+│   │   ├── t6.vom [19b7b40cd0f4904b1abb40163b86678890653c54b3166bbae0832cba6bd7e392]
+│   │   └── t7.vom [c04ad58ef179d027c4b8caef6e13c807fcbf86d736ac4c0bdf597d4365673e57]
 │   ├── b
-│   │   └── cyb-0222.vom
+│   │   └── cyb-0222.vom [d058cf2088b0cb7b10ebaa5866e6e601cd591997a4a286fa87a1773a410e8b92]
 │   └── c
-│       └── virus.dos.cybertech.222.b
+│       └── virus.dos.cybertech.222.b [e4d2b3935d566893acfe6b8744946aed8bcfd1359a3fe3e43624715625b1d56a]
 ├── 0223
-│   └── virus.dos.cybertech.223
+│   └── virus.dos.cybertech.223 [0045d31dde3ce2d091d9ce9f52f99756e33e55a87c3f469f8e3ba7191a197b2c]
 ├── 0224
 │   ├── a
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   ├── t7.vom
-│   │   └── wci0324c.vom
+│   │   ├── t1.vom [fda5d89536b9d085671563a3419ef78db4ad31775099c0a0e347097b0e913fc5]
+│   │   ├── t2.vom [5c810b921fe4edcaa6e6ba5c829529bec0ec9d4107e26348293ebdb7bd3d0f23]
+│   │   ├── t3.vom [b6d058f01e1dfc4c7ec33f4957be7b476fc40938a030bc7bff35741a5e3c800e]
+│   │   ├── t4.vom [fdea494864913a71101cb6dd6b247506c09722096c33111328efe1b7ba1b5601]
+│   │   ├── t5.vom [1aebb1c6ea9e52ae8582afe34aabafe1f79072790ef5c14f26c2ab45c880c7f7]
+│   │   ├── t6.vom [e9d26eb17dce59497e44a1e8efbf881f4c536ff3c357b858147a1348c6beac4c]
+│   │   ├── t7.vom [b5ef00391118489283fb048cf56e9b56d5eab1ac580e26b6ebbf5e6fd151abd8]
+│   │   └── wci0324c.vom [2cad75b0d5a6ec1416f406b62ba9aea148760c104d0346e4af2131117648a805]
 │   ├── b
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   ├── t7.vom
-│   │   └── wci00143.vom
+│   │   ├── t1.vom [583abe7cabc5436e9f3aeeefe9d50a1f3c9ee2c84e1edbf15ae25881884d33b5]
+│   │   ├── t2.vom [4daee88bb58cd6e2cf32eb0e1c4331811b3c68acb7c42408ea815500600ce98d]
+│   │   ├── t3.vom [84649b22cf7c94e7cacfc312924aab50c07a966b83f4cca08224ff855a703a56]
+│   │   ├── t4.vom [d398722185a229958fad70619af86f97f2b2ce6f8a62cdcef9955ca0900dd756]
+│   │   ├── t5.vom [9a990302833212839a94d86a1dc0be3e191b52d27a7b6e3e97bf28ac57b656b0]
+│   │   ├── t6.vom [6c469171da61d9288d3ef5c003eb891608abb9751723e400b65fb92984a61bda]
+│   │   ├── t7.vom [c69ee844a245ee2cfa2b057a415b3c8738cba02bb99c9e87b5f8a54f1a9fe383]
+│   │   └── wci00143.vom [ca7b94ded3ee66c6b5527c6624c38ede24fbd23cf25a7f5cacf1833601c50e38]
 │   ├── c
-│   │   └── cybertech.224
+│   │   └── cybertech.224 [002a88f129efd1edf5744e1bc9ec11a5e5d29189c62e851ebe3079793abd353c]
 │   └── d
-│       └── Virus.DOS.CyberTech.224.c
+│       └── Virus.DOS.CyberTech.224.c [eadd1680f965d2c1accad86c5658dea573b786ae7cfa8716d7bed91150658e45]
 ├── 0225
 │   ├── a
-│   │   ├── cybeunka.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── cybeunka.vom [aea526721ce62ecff976b6cd73af6c943ef8208c608b08c4cd3b93d91a58d6c3]
+│   │   ├── t1.vom [c56112581af8ced00f69d331cc3fa4c051e00afbf80e1be41e77b17563799d42]
+│   │   ├── t2.vom [1396d3902183418741c0cfdddde7c05e4f35af3ea7e5bb09ff22fdd952558ae1]
+│   │   ├── t3.vom [94280d080bf28fec8d945c305d94b2421243b045ea6e0df1a12c99a6ac9a4697]
+│   │   ├── t4.vom [b8d9580e9215cb7b6f4da671f3dfb6d525947077c60a667c361e9bd949934312]
+│   │   ├── t5.vom [8abbfe5e53b4933b89c2ae1d4f647732098e51d91b4f85d2c3c8f2546ad0873e]
+│   │   ├── t6.vom [d2a7a62e503cc0794c20ad166862a2241352e5355637ea8ba1755b4fdf816994]
+│   │   └── t7.vom [eaf48abc31937afdd2a63fe1abd314ed2824cea9d86a329cb8165bde7046b296]
 │   └── b
-│       └── cybertech.225.b
+│       └── cybertech.225.b [ff5b8986454bb8e47b454e1398fabbd6eb267a491f3d46a611dd80671d93c5ad]
 ├── 0268
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t8.vom
-│   └── wci02364.vom
+│   ├── t1.vom [e4d52ca4d9c78b5e8316d5d1956629806b20dd961f3eb676ad3c5ef0a53e0953]
+│   ├── t2.vom [6abfd40ac29ed533ecb32dfada1a4fa18510b5fec391a1105ab34504dd21c099]
+│   ├── t3.vom [7ed8e7f9f80b12b1017142acb081ff6b37fbf2522c00d97dc2b208cca4788d75]
+│   ├── t4.vom [69b85fe7c814ea8c41576a5c57a8648b1f820c1d5220c132208e09486962a3d6]
+│   ├── t5.vom [1f571f420b0e438b34427948121c3170d419f7ea3b3d2e91709f91326e1ae2b9]
+│   ├── t6.vom [b0b86bdea50624ad7c0491da0bf796126552c1c7a9ecbb226817e8910697ab3e]
+│   ├── t8.vom [f041195e7fa5e3aaa57cca10c41d2f30e45a6875fa3709fde36b1d3ffcbd18ce]
+│   └── wci02364.vom [12f3cb4ae4ddeea7f5177dd48415e3f2a5698c57d7665d2a632317272cc04d76]
 ├── 0272
-│   ├── virus.dos.cybertech.272
-│   └── wci02374.vom
+│   ├── virus.dos.cybertech.272 [6a0d8d680c8b637b87f912a375b92004630287cc9a9edeb6289ac135f0897473]
+│   └── wci02374.vom [0d0d762e3927c4392447f7f92dd7defd63b6a333ac4823c077950150a7146baf]
 ├── 0275
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t8.vom
-│   └── wci02384.vom
+│   ├── t1.vom [3154f8d4ba64cb5ad7ecb478c69ba89013767d269bf007b2b381c319a1a0ba2c]
+│   ├── t2.vom [68e71737ee0316b297d944e11643f236a6d0f49698548edf3c3eac76a85dc32e]
+│   ├── t3.vom [503076ac2f6dae8a0b77a66dc924305f7a63b5065f6805b540558ac30a35eca7]
+│   ├── t4.vom [636463a216ccb9e1ead2fb9830826e1780062092a39759a50337589457da4b12]
+│   ├── t5.vom [4e386bd3a9964f4a9f32b520eec2fb684620b58678113459cbfedab1516c77b7]
+│   ├── t6.vom [28aa37fb2c59195aa7a234f86456b88ea8e0219e59365a12600c0c042dfe7b04]
+│   ├── t8.vom [88c2567502a1ee8e5701e61e59ef06cc163ebdd79ca141e8aada35bcd428fef1]
+│   └── wci02384.vom [35fdfb6e2a93fe20eab0bd59dc3cb81ad68612a29ec8016f9ba4ce27aa4f6554]
 ├── 0501
 │   ├── a
-│   │   ├── cybert~6.vom
-│   │   ├── icecream.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   └── t8.vom
+│   │   ├── cybert~6.vom [74c9a23aae9163c4f6a89a7f7109b6e89150c1cebb3bbb6775b58b7a32fe2133]
+│   │   ├── icecream.vom [0f82594c8db78b532b320c4ea50d0de96340167e032feb9688f4f03ea3d46833]
+│   │   ├── t1.vom [adbd637e836f3cd78e27b8dbe48c3f5222d734e8ecf18895dcf34be6a69d073d]
+│   │   ├── t2.vom [61a5bfc541f1d45d7f14a9c31b882c1ac94c4dc96be79214f2c3286f1fe4cdb8]
+│   │   ├── t3.vom [b1830ae0bb24016a4185bc5e6045a42e8ef996fb6bffadbb325300e5f6305b19]
+│   │   ├── t4.vom [1661cb84f0f3f99153d363d572479fc561b582b583f63ee07c7264a5c2ab69e0]
+│   │   ├── t5.vom [e6d509ba037bdd0a20ebe19a4f6efa0c2e83de70d7bd3187b2a6f2e4565e1bc9]
+│   │   ├── t6.vom [e9bce0668e97ea1de7e795669d180d7cb0cd2f3d95c3e5b981fe52e2188687fa]
+│   │   └── t8.vom [d7006c6ddf6a0730d041d5701fb6230c3475fcbe29c35bcbbb9a0380a8ebfdf5]
 │   ├── b
-│   │   └── symantec.vom
+│   │   └── symantec.vom [53d83bf75cba20fb18ce9c52fb672a0592f89b3530f602e127155ca8e4c6091f]
 │   └── c
-│       └── virus.dos.cybertech.501.b
+│       └── virus.dos.cybertech.501.b [d307fd9c61d4ae38665daa6fe302db65c6ab2cf2d92cc00b50bfe4583c7e0c99]
 ├── 0503
-│   ├── cyber503.vom
-│   ├── cybert~7.vom
-│   ├── rtl4.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t8.vom
-│   ├── wci05462.vom
-│   └── woordgek.vxe
+│   ├── cyber503.vom [ab38d7b9500b19d7ef35ea1639d21342532c26a7ecbd772d56e8ba3b5d95d35c]
+│   ├── cybert~7.vom [b8e3126776607c765eee2292c8de98b4d7f71d257d2030411678e5fde19e93ad]
+│   ├── rtl4.vom [f2f261a2572645e91486986414ce7b921d349a8ad53e721bd427f2f85e97b986]
+│   ├── t1.vom [885200583102fb66b268ea5f627c9f2f0525df3aa4bdf8d8f999ba7f8d19305a]
+│   ├── t2.vom [17478d6da3287ef6f5d21a0af0f27d475a86a46b3fcc2ad056dae1ca8c8bc739]
+│   ├── t3.vom [b01548ec3d38eaa1afe70dedf7144b22b359c959df7efa89518737f52c0de2fe]
+│   ├── t4.vom [566a211796de3dcd44104b9203d6ecafb99feb4f31f67bb04e56154954b1a9b4]
+│   ├── t5.vom [0ea80f1d2e759c7ab3fda6a4f98ed9c7e10074459afb459fb52a42a42a322455]
+│   ├── t6.vom [867ce4e672a06993fea219128b7f065cb6c733a464538b43ea5cee0a8a8c70f7]
+│   ├── t8.vom [f04a9537e9966cbcbad70a4e2d84f49fae9a7f04356319707623f3ed652a413b]
+│   ├── wci05462.vom [36df1316e920d5d1f276390d8730f04146d9cf80ad23c493dcd8a18b01a5bf25]
+│   └── woordgek.vxe [f0a4ab169a1393bf1a1eb3c336b1e1606c9852a85df9bb9bb9bfe19de7af01e3]
 ├── 0507
 │   ├── b
-│   │   └── Virus.DOS.CyberTech.507.b
+│   │   └── Virus.DOS.CyberTech.507.b [35eb7c64bc85046c27008cee63d87f8b170d99d799e79d7ea0922da6844ff4f5]
 │   ├── c
-│   │   └── virus.dos.cybertech.507.c
-│   ├── virus.dos.cybertech.507
-│   └── wci02394.vom
+│   │   └── virus.dos.cybertech.507.c [8e7ff712030d35c89e2bc9a1113ccb88bef9ae7485bba17f94d9edeba5948cc3]
+│   ├── virus.dos.cybertech.507 [4e58b83f28a09c23836606f5fd5e54cc81070a8fc777b318845765917da5276b]
+│   └── wci02394.vom [66603d6f2ef50d02222bfd5e7e0d777a80a991552d021bd993e02357dac55439]
 ├── 0510
-│   ├── cybtc510.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── wci02404.vom
+│   ├── cybtc510.vom [9c4023cceba9b1652ffe7e06e9886b5651ac320a3cdeceabd5710f6d54e81364]
+│   ├── t1.vom [155ab3331a7e4e476f328842d3b59619d2ebc6e9e26738d1b6975f62de82d3d8]
+│   ├── t2.vom [a6a61cb0c3a0d873e0a4f08da5cf62a3ac823ce109379fa72de79a58d6b81d68]
+│   ├── t3.vom [c06de2236e569986b66462c1a410c65238c7435023292713741812da015ffb40]
+│   ├── t4.vom [b7aa26e94e1b589e8cc764c21e72dfff3df652fe32e0be551e98d6f35d25906c]
+│   ├── t5.vom [89e3cf49f617d623fc705784ab8ba977e667a81bd2700f92fefe347cb76b3e08]
+│   ├── t6.vom [83d01d6655c5e5b28b2188c3e7ed20418d1c4d235db6159e9e52c0f78921e90d]
+│   ├── t7.vom [f42eff0e478e37d9c0adc2941e0be9538786875371136eb00b3ee18ff22bfe47]
+│   └── wci02404.vom [23a8095e42bcd29cb21ff673f0351ead4b2a8eef175cf9654e7da107329dee45]
 ├── 0552
-│   ├── cyb552a.vom
-│   ├── everfire.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── cyb552a.vom [79d038ea13ac6c5e08116392e9c0c8869af6971caaeb4da6d9b20890797fa672]
+│   ├── everfire.vom [5a76246ffa199018355726090c2c5182071740991ba44bb3c4cc6e9b4df396d5]
+│   ├── t1.vom [0ddd6cb9a6e6a683203c7c1eab03d376438c6a6b9443307946ecbc469c5a65eb]
+│   ├── t2.vom [63cdf69ead09a249223201256f9bc5ad647a912698a33f19025a9bd827566bf1]
+│   ├── t3.vom [fcab8b943476a10fe0db4604724e3eac454b8346b8426c4dbb61efa8cf4e80f4]
+│   ├── t4.vom [70d29713e15c4ffe0d6127df064e6cc02d9400ab6c1555c5bc18d8fcce0ffbea]
+│   ├── t5.vom [b7c155ec90ea943e0af57afa91ab164d28776144b65d59aca6e1f324c4297579]
+│   ├── t6.vom [444bbf0dd82273eb6f3019b2fc0e6c665c66953050454def4095a8125a74ba23]
+│   └── t7.vom [697dd41c3f5ab352e5345f9d19c9adfe2914f8239827d02a6ad2e806e83ef4c6]
 ├── 0574
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── wci02414.vom
+│   ├── t1.vom [8a3b38e7ec7de5226fc469ea6fb3a0e614fb8e61827de2a239feed76e1e46584]
+│   ├── t2.vom [492f5c0fff317049ff63cdb83bd667cd93e3b0efc9ede201fe17dd833d95ae41]
+│   ├── t3.vom [697dabcbd2781fe5ac94b162ac19e03d122e417b9eca7445d07f7ae5519d8cf6]
+│   ├── t4.vom [40a50a2b07232fcc49c009e06eed7b854fc94484ca967401793e262ed8e718d4]
+│   ├── t5.vom [3a36f629bdd0ac148998644205cc25cab678d74312fe92c6aa0c551140c4344a]
+│   ├── t6.vom [c06de31954d5ea64ff7ab1a7e309c86900974da63755589b51dd5331b62e5344]
+│   ├── t7.vom [c869a1f6bb1c5b015696c8afacd49fe60ef47c0778863d61971014243992d019]
+│   └── wci02414.vom [d298dc5b2d809146e4456e09b9560c438915df77acee665bc328b4c17cb43c91]
 ├── 0578
-│   └── virus.dos.cybertech.578
+│   └── virus.dos.cybertech.578 [fda2d74df39eb663dc063f83ad315c7dfce90c548afb3faeb22d4686502984b6]
 ├── 0581
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── wci02434.vom
+│   ├── t1.vom [5cd2d5b1a6872bfa98e0ce7f4c4eca7ef160c5139212f85cb299c8a8d76f1bcd]
+│   ├── t2.vom [ab333c46901b144c97fecd7105a4ad676a2091906f04b45af007315dc311055a]
+│   ├── t3.vom [22486eee58894ba108913935d1a3d428ff7b1cf5051bafca8acaf5ecd3cc84b9]
+│   ├── t4.vom [2249fd43e0e3eddf0d6904161e773e53316a446d8ef2eed08e3839ece89cf945]
+│   ├── t5.vom [d4e26dfabeab5dd3ac7350930bcf0c119718ae97ff8714532a433d3ba2bc48fb]
+│   ├── t6.vom [0c1fb602ff4c5beb18a8d6760132c7a4a3b2879a9e8cdafc9b1909ce74b29799]
+│   ├── t7.vom [bfbb15c63ea327b42110302c97f984b11447cb1296b51b3ae61c4e462a84d8cc]
+│   └── wci02434.vom [152bc0a7ffd3713ee27b363cf055d799ccec09944e22a5ab7058557568cacdc4]
 ├── 0611
 │   └── b
-│       └── unk27.vom
+│       └── unk27.vom [5e63f48b379d574b68f4f7a1abb4d89c2af2b67cc50c785125834454a9a6e951]
 ├── 0633
-│   └── bird.vom
+│   └── bird.vom [b3648a8dbba8092e4ce7bf13a7a3b5c3406b951fa34850c82cfc4b569e5f9737]
 ├── 0652
-│   └── Virus.DOS.CyberTech.Caco.652
+│   └── Virus.DOS.CyberTech.Caco.652 [40082e3496b3d22c0d9aa09fcb1e6c5f83130e546947f78f62ebb2f92a71d983]
 ├── 0664
-│   ├── cacodmon.vom
-│   ├── cyber664.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── cacodmon.vom [18865d45c46649fe7ced1f180ea3c29f9fe283d54939bec7acd16660089a6d95]
+│   ├── cyber664.vom [6efd848796d9441837d94898d5d00b5cdb7b23fb0a14a556c32f2149ece23801]
+│   ├── t1.vom [f4ae8e7de9eae3af732388846624d821c31cc0570701674c1cddec2d8052e34b]
+│   ├── t2.vom [a2267a54867ba5c11a8c78df674bc9becc09ac2e1f03b05bb0b17d726566403a]
+│   ├── t3.vom [b647eaad2a73baa93fd72f686ae5d83b2c62ff1baeff1b0451af92aa7d426187]
+│   ├── t4.vom [498f6ea252823ce375fa06188cc52a1e5ce70d836304ca583243d4bbdbb95d1b]
+│   ├── t5.vom [09995447cb6a739ce9d92ab2eba1259f1fab78628c76766d2be270445c474d06]
+│   ├── t6.vom [2580f38c1059fbd49328328460bd0864fede63b35ab6d674a05bd052f2aa0c41]
+│   └── t7.vom [996ced17232f3b4cf72a23165ee3b8ddee3c91a9e9e6682b532cd16118509a6f]
 ├── 0668
 │   ├── a
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   ├── t7.vom
-│   │   └── wci0329c.vom
+│   │   ├── t1.vom [87f62e6f5ffb29e824c23b6ceef10e152ea46f4308ce7b05727785334d976cff]
+│   │   ├── t2.vom [268595623f53c5a4b3b2d50201287ff2d0e0050da8a29c676706124136e5822c]
+│   │   ├── t3.vom [79e481fd940c592edd76319f35da38e8083fee94f77ebfc5c80f68c95d009021]
+│   │   ├── t4.vom [a83bfbb647d078ed648f2ef955d36aa29bded28f3b6cae94b4af51eb1715c944]
+│   │   ├── t5.vom [4282dda2765c8cad6a0c36080d2f100654afad65165a60879d981b18fe0837d1]
+│   │   ├── t6.vom [b261c209827fbdedd8dd750197e2eff39bc8930ca55bf2f452781c7133121d06]
+│   │   ├── t7.vom [d3703726658c24ff8e04897a7f2e8a53f38133825c806494705ab80761a4c06d]
+│   │   └── wci0329c.vom [9bec6788f18dc43964d00d347696d00809f63e9480d6d0e94467808a3a94fa22]
 │   └── b
-│       ├── cyb668a.vom
-│       ├── t1.vom
-│       ├── t2.vom
-│       ├── t3.vom
-│       ├── t4.vom
-│       ├── t5.vom
-│       ├── t6.vom
-│       └── t7.vom
+│       ├── cyb668a.vom [a8aa2ceb56859079a732b6909ec16e734561d996cf8b3e60d9b90498b9086d1b]
+│       ├── t1.vom [ca0aca38c0aea9d6bb6b36792799105710dd4d476d5f42f2884a929922268377]
+│       ├── t2.vom [2613686fd8868ef9eade0e8d63650c6b897a820260f606472fec893d45134313]
+│       ├── t3.vom [4db28ace5490015af123aaa9c1d5ade9ef4f0f38cafaeb0c6dcc1733546b4053]
+│       ├── t4.vom [85c0727170d80d333490d5ae32de95929c7d0ae9e335e370816f6e107d39bd6e]
+│       ├── t5.vom [28db97355a10ef780a1244e9a5cb4c0052f9c6eca457cc37cc353852cc932efc]
+│       ├── t6.vom [de031ad8b8e5b029baebb2bdb3755f8ad444d2608673cbf040fc5daecaba168b]
+│       └── t7.vom [826404f2ab45e1f19e092243579d65878ce5f78ec87f63c25cd92ca3774b972e]
 ├── 1036
-│   └── Virus.DOS.CyberTech.1036
+│   └── Virus.DOS.CyberTech.1036 [b9604e9825e3feadce09c282047bdc01fd665d564a6e13006eae5cc184549ff0]
 ├── 1066
-│   ├── cybe1066.vom
-│   ├── cybtcha2.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── cybe1066.vom [628e7172692c7f3b9e33ef57175a1a3409e2407362b2f29c5b9f50c5ff29a875]
+│   ├── cybtcha2.vom [2b5876f21f8f0e4f0567f0f5232544c50902b8cdda2a2155b8616439fa023e9c]
+│   ├── t1.vom [4c936e5c125b652d687cc00215a250c41f2f9b2ab85bcfc7f950a62cf0d001c6]
+│   ├── t2.vom [30efb611c5055e1ea5943ef8ea1174f1ba50176ba90b93ecf99ecdbaa34ec523]
+│   ├── t3.vom [fd09b254fa4cebeb36c5b046043e463de86bcf55ff930beef1f065cc09f75249]
+│   ├── t4.vom [e9a991133df60de77d473c2f7546c5769197ee3b584f6dfffce2d61ab464e2f1]
+│   ├── t5.vom [88c6a5bc8905cc48aa1debc383e3f06244c0845d0515a7dcb452e0fd435f73a7]
+│   ├── t6.vom [7fd81f3dce6b7469856c96fc1d1ff6b5f890d5619dc21637cb16ee9bf90f0d33]
+│   └── t7.vom [d9bf535bdc631fec5092331950928d81549c9fafe8254a150496be8c7c90978c]
 ├── 1076
-│   ├── cybe1076.vom
-│   ├── cybert~2.vom
-│   ├── cybtcha.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── cybe1076.vom [696577bb24df4ac32e7eccd85fa1c14551478487cdcba1ffe2e3c68c77368a94]
+│   ├── cybert~2.vom [7045e76883e037c7e3a9e208ce0df2975f5e640d79b3bee372538881ff59d473]
+│   ├── cybtcha.vom [ff4a9e4491229fc4187916bbd1179d2b161b56308015a4d9cbfff47eb2e7b2c0]
+│   ├── t1.vom [95086889c4398cd6cb17bcf8eb8d2acc6fe90d7d6c6353fd8f0b802aeb5eeec4]
+│   ├── t2.vom [1c6a9146171d25d1402ad013a5a38066decf79985883c29ff49c58d228073e2e]
+│   ├── t3.vom [d01543619e95db3ce14cd943e7862fc76bf5c86f77360d5ede359d4cdb5bfd51]
+│   ├── t4.vom [39e72ebb24fc081ec5ce134f071d863d54dae3d3b69f4d1132d03144ba2d8459]
+│   ├── t5.vom [5db6fee46a70263f9525da7a60c3c3479d185c2d68ddc0223ac260b8210b710d]
+│   ├── t6.vom [f325a6950f2e354305f372d2a49c0844fc3603620ffdfddaff9edbf5c3576631]
+│   └── t7.vom [c52e87d2c13fd9c11cbd2685b88f75d238ccccd5506a617c0177737a295fc00d]
 ├── 1078
-│   ├── cybertch.vxe
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t8.vom
-│   └── wci0320c.vom
+│   ├── cybertch.vxe [a5519399feb409070d4fd125e47bde07b8550f5b62d74f74f2d471bed65e81d4]
+│   ├── t1.vom [ef85486af11bf185fb79847c07d5c3af99e7872231bfbfa72366cc3ec68f432e]
+│   ├── t2.vom [ac2f616640109c0238c7967dbdb12113a41aee8843db261e579621cf04c5b615]
+│   ├── t3.vom [0ecd1cb59c7236aee95c156cd875ad38751b0c5a33aced8e78c105fad901fa51]
+│   ├── t4.vom [d0bc3500b4e1268d4c2cd06d8bf23f0b7b1902c3f2e28cbace3d88da8d4ab3bd]
+│   ├── t5.vom [15dfb6797d2324fff937e11711b4651e9c05188fd8505d1e63c6232abe2e5cfd]
+│   ├── t6.vom [7023b64c1bf73e7ded4bf4016cf6303e6aa527cfe2a179cfee1ae500a3290b21]
+│   ├── t8.vom [2012f0b623d1439e259f8017189a1bcd3637e4ee61fae5de574fa1b81015fc30]
+│   └── wci0320c.vom [d36eaf4df39b9147384c119ef6101290fbb8582fb5f850fe89c1dce0da4131b5]
 ├── 1080
-│   └── Virus.DOS.CyberTech.Strain.1080
+│   └── Virus.DOS.CyberTech.Strain.1080 [d03fd1241cc4d3d555818bf6e207bc204340f1c5c08fb414c393652230d185b7]
 ├── 1133
-│   └── virus.dos.cybertech.1133
+│   └── virus.dos.cybertech.1133 [7e4673d25b2436db68c33423ecde82e37a2b96c1c731bb3130d9ec623f8c2370]
 ├── 1215
-│   ├── cybe1215.vom
-│   ├── cybert~3.vom
-│   ├── cybtchb.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── cybe1215.vom [9ffaecf6a93f9f4e5e71d9f643c467428fa8cd8782c52c2cd57172a19e21ab4c]
+│   ├── cybert~3.vom [c70ea3c432edc63c7bf64ff254104aa4ebdcb9bb381d98bf770bd9c4c50d5feb]
+│   ├── cybtchb.vom [d8893ccc46b32c1f477bc61338fc11660baa4a7efa867e2d3860ec2342961ce1]
+│   ├── t1.vom [588807786511bb9c9cc47312dc7effe8f46b3539283fc0470c68d79370504cea]
+│   ├── t2.vom [5a02ca27a6659c4cc0317ee5748ad67bd3ca94886bb83154de641270acb82b4a]
+│   ├── t3.vom [ebb6ee6ef0c87a489d0580bbae0b4ae4f728f7b7f0cf06576c4b1f0555559ed3]
+│   ├── t4.vom [09ca451e0117a590f27ed28c22b02fe0c990013e3abb1e8e86d9c442527d9e4a]
+│   ├── t5.vom [0f2357dbec23052191b94219f0385b68426f5d83705581a71bae337515aa52ce]
+│   ├── t6.vom [19b435b7ec803426208fc056f25e8890f823583f72edb9ff99fb5cc7e7eaec2b]
+│   └── t7.vom [b538c075e2d7a6686f543095e2fb0a02a01bb17ade41d1e0921851b15ff476c8]
 ├── 1219
-│   └── virus.dos.cybertech.1219
+│   └── virus.dos.cybertech.1219 [30d436dd9c6f8413e3747af294c50665fab04b02c5531b91439dd33b4af0161e]
 ├── 1228
-│   ├── cybe1228.vom
-│   ├── cybtchb2.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── cybe1228.vom [f92d91a1955b746da80ee16ca43a23de1f3cb0172c31cc0eb6e62b128c2f6ee0]
+│   ├── cybtchb2.vom [8df5fe388bbf87ac2039a74175790a61db749c0b291aaac8c481f7d677e2830f]
+│   ├── t1.vom [8625ac65a34fd8e3fd7ade2a374fb32f69bff81b99cca7304a3fa6f79e42f0a3]
+│   ├── t2.vom [038fbc13d255be8c50e44b60c8cda9adbf4ff7ad5c501a0d0fc8a9ac9a814647]
+│   ├── t3.vom [1557a0b34e0c2cb71ac2cf52def7392f96b13b818cbfc8c583781c4a6b9f8a9c]
+│   ├── t4.vom [0173daa0999e7144e7d90401474e08c4199cbf34665c2ab6427bc499a53a8a3e]
+│   ├── t5.vom [1c02073d36f25729234c26ec40b62426eee0501c17d40f359b7f7c3ec308ab02]
+│   ├── t6.vom [de686e46c0f614b0d90c73b658f3b495af33347fbe1a8ae36ae87b22bb15def8]
+│   └── t7.vom [0374f7c59ab3f3bb322eed0429f140b64ceba5126f503cee673f513caa447255]
 └── 1232
-    └── virus.dos.cybertech.strain.1232
+    └── virus.dos.cybertech.strain.1232 [47d9c5cc8e1da4c524b29fe93271bc40ade01c5cb028fb97799433367cf765f0]
 ```

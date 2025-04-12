@@ -4,59 +4,59 @@
 ```
 ├── 670
 │   ├── a
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t9.vom
-│   │   └── viola.vom
+│   │   ├── t1.vom [ba5cb5219b9b102d44f02226f8a41d99f9cd5a9fd45ce9c151e4561045a51bc3]
+│   │   ├── t2.vom [ac61a49d15915c80d4781621421dfebccbf64c5cde6175d8a7ef04790c665bb9]
+│   │   ├── t3.vom [79d830320ef2047ce4ed236e292160da69d9c66bb5f45a65ff045dcbab15cdb5]
+│   │   ├── t4.vom [2c3c691dab3d7aebfa2bf54a09ac8bb0919b4f0d4d9503f31f74b5e80696f9cd]
+│   │   ├── t5.vom [343539212d1af382557abfe576f46bfba998d363f1bb510fa84edf9925ced839]
+│   │   ├── t9.vom [1ca6d61a5799bcdee6fb46a8f98427d82da39f7dd91454c0a1fc261d52acc9ed]
+│   │   └── viola.vom [e22487339179f800c0a3c072095f8b7c015317f40755f303fc3f7e3a0ad25449]
 │   └── b
-│       └── vienna_6.vom
+│       └── vienna_6.vom [384ef20a1a2aebc7b77f7ba8ddb0a22252d85a4b8d8ef2ac8e8ddc7907ce9117]
 ├── 707
 │   ├── a
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   └── v1a.vom
+│   │   ├── t1.vom [ae3210f9cd06224f6533e2ef7c9bcd1052e01bba16b377fa16463095b5644877]
+│   │   ├── t2.vom [69455f02f395a93f5ed6a70ff052272cadaf4ef86e33b424887a049766052d47]
+│   │   ├── t3.vom [aa4ab9a623ca0f05be1bbbcc7fed74c55d9f87c260269d214133a5c3dc579e1f]
+│   │   ├── t4.vom [167628b28265026e45f23e17a8a95f7c5de4395c441ff5b48ab5365613c0142f]
+│   │   ├── t5.vom [ce8148923007c3456d47c2439eeed77818c8dc1a561201f692a5e662c432612d]
+│   │   └── v1a.vom [3074f8e30de0f7a7b879a2f433422e0d24b29752064931ff266e2d463e3ed9dc]
 │   ├── b
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   └── vienn~56.vom
+│   │   ├── t1.vom [8c26c7472323b11a464961cb3029d3e7f8bd6d1a7b6973f0a5d3396afe17dcef]
+│   │   ├── t2.vom [ebfe5e3b554585f7f11a43585696096a1cb83ed16159ef0c2e70300979f40e9a]
+│   │   ├── t3.vom [690d3bb203a7162282ce7b4fc82623b221d0cc9c17133489230847a6b45824fc]
+│   │   ├── t4.vom [82d3171e07b3a4d732a4d3f1678672aed93c31e7835031b121987ca8fcfff684]
+│   │   ├── t5.vom [26e99b2a3ee941683d439625e89df5a44570d183fda7460f01a7c7b0cf1cf6d5]
+│   │   └── vienn~56.vom [49bafdc8a6bc7cf65bc718bab6fb3194ac89c44e3e3e4cafbac02afbf0ee3390]
 │   ├── c
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   └── wci04172.vom
+│   │   ├── t1.vom [28851b718b039eae78be2b9fe491b4be8db5bfebba2a96b504350677f1028016]
+│   │   ├── t2.vom [584c8e93a0c944fc8384761f650f0441857a41a0739d66141168c51ebd3cc1ab]
+│   │   ├── t3.vom [1758d339b30e6c067817286d42d23949dda6cace70ea1f43311af834f2574a5b]
+│   │   ├── t4.vom [dd915e2aed4ef3357d321497f812e55a5f940720f2769addcc7f8538b945e77e]
+│   │   ├── t5.vom [815e142d4b2218ac305d8cdc69724c755bad1b3253f3061d74ed2697f597dc11]
+│   │   └── wci04172.vom [9392c0c486a7a3d5f2bc1d66fc88be1de84cf600facd7a319d818a4bf9d57577]
 │   └── d
-│       ├── vienna_7.vom
-│       └── vienna_7.vxe
+│       ├── vienna_7.vom [d0324350e37c4da74e8e104d8cf0e9444214b1271ee1fa524a029595a334ed6e]
+│       └── vienna_7.vxe [1df814413fde8f05f7d1948d6486862db7772b425398f9b7352508fd122a88d1]
 ├── 708
-│   ├── gen1.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── wci01754.vom
+│   ├── gen1.vom [ee2d96def746d1fd8914a4d5443e62947e6248d3e97de5fd9d5c154cbbe440b9]
+│   ├── t1.vom [425916286b0b8b470bd38a51e2a7e2b51558573df1fad5ee51d0130a6e515e17]
+│   ├── t2.vom [8467d2b006e072ab28557e56cd0e6f2f35a1342e510c6fe1db6062ef310f6056]
+│   ├── t3.vom [53cd43afe65acd5de75a4dc5e69851d1397b50597a4f220109a3a1b3b4b32545]
+│   ├── t4.vom [fec207ec81fa6692ae493220323fddc85ec6a0095f16bbdfab989866ea789fe5]
+│   ├── t5.vom [d9cd8a9a0062aeb535f86a13d391f6311a4ce7481a0889f0819f8415affae071]
+│   └── wci01754.vom [53253b890ecb56560790e7a6b256f733313fef9ac74defd8c1cee061d2c7a6ae]
 ├── 710
 │   ├── a
-│   │   └── virus.dos.vienna-based
+│   │   └── virus.dos.vienna-based [af8d81cf0fa8cda45e5873e5b37f307dc5527670b5eadcecdfaaf71f9bfe7882]
 │   └── b
-│       ├── vienna_7-001.vom
-│       └── vienna_7.vom
+│       ├── vienna_7-001.vom [ec72f0561e07802e2c375a7eaba5e4012bceb9c2cc3000162c59cd925834c296]
+│       └── vienna_7.vom [ebdae319a09f5425ef66bef3ed7cbfda06eabf296570fd7bab0dee77e15c70ae]
 └── 758
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    └── v-758.vom
+    ├── t1.vom [fe603337fa84cd5117178d70616301334445f4a37ca8c0772f7cf43e5cb230e5]
+    ├── t2.vom [530d322d37189c0c6277a5ed7a94dcd497dd3cddd82a9caa63a77ca19668cc9a]
+    ├── t3.vom [80a0f3418127f66eb3459dedd8353e76ea2a596a3d69fe87ed5e5dd340210f3a]
+    ├── t4.vom [388474feb1b535354e67ef8066466b1bcd3e1b683cfa3e149ecf2a4e792a6fdf]
+    ├── t5.vom [0926398da3ae439e5777085135848611284d1df9bb97fd8919660bdc8f445f87]
+    └── v-758.vom [e411c9bdefae399e84a988091bae3e1375ab0df10058266f800503f88265c097]
 ```

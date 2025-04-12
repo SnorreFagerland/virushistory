@@ -3,11 +3,11 @@
 
 ```
 ├── 1199
-│   └── wci0206d.vxe
+│   └── wci0206d.vxe [e605fcf3a2c2851d883d4b3fb4550b6e3465f477165b5deabb5b93907e80443c]
 └── 1759
-    ├── brun20g.vxe
-    ├── delw1759.vxe
-    ├── fc.vxe
-    ├── tes10000.vxe
-    └── xcopy.vxe
+    ├── brun20g.vxe [675b6ed80884cbcf70e239b1fd2bea725d5fb5ef79c5a1e74d4e907d7cf1df24]
+    ├── delw1759.vxe [da0aa7462f5f6646151ef08f77f80670e62859a69d232c554282fb5a8a5b6fb6]
+    ├── fc.vxe [65f343f4d533e54d5fa8699b11c838701b5f900e39a9c19be8b4692250739aad]
+    ├── tes10000.vxe [65ba38bad48971555e06d122a910e6b122861269965a74735638d647108d7c21]
+    └── xcopy.vxe [28c1903043a5213ccfe97c9ad14349c7fe1183478f50800654a385726bf52081]
 ```

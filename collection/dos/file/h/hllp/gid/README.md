@@ -3,22 +3,22 @@
 
 ```
 ├── 05339
-│   └── Virus.DOS.HLLP.GID.5339
+│   └── Virus.DOS.HLLP.GID.5339 [22be48be8ddd029a4d51d3a3c74ee48ec14d35179e773fd9fea419f6429f42de]
 ├── 05453
-│   └── Virus.DOS.HLLP.GID.5453
+│   └── Virus.DOS.HLLP.GID.5453 [e060a3303a1a3d5fb9f8cd7a479b8470e21d229191c69db65989fb280d1dd971]
 ├── 05521
 │   ├── a
-│   │   └── Virus.DOS.HLLP.GID.5521
+│   │   └── Virus.DOS.HLLP.GID.5521 [9a8a0f05b98d9a1cbcacaadad6efc9eda138542081546198b151e585710c61dc]
 │   └── b
-│       ├── hllp_552-001.vom
-│       ├── hllp_552-002.vom
-│       └── hllp_552.vom
+│       ├── hllp_552-001.vom [e153a0e5da66c273f87f8f394b8bd7b4b705a6356f2e6c469d5c38644f84c0c4]
+│       ├── hllp_552-002.vom [fa5d6142c243a160bbf793bfd26f7cdc5ff3bd50769c459e0662292409b85fa5]
+│       └── hllp_552.vom [c3a3860f45eebf469961bc19ec1ba579d26bfd92f3cfd6a06e609f33cb8bc164]
 ├── 05681
-│   └── Virus.DOS.HLLP.GID.5681
+│   └── Virus.DOS.HLLP.GID.5681 [8600df7cccb2cb7b36529f34d6577cf250e87d01ae499f6a3e3ab937d0233147]
 ├── 07509
-│   └── Virus.DOS.HLLP.GID.7509
+│   └── Virus.DOS.HLLP.GID.7509 [51c116bd67fb579308a376565d39491580bcc3382adc8177722325625a39e02c]
 ├── 08153
-│   └── Virus.DOS.HLLP.GID.8153
+│   └── Virus.DOS.HLLP.GID.8153 [a5d277dd3ec62bd8be2aee2ff257605a9905edb315496b97a66568e025525e51]
 └── 11824
-    └── virus.dos.hllp.gid.11824
+    └── virus.dos.hllp.gid.11824 [e7f056c536bf91d22f21b2b93ea114eaf722de9ddd9e967ab097ca7d477598a1]
 ```

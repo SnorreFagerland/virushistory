@@ -3,27 +3,27 @@
 
 ```
 ├── 938
-│   ├── dewb-938.vom
-│   ├── dewbug.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── dewb-938.vom [baddb438122046c021c38c3968f5536f6b94432ac589c73ad6e0dbe07b25cae3]
+│   ├── dewbug.vom [a0cd633df007652365400e265c491e59ee1fbb3d5a1f039cd08375444d093269]
+│   ├── t1.vom [d50811733935fdf003d99f5566428060f0eb8c5f01f76f5f33d6b4a63a6b182c]
+│   ├── t2.vom [9146826fbec953969373d75de2cbb6aaafe97f54a2046153fc2ff4645b0b1211]
+│   ├── t3.vom [ede2b6fa2ac96269ea82f6260a71578633f47864a31111e84543a36afbff27a7]
+│   ├── t4.vom [b1aafd2e749f521887e5f7ea8327af9eff79b097b636778934b657706ca446aa]
+│   ├── t5.vom [b441f7267f7b975d3271266cc6f1d6b8ed5cdf8efad1e3e0b1f69d1725bb2da4]
+│   └── t6.vom [53ec8078d5cb5074af6198327950829b0a7d6066f0383d80acb3630d7fc3df44]
 ├── 975
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t4.vom
-│   ├── t6.vom
-│   └── wci0082y.vom
+│   ├── grep.vom [de0f18968feb6e2d81e4976d03df97063575729c99e38ce74d7b158ddc286402]
+│   ├── keyb.vom [f1691dbdfae8b7122fc19829bc1a402ac121721e64b30b63e2efa350197087fc]
+│   ├── t10.vom [4f199ac5660bb4b75fa2b35971d2378f6b9d4f6e6d41ebb44764c8e03cba165d]
+│   ├── t2.vom [105a89555646ccc999e18578128b9896a2f0586988a808d4a1c417a6cd7a0a11]
+│   ├── t4.vom [21bf2fe6f75eef9b79e274ade5339d4507981df18d05e2fbd24ad4e4a1f4b24f]
+│   ├── t6.vom [4868f8a414cfea8c4d9846d982b86567ab6a3457a6b62b9decb5ee4ea084a381]
+│   └── wci0082y.vom [5b7ad6eb7e573a95b11378f35896376ff2394f1489dd36df691618934c236de8]
 └── 980
-    ├── dewbug.vom
-    ├── grep.vom
-    ├── keyb.vom
-    ├── t10.vom
-    ├── t2.vom
-    └── t4.vom
+    ├── dewbug.vom [9ebf6f1e15a3a97b2389d515e49ebe047601225e665d36c87b663bd27ecb559f]
+    ├── grep.vom [067481dda6c0967bce52cae470e98d2fb82c3e33b7eef202f46567f64151403d]
+    ├── keyb.vom [842d4adb95721cbb6229843d5200ac0a4603f0a306963322bb8c4e0b4036c9b9]
+    ├── t10.vom [f3494670f2d2a995e57592cb98cf05de043e0ad80b27d79eaae88fb9fa05b9c9]
+    ├── t2.vom [5467032c33a4b4d48cdee4fe80d27c3be3601fa5d5812ebfa7b3113e54037d57]
+    └── t4.vom [614b8a4644cca6a082029f5ad9778ce4cad201a6cec4b560a4f941b0d74501be]
 ```

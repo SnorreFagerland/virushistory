@@ -3,60 +3,60 @@
 
 ```
 ├── 1972
-│   ├── 1-st1972.vom
-│   ├── 2-st1972.vom
-│   ├── 3-st1972.vom
-│   ├── 4-st1972.vom
-│   ├── stri1972.vom
-│   ├── t1.vom
-│   └── t2.vom
+│   ├── 1-st1972.vom [67044fe636366a485f05fb149fef41bae5de41a3b1099f87c516832fbe917f11]
+│   ├── 2-st1972.vom [0807346ee385e1ad3c5bf758947ead28a0b96c598a776d4eda4e285d13e3621c]
+│   ├── 3-st1972.vom [de90544ca34feaaf3a2121954d19f5e8e7b0a736f4ae2ef4c36216a2fdef9c20]
+│   ├── 4-st1972.vom [dcd306a9cc20b639f6437df29798bbfe747ea28fc24f7cb0f159526e26940caf]
+│   ├── stri1972.vom [8337acfb205e5b07a557211f4e2c53c905b2cbdbe8058f7461dab339f715c478]
+│   ├── t1.vom [63801ae53bfc902e6e3684b33f3e0a44423004bc70e9f0f7a40afdd43bddd349]
+│   └── t2.vom [d4407cd09f1f319f5876b15952bc60039b8936feb59af8172390e1e041ac6b42]
 ├── 4781
-│   └── virus.dos.dreamer.4781
+│   └── virus.dos.dreamer.4781 [5e6b5ef9294edabdc63e8be27982329bcb85b04fa5f96d78128e6ce378a67923]
 ├── 4808
 │   ├── a
-│   │   ├── hitler.vom
-│   │   └── v2125.vom
+│   │   ├── hitler.vom [1718b5480df2576349a77ae8c79f8bd92ec4a52996f8bdd3bc193cdf4e0ee803]
+│   │   └── v2125.vom [7aad8fdac14248d9a7fc658d91dd230d7588d281eed11e7ad8ea5df67c3a0516]
 │   ├── b
-│   │   ├── dreame~1.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   ├── t7.vom
-│   │   └── t8.vom
+│   │   ├── dreame~1.vom [460be58e87cd1d26873d28ed59f7979409226ff5d162c2d8f8ebd553a8b1012b]
+│   │   ├── t1.vom [2a2427aab4df999efc5b0a50ce9f1fc0afa4d3069c214ca8ba9980ab9b45cca1]
+│   │   ├── t2.vom [ec46d36603e50c1c88dc20d00e8574cf722aab6e5e05738f4a72a10706552121]
+│   │   ├── t3.vom [43d1c1709bda0acc029ab87024e4c0fa8fcb93ccedcaadef548fa7ba1743e9fd]
+│   │   ├── t5.vom [385082de6c243334995e98b004a6230b62c1ec0164cdd9114109dbf1cc7c0ed0]
+│   │   ├── t6.vom [ae3c448f7c73b7fcdacb39b744b0660146f938418d8e1f90a99c2f2f1a25671b]
+│   │   ├── t7.vom [9d2a8c75068c8ef54a7424a8c9aeb61eb0e3b8f3dc8fa5c3ae1c2acffdacf877]
+│   │   └── t8.vom [e7ce78b3874c26d6f9113ca648d167ac575f183a0d5a7800edea57aab46c306d]
 │   └── c
-│       ├── dreamer.vom
-│       ├── t1.vom
-│       ├── t2.vom
-│       ├── t3.vom
-│       ├── t4.vom
-│       ├── t5.vom
-│       ├── t6.vom
-│       ├── t7.vom
-│       └── t8.vom
+│       ├── dreamer.vom [51dc37776b370d512f47a17d9164e9239e2bd583784b4a85ae925611613d0993]
+│       ├── t1.vom [5644564fa2711b44efe27cd37eb92ae49bbc3c7040705f9840b798c742bcf12a]
+│       ├── t2.vom [8edd1dd2f1fa71276082e5ac789b62d187939624997d7982bd00477d9eb6b6ca]
+│       ├── t3.vom [b5e85b023008e6dcc74288c0e03395a94bdbb466771ba6a8546e3e30ccae8543]
+│       ├── t4.vom [d4c0d9ecf3b7a32e5337afdece462ea6ec7f1e14537603b3b298cece2bc59f60]
+│       ├── t5.vom [9899f0510ed52c795beb8436c315944e38195c4da4bca53533ca946419567b6a]
+│       ├── t6.vom [32fdd63092b1cb60d59970093d9828c00027ff51f8ec121fd0b09c65b0306ac1]
+│       ├── t7.vom [763c60c3d5dc8c83e77c33b2d48b3f95b290946b4a5321dbce7611e892700b47]
+│       └── t8.vom [eaa65febea4791face230ea506aca69eddb11a989df84508d97509b8d9450371]
 ├── 4809
 │   └── b
-│       └── virus.dos.dreamer.4809
+│       └── virus.dos.dreamer.4809 [1db83f2a507f96ce252f7e7d4bbf932a4fcce1794f4e445c228b6103f3c79819]
 └── 8869
     ├── a
-    │   ├── dreamer_-001.vom
-    │   └── dreamer_.vom
+    │   ├── dreamer_-001.vom [40c1c3c48040a7186006b93b79efd01c0bd3abb3486d7277d44b451d7c202c24]
+    │   └── dreamer_.vom [e575b13eed853e4d40b09582aba2e38b2b768b621b5380d586aec8b7b7ab8c91]
     ├── b
-    │   ├── dar.vom
-    │   ├── dar8869.vom
-    │   ├── darmandr.vom
-    │   ├── t1.vom
-    │   ├── t2.vom
-    │   ├── t3.vom
-    │   ├── t4.vom
-    │   ├── t5.vom
-    │   └── t6.vom
+    │   ├── dar.vom [ef19d31573e43681c9e63a502a2a2863798bee831968fe2d2f1e382bf238794a]
+    │   ├── dar8869.vom [249f1e79787148cca4e4a901eaa5119eddfdf39d0f564f3bc7cbb924c41383c0]
+    │   ├── darmandr.vom [276fecf7b4a06f2ce8dabfd979ff4b4706196222a6804824412df10b612885e3]
+    │   ├── t1.vom [22194f6a9f6fe306958efbb6e8f372d71b8e09b9fd73065f63085167fbb5a6da]
+    │   ├── t2.vom [b3ca1cec637b5e549aee88388def9c744c27e74b27b28c4697f9604ab723e225]
+    │   ├── t3.vom [df90422f97f16c352f80a403f385963c4f670672ae23d50964daa59572e730fb]
+    │   ├── t4.vom [6d7c4da6f5f8aec4c0bd385cb24245256308c22356a2994ee3e746b500ef658e]
+    │   ├── t5.vom [acb281866c168de8e0142c238889e28bb2c835c1dc8059d212ea21b2c8f232fc]
+    │   └── t6.vom [4e828699e8468dbbd99cf5ff195acc18e93330caefdb4ff46866ea4955c6a96e]
     ├── c
-    │   └── dreamer_-001.vom
+    │   └── dreamer_-001.vom [4446e26744dbb06e3dc8602d5aed5ee82800d30a6a4521d02230e46784cc5a30]
     ├── d
-    │   └── dreamer_-001.vom
+    │   └── dreamer_-001.vom [7293afcd2caf8a73b1d1fca7796972fd64f29eac722a8611eebaec394b9166dc]
     └── e
-        ├── dreamer_-001.vom
-        └── dreamer_.vom
+        ├── dreamer_-001.vom [8dcf9fe35ecb9b0e0e19e18aa1ebcb784e7f0d9b785a602daf1d9c6bbc8aaa56]
+        └── dreamer_.vom [61212385607333df54940989566e275e4c1bdffc93e58e6a107ecd07a7322692]
 ```

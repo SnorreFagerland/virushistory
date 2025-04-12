@@ -3,19 +3,19 @@
 
 ```
 ├── a
-│   ├── stard789.vom
-│   ├── v9145.vom
-│   └── v9160.vom
+│   ├── stard789.vom [2c26691a996be0ecb509423f9c35ddbebd19e9d4f49726a39cc97b19c75568d4]
+│   ├── v9145.vom [d09913907335078018e1ee8a7e6bc696b6980b915f6a9dbf513fb009e9175220]
+│   └── v9160.vom [9c38a7fed9425e495f365d6923e1d3b2e0b8c8070069e10b94bddccb80845105]
 ├── b
-│   └── sd789b.vxe
+│   └── sd789b.vxe [667a91636f948415e6853b0814460291b741d23cd451f5f9115afc9181b26ab7]
 ├── c
-│   └── Virus.DOS.Amz.789.c
+│   └── Virus.DOS.Amz.789.c [4590c7fe6f7755968219fcf905235a697806c9d1ec2cfc423c43b9818a157acc]
 ├── d
-│   └── sdt-789d.vom
+│   └── sdt-789d.vom [e101024490af9edff2e922b95463a5e56c1db820a45eb430a8d96bf1343dc4d4]
 ├── e
-│   └── wci03892.vom
+│   └── wci03892.vom [05ee35afbaa345ec77cf4c5f28069e61b868dd2e4d2fb36286f4cdeb25b89922]
 ├── f
-│   └── Virus.DOS.Amz.789.e
+│   └── Virus.DOS.Amz.789.e [0a1a47911b68d66c002529465fb03a19a0324ca0f6e439f73a784c38e5620430]
 └── g
-    └── stardot_.vxe
+    └── stardot_.vxe [308f624a54e34284db56117836091b346e1c2e0a9a8efe3e152a6da2070bf0da]
 ```

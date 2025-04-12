@@ -3,12 +3,12 @@
 
 ```
 └── 1769
-    ├── 1-za1769.vom
-    ├── 2-za1769.vom
-    ├── 3-za1769.vom
-    ├── 4-za1769.vom
-    ├── c-za1769.vom
-    ├── t1.vom
-    ├── t2.vom
-    └── zane1769.vom
+    ├── 1-za1769.vom [9b65dd1d7959b8387a963990a28767ac2dca77bec251fbc2640b119ae8369990]
+    ├── 2-za1769.vom [58b2f79e26e63a5094d3e13a7bcaa00db005818d462a158c118c2e4bb1d2eff4]
+    ├── 3-za1769.vom [2424d139acdb15c459ff3394d51932235a8b7c296955d96a2b2081cc0fce637b]
+    ├── 4-za1769.vom [2e92fc062f56266781152b7b1b893b225da61057580410dc0ad2e0bfd5280826]
+    ├── c-za1769.vom [24d2c9ac4b05a38f71ab3905b0a6171a095d90eec8055d61c93996218eee2829]
+    ├── t1.vom [2870c5aac91a66ff97377783c01e617af1718070f656358b5acfbd9cb5fd7216]
+    ├── t2.vom [0a740905f9c4d8f9c49e1323f34aebfaf87b2005a6760a8c388949b60f6408df]
+    └── zane1769.vom [259b0b59c7ba6bdb56ddb661c9154501ac5faadec66b6ec16ede3cf4b9180a9f]
 ```

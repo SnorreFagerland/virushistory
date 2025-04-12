@@ -3,26 +3,26 @@
 
 ```
 ├── a
-│   ├── 281.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t9.vom
+│   ├── 281.vom [2a045f2245a1caf2340902a384813af5f28d18b2b12ee97369aeb6031c374b26]
+│   ├── t1.vom [4e2ec4d8109c18f61b94f0e99554d125369bd358f2fed12b9c602f0e560493d4]
+│   ├── t2.vom [561fdcab0f4b4f7fd1e6fbead661f75a0251eef6a8835c4a182c372e580f69b1]
+│   ├── t3.vom [637f4d2b9c849e6151cfcc1ed6e997aebe397b32d5a494a5062100cecfbdc140]
+│   ├── t4.vom [ebca026fc0c766ab23576aa0986058af6ef857d6f617f7540b28ca929a0c408a]
+│   ├── t5.vom [cb5e0572e3a93a79de74fba02c0808da79b9c79f13898310250835ec36e05eec]
+│   ├── t6.vom [6182316450904f2cdf5ecdcf34bdec4e60c40b5fa132a7b890f02926bbeadf3d]
+│   └── t9.vom [705cd5c4858cec4f45815b96368f49372c118afe20ef544f1a03aae2ff103efa]
 └── b
-    ├── c-civ281.vom
-    ├── civw-281.vom
-    ├── grep.vom
-    ├── t1.vom
-    ├── t10.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    ├── t8.vom
-    ├── t9.vom
-    └── wci02822.vom
+    ├── c-civ281.vom [29e13f26027f3f64f4edda33e55b4f02286c36fff25619058f6675561e21db63]
+    ├── civw-281.vom [b318a7ca5ed7697620dd331f933b1ee51ae3fbc697f7ecf011cc936f1fb98811]
+    ├── grep.vom [621bb536624fc03a9cf4f5763cd2c5f18f6494d347580cc61a6537d49d9b218d]
+    ├── t1.vom [6e4dfc763b479034c98e664abea6de1c309e1f8e5db3fdaec23321518af6ac22]
+    ├── t10.vom [e24b930ebaa4c3767e9000bae59ee62dcc0aa65c2f4b46ab841f2d41ec333e2c]
+    ├── t2.vom [d81ae026cd7aea41f19bc26fce5cc3079752d22faa659b965f32a960aae55c41]
+    ├── t3.vom [4ebd8c15d3f856bfafa0fde016700f58ac2d86a5bd632cbe79ef59f21815cd29]
+    ├── t4.vom [ba8820cab446072e373c200fd18687e7eef12071735fe4fc3651880b0ed8bef8]
+    ├── t5.vom [9a356e96a4e12bd637fbad5fee6b768821d5c4c862a22b551daf184ca933e75f]
+    ├── t6.vom [4dfd46723b32f193a1dd3fe3c8835f24bead875542137340db58b130b327eac4]
+    ├── t8.vom [bfaa66e41b57c6b56c9fa25fe478f4c630b2261544686a82e4450b56641de43a]
+    ├── t9.vom [51b4d6257ae9a34e84d2cd38d2386271b6bc17d6f4b88f36a6a775161d217dd6]
+    └── wci02822.vom [c933d8a8ac4a147cbeee0c48045e5040a5672e9da83e9cb122d7bffa18adf3b0]
 ```

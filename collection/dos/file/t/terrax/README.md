@@ -3,23 +3,23 @@
 
 ```
 ├── 1027
-│   ├── t7.vom
-│   ├── t8.vom
-│   └── terrax.vom
+│   ├── t7.vom [69a403eb241b1cbddd9c02219a014862fb4bb1ddf8d876a2cfa6376bea1a9c70]
+│   ├── t8.vom [74831193bf442135fd6b04c70c55ed2f6937e4a6ce18c073c304be3d35a394b5]
+│   └── terrax.vom [b654b974e1b271461a38e6235e9ceb076128926ab31107d802318eb3e3d04b3c]
 ├── 1042
-│   ├── 1-te1042.vom
-│   ├── 2-te1042.vom
-│   ├── 3-te1042.vom
-│   ├── terr1042.vom
-│   └── terr1042.vxe
+│   ├── 1-te1042.vom [e3d4b6d72c0fd1c39a9f72e207f3fe7688817657f3d58945079303bb3d0f4544]
+│   ├── 2-te1042.vom [3da046f573633f7f865d546d270a9335ca085b40d6829f331fbcba3fda440481]
+│   ├── 3-te1042.vom [515188972c63ea9d2428a49ea815ec4e38fd60a7a5319e6b7c18b979559641af]
+│   ├── terr1042.vom [22a656fa764d475ba0eef2d5ff72f0052693d189316eb5cfac9a06a6c2819bdb]
+│   └── terr1042.vxe [84a7c7ac24622a2ed6ac5697c834567aa2a208779f6be7afd7deabe3095d8593]
 └── 1069
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    ├── t7.vom
-    ├── t8.vom
-    └── wci0076t.vom
+    ├── t1.vom [aeaa7f3c1e564a3d2c57b6d121e6ad4ae6011a23634f49274060aafcb9b8140f]
+    ├── t2.vom [9728b39f3287a9781830e0560ac2500d73d2ffd4571e267c590398b2215f4b66]
+    ├── t3.vom [92eafba38cf33de8627d9e36eb6a685f475e34dce1a2c386ca0e284c2af49ef6]
+    ├── t4.vom [a9cea4e6f22cbbe713dc22a7a5b6d96cb464c6dc918fadd97f5d756e410f9198]
+    ├── t5.vom [b536f0ae5646d80eff5df564ac73e0fe27e816b39a6159d2b6c450325516650b]
+    ├── t6.vom [8f01e4bce663cb4c4952861bda6d2ee482f934841e67ea1d715bbddee9f2a01e]
+    ├── t7.vom [a45f5c5e8141ec0470e7b14f7721bbd0c1fc7c2ab3c650b3c878f12223c3bc0a]
+    ├── t8.vom [c348d87094ea94744efc3c760030ea0329b66c43db9dcacf45a444c750e4d278]
+    └── wci0076t.vom [c1c3506265131dc700fbbe75e10bca535ae33f317f7697e089a971233e21b089]
 ```

@@ -3,19 +3,19 @@
 
 ```
 ├── a
-│   ├── infectme.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── t9.vom
+│   ├── infectme.vom [4008afb33b8cf85bd8453a3142027063c2be50a20e887b16abbb9a4e1c04c94c]
+│   ├── t1.vom [f2395c79160a948f4a0887ab1dc778144623060395d0651f4012a8fa1c6dd080]
+│   ├── t3.vom [2415a83c13a6cd16e95785618d2aefa03ea34b7fea22fe0411f8613734891de0]
+│   ├── t5.vom [450fca5285d12b00732dc5b53560631ec0e374b252cdc5d45b3fc038374b32ec]
+│   └── t9.vom [ad45fe2738c3d834d237e5ce29c575c62756221ac8cbfd37a4154460ddf54267]
 └── b
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── vw13-377.vom
-    ├── w13-370.vom
-    ├── w13-377.vom
-    └── w13-377a.vom
+    ├── t1.vom [bddda46eaff8c2771dab9424db3fcc62a478a0a5b5c75bae22d3194c947d475c]
+    ├── t2.vom [14dffc791623cdf652b50e581c9c5ceedd6adffbe441aedbb20ca4a9f3c17876]
+    ├── t3.vom [fe059b709db487a201277e8a1c69f6cd86e89f0069b505b6c23a37cf62eebf93]
+    ├── t4.vom [cc782fc1847163fff6a1fab561ff9841771fdc7479cd9827855b5b5eb647fce4]
+    ├── t5.vom [b0af392f0eb7c7e4fc8ef9652b81802aaaeb613fc78338bd4277e4b5026d276a]
+    ├── vw13-377.vom [f2900032026193a788db0bbbfbaa3e78ad24d0bd1024af77da214ae288eed1dd]
+    ├── w13-370.vom [107b6cdad7d7e351cf1e6543c4a0f02e3b972a21cc46816e9c6365d140bf1cf6]
+    ├── w13-377.vom [61ce9f61ba07054ef46b5243cb8455f14576b5cb6da66beb526f600dd133f42d]
+    └── w13-377a.vom [cdc577eed2378b332d9eaa29606b47c823469a9f127afb33d7224ced46fa9c83]
 ```

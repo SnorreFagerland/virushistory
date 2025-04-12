@@ -3,48 +3,48 @@
 
 ```
 ├── 469
-│   └── gidr469a.vom
+│   └── gidr469a.vom [41be11feecd0f2ed3a0c49cd109c6b73819758be02cb35cd611e69fb3b84f9ff]
 ├── 501
-│   └── virus.dos.gidra.501
+│   └── virus.dos.gidra.501 [9c2f7c64a2deda8aac9e72d58c67a254063331d43e7435b9b917e4ae5797a54a]
 ├── 502
 │   ├── a
-│   │   └── gidra502.vom
+│   │   └── gidra502.vom [866a8754782c7e51ae48aeb8a89b8a16aa91f2ec56f8faeae463020ff7f12d90]
 │   ├── b
-│   │   ├── gidra5~1.vom
-│   │   ├── t1.vom
-│   │   ├── t3.vom
-│   │   ├── t5.vom
-│   │   ├── t7.vom
-│   │   ├── t8.vom
-│   │   └── t9.vom
+│   │   ├── gidra5~1.vom [e8b499d78a4441881d4eb763f8ba292e5da49ba13e740612f28891abc2874e04]
+│   │   ├── t1.vom [2c417c8614cd172fa76cae56e111c90a5e238acb08119835fe8e319f906c1666]
+│   │   ├── t3.vom [fb5688488b7cdbd238dcbda3bd4d89047810f0151794e4cac1f98e71b0afd51d]
+│   │   ├── t5.vom [7cd2110ef0497e6046277c0daf74945ccf3a89d7a299d2cddf58e24243d71b1d]
+│   │   ├── t7.vom [1e5547d74144921840ab5b41d6b682ca4587a36c89864103e863109be42a24c6]
+│   │   ├── t8.vom [41381c636f2e6a1ab8ca8efbee611c5b833010111e0834e023735df6a73536a8]
+│   │   └── t9.vom [6425336848ba79df938b1ff5154351be1bae09fd05da532b5b2205abf135cd83]
 │   └── c
-│       └── gidra_50.vom
+│       └── gidra_50.vom [e8838ded791a36e7ef676808a819ec059f5f6f6a0fcd06c4757504ea62705731]
 ├── 503
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   ├── t8.vom
-│   ├── t9.vom
-│   └── wci0268g.vom
+│   ├── t1.vom [7ac9bf436cd160869d91dbb54114b8e77835c95e0d514c3860eb82bdc6747395]
+│   ├── t10.vom [dcf0dd19ecc64c58f2fc55732323246e44a8d47f2cba4ab1d9bddcb1e83a8389]
+│   ├── t2.vom [9147d018837c2f639b01ab7d685f976cff42557d72e37e90fea9d042d462d8ea]
+│   ├── t3.vom [ceba3f7fd0a22b33299f50e6b83a6c160841c94181d3fb54fd0b73a69a846af6]
+│   ├── t4.vom [6dea6af426f1b10761a0bcb3777a03d97b3a2c841e96ca191e7ad11330e81804]
+│   ├── t5.vom [43f34c2bc8b7bd6784965e9a242700ccb11d5a37c2d5d9d65005174054862315]
+│   ├── t6.vom [0897dcee6c25bc0da5d4d53208c2823ca6f61649f7f490c7abcee7ca5a37f8d9]
+│   ├── t7.vom [7d2cabd80f7df9d5fd079d363cb3d9be083f2204f6ce790869eb2ba1491c2479]
+│   ├── t8.vom [ca75e2d1ac1de6df4f38779933642e16d291f9a68b94a554fba230ab56393cf1]
+│   ├── t9.vom [88a884ad60ef9b92765d418e39e2542f06e44f1be7369926bfc865c570134a9a]
+│   └── wci0268g.vom [092e2c2437eb0991d4915c8d52b2681a0e43bbea16cf3e37f26d40f78e52787f]
 ├── 505
-│   └── gidra.vom
+│   └── gidra.vom [56bac6eda2618f2242fd63265bd9dd173fb3111eaebd1cfe8b415a026e4148b0]
 └── 506
     ├── a
-    │   ├── gid506a.vom
-    │   ├── t1.vom
-    │   ├── t2.vom
-    │   ├── t3.vom
-    │   ├── t4.vom
-    │   ├── t5.vom
-    │   ├── t6.vom
-    │   └── t7.vom
+    │   ├── gid506a.vom [dae580d06f437715247a5e6a4f952929b10d7df349eb277f53202139e078080d]
+    │   ├── t1.vom [0b4f2889cacd2310be7416bea9c66ee252b7b17d4f7d73d3e2b12d430ab86112]
+    │   ├── t2.vom [ffd03c2e7bf081db37f58316398896c0f3834c9d9cea3d427d08c2ddd0ca0663]
+    │   ├── t3.vom [9284811a7c7125cd02b68b0de7012f2664a21e7a44d2c5ac3bb67749bc668db7]
+    │   ├── t4.vom [96b8504e708cd997ce65dabbbdbab2229be0d86db9e0c38e8880b18e22a90ef3]
+    │   ├── t5.vom [ab542c4b60f916055fa53bb637d3cacad7f18e54bfc752e5b6981aa7fae849c7]
+    │   ├── t6.vom [9a7ed19f036c08027ae2ae3e0082e43b5067afcab8be8a8ec532a97ff9128ce6]
+    │   └── t7.vom [d784a67be1e1294cedbebf5cc918314328825a7905c6a671433d7f9e7c95c965]
     ├── b
-    │   └── virus.dos.gidra.506
+    │   └── virus.dos.gidra.506 [cab40e5c5a01e7d9ea20b9adb93bda25f46179afa3228227bddd7bc9d636a0bc]
     └── c
-        └── gidra_50.vom
+        └── gidra_50.vom [034b5f47b47630293626c673341d429915ba063953e070466de4b43cc874f22c]
 ```

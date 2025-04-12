@@ -3,62 +3,62 @@
 
 ```
 ├── 3600
-│   ├── 1-ya3600.vom
-│   ├── 2-ya3600.vom
-│   ├── 3-ya3600.vom
-│   └── xpeh3608.vom
+│   ├── 1-ya3600.vom [0552ed6d8f44cab14242bef905de5d7e917a3cefcd40dbf80b12980eeb729c10]
+│   ├── 2-ya3600.vom [110ed5b1ba1e2c5eb8c5e5fc044d75843f99291a1c330b763721b5d823df84fb]
+│   ├── 3-ya3600.vom [84649faa5680159b40582f1d653ee4c611926779489f9fd6ec9589db301d8dd2]
+│   └── xpeh3608.vom [56ef37fa5606d65980447d48f7a5cf518c98a0f9b58d9fdd1fc9b68c7c207ab7]
 ├── 3840
-│   ├── 1-ya3840.vom
-│   ├── 2-ya3840.vom
-│   ├── 3-ya3840.vom
-│   ├── xpeh.vom
-│   └── xpeh3840.vom
+│   ├── 1-ya3840.vom [58dc2148e68dcb8c18d2f541bcb492d2af11b99fe3b0a22ce8129306f1f4969c]
+│   ├── 2-ya3840.vom [3af1019c54da9c5c5f80eaa351183cc654c627f55bb8cdf4bcd4b51c7c87cc76]
+│   ├── 3-ya3840.vom [d654cfe4ccff52e332885fab61ae2da58ca0c5b8abf46f2f9892d7179956f9ef]
+│   ├── xpeh.vom [0acde00a03e9d945c99d7eaeb4499e65e721bcd8651ef3ab5595aa2d31b95b78]
+│   └── xpeh3840.vom [560500ed22c61ac0f97d0a3c6d844ef1867fdc63c92f9d46859812c6468eaea8]
 ├── 4016
-│   ├── xpeh.vom
-│   └── xpeh4016.vom
+│   ├── xpeh.vom [30999e1cd30bd8f8d0c788a6e373180451783cc8295b70c3ab67c90af4f9f382]
+│   └── xpeh4016.vom [b7fe75fc33698c638793025e9e63ff9aa49629112313523a4d56eda6d1622744]
 ├── 4048
 │   ├── a
-│   │   └── xpeh4048.vom
+│   │   └── xpeh4048.vom [e2aef3ad7af31bbfaa2064aaa866357c1022f44523278b905c182de18046b496]
 │   └── b
-│       └── virus.dos.xpeh.4048
+│       └── virus.dos.xpeh.4048 [70c2b7dfa9e8f12b1a4656aeaec76e7200d0662459f423bb63c95c01cbc5476d]
 ├── 4752
-│   ├── 0517.vxe
-│   └── xpeh4752.vom
+│   ├── 0517.vxe [1bbd47f1ef23b1eaa4132c940082386ce2d50881e7dc8802871bf57d41249abf]
+│   └── xpeh4752.vom [bd0f530faab546fc90446c0ec0b7fbfa9b880a1d5730f6ead30f6f873443470f]
 ├── 4928
-│   ├── 1-ya4928.vom
-│   ├── 1-ya4928.vxe
-│   ├── 2-ya4928.vom
-│   ├── 2-ya4928.vxe
-│   ├── 3-ya4928.vom
-│   ├── 3-ya4928.vxe
-│   ├── 4928.vom
-│   ├── kvirus.vom
-│   ├── m-pox-v.vom
-│   ├── micropo.vom
-│   ├── micropo0.vom
-│   ├── micropox.vom
-│   ├── u2000.vxe
-│   ├── xpeh4928.vom
-│   ├── xpeh4928.vxe
-│   ├── xpeh4943.vom
-│   └── yd-xpeh.vom
+│   ├── 1-ya4928.vom [92bfda8c9dd780050779564042297e71a7ce5dd66b7f800c4882bd52c2dc3730]
+│   ├── 1-ya4928.vxe [b873321a5e540de2962f0ac91b4702d5f5fb04d0d6d5e1029a4f5a6f31a9213e]
+│   ├── 2-ya4928.vom [9aadb021d08b0e5738cefbad5c115fb215fa1bdf97c6c9ac899a394610c757a3]
+│   ├── 2-ya4928.vxe [de21a39cb98559419e204a8d8b00db001325307cfc6492d85ee9453a2ee6c86f]
+│   ├── 3-ya4928.vom [f4179d71efb33ce201edea802073b9b14441874f63c4dfeb6e12945785baba1b]
+│   ├── 3-ya4928.vxe [f5983bd820347e073d7380a8999838fea4bf45a28798c761a8d94519eabcb451]
+│   ├── 4928.vom [e9fc114684228d215b81cc0b8c63307940b24351078917c6c9553c24c349dd17]
+│   ├── kvirus.vom [b4833ed835e45b4706a299d7ec85f3792f50f76f25437838221849d387452768]
+│   ├── m-pox-v.vom [8aa46d27e22956fc9ddfc813d74f3194b364d351248a94de38a5d5d5d8d51044]
+│   ├── micropo.vom [273406d64bb31f6a66472b3467a7f6d4658c22dae55c1e747a3f0578d96faffc]
+│   ├── micropo0.vom [3f80ba51a2f158b6742fe285c7bb47876df7af3980c0fbb7886789b9e4495410]
+│   ├── micropox.vom [ef44011658d34c698578829ad03c2eaec5a54eb9df5895c7a1a87e73f4f40486]
+│   ├── u2000.vxe [74d97c015fb930ad40de03596f82e4790caa4ea2a6a666a2df4430f9e275b624]
+│   ├── xpeh4928.vom [dfd1a8d6b1c81b0abe2e8b22dda9fc0fc123f576883d59828d5ea74581744753]
+│   ├── xpeh4928.vxe [337a3953ba94d054716402958e5e146fc6bf2acca37a422662d966c0c7736318]
+│   ├── xpeh4943.vom [92505fef8c20483854b21139ea8ec70b58b64c81990146379aedc94129c5bfce]
+│   └── yd-xpeh.vom [2f290e23fb75501a1ecc904d1d7f70a2aaf3d5d91b631933fe84012caa1c51e2]
 ├── 5648
-│   ├── 1-ya5648.vom
-│   ├── 1-ya5648.vxe
-│   ├── 2-ya5648.vom
-│   ├── 2-ya5648.vxe
-│   ├── 3-ya5648.vom
-│   ├── 3-ya5648.vxe
-│   └── xpeh5648.vom
+│   ├── 1-ya5648.vom [c30e53de31eaed81085635329ee6732fa7f08314fe209cae514a7c0ec2340f42]
+│   ├── 1-ya5648.vxe [045b751c7290b2d22bac0aa8563939fed208100d048648315e9829d53c2dbc6e]
+│   ├── 2-ya5648.vom [da62fc1501d8769e00d354ecaef1eabf2de59f54da9d2df1cafa0671e15f56e9]
+│   ├── 2-ya5648.vxe [d37bf979b3fbf46873d1ec873e00fd7f613c0739e569813e488ea09005caed47]
+│   ├── 3-ya5648.vom [c12a0f8089f0ca59e8d294328c7a13a1f9b73ddca5c7df35b6f47bda2ae30dd5]
+│   ├── 3-ya5648.vxe [39311758f572f4e78ef2889bf80cd616d15741bd54892e519ab51a7fbef6d58f]
+│   └── xpeh5648.vom [33156f84364cb117a031354d0fd75cf64658e3e6e737e8dc355b677f25b1c878]
 ├── 5808
-│   └── xpeh5808.vom
+│   └── xpeh5808.vom [8965a8a66c05889797d42d04e6ac80c9cb7a58979d75e0747073792f098c18b7]
 └── 5856
-    ├── 1-ya5856.vom
-    ├── 1-ya5856.vxe
-    ├── 2-ya5856.vom
-    ├── 2-ya5856.vxe
-    ├── 3-ya5856.vom
-    ├── 3-ya5856.vxe
-    ├── xpeh5840.vxe
-    └── xpeh5856.vom
+    ├── 1-ya5856.vom [5c94c21ef643018f425fe38914b09c98d463e6db87fffee731823b304068be3c]
+    ├── 1-ya5856.vxe [d8f51ca761b9d8a32e7a2b731864c0764e229cd46e22bf76d17d22d66fb69e3d]
+    ├── 2-ya5856.vom [e63cb7fb0839075be50925e83f928f4028ddd8e7955108c9e834daae1427493c]
+    ├── 2-ya5856.vxe [2dad0352a5720a2ff9adbbb4a185d64a2e12f06b90eaa92bd4c547462cb1aa51]
+    ├── 3-ya5856.vom [91e1f470704105617fcc4a131ac96cc0ebd56f29caeed6b7f09121f51cbf1874]
+    ├── 3-ya5856.vxe [53e3047b5edeeccae9d6f24181720acb4ca2d215fe208be4ec557cb701196183]
+    ├── xpeh5840.vxe [8eeb7763c6271c87a9b4c2215bfe9e4fba54777216f499da75b4f27739df2279]
+    └── xpeh5856.vom [91bad7065e54f61c860540c2916e7da1109e57d432c3a46786b7ca0a1e775e7f]
 ```

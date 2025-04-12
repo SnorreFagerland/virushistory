@@ -3,7 +3,7 @@
 
 ```
 └── 6530
-    ├── copr6530.vom
-    ├── t1.vxe
-    └── t7.vom
+    ├── copr6530.vom [410b6f070c599878af40ba4514b11b0a0e9c606a31b6757a9d223208d46c44b7]
+    ├── t1.vxe [7830796920989e1060cad2f414507f03433b46fd23f2697fd8c543b6bfac9e6a]
+    └── t7.vom [b38770c4af1d244ab8932707d79252c1e04acf7d005b34128f224049b606eca9]
 ```

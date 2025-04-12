@@ -3,14 +3,14 @@
 
 ```
 ├── 0527
-│   └── backtime.vom
+│   └── backtime.vom [27826890d0059cc0a5c3818c902646f364db245e753f42d3e08e4496af3dfe79]
 ├── 0528
-│   ├── backtime.vom
-│   └── prague03.vom
+│   ├── backtime.vom [b19727f4e5761db8c93e1b2009b2bc15318f02f64d101a57744f9b2e2de1739b]
+│   └── prague03.vom [d54c9d966428c432c04b1e88cf102e2c3b9608eb7397fa22a0d1e66cb2e95922]
 └── 1234
-    ├── t1.vom
-    ├── t3.vom
-    ├── t5.vom
-    ├── t7.vom
-    └── wci1591p.vom
+    ├── t1.vom [1a21da720e1cb46a258241a9390c8c8f76d60bac979fd23088e1995d622007c3]
+    ├── t3.vom [d7fb108a4876e7eec0c84398fe247a46ce4a01cc4d039db8bac2a835cf789e87]
+    ├── t5.vom [dc8b445be775e412f00ae311c3cbc534e418feb51cb39f7bc963cf68d063dc3a]
+    ├── t7.vom [c989bc9737716572eb73fa6f04f717d57335ccb00d3b921230ec035896092130]
+    └── wci1591p.vom [6256f064d041df96854c9074a77e616798a0af5307bf019e7e20a94a9467487a]
 ```

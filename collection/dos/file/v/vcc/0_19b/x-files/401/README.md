@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   ├── t7.vom
-│   ├── t7.vxe
-│   ├── tf.vom
-│   ├── tf.vxe
-│   ├── thespian.vom
-│   ├── thespian.vxe
-│   └── vcc24.vom
+│   ├── t7.vom [1d2ab9cf259728dfd8b5ffd9367b1dbc2d061cd1686fcfdcb2f8cc160b88bb68]
+│   ├── t7.vxe [4f5dd2d1514731270d98d51f71025645d336597ea09a406d3aabb06d931e1608]
+│   ├── tf.vom [299cca758b13f806f2dd269aa51bb93153a017cf978161e1063d4987bacb3179]
+│   ├── tf.vxe [28b0a0bf102855276cec4c3197b7b690e55f54df2d9bf96ba83bb6785152408c]
+│   ├── thespian.vom [e8c7997f4a2b950677f33e30355b7d569da65986453dc205e441c4fe778a6970]
+│   ├── thespian.vxe [1053cceb8d71233e9230a84802dab3499787716bedc21772677cfef7b3944cd3]
+│   └── vcc24.vom [f271aa575162e8de1e5db90805c5f68866b728c4583a162751eb6d6c17109012]
 └── b
-    └── vcc_401_.vom
+    └── vcc_401_.vom [a9ddeabd1223a4b789502338e06f24542b632105f142120981077e195497c4db]
 ```

@@ -3,45 +3,45 @@
 
 ```
 ├── a
-│   ├── debug.vxe
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── trace.vxe
-│   └── weed13.vxe
+│   ├── debug.vxe [4f550f330ba8d743b7dc18545e807112c1810b2a173600fe8fa0ea43b554e328]
+│   ├── grep.vom [e67edd96169a792b9c6fa9a620055887029c09bd2e1b1f34c4681f84fac85eda]
+│   ├── keyb.vom [9287a39875c8c3fa6688e5b86f23930fac3480f21479d5cbec01cb9f7c983ac6]
+│   ├── trace.vxe [a4ec98b091ca3f8b0269384c124aafb53322bcf158b2d82f46851774562a98f2]
+│   └── weed13.vxe [97395cea24a64edb3bfb2b035f3c278487be74a269eddc62e4cf5e36007a90dc]
 ├── b
-│   ├── wci00864.vxe
-│   └── weed14.vxe
+│   ├── wci00864.vxe [c955043960f08473a018232a03946685dad83b4617726ad0ad63a78818060f4e]
+│   └── weed14.vxe [3842847d0591b4e02b115258ee942689eb3c4ccac539074b6c1b498666673f81]
 ├── c
-│   ├── c.vxe
-│   ├── debug.vxe
-│   ├── grep.vom
-│   ├── keyb.vom
-│   └── trace.vxe
+│   ├── c.vxe [1486964b30822fe2d6bc5714643371544f57e961982b5acf7593716a2f317a8b]
+│   ├── debug.vxe [4d97d7a76f9b717076c80c5a52c2c862a683bc9929c680446d97e9ab97db2e3d]
+│   ├── grep.vom [14a785c6425056ea8f0baf81840fd45eab9dc6658fb9cbfdf9e2e7fe074c2bf4]
+│   ├── keyb.vom [fb9636ac61b3d230b84f7d453d54c23e5c648d7b02076322bfff9a58f91d5e09]
+│   └── trace.vxe [7983fd21e93a3e02146998ddcdb7de9139a7793bf374a4c23d361bbf7e1b4694]
 ├── d
-│   ├── wci01334.vxe
-│   └── weed15.vxe
+│   ├── wci01334.vxe [a45c9af56ec84d662aed7b42d27eb155a5b284074376492479fcc1a04b35192e]
+│   └── weed15.vxe [5173ab8d5429ba4fe83bc7b571e9b543c857b5bfb7373c7d1d9c03e4cbe65a53]
 ├── e
-│   ├── rustbug.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── wee5850e.vom
-│   └── wee5850e.vxe
+│   ├── rustbug.vxe [616b7c9d04375296d1663ed749fce9d110cc95a9d947a0510a1eb3c3b73a5c80]
+│   ├── t1.vom [e28fe5a65eaf3983f5aa7ba675107bee6f0769235801ca04794510b7561bc260]
+│   ├── t1.vxe [bccc3e8858b733b456fa8247c27b99d7a9eca7590165bded07c0c07318ae0e27]
+│   ├── t2.vom [19fa49307944663da33956439e3183e005dc33af8c22a5ac49d29067c88d9053]
+│   ├── t2.vxe [d5a178dcec6bbe8669962e1e43d6255c048c14b919ffe4824ad3b9f06674d5fe]
+│   ├── wee5850e.vom [c2baafb045911e337e204f847e49888f9213b2d6b62b4d1d9685b37b70fd8d66]
+│   └── wee5850e.vxe [a186a951bc33d0a4ed223d5fdc05747859ffaaa36c3e218e7a7e49bf2b4b54d6]
 ├── f
-│   ├── rustbug.vxe
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── wee5850f.vom
-│   └── wee5850f.vxe
+│   ├── rustbug.vxe [fa5f789e63f4599659e92f0eb0f22b618847a4bf3ce294b9aa4e8595133b5d71]
+│   ├── t1.vxe [761f68bf3c86d169354b2f9a67ca2c3917d0107ffd01bbe762759e8cd7fef0d2]
+│   ├── t2.vxe [1ff4bb4bc18e6613e1dfec9595a90ecab9f44e309f20e9b09c586e571f2702ef]
+│   ├── wee5850f.vom [73efd69b7696882ce7411692e27603f29c8448bf127e3a1f475e037a41de7b68]
+│   └── wee5850f.vxe [f284dd9c5cbdcc755eb2067ac39d0c355a59b39f03d184327ece55b781312905]
 ├── g
-│   ├── rustbug.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── weed5850.vom
-│   └── weed5850.vxe
+│   ├── rustbug.vxe [7b6633e2ffed72c64a0170e10dda9f285515da1091bad8e1e8a28a87bdae1e45]
+│   ├── t1.vom [96a191db27c2d68aa7476042364b01680f9561d3de08cde7133f510dd57696a3]
+│   ├── t1.vxe [4574dc0fd07bc02ef78682c28b1ffd6277e1997370b3e349d8fd020c1c1f29a6]
+│   ├── t2.vxe [f6970834c49c0e41019dae7c552f178c33e5fb2211cd3e32007a8d364c767b7b]
+│   ├── t3.vxe [3e23bd11460284607ee1d9e9ccd3678b1048f0382cbff54526a2dbf72bd6f422]
+│   ├── weed5850.vom [d47eb61ae8f3fd852a48046ee5c5ccffd0aeb899abfa0148c9e88b2dc13e5ce5]
+│   └── weed5850.vxe [bf3a7f8bc67992cfb845da788fd325f98eea8acfe864272ffdad531d045332e3]
 └── h
-    └── wci00874.vxe
+    └── wci00874.vxe [9dd96b21998f189957306e9c967a423a99ec2e848d013300527756559c404892]
 ```

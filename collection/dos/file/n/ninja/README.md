@@ -3,67 +3,67 @@
 
 ```
 ├── 1195
-│   └── Virus.DOS.Ninja.Raving.1195
+│   └── Virus.DOS.Ninja.Raving.1195 [8734f40131a31f21a24b2e0fba823e94af6dbce914239e3ab2fe0d07f6f0c790]
 ├── 1264
-│   └── Virus.DOS.Ninja.1264
+│   └── Virus.DOS.Ninja.1264 [2bcb5a4fbedfc95c0363111c958a962d5fbe41486f3bc95fc10535c48f8a5621]
 ├── 1370
-│   ├── 1-ni1530.vom
-│   ├── 1-ni1530.vxe
-│   ├── 2-ni1530.vom
-│   ├── 2-ni1530.vxe
-│   ├── 3-ni1530.vom
-│   ├── 3-ni1530.vxe
-│   ├── ninj1370.vom
-│   ├── ninj1370.vxe
-│   ├── ninja.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   ├── wci0068n.vom
-│   └── wci0068n.vxe
+│   ├── 1-ni1530.vom [1617941165bb8b6d582c496696827e23f7c073409b806ae61b2f0a5b8874e85f]
+│   ├── 1-ni1530.vxe [49172b47c210899596d9d68163eeebcdf3195b476b7980772fe3931a28ace6f5]
+│   ├── 2-ni1530.vom [1f86c902246887ad93acdee7d7335c56184b836706a7eb66e0296d66bac13937]
+│   ├── 2-ni1530.vxe [3a6915f37e1c0057ef6e78e223302227d999be642026a6aed0611cd01b841d9b]
+│   ├── 3-ni1530.vom [a1dc0a652dbf7a6024557fe403af0d8a25fb208478127bcba41b5ee9fd06c80f]
+│   ├── 3-ni1530.vxe [bb3f230ba6190a598a56b0284eda5847fe4c5e8fe2852fa1c277dac42df33e27]
+│   ├── ninj1370.vom [e33a49f6f52742226de4a68b9e8741bec71a28794c226b85ca1145d330385958]
+│   ├── ninj1370.vxe [57881d0c64c84e5fd592538b2eea9b4738d858522659ce3da9797e54dcebbf4c]
+│   ├── ninja.vom [7c138a8f9e32a478a572721051249e41f711c544220da8cc9f72594c57a717e6]
+│   ├── t1.vom [ffec154f7eaf5e859c3fd856f105cdfd97e86b3e730f32f8044242f9c61ebf4b]
+│   ├── t1.vxe [b2ead3dca3556cbe19567c34e214b127acec28d05d279c15fc2ac33797e393d2]
+│   ├── t2.vom [da4a72887f77d2b5d03dbe4d199550d7d3e9991d8c6ed229a0b993167b4f0df9]
+│   ├── t3.vom [c6d9a77731b819096189050a54f4700cc77e19d4a41580f438ce6254ae3af139]
+│   ├── t3.vxe [cc76bc6bf81f14c1be1abc5d0d0d2d5264d9ce1f5f651e007567d05f40bf2a0b]
+│   ├── t4.vom [3ad7d5b467a2b02070207e65b09c81c14e2772cf129a090d3125fd090e24e80f]
+│   ├── t5.vom [1f6594a1a65ec7956fdf8bc7f156f086f06c35a5787b08c46f4078300910ae6e]
+│   ├── t5.vxe [9a7037a3a0a0cad45f78242853e688066de8dd804209acd0b1581887a0a4904e]
+│   ├── t6.vom [4c6ecac44f4974458702f9f6854af825401380b42c65f5b3fc1e4e56d22d6a64]
+│   ├── wci0068n.vom [a4a40ab82180d959fa3ee876de6fd94d23f6a650ce5ea963d0962ba140ba91eb]
+│   └── wci0068n.vxe [fb0ed239a6f3a121c7210c9ded6932398f10ddab19fffe709d3c47858700e3ec]
 ├── 1376
-│   └── Virus.DOS.Ninja.1376.b
+│   └── Virus.DOS.Ninja.1376.b [db89d45c37e46dd0a01d5e46ecd7fff413b7621ed6ef02251c572ff6336b6c9e]
 ├── 1383
-│   ├── ninj1383.vxe
-│   ├── t7.vxe
-│   └── tf.vxe
+│   ├── ninj1383.vxe [090af37910441dfc5f567fe5cde4c67057e57d61cce788ad12e85a78fcf176dc]
+│   ├── t7.vxe [ca2db28fafa7d528b2314da3d755eb532e6fd1362c0e745d41c7f5ad29ff8db7]
+│   └── tf.vxe [619fce7d9822fd7ef4bbfe053374f14d825ad6fe43367eeaf107665249139e1d]
 ├── 1421
-│   └── Virus.DOS.Ninja.Raving.1181
+│   └── Virus.DOS.Ninja.Raving.1181 [b6ae1b490fad4b0cd03b5452526e26e6d852e87b11076c048deb3bf9865a2ff8]
 ├── 1478
-│   └── Virus.DOS.Ninja.1326
+│   └── Virus.DOS.Ninja.1326 [a3133b86f5340412d1b155177bd37599564e40d764592075bef63220f80b60fd]
 ├── 1496
-│   ├── Virus.DOS.Ninja.1336
-│   ├── ninj2050.vom
-│   ├── ninj2050.vxe
-│   ├── t7.vom
-│   ├── t7.vxe
-│   ├── tf.vom
-│   └── tf.vxe
+│   ├── Virus.DOS.Ninja.1336 [a1f5b5a28d143b6b6d2442caa6bfa655332ee8e0f89a16086348f5982c424914]
+│   ├── ninj2050.vom [5ace4a10ca9edd8e2fd8589b1da071e26b04ad78d4c64bd8e29afa0925f4ec0d]
+│   ├── ninj2050.vxe [3d6b8b0dd353d3175e14872b4b5161ca65fa6358806c518d019f714bf656a705]
+│   ├── t7.vom [b54ef3374b9476ccdd119d49d11428b52fd7a9980e676edee67d0f2422d9d767]
+│   ├── t7.vxe [59dfe9b0eb228239d762658a10f24ba61cf66ef2d0bebe84094b368f7c081831]
+│   ├── tf.vom [9bbf8a6986e9f3dbf5b906fbfa57cb8e088b79d715dddc8912cb952e9c9be073]
+│   └── tf.vxe [c5b5f01b9f86b5a14dd0d008a48e8917f984f3bf0761238b6fb8e95f3a06491b]
 ├── 1616
-│   ├── nin1616a.vom
-│   ├── ninja.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t4.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   └── t6.vxe
+│   ├── nin1616a.vom [2f54cd2d39b472b1b5d0c8b9220ca69d1a62e44ae96d7529ff5b3c7ad56bc415]
+│   ├── ninja.vom [950bf60073d708601b92d17448991ff7a3a9bd62c52668173d7462d6ab3cb714]
+│   ├── t1.vom [ee7836d1fc8b426418747466c52fb88a9cf342cb61c34ad5bed389b0f1ee4960]
+│   ├── t1.vxe [7f8f5bc28a887a46101de8ed276cfdb1b31289a88012b27f344201b44f8a6f7a]
+│   ├── t2.vom [da2e5ecd1b0914282463daf28cd33e2a07f3ca8abea58c028f3d81fdcb1ec4e4]
+│   ├── t2.vxe [45f6e7222155547ad49316aa58d4a436046bf36559986dcd0b3582491c953353]
+│   ├── t3.vom [d50f9d5cb6c04b58356a9e37b9d08ae8222265ec77a7312e81bcc4b48ca07662]
+│   ├── t3.vxe [4976f8fa32a94485bd5cb5caf37967a12617d599b5ce6cc816749cae02b85f18]
+│   ├── t4.vom [f61016dddbf012acf824b9cfcc8812e0041fa48ad0ce46fbbd4554d2c3697b7c]
+│   ├── t4.vxe [fb0a302958c683fdda2ae3b0b306b17eb1124b4184f5712604e103bed0b184fb]
+│   ├── t5.vom [9cd5abf10bf84c4374e074504b5f174b373c3314c56dac3b197a0980e1f16c29]
+│   ├── t5.vxe [1ab3e7c9a94b1511795a9a8c2ade8249ca9ad01a1e2a5e3f501bfc3b6c8ce761]
+│   ├── t6.vom [fef979001f8a8752d42fc97096b4b610595291034c78db08098bfad75777e33a]
+│   └── t6.vxe [3a7582ecec52ace440b6cbf5de267d65b1348d1050db3f9b0a1516de6329c3df]
 ├── 1701
-│   └── Virus.DOS.Ninja.1225
+│   └── Virus.DOS.Ninja.1225 [50fd66b861d9fbcf7bd03e1e87ac2608a791c51aec195a9a6a39e5ccaf2709d1]
 ├── 1765
-│   └── Virus.DOS.Ninja.Craz.1525
+│   └── Virus.DOS.Ninja.Craz.1525 [973b353acb74f2a89276ba377235467de31274204248328e34fa5a16f5a0c273]
 └── 1847
-    └── Virus.DOS.Ninja.1379
+    └── Virus.DOS.Ninja.1379 [dbea837600532b217b1f9290f87f4b587cf4aa2b04701917d1fedec31417a466]
 ```

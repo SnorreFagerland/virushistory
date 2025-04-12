@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   ├── 1-hl7136.vom
-│   ├── 2-hl7136.vom
-│   ├── 3-hl7136.vom
-│   ├── 4-hl7136.vom
-│   ├── arch7136.vxe
-│   ├── t1.vxe
-│   └── t2.vxe
+│   ├── 1-hl7136.vom [554785d5d21ea39df955a546242fac4a86cb51fd92aa50169110369cc8a51b38]
+│   ├── 2-hl7136.vom [a37ab9fd4a717bb4a50a12214fcefd60f5d64c0003453fd927ce7a32613591c5]
+│   ├── 3-hl7136.vom [6d1c19d394287bae5a7f24f21440c17d75b5fb0f2dd9855ca7a3529c0bda2982]
+│   ├── 4-hl7136.vom [fc8b88594028855c8789ca0e8191c0bb85d4646a56101829efdb4c125e6ae2e7]
+│   ├── arch7136.vxe [88fb621b74be5f7c0ad454c9c85cb50265261269c6e725e445024b220083777e]
+│   ├── t1.vxe [75c6602371b4d17d686e32665fae4db795b4dd1d2812bfb2bc9fd2ad1bc7df10]
+│   └── t2.vxe [25d03838795b82fa8d11fd2ae3f20ba3f12415bf0bdbaff7596cfaf480d4a792]
 └── b
-    └── virus.dos.hllp.7136
+    └── virus.dos.hllp.7136 [97707cd81c49ec53c8d67fcf333b42d0920cbab066230c390cace6802fa0be5d]
 ```

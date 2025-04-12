@@ -3,16 +3,16 @@
 
 ```
 ├── 0482
-│   ├── keyb.vom
-│   ├── lwm.vom
-│   ├── mode.vom
-│   ├── more.vom
-│   └── tu-482.vom
+│   ├── keyb.vom [cb30cc5020e3cb94ff84cfae4f73e6b44e7d78977b462c12a4f930eb3691bede]
+│   ├── lwm.vom [5bd123e4c8b235537e29714daaef0ae51c8744a665524622fe0633da9332a982]
+│   ├── mode.vom [925fdf902314fcf800802df7b18091280a1cf8ec7595c6d6a7917bd2cfd9ca3f]
+│   ├── more.vom [d9e0d3133fd7b7d4d15366a29bfe9f083633411d0d805881e7ce38a8cb72fa22]
+│   └── tu-482.vom [c7c50241a029dae90a344240d04f16968f48ef379b4a3a3354c717db36a82f45]
 └── 2500
-    ├── diskcopy.vom
-    ├── keyb.vom
-    ├── lwm.vom
-    ├── mode.vom
-    ├── more.vom
-    └── wci0481t.vom
+    ├── diskcopy.vom [b025044eabbf11868f5e9f580919c2141320a6a2771bbda2f3a1692a5665eb18]
+    ├── keyb.vom [8a6af757045dea9f96075ce9b22c7e80a617a7cda2b4b8fedf2f5124ab20da85]
+    ├── lwm.vom [a89b23fae3070eabb2ff37d8d8bfdcb4f207afbdc77d556bfd2faeedc4583650]
+    ├── mode.vom [97217be3dbd6d0f944163b2190ea414bc4802e3fb1396a2841898434757fc19e]
+    ├── more.vom [2cfee607c446066f3c6a6ecc82c6af544864786398be1f2ba5b15cc71881b953]
+    └── wci0481t.vom [e9122e4f38c35f110d497201761ae9040eee3df4b0e4598d8ddf3deae015d705]
 ```

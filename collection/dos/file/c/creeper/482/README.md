@@ -3,19 +3,19 @@
 
 ```
 ├── a
-│   ├── cree482a.com
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── cree482a.com [02226b285d75016e61e0d26c536c9c29bb0f5322726611e89afb10b07695a33f]
+│   ├── t1.vom [24085858d8972707309c6604d0de0a8efe89c12c3ce1e6539837a527663247c9]
+│   ├── t2.vom [66b2abf7e4d3f77e27cb8841792ab81ea0aae27bcbc410ed55cc7b563299db9b]
+│   ├── t3.vom [b4aa4dcfffb17ee5c1ed82e653aed3b9f804f4d3543abfd9ccf7dc262ead29bd]
+│   ├── t4.vom [e560ad29b9ab7955ddd7ff64fadb1ef54fde49a8327986d67547a4abf75d99c0]
+│   ├── t5.vom [9291b0f097210c10e05dc1e82e4244d4f0a0c670ef19d0f9e710ef8c9cbfe284]
+│   └── t6.vom [ca9d684415d1e95cdfebd0354946953d9d93385134fff3271d6a22ffeacc4774]
 └── b
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    └── wci0289c.vom
+    ├── t1.vom [7739f76bfc48300722150dd086de56662798c94df7cbf0e6b6f9933a6fad6519]
+    ├── t2.vom [a304b5df2db63b1c92a390aa39ab407b953f6f90da9f94657d82c7b1ec2d1178]
+    ├── t3.vom [d344f7130d0aab2a31f2971e9375c4f22ca5cc743014edffcf66e38470571060]
+    ├── t4.vom [81d4ed3c608f6f101ad43e89b33d12d6368af0341a7c77be969f0682bc9f58af]
+    ├── t5.vom [9fd4b5de6ec6049e32d11360cd9553efd6dcbaf6fbeb0fc8bfcc5873da701823]
+    ├── t6.vom [131add0a7e4870106cd36e3628e2405595ef49eecd67bdc997edf0cb8be5b84d]
+    └── wci0289c.vom [1dedcdd661470b9f403236846e4fc77e08333ccf18640100aaf0565973523024]
 ```

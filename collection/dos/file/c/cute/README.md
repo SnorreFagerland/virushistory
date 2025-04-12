@@ -3,34 +3,34 @@
 
 ```
 ├── 205
-│   ├── cute.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── cute.vom [5fbd770d5effc9dfb488f530f443e1ba224e3d818f882f569325a27ee0f46db3]
+│   ├── t1.vom [3d41313027cac375e747da2c4ae57b58617f874df0ce86a94e58f6432c8b4ba8]
+│   ├── t1.vxe [0de3fe147e63a9387c05dbf926928734cb7b5e24d67403f99fcb9e3423542169]
+│   ├── t2.vom [b962bd80007e1bfdf73dcfedcb421119aa2489483dbffeb90ebd917e2ed7514c]
+│   ├── t3.vom [aa436e20e486c93547af94827be3071784d5a2d1c40899de260a0f2cd8d4f497]
+│   ├── t3.vxe [8110264a36c9f05b5bc78fbc1eb8d3f5277640f2f66bc7f5e590c553b1379278]
+│   ├── t4.vom [836f620301ffef7c89be0f978219b96a44b36853703526aa4c452cee109257cf]
+│   ├── t5.vom [d87b9dd1cd8ffa8373c4e2def79bfc8893d23cee01be340e74e2d9217db28e2a]
+│   ├── t5.vxe [98c21d891bdb967bbf85b912b5df70f3f446d52d0098171bbc325b68e4324dd0]
+│   ├── t6.vom [7c7e2cea24e1823bd6df862464179df6fd0e6ab53fe46cb6da5d4987b6000a16]
+│   └── t7.vom [3be25cf535c383952fbcc0ee02c0967c7259d72ed70cd545597ec2d8e7cbabee]
 ├── 206
-│   ├── cute1.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   └── trace.vxe
+│   ├── cute1.vom [1d85a02cf1f78a0b2f86900beb7be48739380666ef2339e7b555bdd42fc31247]
+│   ├── t1.vom [ef2e5da28f7094b1db00deacac5d1ccd67afa3ed576e98be1fa5db176bb031c2]
+│   ├── t1.vxe [6c947caedd49137fc9dc3f80fcca73171f8bc68ad04ccaf558582af72f13f1b7]
+│   ├── t2.vom [b4c3872bb62422271533c7d4fd74946ebc224ac337933e1509fe25a48ddfdffa]
+│   ├── t3.vom [fb89e10b3987ddb66e3a07bd9d63be2f3c922444520eae9bfdb8dfe165b803d2]
+│   ├── t3.vxe [db9a89f9b7d7f84c6192ce365b4e191e7ba6cfdb568824e7d7dce4ef71b97c12]
+│   ├── t4.vom [b7aeed0ef8c5d01562265c06e529eaf38f96c58ff1ad53ecc54387ba29349682]
+│   ├── t5.vom [296a060daefdd17347cc579ca75f68f64d1b890a04f273c28dee826dcf81ed14]
+│   ├── t5.vxe [ecee498c238513422c4fb7997b6eaf8620967f5ba1a479d60f608910f2d51625]
+│   ├── t6.vom [40b0508d9b4b1c8d9a810a4693614693969bb36f80ce549be43b68cf7bb1be9e]
+│   └── trace.vxe [936a14e3865ae01e5ed29a9c6ca74001ea541949233868e6840f83bf9614c600]
 └── 707
     └── b
-        ├── DUMP32.vom
-        ├── LWM.vom
-        ├── t1.vom
-        ├── t3.vom
-        └── virus.dos.cute.707
+        ├── DUMP32.vom [255a4f6e824d9d94b9250d94ccd2d371ca5bd5120f5c60b4a6ba5eb2cc964305]
+        ├── LWM.vom [df048873aa765a4c3743d52ccabb4c96f90e7f60ebd3cfb9b8a0bc6f1e0d066b]
+        ├── t1.vom [9f0e8eaff188800f2f87d9b14766de0af812500055c30256706037e6da57755d]
+        ├── t3.vom [9d21227a7c018770c6028b5aacc221c044b2abf1b2dbcb7f640866fd39d33382]
+        └── virus.dos.cute.707 [89c3760c08d6e5078c80a14115cc7573cafc802cde867f54970d4695e7a7aa20]
 ```

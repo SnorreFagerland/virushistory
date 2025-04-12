@@ -3,32 +3,32 @@
 
 ```
 ├── a
-│   ├── svc4.vxe
-│   └── u1689.vxe
+│   ├── svc4.vxe [10293e8517d5d68f5b016957b51a7f79e5757452a1285ab62a50dcf101d019b6]
+│   └── u1689.vxe [8045a36f598b683ca5537f2d690cd2c8cad00780b440472fb4434aae23978dad]
 ├── b
-│   └── svc1689d.vxe
+│   └── svc1689d.vxe [d7889eddc2082536a81be32b15b8f16157084ee78a47dd984941ad47aff7bdd0]
 ├── c
-│   └── svc1689b.vxe
+│   └── svc1689b.vxe [86dbd79ae21d96ee682237deacb8113b7873f36d9394b7816fc9a7ed49c044ca]
 ├── d
-│   └── svc1689c.vxe
+│   └── svc1689c.vxe [2bfbfc6f5ef8efe6106c915a699bf3a4487eeed91e5dbbd4ecb865140d79127e]
 ├── e
-│   └── svc1689e.vxe
+│   └── svc1689e.vxe [58ed657d5481b5235d351f46296a612350b38f1a165e7a40067f055f94032172]
 ├── f
-│   └── csw.vom
+│   └── csw.vom [0dae2e58d57168aef1b4e064074ac8a3977e51a1b06a35210418dc28fd82ddc2]
 ├── h
-│   ├── id.txt
-│   └── svc168~7.vom
+│   ├── id.txt [4399f108ee03e0cbc523cfe7cd3071021d0cdada14d7a886da5fd4674b0faeef]
+│   └── svc168~7.vom [f6d624a3567c43decb6e5136f378d4a777bd5c5c50cc31baf1712454f386e9fa]
 ├── i
-│   ├── svc_4-0b.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   └── t5.vxe
+│   ├── svc_4-0b.vxe [9a63fb10a85470feef1a9d0df5e1c92b5c0d4ed0b9b4f86a08368b793fe83a64]
+│   ├── t1.vom [618e981945fc162a98b6332e74cdce27512a764e11aeca884468e8ba8457d0d9]
+│   ├── t1.vxe [599c9531074fcc5a63ee2ad31c4bc5305d32cd6295eb83412afb9bd8725f0fdc]
+│   ├── t3.vom [bbc1c43fe701fb66c66813bb2983161eea5f2135d1ffff916f198ac812e7ac77]
+│   ├── t3.vxe [ef8ae193ec4930354a97ef4cce78b4032329618f904738dc83d6ab81a5daee5d]
+│   └── t5.vxe [f0d968ce996a7d24e84601cdabf0cf4f36c09ec7d7bd6a2566329612446b8a5f]
 ├── j
-│   └── virus.dos.svc.1689.f
+│   └── virus.dos.svc.1689.f [c0a72adbc200691af4976dd73dad6d2f63fe9791997738c2a7b98170ffe72e2d]
 └── k
-    ├── sv1689a8.vxe
-    ├── t1.vom
-    └── t3.vom
+    ├── sv1689a8.vxe [01e4cc90f71af7ada94d47fd525e2f07384c93ce95c117a33d75106a29791ba9]
+    ├── t1.vom [2f3acf99e06bf33396f0731ce88342dc0b6dfd413975af21995af35afb1517ea]
+    └── t3.vom [1b60959f19e659453704514700e48a43f8a3342111f142e1cd7efdc1e25ec935]
 ```

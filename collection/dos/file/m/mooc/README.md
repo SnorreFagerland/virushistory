@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   ├── monkeys.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── t5.vom
+│   ├── monkeys.vom [f8098a87581b44f75dceb25dd7a1e39c70c6e6e771fb7b3d2d573a04ab4074b7]
+│   ├── t1.vom [0014e9ad90ea4552396d4a404a76734b50b4286bb89bc496aebc53b206043485]
+│   ├── t3.vom [f738e461d911bb92ac5abf4df28fa42487f5beaf26537090080509a405039985]
+│   └── t5.vom [55a49cce8ae302be5e3a0edfcbe35eda245586cc2039b937453b6a35bb009158]
 └── b
-    ├── t1.vom
-    ├── t3.vom
-    ├── t5.vom
-    └── wci0266m.vom
+    ├── t1.vom [bb93cc2e361a977211673489d09f0e32ad13501e6a2225b6b96dffe523f752b8]
+    ├── t3.vom [784237b11da350c9badec73d5c616fd80c6782fb92ff572b4aefafe7096b5b8f]
+    ├── t5.vom [ebec73a19d7c522e6929ad357f735a8203cb0d73673baae569c643adffb70b5b]
+    └── wci0266m.vom [40301fe7e0441afb77958dc851970e0313ab17d17743c60d4ced350ca544c2ed]
 ```

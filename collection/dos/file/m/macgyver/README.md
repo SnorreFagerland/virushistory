@@ -4,70 +4,70 @@
 ```
 ├── 2803
 │   ├── a
-│   │   ├── mac2803a.vxe
-│   │   └── macgyver.vxe
+│   │   ├── mac2803a.vxe [29a05d215bb041af4debbce21dd8b6961d27cf7251d9de2bea0e76233cbed8c2]
+│   │   └── macgyver.vxe [e48f0799067c4304bb3eacbec24a8ce2ffbcf758e69625a7f041a1a787de8ea1]
 │   ├── b
-│   │   ├── 2803_b.vxe
-│   │   ├── 2803b.vxe
-│   │   ├── mac2803.vxe
-│   │   └── macgyv~1.vxe
+│   │   ├── 2803_b.vxe [1dfdcd244ffe8936490ad25f24240e0c7d5870336519aa3144d6bc9b8d5dfa38]
+│   │   ├── 2803b.vxe [fe4537573a73028a1e2dd1ab6419978e5f8c48049abcfd8cef0e1e9c43c674ad]
+│   │   ├── mac2803.vxe [1f573bddcc9749f5f02a5eafbe0fc386b1aa215073da6e69b79d0d263656c028]
+│   │   └── macgyv~1.vxe [afb8b4cf8847ac064b664e6df8f96b02b52d606bea2c4ddd170aae7202d22008]
 │   ├── c
-│   │   ├── show.vxe
-│   │   ├── t1.vxe
-│   │   └── t2.vxe
+│   │   ├── show.vxe [3df357d6a992e5656be97d5acf89993abb9a3dc62fc4f041565e427edd50585c]
+│   │   ├── t1.vxe [b5c173e571cec91e90ecae03eb403646fd26c302c92ad2a842d0253a8a0c1771]
+│   │   └── t2.vxe [cf97b96aa05e7c870eb29be0f036d1efade7763e4cdbd1e080a86e844081f3ae]
 │   ├── d
-│   │   ├── satan203.vxe
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   └── t3.vxe
+│   │   ├── satan203.vxe [37df874c141957794e505017ec5eead2a88770cb14564e179463d4741f53f86f]
+│   │   ├── t1.vxe [f75b21840f2c45ca19da914e2c3c3edce0c7e00b8b60377dbe16250b2df0a656]
+│   │   ├── t2.vxe [ac52441f850f4f6338ab0974fc3af17c1065d0cb4e8df6beccb80b9d991db738]
+│   │   └── t3.vxe [f4aec059d7dac52f1cc09655fce614d19005af94f930baea4fdee0c382194307]
 │   ├── e
-│   │   ├── sho2803.vxe
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   ├── t4.vxe
-│   │   ├── t5.vxe
-│   │   └── t6.vxe
+│   │   ├── sho2803.vxe [92c5f1d7e36062ae8043413f112fc8b7706e538f6957c83264edee228d8563ec]
+│   │   ├── t1.vxe [43fa397e44f5ef36052b310dbbebf9b579fbe19eb5bc410bbb5d85ce24773d89]
+│   │   ├── t2.vxe [79fe31c367695a1df29289c3674dda6d04a2a460272af7e37902a3f381883120]
+│   │   ├── t3.vxe [1f99c1ee553ad8bdf8c153127fd9cff00803677d1696cc25aa4ceb91b48142e3]
+│   │   ├── t4.vxe [2e5ca3a29a0e0788a20c6a03d0c04f629c06cab49034665e33c7e3f88540cf35]
+│   │   ├── t5.vxe [e316fa5fbb9b8a23edf31bf059bf68d6e4c0bc6f38b06dc801314c5f3b9b1fe4]
+│   │   └── t6.vxe [f17c38ae0c2991875e873067fda017abf01fa2536c52cacb2efd861856220c20]
 │   ├── f
-│   │   └── wci0469m.vxe
+│   │   └── wci0469m.vxe [6db7ca8fc88217f4e378e2741c9c774952691328299151e52c87354db9a4bb65]
 │   └── g
-│       └── newmac.vxe
+│       └── newmac.vxe [178433b511da84c2b354bb8efcb4ebbbf2dab6b36c997d3c6093cb8dfc481a6d]
 ├── 2824
 │   ├── a
-│   │   ├── 2824.vxe
-│   │   ├── ma2824.vxe
-│   │   ├── macg.vxe
-│   │   ├── macgyv1.vxe
-│   │   └── xcopy.vxe
+│   │   ├── 2824.vxe [ac16dcecbac4f347a26d7dd754083645348cef4149efe5740c58ea5fcb2c6ff5]
+│   │   ├── ma2824.vxe [19ef80cefd3c58c8ad7d2a14da710ce4830b8bbc037b53962cd5db10a0081c0d]
+│   │   ├── macg.vxe [86c2e11fb5fcbdc315891659bbda46ad58605f725a6d3849c5d0a5618c30623e]
+│   │   ├── macgyv1.vxe [de118913499249a1dc36698c3307d693ef29028d8eba1e0ac55b59bc43011723]
+│   │   └── xcopy.vxe [2f7372044c7536583e6d729ff7f3132e0fb3a7d12e388d9f70592e95a7631fbc]
 │   ├── b
-│   │   └── sho2824b.vxe
+│   │   └── sho2824b.vxe [f9e5ccde3729de984cbf2a44a447747fd122de9bdbbd79e1dd7b463d26bb491a]
 │   ├── c
-│   │   └── sat202.vxe
+│   │   └── sat202.vxe [084efd93913647dd4a0298f723ad7250f7275f49d59c34a02cd9294fb014f3f0]
 │   └── d
-│       └── mac2824b.vxe
+│       └── mac2824b.vxe [a5ff3e6242be47a4dc8577a3e905136067ec4a45aed727be0221eb77fcad0b83]
 ├── 3160
-│   ├── 3160a.vx3
-│   ├── ma3160.vx3
-│   └── mac22.vom
+│   ├── 3160a.vx3 [ee6709b5959c33edd122a3666b220d2a01e1ee889e4b39ad7c88bef1698ee434]
+│   ├── ma3160.vx3 [dabf431be8c6fa333d4ba3ea9d96f9f33a7ae28b5e2f25652d394a0975fecb1e]
+│   └── mac22.vom [3fb048c3ba5729aab9a7a023b42d0fbfaca0382e39239a71693d795605c4c077]
 ├── 4112
 │   ├── a
-│   │   ├── 4112.vxe
-│   │   ├── 4112a.vxe
-│   │   ├── ma4112.vxe
-│   │   ├── mac20.vom
-│   │   └── mac4112a.vom
+│   │   ├── 4112.vxe [d4f1a1d4e89167d83c4dd7c1d622e1d89ee74d6aa8b269bb575822b8c1099798]
+│   │   ├── 4112a.vxe [b0184c069dfd718147609bb5189c651de9f32accbd8f71096484969f12ee5c2d]
+│   │   ├── ma4112.vxe [abb3650d43ad086c3645707ac412d97fd70e4e415e1bd11c659f64cfbdfc1eed]
+│   │   ├── mac20.vom [54490597178a2840b955e58cb7a73496a92fc67b8c0a7a26d38ec64620302134]
+│   │   └── mac4112a.vom [f9ab8f17b1b2461412024c7ed2ed896fb0611751207b43f63fbed20fa8b22d86]
 │   └── b
-│       ├── mac2(t).vom
-│       └── mac4112b.vom
+│       ├── mac2(t).vom [2bf931190100339b81040ebabc1d23e7be533235d8f3bed72388fa12ed6db29c]
+│       └── mac4112b.vom [a7e6af1a67630491cda0488730115db3176757b3ae0053f2fc4f89f14baf4559]
 ├── 4480
-│   ├── 4480.vxe
-│   ├── 4480a.vxe
-│   └── mac40.vom
+│   ├── 4480.vxe [e28bbaca7e7bf3494aca879082f1b55fc7834ba2916c53b14c49250a28b23d0a]
+│   ├── 4480a.vxe [79974b580d6440f0e999c0bfa196035b4a9cf2718308377b9cdb0ef7a34cbb52]
+│   └── mac40.vom [489f9e85f35e8997edf33a84f7c81072425c3640f76c463745d2a48682a7e030]
 ├── 4643
-│   └── virus.dos.macgyver.4643
+│   └── virus.dos.macgyver.4643 [fbef45566497fdaa7a1cf7f80530b70cd6c21a18919288684480179f62d1f470]
 └── 4645
-    ├── 4545a.vxe
-    ├── 4645.vxe
-    ├── mac30.vom
-    └── macg3.vom
+    ├── 4545a.vxe [cc3d47f4db0b1858d24744185176185a05af15e5781123c674e980036bd1033f]
+    ├── 4645.vxe [d9ffb3809afd27cb016221adb22a56e26f9a04736e6f0272c1585bf53d00244d]
+    ├── mac30.vom [61721586871a0a889d4ae039ad068b789d242d549876b7d21f47b12b3a41995c]
+    └── macg3.vom [85329d15797f1e5157f2cd3df4ab800cf1f596825d4e7dd48850327612240e8f]
 ```

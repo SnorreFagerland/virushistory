@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   └── virus.dos.die.669
+│   └── virus.dos.die.669 [78f60c262bf8e77babe9e897ecb06e47586b871ef8fdf8016f7ba4f559dedbbc]
 └── b
-    ├── rce-666.vom
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t2.vom
-    ├── t3.vom
-    ├── t3.vxe
-    ├── t4.vom
-    ├── t5.vom
-    ├── t5.vxe
-    ├── t6.vom
-    └── t7.vom
+    ├── rce-666.vom [61046f9ecf73ca82ef241eda9c117ee92c4f270bf381c87215422eeed4295f07]
+    ├── t1.vom [a0f1a16ad25d2ec5f87d87726975bad436516d49d333113cee17c7de3a8a9e4a]
+    ├── t1.vxe [f9ad5b39e20c6ab1ce4159f727b1c7dd25d95c032dfe805f9c2b4c522d707e8d]
+    ├── t2.vom [2000aeec48bc15f32777cc51a151a8478ca8b57a751b8ddb5fa14c467f618ec4]
+    ├── t3.vom [ad17594f75eda03f9058415905b57b60462bd3ae36ab83e86217265610ca0c06]
+    ├── t3.vxe [20095fb30d9ff0670b496821d39b73cf89a80ddc5199af0b465621088b7e3c46]
+    ├── t4.vom [5c32d9caf9b4b2b54dd72e29c9dea9d8dd3af790f53d5e2ddcfb706e16f21399]
+    ├── t5.vom [e4407eb0360a01b397d7e68b0c64e3f1c3e075e98342affc81862a1568e22e53]
+    ├── t5.vxe [ef73ae55a75f9960b3fa31815ca67594e4ce6ad39abc9a97c58685654b381225]
+    ├── t6.vom [d7a077f0d8f47fe23730b9de0a19d378d3fcd53a7edf6246acfeebc2565a9023]
+    └── t7.vom [37bfac6de4da31aaf27add6a3b0ff2e358affb06f6f2184024753cd2a68629df]
 ```

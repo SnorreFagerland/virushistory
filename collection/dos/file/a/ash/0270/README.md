@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   └── ash-270.vom
+│   └── ash-270.vom [0a35539ac03b511422ca4a34d460a5b4c711d53c8d77fa995a7b425113b3b0df]
 ├── b
-│   ├── ash.270.b
-│   └── ash270b.vom
+│   ├── ash.270.b [1d4971a896e7a0dfd0a0f7b85b88e30350a210358ced34f2ab4d6b7d2d687e34]
+│   └── ash270b.vom [9e1e812fa6162b0b528246ac4c4cd7826779811763154d91f98687cc0d70e0da]
 ├── c
-│   └── ash270.vom
+│   └── ash270.vom [9c7dbe51d5264f8ca4307ec8a5be0342fe1ecc7f4ff9294cafa8b15ef3e07c0c]
 ├── d
-│   ├── ash_270_-001.vom
-│   └── ash_270_-002.vom
+│   ├── ash_270_-001.vom [668e0c766ac09f6e0c76561926558ab31957b9b0d3381454b222de38ce0de530]
+│   └── ash_270_-002.vom [8b89b485527925249ba3e3530fc504c8cafc8d2d17a0ad711c6ac38f3d9936e6]
 └── e
-    ├── DUMP32.vom
-    ├── t1.vom
-    ├── t3.vom
-    └── virus.dos.ash.270.c
+    ├── DUMP32.vom [d1be63890e962db869a44c12fc2c645bfd49e7702e6f9b53090ac3cf470f39d4]
+    ├── t1.vom [e911758d87114751e3923ca5fcb981db93550975724fbf4e51aa8ff50810615f]
+    ├── t3.vom [9b0f010c24a9fac1d89e298522175b79c0bb9f9ca7fe9d13d78bf2d63e6d27e5]
+    └── virus.dos.ash.270.c [35f37250c60405a85ec5d2529ecdc4d94374e3d14c63327a39090adfde60270e]
 ```

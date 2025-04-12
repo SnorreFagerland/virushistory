@@ -3,16 +3,16 @@
 
 ```
 ├── 3445
-│   ├── 3445.vxe
-│   ├── kamp3445.vom
-│   ├── kamp3445.vxe
-│   ├── te-3429.vxe
-│   └── v9540.vom
+│   ├── 3445.vxe [8e4e88522cfded37800e76f4445ec583253fc5ffec3c682cb373de6e3c542cbd]
+│   ├── kamp3445.vom [2350170561ca50a5bacb894741ef6afe8a50a71f292e756dc9dc91399db05406]
+│   ├── kamp3445.vxe [b48b8ee467212ed1d7fa23c93938b64d29252f905d963e245201bfa592d84abf]
+│   ├── te-3429.vxe [63584d7ddc0be8aecd5c208bf1fe09900a97437de7379bf2e4a9f4a51d95e3c7]
+│   └── v9540.vom [5ef9dbf89e96b9d94e09dd2e341e1c361814fd8049f8c74cf6949122267df915]
 ├── 3700
-│   └── telecom.vom
+│   └── telecom.vom [1f8ca86654f96177117ce7e5610c0645ee71b64d0960a3c48e7c2541c9f49c43]
 └── 3784
-    ├── holcaust.vom
-    ├── holo_1.vom
-    ├── holo_2.vom
-    └── holocaus.vom
+    ├── holcaust.vom [f32247677b7a089fd0461ada2f9bd0eb7355d2d49d18a43f2b86590ae8d1c2ce]
+    ├── holo_1.vom [f74cfad533b2c8d218bfa27056a432b0b5333b69e549c042f6b76e05f48ee2e8]
+    ├── holo_2.vom [c0a8677a168dd8a2ceffbe20b9d55543f80a6fbced59b2b795ff3d2896a7161d]
+    └── holocaus.vom [c595a25b73f94e03b88f5988efbcca78d3d5bd0b4d18e3ef26d4632b6c8043c6]
 ```

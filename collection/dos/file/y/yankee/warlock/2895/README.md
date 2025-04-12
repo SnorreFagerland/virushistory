@@ -3,21 +3,21 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t5.vxe
-│   └── yan2895.vxe
+│   ├── t1.vom [e15b08f952d9d583a2a106aa4cd922aa5c0bba20977e316a6f374912ba792a05]
+│   ├── t2.vom [ccb44be9c3b6e6981e10a6065bcf141cf28190026470c4312f3822a94c7aa73e]
+│   ├── t3.vxe [919572874dce469e8c7e9a81f2ddb770f665710fd747bdb84121cd8fb60c17d5]
+│   ├── t4.vxe [1e78be6823eda597bb0184b69e6da5def36191a96572ca9a4a8cf74393343208]
+│   ├── t5.vxe [c3f97b2ce6a6477de39460060e6205e5a8176179d890053d08eef585f7e1efae]
+│   └── yan2895.vxe [4944f3b871d74a5bc76823caa3b69b7a2a06b03b565ca0d933e8210b763c70d3]
 └── b
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t2.vom
-    ├── t2.vxe
-    ├── t3.vom
-    ├── t3.vxe
-    ├── t4.vom
-    ├── t4.vxe
-    ├── wci01143.vxe
-    └── wlk2879b.vom
+    ├── t1.vom [003212cc69297eafb9f2bb09eb0cf68b8dd32c69e0107d04fd9b564264c8dcfb]
+    ├── t1.vxe [31b879162dcd5a9de1c77e2d6038c308f25fcb4d2e05d27ccfe73d936e348194]
+    ├── t2.vom [29ef5244c7c6eb5e92e5593979dd20a08c4b5ef6e27178b52a77f42a145dde2c]
+    ├── t2.vxe [3a7903f3494c01d6e818c6d32d037151e07be6cfb043c5a6c3bc47fd7a0c5058]
+    ├── t3.vom [57111aba85c04913a4c59e4082de555f9c08b97c5874f2aa68b77b1a5d339354]
+    ├── t3.vxe [181c8b7b1ae0d804215c250517526e1ddf20195672cdad7f793d51f9d8bba530]
+    ├── t4.vom [a0fc262b6da3f32902ae2e0d1669294012c1b05c33e59cbc3455d002481c1731]
+    ├── t4.vxe [6f45774ce68c83d43dd0bf24a4b456cda73d5f24789f99e37cb4630ce6429929]
+    ├── wci01143.vxe [89bb66b234f18c8718d651ab3d3204d325891bb340fa60e74fbf509099f9b3dc]
+    └── wlk2879b.vom [1a85374f3d45403018d16224cf8efc565d869306b064bf38ded312cabe640553]
 ```

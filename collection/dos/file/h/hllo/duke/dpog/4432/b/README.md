@@ -2,8 +2,8 @@
 # Contents of `b`
 
 ```
-├── DPOG27.vxe
+├── DPOG27.vxe [b58e0607877eb973178b5eedc2b639eee6422390b7975c3e4fa3c495f7b930f7]
 └── src
-    ├── DPOG27.CFG
-    └── DPOG27.PAS
+    ├── DPOG27.CFG [d6112d69dc96af2bc2782e3ccf5eca8e76e90987b9291e6fd128bae607300f08]
+    └── DPOG27.PAS [ada85d725f77534fb3277a30b9cbcd6c672325780d2a27c9e49e5dc7261f1088]
 ```

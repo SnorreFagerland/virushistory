@@ -3,23 +3,23 @@
 
 ```
 ├── a
-│   ├── ontar-512a.vom
-│   ├── ontar512.vom
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t5.vxe
-│   └── t6.vxe
+│   ├── ontar-512a.vom [890d725dd99581e1f3feb9914b4b7b2d8401cec7522eb1695342b09cdc9ad759]
+│   ├── ontar512.vom [020009b0edc3fdfc7e61cbb29b7a905d4151ba7dc7767c898cf88bdd8f240f9c]
+│   ├── t1.vxe [541cba3adc9d4bc1cf77864d15f540e869d886909e7cd0d47cc97f852a6680d7]
+│   ├── t2.vxe [41690a274a1b4dad3efe753a21763c3f3a73808a2477ce063500d9e758c3182a]
+│   ├── t3.vxe [aaba2b0aac9924ea01a35bcbd7d50352425a74e0a38ab2003ccd410214e02b70]
+│   ├── t4.vxe [00cbb02b5111b5ec3c7859d742db56c4c91cf875a2fe6127d274c2c5ffa3fbe3]
+│   ├── t5.vxe [5fc23e2959379df5177a9d30c96a70151a2d24a5fdc6d749af06a333325be918]
+│   └── t6.vxe [ab294f86b895f777c59c47e6679cfcd29a61b46585e4108bea3b5060f552cdd4]
 ├── b
-│   ├── command.vom
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   └── wci00065.vom
+│   ├── command.vom [21e9a8b053b5688ef7ad7059e2832701d4f66956cd5efe971cacf8a54b53504e]
+│   ├── t1.vxe [c507ee5f70e40d427890629c04baea9980757f211c46ea012f59fd2657798be2]
+│   ├── t2.vxe [c0801b5ff39e5af9864ded6683246bc5471f43eb513b770dd9d9bb2dfb4ceefd]
+│   └── wci00065.vom [35df77ac4baadbeede44a8e67217f34aca749342905147db9a937488b5e8d211]
 └── d
-    ├── ont512d.vom
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t2.vxe
-    └── t3.vxe
+    ├── ont512d.vom [3382ca9a3c5b2fede624bd491fb94cc19be0581f1e2d4044902e53ac9e52d4df]
+    ├── t1.vom [f09aae2e81a7647c99679c7f5391276ec3ac6b596500549b8abe62558811969c]
+    ├── t1.vxe [21b0bfa9b7d825ea68b84dc0e8ac965b9643f6a2d545dd87c1fd830ec471a6c7]
+    ├── t2.vxe [0dce037be32317e94f22758a0e69e9eef06295ecd0961ccc89b483ccfe7b85c3]
+    └── t3.vxe [3b64706d5b609b29c2ae63661a6686fd7325d084fb8c4b26a7eb806ea68c836d]
 ```

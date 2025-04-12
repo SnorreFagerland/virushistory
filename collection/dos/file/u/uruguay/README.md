@@ -3,104 +3,104 @@
 
 ```
 ├── 2313.#2
-│   ├── uru#2-1.vom
-│   ├── uru#2-2.vom
-│   ├── uru#2-3.vxe
-│   └── uru#2-4.vxe
+│   ├── uru#2-1.vom [cfa5496241b6d3da31dc1984558555f3e6b9a6cf0dc092a2f10190a2451318b3]
+│   ├── uru#2-2.vom [e2a370b4c3db4c65e018b0df3969e76916bd5a3da7cc6fb51d8a3afed193d930]
+│   ├── uru#2-3.vxe [c7e85fa8f81f6302f04e92eda37b08558549d3d38411cd66c70a47271bb5497e]
+│   └── uru#2-4.vxe [21cd7317b4168c4d7b9e082d7b6ea5d9dbbb366557f4c5da066e224f4dc54b39]
 ├── 2379.#1
-│   ├── uru-1.vom
-│   ├── uru-1.vxe
-│   ├── uru-2.vom
-│   └── uru-2.vxe
+│   ├── uru-1.vom [876834f2913e83bd003f3750da0de784bf18a20a4dbd22186daf5f5eea5d1d9d]
+│   ├── uru-1.vxe [0a9616fd1da6c955d9c8c859d15da046d58d543c8faa372f76a7282dec39233b]
+│   ├── uru-2.vom [e325f55b2c3a602e398a3afa645c97552d7bd584aa5ea9430cb5de2fa7c676a6]
+│   └── uru-2.vxe [a97601e791ccb02ce50e71aab194a72dbfe489a3b521cea5f016d23515438fc1]
 ├── 2456.#3
-│   ├── 0cd.vom
-│   ├── 0dd.vom
-│   ├── 10a.vom
-│   ├── 10b.vom
-│   ├── 10c.vom
-│   ├── 12b.vom
-│   ├── 13b.vom
-│   ├── 15b.vom
-│   ├── 15d.vom
-│   ├── 18a.vom
-│   ├── 18d.vom
-│   ├── 19d.vom
-│   ├── 1a.vom
-│   ├── 1cd.vom
-│   ├── 23b.vom
-│   ├── 24.vom
-│   ├── 25a.vom
-│   ├── 25d.vom
-│   ├── 2ab.vom
-│   ├── 2d.vom
-│   ├── 3cd.vom
-│   ├── 3dd.vom
-│   ├── 4a.vom
-│   ├── 4ab.vom
-│   ├── 4bc.vom
-│   ├── 4c.vom
-│   ├── 4cd.vom
-│   ├── 4d.vom
-│   ├── 4dd.vom
-│   ├── 529.vom
-│   ├── 5bb.vom
-│   ├── 6b.vom
-│   ├── 6c.vom
-│   ├── 7ad.vom
-│   ├── 7b.vom
-│   ├── 7bd.vom
-│   ├── 7cc.vom
-│   ├── 8aa.vom
-│   ├── 8ab.vom
-│   ├── 8ad.vom
-│   ├── 8bb.vom
-│   ├── 8bc.vom
-│   ├── 8d.vom
-│   ├── 9a.vom
-│   ├── 9aa.vom
-│   ├── 9cd.vom
-│   ├── 9dd.vom
-│   ├── aaa.vom
-│   ├── abb.vom
-│   ├── ac.vom
-│   ├── acd.vom
-│   ├── uru#3-1.vom
-│   ├── uru#3-2.vom
-│   ├── uru#3-3.vxe
-│   ├── uru#3-4.vxe
-│   └── uruguay.vom
+│   ├── 0cd.vom [1e8603fad1ea258bb51943aceaaa1d3ec2561b91c3ae137b14c790d94ab1f0fa]
+│   ├── 0dd.vom [50adc2065c8029219349016bc2a6e735dfea0e9eabe5cba6837b25a1578dc546]
+│   ├── 10a.vom [3c0480dc549113ad04a493349619eeedd4f20b92206be233f97a4f148e0d7e6e]
+│   ├── 10b.vom [142fea8ef69dad83683c0425c5f550d672f97e979fad4b92dd0ba3e35441e83b]
+│   ├── 10c.vom [5a414c1479ecd8bd671167641af6cf823c72605c739e18bd1225141e523b66ce]
+│   ├── 12b.vom [25ab617d1a329a5b3b44587f408ff9ab221c4d945453edc07ccbfe28c22589bd]
+│   ├── 13b.vom [b64455253070b750a85ee74dd839dd9d6b8875404535403e00307daef8c1d268]
+│   ├── 15b.vom [f5c763f6240aa5ac1e993b46e43213ab160239cbe69764a95a1c81e07eb69997]
+│   ├── 15d.vom [5058a84383f360400f3a724eb0fdc527f52d67c8a8faebd3c873b9214a27b8c5]
+│   ├── 18a.vom [5f10158036901dfa68f877d2a83d2832ec64c9bcc40aa4fee875e49790052b2a]
+│   ├── 18d.vom [726fda669e4428829788f5348fd1eb9af0866a5d8d68e50ddf51af35dbf07639]
+│   ├── 19d.vom [e6be50bd40b3fe4d0425c11d4e13c79cd95b976283a0b8199167957ecade3e8a]
+│   ├── 1a.vom [93c1bf762495b39a14d2821ac1ac079c3e391f0468ce461cb0e52779fc204457]
+│   ├── 1cd.vom [49579568bc10acec97a5c793b7a5df76dd7c56dcd7261e45bfedac2f3aa76ed8]
+│   ├── 23b.vom [d537f04f3506509a20ba3b2649677cd9e46be87adc5cb2503f9f4254e5385d54]
+│   ├── 24.vom [1cea344f8e4bcce2a487a05ad1c73e49acaa358be089791815192bd73fd88152]
+│   ├── 25a.vom [8fc53ff147ec0869175804ed18636f1497f58ce24ac1853e01108502ac1b4c75]
+│   ├── 25d.vom [00816a40187895be4abf764d44bef374b137d4a17099786faaa96b4a407a1ff1]
+│   ├── 2ab.vom [b12629281585e49ee55d233dfb684fad7263df0cb6e4a8044d78c3813c6a6371]
+│   ├── 2d.vom [313ca585976d994e782ac6cfd25ef4e47542fd60c8a2fc098a9a837cf0e88808]
+│   ├── 3cd.vom [231e57fcf6be603ea9f4df7d9184a4135b4628ebebb846bca53e424bcfb2208b]
+│   ├── 3dd.vom [e0085b9208569f53a86e938ca16a08513fcfc9a2ef0dff4fbee8ece1d240f2cc]
+│   ├── 4a.vom [528c924eb68b497756d5c9a7cfbeb9b9ce7a08bd170b070a2c35322499d8ff77]
+│   ├── 4ab.vom [2c6838a9ab1fac577c5623bba0657db29b9de92c26367db8a3a56ecdf7fdcacb]
+│   ├── 4bc.vom [a3842034ab5806aeaf968b3ef40d7b454c54813cfde213ad1a44defb58b0ff75]
+│   ├── 4c.vom [1e1840299eaceac68c4fab7a644fcbfd25446b67428585b497b8bff00e891a89]
+│   ├── 4cd.vom [144053e016daeb12dbdf837e2522a263281deb75fdfec191712bdd59a5ff6ea3]
+│   ├── 4d.vom [ea1a07327eabe0dee3139455b4e8a050cfd3b07c8143dbcc9a4889fbe9935743]
+│   ├── 4dd.vom [bf647fdb5873ced762318a3d3964a71165ad5c9f9da6dc1d96dd23601e35d444]
+│   ├── 529.vom [b0375c7173333f644a2ea25bb45288018cbd25551703090d5e9291afaaa34057]
+│   ├── 5bb.vom [eda7304024596605a7e05b5067b2abb7345366b9058424d98146470cd7d1885b]
+│   ├── 6b.vom [f76f79541e0b33b58f8358f288eec793c4f9adb5e91a5790c3b297addae1cd04]
+│   ├── 6c.vom [f24845f0652bd16ae1688fe0d6135ee08c3c251dba4423f84e4053667377dc4a]
+│   ├── 7ad.vom [44d332fda5ea403de584d7682aea63e45fee5490255bb1f4b6637f28b3e0416d]
+│   ├── 7b.vom [1b5a407a23ae4b5310f4f084d2b170c09430150fd107a9513357febd075e73b0]
+│   ├── 7bd.vom [9cf36a9cbcd6c540fc2023054cf966d556a44d8b523bfc1816135682ebbdd181]
+│   ├── 7cc.vom [579fb2fdd6c833e1e014f3167f8248f3e028b1bba70442ad88ce96212e288494]
+│   ├── 8aa.vom [24a05e6d2607098b2a2aa19ea741fa023545339662588d1a597d3940df8176c7]
+│   ├── 8ab.vom [8337c37e2e9de73ecd382e0edb066f7aca94fc94f3ead42ec013137645a7c7be]
+│   ├── 8ad.vom [088b30ee5cbc614491825d907bc7c6e6c42e84206b1411ef25346ffa4f76a338]
+│   ├── 8bb.vom [6cffae6ed752fa77a2b9f4c86895ae27d2611ada01453d3fa59115b6a45cb6c5]
+│   ├── 8bc.vom [0dc9605005f1fbd9095257627d2237b12aaf74dacdf12933a132535fbd669eea]
+│   ├── 8d.vom [9257d1379138a506c233015afeb1f370656d72bdf8fd140e04d0dc6237927e99]
+│   ├── 9a.vom [250366674d260d0db6344c33040ac7757bf84a800a61dbb3a7e2abfd16b57ed0]
+│   ├── 9aa.vom [eda13e370472c024b516fe44900dd00039c0b81547154e413531939424415a15]
+│   ├── 9cd.vom [d89db755f8d5745508cee5b4fd510ca163c02148ffe59d8cd3d8ae6cbfa842c2]
+│   ├── 9dd.vom [de550a4c4312dbd716bddc4c8e1c5e325186cf31b19dca19d36633d1bd1d0994]
+│   ├── aaa.vom [bdcabd5a27d029ccaaf006478a5a9dec4423e711ded4bc465d297ff79d5603b0]
+│   ├── abb.vom [da2c4006f420c74428a87d3749d610d6b2b6b62f7ce3be3502f81b837fd9891b]
+│   ├── ac.vom [d349d4cd407d12166cb94063a956025eb1d8942c684637c6e85d1a0c6434c879]
+│   ├── acd.vom [01db9a6c33fbcbc10250a06715e1095b9e12f1e1ee2e75ed2bf502525f69473d]
+│   ├── uru#3-1.vom [3c2aab5293d29b766ba0e1d4611954c5e18822fc8aada53565c1982fc1a9327c]
+│   ├── uru#3-2.vom [70f58b8d8409c0c8abcc70e44ae47ee71d908d470b87d968cdfa2559ccaa532a]
+│   ├── uru#3-3.vxe [64aea859e3fab81e47ab72c07a400e7205cae149a3f4922ca6ea84fd62b079a4]
+│   ├── uru#3-4.vxe [181ba64f7bfa60b8bf9b0e8ae41d358cca6a2888b1898b8e0ce51fab237549a6]
+│   └── uruguay.vom [4e8904ea748e1ccc8671ddfdd0244d682e46a041be0645b420dcae2b2b01aa59]
 ├── 2466.#3
-│   └── urugdr3b.vom
+│   └── urugdr3b.vom [f13e32e27a7e15f5dac2d95df8bf9b58cbb5d6be40f39a20c3e99bda4272ba18]
 ├── 2623.#4
-│   ├── uru#4-1.vom
-│   ├── uru#4-2.vom
-│   ├── uru#4-3.vxe
-│   └── uru#4-4.vxe
+│   ├── uru#4-1.vom [b0d5be8fc82c7aa79d0b495678b20895b84189f5f399a9fe027f80cae0592399]
+│   ├── uru#4-2.vom [989310414ef4c6d56a1ba09264ace04eaf44e8c534bb1928d1dd73fe6e807c52]
+│   ├── uru#4-3.vxe [0edb25580daeabe7f74241afba3044f1a5e605f9ec4e1be34b0a803d9e9aca92]
+│   └── uru#4-4.vxe [4c7b635b8543e13a315ab6c5cea83bd45dba7dd44388e999b86de980208c6dae]
 ├── 2722
-│   └── uruguay_.vom
+│   └── uruguay_.vom [7fb4a8e214de0949d5b434dba66a1ffa5e9f60881fc42792a46c3540af5d3cce]
 ├── 4268.#5
-│   ├── uru#5-1.vom
-│   ├── uru#5-2.vom
-│   ├── uru#5-3.vxe
-│   └── uru#5-4.vxe
+│   ├── uru#5-1.vom [8e46559fb0e269691d21b7e1843e403fe970c19af8bedf50e1bcbf7ba1927b3b]
+│   ├── uru#5-2.vom [8a0f31c91c0a6ab0aba674153e27aab3d5d4067f99fe97fa462d96f246fca4e0]
+│   ├── uru#5-3.vxe [fb12f5a3f10d3c3e9a8e61764cc744c7817b6ca928859a26b5082cb328aea4cb]
+│   └── uru#5-4.vxe [05f76840772167810b29812486729c388a726d6e0df0d7e907fb1aff1c8b5dfd]
 ├── 4879.#6
-│   ├── uru#6-1.vom
-│   ├── uru#6-2.vom
-│   ├── uru#6-3.vxe
-│   ├── uru#6-4.vxe
-│   └── uruguay6.vom
+│   ├── uru#6-1.vom [b97c1222336df17ee5f85b4a5a51d082bd53d6f2c1aed322ea734879be6783a1]
+│   ├── uru#6-2.vom [9b3d39c1b0774522d392654f7f384cf1ff0e4ac7bfcace21ec4e66afa7aaee1d]
+│   ├── uru#6-3.vxe [e0d92589a3829a11ee863f7b5fb3b887244b7322554eb1f45e4420f4641c3edc]
+│   ├── uru#6-4.vxe [1cb43ccbde0f8bbd161b04e781dfc4319f535e472b3fcfde1c67a9fe56f1b217]
+│   └── uruguay6.vom [7a6137f625fbbef4d3abdad3fe5503d9bad9ebae20a1fdd134eafa922608c544]
 ├── 4906
-│   └── virus.dos.uruguay.4906
+│   └── virus.dos.uruguay.4906 [fc14dea8ce94c8185bee4fee0c60fb1b35f90c8c91f55a3c33cca9844996b331]
 ├── 6262.#8
-│   ├── uru#8-1.vom
-│   ├── uru#8-2.vom
-│   ├── uru#8-3.vxe
-│   └── uru#8-4.vxe
+│   ├── uru#8-1.vom [47efbb0f9fcd8429607bce8cb0f6cdb41391efddd17c8026fbd9264c9312db0a]
+│   ├── uru#8-2.vom [a88edd8b26feabce8610872809b3f5f7edc4b0e0feee094ffc08ca9a76b54a40]
+│   ├── uru#8-3.vxe [ec7bbcac5a9f6a6b3b9a33001686ef935d918d78b3b5cf21ade52ed3cea95f34]
+│   └── uru#8-4.vxe [02f20fde1b01b0533d4bfc2f0d3d8e19c7e3666723a83c2b4ae18314483be471]
 ├── 6344.#7
-│   ├── uru#7-1.vom
-│   ├── uru#7-2.vom
-│   ├── uru#7-3.vxe
-│   └── uru#7-4.vxe
+│   ├── uru#7-1.vom [827bbd3fbb9e2e1c4ada42cccea9c14baf5d6f4600781a16e6f750dc40d9f918]
+│   ├── uru#7-2.vom [4d7b28da869fa5f8433d9398475c5b323fd974d5e20907cc4fdc11990278d3f5]
+│   ├── uru#7-3.vxe [8ec4b0075d47f21bf111b95b4cd1bff106db4536b837ab26f21fb86603ed3058]
+│   └── uru#7-4.vxe [3bf9f833489d3d3aab94ce62a52802e5b902410ff244b76495a248f31a29c166]
 └── 6396
-    └── virus.dos.uruguay.6396
+    └── virus.dos.uruguay.6396 [ff4db8cd9ffa79ddd30ad0b9e74b42e9cc2e7f29cff67e24dfffd56125579bd5]
 ```

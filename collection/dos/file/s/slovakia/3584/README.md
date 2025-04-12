@@ -3,88 +3,88 @@
 
 ```
 ├── a
-│   ├── install.vxe
-│   ├── m1.vom
-│   ├── m1.vxe
-│   ├── m2.vom
-│   ├── m2.vxe
-│   ├── m3.vom
-│   ├── m3.vxe
-│   ├── m4.vom
-│   ├── m4.vxe
-│   ├── ptroma.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t4.vxe
-│   └── u2000.vom
+│   ├── install.vxe [0d0e805591a00da1adca6502978ae367086475b9ae413c0b67214c7ef0aa846d]
+│   ├── m1.vom [92d73138f7749ba355ef1b4ad4d1e073b392eb5a0bb642d8e3cd8900203e1b80]
+│   ├── m1.vxe [59f13363f1ce4d2aae050b6d50cc9302909e5c61c0b3f059517621cd016443e4]
+│   ├── m2.vom [5a8066ccfb475d3769d1a79a4e2405c8413609fcbeedfe9b5f63911985b79a6b]
+│   ├── m2.vxe [e62995073d27eb297e65af912d26ba0516362b2ad4e6fff6a33658681b333ec1]
+│   ├── m3.vom [bac4d2b458e34b2d8245c42c56f95dcd2ebb44309c8563c15baeb742a704b5d0]
+│   ├── m3.vxe [5175ae5a27bc074d7d0b9a582641177fecaaf8420f7e1c572cda5ab8c78d54e2]
+│   ├── m4.vom [f8ac25e494b9ca168a9aad2fdbcdcdfaa38f8ce1ec6195cda53a90ee57394838]
+│   ├── m4.vxe [22b74ffb15d7932eb8a148fada8248765bf5214a187893bc979d6e7b97fba270]
+│   ├── ptroma.vom [f66ec02785704aa022f5fb33ec4922b37173c2f22771e7c1c092ff6b6fed10d7]
+│   ├── t1.vom [9dca92edc1cc7c09ee52e7b1206db60df758d8ef3a188d516b3fddc631657484]
+│   ├── t1.vxe [cc9b01dd45dc515d696274034d61d27d6dc3d6a80ac3afa29ae6809d71b3e151]
+│   ├── t2.vom [605c57c42dbf96c0168854da9b2f2ad7ca62023be3578a6d8e1948a831ebb551]
+│   ├── t2.vxe [649a1e5ebfeb4b19793aa865453c5611600cd351024d45cc9e78823c900de227]
+│   ├── t3.vom [ca30b04a1c3369be8b272dabfe546bb5a933122f1d8be94d411e2e5f8fdfec87]
+│   ├── t3.vxe [18a03521fd1b8eaf371895abda5e7a9ae7e0504aed673f63f490126715697b49]
+│   ├── t4.vom [1400bc0b25242a0abb7613521ffeeec4060575ef55bf25c293e30a61bd35378b]
+│   ├── t4.vxe [f1abea811bd80a3d6a0d09ee4f1323f58f8a5c48a8b763805b22f59bbb12fc69]
+│   └── u2000.vom [9ae51d005fc70dda9b8a5ec70def0d5dcfd69d90071cac97ccd91af1cfe69141]
 ├── b
-│   ├── m1.vom
-│   ├── m1.vxe
-│   ├── m2.vom
-│   ├── m2.vxe
-│   ├── m3.vom
-│   ├── m3.vxe
-│   ├── m4.vxe
-│   ├── slovak.vom
-│   ├── slovak.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t7.vom
-│   ├── t7.vxe
-│   ├── tf.vxe
-│   └── wci0799s.vxe
+│   ├── m1.vom [cb865bf673d557b6f3ac982b3621386cd390172730bec907bccef52e606f6118]
+│   ├── m1.vxe [661a19fa5f36843ad436d5e1f913c3fa01ea62eb5a4386f2c84b9d4ca67fb4ae]
+│   ├── m2.vom [e06116a907f2b8b50e57bb0fb6566a654625c213bf6c199b581c2c8c399d35e0]
+│   ├── m2.vxe [325debf779ce4a05a91279a628800115349ae3623f5a4255a09cbcf77003d767]
+│   ├── m3.vom [74076f6e80406e0d0b6a1cdd8941a907121eb58286bb7a132681eb0e69e25c11]
+│   ├── m3.vxe [060cbfe4c48afc8ba6c8e6fc11b56356d7c21e277a0552f0c319b0f72b2702bb]
+│   ├── m4.vxe [d2246572b059e9c3ed783ac279ba925cc16300a2299fec409b08ad5054983334]
+│   ├── slovak.vom [0189837314b01aadc3b3ee2c372065509f43fea7d6ee92ece9cd106a0071a124]
+│   ├── slovak.vxe [f9aa46f6fcbb606d59846653995c63e6da20b15e270c269e65357537d5f8b1c6]
+│   ├── t1.vom [5f24f07cbcf35f255ebd6d5cfd50cf14454c58572563c336862a0278a0da6d72]
+│   ├── t1.vxe [86688e4126aca6d58352eec4488619149d126fe877aa1002aeeb6579e7ddfb7e]
+│   ├── t2.vom [2e82b70c95ea8c29e49873641b001ed1464a05d43bec900410048f06d0f5421b]
+│   ├── t2.vxe [cc9631e0627249fb7685e68f866bd7f8b732ee32f62a40ff42c408f95447ac20]
+│   ├── t3.vom [b22d8efce2ef7dd541925b4d268d1bbb00d05c3128ca135bcddac89b9461a65c]
+│   ├── t3.vxe [d1aebd36125785355a344757c242fa3c5ce51f53cd90ec7a074e56e70309e953]
+│   ├── t4.vxe [4e1760b2cdc442fac8f9ad61c3657dca5ed1d2359c639313fe691f4aee403fb1]
+│   ├── t7.vom [efe34231f320cd88949025d9c21ca60cc0c9d58637b8b113c40617ca2eea422a]
+│   ├── t7.vxe [d5cdb0e0684d0eaba00367d4470dece97110a648ee835c6c250f97dec0c112ab]
+│   ├── tf.vxe [d82aee0cd555b7f75b2a8f7eb0ab79d36c085e4484320823584782cd51a6de14]
+│   └── wci0799s.vxe [a4a96575e85b97fa240051e19557bb32a8e8fab81ba57b20b315aa3718066968]
 ├── c
-│   ├── debug.vxe
-│   ├── inst2.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t4.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   ├── t6.vxe
-│   ├── t7.vom
-│   ├── t7.vxe
-│   ├── t8.vom
-│   ├── t8.vxe
-│   └── t9.vxe
+│   ├── debug.vxe [82fe8405d818b6b78fac4b0a2ec383168c857bb9ab2cde79b8f96dcba0d8b550]
+│   ├── inst2.vxe [0ccc0ed97806c3b8d85baee4a2afb2689642fb3fbae099c65f9262eea8f027d0]
+│   ├── t1.vom [0c9ceba028d213cd7e5c5dc78dca2c643e9dad7d3b1c735a4a8046ec93ed37a1]
+│   ├── t1.vxe [6779376ab51f70cd8ab300e6cc702456063b4115a7d9a5dd3d0839cb0a35dd81]
+│   ├── t2.vom [7d7e44dbeec2e54676aa400482063d05bfe0e83a8cbffeb7036fa69f363ddca6]
+│   ├── t2.vxe [5476a336b7c70031bdfa262a843d669fb999835b40edf7737892d5b03f101d96]
+│   ├── t3.vom [9814de3a1597e5ee0219a0d5f61e42e1e28488caaecafaaa947118d43fb917f2]
+│   ├── t3.vxe [0c038459db6b6ca83abb4b6eb1f805353a94545265861483e37a31ed2487210d]
+│   ├── t4.vom [5045487bb65a368c2f6c37bc55c350d810d1ebbeae5cb764384f3226017e80af]
+│   ├── t4.vxe [74dc0ad07a9d89af2e956836a4ec1c4052d202375f40f7e6e681751602e48421]
+│   ├── t5.vom [429e36d081d878afae1c5dfa51baa31ebce0d5cbfc8a5664ae92ee67cf8b5238]
+│   ├── t5.vxe [59b5d55890c45972cc49acc01fcad913f9da634c6a362ff4d60fa2948fe9dc65]
+│   ├── t6.vom [d6e69cca3814d71988bffcd1ca7f31bc113a0a7da370be5628aa2cf0ac4ddec5]
+│   ├── t6.vxe [b80afc7bd7fd5c3a8bafaea3714a5db03116fae743b3c83d6f8311b1dad97503]
+│   ├── t7.vom [3d9f7c7add8bb56c2e9d8cf16d2152b4c31eeafa7bfe496707169edd08287545]
+│   ├── t7.vxe [a2388b33345055a2fc52576f8bb4816206b6f81eeb2cde0bf347ad8e874497e7]
+│   ├── t8.vom [cca0e190b36a8e060d920b8737fd480920caa29a3acbcb1ab7b4e474da960cc6]
+│   ├── t8.vxe [2daf23d03773fe9178ebad77fff8cad5b4bab408a9aaa4ce306fe13a27443ff6]
+│   └── t9.vxe [1e3a19da36e8bebcd5296204f092ec73f0d7052e21ecc0b4ec448fbedd2e61c6]
 ├── d
-│   ├── debug.vxe
-│   ├── instexe.vxe
-│   ├── m1.vom
-│   ├── m1.vxe
-│   ├── m2.vom
-│   ├── m3.vom
-│   ├── m3.vxe
-│   ├── m4.vom
-│   ├── m4.vxe
-│   ├── slovaki0.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t4.vxe
-│   └── t5.vom
+│   ├── debug.vxe [03ed72cc3e51830c3cda56286a4fd2a0bff437852f963625b3dae93bd1cf9907]
+│   ├── instexe.vxe [faba9882303ba8cb12bd5f44625a64a95ec2a515e216c40baa26d6a130c9e435]
+│   ├── m1.vom [5836820b1850835f8f01273af4d1d00ff54d2b34c7ed4403404cc5a6a0883d30]
+│   ├── m1.vxe [5e3dbd53a707e1746bdf1fe24e25cc52af6151e9476e5cb7e04db50399c4d285]
+│   ├── m2.vom [2f03f84207d0d6dd85756bfe7881bb6deba9cac22bee9a816927ff16f0e76bf3]
+│   ├── m3.vom [c3139d447e48268bb74b02b53b2ea8ea3132fa6581f94da209ac5831bf1bed61]
+│   ├── m3.vxe [a952d2776d7e488d2a0c6e2333fbc805ddbe4bbdc716232100512e73b77d1cb0]
+│   ├── m4.vom [02d79e2b43fe8c44cd63a538a30a2a254caa83f3c815ae7e8b9efbbaf4534f1d]
+│   ├── m4.vxe [3d484d86e6e64faba5875c1efee18faddaf2aafd0a7deafaceb04abdee56a899]
+│   ├── slovaki0.vom [31e6a8599bb3e18599ded0785ab06fdc6b9a4e955953af52dac91e0c6d8d7a9a]
+│   ├── t1.vom [d0449b7cc5782c4cc83ab7ac1258bd7c62d1c052d6c6ae6bc5e94df2aa4028f5]
+│   ├── t1.vxe [d94df1da99def5cbb8ec1c4ed9469a5e23ca7c27bbfcde31bdf42f5899e754db]
+│   ├── t2.vom [fd65e2ce9082e134d4d3a75b1761e97e614c2197ad67004eb299c1cd3551940a]
+│   ├── t2.vxe [a42f5435418e3844678448e68f51ec2d885e83cad73dee19e01dca0b3d85e34b]
+│   ├── t3.vom [9a470eb5b922dcd3eda3e939a406bbbc38f758edb0d1194e8e759485a9b48963]
+│   ├── t3.vxe [cafea32f2463c3ab826740304cd8911eed5802af8bdcb75cb5f0bd21d65c5793]
+│   ├── t4.vom [f1886713c020447ec07b940d732e122202e4c089ffe268cbdcaecc77607fa581]
+│   ├── t4.vxe [6499fb30b1565a687e64a01dc63aa6c94d84581e04aae11ad6c434d0dc793041]
+│   └── t5.vom [3d7a524e3e807b4188f23d5c0c128be9eec4fdbc8d9adf27114d9eaecaf51c4c]
 ├── e
-│   └── virus.dos.slovakia.ii.3584.e
+│   └── virus.dos.slovakia.ii.3584.e [2ed7c7895dc6cc7861d4bb795bfe533dee4043746ec543e3cc17cc1bfebc2266]
 └── f
-    └── virus.dos.slovakia.ii.3584.f
+    └── virus.dos.slovakia.ii.3584.f [e66150c00c8cd9f81cf2bff8cb5340c1a74222ff072ade5d4305c9cf017cec99]
 ```

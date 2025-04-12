@@ -2,10 +2,10 @@
 # Contents of `3592`
 
 ```
-├── MORE.vom
+├── MORE.vom [12a70b8659b2fd9bad39de16f06f24ca3dd222dd21ad614192f572383629b38f]
 ├── src
-│   ├── 1.ASM
-│   └── Z0MBIE.NFO
-├── zombie_3-001.vxe
-└── zombie_3.vxe
+│   ├── 1.ASM [50f72d5707e771b5fe6ded70d675290290dbb7f757e4de5626f06b0edc206411]
+│   └── Z0MBIE.NFO [08f9ed5a07822cd937a86f248e0c68ec2f437fd35e1b061f8c47f043c096a6cd]
+├── zombie_3-001.vxe [7b8a11d8a5b65a7875313c514d5789e5afdb8e23173b98e05a7cf11b9a9956ac]
+└── zombie_3.vxe [1b66dca197c8fdc11cf198b987157b977004367db0dee4685025b9409f9b75fc]
 ```

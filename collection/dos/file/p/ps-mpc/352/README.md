@@ -2,40 +2,40 @@
 # Contents of `352`
 
 ```
-├── 40000004.vom
-├── 40000055.vom
-├── 40000080.vom
+├── 40000004.vom [0abd42d64392bfd9412384cea9f33555a23f4900e9b064a917eec989fc70f52c]
+├── 40000055.vom [04b59e04b05ee3b1f750eafcd7a6d9c7e0c948471ba9b32c2cef0870b74cb9af]
+├── 40000080.vom [f4543b6a18c0a4d8ef215acd1115c89144791b1c30175ca080ad3fba4493af2d]
 ├── a
-│   └── ps-0352a.vom
+│   └── ps-0352a.vom [6398b99a0ad6766350cc57439d488ef3070db680405958088ab77ef68f9e6913]
 ├── b
-│   ├── psmpc352.vom
-│   └── unke2157.vom
+│   ├── psmpc352.vom [44f10b77b5f41eecfa8d42c43e9805b98784110d970c6da4a918ad8be524b563]
+│   └── unke2157.vom [cc3e85337f1b023d4d3a90e5d6a811e42f39de0fef001513b3221fc89ebc7fc2]
 ├── c
-│   └── ps-0352c.vom
+│   └── ps-0352c.vom [7eb2fd11d787931773414288bd1b4ebd432a1c91f9ac18a208876474b1f42673]
 ├── d
-│   ├── mpc352d.vom
-│   └── ps-0352d.vom
+│   ├── mpc352d.vom [50e3c9a4e8799f0d77da9132233443f9d15f1a22e3abac03e5107970ba79f4b1]
+│   └── ps-0352d.vom [0a33787fde337ef9ec26dc3c95e66cc56c5594b75bfd7a4c43bfbc2a3fbfe206]
 ├── e
-│   └── ps-0352e.vom
+│   └── ps-0352e.vom [4c855ff015ce9207eb02e0d5a075f99de6a7e3229eb9ea14586f25b2cc0ffd6a]
 ├── f
-│   └── ps-0352f.vom
+│   └── ps-0352f.vom [20861a8599745101ce90706c3bdefb2963a2f3da31dbf07ff66c43d39a5bfc23]
 ├── g
-│   └── ps-0352g.vom
+│   └── ps-0352g.vom [4cc1fe136da4717484e3dfae59e67e4275bd2f6d91ed1247848357a18ebabc9f]
 ├── h
-│   └── mpce352e.vom
+│   └── mpce352e.vom [dabc9522a96e8abd3079869b079ff1d53795c8207c97ee8f469536998b935746]
 ├── i
-│   └── ps-0352i.vom
+│   └── ps-0352i.vom [fd2d384459e36ed5c4e3b3c21f84893453c88bbf6dfb1e8fe00ee236f0fa2e0a]
 ├── j
-│   └── rambl4.vom
+│   └── rambl4.vom [c43e2c88ccc78a5651522a842b1bd0e446662ede37b5759eaaf1755884de7f87]
 ├── k
-│   ├── 352k.vom
-│   └── scrbl0.vom
+│   ├── 352k.vom [4943ba2f9a76626cdf3b347cbbb74ecee57a9177374f6c9873a00d6b8b70c21e]
+│   └── scrbl0.vom [0884dfa93314bfafa0ca61606b4f0fae909d7082fd1469959bef2503d54af1d4]
 ├── l
-│   └── unke1714.vom
+│   └── unke1714.vom [06d64e3697e2834b927a39bfc48d128705bf8671fc7c5c4a5be847188fb853fb]
 ├── m
-│   ├── mpc352m.vom
-│   └── rambl8.vom
+│   ├── mpc352m.vom [42deda840a93faf13767b1c05ccc42c58d5f5ab8a12539daff1df09bb4701505]
+│   └── rambl8.vom [d01fa26270245bebd960d990eaf1b2cb0cf3b6f921b7f4f9ee05643a3f1d1886]
 ├── n
-│   └── psmpc^66.vom
-└── psm352a.vom
+│   └── psmpc^66.vom [e38a732e163f70599cc85fe9b3afb3a44d5d3a05f7b673ff77219eb8222481c1]
+└── psm352a.vom [2d1d3a12fdd80127e782c5abd67b963a8568682fb02765e9afec5efd57cf40ab]
 ```

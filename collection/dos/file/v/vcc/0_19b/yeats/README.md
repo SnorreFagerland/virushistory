@@ -3,27 +3,27 @@
 
 ```
 ├── 436
-│   ├── t7.vom
-│   ├── tf.vom
-│   ├── thes436.vom
-│   └── vcc-436b.vom
+│   ├── t7.vom [10f1d80651811767f2a6a0160de02ddb4d5eb738dd0b6a455d2234d7a05c56f2]
+│   ├── tf.vom [06e24f77709a5b435c9b0a025204e9dab3ca5798b3d24674b35d7492e2857b4e]
+│   ├── thes436.vom [9417b345815f5e07f36d8c6c24b422fa3cc65344b9bccd98550414ef7658867d]
+│   └── vcc-436b.vom [d08039de8d059db8d24ebf8a196dfb175c7300c1fd15f8d60de9daf3a93f3b3c]
 ├── 470
-│   ├── lullaby.vom
-│   ├── t7.vom
-│   ├── tf.vom
-│   └── thes470.vom
+│   ├── lullaby.vom [1d2e5ff9d598d5bb5dda31c5c03d072b2de69534df00f47ecd566432e080e45a]
+│   ├── t7.vom [e811bf6def6663e2bf2cfb916a04ef7af74e117f7e0af29175f6911aadfbd982]
+│   ├── tf.vom [47a671b029968317eb3768629b7db4a2d6ca9cdb8cf554fcda6171c79b695061]
+│   └── thes470.vom [e48611c05a49507748883b3e3aed44316ff4c82679a7263952735be90588133b]
 ├── 493
-│   └── byzant.vom
+│   └── byzant.vom [7e290864653b1102276b1be913bcc35a984b7a5a9af8e6779282871f79ba160f]
 ├── 537
-│   └── althings.vom
+│   └── althings.vom [199384c786c1ac4a906e1805d7cd1bf920ac16bfc73511561971cb139539064a]
 ├── 594
-│   ├── gen_1.vom
-│   ├── t7.vom
-│   ├── tf.vom
-│   └── thes594.vom
+│   ├── gen_1.vom [a148b3049fa090eb2e6e4e4c487cb71ffe65322c3eca35a0677f20f87fd306b9]
+│   ├── t7.vom [a29aeb7cec86c85592ca35c607b7c1093a48a1b705ed8f5d92711d34f0219a31]
+│   ├── tf.vom [c2e07459fd49d88606675ccbdbba56d1af33c2c406d10c9551e4d538f702a462]
+│   └── thes594.vom [7177afea4c2e8b33a94797831cfc1ddc4c46c0b4b37822c59100bd35e4c63319]
 └── 620
-    ├── gen_3.vom
-    ├── t7.vom
-    ├── tf.vom
-    └── thes620.vom
+    ├── gen_3.vom [bcfc0d5811416cc560328a73932ab220664fd99e5b2fd73ebaea6e0b2e01a628]
+    ├── t7.vom [73ad9b90339dac38acdc90fecf6d0e5e2284b46395765c01ba2f6f501e93d655]
+    ├── tf.vom [bfe6752ecab6149bcf201d70490b8e10c0e65d1780a47599c004b1df735fcae4]
+    └── thes620.vom [e76af3d4c29dfee1fc3cb891946717379e5ed3021f73fcc1721b11929b05c210]
 ```

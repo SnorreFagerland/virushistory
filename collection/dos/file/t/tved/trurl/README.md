@@ -3,28 +3,28 @@
 
 ```
 ├── 789
-│   ├── demovir.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   ├── t8.vom
-│   └── t9.vom
+│   ├── demovir.vom [1c6a367f676e84768e1b6f5ef7981e2a6ddb507c557c40bb3d9415fb8c56b9a0]
+│   ├── t1.vom [44240d6a53547bdd9ea537f7520a4cdc271ec74e60ef26c1e92b2793cb30897d]
+│   ├── t10.vom [e1cae81a3198346e5000f26d6c3aa16cd58f715341674b7a2d7c3b24a7ba3cb7]
+│   ├── t2.vom [65eca4f3adefd9b93341065585110363be27adbc019344204a0facc5c1fc1c62]
+│   ├── t3.vom [a7e5feb870d793f61468d34a489002a815d20981eec07542aff1f461d6c188a2]
+│   ├── t4.vom [193adb2b5de5d97b5b559580c6d11a259e4009c3bc1e9ac472b0cbafe6c6851c]
+│   ├── t5.vom [c4d8cbe0a079510a112568766371cd731611df718209ea5132285123afec690c]
+│   ├── t6.vom [5bb501d70bc891ebb24ea180c8198a15bbc97445fa1363e5bd3363eb4ff2876b]
+│   ├── t7.vom [0270999b9c7b0eba5ab790a125c0ef5ecfae7e84ca3621f2d42eca68a0466667]
+│   ├── t8.vom [d85d9645e8d99104444d9ad9c408946433edab68336f6bd04aab92993894ade2]
+│   └── t9.vom [40d5beba26e0380b6ac3e6974a522921addb0b8619966aba8488c60c1b68742d]
 ├── 791
-│   └── virus.dos.tved.trurl.792
+│   └── virus.dos.tved.trurl.792 [46c4c9dd8565bfbc390422cb256eb86eea81c667985e69c5891be5e706201655]
 └── 812
-    ├── demovir.vom
-    ├── t10.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    ├── t7.vom
-    ├── t8.vom
-    └── t9.vom
+    ├── demovir.vom [7e7b2dbc05dc648ce95f7bfb3a61ef0c801e900c5a05d4ab4595c628f61fc7c2]
+    ├── t10.vom [5c5e624a91f2485e607eae1387b400b7dcdb70cc1eb40553c75d7ed90f0acf21]
+    ├── t2.vom [ad6ea1d545461e15666832c1c49c79447038f9a80b2c95a9c822ef05293bc5ae]
+    ├── t3.vom [095a8d68ec7d896b4974b4d22eb00aa25a0fef34521a758d97cb1d2438d958b2]
+    ├── t4.vom [72a998e4de806fdb4dc3cfc0b865d24a976aca49e6afd59469c3bd3b7c681f58]
+    ├── t5.vom [40a24919523fb4b7a9cfd3861b932f7b2b2d0896f425dea7955b86f7c9c049e8]
+    ├── t6.vom [75e3dfe950d0cc7b03f1f6adc14a4d922cbc668fc3b926bf5aef647a941e2837]
+    ├── t7.vom [c01c21aaf52115f9c54bbf815e2a31801d44fa0c430119f2baf41ce71aa75842]
+    ├── t8.vom [d8e96479eb5bf8353177bdc439e00d50014d0dc01612c72ae1db7f569b160da5]
+    └── t9.vom [c07e681bf3ef0a057821a626c2c69dda7793e01b4601ee1da7f3d382ccb93e8f]
 ```

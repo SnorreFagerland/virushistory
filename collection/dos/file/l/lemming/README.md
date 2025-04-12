@@ -3,26 +3,26 @@
 
 ```
 ├── 2029
-│   └── virus.dos.lemming.2029
+│   └── virus.dos.lemming.2029 [1f70aa5b75c5fef48210d06b94ac557d64f10ab823228cc3b7058bf8d64d4228]
 ├── 2058
-│   └── virus.dos.lemming.2058
+│   └── virus.dos.lemming.2058 [f568319f2da8d28acf87b570421dbe8d4623d477fba76af4474e200dac87cd48]
 ├── 2065
-│   └── virus.dos.lemming.2056
+│   └── virus.dos.lemming.2056 [0a1bf074ed8792b9fc9aa5413bdfa4f2ca624957d7be1cab94cf8b111b7982f0]
 ├── 2144
-│   ├── antitbav.vom
-│   └── lem2144a.vxe
+│   ├── antitbav.vom [8eb0f2c4dabf585b5818d00649c81625c6596dc2c956fe1fa9d026aa89084e2a]
+│   └── lem2144a.vxe [a3337688f0397dc40edf5a11c8fd8eb33da42400649d1291527925b928b6b74c]
 ├── 2146
-│   ├── lem2146.vxe
-│   └── lemm2146.vxe
+│   ├── lem2146.vxe [b9782802dddd2b2333a16b595f41028a793f27c14248ac949655cade8d3c78e4]
+│   └── lemm2146.vxe [e18819d7a29447f02f6496595b09721734df019a81f212902207fbcba3543be9]
 ├── 2151
-│   ├── lem2151a.vxe
-│   ├── lemm2151.vom
-│   └── wci08061.vom
+│   ├── lem2151a.vxe [2b8a474a7df0f30d4c2b5d992c55b670c283febe8ddb931ec8171de154508166]
+│   ├── lemm2151.vom [cf1c64994686cd6703c7ca4bfa8e32f0a4b9dc750e86372145becd38bde40b4b]
+│   └── wci08061.vom [7e8ef94d27c1894262e99a093e51e0f0ff6ba8de6ad764a0a0ade20a3a059d63]
 ├── 2160
-│   ├── keeplemm.vom
-│   ├── lem2160a.vxe
-│   ├── wci0037l.vom
-│   └── wci0239l.vom
+│   ├── keeplemm.vom [f25a0dc5379f1f0570a9509f1e9fd1d1021f120a26603296f3094983fca6686a]
+│   ├── lem2160a.vxe [7c99e10ee39988e2b5ec3a1ff6305ee5d56aba74444aa6a764f3cb7e42b09fc4]
+│   ├── wci0037l.vom [e9551867a6826116951cdf80339ba09ddfe3ade43f2caa9d630277e96eff879f]
+│   └── wci0239l.vom [9643ac5b3cf0f4d65a98ce6b350c828f6e5f2fc69ac1c53afce8413e56ecbfda]
 └── 2247
-    └── virus.dos.lemming.2247
+    └── virus.dos.lemming.2247 [77a7f36d37aeba8076c7b0d3bed9667d3ac049e105eabf636d949057fc18fde8]
 ```

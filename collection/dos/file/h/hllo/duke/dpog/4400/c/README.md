@@ -2,8 +2,8 @@
 # Contents of `c`
 
 ```
-├── DPOG32.vxe
+├── DPOG32.vxe [3f233c3beb5cae3ec5609dd246ac99fa96f24513a71044aa91ef4b3aaf1cd20b]
 └── src
-    ├── DPOG32.CFG
-    └── DPOG32.PAS
+    ├── DPOG32.CFG [845a41ddd3676e7ce3e6eda54cebe02f915f25475e79c29467d4614dc61f5fc5]
+    └── DPOG32.PAS [96efea768b5f01cab12fad57fcb012ec1b102620424261b08b665550b6371c61]
 ```

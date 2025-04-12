@@ -3,2156 +3,1744 @@
 
 ```
 ├── 0641
-│   └── virus.dos.jerusalem.1282
+│   └── virus.dos.jerusalem.1282 [0745024ef1420f70424f64d977d8a02420d974114a261e7e95ff23183a362e9c]
 ├── 0662
 │   ├── a
-│   │   ├── jeru664.vom
-│   │   ├── t1.vom
-│   │   ├── t3.vom
-│   │   ├── t5.vom
-│   │   └── t7.vom
+│   │   ├── jeru664.vom [72ed6c7f5d52b60fb0fd89351733f579c2e9e6defb3d0176901b8ac014f57c82]
+│   │   ├── t1.vom [3661fc05ae4a1263036a21e79e7dd2621c25bbc813b9371a809881556a389d25]
+│   │   ├── t3.vom [a8e2cbcfeb1ad295b264dcdbb4ad302cca2a123b95ac6fa3ddaa8e50cdd49c51]
+│   │   ├── t5.vom [0429dda61ae4c0b75ea4bf614deead362d0c52d5275f3a134d76687f6dd659b3]
+│   │   └── t7.vom [9e04f842e0803d9e5f17220a6b107f771012cab169cb12184cf476d30db7c9c4]
 │   ├── b
-│   │   ├── t1.vom
-│   │   ├── t3.vom
-│   │   ├── t5.vom
-│   │   ├── t7.vom
-│   │   └── wci0171j.vom
+│   │   ├── t1.vom [c4754e9af685499f4adbbefafe8d6df6fa802b433e3436990e7a1be0bcab0e70]
+│   │   ├── t3.vom [a3142b0e0e562bdffaee58add04509d9d2e7a856e3eef12b8e909e649f8c231e]
+│   │   ├── t5.vom [31d03cdf3e48c18cb461226267c21f68458bc39b4575fea54a50c7fead988fd0]
+│   │   ├── t7.vom [c94ec864a83cd66d41b6f81029c82482ef45153533ec0f93024c8c95f6625824]
+│   │   └── wci0171j.vom [c5c2cb80f02649ae774c5f14818106a768423dcca4bb0cd99db8fec5cea01f56]
 │   └── c
-│       ├── t1.vom
-│       ├── t2.vom
-│       ├── t3.vom
-│       ├── t5.vom
-│       ├── t7.vom
-│       └── wci0169j.vom
+│       ├── t1.vom [1b4aa01be20ebe5c4318dfdba66d8d30b1cbab8397451a5166194ddfdbbb627b]
+│       ├── t2.vom [350816452d610315864bbb634a059ee52e487c5b6bd869b8c75fc671bf6145f8]
+│       ├── t3.vom [f63a76f25dd49dc3895e1838ed5a13f85f7f9a4d226e499b13ffe52dc51d086b]
+│       ├── t5.vom [88c31465fdfe8b75ba755d3a8f1c8f829ed4dd34f60aea5b4ee7d525c653959a]
+│       ├── t7.vom [0cb0940d4ebde82c2f7540b00fe36aa9c2c9c4b7e56054393dd4e23f1cfb7b80]
+│       └── wci0169j.vom [a4c873f732fd39062233685078fec76a44e4aa2e2795bf69e8fa42d875dfd2a6]
 ├── 0679
-│   └── virus.dos.jerusalem.679
+│   └── virus.dos.jerusalem.679 [10c54b56b0e2bd88b4318c6a9d0ca38e571632d93a76fd7d7871a930fb08e794]
 ├── 0880
-│   └── Virus.DOS.Jerusalem.Limpia.888
+│   └── Virus.DOS.Jerusalem.Limpia.888 [861a5d53b832e716899e9c6bfd0e3be9d7a1f8a2dccfbe984871e56958819bef]
 ├── 0986
-│   ├── dwv.vxe
-│   └── jer986c.vxe
+│   ├── dwv.vxe [b41545fbc7c0a3cd09f0705b07ba4ab19bc1a851781575c423feac749526ca88]
+│   └── jer986c.vxe [76e49a88bba4fe50c20216d3c82b1e2d34f84405a041590a491fe2cb7a4e5f5d]
 ├── 1013
-│   └── virus.dos.jerusalem.1008
+│   └── virus.dos.jerusalem.1008 [af311e5582b5d552d71b19d31b82fdc281c3c0d0d1d91c146f1f6baf06bc4228]
 ├── 1024
-│   └── virus.dos.jerusalem.mit.1024
+│   └── virus.dos.jerusalem.mit.1024 [e295acf1496bb21b2d4599f6f2b67a8f5a4f0acc043e39512d3781ecf953f9af]
 ├── 1045
-│   ├── jeer1053.vxe
-│   ├── t7.vxe
-│   └── tf.vxe
+│   ├── jeer1053.vxe [4da846354a7564c2923e4fef44d8c79490408c46bd86a1c910e851b5af655e8f]
+│   ├── t7.vxe [51de66f5d0959461492e895dab8a39a556861677a6dfb211544b8616aeb3c3d4]
+│   └── tf.vxe [c2914a386baf799b5fdb925b9b5ff4042fd158b6f3af1fa3448e7aba026f298f]
 ├── 1237
-│   └── jeru-j.vom
+│   └── jeru-j.vom [ee3ec1f55793ec26eaf99048c63eef0824e868466d9be386d2a3496f584634cf]
 ├── 1238
-│   └── xed1238.vxe
+│   └── xed1238.vxe [c4ca2c11cfcc80c687226ceae33f6f9172c2eda62d4228aa6b2ab6df4d21d199]
 ├── 1241
-│   └── virus.dos.jerusalem.1241
+│   └── virus.dos.jerusalem.1241 [d178bf669f79a69f4e3b57b2a677e32c702b361224c39fb12c4ce7273fef835e]
 ├── 1244
-│   ├── 1-je1244.vom
-│   ├── 1-je1244.vxe
-│   ├── 2-je1244.vom
-│   ├── 2-je1244.vxe
-│   ├── 3-je1244.vom
-│   ├── 3-je1244.vxe
-│   ├── 4-je1244.vom
-│   ├── j-1244.vom
-│   ├── j-1244bu.vom
-│   ├── jeru0010.vom
-│   ├── jeru1244.vom
-│   ├── jeru~113.vom
-│   └── jeru~126.vxe
+│   ├── 1-je1244.vom [fe144a0f6f8a0128bc0183025e17ab7542fcb64e2436efe2a3c930cf2b3b54f0]
+│   ├── 1-je1244.vxe [3ebf61bfd8aa0aa3dbab2d00cb08b80784b43a2adb32a59d98d1a3ce6d462c9e]
+│   ├── 2-je1244.vom [fc5211c9e9c908b4a55da6309f142d77a075f4fcd8fc4c3901ab095473bfd3d2]
+│   ├── 2-je1244.vxe [db4bd9c767346f247619c2f1a00d08d2bd6c6e0a1d0ffd365fd323bc32e27151]
+│   ├── 3-je1244.vom [b812e7428124c8046e747585d27765be18a37fb7dc108c06f5c01858374f87c3]
+│   ├── 3-je1244.vxe [53e0a80931c7ace4bad84c6ae9ce751cd9e7a6fdf155a095b5c8ba3ff0c11f71]
+│   ├── 4-je1244.vom [50743da7accb7270955ea6c2c0d7b00333c19f91420817ad0a1071fd95833491]
+│   ├── j-1244.vom [25bf35cbad07ad69223fcce6cf077a37f174d2b8f04f3c823a972c31b5c95b65]
+│   ├── j-1244bu.vom [3f591d942a896bf92f66e68eed488328344d3abf8750e449bf0d3e5f7775c15d]
+│   ├── jeru0010.vom [feab968263f2089ed0f3354c275a976ac1e4c5cd1fb9c3433c081b0c240055cd]
+│   ├── jeru1244.vom [cc39e5f577771cd2de93543e75382ad7cfb522af66b2fca0bbd303d34e3aba25]
+│   ├── jeru~113.vom [5c34998baf66f6a00da24b97957d935b21cbbbc8b578585c60877e60a398f288]
+│   └── jeru~126.vxe [4e95e255c31bad6ba59c1824fb12be2fb2ec2d4f54e7381634386f23deb5d391]
 ├── 1264
-│   ├── 1264.vom
-│   └── test.vom
+│   ├── 1264.vom [b371f5cc386c9939be8d82076a270a308599bf94ddb99c3d231207140301d0c3]
+│   └── test.vom [cb1a5f22e51b5535568f22d4c189b6501047cb3dc6df7c70d72710f5986d2a81]
 ├── 1291
-│   └── Virus.DOS.Jerusalem.1291
+│   └── Virus.DOS.Jerusalem.1291 [36b4951d9e63fac85e02b05e97b45b3bd0beb5caa0aea76d53efb8a2a4b772df]
 ├── 1329
-│   └── virus.dos.jerusalem.1329
+│   └── virus.dos.jerusalem.1329 [cdb1090058b54eb707ebf882a41deab9f22f44a0ff75079768d546b4c6a07804]
 ├── 1348
 │   ├── a
-│   │   └── virus.dos.jerusalem.1348.b
+│   │   └── virus.dos.jerusalem.1348.b [1d39fa430f37ddcd01f978cde6f59b80c0cde164e667053b971b5769dfd8a0c2]
 │   └── b
-│       └── virus.dos.jerusalem.1348.a
+│       └── virus.dos.jerusalem.1348.a [58fafdae276bc5609e6cc4d4239836ebc64576d33f42f3a30b237aa4ec3e18de]
 ├── 1349
 │   ├── a
-│   │   └── kbwin95.vxe
+│   │   └── kbwin95.vxe [045e8e1caf3fc90454a6e6c7c322e34b4077025a3901042346b9c70af5c37a0c]
 │   ├── b
-│   │   └── virus.dos.jerusalem.1349.a
+│   │   └── virus.dos.jerusalem.1349.a [b20b5b9253f487548f2b4aafd728e6a1339a46aa566127ad68efc93d562315f1]
 │   └── c
-│       └── Virus.DOS.Jerusalem.1349.b
+│       └── Virus.DOS.Jerusalem.1349.b [a239194493bce773fd4f70855e45fae387ddd2c48faaf697affb2d55ab7821dd]
 ├── 1356
-│   └── virus.dos.jerusalem.1356
+│   └── virus.dos.jerusalem.1356 [f01f271ad43c8b915d44949eaec864d180e72f8cd78da9a38567ae13bf22da63]
 ├── 1390
-│   └── virus.dos.jerusalem.1390
+│   └── virus.dos.jerusalem.1390 [3cd35491b22f8d2eecc6feae9aeb76d0df123f007c7940565e57efe3b4a60977]
 ├── 1427
-│   └── virus.dos.jerusalem.1427
+│   └── virus.dos.jerusalem.1427 [4a99d3f4237754652814dc51ae92e5fb8dca2c5b8cdae825d9091b01e3dba1d3]
 ├── 1477
-│   └── virus.dos.jerusalem.1477
+│   └── virus.dos.jerusalem.1477 [14ea0de2f1e9c1f302233d197e34bba46f8c1ac613e4615c6683627feb0e93fb]
 ├── 1488
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   └── virus.dos.jerusalem.1280
+│   ├── t1.vxe [bfe5f0e337d1f9ed01706bab06bcd2cb798f7b7ec0f6a737f97d42b301d33c63]
+│   ├── t3.vxe [0b39d40bb7a7c501fce02499ff89855a201f55f01ef88e8c3aee5d42614b71ca]
+│   └── virus.dos.jerusalem.1280 [a94793d3fbd1c7c1c40ae4c71cb25aa69f2cfb9c589ce9f15d49164df1f14f8d]
 ├── 1500
-│   └── wci0048j.vom
+│   └── wci0048j.vom [531b37b6157e76b3fe08809ba68371bc2ed2e7758d0053c525a07e2bd72e0b9c]
 ├── 1506
-│   ├── 1506.vom
-│   └── jeru~116.vom
+│   ├── 1506.vom [ec77aa0ab384d127e22c482e97057568a3899d75dd985073ea1a6a3b46a6fd46]
+│   └── jeru~116.vom [7b7096845b88738eeac758fc8d2d356495f6bbb0d857c8ce8ea5247ebb44d945]
 ├── 1518
-│   └── virus.dos.jerusalem.1518
+│   └── virus.dos.jerusalem.1518 [09838a02098e175a8ef0a771ed86350da014deefd48b239b7358f34bd2369349]
 ├── 1521
-│   └── virus.dos.jerusalem.1521
+│   └── virus.dos.jerusalem.1521 [a464a407c61fdbe2e2e7282b637935cf2fe0da4a30583d5d2df96011274cb682]
 ├── 1522
-│   └── virus.dos.jerusalem.1522
+│   └── virus.dos.jerusalem.1522 [9fc81257a7666383e32d3555469936c2bb999a44f832678cafd098cd4f7e76fb]
 ├── 1523
 │   ├── a
-│   │   └── Virus.DOS.Jerusalem.1523.b
+│   │   └── Virus.DOS.Jerusalem.1523.b [e219e811d157f1e1d50d8bd15b637c9e619de582d904e38ffde46edb1bea61b4]
 │   └── b
-│       └── virus.dos.jerusalem.1523.a
+│       └── virus.dos.jerusalem.1523.a [6bf3a5a226c3ecf8ee838dcf3c595b0a213c1508a1d69eb89301138094f2c9a7]
 ├── 1524
-│   └── Virus.DOS.Jerusalem.1524
+│   └── Virus.DOS.Jerusalem.1524 [6bcb83a9d48a87a62f658253797d58cf959e8c34a7578c3189c9440df5eb3a97]
 ├── 1525
 │   ├── a
-│   │   └── virus.dos.jerusalem.1525.a
+│   │   └── virus.dos.jerusalem.1525.a [067f7f320dd92d2734946566db6115d7376c87762f3f72952d79834c7d7973f1]
 │   └── b
-│       └── virus.dos.jerusalem.1525.b
+│       └── virus.dos.jerusalem.1525.b [f65755e0516168b4c9784317d6baf914cbf7fdc89a2ffa368a8420d9d8aea674]
 ├── 1526
-│   └── virus.dos.jerusalem.1526
+│   └── virus.dos.jerusalem.1526 [c8a736dd6712e18ee6e54054685e443f352ca91bbb93d5ba631a93054d7452b2]
 ├── 1548
-│   └── virus.dos.jerusalem.aurora.1548
+│   └── virus.dos.jerusalem.aurora.1548 [b300d3aa8bb3df1586cd5c47eddc9126355fb138fd1e482bdffb8e3c8828f81c]
 ├── 1568
-│   └── virus.dos.jerusalem.n3
+│   └── virus.dos.jerusalem.n3 [fbe98238baed780f2350dbb70799e33eff6e43a9496fbc0b882773877272fbe0]
 ├── 1570
 │   └── b
-│       └── virus.dos.jerusalem.joke.1570
+│       └── virus.dos.jerusalem.joke.1570 [a873f46c52ecdf936c1ecd6f5727133183fae76e3877504013b90d9eb69a453c]
 ├── 1587
-│   └── virus.dos.jerusalem.1587
+│   └── virus.dos.jerusalem.1587 [7662c0fe55131d6004d41864fc04ceb7b2d4364c388059bf1cf46d8342433c81]
 ├── 1598
 │   ├── a
-│   │   ├── jerusale-001.vxe
-│   │   ├── jerusale-002.vom
-│   │   └── jerusale.vxe
+│   │   ├── jerusale-001.vxe [76998c66460a58212f361df37398b11ce0d43b0108f7b408228d3c703cc5d325]
+│   │   ├── jerusale-002.vom [88cbb5d1a1efd3ae8cdbed82d03d17be30b0dc13761d62103f30d35d9341e8ff]
+│   │   └── jerusale.vxe [69bda47b62c95ce881efa08f4b4bc44097ca9a6710a2db4f2ef733a32878b5e6]
 │   └── b
-│       └── Virus.DOS.KOV.Wanderer.1598
+│       └── Virus.DOS.KOV.Wanderer.1598 [8b0c438cf54666bb160c5e5ffa8a469c02f81af902431a35372f50e0a608bc95]
 ├── 1640
-│   └── virus.dos.jerusalem.baby.1640
+│   └── virus.dos.jerusalem.baby.1640 [0a473d50187e4b328ead195326d9b3b8a7798b0d442fc64281e1e12fd70ceb14]
 ├── 1663
-│   └── jeru1663.vom
+│   └── jeru1663.vom [50f6de2d6a5c6b55e588a0303500f9b337e6ed6e3d799fbd7d20aabf0c1137bf]
 ├── 1682
-│   ├── jeru1682.vxe
-│   ├── t7.vxe
-│   └── tf.vxe
+│   ├── jeru1682.vxe [fe69723dcd0fcbaa239f951b63b21685c3738f759babd4555b1e505ae91fc892]
+│   ├── t7.vxe [02d11aabf3bbd837792af30922da371c068ead0b05979da36905e12e752aa5cd]
+│   └── tf.vxe [f12e6659b566ab9ef949ba9f45ad566e7d63a25daa55446bc9f91bf7966e89eb]
 ├── 1692
-│   └── virus.dos.jerusalem.s2
+│   └── virus.dos.jerusalem.s2 [6abe45eb59550de9df8a657a4412a39a0348d2230a4c2846d560f4c78f17a1ea]
 ├── 1721
-│   └── virus.dos.jerusalem.1716.b
+│   └── virus.dos.jerusalem.1716.b [6ff1a4a085db6c19e2ddfbdf15ba76f5a4e8be38e20ad8ae0d8438a873dc380c]
 ├── 1728
-│   └── Virus.DOS.Jerusalem.1733
+│   └── Virus.DOS.Jerusalem.1733 [5b7193c6d0f6737f001d64b27d9ac65f909c81392738db017fb541b6b2e37744]
 ├── 1747
 │   ├── a
-│   │   ├── fri_1747.vom
-│   │   ├── jerusa~1.vom
-│   │   ├── jeru~124.vxe
-│   │   └── test2.vom
+│   │   ├── fri_1747.vom [9d1a4a781e0bbbcbbf86bc3284718824f7a0594bd59b9dace879864a8e4a81c6]
+│   │   ├── jerusa~1.vom [f016165055ea98be2277aee7366d5100f33af4b120d31699eee0eb37891bddd0]
+│   │   ├── jeru~124.vxe [3955b164ddcb9b4e7e505f2e83609c8c23beb7b75875cb4091c8f0c10a33bb9a]
+│   │   └── test2.vom [a1a58cc1462fafdb9df5e824610c2d4b5cb016311327441eeb5eb2990945a6ce]
 │   └── b
-│       └── virus.dos.jerusalem.1747
+│       └── virus.dos.jerusalem.1747 [b1ce867daa1dd1f59db254991ec01a512372000878a95f728eebf3e4fff7a536]
 ├── 1767
-│   ├── 1-je1767.vom
-│   ├── 1-je1767.vxe
-│   ├── 2-je1767.vom
-│   ├── 2-je1767.vxe
-│   ├── 3-je1767.vom
-│   ├── 3-je1767.vxe
-│   ├── j-1767.vom
-│   ├── jeru~121.vom
-│   └── jeru~128.vxe
+│   ├── 1-je1767.vom [b54a2609cbfe2a18b6702988645612f9b4390b8a407371f7dce4a2ca811ea5e7]
+│   ├── 1-je1767.vxe [3f727f491c7ba89072a4172e543d8c0f293d4d04ac0c96a4813a7fc5978707d0]
+│   ├── 2-je1767.vom [58ea7ecaf2e27fc98c0b48d4467e4294890c6f0b382550347dd7b8792a3a92a8]
+│   ├── 2-je1767.vxe [3b560f0476f18e35c3fac3b02566453a00281846c452141cc7d4f88609925e3e]
+│   ├── 3-je1767.vom [29fc0bf192d2ca9d8d3e765a95fcf92eb37800c481d0868304f953172a31bdb9]
+│   ├── 3-je1767.vxe [65ddde5ee883c1d02d6ba0ef724c343a944cb5f517b90458ada6d95a848f59dc]
+│   ├── j-1767.vom [4ff80fcac4fed3835ef799352923d8dfbbdef56045d5226157e38564acc466eb]
+│   ├── jeru~121.vom [f8433a42c2e68c629064c195bafd1ae99f2ff19b01a5c80ed803a310891ef3b6]
+│   └── jeru~128.vxe [735a774bc60cf5894bcb3b01a4eb6fed4fa65be6eaf1834a9eae197412851fe1]
 ├── 1792
 │   └── b
-│       └── Virus.DOS.Jerusalem.1792
+│       └── Virus.DOS.Jerusalem.1792 [d168c1132b7eb43d6621857bf34fb0854a80cded7a0678b645056ac9baa0c0eb]
 ├── 1808
 │   ├── a
-│   │   ├── 1-stan_a.vom
-│   │   ├── 1-stan_a.vxe
-│   │   ├── 1808.vxe
-│   │   ├── 1808b.vom
-│   │   ├── 1808c.vom
-│   │   ├── 1808d.vom
-│   │   ├── 1813.vom
-│   │   ├── 2-stan_a.vom
-│   │   ├── 2-stan_a.vxe
-│   │   ├── 3-stan_a.vom
-│   │   ├── 3-stan_a.vxe
-│   │   ├── 4-stan_a.vom
-│   │   ├── clean.vxe
-│   │   ├── droz.vxe
-│   │   ├── ega.vxe
-│   │   ├── emulate.vxe
-│   │   ├── faces.vom
-│   │   ├── fri13.vom
-│   │   ├── iejer.vxe
-│   │   ├── intro.vom
-│   │   ├── israel_1.vom
-│   │   ├── israel_1.vxe
-│   │   ├── israel_2.vom
-│   │   ├── israel_2.vxe
-│   │   ├── j-08st#.vom
-│   │   ├── j-nazi.vom
-│   │   ├── j-std4.vom
-│   │   ├── j-std6.vom
-│   │   ├── j-std7.vom
-│   │   ├── j-std8.vom
-│   │   ├── j-sttd.vom
-│   │   ├── jer0.vom
-│   │   ├── jerslm-e.vxe
-│   │   ├── jeru-b.vxe
-│   │   ├── jeru.vom
-│   │   ├── jeru.vxe
-│   │   ├── jeru0360.vxe
-│   │   ├── jerurela.vom
-│   │   ├── jerus.vom
-│   │   ├── jerus.vxe
-│   │   ├── jerusa-b.vom
-│   │   ├── jerusale.vom
-│   │   ├── jerusa~2.vom
-│   │   ├── jerustan.vom
-│   │   ├── jerustan.vxe
-│   │   ├── jerustd2.vom
-│   │   ├── jerus~63.vom
-│   │   ├── masm.vxe
-│   │   ├── mi.vom
-│   │   ├── nazi.vxe
-│   │   ├── newjeru.vom
-│   │   ├── njeru.vom
-│   │   ├── pad-dvar.vom
-│   │   ├── parascan.vxe
-│   │   ├── payda0.vxe
-│   │   ├── payday.vom
-│   │   ├── payday.vxe
-│   │   ├── polimer.vom
-│   │   ├── rc-1808.vom
-│   │   ├── rce-1813.vom
-│   │   ├── turbo.vom
-│   │   ├── turbo99.vom
-│   │   ├── v2000.vom
-│   │   ├── v535.vom
-│   │   ├── vacs24.vom
-│   │   ├── val1.vom
-│   │   ├── val2.vom
-│   │   ├── victor.vom
-│   │   └── x.vxe
+│   │   ├── 1-stan_a.vom [c8f9d8828f33792ba223f129ac782a6b842399243a76c848776837c12f79a2b1]
+│   │   ├── 1-stan_a.vxe [1d870b9ac9b18f1b231dcb8a53265b579f31123242b435b626a543852fb8b013]
+│   │   ├── 1808.vxe [3ba074cd3a602d9a57dd8b2a45a017ea2ccbc8fa3ce32222a70f7af875580365]
+│   │   ├── 1808b.vom [164fdafdb79f3df6ccd5f6cd06624e5ff11ac7e161568717b561f4a470468d37]
+│   │   ├── 1808c.vom [486765560383c8e66721bccbc4175cd584799886564495e1f6edc404199b3f67]
+│   │   ├── 1808d.vom [9f180ff91a4cf57e88fbc0f6a233e5a7ccc393c12d6b8e464871fba1a3b6a584]
+│   │   ├── 1813.vom [6dd660d7bdd13ff4300aa002f14d40fe964e18c6980d579d10644d203ec00c87]
+│   │   ├── 2-stan_a.vom [1e365bf48ce701ed00d86c35fdf5f236340e6f7bd929dd4ef34227234822528a]
+│   │   ├── 2-stan_a.vxe [18ade40caf027b7cc5ad055d60a7d49619d1bad5724f76bd4ab9950b074dd1df]
+│   │   ├── 3-stan_a.vom [5a998248c240ea7ae4251d179badcc9f51f17acb503658c89c73e8d3adbef825]
+│   │   ├── 3-stan_a.vxe [c593e2f801be5d05fb6d3155cd4dd6a2e76b5e50d031a26ce979c8de35ac7c42]
+│   │   ├── 4-stan_a.vom [260744c7adc41b2797a68f88b940dc2085af043399c5e50274080f0c3b94b5c3]
+│   │   ├── clean.vxe [560ea4f7091c89d5a22dfc11c0277090658b33d2d19fc5ed93ad52f1cb217997]
+│   │   ├── droz.vxe [31eb084acfe53c6bfd24093deee729097dfbc0f1c4f267e5d5439d562fd33ff2]
+│   │   ├── ega.vxe [2be87431e4c39b2d7fe733fc212fa34efba0b50d5842b73e54df6e80c786f1a3]
+│   │   ├── emulate.vxe [21e0e6c784870bab0a9960b512aca01868ac35598e25d764d5fcc0649de2de91]
+│   │   ├── faces.vom [b2e47a778d5d6724e66d5425e70564cf46b2b06e3cbe87b5ab3459c9b9e37f29]
+│   │   ├── fri13.vom [235eeba44999aca26753cc04d3f8e25082b58acf50140d23fedb8748bb1e1963]
+│   │   ├── iejer.vxe [5cbc30e012d61c67a3051b091e623bf4f28b63b8e3c160838ec8a8f5060ac8bc]
+│   │   ├── intro.vom [87d2fd5df38d8bfffb0e256bbb54a36b4d55e65b84cf109358128c0c804dc27b]
+│   │   ├── israel_1.vom [3d608adb65a3205d67240bc4f0c5b847831a79c2334735eaf9f140c4cc4823fd]
+│   │   ├── israel_1.vxe [2c4342b91e175cdc715685f0054c5e69ffb72c8a6f56a957b9c2bc41cea9d65e]
+│   │   ├── israel_2.vom [f84ccf81fd62970fa5960622a7dd7ed0859fd7c39964d7b2f0ac53c6ad87b9c8]
+│   │   ├── israel_2.vxe [7f2e45b2f56b937ff834f2e24eb4e4671a2974c5d68f859c112ed21f1cce8f03]
+│   │   ├── j-08st#.vom [7d51d58a76f10035c25db2e3280114856e4ee50c0f3d6d4651bac5ae61578d31]
+│   │   ├── j-nazi.vom [45d900df9f26f13a3ae05dbc3ce6d35d581c3cffdba7e7396dc051a26a67cc15]
+│   │   ├── j-std4.vom [ea6da6bcf5d4d5eb5fba912350cda0374f340d657ed6506b71e76d0237805a2c]
+│   │   ├── j-std6.vom [8d91d35385effff562f9fa888100c479c5bb6c812736a8072a4794832286a18d]
+│   │   ├── j-std7.vom [d7a4cfc52cebea7393d7ccae5cc396dddf860d6abf10240f93be12519aaf64a4]
+│   │   ├── j-std8.vom [a384d23df64480b1f8c250a2ea30dfa6eb3bac380bd06d1c7e5ffc1a530cd875]
+│   │   ├── j-sttd.vom [404a62d123088bce42e2ef9794745f3f1603f8ad61c579bc89e42262a55919c6]
+│   │   ├── jer0.vom [27f0dbf7fe9df42c3e40e6ff8588bc0f13e71a51b1dd09d61ed0ede43b023261]
+│   │   ├── jerslm-e.vxe [b0599f0952f082c7027f564f5a143561d92a8536d11c81caab1450791dec31bc]
+│   │   ├── jeru-b.vxe [f85db79c7b50f2416ed5464c0a8eae8743ad00a59d11e98f482547c99689f86a]
+│   │   ├── jeru.vom [bf55712c5c1b0e27047b95714dc4fb21116ec7bf222c44f39fe1249a6a8b02a1]
+│   │   ├── jeru.vxe [8c2b095cde7be9ad1b2ea0fdbd68665f113ea1f6cea2a5591ce30512bbb2fd58]
+│   │   ├── jeru0360.vxe [6acec928b839edd01a5df062bf72bd4cbc4df9d38fc3998eb18a63bda18baad7]
+│   │   ├── jerurela.vom [9a0a1fedf173675405eeeba97127ac676ba4f5236577884124582e00b600d821]
+│   │   ├── jerus.vom [6b5c3202d94ea2ed7d168435ee70ad9551257e65c2e20e3852c5ae43dd602a2e]
+│   │   ├── jerus.vxe [e3ec3ccadea29cecea4ea0279f45ce71fb47f0262e0069505eb6ce65d65e93e9]
+│   │   ├── jerusa-b.vom [9f3319f5280ec5eb294b9cb95706685e31f91c56f6e8625734e075b82b184576]
+│   │   ├── jerusale.vom [011b49d8321bfe4fd51362ded793ec96c74014fb18fadbd72b1045f151951947]
+│   │   ├── jerusa~2.vom [a25e577eca0250d5811e4a8ebee0291dab2514cf3030f7ebf291ce97e0ccb84c]
+│   │   ├── jerustan.vom [17176bf6a8f472587480e320a6134ab2f2c6d47a798937067567eafd3ec574fa]
+│   │   ├── jerustan.vxe [273bf94658ee40e51ce7d201177c2e9bb0923ebc2cf9ab479e65be02eaa40345]
+│   │   ├── jerustd2.vom [82ea43689a04135fde73013d0d36ded0d2eb9b99caba402bb991624dda8910d4]
+│   │   ├── jerus~63.vom [697bf128c127e23d54aafbd217b2ee3a8d9a254fb76a4509a3c86a1517644200]
+│   │   ├── masm.vxe [5567abf7104e18d3366604d428b23a9c74534458129abd90c7e2089a8184b5fc]
+│   │   ├── mi.vom [b31e275f272ff0a8d48f28c6eff0df74a809a16f135774664455064d214aaff0]
+│   │   ├── nazi.vxe [ace8a7165dc2d370d0b657754421ffd93f9b16a2d08c6a7ab11de996536a5d9e]
+│   │   ├── newjeru.vom [443145efbe5c918fdaac088f0d5e568a178edc81f3329e26269a1ad71d80f616]
+│   │   ├── njeru.vom [373cc3969f8f4b1b7dc8c25c097bf35c765391233cef5997b5f397ef09f9fb0f]
+│   │   ├── pad-dvar.vom [d0201627cfaaddecf3adeae3b4ee70f505e99137beebfa031f03fb2eeb39eb72]
+│   │   ├── parascan.vxe [17fb49a087ce6581fee24f8fe4aa26641415d0283ad41711f21f1cd1f4254635]
+│   │   ├── payda0.vxe [7a556981d704048fd45e829c06d113b27cd313cf17bd23a35344bfc518f61988]
+│   │   ├── payday.vom [d6d697c04f17fed9a14f52e27e794941cf40c0d7ffea54c197b28c0744cfd132]
+│   │   ├── payday.vxe [8526b131ca41119a37624f79042e4b344d6f4cc02d0949396d961f85962fbe40]
+│   │   ├── polimer.vom [553a7c803431162ca50f8cf3eea8133c10983fc6be62edc5d32fa42b2fcb7ec3]
+│   │   ├── rc-1808.vom [ce5b28bcbab539ef77d242fd8cacc955e7e900f65a255451b8797484f42f2266]
+│   │   ├── rce-1813.vom [39b141729b3960672b5c366571681f1c1f602a8d9606808e78da65c1328a372f]
+│   │   ├── turbo.vom [690efe822d3202662945a3421f050b22a3bd486bea288e7973134c6130d8c7fb]
+│   │   ├── turbo99.vom [a4aa2721fb9b90708401075c1af7ee2d56ace3e708825595d1949c4895cc8b62]
+│   │   ├── v2000.vom [a35810bae672b9985033e6b88855b8a240473762d8fead33bb2f3ddd2ecf8961]
+│   │   ├── v535.vom [1a9df2622a25332ba540db2e697e9a3268bcfcfa4f0b7d7b6856087579141f0a]
+│   │   ├── vacs24.vom [996ed911088629482a15a211e0957877d817ec57d6b098efaa87d0fcc37a1dae]
+│   │   ├── val1.vom [bd853035b701a46353829fdf7dcb4fa38231819c4a6b7e5c31f164091cb15c84]
+│   │   ├── val2.vom [c1e0e0a99dccef8f676158a0486d8aa26c3f52b5fb9ef35cd76475caf650f957]
+│   │   ├── victor.vom [e48bf08c2f5222f9d0f5833c3e197f7df78ec93305026f3abc08f07539a32fc8]
+│   │   └── x.vxe [811b558a0d099552cea5d49635429abc5af510fbd50736aa2867e4776492b5b1]
 │   ├── aa
-│   │   ├── jerum.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── jerum.vom [183203406d85913c620073dd4212790a475d37f37784cbefae5ad69d1b3f4004]
+│   │   ├── t1.vom [8db022e0942efb461da3d7935ba44e194c3983cc3052b9e71e56a6840d3a1eec]
+│   │   ├── t1.vxe [e24e855de019519b636a7afe50e88586125e5d5bee3ea12eeeeb852ef238de98]
+│   │   ├── t2.vom [1b7926e56faf8ef3230c2278d799175820b8f47432120fdeb01354d5f16c5dd8]
+│   │   ├── t3.vom [8eaa5e19225e1353657b6201586e41573576e109c118cbffae6081c7b2e1237b]
+│   │   ├── t3.vxe [fa7484dd041ffaaf820d96e9291e290b779ef99d7ff4fef578c7dcc50836c8f5]
+│   │   ├── t4.vom [6e6ad80ef97df07b0d865b4261efa1b58edadcf3e7ca694bf8695e7fd0ed5a38]
+│   │   ├── t5.vom [936da70399b7ec0b023647502502ba62e62d19a1d5e78e20214b4db7d7f2eaa0]
+│   │   ├── t5.vxe [810c3774b6bd5a2488739d91abc2f17c57c9d8f25885ef843f4095b66c69d934]
+│   │   ├── t6.vom [faab4a348df4528f33fc8a9a88045e94a68f3b2f98a737b93189b3d770b68643]
+│   │   └── t7.vom [ae999220e38c87f5fba8bebb1f4887a87a837d40e88d906a681f1220e1f0a958]
 │   ├── ab
-│   │   ├── jeruk.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── jeruk.vom [c76356cd2836e9cd42563d9febf5c5cc6e4135cb1d27b6a7a8b6a2140efddb90]
+│   │   ├── t1.vom [02b0b634ef1074d6a7d9b167296aa61a0654944afcd69ef69f56eba5b13720f3]
+│   │   ├── t1.vxe [32049f2190b3e7eaa9070587488946cc12c7daca3a737221b7343a336f10d9b8]
+│   │   ├── t2.vom [375e8e850fb9b879052aa3b9e86280374a38a1a349edcd45348245fe612776fb]
+│   │   ├── t3.vom [bf746e76f7018c72c4111fdd407369f9cc799c5c2c92ee1cfae9956e900b69fe]
+│   │   ├── t3.vxe [917612e8826f5c754da496cf66ab36c1001387522bbcc661d4417ea1719a6ce8]
+│   │   ├── t4.vom [5e91d9161eb8bbd6caf39f09c906bebe0ea814466ecffbe164e536b02d4cda26]
+│   │   ├── t5.vom [c0c420689bc821961c269fbd6d7feb1abb27535ae70dcdd3919083ff8129f32f]
+│   │   ├── t5.vxe [eb17190151f0c3ba82de7da5954f45bbdd498b4cffa45951c39f1363f4280e6a]
+│   │   ├── t6.vom [3b177c3d2c58aacf93a3fa012a7700e329f13141127613a7a215c5d0547ec2da]
+│   │   └── t7.vom [e8b8252198b6f6271263a0966d454fad01e617dc985db1c10ee5ea2e15abdf2f]
 │   ├── ac
-│   │   ├── jerugoon.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── jerugoon.vom [b6e90306540bff739daca9371a5f06fc3470a16f0b86a4903fb04927c4ee6c2b]
+│   │   ├── t1.vom [fb21847b4e05253c39785463794a3295448919519d89386f359e07d9ff458c96]
+│   │   ├── t1.vxe [5a85519df551f0ab4b83e3a872506901463ede78b165c8143e74dd88195f2643]
+│   │   ├── t2.vom [ffc8ad94f5659f3607472388bc672f4069bc0f921eaf3727a7eed21ef6b03ea1]
+│   │   ├── t3.vom [0bfaf3628b44b298796b8310c6f24e1ffeb86135ed8a6ea0bb9ec365c586c280]
+│   │   ├── t3.vxe [d95520caa3399022a89a6bbb2f447280af585e92e73926247f441b88cbc79964]
+│   │   ├── t4.vom [87d7562036ac0e309e18490e5fc6a6e1824315abafbf9b586271aa9de216eed6]
+│   │   ├── t5.vom [e3c53ef6660a38f5f8ba1b3563fbae87cf66d33a8f2526a2301f5871b25420a3]
+│   │   ├── t5.vxe [b1d52d7b90558a3a046feffea5ceabcf3b4aacc7f1261a7efb4999f774bad905]
+│   │   ├── t6.vom [1b75bd767868e4403788521f8d11a694c6c473e06a7b54bb8818a28d3ad5aa69]
+│   │   └── t7.vom [663e88c926970399b7524fbc3912c1f0ceca12e8c35eec321b82321c726ed454]
 │   ├── ae
-│   │   ├── jeruh.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── jeruh.vom [8b1b5bd338a7a60975f010dded9fdc0aa47969069be569a13cfc6d24d156bff1]
+│   │   ├── t1.vom [74444e3b6d3b24b8f85d1c506319cf0fe76abd34cd98a4e4a447ced6c41f7899]
+│   │   ├── t1.vxe [a5de7cdddc01dec3280042c27cc01fac472fba9bb9cb89f9549076ff0f1de7ee]
+│   │   ├── t2.vom [bff88cee67414d32eec65e9d1e0a30e4c9ff49fd1c54569f18a90ed4670485ba]
+│   │   ├── t3.vom [a320ecd11ea7d4ea2968ee79775d69aa6f1f502b1bc78ba5491c533491aa1ed2]
+│   │   ├── t3.vxe [842efa9054f4f2a1f74f6a7513fc2ad6ef948bb291ab9bcd3b3a31b5f3750620]
+│   │   ├── t4.vom [1b1c914c3e5695065de96b1e16875559dcf81a51516ef844a566e91f53c05973]
+│   │   ├── t5.vom [882fe51f975e658cef18010914c53e47dd4354940391ee5edf5ac68faa1938ea]
+│   │   ├── t5.vxe [cc43c779a42fd4e526a50aeba53aff42df52b92a1e58b4c0d7c826d416d57c7a]
+│   │   ├── t6.vom [2ae6d1f85f57195507b5ea7536674037cc90e4325b0ecadefd6fa0f8968be234]
+│   │   └── t7.vom [4a7f59f1edec91cad932c07fe572e52f02bf2a8bdb5a037a658b7f5567121984]
 │   ├── ag
-│   │   ├── jerun.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── jerun.vom [eef5aa2e36c49d5f4051690634abf2e4d6f8838de6b2f36a0740ba51af95fc95]
+│   │   ├── t1.vom [3cf16b17b9be385c3106c8ac579ef5532bb0e1818a496859b5fbe525dc7a27fa]
+│   │   ├── t1.vxe [e5e97c16454ca5e81a40073685459ba000f6a6ddb06149589c0499415671d7e7]
+│   │   ├── t2.vom [10aacb40e2336cb27c380b5eac16542bf69e56e409bb5473f5dac2ce3d849dc4]
+│   │   ├── t3.vom [b171dd949f5da98ece669712b9c7d77e5e8fb24c0943a4615555140b84bb55bf]
+│   │   ├── t3.vxe [3cf06a4cbcf4b8270a851d7779af3aa2f46fc412aa2fc8c6b0ae0d83dc230222]
+│   │   ├── t4.vom [3dc0765dc2b3a35ee860c6915a277880cb89e00923cb4b463bdc14c8b39f8d99]
+│   │   ├── t5.vom [59210787ff0bcff60711c1921c6e8d3fee7514c47b513fb54fb08ef969334f94]
+│   │   ├── t5.vxe [bd7dd12d864e6a509930c85582df621ba4c587f42d19ec2ccd7b9ff337e8f4e3]
+│   │   ├── t6.vom [ce667e162d0780a2a18b8c19907da1663d5c4c6481fa62721469d4ee562d2cc7]
+│   │   └── t7.vom [9eb8654634333d55458c0de0a08e87ecfbb518f608cf363403d3aa6edc058274]
 │   ├── ak
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   ├── t7.vom
-│   │   └── virus_ce.vxe
+│   │   ├── t1.vom [445eeb1e969794dc5848bd83c17a1e36eab6ae219f46e65c2870584bb6f1f4c4]
+│   │   ├── t1.vxe [ecc84e676c250b25b7aab83ca176e985a88b597bbc67e76a31f5f9f53c9ddef2]
+│   │   ├── t2.vom [7db5372b4d3212550d92b891ec0e63c21faeb8a9a52ac08a52ef6e56b26fdb91]
+│   │   ├── t3.vom [06b6ff053bca2c3645a6e91e95ffdb6fefdc9af04dfc26a6a85cac7fb7ec335c]
+│   │   ├── t3.vxe [c64a6ed1cd88ff0b337836431ed068f8b15daa69d4af4a9c484b472528f7c868]
+│   │   ├── t4.vom [d7cfe10252e3b44d3415f653f6db8c28e760bc21be24e0a0ede5b0cdd257a257]
+│   │   ├── t5.vom [e0bdf24697267db4f45a8d7df0998d340a040ea768ab911decacb55367d7057d]
+│   │   ├── t5.vxe [c069a600f5218eee289f5b8af7870bea611e39cf82f41c29f772cb2ef2f52cb6]
+│   │   ├── t6.vom [20bdb058bc8a2a08d4d65be55485f5ecd128b8749f2ab6120b3dfa093180a564]
+│   │   ├── t7.vom [d5562cd0e51c5c5859aebbc2ce029a15791389645cf7124713f343901be9a497]
+│   │   └── virus_ce.vxe [5e577f180229b817f0c51961b5b2d87ce2b745ba585ca716390763c8bfad2a6f]
 │   ├── al
-│   │   ├── j-new.vom
-│   │   ├── je180sl1.vxe
-│   │   ├── jerus~71.vom
-│   │   ├── jeru~131.vxe
-│   │   └── sumsdos.vom
+│   │   ├── j-new.vom [d69967478b6b66b3afa4f75404e9c95c60adce93489091a9e0a09301610d453c]
+│   │   ├── je180sl1.vxe [a636ad24e2f3dd19dcf1a04ca43b72bd74788182734797e11db80bcac163a77c]
+│   │   ├── jerus~71.vom [408f5f3824de92cd0bc88fa8b87e1ac50d4d7c8e2aa528108bb6f11544e0e8f1]
+│   │   ├── jeru~131.vxe [c8aa47eb7e8b0c647597f5e62b58695074b1dcbd5a81bd60d04ccd7dea33de69]
+│   │   └── sumsdos.vom [2464a3176a00775980e0823d8a46f8c40ea656ef3bba2e973bc295d77a19aead]
 │   ├── am
-│   │   └── jeru-b9.vom
+│   │   └── jeru-b9.vom [e4b706270b334a924c58c41d4a2ee37d8e0669cf39eef01d905f9c7a6f140505]
 │   ├── an
-│   │   ├── eabab0c5.vom
-│   │   ├── jerus~72.vom
-│   │   └── jeru~132.vxe
+│   │   ├── eabab0c5.vom [63d1813a437f3ffa215261617f161748ec7b7bf187cec7536d4a607f06451f6a]
+│   │   ├── jerus~72.vom [2517ab413680e7492c2596f35c74050d894914e6e82ac36bfe962c3f34b465c2]
+│   │   └── jeru~132.vxe [393e19fa9e662ae6204fd61c7bf8509272429b5b87f3edd98d3a8b0cd4f83edd]
 │   ├── ao
-│   │   └── j!sum-ao.vom
+│   │   └── j!sum-ao.vom [4826137356d229bb4da74e767f18968e66bedc6b7f17d898f30527ad698f4a00]
 │   ├── ap
-│   │   ├── jsumdosb.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── jsumdosb.vom [a22294e343bb39c7297bfafdf8d2b1b505a415d03668771c5dc1338ea067cf9a]
+│   │   ├── t1.vom [acadebd8d4a83eae959c98ff31a32a7aeff2367bfffa83f49b9660e71583eec5]
+│   │   ├── t1.vxe [90db57af85ccc283df4512082874096918ff7e78987f7c49be259c0df823414e]
+│   │   ├── t2.vom [2921830fa3dced3f299fc4494febc69d6bb6595ad3337de199705be368768968]
+│   │   ├── t3.vom [66393fcc5186c0a11df26e3770a69634c222dda50c7d823124953b241b356563]
+│   │   ├── t3.vxe [cec41d1b1aeeca944f385b9e6159e27c8cb6155ff0c9f3af6a86a53f618c52d0]
+│   │   ├── t4.vom [fb778f75519fb7c75366a08e9f74a15bebe2ee65507ed22bdaa40826f9c6eb93]
+│   │   ├── t5.vom [cfbd0fb09a8489c1a70d239a51163f343bfb48247b159d4e92dc452d7e6a3fdd]
+│   │   ├── t5.vxe [21b13c6d80bce94df0cfc9e63f4171d4dcbbf81451dd019582bdd174d5d0467d]
+│   │   ├── t6.vom [8fee0fc4117a6bb548960c1087f1d10850db24bd14981f61f0882fc5e5902190]
+│   │   └── t7.vom [3ba1df4dd4adf9440e185dd4d792f9e2144f3d7d3e7594726526d8a3205d68db]
 │   ├── ar
-│   │   ├── ar.vom
-│   │   └── newjeru.vxe
+│   │   ├── ar.vom [eb1244f5c7718d23285f6924ab1e8e420e05ad242edeab2cd64158f1293d8052]
+│   │   └── newjeru.vxe [237b3b362b8d192426aa0fa6e8b8c834b0fd5a12099ad643664128b8d80d9dff]
 │   ├── as
-│   │   └── sumas.vom
+│   │   └── sumas.vom [c0524deb3b17e2f7e09ccda0e0abb6969c2ff53a74f800daa5f8f1c17ea3b60e]
 │   ├── at
-│   │   └── je180st0.vom
+│   │   └── je180st0.vom [4350664be2f57578b7a2ab5785a936a751c2ab888c9d95e549a4388708a98b95]
 │   ├── au
-│   │   └── je180su1.vom
+│   │   └── je180su1.vom [41038494d8cc896f04ec8ce5d21d0636eaf0d85c1b87deea940124668027c9e0]
 │   ├── av
-│   │   ├── jerus~75.vom
-│   │   ├── stdvar.vom
-│   │   ├── stdvar1.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t4.vxe
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   ├── t6.vxe
-│   │   ├── t7.vom
-│   │   └── t8.vom
+│   │   ├── jerus~75.vom [206391a5b99a661a3e983b39173a0cffdaa7029302c91d785abfcfaee1dd3392]
+│   │   ├── stdvar.vom [2316104cf1fa420eb1e0e37bba0cc18f400869a3c34168738bd046831f08d543]
+│   │   ├── stdvar1.vom [e90a06a7737cd285dcfd55de1848e28307a12c541b4ca56b06be431d2aeed6ed]
+│   │   ├── t1.vom [7f29272b911b320845f525c1c582304d17e53fd2854fdff9c5526c12e7a70ea4]
+│   │   ├── t1.vxe [09a66f6bc497d8f2120de82772e4f13004553a8497b7aecfeae54137dbefff5c]
+│   │   ├── t2.vom [180d28a1fe88657d5e3cf372f9cb1238db65ac73533ad7496a9d1f2b44488811]
+│   │   ├── t2.vxe [f1cc701e0db2594bc01085854654afaf9ef4d24b1af2f232957a9a66ee0fc919]
+│   │   ├── t3.vom [e7b0fba5f15c02655aa49a9b86628161c1fe8578855720eee39a04b20a62177f]
+│   │   ├── t3.vxe [caa6a1414528b9fd5a6080d899b3f4684abd47808a2f11133a5a4361c1d5fbdc]
+│   │   ├── t4.vom [b18a2f4a22c5ff5db42e6a3fee09f50102d270fca7d921118ef3569a88605235]
+│   │   ├── t4.vxe [ec3140df236ace32efe7bd8fd115966e0e1caae1be553ab780238b085d846459]
+│   │   ├── t5.vom [69ee4af63e22f44d0fcf511581568f52c5a25a52b2304c703f53ce2e10949d37]
+│   │   ├── t5.vxe [8f915403e37a7b4896c9374641eedc520935072b3e6b3c6890445b2dcf1125d9]
+│   │   ├── t6.vom [045f1f36c2484aad977d117a056433b40a40f35a81203fb9b31f7c976b38065f]
+│   │   ├── t6.vxe [38a6f08ae8a00ecfea82305ec16807a85457ec4fac59baa03e9e15d6e6cd3d46]
+│   │   ├── t7.vom [6eefa6cc7bd251e4aaf656ffb0ab8652b767a4967afe44786e7cb4ad73401a3a]
+│   │   └── t8.vom [32860b0aeb7fec78e3bc22fa7ba52a5ae06164bd173388f684467ea210bda7e1]
 │   ├── aw
-│   │   ├── max00258.vom
-│   │   ├── t100.vom
-│   │   └── t1000.vom
+│   │   ├── max00258.vom [a016dae3f0de92d861bed67873653e226775ec53c553c7873169385b0b9aeda3]
+│   │   ├── t100.vom [85046304d738aa738978d89482fa1f6de932b11f04da2419530dae65cdc10184]
+│   │   └── t1000.vom [ec65c72b050c4ef2f1a42135803ca77280ef06bde2acebdc65ccbfba40ffcc2f]
 │   ├── ax
-│   │   ├── israeli.vom
-│   │   ├── israeli.vxe
-│   │   ├── jeru.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── israeli.vom [25913eaafbc2b4d31bd20d4ec2f7ed06ad96c07b5d04de18c10e11fcf9fc69b7]
+│   │   ├── israeli.vxe [413e0eb2c80aac96820e36ce62d6a725164d302a4080563b53b36857289889f1]
+│   │   ├── jeru.vom [29739ec5758032f2ddc3ccf7c82405a620c1b7b5732bc10365efb3cb41c70ff8]
+│   │   ├── t1.vom [3dad7cdc72b2a6a692351c95179272530f667a384370426795a93f2969a59fd6]
+│   │   ├── t1.vxe [195cdbac10d7d38c4f4e152d19e401aa6f98d7320a4b6785addf92347a38f5ed]
+│   │   ├── t2.vom [e9ec28b7a8bd0c2b6ab0b3fa29eef01dddb9738ff42951879954062b0ace36d9]
+│   │   ├── t3.vom [66cc7190d383529606740a7a1a002c22161de9bb473a420b2a24a655e18235cc]
+│   │   ├── t3.vxe [b9a9e315d2691daaabbc690db792daaaa5e57106ee422512807c105ecc5eb77f]
+│   │   ├── t4.vom [64d4b29a6bec07a86ddf155c25f6c5d6dda567700ee3234c9eaeb2f39aa47e39]
+│   │   ├── t5.vom [f4f9df5d48790df6957ad47827107597b26ea6cb45ab7fd02e203ca37a2ad223]
+│   │   ├── t5.vxe [ecc4df067c671e47ac1959a48cbec5f27f6d677b0ea4d9f4c8bd414a008a258f]
+│   │   ├── t6.vom [a9c90f403991e8cd7614f7faaa8ef5febd51c88b36673089179b6d0a64cd8e01]
+│   │   └── t7.vom [c23c291951cc2ef000076d890618cd9b11a241a52ebe10f3a48b8ca052b8647d]
 │   ├── ay
-│   │   ├── bee.vom
-│   │   └── test2.vom
+│   │   ├── bee.vom [5349030f22a2fefad4eed9cb15a20ceb57018f116a338cb4526d1b0e5049cc5a]
+│   │   └── test2.vom [eecf0cd2cede9e607ebcef007f0bb9eba923463a82e69b4c3acfb4755f2701ff]
 │   ├── az
-│   │   ├── ap.vom
-│   │   ├── j!sum-ap.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vxe
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vxe
-│   │   └── t7.vom
+│   │   ├── ap.vom [1d16185cebe9bd10a904ffe2d502bb8e4aba83ad990e2bd814f102df63b1dbb1]
+│   │   ├── j!sum-ap.vom [d32955c266116dc21899f8979ad5aed2a8ac5493d3f00d44b4529526d3192f7f]
+│   │   ├── t1.vom [1fdbe6a1387f325e0e7127e2f8cb8e8a11c8f811061e71a3144596754f4f03d5]
+│   │   ├── t1.vxe [fd81d6462f69e473ac3d78e2b2dbc082d5d5426bd68f60a3e0b6a54673ab1b11]
+│   │   ├── t2.vom [2e1cfb75bef33e6714114ed6eef7fab228a173f76c0f507b059b3d18fbe5ede9]
+│   │   ├── t2.vxe [fb9e8e90d3cbf0a418696e21d3ff08c155c0b4c1aec6ebbffe1e97024c4b7819]
+│   │   ├── t3.vom [c2d1061064647b00e62910a32ccf188ab65ec3c1431e0cc6f94bcf299fe644b0]
+│   │   ├── t3.vxe [cd3779b0050221899fa6240621d7e1c218ee7fd30276a8fcc0a61a8ca934b4dd]
+│   │   ├── t4.vxe [35f7de9243d20e81e4244f03077ecccc7e1336bd1149188bd7a0663c27c9c26d]
+│   │   ├── t5.vom [97eec17355c367eb481c169638bc1e77915fccbce90b3b12bea0baa7b99d33e6]
+│   │   ├── t5.vxe [cfb8846b6c81fe61821832289bdc44b031077069fb8441d084288a69a3a69fe2]
+│   │   ├── t6.vxe [00cb35566c72584dacadfb7296bcdac84e3091e140809c596ff7c8b2d5391393]
+│   │   └── t7.vom [71cc9c2746b77468a3b774ccffe73a968977c5b2be5d32bdc79dedf772bdc9ba]
 │   ├── b
-│   │   ├── j-08a.vom
-│   │   ├── jeru0060.vom
-│   │   ├── jerusa~9.vom
-│   │   └── tjerua.vxe
+│   │   ├── j-08a.vom [c52e0cc6672c0ba5e99c2a6e14a6232bee841a56dd3eb9e3f32a1b4c1ad6e10c]
+│   │   ├── jeru0060.vom [4c86f283e9d54f07a83b8df7942648c574b05bf039bac163b9bb747dff74fda5]
+│   │   ├── jerusa~9.vom [c866e908b8c6d7c4724540032a856f1d1228a7da6397ece99dadfc0a8db9adfa]
+│   │   └── tjerua.vxe [c41d278cd90dea941f96d4dde3ce8b3be74737f10e901e04ca44487c6cf76494]
 │   ├── ba
-│   │   ├── !tiger.vom
-│   │   ├── 1-frer_a.vom
-│   │   ├── 1-frer_a.vxe
-│   │   ├── 2-frer_a.vom
-│   │   ├── 2-frer_a.vxe
-│   │   ├── 3-frer_a.vom
-│   │   ├── 3-frer_a.vxe
-│   │   ├── 4-frer_a.vom
-│   │   ├── frere.vom
-│   │   ├── frere.vxe
-│   │   ├── frerec.vom
-│   │   ├── j-frerea.vom
-│   │   ├── jeru0210.vxe
-│   │   └── jeru0220.vom
+│   │   ├── !tiger.vom [dcab4d221326b7bc074dedaba2918c870ead21d44999c7a6c914d28bf1d3d426]
+│   │   ├── 1-frer_a.vom [2fee69891c9b04a031b54339506444f154ceaacf2e7ccb61c77bfc4bf4be0609]
+│   │   ├── 1-frer_a.vxe [05e4e0ee56e1a556649f5114f5c3cfcf778ac51d7caa1f20069407186decb763]
+│   │   ├── 2-frer_a.vom [cf932cd657578d2cbd985ec0cb3da98958b8aafe97b99ba83dc64b8201ac1f03]
+│   │   ├── 2-frer_a.vxe [4639caca5c20fcfd6cb7ae8d806723b50d6bbfc767ea21cc7bca77d02bba265a]
+│   │   ├── 3-frer_a.vom [1c29dfa2ec39be5a7dc148dc0707a61ec1c5356af3b8419480a66d3851daf1cb]
+│   │   ├── 3-frer_a.vxe [a972aaf457cf8df4d06a049b1ea2cbaa0668dd7e2580a02e6b33bd5d4fd1efb5]
+│   │   ├── 4-frer_a.vom [17d34effd3bbd52e831ea33bbf4a4505ce7b515190e120626bf00a80def11add]
+│   │   ├── frere.vom [5f1f99e3200ba114735ec0b937e5a5628bf214c4f570aa05eb5117b2edd09ea0]
+│   │   ├── frere.vxe [69bf80b4aae9795b8c41a4aaa7965997c73bd8bcdbe099c0c6c0e2303c96dc11]
+│   │   ├── frerec.vom [7a9b5715aed50a6cbd28465f0ed40ae1e5d002f4454e49050e178eef1e1c079c]
+│   │   ├── j-frerea.vom [17ac97d9e7dfae0810fe928d1add1fd30738b0e4502e580f7b9eecb5dde10a13]
+│   │   ├── jeru0210.vxe [398c028b8c317f1b869a16bd84d132c4eac754c732758d901bfe59c11e70b999]
+│   │   └── jeru0220.vom [988b0865d95637ec60d7cda8218d0153aa3fa3e3580e138a69983843b272a72b]
 │   ├── bb
-│   │   ├── 2tigers.vom
-│   │   ├── itigers1.vom
-│   │   ├── jeru0230.vom
-│   │   ├── jerufre2.vxe
-│   │   └── jerus~38.vom
+│   │   ├── 2tigers.vom [b0cb00118517810be02f9cba39d5de3ff93f8722efc73ca22b0e3c9e5be3feb0]
+│   │   ├── itigers1.vom [7e63bc37f91d2132221ef44eac24fd132431960bf607db4cb5bba7e09a65bd1b]
+│   │   ├── jeru0230.vom [9538a4257b154c5be1467c3edf8cf239fa1e3905a29d30534053e2193093570a]
+│   │   ├── jerufre2.vxe [95724156f430134eb8c4aa93597bded46d99ee4bfca079e54eafed814ee0e812]
+│   │   └── jerus~38.vom [36c7ccd2997bfd9b26029fd432e57b1336141a9aacdba6ecbeac41c31d1751c2]
 │   ├── bc
-│   │   ├── frere3.vom
-│   │   ├── frere3.vxe
-│   │   ├── j-08frec.vom
-│   │   └── jeru0240.vom
+│   │   ├── frere3.vom [ee17106f15e9525216f755b3e33a61bc7775f0ece4556cfe6dfbe3a3af9f900e]
+│   │   ├── frere3.vxe [5a1394f7e273096d868d7f30fa31ed8be3976cfad7e0b5f116387cf444e2b416]
+│   │   ├── j-08frec.vom [6fb5fc8705d81436e4783be005a58fe0f87603fca5ca1faccf1363d2fb26bda5]
+│   │   └── jeru0240.vom [b53e5d0b21d2924586cce65a0d07f0d0e62205c80e8ab7b059f4a7662a2711e6]
 │   ├── bd
-│   │   └── banzai!.vxe
+│   │   └── banzai!.vxe [1361f1ada22c2131639734902471e01493446bd541e366943f07e4a95036d962]
 │   ├── be
-│   │   └── hitman.vxe
+│   │   └── hitman.vxe [78a9fcb161c79a2dd5f52a84979ed0e00c9e930ccfac7a25aa1a42b0c0d0c90d]
 │   ├── bf
-│   │   ├── muck.vxe
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── muck.vxe [7d6c34d19731253a1e165bf939d30572a9bef6288236ec957669063491605130]
+│   │   ├── t1.vom [e6c81752f856241db4da711586229d68ce166766c2393245ac662b469a0d296e]
+│   │   ├── t1.vxe [280a682c1dd64e3df5c369d2711f557625ff81fc3e447f117ec1c49b03a98cf2]
+│   │   ├── t2.vom [0c5f8ab835605d7c869e7a6b03dfdb7ffc2327343d9c543f00060f0fc0563709]
+│   │   ├── t3.vom [153f0bb0253ce817ec2f82396000455d6969916e36c5f57b10d07338ba84fea8]
+│   │   ├── t3.vxe [3360e62d0741a3887a7256a16156e6c3d76b8315c88bb8b786ae421059d80966]
+│   │   ├── t4.vom [591e66cf42ed663e869596750d437634a7508ce27578169833688d64bd1768ad]
+│   │   ├── t5.vom [052b312611ab458e439c0aba355a5c6e72b57c2cd673af8c66ffce8b93261ec8]
+│   │   ├── t5.vxe [5ff158e8dd56d4996ed4cddcdf006d074517b59559a6d97900dc7db13c58b105]
+│   │   ├── t6.vom [15c71d663f95bad109c4d9f926c1d1e81585b7ecb47dc17e6e0b893034b512f1]
+│   │   └── t7.vom [1cec5c7e1d1212a3f40717a91c23cd2a238db6437558fc53d692bc2ffabca9bc]
 │   ├── bg
-│   │   ├── sushi.vxe
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── sushi.vxe [643318b26ffa51f72d3a87fee1b37c01581238c66d09c72d15150da185270c1c]
+│   │   ├── t1.vom [7df6e77b6df0216054577565746fa934f1766402cf1619a7f217b5f4fe5867ca]
+│   │   ├── t1.vxe [a3b56de8fe745f5fe82138e6c7e224751f5769de08b2dd736185acfdc52d0647]
+│   │   ├── t2.vom [161ef2585c9b138551d09fa9c609208dd98a7d2367fdf47eb358ec406e59f3da]
+│   │   ├── t3.vom [61436c95bb34e9ca26036dc1d0a422455d64cc6ee9b541600bf9774cadeae404]
+│   │   ├── t3.vxe [1b6434a3afecee5729f2a2dc9d621b71f382976ba71dab6754b1f837ba7fc9d4]
+│   │   ├── t4.vom [b9503e2f5302ae06c1a2cdeda8738bebdb85ceb7f2b5fec7230002a4f902bc89]
+│   │   ├── t5.vom [301d39640f39858c2fca54a61ce1a1a0a7d101adef6ca6c6bac0a1521a7872fe]
+│   │   ├── t5.vxe [a4ce6f2971e3282a1d6354e79f177001d6684c0f7a899f4db8aa5766eccdc1e0]
+│   │   ├── t6.vom [d4f6d2825613f01a4f4bc47302aa3dffd6f889b6811b12582858071af8026d6e]
+│   │   └── t7.vom [c2f308cabf1906def6d154464069e8ffa810ec432e413e754fc9fe56a45c4175]
 │   ├── bh
-│   │   └── condom.vxe
+│   │   └── condom.vxe [ddc537c2cd61e8835aacac85083a4a80e59e441508f34d2ca2efc6ec01c1282e]
 │   ├── bi
-│   │   ├── j-frerei.vom
-│   │   ├── jerus~40.vom
-│   │   └── jeru~113.vxe
+│   │   ├── j-frerei.vom [dd10ef261cf058b548872a87a4c0ea7e19d2ea3d6446781fa8ac2ee1b4532879]
+│   │   ├── jerus~40.vom [9b257a6e720f84a04be15ffac60197255baceada289f26c94b3bfe31ae39f520]
+│   │   └── jeru~113.vxe [ba63be701e315e9cdb0d5fa984d178987916f035b23ea4a98d9c7605d637aea2]
 │   ├── bj
-│   │   ├── j!frerej.vom
-│   │   ├── jerus~41.vom
-│   │   └── jeru~114.vxe
+│   │   ├── j!frerej.vom [6a2361ea226e28d6af854fe3a22627c5b1abc49dbe453da1d1c208c8737dded1]
+│   │   ├── jerus~41.vom [cfeba6e6cdc831ffde61222e81da531e868c18cb68aa6e000bce07b801d7e86f]
+│   │   └── jeru~114.vxe [271d1150445a0c01735762132596cc70fc9c0608b8d4c7883e8cbc49a3924929]
 │   ├── bl
-│   │   └── wci0109j.vom
+│   │   └── wci0109j.vom [4415c1a5cbd2316c64a2b7e0696ce2f5f524e0fe427244c815da97256474a958]
 │   ├── bm
-│   │   ├── 1-frer_m.vom
-│   │   ├── 1-frer_m.vxe
-│   │   ├── 2-frer_m.vom
-│   │   ├── 2-frer_m.vxe
-│   │   ├── 3-frer_m.vom
-│   │   ├── 3-frer_m.vxe
-│   │   ├── 4-frer_m.vom
-│   │   └── wci03863.vom
+│   │   ├── 1-frer_m.vom [62fc72b1641f64bd615c32a4b50ae658fb490b5ead0ecf7a3fa64c906b84df8d]
+│   │   ├── 1-frer_m.vxe [3b9002318f71c78a07caa791392686b25650211e0d7dcc4df8be61e7d86652f7]
+│   │   ├── 2-frer_m.vom [a754917b90debcc4ac316c1835aa5e0c2ac824d990e52cd057d5702afc04e170]
+│   │   ├── 2-frer_m.vxe [62db527b7a8a613508c680df38a8c67c87e3c08edc84995403be52b0f8ed3904]
+│   │   ├── 3-frer_m.vom [22b97c14e87730e687357b5ec3183af67fbf10c8746bd347c2e77f8fda3ffb9b]
+│   │   ├── 3-frer_m.vxe [6a3835e33163914a5712d1b5f1871f7419562ef82bc729db1bc40867cceaba13]
+│   │   ├── 4-frer_m.vom [ade4704558497f4e1cc0fcad4515a30b1b1280ad7c2ee8aac8c608de2bf3a641]
+│   │   └── wci03863.vom [9e638379e0c7b9956935018680bab5102ba45aeebce378560fb7ebfca9b9d2eb]
 │   ├── bn
-│   │   └── wci03162.vom
+│   │   └── wci03162.vom [3dbfdad2d457cd90aaf5ba606b53ec062c7a9bb17fc6a0d508df47ce9b2a87ef]
 │   ├── br
-│   │   ├── !3777.vxe
-│   │   ├── !3778.vom
-│   │   ├── j-mendoz.vom
-│   │   ├── mendoz.vom
-│   │   ├── mendoz0.vom
-│   │   ├── mendoz0.vxe
-│   │   ├── mendoza.vom
-│   │   └── mendoza.vxe
+│   │   ├── !3777.vxe [8b9adc2e5ff2e900b6a70617936887371abc0b6c7e05b279909dbe653731d5c5]
+│   │   ├── !3778.vom [c578ea68c1ed0e53a6c086cf5c8e4cbe6649f3c8f3a8104d31e85441b74fe99b]
+│   │   ├── j-mendoz.vom [2be710e024e10d7ed3faa03acb75664cb5ad41f176594c6b6fcafd1e0c6bf669]
+│   │   ├── mendoz.vom [c9838113a0f2f3a681f1dc6fec72a437825753be7df103caebf217573f2f6890]
+│   │   ├── mendoz0.vom [0e70456a76e5bcd3ee2bbe649731c21089ee9fad413601553aa55f061e30bb02]
+│   │   ├── mendoz0.vxe [a804d290eb6965104b35ffb77a116db017be2a59113bc20c97f0d9aa99102eb1]
+│   │   ├── mendoza.vom [070b702b4eb50f87d31a5acdf928a947ffd0d1f3fb7a37c9152286548a7a91b8]
+│   │   └── mendoza.vxe [3fdd2b9d67c7a3b6bab3865afaf8f9dd89b4952c1fd75783dd37af1838eefc61]
 │   ├── bs
-│   │   ├── jerus~21.vom
-│   │   ├── jeru~105.vxe
-│   │   └── v3605.vom
+│   │   ├── jerus~21.vom [7595870cf90ffa71c25579babbe14a962849a7ad321a12af3d32376a7e285fe1]
+│   │   ├── jeru~105.vxe [1188e75951073f78e61e812a76ea5158f1f498c01f6f9d6c126271bc1d2119a0]
+│   │   └── v3605.vom [0b6481b3d8049f32194ccfcc31a2bb7e54575ecd4b7ab63531a3c149e5037f79]
 │   ├── bt
-│   │   ├── jerus~22.vom
-│   │   ├── jeru~106.vxe
-│   │   └── v3610.vom
+│   │   ├── jerus~22.vom [a8066fd238fe21d6d491cb4606eb084e75120576d64914792f5782b0ef807d7e]
+│   │   ├── jeru~106.vxe [d751d96b4521e0476b753ea6d4da91802b48cc244a987371f38cc2048d109524]
+│   │   └── v3610.vom [e05fa635ba4a8c68db5ef12aa939d6b2ef9fba17dcef6e32e792009953216ef3]
 │   ├── bu
-│   │   ├── jerus~23.vom
-│   │   ├── jeru~107.vxe
-│   │   └── v3620.vom
+│   │   ├── jerus~23.vom [44beba6ec0d3e0582ae2a611be28ac77b06c6a13eb988833356601d1c19c239c]
+│   │   ├── jeru~107.vxe [9947a1a10ec8749aa2432afd48ec25418fcd181ae21088c050a5ec7f7ed7dc88]
+│   │   └── v3620.vom [4eb291ece91ac902f983423b803f14bd5317c6f1c89804f27121256f8460098f]
 │   ├── bv
-│   │   ├── jercap5.vom
-│   │   ├── jerus~24.vom
-│   │   ├── jeru~108.vxe
-│   │   └── v3630.vom
+│   │   ├── jercap5.vom [31e2b8bd77ae84a609e43a2b523647619edf7437bf348d916281e0554b82b4b6]
+│   │   ├── jerus~24.vom [cd798b063edc89992f8806e4d0650272bb8b06d13177204b8639089ad01e03b3]
+│   │   ├── jeru~108.vxe [d0b0efb155c07d53349bc0e733546b9c6ebe1834c9334e91c850ebbb1f884d00]
+│   │   └── v3630.vom [3e6159e92261eb5677088f55f4c363e149114129919394ae7b5cffd3f4163aff]
 │   ├── bw
-│   │   ├── jercap6.vom
-│   │   ├── jerus~25.vom
-│   │   ├── jeru~109.vxe
-│   │   └── v3640.vom
+│   │   ├── jercap6.vom [5c80f54236886ba5dc5aa3abccdd0b5e7b7a05329a9a097a1d0077a4e0d3a6ac]
+│   │   ├── jerus~25.vom [97718263ea8676eba17d305f60b7ce3ccc277d516535d9405f8f19c22bda59aa]
+│   │   ├── jeru~109.vxe [c8f09ab587dfa690bb0712e4eed05160e71e8903de245a18a385fcee78a95e52]
+│   │   └── v3640.vom [db11cd388962a15627b6f257190f034264336ad9952144aa865306a8c2b8cd14]
 │   ├── bx
-│   │   ├── jercap7.vom
-│   │   ├── jerus~26.vom
-│   │   ├── jeru~110.vxe
-│   │   └── v3660.vom
+│   │   ├── jercap7.vom [cf2f8b5712dc941832ea8e3204f57d85607064194bf6064598a3a2699adcec26]
+│   │   ├── jerus~26.vom [237c2df91f634b5413f321292232a613f7fc36abdc8d428dee71cb94a0380d49]
+│   │   ├── jeru~110.vxe [d5d2e73cf456126ca31d3e72dc9ebf5b551ed65c6d4393890c7f4eebf5cf9485]
+│   │   └── v3660.vom [e1920a6dfd808fa0ac4f4d5ccddb4d635b9b0160d8021c1c86bef28896dccdb2]
 │   ├── by
-│   │   ├── j-081d7f.vom
-│   │   ├── j-081d7f.vxe
-│   │   ├── jeru0030.vom
-│   │   ├── jeru0030.vxe
-│   │   ├── jeru1d7f.vom
-│   │   └── jerusa~6.vom
+│   │   ├── j-081d7f.vom [11d9d5347fbdd15e9444ce390b0a2b92819d5f74ad764b5216d151f839a16b5b]
+│   │   ├── j-081d7f.vxe [de3403d49da903e1be3a2387c085d5837f2f811e9b03bb0ca94a3f610c86537a]
+│   │   ├── jeru0030.vom [a2bd163e140542d8c56e243c57856e07ac052a34dd4f7d9b07a3bb1d7e7cdd34]
+│   │   ├── jeru0030.vxe [ed6fe274c15816d83d1685459ab8705d654260705fc280eca155d14e56f0f06c]
+│   │   ├── jeru1d7f.vom [c7d731f21a53101bd9f835b0b293d0a3cf0860e26764436fc263661c26f3f1fc]
+│   │   └── jerusa~6.vom [5c9209be2d1b0bb8f488c3b77c49714f8e60e288f2d1339d77348fce7ac16382]
 │   ├── bz
-│   │   ├── jeru2e7.vom
-│   │   ├── jerusa~2.vom
-│   │   └── jeru~100.vxe
+│   │   ├── jeru2e7.vom [ac14c0d587e94e6ba52b40fa456a9c0a08315e366aad992e73cb9025bc76f06f]
+│   │   ├── jerusa~2.vom [fc3cd5dca9dd4b35a05a98279769c5bea488ac421672aa83be04fab75cf4d52f]
+│   │   └── jeru~100.vxe [3d2ffbd9399187926eb55ab87f0b28777a42373209c805e5b253e75b38413676]
 │   ├── c
-│   │   ├── je1808c0.vom
-│   │   ├── jeru-c.vom
-│   │   ├── jerus~17.vom
-│   │   └── jeru~115.vxe
+│   │   ├── je1808c0.vom [8c4ea6952ea3c3b55b3852a11f337dfdf9d98d4a52f7bd5c7e8142816d3d92a4]
+│   │   ├── jeru-c.vom [b1155f8a80e20fb757f7e8dd9d4067577f046ba5bbae657eaacf5cae08f0441b]
+│   │   ├── jerus~17.vom [7ff21ff1627be26b0622bcb80a17ca4c48efdafd5362ab2868e170ae0a29e6bc]
+│   │   └── jeru~115.vxe [92f1c4c33bac71050db0dc5d5429c877ed940d4d42f1bec7d234f6ef03a6a353]
 │   ├── ca
-│   │   ├── j-083503.vom
-│   │   ├── jeru0040.vom
-│   │   ├── jeru0040.vxe
-│   │   ├── jeru3503.vom
-│   │   ├── jeru3503.vxe
-│   │   └── jerusa~7.vom
+│   │   ├── j-083503.vom [5b4615cf3f692e5c0c112e54e4e067f3b441138dac4ef158cb1452d165cabad5]
+│   │   ├── jeru0040.vom [d53197c08eff2f6ee413225177724d19fb4051f3eb369d91fb8994205e14e10c]
+│   │   ├── jeru0040.vxe [0419a91932924d41494f9c0c209cbf1f7c00af0ab9eb742776bdc65a02f8ef70]
+│   │   ├── jeru3503.vom [6202ee2b1978bd9428a0d19641097ead6caf8fc4f15fe32580e6c565ccaf3e94]
+│   │   ├── jeru3503.vxe [9bc3a3456cafee04d9d8d2bfc3d36e2058372dcae00808e0f495d15504a9e203]
+│   │   └── jerusa~7.vom [72bfa5effac448a94e26d00f847c075af806f198bb736954f6c2af687729d4f6]
 │   ├── cb
-│   │   ├── jeru5a4.vom
-│   │   ├── jerusa~4.vom
-│   │   └── jeru~101.vxe
+│   │   ├── jeru5a4.vom [3a2ef046e506b46da3b3653f91abbcd504a1b75eeb9a827d0e52ae5108f42c74]
+│   │   ├── jerusa~4.vom [5e454f4bfbc4f4b6139746183c9294ae49afd0c60a414cf43cbec9b96aa0ea9a]
+│   │   └── jeru~101.vxe [90b4529437dfc60049e115ef0e9a3c87bc2a48ca94c369cc2af6691af7a6fec3]
 │   ├── cc
-│   │   ├── jeru-52.vom
-│   │   ├── jeru-52.vxe
-│   │   ├── jeru0050.vom
-│   │   └── jerusa~3.vom
+│   │   ├── jeru-52.vom [55a6c085c53787ee1d9a2245508be7da487e5fa872221dfae068d77a961d3040]
+│   │   ├── jeru-52.vxe [2a082b94c1983716fc50a371ddb76087c2efef6329666d3e62dabb2108812da3]
+│   │   ├── jeru0050.vom [6e5e51a12d9a058b7521a69b7001ff3adce382846ed4ebcebc2a8b2dee05e9e7]
+│   │   └── jerusa~3.vom [1601391f41efb58938f7f521beb1e7287d3a926f9f7e75fd75653cfb82d01060]
 │   ├── cd
-│   │   ├── jeru65d6.vom
-│   │   ├── jerusa~8.vom
-│   │   └── jeru~103.vxe
+│   │   ├── jeru65d6.vom [84586e63fc094cc2dfb8a522870498bb26e3ec2319e6c334774509b185036b11]
+│   │   ├── jerusa~8.vom [90b99a03eef72eeb3af0dbe853292bced04fb946553caf573e8e6ab83b24fc3a]
+│   │   └── jeru~103.vxe [99ad131e9c4e351f94b668bc219114d936b10ec4026daa3e7aeceda73087aaee]
 │   ├── ce
-│   │   ├── 1-a_204a.vom
-│   │   ├── 1-a_204a.vxe
-│   │   ├── 2-a_204a.vom
-│   │   ├── 2-a_204a.vxe
-│   │   ├── 3-a_204a.vom
-│   │   ├── 3-a_204a.vxe
-│   │   ├── 4-a_204a.vom
-│   │   ├── a-204.vom
-│   │   ├── a-204.vxe
-│   │   ├── j-08a04a.vom
-│   │   ├── j-a204.vom
-│   │   ├── jer-a204.vom
-│   │   ├── jera-204.vom
-│   │   ├── jera-204.vxe
-│   │   ├── jeru0070.vom
-│   │   └── jerus~10.vom
+│   │   ├── 1-a_204a.vom [912c7868981ca08e9f25499cfb2bdbc5ae5793186e7e55d7a0e446785ffae0b5]
+│   │   ├── 1-a_204a.vxe [abc876110aacf77f2a67a10521886d6e4d688ffdadbdaa8edaf154f8c1b7500a]
+│   │   ├── 2-a_204a.vom [a8fa9dbd5d52213d2a438c6a44ae914c615f1cb7722801e475f92f428deb7e6c]
+│   │   ├── 2-a_204a.vxe [f3ab69b48ea6136a71a4a928f7d004674c08bac8dd277fc4aa7faa204d4dc9f1]
+│   │   ├── 3-a_204a.vom [b6211f2b0492bb1da94417a22830ebe7b05e6d9b95b2629809f1049edc4b75a8]
+│   │   ├── 3-a_204a.vxe [e4d2fde0c448211f1745b9a75eb67b019534981888e328b11acc5ed49c7be779]
+│   │   ├── 4-a_204a.vom [4ac9f3752bd4903e1d8b4c4cc86019539d7698e968ba8c7db21c5782a08d55cb]
+│   │   ├── a-204.vom [c98d2f1286c85ba5c1020d42692dfff26fc61682686fb839ac7f4f59b61299ab]
+│   │   ├── a-204.vxe [d13108467457f36163426cb498e96426abc3299944153349156d6092fe2add5f]
+│   │   ├── j-08a04a.vom [d072ec88d8fdf5afd7316f3d3ea6cdbad9fa6082eb42e3b4e0f119e53ce482d2]
+│   │   ├── j-a204.vom [9697cbe4c9de6f4355d0c077ac5a0ac3a79d4a1f416829f36ea2f3fd3ee6f396]
+│   │   ├── jer-a204.vom [8cdd9fe19625013a8ce898866954ff2293fc16c3e229728a1571aa9a753ca730]
+│   │   ├── jera-204.vom [ea077245772b1f24663ac0b50e62bdec8362edcf2e3eafc137f63de79287f75b]
+│   │   ├── jera-204.vxe [a5477127d32939a2d8f1eab1922cf591fd2df6317ee0691581d58024303f163d]
+│   │   ├── jeru0070.vom [3e6c31b4dd639d5c13fbefc298821271e22d6be628dbbf67fac6fe376341e5ae]
+│   │   └── jerus~10.vom [6e3996135d9e37e803c924980938398f301e11080d2f56680feab715910e3b61]
 │   ├── cf
-│   │   └── jeru-b2.vom
+│   │   └── jeru-b2.vom [c660f65936b33799c65a6ef21cdd06cb292731319dd8dca366da57ff7af16e20]
 │   ├── cg
-│   │   ├── jerusale-002.vom
-│   │   └── jerusale.vom
+│   │   ├── jerusale-002.vom [cd395a6b6eb9eb8fabc880d07711080c00349e226395834d4c496e7602b30ef4]
+│   │   └── jerusale.vom [bfb0322bc4fa1a649a91f3225f7229e1724548b1b44fecfd08833b4bed9885e6]
 │   ├── ch
-│   │   ├── 1-crit_a.vom
-│   │   ├── 1-crit_a.vxe
-│   │   ├── 2-crit_a.vom
-│   │   ├── 2-crit_a.vxe
-│   │   ├── 3-crit_a.vom
-│   │   ├── 3-crit_a.vxe
-│   │   ├── 4-crit_a.vom
-│   │   ├── g8.vom
-│   │   ├── jeru0165.vom
-│   │   ├── jeru0165.vxe
-│   │   ├── jerus~32.vom
-│   │   └── jvcrit.vxe
+│   │   ├── 1-crit_a.vom [7856baae2fb8ad905b2a7fdbb78f13f8b49d59c8d34f0d58706959e489b5b564]
+│   │   ├── 1-crit_a.vxe [2395310cf765e35f38b1c462d9441259873ca975d2b5dc7c7a0e4a6014f94821]
+│   │   ├── 2-crit_a.vom [4d5db920eeddf14faa0d900999bdd09dce282225dbd0682c5ab685648b2b4100]
+│   │   ├── 2-crit_a.vxe [0d24e9cb9d743e82742cceb9a268a16033025f49f6c7c31a973835296e7e33b9]
+│   │   ├── 3-crit_a.vom [b498bb7a5ca6373099e5a7482d7a4d24a3d37e541d66aa3224a44cb93c358e09]
+│   │   ├── 3-crit_a.vxe [5d71751752a3678a39de564e8040b598183ec871d83f5e2a1768ddb5714d37e5]
+│   │   ├── 4-crit_a.vom [77cfb06885762b32b4bbeb06f833a64758b33ab49d9071825b971df43db1bd8f]
+│   │   ├── g8.vom [7bf177a6393837e3cbc349c1ce6ba61c432c12f4889d0161d5738bcc9b320dbe]
+│   │   ├── jeru0165.vom [091a0d4ab68788cd3149c2bab0e776fbf04fe09e26fa9d782b21a2d4551276e1]
+│   │   ├── jeru0165.vxe [e327a22981161f69c9bef9905d93ab036dd84ab164edd603772ad9c152580055]
+│   │   ├── jerus~32.vom [0604f22c7c1ba5bd956da8a328229e6dbe31cb31524d7942dfa6f6a1e33f2bb6]
+│   │   └── jvcrit.vxe [55b5113e2fe1515063024f28a391e04b5edd5d1abadb3301e9fc2425278bf432]
 │   ├── ci
-│   │   ├── j-cnder.vom
-│   │   ├── jeru0160.vom
-│   │   ├── jerus~18.vom
-│   │   └── ucenderz.vom
+│   │   ├── j-cnder.vom [18cd7f8f343a8e3f6cb70c2f9d3e94fabedb6a2fbb5507388e56521f313830ce]
+│   │   ├── jeru0160.vom [07fcc344dbbfab171e499b97761a14ad5327dcbc90f2056887c38ace11e5a424]
+│   │   ├── jerus~18.vom [b94fcab182140582768ab3135ec7f9bb08d4f1c9192fc1ac7a75e8edfe1a854f]
+│   │   └── ucenderz.vom [fd5db0231f10be63aa0292c7a206fbcfaacb47a1188e212b5b63067ec80ee292]
 │   ├── cj
-│   │   ├── jerudrag.vom
-│   │   ├── jerus~65.vom
-│   │   ├── jeru~120.vxe
-│   │   └── v4025.vom
+│   │   ├── jerudrag.vom [791bd1ba40cf155e3bfb730ef52847c3cd66263066734577b0bc597f771a6c9b]
+│   │   ├── jerus~65.vom [a94ad845a9e09faffcbc0b90f3f8fce5325169fbea3d4d9dfc987e56cff77eea]
+│   │   ├── jeru~120.vxe [0247babbbf4f81034cae106422a9a392563e2b48f32f030f862130b331211a43]
+│   │   └── v4025.vom [f48a241f01bc12a0a3baada1d08c1e95b2f636940d9e71bf0c162a7aa7ae2b63]
 │   ├── ck
-│   │   ├── 1-j_span.vom
-│   │   ├── 1-j_span.vxe
-│   │   ├── 2-j_span.vom
-│   │   ├── 2-j_span.vxe
-│   │   ├── 3-j_span.vom
-│   │   ├── 3-j_span.vxe
-│   │   ├── 4-j_span.vom
-│   │   ├── j-spain.vom
-│   │   ├── jerspain.vom
-│   │   ├── jeru0350.vom
-│   │   ├── jeru0350.vxe
-│   │   ├── spanish.vom
-│   │   ├── spanish.vxe
-│   │   └── virus18.vom
+│   │   ├── 1-j_span.vom [5262cf4d258616f09de94fea239f292248ca7f4dd22eecc4b6b0008e54fe928b]
+│   │   ├── 1-j_span.vxe [3aea0e0757c6ddfaa3d8e2c012146b882237b524d5ddcb8ca1c902602fa12c6d]
+│   │   ├── 2-j_span.vom [f8387f7d0861f4af8b66e710169cb60c7f8e6f0c3e69c1efe15854c327b089e1]
+│   │   ├── 2-j_span.vxe [de245d05c9e442ba3cfa185e54f6eee3490d3e10b22eb48dada3a8b1ceddd7ae]
+│   │   ├── 3-j_span.vom [58489932c2d711bd5bd974100bd527e22e15f2a0e36d03809bb9413e8ba8c493]
+│   │   ├── 3-j_span.vxe [35e88f2218aca02dc70941e8a0205e0b9d6203cae17506f5936f399436ac2348]
+│   │   ├── 4-j_span.vom [7a64dbeecfaf494dfa6d14f9ee09cf60efc95547d283f4ab100e2d0068a4d1a8]
+│   │   ├── j-spain.vom [67ffd0b09eac04f9441582616b28f89ee2551c7b9f9abc8c80f2daaa9a7e184d]
+│   │   ├── jerspain.vom [f6bf35c7a5bcdfb9742d3a83b11ff9bb4ae21c0c2bdb7603441c9218f87a8311]
+│   │   ├── jeru0350.vom [b83ecaaf6bc26d7fc0df6a64f249164a1fd872185fa155565f12d455d7a9321b]
+│   │   ├── jeru0350.vxe [0e34efbf673555106b17be3d124d05216cf9a4375e80ddb5a233e5c0718acf31]
+│   │   ├── spanish.vom [b72944af3c6a61017bb35c93aec061ce19d2c7eb2ce3e5a99ba1e44426bc15b9]
+│   │   ├── spanish.vxe [7a4ca278bec7193fbbbefaa7c06189ac0ecef9626b45f9d0ecc5577afc2a2833]
+│   │   └── virus18.vom [1dde86233895098b8aea5d2f956b93080101cb3b06b4676072c0afa98f7edc54]
 │   ├── cl
-│   │   ├── j-08puer.vom
-│   │   ├── j-puert0.vom
-│   │   ├── jeru0340.vom
-│   │   ├── jerus~60.vom
-│   │   ├── puert0.vom
-│   │   ├── puert0.vxe
-│   │   ├── puerto.vom
-│   │   └── puerto.vxe
+│   │   ├── j-08puer.vom [394a1c9abd7da653026a6fcbeeaa6420a310dc52da3f6b93942637e86280aaa8]
+│   │   ├── j-puert0.vom [373654f9183a2b4ae6be04b778ba23e1ec3d4d89e189426a577bd02026a6c9cd]
+│   │   ├── jeru0340.vom [31970928898c5957c899b5f794d4867f5ce03f4c2b54b4f08d572679cd23e3e5]
+│   │   ├── jerus~60.vom [b720863141374c6352e731acba5d2af80c7df617d5872ce6d486c9b9db386a79]
+│   │   ├── puert0.vom [32cedfdc1dcf7288a6e75fbe6debca1d13577e493f37593b6b96f72d6c9e8d31]
+│   │   ├── puert0.vxe [0610d736fc4ffec0ffda24f8e928661ccd791ffcbe10d06038c1ec3ce54fb813]
+│   │   ├── puerto.vom [7fa7fa5d5826b0d0ffa0073f7fcbae343fe084b8939f3d99059bf678338aba30]
+│   │   └── puerto.vxe [877e86f79fbbe4652f8c791e46301c5e3ec1581d52e0fcf44c0b72aaa2ee4730]
 │   ├── cm
-│   │   ├── anark-b.vom
-│   │   ├── anark-b.vxe
-│   │   ├── j-08anab.vom
-│   │   ├── j-08anab.vxe
-│   │   ├── j-anark0.vom
-│   │   ├── j-anarkb.vom
-│   │   ├── jeru0090.vom
-│   │   ├── jeru0090.vxe
-│   │   └── jerus~12.vom
+│   │   ├── anark-b.vom [f18ac8be296d0e6e95b5aa3c280b388335d24994db296df07d34e2d98bcd79a7]
+│   │   ├── anark-b.vxe [7730739bfddaef49f8a050ce81b658fdb64b4d44e6ea253c5fad449b25c3a85b]
+│   │   ├── j-08anab.vom [537b5d0c17ba8ea6b6d52835744879ef4e19cb97cb4c9ce596b76f90abb63b6e]
+│   │   ├── j-08anab.vxe [844a7b9fc9c2d5acda83f9141053934c21bd26d0f0825d0aaa5a3299e03fb323]
+│   │   ├── j-anark0.vom [9090a373d6af2fa50eed31a373e459329e26d098a36b775af8172512d8516066]
+│   │   ├── j-anarkb.vom [99e73fe11240f839914065590b8635384b57118a8df348de213ea0edc544d8e8]
+│   │   ├── jeru0090.vom [2207f990b3ede493aedfb1591c9e10b8d9c0f921c441a340b0e4e3b14bbf4d16]
+│   │   ├── jeru0090.vxe [da93ec0ffedf333f72901e4fe41c81981be5a45ba3a40eb5309f6d1b3a692954]
+│   │   └── jerus~12.vom [8f9e08dab48c7757de2c88cfa20a0abfb7b485c361f709a0706f647067d14327]
 │   ├── cn
-│   │   └── zeus.vxe
+│   │   └── zeus.vxe [227aec7b9bb6d7efe586723a59a5eb075fd250b55a5adc61cda54062f17da86f]
 │   ├── co
-│   │   ├── 1-swis_a.vom
-│   │   ├── 1-swis_a.vxe
-│   │   ├── 2-swis_a.vom
-│   │   ├── 2-swis_a.vxe
-│   │   ├── 3-swis_a.vom
-│   │   ├── 3-swis_a.vxe
-│   │   ├── 4-swis_a.vom
-│   │   ├── j-08swis.vxe
-│   │   ├── jeru0370.vom
-│   │   ├── jeru0370.vxe
-│   │   ├── jerus~64.vom
-│   │   ├── jvswiss.vxe
-│   │   ├── swiss.vom
-│   │   └── swiss.vxe
+│   │   ├── 1-swis_a.vom [cf62a40770b55d57e8bb863a0fbbefd72f98c00aa8d3634f8f7e2ddde3837a78]
+│   │   ├── 1-swis_a.vxe [b7723054c0ce3a6b88085502e363fecd6426b83e9e071deb0e4c4eb9fc33a710]
+│   │   ├── 2-swis_a.vom [44904d6153cadb08ffe734ae0622453f52e6a1a955290de370e1ff2e84e7a357]
+│   │   ├── 2-swis_a.vxe [dce3582160ceebd01fcd0dfc1add3e0dcf9b9a92cf3766c2a7ca49c0eff4c319]
+│   │   ├── 3-swis_a.vom [6bd61e66fe571261ff6a2558b5ab1f900cffb1e20a8d4fb9ec0eb89a1e7444a0]
+│   │   ├── 3-swis_a.vxe [fefd3619aa5e530081544384ae9a9b89be30479bc80d456484cc46ef90c04f2e]
+│   │   ├── 4-swis_a.vom [72a632db844a15a5349f54fb4c441fb29691db53e5a7f366b4a8daeae36be622]
+│   │   ├── j-08swis.vxe [71e6349839547b6f8db5a27fb6ca8ac16ccaeafe15af5eff077fa0dc05c954e5]
+│   │   ├── jeru0370.vom [24a65bdd076812fa8c71b2a68976cd011150aef056e0cef893d79065abab61e2]
+│   │   ├── jeru0370.vxe [e4c99d514c630f7a44b876a98c97d4b5d5713faf3949132f4e883a0fc5cc4de1]
+│   │   ├── jerus~64.vom [ffe36c3b7eb06bab058ece1048e4318de036a81b1c3e1901445714610a0e82ee]
+│   │   ├── jvswiss.vxe [acf94cc0863943fe40ca67110d3d2de42a44e30718016cbafd26ac04ff8b59e8]
+│   │   ├── swiss.vom [65a5ceca9758f4998fb3471d336aada3626f577edddf95225de41f92ed768ee7]
+│   │   └── swiss.vxe [611345572fa5ad045f2840c763a91dff7f8f204d5499b148e0390a205cc9ee77]
 │   ├── cp
-│   │   ├── 1-flag_a.vom
-│   │   ├── 1-flag_a.vxe
-│   │   ├── 2-flag_a.vom
-│   │   ├── 2-flag_a.vxe
-│   │   ├── 3-flag_a.vom
-│   │   ├── 3-flag_a.vxe
-│   │   ├── 4-flag_a.vom
-│   │   ├── flag-ee.vom
-│   │   ├── flag-ee.vxe
-│   │   ├── j-08flge.vom
-│   │   ├── jeru0210.vom
-│   │   ├── ramvirus.vom
-│   │   └── ramvirus.vxe
+│   │   ├── 1-flag_a.vom [de46ed937714f4efc97488a5ddc90eca0e220775ec0b5dfa6f7e15bff516fa13]
+│   │   ├── 1-flag_a.vxe [6378f0dcb4963d718e428f7f85b4d5e20a3ff26f000677ebb9feb266fe0fe4e5]
+│   │   ├── 2-flag_a.vom [15a1d61306c1b53e79d43de0a4d15c47e9153a7c2a669792c7e002aeb007ae04]
+│   │   ├── 2-flag_a.vxe [5e410ea456d558e19ed8c21b5612fb16adcbf31b60105a9c6b394347da64ceba]
+│   │   ├── 3-flag_a.vom [5d2f3319180751c4af20bc0194340fd6ee305070623028aad1e9d17b11f664b2]
+│   │   ├── 3-flag_a.vxe [cdef638adec427d4453b8cc234bdb0baa183faf4788de641040fe09cf6c14e83]
+│   │   ├── 4-flag_a.vom [5c80b83dbb84fce5c6f524ed165ce807537780f9d3fb2141ba3093921d792059]
+│   │   ├── flag-ee.vom [05b9d356892d4a5249cfe0a7b219ce2ca47aa54e732b1e98c19c1f766ddfae6f]
+│   │   ├── flag-ee.vxe [c57e1bddc39e6e0caf159f3c5aa1a5278e6b9d3817551381ec9eff7bc6dbc6f6]
+│   │   ├── j-08flge.vom [5211c748adc336012aa371ddc3b84180500b9305f1d9f8e4e4d49cf1aca52fb3]
+│   │   ├── jeru0210.vom [4c6c3dca59c935c79d223ac50ec28a35955a5012d591f3f1aba0f4ae24cf8ef5]
+│   │   ├── ramvirus.vom [1373fe3cb47ea91d8dec08512adf150b397a48dd206f406987bd2f928c9508bc]
+│   │   └── ramvirus.vxe [c2894529263ae09f0ab5a405d567d577a197b0704b8dcd9a6a685f1dcbf66a4a]
 │   ├── cq
-│   │   ├── j-08jvt1.vom
-│   │   ├── j-jvt1.vom
-│   │   ├── jeru-dns.vom
-│   │   ├── jeru0270.vom
-│   │   ├── jerus~43.vom
-│   │   ├── t1.vom
-│   │   └── t1.vxe
+│   │   ├── j-08jvt1.vom [0a6342e5f69db7bc2ae70065d605652772b424ec8e5e9f97562e36d21bf88d6c]
+│   │   ├── j-jvt1.vom [13de42a360002ee81af6ebe49ec350d2643d1373da28c8bd29131cbdfa5630f2]
+│   │   ├── jeru-dns.vom [a3840e4f4e1b754b7b30ea2d5783a77604ff146ced73f095424ae697f837d183]
+│   │   ├── jeru0270.vom [8b96577407d9f77fcd2491cbaa418e4a212bb0f69f301f680a009049b8f7fb23]
+│   │   ├── jerus~43.vom [e56506f74e650115136c282dc0f83db08da741597a8f849fc7e6117400e963a8]
+│   │   ├── t1.vom [6c6efac450b94f3e073d9bae5126a4ee198b83ff83db529aa42c0daec3d8384f]
+│   │   └── t1.vxe [795aa1e3cdf2be29fabd65649f7e61b095fe1a3cb1660c17e3c22c236b269c9d]
 │   ├── cr
-│   │   ├── fridax.vom
-│   │   ├── j-08jn25.vom
-│   │   ├── januar25.vom
-│   │   ├── januar25.vxe
-│   │   ├── jerjan25.vxe
-│   │   ├── jeru0260.vom
-│   │   ├── jerus~44.vom
-│   │   └── v3775.vxe
+│   │   ├── fridax.vom [49cc6a9c134add9fd8339f7ec7562541af4e3b2f4a0d98bf49b8b51335faf159]
+│   │   ├── j-08jn25.vom [1ac353c2b54f8bee469de0f1d171c7f755fb20c528429661a30c5ef9e0c6a591]
+│   │   ├── januar25.vom [9c83c2db7d169dacee3dee14b210c848f81dfc50eb376497c56259e7b3ed38e7]
+│   │   ├── januar25.vxe [8a6043447c6f95616946d23b6725fc1c3c45b629216ff95a328a660f2cb452f2]
+│   │   ├── jerjan25.vxe [160e74991d6d2f91c0e3177817997a3b7cc742fcdcdde76516e0751c3593b5e9]
+│   │   ├── jeru0260.vom [c9750155e238c14f4cb369e37db43f91930538a898d463fcc7b692923146e395]
+│   │   ├── jerus~44.vom [46183eaef214a2a58115c65e6cddb254d86d70b41d01a92b9ad1da94a82df7f4]
+│   │   └── v3775.vxe [7fb49317f9e785860e2bad3b9fe6a36698b711b2920ce45275683f81a3e793f0]
 │   ├── cs
-│   │   ├── j-08feb7.vom
-│   │   ├── jeru-b3.vom
-│   │   ├── jeru-b3.vxe
-│   │   ├── jeru0190.vom
-│   │   └── jerus~35.vom
+│   │   ├── j-08feb7.vom [078d5b0284fe1a16a07b7f45d6bb3884b808b00b15b411be9436a4d4e5fc768f]
+│   │   ├── jeru-b3.vom [9975581d5e6034317392425adc3dabd8603913b619d00b783eaf32202825070c]
+│   │   ├── jeru-b3.vxe [2d98c3c4de0393c9d11f163fd8c3e41a9c874cb9224e11550831eed9c5d81158]
+│   │   ├── jeru0190.vom [07c3aae8160a539d9f647739e3d409cb9376c925fb12996bc14b1b7c1b52b282]
+│   │   └── jerus~35.vom [6284dc0936b15da2266d90f53af3bc78fdb1b2c8e63d232b79c6385cb1f09cde]
 │   ├── ct
-│   │   ├── j!paydya.vom
-│   │   └── jerus~54.vom
+│   │   ├── j!paydya.vom [add5eda7d2a3c9733796270bb70ee7b148c4b2e87463941950110f65d1921384]
+│   │   └── jerus~54.vom [21c668f251330fb51d0028e2eb3a616bf8bef6c51ff6a15802be649031460419]
 │   ├── cu
-│   │   ├── 1-payd_b.vom
-│   │   ├── 1-payd_b.vxe
-│   │   ├── 2-payd_b.vom
-│   │   ├── 2-payd_b.vxe
-│   │   ├── 3-payd_b.vom
-│   │   ├── 3-payd_b.vxe
-│   │   ├── 4-payd_b.vom
-│   │   ├── je180yb3.vxe
-│   │   ├── jeru0320.vom
-│   │   ├── jeru0320.vxe
-│   │   ├── jerus~55.vom
-│   │   └── jvnot13.vxe
+│   │   ├── 1-payd_b.vom [1df5f27bdaea9ea8936fe584b8a2d9107f7382e7e07d7feb05c6aed3530cd5ea]
+│   │   ├── 1-payd_b.vxe [64f07dc3d93fa3a37c3e0682bf52f059606593d1be8a1e3649ea3b17a7f33234]
+│   │   ├── 2-payd_b.vom [1a038208f7d9a192650328c1040c07527cdc1efe54f9f76b7852f138fed38478]
+│   │   ├── 2-payd_b.vxe [c96a377996b7873fd23fd58e5d31a26054065b02484e65a4d5a664ce99b624f2]
+│   │   ├── 3-payd_b.vom [0495d49bae702aa2347305fe0b99a0b1350acf71a671b35f87560af8afdf6460]
+│   │   ├── 3-payd_b.vxe [b904efac23ea6941224eb0c1d590b674104ec741d31d6104b2819703c843f354]
+│   │   ├── 4-payd_b.vom [34ed627a45dcbc4561c0405243c67961d462c8cc09e9a139ad3027cb76b52baf]
+│   │   ├── je180yb3.vxe [1f54005630f87e955efbc748acf83b900cc019828259d75f4d6bc3080cb3421e]
+│   │   ├── jeru0320.vom [bb3bb0a97b680e95a73de4e43897bf565fb5a25e1e092e4611dc301aa364547f]
+│   │   ├── jeru0320.vxe [9ca0b63162026e81501464e38044c8d30fdf137bac104d3add5cd8be1bf6df4d]
+│   │   ├── jerus~55.vom [921a9dbb017881ca42285d84e3d6d3615643f6812f1b636b03054764aa0171e3]
+│   │   └── jvnot13.vxe [0a2b6eb188dab9f1c3289975450f2832cb2ac5eb7000b896be4ba480d8813847]
 │   ├── cv
-│   │   ├── je180yc0.vxe
-│   │   ├── jeru0180.vom
-│   │   ├── jerue.vom
-│   │   ├── jerus~56.vom
-│   │   └── jeru~129.vxe
+│   │   ├── je180yc0.vxe [79918c7dffcf303214a63eb0b1d191f16480ecd67e1456610422929725376461]
+│   │   ├── jeru0180.vom [ee0c00698c7f71d7b144002155fabe4209df1914b88e6d8885dc670b8b899c47]
+│   │   ├── jerue.vom [8b433dfc5887f902dc9a9151ac0adc615c39cddac143bee49ec48de39b5ca1be]
+│   │   ├── jerus~56.vom [1b3ff600f49bbc691f86fad3b7cc5dddec14e4c59a8635228bb3a011739f1965]
+│   │   └── jeru~129.vxe [1152cbdda959fdfc05944ac31426acbf51eb0ec0a5e838db6181038915197bd3]
 │   ├── cw
-│   │   ├── j-08payd.vxe
-│   │   ├── je180yd0.vxe
-│   │   ├── jeru0170.vom
-│   │   └── jerus~57.vom
+│   │   ├── j-08payd.vxe [0752bd4c679ea068a1bb30f304c031e4eb1e7eb92ea7b71aec713a35b7297370]
+│   │   ├── je180yd0.vxe [89b81dae81e1320c5cdf0ee0a83041bf6289fb0f8e68f5c2d1c98933a8baa6fb]
+│   │   ├── jeru0170.vom [eb29e4e8f6c2283b217abf3aae7dee80de3ec85e41e0ce87935f0f046484d0ef]
+│   │   └── jerus~57.vom [14aa4475f524ebb4250bdea49f6bd90cb4cf1f0018a570728c3a6f5559ec8e2b]
 │   ├── cx
-│   │   ├── captain.vom
-│   │   ├── captain.vxe
-│   │   ├── j-08cta.vxe
-│   │   ├── jeru0130.vom
-│   │   ├── jerus~19.vom
-│   │   └── trips-7.vom
+│   │   ├── captain.vom [b94fd2a49a7d4d5d73be7a25bdc4a5ea7a67fbfe511653b0917134b51e600fab]
+│   │   ├── captain.vxe [a0b045c4b6255e846c66e6e9af91f688e4d2c9d22d588346e93fd24da199756c]
+│   │   ├── j-08cta.vxe [70f7dcd08d1858b4a5ee2ad2372e14c4e5768dab334e7af76c0d415af0e293d0]
+│   │   ├── jeru0130.vom [4c248146f949cfbf4bb5822ddc926f780b3978f6cf095db6d148d89142f0d45f]
+│   │   ├── jerus~19.vom [fc1c5a8f75e4748b564f7522be41f2f3edcdaaaaaa9f6df4733fca8eb0b0e4fe]
+│   │   └── trips-7.vom [676da7e79226b06b2d174747966e0d2e93f225027aae9892458e3897f354f32f]
 │   ├── cy
-│   │   ├── j-08ctb.vom
-│   │   ├── jeru0140.vom
-│   │   ├── jerus~20.vom
-│   │   ├── jeru~104.vxe
-│   │   └── trips-8.vom
+│   │   ├── j-08ctb.vom [86e6f3a36e9faaa246d62315053293b1015f9d40be7b9f0129644b02b3c8f696]
+│   │   ├── jeru0140.vom [19770faaad7f2192b876b8be26766f1e2e3ac7fc7844ec5738a719bca1b23439]
+│   │   ├── jerus~20.vom [84faf5010663694e78dfe1d89f07e2205264ebac9dbb55c46d6a710849e6497f]
+│   │   ├── jeru~104.vxe [ca4eee7d4226d2f736a8384b2dc57bab17ca061114ea0c532eb8f3df8f85b646]
+│   │   └── trips-8.vom [78b0fdf0d7119ab6f0877a702dea157ee8f05d66263f01636c4c7e9efb280948]
 │   ├── cz
-│   │   ├── j-sub-0.vom
-│   │   ├── jeru0150.vom
-│   │   ├── jerus~30.vom
-│   │   ├── sub-zero.vom
-│   │   └── sub-zero.vxe
+│   │   ├── j-sub-0.vom [f4c782705da19b011e3ea51b8c2c96eb85e194cc9f08ed8a0bb4811c1e02aaa1]
+│   │   ├── jeru0150.vom [551eff19657f8e80c5a20d4a5f2952931f97dbf829f6d90f4def3300c0620a88]
+│   │   ├── jerus~30.vom [3d6551a19985421e0a8e16b3030875054a85191b3528e4d91e79b12e0082e3e5]
+│   │   ├── sub-zero.vom [50ad6bb70b30cc37e16f1f2d63d95462f7e8004147825be23eb70c9e3ba54cb5]
+│   │   └── sub-zero.vxe [01db9dcb84bbc3d2b66d7b60952945a8627f83fe2d9434c1d3837e82ba370b0a]
 │   ├── d
-│   │   ├── uncnder.vom
-│   │   └── uncnder1.vom
+│   │   ├── uncnder.vom [ac96373c4829a769e07faa588f729db588b4a2827f10e9decbae66b3fd0ef258]
+│   │   └── uncnder1.vom [43c8f4a2b636f0f43f4e8e1f7d4cacf01b54730f4e39e86924b65d4ed5a33042]
 │   ├── db
-│   │   ├── j-08phen.vom
-│   │   ├── jeru0330.vom
-│   │   ├── jeru113b.vxe
-│   │   ├── jerus~59.vom
-│   │   ├── phenome.vom
-│   │   ├── phenome.vxe
-│   │   └── v3830.vxe
+│   │   ├── j-08phen.vom [08f03f1fa8a0451c64f5d382d4a361549d8b7394ca05b38f169b44718d97e7ef]
+│   │   ├── jeru0330.vom [1c996893eaf3c1f0018616827db2369fd45392969b835c364cf6f6ad01855474]
+│   │   ├── jeru113b.vxe [c7ed71dc9d3cf003ea1da9f10f0c89b96d8d750d6f256a788a16752bda980f93]
+│   │   ├── jerus~59.vom [e4a3cbb9ad6019aad217e45ee12620361364897305c3ecbc93ecd4cbd0e296a6]
+│   │   ├── phenome.vom [64b621ff35dda295cd1b4eb1aa31808dc140a43bfb7e1b60740250366087a7e9]
+│   │   ├── phenome.vxe [c6de770c9588a449d674a8a1bd5124d7cc2270b0952962a928b90e9b62bcda3c]
+│   │   └── v3830.vxe [a4e833750a0a9c3add1d39883aed33e078f92d49a80545951c678312dcc10d6a]
 │   ├── dc
-│   │   ├── jerus~66.vom
-│   │   ├── jerus~98.vxe
-│   │   └── jeruturk.vom
+│   │   ├── jerus~66.vom [e604502388b1c4dadc6cf897290d206afa7768d9e76c86b303567ca522ef0ee3]
+│   │   ├── jerus~98.vxe [8250fd3d6d6b4bb2551e205395bd3a0d2344854eb05148291074826cbf749a98]
+│   │   └── jeruturk.vom [3492f71df5118aaa3e7d870c7d492956c568c59eeec90b66819e295bc38934b4]
 │   ├── dd
-│   │   ├── jerus~29.vom
-│   │   ├── jeru~112.vxe
-│   │   └── v3700.vom
+│   │   ├── jerus~29.vom [1e2cff61480c57c3a68b9f5cbcb8827a4ac9429b4cc68543eb988ff76f165538]
+│   │   ├── jeru~112.vxe [d2c1d62f17b98830b4cd3637ede275e3e774e996b4a76a20e2203d56135a13a4]
+│   │   └── v3700.vom [98d559fd67b597e2e13ade3bb5931383e5d268969b9ff419c2fbe63934e64c19]
 │   ├── de
-│   │   ├── jerus~28.vom
-│   │   ├── jeru~125.vxe
-│   │   └── v3695.vom
+│   │   ├── jerus~28.vom [7e4275d3fad64e89db282b5e258303a18f9ae0712bc2333ca59848bb0456ae95]
+│   │   ├── jeru~125.vxe [b07cf4856ade696557cc9b62feb90692e29be3dcd6766a1a38d88d066a9f9f1e]
+│   │   └── v3695.vom [d7868e1b26a132757cf36a5a124c129cbaec3a5bf2582c5412e32ea048dde808]
 │   ├── df
-│   │   ├── jerus~27.vom
-│   │   ├── jeru~111.vxe
-│   │   └── v3690.vom
+│   │   ├── jerus~27.vom [cafb2c28342ebdc242862c1b4bc45c15d78dc0130b53883cc938fcbf6f38566c]
+│   │   ├── jeru~111.vxe [23abf8074c7ec9438a418fa753fcf6fbc3e1345995d7cbcea1b503a55e4d4998]
+│   │   └── v3690.vom [cd0417c2ebc035cf15a0c88f331a3ba13b1d53d10b41cdb6baed5cf201628896]
 │   ├── dg
-│   │   ├── j-08sksm.vom
-│   │   ├── jerus~61.vom
-│   │   ├── jeru~119.vxe
-│   │   └── v7880.vom
+│   │   ├── j-08sksm.vom [e2c89ef2540ebd28111b8dbdf9aefcd85f18fd175551b1807d764880d88e5fdf]
+│   │   ├── jerus~61.vom [b584349e21900ef32e4ac7b3e796eae4173ab89d91e8805621b5493040da4802]
+│   │   ├── jeru~119.vxe [63393e99da1b4a8877f21df58da25cf2023fc7c458b59c768cdb91a313e6f29d]
+│   │   └── v7880.vom [79ee913f65bdaed1a2f43c4a2115f63eb0b46ad2e18c3ecc0d26e8ee98e12fd5]
 │   ├── dh
-│   │   ├── jeru0250.vxe
-│   │   ├── jerus~42.vom
-│   │   ├── skism-1.vom
-│   │   ├── skism-1.vxe
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── jeru0250.vxe [c254411190c0e656efc7afd5318f58312ab3d925f74d203fdc5bed936173e7d5]
+│   │   ├── jerus~42.vom [7f02fc794aa59e507422eb458d9227f8da3b7b303e0c9e86c3f1e33bddbe4396]
+│   │   ├── skism-1.vom [4b8551a665ca200cf9233d7dce3f13f4376892f17b6ee300f46d9fdfc9abe5f8]
+│   │   ├── skism-1.vxe [4bca7e04e1914abe91c40e5598e958ea2169b1f24593e90a2a4acecd8bbc771d]
+│   │   ├── t1.vom [d5a3e7e0aeb7f3c7c25e18a027ded7e199edc409df8a321861df12373a46bcfb]
+│   │   ├── t1.vxe [c8793277b18eefa73da660a5cbd8bc6f2e6f91390db3c968c1d132b670fd205c]
+│   │   ├── t2.vom [878ffbdf80d7d1c9483b1c822f84c4d2d5af725cae00144d6fdbf238376a2a02]
+│   │   ├── t3.vom [71b5ffdbbfaf71d22cb8b57fb837f4d047eaa61a4cc9f24f0802394802d01e6c]
+│   │   ├── t3.vxe [a7fdf90587895785d1c392ac4513e9d8b0296754f762ea2277da23433de226b2]
+│   │   ├── t4.vom [6ac28a04cb0dc5a35970edf40cc122cc3b6c9bf5233961aaf8ef61ad44699c1f]
+│   │   ├── t5.vom [074c4bc4ca09c3756f14e5aa08e051ec5a195984a96608bf988e90aa9b911806]
+│   │   ├── t6.vom [be888ba5b3bddaeda9cedc26d47a4aa556d44cfa552c4ecab28bb8dc109f9053]
+│   │   └── t7.vom [ed4ac390324a05bdb6bb79499024b80d98b2a1401d4d1c8d0ecd241356cb0b90]
 │   ├── di
-│   │   ├── jerusumf.vom
-│   │   ├── jerus~70.vom
-│   │   └── jerus~97.vxe
+│   │   ├── jerusumf.vom [dcd25d486a6e11b25e9adcecfbf2ce1bf9e6d99a56c71a45427c240fb92029a9]
+│   │   ├── jerus~70.vom [8acc518fff8aafbeebd6201e387dc44c49ff88a94cd2f4bd7c10bca0fa6f6e6b]
+│   │   └── jerus~97.vxe [fc80061c2ab44ab71b524e38ba8643dcd5af4258356f38bce54440f4df560721]
 │   ├── dk
-│   │   ├── j-08cza.vom
-│   │   ├── j-cze_.vom
-│   │   ├── jeru0470.vom
-│   │   ├── jeru0470.vxe
-│   │   └── jerusa~1.vom
+│   │   ├── j-08cza.vom [0b6f40385afd711c7cd1dd96e70033ab2ec5cbefa8387a87dc24c2298fe1c7cd]
+│   │   ├── j-cze_.vom [02e5273693712fcf64fadb090c568b4f6e31c647732ca1129ac3a3097c4082a3]
+│   │   ├── jeru0470.vom [d04b2aaf5dd714758a6132f69f55ef2a3c3595cf64241aa842afe528e5dbb10a]
+│   │   ├── jeru0470.vxe [d81ec87e20e29db30461a0e20b275ec9681f0ebe9db3cd5648b14c8cdeb268ec]
+│   │   └── jerusa~1.vom [2eb55d720a82fa3f98d5df2c034026ded4ed3b3446a0bf0a0bf632b41781808d]
 │   ├── dl
-│   │   └── ~jeru023.vom
+│   │   └── ~jeru023.vom [29d530f33038354f2b06e7d770962021565eb9f380b14dfd2a1970c63d22a723]
 │   ├── dm
-│   │   ├── j-08new2.vom
-│   │   ├── j-08new3.vom
-│   │   ├── jerus~49.vom
-│   │   ├── jeru~122.vxe
-│   │   ├── v3805.vom
-│   │   └── ~jeru089.vom
+│   │   ├── j-08new2.vom [2f708b55c51d33814fdbd1071ee057e81413478e2c10a7a323b516f653e7e39b]
+│   │   ├── j-08new3.vom [eb713659101fca2e27c5fbfe313981b835ebcab9dd1eb43501838e0c8e05fd42]
+│   │   ├── jerus~49.vom [3d02550d9f30c7ecbb592993345fcf56b50771d92854709ea7c2024f6520e521]
+│   │   ├── jeru~122.vxe [9442826e916cee620cd637eabb7d9d87c277fe30553f7b4e7be38bf3ec304481]
+│   │   ├── v3805.vom [f1eafa340d2e632ec922db1316ca02ae9bb2adab7a57277a637de58e877a5f34]
+│   │   └── ~jeru089.vom [34168b0ce9ce6f65158a32035d13ac8f226c57bb73545e4b575b500c83b9e9fa]
 │   ├── dn
-│   │   ├── 1-j_new5.vom
-│   │   ├── 1-j_new5.vxe
-│   │   ├── 2-j_new5.vom
-│   │   ├── 2-j_new5.vxe
-│   │   ├── 3-j_new5.vom
-│   │   ├── 3-j_new5.vxe
-│   │   ├── 4-j_new5.vom
-│   │   └── explode.vxe
+│   │   ├── 1-j_new5.vom [7c69e172918ede813ecaf54babb3b0ee59ea36f058d2acbc56de85cd97b9bb21]
+│   │   ├── 1-j_new5.vxe [976f9c04bd79914bc4054ff809fd81756a355c25badc0388e969e73009281769]
+│   │   ├── 2-j_new5.vom [943a987ef5bf7c8206f1ea70c84d51bcdd34f081f798d2473ead8eb8d580415b]
+│   │   ├── 2-j_new5.vxe [0390aaa88ee264166c221a64114b0bf19093962220587bc675ae22c350935246]
+│   │   ├── 3-j_new5.vom [756fd52968548ca6a0c8edf99c9cf328e31d39a6e2da79ff016ba3bc5810fec6]
+│   │   ├── 3-j_new5.vxe [79bf320cfa632535242fa8d795f35a750465ff7b8a1947a520196ca8198b7df5]
+│   │   ├── 4-j_new5.vom [a9b26cb307b58480d879cfdf3f5e703282a74e7098378c7f5a2dbfe99cc471eb]
+│   │   └── explode.vxe [b1b60c5a458ccb98904661ae7ee573b89ef44f40f6a9b265a2f885455026c86e]
 │   ├── do
-│   │   ├── kaiser.vxe
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── kaiser.vxe [bd39b990a9dc710e3ba956c44d2136026456e2213a78e951bb0accecbd40f416]
+│   │   ├── t1.vom [7e2ef66be2586b0a38c97be2e5f67eca3a3e5a8a6bb0573fdfcb7be4f426dc84]
+│   │   ├── t1.vxe [7fa63c53f4ba87a640ed2dbaf36dd3342bba005f2052a4919478c9c0ea45e3e9]
+│   │   ├── t2.vom [16181500626f539d481a8df8bb810470777018df763c1e4f9dde15e4ce1e5fea]
+│   │   ├── t3.vom [6cc3f95ce52ed6fa0508186091a0bbb047a76980bf87f33cc80e674d4cfccf48]
+│   │   ├── t3.vxe [9835a388aabb70318f2a8437f6f96463eaf430bd66083257028e07956b8046b1]
+│   │   ├── t4.vom [534f71ab42f09a9e249a4d318c127875763f978d42b1ca3b258465b76bffcfb4]
+│   │   ├── t5.vom [9b59ab71a83affd411f2c4e4160e5def3b64799207b5462ae6091d5d8f3bcd1e]
+│   │   ├── t5.vxe [9c243f85601394c3cf9b901f23c1b641dea980353cf415012eb466e00563a23c]
+│   │   ├── t6.vom [9dad154ebca7d00f65df676232adbb0012dad3c4d107d780778c699227a892e6]
+│   │   └── t7.vom [8474e47463a821ddca561631ed306ddb30e44263cb9e5b1880c49f57371d885a]
 │   ├── dp
-│   │   ├── risutora.vxe
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── risutora.vxe [679e97e72442d1c13f1e37bc99686c5414c1b6e83786d3739ce61085d6d8964a]
+│   │   ├── t1.vom [ef3f4c8f00d0f613745c092f90f4b82db95a11e0a774313ac93c312748b175c1]
+│   │   ├── t1.vxe [bf84aa6e96c62c97c32264f081b04b7582fba286a18c85c9b6a0ec5623f5c4a3]
+│   │   ├── t2.vom [673f7baefff7edac8fc9f22a4065fb5aba51b095ae4bc891863b75f12a8fd4f1]
+│   │   ├── t3.vom [dbffa29016b20fa69b13fca84377c002852e5b7210ba743fb9c0a8716df5d990]
+│   │   ├── t3.vxe [1ba72824db27494f05d00a14c3433e145572d7bc7ebf073046f4f55e8b111605]
+│   │   ├── t4.vom [d4d2fa7cfd0c4e371dd273663ef1648e86a5d66634be63646f70829d6cc5638a]
+│   │   ├── t5.vom [2d423bc22dfd404d223e51c106db6464cac0ab6b1607e28f0f9b4b492cf22fad]
+│   │   ├── t5.vxe [efe4967d58639cca09371b6fb85b1bb642b96c99851a8b5c63d17499dfeace8c]
+│   │   ├── t6.vom [6b318b04887003d45b18c48d95733ac04cb006f941966c6ec5dd852d414145d4]
+│   │   └── t7.vom [b3a76581164574701d6e947cf5a3f38be5f1dbdccfcc244796d4ef0a4b2fe151]
 │   ├── dq
-│   │   ├── unknown.vom
-│   │   └── unknown.vxe
+│   │   ├── unknown.vom [c91e698548d5a777e484996b223b6f75b804464514063600735a979702968b3f]
+│   │   └── unknown.vxe [24045ed22e993f1529e266333c94fe3fb3500ca56002d1b5e69689cbfdc75ee8]
 │   ├── ds
-│   │   ├── 1-j_ramb.vom
-│   │   ├── 1-j_ramb.vxe
-│   │   ├── 2-j_ramb.vom
-│   │   ├── 2-j_ramb.vxe
-│   │   ├── 3-j_ramb.vom
-│   │   ├── 3-j_ramb.vxe
-│   │   └── 4-j_ramb.vom
+│   │   ├── 1-j_ramb.vom [bbdd8b82ed896cb54dddef04bd23d40c09f99eff136c7ae305bab8057f574d40]
+│   │   ├── 1-j_ramb.vxe [70682e06d006ff95c7e8a494feef2d502b12ee59affdf0b73e27668618a1274b]
+│   │   ├── 2-j_ramb.vom [b7c4899a846c66e78fc37c990854062d7a14689874018d385e593dd16e03b124]
+│   │   ├── 2-j_ramb.vxe [8e36af369a2d741517140f23c53dc00246931d31eb6417a3dcce3c77cb349048]
+│   │   ├── 3-j_ramb.vom [95db4c33deb4177c3ae310194a0525837856bfc01842884b28e9d3c1784211f6]
+│   │   ├── 3-j_ramb.vxe [c9a4bea785c2711a28b93b4b8311d644e053b9b6e14ae681020ddac659612697]
+│   │   └── 4-j_ramb.vom [fb72f48d32a8be408cef8a46d8c8d33e9a2f8261040270913698463e25ca83e8]
 │   ├── dt
-│   │   └── wci03142.vom
+│   │   └── wci03142.vom [828b88dfccc4446a166480ce160de2a3a0a488f82353cbdb4c631f6c10dfab42]
 │   ├── du
-│   │   └── wci01912.vom
+│   │   └── wci01912.vom [05248a07d069736f3f6eba72884aa1c8a30f2f40aa2e0ac480e2c27b83b857ef]
 │   ├── dv
-│   │   └── wci03152.vom
+│   │   └── wci03152.vom [ab74f0271031fc32a18c1a0c6a86b4ab5cdbec8b4ffd23e4bbe3259e09876dd8]
 │   ├── dw
-│   │   └── wci02652.vxe
+│   │   └── wci02652.vxe [5754d06ba08ae2d67a21cfbb005bfbbae507df1f945b10c3ec204dacdfff1e1b]
 │   ├── dx
-│   │   ├── j!period.vom
-│   │   ├── je1808s0.vxe
-│   │   ├── jerus~58.vom
-│   │   └── jeru~130.vxe
+│   │   ├── j!period.vom [fc0bdf3d7b046a9377565f420549358491d8af1a97c3d46769bd8e9245a871cc]
+│   │   ├── je1808s0.vxe [b92d8360fa13eaeac040646e19e65e48486bc4c05ef57f229478157e82c7bf45]
+│   │   ├── jerus~58.vom [3da4f19cedd9fad83b14a33cf2656e1ee3dafeed3fe04d675452cc57f9fcbf11]
+│   │   └── jeru~130.vxe [d3cde997286b066e6f724937b22e570f923c9efea5bf0fc750e8d065f86a94c2]
 │   ├── dy
-│   │   ├── j!uri.vom
-│   │   ├── jerusal4.vom
-│   │   ├── jerus~68.vom
-│   │   └── jeru~123.vxe
+│   │   ├── j!uri.vom [83eb51cce0c7c8d406c9fa5e024a050a492b4ac2e671027b937f309584964c8e]
+│   │   ├── jerusal4.vom [02b0fc47e6f6c9bc7e2283ba2df79a077dc0e521a9087bd3b7c90ed581f0c756]
+│   │   ├── jerus~68.vom [226eebccb78ea7b499da30d5f959b5a9431f3b11bc0ff9982f21bcfb925e0b4c]
+│   │   └── jeru~123.vxe [2ac2ae57ee967155bd6289572983d2487271b168d649107399820364c2cfe3bd]
 │   ├── dz
-│   │   ├── 00000000.vom
-│   │   └── 00000000.vxe
+│   │   ├── 00000000.vom [5b45871e715aef68f0d9269307ff3154af9f2c35e58b9bc5ab2250d0de3744a1]
+│   │   └── 00000000.vxe [0f4a7e3210cbe6aa8006d9cdae1e5028318cf956f705812c77abeb65ec815af2]
 │   ├── e
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   ├── t7.vom
-│   │   └── wci04352.vxe
+│   │   ├── t1.vom [7fc15eb3dec96c07e771a428b9e117971b53320a9682d98ec44aede5660eeb30]
+│   │   ├── t1.vxe [b9041d853ab0d29d688737ee7cdc62e2317fc93a96ea9a8a0c57059551dbef4d]
+│   │   ├── t2.vom [092effccddd474cc6436d9d9d82459242bbfe3fadeedcb3147a7fdb1fc27d191]
+│   │   ├── t3.vom [8a111d84785bde900ea2c9b86ab0dcb7d276ea31131cba2a6c3ec13ed68c849e]
+│   │   ├── t3.vxe [7e6a1ee599c09db7b78594ed434b8da58393fb02ef2be799fa2c11a56596c027]
+│   │   ├── t4.vom [4a49b94e9105f938a5287148cc2579322da15f78d87684489388d0c285b07139]
+│   │   ├── t5.vom [07ab743913599bf757347b5471c58fe4fca2fbf1b81d20559767a24f97f36d0d]
+│   │   ├── t5.vxe [133aa32b07162c48a7d71b54c35b4dd49859e4ae4b44b0713db469a971d9a65d]
+│   │   ├── t6.vom [aab779a5ee58ccd84a5488536d1731a3bc14aa0344ceb9e4b5796a2cccc55431]
+│   │   ├── t7.vom [2d64f2796ccf37ad763a0f29182c41c0b17b01074a798a154e62edf161aa0bf7]
+│   │   └── wci04352.vxe [91c70dec403e1c792ef8d504426a1e69fe6e7986dc4f67791a9f962a78f002a0]
 │   ├── ea
-│   │   └── win95.vom
+│   │   └── win95.vom [705e0a1ed402c2c862796ea8352f453d888c2c711a05eef8db03cfa06c5f02c4]
 │   ├── eb
-│   │   ├── test.vom
-│   │   └── test2.vom
+│   │   ├── test.vom [69babd0d81de2782b378fd4c22db0a242e0ad9cdcfdd2ee4d8e1dee06b035d63]
+│   │   └── test2.vom [394103952bf7fddf8f2bcf6ce74d837db71c645712e9d6ac82e0ac2ee157cfc4]
 │   ├── eh
-│   │   ├── jer.vom
-│   │   ├── sum.vom
-│   │   ├── sum.vxe
-│   │   ├── sum1.vom
-│   │   ├── sum2.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t100.vom
-│   │   ├── t1000.vom
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   └── t4.vxe
+│   │   ├── jer.vom [24bbf2fa8b30cdb38ec7efbbc8624ada586c50f2c9bab2e45ea63c6fc144e885]
+│   │   ├── sum.vom [2c0bc86469e5c3a3d6ee57ba965de0346177996dfc3eff840bf30df43173c760]
+│   │   ├── sum.vxe [414515b540b6562cb048e1661f69e2e11de00b2d7adfacd793d0aed4fe8a3fcb]
+│   │   ├── sum1.vom [040a6e8cda7058fd0c3dda741011455ec80d8191cbba263f20437d1297c375d1]
+│   │   ├── sum2.vom [1a3589e1a00522caed4b70fd005e3225c2ddc288d491f551d3a89597c5b7ea80]
+│   │   ├── t1.vom [2200edb9fbe334a1c4f2dcadf185d8ba0cd45b45df95cea58e773c8ea192117c]
+│   │   ├── t1.vxe [0d2063e6cb29986947ad825b9055119348116ef9e1bfcf977b0a608792b3d288]
+│   │   ├── t100.vom [a74716cf2db807a63c391ef2f01fe209adcf818cc0be3e9d3f2bf3956d8336d9]
+│   │   ├── t1000.vom [a6baaa17eec1da3323e1ef6aeab5b8db83f6d9df842e7cde65c4596bd2544ce3]
+│   │   ├── t2.vom [ca8020ba79a88ad93cc13c0f434e29542bca73ae5704095886c8e3dcf8a7cbea]
+│   │   ├── t2.vxe [06ff647eb46f89257552051e0ddc305090ebeebcdcd173b005e25cdd91dcbbd7]
+│   │   ├── t3.vom [76fd505e5bc9d403009d84628bd4cd3c9b70467d493deb319a617d363e12f637]
+│   │   ├── t3.vxe [1ca6412c67b24088797ac0859da68cb358ee8bd39c41188d3cb63e1f8e0f2d99]
+│   │   ├── t4.vom [02478100ddfcaa376eb43a0cb06067ee8040c45dd658632755c10dd404d7bedb]
+│   │   └── t4.vxe [1c6de0e392ae55d17e89964a5a178e93a5b69829bc74412cbae812e43b5561f2]
 │   ├── ei
-│   │   ├── 049.vom
-│   │   ├── jeru0365.vom
-│   │   ├── jerus~48.vom
-│   │   └── jeru~121.vxe
+│   │   ├── 049.vom [d6b8bca9446f7c414794902684b8bf3c76a1fc8a2b77f221851d5c434d71a5b8]
+│   │   ├── jeru0365.vom [544ea98d53dc0f57522b76da9b14bb9cb482621663291bcf3f0efaa6ea0140da]
+│   │   ├── jerus~48.vom [5e265c8e36a46fb29b0e8d194b7fdf8be985e4bdef27982ef965ec714b1cf3a6]
+│   │   └── jeru~121.vxe [9bf6aa8bc986c6c3262a180a54a963a5762d8d29bd4ce8ef606f30f0db9999e3]
 │   ├── ej
-│   │   └── virus.dos.jerusalem.vicky
+│   │   └── virus.dos.jerusalem.vicky [7da91b410663ceb76b1cd83d56319097c135c4ba882f8ebee9d73f287b5a3c40]
 │   ├── ek
-│   │   └── jerusale.vom
+│   │   └── jerusale.vom [dd3dc8eae9d87c690b3be075a5075307cf8338728ea9f22903b41b3c3ce0d894]
 │   ├── em
-│   │   ├── jerusale-001.vom
-│   │   ├── jerusale-002.vom
-│   │   └── jerusale.vom
+│   │   ├── jerusale-001.vom [75157ddbb97088a0a721ea43eb478847d97d48a52d58ce58eca3684c335bf848]
+│   │   ├── jerusale-002.vom [c239ba5fd6cc8476bff85fbb4a4f1a6cf5a52f392308ccbe03ab135abe0f191f]
+│   │   └── jerusale.vom [348ac54ff35d0d5df456747305e5da4b1871e4446ebc3a0cfdcfb3c854169044]
 │   ├── en
-│   │   ├── j-evg.vom
-│   │   ├── jeru~118.vxe
-│   │   └── jeru~123.vom
+│   │   ├── j-evg.vom [0f1059efcfcedd8f692a05d6d522cde75fe0308aad96a0a82a3de806857c7eb9]
+│   │   ├── jeru~118.vxe [e55e2ccb8299670ff7cc8a3c2ec4785dff9af22dfb19d4c04461cc242a4cd9fb]
+│   │   └── jeru~123.vom [ae881964aa5b7cfb03356cc7e4bd888fed7dfaebd996e9eee57f1efa1541e22e]
 │   ├── eo
-│   │   └── jeru-a4.vom
+│   │   └── jeru-a4.vom [887ca7c61525dd102d02a5b6201cc87e2e02fd732ebca7bb61e9981f23e0bd80]
 │   ├── ep
-│   │   ├── anarkia.vxe
-│   │   ├── j-08anaa.vom
-│   │   ├── j-anarka.vom
-│   │   ├── jeru0080.vom
-│   │   ├── jerus~11.vom
-│   │   └── max00024.vom
+│   │   ├── anarkia.vxe [2b05363fa2bec724831791ebdd6b33e8aaca7f39c8592df58d9bddd37810dae8]
+│   │   ├── j-08anaa.vom [c7dca01ce19f8de68983d0f930fced720b5227766ee9a23e8ac0717c2a70e1c8]
+│   │   ├── j-anarka.vom [8b725bc6d48db03fb4b6655f5018fb80094bfeb87f1e35e18745afa1d54e1f4a]
+│   │   ├── jeru0080.vom [acdf2e2b6cbf2b0433819ca317aa5e4409e62f8c7b57fd9970033c641d66533e]
+│   │   ├── jerus~11.vom [2f60cc216eecffeadbc80dea3967788320eeb759c28c54edce9d8afdfb62d7ef]
+│   │   └── max00024.vom [56e4d3453394147009bdc5ef3446c153c10b1346246f92d9447e292f964b7c50]
 │   ├── eq
-│   │   ├── anark-c.vom
-│   │   ├── anark-c.vxe
-│   │   ├── anarkia1.vom
-│   │   ├── j-08anac.vxe
-│   │   ├── jeru0100.vom
-│   │   └── jerus~13.vom
+│   │   ├── anark-c.vom [b80ff7c1e31fad3e69e6e9d0383b115a4fb2c3ab19d98ab6b7c74d4cf6b44b66]
+│   │   ├── anark-c.vxe [5669f9a52acc08fa26ed4a780655d6e1bf798a05efb5109d4833225f84ce3d03]
+│   │   ├── anarkia1.vom [f54478a255a9cf02c41f434b0263b54a7ad8601a9d4d76281c4ca253bd8f9d52]
+│   │   ├── j-08anac.vxe [c228bcfdaff01e86db5fbc7b4856dba2e6371fa231365bcdb819154f927c5f51]
+│   │   ├── jeru0100.vom [0c411601a7c02f5dad62c5e2db14bcd1d1c067fa23e9ef7465ce58ff060bcd67]
+│   │   └── jerus~13.vom [e610ab70e6d09911022a3bd4a7c3c7fa1a07762696001e8cb777e9cb79ce7309]
 │   ├── er
-│   │   └── alma_ata.vxe
+│   │   └── alma_ata.vxe [940920ad6afed0ef9d9c99f4bf9d556095d9bd6af55a3c50f9887908c293b066]
 │   ├── es
-│   │   └── jerusale.vom
+│   │   └── jerusale.vom [d4406f1dd77fd1ce78a575ad160dcd886e87222be7ca4a0e00016ac29afe5ec0]
 │   ├── et
-│   │   ├── 1-coun_a.vom
-│   │   ├── 1-coun_a.vxe
-│   │   ├── 1813-b.vom
-│   │   ├── 2-coun_a.vom
-│   │   ├── 2-coun_a.vxe
-│   │   ├── 3-coun_a.vom
-│   │   ├── 3-coun_a.vxe
-│   │   ├── 4-coun_a.vom
-│   │   ├── jercount.vom
-│   │   ├── jeru~117.vxe
-│   │   └── jeru~122.vom
+│   │   ├── 1-coun_a.vom [add9646b663e0f10d3375170a2501c734ab00358751f4a2e8c92775ff9821eb3]
+│   │   ├── 1-coun_a.vxe [c5e9168de07355ac173489aeb87ef645b4ba947e4daf08dda465672447e8e0d1]
+│   │   ├── 1813-b.vom [9d6c39309bfb449d9a010b58348a55602a216544afa247ae21f6ddb77dfe1f5d]
+│   │   ├── 2-coun_a.vom [a4195e8c729046dd630ea89bb3a33b302cc1f9a63803bd3f9aecf768c707ebf9]
+│   │   ├── 2-coun_a.vxe [33e008392ffd21e4f2f47b5aca4cbf0b743f179998c60effc8e53616bf596042]
+│   │   ├── 3-coun_a.vom [15084824f97604abf142d71e276b3d7851abec55ce5288f405e594ae8002507d]
+│   │   ├── 3-coun_a.vxe [932301342f76286ed3c94f1cf44f5040c91ed0c7cbb02c5dd9e77e6c72bdf906]
+│   │   ├── 4-coun_a.vom [256f0cff0f6e6d5174c478847f840ecf0f5ee3686295aaa85c7757b395ca55d1]
+│   │   ├── jercount.vom [fa37f93d3799eed514423713f9dba2d9dc9ea5844e007db1cf8afe3c6963054d]
+│   │   ├── jeru~117.vxe [970605a9beef9cf0d5d1389345625fc467d54fbda5f778077baba3169bf9b58b]
+│   │   └── jeru~122.vom [70b9b7cdc57340576d0076d0ff22e2f030b670331223924e0c494a1ea4720cfb]
 │   ├── eu
-│   │   └── virus.dos.jerusalem.2tigers.b
+│   │   └── virus.dos.jerusalem.2tigers.b [740394158a7d5636299b8caf982b22fbc7294cda8d5b1147bfa58d9238ab0f28]
 │   ├── ev
-│   │   ├── 1-je1808.vom
-│   │   ├── 1-je1808.vxe
-│   │   ├── 2-je1808.vom
-│   │   ├── 2-je1808.vxe
-│   │   ├── 3-je1808.vom
-│   │   ├── 3-je1808.vxe
-│   │   ├── 4-je1808.vom
-│   │   ├── jer-1808.vom
-│   │   ├── jer-1808.vxe
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   └── t2.vxe
+│   │   ├── 1-je1808.vom [dbba9ad0d5577648b801ad4fdd4148c51a417b04e2062bd50416c1e802c9a3f3]
+│   │   ├── 1-je1808.vxe [8d2486047a4d51842cee3077c98355887c97be6842c69de809d9a45c0be17b4f]
+│   │   ├── 2-je1808.vom [715612cf1c7bae4504589a469c7407230388fdeeb1cc9c465de3b2d59cc3d60d]
+│   │   ├── 2-je1808.vxe [d9507d1485713bea5359ba60446d4ff8184fca7ecda5c0f7aa2fdb45cbde0266]
+│   │   ├── 3-je1808.vom [a105931bc58d9e8610a0cfd5934fd2b4a43f39b203fffa2296e26dcb1568b1b5]
+│   │   ├── 3-je1808.vxe [342d3c8ace8a1332b694ca2e7ebae3eec59ea5c2e41e3115a787b2d3611045b3]
+│   │   ├── 4-je1808.vom [514cab68f2c62a157c549e5df264d5a04e29191d40a4e313c759867aeef61d33]
+│   │   ├── jer-1808.vom [898a16a793cb851065efcc6831f3d0bb9e8bbe3268dc63aa4fdcd0701767a216]
+│   │   ├── jer-1808.vxe [85166882b0f81be4b8a5a73f2743f8d5d647c1aba31a8154644c483dd6465886]
+│   │   ├── t1.vom [0b4df2d3298fb8196d1886913e993ae63a7c26aa9186101196cde1f86264cc51]
+│   │   ├── t1.vxe [83574f15c83c499a8bccec95f5d9ced07d5845a9b8356f6c83cf6abb77fc1a42]
+│   │   ├── t2.vom [6ad93f2d7b5aa09a13e5feefad4e19f5374d57ac8a58f379763aa1a4bfa40816]
+│   │   └── t2.vxe [8e48740f2b7975a5ba04e9529464659910fd036f15473fc010f19df8d65cade0]
 │   ├── ex
-│   │   └── Virus.DOS.Jerusalem.a6
+│   │   └── Virus.DOS.Jerusalem.a6 [65df2eede468703954c5b3c425cb77f1dca523d3a9441aa519760030c2f54b1b]
 │   ├── ez
-│   │   └── skism.vom
+│   │   └── skism.vom [3db681787df6123729a4b18a3f301b05a895bfc0ffdbbff49310b6d5e97daa83]
 │   ├── fa
-│   │   ├── jerusale-001.vom
-│   │   └── jerusale.vom
+│   │   ├── jerusale-001.vom [e4bf31af34ddc8bde6bf9fff3e94fc4e78576db3b27feb3fb6d38e2b3a6fbdf7]
+│   │   └── jerusale.vom [3c1409b8af4c1e76926a463a1cf0fff09228a47fbca7f0f69621b93231369069]
 │   ├── fb
-│   │   ├── felix.vom
-│   │   └── test2.vom
+│   │   ├── felix.vom [3d2dda7b50945a8261bbcb3b51429cff63fc74009ec6abb9ded6d24fd1baf663]
+│   │   └── test2.vom [fbc7bd371fe8252c983affc778846c66fbba75cd59bf5f226ab59043c83eaf9c]
 │   ├── fd
-│   │   ├── t100.vom
-│   │   ├── t1000.vom
-│   │   └── wci3819_.vom
+│   │   ├── t100.vom [8bf08ee1bc94557ccd3a0b85f1ed1d18318e46b63cf9e298da28bad2cad87169]
+│   │   ├── t1000.vom [a7046778a7fbbbf130ba707df3420e241bea104ad0c328c23d62cc9a06eae256]
+│   │   └── wci3819_.vom [ebd053ae6f8140da3b8716f99f50539d67eeb84f499a4b2b8a63df7676633878]
 │   ├── fe
-│   │   └── jerusale.vom
+│   │   └── jerusale.vom [4b60a3d6f1a193e8ff68cf12eb236ecd0836cbc6dc55d1f3401a0892f8063fce]
 │   ├── fg
-│   │   └── virus.dos.jerusalem.1808
+│   │   └── virus.dos.jerusalem.1808 [b1961ed085603ab58a9071ca9720101a4c895d9c2af15ae5c139a99ffa6f3f97]
 │   ├── fh
-│   │   └── jerusale.vom
+│   │   └── jerusale.vom [f3dffe38c090716524ce785bcbffe78ab8ce70fed59190f2ee775b82bd8df67c]
 │   ├── fi
-│   │   ├── jerusale-001.vom
-│   │   └── jerusale.vom
+│   │   ├── jerusale-001.vom [b2dfe2b3fe1afbc6173fe0e7b57e44d95e123ec9b7d0f870a745a93bad9e05fd]
+│   │   └── jerusale.vom [0d26a2ba4f2a1ae082e79c9979545a3f345c9660c521416b27d9a6abf3430d39]
 │   ├── fj
-│   │   └── virus.dos.jerusalem.a7
+│   │   └── virus.dos.jerusalem.a7 [b50fe0b27695b0f46cd0b2ce730034823f141647805298c519a5348543f7085b]
 │   ├── fo
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t7.vom
-│   │   └── wci02134.vom
+│   │   ├── t1.vom [6a0afcb9669af1656df0ff17588afa1d95ee725c7bb2eb733f79a69fea4b445f]
+│   │   ├── t1.vxe [93bbd1041978945f786197418dc8e9b8b216e5452ee5bf232fd348702a2c49fd]
+│   │   ├── t3.vom [0bdbabd20105db4cf4ddaccb48bb1c659d4f177c93aaf63c8d5c5caf9cb02f4c]
+│   │   ├── t3.vxe [0a7b740b9668b8ef57fe953819d206ccb12c3fb512670b8ba98fd968e99f5807]
+│   │   ├── t5.vom [f9cbaa10e3d724a1f481d5716a428cc2dd49bd675adff2edc1771373f2913b59]
+│   │   ├── t5.vxe [cbe02f934fa574750e5dd8fc965781ea99452a17d11d2384618fbf5924ac007f]
+│   │   ├── t7.vom [a9e7d1faf2f458ad269d3cc9c32d7a2d9c7a2d45f118702439dd8286a7d57585]
+│   │   └── wci02134.vom [89eef84ea8bfcfdb55bf17438394b8a4e302153ce4e13b122a426b37ce00916f]
 │   ├── fv
-│   │   └── jerusale.vom
+│   │   └── jerusale.vom [41e62e1b1bfd64c75a48c6fb38fac28a2f0f260bf409b8d248b36f832abb9397]
 │   ├── g
-│   │   ├── j-08blna.vom
-│   │   ├── jeru-dc.vom
-│   │   ├── jeru-dc.vxe
-│   │   ├── jeru0120.vom
-│   │   ├── jerudc.vom
-│   │   ├── jerus_dc.vom
-│   │   ├── jerus_dc.vxe
-│   │   └── jerus~15.vom
+│   │   ├── j-08blna.vom [7956a7b48607f1522380b64a480dc9a9ab170cde4d062f38ed8a8fff81411dcb]
+│   │   ├── jeru-dc.vom [c5ded7338bd35ecc3b6d149bbfcd506402349adb172c21e1bf1df2fdab928125]
+│   │   ├── jeru-dc.vxe [e5e3f9b1ced409e5ecd858bdc2114552a9b05ded21a73aba51f1b32c1901c911]
+│   │   ├── jeru0120.vom [42d3ba7283151e9df4d0de706cc300ab98f6eb18238515ac41ac0fd992cca040]
+│   │   ├── jerudc.vom [faa3199590d6e040266132d34d091cfa5d9a683e8bef067bde55fc669e1411ae]
+│   │   ├── jerus_dc.vom [de2dff5fe95fc42032bf79e7b029fcdcc7a84592e8323c66e049db9e50bf5edb]
+│   │   ├── jerus_dc.vxe [46f5edf3ae1f5d10f707c0d679525aefa3a3124f85b0b5476ecc7cc1daac6499]
+│   │   └── jerus~15.vom [c8d161ff269814cc0bbd46c8f880edcbd0835059647e61621848abd1de6fb43c]
 │   ├── h
-│   │   └── jerustab.vom
+│   │   └── jerustab.vom [bd34c3ef0b64f4400e838efb308b0283be38239aef36d83c1238923073eac7b1]
 │   ├── i
-│   │   └── fortune.vom
+│   │   └── fortune.vom [5456f8fbb510034427dd488fd5f128380957fa0eb01f77b9d1bbd83df6342a14]
 │   ├── j
-│   │   ├── j-blankd.vxe
-│   │   ├── jerus~95.vxe
-│   │   ├── jeru~170.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── j-blankd.vxe [12ef0cfc17f872516eecff6e8563fd4f155012c6c364fc2a4ed7fb29a684807a]
+│   │   ├── jerus~95.vxe [be999c024cf9f5fefdcf41297fbd2a66cfc03cc08c6da54eebe43cdab8c805e7]
+│   │   ├── jeru~170.vom [7b43ce0003892233391fe10a6ef084b3a02b974e3bf74ec3e490820246cd99e1]
+│   │   ├── t1.vom [6859906ca2762f2bc4986e554807023037231f77d4ce45f52ffce4a9e4abe6df]
+│   │   ├── t1.vxe [76776204daa894c7a5ca9f62d158b48a347772838fdca32c3341d018ad474cb0]
+│   │   ├── t2.vom [480c41b627ecc5fcb7159400a19d8987c551c53eb90e6674a891e4cfb040544c]
+│   │   ├── t3.vom [23c8fe92948b30d357b4d81285526f9b15ab7dd2d5253bfac48050a55c422a5f]
+│   │   ├── t3.vxe [9eb379a52670e6aa3d03c807429530989df494d4dcb5b71d5e46e100b1f78fb1]
+│   │   ├── t4.vom [a72723390a22f19e386060d0fee1997ed939a4e2e2d9c359e8679c07b7d9efcd]
+│   │   ├── t5.vom [b065d1b66e2cd93eced44de2c1b0e8e1d98af8698b0630e6e17c589e59d76090]
+│   │   ├── t5.vxe [63b29f0f62aac33f5d9a50a7fdc229eed3d172b45b469a9e1b7b5f936d4b3277]
+│   │   ├── t6.vom [af317467cdc5115fe70473bb53d1aa71b0854f67bd78352fce98d618ca0e3541]
+│   │   └── t7.vom [b598407ae94205dd186109f6106f9cb9759223bde4cda1386e459ff4ff080cb9]
 │   ├── k
-│   │   ├── 1-blan_e.vom
-│   │   ├── 1-blan_e.vxe
-│   │   ├── 2-blan_e.vom
-│   │   ├── 2-blan_e.vxe
-│   │   ├── 3-blan_e.vom
-│   │   ├── 3-blan_e.vxe
-│   │   └── 4-blan_e.vom
+│   │   ├── 1-blan_e.vom [ee633d1f06ead9e9b19581c2595ea2e3a54f44402b1068e3babd02a993f45b5a]
+│   │   ├── 1-blan_e.vxe [1b7769c4a4271a4fa6fc0db1edceef0bb8d3aec908ac234fe3a8d29d41358095]
+│   │   ├── 2-blan_e.vom [1712c3a1d54e4455f86b0d2f16b85d27229d0a00ca773d37666e9db9139d6733]
+│   │   ├── 2-blan_e.vxe [b270ff9b05420591edc08a961d59f4e411a75ecefa032087f1576ca7ee75dbe5]
+│   │   ├── 3-blan_e.vom [5cb5f3defc3576aee5608564668ea30b091e1b72d935f6b2911a8be160177ab5]
+│   │   ├── 3-blan_e.vxe [f49261a56cc6e1144566a10608500e38b78c3885d8e847dcb5e45bc356fb6168]
+│   │   └── 4-blan_e.vom [d20e1947d2a8f8889fd8423c618a8c23562b305e4ce81774ec3fa23e40bfbb9d]
 │   ├── l
-│   │   └── j-execut.vom
+│   │   └── j-execut.vom [20cbd2b455a852e453c4834ab71f23865bd287bb38266319e7421c1782607110]
 │   ├── m
-│   │   ├── j-08mess.vom
-│   │   ├── j-mesina.vom
-│   │   ├── je1808a0.vxe
-│   │   ├── messina.vom
-│   │   └── messina.vxe
+│   │   ├── j-08mess.vom [df65b695897f9b1130937175e163acd6f28fa928ac3259f135ab2f1449329f76]
+│   │   ├── j-mesina.vom [7586307594e53faa663417b1779f53520796895f26de38387caaf476893c38e7]
+│   │   ├── je1808a0.vxe [20fe339308bd861a6060419f72b3de1a474bd13de39c31321fa17725e074671f]
+│   │   ├── messina.vom [d05d196096185b84512e666032bcfcd97b5041a22d69ded14d6777a8b2d54fb2]
+│   │   └── messina.vxe [9871f84a1399c9bfb8ba2c2a9e48f75786489c76e592f4b590938ab417111883]
 │   ├── n
-│   │   ├── jerus~51.vom
-│   │   ├── jeru~133.vxe
-│   │   └── vije01fc.vom
+│   │   ├── jerus~51.vom [9470f9d73c3c26123e5e9c60086bbe328f7c02c0836b06fa855fafcdbc478338]
+│   │   ├── jeru~133.vxe [9b5b8f50171ca01f5a90c0f1b33f08ba026cb40f11aab7bd11eaffb38a8046f6]
+│   │   └── vije01fc.vom [ca0ad1ad8fd82852452e0ccc6d27d28e7c0e3b71f4052f2fe8af1bd71d63a8bd]
 │   ├── o
-│   │   ├── j-08null.vom
-│   │   ├── j-null.vom
-│   │   ├── jeru-c.vom
-│   │   ├── jeru-c.vxe
-│   │   ├── jeru0300.vom
-│   │   ├── jerusal9.vxe
-│   │   └── jerus~52.vom
+│   │   ├── j-08null.vom [6e35ad4ac02388e3b1f88bf8e3d75108b84af2ff9c03133896dece96440183d3]
+│   │   ├── j-null.vom [01422fc0a1743abc5fa11225dcf4f6bd415ab482867a054fe1fc3f0f640aaa0e]
+│   │   ├── jeru-c.vom [14f449bd4e5032894af09b5a6038829a81f23efc6d8cff0fd5d624cad53ab61c]
+│   │   ├── jeru-c.vxe [5a333ea13860ef0fd85572ca35254e767bf3caf35a271dbe5a6dbb99949995c9]
+│   │   ├── jeru0300.vom [21d470beefd29e7dec0115977466c533c2e9df86eb17ddadbccff58d3c3cddbc]
+│   │   ├── jerusal9.vxe [b256e7cc917886822640df43e080e6a0dcbf0b807d0369032877b6ac1eef1420]
+│   │   └── jerus~52.vom [dcbc5474128c0d7ddf8d45dd24e741f1410340de8b1f502969ae90a4a4cc6af6]
 │   ├── p
-│   │   ├── jeru-plo.vom
-│   │   ├── jeru-plo.vxe
-│   │   ├── jeru0310.vom
-│   │   └── jerus~53.vom
+│   │   ├── jeru-plo.vom [c6e1845c82be7525faae351039fa66a2841d5bb8bd02a0737328d2975bbcd64b]
+│   │   ├── jeru-plo.vxe [e438d5f0b9c9e03ab1517b9d82c8f844f17f8657bb3c4bc150920463a4e5da7b]
+│   │   ├── jeru0310.vom [e55b953104e00822cd81509f853e1280935868cc9d0873db656c9dcb929d8451]
+│   │   └── jerus~53.vom [ec14d9d2cac04b6bb9ccb8281371437c34715677b2e67914333ada97c35bdf9f]
 │   ├── q
-│   │   ├── jeruj.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── jeruj.vom [f303db1b32cd8a6cfbd09b3bea3739bd31eb2316876c17da273d54b4d0e11e27]
+│   │   ├── t1.vom [38f3763f26e8c836a9c80a4abda771f00e189a2e7cb91f03c4035fde26849cfc]
+│   │   ├── t1.vxe [7f1f6a4962d6067e05743d3bbc832188e562ad95a8bdde5417f37536b73a916a]
+│   │   ├── t2.vom [f34fa28b63f9dcc363af10a0d9604835ec1dbdd1133160fe8cea029338d73176]
+│   │   ├── t3.vom [e8ae4be3b749dbb2c3a220e54e6da3c7cfb2b978c9dcff3e20bb6be3c18a5beb]
+│   │   ├── t3.vxe [913224254f4fc2882811ad667568b185108f9465a3d05f336601a065b88ea79e]
+│   │   ├── t4.vom [66ecf395280db433eb4fb927dbdfb4005bf6006030b800bcfc09cc8c8da2ef54]
+│   │   ├── t5.vom [5d7498879bf47808fac9a93cf282ab1da3810fcb618e392e68591a4bbe693956]
+│   │   ├── t5.vxe [d2778aac67a8c2d96e5b0728494ec356c48816cc40d00ebc72e2d1ca3a770ab0]
+│   │   ├── t6.vom [dbd858fce96db2a61b635abbbd47770b28cec0b337f611749a09fc7e31763b02]
+│   │   └── t7.vom [6a1d97d6415286489e3914ddd5d9bcce9d5cffe23465451c2c51631bef625e63]
 │   ├── r
-│   │   └── wci0123j.vom
+│   │   └── wci0123j.vom [98df6e13588db49f5c7e9611f5ef606e2b5a163128f2daaeee882446f62c87ea]
 │   ├── s
-│   │   └── jeru.vom
+│   │   └── jeru.vom [83cbfaf7fda3cbe8e2c1eb8899586d504326dbd8591a6eedba5e00e012a6ff37]
 │   ├── t
-│   │   ├── jerus~31.vom
-│   │   └── jeru~116.vxe
+│   │   ├── jerus~31.vom [213b5e972c360d894778dd74450a4e978b44efdd648843e84a038bd4c5674db9]
+│   │   └── jeru~116.vxe [871bc8b1373a984ad5088ec33ce2b18a20f4bd49eb2c739efff6b65d52af6ee3]
 │   ├── u
-│   │   ├── jeruicky.vom
-│   │   ├── jerus~16.vom
-│   │   └── jerus~99.vxe
+│   │   ├── jeruicky.vom [a2b7a51373f8cdce5bde01632eec8f01eb897b6a6f8c5e061ba52ad82823acdd]
+│   │   ├── jerus~16.vom [8b208dc5abcee5aacba3a7cb4d7b07c68e8e40711224dab88b6170a5f45e9733]
+│   │   └── jerus~99.vxe [cae82b4e3ea2b03e69ec95886d18f2ae49b7d1b431426aa1a482bfd4572a9f72]
 │   ├── unk
 │   │   ├── 1
-│   │   │   ├── t100.vom
-│   │   │   ├── t1000.vom
-│   │   │   └── wci3818_.vom
 │   │   ├── 2
-│   │   │   ├── j!1808un.vom
-│   │   │   ├── t100.vom
-│   │   │   └── t1000.vom
 │   │   ├── 3
-│   │   │   ├── t100.vom
-│   │   │   ├── t1000.vom
-│   │   │   └── wci3832_.vom
 │   │   ├── 4
-│   │   │   ├── t1.vom
-│   │   │   ├── t1.vxe
-│   │   │   ├── t100.vom
-│   │   │   ├── t1000.vom
-│   │   │   ├── t2.vom
-│   │   │   ├── t2.vxe
-│   │   │   ├── t3.vom
-│   │   │   ├── t3.vxe
-│   │   │   ├── t4.vom
-│   │   │   ├── t4.vxe
-│   │   │   ├── t5.vom
-│   │   │   ├── t5.vxe
-│   │   │   ├── t6.vom
-│   │   │   ├── t6.vxe
-│   │   │   └── wci3821_.vom
 │   │   ├── 5
-│   │   │   ├── t100.vom
-│   │   │   ├── t1000.vom
-│   │   │   └── wci3833_.vom
 │   │   └── 6
-│   │       └── wci04473.vxe
 │   ├── v
-│   │   ├── j-08offd.vom
-│   │   ├── jeru0200.vom
-│   │   ├── jeruffd.vom
-│   │   ├── jerusa~5.vom
-│   │   └── jeru~102.vxe
+│   │   ├── j-08offd.vom [bd5adb9efcf731f4394872d4a1fbea8e9463bcd7a920451e2b388033e7153b69]
+│   │   ├── jeru0200.vom [cb6cf97500c01ba613f9db92268ed2525a0f997112b1c488bf991ed126486f78]
+│   │   ├── jeruffd.vom [e3b33d50fb377d59266c259a2d30b7adf4be7f816964b076a38fa843ea1d0234]
+│   │   ├── jerusa~5.vom [5b1b19ba7c3e8a6f86c46b21f188ee9444705d760c3a738539e082f5288f7256]
+│   │   └── jeru~102.vxe [77d2638a8301eb9527e22ce667107027ccd3a954f8d83bb45e39502fef636e89]
 │   ├── w
-│   │   └── wci01882.vom
+│   │   └── wci01882.vom [e80871040e46c9a177c07a90a37a15310466cb5cf29507bb2124eab5c0ec99e3]
 │   ├── x
-│   │   ├── inf10.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── inf10.vom [b23f6fbcbfec2cecd1278508b520fb69b12a198bb482efa95a9cc0f044a71f1d]
+│   │   ├── t1.vom [d920cbaf9c1834d98accbd072887e953af993a4841ee3256b7616b5181ba5221]
+│   │   ├── t1.vxe [83ac7df0e31e3676e85cb2e3d0c47eb767c3fd4b945c65daee92f3e53bf8a245]
+│   │   ├── t2.vom [53235af39c952cdc9e0eef13665a110c5e97f9087d0a93c39a8e34f6a27dab8a]
+│   │   ├── t3.vom [7fb3cb92774fffb061c4c9ff5c41d4ac0bf6d20487d3a19031dd0c95ca5e0469]
+│   │   ├── t3.vxe [61e5e87cfe5a2c1bfb885a245c1ab04751c522a1fb033c2174249fa299785686]
+│   │   ├── t4.vom [fb4ef023c2df2653d598f254d453ed588a07e03f22746fd5cec2949fc3dbea1e]
+│   │   ├── t5.vom [775938455833179236c62d10defdcd7344f706f083ac29e0ca792760ce90fba1]
+│   │   ├── t5.vxe [3b0b42fb582916d0fe2507c537394eda167b60dbf4e7a145bf03e73aab728cb5]
+│   │   ├── t6.vom [abca97224336908309bb28721199624cfac6eea9c201df9c83febc51f4d98a78]
+│   │   └── t7.vom [2a33a2ef3475399f4ab0bc47d1b7d17eb5daf2dbb5a6be1cb5e946acdffc3b01]
 │   ├── y
-│   │   ├── apocaly0.vom
-│   │   ├── apocalyp.vom
-│   │   ├── apocalyp.vxe
-│   │   ├── jeru-b0f.vxe
-│   │   ├── jeru0110.vom
-│   │   └── jerus~14.vom
+│   │   ├── apocaly0.vom [892799b9f5fa42f09c6b464d1d9c5bd1998c1258ef60bdb4e7a9afd10612ac21]
+│   │   ├── apocalyp.vom [c28d7a6588812f530d9c17a2a905247b4d5676bc16f0c6338634e92218097e0f]
+│   │   ├── apocalyp.vxe [5198958ed010a3bbebf1b903bea37f5f22b41bf2696852ef1935a7135b6c8ca8]
+│   │   ├── jeru-b0f.vxe [ab7585aabf63703475b2132342a520b245b9abf6fe6f14b665cf1b4719158d15]
+│   │   ├── jeru0110.vom [d0f5c36c40980c384e486e42f72b5e198d718312946cf88a7ae0119f42c1456e]
+│   │   └── jerus~14.vom [baac2209a631595e654d32a981fa68a9a4ffbd3a60200de4cf65ee19e2457d82]
 │   └── z
-│       ├── jeru0290.vom
-│       ├── nemesis.vom
-│       └── nemesis.vxe
+│       ├── jeru0290.vom [37bd654430cc987ca2413319515aaa49842fdb15396a17d45ec113b542cfd9ab]
+│       ├── nemesis.vom [d9e406f25a1f17b5b34c7134af475ea62bb847373087509e49be4a2c318d29eb]
+│       └── nemesis.vxe [a57183186d2c88ec8b38f11e814c2d7d83da7dc9b4ed6ff7ce2c7d91eceaa808]
 ├── 1824
 │   └── e
-│       └── virus.dos.jerusalem.1824
+│       └── virus.dos.jerusalem.1824 [b194c2dc1908166eb87ce78528c1900881ac2415abe27205537edee0f2e4f8b4]
 ├── 1960
-│   ├── j-1960.vxe
-│   ├── j-haifa.vom
-│   ├── jer1960b.vxe
-│   └── jeru~126.vom
+│   ├── j-1960.vxe [98a8328793c379a3f3d107b2c6abfb7284f8a397cc102e184bd5beb45b0f6056]
+│   ├── j-haifa.vom [0eeef7c138bc4dc6f890a775df186c1997491b47a6eec703033f9e4f3954b44e]
+│   ├── jer1960b.vxe [ce1d91f5a0b507cc3c18785fa4783d879ccc5b4eab51e428e88756fae2965a8c]
+│   └── jeru~126.vom [4330e63f73e9e3a16842e6897077cf906022fdcd9cdcf7952bd9fbf7d61a27ff]
 ├── 1968
-│   └── Virus.DOS.Jerusalem.1968
+│   └── Virus.DOS.Jerusalem.1968 [a66211f9dc034458ca48443db3ec17f182e46c72565c287c31eea561e3556583]
 ├── 2000
 │   ├── b
-│   │   └── wci0152j.vxe
+│   │   └── wci0152j.vxe [a326fec8c7bebaea7fb78aefc506225036f3cbe02251945c4350e3e9928b99c0]
 │   └── c
-│       └── virus.dos.jerusalem.2000.b
+│       └── virus.dos.jerusalem.2000.b [ae9836825c381c7e9061a1cb37bd254d8b6c1158fb348cffe81020c226f7082a]
 ├── 2012
-│   └── virus.dos.jerusalem.1012
+│   └── virus.dos.jerusalem.1012 [c5e34304a14af81d8a8642d8544d878c526060bbe11267ddb50ab64ea47f4871]
 ├── 2128
-│   └── max00020.vxe
+│   └── max00020.vxe [ee0ea3d106273d6f0cd0bc0460f491d06d55c3cddaf4853f363661c6b40f8f33]
 ├── 2132
-│   └── jer-math.vom
+│   └── jer-math.vom [772f9b978e9610d61bd3f9b6a5113339fde68e510b6e35a2101322a3c1f56499]
 ├── 2187
-│   ├── fri_2187.vom
-│   ├── jerus~63.vom
-│   └── jeru~127.vom
+│   ├── fri_2187.vom [61b3a30a5654743600933605747da331c530919f8b1c100f453954c7ed8e22e5]
+│   ├── jerus~63.vom [b3924d7f28ac885f31b86af6bf895eebbc26dbaa21e666c221e573c2efd756fd]
+│   └── jeru~127.vom [7653bf7d1e3087ed7fa192d3c2e32d57672b4e3fc5a3a792d5586c61580a5306]
 ├── 2223
-│   └── jeru2225.vom
+│   └── jeru2225.vom [aa7436c8f419483bb9c18573cacd3f1b11b32e79b682ad0af9b20bb253e0495e]
 ├── 2229
-│   ├── fri_2229.vom
-│   └── test2.vom
+│   ├── fri_2229.vom [f1700c169d8877c7673bb00eabc92c6d115da348c01b948e35d05509da2819a0]
+│   └── test2.vom [c7bdc9fc846c1e6815e255c6fac119ea3f8221cf63ca3b1d7a23e19222db2edc]
 ├── 2291
-│   └── virus.dos.jerusalem.2291
+│   └── virus.dos.jerusalem.2291 [061898323c61348118301dc65b131d973e49279732e56d6b9058b89e3af79236]
 ├── 2368
-│   └── virus.dos.jerusalem.2368
+│   └── virus.dos.jerusalem.2368 [3c3e791413b9d7e183408659470c4a10e4131a373f55b3880e54b873d559e927]
 ├── 2389
-│   └── Virus.DOS.Jerusalem.Atb.2389
+│   └── Virus.DOS.Jerusalem.Atb.2389 [72b468d0e4b4c4071b09d4f1839538204799b3c7ca6b5d2f3738f73c35e1cf83]
 ├── 2465
-│   ├── et16v-16.vom
-│   ├── fri_2465.vom
-│   └── s-ice.vxe
+│   ├── et16v-16.vom [da8a9a9a3fcb7699968c6df9cad319ff25102ec224920779ab638dbf67b8a35f]
+│   ├── fri_2465.vom [66b9a7ad9cc86336106adf3bd2faf4d61d299660c582fc36f8c84c62f70e9f15]
+│   └── s-ice.vxe [155e47dcfe8b031b35d3621428bb38ebdfbaa7bea3192d7c6ce2b07468d05680]
 ├── 2472
-│   ├── 2472.vom
-│   └── jerub.vom
+│   ├── 2472.vom [d5657cf366e19d4041bf840a60ad279c98e1c57027dc2984e7c8642f55b746e4]
+│   └── jerub.vom [d33745a5ca386edc865592245bc801a8fe49b911328cc5c7df62b73dd0efaf36]
 ├── 2490
-│   └── Virus.DOS.Lunacy.2513
+│   └── Virus.DOS.Lunacy.2513 [6830d732204ea876bf7dc566d7bc8ed63d6996f8863d359683e9bb4d6ea25366]
 ├── 2758
-│   └── smartbom.vxe
+│   └── smartbom.vxe [05177df3c83491f30dccf41a8640d2d58d2502d2ac2e86db21644997f832de90]
 ├── allsystem
 │   ├── 313e2699943de9c353b0ce3b7f2ebdfffa99a58e7e137724e9ef71f68ac5bc5f
 │   ├── 4ecdf2d10fd9f813e48aaf953c019f782f74d9b0d8b2ba3973bc19ef78b69ee6
 │   ├── 5ddc11842b224a56a8c320d91bc970e3a044d54bca50fa65b550bf2664e5a3b4
 │   ├── aed054db0d0d3774782ea70915f016e41df0143f2e65152df48bc423244c06de
-│   └── wci0173j.vxe
+│   └── wci0173j.vxe [bebbe433de4917591b7a407b7794187e3d2d3e55753ea956462b303ba0c25a4d]
 ├── anarkia
 │   ├── a
-│   │   ├── anarki-c.vxe
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t4.vxe
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   ├── t6.vxe
-│   │   └── t7.vom
+│   │   ├── anarki-c.vxe [bf6bf848f269587bf4d4c95731aad66c2e2d136efd2ee76c91071dee60865b61]
+│   │   ├── t1.vom [ae68924d6e6f8fa9fd31d8a6c4201f48b73c679e8fd530a89234311e156b7efa]
+│   │   ├── t1.vxe [98055ab785a16792dcb2b5da6f806c632a5ec628823390435f338c865fd6ffb1]
+│   │   ├── t2.vom [632384a9f49642e208d4190db401317467ce272164de7cba0a3c83bde3fb1a5e]
+│   │   ├── t2.vxe [8de45eb80ddd300b89eccb9e9d716ebd5b2efe7a4b6d4ba8ef66c331317a9bd0]
+│   │   ├── t3.vom [3b6844184926792cdbaa5a81c0feb7aa6808b285c25f870b0b040f6ce201a427]
+│   │   ├── t3.vxe [9cdf15a429727c210151ef26f3a76332d348ff53c620bb2155506f803c42eef9]
+│   │   ├── t4.vom [4d803da81cb65370ef1ac7adf3fce1753629453e6299046d17c1df899d6ac9d4]
+│   │   ├── t4.vxe [b383e0a94c7c0b9f3f982fba0bd499c2ae780e2b1ca0e3d87f5784773ab465cc]
+│   │   ├── t5.vom [b00d5f9a0b4e12948fe927552dfdb60726118b841acf33e6269dd72223d403f4]
+│   │   ├── t5.vxe [4818d6c336cc77ba4275fd70e18ee1208a1c56f00dedf371c541908ae0032bf3]
+│   │   ├── t6.vom [8e2b2a8af6d41c4a188524e3823a039882ade9b9c048b360a8684c2aa0b83a84]
+│   │   ├── t6.vxe [fa29bb62fd4fd0f4012511c0675d4b9124b4a88c96b5f23ae82a7ba9ca5e5141]
+│   │   └── t7.vom [8c9e75e01e963dc857f3a777d103366b27bc3a1ddc4d4e09832ef4129cc59013]
 │   └── b
-│       ├── anarkia.vxe
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t2.vom
-│       ├── t2.vxe
-│       ├── t3.vom
-│       ├── t3.vxe
-│       ├── t4.vom
-│       ├── t4.vxe
-│       ├── t5.exe
-│       ├── t5.vom
-│       ├── t6.vom
-│       ├── t6.vxe
-│       ├── t7.vom
-│       └── t8.vom
+│       ├── anarkia.vxe [c1cf09b5c92094fbc9d0611175e7614df63388e8da271ad7dd90ea395cd0db25]
+│       ├── t1.vom [1c6e9903eb9cd83ea480628aa14471b1638b9d99f95bedae65e0d51241d007db]
+│       ├── t1.vxe [f91209c09733b1e0ec47a30a012980c6ce532bde3c466470b0c1cabe84fb77a7]
+│       ├── t2.vom [ec69668b85799415f6996b522515233e4c166b95ccc4eb383fbfbdb56697ef14]
+│       ├── t2.vxe [771be56fe33d560174ac4628b44b35bb8b3cba85c36d1fecc69ace48454b90f6]
+│       ├── t3.vom [41d742d45cf375653b79c15adb241fb8ab3d7e772cad1b82fa9ecb97facb2d3f]
+│       ├── t3.vxe [86608849895620eb2125eb796df3cf79f559cabcb1b097f665e3089f10cfafe1]
+│       ├── t4.vom [86adc0c87436a78dfc1f403003772e9795317d0e50d745e75c76302d81c824c4]
+│       ├── t4.vxe [c7673aab6fc0b3dd9e8040ccddc14e09e66851fb9a07d53b4b5b6fa050935051]
+│       ├── t5.exe [e736857ade752828d08ad4e9be540dd5722d17f581e2510b3b7d6a5ab0e4e408]
+│       ├── t5.vom [0d1e0e72478e79d08e0bcfcc0054a3f7f1d8ab68ab86713b25f807f16f861d55]
+│       ├── t6.vom [7c0b2855787826a1bb03d6ad2f308dc77f8c000a27c5ccf3235ddc4c60d41948]
+│       ├── t6.vxe [532a3b95966f9cacd686ff8727b2383f8d6150f18aea4a6426cfdd03d1fe8b79]
+│       ├── t7.vom [85e4b200eed1d64e1ecc532627bad8393f9e4b0339a9fe90ae135bac27d6b582]
+│       └── t8.vom [52d552c7a8a5ca04360db998b1acaa9f058c4f8c6a41dc4583784389e48e62f4]
 ├── anni
 │   └── 1596
-│       └── virus.dos.jerusalem.anni.1596
+│       └── virus.dos.jerusalem.anni.1596 [aae9ea69a691148d93be8a97f3198d2b9025b89c5cbc4d671e97275fe8ec2615]
 ├── antiscan
-│   ├── 1-je1605.vom
-│   ├── 1-je1605.vxe
-│   ├── 1605.vom
-│   ├── 1605.vxe
-│   ├── 1605_.vom
-│   ├── 2-je1605.vom
-│   ├── 2-je1605.vxe
-│   ├── 3-je1605.vom
-│   ├── 3-je1605.vxe
-│   ├── 4-je1605.vom
-│   ├── antiscan.vom
-│   ├── j-ascan.vom
-│   ├── j-ascan.vxe
-│   ├── jeru0430.vom
-│   ├── jeru~118.vom
-│   ├── tel_aviv.vom
-│   ├── telaviv.vom
-│   └── telaviv.vxe
+│   ├── 1-je1605.vom [46e93aa3360aca089e20768a256fcdde2dd725e0f529115d344bc720c3ab9223]
+│   ├── 1-je1605.vxe [badff17ac5346118ec7be21353b0dbdb66d233c1618c510684863da22b3019c7]
+│   ├── 1605.vom [909b5264b209139fbefa668d6c4367d948c2e0bcbc0bbd4c275046be64d4ba0c]
+│   ├── 1605.vxe [7d3994541268f301d2708b14c4bc01f7b4a2e6ba2af0423f8265321ce0695684]
+│   ├── 1605_.vom [01c815b22d7da0978905bbd764b732859ea11e7263e00264937ff60ce86dcad7]
+│   ├── 2-je1605.vom [3bc785d61232654431bacd8af8c013b91e85b9e12a1924c6a9ee3b08fe4537de]
+│   ├── 2-je1605.vxe [c3cb3af491903dadd59f6cd3468c16f290b0d6bc5ada498f6f5d76062e72f000]
+│   ├── 3-je1605.vom [6637dc346efdffdc71bce8e36b63739c989516aad8541d5b00e66a0723bbd764]
+│   ├── 3-je1605.vxe [702c454f919226056e3dd672f59d50bf5e85fd6306047cb81f278c2969671142]
+│   ├── 4-je1605.vom [08efe2927acca89cb8caa0d8732db99d071a6dab5a2efa5af63f3d26c459d574]
+│   ├── antiscan.vom [a14b0b35fcc368210093c611868db8f78058c2b44e12ffc84a34d857a52d17f6]
+│   ├── j-ascan.vom [85b547d281248a6b3e6c5de84b0d2093c2a1b8d8b25d93eb66fb71fa50a947c6]
+│   ├── j-ascan.vxe [928da8fc60fba628fb6b880cc0708d1bd1c7a702b2edf10f8e60762c077fe3f5]
+│   ├── jeru0430.vom [18d1f7206ed5d94e37a135ef865f08652ea0005903426edd4429acba26e35f75]
+│   ├── jeru~118.vom [107db165d5ea3c79ecc40aa66827f52a812d3e50a88638f03b5342677db35a01]
+│   ├── tel_aviv.vom [c8311fe856da8a65632e51f635c57ef233b2fe9380b4c352b3cd85a73bb4ec37]
+│   ├── telaviv.vom [f95b74adb75771c766c6d088e1ab755e9bdd8f646db134f1a27e7ce5645db6c1]
+│   └── telaviv.vxe [d4ae9ff7830aa07ca0c8a9f362fc4718062539d2c3d144105f655f111ff453e7]
 ├── aurora
 │   └── 1478
-│       └── virus.dos.jerusalem.aurora.1478
+│       └── virus.dos.jerusalem.aurora.1478 [cb9fb3647d4ee5fa6924d1de52718db1c306da220f14c034451f6777a6b26f12]
 ├── barcelon
-│   ├── j-barcel.vom
-│   ├── jeru0440.vom
-│   └── jeru~134.vom
+│   ├── j-barcel.vom [ba52b13ea3f4151e9c3277569db09c07eb4fff441fe5097dbc36ba5e3185978e]
+│   ├── jeru0440.vom [26820fe6830d0d8e508f2debf3e7516979427d04a2259a4dd995a0ded9810948]
+│   └── jeru~134.vom [8d10a092582c6c2fd804641c6e6bba9a6d3ceee1e89ad463579c48d6a21f72ec]
 ├── bsa
 │   └── 2116
-│       └── virus.dos.jerusalem.bsa.2116
+│       └── virus.dos.jerusalem.bsa.2116 [3e70e513e0fcb168364671b7ad58b8f52bf93a67287ceb4b1d4ba8ff87de335b]
 ├── bupt
 │   └── 1363
-│       └── virus.dos.jerusalem.bupt.1367.a
+│       └── virus.dos.jerusalem.bupt.1367.a [f371ef7f0536681203fb48b6d1d9d78658f09465bb730c5d7b2db43f4e472dc5]
 ├── carfield
-│   ├── j-carf.vom
-│   ├── jeru0450.vxe
-│   └── jeru~115.vom
+│   ├── j-carf.vom [eee6f38a06b9e7678eab2b54e3d89e1049e0280db739e13a2c825a7f75239378]
+│   ├── jeru0450.vxe [34f891168edc134a02e6d78aca1c5c4f620234c11d84e9e5b117c774d07c79ec]
+│   └── jeru~115.vom [a829bf3be7d4fbf7e4462397031d36c661708fb731efbd221be4a1e4b4981acc]
 ├── clipper
-│   ├── austclip.vom
-│   ├── clipper.vom
-│   ├── clipper.vxe
-│   ├── jeru0460.vom
-│   ├── jeru~114.vom
-│   └── v4175.vxe
+│   ├── austclip.vom [0618867f05030b57cc48822bff54c4001b86ebbcd0b724bcb319a844c5cf764b]
+│   ├── clipper.vom [c663ae1248694e5e73e4bb3259d6b329cd2fa01032ebcede926aab4ab1ed547c]
+│   ├── clipper.vxe [39e3f0bb078ad70dd894eb1ca983e8f0cef314686df969668eb195c65484328f]
+│   ├── jeru0460.vom [9a1b978b2f808def68def6e0e6ca34dcc75bc83734cc16fe5b54e691216d99a6]
+│   ├── jeru~114.vom [6299f76b0abd6b48c554e654a34afea1e8647b43df78423bcf16851f8268c2ed]
+│   └── v4175.vxe [7c4b96aafd0d4eb0155c8d9de0426a7b4bb481ffcb8f28cffad34665c71c1934]
 ├── corsair
 │   └── 5120
-│       └── virus.dos.jerusalem.corsair.5120
+│       └── virus.dos.jerusalem.corsair.5120 [1568c0a82fd3410f2870d0d24d5242b8d10fadc32d8a0c4c8c8905b2f4458e76]
 ├── curse
 │   └── 1653
 │       ├── a
-│       │   └── curse-a.vom
 │       ├── b
-│       │   └── curse-b.vom
 │       ├── c
-│       │   ├── curse-c.vom
-│       │   ├── t5.vom
-│       │   └── t5.vxe
 │       ├── d
-│       │   └── curse-d.vom
 │       ├── f
-│       │   ├── t5.vom
-│       │   ├── t5.vxe
-│       │   ├── wci0056j.vxe
-│       │   └── wci07261.vom
 │       └── g
-│           └── jerusale.vom
 ├── cvex
 │   ├── 5120
 │   │   ├── a
-│   │   │   ├── cvex.vom
-│   │   │   └── cvexiii.vxe
 │   │   ├── b
-│   │   │   ├── cvex4.vom
-│   │   │   └── je5120b0.vxe
 │   │   ├── c
-│   │   │   ├── cvex5.vom
-│   │   │   └── je5120c0.vxe
 │   │   ├── d
-│   │   │   └── cvex6.vom
 │   │   ├── e
-│   │   │   ├── cvex61.vom
-│   │   │   ├── cvex610.vom
-│   │   │   └── je5120e0.vxe
 │   │   ├── f
-│   │   │   └── cvex620.vom
 │   │   ├── g
-│   │   │   └── cvex630.vom
 │   │   ├── h
-│   │   │   └── cvex7.vom
 │   │   ├── i
-│   │   │   └── cvex701.vom
 │   │   └── j
-│   │       ├── cvex702.vom
-│   │       └── cvex702.vxe
 │   ├── 6144
-│   │   └── cvex710.vom
+│   │   └── cvex710.vom [626e90492908a05c12b2494a538ff11f04363ca1f639dd02e50177820a7fba26]
 │   └── 6400
-│       └── cvex720.vom
+│       └── cvex720.vom [75415d577c6988b68884cc57f8a62571eee5d315b2868a9161b2cb1ba9858d99]
 ├── czech
-│   ├── 1-je1735.vom
-│   ├── 1-je1735.vxe
-│   ├── 2-je1735.vom
-│   ├── 2-je1735.vxe
-│   ├── 3-je1735.vom
-│   ├── 3-je1735.vxe
-│   ├── 4-je1735.vom
-│   ├── czech.vom
-│   ├── czech.vxe
-│   ├── ha!ha!-b.vom
-│   ├── j-czchb.vom
-│   ├── jerczeha.vom
-│   ├── jeru0480.vom
-│   ├── jeru~120.vom
-│   ├── sund.vom
-│   ├── sunday.vom
-│   └── sunday1.vom
+│   ├── 1-je1735.vom [2a02348419444ebb51813b93821fb90dbdaa191f6dab69b4a3144271f9d1090d]
+│   ├── 1-je1735.vxe [bc589186a242fc10cdbb2e80abb49589961dfa781ef000575f9d3ed26040b3e3]
+│   ├── 2-je1735.vom [0fb7c1a8b56621a02746708becb114969eee76266942dab51644437a9dcdc234]
+│   ├── 2-je1735.vxe [03f6773d1db717f3df747a1b399bcce31b84529b6216d88ef9c2fa37e6f8e199]
+│   ├── 3-je1735.vom [1eab0d8b2df91894e5b2ce9b3849636aba47608dcd219f5e5836bcde17633cfb]
+│   ├── 3-je1735.vxe [06b95640c5111609c690c5856041b790068c167bec0119ddec742c82ef0ee961]
+│   ├── 4-je1735.vom [bccc909c2c9d6bd29a835ee03fa4a3283e0d3a8180e68a96f01d969cd81abba4]
+│   ├── czech.vom [8a3c7ccfaea3b0392b8b77d36cb53faa3597e8293cd080db3318502b81b274b3]
+│   ├── czech.vxe [ef84da7f95e15465eecc977a1cc9e1ce7dd3800b968dc4fdbc0fe9c954c742c7]
+│   ├── ha!ha!-b.vom [43813c3258e928dbd2f12e1ae29e272baacb138580d710a5cc4340aab83a431b]
+│   ├── j-czchb.vom [088722d3c747fd0aecd3a863b8f55e7386639b94000800f8306c9e3413e53e0c]
+│   ├── jerczeha.vom [cc06cbb4ef5af692a691e60cbbef7d532979951193c57d1f23261483b3627bbc]
+│   ├── jeru0480.vom [8801b703cb6c6ad441d64e358f6b100b1ed67bb5af5a12804706aeafeba1582a]
+│   ├── jeru~120.vom [2180e4aecaf217d30b896d0919b5ce753025c73624652d75045c8a4b3855e64e]
+│   ├── sund.vom [881ab49a13ead2ea1b5813e1efcf91458ed223b9f17dc7ac654256af84765c24]
+│   ├── sunday.vom [1f2f3b8a920d8dee9bd28e27c93060ed8cfa7424312e5b4de4adf963de8f2d99]
+│   └── sunday1.vom [15f3976f4aac88fb0565496ec80c303b6980a3f853e3254df5dbf4f608f70b57]
 ├── discom
-│   ├── 1-je2053.vom
-│   ├── 1-je2053.vxe
-│   ├── 2-je2053.vom
-│   ├── 2-je2053.vxe
-│   ├── 3-je2053.vom
-│   ├── 3-je2053.vxe
-│   ├── 4-je2053.vom
-│   ├── j-discom.vom
-│   └── jeru0490.vxe
+│   ├── 1-je2053.vom [da9961e8b1e401d07696a70b28331e409efb9a6f86a53a2281e933e9bc9540f7]
+│   ├── 1-je2053.vxe [6977d32e79aa8d02aebc3e24b252d7099a6941f29507c84913537437ea16053d]
+│   ├── 2-je2053.vom [5fad44aa8e8ee3ef42c8040cf85e432d67c0e39333d09e395d2798aa177e86b2]
+│   ├── 2-je2053.vxe [602d187ed01efd01d743ec5b756e21110291064a09de499d08062f966a2903f9]
+│   ├── 3-je2053.vom [11c92f41281f3bbb6b8a250b6999045664c06ac471d218ea1deddd4dcc0fbcbe]
+│   ├── 3-je2053.vxe [7d8acb1325f84b8624ac355b25c5e3486e1e897c7889a148b68f43cb568c6ab7]
+│   ├── 4-je2053.vom [e742edd9a69283c3c8332315af6eddc8973667e58b6923aed57dd0677b945341]
+│   ├── j-discom.vom [29b6269b3a030921d5b424c3026b2e67918541fc706e3aa603473ec095fd29d1]
+│   └── jeru0490.vxe [1e439d544617d09441d33da23f24097cc8ce7d3405a63e1a3d7586e9098eb82e]
 ├── doomsday
 │   └── 1455
-│       └── virus.dos.jerusalem.doomsday.1455
+│       └── virus.dos.jerusalem.doomsday.1455 [abe4019c11044f54a70a9143580ad077d8cc6651763ff35ef19303fe42b5dd16]
 ├── einstein
-│   ├── einstei0.vxe
-│   ├── jeru0500.vom
-│   ├── jeru0500.vxe
-│   └── jerus~78.vxe
+│   ├── einstei0.vxe [034186c773ea19af31938fc0f341662205b16da12c26975857592ad6c4687d21]
+│   ├── jeru0500.vom [efcc77157e4a5dad6032a84751ca8bfac26988bb7cb79f55f75aa5d569bbf644]
+│   ├── jeru0500.vxe [edae6d50d7a517707b9924db332242221040381e7c90e503e6a2543f575807f5]
+│   └── jerus~78.vxe [635c8d52d8593c86a11b50a1d35ae04c86b6c0ea78b87c4e0ccfaac830505429]
 ├── elect
 │   └── 3887
-│       └── virus.dos.jerusalem.3887
+│       └── virus.dos.jerusalem.3887 [6afcc3af388a30113148a4442e1c45c3cde209229cb8030c76a377826baa2fc8]
 ├── enigma
 │   └── 1664
-│       └── virus.dos.jerusalem.enigma.1670
+│       └── virus.dos.jerusalem.enigma.1670 [fc5e415f44a9b417ff232589fdb2d58cb3217e2d42823c72e233de01cf5da5b1]
 ├── eos
-│   └── virus.dos.jerusalem.eos.1813
+│   └── virus.dos.jerusalem.eos.1813 [aab1921b90d57c22c74e631d46e81ea7323b3be5b2744c785af42c9ca0e9528c]
 ├── eun
 │   └── 1975
-│       └── virus.dos.jerusalem.eun.1975
+│       └── virus.dos.jerusalem.eun.1975 [950f9567d90dc85da846264d527198c5ab8ab63cfe0cce5db614c8f9000f6331]
 ├── frisk
 │   └── 1459
-│       └── virus.dos.jerusalem.1459
+│       └── virus.dos.jerusalem.1459 [e4f39ca83bac049d023f5fcf8373b22e5f8e30d9370ab7b40d85f8590410744d]
 ├── fu_manch
 │   ├── 2076
-│   │   ├── wci0286f.vxe
-│   │   └── wci04752.vom
+│   │   ├── wci0286f.vxe [abc6c6aefe539611be7f07f35eca07e20bc4ce06e41b274e7aa536296ec51ae0]
+│   │   └── wci04752.vom [5e120b9b282f2d780b1396379e5fc3a229d7a34447a9edcde0806ef3c2fe7028]
 │   ├── 2080
 │   │   ├── a
-│   │   │   ├── j-fmc-a.vom
-│   │   │   ├── j-fumcha.vom
-│   │   │   └── jerus~71.vom
 │   │   ├── b
-│   │   │   ├── 1-fuma_b.vom
-│   │   │   ├── 1-fuma_b.vxe
-│   │   │   ├── 2-fuma_b.vom
-│   │   │   ├── 2-fuma_b.vxe
-│   │   │   ├── 3-fuma_b.vom
-│   │   │   ├── 3-fuma_b.vxe
-│   │   │   ├── 4-fuma_b.vom
-│   │   │   ├── fuman.vom
-│   │   │   ├── fumanc.vom
-│   │   │   ├── fumanchu.vom
-│   │   │   ├── fumanchu.vxe
-│   │   │   ├── j-fmanb.vom
-│   │   │   ├── j-fmanb.vxe
-│   │   │   ├── j-fumchu.vom
-│   │   │   ├── j-fumchu.vxe
-│   │   │   └── jeru0510.vom
 │   │   ├── c
-│   │   │   ├── 004.vom
-│   │   │   ├── 006.vom
-│   │   │   ├── 011.vom
-│   │   │   ├── j-fmc-c.vom
-│   │   │   └── jerus~78.vom
 │   │   ├── d
-│   │   │   └── fum2080b.vom
 │   │   ├── e
-│   │   │   ├── manchu-a.vom
-│   │   │   ├── manchu-a.vxe
-│   │   │   └── manchu1.vom
 │   │   ├── f
-│   │   │   └── wci01922.vom
 │   │   ├── g
-│   │   │   ├── fu_manch.vxe
-│   │   │   ├── t1.vom
-│   │   │   ├── t1.vxe
-│   │   │   ├── t2.vom
-│   │   │   ├── t3.vom
-│   │   │   ├── t3.vxe
-│   │   │   ├── t5.vom
-│   │   │   ├── t5.vxe
-│   │   │   ├── t7.vom
-│   │   │   └── trace.vxe
 │   │   ├── m
-│   │   │   ├── jerusale-001.vxe
-│   │   │   ├── jerusale.vom
-│   │   │   └── jerusale.vxe
 │   │   └── n
-│   │       └── virus.dos.jerusalem.fumanchu.2080.b
 │   └── 2083
-│       └── jerusale.vom
+│       └── jerusale.vom [23ed618c79dd1f57f834b0bfc5d57700be2c749aa23e50d4e6f1df667863cb69]
 ├── glory
-│   └── glory.vom
+│   └── glory.vom [a9644e0ca5dbcdf0be279d81cdca6a85137c1ae1fc92259c237d2851b9eaa587]
 ├── gp1
 │   ├── 1533
-│   │   └── gp1813.vom
+│   │   └── gp1813.vom [57c30453808fe75009dd40da8b478a693be93bb730a7e31f72fc91834fbb6e06]
 │   ├── 1557
-│   │   └── wci4109_.vom
+│   │   └── wci4109_.vom [c771d7f5b23afb861319c639f17a0d3aa6035617863fa2904ec9fdac1ec62a41]
 │   └── 1558
-│       ├── jeru0520.vxe
-│       ├── jeru0521.vxe
-│       ├── jerus~43.vxe
-│       └── v4210.vom
+│       ├── jeru0520.vxe [ca623be720168c911385359d8d680b73b6b9c5a80a8f93e3c38605627f8f878d]
+│       ├── jeru0521.vxe [2d34f1133331599d04df40eca89b4024f66b1929d48b5e63313bbc86599cf49c]
+│       ├── jerus~43.vxe [aaf2b4fdd119717776235512e085872d40b1cfdd0f117cfc9cba3898ad4d0504]
+│       └── v4210.vom [831136b328161d3ad47ceb959ccf51310388a7fd81360d9db9ef97cda8cfc2ff]
 ├── groen_li
 │   ├── a
-│   │   ├── j-glnka~.vxe
-│   │   ├── j-groena.vom
-│   │   ├── j-groena.vxe
-│   │   ├── jeru0530.vxe
-│   │   └── jerus~80.vom
+│   │   ├── j-glnka~.vxe [cd5c14bd234ae23ab50829ae86134b31241de02d0f1598180f78fdb1a556b467]
+│   │   ├── j-groena.vom [6c4935cdc229074aceb8a35275a4c7ae0c68d4d2f08b7d766b8392f8292037e3]
+│   │   ├── j-groena.vxe [c02f5d770ecbfff6793094998b0fdebf2276f3d470214580d0a53e8fd2405725]
+│   │   ├── jeru0530.vxe [c5202fe5bef933a5d232b856ed6eb3494c2cfff4f7b8a9f13bbd4a190b6c3733]
+│   │   └── jerus~80.vom [da3a32bb557eeeab07fd1c71bc3fea2b54b7e3fe40c60736d0b17cb7deb1d25a]
 │   ├── b
-│   │   ├── 1-groe_b.vom
-│   │   ├── 1-groe_b.vxe
-│   │   ├── 2-groe_b.vom
-│   │   ├── 2-groe_b.vxe
-│   │   ├── 3-groe_b.vom
-│   │   ├── 3-groe_b.vxe
-│   │   ├── 4-groe_b.vom
-│   │   ├── groen-b.vom
-│   │   ├── groen-b.vxe
-│   │   ├── j-glnkb.vom
-│   │   ├── j-glnkb.vxe
-│   │   ├── jergrb2.vom
-│   │   ├── jeru0540.vom
-│   │   └── jerus~81.vom
+│   │   ├── 1-groe_b.vom [58e8bd177481b9b65af802b3172bcd689dc95243d18c3e25d87acad480c35fe8]
+│   │   ├── 1-groe_b.vxe [aa73ce105fd7637ea22e854c0cd44a1b4d03117954e05f8407d780d587730495]
+│   │   ├── 2-groe_b.vom [324fb5999d582db9773cb1a944a3691e66bda09b7336d1832407367365219586]
+│   │   ├── 2-groe_b.vxe [7738510f4cd06f2be279028eb65d678f26930eb4ab6bf5878dcbcb2b3bbc5609]
+│   │   ├── 3-groe_b.vom [e252083966cf480800f5900d0bbeb85c0edf6a057b46e67b35c530576786e332]
+│   │   ├── 3-groe_b.vxe [08166cdc3191f90441489ac1ede13b5c2e3b1e078c569dc00bef9f443d868c28]
+│   │   ├── 4-groe_b.vom [3494015fb5b21a7d974ce779a80db5fb2fb9da5fccaea6053e636d9cbe8069a5]
+│   │   ├── groen-b.vom [6eb0328329104165e6d42fe069257d41266302cacd6e3374af31a885f9f7bc0c]
+│   │   ├── groen-b.vxe [132afa2b83779d9675e3959161f362fcf9af9882099be2900e1547f905424d29]
+│   │   ├── j-glnkb.vom [4a7aa048f53b79a6e484f8be1853871ad16731ef045719e841b5feb315f7695f]
+│   │   ├── j-glnkb.vxe [177365ea4b7dcb52c42b4d944765b55839b0d853c2a78c9ab8b85d7b26678c8e]
+│   │   ├── jergrb2.vom [8a3cca4321a2b3cc4573f6de9230f323b0783990f7af641dc2f9ff0b45bb778c]
+│   │   ├── jeru0540.vom [1ee41ae095e53fca83b25144c4fd5fe8da2cd22f1a102c77a694570148cbc394]
+│   │   └── jerus~81.vom [def812d04a47108ca8a8b49548e365933702a187ab566b2bec5575aa9aad69fa]
 │   ├── c
-│   │   ├── groen-c.vom
-│   │   └── jeru0550.vom
+│   │   ├── groen-c.vom [0a08aedc2790d7dfec2d69b4b7d01ed425b5fb5ebfd0229eed232e574a639242]
+│   │   └── jeru0550.vom [0675a6704725b2e7bb751884bbdba77859fdef31b27bd6042aea4a1b037a9d5c]
 │   └── d
-│       └── jeru-f2.vxe
+│       └── jeru-f2.vxe [cfeb60a420bb997782480e41c717c6a9878de1def823dfc37dec09a07543f0cb]
 ├── hermanos
 │   ├── 2015
-│   │   ├── diablo.vom
-│   │   └── hermanos.vom
+│   │   ├── diablo.vom [9324c9ef97591f5fad3649bf1a8a19d99206910ad55810beb27ea2714102b026]
+│   │   └── hermanos.vom [0e0ca530fb2a8d8da25a81d75e5439b71448dd3282891f698539944f449d04a5]
 │   └── 2777
-│       └── her2777.vom
+│       └── her2777.vom [457f3a759fdbcd637d2789cb42d7e617548daa0034aae2ff5437dda7a5dfcd44]
 ├── ira
 │   └── 2437
-│       ├── 1-je2437.vom
-│       ├── 1-je2437.vxe
-│       ├── 2-je2437.vom
-│       ├── 2-je2437.vxe
-│       ├── 3-je2437.vom
-│       ├── 3-je2437.vxe
-│       ├── 4-je2437.vom
-│       └── ira.vom
+│       ├── 1-je2437.vom [26b63d1ce0eb34c6267e5e80d3942ac70f29d77fe700208d515bde42bbddc2db]
+│       ├── 1-je2437.vxe [6db479e45f8e6a84b042d4a544e5d3509de66d2bad4c36dd10b0bd98308177c9]
+│       ├── 2-je2437.vom [029b3ad5338d85d33df4ba0456faf68f66c06b4c2cb70bbe93465d8f73a1ec10]
+│       ├── 2-je2437.vxe [3c0ab833861b35b7b4043b48a93846d8aa91ee28281d3d17b399bd1264552fd5]
+│       ├── 3-je2437.vom [fb8adb0d0a55b2bfd10a0c0a6c92b358465e87f661c1f84921c1a1facd7c1297]
+│       ├── 3-je2437.vxe [0482928de4d1e2332995cd7b863ab5f70ab3ba9b416619c9c616ec096e12ca06]
+│       ├── 4-je2437.vom [a37bd18d360cd80f46161e7586b10b557d02beea66af303fe974476f4e99f931]
+│       └── ira.vom [02e3fadd5c18534e15ae6045b5f33ae92eb1ac2502e70c688f8be3219725e7fc]
 ├── june13th
-│   ├── 1-june_a.vom
-│   ├── 1-june_a.vxe
-│   ├── 2-june_a.vom
-│   ├── 2-june_a.vxe
-│   ├── 3-june_a.vom
-│   ├── 3-june_a.vxe
-│   ├── 4-june_a.vom
-│   ├── june13.vom
-│   └── v13june.vom
+│   ├── 1-june_a.vom [44dc070d3b7a71f97f5b73752b81af6c70f3874e42d1a25bd9fdf0a9699a788b]
+│   ├── 1-june_a.vxe [a7db415b31f16d09b0bd0e69d22580233dfec0b4e5dc64474c323c735846ba38]
+│   ├── 2-june_a.vom [18e6f9ad0ef40539014982f3add9239b802a67dffd4715a7317259c1b6bfe15e]
+│   ├── 2-june_a.vxe [b0b64e574c1e1109dfadc2ab68f6734de3bac999be2a2e9e577cb994af5cc717]
+│   ├── 3-june_a.vom [aac71094f5087f6d09884403977fd74573dc5503a077e35b1403d06764603bb8]
+│   ├── 3-june_a.vxe [98aef2ff555256dd6f224d2ee9d7e7b08671e3bce045492c3b5d981157d7a93a]
+│   ├── 4-june_a.vom [9f1bd6c8eea22ca0a8d7e962219e2c93b7f520a752d0f52ce4c4beeb68e89127]
+│   ├── june13.vom [e84cbb59ba825fa9efd35ba6fe7337e7d5710744636f218d19ae7cdaf43bfa1a]
+│   └── v13june.vom [0e54b442498e70bb558391161740cd6001729fee7f9565853848ff4b8abad3ca]
 ├── kov
 │   ├── 1446
-│   │   └── virus.dos.kov.wanderer.1446
+│   │   └── virus.dos.kov.wanderer.1446 [0db28ba06ebbafe08e7c2072e62902f5907d9527b4a57f7b2328f281330f75de]
 │   └── 1455
-│       └── virus.dos.kov.wanderer.1455
+│       └── virus.dos.kov.wanderer.1455 [e14fb3df719d2401985d59df507ba3f202c11b4205da63af4dbcc51b9c95397a]
 ├── kylie
-│   ├── j-kyli_!.vom
-│   ├── j-kylie.vom
-│   ├── j-kylie.vxe
-│   ├── jeru0560.vxe
-│   ├── jeru0570.vom
-│   ├── jeru~129.vom
-│   └── vir-52.vom
+│   ├── j-kyli_!.vom [85c99030b30a1b3a0b601ea5959f14fae4fc6eca2d3c401bf41509ca4cfcd0dc]
+│   ├── j-kylie.vom [1677db694355c71c4ecc9692204ea5592cfd663b10729fe5574894e603b219cb]
+│   ├── j-kylie.vxe [7131870327578e62dc9546bbade1a0e2bc32fcf1e0ba8778c051a48a2a6d5fff]
+│   ├── jeru0560.vxe [43322ccd9d38c9c760732db77040d91eec725dd813a5a4bf7888180897bd7749]
+│   ├── jeru0570.vom [3ea18137fc8d704f39408f5bc3f0474ca8e4fa33394d1b28c8dcedb44324bf19]
+│   ├── jeru~129.vom [81d93bef6e0b3c763f4b01c48924adbbe77c25d972e6998744fbc969ff8d6f4d]
+│   └── vir-52.vom [041e8d51a9dae8c23607186e3436f2d11c6e445de43cd6084d846f4642a75e12]
 ├── miky
-│   ├── jeru0580.vom
-│   ├── jeru0580.vxe
-│   ├── jeru~130.vom
-│   ├── miky.vom
-│   └── miky.vxe
+│   ├── jeru0580.vom [298dec635a082b0d8a545a3d81c12aef651c02d4217e06f205cecea8fdaad957]
+│   ├── jeru0580.vxe [ded22d02b9d9e88d6178257f30ae7548b072ae6c50a94d3533166f22141254a9]
+│   ├── jeru~130.vom [c51e02e89db99b7e3533bdac5cabd2095b8366572431ccc3375bef1a1f8a2dd9]
+│   ├── miky.vom [568e0a5045b2f397b02d1416436cb41b3fde0c3a67a93f0ab22bb9e9ba3eda88]
+│   └── miky.vxe [5c5226cf17ee8187ad926b00c093a9841e45eaa9c58dd4632ca23d490c1b13f0]
 ├── moctezum
-│   ├── j-moctzu.vxe
-│   ├── jeru0590.vom
-│   └── jeru~153.vom
+│   ├── j-moctzu.vxe [74556aa4873a95ff7aa05c3af4aaf3afce4220b21ebc2cf0bed03791ee9cc145]
+│   ├── jeru0590.vom [e22729c92ce767264d0026f00c9ccb33764e218de5063e3e9bdbc3b5c975e6f0]
+│   └── jeru~153.vom [b641664daa9bdf27220d17683b126a9dc649ad15cc3c63549deea1c01b531536]
 ├── moroccan
-│   └── mcan.vom
+│   └── mcan.vom [440994460b6ec8078de08e404977e8c77cc1cab91812fd505eac16927b38d78d]
 ├── mule
-│   ├── jeru0600.vom
-│   ├── jeru0600.vxe
-│   ├── mule.vom
-│   └── mule.vxe
+│   ├── jeru0600.vom [d0476bc72b3ec8e048d7241cfc08f08e33aa62a9e517a2d438dba60c9dd3e93c]
+│   ├── jeru0600.vxe [4739b9c39d0acc3bc79b5aac93e7d25a281a140fdccf230be51465c266c8e0f0]
+│   ├── mule.vom [335cb36091dbe78e0317e882382fb6816264eeac84784c02e8fabebb468a5bb0]
+│   └── mule.vxe [851f8631286504dd632a9890216f9c2295a6470beac3b31c6eeb67eb1eb0d246]
 ├── mummy
 │   ├── 1353
-│   │   ├── mummy-3.vxe
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   ├── t5.vxe
-│   │   └── trace.vxe
+│   │   ├── mummy-3.vxe [035ca59fabe40483a2094dae9ee119ca7db000c42caba6be2a5a02b1d94efaf7]
+│   │   ├── t1.vxe [0e568e8f97b765b3c8e76f933c0842a0630c2afd7b573864f8cfce4eace83000]
+│   │   ├── t2.vxe [12838e3d216d7dbb5578f574ebb84290422bb600eb990878dba12924bfcab395]
+│   │   ├── t3.vxe [fe0f3d1ca311cfe823830e76eee94dd4e19657d3e683c0282cc5a3b4804c7f85]
+│   │   ├── t5.vxe [74b9309b39f43cdc077d00c6d1a8ed9f13d6f9ee8ca6d93da2dcfb560a4d8f02]
+│   │   └── trace.vxe [ac7cab33155dfca6795302b0a8353239c0727374ff132783866f1f19abac8a9e]
 │   ├── 1364
 │   │   ├── a
-│   │   │   ├── j-mumy21.vxe
-│   │   │   ├── mummy21.vxe
-│   │   │   └── v4250.vxe
 │   │   └── b
-│   │       └── virus.vxe
 │   ├── 1399
-│   │   ├── j-mum12v.vxe
-│   │   ├── mummy12.vxe
-│   │   └── v4245.vxe
+│   │   ├── j-mum12v.vxe [152bf2df477f1b6de8b997c8d1abed3f0e5495d818f8bed8bb41489cd0772fab]
+│   │   ├── mummy12.vxe [0228490563268a178f013c13dce17cbb890cd70d4e8e652af56d31ae4411c167]
+│   │   └── v4245.vxe [65864199d5b09a3602352f2cce7743f86b7454f142f70b67de26665adfb54a5d]
 │   └── 1489
-│       ├── j-mum10.vxe
-│       ├── jeru0610.vxe
-│       ├── jerus~84.vxe
-│       └── mummy10.vxe
+│       ├── j-mum10.vxe [3c832f61290a265cc85434cca63c4c065110e84c51910b4933f45ac0bf3f1a22]
+│       ├── jeru0610.vxe [8fc8fb6747cfaced801e1b5149f4fcbaedb0692274c75b1fbab5c54dff32195d]
+│       ├── jerus~84.vxe [1c082ede1e60cef5ee49810608785f3c19303d7e57b548451b875e3604b5d487]
+│       └── mummy10.vxe [9f4aa5c777033c877d324d4d5f7ae2c49f81c6b748012214a170623cf72eaf78]
 ├── nov_30th
 │   ├── 2000
-│   │   ├── j-nov3!0.vom
-│   │   ├── jeru0620.vom
-│   │   ├── jeru1130.vom
-│   │   ├── jeru1130.vxe
-│   │   └── jerus~81.vom
+│   │   ├── j-nov3!0.vom [6ac3365b924d01f553746901099368eec15804ef868f1c50bc0d0cf60ed27475]
+│   │   ├── jeru0620.vom [e70f32b6d443d0bd6f49b94d504edc864aadf81a9f755a72fbaa929233bb7d83]
+│   │   ├── jeru1130.vom [c525b38f74ec4faac5ec7246ce603331946d99969bb039cda46c21c3bf48de3c]
+│   │   ├── jeru1130.vxe [9da8699ce85f97347bb6c9c6b1f1d7bcb0e6d696784f598895997fe7c3d72edc]
+│   │   └── jerus~81.vom [cf9d8f89e8c74877e1840a2adf2f666e1e419a48996900771aab40715e8b3106]
 │   └── 2027
-│       ├── nov30-27.vom
-│       └── nov30-27.vxe
+│       ├── nov30-27.vom [89e1ceb0ae9db69712a22ae704e0eed3d1b52c6d06907ce94f06f3e0f16beef4]
+│       └── nov30-27.vxe [afa33c2ca41ca8575c0b897550248be384851f519a48d8eab6ada8c83e3b50de]
 ├── pcvrsds
 │   ├── intended
-│   │   └── jerusale.vxe
-│   ├── j-pcvrs0.vom
-│   ├── jeru0630.vom
-│   ├── pc0.vxe
-│   ├── pcv.vom
-│   └── pcv.vxe
+│   │   └── jerusale.vxe [4a149f64c7ae90a149a131f2b479fe3b3cc292b773e6b4d05a7601b067c1d235]
+│   ├── j-pcvrs0.vom [7f7159282d727122a83af349e27c859bb8e0ff9effdc0a4262626a0e97d4fa14]
+│   ├── jeru0630.vom [fafbb7b56562c97cbe7445e329faf2aaeda1ad8e120ee503106d25a465773a36]
+│   ├── pc0.vxe [11cf395ce020d47187153777aa67290360ddf174ab2c028b06db325dabc9f118]
+│   ├── pcv.vom [fe39c446a5fb9679cfbc8aafbc712ee02c74bc2909ecf7f36fd5b9d0a8fa53cd]
+│   └── pcv.vxe [c047d930e8b8c6d4054b6b46fe0c76fd44565663f0afad3d48ab2dc688255e62]
 ├── pipi
 │   ├── 1536
-│   │   ├── j-pipi21.vxe
-│   │   ├── pi-pi.vom
-│   │   ├── pipi.vom
-│   │   ├── pipi_21.vom
-│   │   └── wci0211j.vom
+│   │   ├── j-pipi21.vxe [87c1f3585492ab8f9e291e19346eb1d22312abc585347556e82943a48ba22b12]
+│   │   ├── pi-pi.vom [3c6cecb3514dc0cacfdf451d81defe42ec7f9f621c1cadf45fad6086ad26cba2]
+│   │   ├── pipi.vom [733d57bac36883d4040f930fd7d927d2c5badce4131295cab235461138d21841]
+│   │   ├── pipi_21.vom [3252e97638fdb4d51e1e8671ead5b95ac3e5ca5ae1517f1152325ed0894ddffc]
+│   │   └── wci0211j.vom [ee1d735d1963587ab86c30c26f4f11487dac39a91a6a4a69f712c193f20383f9]
 │   └── 1552
 │       ├── a
-│       │   ├── 1-j1552a.vom
-│       │   ├── 1-j1552a.vxe
-│       │   ├── 2-j1552a.vom
-│       │   ├── 2-j1552a.vxe
-│       │   ├── 3-j1552a.vom
-│       │   ├── 3-j1552a.vxe
-│       │   ├── 4-j1552a.vom
-│       │   ├── jeru~157.vom
-│       │   └── pi.vxe
 │       ├── b
-│       │   ├── j-pipi30.vom
-│       │   ├── pi-pi30.vom
-│       │   └── pipi_v30.vom
 │       ├── c
-│       │   ├── jeru~158.vom
-│       │   ├── pi-pi40.vom
-│       │   └── pipi_v40.vom
 │       └── d
-│           ├── 1552.vom
-│           ├── pi-pi20.vom
-│           └── pipi_10.vxe
 ├── psqr
 │   ├── a
-│   │   ├── _1720.vom
-│   │   ├── j-psqr!!.vom
-│   │   ├── j-psqr.vxe
-│   │   ├── j-psqra.vom
-│   │   ├── j-psqra.vxe
-│   │   ├── jeru0640.vom
-│   │   ├── jeru0640.vxe
-│   │   ├── jerusa~3.vom
-│   │   ├── psqr.vom
-│   │   ├── psqr1720.vom
-│   │   ├── psqr1720.vxe
-│   │   └── wci0215j.vom
+│   │   ├── _1720.vom [0a79da26ecf7de472e60c4eb1fa804360ca3311a6e1b3a56d3dc2a0e5362ff6c]
+│   │   ├── j-psqr!!.vom [fea2168221c263de389597a269d2a42d0db778782a8eff9de1d8d6c10820d36d]
+│   │   ├── j-psqr.vxe [d05d8fd2ed23c6fc49edb49eaa791e152ae0c2c36c89da9c3c312f2e5a4faeac]
+│   │   ├── j-psqra.vom [a55b2e7ca0e8bf97ea6a747399b904f68e3316c02dd3be0ac2a541613c75c516]
+│   │   ├── j-psqra.vxe [896294f355e47b9eec464b6f67753b6449a2ede417118c32effd2d3cec25cb02]
+│   │   ├── jeru0640.vom [f64603d93f985b8178ccf600a1cce1669db3c81a3550c494c5348822afc5afd3]
+│   │   ├── jeru0640.vxe [46e2a9980ba2a04fd1cc4094eda954c6275ebdb65ccb3bec1984a81881a8f928]
+│   │   ├── jerusa~3.vom [470b2dd8c9950ef7717b222411a901f83de5fc5714d964f33eadc96206f255bf]
+│   │   ├── psqr.vom [cd44e5c6972b8d73bc6100c15e41f33b9200a151845b729be146b4bf9119385b]
+│   │   ├── psqr1720.vom [923b9aa62df91e039fff77f595d5ab39800e52c4a73f5d765e48b433c4d36ede]
+│   │   ├── psqr1720.vxe [3c525f8cfff08abd0c19ab113664dc18e5fbc698bf383b5f7e204b30fe04a16d]
+│   │   └── wci0215j.vom [6a01e7798dcfcb01a23f20c95bfe3f57a3d478c4843756ec4e0012b0d8ea06f3]
 │   ├── b
-│   │   └── nut.vxe
+│   │   └── nut.vxe [6b7c2331a26fac58b6942b9ee1b1d886a55d720d2822a0768b7029a1964ee69d]
 │   ├── c
-│   │   ├── sat207.vom
-│   │   └── satan-c.vom
+│   │   ├── sat207.vom [9ca8c57466952ec43e7e493fc9ced30ff2620ac3083e5a4753b52c47c1357450]
+│   │   └── satan-c.vom [5472067e605229de63e990b0a9cf4cf7790bd16c0dfc20ee7b1396459b5d219e]
 │   └── d
-│       ├── jerusale-002.vom
-│       └── jerusale.vom
+│       ├── jerusale-002.vom [b0cd60d26dc14a2aaf8ab8a35a6e7f7439c7887896c81552442ef2a46ee63b53]
+│       └── jerusale.vom [25fab49233710ee4d8e44ba43237705896b3a503472afe52147cf85aa392fba6]
 ├── rulis
 │   └── 1639
-│       ├── jeru~169.vom
-│       └── max00255.vxe
+│       ├── jeru~169.vom [2053421366f14e821a89a2aa85c0a93d1354f4414cdc6d9564f8d754d562bfb6]
+│       └── max00255.vxe [8e1f4bc55a3651b3a5e89ffb471550bb3e392e6e29cd234e0bba611294a07136]
 ├── smile
 │   ├── a
-│   │   └── smiled.vxe
+│   │   └── smiled.vxe [807e5209d69da2af1f50435b4b33b42a596f997d211a3025e6085e67cd3b011b]
 │   ├── b
-│   │   └── smile.vom
-│   └── satan305.vom
+│   │   └── smile.vom [380ea5d7f6b26b2f34755e80f59a095e42f109b759c376f41db46b3168ae685f]
+│   └── satan305.vom [2b4d73e46df8c122ec56636b9787171a431eefd174a7e9029040c7c2860bb470]
 ├── solano
 │   ├── dyslexia
 │   │   ├── a
-│   │   │   ├── dyslexia.vom
-│   │   │   ├── j-soldys.vom
-│   │   │   ├── jeru0650.vom
-│   │   │   ├── jeru0651.vom
-│   │   │   ├── t3.vom
-│   │   │   ├── t4.vom
-│   │   │   └── virus31.vom
 │   │   ├── c (satan)
-│   │   │   ├── sat208.vom
-│   │   │   └── satan208.vom
 │   │   └── d
-│   │       └── jerusale-001.vom
 │   └── sublimin
 │       ├── a
-│       │   ├── j-sol1.vom
-│       │   ├── j-solsub.vom
-│       │   ├── jeru0660.vom
-│       │   ├── jeru0661.vom
-│       │   └── sublimi.vom
 │       └── b
-│           ├── rot.vxe
-│           ├── t1.vom
-│           ├── t2.vom
-│           ├── t3.vom
-│           ├── t4.vom
-│           ├── t5.vom
-│           ├── t6.vom
-│           └── t7.vom
 ├── sunday
 │   ├── 1624
-│   │   ├── jeru~119.vom
-│   │   ├── sun3.vom
-│   │   ├── sunday-c.vom
-│   │   └── sunday-c.vxe
+│   │   ├── jeru~119.vom [8a13a5a3f1c21dc345196c865aec0d2fa221d9630d24452c4f1f82d7d2c68519]
+│   │   ├── sun3.vom [31a2fbe626f9f0fe6ad7d41bfd3f1380e64659bb247659e81416e3a0511994cb]
+│   │   ├── sunday-c.vom [7d1fed72bfce9e17d9532abddd98d9cc382647792c3b322273ea96ae0d27d429]
+│   │   └── sunday-c.vxe [e2447639bdfc62aca5720d34b97df3b3cca969b231fff3d602e9fd47054dda77]
 │   ├── 1631
 │   │   ├── a (standard)
-│   │   │   ├── 1636.vom
-│   │   │   ├── 1636.vxe
-│   │   │   ├── 1636b.vom
-│   │   │   ├── chkdsk.vom
-│   │   │   ├── j-sndy-a.vom
-│   │   │   ├── j-sun(a).vom
-│   │   │   ├── j-sun(a).vxe
-│   │   │   ├── j-sundy0.vxe
-│   │   │   ├── j-sundya.vom
-│   │   │   ├── j-sundya.vxe
-│   │   │   ├── jeru0670.vom
-│   │   │   ├── jerus~91.vom
-│   │   │   ├── jfs.vxe
-│   │   │   ├── rce-1631.vom
-│   │   │   ├── sunday-a.vom
-│   │   │   ├── sunday-a.vxe
-│   │   │   ├── sunday-b.vom
-│   │   │   ├── sunday-b.vxe
-│   │   │   ├── sunday_1.vxe
-│   │   │   └── xxformat.vom
 │   │   ├── aa (bustards)
-│   │   │   └── jerusale.vom
 │   │   ├── ab
-│   │   │   └── jerusale.vxe
 │   │   ├── ac
-│   │   │   └── jerusale.vom
 │   │   ├── b
-│   │   │   ├── jerus~92.vom
-│   │   │   ├── sundac.vom
-│   │   │   └── v4325.vxe
 │   │   ├── c
-│   │   │   ├── sunday-c.vom
-│   │   │   ├── sunday-c.vxe
-│   │   │   └── v4330.vom
 │   │   ├── d
-│   │   │   ├── j-sun(d).vom
-│   │   │   ├── jersud0.vom
-│   │   │   ├── jerus~94.vom
-│   │   │   ├── sunday-d.vom
-│   │   │   ├── sunday-d.vxe
-│   │   │   └── v4335.vxe
 │   │   ├── e
-│   │   │   └── v4340.vom
 │   │   ├── ez (2tigers)
-│   │   │   └── !311.vom
 │   │   ├── f
-│   │   │   ├── j$-f.vom
-│   │   │   └── jerus~96.vom
 │   │   ├── g
-│   │   │   └── jer-su-g.vom
 │   │   ├── h
-│   │   │   └── guardian.vxe
 │   │   ├── i
-│   │   │   ├── fuck.vxe
-│   │   │   ├── t1.vom
-│   │   │   ├── t1.vxe
-│   │   │   ├── t2.vom
-│   │   │   ├── t3.vom
-│   │   │   ├── t3.vxe
-│   │   │   ├── t4.vom
-│   │   │   ├── t5.vom
-│   │   │   ├── t5.vxe
-│   │   │   ├── t6.vom
-│   │   │   └── t7.vom
 │   │   ├── j
-│   │   │   ├── jerusale-001.vom
-│   │   │   ├── jerusale-002.vom
-│   │   │   └── jerusale.vom
 │   │   ├── k (whiteboy)
-│   │   │   ├── t1.vom
-│   │   │   ├── t2.vom
-│   │   │   ├── t2.vxe
-│   │   │   └── t3.vom
 │   │   ├── l
-│   │   │   ├── fri_1636.vom
-│   │   │   └── jerus~57.vom
 │   │   ├── m
-│   │   │   └── virus.dos.jerusalem.sunday.d
 │   │   ├── n
-│   │   │   ├── jerusale-001.vom
-│   │   │   ├── jerusale-002.vom
-│   │   │   └── jerusale.vom
 │   │   ├── o
-│   │   │   ├── j$o.vom
-│   │   │   ├── t1.vom
-│   │   │   ├── t1.vxe
-│   │   │   ├── t2.vom
-│   │   │   ├── t2.vxe
-│   │   │   ├── t3.vom
-│   │   │   ├── t3.vxe
-│   │   │   ├── t4.vom
-│   │   │   ├── t4.vxe
-│   │   │   ├── t5.vom
-│   │   │   ├── t7.vom
-│   │   │   └── t8.vom
 │   │   ├── p
-│   │   │   ├── sun1.vom
-│   │   │   ├── sun2.vom
-│   │   │   ├── sunday.vxe
-│   │   │   └── sunday21.vom
 │   │   ├── q (carzy)
-│   │   │   ├── jersuq0.vxe
-│   │   │   ├── sat204.vom
-│   │   │   └── satan204.vom
 │   │   ├── r (tensecs)
-│   │   │   ├── haha.vom
-│   │   │   ├── jeru~103.vom
-│   │   │   ├── sunday-d.vom
-│   │   │   ├── sunday.vom
-│   │   │   └── v4300.vom
 │   │   ├── s (unam)
-│   │   │   ├── max00986.vom
-│   │   │   ├── t1.vom
-│   │   │   ├── t1.vxe
-│   │   │   ├── t2.vom
-│   │   │   ├── t3.vom
-│   │   │   ├── t3.vxe
-│   │   │   ├── t4.vom
-│   │   │   ├── t5.vom
-│   │   │   ├── t5.vxe
-│   │   │   ├── t6.vom
-│   │   │   └── t7.vom
 │   │   ├── u (dontwork)
-│   │   │   └── SUNDAYU.vxe
 │   │   ├── v
-│   │   │   └── virus.dos.jerusalem.sunday.a2
 │   │   ├── w (naitai.a)
-│   │   │   ├── nai-tai.vom
-│   │   │   ├── t1.vom
-│   │   │   ├── t2.vom
-│   │   │   ├── t3.vom
-│   │   │   ├── t4.vom
-│   │   │   ├── t5.vom
-│   │   │   └── t6.vom
 │   │   ├── x (naitai.b)
-│   │   │   └── naitai.vom
 │   │   └── z
-│   │       └── virus.dos.jerusalem.sunday.e
 │   ├── 1728
 │   │   ├── a
-│   │   │   ├── digdug.vom
-│   │   │   ├── j-sunii.vxe
-│   │   │   ├── jeru~105.vom
-│   │   │   ├── sunday-2.vom
-│   │   │   ├── sunday-2.vxe
-│   │   │   ├── sunday-b.vom
-│   │   │   ├── sunday_b.vom
-│   │   │   ├── sunday_b.vxe
-│   │   │   └── v4350.vom
 │   │   └── b
-│   │       ├── ha!ha!-a.vom
-│   │       ├── jersub0.vom
-│   │       ├── jersub0.vxe
-│   │       └── wci0236j.vom
 │   └── 1733
 │       └── a
-│           └── jerusale.vom
 ├── suriv
 │   ├── 1_01
 │   │   ├── 0512
-│   │   │   └── virus.dos.suriv.512
 │   │   ├── 0874
-│   │   │   └── su1piazz.vom
 │   │   ├── 0897
-│   │   │   ├── a
-│   │   │   │   ├── jeru0680.vom
-│   │   │   │   ├── t1.vom
-│   │   │   │   ├── t3.vom
-│   │   │   │   └── t5.vom
-│   │   │   ├── b
-│   │   │   │   └── suriv1b.vom
-│   │   │   ├── c
-│   │   │   │   └── suriv1c.vom
-│   │   │   ├── e
-│   │   │   │   └── v9320.vom
-│   │   │   ├── f
-│   │   │   │   └── suriv101.vom
-│   │   │   ├── g
-│   │   │   │   └── sur-cock.vom
-│   │   │   ├── h
-│   │   │   │   ├── dad.vom
-│   │   │   │   ├── t1.vom
-│   │   │   │   ├── t2.vom
-│   │   │   │   ├── t3.vom
-│   │   │   │   ├── t4.vom
-│   │   │   │   ├── t5.vom
-│   │   │   │   ├── t6.vom
-│   │   │   │   └── t7.vom
-│   │   │   ├── i
-│   │   │   │   └── wci0603s.vom
-│   │   │   ├── j
-│   │   │   │   └── surv-new.vom
-│   │   │   ├── k
-│   │   │   │   ├── suriv11.vom
-│   │   │   │   ├── t1.vom
-│   │   │   │   ├── t2.vom
-│   │   │   │   ├── t3.vom
-│   │   │   │   ├── t5.vom
-│   │   │   │   └── t7.vom
-│   │   │   ├── l
-│   │   │   │   └── suriv_1_.vom
-│   │   │   ├── m
-│   │   │   │   └── suriv_1_.vom
-│   │   │   └── n
-│   │   │       └── suriv_1_.vom
 │   │   ├── 0941
-│   │   │   ├── a
-│   │   │   │   └── virus.dos.april_1st.com.941.a
-│   │   │   ├── b
-│   │   │   │   └── suriunk1.vom
-│   │   │   └── c
-│   │   │       └── virus.dos.april_1st.com.941.b
 │   │   ├── 0942
-│   │   │   └── suriunk2.vom
 │   │   ├── 0945
-│   │   │   └── anti-d.vom
 │   │   ├── 1000
-│   │   │   ├── a
-│   │   │   │   └── 1000a.vom
-│   │   │   └── b
-│   │   │       └── 1000b.vom
 │   │   ├── 1249
-│   │   │   ├── a
-│   │   │   │   ├── argentin.vom
-│   │   │   │   ├── su1argen.vom
-│   │   │   │   └── v9325.vom
-│   │   │   └── b
-│   │   │       └── wci0857s.vom
 │   │   ├── 1405
-│   │   │   └── sur_xuxa.vom
 │   │   ├── 1413
-│   │   │   └── v9335.vom
 │   │   └── 1756
-│   │       └── surlun0.vom
 │   ├── 2_01
 │   │   ├── a
-│   │   │   ├── suriv-5.vom
-│   │   │   ├── suriv201.vxe
-│   │   │   ├── t1.vxe
-│   │   │   ├── t3.vxe
-│   │   │   └── t5.vxe
 │   │   ├── b
-│   │   │   ├── jeru0690.vxe
-│   │   │   ├── t1.vxe
-│   │   │   ├── t3.vxe
-│   │   │   └── t5.vxe
 │   │   ├── c
-│   │   │   ├── apri1-c.vxe
-│   │   │   ├── t1.vxe
-│   │   │   ├── t3.vxe
-│   │   │   ├── t5.vxe
-│   │   │   ├── unke0431.vxe
-│   │   │   ├── v9365.vxe
-│   │   │   └── wci0858s.vxe
 │   │   ├── d
-│   │   │   ├── april1-c.vxe
-│   │   │   ├── t1.vxe
-│   │   │   ├── t3.vxe
-│   │   │   └── t5.vxe
 │   │   ├── f
-│   │   │   ├── hendrix.vxe
-│   │   │   ├── t1.vxe
-│   │   │   ├── t3.vxe
-│   │   │   └── t5.vxe
 │   │   ├── g
-│   │   │   ├── orion.vxe
-│   │   │   ├── t1.vxe
-│   │   │   ├── t3.vxe
-│   │   │   └── t5.vxe
 │   │   ├── h
-│   │   │   ├── rho.vom
-│   │   │   ├── t1.vxe
-│   │   │   ├── t3.vxe
-│   │   │   └── t5.vxe
 │   │   └── i
-│   │       ├── april-1.vxe
-│   │       ├── t1.vxe
-│   │       ├── t3.vxe
-│   │       └── t5.vxe
 │   └── 3_00
 │       ├── a
-│       │   ├── 1-suri_a.vom
-│       │   ├── 1-suri_a.vxe
-│       │   ├── 2-suri_a.vom
-│       │   ├── 2-suri_a.vxe
-│       │   ├── 3-suri_a.vom
-│       │   ├── 3-suri_a.vxe
-│       │   ├── 4-suri_a.vom
-│       │   ├── j-suriv3.vom
-│       │   ├── jeru~112.vom
-│       │   ├── suriv300.vom
-│       │   ├── suriv300.vxe
-│       │   ├── suriv_3.vom
-│       │   ├── v4410.vom
-│       │   └── v4410.vxe
 │       └── b
-│           ├── jeru-n2.vom
-│           ├── t1.vom
-│           ├── t1.vxe
-│           ├── t2.vom
-│           ├── t3.vom
-│           ├── t3.vxe
-│           ├── t4.vom
-│           ├── t5.vom
-│           ├── t5.vxe
-│           ├── t6.vom
-│           └── t7.vom
 ├── t13
-│   ├── jvt13.vom
-│   ├── jvt13.vxe
-│   └── v4360.vom
+│   ├── jvt13.vom [4376f40a290687147718963ad0c66683851754f7bde0d57f3942452a01205a3c]
+│   ├── jvt13.vxe [2818fb6ee36820d9fe68d55b399db764326b897cc0c3b70e9d176f473ad2cf4f]
+│   └── v4360.vom [6e98fa9b930078fb272333e3fbb010f86804ff241bfc4c13b22fd30c1e6895f9]
 ├── tarapa
 │   ├── a
-│   │   └── j-tatapa.vom
+│   │   └── j-tatapa.vom [c846dc872bd94d7d20a35dd02741c412f98325dc733ae01a9656554d2f3b3d65]
 │   ├── b
-│   │   └── virus.dos.jerusalem.hack.2064.b
+│   │   └── virus.dos.jerusalem.hack.2064.b [9e32d7aa1c1dc0f3af6f9caaf47fb599e24907089b4ed29957270bfdb29a0017]
 │   ├── c
-│   │   └── wci0155j.vxe
+│   │   └── wci0155j.vxe [28ed43670c154928a49b21fc3e80a8e79a48342d8184daef90b3c35b7d95f093]
 │   └── e
-│       └── virus.dos.jerusalem.hack.2064.c
+│       └── virus.dos.jerusalem.hack.2064.c [a88ef79f5ff1a93444c71bb954bed5c0e857c72ba6f16a8f65031e88edc2dd46]
 ├── timor
-│   ├── jerutimr.vom
-│   ├── jeru~117.vom
-│   └── jeru~127.vxe
+│   ├── jerutimr.vom [d12bc07641731448264f8f7d5a0c99d870739979de8ec19aae115ec77c52dbec]
+│   ├── jeru~117.vom [bd2e4732d069676de22dc19f0356075c2bf6f7d66570426c938853e6d62265ad]
+│   └── jeru~127.vxe [dbaa77d4d13e199d2afaef5dbdda688c2973f57e05a5a97372b4cd5f9876bd6d]
 ├── tontomas
 │   └── 1607
 │       └── a
-│           └── tontomas.vom
 ├── totoro
 │   ├── a
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   └── v9910.vxe
+│   │   ├── t2.vom [00ea198bbeaff3f02fcf3c6b16c5c10b8170cab42a6bc129f1d960f0c7feb261]
+│   │   ├── t2.vxe [24727c28795595c9a66bfcd5addb501d26dcd9500fe4d49458610bc8e1f4f817]
+│   │   ├── t3.vom [59f03fa535b985f03d708e84d711f2cc43096ae15a76368415a41e7e0aad5b57]
+│   │   ├── t3.vxe [ea748b03eef2a85c34d834d32b0c6240681baf6cf1ad8e182799a8729f54a451]
+│   │   └── v9910.vxe [71fb2539363f3fbf00f25347fd672f8f25e574ab87d1a9f451c00605b146409b]
 │   ├── b
-│   │   ├── satan106.vxe
-│   │   └── toto-b.vom
+│   │   ├── satan106.vxe [a90055842d46c9adfc493350423d762504e2a364fa8e205186ebe0f7330f8b19]
+│   │   └── toto-b.vom [77e0f863191302f5c3964d9f15516ebf13b8dffa5c6af0d1fba51c4d8a28cd68]
 │   ├── c
-│   │   ├── jertoc0.vxe
-│   │   └── v9915.vom
+│   │   ├── jertoc0.vxe [6b1e736ae334a8549c0afc00ce1741470412a1fdcd618a2be0ed722739ccba18]
+│   │   └── v9915.vom [400980360154fa6da5e73e7933ca53dbbfcc2f462eadca78b330868124bb122a]
 │   ├── d
-│   │   └── jeru1536d-0.vom
+│   │   └── jeru1536d-0.vom [2d506edd6175f1c43a9357d4232104e5b147c1cc72cb92d77cbe37aa160ee6ad]
 │   ├── e
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   └── totoro2.vom
+│   │   ├── t1.vom [0aa26c40aafd9657c0c478f0ddddfc6b03411095f7342735384cab92dfd51665]
+│   │   ├── t1.vxe [7c997972a0dab98d383501cb38aa2f28c6bbfcb927d46cf20a9c18c3127f1d71]
+│   │   ├── t2.vom [09ca1a394baa4ba40a33ff91033bba2c059b3f2bcf5b97d64ffed3ad2f50fabf]
+│   │   └── totoro2.vom [5e75a8e9e3ea9c3134507b287f0d8b8ac43416c39e6075bdad9b6b639244a4f2]
 │   ├── f
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   └── totoro.vom
+│   │   ├── t1.vom [9f23fa9636b17e0c462a84a2897909dd239792a175b80be45736591f6742cd86]
+│   │   ├── t1.vxe [53d77eea0a291b6c134f6eb8fcb234cb18a594289b8cbb7509d134c83e76a96b]
+│   │   ├── t2.vom [25b7b60860414a53d88be09fbaafc8d6ebc6eb1cced7d8d86d5b23bf16342438]
+│   │   ├── t5.vom [b7618be2837f819382040c2385246cb9f4d6ca712ee4ae79436b1f2c7e5bc079]
+│   │   ├── t5.vxe [562eb542b0984fa125d68ad8d2a80a152012e06eafaeffc0b81c9cfbec31f548]
+│   │   └── totoro.vom [6cbf000ccbdb842b5142d24d9366e3a4884f0e3f947f68c06cd4dac3a63cee42]
 │   ├── g
-│   │   ├── jerusale.vom
-│   │   └── jerusale.vxe
+│   │   ├── jerusale.vom [f0a32b3f439f8ee4eac9085febcc7d9c6242781c131b876e659e90a799a349d3]
+│   │   └── jerusale.vxe [07afb082a7162ec0f9cfc9992815f63fd01ca2e9b99cbf59be8e4e1c63b10952]
 │   └── i
-│       └── jerusale.vom
+│       └── jerusale.vom [97d6a2437c12eef61a2af2f28307f0cf9cdf55070a863b0ffea0a8ad79f86c6a]
 ├── viajero
-│   ├── vespav.vom
-│   └── viajero.vxe
+│   ├── vespav.vom [8a683f8d0007d00a83d7c2fb7f4f4c20e97a571b7622cd64020b810c17421f4f]
+│   └── viajero.vxe [daa60eb38785f83851d517bc7593322862e08c5c383f3481ae41624a991851ac]
 ├── vtech
 │   ├── 2358
-│   │   └── vtech.vom
+│   │   └── vtech.vom [32df188bd924e7d9b38935b6c115b733f663d95340172963dc6ccca5029ab53c]
 │   ├── 2880
-│   │   ├── j-v2880.vxe
-│   │   ├── j-vt2880.vxe
-│   │   ├── move.vxe
-│   │   └── undelete.vxe
+│   │   ├── j-v2880.vxe [8b0005ffec0b98ed4081c6c0c525a4d0e67bb923bb58e238c8d03e772ba3b903]
+│   │   ├── j-vt2880.vxe [9915dec3e93589b00c6eea388303b32143d01cefc19a471b2f904fba4f6641bc]
+│   │   ├── move.vxe [3cb44a98966c11a36a6f378f7f72597c0392c5f94505c0af277380a2ad02ccae]
+│   │   └── undelete.vxe [3c0cbaa5612913795292700c9e14db0646396c24b68dfa47cc04ab7a528b33c3]
 │   └── 2886
-│       └── j-v2886.vxe
+│       └── j-v2886.vxe [578d0e9c8b43f1851f7327d5499df07c0a99fcdb267adda784daa87cbf0b602c]
 ├── wanderer
 │   ├── 1234
-│   │   └── wand1234.vom
+│   │   └── wand1234.vom [81a7afdaf7763f9b8d87dae7dfc9cbe46336d1892f4e5d3f46ee5a3b795d0b3a]
 │   ├── 1347
 │   │   ├── a
-│   │   │   └── wand1347.vom
 │   │   ├── b
-│   │   │   └── virus.dos.jerusalem.1347.a
 │   │   └── c
-│   │       └── virus.dos.jerusalem.1347.b
 │   ├── 1448
-│   │   └── wand1448.vom
+│   │   └── wand1448.vom [e11e1dcf8ee59392d66c3351907d8caf7151b1f117930af9fd90c2b408c4a274]
 │   ├── 1570
-│   │   └── wand1570.vom
+│   │   └── wand1570.vom [473c9ec90d4f050eeed0881c3bf3fa5761819f700c446795ed88e836fd22a649]
 │   ├── 1589
-│   │   └── wand1589.vom
+│   │   └── wand1589.vom [ae8b34bd155305c74e5d4d99aa4e1e525285c2d5f37e260dc3b036545b2498a9]
 │   ├── 1591
-│   │   └── wand1591.vom
+│   │   └── wand1591.vom [c8c9da71cb971992bb2a19655181a27f7de380f6172d916113c45206c1f0d626]
 │   ├── 1756
-│   │   └── wd2-1756.vom
+│   │   └── wd2-1756.vom [4589b7def31a5f9fdecc84a30097f46a0ccd4ec81280f406129eeb583c3c747f]
 │   ├── 1768
-│   │   └── wand1768.vom
+│   │   └── wand1768.vom [a1d16aa608d588516ab912bd86160fbc42145e288352f87a7d3d7f64c4cab965]
 │   ├── 1783
-│   │   └── wd2-1783.vom
+│   │   └── wd2-1783.vom [90bf5fd47418db1445408cf62ce4a064f712cfebe2b8284c118d9ff9229fca1e]
 │   ├── 1809
-│   │   └── wd2-1809.vom
+│   │   └── wd2-1809.vom [255b57be3c8204a80f2029d93f590478e046ca813b4ea00ff754cfdb57b80fc4]
 │   ├── 1811
-│   │   └── wd2-1811.vom
+│   │   └── wd2-1811.vom [0a7cd78a786d8fe323c96679c91369f1673732b590c2bc1212b8786577b4aa4f]
 │   ├── 1845
-│   │   └── wd2-1845.vom
+│   │   └── wd2-1845.vom [0458e4e05434b4066cd23f9dbc1bf3143ba8720711ce3b65abe4225bc52a455f]
 │   ├── 1852
-│   │   └── wd2-1852.vom
+│   │   └── wd2-1852.vom [9d8fe6bfb3706f42198a25d81de4c83d1196017ef31d47346d877ecd32fb2e61]
 │   ├── 1862
-│   │   └── wd2-1862.vom
+│   │   └── wd2-1862.vom [360271533c7d5f6548e77853c77777368b0f92f47b73e1507d3a89123a66dc46]
 │   └── 1884
-│       └── wd2-1884.vom
+│       └── wd2-1884.vom [3b139cc148fe60402c6f79f77bcf26489c72461033f2de2433c13ecaf909f30e]
 ├── westwood
 │   ├── a
-│   │   ├── 1-west_a.vom
-│   │   ├── 1-west_a.vxe
-│   │   ├── 2-west_a.vom
-│   │   ├── 2-west_a.vxe
-│   │   ├── 3-west_a.vom
-│   │   ├── 3-west_a.vxe
-│   │   ├── 4-west_a.vom
-│   │   ├── j-west.vom
-│   │   ├── j-westa.vom
-│   │   ├── j-westa.vxe
-│   │   ├── jeru0700.vom
-│   │   ├── jeru~111.vom
-│   │   ├── wci0245j.vom
-│   │   ├── westwood.vom
-│   │   └── westwood.vxe
+│   │   ├── 1-west_a.vom [1d4caa753e744f9301785f1950534130e58971fa3254cd940ec9251eed52d273]
+│   │   ├── 1-west_a.vxe [9a33a35f4bf7a9ae6c3c41f2b0f2af2781d81893f84cc3a68cc0dd761c1e3ec5]
+│   │   ├── 2-west_a.vom [8974ca93eb8da7e2e7baaca5d0bb6ed4de1b4a858964ba6c92ed872d1bf39330]
+│   │   ├── 2-west_a.vxe [1e129147b5b1254bfe2e616574ffe4ccde4fa6a1ee0e7998fc430f368b5e1051]
+│   │   ├── 3-west_a.vom [50b0801eaec852dbebf38cbe7933ff03f737a07cb739058f74d22ef03ff1e06d]
+│   │   ├── 3-west_a.vxe [4a0bf05c13063c9c5eaaedfedee380bacc5cec39194aa17b3663ae02dc87bf87]
+│   │   ├── 4-west_a.vom [bb6a1919f2682b8b96f2b63de624f9e07d81841d4e315d749899441e211565bb]
+│   │   ├── j-west.vom [33527c63734fab1d0495678804ccfc570d4860a96a8623be71db823f13c8e91c]
+│   │   ├── j-westa.vom [10d1b6bc6f1d5f75885d697727a7032aaf6d01edbe4c99ff7bbdd7ab346041ac]
+│   │   ├── j-westa.vxe [eac0609784900c62eb2ea060b7ecbaad10d9ddf9bbd456d32c269b8be31bd289]
+│   │   ├── jeru0700.vom [384c9d6f17fded09865e5704c4bc975c7e7d0b6b3d1f5e215c0a64bbfa2026e6]
+│   │   ├── jeru~111.vom [572043f928aec8b2052e2f4686f4ed30bcab732c00d71a4adaefae80f3a4c9ca]
+│   │   ├── wci0245j.vom [4d31602cdb51eaa0eda512c314d7b8e0d7a9f6201067270a276339fb86c0d920]
+│   │   ├── westwood.vom [410515fb0462b8e9b96591de771600aaab36a3bb01e1dc9bdbe8137d2d36f933]
+│   │   └── westwood.vxe [fdce05db35b8a79216ad64f0fc75d955f55fae99b7e9f49e557b2f311f5b6d92]
 │   └── b
-│       └── jeru-g2.vom
+│       └── jeru-g2.vom [0d9cf635be9b107f4d2e88f1a3fcff2a92cbf2b9f83644cfc62322f294ea5889]
 ├── yellow
-│   ├── 1-je1361.vom
-│   ├── 1-je1361.vxe
-│   ├── 2-je1361.vom
-│   ├── 2-je1361.vxe
-│   ├── 3-je1361.vom
-│   ├── 3-je1361.vxe
-│   ├── 4-je1361.vom
-│   ├── growing.vom
-│   ├── growing.vxe
-│   ├── grwngblk.vxe
-│   ├── j-yellow.vom
-│   ├── j-yellow.vxe
-│   ├── jeru0710.vom
-│   ├── jeru0710.vxe
-│   └── jeru~162.vom
+│   ├── 1-je1361.vom [75fc22d58a04cc07c26dfef64de895659bc8faee58084adc8bfde1920181cce2]
+│   ├── 1-je1361.vxe [9331ad24b238d3e5bbd3d20b0a3fc543ce7d468bcdd1b317ed2a1075a25f7b9c]
+│   ├── 2-je1361.vom [90b736f078f39ce076532d240d2b97def8b3429d8c045ab5887c61888e3b27c6]
+│   ├── 2-je1361.vxe [68ae4be1c0857f6829f63e8e80f852ce5ad58462efceecf711afc5ef0cfe3908]
+│   ├── 3-je1361.vom [ff7335a747402ab99424ea30be9dacc6acb2e362c3e24ec2336f4d885e9cb68b]
+│   ├── 3-je1361.vxe [eac6c749aa78f9697d34617a37d44fd657153306b51695a5a0c9ed377165bad2]
+│   ├── 4-je1361.vom [0fc7f9e5c02db5472f1185c71caf596dc02468a814d1b7743b661c51c9a37302]
+│   ├── growing.vom [87600951c865826004887ba3b050a5a68e2288c2b5a0dcb0eb7a4c34cbf79f2e]
+│   ├── growing.vxe [c974585a1df0de6f3682d5fe19a2f17da270d7abb1c4512dc990e4f788fabdb6]
+│   ├── grwngblk.vxe [32f38748f8b9bab938b464a156f8231b5f94bb410125d9e52948411a81cf325b]
+│   ├── j-yellow.vom [a35814c882a60aeaa3970f7bde17c40e9bca529151e287a61d023bf8a778b2b6]
+│   ├── j-yellow.vxe [f5f9866833ce661ecde60527509a2ee1b1b75d8287bd1c93669c269deda364a2]
+│   ├── jeru0710.vom [3be0da3f16fa9e800a22a71009395ca992be60fa791b4fcee738df2f9730700f]
+│   ├── jeru0710.vxe [ba1ea82de1fb9222ea91f6632844195faae3f1b403c09aa23a1409736738e78a]
+│   └── jeru~162.vom [03c2e310bddb5feb62de60a71139c23340c37bcd185317c56e64e698f62fbb74]
 ├── zerotime
 │   ├── australi
 │   │   ├── a
-│   │   │   ├── j-ztslow.vom
-│   │   │   ├── jero-zer.vom
-│   │   │   ├── jeru0720.vom
-│   │   │   ├── jeru~163.vom
-│   │   │   ├── nokey.vom
-│   │   │   ├── slow-.vxe
-│   │   │   ├── slow.vom
-│   │   │   ├── slow.vxe
-│   │   │   ├── slow_.vom
-│   │   │   └── v4380.vxe
 │   │   ├── b
-│   │   │   ├── jeru1716.vom
-│   │   │   ├── jerus~93.vxe
-│   │   │   └── jerzeab0.vxe
 │   │   └── c
-│   │       ├── jerzeac0.vxe
-│   │       └── slow2.vom
 │   └── scottsva
-│       ├── jerus~94.vxe
-│       ├── jeru~166.vom
-│       ├── jerzesc0.vxe
-│       ├── scotts.vom
-│       ├── scotts.vxe
-│       ├── scotts_1.vom
-│       ├── scotts_1.vxe
-│       ├── scotts_2.vom
-│       ├── scotts_2.vxe
-│       ├── scottval.vom
-│       ├── scottval.vxe
-│       ├── v4400.vom
-│       └── zeroscot.vom
+│       ├── jerus~94.vxe [07ac9b6b8f0bf7171af76531ac9321cdfa79f2c1a40ddf284cc1baa8a3e769fb]
+│       ├── jeru~166.vom [8872b652c5342935cf31ebaa4be3d7b8dc97908265e2ee2988287148670a1ace]
+│       ├── jerzesc0.vxe [36add5aa61334d2ef6545508b9cea50a4b0d99a88a3709a5cc4b9d0f8740322f]
+│       ├── scotts.vom [2eb5ca486a15a49be8cb960556158ce881cb7b9be70ebcf393560ded6e7a4743]
+│       ├── scotts.vxe [ba755f2c84ee5dfffbde26d2158250fd4afc2ec30724afed4a62e47e53c14571]
+│       ├── scotts_1.vom [c923e032ddf0a42a9c1a104b228315d8d041687d6ef92a93b952e8304d195c56]
+│       ├── scotts_1.vxe [92d4c481bff00e5070dbcdaa894325b9da6fb1469df6335d2de1f4daa4c848a8]
+│       ├── scotts_2.vom [2ec5b6b579ce47a9447f253df40d099fc5d2823c6550e02027cc20af91e24c0a]
+│       ├── scotts_2.vxe [9d6a45fc8fca933043b7861607a4f0deddf7f36b58c815a32005d2504f0744d2]
+│       ├── scottval.vom [aceeec0c32e16ae42e29d10b458636fb784d84a0d1d578b59c756942a8b0ee92]
+│       ├── scottval.vxe [393d6770f027c4bc4fbc569f4ccf056b8a8f2cf2e77631d5c5f5b3b2366e5a7e]
+│       ├── v4400.vom [cf3051a89ebdf1da17f6c585132bc1466e8f17d4d024261ba8954bc030fd92b2]
+│       └── zeroscot.vom [19f7fe4e190bac38cc3a0ec53ee6c4cb3c0b3ddc5d1e63c8808bca5789e05e3f]
 └── zipeater
-    └── v4405.vom
+    └── v4405.vom [c532142d8204e2db7d48cab2a7d1ec726c032a34ba96d2417f92bccd3656911d]
 ```

@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   ├── deic2403.vom
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t9.vom
-│   └── wci0190d.vom
+│   ├── deic2403.vom [fa04f5896b41f32e255e6fabb962cd755e83072c8e0f313c0b9340869c69ad8d]
+│   ├── grep.vom [234868272e52ebac764c7a11fbce6418591a1402b08de3e6693fd7e0df3589d1]
+│   ├── keyb.vom [022c50cddcaf5acb4aa47137896c015918bf259765a19b19caf21c227e28b82f]
+│   ├── t1.vom [abe9aa6cd7cc7e1612412856989b32a0e2cf02f11941934f98538a2f71183c6f]
+│   ├── t10.vom [c6a6b4417fd6bd36873a4a331fd9f1befd138cc8056033c75f337797712cdd14]
+│   ├── t2.vom [a1d187b527d3b6d874b7fe21399ec35eb9a4a3183b7d21d2e276344791e84e48]
+│   ├── t9.vom [d959495d58ecf0725064a3f60d8119359e98171f106ebfe68ee11112e5e79a95]
+│   └── wci0190d.vom [a5d2212cec22f90e51fbc708d6c9181228e26335aaeb5c61071acf28196ec026]
 └── b
-    └── virus.dos.deicide.comment.2403.b
+    └── virus.dos.deicide.comment.2403.b [6a827afbfe2c6bacbb6045dae54f8288bda770c5d607f09a4262155933f94d17]
 ```

@@ -3,25 +3,25 @@
 
 ```
 ├── 965
-│   ├── keyb.vom
-│   ├── mode.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   └── wci0455c.vom
+│   ├── keyb.vom [bbd80497e7080ad73a73f04f821d87850e72a1eb72efaa20fc8bf64c99e7ea4a]
+│   ├── mode.vom [8624297e679a3abfba247fb093445a243c0cccc79f75151d9ac73b54703e6717]
+│   ├── t1.vom [83d05ca48f9f798da257b0c536552cb280090c86f5182da111079d830203747e]
+│   ├── t1.vxe [1ec9fb53236aab24ed9c1b9e03a4f5e9314dcc117d5d40c6c48a519fbc6d41f4]
+│   ├── t2.vom [e2c6186fe611b52aa9cafdb7593d77b9a82f48093a354dffb0a06077f52c047c]
+│   ├── t3.vom [1e73ad151c804f73248f675d27597d22e09ab3fc57afd7bd357043fddc85e56f]
+│   ├── t3.vxe [e9571899d12da54b1f2faa340caa2ada515a97c26d4f328d14516e33453eaf4d]
+│   ├── t4.vom [52759e1897518ce794dd78bff8d3950888c7c06fc6995baa1a58dda4d7b1d46c]
+│   └── wci0455c.vom [1675c5b78360c48284f30974d421076ff42d34325543a7a84bde7b715c88abeb]
 ├── 969
-│   ├── keyb.vom
-│   ├── remolino.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   └── wci04611.vxe
+│   ├── keyb.vom [58a47313e19febfb002f53b6e5bdc84c95a9d67172ad6a66b677bb6603241eeb]
+│   ├── remolino.vom [ae9948e470f7f6d9a4fdb3378fa94a19df120b4814cf7ed313bdca357be803a7]
+│   ├── t1.vom [96b89e5fd39b3231cd845433670a036cd53499dfd7cc363954cb257482a064d3]
+│   ├── t1.vxe [d68612b619790b45061224648de9eb828da075796db0452935a78abf04fb5f66]
+│   ├── t2.vom [dd125af03b68d83d28102a82ad8058cced3ac081783cf7a39c861b513bdd1d3a]
+│   ├── t3.vom [d77d566e4c9b75f93f06904da17f6d3d20320656353c6a3b25da77809316e550]
+│   ├── t3.vxe [d2e79d5bbf9e077274e3b31903a53fd4df83cd059492413c36db73d1de8a5e59]
+│   ├── t4.vom [863daf353c23191aeedd21ce4fd8cc486556c4b34991134104158f539264bcaa]
+│   └── wci04611.vxe [0a32518896d228808b48c40614f6da1baae2950a82ee1d2db560b697eaf12ab1]
 └── 973
-    └── virus.dos.critico.977
+    └── virus.dos.critico.977 [131c83aa392b0d5b3e0d1d38bf3f8fffd6ce113e9f227845916cabb5d584464b]
 ```

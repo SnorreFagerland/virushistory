@@ -3,13 +3,13 @@
 
 ```
 └── 3684
-    ├── debug.vxe
-    ├── grep.vom
-    ├── t1.vom
-    ├── t2.vom
-    ├── t2.vxe
-    ├── t3.vom
-    ├── t3.vxe
-    ├── wa3684.vxe
-    └── wci01014.vom
+    ├── debug.vxe [82f8cae32d6418dcecf5155427188d6c46cf213b8103c28d19d17364c9f203bb]
+    ├── grep.vom [17288aa6f09b32dd380a8c67684bbc907071d48aab0da5bc86df90d9b93331c8]
+    ├── t1.vom [cc20dcffde000b35ad7011114bc459bdcf73c02db9ef8088cbb0d9f89f7223f6]
+    ├── t2.vom [5e65d5699229dad0ebe5d246043691e242fa8725e0ab32d6f2f63c36f8322ac8]
+    ├── t2.vxe [278a20b53c5be442b73f7901455d5487adff6483b119ad1a441fec69224dedd6]
+    ├── t3.vom [2bbddd5caac3fb1d34cf6943570128ac69698fbd8df0fc25c383107036c967a1]
+    ├── t3.vxe [b80431718e37e37d6bbab8f6431c10aa938a6d7369f932e6ef23b359a0a3c9c7]
+    ├── wa3684.vxe [f16dc9fcf90141934127073f4e3a2b45109be57a4bd248982df9dadb114326f7]
+    └── wci01014.vom [4f99801f19bbbeceb2de0b70435ac6395dd13a01d38037e49a3a58e52d88fdad]
 ```

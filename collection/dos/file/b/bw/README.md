@@ -3,816 +3,816 @@
 
 ```
 ├── 0276
-│   ├── bw_276-001.vxe
-│   └── bw_276.vom
+│   ├── bw_276-001.vxe [42ad8f422c1dd530c900e7646680344c4fcb4f28d4ff57074949d62071686bfd]
+│   └── bw_276.vom [765acc0e494a3fb9fb3484682b79535e8a10a7cfd51fe9e8ca77db66331d5aac]
 ├── 0286
-│   └── bw_286.vom
+│   └── bw_286.vom [7c2e0e8b1fcd67d756aa93c8b08932882c3f855e02c76e513ab43d136a2b4bde]
 ├── 0291
 │   └── a
-│       ├── bw_291_a-001.vom
-│       └── bw_291_a.vom
+│       ├── bw_291_a-001.vom [555c1bfb2142d6235b7a65fae72f1ab9b50f6450b77e00091055cf5228330565]
+│       └── bw_291_a.vom [7a69aff9c7a62fa04d067f454a9de1539f7f96899e777828ced853094f7aeaec]
 ├── 0293
-│   ├── bwso293.c1
-│   └── bwso293.c2
+│   ├── bwso293.c1 [84969d56795d4eb38d85aa97feba1d29b4d9b9251ebecc4f1cd35bc1abc6031e]
+│   └── bwso293.c2 [f8809ba6669e8c672dfb34e5dad2fd1da7acf02f7484cd85c6caf12dab6dfb4c]
 ├── 0294
-│   └── soitgoes.vom
+│   └── soitgoes.vom [997abbacbe3a2c700d3eba059327700dba57a2defe5cf9465a115eaf23815f07]
 ├── 0304
-│   └── virus.dos.ps-mpc.304
+│   └── virus.dos.ps-mpc.304 [4934eed9e23bcd4ac352a1ee906011a556b98a95c04b23980ab49059711bbbc0]
 ├── 0305
-│   └── bw_305.vom
+│   └── bw_305.vom [b3d9e31d7529edd9cf20581ae9c913731aa7459baeca691003e169a962e9de82]
 ├── 0306
-│   └── bw_306.vom
+│   └── bw_306.vom [dca85d494dd681149d821325d8c6bbf90e2627648f316e4c95cb60c647ef6d6c]
 ├── 0308
-│   └── bw_308.vom
+│   └── bw_308.vom [910a2836476363a16b88b61aeaaac44e2c6a308cdd382f255131274239a09a3e]
 ├── 0309
 │   ├── a
-│   │   ├── blimp1.com
-│   │   └── blimp1.vxe
+│   │   ├── blimp1.com [49e9b58c4aff035dd610bdb173c630c991f218d24847540f8a61ec1d2590b3e4]
+│   │   └── blimp1.vxe [2ee6c5baf5a0f720fae2acb622212612d64eed6b56917107ce3ee3deffaef4b4]
 │   └── b
-│       └── bw_309_b.vom
+│       └── bw_309_b.vom [9fff481166e3aa35a50afe87d6c743c96f432f04c4f29ed761146368fc76b578]
 ├── 0311
-│   └── bw311~1.vom
+│   └── bw311~1.vom [0ce3e3b97bb8fa3eaaf237c13c6939ffa9ed433f7a683ab7a3a6ab0aee6b46e0]
 ├── 0319
-│   └── bw_319.vom
+│   └── bw_319.vom [914110a3b8bd35de1d13bdc85fd7ebf33edb59043454aead366f03b0956dead7]
 ├── 0323
-│   └── phased.vom
+│   └── phased.vom [a7d4903cb99aa23b1eb5379abe4802fe9d38572e41132ed1beca4f5535da9aa6]
 ├── 0331
-│   ├── bw_331-001.vom
-│   └── bw_331.vom
+│   ├── bw_331-001.vom [ba404205a09b2daa198f98a7a5ab94e553d66f9c7ffd3cc61acd8684d3566df3]
+│   └── bw_331.vom [52b9e0c091cf6920d62f430c3e0b6292e814cd71563439e6c3eb3f49bc74c0e3]
 ├── 0334
 │   └── a
-│       └── bw_334_a.vom
+│       └── bw_334_a.vom [a9e640f5888007e559d4b311cd21836699333c13e2ea60585fbb64ff44f02982]
 ├── 0337
-│   └── fluke.com
+│   └── fluke.com [5e42102481a4902080a3803a1bcb2d06586d22fd4eb42905c358fa293a9c1508]
 ├── 0343
-│   ├── bw_343-001.vom
-│   └── bw_343.vom
+│   ├── bw_343-001.vom [c8b041576e7f02b9e26b81cc2886777b755cf192d6ed7f16023cb11bc62ab44e]
+│   └── bw_343.vom [2d2ac40fffd1deb0d489d9d74a089859fdc992b3555ae7c8e9a734e45dbe39b2]
 ├── 0371
-│   ├── _mom~1.vom
-│   ├── bw371~1.vom
-│   └── virus.dos.ps-mpc.chicago.371
+│   ├── _mom~1.vom [3539645d984c06cbf3a355b3f91323f1738d82e5f34ba033a5e4e433d72c1530]
+│   ├── bw371~1.vom [8be43dbe7820a569ba614be3c75f8c2d92856f45c1e2eac038cc1ebcc6b407a3]
+│   └── virus.dos.ps-mpc.chicago.371 [efaaed4d2a8b9d8825ec9324d46c0563cca91d32a4818702e16de593f1547322]
 ├── 0372
-│   └── BW-372.vom
+│   └── BW-372.vom [4d8766107f2c69cd156111cd86cef811df412b2fcbc09d523d701e45e1412f3c]
 ├── 0382
-│   ├── blimp2.com
-│   └── blimp2.vxe
+│   ├── blimp2.com [ccba6e58fac725b0f79a20d88fab6758338171ad8fc4c017df0a5ebc4b2b727c]
+│   └── blimp2.vxe [b063fe0c72004979853e925968331df7e30619ccdda5f568c0d18427d1d55387]
 ├── 0384
-│   └── bw_384.vom
+│   └── bw_384.vom [40223b998ed984d030d19b62ea33cc1917d620c69607c226b932d2819a54802b]
 ├── 0395
-│   ├── bw_395-001.vom
-│   └── bw_395.vom
+│   ├── bw_395-001.vom [7d8a5b009f968cd02ccc00426dc2f9c4633d93cb53625b608c5b0a622e303863]
+│   └── bw_395.vom [1f4e986d796145daf1b6a563cfce95ea34bb92c01bfa5a19d3c3807182351308]
 ├── 0399
-│   ├── bw_399-001.vom
-│   └── bw_399.vom
+│   ├── bw_399-001.vom [9ec2b87d93dd1d06514444d645fbfbd8af750d1526213d27a4f7c889cded8d36]
+│   └── bw_399.vom [05636b8e8156a9a9db28ff1e2505bf6642dea7955720b86ee44f7f93be666393]
 ├── 0400
-│   ├── bw4000.vom
-│   └── bw4001.vom
+│   ├── bw4000.vom [b856474b50756843bba6cfa458db0f4791e346c634eabe0bc701bdbe86200dbc]
+│   └── bw4001.vom [1bbdd26a5d04769ae27a88f54e21267164b094805eee228b04df9528bb456b8d]
 ├── 0401
-│   ├── bwmay401.c1
-│   └── bwmay401.c2
+│   ├── bwmay401.c1 [51e7f1a4672de56bb771f292a0e8359c9160833828c563e84aed456337c3d178]
+│   └── bwmay401.c2 [cc513a1f6c7754aea14772375e87a03f5543792cb5f8cda8a5a397fd6565d81d]
 ├── 0402
 │   ├── a
-│   │   └── bw!402 (2).com
+│   │   └── bw!402 (2).com [6c84243d4bad0a858651850665b05f2c357bfc0cc2febf4b3b1a46b681684633]
 │   ├── b
-│   │   ├── bw_402_b.vo
-│   │   └── bw_402_b.vom
+│   │   ├── bw_402_b.vo [fb24a466c496c79c7e19ed13516d715d3013e2882963e7ab41946c2c4f040a1d]
+│   │   └── bw_402_b.vom [bb7d6c002fa71833915a5bcf88c96df475d17014780dfd186d0a860cf5fcfd19]
 │   └── unknown
-│       └── virus.dos.bw.399
+│       └── virus.dos.bw.399 [f418274cb9ed7b0bfb71469b2627d4b9567d3cf7bb4da75662f899d3bfa8739e]
 ├── 0405
 │   ├── a
-│   │   ├── bw_405_a-001.vom
-│   │   └── bw_405_a.vom
+│   │   ├── bw_405_a-001.vom [f82e0aa153af872da355d0a33eb6eb5b0c86784c1eae90d2661004dd27a62eeb]
+│   │   └── bw_405_a.vom [09e5923bedc8236c1195a564157d4c6e4f57135cc91098a4a5d2247aba84fd15]
 │   ├── b
-│   │   ├── bw_405_b-001.vom
-│   │   ├── bw_405_b-002.vom
-│   │   └── bw_405_b.vom
+│   │   ├── bw_405_b-001.vom [83e2a5d0400bf8b2952b839624c5b71c9240636b19d516c7be9772da17885d30]
+│   │   ├── bw_405_b-002.vom [4ada99c641268d6e8ce92edb249c947fd2dfbfdccc383c0dc278389806f9caa1]
+│   │   └── bw_405_b.vom [4ada99c641268d6e8ce92edb249c947fd2dfbfdccc383c0dc278389806f9caa1]
 │   └── c
-│       └── bw405.vom
+│       └── bw405.vom [cdc5deb4787a6816e93975981cd723451e75cd6ec0264c2909b91f9b2dd9fc65]
 ├── 0409
 │   ├── a
-│   │   ├── bw!409 (2).com
-│   │   └── opy.vxe
+│   │   ├── bw!409 (2).com [93444631c27d1f696fece7c59c49273274237359bd8fa287b74cb0b6c18667e0]
+│   │   └── opy.vxe [2daf00e26b8604001053507001a44108bd6f5cca18b387dbb3c54ab856d19d0c]
 │   ├── b
-│   │   ├── bw_409_b-001.vom
-│   │   └── bw_409_b.vom
+│   │   ├── bw_409_b-001.vom [9d5087c7f9e14c4c8757341e6c7ca9beaf807721ddcb10012742f94f087d4b47]
+│   │   └── bw_409_b.vom [8c7a3cc5b90b928d0729f0a4d7135263712fe993751b4eeb87c5ed8893ae4afb]
 │   └── unknown
-│       └── virus.dos.bw.406
+│       └── virus.dos.bw.406 [e6f920adb8525869694c47d8d7e5ede5dc1a6cd8d47b06abad5b303148bf8050]
 ├── 0410
-│   └── bw_410.vom
+│   └── bw_410.vom [0850154df9ec7e8d62d0dbe076f57cfa09b7ca6ccab974df7c994be22e13f7a3]
 ├── 0412
-│   ├── bw_412.vo
-│   └── bw_412.vom
+│   ├── bw_412.vo [6179d8afbac45e90d40b1465972b903599012519d1f2713c4ba49d124ca0e09f]
+│   └── bw_412.vom [fe984bafd1dca7ee0b7a1c3cf86789fdb0cee7c4a3ee84fd60c578979de07115]
 ├── 0414
-│   ├── bw_414-001.vom
-│   └── bw_414.vom
+│   ├── bw_414-001.vom [fcbae992e2858d0d247b51ce03b905e830413d735d1c6eba8520feb2e101e3e3]
+│   └── bw_414.vom [0263467cbcb7f8c90e5f60c09ce456d85f82ddba8c17a14b62362ab78a5c3778]
 ├── 0433
-│   └── bw_433.vxe
+│   └── bw_433.vxe [00d7b84b1e832f4e84ee57a97425897401b33f1b3d246d17b9d7299469fccb9f]
 ├── 0455
-│   └── bw_455.vxe
+│   └── bw_455.vxe [cf3dd3dae7c41aadd356665b88d0c59dc68b07b103409a3e80dcd05a9a7d271c]
 ├── 0472
-│   └── bw_472.vom
+│   └── bw_472.vom [0e2d4b6f9665da4212184fc6f95fa1d67e6a8b23eb93b009eb51875c61776c04]
 ├── 0474
-│   └── BW-474.vom
+│   └── BW-474.vom [e0049d133a26d84e7b9b6a5cb470aa16a066a84f92d039237148b7eb8ecac033]
 ├── 0475
 │   ├── a
-│   │   └── bw!475 (2).com
+│   │   └── bw!475 (2).com [16f9213d409bae8ed041f73e95ea3b1b0cf6e59f752d12eac3bd2b4c37162ccd]
 │   ├── b
-│   │   └── bw_475_b.vom
+│   │   └── bw_475_b.vom [433a446c426aa7f60bbf6ca6eb5f26a13f1852d244a55bc69192d97d7ca315af]
 │   └── unknown
-│       └── jethro.vxe
+│       └── jethro.vxe [a587f0e943241ef557d0ec276c1235e5500a8f6a1d0cf2770da7bd94950c4499]
 ├── 0488
-│   └── bw_488.vom
+│   └── bw_488.vom [c60b8a4adf884a9f649d62601d996596bcf7b527425162d7316fdaf3e49390ab]
 ├── 0491
-│   └── bw_491-001.vom
+│   └── bw_491-001.vom [4558af6210bf0d704faeb81d33665d73babd6bf592dd0ef03e85dc6bb84e9cdd]
 ├── 0493
-│   └── bw_493.vom
+│   └── bw_493.vom [e8d7864f13a0113653a66c96c11f183d676dc70593ce24940c993f5c71e1169d]
 ├── 0495
-│   └── bw_495-001.vom
+│   └── bw_495-001.vom [6580dbd63f5cb86fb9450602f9ddb6404c571002c9935392f969e96a9d8115ad]
 ├── 0496
-│   └── bw!496.com
+│   └── bw!496.com [3fe3b0ed3acf6b371e402caecd24a9a204abbf84508b20c68ce797a9d246c986]
 ├── 0499
-│   ├── bw_499-001.vom
-│   ├── bw_499-002.vom
-│   └── bw_499.vom
+│   ├── bw_499-001.vom [e83b063ab2f7f33a485f5ab43b46c29060e8e57027bc52a239aec16ed2fab447]
+│   ├── bw_499-002.vom [cc1cbfcef92c9763cfd5b0161e8ebd983e04f59ea5bbf6e61f183407212a937b]
+│   └── bw_499.vom [9a0479fa4f31a867022d303f48a8a69ff5bbc3845518186fb232f47bf0f31f8e]
 ├── 0502
-│   ├── bw!502.com
-│   └── virus.dos.mnemonix.mayberry.502
+│   ├── bw!502.com [6bdf23e7617e47380a98e5094d598a931c59b0476b697a55737e4ce5b72b3d9e]
+│   └── virus.dos.mnemonix.mayberry.502 [d9f651e5b1efcf5c05232986e3f3746399ca1ac6ceaf489c02623656052a9fee]
 ├── 0512
 │   └── b
-│       └── bw_512_b.vom
+│       └── bw_512_b.vom [be1893daa245737f753f3e4b252f542b143fe55f99f40695b9b5c1b075b100ea]
 ├── 0523
-│   └── bw2.vxe
+│   └── bw2.vxe [1250cc90dc28911f9cfb3307e62ef831862b3826744d1f88fa8e1f21df0f97e2]
 ├── 0525
-│   ├── bw-ex3.com
-│   ├── bwunk_2.vxe
-│   └── bx5.vxe
+│   ├── bw-ex3.com [806c4e5c465f32a247cdbf84907006f93ef0c673c64d1854279f1aa87239d5a8]
+│   ├── bwunk_2.vxe [ad436e3b2c320761868976726b8495781aa9bdcd176f78f0318cfb48fb143257]
+│   └── bx5.vxe [7123e1788409cb5d87a6a5e392d91d63cbf9713c1e8b49dc1c9a225ef73f0ea2]
 ├── 0548
-│   └── bw_548.vom
+│   └── bw_548.vom [c8e977473c0941ef4dcd54b758e00f77ae2f24dd31329f336985d40d3bdedaa4]
 ├── 0550
-│   ├── bw_550-001.vom
-│   ├── bw_550.vo
-│   └── bw_550.vom
+│   ├── bw_550-001.vom [82f709a07dffb602460a9b5cdca32a7b6b667db39bcc92f1c0f3d00e2e124f91]
+│   ├── bw_550.vo [a073b5d53de279a87981227f3f9ce7760a1925b6ae80442e1ab3817ba707f6f6]
+│   └── bw_550.vom [a073b5d53de279a87981227f3f9ce7760a1925b6ae80442e1ab3817ba707f6f6]
 ├── 0551
-│   └── bw_551.vom
+│   └── bw_551.vom [822a7aa6cd3297943990efd852c122fc126889595010273960eedb8b5a38377f]
 ├── 0552
-│   └── bw_552.vom
+│   └── bw_552.vom [84d390a0dc4ea7749227f783908947be1a23ab6aa8f814963749094bc95ab2a6]
 ├── 0553
-│   └── bw_553.vxe
+│   └── bw_553.vxe [6df4109a3930450ad768f66e7b336add9fb644b8de99f3c089044a876cf10415]
 ├── 0556
-│   └── bw-ex2.com
+│   └── bw-ex2.com [5398529112ff428122ea5905f9be303d7548778cbc90c1d5629f4f18420581dd]
 ├── 0558
-│   └── bw_558.vom
+│   └── bw_558.vom [4b1b26cf3950c61d6b12a6778d9276b0a4f1b8657dfe00ac85badec37500f626]
 ├── 0559
-│   └── bw_559.vom
+│   └── bw_559.vom [6b477a14831ba695d72a27e70214ab05eaf87aee870dd28e7c0fa61d406646dd]
 ├── 0562
-│   └── bw_562.vom
+│   └── bw_562.vom [0ebd81741fb0a9d6940cebe8b4fb8a6b08eccee0c2ed44fee2b1debdd11cbdd0]
 ├── 0567
 │   └── b
-│       └── bw_567_b.vom
+│       └── bw_567_b.vom [bea064c9e75ff68d6f7a15c218ec669c6856fcd0be694c1d150fdc0573b815b3]
 ├── 0572
-│   └── bw_572.vom
+│   └── bw_572.vom [f62e98728232bcb7977a6a5b1794be86f8f06417381eb02b8f42065fb63fa4aa]
 ├── 0573
-│   └── bw_573-001.vom
+│   └── bw_573-001.vom [6553332bffcf0ee9381881a4d96a2e7a0590750c6f8c66a2688bdf5e07fee739]
 ├── 0575
 │   ├── a
-│   │   └── bw_575_a.vom
+│   │   └── bw_575_a.vom [d49e2700a2fdcb8def182c0d443039b443b83d14606834a067de13422cc11c88]
 │   └── b
-│       ├── bw_575_b-001.vom
-│       ├── bw_575_b-002.vom
-│       └── bw_575_b.vom
+│       ├── bw_575_b-001.vom [4f36ba0a20c37b17f6bbf3c22abcd29138799887223b1370c1accfa6f05afa96]
+│       ├── bw_575_b-002.vom [f2a1d0fe44d6513d175f750d91d78af2dc28534e1921244a798bd7ace12a05c1]
+│       └── bw_575_b.vom [4f3431dd9b95677df0e4acb2b67d9be47cf02eeb0ec2bb9e367ac4885258f993]
 ├── 0577
 │   ├── a
-│   │   └── bw_577_a.vom
+│   │   └── bw_577_a.vom [a0c8b94cbadfbb14bc769e3ae931f32f46d7c31f5c8f5e2162644b9a383fcfa0]
 │   ├── b
-│   │   └── bw_577_b-001.vom
+│   │   └── bw_577_b-001.vom [69f9750d579b4ed990b3fc270ca6ccb0861620fd72cbd0e56c994a2fa98ce136]
 │   └── c
-│       └── bw_577_c.vom
+│       └── bw_577_c.vom [0021b1d22dffb4af30c147cf4c0bb8423352c360935c7efc9fcf85c28d715e28]
 ├── 0579
-│   └── bw_579.vom
+│   └── bw_579.vom [148b8448a25a5a64bf1e49463ac2a6ff3bf812d51962763daf983e19ee60a749]
 ├── 0588
-│   └── bw_588.vom
+│   └── bw_588.vom [dc0081736b98839e62b215266ccc3072e3529e1f147fda68bd2f941673fd5af3]
 ├── 0599
 │   └── a
-│       └── bw_599_a.vom
+│       └── bw_599_a.vom [66ad3d8e2df01d2b4effad2e06905f01c5fc9c67cd0bd0b89d6c5188befe6e2a]
 ├── 0604
 │   ├── a
-│   │   ├── andy2.vxe
-│   │   └── andyex~1.vxe
+│   │   ├── andy2.vxe [ccc5febdba80bb25a1be12af8322aba057ccd214dcdc87bbedebb8f7e37b1d04]
+│   │   └── andyex~1.vxe [d7fb4ad8e67a94267e539612f3db1f38ef46dfe2e24a4ce7bb61d42f7d0c5806]
 │   └── b
-│       ├── bw_604_b-001.vxe
-│       └── bw_604_b.vom
+│       ├── bw_604_b-001.vxe [b0ef83c73f0ff238ccd69575705c4a7aee3155bc8cf78092c465491701c2d9dd]
+│       └── bw_604_b.vom [9338d7205639311d37e4e33a52c82ac0367a4392aca8f20a56a8ee1a6e130818]
 ├── 0620
 │   └── a
-│       ├── bw_620_a-001.vxe
-│       ├── bw_620_a-002.vxe
-│       └── bw_620_a.vxe
+│       ├── bw_620_a-001.vxe [2931810d7c73005ba28ccb1288ddd6a63281c7dba4a3be89e283d0db98f027ed]
+│       ├── bw_620_a-002.vxe [74eb17d4e3b6d001584558234c7aefcc41d94741f57ef1f63bb14a5f05d240a0]
+│       └── bw_620_a.vxe [1a069f0b2b02acf12829e42f776a727eea468774c9567f5280d8df45d50c6a0e]
 ├── 0630
 │   ├── a
-│   │   └── bw_630_a-001.vom
+│   │   └── bw_630_a-001.vom [3913edace85ea365117aae63a8ea1631755f25c7b929e27ae5b9b1f101743581]
 │   ├── b
-│   │   └── bw_630_b.vom
+│   │   └── bw_630_b.vom [91e50a2ad24afa74daf38b6bdd8ebfacf706bd520529d582d36805fc1ceff2fb]
 │   └── c
-│       └── bw_630_c.vom
+│       └── bw_630_c.vom [e21957eb1327d89a0201ee66fe8e4bd075f8e6d463ec3fcf7bc84a86be8f382e]
 ├── 0633
-│   ├── bw_633.vom
-│   └── bw_633.vxe
+│   ├── bw_633.vom [aaa446d841fdd81734d566482ac576838837c897de44c3c38ea9509ef9a60ef6]
+│   └── bw_633.vxe [9c3303139587f57d7777c778a757dcb006ab54fa223fd6cf51860d3629e7b058]
 ├── 0634
-│   └── bw_634.vom
+│   └── bw_634.vom [ffe25ab2757874808a08324695b102fa7533726b68287a23e629cd9df927c68e]
 ├── 0636
 │   └── b
-│       └── bw_636_b.vom
+│       └── bw_636_b.vom [d021cb370a489de0777c1f9a041da0e34c357781c8c47e56b4b5679a69ee9689]
 ├── 0637
-│   └── bw_637.vom
+│   └── bw_637.vom [a66d331741cad0826ef1db61b26d2487804781dfcb0dba11871a3aab1573e4d8]
 ├── 0640
-│   └── bw_640.vom
+│   └── bw_640.vom [1cb6d2979418152b76c39683a55490e8df2c934d109ab19e21f4a0738a0879d1]
 ├── 0641
-│   ├── bw_641-001.vom
-│   └── bw_641.vom
+│   ├── bw_641-001.vom [feb59650217b422e7911aab3853e0f2c15ef18926320d03f94a2678a43df873b]
+│   └── bw_641.vom [13e8c81592c36229eaa5d7f6d802cc2b66bcc83bcb76cde808314b0986af85e4]
 ├── 0642
-│   └── bw_642.vom
+│   └── bw_642.vom [8b8587a9417b244322418884542b9cc0f52173297e5cfc13e4d480ba2f31e2c3]
 ├── 0648
 │   └── b
-│       └── cibd.vxe
+│       └── cibd.vxe [3d71cf446d2eeb46af1a460d9186fbd0358f40f15da56a92314e3f9b47364349]
 ├── 0649
 │   ├── a
-│   │   └── bw_649_a.vom
+│   │   └── bw_649_a.vom [f8d9ca067d8312c076ac429d908ce2467b74e6cfa987cfc01ee74bc0e0a3519b]
 │   └── b
-│       ├── bw_649_b-001.vom
-│       ├── bw_649_b.vom
-│       └── bw_649_b.vxe
+│       ├── bw_649_b-001.vom [9c479359c29ddf028164f9248677b92d3fec96721dbf521e211ae13f57ec9641]
+│       ├── bw_649_b.vom [e59fe315e0dfabdfe9ba170989c7512b237b3a20388e3c12c134a03f6b883103]
+│       └── bw_649_b.vxe [205f9c87219b8b1ab44318d9629abb062c5d28e74f4bd84a1a249c1378016415]
 ├── 0650
-│   └── bw_650.vom
+│   └── bw_650.vom [0a600d0e24636fffcfefdf29ffa3cff741a73c6dde40d7387e4df30b6e7b292d]
 ├── 0653
 │   ├── a
-│   │   ├── bw_653_a-001.vxe
-│   │   ├── bw_653_a.vom
-│   │   └── bw_653_a.vxe
+│   │   ├── bw_653_a-001.vxe [32df1d2778f04780850c0668814601f316585d271661929c74a8f9703a933060]
+│   │   ├── bw_653_a.vom [ec08b1896a5397f7265b1753289d50bb264d737722ec9f05efe529dd7d751def]
+│   │   └── bw_653_a.vxe [21be40047b01cbf5b2b95273510509356639439f5242cbd287bb9fd1dd7bc0e7]
 │   └── b
-│       ├── bw_653_b-001.vxe
-│       ├── bw_653_b-002.vxe
-│       └── bw_653_b.vxe
+│       ├── bw_653_b-001.vxe [545f501949536d64240f914610854cc02a160371ee9df687835725b5c3619ef1]
+│       ├── bw_653_b-002.vxe [9a798a022c092f7e59d0f0877129fd11fe27c3d4f98931ad8cb820de52da7f55]
+│       └── bw_653_b.vxe [100c6dc15f0abbd7f5deaabf3d2164ab9af53f0f1f43daac170c4fd02190c3b5]
 ├── 0654
-│   └── bw_654.vom
+│   └── bw_654.vom [37dc1f9e6093518f84853e032fa2646f825b1d2437b683d9507cd777bfb331bc]
 ├── 0666
-│   └── virus.dos.bw.aos.666
+│   └── virus.dos.bw.aos.666 [4ed43ecda142038a688812c2ff6aa3db2d8c564d89668ca892ec9564880e41b7]
 ├── 0676
-│   └── bw_676.vxe
+│   └── bw_676.vxe [6aa4144c6ce056877b0e0c5adfea94b5eed735c7f431eaa1115e064677ac6fe2]
 ├── 0681
 │   ├── a
-│   │   └── bw_681_a.vxe
+│   │   └── bw_681_a.vxe [6fa213d3ee38e9384897413b4dead28f4c817e65c262cbab6cc3329028376aac]
 │   └── b
-│       └── bbds.vxe
+│       └── bbds.vxe [0fa35c6288983fa194ee594636065c6464267cac7891c1cdf056beda732cdae7]
 ├── 0682
-│   ├── bw_682-001.vxe
-│   ├── bw_682.vom
-│   └── bw_682.vxe
+│   ├── bw_682-001.vxe [46485a1b0af55e1c3549e53ba8173e4a2abb6f6387f0c6a25397f6554e32450a]
+│   ├── bw_682.vom [b20e2e39587a81dfc7919c65ec807471d065e1c0a59ccdb4d7d038ad5290c12b]
+│   └── bw_682.vxe [15dbfcc7fd2904c7681b9f4dd9addf0a64a1e362584b3c952a6496bc3e63d787]
 ├── 0687
 │   ├── a
-│   │   ├── bw!687.com
-│   │   └── bwm687a.vxe
+│   │   ├── bw!687.com [30a0154da50d6562bcb679b3e238a7090b2b3c30fa71522c3e7e1175de8fa416]
+│   │   └── bwm687a.vxe [2d3854a2ede172d056df6472b743598d2e68cd9a72801381f25652aa53b4e791]
 │   └── b
-│       ├── bw_687_b-001.vom
-│       └── bw_687_b.vom
+│       ├── bw_687_b-001.vom [fae8048421e4d6f04c0c8c4fc70b6489cf35b8c7481fb0a1fd2579259af69de0]
+│       └── bw_687_b.vom [b05ee1f3677ad53ad4d727314766ace7094881271cd4fa3406f9e737b366d1c5]
 ├── 0688
-│   ├── bw_688-001.vxe
-│   └── bw_688.vxe
+│   ├── bw_688-001.vxe [5a46eb8e15cbdc1a1f224cdc7bf948eadc0692393abe39e3b60c109451435b79]
+│   └── bw_688.vxe [268129caf0d2c8d173874336b59d256dfc66f9fa2a0d5b2e833f19decaabad40]
 ├── 0691
-│   └── gomer.vxe
+│   └── gomer.vxe [33e3c482e2a15e66a33869f4b509b8a1f3584d3b0e533c10b955cf4ef569f891]
 ├── 0704
 │   └── c
-│       └── virus.dos.bw.704
+│       └── virus.dos.bw.704 [76c9f2a99433f7673596dd06a6289a4baf8fbcb1b7943ac90c33679c44565dcb]
 ├── 0706
-│   └── cin.vxe
+│   └── cin.vxe [00752138be3fa428e73e83071e5cc48594e8aafa4e0a1d45065b8395ae75264c]
 ├── 0709
-│   ├── bw_709-001.vxe
-│   ├── bw_709.vom
-│   └── bw_709.vxe
+│   ├── bw_709-001.vxe [94c8333b6349b725e160819bffb8df7dc6dce03d79f73bf09e3ec1ca8b9a7758]
+│   ├── bw_709.vom [a0b41f09522b2af2cef323f560078716f25fe167dbd698db535a446a63c3bbc3]
+│   └── bw_709.vxe [1519cfb124166b178c6dd87198ca8e5d6d3de8418990735c406d7ae6ab3dcb1b]
 ├── 0713
-│   └── bw_713.vom
+│   └── bw_713.vom [2b8fb99b90e2bc0ee6c4cbebd9d2637beadf3f77c3e998a80058a541b4f30bd4]
 ├── 0714
-│   └── virus.dos.bw.714
+│   └── virus.dos.bw.714 [6e25c2c11f572996a74160dd8cfa5a05be6b8af0c4f7f514456ae8ad4aab0b36]
 ├── 0723
-│   └── bw_723.vom
+│   └── bw_723.vom [5905835a7421954c2193dc55040b0b1d25b230a19a35e069c19ababbced11de5]
 ├── 0726
-│   └── virus.dos.lewd.a
+│   └── virus.dos.lewd.a [4b9d4f00b30348e0205048fc38eab5260437531da2e08d8191f6ff90110371fb]
 ├── 0727
-│   ├── bw_727-001.vxe
-│   └── bw_727.vxe
+│   ├── bw_727-001.vxe [963ab7ea4eead9c1d1128f5b85070d8d29b8d31888c530db1a3424bc91f86594]
+│   └── bw_727.vxe [563767b63af3790b6e8d0bb8fceef9af8204eeb7f48265e276924548be2475dc]
 ├── 0729
-│   └── bw_729.vom
+│   └── bw_729.vom [da82e85393d461d25f64117b06b6399b7dd3e7bba03052ed2aea29abc104cbe9]
 ├── 0732
-│   ├── bw!732.com
-│   └── bwm732a.vxe
+│   ├── bw!732.com [4fa33c7bbc382263dc3043cc96b9284f7bcd3f48198757b2fed2fa5075bb1323]
+│   └── bwm732a.vxe [d2fba580e15594ea3070e29b4b828e856738eed70547edbefa21271e6d37db47]
 ├── 0735
 │   ├── a
-│   │   ├── bw_735_a-001.vom
-│   │   ├── bw_735_a-002.vom
-│   │   └── bw_735_a.vom
+│   │   ├── bw_735_a-001.vom [8a0b623bdec293bc9dabc7ca4e273d94caae0883004f4c3e428ac15823816bb4]
+│   │   ├── bw_735_a-002.vom [bc277d1b39e5bda6df17d0cbd80373c5e1d5e2b555fed6dba9254111e8952662]
+│   │   └── bw_735_a.vom [6ad09327959d2135ee0b59d3d5687e50a21fa10400ee37335d007bbb78dd8fcd]
 │   └── c
-│       └── bw_735_c.vxe
+│       └── bw_735_c.vxe [58c2e11bf508ab9bee1a347e8425307da98dd4cf6eb3bb7e2ae6f94fbbe07073]
 ├── 0740
-│   └── oldefart.vxe
+│   └── oldefart.vxe [358ea5e63da1c21ad1068adfc77f22a71387cd31659cf66bb963a0a110fab912]
 ├── 0742
-│   └── bw_742-001.vom
+│   └── bw_742-001.vom [c2000ac8e3727e39af98fd19f5c4935f33fb8d053b8b4035e74e08195f404806]
 ├── 0747
 │   ├── a
-│   │   ├── bw!747.com
-│   │   └── otis.vxe
+│   │   ├── bw!747.com [b746d066ece6d1ef3474c7420a2c4fcf7347148cec628df5381c99af813e3901]
+│   │   └── otis.vxe [6ab14723c74cbdd3a3ddc7df244d7025a48c8eee9554e5301be130c193c5f3b7]
 │   ├── c
-│   │   ├── bw750.c1
-│   │   └── bw750.e1
+│   │   ├── bw750.c1 [16cd2f5bd37b0873f7f952e07eee8a82d42cc46d819bae878f8b697ba5f7c11b]
+│   │   └── bw750.e1 [e387c87ae7f50fa5d1ff76789a78ca512c43f52b23b20b95021e06ae9a6964b0]
 │   └── unknown
-│       └── virus.dos.bw.744
+│       └── virus.dos.bw.744 [68a75b1a6a1bf7e6871b45fe3205eecbef3ad01a3adb9cf5d99c307acb8628f5]
 ├── 0750
-│   └── mscrump2.vxe
+│   └── mscrump2.vxe [911c3cd6e54c99276bbbfac6e489b2ddad65302bb2976a0882c88d3ba750c3fd]
 ├── 0751
 │   └── a
-│       ├── bw751b.c1
-│       ├── bw751b.c2
-│       └── bw751b.c3
+│       ├── bw751b.c1 [5529c1040d64a0236913661bad0faade492c95a6f2e0dcbdb46396ca56338805]
+│       ├── bw751b.c2 [e0f67db7ce36850ffdf0db39b4e4260367e8ca7d19758b95206a81e964c681e7]
+│       └── bw751b.c3 [98b5d69f7af90728439517e026f46d8897952f1107571c5469fedd1b15fe0ec3]
 ├── 0752
-│   ├── bw_752-001.vom
-│   ├── bw_752-001.vxe
-│   └── bw_752.vom
+│   ├── bw_752-001.vom [df6c81c8d1c1beb8ee57deb94edf5d67d9dba64eba8a76a5313df90a7ef0554e]
+│   ├── bw_752-001.vxe [545be6629fea7af20b3ea17c02303a8ee0e05abd04f738f6a49bea69a73aa9ac]
+│   └── bw_752.vom [07f2d4c001ca5f47da1a7b6a8c20eff1e70f8134f0f3478cc51519ef9faac583]
 ├── 0754
-│   ├── coyo-754.vom
-│   ├── coyo754-.vxe
-│   ├── coyo754_.vxe
-│   └── coyot754.vxe
+│   ├── coyo-754.vom [1c259ef02ac4420d2441105316936a4ee86693bce4c93d10c908209328cc5ac5]
+│   ├── coyo754-.vxe [7410425943e9b2f7508ea91e6e0b47d057fec74440eb3d8591bd9760925e4a77]
+│   ├── coyo754_.vxe [7841daff63fee1d49abea8072c47ad87f1fd36842223b69f69d718f6879df9e3]
+│   └── coyot754.vxe [801948ae357519088cf37105c44a5887e51de229034c6b6c368536f03fa63fbb]
 ├── 0756
-│   └── BW-756.vom
+│   └── BW-756.vom [9da9ec1d7ed237a3032eeef51d2d1d84250f0d74867dc26b15b51adabf47b0c2]
 ├── 0758
 │   ├── a
-│   │   ├── bw!758.com
-│   │   └── mscrump.vxe
+│   │   ├── bw!758.com [1c99bbeb4d45a9354cabb70e4ea820ffeb12ea691897ffb1ca35eada3a5a02f5]
+│   │   └── mscrump.vxe [3e675b12b8dd40caded7a33c06e99ee0606d8e2969185a900b72adf00df28054]
 │   └── b
-│       ├── bw_758_b-001.vom
-│       └── bw_758_b.vom
+│       ├── bw_758_b-001.vom [bcf5aa837dd0a7431590cd7287ae73e916a05e1e0f98c9ec3eec0f027b3f14df]
+│       └── bw_758_b.vom [482593d11aa31f14c60ff898ce8fb4d451a4acc04ca2fc3a25b37a3399a8eaec]
 ├── 0760
 │   └── a
-│       ├── bw_760_a-001.vom
-│       ├── bw_760_a.vom
-│       └── bw_760_a.vxe
+│       ├── bw_760_a-001.vom [d2f1687879fd557d8bbb9f8167d3535af11cfb606f7bdfa5a256e7f48ed81fb1]
+│       ├── bw_760_a.vom [a80f864b9a6dd0caa55b0a68e53ad0aeddf7fd2a80569bed52071235a3823085]
+│       └── bw_760_a.vxe [4a010cac3f022ba5b040422e82f534aa32efce81ffbe474d8859924b09c37810]
 ├── 0764
-│   ├── bw_764-001.vxe
-│   ├── bw_764-002.vxe
-│   └── bw_764.vxe
+│   ├── bw_764-001.vxe [61d35e69f0ae2b9d7eee3a68f4012dcf87f77cca2a5f944c897927aeb82c60df]
+│   ├── bw_764-002.vxe [664c74ff39a968757385ae7660bcc6f1630f0d8ff53a8b769b12c9b4c985575a]
+│   └── bw_764.vxe [317c4824b340996b11d3208dbb79a073cfebe5ed41994572bd38c6d93525e1b0]
 ├── 0765
 │   └── b
-│       ├── bw_765_b-001.vom
-│       ├── bw_765_b-002.vom
-│       └── bw_765_b.vom
+│       ├── bw_765_b-001.vom [eb4ecf37dbb8caf4b5b1a16ca97fac17711be52d1acef6f6080ed0a07c51b560]
+│       ├── bw_765_b-002.vom [ee9b6a8f75c60248984ce12e29ae9c2c090fbf1251d84954c588bb0e18f23a03]
+│       └── bw_765_b.vom [cfe43dcea52661a6d80c518f26eabb90c39980998b35765a3b2aa5cbe4f5ff19]
 ├── 0767
 │   ├── a
-│   │   ├── bw_767_a-001.vom
-│   │   ├── bw_767_a.vom
-│   │   └── bw_767_a.vxe
+│   │   ├── bw_767_a-001.vom [889764dec09118e0e95de7e1c08f987afd283c480c7e8b64bd2a8fb6556f8b73]
+│   │   ├── bw_767_a.vom [fcd24660c0b77b6e66f793ac2dad8b9513b24ac71423c7a422e45663356f466a]
+│   │   └── bw_767_a.vxe [6392228ae25d87f5fa4e1a59fab462e27bc98531e0996d229161f4db8adf79ad]
 │   └── b
-│       └── bw_767_b.vxe
+│       └── bw_767_b.vxe [889b41e86e4d1e5c219fdc08f81061ec8588a81c48af7d19f559f56aeb99888e]
 ├── 0769
-│   ├── bw_769-001.vxe
-│   ├── bw_769.vom
-│   └── bw_769.vxe
+│   ├── bw_769-001.vxe [6a141d4ce391d10950f101dc2f8af59dad44b271b8cd0459d3a7770ae42b7c00]
+│   ├── bw_769.vom [fa90416383dcc2f1e57c1958a22f3b4dcb3be8c6ffde251445b6930008ab68f2]
+│   └── bw_769.vxe [6746b25b065462ce0bce39eb522ff8a601bf896ac825c9fff1465b5eceb286a3]
 ├── 0770
-│   └── bw_770.vom
+│   └── bw_770.vom [d669e71dc1a3c25d4ce85d27f81f2edcb0f87abf18758820dc45476687780075]
 ├── 0771
 │   └── b
-│       ├── bwshk771.c1
-│       ├── bwshk771.c2
-│       ├── bwshk771.e1
-│       └── bwshk771.e2
+│       ├── bwshk771.c1 [2281210ffb28b1c1d8f220a4ebbd592bede2f287ee36647ed8fc085083f54f03]
+│       ├── bwshk771.c2 [86ad0e1a2364c9294fdc71968b60d244521955acb0489ce4f79162efcc07b804]
+│       ├── bwshk771.e1 [50758f45c74e95798436889e4522eba799d3b8372dc09b62fbd263458fcd028a]
+│       └── bwshk771.e2 [6163e14a308be8f6e1b2c622a05f087f9a20121f2c8c852d87d69615a45d463c]
 ├── 0772
 │   ├── a
-│   │   └── bw_772_a.vxe
+│   │   └── bw_772_a.vxe [577558a4c0b392374e8679d33ac688119738b695982b19e861e45699af13cc78]
 │   └── b
-│       ├── bw_772_b.vom
-│       └── bw_772_b.vxe
+│       ├── bw_772_b.vom [a0f3d1eb82af39be0a1a54ca135dcdfd1685b2db427f95bb562574f2445c315c]
+│       └── bw_772_b.vxe [917a4b4be88a3121a91fb6fa442f7fcbcd81a8a21fb0b1bf63ffb6e542179094]
 ├── 0774
-│   ├── bw_774-001.vom
-│   ├── bw_774.vom
-│   └── bw_774.vxe
+│   ├── bw_774-001.vom [cce21324295a5c4d8471df8a2e3192bc6675a80bda7cb07ced3f2d1d1eb99630]
+│   ├── bw_774.vom [b54e0c7c113ea69faa6d25a693b5e85354f4b84a6258f2d29916126ae5c83b5d]
+│   └── bw_774.vxe [7bc98cd044fc28bd625883ee1730438b9db9d34600a677a69f001f876b9d09d9]
 ├── 0785
-│   └── virus.dos.bw.aos.lord.785
+│   └── virus.dos.bw.aos.lord.785 [67564b6d97ed983ce9199117e81804219c78f50b5928a98560be13d76fe103e6]
 ├── 0786
-│   ├── bw_786.vom
-│   └── bw_786.vxe
+│   ├── bw_786.vom [ee64f558d4f5dab72a2af0e2965f7ddc582accc240f99f2eb25f56a096df192a]
+│   └── bw_786.vxe [183f490378f2e70ff7d7f63019505200143dd1bdad7d06381bea62e77018448e]
 ├── 0790
 │   ├── a
-│   │   └── A.vom
+│   │   └── A.vom [649810e13a6be1d776f69f723eaa95aadfbab317ac100a61ff2ef2aa1a6f566f]
 │   └── b
-│       └── drole790.vom
+│       └── drole790.vom [e63ce1f421a198c967ebea7ee497eb55ac663a53967381ef9b7ef2f8004b8a23]
 ├── 0793
-│   └── BW#793.vom
+│   └── BW#793.vom [d36e00f0ee8c220928ce14116f08b6087b9b2eca5c66af13c9086e04d675b763]
 ├── 0795
-│   ├── bw_795-001.vom
-│   └── bw_795.vxe
+│   ├── bw_795-001.vom [4c8e8c6f72c3100951067c48d1754d9c3c09d035e68b8aa7fa3a4c5ac762d1f5]
+│   └── bw_795.vxe [00c125e538e501ad7aa7da14b0efa432bb8061b1a97c4212c157a4676f46174c]
 ├── 0796
-│   └── drole796.vom
+│   └── drole796.vom [b802bfaa178258af67969fbf9c166d77c51498fb19d7cbb6d18dd6fb9a96ebbe]
 ├── 0799
-│   └── BW#799.vom
+│   └── BW#799.vom [881c4d3782aad52074b59c3c0a8df5c62f04202c9d725a6c1dfd35cc9f69d5e8]
 ├── 0801
-│   └── drole801.vom
+│   └── drole801.vom [70a1dab268dea0c32b30716b7b1906a9b32214d8cfa837368039bf9d4aaa3038]
 ├── 0802
-│   └── quiet802.vom
+│   └── quiet802.vom [cf966def6f79b81ef0375f7a85a8fcf330ebfce93c4359855fc3c9e03790c12f]
 ├── 0803
-│   └── drole806.vom
+│   └── drole806.vom [c8d1349566e9932ee92110bdeceaa5b4f0a2337ee71efbda3e55e796862e9d36]
 ├── 0805
-│   └── quiet805.vom
+│   └── quiet805.vom [14473a10a1f4f95d18be6a702eca66720a7bdfcf4e4f8e73561403c48b37fd13]
 ├── 0808
 │   ├── a
-│   │   └── bw_808_a.vom
+│   │   └── bw_808_a.vom [d5337d495b96ae9265d45b03f4e4bc949bf6c2dd778ea02d9bcedac121873b70]
 │   └── b
-│       └── quiet808.vom
+│       └── quiet808.vom [029d241fcd89418cdba7630ff5f7e7eca0ec3cc7b0b3598c82904d69b9f58727]
 ├── 0811
-│   ├── drole811.vom
-│   └── quiet811.vom
+│   ├── drole811.vom [d80a135d646ea8c75b46a4997e063070d616287d9bf92fe17389394306c1df0c]
+│   └── quiet811.vom [a8b7bb251f8d863838bdfe09eaa3a3f433a27ac280dfb3d2afe03118fcef0c9e]
 ├── 0814
-│   └── quiet814.vom
+│   └── quiet814.vom [3f290507440f896daffc1d1b87ba46e5ce8613e8446d001c695e229b3d810509]
 ├── 0815
-│   └── virus.dos.ca.815
+│   └── virus.dos.ca.815 [44460c7310737f9911201c86edf233dc6d970d62d8910c957ce84dae60df954e]
 ├── 0816
-│   └── drole816.vom
+│   └── drole816.vom [cc8c8adc60314383964e61c9c99d5910ffe1e5ccf06b4b13bd843db0b861e64c]
 ├── 0817
-│   └── quiet817.vom
+│   └── quiet817.vom [9ec87054ef17bb8f506d40755047b622e9503d2b1cdf7ee89c657bab54b2e1d1]
 ├── 0819
-│   └── virus.dos.bw.aos.lord.819
+│   └── virus.dos.bw.aos.lord.819 [81602fad452298fc43deb2897fd4f835d1fdaf2750d5d9445a95d6b3faa3b302]
 ├── 0821
 │   ├── a
-│   │   └── bw_821_a.vom
+│   │   └── bw_821_a.vom [d07a333c40ed857c93681a9e03a8c6b6b8ae88a605e744a52272cbb0b5eb667f]
 │   ├── b
-│   │   ├── bw_821_b-001.vxe
-│   │   └── bw_821_b.vxe
-│   ├── drole821.vom
-│   └── quiet821.vom
+│   │   ├── bw_821_b-001.vxe [13440173e4518a53d4eceae2252f2136495114edbda45e4cc7a38d423c2673d0]
+│   │   └── bw_821_b.vxe [0da9dddaf6e5b946eff71bb53a5af7ff76525fd035e8ae6347258278fe812988]
+│   ├── drole821.vom [9790da9a644619311f2be8e49aa3092568e1444588314c43da707aefee9be523]
+│   └── quiet821.vom [09df50dfde441cb0382488bf99a104d2d789d657be44ca3396ea8b9975c21822]
 ├── 0823
-│   └── quiet823.vom
+│   └── quiet823.vom [94402c5e94a9248759d0f1cac44cc06c75eb55a7d9d635886f32d05581c4647b]
 ├── 0826
-│   └── drole826.vom
+│   └── drole826.vom [c4ad25fdaf402d4933dda271f2137d864f463d5b89dad36f43fb54f627e154b1]
 ├── 0828
 │   └── a
-│       ├── bw!828.com
-│       └── bwm828a.vxe
+│       ├── bw!828.com [ecd31431352cdb920f7c4db52d79aa3159bf89b88c583010eef0544464253e9c]
+│       └── bwm828a.vxe [2180d49b06253628472de58c4705274c623f08142c897b9c2fe92aeca97deede]
 ├── 0830
 │   └── a
-│       └── bw_830_a.vom
+│       └── bw_830_a.vom [b39a394ff883a867bd733dc53e7f1d0beb944c0dd625f01827247d4d4c947266]
 ├── 0833
-│   └── bw_833.vom
+│   └── bw_833.vom [88b6e9563ff54e92834f07cb27c88c9f37225ba8d0ae96a1573423619a1885d7]
 ├── 0835
-│   └── bw_835.vom
+│   └── bw_835.vom [b33ae76d62b63b93af352721e98832785520764e5c8a307a960ce65d574b7145]
 ├── 0852
-│   └── bw_852.vom
+│   └── bw_852.vom [a1452ac5df1337f7b0bf5893907bfc804f4e8103072d9c2a0145d8ffdf52f3c4]
 ├── 0857
-│   └── archive.exe
+│   └── archive.exe [151dfb42f9321d0da0c956f94eeb336cae491ef9e7d52edb12ca7e32ad539f09]
 ├── 0858
-│   ├── bw861.c1
-│   └── bw861.e1
+│   ├── bw861.c1 [7662bbfc83fa1c1673771fddda828c156b56a846ee0e6f05d9ab733db821a9f1]
+│   └── bw861.e1 [cf4720de5ed48b1e25d8a3e19c03a8d147010d9c1a877053570336d670a1dd4f]
 ├── 0860
-│   ├── 1-sea860.vom
-│   ├── 1-sea860.vxe
-│   ├── 2-sea860.vom
-│   ├── 2-sea860.vxe
-│   ├── 3-sea860.vom
-│   ├── 3-sea860.vxe
-│   ├── 4-sea860.vom
+│   ├── 1-sea860.vom [2787d6664b04b67dd38245ac50159d93eeceea9d74123ac522b9b78bd14b780f]
+│   ├── 1-sea860.vxe [12ee1d99f2c521e7e50a583bbcd69b74d12660337579a733f64bfac12aef8034]
+│   ├── 2-sea860.vom [3778bd62990ea2568bbe4b1c5947524b2a85a03f38283e4064174615e50f80dd]
+│   ├── 2-sea860.vxe [eac283e1a290657184a942246457a2bd89f695b6f9e1e992fe019d3320a79a22]
+│   ├── 3-sea860.vom [d20325b48c8468118b981c83abf1244a35ec444c965f4f281b321e564d9b5080]
+│   ├── 3-sea860.vxe [0fbdf6432d331650ee0173c6fb513fd9c2fcc4c2299be8a97bee0a534e43ab42]
+│   ├── 4-sea860.vom [3d0f32887d0d9d6573830f68412611eb1e692449377789644601c64c7aada099]
 │   ├── b
-│   │   ├── bwmrt860.c1
-│   │   ├── bwmrt860.c2
-│   │   └── bwmrt860.e2
-│   ├── bwmrt860.e1
-│   ├── seast860.vom
-│   ├── virus.dos.bw.aos.860
-│   └── virus.dos.bw.seastorm.860
+│   │   ├── bwmrt860.c1 [d94cc62b16198e1aa9a5915b4e3b34f8eeb095d2aeb1d2a24f33f1b5014e497b]
+│   │   ├── bwmrt860.c2 [1a603f322735243c881ed4689ec818a99ed46cc67408eb126d80d1e644aa6ae3]
+│   │   └── bwmrt860.e2 [c114d53bb16e2ea31c5d0cd1a9d9b747da452ed607fb6d6e4a21bb91b75d006e]
+│   ├── bwmrt860.e1 [e64d75260f3e08ad6ac5d0dc5f926d292ed6b4d59146e517d707bda3ec3c89b4]
+│   ├── seast860.vom [d7dcc6068c24f909838fff790d062b36205baf9ce0b7af694c9e3a83a45223ca]
+│   ├── virus.dos.bw.aos.860 [64b59b883145acde82f20b99b6565a0152f9d6fc6782fb6a9345aacd82e1d079]
+│   └── virus.dos.bw.seastorm.860 [90541117df681da6e2877ab043c4e599ba3ff40324d58b291e6ec74483373c90]
 ├── 0864
 │   ├── b
-│   │   ├── bwmrt867.c1
-│   │   ├── bwmrt867.c2
-│   │   ├── bwmrt867.e1
-│   │   ├── bwmrt867.e2
-│   │   ├── mortir.com
-│   │   └── mortir.exe
+│   │   ├── bwmrt867.c1 [91ca82b7dd8b29487948a14693743403fddda8b659fe119ddd6fe9ff02dc2600]
+│   │   ├── bwmrt867.c2 [79384c3f909478c630208279ec03bae14ff608d9ae81b3150a2248a038c76bf9]
+│   │   ├── bwmrt867.e1 [907a55679ba5e43c8bcc6dfbe63023b03419a5c7e308fa1cbea2df9500f8ebde]
+│   │   ├── bwmrt867.e2 [1110feaaa08a644dec3f7fced4cc16a619ffd63acd04022ebd10129d0f453fae]
+│   │   ├── mortir.com [f025e7885f80149efe653415cb5e5e7302d9f946daa578041f2055a699fd8a4c]
+│   │   └── mortir.exe [99532cffd85903db1bb71ec5c21afc3c23d0ec326000b6727ec374a5efdff9b3]
 │   └── c
-│       ├── bw_864_c-001.vom
-│       └── bw_864_c.vxe
+│       ├── bw_864_c-001.vom [8ebaecce25b70ea79798200c9f78edb143106c946c8ed5c625fc830bd9b2ac9c]
+│       └── bw_864_c.vxe [11f7cb0737b3fb0e47528b42fc357478128e1886ff7a39c939866b5a27f42d38]
 ├── 0867
-│   └── bw_867.vom
+│   └── bw_867.vom [371647a0f8b225d11b695c3f6a10c297e184a922b954f842238fb518663ee797]
 ├── 0873
-│   ├── bw_873-001.vxe
-│   ├── bw_873.vom
-│   └── bw_873.vxe
+│   ├── bw_873-001.vxe [75d6c67e27e71ff76698031899a6557a2bbf70d0b918e9e2471429777aacb204]
+│   ├── bw_873.vom [a0e749ef26a7a7d0416022f9d180c81d67e817f3814000d951283f101f1b8807]
+│   └── bw_873.vxe [758e31aa54394601823c2f7a7d77aee7e2bc366277e5e500dda4011a39e63805]
 ├── 0879
-│   └── bw_879.vom
+│   └── bw_879.vom [04fd32e19019d28385603956801bd9ed054d7b3052106264696e2225d8756265]
 ├── 0881
 │   ├── a
-│   │   └── MARCH10.vom
+│   │   └── MARCH10.vom [d856c8d0e3a64e9a3895dd43d39b5a36e7e73625148992d28c495e17656d75e7]
 │   └── b
-│       └── virus.dos.bw.aos.881
+│       └── virus.dos.bw.aos.881 [1136b61d057341b980bdcf204fed0aad6212697d51c94811c56fef80a4da85eb]
 ├── 0885
 │   └── b
-│       ├── bw_885_b-001.vxe
-│       ├── bw_885_b.vom
-│       └── bw_885_b.vxe
+│       ├── bw_885_b-001.vxe [642950e8274428e44a93fb9214e5a9d5c17cea6379cf81ba92d117f086cfa948]
+│       ├── bw_885_b.vom [a129ec6555c0fc48c3183a3df4f1ef0a97b9e3af17d7b7be6020ba5ccfb7fc3b]
+│       └── bw_885_b.vxe [2a53869de1355910d938e9c46a4291b8b35f75528fec15eaf7259873b1df5838]
 ├── 0888
-│   ├── bw_888-001.vom
-│   └── bw_888.vom
+│   ├── bw_888-001.vom [bb6aa884b17bba8e7946e86ca210e5454266fb49b1b3f86affca540b1348591e]
+│   └── bw_888.vom [6a4278fbe53edc31db8ac44c0d06f3d49b01f5c6f91d4eba0a6f6902ee83d852]
 ├── 0889
 │   ├── a
-│   │   └── LIATA06.vom
+│   │   └── LIATA06.vom [1ea5aade420bba1e342a437b022b36b8643356a31ffaadc95be52687a77c546d]
 │   └── b
-│       └── MARCH02.vom
+│       └── MARCH02.vom [fb177658b6d7277957154178c031bca64c77299c090f0b93c2633227bdf00b1c]
 ├── 0890
 │   ├── a
-│   │   └── LIATA02.vom
+│   │   └── LIATA02.vom [c03301ee7cb395d5987a81e393bb1e44cf5fbae3de02041d5645bcf5d18d4c0c]
 │   ├── b
-│   │   └── LIATA03.vom
+│   │   └── LIATA03.vom [7953132d30c23a47a36454cbde4b51924b9ea078076a627f6d3015688d8e17cd]
 │   ├── c
-│   │   └── LIATA04.vom
+│   │   └── LIATA04.vom [839919300d1c5138b785da07b873c1c55d73e8badbbbd2c3b8868f593abcb721]
 │   ├── d
-│   │   └── MARCH07.vom
+│   │   └── MARCH07.vom [79cb21de83ba35d673d3c509f17af1d8ecb4691b7cd91738eeecda4156e0d7dd]
 │   ├── e
-│   │   └── LIATA08.vom
+│   │   └── LIATA08.vom [104da19049ae306d21b9dfab64e66afa3667e0c847412ebe0044ef72f30fd4fe]
 │   └── f
-│       └── LIATA07.vom
+│       └── LIATA07.vom [766132de01d1a12b363b27e9b484d396cfa4f5325758336c6b17a2c453b9ede9]
 ├── 0892
-│   └── MARCH05.vom
+│   └── MARCH05.vom [942aef34dbc57396398349ba51536e06c8dcfbb5d13dbe7ed247e597b1428e12]
 ├── 0896
 │   ├── a
-│   │   └── LIATA01.vom
+│   │   └── LIATA01.vom [e063b629322e41ec531142857ce5cb8cfe0632e3ee3896c3dbd04f28ed53c7a3]
 │   ├── b
-│   │   └── MARCH09.vom
+│   │   └── MARCH09.vom [35bbe4014c7ba4f09f6d24b9eb75f49026e2756bb6922f17de0fe3e76dd1f8e2]
 │   └── c
-│       └── MARCH08.vom
+│       └── MARCH08.vom [acf24bb34c6cfe8491525b7fa275b490a89710781b26bc33b7eee92fc4075ae1]
 ├── 0897
 │   ├── a
-│   │   └── MARCH01.vom
+│   │   └── MARCH01.vom [21c486cd0ff94fc4ea4d4301be96027cff5d6e49fa12172beab4230573ee5ae6]
 │   ├── b
-│   │   └── MARCH03.vom
+│   │   └── MARCH03.vom [6fdfcf5815b72417ba33aef50c19b72bd6ef41ad1088d9b75ea34a1e392f85d4]
 │   └── c
-│       └── MARCH06.vom
+│       └── MARCH06.vom [50e05a9a76ca10a07ee4410b22d435daaf1c75a0e0d548379dcb58a375dab527]
 ├── 0899
 │   ├── a
-│   │   └── MARCH00.vom
+│   │   └── MARCH00.vom [3a227e4a0b3950e2b6a8000f2dad12defe48d33d309abb424a8e4ae0134c7f0f]
 │   ├── b
-│   │   └── MARCH04.vom
+│   │   └── MARCH04.vom [7c08a0d1fbcbb9002a5d4da55f9ecd6c7906efabc3c841cb7b1e148da3810a44]
 │   └── c
-│       └── LIATA10.vom
+│       └── LIATA10.vom [70f7085ce8784ad6cf7c8013c18288ffbbf5a45a0233313190d9493edc6b09df]
 ├── 0900
-│   └── LIATA00.vom
+│   └── LIATA00.vom [f1931f1172da01e36e3e5702f783601f24a6255cce2d0d253a537894ca3686b0]
 ├── 0912
-│   └── borg912.vom
+│   └── borg912.vom [f10bcc0c4c7000903b16eae8486cef04f7c8c1783736be6e918441a5d8e4b7d6]
 ├── 0922
-│   └── borg922.vom
+│   └── borg922.vom [e508d482dace3420fbdff25b01ca881f35870511ba5f29f03be2b375556e6b86]
 ├── 0927
-│   └── borg927.vom
+│   └── borg927.vom [01abf3a96cda0f98d0f35b9a354ebc0de055112915b106dc70fcf192e92992a8]
 ├── 0932
-│   └── borg932.vom
+│   └── borg932.vom [dabe6189369a918c042cd83bd0afac99f10b6af66ef3720e945ba979b153d1fe]
 ├── 0937
-│   └── borg937.vom
+│   └── borg937.vom [f946af94a2d18ed482bf08db23186d8123d7ba961ac1ddcba034644196e79300]
 ├── 0942
-│   └── borg942.vom
+│   └── borg942.vom [db9cc3b6d98538e527d1fd599c9877074bef16cae164340c0da02d2cd2dbc9d7]
 ├── 0947
-│   └── borg947.vom
+│   └── borg947.vom [6635daf3bbe0e716bbf031ece50d0253a5b727326d742fe5315bbedede01c0f7]
 ├── 0952
-│   └── borg952.vom
+│   └── borg952.vom [f62dd41593613e87012f55639a08fed63133d264d4c4b630d1cb8b1985cd84e3]
 ├── 0954
-│   ├── blimp3.vxe
-│   └── virus.dos.bwme.blimp.954
+│   ├── blimp3.vxe [2d1b7d2e35c1505d8834c0aaebee8b03b9d6a0e169286db4310c26163315ec0b]
+│   └── virus.dos.bwme.blimp.954 [f4883c4f7d6fcd976e4af974d434c601ae795b329012eb53cca6a188bac44e52]
 ├── 0957
-│   └── borg957.vom
+│   └── borg957.vom [956fc9f4e94f7f187fa3ebac583b981f2f5a10944f83a8645ecb614f47256bc1]
 ├── 0967
-│   └── borg967.vom
+│   └── borg967.vom [f3832f41d468055f270052204966767886038429d796516a811d6f318abcd092]
 ├── 0972
-│   └── borg972.vom
+│   └── borg972.vom [19b498c38fc718da6180479dc21e48a817e66c86afcfa0c6ac0db78c7ebd6511]
 ├── 0977
-│   └── borg977.vom
+│   └── borg977.vom [533d2bc4e214c334ce2d694ed3805f8b49e284c9817662429944528a7fe0e65c]
 ├── 0982
-│   └── borg982.vom
+│   └── borg982.vom [1112b2976da6d857d7faee6381b01050eed805c13ae0318905b471d9d849434d]
 ├── 0987
-│   └── borg987.vom
+│   └── borg987.vom [e1f3a37f4aef8651ed50d48954637a0d3190e36c3c0a988c387bb7ad1054f7b2]
 ├── 0989
-│   ├── 989.com
-│   └── disea989.vxe
+│   ├── 989.com [f74f2a0bc5b07e43ae030dcfabd6ad6b22633bc9da7251dca83b81f6f5202191]
+│   └── disea989.vxe [460985ba4ac4952251ee0b29a79c9dd500d90b1b0b65160a3d5526b23a8bd619]
 ├── 0992
-│   └── borg992.vom
+│   └── borg992.vom [22832a46c29dec23d0bb87ce3039d46d9368b00ee677d1df5d2d8e081d2f43b9]
 ├── 0997
-│   └── borg997.vom
+│   └── borg997.vom [7f259a56b4db06ca65afa0c5ce766e2d2ddcfd9f5885e2dfebf9805474909f3c]
 ├── 1001
-│   ├── fms1001.vxe
-│   └── virus.dos.bwme.fms.1001
+│   ├── fms1001.vxe [89574e8629c47b74052770e412b51cc04dbe5b1ee5d44937604202382e6b5211]
+│   └── virus.dos.bwme.fms.1001 [1ff4d9132a648356e5c08baeba2c61d93b85924bd686321cc57d67b2283c3d34]
 ├── 1002
 │   ├── a
-│   │   └── borg1002.vom
+│   │   └── borg1002.vom [4d288e0ae532c0b02baf66632468580245e55aa7d8a8e0f4149eca574967d459]
 │   └── b
-│       └── virus.dos.goma.1002
+│       └── virus.dos.goma.1002 [269034b79ec21fd9bfda57658a0990552cbc0c1e8ab42ad4de9eb2025e554012]
 ├── 1009
-│   ├── bw_1009-001.vxe
-│   └── bw_1009.vxe
+│   ├── bw_1009-001.vxe [533bcaf01737978b9e2e9b1360e7ed4f0772241ee01214a94054d355c582f6ac]
+│   └── bw_1009.vxe [2a54b09a3267e036996fc4aff6a86a46556f62f6847a81ab6c07233b8256439f]
 ├── 1013
 │   ├── a
-│   │   ├── bw_1013_.vom
-│   │   └── bw_1013_.vxe
+│   │   ├── bw_1013_.vom [d27193c4fcb97c18a007f869093657c53b6f5a06f4e8411eea25971945f4fc12]
+│   │   └── bw_1013_.vxe [3770bfce21ecb08122ed9b1332715869f2bb5318da0cde6c7700cd07f604511c]
 │   └── b
-│       ├── outbrk8.vxe
-│       └── virus.dos.bwme.outbreak.1016
+│       ├── outbrk8.vxe [4885fa222ebb2179dc6ca0373f6d4fb4443768477f9ef5ac65fee9929a2b69eb]
+│       └── virus.dos.bwme.outbreak.1016 [f353fa06a2350cae866b2e78ac00d0eca9b2196d19c392b1624fb4220578c9ae]
 ├── 1016
-│   └── virus.dos.bw.metal.1019
+│   └── virus.dos.bw.metal.1019 [2008d1e8a95d017dc49de140bfa2cac30fd9b65ea7ae982ce33c8d974dcd237f]
 ├── 1017
-│   └── bw_1017.vom
+│   └── bw_1017.vom [347a92183d1ef075b1e7943a53c326f0382b0f8f891df85a77d7024158a5f906]
 ├── 1021
-│   ├── bw_1021.vom
-│   └── bw_1021.vxe
+│   ├── bw_1021.vom [f8b2afed545f83bf238128e0c153a8e4a0b16e2bff94de62b69e22c78ec092b4]
+│   └── bw_1021.vxe [1867c8704096db686327cec344341e8f8cf48e646dc1c03bd497601251367d02]
 ├── 1025
-│   └── bw_1025.vxe
+│   └── bw_1025.vxe [37fd7c80ae2db9c22d3a27f34b28b8935469cd19d6453452d1d3bd0590321576]
 ├── 1027
-│   ├── bw1027a.vxe
-│   ├── dp4.vom
-│   └── virus.dos.mnemonix.dementia.1027
+│   ├── bw1027a.vxe [04a8dd1bafb70bd2613e79f4ff95b1f2b9f946b63f285108bd15d41814d2515c]
+│   ├── dp4.vom [c4a2e04c611a2663865d5e4bddea1ab1b0b931cc72414edf75753c000b65d80b]
+│   └── virus.dos.mnemonix.dementia.1027 [4bbee2bb3b8b4ed1ff215b60689c4728ce7a8ca00cc9bfc5e790a63bddc3ff2a]
 ├── 1031
-│   └── dark1031.vom
+│   └── dark1031.vom [2af401d751a63482bf771e5099d2db6e2b4fbcf9a7d9930413e8abfe9ff018c9]
 ├── 1035
-│   └── virus.dos.bwme.1014
+│   └── virus.dos.bwme.1014 [1b038c7ba28e32f1cc13121a084804f9bd1289e5d73212ccc028ed1c3cf77ae0]
 ├── 1036
-│   └── dark1036.vom
+│   └── dark1036.vom [06df9d0dd8178fb1163cf36f256244ad26abe68a6219551ab02c5866df8ca5e2]
 ├── 1041
-│   └── dark1041.vom
+│   └── dark1041.vom [ece44b1dab069f285bbffad5409642e70553f1bfe52eec9a717679305b8e0064]
 ├── 1044
-│   ├── rule2.vxe
-│   └── virus.dos.bwme.ferengi.1044
+│   ├── rule2.vxe [8561fd0d603c237c745b9fc3ce1e18e3a6fbe97f2c9c90ec819305c0f87b8c18]
+│   └── virus.dos.bwme.ferengi.1044 [6d98fc2da271929ab36539e3a3fdb01ae05ed8dddaf1620209e34440c47d8f34]
 ├── 1046
-│   ├── dark1046.vom
-│   └── virus.dos.bw.skies-based
+│   ├── dark1046.vom [31c9e0a7b8ec7c7d13208525bfdebdb282c7e0f8d7d3b620488743b2055c0578]
+│   └── virus.dos.bw.skies-based [aa19c50e80d6f43f8ff6326e91dc9f8da85becc680e9dfebbb5472ae4bcc1017]
 ├── 1047
-│   ├── borg1047.vom
-│   └── virus.dos.bw.borg-based
+│   ├── borg1047.vom [f6642a2d73142588a8a3ef7b10245b11b436c8a11ae57ac5f06b5f1db8f30021]
+│   └── virus.dos.bw.borg-based [31222407e107bbc0919372426005622ee1ae1c5183fc5d98fa89d9ce45e44f28]
 ├── 1048
-│   ├── rule1.vxe
-│   └── virus.dos.bwme.ferengi.1048
+│   ├── rule1.vxe [d9773a5eb257a322106e9a298291e268196d283ba943256501b17de4f7c96989]
+│   └── virus.dos.bwme.ferengi.1048 [1a8fc91d21872377e055ce81f4ce8f0bd0cc619f9b28eee5d0aa47f9fcf73454]
 ├── 1051
-│   └── dark1051.vom
+│   └── dark1051.vom [b8638a1c986acc091879c9ac84fad350f8926d917c43c621104f50aa6844d0a8]
 ├── 1053
-│   ├── rule8.vxe
-│   └── virus.dos.bwme.rule.1056
+│   ├── rule8.vxe [ae9f5d04bba7d5eb359b1c646586f71323e233b2b4aece4308b15c8254903620]
+│   └── virus.dos.bwme.rule.1056 [c1d7453115e80607b0b695118a498c7ca0b2f64d7e6354ee7d126648c32da09f]
 ├── 1056
-│   └── dark1056.vom
+│   └── dark1056.vom [ad9a59e5964019c01db62dbbe0aa16aa847aae02bcf51eb703af79a44948af49]
 ├── 1057
 │   ├── a
-│   │   └── dark1057.vom
+│   │   └── dark1057.vom [a746caf3412f9571a1b9442b6938b01dfa381e816ee34748c318d420effc71b7]
 │   └── b
-│       ├── bw_1057_-001.vom
-│       ├── bw_1057_.vom
-│       └── bw_1057_.vxe
+│       ├── bw_1057_-001.vom [d912662a651c6fead3c6b518d39e069a6c02fe6578d3cac70a0cf1e77dc08e41]
+│       ├── bw_1057_.vom [b8672fbe679f1b1186c5954906be277ea98746432d8ccbaaaa7e3d80762ac4f0]
+│       └── bw_1057_.vxe [7a3def2d185d50d3956c9c0eea330edb83fc30d4f8dcd20203a274c4332bb4f9]
 ├── 1066
-│   ├── rule6.vxe
-│   └── virus.dos.bwme.rule.1069
+│   ├── rule6.vxe [42d82aa3faa60a6c5144e67e684caa99786d5a790ec1989f238849c3bdf9cd2e]
+│   └── virus.dos.bwme.rule.1069 [fcdf2ace9539732934ca147a3409274757e92987ffebe880adac4546c3f16e0a]
 ├── 1068
-│   └── virus.dos.bwme.1068
+│   └── virus.dos.bwme.1068 [91b50460a7dfafe985e266e8f3162e008f783ee09cac422dbfff51eefe2c048a]
 ├── 1071
-│   ├── rule5.vxe
-│   └── virus.dos.bwme.rule.1074
+│   ├── rule5.vxe [39770ccf3f77f12e39327d7a0086327bf6b2726bf6ab410ca076ac0b5b56ebd9]
+│   └── virus.dos.bwme.rule.1074 [2d57a631828c872c0bc36d5eee5cd4b1e330665085a5bcf207633f0eae197ab4]
 ├── 1077
-│   └── virus.dos.bwme.1077
+│   └── virus.dos.bwme.1077 [4675be83916e7175f9f285d4ffae62af56a7543f815df007f66fffef4feb5b58]
 ├── 1083
-│   ├── outbrk6.vxe
-│   └── virus.dos.bwme.outbreak.1083
+│   ├── outbrk6.vxe [24a4d3a053eb5316f6a8cc4a1c2df214c6e16452afa9faee210109c3187892f0]
+│   └── virus.dos.bwme.outbreak.1083 [2e45cfe1371762f8ed2e5ebfbd9e1f8c9e5f0f27dea453f76a59ff129d712588]
 ├── 1084
-│   └── virus.dos.bwme.1084
+│   └── virus.dos.bwme.1084 [9db35807b97a4569822319943b59be37b5530d670d50f1b5b06b8feb75fca8bc]
 ├── 1093
-│   ├── bw_1093-001.vom
-│   ├── bw_1093.vom
-│   └── bw_1093.vxe
+│   ├── bw_1093-001.vom [cbf51833bb4ff497ebd314b4538b07bf5af637c3d7a873dac435fd1b917fa08e]
+│   ├── bw_1093.vom [b4a0844cc3a8622d5dd3962cf3c8699637b4d1766b0da6149e6cbade27e982a9]
+│   └── bw_1093.vxe [69fee9ef0d42a76df47686af68600b1c42e2b488a8af18b2817cee16f03360c4]
 ├── 1102
-│   └── virus.dos.bwme.1102
+│   └── virus.dos.bwme.1102 [4dc526c86838db6d383fc002cb782f840407ff6282731d76b21637c9fab619d3]
 ├── 1123
-│   └── neurol.vxe
+│   └── neurol.vxe [7a3ef6944451c169a679ef7857b66ec037682eca1cacc44aac58b1ef3cd9637a]
 ├── 1130
-│   └── virus.dos.bwme.gangi.1130
+│   └── virus.dos.bwme.gangi.1130 [4daf9cc1897b4cca1497e59e896946ecc5eb80acf73c2924eed9e7d728ae9596]
 ├── 1132
-│   └── outbrk7.vxe
+│   └── outbrk7.vxe [84c3dbcad59309ec53f6c23516a63bd0c502d357385fcf8c8cd92643df3f84d9]
 ├── 1145
-│   └── virus.dos.bwme.gsd.1145
+│   └── virus.dos.bwme.gsd.1145 [a7eac6e33c6f6fd9ce4aca80b762d2f9f64f887e5c1ecfb211102f7a777be4a0]
 ├── 1147
-│   ├── ch.vxe
-│   └── virus.dos.bwme.cirrhosis.1147
+│   ├── ch.vxe [04c93b00c365d9853e42ce3e5355853610f812871d98310ac7ef3a762f146c4c]
+│   └── virus.dos.bwme.cirrhosis.1147 [075600ab0f246696276deef0b0c0a04c46c8ba9a6c8dae63e9bfa8c0c4661bb9]
 ├── 1153
-│   └── virus.dos.bwme.cowpox.1156
+│   └── virus.dos.bwme.cowpox.1156 [667958082a6d3365db81f84ac61fadf731687e8f50c5dce6f4837e49f335564b]
 ├── 1158
-│   └── bb.vxe
+│   └── bb.vxe [81a5fbe0f4bb2b525502a9dc0daab4b05612a1c8921843a01d1022d44abd919f]
 ├── 1159
-│   ├── bwme_moo.vxe
-│   └── virus.dos.bwme.cowpox.1162
+│   ├── bwme_moo.vxe [6729427b2762e9df1cc49d144fca16d7c87ae62d06d9d97bc8d5b73f9bf4e805]
+│   └── virus.dos.bwme.cowpox.1162 [0a8bb83b3adc953c86e3c2bf30ed15b4538ddc5c06570bd0ac31d447a23481c1]
 ├── 1163
-│   ├── bw_1163-001.vxe
-│   └── bw_1163.vxe
+│   ├── bw_1163-001.vxe [7d988bd49166a9414efa3cd30a9481e3704bd3fea48f17bd84722ccc73cba103]
+│   └── bw_1163.vxe [6bcbd4241ac2c8820ebae69ee1952b9377939c6245a20ec6f7e9ad655e7b4b24]
 ├── 1220
-│   ├── badday.vxe
-│   └── virus.dos.bwme.badday.1220
+│   ├── badday.vxe [f046b61e10ecce0ecb047614f8fed6d25eb48416b132b9a3040946659ee76b78]
+│   └── virus.dos.bwme.badday.1220 [5f0153236ec3419053bb288e1a8dd1adda89f57ed765c992828dd432f3a5c6c9]
 ├── 1224
 │   ├── a
-│   │   ├── bw_1224_.vom
-│   │   └── bw_1224_.vxe
+│   │   ├── bw_1224_.vom [ecf46b9237e70d2805808f1f299ca3583f73d55ada342c6c8d7616a05337a317]
+│   │   └── bw_1224_.vxe [302a55482c2231c655cc196f6c0e149572a53b6ca33b829ce9093aa965a62bcc]
 │   ├── b
-│   │   ├── bw_1224_.vom
-│   │   └── bw_1224_.vxe
+│   │   ├── bw_1224_.vom [a3c948f4ad66b586877cfff187b16aea060a758d12ae8e735d15d711a6d2461e]
+│   │   └── bw_1224_.vxe [59b7b1739686b029e552721d61a83eae72f5624c3b4eaf29e37e4a2c7f81c66d]
 │   └── c
-│       └── bw_1224_.vxe
+│       └── bw_1224_.vxe [4c9109f2e302a630f026ac5f7911101c1481b8e84a19b3867d9d54a30307774f]
 ├── 1227
 │   └── a
-│       └── virus.dos.bwme.outbreak.1227
+│       └── virus.dos.bwme.outbreak.1227 [66d09d9ebf5c5bbe2a4e5514af5d606e64c72f9ee9fd9691f98ec4477dbe7c4d]
 ├── 1243
-│   └── virus.dos.bwme.violator.1243
+│   └── virus.dos.bwme.violator.1243 [083d9e4e045e9f815a6d418c978a0aec8dcefe8bf614192386d086f4ce6952f6]
 ├── 1255
-│   ├── 1255.exe
-│   └── virus.dos.bwme.snowbird.1255
+│   ├── 1255.exe [3f33a0c89984d59ce830cf339e0ab48efdcfae375e38b3ad058e3096ad0d0143]
+│   └── virus.dos.bwme.snowbird.1255 [271da3bbee53b1724ad9eb34a4f0025f01377f1d06b176bf1f13606804cfe1b5]
 ├── 1270
-│   ├── bw1.vxe
-│   └── virus.dos.bwme.test.1287
+│   ├── bw1.vxe [106b9b3db0618934ac1abdf6fba201a2ac96e9dee3abd7abbc8e09ed1a57d03d]
+│   └── virus.dos.bwme.test.1287 [702d7ee5e192f15798bd1fe0de8cc607ae9cee450fa94723c2278fe3922a4f3b]
 ├── 1274
-│   └── bw3.vxe
+│   └── bw3.vxe [c380c076302ec26827c069bcf6f9f35fdf59a34bb08bc88d040acc06d10bfc96]
 ├── 1285
-│   ├── delima.com
-│   ├── virus.dos.bw.delima
-│   └── virus.dos.bwme.outbreak.1268
+│   ├── delima.com [296ff1030a874237f85090d712b0fe52ffa4355fb43723af9ee9866ca0afe740]
+│   ├── virus.dos.bw.delima [621e919b46731cfbedf8230aa8fd0bb7946a3adb81a7cb2183bd55a3ad384866]
+│   └── virus.dos.bwme.outbreak.1268 [0c990c53fb64a5092cab22b23c034ff278c887d5638da9bdab7fec9e217a0da4]
 ├── 1287
-│   ├── bw-ex1.com
-│   ├── bwunk_4.vxe
-│   └── bx4.vxe
+│   ├── bw-ex1.com [0f2350f07a5fb10d7f501d2210e0cb61d61161648247984781e8ee2ab969e7f8]
+│   ├── bwunk_4.vxe [b7632a930aaf2bd8b2c3de2ea0f8dcb480ca1b0584b289b94c645c5eea68849c]
+│   └── bx4.vxe [2d053743f6b8577fc63d3df5b83d7493ccc67423d46ced0761b79ea2aea3ff56]
 ├── 1290
-│   ├── outbrk10.vxe
-│   └── virus.dos.bwme.outbreak.1290
+│   ├── outbrk10.vxe [1fddd7a0f5db3c182a2c51c3e261c05c360a2edb768c4c58e6a690f9c67d7937]
+│   └── virus.dos.bwme.outbreak.1290 [d73e14e95cb3624743a012137e021e1c21388a4bf91169b32e77fdd0ef4193b2]
 ├── 1293
-│   └── bw_1293.vom
+│   └── bw_1293.vom [7885e4b6e24467883bea9466e2dc15dc1e6551ef92ad17b4bda6ea564eff0eac]
 ├── 1296
-│   ├── bw_1296-001.vxe
-│   ├── bw_1296-002.vom
-│   └── bw_1296.vxe
+│   ├── bw_1296-001.vxe [1a9ec79eee812cdab3c01776c017f56c2e8a1e80762794a6885888acb14986d5]
+│   ├── bw_1296-002.vom [40a506d8221f69d213cd73d0583ceeb205e653749d03cea46a3eb0c074d68ef3]
+│   └── bw_1296.vxe [18519997ee36a5df8d0b24955d6bb2a541519555bbe4911d1e9fc2d8668b7dfa]
 ├── 1297
-│   └── bw_1297.vom
+│   └── bw_1297.vom [e76a455c017db2ac5950fca5350cc51ebcf6f9374ac26155ae0eed62d0330a4d]
 ├── 1299
-│   ├── bw_1299-001.vom
-│   ├── bw_1299-002.vom
-│   └── bw_1299.vom
+│   ├── bw_1299-001.vom [7e515bcbe54b4385ce28d6da95d78ac222f97f5e3c58ce08b495f01146e87ed6]
+│   ├── bw_1299-002.vom [a2b11c089c0a6dbc37386e68fc71e93b07e103f790ae4c23899960f94622462b]
+│   └── bw_1299.vom [772da5d5773fadd912a2479deccfd111302eda0f540acbe7726a01ba13bc36dd]
 ├── 1302
-│   ├── bw_1302-001.vom
-│   ├── bw_1302-002.vom
-│   └── bw_1302.vom
+│   ├── bw_1302-001.vom [9db391f74ee14e378a18baec2c1ecfbfcf8e7863ec1ada5724501f8121a78a74]
+│   ├── bw_1302-002.vom [bb4eda277dc24658eb225dcb7136d8a24c06d1d23d674110b112d9642b067b59]
+│   └── bw_1302.vom [0593c06341c94ba2a79126576fd97bbab587c1a4bd974684ae1993a041cc498b]
 ├── 1308
-│   └── virus.dos.bwme.invader.1308
+│   └── virus.dos.bwme.invader.1308 [9da4bb9b8ca7d476fa787d04a0bda53a7cf56da10ce90d3a87ad5ff571b681de]
 ├── 1325
-│   └── virus.dos.bwme.1325
+│   └── virus.dos.bwme.1325 [6df29e59bcf3c940b3d3209634bce1430c43d131ffbc3304ded3015e203a2b76]
 ├── 1338
-│   ├── 1338.com
-│   ├── virus.dos.bw.luddite.1338
-│   └── virus.dos.bwme.1340
+│   ├── 1338.com [6cb0795cbcd3ac5fbd03d6827b3b3396fae297bd6b73e3bd79d5def96c8330c5]
+│   ├── virus.dos.bw.luddite.1338 [540695ccb6e01ec4d5d735a0231d232caebeebdb836c4ec670063af63fb918db]
+│   └── virus.dos.bwme.1340 [ebfd3a2ce23e60395826d2bde95eba2f805a74b77197d551e58fb0509700f164]
 ├── 1342
-│   └── virus.dos.bw.luddite.1342
+│   └── virus.dos.bw.luddite.1342 [3553bce1f0cf457d66bdef1fea4ea1b8969403af55bb6a64954179d32f744f11]
 ├── 1346
-│   ├── 1346.com
-│   └── virus.dos.bw.luddite.1346
+│   ├── 1346.com [dc27ccf001726f2c881501c06a3105eaabfdb72a0877e6167c2e3439a3a9242f]
+│   └── virus.dos.bw.luddite.1346 [4b8189e759e6d2353ae55a51081d6c5c93af170dcae53edf45b7c31bf8664526]
 ├── 1348
 │   ├── a
-│   │   ├── virus.dos.bg.1348
-│   │   └── virus.dos.bwme.1348
+│   │   ├── virus.dos.bg.1348 [99c27d9a7a20df0ee6f6d3044ec54138cb83e05b63bbb4315ae143111395dc26]
+│   │   └── virus.dos.bwme.1348 [3cb610625077b02b2a3e6230f2a4e7bfe348fd4ded2c8899cda24599a34c8d13]
 │   └── b
-│       └── bw_1348_.vom
+│       └── bw_1348_.vom [7371f198543d5551d66873987ccb1d87f16ae9397fbc02124266dacaa6c5d4d4]
 ├── 1352
-│   └── bw_1352.vom
+│   └── bw_1352.vom [33dc89ce30a96cffdda1ef45dfdb6863dd4c30dd2059ccd01deea12a74269267]
 ├── 1356
-│   └── bw_1356.vom
+│   └── bw_1356.vom [b65e8851124b57d469098e8903876c3ba2517b9ade42954a05132500c5ffef37]
 ├── 1360
-│   └── bw_1360.vom
+│   └── bw_1360.vom [5000738012495d59cbf1c6666a04fa5b88f47aa1f864a05cbe35918c68d1b0f8]
 ├── 1378
-│   ├── twltoes.vxe
-│   └── virus.dos.bwme.twelve.1378
+│   ├── twltoes.vxe [8999ae89e24b182ad56d37605e69c1e2376b82efe61dc1443f5ab79166e3fcd9]
+│   └── virus.dos.bwme.twelve.1378 [966abe66e03bbd7ad0dc5fb2d264500d75c60bf78940d7d5f9538dd97c9025be]
 ├── 1383
-│   ├── oj.vxe
-│   └── virus.dos.bwme.jelly.1383
+│   ├── oj.vxe [4de1ab76d11e13401c634409155054c1fbcba6028f4b2268154f0d6cefb523ac]
+│   └── virus.dos.bwme.jelly.1383 [c1a60bc7f96478ee2da5a255df47ac99911b60725ad944e27418c93130688cf9]
 ├── 1396
-│   ├── jellyb.vxe
-│   └── virus.dos.bwme.jelly.1396
+│   ├── jellyb.vxe [dd0f1656c01eb3dc760fe69cfee6eeb9064c88de424657c52aab90e4f9179454]
+│   └── virus.dos.bwme.jelly.1396 [34f2f7b1ec737dd7dda152be9a095c30519564e8019d4c6348a95830f948cb91]
 ├── 1417
-│   ├── bw_1417-001.vom
-│   ├── bw_1417.vom
-│   └── bw_1417.vxe
+│   ├── bw_1417-001.vom [e59e70db9f2243c189915f6a9de2dfdeec59089b914d5c4cce42ec05e609f52a]
+│   ├── bw_1417.vom [e1f03c349a2fdfef60fbdcb2acdf9d0da179f007b08d4987897f9756aea6548a]
+│   └── bw_1417.vxe [2a6875dca79c61cdbe7cc87782b58c92e109c2cbd7a94e418282a7013d3d4532]
 ├── 1433
-│   └── virus.dos.bw.jakarta.1433
+│   └── virus.dos.bw.jakarta.1433 [81d56cc24311a559d929fe04ee5295a307851c9c19ebc6b0010184f016146114]
 ├── 1438
-│   └── virus.dos.bw.1432
+│   └── virus.dos.bw.1432 [dd487d328f6d037c2d1fad0ac826a369ccaede4caed5ab6c87743b587560ec0f]
 ├── 1499
-│   ├── bw_1499-001.vom
-│   └── bw_1499.vxe
+│   ├── bw_1499-001.vom [9c76e269d269c5bfa59df069b17423c74c3196c51cd0a08badcb7ab3e297a868]
+│   └── bw_1499.vxe [3afe42bcd428cea5530397ed24e80bfb1de80b04d0c750f8c0ba47cd7efd4664]
 ├── 1656
-│   └── virus.dos.lewd.b
+│   └── virus.dos.lewd.b [9d02e4f4fe0da83cc1e34802983bd8bfa20c62e7b31853eaeaf7db3e80b91e71]
 ├── 1875
-│   └── virus.dos.roet.1875
+│   └── virus.dos.roet.1875 [d1d5f5d229dd290b0e7e152cf43d8dfa2f6748c370fd24ddf3a619a3d495b20b]
 ├── 2055
-│   ├── cf2055.com
-│   └── virus.dos.mutagen.110.cf.2055
+│   ├── cf2055.com [8634b7e2c608d3aba650f84cf2e6310e5255fe09487b1a5ca0e718670e9d4471]
+│   └── virus.dos.mutagen.110.cf.2055 [282d367629d2c28da6fb874528b1efab50a062c573b92860eb000a25d1dba0c3]
 ├── 2259
-│   └── virus.dos.bw.roet.753
+│   └── virus.dos.bw.roet.753 [6c562e6f2e646caaa2f7e02501d1cf818d02639c510c1c1e4712aeb8b35f7501]
 ├── 32107
-│   └── virus.dos.lewd.c
+│   └── virus.dos.lewd.c [cf8de535f9af4f68551defbc368ec74108c011bb4b5e0ce68b1f8f463b78c634]
 └── mayberry
     └── 609
-        ├── andy.vxe
-        ├── bw!609.com
-        └── bwm609a.vxe
+        ├── andy.vxe [1369d5e27692b80bc1a071444ee6b5fb6b5b41bb6b3625c2bf8329b36bc0f39e]
+        ├── bw!609.com [7851fe16ece8c0758c82bfe982e8c84a938e15924867a6950e4e41f787fd2856]
+        └── bwm609a.vxe [221a3027bb53b066be6520e437f0ffef1528290709467264b67728bfe5b989dd]
 ```

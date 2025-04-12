@@ -3,10 +3,10 @@
 
 ```
 ├── 1060
-│   └── virus.dos.xav.feliz.1060
+│   └── virus.dos.xav.feliz.1060 [1c093ee6aad67205595b5a2010f08a443499cca1f4b46bc38d64d0d509890103]
 └── 1083
-    ├── t7.vom
-    ├── t7.vxe
-    ├── xav1083.vom
-    └── xav1083.vxe
+    ├── t7.vom [66e7fd542437f680e21df3744573cb20c689c4df4830e6bce56f31c9e71b4d22]
+    ├── t7.vxe [9d0a3b6158b82979240ee3e86b7f525176e12b5314b39265057feb84b06b07cc]
+    ├── xav1083.vom [01b4a0ba7dfde3cb7f454309184a03d581cb2503e1f1764021b81b5fe2496ea5]
+    └── xav1083.vxe [9955622a84c458c09efbc77a610e69738d6decb905998d52ece941d1bce3b6b5]
 ```

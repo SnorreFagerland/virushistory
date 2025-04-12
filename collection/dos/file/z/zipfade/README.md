@@ -3,38 +3,38 @@
 
 ```
 ├── 1174
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── zipinf2.vom
+│   ├── t10.vom [f1e77b8d1ec33f0d764e25af6069a3d2e1603d588a82953172a919566a1e3294]
+│   ├── t2.vom [6fcb56f707906f484a49bde66f5c5bf47276f1a129d98dbf97d1e5fdd7d91ec9]
+│   ├── t3.vom [10ecd8fb2b46d5ef986ee36ba56088297c32f405c9ba77866b2249270b2073c3]
+│   ├── t4.vom [9bcc16d97902fb9c9711edc0798daed756c486219fa3417c8b8c2e1610b3284e]
+│   ├── t5.vom [24529b084ee9fd9b69e4c67e927e8b5e543b9a2941fc89539570c3073c2c2437]
+│   ├── t6.vom [53e35ff310df268760ff581440a414083ab9ba3ce32801f5c82d9aedba492861]
+│   └── zipinf2.vom [499c94831d2facec92b4387cfd3cb8e33d73ae2551c8dc1863c622739890f3cf]
 ├── 1186
-│   ├── keyb.vom
-│   ├── lwm.vom
-│   ├── mode.vom
-│   ├── more.vom
-│   ├── t10.vom
-│   ├── t11.vom
-│   ├── t12.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t9.vom
-│   ├── wci03294.vom
-│   └── zipf1186.vom
+│   ├── keyb.vom [1e7ea249cc54fc63a7bec2619861d68525c0e2d20d834e0ea18607cb3b5c2bb3]
+│   ├── lwm.vom [faebd088854572661b6173bf9421e8d24124c217ffdc422c77b92c0ff31eacc4]
+│   ├── mode.vom [32f8a10dd89063688677a2f39e750a8419bf1f3ce4a99fd833ba8d8de9dae8a5]
+│   ├── more.vom [c260e167fe196f740a8541d1ac627f9fb9455b5c53acd928d1147caf75f24d74]
+│   ├── t10.vom [29c06e71b9552f9d6b4eb06ae3dba950034c301d790814d00bd3850591e1af9b]
+│   ├── t11.vom [af8581c14580cd817fffa968e8817f5c904460300aa7d5ef3099942290f5f08c]
+│   ├── t12.vom [50b7431ebd080295ad8a86e2c58237c4639ed58a06f7297d991fa75275528a88]
+│   ├── t2.vom [bbf1c67828d78313794424f3ebef613198c88d1a9501092071702f7d595ccddc]
+│   ├── t3.vom [19e91785f8dd5f997a9b852d9003b486e63633996fe51c295eb6ec3bed8ed00e]
+│   ├── t4.vom [0af6216199f68bebd08c596377b66979843f5cc9c6eb7557cafc26e94d49a50f]
+│   ├── t5.vom [83361a8d3042122d3284bcbc10239a829c7fcd6508c750a9323452ce17ede8a3]
+│   ├── t6.vom [49acaecb913b5769d4bf2ff836b713d5ee1b0a47290b1838972dd7379527aac3]
+│   ├── t9.vom [f7a95aa5e6d87f1050a2d9bd0c2e38f0ff888cb786e9db8ae4b1e6f6a1d620d6]
+│   ├── wci03294.vom [1d007e0ebdfc6703a9251bf4ca18467f0dda85b6a23d21e115a0044c3f8bcdb6]
+│   └── zipf1186.vom [426f5c37cf5ee7ddbd61d4e5c141341be3832877d57051852695508186df422c]
 └── 1313
-    ├── t1.vom
-    ├── t10.vom
-    ├── t11.vom
-    ├── t12.vom
-    ├── t13.vom
-    ├── t2.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── wci03304.vom
-    └── zipinf1.vom
+    ├── t1.vom [844dd6c0b3b176b7ac2378cedb2ef4a6dba32615dc49d9fd781ccb62881b31e3]
+    ├── t10.vom [7b01377cb067c1d9a8f70e1bfb1e1ba5467fd5bf556d49744be9510eeb5bcbab]
+    ├── t11.vom [17c205500612ac0076169c4e6eebfc0875678b997356aa9854a52b1df39a99d5]
+    ├── t12.vom [a50777361b8bfbe43d328d52f964ab45b2281a349157c0e1caa60be3a3d989e7]
+    ├── t13.vom [6dad4900caab2d0ac7950b2164f5702d2cef36c88d639813be32d1aa9ec99119]
+    ├── t2.vom [65d1c71d51dab454a7a6dd7a37e1308399b5d2df1f518dd4578a93eb798d5ed4]
+    ├── t4.vom [80aa1b2d4f977044951e0b5158377563a427c67484a7583413390c08fcc1ad2e]
+    ├── t5.vom [a7211f561758c1c2124cec125c1f9577e5f98590adc9bbc920c4a5de47ccca57]
+    ├── wci03304.vom [a2c418c4b9e80efbc1594556f988a305a62bb989b1cff9bd695804d03005b8b1]
+    └── zipinf1.vom [21e3392c45f3be11b061670fc93cccfdcfbda4b8bdf5bdd55273bebaae26e50d]
 ```

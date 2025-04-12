@@ -3,20 +3,20 @@
 
 ```
 ├── a
-│   ├── nrlg645.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── t9.vom
-│   ├── tf.vom
-│   └── vorlona.vom
+│   ├── nrlg645.vom [f9929b9c26e2ae5b56547272919d108c932516a4a6d7d546aeffa3cd5ef00be3]
+│   ├── t1.vom [4b7313f997a1e8212bbe9d6be7567e008a3d2f580be5eac465f9f11132fb42d5]
+│   ├── t3.vom [5a1b99f3106f28ab3244d86c67225329a3b4ef6658ab26af52dd903b4a528d27]
+│   ├── t4.vom [a37b34b344c9f3b95400698177f00f0b8ff24de713197710638c92ef944b0659]
+│   ├── t5.vom [7b8dcac10edae89095a0bd428d5758d326ca330ea0230424b0242f2dcd42c509]
+│   ├── t7.vom [bbb4d13f5d4591e5c5da2413e080e39ca20a8d3b8f52d84037824a7a01ceedf3]
+│   ├── t9.vom [37eac1c6c7c67cbe2b6974656e017556a90dde98414d0911e9874c5dc3238fe5]
+│   ├── tf.vom [672cd685eee7d71743baf7e9757e1ead4b95b6f96ab325511f63b3009de66de2]
+│   └── vorlona.vom [d777734bb0bb54a8ccfd6c3537312078a54932affd8269e78654e9f52a66ae10]
 └── b
-    ├── riddler8.vom
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    └── t6.vom
+    ├── riddler8.vom [23903b8f89eb27f3012616a0bcca1707658fd00cefacb005bf77b503b6ef9f02]
+    ├── t1.vom [0a892478cd53521dbde63632cd88b24e9f7e248fe3e406b707765ae12f43cb2f]
+    ├── t2.vom [8a94452f7ad58e02dacadc5c6521cb533a1f6717f4a20af39eb614afc5b690b3]
+    ├── t3.vom [fb17717c22783b63ccce8ecd7d844f76e116d019a860f6e235d79667a521c42f]
+    ├── t4.vom [e1c5f921d0676381e7d6c12614758eb44f434575bf980bfbc9245b72fabd775e]
+    └── t6.vom [ca9ce0c94c83cf27fb5b68cb1b8057e7310c0e7a8f9eb452d7545586de2d6e70]
 ```

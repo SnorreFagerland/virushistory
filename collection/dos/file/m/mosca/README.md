@@ -3,31 +3,31 @@
 
 ```
 ├── 0849
-│   ├── mosca.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── mosca.vom [d47736bc102af551d085fc9cda2122f043e87813acad197750205c8307efa679]
+│   ├── t1.vom [e85ca83ffd3653c8c9785119a47e34576faa113056c8a94de0991d893430999b]
+│   ├── t2.vom [77ad2ed625c03559df773c4d5d03c3454384225fa0effe692314ac3da5f1c2fb]
+│   ├── t3.vom [bd9381d440f04e0eb176f19946c113218186b7a619085f711808215fe7d0a659]
+│   ├── t4.vom [8ffc13f4f2dbb52e98967946b2fd096eb2d83b97898921492ecd18c97bb5cd2e]
+│   ├── t5.vom [2cd144bdf0c7342413c8fafdec4d21acc176c29f5ffa80a4df8f07aa887fc0f3]
+│   ├── t6.vom [c6503b44311ea6a238be64fae3f7d036c0cd066e69828733570cb9654db973b9]
+│   └── t7.vom [1626812e4b1a24ff730a2d9fb2c7780d4787f9c006e617abf5c9b06090be6dd9]
 ├── 1278
-│   ├── mosca_20.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── mosca_20.vom [84a260a8242aec4ed129b14274ce0f924642e7ec911047efeabd60c5c4ed0848]
+│   ├── t1.vom [0755575ef13b817a2de4cdf6b5ee6108b8d4bab27004a0297e4aacc1947b843b]
+│   ├── t2.vom [b0da4ca0c431422aa18f545cd2dcc1bc0edf6b90e96f547c3c4a564be7c0c2f4]
+│   ├── t3.vom [9ca070932aec8e9e09bb271d19ffafa142caffe0023b0cf40264eb77a247f1c1]
+│   ├── t4.vom [3d39cc277ecceb7432ff9ef927692c4b1aee5f435970ad15826257b84ddeef16]
+│   ├── t5.vom [bd2c49adad597b3ff187015f001e1f99b6ebc0af165f0247e778e2b2cafc4087]
+│   ├── t6.vom [704e4a3f48cce4d6c8ffa2423ed0489f897c0ff22775aa8a858ffe32dce70791]
+│   └── t7.vom [0c346ea0abab794fd1b36f84baff9147a81bcd1230185a13fcbd36ecd3c52db2]
 └── 1372
-    ├── mosca21.vom
-    ├── mosca_21.vom
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    └── t7.vom
+    ├── mosca21.vom [717128ee971729dfa4f15d7ffe0ff80cec9e0229f23611da59abba14dfee4a8a]
+    ├── mosca_21.vom [6cf972fd8cad0a144d5771b82679173c5800f321bf7927d5f0e5d7f54f88ea38]
+    ├── t1.vom [d07b579c8a34d552a01454591c503d6975a2f712bce02412219631ce8694d1a3]
+    ├── t2.vom [bacaf0dd6cafa2ac67835ecc5fe6ef11d309cbbdf3247b72a1510542d80ec2aa]
+    ├── t3.vom [68e5b30750402669e6f6c6324ca6c93c33ab15277d06bb3d2ff9c03147ce15b7]
+    ├── t4.vom [c8cd1a3386425de5b9ed509edd96270f2fcf3dcd1a8dbf6ebfc58db9692fedc8]
+    ├── t5.vom [2820cfff69ecc41a2de8dc666a1542e9dd015f006d47366c256ce9feb6bb09e5]
+    ├── t6.vom [012717849bad483bfec691ccf728a89ad5b24c06eb4a193031c105bff5e581b7]
+    └── t7.vom [107bb398213531435e210da969c2ee781e4ed6ea552a7d2138f6a352ca018e9b]
 ```

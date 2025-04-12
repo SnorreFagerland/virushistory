@@ -3,38 +3,38 @@
 
 ```
 ├── 1967
-│   ├── crew-ii.vom
-│   └── crew_4.vom
+│   ├── crew-ii.vom [b71b9970e8085f12fe2ce5b1f89f6d91dfe46fdfb94490d1c3bcdb067fae0d2d]
+│   └── crew_4.vom [c9a5ab6bc9fc162b07680cf4f611094d7f1a50134efbbb68f2b12882901de9a3]
 └── 2480
     ├── a
-    │   ├── crew1d.vom
-    │   ├── crew_1.vom
-    │   ├── crew_2.vom
-    │   ├── keyb.vom
-    │   └── lwm.vom
+    │   ├── crew1d.vom [b9f96c1466d05661f52438e5a10907d634b1305910d42935f5861eee31537138]
+    │   ├── crew_1.vom [75ccab1bab913fd60b91bf4b7ba4d071df8277d3ed0d4301f121ee3fe61a1b22]
+    │   ├── crew_2.vom [03fc369ddae98cdacd4d7ba8bd2213b38f2b4d60b160bb17c49f4b8b61cdedd5]
+    │   ├── keyb.vom [abff8271c5c8206b2a3095621a207cc81e3a4e648455d149b286d8f1ae26c6e8]
+    │   └── lwm.vom [a0a1421d084e1ef597904730e8ca10fbc85762364cd40b25d91183dcdd53a0e9]
     ├── b
-    │   ├── crw2480b.vom
-    │   ├── keyb.vom
-    │   ├── lwm.vom
-    │   └── mode.vom
+    │   ├── crw2480b.vom [750c5497e2ae42fb79fbb92dcd8d3b9ed746aba0bd4dd5b035b000537ffeeebc]
+    │   ├── keyb.vom [426984299fd1298b2caa80d3ed21feaa7538ef3b5b83b6decdedf5da461f8b09]
+    │   ├── lwm.vom [3d67809ca3f41f719d0a9011546b5651d732cec1f45559ebdcf670c8eb7817fd]
+    │   └── mode.vom [72656b04f2b484b7da7701cbdb52a4145a3522a75aa8ead5cdda3cb298e8e200]
     ├── c
-    │   ├── crw2480c.vom
-    │   ├── grep.vom
-    │   ├── keyb.vom
-    │   ├── lwm.vom
-    │   ├── mode.vom
-    │   ├── more.vom
-    │   └── t10.vom
+    │   ├── crw2480c.vom [ffc9736f759649ddfb610ba6426a4f1a82377c886078b332083532dc51e5ddda]
+    │   ├── grep.vom [0e0b118174fffd3304794200e6b06aa08f10d5dc95db8bed56a3964466715745]
+    │   ├── keyb.vom [7fc2cba468f2a5cc3a8d1b61aee374a7132e78580c747613876750f69e1c966b]
+    │   ├── lwm.vom [28eeea9f9445233af74f9b539ca21730ca7c7d0eeb4be20bf56ddba4072407fd]
+    │   ├── mode.vom [595c8e17519d191e58a77f95a1c2d75e5a3926fca91a2db83ea5e963b3fc7726]
+    │   ├── more.vom [371c1adbc5944820d902b1d4425d6d6050d6f460bde4647377d31bd6087e0f10]
+    │   └── t10.vom [4a63a219224d0f37efd761efb441d2b901d02154f2aa723732c1c887ba992ccd]
     ├── f
-    │   ├── cre2480c.vom
-    │   ├── keyb.vom
-    │   ├── lwm.vom
-    │   └── mode.vom
+    │   ├── cre2480c.vom [ca3aac0123166a80d5d4ead05cb0fbbd92fe73cb39447fa5a70437262e98442c]
+    │   ├── keyb.vom [23415630b709724e2aa9ea5b723d932bfb0968825b03164964448dc69230b90e]
+    │   ├── lwm.vom [88c0a708dff90ef9897d098ab14d39a5125467b9a291433e12d8960f627715bf]
+    │   └── mode.vom [efe09b59f8ce1dd3ea0304dd07728b22bc910eca5f7e662e37ee8287350b6c9f]
     ├── g
-    │   ├── keyb.vom
-    │   ├── lwm.vom
-    │   └── wci02301.vom
+    │   ├── keyb.vom [f84e1d489a3893db2f2e75cc8a6ff8803da6dc9a25293ebbd20b29f1366c26ec]
+    │   ├── lwm.vom [cc3cb06cb2549991174cb7c177f9eb0f6655f2c8cd1c417c9d975b432f02a704]
+    │   └── wci02301.vom [2bd0f2a1b13033977e51cdbef4d0572e3befc7a4d8ecce5d2f8fb811c4bdb144]
     └── unknown
-        ├── crew2480.vom
-        └── crw2480b.vom
+        ├── crew2480.vom [90294b0afe189a6879f73ade00ce871198068b3c8586edbd84020fe60c448ee8]
+        └── crw2480b.vom [2af3431d1daa555e1ee7b076c53f757b49b3f01ec577815923b2b62c479419be]
 ```

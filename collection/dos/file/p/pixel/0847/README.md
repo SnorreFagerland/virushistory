@@ -3,63 +3,63 @@
 
 ```
 ├── a
-│   └── v7525.vom
+│   └── v7525.vom [3525a82d2aaf4605aeb013f7c3eb74aab5e40d68cea1a11164e9ec11789bf237]
 ├── b
-│   └── ams-847d.vom
+│   └── ams-847d.vom [0d6e845f7e15fcb266cb27d1b206a1528f46473be09d489b5f75271451067455]
 ├── c
-│   └── pixdoc.vom
+│   └── pixdoc.vom [384b57d2d5995546bf125f289a8137f7b7cd6ffa2203b74d6339e4efc44f56ea]
 ├── d
-│   ├── amstrad.vom
-│   └── v7530.vom
+│   ├── amstrad.vom [069d5dd337feb7ac5150d3b1b144387eb39585edb25fd6cc246fae7533c6e452]
+│   └── v7530.vom [571cd8c318d959615f1c584b02e7693dc040139cd4f2cd44f276a9ed168baa16]
 ├── e
-│   └── v7535.vom
+│   └── v7535.vom [10b4efd3ce89dd886a67c6ea6a1c3621ee2dbac5f7a6687e46b511bfacba6a43]
 ├── f
-│   └── pixel_84.vom
+│   └── pixel_84.vom [cef5d58763c5ea57b3e7ab00c53fef4672bc74114bcbfdcd46f7afbfcdcb9d84]
 ├── g
-│   └── pixel847.vom
+│   └── pixel847.vom [2cf6335f6c644f7b0778e41adf1e87241032c0f32abd81d3c508574ecbdf9ab7]
 ├── h
-│   ├── v-847b.vom
-│   └── v7550.vom
+│   ├── v-847b.vom [104d8406008d671f65ac3cceeef27cfc2826a549e58ca9e9991ed0c9d9c5101c]
+│   └── v7550.vom [f6abfbff3a9b33d60d6aa062e89720e2414482f08cd2b537a8db42d5099b278a]
 ├── i
-│   └── pixrv1b.vom
+│   └── pixrv1b.vom [23ec8efb56de91c2707f7b46890241000e9fffb0dd25b32a9c6cfa7e80b537c5]
 ├── l
-│   └── pixel_84.vom
+│   └── pixel_84.vom [0618ef52e825a7e0018234caa5a68225e2883b8638ba2a691a040dfcd5825ea2]
 ├── m
-│   ├── pixl847b.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t6.vom
-│   └── t8.vom
+│   ├── pixl847b.vom [e43e99c7a79cd4885bee269de1032ed58475ae50ea3746cc38c7c382af43b4d6]
+│   ├── t1.vom [cd25ade1b35ad98db09954bde962d3bbff57dd82e3796027c1de783e39f9a8cc]
+│   ├── t3.vom [c1580571c7b5ef85ffc2a536baaca634e49ae93f55bce0a80f69161076a325af]
+│   ├── t6.vom [dadf13b2bd446b86d6d444cacd66dff5d224fd9570c82b0640965db62108469c]
+│   └── t8.vom [e30f3d63b6d1fcaaff21472e4c83aac5b3945526fa0114b247c70f299d30e7a7]
 ├── n
-│   ├── pixel847.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── wci06891.vom
+│   ├── pixel847.vom [6c68f31e648e1c51b21d960e5169832476cf0d4b2f567d71ddf3eeeab43b3178]
+│   ├── t1.vom [2f1e1073b4f3d82a461a52174359c0f0220d7e57a918f91ebc8a325ad5e67dd1]
+│   ├── t10.vom [724ecf382df28559188263b49fed073326508b8da7f873e4d3074947a30aafa6]
+│   ├── t2.vom [05e42faa746bbff3311d667cf9ac5fe01a7103599bdbb88f14fd7cd04fea5460]
+│   ├── t3.vom [f32a555afc9d5e4bd86e3f88b5bd7e4e37d2b013d5522ec48fb626b169464a58]
+│   ├── t4.vom [d8aa3f44f2544c3eaa3d364d99bb151e8b2747371cf5fb6cddcfefbf430db3a1]
+│   ├── t5.vom [446746d537846a844b926a7f85a7b9f42aeea04dc43fd7ba10d8386ed4771603]
+│   ├── t6.vom [b6da4c18563a8ceb94bd2e542c6937181144ce4382c4e3abb263f42f42ca8373]
+│   ├── t7.vom [1c53bc6a16179777113f209f8be7c777ffc55d05e3179774a21f361ba39b4d92]
+│   └── wci06891.vom [5589c4cf6f6afbcd80823102312323cfcb37abdbb15683daac05b975c7da13d3]
 ├── o
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── wci1679p.vom
+│   ├── t1.vom [d52d2262f6c1559837c1200860fb4dd2b2cdf8fa8a6c329ef8e645a6d3f4199f]
+│   ├── t10.vom [013a63ec9a8de76f6ee01bef936e627aa6b47a2d9efbfa79fcdeed9b9d095724]
+│   ├── t3.vom [a83d1528a32c83d0ae789343d4d101a72bea3b3d3115e87dc425d389b3878ae6]
+│   ├── t5.vom [8df40f5af2b567c4b5d81197dbf5510c795751eaf9b34124e7e8d2730088dd26]
+│   ├── t7.vom [140601debb77131522d35d6f73bb8fbc9141dcbada5b6380a673cefed18cdba0]
+│   └── wci1679p.vom [682ec10de6f27cf27ff74f57dbb0c1593e75128c9e76bfd20c15ee4d30568b18]
 ├── p
-│   ├── pix-luz.vom
-│   └── pixl847u.vom
+│   ├── pix-luz.vom [7f5800b972717e960c1f12d1f66baac614661898f125fe48c89268ddc8e5075d]
+│   └── pixl847u.vom [c1cbc5323091ef9a5e8e281edb20199d96bcdd15b24a8f629b33cbd5b995bc28]
 ├── q
-│   ├── amst-847.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── t9.vom
+│   ├── amst-847.vom [41304f963fa30ce4be19eee3bf11ce057b4406bda9ff71fd97e3d540cebc622c]
+│   ├── t1.vom [0fbfdf4835f0b806ba89737beb850a6a7b2c67633a60457bf800684c57e8d7e0]
+│   ├── t3.vom [dbe417e6e3ae63822bafab03665b94ab1225297eab2e1fe09a90baea93c5b6b7]
+│   ├── t5.vom [b4adcc985e688e857817966eeb7bfa13528d82c7267974a341da38e844e5e4bd]
+│   ├── t7.vom [c828e264b4c9aeaa3ef690829e92ddac0be6b8d616a6ab092c2fef3a2a448976]
+│   └── t9.vom [a0ad68fb42778ed17c1c1a8d8dc5d131226c69b1b78a0ad1c0983d735eb31229]
 ├── r
-│   └── virus.dos.pixel.847.r
+│   └── virus.dos.pixel.847.r [df4625039858b53d814dcb661f24493b6b670621e562c0d14aeeae2ab18322f4]
 └── s
-    └── virus.dos.pixel.847.s
+    └── virus.dos.pixel.847.s [7361e9a870cb8070bfde804ee3d4d038196604df05df49653ac17789ff10a3ad]
 ```

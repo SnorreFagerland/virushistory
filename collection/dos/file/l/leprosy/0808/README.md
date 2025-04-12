@@ -3,25 +3,25 @@
 
 ```
 ├── a
-│   └── weasel!.vom
+│   └── weasel!.vom [4fbaa5b351a398eea2e5c66ba74161bb06badcaef72a1c916fda8488bb60a233]
 ├── b
-│   ├── lep-808m.vxe
-│   ├── lep808m.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   └── virus.dos.leprosy.808.m
+│   ├── lep-808m.vxe [0f9b6b5d8e51cc683b73ddf34455b685e3520f9a18d1a12114a942f7a3a2c0b9]
+│   ├── lep808m.vxe [47128976ea7479bd957446b4c67fd211dde754478d91b133dea892a04b038a05]
+│   ├── t2.vxe [a52f6cd328b2c354401a3d12bc8b2a71a4f85fae444d1c5066665b13e11fe98e]
+│   ├── t3.vxe [b2297c07fa763c2c891264234b3de54f74f79eb371f67cc117b55cbeb94b77d2]
+│   ├── t4.vxe [3a151ccd70cfac94c896b1ca3a544adc0c798db1431fd4690465d100290db121]
+│   └── virus.dos.leprosy.808.m [89c61bd5449ed05cdcdc44f95271afbd9d14b7ea9093df0c852edd90e1c2baf4]
 ├── c
-│   └── L-S0808A.vom
+│   └── L-S0808A.vom [9e2ed1de15ebfca4adac079d2db3f26027f1b64ae40182070b40e8eaf83e00cb]
 ├── d
-│   └── L-S0808B.vom
+│   └── L-S0808B.vom [52de50f49b90a279a3b9d1417e8a89a96bdced5beae3735c40f5a967d198247b]
 ├── e
-│   ├── 1-le808c.vxe
-│   ├── 2-le808c.vxe
-│   ├── 3-le808c.vxe
-│   └── lepros~3.vxe
+│   ├── 1-le808c.vxe [8693db1cc94a6c9e94a67091d3b41f8d1f328b8d2d722728e4b7a7d37275b9ce]
+│   ├── 2-le808c.vxe [1cf98d71eeb786cebbde5c51f1be47ed0e44d606ff11d6e51f670eb7878e33a7]
+│   ├── 3-le808c.vxe [883d5e721c51d6f5a4064ee1e2c190226b38bf7b19feacd60260ec725e25de58]
+│   └── lepros~3.vxe [ce261d50f17d92c7175a80f4640090248721ca6773f7df56fc3830ef58294da7]
 ├── f
-│   └── rythem.vom
+│   └── rythem.vom [ad9884dd2564345a84341b4b9811d62ec97b4807e74972e51b7c1369001a80ce]
 └── g
-    └── L-S0808D.vom
+    └── L-S0808D.vom [998b6b27df8dc137be732d0a530005f59099804a2da96df6d62a6d2138c20046]
 ```

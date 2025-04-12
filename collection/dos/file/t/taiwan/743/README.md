@@ -3,30 +3,30 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── tai743a1.vom
-│   └── v9520.vom
+│   ├── t1.vom [6da3791d71590b3311ef80acd9a3707479e8906c86cd5942d7dd48ccd314cb6e]
+│   ├── t2.vom [1bc160a3a0870783444154dad207960b662545dbcaa88b1436b654cc595e46d2]
+│   ├── tai743a1.vom [2a2578340d9051ddcd25175a2c1308c11f5ecc1ffa47da2b399419d23985555a]
+│   └── v9520.vom [a1e729c6eb7551c6c50ba5b134dc4733c6b4d5895bccf392d167cd4590671320]
 ├── b
-│   └── taiw743b.vom
+│   └── taiw743b.vom [873f0ba69d8997d15f525363c5d81e37567bfb5d8a2d7bc50344e8d53be27d68]
 ├── c
-│   └── taiw743c.vom
+│   └── taiw743c.vom [f4624d635c5dd30457e84af7271410ca0d9807a2ffb8c1c77201d5fb56712b4d]
 ├── d
-│   └── taiw743d.vom
+│   └── taiw743d.vom [081e470829979970a90ac5a109949a04117d43230c4d34a25f7976ea47fac65b]
 ├── e
-│   └── !352.vom
+│   └── !352.vom [0ec774af66f910b7cbbaacf5149b25c54ac13f7a8ce652bbe12e2624a46b5117]
 ├── f
-│   └── taiw743f-0.vom
+│   └── taiw743f-0.vom [6c90dd14590c3144a68fadfba67a35f6f2b19235e77850c9b546eddedc75f8a5]
 ├── g
-│   └── taiw743g-0.vom
+│   └── taiw743g-0.vom [9d1576ebc881dc6d903b5006a7da9ff4b66d92a26fa243266598cd48953739de]
 ├── h
-│   └── tai743b.vom
+│   └── tai743b.vom [d271b5b6d7691e6ced1129bd0ba142a1069b1bbecfe40e1a43c568b1a34ca1bb]
 ├── i
-│   ├── t1.vom
-│   ├── t2.vom
-│   └── tw.vom
+│   ├── t1.vom [66e09076587ce16eb5f99e07685daad5e74bf74318a19328c3d79712bf318ef1]
+│   ├── t2.vom [86c78fe19942ee1af4e465f3eab2520cdad5c9652cb679a072c4f4d79ccf941c]
+│   └── tw.vom [be2f7073d884251014d5f40af6a57437228e7726f4325bb655f70eec6482773a]
 ├── j
-│   └── tw.vxe
+│   └── tw.vxe [1ea49714c91cbfafce32f66396bd18daa11db2b4056ba5b01bf6428e30fe6c40]
 └── k
-    └── virus.dos.taiwan.743.b
+    └── virus.dos.taiwan.743.b [8c6262955fe43cdbc722ee11e676b5e794ab7dcdbc7319f245bfe8bfee9c6256]
 ```

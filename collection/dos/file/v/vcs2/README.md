@@ -3,16 +3,16 @@
 
 ```
 ├── 799
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── wci02392.vom
+│   ├── t1.vom [2b61e2c1f59e01ca0d9b2eafda3d07cd1da98a30df839f0519f61ece2a381a6a]
+│   ├── t2.vom [15d0b00202227200e69d752372f37d063a9f09c991a7f4463d06faf3ba73c724]
+│   ├── t3.vom [cd9483702240df1265879fa35a5ece84618660bb1cb687e15c350b85b71a8a5b]
+│   ├── t4.vom [c2ddd5d7860573d3a2835600bee01251ed17a4af0f6789a67904f30f4fb80de2]
+│   ├── t5.vom [e86ec719a16e435a46164b0567f33b8ff8fd15699d2de2dbb4611d98f9d55fc7]
+│   ├── t6.vom [189b3f27354d5a5670ea839277cc00ca4ee606a50dd8d6a3e37b36447b4c96b7]
+│   └── wci02392.vom [9bad9c2334764a3b7cfd47b4ea6aefe67c582f8ab77819dfe9e2bf70849509ca]
 └── 866
-    ├── LWM.vom
-    ├── t1.vom
-    ├── t3.vom
-    └── virus.dos.annivcs.866
+    ├── LWM.vom [0ee7e525588a0b43d0bbd5c46e42539c39a9303182a3383366cdfe254a4e9dc6]
+    ├── t1.vom [0ae87f9238dac499ff034189bf604a1a0ee22916ac96b8641d71264f473212b7]
+    ├── t3.vom [b6be072eedc7202766099ab9e7d75b5a147176cbb6f42a9af5b75103473318dc]
+    └── virus.dos.annivcs.866 [777445cb1646c18b758fea8759dad83d30fcadc78af6e52c065ef15ce9be6541]
 ```

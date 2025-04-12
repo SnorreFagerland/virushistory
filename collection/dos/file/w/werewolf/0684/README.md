@@ -3,19 +3,19 @@
 
 ```
 ├── a
-│   └── wci0027w.vxe
+│   └── wci0027w.vxe [30a8ee7f895cb7c0d626311e92deccf3ea7e322157061150283e16fde2c5ec7c]
 └── b
-    ├── calc.vxe
-    ├── dialer.vxe
-    ├── notepad.vxe
-    ├── packager.vxe
-    ├── pbrush.vxe
-    ├── smartdrv.vxe
-    ├── t1.vxe
-    ├── t2.vxe
-    ├── t3.vxe
-    ├── t4.vxe
-    ├── t5.vxe
-    ├── t6.vxe
-    └── write.vxe
+    ├── calc.vxe [33c9692ea6a02dceeb3552ea9e4511443dae1bd2273373436021c4155db24e34]
+    ├── dialer.vxe [30e08dfdf8b523b79aa2cc506bf888d753f6fb3065a9dc9a0a8aee31d74881f8]
+    ├── notepad.vxe [68baaa9416eb1ab505a1afa94513c8a06dd5299b8d545352675ca3516071f14b]
+    ├── packager.vxe [1029faa24b66f07b298b91963002c6cdd9c25e39d3c00fd872b935ab3a829f60]
+    ├── pbrush.vxe [4b805b309d8fe1980ca2e9ddb67519824c0f10bfb008ef3d64d79fa630d6cc67]
+    ├── smartdrv.vxe [203dff8157103b03f9308b396e7d84d1c951fe251385ea5d2764d1ffefe9fdff]
+    ├── t1.vxe [2ff9101f24f3443757af1924d038e0d4c9b1f82bcf19bf43e6be4b62765b5aa3]
+    ├── t2.vxe [a669d02018c1b53d52420fd323b5b2d55057a4fbc103a4aadc750cf9fd051aa5]
+    ├── t3.vxe [fb1bc367b03e501e710a136a5b5405b0d0996b1815455e553165c9d6814b74fd]
+    ├── t4.vxe [f8a0def9b15164bf0b5d40ceb11d42314b26fff3fd67f615513259dcff7627d5]
+    ├── t5.vxe [eb623ee3ba9136d7cb242b42579d673a11dca328575603997f1660465906baa4]
+    ├── t6.vxe [28e151fd307338394e80cc4bcf0d440315859e69a4bdfde747c4a75d7d96eba4]
+    └── write.vxe [214fbca8a292c40e9841a3db0a68eb010d3782f8ca6b1b3be8de134887d27262]
 ```

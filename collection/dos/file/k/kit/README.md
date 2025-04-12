@@ -3,16 +3,16 @@
 
 ```
 ├── a
-│   ├── 1-ki2384.vom
-│   ├── 1-ki2384.vxe
-│   ├── 2-ki2384.vom
-│   ├── 2-ki2384.vxe
-│   ├── 3-ki2384.vom
-│   ├── 3-ki2384.vxe
-│   ├── 4-ki2384.vom
-│   ├── kit.vom
-│   ├── kit2384a.vom
-│   └── v4580.vom
+│   ├── 1-ki2384.vom [bdccc7688f58761a3fc845dc0880af63aa4ecb5a863ed27d7b3d2c36970049fb]
+│   ├── 1-ki2384.vxe [e93bc4c2aabc8c1e14b1ce39728b680639ab90a5556897dcf8ce128714c6d0a1]
+│   ├── 2-ki2384.vom [92d5285cd74366c25f11829a924079799bc41e8571d5f69a9595089327ae08e3]
+│   ├── 2-ki2384.vxe [079fabf3c50ba392a0b2df9fa0abaa9c00902a50f1b02e4816c0f24466d6a0b6]
+│   ├── 3-ki2384.vom [af3cd06360e96f6ee813a3dff4c00c8c7d0402fd534eb3e9bc25cd4c0d0b5283]
+│   ├── 3-ki2384.vxe [3d5b9f71eb99523e639dbdf3186057b4c7fec8ef5608dfc45d2659f1f3fdab91]
+│   ├── 4-ki2384.vom [94a8da3b8888ffe3309b59cdc5ebf935176a7b93cd7a58b8770373cc5ce77fb9]
+│   ├── kit.vom [06cd98cd7987ebe9d0e4f081a74b83bd7ebea043281a86c26636c1dd49e06084]
+│   ├── kit2384a.vom [da12348a97390919f884856e5d0acc27750c2ebae0b2d9d980a0f30c9a46e4bd]
+│   └── v4580.vom [9f9d0d8c6e42402d7cda244957cb7c9f769e318e253a722732113ce19e3a624a]
 └── b
-    └── virus.dos.kit.2384.b
+    └── virus.dos.kit.2384.b [cfd5c73f8b7c9522f6f6236601f35142a71293c6366428e992a81eb149d94e42]
 ```

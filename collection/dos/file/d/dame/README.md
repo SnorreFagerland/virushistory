@@ -4,34 +4,27 @@
 ```
 ├── 0_90
 │   └── trigger
-│       ├── dametrig.vxe
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t10.vom
-│       ├── t2.vom
-│       ├── t2.vxe
-│       ├── t3.vom
-│       ├── t3.vxe
-│       ├── t4.vom
-│       ├── t4.vxe
-│       ├── t5.vom
-│       ├── t5.vxe
-│       ├── t6.vom
-│       ├── t6.vxe
-│       ├── t7.vom
-│       ├── t8.vom
-│       ├── t9.vom
-│       ├── trigger.vom
-│       └── trigger.vxe
+│       ├── dametrig.vxe [9643b24f6b108911cf2365690d9ad8f6e5198cb441ed5379bf9a6140e9209741]
+│       ├── t1.vom [187969dedfd086a38558f3130c67cf415bc9d9b608ce7876f6b56b29c90d0634]
+│       ├── t1.vxe [b098ef3242e050e649b145b38e9b9a97fdc294f7e8ab3c4c2f27f72c13400ddf]
+│       ├── t10.vom [7a45713624967c088799a927d78fe6518348f6b32dd6432df6e320f13c2965bf]
+│       ├── t2.vom [6b383d3e78aa877ed187447a4a34717ae201439211f6fdbb216e4407a613101d]
+│       ├── t2.vxe [27a2e3fafa2c132451ca973206b9c716a6b54aa2b314947fd38ef900443d4cae]
+│       ├── t3.vom [534d1b9751367b5a905a399227024b01ef1a3085110c98f3d1b7828c9cf0b631]
+│       ├── t3.vxe [20ea46337b3960dde4825e24e8fea749ee5e1111bad8d3566119546da68a0ad0]
+│       ├── t4.vom [aad28792c5482398799dcfc85f3b182edcd2347db93a3bb63a3decd3ce972c04]
+│       ├── t4.vxe [87f0179005f86f854a5347235f173186da1ab719dca9eff61c7152c3b66b1222]
+│       ├── t5.vom [b7ccadaa0c1d6f8118b03fadfdb246e7804494c47dfa72c1beb2c19da3f092d4]
+│       ├── t5.vxe [f796ae1f86de853a2a4584830a741b5e1a3730e4f5cfe5f4e531ec17658b8c20]
+│       ├── t6.vom [afdd00e8c2cb28383ba6d36e8cffb46dc52aaec76da1c4091ab657a5bf3a147e]
+│       ├── t6.vxe [9b4ae7f65daf4d85cb9daf528011814be47e6a8eb09b26e82d4d609f4794bc51]
+│       ├── t7.vom [dfd564d5d3842d6089a65e5d6afe90399bdc3b04cd4116831c40bf641bb34ff4]
+│       ├── t8.vom [a0c7f95205b981dc9b5f8dc839c52de79aff2d37d6cddc989cf6a7610d363d0c]
+│       ├── t9.vom [e615ac89a8284dc75395f9b2e1011ff6d5e750666f5e6c6f37b5b67ea22e06c4]
+│       ├── trigger.vom [75788a37a8c3323315fc34d436744fc3c5fc81568798880044848b286d4dc5b8]
+│       └── trigger.vxe [41d363ff11bc45b3bb62b2ed0fa47fc6c12678aaef87f453614af99054148e7f]
 └── 0_91
     └── lame
         ├── 2250
-        │   └── virus.dos.dame.lame.2350
         └── 2326
-            ├── 1bc3d075.vom
-            ├── lame.vom
-            ├── t1.vom
-            ├── t100.vom
-            ├── t2.vom
-            └── t3.vom
 ```

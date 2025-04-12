@@ -3,72 +3,72 @@
 
 ```
 ├── 7610
-│   ├── 100.vom
-│   ├── 1000.vom
-│   ├── 1000e.vxe
-│   ├── 100e.vxe
-│   ├── choice.vom
-│   ├── deltree.vxe
-│   ├── diskcomp.vom
-│   ├── diskcopy.vom
-│   ├── doskey.vom
-│   ├── edit.vom
-│   ├── fasthelp.vxe
-│   ├── fastopen.vxe
-│   ├── fc.vxe
-│   ├── find.vxe
-│   ├── format.vom
-│   ├── gm.vxe
-│   ├── graphics.vom
-│   ├── hare7610.vom
-│   ├── help.vom
-│   ├── krs_7610.vom
-│   ├── krsn7610.vom
-│   ├── label.vxe
-│   ├── loadfix.vom
-│   ├── memmaker.vxe
-│   ├── mode.vom
-│   ├── more.vom
-│   ├── msbackup.vxe
-│   ├── ne2000.vom
-│   ├── nesl.vom
-│   ├── netbios.vxe
-│   ├── power.vxe
-│   ├── print.vxe
-│   ├── share.vxe
-│   ├── sizer.vxe
-│   ├── subst.vxe
-│   ├── sweep.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t4.vxe
-│   ├── te10.vxe
-│   ├── tree.vom
-│   ├── undelete.vxe
-│   └── unformat.vom
+│   ├── 100.vom [4e29f79811edb6e3285a3960d32e5d44b17558b224f24b7e6b5cb2aefbca0ff0]
+│   ├── 1000.vom [c38a135b06c421dc22574fed75b91777774251556975f347d2aa39e314316e05]
+│   ├── 1000e.vxe [5dbc46a02394246727c1fff6808b0ccce913b37779f163c97c1a4a52ee73bbed]
+│   ├── 100e.vxe [c67fda5eb45a85e7fdc58c50f37a88eb3b24f7f9545a5db7dc4a4f815b2d9673]
+│   ├── choice.vom [43b20a534b8a10a30f8377c87a9f179358b9b9ae945960a3ba33d18e30f1c28c]
+│   ├── deltree.vxe [dd7a2d6a9f22bfa2c850ace3e13127878028a1129513d68872104a4fe4a21211]
+│   ├── diskcomp.vom [6a8897111a61380c5b9c781b5912db85bf922345cac51d3a72dd62b8a7a25af7]
+│   ├── diskcopy.vom [0bc78423a43e321c7bdeb172503db9ddda547ca1d758df581d41ac2535cd1de6]
+│   ├── doskey.vom [af8555d9b495dfdbc992a058a1c433a18f5493ea385605eb389bf13d90dfa359]
+│   ├── edit.vom [de423e8b7374bc14eb14d08d354cd0ff03ed528621f6cd28676833b0c77165bd]
+│   ├── fasthelp.vxe [81390434c6b401f53b72c8e93331ddbb0e3456898edf46ff57b0e5f897865c97]
+│   ├── fastopen.vxe [5c4929152a2d92dfdc8bdb0810a1706d95d3a9c0e0d025776739bd37dcfea0e9]
+│   ├── fc.vxe [7e1ce8b3ef83f4385506acfecc45f74a18d5ee835d9b61b7efc2e275f1c7e381]
+│   ├── find.vxe [437f361c02d8aa2732fa011d587d1b554906fdaa6a4d4a0b55dc2df1e9949b4f]
+│   ├── format.vom [cfa6801185b44072cf4ae5110bc6e6e8b7b3dd008110554c7e1d5ccaaae2b2c3]
+│   ├── gm.vxe [24e21af7fc8daf269a030caea5624eab0e450e2492ee94fc0289e685b8816023]
+│   ├── graphics.vom [69436af4f0778a1c79e391df3306ec7dae4cf7e2a0b13a2dcac7005527027451]
+│   ├── hare7610.vom [8b2f81093f3e8a36ec426a3a54ae3d90bae9e9c025dd9ff10f2be923c2700867]
+│   ├── help.vom [a477594c543044858e853b467f0ecccc908be4ab0046b8cb8c7d8efa80dfdd7b]
+│   ├── krs_7610.vom [929c22c0880e31479d7ee6984233decff7acc0220782d25ea3cdd82a531e3747]
+│   ├── krsn7610.vom [d03f58eda43830a582bba59c51a9687c50cc44d06a040e0c1a52bac57d9ab0fd]
+│   ├── label.vxe [bf5442612e29f6dee535fbd8b25593ba47726247d44751d4e4272d8af34b607f]
+│   ├── loadfix.vom [e9d3fe8389f3079e7b1b4a75f1f80ddfc0b63ae78a8631e3d75262d2fe62fcc4]
+│   ├── memmaker.vxe [a517241ba067528ef5857a0082ffb0923f495f93be7c392b13c4ed40beb76e16]
+│   ├── mode.vom [d293e60691e1898e2cf32d2bafa83402f043665c0571769b47456c3e9d764d46]
+│   ├── more.vom [cf76a9486568054b457537be9e65f6e7fee2ced8b621d16fce56a9dbf48974dd]
+│   ├── msbackup.vxe [60b528dc8ce0dc11282c87140c5c1871168a6c2ea5492f8dd3f3ab34e8b228cd]
+│   ├── ne2000.vom [140d97da542c548882550544d1277fdfe87f64edf121c17a3131d5b70b0fd0de]
+│   ├── nesl.vom [21887eec1017f6f2b2ac015b29525c3e09a1a1a5f2f5185dd7bdc5304cc817b3]
+│   ├── netbios.vxe [6f6250022b897cae8e271f4e9c527a21d41ce3e8d74a921d5ae1739932545843]
+│   ├── power.vxe [03b2497fd27c5a9da1cc94f10de48dbd0d20c819c21567f3b84527b208c1b8c6]
+│   ├── print.vxe [3bf6dd94707407344a40a61fc7e6d7c643f064c51aab3f4b351c98dd22336fed]
+│   ├── share.vxe [bcc108f7a5674ef2e6e9f3e416578bb60926978a52c7b62af6c16bfa91e26175]
+│   ├── sizer.vxe [3b154a821384feb98bb67eafe821f15cdb42f11b36ceb5e844c03a86f4958c26]
+│   ├── subst.vxe [4afa407d93292c41cf78c7fe35c54783fa010ec0aa4fb0f8f9f369191a6d75c4]
+│   ├── sweep.vom [b7d45e1112dae71ee7635aa65aa69244f9983ce58264dc47c63d26d7bc1a0f4b]
+│   ├── t1.vom [f7c37483ba3683cafe14d6ce9c78593c386bd9265cce9ec73e4c83d07dd8f359]
+│   ├── t2.vom [a0a4419d22aba785103750ffce6c523bb813a79a88ff031929bd72cde9612f6b]
+│   ├── t3.vom [a3a19e52fed409c44f2c3f1f650944949d05bf23043937564d8cda187a1d3a07]
+│   ├── t3.vxe [23c445933e8e9eaf66734de19aa3831fb2b8d9d3cbc5e0c72688e7091d020da4]
+│   ├── t4.vom [e9da55dc8e31189ed2eb1792343619375c2c7a4c8ce224b8829d5a277b2ac4fc]
+│   ├── t4.vxe [1a39366301fb0e5746f1fd45a9449d24b18636fc96ca2a903658381e252e8a48]
+│   ├── te10.vxe [78e10c278faeb201b8aa752bea65f57d5bab5b8584d5904fb9ecc798475a7fa8]
+│   ├── tree.vom [0c161012a2fe7b745faed4e961bed2ec78720fe013c6d0848f6216713af7ec9e]
+│   ├── undelete.vxe [cb08b50495295679c016f8005b0ac54f9ef56efa864adc8167e87f36be31f708]
+│   └── unformat.vom [162914ba5493738115fcc94c08fdfe840b3cb53900c8628e2b008ccab2da2e21]
 ├── 7750
-│   └── hare7750.vxe
+│   └── hare7750.vxe [fad024889785e8e33c2be84f84534b467e90e340bf295289534fe779679a273b]
 └── 7786
-    ├── acdsee-k.vom
-    ├── agent-k.vom
-    ├── cftpreg.vom
-    ├── crack99e.vom
-    ├── eu.vom
-    ├── har7786.vom
-    ├── hare7786.vxe
-    ├── hdeuthan.vxe
-    ├── iphone-k.vom
-    ├── krs-7786.vom
-    ├── krsn7786.vom
-    ├── pspcrk.vom
-    ├── t1.vxe
-    ├── t2.vxe
-    ├── t6.vom
-    ├── t7.vom
-    ├── t8.vom
-    ├── thumb-k.vom
-    └── weathr20.vom
+    ├── acdsee-k.vom [20e3cb5a3ad7e759c30a39ff214fad68256151352757e55958de906a8386184e]
+    ├── agent-k.vom [4f0e7b0a646be74e38dd6243f5fb335e06c6333803cc49c3675adf174ef915a4]
+    ├── cftpreg.vom [d4db48d66fccbaee62b7f81670330394b501894a417f43f4a6d7733d0eeea8a1]
+    ├── crack99e.vom [bf263033047f659acbeefa9144efea3ed4286a7eb19bcb35d9a732e063f81df4]
+    ├── eu.vom [35c49fdf9ec79ab79440867e499d8f8235b82ec7923d85f82e9fb58a78b40959]
+    ├── har7786.vom [3bf6edab51402d4292c8874c98d8ba06331c85c1f4350058f4906bdfab2ae23e]
+    ├── hare7786.vxe [ed13ed5371edda9a0ff3504166bc21adaa3b7102102e8b51b1064d6b518dcfee]
+    ├── hdeuthan.vxe [a197b6af4c5d4b5857754637dd24603a664cb89be9e1369aa98bf15c7e0a7778]
+    ├── iphone-k.vom [2a387ac8bbcd40c6ad6f9cb23c7bd9a35afd6f0b341cb7c34f2ea3449a46e743]
+    ├── krs-7786.vom [ed86fdc055676d95bff6d3d7e60ba34e4a2e78e125f76185e448a1fe5da46868]
+    ├── krsn7786.vom [0fea1b9529a455ebe7785952b600c9fcc8564a7838074b3eeb428306ae497e7f]
+    ├── pspcrk.vom [d67da18a6482a9d901cbb7eb7e75a177f99a27ebc9591e5f461f64460de70fc0]
+    ├── t1.vxe [d51a19e12d037a4893f2c0489d1b1f618cd74bea6c3d4b47ccba0c5d8e1d7968]
+    ├── t2.vxe [413eb14e882aa510ba810c2e90fafbe8c91ff5d8c5cf31310e48c600096fe17b]
+    ├── t6.vom [e96607008efc2947630c590ac95841874da8fd2ca0ea9bca080ca55337ae6f0e]
+    ├── t7.vom [191925bfcde368fc72fedb7d611cd6d31c82caa902bde533cea3f310c90a93d4]
+    ├── t8.vom [3cfc329683cbc6b36faac97ff20f26261affc6363037f83097aa68467eb22337]
+    ├── thumb-k.vom [f61c9b99a0616834818eafd4232e8ddc75fdbca6092a677f57b4db060668f320]
+    └── weathr20.vom [8c5e7980139836ef782f91f4171ec5690bfddf593dad753dcc9754af030c7d98]
 ```

@@ -3,35 +3,35 @@
 
 ```
 ├── a
-│   ├── eggman.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   └── t6.vom
+│   ├── eggman.vom [06f00328892c2adec75038748679e061b602b636fa8c730de1e078fdd91701fa]
+│   ├── t1.vom [509d22c4dbd693e1e8f47145bf42273015905086e254dde785960cbe7d9d76af]
+│   ├── t2.vom [0a4dee8b54c99c80a7cf7c0686dda0b4e26273921f1a8a4e2cde426e430b5c43]
+│   ├── t3.vom [7940dcb163640bb15ba136916bc3243be689ee2f06d7bd7265ffa20e4ad4099f]
+│   ├── t4.vom [edda8808a208c857fd691f0948fcd99fb65c567d39012296773864c3781f68cd]
+│   └── t6.vom [a0e5cad5d463825e5b0da25808f20918956ed2d5b84529171056d94e62ce8a48]
 ├── b
-│   ├── nrlg655b.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   ├── t8.vom
-│   ├── tf.vom
-│   └── vorlonc.vom
+│   ├── nrlg655b.vom [4060110350177565a80de2ab0e677c93c14b8065d4a7f60f654ee0e0dd382a31]
+│   ├── t1.vom [a1cb88e041fe7704a4283331d6a9929ea8dd558dca4834523d5997c40a1dae5d]
+│   ├── t3.vom [e15cbd173daa6302f13e8de0c4bff93c3395b39120d67e16ee69cd92faed5e2f]
+│   ├── t4.vom [8e45e33899888822a766db80bf5e8f542ef299beba9bf02e6b367672dab30814]
+│   ├── t5.vom [bc97539c79ee921f143dd4aa0a462952528d6a06b1c348a195b7c70a4a8fbf5e]
+│   ├── t6.vom [364d51ecc471381a6890c8ad15d39b65aaf0eed61194437e89636228e96fe800]
+│   ├── t7.vom [f6a29ae2ba794e789b49bb50c424aa4d6aa7c244e0bf46d490b9cd6efb90c53a]
+│   ├── t8.vom [bfcd4d893455b0ba21e35f64951971c3b0a67fb26e610da40e1893632e36d72b]
+│   ├── tf.vom [f7fd0993f763442d5085763763c784c7933b3bbeab146f000b3eaecc024ee90c]
+│   └── vorlonc.vom [a5c048943422764eec350c4bc074309f3ba0435e7056322aa5cdc5636095d22f]
 ├── c
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t6.vom
-│   └── vorlone.vom
+│   ├── t1.vom [762ad9504de76819fe2caadaf17feb80bf148dbbb0ef8fa9729edbdd9b78a237]
+│   ├── t2.vom [c1c327266a8a8b4fccef6ee7616e3edd33a88be90ecc9db9613f1ef195e20167]
+│   ├── t3.vom [52ec5d81b9f0e0c226511ad7e9eb1fbe0878f6dd02827a7fbe270cefc83a17c6]
+│   ├── t4.vom [d513d4d801eb3a8865e5e9bdebfc1ecf48a1b8bd78db4418fa221917cbca0f63]
+│   ├── t6.vom [587215dc1dab7bdd0e68630a11d7904fe23056a66cbb1efeb29d5a062656c7c1]
+│   └── vorlone.vom [00a6daf8245ac7b9d1c824fb13971338254c0e353867bbc6fd3679f670989343]
 └── d
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    └── vorlong.vom
+    ├── t2.vom [a38766fefd7583a7f4cbcc2cdc5e042fc1e0425383598b40b60cd74a4dd0002a]
+    ├── t3.vom [28279866483afe811cb9c89f42868ee7d6420450c6be67366a52b4604d8cd6e1]
+    ├── t4.vom [7008b9962f54add8967e89832abaf1936d7004798022a614f05e9c39447806ef]
+    ├── t5.vom [aa4e1bbef37ad52ae2d9a55fca7e673a9b1ec6c04a326f2c4b0c4f533cd25416]
+    ├── t6.vom [495c6d66b8635739757bd80569e400a9c536cd41bcec959a02418f8b73d3963e]
+    └── vorlong.vom [9a0c036dc73527ac703e23d8916481c58110f1f64d7f22ee46d0ea0286cda55c]
 ```

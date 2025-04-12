@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── wci0162c.vom
+│   ├── t1.vom [62ea7404cee26653d79ef8ea1963a5132cae3eaeea4819cfa989a06d7ac08f15]
+│   ├── t3.vom [299dea78271fbbc29089a83b09a93c12df06f1b3a3a9c761c04e4ac5d8b84e78]
+│   ├── t5.vom [c581aea632db684c5b85562c202cd75e2507c767075ce3e8bba3a8b76d5b2091]
+│   ├── t7.vom [13ba8c751fd4eed934cee04bfe90ded076205e49101700b4eac43ae5b579354f]
+│   └── wci0162c.vom [664484ed16b5d3f17a867efb1c961858a3cd9571112c48168f55a927663376f2]
 ├── b
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── wci0163c.vom
+│   ├── t1.vom [134e12f75ca2227e1457f07eaac0c38c1f4af804b5b4f61761ecd7a897958491]
+│   ├── t3.vom [716deb9405249ea4918a8e3e1356c2cc64ab5aaa575f061ac045cfd43940d888]
+│   ├── t5.vom [c766b1af4fbfbc1231639914cb8a5fb1934994a5d36bf54fa14fbfd81e2b943d]
+│   ├── t7.vom [31512f66e8de4d3e61ed319383ce3480f72cf668f1cb262b20c87f2c8238d46d]
+│   └── wci0163c.vom [2710eab100d8bb706a9a53f5443cc04c9b5549a120e3a5073678bdc7310a9ee0]
 └── c
-    └── virus.dos.trivial.civilwar.440
+    └── virus.dos.trivial.civilwar.440 [3d5b2e31bf69cfe103e6b306440ad1562b521b9fe2650905452f745351e7d03a]
 ```

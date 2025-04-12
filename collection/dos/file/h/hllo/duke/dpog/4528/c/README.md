@@ -2,8 +2,8 @@
 # Contents of `c`
 
 ```
-├── DPOG78.vxe
+├── DPOG78.vxe [ec2bcdc6d607ab2f6514a39bb0328e09c087230648749d0252a111e3c92dfbb2]
 └── src
-    ├── DPOG78.CFG
-    └── DPOG78.PAS
+    ├── DPOG78.CFG [fc1b446ba9e0cdafd374e17c16b0115776afcd10ae723f43961b615841919034]
+    └── DPOG78.PAS [3b28b5d6bb79def60ad33b1cd1280c34fe22c1acbe53ac8d29010e6504d0e6e4]
 ```

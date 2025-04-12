@@ -3,75 +3,75 @@
 
 ```
 ├── 2370
-│   └── Virus.DOS.Timer.2370
+│   └── Virus.DOS.Timer.2370 [e0a68c64766a069515a5dc94f1dee23736aba971bce051a6179a22831be9d630]
 ├── 7271
-│   ├── abadbs.vxe
-│   ├── ai.vom
-│   ├── al.vom
-│   ├── arj.vxe
-│   ├── at.vom
-│   ├── bisel.vom
-│   ├── bkn.vom
-│   ├── bu.vom
-│   ├── cat.vxe
-│   ├── chmo2.vxe
-│   ├── chmod.vxe
-│   ├── cq.vom
-│   ├── ddht.vom
-│   ├── dkkvi.vom
-│   ├── dkvsf.vom
-│   ├── dpje.vom
-│   ├── ed.vxe
-│   ├── eddt.vom
-│   ├── eteeb.vom
-│   ├── fbcvf.vom
-│   ├── fu.vom
-│   ├── ggs.vom
-│   ├── gkis.vom
-│   ├── huct.vom
-│   ├── ieqpg.vom
-│   ├── ietce.vom
-│   ├── ifrfv.vom
-│   ├── ig.vom
-│   ├── im.vom
-│   ├── iold.vom
-│   ├── iq.vom
-│   ├── jcbms.vom
-│   ├── jpakt.vom
-│   ├── kan2.vxe
-│   ├── kanari.vxe
-│   ├── lba.vom
-│   ├── lepj.vom
-│   ├── lqop.vom
-│   ├── lu.vom
-│   ├── mam.vxe
-│   ├── munh.vom
-│   ├── nr.vom
-│   ├── ofdj.vom
-│   ├── pkzip.vxe
-│   ├── pqoib.vom
-│   ├── pqv.vom
-│   ├── qe.vom
-│   ├── qk.vom
-│   ├── qkks.vom
-│   ├── qmptk.vom
-│   ├── rrlgm.vom
-│   ├── rsr.vom
-│   ├── rurrq.vom
-│   ├── sgk.vom
-│   ├── sppb.vom
-│   ├── tb.vom
-│   ├── tot.vom
-│   ├── ue.vom
-│   ├── uipo.vom
-│   ├── vc.vom
-│   ├── vcstv.vom
-│   ├── wc.vxe
-│   ├── zhen7271.vom
-│   └── zhen7271.vxe
+│   ├── abadbs.vxe [c4e0b0b9d252069ff87164044c93ec917caee9ec76ccf5a16d57bce0db5d1bad]
+│   ├── ai.vom [e0a513c7176140fa2345a83b1accc65db1c8ce8a920504874705a86cec42b240]
+│   ├── al.vom [a21b140c491a6b098f19b7009e4a70f1ed0f6da83db4787b6166b71680d63ca0]
+│   ├── arj.vxe [3e23d055a854a7fbdb5f8c6b545521acb6962c0aa9862474af6824abaec5d67b]
+│   ├── at.vom [88db0143b281a091f32465221b4ca76892eda52865b0d30148c9b05bedb90dcb]
+│   ├── bisel.vom [74c8d6769e9afe47de1bd56a7f722fb08018e20e18d18f2bb99ea91c18188b23]
+│   ├── bkn.vom [4c4c2b706ac0d95861779bafb52dfc3955d54a1baa9350c8f6beb0e6cc09f71e]
+│   ├── bu.vom [b6186c104abc0febd502b6ee86c867b5ff38fb4c20f13b24c3861c3ffed07267]
+│   ├── cat.vxe [eb1e7914f96ef3232438a1dc3b6d57a7a506e2338c988f8cf5dd1cd24804956c]
+│   ├── chmo2.vxe [addc64ddd42eda4d086e0222adc71dc62947658c5dce8805b97c4cd5b553b493]
+│   ├── chmod.vxe [c01dd48d1e9386f55d1adb6eec5e1de8fffa42c642a672d1c65fbc201804957c]
+│   ├── cq.vom [1a46c37e5507d4f62ff2984ea1fecabad349f86b72a7dc37df7ce48cf69f1e18]
+│   ├── ddht.vom [865e6b5f0da476e10827747626b43d7e499d6aeb3f97833ee8cd002917b1c799]
+│   ├── dkkvi.vom [d14c57b34d33d9b6747260493702c5f11b1610d87ad4fd2343e4d7cca77189fd]
+│   ├── dkvsf.vom [44deb08fd2adc5252cd17d688c41a93853754f302030ca09e4a257a5d52c3770]
+│   ├── dpje.vom [7b5f56771846ce370a3688bd3ba6087e41a208acae113ed4381bcb8d0d3c7d56]
+│   ├── ed.vxe [49b82646c070355d258bc61be528fd44dc2a2aec21c8f3e0e0d423a735573e76]
+│   ├── eddt.vom [490a3ad6b39035b670d7d37a46da525b641235e8ff5ff08e5818f653d042577f]
+│   ├── eteeb.vom [d699df6b4ab6e463687a902230cf3afbd8120fb1c011dddbb30038b508bf1863]
+│   ├── fbcvf.vom [ab69625ad6c017591d79ea2f231f3eb22b003a1b04b1f9f10080b62f0fced502]
+│   ├── fu.vom [9a5cefc5333b68554e12f658fae4a45750f22ee8aa51020c1a21a3896fc6204d]
+│   ├── ggs.vom [7cdb62fced82da4810134c0d3644760ef27c44a6faf4159b708cb22f1cb2867d]
+│   ├── gkis.vom [a0b7485a65e68c1576cb03dc3f7c7da982f23d4e48ade627ee1bd71561197b44]
+│   ├── huct.vom [40fa3decb8074aea369814dd4bc461971044e062a38990cb2e6176b88c445b40]
+│   ├── ieqpg.vom [bbe71bdfe542cd219f95c480b028d5711e44ebae8c4ca14e410d499c2687bf78]
+│   ├── ietce.vom [9655c940a65c5bce78cf772f5aebb9e32b238b6b70976caaabfb49e4400f5d02]
+│   ├── ifrfv.vom [7fda0cc6e280942b490b556ea770df6fd92238097646633c8e84657d77156d67]
+│   ├── ig.vom [de33c9fdd771455835a73a4015ed96a4c356b9bc8018f9b70527435159c35766]
+│   ├── im.vom [f9a1a72ec4cf8f4678570c3e2b8fc576afcef222fa5fb6a016b4a615347e88ba]
+│   ├── iold.vom [7eaea5284416c170a411a2e40deb08b986e0cc7ec83dd12c90a83458e3503f4e]
+│   ├── iq.vom [8eb30e67969108af2b2e061a5187e00400ba14021b5dd15a09737beb00d01b70]
+│   ├── jcbms.vom [93105e30d11ed062ece62dfe8140f7e98299ba1951c44e35fe7d437c51386288]
+│   ├── jpakt.vom [70dbc4624a6441c884cb459fc01729850f8d1e95cc69d5f5c8b6063b8418a273]
+│   ├── kan2.vxe [bee609b396d6fa5871d44b8424d77c1a4f2d1cc1c2d234b803e464520bee89b5]
+│   ├── kanari.vxe [8fe0d866b0cfb8d81456e8fe147d78724ed6fc141b5ce20a86f0c022dc4de2bd]
+│   ├── lba.vom [93f87240d627b92d366991ed07d7313c5c0634c894356b091ed134e4f61d3440]
+│   ├── lepj.vom [58f3f4c31b899134fcbc15e63393e22cb405d9f3a0357b7a29828dc6f2fcf24d]
+│   ├── lqop.vom [b4dcefa4ed42d70364e5a606936cb69beae8d1c02cb320029ece5dea229aa562]
+│   ├── lu.vom [851f508eb92ee661c55f253a802993d3b592e29c48ad98952adc40471d5cc926]
+│   ├── mam.vxe [38815d10d58d8c74b5762993201166f320fe215c28fb274e3ab6e264eeb51292]
+│   ├── munh.vom [ad9bc0796db5778f9f4fe84344461a70a01324e3daf772a06379e11e5de68d38]
+│   ├── nr.vom [f5f8f8012ad5e301c26fcac90735b205a2858b4d7b8b59e567b1ec657519df6e]
+│   ├── ofdj.vom [ef222ebd260451df6f4566c68d0143f727d11e4ce5e064b8aac492552055c909]
+│   ├── pkzip.vxe [8a65f6e1c7287b0e924d73afc772a433316a1cf93105c20737357f0bb0009d14]
+│   ├── pqoib.vom [428192c73c6fb5e332a0dada38c6e49d04270d2d7579f406c160618ab2107a5f]
+│   ├── pqv.vom [669155874b3a529061d06639c15b10948caf025c64d65d0ad7d3323c10a32cda]
+│   ├── qe.vom [262f9309bcc780ec6cd293ac8eb1fc70ba409827edd4873e452ebf6726e31ada]
+│   ├── qk.vom [6f81ae86a2320a6b07d5de169e48e37d8c92594d496f02e4f968143ccd890acf]
+│   ├── qkks.vom [216ae417a994b25aec3d72c4721f262ced051ac1110ff972b7421909f4a0d815]
+│   ├── qmptk.vom [d1aab30768648f8e684949791401b1cd49f5a32e481dedfca8922d8a41078cb0]
+│   ├── rrlgm.vom [bc163b22b52aebe145111cd65c286c3782498466228596bfde770f98a3ba7c5c]
+│   ├── rsr.vom [81b976d8064e3069ce88c0bd275e87f20b46377f6a46a1689819957b90a0c1d5]
+│   ├── rurrq.vom [f404bc2abb53cc388f3d5b917cd1452457f9aa22dfdab1e320b976edebd5f654]
+│   ├── sgk.vom [f99bdc110f86ae8a68c59a1fd1df18a3d76231bb2161782e9c0d8b5b3cdb4f83]
+│   ├── sppb.vom [0d970e93f064b49b739e39dd9a7254a1caf9f52070b5851a21e1c262f29a2955]
+│   ├── tb.vom [2a927613b0729c7d1af35263b9121c001b4f309ea59b34567b41805828c9f737]
+│   ├── tot.vom [56d735282f6b7267c013b69f40533790c4ba6bf3f6477b2699d5665cdb6109d6]
+│   ├── ue.vom [3102f8a4acb08d254626dd000d3332767bec5c01db137f84c3794a0f1a35ef23]
+│   ├── uipo.vom [881ba2ff67de93b1c47a0b0821efac8f760f26c83bc4d5fa1f3d65735664376e]
+│   ├── vc.vom [0c392a92939b1710dc4f522d37be732219149f8f1ee53eb9f926fd2fc0b8b928]
+│   ├── vcstv.vom [1986a916364895d573df0c13b8e8d78057c4f20ce6a4fb7007a7e405d6695df4]
+│   ├── wc.vxe [f9eea695c1576fd6073ee6225f0295137e79624ce312f5feed45d6d09696f719]
+│   ├── zhen7271.vom [14237fe2023ea0b99c4b987eed98f43e5e186df9ec168fdb8eafdafd533c4e65]
+│   └── zhen7271.vxe [918dc22b18bf9f23063894c2de38a393c917bbde5c37fae2ff79628438dcf542]
 ├── 7307
-│   └── zhen7307.vxe
+│   └── zhen7307.vxe [c7aa4b4d9250a76feac016d0b434eedc3bdd0791642f08df34d0e067e4ae9b23]
 └── 7313
-    ├── zh7313.vxe
-    └── zhen7313.vxe
+    ├── zh7313.vxe [a81297115f26961b226264767512bd655d1e259575e82fef9ee7beb7a58b5555]
+    └── zhen7313.vxe [fb38725c67302cfd03d9212d7cb217bfb74bcb63ad34d16bcc03a3fd517dff8b]
 ```

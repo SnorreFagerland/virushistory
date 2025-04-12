@@ -2,8 +2,8 @@
 # Contents of `c`
 
 ```
-├── DPOG25.vxe
+├── DPOG25.vxe [3fccf76a9827f69370d597010bf893aa79d6766db6a1509f66a5f8293c2c60e8]
 └── src
-    ├── DPOG25.CFG
-    └── DPOG25.PAS
+    ├── DPOG25.CFG [626572db8def50c321ea8f260e38a1308224477cce5ea4eb72d701e5aefcfc02]
+    └── DPOG25.PAS [d363ec1516e10f2db8fe155267356fe11b988aab96cec42f45e3c4b48b8bf6c3]
 ```

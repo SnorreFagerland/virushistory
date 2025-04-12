@@ -3,20 +3,20 @@
 
 ```
 ├── 4096
-│   ├── fitw0.vom
-│   ├── fitw0.vxe
-│   └── wci0122f.vom
+│   ├── fitw0.vom [7150eb54566f82febeb8b703c1f9bef69b84344925cb6cc132d67cba7f2792c6]
+│   ├── fitw0.vxe [967995ed712ee243fd0140f34866c114038d65213ccf6c6504754d2a37398a46]
+│   └── wci0122f.vom [9721dcb2ea23a26a30aa78be26ddac245555ac16a92230808cf866cdff42068b]
 └── 7918
-    ├── fitw2.vom
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t2.vom
-    ├── t2.vxe
-    ├── t3.vom
-    ├── t3.vxe
-    ├── t4.vom
-    ├── t5.vom
-    ├── t7.vxe
-    ├── t9.vom
-    └── trace.vxe
+    ├── fitw2.vom [6c3e2c4770659c03cc0520bab1f0dbcdb66d3cd56bba6ca31503ebcd12ee76a3]
+    ├── t1.vom [5f0af96aee9a1118272cc61f0b3c9804daeef87d0fb12f20979c1e8f7053cb22]
+    ├── t1.vxe [faabfb4e9c30626645d187bda6b8500124c878382804a3b0f87ed5ce80487f7a]
+    ├── t2.vom [2ed330ec6d724902036dff7dac1a091408352161bd2dca23963bbc9b1c8b74d7]
+    ├── t2.vxe [bb7be4bacf990ba554421fa6c14f76fb80772661548c69693bb634d166c5d366]
+    ├── t3.vom [2e330a8f19cf81fa9079b43defd60390733313e26189087968a57053b8bc757e]
+    ├── t3.vxe [5172d7b566e0ee554c0e36d0361d0c9f88e89cea94c1c3756b1875ddafe5610a]
+    ├── t4.vom [affede533532132617fbdb34b3c4ea7ebd9b200e1d906127518186003f9eff23]
+    ├── t5.vom [0683ef293b53e6390505830bc81d98a3f22a0e7f3bfe423b06bb696e710f8f6b]
+    ├── t7.vxe [02710474f8ddf0bac0842998e3521bf18ebb6e3d4e8367342add95017b9e2dc9]
+    ├── t9.vom [81d17b6c78656acce0c53a214587f5016e055f677bb05cf9753453ba3d4d488f]
+    └── trace.vxe [64bec82d6163fadf4bd58ee2a89a4d4a904c79defc3ad21a4476c0830da8953d]
 ```

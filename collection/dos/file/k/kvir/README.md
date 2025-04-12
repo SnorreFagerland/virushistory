@@ -3,24 +3,24 @@
 
 ```
 ├── 430
-│   └── Virus.DOS.Kvir.430
+│   └── Virus.DOS.Kvir.430 [15bb20c7250b1c257a5466c57f66b7ebf1dda9d536cf5ddd0798cad9dbfc8c3e]
 ├── 436
-│   ├── d2.vom
-│   ├── t4.vom
-│   ├── t6.vom
-│   ├── t8.vom
-│   └── t9.vom
+│   ├── d2.vom [4265082b2caf5b692d5f9db17d1aa8714e6c794908427702baaa1bcaa563b0e8]
+│   ├── t4.vom [428ca7fe39db8bb3e93af6eba575aac1e9febf868e20d06a79b3c2eab22a351f]
+│   ├── t6.vom [45e7b78861ec6d73df421f2baac4da0c5b1ba8efb43c775dd7d8d754cafcbd04]
+│   ├── t8.vom [0f0d25dd579ab1efe3ebe1ae74e02b0759886fdabfc156eb508fca4b464441b5]
+│   └── t9.vom [dba6d3551e1be25e3a4e86ed7574ce9c76387a184b5e7c28f7747f0a0c1a1b02]
 ├── 437
-│   └── Virus.DOS.Kvir.437
+│   └── Virus.DOS.Kvir.437 [d82eea46b3bf8ceba01b1418efe354053cb9474bf8bf2b9f4d36d86c51174999]
 ├── 440
-│   ├── Virus.DOS.Kvir.440
-│   ├── d2.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t4.vom
-│   ├── t6.vom
-│   ├── t8.vom
-│   └── t9.vom
+│   ├── Virus.DOS.Kvir.440 [aaeed6d2c30389f181c613a63ed872c282d89e41c87b89c5aea34498f4dc0e47]
+│   ├── d2.vom [23a9baf52f0bc2b6991d1a68e5e743377d598e729505f453f1432871de0a30f4]
+│   ├── t1.vom [fed045d47829143ace51518b22939169bdebb90f105223b566c064e6a2644fb1]
+│   ├── t2.vom [ed0359c201991c7539a9d49f197f7d3cabbda875f8bafdbee910a95a2a829e5d]
+│   ├── t4.vom [7ea3e96c9c7ca82c6050a2a2da0e86025a20925522d7e1d7ee16f03ddccd7e86]
+│   ├── t6.vom [1ba4a560d2dcd45c5d4cb0f0f3a01b97ea5a2ea66c909ecbaeb9a91168254370]
+│   ├── t8.vom [9ae340ca106733b968e2534b94273abd56b58bae701d445afbacc68b90cc4644]
+│   └── t9.vom [3b5614798a335cb4388d9c2a7f15c2826144068564ad65d935b750a28f25e62a]
 └── 443
-    └── Virus.DOS.Kvir.443
+    └── Virus.DOS.Kvir.443 [7773c4ae6bb246fc056a340710717962596b283c87f62898e7388b2ac1c50acc]
 ```

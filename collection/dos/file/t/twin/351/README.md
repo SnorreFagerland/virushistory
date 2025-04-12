@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── trace.vom
-│   ├── twin-351.vom
-│   └── xcopy.vom
+│   ├── t1.vom [540cff4cd8d35c22765f709022cdd71f29d1ad3cc07635927ab9bf2674ba24f0]
+│   ├── t2.vom [fb9b32f68e1f5c5c3e6e552d5f77e0684dff52ca0c7c9879b9b85453cdea0281]
+│   ├── t3.vom [d85c5103a9d9e239f3bc9ae952a3a5c3faebb0cf355e874a5864187050ad6983]
+│   ├── t4.vom [0bd7c08e88f59ac55070093b9277b068f3d0f366ce01c52f7b11ce1763233318]
+│   ├── t5.vom [d3cf2384e1347c17a6d776b26044fc706568582c5b48c104d342487f3898c638]
+│   ├── t6.vom [8907952165e864def58043554821034e018d03cc75b16787b97ab66fb4b3e51f]
+│   ├── trace.vom [638d3071bf7cb603fc571d61785a4812e581173cf0dc47d06ef4219fdb1f1675]
+│   ├── twin-351.vom [19a7c38f9703eb52c17f0c60a765b6505a6e5bd99643c5b58bcb69fa114bf8b7]
+│   └── xcopy.vom [724ed408eba33c49121812b475a33cf0776d2df7e9fc2cfbf06bdd21b750dded]
 ├── b
-│   └── virus.dos.twin.351.c
+│   └── virus.dos.twin.351.c [651b21163449116864e058105883767472902c968dc4994a3daea79f3d5ace62]
 └── c
-    └── virus.dos.twin.351.d
+    └── virus.dos.twin.351.d [6a7b272f86ffec47715ee59fdfa09a64e24cbaef3411cf1527cc310678060b08]
 ```

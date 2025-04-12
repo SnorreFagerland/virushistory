@@ -3,19 +3,19 @@
 
 ```
 ├── 1024
-│   ├── 1-mr1024.vxe
-│   ├── 2-mr1024.vxe
-│   ├── 3-mr1024.vxe
-│   ├── baja1024.vxe
-│   ├── t1.vxe
-│   └── t2.vxe
+│   ├── 1-mr1024.vxe [3bb99af723eb1c07f9c364ba65570bd8b89815ba05308c00809b1621640178fd]
+│   ├── 2-mr1024.vxe [9f53560757db0bee2b047db12cd705be4abad6cbdf0447f3edc323685d2ca41f]
+│   ├── 3-mr1024.vxe [8383521ab9fe1313ec8c2bd66922cab9a59f75360628fab19ff4ae8539ceb2a4]
+│   ├── baja1024.vxe [4515f88c362414c5c02001b77d418dd394c0d6ad25a3304aac237c9933e18f1b]
+│   ├── t1.vxe [0631b33814aeaeb98a34310ecb86ea6a034f10e92e9880fe8c25bbc87916c1cf]
+│   └── t2.vxe [0db1b45b7718aa949a7f89e525780e60ddb63c7f958ec08ff432eb74fb0c3a10]
 ├── 1536
 │   ├── a
-│   │   └── virus.dos.mr_d.1536.b
+│   │   └── virus.dos.mr_d.1536.b [3c9d12340434965a00eba073b225227452ad267c8e5aa5bfce0ae438924f5154]
 │   └── b
-│       └── debug1.vxe
+│       └── debug1.vxe [1d764c63ceefd600f797b296b485ece50ab359930bd79d03d3b3fb159842df0a]
 └── 1569
-    ├── mr_d.vxe
-    ├── mrd.vxe
-    └── wci04493.vxe
+    ├── mr_d.vxe [66f3f45dd9df35391af70d4cb9e04dc65d431213e7b0926f3ff806e91ae5c992]
+    ├── mrd.vxe [7065e0c93487fa3b94a56c51a41c6f5ac619b07d4fb868b8417bc3982ff3b2d9]
+    └── wci04493.vxe [e143726cd8e1b00d7947f3f6dc3729fb98947a9853bba5f32770bdeebd6e1038]
 ```

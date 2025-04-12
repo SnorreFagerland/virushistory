@@ -3,38 +3,38 @@
 
 ```
 ├── 1463
-│   ├── athens.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t4.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   ├── t6.vxe
-│   ├── t7.vom
-│   ├── t8.vom
-│   └── trojecto.vxe
+│   ├── athens.vom [381d95f236deb740d5d41362b7aebe0a4b366bb2c90ec4762eb32ff41fa2d9b1]
+│   ├── t1.vom [886dc5abb6e1d7420edcde3778c655e775ba942fa16c96afc6fe767b4644e4c7]
+│   ├── t1.vxe [81f448acf41580aeb3632031f1204ac216db0d45d1bbcfd777feb6663066be5e]
+│   ├── t2.vom [86ba96a58c5b06a368f92c4a960e4b5d571cbfc2088ab4becd20f7712779bd4a]
+│   ├── t2.vxe [f7cdaf98d7fa1c0d7a47d018570bbce938297cde2a8804ab32ff4c4b7143fe9f]
+│   ├── t3.vom [ddff5275afc4a1e0ea94ee5c12f1d24e85a762071f42b4f315c6b57361b87d0d]
+│   ├── t3.vxe [11f1ae65e278944fd39af3d0aeddb8ced0c257bb5d3ef37921f7d17c889aa594]
+│   ├── t4.vom [cb20adf156b76c8115cdc6e72b3adab16711ae6ffb3767d9a82d759197fef81d]
+│   ├── t4.vxe [ca2325e6c3f232a75436ef0ab76141937342f819d07fa94db2c86cc40ed42965]
+│   ├── t5.vom [fa1f74c3924a73e27d9428f8e26637f1e907ba1f953679b4895d5ead7058c0f3]
+│   ├── t5.vxe [0a48dd23731ab1b12276f000abb3d0c9d1bea0c32d66d531fdeae8e989ac0d83]
+│   ├── t6.vom [929dc64c9d578f2683695b52281fe32eaa41bd8fa50c495ac713a7437deb01a8]
+│   ├── t6.vxe [3db1b1629d00aa506a8b809bfcf58e5d97119d8590ca3aa953cc707411566e49]
+│   ├── t7.vom [534654ec0a6fb28d53446db08485cc8be5d919299d6e73162aeaabae1d4f47a9]
+│   ├── t8.vom [a1953c8214c9bfe52f39e752f44260b2e2e03c2540dac251b63c27855bb054bf]
+│   └── trojecto.vxe [0adefde9c284b085edd23e5da6156ba7b54a610e2ddee99526697f59cb7e6dd9]
 └── 1561
-    ├── athens.vom
-    ├── athens.vxe
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t2.vom
-    ├── t2.vxe
-    ├── t3.vom
-    ├── t3.vxe
-    ├── t4.vom
-    ├── t4.vxe
-    ├── t5.vom
-    ├── t5.vxe
-    ├── t6.vom
-    ├── t6.vxe
-    ├── t7.vom
-    ├── t8.vom
-    └── troj1561.vom
+    ├── athens.vom [a510dd28f598198563df496965e3d666c8414097859dbb66eb6cdf2a89bdca86]
+    ├── athens.vxe [167158a293c40864d018abadb0ea250fb0cb572d62344a53f260ca609a614fce]
+    ├── t1.vom [72d5878323bbf8ff0216f8208fb38d492dfcada3a911e7f485b55ad6527d7fa6]
+    ├── t1.vxe [39ef416a2938a7c702e2f000de2d24bdba0ce5757889464655ebec2146fb60d2]
+    ├── t2.vom [bd0da18ceb08bfc0948f978fc4aebef524a5d68858527a316754fc4ae4f2e0f4]
+    ├── t2.vxe [a763f62e1c564888071e96b3ad9f44c0b617d6f2dbff8edd349b2f128bfc4adc]
+    ├── t3.vom [dc80b284942c04835544d3efcff1bf72f362e1370d91eb669e0cfc2645e12e41]
+    ├── t3.vxe [0178356253be845e5f417b03164eeb1110deee2b262b84997f473fe4829ea8ff]
+    ├── t4.vom [effe6931466574e5ba347b6ccf33f5248c4d90270c5dc0fdebaf34478f20ef31]
+    ├── t4.vxe [a50ed27623467df17d262cb8b72f3acdbd65ed610dcb824b1000917f2aa10414]
+    ├── t5.vom [113a02cdde05f8779065c121724d952bca594fec25d25c098f78c18e2c94235c]
+    ├── t5.vxe [f1f2ff1d5d2814dbd96bc4a8ed8da54435ef6e983e866f8f79748dae52ba8a33]
+    ├── t6.vom [bdabed270d9df18064258355753cf0f887050e3762eb5428dd00d9859fb4b954]
+    ├── t6.vxe [ed19c1a73e45b28d36a4fd959f16666f5b74d5fd34a796b4253b821bc5616e3a]
+    ├── t7.vom [56cea59873e79925cdb9eda94829af68683db2318968d5b943df2bdcc59c31c1]
+    ├── t8.vom [2d8ceb42fcb1343a87f8fc412116490728509444d951ae8bdc4c7f43ffdfe045]
+    └── troj1561.vom [6a68c415404f7e5364d05823719fe90839a1b3a7d4759279db85830e3c5bf820]
 ```

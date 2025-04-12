@@ -4,53 +4,53 @@
 ```
 ├── 4568
 │   ├── a
-│   │   ├── t7.vom
-│   │   ├── t7.vxe
-│   │   ├── tc.vom
-│   │   ├── tf.vxe
-│   │   ├── wildwork.vom
-│   │   └── wildwork.vxe
+│   │   ├── t7.vom [27c17b20a83be4893a70560ee52466a42e5d9d62422dd191f081fc4c96f888da]
+│   │   ├── t7.vxe [f6f2fdb357ac2e0e0f6277c0177e520bfe429e6219f2ced2ab51ca917ab7a343]
+│   │   ├── tc.vom [d191fe17c078410b5b1dc96ced123dc0f7116f9bee42faabe1dab1bdea8575a2]
+│   │   ├── tf.vxe [c1c32b1bcf4f9de4f5adc7bc7279420d66c22d9e264082d672c67bf458378119]
+│   │   ├── wildwork.vom [13f30958984488a6ee5359822db3ee8a68825f7c9ea770238c8145dcc4abbdc8]
+│   │   └── wildwork.vxe [34a5d7fefcee6385375657cc1680aa7448d33ad2d82bbe17d6fbb67e195fdf17]
 │   ├── b
-│   │   └── virus.dos.wwpe.poly
+│   │   └── virus.dos.wwpe.poly [67520fc0e40ec469fe8081f4833f813e4e42f93cedacecbb3e81ab9837fb9554]
 │   └── c
-│       └── virus.dos.wwpe.rsa.4568.b
+│       └── virus.dos.wwpe.rsa.4568.b [fe532d730a877061cb642d961124ffed477e2c77c5cc928745e193930850db11]
 ├── 4569
-│   ├── cezar.vom
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   └── t4.vom
+│   ├── cezar.vom [8b652313805fb255cadb7903ae7523d212476e47f57babd28127ccf531b478b3]
+│   ├── t2.vom [e47b926bbe352ae32c0a4fdf32bc25023fb65d8601ebd0f3acee8bbb590c9129]
+│   ├── t2.vxe [79b8c87963c869736c6755410148e69e7aefaf970cf3d67a63e4f3788bd08c38]
+│   ├── t3.vom [c44d5982371ad017dc3ff37173fe80c2905d37090c29254f96bd5eb8afcf7b8b]
+│   ├── t3.vxe [04cd65e573d7ba7277665779dbe0fd01c8d1c7a199135fee3c784847138f03d9]
+│   └── t4.vom [f39717c153109884c40b1596da07df6fa179776b4d5449c9af88deef48dfa953]
 ├── 4579
-│   ├── cezar.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   └── t4.vom
+│   ├── cezar.vom [0777c1a008bb7e45f9a40bd7c95b35b1ce5e22e63fcd054d5f23845b1dec70b9]
+│   ├── t1.vom [4e10e5cb174244a8f09908ad4cfa7f5be83553e22269a29f1388eb4f08c8a782]
+│   ├── t1.vxe [d923d00ebc741df4914c9b045c3d4a38bf1e9166ba57cfb8e578cba07428bf80]
+│   ├── t2.vom [43ef580c623edc410ab113f26161f7a03552bd90d2dcf930cc9f98379eb4c166]
+│   ├── t2.vxe [87ed80f0aef15fb61cbfd3c8f906835c28b706d5293cad4c9ae61e28ce85d5df]
+│   ├── t3.vom [a2e4d06dc36025c1bd9978fa3f6105c80cc6b26e3f9967ec0434d2400f773b64]
+│   └── t4.vom [25f1bc721f334cc94c45c40d323ea00fb0cf8f151ae713e507e27598389f65cf]
 ├── 4626
-│   ├── wwpe_462-001.vom
-│   ├── wwpe_462-002.vom
-│   └── wwpe_462.vom
+│   ├── wwpe_462-001.vom [92861d961b19866b9dc2d84b28c8b307284f98ff02db0886313699d8b03e4840]
+│   ├── wwpe_462-002.vom [dc78cff5df0d0342660fba8900a4b5476abc2b491671475504d394f765bcd622]
+│   └── wwpe_462.vom [61334f380c4b1ce9a1516e1960622a2a60ce41b9be4af7d3e823a4c0adcd8666]
 ├── 4628
-│   └── virus.dos.wwpe.rsa.4626
+│   └── virus.dos.wwpe.rsa.4626 [b4475bdef38ff24f648127d1953be613fbd49e4d5fcae636935bb7b71701a68c]
 ├── 4704
-│   └── virus.dos.wwpe.rsa.4704
+│   └── virus.dos.wwpe.rsa.4704 [7a15899414dd522a9987c33bb7c6ae7442fb7377507c65ac66949c1e32c551e3]
 └── 4819
     ├── a
-    │   ├── cezar.vom
-    │   ├── t1.vom
-    │   ├── t1.vxe
-    │   ├── t2.vom
-    │   ├── t2.vxe
-    │   ├── t3.vom
-    │   ├── t3.vxe
-    │   ├── t4.vom
-    │   ├── t4.vxe
-    │   ├── t5.vxe
-    │   └── t6.vxe
+    │   ├── cezar.vom [06078353a920627d5e648f9c3349b334cdc954223588c6950f9d85646e9a002b]
+    │   ├── t1.vom [3237a7e7f6d91e0deb2fc56edd6339dfa909f764e94aeb5becad556abdb20aae]
+    │   ├── t1.vxe [ee8cdc616bf1b69d2f23dcbb83771dc00ea2e713f7532a158a820cda8c4950e3]
+    │   ├── t2.vom [c44073a63e0e419cfcb71a311d9fae06c3ea31d02e4b0acf38efc21858bf9ced]
+    │   ├── t2.vxe [dbc322519c802ae2552e5671234dfcbd157d3f07526b7604b6f779efc8a3e3a7]
+    │   ├── t3.vom [f742f6d2923a0f79e41bfb2121580e77c2f864c984d27568dbd5c2b360e47566]
+    │   ├── t3.vxe [54aeb7e98daa9cfa8052df03e34fcb5bfdc95a22cc5f5eeed2fcb740792015aa]
+    │   ├── t4.vom [36d566b0702a894644dc4d388a5e8b8c35b390673c7176d44fd39a94bb6bb725]
+    │   ├── t4.vxe [9fbda2962d8448fc1899ebdcf0425ec1ac332d804295120ae1f0d362c44e4c2a]
+    │   ├── t5.vxe [d0520ac1922246df8617a9e0afe1e02e631fb6b7c2075e68c723aa9cd4453f6d]
+    │   └── t6.vxe [b3d454edb5967aa8469a5111bd6b9da88a5ab12dd780da51a236a35f93e99441]
     └── b
-        ├── wwpe_482.vom
-        └── wwpe_482.vxe
+        ├── wwpe_482.vom [a00b385c8cb60ec45fe0629867a7b0e1996d16fe48e809fa252c731b9a650dca]
+        └── wwpe_482.vxe [60ec12baa07e2de22115027a01765b696fffdcada4b9e63105e9432c2c9ff473]
 ```

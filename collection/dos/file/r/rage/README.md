@@ -3,22 +3,22 @@
 
 ```
 ├── 483
-│   └── 486.vom
+│   └── 486.vom [1932365d62b1f0f6739c69bc9ccff7ca9bc0753bb5c715ee247b17cc4b265124]
 ├── 485
-│   ├── t10.vom
-│   ├── t1000j.vom
-│   ├── t11.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t9.vom
-│   └── wci0060z.vom
+│   ├── t10.vom [ebf6fe252244971cafa14094df91fcf8252aa55a752cc6c3536c7a0f64682aac]
+│   ├── t1000j.vom [a85b2f4a8a49f5a0c41de517bc7e6095b74d6dd090d9475a965bb545c26b2f18]
+│   ├── t11.vom [9d97e212cf2a18a483cbb07aaa6386e0f593706b6f4c0e10151883b8acae6067]
+│   ├── t3.vom [fde07c0f95936deff06280e59bdec99d8a8eb1d61a15a6b9e54ad04ab28bb7a2]
+│   ├── t4.vom [5f61d06676f2091f818e35e1764b06cea1841464bdd77e355d78f337f11a8529]
+│   ├── t9.vom [17312d52093686e1b7a839c33755e9c4cbc5f398408ab9a751f96c6553467f7a]
+│   └── wci0060z.vom [884e141f2177fd202a1b2ba5fe6a77f5e98ee5c84a00d820f95e746cc2b02eb6]
 ├── 486
-│   ├── 486-1.vom
-│   └── 486.vom
+│   ├── 486-1.vom [9a21e682eecffa356a440ec49396be98477adaf21dd6855062b358077ba47593]
+│   └── 486.vom [a09854a83f0d31f34959db81a9627fea9399b93b831aa3b773988dfe28a77793]
 ├── 487
-│   └── virus.dos.rape.487
+│   └── virus.dos.rape.487 [b71d798ded65e52f62a38c694a0f2d5c86d15ee94d5252f19fba2d67bd0ed4e4]
 └── 575
-    ├── c-rag575.vom
-    ├── makestnd.vom
-    └── rage575.vom
+    ├── c-rag575.vom [6835f6dea2eb9be5661aaed64c3a44219eccb238ec213511abbd88098a306801]
+    ├── makestnd.vom [63185f66956d6e6c0f6aefe6ca78e210821ad493abf4efe723d7a555b2641a0f]
+    └── rage575.vom [9064977f84fdf86490978a88bdb4f2f59623a222ff6335cc4d628d4b14c6b221]
 ```

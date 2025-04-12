@@ -3,23 +3,23 @@
 
 ```
 ├── a
-│   ├── nonbeep.vom
-│   ├── noonbeep.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── v6735.vxe
+│   ├── nonbeep.vom [d04e57d032022f17b0a6c8d10a0f4d4321295a7c079d2d462be7e4a3d045e37e]
+│   ├── noonbeep.vom [69b19b0bac7fbb93258c1e13a40162fbd72ef24988147e9ea5baad64d90927fe]
+│   ├── t1.vom [0057dde38d592594bec95e76ca2bd79a4c464245af69b39ad1a4e0238451b7a9]
+│   ├── t2.vom [0467e2358945bd5c59ed8f03c00c1e7945ab9fb791122f1e4285a8979b821019]
+│   ├── t3.vom [faff092e3718303e6af2d3012cd4a1bc042ed910304a75a65248abcde48b5c92]
+│   ├── t4.vom [12f7a650c6a0857fdfe07dae7626fb856dbfaf73ea4d8ff6d87484407647a5d9]
+│   ├── t5.vom [56a12af497ac55aa45054369cb4f66e388f0c841dfa5b215b6e1872f0f863fcb]
+│   ├── t6.vom [f3c46ef43e67922674ce00d2a3591a182781c76b0be93b3a905b62b85d818d27]
+│   ├── t7.vom [819dc0babec024e585620d59c49c5168fb02229af9f736330d5f1aab5136e334]
+│   └── v6735.vxe [26dccd740c04d82fd24b946c10234f2861674c13c5ee4ae89a6c67f5b097cb9f]
 └── b
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    ├── t7.vom
-    └── wci0419n.vom
+    ├── t1.vom [a2209beaf9190b375b085367cbe887ff5112347d5d00c7df261ee53a87096fee]
+    ├── t2.vom [6f9a9a35b80d66a56a3c776945abf3bd2d35841d1b38433a528c41464544d3d8]
+    ├── t3.vom [4cd028fca8fd3b6e1428597ad95e8e0ee3ad23c256b5420ae436465904f5ec27]
+    ├── t4.vom [41fc803ca69c5ea419866e158dbe6ae6b2955ff2290679c20779326051090b22]
+    ├── t5.vom [ef81cc79fefbae2c109725acc3204d23efe76516b67209cca5b08ee2f22bc62a]
+    ├── t6.vom [3f1dd7bb7ca121d41c2817d48adbf2ab1d1b1f5e35bd3146d20ef1aaccf99ef2]
+    ├── t7.vom [0f3895bf712490bb9df17caa35b89b9c2d76dce38a05ced2180995d5748c835e]
+    └── wci0419n.vom [8635051dc5d46272c5427ef0a504514731ed0f75cc41b5021c78c76ba408781e]
 ```

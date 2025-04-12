@@ -3,86 +3,86 @@
 
 ```
 ├── 0551
-│   └── virus.dos.ebola_ii.551
+│   └── virus.dos.ebola_ii.551 [93dd9f87e0f510ce2b63249e8287e0d963406f8b75dcdccd154b9d344a8e0243]
 ├── 0704
-│   ├── grep.vom
-│   ├── halk704.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t9.vom
+│   ├── grep.vom [435d54f56ee3d97da47c47a124a95a207447052cfd1dc03766103ede2a5f342b]
+│   ├── halk704.vom [cc7e2f2651dfdc18f0a3e2584fcd10b7bbd35393fe117e9cebaa7123485cea15]
+│   ├── keyb.vom [b0b1a3ea57c81cc7f4ffb225b06f67d71c015563083c9ea7a35481ae7639d0c2]
+│   ├── t1.vom [cf975fd35d618645fcc2f85f0b5e7b4c21667ff96525993b7fef1e2b816c4f8c]
+│   ├── t2.vom [4c62d8750f0f44974db1b7e16999b93a1572fc1486c27a25be5d1b6b2cf2d7f1]
+│   ├── t3.vom [97428e3542a231a74082d3555063780077be30b9e401e0107a39e88855927c34]
+│   ├── t4.vom [ef7e3a94113f826a612b880fa4a650abbfa6d404c27a123b3f06689a3459a68c]
+│   ├── t5.vom [6c7cf51f6b3fc1b584a4be78d817dbd6f487e245dffac2c145dfbfb3685870a9]
+│   ├── t6.vom [16b159c986cc3b914cb424619cfdd0508d4a044454950d40a77493acda52603b]
+│   └── t9.vom [f3cad8e1c8d97d8cad8c99d1e0f0beb3735bf750c6f001ef51144badc06e6b98]
 ├── 0720
 │   ├── a
-│   │   ├── 786v201.vom
-│   │   ├── halk720a.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   └── t6.vom
+│   │   ├── 786v201.vom [7b3efd2eaaf1485a2502714aecec9e900a1d0a89f1b9675d4bc560e702fc35af]
+│   │   ├── halk720a.vom [55758424280be5692fd76d31088cb8c041c2a6ce7175884f29731f4da48c6c3b]
+│   │   ├── t1.vom [f4e291bece62966b920be7ae522c89466ada6b9b1c1eaf6746f7df975c415ed3]
+│   │   ├── t2.vom [c2fa6a0889e47b80a57d6f9c2ad5674d57392b71fc4d12eec8b8c74d84450f62]
+│   │   ├── t3.vom [91d0623d8cf19c408b4175150d98b14048cc7296193590cdc3601edfbf3c29a9]
+│   │   ├── t4.vom [a80679f700d0dd0981e1cc96a009843a58e5101915b2dd52bea7ea9cb6a1da73]
+│   │   ├── t5.vom [3b30684bb746ce5e6f8bd59d30390b07924331bf2e5f824a83a9af3dcfa1b08a]
+│   │   └── t6.vom [2c631856fb96f758470e3298a050bd68a190938de11907fcbc7d62d1b0ffd5ea]
 │   └── b
-│       └── 786v201.vom
+│       └── 786v201.vom [f66cf4e2aac1dcc28df4ea90c2bf271f573e676b1c5cb11a898ba904c1c9576f]
 ├── 1000
 │   ├── a
-│   │   ├── 786v101.vom
-│   │   ├── halk1000.vom
-│   │   ├── halka1.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── 786v101.vom [fab478925551f693285ad45d15cc17ea6d39701d71de59efcec1eb26caba3034]
+│   │   ├── halk1000.vom [5927d107e4ac48601d6e97033f44becdd9bd8839198aee03a58bbb3c1d1eb2b3]
+│   │   ├── halka1.vom [be7cb627a3203f07a807a7b68e375451d754a4e691062438d71bf2cc1929bc25]
+│   │   ├── t1.vom [02447251e5c7d34dc734bf6f86ec0b28e92db546e8858310b5e77422c581afbc]
+│   │   ├── t2.vom [a4d03b077d400cc7813f40862947e83e5e41b1ed1c87d78a98dcf688cfce94d1]
+│   │   ├── t3.vom [c2650f84cdc5574d2399db44ef968355a07dc66cf4815d9b7f61a0cd10c7514f]
+│   │   ├── t4.vom [bf55019d05ea76e482fea7340415ed40b0e2ef04c4676bf868502c9c5111834c]
+│   │   ├── t5.vom [06e7f6cbb54aa8abcb4d2c4c97c8412e5f38f5422c0fe5b73ce5fee137e42b06]
+│   │   ├── t6.vom [5fd7141ea00df091aeb39c151b82b9052996adb3a18131f94cb12741cb5910da]
+│   │   └── t7.vom [a0e15974b2f8ac88acb25abad52ba3e7d424ecb0aaa7ebef82a877d6a5140a93]
 │   ├── b
-│   │   ├── halka2.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── halka2.vom [e7aeaeb98ac167c6165bf46c7ab5fcb2448a962852e0adee9eb58bc20d2dcca7]
+│   │   ├── t1.vom [7f831eef12fa9b7fbc65751cdeefa0d3f4cd8dfebd5a9ae18736f718dd99e0ce]
+│   │   ├── t2.vom [e99f0f0e6b8807457ae5ff9062b591bf5d371887d96bd82bda15f439e335052a]
+│   │   ├── t3.vom [6c36312085b0d31798e931013be930b4c094daf8989689b5e3228dab23d64684]
+│   │   ├── t4.vom [09c1b0bf75faad6155d6023b1046e3cc4d60012eb3970154146712fbac5c536b]
+│   │   ├── t5.vom [4c4db31781564a5e4775f7c2dda311eca761c840bf8fb9ad216772038ed568d3]
+│   │   ├── t6.vom [1b8008b4885089ffb2c6e54ae2fed5e2c082b4843e33982aa17fc5ea6fefabd8]
+│   │   └── t7.vom [3a315b94b911853f244e752df82b29674ab106a155f1ad748d489d4720d7d010]
 │   ├── c
-│   │   ├── c-h1000#.vom
-│   │   ├── h1.vom
-│   │   ├── halk1000.vom
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   └── t6.vom
+│   │   ├── c-h1000#.vom [b39bb2b4da2c5c299141fec96830ece3a1b8af5ab52761d59c62cac8f42cc9d5]
+│   │   ├── h1.vom [d33d7d862f66d448d8adde9a010348aefb524d9bac7dfdf177932cb40baf4aad]
+│   │   ├── halk1000.vom [7f742342967a2725cc9af0c1e93f2c7a88f0da8c3673da6fb81f9b698b01e6c4]
+│   │   ├── t1.vom [6ff6d6f825548e777046595eea29c29920321eebd1d302d6ed299fdb41f0437e]
+│   │   ├── t10.vom [daa589093ded865f9462b4f328609948efa0042e5dd3ee56959fa3c4ae62ba81]
+│   │   ├── t2.vom [a80f6cd0debd350ca9c9b611f76909c94063220229febd18fcbb37c7315d40a4]
+│   │   ├── t3.vom [fb231d465c4cb77b925bd2429b876dc678783eb2ee1f28e4333f02983cce5eb0]
+│   │   ├── t4.vom [38a1aa47512e4a26aa50547943238eb934fa2740bdcdab0d280f3059059ff991]
+│   │   ├── t5.vom [28bd4647e3db7fbb53956fc6659abfdaca32a07d9f576cd1073f7879174af1be]
+│   │   └── t6.vom [c1a7d99da65ad332931c91cf1135bf4c4369cf124581e6e6ae0d71d2de40e135]
 │   ├── e
-│   │   ├── DUMP32.vom
-│   │   ├── halka.1000.e
-│   │   ├── t1.vom
-│   │   └── t3.vom
+│   │   ├── DUMP32.vom [e68b91317908ee1ab913aa90b03b5081393a4a04da56dea86dd517b8767d5066]
+│   │   ├── halka.1000.e [e84436af53acf52e75c4b52d1e3f33dd583a8063976d07bd5249392a7d7d360d]
+│   │   ├── t1.vom [13777b9db69eafd6c54d1059b24119e09054ddf5f823d854477e918c982c7145]
+│   │   └── t3.vom [9e807b4fcba21a1a542de524727de20c7bdf46a0431e536012c975fff9f031db]
 │   ├── g
-│   │   └── virus.dos.halka.1000.d
+│   │   └── virus.dos.halka.1000.d [737754c2cd62da5cfe8d0ab3ce6cbbad30ede46faac37d27663c3800716857ac]
 │   ├── h
-│   │   └── virus.dos.halka.1000.f
+│   │   └── virus.dos.halka.1000.f [cf1e43293adecd439fd0d186c854e73f36ff803d097946ed82d82073dc0fcc1a]
 │   ├── i
-│   │   └── virus.dos.halka.1000.c
+│   │   └── virus.dos.halka.1000.c [867d1c7c7d006c3f12ff8d3d07fb1a6c281dd5cb9f331ea195866377a8021800]
 │   └── j
-│       └── halka_10.vom
+│       └── halka_10.vom [568309d2ac2a87b507f9e66a159df35d484378b33f697b9783ca72bdc9943418]
 └── 1500
     ├── a
-    │   ├── 786v3z.vom
-    │   ├── 786v3z1.vom
-    │   ├── t1.vom
-    │   ├── t2.vom
-    │   ├── t3.vom
-    │   ├── t4.vom
-    │   ├── t5.vom
-    │   ├── t6.vom
-    │   └── t7.vom
+    │   ├── 786v3z.vom [c60aaf3093eddcf6240e2db475d8b76d9d0eb67797882de168669899a5442697]
+    │   ├── 786v3z1.vom [e364d552c65ba3a4f8b9780d9829d2ae60de73b96fa81f1a682b1496d5d66599]
+    │   ├── t1.vom [ee219233d30637833106aa73efbe934405ebabc6a2817c8c50621f2a42ca32d8]
+    │   ├── t2.vom [536e35467b9ef72dbe1060299a1d7b002d7de1725172b574051b847d81c062c6]
+    │   ├── t3.vom [c1424d6097bf1b03fe8aa336653d38dc6f52b806f431f3a6e27cf0a1239d2448]
+    │   ├── t4.vom [c5acd42cba07218e555b9942eee03ea3037c29c39938ba668b234bf9bde8d51a]
+    │   ├── t5.vom [5fb33493622d8897ae3a0c0ea1008df3b1ef43a2e84ffb96fe595cec6c754ce3]
+    │   ├── t6.vom [39cbdee48fceded7f1e12d6438456e28b6003a004f8efa81bf84521a4c86df9f]
+    │   └── t7.vom [cf4dfc728e327abdb548b3cf00165ed1ea6b4d8897c82685d8671010763c08c2]
     └── b
-        └── 786v3z.vom
+        └── 786v3z.vom [2e2dadccd903b6ebd75c275eb82612e9e7619d0a1a9b9988cd2a090e29b2fcbc]
 ```

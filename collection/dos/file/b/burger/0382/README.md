@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   ├── BURG382.vom
-│   └── BURG_382.vom
+│   ├── BURG382.vom [b7f6a25fee6fa9e7544d81fefa20fc8f3606b654b6a67570b0e68fd08590883f]
+│   └── BURG_382.vom [b040a7db8c6c501c93e3582435858a897782130e74526cd432f801ed4419540c]
 ├── b
-│   ├── burger_3-001.vom
-│   └── burger_3.vom
+│   ├── burger_3-001.vom [98156e680b9ce705d710e133389dc78e2688efcf0d3401abe498b44ed4113674]
+│   └── burger_3.vom [c56a966104e982d4914c3296fb2ae84f7aa2ccbdfe15823f78d1270705016932]
 ├── c
-│   └── B-382C.vom
+│   └── B-382C.vom [1f64f5fde79118eab1681e107d49f754bab797734a97b3eb3aa3261988f9b166]
 └── d
-    ├── burger_3-001.vxe
-    ├── burger_3-002.vom
-    └── burger_3.vom
+    ├── burger_3-001.vxe [c4dd976892f19abcedd971698f684a2e3fe8a9333ad04aa01fa32e632d08c5ef]
+    ├── burger_3-002.vom [7c3cce3d6bcd9d49e4309b84292d5c5244485613c84201a72a94f52fa12b6f35]
+    └── burger_3.vom [2b2da27f9be1f0d6c6419e45ac1d6b2bfe8c24618a4e3aab03770e656dfb761d]
 ```

@@ -3,30 +3,30 @@
 
 ```
 ├── a
-│   ├── pixel345.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── t9.vom
+│   ├── pixel345.vom [c946c110f8bdf0ce4e0664807bb65bbfbd4fde4fc68eb25b7462aceaf43612a6]
+│   ├── t1.vom [c57d7c154b3901aeab8412bd44cf11c2ae97dcd521bd58238d60eb3aa69b050a]
+│   ├── t3.vom [53af1345f9886d5859ae5cabc5df6e4055a649420e7cc475da7e3d75c37f79a5]
+│   ├── t5.vom [729f830bd8d31935872464eb6754d91c763d723375fc621e832a5d29818eb363]
+│   ├── t7.vom [bca6c125d97c6ccd6b17de4b972ab6a3910cac1752cfcbd8a76a4233079ab225]
+│   └── t9.vom [5b5df1c4ecc536707d8e434b7947fc7f8f4c67c4d9ab046bd90e516739041c72]
 ├── b
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── t9.vom
-│   └── v7510.vom
+│   ├── t1.vom [ee08d76a7c0e1c32937808191092d53b2ef98a6db16fe478953fb55324fa1a17]
+│   ├── t3.vom [a46d1523539e2402f478df61164a85d159387602799603bbbab3852c088d23ed]
+│   ├── t5.vom [1101b4edee86b2735d4beedec895ac62a1d3b09ce45ccaec3a253777e6c09520]
+│   ├── t7.vom [9ce22f853c5b98f1d36baa90f18272f6249b970f5f9c7516e38955699aaec51a]
+│   ├── t9.vom [af73a5adba613757f3560a4c231de6fcb000c600bc1e6524d0d3977f6f7d339e]
+│   └── v7510.vom [7b6ba7acfd6786c16915926ad86929c98fe364aba1d08522d40720d6841d6ffc]
 ├── c
-│   ├── grep.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── wci03552.vom
+│   ├── grep.vom [c0be37261fab033fbdd06431385e52b2a39e6f4073e3280f67bd154784d8fe16]
+│   ├── t1.vom [ce183d5852eabf7ab8a05a8ce988a1b77b439dac49b9ad53307bcd0c8990b843]
+│   ├── t3.vom [ce452450cef509098330bfeb78cf80fe6ccdd32cec16796582e7419b0f9f7432]
+│   ├── t5.vom [24918b1fc8c01e2ad64c4bcb0dce44193163440ebfd5a7c2eb0208c175c11a32]
+│   ├── t7.vom [538fe54695b88cc0a9beb9a1eda612b50a508889538cb89bea3c5b1ea84512ee]
+│   └── wci03552.vom [85126879798150feabeca51827f6540ba4f14e552fce9a8521722a1af9aa9bbc]
 ├── d
-│   └── virus.dos.pixel.345.c
+│   └── virus.dos.pixel.345.c [588830df525ba6483b9669ead72b7f7933d3f13276d5a554f5f6ca3deed1af5b]
 ├── e
-│   └── virus.dos.pixel.345.d
+│   └── virus.dos.pixel.345.d [2421a226ecb671e032ab23c797702cf30706ca5fab8974f50f90661da2030a8a]
 └── f
-    └── virus.dos.pixel.345.e
+    └── virus.dos.pixel.345.e [e86f055fbb5ea85d6adfd26bc65810721c26bfcd8c16cb2cfa1d0352e103151f]
 ```

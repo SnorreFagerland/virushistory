@@ -3,27 +3,27 @@
 
 ```
 ├── b
-│   ├── 1-a4608d.vxe
-│   ├── 1-al4609.vom
-│   ├── 2-a4608d.vxe
-│   ├── 2-al4609.vom
-│   ├── 3-a4608d.vxe
-│   ├── 3-al4609.vom
-│   ├── al-4608b.vom
-│   ├── al-4608b.vxe
-│   ├── aliv0.vxe
-│   ├── t1.vxe
-│   └── t2.vxe
+│   ├── 1-a4608d.vxe [28620effac3eaed48b04990e5fb95f6defca319933739e64a43b04ebd2974e96]
+│   ├── 1-al4609.vom [08d16eaf26cc814d4385aff091e67ecee9dac330ec10c5604501aa64e82ff082]
+│   ├── 2-a4608d.vxe [789b7eb16869fccab5fc97dea764a6a6347b449d543063fd75150dbbe80cea95]
+│   ├── 2-al4609.vom [05d97984eadb93840bead2120eca57d8623d6c8ebd8e2837aa4dbd000a4b5eb4]
+│   ├── 3-a4608d.vxe [f1507fbdb19f48bbed2178826538de52517fc3387aadbd21f5b28bdbe1685004]
+│   ├── 3-al4609.vom [cd452680927c82e82bab4157a538ab1a11a2b3e05b925b9d02ad8650d8785525]
+│   ├── al-4608b.vom [6a4f59c25ec2c546718472b88a774f3c745768f3163cdcc4f1ba1f5097be7df1]
+│   ├── al-4608b.vxe [35ebfe77269ce1aa5d3141d5e583229e923e00aa5aee1b47983f602011d77603]
+│   ├── aliv0.vxe [b105bb2d73ff19c456ad634247a9dfce676046830e7b6d1afc334ec0d40252c0]
+│   ├── t1.vxe [6f225095b0667b9e026b9d684096e407066d23034ec7f4e2072f8bcf6e8b2861]
+│   └── t2.vxe [6c8799e3b2f44faaf04925f26c42ca4796dd2dd32c82263518e762de60387120]
 ├── c
-│   └── virus.dos.sirius.alive.4608.c
+│   └── virus.dos.sirius.alive.4608.c [d1cc86b4bce1d8d7a96b2a610381619307520beaa62803535085fd544acba0c3]
 ├── d
-│   ├── alive.vom
-│   └── alive.vxe
+│   ├── alive.vom [06828524af6285728254840ea2839ff5a7712fb2a8f84f9e630ec364154d09b6]
+│   └── alive.vxe [10764d6b279b5018530957e603749a9399f72a0d8ade9e7d8ad2f00fad75b63c]
 └── f
-    ├── debug.vxe
-    ├── grep.vom
-    ├── keyb.vom
-    ├── t7.vxe
-    ├── trace.vxe
-    └── wci00303.vom
+    ├── debug.vxe [efee0526af7e232bda3b9edbe40ed48f6e35d459d3c617070f0711e38035aaf5]
+    ├── grep.vom [44b86f7809b2d78482fa213979a80bf0c8250cd32b552984f21ab2dbbfc720f8]
+    ├── keyb.vom [313c3b3ef4c47021d5463e15e3ec25ead50275335eed131fdc2546487e146f2d]
+    ├── t7.vxe [0eb96a77335788e9a0150a0082cdf0e85f86f3df4b9e654360067e6ab8b5722b]
+    ├── trace.vxe [2c3066b3247c8e3cef2c917fad2b4d1a1ca8e08bd48a06af5265b31100a79329]
+    └── wci00303.vom [29c3082d55a66f54b82935343676a3e07c475956b8b01824e7e0b6fc0471f97a]
 ```

@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   └── yanktp04.vom
+│   ├── t1.vxe [2828cc92258207cabd6d65ced5036165403126d087f499c9dabe2d7898b060b7]
+│   ├── t3.vxe [44f592a905ad960e1c826275e8a5b09d955016ce7c9437ae2dc4355f88ad863e]
+│   └── yanktp04.vom [9fcde7d77af21e61ea8295a3ef11be2ccdc0ce5c1a7208a14ee40602cfa6e5e0]
 ├── b
-│   ├── rce-1212.vom
-│   └── vac1212c.vxe
+│   ├── rce-1212.vom [1f06e9fb918407271f99502853152c1d78c5f6b268d2c06236cbe954235590e1]
+│   └── vac1212c.vxe [eed2e0c5f158eb34e764f847a065d7980694fe331a1261b5d3b40b865ac50eee]
 └── c
-    ├── t2.vxe
-    └── vacs4ira.vom
+    ├── t2.vxe [a998b632589d7c908784a4bb1caec8e402ddecb10c501c9e432120ccfb05f2a0]
+    └── vacs4ira.vom [16141ec0797e96cc4a482a1b045574b63a491d8ee5cd4e853b535e739b18c0f2]
 ```

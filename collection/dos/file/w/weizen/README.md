@@ -3,31 +3,31 @@
 
 ```
 ├── 433
-│   ├── t10.vom
-│   ├── t8.vom
-│   ├── t9.vom
-│   └── wci07212.vom
+│   ├── t10.vom [b4b9404adcf82bb9e5d9a86ef5a5d3c6bd349419e940a6b5c426dde54c109155]
+│   ├── t8.vom [60cb5c6293a8fd8bfa31b660849dee192d5004bf1b3e2a0882275caddf743404]
+│   ├── t9.vom [b5e31a7bb94d76448b2fbff2411f13fe4efcf6062de5ead4747fb00fa0831c14]
+│   └── wci07212.vom [f301f97704b3816a812bb69c90deab044e5e23316ea01bd593f50f9bf12756d8]
 ├── 437
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── wci04373.vom
+│   ├── t1.vom [e243f667756118316723bc6b0059ab5db7cbd3453b60361e1e12f741aa71bc37]
+│   ├── t3.vom [0ef4a5f8701eb19447809c61ed4a00966c9dc8ddec67812eed96b4f00a0a9068]
+│   ├── t5.vom [4b387a3dedd8fa41409e2bb3c9f6836c743c22756177341d465640e38ae72246]
+│   ├── t7.vom [58cbcf670254eafe59acc9b9a86c4463b4b601980109116808444bdcd22cf8f5]
+│   └── wci04373.vom [19d80c49eb6da00a636882ee0eb2f530af74025dd9b230b843f870671a2d0148]
 ├── 438
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── wci04552.vom
+│   ├── t1.vom [869303a3cc0df3dcb4702a38471450190cce018878d81cc77cb1b16698fc53ba]
+│   ├── t3.vom [33838ee0dd415bf3717976e5fccaad1003666f11af69639adb4caa8188a65502]
+│   ├── t5.vom [64b6627b41f3e24c2f720b6f1a5a8d19fb60b1b483d4c4fd2d84f1a89b5ca88e]
+│   ├── t7.vom [f860a175f64d796f565630d176f3c113f2476c77696bf9cdb45043b3593b325c]
+│   └── wci04552.vom [9cbd6c8fd8e70346132814f149c8cafd3b6fab353e5f4b9ffa03da6efcf66282]
 ├── 467
-│   └── weizen_4.vom
+│   └── weizen_4.vom [cb7b1f2405c8a9680a8ecef6325847f3307878bd60c217eafe27e7d5475af0b6]
 ├── 471
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── weizen.vom
+│   ├── keyb.vom [5f4845a68926bfc4eaf4db0f8122f65d9e919ba5a82ae5dc6ad0fbbf680694dd]
+│   ├── t1.vom [b85bcd7d04f1fbbd2a3583a6ce9c7f410deaad83d0cbbfd18ed2e2eba7ab556c]
+│   ├── t3.vom [16fa85266e8e0c3b094c60f9a0322264b29b0ddd4b4867e8a2203697aeef3068]
+│   ├── t5.vom [8083e5659d2811d2a9b943fed4237dff7a0201ae7a09ab5ef2da205f4c50ee83]
+│   ├── t7.vom [7c5061ccfbb7fb388e3e6bc0ea7ff5393d1bdd8aa376f965be4b7b1eb850eb58]
+│   └── weizen.vom [eedc623c757a86fd55fcee339001ad71cc2ccbd36c7da44505fecd9723c4fbe3]
 └── 503
-    └── virus.dos.weizen.503
+    └── virus.dos.weizen.503 [9efde2b475e8af9d399c44da362cf000c850db1ce6310199a442ff947a5ad08c]
 ```

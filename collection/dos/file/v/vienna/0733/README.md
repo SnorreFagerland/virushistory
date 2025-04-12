@@ -3,23 +3,23 @@
 
 ```
 ├── a
-│   ├── _733.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── v-733.vom
-│   └── vhp-733.vom
+│   ├── _733.vom [d4a012e9bb507b934431425ba917c69cc9e518d74bccc11dfb018f89a7cf7e84]
+│   ├── t1.vom [dbd34a2f939d42f512d19c32625605ebafedf88ea2383dcb7138f5595279dcd6]
+│   ├── t2.vom [310ca54a9e1cde47d7868bc134e6984bd7f26d31eda59d2d6d38eb74b97852d8]
+│   ├── t3.vom [a636ceb59c16f5d813f2f0c9d9889cc946b385d9035ee05f307e7879f423866b]
+│   ├── t4.vom [9a1f754a2ebea63bf226e93559aaa6c1a10e64a1db69dc9ffbc66f7a4efd35e1]
+│   ├── t5.vom [ba9e63d8ab1de14ce877b34ba6080ff2650035ded1b3d759d12475af044125bb]
+│   ├── t6.vom [85e47156a642648dab77ec1cfb9e82a167c1147985ea4d6afa6a0207f9145ebf]
+│   ├── v-733.vom [515133a23e12d9c2e125aaaf8866b74bd8484a8538f0939aea1396c5c31390b1]
+│   └── vhp-733.vom [712548ee26ff6d63c8185aa423564456c8dac060703ba7d66c27ae8cb3c8b8dd]
 ├── b
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── wci0573v.vom
+│   ├── t1.vom [93c3c0ee9f463c84a4a71ffef6bcd03f69917e3d30be328677aac5d5e33ac526]
+│   ├── t2.vom [e45a0e9b60be659be21a9ec2d2d76398b15f112efc6014aabb0bcc229fffdaac]
+│   ├── t3.vom [36ecb39188e56add72dd111b036f85113b94b1c5380d988e89ebdf0c2f6eed08]
+│   ├── t4.vom [1e860d8c5dc0728c20f12504dfef48fc38c08174aa9c82bd2d8d1d9275e91ed6]
+│   ├── t5.vom [875b19ee8d65a4e2d0dfa4e837b3eb34efbfb4c2cb5b81d9310fba4e9ef040ab]
+│   ├── t6.vom [c7651226546853aebbfc085a0694deee659737c1f29550ea163e01cb40e1064b]
+│   └── wci0573v.vom [ab81f6f1d75ec60b0747626f9f7b4877a747eb58f8b5a1334826c31489c3108b]
 └── c
-    └── virus.dos.vienna.733.b
+    └── virus.dos.vienna.733.b [359519b59b666b6b7ec9a8a77e14b13e27deb0e9bd19dd74eec9baa15bd894e9]
 ```

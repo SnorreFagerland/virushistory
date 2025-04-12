@@ -3,26 +3,26 @@
 
 ```
 ├── a
-│   ├── damned.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   └── t7.vom
+│   ├── damned.vom [feedb69f856cd65714a469ee290ce68a7ed5a2fca1054e84a8d826332dc198a1]
+│   ├── t1.vom [aa2ed2d6e331dcc84a47a92a4a90b7756b9c4074cf9b80e133961464a356118d]
+│   ├── t1.vxe [535aae8cb10e287e7973090641b2b65eaeebe9bc62cace5cff92e91757959938]
+│   ├── t3.vom [fde4c76b3ad62c1ef25dc1117161529d2a590fd2c5e42b9a475891ff565925d4]
+│   ├── t3.vxe [4939bed5a86b637bfd42c155dd36e778e2e3e5e1d1fa66a4ad62c96510935523]
+│   ├── t5.vom [e74219685be3986d8d0b196de07b559d9bd43a5192c73614b545ab83905bb495]
+│   ├── t5.vxe [0eaf2b25c03baf3023fbbd53fb17bd1dc9d872d7ddf5a141d6188908be19b6db]
+│   └── t7.vom [c9918c822ba989e906d6ba814bb5ccdf51a5f2b177bdbf9ff2a21a5f694132eb]
 └── b
-    ├── 1-da1093.vom
-    ├── 1-da1093.vxe
-    ├── 2-da1093.vom
-    ├── 2-da1093.vxe
-    ├── 3-da1093.vom
-    ├── 3-da1093.vxe
-    ├── 4-da1093.vom
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t2.vom
-    ├── t2.vxe
-    ├── widj1093.vom
-    └── widj1093.vxe
+    ├── 1-da1093.vom [e6e07d62ef8bf8ae386ee2cc45101565684d2ba3c3411d34cf993f86ca3888bc]
+    ├── 1-da1093.vxe [4a3176b49bb97987118285a5f7b52ac12464ddbe6ee7c8e13d9a2f3e230f8801]
+    ├── 2-da1093.vom [a59147b6dfce7d32f40e576b80b14bf769ef64711e92a5ebe3777585e80969ac]
+    ├── 2-da1093.vxe [b3ed23b44e86763a66dbcc6fa9433ae2275962e1678f071618ba45fd60d49601]
+    ├── 3-da1093.vom [f81ee0ea452a5a4e65b2a0d9d601d98f0bea45b3ad5f41458262a6f8b32348cb]
+    ├── 3-da1093.vxe [2e1c80ce06aac78224dafda4d62d7a82a8d11decf93d258be8acae9a530a8cf8]
+    ├── 4-da1093.vom [3e72532a3a45d6bb906f2f2cd68c98086d572b3da7fd0ab814ef75acc0877ab6]
+    ├── t1.vom [320645ac290ddde327f7b03ebc2358e6257e937ae0ce26d0d9bebe5893b9f488]
+    ├── t1.vxe [bd00af6615329be27361b66ed944bf523390790cb1a24fd27b089e22cd9ce39a]
+    ├── t2.vom [bb644349758bee3f05c331e70a9423aef2a2ea92dcbcc4a6e42660fb8c36e420]
+    ├── t2.vxe [0a7b85ab2de0edf48a0cf04b5e6bce45d8cc747388a80b5c6452913e29d11422]
+    ├── widj1093.vom [2ea34e90bcd406c75257df4c328730f1685e470aee800f47b9a624d8815f2ad3]
+    └── widj1093.vxe [40b13413e05c31657e67a60d338c08a12558b90e02d2f554de575020454c4be6]
 ```

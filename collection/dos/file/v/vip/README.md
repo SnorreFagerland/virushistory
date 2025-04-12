@@ -5,85 +5,46 @@
 ├── 0_01
 │   └── vlad
 │       ├── a
-│       │   ├── control.vxe
-│       │   ├── debug.vxe
-│       │   ├── doskey.vom
-│       │   ├── fdisk.vxe
-│       │   ├── format.vom
-│       │   ├── grep.vom
-│       │   ├── keyb.vom
-│       │   ├── keyb_.vom
-│       │   ├── keyview.vxe
-│       │   ├── mode.vom
-│       │   ├── t1.vom
-│       │   ├── t1.vxe
-│       │   ├── t10.vom
-│       │   ├── t2.vom
-│       │   ├── t2.vxe
-│       │   ├── t3.vom
-│       │   ├── t3.vxe
-│       │   ├── t4.vom
-│       │   ├── t4.vxe
-│       │   ├── t5.vom
-│       │   ├── t5.vxe
-│       │   ├── t6.vom
-│       │   ├── t6.vxe
-│       │   ├── t9.vom
-│       │   ├── trace.vxe
-│       │   └── vlad.vom
 │       └── b
-│           ├── t1.vom
-│           ├── t1.vxe
-│           ├── t2.vom
-│           ├── t2.vxe
-│           ├── t3.vom
-│           ├── t3.vxe
-│           ├── t4.vom
-│           ├── t4.vxe
-│           ├── t5.vom
-│           ├── t5.vxe
-│           ├── t6.vom
-│           ├── t6.vxe
-│           └── vld1221b.vom
 └── 1_00
     ├── 2725
-    │   ├── comm.vom
-    │   ├── command.vom
-    │   ├── grep.vom
-    │   ├── keyb.vom
-    │   ├── prom2725.vom
-    │   ├── prom2725.vxe
-    │   ├── promis1.vom
-    │   ├── t1.vom
-    │   ├── t1.vxe
-    │   ├── t2.vom
-    │   ├── t3.vxe
-    │   └── trace.vxe
+    │   ├── comm.vom [10c5b18333bbd35a2de195a77e3da200ef44a77ea00cb3c7ff6c8be7df5f41c2]
+    │   ├── command.vom [7ddeb2c8fa9cc76f444fa8231e3b197fb40ef1628664001df09367780dd28a16]
+    │   ├── grep.vom [2e010bfb13fda55ff511ed6556b045c7c281642407b9c2b14dc3de08146bbb2a]
+    │   ├── keyb.vom [91f7e30de0c95d7ff60e45012cb84b74580c5ed8627c11c7923a0e865eeac012]
+    │   ├── prom2725.vom [d57d534b85235cfd8155fa2fc298cc9fb19b5f537861d62287a67e7bdf89f7b6]
+    │   ├── prom2725.vxe [ef4960a95d35b69e785bed1d7650b390c96fc073ef2ad1ea8262e929e13ff01a]
+    │   ├── promis1.vom [8f290df69b9d039f69f6ce87197939438b6bdc089181a957b3e5853b55221d5f]
+    │   ├── t1.vom [f15e6aec3b171df44e6501e6a1817d6212ebb68a196a4c1c3402c2ccfc5d8e11]
+    │   ├── t1.vxe [a266ab47efe3885a6f5087c05e2d3c825e61d75297aa99d1801d0dfeda3934b7]
+    │   ├── t2.vom [8478341bf9de1cb4a95f354fac2f2cf918e9663e1db40ff8e057753cc66e1bde]
+    │   ├── t3.vxe [21a81efe17ce7e53118a771c850e384ae40a26f4ceaf0a44cc3b5a83d2cafde0]
+    │   └── trace.vxe [ee1a27dd3f13cd49415f5b6429fdbc9e6c98c7f3b9210668bc76bc4c5ad74d61]
     ├── 2809
-    │   ├── abadbs.vxe
-    │   ├── fc.vxe
-    │   ├── fdisk.vxe
-    │   ├── label.vxe
-    │   ├── scud_1.vxe
-    │   ├── t1.vxe
-    │   ├── t2.vxe
-    │   ├── ta.vxe
-    │   └── vip_scud.vxe
+    │   ├── abadbs.vxe [205c4d97311a56c28c1099b53af40ad774ab5d8a2cb98973dd23ebd0321d33fa]
+    │   ├── fc.vxe [fec0f2ee6c11e7db1ae57ccb216cb0e6cd45f2940e40cd250b41f695fd189e49]
+    │   ├── fdisk.vxe [126a9d97a813ecc31098229ac1dad9a00b673dac555e56458d70127b487c95c5]
+    │   ├── label.vxe [677bcfb3110b2131bb8a3a9f280be3378581b8df966bed25649dc76f6b9935d6]
+    │   ├── scud_1.vxe [4034c5b915b2a2524667fe801cd38d8063f928199e73a1fed0bbe4a6c0e78cc1]
+    │   ├── t1.vxe [a22d127003fd75f847b38fa72b5a397ee14f6af400803f1d86aead923ac8edc8]
+    │   ├── t2.vxe [c9c994551082ce7927be9aff7aedea30826dd88481f662f75b19ea1e24deb265]
+    │   ├── ta.vxe [c7bc5ee681dd2b0bd5bdf8d71358a5fe68d690df4e39776ccc42e31b62b4f893]
+    │   └── vip_scud.vxe [799b7f40ed85e1a3b9392c81f7cf384b57dad8b0f07e83712a9fedbd18f94cdb]
     ├── 2831
-    │   └── virus.dos.promis.2801
+    │   └── virus.dos.promis.2801 [465e6c767badf7d23b19ea4c1a3bc0744d401c63a62f4a9cee10aa028b5153b9]
     ├── 2884
-    │   └── virus.dos.vlad.vip.2907
+    │   └── virus.dos.vlad.vip.2907 [bb9735160870ba7427dbe0ce955d8abe804afcc87fe66a9c4ec56206681b85d2]
     ├── 2915
-    │   └── virus.dos.vlad.vip.2929
+    │   └── virus.dos.vlad.vip.2929 [86ee9d337207dba95b634b04c1a1646dd8d5b4f7c157cfc2654b2e36bb3577d3]
     └── 3012
-        ├── gilga.vom
-        ├── prom3010.vom
-        ├── prom3010.vxe
-        ├── t1.vom
-        ├── t1.vxe
-        ├── t2.vom
-        ├── t2.vxe
-        ├── t3.vxe
-        ├── t4.vom
-        └── t4.vxe
+        ├── gilga.vom [df64aa7634075ea3a5ceae6548057e4506a507bb0643cbf7da07437188cef602]
+        ├── prom3010.vom [2125767f74d19492a6814fd6efa67a4db0e977928025b69ddec3ad581fbd6539]
+        ├── prom3010.vxe [9369060b44ec1b6d352465debc3f89848d6ab48b506ab7b956d09cce229709a8]
+        ├── t1.vom [8ad67de969e19121760ad8418a7b7254c3a67321450996712e1c19fe7ae12ff3]
+        ├── t1.vxe [996b5a9a1a50dbed120554feb8e9e0184d10627c2ba8b5ce367a407d7b8baf20]
+        ├── t2.vom [6c7dfee6ff6187466b133e4c9769c32db8c269e2954ebb0b476d3b9f2bcf68f5]
+        ├── t2.vxe [d9b4959702780f76e89f33e1fd10113a6fe0d954ba4e3d9a5b1238d0eb797bbc]
+        ├── t3.vxe [308521888103080c2d6757e66ba4606e8e9f6c263fee5784c79e251d819dbfd0]
+        ├── t4.vom [3e51b7941772e124691f22aaf344a49e24d2f9448799eb32d8ab097655fa8379]
+        └── t4.vxe [47a4768b5c2c157e4590b081003724b2230e95d83adb3d4b412b6562442e8d98]
 ```

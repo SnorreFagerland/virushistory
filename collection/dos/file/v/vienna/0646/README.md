@@ -3,20 +3,20 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t7.vom
-│   ├── v-646.vom
-│   ├── vienunkt.vom
-│   └── vn_646.vom
+│   ├── t1.vom [f339a69d95b2647cc7dc262655141daf2e98655d28570790b427ae234021ab0b]
+│   ├── t2.vom [476a712587d9bb726bd872601d4a36dbc01b232b605470f889ef3f9b601698da]
+│   ├── t3.vom [7cb7ae778eaad1e65609eeb10f20229e4232b8d8022b0fbed61f0f62d93cea1c]
+│   ├── t4.vom [5271df01c1a85a26fa819ec7c162422436cca62b934f90a2c598a297a1a1bb7d]
+│   ├── t7.vom [0d51e5e510ac1c857907e11031f6736cc30e3685159bab1924319526fff741e5]
+│   ├── v-646.vom [f98a245de8fe7cbaa61ae9e041f108c2c2b7dd6311d7eebc29a2b4e1a8599654]
+│   ├── vienunkt.vom [06a703dca5541e3f63e7aa3e5fd0bd74986985fac70834b20a759ddee6472d3d]
+│   └── vn_646.vom [9292f91009a76fb07948bb501a405be1ca685c74f3d018eba34a27f4750ac7d6]
 └── b
-    ├── 646.vom
-    ├── keyb.vom
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    └── t7.vom
+    ├── 646.vom [bd85fb86c55ad4cd97feb88c6fefe1219bf89834bc4eea1be24f06597d177341]
+    ├── keyb.vom [9d2b79f5f70d6f00289f3f3321c604e55e7925298c19d27c851ad73d79f1e1b3]
+    ├── t1.vom [ce8c06923113502872a04e1c102ee38bd9caf38e20f94ce9fa9862e02c330b5c]
+    ├── t2.vom [2c37d69cfeccb5051f261268f8b834550b706315ad2e79187e72be96726666b3]
+    ├── t3.vom [d00e69a751bf871c0cbc125a5cdb6f5a0349e644e6c8ec77b17b4d695a32f464]
+    ├── t4.vom [0f45a4d65db02cee8e71932a8d750aa703d7667d297bd5fdda0ca55abbc066e7]
+    └── t7.vom [a3f215ad37b5a127fffdfde2fc87cf48c5e01a2bc8ed282dc000891b1b63b8d4]
 ```

@@ -3,19 +3,19 @@
 
 ```
 ├── its_hard
-│   ├── ned.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t7.vom
-│   ├── t8.vom
-│   └── vclunk8.vom
+│   ├── ned.vom [b5db96fe166beca0480aba6b6d060a438623b7bb0009c4f862235c59a24b88e5]
+│   ├── t1.vom [e45d73eb6aa6bc9e57778b210ee775875d15cee80b30295fcc29e7c25c6d8624]
+│   ├── t2.vom [bf561efd8a3641feb84c7f1bf77f30532a5dd5ab52099051a2d0916446225078]
+│   ├── t3.vom [59445a59846a33586a36282405097a87aac7e097e927ffdac437bfde9818b7bf]
+│   ├── t4.vom [e12574d3fbc49c139cd6712e42a1c0c7b2f9e43c122fa0177397124c2be1d15e]
+│   ├── t7.vom [cff0f7d16c9216b6740331bf1314f895f937f3e1a92d597cbefc63e1efbe2a32]
+│   ├── t8.vom [4f452f5f3fc6c7f9f44bb348dec483ccb051274f7a8413a804d37caa15078a54]
+│   └── vclunk8.vom [d25c35bd5c05a71ef228d984faf9900a1333b8b4e78509edf2ddacc3dd494ce8]
 └── tester
-    ├── 14a6fbe0.vom
-    ├── t1.vom
-    ├── t4.vom
-    ├── t7.vom
-    ├── t8.vom
-    └── tester.vom
+    ├── 14a6fbe0.vom [b6db369fbe5a8dc10b359fbe09f936aecab86be3adaa16247cd2d08650c8462a]
+    ├── t1.vom [8983630db6d39d04d483eec62bca28a660f1dd1693b2b4d2036d5ada8126152a]
+    ├── t4.vom [b4200e7bfa4957580143608e590f8f14dc3861644ce19f1b5db4eec71913301b]
+    ├── t7.vom [9ac28db5b7b410f13d78152d72330c4bb4e4ce93f933fad979d34f340fc2e0cc]
+    ├── t8.vom [02378fb135f66661db0d25df5df491e6c573e4bcb3917a4887cdf91c3e1437b4]
+    └── tester.vom [d1917af639e745516089deca6f11b3f7c0275cba904509cde3d70e009d733fce]
 ```

@@ -4,39 +4,39 @@
 ```
 ├── 403
 │   ├── a
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   ├── t7.vom
-│   │   ├── t8.vom
-│   │   ├── t9.vom
-│   │   └── zero-2-0.vom
+│   │   ├── t1.vom [ed68740292455198607fd7efb93e3ee0d4e50561ac3c300d7e5dd580d78e6e62]
+│   │   ├── t10.vom [4d5a9596579d2e4ca333415cab7abd41dec799c359950f0ebf92aef5ac75112f]
+│   │   ├── t2.vom [7adcf58c5dd7026dc0589c9bee55ec95e8909ab64aed08200050f99e28a0b831]
+│   │   ├── t3.vom [23d267925f83ab3bfb4ce05183c8e5e567fc123fdecf70966201001357f0c52c]
+│   │   ├── t4.vom [aef45a3f3ba69d5ce9a67a9d8bb93296b6def2fe60a5eb1571c304c8687c4655]
+│   │   ├── t5.vom [731e66a15bf4e2e63559485217c74fad8a597180574e59604ec8e5ac089799c1]
+│   │   ├── t6.vom [67b3b2de8c1ee16732285038dd87b5e0ca02693ed6dcd2b4d4461c43605e4c35]
+│   │   ├── t7.vom [f481e9e450064fbc47b55e7721cb147e726a39d30813ed49482e8d0f71407c02]
+│   │   ├── t8.vom [0cd743fb1fd9afb9fe1ca53a851fd6fe6427e47ec1ee6480ddbca47fc4cf75ed]
+│   │   ├── t9.vom [6038a1deb5ecdb60a7f17d15d985b34de3a218f725e3d70cc49e2ff8d5efed18]
+│   │   └── zero-2-0.vom [f92c124c1b5921f913c5ee70b398edee5895d5710e05fa2e9c92d4fbd721c043]
 │   ├── b
-│   │   ├── b.vom
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   ├── t7.vom
-│   │   ├── t8.vom
-│   │   └── t9.vom
+│   │   ├── b.vom [54e259bd52994a1b88c9be9d41afb57b8a1dd351369481b7779d0774ef1d6736]
+│   │   ├── t1.vom [d05b14a476b0ba5eeac39eee93d608d2086d7b3b6c18c8ea7d0d51fb6539ba36]
+│   │   ├── t10.vom [2869884cb5b262dbda00174148e274a71a5382dafdf277d2eb1090a07efc3e80]
+│   │   ├── t2.vom [66cc30c88f71413d553b4f531b232758135e1f59d99b32d1307b35f5ff7031a3]
+│   │   ├── t3.vom [e2ac024e65b79c149315adf9434b99831becd4f9a3b4fc825667b33861a5e896]
+│   │   ├── t4.vom [d82a7309ca7726bae146e9526fe005c8c9ddbbc48d03e51158f8cc6cd90d5bb7]
+│   │   ├── t5.vom [8bb906956e9078428cceadb9b4587985f13bddc3b27c2c5224a8fafe8673a882]
+│   │   ├── t6.vom [dd1ccd0a07376ad4d67f84ca90cd86cd98b3dc4d221159ee80eabb40f51b5084]
+│   │   ├── t7.vom [094c9a0c0435b7783fde3dd66017f8c98fc6e7fdc75c03bb9ced954d6f8c3238]
+│   │   ├── t8.vom [d9deb25b3c20b10551e64615d9b2f92287247d617f1622b97854b585137e41ea]
+│   │   └── t9.vom [40a5ad57472a587d270b7d729ab10db0a16397ba1288eb6f443b298954879420]
 │   └── c
-│       ├── aust403.vom
-│       ├── t1.vom
-│       ├── t2.vom
-│       ├── t3.vom
-│       ├── t4.vom
-│       ├── t5.vom
-│       ├── t6.vom
-│       ├── t7.vom
-│       └── t8.vom
+│       ├── aust403.vom [a90e2325990eb905ef7aa63df252dc0e701a8d5c4428b5a4ddaedf3b760870c1]
+│       ├── t1.vom [3f919d0668f1e6e0abd73b1dde42b22d56a178e8ef788aedba16294925bd9d20]
+│       ├── t2.vom [0e6e2ef2e34a4d791346a2ea96949a483a98548d2616d721e687afabf346f9d4]
+│       ├── t3.vom [5042dee5b02f1f1344770fcbb967811d6f9790782359cbe725ec4962307a5c72]
+│       ├── t4.vom [ba463fb0aac9d47d52ae01dfa5934c540c85915b95c3bf1c8bc58c2b64ce8973]
+│       ├── t5.vom [7fd14f2f479dd5c7601da8d91280e7ed9be94ca279c4d1cac3972a939968db60]
+│       ├── t6.vom [eab3f33dabb04ca80b4e0cf9138dcb83204b5d04260ccf6124f666d6f6155bd5]
+│       ├── t7.vom [0b756b16bbff5a46103aa8c46ecd4e0e6c78e2e476826fecd86a5f97c5b215ae]
+│       └── t8.vom [194f57fe3b8b5fa61ae9ad3b957c809649355128cd847726faa0b02409d479bb]
 └── 409
-    └── Virus.DOS.Zero2o.409
+    └── Virus.DOS.Zero2o.409 [875b5c366f39161508883704b70a1baa49e0867b1e0fbd97072d9516ef0e8444]
 ```

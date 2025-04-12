@@ -3,12 +3,12 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── v-w0415.vom
+│   ├── t1.vom [94e49dec8d3789474e0bbdc3186255e2e8373c3a4de8f69aad9e41b0f803f6f6]
+│   ├── t2.vom [1af80f12cb1acbc05909110f6f1ae6cb80d890e2ebbe77371a494df3ba34dbf9]
+│   ├── t3.vom [9ecd30eee1add1cd4798385a7b8886cbeb32ccb74c03bc47972c6420535a17e3]
+│   ├── t4.vom [940a9e085a786d9e125b17f283917693af32cb0d74b48cf079012a5a8313feb2]
+│   ├── t5.vom [b9ee0aa6bd86050018c3346a4b648ed9e9f88dbb5460e8d4b9a77614385623a3]
+│   └── v-w0415.vom [fe41591c15d8167252c27175f6e458482ac64b4022d677c389f5d3c447197c57]
 └── b
-    └── virus.dos.vienna.415.b
+    └── virus.dos.vienna.415.b [63be97557793273551bbb3617f719f405f00cd69615069d06c68c8ba1ee8fe8c]
 ```

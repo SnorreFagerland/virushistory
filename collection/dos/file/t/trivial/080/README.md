@@ -3,16 +3,16 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── wci00125.vom
+│   ├── t1.vom [c5f40d49d472726911321e20899d465e74977619fb08f0acee2f9a625e5921d5]
+│   ├── t2.vom [0bfa336edbf93ca05eec6e7a9d1451e1314bf9f653c7bea3107fd261f8b80b90]
+│   ├── t3.vom [6220c07c024710cdda3589093f4e3f6db159bf3edf1d17193b4c14632b60e716]
+│   ├── t4.vom [39fddc1c488fae322a828e975d5209a221ee991464e9d2da0bfbf25f53ed16f3]
+│   ├── t5.vom [042dd249240f787d44bc9f89fd2f7cf38be38aa7d27144e3826f17083135f11c]
+│   └── wci00125.vom [68153b42b7478521c689aee891c10357185424264dd803fa5b83d1a1090661d3]
 ├── b
-│   ├── mj13_0b.vom
-│   ├── t1.vom
-│   └── t3.vom
+│   ├── mj13_0b.vom [84f97bd5a002f0d2c622d746415b9fd0b5a0b462a75ccf62e52bf5be1a051dd1]
+│   ├── t1.vom [929a5bf0a161c0f48b1ba4564feb2f0e424b785834f67269cbcd0768b899e5fd]
+│   └── t3.vom [f5326752c8203fefa315924bbe027522126a98bb2701cb453140e7f65ca9844d]
 └── e
-    └── virus.dos.trivial.80.e
+    └── virus.dos.trivial.80.e [012bf01b76acc1909bbb52f39ff405fe2341c15a3e38dbcb7178c3efc7868817]
 ```

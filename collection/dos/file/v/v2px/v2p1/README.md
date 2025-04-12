@@ -3,76 +3,76 @@
 
 ```
 ├── 1236
-│   └── virus.dos.chameleon.1236
+│   └── virus.dos.chameleon.1236 [383991eb7d281551428d3a9c37c06cc6aeaaeb4b6b19d08e663fd762618ec4dc]
 ├── 1246
 │   ├── 1246 - object file
-│   │   └── virus.dos.chameleon.1246
-│   ├── cham1246.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   └── v2p.vom
+│   │   └── virus.dos.chameleon.1246 [656bc47fa095e2755de27a94cd45d059709bffbdfeb35c3af2b13a710754e6bb]
+│   ├── cham1246.vom [b8e0fcf67a17d676ad871d966a787f809958f06fe4207424eb0447d6f5340886]
+│   ├── t1.vom [a92b8325dffef4bc15d05495a7b7bc5d4a763ff148a35ad1c64ef49c1d57256a]
+│   ├── t2.vom [ccdd8377e73c86431a5ebc49c588fe5516d931a09312ce633648d4a1a544bafe]
+│   ├── t3.vom [983466ebb9eb8fe0f10958099de476cf57ee7a4d2815663f960e060ea41f5fb9]
+│   └── v2p.vom [8609a88bb99600add0d9bac2210cf07a9ce05462ea2ee3334cfd69661b082a43]
 ├── 1251
-│   └── virus.dos.chameleon.1251
+│   └── virus.dos.chameleon.1251 [2832381697e188b318241bfd9d68c4ff0c7501e94d6d6424798c7a76ebcdef1f]
 ├── 1256
 │   ├── a
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── v2p-1.vom
-│   │   └── v2pxv2~1.vom
+│   │   ├── t1.vom [f23ea08e6b25d813086c43155e1cf76b06a6b351d3bf9a1b3615783886843fdc]
+│   │   ├── t2.vom [41bf062592dbc74a25e412716b1dee3fcc403e769b66913373757edc1026938c]
+│   │   ├── t3.vom [4b56ff85fc9da04ccd4f25cf54a203c867bcaff363054ef9b38e473637ea3c93]
+│   │   ├── v2p-1.vom [f1721910bb18afbb60d1b1259f77dca31392829845a8e16cada3f098ef99fee3]
+│   │   └── v2pxv2~1.vom [246b099d5066d2d299feff89a9b5d92af5a468ea550c85be6d3822340511288f]
 │   └── b
-│       └── virus.dos.chameleon.1256.b
+│       └── virus.dos.chameleon.1256.b [ec8505cf57a5d509439cfb709e5f899dabb098f15ac85f396f3109d8956df569]
 ├── 1260
 │   └── a
-│       ├── !083.vom
-│       ├── 1260.vom
-│       ├── _1260_a.vom
-│       ├── _644.vom
-│       ├── t1.vom
-│       ├── t2.vom
-│       ├── t3.vom
-│       ├── v2p1.vom
-│       ├── v2px.vom
-│       └── v2px1260.vom
+│       ├── !083.vom [11ae3e45e65078dc06d21df8c17cce434f51f99694b770864600fb6266b2d48f]
+│       ├── 1260.vom [4c59e58dd441cde0c535c2834157948d51832b0deb20100f68ad94d66ce8599b]
+│       ├── _1260_a.vom [5b2a24455e0ac0dae45a71ddafb1dbea1387aecd673334402808a753b66da535]
+│       ├── _644.vom [e783c483065c1b17ae7521db89f965857fb53291f5374ca2a09171e786390031]
+│       ├── t1.vom [45d535a8e97430d72297e6ce9ab3ad776181c25b40d8f30f182620841b74b5dc]
+│       ├── t2.vom [087b8d0ec14d8c6ef8ebaaa9f5466b9d03561fd37e8a9ce1015d85761b8e9be5]
+│       ├── t3.vom [823b52f7dde4b969fa5a41e6bc35eb5946d71f48b11a5e446b4014632b46df68]
+│       ├── v2p1.vom [bbfcf563ad9b9e31e8ed4ee6d7799b4ce3038060fec27f4f1704dbed346b933c]
+│       ├── v2px.vom [2582703f8e3c979417422db848515faf1d9123747ebd37e74286efb667140de3]
+│       └── v2px1260.vom [6112816af179d6b3ee74437648f09d8d4bd49235a7dfc25f43786e699daae764]
 └── casper
     ├── 0974
-    │   └── virus.dos.chameleon.974
+    │   └── virus.dos.chameleon.974 [2a5903b8dba4729380725250cbe623bd184908a9894477b1108a8acc28bac813]
     ├── 0996
-    │   ├── t1.vom
-    │   ├── t2.vom
-    │   ├── t3.vom
-    │   ├── t4.vom
-    │   ├── t5.vom
-    │   ├── t6.vom
-    │   └── wci01905.vom
+    │   ├── t1.vom [5bea8353a2749539463205abadc10d56b49e7a1460ef869ede59b495c8a512a5]
+    │   ├── t2.vom [1f4a9490878483187ff3acbb79d87c1fcf498f3216c9c9d055a31f128fca8ac5]
+    │   ├── t3.vom [b7070424b92128efc1cffea3de7dadbeb9de51de8a3d25a71fbc4290c959045a]
+    │   ├── t4.vom [013d0f86d745a530f7cd82237dc13744e21c07e77e0b5c971d2430ffc938c9fa]
+    │   ├── t5.vom [7da22578509c030b6ee06fa2979de27ec43d4eabbf3bfa84a573a9ed5b252fec]
+    │   ├── t6.vom [1630d393c189b8cd95d84838a78fbe77b8a54e9d04ee137148d4e415e950ab8c]
+    │   └── wci01905.vom [95318de9db7f6de06c0e2f008a416b533b4deec30a0bc896949310404192ec88]
     ├── 1006
-    │   ├── casper.vom
-    │   ├── t1.vom
-    │   ├── t2.vom
-    │   └── t3.vom
+    │   ├── casper.vom [51637c7bd11d2f01e67d5813e0f5afed9efe874553ff4eed211bdd61fe09fef8]
+    │   ├── t1.vom [005384f77cb7201f49c478888ee90ffd6ddf408a433e909fd197084580f35295]
+    │   ├── t2.vom [00ec1fa8bbbe3d585ceb90b587ee400e869570bc5aa198e9684c73d19428d489]
+    │   └── t3.vom [7da71d4e1894c77302cdafbdca665bea637d24851dd53aa7125ec1442a0596d7]
     ├── 1190
-    │   ├── cas1190.vom
-    │   ├── t1.vom
-    │   ├── t2.vom
-    │   ├── t3.vom
-    │   ├── t5.vom
-    │   └── wci00354.vom
+    │   ├── cas1190.vom [7dbe91f00abe39b33022f45c37d3acf153f8df667125f1a59c124bb15ae96390]
+    │   ├── t1.vom [a59ed405d81e1990e3c0e09e8acb1427153f74930fef52ae393fb4fea38f8b8b]
+    │   ├── t2.vom [4b6dfa38b15620c07c791890f5e1a466109c7a4655471c413b85e8b9e176f7ec]
+    │   ├── t3.vom [844a2e1d7e11bed01279d98ec301ed8385c8b481c7261d950dd665cc72ea4077]
+    │   ├── t5.vom [1a3761832f30105916bb2463134fa4997929013e8588cf106757fa79f120db2f]
+    │   └── wci00354.vom [d1c75767b8e4e8306b566a815681509daf820e31e10c981e862b98544ef8555a]
     ├── 1200
-    │   ├── casper.vom
-    │   ├── casper10.vom
-    │   ├── test.vom
-    │   ├── v2px_cas.vom
-    │   └── vienun-4.vom
+    │   ├── casper.vom [51070eace5bb217d0053380c38dcf15a83c0b84ec342d86634e909f2dbb7ac95]
+    │   ├── casper10.vom [2746c0f1e8c9a74a4dddb7b1965d8f3f057f0ccaa73fdbdd4d2a1dd41f5c8df9]
+    │   ├── test.vom [99f2bd8ce67cd6538f42cd1dfc60ffa472383e6d2daebd6ab5d58947e9154433]
+    │   ├── v2px_cas.vom [6b091febe2ebed2ec1639c0f9af685ec1bd974c2d9a44fb696710d82c37786fb]
+    │   └── vienun-4.vom [22f7d0ed633c625de06e06a8140a224ac6c474e39bde7a6390d9076cfa57a237]
     ├── 1440
-    │   ├── t1.vom
-    │   ├── t2.vom
-    │   ├── t3.vom
-    │   ├── t4.vom
-    │   ├── t5.vom
-    │   ├── t6.vom
-    │   └── wci0818v.vom
+    │   ├── t1.vom [d078c22fd2f110d93d6fb08c1e23cc0b545264556e9b150631d85d2d428426f6]
+    │   ├── t2.vom [b2d5e49c84afd7026025fa60cfa49aee4bd84429267318febf333b7d7c40b916]
+    │   ├── t3.vom [246717e485b98e9f2b7f2105b89671845dbe73c2b57bb2d2716234deba615005]
+    │   ├── t4.vom [55f2139dd36d67f18ceb64536ac2c46ace603fc40f227296e8669cc0defdc594]
+    │   ├── t5.vom [c1665c1b16ea1228019b01970ac03bae3eb7eaa81260eab54db126d2fb2d9261]
+    │   ├── t6.vom [f9190c12de69b340e0e6bc1640a92c46e7c9f7b36f685d812d6be9d537fb775b]
+    │   └── wci0818v.vom [bdd498625046f5a0a6996dab5990c8024dd84fac3a7dcb3044a1c6498bb013f7]
     └── 1455
-        ├── t1.vom
-        └── virus.dos.chameleon.casper.1455
+        ├── t1.vom [51578602ed00ba6d05f3922d34bfc1341946a035e8a007f2e8019d11948e2766]
+        └── virus.dos.chameleon.casper.1455 [c692717c919766d4fbc1c8cff39afdf501d0799c01cbf7b8105f1bed674a34cd]
 ```

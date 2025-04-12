@@ -3,54 +3,54 @@
 
 ```
 ├── a
-│   ├── pixel010.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── t9.vom
+│   ├── pixel010.vom [fffae20a696ae512919fc6b2d2242bd89b022ecfc3c3e0ad5e24dcc811bd8b7e]
+│   ├── t1.vom [2be503d65a3a20224005b60bc30eec02c970f4de7b2d5dc83a3cd558a6061393]
+│   ├── t3.vom [fede07330e076b79773991e0617846ae116b158f4d2fa4c555037dac60d74ddb]
+│   ├── t5.vom [0422bc68b44f2230ebf6dcf03efcf240020da76ce08bb1fb63cb32505a1ace46]
+│   ├── t7.vom [3c7393f0b753624cf51445097a855b9c2ade8c64ccff71cfe825d31cb98bb7e0]
+│   └── t9.vom [d360287171275e5c487d8b077ab2942d364b3b1eeb1f2bab69dc0f07d4f65e91]
 ├── b
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── t9.vom
-│   └── wci0147p.vom
+│   ├── t1.vom [5d60f9355d1244944cfb9f1bd64067d22d3c9a43bfa0911473d95fcf6eda56df]
+│   ├── t3.vom [155cf83d6c087bcd3cf50123629b09de4230bf9f695b66385d5f7a712681342c]
+│   ├── t5.vom [a5acf24ce94a5aa7906d771e2e6f74528f47ecffd79d06309b25a784fe715d17]
+│   ├── t7.vom [668ff3afd628dd2ed68890e5a293ccefe008d03769c0bb64156e8d1dd4bb3538]
+│   ├── t9.vom [041091982e01e6d60debdc23c7c3dcf40a65bff683b0f7e395e58a86edefe066]
+│   └── wci0147p.vom [82be6f4499ecf6b4c856f1ca8694e182c2ac8377ff68c204f8a033842dc83b5d]
 ├── c
-│   ├── id.txt
-│   └── virus.dos.pixel.740.c
+│   ├── id.txt [dbc752cbedddd8872b4ccb02893a88a39881e8e817494318dd60c4aab31e26ad]
+│   └── virus.dos.pixel.740.c [d5e97810e59e90da1f3bab6ca2eefc37822506ed69b196477f431e565fc39713]
 ├── d
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── t9.vom
-│   └── wci02094.vom
+│   ├── t1.vom [b35c7f0e4e43a9bc148cfb31a2f4630eb20440b0accc5f738ec0f5c9d399d076]
+│   ├── t3.vom [605c7c6ad3c40dd57cfa376b3b598c5d20061b79e936ae2a0114f851f88491bc]
+│   ├── t5.vom [4f551158099dce3b01e1e0658f65749c92ef748be323a53fc7bc73f4fde4cfe9]
+│   ├── t7.vom [522d955bb8e26dbb59812c3e5c7c3abaf7324ae0feb2061812911c34151ab7af]
+│   ├── t9.vom [92f1152f425f71f60b43464df00f9c57135c5e3a1c60b074a7ecade0b89f9ebe]
+│   └── wci02094.vom [527d0f3ebbe53c839b8cab52726ee9d08b8fd410803ecb7cef3089a0f079a6b5]
 ├── e
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── t9.vom
-│   └── vir0448.vom
+│   ├── t1.vom [9d513ebedfbc965c4fc856d5634bc27f0b0d1077678454d3005b8338fec82ed8]
+│   ├── t3.vom [277c83297787d69510947527e0eaf88d98a11242380ce12e420fc85bbf743d11]
+│   ├── t5.vom [fa7b43040ab533a723ed742c655794d1ae41bcf236446c9099436961f9b47ade]
+│   ├── t7.vom [d7021501ee3b21f41c845b22cd40ec5f3e135b752bf2bb17b1fe0566a88b6827]
+│   ├── t9.vom [f20c0e26ce138cd6c5471d60273925afa56c657412b3c0c5c3d6497b6e6e5f2e]
+│   └── vir0448.vom [8d33d8fb71bae223d6a42678327aa553058f0d1e50e6c73ddc2a4a4006b438a4]
 ├── f
-│   └── pixel_74.vom
+│   └── pixel_74.vom [1d81e077095f51d14d7270673a00ff57de5c0c067c2f1b7f4f2ed78130cca497]
 ├── g
-│   ├── grep.vom
-│   ├── ira-038.vom
-│   ├── pix740e.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── tf.vom
+│   ├── grep.vom [08785c7a85b19233d03f793968bed6d4bc35f500d105df7dd0bcbd6992feb6a9]
+│   ├── ira-038.vom [4930fe9025f5566b1542fa4090c2bded80a5854b3cc6f677238f45a14300826e]
+│   ├── pix740e.vom [ca5226d84b0e4caa7072992651e9bbf0c1cf4d0db1f9b14efd83fc5c7a6242b7]
+│   ├── t1.vom [e8ad8e3ba76835b61c5133d3ef3c923ca610c4a1d6c7b19c85c8bb2ef13f009b]
+│   ├── t10.vom [6dc6bd00820d14afd8e147d433c4249ef765d6611ab5e3f22d1bc02f959b8459]
+│   ├── t2.vom [99c80cc3dd2faa417074d39bb3fdcad7f54b7b69da11e887cd99316d0756f18f]
+│   ├── t3.vom [cccebd7d4d57165cea672f2947ccdd5d33f8b40bdbcefdfaf5a47eab2154fd8b]
+│   ├── t4.vom [5e32e8a9ce81e63fe86f0c1eb014db309520e6fe63642986595af07fadc52d5c]
+│   ├── t5.vom [08dfe587433679b000dedbcd382b38c949e0d43879d85c08d1290e04cc8675d1]
+│   ├── t6.vom [6a07055812c65512fd31ecdb84d36101ec46bb62d503e1876978ccf1b997f4ce]
+│   ├── t7.vom [7d140c591d4f32761d21fa3570a1c38f27fe2395e241ff9af204f92b0d964795]
+│   └── tf.vom [6992ea005caddbd4120adc761c12b2a0689c6372e771fa877bc81cb02ebca337]
 ├── h
-│   └── virus.dos.sillyc.740
+│   └── virus.dos.sillyc.740 [a4ddd4429491249e428baa8ea88545f243e2929020e9bd3cbfba4086198e1d74]
 └── i
-    ├── id.txt
-    └── virus.dos.pixel.740.g
+    ├── id.txt [4aad88afa1a71decf5a4212154b8f340784b12477e1457d26575d9974381fd15]
+    └── virus.dos.pixel.740.g [246d8de341582aec17ed497d7ea8bc7637f3e9c32a3b994fd75940ab0d7ea542]
 ```

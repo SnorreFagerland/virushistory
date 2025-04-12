@@ -3,32 +3,32 @@
 
 ```
 ├── 1432
-│   └── traka_14.vom
+│   └── traka_14.vom [082c958c201b8078fb8682931a04a27c47532039dc4d6f3425b87a224a7ca9b8]
 ├── 1471
 │   └── b
-│       ├── traka_14-001.vom
-│       └── traka_14.vom
+│       ├── traka_14-001.vom [cacd3625cfcd59b608ff0c86794846710f9c931bfdc9b01980495e26bbaa6cf8]
+│       └── traka_14.vom [609a1779e2c26ba4277bc7e99b4b46a11770da3ab4bfbece5d0c8554da166327]
 ├── 1473
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t7.vom
-│   ├── trkatrka.vom
-│   └── trkatrka.vxe
+│   ├── t1.vom [78af9bc04c9c4ad800660515ae6e3ed74d3a371726c09f78e917bc1c83d352a8]
+│   ├── t1.vxe [3521c67a86fc9610912ace91eeea44f58a13d9ac30746484c98b3a9acfe2892b]
+│   ├── t2.vom [67521173479628e63e1eed9b8f5d5d99ea4844ba795c818b2a4cea2c1075c4f4]
+│   ├── t2.vxe [a06349357e6fa6299024381a4c66cde3a98f56b141b5c96e02f98dd8f839fd7b]
+│   ├── t3.vom [7c1d0ed7b492a5b63ca8bbdeb9057b90d3c19789d08fe7908e26658d0da1aef5]
+│   ├── t3.vxe [cd29bddad96e096d7908303da5592a63baa7557cdd7f1457163c163cfdabacf1]
+│   ├── t4.vom [21fc071c1231b12d57003b1eabdaea039edb48f95a291d517a6c69a6d7033a88]
+│   ├── t5.vom [06cad1c88964f08442bfbc23f5785358cbb3a908db7c3d80b010728ea60e3ba5]
+│   ├── t5.vxe [845e9a6e875352784eaa4cc8d64aa41f33c2efc18a0595fb2a0e5bfe2b31b957]
+│   ├── t7.vom [95d4e6634e63f78ae00ff36f17ce28ef569bc4e0ef56b94442da4831b1debd26]
+│   ├── trkatrka.vom [10421a82dcd02cc53c85579b9fe39e138f010fc7d78729b6a3dafe21139a0ba8]
+│   └── trkatrka.vxe [d4a4679fe96313b2fcd515d4be6832223d85e1d0cb5adc2444031a9b4355f271]
 ├── 1474
-│   ├── t7.vom
-│   ├── t7.vxe
-│   ├── tf.vom
-│   ├── tf.vxe
-│   ├── trka1474.vom
-│   └── trka1474.vxe
+│   ├── t7.vom [029e1300174934fc550fb82e00c290f1f1b204919274d9a5055a763805ab9676]
+│   ├── t7.vxe [f1f9c7c5e7810aa055d1b2e99c881d812f1dd37af6d1e1714f13269744f83f1f]
+│   ├── tf.vom [995fb273e1a0130d4fa126413b40d7bfab49281a45ab800e2d43bed6a1a9b727]
+│   ├── tf.vxe [ebba5a01e930a667ecbac7caa4f9235f4f553fb3c4c00fc3e4921b902d97e103]
+│   ├── trka1474.vom [87b7edc3bb62148ca1c3157e2c9e8ad1b9e2469126579e5d0a767accf40dbc69]
+│   └── trka1474.vxe [f04ed111f715c59c5dc15f4be7692b7381d18fa4e6b14e814a73871a48f17828]
 └── 1500
-    ├── traka_15-001.vom
-    └── traka_15.vom
+    ├── traka_15-001.vom [efec298ccc3aee6a8746a58278b7841487ca14988f582de910df89c386164a19]
+    └── traka_15.vom [49a8590265d62cc43279a8d47ad683a7180c05a64778a31aa9c9b413084d4659]
 ```

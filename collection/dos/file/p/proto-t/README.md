@@ -3,60 +3,60 @@
 
 ```
 ├── 0579
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── wci02344.vom
+│   ├── t1.vom [584837d12e6c40ee4271ce7eab6b607d8753c564baaeb4b24e66d9163d0f20e4]
+│   ├── t3.vom [5926510969e721c5a8a828dd8df5bea9e1f8e7f5f8b538db2ac38ca1e3f83eca]
+│   ├── t5.vom [6a435079d0aa2d8a45f92d9861d8260e4ffee8b4fb6148f9c0912911cb42e61d]
+│   ├── t7.vom [3368f1c554708deed14221a6c48498e2e098b9c1548ba74336e8190b844d2986]
+│   └── wci02344.vom [8b5b277ca9c0d94692b525e3b6b44a64b9792a36d4399571d452033312835894]
 ├── 0599
 │   ├── a
-│   │   └── v7995.vom
+│   │   └── v7995.vom [c1b13616e37da41e32cbd260640cace6fb63d737d735e43b811a1c44bd412f3d]
 │   └── b
-│       └── pt-0599b.vom
+│       └── pt-0599b.vom [5f32530dc88cdfa99f8d430663d88ad35c0f14ebd2a338ff31ce8f8136834096]
 ├── 0602
-│   └── 602.vom
+│   └── 602.vom [90e6827c6be0c9061fa879a526a69ad189a35e5d53e0debb1b9babb153810a2c]
 ├── 0629
-│   └── number-6.vom
+│   └── number-6.vom [4f7c3fdab8d2dd02213b095955faf9ffd83ce598077e459fd2d0dbb3a3558dea]
 ├── 0654
-│   └── pt-654.vom
+│   └── pt-654.vom [07866dccc86a7e6af95d2fa5abf2ec8edcd58653d0cde8814bcc9c8cc11526a0]
 ├── 0688
-│   └── civil210.vom
+│   └── civil210.vom [ea325fb081ac737747be591354fd356131f8d714c591c3e0987bf36a26333231]
 ├── 0690
-│   └── tridunkb.vom
+│   └── tridunkb.vom [f9236a8416ba01a3ec076c13654956dcf825fc3033e01d52cf06d664e6278e44]
 ├── 0694
-│   └── proto-t.vom
+│   └── proto-t.vom [932b34d596945c217c8ddb4acc8d22d91b2231a1b5cbe121c05ba7803beb2a17]
 ├── 0695
-│   ├── proto-g1.vom
-│   └── proto-t.vom
+│   ├── proto-g1.vom [ccb8b54f678772f27dbf3ab1c97d4cef23e6ca3efff4a4dd3a92e7500851f8b0]
+│   └── proto-t.vom [65aec85ac7e3a3a761912a919b95a95915814c9f75cadb9168fe09e4fd7597c4]
 ├── 0700
-│   └── proto-t_.vom
+│   └── proto-t_.vom [6512d42b8b2a45470e1d50f58a9fef1bb3880d0378df019823ceb5185c0e65af]
 ├── 0893
-│   └── wci0310p.vom
+│   └── wci0310p.vom [b1d99f3a486abf0f628c8d409c7a60851bbc2d272b74d44deb84924831f6df29]
 ├── 0901
-│   └── civil_3.vom
+│   └── civil_3.vom [5d63ae5486788f4e1148d59bfb759d451264eb1976e696ca8862bad26b27eba1]
 ├── civilwar
-│   ├── v8000.vom
-│   └── wci08131.vom
+│   ├── v8000.vom [e487b4932082d3cea2672f1917c7d00244560267ac3a1d9063a2696c2e7850ef]
+│   └── wci08131.vom [6732f4a016d7b45764db3413d5f1661263fb34a2f1284d4e07ea8b3638e501c0]
 ├── lockjaw
 │   ├── 1041
-│   │   └── lockj.vom
+│   │   └── lockj.vom [b6728690052e23383058e7f3262328df076feb8be695ac6e35b8834ddd2c8be7]
 │   ├── 1048
-│   │   └── lockjaw.vom
+│   │   └── lockjaw.vom [1d4723dc43e1fcb5da8ba0d2ff9a3fdfdc64dd415eb969972b826f07b0dda978]
 │   ├── 1050
-│   │   ├── ljaw1050.vom
-│   │   └── prt-1050.vom
+│   │   ├── ljaw1050.vom [61d5155f2a6ad6b76e38c0a627a44fba0e0d98e2edf6dc88c94839f8b18f7eac]
+│   │   └── prt-1050.vom [5f249d80c56214e84187c0a2ae17255e5523d33250ed8b5adddcc9e532858f6c]
 │   ├── 1052
-│   │   └── kenson4.vom
+│   │   └── kenson4.vom [c6d7210c7ae051a0da9881b744d73e56d618ae5f802633d7711a54b9de178d87]
 │   └── 1053
-│       └── lockjaw.vom
+│       └── lockjaw.vom [1aa51f7a94dcab95d9fba751ccf1b72d64090e500ad5df6fd6d4150f571fd796]
 ├── number_6
-│   └── v8005.vom
+│   └── v8005.vom [fcbe811b242ddb83faf08ab9f3611c1681fc4f7d097761d33a128d000af680e4]
 └── ritzen
     ├── 1087
-    │   └── ritzen.vom
+    │   └── ritzen.vom [acfb0ed3aaf68f143711aab784a28b99db267e3bfc8eb54073d70abafcdce6e3]
     ├── 1098
-    │   └── rit.vom
+    │   └── rit.vom [9797606321a1620feba849135682004c362489dec69727b21494ec6a9e64b21c]
     └── 1112
-        ├── 1112.vom
-        └── ritzen.vom
+        ├── 1112.vom [6e89becd2b2c3a3720cf1f65d6e8ffd182562e73cdcb6544793a8398a94894f3]
+        └── ritzen.vom [267c03352ca55af7bb67ea3ca896d995a9abded37cbc9533d5e26c3680b31dcd]
 ```

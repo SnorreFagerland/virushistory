@@ -6,21 +6,21 @@
 │   ├── 511aa3328907aafb5b37ea77c4d31e2db1db9e2525a6bc51e91720f6022b10d0
 │   ├── 9f74db1ab3a3365aaf3a2c14d4ab2a97d94b64813172670e15e630655a97de26
 │   ├── e8d3cad75b8f7c3336a4ac6921502b7b6817d38f4601c2baefb529bfdb9ab266
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── v855.vom
+│   ├── t1.vom [3896a5c22bdadca3fc6888c3f2397898ddb9744a150359c85d34aaa0c63b7295]
+│   ├── t3.vom [22f5fd48f96f019c496bbfa7dc98286f25ea2c438c9be80a3628d25e33015d46]
+│   ├── t5.vom [008d9d3e851bfce05634da17870d9540226df9c75e40c977d38160f66233fe3c]
+│   ├── t7.vom [38b9e0b88455d81de74a69c30cf78f2e135171011edb5d38f6fde4079290c541]
+│   └── v855.vom [e9bff0c2d34fc77364a57fe7dcd5cecbe7e53c4fce0e545001f7affca93163bb]
 ├── b
-│   ├── csl-b.vom
-│   ├── csl_beta.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── t9.vom
+│   ├── csl-b.vom [27393a4eccfaa7fb8775929e9b23ce83c5e38920603020d5b6b75e04b9136ba6]
+│   ├── csl_beta.vom [27393a4eccfaa7fb8775929e9b23ce83c5e38920603020d5b6b75e04b9136ba6]
+│   ├── t1.vom [12596af174c1e1d8262c9dc320f393f5cc04ab7d7b545338d8baf7fef0e46839]
+│   ├── t3.vom [0281b5c30874f983ad0ae5c2ac56d53ae580d2180f1437d164c9c0e5790e4449]
+│   ├── t5.vom [c65206517d111b243e607a31f7d975500069d2b400017c3cc663d4aeca4923bb]
+│   ├── t7.vom [b78967ca57646b6712f541114a0927335f48368046cdf488a6937103500b800a]
+│   └── t9.vom [bd528cb9a3d26a451c1dcad7926f63ecf71c6165256abd4ea7009113522de3d5]
 ├── c
-│   └── csl-c.vom
+│   └── csl-c.vom [2f5242ce52d2101342665c68a9f2c670400c54c9247cce1ef80d704e68992a83]
 └── d
-    └── virus.dos.csl.381.b
+    └── virus.dos.csl.381.b [6de9ae2bfcde3dd34087439f79d8c32a3f2dbbc921599502e4501b76434d78c2]
 ```

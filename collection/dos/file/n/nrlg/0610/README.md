@@ -3,19 +3,19 @@
 
 ```
 ├── b
-│   ├── nrlg610.vom
-│   ├── rigaleto.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── t8.vom
-│   └── tf.vom
+│   ├── nrlg610.vom [74e7fae1026890e37b0358ed12f51d8d5ddb05f3702db5d94d71ea0713d18d98]
+│   ├── rigaleto.vom [6fca0cb922f143150d9827b87f7ae68c5140b55f8fe56960b38cc55bf634a2ae]
+│   ├── t1.vom [140ab1499aadd8157eebc57bb44adeee404189aefa793e9943212a8b5a678355]
+│   ├── t2.vom [87e1a870d510b4c5af4ff7c7096b4a50d3ea70aa3b2259a1a27761b72aab1467]
+│   ├── t3.vom [29257f46524d786ecfc6cb4322f89318822ac888798d280371c5700cba0eabb9]
+│   ├── t4.vom [40be27c9d495eb8fe5766cf384f92c5d0ca38065d25e65e484f037b7e820cbfb]
+│   ├── t5.vom [f3418e399e1ac6eeeae71f55b4c86ec452eae8cda1da2eed8b362b99a5de479c]
+│   ├── t7.vom [51fb603c333b54ab68e1207b350f97d18ce698e2a7e644f81893f51ba81c62b8]
+│   ├── t8.vom [5d9f7e9978c772d1c4005bd579872b2de9f2e9a3c090bb4d21243c78b6c6059b]
+│   └── tf.vom [a17cf9519fa6b38896fbb872503aa362b84ffa4f6975e43158ba0e298135d886]
 ├── f
-│   ├── nrlg_610-001.vxe
-│   └── nrlg_610.vom
+│   ├── nrlg_610-001.vxe [14f959702d0c37c16cd7e8c4a943f059f11dd71e3a6ace1eb50d74b7ec08902d]
+│   └── nrlg_610.vom [14f959702d0c37c16cd7e8c4a943f059f11dd71e3a6ace1eb50d74b7ec08902d]
 └── g
-    └── nrlg_610.vom
+    └── nrlg_610.vom [493280a847f01ba901321b6539dc2cbbfae527b1b156143767bdc202d542effc]
 ```

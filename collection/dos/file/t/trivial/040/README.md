@@ -3,29 +3,29 @@
 
 ```
 ├── a
-│   └── triv40.vom
+│   └── triv40.vom [496af771f16f295ffce83b15d23982f14ac43f53b05b6c72777e9821ee1e6c03]
 ├── b
-│   └── mini40.vom
+│   └── mini40.vom [671688ff8e3b85c8e90fbcb49f1b128e02cf7dd2118bed6952f9d4da534866df]
 ├── c
-│   └── gsnurkle.vom
+│   └── gsnurkle.vom [6060f0c91e3d8f1c3ce02d98fd4351da3d9500d066c8130f68abe225fa3b5020]
 ├── d
-│   └── v40.vom
+│   └── v40.vom [09c0f6077246366491b4e9c066cac132f0c1e6067afb92918fa4f2895370b0a3]
 ├── e
-│   ├── triv-prn.vom
-│   └── trivia~1.vxe
+│   ├── triv-prn.vom [9f0ebceb3e583c37e267d6d2df8384d752a9424608132929f1d43e64090ef74f]
+│   └── trivia~1.vxe [669eb399b270f7a8ac8a7576188aab408db1b76fb22e7aa48357bcf71d2a7f62]
 ├── f
-│   └── smurf.vom
+│   └── smurf.vom [2c0ae425ef371e50df37db5203e747eac466aac5c2e706611e3be2dcef6ae5d1]
 ├── g
-│   └── peewee.vom
+│   └── peewee.vom [46caa47f582f72c67254a44c45b9873ca16627ce08a935e7145267000f7b0133]
 ├── h
-│   └── x-pain.vom
+│   └── x-pain.vom [f3c55602161f3169124b52ad6ab0a24549487af848d36616562fa1ba9a6b14a5]
 ├── i
-│   └── ovtex1.vom
+│   └── ovtex1.vom [849ee6212920c30f4ef3f1ba747012dc249444eb47c9ed37c8a7d2d028631307]
 ├── j
-│   ├── c-tri40j.vom
-│   └── triv40i.co1
+│   ├── c-tri40j.vom [efca845df43dc427e76fa01193c911a96869bf14437d7e6233ca82a6801feb41]
+│   └── triv40i.co1 [2dd246ea077268d02484a6777247138102af94a39c6f9b4f94cbc2eb03d3d215]
 └── k
-    ├── b7-40.vom
-    ├── t1.vom
-    └── t2.vom
+    ├── b7-40.vom [2c17432a5f8592466101f11abe1a9f973164d646988e57f3cf19f88c4527d004]
+    ├── t1.vom [739276c44a6e7f97693ce1faf37dd653e6d04fea24784440ab84dd6fa65d7c72]
+    └── t2.vom [cf9099fd3e8cc7548c4a88afadda78e0a2a89a37348e28c913c374ddaf106c6c]
 ```

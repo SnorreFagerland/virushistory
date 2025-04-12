@@ -2,8 +2,8 @@
 # Contents of `d`
 
 ```
-├── DPOG45.vxe
+├── DPOG45.vxe [9f72156d07f0e5f438cf2b69764f9edf9a3e33ac9824727c2b10db0c7dd8c127]
 └── src
-    ├── DPOG45.CFG
-    └── DPOG45.PAS
+    ├── DPOG45.CFG [bda4a7a1d404b0442e47cc795383b774e3bb14dd33826a3709425364938056f6]
+    └── DPOG45.PAS [98469a5c837224fc47c479fcb3755e14272ac9f08d15430dba0c1ca4863b2d99]
 ```

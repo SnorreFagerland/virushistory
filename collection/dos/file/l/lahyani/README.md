@@ -3,34 +3,34 @@
 
 ```
 ├── 1228
-│   ├── id.txt
-│   └── virus.dos.lahyani.1228
+│   ├── id.txt [50ab6df0d29bfc192218c31156729ead62c2c214d2b1acd29aab1b97b4fa9f26]
+│   └── virus.dos.lahyani.1228 [f876fcb7edc20f553ddf85f5cc5a8c2b0e117bf91188f5498d517948f6f477ba]
 ├── 1332
 │   ├── a
-│   │   ├── lahy1332a0.vom
-│   │   ├── lahy1332a1.vom
-│   │   └── lahy1332a2.vom
+│   │   ├── lahy1332a0.vom [7a25b9a63ceb4b860035f77bdca61f8f03250f3cf57b661e0394c537f1fd3b5c]
+│   │   ├── lahy1332a1.vom [855f54ac002e7207d90331eb4a9c45919778c3af48474d78776774ef2461cfcf]
+│   │   └── lahy1332a2.vom [68efabbc43b09d58dd52ae42750a9b172c54526061b6a1513c85e6a3bc58317f]
 │   └── c
-│       ├── lahy1332c0.vom
-│       └── lahy1332c1.vom
+│       ├── lahy1332c0.vom [d2440e752e73302a81390bcc89a675d741fc03eb5487df2c728353ebf2797923]
+│       └── lahy1332c1.vom [faeded8925471914a8c0b1c3bdb0c05c62f80f46ae8870f1ccfd3dc6970b7931]
 ├── 1356
-│   ├── 1-la1356.vom
-│   ├── 2-la1356.vom
-│   ├── 3-la1356.vom
-│   ├── 4-la1356.vom
-│   ├── lahyani.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── t7.vom
+│   ├── 1-la1356.vom [831af2a6ee28c6a73668f45b1d2cc12a1173f650a6ea9f40286f593856c34e4d]
+│   ├── 2-la1356.vom [e04e6312ff25f050765ba278f2b3e914043ca852280c3acc58b2e8603f946f2f]
+│   ├── 3-la1356.vom [182a2286035e41bcb5015deb18cb65d2d4c1da544a67fc73025bc5a702ae33a7]
+│   ├── 4-la1356.vom [c75a1276b4007163abcc6a5da7e8c94ee5af6ac3b9647f5dbf3ed903334d2743]
+│   ├── lahyani.vom [ddbf14a083b39a70b23ac4cc46263530d96fe161f4d27d8658fd87429505e377]
+│   ├── t1.vom [ff88749b35dca129941fcefd102e94cd49f84115b5d8a5695499e3ab2301147e]
+│   ├── t3.vom [83f2b7f685c57f33bf6aa08718995bcbba4e5cc428b481d847f44cc7992b668b]
+│   ├── t5.vom [3851dadd615a4cc308e5dab2e29596f5b51fedfc724e7884d2b916cfc58aac58]
+│   └── t7.vom [2dec6bb8d786fa6d9c2851a07299c1946f1461270bc99539b1e1fd63c61b5844]
 └── 1381
-    ├── 1-la1381.vom
-    ├── 2-la1381.vom
-    ├── 3-la1381.vom
-    ├── 4-la1381.vom
-    ├── lahyani.vom
-    ├── t1.vom
-    ├── t3.vom
-    ├── t5.vom
-    └── t7.vom
+    ├── 1-la1381.vom [66bfb4a966cae075d44db504ead2d317878c468bb43f694a098043966243c5fb]
+    ├── 2-la1381.vom [4310a73bb399dce53fc39539d8420b0ffbe6627a07127a284183d70b1c87e9f9]
+    ├── 3-la1381.vom [3ecbce9bd0e8be10842803144266d4e03ebfff8d9177e85d69ed8cd2d0ccdc9e]
+    ├── 4-la1381.vom [ab7e746c1378c2a6fcec2c47ead526015b4b7e18c65691466151133289dc0ece]
+    ├── lahyani.vom [e2d64294d68d292d2621aa7bce17e9b9b1f40c7736031887b0b51a9fd5cd323e]
+    ├── t1.vom [5258184f8d62011b1b01cdae11e1617719acdab9103b676ab4ce33bc5307969c]
+    ├── t3.vom [fce84f80140bdb08fa67a9d645a9c8b4618d2f9ed1cba19c21922ec6ad059a68]
+    ├── t5.vom [97de6a1c602da8ca264b915bc122a498b5c88234dcbabe5f236d759fbdb6bb58]
+    └── t7.vom [ca8b76a7aed50178206c07a44fd55a4cc5497e1a6c7551b1ca553d3fad887d6e]
 ```

@@ -3,38 +3,38 @@
 
 ```
 ├── 1914
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t5.vom
-│   ├── t7.vxe
-│   ├── tch_1914.vom
-│   └── tche1914.vom
+│   ├── t1.vxe [000f8c7e2a3851c068282c8c7e1ce7ffdfab3efcd9bb40b1c1183bfdc87a8f16]
+│   ├── t2.vom [ed7aded3f4ca05bbdd29aacd50a36821b28cfe07766335a3b74fd4e3801337df]
+│   ├── t3.vom [d18ce73bbd97556ae1e108502ee7f42d5f37a6b76889507e0490210a1e1c2107]
+│   ├── t3.vxe [fb7661d658198287df45c942240e264f78904c88b71ba050149411abf0b6089d]
+│   ├── t4.vxe [bb422be59add918d0e8f33d89f1c9f0b796511cce8ad4394250e3afcefa6e488]
+│   ├── t5.vom [4eabe7420f392742c52b7b5b9debc187613d94594852e7677885484662be1a4a]
+│   ├── t7.vxe [0ca92be90d5676c1c55bb0ac53fe60f09d77de45056ce32f89674cae04d24984]
+│   ├── tch_1914.vom [6cba7f3e46ad299aa481cb89d32a96db553447abaac2d1033d5367a8a7d341b7]
+│   └── tche1914.vom [15d7de029d63d65a6b827e68579420571268e151ac0e7f358cc3204230db3f75]
 ├── 1919
-│   └── wci0530t.vom
+│   └── wci0530t.vom [58732a6ecebbc5f45d28ad5916c861f474c9425120d815393a9555010af09efe]
 ├── 1988
-│   ├── may_vir.vom
-│   ├── t1.vom
-│   ├── ta.vxe
-│   ├── tc.vxe
-│   ├── tch-1988.vom
-│   ├── tch-1988.vxe
-│   ├── td.vxe
-│   └── wci00834.vxe
+│   ├── may_vir.vom [98dcbbefb8b0b49172f6534ddb5f10bc8b342a1eebd8e4252bd5fa3eefff537b]
+│   ├── t1.vom [fe50995f3c3d79022be24a54d54ccc6315711a040032de6a66ca6619fc86afc8]
+│   ├── ta.vxe [a944a646f3e8d8c6de4640f7dad0d8a610200620db3ea46f198c3f5464c133f5]
+│   ├── tc.vxe [f323a856cfd8042c77e624ceb17fe5c7bd9f92d8c88c6c77a0fbec34fe140e22]
+│   ├── tch-1988.vom [6523c02fdd91809f0d32c7cb8cb5fdb093f6209d68c385a5ac403b217f67e59f]
+│   ├── tch-1988.vxe [5b3872a03e5681a892d7d61560ba9bbae0fccdda39531e5f2326df14b67b46f4]
+│   ├── td.vxe [f30b25fa462dba2876a71d3d449980b58e59d1f168815e73849b56dcb70a519a]
+│   └── wci00834.vxe [3b8aa9db287a0dd220077a22b57df15fd8eac2d046dec36315f95e6aaf1b784a]
 ├── 3404
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── tch22e.vom
-│   └── tche3404.vom
+│   ├── t1.vxe [98813a03fa73ca4407a4a121e3d67f27ffa456ee330960370d32319981ca308c]
+│   ├── t2.vom [dc4ff507cddc0fcf55bbba5ff4577e9ee2d2205a6ca431f771ca83b58f46ce8e]
+│   ├── t2.vxe [63ec399786c19bbe91c8f4736d81af86179b2b234a463908b36910203ebfb3bc]
+│   ├── tch22e.vom [fa3d484c1d4713184f42728a55e520ab59a1f585b4bdaaa115520bfb382fafb0]
+│   └── tche3404.vom [6736023449e59a6ce714354137c04ff32e8e836f28d03c38bdbda71f98975d64]
 └── 3604
-    ├── t1.vxe
-    ├── t2.vxe
-    ├── t3.vxe
-    ├── t4.vom
-    ├── t5.vom
-    ├── t5.vxe
-    └── tche3604.vom
+    ├── t1.vxe [ec35ebddbc208f12227ff418a4a926796ed6fe84135dc3184a9a3a25ccefb2cc]
+    ├── t2.vxe [facda24a2f6f38ef6047c87ed6eed740f157368435c94eb7922df76664a7cda3]
+    ├── t3.vxe [449f2ab55f05759ab2f00b5ec23c152192b67c3540587d67d1f01a32a1ca1571]
+    ├── t4.vom [3a14ec49dbfa21b4b2e9c9f8d7ea96f69faa19de54d7cdf4eaab9bf04542fc52]
+    ├── t5.vom [4a13b2ff3b34340f0aaf0f4ebf5974fb3927b249bc70f92f9e35ef1356be8a83]
+    ├── t5.vxe [e5101584f28e3191e83b9557233500894e4a579409f251fdace126286a17b19f]
+    └── tche3604.vom [ab7b5f84826ed93e7ca83318aeb2f9b80b41b9ba610a5bc60b85beed065364c3]
 ```

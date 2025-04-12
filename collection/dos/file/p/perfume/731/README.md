@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   ├── perf1_3.vom
-│   └── sorry.vom
+│   ├── perf1_3.vom [4e77e63ebb3045e141745f2a2791ff3600e8f2140313ff3037dcb82cab75b184]
+│   └── sorry.vom [d075659fd6d063c16d23c126fff6c9a6ea802d1f78d3894a463e3aa32d19f1e5]
 └── b
-    ├── ira-018.vom
-    ├── p-ira571.vom
-    ├── t7.vom
-    └── tf.vom
+    ├── ira-018.vom [8a4dc0ce2892058b629de8dda51e3c8491d84627f17e43ec5a902f26f4257127]
+    ├── p-ira571.vom [c55894f18118ad81b3c94ac7708391cb0037edf2c9077217200ef50fd377e557]
+    ├── t7.vom [f3b7d17700f378034daa9f8525700efd9272bb34bd0b71d01633071d47e759d0]
+    └── tf.vom [478fe3a0f593162416b00197b399f57206d577025660e139fae7b1755820ce0d]
 ```

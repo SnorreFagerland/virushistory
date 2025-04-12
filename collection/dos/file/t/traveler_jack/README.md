@@ -3,46 +3,46 @@
 
 ```
 ├── 0821
-│   ├── debug.vxe
-│   ├── nov11.vxe
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   └── trace.vxe
+│   ├── debug.vxe [10746464ce619afe1accf9e6ac136314941a36f65e08d58add1736862b267001]
+│   ├── nov11.vxe [394514da64496ebacc689356825b5de1b51b0169e540a4a209366df31eb28892]
+│   ├── t1.vxe [47719b24dd06effc48800757e8a0c1d9d2b67a3e13acbacdb7cc8a9f5061fb8e]
+│   ├── t3.vxe [1469cc5b0aa01d7f86c92dcac833310fb0dee56100714de15d347e804754901a]
+│   └── trace.vxe [f03327b25e01c17c23d131ee95259a9536248fda8fe6385cc69b87bca3d5dcfa]
 ├── 0854
-│   ├── trace.vxe
-│   └── trjck854.vxe
+│   ├── trace.vxe [1286f3495a2c210a6604222fd89358c825e6c8df238379f183ccea7167bee80f]
+│   └── trjck854.vxe [92ebc2425c88aa61d80bfb7a32bb35a13d74e8a28913f8bbc7bf5fab9b440255]
 ├── 0868
-│   └── virus.dos.secretform.868
+│   └── virus.dos.secretform.868 [ac27ea5fd2f0ecfbe5f123394aa7b3d255803352a0a0a53521fe12ac6ad1d266]
 ├── 0883
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   ├── tjack883.vxe
-│   └── trace.vxe
+│   ├── t1.vxe [6936bceb246a83e22e6a3919ac066347cf7aaef20f47fab65886900cc20012ac]
+│   ├── t2.vxe [6b0ebe159606904c3ddbe4d4264bf33238687d499247f787f4ac90fadb8519ff]
+│   ├── t3.vxe [0422044eee87d317289e70b7867d219f39b7bf4ab1e9e4ad549878aad90b4acd]
+│   ├── t5.vxe [d36ded94cad05494b8d9e958b1b69efe78e835dadb21d2905321499a2ebd03a4]
+│   ├── tjack883.vxe [87d8c5a62e41827ad56bb5f8fc30f774ab75078ed2e78abc2a198c6d873663c4]
+│   └── trace.vxe [cd54b3a6c55dcd0d7e0d0b582544b45233de61699bb56790abf7c06449a872d8]
 ├── 0979
-│   └── virus.dos.signed.979
+│   └── virus.dos.signed.979 [a90a7920951821090c75431707729333aa7144037a947d35a49e6c4a5bdd48d9]
 ├── 0980
 │   ├── a
-│   │   ├── t1.vxe
-│   │   ├── t3.vxe
-│   │   ├── t5.vxe
-│   │   ├── t6.vxe
-│   │   ├── tbweeder.vxe
-│   │   ├── tj-980a.vom
-│   │   └── trace.vxe
+│   │   ├── t1.vxe [2a6d71b1e8deafcf07b47616cdd33c96c54eccf39234c7e7a6c1680e48be43b2]
+│   │   ├── t3.vxe [a43a3eb1e48d4b5dd7d55ee15fc136b59e41ce99646bfdcdaf785c89b3b53314]
+│   │   ├── t5.vxe [21691d21708130ad69d787627937046b85f6de152c8a0497bb9efb2ca3c267af]
+│   │   ├── t6.vxe [6958eaacb9856bf44cba67032e1d5dae1c9f8cd3696a64206fd4f3ab6f899af7]
+│   │   ├── tbweeder.vxe [498a9e19d0f3e2017a89ca12d93e2e9088751c60574f39ecf585a58207db7c39]
+│   │   ├── tj-980a.vom [01ea063ec727718670dc7d896fea9f7f045b5803d27ba4b1527ff41f0b75c9e8]
+│   │   └── trace.vxe [37c992082e99cfa7e2027fce84278ab897f70cc8bfeb99a04d7a884358bc3e49]
 │   └── b
-│       └── virus.dos.signed.980.b
+│       └── virus.dos.signed.980.b [e0744c41ff37db90b44f31ed67df89c033a988688a5054499cfec614c0a4a392]
 ├── 0982
-│   ├── traveler.vom
-│   └── traveler.vxe
+│   ├── traveler.vom [ccce9991ba9f045dbf539f5465e20b626d94c3993a458783604be6742b3df760]
+│   └── traveler.vxe [867d92a50f89c5f48d6558ed47d11e788226ffb67c8ce0f0e4c734fd1ca913a6]
 └── 1008
-    ├── debug.vxe
-    ├── t1.vxe
-    ├── t2.vxe
-    ├── t3.vxe
-    ├── t4.vxe
-    ├── t5.vxe
-    ├── tj-1008.vxe
-    └── trace.vxe
+    ├── debug.vxe [e7da4852426035ca513edd78fc7222fd022fa1aa190096ebfaeddba125218861]
+    ├── t1.vxe [b4010bdc9fbcbb047eb9fa929ddca639084bf2a605aa137f589bdac7e6fd8e27]
+    ├── t2.vxe [c7f05aad6bcaa2a42fe03722c9dd6d799fba573b90aa989ef0270d41c29f1f44]
+    ├── t3.vxe [474f80f353df7c75bdbbddff6bf07aea046e5d02e4a87c7d7b98fdb6817ad429]
+    ├── t4.vxe [0f6c33378145c17d68f6d8ae8b65e53e1a3c5e50835ca480da3e28bf51f82ddd]
+    ├── t5.vxe [ed9331c555989ec249d22ef1c858a3d0a2c8160a9491b10f21c87b8d98de9ea5]
+    ├── tj-1008.vxe [861039ae840c66ca7001c6157dc3d5aba52fbd80819dfa96157e1c54d3b6058a]
+    └── trace.vxe [d1a5bf06a6ab430b6f414e502431c64d02567bb2668fcd82bfac72c9429f0129]
 ```

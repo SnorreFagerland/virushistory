@@ -3,15 +3,15 @@
 
 ```
 ├── 1000
-│   ├── 1-li1000.vom
-│   ├── 2-li1000.vom
-│   ├── 3-li1000.vom
-│   ├── 4-li1000.vom
-│   └── c-li1000.vom
+│   ├── 1-li1000.vom [61bfa0bd369f5159fe704759525c65abf2fdc655e3c75892662a3366348e8bd9]
+│   ├── 2-li1000.vom [fdd09b84596bb265bd55ff88da2aa3b5f3b938968384634db2a4dd3648479400]
+│   ├── 3-li1000.vom [30880a9d133b88debf9b2f8a91cd29f285ab5bf68381895c7501cae3505b9530]
+│   ├── 4-li1000.vom [63d76296c406d84e3d09dbfcb14fefcc1ec68e64b88494f7001183e652433f5b]
+│   └── c-li1000.vom [5293d626e4cb2109110be6b8d59abca625ec60fb8b2e121a2d7eb61515cd54b8]
 └── 1465
     ├── a
-    │   ├── little_r.vom
-    │   └── lred-a.vom
+    │   ├── little_r.vom [4544c49b0859c70d2ba65fe8e092b96345474c5d0d95615461c07097c992f0fa]
+    │   └── lred-a.vom [88716da48ce1937e85ecc622648fddd4c59fc51d899218563a96a57ff0d199ad]
     └── b
-        └── wci0186l.vom
+        └── wci0186l.vom [7ce74b11191c90f6e865091aa553e1d2d35f7604a7734bddf31a3eb1732eaf5f]
 ```

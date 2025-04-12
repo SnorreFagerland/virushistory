@@ -3,21 +3,21 @@
 
 ```
 ├── a
-│   ├── got-627.vxe
-│   ├── gotch627.vxe
-│   └── v2705.vom
+│   ├── got-627.vxe [e6fbd5f316e23db3f474835ba6465cc8bdacec065be442e70cf910e71551292e]
+│   ├── gotch627.vxe [3f496a9ab9683b6b2c04f390b5af71e40641ab4e49e4c36ba981bba788240bc4]
+│   └── v2705.vom [c437088e7fe02bc13921d622ff16af7b55b36db6917e18de90841b42a0015d69]
 ├── b
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t7.vxe
-│   ├── t9.vom
-│   ├── trace.vxe
-│   └── wci0094g.vom
+│   ├── grep.vom [192e89b402280ba166d53d69abda3926ae736f0a64a47015e1551e19774dc08b]
+│   ├── keyb.vom [7ad1487914c73577a1e9cbe7aa9bb88189d823278364eba91aa92296621f9595]
+│   ├── t1.vom [071806b7fa70ae75c6f0b17fd8663f0bf3581cac4ddafc6aee1c5db494574c1f]
+│   ├── t2.vom [390c143edcaab84366dfef47c7a0638d4947e39ee355370234372e18198c3cc2]
+│   ├── t3.vom [677a6a476f3ccbcc3e8b5413978ad53a4dbfacf49650b704e9c586e4763a6f8b]
+│   ├── t3.vxe [b27de89994dd2c215fc96fcfe52aa238457ce6a1df9445a5649de74096c3a224]
+│   ├── t4.vom [6f244152c01e3658c607f473b7d918d008f97f1d060918d3c1f42edbb19cc840]
+│   ├── t7.vxe [ae4b0fabfe7166b12b801cc2c2e16e411457b41b7d92c5a5ddffa55c7b1b87cf]
+│   ├── t9.vom [b50e9e89a2202885ea8cd9aaf26faa0af9f9cb34346587df5b793b652da3079e]
+│   ├── trace.vxe [ce743bcacbda47b9fbfb1897756cc8ff54cf870ff7288759cf828877516f83db]
+│   └── wci0094g.vom [ff620784c6ee3fc1711a34178702b3cbf628f0f4e2fa8863db84d577cbc3452a]
 └── c
-    └── virus.dos.gotcha.627.c
+    └── virus.dos.gotcha.627.c [3d34501ff07f3c5e1393c98587b787a90fa9e8e01676ece46dd7f3e4735cb053]
 ```

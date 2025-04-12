@@ -3,47 +3,47 @@
 
 ```
 ├── 0811
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── t9.vom
-│   └── wci0071r.vom
+│   ├── t1.vom [2b8249ebd6e54d516960c9df1ae590e9bcd8e4fb5b8659db539ea0c7751d28f7]
+│   ├── t3.vom [4158a16bf96ebc79642a785b835547cae9e59d213e34debb6fd5817ae766774f]
+│   ├── t5.vom [3b3a993af55a9aaac07cfe97d826838f678b64e91e2a4851847f7cbc5b273a24]
+│   ├── t7.vom [44193a260ea364c3d2681804f572512b8dcc328d93980ea62aa0091533f6100e]
+│   ├── t9.vom [fcb7d31b13c12a67c935e12c1ec9da5f2d85fddde5e7e17a1594ba955df15d09]
+│   └── wci0071r.vom [cc811e45c8d4f886095aeefdf93ea590149e1e3dd3c905063e3ab5f61248a4c4]
 ├── 0816
-│   ├── remem816.vom
-│   ├── remember.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── t8.vom
-│   ├── tf.vom
-│   └── wci0072r.vom
+│   ├── remem816.vom [768a44365ab86af08a9d4edaecba5f6bfa7c3bb0a3103032a5c681d84f09ce4f]
+│   ├── remember.vom [1fcd6637f61849fd860012c3660d6f41e1df3e2fc484fc5915ae4291f021b5c9]
+│   ├── t1.vom [2f571ca7168da065fd76bf66b9f63505fddf8014a1532467df6e526f6629b52c]
+│   ├── t3.vom [818f16e763baf84bbde2cb6af7c43313aef90318f8c57f52576ccda5e43a64da]
+│   ├── t5.vom [29d77f0aa40c2b5e7af3c78820a5a71266efffbd5a942d3a4e7f76d175b21dee]
+│   ├── t7.vom [0b28e6688803da5c58a90c0071d9c96528b03724ceebcd030d9631a3727e2da1]
+│   ├── t8.vom [167b636e1b0c1da6e50716d74c3021ac23ee17ed28520688a57828c5fb7e843a]
+│   ├── tf.vom [24fbf8516cddc5802b748cc093d0d969460854e581b87ec8cdf74ae0b6d1f889]
+│   └── wci0072r.vom [f8e699f8a93c86af8d6f41bd6200b34b209a3007b72af6fca5c030c0d772cc9a]
 ├── 0818
-│   ├── remember.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── wci0073r.vom
+│   ├── remember.vom [20c3e2170537a047a17454616be034b74d608eb7fdf5eb8f706949bc9aa50813]
+│   ├── t1.vom [3d3021fd91c60821fb91fcf0181f6e64a2997539f8aad030caf2feebfb9bdd9c]
+│   ├── t3.vom [563e5882745b17bfddfdfaa306995fcfd10a7cb9a73a3b5941df7d643f7784e5]
+│   ├── t5.vom [de032525aefe7d675797a7dbc05524e31f372a327f5c51820604afaa5b2a97ed]
+│   ├── t7.vom [30a04fbec2d1ad283893ab12ceea4170aefcf7ad50c26a3ca88d534b413b321e]
+│   └── wci0073r.vom [8219868ddf77e71ddf6762af6953f448cf1b3039e71b3396bd5e485e95094eb4]
 ├── 1277
 │   └── a
-│       └── remember.vom
+│       └── remember.vom [bdae83d72488581847fe042b76d45bfe5d7e41aa883be7ff0549cef538a108d7]
 ├── 1283
-│   ├── reme1283.vom
-│   ├── remem4.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── t8.vom
-│   ├── t9.vom
-│   └── tf.vom
+│   ├── reme1283.vom [62ca0051aa37633be4f39fd54c9709b5951c2e99bc35131d5c571511f0b71b06]
+│   ├── remem4.vom [7e3c79173db8075ac835ae5653e1fa8b9af1304d123e14f137bab72f758a52c7]
+│   ├── t1.vom [9645195dbdb15e927ff3474cf4c3f1b81aa7e4ab36252f95e4f2d2750bc427c9]
+│   ├── t3.vom [5885a190e6e5207a48c316c58a096a7783f17ec37ed99c7c02b91637daf87a98]
+│   ├── t5.vom [704cb6e7ba7f5f5cd51df866d4b8c5d55d5037894e5a9b64c5d64a335214d4da]
+│   ├── t7.vom [c8735884931f7e7c9db79dbfc546702e3e0b92847d8678350b3b862f5563cd5b]
+│   ├── t8.vom [9112ccf86d271cae178b4522446db20dfa5dc9f0be1230b6bdef7e3bc1a685a0]
+│   ├── t9.vom [c7a6342676e826b8902e129b5e18bcb1af0db07f14c4a188a3cfb1ebcf101261]
+│   └── tf.vom [f703b1b2481138ad9c0f476119f4622087bbec73cc24c5fa24f47a6d06641755]
 └── 1287
-    ├── remem4.vom
-    ├── t1.vom
-    ├── t3.vom
-    ├── t5.vom
-    ├── t7.vom
-    └── t9.vom
+    ├── remem4.vom [42257e6d315d31b9599e789802782c1f964d79da2150f2842b58e6d5b49f651f]
+    ├── t1.vom [bf27fc1c9c7296c9dedf40b86515bfff273bbbc5cbfe8ba3cffd88200aeb0e45]
+    ├── t3.vom [e8580e344f6db32ab676285c08b03b3f3a46090860969a1ef2e3071e6209d053]
+    ├── t5.vom [db52de5c643b41b5e32d7006612f4d95b20fce915b3c991ac41469d63df61c2a]
+    ├── t7.vom [93d114c7687b6f9b09e8425a2759e33ba2fc5b459f6e850c5a4bb4bb6decf5ef]
+    └── t9.vom [eaeb46e0a369c9f89f3102fcbca1cb00029adf17e8dae8631d3dc7af216f900b]
 ```

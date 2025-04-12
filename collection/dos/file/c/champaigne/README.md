@@ -3,139 +3,139 @@
 
 ```
 ├── 218
-│   └── virus.dos.cheap.218
+│   └── virus.dos.cheap.218 [f31976f37526939e4aca728d000b685514020a7c72f5d2214d501023044c256c]
 ├── 445
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── wci0104c.vom
+│   ├── t1.vom [2a183d71c7788039e8a634bc2997dfa3faaa282b58ae54abee606d52459250bb]
+│   ├── t2.vom [c851703b0727bcdbd9eba24397d6f71673e00b309e3befac3a1cb4cdbc1fe5ec]
+│   ├── t3.vom [61cbaf44287a25aa6f23d8577762b3ef129b2402ff9f2c27e6a195b4e06a1f77]
+│   ├── t4.vom [e42130ee80241777ae7329bc32b4cb8cb9e8b45ed4c9e4192a1d7fd6f87bd481]
+│   ├── t5.vom [8b1191f32e687ee49c5790c7b7a7e40c8fe536205884d30c7b5c2008404a6ada]
+│   ├── t6.vom [8820a391e790e71e06b5c272fe85cc295f60f2ec7483a2f1df87567613eb1195]
+│   ├── t7.vom [a68548a2cc1b317a11be193f814974aa33fe767844f2b30cf7a231b63d83444f]
+│   └── wci0104c.vom [37983a1820ec7c6904cb842576f76cf151cd0dd3df2795aa5d0deaba85d6fa80]
 ├── 446
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── wci0105c.vom
+│   ├── t1.vom [960ff66c7eac3cac5c5da8bd00d2dbaf151d378fdcdac3bda599f901f2d0650e]
+│   ├── t2.vom [93b3da291e20632ae37efa26ddcfc1d11ad474e70f3b868a9f4fe5c2b8115eaa]
+│   ├── t3.vom [43c11a11330a4ff83fc8b8ae974cd09aeed8a136ba1144a7af59d482be74726d]
+│   ├── t4.vom [7a8ef1691a42e49586f25d4b6ecbffa6bb6ef3c7830c3b415d81f496f047b549]
+│   ├── t5.vom [bc6b1fcc9dd1c02e223ca4b4ba73cc925d329c9588822c3bf6b821b1a99255ff]
+│   ├── t6.vom [4ee3060693427a96c79d0f41fbad616bf606d668c1378b0c0e3a8a470f71afdd]
+│   ├── t7.vom [c77462f9539d55e54da5a66ad5310bf18bf8a355da18f470630bb59612092b86]
+│   └── wci0105c.vom [7e5f9782a5b0e595d843c09b96d8d99ae7805b0484173db8cac6db6003a0b171]
 ├── 508
-│   ├── chmpain2.vom
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── t9.vom
+│   ├── chmpain2.vom [2a8aa50dead112b58004525cdedd88e9e130bdd227dd28387245d3882063f8c4]
+│   ├── grep.vom [4db4d2cf2573c49decea9dc26ae9bf0fc013958eb6cf483a9a5b7e3d4e9060c0]
+│   ├── keyb.vom [4395896d1347b04a16c155b654622824a964d9a43f3b70b6d0194b0e25ec55f9]
+│   ├── t1.vom [b81e6525b79e78dd01bdee0ba0444efa9efb701b1f09de6e3476055437ca7919]
+│   ├── t2.vom [186385f9837335b15473176a6373df5ffcc2ef6829dc2e3156cd56e3df51a014]
+│   ├── t3.vom [00ba999abbb908cec5e76e0ccf214782b2667b17418cfe60aab1024ee04400a9]
+│   ├── t4.vom [63ff039be2e87797731b6b82009fcd39b7f602e6a95cf4c75434d622336e9dd9]
+│   ├── t5.vom [0a7620a5b6e83479d87521997da1eeb88cb4100c96abf5179c6046ef68d040bd]
+│   ├── t6.vom [9046d38ec8dbf9065af2e61e0c19dc87969f286550afbf2015a55c5b1982ea1c]
+│   ├── t7.vom [b8f08ebcb6aa10d3e22893837b1ed2dbef23f64cf03abcccaf5bc520fb03a243]
+│   └── t9.vom [a30c367035cff95558d0762fb9da5f835d4fed3c5f8b138248a9c3d8ebfdadf8]
 ├── 515
-│   └── virus.dos.champaigne.511
+│   └── virus.dos.champaigne.511 [0dec3feaff84cad8f167b5b77d13b5f22c54b5821693273fd779da74de068dc9]
 ├── 523
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── wci0107c.vom
+│   ├── t1.vom [40b3576b727b874e1dcad1dea2d8d7a65d8f3930909b5606876e90bd57bd770c]
+│   ├── t2.vom [136814b14e7593468fbf1b8b3596f6bcfe3d2a86325e31f7bf0fe86f247c9287]
+│   ├── t3.vom [bc608a6afcf6c40f185b57a58b608f48b08e3f5429b85651e4a735c21764095e]
+│   ├── t4.vom [4584c814f5fcd900b62ae0a6c821be093fe532d79189ac93eb0de101c8211989]
+│   ├── t5.vom [d5f31ce2e1cdf440c0ae97cfb4b3f035531fd442e996786e55fa819cf140ccd7]
+│   ├── t6.vom [4bcb20998e2ebeebeccce1edf44bc354d630a25e6a4a97fc9745ca5e905899cb]
+│   ├── t7.vom [736062515a05365e7a9ba9c01d02f62fa4c9ea4ae6628792eae3c683ecc3ebb8]
+│   └── wci0107c.vom [5606aa23c69e425d0027b4e5c73b3b93d1e0c85d350b1663d29957ca5245ff96]
 ├── 527
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── wci0108c.vom
+│   ├── t1.vom [2d9fb707d02b3574508b185c52fbcdacb45fbf5f651bd58d98aa1f71e94e42d8]
+│   ├── t2.vom [9ebd912b53c51b04755ef58cf7795003b0e634676a23258c809fa1f7d908369b]
+│   ├── t3.vom [cb55aff1cda91c025bed075bfaea4fc59e4821732b98c435fc236f4544055fb3]
+│   ├── t4.vom [c72f7133cc0adef9543d40166f8f55a35f02760a6061b98f1e238db37bfb5d99]
+│   ├── t5.vom [4d772e0718e7b4d1d3b5b22c2e66cccd031e0bff58d7454d016fcd868195f96a]
+│   ├── t6.vom [98a1b7b398d3713a4c13ecaefaf449d819e5b54c49bd9998b3cd0ffd145b819a]
+│   ├── t7.vom [c339b4a39eb57d656c1cdcdabc94ae42b583f37681b9d6632aa66405ff5de137]
+│   └── wci0108c.vom [94ba06faeb57bed0823f107e5daa0ece42d39c79fb4661106d38a9c821e0f507]
 ├── 542
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── wci0109c.vom
+│   ├── t1.vom [5816cd517deaafae65136c738fa2b450be19059a2ac80c2cc5bdaf8a934b647b]
+│   ├── t2.vom [be2f83bbc4e39f85545edfd8e6108e312d593270f0294d74f9aa1f7cee05acf0]
+│   ├── t3.vom [67157cff47aed0b166892965e8e6ae35622f0b2bbfa7810a4e72bc74e966f798]
+│   ├── t4.vom [9f70674be882de1fff8fab8ca23849081a24f91f9d2acc9f85cd88a52856e0ec]
+│   ├── t5.vom [efab67099fc1276add89af00fe9c6f341b2fa53fa22ba2dd96b6a2f1e93d904b]
+│   ├── t6.vom [fe5e5a0449a2589e66e03b0e6c5721b843c22ac7e6cce002ae8fd49f87002065]
+│   ├── t7.vom [63a9f66b1e76d2c13a64963d15820208e98ddc61d6dd2015e50197e443bfbf34]
+│   └── wci0109c.vom [a088238dc524d77fc4a53974eb9cab34e6a9d466609f42e8986dac62b942ae33]
 ├── 585
-│   ├── 585.vom
-│   ├── 617.vom
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── 585.vom [9150ef3e78ff51422e830576736eca3bb1d5ad90b57bb6178efb895690e0e6a8]
+│   ├── 617.vom [c75e11a751fc56f28de931e2434c4a58d926a909c0d7704a34f0ce1d5e049a50]
+│   ├── grep.vom [843d6ba7fc092b72ddd020837c4cf38651dc54e7a9915307023c64737bfcb390]
+│   ├── keyb.vom [dc813ae0a2dd8029004ad496e7949881807ea224860d6fcecbb810e24abd4296]
+│   ├── t1.vom [9ded93d70781935e914b856091c01168ce0908bbce62bf01f7bb862d1695477b]
+│   ├── t2.vom [c3b7b2f7e7aeb55ec9f6a0d725ff75c8fcf3fee8aad964cfd5078746ed45b80b]
+│   ├── t3.vom [7f31ed20c4813062fa5ca4facf5c859e1e4659a70ce1b08a21f180157679ab78]
+│   ├── t4.vom [e2066a3edb5253a4d2c8fd23d76595ea3b241e8ddae65506d1dde130b06a4828]
+│   ├── t5.vom [14af1e2168b4a16ae4f6525f4e4b94eadf95477a29522593ba8373451c25015b]
+│   ├── t6.vom [7b2793a094b96200b079666496d8b98a96a10cde517524ec4dd5b3acf8893ea5]
+│   └── t7.vom [cd4bf36de8db82f86927c2cd52c3a4ae23f89ef2652a8c4752b1bcbcf61ad266]
 ├── 636
-│   ├── !459.vom
-│   ├── champ636.vom
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── !459.vom [4f189569573a526d9ef35c99fe61b201ed8e956b42cf17b92cdcc063f832ab6d]
+│   ├── champ636.vom [5551afbc0162bcf939c45aff1e1346370f3aea71d71bd0977bcd485fbaba0fe9]
+│   ├── grep.vom [ad33f0d266b514b86e19d450247595b4175c75c6042024b4c31bee8781f1ceb1]
+│   ├── keyb.vom [11eca01884256b741ce39730ab246c8f7c699a7c3eb71a195e218a99a9a8bdec]
+│   ├── t1.vom [cfb34be2353a662a697403c3be482fea75022a40e508539660b78d7e7fe068e6]
+│   ├── t2.vom [eb5e4d701eda476d870db6b4088062dce1787403122a32ccbd5a1ced69199ad0]
+│   ├── t3.vom [5026f289ff2c30924c97159987d627a49c45fe5f88a259eb211a145ba721edba]
+│   ├── t4.vom [3555f8fac980cef64c0867dac27321d78aa873dc826e94ce70ff49d87faecf34]
+│   ├── t5.vom [a75623a7ae7b4012fd4018558198a46fb9093bd3b6d8f808813bbc5f48823cfc]
+│   ├── t6.vom [55666ce2beed255b15c4b069ffee640547ca4588e83b1c4a78c091eb4c98243d]
+│   └── t7.vom [d88b1b578fcc9d54d6aa604ea45403e4babe2a9ebaa1faa01b2c3455cec896ff]
 ├── 658
-│   └── virus.dos.champaigne.658
+│   └── virus.dos.champaigne.658 [10c72d711fbcf42562925efb83f91a48f8303bf7e8ea1de9db873231f07f7b50]
 ├── 691
-│   ├── champ691.vom
-│   ├── chmpain3.vom
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── champ691.vom [9cff7aca41c18a0f64c14694ed545bdf2bf63baffe79ff1ae90307808592cf81]
+│   ├── chmpain3.vom [717cacd0029c9c6982ff63311116b7ea550a926a65277c71d61a923ad9ded1c9]
+│   ├── grep.vom [d9603e3d5fc51755d728de4512e1c8b943902e4525fc7fb0ee40bcf66f6855da]
+│   ├── keyb.vom [ef9b367d99d182faedc13fb2c46a1d3fb00c99fab1134fc4e9be6763a371f96b]
+│   ├── t1.vom [e4ebba2cb33411cf97fe7a5b56b83b4baca610c80aa83dce88fb9c32d69873cc]
+│   ├── t2.vom [0f5ae4a5cd1e48602a2cce34fe90a4d4eed00f876110f98c90fe43cfa28f78d6]
+│   ├── t3.vom [61cfa9986e1bfdc61eef22025c38f50db4d6f856e697a71b4146886403733605]
+│   ├── t4.vom [3c27a3d0da0f09ce0337783d6c2496740c14d57867a8b2d6ba814873bb561031]
+│   ├── t5.vom [b61fe4817d10d0463247eac3b05737af8f01ae219a1dc1c3dc097c9e3b171876]
+│   ├── t6.vom [e955bf7ef70ad0279e83774068e3440ac3c6ae3f4d27e7791b0fc07eba298a69]
+│   └── t7.vom [e9fb4c96f595524640c447dbddb2945f174d068915c5cd245326bc34ee9a4979]
 ├── 692
-│   ├── champ692.vom
-│   ├── chmpain3.vom
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── champ692.vom [e0f6889f8fb1f6206b234dfd4fbc99df673d96ea67d205c4ce6e0aee04be0f92]
+│   ├── chmpain3.vom [939dd0e4e5461e7371859a2d4c24e67951cc8c4505e6950be0d45d798f0752d3]
+│   ├── grep.vom [57d09be1b6c32194eb1a43997b2caebe8b6cade778a28538fdf1213ce81a102e]
+│   ├── keyb.vom [0eb10443fa1183ba226546e5b65efbb29263d1096e704d9c1776008b122bdab6]
+│   ├── t1.vom [afdabbe36ccbbbb6e33d2309cac31181928253e39f2235ef553b3aa2d46dd132]
+│   ├── t2.vom [b7c24cfcc4c1fac5c664fd78114b4c66bfba9c40361009e33a1f43caf3527ea6]
+│   ├── t3.vom [a317f2a94a1c6037d30101e51b73be2b4e7138572b662cae01662fd9725c0943]
+│   ├── t4.vom [64e29d36765aac2c8b526cb693be3c4a4608517ac7a42e42eea2a0d6a901c0c9]
+│   ├── t5.vom [a88b20d86bc3df6300a1bf5e3581732d7fd33aa5face542311a5ff19ca7a6f77]
+│   ├── t6.vom [616d24035d2cfea0e472378af93cd67864db18b4167d64db393007e1f10ab2d3]
+│   └── t7.vom [97dd95a969580d0a93f9afbb0737e0a444dcbe86acb320e12d289733c22e60a8]
 ├── 696
-│   ├── chmpain3.vom
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── chmpain3.vom [e709ad4f62181def49a4c5afa5814d785eef74b29638abfd3a9cb658b4194a12]
+│   ├── grep.vom [c38a575bf9921a1a781af12f3f9a083814f9815c03a7916f61f5f00a26f4b493]
+│   ├── keyb.vom [9eb805a3dbf82734a812ac14e6780d76494c41f43d3816e01150f306c275890d]
+│   ├── t1.vom [9a6f97aba2d96d6da24a27182d6cb5744bf851a64b8d78fc2c41e6561dc89f6c]
+│   ├── t2.vom [afe8a936b39a3205be11a679af9098ddc95ca348f40e26b13369218f2e0f3d69]
+│   ├── t3.vom [bc07010986f7858af7509c58b02da5989c342fbb6a733bf0e435345796590ad5]
+│   ├── t4.vom [3672abe0975943bfa5ffe016848b54c51cc6665c69ab6272c9874f5d83a354c8]
+│   ├── t5.vom [8a578b569025c270c0ce2b9dda5e18b88ac0c7b17c15b898dbaaef255ab7d641]
+│   ├── t6.vom [cddbd8cf8983c42149ea5c4c7ba77460a6c065c708ce48d672196447ad978117]
+│   └── t7.vom [45dd8b17a2fbb2fa683dcb6a6968c40988667b7a6fd327b2800abb91ac325bf8]
 ├── 706
-│   └── virus.dos.champaigne.706
+│   └── virus.dos.champaigne.706 [0ff1bfa5bf28a49ddf1b94ccdc923ca5a7f6c3dbfd27005e62cf13b63c94f664]
 ├── 749
 │   ├── a
-│   │   └── virus.dos.champaigne.749.a
+│   │   └── virus.dos.champaigne.749.a [a0d6932cbd0b8ced2365cbdd20dc881dcd61fa9f201e1cd2beed787d922ced48]
 │   └── b
-│       └── virus.dos.champaigne.749.b
+│       └── virus.dos.champaigne.749.b [32a9b098f3d66fd44f99e4f31622323ce9b3d42f028e269d6a01195a04e82615]
 └── 815
-    ├── crack.vom
-    ├── t1.vom
-    ├── t3.vom
-    ├── t5.vom
-    ├── t7.vom
-    └── t9.vom
+    ├── crack.vom [ddd9a4e667d4a355a6413adff9879be5f983fa18406193e0a6dd1557e7346f21]
+    ├── t1.vom [47c59b14a8305b7bfb8d6954f8fddb70265d87ea21e6e2716dda92e3e2a00d13]
+    ├── t3.vom [802ce7148ba0c6eb7e17bf0956e2206795639297e69455ba99ee33106eea1a92]
+    ├── t5.vom [fd25819ce801066da2505118eef0b1bae7c4096904f5cd38f3340345ca9f1723]
+    ├── t7.vom [9729116a2b8db167c5e96eae405dd805fb61e215ebcf7d9cb2ae07526c3e1e43]
+    └── t9.vom [80e23964149ef9790afd970ca2808c3060a74d354f6ddb2b76ce210122b3d1b6]
 ```

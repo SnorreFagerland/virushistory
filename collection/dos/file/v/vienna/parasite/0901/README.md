@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── v-para2.vom
-│   └── viep901b.vom
+│   ├── t1.vom [645f0624e1eee8f5ceab16892357c12ec8dcf39706f652738fac4867ba2c6413]
+│   ├── t2.vom [f326f986e1cea9ac61ddfff01ce29c46ae5a52951ce29f1890e0bc2cb6063fa0]
+│   ├── t3.vom [002ab24287925ad1aab423a8fe38b20f95930860fae51790b1324a7520e07155]
+│   ├── t4.vom [2451283a674e20b6aa6471c89a7f42c452225e6d554d294cbe470ee04c80a682]
+│   ├── t5.vom [4f557e89d690e331622e7fbe8a3713b27c94c21a9c65ab21e7c6f757b38c3d97]
+│   ├── t7.vom [2f5d2f9d0b3874dbf7efa76d91234105b39db950f7868c120aafd16cf4a2061c]
+│   ├── v-para2.vom [2c4b81726034ec50e1a5b4da49d2fef645eeb7c53859876b9db9046d551d2ea2]
+│   └── viep901b.vom [05e3804ae0017f956a8f86ac2039d7251955a3ab2f2b5b496ac923e4aedd37e1]
 └── b
-    └── virus.dos.vienna.parasite.901
+    └── virus.dos.vienna.parasite.901 [d8bfc366698d3dee9984547c1aae8571598fcdac64907f3c717233901b4eed29]
 ```

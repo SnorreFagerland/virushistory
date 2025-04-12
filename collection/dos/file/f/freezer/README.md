@@ -3,20 +3,20 @@
 
 ```
 ├── 830
-│   ├── 1-fre830.vom
-│   ├── 1-fre830.vxe
-│   ├── 2-fre830.vom
-│   ├── 2-fre830.vxe
-│   ├── 3-fre830.vom
-│   ├── 3-fre830.vxe
-│   ├── 4-fre830.vom
-│   ├── c-fre830.vom
-│   ├── freez830.vom
-│   ├── freez830.vxe
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t2.vxe
-│   └── t3.vxe
+│   ├── 1-fre830.vom [e9a52588dc75a90af37b3f2405ebb04a75e955d6ebbea0de4cddd97543741244]
+│   ├── 1-fre830.vxe [dc967fb37edc84c48289d438739490ce5d72f38418c8fe53a9763073850ad18b]
+│   ├── 2-fre830.vom [8836a9f60b572ed5a95f8e6a514e540e266191d0eb0da2c21b87fa77f9193a33]
+│   ├── 2-fre830.vxe [bc2d3b9cac9e34e144374d5b1f5d67d7a8bcc4dd39fa1bbd7d43eec1c2400fb7]
+│   ├── 3-fre830.vom [64a13fc295acac5078a92efe2cac4a5e7b28245c068486696869901bc2fd9413]
+│   ├── 3-fre830.vxe [edbf072eef05622f8f524ef573bd90d2c11e3b488613f38a8746b83c25c423f1]
+│   ├── 4-fre830.vom [b7ff86293fb2c167e44675bb835b9a08c37f823f3f3e9d7a44d8e80528074de6]
+│   ├── c-fre830.vom [2aec7c83f32791348e3c54b8baad4e52744b9d0c1081d772f4d535902d5cef3a]
+│   ├── freez830.vom [fc214e8e56e777a42929fc3bf83806ea5672156da0cb89ab559d4153c5333b0c]
+│   ├── freez830.vxe [49e2689281da035156617c127535b238c0e96bdcadc7226680bb90e05790457b]
+│   ├── t1.vom [5a8638501c537cda1bf0847d6943dec5db2a596b060650dd6816a35e52c85457]
+│   ├── t2.vom [438b97c5a1e7601d62bc20c0196c71423c0f0675fc25db6e23a500a4cbda95f5]
+│   ├── t2.vxe [c061204637aca11018bba79e868e0e13018b9c5fcef6ee4110e7a77de54b4ea4]
+│   └── t3.vxe [3585e802705c478ff3787a59697aa8c65cef63fe77c4b276248a49296eeb8b14]
 └── 980
-    └── virus.dos.freezer.980
+    └── virus.dos.freezer.980 [2fed7b2b4f6f8e34f1a9ea3fb585f226a1b07332fa8df46a4c450e64daf17c6d]
 ```

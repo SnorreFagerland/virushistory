@@ -4,10 +4,10 @@
 ```
 ├── 2048
 │   └── b
-│       ├── Virus.DOS.Rycho.Babol.2048
-│       └── Virus.DOS.Rycho.Babol.2048.b
+│       ├── Virus.DOS.Rycho.Babol.2048 [2af0be46afa36378189d9ba9e998648acccf28c4935234069cce1a73fc4fff5d]
+│       └── Virus.DOS.Rycho.Babol.2048.b [b77ff9a54d7ae3e029296e1d43b566b578c2f1683e69dde8e774b7c1a71f0a0a]
 └── 3072
-    ├── t7.vxe
-    ├── tf.vxe
-    └── v-3014.vxe
+    ├── t7.vxe [2dc95c4ead342b5605663c991339385d4a2b2bc4fd037c31a0eb1a24d7601e2d]
+    ├── tf.vxe [f2ad03056faed60cd34bdc7d835f24358ca6ed499e0c306b39c465cb3735b02d]
+    └── v-3014.vxe [580d30cb7e5573261cf2e86f1b4a1aec56a7e8c443a799557bdc5071215fd642]
 ```

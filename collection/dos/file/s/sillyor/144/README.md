@@ -3,20 +3,20 @@
 
 ```
 ├── b
-│   ├── anticom.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── t9.vom
+│   ├── anticom.vom [cb15d107d110064a1d03fbab65416c68593720355669cf9c3c109c00cc45e097]
+│   ├── t1.vom [f53f5138523b77547d7a4dfc78cf4333e95b7f8b51e7b5090964c7564e9906af]
+│   ├── t3.vom [58e7bb0d49be9632b1b91faaf3919d8d77ebfae774b4e454e9c446b40c1cc7e4]
+│   └── t9.vom [84e0f133024bc9463d031b85bfbba9c407259428c6459f95fd243b2e1524e4e3]
 ├── c
-│   ├── sillyor_-001.vom
-│   └── sillyor_.vxe
+│   ├── sillyor_-001.vom [93b7606df7bbcd81449bb89773d4f0651c7b94fa882c1bddb5fe93de7161f1c4]
+│   └── sillyor_.vxe [51e48214cf355fc57da285cd1d608f038872d8ae674bd31843269e6cc74827c9]
 ├── d
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t9.vom
-│   └── unke0260.vom
+│   ├── t1.vom [c28a87efb9e019f7fc841cd31907b8a995884d03f7edd376a8a0bec2137245c3]
+│   ├── t3.vom [67018ab87a06ed9ba547227b977633d95b2b9c03d04c9baed11bc8c64ae1e9ca]
+│   ├── t9.vom [4085bd50893df739f49086f177eca4a19142517948f1a4fe1e52213725a740bc]
+│   └── unke0260.vom [af6c5aa1db4742b331cd471ffd64eba07fe93a498cf5ce01044c948ba903c1ab]
 └── e
-    ├── siorc144.vom
-    ├── t7.vom
-    └── tc.vom
+    ├── siorc144.vom [23a7729f89eac8ed9c7d79489ea6497e0bda89f6b02288536d86f6fb712e6fcf]
+    ├── t7.vom [11c08fe3a6b303881ae69c62322072724412b5913803e493a0e5b924236d4da7]
+    └── tc.vom [b6118b6916c33e6c70d98eb6e1301e095652ca1951b0542c51adf331ae490d70]
 ```

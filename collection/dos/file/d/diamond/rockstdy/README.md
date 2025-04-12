@@ -3,33 +3,33 @@
 
 ```
 ├── a
-│   ├── di-rock1.vom
-│   ├── di-rock2.vom
-│   ├── diamo~10.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   └── t3.vxe
+│   ├── di-rock1.vom [43a5a87756aa152cb61d0ee027b3a24886c0f4cc70b91c07ab2389d637d93be3]
+│   ├── di-rock2.vom [ab68b0978fd52a00c3d9fd4093106b97de88090b0410fc34611183654dd2f8d1]
+│   ├── diamo~10.vom [5ad4ed442eb823b5b5548427a11bf130725c18c2dab009684c0e29b7b8cdb7a1]
+│   ├── t1.vom [cce7e7eb1c73097f9fbaf3865777c51c6a90646d5999df9dc82298417f17d3de]
+│   ├── t1.vxe [cf4909d3f08a9324f4583f5388bc24ccf1a4e0371413485e82acdbca8ad1b4d2]
+│   ├── t3.vom [c4809bb083de6694dc4c4baf4016b4472f2bb428d5dd80cbda1083f7befa4b61]
+│   └── t3.vxe [5e6d8fc37cb8a439f07c02a75df1f5cbcf339277fa7f116622b9aa10a5c19f18]
 ├── b
-│   ├── 666-b.vom
-│   ├── di-666b.vom
-│   ├── diamo~11.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   └── trace.vxe
+│   ├── 666-b.vom [42f9b486668a34ea5a52e59a317abc0c6fc3ff1ec51d5846bdadc2cea7fa96a9]
+│   ├── di-666b.vom [e1c6d43c4abaed8a1d51dd5d86e2b32d4a517cc86401238c08d2db150dec424c]
+│   ├── diamo~11.vom [85f25194ae6bc948f5e61526bf55ae62e2f44dcbeaf651a4f19e0a32254007ab]
+│   ├── t1.vom [d76c5ab851680bb6abe49720039de85d8c9a53d706423070e759029cb08ef594]
+│   ├── t1.vxe [64c85110949c27b6c2f919f9e18f7aea158e6142e388aa2914ec58cdd4cdc988]
+│   ├── t5.vom [c3f1ea08875ebb89fd04ff0699a47bbf6b09f347d4263145f6deca58c927c13b]
+│   ├── t5.vxe [3076af9802241e4b7b17d677d9cfdd67a60bef1eeedcc3a3543718cc717c8b8e]
+│   └── trace.vxe [e2d50ad496b132fca1a7225af78c96d9f843f638fe04e340ec806eff56d0d17c]
 ├── c
-│   ├── 666.vom
-│   ├── dia666a0.vom
-│   ├── t2.vom
-│   └── t4.vxe
+│   ├── 666.vom [698486eb47e44cc5ea6ed0abd72a514ad4090147f4f12a7c28c7d7de1c65f5df]
+│   ├── dia666a0.vom [d3486c32b6770b30bbb3c067bc57c8ff1ac250fd572dee361ba37d3990e1a9a4]
+│   ├── t2.vom [0d4c68b2e0f786b021a4718dfdcd96642f1c87e50d37f939087b9590de4844b2]
+│   └── t4.vxe [7a43958a5b1165baa9886257816fa3c86549a50d63ad3733b6ded77b8b1bda83]
 └── d
-    ├── dmnd666b.vom
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t3.vom
-    ├── t3.vxe
-    ├── t5.vom
-    └── t5.vxe
+    ├── dmnd666b.vom [fe26f9ef5115273b720ed936d5466515f717cb3a049ec0b55dab3ca525db4757]
+    ├── t1.vom [36145be1a4e76c1983c046f0b000fefe822dfcd1ce195dc30dfe3b63643e6879]
+    ├── t1.vxe [2c6038be39de7cc253441112a4b94a9aeef63dd330b0d4fcc9c8f557a2651121]
+    ├── t3.vom [df8dc6998debcaf289127e80d00270c88a3584e41db177aa4a4a235c4f762264]
+    ├── t3.vxe [ffb9a51e839bdfd8d0cc5bffa3e49e5f87e79841647ca63697b89e58173b68cd]
+    ├── t5.vom [37db7ee0026dbd6cbc7dfab41ef87745be78ec63965ddca6f683fefd8fba0813]
+    └── t5.vxe [f23c1ce600b7f2b24aafc763321397b01edf422870565c4b78b8c57d91544c41]
 ```

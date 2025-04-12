@@ -3,88 +3,88 @@
 
 ```
 ├── 0645
-│   └── virus.dos.beer.645
+│   └── virus.dos.beer.645 [6048d264434de9a8325550f73cf712a54affd151ee95f881926123d21689509e]
 ├── 1835
-│   └── virus.dos.beer.1835
+│   └── virus.dos.beer.1835 [49d773ec822c7db051346667478ce43e67d42d9751b3bd1cdcd2e9f19e293716]
 ├── 2046
-│   └── virus.dos.beer.1787
+│   └── virus.dos.beer.1787 [0762401d4c174816142d0ae66f4c939e69c6cccb0d67a8a7d246de8873b7d5ca]
 ├── 2050
-│   └── virus.dos.beer.1791
+│   └── virus.dos.beer.1791 [35a551b5ca0b7293c65c10a0a76b1f9354670b3201afc1472c3ae9fca0afc585]
 ├── 2187
-│   └── virus.dos.beer.1928
+│   └── virus.dos.beer.1928 [394dd4af7cb51469e9d31cfb6b7f794892c377c1ffb476752da6f5f3cce7b4dc]
 ├── 2192
-│   └── virus.dos.beer.1933
+│   └── virus.dos.beer.1933 [8e25d4a5580a5114a84c60faeef1e87a7e8d902ff1d7fa730d153f819ddcdba4]
 ├── 2473
-│   └── virus.dos.beer.2473
+│   └── virus.dos.beer.2473 [036b3d97e61f920cf4db8481b4a1124760f01bae866f3138b4b2d933f2de4e85]
 ├── 2620
-│   └── virus.dos.beer.2620
+│   └── virus.dos.beer.2620 [0d1839a96b5413291ac73b49ef575fd173d5d3ebad3b2e6060d0c0287960ed4a]
 ├── 2794
-│   └── Virus.DOS.Beer.2794
+│   └── Virus.DOS.Beer.2794 [ef71938b257247afa8c0eafa1db8d32836314019fed5f4079235256a561a743e]
 ├── 2824
-│   ├── beer_282-001.vxe
-│   └── beer_282.vom
+│   ├── beer_282-001.vxe [9e079863de982f7be1a21535e413c0eaff9cb08a2da17e383fe048472746b7ec]
+│   └── beer_282.vom [1cc8f12bc799c8fbc2777ac2a2ae06359e46f949788c5cfc864c91309f827f66]
 ├── 2838
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── virus.dos.beer.2824
-│   └── virus.dos.beer.2838
+│   ├── t1.vom [a221f91dc5bcd8ef85e0e0c322d72b647653d3337a4521242d3f75f70c19f1fb]
+│   ├── t3.vom [3e0acecb606662f164cb4d23c74427d89ecc7ace13e5d08191a0081deeaf2d33]
+│   ├── virus.dos.beer.2824 [186e258dd0d9aaccaf37a97263e3cf362bbf71d83bf2b8cdfcdd3f2f22c569f6]
+│   └── virus.dos.beer.2838 [cfaecbb2e059312589970da9952286fde263bc4869a0c693dfe89b5c2baabd07]
 ├── 2842
-│   ├── beer_284-001.vxe
-│   ├── beer_284-002.vxe
-│   └── beer_284.vxe
+│   ├── beer_284-001.vxe [52bf95e779c11f9e64d164bc1ab43b42353571ce91ab9a881f1b2a3ffd0cf882]
+│   ├── beer_284-002.vxe [6ab495f0d580c5ae157d232f193e5d75fc329cce0ae5f575a3a7d548296082a2]
+│   └── beer_284.vxe [3cd60ed78f71cea110abb472f36412ea3ae8796a34427b27afb1ddc72aae2033]
 ├── 2850
-│   ├── bee2850a.vom
-│   └── virus.dos.beer.2850
+│   ├── bee2850a.vom [e304753f2fc262499942119069bf1c42d9423bd0d76ddb075dd04d4ebfd8deb8]
+│   └── virus.dos.beer.2850 [a325d0cff488badd77d055caddfc751a7d11e1e9ae28fbee01ed21b22b268b44]
 ├── 2920
-│   └── virus.dos.kalinka.2920
+│   └── virus.dos.kalinka.2920 [f0c5f58f990e93820dd08a1f02c677c5aba6ecddc7cd09081034e223b8ecc1b4]
 ├── 2966
-│   └── virus.dos.beer.2966
+│   └── virus.dos.beer.2966 [6a31d0aa0cf870b2aa474493330ff84711acea5b3eb9bebcc37e70e3b9069df4]
 ├── 2978
-│   └── virus.dos.beer.2978
+│   └── virus.dos.beer.2978 [6519008f87e8a5f07e5c52f04821356db16eedf87b4b752b080b38c33f059ec1]
 ├── 2984
 │   └── a
-│       ├── bee2984a.vom
-│       └── virus.dos.beer.2984
+│       ├── bee2984a.vom [eaa0221f1aa5e8fa99e94155c4c93241c670c7ba3df62fa7690c30f273596fe3]
+│       └── virus.dos.beer.2984 [c42dff9e9ab974544c07293e6876949a8a4c54158efc0f7c34d9793536104601]
 ├── 3033
-│   └── virus.dos.beer.3047
+│   └── virus.dos.beer.3047 [168befd504106879c03968f72f0435000a46dfd51d63551aad0244917d491d1f]
 ├── 3047
-│   ├── beer_304.vom
-│   └── beer_304.vxe
+│   ├── beer_304.vom [b895dba2342fc95c36a1ee8c410fe1c45755c86b1d3766444a3a8c5c26b6a11d]
+│   └── beer_304.vxe [42d8e2a3f33ed91a76c6be085bfedca0cdb226d21796d90d308c926b130dd4dd]
 ├── 3164
-│   ├── Virus.DOS.Beer.3164
-│   └── Virus.DOS.Beer.3164.b
+│   ├── Virus.DOS.Beer.3164 [351f6dcb89b267c47c34924bb2473d326804c9fd6d64caf264e6ed9ba368393b]
+│   └── Virus.DOS.Beer.3164.b [8784ea679f9e6c274076e927f4cafcd0e5aa70150d708b5c1f4d70d65f9f6264]
 ├── 3192
 │   ├── a
-│   │   ├── be3192a0.vom
-│   │   └── virus.dos.beer.3192.a
+│   │   ├── be3192a0.vom [526fbb840b284ddd95d180d4113afa846dda29a27c736b830573bab352c09589]
+│   │   └── virus.dos.beer.3192.a [27d1ed6c6d580e076e4cf722be157b3032dc3bb36d498df535ec26284820cb10]
 │   └── b
-│       └── Virus.DOS.Beer.3192.b
+│       └── Virus.DOS.Beer.3192.b [17ecb06846c62b0b643af5cb269ea43100b52f09b7abf1d761644fe3e7f3e696]
 ├── 3225
-│   └── virus.dos.beer.3225
+│   └── virus.dos.beer.3225 [98dfce4accef2e62c54d0fefe1c3edd2dc91a4295f27e64137e6a1d6af7088f9]
 ├── 3287
-│   └── virus.dos.beer.3287
+│   └── virus.dos.beer.3287 [dfaf82f6acc136d631703115997c36a2ce2c9cd61d71642a187ed18c4c5bf50c]
 ├── 3299
-│   └── Virus.DOS.Beer.3229
+│   └── Virus.DOS.Beer.3229 [ed33717085e12ad282f82fd6ffd1eb452c7b67f8996520f40dd11a02115b6cac]
 ├── 3307
-│   └── beer3307.vxe
+│   └── beer3307.vxe [f2da9b632facddf561328f371ed852297c0b12a31c5428d4a230f811a90dd8d4]
 ├── 3360
-│   └── virus.dos.beer.3360
+│   └── virus.dos.beer.3360 [de889dbc4b7117b7c2fe335faddc1312d842216d3dc254681f0b526f758d85ef]
 ├── 3399
-│   └── virus.dos.beer.3399
+│   └── virus.dos.beer.3399 [84c8d06f35ea7479323e7600fad87768aa00ca18885c5c4fa174962fc145059d]
 ├── 3434
-│   ├── beer_343-001.vom
-│   ├── beer_343-002.vom
-│   └── beer_343.vom
+│   ├── beer_343-001.vom [d207695942affc1404cf0d613de8cb190504cb117f99429340eadcbec82cd996]
+│   ├── beer_343-002.vom [f5008934cdcb7b7b8bd35d9b05515ef2bf9ffc7833376c3d4010d6931678c4d0]
+│   └── beer_343.vom [f5008934cdcb7b7b8bd35d9b05515ef2bf9ffc7833376c3d4010d6931678c4d0]
 ├── 3441
-│   └── virus.dos.beer.2x2.3441
+│   └── virus.dos.beer.2x2.3441 [36affc4d01a21851631133ee78df42da10c1c9c31d4c8d888ee15b4ef3378c1f]
 ├── 3490
-│   └── beer3490.vxe
+│   └── beer3490.vxe [b785eb19010a91649cb6ed8f1a4c5bfe62a98a5046ebcb18111f53f1c8ac3694]
 ├── 3522
-│   ├── beer_352.vom
-│   └── beer_352.vxe
+│   ├── beer_352.vom [e51f12dc9d31c137772ab752a080d5c48def79f234ebe3d27dd327f5064b5639]
+│   └── beer_352.vxe [8cfa41bc73bee982f8f0d644e2da9501b2817d3f88ba9f30898df7c7f3895337]
 ├── 3612
-│   ├── Virus.DOS.Beer.2X2
-│   └── Virus.DOS.Beer.2X2.3612
+│   ├── Virus.DOS.Beer.2X2 [7b8fbdc438b259c051e642f2ea0a603927efbf541ed4d6842ed53d75e251a532]
+│   └── Virus.DOS.Beer.2X2.3612 [e4c4da276a911072284f0da0baa37d37a95aeec84effa4e5e0a4e1867b9a0033]
 └── 3774
-    └── virus.dos.beer.3774
+    └── virus.dos.beer.3774 [74e82b755769026cc0956cd944bb4373ab8e629be5c8a23f43ec8ec9ffe24e84]
 ```

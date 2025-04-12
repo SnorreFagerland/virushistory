@@ -3,17 +3,17 @@
 
 ```
 ├── 0726
-│   ├── hybrd726.vom
-│   ├── sopwith.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t4.vom
-│   ├── v-hyb726.vom
-│   └── vienna30.vom
+│   ├── hybrd726.vom [83a65559700bf6d64e742a5790ee217c105ef8c41eb6b1c4ded5c761b2cc9ebb]
+│   ├── sopwith.vom [5dfbc97d1fab733d22654265e7a3ba305bea2d0f2f31f66ad2a79758bad483d9]
+│   ├── t1.vom [bfffe4207d1b52c238aa2034c4713b333b646542af3a7a46789a93c42d8ab744]
+│   ├── t2.vom [2345808746cb3fec4d934de37b1f467f5dc23c09a726771aeb802421e220c0ac]
+│   ├── t4.vom [0532c03d868d875432f359a31ca54d2c64c1d6a1ae27f711141f9f10db487472]
+│   ├── v-hyb726.vom [716b2f54b986696a2213ed4dfa70816f80ab4dfd504465f245637aa6dd3dddd8]
+│   └── vienna30.vom [b3b28051e3d4e8c9495fbd0cb28da8c0c23cada08036e2eb35718648085a7c96]
 └── 1306
-    ├── hybryd.vom
-    ├── t1.vom
-    ├── t3.vom
-    ├── t5.vom
-    └── v-h1306.vom
+    ├── hybryd.vom [a20761b742fd693e2f0d1c3fdb9a25f35f937fdb1a0c4b7d671f784d7728fbcc]
+    ├── t1.vom [19d4d0e97feeea4a15dc456ef09cca501f829e3de72729adcc8f5f1d5b45965f]
+    ├── t3.vom [7b99e433d75f1f322ee7ad7f84a1989de7e8a8fce0284ce60c359961782e05d1]
+    ├── t5.vom [1116f25bb941e92b0792b20f430ffb21dd994a6b1536d2224cca6b6f7e92ee5a]
+    └── v-h1306.vom [3a00a75ddbd00694886e9f522d11064cafbd42abe7b8936815680aab00969331]
 ```

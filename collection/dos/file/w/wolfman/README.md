@@ -3,24 +3,24 @@
 
 ```
 ├── a
-│   ├── 1-w2064a.vom
-│   ├── 1-w2064a.vxe
-│   ├── 2-w2064a.vom
-│   ├── 2-w2064a.vxe
-│   ├── 3-w2064a.vom
-│   ├── 3-w2064a.vxe
-│   ├── wolf1.vom
-│   ├── wolf1.vxe
-│   ├── wolfm.vxe
-│   ├── wolfman.vom
-│   └── wolfman.vxe
+│   ├── 1-w2064a.vom [1474f199a436464238866b4286fa531d18a222e37945b4929fa372fc4f92d423]
+│   ├── 1-w2064a.vxe [841586d733acd152b8755b7618440e86ad7b25dd8c05e044348cab9695290f24]
+│   ├── 2-w2064a.vom [46dc1b2a9ed8d3b6561b160f815b326df774c13cdb8e337c475ce52f0115d4d2]
+│   ├── 2-w2064a.vxe [5daaa618363f3b6380cb348625cb052b152c5562d29cb696b78a42b477e2d609]
+│   ├── 3-w2064a.vom [595403d307e7ea887644e16b7b261e8e24c5eef6ffb3a10957203ff2f67648e9]
+│   ├── 3-w2064a.vxe [cf9b4ceac3b153008fbcfac4d9ca63e10a9d7fd970cf579bb74f64b14ee464e5]
+│   ├── wolf1.vom [d1da11fcdaf67275dbde7e6cf4419dee37cc3f08303133466ff52cf5dafe79fe]
+│   ├── wolf1.vxe [050454dd0e0fc5ff73806f87f315b0e47011fca6e9e4bcba288b9d3cb86b7507]
+│   ├── wolfm.vxe [dc4c4d667cc9e009fc4e8f68bd1dd1229ea671bc244e23aa556c403c403aa9ac]
+│   ├── wolfman.vom [745a7a66a46854fcf84aaa87ff007402b10068991629e08833a0fb1024b82537]
+│   └── wolfman.vxe [3eba801d50bfc94bf12d7a4049042f2e45a2020e0e1839d4e5c51aacd626bf31]
 ├── b
-│   ├── debug.vxe
-│   ├── format.vom
-│   ├── grep.vom
-│   ├── trace.vxe
-│   └── wolfmanb.vom
+│   ├── debug.vxe [de7e2f565a906a45fbdc326b86900ca55c707bf066863e4958eed48dd8c9894a]
+│   ├── format.vom [547fbf1ddf369658d2c09ea39132b794eb62804b1b5333c4950f13ea81c307ce]
+│   ├── grep.vom [bf9da0d63199f342c48d99841b10b981c690a9909a64cf6918caf67c10dff1e8]
+│   ├── trace.vxe [efebc00561d44fce49f801799ef9eae1d0966cfee355f1f0aa201d14c83ff850]
+│   └── wolfmanb.vom [d9636cf7f64c643e3db6c8d140b95b8d905bde88f52b2393ac80b98bed6abf62]
 ├── c
-│   └── virus.dos.wolfman.2064.c
-└── wolf1.vom
+│   └── virus.dos.wolfman.2064.c [c43a4604e6587af79a0aa562d313dbe23af587d9f6ca3d8921374ae9b378b809]
+└── wolf1.vom [4d3153b235d2a53849173b9ad99b08b348aea2917d8acc6d705552a4364ecac1]
 ```

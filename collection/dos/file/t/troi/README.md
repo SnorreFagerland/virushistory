@@ -3,58 +3,58 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── troi.vom
-│   └── troi_.vom
+│   ├── t1.vom [17c4a2d28b5e6a7198a8fe7e56a105712e8cb15ca9c449fbeff09f52e757727e]
+│   ├── t3.vom [2bec0b3b6d3d42491f1fcbb0496b2f8a41431a543850508e7d500be73f24b9c7]
+│   ├── t5.vom [3900451d9c9aaf359ed21451e302c04d9cdb117a5971ac6d9e0d97a85aabc53f]
+│   ├── t7.vom [c70110bb37c2694c53c5ccf265aeafb02c46b2280dc516beb92abd3ca020930f]
+│   ├── troi.vom [8deaf18e752a3e8a6f79afba78734b9abfae8cc4cc0c501c592f2859f1680422]
+│   └── troi_.vom [011f470f39b0c9cea50ff00d3ae685c0f1b94592581ac6fa60ac153918884e1f]
 ├── b
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── troi.vom
+│   ├── t1.vom [f9e5fdcfeb0b7a334b1479032acbdf586dccb13933d27d1644c36d297128aebf]
+│   ├── t3.vom [35ec9776e86b545b2a4020493da6dc7c3e9f8e313ed2ba20b949c5dc4ca25a4a]
+│   ├── t5.vom [10abd028af772cd1bc03e2b19fd5fb0f3705678dae6fd4ff399c45ae57143dbc]
+│   ├── t7.vom [70bda9813d66f5b557eab7554e2db5f97cd395df24714532a5f31831edbf9dcc]
+│   └── troi.vom [0ac41c6188c513b6f356ed9439469eaa74306f4b74dc870571dc2a1300858357]
 ├── c
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── troi322c.vom
+│   ├── t1.vom [9fa0c4258b312debad0a948e3e9973866320a88c9b618eb0769ab227ebed2bbd]
+│   ├── t3.vom [eab8dde55e3d38502cc2ab0bb5b84f50673e97c10095d33a8edc527abd92df41]
+│   ├── t5.vom [fb539d4764b624bd0a5c1a1190b2015c6632434379047ff39bef730f80ddcb48]
+│   ├── t7.vom [ba2a4ae7db77832fd7d794d9b70efea8cfc9998441bccaf47ebf57aba37e532e]
+│   └── troi322c.vom [c3dbb12b763f5547035d9524934c9b837bc0211aeaa3af07fbc215e8be1ac909]
 ├── d
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── troi32~3.vom
+│   ├── t1.vom [2a44d4d7b4d5c3649f686c41a466f3c1c77cdc56220dd47870afaaf064cb232f]
+│   ├── t3.vom [9c5e3c25df4af8465bb62456bc99632656d9a70d9bc541e21dd27fea3b50f540]
+│   ├── t5.vom [5f005ae6c21ee2fe55c22ab3aa3ace53073e6fea7d67370666c8f8467e5a26d7]
+│   ├── t7.vom [475b6de932044670bfc3bdc430ed10718f5bd54c83ee5c9b39cd27ce6cd9cebf]
+│   └── troi32~3.vom [88691fecdcd57348c062c321abc7d5ca1a3a1510b55f7a312cde48c7fb739f76]
 ├── e
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── troi322e.vom
+│   ├── t1.vom [4b84ab30e7df6e7d10aedbb4031981930106e0f3b181fc671e2fa6ee494ca54f]
+│   ├── t3.vom [541e6fa46434f6454f441468158df890b0813009b15a128f39b0b0c09df10e40]
+│   ├── t5.vom [bab16967e2f1ca645e4f20781ae6af02123b12e45eab6429b2981b3488be96e0]
+│   ├── t7.vom [5cd4628cbd925caa88024aca54d6a10237b351d734e46a9b8d504a3a288ba883]
+│   └── troi322e.vom [147bf8960d8dcfa5c2effae3366a71f4be6c11c7aeb2f40a5afea12e3f6e36b9]
 ├── f
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── troi-!.vom
+│   ├── t1.vom [2489af785c2186396441ff2844f9e78d4daaecb2e7cb1cf8bc33db5041b1b3d3]
+│   ├── t3.vom [ea71a40ae1f56d1742ef6e4a31c7ea48941c884f35687bf72eb73d672ebb720c]
+│   ├── t5.vom [dc10cea7d9b86526cc9923afdee138c52a33dd30a070cdfd92d12d223407c7ec]
+│   ├── t7.vom [c2b7f25363b712bab26b685cb983b4056406276d4e71101ef9957351e5a0e105]
+│   └── troi-!.vom [94609d3913e5a0717914b95be5115b53fec2d66bcacbeb2d09ad2dc45cd4cb60]
 ├── g
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── troi322b.vom
-│   └── unknunk3.vom
+│   ├── t1.vom [db5fd7ece888b41e41f4c1f1b7bdec787c590ebc460f7ef5df1d56b392b2a709]
+│   ├── t2.vom [06d35ae78979a3946d054c6a8dc14a337bda1cad0458dd57c65613f779a2189c]
+│   ├── t3.vom [f12f461ffc64722676c5ca86de1ca1f76cac46a711d3e1c8e332917611a2f413]
+│   ├── t4.vom [020302eab568ed49ac12224294dc81b0c97f02a1b98f67d7795582556339caf2]
+│   ├── t5.vom [c82e987a179a13cc0f4220b9bfa465bb8ea6537484cfd159cf43cbf9cd87b1c1]
+│   ├── troi322b.vom [59602c50a989c279d47d58e653daceabad204f4de51983042d357d15409d3470]
+│   └── unknunk3.vom [1f05a9783c2694f954ece498f18dce48850c9a35ea6839b86a6b4e995b9f4ec7]
 ├── h
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t7.vom
-│   └── troi32.vom
+│   ├── t1.vom [39c3ef371b042e762adb77797b208a8aef8871d66eae136b7f091647af28ca96]
+│   ├── t3.vom [f22f49aadc0acc6d4911885fcbc96987ff62834182d5ddbbe7d6000e0a0c8e9f]
+│   ├── t7.vom [83f8f13d32322861c48337ad6967b8e241cfae25f0ff7dc11eb24d5e7d9042e1]
+│   └── troi32.vom [a9b075ae01f6132193cb1f7eb82647a17c2c1f406a25417aad112557ecb0a049]
 ├── j
-│   ├── troi_322-001.vom
-│   └── troi_322.vom
+│   ├── troi_322-001.vom [bccd4bf412bfdc82ef152ebb7cbdabe239063e68bda1ac32ce1dc39b37b9b6ac]
+│   └── troi_322.vom [00e55bf70813ba32870341fb6a6eb7e82cb5f64c2b989a2d7c2b30102758659c]
 └── k
-    └── troi_322.vom
+    └── troi_322.vom [bf7907a0311a750908b3bbcc8630d01e69356eed0f0e13ec2afac146792ce9e4]
 ```

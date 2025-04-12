@@ -3,21 +3,21 @@
 
 ```
 ├── a
-│   ├── 1-z1023a.vom
-│   ├── 1023.vom
-│   ├── 2-z1023a.vom
-│   ├── 3-z1023a.vom
-│   ├── 4-z1023a.vom
-│   ├── c-z1023a.vom
-│   ├── loz-1-g1.vom
-│   ├── loz-1020.vom
-│   ├── loz-1021.vom
-│   ├── loz-1023.vom
-│   ├── loz-var.vom
-│   ├── loz1023.vom
-│   ├── lozinsky.vom
-│   └── zhr1023a.vom
+│   ├── 1-z1023a.vom [b35087cff3be100dc56f39e628471e554810c14a89e9200e1b505c90829dfe19]
+│   ├── 1023.vom [250d32e3de6c3fb1e689aa8ad8a8114ed223aeb03338312a038eb041162ae4c8]
+│   ├── 2-z1023a.vom [bffed8efefc63b5b4dd83a70b5d5f839b61372d43e26ce87934ad17634cda246]
+│   ├── 3-z1023a.vom [9db63c893432b18cfdc1e5ad0d1be8a41020b1d12f718c4265dbfcc1588285a9]
+│   ├── 4-z1023a.vom [d82a7591bd8d38bb7e9b98ff2d0b49f8121387430df54ba763187c0bc02ef003]
+│   ├── c-z1023a.vom [1cb5d20a45c55846abe2371bab283285e77d4e36559911033a714a3da1e3093b]
+│   ├── loz-1-g1.vom [93f8c07328671b47b8b43858f20cdf3de31d902ec002184003991e5efad5e545]
+│   ├── loz-1020.vom [be2636582ebb39dc8138b681a96056cd234bc9ca83a417082f185f4cd5a0e93d]
+│   ├── loz-1021.vom [1362f742f46cfedf6a302b0b442033800c4928d8d858ed55d16c65067422b763]
+│   ├── loz-1023.vom [ec78f93039b7477b57e02001ece09cd8308f1b8d79f2f0dba830c5ea99371c28]
+│   ├── loz-var.vom [d79aeae603ee429a169f65e72bbc3e8e5f89cb45c34ad36d5c4227e675e7fa05]
+│   ├── loz1023.vom [1113e392bfc2636444ecb19cbb4823fe62d58964acad08178d665d151bde221c]
+│   ├── lozinsky.vom [7cd6f911aeda13824e69a592ffca8db99e559bb6b57b072cb6e8b8f32f2d7be3]
+│   └── zhr1023a.vom [78599a120c4e28804102086b302d5c112dd1b8b543eab36d81996ae527bc12b6]
 └── b
-    ├── ira-042.vom
-    └── loz1023b.vom
+    ├── ira-042.vom [13bb4dbad61fc7cf3ff2288afae8e4deefafac7e81acca79f186184583dc3fab]
+    └── loz1023b.vom [c28d3336fcf625a28bdcb0edc069daa917a6865ed746a00f25d9cad78b4ea268]
 ```

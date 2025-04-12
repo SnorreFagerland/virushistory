@@ -3,54 +3,54 @@
 
 ```
 ├── a
-│   ├── dark_~14.vxe
-│   ├── dark_~21.vom
-│   ├── dav2000c.vom
-│   └── dav2000c.vxe
+│   ├── dark_~14.vxe [b8b1e8897806462802c84ed9f10c665684af9c18212dd65b56a1a7ecdb2ed596]
+│   ├── dark_~21.vom [f9bde0a0820db09d55142642ed39d7742fb08c2b7bdaac1dcb8040a2b5b4fd6a]
+│   ├── dav2000c.vom [1542e7738c69d737ad4a8bb3a3bd8332a6ab112def7f997548c18ef2af8b019d]
+│   └── dav2000c.vxe [3c72adcf07e2a528ac8e4d5a4b1fbb83dec036ecc76288c79c31d959f15b9772]
 ├── b
-│   ├── 2000-001.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   └── t4.vom
+│   ├── 2000-001.vom [9dcf420d3208323310e43d7c9f539d31c15b2870b6276c235ccf2cae4cc8686b]
+│   ├── t1.vom [acb20285046a5d4fc0f8e9dc50e7ae87eee7951f3efd436484f09a53682d9c16]
+│   ├── t1.vxe [671ce1a2a5ec1b70ce44025b4b9a9e2a71f2a3cf36cffc7d919eb243367b59eb]
+│   ├── t2.vom [601e826d401a31de77e6338a323bba67c0872c3b07628f01a5909a443d7876cd]
+│   ├── t3.vom [2a08c0bf37782aecdd45616d4233a12e91b41163b52874820eb5ddb51874920a]
+│   ├── t3.vxe [d0ae9a7c34cc003bdd0b61115e75a812ba0faad45d98412c0150059031b658c2]
+│   └── t4.vom [b48223361186ba9e0ac1916ff64f5050877b2d7ea680c64c3f29fd74dae46ec6]
 ├── c
-│   ├── dark2000.vxe
-│   ├── dark_~25.vom
-│   ├── dav2000a.vom
-│   └── v2000.vxe
+│   ├── dark2000.vxe [71433245d99917b3648f6a737ccb4023a0c5f059e6cc949e3dc5709b67809b16]
+│   ├── dark_~25.vom [a1ee37b892b72f62d89600512ceb2448988dbece79628e76109c544588a2ab75]
+│   ├── dav2000a.vom [b7d6f221a1cb74c705a50a4be3532baf925949ba297d3b8c52678f429c538a7b]
+│   └── v2000.vxe [231832b99308184079e8cf9c028d3c085d203e634c4f5468ea7ebc92815123df]
 ├── d
-│   ├── dark_~26.vom
-│   └── dav2000b.vom
+│   ├── dark_~26.vom [307b8fa63aff967409a66e708804e8d0f1b58a7eeb71c0eb76e4fd3733f10a2a]
+│   └── dav2000b.vom [6a6d6fcb1c45fc2a440640e36570308e24aa27e0dc578ad7a48670b678628741]
 ├── e
-│   └── diana2.vom
+│   └── diana2.vom [7f94b654ef132d444df42e7ad38af872aadc1263ae62fe45c4d607f7fbd44d97]
 ├── f
-│   ├── apocii.vom
-│   └── dark_~15.vxe
+│   ├── apocii.vom [1b925197d94fc45065b626b9543f9b259ef835577df255f267ec1e9401dd5dcf]
+│   └── dark_~15.vxe [5376306e00daf88291cb6166c0a21554e9d984e5acb249ad37c1d602b684273c]
 ├── g
-│   └── d-2000sa.vom
+│   └── d-2000sa.vom [bda1f5210a57bc23a684bd84946b1d39d56a9f7397ae2cbfe004c869291c97ea]
 ├── h
-│   └── virus.dos.eddie.2000.d
+│   └── virus.dos.eddie.2000.d [49c7e356d96eac21d8ab3c27caea2fa46c82fcb073def337ae3d615fc3bf098c]
 ├── i
-│   ├── 1991.vxe
-│   └── dark_~27.vom
+│   ├── 1991.vxe [3e2a56824eabd28ac3397671e261ce465a09d7cd71f1a55b4f7ba061b66e0c62]
+│   └── dark_~27.vom [73b460f05b26187b97f56e4b64178a68ef3d55438848a02d8c64f5c49cea80fd]
 ├── j
-│   └── da2kiss.vxe
+│   └── da2kiss.vxe [642ff5a7defb37077e927cbf7737c23bca66f0728935a372bb4c0e519e97a361]
 ├── k
-│   └── wci0106d.vom
+│   └── wci0106d.vom [bc19aed6b49791f4e136e65644a298ae87ffd44d108d665205c3dcc63c4e0715]
 ├── l
-│   └── wci0107d.vom
+│   └── wci0107d.vom [d661a46dcb9184371a2a09230d406299596fbc050bf8470fca67c3a431b581bd]
 ├── m
-│   └── diana.vom
+│   └── diana.vom [77aa421fe9525c32ffd3b3fd4b312ef351df589fc2f4eb00a4a72833b6b8885b]
 ├── n
-│   └── da2000r0.vom
+│   └── da2000r0.vom [55b3567dbfa4e52d37e64d22b615a8cc57c11bca905f8ee932d76b00188ef11c]
 ├── q
-│   ├── dark_ave-001.vxe
-│   ├── dark_ave-002.vxe
-│   └── dark_ave.vxe
+│   ├── dark_ave-001.vxe [8c49b8264554d958af31f056dc59d555ff0ba2a0b61d2d5ced099f730011fab0]
+│   ├── dark_ave-002.vxe [91f1746858da6a4fda96e0a978a2fb9edfc6ae750f17b3a169bb6b1736fe7614]
+│   └── dark_ave.vxe [707435affdb299df30913f7461fa160cbab9214717fcc4c4a5f7017d04179e9d]
 ├── s
-│   └── c4.vom
+│   └── c4.vom [ebbe4e427cdf27bd9748c68e0271469a5bd63d0ca0c82a8a10ac05ea6a6dfd20]
 └── t
-    └── d1.vom
+    └── d1.vom [0894e3d22f03efb0ea553d91046d1807972f402f55d9823debb9969c5e3b621e]
 ```

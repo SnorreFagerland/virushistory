@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   ├── lordz370.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── lordz370.vom [72c03893cb90968778998fd74b3f379ed19715c2382efbea5350822d01395fe1]
+│   ├── t1.vom [629c7b1dfd981c979bafb8efba1987c36e2148b6d3d872820050df845d106b4d]
+│   ├── t2.vom [35371749f12cb91c0915712e37492cbe160484831771657e5d9ca001fa5b8f56]
+│   ├── t3.vom [5c8e3c9483c39d7c475d2a20cec22159e8c447b4eeda16012d59fed8a6d17b38]
+│   ├── t4.vom [849add24344933fd8fc9d440e54428ccec9b36afbc37ffeffd49b125a6fbdc83]
+│   ├── t5.vom [0622b4d950db45df3d2e87bb59e33ab527a29f5c93be1ddb01a54285d3253e77]
+│   ├── t6.vom [23a09d61eb5214a0076f442fb761cc60771ca02281c7d140a068b50968bebd1e]
+│   └── t7.vom [d90c484f40139a90440f6e1d763b67754f274aa2fd487272df00275a5cca1e6a]
 └── b
-    └── virus.dos.lordzer0.370
+    └── virus.dos.lordzer0.370 [df5cb8eb3b47bb0aa0d75cd1ef2360ff7328593a9f7b743287f4ad1920b1f03d]
 ```

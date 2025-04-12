@@ -3,12 +3,12 @@
 
 ```
 ├── a
-│   ├── 1-y2974a.vom
-│   ├── 2-y2974a.vom
-│   ├── 3-y2974a.vom
-│   ├── y-l2974a.vom
-│   └── yankloga.vom
+│   ├── 1-y2974a.vom [306b2424b67ee492727cf942fed7408c47361d7a1ad466fd5bac6c4520068f96]
+│   ├── 2-y2974a.vom [ebf1718d511055b4e9cab024ce6312cc35c695fa900df752ad23f750a4ee8643]
+│   ├── 3-y2974a.vom [ecf0e01d6019f59ec4f8a20261917ecb6e7faaa684c6606154a41f72bbebe359]
+│   ├── y-l2974a.vom [b357ec9cf01833bcad548b3d84e32265cbf618126eadf70b35bae23860734f05]
+│   └── yankloga.vom [174c6a502572602cb3ff12b7f5cc6268328ea27fe5680df25df07166215bd327]
 └── b
-    ├── y-l2978b.vom
-    └── ydl2974b.vom
+    ├── y-l2978b.vom [cb77827cb3c311c080f8df5a0ae8540f7885a2538b833cad3a3b3a6b25359202]
+    └── ydl2974b.vom [3cf8766d11f774fb3518e7f89f46c7b2cedea10bab7938bd65f2059219e28b35]
 ```

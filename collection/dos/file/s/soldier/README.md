@@ -3,31 +3,31 @@
 
 ```
 ├── 1466
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t7.vom
-│   └── wci03014.vom
+│   ├── t1.vom [c09681b02682f0580993f952ce906f22e5b1a8baf1747bace57af175c423845e]
+│   ├── t1.vxe [1835ceb581f6cffaa95075619782e77605eaf9a4e037fabfa29941f21ac97312]
+│   ├── t3.vom [0be8a8e4bcc4740101a727b8781d28dc2ec876878fe3d105dc63c0b8739f0582]
+│   ├── t3.vxe [be6f2fbf58a66fe921922a837c6deeea71486e76978b2477f3813eb911dea013]
+│   ├── t5.vom [5223d8e86931927da45486b239998a1e5720b756450125ecbe768f67e3a4e378]
+│   ├── t5.vxe [ccc32db017de600f651fd04e436d1b194d8843d4a174b7675a2717140dc8f3e8]
+│   ├── t7.vom [6525947cc963cc20ada424877fe7bae3514ae3306ee3ecaeebbcf3d2a9c7c5fa]
+│   └── wci03014.vom [691b8317b78f778c47a2112d919d6413ac3a7c7264227fe6e94111064dd5bd91]
 └── 1480
     ├── a
-    │   ├── bob.vom
-    │   ├── t1.vom
-    │   ├── t1.vxe
-    │   ├── t3.vom
-    │   ├── t3.vxe
-    │   ├── t5.vom
-    │   ├── t5.vxe
-    │   └── t7.vom
+    │   ├── bob.vom [85cfa90b0e6de0a257e7d55a5ebcc2c9cf6d11c1d000d49291b776849bbe9521]
+    │   ├── t1.vom [25a645d1d967b9ce6f80cd7a1fe4387f3ec24a8ab72ade249d779f6b680c7d12]
+    │   ├── t1.vxe [51f4a388d1794c7648e578e495e356950219e79f8bc7bfd98205e6f847d61c78]
+    │   ├── t3.vom [89b4d5dcbca77ab01b742ce335852791b01f9b5511493445e8147409b28bc093]
+    │   ├── t3.vxe [5a3554df0be34a7946befa8637fff22789265d12f3d8acbb9859cb6bc04b4bc5]
+    │   ├── t5.vom [b41d026d549c33e444871a6e3c14752c5e11968c3aefb4e56c3e47b5a6301f50]
+    │   ├── t5.vxe [422fb693b71f205fc5b4047267d415fdf572eb418626e567ae2d554ecdee8fdf]
+    │   └── t7.vom [87c359de1d214614b27d60d587adace698c5bd7cf7895819607f0e7b0be0bd2b]
     └── b
-        ├── t1.vom
-        ├── t1.vxe
-        ├── t3.vom
-        ├── t3.vxe
-        ├── t5.vom
-        ├── t5.vxe
-        ├── t7.vom
-        └── wci03024.vom
+        ├── t1.vom [95f989808f59297ce0eb89d332ea09984c7db74bb6a38c6994df5fde6aa650d2]
+        ├── t1.vxe [837bea936543b588f57d4021beba86a41ce16137922eab5956f72ccea2cd8087]
+        ├── t3.vom [392042e60d4e327972c4a68ed027b82df6238b7f36a6ecde02023f27e7d22475]
+        ├── t3.vxe [8c1562b3b07a91b75b2f43b5d204cb3d080c6d1080c1d6111c2bccf79757fbb6]
+        ├── t5.vom [784a6a8e897aba06ecba8236f8b39f19a40d749b7d9900bf8cfadbefb0c20892]
+        ├── t5.vxe [6446ae5c9f7f10fbc37f73aa9355614aef0e54bc43c85bed5f2c1b258f974f06]
+        ├── t7.vom [96643a0e589a70a24c64810ffbf97754ceb489675a05c8b74ed78622f65468f9]
+        └── wci03024.vom [a0bac15e244310b3b3b8520c1fdd73c03be6e52d2d29d0990cd38ecd2e7d354c]
 ```

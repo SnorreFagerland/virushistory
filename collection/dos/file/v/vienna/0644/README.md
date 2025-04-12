@@ -3,35 +3,35 @@
 
 ```
 ├── a
-│   ├── !425.vom
-│   └── 644.vom
+│   ├── !425.vom [c6189ea34c2175869e4f7e7792b392cba7a7889a59dc60b1c22e15d316edfefe]
+│   └── 644.vom [b2713eac7cc5189be637f7f7b5c219f6e62f5cd688a656d3255b395f50b45614]
 ├── b
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t6.vom
-│   ├── v-644b.vom
-│   └── vien645b.vom
+│   ├── t1.vom [6241bec5998da0a855cfa8547ed22dd8f355364ffbb9f8df2d694babd7795fd0]
+│   ├── t10.vom [cb8f2ad87829eca370ce7f4d46a9965a0faf2851afd0c9fea911858ea1d0ac49]
+│   ├── t2.vom [0da29a577af72163664553307d514c5ff07aa93be4c533245385fb8a4f307b23]
+│   ├── t3.vom [48a06403302b883669dbcc310c89c265976e49122098aba7336ba8617a2e50bf]
+│   ├── t4.vom [2b0f61896dc4459dde038ff4dff23f15f88f53e75509419ff02d8c6bc4adc503]
+│   ├── t6.vom [885e00a2288f874f2ad763d4477641438e6d7a9050c1dfe8be22a3c68599aec1]
+│   ├── v-644b.vom [fccac61a41f351711af54230b429691305a37374946c9083e3abd4141c38e6a7]
+│   └── vien645b.vom [cb5de61f040d8488eb196b5ea8427ff2175710efbee0be0e2cceedbb0e192810]
 ├── c
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t6.vom
-│   └── wci0512v.vom
+│   ├── t1.vom [ff537837dc95a7b7066fccf0cf4ee8428923a48e240b0d185fab9a7d0f539030]
+│   ├── t10.vom [58b09bfbc7d50d0c4af6361c1d1b3eb420f5468b4555b5862a0bc06be4416fe6]
+│   ├── t2.vom [a331c6720a5cead8d4e9050cb5b59639d73ae58991ca8269b678b526fe6025f3]
+│   ├── t3.vom [3cc464d69d7b9001cd7af4c146bf87cc5a4d8741de47079c35eca7165e3a76eb]
+│   ├── t4.vom [d3e1116c9c3104d76800c6066d78eff05add7c701f4926b170d6edb612aa3b1f]
+│   ├── t6.vom [5abbffd3be4310e06461292e364759f43000b2431b8c75124c7d76134a20e03c]
+│   └── wci0512v.vom [fe7f4c90b9202fd20e0db7e2a1df90b6c3223e43bd91569fcc9dd0e31de9ff78]
 ├── d
-│   └── virus.dos.vienna.644.d
+│   └── virus.dos.vienna.644.d [2d97f0a554ddd5f84f02ee76ed4dadf9e6306a45fa96b5266403e2197a65a65d]
 ├── e
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   └── t4.vom
+│   ├── t1.vom [7ac145a79a7172702e030be6d30852b20738336f7328b49cb744a1675369b92f]
+│   ├── t10.vom [a11ffeb3caa1496de94c872ba28015ff10617e3580bde7125b9492a93c985507]
+│   ├── t2.vom [732517ff7a6b1a8a211c7489ace552ce9070e9842abe0bc2da3adee0281be5f3]
+│   ├── t3.vom [07b2cfa527df6a5408b7e239308199a0f802b72e30781f720fed68a5afbaf3e8]
+│   └── t4.vom [63e9b7f7c3030bbb23a6b7d742d12bac2b3b6adb35181bcd8b2e7b492478de76]
 ├── f
-│   └── virus.dos.vienna.644.a2
+│   └── virus.dos.vienna.644.a2 [5cc7d65894222abfcab48f5ef4a882624ca1eaecd67feefd7bf8cbdb81512e5f]
 └── g
-    └── vienna_6.vom
+    └── vienna_6.vom [21cf5fa19547f25c52aaae3801571b07528b33463c1197e33043b6ebb4f9e4a7]
 ```

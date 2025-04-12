@@ -2,8 +2,8 @@
 # Contents of `b`
 
 ```
-├── DPOG11.vxe
+├── DPOG11.vxe [02faf055313ef545a86a3e606193f62321db77a168289b49b03af9c8eca36345]
 └── src
-    ├── DPOG11.CFG
-    └── DPOG11.PAS
+    ├── DPOG11.CFG [7cc95a49d00b5b4dc55438c7d730d8a7fddb3aed1bf02bc0f18896fa8063c300]
+    └── DPOG11.PAS [2ff1eaf7e88ea396552f0e8551b67346b883f6f88c863dcb3eaef8a543eec598]
 ```

@@ -3,50 +3,50 @@
 
 ```
 ├── a
-│   ├── _5120.vom
-│   ├── _5120.vxe
-│   ├── vbasic-a.vom
-│   └── vbasic-a.vxe
+│   ├── _5120.vom [8885047d928a9b1b24e4ad42f78c5a098358b687c7c618fade5ae8fd843450e5]
+│   ├── _5120.vxe [c99e8ef2de7a714db2f1013b147ead8d929229a079c53c29bb8848a22a46a6d2]
+│   ├── vbasic-a.vom [ec0e92024d77cd04d9edf54ba71e2b4a1fbe40104fc4dfe0dc15558c02a02ceb]
+│   └── vbasic-a.vxe [b10c3deef04bc044eebc41751fc763d573117b484f5a3f40b0c38ab29e7ebfe6]
 ├── b
-│   └── vbasica.vxe
+│   └── vbasica.vxe [614354a228d019a808d1f2888b04fe05c76658c79240cb32a37456768b521ba7]
 ├── c
-│   ├── vbasic-x.vom
-│   ├── vbasic-x.vxe
-│   └── vbasic.vxe
+│   ├── vbasic-x.vom [7e6dbf3e03c051e2ca331a1646d74fe1494bbc3411813004bc5c44b4cd73c2d5]
+│   ├── vbasic-x.vxe [0c78d63e57df13c416224144928aeddc3cf56dab6cdcca8bf357bb97c70d801a]
+│   └── vbasic.vxe [81b100e47acc2f831d42242680ebe6e1108eaa90c6d7f373fd509396b7c05f84]
 ├── d
-│   └── slayer_d.vxe
+│   └── slayer_d.vxe [09cb5127dc857a1b8bf3fe822816db03bfc61c4954f6852f09ef312c03d7268a]
 ├── e
-│   └── vbasic-e.vxe
+│   └── vbasic-e.vxe [faae33410f1250a0a58ccec6966dc0cfe99c32747811357e6827761b95fa5cb6]
 ├── f
-│   └── vbasicf.vom
+│   └── vbasicf.vom [5a5ac964506c4a5d79c0445e11b49cb936cdc025cec36e2a7ea51fbed60756f3]
 ├── g
-│   └── vbasic-e.vom
+│   └── vbasic-e.vom [a5c30407b6ba445d6880ddfe5f5fd4fd38a5b0cf1f89991b6840ac7b1059892f]
 ├── h
-│   └── vbasic-g.vom
+│   └── vbasic-g.vom [991cf3dbc85c0388ba58c555a1e36952010c662df46e8afb4c927d272bff7958]
 ├── i
-│   └── virus.dos.vbasic.h
+│   └── virus.dos.vbasic.h [35636b29e74ab27b23802948eeaa47c3cd8a3fcfc2e3e769ca38f198afda5255]
 ├── j
-│   ├── 1-v5120j.vom
-│   ├── 1-v5120j.vxe
-│   ├── 2-v5120j.vom
-│   ├── 2-v5120j.vxe
-│   ├── 3-v5120j.vom
-│   ├── 3-v5120j.vxe
-│   ├── 4-v5120j.vom
-│   ├── debug.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t7.vom
-│   ├── trace.vxe
-│   └── wci07832.vxe
+│   ├── 1-v5120j.vom [fdd3ddcf57bb49afb4e63d95c527c57a49b44f98a5b7b472593956ba711b80c1]
+│   ├── 1-v5120j.vxe [0d6d5c652e7aea5b9ddf45567d08531bf8ae2c8a06c235751ffc75a2abff416c]
+│   ├── 2-v5120j.vom [897bc98bc98051eb79ca69b9a755edfc3e8ee7a773d3c511032c99364003d136]
+│   ├── 2-v5120j.vxe [785ccd218c739f948aca1608bb8e4125c65d17c2b83576059f6fdba0117641c7]
+│   ├── 3-v5120j.vom [c9a78a99464df1c82d06dde3b0b50ac2f5c2beddd969fa275420930dbbf75244]
+│   ├── 3-v5120j.vxe [1675a55c40b14a54d763c5e134ce9b50112d0c397796613befc31f876190d971]
+│   ├── 4-v5120j.vom [259f17df313d13143480e8f94b1f4d451c31d7b71a243667a200014ec48aacf8]
+│   ├── debug.vxe [887b1eaf23b587bf24c7fe70c273ca61d907ec5624304613276c697e0ac8ca87]
+│   ├── t1.vom [326986d881da50c94e2bb59bfd2e4c7d97b011fa338d950f2c518216ba86716a]
+│   ├── t1.vxe [6926f7a19afafd2f6c18c9b2c3da169c73d4d98434e80aa1b6566074e35f221b]
+│   ├── t3.vom [b181eba8f1c1c35936f77a78aeb88a466e3b5946521ff58ba558ba80f7b7f4a0]
+│   ├── t3.vxe [b9c4d99ee070a0d762a228cbc055882a1ca13f66aac5786c300782cf1de13aaa]
+│   ├── t5.vom [8e335ed57dcaf9d0b823bb5497242f43e3db05950d289048eb2a44b4a14e118a]
+│   ├── t5.vxe [da04785be4aec35866fb5e17aa0a4b1bf05e6eb78cb2abab415adc31dc69b091]
+│   ├── t7.vom [2bad404001a993ca73a1ecd27203bf567813c480925cc8ef3505487943254fb4]
+│   ├── trace.vxe [d910b9db0ea03c0105b1028cd3e5530a02803648ab3eca8970c5dd29712849cc]
+│   └── wci07832.vxe [226ae422547d79778b8cba36bcd7bd785325078faeda3ecd0d48fb6428b00b04]
 ├── k
-│   └── vbasic_5-001.vom
+│   └── vbasic_5-001.vom [912e14c08b244af1ef549d3dfbe4917f3804abb7f785b0f6db690889bec910fd]
 ├── l
-│   └── vbasic_5.vom
+│   └── vbasic_5.vom [7c951f9b14b099582c7ecaab8c4d5160fd4ee8a305a2e039c525a133909065f0]
 └── m
-    └── vbasic_5.vom
+    └── vbasic_5.vom [89923411b9d23c67b4c411ff4eb749bba95924f29bd466b3651fd9b8ba8fa629]
 ```

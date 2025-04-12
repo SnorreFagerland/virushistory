@@ -3,44 +3,44 @@
 
 ```
 ├── a
-│   └── as743a.vom
+│   └── as743a.vom [2892ef7df59436504640a22e2af7234b0f3e6b424eaaa86afef2c59c7cdc9f11]
 ├── b
-│   └── ash743b1.vom
+│   └── ash743b1.vom [726e79071d63a9ad3a399f96fcc126f795f9b7f777e025daa13b056314b675d3]
 ├── c
-│   ├── ash743c1.vom
-│   └── virus.dos.ash.743.c
+│   ├── ash743c1.vom [5b6a696b1cb450a5bd8239f0aecb206c52a2b4f65558545b14466e3ba549f3eb]
+│   └── virus.dos.ash.743.c [263729c6be1f8dd658f7e29fdaf2552165c732bd1774d91d96fc1db9ed54fc58]
 ├── d
-│   └── ash743d1.vom
+│   └── ash743d1.vom [4c9243a36dbb92a689f9a7e2bc55e95edd102fc5f45da5ff270a1341cdddd757]
 ├── e
-│   └── ash743e1.vom
+│   └── ash743e1.vom [088990ff237b352d44a2b206152000603eb10d019d29cf989a367fda33e0d418]
 ├── f
-│   └── ash743f1.vom
+│   └── ash743f1.vom [061ac037e80389c9579a8cbb2d542194e4ddd088521dcbe8d6756f02c4ea9169]
 ├── g
-│   ├── ash743g1.vom
-│   ├── ash743~7.vom
-│   └── virus.dos.ash.743.g
+│   ├── ash743g1.vom [4492eaaad5f9fadbc00b2ce66ff4d9717e111adca3bc09913a32f1fbaa6ec90f]
+│   ├── ash743~7.vom [e391e126b9d9b1deba8aea75b27d62bac58084ce580b3ef58fff02749c9b8058]
+│   └── virus.dos.ash.743.g [31e5236331b1d3d61f123401ee3e0a43aabe4979f5ae5e000ff2d7692a148d9d]
 ├── h
-│   ├── ash743h1.vom
-│   ├── ash743~8.vom
-│   └── virus.dos.ash.743.h
+│   ├── ash743h1.vom [2ac3d142a977cb8f9ecef9fca81d94d2bedde4883befaaa5c1b724233c132527]
+│   ├── ash743~8.vom [9a76743c1235c07ca547d5c90fd550abe0e983a4e9e1817822cc1a5277c7e827]
+│   └── virus.dos.ash.743.h [75771c32ce7125b515036ab656bac0cccca16ef0478e40e58369c7edce7140ea]
 ├── i
-│   ├── ash743i1.vom
-│   ├── ash743~9.vom
-│   └── virus.dos.ash.743.i
+│   ├── ash743i1.vom [5748065e998aa8f23962d02d2e477c1b72ad23d0d6a33ea7cbe4a5fe3fa742f5]
+│   ├── ash743~9.vom [518ea78484e132fad77e17e09a93391186bd8fb1e27a68255d210f5e615ddede]
+│   └── virus.dos.ash.743.i [d923b00b427e41eeb3b7635c22e8da4f98e742eb7c0d2ea499fa88fd42c65801]
 ├── j
-│   ├── ash743j1.vom
-│   └── ash74~10.vom
+│   ├── ash743j1.vom [46c24251acf3f4164596580e40d46391ede0ba9e44632418f9271e5ba3538c98]
+│   └── ash74~10.vom [b7135c054e209a010d276f4bd2058e6dc206ad265e3668012bbd4e56b52b7643]
 ├── k
-│   └── Virus.DOS.Ash.743.k
+│   └── Virus.DOS.Ash.743.k [dabae363bacef0f0cc286b83d5e29f7fb107f9d853e85048b56d7b7aae7d84fc]
 ├── l
-│   ├── ash-743l.vom
-│   ├── ash74~12.vom
-│   └── virus.dos.ash.743.l
+│   ├── ash-743l.vom [15b3c1c7263c6d52357b5956e98061d368fd5a644ddca86e8819faae42f40522]
+│   ├── ash74~12.vom [e62188c094ccab9b90b73e88f87b73d8da8e4587458016f290f7f9df4aed589d]
+│   └── virus.dos.ash.743.l [b7dfd4f1b5c4246091dc462aef20f63173c2980fbae0546ec96f7fbb4b246950]
 ├── m
-│   ├── ash_743_-001.vom
-│   └── ash_743_-001.vxe
+│   ├── ash_743_-001.vom [28e1fbd0a8e4c21ad22b72ba2453e5046cbb5007562f05c512c5d9de856f9e91]
+│   └── ash_743_-001.vxe [6ec4795829fc354662f539951f190a996a2774fd14c7d091b23a0f1d60f7e53a]
 ├── n
-│   └── ash_743_.vom
+│   └── ash_743_.vom [082cd9a2a1d3ffa87e0fd98905e7fbe4c20df15238fadcae0d4663f05535a91d]
 └── o
-    └── ash_743_.vom
+    └── ash_743_.vom [c2d1773895c7006f7dc6384c8271491325c92a1f88685bbd073d1036293f7b87]
 ```

@@ -4,173 +4,173 @@
 ```
 ├── 1064
 │   ├── a
-│   │   ├── sv1064a5.vxe
-│   │   ├── v8305.vom
-│   │   └── wci0613s.vxe
+│   │   ├── sv1064a5.vxe [0b4a9699df35549567baac37aeb6f7ebfb459b8883ef9494fbeecdd1d5af7649]
+│   │   ├── v8305.vom [729e49677bff8cdc666eb42838e01e21e1457dd43fd62b81d088cfe95d2220dd]
+│   │   └── wci0613s.vxe [fb09c041ba09fd6849d9d6e5664f9bac3be869f88cde4a416915a7832de1a530]
 │   ├── b
-│   │   └── virus.dos.svc.1064.b
+│   │   └── virus.dos.svc.1064.b [cbf1787e8bb41005d57d6beb93c81ed2d9db79fc56090d8f1e1de055ba4ea159]
 │   └── c
-│       └── svc106~2.vom
+│       └── svc106~2.vom [c2b013ebf6177fb59f71106af50a43fe88e29953dbea5308da5ae0e0d4c31ba3]
 ├── 1086
-│   ├── 1-sv1086.vom
-│   ├── 1-sv1086.vxe
-│   ├── 2-sv1086.vom
-│   ├── 2-sv1086.vxe
-│   ├── 3-sv1086.vom
-│   ├── 3-sv1086.vxe
-│   ├── f02a3f6b.vom
-│   ├── f02a3f6b.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   └── t2.vxe
+│   ├── 1-sv1086.vom [6dd76686edb9868e67fa9bda164e550d9b3eb7aae3b3af5b00c176310fe7791b]
+│   ├── 1-sv1086.vxe [910410905d63e9305eb227596dccd563c126c0719d7c83cedc736c22a174b876]
+│   ├── 2-sv1086.vom [2c8a7c16fc7d45feb5524f676c5ddf41bc7165414d6cdf5abd9473da7d7e63ac]
+│   ├── 2-sv1086.vxe [ad4df62719b3b46b133d4941c39f26501799d22f63e153fd0f7bfeabcc07709f]
+│   ├── 3-sv1086.vom [a865dcccbfcde36a617181321ab3e7c23923feff137ff26c18b6e40bc6f81c95]
+│   ├── 3-sv1086.vxe [9254e33d18b4612207ed33e7f3c51bf8a3bea546d6b95944dd357833dcbe2ba6]
+│   ├── f02a3f6b.vom [786c2a064a24498a15001bba7f60be48397be59fdffe49e8479eecf11e37549d]
+│   ├── f02a3f6b.vxe [ef21a077aaa61a8346159aca7e669947d28a1278b6abd2dec97a19abd5b0bf7a]
+│   ├── t1.vom [91afe505d857e810a09c184eab4f92caab6d7b7e34e6e193811d951e34bddd59]
+│   ├── t1.vxe [a47696c93337fb92c30af91d07830bad08133cb240480b8f15c0dbe55f69e1c6]
+│   ├── t2.vom [0e20d971336c5afb6e898d4e910e33d54d9d41d486d35783d71aa0d7555a294b]
+│   └── t2.vxe [2d992d97595805dcda4a5b5a699cadf7f951acdd1f51e712e1a443caf8160730]
 ├── 1174
-│   └── virus.dos.svc.1174
+│   └── virus.dos.svc.1174 [3ac7d7c40d432f5047e86d1bdfc40d29b9fd4e645ce0b9462d7424fb738d6b41]
 ├── 1228
-│   ├── 1-sv1228.vom
-│   ├── 1-sv1228.vxe
-│   ├── 2-sv1228.vom
-│   ├── 2-sv1228.vxe
-│   ├── 3-sv1228.vom
-│   ├── 3-sv1228.vxe
-│   ├── svc1228.vom
-│   └── wci0616s.vom
+│   ├── 1-sv1228.vom [d52839d2132f185cf1626d3c7e1a1356504e2d8d7602e2e54f05eee995319a21]
+│   ├── 1-sv1228.vxe [072b77ae66c7cfe954584c2e0948a67174af2c9bb0dbbb87697d2b7ab630dbda]
+│   ├── 2-sv1228.vom [bd7010451671c61deab91df32635168c8d39ed18831bcd2d8a2ba59fda732e9b]
+│   ├── 2-sv1228.vxe [37604815acf952d34028c33597207ad63832f1acdf7c5d1bbfa8bf727e2c742f]
+│   ├── 3-sv1228.vom [181ab03f8a109a15713324e38d556a4afb4cbc18805cf784dd54fd7ff6c1f67b]
+│   ├── 3-sv1228.vxe [51b02bfafc3f44d5f0fd45620b27a7445515710eecac4caca8b013a03718a2fb]
+│   ├── svc1228.vom [54efe9674f3718d1860b04918163bbdc264089cde10298999efa210e33d01f71]
+│   └── wci0616s.vom [60853a18bbbbb1a43b0f5eaeb594e8cf61fae5a6e4c3ae3c07d042ca02239c77]
 ├── 1289
-│   └── virus.dos.svc.chigi.1289
+│   └── virus.dos.svc.chigi.1289 [88446e143842ef05fe90dadaf3fd3b93e4b79568dc6a8d48d1dd254b88424489]
 ├── 1689
 │   ├── a
-│   │   ├── svc4.vxe
-│   │   └── u1689.vxe
+│   │   ├── svc4.vxe [10293e8517d5d68f5b016957b51a7f79e5757452a1285ab62a50dcf101d019b6]
+│   │   └── u1689.vxe [8045a36f598b683ca5537f2d690cd2c8cad00780b440472fb4434aae23978dad]
 │   ├── b
-│   │   └── svc1689d.vxe
+│   │   └── svc1689d.vxe [d7889eddc2082536a81be32b15b8f16157084ee78a47dd984941ad47aff7bdd0]
 │   ├── c
-│   │   └── svc1689b.vxe
+│   │   └── svc1689b.vxe [86dbd79ae21d96ee682237deacb8113b7873f36d9394b7816fc9a7ed49c044ca]
 │   ├── d
-│   │   └── svc1689c.vxe
+│   │   └── svc1689c.vxe [2bfbfc6f5ef8efe6106c915a699bf3a4487eeed91e5dbbd4ecb865140d79127e]
 │   ├── e
-│   │   └── svc1689e.vxe
+│   │   └── svc1689e.vxe [58ed657d5481b5235d351f46296a612350b38f1a165e7a40067f055f94032172]
 │   ├── f
-│   │   └── csw.vom
+│   │   └── csw.vom [0dae2e58d57168aef1b4e064074ac8a3977e51a1b06a35210418dc28fd82ddc2]
 │   ├── h
-│   │   ├── id.txt
-│   │   └── svc168~7.vom
+│   │   ├── id.txt [4399f108ee03e0cbc523cfe7cd3071021d0cdada14d7a886da5fd4674b0faeef]
+│   │   └── svc168~7.vom [f6d624a3567c43decb6e5136f378d4a777bd5c5c50cc31baf1712454f386e9fa]
 │   ├── i
-│   │   ├── svc_4-0b.vxe
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   └── t5.vxe
+│   │   ├── svc_4-0b.vxe [9a63fb10a85470feef1a9d0df5e1c92b5c0d4ed0b9b4f86a08368b793fe83a64]
+│   │   ├── t1.vom [618e981945fc162a98b6332e74cdce27512a764e11aeca884468e8ba8457d0d9]
+│   │   ├── t1.vxe [599c9531074fcc5a63ee2ad31c4bc5305d32cd6295eb83412afb9bd8725f0fdc]
+│   │   ├── t3.vom [bbc1c43fe701fb66c66813bb2983161eea5f2135d1ffff916f198ac812e7ac77]
+│   │   ├── t3.vxe [ef8ae193ec4930354a97ef4cce78b4032329618f904738dc83d6ab81a5daee5d]
+│   │   └── t5.vxe [f0d968ce996a7d24e84601cdabf0cf4f36c09ec7d7bd6a2566329612446b8a5f]
 │   ├── j
-│   │   └── virus.dos.svc.1689.f
+│   │   └── virus.dos.svc.1689.f [c0a72adbc200691af4976dd73dad6d2f63fe9791997738c2a7b98170ffe72e2d]
 │   └── k
-│       ├── sv1689a8.vxe
-│       ├── t1.vom
-│       └── t3.vom
+│       ├── sv1689a8.vxe [01e4cc90f71af7ada94d47fd525e2f07384c93ce95c117a33d75106a29791ba9]
+│       ├── t1.vom [2f3acf99e06bf33396f0731ce88342dc0b6dfd413975af21995af35afb1517ea]
+│       └── t3.vom [1b60959f19e659453704514700e48a43f8a3342111f142e1cd7efdc1e25ec935]
 ├── 1740
-│   ├── 1740.vxe
-│   ├── svc_1740.vxe
-│   └── v8335.vom
+│   ├── 1740.vxe [f9ac9f5dd688dcc44e807c1d3b8d741a62fd1b9d3edfc1ec00b9a81e106412ad]
+│   ├── svc_1740.vxe [e92c2b1c86a0b0d37f2b4d7bf077edc4ecb73c54f880cf24d6c1ede4633e5421]
+│   └── v8335.vom [1c31229ab9b962c51b5100a56f9c5e7d8dafe0617be9e24374a4c594d9c24e57]
 ├── 2936
 │   ├── a
-│   │   ├── svc2936.vxe
-│   │   ├── svc2936a.vxe
-│   │   └── svc2936c.vom
+│   │   ├── svc2936.vxe [36e3daa5b870377509f9f7664e9bc0716b6bbfb8d5f1b2e9a3f7d693e7ff952f]
+│   │   ├── svc2936a.vxe [16b5576fe29f50b9f06800fda00f046bae0e9b07322197ba200cb1824588fcb1]
+│   │   └── svc2936c.vom [d8e274bba44ec98d0cd78355823b55db94de81c985f90306252a249179eadab3]
 │   ├── c
-│   │   └── svc_2936.vom
+│   │   └── svc_2936.vom [d6affd78766d5994f622c237ccf09b0722282ecd32c19e74da202fdb21830f7c]
 │   └── e
-│       ├── svc2936b.vom
-│       └── svc2936b.vxe
+│       ├── svc2936b.vom [c701ff1310f3659e9d47950c9b5d882bfb6b87392e2a6188d291c6003c802e5e]
+│       └── svc2936b.vxe [bf9b0ba46a516792ed0f222c4df1b3073597f19e5bc51a8ac48cb9a721479eb3]
 ├── 3103
 │   ├── a
-│   │   ├── svc-3103.vom
-│   │   ├── svc3013a.vxe
-│   │   ├── svc3103.vxe
-│   │   ├── svc3103a.vxe
-│   │   ├── svc5-g1.vxe
-│   │   ├── svc5.vxe
-│   │   ├── t1.vom
-│   │   └── t2.vom
+│   │   ├── svc-3103.vom [df4838d1bb041c00335b182febba51a6fbbf607ce4ebaf24f0c8ffcfcbf05d09]
+│   │   ├── svc3013a.vxe [6ae808fa324219c0a3b56c5e1103c39dca6a431032e00e896dd336606165fea4]
+│   │   ├── svc3103.vxe [6e17f4f1f62d920abc6abc7e6405c8a137144b2e0724b415f6cdaeab497a7d6f]
+│   │   ├── svc3103a.vxe [38f663e0d954418910ba1d30f6379d2f671baad1e5ad399ebe0ccb7de3cdae8d]
+│   │   ├── svc5-g1.vxe [0e09ed71d396d72c4800a0e198238831ca4bb819ae85e6615c1c9b532bbfbf51]
+│   │   ├── svc5.vxe [27a545af84609ddb9ba991debc398c32490e4b3ecd46b0d5af9979e8920bf45a]
+│   │   ├── t1.vom [aa7f29bd30888bd7cb61435868d2e64b585addeb6508eb1b5864011bbc00c9ce]
+│   │   └── t2.vom [069caaa265c332a2a6badd6e61e0d69eabf96a89de9d466588e5bcd74bcbfff7]
 │   ├── b
-│   │   ├── svc-50b.vom
-│   │   └── svc3103c.vxe
+│   │   ├── svc-50b.vom [ca4127c88129db3dd64d9c64c3f9998009726d8f5946ade32953cd303f306d68]
+│   │   └── svc3103c.vxe [8fc643cfeb2a0e164de0b847e248e542240af1ddf5c32f8b1fdf7461102da3f3]
 │   ├── c
-│   │   └── svc310~4.vxe
+│   │   └── svc310~4.vxe [950cee16608045dfe728e501616e6043888089ca10917dd733563a9f2a5f2450]
 │   ├── d
-│   │   └── virus.dos.svc.3103.c
+│   │   └── virus.dos.svc.3103.c [996d7621ccf72a26134f4a8463a885f38b5326b5bfeed32541c640802deb2691]
 │   ├── e
-│   │   └── svc3103b.vxe
-│   ├── svcunk0.vxe
-│   └── svcunk3.vom
+│   │   └── svc3103b.vxe [fafb8bb18af02e87a077ae5278f03860a3dddfa69d65f3682a2d66ba09b34b99]
+│   ├── svcunk0.vxe [bd6007af94156fb7565b7ef153820d350c4e0004811f476c6263c91c9248e2e7]
+│   └── svcunk3.vom [b063fbd94bc60f0cd38bdc8a9d64d41482a0a5b570827542292cf0149f5008e3]
 ├── 3112
 │   └── a
-│       ├── svc-3112.vom
-│       ├── svc3112a.vxe
-│       ├── svc3112c.vom
-│       ├── svc311~1.vxe
-│       ├── svc5-a.vxe
-│       └── svc50-g1.vom
+│       ├── svc-3112.vom [a696138f026720e8938fb558bdfc89f87767b492db9f82e064eb51c5a447d22c]
+│       ├── svc3112a.vxe [2c2236f4b64ed83e67dffec484cac7d6d828b5af39d1408aa0c1a2e6cf1591a4]
+│       ├── svc3112c.vom [487830e4b76469e868df4b493ffb6eb22f04458312e1bc415e4f4e93bb1ba867]
+│       ├── svc311~1.vxe [e95b2c16fb02429083397d97c232fe6e9cecf3467f753ce7e11a2fbe883e64f6]
+│       ├── svc5-a.vxe [6ff2b34b9a152686af5197e5719a28bcf4c5f0933fb3eb50a07101f0ef285014]
+│       └── svc50-g1.vom [4cec546f9afc71c3a21c60d06ae0c45a1d51089055d8c689eb0856eb0f74d13a]
 ├── 3118
-│   └── virus.dos.svc.3118
+│   └── virus.dos.svc.3118 [ed629946c84308073b21286d929e30c9b11dbc0bb005a1d572cbf2e6d1bed432]
 ├── 3121
-│   └── virus.dos.svc.3121
+│   └── virus.dos.svc.3121 [62a9eefc47b7475dfce01da59c8c82728281b20f916497b4fa2f787493b90e75]
 ├── 3191
-│   └── svcgrich.vom
+│   └── svcgrich.vom [75f5eb0416e525d507dc852555da8e4edefcdb0e5e7d3d51cf5c34c484319a45]
 ├── 3241
 │   ├── a
-│   │   ├── svc3241.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   └── t7.vom
+│   │   ├── svc3241.vom [46d66ad7b2874be1b934a641c50a34814324614d5bd1ac13d25a6fca5c1758f6]
+│   │   ├── t1.vom [8a4f845cffe9ca9eed1e5f1aedda750df2ed364150d96654ccf0d2b982b09daf]
+│   │   ├── t1.vxe [e918945d86ddf72271baec18f9c105d3a003be38232b374a78fc034bd95eba42]
+│   │   ├── t3.vom [373621af2818c7644a7982e9fe5ad04369f4d37f6052f8a1b623386648d14e67]
+│   │   ├── t3.vxe [20da46ebd5441d6d7aad2550fdc1052d7705fe68d2044b1b91cabca677060434]
+│   │   ├── t5.vom [bbf528e1e8409f855cca23241832f0f254906588ea4cd16194710fd2ba36b8ea]
+│   │   ├── t5.vxe [464f8b6930c5117076eeaa4602364e768359a745d83c8d460e8135f8e0f01495]
+│   │   └── t7.vom [e494e90ef55b97538b5dce6c74a123718bbe07b556b8c893d764b7d63aecfb66]
 │   ├── b
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── trace.vxe
-│   │   └── wci03932.vom
+│   │   ├── t1.vom [f38a5c2f150a9ba0ecdbe9f36523306e63b4865b74c56b35f0e013bd66fa0dd9]
+│   │   ├── t1.vxe [2f7a0032c83282513f46cac873a45b8b3793c3bac6c4a1263421e097cb15285a]
+│   │   ├── t2.vom [d0c18cd8d241695c6671f135c5d19884f79d008731deaceda3c9eb500b93274a]
+│   │   ├── t3.vxe [28e9c87b7e0a75605ecc68702a1bd568a8a8f3b12f2706506fb65c24dd2b3653]
+│   │   ├── t4.vom [333a24964950ae0a9735c7b0b8f54f97db03ffe6ac886ad4bb3ea431fca9c0c8]
+│   │   ├── t5.vom [061a34a38958a42990682de59a24a021ddc2fe330b993586c6d08136ec85ad3f]
+│   │   ├── t5.vxe [39f4ff4651bbc4ae6a9a815b02de7b41cd1ac44bda5f621bbae4ad453c67fa69]
+│   │   ├── trace.vxe [cb64d04155506224680f1ad631a047e65d7469aaf9eb3ce03e10c98d569c20d6]
+│   │   └── wci03932.vom [69f4c7f4e6312709e4a98346e7eee4d2326de8feef5a5ce523bf3b6d2209a6f3]
 │   └── c
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t3.vom
-│       ├── t3.vxe
-│       └── virus.dos.svc.3241
+│       ├── t1.vom [d43b46e2f95be41581bb61d99e4f9b0a51541ba3df3446fff78fd2130585866c]
+│       ├── t1.vxe [3caecaa4f445e12d8ee37431fe83ee15fa8cb62f49729b67fe6be00be3988566]
+│       ├── t3.vom [b67d2185f5540444ada42f2e62abc64b4d1f4755afdcd5bb0de761cc3a89772f]
+│       ├── t3.vxe [af514bb354ccd7ec8b58f2b44bbdf600637cca328f7b84f7a2a21c1ab7b434ef]
+│       └── virus.dos.svc.3241 [d610be5f1232fd8c9f68c99cd6a75e6a47c378a71d85ef8dc953810576ec9b00]
 ├── 4622
-│   └── svc_4622.vom
+│   └── svc_4622.vom [cda765065f798afc9b95eea15dfcbaa6db7d196c1b9be44f821b283981a00773]
 ├── 4644
 │   ├── a
-│   │   ├── svc4644b.vxe
-│   │   ├── v8370.vxe
-│   │   ├── wci0635s.vom
-│   │   └── wci0861s.sys
+│   │   ├── svc4644b.vxe [4f05b2dadc80e80ae71048fca92a201b924e874e05bb7db54e60bc3c506fc03f]
+│   │   ├── v8370.vxe [02bb1010d42b1b6cabe33b7dfe8cdb73f850d2900741ea79ec8cb07258d6d09b]
+│   │   ├── wci0635s.vom [75d11a306be3a479b8c6c854970bc47b0b57b0326c0a67cd456e4380c1975403]
+│   │   └── wci0861s.sys [049d3e627535ccda8d9b5ecb80bd98dc8c748dd55771e197bd7312523d02e188]
 │   └── b
-│       ├── svc_4644-001.vom
-│       ├── svc_4644.vom
-│       └── svc_4644.vxe
+│       ├── svc_4644-001.vom [e4a6e4f74fcecfa7989fb7282da1f50ad5e2808d60f213f32cf3e4ed4960f34a]
+│       ├── svc_4644.vom [d41ae4b381d0c2e003ac67dc82043239dd6e0e6d412f24bc48640e9f3c8b394c]
+│       └── svc_4644.vxe [1fe4037d51572b92c7fc8db3662db08f91cf1f644acd574bfe55efa7342f417f]
 ├── 4661
-│   ├── svc-4661.vom
-│   ├── svc4661.vom
-│   ├── svc4661.vxe
-│   └── wci0862s.sys
+│   ├── svc-4661.vom [fb477f34f6a4424ca1826186498ba9bf34c03d0dcc025af35f3cb6052f4339dd]
+│   ├── svc4661.vom [69b79591bd584b4a5100f41e86fe9b54d53c321b1299992d643b1519bbd37128]
+│   ├── svc4661.vxe [e4ab61053433c9f6edd481c877d4304f8a0674c4113f3b29b4f08da6485d4ab9]
+│   └── wci0862s.sys [1a102c3b4a9a411ce7945fe08df5fd8b0556427fd704395bc185c16f599ef58e]
 ├── 4677
-│   └── svc60c.vxe
+│   └── svc60c.vxe [09ebc20026b10d1ba5dd9dc374582e2cd6934b0cee3f61b348239b9a96655d3b]
 └── svetlana
     ├── 1110
-    │   ├── svet1110.vxe
-    │   └── svet_10.vom
+    │   ├── svet1110.vxe [93a1ce0feb86c5c1bd67bb5d8c55295a6f6947e0d481bd5881a68e7d72dbde16]
+    │   └── svet_10.vom [dce7c598c06a39d6b69adfff78af51e0be2965ee78f1b05fceb098375155989b]
     ├── 2060
-    │   ├── svet2060.vxe
-    │   └── svet_11.vom
+    │   ├── svet2060.vxe [9288f7d54a68450e1342f85676fa54beeabd1fb1e87aa31812e18c1b06bb1279]
+    │   └── svet_11.vom [2e979d322afbd618f9299fbde78e2917e1aab6dea584f79a84c10607ebab72bf]
     ├── 3410
-    │   ├── svet3410.vxe
-    │   └── svet_12.vom
+    │   ├── svet3410.vxe [cf4268485f6f403af340b0f302f8f2af1953c55bdd962f0606e9ad5a241179b6]
+    │   └── svet_12.vom [560dbe98a57f293e07158ac00d7fcd77eb2d89b13627bb6c01fea016e6d25754]
     └── 4734
-        └── svet_13.vom
+        └── svet_13.vom [9353f72553ad5be5d14b5751f9862fbd187fbee2cc6698e5b9ae8b674583feff]
 ```

@@ -3,54 +3,54 @@
 
 ```
 ├── 2263
-│   ├── wpc_bats-001.vom
-│   ├── wpc_bats-002.vom
-│   └── wpc_bats.vom
+│   ├── wpc_bats-001.vom [284e23245de4f81d6d7d6e1fdec1aaebbf51fae78acf81fb3525e665874a43b6]
+│   ├── wpc_bats-002.vom [c646c4d048a417559221f89e8b7e7b2209ee226c3d4ac1ce554e3b79000b8f8d]
+│   └── wpc_bats.vom [1620780ded5686dd294ddb21ef1115046903adec4602c49773407328332b13f8]
 ├── 2279
-│   ├── ala-eh.vom
-│   ├── ala-eh.vxe
-│   ├── ala1.vom
-│   ├── ala1.vxe
-│   ├── ala2.vom
-│   └── ala2.vxe
+│   ├── ala-eh.vom [3a65c9cad75cc9f2d5573dadbf277737d47e72a86426372ff9e2ee4ee42a5cb1]
+│   ├── ala-eh.vxe [edf66d03107a34f51dc6beb0a4c1054cf9fbe2afaafc28b99025e8dc1c64032f]
+│   ├── ala1.vom [4fccfc5d875c793e852589e62137fdddda7bf72bafe698948b981ac26e47ec0a]
+│   ├── ala1.vxe [b7a2babdbb750633c50cd097d95bef80e288e9e665d1f86e68201a2ddd380869]
+│   ├── ala2.vom [738e7d680e976c63cd16b7109f74d298605c2ff14111029f61c5e4954b923295]
+│   └── ala2.vxe [729b9e9e3d190dfc5b5a199bc1d00329fb8e8230fe85d89ca02652c0c67f9733]
 ├── 2786
-│   └── virus.dos.wpcbats.2786
+│   └── virus.dos.wpcbats.2786 [bee24da03c4587b64460b570de1ae3ad45c43753efc4582a4e7fc18d11dd2703]
 ├── 2793
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t4.vxe
-│   ├── wpc2793.vom
-│   ├── wpc2793.vxe
-│   ├── wpcb2793.vom
-│   └── wpcb2793.vxe
+│   ├── t1.vom [365b0e06b7fefcea0452bc4a7d4c0dcf68306888b4cdaee7957bbc4e3ef61bad]
+│   ├── t1.vxe [71a84d635fe305c2554d10b7bcf4bd51140f38290157ed7ab607ef0c88e6c45b]
+│   ├── t2.vom [84569b5d84a7eb43f8761ca18fdae0072b864caa88a4e420a540aa03323b7e35]
+│   ├── t2.vxe [d015c61ec5e9b9457e3a67042bee6c7278472a13fcaf1439d8af1c30ee2171ce]
+│   ├── t3.vom [9f1c50b7b185d338bd1a3c7e02232eb62bbc0df0d04f58185c0c117b28f1a9ef]
+│   ├── t3.vxe [31ed495fc605d2c053c1ae4c3ef2f3577316d55fc873125547537759cf2aa6a8]
+│   ├── t4.vom [a02f44931ae9097245f88b9cb67cd85b2cc40dcca7987dbe8379638e6aee6007]
+│   ├── t4.vxe [5500b7cf34419326c8ac3bd67179fd57a235d149831b8252a218d10d1e368102]
+│   ├── wpc2793.vom [0a4b301edb7e2aca4c0513efb3e1b95b596b63bd58593f999bb8d02e48bc0ab5]
+│   ├── wpc2793.vxe [614776a4869018b6ce46d7cb7667bce8ff30da69bdc04c3d600ab1ba89b35205]
+│   ├── wpcb2793.vom [d99c4a2a7fd9e377e5974c31b56dd4e307d4d59dc58bcd640f281e8f396f93a8]
+│   └── wpcb2793.vxe [deda8a2a1ebc872c35b994bec8dbb158e26eb01d152974bfef76fce93c47ee8f]
 ├── 3069
-│   └── virus.dos.wpcbats.3077
+│   └── virus.dos.wpcbats.3077 [247f66dd6ee41b7380e1f388cee5847e019efaedf740ea2dcac8ee7ddae40fec]
 ├── 3072
-│   └── virus.dos.wpcbats.3072
+│   └── virus.dos.wpcbats.3072 [d4887a18c7647fc5ca7d6b69d8b0631ea7b1159db53394f2534554d02e29645c]
 ├── 3161
 │   ├── a
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── wpc3161.vom
-│   │   └── wpc3161.vxe
+│   │   ├── t1.vom [776c5c65b5afd6839063c3be672783e423e637ba7ea61eaba10afc6754821a7e]
+│   │   ├── t1.vxe [9dcb6efcfa3acfc5ce7196eb2440902108b5bc1482703717ac9c2857d98628fe]
+│   │   ├── t2.vom [682fcad942369529b534b8fe4ce61a2fe86b1581dc12f60095b329cb72fcb0b7]
+│   │   ├── t2.vxe [e9471641b245114f4e703f67ce214670bd824455e7f2e19d68bcc0c12e382533]
+│   │   ├── wpc3161.vom [7b646ed55117d22ade04b0e74cb600c1afb85cac91da13901528f5552cd0dae2]
+│   │   └── wpc3161.vxe [be2ba0eecf309d9e6ff71827384277d1e3f84ba47aa5e28e7dfba754cde418c3]
 │   └── b
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t2.vom
-│       ├── t2.vxe
-│       ├── wpcb3161.vom
-│       └── wpcb3161.vxe
+│       ├── t1.vom [68e3b7b4f0aaeb2b5fa1cbd871ba46a3fc4bcb6c6c0c00155f5e89c8d873b65f]
+│       ├── t1.vxe [fb8a7802d4caa034aa6257494b0897b0309117ad0c78aa579c783cb56e68ecf0]
+│       ├── t2.vom [53c1407fb05f5b47302b73abf6f9ff4a833e61c17a984f94b33a0d0692985c6b]
+│       ├── t2.vxe [a6c8357d02a20450e4d846d54416e191d3a5ce12f2238820594e1537f31e609a]
+│       ├── wpcb3161.vom [d6dfb3102d9c769d36f53708880c041827784ed852843625ab9d14bc2ef3c454]
+│       └── wpcb3161.vxe [c9e43d057ee36c62896c1864186caaa1cf2b1f58ab4351d81d4cc8fa31b41dff]
 ├── 3198
-│   ├── wpc_bats-001.vom
-│   ├── wpc_bats.vom
-│   └── wpc_bats.vxe
+│   ├── wpc_bats-001.vom [fcd1035cd4e740e309cd26261b27f8b7db348b070f0db05578a28497f68e534b]
+│   ├── wpc_bats.vom [9f33d3e08c829266504dd0e60bd8787a1205e3eaa1fafb4c9bfbab1fe5cea60e]
+│   └── wpc_bats.vxe [2d030fcd1a0144b20b0009e70f92bb07519751e6cc3f334b33b676cfb50a33e0]
 └── 3199
-    └── virus.dos.wpcbats.3198
+    └── virus.dos.wpcbats.3198 [1b8710af6a2b2e4119eb003f93b82acf6a65985291fba0f93e3808352c0899c7]
 ```

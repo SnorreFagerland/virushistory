@@ -3,23 +3,23 @@
 
 ```
 ├── 0840
-│   └── Virus.DOS.Barrotes.840
+│   └── Virus.DOS.Barrotes.840 [74cfd766968d8df03326f1731820a4fde4584008e0d3623249428e7c65a96845]
 ├── 0849
-│   └── Virus.DOS.Barrotes.849
+│   └── Virus.DOS.Barrotes.849 [ae13e9215a28eec1a8fea90dca3247a98508cc300ece3423929074091718292b]
 ├── 1127
-│   └── Virus.DOS.Barrotes.1127
+│   └── Virus.DOS.Barrotes.1127 [027b40ee1d850af46b3a0ab6a04499a0fda8886780f9dabf3c80c0178a95954b]
 ├── 1176
-│   └── virus.dos.piolin.1176
+│   └── virus.dos.piolin.1176 [3d1e7771534a94129df6a106c1f18131dc1583b64c4129a447b4f0fc1590b647]
 ├── 1194
-│   └── BAR1194.vxe
+│   └── BAR1194.vxe [fce2fd2c3e028a40fa7573dbf0b3b645b18d1c00d49e5bae20afbc2bebd5d834]
 ├── 1222
-│   └── Virus.DOS.Barrotes.1222
+│   └── Virus.DOS.Barrotes.1222 [b9af5a573860945b5d70c6c206ae442c96c111ae906a4188deb11be6d5d4b434]
 ├── 1292
-│   └── Virus.DOS.Barrotes.1292
+│   └── Virus.DOS.Barrotes.1292 [86a1441dc090c7d3fc7bacc0cf66f8f56d7dc235a0b998dc13fb8fe746745275]
 ├── 1303
-│   ├── bar1303.vxe
-│   ├── bar1303c.vom
-│   └── barr1303.vom
+│   ├── bar1303.vxe [6a9034d67dae9a7a12cd3886aeee769fb5c027e7a9a8929566dc15a44e97e09c]
+│   ├── bar1303c.vom [1bb15bc8d6ed4bba477e54aac152d63c32276421cb61629ea64c3487aeb4a4ff]
+│   └── barr1303.vom [7b5f33e5ae192bd3af218cc69076c10c2e2392fa6bd0a3c4acf547884f7186f9]
 ├── 1310
 │   ├── a
 │   │   ├── 02ef82205cc5784a175fd9628ea5df91698e44ca0b62383672b8fb1240639202
@@ -37,43 +37,43 @@
 │   │   ├── c4c4056720db2de8f4d7730f6e356a45ac0821e919c7ac6f9e3fdd426d3e3e32
 │   │   └── ca6c822fcfe142e82dc2583978d12eb42562329134eb7545503a2d820dc9f885
 │   ├── b
-│   │   └── BAR1310B.VOM
+│   │   └── BAR1310B.VOM [9f5355b153df2271417c08db420976da7f7726750f9e49823be2e0db4ac99ec6]
 │   ├── c
-│   │   └── BAR1310C.VOM
+│   │   └── BAR1310C.VOM [c78cb5741f5b71f1e9f89e0f9892e577aa248324a93f50279c06053ca8e3d211]
 │   ├── d
-│   │   ├── barrotes-001.vxe
-│   │   ├── barrotes-002.vom
-│   │   └── barrotes.vom
+│   │   ├── barrotes-001.vxe [61ea112f86784e4ee0cb5538a9a0d53f6aa8a941fe68856c11420cb1d981a225]
+│   │   ├── barrotes-002.vom [84e0d5595dbbcf87f8292a36220395062249f74a1d46dd2a2160e5e616354009]
+│   │   └── barrotes.vom [4297a337102638266535c1c0b6678662c483894e30257be236862b2158ed70f3]
 │   ├── e
-│   │   └── Virus.DOS.Barrotes.1310.b
+│   │   └── Virus.DOS.Barrotes.1310.b [34f996e1bd0413ae64342f66df2bc9e009875cad055291460030c387ac74126d]
 │   ├── f
-│   │   └── Virus.DOS.Barrotes.1310.d
+│   │   └── Virus.DOS.Barrotes.1310.d [212b57309c17ab6e08df62daf4f666d56b679d6c3e16e399b844dc8a2e978b10]
 │   ├── g
-│   │   └── BARROTG.VXE
+│   │   └── BARROTG.VXE [706edd91d3a476fe786de6a21e7f5d19623874612eb67a5de92b69ed8850b6d8]
 │   ├── h
-│   │   └── Virus.DOS.Barrotes.1310.e
+│   │   └── Virus.DOS.Barrotes.1310.e [c9e0f1f497caaa6cc9189da9dfaed9ad50a0f9e0dcef8dc06a5c1965f2eaa9ed]
 │   ├── i
-│   │   └── Virus.DOS.Barrotes.1310.i
+│   │   └── Virus.DOS.Barrotes.1310.i [7c9300ebe505f7182a271e4da7d7996b2fb6c9ada2016b66055b4164f0d0172e]
 │   ├── k
 │   │   └── b31c88e706712c06f72630afae1ae50fba4b9f8de03e4a6565907806606b6b37
 │   ├── l
 │   │   ├── d40ca99351fa4011d692ee2a4076a6e2d75f43fecf5c3013bf5961a4ac11d423
 │   │   └── d95de07991fc252e282640a728a995a25a07e6fb663e657fb650e4e0c45589d4
 │   ├── n
-│   │   └── Virus.DOS.Barrotes.1310.j
+│   │   └── Virus.DOS.Barrotes.1310.j [a3b592f96aded49c068412bf6e7aac6d001728ba30edf04ae8179f3026156855]
 │   ├── o
-│   │   └── Virus.DOS.Barrotes.1310.k
+│   │   └── Virus.DOS.Barrotes.1310.k [6facac47bba5b878fce4030cc82cc33647757d459b308005dd1c6e6ed45d2060]
 │   └── p
 │       └── 5ff143a0bc2053342fca0e6e7ef3d14dd1e259ce8db2228f1348e062f1d0909e
 ├── 1447
-│   └── Virus.DOS.Barrotes.1447
+│   └── Virus.DOS.Barrotes.1447 [96cdec200172f8793c8eb22dc7fb2faaf3687c06ee103ae79bd272abba25065c]
 ├── 1461
-│   └── Virus.DOS.Barrotes.1461
+│   └── Virus.DOS.Barrotes.1461 [8147000741a3a1869933434798f90058a895967525486871642c96df57f10402]
 ├── 1463
-│   └── Virus.DOS.Barrotes.1463
+│   └── Virus.DOS.Barrotes.1463 [8ff65a5208a0f20bf4731861f41ddb550fcd868df190b999a9519fa4f5b61b7b]
 └── 1874
     ├── a
-    │   └── Virus.DOS.Barrotes.1874
+    │   └── Virus.DOS.Barrotes.1874 [57161254ceca9390a56a7aa709b465efc9ff1606ab36beb98b542ab4833e8b39]
     └── b
-        └── barrotes.vom
+        └── barrotes.vom [bd84f3dcca90208ead063398946b238272f4ddec7d113ed5e55e6032b48100a6]
 ```

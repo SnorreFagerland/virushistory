@@ -3,34 +3,34 @@
 
 ```
 ├── a
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   └── v9910.vxe
+│   ├── t2.vom [00ea198bbeaff3f02fcf3c6b16c5c10b8170cab42a6bc129f1d960f0c7feb261]
+│   ├── t2.vxe [24727c28795595c9a66bfcd5addb501d26dcd9500fe4d49458610bc8e1f4f817]
+│   ├── t3.vom [59f03fa535b985f03d708e84d711f2cc43096ae15a76368415a41e7e0aad5b57]
+│   ├── t3.vxe [ea748b03eef2a85c34d834d32b0c6240681baf6cf1ad8e182799a8729f54a451]
+│   └── v9910.vxe [71fb2539363f3fbf00f25347fd672f8f25e574ab87d1a9f451c00605b146409b]
 ├── b
-│   ├── satan106.vxe
-│   └── toto-b.vom
+│   ├── satan106.vxe [a90055842d46c9adfc493350423d762504e2a364fa8e205186ebe0f7330f8b19]
+│   └── toto-b.vom [77e0f863191302f5c3964d9f15516ebf13b8dffa5c6af0d1fba51c4d8a28cd68]
 ├── c
-│   ├── jertoc0.vxe
-│   └── v9915.vom
+│   ├── jertoc0.vxe [6b1e736ae334a8549c0afc00ce1741470412a1fdcd618a2be0ed722739ccba18]
+│   └── v9915.vom [400980360154fa6da5e73e7933ca53dbbfcc2f462eadca78b330868124bb122a]
 ├── d
-│   └── jeru1536d-0.vom
+│   └── jeru1536d-0.vom [2d506edd6175f1c43a9357d4232104e5b147c1cc72cb92d77cbe37aa160ee6ad]
 ├── e
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   └── totoro2.vom
+│   ├── t1.vom [0aa26c40aafd9657c0c478f0ddddfc6b03411095f7342735384cab92dfd51665]
+│   ├── t1.vxe [7c997972a0dab98d383501cb38aa2f28c6bbfcb927d46cf20a9c18c3127f1d71]
+│   ├── t2.vom [09ca1a394baa4ba40a33ff91033bba2c059b3f2bcf5b97d64ffed3ad2f50fabf]
+│   └── totoro2.vom [5e75a8e9e3ea9c3134507b287f0d8b8ac43416c39e6075bdad9b6b639244a4f2]
 ├── f
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t5.vom
-│   ├── t5.vxe
-│   └── totoro.vom
+│   ├── t1.vom [9f23fa9636b17e0c462a84a2897909dd239792a175b80be45736591f6742cd86]
+│   ├── t1.vxe [53d77eea0a291b6c134f6eb8fcb234cb18a594289b8cbb7509d134c83e76a96b]
+│   ├── t2.vom [25b7b60860414a53d88be09fbaafc8d6ebc6eb1cced7d8d86d5b23bf16342438]
+│   ├── t5.vom [b7618be2837f819382040c2385246cb9f4d6ca712ee4ae79436b1f2c7e5bc079]
+│   ├── t5.vxe [562eb542b0984fa125d68ad8d2a80a152012e06eafaeffc0b81c9cfbec31f548]
+│   └── totoro.vom [6cbf000ccbdb842b5142d24d9366e3a4884f0e3f947f68c06cd4dac3a63cee42]
 ├── g
-│   ├── jerusale.vom
-│   └── jerusale.vxe
+│   ├── jerusale.vom [f0a32b3f439f8ee4eac9085febcc7d9c6242781c131b876e659e90a799a349d3]
+│   └── jerusale.vxe [07afb082a7162ec0f9cfc9992815f63fd01ca2e9b99cbf59be8e4e1c63b10952]
 └── i
-    └── jerusale.vom
+    └── jerusale.vom [97d6a2437c12eef61a2af2f28307f0cf9cdf55070a863b0ffea0a8ad79f86c6a]
 ```

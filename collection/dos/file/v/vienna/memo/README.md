@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── v-memo20.vom
+│   ├── t1.vom [bc79cbb19d2daa02d0394e4e95925c50b04ef182feef797b8abe8af70fc69d4b]
+│   ├── t2.vom [6fed771af7b271836b753f9e593203e1f9f9e44941b65cbcf01cae356cd205b6]
+│   ├── t3.vom [e5f7b10da004f4f1212a487a045ad5c8ed2f1e3c06b075c0f85660832f5dc980]
+│   ├── t4.vom [4dfa92e07ea4aa1e349b183690fb8c5464e14caf4880b95b7e5ab1c620920ca5]
+│   ├── t5.vom [aeba2dc17d06f7e4d9650b8116c780ba297aefc608664d362028981a9d0daee7]
+│   └── v-memo20.vom [e3e348cbc6be4be926408fc1cee2ef0c5628ab376966de6358453f29f2930f9e]
 └── b
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    └── wci0570v.vom
+    ├── t1.vom [977d7e9b433f9c160c8189c7b8cf35f5b9f79e64ac7c87174138128d78d07fd6]
+    ├── t2.vom [f364a56923852403b75570b9021bf2d614f97f762ad145e0d8a3a7b52e55a8a6]
+    ├── t3.vom [e8d3b47fd29a63c43eb5e76373f337d7eb828d5aafd44794488cb99391f8cc8c]
+    ├── t4.vom [f48c069e0f7cfe8582b1dca1924ef62a12375a578f73877773b3ed3a6c99394f]
+    ├── t5.vom [d9ef684cb10bd58e58e68993b6f0793318acd6f02419ae5be8dccd5e67a380fe]
+    └── wci0570v.vom [58dd758d20cbc75129494f4bd5015a406efeb6a752b10ac1f74d71ced8f6d627]
 ```

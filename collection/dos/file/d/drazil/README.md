@@ -3,35 +3,35 @@
 
 ```
 ├── 1967
-│   ├── debug.vxe
-│   ├── lizard.vxd
-│   ├── lizard.vxe
-│   ├── lzd.vxd
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t5.vxe
-│   ├── t6.vxe
-│   └── t7.vxe
+│   ├── debug.vxe [4a55067cd6f1ae262252c8e44b8a06651155e8aec85f95a433f261c4c4441631]
+│   ├── lizard.vxd [a3c9c09ea55dce576b44f501c404c1c3f35a8f02eaeb136a539b4597dfa9e3cb]
+│   ├── lizard.vxe [db8e9fa51a37bdeeccb152db4f9ac8628f525a53a3d96d09df64db82657e555c]
+│   ├── lzd.vxd [167055cc046c69491770444d10fad70f24906e32c9d86d1601567b7aaff89a27]
+│   ├── t1.vxe [d08fe27a37344cb987eba605d2cf1054033eee44fc221e396f6848e5d0e59c1e]
+│   ├── t2.vxe [d291464eae83dc0b001641ed22f84c5b21b5197c6ec59a088f65bde103b23130]
+│   ├── t3.vxe [e7eb77325b4d16d7ea42246dc14b7028b05422354d8f34afe428134884048c3e]
+│   ├── t4.vxe [8f67e86a0cbfba9f236da6e5f5a5adcf365d1114ef674e5dd78d56fdc57a49a7]
+│   ├── t5.vxe [c1a7ee204adbab1d525a881cb8f54d23a88af344ca26d54328501c74ff6e3fbe]
+│   ├── t6.vxe [5c73d330afa26bf7e67c649c7740e4b844608d705ef6db8cabbbcff1f9ac8196]
+│   └── t7.vxe [965b2cd0df21d9b91a3ac81c75cda62d3ac8aaa5f24a15efef237bae45b704cf]
 ├── 2381
-│   ├── abadbs.vxe
-│   ├── attrib.vxe
-│   ├── debug.vxe
-│   ├── fc.vxe
-│   ├── find.vxe
-│   ├── lizard.vxd
-│   ├── lizard.vxe
-│   ├── nlsfunc.vxe
-│   ├── setver.vxe
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t6.vxe
-│   ├── tdconfig.vxe
-│   └── unp.vxe
+│   ├── abadbs.vxe [5c2a82dc4593688809dd84c45e29f4a744290bb901577eb74bc38a1608383599]
+│   ├── attrib.vxe [7295821513ddc700784210e894455d9a8a02df98faba61b46ab5707f0f70b34c]
+│   ├── debug.vxe [5eabbc406d9466f6b255c6b182e1576242523e9140c44b93f261179fe4105153]
+│   ├── fc.vxe [3b856d37d737e15b244fdcf1b83fc28eb9b9107a476f7ea1d93bbacdd3c3d806]
+│   ├── find.vxe [deca1ae7f6c0b8480fd8b6183eebd17ea5c66c6d338c1de6d7e7151046e3a13c]
+│   ├── lizard.vxd [b64091f85f63e0d6f246fd88165df79ade260f2e9570e779cb42bb679c10dd43]
+│   ├── lizard.vxe [85fb11123cc9822f7b12a1cbd00b231882785f335d51a785fa64dffb9523c60b]
+│   ├── nlsfunc.vxe [56d585540fab9cc0d575457240715997707a9be2c4ed3fea9339df3d06c8042a]
+│   ├── setver.vxe [2770d1628aa851e4e34067ad69ff7594d42e02d6fe8edcbe5a723eeeee19c073]
+│   ├── t1.vxe [b8b284707454e7446b0acc168fe4f7c4d25602f464fac295e3b72a2c0edc21de]
+│   ├── t2.vxe [9717a83967fd00a8cfafd4309487eb738aa0ca4e72846a02b252f4ee34fab96f]
+│   ├── t3.vxe [816ac1f03d64788cd70f9be30fd8237b3cf73dc70d38f037880cf6ce92c6b98a]
+│   ├── t4.vxe [96028aa1100a18d57979fc751d3da200a3476828c9adaaf97b37ebfb91d3f35d]
+│   ├── t6.vxe [9b20ad5799f943e2fb813f52715bc4b3464dc707ab2085058b36c5a9a548f522]
+│   ├── tdconfig.vxe [8251b21bbefe15dc043720c66e453ec5aba26700da553ea4f5d91b8584c3d074]
+│   └── unp.vxe [1e1461dbb4aefc794f4fe462451ef7b09621390057af7e442c09d27fa3575bab]
 └── 2869
-    ├── dzl.386
-    └── infected.vxe
+    ├── dzl.386 [4dcf0031ba073d8de1a878b03f795c73fa1482728be7d3a3ee6951271a7b659d]
+    └── infected.vxe [1ef2b3f8376e2dff2a9334cb5be23744db55e8c338529106e07094928f2528a4]
 ```

@@ -3,11 +3,11 @@
 
 ```
 ├── 639
-│   └── virus.dos.uta.639
+│   └── virus.dos.uta.639 [296393708d37f344511401d4c66f41b7aff56e514689e18811ae1c7e6a278e4e]
 └── 670
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    └── wci0033u.vom
+    ├── t1.vom [ed40f0e836e23357b39580e8fd1f80dc6697ac0916f28c310fe2cdb0b79d3ea2]
+    ├── t2.vom [627ebd1965add7ff45fc67fe793a3cae36c140cf6a6085f33e32cf4bb1b44d4e]
+    ├── t3.vom [c66f00bec7c07eb52835984d36d9817c95d4ca81a394265bb6537ec0725c2b27]
+    ├── t4.vom [a8525935a93a6a9e1427b90a16d6d84ac6baa0fa52e97873e589d08b9944a931]
+    └── wci0033u.vom [d5d8e614251f9abf568d38a3f9455446c8e959044282665525d09efe3e2c3b40]
 ```

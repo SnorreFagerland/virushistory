@@ -3,23 +3,23 @@
 
 ```
 ├── a
-│   ├── lisbon2.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   └── t7.vom
+│   ├── lisbon2.vom [f8d28b82383963f7f165ca9cc0252a40327215845e481fa14a3a14e8abff6f7d]
+│   ├── t1.vom [174aac096035e9a1e9b868d3a75e9bc61ae2c800ffd228fef0603a91269548d9]
+│   ├── t2.vom [a3aa4e330fcbbe711c0a526a221939e7208cb744f1e8f3041519f7873671dc24]
+│   ├── t3.vom [ab5bf97178b96578996bbbe232112856e67656f479f4d13c4dd65c15eaf2a4a0]
+│   ├── t4.vom [02a8048cc3b8fc75918eb41f016634faff5aef736099fd5c0bf1fab229bd7b05]
+│   └── t7.vom [1c46ff9d2dba20b5edc40959a950c8c002f9ac38a2594041a834a1ecae20a370]
 ├── b
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   └── vhp-627b.vom
+│   ├── keyb.vom [c4c1cade9374379ea5c98541bdcf3f84a1f6636040b662d417d1faa52dba5817]
+│   ├── t1.vom [212006ada1babe870bf387b48fff6f1cda90dc53ccd24e82f9a008c7f1c9d22f]
+│   ├── t10.vom [8541c7e9b86d81161a503a88db3f9939c73d9de3379d4d3195f0e06fc4cabedb]
+│   ├── t2.vom [a238a8c421b20f4434423b4bc2460ef2791dd27f5435afac0d9009362b9cf625]
+│   ├── t3.vom [2591b349b76f824aef802b29fc2db9e18ed3e5528dfa2182947c862fd1a570f0]
+│   ├── t4.vom [44798343914af77fb78ea27c2ff6eef9dc12c31c86d33af869879cef9b0bdef7]
+│   └── vhp-627b.vom [8cdd79f0aea4eaf58e24f2056bcac53cf79ee67d10daf8a3b99e98f2dd7a1666]
 └── c
-    ├── t1.vom
-    ├── t3.vom
-    ├── t5.vom
-    └── wci04132.vom
+    ├── t1.vom [12f536fe7f84f6759cfec02e7bec5bbc0aef241c3f4c0aa643d6da38db241d33]
+    ├── t3.vom [4096c6709c60ef2be23acb52ca7e358916af8c45d7f39c9128a72d15f8fcefc8]
+    ├── t5.vom [da39e1419fc18daeab307b5d0db6be3526c6d4bd8215f8e22173711e29de2c7b]
+    └── wci04132.vom [dbfe515954110aee8f5c4d545b1560be8232ff38742ee62063ef223c5af5b99f]
 ```

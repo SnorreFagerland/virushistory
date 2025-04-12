@@ -3,12 +3,12 @@
 
 ```
 ├── a
-│   ├── hi-460.vxe
-│   ├── hi.vxe
-│   ├── hi460.vxe
-│   ├── hi460~1.vom
-│   ├── hi460~1.vxe
-│   └── hivirus.vxe
+│   ├── hi-460.vxe [2f9e1cb87fe049f80b49375d25c8726656771233267b718532f73a27d39851de]
+│   ├── hi.vxe [c77c5015604833881f5f65caeead817430e6e3db7535a5f42651be19db95b489]
+│   ├── hi460.vxe [bf92b7419bd6e45992c9cc1c38a9c379e8aa94995471a9de724c3853e575bc77]
+│   ├── hi460~1.vom [535a0a62e62fe2da36669bfdc1f0e53e661dd14c353c6c351848206a4d0799b3]
+│   ├── hi460~1.vxe [959ecf5304e7504db7a5c2d51e7a3b1f6350e9b8a4996b26ba796ead9c4412ba]
+│   └── hivirus.vxe [4bf54dd61897ef252e9818cc6d187f131931271ce82bf47f0a3f6311459d22c1]
 └── b
-    └── virus.dos.hi.460.b
+    └── virus.dos.hi.460.b [059020f8dd209dc74dbf865446f54291e7630306a9c1b5d6b6032afec240eea6]
 ```

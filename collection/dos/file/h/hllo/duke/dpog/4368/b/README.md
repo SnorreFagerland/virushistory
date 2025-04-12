@@ -2,8 +2,8 @@
 # Contents of `b`
 
 ```
-├── DPOG40.vxe
+├── DPOG40.vxe [ace9ec5e5921484a39662cfece5dbb54a8f98375cc2b7cc2020d6b44dde02520]
 └── src
-    ├── DPOG40.CFG
-    └── DPOG40.PAS
+    ├── DPOG40.CFG [808caf3ce5defe37b66e39319c2ced49933fb0a58c59554a6be4be90863b12be]
+    └── DPOG40.PAS [13d0def469995e58e11b1e72204885a532f040543d788140febfc9ef55b92a50]
 ```

@@ -3,20 +3,20 @@
 
 ```
 ├── b
-│   ├── n2000.vom
-│   ├── smegwin.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t4.vom
-│   └── trivsmeg.vom
+│   ├── n2000.vom [1a9e25db67f4dfe61ce2474132d9b29bfdbada55abaf44bef56e129d28b2a842]
+│   ├── smegwin.vom [eac6079b644f0a710e85bcab91617a732a136575e660bb1fc7dab2e6abd50f05]
+│   ├── t10.vom [8a67b355709563d72d25e9bc2c6d36f0325987d8b4c660c0d16b186fb7fa7aad]
+│   ├── t2.vom [8e12053050009f7083eaba949c58e155bfe7cf1f9ffd1d2ff2381c164bd4f954]
+│   ├── t4.vom [fac2389166fadc0586f76437448a6fb1a10421c3e2a01532d8e5c2f8bf74f8ed]
+│   └── trivsmeg.vom [53cf019f80a3c8d784f5f238b69627469a343bbe2c289421eff5065d058a56a9]
 └── d
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    ├── t7.vom
-    ├── t8.vom
-    └── trivsmeg.vom
+    ├── t1.vom [bf659e33270105ab06c70bcca08a328f7f71b7b3fad6345c4d4d4e7332002486]
+    ├── t2.vom [2536fe4dc95fb52e0b40d4c4487123b9733e5a6d8ae1a479cc66dd1e3f528c6f]
+    ├── t3.vom [5dd928854994fb39f37c205d00677e5383c89c929caf9e8588199ab0771c7235]
+    ├── t4.vom [fb5b960a5d0248d06705c4b64dda7d5a93186c5b6a39e035b979ab7429540248]
+    ├── t5.vom [63bf695d9e0099a64609439084a34526fc6e8eaafff00a56779da85a0544dec5]
+    ├── t6.vom [868eb5282770a58c085f383063b71981d1062cda6ea856f8f91419ee22ad519b]
+    ├── t7.vom [2fadad2adf1e635e92f28ddba8bd2dde6034371d35abb448853aa169a981a97c]
+    ├── t8.vom [d0c245f6ec4625f00fa877b68e6122050dced4f400f54e873feede3f1ca4eea1]
+    └── trivsmeg.vom [facf87633b80494bcf07cded89e79ef7e8bab362a1eb40043fdd21c4110f5dfd]
 ```

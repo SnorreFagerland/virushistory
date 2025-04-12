@@ -2,8 +2,8 @@
 # Contents of `a`
 
 ```
-├── DPOG49.vxe
+├── DPOG49.vxe [51fb3e16c42e0412cc4292c4566e547656ea5e32996b37b81da3540a5c90da64]
 └── src
-    ├── DPOG49.CFG
-    └── DPOG49.PAS
+    ├── DPOG49.CFG [a9adb0a0c8183e3a8f9456171be98129cef8002e6afeee5e8b42590b4dc7ef30]
+    └── DPOG49.PAS [a7333fbe283f1d08e6ee0dd4c985b1f4609bd39a6982b72cfb51121c589cd8e3]
 ```

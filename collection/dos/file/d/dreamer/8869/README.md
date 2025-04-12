@@ -3,23 +3,23 @@
 
 ```
 ├── a
-│   ├── dreamer_-001.vom
-│   └── dreamer_.vom
+│   ├── dreamer_-001.vom [40c1c3c48040a7186006b93b79efd01c0bd3abb3486d7277d44b451d7c202c24]
+│   └── dreamer_.vom [e575b13eed853e4d40b09582aba2e38b2b768b621b5380d586aec8b7b7ab8c91]
 ├── b
-│   ├── dar.vom
-│   ├── dar8869.vom
-│   ├── darmandr.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── dar.vom [ef19d31573e43681c9e63a502a2a2863798bee831968fe2d2f1e382bf238794a]
+│   ├── dar8869.vom [249f1e79787148cca4e4a901eaa5119eddfdf39d0f564f3bc7cbb924c41383c0]
+│   ├── darmandr.vom [276fecf7b4a06f2ce8dabfd979ff4b4706196222a6804824412df10b612885e3]
+│   ├── t1.vom [22194f6a9f6fe306958efbb6e8f372d71b8e09b9fd73065f63085167fbb5a6da]
+│   ├── t2.vom [b3ca1cec637b5e549aee88388def9c744c27e74b27b28c4697f9604ab723e225]
+│   ├── t3.vom [df90422f97f16c352f80a403f385963c4f670672ae23d50964daa59572e730fb]
+│   ├── t4.vom [6d7c4da6f5f8aec4c0bd385cb24245256308c22356a2994ee3e746b500ef658e]
+│   ├── t5.vom [acb281866c168de8e0142c238889e28bb2c835c1dc8059d212ea21b2c8f232fc]
+│   └── t6.vom [4e828699e8468dbbd99cf5ff195acc18e93330caefdb4ff46866ea4955c6a96e]
 ├── c
-│   └── dreamer_-001.vom
+│   └── dreamer_-001.vom [4446e26744dbb06e3dc8602d5aed5ee82800d30a6a4521d02230e46784cc5a30]
 ├── d
-│   └── dreamer_-001.vom
+│   └── dreamer_-001.vom [7293afcd2caf8a73b1d1fca7796972fd64f29eac722a8611eebaec394b9166dc]
 └── e
-    ├── dreamer_-001.vom
-    └── dreamer_.vom
+    ├── dreamer_-001.vom [8dcf9fe35ecb9b0e0e19e18aa1ebcb784e7f0d9b785a602daf1d9c6bbc8aaa56]
+    └── dreamer_.vom [61212385607333df54940989566e275e4c1bdffc93e58e6a107ecd07a7322692]
 ```

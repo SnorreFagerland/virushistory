@@ -3,69 +3,69 @@
 
 ```
 ├── 0279
-│   └── virus.dos.torm.279
+│   └── virus.dos.torm.279 [c2de501eff51a44f706a8d6b95b364237ca97d7b5888e10795fcda6e3550a8a9]
 ├── 0512
-│   ├── tsotl.vom
-│   ├── tsotl1.vom
-│   ├── tsotl2.vom
-│   └── yuth512.vom
+│   ├── tsotl.vom [72ad8f1eb0826a5d881ef5bdb5ad43e37d3005483eaeda3390d820dd2dc4859c]
+│   ├── tsotl1.vom [ae953d7dbcbf28ba73e2ba7c877a7aaf9f6d1b5d38476c493d9db0ea8bc7aada]
+│   ├── tsotl2.vom [56c469d159959c23eb3e157df8f54954b33de243f894dbd9b250faf4f4994f71]
+│   └── yuth512.vom [9d587d76b59b5dd5e1098b1c15464d483f20abcf65ef1b1d23ec89f3ef4933e9]
 ├── 0563
-│   └── youth_56.vom
+│   └── youth_56.vom [046cacd8cb0e2036fbdaf72299e8ed6fecd38d86a43f684425515ffd2cb1b522]
 ├── 0577
-│   ├── 1-you577.vom
-│   ├── 2-you577.vom
-│   ├── 3-you577.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── wci03254.vom
+│   ├── 1-you577.vom [76e45434a8ce923bfc991acf0e283af94c11903dfba6c64693d8f7e73b8cacd0]
+│   ├── 2-you577.vom [a8a5e3f2a539ca58c98e375b2d6386750f3baaf88ea0cd81348a807aeb6cf143]
+│   ├── 3-you577.vom [ef3f3dd06d7a8a61fe4920e9fc78424b8b2ff74901fb105e9cf87937ca510131]
+│   ├── t1.vom [21817b41b33b606f1e279bb5843bdf9f148a05ea98fdc8257d602cd8020faae4]
+│   ├── t3.vom [4405b974d69d009c4dcf6e700e1512d3ed68fb5b5a8de952f4a0839d9add1fe1]
+│   ├── t5.vom [7c316d50b10d6c8e155c6228eea1476e011fe6cf6b31679fb140a6241935d27e]
+│   └── wci03254.vom [63d56cf09bd472ea62f611e43c3916ca85dc1ec708f6d83db3be2bd8aa628f82]
 ├── 0580
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── youth580.vom
+│   ├── t1.vom [3e834ac32ef55092175ec33b6232c59f83874bbc8c37728bf02d32e226252c08]
+│   ├── t3.vom [95de1ff92db3d2aaf479c6662382aba1c557812fa080b1c704dac4f3ba916d57]
+│   ├── t5.vom [788aceaca53e07a0c955236b1eb1bd9a9c53674ee143ef935ecd7e6ac0cafc7c]
+│   └── youth580.vom [fd78df575ca8c91f8487643cc968c561ce33e77ba64eafe79a6f6cd8475afe20]
 ├── 0581
-│   ├── 1-you581.vom
-│   ├── 2-you581.vom
-│   ├── 3-you581.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── wci03264.vom
+│   ├── 1-you581.vom [c9168b726c4f28e525a044b5eba550d19b9fec1ad82ba15caeb6b51dd7dbcaed]
+│   ├── 2-you581.vom [9dd9ea699cf6f5c6e324de115615a27ae45739149be6050fb8317e55820cd0a5]
+│   ├── 3-you581.vom [6f5890bf60ea24922847fd58272578f57dbbaee5ec2535812bb8703e1f51d2d7]
+│   ├── t1.vom [4fb48ca256a02910f453334fb425329c3c0fba2d3426c2f89d7eb0ab4ecc92dd]
+│   ├── t3.vom [c4805e1e322b8d595b8bfc5d47f9f312560f1834b52d4ac2224653f3c8394632]
+│   ├── t5.vom [e7fc3020ae5136667cb94a18edb93a0244f82726575cd1ede163d360e107ea86]
+│   └── wci03264.vom [744e86ecc7e1b3a645dd6a9dd7f870e3e9650a8ce77fbe3e9da611abbc6f1c3f]
 ├── 0640
 │   ├── a
-│   │   ├── hause.vom
-│   │   └── youtheu.vom
+│   │   ├── hause.vom [95c32bf1c911e0607898c827f95746fd4394e720fa48aaaecb7528ae1c07624d]
+│   │   └── youtheu.vom [4094cc4411e419ccc68a2b8527afbdb714bbdddcedf98fa97b7c7d166af72fc3]
 │   └── b
-│       ├── youth-b.vom
-│       └── youtheub.vom
+│       ├── youth-b.vom [6a108b195058cde853506f1d98ab5e7c14bc43632adec28ef22b6563568828e1]
+│       └── youtheub.vom [075bbd364e4f3e241def3e4bcb5e5ccb9c5eb46e3e452dd8f98d3b8de75e7cf5]
 ├── 0646
-│   └── Virus.DOS.Youth.646
+│   └── Virus.DOS.Youth.646 [eb2c7346902a31d937d4d683d2824037294f9badb084a28a5aab9e301fe60c8e]
 ├── 0968
-│   ├── 1-you968.vom
-│   ├── 2-you968.vom
-│   ├── 3-you968.vom
-│   ├── futhark.vom
-│   └── h.vom
+│   ├── 1-you968.vom [16c776fd21f706b488ed1f51b83663eeaa423e663c55d93613de750510858d42]
+│   ├── 2-you968.vom [3bd11c1af114eeab66aaf0f52bd0a3b255aca1e6b36fb135cb0dd0091dfb633a]
+│   ├── 3-you968.vom [6eb0adeca506be83b9584c3f1d8d7a4ae2f5f6fa02bbe5d67af8621f240c70f6]
+│   ├── futhark.vom [eeb6a3733663a4fe3c09eb77cb60fb0e86bc69b5b9948035a0584f4f6fc9702d]
+│   └── h.vom [dbf35a4bc1cfde7745d20953b2c726127c1e420b86debf4c65f7b3310d18c84b]
 ├── 0970
-│   ├── futha970.vom
-│   └── futharkb.vom
+│   ├── futha970.vom [dc7a38e4c4dedb4416cca18e0da71a0a81304ac858d29094779ecbd33283b5d4]
+│   └── futharkb.vom [7281670983ba6251a3f5fcccc96da6b0ae6b27df7e13aef182692398cf11de62]
 ├── 0987
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── wci03274.vom
+│   ├── t1.vom [64301ff3501fd0e03671635cbaf15b3bdff14bb129f05a16bdfeb35548b3fd4e]
+│   ├── t3.vom [bf1b2aa8acb8a9ecf2f65a9289dc40650214aba767fe67c5bb48d2f6cd3ad742]
+│   ├── t5.vom [8966caea7c50a65a02f61bc59e3fbafa5e340bad480a147ac76086152244c048]
+│   └── wci03274.vom [700fcd4453164455b255c0285f392ba6599356ab33081514b0d8f2dddd3036f2]
 ├── 0991
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── wci0089y.vom
+│   ├── t1.vom [a884afdc90ab4ef928779b1adfb98ba1ae47a80f25d89aac637c63afc2b3be5e]
+│   ├── t3.vom [020d9d234dfc531342b576612e3a586dba2c11c24a1e03b2d1f287ee9e309eb2]
+│   ├── t5.vom [e7a3a0a842ce4cdb6c865e35c8ffdc2a6fdb0642d83a5b0f4ae010f8b3e38577]
+│   └── wci0089y.vom [b3026aa39876aeaacdb28e8dd717b0ac64698fa07ad1c0567774b551d4fa13b2]
 ├── 1000
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── wci03234.vom
+│   ├── t1.vom [19c2f00022f66473da7ccbd87e6868c8d2ffb8a12bcabaaea974af8b09a09767]
+│   ├── t3.vom [d6b8dfddd5eb458cd69a37df4d97594ad2db8adcddc83ce061a1cec95559064e]
+│   └── wci03234.vom [6ea486b2beb54a88bba7bb980de2a686d9bbb8209b4efb52264228829f18a215]
 └── 1004
-    ├── t1.vom
-    ├── t3.vom
-    └── wci03244.vom
+    ├── t1.vom [4b4d17c4e1fa417725f6251829d02e22baad9e7de9d3f63afcc0944e4aaeb584]
+    ├── t3.vom [4f8fbbec7017249108966e9312d99f418417fb3b56e1d509028c7dae21550389]
+    └── wci03244.vom [1ece69366fb652cc5eabbedc77d79ba527945d1329380f8533041d2e76b66eb5]
 ```

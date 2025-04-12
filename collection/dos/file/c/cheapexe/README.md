@@ -3,27 +3,27 @@
 
 ```
 ├── 0828
-│   ├── c-che828.vom
-│   ├── cheap828.vom
-│   ├── cheap828.vxe
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   └── wci05823.vxe
+│   ├── c-che828.vom [c786b8af5b95d6a19d4bdff8c22fbd831ed4d8d84ea3854bb9f08c302284a1fc]
+│   ├── cheap828.vom [a3de7e60e18fa230d72b93a76a74d12e1e9014b0cb1c71a7dd162470cbfc2d07]
+│   ├── cheap828.vxe [5088a1febd172bb1648aae56397f250c05198ccfb8cb0a56c051a596d1c0b841]
+│   ├── grep.vom [f562b8b41679c3ece7bd97eda8f2187aa80e5afe10a0e7593ea361b836004727]
+│   ├── keyb.vom [740a4df1744e655598edbd19e4edbb788d3952993712b6cfedb694a149bde5b7]
+│   ├── t1.vom [46de0187c5028e8c89a9159a1e70d467b09f5c13970a5e169eba141d6d2db22a]
+│   ├── t1.vxe [16369dbef608b1c97cdc09dac799070ace00c53e25685e815bad86d1a22c6076]
+│   ├── t10.vom [50d7474dae690c400b50aeefb5fdfefd6421b5f9cde535536ed0488469090bb0]
+│   ├── t2.vom [822847993ed52213b70237ed17091ed9905f2870e4a1c1100aa7dd9f6d0b72cb]
+│   ├── t3.vom [91c920f7cd48f889dc649617adda75103d1ac98008462d8263ed493b98c7c259]
+│   ├── t3.vxe [73ac0d3f2ce7be2d1fd13fce9ecea693306f94e607607391c74483951a71a624]
+│   ├── t4.vom [987f6a299e9b3b2f60402c26c6fc97b51ce7232bd54e00c450369c0f940cfcff]
+│   ├── t5.vom [abbcf81bcbefb27efff503fb47fa895639f58b05818125be8fbe27c975cbca9e]
+│   ├── t5.vxe [11ac870d887081f796dadbe2db31b5f5e709009e4a881d10a6605cd9ae5caabf]
+│   ├── t6.vom [684e3318311364f4c5ee38c41e9fea416f0aa242dcc3b1b70f4e45e136ed8c2f]
+│   └── wci05823.vxe [1e813a4b04ed1808485876322a5f5d90962b464601d5a0ecf78e014205b6dc88]
 └── 1052
-    ├── cheapexe.vxe
-    ├── command.vom
-    ├── t1.vxe
-    ├── t3.vxe
-    ├── t5.vxe
-    └── trace.vxe
+    ├── cheapexe.vxe [7999eac64b5716e82a2badf1aa76fdd268a808e390a5a71541360431871206ca]
+    ├── command.vom [632959096956e72b2c15230b26d5f90c25d8f686ac60baa390c378f97027f0f5]
+    ├── t1.vxe [1706aa8c2528c1bc572948301a96d255efbe32aaa0921f390c5bae7b2da6152b]
+    ├── t3.vxe [b61f2fe7a3e4aafd4c1437360dad005b15321807dab00d61d3df5b2c44a72f9a]
+    ├── t5.vxe [c7e5015434fcfe6028476eb6c84468695ea2e9cf8f6cf22eee4dd3876ffcfeec]
+    └── trace.vxe [33701688de06543ee50a81cb39a6228d34d7319c4c85fe9b748b31e355bb5006]
 ```

@@ -3,86 +3,86 @@
 
 ```
 ├── 271
-│   └── virus.dos.7son.271
+│   └── virus.dos.7son.271 [fe28cc54df513ddaf03125ed5292e401bd8977297def07344ae896d1010bd0aa]
 ├── 284
 │   ├── a
-│   │   ├── 702.vom
-│   │   ├── 7son-284.vom
-│   │   └── 7son4.vom
+│   │   ├── 702.vom [8b13c7463203b2f19a41eadfcdc35ca54f6544f7caa437ab07a8ac6dff4b2c16]
+│   │   ├── 7son-284.vom [f66ad7cca7204352335192596637ec7bd971d198fee28c60e1e9f3706e96018d]
+│   │   └── 7son4.vom [c62b56f3e39ee54320b054607659244807b2830f5cef0d40eb30da5666aa86d6]
 │   ├── b
-│   │   ├── c-se284#.vom
-│   │   ├── sson284d.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t5.vom
-│   │   └── wci00761.vom
+│   │   ├── c-se284#.vom [7b50981f87ace0f16023317adb75a3f4749ddb4b96b8ff032abfb78d0d8eba5c]
+│   │   ├── sson284d.vom [253991e222bca9f776bb6f487955cbcd11d21bd6104c5ba10d3725fcb32ee5aa]
+│   │   ├── t1.vom [46e683c1952dbd78d714eb9ed80b29c8b2585315853a93573827e8c4e1dfd46c]
+│   │   ├── t2.vom [e8397a3649a5da750080244faf56af244a18ae12231863e1432de075d5ca8ca9]
+│   │   ├── t3.vom [5b854bc356247d8c9925c08b1ca74c57de68e1eb75847ce78dfd33baf0f73c03]
+│   │   ├── t5.vom [1c393ebcb7070bc6b4cabf0af1b1f830ea2681b8c583ac89e7df07f65d32cca9]
+│   │   └── wci00761.vom [6b294e3abfcc4a1e61df9af3206090bcda345f1a1bce336a1daa77a4d3b12ebf]
 │   ├── d
-│   │   └── virus.dos.7son.284.b
+│   │   └── virus.dos.7son.284.b [5c28b360c4f4fc693b29a9c431db4789066bfef5e2c6abd0f429e5ab0a1f169e]
 │   └── e
-│       └── seventh_.vom
+│       └── seventh_.vom [a91ed5e08495624934354fd8e7a708cb0fc7ac3673fb755197d25ece6bf392de]
 ├── 286
-│   └── 7son.286
+│   └── 7son.286 [75ae6f7397eea6b1efc4ec0334b0920d3ccb5f5d91b3162b49972ca4f0068ae1]
 ├── 327
-│   └── virus.dos.7son.327
+│   └── virus.dos.7son.327 [8f4c9c861495d602eecb1a2bfda438c2f8b64f12533dbba317ea6115181f4ebe]
 ├── 332
 │   ├── a
-│   │   ├── 7son2.vom
-│   │   └── Virus.DOS.7son.332
+│   │   ├── 7son2.vom [671c78bee65d251d984bbaf48c5914367a3e288b2352f3a0c3f79e3ff6c2c298]
+│   │   └── Virus.DOS.7son.332 [d2809fc6f023fa2b1a0a1d0135f3ac5d0b38cb3a1bc64302e264c68b2eb0d6f6]
 │   └── b
-│       ├── c.vom
-│       ├── sevenths.vom
-│       ├── t1.vom
-│       ├── t2.vom
-│       ├── t3.vom
-│       ├── t4.vom
-│       └── wci02171.vom
+│       ├── c.vom [b3796d89d3f7d52dbedb7341cc5c58536b1d7a6f15581c046999805c34b636f6]
+│       ├── sevenths.vom [12cabd8d3ccb060329710e27579a062a68338cc8557ebebbd7df99540315845a]
+│       ├── t1.vom [c7becb24bfff746208c3c463249d39cb93eddc8e5cc9ce2b211f958d930e5c2c]
+│       ├── t2.vom [289a887fa87ae4ef4ab5330d8d96e27cb567eaf61cb4c70a85aa1f0315ffd3e2]
+│       ├── t3.vom [07aecbd53248b876e570db75ac0b196987a1750d54c259c9a329b2ed62db485c]
+│       ├── t4.vom [c755e50f0d92cc099768cb337a6c0c0ac84f0d584a22a64c874842fbea866e32]
+│       └── wci02171.vom [33cb1bd892226ba17bcd4d85f8b7d1d5c48333f3771c35005df899f1c3e5826b]
 ├── 333
 │   ├── a
-│   │   └── virus.dos.7son.333.a
+│   │   └── virus.dos.7son.333.a [dc306f522f582286033512c91baece5f029581c431ff0ec6dc9ef0cd099f156c]
 │   └── b
-│       └── virus.dos.7son.333.b
+│       └── virus.dos.7son.333.b [515140ea950766fbd1fb173bb554ef3c289e2b2551f549e637a40dd0632751aa]
 ├── 334
-│   └── wci0125s.vom
+│   └── wci0125s.vom [82faf0869b33c5594a9e9bf781e553b917c7041e4c0eaf89d787d082139a610b]
 ├── 350
-│   └── 7son1.vom
+│   └── 7son1.vom [ff14ce9e6e2ea079179f6b84b2a7eb000b3c8d95a155c19c78c2bcbbf81a98d2]
 ├── 377
-│   └── memorink.vom
+│   └── memorink.vom [b737070f1bdbeb891f05d03a6b9277dd224eafdfc4c03923b92f6522d986f706]
 ├── 426
 │   ├── a
-│   │   └── arbeit.vom
+│   │   └── arbeit.vom [b2f88c6db2f2d8ec1030dddd953db47aa051914aa6236b68ac645821d69adf57]
 │   ├── b
-│   │   ├── t1.vom
-│   │   └── wci01601.vom
+│   │   ├── t1.vom [77baf8839d1ce41be59f4b43ccb657a5b1a974df9331684ef5c4275beedd8aac]
+│   │   └── wci01601.vom [56b2812730158e279d781b5b76168844ec5e5fc26590433efcfd2ede778bf27f]
 │   └── c
-│       └── arbeit.vom
+│       └── arbeit.vom [cfc75010daf700437e45c3b5f6751cd067c92cfa70211cc93cf174ad9d49955c]
 ├── 428
-│   ├── c-sev428.vom
-│   ├── riot-428.vom
-│   └── virus.dos.riot.428
+│   ├── c-sev428.vom [24b6a1dbefb257e42034411777b063c46fb9feb0324278bd4d897f2f62d26601]
+│   ├── riot-428.vom [aaeded18bba35dbc920e719b8abd1bd1a587bf0fe9b6e840985368933d2dcce6]
+│   └── virus.dos.riot.428 [3549a273403484bce8b4e4dce4fb29c23c7038d9c7f922cfeeacc8675b762982]
 ├── 440
-│   └── virus.dos.7son.440
+│   └── virus.dos.7son.440 [42103709a85af4998e87cb4ae2e3243bff8dfd4f39e2e64821b5890ca2569da9]
 ├── 472
-│   ├── c-rio472.vom
-│   ├── ffire472.vom
-│   ├── ffire472.vxe
-│   ├── t1.vom
-│   └── t2.vom
+│   ├── c-rio472.vom [c4a85030cfdf2c3fcb64e2b3adc1442a5bc3a144be71a0563844a7f05afe4e81]
+│   ├── ffire472.vom [c72ec9778f601106676e5d441a38879e2fbcf9e5e4ef5ead42779171b5ae3b59]
+│   ├── ffire472.vxe [45d87afea33276fa5191b4d16f9b85234d4c5c55d5ae1e19a13a819d30057d64]
+│   ├── t1.vom [6c5efd0eaac2b4558892f4ccb6437b0e95c10f3f34e8b753ac93b919e1d2d974]
+│   └── t2.vom [59d1eec0213624684b83fc26f1dd476ea9198457353f4ed62b552a707dd18913]
 ├── 473
 │   ├── a
-│   │   ├── svson473.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   └── t4.vom
+│   │   ├── svson473.vom [42c62ae45c4194b671133d043e8c9ff00a54d023e1795cd6362e9dd0af46aff8]
+│   │   ├── t1.vom [fc6d4c8b3336becc7f5d84db2f1bbdb266324415f961614fd367afb4f0a4ffd5]
+│   │   ├── t2.vom [1d61b58cb3b965224eb2fd7bbb096bc3b7508b95cbcf46615f0931a7b429d217]
+│   │   ├── t3.vom [b8e82417f02ec1a4defe2f72a3710cb38ba60792a6d40e874f3544a6b56f157e]
+│   │   └── t4.vom [19cb2555f3c8b6c5878775d9b71c4bb9406354839ac48c93f7086a44281d1fb3]
 │   ├── b
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   └── wci0128s.vom
+│   │   ├── t2.vom [8a7b282c5608f655f2b170063c3893669b6f47239f16da427171c9cab86e8ecf]
+│   │   ├── t3.vom [66adb99dbdd40a99626cb782e28d438c564a08e715ca8e7a3b938345b82f4f01]
+│   │   ├── t4.vom [fbd3d675dd9d44230861795d26f51b94117b02b943c523798e3c489c23e02524]
+│   │   └── wci0128s.vom [7a2968017abc40c39a483e286952630cd18f10d2731c85936404e743a5937667]
 │   └── c
-│       └── seventh_-001.vom
+│       └── seventh_-001.vom [42c62ae45c4194b671133d043e8c9ff00a54d023e1795cd6362e9dd0af46aff8]
 └── 545
-    ├── 284.vom
-    └── 7son.284.e
+    ├── 284.vom [bb2bb70b0659a6e3cc568f45f33827449b064e2fef5ae14b64c1dc4373222073]
+    └── 7son.284.e [bb2bb70b0659a6e3cc568f45f33827449b064e2fef5ae14b64c1dc4373222073]
 ```

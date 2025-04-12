@@ -3,21 +3,21 @@
 
 ```
 ├── 0667
-│   ├── 667.vom
-│   ├── doskey.vom
-│   ├── format.vom
-│   ├── pan667.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.com
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── 667.vom [c0b2af46571a39b642ed8cd85832a0d00604163766ecbeb6a8139bb870d77fb5]
+│   ├── doskey.vom [607154109172f529256d19dd217f041a3e137938fdb6f73526722fdf90f2b84a]
+│   ├── format.vom [ff10b0c12d5b7035ab942423e21680e30989204df9f637d4962c95f90ef26bdf]
+│   ├── pan667.vom [68b3048873282d59669314fa577c613c1bbd2e94618bfef84cc35d2287220e86]
+│   ├── t1.vom [ccde473f4e60623015b3c5874f2654c24cc4a06ce51b47d48876e8e25496dfa6]
+│   ├── t10.vom [d233f485455b0bc3957937acd889bd1accefad245327ab8d6858c64d31acf3ff]
+│   ├── t2.com [74bb73d82f68a6565fb470a83a508b2de42169b088582f91eabede63ac30e290]
+│   ├── t3.vom [6f647163fcf0b255f73a66e19037413f0f66d0796397be98e697176c4b65bd73]
+│   ├── t4.vom [f2cd3ada5df288fd1575bc649742934e70e688e17366509916660cf0c5e7ddca]
+│   ├── t5.vom [766f3bef50adfae9067f3e92f12a30a13b2018a7329412dc0986c494c0eb4314]
+│   ├── t6.vom [894cf1aa222b4ef7c1261906df9166b24514e21411c4222e515660f24927366d]
+│   └── t7.vom [a2333b8d72386fecbe83e0dc6d227960ca29a2467c690f7b42130111250b588e]
 └── 1000
     ├── a
-    │   └── bonny.vom
+    │   └── bonny.vom [0c6acbc3455f6b5ef796c256e13fe8b8c05c53f986eda03886c6643ed8a9d6fd]
     └── b
-        └── pan-b.vom
+        └── pan-b.vom [88740f653905972a98c3dda7a2d7c3a6d131c3147a28301b1ee152b48db9971f]
 ```

@@ -3,13 +3,13 @@
 
 ```
 └── 436
-    ├── evul2a.vom
-    ├── evul436.vom
-    ├── keyb.vom
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t7.vom
-    └── tf.vom
+    ├── evul2a.vom [825e2aa6f63fb73d4e94b24593a38812907f013a3b7d2f359d8f99fe9e86e58d]
+    ├── evul436.vom [7379dace360f84cfb23ab7d4838a14895dc5ebf054a0c4c90b2e5ca8a64b80e5]
+    ├── keyb.vom [e64876a7c313d155a7abdac844df6e4ec89450c4094ed54ba120dac2460a6866]
+    ├── t1.vom [e1e5ac41d5905b88b49edba37d6e091f55a32e21f1344c5887306d67fdaaa992]
+    ├── t2.vom [43a323fe9e05a456b1c351ac99e5c120ba4578dd700a37aced3452a331660ef0]
+    ├── t3.vom [2070fe7656d8faa64d7daa9c87ce4334376af2c57743dce277191ecf8f822f0b]
+    ├── t4.vom [9bf9716a1c860f50b57320439261eea56d260d65361c388bf58c76cb55734bfc]
+    ├── t7.vom [a56ee06360a270c6c4655baa64ec1b58a86a1a142055eb9921af5374cb71bb0f]
+    └── tf.vom [501deca39f34c05ceb66e6562d23da31667854834c8b1cbe4a1c5e0a2e40ec54]
 ```

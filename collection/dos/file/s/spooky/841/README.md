@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   └── spoo841a-0.vxe
+│   └── spoo841a-0.vxe [c6d74460da82c0d8dba9d2e4a92279ffcb63817839cee5574c26b67fb4b39ac4]
 ├── b
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   └── virus.dos.spooky.841
+│   ├── t1.vxe [842264adc195a17532a64f4b0ce8f5b1145b633e3ff2065b61c9ab877ea0f8c2]
+│   ├── t3.vxe [168225d14afdbeeb5dc2758a73131f1f3d146a1b7ac3165832a0c76fbaa52966]
+│   └── virus.dos.spooky.841 [000c206361a05fe6832170f99240501d07d0469dab81d128518b13fa58ee1851]
 └── c
-    ├── spoo841c.vxe
-    ├── t1.vxe
-    └── t3.vxe
+    ├── spoo841c.vxe [daa0677f4eeede1b6230e281ad69367559c8d918cd4cc5714b3f91778104688d]
+    ├── t1.vxe [8725fc2099169179476e28a6ca53f22da82639c684f7969d2b5fac7a8028eb28]
+    └── t3.vxe [83e638c5bad9ba42ad5499afc3a16f6f526e1c72fbca34d40c891dc057b9c8f9]
 ```

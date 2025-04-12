@@ -3,67 +3,67 @@
 
 ```
 ├── 1850
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   ├── t9.vom
-│   └── wci0157d.vom
+│   ├── t1.vom [857bf2003341870951853366f70ece4fb4bddfd5dff780fc17ac9b8c7f79541e]
+│   ├── t2.vom [bc454f268f09df034a87fb52b77224260ead2acd5f383e54f5bf7648a980d018]
+│   ├── t3.vom [cb819b642abe361c969fec5c41205fbb7a6000b46f535343b0727ed4ebc8d914]
+│   ├── t4.vom [86cbd9f96a7d01bbbe831d16d0bdc2b826a1b17b275b684cff59afac1d405a61]
+│   ├── t5.vom [03f7872658e993feec7b2af69e874f9ec6d9862d1768bc4e6214f0fc7fdd2235]
+│   ├── t6.vom [5a58d7e9d443470f1e9183bdc79208f14549f8c206021fb93cddb6f43ec2e727]
+│   ├── t7.vom [3de96c878f8a73c53204f26256baf8c3c305eac8b47fe93baf9f0a29a264a7a3]
+│   ├── t9.vom [2610a8af0b80ec5b44c18bb05b5919cf2dfeb227f097c75d6474db68f133e7b4]
+│   └── wci0157d.vom [564eaa3fe80a73e11bbd85219556bccaa09045b3db6c7fb1de4dde50203b5a33]
 └── 1864
     ├── a
-    │   ├── dbasea.vom
-    │   ├── t1.vom
-    │   ├── t2.vom
-    │   ├── t3.vom
-    │   ├── t4.vom
-    │   ├── t5.vom
-    │   ├── t6.vom
-    │   └── t7.vom
+    │   ├── dbasea.vom [f5be6789ca6cf965b3c606ab2201d32892b0b269f1a3d09f9be4753df19de963]
+    │   ├── t1.vom [bd2210c792846e58fa6fc13654b75d4d97b04191ec00ff74feb45ff314e1fc74]
+    │   ├── t2.vom [e9f2947b53fbfbc455015321d802f182e4ff5ef9980022207a42eab9958a7a7d]
+    │   ├── t3.vom [22c2018c83f5bf2f4163317dbc45f05b2ac2d6452ae72b7ef4dafa4976af8f61]
+    │   ├── t4.vom [16db4a5d4673f8d2cb9ab5af337df43326018beefbc3cfc486d8738a7b0f8ce2]
+    │   ├── t5.vom [cd1afc2612d59521446d7cc35926b3ed131285ecfec838a241f691834212e67f]
+    │   ├── t6.vom [c094babb6650e009a921a9ef6072488b3b86cb291b81f44178d7ab01b68196bd]
+    │   └── t7.vom [6c8143d36570092f37881b763c95095bc07409f5015735879438fdf739f01158]
     ├── b
-    │   ├── dbase1~2.vom
-    │   ├── dbaseb.vom
-    │   ├── t1.vom
-    │   ├── t2.vom
-    │   ├── t3.vom
-    │   ├── t4.vom
-    │   ├── t5.vom
-    │   ├── t6.vom
-    │   ├── t7.vom
-    │   └── t9.vom
+    │   ├── dbase1~2.vom [3446bf3d6acf0b07fb0f746a9e116d7a543b8ca688bd464c9089ad273070ed25]
+    │   ├── dbaseb.vom [59bf6b5648087a76a8b785487c3c6fe4e9231ca029d6444b15f85aa9bda30a8f]
+    │   ├── t1.vom [d8b3f7d5f28419ae120f127c7f56e67d4dd96cc6e66fdd605c5a4956183caca4]
+    │   ├── t2.vom [4cd5e6d5a22e1061bf9dc7dac289dab06ee535068528cf72839f4f42fcca2f12]
+    │   ├── t3.vom [ba27a31a939e56677c18211930e410b154137ce8d03b309f9a9803a32d55b3b9]
+    │   ├── t4.vom [89cbe71f112513bbc1e7d96d52d551b7d522bc25fa67da31abcc0ba1dbbf6af8]
+    │   ├── t5.vom [64e3ff8742301cd6c0965d824001e67eeb9dca9d9ded8393b54c9bc95cf0a3dc]
+    │   ├── t6.vom [88eb9fa13d5905126d4248af6e65b5d27dc1dff45c892788711d9375864b56a7]
+    │   ├── t7.vom [76075a506bb75edf3ec77d7d3a745f736496f123766a0e5a0fcd25f6e9fda68b]
+    │   └── t9.vom [94a91f4cc7afd5832a7f691276339749d12b5a31ce2bc2feeb5e821301e19e81]
     ├── c
-    │   ├── dbase1~3.vom
-    │   ├── dbasec.vom
-    │   ├── t1.vom
-    │   ├── t2.vom
-    │   ├── t3.vom
-    │   ├── t4.vom
-    │   ├── t5.vom
-    │   ├── t6.vom
-    │   ├── t7.vom
-    │   └── t9.vom
+    │   ├── dbase1~3.vom [65d401b21e3e72f7e00867abfd1ec4bdec107ce07ea79149e7336f028f612db6]
+    │   ├── dbasec.vom [3402263dd61608c760f1515a2c574c5fb95015f98116c0aa8f1daec3c3129c9e]
+    │   ├── t1.vom [fee2e9b10b65e1d31f2c0c79406ec4a350695a6f46517e9bdd27f26f3190f22e]
+    │   ├── t2.vom [d9d76bef1ac28262c6c0c4817c2fd25787237dddeab5aa9d5818df9a09252a72]
+    │   ├── t3.vom [b4eaa8168eaf04a32999da7d88b1f0a221ddc9526d60ed9413a092105431a056]
+    │   ├── t4.vom [aa8e5fe42ecf8fa3b9689d52fafa9c9adf04737e91821335b9be4341cdbe14aa]
+    │   ├── t5.vom [2c2bab543ae9c180747c211a2f1a5037e2a658f65ce8ffc46b2d24e6d72ab1a1]
+    │   ├── t6.vom [953b27740fd69a10527ff14fbef2555aa589a1e4b641b1163a8aa489958e235c]
+    │   ├── t7.vom [3db9588a824a6c51e955ac266880c3e4f2bdd14fd62af89af323ac7a9de8e89b]
+    │   └── t9.vom [a00db45ce6acf417d536ae31e0634a67314b4d5e933b167a18791384a9486925]
     ├── d
-    │   ├── dba1864d.vom
-    │   ├── t1.vom
-    │   ├── t2.vom
-    │   ├── t3.vom
-    │   ├── t4.vom
-    │   ├── t5.vom
-    │   ├── t6.vom
-    │   └── t7.vom
+    │   ├── dba1864d.vom [6a89a755c2dfff1207251e9132a0c38fbc9bfd02340599a658d74e1bde42ab9c]
+    │   ├── t1.vom [b927226cc3e6d2cbd2cff9538f89495d96a1e5aa850ba49271e26917ba10c67e]
+    │   ├── t2.vom [6cfa9ee1d7356459ee0768a7591f9211189a2f9b9693dd7eb7992ad9ff444525]
+    │   ├── t3.vom [f200f46b46ed9e1ea5e061396bc84f46c16914355d6771f0319a0baed08ba690]
+    │   ├── t4.vom [0d5c2bb0238f975a3cb2d3db276311cc71443f651eb3140a19fbfa958a61008e]
+    │   ├── t5.vom [7692c93f227bcdaa601f49c3e7ccc36864e36f3e1f0bf51c3b20302059a78099]
+    │   ├── t6.vom [5827925212559998e9f33605b821e680ec5b83a0fbc0cbf9d5d92add6241ae34]
+    │   └── t7.vom [6c42d8c2e16fc326c8b8a95fcce5b96bc245e6b95ae7e47d9953c5b31c17b716]
     ├── e
-    │   ├── moon.vxe
-    │   ├── t1.vom
-    │   ├── t2.vom
-    │   ├── t3.vom
-    │   ├── t4.vom
-    │   ├── t5.vom
-    │   ├── t6.vom
-    │   └── t7.vom
+    │   ├── moon.vxe [cde954b3fb6d565812ed6a7de5abd2e9df471348f74cde2e8f955443ba8d34e9]
+    │   ├── t1.vom [e4911c8e0c964cc8f36d9870a9e43958603eb3da3d7672c623360aac22a2b48b]
+    │   ├── t2.vom [659e2dcdf01ebfe32518210381e9bf9b5e62f160338a3997de7850836d9758d7]
+    │   ├── t3.vom [c7777a4f052e22ae560fd9a1acf9b944d2f74ad57fc55f6bec713053d6365430]
+    │   ├── t4.vom [92f8ff9ee52cc83bc14d11a76e2753d72636a6bea3b090ac66c69f3f822e0e6c]
+    │   ├── t5.vom [a23ed81842d0be6bf7a0447b2e68efe6a7b381425d84538cd90df178a1806978]
+    │   ├── t6.vom [bc7bad637322e1b78899ea207cfe64dfc037693bd5c9296cdcd0f1514c3a17bb]
+    │   └── t7.vom [f1517f1db6fc404acab921583aeec318f8caa8415ba3f71411686254cf4f48bd]
     ├── f
-    │   └── virus.dos.dbase.1864.b
+    │   └── virus.dos.dbase.1864.b [675fdfd44e6e56d65a1502b15c5ed8982556acab5380639232c15e60413ecbee]
     └── g
-        └── dbase_18.vom
+        └── dbase_18.vom [8058c2c1a615bfbe9ff8306ab3e1479058f63c626971678c7bacc7b1c3cf0a5c]
 ```

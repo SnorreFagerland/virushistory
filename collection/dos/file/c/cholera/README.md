@@ -4,40 +4,40 @@
 ```
 ├── 1497
 │   ├── a
-│   │   ├── chl1497a.vom
-│   │   ├── cholera1.vom
-│   │   ├── cholera1.vxe
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   └── t6.vom
+│   │   ├── chl1497a.vom [12534f5cb9d33cea0a5efb0c59446ce2b0a18a2644b12da8dedc35c321a107db]
+│   │   ├── cholera1.vom [f93a44a4aa837b98cda42776dc24786351074f20088732c67ac4f068d4ae450c]
+│   │   ├── cholera1.vxe [f785204d7dbc95ff3373901652ef87d759bcd6d46cbcb7ec08ed3a138434d80b]
+│   │   ├── t1.vom [a5561387ccb189873fcd0eb832aef2a9660e7c39298279a7b8009bc4762cc45a]
+│   │   ├── t1.vxe [396376494d6072efa970038be7092a8fb8ff394cf116d578259145d65c06d854]
+│   │   ├── t2.vom [4e4119b8e54d5a35c517fe51d4940cb4a980f28aa942025452fa0f02604b16ed]
+│   │   ├── t3.vom [488e9160be248f8a05dcbe9e00cb01e03cf8a2bd98bc21bcb476f9848635823e]
+│   │   ├── t3.vxe [42db544f6f662dcaa6e18ef6a32974aa01ada8e18f8398f0d17fdc8e4e44c451]
+│   │   ├── t4.vom [289c3b9b36971ffa9b97713c0d0529e3b253bc7a935cf7be4f5e6c693e8b1be8]
+│   │   ├── t5.vom [f4b8c9634267fac18d99b43720136dda665a676be13363cc3ddffa9167662d50]
+│   │   ├── t5.vxe [87106bd1898b6cdcc1c7bf9b9c9e049e7fbf2e513dbc3abeb11bddd42ea2668b]
+│   │   └── t6.vom [8c0c7893e41cb33b7be2441da5a1e7ed392cba165046b24f73febed98f45e9bc]
 │   └── b
-│       ├── chl1497b.vom
-│       ├── cholera2.vxe
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t2.vom
-│       ├── t3.vom
-│       ├── t3.vxe
-│       ├── t4.vom
-│       ├── t5.vom
-│       ├── t5.vxe
-│       └── t6.vom
+│       ├── chl1497b.vom [17b9e5cc44effd868cb6b41e61c136df321a5106dd8540730d5cd1cee3691b1a]
+│       ├── cholera2.vxe [97e261fad75340c3c82597a9dccf4b60dc6305601acc7846e68f87ec2edc92ad]
+│       ├── t1.vom [79b259552fcdc932a0316af8666abec8df5d8b9fb97be5116d058a45c440cafe]
+│       ├── t1.vxe [9915e8cd61624a857a330d208677add2e4aae651fe2f639d6528baad788ae715]
+│       ├── t2.vom [707ed2746a32dc4993c208fc927e5889c59ca890be4ab0edfd63ceb26c25c61e]
+│       ├── t3.vom [a912a6ef36ba73fa264e6e21d0b06db09b3e07db5d5c66e9c13925825e586f5f]
+│       ├── t3.vxe [6fac7fe06f0b51cfa5403c5de2b037db1927923417e753d1997ddf6ea2a7fe3a]
+│       ├── t4.vom [c00f956ef5f02401ae9924e3801e96f8efd0a4bf10885dd4c5172f1134826dd3]
+│       ├── t5.vom [2d08038b36dccced40bab92dbc84d7ac4673ca5b9af4e77fbe62843a6252cd3b]
+│       ├── t5.vxe [08d2fb2939ac9e627262c48016b62c44e95d70201faf9ffa9d2801a5e7657bc6]
+│       └── t6.vom [ddca10ebfc7643375effbee1f3f9d3c342a5ce47ff9eaddc7e216a49fb3a7519]
 └── 2415
-    ├── cholera3.vom
-    ├── cholera3.vxe
-    ├── doskey.vom
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t2.vom
-    ├── t3.vom
-    ├── t3.vxe
-    ├── t4.vom
-    ├── t5.vom
-    └── t6.vom
+    ├── cholera3.vom [70c3ac876107acaba207a2d0a5026b9f655e59c038f2efc8eefd610014025c41]
+    ├── cholera3.vxe [7caf19a82f4e77b575fa5e4657235af65b9111af242ed636f7ff382594259ca5]
+    ├── doskey.vom [ef984aaf560492e0f3538d674e109a82a288933c071ffa6a03d6e18348ed6444]
+    ├── t1.vom [e3f236f3f5a292aed11262fe7d0da82e37052ddbe78686f8b5bc3dde5d3061e9]
+    ├── t1.vxe [dc59df203aa4ccbad38b1b705769dd288bd7594316f8112dd8be55be972352a2]
+    ├── t2.vom [0317a567eb42540852d252884e82e0f4fb51a18fd8d44e4d6b7a2da75886c627]
+    ├── t3.vom [daf9810d8b4f655570316f13015de3659e1a144886df955f8085d349bc8abe44]
+    ├── t3.vxe [99bfd10eb1acc5fffc2284beb704ec450f28717e977a20be80f12a7ba142a634]
+    ├── t4.vom [5eb7f53699d13b8ba3a15f2dc12fc86e40da344631bfeef013f7d0575e5c7b64]
+    ├── t5.vom [432da9f8e4af677baf77b9e9aac3cb51f6d281d83dcf3eb6b727f9f3b787f0d3]
+    └── t6.vom [958d0ac370fcd4a8d85c07c2807894e706f9b44c8de9ece42d97ee810a8e68d5]
 ```

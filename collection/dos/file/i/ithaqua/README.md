@@ -3,14 +3,14 @@
 
 ```
 ├── 08030
-│   └── virus.dos.ithaqua.8030
+│   └── virus.dos.ithaqua.8030 [9774736c3be803f9a0040b7e24f5cfd01f94673699843bf9d0b3a6ac9b2bf29a]
 ├── 08540
-│   ├── ithaqua_-001.vxe
-│   └── ithaqua_.vom
+│   ├── ithaqua_-001.vxe [9a77431975db470c566a99812df786a7553a10d7e886a1c3e0168b875ee36345]
+│   └── ithaqua_.vom [897b63b4bfac27b2db2ff6de675356dc8b38ca49a0dc5c041a868c847f8c29e5]
 └── 12822
-    ├── TASM.vxe
-    ├── TLINK.vxe
-    ├── ithaqua_-001.vom
-    ├── ithaqua_-002.vom
-    └── ithaqua_.vom
+    ├── TASM.vxe [ff1d834978d5226da251118f6a403b9d558422e1022b5edbd60537a5a017dd98]
+    ├── TLINK.vxe [ebe5c7825c5f6a18e68e435d6e821932a14771635998b82ccab3ceeaf494a723]
+    ├── ithaqua_-001.vom [c093d4d536fcc64b77b4f73083bbd76f506e7dc829f973944a038f31b91de625]
+    ├── ithaqua_-002.vom [e461ed53a1f1c2882e90b54daf2836c278377812c54919adfab7579d9fa1e84a]
+    └── ithaqua_.vom [a137200801a80a12099405424e358c5a9406cfc46c9f5500a4c07b0b2aba256b]
 ```

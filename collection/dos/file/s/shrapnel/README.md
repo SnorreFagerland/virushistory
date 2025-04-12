@@ -3,19 +3,19 @@
 
 ```
 └── 6067
-    ├── baitaad.vxe
-    ├── baitaag.vxe
-    ├── baitaah.vxe
-    ├── baitaai.vxe
-    ├── grep.vom
-    ├── keyb.vom
-    ├── lwm.vom
-    ├── pkunzip.vxe
-    ├── t1.vom
-    ├── t10.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t9.vom
-    └── trace.vxe
+    ├── baitaad.vxe [4e8356a4551bd7ed5aa8656fe56afb97ce390770a5d077875653b128b6194892]
+    ├── baitaag.vxe [5c1f3cbe0b9f3b4d4a43fc2b88379c0d976459af5c06ee7a80551fa8001e66c7]
+    ├── baitaah.vxe [6f3c0dc95809ae2859d7ccf1d2c6ce22ed9b3759080c69683981996265373a81]
+    ├── baitaai.vxe [98796fc54e1dd550d246eb637f6519a9dbe4bc1771104c5dd12efd9e5a729938]
+    ├── grep.vom [6a5fb6eee854fe896b6ebf6cf43a592200a55ebbbf3517fa95507a4a0da703d9]
+    ├── keyb.vom [b233a048ac27aa44331e4ccd4f4084acb054a5ed8bf084afd722011c7f19d1af]
+    ├── lwm.vom [bfa3486939ba34ef03978836a5cb66af975cd919ad953ff6092cd889a426842a]
+    ├── pkunzip.vxe [a78c187b49fe7119cd82372d5900a012029b597ffcab41340c301eb5e9852f5a]
+    ├── t1.vom [52911a3eea5f8047fc9d993218226a27e6b22b3bed53e3bf78b2bb7cdea5d91c]
+    ├── t10.vom [cd75b0cad0f2f9026adcded80b6d4e600524e970bc990ec9ba3489529e8d66dd]
+    ├── t2.vom [385fd3b241936867de296a277a042d1d1a6b486178d343ce503563a2a58bed48]
+    ├── t3.vom [8b85b67d213822b6d4bc5268072b274434a999747d8655ac10c38b07ec970310]
+    ├── t4.vom [d471f6970b5638d1d675a051150d05bdcdb4d0cadfb87c687b82602881b46401]
+    ├── t9.vom [e51db1389246544a1f9aad4d091089a096b8dae627f4c5f4fb94547f45d7827c]
+    └── trace.vxe [5e7f96e1576f8b54accaa7745d8417b9f45c6a756d4801b76236221147af4dae]
 ```

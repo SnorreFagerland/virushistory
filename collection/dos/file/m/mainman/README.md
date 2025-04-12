@@ -3,36 +3,36 @@
 
 ```
 ├── 200
-│   ├── mnman200.vom
-│   ├── t7.vom
-│   └── tf.vom
+│   ├── mnman200.vom [48d5cae69ec9f76ec7a5babca8eff61a2f4189b2c979f4d25b1b82686e2ed9f7]
+│   ├── t7.vom [55bcc6bd3be28b31285ea2fd62ffe7a1830cde62aa5c9d601ed1b9566849d023]
+│   └── tf.vom [40cb1631a2566e23aaefb4d06e686777d11ccc1ea6185fc3b4fdca524b575c73]
 ├── 213
-│   ├── bh.vom
-│   ├── ccnums.vom
-│   ├── mnman213.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t7.vom
-│   └── tf.vom
+│   ├── bh.vom [5259c20d8b2373be98d1eb040cad1cf7ea9da02664cf0482c6f46815ea87be2c]
+│   ├── ccnums.vom [7751e5e06397ed95150474ad8d208a1abc300d6ac20d71bf0ec2e4344b8c2339]
+│   ├── mnman213.vom [aec922836983b6bb4525e1988ad06936abb6b52d359b5198d48a460b43f8db76]
+│   ├── t1.vom [e153c5d297da5a76da202721ed807de2c6dc7972cf7baa374aa0de793025b125]
+│   ├── t10.vom [db49fc7c5fcd69fb19809f2fc79ed9b22a5a32a4a747c75caa9145e4df3b6fbb]
+│   ├── t7.vom [d506da3d2109aacb1cea0a4871d80e6097157a6dff571f0d24a85c7bef475284]
+│   └── tf.vom [04945177c2a1d9383e541f7e5a0936803fb54bcd38706393014eac6f6e619723]
 ├── 263
-│   └── virus.dos.mainman.263
+│   └── virus.dos.mainman.263 [2de98761d9318591346223e24789cc0de6a868447bcf2d20cbe6a0fcfe60ad6a]
 ├── 268
-│   └── virus.dos.vcl.jerk.268
+│   └── virus.dos.vcl.jerk.268 [224e80226ec5545a31a06d668eaee7a524eb5a1b316503f449878138911a710d]
 ├── 301
-│   └── virus.dos.mainman.301
+│   └── virus.dos.mainman.301 [65be54d41edf19511737c66be792a5d2cf922aa50f320230c5046d3d3b69a067]
 ├── 357
-│   └── virus.dos.mainman.357
+│   └── virus.dos.mainman.357 [988dc62b36bdc226783233d4367f4b46a96d9041340cec4b5294b4bdc03d7081]
 ├── 362
-│   └── virus.dos.mainman.362
+│   └── virus.dos.mainman.362 [8241a9389a8ac06e9626382fef2715093e321ae96656b0b04f016993c8e54671]
 ├── 407
-│   ├── mman407.vom
-│   ├── t7.vom
-│   └── tf.vom
+│   ├── mman407.vom [9d7b82ed46220699f66920cce7049f1a24837def3bc231325c04b2dd1bb8d31d]
+│   ├── t7.vom [c56c37536061ff94c5ac47e081762ffc63a94d8ce6838b9c5e1ef65a3308258b]
+│   └── tf.vom [73695e793c76c8528251dec5c6b9fa08d0e6178116f34718c32f210c2ec1b64e]
 ├── 465
-│   └── virus.dos.mainman.465
+│   └── virus.dos.mainman.465 [8419a8ad36c3cc959a13bea392a7b5a71c5e3f30ce4b3cf1669350f32e55880c]
 ├── 773
-│   ├── mman773.vom
-│   └── t7.vom
+│   ├── mman773.vom [8672384d0c679d977329314d94c36c231c4d5a2cbb67f9fba1f784166e3c39c1]
+│   └── t7.vom [289bfce04252ec78cd683025d73944098e563c3e620377329763b3e10ae6f01d]
 └── 818
-    └── virus.dos.mainman.818
+    └── virus.dos.mainman.818 [af0e319caa0aa048f20ef120b6118b504358bd4fadb6db2c0ae8c3826a5e57a2]
 ```

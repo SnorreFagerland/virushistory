@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.dos.comzone.512
+    └── virus.dos.comzone.512 [6a43f92aae33c50a84a13fb4f2086d9c102745103119a45f48c8b8241cb43272]
 ```

@@ -3,17 +3,17 @@
 
 ```
 ├── 1461
-│   ├── mgagent.vom
-│   └── wci00144.vom
+│   ├── mgagent.vom [41e88a87f82cd350bd41548c561de2752dd693a71778396cc8a5848434dcf9f2]
+│   └── wci00144.vom [b35dfe40fc958a732b0d13c7b427b6f41827254e712bbed91599fd9a29a3ea9c]
 ├── 1471
-│   ├── mg-agent.vom
-│   └── wci00134.vom
+│   ├── mg-agent.vom [69c4f83f9b97370c45dff006dfcb1979eb914513bf8373392d8b58c9bfe6f9a4]
+│   └── wci00134.vom [08b23eb74062a2b1eb70127e48dce0b28e58f90dac7a039690715380c80bd485]
 ├── 1703
-│   ├── gard.vom
-│   ├── garden.vom
-│   ├── test.vom
-│   └── wci00263.vom
+│   ├── gard.vom [a77e23e5c943f792f3c296411521b88b4c2daceecf928309203113c4d0c6664c]
+│   ├── garden.vom [6b537df951656268f35a56deb4d2a2dd45e1d9e2e7188abe90b92ed8f96bf139]
+│   ├── test.vom [5d6f0c432fb8ec6c2203f86429fde1597d26dff09fbe70ff4946d44f7223d21a]
+│   └── wci00263.vom [34c4f5fc3f92584daa35a0136d2a21418e2dcd557f670aa449765c92d58072e9]
 └── 2094
-    ├── secret.vom
-    └── test2.vom
+    ├── secret.vom [9db64817dae18e77de261b18d8642cdf5dcc5cba91787b69a35db4065d0d7339]
+    └── test2.vom [30cf638bfb3d2393b1addfbb396696928248f86a46b3486ee1bfdd72923a3fc7]
 ```

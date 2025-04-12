@@ -3,23 +3,23 @@
 
 ```
 ├── a
-│   ├── hid1024a.vom
-│   └── hidhog.vxe
+│   ├── hid1024a.vom [ed07174d3d12bbd62efa278d084b7a557286bd9c60f9ce2ffc391925a676c367]
+│   └── hidhog.vxe [77640e2db8dad512d7a47fa89844d7ea4060dcbef18c84f5de70435b139f6b52]
 ├── b
-│   └── hid1024b.vxe
+│   └── hid1024b.vxe [027ae12674b007430257cca11e8963ef617706248f01537d02ac629079dda138]
 ├── c
-│   └── hideou~2.vxe
+│   └── hideou~2.vxe [191ab447efe0a76f0b9b8744f7abd03817cb20ca89a26232bf500e24e1bc688b]
 ├── d
-│   ├── hid1024d.vom
-│   ├── hid1024d.vxe
-│   ├── hideousd.vxe
-│   ├── min2.vxe
-│   ├── t6.vom
-│   └── t6.vxe
+│   ├── hid1024d.vom [ad3a97cbd5a6aa68369b34679cec98dc708cd5507300656ed70959607bd2d77c]
+│   ├── hid1024d.vxe [f8a31294d24e78ae17afcc840da19ec90df205fd947b13161c34abaa2ee5fa64]
+│   ├── hideousd.vxe [072c2d3f4cd8cadb75331b5ec248f827b2d1119339f72b57efed4c2875328244]
+│   ├── min2.vxe [910a26a73a326762ba9e8604081036edd95eb50a3241a7dced2af535a2fb9a89]
+│   ├── t6.vom [ea9320e726cc23b1b620bfc884f6d038051c4b257cef1b882bbb59eefe31a85c]
+│   └── t6.vxe [da769e8d10a755bf263f14d63a22248ff373e0f5d470fb81a30ef1405f0c2494]
 ├── e
-│   └── hidhog-d.vom
+│   └── hidhog-d.vom [8e26df0b42ca784b69c67d74a51cc0a61a02afa0aaa3c3d208315a0c2f40ed33]
 └── f
-    ├── t1.vom
-    ├── t3.vom
-    └── virus.dos.hh.1024.b
+    ├── t1.vom [323d36aea686f44d8443972e60582398e73d2d458ea164465a160d1d52589ff1]
+    ├── t3.vom [2e947f6686e35ef5ab2ef1811431f4045e75464b82e795830e46b39046ff1981]
+    └── virus.dos.hh.1024.b [ea0ae45f84ff6b09bc9ff43a7a7fc46085db8dfbde888577ba9d33006c1f0805]
 ```

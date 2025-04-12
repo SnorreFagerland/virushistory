@@ -3,77 +3,60 @@
 
 ```
 ├── 1200
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   └── ts1200.vom
+│   ├── t1.vom [7c2dc9d04c4eb8cb2b63b964a004c95d7ea5b3173c548bc4e9d07c0a41cf9a73]
+│   ├── t1.vxe [7bc4c19df943b1b306ac32a84f508e217bc394d703a46556710d942d7fa1ae41]
+│   ├── t2.vom [b082cba5061fdc3aa5133a28bf41a545aa2620899a33798d114262c01da59490]
+│   ├── t2.vxe [6f7581f9405f7bf4eede48cde16ee748cd65dfba1024ec81a627e03764509076]
+│   ├── t3.vom [72a418f2f08c68e661fd847735274da6f0f4dd53812ee2a950e8a6d6f0f7f251]
+│   ├── t3.vxe [8cf1523553ea3448fb41293d8f93f8ce706be057478510fab9405468c6ccf204]
+│   ├── t4.vxe [69505f578ddebb3d38a3eb200c6abea24d2cd19aac5f75a3a5502d52a6a2210f]
+│   └── ts1200.vom [d44385556d9aedb41013b8c60ab9ca0a37a256ed58cf2105f99071159106ea26]
 ├── 1235
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t4.vxe
-│   └── ts1235.vom
+│   ├── t1.vom [dbbbca28707b046fc98f419c613aef2b43d5b6c4b599453929ccbbc8a3d22c63]
+│   ├── t1.vxe [f2716b0fee8127533b6ef64055f70dfe2653169a0eea0a7f3c5c6e9c4a242e71]
+│   ├── t2.vom [4ba59965c53fc4e50198f09c6d2457ec5c378cd80e96b325d2802ac440621011]
+│   ├── t2.vxe [a6b0192a4da7151a7de0771e89c92d8c907987424a221dad50d58e9d2fb01ce4]
+│   ├── t3.vom [4fd8e1dd5710d3cc0758dec400132f1425e2680fdc250ab5e9c28fe52d8b827c]
+│   ├── t3.vxe [b0216b086962b05fde898e058036cd4c3ace7f18cb749478ed5ace8b4d966fd5]
+│   ├── t4.vom [951e1505a96f2adbef5337d739e0d1abe878a2809cda37e8e7593189e37d235b]
+│   ├── t4.vxe [72fd32a6dbac3fba0b4f499fdd7db567bea7dd4710caede4e7587e4710dd20c1]
+│   └── ts1235.vom [81ea9dca52530ff43e5eb2139dadb480331d6584c2698f6f225acc7a84a4ac3e]
 ├── 1418
 │   ├── a
-│   │   ├── 1423.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t4.vxe
-│   │   └── ts1418.vom
+│   │   ├── 1423.vom [22cca6edb28429de5d0ee705539f4269b0daadd9def7ee6256105509b9ff81d6]
+│   │   ├── t1.vom [9f1b68767b5c6a0bcf84b6b962f7efe22910d2b7086c0d8b352124c04e94a192]
+│   │   ├── t1.vxe [9ce262672f9b167ffe0edd91f2799c4954e44126459e86ae9f4447ff2764db3d]
+│   │   ├── t2.vom [ac138fe3a53a0150a48e974a390c68416a83749caa3360d633dad15494bab7b1]
+│   │   ├── t2.vxe [433ea05a0bf4a10897176edd7722d216e781174004af4ba0f38431885db5e879]
+│   │   ├── t3.vom [5c8a73f1441464a254e3017fb685aa7e4eb4c501d39d3ed6fb60b1b1639c4dba]
+│   │   ├── t3.vxe [f4399e0da27016e386879983ac1de6b8d2580cd8c34a20cd7fdf2ae4ed943491]
+│   │   ├── t4.vom [9b0e1e901bb08eb2a9bcf906ac08967fa7fee59129226ea5c16d959eef9f7bd7]
+│   │   ├── t4.vxe [e2ad15126fd68c34d15120e1e5fc8390b44621cf686e6cc6fb52f21a809828ab]
+│   │   └── ts1418.vom [096aa9bbc074099a8aaff6189af9075ebec0d0929b2965fc8d12e7826b98a283]
 │   └── b
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t2.vom
-│       ├── t2.vxe
-│       ├── t3.vom
-│       ├── t3.vxe
-│       ├── t4.vom
-│       ├── t4.vxe
-│       └── ts1423.vxe
+│       ├── t1.vom [eee27726f151065e8dc3fb3d99d14ff97175def9dad0127e3c36866063b9e299]
+│       ├── t1.vxe [d01454caf6579b901596959a84ef1b02fe6e9d00ee774469ef67dbeef1263370]
+│       ├── t2.vom [a97498bfc036c24ba0ba978703c8f77789c7181139f2376e8a0b15ab8d1f5079]
+│       ├── t2.vxe [5766fb6048dbfc7aa06ccac9ff16da935348d0fe5178e22dc2e243ea4a640a60]
+│       ├── t3.vom [5105fe519b837a783d7c1658958c3aa999540ce781075354304a305ab797e517]
+│       ├── t3.vxe [8229c87706ced35e8fbf2126b08531525d7593f5e317ce2a6fdf81d6139222f1]
+│       ├── t4.vom [908e749a7eb394c92bff64dae7eef80b79822f75f0dc33859ee997dcc5be7179]
+│       ├── t4.vxe [5002227584a9578753ded6ccc0f04d2b5caacffd4fdcdbac33ca0af462cd4e75]
+│       └── ts1423.vxe [f3528ea34286335b0bd60befaeae3744e3c3f87bfb7724215fce2c02ca745525]
 └── 3072
     ├── randall
-    │   ├── randalfl.vom
-    │   ├── t1.vom
-    │   ├── t1.vxe
-    │   ├── t2.vom
-    │   ├── t2.vxe
-    │   ├── t3.vom
-    │   ├── t3.vxe
-    │   ├── t4.vom
-    │   └── t4.vxe
+    │   ├── randalfl.vom [a34b0ba26c1eefc5a301a0113c5c702b927a072746e832f54280408ecbe62c85]
+    │   ├── t1.vom [3e79139f20d8d9415c092678170be97f7613101e22359d3eb19c766fc5fb44ab]
+    │   ├── t1.vxe [f70c83808fcf3d1ab07cc9fb22c35030a2bd2fac04e63cb3bf4a4da2959acfae]
+    │   ├── t2.vom [c205ec1b069a18f2f4545bb8cc990f4f031329e9301e26645b0b0ca703c5e6ee]
+    │   ├── t2.vxe [2f3ee909c98ccd2872ec25f549a31eb1d0501652c402fd505f58af7802e190a8]
+    │   ├── t3.vom [4bf57bfa137209569983b5f456cc17b0703e6245227526217e58c2e7c46a161a]
+    │   ├── t3.vxe [83365fb1cade74274d911a831d2548e7b059262eac81e55179ed7e290a628626]
+    │   ├── t4.vom [1577d60473c44f553aca4b9a7ead7ffef630bd65f77a10992745712cdc02cf42]
+    │   └── t4.vxe [25d7f46dc58970fc1c16331455dc7909c227df08968d7d30fbf9d816e02b42e7]
     └── russel
         ├── a
-        │   ├── russelfa.vom
-        │   ├── t1.vom
-        │   ├── t1.vxe
-        │   ├── t2.vom
-        │   ├── t2.vxe
-        │   ├── t3.vom
-        │   ├── t3.vxe
-        │   ├── t5.vom
-        │   ├── t5.vxe
-        │   ├── t6.vom
-        │   ├── t6.vxe
-        │   ├── t7.vom
-        │   ├── t8.vom
-        │   └── trace.vxe
         ├── b
-        │   └── virus.dos.russel.3072.b
         ├── c
-        │   └── virus.dos.russel.3072.c
         └── d
-            └── virus.dos.russel.3072.d
 ```

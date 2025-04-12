@@ -3,24 +3,24 @@
 
 ```
 ├── 1059
-│   ├── monami.vom
-│   └── pendule.vom
+│   ├── monami.vom [5d6bb3bab86b2c0d4b056a345a2f1a1607bfed2e1400559286313a64e355ad9e]
+│   └── pendule.vom [29d1316e591c94dca874777b50ecc41e2f8b14feccd323f00c2cf3a523e92a50]
 ├── 1066
-│   ├── pendule.vom
-│   └── wci08391.vom
+│   ├── pendule.vom [996d5f8376be914dbef8acac64f715f5208e61459b296632309e198c941a1790]
+│   └── wci08391.vom [ca58b807b542a4b9ee3572b3ed5a0b9dbeaaa5aa1c1cec61b88ea41e948cd9bf]
 ├── 1085
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t4.vxe
-│   └── wci00743.vxe
+│   ├── t1.vom [0ead0c8b1c5b693905308f34043de8a4b478e2a4bb92b912c62025a97fa795b6]
+│   ├── t1.vxe [4fef8972d76264f7a4198b5d8348113644c27b328e2041fbd9721f4ccb058468]
+│   ├── t2.vom [10f128f58cfd4c8b6a690ba4a3a41e452251e3ae87b141226b405a6f6d8620b5]
+│   ├── t2.vxe [e1ce0b62636fec376eb091e2daa792ba6b6ffbcdbceee2a5652259ffdbca0487]
+│   ├── t3.vom [13a0277829da673d80a868f9537959a445880ddf6263262f368badac06aacb6d]
+│   ├── t3.vxe [f1b5162b4680d51cf48a58f50be80ec4da4e65103d4b1c632b96b8cecbeb4c41]
+│   ├── t4.vom [b7bcd852ec4cfe32cc153827c586ca88f3d7dd99817ccfd47869442184be24c6]
+│   ├── t4.vxe [680d8fe359cb8d5c6496ba97896f4eea18cc87f06df5ea06f5388687a75116af]
+│   └── wci00743.vxe [20e4aae788a7ea24972c05de6fd4bf598c9dcbd64fa62f91c436c5717e6f0523]
 └── 1098
-    ├── mona1098.vom
-    ├── t7.vom
-    ├── tf.vom
-    └── wci00063.vom
+    ├── mona1098.vom [63a67f2ddf6952e655eda62501620009067853e28b108731269b00de60f8fb79]
+    ├── t7.vom [1ae597eb87aa643ee011734dfae8fee902e9cf7887adf836a38d76524cb66612]
+    ├── tf.vom [0333f2a115e0bbe814f679f556f6261232c1c2c84e0368c60e152169ff3e48cc]
+    └── wci00063.vom [328a43567bfceb100824365a7c524e032a758dfba6e9f98dabbaf7841acff0e5]
 ```

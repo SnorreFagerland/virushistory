@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   ├── grep.vom
-│   ├── keyb.vom
-│   └── twistb~1.vom
+│   ├── grep.vom [a8e52c273642c8d254846bf1e1e6105ca7a1c0154068f4dcbd5261f51ecb87f6]
+│   ├── keyb.vom [705795961718ec318ae1aaafd8628002819d3eb7e9f67e6b6af5f13241308621]
+│   └── twistb~1.vom [1d7f6dd322eb7f3b8079f209f1a315bfae4181e48a1e1a840752ea8684120f11]
 └── b
-    ├── grep.vom
-    ├── itwistu.vom
-    └── keyb.vom
+    ├── grep.vom [a163789780cd98b13ff7851cf322c65727250866075b371b7432a42f4980c269]
+    ├── itwistu.vom [f6d517e45370e316b2cb363f39ff601448043ba3025253caf2733bfcfb557686]
+    └── keyb.vom [4119f8f70e016ccbb9e59eb9c2fc3afa27d05c6feac08107588328e252c6c307]
 ```

@@ -3,45 +3,45 @@
 
 ```
 ├── 1875
-│   └── mini-cat.vxe
+│   └── mini-cat.vxe [1e9d27fe53fadba535263396e2e80575d779cbc09f262faab8815b45b13d90c9]
 ├── 1929
-│   ├── corp1929.vom
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t5.vxe
-│   ├── t7.vxe
-│   └── trace.vxe
+│   ├── corp1929.vom [3c5e6c388a4686873e8c3ffe3d7bb39ca4ad40004b7fd1e68a224701ac161bfb]
+│   ├── t1.vxe [5e89d38e441ff370da659673c6711f3f9aff6cf88ee6a07830ebe6cf2e2040f8]
+│   ├── t2.vxe [819e240e6318c5366eb4d87c5b291773cc1106968895c699c2b7ea0f698ad306]
+│   ├── t3.vxe [2dd7015ec73397af97709d038414acc82526eb35f894d0bff69b97127350123b]
+│   ├── t4.vxe [123f1ab564fb05d84c226caf18e6379bf86e20c6d86e307162c7a60e0acdda42]
+│   ├── t5.vxe [681909a06293e72674923a0bf3ea0560407f38f01f6812dde44acbe5d1ffed52]
+│   ├── t7.vxe [5e524be1c6455bbf8cd6a7383face69f2beeb56375c72078897d3504d84d2548]
+│   └── trace.vxe [ca8a56d05c27d239c000d183c266db85ddfeabb66219e1bb84afe5b5bd585296]
 ├── 1931
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t5.vxe
-│   ├── t6.vxe
-│   ├── t7.vxe
-│   └── wci0517m.vom
+│   ├── t1.vxe [a70bf9af6cf2b8e02239b96b70acb698badc90aee00f5e668eac4dca02a7b0e0]
+│   ├── t2.vxe [ec5eb34247f38ba4032a312c82a7405de6bea3628ab2968c591056f93e234b70]
+│   ├── t3.vxe [70014611fb4d59819c61086423964bf67502dc784cca8e9b54c8f8eb7e9230ff]
+│   ├── t4.vxe [f56dab9fee761b2b4d21ce320b3ba4de4d193df3b98b0480578c0be1d820caa3]
+│   ├── t5.vxe [60ef77e14be4f35d4be5a2846cd89f41deb48ddf2670c84e4c5bede9a5d62ad4]
+│   ├── t6.vxe [f5e0c46f4bdf2d3a7b5de2d3fb1135dbdc3a337e733af5dd69686d5785372fc6]
+│   ├── t7.vxe [a6c616d17dd5f6fec83a5cc95a80b1df6a3f15518383c18da334d3728be4624a]
+│   └── wci0517m.vom [908ac141b4f6670052e332b9b033b29a74532c5158feac52456a1d752973005c]
 ├── 1935
-│   └── wci00734.vxe
+│   └── wci00734.vxe [da731af66636f7fa4f86c569f0239ac5370319515ca3c59d16f57a3908fb62a1]
 ├── 1937
-│   ├── corplife.vom
-│   ├── corplife.vxe
-│   ├── t2.vxe
-│   ├── t4.vxe
-│   └── t6.vxe
+│   ├── corplife.vom [661296fc009b5dd1358d67983e81068bf8881e7b88fc657df30e0b2e772106f6]
+│   ├── corplife.vxe [53103f79cb97fbcb7a7bf0448a0d2509eb521031df9714fe02dcc447041ab8ad]
+│   ├── t2.vxe [9becf8b3e1453e9a167709d72463be4b0b93d198e987fb84ef95c0e25e77e81a]
+│   ├── t4.vxe [136c216ed77ed543bae7b772e5e975b4ed691ae84446c1ab5049f113706c4533]
+│   └── t6.vxe [b066e095c7c75887bc4c890101e834472539501a070254500a6170377109b06a]
 ├── 1939
-│   └── wci00744.vxe
+│   └── wci00744.vxe [db44b870928fb2fd73f5d44e49bbea8eebaee315b1992f16a8e5d6d64133c3cd]
 ├── 1943
-│   └── wci00754.vxe
+│   └── wci00754.vxe [fac9758a31b4922b30a7c6c6450535fc8acc65601ffedf6ab7061243aef26b32]
 ├── 1947
-│   └── wci00764.vxe
+│   └── wci00764.vxe [e56fbe6f32d7c297c3d4fc1be4900d3f55452f70f1a293accdcd39f243a259c8]
 ├── 1951
-│   └── wci00774.vxe
+│   └── wci00774.vxe [589faea615696faf137fadc16785d858697e1cb98f59a7ee6c1f034439552983]
 ├── 1957
-│   └── wci00784.vxe
+│   └── wci00784.vxe [2123563d6fdc4b21bdad65073b13fb1b1a89cbbcd810970548c42a2a91c81d70]
 ├── 1961
-│   └── wci00794.vxe
+│   └── wci00794.vxe [e35693c9a7998d858b306cebce832d887de39c51925c09a6b595ed0a02c57a8b]
 └── 1971
-    └── wci00804.vxe
+    └── wci00804.vxe [7824780597174c87045b4a3b17d299d6dd2cb4f3cf4b7f80d54cc80ce44d6442]
 ```

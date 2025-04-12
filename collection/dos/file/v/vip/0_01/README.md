@@ -4,44 +4,44 @@
 ```
 └── vlad
     ├── a
-    │   ├── control.vxe
-    │   ├── debug.vxe
-    │   ├── doskey.vom
-    │   ├── fdisk.vxe
-    │   ├── format.vom
-    │   ├── grep.vom
-    │   ├── keyb.vom
-    │   ├── keyb_.vom
-    │   ├── keyview.vxe
-    │   ├── mode.vom
-    │   ├── t1.vom
-    │   ├── t1.vxe
-    │   ├── t10.vom
-    │   ├── t2.vom
-    │   ├── t2.vxe
-    │   ├── t3.vom
-    │   ├── t3.vxe
-    │   ├── t4.vom
-    │   ├── t4.vxe
-    │   ├── t5.vom
-    │   ├── t5.vxe
-    │   ├── t6.vom
-    │   ├── t6.vxe
-    │   ├── t9.vom
-    │   ├── trace.vxe
-    │   └── vlad.vom
+    │   ├── control.vxe [f009b98dd1e91de30855e153e01f698ee87066fc134dd28c9c8509941834448e]
+    │   ├── debug.vxe [5b65a46962f4657ebde09a25fbaccc1b71a10e928f9fca73ce00f891a0aa43f3]
+    │   ├── doskey.vom [65bc84f8960563fb09d7748bfd652cc53b633a3c6fbdc98ffa98f992df8e8ec0]
+    │   ├── fdisk.vxe [d68564d479fba815ba45e876f7df351e77ea9fd7b705e375b7b8d74639dfe49f]
+    │   ├── format.vom [fb9cabaf127eb0ae7c9642be9f7c9e9a352a0ca582acc4f4030cdf328f0e3bfa]
+    │   ├── grep.vom [a012ae0adb2a5de494a9e9476c000c60f447a6c515a6c57534d0310facbd6335]
+    │   ├── keyb.vom [bc09955f0aa6cde22e1cbe920e3734dc960a9b87ee338174c07216ee698862de]
+    │   ├── keyb_.vom [be4cfafc19467e5d828c48725d0c0c328d42b6049bcd24ecb670b601abf1f4d4]
+    │   ├── keyview.vxe [874e8d45ae862137c92729236544deae7ad9495a2450eddf02dfdd68a79fea39]
+    │   ├── mode.vom [c67aeebb06aeb9a3aca9793d111706778663159f5911490fa88bd0c89d412f07]
+    │   ├── t1.vom [c271713e34164ebac72403f4fc2ced7305b045a1228deec080989418d9754ab2]
+    │   ├── t1.vxe [394784536c5ea51691a4e5ca21712f3b6223818536019a1d3711e1ac1ee5b3f5]
+    │   ├── t10.vom [7c393ee27f82466a89f4f2a65ff368a45e2ded24d08c2f6f9aed8707f6415022]
+    │   ├── t2.vom [02eb76c5ef19a17c05e1644336952dcd478e6f3f72e2c7e1bf4e8e5ed57dc588]
+    │   ├── t2.vxe [7dafc45507447f6ef97a2fbc08578e46834593d75a8cc04809d0650c7818cbf5]
+    │   ├── t3.vom [3a7a62793e422e1626f912f1ced97140ae92ecfabd3f0c9f851b7cc3ef8e5598]
+    │   ├── t3.vxe [20f5e2946590838f53cb0c3fcd3f010335d490ad05126732279342061a19bc7f]
+    │   ├── t4.vom [1bd8b8fd3b571ee2125c7b9e7de0df4be85978a716c44604ffe00d87b6019dbc]
+    │   ├── t4.vxe [31f630bd8a11173597eb2fcc4927cb7cfd9400f7b70ca91639746ce053e7087f]
+    │   ├── t5.vom [29545dea8ba0a07b41b72a407730c28dc0b636739c2ca9b2742076540e967c72]
+    │   ├── t5.vxe [0af8e1d7cc51759b14aa4909127a677cf90bda57f7c55349943c5e40dc1c4fb7]
+    │   ├── t6.vom [1e854dd8eef80c75eac7582a387819a9cf1363d518557c045dde3f6b323b53eb]
+    │   ├── t6.vxe [08a8c4ec075181d90fd724df4ad9184a4a66c9cc86898e161d2ea5a48981dbdf]
+    │   ├── t9.vom [f780ddc7847c0280b42bb5d31cb7d84b7975c3eee963b7cd1ab7d630a52eca57]
+    │   ├── trace.vxe [c726cec7f7a741b1285f99d82cf80a2b22ca6829a7c5fa1ef6e3c1b5115fc145]
+    │   └── vlad.vom [ee33df4edc04bda89f96abe60f9fa1f5a28127215db587bc27b955b94ede10d3]
     └── b
-        ├── t1.vom
-        ├── t1.vxe
-        ├── t2.vom
-        ├── t2.vxe
-        ├── t3.vom
-        ├── t3.vxe
-        ├── t4.vom
-        ├── t4.vxe
-        ├── t5.vom
-        ├── t5.vxe
-        ├── t6.vom
-        ├── t6.vxe
-        └── vld1221b.vom
+        ├── t1.vom [0155e3faf6795e3f3a73de166eeac22cf73c6e0772c205b70daa784067e8c2a4]
+        ├── t1.vxe [da1e5fd43704c8dffa58118af07da31641891e8984412ddf9fcbb3a32d6aae78]
+        ├── t2.vom [05572004cbcf388b2d4db713290efbf1fbb92b6721bafe2235af4a8648757aaf]
+        ├── t2.vxe [d494b8e64dd0309e29f554aaa8e99e467f85e9fac0d49da95374996f9322cc80]
+        ├── t3.vom [6adf8ff9b3d0af7d267c6e7fcfc061d0c1ee5435dd8536e75ce0758cf9f83ceb]
+        ├── t3.vxe [d201b9eaea22895a86b4ac29114097cafe1f83fffc75c79e8f5a0af2ccabe402]
+        ├── t4.vom [e84d2d34602c019271ac24f1b1e6a59dd5a810aa0686fbb883d39a50f26c3a14]
+        ├── t4.vxe [891dba3a9a207f2ec068358f4cd4e2c1ccb30887314253d58de83e2402a4e3fb]
+        ├── t5.vom [3906a9815439fa8c6a8dba9fde63c36789d2acbd40c8fa9fe5cd33628f884e4c]
+        ├── t5.vxe [02604b9bbabdcf56210b7bca6a2a3858d886be5ce991a5c4da76e14e4f257e55]
+        ├── t6.vom [8b761b688c6d1213f579c39b3f8ba23ffdbfb15cc7dad9022d2b53f108fe01de]
+        ├── t6.vxe [f273c365e94fa843de46fc8f4c0e9b972e40bad7eb95db8c89c3f6d1e18588c4]
+        └── vld1221b.vom [035efa4b96085e9aa8ed2b6f9aed93e9d5f640201dd333c7e19e55bda6d065e1]
 ```

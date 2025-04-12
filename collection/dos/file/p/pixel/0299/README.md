@@ -3,40 +3,40 @@
 
 ```
 ├── a
-│   └── pixel299.vom
+│   └── pixel299.vom [a173963b31f0b0a4882d7149e2f2e3052af08c1a3dcecf331f3612873b24e809]
 ├── b
-│   ├── guru.vom
-│   └── pl-0299b.vom
+│   ├── guru.vom [a5643fc3db7bea8daf61babc395fea5932f8c9e41fc24eb541a912c67512a4fd]
+│   └── pl-0299b.vom [a0c724b859106e3f121ab89ab8f3c0c7a83d5d5260ea4aaf6695ca0489537c1d]
 ├── c
-│   └── 299-nops.vom
+│   └── 299-nops.vom [8e181af0d2d14f70b3f9afd4e0cf0fc2f65c5ff87a21654c20b1ccf34e3b5a47]
 ├── d
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── pix-299.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── t9.vom
-│   ├── tf.vom
-│   └── wci0134p.vom
+│   ├── grep.vom [d510d8b7a4cdbca1cef8f44c8eb073f447c9a6b8c60ea4ddbb37dc6570f22975]
+│   ├── keyb.vom [d5c6590b65070e574395c6abac6f16c40c872c43d33950880079a643e18cdb50]
+│   ├── pix-299.vom [c7cd4b4366b20eb13986084fdd29ec21e8e0c77efcfdc9f3415c88311248ff57]
+│   ├── t1.vom [a7cf1d3312f03d73e9dcef0e855ad43f91099fe48a47e67f89319f7de3a1ace8]
+│   ├── t3.vom [8d7e541e860f49a51da35b82a1c18ca8bf381b798a445778e3b5385fc67fd2e6]
+│   ├── t5.vom [5ae02d295ae33864a5e550a2550976508630e452bf58e467a85259de3d8bf9a8]
+│   ├── t7.vom [84cda9400a11b6993dbcb80da45ea0d410501c883a13520e9530abc923461fad]
+│   ├── t9.vom [ee876c0cb5941cf98997059aee55cf4320689eb5a3e144ae2d790af1aa0fe2c6]
+│   ├── tf.vom [cea99059cc18b9912fe7db18bd8a6107c589bc58369cfeb582b41c570eb09b8f]
+│   └── wci0134p.vom [680f949c7e072c27154d58240ef987dadc4e69119f76187ea1f426f03e1c828f]
 ├── e
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t8.vom
-│   └── wci06583.vom
+│   ├── t1.vom [b1a4c240816f2a1a9a77110b7ec814e975b5a6319131edc7183647abbc2249d7]
+│   ├── t3.vom [9d09443691f62e814d687edb2ede68fa7335fb2dc5fdaf7c6d053937fd869ef4]
+│   ├── t5.vom [352be151875aac28176ee6b13e9a3038c1df22c932db1c37dfe2527cb4a0dfee]
+│   ├── t8.vom [77b167af58de32a3af0f6de898a34367dc79e44269b6eef913168348d7833794]
+│   └── wci06583.vom [cca4d3fd74fd77860c4e38d3c0d4ceac550926776698eb7612f6da4166c480df]
 ├── g
-│   ├── amst-299.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── t9.vom
+│   ├── amst-299.vom [e806c64faa46e19f6b3c8626f08f2dc79cc05a77b8dc2eabf0e6b1b57c3939af]
+│   ├── t1.vom [74acf7cd85e3bf946b025270f1fc233f011f0f1adf42e2127f89e557de926ff5]
+│   ├── t3.vom [615b59551689c180848c663eb367097900605c6a9087efb1e8d98f6516c117db]
+│   ├── t5.vom [7a95ac19ebfce00ac6872c1f0e239a722769ef6ba2cb462f9c037b875de6627f]
+│   ├── t7.vom [e920ea161b39feb8ef6795dbd48e154c5ebcd16c2fd30ee59a48129009faf9b5]
+│   └── t9.vom [f4ed3a3341f5b3bd616ddcff9b44a73e6c902ba8b296b97aadefd7b91d0b37b5]
 ├── h
-│   └── 299.vom
+│   └── 299.vom [b47e79f46e79196dab826b8a00fb3708ef819f110c7b7ad57287e8eede7c1bf7]
 ├── i
-│   └── virus.dos.pixel.299.c
+│   └── virus.dos.pixel.299.c [354e6ece73e4d79554406995784b7bb8034ecffde49daf5069f38ed46e899ee3]
 └── j
-    └── pixel_29.vom
+    └── pixel_29.vom [da1d4d070fdc25dfe1649e4c15fea159245678e36f7528ffd1f61f4c4ca367d7]
 ```

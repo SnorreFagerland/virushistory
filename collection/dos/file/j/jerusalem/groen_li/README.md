@@ -3,29 +3,29 @@
 
 ```
 ├── a
-│   ├── j-glnka~.vxe
-│   ├── j-groena.vom
-│   ├── j-groena.vxe
-│   ├── jeru0530.vxe
-│   └── jerus~80.vom
+│   ├── j-glnka~.vxe [cd5c14bd234ae23ab50829ae86134b31241de02d0f1598180f78fdb1a556b467]
+│   ├── j-groena.vom [6c4935cdc229074aceb8a35275a4c7ae0c68d4d2f08b7d766b8392f8292037e3]
+│   ├── j-groena.vxe [c02f5d770ecbfff6793094998b0fdebf2276f3d470214580d0a53e8fd2405725]
+│   ├── jeru0530.vxe [c5202fe5bef933a5d232b856ed6eb3494c2cfff4f7b8a9f13bbd4a190b6c3733]
+│   └── jerus~80.vom [da3a32bb557eeeab07fd1c71bc3fea2b54b7e3fe40c60736d0b17cb7deb1d25a]
 ├── b
-│   ├── 1-groe_b.vom
-│   ├── 1-groe_b.vxe
-│   ├── 2-groe_b.vom
-│   ├── 2-groe_b.vxe
-│   ├── 3-groe_b.vom
-│   ├── 3-groe_b.vxe
-│   ├── 4-groe_b.vom
-│   ├── groen-b.vom
-│   ├── groen-b.vxe
-│   ├── j-glnkb.vom
-│   ├── j-glnkb.vxe
-│   ├── jergrb2.vom
-│   ├── jeru0540.vom
-│   └── jerus~81.vom
+│   ├── 1-groe_b.vom [58e8bd177481b9b65af802b3172bcd689dc95243d18c3e25d87acad480c35fe8]
+│   ├── 1-groe_b.vxe [aa73ce105fd7637ea22e854c0cd44a1b4d03117954e05f8407d780d587730495]
+│   ├── 2-groe_b.vom [324fb5999d582db9773cb1a944a3691e66bda09b7336d1832407367365219586]
+│   ├── 2-groe_b.vxe [7738510f4cd06f2be279028eb65d678f26930eb4ab6bf5878dcbcb2b3bbc5609]
+│   ├── 3-groe_b.vom [e252083966cf480800f5900d0bbeb85c0edf6a057b46e67b35c530576786e332]
+│   ├── 3-groe_b.vxe [08166cdc3191f90441489ac1ede13b5c2e3b1e078c569dc00bef9f443d868c28]
+│   ├── 4-groe_b.vom [3494015fb5b21a7d974ce779a80db5fb2fb9da5fccaea6053e636d9cbe8069a5]
+│   ├── groen-b.vom [6eb0328329104165e6d42fe069257d41266302cacd6e3374af31a885f9f7bc0c]
+│   ├── groen-b.vxe [132afa2b83779d9675e3959161f362fcf9af9882099be2900e1547f905424d29]
+│   ├── j-glnkb.vom [4a7aa048f53b79a6e484f8be1853871ad16731ef045719e841b5feb315f7695f]
+│   ├── j-glnkb.vxe [177365ea4b7dcb52c42b4d944765b55839b0d853c2a78c9ab8b85d7b26678c8e]
+│   ├── jergrb2.vom [8a3cca4321a2b3cc4573f6de9230f323b0783990f7af641dc2f9ff0b45bb778c]
+│   ├── jeru0540.vom [1ee41ae095e53fca83b25144c4fd5fe8da2cd22f1a102c77a694570148cbc394]
+│   └── jerus~81.vom [def812d04a47108ca8a8b49548e365933702a187ab566b2bec5575aa9aad69fa]
 ├── c
-│   ├── groen-c.vom
-│   └── jeru0550.vom
+│   ├── groen-c.vom [0a08aedc2790d7dfec2d69b4b7d01ed425b5fb5ebfd0229eed232e574a639242]
+│   └── jeru0550.vom [0675a6704725b2e7bb751884bbdba77859fdef31b27bd6042aea4a1b037a9d5c]
 └── d
-    └── jeru-f2.vxe
+    └── jeru-f2.vxe [cfeb60a420bb997782480e41c717c6a9878de1def823dfc37dec09a07543f0cb]
 ```

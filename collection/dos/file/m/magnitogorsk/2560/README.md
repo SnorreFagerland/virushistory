@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   ├── mag2560a.vom
-│   └── mgn2560b.vom
+│   ├── mag2560a.vom [af96af9fcf2d4033a1b53038ace70c0c26a18f78bdb911f268657e1563d9f2a2]
+│   └── mgn2560b.vom [6ddcd7f76ba87862758ab8a32ff01450e0bf6c80f0c7d4281fb70ebb307d05c9]
 ├── b
-│   ├── !3338.vxe
-│   ├── mgn2560b.vxe
-│   └── v5075.vom
+│   ├── !3338.vxe [e760f71ee2618cfe61b0697e71a6d89f6f4f16febd7b1c933fba5867b0cf76e7]
+│   ├── mgn2560b.vxe [d204182847b13742e7cce6b5c9f3cbf3d769fe7c0a3bcb9950f343e2b3f39f1b]
+│   └── v5075.vom [39b76675b5307711616eed6d65bdf4225c173f4f903500b08555efe56e0ea7a6]
 ├── c
-│   ├── ma2560c0.vom
-│   └── mag2560c.vxe
+│   ├── ma2560c0.vom [04c3a7236eebb058efc30a93a8f7f6fa0459b755601c10d311fdb0f66fd5f934]
+│   └── mag2560c.vxe [a9ae6cf18a780f3f61e359497f9b5c50b904104500beef902158c7ffa47783c4]
 └── d
-    ├── 2560d.vxe
-    ├── ma2560d0.vom
-    └── mag2560d.vxe
+    ├── 2560d.vxe [fe401ac98639fbab88daa111ea587742d8aa7e4c8a779bcac00ce417ae32bd24]
+    ├── ma2560d0.vom [f4fddad3bd9cab9f98f0d3f108d81eae47b44461ff1421148af5ee5079e7dbf5]
+    └── mag2560d.vxe [14d2d1712f07c38f42508a6e44c4a43417c0eed2f028f11092112a83dca4c4fb]
 ```

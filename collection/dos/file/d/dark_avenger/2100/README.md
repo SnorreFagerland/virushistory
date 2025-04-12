@@ -3,22 +3,22 @@
 
 ```
 ├── a (di)
-│   ├── dark_~19.vxe
-│   ├── dark_~28.vom
-│   └── dav2100b.vom
+│   ├── dark_~19.vxe [15381dfd018ed550188c69d964170f39c5bab7238fa0906ddac14f45eb0606b1]
+│   ├── dark_~28.vom [65401d84af98563f3780ea9e4120d942203231b015999ad3efe41269070625db]
+│   └── dav2100b.vom [c6237ffd02b59e8f13b1446768758f129df355f2de12b67f151a7728329a319f]
 ├── b (di)
-│   └── boson.vxe
+│   └── boson.vxe [c9ab231087dfe9d58ec5c23af259970d137d0f634c0bfe2a25ce87f80541a832]
 ├── c (inf)
-│   └── dark_~29.vom
+│   └── dark_~29.vom [b71b475991ff5b425115c106bd2696668e8d617b9588ce65c709767118600058]
 ├── d (si)
-│   ├── dark_a~1.vom
-│   ├── dark_~20.vxe
-│   ├── dark_~30.vom
-│   └── dav2100a.vxe
-├── da-var4.vom
+│   ├── dark_a~1.vom [cbe66c923a9b6c7a82d2c49038e7c1554fc00444e05e712bc1e8afd41d057291]
+│   ├── dark_~20.vxe [c2915dad9466bc27f7efb001e8aae31fb35c4e44b1ae49413c4b5ce6b9e3a63d]
+│   ├── dark_~30.vom [f5601f073587bd5fb22268b50ee02ca5c07803aae7e30f6717c31ecba9e8a6a4]
+│   └── dav2100a.vxe [334e468ea5769599ba7048bf46a9c0d24c36b312eaf875930138860f22a41ad0]
+├── da-var4.vom [428bcebd7298bdefe13bb2692390f8538efa675255d43c039c09456618237e81]
 ├── e (si)
-│   ├── d-2100sb.vxe
-│   └── dark_~31.vom
+│   ├── d-2100sb.vxe [fa6df85d2cf6182478eb234c9736d9d89ebf427540329d2fcdcb29101edb0272]
+│   └── dark_~31.vom [aa659e6276a06133e5f5b0914e4510c642aeb34819af58b6427df7ec728b943c]
 └── f
-    └── dark_ave.vom
+    └── dark_ave.vom [d2e1df1135d8294950e12ca8960448b59492c9103fa249b841e7a75cd266b62f]
 ```

@@ -3,21 +3,21 @@
 
 ```
 ├── 1894
-│   ├── daemon2.vom
-│   └── daempant.vxe
+│   ├── daemon2.vom [15cd27f0580bfc02a235b7ae1f13b3dc5e6a0e601931007cf679b6dd6bc18251]
+│   └── daempant.vxe [17f54c93d50d7b3dac67739108af3d73f9236635bb561a4ef9fbd5f5cdc9e1ae]
 ├── 2040
-│   └── wci03044.vom
+│   └── wci03044.vom [8188dcab903d20ccda43a2a64fbbad2dc3e648ec8e3d039750341e96b1cee58c]
 ├── 2041
-│   ├── daeman.vom
-│   └── tln2041.vom
+│   ├── daeman.vom [9623490321534a608d877cc95ff8004cc89a38ecdc10f798ab9e2a3556539e8f]
+│   └── tln2041.vom [ddddb415532a11020f5622c10054134d3104c88e657b4f5a6460c3dc39c8fdd2]
 ├── 2042
-│   ├── talon_20-001.vom
-│   ├── talon_20-002.vom
-│   ├── talon_20.vxe
-│   └── talounk0.vom
+│   ├── talon_20-001.vom [23120b14e99df8f230ee08eee4f1e34bed6f7cda08c15e73adce955568fbc2f2]
+│   ├── talon_20-002.vom [5ac9a2629fafb8ffa3cab0d34948f948069f58d60b061774914c4cc0bf329b9f]
+│   ├── talon_20.vxe [18f245b13890d3383d8b0953d11dc10a6b4632ae8153e25100af6bcd149ac6e7]
+│   └── talounk0.vom [050e478c77357bce0a5cac9249c28e61863113cfae872d6455cce1e40398bb36]
 ├── 2048
-│   ├── daemaen.vom
-│   └── daemaen4.sys
+│   ├── daemaen.vom [dda75e8b50f16d7a842dae03ba3a60103de6c1b95b2515344784723185b39dad]
+│   └── daemaen4.sys [0959545847e67d1675bba1351e3bf65499cea30dd80c2febe76ae056f6e46975]
 └── 2050
-    └── wci03054.vom
+    └── wci03054.vom [1d0f1d10a1407eeec991ef1482fd80138000024ab2dad3c31090cfd002219207]
 ```

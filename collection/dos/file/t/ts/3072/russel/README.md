@@ -3,24 +3,24 @@
 
 ```
 ├── a
-│   ├── russelfa.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   ├── t6.vxe
-│   ├── t7.vom
-│   ├── t8.vom
-│   └── trace.vxe
+│   ├── russelfa.vom [9338881805e8c2d7e90d1dd0c97485b77ff0f7acf53f37a4543c6a5ac3185083]
+│   ├── t1.vom [784f647d2674033789a5c8ab533154434aec960f27bdc77ffbe36515f1842566]
+│   ├── t1.vxe [a3ad0af051603a6b99bbfca020251a4ced5031b1f426f7bc42caa4adeffe967c]
+│   ├── t2.vom [049950a4145d3191b8e75b20ac3cc0d2eae02cf2fd66a5238c32584bd7061cea]
+│   ├── t2.vxe [53038622bfaa8fc6d01187995b654738879a266cb69d836dedbcb1923f5ec11b]
+│   ├── t3.vom [79f58bb291bef7df1560b2f1a7ce397b8c9fd790dabbe0e96f6fd47a7c6dc5f3]
+│   ├── t3.vxe [b84652e94f515c64d685420c210bc854519380bc8fd0675a048dc00d2fe44666]
+│   ├── t5.vom [92e375db60bd4afc3a726942ab62f6f2a099a6d550ed31d6c6241ad7273038dd]
+│   ├── t5.vxe [a11cee398529345a358028c7ca35b30993c61a0a704e7dd59970f373000782d0]
+│   ├── t6.vom [ad8cedabe4f1d0213b9d1847465dd34d3f4e8c14318b13cfccbeb871974630fc]
+│   ├── t6.vxe [5c30877c96fcc39a4b1e9f3242815d2ec46960fdf2daf5acccbe66f4d7121b1e]
+│   ├── t7.vom [26f22f877c6cef33282962edc5304001edf7044ac78ea65f1eed087d272abcd3]
+│   ├── t8.vom [920f7436c318e2876ba6ee6d0ed4545f03f822c5f5787aa256be069702fb1276]
+│   └── trace.vxe [c02476d67d03a76f1103a98ae785639acd00be7bd507b79ae517b0769546c20e]
 ├── b
-│   └── virus.dos.russel.3072.b
+│   └── virus.dos.russel.3072.b [a02e02a0e61fc6f702ab566cfd2c9d1afaa4c6700041b9e09e6aa4d796ec0d77]
 ├── c
-│   └── virus.dos.russel.3072.c
+│   └── virus.dos.russel.3072.c [2c81f327c7f4f38a39643606687b0b70a6fe6f9e11fdaace4148fda4b08f228a]
 └── d
-    └── virus.dos.russel.3072.d
+    └── virus.dos.russel.3072.d [53e8ea6d1a85a204087217e22654cf998a96ae261b0cb59d6cf3f6764bde8798]
 ```

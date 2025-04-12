@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   └── wwlf-685.vxe
+│   └── wwlf-685.vxe [2800bb2619002a69b7e22260939d8d5e20e97a474adf438206208846008c135f]
 └── b
-    ├── calc.vxe
-    ├── claws.vxe
-    ├── keyview.vxe
-    ├── notepad.vxe
-    ├── packager.vxe
-    ├── smartdrv.vxe
-    ├── t1.vxe
-    ├── t2.vxe
-    └── t3.vxe
+    ├── calc.vxe [f70e4e9588e91b43ef1e303a554372f9427bc44a8e87709dd03532b6f12c04f0]
+    ├── claws.vxe [f74d1ec9bca121d18bdc6785229870ea4a7a35c72b356e813493bbd4eb0a1492]
+    ├── keyview.vxe [61d2eefee28371c18521160f5f83bcefe1873871b005eaf5b32ab288d43ce383]
+    ├── notepad.vxe [818c1b4e93aaefcb4626459e9e8cb5df3d1825d806741364196f7056d8da4b76]
+    ├── packager.vxe [650b5cfb95604692a7d155a543bf9db135ea2ead2dbabc42fd57a212b0e0c25f]
+    ├── smartdrv.vxe [8411b9d7522d311e4148e1c56d2d7c444ad6e9f90088dc1292c246b6b6500e60]
+    ├── t1.vxe [0c463f995f957ed407b5337aff5cfcd800fad21ee93e6d054f23ea5742ac9103]
+    ├── t2.vxe [c6efb8dd37aa59c2a54664e6e862422a2f54f7bd66ffab198153f2b6e3908b77]
+    └── t3.vxe [3791f370913d0b54dfd1cedd2874223f842b201b4b2506e47232efb60b819799]
 ```

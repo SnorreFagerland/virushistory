@@ -3,39 +3,39 @@
 
 ```
 ├── a
-│   ├── diamonda.vom
-│   ├── diamonda.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   └── t4.vom
+│   ├── diamonda.vom [90b4fcb04ad7ad19c5396c8f6a1bce52970373095c7f74ec356837b51828aa6a]
+│   ├── diamonda.vxe [2cc5195f38a5f08d0797bef4f2395d7aa123a8c84eadaf201febcde9f3853744]
+│   ├── t1.vom [0ea4b261056bcf80eedec52405ce96550814ef7292b08a2a26be7308c70cec66]
+│   ├── t1.vxe [eb33d5984672be8bca215edbf1ac38e614e5f1c5d12176f5469cdc7f1f402c74]
+│   ├── t2.vom [0d22718a13fd4102e0514dcd0cb113e8ff57719cd747840e0a7063782a4a77ea]
+│   ├── t3.vom [c24499341991855dcd36e375d2acbcd781afc4b925c8cee35ed42f11ba253c4d]
+│   ├── t3.vxe [64f1eb69008b5a0f3b958de86c08f6efbca13e7e66c184444a94d42b1af0097f]
+│   └── t4.vom [d295fb212db18a6baa82762b969669a51aac55c2c9860aebd12fb97f64533a6a]
 ├── b
-│   ├── diamondb.vom
-│   ├── diamondb.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   └── t4.vom
+│   ├── diamondb.vom [3fa4afb5ef4dbea25a4e7053706eb31ae532cf8a50ae420780d36d9bafbfe4dc]
+│   ├── diamondb.vxe [eeec5694ccb70176fce89bace5a23e7ef30c2b9354183d378a9190ed14c23ff2]
+│   ├── t1.vom [9d5f5b7cab158a652c3972262589769171e8ed0494ec5072ae7b7a2335dfc996]
+│   ├── t1.vxe [5f573eb91b31f3859c10ccd3d0f1af652883e579b2023daf8f3cabd06785f3c0]
+│   ├── t2.vom [c0c6ba688d5b6c57d7008a5eb05f699634f4dc17c0cd2766f92172e5ef68432a]
+│   ├── t3.vom [486e34e8d8a9876375f953451c8dfc43fd4a6e8da6e1ca78382d2dc52591904c]
+│   ├── t3.vxe [11a61687ff3ac5b0241560f1c8c3798d2792240eac1cbbb5572f165fbe45c1ae]
+│   └── t4.vom [0361e408e3a32a36cff5879f3aef072719d81c1e452ffd7dba7231d0d98b53d6]
 ├── c
-│   └── d-dim24a.vxe
+│   └── d-dim24a.vxe [bce47e29e7e544a1a51995967d0414034dd1de7631e9ee6cc52dd4182a4cf50f]
 ├── d
-│   ├── di-a_!.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   └── t4.vom
+│   ├── di-a_!.vom [3e6163efd43e534a3ac9684790bfbd9b87b10f3b18658d008ff07eb8818fd08c]
+│   ├── t1.vom [0d9f6f7ae4713c8a2b5afcb8d82bc28a3f34f373e12b53acdaeeef75c801862d]
+│   ├── t1.vxe [4fb766af295998e9c6a474e9d272c9688156ba0c30b8865c39ae5c7400500ddd]
+│   ├── t2.vom [0605bdc80bccec6b41c6f7f6d4acadfdf6af3e2a971d2ffed3e55a421beb2431]
+│   ├── t3.vom [a9b62ba5e0fb72125532500d8df5b3ba1569809c94937f55be7c78e7dceed7d9]
+│   ├── t3.vxe [67d4b4a5e7a96e2db43fa9ac3a9aba47d073110230b3286c0742e35d0cfc12fd]
+│   └── t4.vom [03c012a8b48e5b8f8e3616176e297577de3eebe01ca1aa4fe95d88c3b5dfea44]
 ├── e
-│   ├── dia1024c.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   └── t4.vom
+│   ├── dia1024c.vom [cc3484d64e369fb6560c17f89187d0e75ef74648971faa9541156b3bf0b82c8a]
+│   ├── t1.vom [7967a08dd25918c083b196b0308b2bc02fab2bb70b6e72aef272b8bf8cdcb2b6]
+│   ├── t2.vom [b1792a983b21847b61dfd37b4a26a70b209bdbbe30748450bc324e6c8e3fc176]
+│   ├── t3.vom [68957b5e87022f58b2046ed41c2750aa6c18ad2268fad63c1baa37000d9a113e]
+│   └── t4.vom [d3f63dae4a236383b02e838d4c61d229dab65f2af86853f28ac1fa4c1ef53c8d]
 └── g
-    └── diamond_.vxe
+    └── diamond_.vxe [5dcf6b5798fd2f1eeb8ffea0ea2e8be8778efe1860537b498684688e3adcbab7]
 ```

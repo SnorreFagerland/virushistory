@@ -3,86 +3,86 @@
 
 ```
 ├── 0623
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── wasp623.vom
+│   ├── t1.vom [08bf16a105b584ffb8f15fca26ae3a5a839f737cefe90f0cdf9f7870f59b0731]
+│   ├── t3.vom [38b079ec7b1934c40f7dfee10b9807761ff4ed7d52ced152fe45390687f25ed0]
+│   ├── t5.vom [84704163b39be6188087e9ea8b60cc92619b197576c68a03f903729575fa2d48]
+│   ├── t7.vom [56bfd4a0bc1d917051669ecdbd386ff95b16af87ba5042321c540f23ad8d0fd8]
+│   └── wasp623.vom [f2a6d97db2d58a41e600df07a7418fee299f0a8a7d97296da85e95aefb3b7f23]
 ├── 0903
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t7.vom
-│   └── wasp903.vxe
+│   ├── t1.vom [90d3095d73743c5fb3a68b0a23a0ef5f4e3376b1e561aeff35583f81341a516c]
+│   ├── t1.vxe [e04fe5c7a5eb4dd6e72eee0eb9a4877a030eaaaaf92fdc7d00b3c814e7ba982c]
+│   ├── t3.vom [01f7cff18185ab39e404d74625ab3122c17c4a9828f7bc8fc3a96d79668d0d90]
+│   ├── t3.vxe [e22bcec6df8d0a63f147dd286601f9937483a9939ccc895491c6ced7aa19de52]
+│   ├── t5.vom [c19a5cc106821edb0e22209747b33e643e004f7bb3266b25041d70b95a1bf3aa]
+│   ├── t5.vxe [510c3d62e7412a7c23f467b758c2824f6189fe62f2e5a959bd6cf864533d33c6]
+│   ├── t7.vom [9397e5e5b782b105d9d621a38b54e3250f197ffed59108e6a55539b165146587]
+│   └── wasp903.vxe [a2a00d083cb049bad0885fcd5dfca6bbde18ab75181c028b3c46d3a48a786f5a]
 ├── 1214
-│   └── virus.dos.wasp.1214
+│   └── virus.dos.wasp.1214 [19818c0c6f435963aa39568f15e28e164f0aeeb3b9a3906a19dfafc37d18e66a]
 ├── 1312
 │   ├── a
-│   │   └── wasp_131.vom
+│   │   └── wasp_131.vom [31e812d789189bfa779c82d69827f8b6738171e7b74fa6e286aafce77199cec6]
 │   └── b
-│       └── virus.dos.wasp_ii.1312
+│       └── virus.dos.wasp_ii.1312 [085678ef78a3fd23eaa4ba9f111d758ab8ef76d7b5a7af09dfe76b34fe76d74a]
 ├── 1528
-│   └── wasp_152.vom
+│   └── wasp_152.vom [52f2f9a711a693f70b73344f483e74b9bcd796baa76fea0248240c26fd1a0061]
 ├── 1614
 │   ├── b
-│   │   └── virus.dos.vesna.1614.a
+│   │   └── virus.dos.vesna.1614.a [607e74fd34bb9b5815eb537090a8824d613bfa9e4ec8bfabab84e7ae84569cdd]
 │   ├── c
-│   │   └── virus.dos.vesna.1614.b
+│   │   └── virus.dos.vesna.1614.b [58150967d63fcf38a615bb664d1686d403f228c89e1550122f8ea322e2138518]
 │   └── d
-│       └── wasp_161.vxe
+│       └── wasp_161.vxe [9ce78b0a6fb767cb3bb75439a2e44b8277384f4f73704ea340613842116f246b]
 ├── 1647
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t7.vom
-│   └── wci0015w.vom
+│   ├── t1.vom [1ce5b29eb3dfb5171813dc7175ae2442e2f15f9f10d5e33bea15580908d48aec]
+│   ├── t1.vxe [124d05f3a37e571dd53cb588b3041e59a437895369e3229972a8d29bf0901dee]
+│   ├── t3.vom [3dd29add3d77d80d241b57c58462b40f61fec9df3adefb22b961566f1a45c880]
+│   ├── t3.vxe [9cbf6932d2512c9e703843283af38feda0d21c9b2696fa1fb3524fb0e64d5891]
+│   ├── t5.vom [c7c5551439b4eec509b57af719e8dc659b94cf36b779227b402985ceb9c1ac23]
+│   ├── t5.vxe [a2cb9d0a9ae5644528946bf16349ac0323b4e220c61d4a518c8e829603c3b0c6]
+│   ├── t7.vom [ea4c77e031940f5c8762d3c9a3b8a8ca7d809314508b88caba3e907510ed7a51]
+│   └── wci0015w.vom [99612e4ab37a3ae0d28635514cbfebaa330e21411a72e42fcd91a8da367ac705]
 ├── 1724
-│   ├── debug.vxe
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t4.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   ├── t6.vxe
-│   ├── t7.vom
-│   ├── t8.vom
-│   ├── t9.vom
-│   ├── trace.vxe
-│   └── wci0944v.vxe
+│   ├── debug.vxe [a5f2b4f25966a87a78260fdad9031821732fea72518e9d3b59c78e093ab2887f]
+│   ├── keyb.vom [4cfb2c58a32fe12a40a955f2beaa5b31e45ffc048a62abab7cf2a04ccfccc7a7]
+│   ├── t1.vom [4951117812bb91cadf19f4ab1ef340e5d8830d572dc0a67f5c10b452a5a56631]
+│   ├── t1.vxe [d1f1336d187ffc3124d3cd636268e186bca00e2e50b968f1b001c0e56dd3d8f4]
+│   ├── t10.vom [861806f4155b74922eae28ee8b84e9ab3905f26f31d834187f46c77ee7342df5]
+│   ├── t2.vom [c99de53bea306ea52f14a757c4e2da9875116f8a0b0df98c4f994f1fde223f4a]
+│   ├── t3.vom [61d220d2be821f3f18a1c488aa2d377885f4ed1340ae357813e8a9dcf5d35006]
+│   ├── t3.vxe [8ddb22287d0ae2f8c550405a78312fb6cd464a3cafe79caa1f55210c49120710]
+│   ├── t4.vom [ed3484d6f5ea35ea6a08497a5d47bbfb9167c9f009b500ec80d4d9441688ad94]
+│   ├── t4.vxe [7d41f2c50b892d6851b0d685d96dd52f30b89dc5bff53fe7bc8a33b33d275cae]
+│   ├── t5.vom [1f21263189c0445a82aa29a3f3303d290f112526c7229f41c76a4cf2abeacb9e]
+│   ├── t5.vxe [814bc899b962a214c5eb6fb184e5c6e61600f7a4979ef38035f8bfaf9d2d7b55]
+│   ├── t6.vom [18461f15865c69995b8cabdbc410fc24a37ba6129e62ae035f87d1147f5d2e21]
+│   ├── t6.vxe [5d425b85ebcd17f6f6ea90a1dcc6a9990a2baf803559e3cc945ff0283ea07f4d]
+│   ├── t7.vom [0421ce4f99b77cfc060d6fdc9620145256f39ea4cade660649d11f1329d949b4]
+│   ├── t8.vom [ed010eea3f6ab0f94953581a19f1e2fc029f2d2dca3aae84f2948fe3391894d0]
+│   ├── t9.vom [788d781d28757352d0a93c26506bf9eb773139ab35969d7f24da2036faa8ec3a]
+│   ├── trace.vxe [fd7cb67e28023b8bd11856cd5b5bfb283a6aa02765d7c29982cf5cac243ffb52]
+│   └── wci0944v.vxe [36f5c60864ac0e953ddfb024004533757873f1efceecc56ed13fdd1bb821f004]
 ├── 1751
-│   └── virus.dos.vesna.1751
+│   └── virus.dos.vesna.1751 [62a5181e0661c6105e6ea1ff9e36e49884e22f56040371a883b35ce13d8c0f28]
 ├── 1776
-│   └── virus.dos.vesna.1776
+│   └── virus.dos.vesna.1776 [b8089f6198817f80b5b52735cd2b042b6ce364eddc0e1ddeae3622f0ecfeeccd]
 └── 1833
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t10.vom
-    ├── t2.vom
-    ├── t2.vxe
-    ├── t3.vom
-    ├── t3.vxe
-    ├── t4.vom
-    ├── t4.vxe
-    ├── t5.vom
-    ├── t5.vxe
-    ├── t6.vom
-    ├── t6.vxe
-    ├── t7.vom
-    ├── t8.vom
-    ├── t9.vom
-    ├── trace.vxe
-    └── wci0945v.vxe
+    ├── t1.vom [5fff22952cb5248a0788709bf993cb7f901c12ccd679b96faf4dbd07459e499e]
+    ├── t1.vxe [60c9cf56513a2d5b44cf916c8b9917f34bf1ea057b4a07b11a0cc96e99639d82]
+    ├── t10.vom [63803866117eba095bda3fd8800cc22dca840ef6063ed72b5f67ceb402a9cc53]
+    ├── t2.vom [546e0b2ff35ad7ef140cdc1256efafec134c2628facb4a763cf2fd41ef56d88a]
+    ├── t2.vxe [91d77d341beb0c8c5b1da172f5e884139af291e90205a8009a7bae22756b5f3f]
+    ├── t3.vom [e1093483e20765d96a54c29c5623319aed1aa806dd1e627884f0ae3d160f54a0]
+    ├── t3.vxe [e128bf93cd6d978c9ad98c421c3bb96439e494d7c324af96b11bd90d3daeda81]
+    ├── t4.vom [51bba0b402aedf67211285f9bf803084f5df871e46b0379253c19f5dace964fa]
+    ├── t4.vxe [9df4118a775cc199ac0136e7b68ef9c0f3855518da98a0b8bb0c5cd3b594b8f1]
+    ├── t5.vom [e3b106f26f7e746db56d29332b592dec6879fc937150c9f3567adbe5bc459917]
+    ├── t5.vxe [3f443c4a6189a3e0c4cfc2c66c56155e57d7c755e313f3f90bef120774e62016]
+    ├── t6.vom [63ed5f94bfe7d7b203180864712ea370da4300c045ce92b68eae39281751b19d]
+    ├── t6.vxe [bda5e78fd18824bce7df51e207d8a957dd24b234dfa18ed21490c2d9adfcd0f3]
+    ├── t7.vom [f6d57997fa6ec18c1df789113dcbbae9cd6e46b5db4995d8655c29d890f30c7f]
+    ├── t8.vom [bc332f248b0056d69186e4adc5d56699bd98f2c9ef22dc24c62b968351d34fa7]
+    ├── t9.vom [8417ed91605afb75ed87b2d507efb64ceba33b075a4bae68072cd5714cc3b4ac]
+    ├── trace.vxe [8a12a2cfd77c3c8aa9077e21fb9dac2a517ea06646e4a6abfd7c0c98f664882c]
+    └── wci0945v.vxe [42d72ebd87de8f3a33b22d0a65c24f4289ab5f26461e4fa5cb47ad5fbacb6b38]
 ```

@@ -3,20 +3,20 @@
 
 ```
 ├── 3008
-│   ├── Virus.DOS.Farside.3008
-│   ├── cobai.vxe
-│   ├── porcupin.vom
-│   ├── ppine.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   └── wci0032#.vom
+│   ├── Virus.DOS.Farside.3008 [5439da0528960058a073913c28e81a979a432f40709b7de87be00717f0672a68]
+│   ├── cobai.vxe [6cfeeefb273c31e2b3fb4fd13eb5c918fd699d2b3ac4e8127413ed4c67f34870]
+│   ├── porcupin.vom [1acf1ebeb116b535e9b1b146b11fe1ba069589db5f7c5d53d815b0d0cf0e2b9a]
+│   ├── ppine.vxe [77b88116ee8e9b9248790aac44528cce7406b52ca19ad53fee7e39f21074326f]
+│   ├── t1.vom [475c29cbffd977d1af95b53b4bca75400b9d4df93bee8803323b7b63666c0439]
+│   ├── t1.vxe [0713bd2a8559478e008d49fde0ec02482b94e7a5997317fa2b6e3f4b26995317]
+│   └── wci0032#.vom [c3f7c33f61fb8da4f90b9ce42cc631f230150d0bf68a3904ce00e2dc6fea65e3]
 └── 3012
-    ├── aa55.vom
-    ├── aa55.vxe
-    ├── fars3012.vom
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t2.vom
-    ├── t2.vxe
-    └── t3.vxe
+    ├── aa55.vom [84ff94339c02512bd5aa5172bd9943e262b191e1804038fb43636c70028c1afa]
+    ├── aa55.vxe [066fcad845d9d66a4e3a1c5f2042efc3f6d6cfc180d995eb23641b0509d372b9]
+    ├── fars3012.vom [d08bb009a366c5ddf5a9bebbeaf183eed46709edc3ea7b5c81f4c52270075510]
+    ├── t1.vom [2427196fd538b0e26b77079e940b8671967e6f1284537f6564446fb99fa4af32]
+    ├── t1.vxe [4bb3294238b7c255b7a92e780e0d09503ceb3609f0437219f5a32d3cc113e903]
+    ├── t2.vom [258e951c3fb128798bc1bf8d843127b33696c10fa7a3bac2a61969c496955d21]
+    ├── t2.vxe [ce5543710e26533ed76738889badd9a5b9daee7eaa12699e5e0d8e537bfda651]
+    └── t3.vxe [7ace6b7ca1355c1123ef29240457a8feb8f080fa5cb5c99fe1c293019bd15333]
 ```

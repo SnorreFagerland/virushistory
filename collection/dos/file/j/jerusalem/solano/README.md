@@ -4,32 +4,32 @@
 ```
 ├── dyslexia
 │   ├── a
-│   │   ├── dyslexia.vom
-│   │   ├── j-soldys.vom
-│   │   ├── jeru0650.vom
-│   │   ├── jeru0651.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   └── virus31.vom
+│   │   ├── dyslexia.vom [ae4c4f284463f324fbc98fe5cf0f10ab96279acb447b7d05f6d7eb77890b063e]
+│   │   ├── j-soldys.vom [d754494c85e0f1b92994c6dae48a40d2f5acfa299c1246b35d5afd6c466fb44d]
+│   │   ├── jeru0650.vom [14a1cd41fd507037f64ad8ef2a8bbdb662264085cd19120aab00ec2ef9e608fa]
+│   │   ├── jeru0651.vom [db6dd22fddf539564b9988c32c0d9aa1f29022596e6443bccc9893d13b21f4cf]
+│   │   ├── t3.vom [b8f5124aabe35c7424c17a73a19068094ff83367c562846caabb509c4eb8c7f8]
+│   │   ├── t4.vom [454dcda2a922cb00aaec9ec0413d86a7ef9e7112fe6371eb14f428e5e8013ca9]
+│   │   └── virus31.vom [fe415d992307be83e2ce045cf5fb5d6a22952e547c6c97a85a888d63b441b767]
 │   ├── c (satan)
-│   │   ├── sat208.vom
-│   │   └── satan208.vom
+│   │   ├── sat208.vom [44a7b6499877eb8848335cc79ce877e05196b714a1a79592e4cd98ce03a33705]
+│   │   └── satan208.vom [81a63602574fa5381d64c93ee16bfa0529448033e3cb3d6ed60f38357d978d14]
 │   └── d
-│       └── jerusale-001.vom
+│       └── jerusale-001.vom [f0d42da8ca14e8d9b60de81750da78e55e6cb1e200365fa5a17e831170c75a51]
 └── sublimin
     ├── a
-    │   ├── j-sol1.vom
-    │   ├── j-solsub.vom
-    │   ├── jeru0660.vom
-    │   ├── jeru0661.vom
-    │   └── sublimi.vom
+    │   ├── j-sol1.vom [85c6ba9682140725e872262bf93f0e9146391766d2199bcc4823af328ef9444c]
+    │   ├── j-solsub.vom [390c37230434e767bd8814201594a712ac7c0b34506a4e4567e2ab12f557e60d]
+    │   ├── jeru0660.vom [b5da2665e3a613bad9d06a80f1558ce4d65eccafb452239f7d4c4aad6fd12c22]
+    │   ├── jeru0661.vom [d6a7284cd87f403517d9d01c792e3314fd8e82df9a5e40b488f393a1fb5af246]
+    │   └── sublimi.vom [6b5f593e0980dc00837ed31648c9b90934a8eb94d13d96f6c63a9e4c5db4db34]
     └── b
-        ├── rot.vxe
-        ├── t1.vom
-        ├── t2.vom
-        ├── t3.vom
-        ├── t4.vom
-        ├── t5.vom
-        ├── t6.vom
-        └── t7.vom
+        ├── rot.vxe [d8361b523f018c468e3ff6d4908929b2a4d137149b6104f225468f80227f55ee]
+        ├── t1.vom [d01e365c09791c180aa10e301b53e092c43c585441fee579c8884905172a9939]
+        ├── t2.vom [b708088e04b54275e77b957c7249df075226775ee5ed29498989644ce96b04c9]
+        ├── t3.vom [75bf27425c4e776e5db73b67f1578adcc85b777c28b4728f5e048f97751a1e7d]
+        ├── t4.vom [68314e703ad537daa6fa1acd50215c7231899e1b15f94d25f39044003f2105e0]
+        ├── t5.vom [1849d3a0c3deef5db5ec9eaa6f1ef49064ab138ccac0cf63b5120fb166e7b60e]
+        ├── t6.vom [069d1f74b0ad3ca9eeff79981e4e94dcb6de7166c3e5278be6e959ee09427db7]
+        └── t7.vom [1472c0808c84e74171c6fd11e2f955f08388f0b347333274a671b15f6f2ade3a]
 ```

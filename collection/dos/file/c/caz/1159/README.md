@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── v840.vom
+│   ├── t1.vom [4d5fc0529a8a726102c45b3b896af9f3f838e9c00601fa1b71278cbee594dec9]
+│   ├── t2.vom [03b759fd814cc58d19dd57853f3aebfa0fb7ed949c6e4a7d3289b827c697c40c]
+│   ├── t3.vom [ffc722627daa13422352453f61d763d7d91f753dc3144b2735d49739e4251242]
+│   ├── t4.vom [ef4a56873ec8e082732fc251ff2eeba7409cc65e1960c3e1e371c2bbcab09188]
+│   ├── t5.vom [7135ed5e74b01904c0c3448caf47c773bc9b494d8b45e36c98b8ef2174452015]
+│   ├── t6.vom [b9aa0d2537b9615590ab3bd08d2d66b679ee5ff087e315a414949b7166d3bfa9]
+│   ├── t7.vom [195f2c60db5718a069fa8c7becf78309013d3247835b65a1de0e6f41d39c6288]
+│   └── v840.vom [a7047fbab114e03638140c3435b7d70c41f895f995deb9687a9916bc8c3eb7c4]
 └── b
-    └── virus.dos.caz.1159.b
+    └── virus.dos.caz.1159.b [00d8cb2eb55fe88f9868b533bce81d208d9a3d73964d5516e4593ea6689c07c4]
 ```

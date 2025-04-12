@@ -4,68 +4,68 @@
 ```
 └── 2330
     ├── a
-    │   ├── 1-c2330a.vom
-    │   ├── 2-c2330a.vom
-    │   ├── 3-c2330a.vom
-    │   ├── 4-c2330a.vom
-    │   ├── c-c2330a.vom
-    │   ├── casino-1.vom
-    │   ├── casino-a.vom
-    │   ├── casino~1.vom
-    │   ├── grep.vom
-    │   ├── keyb.vom
-    │   ├── lwm.vom
-    │   ├── mode.vom
-    │   ├── more.vom
-    │   ├── t1.vom
-    │   ├── t10.vom
-    │   ├── t2.vom
-    │   ├── t3.vom
-    │   ├── t4.vom
-    │   ├── t5.vom
-    │   ├── t6.vom
-    │   └── t7.vom
+    │   ├── 1-c2330a.vom [ac95c6b14a50be028356e61c932e4c9db07b716037ef56476e632ceae0d2e7dc]
+    │   ├── 2-c2330a.vom [a5add1c231ffd32a1a0ac406fe19629c43125472ddaa824e2a57060da65c8cc6]
+    │   ├── 3-c2330a.vom [4fee4469b7e39add8f3171cc3baf928adfd5e1603fce2a376fb2d0b5bf54fedb]
+    │   ├── 4-c2330a.vom [411aac5d11574161ba92c19bad415c2e1bc2dbd4704f4149f2d838eb2af00446]
+    │   ├── c-c2330a.vom [dd390846adf35846131fddb56880b60fa86263e1a4e0c89ab521c293203b36d1]
+    │   ├── casino-1.vom [7ad2b6698d1699844047c5f78154597fcec76fbb4d063b4caef13993e78dc069]
+    │   ├── casino-a.vom [d0f3da272a5277a9aa56658c9972e756d3a915524e48085925d6b1beb33c02dd]
+    │   ├── casino~1.vom [5a8437ad3009020d47fa05a6f38eb0cfd13693a7f64369c34601094ec06272ae]
+    │   ├── grep.vom [f67f60c588a3468610b1e5dfa47a5c518cadcfab1447e2208b24681cd87157a4]
+    │   ├── keyb.vom [b6c12d4268450228f8dde612d56fe4a50980049c904f4cc892a406e2d0bcaf2b]
+    │   ├── lwm.vom [04bb0476316274b58dc70fe6e2e8beb3ed859cac4151210b691d436bd58d02e0]
+    │   ├── mode.vom [cb03b11531d9a911e3dc171c93835e55d29aef6c1214f1a2a88ca4ac9223c525]
+    │   ├── more.vom [a47d9b545e759053d9a816fd693e553fa60d88ed6046909362168e475baeb87f]
+    │   ├── t1.vom [b80cefd65c35525321256df7b8a7f6b2c6096137076bc0ddae687aa597cbecd1]
+    │   ├── t10.vom [e72f281a85290954ead4552911ac005ce1281f4ae122b77268adba3d7f14840b]
+    │   ├── t2.vom [6d48a083aa23a3d148a473dcf93a9e7147b8fbfabb89d3ae23a8e6a3497581fa]
+    │   ├── t3.vom [77d8acb38d920e186f8f01c07e931284086739cf1de8ec5bb241e0b9324daa1b]
+    │   ├── t4.vom [d6be8485531ea8ebccdd7322d6a7623c4ce820a222d06ba24c9b54bb0dece229]
+    │   ├── t5.vom [2f9c1644a4c5585537c98cd12ff9dc052a76ea8c467500868c209ac3f428da54]
+    │   ├── t6.vom [afbe05101f5a7ddd49234dfc566f7298b653c01deb10be0ac990beafb510e71e]
+    │   └── t7.vom [b2a5a38a85a492a9385cd0da81a29ecccdcf7098ebe67052cfe2ccb9297f01bb]
     ├── b
-    │   ├── casino-b.vom
-    │   ├── casino-c.vom
-    │   ├── casino_1.vom
-    │   ├── grep.vom
-    │   ├── keyb.vom
-    │   ├── t10.vom
-    │   ├── t2.vom
-    │   └── t4.vom
+    │   ├── casino-b.vom [0f5fefdfb114b0657affdbb2b172ca82f28f2cc7f142077425c7b978c5e9cc9c]
+    │   ├── casino-c.vom [6ac0385d9729dba12de1ab7401a0f190fe9545c615288e3058cdba5311311737]
+    │   ├── casino_1.vom [3167be0620f630c7a45b5678ccf2388e74e8a7cd15371b1c9692681deb472b74]
+    │   ├── grep.vom [8f32cbc5d8dce9fb6d4c1deea0a8c4898e96ab015142d6b2636195272eafc32b]
+    │   ├── keyb.vom [2a905defa70d84fe16d7ed8fd24a2e5b50523a3fd81e39cbeb8efa8f5eff534f]
+    │   ├── t10.vom [d3d95012e382df878254d24478f769fef1ba42190d0d219f0affb6a5e92b7736]
+    │   ├── t2.vom [b269d4d7e50bb4b98479ef08752c8c9b5abbf99d48e2c902ea7121133931b584]
+    │   └── t4.vom [278a437cc4a863fb44ea56a7c5b7462d62d3fca3178ad633947d6c75d1c33e1a]
     ├── c
-    │   ├── cas2330c.vom
-    │   ├── grep.vom
-    │   ├── keyb.vom
-    │   ├── t10.vom
-    │   ├── t2.vom
-    │   ├── t4.vom
-    │   └── t6.vom
+    │   ├── cas2330c.vom [ea5b686607ade84b8a311113468e20a49709a70ab42b0c022486188175ecbb43]
+    │   ├── grep.vom [401d87ac61ac771042631903a1e545576eb2c65ea6d509b0d3a872fc7ce2176b]
+    │   ├── keyb.vom [54a6a137cfa8cc5a48655495de6ad525603c48fdd081b263aed06be7a624ac50]
+    │   ├── t10.vom [b146b1892f00d7e6ea57f7cf5d2a615a91b21ef21284e0d4d3a8b5b9eb425a98]
+    │   ├── t2.vom [d562b891390e14c2943d2685bbeb57023c3b65e5123e5abbddad5ae579f31160]
+    │   ├── t4.vom [81a73b3e2f7395d01352679d6cd6403d30d7cc209e2db0881cf8b0e4c8cbef95]
+    │   └── t6.vom [3c153982bbdb5ba8433b2ae058b595e355c660c5e4f70943b815fbddaddc0d3a]
     ├── d
-    │   ├── 1-c2330d.vom
-    │   ├── 2-c2330d.vom
-    │   ├── 3-c2330d.vom
-    │   ├── 4-c2330d.vom
-    │   ├── c-c2330d.vom
-    │   ├── cas-d.vom
-    │   ├── casino-b.vom
-    │   ├── grep.vom
-    │   ├── keyb.vom
-    │   ├── t1.vom
-    │   ├── t10.vom
-    │   ├── t2.vom
-    │   ├── t3.vom
-    │   ├── t4.vom
-    │   ├── t5.vom
-    │   └── t6.vom
+    │   ├── 1-c2330d.vom [afaf8124c1335fef1008cb58118e9f30e81ae5e668f492c0473a2e399f8bfa89]
+    │   ├── 2-c2330d.vom [2dcc47060cff4ebf2b4eb9fad7d07b8b9141af18689e43135f2cc62a8b46de96]
+    │   ├── 3-c2330d.vom [d30548b2e647f804d87b180b3768ff55ba476b86692efdc9fe271c5b48fed096]
+    │   ├── 4-c2330d.vom [6d7137e3fe0729cf3d91c88218c92fd61f79ee3d25fad1ab50bc368e0db5506d]
+    │   ├── c-c2330d.vom [f5954a07b74a136844a87651144879f64b494740b3acf90d4bff1776e128daeb]
+    │   ├── cas-d.vom [a19d8207d1ff57ab1c48595ba0f456dc37f38356cbea52e479330512318f4bfc]
+    │   ├── casino-b.vom [7776b364c1f760d235183b8c2fc0f39c7117baa296169c3d28aa6bf82cfad62a]
+    │   ├── grep.vom [76543d4e81ebefa0f395078124d3f52bcac73ab34dcd891362eafee605976b21]
+    │   ├── keyb.vom [60f4c62ed6c2a5b620648eddd235829da1f375d2db9a81d515a2d5a5ea5eb075]
+    │   ├── t1.vom [6a03bf91038560b43c4a34319e7e80a4496d7fea09cd4d7c6a570ea7d2f28055]
+    │   ├── t10.vom [c43b93ead57ecbd152cb31421fd57b887a1685f93d2df38a80f3d8fa69c656d9]
+    │   ├── t2.vom [e5785c229251a9ab793e868ea4461d8255fd953befe1b01c3e119b725e11bbc4]
+    │   ├── t3.vom [d9a8da4f2af3415ea359db38225da7112523d79da63291b249d93a8fb078e057]
+    │   ├── t4.vom [13bf940af5b17d2b42a41edb147d69584c0780addd3ec39f28ae5ce5bdd5ccd4]
+    │   ├── t5.vom [a1c693a2012b800c776f34362a62f08c9df51e5b329d797d5fe35ab7dd610c2b]
+    │   └── t6.vom [1afebd50ca73afe265535e1867b6afc702fcd346a60f98fb62bfe581d8625f62]
     ├── e
-    │   ├── t10.vom
-    │   ├── t11.vom
-    │   ├── t12.vom
-    │   ├── t9.vom
-    │   └── wci0079c.vom
+    │   ├── t10.vom [4cde54a0f69d38e6cdc209fb8e932dff8d78f39b5ad20b3a10c75ca3ac4763ee]
+    │   ├── t11.vom [45fe2eccfb8f52ff32f1c6d6fbe618ddd5a367cbc4806eb3c039ef86920843c6]
+    │   ├── t12.vom [8a6a3ceb77272293d7154a7a32bb42444a97c33e57cc9ed08282be91487fb1fe]
+    │   ├── t9.vom [41f31aee7124ca1e75ae4ff39e6675399a9059b4edacbad09f28a2092b53c124]
+    │   └── wci0079c.vom [1f72538240c3c4ef3b6064155b11f79a3b587fbdc0b6d71579f400838138e56a]
     └── f
-        ├── casino_2-001.vom
-        └── casino_2.vom
+        ├── casino_2-001.vom [bd0ff173b431335355b5c1ecfea31b97a6be6cc5cea2a3cf61670f5a5e1ec279]
+        └── casino_2.vom [849a9aaf455ab868e48911e1dafe3e5573029b1ce7fa0c012798056a564f5196]
 ```

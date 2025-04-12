@@ -3,75 +3,75 @@
 
 ```
 ├── 408
-│   ├── f13-408.vom
-│   └── fri13b.vom
+│   ├── f13-408.vom [cda1326400bfb447209cd6d838397b00b18eac6495026b7b8aedd0402ce7fcd8]
+│   └── fri13b.vom [7f0c2f89f5f42c259c9d4e2c5e413a2220a242487b0612a771ce6f2941d68e7f]
 ├── 414
-│   ├── f13th414.vom
-│   ├── frid414.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   ├── t8.vom
-│   └── t9.vom
+│   ├── f13th414.vom [be4903f0d58307103f994c3574df77f429e0f44f66c1b9da78b4b6c06532cfff]
+│   ├── frid414.vom [84c8d7df29b3c11b967e82719da6c5d9620683bbee6db71a3710a6db425ea98e]
+│   ├── t1.vom [e83bf304888b6827cbadedc3e5030e1632b77bee70f5ec68b0b0feb3ea806625]
+│   ├── t10.vom [0a1277448bc701802197350ed338e89774f5e36760e5508adfc103c646221eb1]
+│   ├── t2.vom [48f9e7e274631f2da5498741d15827af5504ba497e9137e0c30e77d4411871fb]
+│   ├── t3.vom [0b3de3837a5524f02810d346116c9e60d30b851e9392d6fcb72c2dabd7e6beaa]
+│   ├── t4.vom [3cebb8911da76cccaf43d51f562b9b67ce96a701a90562ec67b3522607c3b18d]
+│   ├── t5.vom [1f50b616538c702245677e50778ed14b30553ce01e2c3db86bd43d32ce724eaa]
+│   ├── t6.vom [de0d8639215e4c36ad46d46469d4f0b26a78e5c501a8f99975ec64a9eaed1737]
+│   ├── t7.vom [24fb3d8903ab4b2d5510686d6327171a27e3068ccdbf2c2b0992c280f6286375]
+│   ├── t8.vom [9287f375d777c88b313d7fcc650edbd50e356ef322b3b11c1e9c0f1add6a2f06]
+│   └── t9.vom [4cb19df3d89cecc9666887694506fe8d1a78b401032790b3c9e3582da6a8b6bd]
 ├── 416
 │   ├── a
-│   │   └── f13-416a.vom
+│   │   └── f13-416a.vom [9695d836b6bfc34a14c8d908937e767bd9f494606dde0a931876713a06caba07]
 │   ├── b
-│   │   ├── f13-416b.vom
-│   │   └── fri-416b.vom
+│   │   ├── f13-416b.vom [bbc2303fd8f49658479cc9587bfcc7b775289c8d8ffc5bd0defbfb316449f359]
+│   │   └── fri-416b.vom [c2ac678bc42780714e005a96ab5e12d0f1a9e297f4027f540f2569c6b56599df]
 │   ├── c
-│   │   └── FRI-416C.vom
+│   │   └── FRI-416C.vom [5aabae9639bdf127f3c0b8be12f8c938dd35a35b3fdd618a628d7557d3d2a6af]
 │   ├── e
-│   │   └── DUMP32.vom
+│   │   └── DUMP32.vom [d7f8c5a106d3b8e8d44c94f8e6e36c36528c8734a684f8574530965861586a2f]
 │   └── f
-│       └── virus.dos.friday13.416.c
+│       └── virus.dos.friday13.416.c [4b1e7beffc91af2b947d8352d87443daa968fa06466dc3c5c3222a15e910bad2]
 ├── 417
 │   ├── a
-│   │   ├── t0.vom
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   ├── t7.vom
-│   │   ├── t8.vom
-│   │   └── t9.vom
+│   │   ├── t0.vom [5fad20f4367b4ae87d124406fa57667879071f5141fe2f2649b8e1d633ea0cf7]
+│   │   ├── t1.vom [5597cfd96abbfa293f26c4c9e6e311487c9a6e24a889cfb7e3627e5a7708f7ac]
+│   │   ├── t10.vom [3da1623b6357380c7b3c1ce3c1ce3d7890b8e4634c6599cb6fb560233cb4b96e]
+│   │   ├── t2.vom [4d3581d057cfe2ab771ef04835f856520319d0f9d85006aee51a51a07436b665]
+│   │   ├── t3.vom [f6497e8855c7b8ceceac8e25f596fce25ea11daadf701cc8de6a7143e2306859]
+│   │   ├── t4.vom [6fe3a4fb8276a3190acb67d3b4e99ec194560678429f902abe383d90aed575d5]
+│   │   ├── t5.vom [a514aedb1498fc000c7f843165179577f4a26937d6924469d16ff9489f5166da]
+│   │   ├── t6.vom [6715c338022d9c6bc932f2fc8cb5d9385235782439286280f83697e403372153]
+│   │   ├── t7.vom [82e34a95659e0e61a130d766ed47706dfce93ba97d00a8ba3aae48379d08f5f7]
+│   │   ├── t8.vom [b92a1c970210eb148029e5b4a1ce999f0b7c52c2d933958e5bbc67d9aab13607]
+│   │   └── t9.vom [366f7a4629150e7c4085605a98dad5c18adc745019f87a7e7ad6613e10b2c53a]
 │   └── b
-│       └── wci03042.vom
+│       └── wci03042.vom [58bb08623e477bd0c6880a16fe6975e08f6b37cc84cd07ff84ba24ef42031860]
 ├── 456
-│   ├── frid456.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── frid456.vom [8baeb72aaf8a8fe863d247f446688e2b3dc49966a3477e7b5a35f9b30d6e4cb4]
+│   ├── t1.vom [ec265e9ede1a7e201ba45f5d3ec52cdef133fd70abd305ef92f1e8f7d9e8b8db]
+│   ├── t2.vom [2dc863b015cc82ca3b36c45ad870a5e589187b602a01dc8673e40a9b74e4950b]
+│   ├── t3.vom [1e07a63c602cd059a31db537ac0fce0d75b59ac650f9d5824f9cf946e72705a1]
+│   ├── t4.vom [d067cca100d2d6d84785d577d1ec078b24508ed4886be1239281a9ff4dfe8441]
+│   ├── t5.vom [19fdd650028205cc3d1927019a20d1db3030402698a04b959e8547a5bda48d06]
+│   ├── t6.vom [5b278bacb74976113a51aaa8cb96137d9bcfeaa0f690f2470899634677cfdeda]
+│   └── t7.vom [800430e66eed235a64d7ac6ebbf534c401df9c5c49a72023a11c08187ab3cde2]
 ├── 540
 │   ├── a
-│   │   └── f13vb-a.vom
+│   │   └── f13vb-a.vom [6b2ca3b266eadc66d1a11e4a00317e6cab062cc332930ced884e83aaeacd0229]
 │   ├── b
-│   │   └── f13vb-b.vom
+│   │   └── f13vb-b.vom [b5cccef1cfa9180e251edf1bba545737e60b9236eb8c80b96dad273decd6653e]
 │   ├── e
-│   │   └── virus.dos.friday13.540.b
+│   │   └── virus.dos.friday13.540.b [8a5eeff52999feb58b87c12cac007d172164de577cf5a4739871310ce3dfee3a]
 │   ├── f
-│   │   └── fri-540a.vom
+│   │   └── fri-540a.vom [c8b93393d94e3d49a812e9bcb6c95929c6e81a45c746b7a0e10730e6f52d13c0]
 │   └── g
-│       ├── DUMP32.vom
-│       ├── LWM.vom
-│       ├── NETRUN.vom
-│       ├── j-f13b.vom
-│       ├── t1.vom
-│       └── t3.vom
+│       ├── DUMP32.vom [456c1c99b097e9f9a6603d3d2d472f7ab1cfdff2d92df43c9f69cec583f67b4a]
+│       ├── LWM.vom [c64806aac63f8bb5d320fe4760a21fdae7d9b574124683fbfb17e54573e0117b]
+│       ├── NETRUN.vom [79daf284a711449097186f9c98b6b52597be65b9d9b48a222c03389f098bcceb]
+│       ├── j-f13b.vom [efa20d274d74e91aa123d70db79bb87c6dbd465620c3d58c8c9097ae88903d79]
+│       ├── t1.vom [c5dfc12b726f377ae19f05fc3128c7035253a1b9eceeee86e01f62302e3ed8b4]
+│       └── t3.vom [15b4f6e30dc138cd62525aaa2a33a86a4867f7b242bc3c42e3209e75366668f1]
 ├── 613
-│   └── edge.vom
+│   └── edge.vom [7072366a1ccc782971ff2d82908ce7cb7f0fd63817ff14cd15d96f22a093d65f]
 └── 623
-    └── sa623.vom
+    └── sa623.vom [3995c956e7098df0aec15baef77ce0ea9c9993f0dc18db2a09d5a7bbb7cf418b]
 ```

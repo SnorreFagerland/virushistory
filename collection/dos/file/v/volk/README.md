@@ -3,31 +3,31 @@
 
 ```
 ├── a
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── volkag1.vom
+│   ├── grep.vom [9bae25c990957e20152c8d00728b70a07a7002b77587b027af2e375dd2896e8e]
+│   ├── keyb.vom [98239e5c6b331adad4e0a0261c2c6fec27993cf8de0ca1cce2bb7b009ede7baa]
+│   ├── t1.vom [5745cb07e41d6e292075bb16a036c2ce7b939d6519f39ec6c9492bfb9f738d79]
+│   ├── t3.vom [3691d38f1947718a9b804ea73cc5582f9389a972c31674186c0fc09c028280d7]
+│   ├── t5.vom [0fe132014954e6b7e232341831b009c3b39f1f56556575a6830274ab52bd8325]
+│   └── volkag1.vom [8b90bcd282775dcb4868b1c66c36ddefe60396e468d6d2ff42574b1a78f6e189]
 ├── b
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── t9.vom
-│   ├── volkb.vom
-│   └── weimar2.vom
+│   ├── keyb.vom [241334514e9c1a19e3874db493acfa83f06f64f51eb441fd4b4ff800f2d9c0ca]
+│   ├── t1.vom [0ba609c9dce58a6649450bbd64e29a8be465ec4d409a028d4e0edef1ca246873]
+│   ├── t3.vom [c5a8029f3c34bbb7d5a102dac3330f5af0bb9774d8a1aba83d63527930d10436]
+│   ├── t5.vom [a912533cb4761b1dae7f68566bca3a2cac94d49e4930c93bcb37d61a67b5fad2]
+│   ├── t7.vom [0b525d62b9361daa4a656ddb2160f26339f60dc76ba2b3c6f0d63682348ab9e3]
+│   ├── t9.vom [2f36260f038228b63608e03d02d5fed7da9fca3ac65a341f5bbc31b129e4ced0]
+│   ├── volkb.vom [e1f935f5ba38e49fb56906d7aa9f95f1f9aebc7d60db2ad099ef1e02e2c8afe7]
+│   └── weimar2.vom [27a3b81685fb95c78442debf1229338929598626200c2e196157d4477dc3042f]
 ├── c
-│   ├── doskey.vom
-│   ├── grep.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── volkc.vom
-│   └── weimar.vom
+│   ├── doskey.vom [2af3c4cab804cf3901d1567671c747f6cc85cd67b3d887dab9a096a80530a5d5]
+│   ├── grep.vom [3715d3da396472f15f87ee36315b74efb1a39944b3626d46bba6d30b6d7a141c]
+│   ├── t2.vom [bc7f6442fc468d75e9a3d6f0e7a70d06596d6b413bdd6102a6594c750472f9e9]
+│   ├── t3.vom [6e140334691fdf7fd30e15647ec4d92a4a59523166dcfdc3a2aab68c5d065e8f]
+│   ├── t5.vom [2a0cd9433bb49f27e46c4f7513e0d7787d9981d26c4b9da0224241f97f68b68e]
+│   ├── volkc.vom [fec6cba719996ff188bc510be35d97d3e01968da293c2293c9b2c92d0a2f0042]
+│   └── weimar.vom [e967fb3208f7c26ae78a2c1d2446d75133ef95b3a50f79bc6bafbefdb689658f]
 ├── d
-│   └── UNKNOWN.vom
+│   └── UNKNOWN.vom [be6ae84b7b1cd1c2a765b56d7187eeaab09b5ec6c1707859aca6b198416ce9c4]
 └── e
-    └── UNKNOWN.vom
+    └── UNKNOWN.vom [30a0a224facf4e5879084175c4273e5ea2bdb6c6e7e902283e9a1bb9728e67f0]
 ```

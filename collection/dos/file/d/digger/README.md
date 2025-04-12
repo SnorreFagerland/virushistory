@@ -3,35 +3,35 @@
 
 ```
 ├── 0600
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── v600.vom
+│   ├── t1.vom [6093fcdbcf4c31029d438f11a7bea0347418948e17d770f3a5cb8b6623838dd9]
+│   ├── t2.vom [706e9839bdfe3e09f0ba1865cd063d74fb464ffc3a037c3b442b3d7ecbfd8e7d]
+│   ├── t3.vom [d6cf042aec4614d8c68b04e332d88adc2133371b270c32a0f3ef05163e826480]
+│   ├── t4.vom [2c3694a0e319b3143cc4895f25562b0fe7126de35096fa0bc26d94d0db35798e]
+│   ├── t5.vom [41d156f3c73a8c67a1c97c4bbed7e8afbc971fd4762d80563415e936c2584b56]
+│   ├── t6.vom [576b81488da97809d493ca3575e9d0a6120d0fcf295c701bf5d694d7f1a9593b]
+│   ├── t7.vom [d70739734877fb921a2f6cbbfbe7bd8440e663531486fd38909fe2379147346b]
+│   └── v600.vom [408080bdcb05efa91432972677669ee3906917bcc0022c351ea8a74004b615a4]
 ├── 1000
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t7.vxe
-│   ├── t9.vom
-│   └── wci0263d.vom
+│   ├── t1.vom [5940353f19790e19b8108b424fe0e7201498d677e2a95c2f3d811416b08696af]
+│   ├── t1.vxe [35000a8cb01d05a8b9a883e977127e60d49f701281dc120f4984e078e6078ba9]
+│   ├── t10.vom [db7c870d6b69277642f655a2865f3c17820039ee8c0f881e6530f0a0fd2e2796]
+│   ├── t2.vom [0110dc878282246c8934706fcf7cbdbed59757f685ab952dc5c2b55a115bfa6b]
+│   ├── t2.vxe [3da17b353adba93ccdd792b6a8609d3f6595db2006a51ed15c3757092fe3e111]
+│   ├── t7.vxe [ba9c5e9d03c2ac387e0580b94eb4b8d695c76bacaa915ec6ac7c71a4ebaf511f]
+│   ├── t9.vom [90da4fa9d4950e2907f51554a8b145e210be06cd987156cb58ba289e43e556b4]
+│   └── wci0263d.vom [e5799778eab5cc5856567086e42ebe358e70aabbdb164bcfc946a59ad9a841dc]
 ├── 1475
-│   ├── digg1475.vom
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t10.vom
-│   └── t9.vom
+│   ├── digg1475.vom [34a9b0544786cb2577a3d0a97d1769de09d8d137f0baa566c03e494869b54de0]
+│   ├── grep.vom [8b9524ebbcfc580072c3c6d52159b70ba03b6d0f47fa49705dcf0c79a1c0b026]
+│   ├── keyb.vom [da38bc75115f74175a0d3ca1d2b53d772ea93f18a09b1a9c188bd05f3a3724cb]
+│   ├── t10.vom [9d39071f8b0658a24754771f4a34d258fd9c0de08894bb4a2230c37d4594841c]
+│   └── t9.vom [fbe2a18fb65ee2a72c8756a9d2bbec356f6cc1a2297e1ea3462c7decbf3169b1]
 └── 1512
-    ├── digg1512.vom
-    ├── grep.vom
-    ├── keyb.vom
-    ├── t1.vom
-    ├── t10.vom
-    ├── t2.vom
-    └── t9.vom
+    ├── digg1512.vom [7ab884217cef6ab34a23ab00b3448ec6801e43ac70ebb11fe5083a63c24394d7]
+    ├── grep.vom [3dce4b17b9bc07aa62586ec18f7f19313a57959ea24cf76364aef4b0282e0eb0]
+    ├── keyb.vom [00b92f1cb5fe98edaf2195bb61c94904bb50d971e426aab769a42d42485d05af]
+    ├── t1.vom [dc2484a32b9f5541d95b9043f1654b481b49b6c6a63f776d132791663fe77900]
+    ├── t10.vom [ac4e404607c623e5f63d9337069ac5a9d8dcf45ef485ad0abe10dd706acee117]
+    ├── t2.vom [4c6b28815b1e657e361a93b83770c62543f37772b1760b58d3db963357e01003]
+    └── t9.vom [757696997d4200ac1bf051385fd27ecab747ea9a237b8789d5c291a2843fd120]
 ```

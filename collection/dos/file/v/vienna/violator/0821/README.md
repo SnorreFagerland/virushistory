@@ -3,21 +3,21 @@
 
 ```
 ├── a
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── lisbon.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t3.vom
-│   └── t4.vom
+│   ├── grep.vom [575609a538e596c1194cfde874a4eafe54e9ef935ec96f434f6fd59cd541ad79]
+│   ├── keyb.vom [ee968da87bd4e597df402e72fedfb4e11d2d25a87a40d756be917b930fd47ce3]
+│   ├── lisbon.vom [8487537f07bba02d3d31d505a8d71ad10c528ca46c250aebab2b0b721ce61174]
+│   ├── t1.vom [a02f788feabc31361cd8ed54e98368c3218e4a7c66d0109b745cb422383dd23c]
+│   ├── t10.vom [51a2a7e845ef10d7ba2b69129f8e1f0bb18a0ff71a5061645b8802be5820a749]
+│   ├── t3.vom [1c61747e5235a05a24510cb45c7f79e1cda7918ae0924b06fedfd7f7e6c588ad]
+│   └── t4.vom [9ded64616a7b833fa5b5e147c7217bec120863e18d61b6460a9955a6e15b77ca]
 └── b
-    ├── f-prot316f.txt
-    ├── grep.vom
-    ├── keyb.vom
-    ├── t1.vom
-    ├── t10.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── v!0821c.vom
-    └── v-viob3c.vom
+    ├── f-prot316f.txt [0bd844d81d9960943ec07da4d8e3cfe67e103dc9e9f4239201d37000fe419cae]
+    ├── grep.vom [bb171a479ef1b981d12ee92d3235f78cb6692854b7cd352a94d81b2ad64ae3a4]
+    ├── keyb.vom [3e4e6a732b0ab692c9169c096b39b890fadd4bf9797213b338f9818d522f8e2d]
+    ├── t1.vom [9048e2ba48280f7418a277ca1b9813b22725d624aed1143f6df5fc8648122579]
+    ├── t10.vom [84f2016a2be4518efda7135134b4579fe1503a364dc49ade89d7ad022163bc54]
+    ├── t3.vom [fa8b788e0a80411748b46f40626d35c46bee0df5dbc716c179c1102c76ce2d68]
+    ├── t4.vom [ba3582fca6cf49298f6a2c836baccb66231aed503893c4f3da7b079328221621]
+    ├── v!0821c.vom [e9d56071ceaa709acb11de766cbea360b6666abaeec19451e1379fe12a87e4f1]
+    └── v-viob3c.vom [dabc9ab5a82405818b86b8dd7b42e934f009200549c9eab8ddf0ff822b886730]
 ```

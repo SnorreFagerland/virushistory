@@ -3,55 +3,55 @@
 
 ```
 ├── 0561
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t7.vom
-│   └── wci0203t.vom
+│   ├── t1.vom [0648b4f5ac2b48f481438963c96399fb50ae613ad4c307de82a99f218a70ca2b]
+│   ├── t1.vxe [5e43b4839223e76a28a1800399be7ef5e164133f4acef8506c42b92b92bfbbc8]
+│   ├── t3.vom [e4b3276d13929d223a654cfed3c55a398e3ee5c4a59751706231f992ba50e442]
+│   ├── t3.vxe [239a621ac344fcfa61805f53ad831a23c1de64d3a380496770702370e9374fe5]
+│   ├── t5.vom [c0c72d2c9345f32209303d6f666cc462b275fb2dbf6e1cb41fc6308c48f0297f]
+│   ├── t5.vxe [deaa7afdf9f203f69e3ca1636c790adda396d424f924e68199604c62877be36c]
+│   ├── t7.vom [c98db8d7bb3fc5d5e6ba490da074b416866a3d7cf58e82a2a591f081b5a9a444]
+│   └── wci0203t.vom [5083fc40ccf6459791cab8a881f6722949db90b3ba1875402f2488e71c16d1c9]
 ├── 0570
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t7.vom
-│   └── trak0570.vom
+│   ├── t1.vom [d02f07ef242ccf36586ab67e80902a0480a9e689be6ee519e1ec342e32d88892]
+│   ├── t1.vxe [902cb3e58e42168b4effa09181dc0c2881ac817668fed033e18e105a02425ab0]
+│   ├── t3.vom [97fb84242ccf5fa8be662eb174702ceed83023cabd962c7a65033b46868708ed]
+│   ├── t3.vxe [830839bc8c7b70895c69e512c7c36901342b1d77e7172fa3894ca35085d9ea19]
+│   ├── t5.vom [fcaf61fba3958c687a332ef8b5002c449a9da0e54fb26e7086b6b9068e64e549]
+│   ├── t5.vxe [bd962864444ef3c0066532f24ea74d6a1ee006b5485049116d44f5d94ab0a91e]
+│   ├── t7.vom [eb1933f9f8b7968acd709ed826bf749c6d6a6861dfdb11dfcb7bd13fc84a9058]
+│   └── trak0570.vom [dca7b1d16ec05486705760069a6a145de2a8d848464a63f985d4bcdcab9e348a]
 ├── 0586
-│   └── virus.dos.trakia.586
+│   └── virus.dos.trakia.586 [742106b8df5fe67a4f4b1dc3e19ea1661f558c2e806b2a9a2e063464bdf3c376]
 ├── 0653
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   └── trak0653.vxe
+│   ├── t1.vxe [69acce6607c13550e593a8c8520b9bbf6f48ee2e5a9893ebec2d0d9516dc1c06]
+│   ├── t3.vxe [c654abb2a2ce6a797e286c8d59d59a01d3a3ffc8954042888ed45bc84e1420b7]
+│   ├── t5.vxe [0aee3f02430ea69055f9e13823618594e6d1f357949e44eafb126d92323aaef9]
+│   └── trak0653.vxe [d28dca49d158c383c96c02285e70a8b56486f0b03fa600493975ffeb7b0bba9f]
 ├── 1070
 │   ├── a
-│   │   ├── debug.vxe
-│   │   ├── keyb.vom
-│   │   ├── lwm.vom
-│   │   ├── mode.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t7.vom
-│   │   ├── trace.vxe
-│   │   └── trakia.vom
+│   │   ├── debug.vxe [65b01d29b676d9038229234a8c615e1c1c95f754b1cf97c35b73dd75ad4968ff]
+│   │   ├── keyb.vom [0958555de9667d192fdbe72aa3c9804d6a48acb3f842306d0e4dcaa92498b227]
+│   │   ├── lwm.vom [0d77850608ae387b0f5140a408b52912c15e2ea8f74a0fd9290c613cd7d27c2e]
+│   │   ├── mode.vom [838555045a7dce370d5af972818de1a6e1c70f0153e6e6f789b18bc199dbfcc6]
+│   │   ├── t1.vom [a90b24a1584734520e06649484c4c6d940d0bfd5d8eac94bd35221fdd6dd2b33]
+│   │   ├── t1.vxe [717098ea5e688122a8db835a86fbfc45279b674cb3b25b1825b941dc920d1292]
+│   │   ├── t3.vom [32faa5a70a2df13336999ef7d7ad829994ac68a5ef484c40ff3b062334f33e36]
+│   │   ├── t3.vxe [da3956ecde4f4c2d2d4a191fb5671598abe251211b192451a4b71058a4896c76]
+│   │   ├── t5.vom [00ea2ac027134c6cdb8e01719950ac147730b0f919bbd7e09fb4f2fe9f368bb2]
+│   │   ├── t5.vxe [a8afffe9d4aac6f36029e6b843f9b2aa300c269715921942e761f478dd474f2f]
+│   │   ├── t7.vom [1813dbc28cf5054ca3477ba4cf77e5c0821c28ed9fd0468914d84a0f66b871a4]
+│   │   ├── trace.vxe [e5d3b27de7243df6f387e694444e4897713d542e582981e092078cd59ff38e5f]
+│   │   └── trakia.vom [f8d9bc384a6b3f51e3717759d4c3751e0dfb5aaab9aa5efa28d591cdb43f0d20]
 │   └── b
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t3.vom
-│       ├── t3.vxe
-│       ├── t5.vom
-│       ├── t5.vxe
-│       ├── t7.vom
-│       ├── trace.vxe
-│       └── trakia~3.vom
+│       ├── t1.vom [2c65187d05aff5955b833b0715f49df432f51e5d6c61845b50f898346821ce81]
+│       ├── t1.vxe [7cf1ca7c9192b91d37ab4eca29b6c6cdad85c45b00d791b02787da1e92fc2f1a]
+│       ├── t3.vom [4e295f143be953d8556964ad2d17c5dc301083b1a7069533f7f944aecc7ddf73]
+│       ├── t3.vxe [0f5b7a09aae547b4e3010ed3ee7929f3a3a4e9474f6c6156a866c8cb4c0c27f2]
+│       ├── t5.vom [53e7bdebe9ba73a537b03147596608a262fdc69c9c19c62301919a1f6ea1600f]
+│       ├── t5.vxe [0135a2ef4f64dbe0d54ec701741814eb267d4bbdd80f7b20f2ab8acd210f8ca3]
+│       ├── t7.vom [8f1d4478db3f73db77e2c1134a15dd8496e878cf7362aed1e6d71d5e228ea4d0]
+│       ├── trace.vxe [3b5e341c59b789ff71ab0fe5c940536b67ca619dc35f520c0cde0c6b1ba88505]
+│       └── trakia~3.vom [309241c76cb0f4f3c0eec4f64b3f4280721c589736a528d9f3b530cabcb2c29a]
 └── 1320
-    └── virus.dos.ugur.1320
+    └── virus.dos.ugur.1320 [23e9b5ad6a682d4a286fe43b4f187db586958defc626637c42aaf5353d5cad96]
 ```

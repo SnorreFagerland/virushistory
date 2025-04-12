@@ -3,44 +3,44 @@
 
 ```
 ├── a
-│   ├── fa1024a0.vxe
-│   └── ff1024a.vxe
+│   ├── fa1024a0.vxe [5357e0b470c1ac3967cc9cfd81b6ad36d0ca340a12738045678e3b0d10443f51]
+│   └── ff1024a.vxe [c5d54106b43a4e12a2ffb9febfddadc9b7016464b0e1dfc3e68844540b397b5f]
 ├── abstract
 │   └── a
-│       ├── abstract.vxe
-│       └── fa102ta0.vxe
+│       ├── abstract.vxe [b7d5d81cf64ede1f0aa2b10bae9b96066c68ccf9e8fb492f5bf16adb803b759e]
+│       └── fa102ta0.vxe [a09b326d0d300f27b23444551b5ba9d022f308d3d99782a6f4690524fdad1383]
 ├── b
-│   ├── fa1024b0.vxe
-│   └── ff1024b.vxe
+│   ├── fa1024b0.vxe [704730265d236e1526d60d6e7b270d504a433b48a07e05939cf7c2c39e10ed21]
+│   └── ff1024b.vxe [649b04d94fd723874fb210f49db589e02ac97a690f8b6755e107ded9c1f8bd9e]
 ├── c
-│   ├── core1024.vxe
-│   └── fa1024c0.vxe
+│   ├── core1024.vxe [d3e16deed39eda01db13981121a9aeece5f407bda266c12016269d3f74c04bf3]
+│   └── fa1024c0.vxe [4ac61677b661ac6df2e677f130a0fcae2e315044796f9d9ee26545684fa3d65b]
 ├── e
-│   ├── 1024e.vxe
-│   ├── fa1024e0.vxe
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   └── tower.vxe
+│   ├── 1024e.vxe [4165abf0a2cded899986abc23cd2523620a46d4143cc91292601d171cbae675e]
+│   ├── fa1024e0.vxe [4b13891aecf6ecf83d498b45701896d9a955b8a1619a7ae7dcd1f65c1e51209a]
+│   ├── t1.vxe [401cda368a877462bdf9ed3e28cf486a0730596ce8d14b36969cfa22c9318932]
+│   ├── t3.vxe [5d0d2b70d747744eb3e7ed9866b0ffd572e0c543f18641aeb735dc34294054ad]
+│   ├── t5.vxe [b94234cea0d05690745f0c132bbd24f0f4e4787efe37be9212c42b6cc7b03c15]
+│   └── tower.vxe [c471aa10ec6b74a98e54e1046011274b161940be7277c1c3de249a2025d91be2]
 ├── f
-│   └── virus.dos.faxfree.tower.1024
+│   └── virus.dos.faxfree.tower.1024 [baa517f400fb2df5b33bc8602a54ae2543ce3834445a02b640f04a3867626590]
 ├── mosquito
 │   ├── a
-│   │   ├── v2340.vxe
-│   │   └── wci0300f.vxe
+│   │   ├── v2340.vxe [14939dd6ddccf735a7d8721a0e7965f78210d87771af502946567e9806ba8c4a]
+│   │   └── wci0300f.vxe [60bb70ed07cc49ad3005bc779b0ffe0418867e893b2579aa8facbf0c3271f366]
 │   ├── b
-│   │   ├── 903n2n.vxe
-│   │   └── ffmosqb.vxe
+│   │   ├── 903n2n.vxe [f6b5838c5d283bfb03ebae559013b80b6947b14323be2f0bfd00f948585ba6ab]
+│   │   └── ffmosqb.vxe [c5fe641aff3913e238bfa41038006e695d7399c5572e5e895eb799ac7106ddb2]
 │   └── c
-│       ├── 922m22.vxe
-│       └── mosqu-c.vxe
+│       ├── 922m22.vxe [e76c55f0b02459fe7fead9ee7aeee6ee48eeea2ee110505477a4a1993238ea90]
+│       └── mosqu-c.vxe [52d45dffcf1a2bb415580a2730e0d6b8337f594d9e031fc13c8273bd2b73e719]
 └── pisello
     ├── a
-    │   ├── fa1024o2.vxe
-    │   └── v2350.vxe
+    │   ├── fa1024o2.vxe [da44f71c12b8fbfcda26d623f25f96ac092a30905f3bb32531b7fb4efc942732]
+    │   └── v2350.vxe [2efb124b85588787c626552b5938033f546ce7a4eaaae362a87287acd07cd5c0]
     ├── b
-    │   ├── 93nk22.vxe
-    │   └── ffpiseb.vxe
+    │   ├── 93nk22.vxe [b73eaa7ea693496874244f18d42e8f59791ac400af7822fed8c24d0c7d7c6fcf]
+    │   └── ffpiseb.vxe [8bb8f34115a4a598c25ea04bd759c64ed714a12e41803114b692fe6e9491a410]
     └── c
-        └── pisell-c.vxe
+        └── pisell-c.vxe [b85e8ba082aef57e9e4ed7d301a0c4094a9643e876de79256f109ee05b2ae7b3]
 ```

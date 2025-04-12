@@ -3,39 +3,39 @@
 
 ```
 ├── 560
-│   └── v5130.vom
+│   └── v5130.vom [c544973cc1f572e7a5ae4dc3d9bb3506572c997de5955e935b671fa84b19678f]
 ├── 855
-│   └── marau855.vom
+│   └── marau855.vom [4fe425067ff6a4987da72aecb2006715fc5e84c05d8a95e513428791242c70b0]
 ├── 860
 │   ├── a
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   └── v5135.vom
+│   │   ├── t1.vom [f8d4e366d6bc62fe4e64ebdd98dbfd07a8fcbbe2ddb8fce3125d187520d11e03]
+│   │   ├── t2.vom [26624ad1f05a915fe9dadf0d3f5ab975227927261e6bf2b6a9e1d8853319d24b]
+│   │   ├── t3.vom [5cb620dad103c53c58be8b15565b55a61fee5d056d9a99a33c6570d08e641530]
+│   │   ├── t4.vom [f43ea84ddaab3ce1877136b13a183e71aa720c94666897e6877ce96c6f07d328]
+│   │   ├── t5.vom [43e4a7d309eaa6dbe3fb1d2d11d5ab27c437fa15d47e973bc4a31a8ea1601ecb]
+│   │   ├── t6.vom [c75705d3d9b1ce50b3fdc9b7f7c952c62ebd2921a39785341677d7896d22d2e0]
+│   │   └── v5135.vom [ba6b05a4529840ce654845686ea1ea901a573f1af803fcddaf1de07e104ed13f]
 │   └── b
-│       ├── c-ma860b.vom
-│       ├── t1.vom
-│       ├── t2.vom
-│       ├── t3.vom
-│       ├── t4.vom
-│       ├── t5.vom
-│       ├── t6.vom
-│       ├── t7.vom
-│       └── target.vom
+│       ├── c-ma860b.vom [de5e936c0d144a86c06a4008e4d4a49c6a171a29c6a4f8da3820de4ca90073df]
+│       ├── t1.vom [33ed8d28e7c94e10e46fcb1cfd2db265002d74e4ea59a61f4be2322003dd7b6a]
+│       ├── t2.vom [819210327d18b6e139a3a1a1e169a67fadd12b3ddc62c5e9f5eb01f2c0bf95ef]
+│       ├── t3.vom [36f834cabdc2a64ad008730580704623b161f8169bf83a07ffb032e8f4d2311b]
+│       ├── t4.vom [b0082ed5cd198080720402b07ab8319db0ec65a38416634c1fd088d96189f6ae]
+│       ├── t5.vom [2b26322bdb4064f3122e2963138d625376feefc7212d70676cd98d3983abe5e3]
+│       ├── t6.vom [2028d4e3ae54ddbf164913f7409f12405ef20b13f2c0cfa7328aec7705e52181]
+│       ├── t7.vom [5fc5bdf883cfac6edfe856b044e2cd2e2ce65bd43b1b94115140f23bd400711d]
+│       └── target.vom [c4ae84048686a6530aaae5e3198ceefb9cedef02a24bb504345b014566492055]
 ├── 867
-│   ├── c-mar867.vom
-│   ├── keyb.vom
-│   ├── lone867.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t8.vom
+│   ├── c-mar867.vom [9514d0bc963dcf0bb7778a7d1d8c1ef5277b26c688822c5241f3a131e16306c3]
+│   ├── keyb.vom [238d792ff2fc9bc5df5118c2468ba59a74b89d2146a6322c98c2159544f663eb]
+│   ├── lone867.vom [f5a9dda74489390b6c24948f91c472b33eb52137b8063a60db9881639ff97e03]
+│   ├── t1.vom [12516a05e4b32d37890bb14cb2f36a61f947d4ef1807858e3102873050d55a17]
+│   ├── t2.vom [def1f9b64b3ba527753b13690fff1043377d5b2c2182f4c2e8ebe83eab1dab6c]
+│   ├── t3.vom [057bf84383da930199d4b366cc0fed74801b9efcc31ebba1751bc72a6759571c]
+│   ├── t4.vom [836a4fed7db9dd9596283f9b1817fbcea860f28b074b9101a672d425ddba140a]
+│   ├── t5.vom [c2015c1f85cfb7dbb62a550fd962bb01d16ad3f2d940e12b72cfd2d4b1161e0d]
+│   ├── t6.vom [f7f56ecdb3506745689f0dfa84fcbf33ec1625b2a81bb35f7e107d97a4bc839e]
+│   └── t8.vom [a2e4829dab2c5d4de65047f305a4db4866775dfa019719033f4b2f9541c3e96a]
 └── 870
-    └── virus.dos.nuke.lonewolf.870
+    └── virus.dos.nuke.lonewolf.870 [eee9b7d3891bf1966f8741dfec4e0f798d1dccdd3602a94e1885764270168fd5]
 ```

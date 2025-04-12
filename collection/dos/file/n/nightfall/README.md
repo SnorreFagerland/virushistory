@@ -3,93 +3,93 @@
 
 ```
 ├── 0527
-│   ├── nf527cmp.vom
-│   └── wont-527.vom
+│   ├── nf527cmp.vom [5074f821a595ab22a46b6feacf4c36aa2a1fd7b2c6a599af1a1afc39a8b302c1]
+│   └── wont-527.vom [0dfbfc2ad6a61903f322bfa446b5dbdc7e9352eea5450f2e3617c34f269b711f]
 ├── 4518
 │   ├── a
-│   │   ├── debug.vxe
-│   │   ├── grep.vom
-│   │   ├── keyb.vom
-│   │   ├── n8fall-a.vom
-│   │   ├── n8fall-a.vxe
-│   │   ├── quirky.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t9.vom
-│   │   └── trace.vxe
+│   │   ├── debug.vxe [0469139acb2a942865d8ae8f682540b9c3e36fb3916386eba90e69789e9954ad]
+│   │   ├── grep.vom [90d6f99abefa8918e950ed72c5ae4e05b4233c1a2879ce3cc8ffd1893ccd0c0b]
+│   │   ├── keyb.vom [1ae8ba1c1b3020752befb95b695e31b780f7868ec34a59ca00b665c80edc99d1]
+│   │   ├── n8fall-a.vom [67b94f2345f272c40f6217881f39d92cc6391f0b3041f7175c526574abd877df]
+│   │   ├── n8fall-a.vxe [e320326a5e84d07a25037e3dd08dfb4229d80fb380082308e81c4fa94a16bb21]
+│   │   ├── quirky.vom [de545fa5a6b82d40fd436576463c0ac35212686d08b6b8e9ae7d4d4c633e245a]
+│   │   ├── t1.vom [cd8e7884674277314fcabbad4569a45b3ab0ccd6f11a4b7033a51ad7962514ee]
+│   │   ├── t1.vxe [4d320dbee91edc4f91eab5c3a57df913c7e51406025998e585df5c3a35bd3ca5]
+│   │   ├── t10.vom [e5081b289a4a5ff7e97df2199610319a7163b32c42d1d49d7cae330fb3df9a6b]
+│   │   ├── t2.vom [3e4c92fe5b8d13403e56b9442ba8f84eb3d9ad5b8b151702ea59607e42560b0a]
+│   │   ├── t2.vxe [792e66802572d35f50db90b56e17278334b86850360965679db366462028af97]
+│   │   ├── t3.vom [4a429216a91defab184fa9169509c1d083ebe4a2350cc7f9955f5a96c66a22c2]
+│   │   ├── t3.vxe [c0f09fca5e473432db16ad2b5805eea841e6a1218c19b363f1da8b577335d8fe]
+│   │   ├── t9.vom [dc11bd0a9b6b295244deb4b179500318f84113320cfba67adf83e2aaa591a8fe]
+│   │   └── trace.vxe [9e6edb64a4375f13641d51439187ee2ae5c2cc64a003d17f9b400139045bd88e]
 │   └── b
-│       ├── 10000.vom
-│       ├── attrib.vxe
-│       ├── avptsr.vxe
-│       ├── be.vxe
-│       ├── bwlpd.vom
-│       ├── chkdsk.vxe
-│       ├── dd.vxe
-│       ├── debug.vxe
-│       ├── dir2dir.vxe
-│       ├── diskmon.vxe
-│       ├── dosnp.vxe
-│       ├── ethpk.vom
-│       ├── expand.vxe
-│       ├── fa.vxe
-│       ├── fd.vxe
-│       ├── fl.vxe
-│       ├── fs.vxe
-│       ├── hrmib.vxe
-│       ├── image.vxe
-│       ├── keyb.vom
-│       ├── lsl.vom
-│       ├── n8fall_a.vxe
-│       ├── ncedit.vxe
-│       ├── ncmain.vxe
-│       ├── ncnet.vxe
-│       ├── ndd.vxe
-│       ├── ndoshelp.vxe
-│       ├── nif4518b.vom
-│       ├── register.vxe
-│       ├── route.vom
-│       ├── rxmonstk.vom
-│       ├── stpipx.vom
-│       ├── stpudp.vom
-│       ├── tbav.vxe
-│       ├── tbcheck.vxe
-│       ├── tbclean.vxe
-│       ├── tbdisk.vxe
-│       ├── tbdriver.vxe
-│       ├── tbfile.vxe
-│       ├── tbgensig.vxe
-│       ├── tblog.vxe
-│       ├── tbmem.vxe
-│       ├── tbscanx.vxe
-│       ├── tbsetup.vxe
-│       ├── tbutil.vxe
-│       ├── tes10000.vxe
-│       ├── w906od.vom
-│       └── xsize.vxe
+│       ├── 10000.vom [28c2e5f8daf139dc944be810abd90605a6b5d793d4d9496929d939451d4d664e]
+│       ├── attrib.vxe [6ed1782456f2be0b45405fccd209db5cd510f992a6264c8a44cede368fa3ae00]
+│       ├── avptsr.vxe [b043a1fd181366b244f1c6563c67ddb6aecb66015b3517b019dbb9727f948569]
+│       ├── be.vxe [8b8c607d08edf653289ca9520d3711f60b176ae71121a887f67e4d4ccaa6c1d0]
+│       ├── bwlpd.vom [d08f404842723120f67af949db2683c4306f88ba2975ca4326f305e97abbc85a]
+│       ├── chkdsk.vxe [d01e9aeea3c2fdc5924a69fb8f2826f7969d61b8806640bcd46b76a28ee6d92d]
+│       ├── dd.vxe [402ca5b864343a6294d28436e5441924a09ae434fd740d62229183ca3114d98b]
+│       ├── debug.vxe [c04c52cb80261b9612e7b4c01335eff585419417b18fd14f6735762499d42a33]
+│       ├── dir2dir.vxe [a2b06efb2bc9bee85c13db5ae6a98a441c5a800015d346c1293969031c957f14]
+│       ├── diskmon.vxe [627547b521113dc4053a59bd4351fc60323c519f21e715c6dbd1d7d5da84d41d]
+│       ├── dosnp.vxe [ffe116f6a7503acfc245c35e99b6ff1ac478ceb3da10c409c9b3b0c7e2445e55]
+│       ├── ethpk.vom [8145ba130994342cc3088945b539fbc4eceb841bf19cdef183484aff825e2fb5]
+│       ├── expand.vxe [1fd8f008ba0c6ac198b0716293095ae7395674df4dd82a597460a22330f317ed]
+│       ├── fa.vxe [108ce53d344faf595437b44e2a858c180d4af75f7e3e63afcef63224fd77252f]
+│       ├── fd.vxe [c8edfbb2aea3da19af40e12fad9bb3341105396b7b6a66b42f12b41dbb98331f]
+│       ├── fl.vxe [8960113a50c60918e5c2d0094549b7c02c11de6dfef1c57e9d7a5edf8f08d269]
+│       ├── fs.vxe [d2726b9fb15ee5d47b7c957af0eb0e11a76380a5916c9ccf92d5b504b5421d1f]
+│       ├── hrmib.vxe [f298f17ef93c0139ba3e40e1241f4b28a4acd8c24c3ba8a8ad546d62084544de]
+│       ├── image.vxe [3413ab263813a638f8dfeaac33277dd3be944c0c53a42307e06afbbb90e3b241]
+│       ├── keyb.vom [054e7b48d09da6bae1c6a660217921a5e6f0a997b948f7650139d3578cb73877]
+│       ├── lsl.vom [c0b5e15b763c80f24afa0a55125458a15b5ce8248d27e17441fa49ac4db42613]
+│       ├── n8fall_a.vxe [5e42fb8983e87555015720c7358a872b4570860fa9a1344d3057980e0adad90b]
+│       ├── ncedit.vxe [9496f1fe921f82739d9f010bf6e6bdc74026bd43b8c714bb291a3171bab98d84]
+│       ├── ncmain.vxe [8a9d922053880a073f868329a727edc0b81fa094fefc0af3ed45bb3e655641fb]
+│       ├── ncnet.vxe [120f9a33474cc801941728ae3ce28487e6e5997f75507bb6eba8714cd52f3379]
+│       ├── ndd.vxe [de5e2bbe6c3568e80c2b470e86586b8c3f2fd29b50c175c5834e2317f6a54c84]
+│       ├── ndoshelp.vxe [f40ead732171b06ef781347b63ce0dd62f77e6f5bb0bbf778a2ce9980adf8879]
+│       ├── nif4518b.vom [54e9a627d276db3639c0df2febdce68a0505ed39c71874f728544f0d4e841a87]
+│       ├── register.vxe [8de3a50c5b8b00a04420ed89c1ce7d5eea25e3431c50531ad1d048e4687a0ec9]
+│       ├── route.vom [c35d5331a0f9f1936012d11625b190802c66180e183abae755dc1b1a03735b9f]
+│       ├── rxmonstk.vom [c44c2277f1ce9ca102c49e0b8ad21d29bdd30b7331275626d3660c589e8f5d58]
+│       ├── stpipx.vom [b026bf3dcaef0807768739b116789fdbd9cba6777206ce1f3d8547b0f9d6016a]
+│       ├── stpudp.vom [c125e3acec95a9a28220e624caca53827e1fa607e574dcae52a21e5b177d076b]
+│       ├── tbav.vxe [2e227df5e9d8a833dbbf5d33e257b479061d6fee864fffe7aa0fd19a51ad356c]
+│       ├── tbcheck.vxe [8ee86d37ed9d9324a6ba362087326878fbca3aeb1519bbd442b5f53ef5a0b00d]
+│       ├── tbclean.vxe [53b7d25496510a19f00c9fead0660b2000f6cbaaf4f5624f147ce3820058db2f]
+│       ├── tbdisk.vxe [f6729d7797c650f64990ff0fc85583d67725445c04c7ab1b0bdda7882a6271af]
+│       ├── tbdriver.vxe [37de6a632a24d76a889b060602f5f7e98c33aa349e81983016a82eeb474bb312]
+│       ├── tbfile.vxe [ada9b613a7e277f3bd3cee220c9a2bfbac5ccb4b07f3f08c550242dcdd45455e]
+│       ├── tbgensig.vxe [0dd9c95d12e8e792bb94542db84f29030f5730f30f671ce372d9a80fdabbdeb6]
+│       ├── tblog.vxe [4ae4275feada37e539c15ec8e5131c44c174a6e1314e3b70af5417f1a52376ae]
+│       ├── tbmem.vxe [9019f84ead10ccd50f7c9ad8c49fac9a23dc1f1fe9c0a0499a3b1674d8142ada]
+│       ├── tbscanx.vxe [ba022b1540a51436b7e384b13e8f8070de53b93298bf57203e22bb819f802525]
+│       ├── tbsetup.vxe [4ca624bdc389b6d2b6a50d71046f36bea783ecb34f2a9513c95b1ee0aaf6d383]
+│       ├── tbutil.vxe [d17aa460fc5a0291a7071614c12bf7b0aea30a39a0b61b1184ae9dd907057bc6]
+│       ├── tes10000.vxe [86b6e9bb9582e7533267b12a7de74e1297d7fee1c7601be2a0bed23473ec5a34]
+│       ├── w906od.vom [93e5d1a2169ee8a17d2d50b778ab726aa0307369f553343a53246ff268a82926]
+│       └── xsize.vxe [d78da7d94624c468e8cacfb40fa35034a609fb298191d363ad3399cdbaf9e8c3]
 ├── 4527
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── n8-4527.vom
-│   ├── n8fl4527.vom
-│   ├── n8fl4527.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   └── t9.vom
+│   ├── grep.vom [caa2f0faada734016bfcd250b67869526db73c8dbe086a31cc4f7c5a5ab817ae]
+│   ├── keyb.vom [cdba5ae72e8c6573c8e78301b53ff952788f50afa5f6f9e8dc1dbb29645d68bf]
+│   ├── n8-4527.vom [c7a0cfadb94d25791e38e21b3862ec68cd28b625f824d952b37aaa619c571341]
+│   ├── n8fl4527.vom [9f97c413ddf6a778ae87d1dfd627493e9419f463c881c872d573cc7e4d232d2a]
+│   ├── n8fl4527.vxe [d5e147127ba51a9db66484393d7719820bc49fa3a825e45d10ccd863e201ddd8]
+│   ├── t1.vom [bd5ec105936ecc316c0950362a62cc0e6f6d5809a8ed65c682337b5bf73daeda]
+│   ├── t1.vxe [7abd857a3654726a72f6deaae2a19e9e8c052ac73597e3007b46dfc2d6e1620a]
+│   ├── t10.vom [2481163fa7f48985e6e8590203d6de24413f4a1c02f874a0115b38a8f8e3397e]
+│   ├── t2.vom [c304b1cfddd8528672430a4174eab2823d8939f46314fd1a291f11c9bd882d0f]
+│   ├── t3.vom [850ad3b02f8d2fc08163c86279c4594e1f78e4b560452ae66dcbc08533a7454b]
+│   └── t9.vom [b8f654629dffbc9bcc7438a0edaed0dc2f1efb607f6e31254d86592598857497]
 ├── 5765
-│   ├── n8f.vom
-│   ├── n8fall.vom
-│   ├── neur5803.vom
-│   ├── nightfal.vxe
-│   ├── nightf~2.vxe
-│   └── v-5803.vom
+│   ├── n8f.vom [c0f0b1e1ef5b29955d04bc0f4f536b0cf60990ac0cc3396046bc76313fd1bb39]
+│   ├── n8fall.vom [20108a4566b40ee07bfafaa3188086510156dc91c4c172c5d445ac47c08f74ff]
+│   ├── neur5803.vom [8516d79161536ec844c7379924ca718f7329b9c8ee354bed5d2ae8628fd445f9]
+│   ├── nightfal.vxe [1ac6cdf4b3c3bb9ee08ceea92c6e129189e85bf17c7a4a7792a021652b9d400a]
+│   ├── nightf~2.vxe [a224d14e87b93a727718a00689fea2ece7fc19aa3fa79fc330e42ef9fb650a58]
+│   └── v-5803.vom [fe2678989eb93d7c305e3abdb3055aa41aff7d9fea77be5915efa3e48938a7fd]
 └── 5767
-    └── virus.dos.nightfall.5770
+    └── virus.dos.nightfall.5770 [f2363b8792b53757cc03e7c2c7559f287bf4f3c1cd0a37ee7564b0f1450e36f4]
 ```

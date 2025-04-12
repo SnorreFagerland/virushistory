@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── vico.vom
+│   ├── t1.vom [e9f88c3464fb60f2bd8a57589f4c50e2867d1b3bcc8f4b28989609dc22414aa3]
+│   ├── t3.vom [24036db360a35ec0a1954737fe23d5206290d4199492d5fbfa3c3bfe2e4115cc]
+│   ├── t5.vom [0cbd24f4aac0e2d2801e053a861391850dcede07c40e28f223ec28def0c04b4c]
+│   ├── t7.vom [8ce5fd463b73d345d8dbfe0392dfc6b6fb46e122f93882a974f5a7620e47db71]
+│   └── vico.vom [1803c8a7adc101041db0f0a08a009ef404bf71f26a51df7e36e552ebd60d6208]
 └── b
-    ├── t1.vom
-    ├── t3.vom
-    └── virus.dos.vico.1000
+    ├── t1.vom [56471c3a736218d3425d31ba5b5050e8651a24854d3c182582d286ca44dc724c]
+    ├── t3.vom [babef581ea9c12f836934cb8718d4f3ca976034d2d7f526231742b6040ff1e23]
+    └── virus.dos.vico.1000 [525c267efbf5352f52bc955f0f44a92e8c29b5cbe0bb38c911a3f53a09e3f0b8]
 ```

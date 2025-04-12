@@ -3,114 +3,99 @@
 
 ```
 ├── antinazi
-│   ├── antinazi.vom
-│   └── antnazi2.vom
+│   ├── antinazi.vom [d74bbdbfed09562c14207c17c12fed3b3157a2671e671edca31f2fbae136d153]
+│   └── antnazi2.vom [7012549d6c32393b37a6f08b71198f0fc20fa999495f0391790c01f87fdcdf0a]
 ├── badguy
-│   └── v5225.vom
+│   └── v5225.vom [76aad860280b056cd760fb11c2ada3b7bd902d21b0e781b0853d7f7d6d58a3ec]
 ├── bill_me
-│   ├── mi-billm.vom
-│   └── wwt263.vom
+│   ├── mi-billm.vom [04c1865d642f4dda7dac74a3cddc336e8a16d5c798160726c031174970287c00]
+│   └── wwt263.vom [84996d1fd7074f001159edbfc82ca6dda5c1185da05a48189df22b1f166aeb76]
 ├── demon
 │   ├── 270
-│   │   └── mi-d270.vom
+│   │   └── mi-d270.vom [abd0f201662bab4e2bc8deea7bf5bdd608264c3bae428f387ce4491be00acb54]
 │   └── 272
 │       ├── a
-│       │   ├── demon.vom
-│       │   └── milan2~5.vom
 │       └── b
-│           └── virus.dos.milan.demon.272
 ├── evul
 │   └── 264
-│       ├── grep.vom
-│       ├── milan264.vom
-│       ├── t1.vom
-│       ├── t10.vom
-│       ├── t2.vom
-│       ├── t3.vom
-│       ├── t4.vom
-│       ├── t5.vom
-│       ├── t7.vom
-│       ├── tf.vom
-│       └── xconnnie.vom
+│       ├── grep.vom [e930e14a19dd8ed9567e3e2fcb88db1fdc3addd980faf689256db068e68d20fb]
+│       ├── milan264.vom [06f41525cc9dd99fc919d55bd0c54141e8022a76463e752603d8ec32cb478648]
+│       ├── t1.vom [8c29e71c30164d2ef16fc42232bdc1a611ee6fd2767ae8362592afc3aa72d97a]
+│       ├── t10.vom [3642600c2b8123490372484d82ae04053830efa1697b15d166a5078632da5983]
+│       ├── t2.vom [55654b0f5c7010711f44a8b5e05d187588d908ae197e41004b5a86e8df848dcc]
+│       ├── t3.vom [883be3f539ead5ba154d891960775ef4befad514ccf00862392ebec46364ff93]
+│       ├── t4.vom [2e849c57668a9fcdbe4c1d74cf34ab749ac0a18081f8860b5cb728e70674ac71]
+│       ├── t5.vom [3fc9880dc1f0dc86907a6cafc420c66e08aef61d312d841b065be070f8e6bb3b]
+│       ├── t7.vom [3074fcfbf75f18fafa38bed531dd0022632a54872cca5119b6cb274df61bc2a7]
+│       ├── tf.vom [d5232b927f0f443322c738b48993d5410779dec4e3b0e3a99f580652cea6e8d1]
+│       └── xconnnie.vom [2b6e0ea7b83626d1aa5350fa75ba2bb3941189e8a281289e05e120dbc9405df5]
 ├── extasy
 │   └── 359
-│       ├── c-mil359.vom
-│       ├── milde359.vom
-│       ├── t1.vom
-│       └── t2.vom
+│       ├── c-mil359.vom [6109e69ddf0f8a911bd4eaabfb6ffe449b131c48725a22f6dfc9f9426f384dba]
+│       ├── milde359.vom [2c8dc63366a5763b76cfd1cd328d74097e376f2fc33ba24db8727a9e3c61f73c]
+│       ├── t1.vom [6346f05433ed252e5c779464319ff7964dc1ea11968fc799204346142d8e39d9]
+│       └── t2.vom [f147990ad3a915d401f4b5a4140395fa704375d4b76f842178213c6995b03039]
 ├── extermin
 │   ├── 429
-│   │   ├── 429.vom
-│   │   └── mi-e429.vom
+│   │   ├── 429.vom [9b63eb1320703aa62b124bc7bf66b56ee06ef2d358c204020dbb4c94ff4e6ed0]
+│   │   └── mi-e429.vom [c02d225ff0160533ca78b7c64bd61f6a70aec3b9f3ab96aac5ab10242ca8f16d]
 │   └── 451
-│       ├── exter0.vom
-│       └── v5235.vom
+│       ├── exter0.vom [4d1dccb9d048bd841f555b29d305229d49b4699cba9ef697e154f2bb8e43bc2a]
+│       └── v5235.vom [580ead29846ad27a17006bd2a1521cf7406596661246f0b26137cb0af8057227]
 ├── naziskin
 │   ├── 270
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   └── wci0514m.vom
+│   │   ├── t10.vom [7ecbd9ed242812a694c751ef2fec30ff9a56f2177f0ebbffc50aaa7dc187a0a3]
+│   │   ├── t2.vom [63f8d6ddb4772eec85afe2e9917438117c05ad5ea699f49cc86238b8803a5a8c]
+│   │   ├── t2.vxe [99bbcc9620902ff1a4d51a96deab6be2fc1a1c05b25bf494abfc134807108b82]
+│   │   ├── t3.vom [7d3e4b37c2c6ac7d03580c4fc7767dda4e967bc9fd8cb401610e1d68b02e47d8]
+│   │   ├── t3.vxe [bdd2ee70f14da0d192614d102b8cd9ad043c0f51bc4579b194c6d042fe2bb096]
+│   │   └── wci0514m.vom [ce178ac83c8e4bfb5688d5ea192dcf98e2239960e9157729c90cba8b959e0b28]
 │   ├── 335
-│   │   └── milan3~1.vom
+│   │   └── milan3~1.vom [26778312343bac4bbfc59e7a6c92c7b6d83f4c43507c15ac499274eacd5a4b40]
 │   └── 903
-│       ├── mil903.vom
-│       └── milan9~1.vom
+│       ├── mil903.vom [e88d013710dfdad72e128a3bbfbcf7974027037b0c6ed886c15989673d99d7c2]
+│       └── milan9~1.vom [7a673c8048ca4ac6ff5931a64297daa5b3cffe4bb4ac54e9e763b5396cc62437]
 ├── nwbadguy
 │   ├── a
-│   │   └── v5240.vom
+│   │   └── v5240.vom [61a65c17496c96335a2a82503f2bb19394fde1f2989137bbf33f96c011251a4e]
 │   └── b
-│       ├── badguy-2.vom
-│       ├── grep.vom
-│       ├── t1.vom
-│       ├── t3.vom
-│       └── t5.vom
+│       ├── badguy-2.vom [136f584d51d109bb73445cf3b99da5060ade5a3e7563034738d8448ae899e6f9]
+│       ├── grep.vom [34f7a11b28254770bc3ec4c2e7a7af5801ad5426f2d9b7fa58f033842527909b]
+│       ├── t1.vom [c7567d264b1188a1ffcec9ae856b711aae13e6b5fbdc62c118de43727082854b]
+│       ├── t3.vom [ab1363b0af33795622b16531ef07e36349e952809a31fcc0cefceccba4fcc255]
+│       └── t5.vom [4bb2660f7b7285873c025b432aa7bb91cb6004800e6af31ce31fdef0d48666a8]
 ├── sabrina
 │   ├── 175
-│   │   └── milan1~6.vom
+│   │   └── milan1~6.vom [f869541d29bdcf1f81ffece7c5ab0a93611eddd0ce8485076f89c3a0032127aa]
 │   └── 249
-│       └── milan_24.vom
+│       └── milan_24.vom [4f9772af5d4735454cc9b0a541b9c2623c6d031bc45cf6e39ba9e86a0304f864]
 ├── verbatim
 │   └── 289
-│       └── wci0188m.vom
+│       └── wci0188m.vom [c96ea929846d49f14b784ba41230302557eb6b857156be6ca9a20a1f1343e16c]
 ├── vivisex
-│   └── vivisex1.vom
+│   └── vivisex1.vom [651a0c16140006ef4993f17e503b7737cd753848fbd1262e4520bb2604a6c007]
 └── wwt
     ├── 063
-    │   └── 63.vom
+    │   └── 63.vom [06ec06a9e439c3108ce8621c52bf00220fcc40cadfdbb4a02fe0e0262c3c07c1]
     ├── 065
-    │   └── milan4.vom
+    │   └── milan4.vom [9743ea726bf6882e692a1a17f3f7eec142e253f47c979f1747fa62cefef00f5c]
     ├── 067
     │   ├── a
-    │   │   └── v5265.vom
     │   ├── b
-    │   │   ├── milanw~5.vom
-    │   │   └── wwt-01.vom
     │   ├── c
-    │   │   └── v5270.vom
     │   └── e
-    │       └── virus.dos.trivial.67.e
     ├── 116
-    │   └── milan3.vom
+    │   └── milan3.vom [f4488d8568ef0175ee4ec276f3d12c55e8e045eaf9cb71596934c636c301c38c]
     ├── 117
-    │   ├── milan_11-001.vom
-    │   └── milan_11.vom
+    │   ├── milan_11-001.vom [7489ab2ca2f9d96f71a5eaad227e82230f3a3fb7515812b0a5c434139baa4bee]
+    │   └── milan_11.vom [0948b856f810947428325a8ec93797590f995c9b72b59dd3bd1900b4fdb4236a]
     ├── 125
     │   ├── a
-    │   │   ├── milan1~2.vom
-    │   │   └── v5255.vom
     │   ├── b
-    │   │   └── mi-w125b.vom
     │   ├── c
-    │   │   ├── milan1~4.vom
-    │   │   └── v5260.vom
     │   ├── d
-    │   │   └── milan1~5.vom
     │   └── e
-    │       └── milan_12.vom
     └── 129
-        ├── milan_12-002.vom
-        └── milan_12.vom
+        ├── milan_12-002.vom [6d107d860588b942d3b610e36ec67a918e8c9a4fd6f3ae6283d1d8865dc75f95]
+        └── milan_12.vom [071cef875d4e8f61520d21144815eef801b9b0975dbebe49762c7b819ff50649]
 ```

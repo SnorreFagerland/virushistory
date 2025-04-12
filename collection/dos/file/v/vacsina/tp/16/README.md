@@ -3,23 +3,23 @@
 
 ```
 ├── a
-│   ├── vac-tp16.vom
-│   ├── yanktp16.vom
-│   └── yanktp16.vxe
+│   ├── vac-tp16.vom [8848900c18e730c500ec52b58ef47bd079921696fff70de0a24ccbde449df843]
+│   ├── yanktp16.vom [00d49cf9002f2374cbb0379b412b18ccc5217c45711938a0b817aaf2c735084a]
+│   └── yanktp16.vxe [c187057525d338001bae7dfeb2411503e652de10a6747c16f500a4e055a8662c]
 ├── b
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   └── vac16b.vom
+│   ├── t1.vom [ae1389ca42559fcef00221ce4e876423f2437d20f9a0af0ae0c45afa9726c3a0]
+│   ├── t1.vxe [f4be6c4fe030bc2de993d0792c9f0d91215f42a784831cea2183b2a9b2d330dc]
+│   ├── t3.vom [6853637ac88faf2360d69e64dcf07398ba19d86d660b2bd1c6f2f0762d70dcc3]
+│   ├── t3.vxe [7ca429f3b2caab1e5f3a9dbcc01dd3eec6a1b4a14f6d3a85b266b73302547b76]
+│   └── vac16b.vom [7eeac430e52709a808c5d93a5bf64ac81f727dd13cbce597744abebab62f474e]
 ├── c
-│   └── virus.dos.vacsina.1339
+│   └── virus.dos.vacsina.1339 [2ee35c8365e7109b4d1e4f09968af27876d5b47c0b3cefde4e846f97e94f85ab]
 └── multi
-    ├── rybka-2.vxe
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t2.vxe
-    ├── t3.vom
-    ├── t3.vxe
-    └── t4.vxe
+    ├── rybka-2.vxe [1e997b2cf1f8313c127a6b03ba9ff55f02645f0564f5bc182f143e859115fd3d]
+    ├── t1.vom [cb1bc8673f275e117882b74e01888332db4a1f94100c9ee476287f9f98debe06]
+    ├── t1.vxe [731322da5119dcb3878bb6936deda49290475c83987a9e9ef302982b3499d7a4]
+    ├── t2.vxe [d03b8c42cb7997a301a9bc775577e44a87fe10bd7bfe0f9a4df431aae30d4ecc]
+    ├── t3.vom [404ad693680a57287fc999e5a4a5f6712670810159573469a555c090c97a32e4]
+    ├── t3.vxe [6eb28f5c1dfc7edeb4d8c36632e5515dbf47813134d11c04e2379caa25d7be0e]
+    └── t4.vxe [c33e7181817710ecbee0929b9ebea6604a86650ef4ba101966be5a8e88070cee]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── Virus.DOS.HLLP.DarkFox.4997
+    └── Virus.DOS.HLLP.DarkFox.4997 [6d01f74b9d8c40025b3539f990773083b4a45d1e361057286cca83110b006d64]
 ```

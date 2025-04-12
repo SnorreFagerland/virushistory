@@ -3,31 +3,31 @@
 
 ```
 ├── a
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── v-vhp353.vom
+│   ├── keyb.vom [b0c6f778b5dea2e9866045a32f65ef25a281be5f60b80613f26c1201c19d55e1]
+│   ├── t1.vom [41a2e50244419d139e456a193abcfabfb5a6f5801dfec93064557c7b66b49bde]
+│   ├── t3.vom [738d73c0b5a147af6af8a3483a61542144fdbef45185f09025a1e13d26f79cc1]
+│   ├── t4.vom [fc103a0a43b7e0f61185143de4f1f3e6eec6b82eb697f89d365d721d36cf3541]
+│   ├── t5.vom [d7d9a669e8b2987a738dc64a59e89616564d9d33babdbb2a1e285a3bac77a5bb]
+│   └── v-vhp353.vom [20fd360c2db43745df9c244fd6590170a2b98f6ba2532919aec76bf7df476031]
 ├── b
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t9.vom
-│   └── vien353b.vom
+│   ├── keyb.vom [485981cd7966666b6451bf97133e1fd00c89256faf44b18da52fdbbb6b1438e0]
+│   ├── t1.vom [9a42f948146a4d39e91a953fe7a74a715a384c0b988a77c0074be49c38ed5d8c]
+│   ├── t3.vom [79ad7cbee53fb75d9b56d45081c19464b1cded3b330bc6f9b3655dc1c5b07036]
+│   ├── t4.vom [c0cf973a415715ea82c82c8b51c71116550e85ef72b9471039c95283a04b0de1]
+│   ├── t5.vom [7da6efac3b487ac4cfe830715592ca7f59c5ea0d010f7179836ed9022a016ab4]
+│   ├── t6.vom [3085fdba6366fbef71cf709484294a08d2f67077c629b13d85a8fce3c735f1b2]
+│   ├── t9.vom [d81e53c89468ed0b60965f2a8f54ff4ad5f4d0df15239f63b26b8caa73d12f30]
+│   └── vien353b.vom [6f0075446d3d6fdd38e8f9713a0d91b961726659665f75adae963b2b84659eff]
 ├── c
-│   ├── ira-022.vom
-│   ├── ira-022a.vom
-│   ├── keyb.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t9.vom
+│   ├── ira-022.vom [55db462ed37445b7ba00cad1277b7c325021ab559a088b23b63a32dec9efc6bd]
+│   ├── ira-022a.vom [0656b155af04bfb34eecced39289d3307df2220426f915a364dee6546c3b9320]
+│   ├── keyb.vom [cb092fc3876312ee09e4ad3e4c38841c6994e969b981d3979e3d13299c8ac760]
+│   ├── t3.vom [c81c4dd17af95c4e340b1ce9cae3a6c49a055536195d33566b23569dcf96b6c5]
+│   ├── t5.vom [c4aa067720fbb6a6e40c9917f13b808cb392e4d2adaca5b2277530612997959d]
+│   ├── t6.vom [e86d8fb75eccff183583d462c2bba7f749613b909294cae035bac64c6879f9be]
+│   └── t9.vom [1f53ccbbdd746e4198a444e6207acf7532ae1786629ba3b3edb6af348a767b86]
 ├── d
-│   └── virus.dos.vienna.453
+│   └── virus.dos.vienna.453 [17192e0b503475db563d6c731ac3f79dd3e119393b7989a6b817779a3841516d]
 └── e
-    └── virus.dos.vienna.353.c
+    └── virus.dos.vienna.353.c [08f46f88492c3d0f56a727f69c6aff886e7ba432bdca54463cfeff89567b9635]
 ```

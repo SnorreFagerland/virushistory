@@ -3,17 +3,17 @@
 
 ```
 ├── 236
-│   ├── grep.vom
-│   ├── jmc236.vom
-│   ├── jmc_1.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── grep.vom [85eee5435a12c664565d34a352ae621e9ce8bb5867583d61257be30cb5f81868]
+│   ├── jmc236.vom [3fbe59b0446af4077f5e06df0b482252973e0dbb6f9541bb0f2f77e75cc7f6c9]
+│   ├── jmc_1.vom [88fc256abb2c31b5dfdb5c6668154f3ac46e3a00c17a7a7677e32d75800ac88c]
+│   ├── keyb.vom [45a64a693c50826b714b06236799248a21f7fc7e016d38fe03dfb2b6bf0faaa6]
+│   ├── t1.vom [3cb004b063fa9d940e43f95892c79d0a0880588fab8513454a97f51c89e6a00c]
+│   ├── t2.vom [f41799f71366cfa6b4d96c497a64f6806dd7c425fee6149cc2a771effe31144b]
+│   ├── t3.vom [b284d6195b29863b4096440863dbad3e85a373cc8f20ef854d83ce0fa2eb5846]
+│   ├── t4.vom [bc1253a4a41a067b810c707363fd3ce2f25e1d95a9f45b301e854a747faf1500]
+│   ├── t5.vom [d98fff21efc264ca7372326901737b718deecd49df04d701d04409782cbfbdb1]
+│   ├── t6.vom [1154c147f37abec194666fb5c22bc42ad477540dc69e793426a9c00860a09c0b]
+│   └── t7.vom [81499bb6b3cb698f3d447686e68ae50b8a302ab10d5c8275b466a33d15f28513]
 └── 504
-    └── virus.dos.sw.504
+    └── virus.dos.sw.504 [447848b76e8c03da0a1616e1ace0835ffd7e895af574b6654b7cd0249b5d1d05]
 ```

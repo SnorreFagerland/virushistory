@@ -3,126 +3,126 @@
 
 ```
 ├── 252
-│   ├── creepe~1.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── zmt-252.vom
+│   ├── creepe~1.vom [391894bd33fd4c9caf2c4d0d13a4986f2be6303fae5b42660aa2ac515fb77664]
+│   ├── t1.vom [47e5aea308c31486f02a6386824706dd81c1237f14a13fc0e8f7154b9db73ac4]
+│   ├── t2.vom [432fb96c1f5999639f45f5b35b4479ebe52b517b0203a6ba86dc38460baaa895]
+│   ├── t3.vom [36d025df0df7e0fec3d3c6fc6f35588223d5fc625d57bc3ce36b6fc9f89c91eb]
+│   ├── t4.vom [0461e019bc4e9cd875825d58f963e2a89c91c8b8346596e311b58079a90c0ba5]
+│   ├── t5.vom [9833c0d405c9271e8336bd1124758c8ffe0a173f5e30dd579c1c3f96cb51e9ec]
+│   ├── t6.vom [b226a05dadf7137620d98454f21344d11c8a9aa327f72b0cf6200d866276e748]
+│   └── zmt-252.vom [59851cb7b2149f02553d1724f0bd0b966e3d1fb04500b434edc33a87e0e1faf0]
 ├── 294
 │   ├── a
-│   │   └── virus.dos.tormentor.294
+│   │   └── virus.dos.tormentor.294 [c5b8c886e3f1bd574bd4da17e56a725754169afe7ad199d54c672c56638bcf2f]
 │   └── b
-│       └── virus.dos.tormentor.294.b
+│       └── virus.dos.tormentor.294.b [ccd84cebe42428dfad6ed754522c74f9aac9347868723dc318df013b42851cff]
 ├── 297
 │   ├── a
-│   │   └── virus.dos.tormentor.297
+│   │   └── virus.dos.tormentor.297 [d7db65b1bd7864fa1cc70941a0bdc74745db212901b54be48fe7f8bad3ed8739]
 │   └── b
-│       └── creeper_.vom
+│       └── creeper_.vom [89684bef5e562a214fa91221e821bdd394a94e309257d8f13482b6c7edf1ad8c]
 ├── 425
-│   ├── creepe~3.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── creepe~3.vom [67b4db7b7d747eb05dda16ec5348a307ff780e0d1b32d50282fdfd56c9810f95]
+│   ├── t1.vom [2366eedb57ffdba0551611280ecfae8742c205382ff2ea69fe511e5ffd726cd0]
+│   ├── t2.vom [00362cce033501e8bb8b056712332bfaca85e8a1af24f37ddc3f0ffc98147ac9]
+│   ├── t3.vom [8535b19c880c18f73cc43c03bf0bb06ac9f40d7583f393fdfd8dc3575d40e5b9]
+│   ├── t4.vom [fbdcc0404ce003b8049d01f4ce5154dc99ac32b4aa1cee7b0578dee46cd860a9]
+│   ├── t5.vom [711bdf27f134b96bcdcd823b538b8880a0349b33c6c410d0c409e914266cad70]
+│   └── t6.vom [c4be3e1bb5498c3fd0676dc8a4571e3a3f6da8dc3b0f96f636245deb8f886d8f]
 ├── 472
 │   ├── a
-│   │   ├── creepe~2.vom
-│   │   ├── fade.vom
-│   │   └── lockout.vom
+│   │   ├── creepe~2.vom [4a66e750b2a12066f5dd55908a2d38088ee07fd961e97fe7b77ec00ca4c44be8]
+│   │   ├── fade.vom [79258c3c07ec56c6aef620e2d6207e63efb31d0fccd65d409b470dd81c915f7a]
+│   │   └── lockout.vom [012e98979ef108691ea8fa1a3f34bb3f30a08bb762dc1840dd3f224c4439cfcb]
 │   ├── b
-│   │   └── virus.dos.creeper.472
+│   │   └── virus.dos.creeper.472 [44e1511311aa754ff460529ad283dd725d14bd563bcca13245a0611b730d4d47]
 │   ├── c
-│   │   └── virus.dos.creeper.472.b
+│   │   └── virus.dos.creeper.472.b [2858f5055d3687fa9a193338747d556be038db8fbd34a4124454dd6549ec928e]
 │   ├── d
-│   │   └── creepe~4.vom
+│   │   └── creepe~4.vom [b09f3fefb2f28f82b096cd4b4da8315150ad463ad52e2be94ca5033a5ddfb147]
 │   └── unknown
-│       └── crpr472.vom
+│       └── crpr472.vom [64325c24f7a74ae061482b9cd81073a9cff2678c89ddfe30401820c77d3f05dc]
 ├── 475
 │   ├── a
-│   │   ├── creep475.vom
-│   │   ├── creeper.vom
-│   │   ├── creepe~5.vom
-│   │   ├── creepr.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   └── t6.vom
+│   │   ├── creep475.vom [048b58b9e1d61727a7a5ab6b8faa2461dfddebf95446a8d530de0d25bfea6a78]
+│   │   ├── creeper.vom [eb54cb0351d23690d7c9182d4ec5f0a918b0210f9c47e36c655e77ba068fcca2]
+│   │   ├── creepe~5.vom [2ff22cc4d3b548983d8f03598883f98c9509174bed0c6f2dd21fec1103d12291]
+│   │   ├── creepr.vom [44cbbe81a12adb566208be5c5a65b051ab3c4b2acccfab963fe0f53669c22b79]
+│   │   ├── t1.vom [78d8ab1c7b2525565f7bc997f9acdea5dc23d729e8c02cd753a98d2d2c285973]
+│   │   ├── t2.vom [5c95f87251aeace82bb96a144dee6bb21f5a3336842cdadfb39504d618b72a06]
+│   │   ├── t3.vom [52cedc54a290065bdb7c8eadfae117d03c297ac370c678a6b018f33479571e13]
+│   │   ├── t4.vom [ceb096c4fc6a466c965e45f33e5075e9a95630ffd292d289d82a7fdcb0e29a23]
+│   │   ├── t5.vom [c46c0e36d011fc027cfbd15e65c2e95665256c963b1d426e9872b7b3265337a0]
+│   │   └── t6.vom [cf3358ebc1755f901bcbf6340fb79446a7357e633971b801afcf6f5e921c0a27]
 │   ├── b
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   └── wci0042u.vom
+│   │   ├── t1.vom [f1fda5bfed9eca1aaaa54544eb41dabb4db45f8e08202c49abf6e465a5249a3f]
+│   │   ├── t2.vom [78253ccc8a03efbb8d117d9d2a9d1825f573f14502ac8545c3b45a3a05749947]
+│   │   ├── t3.vom [4a4c935169af9c943c9f4951d94cbf82fbd7f32c54a7b43d431ad8865b1ae8d2]
+│   │   ├── t4.vom [f7fe1c9f78cfa1ed80b1213df0f5807b050e6c7f1774620d92e4e67ea1df45b1]
+│   │   ├── t5.vom [3637602efa26ff62915a0b1d3149c2ad4042ef91609fcd74cfb8c989004e1c67]
+│   │   ├── t6.vom [2342e52c88943c3f0415b7cf3e5e7379114131cf8f82e5e2b0f4e13254d80154]
+│   │   └── wci0042u.vom [a4614e1ee91647f7be8822fb0d3c798ed2b72dca182106458f856ba6f828d8c0]
 │   ├── c
-│   │   ├── 1-cr475c.vom
-│   │   ├── 2-cr475c.vom
-│   │   ├── 3-cr475c.vom
-│   │   ├── crpr475.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   └── wci02431.vom
+│   │   ├── 1-cr475c.vom [59f71a2becd2ec93f81a0306a8d0834ed887c4d6e0b46c9ecbb91e3e3d7e70c8]
+│   │   ├── 2-cr475c.vom [25dca01f1bcb4559a9bed554a9cf765483755d3ddad348b10d0744b1bbc16bf3]
+│   │   ├── 3-cr475c.vom [a074c2cd5e044b4e9480da6e4df50063e00ea2d40b72417a7452ce8df3c8cee4]
+│   │   ├── crpr475.vom [86419be77ccb43a1cfb54952d1ee19fb59c7a8035553cef87173b37eab35b2a7]
+│   │   ├── t1.vom [437de689077d23ef9a20d165b5a9566ca36cd2cfb54aba7764c8d0b8dc8a6c28]
+│   │   ├── t2.vom [d5585c748dc364a16e1d817a4e86eb53697dd9d07571eb6b73085930f221cf93]
+│   │   ├── t3.vom [0b588f7e7676b07501ccc02025c0459a3c76b414aaa02390c22cdd5d5d0d650d]
+│   │   ├── t5.vom [f7a966f48e7c71dca26de5781e84a9bd3bcc2f2d6b74093f86831695d0f5dbf4]
+│   │   ├── t6.vom [3a13d152ca4f4c4d462496bd0f7e5df8b02804f16b6acb0edbd47a9aa65d907a]
+│   │   └── wci02431.vom [93564cc2b0939806776f627769fad880b56a25789e078a729f240167852e8a84]
 │   ├── d
-│   │   ├── creeper.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   └── t5.vom
+│   │   ├── creeper.vom [d3deb171fb5f173381ce6cbe590ce46f8b92a42e9ca6b52cbf4b59da6022d68b]
+│   │   ├── t1.vom [d37c9d3b3423ef4a48fc56f711a59111fe2ead799a20c390e98dda2015231001]
+│   │   ├── t2.vom [178743e254cd0ec6796b581369f0e4d5f800808ee8f4943bfc5e6b89bbb4fe9b]
+│   │   ├── t3.vom [e936cc29c65b92c64b0b62b944bbdf7fcdecb09005e4f865410bb5711458cfc8]
+│   │   ├── t4.vom [afda65d1daaf5a0da1cf28235f3117865d7e84b2bb922f46f496684bb82374e4]
+│   │   └── t5.vom [5f5b60d605ec546c5b960efbf9f92908b73b97fc0b8e262241e71f0b43bce71a]
 │   └── e
-│       └── creeper_.vom
+│       └── creeper_.vom [44a6ed820af88c17e20102fec70de46455cf63d1c47fe137c685c838c284867e]
 ├── 476
 │   ├── a
-│   │   ├── creepe~6.vom
-│   │   ├── crpr476.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   └── t6.vom
+│   │   ├── creepe~6.vom [aaa09acd4f67fc3713ef8e4ea04ea7c3bd6145503d117b51ec3d8be74f1f5411]
+│   │   ├── crpr476.vom [3fb20b057f85c22f0a40d3b8685d74c607e2572111ceeb8ff7178faeac4ead10]
+│   │   ├── t1.vom [450e5d52c9c2cbdcea6bdc125ccf884406ac196a1579c8f5581298ea49f12958]
+│   │   ├── t2.vom [a1ca868329ba078bf8ad375e888e9a7f60c3d2b4c620c79740267053855b5e10]
+│   │   ├── t3.vom [dc9759aefcec1784582f7fa50ddf0de7c72fff22ea1cb060b518316e606cc8d4]
+│   │   ├── t4.vom [50c1b8b152a1e3006677dda7248fc37be99014ee19102c84ad29162e26c51ae7]
+│   │   ├── t5.vom [30012d69cc2ddd49e26991228931eae06a302eb957be2c308799bc25f0285baa]
+│   │   └── t6.vom [8eb3cefa792eb3d407306f3d38d10e31b6e942401327d4f242a505e9dc2a2c18]
 │   ├── b
-│   │   ├── crpr476.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   └── t5.vom
+│   │   ├── crpr476.vom [2769c0bc1e011d018124f9ad41f63f2524775bd56eabc46e9c9252e014895a5a]
+│   │   ├── t1.vom [51ace4d3e068d6bec037420e944d5c127c276d936b519f9bb0285198e52494fb]
+│   │   ├── t2.vom [50ed3013a64d07c67852beaacb671b7963e2941e22e23cae2d946e57ad6d6a98]
+│   │   ├── t3.vom [4b7ae2bd9a462270c70087cfd36ea073ed6ca668a4a4b0c4dea4f89deb26d875]
+│   │   └── t5.vom [22e02f373cedd45f88032c517f80700e3733cb299f571200cfc04f2c80b0cb55]
 │   └── c
-│       └── creeper_.vom
+│       └── creeper_.vom [d20f77cd14c3e6a2d48e700473b4d430347bdc648b73b20f063995fcec998e18]
 ├── 478
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── wci0288c.vom
+│   ├── t1.vom [85ade8dafdade6ba9c679bccbf5b3cfd2bb4d1ea61d88999d063bf66b1537168]
+│   ├── t2.vom [90f0238b0e9af827e342ecc4474b214d399d86e6f1258b8deb1061b9ff9a4372]
+│   ├── t3.vom [d7477df825e39d91367e858cc52130a08a38bbaed22b630ac3b77df177aab36f]
+│   ├── t4.vom [71726a0429ce440a57cec8dd91876f1fb49776b120c4b15bef8f9ad8514faa0f]
+│   ├── t5.vom [9a1b2993f630a8a2a94e47c52935eff82529866ed3efe182ba6ac61dd155b6fe]
+│   ├── t6.vom [313cbddd4666f2f369904e17b1ccbbfc73ce1a511f46f444f044d9d8841b4007]
+│   └── wci0288c.vom [fd7e3ac0115582a7cd634ef186421d131ee5c38bdb2aed9542f4e2ad7160fbae]
 └── 482
     ├── a
-    │   ├── cree482a.com
-    │   ├── t1.vom
-    │   ├── t2.vom
-    │   ├── t3.vom
-    │   ├── t4.vom
-    │   ├── t5.vom
-    │   └── t6.vom
+    │   ├── cree482a.com [02226b285d75016e61e0d26c536c9c29bb0f5322726611e89afb10b07695a33f]
+    │   ├── t1.vom [24085858d8972707309c6604d0de0a8efe89c12c3ce1e6539837a527663247c9]
+    │   ├── t2.vom [66b2abf7e4d3f77e27cb8841792ab81ea0aae27bcbc410ed55cc7b563299db9b]
+    │   ├── t3.vom [b4aa4dcfffb17ee5c1ed82e653aed3b9f804f4d3543abfd9ccf7dc262ead29bd]
+    │   ├── t4.vom [e560ad29b9ab7955ddd7ff64fadb1ef54fde49a8327986d67547a4abf75d99c0]
+    │   ├── t5.vom [9291b0f097210c10e05dc1e82e4244d4f0a0c670ef19d0f9e710ef8c9cbfe284]
+    │   └── t6.vom [ca9d684415d1e95cdfebd0354946953d9d93385134fff3271d6a22ffeacc4774]
     └── b
-        ├── t1.vom
-        ├── t2.vom
-        ├── t3.vom
-        ├── t4.vom
-        ├── t5.vom
-        ├── t6.vom
-        └── wci0289c.vom
+        ├── t1.vom [7739f76bfc48300722150dd086de56662798c94df7cbf0e6b6f9933a6fad6519]
+        ├── t2.vom [a304b5df2db63b1c92a390aa39ab407b953f6f90da9f94657d82c7b1ec2d1178]
+        ├── t3.vom [d344f7130d0aab2a31f2971e9375c4f22ca5cc743014edffcf66e38470571060]
+        ├── t4.vom [81d4ed3c608f6f101ad43e89b33d12d6368af0341a7c77be969f0682bc9f58af]
+        ├── t5.vom [9fd4b5de6ec6049e32d11360cd9553efd6dcbaf6fbeb0fc8bfcc5873da701823]
+        ├── t6.vom [131add0a7e4870106cd36e3628e2405595ef49eecd67bdc997edf0cb8be5b84d]
+        └── wci0289c.vom [1dedcdd661470b9f403236846e4fc77e08333ccf18640100aaf0565973523024]
 ```

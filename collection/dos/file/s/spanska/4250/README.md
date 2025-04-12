@@ -3,35 +3,35 @@
 
 ```
 ├── a
-│   ├── 1-sp4250.vom
-│   ├── 1-sp4250.vxe
-│   ├── 2-sp4250.vom
-│   ├── 2-sp4250.vxe
-│   ├── 3-sp4250.vom
-│   ├── 3-sp4250.vxe
-│   ├── agent_k.vom
-│   ├── cu3-crak.vxe
-│   ├── elvira.vom
-│   ├── eudo3.vxe
-│   ├── f-prot316f.txt
-│   ├── kali95.vom
-│   ├── mirckey2.vom
-│   ├── pc_hdp40.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t12.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   ├── t6.vxe
-│   └── win.vom
+│   ├── 1-sp4250.vom [7232cc348bdc2eb4ce21c211cc665015d0d5d6112fca01d98628c35dcb506873]
+│   ├── 1-sp4250.vxe [a00627b7d0420732c939b66c4f8cd219f8388ccc6bf2ee353b8dfdc391099337]
+│   ├── 2-sp4250.vom [128b8febb8dd98b6c7756edd03bb218d5734214ea8e52a55d2ee3ada2cec3b6e]
+│   ├── 2-sp4250.vxe [c9dd6fe9da556c7a191393903bfdc18d07997852b49c7329bb551f9fbfd1c1d0]
+│   ├── 3-sp4250.vom [bc698f94bea61bd18415abef2f8eba9101d0c7104d774fe337716432648be0d5]
+│   ├── 3-sp4250.vxe [106dc74cd78b1db00963ba54d71f228cb2024a86c1d4543c2c1cb987aa921176]
+│   ├── agent_k.vom [bd1368db2728362cde17924043a9ea5d4344a81accf5ff24b3db979836975f9a]
+│   ├── cu3-crak.vxe [65c482e5302a0a504fbdd1df3bfefd1ec36a1966ffd8bb1d819546e532c5b8c8]
+│   ├── elvira.vom [1d7d9cd464756eb8e492247cb6bc79e7275db4c61cc12f3352787d66022b4285]
+│   ├── eudo3.vxe [85ad73ca9cccf5f33c82e7c0bdf154ef8cd99dd385c1a8c86a502b23f610117b]
+│   ├── f-prot316f.txt [a43b63c92d3c78b236681457347e64366b01add5eed1c962f1b264e380c2ced6]
+│   ├── kali95.vom [2b1450c6ab3d5ad28b3f0ef9a7aeb6ad5310053b8b570d50f89f0e0acb685ed4]
+│   ├── mirckey2.vom [69b3fdebf2064c239891a3931970656bc636884fa486e52985b9ab4c5635986b]
+│   ├── pc_hdp40.vxe [171d999f1872903a6fcbb17f3478877f9abc64d974d7ae10ac7776338af9d03f]
+│   ├── t1.vom [77ea574057422de2f08d45da70bc2ec3db73d224cf635dcb08e8e7949f0d7435]
+│   ├── t1.vxe [e1239b3ddb56213d09bd819a4fc9a4e6f2882fd8e8b99af3b69f022022bfb49c]
+│   ├── t12.vxe [964a19df10ac9aa923a0c1b5fcabe680e2f5b1cd7c13d856fbb09e9863f18000]
+│   ├── t2.vom [bd610d43324a5d797c0e6471ba5d37b83ba85c9604467a111fc8b6652d92ef9f]
+│   ├── t2.vxe [fb272f2e0759c70e4c3bdd449d9e57434ea77df21580e702addcfad728c9dd79]
+│   ├── t3.vom [9e447e4c074cb6df8e7f8885c9f085eddb6b82a59d57bb5d46578f6bf7198266]
+│   ├── t3.vxe [c3bd106c7757b54f74580157f05c7586a3b7f27c7c21ce87497bea3fc2ef431c]
+│   ├── t4.vom [58bdbb0b2e299631f4141d8ecc7ddec93eda619a0a826828a94092a1b24d5f8e]
+│   ├── t5.vom [a2e3ef60c11d7f416f167216e85c32eaaac5b416b6e5173eaef3ee02bb350fbc]
+│   ├── t5.vxe [f576b112f8e4425a1b84213d9757bed6691c664fa45d3e358c7ef191b2fc5cba]
+│   ├── t6.vom [f29847e86b0b196f7afe1cdbf2bbce5237fde0b6bdcde886ed6ba091a0bffc5d]
+│   ├── t6.vxe [87b46bfd1b4b5f5a6056682df7d4279ded128ba7bc2bdc6e0686de9fdd1e926f]
+│   └── win.vom [5754c097ce5ef218c134f8fb5be923b674b8f945d60774edd9229083001a9e2e]
 ├── b
-│   └── spa4250b0.vxe
+│   └── spa4250b0.vxe [8c2b90e43a5298637217d9ee3dff914a4edef64cf4578595d88228427c2aa36d]
 └── e
-    └── spanska_.vxe
+    └── spanska_.vxe [1b390526dfb3e38c5fcaa532a47b8f15b0d60d127be7fa728645f31b5e0bcc11]
 ```

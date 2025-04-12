@@ -3,16 +3,16 @@
 
 ```
 ├── a
-│   ├── pix550b.vom
-│   ├── pixel5~1.vom
-│   ├── rc-550.vom
-│   ├── self-550.vom
-│   └── v7685.vom
+│   ├── pix550b.vom [34bb8c4b5c390ee1d3e0163699368e434d2acb99d8dea41a82d97b0894886ed3]
+│   ├── pixel5~1.vom [511d12573ad70c9494c64ce0d53f8946c2a8523b8381b85356f645ab3cd3e138]
+│   ├── rc-550.vom [662c4269bc6ea55dc2a8e3a31b8fcfc6ab44f5cc942b47363e7c73514d61a16b]
+│   ├── self-550.vom [28d5e7a034cbaab06de9842288c563cc32707169629da407d5b1f47ec241f7de]
+│   └── v7685.vom [c5192f1b75cec3c8e40a492037ba59bdcb49ce32d670eb8c610b6381edf1acb1]
 └── b
-    ├── DUMP32.vom
-    ├── LWM.vom
-    ├── NETRUN.vom
-    ├── t1.vom
-    ├── t3.vom
-    └── virus.dos.pixel.self.550.b
+    ├── DUMP32.vom [049ed075549c493e6b3371cc5d8a30d69e921abf0d052e9bca89bdd5f1356a23]
+    ├── LWM.vom [726c110623cb13f91d51c70602880f5f588cce3bf42d24e1a085f4a33e2ffc21]
+    ├── NETRUN.vom [eab72269eae87992f2000986959ff29c1613e47b9ff0308cb3ae42fb4b953b5b]
+    ├── t1.vom [71d9df383d40f6a84a3aefd97b12df82089436886e10f20bf2a1c3f81c77c9c0]
+    ├── t3.vom [80647138b1ef733774b1955a8bcca3c754dfdbcd26c7cc1c9b8cb5ee11ab894b]
+    └── virus.dos.pixel.self.550.b [d6397e92fe552cb1f5f947a48a9a585ee6641402f2fef71366ecb09125b827c8]
 ```

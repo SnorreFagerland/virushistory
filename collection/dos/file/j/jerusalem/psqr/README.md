@@ -3,24 +3,24 @@
 
 ```
 ├── a
-│   ├── _1720.vom
-│   ├── j-psqr!!.vom
-│   ├── j-psqr.vxe
-│   ├── j-psqra.vom
-│   ├── j-psqra.vxe
-│   ├── jeru0640.vom
-│   ├── jeru0640.vxe
-│   ├── jerusa~3.vom
-│   ├── psqr.vom
-│   ├── psqr1720.vom
-│   ├── psqr1720.vxe
-│   └── wci0215j.vom
+│   ├── _1720.vom [0a79da26ecf7de472e60c4eb1fa804360ca3311a6e1b3a56d3dc2a0e5362ff6c]
+│   ├── j-psqr!!.vom [fea2168221c263de389597a269d2a42d0db778782a8eff9de1d8d6c10820d36d]
+│   ├── j-psqr.vxe [d05d8fd2ed23c6fc49edb49eaa791e152ae0c2c36c89da9c3c312f2e5a4faeac]
+│   ├── j-psqra.vom [a55b2e7ca0e8bf97ea6a747399b904f68e3316c02dd3be0ac2a541613c75c516]
+│   ├── j-psqra.vxe [896294f355e47b9eec464b6f67753b6449a2ede417118c32effd2d3cec25cb02]
+│   ├── jeru0640.vom [f64603d93f985b8178ccf600a1cce1669db3c81a3550c494c5348822afc5afd3]
+│   ├── jeru0640.vxe [46e2a9980ba2a04fd1cc4094eda954c6275ebdb65ccb3bec1984a81881a8f928]
+│   ├── jerusa~3.vom [470b2dd8c9950ef7717b222411a901f83de5fc5714d964f33eadc96206f255bf]
+│   ├── psqr.vom [cd44e5c6972b8d73bc6100c15e41f33b9200a151845b729be146b4bf9119385b]
+│   ├── psqr1720.vom [923b9aa62df91e039fff77f595d5ab39800e52c4a73f5d765e48b433c4d36ede]
+│   ├── psqr1720.vxe [3c525f8cfff08abd0c19ab113664dc18e5fbc698bf383b5f7e204b30fe04a16d]
+│   └── wci0215j.vom [6a01e7798dcfcb01a23f20c95bfe3f57a3d478c4843756ec4e0012b0d8ea06f3]
 ├── b
-│   └── nut.vxe
+│   └── nut.vxe [6b7c2331a26fac58b6942b9ee1b1d886a55d720d2822a0768b7029a1964ee69d]
 ├── c
-│   ├── sat207.vom
-│   └── satan-c.vom
+│   ├── sat207.vom [9ca8c57466952ec43e7e493fc9ced30ff2620ac3083e5a4753b52c47c1357450]
+│   └── satan-c.vom [5472067e605229de63e990b0a9cf4cf7790bd16c0dfc20ee7b1396459b5d219e]
 └── d
-    ├── jerusale-002.vom
-    └── jerusale.vom
+    ├── jerusale-002.vom [b0cd60d26dc14a2aaf8ab8a35a6e7f7439c7887896c81552442ef2a46ee63b53]
+    └── jerusale.vom [25fab49233710ee4d8e44ba43237705896b3a503472afe52147cf85aa392fba6]
 ```

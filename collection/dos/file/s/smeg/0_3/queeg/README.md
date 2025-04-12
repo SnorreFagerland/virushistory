@@ -3,17 +3,17 @@
 
 ```
 ├── 2348
-│   ├── smeg_que-001.vom
-│   ├── smeg_que.vom
-│   └── smeg_que.vxe
+│   ├── smeg_que-001.vom [7ca86682964c11bd0e50533909004d63550f5c6b98a34bd691034f59a3453d0f]
+│   ├── smeg_que.vom [a29398f31d4686a9552d90fd43766336d6196bdfb44ce81851997b35b2a83bfb]
+│   └── smeg_que.vxe [58b04734b2758a129b765b825b3d5d1ec067ccfe30722c3c4bf5ef32fe3b97b6]
 └── 3714
-    ├── queeg-c.vxe
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t2.vom
-    ├── t2.vxe
-    ├── t3.vom
-    ├── t3.vxe
-    ├── t4.vom
-    └── t5.vom
+    ├── queeg-c.vxe [a806beb293826cce0ddc2c07ba663680e5ca12a9c81ca40c26d989f400ab3e35]
+    ├── t1.vom [46177b8f0079dca29ff503e0ba392fbc05a5c0764c4ef61665227922fd38ec80]
+    ├── t1.vxe [cf08b1837104b22f2e3965cb580eff77bb7ae0fa9948fede69d9ebc6dc78c9e3]
+    ├── t2.vom [e8484ba18a655ec61b67fb4434472752aec73521436522b94871b38ed5efe89a]
+    ├── t2.vxe [c0b19c8cba64c900355e35d3959741b97f2aadf3f557b504e79920f6b138a079]
+    ├── t3.vom [60bf980c549e93e1c07f76d978c602ed939e67177af14690092d7a5927f42696]
+    ├── t3.vxe [fe245bbe354b2c1e55cce4de575f4fff6a601910fec4772b67e23aaa48be241b]
+    ├── t4.vom [db602c71c2e33213fbdb6eeb1139fa073b21dc65e3819a5316cddc9980866cb1]
+    └── t5.vom [79866f4083b362932c0755d698581937ea5a8a096b9520d9739c3918d7da46b0]
 ```

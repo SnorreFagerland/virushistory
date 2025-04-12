@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   ├── ANTICAD3.vxe
-│   ├── anticad2.vxe
-│   ├── erusale4.vxe
-│   └── erusale5.vxe
+│   ├── ANTICAD3.vxe [a22dffca506ef1b93e53c6a1462005fb0659c344e10aec307a9b49a339624517]
+│   ├── anticad2.vxe [5f646fa09b6d805da261958bb2c7a4c782c9b5511e3f6783f4c8660cc9984ec6]
+│   ├── erusale4.vxe [29010ef9ff0f501e28082177ef6b0632aa8446cea6264ae3d26cc299d99497ce]
+│   └── erusale5.vxe [9729cd546b055f86072a3d6e72a56a2516e2d56b8232f60d08be76be33bf98fb]
 ├── b
-│   ├── an3012b0.vxe
-│   └── an3012b1.vom
+│   ├── an3012b0.vxe [fd713f5ba5adb906aa1f295f92d1be2b29bf895d4ee6425015689a8bb2b83029]
+│   └── an3012b1.vom [25aca7b7fd3b9f83fe1b4b9fdf3e357a4b2ef4f1b9d8c17909d260568964d94a]
 ├── c
-│   └── virus.dos.jerusalem.plastique.3012.c
+│   └── virus.dos.jerusalem.plastique.3012.c [1a18d4e5dfc6ce2b6f4aa55b2e8a577328c9ca3aaaa47f0653f953b42b769df5]
 ├── e
-│   └── plastiq.vxe
+│   └── plastiq.vxe [fd8ccece1fbb7395a7cb9bf1c725c98781c7f11c8ca16f52551b463fb3eff839]
 ├── f
 │   └── ddc21dbc77e1d293ff99d8a037d3e6c574e10fb99f96409ba225f63535551993
 ├── h

@@ -2,8 +2,8 @@
 # Contents of `b`
 
 ```
-├── DPOG58.vxe
+├── DPOG58.vxe [f9b2e3b2261d816dc9e9ae518c2bb54f4ed7acb97fc0c8715107811661d7ec08]
 └── src
-    ├── DPOG58.CFG
-    └── DPOG58.PAS
+    ├── DPOG58.CFG [3f5a55b84c5814065ef8a7a83f1b471b3d6d581feba7b50a56ca013ab077ea3e]
+    └── DPOG58.PAS [73dda705946ad51f7fa9d16e33f0a055ad18fabdf3d054616e825f6861caf392]
 ```

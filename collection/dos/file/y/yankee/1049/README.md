@@ -3,19 +3,19 @@
 
 ```
 ├── a
-│   ├── 1-y1049a.vom
-│   ├── 1049.vom
-│   ├── 1049a.vom
-│   ├── 1049a.vxe
-│   ├── 1049b.vom
-│   ├── 1049b.vxe
-│   ├── 2-y1049a.vom
-│   ├── 3-y1049a.vom
-│   ├── ussr1049.vxe
-│   └── ynk-1049.vom
+│   ├── 1-y1049a.vom [89916bcc45ddbe8ffce9d8b74e42a4827fc38436d999c8c0df17ebd1b8cf2db6]
+│   ├── 1049.vom [e51070dca23e49c4621a27d9117b982eb1d061f679e37fc2920dc1b1d31e5972]
+│   ├── 1049a.vom [0048fd56e3a2fb86786d2d4d51f3f3e20a1c28b8d5a9fa707103d28009b3a574]
+│   ├── 1049a.vxe [328f388939ddd7291baf7cbae1485112a2f5df126c783bcef0e4d76304c01630]
+│   ├── 1049b.vom [7513d20c20c01249cd42a43d259ce297f2c85c08abb26099068a0505eaf9c4e4]
+│   ├── 1049b.vxe [4c94589045360fd2039e54046c85dd3c70aa870c7fa1f6b58f6484f4bf29fb11]
+│   ├── 2-y1049a.vom [a01fb6689cf37eb08a190f44877be19913bbcde5af69d398a6a65463c3faf792]
+│   ├── 3-y1049a.vom [f2749eebd2e9ca06ba98fa844b2611099c17dca0a7a5ec1b966895dfb11a960b]
+│   ├── ussr1049.vxe [b735a780ad23e340d31c9fd4e1826887b09c39c0ed69af2eccc44f0b31d1c1df]
+│   └── ynk-1049.vom [9ac65fc199e96530f335463fbecb9aced5ee3691b528aa45f8d1200632d3826e]
 ├── b
-│   └── virus.dos.yankee.1049.b
+│   └── virus.dos.yankee.1049.b [e983f3c1a3a450cb495ebde9afc85ed7242bbf5c94d1b01251ac159f70766662]
 └── c
-    ├── yd--1049.vom
-    └── yd_1049.vom
+    ├── yd--1049.vom [3e9d8d72abf336ffde2b75b6a8ee5c962d534194f89a56921c56a129fdc29399]
+    └── yd_1049.vom [515932713dc04deaa8c4389acaf5336bbba6862cdccbd99f2af162245bacacaa]
 ```

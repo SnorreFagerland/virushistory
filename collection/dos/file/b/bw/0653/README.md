@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   ├── bw_653_a-001.vxe
-│   ├── bw_653_a.vom
-│   └── bw_653_a.vxe
+│   ├── bw_653_a-001.vxe [32df1d2778f04780850c0668814601f316585d271661929c74a8f9703a933060]
+│   ├── bw_653_a.vom [ec08b1896a5397f7265b1753289d50bb264d737722ec9f05efe529dd7d751def]
+│   └── bw_653_a.vxe [21be40047b01cbf5b2b95273510509356639439f5242cbd287bb9fd1dd7bc0e7]
 └── b
-    ├── bw_653_b-001.vxe
-    ├── bw_653_b-002.vxe
-    └── bw_653_b.vxe
+    ├── bw_653_b-001.vxe [545f501949536d64240f914610854cc02a160371ee9df687835725b5c3619ef1]
+    ├── bw_653_b-002.vxe [9a798a022c092f7e59d0f0877129fd11fe27c3d4f98931ad8cb820de52da7f55]
+    └── bw_653_b.vxe [100c6dc15f0abbd7f5deaabf3d2164ab9af53f0f1f43daac170c4fd02190c3b5]
 ```

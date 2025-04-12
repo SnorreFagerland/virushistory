@@ -3,87 +3,87 @@
 
 ```
 ├── 0605
-│   ├── gotcha4.vom
-│   └── gotch~10.vom
+│   ├── gotcha4.vom [6b63722a52b5db41a06804bd729bdd50d517141cd686306c54d4f7ec6472eca4]
+│   └── gotch~10.vom [ebffac8a28950a51780321fb9550bdcfbed621505e51232e46165ea7631af88b]
 ├── 0607
 │   ├── a
-│   │   ├── v2690.vom
-│   │   └── v2695.vom
+│   │   ├── v2690.vom [5caa5b81b74b744dbf5906ddb82983984fe9cd59e92bc1f6c9331306aef9b630]
+│   │   └── v2695.vom [40a20e284e777544d21f94c7137938017ec5159b8fe1d87b1e13dc2b6a84204e]
 │   └── b
-│       └── gotcha_6.vom
+│       └── gotcha_6.vom [7a2c4fed319b502e7ace586da2a228d6c4e933b693b61e79bc929426a15e2613]
 ├── 0610
-│   └── virus.dos.gotcha.610
+│   └── virus.dos.gotcha.610 [0a2b458229771019f981cc9b1be284c9ecb341f72e31eb65e31423ff5af7c819]
 ├── 0613
-│   └── gotcunk1.vom
+│   └── gotcunk1.vom [75b0ac808a4534c26fe8e3fb68cce37022b2a850b3835977e8daacaeb31c0df1]
 ├── 0620
-│   └── virus.dos.gotcha.620
+│   └── virus.dos.gotcha.620 [ecc3e652a9d240e396a6437ae1f8fac51be4925c7ecc2018346ebf209a5c5359]
 ├── 0627
 │   ├── a
-│   │   ├── got-627.vxe
-│   │   ├── gotch627.vxe
-│   │   └── v2705.vom
+│   │   ├── got-627.vxe [e6fbd5f316e23db3f474835ba6465cc8bdacec065be442e70cf910e71551292e]
+│   │   ├── gotch627.vxe [3f496a9ab9683b6b2c04f390b5af71e40641ab4e49e4c36ba981bba788240bc4]
+│   │   └── v2705.vom [c437088e7fe02bc13921d622ff16af7b55b36db6917e18de90841b42a0015d69]
 │   ├── b
-│   │   ├── grep.vom
-│   │   ├── keyb.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t7.vxe
-│   │   ├── t9.vom
-│   │   ├── trace.vxe
-│   │   └── wci0094g.vom
+│   │   ├── grep.vom [192e89b402280ba166d53d69abda3926ae736f0a64a47015e1551e19774dc08b]
+│   │   ├── keyb.vom [7ad1487914c73577a1e9cbe7aa9bb88189d823278364eba91aa92296621f9595]
+│   │   ├── t1.vom [071806b7fa70ae75c6f0b17fd8663f0bf3581cac4ddafc6aee1c5db494574c1f]
+│   │   ├── t2.vom [390c143edcaab84366dfef47c7a0638d4947e39ee355370234372e18198c3cc2]
+│   │   ├── t3.vom [677a6a476f3ccbcc3e8b5413978ad53a4dbfacf49650b704e9c586e4763a6f8b]
+│   │   ├── t3.vxe [b27de89994dd2c215fc96fcfe52aa238457ce6a1df9445a5649de74096c3a224]
+│   │   ├── t4.vom [6f244152c01e3658c607f473b7d918d008f97f1d060918d3c1f42edbb19cc840]
+│   │   ├── t7.vxe [ae4b0fabfe7166b12b801cc2c2e16e411457b41b7d92c5a5ddffa55c7b1b87cf]
+│   │   ├── t9.vom [b50e9e89a2202885ea8cd9aaf26faa0af9f9cb34346587df5b793b652da3079e]
+│   │   ├── trace.vxe [ce743bcacbda47b9fbfb1897756cc8ff54cf870ff7288759cf828877516f83db]
+│   │   └── wci0094g.vom [ff620784c6ee3fc1711a34178702b3cbf628f0f4e2fa8863db84d577cbc3452a]
 │   └── c
-│       └── virus.dos.gotcha.627.c
+│       └── virus.dos.gotcha.627.c [3d34501ff07f3c5e1393c98587b787a90fa9e8e01676ece46dd7f3e4735cb053]
 ├── 0628
-│   └── gotch628.vom
+│   └── gotch628.vom [6a6c8b9fe3a19db1782e537284b9986d0331a7a1f1370a742431dcd11a4f77a9]
 ├── 0633
 │   ├── a
-│   │   └── gotcunk2.vom
+│   │   └── gotcunk2.vom [30ccc3e8ae2b1f3577ba03948424e4a5ccc789721e87ee903620995b74d598ce]
 │   └── b
-│       └── gotcha_6.vom
+│       └── gotcha_6.vom [90d4c767c6fbcab38913c2d9929fd195c55482d47842f5e81e2ea3a0bd320d2c]
 ├── 0666
 │   ├── a
-│   │   └── wci0096g.vom
+│   │   └── wci0096g.vom [1368c652738ac79ae2680a14b2c760b104f9184ec6bda59cd36c6950657c0ae9]
 │   └── b
-│       ├── gotcha_6.vom
-│       └── gotcha_6.vxe
+│       ├── gotcha_6.vom [a17f27e526f47ab887c8575c4c2c81f7d2be67148926f705d7af484a1c480efa]
+│       └── gotcha_6.vxe [33b71d4d309a2761c78fb5565744a5f1d133c6e919cc63d3084eec31f96ca4e4]
 ├── 0732
-│   ├── gotch732.vom
-│   └── v2710.vom
+│   ├── gotch732.vom [a2b1330ef39e89459f9f2f3c26f7305021d02d020201e09885cb3f5418d15e31]
+│   └── v2710.vom [e875b002fa6d3a327243212f8e449f08ccceee1700ae53118159e78c930159f5]
 ├── 0879
-│   ├── 1-got879.vom
-│   ├── 2-got879.vom
-│   ├── 3-got879.vom
-│   ├── c-got879.vom
-│   ├── gotch879.vxe
-│   ├── gotcha6.vom
-│   └── v2715.vom
+│   ├── 1-got879.vom [4617d5893cf3408e6c758eff6b1cf1e5d646dd75a3353b1de9d43500174f4ac3]
+│   ├── 2-got879.vom [23de9894b0b8537c053cbf4b8f4fd14df7a06fd31e924392d63c20aa3bdd6ca6]
+│   ├── 3-got879.vom [c460f91e2f5e50b16f8cffac65e4a45a1b8a4e9d1ad826c8ca0d8193846065c6]
+│   ├── c-got879.vom [12ab508a411281b93a4ec30be5170b5ed2406c2cd8804d553a44b1a511e57567]
+│   ├── gotch879.vxe [0e36798987755c14209a284766866e4a756f6e1e894cefa17025ac389df06cb5]
+│   ├── gotcha6.vom [d063e215f9f36ef12f111b1af3c8dda8d82b37c1b48be67742c869d1c0ca1bbf]
+│   └── v2715.vom [63860244db5f51bc91e49b3f2ef2bdd16b0292a007792914de60ade8912c5923]
 ├── 0881
-│   ├── 1-got881.vom
-│   ├── 2-got881.vom
-│   ├── 3-got881.vom
-│   ├── c-got881.vom
-│   ├── gotcha-b.vom
-│   ├── gotcha-b.vxe
-│   ├── v2720.vom
-│   └── v2725.vom
+│   ├── 1-got881.vom [a1e956418ace3004a18a40a2a9c4fca5239dc014ef50adc02fdc394580512d3f]
+│   ├── 2-got881.vom [f83e144859a81066fd8c1e322d799be13c02e236417b033132ca20c7a6aecfe3]
+│   ├── 3-got881.vom [fb331219a21191286932012168374584df2a383ac4eed67990f358ca3a53cec8]
+│   ├── c-got881.vom [fc69cd0c6dffafed6414f5c7431a6ebf51418452aea97692b3c55194292b9e96]
+│   ├── gotcha-b.vom [4f4e3c2e8a31e90d5db71063e692a71abeee759dcd12aec3f562cb291e3a9e26]
+│   ├── gotcha-b.vxe [c7d813f8ca37b496dc14c86a20178bb24e5788e1d6df4bc60e5d53884c44e736]
+│   ├── v2720.vom [9da46e6ddae1ad58a990d3d707d7ad1f716fdf6e0474380f88bfe71a1e7a0edc]
+│   └── v2725.vom [5d53ed84e95b76c4635af53e1bbf2d426e24c9508954ee377ff2a11812c8e37c]
 ├── 0905
-│   └── gotcha9e.vom
+│   └── gotcha9e.vom [ca7ee92d04104e777d7600793d40a754468e587ddf4f464841f522cb69452f14]
 ├── 0906
-│   ├── got-906.vom
-│   ├── gotcha~9.vom
-│   └── v2730.vom
+│   ├── got-906.vom [43d4271303a1795116ee3caaf8237471c2364969c55405e1305bd5e910cf9700]
+│   ├── gotcha~9.vom [afc91314a0a6b72771947da187cf062189bd37bcc752a2c13fe8424b0f6e70b9]
+│   └── v2730.vom [324f449a24a56f4cdfcdcdaa21ce0e9e9eb3622b79d886c70f16f4a7c1f3be29]
 ├── 0914
-│   ├── a.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── unp.vxe
+│   ├── a.vom [fdff9740241f3c1380efbdcd0ae519eee27bcb1d82d94914c2e50776d0b8b092]
+│   ├── t1.vom [edb0f1893d3b047c18d66cb7447939300b57bc6a9a4705e2608218bcc5bcf07a]
+│   ├── t3.vom [8059af32c7ef1b23bd6b2266d551079a7ed26f9df9aa7b2e422e64677cd7e2b1]
+│   └── unp.vxe [20991cd4f9112133084a827a4ba5d3115edd05355523e4baad08d1a9b44ef383]
 ├── 1778
-│   ├── got1778a.vxe
-│   └── gtc-1778.vom
+│   ├── got1778a.vxe [c117383da847a728f4e1a0391aa4fa751bf7e024ebee3996f0bd1e12f530bb6f]
+│   └── gtc-1778.vom [a69bdadb3dfa6add4c2894a9c97cdd9679722e4006ba5649d2b7c29b6d63d8ff]
 └── 1781
-    ├── got-1781.vxe
-    └── v2685.vom
+    ├── got-1781.vxe [6475073dca3742117a51f33b0866ca8ecf8161c515271f752c7aa1f50abe4c77]
+    └── v2685.vom [f6c2d013e5cad9ba00fbeb76d146652a40497d0fd60574c855b1db7598137fab]
 ```

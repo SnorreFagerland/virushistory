@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   ├── c-min433.vom
-│   └── my1-433.vom
+│   ├── c-min433.vom [5e38ce50bc634102a319b2a25f83f410a80823b9ccf7b6b03e0101cddf5948a9]
+│   └── my1-433.vom [fd40bbe5f9aa6588871d7a476fe3797867c80b16bc98322c11c2b01d11388c9d]
 └── b
-    ├── miny433b.vom
-    ├── miny433b.vxe
-    ├── t7.vom
-    ├── t7.vxe
-    ├── tf.vom
-    └── tf.vxe
+    ├── miny433b.vom [36432df107dc15870365a1f0b9c5341429621048c5fecf06caddff4c1ef64038]
+    ├── miny433b.vxe [cd8c91a4780c5d7f0bcfcedd962dd99fc4d9d211128ad9856941edd0fb2b98bd]
+    ├── t7.vom [c62f377e11cfd136159be2da6f2f21a0d8b471ed1db91b1e2651cc401a45f35c]
+    ├── t7.vxe [14df01d93cfbdb99e2fa4b3a2acb3245c97e72c46efc9a1bd3ee961b18796862]
+    ├── tf.vom [acdd3522d9ce8861291a66ea2637a2a07e60f5dacada404003cca71623524630]
+    └── tf.vxe [569e6673414575fb4501751689626d3e646c119df7174472c5ca9551ab0bb7fe]
 ```

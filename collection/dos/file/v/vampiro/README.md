@@ -4,59 +4,59 @@
 ```
 ├── 1000
 │   ├── a
-│   │   ├── vamp.vom
-│   │   └── vampiro.vom
+│   │   ├── vamp.vom [3e3962e596cc6ea38e5c20643491e69a2766c110a0dd32d5c88b3f0b156cddda]
+│   │   └── vampiro.vom [fa42ad760dc10b0a030c4dc7d2b3f13c3a15fa9364d6f13e2f0dbc73de5263e2]
 │   ├── b
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   └── vamp-heu.vom
+│   │   ├── t5.vom [3eb48981e0948eb99a642b85b70b26dfbdf052bb78751334d57b116ccc4f558c]
+│   │   ├── t6.vom [711e4216390eaa0671c92f44c6efaffb0881335229414e6e4aa52a3f0c1818c2]
+│   │   └── vamp-heu.vom [cf9bc1675a04623d4f928c42519d9849e924821200c731b4bb89c557bbeacd9c]
 │   ├── c
-│   │   └── virus.dos.vampiro.1000.c
+│   │   └── virus.dos.vampiro.1000.c [5ed9b0b64d2ca7b696115b17901c2bebc63ad409f037849ca68740e304f05af8]
 │   ├── d
-│   │   ├── t2.vom
-│   │   └── vamp_10.vom
+│   │   ├── t2.vom [6a70b6f0da8a531ef26599fea1628e024859a0eb552d8413978348d440af4b41]
+│   │   └── vamp_10.vom [d16dd0d37c2ee08ffe8e77b19ff98658348af85da6833724bf5070fd935a25a9]
 │   ├── e
-│   │   ├── vampiro_-001.vom
-│   │   └── vampiro_.vom
+│   │   ├── vampiro_-001.vom [9a38f95f7ba4431bf83c8285c193ccdfe5d64253f2c559aae144e38e5ae8eec7]
+│   │   └── vampiro_.vom [2dfc90512dfb7ff1f4220c5f9588902b6a2cc9f4cfab90c3d35cdb408c7367d7]
 │   ├── f
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   └── vam1000f.vom
+│   │   ├── t1.vom [f6a64a17a15f651360bd5ebc419fa8fddd43b563852c635c9373baba75dfa2f9]
+│   │   ├── t2.vom [89d4db1ca3d78788f06f8bffebe375901ef650297189f6677c3f899a67b2dc99]
+│   │   ├── t3.vom [8c7b3ca7f5cba70bd7404b9bf9e857710001475d83d753baf2d17b5e89664198]
+│   │   ├── t4.vom [e7a27bd07d3bf15bbfeacd5de1d78f84ecb5cab7728f2188362259f31f1e27ec]
+│   │   ├── t5.vom [da40b197d296ed16a7f18759d6f14c22a8016576af4998b5a404ff02f04db7c7]
+│   │   └── vam1000f.vom [24703e3a48a63f48612dd9cc175ac854610ce4c884eab067ab18a7d4e93cdbf9]
 │   └── h
-│       ├── t7.vom
-│       ├── t8.vom
-│       └── vamp_10.vom
+│       ├── t7.vom [8807d3dff36ce7bda55017caf921c014b0e76b517f40098f505bc0f0bcfb1168]
+│       ├── t8.vom [a9d3a832a0cbd737f4d784d30dc574b90eb6f573e78309a0aa33635165978bfe]
+│       └── vamp_10.vom [e67210317872669eeedbeeda1db46efae2e0881cc1dd5b0713f564096580bef0]
 ├── 1260
-│   └── vampiro_.vom
+│   └── vampiro_.vom [e5bad253623972623849afcb89be350bafd9ddf16eed824f7c993f983bae0f6a]
 ├── 1492
-│   └── vampiro2.vom
+│   └── vampiro2.vom [e0d478192ddbab485dbcf1c37ecdb1347d3f67e6d8bc6223a34b9749b673a62b]
 ├── 1494
-│   ├── vampiro_-001.vxe
-│   └── vampiro_.vxe
+│   ├── vampiro_-001.vxe [6fc899cdab2305674ef7f4330f72220087f1f7c0fa2d34d1db32a8548ad306ce]
+│   └── vampiro_.vxe [3f2b380a4dce63d5c564b5b9dee5744d501eb23ab8af11999e6e911262c15ef7]
 ├── 1495
-│   ├── t2.vxe
-│   ├── t7.vom
-│   ├── vamp1495.vom
-│   ├── vamp1495.vxe
-│   └── vampiro2.vom
+│   ├── t2.vxe [4ee53f43dfba5e79978706b28bfc6d4342dc745f1ebf7be8e12ab2cdb91b9d4d]
+│   ├── t7.vom [1fb7dcc5074def1995fe5715de27abea264a26f0ea292fdb848569a591221a3b]
+│   ├── vamp1495.vom [cd346ef800854f490c52a56f7bf5adcb27a64f63c3400eda8d489ed55d60ee52]
+│   ├── vamp1495.vxe [9a3c5c7d218b9b07073182d823d72b1fe911f6054335fc43c78ad258a9b23a47]
+│   └── vampiro2.vom [86ca7ef423fc38a951dba9c74c875b034a0c3ef3023876eee2ba94e9450b0335]
 ├── 1542
-│   └── vamp_202.vom
+│   └── vamp_202.vom [1751302629da2409f566930de3a1db9c729591c83ecbb7ff0b31f610e0e878e6]
 ├── 1545
-│   ├── t2.vxe
-│   ├── t7.vom
-│   ├── vamp1545.vom
-│   ├── vamp1545.vxe
-│   └── vamp_202.vom
+│   ├── t2.vxe [88453edadacdfe469c9ea452eca6b860cb36fd0eafb5625c818fd94116f87b93]
+│   ├── t7.vom [da71ec8e6eb10018c12c6f047063e200a558cc1f3b6ac755fa4b35111d03e962]
+│   ├── vamp1545.vom [26728428118713678c3de834ae60a08c242f16404f31b749be52a9282b3f550b]
+│   ├── vamp1545.vxe [72444ad1afd7d4c63b325d706a21b020dd8f8bb48282ba155d06faf5dfdbbc9d]
+│   └── vamp_202.vom [9815aea94007fa34fbbcc0cba71976199bdb8d7875316ecdfbc0b6915f1b3046]
 ├── 1619
-│   └── vamp_24.vom
+│   └── vamp_24.vom [06ee6a82df8cb742bd9d43c692f207e9f032401afb0a75e2416e4b752c7176ba]
 ├── 1621
-│   ├── vamp1621.vom
-│   └── wci0038v.vxe
+│   ├── vamp1621.vom [23f836d656a91e00fb398a3582465004caa4dc4ea1f417d333669a690fdd09d8]
+│   └── wci0038v.vxe [76eab6b1eeb0ae10e0e24f7aa0b99d25694a567e9981de5e0d600758760a170e]
 ├── 1623
-│   └── vamp_24.vom
+│   └── vamp_24.vom [d7491b024b06819358e797adb88e5d3dc461ad6ff357f00bbadbe2b8d209f3ab]
 └── 1625
-    └── vamp_25.vom
+    └── vamp_25.vom [3212211ecaae8d71fd0e3dc169e3f1ffd52b1d73139fb99e6518db28e4a727b0]
 ```

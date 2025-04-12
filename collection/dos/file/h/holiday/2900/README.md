@@ -3,44 +3,44 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t7.vom
-│   └── wci0238h.vxe
+│   ├── t1.vom [df46825fcd80035c735e256ee231c5ad0a5618ddd408378e2f18a14b24d41e2a]
+│   ├── t1.vxe [4fcbdc7639ca9ea068926660a369be2ae692777a53e1a050d9389f438bcdaafb]
+│   ├── t3.vom [ca1e6b2ac2f21990629696688a8d5f398ab65664e9150e13bf743d890d25266f]
+│   ├── t3.vxe [559dea272f775afb1172f8272e754e1dacfc0c62088d569f78ed6f97941f442f]
+│   ├── t5.vom [f0f941063e886d83734f59835674590ce499bf99e8d8ff20c53eb4a7a0f1b47f]
+│   ├── t5.vxe [e3120e7f5c88d2f500c7f4662419c32e2dca3da7939c1597ae9d4d3bff08748a]
+│   ├── t7.vom [8dc5b2c4dbcc0a7c6c3841d398851cd75ab40d829d3711e85a1a88b88c8570f8]
+│   └── wci0238h.vxe [f89345b3f5e45b76e49c61ab5db44db384350e20230de897dd548f2fd9c752c0]
 ├── b
-│   ├── andry_c.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   ├── t8.vom
-│   └── viruz1.vom
+│   ├── andry_c.vom [427d99ca33ed7d909fcad8557d406e6f1fb8e22c902297abcce6109e97aefa03]
+│   ├── t1.vom [042e423eb687bdead89fca846282ce9ec907ce977af9ec0337b634b2ba9788b1]
+│   ├── t1.vxe [36e438d70938800a3d804d143514815139a5ff3489b244fefa350212f6b2807d]
+│   ├── t2.vom [1219cbe6ad117e689a2f1349202201f08358678053f9a249e2332bbf1293826a]
+│   ├── t3.vom [30633b0857599bee599dc0c1538fc2628b1d4470d6bbcbfeb5ac6f09e8eea274]
+│   ├── t4.vom [8dc90ba6431d731b398d50f0647776e9c5b474116a74ea7383fd1de54acd26e4]
+│   ├── t5.vom [517535d78ab4f015a2a69bbded195a09931d513424a93bc016fc0827f3a9dafb]
+│   ├── t6.vom [9345a79bb8c0751a2389a87930fcc7b3d38a84d22bf9cda2b0e8bf99bd3a752d]
+│   ├── t7.vom [5ef582ac35fad15cbf5c783957821fefde2a3f3b9c23e5559686b7e777f0e81c]
+│   ├── t8.vom [f6339f113d1aaf80613cd37b3d3cc666303def323db5df23449cd60551fa8d1a]
+│   └── viruz1.vom [c57bfbfe97ba57507d4882e9949832139237cb14b2455631524fb4e09cb83162]
 └── c
-    ├── 1-a2900b.vom
-    ├── 1-a2900b.vxe
-    ├── 2-a2900b.vom
-    ├── 2-a2900b.vxe
-    ├── 3-a2900b.vom
-    ├── 3-a2900b.vxe
-    ├── 4-a2900b.vom
-    ├── Virus.DOS.Andry.2900.b
-    ├── c-a2900b.vom
-    ├── hol2900c.vom
-    ├── hol2900c.vxe
-    ├── holiday.vom
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t3.vom
-    ├── t3.vxe
-    ├── t5.vom
-    ├── t5.vxe
-    └── t7.vom
+    ├── 1-a2900b.vom [33b1c9a139ef4dd482bfb41335a7a4810649dcbec0285c6f897b6d98e7db4a8e]
+    ├── 1-a2900b.vxe [445ed72b35a8cfa351fc426c6e3c9edea31fc5238a643287d17a788ee761a0bc]
+    ├── 2-a2900b.vom [66eeb26faaf1e6c56facc1dab034aaa3aa245b4f01a5433a3782d4edc47ab0aa]
+    ├── 2-a2900b.vxe [89d2732dcd5bc61bebe9df72694d6648988dbffd76900f553d9e4594a310d0ab]
+    ├── 3-a2900b.vom [0a1c41d3dcfa400b04d38dc8bdbb543da369d95d7f9078c9d50e29fa814f32a9]
+    ├── 3-a2900b.vxe [fc226f66230bef81aa86d44275520b48a441f258a71fd4102e0237676db7b5c1]
+    ├── 4-a2900b.vom [2e493e0283392f78500b1ea9172c00b4f40e1656ca5db14e6208800fad696bef]
+    ├── Virus.DOS.Andry.2900.b [8b0aca03c99c284b114191a9ef754e91916bcfda0ddcf0010f69ddf90b580d9c]
+    ├── c-a2900b.vom [aa2fc7d754320784634a696c5fdf344f59202e9a7c4ae593ab909b756828635e]
+    ├── hol2900c.vom [db501970f8758859fce8232aa71b07676575250046b89efae97d4befbaa58bc4]
+    ├── hol2900c.vxe [c26ca0041bd7d57ab9663a24abbda11399dfca92f19e70deb23d6fb2beba3a1d]
+    ├── holiday.vom [6bb8845352ddc3d6b73648f5a634145c00499d7a8048479a90d4735d6df90539]
+    ├── t1.vom [8e45e24d5bcda2846a0fb1659e895c256fc15795e9832da7384e084396ad0376]
+    ├── t1.vxe [8a4e872a8018d1bc812884e25340a6743042cd30fb3d0f42492b4b22c14caf2a]
+    ├── t3.vom [013018ede9e2175be8976687184883abfa7af4b9b4999b67f73b9855f9279897]
+    ├── t3.vxe [2a53faa3c7edf0dd458aa272b6fa6f7bd750a576d095da0476e411fd85c15524]
+    ├── t5.vom [2afc981a8fbc54279eeaaab3df8b6798878c5606955d6cdbd0260dedc367d0c3]
+    ├── t5.vxe [da1bae32e91ef0f71c9365794a89cfbc5d12db702683c1404969ebca97e9995e]
+    └── t7.vom [dc2bb26102d91ba2856c7206f196643e4f77c442e54386f9f5f18428d6e11183]
 ```

@@ -3,19 +3,19 @@
 
 ```
 ├── a
-│   └── hell545a.vom
+│   └── hell545a.vom [7ab4bbfb614b2bef98a4e8649fc2027ac314b5e75203d2a61d00013d94585228]
 ├── b
-│   └── hell545b.vom
+│   └── hell545b.vom [13018d92f75461a5082f443e1d810b03e159c1886a89528f20d0c5e8c9a2afbf]
 ├── c
-│   └── wci0311s.vom
+│   └── wci0311s.vom [800e801e91a459a5975664a9a01258ce88a16c82b6add90416ad3259a72f0fac]
 ├── d
-│   ├── hel545a0.vom
-│   └── siri545d.vom
+│   ├── hel545a0.vom [952c5683b3b366a9986f97bf9358c904887253b778330ef0f5b753d222ea32db]
+│   └── siri545d.vom [749a2fd2d17d983c7aba36da20918633139c1e553bf7581f96cd2e860f4b64d8]
 ├── e
-│   ├── hell545b.vom
-│   └── id.txt
+│   ├── hell545b.vom [1fbaba0c7e066dacbece67386541671e2a5e029fb29065fb0dfe542fb2244f6d]
+│   └── id.txt [35ab21dd2c67c9125932856d7d0a79537b267d94bc4bb82dd7d5a2ed6fd6eb2a]
 └── f
-    ├── grep.vom
-    ├── hell545a.vom
-    └── t1.vom
+    ├── grep.vom [44813537181f863561d73affd8104039433e6a6a62f2c987ca8aa9d4805de715]
+    ├── hell545a.vom [eab86dc98645fa88e82225451bcfd2388c24ae5f7c1cf21ee65984bca8b2674d]
+    └── t1.vom [5037f8b6839936be940fe74f695462d17c1e50392a7dcc3e8a3ebcffb4c11e42]
 ```

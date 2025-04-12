@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   ├── dark.vom
-│   ├── dark.vxe
-│   ├── t2.vxe
-│   ├── t4.vxe
-│   ├── t6.vxe
-│   └── t7.vxe
+│   ├── dark.vom [6f9e05d9e2b78a043ef11db95941311e5a9182fe0f671056779438dfdd326e4d]
+│   ├── dark.vxe [1efd00a2d721e434f465f5733fb9a7de6e6bc1a11b0c4c32eda679d6018d8cb9]
+│   ├── t2.vxe [8ba40567006b8d40d784c888ee8690b336038891bd0e5dce82206b32cc34ee69]
+│   ├── t4.vxe [01402e3ae1f3318ae8580390a5141038d378eac872699d35ddcbbe21c7274e84]
+│   ├── t6.vxe [9adb9ddbd1c2406aa37ca01025f9886d80ed09cc7acc469f9ed723978c27c0b7]
+│   └── t7.vxe [d0b5047f325d26e76f96aa4c234619ff77ddad10a32fe6035a21a62dacbc0627]
 └── b
-    ├── t1.vxe
-    ├── trace.vxe
-    └── wci0042d.vom
+    ├── t1.vxe [eba5f49dbe98704b58f10651bced7b5a7f3f9ba3bcfa4f9f6747d07764d9b14c]
+    ├── trace.vxe [cd85d68fafc3af5ad63b817a92525a5957d683290903926165f6f043de90f599]
+    └── wci0042d.vom [4bd8c3e509ceb2636f80a14a765ce7dde32f27d421c055eaacf1d52eb4f1b1a1]
 ```

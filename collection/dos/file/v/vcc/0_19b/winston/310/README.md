@@ -3,12 +3,12 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   └── wci05992.vom
+│   ├── t1.vom [db8cc27e8c50fa0060aa25a7a508e741d8bbc699c34960f3d88ab363cc07769f]
+│   ├── t2.vom [71ec40ae3c5d41e47328f6d77fe91b0a0de65b2a22123012dc1c79e70944c317]
+│   ├── t3.vom [400ced7abb4a0811005d5726566ff52ce091fe11dd0cac466582135874a8ee3f]
+│   └── wci05992.vom [b57790d4c3719848f085b5d3f752b5312654caf474fdd3da1d9574535f599746]
 └── b
-    ├── t7.vom
-    ├── tf.vom
-    └── winst310.vom
+    ├── t7.vom [7af18fc82a996628fa729725b804af2d15f8e49f261575e55bfba0f200d1d2e8]
+    ├── tf.vom [ad9a0b140d3de8b0160444fb274ce054a1fcbce74f947a0d1a8243334fa0c4ac]
+    └── winst310.vom [152133b4af96d2ab017440c6014696eebbf8696fbf1dff7f82f7ce05f1363668]
 ```

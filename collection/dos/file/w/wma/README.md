@@ -4,26 +4,26 @@
 ```
 ├── 0425
 │   ├── a
-│   │   ├── wci01213.td0
-│   │   └── wma-425.c1
+│   │   ├── wci01213.td0 [22738a2b4073d0290a9a14d243b060f8849f63ca7502fad1d50603832cc1f69a]
+│   │   └── wma-425.c1 [af10efc07cba2273330eaa539615a6e703cf3982bff7bf14aec3a441e8041093]
 │   └── b
-│       └── multiwma.vom
+│       └── multiwma.vom [73d73e9b1bba994cea15d1bfae5a8e38004082ae68c1919aec447a88b4f0452f]
 ├── 0708
-│   ├── baba.vxe
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   ├── t7.vxe
-│   └── trace.vxe
+│   ├── baba.vxe [90fb156be840d69b4782dc53701642a1edbf8194a36dc04d9d9496b4e2f7e745]
+│   ├── t1.vxe [3dca07b6f71fc05c8a4592a045647436b02f9368c1f4fa8aece508b89ee011e9]
+│   ├── t3.vxe [faa885c7fda82a1706b4a547b25d20f0308f728b2ed0b24416d9e1e955f852a9]
+│   ├── t5.vxe [7a45e91ecb6eb5c8e3282a1c2a7eb0636a139226a5f6c57ef909f2e41a72c779]
+│   ├── t7.vxe [34f055c2115c355eed69c2ea7e69cc39565eb801edc18cab787f8af131e14f96]
+│   └── trace.vxe [022d0cd161f573391624a985cd0d5cf5cd3319b5ad454b31bbdc2126df60e13d]
 └── 0709
-    ├── 1-wm709#.vxe
-    ├── 2-wm709#.vxe
-    ├── 3-wm709#.vxe
-    ├── baba.vxe
-    ├── t1.vxe
-    ├── t3.vxe
-    ├── t5.vxe
-    ├── t7.vxe
-    ├── trace.vxe
-    └── wci0061#.vxe
+    ├── 1-wm709#.vxe [58811b6a2b3e1c1325bce90002f367ca0fb9a9cbac0667af8b7cf7b6df1a1d6f]
+    ├── 2-wm709#.vxe [6cf61adfa287f4aa8b953d35addce28608a839b7d9ef538d2b782842e091db0e]
+    ├── 3-wm709#.vxe [140ecfe4a5241e2eb8dc4ac076053d405a5a8aeac58fac907d98088a65af241d]
+    ├── baba.vxe [43988a38bc3afadec426c6144aff214d5aacb60d2528bbcdaa295be72bb3f01f]
+    ├── t1.vxe [04d84ff160a7518fe0ea2e3b6c544f34450a7bf5733c6db650185be204f1008a]
+    ├── t3.vxe [6c64db58f489ce10d70860d294ba009e167398bc256420c2da1a3133790d1eb0]
+    ├── t5.vxe [57a672a13268a170b46aae59a6150fbee6fdb8199c6bb1a893373314dd3d964c]
+    ├── t7.vxe [8139033c29fe890b0d82e731d75811544afe7416fe088d83c5404bd268452db0]
+    ├── trace.vxe [2a907b4a27b43f8fd461f02518104144d16af19a914537caef1661ae8e47e6ce]
+    └── wci0061#.vxe [e60da07263c87a37e088398e479cce87345de96813fb563790c994bc02f64b5d]
 ```

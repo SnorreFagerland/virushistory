@@ -3,26 +3,26 @@
 
 ```
 ├── megadeth
-│   ├── 3973.vom
-│   ├── mega3973.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   └── t4.vxe
+│   ├── 3973.vom [e4dd08f2d5ce8db45fa2603f0ce608c2bf5812cdc1ffccfcc0a3747049a13020]
+│   ├── mega3973.vom [cbaa1043f4e7f8c19e8e4b54f78cf85e17425d1271544f26993baf74eb52ce75]
+│   ├── t1.vom [f5e0f2df188621bf48592e93a1215157c12c3f7939de1d82e5f72e9a01b29ca7]
+│   ├── t2.vom [2c37c40cf635a89bdc0209e52ad14b374b01f10141ecb19c0ab86cc592a18db1]
+│   ├── t2.vxe [a15e8aa8326dc9e968b8ef40820d425cb4e4276050dd4ffbad14e81474306d40]
+│   ├── t3.vom [9a374190039713b6697d04a733173e641d7a0d324c1fa3cb847becdbe8ad5b7a]
+│   ├── t3.vxe [62fafb425e3dea96d4f54a1551d2756f58e434ee9f9d08b0a44a1bfa663abd27]
+│   ├── t4.vom [3a13cf3afd519741a24358542397dea2f00b59c2007e463da2d0610cf2ac8ab9]
+│   └── t4.vxe [697d4e582dd90f10eee52c0e5fa39c32f89ba135003bfb388c5f4aa196bba284]
 └── sepultur
-    ├── sepultur.vom
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t2.vom
-    ├── t2.vxe
-    ├── t3.vom
-    ├── t3.vxe
-    ├── t4.vom
-    ├── t4.vxe
-    ├── t5.vom
-    ├── t5.vxe
-    └── wci00824.vxe
+    ├── sepultur.vom [8fd26956842b75096671628058d46bd33d40d9f2fe840b0d739e52cf05e30dd2]
+    ├── t1.vom [b2247fea0f09c0ad82299d712e8e9ae5595a862df880061d296bda21c2154538]
+    ├── t1.vxe [820f33d5223e412d4858321c9cdd2090cb7d812b315630251e10477fca68e9e7]
+    ├── t2.vom [f5089a385dc472d04e5df730be9510b71a3b254b23bf782c04e03f40852eada3]
+    ├── t2.vxe [64169ecccabcc7b7774ad70baba0247cdb404c58d9c2d6bcfaf98156e21d53d3]
+    ├── t3.vom [268eb810f5fc535b66d267c4151753441f49704138f0dc7a6c1d7a92288ca78e]
+    ├── t3.vxe [f5c2d01add9bbcacaaf709cea4b4d7f9c14becfe8c8d04b1e37b7ae4a279b898]
+    ├── t4.vom [69847ca9a9780821db911072f8a58acdc45e413393ee7654c364a53e0eb43dd8]
+    ├── t4.vxe [4b21cdd8207afabb40a10eada49e38d750d7c444c8df35b308fafd364a267780]
+    ├── t5.vom [1167f9a5793dfb9214b20c6b3e88e53ed971cf1692e6e4d8f392bd907f139cb3]
+    ├── t5.vxe [64ec3776f1aa9a9f3607b68779cc9c1d19d9a166702d83f14489729bd7721cbd]
+    └── wci00824.vxe [686e347bcd7cd626bdfcb2c87ebab5c22f8c4984dc8545af2b36a31bf6a367f4]
 ```

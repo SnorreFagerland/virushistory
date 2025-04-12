@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── wanderer.vom
+│   ├── t1.vom [c7de073ba500d9d84607b56304b57adf711a83997fc89a68183893d27909c232]
+│   ├── t3.vom [2cf26dc493ef91676d165da3f0b6f2f03e4aaaf7feba3092aed0269a46c7423a]
+│   ├── t5.vom [84a6a83eec6c95bd5eac2ef83990cc2a4a836622a6059886bb61f86c1b5ee58b]
+│   ├── t7.vom [96be840fd339e291f366545838bed57f1de279a5a741e26a1e273879ea3b2ac2]
+│   └── wanderer.vom [93e3ba236762aa7d3ffe8b97731d3dddb8fc7318ae4b9f5219cb768ffefd4992]
 └── b
-    ├── t1.vom
-    ├── t3.vom
-    ├── t5.vom
-    ├── t7.vom
-    └── wanderer.vom
+    ├── t1.vom [3329705a4f77a20ca4b2d8ef6047a9c8726f8a524d622b888c4c5f34463cbf70]
+    ├── t3.vom [9795a19373e657f46dc5f7455e3f3424b7a5405fc56d1fe473d7d04ceb2dc6c4]
+    ├── t5.vom [1cce546d89ab97622bdb0850bd90b76f85fb966da227b558b2c65f36120642b3]
+    ├── t7.vom [2a75699f6442fb348cc479fc3d389cea00f3994d092919b165e652d6f6b9ab94]
+    └── wanderer.vom [9b7c98ae00632cade6d3dd54a42419fb19658c9137d8ef0086d602d39c3316bd]
 ```

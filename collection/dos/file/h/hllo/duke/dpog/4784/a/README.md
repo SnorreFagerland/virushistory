@@ -2,8 +2,8 @@
 # Contents of `a`
 
 ```
-├── DPOG66.vxe
+├── DPOG66.vxe [443cdab8f1472a987a4a990d37e40dd2b3856f33973d109b31868cdb8c6aacf0]
 └── src
-    ├── DPOG66.CFG
-    └── DPOG66.PAS
+    ├── DPOG66.CFG [1e018fe38cf55f255269228bb0df0432aa2a11bf38a2beb08df5b5dbc7c7ff86]
+    └── DPOG66.PAS [ca616158168b277cdb484c2101457fd042c5e1920f137ccf42fbae2cb1b69e50]
 ```

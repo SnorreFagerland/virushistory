@@ -4,67 +4,67 @@
 ```
 ├── cowabunga
 │   ├── 2193
-│   │   └── virus.dos.t_power.cowa.2193
+│   │   └── virus.dos.t_power.cowa.2193 [7ce658b48ce7e948841c133dc620bb97264bfe982506a3a089bc1be43d97af45]
 │   ├── 2298
-│   │   ├── cowa2298.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   ├── t4.vxe
-│   │   ├── t7.vxe
-│   │   └── t8.vxe
+│   │   ├── cowa2298.vom [1882a0d604540232b93c08afedb631b8529cf2a93f536bf0c11b41ae4c1743fd]
+│   │   ├── t1.vxe [606dd5ff01c0ffe81e3e655d4aa6cd04baea3b6ce4f4d9c2d3ebffb1fc40d6cd]
+│   │   ├── t2.vxe [4c6c134408c71e75e86cb603cbd414266dea6e81058f4bfbe200f0727903513a]
+│   │   ├── t3.vxe [8b1fae9494d48676da45882800449b2119e4ae0d2ff2735f08f412513deb00f7]
+│   │   ├── t4.vxe [4507dbb72234845938d2551106cb4986195a9975f34d8236f4593d60c6747e48]
+│   │   ├── t7.vxe [11d98193ebd27758494818b31dd9a30e0aed682240fe6cd4262ac83c865610a0]
+│   │   └── t8.vxe [da3e56cc0e2f3b26958810143ed2412e94985f26dfd5c121280271864b5b6e3e]
 │   └── 2408
-│       └── virus.dos.t_power.cowa.2408
+│       └── virus.dos.t_power.cowa.2408 [4fffdae44f98c405bf60e54e0a73da5278bef14f8b2f9e43a1d197b061141f31]
 ├── sodomize
 │   ├── 4564
-│   │   └── virus.dos.t_power.sodo.4564
+│   │   └── virus.dos.t_power.sodo.4564 [3d8b2f82993e11d26529020f4838da27cbb488b2d4fd5d29d251bb0f50dd0254]
 │   ├── 4590
-│   │   ├── debug.vxe
-│   │   ├── doskey.vom
-│   │   ├── keyb.vom
-│   │   ├── mode.vom
-│   │   ├── t1.vxe
-│   │   ├── t10.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   ├── t4.vxe
-│   │   ├── t5.vxe
-│   │   ├── t6.vxe
-│   │   ├── t9.vom
-│   │   ├── trace.vxe
-│   │   └── tv4590.vxe
+│   │   ├── debug.vxe [c23401c7b4145cf01370ac3b8440672843080415d690a8089c087db540dad110]
+│   │   ├── doskey.vom [ac8a83230816bfae320e07deae780098c590c80e9e76211469248039a457db66]
+│   │   ├── keyb.vom [57b5b6499deba912d3cb5a90267c74efd21bf079648d060ba086d662e4fb5843]
+│   │   ├── mode.vom [bd9ffdc8ff9f8485f85e4c2acd0061051b76c04bf2500814ad7dbdf21cde9d5f]
+│   │   ├── t1.vxe [fa5e7b938c2aa3298ddb3a83ca2ac3ab3530ddee239b54b66c4583b26d7d9906]
+│   │   ├── t10.vom [6b60077a52e7e30fd5e1ccffa62de9773f80f128ba80f814686291378470f871]
+│   │   ├── t2.vxe [b4255f767232dd23f43ff30139457ceb210245176930f7fa8f03468bc98f30a4]
+│   │   ├── t3.vxe [5ff1ca44d6a2f1a24f258f27d68582460ae09ba59e02d6dfc926e5efde2ee27a]
+│   │   ├── t4.vxe [23a40043712d6493efe9e0c5ea90f684ede0363946d57b361c8aac48059ffd42]
+│   │   ├── t5.vxe [2d75953f56087c7e02b3fea95689bf187e61407f14079bd2b3e03468972e849c]
+│   │   ├── t6.vxe [75fa05188d4ee2286e7c6b780013407c522f8951f07e1697f3b68ffc83cb32a2]
+│   │   ├── t9.vom [3f6f291f26c533917ed66b5e3cb55ea325feab015f6e60518c0b7f9978c222e3]
+│   │   ├── trace.vxe [4d845c93486b6910d960693a093fab089a117d8bb314a3da1d028d420944bae6]
+│   │   └── tv4590.vxe [68c8da95f362fa589241eeae216cf8dda6a9994d32b61918937ef0a4ef629043]
 │   ├── 4600
-│   │   ├── t1.vxe
-│   │   ├── t10.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   ├── t4.vxe
-│   │   ├── t5.vxe
-│   │   ├── t6.vxe
-│   │   ├── t9.vom
-│   │   ├── trace.vxe
-│   │   └── tv4600.vxe
+│   │   ├── t1.vxe [6077a9e0ca0fdcb4a6174726f97b3ac1438b4e72c8e3dfc59d34608b0df39b08]
+│   │   ├── t10.vom [ed427c6948a9d1f66dd491e2f7121b983c2970b4ac3c7925dd54c2aa5f183e6b]
+│   │   ├── t2.vxe [2a805502a6117966c39306aa11a2788d40d962c8060529877fdca9cd4e965dc8]
+│   │   ├── t3.vxe [3b7f3c7c20cdd3ef1586752e2e8f6fd03fb817ec29f933e89941947e05fe8502]
+│   │   ├── t4.vxe [875b0b41a54326a0e7526e9aaf6f6fa50e9e4538ae4bac3ee773ed3d51fa1055]
+│   │   ├── t5.vxe [92b3f64c96489c25553f2a9d40dc7e83374f2d1ae5f921da45153e47986b29a4]
+│   │   ├── t6.vxe [62d2580a283049eecb32af222bea6a034e40d8b2700edfe26780f44bc7220133]
+│   │   ├── t9.vom [78a5c03d006091b21d97ad082862b43f3bff27c479fd9b8cd29aa8ce8d640361]
+│   │   ├── trace.vxe [98cb4cd01d201ddfcdd6686e575e0d093832422ad656c051291f391de218f430]
+│   │   └── tv4600.vxe [23b708662b730278dadcbb79a70792c5761de6300f38ae607e516a476caa8397]
 │   └── 5142
-│       ├── doskey.vom
-│       ├── keyb.vom
-│       ├── mode.vom
-│       ├── t1.vxe
-│       ├── t10.vom
-│       ├── t2.vxe
-│       ├── t3.vxe
-│       ├── t4.vxe
-│       ├── t5.vxe
-│       ├── t6.vxe
-│       ├── t9.vom
-│       ├── trace.vxe
-│       └── tv5142.vxe
+│       ├── doskey.vom [6897fa7a217d7ad88977063965b0af25a5c009cee506fc990f287be48abfc472]
+│       ├── keyb.vom [155ebd2e4ff5fcbbb231f7b04aa90d21e4a7367035be045f2ece59668f6d0090]
+│       ├── mode.vom [bc62bd0d952e7e91082ede4615650fc981f2c0a0954bbdbdd34081997470f9d5]
+│       ├── t1.vxe [a3ad35def92aa0b6211b3fd0ec238d72583554a3645a82bc29d68efefeaf627e]
+│       ├── t10.vom [d2f4cef4c5d2e5cece3f8de9b376c7697998e35bc9babb4a9ee465cf92c723f6]
+│       ├── t2.vxe [029fa19d824f73ef452b34b70049123bfc0bdeffdcca07654c650e1463bc43ff]
+│       ├── t3.vxe [60b699a2a0aecf2e825b6aa9ef35db34a7aab3374953b458f29f92d39aa339b9]
+│       ├── t4.vxe [291b8c5ded71f58de16ddd4e5d65bad360e77ed81d85276a3dd696ffc87dd5ba]
+│       ├── t5.vxe [95b43a655a0edff1ad2822ac3255eff7c76b40c5b6c3d6691574f6c249d45d21]
+│       ├── t6.vxe [0fe2c5e7dcb3071b3e1bc00401a99d64bef283b077b66d0993fc3ca5e3a3141d]
+│       ├── t9.vom [024faea8d0ce94a4adfe10957ceda55d7cd9487a58e93ceb9ffecb855296c53e]
+│       ├── trace.vxe [586fd4a3c60afe0875e8eaf2a7f0957d528d671140fad447267374ecc6bebfe6]
+│       └── tv5142.vxe [a21f58ea11faece87b6eaab00405cefdde783be09a43a4cb5ee8f0a33760ae27]
 └── zarma
     └── 2389
-        ├── t1.vxe
-        ├── t2.vxe
-        ├── t3.vxe
-        ├── zm2389-1.vom
-        ├── zm2389-1.vxe
-        ├── zm2389-2.vxe
-        └── zm2389-3.vxe
+        ├── t1.vxe [e679ccacb077b0a76e37a3cecdaf1164aaff78cf4642d45848621d1b0b2b6ff6]
+        ├── t2.vxe [7c263f59b14a2e84a5a09eda578a389d821f90d779b572a6d120874774b7886c]
+        ├── t3.vxe [61414abce48d723a53c6b2a11c93882d628ecbad867d1db35a351a39ac846186]
+        ├── zm2389-1.vom [fd4cbd86bf3e9e6add5e55db55e8a70a2c23e7858a7a71c44e90da8e9961ed88]
+        ├── zm2389-1.vxe [8825f28373d73ebe490ebfe0f9a3eb59f101216b37b9bb8c92557152bf97c154]
+        ├── zm2389-2.vxe [e585dd796144e93d9885f15795fa997034018a3ca0d23fdc324070bb4a3b5e7e]
+        └── zm2389-3.vxe [5471f93f38001d76a8de5e9264461869e7092a21f7bdfea6f0a449fad34581df]
 ```

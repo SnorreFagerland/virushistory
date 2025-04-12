@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   ├── cw-0245.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── cw-0245.vom [7e8246ca124d2d072e94278d632d4d74626f928f9d771a2bd1f3690867cd43a9]
+│   ├── t1.vom [3de054aa79458506ba26a5040aef0c0acf90335e3434edf58603c2619824f74a]
+│   ├── t2.vom [1ba6606c0f56857c1a1b1a43597986daa6d2e04c37c4bf1e58682c22e2b4a444]
+│   ├── t3.vom [99acf4825b2bcf9deb2631e426bae6e0b93a56f7562cba617e6fbde72ef465a0]
+│   ├── t4.vom [0f426e97c081954b1e6fd3f7b0b143fa634da36b33557a7840a35de42842bc53]
+│   ├── t5.vom [fd3154efb1af54ac081cfc15bd7f52bd0751629877d89e8be226840a0f93c25b]
+│   ├── t6.vom [623198a69a6b2bbc97ada8e09c330196927e5421c86c54d00c1c34026c95f612]
+│   └── t7.vom [fc61c5353548263000ef68ad29f8d390fab25c6b6de63487e3158fc391bb22ab]
 └── b
-    └── virus.dos.civilwar.240
+    └── virus.dos.civilwar.240 [dc5d6bfac95d439ca46634257fecdc49cc116d22428361c9fbae23ef64071852]
 ```

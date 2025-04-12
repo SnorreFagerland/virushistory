@@ -2,8 +2,8 @@
 # Contents of `b`
 
 ```
-├── DPOG35.vxe
+├── DPOG35.vxe [2ed36771b884c7837af4c349596e5d99637749e9b315858c2fdbdba835ebf83b]
 └── src
-    ├── DPOG35.CFG
-    └── DPOG35.PAS
+    ├── DPOG35.CFG [429ca77b5cfa06cfc197fc271158b5ffc064d724f9fd8d82e355a9dde33849d2]
+    └── DPOG35.PAS [daedd801564f1b59e0ce77496bc35c88e65cfa33d4d8631065e4e1e1c4244270]
 ```

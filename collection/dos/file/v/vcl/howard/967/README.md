@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   ├── how967a.vom
-│   ├── howarr.vom
-│   └── win.vom
+│   ├── how967a.vom [a94839979a3836a71c6219153f1f5681023e674b76932bebe84e4c10732453af]
+│   ├── howarr.vom [16d9c637d105f223394708faa196980e034dd26104861590c190fb84339b0982]
+│   └── win.vom [92ee5a48db071b33f0a23b6bc6550fb63f85547242a1f115ab4e81e0363d7e13]
 ├── b
-│   ├── howard_9-001.vom
-│   └── howard_9.vom
+│   ├── howard_9-001.vom [a3c9fe542c49b6d5f437d72a53499884e8feebd0555d839aa527cabc5dcae43e]
+│   └── howard_9.vom [9ca0847e66ecb897d569dc04f808b4050c7348c1c368aa88e713f8128969732d]
 ├── c
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── wci03082.vom
+│   ├── t1.vom [2a370e1466fed0d0c5ba0a4d06457938401b000e8e13cd5e4e1c81c0472a8c04]
+│   ├── t3.vom [5a8806a21afff04a546ce22929a06b6e896778097f10c6ef7033fc99520921e8]
+│   └── wci03082.vom [8d3bc973f2028ddb7b1bd58df014dc9e44b1f70b31f1f39a4173589189082c96]
 └── d
-    ├── howard.vom
-    ├── t1.vom
-    └── t5.vom
+    ├── howard.vom [cad11ef78b547b6f860986563501870be236f8471bbde84cdc22ddef1fc2001f]
+    ├── t1.vom [ff3a18e451d70d87671c335b4b99b965d6f30757d2a222cae346f8c75beef716]
+    └── t5.vom [617065bc9d3809b6287949b7fd0b6e0c9e5ed5366a04547c99e5671bad157f91]
 ```

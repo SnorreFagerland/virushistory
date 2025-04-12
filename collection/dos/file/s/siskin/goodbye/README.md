@@ -3,38 +3,38 @@
 
 ```
 ├── 0511
-│   └── virus.dos.brpi.511
+│   └── virus.dos.brpi.511 [bf85ddba30d7282132ab3900134904a146a7a5fc3b961337812250344d54a4d6]
 ├── 0555
-│   └── virus.dos.brpi.555
+│   └── virus.dos.brpi.555 [1899a495648f12d7a90335b6471f0511400ed397f2a6c576b8392bbda717a80a]
 ├── 0789
-│   └── virus.dos.normal.789
+│   └── virus.dos.normal.789 [7ea6305cbd05030fdba1d7569282377850c46feb54d491c236c9568d52c6bd3d]
 ├── 0839
-│   └── siskin~3.vom
+│   └── siskin~3.vom [10362322fa3aea69f93df636b6c0aabf4fa7e13995875ac6e249a9d0bdcac05d]
 ├── 0948
 │   ├── a
-│   │   ├── sk-g0948.vxe
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   └── t7.vom
+│   │   ├── sk-g0948.vxe [eaad5345628ddc11f2bccabcbcf551910229c919d78b3abceb22f3a42a3c780f]
+│   │   ├── t1.vom [7c835027ffd8aeebf1977886dfbd758e20c8b93ae87515c9dfc9806cc4049920]
+│   │   ├── t1.vxe [16ef90f0146bc98eb0afe5fb390d3c7713b6e03315a00f5d35c21c49aa826ab9]
+│   │   ├── t3.vom [4cc3175215d0d646c9192901cd4610dbf38e07366cc8deab5deb191bcc2b719e]
+│   │   ├── t3.vxe [29ff1f9a7cf0b13f69a6acec8483eed7cddaf294299b5a13ae97fde8ab876a42]
+│   │   ├── t5.vom [1b67d1c0cc7440e60b0698eeac468ea1dfa2da1ac9604c0c771d44d4f3139444]
+│   │   ├── t5.vxe [8ff7ddb45c9ed35f6c7a622218309ecfb442e46c0599a9d7d8e8bfc0bad5c0a0]
+│   │   └── t7.vom [d025519001640e110389288e125555218dabf5d0199723d1d37fe7f20b92fa53]
 │   ├── c
-│   │   ├── sisg948a.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   └── t7.vom
+│   │   ├── sisg948a.vom [b25753435442045d65579c04c6e34fe17c9809037eed694aa00d71ae7993e060]
+│   │   ├── t1.vom [b9b697567c267176df00f814e07976f8ce59046a2fd1d752b664b2740858bd37]
+│   │   ├── t1.vxe [f51a164c61e9ae0af05b25b6cf923a1c55b2dcebb49182ca5f12d2d801262a79]
+│   │   ├── t3.vom [48492cfb3b1e6cd71883c141737b9513bab18381adfd6627ec4169fc14871757]
+│   │   ├── t3.vxe [0bfe3272342272d9523bf3315a6ac0e95757ad8747b66a82802db68d37a41983]
+│   │   ├── t5.vom [a10409126870c7c4077da843f5255af8554d1d34626c000d225a4c954ac34cdf]
+│   │   ├── t5.vxe [7a0547335dbee521a7386bf1978d3f48d2aac9f9df3c0bb85d807358533cee62]
+│   │   └── t7.vom [a0ed9e39f4f7f532810613879e49f9b757a0dcb1dcbf0f2c2818c9d1a727b6f4]
 │   └── d
-│       └── siskin_9.vxe
+│       └── siskin_9.vxe [44459bf3101f8a65f39018f6e90647783f6d526c66c627e022a143d630a557b8]
 ├── 0966
-│   ├── id.txt
-│   └── virus.dos.siskin.966
+│   ├── id.txt [7c7b232c86f9a4e5e0d078d52a0410527d5603aeb77f1480c621fc57e36c7046]
+│   └── virus.dos.siskin.966 [58e2651f11c597d6c57192a32fed4ab6207d458dfb33f74427bf181dd898f0bf]
 └── 1017
-    ├── sisk1017.vom
-    └── siskin.vom
+    ├── sisk1017.vom [7818a32e9c38e540edbab3746a4d166c587c99c76109d385d4fd054ddf63aaf8]
+    └── siskin.vom [3511c606f26f86230b7249515f14ad9e21b3f79c65be2001001b4f63f9fc5794]
 ```

@@ -3,33 +3,33 @@
 
 ```
 ├── a
-│   ├── 1-tp1329.vom
-│   ├── 1-tp1329.vxe
-│   ├── 2-tp1329.vom
-│   ├── 2-tp1329.vxe
-│   ├── 3-tp1329.vom
-│   ├── 3-tp1329.vxe
-│   └── 4-tp1329.vom
+│   ├── 1-tp1329.vom [26f5dd53498ec8b27bdffb64d2a7325024a94fc2341749d0695ead8222bf1c8a]
+│   ├── 1-tp1329.vxe [a39f3fe6608e6d1fed156ae89a9d63d46cec7b1d1d5008ad93f6a24d04ea9c3b]
+│   ├── 2-tp1329.vom [66b7f14dd3e7e53d82f398012deb4d7111a3a22ba27df852fd027394de43c653]
+│   ├── 2-tp1329.vxe [b07cecb2d46f8f3143e70a86158673699705a8b60cffe2b37eef29ae127a4858]
+│   ├── 3-tp1329.vom [ee64b0ff9b2ff878bf836e5de50200a12329afa19a4ef552b1f7120b325812c6]
+│   ├── 3-tp1329.vxe [40967e8a01d57b239d1f49e8690fcf0b59fba21823a489f3777fe9e4769b5c84]
+│   └── 4-tp1329.vom [d3aa032a33bdd4299aba64acb7da68914b891106d002399009491eb5cf4820b4]
 ├── b
-│   ├── sample1.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t4.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vxe
-│   ├── t7.vom
-│   └── t8.vom
+│   ├── sample1.vxe [d4fc3d52859fc83ab802df29b20bee053858d03f58a45cf828ef1b564ca25302]
+│   ├── t1.vom [e193d9aa159ec1243a852fadfba1088f74242ee8aba02bd1b298f989337dcbea]
+│   ├── t1.vxe [3b461bfb967a24efd609abb5dad633cf856acfcf9185f37e6698ab6072f9453d]
+│   ├── t2.vom [572785e60ccaa338beb8f91875a768eb6b23e570c0c69185cd27d784c0ef8672]
+│   ├── t2.vxe [bde3738b1cd285e2ea981311189e43d974f8e8134854949975d2716ed1d0a579]
+│   ├── t3.vom [e9f70db6ba1cc9d840bd563cc3b87e50e697b95a4cb2984ee0523b782d5b13c8]
+│   ├── t3.vxe [47f0c6636ece164dc6343ea0a3a47fbe7de78e5b13d49d852fedb2f148deacb5]
+│   ├── t4.vom [20f1ed2fe0440a93a2c6ad8a1596d6db4f8117225b3974eb9a557574d0c63e69]
+│   ├── t4.vxe [79244527e388f6d77be328e85f1adcadc14210690094fa87859ab6c535f855d3]
+│   ├── t5.vom [d843d27f106aa41acc30039bb118ccd40b6c8a9075c11cc394d09471dafb5313]
+│   ├── t5.vxe [73d3d33e585d96c03a95096958c4d71248232289f5e255d717c1498bf7718870]
+│   ├── t6.vxe [24e8a9addb9cd9a212158fa09e8bce0ddfb3ba6b392befe1c8b41f7eed7c7be3]
+│   ├── t7.vom [8d0609e229aee4338ca4feb6b4f2465474946b8cd79539b43affc155bc7edeea]
+│   └── t8.vom [19f535a3d4d8d83a6ca175501aedb1a9b5245613a5af1f594698991e74194f0e]
 ├── c
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   └── t5.vom
+│   ├── t1.vom [d1a29d80cd74077a32b573d153a1290194c40f42efb1fbe29091f617cf75a903]
+│   ├── t1.vxe [1f2930ab54cd401e195588c1a369ba3b311d39233cbd4d6a059fb567ba555505]
+│   ├── t2.vxe [a0f40e5365570e3e235fe870b654f27241785c44c02b2005afdd473e449455c4]
+│   └── t5.vom [737986d6e4a454f03ae1b672c87ed7e59052c17124be59d669b847bc8f989c21]
 └── f
-    └── virus.dos.tpvo.pitch.1329.a
+    └── virus.dos.tpvo.pitch.1329.a [d11bad1b9ac19e0c906ea70f9d381bbbe1c872a32b234f99e595bdbaa14f6280]
 ```

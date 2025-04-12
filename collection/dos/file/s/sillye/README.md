@@ -3,36 +3,36 @@
 
 ```
 ├── 118
-│   └── OWEXE.vxe
+│   └── OWEXE.vxe [0f042868170bca00aebea8aa78d892352cdaa5f77ef46e7cb7bbd78080afcc7e]
 ├── 192
-│   └── Virus.Win16.Header.Deadman.192
+│   └── Virus.Win16.Header.Deadman.192 [99593b5016d0513ec7c2259bdc39b706b258bc38f482b68a070b93f537b0631a]
 ├── 259
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t5.vxe
-│   ├── t6.vxe
-│   └── virii9.vom
+│   ├── t1.vxe [7578e36c624fc161b7e4bfff5a003de47db904885e05e463546c61abf5713d9b]
+│   ├── t2.vxe [fdb9856e1a69e3b055f96d25084dfe29625c98a8ec6c656c649596ef450c284c]
+│   ├── t3.vxe [82cd4745891c424ca310850d5b5e15b800892ef8b948c499dd1e3a28c0bb02e6]
+│   ├── t4.vxe [7db721b14e3b456f0116f10bf04fbde7d1e0a13bf52c0f4d2153b999f073734f]
+│   ├── t5.vxe [71ac01f5890373ffdadbad70b62137ab1a7c3c7bb69a2d0c6fc103cba76482ed]
+│   ├── t6.vxe [b7f2a0a462f527c139b390579d261122cbd2d75a8281afad8e706b5ce4524a31]
+│   └── virii9.vom [8937ee1de39e2afb8c5fbd540acff8012004c4a6e66590544b4fdcfaa0e82acb]
 ├── 332
-│   ├── debug.vxe
-│   ├── ear3.vom
-│   ├── earunk7.vxe
-│   ├── m1.vxe
-│   ├── m2.vxe
-│   ├── m3.vxe
-│   ├── m5.vxe
-│   └── t1.vxe
+│   ├── debug.vxe [4b817b1f4b0f9f5c682d2880ba8e817b39fc4cb2ff82aad2e8b1b2825bf15aff]
+│   ├── ear3.vom [14ff64741315870f41a02e2671b9cabb52d8dde8083e0b82bccf53380cb28c1d]
+│   ├── earunk7.vxe [bd61b7e6f0f4e4645d5cae58f0fa3cabb90d0f64659684cb2d2e1a39f0d76539]
+│   ├── m1.vxe [26bd6b7f958643df54b398b246516e75186a716e8951218a06ba237a635a0ddc]
+│   ├── m2.vxe [da18219007331291b477dde418ea27eccd67f35e9e91246b4cd5be8b7e5fea3b]
+│   ├── m3.vxe [13a842e0c2b2d8c2b2dfb3c82b8ed95f5471246f89186e50539a674653d45d81]
+│   ├── m5.vxe [694356e2bdd3653b7ee8fef4c102d082043cef7dd30e77add1551d637dc6f268]
+│   └── t1.vxe [be52f13435ce73c170a6c32ace010ee71d5b01875f8e7f5cf8fd726901077c77]
 ├── 342
-│   ├── debug.vxe
-│   ├── exexe.vom
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   └── trace.vxe
+│   ├── debug.vxe [39472acf16f21f641d53d8ea1d5d2047345ca5b6de5943d8aa64ee2ba572d455]
+│   ├── exexe.vom [5b99c229a44afd4dd76589065d5cdc7b4fb42520d4de1dabf5767d695e821362]
+│   ├── t1.vxe [45fe832acc861549e61089f08d69703b30c740825c577147dd384b2649703c8b]
+│   ├── t3.vxe [f5fb345d5087c96c4f4c95593b6aae1378bbb3c56d7b7dfa8725c1fe85ccd6ba]
+│   ├── t5.vxe [4488d4631e169457a00baaf9cddc99b3c924c7ef6d3ee443bf0712d455971bee]
+│   └── trace.vxe [76f452e1d73c7dd229993da3b0205f97e6c6e083559770c87a6e24fcedafc71a]
 ├── 512
 │   └── a
-│       └── sillye_5.vom
+│       └── sillye_5.vom [b27d163bb98dbc213868bae82e89e02f4cb8fc91520c5dd05d520a49e10fe698]
 └── 683
-    └── sillye_6.vom
+    └── sillye_6.vom [b2aa9c9017714f7c630f261d33fe37dcc7d0776750b378f2e28b40faad7b7d1d]
 ```

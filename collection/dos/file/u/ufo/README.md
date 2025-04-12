@@ -3,15 +3,15 @@
 
 ```
 ├── 1466
-│   └── virus.dos.ufo.1466
+│   └── virus.dos.ufo.1466 [36afbfaa8c6905b25e9cfdd0a120c8af54ad55b5006cded526e4e135d6bc2d8f]
 ├── 1468
-│   ├── debug.vxe
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── trace.vxe
-│   └── wci04773.vxe
+│   ├── debug.vxe [9fe9bf1160c8d223ee76a083ebb68ea9bf962cf06c5dfd3234d6b11e5242e702]
+│   ├── t1.vxe [382b6c20ec558bde83ef1c3a7d087934b5046129a238b020df956e0328b2b3a3]
+│   ├── t2.vxe [b58d6de54ca5a787c9210cf4f90c58a7e485c08d7848bf78090ee0e3ef5823cf]
+│   ├── trace.vxe [5ebb501176fa8a59ade78c667edbe0cbc9e059a74d5be205e181b6eb8999c6f7]
+│   └── wci04773.vxe [86a007eca29aacc7531f05780d081257f7275ce7480a8cf58d7bd3804916166a]
 └── 1501
-    ├── t2.vxe
-    ├── t3.vxe
-    └── ufo1501.vxe
+    ├── t2.vxe [fec8fc7764abea3b246d854ed8869659074791f9c4c9670d9f06627b9a68d100]
+    ├── t3.vxe [7d2e55bf2c483a9a0a869eb072c95fc7426d789e8c821bd95318dae280755707]
+    └── ufo1501.vxe [60629b2a391e8c1660304a3de75df5f0ce379081430358e0f585106fc32ecdd0]
 ```

@@ -3,28 +3,28 @@
 
 ```
 ├── 8444
-│   ├── 1-e8444#.vom
-│   ├── 1-e8444#.vxe
-│   ├── 2-e8444#.vom
-│   ├── 2-e8444#.vxe
-│   ├── 3-e8444#.vom
-│   ├── 3-e8444#.vxe
-│   ├── 4-e8444#.vom
-│   └── wci0059e.vxe
+│   ├── 1-e8444#.vom [63f6b54f83bf52611aef941e2751dc5ec32de9a2c048e35b4d811692c093294b]
+│   ├── 1-e8444#.vxe [63012b7217531c5d89991453aedacf934480bf2fb4162661930ae845974c1e27]
+│   ├── 2-e8444#.vom [771d42b255cf29319ef7848c30b58dc70b482f964505a6bfa2a73bbeac066760]
+│   ├── 2-e8444#.vxe [46fb77b5e666e4c249b12298b30790bb8ba47e4ae6eb4856c9c3f4fcba4a1a51]
+│   ├── 3-e8444#.vom [e617b68c2f10492acc16bc2b04a00a6cbec077cd1869378600ead8229198da87]
+│   ├── 3-e8444#.vxe [d331ec73c6345d3d5199c896ff2607a471400413a0d390afb45490b4aef102f0]
+│   ├── 4-e8444#.vom [52ec1b467359c17ffb47409b8be1b7afa7eaa4447a5ae03d17621830bc093699]
+│   └── wci0059e.vxe [9c934f84d013f5455b0d1a63e48b2445025919ce7bc5d96897b4d3a2938445f1]
 ├── 8458
-│   ├── 1-es8458.vom
-│   ├── 1-es8458.vxe
-│   ├── 2-es8458.vom
-│   ├── 2-es8458.vxe
-│   ├── 3-es8458.vom
-│   ├── 3-es8458.vxe
-│   ├── 4-es8458.vom
-│   └── wci0060e.vxe
+│   ├── 1-es8458.vom [94129fa9ab24feb48faa4833050d0ec5b09676ca3853ef9ef33a7c70004f7cb2]
+│   ├── 1-es8458.vxe [4ea5e89978802c7d562fe5368ffb2fcfd785f32173ec6edfa73808d74e48af14]
+│   ├── 2-es8458.vom [27bb1dcc43559bbe3920d782a5695d9a026a12d708289212021e02627ffae328]
+│   ├── 2-es8458.vxe [8c3c574a3f8134ba4a2a7a47690f447e13e737e16cbe01ff1e53710157347b28]
+│   ├── 3-es8458.vom [a2f23b6bf04ac1de04f32177d3cfaf3fef907faf72f653ba5a0ae1ce5c96a0ba]
+│   ├── 3-es8458.vxe [6550fa496878f50606ebd4a2f1d75e2d17f1b9e5bc50826094a333c2775089d9]
+│   ├── 4-es8458.vom [85708250f74546be8d6ac8ddef6e7ac5bf20b0cd57aa7d711c632c9bd68fdb28]
+│   └── wci0060e.vxe [d877830d1a6de73b61a40b834df2114b3292894b9269969816ce9ebc1c8e2249]
 ├── 8486
-│   ├── espacio.vom
-│   └── wci0061e.vxe
+│   ├── espacio.vom [a20d6705ef158ace2fc697f70f1af651cb3e6da960b17b175de1f31ca3be7774]
+│   └── wci0061e.vxe [b24d8fd70c40233c4ef19616bf0b0bc604d3e7586db004cc4b8aecd43b5e9380]
 ├── 8491
-│   └── virus.dos.espacio.8491
+│   └── virus.dos.espacio.8491 [88681bd018cf1f4453e0aa43ddd1ec7072f30eaf96c7efa0fe8e395d37defda7]
 └── 8498
-    └── virus.dos.espacio.8498
+    └── virus.dos.espacio.8498 [0e54872919b8c8ae31552cde858b9009c9976090ee9b7eb0613358c236e089bc]
 ```

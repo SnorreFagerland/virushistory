@@ -3,103 +3,103 @@
 
 ```
 ├── 4515
-│   └── virus.dos.hllp.krile.4515
+│   └── virus.dos.hllp.krile.4515 [eeba80b55fce8dcbd9479543ec036cf65ecabde58ae8fe962ecb7131afe815bd]
 ├── 4537
-│   ├── binhex.vxe
-│   ├── debug.vxe
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── krile.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t7.vxe
-│   ├── t9.vom
-│   └── trace.vxe
+│   ├── binhex.vxe [fcf3b2f63c0fcc4a8259f52488fec60b5e2965030fc18530a4281541622d6b05]
+│   ├── debug.vxe [1220a4074a46bfa3c106e4bc39b92d156e92eaed9ca24885d07a8d41504456f6]
+│   ├── grep.vom [2f0d495882fe07f7cff59eea05bafd938e6db23b005b3ea417457a2d7d4b9bd8]
+│   ├── keyb.vom [afb8d6b49f0f0bfd0a39a53da665ee1aabdebb771f9bf71c02e791151c58ef84]
+│   ├── krile.vxe [15b70aa7d3ab99fc3cb697edc5b2e819c250e2c84b5e3e335ad0bf45939f2ad2]
+│   ├── t1.vom [26647443876c9fcf2286c718d43c74cbca01f5919a283c52872760fcbccdfaf7]
+│   ├── t1.vxe [582cf45309225428aaa6d3764ae9b047c41804ba7e946a74a19d203b8a799d3e]
+│   ├── t10.vom [2128a026868e97f2adf1c5c8341e8cabf705903007f8c35529a0a48c70797e55]
+│   ├── t2.vom [31096903d96a3fb172e2f3e668ee55a917279fe88b5f75efb1b42942d5c9ac28]
+│   ├── t7.vxe [6fc34157e2e7ad5b47f0da40a96cfb4af18aa1474253c472035c27a869007fb8]
+│   ├── t9.vom [3e0ffe7a23f4ac799451818b45e45188afe10c382084df3c2ee97976fb25a4da]
+│   └── trace.vxe [ccbca913b6f6fe3c51c7db2fbe516813a38d24a2e59a1355ba073b000d36fe9d]
 ├── 4592
-│   ├── debug.vxe
-│   ├── keyb.vom
-│   ├── krile.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t7.vxe
-│   ├── t9.vom
-│   └── trace.vxe
+│   ├── debug.vxe [b7f841d5809725c98ffcc2f281ad2e43e678dfda0801eb6e2bc7ce5d39836ad2]
+│   ├── keyb.vom [690a31d17852a4f45b2322c341bbe102450f1641418d25f4145a41037d631a66]
+│   ├── krile.vxe [399e71153e65d2ec00f052a737078d49e7d2fdaaa84e467e9c0d116f224d7031]
+│   ├── t1.vom [f5407bce647cec8b2a5657842ae5946413e81475ca26a009214f628a50f940d1]
+│   ├── t1.vxe [f8bcc0f529f9346c7984b6a6d2cd8f5a14eb1217ae7040e2a08c7a60b5fdcf2b]
+│   ├── t2.vom [5ef1d5546931a0d4fd192a1791bd6e1bd9530e465ed7941d2eef9ec5a6dc8430]
+│   ├── t7.vxe [784a18e74214c887c115d50e164a45dfa84be870f71be60cf431733188774e95]
+│   ├── t9.vom [0d86f8ce2445b2623e17f5fbe30b06b855dcb6289b1bfa815603140c6a784a9c]
+│   └── trace.vxe [0158d66145cce56cd3660ec400f7a1735f0197ccd6a1a7e1faf761aeb212b073]
 ├── 4608
-│   ├── debug.vxe
-│   ├── grep.vom
-│   ├── krile.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t7.vxe
-│   ├── t9.vom
-│   └── trace.vxe
+│   ├── debug.vxe [56437a340845efedd9f15c377d587466adb61619821b1012c8b9edf68c649fe7]
+│   ├── grep.vom [70a2be68ec920c4f64cfe3336f0e19f5b960ee7b8267b5e44bfeed733c3afc02]
+│   ├── krile.vxe [04922d23ef0c3415ad1d66b176734b4afbf04154839eebf45d54c03909114739]
+│   ├── t1.vom [c62e751014fe91cb85bb249ceac3a57b50e3c71fdaa235b47caf67040412e541]
+│   ├── t1.vxe [03de82aa36077561bf661faa18de1e9673857dea68ccc835ca25bc55ba68de3e]
+│   ├── t10.vom [42f655d0f6c1285fd1bd396d349ba9526da4c2090044b6f08ab1159e52df11df]
+│   ├── t2.vom [a730b757f73cdc0efec769eed8ab94298fe96096779732380e917e81c2f4efe9]
+│   ├── t7.vxe [5c56e9cc83cbb262b6a8437c8b162eb9d803f7121ee85d6263bf5a9d8e5f6543]
+│   ├── t9.vom [79cab40ea736b7986ea977337b92cf8981a71cc7822855c77686227eb19e6d1d]
+│   └── trace.vxe [8550d4f91dbe86920c11bacdd657e5b9bc476f99f2cd524830613940f6af1eac]
 ├── 4768
-│   └── virus.dos.hllp.krile.4768
+│   └── virus.dos.hllp.krile.4768 [f5debf7fee05d036c53b3abf0df8e036f849ee199b88e7338e8fe93cdfe1c0c8]
 ├── 5017
-│   └── Virus.DOS.HLLP.Krile.5017
+│   └── Virus.DOS.HLLP.Krile.5017 [fe78722ab7e25c10f19859d1f64494fa6a32f36c03efa85d2a30ce0ecb8b0560]
 ├── 5127
-│   └── virus.dos.hllp.creeper.5127
+│   └── virus.dos.hllp.creeper.5127 [d6e67546c561fada4e75f83919e96ce74371221fe5be595390eced40f231b6c2]
 ├── 5209
-│   └── virus.dos.hllp.creed.5209
+│   └── virus.dos.hllp.creed.5209 [ebcb983b49fd35932ad5513d2b95b61594b743985a0e2315fa303f47d7963d00]
 ├── 5504
-│   ├── debug.vxe
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── krile.vxe
-│   ├── t10.vom
-│   ├── t7.vxe
-│   ├── t9.vom
-│   └── trace.vxe
+│   ├── debug.vxe [3c02fd9df3fc8fff40da346547e5e08b80ebbb1a2c1d67d1a641dea8ef06263e]
+│   ├── grep.vom [8a1c8c9c8e229f4f5dfd431ac674282ec3fa31d50445a4f087fd7b415df0f1c3]
+│   ├── keyb.vom [3adfc714738c4790aeb66a5b42d06863815a642dd0c718b96ebf6d0993fcd9fd]
+│   ├── krile.vxe [662e1208248feff57f9b9995350cbe0f60cc49d6755912020fca553e922034e4]
+│   ├── t10.vom [5c60ec7f66b84659a7c6ab1593baf314e2ccca2419eed84a122867d9458342bd]
+│   ├── t7.vxe [39babf2159bba35c250680ff6efb0e10946de733e453af950ad213f31337959e]
+│   ├── t9.vom [db2ddf19be6c1a269ce020b4e9e6d187cafe3c7a7f07a36efe002a26bf328c09]
+│   └── trace.vxe [075f5a99cc77d73a65d3baf4c497f36755e9f5bb7babecee1edda89c30495267]
 ├── 5696
 │   ├── a
-│   │   └── virus.dos.hllp.krile.5696.b
+│   │   └── virus.dos.hllp.krile.5696.b [1e64680231505058e6fff62488853e837fd73f1ba322787834fd5849b5c1ac75]
 │   └── b
-│       ├── abadbs.vxe
-│       ├── keyb.vom
-│       ├── krile.vxe
-│       ├── t10.vom
-│       ├── t7.vxe
-│       ├── t9.vom
-│       └── trace.vxe
+│       ├── abadbs.vxe [63f5eed177341eecbc8c3fd6c773d8824b5339019049194da39caf6902e68d22]
+│       ├── keyb.vom [698d83a3b222063549871d23eabc0f252467fbcc338a1e7c2d5b4d1ff4d340bc]
+│       ├── krile.vxe [b84c085d826ca022274af9eb08536ac889be23abb886f432cf009b71e1d2244c]
+│       ├── t10.vom [001362f1ddfe446135d9ed06adbb29ce10f4124c119ecbb79e3ec6313aca20b1]
+│       ├── t7.vxe [77d8e485c3881376a5b3438f288b35f8fbf0476618dc90f01d5cea062c40a9f9]
+│       ├── t9.vom [e8f1f9302ca3005e7174e986efe75c1623f941cdc590bca4ffce11b25f746c8a]
+│       └── trace.vxe [1c4106e4462552cdba43179ab3efd6a9b6344a973fdcd7b08529205d9dffa4bb]
 ├── 5744
-│   ├── antichek.vxe
-│   ├── baitaac.vxe
-│   ├── debug.vxe
-│   ├── keyb.vom
-│   ├── t10.vom
-│   ├── t7.vxe
-│   └── t9.vom
+│   ├── antichek.vxe [633a896c2f2fb5c7c95d8fad63e1fadf5299e2a30922ca4c8a13f4de23117da6]
+│   ├── baitaac.vxe [48dfe4876eb9d01d69488237cc997b3e71280a58d2efe19ca3d2aa96858e6e11]
+│   ├── debug.vxe [e18ea563969964fbd0030db6db953cae11082798428a275b820541e582e4f0e3]
+│   ├── keyb.vom [b722cab23c9b58e2c54dfbb623db117aba9bd4392916bdf47fa86e6416763e24]
+│   ├── t10.vom [e322451b0bd44254c19c54f143a4305f0fa719522b7811a2eba5571caf8e1423]
+│   ├── t7.vxe [c8e556e7b5e0f2b475ace58fdec79904309a4237fca4ab3182473ff74bb22863]
+│   └── t9.vom [10d09b65ece03f153241cab20d722d68fbd43ba58bba2c43da3a7759fc819585]
 ├── 5762
-│   ├── krile.vxe
-│   ├── t10.vom
-│   ├── t7.vxe
-│   ├── t9.vom
-│   └── trace.vxe
+│   ├── krile.vxe [db52e539360ff0bc5144d97ed4ac98b55ae83087b704aa82a96a0bebdb213ae1]
+│   ├── t10.vom [623e6865c0607da3aba2ff5268017cef323cd1d316a47feb51e2294c2b5f71fa]
+│   ├── t7.vxe [bd6c74273600785e79c5f720162f4820045763c49fa83f273fe3aec1df32f6be]
+│   ├── t9.vom [366c439fc24c88bd3bf1a078a630ce3f0f6324bac8a8911da15baadcccd424ee]
+│   └── trace.vxe [ab297c8556a5272944fb9d02fa0e39c1ad6c2ae3ae701964f8c549ae3642efb4]
 ├── 5776
-│   └── virus.dos.hllp.krile.5776
+│   └── virus.dos.hllp.krile.5776 [41d6ebcde19a4bc465f9b0391dfe73e3d1d823d8a0e5693956f199ae9d6e2999]
 ├── 5831
-│   ├── debug.vxe
-│   ├── krile.vxe
-│   ├── t10.vom
-│   ├── t7.vxe
-│   ├── t9.vom
-│   └── trace.vxe
+│   ├── debug.vxe [9abb1eae5d2b42ff5901c158ea98eb1b46607cc29ba93d4410847aff0dd2baaf]
+│   ├── krile.vxe [10637d3399bb8b946302e54ab651d772a824316e2b42903dd66967c8f6caf6ae]
+│   ├── t10.vom [d99f210cce7199e11afebb0e72563c4764f6250f25333960bbc9e3f2c4f64e93]
+│   ├── t7.vxe [48fe97b8767c537b425503d70f8c60bb0ec09afb1a0b35744a3e16cf88729948]
+│   ├── t9.vom [9f13ecbcf1a5d74b5f6bc9b807c7d94e74f10cdcf017c9234ce299adbeaff551]
+│   └── trace.vxe [71ef93809e1543d2613380b158258cabb093d96e4846df2105094139f6316a7a]
 ├── 5864
-│   └── virus.dos.hllp.krile.5864
+│   └── virus.dos.hllp.krile.5864 [4c91f8ab58bc40b1e33b69fb1d2626994d9ae8d0ecd5c21f401e6ac03f38a516]
 └── 5880
-    ├── grep.vom
-    ├── kril5880.vom
-    ├── kril5880.vxe
-    ├── krile.vxe
-    ├── t10.vom
-    ├── t7.vxe
-    ├── t9.vom
-    ├── tf.vom
-    ├── tf.vxe
-    └── trace.vxe
+    ├── grep.vom [91d83183c21786323f17522abfd93fa46d8d9c12973d28201675e3353650a235]
+    ├── kril5880.vom [3e3ea229c374e6f9b3e40e5243b7a35b36466bde7c6e68bc410f37b5905a07b4]
+    ├── kril5880.vxe [2e25773c73af1323373bee2d8b40d302492701254867cc22048b53b08f4cec3b]
+    ├── krile.vxe [92eb503729bf1b30bacab4efbc52f5f981cf780a01fb77c6d73eb84c2da4809f]
+    ├── t10.vom [8146618f2ff48454544e59f22ed1fbe6672053714a1bdedfc860a9a182ee096b]
+    ├── t7.vxe [288e5f9aa365a3347a3341ba44f998690e4c64d8e1ca71e67012321daeae218e]
+    ├── t9.vom [ac7fbc2a10496d04fd4031b0e87c081975eb842fc6cf8bef3345c59d50100249]
+    ├── tf.vom [a1b66258b0bd9096b67fdc4da4b6ad7d0d86651f1ee29d8f8138796ff607f1e4]
+    ├── tf.vxe [fdfded05f889bd5bacd75477d2d1ea800f6e1cf975006a8e47a457647ea2e7ca]
+    └── trace.vxe [00c3d9ef7543f73fa98b56fa4a1964a8610115d9779d708f29172837b06e66ad]
 ```

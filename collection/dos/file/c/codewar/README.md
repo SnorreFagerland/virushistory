@@ -3,28 +3,28 @@
 
 ```
 ├── b
-│   ├── are32048.vom
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t7.vxe
-│   ├── t9.vom
-│   └── trace.vxe
+│   ├── are32048.vom [85c00a92ef00f2bbeece474d08677dfd157f7814869c489c3c6411fc2d724061]
+│   ├── grep.vom [b833e2a285d3782a67f26a89aa8fe013e0e9531c527771f18ecc392d8b916ebc]
+│   ├── keyb.vom [3cc8fcb415492a2ce60cab9f2c06844467dac9b6fa2e4075ff434ecc71196148]
+│   ├── t1.vom [53f7a2b2ca9b4e1f48d5ea06f55a61cebd47fb35af604e90a79416434152a416]
+│   ├── t1.vxe [d96aae3bfb20b405ef35a6992d7413db9a35fc8bb647a48aebc60c196b1fff47]
+│   ├── t10.vom [3f3458552271b9cc679d848282ef7f753034a5255e146f29c613962aa0cf74e4]
+│   ├── t2.vom [50262d187e8bffc02fc5b68ba5270b62e681dce6d39a2124a06f928eee41107b]
+│   ├── t2.vxe [133e4acd6a8ad4268dc9f6d8bb173c0c21a54585b52d8e35cb6cc55521815d67]
+│   ├── t7.vxe [a5fa6c937d96d1e5e6c6bbdd6c092bf10ab881c80787248411df13606039c68e]
+│   ├── t9.vom [6a3db246adf1cda72f636735194ac84de51da15e667eadaaa3aaafec2fe867c1]
+│   └── trace.vxe [6f8032ac6f73892452184c875d1a64df57849e7669d8504e99de066d65884fee]
 └── c
-    ├── debug.vxe
-    ├── grep.vom
-    ├── keyb.vom
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t10.vom
-    ├── t2.vom
-    ├── t2.vxe
-    ├── t7.vxe
-    ├── t9.vom
-    ├── trace.vxe
-    └── wci0271a.vom
+    ├── debug.vxe [2f7d3f4acb926e50617c442a31c59177592cf384c5de8237d7dbb33c2b864d92]
+    ├── grep.vom [74161394fdab10a87d9a209ed5ab8201c03b93ab8b771c8cf37738fb7c3fbbb9]
+    ├── keyb.vom [2d51462b9ebeadb4d4bec48e6ce3be9a33d88ace17d1255438175151929648b7]
+    ├── t1.vom [48761428c67ff848dae0078f7fb8f02e2a2dca1701c5e090557ed9ec058d9c0a]
+    ├── t1.vxe [d698d826decc7fe1c113dcee669d9664235c924eb8385bbbf3154dc884fd6c64]
+    ├── t10.vom [fe082ed99802097b6b7577e621ddbe6082d0e1a7168fdb6a2c6f90a061dcba8f]
+    ├── t2.vom [600fe07a07f138d93b106a0202d44061b3d5d722aceb0e3485e5975d4b30b545]
+    ├── t2.vxe [35aa9f0fb1ccceeffb765cd31664fca440d031af12af97ee064bdb93f737a4d0]
+    ├── t7.vxe [0d6f5c580b27a706f1306986d66d9455bf4a1cdf6ac198060e0bb1e25e99ac83]
+    ├── t9.vom [3ffc6c2bcd6d73f2a1ccbadd02cd4384ad3419bb1f0d124a40559633b77649a7]
+    ├── trace.vxe [c4f4bdb516169ccabf602e5fd874cde57f590a33bfa5885c243dcb6766266997]
+    └── wci0271a.vom [514f394610bde96f4c1d1c0a11011c0427edb120fa9ef422651607f3b84f90af]
 ```

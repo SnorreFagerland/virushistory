@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   ├── src-315.vom
-│   ├── t7.vom
-│   └── tf.vom
+│   ├── src-315.vom [f382e140316c9833433f910a369b766defe99a7d487b1bd9b78db558de7ec551]
+│   ├── t7.vom [385667dd7c383f9be1318cf77428fd86727085d16b02c4231f810f7674aa6a82]
+│   └── tf.vom [ad71b645038fe158a18fd2f39dcc0beb2815324c20488383a441a8196a4c8f65]
 └── b
-    ├── t1.vom
-    ├── t3.vom
-    └── virus.dos.sillyc.315.b
+    ├── t1.vom [1062a1e414471eb47ab85230e12603fd6afae3a94b40e52d589756e7328adda3]
+    ├── t3.vom [9dc031efc99b10cd22c97ba8c756a26e18268e0a446c58ce414664e5180460b8]
+    └── virus.dos.sillyc.315.b [f8cd998d0319026b6213bf48802425f9106f3ea82b61e0ef07c1584d949e826f]
 ```

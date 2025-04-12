@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   ├── gyorgyi.vom
-│   ├── t1.vom
-│   ├── t2.vxe
-│   ├── t6.vom
-│   └── t6.vxe
+│   ├── gyorgyi.vom [5ff6de2de313ee44e15ac986e8ad30f554c6d49b1ae2167b17c62e2e7761ec13]
+│   ├── t1.vom [908b7df51cf64eb84594d9a3d351623882c175e0e6045b0d3caf41099d242241]
+│   ├── t2.vxe [c281ee179c6835f839773b6d19e03d7eae76e1df88d114c9e4d0d5e60481ebf5]
+│   ├── t6.vom [59ee222864c63b90d88908275459df06880f810ad37edd671c1aaa21380512ae]
+│   └── t6.vxe [db0da30d49f5eff828005c27a63184ba348285ab32ded7e6c11a43e44f887854]
 └── b
-    ├── bandit.vom
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t5.vom
-    └── t5.vxe
+    ├── bandit.vom [7f5e88d2eee554ba4b74c3a246b2b9bcf0efff7fae4b8d153cd254c2204e1b85]
+    ├── t1.vom [d9d22794bd21a57a9ac2b937f3c77b0822442fd8c7e2525bea26384686e64d85]
+    ├── t1.vxe [77d51c81c6966b700f0701671bb79175f00d1859c565d5a3322d58d2c8277b52]
+    ├── t5.vom [a2864f2549a86f74ecf631a16ab2f00b46fb71ccfdacb224a474783b41ab8e65]
+    └── t5.vxe [b60700b790804fc61f58a35448d0a2d1540bf1a61e23c619c32950220e548a4e]
 ```

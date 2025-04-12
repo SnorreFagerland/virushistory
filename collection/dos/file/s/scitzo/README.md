@@ -3,21 +3,21 @@
 
 ```
 ├── 1264
-│   ├── scit1264.vom
-│   ├── scit1264.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   └── wci0038s.vom
+│   ├── scit1264.vom [d4385236da080e04dd3dc2b73166afa271b03fdfe62529ab7eff20d96e1da32b]
+│   ├── scit1264.vxe [d2f669d2033d9677adbc760ce41237ed9c4f2e2deea05028a587c62295f39967]
+│   ├── t1.vom [a3abdf351dab074a0d744db654168592328e0d166ed9451db6787097146caff5]
+│   ├── t1.vxe [991f0dcfb52b79995571f85bcffe40d546dbf96690cc96fd781a8f0385539015]
+│   ├── t2.vom [3ad4ad4ec27e050f3d267c730ded30aacba498bcd9bc9560300610618c1f6d79]
+│   ├── t2.vxe [16088983b9f702b3fad3aa9784d687aca5cc695fe67c7c18cf0426f6a93b090c]
+│   └── wci0038s.vom [b4212ca8bb18404c649c06ada53210a4960b4b62aa658e9c935bb76a37f92027]
 ├── 1285
-│   ├── scitzo.vom
-│   └── scitzo1.vom
+│   ├── scitzo.vom [500ccb66368c2c7cf55fb6ea2895c0e4de09fd77930d5a9aec221dbc9c46c280]
+│   └── scitzo1.vom [ba2f1ffe28e25b9c45472b9ae36bc6db40a1947c2e8600b408ca234cc1155ce9]
 ├── 1329
-│   ├── scit1329.vom
-│   ├── scitz0.vom
-│   └── scitzo.vom
+│   ├── scit1329.vom [d2bcd96612bd88ad9c713f70c39c844a8a08c34b31782e495be7e790cf75f184]
+│   ├── scitz0.vom [980cb2858aee2febc4a2de381a096fd94d2f5c98022d9de042aadb33ad97ac9b]
+│   └── scitzo.vom [77a06018727fbeeb108d18a7be90d2488caffe82ef180b1feb7893b60fe43e9b]
 └── 1337
-    ├── scit1337.vom
-    └── scitzo.vom
+    ├── scit1337.vom [a8d290f1e75e1a2ed967bc6a8b456b4ad7a3dc38512ca5f87763c0e30c884777]
+    └── scitzo.vom [b49b833898742c8cd2801801826ddd21f468d6bddbc9e366ed85ee8989244df0]
 ```

@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   ├── stryke.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── t7.vom
+│   ├── stryke.vom [f3660d21fed686c9668db608f9a50d24c8b801dcf982afbf227f7d9eaa4a0140]
+│   ├── t1.vom [96add40c0dc5dc478491fa6a376d8be6e4347dd35598b2472224988d05590240]
+│   ├── t3.vom [49e7e9e95a9e007e4e0184d6bc39733949427bfdf28a834aebc2edcd35e9dd61]
+│   ├── t5.vom [9e653825b643be64316c8f548a19be5582467539a641d4b08ae1796b0763ba0f]
+│   └── t7.vom [40223b9b142859146a2a44b86e1281045f57d8255ff4f59e670e2e5fe85c8912]
 └── b
-    └── virus.dos.stryke.261
+    └── virus.dos.stryke.261 [2702fc24a37d5b60cb8cc2cb624238073508d45e0992e795727f89ef99728251]
 ```

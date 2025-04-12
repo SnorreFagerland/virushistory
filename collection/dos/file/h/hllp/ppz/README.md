@@ -3,11 +3,11 @@
 
 ```
 ├── 8514
-│   └── Virus.DOS.HLLP.PPZ.8514
+│   └── Virus.DOS.HLLP.PPZ.8514 [7e987a2b9a723f87d2f398e00ec645e1674bdafb0d65233d8313680ac4404e50]
 ├── 8515
-│   └── Virus.DOS.HLLP.PPZ.8515
+│   └── Virus.DOS.HLLP.PPZ.8515 [cf379e2946ce30ddfac5a59457d9f4d13278a7f34722f30158a284e9026d1c7d]
 └── 8586
-    ├── hllp_858-001.vxe
-    ├── hllp_858-002.vxe
-    └── hllp_858.vxe
+    ├── hllp_858-001.vxe [801b83dd3dcc027f311a846a1587951bee2975a7af147d91e8b1371763dcef34]
+    ├── hllp_858-002.vxe [98df3eb44e1f9863ceae0bc1f31231cc2518bdfbc2e7e4afec3e32b40e30e8ec]
+    └── hllp_858.vxe [1b2ee3d70ccc5479107749651fc3c4c67782504ab7674ff14978381a7c3c9bfc]
 ```

@@ -3,59 +3,59 @@
 
 ```
 ├── 378
-│   └── 378.vom
+│   └── 378.vom [c413ff7e9129194593da214df7608c399eeec1687b8bc7f4ffe97f46a9869034]
 ├── 460
 │   ├── a
-│   │   ├── hi-460.vxe
-│   │   ├── hi.vxe
-│   │   ├── hi460.vxe
-│   │   ├── hi460~1.vom
-│   │   ├── hi460~1.vxe
-│   │   └── hivirus.vxe
+│   │   ├── hi-460.vxe [2f9e1cb87fe049f80b49375d25c8726656771233267b718532f73a27d39851de]
+│   │   ├── hi.vxe [c77c5015604833881f5f65caeead817430e6e3db7535a5f42651be19db95b489]
+│   │   ├── hi460.vxe [bf92b7419bd6e45992c9cc1c38a9c379e8aa94995471a9de724c3853e575bc77]
+│   │   ├── hi460~1.vom [535a0a62e62fe2da36669bfdc1f0e53e661dd14c353c6c351848206a4d0799b3]
+│   │   ├── hi460~1.vxe [959ecf5304e7504db7a5c2d51e7a3b1f6350e9b8a4996b26ba796ead9c4412ba]
+│   │   └── hivirus.vxe [4bf54dd61897ef252e9818cc6d187f131931271ce82bf47f0a3f6311459d22c1]
 │   └── b
-│       └── virus.dos.hi.460.b
+│       └── virus.dos.hi.460.b [059020f8dd209dc74dbf865446f54291e7630306a9c1b5d6b6032afec240eea6]
 ├── 468
-│   ├── hi468.vom
-│   ├── t7.vom
-│   └── tf.vom
+│   ├── hi468.vom [c639966e91cdd55b13b71cc145fcab5ed4e5da9bf9ac394c1cb64422063ce4b6]
+│   ├── t7.vom [c690e61d8b8110209ac90296d4fa0d386975e0934527deb8d8f3a766d70a198d]
+│   └── tf.vom [31accaacecd10283245034c034d4b4641c8d1ef0be180645bf225cd6bc7dda84]
 ├── 512
-│   └── hi-512.vxe
+│   └── hi-512.vxe [7d5b4607252e3b3272eded425f3f220a76d3be8aca4da017ed65e1216f5be110]
 ├── 671
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   └── virus.dos.hi.671
+│   ├── t1.vxe [2bd4deb0995382f369e704cb9a59219dfcca3983624abf185fb07611b5223719]
+│   ├── t3.vxe [226417796fbf28a8cf1cee31a18c4a5a2274e71737286e0e0a3555883f18075b]
+│   └── virus.dos.hi.671 [8ba4417e77e24809381ae38fb8c93e4746ce8612e57d708016a49383661177c7]
 ├── 680
-│   └── hi-680.vxe
+│   └── hi-680.vxe [98e7e17cca5b99bb503efddbaf36f88e465921e2e5a092940eb53467a165b8ca]
 ├── 764
-│   ├── hi-764.vxe
-│   └── rav-764.vxe
+│   ├── hi-764.vxe [b93f3308cea15a012df0e71aba3f51714f447bc80e48169bd0823d527a615ada]
+│   └── rav-764.vxe [8ac2eed99ec204fb3b97bde46f7352b6e5626960ec0da255d8f9c404884d6601]
 ├── 802
-│   └── wci0090h.vxe
+│   └── wci0090h.vxe [ddb1115e3d4f6ce43bb89ac289f809f86d53be5a417836295e526dff9269faac]
 ├── 833
 │   ├── a
-│   │   └── hi-833.vxe
+│   │   └── hi-833.vxe [db943f932983d7303e4298b9f5f26f8e8c81d1c70bf0a227432b151a6b92be63]
 │   └── b
-│       ├── t1.vxe
-│       ├── t3.vxe
-│       ├── t5.vxe
-│       └── wci05023.vxe
+│       ├── t1.vxe [c8c8b06a193791e69437f58f7a6fa79c3c54063e6204fbba4b04f1f4c0c16084]
+│       ├── t3.vxe [a2341f79b89864a9d0bc14f442c5d15e10135e5538053ca051891d4730c1a40a]
+│       ├── t5.vxe [6f47ecffcf909fbd780851d1048179e30a2760d074a08f2c9144ca8eed73b6b9]
+│       └── wci05023.vxe [84492d26906687707484bc2a98072d9ca869d39703ea7c503bde2afbf22168b6]
 ├── 892
 │   ├── a
-│   │   ├── hi892a.vxe
-│   │   ├── t1.vxe
-│   │   ├── t3.vxe
-│   │   ├── t5.vxe
-│   │   └── t7.vxe
+│   │   ├── hi892a.vxe [58111ceaf1ce03638d53a328476319af2760a870c3c95d276145dfd65401d479]
+│   │   ├── t1.vxe [0561a1e759820a5a07e17e652008b4af1d2dd5aaee10d6eacc8f97fa4ba38a1f]
+│   │   ├── t3.vxe [697fed37163271b4bb849dbe7679cac217826d3d1f81684e1a10fd0529e8ad38]
+│   │   ├── t5.vxe [6f99b50a9223e813b86b6d025ea8f9a879d507057b1c4c1af42108cf10417688]
+│   │   └── t7.vxe [cd7de624c32cb8a1f62a30a79c8252755778d4a9bdc1d16cfad3e822728c3015]
 │   ├── b
-│   │   └── hi-892.vxe
+│   │   └── hi-892.vxe [047197b13f0483bf31907e773e9f1aa278befbfb9a79ab5830d9950c686095dc]
 │   └── c
-│       ├── t1.vxe
-│       ├── t3.vxe
-│       ├── t5.vxe
-│       └── wci05033.vxe
+│       ├── t1.vxe [d9926e03793b36d0d074488f1bb2c32d8c4df167e8ca00a032f72a93e807cb5b]
+│       ├── t3.vxe [23a0c1f9c2711db5ce8ea6fe537f7414d038cc7353676c6fb2b9f360f7e7187b]
+│       ├── t5.vxe [3a458fee9036081c8e2cfebe8f031ef8d6b83d383c56c8da136295df7670f8d3]
+│       └── wci05033.vxe [da2a7e15cb7bd7452b718a51ebad469adbfaebd9aea21a91f7ca849a7fb52ac0]
 └── 895
-    ├── capcana1.vom
-    ├── capcana1.vxe
-    ├── hi-895.vxe
-    └── ncm.vxe
+    ├── capcana1.vom [63ab2b9245359ceb775dc3cfb6dd0c1947f06edb91fb65688e8d2edb253138f5]
+    ├── capcana1.vxe [56df6b81122ef8f0727e0c6f0d440981c1c562c045d7d1b8f1bd05497de58afa]
+    ├── hi-895.vxe [3be84cf24bca0f0d67c4a4f7fdbdfe15cd9aa1d0f4bfdbe71d7e21d54be39bf7]
+    └── ncm.vxe [feee4344c2294ef434bf660f7ffbadc4cbcf9296c5b81139ac97ebeeae94a684]
 ```

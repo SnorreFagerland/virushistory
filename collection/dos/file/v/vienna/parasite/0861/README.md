@@ -3,20 +3,20 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── v-m1-861.vom
+│   ├── t1.vom [bec6f7bcc1c9e05c1d1deae208a222120b79d1e7caddb98fef15bd36fa1c7cdf]
+│   ├── t2.vom [62415743cbf3197d028e4486ed17b6857b769ede65513699397b47a2def37802]
+│   ├── t3.vom [1ceadb4e61bd6cf6759d6960cdec92473b83ac80aa77abcc63c2d2cbdd34fde6]
+│   ├── t4.vom [fa008787f0d331571a120ca5c47d191a3ebbd5d6456190b873a557375511a29f]
+│   ├── t5.vom [857bc9105ae2ac47a5da4121c86a777fb2e998ddef1f19fffad7d987cf4aee82]
+│   ├── t7.vom [fe092ff5ce1239e144e562e3d9227f604fb36894949ce8018f88176909a58e4e]
+│   └── v-m1-861.vom [e297b1f20ba29be8bd0812fcac0b1b1bb35f2574226323e094019861bca2fd87]
 └── b
-    ├── parsit2b.vom
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t7.vom
-    └── test2.vom
+    ├── parsit2b.vom [53ec1da717b21cc4814c4dde74662380982314d1cee5643c998637233bac3a9a]
+    ├── t1.vom [dcb617e15e7f255c7f4dcf885fcde6ec21a20ff09b676e5c2386d439a4dd108c]
+    ├── t2.vom [075d6e53a189898fdf100b6c82957f53aa2ad6cf25a71f3cc89af1fbcb857a4c]
+    ├── t3.vom [4d8a7526f346ed8bf3a5fbee32d344a94a4b45a31ef35102c991c85f492d4871]
+    ├── t4.vom [0b0a99fec275d134279418196ccbc045557d298650ccdd7b5adaf3a6f286dd11]
+    ├── t5.vom [b6a17ce16380857bcd90388a699bc002ea417dbc619fdce416f69ec0a97d8cea]
+    ├── t7.vom [b50385674d8c941e31abce772af0891ea9e55a6ccd035672898ec84fe55b660b]
+    └── test2.vom [e5236fb0a404dab8f5e7be3f183f7cb4313637dc70ef56df7597f45dd5dec903]
 ```

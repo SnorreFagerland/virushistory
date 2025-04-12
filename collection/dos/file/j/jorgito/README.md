@@ -3,21 +3,21 @@
 
 ```
 ├── 543
-│   ├── jorgi543.vxe
-│   ├── t7.vxe
-│   └── tf.vxe
+│   ├── jorgi543.vxe [5bbf05924b96a0ccfbd5c45630baaa5dc64734993e0a567f5058ea28080acfd0]
+│   ├── t7.vxe [c9b020d6c08306b81a914926deaa4b10535a613477ac641f9283e90d6bd4025d]
+│   └── tf.vxe [5a3e96b2e9efc0a346d06445193c63cb60b65c97dd5e4782e01659e0eb31e675]
 ├── 636
-│   └── virus.dos.jorgito.636
+│   └── virus.dos.jorgito.636 [921c475c15c65554629493b0fa38ceb58a655240dd30acddbf6fe4f5b82bd7d1]
 ├── 694
-│   └── virus.dos.jorgito.694
+│   └── virus.dos.jorgito.694 [af42bb88cb3495cd8ee84b6feea843b9d745758a43057cf234fbf9995c8969c7]
 ├── 721
-│   ├── jorgi721.vxe
-│   ├── t1.vxe
-│   └── t2.vxe
+│   ├── jorgi721.vxe [914d8988b1f0030349bb2259aea94a3b2dd477694e89992cef51efcc07a30b68]
+│   ├── t1.vxe [731e90048758dd7662f87df26947778c203fd4125b1f7b7d4d1a239140c9fa44]
+│   └── t2.vxe [6da305587256b14270fdeb69abb8ba1129dc2cdf038596590a14a06292950d0f]
 ├── 726
-│   ├── jorgi734.vxe
-│   ├── t1.vxe
-│   └── t2.vxe
+│   ├── jorgi734.vxe [45c42ce2962080c2a38dca258df6176b0a50b9da3786ddbe73124c914488c59e]
+│   ├── t1.vxe [19d56210dae525aadb2be0a13173740769a4cb1d2f290820ae6b8124cf3c6668]
+│   └── t2.vxe [f756e04c10f3c4fefd7145eaac8e4b3d043f769f7624a80b91a8a95daf9ef7af]
 └── 730
-    └── virus.dos.jorgito.730
+    └── virus.dos.jorgito.730 [5d819cc631a522bd6f7bd4254c1d969a9c595c796597cb9525f07d7f466303a2]
 ```

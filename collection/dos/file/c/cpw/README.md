@@ -4,41 +4,41 @@
 ```
 ├── 1395
 │   └── a
-│       └── virus.dos.cpw.1395
+│       └── virus.dos.cpw.1395 [bfc033b4225f9e9999e66bb901d84a2a38dcbf6a1c6b236b9ff04c4286feda2c]
 ├── 1457
 │   ├── a
-│   │   └── virus.dos.cpw.1457.a
+│   │   └── virus.dos.cpw.1457.a [3d06d373fb6cdc4cd32c343a53d82b2756ff6d3552d06c51b19aae6a2326bf24]
 │   └── b
-│       └── virus.dos.cpw.1457.b
+│       └── virus.dos.cpw.1457.b [1f0fb4ea3ac8ee3a2ba559c67774b651f910935f30042f353d5c4a7cd0fd85f0]
 ├── 1459
-│   ├── cpw1.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   └── t7.vom
+│   ├── cpw1.vom [9a8a8d6ea6b0ecca54f8fe7d7f6ab03ea1ff8ccbcc18c4c7d5229ace9343ce3f]
+│   ├── t1.vom [551f21788b0d4e6a1e59eb6816fb6fbd016c8ce5347c7ecfa5a036f01ac321a8]
+│   ├── t1.vxe [e0a377abe07cd07771200958883560774650d4ee0861aafdd6b7940ce91278d6]
+│   ├── t3.vom [874126852ec11d9a2216504985914ab32c44585121abdd15f0e4cc9818d667bd]
+│   ├── t3.vxe [a13114032ff894ac6662a834dab31a93da927f47777074fb8d1497f3c049ec1d]
+│   ├── t5.vom [aebbe9120d299cfef4be7fe7f26f8890e3ee13e5929d1834a0ff063b4beffd3a]
+│   ├── t5.vxe [596337815091d5d0781ce5ec2cc932c27ed3f36e6cc89de3d2a4fb36c00df405]
+│   └── t7.vom [58aefa29679010b2c86353f6b90697017513c2693d81733eb839386ce8813796]
 ├── 1460
-│   ├── cpw.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── cpw.vom [ea1587441c7f161d820c40beca94ba0476cdc9e4230d3c8e34d486d1ba5f8305]
+│   ├── t1.vom [0a220e14940139c935096fee63fba4ebac2165ae7fc67f847e8e370ca7c1cd51]
+│   ├── t1.vxe [3d97905d63575e47bb51d12b200a871406ddd510cdf79f4565b0725a8af2edfe]
+│   ├── t2.vom [ff22448c99203754d43b1be979735e2834a1116463cd00e7f6b47c0178930a72]
+│   ├── t3.vom [d5f4e6792fed3e7b8f1dbde29648ed3b2b74b2137fbd14ca061edbf8a23ace90]
+│   ├── t3.vxe [c329a8dc4930369cf0d4f91ccb58834c1a6296e4f543b650dc48d34235326ca9]
+│   ├── t4.vom [3115733d8742888af13917e2ca44c22b7f9d65c51ceb4ebc46b65f29ac0c0056]
+│   ├── t5.vom [ef024fde27f6a109891a71ead41d5c36479b3a2fa3daf5eb4de8a83d7c05a15d]
+│   ├── t5.vxe [12218ee7f4e9d3106b593391afa8db7a588bbdab7951c5fbe717235f4debbc51]
+│   ├── t6.vom [e8db155e764fc50439e9202f241cb61069ef66261575654c889eb7c96868411c]
+│   └── t7.vom [03c0e180cecf79b2976a4f2bc5d1eb9ea2cc0f39b798208671d3744d68790c08]
 └── 1527
-    ├── abadbs.vxe
-    ├── cpw-1527.vom
-    ├── cpw1527.vom
-    ├── debug.vxe
-    ├── fdisk.vxe
-    ├── keyb.vom
-    ├── lwm.vom
-    ├── mode.vom
-    └── more.vom
+    ├── abadbs.vxe [e056ac2dbc56af43d61543c9e8bb6bff2c388bf44aa28d1a86e18c674b9e40e0]
+    ├── cpw-1527.vom [a9c9ba8e69c804bf6cd59bf30fd115840c4d2537d58813b653edd4f396caf07b]
+    ├── cpw1527.vom [a22b71a623bdf0b7ae76ff2261cd57c5308cd91aa6364bddd209419890eb1d8f]
+    ├── debug.vxe [cdbbc8e18dd518305f4f4040a6af153ddd82a935ecd8197c00510b65accd848e]
+    ├── fdisk.vxe [272d12896fb4b68aac411ddcdfbea18997d0fe68bc719c2fd96609c68ccfd8b2]
+    ├── keyb.vom [38104faed1eedf205ecb20447427d70a55ab966a02b78ec17eca77728739ae90]
+    ├── lwm.vom [cfe1d6809ccc7b9fb8c9fcb21a3ba42d0c97c2600c4a8771afeecf5092251844]
+    ├── mode.vom [66a84f047fd2764ad2931a889088939d38d358286ab1b88a8b8186bcd1657ba7]
+    └── more.vom [6e7f9351f1d6eb74aa19b2cf2127a07f88ad100ff910d887551425712f29077b]
 ```

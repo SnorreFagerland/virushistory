@@ -3,20 +3,20 @@
 
 ```
 ├── a
-│   ├── imm353b.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   └── t5.vom
+│   ├── imm353b.vom [03e20b8f7d97a4d025f744c89f98e3e3f403314a9c490ea4aa5be1f8876490d2]
+│   ├── t1.vom [5f3385f6b60afcd8e851900e5645977d95bdaf3bf13cde63581d8207ca897d0e]
+│   ├── t2.vom [d5a2a13a61cc8bda53d5dd72c7cada3587adca8f6eaccdf46c9ae130f90348db]
+│   ├── t3.vom [96f8e8c8a6fe33d99e59fad7bef494fc0eb2a352786e3ad756cbc1df0c521050]
+│   ├── t4.vom [a8f5db225737dec0d3b53d03c739144d6bf9a50eb9dc228c63c42c4c0645fc8b]
+│   └── t5.vom [705c44e7c44ae1152d1f5af8e50986c66599be440bf64a4c2c5f9849b5353c2f]
 ├── b
-│   └── conjurer.vom
+│   └── conjurer.vom [0478b60e1691f3dd8c88c0b71024035a5c5e0581d319dce53db4aafbddac71bd]
 └── c
-    ├── imm353a.vom
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    └── t6.vom
+    ├── imm353a.vom [9db6ae5f02c875c8f7e9743e97e3c780a2744bd5512658b6c9f3ae8b94763384]
+    ├── t1.vom [c286cc62ccdc28cb55334368d65180e5344e787f560b83609012da7ada727c19]
+    ├── t2.vom [c6c7bd736586dad64fcf02bd271be134d4a0f1986b79147f185ff0339491bb41]
+    ├── t3.vom [38a8b78661bb43a86fe9ff6de5f760e833f800b7548fcdd047314d860a53bff4]
+    ├── t4.vom [135c213f56cfd9ed23c136fd71f653351933263134bf6670cc2d9be0c7797386]
+    ├── t5.vom [ca2dd2433b0e29f3a97d1af4d633dbfc017b9d568ea1e0719738436688311efa]
+    └── t6.vom [2591abb98e182a5d19cb50229b86e92cbe3c7e28c8af855940882af3f82e0f31]
 ```

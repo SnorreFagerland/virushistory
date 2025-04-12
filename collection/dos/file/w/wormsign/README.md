@@ -3,17 +3,17 @@
 
 ```
 ├── 1503
-│   ├── T6.vom
-│   ├── Virus.DOS.Sandworm.1503
-│   ├── t1.vom
-│   └── t3.vom
+│   ├── T6.vom [e3951df21b51384aa1462c3cb173a22f263d2eb8c05315dded721423bf9161c5]
+│   ├── Virus.DOS.Sandworm.1503 [d9845170404e392bd78d6905b32b14050306dda08725c7eb0931e68b93045065]
+│   ├── t1.vom [83ead1edee6580089ca9de99830943e1885d56abe81c7b2bc46d6bb9dac15b1f]
+│   └── t3.vom [c25e8295924b6df86fabd1ee69e7290826665b8d19495fa1029733a08b80d045]
 ├── 1511
-│   ├── Virus.DOS.Wormsign.1511
-│   ├── t1.vom
-│   └── t3.vom
+│   ├── Virus.DOS.Wormsign.1511 [f7b7861002ed1dc1707ecf18efd6bad1cfd6198d3df0151f45be9d8a2b728ca1]
+│   ├── t1.vom [cf96e22b7ec646d986c15ab91a7cd78555e5bcd8fe70919095fb4e4b1bfe106e]
+│   └── t3.vom [2715598c052f8a36da0c57a5596d0f31c8f5feabca409fc834a64fa4aeb97664]
 ├── 1572
-│   └── virus.dos.wormsign.1572
+│   └── virus.dos.wormsign.1572 [54c3889703df1012c8490b0781dcc495a8196301ad8e50086d7c6dc3c3e4bfcd]
 └── 1710
-    ├── A.vom
-    └── wci0079w.vom
+    ├── A.vom [0c37dd5c2f8778a79c42fceebc958349174becf2ca07e8679d28ebff831927ee]
+    └── wci0079w.vom [d48754bb967db4b1465011056a2a472e7cfd54a99347ddb7ee91ee3c7925e043]
 ```

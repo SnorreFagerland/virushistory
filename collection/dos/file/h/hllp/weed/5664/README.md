@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── wee5664.vom
-│   └── wee5664.vxe
+│   ├── t1.vom [4bf92c945ce76c052894e6b095f46593bbfcb5223070bdc35cca30309be8ad44]
+│   ├── t1.vxe [72bf8f9f9dc3133738d441adba85b14c99f4a5ba11f8c55ac5cb7d5c96bc3dfb]
+│   ├── t2.vxe [6c6d48f5336771fbe55ef9687eab67e503acc385555e42c9ea170e473ebf44a5]
+│   ├── wee5664.vom [995f875f6a7e9f4bf1df706bd29d7b677966b72ef297c54b23e6c88b9c4f67e9]
+│   └── wee5664.vxe [cbced478caabf594bb97a2b15c4878a98f98c0a1543545d2fe4f59a9b12ab8e9]
 └── b
-    ├── rustbug.vxe
-    ├── t10.vom
-    ├── t7.vxe
-    ├── t9.vom
-    └── trace.vxe
+    ├── rustbug.vxe [f465156502f6be58b35f284eea4599e648d3c527000b6ed68475d06ebb508f08]
+    ├── t10.vom [8e9aade5188b31769965a014e25aa1dd554cb07d85fd58c8921207117403057d]
+    ├── t7.vxe [0b0f9fff993b105eb8e546fc027a1268e42eb44d787f1f127ca536f080ca8351]
+    ├── t9.vom [a3c6ffb16b039b37ffd2dd478e41360fc0c6bb4207debe7a6b834b662e337f27]
+    └── trace.vxe [8d60e3a485d786402e5c148d04dcfced6911b0384ba8294ca90df131af9837e0]
 ```

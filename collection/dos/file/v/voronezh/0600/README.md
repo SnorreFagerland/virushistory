@@ -3,22 +3,22 @@
 
 ```
 ├── a
-│   ├── 0600a.vom
-│   ├── 0600b.vom
-│   ├── 600.vom
-│   ├── rc-600.vom
-│   ├── ussr-600.vom
-│   ├── ussr600.vom
-│   ├── ussr_600.vom
-│   ├── v-600.vom
-│   ├── v600.vom
-│   ├── vor0600a.vom
-│   ├── voro0600.vom
-│   ├── voro601.vom
-│   └── voron600.vom
+│   ├── 0600a.vom [907e79e181859436b40bde900c8c92f182767a4721bc497b5fbb1738b67821eb]
+│   ├── 0600b.vom [beda05fa52362f1c9dd8db584811fd47c14f5b6ee8fb4860e110afa1c973d7dd]
+│   ├── 600.vom [26653c6138a48eb2e7a035121e407daf0a9585de9f7c1d68b9673d0456b1bbda]
+│   ├── rc-600.vom [1f8f98297e5f6698f250c16975112b4c40adbe183c0db9a1e674f42a54073f9b]
+│   ├── ussr-600.vom [40d8284e97edec76020b544dd7902c4d4d59cb34e734c5c6cc272432b59ec1e9]
+│   ├── ussr600.vom [4733888fa660ac8b0b40b25f203f2fca10abeb8314a516c1dcc31f0097660e59]
+│   ├── ussr_600.vom [2c4d3758f9d690279f531d16f9903792778b915f29cfba49c9fe3a7ddb2ced6a]
+│   ├── v-600.vom [123ca6329807ec335fe91d616bc349bb971e4b9a9cc0b2c6c259c11d637f4d56]
+│   ├── v600.vom [aded5d88ed34300099292b6444ef547c644caf5ba408a2fddaa7606088b6029d]
+│   ├── vor0600a.vom [1a4391b56ee140dbc653bc1e4e72ad95a1ecd447bd9b45b391367704c4bd1e9d]
+│   ├── voro0600.vom [6fdb83fc58202af4c55ed88ffea39a6678672688becd3abe5480dcda782dece5]
+│   ├── voro601.vom [b5d5e97580eba0f3c6e0347900c80edbcc3f3d584b0babb9a7bdf930af8b0ff8]
+│   └── voron600.vom [78492b28b400744a9f8e378a3e849d6fca64ee96888086844fc4064b08b638c7]
 └── b
-    ├── t1.vom
-    ├── t3.vom
-    ├── t5.vom
-    └── voro600b.vom
+    ├── t1.vom [88963f498fea3b2f88dec6f20b27a9d14f6b0be7e58827cf57b23a62ed3c90b9]
+    ├── t3.vom [a1ddb8cce88db075a267fb2ed61ea77dd8cf1318c22a146b289a511e63956ef9]
+    ├── t5.vom [8e581e0d86187727b11bd849f54bad704958a0154bcc1781a67f2604bad6497e]
+    └── voro600b.vom [ddb279efa86e64e209d5d62720b9f9fcae5402aef7c573de2560dcc772c35f75]
 ```

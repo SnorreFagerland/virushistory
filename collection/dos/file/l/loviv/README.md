@@ -3,13 +3,13 @@
 
 ```
 ├── 600
-│   ├── 1-lov600.vom
-│   ├── 2-lov600.vom
-│   ├── 3-lov600.vom
-│   ├── 4-lov600.vom
-│   ├── loviv600.vom
-│   ├── t1.vom
-│   └── t2.vom
+│   ├── 1-lov600.vom [8b39204cdacb98227d6994515df83f4f382a76516debc6d1fde35d77415a0c88]
+│   ├── 2-lov600.vom [66214f9d59c9c3cbfc4c82a2495a940c35444c907aa5f5528d7c23b8c8d7466b]
+│   ├── 3-lov600.vom [c9a38463130e1dec5c03a31bb8b802879b92a0ee058878a24d879e67f57f7c59]
+│   ├── 4-lov600.vom [458d933d85ec7800a8a25af6eee7cc906b94a4683693b50442eebe7a7a76247a]
+│   ├── loviv600.vom [a503013959db2640571ba7dbf70aedf197073efcb39d5f13681698f30ed5573b]
+│   ├── t1.vom [2425c129f553bdf6f4a32678d17a52d2f7c8e6363587c7c08329b0c6f7655d26]
+│   └── t2.vom [3504b9f4b05b1e5e048caa040f6fa3fd0bdce5e3dbb5ac23450bc148b9859f46]
 └── 653
-    └── virus.dos.insane.653
+    └── virus.dos.insane.653 [42a3e6d31c24dd1e78625a48c290a9b1f6f71a2fe344de674801cce71d4265e8]
 ```

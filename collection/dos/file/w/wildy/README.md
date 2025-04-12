@@ -3,24 +3,24 @@
 
 ```
 ├── 354
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── wci0047w.vom
+│   ├── t1.vom [e97ef83e589cd32cbb4454d8511587f32eaca0490ab2b6d0c9d8267d199f20eb]
+│   ├── t3.vom [9a0e69a7b6509a879814abcd5834ece2099ead1432e0a04767f55d5e91b8408d]
+│   └── wci0047w.vom [94a09c74eb33821be8fd22ec11bcb9ec1a3cf9f7c260ef05149a6175694ec609]
 ├── 399
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── wci04853.vom
+│   ├── t1.vom [8cccef68707dd6aea765ee36ef31120d8fbd739fe4fee9fa84ff0d02e52f744d]
+│   ├── t3.vom [e1853a6bf30ee22a8c9e7cce97b7662bce37aa64a4198327c89a3518dfd6cc42]
+│   ├── t5.vom [7d01f01c41c190e1bd83f1373b3bc431f5182d079b99fea2cb37248d5ae29053]
+│   └── wci04853.vom [d3ce236f25e33010b84f3f27fcdcfa58c673b4d75ebc80bfb9a95f44719affaa]
 ├── 402
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── wci04813.vom
+│   ├── t1.vom [8998311643155aca0bc20fcfbcfa9786da11375c54413425190029dbfe62382b]
+│   ├── t3.vom [15d201fb46308e06f05257bd98e226e3f8fa18a986bf2752ea517456a42d3ea2]
+│   ├── t5.vom [fca9ebeb91ead35afca62c41d2f6bf811c39c9f3fb74dbeb942d56bada88a9bc]
+│   └── wci04813.vom [cfb083e2af7f71e4edcfad77bdfa0ce872ecfe4e646c85aab3c0346317130c04]
 ├── 421
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── wci04383.vom
+│   ├── t1.vom [52b2347514c44b96c5154c4757a45890ec216e4de869207fadc9bf1cad6deb3e]
+│   ├── t3.vom [2a346d8c7e4b8ea860a6dc13c9fdf7f01a0753c7604087134f52c18fc150c79f]
+│   ├── t5.vom [ce0a55d2303830bf668b9e5f6ffee1c81c70b3acaf90948ea3e2bd6fb5887363]
+│   └── wci04383.vom [706f3f2edc06d542def97f3480f4959776f5b3953fae773639f11b1d6de96a4c]
 └── 559
-    └── virus.dos.wildy.559
+    └── virus.dos.wildy.559 [a7b576231b517fe06823664697a1ddc6808e093ed3fc95ff080fcfbf5d50ca83]
 ```

@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   ├── eemvoor1.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── t7.vom
+│   ├── eemvoor1.vom [4ac50b743785e443f4171934f5c3823f2d9ab0b5e6a325264308b815ab4c725d]
+│   ├── t1.vom [0b056144f9516753b920ff9a8686f99d5f4c89baf3caadd6678f7be9fe039274]
+│   ├── t3.vom [a8c02387e023e508c7bd62d40c268aa12cdb7ceb469b7c36bd76d36d88e897bf]
+│   ├── t5.vom [ccb57b3c6cfa77a918e252e8f344233cd05cd78110250312bdfde8e214a7bcbb]
+│   └── t7.vom [eaac870534b13a2d3f38e3bfaf76613d84c1670c9627c086437277c54a5627ed]
 └── b
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t3.vom
-    ├── t3.vxe
-    ├── t5.vom
-    ├── t5.vxe
-    └── wci0131e.vom
+    ├── t1.vom [58bfa48769c0f9098a066d576fd0f0cc9395c881fad17ab8fd4e277e4f1af6af]
+    ├── t1.vxe [b938a064241665267216ec015f7338043836670bc9fda41d82b6a1a342fe4e8d]
+    ├── t3.vom [bfca58997fc6f32280da2994dbb3c13da80bb70f935bb50ce0d4420f51a011b2]
+    ├── t3.vxe [2a71cdbb06e9bd21e333434a7c33474b716f71b51f3afecda6b15e24b8c37400]
+    ├── t5.vom [f0727e823d8e48e6aba1cb557a042a5442d8697c9aa05b041b16a8da60ca50c2]
+    ├── t5.vxe [3c62077c368799e67068af2d8806def2b363e589102f30b0a85f72c6167087d2]
+    └── wci0131e.vom [408e098b6be4419001787258857ff66bc2dd574b49176b2af0f36e6f7b55b865]
 ```

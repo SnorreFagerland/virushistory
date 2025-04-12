@@ -3,30 +3,30 @@
 
 ```
 ├── a
-│   ├── !558.vom
-│   ├── !755.vom
-│   ├── 13312a.vom
-│   ├── 13312b.vom
-│   ├── aids.vom
-│   ├── dickles.vom
-│   ├── grep.vom
-│   ├── hllo-v.vom
-│   ├── keyb.vom
-│   ├── lwm.vom
-│   ├── no1-aids.vom
-│   └── t1.vom
+│   ├── !558.vom [f09db24d1d4f4cb4cc97a58dd4a647f282354571b4bea4395abfd5e450d252e6]
+│   ├── !755.vom [a5688f83c413a9797d16972c248a49fc5f075d88df45d24acd429bbb26ab5bb9]
+│   ├── 13312a.vom [c2d93ada26dbffd7fa795d795409bc636a0c826cff4349cfbf14d14b0f70a8db]
+│   ├── 13312b.vom [c006204aed323b2fb8e69a4f57755d9bb93efae7e32002e6920ea10d90a14351]
+│   ├── aids.vom [d896f0e5d0e23ae5eab6014db6950067bf48ff6ae12305fbd87e1f2bd239e733]
+│   ├── dickles.vom [b36014362ddaed50ad707b81457b06037c00376af7a12a7907342249a2855f75]
+│   ├── grep.vom [43838065b8410e5b50908b06e5f7c9c092185b689228aefdb5bcdf1474bcce51]
+│   ├── hllo-v.vom [7f7c060e493fa71c0cda80482d8a54437d9db15ac3bf5e917573b971e5f72270]
+│   ├── keyb.vom [5aecb9984ce71970c0e2e92d12d730d5329e4501d342ed73499892f858864a64]
+│   ├── lwm.vom [5a72cdc185569038bcb7db374040cd1bb6705bcb18dac09780399d01219b5ef0]
+│   ├── no1-aids.vom [c9456fcb6e7448612553f401f5188cba317b243d49c187c3f7c51923c26436d8]
+│   └── t1.vom [ff281500af0b8cd968a7ce7603d74fca2df4b8f9e12d374f00897ff8896e6975]
 ├── b
-│   ├── grep.vom
-│   ├── numaie0.vom
-│   ├── number1e.vom
-│   └── t1.vom
+│   ├── grep.vom [c5d03d74337df42d126c431a946fdc775f52ca0e7b1b2730e2379ef56d29da2d]
+│   ├── numaie0.vom [f77b45b6b518d8f2d9ebe5cf6b71a68be4fa257fa9fba2f8826bd81997079c73]
+│   ├── number1e.vom [53239abe66a17fb88dc604bdce608e7834082aeadff6e6637497181e88263c6f]
+│   └── t1.vom [b47c08e75f98f82202eaf687cc29e15501884cca4b704b4358bfb778d1bb90b6]
 ├── c
-│   ├── aids-sac.vom
-│   ├── keyb.vom
-│   ├── lwm.vom
-│   ├── no1fiis.vom
-│   ├── number~6.vom
-│   └── t1.vom
+│   ├── aids-sac.vom [1a496ff3b453841347f061f525db51a85e745dd7000e905fda5054261a59d64e]
+│   ├── keyb.vom [6cc9984a17befec20edec71cdb650a4feea7f7e6b67619862ced48844788d51f]
+│   ├── lwm.vom [bf56d4f54aea372f0b8ccc0d0d96b98f5fe2c824798e107d65a6967a2ec9d4b1]
+│   ├── no1fiis.vom [24fa33d657f58276e055d3763b6d6e7a862433cbf9a3adc33d18f66463e89719]
+│   ├── number~6.vom [3eeb797ae895f2e354a1cf0222b6185abe9cf65567f771b19101775ed0867f1b]
+│   └── t1.vom [43bf4c6d0fd9e135b187a94ab18181f05ba806fcf486c7b8d697401908cd534c]
 ├── d
 │   ├── 33eacffce06b57092971282b1ad60f2e6540dd24161d82871d4f2bc975c551fb
 │   └── 7ec7a50803a30a48af9c4cb97ffa30561a00e812e66385cec3aa1d1959e41a30

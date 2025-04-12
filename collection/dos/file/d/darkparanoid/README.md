@@ -3,28 +3,28 @@
 
 ```
 ├── a
-│   ├── paranoid.vom
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t5.vxe
-│   ├── t6.vxe
-│   └── trace.vxe
+│   ├── paranoid.vom [8a0c37b6c478ff2abf00ccf4b632e3d9c47313606cdfc62d43efb0be82218d5e]
+│   ├── t1.vxe [99568478a272ddfa3fd7d88b34985ce2e62cd699e528c9391bc127f634fe6eff]
+│   ├── t2.vxe [dbf836227cdcd59441aa9a795e27cc6d39ce9a29807fcc36cc772158ed9dbf32]
+│   ├── t3.vxe [da3381bd035473035eb2e392e566dd105a16684224e8c2b5af3b11977005efab]
+│   ├── t4.vxe [04ed6f5f1c476009ac6a72836a279c45ca32d24edcf40c39f390692adbdf5d83]
+│   ├── t5.vxe [0a5f803d6535554a021a47b24dd8da47e3cf4e785f6c262d31f553e5f1e69dc5]
+│   ├── t6.vxe [e7b27de711164d8f443e04e8bfaf2a787f2506c5130d1616b125a662928c9faf]
+│   └── trace.vxe [3d80aca41b3445234c7a9cee1949fa716d897ba86025a752fcdfb9d63b04ab83]
 ├── b
-│   ├── dark_par.vxe
-│   ├── darkpara.vom
-│   ├── m2.vxe
-│   ├── m3.vxe
-│   ├── m4.vxe
-│   ├── m5.vxe
-│   ├── m6.vxe
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t5.vxe
-│   └── t6.vxe
+│   ├── dark_par.vxe [a47b89152136b2e44be1c3d79e04965fb7ae3c43d69967924756ad671253f079]
+│   ├── darkpara.vom [b7822496e2a1f912a156feefa6b2aeb589a42f3b35810179794802172c1d9371]
+│   ├── m2.vxe [ccc7512cb21a7168223733bfafc1d9fe605da7d9ccaa97958461ad48e1dd4a3e]
+│   ├── m3.vxe [942deced8a24cbd361f43069cfe17447b803108cab5dcb360956def0efc18e04]
+│   ├── m4.vxe [fdc58cd759bd3beb636b34ccb13eb70f01fe7676fbe75fc5367bd05ece656a9c]
+│   ├── m5.vxe [794ca825eff536e5507835e89d5f8d476f8fe4bac4702d4bb2b8b6cd0575e731]
+│   ├── m6.vxe [60d1c458c0520cdc9c31c49f930fd970d5b4b389d0fd0b773dc655734fb2324e]
+│   ├── t1.vxe [2a76d562a4d0347fc08e0ef9bbaf17b6d004b13c773b5c2498721da1953829c1]
+│   ├── t2.vxe [d89379ad13b1902381fce1f9a554f1a2338e40a0fcdb21116143e356664eac93]
+│   ├── t3.vxe [45b2212b7f1a67ce55d9cd97e0e58064eac0aa1185eb42c8709212efe359b526]
+│   ├── t4.vxe [ae760b53ee8da45b1bc7f840986e6051e876f60ce2847df0c81b1cfd814cfb70]
+│   ├── t5.vxe [5f8dd83782b6e2d9f98fba7e10e19ecc387d3e5c869b481c8400a24f7f68692c]
+│   └── t6.vxe [d972ff30e270c939c8687e691d4ad02051bcdb06f5fc596ee068752af5d09a86]
 └── src
-    └── darkpara.asm
+    └── darkpara.asm [e8df5001211914362d8f144a2d26dbe5f829baccbf64c7ed7c3b52cfdafbfb74]
 ```

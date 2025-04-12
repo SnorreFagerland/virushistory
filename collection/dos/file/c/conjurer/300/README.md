@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   ├── c-con300.vom
-│   ├── conj-300.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── c-con300.vom [64507c1b4b59a35c606ca7a33bfb11c7992975e5aee26c9815d11da0df5bb5bd]
+│   ├── conj-300.vom [34bdc0b93ba106cfaca15381691765d3b8b1e39e27e169d022285aac03739d11]
+│   ├── t1.vom [e8846f9225ee2f4bb60de0734426356f374c8d24bb2280304ffbe9b4de0a4bcd]
+│   ├── t2.vom [b885a65b8cf6814da92377b5a3c67e30a3a33f32502597beb44d41493f6aa219]
+│   ├── t4.vom [c74877737821a578744723dc09ee7fb173e67660c46bdd22b531a055615557e2]
+│   ├── t5.vom [e102be3e519b31794ddb6634a0356e63a57df3103966fad13c7c67c476aacc47]
+│   └── t6.vom [f23a5c680926cc67e8db420e361a8736b55696e39ee08f838c10751ccfb5649b]
 └── b
-    ├── conj300a.vom
-    ├── t1.vom
-    ├── t2.vom
-    ├── t4.vom
-    ├── t5.vom
-    └── t6.vom
+    ├── conj300a.vom [aacb0e46a54287add54077e6e3f5be77e8032deee1df868e2bd04929233a33ad]
+    ├── t1.vom [e5d356d0a4476f82b98f5c3b84c4d0ebf1a4f56aaa68d04d4d858e5ddab56d72]
+    ├── t2.vom [a7f65d34ddb21c89ccfdc970fc4a2a45f62a8d4cfa5c5a986fd7558a3d8b218c]
+    ├── t4.vom [7b6c0500f63dd14df82beb2e423f3db218a74c67eccb5ca9200540d5c2e9b4c3]
+    ├── t5.vom [b870b4d35b2fbda2cbb1753cd4a267ce14a0ff3220264764c81f9f127e07b5b4]
+    └── t6.vom [fe637d07676ac2e25c5f073496d0fc09f938b25f89c2cf911a26a00004f84454]
 ```

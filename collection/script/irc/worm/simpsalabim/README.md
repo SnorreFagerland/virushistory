@@ -9,7 +9,7 @@
 │   ├── 68d3ddc3cc73892dcbebf823c64a17a788c81e38aa73ff5f3d02cffc99aba0fb
 │   └── 6c2ae9565b9e1ef3132ef03f8d9914502e76df77280f96915418a2a6316ffdeb
 ├── c
-│   └── IRC-Worm.IRC.Simpsalapim.c
+│   └── IRC-Worm.IRC.Simpsalapim.c [414d3106d3516e7b8d15f293cb5787df05d6175499b7285bbdd1edf1dd900a14]
 ├── d
 │   ├── 2be89dafd65cbc4cab63857d8791bd83707fbe2fd5cae71cdffe9325ecd61f3a
 │   └── 4d6ae21338b14d5ab2a1829d0cda8ef344e36112687e6242b5673ada3352b7a1
@@ -20,13 +20,13 @@
 ├── g
 │   └── 9a58487eefdf63cbd947913ad80887a9b329d4f1be2aae13b239b3a2840d7005
 ├── l
-│   └── IRC-Worm.IRC.Simpsalapim.l
+│   └── IRC-Worm.IRC.Simpsalapim.l [46170b39e2f2099630f4c905887dab4562cca8f0768e6a4e2bc1400f5e032604]
 ├── r
 │   └── bb72709fc13075c87dd9f44646b0c372acca9d989d9676e0bbcfb13b6ae5135c
 ├── t
-│   └── IRC-Worm.IRC.Simpsalapim.t
+│   └── IRC-Worm.IRC.Simpsalapim.t [884eefa8af4975b2cab0d8cfefa9adf0af5c0a10a1cef4081e09eb1ac787dbb2]
 ├── v
-│   └── IRC-Worm.IRC.Simpsalapim.v
+│   └── IRC-Worm.IRC.Simpsalapim.v [7e5e5054219401cf31b0b151ac117b3ddd3aea99db7b1ebe1b13ab784b50ac04]
 └── var
     ├── 1137b2afdef2ee07086ad1d5f324024b68e4b69422aedb94db9d3498e5350fcb
     ├── 395166c736b886061360165e1aecb742440df1a9b9013baa0407420d5c0c1e93

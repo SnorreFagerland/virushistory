@@ -2,19 +2,19 @@
 # Contents of `0860`
 
 ```
-├── 1-sea860.vom
-├── 1-sea860.vxe
-├── 2-sea860.vom
-├── 2-sea860.vxe
-├── 3-sea860.vom
-├── 3-sea860.vxe
-├── 4-sea860.vom
+├── 1-sea860.vom [2787d6664b04b67dd38245ac50159d93eeceea9d74123ac522b9b78bd14b780f]
+├── 1-sea860.vxe [12ee1d99f2c521e7e50a583bbcd69b74d12660337579a733f64bfac12aef8034]
+├── 2-sea860.vom [3778bd62990ea2568bbe4b1c5947524b2a85a03f38283e4064174615e50f80dd]
+├── 2-sea860.vxe [eac283e1a290657184a942246457a2bd89f695b6f9e1e992fe019d3320a79a22]
+├── 3-sea860.vom [d20325b48c8468118b981c83abf1244a35ec444c965f4f281b321e564d9b5080]
+├── 3-sea860.vxe [0fbdf6432d331650ee0173c6fb513fd9c2fcc4c2299be8a97bee0a534e43ab42]
+├── 4-sea860.vom [3d0f32887d0d9d6573830f68412611eb1e692449377789644601c64c7aada099]
 ├── b
-│   ├── bwmrt860.c1
-│   ├── bwmrt860.c2
-│   └── bwmrt860.e2
-├── bwmrt860.e1
-├── seast860.vom
-├── virus.dos.bw.aos.860
-└── virus.dos.bw.seastorm.860
+│   ├── bwmrt860.c1 [d94cc62b16198e1aa9a5915b4e3b34f8eeb095d2aeb1d2a24f33f1b5014e497b]
+│   ├── bwmrt860.c2 [1a603f322735243c881ed4689ec818a99ed46cc67408eb126d80d1e644aa6ae3]
+│   └── bwmrt860.e2 [c114d53bb16e2ea31c5d0cd1a9d9b747da452ed607fb6d6e4a21bb91b75d006e]
+├── bwmrt860.e1 [e64d75260f3e08ad6ac5d0dc5f926d292ed6b4d59146e517d707bda3ec3c89b4]
+├── seast860.vom [d7dcc6068c24f909838fff790d062b36205baf9ce0b7af694c9e3a83a45223ca]
+├── virus.dos.bw.aos.860 [64b59b883145acde82f20b99b6565a0152f9d6fc6782fb6a9345aacd82e1d079]
+└── virus.dos.bw.seastorm.860 [90541117df681da6e2877ab043c4e599ba3ff40324d58b291e6ec74483373c90]
 ```

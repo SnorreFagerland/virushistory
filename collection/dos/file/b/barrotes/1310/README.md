@@ -18,32 +18,32 @@
 │   ├── c4c4056720db2de8f4d7730f6e356a45ac0821e919c7ac6f9e3fdd426d3e3e32
 │   └── ca6c822fcfe142e82dc2583978d12eb42562329134eb7545503a2d820dc9f885
 ├── b
-│   └── BAR1310B.VOM
+│   └── BAR1310B.VOM [9f5355b153df2271417c08db420976da7f7726750f9e49823be2e0db4ac99ec6]
 ├── c
-│   └── BAR1310C.VOM
+│   └── BAR1310C.VOM [c78cb5741f5b71f1e9f89e0f9892e577aa248324a93f50279c06053ca8e3d211]
 ├── d
-│   ├── barrotes-001.vxe
-│   ├── barrotes-002.vom
-│   └── barrotes.vom
+│   ├── barrotes-001.vxe [61ea112f86784e4ee0cb5538a9a0d53f6aa8a941fe68856c11420cb1d981a225]
+│   ├── barrotes-002.vom [84e0d5595dbbcf87f8292a36220395062249f74a1d46dd2a2160e5e616354009]
+│   └── barrotes.vom [4297a337102638266535c1c0b6678662c483894e30257be236862b2158ed70f3]
 ├── e
-│   └── Virus.DOS.Barrotes.1310.b
+│   └── Virus.DOS.Barrotes.1310.b [34f996e1bd0413ae64342f66df2bc9e009875cad055291460030c387ac74126d]
 ├── f
-│   └── Virus.DOS.Barrotes.1310.d
+│   └── Virus.DOS.Barrotes.1310.d [212b57309c17ab6e08df62daf4f666d56b679d6c3e16e399b844dc8a2e978b10]
 ├── g
-│   └── BARROTG.VXE
+│   └── BARROTG.VXE [706edd91d3a476fe786de6a21e7f5d19623874612eb67a5de92b69ed8850b6d8]
 ├── h
-│   └── Virus.DOS.Barrotes.1310.e
+│   └── Virus.DOS.Barrotes.1310.e [c9e0f1f497caaa6cc9189da9dfaed9ad50a0f9e0dcef8dc06a5c1965f2eaa9ed]
 ├── i
-│   └── Virus.DOS.Barrotes.1310.i
+│   └── Virus.DOS.Barrotes.1310.i [7c9300ebe505f7182a271e4da7d7996b2fb6c9ada2016b66055b4164f0d0172e]
 ├── k
 │   └── b31c88e706712c06f72630afae1ae50fba4b9f8de03e4a6565907806606b6b37
 ├── l
 │   ├── d40ca99351fa4011d692ee2a4076a6e2d75f43fecf5c3013bf5961a4ac11d423
 │   └── d95de07991fc252e282640a728a995a25a07e6fb663e657fb650e4e0c45589d4
 ├── n
-│   └── Virus.DOS.Barrotes.1310.j
+│   └── Virus.DOS.Barrotes.1310.j [a3b592f96aded49c068412bf6e7aac6d001728ba30edf04ae8179f3026156855]
 ├── o
-│   └── Virus.DOS.Barrotes.1310.k
+│   └── Virus.DOS.Barrotes.1310.k [6facac47bba5b878fce4030cc82cc33647757d459b308005dd1c6e6ed45d2060]
 └── p
     └── 5ff143a0bc2053342fca0e6e7ef3d14dd1e259ce8db2228f1348e062f1d0909e
 ```

@@ -3,36 +3,36 @@
 
 ```
 ├── a
-│   ├── bgiobj.vxe
-│   ├── capcana.vxe
-│   ├── getvect.vxe
-│   ├── test.vom
-│   └── test2.vxe
+│   ├── bgiobj.vxe [182eeb7b903ac74628de0f3a368e3bd464ccf5d4869435ac53756e4ace3ab09b]
+│   ├── capcana.vxe [2fe1cede00ca759ca7931b013f886a45e18e26ab4f0652058c74fce6165ed215]
+│   ├── getvect.vxe [51aad601456030cb4f751a2df61b75dc5183b87236e7390310574751345e2e26]
+│   ├── test.vom [462c4097ecaf227578bd7c103ba25545e66a6956655c1ea403b12c7e3ccf2c30]
+│   └── test2.vxe [83ad0303b348831bc06af2a5eb42750acb1e8a072e13abba8bdb0f41fd1ab1e0]
 ├── b
-│   ├── jinx846b.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t7.vom
-│   └── trapnv1.vom
+│   ├── jinx846b.vxe [0cec3ab57613c15ea4177e3b7a414a06b57f6ed7bb05931e29e2dcd303039c7b]
+│   ├── t1.vom [f5d4cf0fece85da32d1fb8378e460e6d4d1c8465083ff7469fe7560a4e0123e7]
+│   ├── t1.vxe [c7854e8e68a4f58ab90f28f5699702040283398f46207b3f42ce9e36a5131d5b]
+│   ├── t3.vom [41dbaf7f877a079fc9467b61596cbf0915ee196995b0f520a0677313df6c1f98]
+│   ├── t3.vxe [383e5128704b8bf6043c7199419579429910c14c20db51d5c3e1636b207478d2]
+│   ├── t5.vom [8f2d1159567a4b19df031934fbfca7cb6d1832ddbd7b65f054810f914fd39b4e]
+│   ├── t5.vxe [08d85c061d8e633b6f5c3a36401a61f9320ecca0fd59e571e1c33a9aaa16fe84]
+│   ├── t7.vom [f833717b76dd3987e3afc4a6d25bb3870cc3ac8d2e7a0b79b6a84133d22ce4c4]
+│   └── trapnv1.vom [f681bb4bdb49ea515971f16593bb5e91e5b42089238d9690b3cbb0a4fea53ba9]
 ├── c
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t7.vom
-│   └── trapnv.vom
+│   ├── t1.vom [3cf9b3cd069b77e0355b9adc80cb3b2266c43d33ad975695a2b775da4b1b18d4]
+│   ├── t1.vxe [428ca30ce59b1b1852d981756177f9f906f1450f9243032d74306de4ff591d3c]
+│   ├── t3.vom [e4ed95e086afc2d4f1a20a04598abe117077adc2ff4b71a52c49810e0a3c6b87]
+│   ├── t3.vxe [f0fb024b054dcecb66e21b226fff2eb2d4b469f9a7657b0eabc7383dcb0bb04e]
+│   ├── t5.vom [67ecf166cbe51cdd6eebee521f3a9821d932daaae36b9640ac041988f637e830]
+│   ├── t5.vxe [7c9f5fdb1bd1648742827d90675efeee25a9150e0222549e00d713ffe1974356]
+│   ├── t7.vom [3321f20928969c94c05434b721f44b94840861c7e2931392be6597b84bc4f87b]
+│   └── trapnv.vom [f1c36ca5dc0c06c1f51031c3cf3f3c841bf73aa9573fc0a2c63ea3d4db0b0cb9]
 ├── d
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   └── turb.vxe
+│   ├── t1.vxe [c16383e45058027f3ade402ffca9a9480637f1912565653492b97cd9b9ddbc69]
+│   ├── t3.vxe [5600be672c2be46e700561b258efc890ad6c87ae609ebf167abd698b1883a2e5]
+│   ├── t5.vxe [484818cb6bafebf32aff31a9b82466eb837b92a43838d9b65387634166245589]
+│   └── turb.vxe [9566ca90e5536e5219c99c992603eeedc86925d78cec8bd721d8cb7d9a26ee8d]
 └── f
-    ├── jinx_846-001.vom
-    └── jinx_846.vom
+    ├── jinx_846-001.vom [a3be39945b8fe89bea7bf6dde144a7ebd45009a690a69902950326dd80beb3a8]
+    └── jinx_846.vom [095eb777c6dd71b10958d6a943302c89669ee5df18b23f25c39e270ab19c7950]
 ```

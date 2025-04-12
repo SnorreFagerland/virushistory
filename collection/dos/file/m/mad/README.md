@@ -3,41 +3,41 @@
 
 ```
 ├── 1288
-│   └── virus.dos.mad.1288
+│   └── virus.dos.mad.1288 [c948db3f9cfbbf1186d1b57a6b833b0a6b6fae4a0b9322c30ed33019591e11ab]
 ├── 1680
-│   └── virus.dos.hxh.1680
+│   └── virus.dos.hxh.1680 [bc59522e59a942e5a7cf44124d6cb69703f725c71c2f74505747c632d4dd69dd]
 ├── 2478
-│   └── virus.dos.mad.2748
+│   └── virus.dos.mad.2748 [607d98c5c7f5b48192a8199aeac4bcca7c818f614ee5ed584826872ccf62316d]
 ├── 3544
-│   └── virus.dos.mad.3544
+│   └── virus.dos.mad.3544 [397f242769256c075f5efd79507b9fb5ef6d76e296320c3f3652eb7942c0946b]
 ├── 3732
 │   └── a
-│       └── virus.dos.mad.2631
+│       └── virus.dos.mad.2631 [5f3dc1e4859d48ac4edec51ae16e2161ba9c390b5de3caf6061686332fed6880]
 ├── 3734
 │   ├── a
-│   │   └── virus.dos.mad.3732
+│   │   └── virus.dos.mad.3732 [0698ac74c59e1e717fce7c3871ad63e6b519b97b588cdb4c9bee191df4f5af7d]
 │   └── b
-│       ├── mad_3734-001.vom
-│       ├── mad_3734-002.vom
-│       └── mad_3734.vom
+│       ├── mad_3734-001.vom [89bd23375a7fcccd9bfd0374e7278e1a0999d3a685fc37833505f0a062630f69]
+│       ├── mad_3734-002.vom [bea12ebaa58b499924f5641e5145653ac963aaf8a35c1a176e4a2d934a02649f]
+│       └── mad_3734.vom [78b5f943384c7e0c3c666a78e6661021e0c23ffd168a8002b271808b67364572]
 ├── 4239
-│   └── virus.dos.mad.4239
+│   └── virus.dos.mad.4239 [cf7c77a0e76e54a50ad152ca2f0997a5f68f57f1c23fe01baf1d702c51e2e4b3]
 ├── 4268
-│   ├── virus.dos.mad.4268
-│   └── virus.dos.mad.4340
+│   ├── virus.dos.mad.4268 [283ec00a9c1109318eee9651a03afb4f266b12c6272c844fe6098e0ca8c4824f]
+│   └── virus.dos.mad.4340 [46cd3bf2566a1808000fb9aed8de64f9bdea502d68ef01f8b9526173ee9ec4c2]
 ├── 4340
-│   └── mad_4340.vom
+│   └── mad_4340.vom [a52766ab51db88217d06d713b82f3308b618bff753b1a866f7395ede62123bbc]
 ├── 4344
-│   └── virus.dos.mad.4344
+│   └── virus.dos.mad.4344 [c1efcb4391b22f9c61c90b8fb1039ed3a4d491b40261746cc14a581a6fe83d27]
 ├── 5011
 │   └── b
-│       ├── mad_5011-001.vom
-│       ├── mad_5011-002.vom
-│       └── mad_5011.vom
+│       ├── mad_5011-001.vom [e8f459cd8841f1a2e9e4f778cdcc3f89045873b571819c12682b2a2aa109d5f7]
+│       ├── mad_5011-002.vom [fb30a1ab3e4ef6c9dacba978a69fbc3e878054941ad0d4197ffafe702de7c9dc]
+│       └── mad_5011.vom [c746f087a10a577cddd7d299d04fc2b8936b7d2557367bf1ccf6fbf4192cb722]
 ├── 5054
-│   ├── mad_5054-001.vxe
-│   ├── mad_5054-002.vxe
-│   └── mad_5054.vom
+│   ├── mad_5054-001.vxe [3e6e18063a047a75a7c2da40692bb2615aba6ec8a52736f71ccf5c4a98bdd1a5]
+│   ├── mad_5054-002.vxe [620e201761b4788ee15e4a1997a585dab84490cf01dd0a8221a578794a966d01]
+│   └── mad_5054.vom [309ecfc217fb94dc5f0fca2fa056ec2dd78e052c9a0601b42c791a0b8d1405b9]
 └── 5131
-    └── virus.dos.mad.morose.5131
+    └── virus.dos.mad.morose.5131 [572860b91ce59504c7b4e6e06b9704965c8d64d31f24fd5777b2a59146d28ffe]
 ```

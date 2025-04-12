@@ -4,30 +4,30 @@
 ```
 ├── 645
 │   ├── a
-│   │   ├── t1.vxe
-│   │   ├── t3.vxe
-│   │   ├── t5.vxe
-│   │   └── wci05013.vxe
-│   ├── a01eror1.vxe
-│   └── drsfile.vxe
+│   │   ├── t1.vxe [f7d530f3aebab4c52e18a144edbccd3c488871fb7a5dbfe398015216825dcf10]
+│   │   ├── t3.vxe [a2e72303e5d0314baba6bc9b816c9b187c52ad6bdd8b006153990941eb534278]
+│   │   ├── t5.vxe [0741b8de232d9d6ec74a035572bd98224a6b3a0573f8cd4617a59f5b9db3f0e5]
+│   │   └── wci05013.vxe [2f2f37a9e083ca0d8c4895e7c0588293573dfe798b69943bdb90405aaf752c4d]
+│   ├── a01eror1.vxe [92e134bc3e67ff72a7a66e9a35e142728d0d24007600bf10782f04645ef81f1a]
+│   └── drsfile.vxe [cff9fe57e8ccbce37adb404c56d7a7f1efe2e9e1f2f1b7ce701d423292dfc056]
 ├── 766
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t7.vom
-│   └── ungame.vom
+│   ├── t1.vom [1c91f7e0bbf0597b57e336821bb4e0473e55c25b2f619c4802bb7aad2110345e]
+│   ├── t1.vxe [88a245d9f7ac8f488c52d3752494f5b00ca0ae8e25893a677142ad5e71efd9b5]
+│   ├── t3.vom [bfa94ae77e74de83e93563bc299cd14afbb6283026cac0f1a0a960e94a568f32]
+│   ├── t3.vxe [cdfb3fb982ebf5f9ee78f7f53f33caaacfd944fb1b4eea13f2f8c6796f5d3318]
+│   ├── t5.vom [9fab6ff8b7320a71ca61ef2eca5d541bba0d4d8033d308127019e78785eb0837]
+│   ├── t5.vxe [14cf42cd7d78f75584f55eaa200b34b03f33056b285e9cf1c00834dd0d433a1e]
+│   ├── t7.vom [a09db9c95870dc4fb529e014d7894c66696e7227ba414659b507d8196d7f2376]
+│   └── ungame.vom [e965e813a925039a6307ea39d131db04df40c845923886d151f33c560d4c66ae]
 ├── 770
-│   ├── game770.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   └── t7.vom
+│   ├── game770.vxe [ee93265f23596045a169381c2c96b472ceebe675e06921d19a2c4091dec93983]
+│   ├── t1.vom [bf4df2f1a1e406e1716a95a45a07676f10dd3cf12130d4b06bbbf558bce932f8]
+│   ├── t1.vxe [92647bb53dd11de9f3c886df19a904e3360a1817841d5481d9a27384309aa72e]
+│   ├── t3.vom [b0e10d4508da5adb6f74d98a2f3c588de01b2479f3ad9ffb2797327d337a66d2]
+│   ├── t3.vxe [5ac7649281fa8f4b171c17f299eb30039a3e058f60d65fc34939a377dc3107f5]
+│   ├── t5.vom [1426345041751299092a533f21af3f2706581ae731bc370bda91e5a787a7e043]
+│   ├── t5.vxe [bcf0e6a998f0ba2e70b672a28f46387ce52aab239c7f026f0536f1423ad72795]
+│   └── t7.vom [5324e0309334acf50f47b0cecb1ed2973bea6ef2aa0fd427adea2736f122e8be]
 └── 823
-    └── virus.dos.ungame_ii.823
+    └── virus.dos.ungame_ii.823 [dd7933ac07f8660b6b9ecbf43b0b491f6f990fa00ef2ef8fa34aa15aa6e18c09]
 ```

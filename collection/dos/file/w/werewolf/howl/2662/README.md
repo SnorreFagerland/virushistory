@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   ├── 1-ma2662.vom
-│   ├── 2-ma2662.vom
-│   ├── 3-ma2662.vom
-│   ├── 4-ma2662.vom
-│   ├── howl-bta.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── wav2662.vom
-│   └── wav2662.vxe
+│   ├── 1-ma2662.vom [dfc806595d2f23c97324730c0da718762dd1172b3398b7c84aa02eacf8620cab]
+│   ├── 2-ma2662.vom [733c6de0c6087f4ca7920bd9cd4af6f9e1e725b37ac45df97dfb45cbd112a47e]
+│   ├── 3-ma2662.vom [d29428c8a800f28ab425cad139fb313cf8ece4b9c6961c28949034283a4a511a]
+│   ├── 4-ma2662.vom [5710770999d34e96ad3ecc089aebf16f042581238103da03c4205e1dde63aaff]
+│   ├── howl-bta.vxe [1a7a70a5230c69aec5fa957bcae4441152f6515ea259d2e75af20cfa32991a33]
+│   ├── t1.vom [3e03d2f3e6f9522cd64deb3652eedb4dec0000f87ea1e4fe50ba18044ca043ee]
+│   ├── t1.vxe [98fa58fac989037db9fa2e844b06645bd58b1954592450d80baa7e039a65bd98]
+│   ├── t2.vxe [88b5f0769a785fdda66e01dea58e97a0a15628b3058bc4106645fe679faee52a]
+│   ├── wav2662.vom [3a9b4bc84ee437ecc869ae8c1e21efab38ff86235fd84fcdd5296f2d9029cbff]
+│   └── wav2662.vxe [e8f32e75f678dc315d71d4445c82ba9cacf50a88fafd50d286842e465cf404d4]
 └── b
-    ├── 1-we2662.vxe
-    ├── 2-we2662.vxe
-    └── 3-we2662.vxe
+    ├── 1-we2662.vxe [6fc94735f776271ec348d0bb6165fe763e29eb36fd1c43c3cd2dab35e54e825c]
+    ├── 2-we2662.vxe [41b2fd56382fd2f54dea0dda7d98e8358d1c1eceba6da8db04762c01ca8a27d9]
+    └── 3-we2662.vxe [22d89caea398a01914e0878814e6321c9b71f69aca944a54c326d6a1ba938108]
 ```

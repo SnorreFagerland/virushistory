@@ -3,28 +3,28 @@
 
 ```
 ├── 300
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── uruk300.vom
-│   └── uruk_300.vom
+│   ├── t1.vom [b026ebf71f89a962b23eb71e4cdb98fa50a1a46624fe28702f1114560a50602f]
+│   ├── t3.vom [ee5e0bd1d639d00640b8c463159889efc9592edc0b1b3724ba1081c50ff86e2b]
+│   ├── t5.vom [d2a3699f9a31496af286ccff0fecbe3ba3faf2f83e7d8efd309b4c4130a934b4]
+│   ├── t7.vom [69ab62e67f53ebe830d4bd35be28d7dd592b81bac1f6c7aa26e1c96c4af0ae71]
+│   ├── uruk300.vom [33e39b10905c4836ea01a141b7cc869a34214742f6e3ce903508ca63ff7c9f8a]
+│   └── uruk_300.vom [2dbc41fbb82762c1710eff757a5943253ca5aaa7920d971fe947c920a519632d]
 ├── 361
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── uruk-361.vom
+│   ├── t1.vom [29c3778afcccfcb54d5b57b5e811a24601a620aad0e385ea1aedf5d843ab402a]
+│   ├── t3.vom [e14244800ebf3e2f3a6ce12e455a5934d95bca1f3d93cdc73edea3a7e702647c]
+│   ├── t5.vom [d45a24efe40650ad1715d373f6174cb9c79c85d7c4035a0a14df02e8a2f5c7f7]
+│   ├── t7.vom [2f9130ca2d0ce42503ef66e4795bb08b5326223789ffef69bffe6eb2bd283f6d]
+│   └── uruk-361.vom [2055a4a19fc5f3334110fde241070e63cfcbc1b7683034a44ac350feb162b12e]
 ├── 394
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── uruk.vom
+│   ├── t1.vom [37792c161cfc95f6383dcca5fb8b59924c9f3220770635882ad38d55ebee3f51]
+│   ├── t3.vom [fc1c051f442048cdabfce1bbceccff650d35526b4b787a8f7385c0fe34d5e995]
+│   ├── t5.vom [98fa984a153e07321862314a20c570ea89dfd5e4903e4b390f3b399e1b873131]
+│   ├── t7.vom [4084196784cfb3360e8c78bd2350e7b74755ac0c1e31dd2f092b1bc30f4a3967]
+│   └── uruk.vom [def50f253d3554c2e96b6b7b7faa96fd2ea2504c2121acabf4886cb8aeecc31b]
 └── 427
-    ├── t1.vom
-    ├── t3.vom
-    ├── t5.vom
-    ├── t7.vom
-    └── uruk427.vom
+    ├── t1.vom [c733047e2505b47410eb076443d019d45aee5336ec90ff9b4768e80491214749]
+    ├── t3.vom [b3afc026e632f94db48a2ccd2fd94afce344c9d6c778035a2975ff09ad27da2e]
+    ├── t5.vom [1f3d988d181f145660189c245775434ce38f4e2c402d7cb1c8f22a183878619b]
+    ├── t7.vom [864db96116f5562aadba1d30dcbfbf77a543356c6c114382a5e0870b236b47f4]
+    └── uruk427.vom [9f735a8a9407c43acde90abc8fea1134296d1f55248a44be69109ea36cf9dc38]
 ```

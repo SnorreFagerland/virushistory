@@ -3,12 +3,12 @@
 
 ```
 ├── 0250
-│   └── AC-IC250.vom
+│   └── AC-IC250.vom [99303293759da7bfd7d98681c36235e851679c04a4632aa769d5037e11397501]
 ├── 0255
-│   └── AC-255.vom
+│   └── AC-255.vom [75890941d59d282ba2f7792b449c674c1c2280696fa8cc6bf7a316608e79d65d]
 ├── 0330
 │   ├── a
-│   │   └── AC-330.vom
+│   │   └── AC-330.vom [63bb1f14688e86cf05ab2f77f4d9ad356613e0671cf429e3e5ecc6422f0ebcec]
 │   └── b
 │       ├── 21faeec749e54fbc109349795963573be1253f64635bcedb3608975a1a283c94
 │       └── 4d1c5877903a376fb86768a45589daf46caa1521bd6e47784de721c5f48e9bdc
@@ -18,15 +18,15 @@
 │   ├── 958bba74fbae93556cd35330473f6294555b462f46f9d87bcf3f612f34b7d35f
 │   └── a38dc36607406dca71bf8b87f622adc4973c75a2f2741d298df6ddc2ee9b8164
 ├── 0562
-│   └── AC-562.vxe
+│   └── AC-562.vxe [7029318b30fef34e97326f57d5c1788379fbf330e17ef234d2ee23da18efa996]
 ├── 0570
-│   ├── AC-570.vom
+│   ├── AC-570.vom [673c5a5b181d2d338bd8377f19407d034ca9ba75fb26ee66403fee466cdc1f4e]
 │   ├── a
-│   │   └── arc570a.vxe
+│   │   └── arc570a.vxe [9149aee15d5d623f0a22cc8b17dbf2bc3b0e1299d41bc42208604473cb534d9e]
 │   └── b
-│       └── virus.dos.arcv.570.b
+│       └── virus.dos.arcv.570.b [15f56b78e839dbd981387427034adbff0b3548df2a05917f6f4a9ec891afcc85]
 ├── 0571
-│   └── AC-571.vxe
+│   └── AC-571.vxe [2f31f576ad70b99eb8cc294a273407cfaf009000d8583592549676b4701bdd18]
 ├── 0639
 │   ├── a
 │   │   ├── 3cd6d1ae00cda5d5417e3dd1a0950eb2cf80f665f56c67690399355c1cd7c921
@@ -34,7 +34,7 @@
 │   │   ├── 6079b070b1dc285b26594c9dbee53fd29c8f3608670746c8d99ab9d1ef1473af
 │   │   ├── 847da6d1bb3a97f823792f8363a9b0d676621b29cee7f16d6851c5e4df8797d5
 │   │   ├── 9197172c255ca7dd2e4c3cc9139c8213640dd1304a23bcd870c0955c9808e747
-│   │   └── AC-I639A.vom
+│   │   └── AC-I639A.vom [45599fde2a2ace690cc27ad0d9f962f75fb57b6fb1b008ce6e798a523887d07b]
 │   ├── b
 │   │   ├── 3183c4dd0dcea7b3811a6dd19beec4fbb82b52bcfa9087a9771e03076a75ab91
 │   │   ├── 87dbe29f0205846d303bac48b19356e44b4b6baaa14ac538911707e2ff6ed852
@@ -45,19 +45,19 @@
 │       ├── 30959ec84ea9ff1793c9d18f6ce292273551fb6ef447089e9feb96ba06f80bad
 │       └── 6556598ff437f16f9026b3f05337e40ce5a4ced99ab4684f2e4928ab814f1b19
 ├── 0642
-│   └── AC-I642.vom
+│   └── AC-I642.vom [c6637e83941b3eaadce056946517b820d4263c01dccbe80b4e89b636147b63e6]
 ├── 0649
-│   ├── AC-MORE.vom
-│   └── amilia.vom
+│   ├── AC-MORE.vom [055cf34d7a5e40058eef7d6cab16a2482129cc7c5210784a285b77038eecdf62]
+│   └── amilia.vom [a1ce576e47627be12d445f4b1a1f5c5e4872e1583e8f9a00e14552513cb60a60]
 ├── 0659
 │   ├── 17f509c5acb7081bca66ba929920b9a4ef52800a525a3dc2e0cd12fbb7fe91f3
 │   └── 87000bb5b5318fd8de50d571106b59456fdea649f0b4391d4322d9300e66bb29
 ├── 0670
-│   └── AC-C670.vom
+│   └── AC-C670.vom [9279abd298131daef89dffabd31fd43150fb12dd1bbd2799a2d96bae6a5ab361]
 ├── 0678
 │   ├── 4a0a6d287cd8c35749e0a06c922ee173e33d3e302189b13b056ce6e779250b4f
-│   ├── 5652cc1d0716a385af910d6cccc5709264d930ba729dd08d59e4ceea0297d88c
-│   └── 634f5ecb485133ed506a9017a6d99a2a616bdb17b940148c240dd075451ba07c
+│   ├── 5652cc1d0716a385af910d6cccc5709264d930ba729dd08d59e4ceea0297d88c [b942ed6c04199da776ecf5f195abefad6b4e3216bdabee9e7eb4ea0af9ea5d88]
+│   └── 634f5ecb485133ed506a9017a6d99a2a616bdb17b940148c240dd075451ba07c [b72784414180eef303ee951737061a6ca50d101c8add302aa6577812198c21e8]
 ├── 0718
 │   ├── a4bff94f0e7ae52130798685debcb76417d6ec7db81edd6eff9948e9881c6398
 │   └── b9108a516c70da8a1b4dc235f23f6ce2ca99cc99ade67663f0eee7c1b6dc7420
@@ -67,60 +67,60 @@
 │   └── d06783647f5811a598703d5595e5f638ba724ffce46bfcc0476678face99d792
 ├── 0737
 │   └── unknown
-│       ├── DUMP32.vom
-│       ├── LWM.vom
-│       ├── t1.vom
-│       ├── t3.vom
-│       └── virus.dos.arcv.anna.737
+│       ├── DUMP32.vom [edc621cb3e581140c9a117a58afabcad448ca52287491346faea37f3bf4ddfdb]
+│       ├── LWM.vom [436efe0ed71b251523a2bb3c5bd5799e1666b1706a3187592504c11c1c83aa90]
+│       ├── t1.vom [aa92b25147be70c612d53ae1698cd093c0c3e3a6fcf709a02bf738985a4dd9ba]
+│       ├── t3.vom [c4fade610e119b0afb9e2acf00a68624ee035c77ae952495173ef8a343452894]
+│       └── virus.dos.arcv.anna.737 [b6daa3b3c2d7dc66fe540fb52e7f1dd0a8991015476224b6c617279468c83230]
 ├── 0740
-│   ├── 05fde90f4b846f857c290cf7aa5ec6a15ceec4c87cf8abea8408daed0aeb6148
+│   ├── 05fde90f4b846f857c290cf7aa5ec6a15ceec4c87cf8abea8408daed0aeb6148 [c2dfe6d759dba848e8093cb0203c6dcc3a5f72b04c61e066ac75796aaea9f26d]
 │   └── f3bcb746e8446993056649b1b12522f4a78f89952829c1e1efe5cf2610515140
 ├── 0742
-│   └── AC-A742.vom
+│   └── AC-A742.vom [94465872307c553a5a0907a3e25ec33e990f4a60da7133ed41dae88d95e2ee87]
 ├── 0743
 │   ├── b319a073132ee405ff76794ea4492af62c7c5e78a082f80dcb094d4a4d4c289c
 │   ├── edc84dc5032396d7209c836710a7c20c09349436ccc7d9b46ff9f58971257525
-│   └── virus.dos.arcv.alpha.743
+│   └── virus.dos.arcv.alpha.743 [f2d7693ae0b54da0f37bc905082d25c3a1a4c77bc1652f8398c9dacc8edb41e4]
 ├── 0745
-│   └── AC-A745.vom
+│   └── AC-A745.vom [1e2a459b5eb5fa3bccc7beab9f9563e89cae477ff8efc03c56dce75977270f06]
 ├── 0746
 │   ├── ab19950f77e809dc60b549f4015c110b80a6b882a3655ef02c0a1850ae4c38e0
 │   └── f9205e660949fd8b1b44f699e6276ea45592b987061b64d8141c39c4521276e9
 ├── 0773
-│   └── AC-773.vom
+│   └── AC-773.vom [c7e02766c8839fd2cb57e9895e8f0a546e5a560ea755a3b277a9903fe7eda406]
 ├── 0795
-│   ├── AC-SCROL.vom
-│   └── AC-X2.vom
+│   ├── AC-SCROL.vom [1381422b1bab59fd16fd018cecfeaf309c837efd7c8a89ad1b830cb13820f1a6]
+│   └── AC-X2.vom [5d3b190b56b41f019ac151e2526bf9bfe292de2fda5420d63552345563abff2c]
 ├── 0800
 │   ├── 131b3cdb0cd01bce924e360f0b39f613f233b3ca0b9280e67204cd18eb6927c7
 │   ├── 18afe07cb16d9cc17de007e7546624801fc7deab1bc0b526f8b3bd5f2cf30992
 │   └── 9f577fb328195511bbcb71463a47837e5d39c56ef938c96c268b69b3598bc25a
 ├── 0805
-│   ├── arcv-805.e1
-│   ├── arcv-805.e2
-│   └── virus.dos.arcv.evul.805
+│   ├── arcv-805.e1 [4ecb5b1563e392dc7be643a4b5742e6e16d7c660f6bc2bf28d8ea7927bda7e44]
+│   ├── arcv-805.e2 [2f42496314f6e332afdd904b2f570c856600ad9d115634b816b78eaf5a35fb13]
+│   └── virus.dos.arcv.evul.805 [5eb06497d6dd69197c77ed6dea0e248273f03cc8fc476deff9274e4d4000a640]
 ├── 0839
-│   └── AC-839.vom
+│   └── AC-839.vom [a654a9661d4dc48942e1778c9a0c39eb02b8b2ba5c9a52f3c760a37de0ed1563]
 ├── 0911
-│   └── AC-JO911.vom
+│   └── AC-JO911.vom [ba72e1218755087b58e6496e7157bee74668635f547de67bb320ce202f4e6b5d]
 ├── 0912
 │   ├── a
-│   │   └── AC-JO912.vom
+│   │   └── AC-JO912.vom [62d6535b44b66ae025edd7c0610a028f60e6cdf1ae72fe01986a0d5d45edc910]
 │   └── b
 │       ├── aa365f574376098dcdf6bd9424b4c3a91b053e66f197ab6703c8fdff82115665
 │       └── f53a3b73a669eef27ed78ca59c1cfa8c903414c19f390dead689b353b107c7d1
 ├── 0916
-│   └── AC-916.vom
+│   └── AC-916.vom [eea668acebaee649619e8a95c9f4ed9fe121da43916a77596bd3e95e99163c12]
 ├── 0986
-│   └── AC-JO986.vom
+│   └── AC-JO986.vom [14f84ee95fc32f75dc59bac873f5424ac987f0b07f55e4618022e088d921a8f7]
 ├── 1060
-│   └── AC-X3B.vom
+│   └── AC-X3B.vom [31de45087f1693dbb3d4af77d00b1188f762ce7e8394c79b2479db9acede517f]
 ├── 1125
-│   └── virus.dos.arcv.donna.1125
+│   └── virus.dos.arcv.donna.1125 [461275c19c0de060832ca7ad621b03d41ac8914777cb7609d4935246da917d1e]
 ├── 1172
-│   └── AC-SANDW.vom
+│   └── AC-SANDW.vom [832d62f75d8ae762dc84783f6b8427094697ec7c47b7c89cd0dfb7590a3318e7]
 ├── 1183
-│   └── AC-BENOI.vom
+│   └── AC-BENOI.vom [e57eaed92fd04fee0d40a8f1c0ae3e6a1c14aa8107588ba93b5bc53b4e5838d5]
 └── 1208
-    └── AC-SCYTH.vom
+    └── AC-SCYTH.vom [92bc1fb484b86cf91ad4abe548fb809b6e3a21781eb60f15998e5f41ba6d58e4]
 ```

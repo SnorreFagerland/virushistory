@@ -3,14 +3,14 @@
 
 ```
 ├── 659
-│   └── virus.dos.allfools.659
+│   └── virus.dos.allfools.659 [b174592f32c03ffa416ba406456870058e531e1d4940a747f6de96ff237542cb]
 └── 836
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    ├── t9.vom
-    └── werehere.vom
+    ├── t1.vom [bba2b0d459da5919b5801f12c6058079c8fa8f93a66d97b0d1d007d4feca9871]
+    ├── t2.vom [1b2d9a9f4b48a58dfe5ce7bfe8f7322740517accfff596297de8f7c930b5c7ab]
+    ├── t3.vom [3c4f822f27108c6456a48c751b029685f8aa46164bcb89fd272769d2e259e028]
+    ├── t4.vom [202f53764b6c584195b0ac4dc68437c539392b6e56409ec1ff27bdcb53447991]
+    ├── t5.vom [5a1609b7a99f2d5313b873b65b8666ea122eb6c912e847de7472781153c944e1]
+    ├── t6.vom [ada57a42fe7114b985f6a02319f40c7cc03d1bbe356e072aad349ddfce7630f7]
+    ├── t9.vom [ca29771b95aeb4d7f2f03531192c11ec0d0a4e0b8038eaae8af2396070b4d1e1]
+    └── werehere.vom [ee2e3ec22074cd36eddc1a61a22d525e0154d4760af25eb9b400dc3ca95a1ea1]
 ```

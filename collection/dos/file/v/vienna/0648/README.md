@@ -3,344 +3,344 @@
 
 ```
 ├── a
-│   ├── grep.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── vienna05.vom
+│   ├── grep.vom [3d6792a1cc27181f0bf7a974cf64172aa28310775c2ce6e42c0ddee5e0e9701b]
+│   ├── t1.vom [b6fcfb2183d4ae21b0d919655c96a83c84eff8874adb03419cd34dd628e6fb76]
+│   ├── t10.vom [c0afe9cefb81b115f63498cb1b9c9ea444d25118ab458201a37b3ebd7b10307c]
+│   ├── t4.vom [8235f02d2da9420d8ae12b5f878570fc500f0f572433291a5e57568b8bdced3f]
+│   ├── t5.vom [3a6eb60fedb4611eda64e4792a46ef1ad73984f05bc3a07d05ed99285ce3ea19]
+│   ├── t6.vom [9aece3b1d26ed4b22949eb59c6acaf542055355f012da4d01c377b7fe4e38947]
+│   ├── t7.vom [74255da10495bb7a8e908a55465b9913986e06a4cbdd157eebba6073c9fee5ac]
+│   └── vienna05.vom [5b80f601cea809f7156f9b5d318953f2121f503752e8faeb84ed97e1817b2953]
 ├── aa
-│   ├── lisbonf.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t8.vom
+│   ├── lisbonf.vom [e654d416bb682dfc09abf2bfb16eef47f4ed9857a6a2dee2807da4e245e8d978]
+│   ├── t10.vom [62eb0f74a85f7f2736ae5d5d99d8ee3e7e3ef2779657cf079279d3e7eea76d37]
+│   ├── t2.vom [e63e8b813e74af87db3ddb7a55cde623db740c7cb97646cbc03f420c4626cf78]
+│   ├── t3.vom [e74728cd7929b2e8cd46c22967a18998f69a5e4f281ab7f30b9825ecfef1d3e1]
+│   ├── t4.vom [3c57f743df7acc867349c489538843988445a7b9e4bdbfce2ce540f391242d05]
+│   ├── t5.vom [5c98efdb4a425f47031c06ab4edef249871493b7fc78aeaf2ed34acf0805d991]
+│   └── t8.vom [9babd7874c1e8b57c95868a4df153dad44a52b2446784eebd0880b4521a9047f]
 ├── ab
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── vhp-648l.vom
+│   ├── t2.vom [8c983dd8a6f30638ae25c0124b59e06842c44d6b933bfb5eb2d60e1794303fa1]
+│   ├── t3.vom [3c0f9af492d3a0d8c8c184938b4117554a04815484a22590fe7aae1e25aa6136]
+│   ├── t4.vom [a213991329474bcd941ccecc7e068877dd6b34daa892ea69b8f23df69d87435c]
+│   ├── t5.vom [53b6a3f083ab0c8093384916c6493809808554ec36734ac51a98b42379ac7189]
+│   ├── t6.vom [77abca641e0f82bd191750afb90715db3114368a2e694b0075ac60a35a45cc82]
+│   ├── t7.vom [ee160912e86aef8c8a25ef30749313f2ce49ce61b370d588f3f7b502e7a7623a]
+│   └── vhp-648l.vom [936d9fe6c135056f032455cf9ec0751187f16a2e2e8f414b5e9bce0b296e3e3f]
 ├── ac
-│   ├── salsa.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── salsa.vom [13a665fa0b448ec99626dd5eccf2edf917d92b996ce3e88135a3d9c91fed32e3]
+│   ├── t1.vom [e71c639dfba7d21bad314bee20073ea86e0d968e1dd10ac55b280328e3ec3911]
+│   ├── t2.vom [56c9169737b030067885ee99032cb4444199cacf529010a5935a06f18cadedc6]
+│   ├── t3.vom [390638263e7cb0e188d8d2e4629313da06799bafb49bb89daab996d46d3a32ae]
+│   ├── t4.vom [37937bc32ea7a746219bfc9e44d0e104719751d44bfef09f5f61dd2f66ec0080]
+│   ├── t5.vom [5e93db21d40cb3774794747429ebe1963886d8daeebb1a21d27ce4fb1516fb6d]
+│   └── t6.vom [805b183f5481f58d5a3bf4ee0ed5f0ec42d3abd9dff3983d7b65a6c8e03cc7f0]
 ├── ad
-│   └── virus.dos.vienna.648.n
+│   └── virus.dos.vienna.648.n [32275c62f233126400002c68508dff4d24f30ebfce224a499427f862ff9943a7]
 ├── ae
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── v#-ae.vom
+│   ├── t1.vom [676b88363fa0d8241ce5dedc07d76765212666fe686ef1566379ce544b5fd580]
+│   ├── t2.vom [ea61d6622a1c13dea8505bd4361e144b16e7eec5fbd1bdd13f48a278f9182c41]
+│   ├── t3.vom [b93fcde6bd42d657502edeb881ff4c922f856cd29df9f47bdb1516047ed0941e]
+│   ├── t4.vom [4413d4de3f88b3474901198bd10350befabe80ca6f2f6f5a55bea16682fe8414]
+│   ├── t5.vom [7e8cfa7f8e7654485b3f1f5b8fb991f955608220b71b51319cad9d2e4395a5f6]
+│   ├── t6.vom [cbe28107551e3aebbd76b7845dcaaf2dadddc10e3f64804d5b488c2799545e87]
+│   ├── t7.vom [3809e3d509cd85895da7adabd2db6c721743c945d27f1485c22dae0ba541e727]
+│   └── v#-ae.vom [f0746843383f5abcee8bd2c8abe3b2f361821e073858f181e7455b39d1669430]
 ├── af
-│   ├── c-vi648#.vom
-│   ├── f-prot316f.txt
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── vie-648f.vom
-│   └── wci1064v.vom
+│   ├── c-vi648#.vom [d8c22286577cf89b52c73fe8c43c7172f615f44c0a341448809645c830cac9cb]
+│   ├── f-prot316f.txt [c909434daebc91d94748adf9290080dd0ee9f0140ba27a0b23182d8abb7485fb]
+│   ├── t1.vom [b5a05f39da349e2af8059a4364c85fd48b3de493290ea63332f9e5200d72c10a]
+│   ├── t2.vom [5ef56b1549023bba15b0c7b278b5fa658d934019213ac085a064fa8480cf5e58]
+│   ├── t3.vom [d3c852ff8eb182d4ae5b38b6c990d0183341e878d306473e445ab5d779338bdd]
+│   ├── t4.vom [fec296373290cf7bfe210ead01588d67f215d2d5d66bb92c2669205e0e1d221e]
+│   ├── t5.vom [cf4c0c4184705632e8c8adf1eee90e8a228c20052d4201bfbc5dcd9ab3c83ea6]
+│   ├── t6.vom [93fa071d1223555261eeba62628f2d10ba60f3291948605fbb0a8b2b86dc1a77]
+│   ├── vie-648f.vom [3c9349cdc5a41098d0088cd630733d77d3e44866cb4bdbbd9578d8b0d75908b4]
+│   └── wci1064v.vom [26cdadf99bc50df716f9e741eae60a67805926145dc9e5417b1ecccbe4547a71]
 ├── ag
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── vir1294.vom
+│   ├── t1.vom [3e5ac21282eb539aa2dca6c6a5c2c578e7ccd3364b7f2b7e490238df38c6e658]
+│   ├── t2.vom [ad601cbecca572f0e1f35b713ddd2285d891b485d7e57ad88e3855ab9b073bc3]
+│   ├── t3.vom [a63eb2612043868025b38d6dde412e43206437d553e47418bd56ff93c1164966]
+│   ├── t4.vom [292f4c7229bc12176d3c0db47b9ccd99e0288be089de6f30b2edea48f88ac498]
+│   ├── t5.vom [fd2d36184a914e6fc7bc3289c2fa7821cb56ff108cd9a76f64033ae9982f393d]
+│   ├── t6.vom [002fa09a819f2fc2f5983925a6eb4e8ae8d75539a4727864c0b2435a83e05d2a]
+│   └── vir1294.vom [d4943febb67c26b3abb49fdb7c3e4ff5bc205595cfbf81ff989cbc0932ec9ace]
 ├── ah
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── viennab.vom
+│   ├── t1.vom [55f7d2caaab4ababc1ce7e77792d246075c363af05c253f128c36c95889af573]
+│   ├── t2.vom [40608b2188db67887e4171351db47cb07a79ff21429167b03954e444493be2d9]
+│   ├── t3.vom [6e88b73037ac33984b817fba08dad1ff80cfbd39ea8e314fc5c4674560d0faa5]
+│   ├── t4.vom [9af2c7f96b114ed695e5d1b8dad144d8475a1f2735af7f99673dce08a6957001]
+│   ├── t5.vom [65990b60b0dad66cc6d2ac952b6a64fa440ff8763dbbedfdfd69d996680e3280]
+│   └── viennab.vom [8324548561f22e3aec87513a6d616143c88ebc002542aa3d114185e3af7c85ad]
 ├── ai
-│   └── v-648.vom
+│   └── v-648.vom [965f8d80d67a82cee7b345666cb5308a488b0bcd12197df8d6bba077b0d5edc0]
 ├── ak
-│   └── vi648td0.vom
+│   └── vi648td0.vom [9d1ac33b4342f7908d563564447dee511e74447eb981dbc791bdc65d661baf28]
 ├── al
-│   └── vienna_6.vom
+│   └── vienna_6.vom [7f6a1dcb786ba933e74685e82c5f6afde93f293ee2451ea3d6649d78f6d5ed6d]
 ├── am
-│   ├── vienna_6.vom
-│   └── vienna_6.vxe
+│   ├── vienna_6.vom [ac6b41a52a02f0abf16d8c8e46ed0680d76f0792934f1c6150e3ffecec7dddaa]
+│   └── vienna_6.vxe [08751aa43eda6f12ed651be2451e9beba4b3f54e3216b5b288822c9197ab8576]
 ├── an
-│   └── virus.dos.vienna.648.k
+│   └── virus.dos.vienna.648.k [cb29b15f65c099260eb5c46e2115e57da041277a6f44c7a44e7f2effe21ec365]
 ├── ao
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── v-lisbnb.vom
+│   ├── t1.vom [65459e41b34f1f533ec454670faa105c0c24612b1e714aae01fdab2bc557d5de]
+│   ├── t10.vom [8d010916946ae004a74239a02f7cd0fb5175587437feb572987099f719618411]
+│   ├── t2.vom [054a054fe72351c226debef1bfa724835617d7f4ec350f0050fb5a8cc9a669bf]
+│   ├── t3.vom [c2164ade77e3894d1c1b2e8bbd8c1dc53d81f2cb3dae850cbf4e8c803a79601a]
+│   ├── t4.vom [522fc802b0dcb3d9482fae4a3a27f8c64cb82095d23a6b10c407868d3f568bb2]
+│   ├── t5.vom [bd34b4738a95e7041d014071fa327bbee4534486ec97f380066c9776b7680b53]
+│   ├── t6.vom [88e0d36df4db01547afa29bd330b3bf2c0f626865bcfb3f990bdb710dcdcfc4e]
+│   ├── t7.vom [3608d6e67c651a85c6df60d09f4c5be53ae45e36dad1c6bcd5a99c539ed71289]
+│   └── v-lisbnb.vom [5207fb64a6d9e7a5d78c0ad26b175f5dc0e5d0a085b55dbe929d8c158bb7e0d7]
 ├── ap
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── v-lisbnc.vom
+│   ├── t1.vom [a2f939226d38651d390925f21d908f1ffd0ce9aa8f41a19b69ef7ff40e7c678e]
+│   ├── t2.vom [943845d8ab79569504ef00cb7b718e372193257db96a9989c263e8140c77d33f]
+│   ├── t3.vom [29ca2e9439b4dae511f8e1c1e3dcfa2722d3784542e1f3436fe1d72d0bc0a22c]
+│   ├── t4.vom [2db0fcc2cff4bcfeac44f886cc4b544973e93680888a1c6fd42f6ac7a26d5cfc]
+│   ├── t5.vom [045d8c9dadedd7c05b85ba84d177d52f4419b93df55e39e7d8e5fe0fbd0b7c86]
+│   ├── t6.vom [940b76c50e3c1f63f8870fe46ff9e932d96e73a9253ad7107017b79557aedc46]
+│   └── v-lisbnc.vom [392b84bd33fbfd587d694bd0abc34cfd23b76bf6484ff314c39a3df448f1cc07]
 ├── aq
-│   ├── dos62.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── dos62.vom [b508986dd24f24d97ff2f696d1d93c15aa41d7ad75277860b11c65d188591530]
+│   ├── t1.vom [325fc588e51759a65b78a7c6c4b3b58cc02b74026ecb1928fd077021f1c22a7a]
+│   ├── t10.vom [f58ddc0b481b04e619f0f81d06d9dbe284fc9940243ee7a953c8f7fb9340a8a2]
+│   ├── t2.vom [397f1ea55f4abedd255d95177d7c6a50204286fd65e93b8f3b733190f4a256c7]
+│   ├── t5.vom [aefc57f7028ec99e2b298e69344f7d12c7eb1145de658ea4b0a5432715d6b47e]
+│   ├── t6.vom [4e948d0c04d368b0bfc340527e557cd43bdf713597afa43f33775e482d6a3668]
+│   └── t7.vom [11c75342261d48f54a7b0e4fea242d96f429dd4308601a50440ee35072272fe9]
 ├── as
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── vien648c.vom
+│   ├── t1.vom [e9f5a153a3a74680e0743b2a3f6e18e1913d4901cd981a3d4780245b66e023e0]
+│   ├── t2.vom [fa63f11bf53ef803da72e82efbea4d4cdc70e54f0a087ca01ea5faec718fb027]
+│   ├── t3.vom [ab69a1c41b37d30e2428891dae4617778921e61253d2ea212f32c5038b29c7c3]
+│   ├── t4.vom [00e7b7007e5c393b6b011410be28a784685a5990e365e135f383f91c004e5e87]
+│   ├── t5.vom [e7111fd4a7ad95b781ac2d078c050a252c53dd75192476cc0c2852d0f48d1d2d]
+│   ├── t6.vom [ffd5457ad676c8bbd41fd85dfe0d6cc188971aab43ed52920b2010d842b3ae34]
+│   └── vien648c.vom [aa96cb9a1b16e14db812a2676fd72a951a8b55e3fb20f98ce8756f4d65e9ab70]
 ├── at
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── v-lisbnf.vom
+│   ├── t1.vom [d3db300d122dae8d2e067d53cda591d48c805334792e2b498afffa04e5d15e6d]
+│   ├── t2.vom [a28cb0722e4e79c775f7e6d384f331aa3561feef8fc129ca235bbd3d1c45c55f]
+│   ├── t3.vom [57ae5b25e2b28566197e4ae66beac7278405888518be72fd2c44d1430d732235]
+│   ├── t4.vom [06f9de9b52f6e9477589e8263c18a983f4e57fab4244032245a35f110676ba6b]
+│   ├── t5.vom [3b084c42454c98e229e3b5c9ad712aede58c3feee5855dce891f154f0ab0b932]
+│   ├── t6.vom [7fdbfae26aad304c28eabe63169e727db8328ad278fd5f4204c2a9714feb4734]
+│   └── v-lisbnf.vom [d78787b7d53c4cc15cb5dd6c406278f8a8105c6f7947cd84b5ea4f66126c0c75]
 ├── au
-│   └── vienna_6.vom
+│   └── vienna_6.vom [636c3b67032f3199f22ddcf028f6cc1fdf02d2a1779d1cf7c54e41036d18e282]
 ├── b
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── v#-b.vom
+│   ├── t1.vom [7cb768b3c0a91315f5720ccfc326e613795b968175d22c4af1e3d197c42e2f07]
+│   ├── t2.vom [b0d9d7da724866a87dfa45212a9fe0b491be9c631c3f7c89a8d29f22824563dc]
+│   ├── t3.vom [ac35bfc1903b56dcbe639ceca737db59768ed8ae8f540ef5b0cd8b36f80090f3]
+│   ├── t4.vom [3c938988c9ff369099fcaeaaaa745dc703a0f2b7c47514dbd6dbf0f9ac907c36]
+│   ├── t5.vom [50671f3cabd275c59902eab21a733c2625e581b71e61bab5fb3fd35c24051d0c]
+│   ├── t6.vom [5719976f6845380bb3b949253ec793d8fb626aba6e2cb9dd70b440a6f780f938]
+│   └── v#-b.vom [2eedd43ead894684fff9e2c7552ab810c2b937c5e6e4d2e4d0131ae820557f29]
 ├── c
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   ├── t9.vom
-│   └── v-648c.vom
+│   ├── t10.vom [f799056ef5b4d5a03789bd74648dd3c94600ecfa10f966cb1b920f63ef96bc3d]
+│   ├── t2.vom [2a6a8f2c49b9d4e9c1a54f6df0e889129474080932c999c387557c86ffefe648]
+│   ├── t6.vom [467cbd9bcdf7408ace0248454ca1c8956ca6f09fea47e85c7d47983548249582]
+│   ├── t7.vom [15c8e8a3e9ee0fbc3905f4eb000448541b4f18087e4006b5a19466e6c524e900]
+│   ├── t9.vom [c527b326116fe8c365ebfc0b5ed1214128ab9929bb4482901b4b0c792e366797]
+│   └── v-648c.vom [90d51a2bcab8a4b3b762eebb9123bbb88a9b459a57628c3633230b0a82a28688]
 ├── d
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── v-648d.vom
+│   ├── grep.vom [04be99acbcd9d738249cde50b62ac50d5dfe303f8aaeacbf2eaf195b24b072fd]
+│   ├── keyb.vom [90f3cda2c88c3600fc3811642dd6da7b525ab7923ada1ca912bd9f0d1c8dd64c]
+│   ├── t1.vom [6a962b4c503af1c5c9cdbd511c551ef489a66f6d91974e346f78c73661f52339]
+│   ├── t3.vom [b2c66c522b6a27f7582d11a2f05ed1170c92e1479365c37ad7e9efe5dc5faf2c]
+│   ├── t4.vom [2c554a38448bf50f5075ef934bade0757a9693b4ddb48d36f36cbbe8aab4026f]
+│   ├── t5.vom [ac199352fc3c7bc3ca13117d0d5ccd0368aab4cc20fca63d007d54222d07be9d]
+│   └── v-648d.vom [37216e5cad171a98a5285bb20864cdf0200826aa332495442882faa8a904635f]
 ├── e
-│   ├── dos62#1.vom
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   └── t5.vom
+│   ├── dos62#1.vom [aa66cb48415ef4e7b4ce7f316194f00252583b7d074720e5fa5b30f71b2fa84f]
+│   ├── grep.vom [8fc65ba5a4d0aedc301f21b28f123231518c878e4908b2e67cc77944947a3363]
+│   ├── keyb.vom [d08433546f917440a87f5b25fdcd4db00135accc5e66b85289406b5592a5e14b]
+│   ├── t1.vom [2cee675d8e2caa990ef45b09d3201aa64a50df7ec5fa1afef52e56937505e48f]
+│   ├── t2.vom [c7d7dc9e47df368cb0d59991fbc470f9adb926f2182d4f04971a8cac2d3fb77e]
+│   ├── t3.vom [bfc4ec182f75a65d7243dfd5b4157a25ef13729c8b13f4959f53fc0d45218489]
+│   ├── t4.vom [b0feeb16ad718531164fdcd0bc023d869d70d2433936eab1ba956550a4b94daf]
+│   └── t5.vom [5c0f0f11bbef873ba282567d469f74e8e4f03e21c609f2d66375a02cef7bd060]
 ├── f
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── v-648f.vom
+│   ├── t1.vom [5652ec1a18470cecbda463d5706a48a0c2f9812b381609891c3952473cbc3dc1]
+│   ├── t2.vom [f812b1a086e8c106c555c8b95b9532a2586a829066c6061010f6fbb55a79ddcb]
+│   ├── t3.vom [cc29c070ed68a87320889ed2f9e9dad9de0d2e7da39cf9932116fbf82a940f49]
+│   ├── t4.vom [889c13026800643206dcc5e3ec5409160aff9a325b460b813982f91a11664499]
+│   ├── t5.vom [c04ed073b23f8834925e98b6e93b060957eaa0de0ef86ca4a4d924d492bff826]
+│   ├── t6.vom [ef4c8a77b793fabe0eb6f84a67c2f87437907da5be88479cb200280c30980ece]
+│   ├── t7.vom [63f6fdf42183646902eaecc1ff13447e7a72ccf52d00b6ab117967af8cff60f5]
+│   └── v-648f.vom [3da8027464624fc7a79d6521db59a150bfdfb3a68d8c30a18b1b28f8ac0adc86]
 ├── g
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── v#-g.vom
+│   ├── t1.vom [9c97c64df7195cb847c2be3e0394912fee44e4bfc53f7e159a316de9250aa7d9]
+│   ├── t2.vom [4510ac035890b1bcf98feed64169ac8cb136c49582131ac71e8ea6f74fc2a699]
+│   ├── t3.vom [d9d9fc38d515dafdf95dadfbed0c5e8e6871c6e9350ab325645f23552e4c5e7b]
+│   ├── t4.vom [f82cf4c3590d4b6efaf52c297004e92c8a35fc7159453c0986c0a44ae3469faa]
+│   ├── t5.vom [927a23b8cd8b5a6dc95e064e3f2018b0b5bae55a2f492d832590b741867792c0]
+│   ├── t6.vom [5df538331dc48405915af0f93f046e88c2a46acd9ae6e97ea7afac5f75409986]
+│   └── v#-g.vom [b9b42335f7332f1aa35314db324a8b1015ab3c8fe817735a4ce5f639abeb068f]
 ├── h
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t7.vom
-│   ├── vienn-e.vom
-│   └── vienna10.vom
+│   ├── t1.vom [8253fcb9202266e1fefbc516f39eccbbc3c2ce1751c0493b17924c17963692ec]
+│   ├── t10.vom [590ef298d5b25637de1fe536e396b73d3af71d5509935fee50eee541b51b3f10]
+│   ├── t2.vom [b66b6f40007e652f5394790383630d50b75edc58e1b5a91c90e58b3c4be90357]
+│   ├── t3.vom [748f983b7319fc67c12813aa0d7de53a4e730dcc8ac5ac7217db7e246f57693e]
+│   ├── t7.vom [97df9e31c41f5750e468908395a4c4e18c67e563c174f1ba40d2fc084bbe8e0b]
+│   ├── vienn-e.vom [c924993d8f78fc1b1d10edf21db266198055be70b5f751d07a0415c9dc5ebf29]
+│   └── vienna10.vom [88a162b7cf90c25b34e97eda00a9de3fd8977afb491645ac4196fb5ae9245727]
 ├── i
-│   ├── 648-i.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── 648-i.vom [8a47899fa6b210a9e226411b3d6124874e46a931ee719750f617bed2272fa4c3]
+│   ├── keyb.vom [2136bd9de448706e189a6f64fe1c20d63a6986f15667145eb9cc3369b703689a]
+│   ├── t1.vom [816c0a0c14df6c16d1f9d4589455c3e273b953a960f7199d38fee55c61887962]
+│   ├── t2.vom [b00dee6d291de1642d5c41b59c1b712ac76be8c7a36212a3d9e4a875e3308fda]
+│   ├── t3.vom [08ffc30a26ac91d7266a70d31d7ac808495833a18d4e9b98843daa8baf5a6523]
+│   ├── t4.vom [f6876c29434fade28023e765d765b1dfc9bf4a3ee7eeaffdb897a8b193ecf17c]
+│   ├── t5.vom [617aac7bb283b98ff60e0cc54a296bb2b47f4b2ef6cae427feb86fd4fce134ef]
+│   └── t6.vom [08924e82eb8e387104f89b85cc9c964adb4109845181ccf7727500a618394891]
 ├── j
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── v-648j.vom
+│   ├── t1.vom [d7af35d23f2b34bcecbf2d33ec0319e4554ffbf089f1c60ce31b2511ff4f6b0e]
+│   ├── t10.vom [bef29eb32b1e35bbef079b9a802111896881a12aace52801b5e0c427c25c074e]
+│   ├── t2.vom [0ad567a7846af07f4ad7e878ef1c906fcc06f065005b2311e10208390d196ba0]
+│   ├── t3.vom [a6afc40bfc604f95ef9e3fe792c1dad66c409bcc349cb1224d3a658c48dd9f41]
+│   ├── t4.vom [5b9589c813d618064871232dedf6238bdfbebb4f388bec36837a33b5af620d7b]
+│   ├── t5.vom [4417dd02dbcd948763a6915e0298320467308db3fadc6fd5937f7249310be05c]
+│   ├── t6.vom [4c53949dde465768c0296ee8c3ff2ebf311df7960d62ac5dbe89fb40001db337]
+│   ├── t7.vom [cac3f4ac4ce060b71a98d1874360872c7cb5b3fb582470ace4366ebc585a6707]
+│   └── v-648j.vom [ace6b1d2cf52020e03bb8a4891e863736866e8f57658b4621529e371532403c2]
 ├── k
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── v-648k.vom
+│   ├── t1.vom [3b5ed0ab4ede13a11b0111dd5de78a6abb15bb147fa48b6d4ee0d35521685076]
+│   ├── t10.vom [da27ef9e4a589666a548b59d67f50ccd78b0831de10edd974a5cbec436e17ac2]
+│   ├── t2.vom [ce9a1d59717fe71c7217fea183c8e095cf7008bc756e0f81c1375c7b8095421b]
+│   ├── t3.vom [67082549e626f152dd4455b5fbc6d569b1a8ce15f6dbd4181e1b71153a7a06ed]
+│   ├── t4.vom [001be21e095b5f5a2fde63f10dbda3cd487f8ddd37aeb1de358e466f14b7562d]
+│   ├── t5.vom [cb8b4f8ffcf30419fd5929cfcdf1f7e011de015a47cbb0b7be0d333fc2309001]
+│   ├── t6.vom [95c94954c10ee82b79fef1663856ff44a1351dfa1357cde8a57afe78722aab16]
+│   ├── t7.vom [9c2a607d7b61a7ed411ff1faa8e309addd24e189664eabb85e320be9c3a67645]
+│   └── v-648k.vom [25e685d628a2251bce255166c38e2d928aa71413c932fd81fbbe5944361bf5af]
 ├── l
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── v-648l.vom
+│   ├── t1.vom [b2a7deeb2dd5c3a940ec4efd90133d79e0215e9d5de46524b810ffbf9135641c]
+│   ├── t2.vom [36bf44ea2849ea1df65f87a191e44f831ea8a1d5bf97c2554832a226383f94e7]
+│   ├── t3.vom [cd734fb8e230f2043c143d04a5725bc0fa199eb13c9bb936d19d34bb5e187feb]
+│   ├── t4.vom [fcfe119e9c2afa8eb5d2f83adaccbad3bdb307abec75bcb0f5191c174b63b8e3]
+│   ├── t5.vom [84949682804147b375a99ed84cb473f067bfd734f7bb1fd0265d3aee10cca8d6]
+│   ├── t6.vom [6a517ddf9aecc8eab922fca2b2f9c7fb1dc8df1a509942578812dab693a6dcae]
+│   ├── t7.vom [5327d3261aec3ee7b28837d8291a8bf5e747570a159188766606de28838c9af0]
+│   └── v-648l.vom [5820123abac4af3a69c88c0ee623fe2539d3bbea06054f2c964fddc5848ecc77]
 ├── m
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── v-648m.vom
+│   ├── t1.vom [cdd901175536d537bc10da6e8409db20a3103750041951e6d036946bbf4f522f]
+│   ├── t2.vom [0ae2246002fccdebb952a3ac8d451e3c014dff2800a4a86ca54f4992f92c7dc3]
+│   ├── t3.vom [8013d280c4af822d1572cd3a48d5599e2e477dd33189e0fb7c39e0592aa4c545]
+│   ├── t4.vom [5cea04cb47d51410f2f911c2cc7676a7d6318fe9588e00396372f88807b71f55]
+│   ├── t5.vom [5982372c51df548731bcb7471bea02bf797ca778f7ab35553df73bf4123716cc]
+│   ├── t6.vom [8bcbee7a1497cb665136d012c4b0c747a552d05aaa14de9db8cd73e8d6d3cc0c]
+│   └── v-648m.vom [f87a5903cbac7cc94f5b01034daecfc48cf14909acbce9ccd86ee60a0cc1b34a]
 ├── n (gupek)
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── v-648gup.vom
+│   ├── t1.vom [a2d2194c329b752ca5ac02d19fc95f870c6d8fd1009ce2c78c137da7e61621d5]
+│   ├── t2.vom [c5f48973bbd942c063bf61672a1ba4de0feec51e5430aba79b04a04f98d2eccc]
+│   ├── t5.vom [1dfe046e54baf743c82283c334fe640d65888c0c451f527fe1957db0f9ef1e85]
+│   ├── t6.vom [ee828a75309fccb0d08595f3a73ef4c196b6938a861bfb9fc0ef77f6c1b2bd1e]
+│   ├── t7.vom [048de254e66d69e68d884d3329c6b08c4ee05539857e9f5cf3a357a13388fa0d]
+│   └── v-648gup.vom [3e7aa8792f4b9ba9f648e5a4834bdebcf3de079e82488ebe97c9e61f1082065e]
 ├── o (opt)
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── v-648opt.vom
-│   └── vn_g.vom
+│   ├── t1.vom [0763927b7ac1eafcca2b64615ab94c15ed201112d5c614dcf7ac1a8aacfa3899]
+│   ├── t2.vom [c8501667b7f780e980ef4272ac6d8770b7689d130683453a167474f0c0e6d0a3]
+│   ├── t3.vom [a0985703a9f63d7259cf33ddc9c1867980df6737060eb443003c452f77878e04]
+│   ├── t4.vom [7591ecf652ec2e38a5cd26c3ecc7c8cbe7624b293b9c0d423931e2f3187a08b0]
+│   ├── t5.vom [7addf72d2e3295ed82cff71c4412474115d515b36f01d6b27c9b6d0144d37255]
+│   ├── t6.vom [2007ef2f05766a660aecff1b534b22f1a360e1bb3ad9679e951e8e2ef02f286d]
+│   ├── v-648opt.vom [d002ab7d58aae1ec14effa5369d563771e49ac080971bcd7f2e160e3d0a5c65e]
+│   └── vn_g.vom [7cfa0f0b85092056c7a14730353f3a65df4789c88cb906481fcc54128609fb2e]
 ├── oscar
 │   ├── a
-│   │   └── virus.dos.vienna.oscar.a
+│   │   └── virus.dos.vienna.oscar.a [becb9ddaac4deaa85a7223a9cb524630d78b3c66ada8b02763bfd0bf890616a8]
 │   ├── b
-│   │   ├── t1.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   └── wci0545v.vom
+│   │   ├── t1.vom [7cd777e669cf723bcd49ea569100c9964ceb9153dbf1259a380e9a2b28848fd4]
+│   │   ├── t3.vom [f9adf7b1e8ab51ddbb4312e0fd2a6a9bf5ce26563cd4074944da78043f7c9d1a]
+│   │   ├── t4.vom [6eab638952f76f823fc072087de68001694e24a965f35a556989c77ef6465f58]
+│   │   ├── t5.vom [74f83f4054abe42a6e90f88783c02065f1b9c0bc788e705b648436fb42a56ca9]
+│   │   ├── t6.vom [336c13a0d98d39db01a3a1012021f64a38de5d67850706faef09e5083dab7205]
+│   │   └── wci0545v.vom [842c1a284cd3e68fcfad1a6ba65fff0a1fb760ebc68b79fc01ec01d55258a09e]
 │   └── c
-│       └── virus.dos.vienna.oscar.c
+│       └── virus.dos.vienna.oscar.c [cc277736d1c7596410b603092a2864bdb798fd4d98ae32c713583743a8bbe885]
 ├── q
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── vienna03.vom
+│   ├── t1.vom [25ab6de0259071d6c106bc16c97a42aa05e25135011b9e931966b6a7090ff357]
+│   ├── t2.vom [062dc901ac6f5e1ee96f55e9a7852b51a0e892eb85a0884ccd95959c3380366b]
+│   ├── t3.vom [aef0462c36326aeac828ff7c88e6744715dddf9daecbe89696abf149bb1d24bc]
+│   ├── t4.vom [838a77a10bf8e35fc870c3a4769bba7356eccede523396011b00aaf1a3f3edae]
+│   ├── t5.vom [30541e6be4aaaaa7fd878d1b6768d1b842038d7dd425697376b93e03d29f0a09]
+│   ├── t6.vom [51050eedda454cfec1f3d39e573333ff90ede7d38b9b67c01f907831ec7bad9f]
+│   └── vienna03.vom [0d99d4bbad4e516436fbecef5ef4e8ad343f652e8415d25a6a8d5087888751dd]
 ├── r
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── vhp648x4.vom
+│   ├── t1.vom [35864c196039faaa5a404a841b9134b4a6ab707fbb81e2616002e40091e9581b]
+│   ├── t2.vom [e73fe24b184e4d994355ccd204d5ff814e4a881d5d9b2355f4b74e3e3cb21f84]
+│   ├── t3.vom [2ab96dece3d2adbd3525a41a8e4556cdc90393c6a126df69ee6a2ed5abcdd091]
+│   ├── t4.vom [bb74a88566e1beb6d815dc31ef6d6aeb2614ace23ec320b54cefdc83cb3a31a6]
+│   ├── t5.vom [618732c12ee409e9c5c322845acce7c83d14bf6c53a568247ed5701e34476255]
+│   ├── t6.vom [a0a8f1a712a2262d7e84c625b1940664ff44e43a2e09811147deff114dfbaaf5]
+│   └── vhp648x4.vom [fc00f3eaf8b0500f3d8926f492bcd2f78eb8e3aadda0934ffa9a600a9a359492]
 ├── s
-│   ├── lisbone.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── lisbone.vom [f32769149fcf8a5031c3264fd0024f211f0d6a419e3057b4bac5debec858aafe]
+│   ├── t1.vom [5191e962beda1bfa280641af0eabdadcef268b2179820ea23cdf9290b269fe26]
+│   ├── t2.vom [b195238ddbf47c7810a3831e1d6cade935470083ce4e53db3a7dc35285bec8c0]
+│   ├── t3.vom [752d1559883624d9774b6d481c0b57700525a62b2e9f0977eeb2205e46f5a5a4]
+│   ├── t4.vom [2b85b55a0dd8033bbe3c939ea2dd83b2f630d8f3809eb018738b5461edb9e9fd]
+│   ├── t5.vom [7db1e245f13e31678aea2c19db6cc887cb29be75f145347829410da441abaf4d]
+│   └── t6.vom [4ee47cd973d526c5b257518115085127700075d3e2a39c4653f0ebdd44655bc4]
 ├── sdi
-│   └── virus.dos.vienna.sdi.648
+│   └── virus.dos.vienna.sdi.648 [0e9487cf70df79dee3571658e97763a46c5524a1eb1e6d5cda9946a14e791c83]
 ├── t
-│   ├── dos62.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── vi-648ra.vom
-│   ├── vien20.vxe
-│   ├── vien6.vom
-│   ├── viena.vom
-│   └── vienna21.vom
+│   ├── dos62.vom [ba43aa6136fe9f05880049a62ad8232af97db56f9a8171926ed1568ddfa65241]
+│   ├── t1.vom [878799c095ba7de09fc05864e7aba864779091039e463138e9006b24a27704fc]
+│   ├── t2.vom [f4284abdc61f2133d089dd758fb4afc5f35bcb22c9cfef66fc8f3439f24585d7]
+│   ├── t3.vom [ebce58dd257846bab0a61d047884372fea831e1475b236177617f31919c8b7be]
+│   ├── t4.vom [64d6cd65fd2ad140bca50dc9ba753d2065b10cfbcd434e4313b742cb64f1feba]
+│   ├── vi-648ra.vom [04f5e7ce6f541c2abefa9269b1176b127decc7671afd15717315f839bfa270d8]
+│   ├── vien20.vxe [42094a57b28fcc943e6841a7bfe972f6149c60a12f7a639d36586aa3e2baca62]
+│   ├── vien6.vom [2be265b532a9d3d0796d445373ff10892ed27cd616c769fb00d3cf3d80dd3516]
+│   ├── viena.vom [18dca38d1116888212830e6a26ca0434290a99cdcf1af700d021e37709e02315]
+│   └── vienna21.vom [102a2f6b90bf2affc234dc1d83276903459feab043dc2517f1dac7ea7cbe6bba]
 ├── u
-│   ├── reboot-b.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── reboot-b.vom [d06c2f458142f39758a836a73f97298d90a3f174aa4031ed18cf0c5c0a039cd0]
+│   ├── t1.vom [f5b7d43831ab554c48ee04f19e0a5bcddbe718a7656c248250c358c64016591f]
+│   ├── t2.vom [e939e01197018a4cfb678de3045b78528b2cb41db3e6eabc23495dc8f69d5625]
+│   ├── t3.vom [0033896bd24eb467a63625809fb20c53e00a7602bdb9a893207d27097a971ac8]
+│   ├── t4.vom [26d6c42df1562b7066de8894f7f0c88007feeaa974c1b96257025f4c4884ecf2]
+│   ├── t5.vom [ed2f370322bfa09baa927869eabaae30a5f5f1599e877c8a3f60e1bb3745f33f]
+│   └── t6.vom [5eea568e639addf22b066f9ed5ee26de4772e98759ad2977aff906c4abd26513]
 ├── v
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── v#-rbt-c.vom
-│   └── vienna~1.vom
+│   ├── t1.vom [f42a56489938c5ad4809e5697fe17b20b73b0f821751d67e568686453781307a]
+│   ├── t2.vom [d00f982c052cb70fc9b940b73032e2c51cddb93be7735809c232166b5c8b4414]
+│   ├── t3.vom [9104db9deeb771eff77853c26578f0c6cfd85224a17a1b0aec5499706a5a050e]
+│   ├── t4.vom [854718aa8963de647611590e55fe58d530e0b9552bac617a56f5754577ca1114]
+│   ├── t5.vom [b440a302b7131be3b3e6d9807c02e739c7393e1451c3aa0787a4790b425afb84]
+│   ├── v#-rbt-c.vom [757583f5f4b9bc8d33a278683058a8cf41325648fe043918570d02c9853b31d2]
+│   └── vienna~1.vom [0566f75f4825a120216ac31cdede6ff32fe6e01f11fe401cf1cbf2ed0c34c3d4]
 ├── w
-│   ├── lisbong.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── lisbong.vom [72203fd5bb7c0e1a03921bea30c1e57ff28f499c7365369d3d81d797109a970d]
+│   ├── t1.vom [de7ae29fadb88039530860d2daa12a7751253d1d738857a2dac223b5a98c8d72]
+│   ├── t3.vom [0b0513aa69ded17b58726a64cf4b3637326029724cb898394a6582070ed2a351]
+│   ├── t4.vom [efb05d6e86bc6658ebae59b0059324bc6520d4eb9b50a71e8ae4d4c19b25d6b3]
+│   ├── t5.vom [8e783df24dcd29de94b8144cc1ce33c9c49afe0e555e22f35b66d80bb5833ff2]
+│   └── t6.vom [2dd2054f3c80faff79bedb000e13131508b73c632471b0a3d7f449f065fd6759]
 ├── x
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── vien648i.vom
+│   ├── keyb.vom [603b5f64e440b8f465a55a6861fe128ec5961e4037ed9bd3eaf52539a285e1b9]
+│   ├── t1.vom [d37f56326e5b646fc3e3e15796a6d25d82d78bbe87754be830431fe11000afd6]
+│   ├── t4.vom [735ae3797875b1a84f6f37f6b4bdb79773e0d09462b5467ade69d80f7dfb8bb3]
+│   ├── t5.vom [2d2bd99dead27a3f5376107ea163e8ef40342c64b606c7234ba1f8eb79a7788c]
+│   ├── t7.vom [068e722a0be277a7e6639c6cd85266bd76a74fc4055020e53ed1ef900d2d6cc5]
+│   └── vien648i.vom [8950b77f6668eefcae73ae825f04511685e0255ebafef2cc554d2eb511b4c815]
 ├── y (abacus)
-│   ├── abacus.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── t8.vom
+│   ├── abacus.vom [4b71bccdbefccce19dce1c8757ecd11c2bace374ea22a4fa7edaeb78c2bee80a]
+│   ├── t1.vom [66c123485af3cf75dcc45ea8c7e7bfd6cd72788884a5b05b0f3f2da5651a7b34]
+│   ├── t3.vom [8fb36e649a37bb09303484997dbb7492e0a659f6b93b38084cf20778d208768a]
+│   ├── t6.vom [8aa67cb15f72aa293e95e65d016aa6e1bac9d0cae2027392afaaeb2889fe8da6]
+│   ├── t7.vom [a57c01db455df5213fe64cdbde586b417f818f2498528ba76cc79fb23f9083ba]
+│   └── t8.vom [cc723b669a969ee5dc6f677ceef38c7d92009564179a829708c1d8a908fa1df7]
 └── z
-    ├── t1.vom
-    ├── t10.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    ├── t7.vom
-    ├── v-lisbna.vom
-    └── vienna3.vom
+    ├── t1.vom [b930b98d23bcee53d5d4ff44b5b1b14c09d93cceeb97f1e777f05ed93843cd4c]
+    ├── t10.vom [4b15bb38262f583e0c06204811cd55c6b6d0bf72e9b004150ce553bcad500bd4]
+    ├── t2.vom [ca23765f6d9849194ffccd112c2a0210548e57ae400925d97dc607dfeca2d3da]
+    ├── t3.vom [22e05bc3708233b9add5a9cec90a8e5c68178579f3a8ad64f01fb985f1f050f0]
+    ├── t4.vom [0297c1f23cec6eaf1d4c8a235321130bd262ab10c6fb78fb3abfcd8c69290d0a]
+    ├── t5.vom [e47ba654375148b21d4b58b0c4ac27607307444a1fe57067f52eca117562f6a9]
+    ├── t6.vom [63a5d531cbb5374593ac27df7cd751a170697357286f36dfa6639dd36c7a395b]
+    ├── t7.vom [617e80ec0414304b4f9768fe08bf7c3e83c172d8c8f986a3c2febe27f51f56a9]
+    ├── v-lisbna.vom [ea2a22f9aab2517b63aedfaaf7672af5ebe2a1ffa9dcc3e7f4a69bd10f078ffe]
+    └── vienna3.vom [313680532cb2ad44c7880dc0eceb96cc8fb0d2cdb25e4042244a59cc103c2bcc]
 ```

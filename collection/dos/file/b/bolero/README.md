@@ -3,42 +3,42 @@
 
 ```
 ├── 0749
-│   ├── boler749.c1
-│   ├── boler749.c2
-│   ├── boler749.c3
-│   └── wci05693.vom
+│   ├── boler749.c1 [7ca15c4aee79e3a41b71cf5d77aa496b5901f47bbcf74b28764d2df0a671a563]
+│   ├── boler749.c2 [d655c619a2475af15d860ab83bb83dedab59e6ad224ca8500f9da495380f6266]
+│   ├── boler749.c3 [63e846093895d2c879e8530f2c64f50f58cdc915d74d9646b765f949fa5ff90b]
+│   └── wci05693.vom [3660a4ab69776d87e4f787b22a626daf1a05831e594febe0848be8273dab5e51]
 ├── 0983
 │   ├── a
-│   │   ├── bolero.vom
-│   │   └── bolero983.vom
+│   │   ├── bolero.vom [e30615d94a2b3915e24f93db97424cdf1e66917d2e9351b0828bc641c60bd52a]
+│   │   └── bolero983.vom [61ab0577ebcce8b0bb8c33453eade5c45ca480577c1b5e7cacfdfe30ca8a5e6a]
 │   └── b
-│       └── bolerob.vom
+│       └── bolerob.vom [f4549310a56a4ce62cb980c51003ed0d35e25e2b5ea6d9adc5dcc25279db0e1e]
 ├── 1000
 │   ├── a
 │   │   └── 123d50f82b8780325403bc87920ddc16853a6d7412f66f8037916935ce4426e1
 │   └── b
-│       └── 6af8c92aeda023c44c2c1987978fa97ec82db8437019a790b5426c5d190042c4
+│       └── 6af8c92aeda023c44c2c1987978fa97ec82db8437019a790b5426c5d190042c4 [8a960f07b663782aa8c148b75ad1fc51ab4cd9b5694dfe54398c913073e79b4f]
 ├── 1039
 │   └── 29881b3c582b79e3a36c856c4f040ecbc270427c82e070c763d9ee32a39daca0
 ├── 1100
 │   ├── a
-│   │   └── faba9dbc8e03fb6bd18294cdb27a00906f3d738fdb01d1416c15dd7c774e6cfe
+│   │   └── faba9dbc8e03fb6bd18294cdb27a00906f3d738fdb01d1416c15dd7c774e6cfe [4b79ad1c8fbcc866b590775e2060d21de8897c3ad6f7172d1cfa6e13f45f49aa]
 │   └── b
-│       └── 136eeae17cd38f45ae20ac1093993eb34b336f627f2edb11aa542ec6d0b4fe98
+│       └── 136eeae17cd38f45ae20ac1093993eb34b336f627f2edb11aa542ec6d0b4fe98 [73c9ef24811f5f652fc6d4da3c9ce87050f608abf42aa04d43fb16e3b68b1ff0]
 ├── 1254
 │   ├── a
-│   │   └── bolero0.vom
+│   │   └── bolero0.vom [190d0c6ffdaa100829ab0efdeaebb0ba76c517c50401e2ef829a275e280447a2]
 │   └── b
-│       ├── a.vom
-│       ├── t1.vom
-│       └── t3.vom
+│       ├── a.vom [d17050390ecf3bd7a9443eab71b7aabe69401fdb3b91689ae805c790aa3c06f0]
+│       ├── t1.vom [87081194f9f70c6a555cc57a8586f94bf90a1e73955c02c469b9fb9e524b739b]
+│       └── t3.vom [c59a8a98b3a758830cf544a13b267e94a482eaaac975f22d95492c0f9e8f68bd]
 ├── 1300
-│   └── bole1300.vom
+│   └── bole1300.vom [bb7ab5272bc9f3fb9cfe6aad45c232ef0cf0bfb472bad4c9c4484b734d6ef340]
 ├── 1307
-│   └── virus.dos.bolero.1307
+│   └── virus.dos.bolero.1307 [c5bc304ef2f512754e5fb8dba4ea78963b3accfb42ad9043e35c76854f636354]
 └── 1470
-    ├── LWM.vom
-    ├── Virus.DOS.Bolero.1470
-    ├── t1.vom
-    └── t3.vom
+    ├── LWM.vom [4ed75b741becc3e7c3242e3f4da804c2e0b807cc7ae703a3fb52b6cf686ba3b6]
+    ├── Virus.DOS.Bolero.1470 [c2c2cd4648306ae6c420eb8e6d97f934261f2dc99297775fbfb23c92c12be252]
+    ├── t1.vom [34bbe49735fda273c83817631830adcfa2ab902b0a4c1c4b88f887a544f23547]
+    └── t3.vom [92ad9bbbff5094513b19506556826fcf0f63cdeaba6f4d4cbc0365fcf072b325]
 ```

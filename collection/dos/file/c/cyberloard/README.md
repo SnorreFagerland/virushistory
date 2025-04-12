@@ -4,24 +4,24 @@
 ```
 ├── 195
 │   ├── a
-│   │   └── cab5fcf2f41303793984d23b9a4edd8283e7183755ddbf44649e2145de2abe2a
+│   │   └── cab5fcf2f41303793984d23b9a4edd8283e7183755ddbf44649e2145de2abe2a [f6c951120f280243a8284cdac0e1fd77aa679df104ee4a737fef2d1cdbedf675]
 │   └── b
-│       └── virus.dos.cyberloard.195
+│       └── virus.dos.cyberloard.195 [05fc23b9be287f2469e3fe9272a97856c7e1e5820b0bd36d549c0fea6be14eb4]
 ├── 200
-│   ├── cybrlrd1.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── cybrlrd1.vom [02381f68e21ecff0175f2fcfb8bb616e7661ae8e7c7152b7b8b4845bdd7691cc]
+│   ├── t1.vom [f80dadf942b8412e08ce115a43a641efb9088d12b3e94e04c220e8c014bdb813]
+│   ├── t2.vom [11d9855818f62e819fb3d2a9af0895d80501cf6648e5f8963446f7569a7e37d4]
+│   ├── t3.vom [0be2ca8c618b8e73b00755da93eba73d15dd0fc5ba1db2ec277f83b69de343aa]
+│   ├── t4.vom [c00d77184f0cf141ec84b31ec50d53a7b6f00ce6841bb7612797336dc3370d97]
+│   ├── t5.vom [78ec85b6ac668189e3388f04f986dc262a5662b5894db29229a7da2e8a415b2a]
+│   ├── t6.vom [a3307da61fe948a5e37894cdf65178175c1b3f69778e4c756a533fc6526a4235]
+│   └── t7.vom [ac993944e3aa952eaf5ef5a702706acbcb377c69fef8e092ff89d5285950f4a5]
 └── 381
-    ├── cyberloa.vom
-    ├── debug.vxe
-    ├── t1.vxe
-    ├── t3.vxe
-    ├── t5.vxe
-    ├── t7.vxe
-    └── trace.vxe
+    ├── cyberloa.vom [a2bfb87ca44c86b45fb949236ff0d45de46ea30a1a78b4186567228c7db4e03e]
+    ├── debug.vxe [18e15845ade230fe11e7cb7980a4080dc8a1f8fcebdffe5a83bbaed41094c9a2]
+    ├── t1.vxe [dfe9e22d3d66a2068ea5f60966b0e3d9d8067346286b3cae87eafaa05dadb75b]
+    ├── t3.vxe [e6039b6cf4bfe4075b6f65b601d339c0b31a79ee52b8ba58aa0d37a26b953412]
+    ├── t5.vxe [8a50694a08e874cf09c36758dffaba0b48d376e0f386da8f97c939334285ef08]
+    ├── t7.vxe [7c1970d47fbba1cc4366e9a8543221b1dda54e446764bd553b16a9c061372285]
+    └── trace.vxe [7214aa953907a904ce16fd1d234fc213641c58bf3b2aae907fc7c238318f3535]
 ```

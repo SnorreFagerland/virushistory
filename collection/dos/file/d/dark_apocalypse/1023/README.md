@@ -3,16 +3,16 @@
 
 ```
 ├── a
-│   ├── debug.vxe
-│   ├── t1.vxe
-│   ├── trace.vxe
-│   └── wci00803.vxe
+│   ├── debug.vxe [7c7d00a6636126a60e3df388442b08f0a493dc52dc8435350d4c82f6088b5649]
+│   ├── t1.vxe [d65b3dc5caeace0409fe84cd990057c9ece69ac501bf7f6cb3ecddc019c41381]
+│   ├── trace.vxe [e4fa13c63bde26d20a369f09e5b83f31a14729ef09794486f4d3814c0719216e]
+│   └── wci00803.vxe [e1d3985d4cda35958c7e0a31ee87ca47c2b7b00997aab1d2de8d5fdc7d1f161e]
 └── b
-    ├── DUMP32.vom
-    ├── LWM.vom
-    ├── NETRUN.vom
-    ├── t1.vom
-    ├── t1_2gen.vom
-    ├── t3.vom
-    └── virus.dos.dark.1023
+    ├── DUMP32.vom [e17e9b9e6be389c7f8e2c8df983555a0428659edef9745110e94014bac676f3e]
+    ├── LWM.vom [f18bdc53c38e85dc6392fc28c68f581951b0e0d6487f0e39965aed70dd4e3dd5]
+    ├── NETRUN.vom [f09a89b09fe940e26ca5a31f71451a6d55330f78b8035144c55a7e3755f54c84]
+    ├── t1.vom [5885e37aeeff70ec4eabad8c3ad74d9eef793b25610b6c54f69d9a8fdb26e4a2]
+    ├── t1_2gen.vom [5885e37aeeff70ec4eabad8c3ad74d9eef793b25610b6c54f69d9a8fdb26e4a2]
+    ├── t3.vom [1f9d0e626d9cf0e0a1137dcc991a9b5932ecbd94f8763296848c280184b7d619]
+    └── virus.dos.dark.1023 [367fb5db94660b199c6bdf1679ffc77bd12485824c65055c52023eea803123a4]
 ```

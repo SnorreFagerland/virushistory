@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   ├── choice.vom
-│   ├── doskey.vom
-│   ├── mm94.vom
-│   ├── mode.vom
-│   ├── more.vom
-│   ├── mrkt1551.vom
-│   ├── sys.vom
-│   ├── t7.vom
-│   └── wci04343.vom
+│   ├── choice.vom [12b54cf7bba576975e5cd8b062d394a2241359077beb1a843e3aef63244a8847]
+│   ├── doskey.vom [3ca7e1172af09cc965d450735b6c763a94b29a659c113b505a96a903079c12eb]
+│   ├── mm94.vom [32bc4f362324459bb91ddb92cf64dbdd4ec19dfa9dcb5b392623d2d2d2cfe804]
+│   ├── mode.vom [5b38f19d3223c83c743d409045e300dd5db99a2df19db2d9d756dc9b63aded48]
+│   ├── more.vom [a975822da88cc668d0906234ccd3d7d9f0071a96021847a1ef7f4c8d0c7f24df]
+│   ├── mrkt1551.vom [8ee829e6e8bd98a01fd91ab3a28b5eaa27172756c6dacd38d64279ad2893cce2]
+│   ├── sys.vom [2703cf894fa5729e09baf6710a2e335f92e8d7598b7b6683ed584228ff9a1323]
+│   ├── t7.vom [ede96b4f37dfd9a648659e9c11ea3f88d8972c3f16fa63139e03e1364f77e1c5]
+│   └── wci04343.vom [17551ce66db3492b19d7c3b5c07288f3151936cff93761cf151a6f5a4bb02aed]
 └── b
-    └── markt_15.vom
+    └── markt_15.vom [25d06025cfdf8cbe77433e958edf5dda8b024434364dc4aa82bd00f89afb5941]
 ```

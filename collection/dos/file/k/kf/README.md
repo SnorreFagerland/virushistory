@@ -3,17 +3,17 @@
 
 ```
 ├── 1361
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t9.vom
-│   └── virus.dos.kf.1361
+│   ├── t1.vom [046b5ca19c08e3608af5521223dcd924238f8da63027fd442dd2736fd7e2fed0]
+│   ├── t1.vxe [c773bc959bd1ba9c87762f1ec9168c521ada68739be50764fc56b332abaa0c77]
+│   ├── t3.vom [ee311292d31c43e6904aa795551f0e5fa2acc7f25fd95d2341d371a3b22bb14f]
+│   ├── t3.vxe [976890d502b499930e981a107a199f827b8318f55370b99549d86c8b5e338068]
+│   ├── t9.vom [76559471fcaeeced8c4ed49fe605bc608c6b8159633ff57242bc9eac87e17651]
+│   └── virus.dos.kf.1361 [53d672795ef94aa54c0c2c3b46774dc7e2acb26db1850f505fb5231e13c3023f]
 └── 1367
-    ├── A.vom
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t3.vom
-    ├── t3.vxe
-    └── t9.vom
+    ├── A.vom [1a130c2033d7e12b782eede7a76a27fa9431634a7647d27c0a65e5d426aa0537]
+    ├── t1.vom [d260e655c6a691b5f47550acf291dbbfe1b21dcbe6d4e5bc4ea767706303813f]
+    ├── t1.vxe [d6b92be863f68e6e13d266628e51de2ddb24b01754380fbe8ed39c37b80205e1]
+    ├── t3.vom [5f125ca194a22163eebe18eef30a379d2f65c2f33a53ff879905800461669c16]
+    ├── t3.vxe [1599d6a4f2362c7ec1618f537d061fe4143f6870d0f8a0b8c7482c971a2a6448]
+    └── t9.vom [272e4e54cc54b61dc66b82c0f702bc4e4a6495e7c345f5bc79886db5f2fed1a3]
 ```

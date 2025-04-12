@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── t9.vom
-│   └── wci01724.vom
+│   ├── t1.vom [957a9e84f7dcd3f6e19a082d614a0ddf7fc488a0006a741281749f925223a374]
+│   ├── t3.vom [db25cc0203b9522482ac81b5eb9edf70f61a430b245d030e1475a51e062d9214]
+│   ├── t5.vom [4cda056601e6d9b5d246420f7aaa55a2e5ab5bcb68079dfcd73d5980971ae01c]
+│   ├── t7.vom [9134df213c9da2df15fee509badf6b162962144a1b8b941df1036615f2e922f6]
+│   ├── t9.vom [ce8fd016ba42e235aff4a0c032d9b3679bc78ea26ab28c699a057e6a5b5ed6f2]
+│   └── wci01724.vom [3baf4d41c3ec77f36509db1e619f42f01faff83f0847fe02b19b03f7856b988b]
 └── b
-    ├── keyb.vom
-    ├── t1.vom
-    ├── t3.vom
-    ├── t5.vom
-    ├── t7.vom
-    ├── t9.vom
-    └── wci0226g.vom
+    ├── keyb.vom [5c83075dd2a976f49175e05d3af63f1b9f0b43c4d796741f75d6d3c69783c380]
+    ├── t1.vom [f60032dad0f21de7b77b809c56dfc429f8cc54f3c7666acfbed84025189d8a7f]
+    ├── t3.vom [e86a04111977dace9680447337469827b9d12ad07122973c9eb8b34030fd541d]
+    ├── t5.vom [f80c1048895643dd757622c8a8ebd4e38c141a10dd52ddb6c98d9f2e1f2b22dc]
+    ├── t7.vom [a27a4316831916aadf2ad5b64247dbaeff08953fafc82e72c65c9e9fc8a53c12]
+    ├── t9.vom [0688766fbefa11355d1c37335f8c3a193f526bdab9b0c60bbdba2476ebd6175d]
+    └── wci0226g.vom [700eb65bcaced8488ee3fec440124d6bba4569e29bf1c7a36adf7193d649f275]
 ```

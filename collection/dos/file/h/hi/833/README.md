@@ -3,10 +3,10 @@
 
 ```
 ├── a
-│   └── hi-833.vxe
+│   └── hi-833.vxe [db943f932983d7303e4298b9f5f26f8e8c81d1c70bf0a227432b151a6b92be63]
 └── b
-    ├── t1.vxe
-    ├── t3.vxe
-    ├── t5.vxe
-    └── wci05023.vxe
+    ├── t1.vxe [c8c8b06a193791e69437f58f7a6fa79c3c54063e6204fbba4b04f1f4c0c16084]
+    ├── t3.vxe [a2341f79b89864a9d0bc14f442c5d15e10135e5538053ca051891d4730c1a40a]
+    ├── t5.vxe [6f47ecffcf909fbd780851d1048179e30a2760d074a08f2c9144ca8eed73b6b9]
+    └── wci05023.vxe [84492d26906687707484bc2a98072d9ca869d39703ea7c503bde2afbf22168b6]
 ```

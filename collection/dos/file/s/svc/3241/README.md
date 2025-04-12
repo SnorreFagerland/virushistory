@@ -3,28 +3,28 @@
 
 ```
 ├── a
-│   ├── svc3241.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   └── t7.vom
+│   ├── svc3241.vom [46d66ad7b2874be1b934a641c50a34814324614d5bd1ac13d25a6fca5c1758f6]
+│   ├── t1.vom [8a4f845cffe9ca9eed1e5f1aedda750df2ed364150d96654ccf0d2b982b09daf]
+│   ├── t1.vxe [e918945d86ddf72271baec18f9c105d3a003be38232b374a78fc034bd95eba42]
+│   ├── t3.vom [373621af2818c7644a7982e9fe5ad04369f4d37f6052f8a1b623386648d14e67]
+│   ├── t3.vxe [20da46ebd5441d6d7aad2550fdc1052d7705fe68d2044b1b91cabca677060434]
+│   ├── t5.vom [bbf528e1e8409f855cca23241832f0f254906588ea4cd16194710fd2ba36b8ea]
+│   ├── t5.vxe [464f8b6930c5117076eeaa4602364e768359a745d83c8d460e8135f8e0f01495]
+│   └── t7.vom [e494e90ef55b97538b5dce6c74a123718bbe07b556b8c893d764b7d63aecfb66]
 ├── b
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── trace.vxe
-│   └── wci03932.vom
+│   ├── t1.vom [f38a5c2f150a9ba0ecdbe9f36523306e63b4865b74c56b35f0e013bd66fa0dd9]
+│   ├── t1.vxe [2f7a0032c83282513f46cac873a45b8b3793c3bac6c4a1263421e097cb15285a]
+│   ├── t2.vom [d0c18cd8d241695c6671f135c5d19884f79d008731deaceda3c9eb500b93274a]
+│   ├── t3.vxe [28e9c87b7e0a75605ecc68702a1bd568a8a8f3b12f2706506fb65c24dd2b3653]
+│   ├── t4.vom [333a24964950ae0a9735c7b0b8f54f97db03ffe6ac886ad4bb3ea431fca9c0c8]
+│   ├── t5.vom [061a34a38958a42990682de59a24a021ddc2fe330b993586c6d08136ec85ad3f]
+│   ├── t5.vxe [39f4ff4651bbc4ae6a9a815b02de7b41cd1ac44bda5f621bbae4ad453c67fa69]
+│   ├── trace.vxe [cb64d04155506224680f1ad631a047e65d7469aaf9eb3ce03e10c98d569c20d6]
+│   └── wci03932.vom [69f4c7f4e6312709e4a98346e7eee4d2326de8feef5a5ce523bf3b6d2209a6f3]
 └── c
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t3.vom
-    ├── t3.vxe
-    └── virus.dos.svc.3241
+    ├── t1.vom [d43b46e2f95be41581bb61d99e4f9b0a51541ba3df3446fff78fd2130585866c]
+    ├── t1.vxe [3caecaa4f445e12d8ee37431fe83ee15fa8cb62f49729b67fe6be00be3988566]
+    ├── t3.vom [b67d2185f5540444ada42f2e62abc64b4d1f4755afdcd5bb0de761cc3a89772f]
+    ├── t3.vxe [af514bb354ccd7ec8b58f2b44bbdf600637cca328f7b84f7a2a21c1ab7b434ef]
+    └── virus.dos.svc.3241 [d610be5f1232fd8c9f68c99cd6a75e6a47c378a71d85ef8dc953810576ec9b00]
 ```

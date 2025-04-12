@@ -4,31 +4,31 @@
 ```
 ├── 1963
 │   ├── a
-│   │   └── necropol.vom
+│   │   └── necropol.vom [1fa5a16c78d5f783786386ca6be836982cf4c3ba5577fe289169ee7de8a9a3ee]
 │   ├── b
-│   │   ├── !3330.vxe
-│   │   ├── _1963-b.vxe
-│   │   └── necrphyl.vom
+│   │   ├── !3330.vxe [9f46d838925de7241a3080aa5ddef21a938937dc81986f35f5c565756c6da71a]
+│   │   ├── _1963-b.vxe [a03dd5ae47d82b6cdd3d79094289107c9c8912dd51aa4ca469a2c089a790cf02]
+│   │   └── necrphyl.vom [52009ec635184da2418e5c95517140b2b35c94ce609ff8cde7952784ee73aefd]
 │   ├── c
-│   │   ├── necro-c.vxe
-│   │   └── necrop~3.vom
+│   │   ├── necro-c.vxe [673b73fa8ae75beffc90e64f921f77fe569161aa9a7a33a743402ac9ef6917a7]
+│   │   └── necrop~3.vom [a948d48ffc45a6fcb926fc5b47bee72875a7992f513dfba6a684cf2efa2316f2]
 │   ├── d
-│   │   ├── 00012973.vom
-│   │   └── ne1963d0.vom
+│   │   ├── 00012973.vom [fb9b488589d3e792fd67fd9a8c78e14c1f2ea859e647bcb3e957ebf104f5757e]
+│   │   └── ne1963d0.vom [1746005c6cb905c3c5c55c2e2d5aa26db6ed064db697a6d5e05d35d7f482d555]
 │   ├── e
-│   │   └── nec1963a.vom
+│   │   └── nec1963a.vom [6e08dd263442a36ad1c92bbe06d871434e5d661984f8fb43a3a23f111ae960e0]
 │   ├── f
-│   │   ├── ira-012.vom
-│   │   ├── necrop-f.vom
-│   │   ├── necrop-f.vxe
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t10.vom
-│   │   ├── t3.vom
-│   │   ├── t7.vxe
-│   │   └── trace.vxe
+│   │   ├── ira-012.vom [4646dc1082026bba7da19968a861c653acbbe9fc471db40950f5657dea2eff47]
+│   │   ├── necrop-f.vom [01644f772b9bc8eecb8ee5d2907f5b1627fd4fc5180d40ff4d59518c0fe90d45]
+│   │   ├── necrop-f.vxe [6cc3b09ca882a684fc6f6acb99d9c73a741caff90313454af0b4bd1203760f4a]
+│   │   ├── t1.vom [2eb0167a24267685bc7e068f01c37ebef63b28f21c7e87f83c9e672c6248432b]
+│   │   ├── t1.vxe [ec626d63985c914701007b38c7835b90be3d83830399515a0c92d5e8adc5a1ed]
+│   │   ├── t10.vom [fb382f6a1e437b934852aec711f3a714cbf7e647430912b314a141fdef23f42c]
+│   │   ├── t3.vom [fc789d5f7b294241201ded7a77261670b747ef6c72cdaa3870bbe41119ce9225]
+│   │   ├── t7.vxe [960dc0bc719d2cc09c0ba5a098fada7a85a2f217afbfbd2fb6e47f351b3750be]
+│   │   └── trace.vxe [c07b70f8937eb0a2acdab206f858ba24eb846e650447c980d752d59a0ad81bd8]
 │   └── h
-│       └── 1963.vom
+│       └── 1963.vom [7ed3f1f341fbcfce35de2776c748ea58baf1e83b1624ce6a93891cc4be5b0243]
 └── 2007
-    └── necrunk0.vom
+    └── necrunk0.vom [e27c85d5a647a5b3e77e98bb24a7669a89b42adf9cdd0f7eaeaa2d42e9cd05ba]
 ```

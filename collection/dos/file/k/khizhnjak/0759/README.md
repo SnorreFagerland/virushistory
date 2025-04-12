@@ -3,36 +3,36 @@
 
 ```
 ├── a
-│   └── infec759.vom
+│   └── infec759.vom [74b4e4833048d911f510305d284449945f3fc1284d9ef8835139529bd45fdeb8]
 ├── b
-│   ├── khiz759b.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── khiz759b.vom [1405a6c310999cf2eb948f2ebf95b7625d88b873e6f6c624f2f9975b02034296]
+│   ├── t1.vom [069bf586086ba5610dfdadc2a2fa1a4bcea8558ef4f4cb642c0637e85980c232]
+│   ├── t2.vom [a45f914d5ea69fd647e5fea6a5ff1cb4b57a3e05cb6a4a41a4e20a9c3b24c336]
+│   ├── t3.vom [874214b2d23896bf1f91d0f724c7aa9fd2c6b0328a61459f7487c3f36b3a9e91]
+│   ├── t4.vom [78cb76b39c03da6fc228859767051ab3813b909faab2c311a56754d0ccd04f1b]
+│   ├── t5.vom [80d4316df05e4f810916e51f72bada652cc968249242e04ab9729e258809ef80]
+│   ├── t6.vom [070bc3b996aafe21370f41470c1f8b799fb37a635068e7114cd70da8e547c38e]
+│   └── t7.vom [581643f8b269201f0936f86e5d21f3a540f0782dbc214c841df05bcc8d0cff2d]
 ├── c
-│   ├── hallo759.vom
-│   └── t1.vom
+│   ├── hallo759.vom [a8321f8347c5e709372ceb221d5e100f5096af9dc745eacdb8486658f62faecd]
+│   └── t1.vom [c9824de4fff22218deea8b6470cbbb1228934ed045611cb03bd7437319712de8]
 ├── d
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   ├── t9.vom
-│   └── wci0100k.vom
+│   ├── t1.vom [1c1f5eed1a9defd60ddb9c390b83c5e80345ca32369eb9e5a61683956e044c15]
+│   ├── t10.vom [25e36185ad3fe1eb848b578b627c410136e661c357cc2cb666fa9c361026f699]
+│   ├── t2.vom [484d6ebfac961750f37db3371b8fe9743e6ab64e0c39a348797e4cd93c6d667d]
+│   ├── t3.vom [8daa39edf01cbd649bf15b79425253573497fd71413897489483a70dfebe0311]
+│   ├── t4.vom [43ac0231827a5f87247c2e9a9b4afebdc81f1ead2d0b2f9b9b03c283c7941b2c]
+│   ├── t5.vom [9045128c1c0c3cea8313c627cc08caaeaad9f900db482144dd6487df4b80b53c]
+│   ├── t6.vom [4892bd1f5847e26f6201aabc88f16849b3e4f7cb4e9f7870030ea4544707bec6]
+│   ├── t7.vom [d557c0a523ebcc875e0decc6862b0e12b2a9f2cd96efa2c3408821137d4dbf30]
+│   ├── t9.vom [db9e8b17327ed52da2b9545f4ea31a2b3160520d615933d36f97d664995d8d60]
+│   └── wci0100k.vom [75dd3706d0ef33ebd1b1d9ecc7f855846368c725bdb04b60c885eb931b50205b]
 ├── e
-│   ├── khizhnja.vom
-│   ├── t7.vom
-│   └── tf.vom
+│   ├── khizhnja.vom [8bbe44e83000dfca07816ac82db29e84642b65bc388452e97038d6796b48261b]
+│   ├── t7.vom [fbce56ab3803031ae81d161181adc946720fd6c8400c6d2c625f833aa0567013]
+│   └── tf.vom [e55023e20cc9fd6ebc45a6ea88746555ba4303b9f1177870f10091ba5d74026d]
 ├── f
-│   └── khizhnja.vom
+│   └── khizhnja.vom [6d4bc577e1fc47b81958462007284fe4f5e1c8c0cf5b93cb1d737898e5919d7e]
 └── g
-    └── khizhnja-001.vom
+    └── khizhnja-001.vom [7f333bf5130ed267cace83169b621bda8d63b1203cc5ee43a544a0f3ca2aa371]
 ```

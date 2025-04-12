@@ -8,5 +8,5 @@
 │   ├── d3706d11a9a6d8db4af7cf5a4f3eda10d1f697e6377b966a198b5b48a4628b82
 │   └── e01390498ec86798fe65340225f97e42c4edd951529ebc154eecb781a4ec8a5d
 └── b
-    └── Virus.DOS.Alho.676
+    └── Virus.DOS.Alho.676 [58690ef96007db09947a9224c20e641f7f7f22fb2a50d3803d081ac0d57ccd70]
 ```

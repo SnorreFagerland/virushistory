@@ -3,20 +3,20 @@
 
 ```
 ├── a
-│   ├── chkdsk.vxe
-│   ├── exe2bin.vxe
-│   ├── nlsfunc.vxe
-│   ├── pkzip.vxe
-│   ├── scandisk.vxe
-│   ├── socka.vxe
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t5.vxe
-│   └── t6.vxe
+│   ├── chkdsk.vxe [51eef72918bea12abb5723d082db8089697a6e0d84dca8ef409b554a45209209]
+│   ├── exe2bin.vxe [7437d8d1c8224d5e5fd283ce39152522d592862b20ad6baad9995e7638b6336b]
+│   ├── nlsfunc.vxe [ddb3e95fdab47a69bfd59652931ea4e6fee6fad0c0598f96cf83502406603aef]
+│   ├── pkzip.vxe [9ee539d4249a11a1535402ffd4b6df960d15c56eb97fe8ff2a61a782d06b650b]
+│   ├── scandisk.vxe [df0c0860d3b6c480fdb1fe0554d1562ed3e6be6a1fd53e7ed68fae83ffc34e3e]
+│   ├── socka.vxe [9c4c4d436b546a2a578fd6f8d7d197654d186058e9a04aa300b3805dd5145e36]
+│   ├── t1.vxe [31dec144ca755bc9d9950df57b47006fc75e93673443cf7567214319fb790e52]
+│   ├── t2.vxe [b0416f7fda42b7ea4681511a12f9b401fe422391862199de6ef668dd3ac6871a]
+│   ├── t3.vxe [454c413acb995022650e8f914a26d9620ea3b6b551d26fc0252e1f6fef20ff3e]
+│   ├── t4.vxe [4899aa6c9cded3f1a7a63b044e9355e52f7e72961e0989f2687ff5acb316ba8b]
+│   ├── t5.vxe [cff99cbccd07d6423c88963c7de699a90b1d938cf015f3178ad4e708998aa53e]
+│   └── t6.vxe [b0741bda6cb0f95d34041e9d9831df836608fa7a72e934c75ad0e382b2ea76c3]
 ├── b
-│   └── trieda_8.vxe
+│   └── trieda_8.vxe [23fd34fe0dc5b888f70e5383f80e879d99599f4eda968796047c26341a14b7d2]
 └── c
-    └── trieda_8.vom
+    └── trieda_8.vom [e1df76115cd009d685c29337c32db9e0e6869001025238cce45b1cb8fbf2ba59]
 ```

@@ -2,8 +2,8 @@
 # Contents of `b`
 
 ```
-├── DPOG71.vxe
+├── DPOG71.vxe [6f2bbaa166b268a26fd0cba579f6a30b83fa7f43c2e23a33a21d17cc7cd0c96c]
 └── src
-    ├── DPOG71.CFG
-    └── DPOG71.PAS
+    ├── DPOG71.CFG [5fa3d6b82224a1d17d569e1601dcd683736b8609f52426190c8089ba431c257f]
+    └── DPOG71.PAS [ab274a0b35814a0eef61e90c2a9939960d2abbee5f25722a5cbd9565b8ffcd64]
 ```

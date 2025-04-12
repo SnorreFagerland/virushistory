@@ -3,579 +3,579 @@
 
 ```
 ├── 1079
-│   └── trux_107.vom
+│   └── trux_107.vom [12d16ff6cc881238acd004061919e51c92e0f40ac22e9b89ed81b96b15f9dc01]
 ├── 1085
-│   └── trux_108.vom
+│   └── trux_108.vom [1b2779392a63ea5c1d9548083ccb6c83433be765032c8d0b96ee4484688a8232]
 ├── 1086
-│   └── trux_108.vom
+│   └── trux_108.vom [da78e0d6495ca079f5658d792c63daffda8ffadea0065e83e6a5ed30c25d5ee4]
 ├── 1091
-│   └── trux_109.vom
+│   └── trux_109.vom [1f3c998de4305aa64b52854c39ca415cf4659440263dc4bf521a2413adc4d7bf]
 ├── 1095
-│   └── trux_109.vom
+│   └── trux_109.vom [19b34c24d0851e9ce18238ba613698bcf0b93e40e1d3eb2277fdad192753c3f9]
 ├── 1098
-│   └── trux_109.vom
+│   └── trux_109.vom [f05977935150ba429ddcbc9c8dc123a70766bfa1761bb7f93c4bf8b73f85435f]
 ├── 1100
-│   └── trux_110.vom
+│   └── trux_110.vom [1ed3db4eac40775ef46e1c1b8569dc9333fe2b8e2ed909f170ea5066eaded6d0]
 ├── 1102
-│   └── trux_110.vom
+│   └── trux_110.vom [9727f69f019eedb361a44da2dd81cb0c37064f0de6192b744868275e2c5e323b]
 ├── 1104
-│   └── trux_110.vom
+│   └── trux_110.vom [2f99c535136ab4491bde51da6dd77287629fc8742567dc46081e41d9218cacf9]
 ├── 1107
-│   └── trux_110.vom
+│   └── trux_110.vom [c95fe77f83bc4e36578c9d538ca7a39b654b52efafa1c1b2d0050f2a2f24cbdf]
 ├── 1108
-│   └── trux_110.vom
+│   └── trux_110.vom [1f78c859a1c63ebfce123164ae6d7c8466c8577c971f44afd323c613d7cf91fd]
 ├── 1109
-│   └── trux_110.vom
+│   └── trux_110.vom [1a96018b63941681222566f79dd8ba1e48b9a01015ce5ad730da80ffa8a91237]
 ├── 1110
-│   └── trux_111-001.vom
+│   └── trux_111-001.vom [6c111ac3ce2b4d09ca877231edfc0ab04b351c4dc42fae6f7eb82c9a9ef9db83]
 ├── 1114
-│   └── trux_111.vom
+│   └── trux_111.vom [7340fea271a5777ca8f8bc2f65ed42d0ef437be62b4cd1fb2a960e490c2eb433]
 ├── 1116
-│   └── trux_111.vom
+│   └── trux_111.vom [0f531d5342f65c2b0e7b05a154386ae1c538edfdf4281164cc6a3294c148dd5c]
 ├── 1124
-│   └── trux_112.vom
+│   └── trux_112.vom [9f51a2e3310a28835345158d74566ae8d157905ea552b85bebed846627c60261]
 ├── 1126
-│   └── trux_112.vom
+│   └── trux_112.vom [0a66030aa02df1c2f9de1e64835fb210cb6a903f6fe2e6a0a5c305a60717e539]
 ├── 1129
-│   └── trux_112.vom
+│   └── trux_112.vom [16ae946eaaa7531bc730e489d930d19f9e22f0807bc3ce51175f157674fc126c]
 ├── 1130
-│   └── trux_113.vom
+│   └── trux_113.vom [1f68e81668ad5b7a056292bf360811455ac17434d905150c00c05bb75812fa45]
 ├── 1133
-│   └── trux_113-001.vom
+│   └── trux_113-001.vom [7ef0ead4daf810a17faa5022c21ae65c9b9ce6fdcf20148c8900279c64267b78]
 ├── 1137
-│   └── trux_113-001.vom
+│   └── trux_113-001.vom [f31092a51732be09c2cd659507b9081cf215f14afcb5dab241fe214c46113a86]
 ├── 1138
-│   └── trux_113.vom
+│   └── trux_113.vom [c345f1dcc38f0166aa6f05fe94259e7292886296697caf23a34b912678a9a753]
 ├── 11395
-│   └── trux_113.vom
+│   └── trux_113.vom [479aba4db62289d599cfefe68eb6f679340499f2531699a86403532393b5c73a]
 ├── 1141
-│   └── trux_114.vom
+│   └── trux_114.vom [cd3c535e58682fed92bcfcd5a61a6c0ff1b6161650e34da564bc318cc7ebc40d]
 ├── 1143
-│   └── trux_114.vom
+│   └── trux_114.vom [4d4f48f6601d6362b586bf0c4d6b731259962dbca67225365bf49944583105f5]
 ├── 1146
-│   └── trux_114.vom
+│   └── trux_114.vom [d41ee4f869baf05cd8ce7e5c558e504903fe144a31f8fa34afd197a840907b80]
 ├── 1150
-│   └── trux_115.vom
+│   └── trux_115.vom [32c6b338695cbc260090a0a5387e5f54e8200f14263ff08e4a9a2c24bdb7c8c9]
 ├── 1151
-│   └── trux_115.vom
+│   └── trux_115.vom [8813f4526d3a1bd174dabe8d480bf541171152120923248e6a426f1ec52dab96]
 ├── 1152
-│   └── trux_115.vom
+│   └── trux_115.vom [e4fb0ca316a9e0947cc4c558b449f2f0167c2a50d831806be8fc9627c68445f1]
 ├── 1154
-│   └── virus.dos.trux.1154
+│   └── virus.dos.trux.1154 [fc8fb413917398e60fa33fd6e14077571b7dc06efad9bea7bc07d4c370cfcc19]
 ├── 1156
-│   └── trux_115-001.vom
+│   └── trux_115-001.vom [5a59842e2f58236486109dea1dfaa6bcc7663bd5c1c8920eb09548b2bc5813c5]
 ├── 1157
-│   └── trux_115.vom
+│   └── trux_115.vom [1bccd9a6be826f48469e0509f25aaf676b517175bb978ee5d62bea64accb0101]
 ├── 1159
-│   └── trux_115-001.vom
+│   └── trux_115-001.vom [6071b39b62755bb08e044dab717ef5e8cf70fc2f8bb0e5daa1eeb2e3ffc3891e]
 ├── 1161
-│   └── trux_116.vom
+│   └── trux_116.vom [89987052591b5e76e8bf2b291897a8e6e67056b70e6b52e6571d4cc10a400cc6]
 ├── 1162
-│   └── trux_116-001.vom
+│   └── trux_116-001.vom [730a63d9bf972cfbdc12be1432f798ea392b36c124e83aae52c6f2715cbc3b05]
 ├── 1167
 │   ├── a
-│   │   └── trux_116.vom
+│   │   └── trux_116.vom [419cc94c202ce42044b309d82d0f80c26db492bafa3af3257f271b62b5fe216d]
 │   └── b
-│       └── trux_116-001.vom
+│       └── trux_116-001.vom [4ff62865e5559877a577b2810711f8e305759e8059ca0fccaa6d647b9e0bbef8]
 ├── 1168
-│   └── trux_116.vom
+│   └── trux_116.vom [c3dc6af05245d58860c3e6368d9aa988436c9f8569d4e95e8e5c039dd443303a]
 ├── 1171
-│   └── trux_117-001.vom
+│   └── trux_117-001.vom [7e5ab72b3d0d1f775d4c7b6b92d7e0cc7e22a156794e22c8a3b7434d1f776c81]
 ├── 1175
-│   ├── trux_117-001.vom
-│   └── trux_117.vom
+│   ├── trux_117-001.vom [60443de3057c3a1c0adda8dc1d019f70bead444ee6a35518887a977b97e9e45c]
+│   └── trux_117.vom [1cbf631a857ed333241efe85cd92723844d197882c2ca3dd5fcf62698b88bdd9]
 ├── 1177
-│   └── trux_117.vom
+│   └── trux_117.vom [0ae6460bb573b9b7ee34cde44e2ee1e6475f2c56bdf284e834cd9914eb12259e]
 ├── 1179
-│   └── trux_117-001.vom
+│   └── trux_117-001.vom [7c745d46230e924efdffbf407280ae9404ee380ee938c82ff0c29e3816704f10]
 ├── 1182
-│   └── trux_118.vom
+│   └── trux_118.vom [71e813740ae8aba594412af449af10ef6bf91399a0461dd82d385cc6dcfd126b]
 ├── 1184
-│   └── trux_118.vom
+│   └── trux_118.vom [92263addfd2e5cae3bbbb8d04bd482f57e18286178f10957d2fe3b8f7dfc7400]
 ├── 1186
-│   └── trux_118.vom
+│   └── trux_118.vom [4becf2bff97da94b6666b110212dbe4dc662be90eae3c7b408a3ae825b83bfc7]
 ├── 1193
-│   └── trux_119.vom
+│   └── trux_119.vom [652a4f98a855812149df34c82cbd8febba29e6efef75ea3d5b1206e98e070e67]
 ├── 1196
-│   └── trux_119.vom
+│   └── trux_119.vom [c21fff99ad79eb7a75dfc6af1785483567f2a6b63da5c486464176a3bab47ba8]
 ├── 1200
-│   └── trux_120.vom
+│   └── trux_120.vom [fc5103fe9020cec503adb3a3f01d3c78384328ceff9f4baf2c235e3b2d4c578e]
 ├── 1205
-│   └── trux_120-001.vom
+│   └── trux_120-001.vom [4641150f7ad2ee93f23fc2b81f40878c8cadaf301e31ca5bdbf666a6488f6426]
 ├── 1208
-│   └── trux_120-001.vom
+│   └── trux_120-001.vom [8484e2ee5ab2276017161a12b921ee1ac4b3a136426b889377be1badbd2a5cd3]
 ├── 1209
-│   └── trux_120-001.vom
+│   └── trux_120-001.vom [66c4b5de203584fd33a8788ae35196057cf9c33a9c2554de1ced55e760e302ec]
 ├── 1210
 │   ├── a
-│   │   └── trux_121.vom
+│   │   └── trux_121.vom [483aba3e7812ffa1f768a7a97bc0cdcbb64cc7da5ee284617260b4f480e876b9]
 │   └── b
-│       └── trux_121-001.vom
+│       └── trux_121-001.vom [6e15f7f99b5783cef4e6191441ad68bdd2e766f4f4e5d1924459593c951ecd91]
 ├── 1213
-│   └── trux_121.vom
+│   └── trux_121.vom [053220b626aec8be854e0f2da144c394b1704d254c618fc026faf62b4d2a136e]
 ├── 1214
-│   └── trux_121.vom
+│   └── trux_121.vom [9215c97bb4c9662137ebe9200f6b08863d0be02a375e60132c968d4ae99d460b]
 ├── 1216
-│   └── trux_121.vom
+│   └── trux_121.vom [ede7422d0965fbead028dcf00e7a2baa19aad2000253dbab072ca2a73e4c840e]
 ├── 1218
-│   └── trux_121.vom
+│   └── trux_121.vom [cc1a8617a5a947e47e5c1b77fde579f6236762c3efe9f6173cbf85eb6d558632]
 ├── 1222
-│   └── trux_122.vom
+│   └── trux_122.vom [061109853e851d1ef70d303ed60cfceb702d7550bcfefe4732552772679b66f3]
 ├── 1223
-│   └── trux_122-001.vom
+│   └── trux_122-001.vom [e038c52faa46b630e098447bbd785b1db459129a13c95e5c01cbf133bc88c2b8]
 ├── 1224
-│   └── trux_122-001.vom
+│   └── trux_122-001.vom [c7bf223935896f35363a424b75643db09e3e8efc47dca1021b6e962b969a6597]
 ├── 1225
-│   └── trux_122.vom
+│   └── trux_122.vom [943f3aeb9382e68b013d35083c7389b65fa31ae8cb45cc9e0639a441088f2db0]
 ├── 1229
-│   └── trux_122.vom
+│   └── trux_122.vom [836d6af094416ef517195cd27a53dd42f2ee640b3d2796c5f4618e8d4bf0a7bf]
 ├── 1231
-│   └── trux_123.vom
+│   └── trux_123.vom [f2db0def74a400d96bc591ee284e5d3e8d8b37828262d535d7faf2e011aaa41c]
 ├── 12319
-│   └── trux_123.vom
+│   └── trux_123.vom [14fde27f305c55e95210118ba99e8cd7ee004fca28d9d76409b143e9b7a2a40b]
 ├── 1239
-│   └── trux_123.vom
+│   └── trux_123.vom [fe44bfe583f2da1d681564671f07777393cad6500689a618602acbdfd7caa351]
 ├── 1242
-│   └── trux_124.vom
+│   └── trux_124.vom [6664c638100d36af3da6b07b5a48ac9bb9b86cba3bf5f32e268dcf903f64a46a]
 ├── 1244
-│   └── trux_124.vom
+│   └── trux_124.vom [bd72d5e1f764209d271304ba9e643138745c7800607994f707d70ffe0ac7905b]
 ├── 1246
-│   └── trux_124.vom
+│   └── trux_124.vom [716375a681c7e7ae747dfa9a12b2880ef9b53af82bdae6867f07971f51f7ee39]
 ├── 1249
-│   └── trux_124.vom
+│   └── trux_124.vom [e8116bee55c336de1acf5f2cb379b5b477beb326cc61ac20a91d1bc9540295aa]
 ├── 1254
-│   └── trux_125.vom
+│   └── trux_125.vom [a0aea38799e53e6f36a9900f538dc34c6204f249f584e2f71e4ddadb1c8d726b]
 ├── 1256
-│   └── trux_125.vom
+│   └── trux_125.vom [831eb07c040d728180fdfb818f7a47490115cbb74cac3f524a8df1179138019b]
 ├── 1258
-│   └── trux_125.vom
+│   └── trux_125.vom [7ccf363b0fafb418fef9eb80bb1cd9c6b5a07e036c79f93bcfb22ed8586ea5bc]
 ├── 1259
-│   └── trux_125.vom
+│   └── trux_125.vom [ed41dc7526e5a126f2ac8e6a359621ba1bb7cd55455ee95fcf6cc7f12fcacb5d]
 ├── 1260
-│   └── trux_126.vom
+│   └── trux_126.vom [8c15403fbd035db69e0f9d0d0208c609e88057386723db0e3580ea414f0d60c6]
 ├── 1262
-│   └── trux_126.vom
+│   └── trux_126.vom [7cfa14903dfd0843ef2b54bfa8c8bf569b1c906a5121c1faf32053af431b6a80]
 ├── 1274
-│   └── trux_127.vom
+│   └── trux_127.vom [67ffc721e9d8c7a9633cc2a0c28a5b0f67bad3e4cb312e0bec7f32cbf3854740]
 ├── 1276
-│   └── trux_127.vom
+│   └── trux_127.vom [66ae6a802f50fe801399371569bdda3a57d45ebca273afc43a02385d7f34db15]
 ├── 1277
-│   └── trux_127.vom
+│   └── trux_127.vom [000278eb70024480f04f7f5728a5a6ce562c146601b66f6e3338fc79640a474b]
 ├── 1278
-│   └── trux_127.vom
+│   └── trux_127.vom [9c019680fe9ad433d3ba1512a3b70ac03269252dbef558e9d5f78335097ace70]
 ├── 1279
-│   └── trux_127.vom
+│   └── trux_127.vom [a7af32e6f8df580879cbfd11770cbfa54b9eabf12cfd51fc232b332b3db52e56]
 ├── 1281
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── trux_128.vom
+│   ├── t1.vom [737dd04c10e9a9da43bb01bb96af43723fe411b30389f471d418cf4f8a1a3a1b]
+│   ├── t3.vom [db4535c5862e90741e207232357978e4414bfa380ced454c14891ce0aa2d7dc1]
+│   └── trux_128.vom [700a6166c9bcf0f8353833d79f3576ec6f3c58796a2f811faf0ed9cf37c5eb83]
 ├── 1285
-│   └── trux_128-001.vom
+│   └── trux_128-001.vom [908ae7406a494b89a24a80566e1b6e219e0b3e5b1fcbe3abdb4a63949587d3cb]
 ├── 1289
-│   └── trux_128.vom
+│   └── trux_128.vom [ed28c3951cd0779e89d28f7f672af19a6d64dc60e0c7dc1a925c02b2e3132c16]
 ├── 1291
-│   ├── t1.vom
-│   └── trux0239.vom
+│   ├── t1.vom [0c2b720c3bed40d8532ff7bcb19c3d51431917f5edd6dccbe82ab4f0a345b700]
+│   └── trux0239.vom [9da83889aa64da1161de4e3fa8119b5fa451a759f076bdcd7ccb258a7f98b207]
 ├── 1294
-│   └── trux_129.vom
+│   └── trux_129.vom [188106fc3c5f6d1d0f59fea0db9292f60160413c04c2232ce2ffe3c4b10aadc7]
 ├── 1295
-│   └── trux_129.vom
+│   └── trux_129.vom [a3a7fe994bcaf7675a71a4ba3ee08a39c34e8f51b799c7553e2c38a3cfb8eafe]
 ├── 1303
-│   └── trux_130.vom
+│   └── trux_130.vom [668073bd6dbbaa0b81a82ff9b5aa1634cac0bab06de65b646478c9c90bbb74e1]
 ├── 1311
-│   └── trux_131.vom
+│   └── trux_131.vom [e630af8bd1062ad860c339f0752178053448e917cfaaa631c294532b1d73c1ce]
 ├── 1312
-│   └── trux_131.vom
+│   └── trux_131.vom [be03b64313e7c8f5c674d789628740f72732a992174c9a57c310ce10b19f1bc7]
 ├── 1314
-│   └── trux_131.vom
+│   └── trux_131.vom [e2fbdf256e6bbd5f27a1cc184537bf13d3d71ed7e2a93d9e2eeb6bf14d544e8c]
 ├── 1318
-│   └── trux_131.vom
+│   └── trux_131.vom [a120b588ce48ae4c7e820bd2c8b352ce6003fdee05092cb0653a2c075615f16f]
 ├── 1319
-│   └── trux_131.vom
+│   └── trux_131.vom [694c103963cf1a1327b908dc14d9e0aa34db8c2a026ab8f8597a145a8335f0e8]
 ├── 1320
-│   └── trux_132.vom
+│   └── trux_132.vom [0730644389c729628f2c2bf22e6f902f7f061cf50ae4c9c7656e005f84814554]
 ├── 1322
-│   └── trux_132.vom
+│   └── trux_132.vom [eeda29090bdd2da8ce229f050ec4a9c2f84336adc1e4c8b51ac44750811aa97d]
 ├── 1324
-│   └── trux_132.vom
+│   └── trux_132.vom [c5bc69fc7fa190da9643a039ff6476f2239849364c0a43e3367a29d3edf18105]
 ├── 1326
-│   └── trux_132.vom
+│   └── trux_132.vom [317764dd525f99e81df6fc21582fef5ed16c11c52dd7566109c91a1b822a11f1]
 ├── 1328
-│   └── trux_132.vom
+│   └── trux_132.vom [74c8237bb740c50b2897715378772224ea6128a0c75ccd2e1ac18920b3e0aa06]
 ├── 1331
 │   ├── a
-│   │   └── trux_133.vom
+│   │   └── trux_133.vom [2630114c9becddf0ec53a4b3a8efc6c0d72c947acafa43ce523ff951ce9dac77]
 │   └── b
-│       └── trux_133-001.vom
+│       └── trux_133-001.vom [2b4ac2f606add7af90a0ed74a9b9edf7fa617a3a3d9e3bb9170e051b205e7887]
 ├── 1335
-│   └── trux_133.vom
+│   └── trux_133.vom [734927825edaf59aeeea793bdb16b06530d8444dac5b94678437f02932f79122]
 ├── 1338
-│   └── trux_133.vom
+│   └── trux_133.vom [9af53e273309b61ab654f50eadd1bff47c07b44659f5c87818ce5da1080c14cc]
 ├── 1339
-│   └── trux_133.vom
+│   └── trux_133.vom [dc592c2b08e2d9b388efcab17d608828cc5f9b23b7f40c7e97d5960624c98588]
 ├── 1341
-│   └── trux_134.vom
+│   └── trux_134.vom [601a12d2094842415f57743046fa762d03c76d85bf11a82259ebc06e29e8aa21]
 ├── 1342
-│   └── trux_134.vom
+│   └── trux_134.vom [b01016c872752f23b213edf745130bdee3e86a3ea2d81be0f74617090c3a35ee]
 ├── 1344
-│   └── trux_134.vom
+│   └── trux_134.vom [2b0840c8383aa8bb555d475f0355faaefe365bd4853f26c5824f6fc7273a4a72]
 ├── 1346
-│   └── trux_134.vom
+│   └── trux_134.vom [0429cbe0f3ee70f8e0c125b7c4d8f00170463569ca1db7a838edb403c5f80eff]
 ├── 1347
-│   └── trux_134.vom
+│   └── trux_134.vom [22c5feba4f724339c2fbd664e53190e607ddbd674941543bf6a8c5139de6fb26]
 ├── 1350
-│   └── trux_135.vom
+│   └── trux_135.vom [19654eab4ade7ada18673de2c5d73d708b63d0f104c278fc2db83db43acd36f3]
 ├── 1357
 │   ├── a
-│   │   └── trux_135.vom
+│   │   └── trux_135.vom [2341936d391bbcc32bd4404a959875ec71b403e8c3c41486aefea29362e63ea8]
 │   └── b
-│       └── trux_135-002.vom
+│       └── trux_135-002.vom [a9fe66210f6ddb3cc0b6cc66fcdd5b09915fcf857fa49eb9b263692ccc6ea057]
 ├── 1358
-│   └── trux_135.vom
+│   └── trux_135.vom [631a1cf391e75e7d94da9dd8a2f17fcd5387504a7c4d43788fbc6937fa581afc]
 ├── 1359
-│   └── trux_135.vom
+│   └── trux_135.vom [09d9bc288a10cfad8aa14efbf1523082934fe196e0469204f53f5d1b0e9677e3]
 ├── 1360
-│   └── trux_136.vom
+│   └── trux_136.vom [878ce227bf0165ea8873d2f6672bb824f5d74ffff4ea7d3dee5fe8f151f5052d]
 ├── 1361
-│   └── trux_136.vom
+│   └── trux_136.vom [71d36bd2343e4cef8ce07da54cddaafe1380a6deffd0d6b8edfaa533aab92364]
 ├── 1365
-│   └── trux_136.vom
+│   └── trux_136.vom [6abcd9fcf09e9fed634f5ca945f45776ed124c35083f7eddb51b90ee5149070d]
 ├── 1366
-│   └── trux_136.vom
+│   └── trux_136.vom [5a16c7746e9359a7b89182a6648613247576dd7133486329ec6c4b72f70f8296]
 ├── 1367
-│   └── trux_136.vom
+│   └── trux_136.vom [42e27a23f83617aaafa3485605b49b134d0a81deec6a7af08f9f963a6bc9c9fe]
 ├── 1369
-│   └── trux_136.vom
+│   └── trux_136.vom [836207048fa02960c1ddd7183681254bdee43ab084bf25028004343f1d6ea32f]
 ├── 1370
-│   └── trux_137.vom
+│   └── trux_137.vom [cd84bdaaec9bb70f3837e4fe38c3850066774f94ee02fe8ba1c6c67617b420c4]
 ├── 1374
-│   └── trux_137.vom
+│   └── trux_137.vom [46227df351fe6f179f704eee50a982e60ca0a813b4ee90abca880a2b39685ee7]
 ├── 1376
-│   └── trux_137.vom
+│   └── trux_137.vom [a86da1525dfee61000135eacd7889f69e61a523998076a96348e0b82b034c452]
 ├── 1379
-│   └── trux_137.vom
+│   └── trux_137.vom [74cf11e6e7915867bbe9aedffa8d6ba21e2e2ada19cfcb7b89fc680728e0da69]
 ├── 1384
-│   └── trux_138.vom
+│   └── trux_138.vom [92839c5a4821fa0edace1908bd04bc77511eb2d4d664013b307b000cf0711bdb]
 ├── 1388
 │   ├── a
-│   │   └── trux_138.vom
+│   │   └── trux_138.vom [172bc7f7c676953fdc2a8cafc0707bcade7df4b4416a5192a582514895b0e5a0]
 │   └── b
-│       └── trux_138-001.vom
+│       └── trux_138-001.vom [3391e3819f9d0f8f7a3fd9b20177b3589a7b2a294b3ddbd03db294ff5dc747d1]
 ├── 1391
-│   └── trux_139.vom
+│   └── trux_139.vom [ca413bdff9b09464c2207978b65f31091ddb9a869d85c1d26846448a1922979b]
 ├── 1395
-│   └── trux_139-001.vom
+│   └── trux_139-001.vom [937da1451cbcdd82f5abb37ca7b0cb0b07f9ef6dfeef80c4841c82241d5ebbbf]
 ├── 13957
-│   └── trux_139.vom
+│   └── trux_139.vom [d0691cf9f01ab572f18bff3228d6f104be1c8255aef48a604acc12431076c082]
 ├── 1396
-│   └── trux_139.vom
+│   └── trux_139.vom [df4a6996201b8341caf815a8e144b667411ab9092ce4a28add126b1f881fb536]
 ├── 1400
-│   └── trux_140.vom
+│   └── trux_140.vom [c29605f371cfac7c8dfc1d3e40323f4e33c78fb1adac18464b62442558d2610b]
 ├── 1402
-│   └── trux_140.vom
+│   └── trux_140.vom [7611b268082ceb6484e099e3f992ba7286606b2a613424a8a0b8b2960ba62c47]
 ├── 1403
-│   └── trux_140.vom
+│   └── trux_140.vom [1499392319ebef0d5ebb5b67082a6dfdd84bc1074ed087f6d25ba88179565b1c]
 ├── 1414
-│   └── trux_141.vom
+│   └── trux_141.vom [70c3ea3ca45e26685d863a162fbb93bbf27cc6181145e2377e597c0f6270244f]
 ├── 1419
-│   └── trux_141.vom
+│   └── trux_141.vom [0447bc09129134c4af7fc90eb089888754d365ccf1a5a48b38fc28c08e8da164]
 ├── 1421
-│   └── trux_142.vom
+│   └── trux_142.vom [6670f366c233b0caf2d136d8a8779b552fa39c7b746462cf41269e8c199be899]
 ├── 1422
-│   └── trux_142.vom
+│   └── trux_142.vom [abf9ac5b9120fb4aa8787b9e9f766949de46940b435bd848873fb2344a374f5d]
 ├── 1423
 │   ├── a
-│   │   └── trux_142.vom
+│   │   └── trux_142.vom [4ae68f3b771e2af179506063f4efcbdec077477543eb58c0c0c2ae648a93e03f]
 │   └── b
-│       └── trux_142-001.vom
+│       └── trux_142-001.vom [59d22894e8f1fc13e874744f73d226cfd7f673098d713f9a1aefa4983a5aab9a]
 ├── 1424
-│   └── trux_142.vom
+│   └── trux_142.vom [3bb8eb54fa36f8f24d884de7168f5669c78e5abdbb1b506e6766532411f66daa]
 ├── 1425
-│   └── trux_142.vom
+│   └── trux_142.vom [4d5df191517c39b296ddca2aa485086bfa96ca6f960679b9e98a5245222c4a77]
 ├── 1429
-│   └── trux_142.vom
+│   └── trux_142.vom [2f59e37c4b36c29ef90b4ceda91087baf93cd902906af0a6050e88c3aa3e2bbc]
 ├── 1436
-│   └── trux_143.vom
+│   └── trux_143.vom [6ab3fdc6444770eb3d5d6ffccd3fe715fda11cbc6e4eee4011ebaac5abe72bf0]
 ├── 1441
-│   └── trux_144.vom
+│   └── trux_144.vom [69af34ea9edba6ae39ac58f192560d4b82e278b27895928033daaec6b908f296]
 ├── 1443
-│   └── trux_144.vom
+│   └── trux_144.vom [744787a36d6c132e26fb8eef17af3befd00c27ac87cf71738d0c557e3b7d4c57]
 ├── 1446
-│   └── trux_144.vom
+│   └── trux_144.vom [c3fda0328262ce257eeea31c232122ceb1de3fba1b807b506f9c073c666e3018]
 ├── 1449
-│   └── trux_144.vom
+│   └── trux_144.vom [f2342008a943172c89f529722bb5ba887a12e513deb29294a3fe7519c0a3968e]
 ├── 1453
-│   └── trux_145.vom
+│   └── trux_145.vom [31c66278fc087a14e3e347ae9d49efb030de7c5a48a0193cc2e430b367d1e619]
 ├── 1454
-│   └── trux_145.vom
+│   └── trux_145.vom [30afd2e8fb3b876d88b058725a84838f7bdd0ef1ee79e7d1a622251b05854bed]
 ├── 1458
-│   └── trux_145.vom
+│   └── trux_145.vom [11562c02533ec86f0681116867d9ddf456a7f6d8867ed03975ff545831987e84]
 ├── 1464
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── wci06282.vom
+│   ├── t1.vom [394938fa1c37a6136cfaa2429f189728849c1bd35663e32249dcd988afea15a6]
+│   ├── t3.vom [b093474292a875ee772b0e8bb16c884f2dbe7bda17dec79b226a1cbe98da3bfd]
+│   ├── t5.vom [c323a082ce28002c9790c6b1a27b7c482187c5d11df3d5c92033b220b7319ca6]
+│   ├── t7.vom [d753dd33ce0fc88cecf11fd220b3b23ae87bf86c9f3ac7d6654dd9401bc861ca]
+│   └── wci06282.vom [a8838ae3552f1dcf2acd349912c746217fcca4d3b1b863b3d96cbe319f9e72aa]
 ├── 1472
-│   └── virus.dos.trux.1472
+│   └── virus.dos.trux.1472 [06ee52088dd2cd37ae24c2a939accac9e4c6d63fe8433e99f69740f0dbf0cea5]
 ├── 1474
-│   └── trux_147.vom
+│   └── trux_147.vom [1576e77dc1214cfc42e7856c02caaf91b011240e07ce666a23b00e2b93bbc5ff]
 ├── 1486
-│   └── trux_148.vom
+│   └── trux_148.vom [098bf227cc1ae87bf0bf647d182b6c1be13356703fc75ac42a6bfba109995a37]
 ├── 1489
-│   └── trux_148.vom
+│   └── trux_148.vom [ba503b4ccdb617d1b4c231c4e578e828e1c1d25bfce60dbe1b9bee0a2cb994dd]
 ├── 1491
-│   └── trux_149.vom
+│   └── trux_149.vom [4e769689e84ba53daef001ad9d97ae56b07b31fd0841d12617ee82d225872c66]
 ├── 1493
-│   └── trux_149.vom
+│   └── trux_149.vom [de0342c18d47ba1576bdae9fef0e9a753a74dd4702b82818eefce96472b2bf4f]
 ├── 1498
-│   └── trux_149.vom
+│   └── trux_149.vom [29e3331e312032b68ee9d1153cdf345c417b6ca596d4129212448f974abaacf5]
 ├── 1507
-│   └── trux_150.vom
+│   └── trux_150.vom [d2a3ab5682617388b4c1a4ed0ae7df2d6f45d905526f436b4f21b899d5ce3237]
 ├── 1511
-│   └── trux_151.vom
+│   └── trux_151.vom [4ded3db82925b4a814d16ccf86f0dd9b5ad691bf68500f6229cd0a1adc38412c]
 ├── 1516
 │   ├── a
-│   │   └── trux_151.vom
+│   │   └── trux_151.vom [5d29f8000086bc0edd0a86b5277a2e79139ad2cc731f4a2e27c0d11b83603028]
 │   └── b
-│       └── trux_151-001.vom
+│       └── trux_151-001.vom [92dd0b8ecfc9307aa9845c351ed05838ba45e6f4db82fa7702304177a0f7039b]
 ├── 1520
-│   └── trux_152.vom
+│   └── trux_152.vom [66cf2850c9825fc04b5eab1ca76e0b57b5b6478df4ef48cb9ea75b413235b91b]
 ├── 1526
-│   └── trux_152.vom
+│   └── trux_152.vom [9977005656c12ce21ea4453dc03149b623edda7f3cf3730052b5ce35fcba39f3]
 ├── 1528
-│   └── trux_152.vom
+│   └── trux_152.vom [676bdc58c6cbd0b469eaebbb6a6831358de61c9b81ebc85003005dba13a64a55]
 ├── 1533
-│   └── trux_153.vom
+│   └── trux_153.vom [f31efc10283bb7da6d660a58a75f6acc86745458d0aafe6bb8e9ef9fa79986de]
 ├── 1540
-│   └── trux_154.vom
+│   └── trux_154.vom [cf706ec60b8f422ab602e962ef64f266ab77613cad96abfb0fd3bcb5ecefec7f]
 ├── 1542
-│   └── trux_154.vom
+│   └── trux_154.vom [91f1c0b0ea32ab86e95c679f186966e39144fc638b5ade0ff25288d84ed24efd]
 ├── 1546
-│   ├── trux_154.vom
-│   └── trux_154.vxe
+│   ├── trux_154.vom [be4929e66559c169163e9e163c4eadf851eac496cdd09c5299d5ea7ec7f7563e]
+│   └── trux_154.vxe [07ceaba55a309258fd30228c2d0c4ef979671dd7fa43859b76c3dbdfae759d78]
 ├── 1561
-│   └── trux_156.vom
+│   └── trux_156.vom [b0131b1c1936b2526fbdaf8a18f75cad8d0a966e68ae8bfecb333b986d993566]
 ├── 1564
-│   └── trux_156.vom
+│   └── trux_156.vom [9d74208f1a91c5d48fbbfd9c3a2cfb41877f8f8cd3ee31bdd0bb0ebdf9506e7f]
 ├── 1566
-│   └── trux_156.vom
+│   └── trux_156.vom [fd7c17c59a765e798920a4371f3bafbf4e465f6c9b1da33e527e94ae2251bf17]
 ├── 1568
-│   └── trux_156.vom
+│   └── trux_156.vom [ff404d3349e97139c21d1d0b9d0fe44a5dc2816f8cce0cc906dc3f8d230e779c]
 ├── 1569
-│   └── trux_156.vom
+│   └── trux_156.vom [ec567594f88df7de85644c07fede15f6049c5baab62035f9eb65d53703079772]
 ├── 1577
-│   └── trux_157.vom
+│   └── trux_157.vom [3a473bbd32f122a8a401ff10af7ddaf25eccd8f3996e3ec0b9c267d7f51583f8]
 ├── 1584
-│   └── trux_158.vom
+│   └── trux_158.vom [dcc9489c2635a47bbcbff7b3e9ff35fb209e91bd01c1d30699349084d13183b6]
 ├── 1591
 │   ├── a
-│   │   └── trux_159.vom
+│   │   └── trux_159.vom [1d7c1c26665455314e3dae0f3b09f30e61f8cbb8456566100dfcd7f7407d865a]
 │   └── b
-│       └── trux_159-001.vom
+│       └── trux_159-001.vom [3c30f61fdaf8947116b385cfba7bc7cb050f5aa11e1d138fcef7924f474abe0b]
 ├── 1594
-│   └── trux_159.vom
+│   └── trux_159.vom [f855b800e47450b14900fb323982bd56b99c43698d570a12779dc42f197f75c6]
 ├── 1602
-│   └── trux_160.vom
+│   └── trux_160.vom [7ec391be83a2712c6cf40126b737603763755c6085993a1d3038fe0df651736a]
 ├── 1609
-│   └── trux_160.vom
+│   └── trux_160.vom [331e05bb40a3afb4cd2a58235c4a8e95af55fec1dd3146f581746cfd1104579f]
 ├── 1610
-│   └── trux_161.vom
+│   └── trux_161.vom [b8f7bd326e9456d20a0b6ff1ee874ecf912c068d238fd457846001e0fb26d33d]
 ├── 1611
-│   └── trux_161.vom
+│   └── trux_161.vom [3326314a734ae0f6f3f9c1b58d07bf8fc02e8ebe0d609929f0484a76a3d4d399]
 ├── 1612
-│   └── trux_161.vom
+│   └── trux_161.vom [31698ac95f3662a2f0a67f15c76400f3398810594ac409aaa590ae4b0de54810]
 ├── 1613
-│   └── trux_161.vom
+│   └── trux_161.vom [1b65404512e152abac66179fb287d45e8b5ac082d67dca5559914857768b1517]
 ├── 1615
-│   └── trux_161.vom
+│   └── trux_161.vom [f47dfeeca76bd4b824924e1ff36a789213e5f571d5d25aac8aa3103c8a750c58]
 ├── 1616
-│   └── trux_161.vom
+│   └── trux_161.vom [e471c3da4f8c9458404588c1714957511546348b8027adc269f3fce5cea44f9b]
 ├── 1617
-│   └── trux_161.vom
+│   └── trux_161.vom [9b0254cc1a7663baff78da7f0a1d47e3aefdf141ca873632e8c48e29bc3672c9]
 ├── 1631
-│   └── trux_163.vom
+│   └── trux_163.vom [be1d6e54f809020ce7aa2653963eac54eb53ee1bf52081cc692ecf422de4fa68]
 ├── 1640
-│   └── trux_164.vom
+│   └── trux_164.vom [c0729a1f5c86073e572bf432ade02bedd620545e162ec04a3d1a57c701d250d2]
 ├── 1643
-│   └── trux_164.vom
+│   └── trux_164.vom [7e820e76a0227d22587fad59bd62a399d3d86d22fde01703558e5f479374967b]
 ├── 1658
-│   └── trux_165.vom
+│   └── trux_165.vom [1b25b25ab7fb27203e0e01ac512e86be05d01f6482d2b625e45be1af814c5088]
 ├── 1671
 │   ├── a
-│   │   └── trux_167.vom
+│   │   └── trux_167.vom [99bf1588135dc0d493b200688806d3bff28837afc85d0f3f7c4b3b3c86f490a6]
 │   └── b
-│       └── trux_167-001.vom
+│       └── trux_167-001.vom [f0ac0bacf3ced4ee7b8ac872f85a2882ed55b25835456f7dda6b58a4adb1b118]
 ├── 1675
-│   └── trux_167.vom
+│   └── trux_167.vom [901b3c10081669e4c7d465aa64e3b01748416a298ef9e1b59b076892d99ca66a]
 ├── 1677
-│   └── trux_167.vom
+│   └── trux_167.vom [17b2063f3979b0ec1acf1e6f794b5ef88c4a68b3d83e01e9773217fd62e277fa]
 ├── 1680
-│   └── trux_168.vom
+│   └── trux_168.vom [f84fd18ff9ae3829069e8dbdb4eba97c4142a667848aac921b939f3d157eb509]
 ├── 1681
-│   └── trux_168.vom
+│   └── trux_168.vom [b1180e04abc2cfdfec18002af383402774f5d93b0bb9b356254132323032328f]
 ├── 1691
-│   └── trux_169.vom
+│   └── trux_169.vom [4ee4ccae6883f08d02a13fd30637ec78171881d82ef0f5fd8993f2e073009306]
 ├── 1694
-│   └── trux_169.vom
+│   └── trux_169.vom [00c52988578a6c750bb2a47ed0522ade67e19a8aad8db39dad6f0bc69b794e78]
 ├── 1705
-│   └── trux_170.vom
+│   └── trux_170.vom [aad09801bbc214c2658356624aaa739d59bb70e67b62e8442319a290e6075799]
 ├── 1707
-│   └── trux_170.vom
+│   └── trux_170.vom [4c17f18435677006de52abb557d692669eab84392a07a50b016dd5503656e016]
 ├── 1718
-│   └── trux_171.vom
+│   └── trux_171.vom [ab8f118b58af60c0a56d8f01aae267719ddeb4ce9b5bcb2b9ab4d0ce7bbcfff8]
 ├── 1719
-│   └── trux_171.vom
+│   └── trux_171.vom [64eeadd49a732b8b9406653c883e28c4e80775206cbc5afe7331ddfac4f2d76c]
 ├── 1721
-│   └── virus.dos.trux.1464
+│   └── virus.dos.trux.1464 [e24694c541797ee8a570351b3847a0374a33f77f9a76d635d4e954fcd90ba8c1]
 ├── 1725
-│   └── trux_172.vom
+│   └── trux_172.vom [0fc9e747482afdc9af64cd06e0232219e712f6f64c75661b5c831a802f4a5304]
 ├── 1736
-│   └── trux_173.vom
+│   └── trux_173.vom [0f963b37be8a35771aa13276a50b286a424f8364e0da7e9513501560a8958ed0]
 ├── 1746
-│   └── trux_174.vom
+│   └── trux_174.vom [32a0b0fc5b1454269845bb786fafd7dc09dbac3c86b73464b92e714075799fe9]
 ├── 1760
-│   └── trux_176.vom
+│   └── trux_176.vom [4ceaac714ebc922debce9507d7203ac2aef7208c9c1d168eea85ae0722b9979e]
 ├── 1779
-│   └── trux_177.vom
+│   └── trux_177.vom [fdff606df6911cc529feea5f662525f1132a5029b147bb88a7bbbd9809f889ba]
 ├── 1799
-│   └── trux_179.vom
+│   └── trux_179.vom [cf9d0a70c407b208be61810e4e0bd8ee43f90598ed7629c0323563ff8c77e97f]
 ├── 1811
-│   └── trux_181.vom
+│   └── trux_181.vom [e5a8c4bf2c647fe47f8e140bde5560259c4a16a6a5a811cf1bd65a3315eb84c8]
 ├── 1818
-│   └── trux_181.vom
+│   └── trux_181.vom [786b1105e996119168e6bcff2df81d3e56c870f3e7b8b0820b10c766ce8dfd28]
 ├── 1845
-│   └── trux_184.vom
+│   └── trux_184.vom [ed652ecdb889591c1e45d583a80e1a1c8475353f94255ba951e007c9aac15380]
 ├── 1849
-│   └── trux_184.vom
+│   └── trux_184.vom [829475327e126dd3b45d2d74748bffab9ee31bb9f5a2d5b1315a90edb8ee84f1]
 ├── 1850
-│   └── trux_185.vom
+│   └── trux_185.vom [f6e5f5c7dbbeee2b3dfa6b3da48d767aa41e33be4f7eaefee55eee8e14e1c498]
 ├── 1872
-│   └── trux_187.vom
+│   └── trux_187.vom [866b31bb61bfb1e0e0e21b188f7faee4cf09a65710efdd775be3540a61b853f6]
 ├── 1879
-│   └── trux_187.vom
+│   └── trux_187.vom [d3d911e13a4b64a49c4b8c5961cb1107c39f0c9601e0381e5efb59b34b27f5d5]
 ├── 1899
-│   └── trux_189.vom
+│   └── trux_189.vom [f7d516fdab96895c7d40cbb6b477719ef88a4191ed4f27ae71e91c41763df63b]
 ├── 1905
-│   └── trux_190.vom
+│   └── trux_190.vom [b88c24287ac7358678c792320670ebf1c1c12a6c0fb53ef1ddbb0e8bb4bf17ed]
 ├── 1938
-│   └── trux_193.vom
+│   └── trux_193.vom [9db1f1470a65c0e1872c57a9515ff78add7b025a14fd18d6d0496c7662e23f33]
 ├── 1939
-│   └── trux_193.vom
+│   └── trux_193.vom [4e26512b5a3b85b659f2efdc61ee18ec01374ec544b608441264135e909e466b]
 ├── 1943
-│   └── trux_194.vom
+│   └── trux_194.vom [1964cc08e9360bd5aa223b339386af2f4ed8cb83e9ce121c94130c4ee5e0679a]
 ├── 1948
-│   └── trux_194.vom
+│   └── trux_194.vom [12f7e0b31a3745a0d68aa340fa328546536dc38072b90fcc051ffaa51d5f3b62]
 ├── 1953
-│   └── trux_195.vom
+│   └── trux_195.vom [9667f587a57cd946f663350a30f3ca054e83135ff327c935f4094b8c528a572f]
 ├── 1955
-│   └── trux_195.vom
+│   └── trux_195.vom [30c97cbe9b96e74cb34444365581192dce179a5248395dac448c92f3afa7082a]
 ├── 2009
-│   └── trux_200.vom
+│   └── trux_200.vom [fb0232d974ca08988edd04d8572b1f4909e0361f3246ed0adcb7b5db620aa7df]
 ├── 2014
-│   └── trux_201.vom
+│   └── trux_201.vom [7cdbc98a0fc29b520b0d43298c285336f11f7dbca1418c0a3ced33e1bc0b76c3]
 ├── 2040
-│   └── trux_204.vom
+│   └── trux_204.vom [594cf8d63ab82d1a41566bd6eef33861067dae2ac91939c2256d1a4b562a83fb]
 ├── 2046
-│   └── trux_204.vom
+│   └── trux_204.vom [86cd97971e3ccf8c3298a8f2009555320701e070610e2a9fd339c0687386103d]
 ├── 2054
-│   ├── trux_205-001.vom
-│   └── trux_205.vom
+│   ├── trux_205-001.vom [3c9071eeed210038a618789d787ccfe4da4cc576a80dc37a8ecc03f2267df8eb]
+│   └── trux_205.vom [0defe8c21221c6e169a7779b42b1bbe3d219e85b45a1044f0cb59858fa7edc1e]
 ├── 2093
-│   ├── trux_209-001.vom
-│   └── trux_209.vom
+│   ├── trux_209-001.vom [92ad9dff0d4a09f038d6dac1eeb1e75990640fe2a694c779ebf499522827107b]
+│   └── trux_209.vom [6d4a23da9e107750a8baab2351447ff6199fb2d478f60cf862a2ac1192d54e71]
 ├── 2108
-│   └── trux_210.vom
+│   └── trux_210.vom [f052614594dbbeb3d12197229f0ed7e6af5b93399bd5733fe06837e8be187974]
 ├── 2113
-│   └── trux_211.vom
+│   └── trux_211.vom [7637fb2b00d314e896eb855ac59265359244eea29b8bed3da3f2cce8514ff4a0]
 ├── 2123
-│   └── trux_212.vom
+│   └── trux_212.vom [38a1912a430ee459a24c65029e21b7e4bde56bddfefdb1bf3f660c69dd24cb52]
 ├── 2129
-│   └── trux_212.vom
+│   └── trux_212.vom [cde6a25f038065b29e989a48453990ca15f653a92c6a4fbe65eb58b5cbb1eae1]
 ├── 2172
-│   └── trux_217.vom
+│   └── trux_217.vom [c8d035fef2e407bf13602288ef3a4bf8bb960401f92ccd0650686c7f1efdcc29]
 ├── 2189
-│   └── trux_218.vom
+│   └── trux_218.vom [18877633262fb907fdd7b1cb4c442c9865c50e54bfb168abe5d8d853fbe6575a]
 ├── 2238
-│   └── trux_223.vom
+│   └── trux_223.vom [b8e3202a0c33cc3f932cdaf705a1356a24c073c9c957de489c431032f961cd31]
 ├── 2244
-│   └── trux_224.vom
+│   └── trux_224.vom [42871865a404fd7230eaefa98e2c7ae4a7547844d4a8545253de227cd5220dc6]
 ├── 2246
-│   └── trux_224.vom
+│   └── trux_224.vom [cdf52045488e5b8535c9d1c9674b8d2764b7a80b4dda74f07a48145fdc954e0a]
 ├── 2265
-│   └── trux_226.vom
+│   └── trux_226.vom [2345ff1e7061e6cca8bc7cda5f52df8c619290135fc7eb48144f92dbcf259ad9]
 ├── 2299
-│   └── trux_229.vom
+│   └── trux_229.vom [1f66bf3cb04db35ae511d416fc57264be81daad46140fd45ec41d91d3eb78997]
 ├── 2300
-│   └── trux_230.vom
+│   └── trux_230.vom [5c8fbed12d303d6b66c8eea18fc9de1b98ebb24408e7c5fa240f7e919b83eb7d]
 ├── 2302
-│   └── trux_230.vom
+│   └── trux_230.vom [2f9f77b4521a1859bf3eaa2e811ab2040275c2656f8b1290ad338505ee69589d]
 ├── 2339
-│   └── trux_233.vom
+│   └── trux_233.vom [ff75348cf3f5528703efd5773e80efe3985d7a3fed007d27f94361ab43d1d212]
 ├── 2347
-│   └── trux_234.vom
+│   └── trux_234.vom [10b9a8bf8fb3bdb858245035e74b94d2d67b34047f98d49cf1c3f8ee04f589fc]
 ├── 2506
-│   └── trux_250.vom
+│   └── trux_250.vom [090e3c82835a07b0c562880b8873dc05cddf367320e3d2bf059067743219f2b4]
 ├── 2537
-│   └── trux_253.vom
+│   └── trux_253.vom [ca46dc12422222e8b98fd0500180fca74ceb7d6ec8d9e29083b37a04b4c16b90]
 ├── 2591
-│   └── trux_259.vom
+│   └── trux_259.vom [671cbc472656e1791b30122198c4dcf9b9264937b46eeb2b9675ff75f31574aa]
 ├── 2754
-│   └── trux_275.vom
+│   └── trux_275.vom [266ac603d029df3ca0146b82566086dd1a5a841c35a9c25249b0b40f458766db]
 ├── 2761
-│   └── trux_276.vom
+│   └── trux_276.vom [675aa75b589faf610bf93abcc3abd35aba03edbd1edf103716a2303f0d78ef96]
 ├── 2822
-│   └── trux_282.vom
+│   └── trux_282.vom [6c0fc9d1ec277aa2704e7582fbdb5b50e888376b2655a5ae91b5ac69c4d114ef]
 ├── 2838
-│   └── trux_283.vom
+│   └── trux_283.vom [11a5f2edd2e030d8661a39dceca0e1441168e021286c02272551abd54a8c6546]
 ├── 2886
-│   └── trux_288.vom
+│   └── trux_288.vom [6b4a22eb70f63abb3ae26074e9dbd4aa73bda0c911f5f241c2dac52ebbcca408]
 ├── 2977
-│   └── trux_297.vom
+│   └── trux_297.vom [127a9258fbb7f7d71f01de637e2f8a26a7c042dc275de7e6e2b5863b94f8eb81]
 ├── 3059
-│   └── trux_305.vom
+│   └── trux_305.vom [4e12a4e38a49a65de0616127c1c5aedb4986a1748e9e90d5bc5ac3aa02078acf]
 ├── 3272
-│   └── trux_327.vom
+│   └── trux_327.vom [0ecf8f5e5b422bdce0bdf415629a577af0600a82d609bbeebea15a41644b9a57]
 ├── 3327
-│   └── trux_332.vom
+│   └── trux_332.vom [8ddd1ea21b9f86afac124e1a79fbc44c8a252ce13b5bdd6830cbde5801c9dc7d]
 ├── 3418
-│   └── trux_341.vom
+│   └── trux_341.vom [9fcf3f5d415e7e1ed70bc141463e0b87d8a3321780449a7300a555bcb86d9bc9]
 ├── 3784
-│   └── trux_378.vom
+│   └── trux_378.vom [b603e87724244ee9f9a91146d18ea3b5c26515d09295b9da7fe3fe14873a4f64]
 ├── 3804
-│   └── trux_380.vom
+│   └── trux_380.vom [a60fad1002f6ad98849b523a46415b61cf5db75bf07c21778fe3a65a924e1fdb]
 ├── 3838
-│   └── trux_383.vom
+│   └── trux_383.vom [725a584e8dda22d4f707597e353a2bb3ff6b72faea933634752fa073e3f80b2c]
 ├── 3901
-│   ├── trux_390-001.vom
-│   └── trux_390.vom
+│   ├── trux_390-001.vom [74273dea23d05cb2e297a62fd9488f07a7cbf566056be877c0172a2a0e643a6b]
+│   └── trux_390.vom [c81d5c8e9710ba335b27a3c751aad1ffffbd8cbf4c8dc58ab8aa2853931d05da]
 ├── 4916
-│   └── trux_491.vom
+│   └── trux_491.vom [85c44dbb7a83ab5e6f670ff8b99e6326249779c9c227406f76451088278c615d]
 ├── 5087
-│   └── trux_508.vom
+│   └── trux_508.vom [ffbc44362d078a58a29327748208d617a8fb1587b0cbd05135fc05582fab3020]
 ├── 5090
-│   ├── trux_509-001.vom
-│   └── trux_509.vom
+│   ├── trux_509-001.vom [c3929ba2917dfbd1369756434e146536a25cffa346212de8ce217c9c2f163ceb]
+│   └── trux_509.vom [86c4c270bad72573cc6186a9cda7003f19538f7f066e44c4c075aecf0a24950a]
 ├── 5147
-│   └── virus.dos.trux-based
+│   └── virus.dos.trux-based [15e9d7d288120daa3dbb02ac1813119f5d31d90250fbea69832cb25f6793dbd8]
 ├── 5158
-│   └── trux_515.vom
+│   └── trux_515.vom [e68f7d112393182e581b9e950b5a99290ecd8090f2270b4d8df591dbb4887bcb]
 ├── 5162
-│   └── trux_516.vom
+│   └── trux_516.vom [bce25eeff1862dad0f5f98daf24d9b9f15bbb64492b91bf2bd9b6968f4225e69]
 ├── 5170
-│   ├── trux_517-001.vom
-│   └── trux_517.vom
+│   ├── trux_517-001.vom [4abc89eb20a1f9f3874f76a46e536ff8516d05f783a74046b8c86a794728181e]
+│   └── trux_517.vom [3e62a29cd5a6c9985dee7b945d71a972013f02b74d551f34d1d9eb9302abc537]
 ├── 5327
-│   └── trux_532.vom
+│   └── trux_532.vom [a37a35e63094fc03cce2ade2538fc34cf96da1f4ad5f5c59e8b7509dea85c64f]
 ├── 5333
-│   ├── trux_533-001.vom
-│   └── trux_533.vom
+│   ├── trux_533-001.vom [fa7b49f62feb545bbac74511c080df8af0def0d0dabb1b51e521bc6565223b14]
+│   └── trux_533.vom [a4e104d4daa66855ed2a21fdf77c436703d3f17194a96e9652e5fb1b0879071f]
 ├── 6868
-│   └── trux_686.vom
+│   └── trux_686.vom [9adcb2a313ce3cf14d5f98c71f9945df7cf8dfa226b7d4dff0faa71d73ec65d6]
 ├── 7727
-│   └── trux_772.vom
+│   └── trux_772.vom [0684d2fdc87ca382d85da632f584a3e95b1d30d54804e95ba2c7d5071f1b9e0c]
 ├── 8849
-│   └── trux_884.vom
+│   └── trux_884.vom [55e6dcd008958154f1110a770d892abe5c8c17c0ea7d7caa2f542875093f5d45]
 └── 9327
-    └── trux_932.vom
+    └── trux_932.vom [35a3c909580d7c0edc840e1ddfd2ba17aedb12d03eb912bc83cc8f24a867844a]
 ```

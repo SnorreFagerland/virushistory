@@ -3,25 +3,25 @@
 
 ```
 ├── a
-│   ├── 1-l1024a.vom
-│   ├── 2-l1024a.vom
-│   ├── 3-l1024a.vom
-│   ├── leech-b.vxe
-│   └── leech.vom
+│   ├── 1-l1024a.vom [a23d179514122dbd8386bfc8f3bc7da5f85cf2987cb7e99ef1dde87772aad0c7]
+│   ├── 2-l1024a.vom [6e2093e87758dacafdf6cd7efbf2453635dc9891b2a07436b59970cbaacd3a81]
+│   ├── 3-l1024a.vom [54b3c3be85b73fde27e18c208a50ad6f883afd77146698296e419ad638bcba24]
+│   ├── leech-b.vxe [f29f570fda8a6076779f71d05ade7779bb23469576dbb9b7b48659d784d80eb8]
+│   └── leech.vom [54bc9788f9455831b71f63099fd52f2bc6db51057626fa1d63aa1dc2032e20fa]
 ├── b
-│   └── 1024b.vom
+│   └── 1024b.vom [db4359a154c99caddac90c128b0691e9212471e73b29f5f7e85b8487e3504894]
 ├── c
-│   └── wci0027l.vom
+│   └── wci0027l.vom [61d1522a3373ad95072ec72186e49f6122c7ea04ab619a951e2e4169df3e8bf5]
 ├── e
-│   ├── leech-f.vom
-│   ├── t7.vom
-│   └── tf.vom
+│   ├── leech-f.vom [4be21e4bc648e5e21deb5c2903840979327174bf44fc49ea6cf4b9aae5d6de92]
+│   ├── t7.vom [4313be4dad74de62dc73ad607a15bab60a0e34e6acf5efbee9dee4e20f5fceaf]
+│   └── tf.vom [4b4f99dbb32e7ba63e6c1eaca8c19c115391d00261d26ec945faa11e536910c6]
 ├── f
-│   ├── leech-c.vom
-│   ├── leech4.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   └── wci01313.vom
+│   ├── leech-c.vom [5b4f1987506ef71db8f555bca9e4efc9d03fcaf57284cb7c55927c494d203878]
+│   ├── leech4.vom [31c020b7965801b392a304db91221a7ab6dcb2ef4637068efd173768379f6f4a]
+│   ├── t1.vom [f2531825b98a095f63197fee561dc23e5446fcf8507b130e402ba4258f48b66a]
+│   ├── t2.vom [f6cd3efe27016373244a00c5efe1bc757c93472cfb22f891601f998b3db43180]
+│   └── wci01313.vom [bfaf1dd7fd87c0a7032360d1a15ccc43bcc9a3011c685591df5ea5a4c807dc0c]
 ├── g
 │   ├── 3923b71d5916f1b423e4347b52caa1ff25fdee124d5106b39beb8182d0e1c307
 │   ├── 3e8276d39f2e868c5664d469e58156a2c6488ee967b933c75866a51d13a1993e
@@ -35,14 +35,14 @@
 │   ├── 09880e93937c88326cec99acf3470337c3f70ecfff92277cbb4e9849c0791c67
 │   └── 0b3b63b3921eedba1414fc47a4651481cf2ddda078a7f28dc4062bf792edf255
 ├── l
-│   └── Virus.DOS.Acid.1024.a
+│   └── Virus.DOS.Acid.1024.a [ea12a8e7c2456205ac2b46f93a6a3cedda94e5d009c643f84589ab21744af871]
 ├── m
-│   └── virus.dos.leech.1024.i
+│   └── virus.dos.leech.1024.i [db6031c79d33d887cca16f2e6a3fc08d156c6ec09f9f6130b509d61e093f0da2]
 ├── o
 │   ├── 3007f842d7ee6f5c634d3a00b4e5c3a9b4bc832ccb5fdce97b40dd17512bee7f
 │   └── 5ba490a0c0105dd274a6e876e267e13bdfe29f363d6c81059ee5d8a0d180f22d
 ├── p
-│   └── Virus.DOS.Acid.1024.b
+│   └── Virus.DOS.Acid.1024.b [d223b23410fca0c187fc923db3f23930be6d520526aedd8ddbc8f99daccbd9fe]
 ├── q
 │   └── 291a70034a26fff38aa6f31e7686ab47ed337aac037898c2acf10088688c4155
 └── r

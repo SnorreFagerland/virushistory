@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   └── wci0031r.vxe
+│   └── wci0031r.vxe [f914e50a719948d94acc4e3f333f7679033f2897a1f231309ff4695cc7421564]
 ├── b
-│   └── exe1000.vxe
+│   └── exe1000.vxe [d0123f8c5ba7a2505112787bcd622254f64590ae49aa8d8a82ae30fe84b0d237]
 ├── c
-│   └── raptor-d.vxe
+│   └── raptor-d.vxe [de4c0dff09172c421db1614d679f865442c9668a04829344a05500fbf09c94df]
 └── d
-    ├── 1-rapt_c.vxe
-    ├── 2-rapt_c.vxe
-    ├── 3-rapt_c.vxe
-    └── wci0033r.vxe
+    ├── 1-rapt_c.vxe [f556d0e60020f0b25a8a046f3a8f6493079072f044a6ac9844aca9bfaa0e95f2]
+    ├── 2-rapt_c.vxe [361c58b7a01a9b4c56270203c09811f811a613e4a78dc1f0447b610e02032038]
+    ├── 3-rapt_c.vxe [87abb98f3007293bbec3d8666232d8320555e49bf9bff7d2b738fb12f58cc0ed]
+    └── wci0033r.vxe [1e2c54dc0d714167f70579e069a34e5ba5d6d489b6a857439d21453858074346]
 ```

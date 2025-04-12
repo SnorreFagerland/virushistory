@@ -3,24 +3,24 @@
 
 ```
 ├── a
-│   └── dtr.vom
+│   └── dtr.vom [47edcfdd16cc1d748844dec73401e1fdfc21aabd556562e3430fd664385b00ce]
 ├── b
-│   └── rb-1888b.vom
+│   └── rb-1888b.vom [c12b6a04ec69502a3dfc555c0f50198c6426737b85ce7289d47925b74fde55f1]
 ├── c
-│   ├── ira-041.vom
-│   ├── rau1888c.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   ├── t8.vom
-│   └── t9.vom
+│   ├── ira-041.vom [2f9864726b9380cf1ea465a6757fafdc9b52635e10ee657bc026d7fc69a971ce]
+│   ├── rau1888c.vom [2480e64b9e20abca57482748dc2912aa4ae5529c18aa646509578859132e11e7]
+│   ├── t2.vom [e5f243815d4e5ee99d4d61fc0d97397c9ec33139358cdfaa17b3aa89f7e2d012]
+│   ├── t3.vom [e8faf3de3727218db114260c9efda6ec008d2af4fa56eee972d11ae86ff48bf4]
+│   ├── t4.vom [103d5dd3bfe2362e0d90ab92f4e15add70dac61551812650ce3f4637e4e9023d]
+│   ├── t5.vom [0d76bee6fe8726c75610208e70e3f546c1bd5982f4171c5905a7331f42cd140d]
+│   ├── t6.vom [c5479f3d3630864a8c96bb645875ebb3428fdc2f9c5d241037e90a5b6196fa97]
+│   ├── t7.vom [033b7a778dc7c9f11e9993ac8bc0b407f19475411c79b33cbe5f2277a33039ee]
+│   ├── t8.vom [84ca60bb4744e68254265961c2768b19d8af69cd373e957fa353c880f8fb077c]
+│   └── t9.vom [a3c91b4aa09734b1d696cd98e687c1e5adb8ad8c9acffcbc8378de50f7c4eccd]
 ├── e
-│   └── virus.dos.raubkopie.1888
+│   └── virus.dos.raubkopie.1888 [154247d1c3ab525cfdeabb36ab53d97f5418344d455547e254066365e509d7c6]
 ├── f
-│   └── virus.dos.maus.1888.f
+│   └── virus.dos.maus.1888.f [cec3646fc9a5a4543f5f8ac9c217759a3f175d95a3ed007fc4cbf20d9c09157c]
 └── killed
-    └── raubkopi.vom
+    └── raubkopi.vom [5d1e9e7bbcfb44d395f332a603004ec879a309712a5593eb28936488c0880d43]
 ```

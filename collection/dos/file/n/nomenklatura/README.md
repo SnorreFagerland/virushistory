@@ -3,30 +3,30 @@
 
 ```
 ├── a
-│   ├── 1024-b.vom
-│   ├── nomen.vom
-│   ├── nomenkla.vom
-│   └── nomenkla.vxe
+│   ├── 1024-b.vom [4bf500ff4eaedb3d7439457824d73e84d661c06a6a09fde0d43df94f489d44f5]
+│   ├── nomen.vom [0240964b94e2b029a4b497910e0fed88140fc6d6124431b91f0f030b42e60f5f]
+│   ├── nomenkla.vom [b7dd9bda1b7ac480ccd5777ee2f6083c18bf15e60505c59373317e71f86f6ff8]
+│   └── nomenkla.vxe [a83caa3177908197800a3972ffccf60793e62caea638b591f9042e5e8bc755da]
 ├── b
-│   ├── ira-100.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   └── t4.vom
+│   ├── ira-100.vom [e135e1947a44690bdcceab740f110d78ae688af3c995ad2f38fb651675835582]
+│   ├── t1.vom [f5011fadf11a04663d76c9339836afe70c4638c56c19e149bc13d222437d9fd2]
+│   ├── t1.vxe [a1d6310791e3b5fb8683ea3c510f9fef0f1c2ff28323333531ed8e9d39bc3b2a]
+│   ├── t2.vom [6b869ad672e7bd491f9296617b4ca8e2cd8831c8669c31fcb21c2bdf2d295b1b]
+│   ├── t3.vom [f0f4bda9a4700744ad12b3823d44ce0b92a85650f99a054acba8c7ffb4a4dd86]
+│   ├── t3.vxe [24d0221128f91b274d70a7199b4c18754f1c3b37f9477dbbf62594e3f31aee9b]
+│   └── t4.vom [ee3f2bf1a7bea89a985a9b9028f92dcdd3c5dd27546b1f402eb06729a4a2c3bb]
 ├── c
-│   ├── nom1024.vom
-│   ├── nom1024.vxe
-│   ├── nomenklb.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t7.vom
-│   └── t7.vxe
+│   ├── nom1024.vom [819c3b81e51bd0e2d34b142002357e6981b399eda8d3c89db20f0b14f71111d4]
+│   ├── nom1024.vxe [be8f958d5efdfb18d4b196d6286b5b304eac546fac52fc692f4936cae8c2a1af]
+│   ├── nomenklb.vom [f797595ad4ebaea07e692b91946f3af43bfb91e3c196e689999755731b69ac5c]
+│   ├── t1.vom [c11c8fda91a4036a9ca23777b0e3adcec6d2987875a58b5aa5a9a990020173c0]
+│   ├── t1.vxe [5a968c5115b3e1c6fb1fca4db096a69a085d7719d72c1239d90d27c774c18739]
+│   ├── t2.vom [a9c9cbe8d01035b7568276c61f813ee1935b6e4018c99d198fca5a3d51a70f03]
+│   ├── t3.vom [57f1d377111b3e3dc32ce0224919f3de3b962d5183e256771b8d0b48ad646d2e]
+│   ├── t3.vxe [bda2b397c6717cbbbc6eb2c5c2c62db2ea3aff7ebce2c2df0bf29398be12a8db]
+│   ├── t4.vom [a1410bc9c1602ac293ae2a3e68c0f27339a28c3035ce1b25eadd7ced97005e6b]
+│   ├── t7.vom [65110255d43d6748bc8ddcba1181c3146c6afb75193b8e16e1a0040f326acfca]
+│   └── t7.vxe [4a454eefc7fde79d4e1b7b17b9470717364727b14b5928b544de2ff759d967dc]
 └── d
-    └── nomenk2.vom
+    └── nomenk2.vom [76448fbbaaae0db7c02c6a9dac88890f488565edbe26096338dac5cb3cfeb6ca]
 ```

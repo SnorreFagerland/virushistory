@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   ├── 1-ry512a.vxe
-│   ├── 2-ry512a.vxe
-│   ├── 3-ry512a.vxe
-│   ├── ryazan.vxe
-│   ├── ryazan_2.vxe
-│   ├── t7.vxe
-│   └── tf.vxe
+│   ├── 1-ry512a.vxe [b228110a282cc95ff5d56442ceae8884aa83a83883eb1a4a977337d669870274]
+│   ├── 2-ry512a.vxe [b1ac12c220cc9fc28a753a8316d3819548e10ac90a924fb2dca0b38053928390]
+│   ├── 3-ry512a.vxe [589ec127299526574367663304f753f73b48adcad81850b47515bc03b190df0d]
+│   ├── ryazan.vxe [afb3459e7fad8421f64790c34bc26b41acbb02367423da3386da6b41d8aef3f9]
+│   ├── ryazan_2.vxe [9a1af8fba6e5564c985696a89cf91e8c0f06b83aca563412077dcbd06ed9b67f]
+│   ├── t7.vxe [b25feded5d5738690afd78eb7fa03468626c9fc18a88e22c96a438bf1c5cea9e]
+│   └── tf.vxe [f1ddebb54f2691a00131fec6fbfaa02dfae56fdb915505aea3386fd1e38ab556]
 └── b
-    └── wci0150r.vxe
+    └── wci0150r.vxe [50907be70e6548508719a96a488ec57e9e64f08d830749f14fb520c3cb5ee63d]
 ```

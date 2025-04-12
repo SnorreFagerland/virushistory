@@ -3,41 +3,41 @@
 
 ```
 ├── 4160
-│   └── Virus.DOS.Zohra.4160
+│   └── Virus.DOS.Zohra.4160 [083228afcc947dd046d4f776a9329fba56a7f0024de81e062e6b0f083edbe7ab]
 ├── 4382
-│   └── virus.dos.zohra.4382
+│   └── virus.dos.zohra.4382 [3948639212604be05cd1ecd6f1f591949feeb15e4e939f94c5b3476efa3b95ac]
 ├── 4488
-│   ├── debug.vxe
-│   ├── keyb.vom
-│   ├── mode.vom
-│   ├── more.vom
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── trace.vxe
-│   ├── zohr4488.vxe
-│   └── zohra.vxe
+│   ├── debug.vxe [1051ee9f1db00bb06d82f83a665401cd9756de1928b0083ef4d0c2663b9ccd89]
+│   ├── keyb.vom [6f11b1bddaf6cfd31d6e904ff5db68e30c19ede267b8c28d47dd39a60f34d085]
+│   ├── mode.vom [f0f4f311e5b144ee36fe8abc9e5423751abeb8059d076f80f4a540dcc6590f1f]
+│   ├── more.vom [b61c2b056d5b4e83d6e2b15394ed4e80ef57a47a38e76c55a89236f8a1f5be12]
+│   ├── t1.vxe [b02d46e2777f66de26452cad89af9a56d7fe5c79188689e446d690a5361dfbc7]
+│   ├── t2.vxe [089dd66c565e5b1d068edabe4593dae32f69b1cf3f8ddd7de608df3b5cc8332b]
+│   ├── trace.vxe [039be540f644bb545e61a5868aca760f292568cf23a4b3d14b66c3a3dc6f9547]
+│   ├── zohr4488.vxe [07de2090f8af716b612783912ee09bb9989bdcc3fa69942f76719301cd6460cf]
+│   └── zohra.vxe [5b45ec8c123dcdc4e8edb43ad53c70c89c8fb6296225ad39651e2d081f0d459f]
 ├── 4516
-│   ├── abadbs.vxe
-│   ├── debug.vxe
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t7.vxe
-│   ├── zohr4516.vom
-│   ├── zohr4516.vxe
-│   └── zohra.vxe
+│   ├── abadbs.vxe [76fc2c6966761d9c5aa57a839069b338cc75921521bfbb2c52dee01027e5218d]
+│   ├── debug.vxe [d3da72075c7b578ea12b0c1321ee6cacec0bc220e014a7719348bf57febf4977]
+│   ├── keyb.vom [9365e94a410ffb29032c5e973e75a2b9a6a69c9471df5db46de7e4e8eba32e8d]
+│   ├── t1.vom [506b1af0a55b34e0da211b390b0950ebe13e9c80e252be5577b2e650a0960d9c]
+│   ├── t10.vom [ff23db2372317669a2cb04bfc0f3c6d82a524f82eb94fab178d9d531ce6343c8]
+│   ├── t2.vom [7e08ed7f1ce6a468a1b51d1a350243d9add7a8a2b9284c9feae2480146561219]
+│   ├── t2.vxe [bbab6fe3ea4f6323f9edd0a18074cb9a8091a94b76ae88178e6d355bfef052e2]
+│   ├── t3.vxe [b1882c45c2294af4e3df81fb4c3c1ee5a47814f59236a78074f1e9df42098eba]
+│   ├── t7.vxe [c80632aa75a6cd667f43790e891955322349b42a4fb95acf6234415517fcf1fd]
+│   ├── zohr4516.vom [719af14576095f91a359e9802d8bba0ffbd9e83c93f6b39d50165f85c10ec334]
+│   ├── zohr4516.vxe [cf5b3d2854545317ca12bb172af178687af87b0703eed166a6eb731aa42bf8b9]
+│   └── zohra.vxe [f013ca9cc9f56d11410931b61a3b042fbddbada9b56e4ca4b68061ee991e0814]
 └── 4525
-    ├── 1-zo4525.vxe
-    ├── 2-zo4525.vxe
-    ├── 3-zo4525.vxe
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t2.vom
-    ├── t2.vxe
-    ├── t3.vxe
-    ├── zohr4525.vom
-    └── zohr4525.vxe
+    ├── 1-zo4525.vxe [cfa2366e99b4e83fe45af96da290ab9eaca693277b41241efee93577a1225da7]
+    ├── 2-zo4525.vxe [27c16b2ac1ae3a40010db43ab374918920b182d4b1ed5063b765044e6d76e7f9]
+    ├── 3-zo4525.vxe [f168ea46932d761e760cbaee08e33c03f0310c0661a027e94de815f6c41e9462]
+    ├── t1.vom [6d40637ab7d3db95b8eeff8ea6e13b00386aafa39b1b4640f6ad37bff900412f]
+    ├── t1.vxe [4373bfff0dad50866096dd4d1a6d06e7fd7cea6c90daa1b8346ffc4c7b5ea04d]
+    ├── t2.vom [8c6f692250edd4f7a792fcc43ffdd9abb67dcfa8faab2622df95ef25b28a8f08]
+    ├── t2.vxe [19aec92e0a1c84ec741d162d8d851fc181713fa702c074516057c6cf95fbd221]
+    ├── t3.vxe [a9c4ed70d69477394cccf141d5baa19fb84fe20ad39f43db24923bd4c11ca454]
+    ├── zohr4525.vom [73be4f30f95ff26fbb6de6cb6337ee60c639ab669d950db082cb658f0673d8af]
+    └── zohr4525.vxe [d9655cd72509ef745e996dc564cfb6b249859299f708068fa4a80eb87d469abf]
 ```

@@ -3,16 +3,16 @@
 
 ```
 ├── a
-│   ├── freez.vom
-│   ├── t3.vom
-│   └── t7.vom
+│   ├── freez.vom [bec7c6596ae7f81f9207f297e8988912c10a479ebad13f2ac8baaefac695f74e]
+│   ├── t3.vom [4d978ce421d74f31bc2922d256d0872f2bc81ec001689d9bc8ad344ea95b8197]
+│   └── t7.vom [ed4e4c041a8982d31af1454a93ba41986690390568a18081c1f1b0f45f1d72e9]
 ├── b
-│   ├── reset.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── t5.vom
+│   ├── reset.vom [221f90f713d2bf84c9b98c28c3086313cb95d180c6dbe2a075838e04e45f2790]
+│   ├── t1.vom [367d584d6e367ce08bc0e98be9cee6a520fb4a7762410a83a0cf22014384b3a8]
+│   ├── t3.vom [b3293de004e64e3c3f488ff837ddc375e20342fa623aa86273d5030207f0eb11]
+│   └── t5.vom [9debe54d65d4477b50b3655e453f7a51f7de060bced3216324f0aa2fd522f8b8]
 └── c
-    ├── t3.vom
-    ├── t7.vom
-    └── wci01254.vom
+    ├── t3.vom [9b04ab75c8f324fa49b016b7d66f92aa0fa3b32f0da80411a95331da20a130d5]
+    ├── t7.vom [33e591afc397c049b7ff73e94f2999a44cedd0831fed6c8094afcf1f88cc6ac7]
+    └── wci01254.vom [a67c3b17897305d481a378d78535a39399e2467acb9669d8ab051b5f491eaba5]
 ```

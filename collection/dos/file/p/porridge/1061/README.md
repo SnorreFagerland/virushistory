@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   ├── porr1061.vom
-│   ├── t11.vom
-│   ├── t3.vom
-│   └── t4.vom
+│   ├── porr1061.vom [68187d31423d760967f89a03f68559f3fa93452ed30ab9c02d3942e7d2d5ecbc]
+│   ├── t11.vom [1a3231e57c4bb53ccdad80b3b051c97be143bc3cfdc6775bccc652089691a2cf]
+│   ├── t3.vom [0f8bf6d7a4cbc6265c3141dd28c6403a76a54f5739b0461b089525c9b4fb474b]
+│   └── t4.vom [a34a1d40676145f36c236e9fa2ab18f7055c3f53aeb8519d48573e75d5a5291e]
 └── b
-    ├── por1061b.vom
-    ├── t1.vom
-    ├── t2.vom
-    └── t3.vom
+    ├── por1061b.vom [84b1ea819c930dfa824ea26493875d142c8302b5a378f02e0017f28a89f93b10]
+    ├── t1.vom [d389cc65820b92308159d029cc8f8fe20de26d584e57670a831ea0e812ec3e6a]
+    ├── t2.vom [cab53d6c45abd29c5aa3d02074801cb6139aa09fb7fc5940bc4b5b9128d9f191]
+    └── t3.vom [f534ed6f9dedc530875a3eda4fa5be6aa8e3cd0f738a252474aaf8c4d0f10566]
 ```

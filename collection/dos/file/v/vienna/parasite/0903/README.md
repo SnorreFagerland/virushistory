@@ -3,56 +3,56 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── v-para2b.vom
+│   ├── t1.vom [0389074fd57998ca62b48930046cc0789be469570221ea5b1d92bf421bb253bb]
+│   ├── t2.vom [9a481ef76999302a1457dbbec42a287c02a96f5d7056c43f4b9c6d186de1c9a7]
+│   ├── t3.vom [50fee269f4fb179cd9398d252b80bb13d3aff756b962698a78027e99cba05676]
+│   ├── t4.vom [8fb4fe10b8bb4cf84e937fe4e83434c3bf5e09c6d55620136aa360eb8a79e3da]
+│   ├── t5.vom [631b679ecbfb3ce397b49da6ccba260aca69de95965c2685d6ec727d5552fa5f]
+│   └── v-para2b.vom [37ed8a8ac1bfba350aa8fea292b20b9610d99fcd5e10de5d8692845e764805e2]
 ├── b
-│   ├── parast2b.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── v-pr903b.vom
+│   ├── parast2b.vom [17b4adc68df0b964ce46b0f8ba532bcba2786284351b1c2140977714b4dbbc7d]
+│   ├── t1.vom [0a0004138f9223084ed513462bfa99b7e05afef78886bf2423a8fc96d31543db]
+│   ├── t2.vom [9d74fee2f8b797facac6435e9b53bd93c757954a6a882bb565ae9698ed4b2e67]
+│   ├── t3.vom [c9910b272e2758c72b431ee8a80c43bb82f122ec408f12748066471054919eae]
+│   ├── t4.vom [af1342c66fd39bb405bd79bb20afa14d347cb9486fc929c9c6e03a35283c9a33]
+│   ├── t5.vom [8630c03d6889435eb5ff1fc7b404ac3f78a0d1dc7014d6146b5a174d624d1317]
+│   └── v-pr903b.vom [d7f2f757b5f5911bfb6f30d379833f8030fdf16ce353d5d42d8c644903144c7e]
 ├── c
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── wci02052.vom
+│   ├── t1.vom [2577e727c83c7cee5a3d5c54334ee26e150b5e1975964acde94037551a74765f]
+│   ├── t2.vom [3790cb834df74472148b8d9cc271903fdb75fd26d3c80270f513baa5de3702a8]
+│   ├── t3.vom [03d5d01cc7e4bbe4b9b7950139bee01d2fb53a8ee175108b706e70464a44c155]
+│   ├── t4.vom [8967c5680a1dd4e5c61dd7513f39a5853713e4977f94b0c3e7497523f0c4bd08]
+│   ├── t5.vom [678c98dd9f0efe1e482a8304b31f5636583bc18c3eac86ff96a53c550cf5d023]
+│   └── wci02052.vom [39641be6ce0a4f04de3d4abcc8461c4d87360ab301d2754ec5a434516f59e2ef]
 ├── d
-│   └── virus.dos.parasite.903.c
+│   └── virus.dos.parasite.903.c [7bb6da6c97fdf66401b0c15ad59c7965f75b3541296c0ef4aed61c21f9269ed4]
 ├── e
-│   └── virus.dos.vienna.903
+│   └── virus.dos.vienna.903 [e17574889f4f78924ba6507d810715aa328224fb6113d4aecb7387bcaf5439f9]
 ├── f
-│   └── vienna_9.vom
+│   └── vienna_9.vom [2414669fcef8e19131a7ed70bf06fcc5f4aa0a2924b7b39aaf3ffb5d452fcb1c]
 └── int
     ├── c
-    │   └── v-pr903c.vom
+    │   └── v-pr903c.vom [a9f120bde3113523e6a35cb43f2233147573ef7b5861b538853de766700f34cd]
     ├── d
-    │   └── v-pr903d.vom
+    │   └── v-pr903d.vom [3e8ca7e2ae75b47b3f94c1d68e8a52f634de9e5a60168bb1a12fed92ac4e3760]
     ├── e
-    │   └── v-pr903e.vom
+    │   └── v-pr903e.vom [233da240eba6f2548776085dbd45ae266497519c1b77ce04d695a48204422e20]
     ├── f
-    │   └── v-pr903f.vom
+    │   └── v-pr903f.vom [e947ffbb385d15ce214c8d4c4d0ceb023eb884261513bd2c9a5f82b2d103a805]
     ├── g
-    │   └── v-pr903g.vom
+    │   └── v-pr903g.vom [9bd851d4114f2747c19761459db3ecae6d734ed6f3c71d60a8f861e351395ed2]
     ├── h
-    │   └── v-pr903h.vom
+    │   └── v-pr903h.vom [7d092b22a089fceae0b71d0a7377d504f272a04cbb3070337d149fa783794fc3]
     ├── i
-    │   └── v-pr903i.vom
+    │   └── v-pr903i.vom [ee48cb1783626d1e426bc2a6ba5c4400f12e9f7d31f66f49e96abc403d4621f8]
     ├── j
-    │   └── v-pr903j.vom
+    │   └── v-pr903j.vom [daecad5608c73fe5e85275eb8f7c7373a3fb1fb6f9bec01482eee6df0e4274a8]
     ├── k
-    │   └── v-pr903k.vom
+    │   └── v-pr903k.vom [66feb10ab92a2f21c4a836e5526ab890fed2ca84901b5729bce2da72f779bb31]
     ├── l
-    │   └── v-pr903l.vom
+    │   └── v-pr903l.vom [5300c8f0da8226baeb770e69263e6fe689e43b859f76273ad7437de9bde4a908]
     ├── m
-    │   └── v-pr903m.vom
+    │   └── v-pr903m.vom [2488e86d1da5ac277bce5ce94a405e5e48a441e372e62a7010bb7598de451866]
     └── n
-        └── kuang.vom
+        └── kuang.vom [f9dc4dc40da10f6a1612bad5bf6cf268aade656648b3b08fcc2fb9818f8f8a73]
 ```

@@ -3,111 +3,111 @@
 
 ```
 ├── 1309
-│   └── eddy1309.vom
+│   └── eddy1309.vom [40ca8198e75bb0df297a71258ae193fc5f3e25fa2be1760d73cf2357f754a4e1]
 ├── 1316
-│   └── eddy1316.vom
+│   └── eddy1316.vom [eea3f872e08af7f0ffaa59f8f5365a7daf750bf25b380a66cbe483ec5af38895]
 ├── 1326
-│   └── eddy1326.vom
+│   └── eddy1326.vom [08f92f0e12f125d6f1e4ec19966ca540b620b892bb891b4bbea62ce3e6895e4e]
 ├── 1333
-│   └── eddy1333.vom
+│   └── eddy1333.vom [c38d9ac0c0edf22671925d0946ca1b976e2e2f33ba0d9dae918fc4bc87171e2a]
 ├── 1383
-│   └── virus.dos.kov.eddy.1383
+│   └── virus.dos.kov.eddy.1383 [542adedc86810561d2b6ff6ac4ad3f754debfdb59cc01f2ff448bdbad572202d]
 ├── 1386
 │   ├── b
-│   │   ├── edd1386.vom
-│   │   ├── edd1386.vxe
-│   │   ├── tf.vom
-│   │   └── tf.vxe
+│   │   ├── edd1386.vom [957b432685ddc0e9ce5f12e5c26d1a87d3a39bf141965844fe2376786c4169db]
+│   │   ├── edd1386.vxe [0f6c6a780d444cecf0ededcfb5cb117af83073de1630ce710c9c8a70fc4dfadc]
+│   │   ├── tf.vom [fc1d023c2b2a583f108165f48e111e81336e62cb95fda7b2f82287c154666047]
+│   │   └── tf.vxe [f5368fadf5eb689903bbfa7cc629246dce13e784c2409d872136cf2917cc6042]
 │   └── c
-│       ├── LWM.vom
-│       ├── UUENCODE.vxe
-│       ├── debug.vxe
-│       ├── unp.vxe
-│       └── virus.dos.kov.eddy.1386
+│       ├── LWM.vom [79113da04f245e15b3e0c1b3a1cedf7604ebf2fecee281175f57cec153dd72a1]
+│       ├── UUENCODE.vxe [790f70635d5313d77080ff41f242852fa7ee5d6476a0070bc7a836231bb79ce0]
+│       ├── debug.vxe [a654a526191a96affbc392b70f610b748460c9afa1ab3784931a574d5ab9c8ad]
+│       ├── unp.vxe [d21a7bec2077671798c73dc504b9e8f6e0ad2178c0c0a01e9b2704dee41e558d]
+│       └── virus.dos.kov.eddy.1386 [b7ab52244ca2ba0a9b700b290910bee64a0d8f95b743b9f746936f27d7d72922]
 ├── 1420
-│   └── virus.dos.kov.eddy.1420
+│   └── virus.dos.kov.eddy.1420 [955b470f6017189147a4e1870cf69dcff42019f0cad553a4d067b4eb11e4752d]
 ├── 1422
-│   ├── edd1422.vom
-│   ├── edd1422.vxe
-│   ├── t1.vom
-│   └── t1.vxe
+│   ├── edd1422.vom [a72fd3b3470024b8a10c669b41bd43a72eb72a083ee35a0cca7a252f78b44494]
+│   ├── edd1422.vxe [4144ff639a2b65dad3af9b96df4bc8927c452423323b2d935bf971b7c8deccad]
+│   ├── t1.vom [592c1c0d3a93e8d7d84991acbe177ec75eb3f4c24d3656dc423aea9125635869]
+│   └── t1.vxe [98ac0dbf70efafa6e7640a5976f94432c48fa8a354c542102da8fdb69d42781b]
 ├── 1430
-│   └── virus.dos.kov.eddy.1430
+│   └── virus.dos.kov.eddy.1430 [39343abbfe21a4dc04c22256a04820200c50122ef8cfbbe596371ada5e1b37c7]
 ├── 1444
-│   └── virus.dos.kov.eddy.1444
+│   └── virus.dos.kov.eddy.1444 [ce33b9ecfdf183231fcb85b215e3d0d9e0be22ebf9a99cd027fc7acad36b6295]
 ├── 1449
-│   └── virus.dos.kov.eddy.1449
+│   └── virus.dos.kov.eddy.1449 [5781a53be9d93c644936859a47253c16e536e4664a9bbaf1d2c6c8dfa8f0c4be]
 ├── 1457
-│   ├── 1-ed1457.vom
-│   ├── 1-ed1457.vxe
-│   ├── 2-ed1457.vom
-│   ├── 2-ed1457.vxe
-│   ├── 3-ed1457.vom
-│   ├── 3-ed1457.vxe
-│   ├── edd1457.vom
-│   ├── edd1457.vxe
-│   ├── t1.vom
-│   └── t2.vxe
+│   ├── 1-ed1457.vom [cfe69d811dc9aeef11fdb5201407f262b1d0e0ca10e5d507c163b3b8d20be4fd]
+│   ├── 1-ed1457.vxe [951d1ab2848aa39338bc7a42babf2cd094effecb6ee420fde682a6cd8af59073]
+│   ├── 2-ed1457.vom [c2b6970fdc690874ce7426840faad8d71dd54e98ec65267e0ee4843d1020e73b]
+│   ├── 2-ed1457.vxe [a930bc3415119b1667dd4b8d5b22fe0b006d5813345af9c8420978f0078b3246]
+│   ├── 3-ed1457.vom [b5f1a1386ca1c9dee4ce4afe1e0d24a3d5d2bd9c2dc05cf3598ae93414045934]
+│   ├── 3-ed1457.vxe [8ef2fda345da455a197736af3d6bb59f309f1ea9198f3681e272dca06edf8182]
+│   ├── edd1457.vom [53677e053c11337f66abd974a4f3dca0d499da9fa3fe01deae07f004de328ff3]
+│   ├── edd1457.vxe [ceae710f89e01fc7ef7876127382c4076fca39e795deecea31a388493d76cfeb]
+│   ├── t1.vom [a097736102e5e0442c3e39a2753a548e65e235b36c4057a59bc56c0a3136c6d6]
+│   └── t2.vxe [fbf5b7f8d0365ee834bbc51709ce5a47268a08f65863567dde3d7051a3d0cabe]
 ├── 1463
-│   ├── edd1463.vom
-│   ├── edd1463.vxe
-│   ├── t1.vom
-│   └── t2.vxe
+│   ├── edd1463.vom [55845b8362ab809f89410eff4e6e4e114cf0038c82c128c1ac58f1c325f45080]
+│   ├── edd1463.vxe [4efb019e3deb0e830ec2aab3e5dafc317f713737824327aaa6dbdac464fac5a8]
+│   ├── t1.vom [c6c0da72565aa9acdc687f4ab1b7f0661b39fd1e973f0e46797f769333cfdb5b]
+│   └── t2.vxe [d1d2e37c7463f957b6c75238b1383adb7395639d7e82161bb7f6e816231031b4]
 ├── 1478
-│   ├── edd1478.vom
-│   ├── edd1478.vxe
-│   └── t1.vxe
+│   ├── edd1478.vom [28517e4ba645a21acb6fc9f3a83eee8b70fa20197aa0d6510fcdc9f1be5f15cb]
+│   ├── edd1478.vxe [9fcecc86dead261eece20c775383b7153b632888b389d87a06b196421a7859d1]
+│   └── t1.vxe [1c32643dd98b23441e38000d43c71f0d308ba46919934752acc77006fee260b8]
 ├── 1482
-│   ├── 1-ed1482.vom
-│   ├── 1-ed1482.vxe
-│   ├── 2-ed1482.vom
-│   ├── 2-ed1482.vxe
-│   ├── 3-ed1482.vom
-│   ├── 3-ed1482.vxe
-│   ├── aa16002.vom
-│   ├── aa16002.vxe
-│   ├── eddy1482.vom
-│   ├── t1.vom
-│   └── t2.vxe
+│   ├── 1-ed1482.vom [5dabf9581789ac9e1a6cb884033de774d026ed1093007dd9123cef92a37d9ee1]
+│   ├── 1-ed1482.vxe [373f11e8454a262afbde98323b8a51ef81e4097398c1aa8be47ea46a88b9dbb7]
+│   ├── 2-ed1482.vom [9b65bb938bef5294b89975c09d5cafdeb088b7324f1413f0992dbffc40cfba1d]
+│   ├── 2-ed1482.vxe [f87529b0842de2cace1ca9c18224eb4d78b682bf2d4b2fbf779cf5e31f3e1c9a]
+│   ├── 3-ed1482.vom [1154bd9f7098250ed7dcd52d9228662dbad4d2eb3a9fb62dc8c20a0b6532cf0c]
+│   ├── 3-ed1482.vxe [c91f7c6ce9e341c2d3232230a80fc5ede00dc2f499e247904f3b255b4549f3c1]
+│   ├── aa16002.vom [b88dd55a0df57aaef82304625aa08bb209f80a5d383c41a5073d3317ae091d19]
+│   ├── aa16002.vxe [7f03dc09304307d28a9211e144aa588fbb79a4fcb726eb09c18a61a3b228ed0b]
+│   ├── eddy1482.vom [a64086308148e59dd4c04358806b650073a3e4b744c8053fa88162004ad5fdcb]
+│   ├── t1.vom [76c9b63435a885ec9a89967b618a0a9366675fd830428f1af8671ec0abe6725b]
+│   └── t2.vxe [edecc6fba8cd01b2a382f519236b6d96ba413b9458f21ea7654752dfeed1e9d1]
 ├── 1500
-│   └── virus.dos.kov.eddy.1500
+│   └── virus.dos.kov.eddy.1500 [75de0e07116683d8a577265397063a6ef8307fb31ec59cc44cdf8ed465394250]
 ├── 1530
 │   ├── a
-│   │   └── virus.dos.kov.eddy.1530.a
+│   │   └── virus.dos.kov.eddy.1530.a [db89f6417852234dd9383a5e7902acebe87914c1fc6c0ed19a820f73319d85e9]
 │   └── b
-│       └── virus.dos.kov.eddy.1530.b
+│       └── virus.dos.kov.eddy.1530.b [9b3f32d0ada831285fbd7ce06f75bcd4e3ba4d262dff8fa5e8b76de33e12a816]
 ├── 1534
-│   └── virus.dos.kov.eddy.1534
+│   └── virus.dos.kov.eddy.1534 [53de30ce13c27f3d0175213995fb2ee6e748fc539c70715cd67c7bedd77f651c]
 ├── 1539
-│   └── virus.dos.kov.eddy.1539
+│   └── virus.dos.kov.eddy.1539 [4d172fe045f1ec09d7a493e94d27fcaaa1ccab76696e925ebff55281d8269e3e]
 ├── 1540
-│   ├── EXTRACT.vxe
-│   ├── LWM.vom
-│   ├── debug.vxe
-│   ├── unp.vxe
-│   └── virus.dos.kov.eddy.1540
+│   ├── EXTRACT.vxe [c3464f7ba704b6599289f26bdc6540acb9950bcf5167ce982e20a099aada003e]
+│   ├── LWM.vom [a00eb8547d35a27da4f876284464e5263d6d9d21bca08df52d18d5d042578007]
+│   ├── debug.vxe [a6a87e556ed5d0119f6e5820b87adbd0536a77caea2283008316fec914ba6272]
+│   ├── unp.vxe [bb8ea8209c76f65a07fa04d4e54f9d40a75b2ea5524f5f766f1a0953a3213791]
+│   └── virus.dos.kov.eddy.1540 [f773d19c2df4adbe04801b03e24a151fd596c2bb4a09048ea4aa62cebb477b4f]
 ├── 1542
 │   ├── a
-│   │   ├── edd1542.vom
-│   │   ├── edd1542.vxe
-│   │   ├── t1.vom
-│   │   └── t1.vxe
+│   │   ├── edd1542.vom [dd22a7ffeab45e40e208bd3613f3e752d9809f70a0acc9095e10c9bf7715d0d5]
+│   │   ├── edd1542.vxe [fa5fe37d19fdde2b48504d29f8c4ac4ac5c1f3488db471d38704a009f3d35831]
+│   │   ├── t1.vom [4a791e08ca7ce785280bcb38cea811b32e16878a44d84f4c3cb20de99959eeba]
+│   │   └── t1.vxe [42a4f4857f309103f939704413257d7da86e5420dfb8748afa275440d3a42ed9]
 │   └── b
-│       ├── edd1542b.vom
-│       ├── edd1542b.vxe
-│       ├── t1.vom
-│       └── t1.vxe
+│       ├── edd1542b.vom [70f2ae6ebe041ebe9274abb75c3c2a045ad31cbea8a2efdb21e20835e2b19d8a]
+│       ├── edd1542b.vxe [ede4109b4323e73e9f580fc25119f05545f4da6c2626d037c021b1e321c3d538]
+│       ├── t1.vom [ae8bc3b8eb6f9dc5afcb0da21939dbdb53632841f0a10f4a6ae6c0099a20cd0a]
+│       └── t1.vxe [4eaabaefe3f35357bdaba2d560ca5b947e5489950dda6250a526d8e9235b30f2]
 ├── 1551
-│   └── eddy1551.vom
+│   └── eddy1551.vom [ea4a820df6a1d381b65ac4140305f0ca7e2b613431f79e04fcc40ee062c8b487]
 └── 1567
-    ├── 1-ed1567.vom
-    ├── 1-ed1567.vxe
-    ├── 2-ed1567.vom
-    ├── 2-ed1567.vxe
-    ├── 3-ed1567.vom
-    ├── 3-ed1567.vxe
-    ├── edd1567.vom
-    ├── edd1567.vxe
-    ├── t1.vom
-    └── t1.vxe
+    ├── 1-ed1567.vom [935f05de9194d2c189add2ba71e8c432d297fda9fb6d2acd1ab6eff18bde8e8c]
+    ├── 1-ed1567.vxe [012c7bba23bb51061194f8083b7eda3b77095638ee7bac4e210003a788c26303]
+    ├── 2-ed1567.vom [7bc8d563bad1dbf82e5131d95c92f12ab00171349ce9b3da8ab1237f6bccdde9]
+    ├── 2-ed1567.vxe [b295b7f782840274d0f7c48445b0263053da1c316d3998b80d4da0c96f48d178]
+    ├── 3-ed1567.vom [da7792e66c60fd4f96d5d479ee7097ce7714758baae643c7cc6a00b4c1858598]
+    ├── 3-ed1567.vxe [79cd7e35450199b459dceb7a26c77871ed71c4682491fe316b51e0b69acd2cb8]
+    ├── edd1567.vom [ec535a2ed21fbb4a66b833245b772fcdf588921160cd1905a6a23b648bccc278]
+    ├── edd1567.vxe [160dd7190f629d086c96dced47daf81b6c0e849f01808c9b3e9efbbb60a96a0c]
+    ├── t1.vom [1a20945fd19a13b7a16dc27eb74826dc992b63f8d8fd367f5e3e1716bc489b68]
+    └── t1.vxe [0d2c48de202a5976385c56d41e0ce97a4c092bec7edc5e08875d4a287ab73e77]
 ```

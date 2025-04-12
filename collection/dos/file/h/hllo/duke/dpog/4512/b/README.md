@@ -2,8 +2,8 @@
 # Contents of `b`
 
 ```
-├── DPOG24.vxe
+├── DPOG24.vxe [846e2eb3e26ad8578ad8475365e74cc2d70c60823ddd311aad7d1d4ba1c5993b]
 └── src
-    ├── DPOG24.CFG
-    └── DPOG24.PAS
+    ├── DPOG24.CFG [f96137a41d126993f4c08b3210e4394298ec2dd7a854df24c76af130ae74c4ff]
+    └── DPOG24.PAS [b9b89ba709063f4ee4975bd1a0fc1b2ad4629147e90277d6703a9a4640d54a8f]
 ```

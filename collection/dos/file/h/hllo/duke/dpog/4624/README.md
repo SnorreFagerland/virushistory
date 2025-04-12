@@ -3,28 +3,28 @@
 
 ```
 ├── a
-│   ├── DPOG4.vxe
+│   ├── DPOG4.vxe [dd43c11fd649e992a7cdedcf106a65f2d3b7fb099d549674f0163818a7191324]
 │   └── src
-│       ├── DPOG4.CFG
-│       └── DPOG4.PAS
+│       ├── DPOG4.CFG [cee6f786d023c29258eccc655932d5cafb0880297b71f1d29a4f0f33f642c3c9]
+│       └── DPOG4.PAS [ad35926bc2cd0d7e5d44bdbba7339c5f34f7893046273846b9aa3afdbe13b698]
 ├── b
-│   ├── DPOG12.vxe
+│   ├── DPOG12.vxe [f90e832f22a9dd949f76f426fda9b16b4f39ffe043eadbb62406c50300e76d43]
 │   └── src
-│       ├── DPOG12.CFG
-│       └── DPOG12.PAS
+│       ├── DPOG12.CFG [3cb036095bd389d552d5a52c96a030e157279d915612b58f9372a8790506ffb0]
+│       └── DPOG12.PAS [3a9f073f1b64dff7a735d960f0d6ab143d7f5e232e58d2f3d82586d46aeed88a]
 ├── c
-│   ├── DPOG34.vxe
+│   ├── DPOG34.vxe [fec9b7931dafe365da766b6df735d2908f92984e190204b06f49192931eef17b]
 │   └── src
-│       ├── DPOG34.CFG
-│       └── DPOG34.PAS
+│       ├── DPOG34.CFG [aab01c52affde7b0cdc5bea7196275f9e03e2011a45450c163b43fe15782be71]
+│       └── DPOG34.PAS [bfe18b1fddd25f12619fd8863abfc9f0fb6ee15159b0ec7410fa18ca1a13ad7d]
 ├── d
-│   ├── DPOG38.vxe
+│   ├── DPOG38.vxe [49f0d26b36b0fd6f2bd6b48183129d02a17534b641c703f1421efd588a0b0cc7]
 │   └── src
-│       ├── DPOG38.CFG
-│       └── DPOG38.PAS
+│       ├── DPOG38.CFG [8432bb288bcba42e9f2220faf02e7b1a27aa623fa06c48ae894fa37a1ef8edce]
+│       └── DPOG38.PAS [6520535326f79569adc88b8777db083a3fd2be19159480805a7d9fbfd7f42fff]
 └── e
-    ├── DPOG54.vxe
+    ├── DPOG54.vxe [d565152e1811bd4e6ff7473240082cc773735d2b1b4d01c22bcc477e4c439973]
     └── src
-        ├── DPOG54.CFG
-        └── DPOG54.PAS
+        ├── DPOG54.CFG [ad98346e2763adf09c65249ee149c6d95ddaacc7ebf525b36f31d0000e56a321]
+        └── DPOG54.PAS [50411181c6b643619df182646dd88c76a4c44288420945faefdec32f1ab7d12e]
 ```

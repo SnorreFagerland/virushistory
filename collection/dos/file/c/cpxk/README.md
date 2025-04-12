@@ -3,21 +3,21 @@
 
 ```
 ├── a
-│   ├── muad'dib.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   └── t7.vom
+│   ├── muad'dib.vom [66e09bbdfd42d45cc4db75252a29e418685b084fdcfe3581a05fa17254a8a3af]
+│   ├── t1.vom [d7338872000786e4050da29f96ce580815bc23ae43dbad40e1ffd2cfa7666201]
+│   ├── t2.vom [e50b64ce3ed1a7d4795783ff9815cd1b321f8084a0c6f202cd2fd298d9907fba]
+│   ├── t3.vom [08836fe81b926bf43549ec317b1fe55c5ab5441c73258ef21d163525344286e2]
+│   ├── t4.vom [a2dc2c92bd0fdec8271181239ea5ad0b82099441865a4f1da797785e5bb18ec8]
+│   └── t7.vom [9e17fef62c9b6def4ed6d7c07000575c4a2b4572fe3603bdd4cfa3d4b8669b9c]
 └── b
-    ├── c-c1000b.vom
-    ├── muad.vom
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t7.vom
-    ├── t8.vom
-    ├── t9.vom
-    └── wci0270c.vom
+    ├── c-c1000b.vom [8c1517485430799c377922575215cebcd3082fcaaa8cbdf44cb5ba6bd6389be8]
+    ├── muad.vom [2fa4eb2c430fd38b8c24c9f637314df67645be7a214f2ca073b65fdc79b84c9f]
+    ├── t1.vom [09a54b682088f2a1c6d4e344fbd945a1f5461dcdd9f7e711a14d9307ee9203fa]
+    ├── t2.vom [8247f88bcea3ab507421e6a346c5e898da80a54cc7a37f3f1be319ea2203c7a5]
+    ├── t3.vom [f9c399effb62f568c7218e79ea43392bf8318e37b32dab0c82564143c5e7c5f3]
+    ├── t4.vom [04c33d8eb7c40f76807da89cb369fa36ed8ab487e5cdae0975613980a55af7a2]
+    ├── t7.vom [714c5cc131aef964f74aefb321a3498abdcbb1cc88c2c81f5dc2d25ca405f0aa]
+    ├── t8.vom [84e441c9d8881f7b966d92d181d5ca9c2608a24509491c164d655925944d85cd]
+    ├── t9.vom [4f5f9cc50a22435999be78b3493b438bfe9d0820f0890220ebe5f064edcdc7b4]
+    └── wci0270c.vom [272e45854c07cc0ca75f187915b24bff264f54a523597ee882ceee4e1e75fc8f]
 ```

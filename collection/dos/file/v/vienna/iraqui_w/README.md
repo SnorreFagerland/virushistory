@@ -3,37 +3,37 @@
 
 ```
 ├── a
-│   ├── iraqw.vom
-│   ├── t1-2.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t4.vom
-│   ├── t7.vom
-│   ├── t9.vom
-│   └── v-iraqiw.vom
+│   ├── iraqw.vom [9bca5576840ebf718bc43cce85f25266260b5cec700b35d3c2a5b4edd6c21132]
+│   ├── t1-2.vom [e0f95bebbbf5d42b032730fb8e8b0c2703f23bc4d5602b97ddb6a65429c40a4d]
+│   ├── t1.vom [78a5ef1e6d74126820b3d286d06b0cb325308166da8db5d75aba5d0d8276d388]
+│   ├── t2.vom [cb4b100d4821e1c4db335da5f8deefcd931e084ee5a0932ed53b9b69a4d5fa4a]
+│   ├── t4.vom [6d02bf653b45a4dfaa7182bbda6b2698198b3b6483aafbf40c8de37e3c46c6fe]
+│   ├── t7.vom [74f4292fd5f83f3fc9270e6b09fecd2a32269378f81bbd7250b59281c490a3d3]
+│   ├── t9.vom [7f970f022891062b4e5a78cf08953bf5c6d74b7b60ea8c0f4127241a5e39e570]
+│   └── v-iraqiw.vom [1b91b7fd957d301ff34ef24f88e46a335bf6a2b9644d6a0851012f3332f6ac51]
 ├── b
-│   ├── iraqwarb.vom
-│   ├── iwg.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t7.vom
-│   ├── t8.vom
-│   └── t9.vom
+│   ├── iraqwarb.vom [fc61579a4a60d74c723327f7cce33b41a8ab309cc58c755f8487f55c90caa97f]
+│   ├── iwg.vom [5babfdf2c714337f50167b46f44ad4c51e7f1f2bb900025753b7f19c229a954f]
+│   ├── t1.vom [83910f52258919f5bfc273c1783c3a1fa5ee9ed8f6b4d7aff96ae14cfec2c976]
+│   ├── t3.vom [aeb8b5cf6ec46337cc4b7f15bd630021f0a53cb437ce689d88db63b03259b07d]
+│   ├── t4.vom [6975fd712d7135da970e67e2928d1d0cc2bd4cbe9c715a35ac8900fe09760355]
+│   ├── t7.vom [9018098f0d3092912381d92cfa65582deee6da7d607aa0f88e0830a74486c229]
+│   ├── t8.vom [ea8ac2d3fa3c058a5384e1b1fa2542addba5fe149128cb46847dae59691dafda]
+│   └── t9.vom [689bea43045a5ad91d93251b4fd4302dda6604105c857def218681ba5ee6e6ad]
 ├── c
-│   ├── t1.vom
-│   └── vienna_7.vom
+│   ├── t1.vom [ecd02761b73cc6d7032056dcd55f81ac26c742ab9691b489d8e11ec234d3d0f8]
+│   └── vienna_7.vom [6323df278fc1167c03aa761c970ce3cc9a2c433350d5bc4fd8f1fe378822d52c]
 ├── d
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t7.vom
-│   └── v-iraqwd.vom
+│   ├── t1.vom [4e74c260d79bf8531c7783feb4753bf93d6a938240e3b8b203145a5719643848]
+│   ├── t2.vom [22b8b73fed7bd1165e063bad38a5cb207be4665a9a432dcc21787a0e8628bb01]
+│   ├── t3.vom [c7ebff6c9ad0a47d15a4aa0d89f0fe545d210c8849a8c35bd92c001485c0f74a]
+│   ├── t4.vom [e7ab09ab09c74ea641b02c6257fa1191eed991862df33a8c0453e300eb3d2b5b]
+│   ├── t7.vom [6f6cfd3d79d45bc5123b8c8e982da1af36a7138cbf3c6e0ad87f869b8a3fb6f7]
+│   └── v-iraqwd.vom [6bc84b760576b446b552e88821ad2553ad79f6ef7ba42d2d1eb14407fece8ca3]
 ├── f
-│   ├── t1.vom
-│   ├── vienna_7-001.vom
-│   └── vienna_7.vom
+│   ├── t1.vom [fe672bdb1dfbbba6023dadefa6c1af780075e5cbede253aefc184391b6180dd2]
+│   ├── vienna_7-001.vom [fc12f2d5f8daffb06124177e7476248d227a110a7f36a851baaedc4d3347eab6]
+│   └── vienna_7.vom [655a04d6dce880fc1cc2a47c078667a4651a44a8ef04244b2655c652b071496a]
 └── h
-    └── d-aqui.vom
+    └── d-aqui.vom [641ba5ab325ef3cac5602360895465c55e295740239e51f6d49e5301cdbdc0b9]
 ```

@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── wpc3161.vom
-│   └── wpc3161.vxe
+│   ├── t1.vom [776c5c65b5afd6839063c3be672783e423e637ba7ea61eaba10afc6754821a7e]
+│   ├── t1.vxe [9dcb6efcfa3acfc5ce7196eb2440902108b5bc1482703717ac9c2857d98628fe]
+│   ├── t2.vom [682fcad942369529b534b8fe4ce61a2fe86b1581dc12f60095b329cb72fcb0b7]
+│   ├── t2.vxe [e9471641b245114f4e703f67ce214670bd824455e7f2e19d68bcc0c12e382533]
+│   ├── wpc3161.vom [7b646ed55117d22ade04b0e74cb600c1afb85cac91da13901528f5552cd0dae2]
+│   └── wpc3161.vxe [be2ba0eecf309d9e6ff71827384277d1e3f84ba47aa5e28e7dfba754cde418c3]
 └── b
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t2.vom
-    ├── t2.vxe
-    ├── wpcb3161.vom
-    └── wpcb3161.vxe
+    ├── t1.vom [68e3b7b4f0aaeb2b5fa1cbd871ba46a3fc4bcb6c6c0c00155f5e89c8d873b65f]
+    ├── t1.vxe [fb8a7802d4caa034aa6257494b0897b0309117ad0c78aa579c783cb56e68ecf0]
+    ├── t2.vom [53c1407fb05f5b47302b73abf6f9ff4a833e61c17a984f94b33a0d0692985c6b]
+    ├── t2.vxe [a6c8357d02a20450e4d846d54416e191d3a5ce12f2238820594e1537f31e609a]
+    ├── wpcb3161.vom [d6dfb3102d9c769d36f53708880c041827784ed852843625ab9d14bc2ef3c454]
+    └── wpcb3161.vxe [c9e43d057ee36c62896c1864186caaa1cf2b1f58ab4351d81d4cc8fa31b41dff]
 ```

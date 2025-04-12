@@ -3,23 +3,23 @@
 
 ```
 ├── a
-│   ├── svc-3103.vom
-│   ├── svc3013a.vxe
-│   ├── svc3103.vxe
-│   ├── svc3103a.vxe
-│   ├── svc5-g1.vxe
-│   ├── svc5.vxe
-│   ├── t1.vom
-│   └── t2.vom
+│   ├── svc-3103.vom [df4838d1bb041c00335b182febba51a6fbbf607ce4ebaf24f0c8ffcfcbf05d09]
+│   ├── svc3013a.vxe [6ae808fa324219c0a3b56c5e1103c39dca6a431032e00e896dd336606165fea4]
+│   ├── svc3103.vxe [6e17f4f1f62d920abc6abc7e6405c8a137144b2e0724b415f6cdaeab497a7d6f]
+│   ├── svc3103a.vxe [38f663e0d954418910ba1d30f6379d2f671baad1e5ad399ebe0ccb7de3cdae8d]
+│   ├── svc5-g1.vxe [0e09ed71d396d72c4800a0e198238831ca4bb819ae85e6615c1c9b532bbfbf51]
+│   ├── svc5.vxe [27a545af84609ddb9ba991debc398c32490e4b3ecd46b0d5af9979e8920bf45a]
+│   ├── t1.vom [aa7f29bd30888bd7cb61435868d2e64b585addeb6508eb1b5864011bbc00c9ce]
+│   └── t2.vom [069caaa265c332a2a6badd6e61e0d69eabf96a89de9d466588e5bcd74bcbfff7]
 ├── b
-│   ├── svc-50b.vom
-│   └── svc3103c.vxe
+│   ├── svc-50b.vom [ca4127c88129db3dd64d9c64c3f9998009726d8f5946ade32953cd303f306d68]
+│   └── svc3103c.vxe [8fc643cfeb2a0e164de0b847e248e542240af1ddf5c32f8b1fdf7461102da3f3]
 ├── c
-│   └── svc310~4.vxe
+│   └── svc310~4.vxe [950cee16608045dfe728e501616e6043888089ca10917dd733563a9f2a5f2450]
 ├── d
-│   └── virus.dos.svc.3103.c
+│   └── virus.dos.svc.3103.c [996d7621ccf72a26134f4a8463a885f38b5326b5bfeed32541c640802deb2691]
 ├── e
-│   └── svc3103b.vxe
-├── svcunk0.vxe
-└── svcunk3.vom
+│   └── svc3103b.vxe [fafb8bb18af02e87a077ae5278f03860a3dddfa69d65f3682a2d66ba09b34b99]
+├── svcunk0.vxe [bd6007af94156fb7565b7ef153820d350c4e0004811f476c6263c91c9248e2e7]
+└── svcunk3.vom [b063fbd94bc60f0cd38bdc8a9d64d41482a0a5b570827542292cf0149f5008e3]
 ```

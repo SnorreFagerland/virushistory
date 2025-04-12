@@ -3,22 +3,22 @@
 
 ```
 ├── a
-│   ├── 4711.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── t7.vom
+│   ├── 4711.vom [298e7695627754dd75ffda534b33d6f1f9edd193414d89d880b12bc448a491f9]
+│   ├── t1.vom [de393b0cc714c0ddf9958d737f9d0031c8ffe4c529e9ba81f5fc0d8fba186467]
+│   ├── t3.vom [e237df68305da15f6b958bb37ee1110206287566fef561d7072d768db434eb1d]
+│   ├── t5.vom [54aed854ae6b1350381a7837a5a434fd9a86c35fc3f57bcbc280c998c74ce5b9]
+│   └── t7.vom [83a3a6e38aad848343583d2dcdef3d3c8e8a85b142dd9b16a53f64ebf02abe54]
 └── b
-    ├── morphic.vom
-    ├── spoo218b.vom
-    ├── t1.vom
-    ├── t10.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    ├── t7.vom
-    ├── t8.vom
-    └── t9.vom
+    ├── morphic.vom [6416b0b428d013e240422e920f51910e2ae4c4b0ac48c3ca3de518ce6bec37f0]
+    ├── spoo218b.vom [239059621e2f69e83130c78d7df3516bb2974ccab2433103bf2f1495d4422448]
+    ├── t1.vom [c8f5e55166a57f507fdf6e48ee4c977755f9ec721282f747f3c5f8e36807c1b9]
+    ├── t10.vom [4ee3d9ff6e6aa1349c8ac99a9d03b484a26ac8b264cfdf35fee2251c30a964de]
+    ├── t2.vom [2dc0b010ee18a4c9fd0c12a3d4c078340b2991211e2d10fb9410d9918be8df2c]
+    ├── t3.vom [258707584ff032e30ec6a27abf15db7bcd61da6638219afe733a2af77026379a]
+    ├── t4.vom [c412b84f7b26271517e9c8c3c8c27092c1ae7d11b2f3335d2d4d74061cf745c7]
+    ├── t5.vom [3dea28a134a31d3eeec2feb7850a8cd88ef1928ac078bf12779f8771079a5478]
+    ├── t6.vom [8281aea8658cb39bbe342dec80a01735de61f2609ee51a344c0772a07b6f3feb]
+    ├── t7.vom [4a6c10de9bfb3a286cc52d967e04dfb1d2cfe038e59043019bb136d95451f496]
+    ├── t8.vom [51005cfcf261d9822101d6f3fbd159801b9909527971010b064f1615fa890e54]
+    └── t9.vom [5328ae7516a3909d3126c212aaa6369850c5e8f65737e56dbff264e7b73936e5]
 ```

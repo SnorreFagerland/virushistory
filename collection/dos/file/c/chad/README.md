@@ -3,43 +3,43 @@
 
 ```
 ├── 301
-│   └── chad_301.vom
+│   └── chad_301.vom [d74620bed000869ccdba9bd4957ae1a533d7e3f396b9932ed55e895e47e6bce6]
 ├── 307
-│   ├── chad.307
-│   └── chad307.vom
+│   ├── chad.307 [9f9cad0770500c26e8b28dd4993b826c84fda494423b862939e57dbd2f9ddc28]
+│   └── chad307.vom [4f9eb9031067b6343be54684dfc01f7f06446b21e76f093f1ff165c7958d91c8]
 ├── 749
-│   └── virus.dos.chad.749
+│   └── virus.dos.chad.749 [f9642e611305c3f7eb27bb1c0a835031246c6ab12bb91e975f6dee1668cd4c76]
 ├── 750
 │   ├── a
-│   │   ├── chad-750.vom
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   └── t9.vom
+│   │   ├── chad-750.vom [184d2acef56bade0a0e4edca8c5d7dd25ab91f389572285d4dcab5254b6395d9]
+│   │   ├── t1.vom [da5df5fe3afc413166d7c455841e7584a455adb3a152b1807b3a4f42703df57f]
+│   │   ├── t10.vom [89d79f6cb23b254d599b319829a45195a067cf169211b7f655235643946802c4]
+│   │   ├── t2.vom [10b7e86ca38ba8280d860c17552506b8058b73f52f87e1e1b0f14153d0f453f8]
+│   │   ├── t3.vom [e055731cfe88377971cc6c15852890a2eeed0dd5d3c1084dda3ec408e5ccb748]
+│   │   ├── t4.vom [0d8830c06acf413f1ca700e4a4c481eed00197cece46696fc4c1bfd05c7e5f2a]
+│   │   └── t9.vom [d16e0f88f33513744c1611c826661b8b993e6a91d752b926c83c161a127b709a]
 │   └── b
-│       ├── t1.vom
-│       ├── t2.vom
-│       ├── t3.vom
-│       ├── t4.vom
-│       └── wci0101c.vom
+│       ├── t1.vom [78ae356a606f338bc1de07ad54f3346042b8305511b282c921648df0596406ab]
+│       ├── t2.vom [bc17614aebaf1031995c4424b926d2344ccd5a6018e2979e5a2e039bbc178def]
+│       ├── t3.vom [30509d9d02c37e23a093b5186d55a3d81ab36cccc2f7798bf603eb75f15f3ce9]
+│       ├── t4.vom [3654ef5f7005eff00fa5b48bf04a2df0ffede169f6358ce36249314dedd9f0ca]
+│       └── wci0101c.vom [82eec262354496c312a372490d82cc11d9e3661de7691c7c38306ead8095b71d]
 ├── 751
 │   ├── a
-│   │   ├── chad.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   └── t7.vom
+│   │   ├── chad.vom [7c30e26b19301c7cebd92f4d88e37784254cc67ad305341a23745c96be5a7d6e]
+│   │   ├── t1.vom [d4839f11a624ee3123a8ef49e62f101e7f27671f1d83c76cafb27fbb3ea1897c]
+│   │   ├── t2.vom [eb6a9ff91a9ed6da75c45e95e6e4ab2c08a63c430a6ce3f8970e40b89cfb9608]
+│   │   ├── t4.vom [3c13c65ea714a713ab9102ca3381aa20d40c4285a0ace342318f6eac014414df]
+│   │   ├── t5.vom [4b5ec0bf9fe91e63fa247925773c88071c6e1c6ff920b93474816cef1a92d808]
+│   │   ├── t6.vom [a5a98ba5e582accf7c1402afda453241443a0ec963f9b4b0d5bfd5258848a719]
+│   │   └── t7.vom [34dafa5fb3dce64fd16f8fc2b90f4f6d12da1a3015db19be214ad5de5bb186a9]
 │   └── b
-│       ├── chad.vom
-│       ├── t1.vom
-│       ├── t2.vom
-│       ├── t4.vom
-│       ├── t5.vom
-│       └── t6.vom
+│       ├── chad.vom [ced1c589ea160d344a4cc38d6dd3dc6f84899d523a2e7bcdfead3b1b28eda984]
+│       ├── t1.vom [9e083eec6e985d4fe2166da6ef663f51f8c6a17a8dc89e554704e92681eeddaa]
+│       ├── t2.vom [586a90215b49d55c3182639673b9de9df50378f2fbb24525084e35bc5e1a006e]
+│       ├── t4.vom [89c82c662a380dd624e7de32e6d8013f74d1c840501557b1a868854edcbe0135]
+│       ├── t5.vom [ffb4e470bba73b1b53b6418fd44dd737919131534e54bc827c002dd0c7b256ad]
+│       └── t6.vom [e4b58e9f72e3cb4a408accf7f310f9b5c4b4c0728a0c14e0b7a9a71a9599156a]
 └── 759
-    └── virus.dos.chad.759
+    └── virus.dos.chad.759 [5638325086b7999c8b2a4dc941c9d01a74560c2a062255d3a5af267b08bd27ab]
 ```

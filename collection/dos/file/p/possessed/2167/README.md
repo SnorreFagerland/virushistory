@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   ├── 1-po2167.vom
-│   ├── 1-po2167.vxe
-│   ├── 2-po2167.vom
-│   ├── 2-po2167.vxe
-│   ├── 3-po2167.vom
-│   ├── 3-po2167.vxe
-│   ├── 4-po2167.vom
-│   └── pos.vom
+│   ├── 1-po2167.vom [eb7738ce32beb795483706b08b98d3475042da6e86fbfc2f38a3f6c5a559b704]
+│   ├── 1-po2167.vxe [cc468ef89d16046c666eeebafb09ba7795bcb9107c1ae1766234fd5ce2ee0eb2]
+│   ├── 2-po2167.vom [5244391f82f322262bc7b17977d5775271e0a6c317313f6b8b9fce32f582b0cd]
+│   ├── 2-po2167.vxe [045fa2ae5299fce5fa2643b9a06b1237f42d37e18e4a40270a8deac515d60dbd]
+│   ├── 3-po2167.vom [2359b191c06642f45cdf625fbe317b7f01f145a43d384c1b055e1244666f1367]
+│   ├── 3-po2167.vxe [08225ec1483ec61fb4f066280cec35046a06dcee210a76a69c97317e4e5c8503]
+│   ├── 4-po2167.vom [7657aadae700f60fc9f9b4fe427fc7bd4daf53b8ebd740870184522ae742e30d]
+│   └── pos.vom [fade7c31050f24dcd7b442195bcd3113f57ee4bf3dc5659aa4035975fc7267bb]
 ├── b
-│   └── pos-var1.vom
+│   └── pos-var1.vom [03d366235c22857d5b0fcb6d5b825486d6bc292434d94ae9bc492257f5402707]
 └── d
-    ├── possesse-001.vom
-    ├── possesse.vom
-    └── possesse.vxe
+    ├── possesse-001.vom [48aeb572e7da4ed81a434f4d8b18c3a4dc0ee0a6e27d584b6b1e3a03bccd23ef]
+    ├── possesse.vom [d8bbe3fca3c0ed386756de3d5cbed6e600b90f1b4d26c47b90936a3f731ee3f7]
+    └── possesse.vxe [34b777cb4e233267c3940ba3ba2a28915cb6f0173d100010973fa3822eb78c03]
 ```

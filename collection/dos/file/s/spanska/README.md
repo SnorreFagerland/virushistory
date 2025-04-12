@@ -3,83 +3,83 @@
 
 ```
 ├── 1000
-│   ├── nopsrn2.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t9.vom
-│   └── wci02402.vom
+│   ├── nopsrn2.vom [3ca16a7d06cad9d5d308dd95f387ec7f1322fef3d60844df3459acf0bb7ed85c]
+│   ├── t1.vom [17c576047489880738de3b87d3b82443a002e805de4a70f29de7c67c89a3c0fb]
+│   ├── t3.vom [fccbba692eec5ca034d35e6d5d5f435dd5a15064e6bc5f8c3df9c8c3d145a169]
+│   ├── t5.vom [1389dfaee40fbb780ecea2930ac4672ce1bbd4e122c7883233e352e1aa810da6]
+│   ├── t9.vom [f05c429e9fe55c810102caeb476ec9c1f2543041a9803c3b548741b31cbddf74]
+│   └── wci02402.vom [20b804d5123791690a3f935b3cd5f56ed8558e0864d883e138cd809eb2b20743]
 ├── 1008
-│   ├── nopasara.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── t9.vom
+│   ├── nopasara.vom [763c122e0bf52f61fa4f30292b42f3e6cdc9451065648c5736bb54c12579ec85]
+│   ├── t1.vom [e44f7571135248008e012f45bd750214e986e5bfc02613fc8e6f520b8e8673c3]
+│   ├── t3.vom [21eeeb68278816f8ac93becdbf3e982e2be2ad3a01fd3d444df59ed601fef493]
+│   ├── t5.vom [e31bd0c82560cc3b39316f60bd464cc1e5f1f5216a9eef07adad574dc44b0f5d]
+│   └── t9.vom [1b82db8c03c360ab32c3b4a5cbbd3f01686eb817958c4e5ebb24e8da42f86f2e]
 ├── 1120
 │   ├── a
-│   │   ├── eudocrak.vom
-│   │   ├── nopsrn1.vom
-│   │   └── wci0909s.vom
+│   │   ├── eudocrak.vom [9187fa73ee95f0c7acdd7032b5d7a98a5d9e15fb3a50608c06e686a0315de358]
+│   │   ├── nopsrn1.vom [faa62ab4fc8d131dde3bb172034e3a6dcc70c9f8ba352c93d1241aa90e245a96]
+│   │   └── wci0909s.vom [333626c710c447701ba99ee67fc359aae68c96250500730af58d2bfd03b93659]
 │   └── b
-│       ├── cosmos.vom
-│       ├── eudo-ck.vom
-│       ├── grep.vom
-│       ├── t1.vom
-│       ├── t3.vom
-│       └── win.vom
+│       ├── cosmos.vom [7e023162d69a274439c413ab75f25cc36737a31b5efff1da096f3d2796274578]
+│       ├── eudo-ck.vom [5dc0359c5d4cc7676d03a7179847b1c4a8be16fa52ac5c9020e63126077224ac]
+│       ├── grep.vom [1e81dbb70c28681ee0e95f07e09eff4158f5d8683c5197f99e6cbf4d1343d294]
+│       ├── t1.vom [c0388ff2360539a681f40033be0d4095cca70fa676e66b8120b3327f87cd3dff]
+│       ├── t3.vom [c4e21df61d0a09c9d0d9cff4cb1dcdcc00c97c10ab58bbad0e13cf65be9363d9]
+│       └── win.vom [a6853f8efa3cb34058712720f7b4be88f8e818d14ddc5606f8b9d6ef814c04fa]
 ├── 1500
-│   ├── arj.vxe
-│   ├── debug.vxe
-│   ├── eudr-ck.vxe
-│   ├── mars.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── trace.vxe
-│   └── win.vom
+│   ├── arj.vxe [8f099abcd68322b83db9b02aa106a2d2e35579c262ba558510be61a3559e0a7b]
+│   ├── debug.vxe [324680e155ef613274bdf8b1edf9e3a45b6aa1ae18c5a624f876484bdfbb68a8]
+│   ├── eudr-ck.vxe [8d7c6a7fe4031aa2c46029a83acc3fdae0e76bed767f49a805254e4aa40e080b]
+│   ├── mars.vom [6ba95f250a886bb15893eb9960ffdda2b2280e4f69a9773468a3a7f0cac44693]
+│   ├── t1.vom [2060a8d8db77465446f98b5b3e4c31ab0d7299f19d3b66ffe9bbe7a8a9611029]
+│   ├── t3.vom [070087b76b14878983b93feba3d4fb6f1714830931c48f304b79f942e13359bc]
+│   ├── trace.vxe [20b0a26a8bdab6ef60a0a8edbdf2630a2d1dcd314f4a832dbdfc48ecff6cd18c]
+│   └── win.vom [a88a84d6a377921c4a02b7e3f29ef0baa6cb981a831eaee8530eac0a56821c00]
 ├── 1509
-│   └── marsland.vom
+│   └── marsland.vom [43f56bb2180a6bd37f4ec620ea40932f61641bf90330185427fdba9d55b2e35e]
 ├── 3698
-│   └── virus.dos.spanska_ii.3698
+│   └── virus.dos.spanska_ii.3698 [dd4243928c4e8987426b6bfb084fd09eb723987e0b959df95c1d578895cf9f50]
 ├── 4072
-│   └── virus.dos.spanska_ii.4208
+│   └── virus.dos.spanska_ii.4208 [00349a7be3906f34ef86e82a9c1f24fd17ef7d592f5aa9f4f1a1bde51e340ebf]
 ├── 4249
-│   └── virus.dos.spanska_ii.4249
+│   └── virus.dos.spanska_ii.4249 [b74bb2a3e6192744138d3bdaf1d068178c46b8e1d67914d04e59c20e10a11ebd]
 ├── 4250
 │   ├── a
-│   │   ├── 1-sp4250.vom
-│   │   ├── 1-sp4250.vxe
-│   │   ├── 2-sp4250.vom
-│   │   ├── 2-sp4250.vxe
-│   │   ├── 3-sp4250.vom
-│   │   ├── 3-sp4250.vxe
-│   │   ├── agent_k.vom
-│   │   ├── cu3-crak.vxe
-│   │   ├── elvira.vom
-│   │   ├── eudo3.vxe
-│   │   ├── f-prot316f.txt
-│   │   ├── kali95.vom
-│   │   ├── mirckey2.vom
-│   │   ├── pc_hdp40.vxe
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t12.vxe
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   ├── t6.vxe
-│   │   └── win.vom
+│   │   ├── 1-sp4250.vom [7232cc348bdc2eb4ce21c211cc665015d0d5d6112fca01d98628c35dcb506873]
+│   │   ├── 1-sp4250.vxe [a00627b7d0420732c939b66c4f8cd219f8388ccc6bf2ee353b8dfdc391099337]
+│   │   ├── 2-sp4250.vom [128b8febb8dd98b6c7756edd03bb218d5734214ea8e52a55d2ee3ada2cec3b6e]
+│   │   ├── 2-sp4250.vxe [c9dd6fe9da556c7a191393903bfdc18d07997852b49c7329bb551f9fbfd1c1d0]
+│   │   ├── 3-sp4250.vom [bc698f94bea61bd18415abef2f8eba9101d0c7104d774fe337716432648be0d5]
+│   │   ├── 3-sp4250.vxe [106dc74cd78b1db00963ba54d71f228cb2024a86c1d4543c2c1cb987aa921176]
+│   │   ├── agent_k.vom [bd1368db2728362cde17924043a9ea5d4344a81accf5ff24b3db979836975f9a]
+│   │   ├── cu3-crak.vxe [65c482e5302a0a504fbdd1df3bfefd1ec36a1966ffd8bb1d819546e532c5b8c8]
+│   │   ├── elvira.vom [1d7d9cd464756eb8e492247cb6bc79e7275db4c61cc12f3352787d66022b4285]
+│   │   ├── eudo3.vxe [85ad73ca9cccf5f33c82e7c0bdf154ef8cd99dd385c1a8c86a502b23f610117b]
+│   │   ├── f-prot316f.txt [a43b63c92d3c78b236681457347e64366b01add5eed1c962f1b264e380c2ced6]
+│   │   ├── kali95.vom [2b1450c6ab3d5ad28b3f0ef9a7aeb6ad5310053b8b570d50f89f0e0acb685ed4]
+│   │   ├── mirckey2.vom [69b3fdebf2064c239891a3931970656bc636884fa486e52985b9ab4c5635986b]
+│   │   ├── pc_hdp40.vxe [171d999f1872903a6fcbb17f3478877f9abc64d974d7ae10ac7776338af9d03f]
+│   │   ├── t1.vom [77ea574057422de2f08d45da70bc2ec3db73d224cf635dcb08e8e7949f0d7435]
+│   │   ├── t1.vxe [e1239b3ddb56213d09bd819a4fc9a4e6f2882fd8e8b99af3b69f022022bfb49c]
+│   │   ├── t12.vxe [964a19df10ac9aa923a0c1b5fcabe680e2f5b1cd7c13d856fbb09e9863f18000]
+│   │   ├── t2.vom [bd610d43324a5d797c0e6471ba5d37b83ba85c9604467a111fc8b6652d92ef9f]
+│   │   ├── t2.vxe [fb272f2e0759c70e4c3bdd449d9e57434ea77df21580e702addcfad728c9dd79]
+│   │   ├── t3.vom [9e447e4c074cb6df8e7f8885c9f085eddb6b82a59d57bb5d46578f6bf7198266]
+│   │   ├── t3.vxe [c3bd106c7757b54f74580157f05c7586a3b7f27c7c21ce87497bea3fc2ef431c]
+│   │   ├── t4.vom [58bdbb0b2e299631f4141d8ecc7ddec93eda619a0a826828a94092a1b24d5f8e]
+│   │   ├── t5.vom [a2e3ef60c11d7f416f167216e85c32eaaac5b416b6e5173eaef3ee02bb350fbc]
+│   │   ├── t5.vxe [f576b112f8e4425a1b84213d9757bed6691c664fa45d3e358c7ef191b2fc5cba]
+│   │   ├── t6.vom [f29847e86b0b196f7afe1cdbf2bbce5237fde0b6bdcde886ed6ba091a0bffc5d]
+│   │   ├── t6.vxe [87b46bfd1b4b5f5a6056682df7d4279ded128ba7bc2bdc6e0686de9fdd1e926f]
+│   │   └── win.vom [5754c097ce5ef218c134f8fb5be923b674b8f945d60774edd9229083001a9e2e]
 │   ├── b
-│   │   └── spa4250b0.vxe
+│   │   └── spa4250b0.vxe [8c2b90e43a5298637217d9ee3dff914a4edef64cf4578595d88228427c2aa36d]
 │   └── e
-│       └── spanska_.vxe
+│       └── spanska_.vxe [1b390526dfb3e38c5fcaa532a47b8f15b0d60d127be7fa728645f31b5e0bcc11]
 ├── 4270
-│   ├── id.txt
-│   └── virus.dos.spanska_ii.4270
+│   ├── id.txt [e27b2798dc191f4c70119edfcdb70909a6aa4d4201621043b7b3e8ab71793fa6]
+│   └── virus.dos.spanska_ii.4270 [22d91c572176045fbdebeb2147195535b38f85079cdcf907f88b701e7a062763]
 └── 6126
-    └── virus.dos.idea.6126
+    └── virus.dos.idea.6126 [42b6c5a2262ff4771aa9b7052d58d3e860b1585ed340fa4769964d49409edbe0]
 ```

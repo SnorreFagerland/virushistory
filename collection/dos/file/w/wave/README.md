@@ -3,20 +3,20 @@
 
 ```
 ├── 373
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── wci0018w.vom
+│   ├── t1.vom [edce42d26733dbcb916e96dc45db805ab8aa174f80277b9148177dd7c3d89499]
+│   ├── t3.vom [f064b261072fdeed454b994d574fa3e12bdea1ab10d904c3b756fa7cc9de9d36]
+│   ├── t5.vom [7932280ac893e7214c9b0fda06149cb0d8d1b8dc29309c2c478ee4ab45692039]
+│   ├── t7.vom [26ee4e60764a82d388598d7970f214e3ebfeb3e1f178793ecafc301e3a3c12d9]
+│   └── wci0018w.vom [3e9cc79a57df49e703482408ce9846185e04f467e6c88632971fb408edcfef86]
 ├── 454
-│   ├── crazy.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── v454.vom
+│   ├── crazy.vom [73ea9bff900db0e27611e1a629a51103cead2a794ff7683dacf2917af6e2a4d8]
+│   ├── t1.vom [be1b433268ee5799aac95387fbe8c98d2dcd4b11f98db38141aa497bf2bdabdf]
+│   ├── t3.vom [404d1a7a1c7b96d7822b7932f2620e6cff9897cd58ac0165993582b31e384a8e]
+│   └── v454.vom [3c982de35b953d787989301cec4af04cd19ecf5b4bddfeeac7fdb36455801962]
 ├── 456
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── wave456.vom
+│   ├── t1.vom [44beb6a6f236bb70576bcf8e23bd26758c22f07f1cdda50c99f1365e9cc33203]
+│   ├── t3.vom [2c3a45e7c13d2a933acc443cb77670bdc719c2cb26dd7ec2b1f6192dddeae5cf]
+│   └── wave456.vom [f75889a966d403ea9014bb8fe5d30f23d0e19e2fc2ff15d8f4134e08afeb9932]
 └── 800
-    └── virus.dos.wave.800
+    └── virus.dos.wave.800 [f9b161d7b6b6c944cbedd8d400c98e87adcb39096462e645d414e7ec1d282afc]
 ```

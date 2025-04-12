@@ -3,17 +3,17 @@
 
 ```
 ├── a (shyster)
-│   └── readme.vom
+│   └── readme.vom [24cdbeb66be540ad6dfaabae4e1ba4c1a50f2e2ad2dd6090e770af0125a74161]
 ├── b
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   └── wci0406d.vom
+│   ├── t1.vom [929a5a741ab11320a1114e3e73f4fc0163e6d6d383e183575845c089561edd42]
+│   ├── t1.vxe [b50983598a61e426cefcdac7d92b59010712a7bd1e051cc79e5e29d2866821b4]
+│   ├── t2.vom [a40963610236cde98c27eaf8f7d9c2478d9c3c99049b642ae929f2665488cb5a]
+│   ├── t3.vom [5e697f2929f9ac551345c6bac9bd328e27b9a9a45f187c1a16184654ddacf664]
+│   ├── t3.vxe [a7b63a8c763831ddad0a935a96638b730340d58a8c6c8d7496dbe3ac21501f80]
+│   ├── t4.vom [3ada7197b1a5cae6c5e80b9da15b99c26de4ed5f038673de18b1e4363c69b5f4]
+│   └── wci0406d.vom [3f6e8b4205eaf3293a44ecb63cf7e2d6f92852737666232c39a26683ecf45ee6]
 └── c
-    ├── chkdsk.vxe
-    ├── trace.vxe
-    └── vdark.vom
+    ├── chkdsk.vxe [9120d68de829032d162762dc3987b84c1bed511db89789760e1de268c3f9fc49]
+    ├── trace.vxe [e936ab034f8aa658d997ec7d622139ffbdd255d3b74de85e47e5ea189d272d79]
+    └── vdark.vom [cd72a59edc30dcf500ea8744d0effd0419fe2e52c3ab336901f11e6f26547fc8]
 ```

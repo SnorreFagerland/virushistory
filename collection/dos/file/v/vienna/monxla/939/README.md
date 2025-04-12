@@ -3,23 +3,23 @@
 
 ```
 ├── a
-│   ├── 939.vom
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── monxla-a.vom
-│   ├── monxla.vom
-│   ├── monxla_.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t9.vom
-│   ├── v-monxla.vom
-│   └── viemoa0.vom
+│   ├── 939.vom [6e34f5a28595e8178f36db5623195aaa4f48ca76eb24ab0e5d904fdff700bd6b]
+│   ├── grep.vom [ffe393451b5bd4d8ce96fa52114d9063348fc0148aa0ad80d95b4975cf73f9b8]
+│   ├── keyb.vom [470648c678a0e0e09667d7d9aee7de1779192e3d3210c73904c231b56462e217]
+│   ├── monxla-a.vom [1fcc1edec847bbc0b48d2b55f5e735563e36557f5192c1a6d10379679f4e9ead]
+│   ├── monxla.vom [e122e64bc82eb57426fc1bf2a739c6daebd50435ecc9c4e3bb67e779017bac23]
+│   ├── monxla_.vom [cb744bd57f6495feeb0340e954ef53e3ccfcfa0955fcbd97f0ea3ba5370db4ae]
+│   ├── t1.vom [bf357220d11eef7018ef590a2d7473fb59700b6421bfaec25e403e7564afc856]
+│   ├── t2.vom [c335ee9adcc3313aed5d076b97e58e301b33c8d94dfe158e95093f1b46222c06]
+│   ├── t9.vom [528f659a2aa5a331bd8e883fcde2225de7cfd97639fa7c8efa15fb1cbb8e2575]
+│   ├── v-monxla.vom [cb744bd57f6495feeb0340e954ef53e3ccfcfa0955fcbd97f0ea3ba5370db4ae]
+│   └── viemoa0.vom [4c3941558278a87ae22f421bdae05bf31a1f671d5c16ce632b9b82f79e8cb4a6]
 └── c
-    ├── grep.vom
-    ├── keyb.vom
-    ├── t1.vom
-    ├── t2.vom
-    ├── t9.vom
-    ├── virus.dos.vienna.949
-    └── wci0632v.vom
+    ├── grep.vom [af65c6eee82d2db8e641da93f817c8db1571e348be5eebb87b63b60799f776e6]
+    ├── keyb.vom [8cb48a09dcc3d1df87777c8a4bd987d1041156fd2964a8e107be9ffa45566557]
+    ├── t1.vom [2fe12b7b4da0e682ec8f2f4a234db46f11d928b6a04ed30255b7770fe9c65b1e]
+    ├── t2.vom [892bff76e2da5d1d31fd823275e05a521bf2e3b1b5b60221e0e73f6eca6c1540]
+    ├── t9.vom [95ed29776d57fdf4c109774727f31ac3cb864d3683754c0633b82d9de333e354]
+    ├── virus.dos.vienna.949 [d00f686290126c196434b5483fba332d03630938692d1f28a0d3ccde60bc85c2]
+    └── wci0632v.vom [df7ffeca9e79359ad4efb44e1f68feb09f4cf8bdd131e0e1c27396c254056fc5]
 ```

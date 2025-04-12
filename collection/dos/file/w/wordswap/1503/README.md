@@ -3,19 +3,19 @@
 
 ```
 ├── a
-│   ├── 1-w1503a.vom
-│   ├── 1-w1503a.vxe
-│   ├── 2-w1503a.vom
-│   ├── 2-w1503a.vxe
-│   ├── 3-w1503a.vom
-│   ├── 3-w1503a.vxe
-│   ├── word1500.vom
-│   ├── word1503.vom
-│   ├── word1503.vxe
-│   └── wrd1503k.vxe
+│   ├── 1-w1503a.vom [f52f84ee773eda1759b03632cbc9d72f03ddb706ab87ab3cd7ab9e5ff0ba760f]
+│   ├── 1-w1503a.vxe [f6064688fa04d47dd21722f65d009fae11b159049ee64a700b3bfd945903022c]
+│   ├── 2-w1503a.vom [5b3d9e2eeb8adb1944178ed4188b9059f20a7d327686d5d6f32f5061c0c3fdd7]
+│   ├── 2-w1503a.vxe [02e7a56e49f3a5186ddc343cf25b521b2d3fa634a65b63bdd1684da14070b9f2]
+│   ├── 3-w1503a.vom [e3818fbba5850525a7285e531974f84688136ab54052c5837384081e91fb9561]
+│   ├── 3-w1503a.vxe [0e53b0f4326734897d1a85a931e6306bd3d9a523c7cb15fd736959c0d5f33215]
+│   ├── word1500.vom [d8ab851875c63527c198fd1a4f63de9fa68a94dacbf6c9801293150409972041]
+│   ├── word1503.vom [6ae415095bab836bc6c46c400e9e5d3bb07488facd70c6e24eeab4289234b5c0]
+│   ├── word1503.vxe [366939d811149f49895ab31d3ffed7cc3c5587c3d272cd3518b174c5f76f19f5]
+│   └── wrd1503k.vxe [d2f4b797df78ba030748ea2ede720bb333497081131b689b460caca95142ac22]
 └── b
-    ├── 1503.vom
-    ├── 1503.vxe
-    ├── 1503a.vom
-    └── test.vom
+    ├── 1503.vom [dc3a2c91902d1a45b72bde488f5c5bd7cb618c8c94e110c479db025bd481fba9]
+    ├── 1503.vxe [cc984a8eaf3484b6f44bcb4700a3746740a0e621b0bb0c884ef99f28dd41fae9]
+    ├── 1503a.vom [80df7c3135fb1dc2cdcc2581f6db2833df6dcf6584be671cf5ec3cbc950c2ad5]
+    └── test.vom [3f7be840f8dde7dfcae59e5aa81af1a9c6a3d08b65a7a71f803173e96bf636ed]
 ```

@@ -3,16 +3,16 @@
 
 ```
 ├── a
-│   ├── c-vi1161.vom
-│   ├── drq-1161.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── v-dq1161.vom
-│   └── vienn~63.vom
+│   ├── c-vi1161.vom [ecfce51caf328284c3e94f07fd18441629251c41267fc2a5a6732944aa43292c]
+│   ├── drq-1161.vom [ace192376438fe890f1ff32cce7956c9a8b938af9ed0a828b87843d51fa69a5d]
+│   ├── t1.vom [71d752b74995b721fa3e56fc6d1f713131d9b8e63668a4394211311759bfe5a8]
+│   ├── t10.vom [d3a9a069fd99fcaa855638c01a82bbc4f7b0c9661b4bd0d1d2d6d1b87ad9b772]
+│   ├── t2.vom [adc9c9c81417fe41f594a74124bd1e0ca9758fab23334061225e4801414fd5a5]
+│   ├── t3.vom [c2f9841db3e39b963d2ab0b87edbab0105edc94f41c8a1bc6d8acfb2d7674023]
+│   ├── t4.vom [637588c3c096e084a34674dbfb38812cdfb1057a72c88165e3a270673c9b7fe6]
+│   ├── t5.vom [e9b859948fafbb468863d5533de15088daec6e46e75b4c95241cc246f913d43c]
+│   ├── v-dq1161.vom [e9329e519b70f33fcbc14c65577fb87cd384a008dc011c6477bc85bc4d6f9dee]
+│   └── vienn~63.vom [e9329e519b70f33fcbc14c65577fb87cd384a008dc011c6477bc85bc4d6f9dee]
 └── b
-    └── virus.dos.qumak.1161.b
+    └── virus.dos.qumak.1161.b [c3166be00c294298611ce21c5adc6b3fe76352b053fdf510920cc76cb5caf484]
 ```

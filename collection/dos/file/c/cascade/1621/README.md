@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   ├── casc1621.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── t8.vom
+│   ├── casc1621.vom [b9ee0e0c8b1140eb1ae8923b58ae6aa65ffbd84f6506fb670d2bf0a48dcab6ea]
+│   ├── t1.vom [3f99f62ce6f18a801e66f03152f061226c81566c26dd7a49864af28ac74465d5]
+│   ├── t2.vom [6c63d92d300769b7087ab2f73babb5b8e8df3e0cb7dbb76eca2089986be1468d]
+│   ├── t3.vom [20f50f494be1d74b4905efdf01ad1a99e9a44e066623848c5c1fc7d0e569403c]
+│   ├── t4.vom [76d4ff2a9630f8d21d13904e4caeba418630b96bf4f8c93bac62ce2bdf2e289e]
+│   ├── t5.vom [43c298ecc01a9a45f92be987f1d43702fb0146fec3e5c93a473880bec0b7f24b]
+│   ├── t6.vom [1e5cf466c01f5924240f9d723c5e694af80a240f870979ac2620edb2125c4599]
+│   ├── t7.vom [96da05a598a6fa610a36ac60268365ade2cff5ae0851738b4166af2b93a2616d]
+│   └── t8.vom [9cfb8e39cdcc7c8c70158c0a9881c09a8ebb5d69f352777e25585828c5881024]
 └── b
-    └── Virus.DOS.Cascade.1621
+    └── Virus.DOS.Cascade.1621 [c7273d2eba743215293039f3baaa03b4721223591f33fc8d64101077d5f3b5fd]
 ```

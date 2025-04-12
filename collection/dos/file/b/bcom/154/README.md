@@ -2,7 +2,7 @@
 # Contents of `154`
 
 ```
-├── MOTOX2.vom
+├── MOTOX2.vom [e501de9bd645921c46150c228e6f56732a04a5b5d6406924fb381b8d07a3ade3]
 └── src
-    └── MOTOX.ASM
+    └── MOTOX.ASM [b8e147141c69a931598ed33059c3be5698cbbc2f82c8b2598a4ab77cbba3f988]
 ```

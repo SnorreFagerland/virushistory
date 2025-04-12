@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   ├── 1-w1085a.vom
-│   ├── 1-w1085a.vxe
-│   ├── 2-w1085a.vom
-│   ├── 2-w1085a.vxe
-│   ├── 3-w1085a.vom
-│   ├── 3-w1085a.vxe
-│   ├── word1085.vom
-│   └── wrd1085k.vxe
+│   ├── 1-w1085a.vom [f0bad48a9f13aaa44ab7bc0298d60af997958623755107c5ebfaf2750835de9e]
+│   ├── 1-w1085a.vxe [b5dc15e85dea087e682f5078a2ff98cce2710829dfdc06dc165a71e236dd0f60]
+│   ├── 2-w1085a.vom [a52c1da4e5c751538deaf347fa3d25055060bac95ad077b796b394c968a6e531]
+│   ├── 2-w1085a.vxe [9a9268a31acba386ff296ded486b716d45511f1dc8af9f774af30e9418a9acbd]
+│   ├── 3-w1085a.vom [893b2a5ea33287a05bf5d7effdee66d332f7ffd2797cdb5d0f768e94c14958e0]
+│   ├── 3-w1085a.vxe [a3643d2c8bdcb3511d842328bcd706806b5ed0c2e7e02132e8de953c6dccc6dd]
+│   ├── word1085.vom [00d47bacab1e8ce74be6b459515623c94bd91cedb8b09480db76a22f3cae5a1f]
+│   └── wrd1085k.vxe [303c1ea1e265f196a8c75a590fa082fab1015a523f71beedcc13563592163bbe]
 └── b
-    ├── wor1085b.vxe
-    ├── word1085.vxe
-    ├── ws-1085b.vom
-    ├── ws1085.vom
-    └── ws1085b.vom
+    ├── wor1085b.vxe [85caa22ab966ce6369378c09a8815887403be3b38d141d7c7c12d89b65db966f]
+    ├── word1085.vxe [9f50ae861ff198b86ca80e13e2a3a201b694e49e9ca374f0ab5f8479903204c3]
+    ├── ws-1085b.vom [140dd84c879784a5ca07971bf4a876e7c2e57c5f83185891e3d50d567701f2af]
+    ├── ws1085.vom [cadab8a491cbb7ca6701516033380a8aa3888af1fec32692becb92d47ade73b2]
+    └── ws1085b.vom [1b7cf7d898fb028b472d4ebe7373038f2a219c992a1be1681a163eb725ee9752]
 ```

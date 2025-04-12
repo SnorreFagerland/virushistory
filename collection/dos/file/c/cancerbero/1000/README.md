@@ -3,32 +3,32 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── uns2281-.vom
+│   ├── t1.vom [632f0781c9d5ff466aab3ead955504abf95ac1a22778e5c49c0534f964396012]
+│   ├── t2.vom [6f3fc7b1c9db0aa352ff6164f03b2ebf03f2572e92bf74b2bc4ce6b0cd22df47]
+│   ├── t3.vom [1f5156eef055599b6f8cecbd1050f588ad04b0f8e7f48458b441d7dc83d8eb40]
+│   ├── t4.vom [a3626af2b5157b3e976db41f0b4ae4b0423f809fb764ad3113c6e0fe344f7625]
+│   ├── t5.vom [ff783320ed66902ca8125aa535be55dfb291e7e2fc1d306ba40936667ed516e7]
+│   ├── t7.vom [71fd2d94377acc1e69ac23c3a1107e54aa1f60a76e20ee5761a7fdc7ae76035b]
+│   └── uns2281-.vom [a90894b68100ce3fdd50a0aeae3bfe6d50cc1f9aa2ac831652b8776693a8fbb2]
 ├── b
-│   ├── canc10.vom
-│   ├── canc10.vxe
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   ├── t8.vom
-│   ├── t9.vom
-│   └── wcio1971.vom
+│   ├── canc10.vom [df5cfe535a7815625875a43649dc8e5156359357ec0f94c90cc823b4c71b480b]
+│   ├── canc10.vxe [830374fefc9f515ec281399d928e4bfac7767e03704ab462f3064c7c6627d90c]
+│   ├── t1.vom [9e49a5703f45b9d01ff38f03999082dd02038ec69ff0543660f7158a01ae15d7]
+│   ├── t2.vom [414ec7dbbdb9acd4a6ca31b6979e1ec1a8571873ee43e1c67c501770e9162e97]
+│   ├── t3.vom [45b791deae2f3f5d10090f9aaa06669f52761ecceee9d3d2e8ec10b0f3720087]
+│   ├── t4.vom [d280c78ed14ed8f80a0f1cd7f17b8ea74e6c05a2cf7765abb25919e5db2deef4]
+│   ├── t5.vom [e3629a712f58cb8926700ee32fec735f1f232b8d1d0d361d1f78eadc1f1b44ca]
+│   ├── t6.vom [2eb4644cab0c3d6c9e27a21c088925bfe7205536936286174b2d4e9d6125e35e]
+│   ├── t7.vom [077f3435ca3cdeb3d4e84a3447e4aeca519f3bcc6559c01191eedfc2f2818819]
+│   ├── t8.vom [9e18022da1ae6be776c91d8f219809e9f0f344a270aaeaa09876492be164a393]
+│   ├── t9.vom [8c9853ae6d98328fa81e97fc1d9e2749abe45e485c6e5f644f549443e1f38ce6]
+│   └── wcio1971.vom [ac75ed9b7b1e348de7b66bf236d87363abadfd8458b83346b9b119ebfef4e3f4]
 ├── c
-│   ├── berob.vom
-│   ├── cancer10.vxe
-│   ├── t1.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── berob.vom [5b813cd7dc554614492068f05d9c72698d1a61ae7b00568051ddd522845dc17c]
+│   ├── cancer10.vxe [1093e4ace0f97c0c741733d119d328d246fbff1bfea4e274be2d6796b332f43c]
+│   ├── t1.vom [92cc824497bb90f26dcf85684db2b4ce11040e8a46e99da5c4791fa1be0d2ed0]
+│   ├── t5.vom [2083473ce995b888de27b9c0fc674272b8b39fa0555241d4c44065758d88d7c6]
+│   └── t6.vom [9bc925e6d023d9eed591d17e6c15f0a99363b326bdebcf2305ec913a8f60009c]
 └── d
-    └── Virus.DOS.Birgit.1000.c
+    └── Virus.DOS.Birgit.1000.c [be8f5f0fd66f14180d2d26521cf5c132a5f6098662a6dbc4c502772498f3ed35]
 ```

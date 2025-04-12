@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   ├── 90210.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── wci08021.vom
+│   ├── 90210.vom [e2e45c123944ceef449f7dd9b3ae4762d7b87770582a820ef88e0a0965fff83b]
+│   ├── t1.vom [65ca51744f83bb2e087aef2e68ef948bf54ddc362fa58341652bd95507162a92]
+│   ├── t3.vom [89df5ef8ad5976a04cad0090c5fd508412a1cffc891c392c79744084f52ab179]
+│   ├── t5.vom [e52d785f0b1b64913a086608d2ad3a86e2c5bc70322ede7740d08a2209ea33e6]
+│   ├── t7.vom [7b41918674fe8895716ccae68759451ce8a50105869afac60b2bfe7197406769]
+│   └── wci08021.vom [a26cece98f1b1e5bdaa458960157d7d2e68abaae4e5e21f8ffe379aa1f32d87d]
 ├── b
-│   ├── satan402.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── t7.vom
+│   ├── satan402.vom [e51ee17f76e22f7a75d3d992470b1c2bcba000017c2d12a05b97b6a7c2ea8960]
+│   ├── t1.vom [2fa4f3e98a08d9f166dd97cfcbcf2a06251e979d45db73d95b1baf9be14fe9f5]
+│   ├── t3.vom [7f9bb6575ff68c4eacb80b5a615ab1368f44eb4864b099c76ad0fe288950cb91]
+│   ├── t5.vom [7637df3bad3f7eece017851ad5dbae5ac53e48ba16311fe2e27aadf4d5a7b5ae]
+│   └── t7.vom [61852e69ee56f1e6946654e96b58ce71d9f9589c1f063d75c3344e82db827fa8]
 └── c
-    └── cybertec.vom
+    └── cybertec.vom [dc2f87e52b7eb72d5dd3f890e41435dc93ec56f5399c03bcd52cf657b44d5bb4]
 ```

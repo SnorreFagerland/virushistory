@@ -3,21 +3,21 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t7.vom
-│   ├── v-viperz.vom
-│   ├── viperize.vom
-│   └── viviper.vom
+│   ├── t1.vom [1ecb12f4c7fc8c8bb3188c6dea6207da8266350eaf174311377a41f1fac69590]
+│   ├── t2.vom [ce352dbb45c38b10e642ac8aa04652719f4ce1b1377c3dc2f3b113b4a1fb039f]
+│   ├── t3.vom [e456171dae47fa0796cd40a822e1a6cdd75ef57013a6dfb68e39b943e41b57f7]
+│   ├── t4.vom [d6fa763ba02f67af781eb4e4172fbc72ce027c5e7aa11e8c02bb502db0dc68e4]
+│   ├── t7.vom [3969cfe105a018c1a0d4499eb4249458d108b97e51ca85668d2a77b4b869eb0a]
+│   ├── v-viperz.vom [1682a3ea9fad8c6ca2504074f89a12a80c27d16f1abcbbd11280ba76fe992871]
+│   ├── viperize.vom [c9e9c634dee6ee5716b8cf9c32aacb15bd6ca64bbbd161a39fa57c66afa43345]
+│   └── viviper.vom [7bc2fe7a5154bbe8200a6b68f0a9d6ccff860f23521c64b6e0c746b4f6a19415]
 └── b
-    ├── t1.vom
-    ├── t10.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    └── wci0588v.vom
+    ├── t1.vom [7bd273b926cc31dd2118e09617aa3804b907a95dd77e4acaa9499327db64da9a]
+    ├── t10.vom [7ab790c62c58d1e22396c83c51803483f1257b60f0081629b99ef04ae2148a0d]
+    ├── t2.vom [7b081025a5922c6ea8cbaa3876154a83e27786e88468727195646a1bb993a562]
+    ├── t3.vom [fadc4f753c58a63b8f0f33ceb31d836a8d862d8a5a598620dd392f587b784aea]
+    ├── t4.vom [7eb7f7ce6cd35018c0eb73897bd06a6a0a5aa98fd29a35e70a317f7fdd28f510]
+    ├── t5.vom [cb3bff6240924326e3d7836e9c73eb6af6f8cf40260818bf88c457f21b40ce7a]
+    ├── t6.vom [5ecf65f0f3605a52bbfe344cd443ef6250ce85f45e07215e7cd9b43015b2d725]
+    └── wci0588v.vom [956e850c497c0ca123a2b685ed946ee141fd86a98dda22a24e362f0e4629468a]
 ```

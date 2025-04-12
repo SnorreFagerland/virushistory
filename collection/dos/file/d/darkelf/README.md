@@ -3,58 +3,58 @@
 
 ```
 ├── 1800
-│   ├── 1-de1800.vom
-│   ├── 1-de1800.vxe
-│   ├── 2-de1800.vom
-│   ├── 2-de1800.vxe
-│   ├── 3-de1800.vom
-│   ├── 3-de1800.vxe
-│   ├── 4-de1800.vom
-│   └── Virus.DOS.DarkElf.1800
+│   ├── 1-de1800.vom [f05db5a733c9dda20d99448e3b70be4782ed0ab98ebeb4ad626a8418bcd003e8]
+│   ├── 1-de1800.vxe [fe61c9c04f61faeda75e2459a0ada5d76e4ce2d61ad14dd20c16af2366c6b2c6]
+│   ├── 2-de1800.vom [65f3f3d186d2d1c3ef365087886e95079cd061f76ee579432e3a02d0b454e779]
+│   ├── 2-de1800.vxe [939bd5220b71b52e03ac1b8ced3d3c52737b49fc245ad8562129d0c3946732ac]
+│   ├── 3-de1800.vom [de8e07eb67e7b517c40e9c3e1dd533d0988dbf9514d3d023942516dca8ca3cdf]
+│   ├── 3-de1800.vxe [6029c3c3a3b30eb577066686addd698f563e8afd2532ad78670a870df74ce542]
+│   ├── 4-de1800.vom [430665dc4375d9c2480848f90b017020aaee3fd2c0b44c9b928e0d6664544e26]
+│   └── Virus.DOS.DarkElf.1800 [002d57577035c0f385449dca06db78b95f94303323844567f9f639afc8252544]
 ├── 2000
-│   ├── 1-de2000.vom
-│   ├── 1-de2000.vxe
-│   ├── 2-de2000.vom
-│   ├── 2-de2000.vxe
-│   ├── 3-de2000.vom
-│   ├── 3-de2000.vxe
-│   ├── 4-de2000.vom
-│   └── Virus.DOS.DarkElf.2000
+│   ├── 1-de2000.vom [b89cb121a057319d8a57d65003d0f30487a6fadd1947f2f48186bf83c408eb1a]
+│   ├── 1-de2000.vxe [8af0edcf6a4bd394f5422e6ef0e91d11bf83da7a28c8c4f911d0e47c600f05ff]
+│   ├── 2-de2000.vom [85762d0fbec6fef9f481da090247fac41c574339a78775ac055b199934d01c99]
+│   ├── 2-de2000.vxe [4131cedf1e1a2028251c4e7726f1ea2ce4e4f86f3358d6b81ea88276e39a3e4c]
+│   ├── 3-de2000.vom [352db0b2faa5f28d93aae6e217525f71c7bfed070f9669be24df2c22cbad9403]
+│   ├── 3-de2000.vxe [bbf898ada5cf9d52f67b4549187fb5fc705f49ef39b4796cac86a0661ebae39b]
+│   ├── 4-de2000.vom [770e4a37ba3b0909a302efb78c4fe884a6da0ea414449ce41a53b961fb9884b6]
+│   └── Virus.DOS.DarkElf.2000 [2841c565c22e17c82eb8b0bc86a928148dcd5a144e5598e1f55de98290c3b861]
 ├── 2048
-│   └── Virus.DOS.DarkElf.2048
+│   └── Virus.DOS.DarkElf.2048 [0380ef84b942ba7894da392c50284c9b03d5abb60b826ad9333f030faeba75fa]
 ├── 2200
-│   └── Virus.DOS.DarkElf.2200
+│   └── Virus.DOS.DarkElf.2200 [1849694235aae234c0496cbff18d403eb663676e70296d024d7d30730e6edbc9]
 ├── 2300
-│   ├── 1-sa2300.vom
-│   ├── 1-sa2300.vxe
-│   ├── 2-sa2300.vom
-│   ├── 2-sa2300.vxe
-│   ├── 3-sa2300.vom
-│   ├── 3-sa2300.vxe
-│   ├── 4-sa2300.vom
-│   └── Virus.DOS.DarkElf.2300
+│   ├── 1-sa2300.vom [f6d4947988795260429f08db4650cd9279a36136247cc31065db3ffe2fc03f7a]
+│   ├── 1-sa2300.vxe [b548f5d50d3e50ad2b855e5a03ca9c2ce05a7bcee3ae6a65c08d4616dd72ae0a]
+│   ├── 2-sa2300.vom [677517f61c9ea5d56b5a368cb7c2722754e4dbd84944e0b00e01f886c8732854]
+│   ├── 2-sa2300.vxe [355a48394848023a2b00226126859afdcc02db41fb279a0f3bf5bc2915a3e5ff]
+│   ├── 3-sa2300.vom [ad57fff2e7e8a60bbb6c825f43c481b8f0f9a7370b649a6d18b13893547fe5c4]
+│   ├── 3-sa2300.vxe [abe48e0092b58ef3ba934ae78f00e8c814373c08fa652bb65caeff9c8e649f02]
+│   ├── 4-sa2300.vom [36cac95f1ad2c1d9e1aa0ff8cfe984504230ea40611b4582d44273f095572126]
+│   └── Virus.DOS.DarkElf.2300 [ba44d951b0c260bcc135df3bbb2fa551fe326d16f3f5b619fd89b03c6a7b365e]
 ├── 3692
-│   └── Virus.DOS.DarkElf.3691
+│   └── Virus.DOS.DarkElf.3691 [f4432ef7216de8c3a17963ddedbffcf88e5bc31ee94d322028e480859486752a]
 ├── 3800
-│   ├── Virus.DOS.DarkElf.3800
-│   ├── dar3800.vom
-│   ├── dar3800.vxe
-│   ├── t1.vxe
-│   ├── t2.vom
-│   └── t2.vxe
+│   ├── Virus.DOS.DarkElf.3800 [ac91b7c2b477c6a941cd4186c9d1b106a0f464af71b6989f48714b85f85e90ac]
+│   ├── dar3800.vom [90757c313fb008023e06a68c2e014b505bf63e4a4674e1f2f028e3a09857821f]
+│   ├── dar3800.vxe [3c11fad129edcc9526c415e26e6348352e50d1ec2045d0b3b408f5096d0287e0]
+│   ├── t1.vxe [1822996ca52ab97ba1442e58b967f357ec7192b284a0a0192ad4493f39b4a3d2]
+│   ├── t2.vom [14c1d7817acd9a704aed792f455243c2c90f9a93ff60acb09a66b38144118648]
+│   └── t2.vxe [e41f96540d798443ed87a133b1d42e5dff90d007d51c7dbd00c39f595ff23309]
 ├── 4400
-│   └── Virus.DOS.DarkElf.4400
+│   └── Virus.DOS.DarkElf.4400 [c9aa6e0fc01a021455b505d1cfc1e875ace6145241720749b2606ea9a92d5059]
 └── 4812
-    ├── 1-da4424.vom
-    ├── 1-da4424.vxe
-    ├── 2-da4424.vom
-    ├── 2-da4424.vxe
-    ├── 3-da4424.vom
-    ├── 3-da4424.vxe
-    ├── Virus.DOS.DarkElf.4424
-    ├── dark4424.vom
-    ├── dark4424.vxe
-    ├── t1.vom
-    ├── t1.vxe
-    └── t2.vxe
+    ├── 1-da4424.vom [e7b1ac966832d5af30a5efc8974d88e79251031d0922e81ec86b951091c236e0]
+    ├── 1-da4424.vxe [d5082dfa56f52d38afef4cce44acdea0b00d7a3f7e7b19e7ea2f79127a5117d7]
+    ├── 2-da4424.vom [0442efa3b9f103ff1fb214954f4b858349d58d16a3f07ef9871047ddf892b29d]
+    ├── 2-da4424.vxe [2b8ef0f6b61e41ce8020afea5662d43894204f902ad202d7200b6a61711f892c]
+    ├── 3-da4424.vom [e629f44fc29c5e6d99f25d63875507227764bebc35a3650fe513cb3fb3a2de5a]
+    ├── 3-da4424.vxe [b81d2762caa79c2a3510030f2cff96efe0f7d8c6b6c6815455358be5495bf0a3]
+    ├── Virus.DOS.DarkElf.4424 [16d1d7872f7b8963b9791f2bc8be2518b36225872d8f5b90733127b52fd58ebb]
+    ├── dark4424.vom [1275d2fedd623858afa4a271a97845af89e0127e3eafbfec8c7b7c1b5a3ca17d]
+    ├── dark4424.vxe [c3fbfcde017e6ef21b600f775064236ff9528f973ab931f0b14053040cdfd9a5]
+    ├── t1.vom [b68f3d02d3a8702929c83dafd1dfc7e670c3818c079a9b0bea02014e156794c3]
+    ├── t1.vxe [ca39fb5aff4aa6a47c60f92cd2569191e07f6415c17ac94df61b8a746cd4a150]
+    └── t2.vxe [19eb0aba1f6098116a8ef9ee406ecdb72140ca71cc359b77200827e8befc6d98]
 ```

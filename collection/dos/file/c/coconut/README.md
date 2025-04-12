@@ -3,66 +3,66 @@
 
 ```
 ├── 1323
-│   ├── 00013196.vom
-│   ├── 00013197.vom
-│   ├── 00013200.vom
-│   ├── 00013201.vom
-│   ├── 00013202.vom
-│   ├── 00013203.vom
-│   ├── 00013204.vom
-│   ├── 00013205.vom
-│   └── coco-ow!.vom
+│   ├── 00013196.vom [11382f9441124f9186335fd08c12df4005367102944d3462c6fe7cf9f067bff0]
+│   ├── 00013197.vom [6520792ae2c524e3c0076604229ce96bff08f6ff0c1aaab2027f4fef207f62b2]
+│   ├── 00013200.vom [d00d30cab6d5efefd973a279b423f8a748aae35a1fe004f642c05d70d7f7c861]
+│   ├── 00013201.vom [b68cb1e7de78f7089c5412265e0539701449df4cd09f7f123257413fdfe17796]
+│   ├── 00013202.vom [80ec7488ad85ab832dba6e9ced93aa35bacadf3e5626628abd040a71cfd061f7]
+│   ├── 00013203.vom [8bbef198d39827d69574dc727fd1a8f7cf9b8625237e52a30f8016f7b572c396]
+│   ├── 00013204.vom [331d3dfe91c62baf9561975a01060de8ae2aea190a2e161b1da84831a61c961d]
+│   ├── 00013205.vom [af5738cf94adc882955b21a5e8f29a7304114f12b14fad5f86b4336acd973e82]
+│   └── coco-ow!.vom [8e6c8f24aef1cfdcd6dcdd6290e997181828f3cc1918b57a8aa5cc1903997515]
 ├── 1870
-│   ├── coco-ap!.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t9.vom
+│   ├── coco-ap!.vom [639583db2146f01526b8c656b03ccac71932eea4df857cb370ce0ea2a4d2a6ef]
+│   ├── t1.vom [4ddbd24c530315636615b618453c09c5bfa3c95cceb001f4b5ce9f3ff061ad52]
+│   ├── t2.vom [2adb056e8ed8e24016fec5e5613250e76570c0d0da5ae324c9ceb7328bf92452]
+│   ├── t3.vom [e36f227d7721b3bc20ba92f04fe6ff66ef15ff16044f3abca753a1bf26a87886]
+│   ├── t4.vom [65fefb684fac4384db8a198d505b17cd5d73da2e4a004f186faf51e8d4f852a7]
+│   ├── t5.vom [bc7c44f4a6911eabe034b22c1075d952ddac11f7e4411270c8243e28ff80d47c]
+│   ├── t6.vom [49eb32a2fa2bdf5161ac6f0e29c4f3eae7fb966d7110f6a7a388c0c5d0b3c925]
+│   └── t9.vom [1978a662c2e214546bfafdadc769c8bdad86eed4f83eff428172cdc4764de279]
 ├── 1940
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t9.vom
-│   └── wci02842.vom
+│   ├── grep.vom [72e2f0368787559a337267cc8eb584d68f7e3ad223499100bc62dddb6e1e63e1]
+│   ├── keyb.vom [0dff8d579e6fa512418dd7abcb141d89586eb673c6fb50f4f5b71f8fa0c1e186]
+│   ├── t1.vom [75338bc5a49db04a05c21f53dbb68c22f81251e4fa211b2baa95f117f8b2a593]
+│   ├── t2.vom [b70a7e43740590b19df902aec99c7bbcb26cc40559e136cac74dae5835856e4e]
+│   ├── t3.vom [7dff1d9e31ce362ab3ac08737d3dbb84418b07a874bc66763b28eb0acae784e8]
+│   ├── t4.vom [d2d88e3fd98a667d89fee283ccac386252e3ae98b6dca07ccf29dda5e7bfb694]
+│   ├── t5.vom [b1deae58c88307298952a10417ae3a1e4661a71db896b26a10a64cacbdc585c9]
+│   ├── t6.vom [a6a6ccf7df6f7cd5891da465176d81a80e7828fa16e045721456205d6e260441]
+│   ├── t9.vom [31b4515488182d3e07b71175267812adc53a7b41e5d2cf378762a8e1ba2afa4f]
+│   └── wci02842.vom [eed00aadbc0308bd05322c0dd7484e82f26cc4b3ef856754f0b2e524e8381cbb]
 ├── 2015
-│   ├── debug.vxe
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   └── wci05633.vxe
+│   ├── debug.vxe [645452c4a11acecafe85f45de2167980f61e4213d51b5051f77cd1fd11a18543]
+│   ├── t1.vxe [f5324e9c5e9d243a72a33451a62900b5c302a83acfdf944187cb8bf05a25b84c]
+│   ├── t3.vxe [e9af12eb1f53d690071951fbef0757edb854ab933a99ee31363a9de1c4936f04]
+│   ├── t5.vxe [d94b029250cfc9ebf07c9d0720f84453311930d9e57d8fc6ebf655775b2ea727]
+│   └── wci05633.vxe [fe145e4316ec9b1856501ef699aa19dcc491f3cfcd81cdf4ad827a4ab3d4f328]
 ├── 2030
-│   └── virus.dos.coconut.2030
+│   └── virus.dos.coconut.2030 [ef9ef9dc2bb115454dbd4da4a7ee276ce9511d2f72c35f71d517beb413c1fdf4]
 ├── 2031
-│   └── virus.dos.coconut.2031
+│   └── virus.dos.coconut.2031 [e44922e0a23e91a2ca802ad03cc1876cac8fcddd521b8f5130f696a88c843e52]
 ├── 2071
-│   ├── coco2071.vxe
-│   ├── debug.vxe
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   └── t6.vxe
+│   ├── coco2071.vxe [4d15fd5c38a7fb514a70dbc9514ca8fa5c0f04edf2d0ccdf5ec9f0c060f7f89f]
+│   ├── debug.vxe [e0e68a7db69b3622501f73ba18e09bda7e6306ccb2c4a0e504a7287f119afab2]
+│   ├── t1.vxe [22a4d021d155ebc505519a753d2982b459178694deeb527371750b5d953a70e4]
+│   ├── t3.vxe [3291209ccca2287885723e9b8f47ee7e1d288afdcb3cc3a3e6ad71f627d977b0]
+│   └── t6.vxe [90bf4707259a8432282e677c271e8ea98438494f0934d37791a41ce06079556b]
 ├── 2099
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t6.vxe
-│   ├── trace.vxe
-│   └── wci03344.vxe
+│   ├── t1.vxe [126e1f4ddded0f81a911bf515a379069af9394c2e3e60a8f2825d8c0e7002af1]
+│   ├── t2.vxe [f3f1b6ad9673048e1cfc0afc4faf502060e11b9747ff58b368ff9002b971f523]
+│   ├── t3.vxe [d20c7cb4dba32d0ad1f06b88c20f2c8ca0875a75e38931c22e9ed121370c46d5]
+│   ├── t4.vxe [859273aec0e0138619bf5fdd637cbaae4f3ae8bd7ba387353390872ef667936c]
+│   ├── t6.vxe [bb850437e4047acfaa77dca0618938e57f806a17f09ecdbc17d58031e9125c66]
+│   ├── trace.vxe [648abaa9698d5f4f1613b480edecc42562f9dbf6199f07df39734ef4b0549fdd]
+│   └── wci03344.vxe [9320487e23f0cf8ea91f1853e6766eccf65bf3aaa6099801d632b03e36db2c0b]
 └── 2324
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    ├── t9.vom
-    └── wci00793.vxe
+    ├── t1.vom [13edb47870cde2cc3853dd801913e95c15cf73e4cf7f0cb5c3e14e7215d5f92f]
+    ├── t2.vom [15d608b2f8be02539c629472fb11403b3f598f0b9973dd9a10326af0a3c8d93f]
+    ├── t3.vom [dfa544c7b52b2d016a1c595a3263c5327a7afa6d8fc7818ba95243e0376dc0f4]
+    ├── t4.vom [ca89e514c4ff26e179fdeb12399513a9f44240a5f7be2abffa81da7cc87b9859]
+    ├── t5.vom [ac0ec2db031a921b1a0a3d8e86903f55e6c1d0da1cbf64353bb4a6e1655527e3]
+    ├── t6.vom [d153d109fd466c69f3bf63e98304250722b7bd4e857e8e03558906df5bfd8930]
+    ├── t9.vom [d26b64fa19f70aebea08a695935ab004b0714e533d2430252f17d775f63f8ad8]
+    └── wci00793.vxe [745a9d6909c249e92f5589c8e3188b7edd70260f33bbdc43d5414e5d97345481]
 ```

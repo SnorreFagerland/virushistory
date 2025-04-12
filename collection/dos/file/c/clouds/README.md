@@ -3,26 +3,26 @@
 
 ```
 ├── 588
-│   ├── cloud.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── cloud.vom [982bb593ecc581f5db1626e6d7d7c4fd88e9ea3038fd12fc9e2077129f3d4a7a]
+│   ├── t1.vom [2b77250250b961a2cdc2ed6605af63871a5b69a9a0a10500096576334de546ee]
+│   ├── t2.vom [67069f2be8fdcfcdcc774270b9f211643d5e0e821169cf6a3ce952c472d84e23]
+│   ├── t3.vom [a17a70562508532308d9db844472af49dfef161f4b3238fcc8d85f13044cf21a]
+│   ├── t4.vom [79dd6d47c914258b9ee985905966656a8126885e0e3c8a73ed247040bb94c794]
+│   ├── t5.vom [7eeaa6d559b00a2c8c0747fb8d2aa4d7a0acc1e4a52f1e8edc574c3ee3a5a43d]
+│   ├── t6.vom [0b3ec5742d0475322986c3585363ad2107d638607207348ff12ec0a506e08cd1]
+│   └── t7.vom [ab1173c9a8610d3784a9c82be9ce589d403833607815e4ddb457fa0c4aaefd26]
 ├── 657
-│   ├── clouds2.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── t7.vom
+│   ├── clouds2.vom [8f78e5fe302102f38aefac45fa86a058a1bd340f64103610e2760a0b3ffdee2a]
+│   ├── t1.vom [8a67e0ef8edd831860ac15c73ee08cd2fb4ca1417b93d23a830027e18d28f3e9]
+│   ├── t2.vom [eb2c11d78cb71f317a220b6df8c162ecad5fc8d37d14788517ad0004027747a4]
+│   ├── t3.vom [439daea4d8bd4dcd36823172fd229511c36f1cd18a1d4d23189270ff2009eae3]
+│   ├── t4.vom [7ad5873c7121b0aa0bcb1efbbe09911f8890c70192d42d1bb714e25860cbee6a]
+│   ├── t5.vom [206fd09f41a3c5b67224133e674ebc369593bdbb611c780b523937c56a81ec1b]
+│   ├── t6.vom [cd687d03d586fc1092dca47c6f9adc64c9ee054d9d45761e615e21b5dd63881e]
+│   └── t7.vom [3ede9819a58ab7574a6f39566b3ee14b906e6f43c816273964199d894058e016]
 ├── 705
-│   ├── clouds3.vom
-│   └── wci0205c.vom
+│   ├── clouds3.vom [dd72f63779607904ebbdc43b200163f8102df8dd699b9972b2e3f8f8d02f8062]
+│   └── wci0205c.vom [a1aee57e2648c9cff28d090aecf6ca62263715cee6770a7f35b79e5065a774f2]
 └── 718
-    └── clouds31.vom
+    └── clouds31.vom [984be07cf3313db4c3e73b3914d0a8fdc608586031db6ee7320a1d7a762d48dc]
 ```

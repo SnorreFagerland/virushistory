@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   ├── car1025d.vom
-│   ├── cara.vom
-│   └── virus.dos.cara.1024
+│   ├── car1025d.vom [587d25366829f9099b84ad46d59e8390289ca4b27cb593ba9824895097546c08]
+│   ├── cara.vom [9046346feb92223bb45fea28a25b33bc5059a0b9cb3178935966232979894850]
+│   └── virus.dos.cara.1024 [3f55e9cade0ec6bb62fb8810e347846c258996f992845e4ea1649f0a934ecfb6]
 └── b
-    ├── cara-b.c1
-    ├── cara-b.c2
-    └── cara-b.c4
+    ├── cara-b.c1 [efdf4de8ab9bc9c0c44af9d78fb7e955dd7f103d5ec78e1b2edd799b7e1cb48e]
+    ├── cara-b.c2 [618eb15378319353a3e9f2e2f5f4d779a4077e06d5e078c3ecc9ec9309d7652c]
+    └── cara-b.c4 [7486586251fbac4e552d7fd981839848a74c7668822a187572bc12511eecf3d0]
 ```

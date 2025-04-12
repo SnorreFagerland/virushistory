@@ -3,550 +3,550 @@
 
 ```
 ├── 0146
-│   └── virus.dos.leprosy.146
+│   └── virus.dos.leprosy.146 [5a0e944b99aa217028ce1fa225aef1da3d153e9e76ab0e5ac76f999b9c663abc]
 ├── 0281
-│   └── bugs281.vom
+│   └── bugs281.vom [7f4c720a23626b803ae39635eddafeed4cae4b00e3c2be1a26c63e98dec112a8]
 ├── 0308
-│   └── merci.vom
+│   └── merci.vom [f617bb0f7def25fae78da3f9561cdcc7229bae58a96e3a99d0907783c3e013c3]
 ├── 0321
-│   ├── lep321a.vxe
-│   ├── lepros~4.vxe
-│   └── v4720.vom
+│   ├── lep321a.vxe [6b8121a3cfaee1a3daa681cf33160c79e2b3b6021338b68fa9a2f13404387354]
+│   ├── lepros~4.vxe [3cbdf1ba43bfee036cf28fe8419f3bb3ece9e93f7b894dab2e52b4e260d76251]
+│   └── v4720.vom [558dddf62131010507791bc4f2be970494430a6cdb3f9714f55155d4925efa58]
 ├── 0350
-│   └── v4660.vom
+│   └── v4660.vom [1e50188c6d8a02eaf0547506fc73a1392445edbb88c38938d0c9506bb0d5058b]
 ├── 0370
-│   ├── c-lep370.vom
-│   ├── lep-(d).vom
-│   └── leprosyd.vom
+│   ├── c-lep370.vom [d9a4b10e6170eb00301de630187722d668d6a1f2ef49e099601b4f7f0fee2805]
+│   ├── lep-(d).vom [efa54e095383f2916ca1a78182ec5b46564904fb38669bc02f444a34417d3c72]
+│   └── leprosyd.vom [cb14a1ca277a10a5f3e0d2bc2c437ccbe3b5cfb81c9b27d03df903a1832cdb72]
 ├── 0371
-│   └── 371.vom
+│   └── 371.vom [106aab37064c336acbf61660fcc6104421165f356987a1bd8794ff6fd05c3dd7]
 ├── 0377
-│   ├── bbrains.vom
-│   └── id.txt
+│   ├── bbrains.vom [176bc2b23f9eea230d6d78041294d208ece0c600cd2042d645f8be94561809e5]
+│   └── id.txt [f318a81281ad29fbb422ce1c52531543ed6c4623c4fe7177543d25f109dcd324]
 ├── 0381
 │   ├── a
-│   │   └── L-SEN381.vom
+│   │   └── L-SEN381.vom [1eb16cf1afc1b7fce0052f6557b85b558be70850d364073d53bdf9dcad98f626]
 │   └── b
-│       ├── t1.vxe
-│       ├── t3.vxe
-│       ├── t5.vxe
-│       ├── trace.vxe
-│       ├── virus.dos.trivial.seneca.381
-│       └── wci0103l.vom
+│       ├── t1.vxe [e55c643c703b09f73dee0e6daac17a279d60cf2e64c05d6fdab9a933c64f3527]
+│       ├── t3.vxe [2cf2e8aee295a4dd9c08df0a36cd6a404a4378176913823a3927feaf81c644f5]
+│       ├── t5.vxe [456b4929c6df56b61eceaa94981f9875f241905c4a83705260eee05f32051e8e]
+│       ├── trace.vxe [bad027b816ebd8c3cbc56ca8a56f4ce475b33b02180c7e4d1f85037bf4f87c5f]
+│       ├── virus.dos.trivial.seneca.381 [caa41372072f5c4285db941fc30e2f37af4154b184ff0c5b37a6232758e5e4d8]
+│       └── wci0103l.vom [389f0c151729d917fddaf1a614678be058ffc34e99eb27ef083c35d5bcc41906]
 ├── 0390
-│   └── virus.dos.leprosy.seneca.390
+│   └── virus.dos.leprosy.seneca.390 [5e2397b598edf8fbe0af2d6036cfe302ccac2c9a22d5176ca35d065fefadf17f]
 ├── 0392
 │   ├── a
-│   │   └── L-SEN392.vom
+│   │   └── L-SEN392.vom [ef70c28bdd0e318b4c5e443b95598af75d7dc70fac75c8c27004abd146b1c10e]
 │   └── b
-│       └── virus.dos.leprosy.seneca.392.b
+│       └── virus.dos.leprosy.seneca.392.b [e7b7d47ae65f2d43998d04952538f100b5b5783da2eab1a9dfb23f84cf92c8d0]
 ├── 0469
-│   ├── anar-406.vom
-│   ├── l-an469.vom
-│   └── virus.dos.trivial.anarchy.469
+│   ├── anar-406.vom [5905decd5c763530cba2b5430dbec4270fe9a4488949e8e319442c6e51d5c0a7]
+│   ├── l-an469.vom [92ac8adde2a62c85de320fce7ceaeff140c69597181c8752212aaeb906673999]
+│   └── virus.dos.trivial.anarchy.469 [03da46ffe600b9699c98bbc45212b4bf0dd47e5d7bfe09c7450aad1a7900f44f]
 ├── 0483
-│   └── L-SEN483.vom
+│   └── L-SEN483.vom [5b601d8f57d99e6b45ba327fa8ac17c26327ce303a4136cf44589e1081346c5c]
 ├── 0493
-│   └── L-SEN493.vom
+│   └── L-SEN493.vom [6a103fd23108d4e10222baf06829ff2c269db589f3c3e8b04f711308ceb28c4d]
 ├── 0534
-│   └── sand534.vom
+│   └── sand534.vom [314ec22a8d629db1b5cc7af2f160ce573c366d58d275ede8430ca560bbff3cc3]
 ├── 0551
-│   ├── l-0551.vom
-│   └── shara4.vom
+│   ├── l-0551.vom [1ebb1432155cf00e9d399b59ddcbe53721229b12f2ce0c794e9166a4138c83ad]
+│   └── shara4.vom [6a0036c6fbb14421d5f44af90f0c002b5c0d164eb832c5a5da97e88745d8adc0]
 ├── 0554
 │   ├── a
-│   │   └── L-BB554A.vom
+│   │   └── L-BB554A.vom [e5b21ad5171b4dd7212e2f816cee061c724a1fd52d39dd1e243c4cd0d2699e2a]
 │   ├── b
-│   │   └── 554a.vom
+│   │   └── 554a.vom [b877796e70e5f6b1018d9dbb6e7997b67eca7b50a0fcf0f8eda1e18830aff46c]
 │   ├── c
-│   │   └── L-BB554B.vom
+│   │   └── L-BB554B.vom [50a7574df392c833db7252294991189ab89b357116f4b2f812a653343ffc27c7]
 │   └── unknown
-│       └── virus.dos.leprosy.thething.756
+│       └── virus.dos.leprosy.thething.756 [df38b3d78085ed2d393dff0923a461bd7b38a56c082e341ad8c8d88e26224320]
 ├── 0555
-│   ├── l-aod.vom
-│   └── lep555a.vxe
+│   ├── l-aod.vom [78341db86b461ddbe63b285e16d9480fe72c6bec6cdfb6c4e924c06e161d2fcc]
+│   └── lep555a.vxe [894b85599390296a7a84055ea9ea61139b44aeef8e7af3cbb20a3e449ead4c30]
 ├── 0562
-│   └── L-CRAWLR.vom
+│   └── L-CRAWLR.vom [719d62567f8daa6c3b5ff681de00aa48b6e89a16f22c4073f75f8a84bd1aa5c3]
 ├── 0570
 │   ├── a
-│   │   └── L-BB570.vom
+│   │   └── L-BB570.vom [1aa22bd0ba0e245ae0be5f5989b2a2906dafd58c39a89228d87c88f2461b7470]
 │   └── b
-│       └── L-BS570.vom
+│       └── L-BS570.vom [045cf134c898c33de2f7f56e24aeb375648182b6e5c1d5fef0034afb594ca5af]
 ├── 0571
-│   └── L-BS571.vom
+│   └── L-BS571.vom [153c36b7f528767e451b47df760c24e76ee5544bde5990f96dd3ffacdda3cafb]
 ├── 0572
-│   ├── busted.vxe
-│   ├── virus.dos.leprosy.busted.572
-│   └── wci01992.vom
+│   ├── busted.vxe [cb5b3d1fbb5b8a8957195ae5db6ae255bc71f04cacf3c6a84f15934ab5521990]
+│   ├── virus.dos.leprosy.busted.572 [1831c7bfe83da621e0422c09cdb88979a12f2d351aa247dd0607f155cbb2e805]
+│   └── wci01992.vom [34d0e0d0942ff1ef7bb69a703bcefbcf8bc16303cbe3c3195d57ec3155a01c40]
 ├── 0573
-│   ├── 573.vom
-│   └── sandra5.vom
+│   ├── 573.vom [8eeacca443d1c8b91ee5766f9bb4b0b9b27c2c76c30f6a172d189436bcf97bb3]
+│   └── sandra5.vom [0caa4f373968f4fc04eb2f60cf9e4b504cfa2fe9143aae3209c87abbca14db4d]
 ├── 0579
-│   └── virus.dos.leprosy.sandra.579
+│   └── virus.dos.leprosy.sandra.579 [78ce6865ff7f7b19c4963572210bfeb5b3a2209094b08a0a683e397edd9b1510]
 ├── 0591
 │   ├── a
-│   │   ├── leprosyg.vom
-│   │   ├── lepros~6.vxe
-│   │   ├── plague.vom
-│   │   ├── plaguez.vom
-│   │   └── plaque-a.vom
+│   │   ├── leprosyg.vom [caa0787432619f4ac71e020f4841745691d48227f44b95c2733bcb36715e8113]
+│   │   ├── lepros~6.vxe [9a3a8983a08565e90374ff2002450846abbd0a477bcf13e1849260f1285d0312]
+│   │   ├── plague.vom [3150ad78b5bbeec0e30e472690b2fd61426c5e47dd367f3810858ce024553732]
+│   │   ├── plaguez.vom [6f78eb575830897bc5ad209f0972276c6db69efcf015105582423908cc93ec34]
+│   │   └── plaque-a.vom [51a13b77b9bd47b3ca71c6d651f50f679ed41b0121cdc5a6b4efb1dc26253289]
 │   ├── b
-│   │   └── lep-plag.vom
+│   │   └── lep-plag.vom [bf30b4e88883ce8453f6049084b388b0a708ac5f1c4558b7bf63f98ba9dcb4ad]
 │   └── c
-│       └── plagbdrp.vom
+│       └── plagbdrp.vom [4998c8eeac480dfa22215e655aad88cabfc7d3b7080f8431d141489760d9cd6e]
 ├── 0596
-│   └── L-SCRIBB.vom
+│   └── L-SCRIBB.vom [5db8a1d4eba4742b6f4c004d04a47721c17ebfb002442d8872de8c759d2c83e2]
 ├── 0622
-│   └── testz.vom
+│   └── testz.vom [f08bef655b8902af64f8edce7c0e3cf976e93357a65d899c881897ca36001715]
 ├── 0625
 │   ├── a
-│   │   └── clap.vom
+│   │   └── clap.vom [0a10ce98ca308286c38f416c071a9bba6628f34151ce360ed8e1386b627b308d]
 │   ├── b
-│   │   └── clar.vom
+│   │   └── clar.vom [84a88a4ca191a97bdbab8481a6aed6918c8d5408d080ca979b95d1b355654aa4]
 │   ├── c
-│   │   └── virus.dos.leprosy.error.625.b
+│   │   └── virus.dos.leprosy.error.625.b [2065c3054213e62fd6e7b11ed6faa0ef1b36c67c1e01d2473eb519d6eb7faa9e]
 │   ├── d
-│   │   └── leprosy_.vom
+│   │   └── leprosy_.vom [46b034288477402439a46a2a1a83170fa458aac859b1b9602c8b8903afb0223b]
 │   ├── e
-│   │   ├── c-wake_a.vom
-│   │   ├── lep-625.vom
-│   │   └── virus.dos.leprosy.625
+│   │   ├── c-wake_a.vom [38e67c21e87b5169f7dec732505ee7f2b7916c272df7ec6de75afc88e8ee2057]
+│   │   ├── lep-625.vom [df1c364e5115ab7197f01ff069433351eb833b68d0982d29ca55418ff0ebaeaf]
+│   │   └── virus.dos.leprosy.625 [32789afaaefde534b56d9cd7f8215e929911d1ea9a1f39279d82a2e8e1a982c9]
 │   └── f
-│       ├── id.txt
-│       └── virus.dos.leprosy.625.b
+│       ├── id.txt [910be5734d19fc6cb53d480d926689766cee8d49d03bd2164af2c5ebe5eec046]
+│       └── virus.dos.leprosy.625.b [5dfa0a7eaf4cd5ad44f60e8c19ef6ac27bede7c6e288f4d2fa8297fb8bc5dbc1]
 ├── 0640
-│   ├── leprosye.vom
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   └── t4.vxe
+│   ├── leprosye.vom [84eb1250488eee47e0fd740373121c29ce7f776d3a14faa6ff589566a5d1790d]
+│   ├── t1.vxe [54565d3c775e02161a04ed4ab16531caa96dd3a709e63d97e6cbbe4865a49eb8]
+│   ├── t2.vxe [72787b7e062064854abe27ce194dee0317de92bcf594d1793ab8976a92044373]
+│   ├── t3.vxe [429f71c2b58d7b1d52923927140f55f06d1018f5a5d9a89e92378c56d56627b1]
+│   └── t4.vxe [57142c3f7eb8d278f3c2da5efb6e111425f67ab7cbbe9bd99df65410c005982a]
 ├── 0647
-│   └── virus.dos.leprosy.647
+│   └── virus.dos.leprosy.647 [027aa2259268b4b0ec54d7e50cb87c7703383af696cfbdaa8e33b3c2a7a5ac9a]
 ├── 0651
-│   └── virus.dos.leprosy.httm.651
+│   └── virus.dos.leprosy.httm.651 [a50b6c90fc18755c6310d4fbb06b88988e98f3b3ed3e41ba662270dcc21050d2]
 ├── 0654
-│   └── L-CLINTN.vom
+│   └── L-CLINTN.vom [85f4a247306e3aa12ac1ab15cf32c2bd0f503642e428d58ff477edf134d485ed]
 ├── 0664
 │   ├── a
-│   │   ├── l-0664a.vom
-│   │   ├── lep664a2.vxe
-│   │   ├── rapingb.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   └── t4.vxe
+│   │   ├── l-0664a.vom [a96dd78a7ddbade5a26972b0166e0a37c0d7ed32db25a56a7c0c41ee4e7485fa]
+│   │   ├── lep664a2.vxe [f6c2ed0af0d4ff3e940e20128c4848d3f7482b14a9fdd9a07bce333355403d1b]
+│   │   ├── rapingb.vom [e2ae66441c73a18489c8a11947a25b8e191cc6541d314b74d3e729dbaf2b0264]
+│   │   ├── t1.vom [568e321f934f2930ec1740532149da1fc805127483b7f4f1e73b4c4f9925d9f8]
+│   │   ├── t1.vxe [ca05ecad1d1c6aed89b5ebf02cf9fdd4f70637be89bfd60bad32cd7d8514e75c]
+│   │   ├── t10.vom [ead7c797777d621e23cb7c1d39ef380ce641181bda3b746afde869961e67c484]
+│   │   ├── t2.vom [2d212d9b553de183b968a7d9f5f92f2489ef6a2d85214e587e61c4fba319ef49]
+│   │   ├── t2.vxe [029cadca728cca50591533b08c1ce16de1d3a5a60c10b2e527a13687ab23b7f8]
+│   │   ├── t3.vom [8068cfe220515e0c0bb2f8686df40220630b7b303e032679125a2c2e65dc3ad8]
+│   │   ├── t3.vxe [fe076f9e35b1b25aa7933f1dea39de60fdfad775aa3f13599c6f68595880a89e]
+│   │   └── t4.vxe [d130ef5baf8d358b6a5fbf5f577ba6c8151f8a23b6d175e2068de393916b6038]
 │   ├── b
-│   │   ├── misery.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   └── t4.vxe
+│   │   ├── misery.vom [9061e09dcd970dc0b48cbd02e2aef9507e9a85356be980da56e8c3dcbfeb8fbe]
+│   │   ├── t1.vxe [83c54be94353435e729adc01f543e8f2c97262af9d6b76d19c181384fffe0697]
+│   │   ├── t2.vxe [b613dd70041ff5f7c057d2ad9dd6b5fc10f7b2abbf9379ba139c91783b92ee54]
+│   │   ├── t3.vxe [782b6157b2846a0f3bf55fc5763d21c24afab523562fdc3a93306dad4001b983]
+│   │   └── t4.vxe [e13a16313ae01bd7af392754b55ea3a3488916ee90387bfaf82540aff2a54330]
 │   ├── c
-│   │   ├── rapbetr.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   └── t4.vxe
+│   │   ├── rapbetr.vom [d3e3c9c587cc932ab2a1c92c7e4b923f215745a05acf16b6159634dd6b38989d]
+│   │   ├── t1.vxe [772d2ba62956137240f44d5727d689c6518026fe2a9e9162c217cfbf990c6d1b]
+│   │   ├── t2.vxe [90dbd0717f42fd86b719f58e9106b0b20b8c9e1821595eb0e1a8393a8a24bcd8]
+│   │   ├── t3.vxe [0b6649337d1c11c30eb0d682108d4de28d3251df6429265d4f06d87a5858b85e]
+│   │   └── t4.vxe [bec44b027b55f54b5021d8a7c1dc24d48dd2ac6c280b87dd1db46d2eb70ff8cc]
 │   ├── d
-│   │   ├── l-0664b.vom
-│   │   └── lep664b1.vxe
+│   │   ├── l-0664b.vom [49dcbadfc4174990c6368ec164886941f61df3e3992091eb42f98a995f50ec09]
+│   │   └── lep664b1.vxe [8650826ba2902f702b878aa2c651538b45303f8a8a94667be38337b8248edeab]
 │   └── e
-│       ├── rapeing.vom
-│       ├── t1.vxe
-│       ├── t2.vxe
-│       ├── t3.vxe
-│       └── t4.vxe
+│       ├── rapeing.vom [6bcb03d97200f0b7f1a79f3ef5ac9f140cfe41bede9b166c250a36acf54e3d33]
+│       ├── t1.vxe [657efddc5fea2d3f0f402261ba29589033bde48f3425f00c3d13bfc8de32319c]
+│       ├── t2.vxe [85b837feb9d8f38f197bcd09097fa4ca80d5b5b7feee33efc209a027fc63a238]
+│       ├── t3.vxe [d076d4f8134ea228268f5d11d27ee8d02957eff3bfbe93bb6029aaa1414ecd6c]
+│       └── t4.vxe [6d6bcb831c1ca1684422cfc1435973f1cd2b8c3eae88469ed7294649e6e266ae]
 ├── 0666
 │   ├── a
-│   │   ├── lep-a.vxe
-│   │   ├── lep_rmit.vom
-│   │   ├── leprosy.vom
-│   │   └── v4680.vom
+│   │   ├── lep-a.vxe [bcc16af0b617b838c10be8d4826bbdb05770f5b856cd16a8cb79d810bfcad963]
+│   │   ├── lep_rmit.vom [e5e247a845f1b0bc390069f83a83e49226d52278fe2635e6290411850fb6b5a1]
+│   │   ├── leprosy.vom [0d7ea5d96b1a0114244be73bc33e124ff90435b0fe4fd7f93beaecfbfc842767]
+│   │   └── v4680.vom [08fa7126420dba686d3c2e8128350806a94b70ce0fe45b18f4d4ac48daf4057d]
 │   ├── aa
-│   │   └── virus.dos.leprosy.666.r
+│   │   └── virus.dos.leprosy.666.r [1153cc544e1aed61c4afaa4c7390efd062ddba0e55dfdacfcac6fd9177247806]
 │   ├── ab
-│   │   ├── lep5.vom
-│   │   └── leprosyr.vom
+│   │   ├── lep5.vom [d443a5cb13d0bceb32e7f4714dff1729d348f02bc3ea629acdeb3b18d5bedb53]
+│   │   └── leprosyr.vom [fc7d5e18dea1145f3bc3be80d162daf67e6ccc9dbadbd70515b7a1182af88c9f]
 │   ├── ac
-│   │   ├── ira-10.vom
-│   │   ├── ira10.vom
-│   │   ├── lep-666p.vom
-│   │   ├── lep-666p.vxe
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   ├── t4.vxe
-│   │   ├── t6.vxe
-│   │   ├── t7.vom
-│   │   ├── t7.vxe
-│   │   ├── t8.vxe
-│   │   ├── tf.vom
-│   │   └── tf.vxe
+│   │   ├── ira-10.vom [5087050e7def96a5705567fede5f719885bea89c976a4ae2d9ef41c883f8fdd5]
+│   │   ├── ira10.vom [9effc77dfb04e0026098984bb47b5c80a90fef93c3b24c2a754e3063ee3ad9aa]
+│   │   ├── lep-666p.vom [58962a3d6ef4db1397845a6ace481dc30584ec010df10566f9f02caa8b592be9]
+│   │   ├── lep-666p.vxe [7e32b2046a9412128930de3fa54a0fa667a37a28e16d1018e7264a5855904afd]
+│   │   ├── t1.vxe [079e7511aea9372a08485d82775e5608b61bd79afe1d2df13ceab6e4a6189c6f]
+│   │   ├── t2.vxe [e82dc6b58f3924b4e812061288ebdf39fb628953cc6c11d02989cc7044880f34]
+│   │   ├── t3.vxe [1450206f06994a419ee62495be49bea01b6a3047c833f6314db580af00ab70cc]
+│   │   ├── t4.vxe [44837de69050f65bae712b7e59066ee6b712512f32bc51f043d90eedc090a31d]
+│   │   ├── t6.vxe [aae3d032c77e4d8a4854b45a827af94b1ca734b205cc4045a684b26a638ad767]
+│   │   ├── t7.vom [bec843c147c0c46b335e42dada5fa68625b2855c42af1d11b0bf839404b3f932]
+│   │   ├── t7.vxe [f5e90b43c8d92ae8e3ea9fe320c4480a8d458d1d8f43e9693ad138bcad836601]
+│   │   ├── t8.vxe [04d1605b9a88efd5709dbb631db7446d1aac21afe9392f922963d0dde1dfad9c]
+│   │   ├── tf.vom [135618da62f595737c2e35715218c016e64416639d0006a97faaef37ed77c19e]
+│   │   └── tf.vxe [8b530e783d555ce297955ebed149ad2267be8042049ec46fdb9871bb42dec558]
 │   ├── ad
-│   │   └── leprosy_.vom
+│   │   └── leprosy_.vom [68eddbe31727b74976aae36c05f9f281665a93894cc953dcc1143f00be478b81]
 │   ├── ae
-│   │   └── leprosy_.vom
+│   │   └── leprosy_.vom [b1d99f420470465b517f950dbe6556c06774489aa3cae322eac27c94ec809367]
 │   ├── af
-│   │   ├── leprosy_-001.vom
-│   │   └── leprosy_.vom
+│   │   ├── leprosy_-001.vom [605c37d0d34cbbba5eebadd2275127fa480e1319c718e2c9a870c5053b2d3b89]
+│   │   └── leprosy_.vom [3243d13ef8b5ffefc7a79560773c424d987936ad1701b9949abf2540473991bb]
 │   ├── ag
-│   │   └── virus.dos.leprosy.666.u
+│   │   └── virus.dos.leprosy.666.u [beb7e850ea3737ef87b3032dbd91883a8d1be9068232b06eb62b9a2eb467e898]
 │   ├── ah
-│   │   └── virus.dos.leprosy.666.v
+│   │   └── virus.dos.leprosy.666.v [ee855037cc555523bc12f3768313219ade38171ef52a4c53e1a42e872952d3be]
 │   ├── ai
-│   │   └── virus.dos.leprosy.666.w
+│   │   └── virus.dos.leprosy.666.w [144c5eee87a46d5c85dc5ea3b5b82c7e484992b7648c8a96d53b17177e9e51d2]
 │   ├── aj
-│   │   └── virus.dos.leprosy.666.x
+│   │   └── virus.dos.leprosy.666.x [7fcd55efbeeb24b519c1430e4c62813c200aec35337d6aa33133af134d6463ca]
 │   ├── b
-│   │   ├── !1395.vom
-│   │   ├── !467.vom
-│   │   ├── antipas.vxe
-│   │   ├── felcher.vxe
-│   │   ├── foolgold.vxe
-│   │   ├── jinky.vxe
-│   │   ├── l-vipera.vom
-│   │   ├── leprosyb.vom
-│   │   ├── lookylu.vxe
-│   │   ├── schizo.vxe
-│   │   └── v468.vxe
+│   │   ├── !1395.vom [ba1dab7cce52e9568816f55351171c2958cd89d0b15c074f6a970065bd7d5429]
+│   │   ├── !467.vom [c4fd54844b4664c49ca8212d477684ea336e9b1bfa28da35e865d0151091e6ba]
+│   │   ├── antipas.vxe [7e3051f67a3da1bbb865749e987ed983f78ffdd83882091da5cbee0e9c0d952e]
+│   │   ├── felcher.vxe [c5aa26327a8eda1a786740b5a714235cbc8ad3a228d91ef818d8256acaef2e88]
+│   │   ├── foolgold.vxe [8de461e4577e6fb7629989cd1767b66aab6e2479ae67cdac777c798410917ade]
+│   │   ├── jinky.vxe [baa0b77a0a344282e3410cb27f87e4dfff43570232f820cf86d91ff73fbc85aa]
+│   │   ├── l-vipera.vom [7b33cf1fb26d3ccb964cc61c359db76504794b56755d954b32c1df4993dacae8]
+│   │   ├── leprosyb.vom [cd34e1e8d167ab9626ceb948962ca5e9dd7662ee6ae97a7a313e2418c4cc9acb]
+│   │   ├── lookylu.vxe [b2774cbb6c76ac32d401c510246f37dbf3fbdbc78ac8d3706db1dece8912b727]
+│   │   ├── schizo.vxe [bd2300a392bd02400ff10bd6970e92f325a441fba5303bd152841e0e6636f155]
+│   │   └── v468.vxe [d59e7f46385e14ceb901b0129c18725f606e9ae817aca0d66df13dbbd7f251cf]
 │   ├── c
-│   │   ├── 666-n.vom
-│   │   ├── m1.vxe
-│   │   ├── m2.vxe
-│   │   ├── m3.vxe
-│   │   ├── m4.vxe
-│   │   ├── newvar.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   └── t4.vxe
+│   │   ├── 666-n.vom [357d09265b4dae49fde55abdc126840713d28712782a4bffc2fc80caecd734e8]
+│   │   ├── m1.vxe [486f8e5a9dcc00676227717a16af3593f68a7d93d81636afea40abb5a0e26594]
+│   │   ├── m2.vxe [d5faaee56763e0e11af09d745302e20a9489e238dded67a6b24b12de556ed07d]
+│   │   ├── m3.vxe [706af81cbcb01234ddc910b7a40fe76d1ad794d1568ff85fa31acf3968905e5f]
+│   │   ├── m4.vxe [f4c0a57c572d7a5116142697525023ef6793c06e7aa297044bf62a7174f3ccd2]
+│   │   ├── newvar.vom [bd290a0d6c125f99e48aee29d46c0ce490088d83e4fdb177958a07450f3bde86]
+│   │   ├── t1.vxe [546544f08f2a50e4d7f9bb911342da0ba73dd6815e959ba7feebd494dd2d3802]
+│   │   ├── t2.vxe [6aa5429fe8072614d334d6c68fc24a9947ad4a6ff1e71cd906f8655dbc56c4a3]
+│   │   ├── t3.vxe [c8e0889b5f1339bd2a14c464054c614c982d7de49bd2bc8c7bf1a7e7a101823c]
+│   │   └── t4.vxe [f8e163b16c9aad708c4be90297d98d14759cd231ba8aa898e403b96a39bd7530]
 │   ├── d
-│   │   └── leprosg.vom
+│   │   └── leprosg.vom [ad5c6a87244adfa25ead16c0376b5ae5f416c0841ac5b731d158e42b0254a09f]
 │   ├── e
-│   │   ├── ira-103.vom
-│   │   └── ira-103a.vom
+│   │   ├── ira-103.vom [a4ad8e0330919b3a43f5d2f70ea66690119f71d3f8b63c18df8534d690c97381]
+│   │   └── ira-103a.vom [fc0a0eb9e6a03b323f8d105d5bacc638599a1836b5d3a7cf2538fed3710314a5]
 │   ├── f
-│   │   ├── lep-(f).vom
-│   │   └── lep-f.vxe
+│   │   ├── lep-(f).vom [0f7ea87ece97fb255a1b5b241348695aefa1c2a12686a7067053783941d10a17]
+│   │   └── lep-f.vxe [56e665d6f38cec383ac52eb5e4571253b13f3d188a67cd901d50c401eef423b0]
 │   ├── g
-│   │   ├── leprosyc.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   └── t4.vxe
+│   │   ├── leprosyc.vom [f5c9153c70b292978f08de1027d975dd43a09bce6a286e0b66638d4063b73e78]
+│   │   ├── t1.vxe [0c2e634dcb09fcba6d98452db8a5be01ef1cbc8d777c0a62f9c643630f98c4a4]
+│   │   ├── t2.vxe [e3da6ccb8dbb17be5da106e27d86feeaa196bcfb4b480a3ed2b9f779a1b4bcb4]
+│   │   ├── t3.vxe [bd0d1c915b974d29929b93483576600f10320d5264c0ab745ae87e90466e54e6]
+│   │   └── t4.vxe [cedd5c9197cfef55d255ba8643525b0a6f809ab86661d149d2788ecdfc5c307b]
 │   ├── h
-│   │   ├── lep666h0.vxe
-│   │   ├── lepro1.vom
-│   │   ├── t1.vxe
-│   │   └── t2.vxe
+│   │   ├── lep666h0.vxe [86d2b4824c36d219c26d942f5ec8d819e55bc7986b9fe99b5060cb75b31ef759]
+│   │   ├── lepro1.vom [ca4ef57dd73e38f18f3709004d86e8f6897c2ff25be0ce58d1495e8f7ca04e86]
+│   │   ├── t1.vxe [bb681301d4668c798bf66f51916a7c361beebc57eadd2fc83c6b04d406e05c83]
+│   │   └── t2.vxe [482793700f9bdceb9761d5b214785b8c5c7028aed57a6a877795ac9f4daabd56]
 │   ├── i
-│   │   ├── likeit.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   └── t4.vxe
+│   │   ├── likeit.vom [ac078800cbcb32c7db465a858d0ac48e52b13b986ecd112a99ee336f1b7487e6]
+│   │   ├── t1.vxe [01ab7a08a675b5d9387fb26776df4d396d74d212b1c79505ae2fe53403f4e509]
+│   │   ├── t2.vxe [884a5c32a916fb788409eceba388855906a4c80a8de7cbe6e5168a46ae182f2c]
+│   │   ├── t3.vxe [0e44574482bb36b8fae3f12cabd5c16f8c52b3b232770751b3bec6eb6a513612]
+│   │   └── t4.vxe [8d90cf79be984e46b5ba1c6433120572c0a845c4dbe4cffbb64c3dc5387e9d04]
 │   ├── j
-│   │   ├── c-le666j.vom
-│   │   ├── l-0666j.vom
-│   │   └── lep666j0.vxe
+│   │   ├── c-le666j.vom [abc8dfc639a7ebf1e1848d1d0f2eaf3612841ab3d76d72992f1db7580b89afd7]
+│   │   ├── l-0666j.vom [406726d2186f3885639ed3f3d74695975e0e90857736ca02366544f69de9bc15]
+│   │   └── lep666j0.vxe [63f08dbd4c36231d8c496cfcbdd0be494d6f2df0ed3d382612e3b5a7f8d93fac]
 │   ├── k
-│   │   ├── c-le666k.vom
-│   │   ├── lep666k0.vxe
-│   │   └── leprosye.vom
+│   │   ├── c-le666k.vom [baffafcc86607181174bd06a9d405dcd2b8676c370f0a9b81723be530affcc47]
+│   │   ├── lep666k0.vxe [b0f0aaa9b3c4973a88a231abaadfb9dbede3197bfe9f6670a17b02eb99815dc1]
+│   │   └── leprosye.vom [ecef14bd53319d711171c509d1bf3c706bab1e82671ddc1f6145e6bfb888dd87]
 │   ├── l
-│   │   ├── condom.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   └── t4.vxe
+│   │   ├── condom.vom [a17dc8a0868960308d091c92df5e176a67d1732d912aa74317118a15001cb23b]
+│   │   ├── t1.vxe [27ad24754f4d0d1db6ff682022a6db331362ce5743292ccd69d3943e8cf75e48]
+│   │   ├── t2.vxe [c152a13b61a995b8a7951eb787f8985d1c795ccb296e8ca29d0ed316378c1fc7]
+│   │   ├── t3.vxe [121755448fedc1a1544031880e51d836ae43ae513939e80ddc69c48b72c10f80]
+│   │   └── t4.vxe [07659a0d6cc943eee1cd529d16cd7e13a44d834d3ef7801f416cc89faf38d56b]
 │   ├── m
-│   │   ├── c-le666m.vom
-│   │   ├── l-0666m.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   └── t4.vxe
+│   │   ├── c-le666m.vom [10b4376757be0182539619f455b0d7a4e5da4c8be56941816164109466b07dc3]
+│   │   ├── l-0666m.vom [3379e4e76f9e372fdd954f381c5e97034afdd023e1ac7ce9e6d7032e618fe997]
+│   │   ├── t1.vxe [ce188dfd9f9f31569e9436bafba0dc5b65b01bfcd3229260aabc1ee9602c22cd]
+│   │   ├── t2.vxe [f76039e543ed2eb2f882d59b9500b57f1b578d7431f3c43c4e6301e1e7769a28]
+│   │   ├── t3.vxe [1c39ac98b974bdbd5197a708f201693c20a9de37192a8cbb6e09bfa554ae5e52]
+│   │   └── t4.vxe [a10e314da34bc38e8758186f5399c2bbf04f5befa574c24a061d5fbf5c146510]
 │   ├── n
-│   │   ├── c-le666n.vom
-│   │   ├── lep-666n.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   └── t4.vxe
+│   │   ├── c-le666n.vom [780af676b77bb6dbc7586f26d84a0ef16f2c6fbcdaf95b1ef8cd48a0f1895d01]
+│   │   ├── lep-666n.vom [0728d9a2057c77ad867c82af3c3a82146500be0c8bcee46710604ffc644023bc]
+│   │   ├── t1.vxe [f978e8b059589b21cf0811b1d81e3f38c320447db2cb07055419d955d6a448c1]
+│   │   ├── t2.vxe [dc2c34b8040fe89617a96d782d2aebca2ee7f8cb4c3ebbcb6b92015be9db7b01]
+│   │   ├── t3.vxe [9b8b26e9881df15e1860eda34729cdfce6a1d0508a590520cb7e54844b501c71]
+│   │   └── t4.vxe [4790b3b75b859927e24838ddafe6fb56e7af16d2827bdbc4017315028f0733c0]
 │   ├── o
-│   │   ├── lepro-b2.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   └── t4.vxe
+│   │   ├── lepro-b2.vom [1f834e4cddef3c03d26e85d721d9ee34b51785b1c12aa904eda9d32badbf24dc]
+│   │   ├── t1.vxe [e675b4e536d38b794db9a18f468994ff1ba42ddb40bccf04314cc5725b956d9e]
+│   │   ├── t2.vxe [e16232acd99898768d7521d1e2f653056cf3f547a5938467bcb5a96957256691]
+│   │   ├── t3.vxe [104ef5ef49f0f3c913b859dab9178064811ad21cb3a6c483f06040b044c8b44e]
+│   │   └── t4.vxe [b20c48b56305d039db299d37c86dd16e480754245837907fbcef14c59af7fe35]
 │   ├── p
-│   │   ├── lep666p0.vxe
-│   │   ├── lepros~8.vxe
-│   │   └── wigger.vom
+│   │   ├── lep666p0.vxe [576faacfdb839a51d6513a790dd4feee32bd0cc1b9dec572123d6bc4ccb48556]
+│   │   ├── lepros~8.vxe [c9f1d8dc4ac7f065e6be7b8c240275ed7125f933f999246180eda086eb856eae]
+│   │   └── wigger.vom [3984d190e4264054618ee45689718487036eb3f0b97a39223e3a851ec5258b84]
 │   ├── q
-│   │   ├── 1f8b20a1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   └── t4.vxe
+│   │   ├── 1f8b20a1.vom [28484dba0f1eb9e97d739fa56c53773327040814aba16f6953f74e9b36841fca]
+│   │   ├── t1.vxe [a5414ee789fd1914ea25ac904f82fa3abd5b130d19b0cc9e55351672aa83d994]
+│   │   ├── t2.vxe [58f2ce61fbbc745d8820d0828a58793c2a0183d5208b24989b0cf2a0358962a0]
+│   │   ├── t3.vxe [e8dcf2f4fe651a2f3de80ab737aac134d06c8bc79093e913deb41130b83f956e]
+│   │   └── t4.vxe [c3df8d68ff7d6cd53f68053fc92936a7559ddc45f53dc5f7f6940e2e9fc3b297]
 │   ├── r
-│   │   ├── sand606.vom
-│   │   ├── t1.vxe
-│   │   └── t2.vxe
+│   │   ├── sand606.vom [1f6626a0f6ec22532375dc011c149c4b5695625516a2497b243f271cb622fe47]
+│   │   ├── t1.vxe [659971bf3c85d7ad135157222e923b8497be80548accd4209d9b51771c27dfdb]
+│   │   └── t2.vxe [aa091e631235fd2d0f3c13f3e872cb7c100c93540a66c6125bcf504b13f9893e]
 │   ├── s
-│   │   ├── c-le666s.vom
-│   │   ├── leprsy-b.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   ├── t4.vxe
-│   │   └── wci08101.vom
+│   │   ├── c-le666s.vom [c47f6c97444ae3203a6774825ff9fae783d84d307048514c8f0809329cbd7282]
+│   │   ├── leprsy-b.vom [1b1e24179e49aad9e42d764dfcb9cf92e72d5f7d1ab792100c22287df7f39281]
+│   │   ├── t1.vxe [f2f31b3fd8522ad934e28ea2a936ef6bd046919a2d0d753146d2c2cf89b25045]
+│   │   ├── t2.vxe [ffe4f4b5776d1bb941d2e94e771cb4ca1471bedbbce3159df4484f8d4905a141]
+│   │   ├── t3.vxe [d005befe1f493daa0d38e0467d0027a52366159eb9ae2ed1b67ff6c436c70d77]
+│   │   ├── t4.vxe [d6a2f51baf91ad38efa22de20649446ac219594aca4781b3d144562fe3bcfbda]
+│   │   └── wci08101.vom [6fa4224ba9286239cede2bd3ed0ffaa574e91b713c1c4a85ae23e4527367c4d4]
 │   ├── t
-│   │   ├── nite-vir.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   └── t4.vxe
+│   │   ├── nite-vir.vom [68453617189887cbad8c971a1298450ab7ef389376d2e783841628f3b798d096]
+│   │   ├── t1.vxe [677798e7c0aa5559431e5b42d452e3e39a32b90d09449a3d94cb1848a090a9f1]
+│   │   ├── t2.vxe [5099113141a25d0d7c646c781b186f648e72c0f07a1449c3156a824d6b69c07b]
+│   │   ├── t3.vxe [1058700db973fb9e38b8cff6c2f55716fa5b28951a5867b1a07a439f08e626fd]
+│   │   └── t4.vxe [31b93996a6514ab45fef4c355c8af71df1e26220a6de7fe40392761b23a85f52]
 │   ├── u
-│   │   └── virus.dos.leprosy.666.tapeworm
+│   │   └── virus.dos.leprosy.666.tapeworm [e2ba5dc11bfb6d85d609b79829dc4f32d6f1e51b45d903de86c7a337089a9511]
 │   ├── x
-│   │   └── wcio8241.vom
+│   │   └── wcio8241.vom [c4a4fc317caaa9dfd47d1e241acf846b602eb2effddaee79bd734f658a0ccb04]
 │   ├── y
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   ├── t4.vxe
-│   │   └── viper.vom
+│   │   ├── t1.vxe [364f254b8fad85b144650a1ec467db0d0eed4ff0874eb2b0fd43e8619921c366]
+│   │   ├── t2.vxe [693a6551ab522e895a9caaee091d1e3f2ee1849ac93cc553c002b96c4b2d8c5e]
+│   │   ├── t3.vxe [6ccdbc60c9062ca615b9a3324c2604efe474f21bfab620a66aff45cd3247ab18]
+│   │   ├── t4.vxe [ece283932652efff998ed8073f10cafcd8050018915995836d1ad031c699e2b3]
+│   │   └── viper.vom [bd72c29650c1f90ff7b8dd4b3f1b7ef6e9467845547a5ec271aa3eafadbaa784]
 │   ├── z
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   ├── t4.vxe
-│   │   └── viper2.vom
+│   │   ├── t1.vxe [f0817994f889d70adb575e578b862c789af1c738d5ba6bb4393cb3540fc6da76]
+│   │   ├── t2.vxe [575cf08d4f2d2ceb274450c36c563fc9d0824d93f31bbe127cc00a35ba997fcf]
+│   │   ├── t3.vxe [977c495bced823dee154ff671ed7dc0e256f18f1cfc3d754922cb011fb93396c]
+│   │   ├── t4.vxe [7b71ae49a4d3a3d27b348c0b417f30e70b0807badcb5b10ad8c9352db7bb4a7c]
+│   │   └── viper2.vom [6a5586cde74ad88c9add6651e50cbd5d1fcaa3575c21c6d39bf0fa69b94a4f03]
 │   ├── zy
-│   │   ├── lep666i0.vxe
-│   │   ├── lepc.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   └── t4.vxe
+│   │   ├── lep666i0.vxe [6f66e7af064e969defb52a0e88c09dd8ec6483fff39588f695d0a2015174859b]
+│   │   ├── lepc.vom [9ad7ddfa46f34a9cac647eddcbd468c8c0499785bb86577be206b7b9d3dfde41]
+│   │   ├── t1.vxe [7ca9bd3bbd5921d69c569195a8f6ac603517cd6042e21bccf4fff348684b8631]
+│   │   ├── t2.vxe [d32cf3f10b27413ed119faba8a860d2a2c7f3d6e276feea8311e2928b0eb300a]
+│   │   ├── t3.vxe [eeb9d704dbcf9cf8fd3f6d64428795aa1cb006382228ddc8b33a63e2f0d98840]
+│   │   └── t4.vxe [d7686f827de9694a760ba2cc46a57bb10a16ee0a484ea8ce86845663b5d6c4df]
 │   └── zz
-│       ├── lepc.vom
-│       ├── t1.vxe
-│       ├── t2.vxe
-│       ├── t3.vxe
-│       └── t4.vxe
+│       ├── lepc.vom [e18a7ac6ba0c79bb2172472fceefa3de45aa85d6e3a0321f04c530bfe4422f30]
+│       ├── t1.vxe [ad84ec1d0488617e8601ce8274c2ca338a53a30bdb92586cb505b346ef3ae0ad]
+│       ├── t2.vxe [f9445591f23a2f985227ab639745c4692c9a03e4c6c713a79d62ddb6f962a6d8]
+│       ├── t3.vxe [e82c638b91a240a76aa851de6fd9c4c3d6fac835bfd8d5a0071f74cb6c0b9859]
+│       └── t4.vxe [f0e52a039acf2aed543ae79cf480f4397292ee78763d8b590135270d873ea891]
 ├── 0682
-│   └── L-SANDRA.vom
+│   └── L-SANDRA.vom [66267a26e2e3ee6480cdd2e874b4018e60803d2e5a5a8b5c8f014a30576b0165]
 ├── 0736
-│   └── SILVER2F.vom
+│   └── SILVER2F.vom [19b09935d47258a4843d0286bfd6a4ac93b906241b97e34236081f886280c986]
 ├── 0777
-│   └── virus.dos.leprosy.popov.777
+│   └── virus.dos.leprosy.popov.777 [f2e5e4960891d57866872e2c32e69f7cf32fdcca1bb39f0fe38b0bbc8ab5dc94]
 ├── 0792
 │   ├── a
-│   │   ├── c-le792.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   ├── trace.vxe
-│   │   └── virus.dos.leprosy.jas.792
+│   │   ├── c-le792.vom [caf206f5003d0197ad80c9e3c0d2756f4294bf3ac675a4405b05046c0f7a50e8]
+│   │   ├── t1.vom [40d6f1d1ab923e50af50848d1cd47c918c965ace56c5e3fadf695f7f86813a5c]
+│   │   ├── t1.vxe [fa7d62595b305d50535b21012f0c6a8d835cd24205f9df49f7e84e95cc2ea596]
+│   │   ├── t2.vom [2960152a37d404ebb9e2b815c3d272a623ea1d92913e2b10d3824d0ad23e1df3]
+│   │   ├── t3.vom [55707473f4c7e0ca979b7adeec0367200243956300babde34f475311cfbe6b61]
+│   │   ├── t3.vxe [ac5e7bac0b12f417f911d8a9b11c378f3ce2eb3a38f39f253efac326ff199904]
+│   │   ├── t4.vom [0b6b9a812afec92e3a46d6683089dc31225abeba16a6a699ef36eb0a0f04a3f4]
+│   │   ├── t5.vom [7ab8f5d17351758cfee8eef6c506e49845b5fb028f2e9d436e18c9477f5ade84]
+│   │   ├── t5.vxe [22595bc89c7cf47ba4ad91f1af66468f5a01e2c2c4eeef19adf4bb7f1efae323]
+│   │   ├── t6.vom [6f2ea6021bb47b627957cff16168e679cbd5dee97971c16da8c3013522731e86]
+│   │   ├── trace.vxe [bc90d2adafc665966e77eff4ea28663a4fa9fa47e3ab6c10756eba49f2bda7ad]
+│   │   └── virus.dos.leprosy.jas.792 [b6f5c39cfc63dbdfbe02ea7e359b7074266664b2ab7cf8e4eb078f15c7bacccb]
 │   ├── b
-│   │   ├── lep792c.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   └── virus.dos.leprosy.acid.792
+│   │   ├── lep792c.vom [197d1892fb355631becf70cc05bec2a70232e60a204c769b2b4d1921affc78da]
+│   │   ├── t1.vom [bed8041fef5b66337bc257943c2b59f7b0a63906ab74f8b39baefa740634414f]
+│   │   ├── t1.vxe [a6fef150363a86a46e29ef62911169753f5c64a8c22e3ea9f1b2972b36e039cb]
+│   │   ├── t2.vom [24ef4d9d1576caba7f1bc0233ffff47bc8e31a194271b207a8240b3b4b976437]
+│   │   ├── t2.vxe [42cbcaf88a4fad91cdcf9d5334e0c6f09168b1c01f2a426c37be44de393960d4]
+│   │   ├── t3.vxe [09e1e41f2a0dc5e39d9a284db948aa93616a08563773eb35cff3a2dd8df91884]
+│   │   └── virus.dos.leprosy.acid.792 [929f37af3f9f9ac1db1ecc5c86efc6777f9917225e61973bacb81c926f305d97]
 │   └── c
-│       ├── debug.vxe
-│       ├── jas.vom
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t2.vom
-│       ├── t3.vom
-│       ├── t3.vxe
-│       ├── t4.vom
-│       ├── t5.vom
-│       ├── t5.vxe
-│       └── trace.vxe
+│       ├── debug.vxe [8773402b72948370f37dd1ef9dc1303bf3ed37df1bc56c50f6f1419a0c591beb]
+│       ├── jas.vom [b898e14ac2bc82e0c34fe9abfb98a72af6641ab14f49fd63c4731cfb4b7a2357]
+│       ├── t1.vom [68a50d23ba7c19137bbf703c5c910fbb0f0ca6a9c5a2a4f7fae9335750756f97]
+│       ├── t1.vxe [80f0e50f77184fb8499ec4c912ba605e33e99e5619541166d684983a3839c979]
+│       ├── t2.vom [01224b3593ebf21297865bb663e7cbbe74268e7235578db515731c02e90e4e82]
+│       ├── t3.vom [32c254bfa222f40a919491ee99fd8087442e1fe5f6cef6b39d540ec9966beadb]
+│       ├── t3.vxe [07822dd6b94a806147c2537bf44a3f8424391ffadb7a2f42b0f7e6d3ef0f00c1]
+│       ├── t4.vom [ad33cffbb60191b597ecf2a6f5311ae2ff34aeed0ac9b9332db506b41f75cc4f]
+│       ├── t5.vom [1264a6e9803cd23a1d5a2c55e7d9e75c309c77abdeb7067ba9b44b1c7df297b7]
+│       ├── t5.vxe [3ae462518fdfcec50492f894565a108b29cf6ed1196bd26f6ec31fdc8fe76f7f]
+│       └── trace.vxe [29604e67c78dcc319e219e8f43543d067b2e04bd22343722d6bf8a559e66a13d]
 ├── 0797
-│   ├── lep797.vom
-│   ├── lep797.vxe
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   └── virus.dos.leprosy.797
+│   ├── lep797.vom [68c2c074a06c58745a54177fd0f9d87475b8ded6998aac7c6e0444f3e6fe6101]
+│   ├── lep797.vxe [70f519e559b0bcf83fe46ce88b0f6495220966935be9edd696914772823c3a79]
+│   ├── t1.vom [c7c585cf93c4d341e918dadb3ec733506f6dc241ae1197c11b26283534eb06ef]
+│   ├── t1.vxe [50f5e221da19ffce8bbd7feff230c5bd064a93ec758666dbae2a56f359732d81]
+│   ├── t2.vom [967202c9189bcab4b90ac396d24ac66ba57ed22aab6d66e3c701da36b36aab83]
+│   ├── t2.vxe [0fcfca60f498fd6ec36b748212fd5f7af49811da9f432be4699175192b42db21]
+│   └── virus.dos.leprosy.797 [85f8fc272ce71907aa53d5edff7953556a79d4bbbaf88ea5e3031e216a98cc58]
 ├── 0800
-│   ├── 800.com
-│   ├── lepro800.com
-│   └── nintari.exe
+│   ├── 800.com [f51c67977a435c9c245482e88860cd477b80ec3550860c1a58a01eca472b8760]
+│   ├── lepro800.com [c2d966b28406efac9031012e33802b75949c2ed0203698363328ea31e56cab29]
+│   └── nintari.exe [f7174b39cba1b8cfb1e40bc1d4ce248f907f54c10c7205e01df9c1d4f5a60702]
 ├── 0808
 │   ├── a
-│   │   └── weasel!.vom
+│   │   └── weasel!.vom [4fbaa5b351a398eea2e5c66ba74161bb06badcaef72a1c916fda8488bb60a233]
 │   ├── b
-│   │   ├── lep-808m.vxe
-│   │   ├── lep808m.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   ├── t4.vxe
-│   │   └── virus.dos.leprosy.808.m
+│   │   ├── lep-808m.vxe [0f9b6b5d8e51cc683b73ddf34455b685e3520f9a18d1a12114a942f7a3a2c0b9]
+│   │   ├── lep808m.vxe [47128976ea7479bd957446b4c67fd211dde754478d91b133dea892a04b038a05]
+│   │   ├── t2.vxe [a52f6cd328b2c354401a3d12bc8b2a71a4f85fae444d1c5066665b13e11fe98e]
+│   │   ├── t3.vxe [b2297c07fa763c2c891264234b3de54f74f79eb371f67cc117b55cbeb94b77d2]
+│   │   ├── t4.vxe [3a151ccd70cfac94c896b1ca3a544adc0c798db1431fd4690465d100290db121]
+│   │   └── virus.dos.leprosy.808.m [89c61bd5449ed05cdcdc44f95271afbd9d14b7ea9093df0c852edd90e1c2baf4]
 │   ├── c
-│   │   └── L-S0808A.vom
+│   │   └── L-S0808A.vom [9e2ed1de15ebfca4adac079d2db3f26027f1b64ae40182070b40e8eaf83e00cb]
 │   ├── d
-│   │   └── L-S0808B.vom
+│   │   └── L-S0808B.vom [52de50f49b90a279a3b9d1417e8a89a96bdced5beae3735c40f5a967d198247b]
 │   ├── e
-│   │   ├── 1-le808c.vxe
-│   │   ├── 2-le808c.vxe
-│   │   ├── 3-le808c.vxe
-│   │   └── lepros~3.vxe
+│   │   ├── 1-le808c.vxe [8693db1cc94a6c9e94a67091d3b41f8d1f328b8d2d722728e4b7a7d37275b9ce]
+│   │   ├── 2-le808c.vxe [1cf98d71eeb786cebbde5c51f1be47ed0e44d606ff11d6e51f670eb7878e33a7]
+│   │   ├── 3-le808c.vxe [883d5e721c51d6f5a4064ee1e2c190226b38bf7b19feacd60260ec725e25de58]
+│   │   └── lepros~3.vxe [ce261d50f17d92c7175a80f4640090248721ca6773f7df56fc3830ef58294da7]
 │   ├── f
-│   │   └── rythem.vom
+│   │   └── rythem.vom [ad9884dd2564345a84341b4b9811d62ec97b4807e74972e51b7c1369001a80ce]
 │   └── g
-│       └── L-S0808D.vom
+│       └── L-S0808D.vom [998b6b27df8dc137be732d0a530005f59099804a2da96df6d62a6d2138c20046]
 ├── 0814
-│   └── L-S0814.vom
+│   └── L-S0814.vom [74dd95e7115bf82b74a41b027de6fbf16097fac70b28b945fc1409f755cf6bff]
 ├── 0822
 │   └── unknown
-│       └── virus.dos.joker.821
+│       └── virus.dos.joker.821 [e2600863a7c9cda785b245e8dafafcd76f04a6790a2e96ea5eb3dbd2e21bc910]
 ├── 0827
-│   ├── l#0827.vom
-│   └── leps827a.vxe
+│   ├── l#0827.vom [188815acb8956eeef9e890eaa251ebb7392afa834797c66553ecbfea7ebfb71c]
+│   └── leps827a.vxe [4c15a4a30ec81fafbab2beef1d4e9c6e4ae4619091a6fe550d4f06a42f5c846a]
 ├── 0840
-│   └── L-VIPER.vom
+│   └── L-VIPER.vom [1408936ae983ce9661e24009b4b6b339bc514580a0d1002ad39ef45fd72c2e27]
 ├── 0868
-│   ├── id.txt
-│   └── paraschi.com
+│   ├── id.txt [6c44be8909c63374367e977bad82b1fd8071220d222db8a830f5dea37eb5fe5b]
+│   └── paraschi.com [881b34f2431c40740f931b1b8869c4b7fc7da8a98734bdfeb6386296e4aa0ef7]
 ├── 0880
-│   ├── debug.vxe
-│   ├── id.txt
-│   ├── lepr880.c0
-│   ├── lepr880.e1
-│   ├── lepr880.e2
-│   ├── lepr880.e3
-│   ├── t2.vxe
-│   ├── t5.vxe
-│   ├── t6.vxe
-│   ├── t7.vxe
-│   └── virus.dos.leprosy.yh.880
+│   ├── debug.vxe [cc3916694cca1f8014f2795e64e0a56c502485fab35dc3ab784568e1a85097a8]
+│   ├── id.txt [2edd80e235e1be41679f0781f49b950c82175bd23dbe54043c11e758f2656d76]
+│   ├── lepr880.c0 [830a379096395df561fa8acf3dccf62f3a304a521d2feff8a90a7e97af875ea0]
+│   ├── lepr880.e1 [791c40303ea0a1617acfbe537960d59553ba403aa57293c0ad8cdbe124d4028d]
+│   ├── lepr880.e2 [f250facdcaf094b0682b727b2ffbbdf3c1bd7ea5aca7c5c7b95930607e86f80e]
+│   ├── lepr880.e3 [249580a8945dacb97e1ec9ac8922a58bce10feed4131816e41c1d8d57a6292dd]
+│   ├── t2.vxe [8dd0460ea1e9960503af2112f3cbc62e811244fec4a7faa51a3e1d02e85f5ae3]
+│   ├── t5.vxe [8b475487acc87bfaf25df8fc0b229f11dc8bc2a95939c71fcadf50c8ef1d0897]
+│   ├── t6.vxe [2fa6d419b8a1186d2ba1848f5a64d88649453dffda636b3627fb0980f5ff7301]
+│   ├── t7.vxe [d8eb03f870e33545b66ac3a45668d8c1eaaf4d019376723fad14f25aa5796bf5]
+│   └── virus.dos.leprosy.yh.880 [537f393d796cc5cd9b6bd5262561e1469b0bb18a9a3fb9f2ad83c8dfd031a4e1]
 ├── 0907
 │   └── a
-│       └── L-S0907.vom
+│       └── L-S0907.vom [236c0267b45348cb7689608b1efe8116b606116b2585989e4d15355efeafe430]
 ├── 0946
-│   └── L-SURFER.vom
+│   └── L-SURFER.vom [1353ede48a959b47403d4873017519cfbf22332e62afc2e19d46e5d7bb0fc300]
 ├── 0999
-│   └── virus.dos.leprosy.flood.999
+│   └── virus.dos.leprosy.flood.999 [b1097e51088405927b9d37ae9e2b71b3787a2ff46a5fcfe68271f042f8e5491e]
 ├── 1000
-│   └── virus.dos.leprosy.vic.1000
+│   └── virus.dos.leprosy.vic.1000 [5a594fadefdf34166f2f4c3ffe03bff1e848aa127548e8f2aef985bc4454ee44]
 ├── 1306
 │   ├── a
-│   │   └── L-1306.vom
+│   │   └── L-1306.vom [f003181b1c64ad948dd58d9055524c1d5c93360dbf7307188051ab0c9f6b06ea]
 │   └── b
-│       ├── id.txt
-│       └── ultra-v.com
+│       ├── id.txt [45345795d0cbeb992c36bd1989dc8027b35f904453de1c1524ee7d718d3794e4]
+│       └── ultra-v.com [01fa0f821e03a1bed6ade794a1c3438dfcd2648fd63d35777af051fee65fe648]
 ├── 1547
-│   └── SOUTHER.vom
+│   └── SOUTHER.vom [17be0ff149c2dacb1bd99d0ee576993627d8248f8ed73eef235ab646bc168d6f]
 ├── 1644
-│   └── FVHS-A.vom
+│   └── FVHS-A.vom [fe44bf315b50164ade824a75d173f3d11de0c2b14a9bb8b49d5e9b69bdc49aba]
 ├── 1818
-│   ├── lep1818.vom
-│   └── virus.dos.leprosy.1818
+│   ├── lep1818.vom [84f161c14a810da45aa41d479fad0e7036afcf505879c5dcc262d1bf908a2952]
+│   └── virus.dos.leprosy.1818 [bd970d93de1a33d34ddfc9fe5d32efa7218931d937519d1ed90ae16b98f1e68e]
 ├── 1874
-│   └── FVHS-B.vom
+│   └── FVHS-B.vom [f6685e38b88672da9cfda94d62d0673668c3a21a834832aefccc2738e3804718]
 ├── 1972
-│   └── L-XABARA.vxe
+│   └── L-XABARA.vxe [a85d94207ae13754aa7c4b6cd2b51f6bea3c9adad170f524ae3f7540020c900c]
 ├── 1973
-│   └── L-TZ1973.vom
+│   └── L-TZ1973.vom [e02cba1f82bacd2648fabef2f35b404d686ced212af056e54010fd82b8d8302b]
 ├── 1992
 │   ├── a
-│   │   └── L-S1992A.vom
+│   │   └── L-S1992A.vom [9a2a5d44befa7cb14369c5abb2b99aa40fb643104090dc2fe5807ef17626c7be]
 │   └── b
-│       └── L-S1992B.vom
+│       └── L-S1992B.vom [0f98153a28e098169300f88c8408d8fa8142f13536ef50d7cff417971f50dd39]
 ├── 2013
-│   └── taz6.vom
+│   └── taz6.vom [ceb652b185657a2c4ca71e5936d4ee2d2ccf7778d88ae15b34b71c68ff20bd5a]
 ├── 2070
-│   └── SILVER.vom
+│   └── SILVER.vom [8a9816b7e72d7413478cdc94c72c92cc68427fbbb2d0f9f45a9b6cd49d3d6d75]
 ├── 2197
-│   ├── l-tz2197.vom
-│   ├── lep-t197.vom
-│   └── lep2197b.vom
+│   ├── l-tz2197.vom [b1dc4735d36bd176260155634b04f9ab53203418ae6ac07eb7def618ffc05e1f]
+│   ├── lep-t197.vom [cbdafe29eef171b859dfeaea8de6056eea2d2e9c3cab994d3a70c3057c8569c2]
+│   └── lep2197b.vom [e3ae99124057f90ae7ed163b380ceefb030e2c3521f956eb4fd48f20962b41cc]
 ├── 2209
 │   ├── a
-│   │   ├── l-tz2209.vom
-│   │   ├── lep-t209.vom
-│   │   ├── lep2209b.vom
-│   │   ├── taz2.vom
-│   │   └── virus.dos.leprosy.taz.2209.b
+│   │   ├── l-tz2209.vom [6c2e66d578c14f331a9923d90036038abe0e9de77b82cdfca1434dcbfd554b3d]
+│   │   ├── lep-t209.vom [e4a76c9e72391e2b87db2d8df051e5bda78a08a81a0e8e07bb24013f8877b00f]
+│   │   ├── lep2209b.vom [79a3d3ab38475d6bb003f0ac2df6428e3557cfeab3dc670d5a8ba6ef72803cde]
+│   │   ├── taz2.vom [d1becf68a00d321db29bcbed1306b853958d97b10035841270b1cc498551c4a6]
+│   │   └── virus.dos.leprosy.taz.2209.b [2904027e3023af339d723bbd613eeba25d31876f73af9cdb59879c71e922898b]
 │   └── b
-│       └── virus.dos.leprosy.peppy.2209
+│       └── virus.dos.leprosy.peppy.2209 [63ce2e685d4879c0a0320e05320adbb1fbc17ef73ee990e4f34c36507610c182]
 ├── 2218
-│   └── L-FVHS.vom
+│   └── L-FVHS.vom [fe439f0eb3cb5f38e27e035d6b1fe157c4483011d66158b9a7663b45f0bdfd7e]
 ├── 2276
-│   ├── l-tz2276.vom
-│   ├── lep-t276.vom
-│   ├── lep2276b.vom
-│   └── taz4z.obj
+│   ├── l-tz2276.vom [52d157f9e1a957c3aef1c3369bbde67981465687b9da8cd998731257789d08bd]
+│   ├── lep-t276.vom [64a482d3a7a8190b1913387bf6bc3eeb5b6b8ed6d6e6d7cc96dde486ac4b19e1]
+│   ├── lep2276b.vom [0f034f7449a724dbe0f2e83a4a95a5f1576dd0bed7ae48e50eb96090c9334602]
+│   └── taz4z.obj [828bc9fe5292ecec8300deed243c0e9fa8ba29fe6b926465939f446acfcf71d6]
 ├── 4159
-│   ├── id.txt
-│   ├── jobo4159.vom
-│   ├── lepr4159.e1
-│   ├── lepr4159.e2
-│   ├── lepr4159.e3
-│   ├── lepr4159.e4
-│   ├── t2.vxe
-│   ├── t4.vxe
-│   └── t5.vxe
+│   ├── id.txt [1d7e9eec5cceb1800b5e3d0b5e1c42ec4d3916a999e97e2066048d4913094f03]
+│   ├── jobo4159.vom [85ca648e95f4d982b464d61c98c1cbff478558d580d10573036158595500baaa]
+│   ├── lepr4159.e1 [c4545318526065e6089ed7b56da6c959df36e114d4e5452ef917b28d21bf5da2]
+│   ├── lepr4159.e2 [93c9a5f4ad5e550a0ac26b36b035181c7be41a05bf8da85da64cbdb5f68b393a]
+│   ├── lepr4159.e3 [7db0e0dc6851fdc5daa8fa81f9acf7749e9d64b97009aa04d7ddaf8e12c0b26e]
+│   ├── lepr4159.e4 [1c867336d5d6cbf57acd91b8a3024eb5d9f8692dc52b10f7e8c0fe6865bb8346]
+│   ├── t2.vxe [f75f1438f4cb0a6338a68d816a98ed54959b8211e6c77f1d2f3af9746d1984e5]
+│   ├── t4.vxe [cd035faf03635be9cbe812bcf1e3b7ad6f3470258913df4b98590e959aaab811]
+│   └── t5.vxe [0425405eb0814bd83800bdb5be5259101bf28e3cc7efc3f575bc487e0948228c]
 ├── 4161
-│   ├── debug.vxe
-│   ├── id.txt
-│   ├── jobo4161.vom
-│   ├── lep-4161.vxe
-│   ├── lepr4161.e1
-│   ├── lepr4161.e2
-│   ├── lepr4161.e3
-│   ├── t2.vxe
-│   ├── t8.vxe
-│   ├── tf.vxe
-│   └── virus.dos.leprosy.jobo.4161
+│   ├── debug.vxe [964fa650ae9c86424abdde7f8d3f31f2ca2acb4d7da7af31c5dd9ff5a6c13006]
+│   ├── id.txt [e5d5edd9d1b4becdc4b40d63330897c5dda417ad4f942a851ac0f483fc9309dd]
+│   ├── jobo4161.vom [402c9fa4448299670aea139ebc75d93d3e53a0971259b78efa7a60ad538d332e]
+│   ├── lep-4161.vxe [43c4f9a279db916b267108c0afec00f3aab4b37cd63ff6bcc05013c397e98cda]
+│   ├── lepr4161.e1 [717f12b09e9977f69a91a1b2d62f43651b6f8954714aa3ddbce622920b5287fd]
+│   ├── lepr4161.e2 [40dfac9ce5b0df7c5fb873b0afb5d56cc7e036938fe1632d5865d987d517590f]
+│   ├── lepr4161.e3 [c330994a4d2ad7e59acdaca4b7813237cd7577edc4dbd3358897a8d9d5b5f463]
+│   ├── t2.vxe [94175a77b75f36cfe4ace4344b5da3f18265bd3b2c9748f49996bec09b8122eb]
+│   ├── t8.vxe [97a22d3f4ad4a88b9601dbf738affb2b0781e90fcf322215794b55b28ef7db0e]
+│   ├── tf.vxe [203929f73fab2ece9040a7a42ce07485dbf0f74899955d4a08237cdcd840edb1]
+│   └── virus.dos.leprosy.jobo.4161 [39030667caa593a08d816e6d55058f721e54bc359a6fb73fb5a1b72c8830fd1f]
 ├── 47857
 │   ├── a
-│   │   ├── le47857a.vxe
-│   │   └── ls101.vom
+│   │   ├── le47857a.vxe [22c953dce5b40c358de9aa243ef00b0148b4dd864abef272a061f6077ab02aca]
+│   │   └── ls101.vom [a6a939761b80ae829786dd18f8b3049d21a106de2fd9fa4e574d8f568af2c840]
 │   └── b
-│       └── L-S47857.vom
+│       └── L-S47857.vom [78e6d252e8b0acceecb65389ef2d50149be9c14581d07c92b118b2830ee0022e]
 ├── 5120
 │   ├── a
-│   │   └── virus.dos.leprosy.5120
+│   │   └── virus.dos.leprosy.5120 [525599be2e3532c1f5436596e08e04a76fb2e1470efa4658e7ec90935bd1d139]
 │   └── b
-│       └── 97a962bd.vom
+│       └── 97a962bd.vom [54687695a871529efb7a0094dd8c478beee349511a1b5c88afd7f1acd43349b1]
 ├── 5370
 │   ├── a
-│   │   ├── lep5370.vxe
-│   │   └── lep5370a.vxe
+│   │   ├── lep5370.vxe [4be952bb99e1864460928cc431997f8877b75df6c031139d340c0c4409c8593d]
+│   │   └── lep5370a.vxe [4c12b69366d8c65794d232ca5a05e5cd752858378659156e519d9280541ad513]
 │   └── b
-│       ├── lep5370b.vxe
-│       └── lp5370b.vxe
+│       ├── lep5370b.vxe [7c9b2e904d0eeff89dc7ab63b64e0272dcc80ddb2e6f17bbfed347b919e1b69c]
+│       └── lp5370b.vxe [144552eae4ee5f809ae357516607e4c334edd5b5ffb56fa5a187dad2c9a231b7]
 ├── 5600
-│   └── lepros~5.vxe
+│   └── lepros~5.vxe [73071c910c11ee5a4b7a3d1c1555a47e011100918cc1468df363c46d18bd25d9]
 ├── 8101
-│   ├── id.txt
-│   ├── l!8101.com
-│   └── lepro~55.vom
+│   ├── id.txt [d526c366bddce1f907359a06b0f0cc81d7cffdde545557291f75a3cdc2b91266]
+│   ├── l!8101.com [e57bf79bafe3b58239aa821e097ab3a6132eeae9449113c39e65b3eaccd7d605]
+│   └── lepro~55.vom [461fe7360b8099d128f3e3a030678489c4cb75354fa1d1e6d7e1a401741d70fa]
 └── lubec
-    ├── 1-lube_a.vom
-    ├── 2-lube_a.vom
-    ├── 3-lube_a.vom
-    ├── lubec731.vom
-    └── virus.dos.leprosy.lubec.731
+    ├── 1-lube_a.vom [b566c09da40cf1b60a149aa678f735e0d55bf5e8b0498627fd72a8588b60d452]
+    ├── 2-lube_a.vom [ebf76d310b89b0e91c081da1cccd4b7d3707fbc5e61e1a16a04980e8f5544341]
+    ├── 3-lube_a.vom [ab657267f0cf3e019fc6d32d404ad40ffb5379b2f40e98c5b997652e7af1a3d1]
+    ├── lubec731.vom [114b8aec01146044cba869b9425993f9bcc10b60c845229197b5d55bb6d95946]
+    └── virus.dos.leprosy.lubec.731 [adca71f1bcb2160e3c132d813ec540c448535d41e8cddae09b94b952141d810a]
 ```

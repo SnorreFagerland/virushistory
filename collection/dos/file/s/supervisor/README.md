@@ -3,32 +3,32 @@
 
 ```
 ├── 1256
-│   ├── 2-eq1256.vom
-│   ├── 3-eq1256.vom
-│   ├── 4-eq1256.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── wci06023.vom
+│   ├── 2-eq1256.vom [de9379076e23702b978d11c68a44e74d0211743ac53f72c8720ad94f38e8b392]
+│   ├── 3-eq1256.vom [22ce371a51a400f3a9ce0e8bcc431b1067b2c24afb2a51f509b8ccf266183578]
+│   ├── 4-eq1256.vom [75dc8c2e0a3c821d16d670766bbbcadfee2ad95363a877c6c536112295301ebe]
+│   ├── t1.vom [1163a5b8e13e3164c84aecc87ad3fe84ddeddad4efd144cdf3d82d389ad4fe33]
+│   ├── t2.vom [d8b35eac0d680a6ea179313d1806bad13b737e1c16bed26a4e7feb85e7a3e5b8]
+│   ├── t3.vom [96495fccf5f847c470fa48d714941e322ad1b6e19651a39ef2425d7344c49970]
+│   ├── t4.vom [07ec320d9bae4486e9eabcf69c138786bdc3e38f34e574684e30b08cc94ef1ae]
+│   ├── t5.vom [79316106fc172fc00622bccb6977c733af7ad544035b7804d297154fcd69d5bc]
+│   └── wci06023.vom [f13441d8c4dd25078acd405133a18e49ef02d3886d282e4508ccf3cd68793713]
 ├── 1448
-│   ├── antix.vom
-│   ├── antix2.vom
-│   └── f1.vom
+│   ├── antix.vom [f367321721a34ffb2e759492b0b8f1b2e2ef21a6a6ff96cd917c68ccf7a03482]
+│   ├── antix2.vom [dc8fd334eeb9e0e4d806b7def7bd313ca1bbc8750146507893b87e1f4963e9e8]
+│   └── f1.vom [69002914fe0cbbbbece86c24076086df2e2d913bf2a4667061bab80d1de3fddf]
 ├── 1878
-│   └── Virus.DOS.Supervisor.1878
+│   └── Virus.DOS.Supervisor.1878 [43cf51138e7576587b74024d6e5faa909f13759d1e7567b6946dbe7a5b7dddca]
 ├── 2221
-│   └── Virus.DOS.Supervisor.2221
+│   └── Virus.DOS.Supervisor.2221 [e5fc9e3ec960a2d3b9d464e830ab9af22109e0222ccc7ba2faea2355f9a5caba]
 ├── 2906
-│   ├── supe2906.vom
-│   ├── supe2906.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t7.vxe
-│   └── tf.vxe
+│   ├── supe2906.vom [dd81a0b488521a6934e598e3e45ab02b4eee231e0c8ce61d1cbc7d4900e990d2]
+│   ├── supe2906.vxe [ea7d0917f42c6ef47d81710c2acf85b1ed4c20df1a75b3a8a4d8c8983abd1630]
+│   ├── t2.vom [50828b755cf5c4217f33a4a4c6bd07d51ffff250a7262f69566142850d209f5c]
+│   ├── t3.vom [e696064a820ff5097e2f22d99e9e21d267a1745da20105562b9b33a511d4c986]
+│   ├── t7.vxe [ac4153005a5ecbc0e022f6732737012f391330cdce1941fc4a60331059fed566]
+│   └── tf.vxe [83ed1dac3bde0a84313250945d3b159948ed9596bd44072af9a54f8172a02d32]
 ├── 3758
-│   └── virus.dos.nephew.3758
+│   └── virus.dos.nephew.3758 [52ab521029e791f4d480f6761b5923238a2664ce5c08797454ad0efcd1be2d3c]
 └── 3760
-    └── virus.dos.nephew.3760
+    └── virus.dos.nephew.3760 [28653c909bd4421498dbfbb08a5ea065e60485dbe76c32c85211597eb34a801a]
 ```

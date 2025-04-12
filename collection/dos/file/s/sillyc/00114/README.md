@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   ├── mini114.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   └── t5.vom
+│   ├── mini114.vom [eb9efba708540cd494a9c0c3fc7b9f97e32c0486e60eb005982ea5f1dfdab612]
+│   ├── t1.vom [d3d6e2ac9dfb79ac2eb17718f3b2229c01a6c063bca2b25d57c0f58fac1acab6]
+│   ├── t2.vom [252a31ad914083d4e5b7f2ec20c802bddc0e6f839b6163ccf9f081ba6eb86575]
+│   ├── t3.vom [24fc670135fc7766e783c400dab84fefd616132663abebf7348944099d650810]
+│   ├── t4.vom [cf0eac06712959fba57e162a07f71d7b2919d922d176e8556b6f1e5658b299e7]
+│   └── t5.vom [ea2b2dea071504faed548b64a6d7802473e29fd97e5935c582b1bae02be8be63]
 ├── b
-│   ├── id.txt
-│   └── virus.dos.sillyc.114.a
+│   ├── id.txt [5ea7567405997986121b5f59fe0a93ce0c622cdf987f635ab4d7cc2661cea8b1]
+│   └── virus.dos.sillyc.114.a [1b22bf486e0e39b4792e847d2dec468b00348d1af8a5d414f967edb2444026d4]
 ├── c
-│   └── virus.dos.sillyc.114.b
+│   └── virus.dos.sillyc.114.b [8cd36e4412c669498efbb1cc241685acdc27db3b10fa303c82296553c989a13a]
 └── d
-    ├── id.txt
-    └── virus.dos.mini.114
+    ├── id.txt [7d957384e645909091c6582d7860b40790ba95dd9d4220e57c5d8654445c7ffe]
+    └── virus.dos.mini.114 [96029a089885553cf8e9d994446b2772bbcb325aeb2355a83111d4b6e94d8985]
 ```

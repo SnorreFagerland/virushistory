@@ -3,20 +3,20 @@
 
 ```
 ├── 1428
-│   ├── pshr1428.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   └── wci0128c.vxe
+│   ├── pshr1428.vom [7a933c7d626ef81105017d770f6253642a12935ad4513df94ce551f9e430afd5]
+│   ├── t1.vxe [038d20733242871d030ca658e9e9588963193c1663e68d7dcfc0ea5d458a9da3]
+│   ├── t2.vom [5e8f8642cdab864728b39eb5889c0c1d879d2eb6335064aced9cde82ae940c05]
+│   ├── t3.vxe [54989eae0d87491d30e3e7261d466f1a059434d2d68c49cbae51c8265e86439f]
+│   ├── t4.vom [19e3cf2ca5615d53f309a0ed79f0a4ed12b277f39d5d207188aab47294046ffe]
+│   ├── t5.vxe [b7432cc83ef26981013a5a83316fcd2e64643efcde9edac14dbcd1d0191d6d8e]
+│   ├── t6.vom [ca69eb5b2e23b0e71d4e1630961a6cbd8d73760f790f4de99fbb5800e0e8c37b]
+│   └── wci0128c.vxe [69f67dca920a3d63412fc3302e4c616337137a4e1c7ab61bf2887cfaafe8ce5b]
 ├── 2642
-│   └── virus.dos.c3.2642
+│   └── virus.dos.c3.2642 [fbf4fdbc30a0bc4466785acbd0f77fc27016eaf5a625e5377b33ef3faa0b8a1e]
 └── 2662
-    ├── chcc.vom
-    ├── t1.vom
-    ├── t2.vom
-    ├── t4.vom
-    └── t6.vom
+    ├── chcc.vom [8850af8354da60c35f8c17d8160caae85d7259b71bc6b33679e95eea646c54a5]
+    ├── t1.vom [9aa35336347170941962babd12438b8c175e21d49e0dd9d2a38af697c79af714]
+    ├── t2.vom [00d6ba01a8ee409c701dfcaf37c75a74c804ac13f3d1f966e2fc52ac72239d91]
+    ├── t4.vom [827e4c464bcac89f1d26047762ac06b4d7a4244390780f51a60533562c40c262]
+    └── t6.vom [1daf686c884b1c0c6fef2ffe1741499c39520bfcc87d757d794f8dd5b20bde2e]
 ```

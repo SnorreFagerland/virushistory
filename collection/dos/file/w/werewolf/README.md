@@ -3,170 +3,157 @@
 
 ```
 ├── 0658
-│   └── wci0025w.vxe
+│   └── wci0025w.vxe [086da5c14fc937cccab995f3b49b016686b3d3d70a6f670a2abc99c004c6d296]
 ├── 0678
-│   ├── hsh.vxe
-│   ├── packager.vxe
-│   ├── smartdrv.vxe
-│   ├── t1.vxe
-│   └── t2.vxe
+│   ├── hsh.vxe [ce1c7ff8d9860001116d44dc3f45ef8a68703ca363968c00b7842d821de5eaa4]
+│   ├── packager.vxe [284756f894c3bf58fdedb63937969b317947ae99d7fc72fee5049a7cab8d49c5]
+│   ├── smartdrv.vxe [f2a6de7266c69b4862d0f69b3ec06be2c410b86187b0a131bd85cbb808061b7f]
+│   ├── t1.vxe [ce661d4aec5a04085d28bdb328a7f1682c2f9fa3a5f62be0e5d85da74eb0889f]
+│   └── t2.vxe [60469fc07666fe8063eae5aaa368309b74e488ddeda1d5c0960b48ed14d5fdff]
 ├── 0684
 │   ├── a
-│   │   └── wci0027w.vxe
+│   │   └── wci0027w.vxe [30a8ee7f895cb7c0d626311e92deccf3ea7e322157061150283e16fde2c5ec7c]
 │   └── b
-│       ├── calc.vxe
-│       ├── dialer.vxe
-│       ├── notepad.vxe
-│       ├── packager.vxe
-│       ├── pbrush.vxe
-│       ├── smartdrv.vxe
-│       ├── t1.vxe
-│       ├── t2.vxe
-│       ├── t3.vxe
-│       ├── t4.vxe
-│       ├── t5.vxe
-│       ├── t6.vxe
-│       └── write.vxe
+│       ├── calc.vxe [33c9692ea6a02dceeb3552ea9e4511443dae1bd2273373436021c4155db24e34]
+│       ├── dialer.vxe [30e08dfdf8b523b79aa2cc506bf888d753f6fb3065a9dc9a0a8aee31d74881f8]
+│       ├── notepad.vxe [68baaa9416eb1ab505a1afa94513c8a06dd5299b8d545352675ca3516071f14b]
+│       ├── packager.vxe [1029faa24b66f07b298b91963002c6cdd9c25e39d3c00fd872b935ab3a829f60]
+│       ├── pbrush.vxe [4b805b309d8fe1980ca2e9ddb67519824c0f10bfb008ef3d64d79fa630d6cc67]
+│       ├── smartdrv.vxe [203dff8157103b03f9308b396e7d84d1c951fe251385ea5d2764d1ffefe9fdff]
+│       ├── t1.vxe [2ff9101f24f3443757af1924d038e0d4c9b1f82bcf19bf43e6be4b62765b5aa3]
+│       ├── t2.vxe [a669d02018c1b53d52420fd323b5b2d55057a4fbc103a4aadc750cf9fd051aa5]
+│       ├── t3.vxe [fb1bc367b03e501e710a136a5b5405b0d0996b1815455e553165c9d6814b74fd]
+│       ├── t4.vxe [f8a0def9b15164bf0b5d40ceb11d42314b26fff3fd67f615513259dcff7627d5]
+│       ├── t5.vxe [eb623ee3ba9136d7cb242b42579d673a11dca328575603997f1660465906baa4]
+│       ├── t6.vxe [28e151fd307338394e80cc4bcf0d440315859e69a4bdfde747c4a75d7d96eba4]
+│       └── write.vxe [214fbca8a292c40e9841a3db0a68eb010d3782f8ca6b1b3be8de134887d27262]
 ├── 0685
 │   ├── a
-│   │   └── wwlf-685.vxe
+│   │   └── wwlf-685.vxe [2800bb2619002a69b7e22260939d8d5e20e97a474adf438206208846008c135f]
 │   └── b
-│       ├── calc.vxe
-│       ├── claws.vxe
-│       ├── keyview.vxe
-│       ├── notepad.vxe
-│       ├── packager.vxe
-│       ├── smartdrv.vxe
-│       ├── t1.vxe
-│       ├── t2.vxe
-│       └── t3.vxe
+│       ├── calc.vxe [f70e4e9588e91b43ef1e303a554372f9427bc44a8e87709dd03532b6f12c04f0]
+│       ├── claws.vxe [f74d1ec9bca121d18bdc6785229870ea4a7a35c72b356e813493bbd4eb0a1492]
+│       ├── keyview.vxe [61d2eefee28371c18521160f5f83bcefe1873871b005eaf5b32ab288d43ce383]
+│       ├── notepad.vxe [818c1b4e93aaefcb4626459e9e8cb5df3d1825d806741364196f7056d8da4b76]
+│       ├── packager.vxe [650b5cfb95604692a7d155a543bf9db135ea2ead2dbabc42fd57a212b0e0c25f]
+│       ├── smartdrv.vxe [8411b9d7522d311e4148e1c56d2d7c444ad6e9f90088dc1292c246b6b6500e60]
+│       ├── t1.vxe [0c463f995f957ed407b5337aff5cfcd800fad21ee93e6d054f23ea5742ac9103]
+│       ├── t2.vxe [c6efb8dd37aa59c2a54664e6e862422a2f54f7bd66ffab198153f2b6e3908b77]
+│       └── t3.vxe [3791f370913d0b54dfd1cedd2874223f842b201b4b2506e47232efb60b819799]
 ├── 1152
 │   ├── a
-│   │   └── wci0032w.vom
+│   │   └── wci0032w.vom [3663f612dd25a3335a7dcdc6fa371e92bf9810cdaf3fa3d17aa28749bb1fd1dc]
 │   ├── b
-│   │   ├── scream.vxe
-│   │   ├── t1.vxe
-│   │   ├── t3.vxe
-│   │   ├── t5.vxe
-│   │   └── trace.vxe
+│   │   ├── scream.vxe [4e28687b701e07c37ee33115d520d15ebd6d99c3850e6281d2978c31368ddd95]
+│   │   ├── t1.vxe [f22ac57844d7d5b671b4693deda70ad05928b63b301a55e053ca345af886609a]
+│   │   ├── t3.vxe [f29beda1a5a94d36cf35d48ea33a6b308a96d416b9d71bd10d7b8d9dedc6ee6b]
+│   │   ├── t5.vxe [fd1637976de625c00db73d3362dc876ab327dffaab2621f317564fd678f874b6]
+│   │   └── trace.vxe [a4150ac73f35a5fac54444ce06bc994fd3f9ce87f51b0bb59398cd4990d6e4a7]
 │   └── c
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t3.vom
-│       ├── t3.vxe
-│       └── virus.dos.werewolf.1152
+│       ├── t1.vom [6bb0fac86dbb5f0945544d52d14e49dc2b6bd1f23fcad337c006133d23711027]
+│       ├── t1.vxe [70d090a40591401c8abf7a6e646ae14df69a190e96e7f319caaca3fa422cef4e]
+│       ├── t3.vom [38ef3dd6e8747365c2e8880bb5d56b5d92dd332caa700cd81dbb57895fa89164]
+│       ├── t3.vxe [e318c1ddb5af18789afb0ef2fb1fa797177f8e6e556eea6cf6fc961882ba5111]
+│       └── virus.dos.werewolf.1152 [c019d84738eb35624a285bfe928fbb95a14b21e739f4cea38be3665a2f4238ea]
 ├── 1158
-│   ├── scream.vxe
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   └── t5.vxe
+│   ├── scream.vxe [5d2f6950a019dccde34e57a789c4e812a198f374f1f01e30b89657612506f993]
+│   ├── t1.vxe [5170963926c414c2927371f65d34ae570c02194c893c71ce30d14f7dc1cd27bf]
+│   ├── t3.vxe [6b9c49754c497758efce957595d39a410a31d68034c821af8f3af64fe6b42240]
+│   └── t5.vxe [b22747fc5c6551e0e59e6b8e697d7dd613b90853b4407874413c1ae05132f106]
 ├── 1168
-│   └── warewo~1.vxe
+│   └── warewo~1.vxe [4c418630a5d186c7a154bbf29066e9449fd7d63e12fbb923ee698c820873655a]
 ├── 1192
-│   ├── beast.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   └── trace.vxe
+│   ├── beast.vom [55236a21b29c405b2c705aa623302c139b0f0ce76f261e0bd8f42cbe91b68b66]
+│   ├── t1.vom [2b530563e82e1ec8f9e6c2e5a94a230840bd246efe53c1726dd745fba479ec8d]
+│   ├── t1.vxe [c467c4dbc723a7b290217d696b77c1ed97d7b7bb9f8f5633084e276e379d1335]
+│   ├── t3.vom [23414e2558e8a30fde4782c7c9e7b98720e5afdf93393bb0ba4ce55cef2d7991]
+│   ├── t3.vxe [599626629a53282642fd2a22d70b1b1180446a16fd0d56eb2d6ee2a1ed22f232]
+│   ├── t5.vxe [b873cc2c9f6569987cde291697e499fdbb5687d3e690e0ebeec8f35127a0318c]
+│   └── trace.vxe [1abddba6fc56d5fcd0317107947315277eea84c21b91cf8ceb475ff321e08b1c]
 ├── 1193
-│   ├── beast.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   ├── trace.vxe
-│   └── wci03204.vom
+│   ├── beast.vom [7970c116a64e49152d040bee6a08e4415afcc0653966c4e47a169c3300d770e3]
+│   ├── t1.vom [887632b69e30abc4aad0d6e830df41b909b4b7fc1ea43216f798a6d727f4bcf4]
+│   ├── t1.vxe [e11331c8daa7d5e620c1721746b060d6a64fd6f9effa248eedaf88d093ee46a9]
+│   ├── t3.vom [d8fe2f3b78645677df555b32417cf78ffa89f72a1c9aa67829130801fc01208b]
+│   ├── t3.vxe [4b3f7622007cca09e79f6508b18819d12b033e08dbfe43410fcb9cab9573390d]
+│   ├── t5.vxe [3e459a4f21e719d43ed56b9387ef125f9ca2abb898ca9c0705f6b3911824ab50]
+│   ├── trace.vxe [129afb94a4ebb2930bc60457945145fca91c27237a20ff7c3687c20e4526d954]
+│   └── wci03204.vom [c96485ce266ddc1353042a947dbe068f6e9ef4a9c3dc0e84bec4354859abdf6e]
 ├── 1208
-│   └── wci0030w.vom
+│   └── wci0030w.vom [4450e51147e0a0be2205e1ba7c45524ded760e02fb93a3b132c28647c61c580d]
 ├── 1361
-│   ├── fm.vxe
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t5.vxe
-│   ├── t6.vxe
-│   └── trace.vxe
+│   ├── fm.vxe [14da9013fb6353fb06f86cffc0796d30f6fa33df5f417842d95e08c8c74f3ed8]
+│   ├── t1.vxe [042e74176da39a79b489be01ab276a38df3bfdede260aaadd290405c3dc27ede]
+│   ├── t2.vxe [0d5117c81909f9c68f95c9a57a977e8fcbe747742c20565cbe803967e91261cf]
+│   ├── t3.vxe [e6e6410e2e5937fd8998264f355fa2880c562257cce3ce5dd2b669599455cf42]
+│   ├── t4.vxe [062d6efe13ab67345b1dfabbd30bf35bebf6b90084db7a82ddc410505db595d6]
+│   ├── t5.vxe [06a969bf22e980d20e5009c70f12dcd4713a43e7f058223dc6eaf69321ad84a2]
+│   ├── t6.vxe [0345b490a4aaffdd1a9ef548552fe214e69b8870b92379797a9ab8c1ef60ad55]
+│   └── trace.vxe [36f12f86a3a890d362df763ff672e95d66d0d4599999fcc62d21813e34e0f7df]
 ├── 1367
-│   └── first.vxe
+│   └── first.vxe [ab96db12c9994c8ec4bfe666bec98999c7548c97dd4b91cbe1a0af1b3fad88a3]
 ├── 1427
-│   └── virus.dos.werewolf.1427
+│   └── virus.dos.werewolf.1427 [de24b6ca3879a067fcf19007e767384ef843f5734ab52d7739ffa40f2118a934]
 ├── 1450
 │   ├── a
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vxe
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   ├── t7.vom
-│   │   └── wulf2.vxe
+│   │   ├── t1.vom [8d4ba8a8095301f89a427b9d8d118a20b5831dd1e02403d644f30c1018f34747]
+│   │   ├── t1.vxe [6c322f38b0beffdc65dcad34764a85e5f2c150279e5015d9a63d58f27dc307f8]
+│   │   ├── t3.vom [b11d410292a87f0652966fe46d479458b522074cffabc109cdab995af004562f]
+│   │   ├── t3.vxe [e6fffc41670d615fd1ff22ec7b8f5da73cb6c222e4e3615b098f21f8051ddd4a]
+│   │   ├── t4.vxe [c4db48baf0c56fb3946052c2b19f13bb4c2a46f43ee2fda647ad995d76fb0ac9]
+│   │   ├── t5.vom [1938dd6fc3c8bef910067f561a2d7697f9008d52f6221d24ab6135b8652ab7a7]
+│   │   ├── t5.vxe [30ee4d42f83ffa12fbf135a6f351ab2de1c8af08f3675222b20431e95e8a4bdc]
+│   │   ├── t6.vom [7ee56cf766d080a5c4a1cc7af2e1e1df47ab0ee25037e0bd190fabb5e4d9bc28]
+│   │   ├── t7.vom [e678fcda81bf2fe147b604364b62b919b96286e43c89bd66c3723bc44bd9c2af]
+│   │   └── wulf2.vxe [df8b9efed9a53636cd868aa7b621b3884f57ecc08759710cef8f375b9fed3dff]
 │   └── b
-│       └── virus.dos.werewolf.1450.b
+│       └── virus.dos.werewolf.1450.b [8d6bba998025c01d4960012d2c44529c333a913cefb67713070c7d4e99389489]
 ├── 1500
 │   ├── a
-│   │   └── virus.dos.werewolf.1500.a
+│   │   └── virus.dos.werewolf.1500.a [98bc831da7a14d8850d6b6cf8a928fad35f00d16788d4d457713f895c531b2a4]
 │   ├── b
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t4.vxe
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   ├── t6.vxe
-│   │   ├── t7.vom
-│   │   ├── t8.vom
-│   │   ├── t9.vom
-│   │   ├── trace.vxe
-│   │   ├── wer1500c.vom
-│   │   ├── were1500.vxe
-│   │   └── wulf.vxe
+│   │   ├── t1.vom [a2277e3e6a15530770f2507b13f228b48cb0ff22a91b53096bfbee91981f2989]
+│   │   ├── t1.vxe [f8df1904959cddcef97ac07c624026d1ba11126793d4f5e364990f18164f11e7]
+│   │   ├── t10.vom [da775f17c6bd457564e8cf2692d1c42c8d94ecb6fba51edd519424badaea753a]
+│   │   ├── t2.vom [d9f1c70e8874fddbb8a1c95e2a03239518f4bf6af61878c196b8cbf439472f91]
+│   │   ├── t2.vxe [38931ed31fa978614bf455c2a3745116b18ec5286ccff83b0f1043c3ebd4c39b]
+│   │   ├── t3.vom [bdf2e988be1fec792f6820e0c2af5c7ca25fa37409df8994fb368e19b35cb879]
+│   │   ├── t3.vxe [f153cc25c57cf05095b733dc6251b55ef8a7d62598e0ecee4ca4350d7d13ac1b]
+│   │   ├── t4.vom [1ec2609ffe63c35e871c9d3ab17f05666e6271242648ec04c5ef3ec2d3afeae3]
+│   │   ├── t4.vxe [9ea5f76018b8f5cdd356e539313565b2fb089c3288fc7f297bcf19e4cc7bed46]
+│   │   ├── t5.vom [54a2100c4fdd830eeaaa13673b5ea8369d7955f375d3a6aea45a04cb0b7c2064]
+│   │   ├── t5.vxe [1006179f52da9c8e670255a7381115bda563f429aae5fd61392592be63a5abe7]
+│   │   ├── t6.vom [785735f4dd34044ce507057a0c746d8701aad920038d63670aa3ad6a3335c8cd]
+│   │   ├── t6.vxe [07f84dfa42f5bd5d137d1143712c7defa40835759488dc9704adc7e0f3f0e6f1]
+│   │   ├── t7.vom [c9908fe16138e2b6a97de450cc3bdd8248a627541b99d208fad3742e824b9d8e]
+│   │   ├── t8.vom [e2cb925e39bd9e56a3b1241f11d02d3931db7c8319079d39e465351b56c52f05]
+│   │   ├── t9.vom [db53dee494b46c7b5948097e309497bf9ac9aa9714a7c2a7b334ed0717b20a32]
+│   │   ├── trace.vxe [4a8295331282514ecdf5764d41ae8a189c4b2aa1f3f78bdfdddc9bc8a2a5274a]
+│   │   ├── wer1500c.vom [fac22415ec0ec4cf0ec1b1aad93f1e1ba8a21c9940d16311718e42d31fa4cf15]
+│   │   ├── were1500.vxe [8a148a2f5fab29e66562d25cf38f59ffb433cf011d8ef50283e7283dc74c0225]
+│   │   └── wulf.vxe [2b7e2e8822992b47d69faa2ba003db5f398e0324debc9b394d8eef244c615af1]
 │   └── c
-│       └── virus.dos.werewolf.1500.d
+│       └── virus.dos.werewolf.1500.d [a0787bf594184c9d37a1d262b46fee32bf921fffe3c5ddffe73c92407d33d269]
 └── howl
     ├── 2660
-    │   ├── 1-we2660.vom
-    │   ├── 1-we2660.vxe
-    │   ├── 2-we2660.vom
-    │   ├── 2-we2660.vxe
-    │   ├── 3-we2660.vom
-    │   ├── 3-we2660.vxe
-    │   ├── 4-we2660.vom
-    │   ├── howl-bta.vom
-    │   ├── howl-bta.vxe
-    │   ├── t1.vom
-    │   ├── t1.vxe
-    │   └── t2.vxe
+    │   ├── 1-we2660.vom [13dd31042aa98b0e7ad6274cfec1525192d2f56c574f6d1f97d5b43200a287d7]
+    │   ├── 1-we2660.vxe [f977fa6d9722e7a4a558009f3de7cf3b5e678514c20b9f234878589a398d1dd0]
+    │   ├── 2-we2660.vom [f52ad9a29c19ec3bd542c89d6076227963794f1ffca9ac3772ecf2bd3620b325]
+    │   ├── 2-we2660.vxe [d2541ed27d9759f10af961ea3221d39b123d4952c5eef01757c9fafd8f02cfa8]
+    │   ├── 3-we2660.vom [0ed2d318de9d43980438457ba339dfaa950bcb290d71bf006e5eada7316b9319]
+    │   ├── 3-we2660.vxe [1bbbe021a8be0ca6f5a4eb9175ef6f525a28b3c19e3a29382d385a98d3bf15cf]
+    │   ├── 4-we2660.vom [b153273f55ded0bdb8b0397e841f21662fbfea08c2790557ff98db450dc85e32]
+    │   ├── howl-bta.vom [3a837ce1fa2389ebe6c17a0eb0c959b89530a9d0b3c9feb6db06108786e97ace]
+    │   ├── howl-bta.vxe [03687bb9e700f1c60f9670894a0dec99b04d5e1c59b59cf42a9a177db5b8818f]
+    │   ├── t1.vom [b920a584a146bbfc152e4c463d335f0f14e218f99ff910d7650bfcf5f7fdfefa]
+    │   ├── t1.vxe [4809a3a29a783761c4628e2343c38130072a2e5cdc665199e1a0886024552353]
+    │   └── t2.vxe [d1dfc34ca07640d540e952ce201bcd6e4abfdc686ade6195cf4edbca5cd56e5b]
     ├── 2662
     │   ├── a
-    │   │   ├── 1-ma2662.vom
-    │   │   ├── 2-ma2662.vom
-    │   │   ├── 3-ma2662.vom
-    │   │   ├── 4-ma2662.vom
-    │   │   ├── howl-bta.vxe
-    │   │   ├── t1.vom
-    │   │   ├── t1.vxe
-    │   │   ├── t2.vxe
-    │   │   ├── wav2662.vom
-    │   │   └── wav2662.vxe
     │   └── b
-    │       ├── 1-we2662.vxe
-    │       ├── 2-we2662.vxe
-    │       └── 3-we2662.vxe
     └── 2845
-        ├── howl-bta.vxe
-        ├── t1.vxe
-        ├── t2.vxe
-        └── wav2845.vxe
+        ├── howl-bta.vxe [c75e61864b9eb7d067b77e6254336b5829035895df4c6530f2cfa62503dfb8b6]
+        ├── t1.vxe [192d725d4e2444561e16f74b414f8c64e633113e234668b47cc7a9d8e2128a56]
+        ├── t2.vxe [123ea07944f3bd3f802ff0097e5f802efbf13df18a054a9a3ad355bc341aee3c]
+        └── wav2845.vxe [e58a2608bfc6a7ebb125c1775a16ee8ce147cae30dae35573dcc1ff075c3c104]
 ```

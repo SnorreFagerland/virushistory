@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   ├── d1.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── v2100.vom
+│   ├── d1.vom [f260b740a063aab66fd60748ee964a6dec5069a612fa10181240488154584a60]
+│   ├── t1.vom [cfcbebb5af73926563f440eecfbe1c3abeacc0e46e09250431d1a0fe1b22f957]
+│   ├── t10.vom [e52ceb4e441e6f81ca84b15136e0a502ac0be9fc5315b19edfaf64aad8fca7f4]
+│   ├── t3.vom [e7700de868ecabea44c4d27d6ca9172b012ef00292605ad247f554459b67223c]
+│   ├── t5.vom [700de5567a809afb337463af3fc9c27a45c6227893d8064881dbf8df70c80aa5]
+│   ├── t7.vom [d56a129a7850c51db652edf2c773fe02cf780fce266a60e95daa8f1df2ec3899]
+│   └── v2100.vom [8988775d527a5340d6b594c276046d82bf0c831661eb1da98c341fca7bdf72f0]
 ├── b
-│   └── dos.184.e
+│   └── dos.184.e [f91fd9bbc010cd94797c382de7fbeb3fed2fd93cb6e9a10b75b1f3125314bc6b]
 └── d
-    ├── dos184-d.vom
-    ├── t7.vom
-    └── tf.vom
+    ├── dos184-d.vom [296f4bd62737bf19020369fa981fa378b1a21f811573cb64c23772a87d192e29]
+    ├── t7.vom [1183d3a5eafc32f7e83ff71118e8b70e3076279d31d1ad597b45ac8e0c7dad50]
+    └── tf.vom [ea95b661e2673dc3b6f639d8d7a3c4d070491afec488dbafb0d43c24e68659ed]
 ```

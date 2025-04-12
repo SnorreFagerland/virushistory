@@ -3,58 +3,58 @@
 
 ```
 ├── a
-│   ├── duwend-a.vom
-│   ├── dwnd409a.vom
-│   ├── keyb.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   └── t3.vom
+│   ├── duwend-a.vom [f6ee13f48fda8f03cee2aec842ad1f3d629693efa59dd8a185af07c3f1e273ca]
+│   ├── dwnd409a.vom [aea89cc99f165316b543204c2ba770955fce3259efc1c69be7e97559d609ef94]
+│   ├── keyb.vom [18b48a2391fc4add84f9e19389124ac8257fd9fbdfa5cf596f773c9a923c4cf9]
+│   ├── t10.vom [be7d7f0c7c29adbb63fa025c3b092e9636faf17f748a33f7dc943d9d45f72888]
+│   ├── t2.vom [13512bf415189499efa39f6ddd25035bd17e7dfffa2e59dd51ac1f252aa2231a]
+│   └── t3.vom [aba5669431b6afbee72b4406398b32e71e4459b92f1b57bea65a154aeb97cbf8]
 ├── b
-│   ├── duwend-c.vom
-│   ├── dwnd409c.vom
-│   ├── keyb.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── duwend-c.vom [ef6d2f4beaceefe6e5ca27bd0efaf9f4ff3c5425b26084a0940353c4c708b4c9]
+│   ├── dwnd409c.vom [803cbb1dfcd3e042051a15dbb8fbf66b11315588f5bb324ebc67420a58e37242]
+│   ├── keyb.vom [8f04e7d3ee6ca23d33fcf0a4c371f03882bf09c87543d0f10bf9e1904173a48b]
+│   ├── t10.vom [cda887fa25f1e5d63367c87ff2efcfefc327e6fa95ead525109ef6050ae9e612]
+│   ├── t2.vom [29eed25a0130693c5019386b5d5bc6d569458cfc55fc19fe10605e5e5afe2898]
+│   ├── t3.vom [a3b8ee86dd59be8f6ee34a8e4b4dfecfc5ed98b7b1a5b00f7b6626670ee1e64e]
+│   ├── t4.vom [29861fcea4ec9d84b392ad165351b3831cc5d02c36cd393dc3c38557a8e8eba7]
+│   ├── t5.vom [219c7820c3c213460aeb52ee83a8fe5103416cd4e54bb5b9f14ac6c8f6cee42d]
+│   └── t6.vom [a95fbd3f09b001905369cd6de70e382a186f5797c9e2ad3ed24b5c350dba5981]
 ├── c
-│   ├── duwend-d.vom
-│   ├── dwnd409d.vom
-│   ├── keyb.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── duwend-d.vom [4974c9b0b27691efb13379231444d776376b45f501cee581ebcc7ca9b47adc55]
+│   ├── dwnd409d.vom [d00ad682144c726aa0eb53e507282c69640f1d82889ba21b9a17c0232b78b824]
+│   ├── keyb.vom [7975d232513d0085f3f56c5dbd3486f11dfde69c6fd7c825bff036e029546abe]
+│   ├── t10.vom [8063c031182ae405f46f6308c2020c4eb4f9d7a1a134920124c26132bbbf1a0f]
+│   ├── t2.vom [9883f15f6796beacb7ccc0b7d0314aecd5686389dd3991694ba31fbe63553f04]
+│   ├── t3.vom [a54c0df4a53a7afad6c1ee5bb74f23f6f8d55eb58bfb8833f1ab8ecdb53ab09f]
+│   ├── t4.vom [da6baed6c72b1f590a5b58059b71f2e84834c5e5a819bb6436752247b83b3d45]
+│   ├── t5.vom [b6a9c67546a98df8f14ef7f47beb8846ba5e78d22faddff422d243efa5c7d0ba]
+│   └── t6.vom [d486dfdf2907a239b4c15464523ed46c05090bdb4b725c534fa1a9f0d9df7b01]
 ├── d
-│   ├── duwend-e.vom
-│   ├── duwende.409.e.vom
-│   ├── dwnd409e.vom
-│   ├── keyb.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── duwend-e.vom [7f9a9138e50a69f8092d6d67ae5aa6c4e2c9df3ff2f59d6eb9c0c1f0281c11b3]
+│   ├── duwende.409.e.vom [376c3ba184eb76053e26541f98745762b2fe3c6d66eee1a3e8d0c60c7363928b]
+│   ├── dwnd409e.vom [6046745a061307a083a3931a719ab6b13049538d60a7e35443c86178e0e045fd]
+│   ├── keyb.vom [a5465643ef0d3d8d315c100350d69c511ee026d89d0db0dad98906b2f5d342ee]
+│   ├── t10.vom [567ef1431788576a07b99591ba552b9ece4f65ff6e69a3f9cb546010013b6fd2]
+│   ├── t2.vom [55bf45551f787b484b1c560346148749822bff608aec15137cf2f7c204c14526]
+│   ├── t3.vom [693e8fec2800f6c9738c314f16acf4247da69b5c0d8f8e08e229a8e08636ab06]
+│   ├── t4.vom [5e242b31e9c75c36a9c463ab275b7394217ad4f76576572e4bcf49a7c7a06696]
+│   ├── t5.vom [975b07f46b7309179fe125a66ede824f4495b81bb4de418d8c3f55c143799b57]
+│   └── t6.vom [e68bacc2d298de07bf4508caa610e35bd0a9133bf859d3d21f067251c148180d]
 ├── e
-│   └── duwende.409.f
+│   └── duwende.409.f [bc54c51e283bc3f94d07978535d84eabc50f81e4980cf88e332fae662ad60f39]
 ├── f
-│   └── duwende_.vom
+│   └── duwende_.vom [9db49f3639576de44382b3a2b5f0545bdb5fbec0cbc7547bddf841629c6b7462]
 ├── g
-│   ├── duwende_-001.vom
-│   ├── duwende_-002.vom
-│   └── duwende_.vom
+│   ├── duwende_-001.vom [efdb6770ab1fabe1e84b81eb6c03406810964ed3d495dcd76a025d8efe9ec809]
+│   ├── duwende_-002.vom [bd2507d1bda2f7b64a76178090321d56760e9b0b1822071a3c6ca1ca4e94d224]
+│   └── duwende_.vom [8920eacb4e09299e538f72bb321eb5baafe01ed2e5a228392b2137fd66a3b140]
 ├── i
-│   ├── duwend-b.vom
-│   ├── dwnd409b.vom
-│   ├── keyb.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   └── t3.vom
+│   ├── duwend-b.vom [f3e0d1ca2778394252f312d427a15bf8b3f439f32850904188001332fd44b965]
+│   ├── dwnd409b.vom [a96e8777f06ab529af47264ab7444ec8e39689481035d941756d77b187650892]
+│   ├── keyb.vom [921117605a92d2e7802f8e599e49729db131441fb9756e42948e3994bccc1d33]
+│   ├── t10.vom [f639aaa9d45f116f1e2fad2c57c628c5282b9ea71425793a090fedfaea6b5685]
+│   ├── t2.vom [8fa447771dd1f63810c363138a77a3fe45b10057845b94135ac0f997ddc7bd90]
+│   └── t3.vom [7a4ad376e4305380af748dc4b372fe30593244d0c24c027b6f1f51a9be926f42]
 └── unknown
-    └── virus.dos.duwende.409.h
+    └── virus.dos.duwende.409.h [d7cc9057fd8e70e30e83dc05ed39c6f712547fc4cc4b19a11c7b29a30820c331]
 ```

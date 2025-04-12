@@ -4,27 +4,27 @@
 ```
 ├── 1865
 │   ├── a
-│   │   ├── hymn0002.vom
-│   │   └── v3165.vxe
+│   │   ├── hymn0002.vom [ff42fc8bc1d8f766117d0eb44444ba7000c102e8d873a10dce09692d0c12da6a]
+│   │   └── v3165.vxe [727060df28d78483b8e179deef248ac8cf54a2de6021e00b92193cb8666de4d7]
 │   ├── b
-│   │   └── hymn186b.vom
-│   └── mystery.vom
+│   │   └── hymn186b.vom [77e13dbf7d84237dbeba15869389ddd721ba611565797740a8db252c5d4003bd]
+│   └── mystery.vom [bb4b9bddc225aeffaa6e74bbfd7e717c2a497ac97569834034bd6ca280b8712e]
 ├── 1962
 │   ├── a
-│   │   ├── hymn0000.vxe
-│   │   ├── hymn1962.vom
-│   │   ├── hymn19~1.vom
-│   │   ├── hymn_sv.vom
-│   │   └── hymnp.vxe
+│   │   ├── hymn0000.vxe [bbf3b80bf64520a305f3884bd651db035599373fce40e8da07cd38b6f45952e9]
+│   │   ├── hymn1962.vom [cbd9afe2d9d1800694534504ee7055aa4b24601083301938559c78c3abd039aa]
+│   │   ├── hymn19~1.vom [fee3ec9bb72e72e54af8cf076e50eeda62a280c26fce90cfb7ead7ee751c145b]
+│   │   ├── hymn_sv.vom [f068c16690233291f72680223daa4eb1c2ee09b3755cd01675df6e053da9efb5]
+│   │   └── hymnp.vxe [da5346de97b302a020f78b21177135b6241d05d37880243a65d2b478c6541ae2]
 │   ├── b
-│   │   └── hym1962b.vom
+│   │   └── hym1962b.vom [f219909b20573eeafad89c896e2a13a3532ab265c2fa9119ad3a4ae07ada10fc]
 │   └── c
-│       └── wci0275h.vxe
+│       └── wci0275h.vxe [5d6863f82d9bf75604a66f16c3dda8e592a05a17d49dfad724f8a19a8779df1b]
 └── 2144
-    ├── _2144.vom
-    ├── _2144.vxe
-    ├── hym2144.vom
-    ├── hymn0001.vom
-    ├── hymn21~1.vom
-    └── v3150.vxe
+    ├── _2144.vom [a977c59c6b4b7ae5c41e507b7ba20450e3e51e8df4692b0e0631d01af91bce2e]
+    ├── _2144.vxe [1eea99111c29ad70ce640fd2f704cabb354087e6499f0070901db8bf1190353e]
+    ├── hym2144.vom [073975ca880040d3eb9f3c7b727516a68a61abf36b20056a2995f24c22301492]
+    ├── hymn0001.vom [5173726bcf47bd011d8d161a6de5f2e7d0b5359199761eaf0bdd799e0bdc4204]
+    ├── hymn21~1.vom [e319bf72430cc65520f727dea6e0dffa718d217f3aa524dd1ddd254d32e027e2]
+    └── v3150.vxe [09c2c10d87894db97c1f94b1983d528c7169a1ef92f4d714822be3f875409dd0]
 ```

@@ -3,77 +3,77 @@
 
 ```
 ├── 0505
-│   └── virus.dos.wit.505
+│   └── virus.dos.wit.505 [812ebe2a6c02c136f402d560b75ef46e8dc8cd27903b0bb3e5f8cd2964433271]
 ├── 0542
 │   ├── a
-│   │   └── virus.dos.wit.542.a
+│   │   └── virus.dos.wit.542.a [22a290a11c35e27eb4220bdf1f87beed2b07cc6ac54bc3a7c862fd4cf7c3d6ba]
 │   ├── c
-│   │   └── nore542c-1.vom
+│   │   └── nore542c-1.vom [e0a0a35278bdda97603d590d3489c7a4cae997f0123f5d7f433c1bc602cc0754]
 │   └── d
-│       ├── nore542d-0.vom
-│       ├── nore542d-1.vom
-│       ├── nore542d-2.vom
-│       ├── nore542d-3.vom
-│       ├── nore542d-4.vom
-│       └── nore542d-5.vom
+│       ├── nore542d-0.vom [c3d5c72e4bcd5d5dd4c3d2724268e6f4009d70495544c9278ad7827f7149928f]
+│       ├── nore542d-1.vom [6fe3b34d919d153019fa099eab37e542e5e7b41f04694d175232b22ec528e462]
+│       ├── nore542d-2.vom [1546f48c99285ed7428f7e945f448539c6a544d511b25254b550629a5eb940d1]
+│       ├── nore542d-3.vom [bb979e4b689b4d8a7676ba37ebc2cb437455c187e77f0e1643cdc48bb7077254]
+│       ├── nore542d-4.vom [9de5e8a0b09e2a140577d4044f59b3f2051d86459dc2d7ab9ca0684e3678660a]
+│       └── nore542d-5.vom [e5dc1f5c3840606b858dd4712d7addde60a101ddb3aaacb881912b621aa9dc3d]
 ├── 0551
-│   └── nore551-0.vom
+│   └── nore551-0.vom [1494635246be38b38c058153bfd91e4347f51e35b29bbca35a2465a80973a2ff]
 ├── 0554
-│   └── nore554-0.vom
+│   └── nore554-0.vom [833faf272bd4ad7534820b24380403f2627a1746b45b0b973f291a9962433906]
 ├── 0555
 │   └── a
-│       ├── nore555a-1.vom
-│       └── nore555a-2.vom
+│       ├── nore555a-1.vom [b08796d5813e8f940861c068bde8e8c52f2f0ddb700e6d0294df2b2938764154]
+│       └── nore555a-2.vom [8eeaa09fb2aa83d674874372dba344bba525e2dddbb5615615f4a71c9b647763]
 ├── 0556
-│   └── virus.dos.wit.556
+│   └── virus.dos.wit.556 [0b062c4b3bd9a4d158e0fc825b112ab62c7bd5375dd2eb1bf95db83d27b34757]
 ├── 0564
 │   └── c
-│       └── nore564c-0.vom
+│       └── nore564c-0.vom [40985ad32b775214441eb37dfe2a33d73c37b085569c8b8fd3e36a1d5753fed1]
 ├── 0588
-│   └── nore588-0.vom
+│   └── nore588-0.vom [980cd2249d572b53e7e1d7fb2ff5c8865809eded005418835b3179cc973f75c1]
 ├── 0590
-│   └── virus.dos.wit.542.b
+│   └── virus.dos.wit.542.b [eb606755082e59019992bc895a770634b1c1c8d38e402c42806f704e024a1c8b]
 ├── 0591
-│   └── nore591-0.vom
+│   └── nore591-0.vom [cc03093eb73e37efa319b679d86040685417c6069818804dafd3b6b235c4f154]
 ├── 0592
 │   ├── a
-│   │   ├── nore592-1.vom
-│   │   └── nore592-2.vom
+│   │   ├── nore592-1.vom [7f7c3b484cb541280e1601372fdd6760eab846c41203fa96cea46889d61bbbdd]
+│   │   └── nore592-2.vom [42761ed8f801f87511a9f52a23962693dfd9444d0d2a7ae79ea1419addd3eee2]
 │   └── b
-│       └── virus.dos.wit.remor.592.b
+│       └── virus.dos.wit.remor.592.b [2fd308f2aaf3e60d45ab7082af067df25165a7a7e82e711d41791d847ee01813]
 ├── 0595
-│   └── nore595-0.vom
+│   └── nore595-0.vom [2bc37c59d4e40e573eaa62492feec97fbb6fe85f71f82bc2a6a13ef29f60b6a2]
 ├── 0603
-│   └── more603-0.vom
+│   └── more603-0.vom [4424717f51f47a61f3d69d67dc77c9dbee6f1db21e52d8ce00ef375bec1bf2a1]
 ├── 0612
-│   └── nore612-0.vom
+│   └── nore612-0.vom [b3dfc0edcee3c0b21670384c3b7ddd1dae09c95eb2a4dbbc2fcec75949a431cf]
 ├── 0614
-│   └── virus.dos.wit.remor.614
+│   └── virus.dos.wit.remor.614 [97cc00ac3e6e839746e1e8658a5b5c025622226147b6815f31439ea6a97f8dbd]
 ├── 0617
-│   └── virus.dos.wit.remor.617
+│   └── virus.dos.wit.remor.617 [bc14c83c793186349c8834135c5908c7008b1e992aef2993cb9afe5228ea53ae]
 ├── 0689
-│   └── virus.dos.wit.641.a
+│   └── virus.dos.wit.641.a [b2590aa517f7f5573a5c1b01525aaee6ee5c2f03414593066a4b6fdb27fe493c]
 ├── 0691
-│   └── virus.dos.wit.remor.691
+│   └── virus.dos.wit.remor.691 [79455bb4419b5acb0035bcdebd55bd2265e444d733bdbd118816c7a576e6388f]
 ├── 0694
-│   └── virus.dos.wit.remor.694
+│   └── virus.dos.wit.remor.694 [c8af535ad11d6c18cc7f714356751bf863bc2cebb91ac2a4c1e59507d3635a1d]
 ├── 0905
 │   ├── a
-│   │   └── virus.dos.wit.remor.905.a
+│   │   └── virus.dos.wit.remor.905.a [1331c0beb7ae41cb7714c9d532a203d04311909955bdd1b8274d4554cd9ca452]
 │   └── b
-│       ├── nore905b-1.vom
-│       ├── nore905b-2.vom
-│       └── virus.dos.wit.remor.905.b
+│       ├── nore905b-1.vom [a5c347d0dc77a6e70fa33f20876208ebebc485d4c2a2b7cbeecbd4212dec6081]
+│       ├── nore905b-2.vom [28adc7dfdcceb9daf67bb29a1d17ba26ff04d8326663b00c433333dfbe658be5]
+│       └── virus.dos.wit.remor.905.b [8b22f4f82eef94aa3b31a3f5a468b5077b4940678b310cf61152545656180a61]
 ├── 0910
-│   └── virus.dos.wit.remor.910
+│   └── virus.dos.wit.remor.910 [1ead8234d51a5b146dd87ec367c811660e706055363facadb951f6d70144c99f]
 ├── 0953
-│   └── nore953-0.vom
+│   └── nore953-0.vom [f0bb54447469aff831b89a3f18f0f8efea4bff0b0710f40a532a91be747fbbc0]
 ├── 0955
-│   └── virus.dos.wit.remor.955
+│   └── virus.dos.wit.remor.955 [fae6790864d09d6539d55753cb83ab0730c10446d0e377d72b01f244690c72df]
 ├── 0958
-│   └── virus.dos.wit.remor.958
+│   └── virus.dos.wit.remor.958 [738bee97c64d73ced8e80543e1385072d5c72e11d1ee399e4a052214a2dfafcf]
 ├── 1272
-│   └── nore1272-0.vom
+│   └── nore1272-0.vom [41ecb8cab4cdf46b3f70f88dd0631542f7a2c0775c38abd70a9072a6183fcdbc]
 └── 1326
-    └── nore1326-0.vom
+    └── nore1326-0.vom [201a7954b1bd1e9a223b344e2c9842d52399210f9391b9084fce466834fe38ad]
 ```

@@ -3,14 +3,14 @@
 
 ```
 ├── 691
-│   └── virus.dos.komar.691
+│   └── virus.dos.komar.691 [4baea5420202200d2105950a941ab286f46e92ef0407b1929b226f4e7713ce68]
 ├── 692
-│   └── virus.dos.komar.692
+│   └── virus.dos.komar.692 [2cf7e80f822ccb029e77c4fb1807eac65eb23400f88a79187346a94b115a4203]
 └── 817
-    ├── aru817b.vom
-    ├── arus-817.vxe
-    ├── arusie~1.vom
-    ├── arusk817.vom
-    ├── pp2trn.vom
-    └── virus.dos.arusiek.817
+    ├── aru817b.vom [e4ba90cb7416aa14bb6fdfb4dce44cb5f9578530557080d1f80fe0cd0d35890b]
+    ├── arus-817.vxe [22d3437d4424b285770af2802abb54bad0f45244dd672e97813d7164ae1b869a]
+    ├── arusie~1.vom [6de8435fa1cff81a50135caa084d2e9f0516e551eb049bf85a8ac12a5f397c01]
+    ├── arusk817.vom [d601369e7271b5a961b47938a94b790210ada804f4eba053dcd2f626555740ba]
+    ├── pp2trn.vom [7727b7072bd73195d1b3ecf320cba76d90716e474a55eb0598334449206c2d08]
+    └── virus.dos.arusiek.817 [9aab56168aad2e7facf1307a3cc247376f4c6e31e544117c5314acde8cc89d82]
 ```

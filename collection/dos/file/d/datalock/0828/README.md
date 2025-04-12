@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   ├── dat828a0.vom
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t5.vxe
-│   ├── t6.vxe
-│   ├── t7.vxe
-│   └── wci04443.vxe
+│   ├── dat828a0.vom [a4a15b513b3aa5eae53585ff0b6ef470d91fad799c9da5d54112b5e889ec8fc6]
+│   ├── t1.vxe [3489bf06c40edfe745b1fa5d947c38f5d61671a6c5ec09101db993d98aa20afa]
+│   ├── t2.vxe [efc9f3d3797d433b79f1d7ff65ffa387a335ee6d7a3f77354e5265f74358bd00]
+│   ├── t3.vxe [0595e44b041e18c6cd81ad6db14d1f2ffb2e6fb7eff7fa742d24320a35e503be]
+│   ├── t4.vxe [a48b6cd86e07fb5036866e49dcc793a41a80a5d75b40d67d6654b0f019b4a2ed]
+│   ├── t5.vxe [cb9423e77488714bd79a4c567bc9859075ff805a8f5d54c9ab2fc17bba88fc55]
+│   ├── t6.vxe [40d24d6fd7c8e0ccb02fe8915352ef0828d82cdf9561cdfd42021260e7c3b057]
+│   ├── t7.vxe [2b788f306e7117a2326f70b429008394304d9305d0a9b05bdc7bb25ea68c4e7a]
+│   └── wci04443.vxe [a1a6c2a6762cb97997a8c724eb597fe30eeb22414472adb0cd75de67ab446238]
 └── b
-    ├── format.vom
-    ├── lwm.vom
-    ├── mode.vom
-    └── wci0144d.vom
+    ├── format.vom [6ca86bca57459f449af4733fae5ccd3f189c143831283fdfc443a71b65208000]
+    ├── lwm.vom [d42f9caa6dd732bc0117ed95943f9bd91b66f41c722ae0f95aafc596a7b51b0e]
+    ├── mode.vom [0480d8a3d7bd1f02d3fd716d8545ec4ef26d1f62b1d07697b48ced324c1f70c5]
+    └── wci0144d.vom [848275d75a762cbff00cec28add9aaf8d0405924fc7ee05599ed1d80f653be4e]
 ```

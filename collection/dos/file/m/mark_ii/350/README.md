@@ -3,20 +3,20 @@
 
 ```
 ├── a
-│   ├── markii.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t3.vom
-│   └── t5.vom
+│   ├── markii.vom [56783447527f87910b567a0525bba4dfd415c17ade210ded8a7b8afcd2777b98]
+│   ├── t1.vom [f66183563544152d4eed8597060cecfed1131f766d24aa458bdbb0cbf9c7b41a]
+│   ├── t10.vom [ef75dcfcce1c4d5011ea0f80485e10848735e907e9eab4da490d5897eec1fa54]
+│   ├── t3.vom [c93794a07a88556bfea24ada35415abcbd3ba70cc6ced69d0f3130378c38cc62]
+│   └── t5.vom [6b720c9e6e447bb4666566409efb31cdaaf3c5eeb33a965f7f8d6235669bbb90]
 ├── b
-│   ├── sear350b.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t9.vom
-│   └── wci0076m.vom
+│   ├── sear350b.vom [6db202b95fb536c207e12fb0b5eb05e2e03f3a8e0b1afa39dcb54fafc4befbb2]
+│   ├── t1.vom [205949c046dce6992995a149411335bbc74cf6ea4bc95c2215b494b43945c25e]
+│   ├── t2.vom [734cb9fe329af01ef9465dde3f7ca18d8c6aa3a93b1fb447d1dcdac682652f28]
+│   ├── t3.vom [6f22563ae98fff213bba6a31c7f706d8bb618df1774603b2148c4158425e7853]
+│   ├── t4.vom [2410e2979370eecbe69f937231ca574ecc802fa8eeb6bed165a6c067d9871b59]
+│   ├── t5.vom [ae243a286fb888e21ae2225ac3570ea4c58802560729e67d68532816464566da]
+│   ├── t9.vom [e498813e530812cf2f247ad5e5a02ade90e299037749f69b3f61627725e59b43]
+│   └── wci0076m.vom [5082628e8b816c66bb406499363726543382371f7cf6601fc067274b5e84ffcd]
 └── c
-    └── mark_350.vom
+    └── mark_350.vom [f1388f50650d2fac75047a579781490782120b024385fc0e3a896443b3ae7ecd]
 ```

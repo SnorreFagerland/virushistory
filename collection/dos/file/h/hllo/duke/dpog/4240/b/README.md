@@ -2,8 +2,8 @@
 # Contents of `b`
 
 ```
-├── DPOG43.vxe
+├── DPOG43.vxe [90284800e750dfaf2449b25353749ed553192652af07e3072075e4b30a8e3ce6]
 └── src
-    ├── DPOG43.CFG
-    └── DPOG43.PAS
+    ├── DPOG43.CFG [97af103431def12c76100cda5a43708160a17c91416e28eb88ebbfba80dc1828]
+    └── DPOG43.PAS [c1d9bd4c723b564db6704a208dea2bd4c30eb14c5cb48bf43f875f47fd8cd2a9]
 ```

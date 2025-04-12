@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   ├── 1-hl8600.vom
-│   ├── 1-hl8600.vxe
-│   ├── 2-hl8600.vxe
-│   ├── nazi8600.vxe
-│   ├── t1.vxe
-│   └── t2.vxe
+│   ├── 1-hl8600.vom [87916677bf9b2bb47484f11f90df798639bf443d6f3acf8f92d07cbc7668eb9d]
+│   ├── 1-hl8600.vxe [5cf3f598d2fdbf446eb30a422c814ac6b53f1d2fd3ba692964df2ccd24e326b8]
+│   ├── 2-hl8600.vxe [0eab3c680578cb9ce822fc30b0e5da4c791cde50cc1506571534a0a58bf38070]
+│   ├── nazi8600.vxe [7cb9ceb84140674e31f9e41bf02ee2477d5919da4939c264d1e0575335fcd075]
+│   ├── t1.vxe [83b8200264c37499598f21eae6489e473cc53f02f5d4d43090d8adcbf5225fe8]
+│   └── t2.vxe [669715349d3bb922268c767a61fdc27361fa21eff1983b20e675281502b7770a]
 └── b
-    ├── dnazi20b.vxe
-    ├── hlt8600b.vom
-    ├── hlt8600b.vxe
-    ├── t2.vom
-    ├── t2.vxe
-    └── t3.vxe
+    ├── dnazi20b.vxe [5b39336a7b50e75d13aa79a091005e846f6e6f20d1d9ecf2f9ee8eb2f6503a06]
+    ├── hlt8600b.vom [2d776793def1f64a647f401dedff03d3f90f5c8b388cc9bb2504218ce448f49f]
+    ├── hlt8600b.vxe [4bceda18a10f75fae0e42ca98de287288026216fccb27d22d8dabedfb1a5d1dc]
+    ├── t2.vom [50266953c28a7660950cf28d8ab3ee9cf2ffa3b4da3eb118bd4e38f847f86ad4]
+    ├── t2.vxe [b6ff25d25c56bc36638dc96b98f1de40fc27eebc9a1b168072bf1555c97d2138]
+    └── t3.vxe [649c64e92b672a0f7813e35603757cb903e480e37e8998d39abf79432d4ca567]
 ```

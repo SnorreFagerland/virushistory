@@ -3,10 +3,10 @@
 
 ```
 ├── a
-│   ├── BOOJUM.vxe
-│   └── Virus.DOS.Ku.334.b
+│   ├── BOOJUM.vxe [d56b1edb8e311077adc763593066333a3b1c8c30ad53430cafaf9a8786469171]
+│   └── Virus.DOS.Ku.334.b [7a2322d9a43c71b885181e2107cb37eac080a152a709279b8085f692b54d4ff6]
 └── b
-    ├── booj334b.e1
-    ├── booj334b.e2
-    └── booj334b.e3
+    ├── booj334b.e1 [6683d0051621963c484497b40abed542d72cad460ac0139765312d9587799121]
+    ├── booj334b.e2 [ec6bb47e639146640bdca70dac598824e253411e783f9c578f72870bdaf900e0]
+    └── booj334b.e3 [4dc7219e7fca8eb0f75b06e810c20bf24f992afc9f2424102bed9169648e2d70]
 ```

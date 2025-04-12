@@ -3,21 +3,21 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t4.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   ├── t6.vxe
-│   ├── t7.vom
-│   ├── t8.vom
-│   └── wci0714v.vom
+│   ├── t1.vom [2c2f08ffa07620e3bce427a587bb46d5b1f354db58bdb1700eb5a8d0b2087c9b]
+│   ├── t1.vxe [07a180fc734eed5cdd9ab32770f8f8a526531fe06bac20f744ab64e2a471a8d5]
+│   ├── t2.vom [e2aa9dcb5333724f3d1269761db78992a0cd5d66e5863e95a23d6803b94eb585]
+│   ├── t2.vxe [a9a1f43cc57fc10255468192a550e727d1d29efd1d3ea5268f433a0ed7c7469f]
+│   ├── t3.vom [d2778c18e40d59c594f6618a7787a9f939adbea29fd3a30f9d09028eefa155c1]
+│   ├── t3.vxe [67700b99565c258abc066206c3bb86966e2eb8c5f5605531c117ef55d8c7e4db]
+│   ├── t4.vom [edcc1900e979daabf769ba5bfba6df407e07dcbe8f6cfca9b10f7ac80017917d]
+│   ├── t4.vxe [e582d65e3949d79ad2bd3b1b7ff003e320528445d94778f5827433e170406f54]
+│   ├── t5.vom [b3cb3844906f6005a287280bf6118b6190f4b959fdbd1b6b72598042d30a9c07]
+│   ├── t5.vxe [c329eea3e95444f823c4b562897d3de890c581b4ff4a2007eb33acc6894a4377]
+│   ├── t6.vom [6fd3a9bd34b36b80678716b88921f528b1820eb80e9e14be1c7e1d0c36cdab8b]
+│   ├── t6.vxe [e8bc6196d536b7ea7ad1e208a9102f767fb832260c20c4f3399143eba8b70aa4]
+│   ├── t7.vom [89285d0491c31fe9d0dd9e5c8b58b711842de85a70cd1898543aa24976f2311b]
+│   ├── t8.vom [952693f1d1b860dbc926e0a335992a5d57431b05b8b815b3de7d118215cff469]
+│   └── wci0714v.vom [3f516a7475df99ea942c0e9385cb7941f29332771bb5e0183c8cec315b40e62b]
 └── b
-    └── virus.dos.viking.2000
+    └── virus.dos.viking.2000 [389120330966dd60f559b2bd8d1da56bc798efbe93d65f7e9553290685eebdbd]
 ```

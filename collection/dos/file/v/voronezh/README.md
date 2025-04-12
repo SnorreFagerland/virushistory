@@ -3,102 +3,102 @@
 
 ```
 ├── 0370
-│   ├── v370b-g1.vom
-│   ├── vor-370.vom
-│   ├── voro-370.vom
-│   └── voro_370.vom
+│   ├── v370b-g1.vom [c558214083241baaed331441caf14e4dd05c8e373bd0bae907cc0d40791a3512]
+│   ├── vor-370.vom [0183eae43f47a812663ca0b6b96ee48bdc70885b902ec66d1dbb0188adf0a8b8]
+│   ├── voro-370.vom [aed733d1bb17bed67d2f1fb46a3a3442e73c8edc0d7e159402295ed473012154]
+│   └── voro_370.vom [b4fec49e4a2eb4d771cf229e60ef7e872b58817771983da73c7014e21c96e628]
 ├── 0600
 │   ├── a
-│   │   ├── 0600a.vom
-│   │   ├── 0600b.vom
-│   │   ├── 600.vom
-│   │   ├── rc-600.vom
-│   │   ├── ussr-600.vom
-│   │   ├── ussr600.vom
-│   │   ├── ussr_600.vom
-│   │   ├── v-600.vom
-│   │   ├── v600.vom
-│   │   ├── vor0600a.vom
-│   │   ├── voro0600.vom
-│   │   ├── voro601.vom
-│   │   └── voron600.vom
+│   │   ├── 0600a.vom [907e79e181859436b40bde900c8c92f182767a4721bc497b5fbb1738b67821eb]
+│   │   ├── 0600b.vom [beda05fa52362f1c9dd8db584811fd47c14f5b6ee8fb4860e110afa1c973d7dd]
+│   │   ├── 600.vom [26653c6138a48eb2e7a035121e407daf0a9585de9f7c1d68b9673d0456b1bbda]
+│   │   ├── rc-600.vom [1f8f98297e5f6698f250c16975112b4c40adbe183c0db9a1e674f42a54073f9b]
+│   │   ├── ussr-600.vom [40d8284e97edec76020b544dd7902c4d4d59cb34e734c5c6cc272432b59ec1e9]
+│   │   ├── ussr600.vom [4733888fa660ac8b0b40b25f203f2fca10abeb8314a516c1dcc31f0097660e59]
+│   │   ├── ussr_600.vom [2c4d3758f9d690279f531d16f9903792778b915f29cfba49c9fe3a7ddb2ced6a]
+│   │   ├── v-600.vom [123ca6329807ec335fe91d616bc349bb971e4b9a9cc0b2c6c259c11d637f4d56]
+│   │   ├── v600.vom [aded5d88ed34300099292b6444ef547c644caf5ba408a2fddaa7606088b6029d]
+│   │   ├── vor0600a.vom [1a4391b56ee140dbc653bc1e4e72ad95a1ecd447bd9b45b391367704c4bd1e9d]
+│   │   ├── voro0600.vom [6fdb83fc58202af4c55ed88ffea39a6678672688becd3abe5480dcda782dece5]
+│   │   ├── voro601.vom [b5d5e97580eba0f3c6e0347900c80edbcc3f3d584b0babb9a7bdf930af8b0ff8]
+│   │   └── voron600.vom [78492b28b400744a9f8e378a3e849d6fca64ee96888086844fc4064b08b638c7]
 │   └── b
-│       ├── t1.vom
-│       ├── t3.vom
-│       ├── t5.vom
-│       └── voro600b.vom
+│       ├── t1.vom [88963f498fea3b2f88dec6f20b27a9d14f6b0be7e58827cf57b23a62ed3c90b9]
+│       ├── t3.vom [a1ddb8cce88db075a267fb2ed61ea77dd8cf1318c22a146b289a511e63956ef9]
+│       ├── t5.vom [8e581e0d86187727b11bd849f54bad704958a0154bcc1781a67f2604bad6497e]
+│       └── voro600b.vom [ddb279efa86e64e209d5d62720b9f9fcae5402aef7c573de2560dcc772c35f75]
 ├── 0650
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── vor-650.vom
+│   ├── t1.vom [e3a30f0bb97899b9e480b35dcfec88d2d13783770635206684943d94e4b19303]
+│   ├── t3.vom [4841e376b020e0e1834783ad0c250fef68e1308e91a716851d4d1f05e407063e]
+│   ├── t5.vom [43d4498207b8de878c037774584e954fcd73b29c3e53002c081a6c448117e992]
+│   └── vor-650.vom [347a8ff0cca4f00b725f3a2160e6b6fd521ae5d97270136d7833c7943aa4dd27]
 ├── 1536
 │   ├── a
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t5.vxe
-│   │   └── vor1536.vom
+│   │   ├── t1.vom [3d1f0f69d448bbe5b05e02536e6e8f3108604a7e1cfd10cfa3ef4f63e9bb35e6]
+│   │   ├── t1.vxe [fb790e2d8fa7fd8e3b9d327ed76ff7afd56ca03bd87ecd416f1470b57e9a716a]
+│   │   ├── t3.vom [9e173a5957f00f772387e2864b44ac893c8bcb187c719c13228a5fb8163a6ec0]
+│   │   ├── t3.vxe [7a213b024094d539dce23317f85754d703fc4d96b510985ed8380719689e3779]
+│   │   ├── t5.vxe [ad4bc4b80972a244765c090c679b0049b76ae877cbc05d67a5748aff87bd8e7c]
+│   │   └── vor1536.vom [08dae1e3143c79524af2f04aabf684b7043f92304edf2c5346f4633ec444f486]
 │   ├── b
-│   │   └── virus.dos.voronezh.1536.b
+│   │   └── virus.dos.voronezh.1536.b [d8e0d26cc909b8dc065a9d9d40b926d23c251112bf5a3c88e909a79ff8ab50af]
 │   └── c
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t3.vxe
-│       ├── t5.vxe
-│       └── vor1536c.vom
+│       ├── t1.vom [70b4b14001639f2923e66b982e3a2caee65d3a6bc0523a64a8f19bbfdd8bcf48]
+│       ├── t1.vxe [849bd7986805663fde60b27fa303b57b928a5bc3b76ebee3af61bbb289435a82]
+│       ├── t3.vxe [2ee7d417783f26f6c0b15ea8957b4dd92ea6ee1248ed7b601a8ae00a6fceb245]
+│       ├── t5.vxe [003d3226bdf6b93bed516c32459bd6c6a90e314a97ae97f780a3df6c48b64f45]
+│       └── vor1536c.vom [e471a8028ee7dd0a92e3c59f04a9fad0a0a6c722791c0b0f4d780b3c0e816c3d]
 ├── 1584
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t5.vxe
-│   └── vor1584.vom
+│   ├── t1.vom [d51ce4a051c06c9078d0768281b4650c35b5ecc70ea59d01eae29b3f7a327137]
+│   ├── t1.vxe [e2706aa3b9c28dd0e392f16946998b57fa96ecd3ed3b83cf0736822951aeaa7d]
+│   ├── t2.vom [dde590c739340c5ca3873f0f4f9edb746e8b77303cfbd026da3145e80019f668]
+│   ├── t3.vom [8151df1de8a1424167758e547e0ffcade0d8134467bb805e3e1e6f4a33799093]
+│   ├── t3.vxe [d83be9defc84ad1ea2a73dcfe075cb5e66161c2b76b4e5615f4b600944394c2f]
+│   ├── t4.vom [553435dc625eeb00f79aae1ba83d6d8aecb748db4043fba1abfdde8301a05675]
+│   ├── t5.vxe [93fd1e260b84e067d8526c0491c6a8868aeac87cbe87b088125e1ab5907193b2]
+│   └── vor1584.vom [b18133f8f07fde50dea7686ebb28b9275d62c9400c2bf47dd415105bbff9a53d]
 └── 1600
     ├── a
-    │   ├── 10000e.vxe
-    │   ├── 1000e.vxe
-    │   ├── 100e.vxe
-    │   ├── 10e.vxe
-    │   ├── 1600a.vom
-    │   ├── 1600a.vxe
-    │   ├── 1600b.vom
-    │   ├── 1600b.vxe
-    │   ├── 1600d.vom
-    │   ├── 20000e.vxe
-    │   ├── 30000e.vxe
-    │   ├── 40000e.vxe
-    │   ├── ab01l.vxe
-    │   ├── ab02l.vxe
-    │   ├── ab03l.vxe
-    │   ├── ab05l.vxe
-    │   ├── ab07l.vxe
-    │   ├── ab08l.vxe
-    │   ├── ab09n.vxe
-    │   ├── debug.vxe
-    │   ├── dosshell.vxe
-    │   ├── edlin.vxe
-    │   ├── keybgr.vom
-    │   ├── nlsfunc.vxe
-    │   ├── print.vxe
-    │   ├── rc-1600.vom
-    │   ├── setver.vxe
-    │   ├── share.vxe
-    │   ├── vor-1600.vxe
-    │   ├── vor.vxe
-    │   ├── voro1600.vom
-    │   ├── voronez.vom
-    │   ├── voronez0.vom
-    │   ├── voronezh.vom
-    │   └── voronezh.vxe
+    │   ├── 10000e.vxe [80896f28bf9d1eb36cb87141ed8ca12a9bc17de396ebc5b305fb6948656e8a85]
+    │   ├── 1000e.vxe [18323668195f3736bd2626ca8b26cb8ed660f23d9cd27ec083fde142f6386b3a]
+    │   ├── 100e.vxe [97fad877bcad9f7a27ab3eb9806bb5a53edff49bde98fc9cbc0abd4c12d5d539]
+    │   ├── 10e.vxe [da8e696f85464735e85b893ab7f2a6dbef7eca99b06c1f860483e719a154af6e]
+    │   ├── 1600a.vom [647e1742a4fa3e559e0090a2e5c4ac5abdc61a3bc4d3a0357a3e9775b58e1844]
+    │   ├── 1600a.vxe [3a198ed2cc1de585c619131f5506bc19bac15140c16ecfcc030ce520df2f18bf]
+    │   ├── 1600b.vom [d8342dbe1ffa945dcba217ca2538cbc71553f5e9e776e71652cfff8fcbc90915]
+    │   ├── 1600b.vxe [9fb78ebea7abaf9edf3cbcdce98cd61db0767ba87cf104b17860a5265d0cd655]
+    │   ├── 1600d.vom [45916347ce48266e7cee66656c5b6b3e2934484db4eb32200949bee0dfd70f1d]
+    │   ├── 20000e.vxe [8a5c70d7da41002c585253541a55a2d85d2faf49411ace59b7c3303c24432249]
+    │   ├── 30000e.vxe [fc4d9d2b193becb8d0204725b4c97d32392658e50dd9d83e20c9b0edb578cc9e]
+    │   ├── 40000e.vxe [48602e9c0af92eddf016601c337b8146e85415fa84c62a0c0ba015d57ab1caa4]
+    │   ├── ab01l.vxe [7d19e2c77315fadab2f4b610fcd2a6cd5bf0a5c2f913b3a808e15ba8cd71c32d]
+    │   ├── ab02l.vxe [df73a62269c6fc2f44d7639c765bfc00a5381a27409aa7b8b9cfac67f80869a8]
+    │   ├── ab03l.vxe [c875be3127023894909b8efb4889bf3fe9416a4d42b29f629a0cbf79d3ee2dec]
+    │   ├── ab05l.vxe [ae76d5dd26ac5503956f60c208bc47805f99d7d029b51d661c41cda0c9139fd9]
+    │   ├── ab07l.vxe [fd0390bb370527f5df2dcecab506e2c227d27584d442d25ba95a4e73737d8be4]
+    │   ├── ab08l.vxe [294da492bd2747ff6f8eb55f840b92ca7d1738131a7c4c4352129ee949770b2a]
+    │   ├── ab09n.vxe [6e0d7e1b0bd57fe34008cd52b6dd81734b1881ccb6a14390125d49c212bba5ee]
+    │   ├── debug.vxe [f73b29c57576d0a7033a4203f8228396a0cbe64eb8a0b9f252e6a803c1984850]
+    │   ├── dosshell.vxe [6a250f4ed11b77a72b466f2d31ae4f61096285635150fbb29ca10f6e346100e3]
+    │   ├── edlin.vxe [19c098cbe9fbfd35a815a6024025a62a5c9ec090ccffa4f8134b443a2b70c121]
+    │   ├── keybgr.vom [70556eb08ddd152998452952cfdac258a1d2dd68387d19d53a12e8d79cd51709]
+    │   ├── nlsfunc.vxe [03483fd32585ac1225dc6e31dba20ede29769be91a9655c25c15735e78ee42bb]
+    │   ├── print.vxe [b7664891054468c89034d7ac7469f8fcd9fc7eee0c74a74b6098dbafca7312bc]
+    │   ├── rc-1600.vom [d95143f72d2903bd32a9f56ae395041de376ee9b6df54e04e90b6c71a343ac40]
+    │   ├── setver.vxe [26220265371ecc41a5e5430eca4cdeb11b487210ebe963bcf510f7dc808a2bae]
+    │   ├── share.vxe [843018fbc3b9e6d6a97fb64fa1d9fb57eafe55e8368a08660f95242e005aa621]
+    │   ├── vor-1600.vxe [aac35b1bdb881d12554a970f250e7f33c2fca8b2ceec35c31fd3b4765845560d]
+    │   ├── vor.vxe [4f6ecb097b2afb17ddb46cd13995b97d1e22cf5f315def973a9c04255fb613e0]
+    │   ├── voro1600.vom [a4c6f170285868322efd54a56b1fa837341fb355acb4fdf10a2ec3036669cee6]
+    │   ├── voronez.vom [6d8a2c90a6b4dc3c5d13de49b3904377949071130377451438db54b3958fef16]
+    │   ├── voronez0.vom [0cbefd0e3337b5d8c4bd015e5ed22b2aee5ce03ffe6923b7e3f192dbf021308e]
+    │   ├── voronezh.vom [863d43ec567fe966acccd697efd8e5a94a6d11efb58df8baabb8bee0c3afd027]
+    │   └── voronezh.vxe [aa5dc0d797905f93d3d697a37e6ea51db5b22108bf2728db929cefc75cf9c0eb]
     └── b
-        ├── t1.vom
-        ├── t1.vxe
-        ├── t3.vom
-        ├── t3.vxe
-        ├── t5.vxe
-        └── voron-b.vom
+        ├── t1.vom [8e60e73ecf0cf000ad4cf747fa920352b321dc7a029b9b912908ca38af677851]
+        ├── t1.vxe [968034e2d69acea87f90bba701dd1c8999ae9eda7c771b61fc70c25bbff8973b]
+        ├── t3.vom [c25fafd0d465323b5c8fe1fee2191d0a8ecd1687a4888463da3892e7cac74f84]
+        ├── t3.vxe [e0b62a1b0c94b64c4de4a04798115a563877ee41199b84a2e7f1abc80402b0fd]
+        ├── t5.vxe [817a37c52cc28ffff848517f8985ba0412eb483e4c4238f91e603668c9a71e02]
+        └── voron-b.vom [44890b87797bcf47012c262ab88ad10ee146bf9690dd12e971e3d47f3c8c46a6]
 ```

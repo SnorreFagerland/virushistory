@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   └── monster_.vxe
+│   └── monster_.vxe [be1ca97cf716939adc88f8d946a97c27fd4228370c608b0468ed5206932285b0]
 └── b
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    ├── t8.vom
-    └── wci00103.vom
+    ├── t1.vom [9d55e5e3709764983049dad5ceb3475888a8f411f341ab02f94b2554413e2683]
+    ├── t2.vom [4a8809fad8ef79a5e2a58d12c22db756b7141cbceff997cd22ec48b17d2923fb]
+    ├── t3.vom [80d1fd6cbc607fb091f419e5636273aa306d4c5e4ecc8f61389088c677096afe]
+    ├── t4.vom [762e325a3e870fa668db2fd554f93bab63476564977c33dd392c501013de1967]
+    ├── t5.vom [2a30a9f67368146480b670b6d7507c402c4731b7f14bdc35370d20cbbc066523]
+    ├── t6.vom [8d58468fa809c968f6ffc994530b1e4c35f8fd3500bda481f084d8e93a5ea5f6]
+    ├── t8.vom [47d65e66134ad8f68abcaa5b3dbfc9cbd962d203837142b0351887960d9874e3]
+    └── wci00103.vom [2891fa0acf94eb4a0fc1b2c41076482eaf8d58276db110c9c95cd47aa6a72ff6]
 ```

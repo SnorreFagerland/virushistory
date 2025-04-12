@@ -4,37 +4,37 @@
 ```
 ├── 1726
 │   └── unknown
-│       └── virus.dos.vs.1726
+│       └── virus.dos.vs.1726 [2ef67ed32acc9feb37112f40509e17aa54b45627a5f1574c52d05ea3d3e10e29]
 ├── 1776
-│   └── virus.dos.vs.1776
+│   └── virus.dos.vs.1776 [e820f096e19990010a6ed7e6ae661af6ccda8e535d3ff9c03e93c5b004f330e3]
 ├── 1919
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   ├── tv-1919.vom
-│   └── wci0781v.vom
+│   ├── t1.vxe [e295262c99beb5d904d38b5a61761f61ff4aafce33bf9d222df9776957534441]
+│   ├── t3.vxe [69f46f92471864f397869df74b14e4a934b224cee3b00045611512cd82afc48c]
+│   ├── t5.vxe [e954c229913c56c3a6aca55804d4c0d5edf364699e908b22c74ca2fa9ac659c9]
+│   ├── tv-1919.vom [449012b827371eba03bb2696e8b691908572661795518788ae4fd46803bcc912]
+│   └── wci0781v.vom [4fd52b33e71fc4ad9166b87612c7228818f54f8aab555c013faaf3e6110bd670]
 ├── 2790
-│   ├── 2790.vxe
-│   ├── vs-2790.vxe
-│   ├── vs2790.vxe
-│   └── vs2790a.vxe
+│   ├── 2790.vxe [4af03c8e8ccd540ea450916f27fb4352a7e65d9f57f138204d6ac2dd706e7c7b]
+│   ├── vs-2790.vxe [ed764883530be4da72cf87c64258545a8bd1b48eae750df05f8e096b7c69702b]
+│   ├── vs2790.vxe [9ddd947fb947f91b294638b433238e3f5217b02d414d3cd9696cad4db7be3615]
+│   └── vs2790a.vxe [71103f18585aa4afa0d2af078af837d7d72792ff07cb443b66f411c63a53fdf5]
 ├── 3000
-│   └── virus.dos.vs.3000
+│   └── virus.dos.vs.3000 [bb0930990ad7c3f080dad5fa38757b981bec1a3e12f96b02ec60cfaee0bef23e]
 ├── 3300
 │   └── unknown
-│       └── virus.dos.vs.3300
+│       └── virus.dos.vs.3300 [c5560e008cadd007ee606d9fbf66833bdec27753e11e8dfc47ca4446a1047011]
 ├── 3900
-│   ├── 3900b.vxe
-│   ├── 3900c.vxe
-│   ├── vs-3900.vxe
-│   ├── vs3900.vom
-│   ├── vs3900.vxe
-│   └── vsunk0.vxe
+│   ├── 3900b.vxe [991490aabb94c80651e96f4289c8a6c32c8edc323e6ed659c1aba853864cef73]
+│   ├── 3900c.vxe [a9590bc15ea4e3155fa73ee70a512757a4152e5667f277957d2fa2ecc4e6830e]
+│   ├── vs-3900.vxe [07be2b7d916c66dee1f98f1daba92c7c58b93c381d540711ebe5c2e0577ebe52]
+│   ├── vs3900.vom [ef19abdcb95b7653dba36a868cf9cfda73810ab433d08fb42cbf6c3dfae04071]
+│   ├── vs3900.vxe [1c19cefe957b1a5754941e8fcf2eea3a2a0a7c6a6a2b3241f04238cd693b028f]
+│   └── vsunk0.vxe [a54681d6b5cd359b2f3e80f91a9aeabb504dc710b72d3307df86f9999bbb515c]
 └── 4000
-    ├── 4000a.vxe
-    ├── 4000b.vxe
-    ├── vs-4000.vxe
-    ├── vs4000.vom
-    ├── vs4000.vxe
-    └── vsunk1.vxe
+    ├── 4000a.vxe [e22a2194825cd979b3e572f8a39fd7f4739883dcb8ddf259ff32f8be9a50c5a0]
+    ├── 4000b.vxe [86362317d49d1f9a7f5f773f464af24156fe9bf869c3d1c080125fbb7c5595e9]
+    ├── vs-4000.vxe [5cf98ebd76d577198d130de719811187bbc278ae9817da2294ddf272207a4265]
+    ├── vs4000.vom [a24975dce6c900dd4d37cf9682d286f2bfb6703f41793f8f185ab06f1a7fbd12]
+    ├── vs4000.vxe [aaed5b4b5e6eff75a7b2d12a305650fdb59b91d503bc872d4a8f2a6df4fc58ec]
+    └── vsunk1.vxe [3ae1391bb56ee31854c4f621852e106b586d74966afeee0770a2da37d9e24e1e]
 ```

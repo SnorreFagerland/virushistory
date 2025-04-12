@@ -17,7 +17,7 @@
 │   └── 9fdb769a9edbd22f1d0891eb03aa4065f27c9ea561f876965506a5f36efd6ea7
 ├── cb3c0bc2666e5593d65719877f945a46ca7e943d4256241010e8a423719f88e3
 ├── d
-│   └── better-d.vxe
+│   └── better-d.vxe [544d2a21b50fe7bd1ab0dc71bcce30856084c7cc4fe45f08dfdeb8c87c9f030c]
 ├── f
 │   └── 375fccca2e0fc0c8122080857acf8c7cbeb7107e04a3906f766d153dd042e931
 ├── g
@@ -29,8 +29,8 @@
 ├── k
 │   └── 5285fce2f337d672e4c300637f93a054b97a33babdf9fc29018f693d27d13d0b
 ├── l
-│   ├── Virus.DOS.Fellow.1019.d
+│   ├── Virus.DOS.Fellow.1019.d [e44ae2dca4879921a3bc4efdfac758bb152667895709100686a3d27d867ae72b]
 │   └── c84077513f566335dd6af8dbb38805ed492483e6db7759225feef54ef66f3372
 └── n
-    └── virus.dos.fellow.1019.e
+    └── virus.dos.fellow.1019.e [6dd6e06d6c7aea56b4d55c0207e7e825c33d5af67a546a0c2f37a767c79e54e1]
 ```

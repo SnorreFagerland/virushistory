@@ -3,39 +3,39 @@
 
 ```
 ├── 512
-│   └── wci0013s.vom
+│   └── wci0013s.vom [093939d185dd5e51ea887a1ce364bcd92bbbc8be8421530ae615b6172a013a3e]
 ├── 591
-│   └── t3.vom
+│   └── t3.vom [599b32db07b14732a4498bd2f2556be0cc541f2b7392e838044894d43613abfb]
 ├── 599
-│   └── satan599.vom
+│   └── satan599.vom [511eda279a1c37d1d5450e267df030df30e2b6644fa3b4c6445131312afb796f]
 ├── 601
-│   └── sat601.vom
+│   └── sat601.vom [7404c8105f65bddd8ba00df057a4d65c298996b0a08beeacb42f54d458473f06]
 ├── 602
-│   └── t3-1.vom
+│   └── t3-1.vom [728df1822cec0c6ef8424b6cc8029797b5d63bab74840cc5e50158ce728fb175]
 ├── 605
-│   └── satan_60.vom
+│   └── satan_60.vom [bc71cf295784ceda3998b07cfddafdcdb03ca6eac8e692e54e81108b94fbfdcb]
 ├── 609
-│   └── wci0016s.vom
+│   └── wci0016s.vom [06fa3042e84aa2d7f46136f300ece4f9d4db9de0d8047b31d735bba3da8ac39b]
 ├── 612
 │   ├── a
-│   │   └── 66c.vom
+│   │   └── 66c.vom [d2641a38c4ede188bb0e5733a32116595e56c3a0b39a41bb9e2ec6bb1f7e48b4]
 │   └── b
-│       ├── ira-008.vom
-│       └── ira-008a.vom
+│       ├── ira-008.vom [2f747619268008692507bbda730047feda771ea18f8352697d2c271f38ca9bfd]
+│       └── ira-008a.vom [20afee4f4e1cdd0ab820c0b111f8350f1de7c35c1a254468e18b7985a4bc9433]
 ├── 620
-│   └── virus.dos.satan.620
+│   └── virus.dos.satan.620 [339ac504aebd2357c7f849dc3788d80aa702f4a9fcc020af856524fb3ac76037]
 └── 735
-    ├── banyc-5.vom
-    ├── satan735.vom
-    ├── t1.vom
-    ├── t10.vom
-    ├── t11.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    ├── t7.vom
-    ├── t8.vom
-    └── t9.vom
+    ├── banyc-5.vom [1f567bd9a9828b4f75eed4d6d1c0fdc7af912c87e540f519aeee46751fe85d22]
+    ├── satan735.vom [75b249cebbf0db21aa1ae3a1b77411e9815deaebe6c504e4f05b7dd9a7b7e091]
+    ├── t1.vom [6a5e2b92133ae1d4b5da213c5ddad090017225fe23c977dc0da993d294c02cda]
+    ├── t10.vom [34054f70f66e90eec2e668eb76caf10d022d98e707c078ff0d426599b5015c88]
+    ├── t11.vom [efc84f4e8cf6f9c3d83fc215c25209ddba8bf9ae5b8c9e40d59b8c4506e86173]
+    ├── t2.vom [46558a6ee49031c20975dde7b884f48dfc0526740a1af168689ca72dfa4114d3]
+    ├── t3.vom [c84a56be13180d8d4fbc24807f1015ee4ec767855289f02b8e19ef7310c67b6f]
+    ├── t4.vom [7df77f02253570c34373f7b67a00ba562188e590f98afc1aa00fe7152646005d]
+    ├── t5.vom [fbae19ccb27885648b65c13a1820756b383ef44e5251b5536296cea3ea393ad9]
+    ├── t6.vom [22d3b3d64aa17c234c2b7e0ed344b4e01ae9762cb7f9bcb56cdac823db8efdb1]
+    ├── t7.vom [c2b6dd06b028f076632b28dff3223fc9824809067a24073ab6e3c5d6cb3fea9d]
+    ├── t8.vom [f50024c860d005fef8af6d119bf5cd43c0a8763f68823a1b0e4b33ec491c7413]
+    └── t9.vom [86043ce607a0864f041b7487d2bb3896d930a104c80957d2143f33fcd11f65b4]
 ```

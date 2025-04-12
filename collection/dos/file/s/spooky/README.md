@@ -3,183 +3,183 @@
 
 ```
 ├── 101
-│   ├── grep.vom
-│   ├── heurist1.vom
-│   ├── spook101.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   └── t5.vom
+│   ├── grep.vom [e63d86eedb3151c0f0df70dcaca50e77cc0911ac1d82386c2e12076a446b4ef1]
+│   ├── heurist1.vom [79862edc52e88acfd046a974a6843f15dfad22280d0187a6ce62f978c56531fe]
+│   ├── spook101.vom [cf637a49e626307c67090599308083547569eb36d01d5ab71a2c208480d53208]
+│   ├── t1.vom [1ef9866acc297cf96e231b4edd1f4d7c916b6c35e8ab507fb28749604a5d45f8]
+│   ├── t2.vom [0a6af5f3e57ec8f21710f466f280ae911484dff03decb66af4eeb228a80f8108]
+│   └── t5.vom [0a8aaa7315530e63ae8181a5d563099d88582fae5dc54808971121ce944de994]
 ├── 102
-│   ├── shadow.vom
-│   ├── spook102.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   └── t5.vom
+│   ├── shadow.vom [830a0253021053214828d4bf452b104ba7ea1fe5f451de4454ce11676bb8bb1e]
+│   ├── spook102.vom [527cc99c51684456cdaa2541c7c65dffc7d1c69de2d7fadd2df10cb66a27eb6d]
+│   ├── t1.vom [04ac8e8ad6b80bdacc1de20b1d1c761754b4caeb487de1adb3fab2a92e1bcb63]
+│   ├── t3.vom [c50acbda4f8045b8f31202265097589fef29cd5645f293c99044b242e4f9aa73]
+│   ├── t4.vom [58fdf72eb421697efccd824a668debd43b59b4875dbf59b10a0915ca6661e161]
+│   └── t5.vom [a2269bfca692244ac16c5923e60aa36e1527b62e4a86f2bb2e2f6ac4e254d542]
 ├── 116
 │   ├── a
-│   │   └── virus.dos.spooky.116
+│   │   └── virus.dos.spooky.116 [c12895f63067258e0724f05008bf6a497d5065e242be869571eff6fb25ec2a94]
 │   └── b
-│       ├── arson-a.vom
-│       ├── arson116.vom
-│       ├── t1.vom
-│       ├── t3.vom
-│       └── t5.vom
+│       ├── arson-a.vom [72e2c6af8617f75598b75e4c4ca64f436f598d1d9cddd9708f0ddbefca2da50d]
+│       ├── arson116.vom [2891f674357b420cf1ed079a95f09a10507a5d89eaa40b3061b28091e1e31112]
+│       ├── t1.vom [59fabef0238b159b1ce8c9b7526c76e86bbcd87a51becf75349eb9ea5de59a71]
+│       ├── t3.vom [001a87ec5aedcc30e1a2bf516e7d8b8f5fcb715916a8136b68c735c5701e55ff]
+│       └── t5.vom [482185062e3d2161eacac1234922019f5d191e666bf41407e7e20fb711ccf48a]
 ├── 139
-│   ├── heurist2.vom
-│   ├── spook139.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   └── t5.vom
+│   ├── heurist2.vom [92cdb6ec2e8041d771104fc7dbe78273a39bc58fd971d8c43276910ecc5441b5]
+│   ├── spook139.vom [af4a4964dd8a46364b0646489e20665439c0138584f9e7150a57eabef45e29a5]
+│   ├── t1.vom [a76197bdacfef82fd443cb1d782949112c22d467f1333bcfb0b57b69b52814ba]
+│   ├── t2.vom [1ac3969ccdc23257e31156277f96e14a831365a8179befefb069b3e1a0190d1f]
+│   ├── t3.vom [ff03b50fa57b050e74917227808e02cfbd84ea19030ebe2d43732563e2b3e441]
+│   └── t5.vom [facd36e5a32552abf3e7cef7fbda49ba4f7798844135108dad452274b3d1ffdb]
 ├── 215
-│   ├── krautfre.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── t9.vom
+│   ├── krautfre.vom [fe0afac8c860955543763159f774ddaad7ffec2fbc8748744385b778956bf2c4]
+│   ├── t1.vom [c2335aafc92a72a0259b6c620abb0cc162454079b3e3487cb1341e37b5b2dce9]
+│   ├── t3.vom [4d35281abf3f08c4997b939145bfb7ff54cbc4e1e9c3abc5fb00664ea5d0441f]
+│   └── t9.vom [d1f061197ed82bf45cdac9f332b49b01b4d1f04321d159cba217c5bba2099072]
 ├── 218
 │   ├── a
-│   │   ├── 4711.vom
-│   │   ├── t1.vom
-│   │   ├── t3.vom
-│   │   ├── t5.vom
-│   │   └── t7.vom
+│   │   ├── 4711.vom [298e7695627754dd75ffda534b33d6f1f9edd193414d89d880b12bc448a491f9]
+│   │   ├── t1.vom [de393b0cc714c0ddf9958d737f9d0031c8ffe4c529e9ba81f5fc0d8fba186467]
+│   │   ├── t3.vom [e237df68305da15f6b958bb37ee1110206287566fef561d7072d768db434eb1d]
+│   │   ├── t5.vom [54aed854ae6b1350381a7837a5a434fd9a86c35fc3f57bcbc280c998c74ce5b9]
+│   │   └── t7.vom [83a3a6e38aad848343583d2dcdef3d3c8e8a85b142dd9b16a53f64ebf02abe54]
 │   └── b
-│       ├── morphic.vom
-│       ├── spoo218b.vom
-│       ├── t1.vom
-│       ├── t10.vom
-│       ├── t2.vom
-│       ├── t3.vom
-│       ├── t4.vom
-│       ├── t5.vom
-│       ├── t6.vom
-│       ├── t7.vom
-│       ├── t8.vom
-│       └── t9.vom
+│       ├── morphic.vom [6416b0b428d013e240422e920f51910e2ae4c4b0ac48c3ca3de518ce6bec37f0]
+│       ├── spoo218b.vom [239059621e2f69e83130c78d7df3516bb2974ccab2433103bf2f1495d4422448]
+│       ├── t1.vom [c8f5e55166a57f507fdf6e48ee4c977755f9ec721282f747f3c5f8e36807c1b9]
+│       ├── t10.vom [4ee3d9ff6e6aa1349c8ac99a9d03b484a26ac8b264cfdf35fee2251c30a964de]
+│       ├── t2.vom [2dc0b010ee18a4c9fd0c12a3d4c078340b2991211e2d10fb9410d9918be8df2c]
+│       ├── t3.vom [258707584ff032e30ec6a27abf15db7bcd61da6638219afe733a2af77026379a]
+│       ├── t4.vom [c412b84f7b26271517e9c8c3c8c27092c1ae7d11b2f3335d2d4d74061cf745c7]
+│       ├── t5.vom [3dea28a134a31d3eeec2feb7850a8cd88ef1928ac078bf12779f8771079a5478]
+│       ├── t6.vom [8281aea8658cb39bbe342dec80a01735de61f2609ee51a344c0772a07b6f3feb]
+│       ├── t7.vom [4a6c10de9bfb3a286cc52d967e04dfb1d2cfe038e59043019bb136d95451f496]
+│       ├── t8.vom [51005cfcf261d9822101d6f3fbd159801b9909527971010b064f1615fa890e54]
+│       └── t9.vom [5328ae7516a3909d3126c212aaa6369850c5e8f65737e56dbff264e7b73936e5]
 ├── 266
-│   ├── afterw.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t3.vom
-│   └── t7.vom
+│   ├── afterw.vom [1029322a243bfebafa4f94dbb5379953b75d727e2540c89e5d77b7a3197ac0e2]
+│   ├── t1.vom [a68e6791d6d695fc13579a813919e3e986ff4eca47a896ed7bf742f90df5a9ae]
+│   ├── t10.vom [7df394d988e71a8cdd892af42ce4056d8114309eae1afb4f96e4f96ed6ccd698]
+│   ├── t3.vom [f0f13ba56a70f5ddcf437584b8949c7d244f2f7ed6234a17d65a6a7bfb1a4a9a]
+│   └── t7.vom [46db31897926811e3c28fa71c39883914d031fd4d687cba0efee2752d277eb63]
 ├── 296
 │   ├── a
-│   │   └── virus.dos.sillyc.296.a
+│   │   └── virus.dos.sillyc.296.a [db4ffa39e56b8f307ccdd10c11412542cf859d9197bd07c9f50a99afa303b293]
 │   └── b
-│       └── virus.dos.sillyc.296.b
+│       └── virus.dos.sillyc.296.b [b9710be4808a2ed77e9de73146a079919b813d60e5b2e59c9a52152101288f6c]
 ├── 314
-│   ├── reincana.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vom
-│   └── t7.vom
+│   ├── reincana.vom [1c7cfa767b4c31e69ebc265bae5d9de698bc269b8a8a344e08adc2cda6718b1e]
+│   ├── t1.vom [266cd1800fb8fa2856f607f9a1d834224f65322ee2a5257f73d2a10764c6dc0f]
+│   ├── t1.vxe [30c10e2924aa90033d134fc6cdadb8465fe47e21658849d057b0e08d49c9755e]
+│   ├── t3.vom [662a28044c1c3faa23c1829d80703fe17392f080bea227ad40257caa207afa42]
+│   ├── t3.vxe [2a97571c9e675cd6d79b5db87fb79403806a5a8e18ece7cf8da8c4f408fbee10]
+│   ├── t5.vom [d1b01418d4df138ec4403459381378a2ab5fb144edd3f8ebcbefaf1a4b0ca1fa]
+│   └── t7.vom [2d9a19b8440dba353af80d89d9d268be7d764400ea21b39debba00fb36b6dde3]
 ├── 392
-│   ├── debug.vxe
-│   ├── spook392.vxe
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   └── trace.vxe
+│   ├── debug.vxe [1b879dde308cd8fb5ca19fb4c22961cf3e00e8e2884e69f301c4c2c809ada59e]
+│   ├── spook392.vxe [d2297b5e3683c24427340bf19ce208d1eaad6b2bcd7b2466ca5f634c715dcd4a]
+│   ├── t1.vxe [8be52a71d4d4102f44418f52ea4885d6badfe78c36284373cb4af04c7b8be640]
+│   ├── t2.vxe [b450e2724f01539ba7e0ad3e10cc052faca0879176036d51a06d0a0d4c1df825]
+│   ├── t3.vxe [1e472a78d8ce7cbc60ba0dde0ed2d19384723a984a9f44fc9fefe0c824f10180]
+│   ├── t5.vxe [8596892d6c453f1fa57b62f8db0e344be72ea37665d01a8df4834d0182832fd7]
+│   └── trace.vxe [40be8ca09cf1ce78e405b0100c64c6207f4f8e25f0e5f86368bff70cb0d32831]
 ├── 393
-│   ├── krycek.vom
-│   ├── spook393.ex1
-│   ├── spook393.ex7
-│   ├── spook393.exf
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   └── trace.vxe
+│   ├── krycek.vom [cefb4108675b122714ec1385e698f89a54cc34ba6a593bf80451a534390635b0]
+│   ├── spook393.ex1 [4d20872c830e446310bf95dc25145131117632a6e44d4027a1a5e0569f07f9c8]
+│   ├── spook393.ex7 [4d85360652180af22e0fa3111f614ead3a4e4bcd3d0e31921fddca543df55c72]
+│   ├── spook393.exf [7aba045e6c6e0c56f5bab4810243928cd3a35272c5a0c39ae4ebfc143ec6c572]
+│   ├── t1.vxe [f5f3c63ec08d99a4bd6543032a1c0bd2084b58dcff83128b914f40992065eaec]
+│   ├── t3.vxe [bc30141ed012da9077a171fea7c2fbb4c44f9af3187a0f3d01834eed36af63c5]
+│   ├── t5.vxe [36c9ebb043134742450633140650d2da9b0c2a133a1b051068089700e775a872]
+│   └── trace.vxe [7787ae87795403295a79723d84629b97e3cefa99e1ab6b2e890eb1fb7a433b9e]
 ├── 398
-│   ├── debug.vxe
-│   ├── deepth.vom
-│   ├── spook398.vxe
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   └── trace.vxe
+│   ├── debug.vxe [1feea21a116935fa907296ad6b839d5e29f5eb325986678cb6128400003b1ec0]
+│   ├── deepth.vom [8834c8e5f549ca75d2ef46c195777217fe261ea61c2907bac7b681d071bb87ad]
+│   ├── spook398.vxe [a59c7376b5e829417f4f8e72a65bb3f818603f9d9eadceaab3057731d3c61a8e]
+│   ├── t1.vxe [7d0b32e5d7fa2b2883a99d42237d56be8992a834a69e5fb23dd61c85c92d64c6]
+│   ├── t2.vxe [8c9fb330682e3b8f64237c0248821cda0d180ef6c774624d6acea0d7f4db5d8d]
+│   ├── t3.vxe [fe2905095c30b116da78c8dfc344261bdfbb37e5572573b6094195ef4004e88b]
+│   ├── t5.vxe [322f15aa2150a08b7b0d20d5ac771e65478f6f58a17ac06d81f6aa22bf010d0a]
+│   └── trace.vxe [0d106feeacb80ebc0417f6292e0188759bee00b562de1ea5d1ede875fabc3054]
 ├── 403
-│   ├── fatman.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── t7.vom
+│   ├── fatman.vom [562b3beeaf1424e5bec77af3a864227531b4e0ee148b132b69ca45afd6ded250]
+│   ├── t1.vom [a607c794635d36c77da60520174f88a46e05c0bff0cce418b94903d83655e1a3]
+│   ├── t3.vom [0439398bed43443ec8f7438b60770da247c4eb356ffd154c3ea068d3ff873167]
+│   ├── t5.vom [ab9f3dbee4a39e3de9bdda51c06d6fc39e1c70326152fa53c9bdaa1f1e1e5185]
+│   └── t7.vom [7f8801536bf967bb472dc40872ad9420bcce73f12cda97c1cd25f039f7308d4d]
 ├── 490
-│   ├── debug.vxe
-│   ├── skinner.vom
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   └── trace.vxe
+│   ├── debug.vxe [d80e0c8a490f363961fb7e1ea409f78aab6761205157e76560e530d779d24245]
+│   ├── skinner.vom [a39bf166cd0e8c05bc40e1ba544ed5f403a74932325ff581c832458be3113f6a]
+│   ├── t1.vxe [b916085c5fd34a8ae84cce19d159ff499bc6a7c587d1eabe09ba32ebd8c60d21]
+│   ├── t3.vxe [b5aa60983787ebaf2fed3647b1215770b76930e7ffe0c7a59b82e5d226ab5e9c]
+│   ├── t5.vxe [fd8c7bc4d25271a7e821845efaf5a78a0bd28c9f608f77ef7b70ea3dfd255842]
+│   └── trace.vxe [39516947bf1c03729de526f429dadafa2afb3da989056b1e5bbe0039a71873b5]
 ├── 509
-│   ├── dirkilla.vom
-│   ├── spook509.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── t7.vom
+│   ├── dirkilla.vom [dc34836c629ccddcb7fc9827296a55975a4c5c495752177c23430c24ae580078]
+│   ├── spook509.vom [edabca090e254c6f9a4f54092998231faa6596fab29d47b9dc8e87e91a313cdf]
+│   ├── t1.vom [222ffd59da03e66bec6023bd14e613c73aaee94c33fe67e3444124afbc6c217d]
+│   ├── t2.vom [2cda0a1511148d7e902d13584adb193e85842f54abb67a199991abd5852f8f9e]
+│   ├── t3.vom [5fb5defd1f69acaee50790563ef366ed425ec463cb7e865aef0dad041182bd24]
+│   ├── t5.vom [6b6c1dc4a7332badff8f625b5ae0084df3b5594425d4604db47faa83f8cfe97b]
+│   └── t7.vom [d3fba233236b619d9811b66060d2da477f11339dda21502a3f23f0a826b69ff9]
 ├── 522
-│   ├── coke.vxe
-│   ├── spook522.vxe
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   └── t5.vxe
+│   ├── coke.vxe [e26c88faa5477eadf877687134487b18c49b269c781bb28788116b4c3b91c8ac]
+│   ├── spook522.vxe [a1b7ceabcee7d2f25026f649e18dd84aff7d66e3f25b3a977ff04bd666cfabb2]
+│   ├── t1.vxe [502323bd9420c652a9ffee8499fbd0b2a33fb645af6c113958c0a0723faaea0f]
+│   ├── t2.vxe [ce29f49b330753223796d2f7b92fac5bfcb6d274305778208ba95ad37a50608a]
+│   ├── t3.vxe [d74584420e4c44f6a18cc5b4225229910babfa344cbe182764929a4fd9931789]
+│   └── t5.vxe [2d221f37d5f3b8034efcde7218575f7e7fe2ef8d3b4be700d547256857411036]
 ├── 543
-│   ├── funky.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── t5.vom
+│   ├── funky.vom [9b5573528c8d7467f124206ebe1f36ffb4dd1e4d77ad8845f5f17525ce1539cf]
+│   ├── t1.vom [bced2f21b456d2103809c1face279d28899c1eadd84f913c3cd836e86d534c06]
+│   ├── t3.vom [56c6d631439ceb7f23fa788b5143b2fab1446494bff93023b6f33b89b1c385ba]
+│   └── t5.vom [705bfdc5479b2a703e134ce6e8f9938e748abad6a60246ef48344768a73019a3]
 ├── 571
 │   ├── a
-│   │   ├── azrael.vom
-│   │   ├── debug.vxe
-│   │   ├── spook571.vxe
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   ├── t4.vxe
-│   │   └── trace.vxe
+│   │   ├── azrael.vom [181b4b5efa62fe0069a66512a4b143140fd508f449a00726c8422be14034d9fd]
+│   │   ├── debug.vxe [362bad07870a507905aea4193e14d495dc50dbb887fe3ffb375c48717a684b3a]
+│   │   ├── spook571.vxe [166b908aa76206fa2aec5a900635c19a27e8bd517acb5d5514b4036ab2740c82]
+│   │   ├── t1.vxe [5d0d73beaa87e35db842fbe01d568c75d3417a1d32215c8cf94fad4ebd29dfb6]
+│   │   ├── t2.vxe [a0922cc871dbb863e537bff17629d809d385ce333496c4f04bd43b31a48140ce]
+│   │   ├── t3.vxe [4e99463dd4817e1d4d8db54c2cf2b946654fe86f95493b28f2bb487ffef878f7]
+│   │   ├── t4.vxe [e3d877f8cb7dae8afde96e04c40a9a81b901ddcb9505adbcc1cdb05b2c110953]
+│   │   └── trace.vxe [cf785c0af6cc1e4ce5260684922d1806efbf8e70fc15ef2eb44650e998551d52]
 │   └── b
-│       └── virus.dos.spooky.571.b
+│       └── virus.dos.spooky.571.b [4427156b69522d23a0692f1cf722e097a4345ba618452419224fdb7298cee3e2]
 ├── 716
-│   ├── darkpr.vom
-│   ├── spook716.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   ├── t8.vom
-│   └── t9.vom
+│   ├── darkpr.vom [0773100cc1a668573bca0c496c9ccb3c738327d838961747cdd0198a3b5c7bc4]
+│   ├── spook716.vom [4f9a3fb9604175a9b7b287aa58ee711344380798ad788dc95a227450b13d679f]
+│   ├── t1.vom [f48c750a8ea3d61acc5a9ce383f1677677dc04cc76f26cdcc18cd8cf8611ba3d]
+│   ├── t2.vom [faf9b1e0de2da5988833e441f25476fb3916e72fca6cd4955321cfc539e35d9f]
+│   ├── t3.vom [3dfe387fa5dd18e20b86036da8335b2a05429f2792ae5064b4ad893f08c06bb6]
+│   ├── t4.vom [d1834d3d1878ba60d2283cbfffc41401e7cd2b3de150bd95d0f544fe83c517c0]
+│   ├── t5.vom [fc685bd6e1b379650159f093661928b69eca418978ba6d03b71479271fc961b2]
+│   ├── t6.vom [6800fc0bb72fb9725edfb05b53d0dd55e187f92bcf2fd554e981a53d67885265]
+│   ├── t7.vom [7a744f3779758133923a230b541032b20622ce9870e5f302ac24fc32ee994dda]
+│   ├── t8.vom [e8ca3fe69c5246255147e83d6097eaa1e17cbb0d18c5d6000858db150b713a77]
+│   └── t9.vom [010647eaa2d64397da19c44c2c2cb621027038968b6003d2717c62c6fbcd791d]
 ├── 735
-│   ├── schitzo.vom
-│   ├── spook735.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   ├── t8.vom
-│   └── t9.vom
+│   ├── schitzo.vom [0889ecf070510c3009fee84261e232c192dbd9a2e78ca7f23fb37dd361fbd7fa]
+│   ├── spook735.vom [2d7cf5e8eca00e71076bf6f57ea0d688bf0989658058ab056bd1c6e11a151cf9]
+│   ├── t1.vom [071531a65a2ee43cfe1ee61e514ae02e1b5181596e136652adde2076958f9c81]
+│   ├── t2.vom [01e81662d2b9fa9f334432317a37f0cf6c24114693a5ccff379b3bf8a56b3297]
+│   ├── t3.vom [f3e67996e8d743a5f85998dd89d5b28a9b6c44cd5c6685ac4b8024d5172b4dc3]
+│   ├── t4.vom [a5778a8638a190b5092d9c1974b1658f2adae9e33bd79a0d279164386d5a0193]
+│   ├── t5.vom [91bbc44260cc85196f4f6b49fa91c342696ec65c152d8f9110725ae603634ad8]
+│   ├── t6.vom [81a5a20f2b047f3ac9d968fcf85545e8f09e33f364fcc109b20c59fdf5041dde]
+│   ├── t7.vom [ac6d446131a19e2830308a109d63892201a9ec09163a219e6dfb5c84d670ff36]
+│   ├── t8.vom [a6d177924fe920d00cd8e5660e9d38a5137271551edea66192a7e3dbfea3130e]
+│   └── t9.vom [07cb9690a09f972583044c2e4827352b3cda2e119b3e83dc1370ad0035e402e8]
 └── 841
     ├── a
-    │   └── spoo841a-0.vxe
+    │   └── spoo841a-0.vxe [c6d74460da82c0d8dba9d2e4a92279ffcb63817839cee5574c26b67fb4b39ac4]
     ├── b
-    │   ├── t1.vxe
-    │   ├── t3.vxe
-    │   └── virus.dos.spooky.841
+    │   ├── t1.vxe [842264adc195a17532a64f4b0ce8f5b1145b633e3ff2065b61c9ab877ea0f8c2]
+    │   ├── t3.vxe [168225d14afdbeeb5dc2758a73131f1f3d146a1b7ac3165832a0c76fbaa52966]
+    │   └── virus.dos.spooky.841 [000c206361a05fe6832170f99240501d07d0469dab81d128518b13fa58ee1851]
     └── c
-        ├── spoo841c.vxe
-        ├── t1.vxe
-        └── t3.vxe
+        ├── spoo841c.vxe [daa0677f4eeede1b6230e281ad69367559c8d918cd4cc5714b3f91778104688d]
+        ├── t1.vxe [8725fc2099169179476e28a6ca53f22da82639c684f7969d2b5fac7a8028eb28]
+        └── t3.vxe [83e638c5bad9ba42ad5499afc3a16f6f526e1c72fbca34d40c891dc057b9c8f9]
 ```

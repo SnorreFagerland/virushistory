@@ -3,12 +3,12 @@
 
 ```
 ├── a
-│   ├── vcc_306_-001.vxe
-│   └── vcc_306_.vom
+│   ├── vcc_306_-001.vxe [16e8e483aa85d75489122198f85c8a2f225460a55ff06f20883384024c2cf055]
+│   └── vcc_306_.vom [1d9aedff687152dbe4f031435452c149c5e95237784064b984f06382e4294b8a]
 ├── b
-│   └── vcc_306_.vxe
+│   └── vcc_306_.vxe [e52d92e9ad7d266ee142c561b8d50ca98bbef8abb2f431db2bb736239b46182d]
 └── c
-    ├── t1.vxe
-    ├── t3.vxe
-    └── virus.dos.evul.306
+    ├── t1.vxe [79f05d6cef89db226380d3814d8e5c8716d74e24d34ff3769d66b0b44cc52942]
+    ├── t3.vxe [c5de77472e41fd7911d344b473f6c9e6c98554a32e3396e99177d1fab8acd780]
+    └── virus.dos.evul.306 [02cf8ee22692e0dd85a37d886d190b62f2b363e5745521d7deb7ab3ce044e009]
 ```

@@ -4,13 +4,13 @@
 ```
 └── 1009
     ├── a
-    │   └── virus.dos.iotm.1009.a
+    │   └── virus.dos.iotm.1009.a [c47c20335b04222a90ef30765442250b7b4c5f0b595e0390b59a11afc5e9dfb8]
     ├── b
-    │   ├── iotm_100-001.vom
-    │   ├── iotm_100-002.vom
-    │   └── iotm_100.vom
+    │   ├── iotm_100-001.vom [5b428dbb92f0e689fdfc2d41f82c73e262e1a33bd693eedade1c52ff533ba42e]
+    │   ├── iotm_100-002.vom [b215eb54ef4bed8b91e893beaac75c4c7358b7109a4608e253cae719089b4cee]
+    │   └── iotm_100.vom [240515de8af9e3450e0866cbf5e18784919f169fa3071707fa28df3521460ed1]
     └── c
-        ├── t1.vom
-        ├── t3.vom
-        └── virus.dos.iotm.1009.b
+        ├── t1.vom [153758d87c837adcd298ebdc4c0489b542340fd09c863da95b86a071ba681148]
+        ├── t3.vom [dd1c436e88b616490b37d696072ba0780c2663b701c9cd850b13f9fb18655561]
+        └── virus.dos.iotm.1009.b [5fc45cbf70e8a9a1b464e3208baa546e765a8285243ad4b9398b0706675200b2]
 ```

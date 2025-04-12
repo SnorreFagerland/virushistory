@@ -3,39 +3,39 @@
 
 ```
 ├── 2351
-│   └── Virus.DOS.Zombie.2351
+│   └── Virus.DOS.Zombie.2351 [917d42fdccfafa328857eb6a7f693d80a8f4b027849518b3d2e39daccbe0e5d3]
 ├── 2415
-│   └── Virus.DOS.Zombie.2415
+│   └── Virus.DOS.Zombie.2415 [d644e5c9265bdaa69d9072a4cd3e0cdf76a628d8b17f62420a0907b305ece756]
 ├── 3592
-│   ├── MORE.vom
+│   ├── MORE.vom [12a70b8659b2fd9bad39de16f06f24ca3dd222dd21ad614192f572383629b38f]
 │   ├── src
-│   │   ├── 1.ASM
-│   │   └── Z0MBIE.NFO
-│   ├── zombie_3-001.vxe
-│   └── zombie_3.vxe
+│   │   ├── 1.ASM [50f72d5707e771b5fe6ded70d675290290dbb7f757e4de5626f06b0edc206411]
+│   │   └── Z0MBIE.NFO [08f9ed5a07822cd937a86f248e0c68ec2f437fd35e1b061f8c47f043c096a6cd]
+│   ├── zombie_3-001.vxe [7b8a11d8a5b65a7875313c514d5789e5afdb8e23173b98e05a7cf11b9a9956ac]
+│   └── zombie_3.vxe [1b66dca197c8fdc11cf198b987157b977004367db0dee4685025b9409f9b75fc]
 ├── 4566
-│   └── Zombie.vom
+│   └── Zombie.vom [8bab49ba47eec6953770578758819516b342692bdf574662d863004e2e182ba3]
 ├── 4592
-│   └── Zombie4.vom
+│   └── Zombie4.vom [001e7aa61b88f864e5fbfb29340111365e1b8ed134c8401f01d2c4fa671da5c9]
 ├── vpi
 │   └── 15211
-│       ├── abadbs.vxe
-│       ├── debug.vxe
-│       ├── fc.vxe
-│       ├── trace.vxe
-│       ├── vip.vxe
-│       └── z.vom
+│       ├── abadbs.vxe [3d02f5298bc64470f5e50767a9de54045cb5527f243261c6e4d0799290c4c25a]
+│       ├── debug.vxe [1453833e42f1c7fc476bb42bcda193f22ef99d9fb53df35048622c50a5ead76f]
+│       ├── fc.vxe [27dc2d3e389d9f60994bb7841003d22c86be57fa947752420d9599e031e2b9a9]
+│       ├── trace.vxe [e25ce49ec1e71e408f729811b1e38d153357cd1b943083091f333cf88d9098f3]
+│       ├── vip.vxe [8bb1569ccb456a4aa42dd3f1dff696de2e436912baf48436fd78d04d1a231d1d]
+│       └── z.vom [bf5fab2ce9c97542ba9c12bb5903b3a70fb38dd1b4d00e29668f3809a1597c7d]
 └── zcme
     ├── 08192
-    │   └── 1.vom
+    │   └── 1.vom [6a9d436b04490a3b621e881264e6e5173c2badf16384113075bc552d77640c5a]
     └── 16384
-        ├── 800.vom
-        ├── grep.vom
-        ├── keyb.vom
-        ├── t10.vom
-        ├── t11.vom
-        ├── t2.vom
-        ├── t3.vom
-        ├── t4.vom
-        └── t5.vom
+        ├── 800.vom [82e003e0ea28cbe71022cde8946b265564cef2d6c2291ed9c212fa8b3dd19309]
+        ├── grep.vom [be04244063688e57386ded6200243bda6923c2db0f2d247eb3b611fe046eee06]
+        ├── keyb.vom [1d05b4077d8fe2acc9e475cb7626a1f20b0aa63b3043e105bfd616aa6650212e]
+        ├── t10.vom [97bd499305c8291c24f95d405d37bc9bde17be92e8a27b8f62006995f1c010df]
+        ├── t11.vom [87b43ccba2ad4c6064d5d9f327fcf448ccc1106663ce8bb50a70fbccd47fef75]
+        ├── t2.vom [18631ea93c3d3e23fc850fa7fd09b3c923d079b89509cc30c0dfe988e739b0ff]
+        ├── t3.vom [1c9a6709de78b8eab4a5e1c7b5df42ea418b8861638613e4cf7a2131930101b3]
+        ├── t4.vom [bf9f4f76745788002a297f66176feb08c03a888b73516209bca54295a17e8ce6]
+        └── t5.vom [926717f1171a0dcc97b7719df8603b65b08ffafdbfb4df0605813037116f6c86]
 ```

@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── IRC-Worm.IRC.Whacked.a
+│   └── IRC-Worm.IRC.Whacked.a [eac5f9b594bb53b0b15ced148cdbe22134d699d1b44c74be9ee7231db3dc164e]
 ├── b
 │   ├── 0f30744f27034c64a42cc87021c7c9394a53538a94319325037ffb6c7d848f9d
 │   ├── 1bd904eddf793f534c9d9ce7d18e519e0c0ca48e2bfd3f7186e7a5c7021c4aee

@@ -3,24 +3,24 @@
 
 ```
 ├── 1037
-│   ├── grep.vom
-│   └── wci0018x.vom
+│   ├── grep.vom [29c4019ec60d53f199bc10a5bd7ca4f05bf23cbc04edf30e7ee4d841a12718d9]
+│   └── wci0018x.vom [221c97a4e1c3a46131122ecb758ae342f1919b78b1fdf33cd9789069d9151aef]
 ├── 1045
-│   └── virus.dos.xuxa.1045
+│   └── virus.dos.xuxa.1045 [b36d5b69c557672043bb9d0f50ce1ac9eef2f7a9a4e2a0f6588de39218936a17]
 ├── 1088
-│   └── capiunk0.vom
+│   └── capiunk0.vom [bad38492bd9a6f903744201a508cedd4004bfe887245696f70598f471df7385c]
 ├── 1096
-│   ├── 1-xu1096.vom
-│   └── xuxa1096.vom
+│   ├── 1-xu1096.vom [9874ed53c0c4737848491669759e60fde710ab0c44d6cd83b68c6772b0525e25]
+│   └── xuxa1096.vom [3061d34cb858ecf30904d5bd035c7b2ffb4a75a29e70abdcd5dafeab9b1308ee]
 ├── 1656
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── wpview.vxe
-│   └── xuxapark.vom
+│   ├── t1.vom [29d043f24f7ed82aed9223cce9098f9e04419a018588fb057276b02504673656]
+│   ├── t1.vxe [03e8cecf4a1a0bf9df3da2540963e7dce776715bfa21a76133a9c465687aaa5c]
+│   ├── t2.vom [ebcd06a1964cb3e06da9f42ed9203790020483d5672eca6bfd1fd3bb135692a6]
+│   ├── t2.vxe [350e87096484584c7bfa869934872eba38bba108475c2c7fce1d1ecdde98696f]
+│   ├── wpview.vxe [cfadba28950442b253189d960b9d312a52cff89cbf32e84c68d46a4d0c507b90]
+│   └── xuxapark.vom [0deba4092003286e45f8cacbe73439985f5ed2b55abbdb34e3382041da13691a]
 ├── 1984
-│   └── virus.dos.xuxa.1984
+│   └── virus.dos.xuxa.1984 [e41daa085eeec038c7c1e34db0efacef69f857663214b6cf85c15c48d4bbb761]
 └── 2058
-    └── virus.dos.xuxa.2058
+    └── virus.dos.xuxa.2058 [69b044e2ea9f5c61c8c908d15c4dabdbfc6113441a27de921e8f9907a63204d1]
 ```

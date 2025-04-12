@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   └── wci05003.vom
+│   ├── t1.vom [d77b83f15030838d29e2e5cdeb0abb6c7e4a2c8fe0363a1e65c89146ab528321]
+│   ├── t2.vom [c6d26fc629ca14e2b01f26cabbbf9cb2bbb75bad0d50d127a8aee171d239fcf5]
+│   ├── t3.vom [6aff528eae6aac5ac3a4612f4c141f24ec73df6c5b4340921077e088222383ef]
+│   ├── t4.vom [bd8d7793c2f01a06fd712a21b68b8175bd8fc6ee1762af797492aa7f60204010]
+│   ├── t5.vom [857a673274e033b4c08b6a8001a121871c9ce563dca9c0d5f4cbc7b2f2251ff4]
+│   ├── t6.vom [7b7003d7fafcf049125a02c76060e61f17856f46d5b161e2a9d6607c93fcbc81]
+│   ├── t7.vom [938dfd9aab2e4da1509d2bf38668973a0296eb157c8194d6fe035d2cbe4a6a1a]
+│   └── wci05003.vom [6315b06cb1c400014ecdc8b06645c8ee5472162788d4a493bdc0b434bccdaf7b]
 └── b
-    ├── silrc303.vom
-    ├── t7.vom
-    ├── tc.vom
-    └── tf.vom
+    ├── silrc303.vom [6ba609b538491cbecf22ada791e136193fc2dc55d93c25581a315338ee2d208b]
+    ├── t7.vom [4ec6ab9abe9453fd5a9a49b22180a15c3417d7b26851fb397593858469726286]
+    ├── tc.vom [bd426be64ee581dc5340a09fea2a3721d3bb6f84956bef9d6ab94a4c6e221e64]
+    └── tf.vom [43e2f3b304aee722ca729a6a81c6392dcac2968e73d1fdbe4223ac3db2bdfea4]
 ```

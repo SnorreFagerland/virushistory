@@ -3,29 +3,29 @@
 
 ```
 ├── 0839
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   └── wci00523.vom
+│   ├── grep.vom [02bd60cbb64406b1516ac30fee144b193b4750a967b4e0c6b7cb633eefb40a3b]
+│   ├── keyb.vom [3252424b8589dcf292bde977e0accf06a6c1f8731aa760edcf63b16460447674]
+│   ├── t1.vom [483edd739eb0512e205b0ee72a30f272b1000770a57b4899dbd0a5b6dc688e0c]
+│   ├── t2.vom [ddf756175bf756f06b9aa6e7b2330e868f6f4c2458b696762f718a4007e02bb2]
+│   ├── t3.vom [d91eadaa2f233204e4ab0d70afecd1d65253933775d6e6d7ff853d04e9d99273]
+│   ├── t4.vom [1c7d2d189d7da950ec87a30a310cff890483f135013d47b63394bbf2a38d255d]
+│   └── wci00523.vom [742b59109167ddc0710c89af6506d3f9e92ca2a3047965193b1dd43b083115cc]
 ├── 1787
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   └── wci00543.vom
+│   ├── grep.vom [83301c14daa34611a257a72770ffbba6b3de4e2333a264da4c7791b68baf8128]
+│   ├── keyb.vom [bb4855e0fea981731632076e73c2f644225de472ba93a49bd3d183eb97cab01e]
+│   ├── t1.vom [51085db4e86b7ffb75d0c21a312b4184038e748721019509270dd8e3a5da7fba]
+│   ├── t10.vom [a89756775f46215bbf3376ec4cc09b254d640f64a61e4b8ed66c6f813b54cc1e]
+│   ├── t2.vom [2d6315688d3d191185893654943913dc022b6d944953646f2ec581c4fcf059d2]
+│   ├── t3.vom [a7f4ee33e2435df98bb9d216ec42f9718cb9e1576d444479144bcc2e7077c6db]
+│   └── wci00543.vom [be634a33a59bbc3511e69bddb97833350f7654ae15dd310fd60a65e3ec41ad06]
 └── 1970
-    ├── grep.vom
-    ├── keyb.vom
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    └── wci00533.vom
+    ├── grep.vom [21639141d149ef047479cec0419d79aebebcc2ed7899893bdb390d63712486d2]
+    ├── keyb.vom [e66c6cd7b8cb98df5781d2df1bce47787f7355edd85a6dca1a5283cd10e1bb1e]
+    ├── t1.vom [7c443a7f43c731d762a18819f5f00407cf3afffb67c7ac47e7f62976ddb193e8]
+    ├── t2.vom [c3e71ccdc6ebfc707647fb19fcab65dd03d87e6a695d3ab5161205e684d6f913]
+    ├── t3.vom [94da2dbf1c728524e1375a88eb3dce5604a6444050577c589fcc35ffe5a72768]
+    ├── t4.vom [80e00192d9c60af1ef006552a0674c757c66f0e7145dfd50ad4bbd720ed93600]
+    ├── t5.vom [566e1c5cfeb3fc62593e03399ffe54980e68cf21978f67330f92c61074174b21]
+    ├── t6.vom [1f631fa0df5c85d307db3d75bb3fac1510f233d65505c27d42d9c82d0f30bc2a]
+    └── wci00533.vom [f0eab981bc17d9b649a626ef4289515a9e4ba14620bfb23cf32f6a8284961368]
 ```

@@ -2,8 +2,8 @@
 # Contents of `a`
 
 ```
-├── DPOG20.vxe
+├── DPOG20.vxe [89c7eee70900ecca5b44ce379af24346b498191a954f3b76f0aab8d9d08a41f0]
 └── src
-    ├── DPOG20.CFG
-    └── DPOG20.PAS
+    ├── DPOG20.CFG [b3042704aa48fa34a376cfe631e44d466c579723390d252768b7f7a3ff981b2c]
+    └── DPOG20.PAS [82808cd4de8cc5242f97eb47f257be32b322e8fb1e645804214682e136f4ae55]
 ```

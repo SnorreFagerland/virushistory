@@ -3,49 +3,49 @@
 
 ```
 ├── 0299
-│   ├── yb-299.vom
-│   └── yb299.vom
+│   ├── yb-299.vom [1b3f23fc163ae090039466b16f932d1129bb71a956b102ac6fe297c698db9389]
+│   └── yb299.vom [14740ec5201978cce8390b405ffc131b5e048acb6ef7a0db9fbd4d30ec7b43ff]
 ├── 0300
-│   └── wci0057y.vom
+│   └── wci0057y.vom [3d31b84fb317af411e7173550730ec4b9b39202c80024025e0280cea1de995a5]
 ├── 0316
-│   └── silrun.vom
+│   └── silrun.vom [c160cc613af82430a1f927bacffe2d9461dcd6cf96d0594b6156717b23e8e1dc]
 ├── 0325
-│   └── virus.dos.yb.funkware.325
+│   └── virus.dos.yb.funkware.325 [6fe6afe34975782327aad646237c330b2541beb038673b78bb48ba0dca5dcdaf]
 ├── 0362
-│   └── yb2277d.vom
+│   └── yb2277d.vom [a17658237f36e19f2b7a5da4d66fcabc101bce50fc1126d199086a512d4aa653]
 ├── 0402
-│   ├── c-yb402.vom
-│   └── yb-402.vom
+│   ├── c-yb402.vom [4b708b9c6ed693bae6325e2fe8d5b4fb6b95153c14f8f737d207e5055c424d6e]
+│   └── yb-402.vom [6e692a48d83d080bf9c1a04db5358e00600d68b56f8d63b6691764c15399b4bb]
 ├── 0405
-│   └── c-yb405.vom
+│   └── c-yb405.vom [8a5ab8192992b7ca996b1e1f215f5663220ab5740e7cd8993cfed6240f1d80f9]
 ├── 0425
-│   └── yb-x1.vom
+│   └── yb-x1.vom [b924e04a3e90ade309af9fd7bcf0762efd805c0374ab5dcf3a78c95313eb467f]
 ├── 0426
 │   ├── a
-│   │   └── yb-x.vom
+│   │   └── yb-x.vom [0e9ed36eeaf9f05cb4e6ceb84d010dbe432dcd22811f85661e426d81b9b17479]
 │   ├── b
-│   │   └── yb-426b.vom
+│   │   └── yb-426b.vom [12006d707d4fb31ec5acb168b59d795800a06318b62a5a3c0766ca3225474e31]
 │   └── c
-│       └── wci0061y.vom
+│       └── wci0061y.vom [3e24b205a1fce64d46e8852655b3c3f6a67fb9943e9173d40bfb5d7674d40527]
 ├── 0428
-│   └── Virus.DOS.YB.428
+│   └── Virus.DOS.YB.428 [a439bf33e75a2fbb3df092f221d4afe0140cea7df7d600e37f7aac0d52d0b935]
 ├── 0466
 │   ├── a
-│   │   └── yb-x.vom
+│   │   └── yb-x.vom [87853d883fb31e67e776c7d6710f3378787956ce7dc1b8e32b27ab6a57d1c381]
 │   └── b
-│       └── UNKNOWN.vom
+│       └── UNKNOWN.vom [a97ca8378ff5e5d2b551055931e48a717bfcf2370f7c9b97e829c0420a08ec93]
 ├── 0467
-│   └── Virus.DOS.YB.467
+│   └── Virus.DOS.YB.467 [a51ed774bac7958f4e4e41bb6cbd537dc71aa258c3f50fafe381763db8b1f6c7]
 ├── 0647
-│   └── yb-2.vom
+│   └── yb-2.vom [7b54b9b6c6985e57ca14fff255220b911b3c95fe7a061b66a831c072adf353a2]
 ├── 2277
 │   ├── a
-│   │   ├── t1.vom
-│   │   ├── t3.vom
-│   │   ├── yb-2.vom
-│   │   └── yb2277e.vom
+│   │   ├── t1.vom [294c29205c32c14a5929c2718c3a6dbadb6adc2b4c1c458ba05f821440ca5dfe]
+│   │   ├── t3.vom [ef83b3e547c49777012bdf5f40b98defcc540bd0bc5a3ad3df363f687f81ab1b]
+│   │   ├── yb-2.vom [50f603751a10ce5502af2ba904d67b750818b2a08a3174a850002a4c1a14a93b]
+│   │   └── yb2277e.vom [1016489e54b98779778bc36d5aaea9ef8c86059255c7514b3209b57b1ec14a56]
 │   └── b
-│       └── yb_2277_.vom
+│       └── yb_2277_.vom [a88b4981cfcb6454bb815ffaf1e74287934c73476334b4c99f023434699590b3]
 └── 8588
-    └── oldscrib.vom
+    └── oldscrib.vom [c83d39b4bc4a58db48f663ade90c4a47d31c7b1fe5402aa7cf706d274928d103]
 ```

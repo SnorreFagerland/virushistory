@@ -3,43 +3,43 @@
 
 ```
 ├── a
-│   ├── 1575.vom
-│   ├── 1575c.vom
-│   ├── choice.vom
-│   ├── command.vom
-│   ├── getvect.vxe
-│   ├── greenc-a.vom
-│   ├── greenca4.vom
-│   ├── greenca5.vom
-│   ├── greenca6.vom
-│   ├── greencat.vom
-│   ├── greencat.vxe
-│   ├── max00120.vom
-│   ├── scan.vxe
-│   └── vworm.vom
+│   ├── 1575.vom [2a228982d61a58a96a8641073a49fa35a70f14440be7845a97c8f0f42fee3ae9]
+│   ├── 1575c.vom [7cae9691225162a1a3026b16d25d46ffd8c65ac27f2e9da27091664f509fd5f7]
+│   ├── choice.vom [ebd89dd3b8ef7d0043240d85e50a6d9ba016d894daabc01d92831128f891044d]
+│   ├── command.vom [40a35f873dc5cf8cf1b5e91176861eddade91be720964d4666dbd49aa23e0f76]
+│   ├── getvect.vxe [4ff377ce7d278176678ec96b1e381589c61ab8ccccce5ce1d5f3746dd4ca0978]
+│   ├── greenc-a.vom [4a14244c35a09f93105b6493a61a6a04f53c35df7ce89ce97f228a6ad82256d4]
+│   ├── greenca4.vom [40624a8ff67b9fa82a75ceca7bc98c4635dea6bbad6bd52dd6059e0a30dd2f93]
+│   ├── greenca5.vom [981591bfc6212fd1401626ead0a25fc969f07d2398543826616deb6622038ae7]
+│   ├── greenca6.vom [a3f19ba6da7e59a9a412577c3083e4006f7eb97afa7113216c58bdf787b62a69]
+│   ├── greencat.vom [eb5edc0fdf37ef69e5b5d4c083f9a35dc7c82cf2edc0f6ffb7927100fd6be88c]
+│   ├── greencat.vxe [d1acf6bb04d31915d1053ff2d27c1042c56f749fa2a6423aedf8d474d55ed0b7]
+│   ├── max00120.vom [b08e14b0832b3fd32861497757a0111ab25e0004fc8657c90c6e5dfae29991be]
+│   ├── scan.vxe [9cc821d4096ca9becfe1afdc659d1da7f84f275e7b783304280c1965f1b4dcf3]
+│   └── vworm.vom [e017b9695e161dd4906f9ce56b66d8655539525b423eb8a581a30e3343aa4a18]
 ├── b
-│   ├── green_~2.vxe
-│   ├── greenca2.vxe
-│   ├── greenca7.vom
-│   └── v2790.vom
+│   ├── green_~2.vxe [e401ad6704b63c93a95be5aeaac065966713cc4ee2cb2838b8dc79b565d185d6]
+│   ├── greenca2.vxe [033936a23f96b8463c128ab8b7b5903994b3f042cf93fbfcf77326b1745cb708]
+│   ├── greenca7.vom [6db4c547256ea8f8e3b973afd5ab87fcc7a4c821616291562a5609c5a86ddc11]
+│   └── v2790.vom [f50035c282effe086df442f1174acd26649769e526abb903be5948a0fb5e0dd5]
 ├── c
-│   └── v2800.vxe
+│   └── v2800.vxe [868ead01344370667d1ed6f006e2ecf81df45e9e2152b6e933be73bb52411d39]
 ├── d
-│   ├── 530.vxe
-│   ├── gmouse.vom
-│   └── green_~4.vom
+│   ├── 530.vxe [3a02ba13c1e4c4bd22448814d5e8ea8582ae5186fd2f819e8c6e2b9ba4043b99]
+│   ├── gmouse.vom [c632eb8afcfc11cc46091ea2d46a5bc8e9a090cc438392b9f4261d7bc01d888c]
+│   └── green_~4.vom [7bfc47d63302571cc745ae70fbc2264d46350891c99b11cdb525756f27e3ad36]
 ├── e
-│   └── grencate.vom
+│   └── grencate.vom [3686e348c1382848e16f8463f3589f290e7893ed48b4d16afdd5664509e1a76b]
 ├── f
-│   ├── 1575-2.vom
-│   └── gc1575f.vom
+│   ├── 1575-2.vom [0e60c025be72c2cfcf8eeb26d6c0278de8809e85a77fb4d1d653daa81f895935]
+│   └── gc1575f.vom [670330801b017eeb725a6bed9565c985b914a3352decf6e7f3339df181bdc7dd]
 ├── g
-│   └── gc1575-g.vom
+│   └── gc1575-g.vom [740ef3a3cce841db8f8cc3c3599128cf7fe3defbf23138488b18351b5290475f]
 ├── h
-│   ├── 1575h.vom
-│   └── caterp-f.vom
+│   ├── 1575h.vom [52cbd5c09a32a5bd1dcee0663c76c3044c4dee89620cf34af9138c3c9b5b96c5]
+│   └── caterp-f.vom [6386c7500aa08b6c404de764980e4a0b2a25ac1e871ce346d2e26233b06ba030]
 ├── i
-│   └── bigball.vom
+│   └── bigball.vom [01a5c7b6b9e48635ab7d98ac852d82d2ad1b2a0c77deef4b4fc06d2a8ff7d60b]
 ├── m
 │   └── cb7c91d35fc560ac8de1afdadc7ebf84be74576af72573389dc0c5c5dd37744d
 ├── n
@@ -48,10 +48,10 @@
 │   ├── e3491acc2b51f0f324e6bdb144678b232fd60afa36ed2ad59db878994cad32ee
 │   └── eff9389cfae43d998bd90bf57fd2bc24919367e25ad4116f78ad32bf0b7c32d4
 ├── q
-│   └── gc1575-g.vom
+│   └── gc1575-g.vom [c1020520d87fbba1d5f437e46cf2ef79a719da4cf99a3b270e77d0d7bf5cd2cf]
 ├── r
-│   ├── 141be367.vom
-│   └── wci02781.vxe
+│   ├── 141be367.vom [7ae21a48f2994b1b7ef32692e1e48aa69b16cf950d989bb9f95d4a3e4fcc79fd]
+│   └── wci02781.vxe [6e8596d11e76c8a7c5bfe7865a09c20cc86cf7160515324b531933b89f0f6d80]
 ├── s
 │   ├── 50d1bd96f09b9ffeaf2fc05cabe6cdab6719c5b778b7dd70014a5ee77beb725b
 │   ├── 5721ba2a32b9ff504800990c657e8ef97e1ad196607436aa45c52180704463d3

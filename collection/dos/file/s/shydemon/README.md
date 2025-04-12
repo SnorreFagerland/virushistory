@@ -4,20 +4,20 @@
 ```
 ├── 1551
 │   └── a
-│       └── virus.dos.shydemon.1551
+│       └── virus.dos.shydemon.1551 [718f70ec0ec7aa71b0beb4932442a57daf68df6763310b1caa10c1d54ed22a4c]
 ├── 1556
-│   └── virus.dos.shydemon.1556
+│   └── virus.dos.shydemon.1556 [acf7d2b97d628c8845fdcf7ca2d532d7357bf31ef304c7019388b405d92cbf88]
 ├── 1603
-│   ├── t1.vom
-│   ├── t2.vom
-│   └── wci02315.vom
+│   ├── t1.vom [91431158088c750f2871437ff795075eb075b090652ff31e342df2bdd181050f]
+│   ├── t2.vom [fcbe324369925b0fdc3a235f115ad6081792f8abc5c9223fb479037c8a999f6e]
+│   └── wci02315.vom [55b29b7811bdb4ca4340a45b73ae7f0828fd1c0a3941cf47d6076985fdcd73ec]
 └── 1608
-    ├── shydemon.vom
-    ├── t1.vom
-    ├── t10.vom
-    ├── t2.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    └── t9.vom
+    ├── shydemon.vom [458c436d866c365ed0331ac94ca6cc774ea6ec8f7d3315e3bd13536df29de4ef]
+    ├── t1.vom [f9bf32b00d48654ec293fb376b55f00c774960bcc7aaf1586bf2fbd85c4eb942]
+    ├── t10.vom [5d7c22a5a9f126e04a0249fc4e806c3a5043f67e18a15c2bac673a7095a81ef2]
+    ├── t2.vom [ddba7236c6f791e1b88034f64ecfb496ea4bbfb300ebdd3241b374d7542c22ba]
+    ├── t4.vom [829864a72b7a5bc30e0e345238cd81c4d1f72a5be1f7689735a6097604ca5dc0]
+    ├── t5.vom [aebc69f84e6633e49f38c2096d09d0f8d6e83a132668c568b4c2f0ed0051da35]
+    ├── t6.vom [06d2a80782b858147548b417510affacea7ec8932f2dcdf9a7490a2a74788b99]
+    └── t9.vom [44e66d70bfda64bce4c46450d42128d4d16cee230d37425e62ae5f91891c2cb8]
 ```

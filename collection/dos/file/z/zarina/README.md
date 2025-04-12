@@ -3,14 +3,14 @@
 
 ```
 ├── 0509
-│   └── virus.dos.zarina.509
+│   └── virus.dos.zarina.509 [24a1558f179efd337b14b171cb72b4a49396ff9a20faf51f520f2cba08175deb]
 └── 1730
-    ├── 1-_1730.vom
-    ├── 1-_1730.vxe
-    ├── 2-_1730.vom
-    ├── 2-_1730.vxe
-    ├── 3-_1730.vom
-    ├── 3-_1730.vxe
-    ├── 4-_1730.vom
-    └── c-_1730.vom
+    ├── 1-_1730.vom [9d93044a25048e8640690e64b9b5c641fb6e2914e3fd5fed89c72c9b6cbfc9e9]
+    ├── 1-_1730.vxe [1e92ae5e6151a63444e8aa4c2d9a86575932c9a43d1a3bee7d15561c3d5d6bfa]
+    ├── 2-_1730.vom [3f926b2f415647afb4fb67287b74fc64c418f0851b04e930c960192147d60d1a]
+    ├── 2-_1730.vxe [385e957d7739105d8442c2677d21da26855ad97368de3988a7c3de460e3d9326]
+    ├── 3-_1730.vom [fc751ab0141130fc8a2b5addf036ea59aae75966e0cff427dbe7c682fe026e5a]
+    ├── 3-_1730.vxe [1c2d732118202db4ffca814462540b11c162bb916bddb304da5f8f96eac3e58d]
+    ├── 4-_1730.vom [1e524af485ca16d9f625aa698db68f6539cb22635f6ae2e205621ebbbfa68c5b]
+    └── c-_1730.vom [e9d7746d078bcc17c1c38effafa7ed0dd947809de990926df93ceed4d4b745d2]
 ```

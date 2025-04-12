@@ -3,35 +3,35 @@
 
 ```
 ├── d
-│   └── virus.dos.birgit.999.b
+│   └── virus.dos.birgit.999.b [17428965c6abd50d46e26a990eb9f1a08dcf260c14e67faab9dca414b81af112]
 ├── e
-│   ├── inmunize-001.vom
-│   └── inmunize.vom
+│   ├── inmunize-001.vom [eb29c03755127dc5a57e676370e12cc01dad10469aeaad847cb699193359874f]
+│   └── inmunize.vom [3b61850cd89237c4b21e625178b9e98bcc30fc9fda85ba3b133f76d6f00cefe3]
 ├── f
-│   └── inmunize.vom
+│   └── inmunize.vom [74ef7dc3376b33dde5b9019eedadb4a064a5e67c7a2172f4205748e03fa01e9c]
 ├── g
-│   ├── inmunize-001.vom
-│   └── inmunize.vom
+│   ├── inmunize-001.vom [cd01e5c8c04c8a7b527194bc94e26c624e36c4b5275a730654a4cae2c1c3c5d8]
+│   └── inmunize.vom [f5f2139c080479a49262761687be745b28ca0a76d0344bfced7297d11080aa96]
 ├── h
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── virus.dos.birgit.999.a
+│   ├── t1.vom [e4255d93fc4cd96c64d10619a6e68d5905905c25e5247093dab79afe427a99f7]
+│   ├── t3.vom [c77c8168229486880a9c67bc7e6b4b3c84664b9f95cd30462cb0a24df88c7d4e]
+│   └── virus.dos.birgit.999.a [315631276c37152226e116724375dbec1992d28d1ab0918c6c6d0c45021973b6]
 ├── i
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── virus.dos.birgit.999.d
+│   ├── t1.vom [abf16dedd1ccfa29d2f7290b92f4d23b33d228a337aa505a1ca531514a957e93]
+│   ├── t3.vom [572d4c4fb0c77fa97f923ece658b0ddb474c794e733871a01397d8e84127e306]
+│   └── virus.dos.birgit.999.d [7a225e1b9c7bd204d2430f504461537c6fd5b4d22b18a1f0c562bfa0702dc8b9]
 ├── j
-│   └── virus.dos.birgit.999.c
+│   └── virus.dos.birgit.999.c [aa5e2b1d23e4741a2b5b568ec5906b5a66aedb78e12abc13acee117e3173836f]
 ├── k
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── virus.dos.birgit.999.f
-│   └── z
+│   ├── t1.vom [3232a1b40de745519b44ceb6e75e5da8beadc9486d2ec4c1a7af965f080d537f]
+│   ├── t3.vom [610b789edc439257afa4ea6b0029b11f6b4a8fa7885d7a7cb3726bde4c1f0341]
+│   ├── virus.dos.birgit.999.f [57274ae559fa896c2db4dd388d1e980a2e531660ad0d551c4954a92651cd494b]
+│   └── z [5d83f46762a7819619980d028aa1803312597122ffd7d5ad404cca283f783d89]
 ├── l
-│   └── inmun-e0.vom
+│   └── inmun-e0.vom [e0ed36de8cdad6824c042c710db4725a0f6eda7ca1813ff3dcaceccf2f3beb35]
 └── m
-    ├── DUMP32.vom
-    ├── inmun-m.vom
-    ├── t1.vom
-    └── t3.vom
+    ├── DUMP32.vom [bb8d6b0ab95b5b221e196d835ef854100ff0f564a19e315bd66915c4c8d89aa4]
+    ├── inmun-m.vom [24b4fc476bea47508ee8f197efd4999e928ee6fbb3a720f386c84d9697df5ce2]
+    ├── t1.vom [075adbf62c0d7ea724a23f163a1d68282c1000508015737fa8516e9e19a80beb]
+    └── t3.vom [c2180a4a3dd19144347986a10f35152416bb17693483920ffde7a81cf3101b98]
 ```

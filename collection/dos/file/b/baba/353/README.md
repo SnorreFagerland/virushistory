@@ -3,21 +3,21 @@
 
 ```
 ├── a
-│   ├── baba.353
-│   └── baba35~2.vom
+│   ├── baba.353 [fe30e93a09d1edd8fec86a7af55ec4c2dc7d5349338091c75ac60a0b24482f00]
+│   └── baba35~2.vom [6414bb3f80d6472c3b930b1a5f5f45700e664ff45a0534cf8c8cbcf63e103bbc]
 ├── b
-│   └── baba_353.vom
+│   └── baba_353.vom [2a091f22757c6c8b7e683f174d9949e798193207f634e9aa4a44ba69089e06f3]
 ├── c
-│   ├── baba_353-001.vom
-│   ├── baba_353-002.vom
-│   └── baba_353.vom
+│   ├── baba_353-001.vom [f066f881f5ab918472cf9c2369c7afa1d4a1e34f06039a52f5d2715d909e6408]
+│   ├── baba_353-002.vom [cb076b860292ca010358389e0f7179a795d72d5b06bbe9127c23ae7ec563bd4e]
+│   └── baba_353.vom [5557afde6e011249279331aedad54072fc3183773441b5c8374d6e739e5a8926]
 ├── d
-│   ├── baba_353-001.vom
-│   ├── baba_353-002.vom
-│   └── baba_353.vom
+│   ├── baba_353-001.vom [91e93dd7743b892cf9578c13b529af5538bc802acaa9a2dd49180a4f524489dc]
+│   ├── baba_353-002.vom [f2a32477b79c9a1ddc5945742966be6336c08714452f4b5eeec82e0ac61a41d7]
+│   └── baba_353.vom [2c588e889799e2246f71258c3037ce52ce2e2921be8db25f0daa7d010aaf9988]
 ├── e
-│   └── virus.dos.baba.353.b
+│   └── virus.dos.baba.353.b [1b939d2ec3f16310a7cba8e1e48c68e4dcca6fedef86cba63d965dd0802c4043]
 └── f
-    ├── baba_353-001.vom
-    └── baba_353.vom
+    ├── baba_353-001.vom [ab975b6739df50a5c34322cebcc4741f0161dc5b32b2ade3877de2e3ad5afbd2]
+    └── baba_353.vom [053ca3d32d24bc8953367faa74ce0f17c5b30dca3f4344b64cb5437991445989]
 ```

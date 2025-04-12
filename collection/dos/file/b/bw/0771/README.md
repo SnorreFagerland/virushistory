@@ -3,8 +3,8 @@
 
 ```
 └── b
-    ├── bwshk771.c1
-    ├── bwshk771.c2
-    ├── bwshk771.e1
-    └── bwshk771.e2
+    ├── bwshk771.c1 [2281210ffb28b1c1d8f220a4ebbd592bede2f287ee36647ed8fc085083f54f03]
+    ├── bwshk771.c2 [86ad0e1a2364c9294fdc71968b60d244521955acb0489ce4f79162efcc07b804]
+    ├── bwshk771.e1 [50758f45c74e95798436889e4522eba799d3b8372dc09b62fbd263458fcd028a]
+    └── bwshk771.e2 [6163e14a308be8f6e1b2c622a05f087f9a20121f2c8c852d87d69615a45d463c]
 ```

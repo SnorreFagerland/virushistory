@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   └── vor1536.vom
+│   ├── t1.vom [3d1f0f69d448bbe5b05e02536e6e8f3108604a7e1cfd10cfa3ef4f63e9bb35e6]
+│   ├── t1.vxe [fb790e2d8fa7fd8e3b9d327ed76ff7afd56ca03bd87ecd416f1470b57e9a716a]
+│   ├── t3.vom [9e173a5957f00f772387e2864b44ac893c8bcb187c719c13228a5fb8163a6ec0]
+│   ├── t3.vxe [7a213b024094d539dce23317f85754d703fc4d96b510985ed8380719689e3779]
+│   ├── t5.vxe [ad4bc4b80972a244765c090c679b0049b76ae877cbc05d67a5748aff87bd8e7c]
+│   └── vor1536.vom [08dae1e3143c79524af2f04aabf684b7043f92304edf2c5346f4633ec444f486]
 ├── b
-│   └── virus.dos.voronezh.1536.b
+│   └── virus.dos.voronezh.1536.b [d8e0d26cc909b8dc065a9d9d40b926d23c251112bf5a3c88e909a79ff8ab50af]
 └── c
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t3.vxe
-    ├── t5.vxe
-    └── vor1536c.vom
+    ├── t1.vom [70b4b14001639f2923e66b982e3a2caee65d3a6bc0523a64a8f19bbfdd8bcf48]
+    ├── t1.vxe [849bd7986805663fde60b27fa303b57b928a5bc3b76ebee3af61bbb289435a82]
+    ├── t3.vxe [2ee7d417783f26f6c0b15ea8957b4dd92ea6ee1248ed7b601a8ae00a6fceb245]
+    ├── t5.vxe [003d3226bdf6b93bed516c32459bd6c6a90e314a97ae97f780a3df6c48b64f45]
+    └── vor1536c.vom [e471a8028ee7dd0a92e3c59f04a9fad0a0a6c722791c0b0f4d780b3c0e816c3d]
 ```

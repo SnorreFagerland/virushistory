@@ -3,11 +3,11 @@
 
 ```
 ├── 937
-│   ├── sop937.vom
-│   ├── sop937.vxe
-│   ├── t7.vom
-│   ├── t7.vxe
-│   ├── tf.vom
-│   └── tf.vxe
-└── virus.dos.sopron.937
+│   ├── sop937.vom [fbdfce317ef99f086603bb91b48512cbfba88aff50c4165c12d0f3a29c9e399d]
+│   ├── sop937.vxe [52cff6b84d7b85e0d8ac8dc44502e3eb14c680253e4edea8764e7ebc0595ffc7]
+│   ├── t7.vom [1f07608a8b120d6d261dfe32d218a0a0f3637467914256b8282451c49a425637]
+│   ├── t7.vxe [4255d40ac990a30f33a0eb58c98c2820c3190f2ed748fac442fab610d86310a7]
+│   ├── tf.vom [508b356ba60e03927d4a2e36a606a05c38454836f7b75f44e4269ec4286a1f2a]
+│   └── tf.vxe [20324c96e28da0538d00f852a636eae85158477014b38df1c84b9ca51012a470]
+└── virus.dos.sopron.937 [e72937da9dfe199457d7936498173eb73dab7f89a50f1b7610338f1b6b4ece98]
 ```

@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   ├── conj-270.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── t6.vom
+│   ├── conj-270.vom [00344a4a8d4950b944973a8ed7ed85249608ce69908f64c12fa77dece550e6cf]
+│   ├── t1.vom [42e93694e6ced069edab301a2245b6b78e5ad653602b9c8c532bcd4e09eeedca]
+│   ├── t2.vom [1c3bc3f0851c9068398fb9efaec7ab9c8319a2b4d3b4d5c6c0aa5afa6f765d32]
+│   ├── t4.vom [8fc208393be779a0ca1da1e4971e288f3065f11461aeb26abf12bd177fb453cd]
+│   ├── t5.vom [6e6058a1ad0a4830fbfd986f1c1ebb2c37d6aae25acf1f557138572ec2b57570]
+│   └── t6.vom [f9fc799c537e637960b4d8c7a2958d03929c4b780b18df453a6b4162f62003d2]
 └── b
-    ├── c-con270.vom
-    ├── conj270a.vom
-    ├── t1.vom
-    ├── t2.vom
-    ├── t4.vom
-    ├── t5.vom
-    └── t6.vom
+    ├── c-con270.vom [474473f6b9c8dad821377fee5d3709c208008c861643e984f283552b917322d2]
+    ├── conj270a.vom [deddc88ffab0406c351923aaa5b6192a6f9762471cba6fcb197dcb58565b4404]
+    ├── t1.vom [2a20792078704a2e41071f86c64b70e9641faa6be4f94fa2a5ddb4d811094dcc]
+    ├── t2.vom [041900e216654ef451c68344fb15c7c09770e13be05e0317e508972e86f4e39b]
+    ├── t4.vom [c3b5eef0a3bfe0d3d7f9a3f319fcf92204f2796373fcd7d3850674812dfb1f45]
+    ├── t5.vom [7c7e274e719c0a10b025b28044f0fd4b29e8b562e498d6d719b5ec5cff42a6c6]
+    └── t6.vom [be698cd8b542b974387a8df5ad8966d42bc3d2f3baa2770395cfdd493741e238]
 ```

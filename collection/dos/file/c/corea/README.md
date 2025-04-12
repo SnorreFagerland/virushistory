@@ -3,41 +3,41 @@
 
 ```
 ├── 0779
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   └── virus.dos.corea.779
+│   ├── t1.vom [4ed44f65733ff5041ee0d86be00e04fdd481931286be469ddfcfdb5e1f5dba92]
+│   ├── t1.vxe [1f47e8d0b60060fad07eb1fadda0d66d8cbd11686d497b881e69097cd632c8de]
+│   ├── t3.vom [606a5f6ea24288993a3b9837c35614d7d383f313c776f666ca525a53510e351a]
+│   ├── t3.vxe [bdad04975cfd91ec3f9b177ff45a5bda25d621076309b2b00a844cc161e4d6a9]
+│   └── virus.dos.corea.779 [7bfa21896704ab802c271a07bd3defc198bb5a6694b7e39b567fb528514d1a98]
 ├── 0926
-│   ├── corea926.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   └── t3.vom
+│   ├── corea926.vom [00c8261bbd44f80880f4eeca445ce5fc993833a7c8f5acc7c4fd2659d46112be]
+│   ├── t1.vom [2cc2923f359714b679ed6a9940def653f3d322dbccca37b8c04d8effbaf1f8b2]
+│   ├── t2.vom [9701ebc05a92d88f74ddfa33abb1f00a5a92047b80b201d5a5a46c4d7b662092]
+│   └── t3.vom [160685630e26a743b4d3a78342e5b72db499a83e8693d8bf8fdea985524f3fb3]
 ├── 0941
-│   ├── corea941.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   └── t2.vom
+│   ├── corea941.vom [c486418fdb35dc100af1605dc68b3fc11027eebb236807d19989041c49f07910]
+│   ├── t1.vom [d126fe41f48ad24bd2fb8107a12221eda64b8686609f2cb818f3eb6979ebb3d4]
+│   ├── t10.vom [34b93b49a0fed1913c5b940c2be3a3c6ee498f9e49bf706ff4f0d8b8a942479d]
+│   └── t2.vom [13958d336ae40807bcb6af4c036df2f058789739e289a284c06d23b72c7f8c65]
 ├── 0998
-│   ├── corea998.vom
-│   ├── t1.vom
-│   ├── t10.vom
-│   └── t2.vom
+│   ├── corea998.vom [e808033456ce7e8a712a2e6f7f3fdce9e5aad4ed870d8482847cdb0b57476d4b]
+│   ├── t1.vom [1a8568cc30fc7129994da63b61aaea9c7d434aa1d5559e335f827f7b65fa26a9]
+│   ├── t10.vom [b97d2a25c9ae340ae9dca007b625378b0a73d42d854aaec3d38c64e7b4bbcd0a]
+│   └── t2.vom [aa71301fc87252f48b7a723ebdde9beffff564260e9be4482417151f62bbd878]
 ├── 1036
-│   ├── corea036.vom
-│   ├── t10.vom
-│   └── t9.vom
+│   ├── corea036.vom [18f8e86a0ee7c3bc0fc1fca963093aad1456a77df35130638f78a5c076337dc2]
+│   ├── t10.vom [3a6b3c1f39c4f30c2684e3595999fc81283c21564aad0eaf53d1238378244f5c]
+│   └── t9.vom [a1a3e4eee5d05fe5fd8842157067f65df0ab4ca9e15823199506c2d13a4455dd]
 ├── 1045
-│   └── virus.dos.corea.1045
+│   └── virus.dos.corea.1045 [4445d3c449c03647925397719ff96fc2a0f4a5e6daf4d309313779e272b0a587]
 ├── 1079
-│   └── virus.dos.corea.nambul.1079
+│   └── virus.dos.corea.nambul.1079 [897fc7b54b06d657ca9cfa130209124219215f7213a2559757e199cffcbab80a]
 ├── 1089
-│   ├── canary.vom
-│   ├── core1036.vom
-│   ├── core1036.vxe
-│   ├── intv.vom
-│   └── list.vom
+│   ├── canary.vom [b59a261053475fb6dde17139fc3392bf072ef4eb46cc3c2682def8a23be01d60]
+│   ├── core1036.vom [86129a6b0e718017dfb582e760f8282025385b0f607727ad09d0c8f6aa810d00]
+│   ├── core1036.vxe [d3b90c82a82374ac3f6ae49beec2bd474c9e5c07b66a87de3c6467bfb79309c3]
+│   ├── intv.vom [5c69c7e39a42d862a90419d81f6bc990e7eab586fa3f528b0937eea9c45a5021]
+│   └── list.vom [4da139c7014077bbc33c9b0633c5419c11b7cccb83c53624c8b1beff4725dcbe]
 └── 1098
-    ├── corea998.vxe
-    └── t3.vom
+    ├── corea998.vxe [04715c7aeac9c7de30b71ba8520fa894a15e900230db3e62039812ba94314e22]
+    └── t3.vom [dbcaf25fddb52fe00eba64488ae9f486a4611e07dfddb1efba038f196b1e5db2]
 ```

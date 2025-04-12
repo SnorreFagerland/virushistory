@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── wci0553v.vom
+│   ├── t1.vom [9327a58d95d9c17ea4e0ce9ab3625d0eb02c14a2e9753a1133dff2ec8b025eb2]
+│   ├── t2.vom [94732fa592c9da50b930247573935c2a9847b005e110ee369853030a73b22359]
+│   ├── t3.vom [b70c967e9d70ef11cd4453d42d7242ee05127f372b8de1d662b56d7d92f55594]
+│   ├── t4.vom [0dae5815d4bf95f37780e40863ed834c3db48d3294fa9748c0e5bb0e1e8f82ab]
+│   ├── t5.vom [95ee2b7e236db8b29c614290ffd3959be560dc4f357ce8d7cbe664129b4e4b9d]
+│   ├── t6.vom [7802ecffc7197fe8f3b2611af2745efa4356605a210770b3c423be4c715087b7]
+│   └── wci0553v.vom [4372bc6e129b6dff40dcf471694098c6e6a57f3c13625121e7833ce77386f292]
 ├── b
-│   └── virus.dos.vienna.660.b
+│   └── virus.dos.vienna.660.b [4990b0e67a163207780d0045f3e5e7f1d570d6d0e1f81cdd479f8b4085d59b25]
 └── c
-    └── v-660.vom
+    └── v-660.vom [4d4ee9e2e8713862be46231a41dbdc933bc757efe76b6862dde907719eb9b672]
 ```

@@ -3,14 +3,14 @@
 
 ```
 ├── 517
-│   └── Virus.DOS.AFV.517
+│   └── Virus.DOS.AFV.517 [28b7b8ad03027cfb518969195c38e874c982fdd978f104426c314d64700d2fff]
 └── 678
-    ├── avfuck.vom
-    ├── t1.vom
-    ├── t2.vom
-    ├── t3.vom
-    ├── t4.vom
-    ├── t5.vom
-    ├── t6.vom
-    └── t7.vom
+    ├── avfuck.vom [27bd7b801a0acd84f6308b5107125511f0077ff91cddf7a54600f12a4b70a525]
+    ├── t1.vom [30617ca6808db402ec195ee23e0fd36c661b21084024bfda16319f30eae2f5a7]
+    ├── t2.vom [37fa7771a3e884bf75b8e94b27f28b4327a216333c1e03147a0668e5d35c0bc2]
+    ├── t3.vom [4d46089d459f098ac837be2d45210c413cb7671074a46fb37ccafd8c991ca234]
+    ├── t4.vom [18195e6148ad20c314c501ba18731e353120aaaf9d9dbf42b92072fefc41bfd4]
+    ├── t5.vom [8b2f8de3b9e9c0b9d17ae11357546751fab77bcc631607550e676cd7412d5003]
+    ├── t6.vom [b832398fdae7d335a9eb6f19aa6295d38b22d7f782c1149f8bfc11dab00d4f61]
+    └── t7.vom [d50e258b4559d46ad5edd88ef6e2d7171a5feb7f869e5d0c724ae73913e64164]
 ```

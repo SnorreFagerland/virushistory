@@ -3,28 +3,28 @@
 
 ```
 ├── a
-│   └── virus.dos.werewolf.1500.a
+│   └── virus.dos.werewolf.1500.a [98bc831da7a14d8850d6b6cf8a928fad35f00d16788d4d457713f895c531b2a4]
 ├── b
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t4.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   ├── t6.vxe
-│   ├── t7.vom
-│   ├── t8.vom
-│   ├── t9.vom
-│   ├── trace.vxe
-│   ├── wer1500c.vom
-│   ├── were1500.vxe
-│   └── wulf.vxe
+│   ├── t1.vom [a2277e3e6a15530770f2507b13f228b48cb0ff22a91b53096bfbee91981f2989]
+│   ├── t1.vxe [f8df1904959cddcef97ac07c624026d1ba11126793d4f5e364990f18164f11e7]
+│   ├── t10.vom [da775f17c6bd457564e8cf2692d1c42c8d94ecb6fba51edd519424badaea753a]
+│   ├── t2.vom [d9f1c70e8874fddbb8a1c95e2a03239518f4bf6af61878c196b8cbf439472f91]
+│   ├── t2.vxe [38931ed31fa978614bf455c2a3745116b18ec5286ccff83b0f1043c3ebd4c39b]
+│   ├── t3.vom [bdf2e988be1fec792f6820e0c2af5c7ca25fa37409df8994fb368e19b35cb879]
+│   ├── t3.vxe [f153cc25c57cf05095b733dc6251b55ef8a7d62598e0ecee4ca4350d7d13ac1b]
+│   ├── t4.vom [1ec2609ffe63c35e871c9d3ab17f05666e6271242648ec04c5ef3ec2d3afeae3]
+│   ├── t4.vxe [9ea5f76018b8f5cdd356e539313565b2fb089c3288fc7f297bcf19e4cc7bed46]
+│   ├── t5.vom [54a2100c4fdd830eeaaa13673b5ea8369d7955f375d3a6aea45a04cb0b7c2064]
+│   ├── t5.vxe [1006179f52da9c8e670255a7381115bda563f429aae5fd61392592be63a5abe7]
+│   ├── t6.vom [785735f4dd34044ce507057a0c746d8701aad920038d63670aa3ad6a3335c8cd]
+│   ├── t6.vxe [07f84dfa42f5bd5d137d1143712c7defa40835759488dc9704adc7e0f3f0e6f1]
+│   ├── t7.vom [c9908fe16138e2b6a97de450cc3bdd8248a627541b99d208fad3742e824b9d8e]
+│   ├── t8.vom [e2cb925e39bd9e56a3b1241f11d02d3931db7c8319079d39e465351b56c52f05]
+│   ├── t9.vom [db53dee494b46c7b5948097e309497bf9ac9aa9714a7c2a7b334ed0717b20a32]
+│   ├── trace.vxe [4a8295331282514ecdf5764d41ae8a189c4b2aa1f3f78bdfdddc9bc8a2a5274a]
+│   ├── wer1500c.vom [fac22415ec0ec4cf0ec1b1aad93f1e1ba8a21c9940d16311718e42d31fa4cf15]
+│   ├── were1500.vxe [8a148a2f5fab29e66562d25cf38f59ffb433cf011d8ef50283e7283dc74c0225]
+│   └── wulf.vxe [2b7e2e8822992b47d69faa2ba003db5f398e0324debc9b394d8eef244c615af1]
 └── c
-    └── virus.dos.werewolf.1500.d
+    └── virus.dos.werewolf.1500.d [a0787bf594184c9d37a1d262b46fee32bf921fffe3c5ddffe73c92407d33d269]
 ```

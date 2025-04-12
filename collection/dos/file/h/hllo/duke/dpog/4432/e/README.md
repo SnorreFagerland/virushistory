@@ -2,8 +2,8 @@
 # Contents of `e`
 
 ```
-├── DPOG64.vxe
+├── DPOG64.vxe [e4f2adb9e232126b61298ec044b335a95480c03fc3b9d54276ce89394d5491c2]
 └── src
-    ├── DPOG64.CFG
-    └── DPOG64.PAS
+    ├── DPOG64.CFG [99b3f76d5e705af6b389afe16bef1b97518a35495d61e6ed12697f90ac2b414a]
+    └── DPOG64.PAS [f2c2d712b310ba7b092f184b3978ed3b3cc82d26eef37995a99c1c02d258103f]
 ```

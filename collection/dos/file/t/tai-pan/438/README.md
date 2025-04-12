@@ -3,47 +3,47 @@
 
 ```
 ├── a
-│   ├── pkunzip.vxe
-│   ├── pkzip.vxe
-│   ├── t_pan438.vxe
-│   ├── tai-pan.vxe
-│   ├── taskmgr.vxe
-│   └── tpan438a.vxe
+│   ├── pkunzip.vxe [89556fb67781ec4aa8e9b5dde14f5dfc2a82f891efbca30afb4964f46d323d1d]
+│   ├── pkzip.vxe [3f3ffac780243bffe1e2d1cb7f1ad8388a2f8ac581d3a665ff07116e934bd412]
+│   ├── t_pan438.vxe [aaee9a9b55ba5a50fa643e8acdc4627b1a6f26bbcc2cfb73b09de5b4b6d3ad21]
+│   ├── tai-pan.vxe [7a858b872ac14acc2e44508bcedba9a90e2a0073b938871b7e861986ec27b802]
+│   ├── taskmgr.vxe [ff291653d140bdac59cf523085ec2d034bdc7f982c98434259901e782df3f8fd]
+│   └── tpan438a.vxe [adcddf7ec4f8a8f840aba2423538f7f24e32973fa9830535dae1f0e1276c4b6b]
 ├── b
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   ├── t5.vxe
-│   └── taip438b.vxe
+│   ├── t1.vxe [9641a4d2d952475760132947a20c99b6332da2c3ffa3d8d10e2ae0d6e938c0ef]
+│   ├── t3.vxe [90fd56f241e7d53154c9f4c6598e44ffc248b2a3191c77d7d6e8f2b8ac15eb93]
+│   ├── t5.vxe [10dc53fd09709a57cc89c7ff6afd5a222cc033eb6a3a8f37ed16028ed689a7bc]
+│   └── taip438b.vxe [c14a0d8a136191301e899824eae20f8f9ce6f230a9070ffdc6753e00dbaa6425]
 ├── c
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t5.vxe
-│   ├── t6.vxe
-│   └── taip438b.vxe
+│   ├── t1.vxe [2c9641a18cc0acedb4280b61de6750e29a3b7b11acaacfea6cae8f47e7280cda]
+│   ├── t2.vxe [89a732139cf42626f6e22c9982c9b248d2b237d49059ac94d06cff8aebb25260]
+│   ├── t3.vxe [cb9c1aaf2f901cad9c89afb970085d979a78ac17ceff0c932c19fa5251b98057]
+│   ├── t4.vxe [bbdec08f420ffa1ef7cbe8db2b95f0d6a521064542be79ff7352f15193bc641c]
+│   ├── t5.vxe [904d5dbaa3beff555b2fe7264ae657edadf62e5985a905dec84cc3e394af48d3]
+│   ├── t6.vxe [c10bd4c95fc666f4ea58863965ab83d73e902871f6d0e3f3fff14f976a00193c]
+│   └── taip438b.vxe [b6139c31cde5b737d3f2168ffdca8a684555a6536603a2a2b2ed3b2e119e8484]
 ├── d
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   └── taip438c.vxe
+│   ├── t1.vxe [82c2472f9c3268f174c6d9c8a22c35b616d0a982bcea0322ca5542a9b511ec14]
+│   ├── t2.vxe [7d41f015309a62d7d712339368a0bfe51f852ca5f0f99013fc7f1df6ccf78e52]
+│   └── taip438c.vxe [6614d81105d4fa8d38c5c60526566d8a8533a633daf2ea88eb5ed53605411cef]
 ├── e
-│   ├── taip438e-0.vxe
-│   └── taip438e-1.vxe
+│   ├── taip438e-0.vxe [39fe562e9a0337820f6c7940af1c5fa3062d36b0005bf38428403600b40f9d33]
+│   └── taip438e-1.vxe [e720abd81c6300ed671365df59d303115cd47d1f8083cf527f344b41c23e2991]
 ├── f
-│   └── taip438f-0.vxe
+│   └── taip438f-0.vxe [3dbf549fe02397a7c0d8defdb50e574a45497c7fc076569798d6d1d23a7ec3f9]
 ├── g
-│   ├── taip438g-0.vxe
-│   ├── taip438g-1.vxe
-│   └── taip438g-2.vxe
+│   ├── taip438g-0.vxe [112514edb3f90543d695a798bac8f7ee6c5e24a1b91271339e1cdb8eabe0be23]
+│   ├── taip438g-1.vxe [49ed21e3d38c3f40e103666e43574104295f04c6341eb3772b1cd4c853d25672]
+│   └── taip438g-2.vxe [4b326c125c2997ad3350946b039d714661b2cb14ad565e68c5879caefd7ebd40]
 ├── h
-│   └── virus.dos.taipan.438.c
+│   └── virus.dos.taipan.438.c [c6cf4d50230f67993203b6144c25fcb2e2ad72fa71dd1e76a6cfe75ae28a51b5]
 ├── i
-│   ├── taip438i-0.vxe
-│   └── taip438i-1.vxe
+│   ├── taip438i-0.vxe [5e553da72b80a890102adb9d7bb7b7b6310b585bab669b8d297bde0493a03e55]
+│   └── taip438i-1.vxe [ca5d307d6c32ed172b43f1949cabbd3623ab510006d2d481ee43c1449dd5262f]
 ├── j
-│   └── taip438j-0.vxe
+│   └── taip438j-0.vxe [7b5e041ffa684847a272cfb6a0359cc6a3fe326f345679a2ff5cb1e6c622ba19]
 ├── k
-│   └── taip438k-0.vxe
+│   └── taip438k-0.vxe [fa80674d9d6b9ab05d9a24e8621b4f0ca646e8a431bc5cceaf085314a066cace]
 └── l
-    └── taip438l-0.vxe
+    └── taip438l-0.vxe [5b8386cc567a0b9b6ca2e123daa5db7016f3be479eecd04b3e4a61b738a3dc21]
 ```

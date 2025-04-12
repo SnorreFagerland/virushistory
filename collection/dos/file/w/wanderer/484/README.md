@@ -3,19 +3,19 @@
 
 ```
 ├── a
-│   ├── smal.vom
-│   ├── smal.vxe
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── t7.vom
+│   ├── smal.vom [362da74d1f006da926aae980359b9074c76f11e8532e1b77abadebe376d86144]
+│   ├── smal.vxe [56bab0f170be593d631a4d1735284cf28aaf92b51ea94c1b4a49b333df5b80d2]
+│   ├── t1.vom [7853b50fcc9954999cfad71001d2414cad6969c23c263ebe7101336a6c23381d]
+│   ├── t3.vom [9ec17b2646c54b251b872fd252c824e62b32cd38bcb5fcf85851c06932834e0a]
+│   ├── t5.vom [69146913a9bfb844518fbafcc20061a82e4254c5e0206162ecd3a9619ea368f6]
+│   └── t7.vom [9eaf29cb0f5ed292b7cecef1d0fae6e4a31ec83f40108a9188cc739199594f6a]
 └── b
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t3.vom
-    ├── t3.vxe
-    ├── t5.vom
-    ├── t5.vxe
-    ├── t7.vom
-    └── wci0008w.vom
+    ├── t1.vom [780756dc604d76afc9ab6f1cc4dafbe50f66fb66ff58d835e0cb07c270a918d9]
+    ├── t1.vxe [bdcb7ef42e3c08734fbcf44d9aa98be4157cd5110d7009ac47f7be6c4079b9a8]
+    ├── t3.vom [edca0ce8e5da64c28ceeb600b1dad3e60466bc72068f48799ab4ecab393b26ea]
+    ├── t3.vxe [7f8685c41adf5693914bf32c568ea5bdac90396dc33f42f69b916e5c12491500]
+    ├── t5.vom [db4128caac60ac2335045039c9f5940392077bb443d83108669ed2de0166d6b7]
+    ├── t5.vxe [6e9a9ee97c38920eba7722050a1f02825ecd3d860cf1933be3c7a03bcccb1d1b]
+    ├── t7.vom [5dbfeaa2dccc7ec19ddcd951fb34464f4419e08bf01c38042a65964842856342]
+    └── wci0008w.vom [ebc20ec291c76281815edfc61b0c0612111dd776a0fb46984b3af86eefe56f6c]
 ```

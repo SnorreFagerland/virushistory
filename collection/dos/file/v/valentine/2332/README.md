@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   ├── 1-va2332.vxe
-│   ├── 2-va2332.vxe
-│   ├── 3-va2332.vxe
-│   ├── debug.vxe
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t5.vxe
-│   ├── trace.vxe
-│   ├── val2332.vxe
-│   └── vale2332.vxe
+│   ├── 1-va2332.vxe [01b7ae41189be302730fa185e48d0314cf4655f06122d8ae02c89c15d261f43b]
+│   ├── 2-va2332.vxe [da14eccc1d6be69a82e616fc2175edc23ecd0013779025d131fb724e1b126429]
+│   ├── 3-va2332.vxe [45fdc01eaee80aac6e959b39549f48d3f0c651bd0982957ab60308cccd70d9f9]
+│   ├── debug.vxe [6e57210ff9ea02f3838e8d302876bf7afca59adf66ca7ad2ee6b7015eff88168]
+│   ├── t1.vxe [505108575c73e59cfcf214696fa8c57a74d96ede03243dbe5a3bb29888166add]
+│   ├── t2.vxe [478f8c05795fcc2f389a5de347a82c9e45a0d8d3ab245f2f82ab6f2fb7226c07]
+│   ├── t3.vxe [a7dc5076673ab176717994c8e1766f7f64f462bd5543a0c0490670e11f7e47f3]
+│   ├── t4.vxe [1f9cc740840c859e5e2c12662f03da03f6d537c448c12b4c1121b5055231bae2]
+│   ├── t5.vxe [c11d4b93697c5f64bc89a78a711d5f506479f7015e9284fae14fc3ea1c4547e4]
+│   ├── trace.vxe [ad85074a1c72b4681db6bcc033190f10ca7cfcafc78cae6f674861ce9e7348ec]
+│   ├── val2332.vxe [7472b109c012ca16e9e46d289aec536bb9ee444f977b73915153992570248131]
+│   └── vale2332.vxe [cf44770d3e98414bd1d2e25ecd5da5368aaad5862a099afe71a5ec19b2767bc4]
 └── b
-    └── virus.dos.valentine.2332
+    └── virus.dos.valentine.2332 [e7e08af38a0b7f40f89265a20596dac986e35c9e257e08362788d189c62ae3a0]
 ```

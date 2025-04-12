@@ -3,14 +3,14 @@
 
 ```
 ├── 1576
-│   ├── 1-hx1576.vom
-│   ├── 1-hx1576.vxe
-│   ├── 2-hx1576.vom
-│   ├── 2-hx1576.vxe
-│   ├── 3-hx1576.vom
-│   ├── 3-hx1576.vxe
-│   └── 4-hx1576.vom
+│   ├── 1-hx1576.vom [b644daa593a907a1fc63d009e7b5fba9338e47caa80995e5399b77edee0e720f]
+│   ├── 1-hx1576.vxe [21858e75d412bb08d207e9090b828495bc2516f4245b6e46a108aca755f1ae58]
+│   ├── 2-hx1576.vom [51c1c9c5857bea383583bc6d0f8d01aab7ad13a073b752a937c51b23a85ff4dd]
+│   ├── 2-hx1576.vxe [afcf5307b634869445e1a2fb139650f9555a804a1d3bdc69761e4d6d1d855ec5]
+│   ├── 3-hx1576.vom [946ef0650eda38ecc30634c692bb649defdb7cb1d8ed87aee6c2f0e2be70bf5e]
+│   ├── 3-hx1576.vxe [e51a51beaa0f084569313fa135423b881446d6381092c59e9522c40f551fe392]
+│   └── 4-hx1576.vom [afa1729197b954b278033568ec3e31d31b1e976508e88a37beabb959492b4be0]
 └── 1585
-    ├── id.txt
-    └── virus.dos.hxh.1585
+    ├── id.txt [2d32168031ab81fd47e36def9bafa8cda4b28512f48383994c2228c921aaa0c3]
+    └── virus.dos.hxh.1585 [5dcf62ae4523be0a8f81752b30ae0787542e0e2d6f22075bd397f5de7f9dbe9c]
 ```

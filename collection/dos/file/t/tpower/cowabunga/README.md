@@ -3,15 +3,15 @@
 
 ```
 ├── 2193
-│   └── virus.dos.t_power.cowa.2193
+│   └── virus.dos.t_power.cowa.2193 [7ce658b48ce7e948841c133dc620bb97264bfe982506a3a089bc1be43d97af45]
 ├── 2298
-│   ├── cowa2298.vom
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   ├── t4.vxe
-│   ├── t7.vxe
-│   └── t8.vxe
+│   ├── cowa2298.vom [1882a0d604540232b93c08afedb631b8529cf2a93f536bf0c11b41ae4c1743fd]
+│   ├── t1.vxe [606dd5ff01c0ffe81e3e655d4aa6cd04baea3b6ce4f4d9c2d3ebffb1fc40d6cd]
+│   ├── t2.vxe [4c6c134408c71e75e86cb603cbd414266dea6e81058f4bfbe200f0727903513a]
+│   ├── t3.vxe [8b1fae9494d48676da45882800449b2119e4ae0d2ff2735f08f412513deb00f7]
+│   ├── t4.vxe [4507dbb72234845938d2551106cb4986195a9975f34d8236f4593d60c6747e48]
+│   ├── t7.vxe [11d98193ebd27758494818b31dd9a30e0aed682240fe6cd4262ac83c865610a0]
+│   └── t8.vxe [da3e56cc0e2f3b26958810143ed2412e94985f26dfd5c121280271864b5b6e3e]
 └── 2408
-    └── virus.dos.t_power.cowa.2408
+    └── virus.dos.t_power.cowa.2408 [4fffdae44f98c405bf60e54e0a73da5278bef14f8b2f9e43a1d197b061141f31]
 ```

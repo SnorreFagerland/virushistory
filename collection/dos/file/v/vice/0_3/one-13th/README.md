@@ -3,22 +3,22 @@
 
 ```
 ├── 2706
-│   ├── infected.vom
-│   ├── one-13.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t4.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   ├── t6.vxe
-│   ├── t7.vom
-│   └── t8.vom
+│   ├── infected.vom [ca6ba217658a58f9befa9740a4d1e8a2f2d00e363d39e96712053e8d7981d8e1]
+│   ├── one-13.vom [09733686ae1c33f51c1c8f5a2179183467d6512830b32200b637a17befd2506a]
+│   ├── t1.vom [6608965e4f17ff5c580b0dbb38239aae92d1c7d25c2d2f1d692a72f9f35b4362]
+│   ├── t1.vxe [1480a266b28385eb8744cce798ba366024b2d63505f023c9031e1bc6030ae0d7]
+│   ├── t2.vom [f5a9c4f198c1ec0385a314350a9f797de9032956b0fb4651bd53ac36e3a6ebc1]
+│   ├── t2.vxe [33aa5c0334f3a46b528c062f274f6519a0907429f44d26bd699c59b6a07c5dbb]
+│   ├── t3.vom [6a76b334fa15d705d1496de8b5e451aeb76eaf10115068296a6ac16281d65e26]
+│   ├── t3.vxe [cac31d3d23805210eada6003a0dfbd0e481584f8d51d2fa7bce37be89ad150d3]
+│   ├── t4.vom [882e499653cb52ce03d490f6694f3a8c76c7fa41a4bf3a64adccddd822166e70]
+│   ├── t4.vxe [ec9b209167b2aa29403497c3c1a46785f72c194fd81080652495231649b9904e]
+│   ├── t5.vom [5cf30a1d421a8bcbfd347ad498becbf21469a4283f213da13275e92792622b44]
+│   ├── t5.vxe [04d1ac552e371f6100832efb18f5d235d95d51b6d32136d1b3f0c290ea47244f]
+│   ├── t6.vom [8baa994112655f366e619074d566bc10076246520ef6f7c34723c601d68271bb]
+│   ├── t6.vxe [e083365617fd1adaac2576637f863d4f317566434c9eacf902a44292529e762a]
+│   ├── t7.vom [def611ca8f23c92dc22181a2ac5f8944177bddf5f5ef7bd04bb9f48ca4fca581]
+│   └── t8.vom [28976dd714eb70b2cb4a7fe9a5e0ad3da0977667968370ce7d15fd835eb8dc1f]
 └── 3036
-    └── virus.dos.vice.03.one13th.3036
+    └── virus.dos.vice.03.one13th.3036 [e391c16050a107e21b79e2ab25676c82e7991da5ad8448e4c04dd30ffc64deb0]
 ```

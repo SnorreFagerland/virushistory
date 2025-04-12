@@ -3,21 +3,21 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── top1024a.vom
-│   └── unke0285.vom
+│   ├── t1.vom [37a727bf725d773438e3e391240d5f204cd15d175408010ddb511534070dfcdc]
+│   ├── t10.vom [471e887ebe76574cbf9fbd25bcdb1ac267b47e58ded8f84ee7b139ea2d6640c6]
+│   ├── t3.vom [a03535d12ff817ae5b9a3c165d7d55b4e3212b992bf1468e4e9e445e3eeda214]
+│   ├── t5.vom [4cc9a25667bca1551c88b746f5f1b5cc2612186c3fdf86ef3e81a5c7b21f9341]
+│   ├── t7.vom [2d697799515ff264d41a04099471990845531117673877b5db702052e17c09b4]
+│   ├── top1024a.vom [5a6eb21c3f96de7a0428a7836fc265c121c9a233cf1ddd0d65c7e305dff01132]
+│   └── unke0285.vom [09b4e0674fbec38e31cfd070229dd6e26d45074eababfb846315323895440795]
 ├── b
-│   ├── nightm-b.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── t9.vom
-│   └── top1024b.vom
+│   ├── nightm-b.vom [0e23ec31902f9c1f0e163259c2f59f808083f201dfa6a48a74446a124b171b35]
+│   ├── t1.vom [6580261137444a40c18d5ca446611c709b3058f584f8ef3a5d7ec7294a21a135]
+│   ├── t3.vom [946736adfe603c10981801f687cdd659f0b0f2e789432dad5d2f19e982a5d6e1]
+│   ├── t5.vom [f90a22be9cbf1373b12d82dfee91f6cd0c54ab7fcf3216dedbcbefa2ad529d76]
+│   ├── t7.vom [399aee6c1a3d4399345345ca58e27772501e4c22f6381a251b1ef267ef41ebf4]
+│   ├── t9.vom [d8d8d08e7e8bb460472e8cfce7407f5f0cdaf8e146c10b88f6138e9372f6078f]
+│   └── top1024b.vom [3cde1905c4b1be11686da0c559daa694acd876b276076196742b58e7ad43ad21]
 └── c
-    └── nightmar.vom
+    └── nightmar.vom [207afc7c533dfaf8506863cb27ddcaccd4f68359593c18bd8bf49a83bf2d3173]
 ```

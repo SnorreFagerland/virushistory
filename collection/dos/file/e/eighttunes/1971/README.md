@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── 8tunes.vom
+│   └── 8tunes.vom [edfa32964711d395c9b7172141843da76a80e7d596613b5a1d9652c4a1d7e914]
 ├── b
 │   ├── 9c63d2ca77e77d391fd2d343d82d19a86403d37d73daf6f366b911dfadabbeb4
 │   └── c21ef9315312369d59980a6bd3bede10b700c2ff07dee85d69fce47981ebf646
@@ -14,7 +14,7 @@
 ├── d
 │   └── 37046c77533b93212159dcbf9cf6db8c36cc405617b7b69d2e8cbc84af621348
 ├── e
-│   └── Virus.DOS.Acapulco.1971
+│   └── Virus.DOS.Acapulco.1971 [1bbbeea38449597e0b535afb59332b4eb356a76fb7f8c533bba98c525ab09fac]
 ├── f
 │   ├── 20d1b9350813214d736555963a252352e92e3aee940c72499f317fc27a8efc3a
 │   ├── 262b29ac549c5efd9467768ec061ad10687784d4ed8b48bdab9e315be60bbd72

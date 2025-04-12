@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── amt4000.vxe
+│   └── amt4000.vxe [c3f96eb170a2e2789ff43f78761f02a526b986b1285903630dec02201e129ac3]
 └── b
-    └── virus.dos.lib.4000
+    └── virus.dos.lib.4000 [9cd61eb525c282180560da9e97d66f3c817d86c6dab0a278b8aa687deccb8ad9]
 ```

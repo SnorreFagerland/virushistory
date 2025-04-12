@@ -3,24 +3,24 @@
 
 ```
 ├── 1433
-│   ├── Virus.DOS.ADI.1431
-│   └── adinf15.vom
+│   ├── Virus.DOS.ADI.1431 [fe77c157b8433b132e066a8a6890c0dc093359804e5e5981301bcfc949eac27b]
+│   └── adinf15.vom [a21684b30d774ddd6564fb5f92b8f73067304d0b1c2007c47faab95038ffc12f]
 ├── 1444
-│   └── adinf15.vom
+│   └── adinf15.vom [93f3d04a9c75ba67a7df008cb53eb410394817c62393397e82a273a0d728bccb]
 ├── 1465
-│   └── Virus.DOS.ADI.1465
+│   └── Virus.DOS.ADI.1465 [d9557ff6140afa0a1c7e290187ea74afd886088ae35c1d06b5e862930d7453ee]
 ├── 1478
-│   └── Virus.DOS.ADI.1478
+│   └── Virus.DOS.ADI.1478 [5258eeaa5594d6fdcddffb32b45f8b4d4c8e86d32cfc687a0cc725d546481435]
 ├── 1565
-│   └── Virus.DOS.ADI.1565
+│   └── Virus.DOS.ADI.1565 [62406258155187f0036d2fbff63a1eba7b640700dc7df302d2347ab330432369]
 ├── 1580
-│   └── Virus.DOS.ADI.1580
+│   └── Virus.DOS.ADI.1580 [66888e54eaf3ee55df29b3ea45fcf60a8b459ca33cab7134bfd3ad177d69decb]
 ├── 1654
-│   └── Virus.DOS.ADI.1654
+│   └── Virus.DOS.ADI.1654 [34873b32c3094bd71aa6e293f18e6cf9c7f73901616db2712e5b93df572a4936]
 ├── 1688
-│   └── Virus.DOS.ADI.1688
+│   └── Virus.DOS.ADI.1688 [d30c5c60793d602fdca5abd6458475f57fa0f52293d3e436338f9a1972e4cb62]
 ├── 1690
-│   └── Virus.DOS.ADI.1690.b
+│   └── Virus.DOS.ADI.1690.b [f9a7cb27387d99e6a187d3a339b2d77306fbd3e1e5f2add4fb6099f7e0526949]
 └── poly
-    └── Virus.DOS.ADI.poly
+    └── Virus.DOS.ADI.poly [ea5251748e65e7d0576ee95e025a33e6110585f5399b3917baaece33d5d4fe4f]
 ```

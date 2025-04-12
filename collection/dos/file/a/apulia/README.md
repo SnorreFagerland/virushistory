@@ -3,28 +3,28 @@
 
 ```
 ├── 02859
-│   ├── DRV.SYS
-│   └── a.vom
+│   ├── DRV.SYS [292c8866e74edba9ed419d5b535267616f6df81a65cae8a38d8a5eb5c04b4037]
+│   └── a.vom [292c8866e74edba9ed419d5b535267616f6df81a65cae8a38d8a5eb5c04b4037]
 ├── 04139
-│   ├── DRV.SYS
-│   └── a.vom
+│   ├── DRV.SYS [9d4420863777b8b3bc677bfd267575a14e41dab2825b5f19e5cc820a3a060cb9]
+│   └── a.vom [9d4420863777b8b3bc677bfd267575a14e41dab2825b5f19e5cc820a3a060cb9]
 ├── 05662
-│   ├── DRV.SYS
-│   └── a.vom
+│   ├── DRV.SYS [7bf087924821d3f8d5e600917a5a1c2d801486ffccdad27f4d69f36032afce7f]
+│   └── a.vom [7bf087924821d3f8d5e600917a5a1c2d801486ffccdad27f4d69f36032afce7f]
 ├── 05694
-│   ├── DRV.SYS
-│   └── a.vom
+│   ├── DRV.SYS [ef93b39e0e32c3f3a87ee7fe2839520ad49277307928b5a5f663ba2363840857]
+│   └── a.vom [ef93b39e0e32c3f3a87ee7fe2839520ad49277307928b5a5f663ba2363840857]
 ├── 09345
-│   ├── DRV.SYS
-│   └── a.vom
+│   ├── DRV.SYS [27ea22bc1e6b6c52c512b1159c0134fc6fea4e629f91c00a356f00f17f3f126f]
+│   └── a.vom [27ea22bc1e6b6c52c512b1159c0134fc6fea4e629f91c00a356f00f17f3f126f]
 ├── 17584
 │   ├── a
-│   │   └── apulia_1.vom
+│   │   └── apulia_1.vom [b1eda013a9be488fe65d9516688818436386fdbf4f5e68ff1b3d04c9bacdd48c]
 │   └── b
-│       └── apulia_1.vxe
+│       └── apulia_1.vxe [25ac1a87a3d2d507f2750abcf57605efff8cabbc40019e3b1afcd71fa5ae5a63]
 └── 18064
-    ├── LO.SYS
-    ├── MIRCPLUS.vxe
-    ├── README.TXT
-    └── REG.REG
+    ├── LO.SYS [95b2a5658f28adaf6288cf0a09b7a9c494664872c48e73911ffc43932934f783]
+    ├── MIRCPLUS.vxe [95b2a5658f28adaf6288cf0a09b7a9c494664872c48e73911ffc43932934f783]
+    ├── README.TXT [170a177248c5a32bf525df6fe6c02ffb4dbd479a0f8391ac57cb0651d06a7dca]
+    └── REG.REG [b67053a6fcdb8e4264f0b2ba83167fab9b858ec45cf64c2d5c43c2d576c66023]
 ```

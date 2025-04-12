@@ -3,23 +3,23 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t6.vom
-│   ├── t7.vom
-│   ├── t8.vom
-│   └── vienun-2.vom
+│   ├── t1.vom [35b2f6856d52a6fbb16bbd50044ecc679b3745a1b1da7e543e9685e8fe8877a9]
+│   ├── t2.vom [1537e871b01f97335f775d9aeb2627e76862f0fb09045f62fc2c84b77210fbec]
+│   ├── t3.vom [cdeef2aafa16e0892b94d926df350ca6045e9f66af78f9ba686dc1c165a5ed80]
+│   ├── t4.vom [95e295fb25be0f7d62d6b1fca4f0a119c6ea8e9d7e6e781da61b5bc7ae0bb614]
+│   ├── t6.vom [2cd99f579df770e58a55cafb4a5a6a18e1e7fb58f1752c3749dcc52300adbba7]
+│   ├── t7.vom [1e5ab50fcc72eb4c37a41ebab4348c1e37fccb4c83da64d4768045cadafa03bf]
+│   ├── t8.vom [2a0d0c11e2ecf0d9c35bae57453620cf12d2f514dc0f73ffc5b0d5f4931e2bad]
+│   └── vienun-2.vom [a686e2606f72b58e7975a09e0987e85a0e3576b5ab52d459f5578125574850d2]
 ├── b
-│   ├── t1.vom
-│   ├── t10.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── viea617c.vom
+│   ├── t1.vom [02ba249e2caa08c207856a1415d1494b07819965225941b92b7fb7dccceab2ca]
+│   ├── t10.vom [6a17c10f9e34e7b4e8ac64dab15a3bb0e67d2704a76f18e4a45957e38afa62a0]
+│   ├── t2.vom [087343c005c2b7ca45d3eeb5fb5adfabf36e9b6489958f8a907318625851e5b3]
+│   ├── t3.vom [82070d6c4b3309d93e9a12459d540354655e22c6df7d080c3486ea935a0c4632]
+│   ├── t4.vom [ba881c25680ffc40e12dc4ef1d7a30b0152cd44df70ecdfb8dc6438540834662]
+│   ├── t5.vom [9641afcb0d9255c3ce06d79669a36db643094567960fe197dac7e85305481019]
+│   ├── t6.vom [93518b636eb15b7cc059be273b47257ca5025553c6e87f63ea9d66c96952db2a]
+│   └── viea617c.vom [e36733a4d2b800728094ef329ca4822336fb1269ba77fc1a34927355320cf712]
 └── c
-    └── fjk.vom
+    └── fjk.vom [65d1827dc96715188b56f50c09727fba8a7c6f1a311c401358597410dfe6810c]
 ```

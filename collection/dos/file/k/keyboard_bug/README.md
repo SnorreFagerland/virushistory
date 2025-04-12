@@ -3,18 +3,18 @@
 
 ```
 ├── 0907
-│   └── kbug-914.vom
+│   └── kbug-914.vom [b48315b4242cf6417a62e1d9a235e3ed35d97421765c15a8b3c83cf983383d35]
 ├── 1268
-│   └── kb1268.vom
+│   └── kb1268.vom [746a559f65b5c2ad537cccb0f25202e4a8938f852929d88e3ced3bde1605c6c4]
 ├── 1568
-│   └── virus.dos.kbrbug.1568
+│   └── virus.dos.kbrbug.1568 [89f63fc6792dd51b281276d9f59a35fea5149f5457590bf150feedae0232dddf]
 ├── 1596
-│   ├── kbug1596.vxe
-│   ├── n-1596-0.vom
-│   └── n-1596-0.vxe
+│   ├── kbug1596.vxe [8a7f9bae1b3807a319a1c60c5317afb698e728baf1aea921e66b5ba467267017]
+│   ├── n-1596-0.vom [6680ddee6c3188389455887d0bb4d5edcbc4e8a2546e33ffd9388bffcf222836]
+│   └── n-1596-0.vxe [e8dd1e9560cb24d1f2cf2909cb4f4369a34d0bc59e0a25454ac2e791eab1617a]
 ├── 1720
-│   ├── kbug1720.vxe
-│   └── n-1704-0.vxe
+│   ├── kbug1720.vxe [b6138e489ddff59ef2ecd8d3b9132a9a6dd03e3464f3d931e20885f69f007a32]
+│   └── n-1704-0.vxe [8d9d7d1ef47080e0c48fa986ad4799c056ec51318e8afa28315ce6292389b04f]
 └── 2662
-    └── wci0051k.vxe
+    └── wci0051k.vxe [e91709fc0161d0fcf0d851e891a185d58abb0d551b9183d6af762dfa57966e62]
 ```

@@ -4,26 +4,26 @@
 ```
 ├── 2000
 │   ├── a
-│   │   └── virus.dos.tanya.2000.b
+│   │   └── virus.dos.tanya.2000.b [3054f34c3a279d2d22a9c6c9589fff350456c5afdeae2e8963014d7ab1d9388b]
 │   ├── b
-│   │   └── virus.dos.tanya.2000.e
+│   │   └── virus.dos.tanya.2000.e [69cc7e96487d511fd0ef06f3d9a051accb73a2fb62cb93096d44aac973e27f5d]
 │   ├── c
-│   │   └── virus.dos.tanya.2000.c
+│   │   └── virus.dos.tanya.2000.c [3a43bcb618447d7601eb83d6b3c5e6229e5d601118e00b68bb3ece595067fdc5]
 │   ├── d
-│   │   └── virus.dos.tanya.2000.a
+│   │   └── virus.dos.tanya.2000.a [ff81ed7f3f9c0b81258a14b259403e06676b3ca1359e89ca40874eaea93c797a]
 │   └── e
-│       └── virus.dos.tanya.2000.d
+│       └── virus.dos.tanya.2000.d [cec757d7ff7ee1538355393533de45db235dd51d06c80dbf7288e29acc86f18b]
 └── 3000
     ├── a
-    │   ├── t1.vom
-    │   ├── t1.vxe
-    │   ├── t2.vxe
-    │   ├── tan3000.vom
-    │   └── tan3000.vxe
+    │   ├── t1.vom [cb055bf030123cf38eec323b0aa79a555cd4f0434e6aac61318f791b72ac40a0]
+    │   ├── t1.vxe [4c2ac50116f930b3208b1609b2b157fa711c79dd647f7b61b1aea25edcd05190]
+    │   ├── t2.vxe [aa165647792c54447424be1524c29c08ca621cf60be44113a8f8eaa97cee2a5b]
+    │   ├── tan3000.vom [8c066c2ac1f10029668ee544df4857a88cea4f0e10cf1c63a368c3a61f0716d2]
+    │   └── tan3000.vxe [7709f220d43e2f2b05f862ff104d986a88ab75fab3b4ab3af281616932d8242b]
     └── b
-        ├── pamy3000.vom
-        ├── pamy3000.vxe
-        ├── t3.vom
-        ├── t3.vxe
-        └── t4.vxe
+        ├── pamy3000.vom [f014f698081ff980bbe70514191587ae5781ccdc67633b31c7134a7219709396]
+        ├── pamy3000.vxe [fcaa5dc3cc074126650aaaf83fed3fa3f516d1ab1be0ad7ee9dc2e74315f72d5]
+        ├── t3.vom [9bf5ba5a7783ecde4c0204ddba5701f7afb92aa7d98a33a3d4baa4bc7979fea0]
+        ├── t3.vxe [79f49f0f097c25718d67504be8b658751b4f1be6cd98648053ab9fc049882c06]
+        └── t4.vxe [aebd023bbb5bf1307708e15cb257861bc08af6884f1f6e3839b8aedf24b5818e]
 ```

@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   ├── camel-a0.vom
-│   └── camel-a1.vom
+│   ├── camel-a0.vom [ce167a61ecc83d4d1d9e9a062490edf3cf2001873448c2159679e93f59060c25]
+│   └── camel-a1.vom [fbb22690dbe5aa53fd927670d00ade199ee5b05407f5962021516754ed1d4a33]
 └── b
-    ├── camel-b.vom
-    ├── t1.vom
-    ├── t3.vom
-    └── virus.dos.camel.443
+    ├── camel-b.vom [79b08e369e7af8b39a315ae7e13a07a2585482c657bc2733d68e64a0984473dc]
+    ├── t1.vom [93ede089d8d6c5679f9f91de9a5ce88820063df118bc1f8f1440ed8a00f57da6]
+    ├── t3.vom [60603a01227ff94f26f60c4044133994a43514a89d4733226e61f9794b2a4e98]
+    └── virus.dos.camel.443 [31722632d1361d81a56ea2214c9407ed3cd99c451028018ca7df782de5950367]
 ```

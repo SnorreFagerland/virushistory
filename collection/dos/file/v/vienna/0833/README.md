@@ -3,28 +3,28 @@
 
 ```
 ├── a
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t9.vom
-│   └── v-833a.vom
+│   ├── t1.vom [a10f27fa875f7f433141c2f62c3576655ae51bcf661f1550b7dba4957d410ec6]
+│   ├── t2.vom [9ff8f0d19bb48c8695336863d6aea0a9eb9868bc06d597570889ea7db4545bc4]
+│   ├── t3.vom [7e24bc90bd9b9cac9862bb53e7718a4cba608a24af42154f7788e258bd221a19]
+│   ├── t4.vom [5ad21716ae8dd4e5bb42d547bf084ae45997f1ae84469bf71ea88b1734170e2a]
+│   ├── t5.vom [6ccc44787e09c315e44667cc73783d7bc2c3bd95d3f6cbc741ce897fc0a00ed3]
+│   ├── t9.vom [d5739c549cde4d53c4c2b34d9081d6c3a9c936d5469516633b0056f9bb0439e4]
+│   └── v-833a.vom [ee3693e355b9bb5053f539c501708b721ceb0ad10fc43a566f62990d5b7565ed]
 ├── b
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   └── vhp-nora.vom
+│   ├── t1.vom [dc844195f45ac7c04bf8a174917c3c14a7855305356c17df7a0e13cac967252f]
+│   ├── t2.vom [627866cca3580db2b15d4de6c574fc8d39e0cd51a3f97dafe1aa724edbbba42c]
+│   ├── t3.vom [2bfccd0423e6fab72b33792dc38c1b206d5825a9bca87b24325c4aadb6477d6e]
+│   ├── t4.vom [710ff0d1672198af0e3ba572b73f63fe6c23bdf78e36a114d81a8696ad7a6d43]
+│   ├── t5.vom [d8ce91bbb095827a26a60a596ec8f6f13c06f41343ff8582a11705c17f265cb3]
+│   └── vhp-nora.vom [f5bccfce97edc1d884cb04cd8ccbe9be4a1d6db07723db82d9458654e368d626]
 ├── c
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t6.vom
-│   └── viea833.vom
+│   ├── t1.vom [db99c00c9db054a7e4a2ce8d96b6c661e7487552f0f4d26082d2552287e11ad1]
+│   ├── t2.vom [d3820aa58af005eea6fa360231dc3a650134eec490d10c4488d173904cee68a3]
+│   ├── t3.vom [3759c06ebe083893898a8722c84a6122aa234d600e518165f0f69d5fcbb2e0ba]
+│   ├── t4.vom [63ed2236c2965324a7be62ee62e68e176eee1dd000a046cac052ca6eddac476d]
+│   ├── t5.vom [8a27570b3ab90efea219494d6b9943c822182202da2f8774a233e84eb38812cf]
+│   ├── t6.vom [5a7170df58219af165a3c4c39fac482fd6f5ba4b3f571ec7fec637875cb6ba76]
+│   └── viea833.vom [aeabb09244fb0db80e19e8680c53b91b546b8d4f57b032187b168e8b79d1aeb5]
 └── d
-    └── virus.dos.vienna.833.f
+    └── virus.dos.vienna.833.f [c2633a9b02216580490bd7a4e2f08ca5423132de35bf7b96a19e33b57b3241ce]
 ```

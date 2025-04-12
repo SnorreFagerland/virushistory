@@ -3,11 +3,11 @@
 
 ```
 └── 696
-    ├── 1-pot696.vom
-    ├── 2-pot696.vom
-    ├── 3-pot696.vom
-    ├── 4-pot696.vom
-    ├── potpi696.vom
-    ├── t1.vom
-    └── t2.vom
+    ├── 1-pot696.vom [8ecf7b9d01a85250bcde6af705cd047351b163ce4700c2621f41d612338184db]
+    ├── 2-pot696.vom [efa0827c076a02fc5738386d6aa4cd29545bc0de4c02959825254ed40ac9b43f]
+    ├── 3-pot696.vom [ce372545b01b5e6f97f18fdb0c78b65dde4ede7e421e7756ddac7d0cab980e7d]
+    ├── 4-pot696.vom [591c57579980e7c8d624ee365b04f75ddca4373b50e99b68ac9b09044c35352a]
+    ├── potpi696.vom [2661ad62b72078dacb00896147ac49d0e459204400e5dce7297e005cd0169e90]
+    ├── t1.vom [3b11393a9fa213c7dbe941ba73409d5132c5622869c438eb4e89aa395cddf112]
+    └── t2.vom [adb33ebc9d249de86c2b4f415e566a5aaae7596da64c365a5de76bf43db4a95b]
 ```

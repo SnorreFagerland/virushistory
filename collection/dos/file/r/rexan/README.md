@@ -3,23 +3,23 @@
 
 ```
 ├── 595
-│   ├── 1-rex595.vom
-│   ├── 2-rex595.vom
-│   ├── 3-rex595.vom
-│   ├── 4-rex595.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── wci02964.vom
+│   ├── 1-rex595.vom [0377caef438159fbc9b23675071bbb686d3a066602b18fcd611a4c3721638673]
+│   ├── 2-rex595.vom [340829c8a986f4a088fe28f6c4f6e990f6f0dced98decc674b57b5356604da05]
+│   ├── 3-rex595.vom [a1b12b4cd4abf651449bafbcdcf94554bf6197562a05d41781fdba6316401e4b]
+│   ├── 4-rex595.vom [6ff510bdcb2d81de8db5a63c3d2aeb1b460f166537a4158e4da17f6ec4bccf84]
+│   ├── t1.vom [bb27e7bd20049e86434c4500f088e413b9045fffc90f1faae9289dad581e1ab7]
+│   ├── t3.vom [615250af7095fb3934a574c3286805ecac7a19295619c336084bcb958bb3d527]
+│   ├── t5.vom [95b58cf10d61c6f4d6555b811f02e902558ccbc1a61213c16afc529812fa1ee2]
+│   ├── t7.vom [c087aeccf95022f7ff54ba1cada2665422d3ce25d894acf078692fafbc4bce9f]
+│   └── wci02964.vom [157d711896becf40a75d82eede865512fb7b5760ed91cf09c164560efa0fd525]
 ├── 786
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── wci02974.vom
+│   ├── t1.vom [d33fec83acd73380087d07681ada35bdda115e9014341c1963e9075090b8f302]
+│   ├── t3.vom [7ae75ae753bf45a83aa80ad1646d98c6233ffab2dd02b7fcc8932b315f71f233]
+│   ├── t5.vom [0b40b9937561903665ec570b3b17bf4e3546326dc19f539c2db4ac5e18bbb96f]
+│   └── wci02974.vom [7a9d3a319a0c699ed65e2b75aa198f6a12aa49819805de45320ed6dde55dbad9]
 └── 903
-    ├── hellpart.vom
-    ├── rexan903.vom
-    ├── t7.vom
-    └── tf.vom
+    ├── hellpart.vom [2af1ab3f5fe1e868a59b6f4c48664f19a5c22fbde5063321d148edff036f91ef]
+    ├── rexan903.vom [161260d9f58e840f14830ec8f5b8edb4cf22c417ed1e9be300b40c2a09aaf2af]
+    ├── t7.vom [3a1b7b6200a452514ca1309bb4346c407ffe466267a61370e6b486c347463ed6]
+    └── tf.vom [e7825cac0bd959ec401b7138c6898f3142670585f445c8ff21c86eb46bbc236c]
 ```

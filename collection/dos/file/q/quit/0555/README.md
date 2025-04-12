@@ -3,33 +3,33 @@
 
 ```
 ├── b
-│   ├── !1557.vom
-│   ├── -555.vom
-│   ├── 1-an555a.vom
-│   ├── 1-an555a.vxe
-│   ├── 2-an555a.vom
-│   ├── 2-an555a.vxe
-│   ├── 3-an555a.vom
-│   ├── 3-an555a.vxe
-│   ├── 4-an555a.vom
-│   ├── 555.vom
-│   ├── quit-92.vom
-│   ├── quit1992.vom
-│   ├── quit1992.vxe
-│   └── quit1994.vom
+│   ├── !1557.vom [72f187cf4b15306c845d5aa183a3412c4e4f05aeda53f11d98aa8ef2dac00852]
+│   ├── -555.vom [4f30847c8de07d807dfe738c37cc31221d941c7dea8d52f51baefbb2878e56d7]
+│   ├── 1-an555a.vom [66d8445f13d121409d4ec005e0c2f78e814d474fe3482705369019ce945cff16]
+│   ├── 1-an555a.vxe [90259a091b1dd9a3f4fda3079ea11155d4bf09336fd42601178e615d1b478245]
+│   ├── 2-an555a.vom [aac1e341f7ccb2a61db77e7ed3acf83181ad8407eef55e908f3c4efd36b13436]
+│   ├── 2-an555a.vxe [c24515a71fc6e2affc34cf16df1d489202331833f6a5a24036a0748b2afa2b74]
+│   ├── 3-an555a.vom [d23e0b2935cb011018bfdc7881e7b429a0eab1ef8f40e1b923a1dcff8915843a]
+│   ├── 3-an555a.vxe [53893c16464011e67c3c9021b134e421fbcae0dd891a672be35fe7d62d39a36d]
+│   ├── 4-an555a.vom [f9a1b3cb40581acf955def5f6b9614faf5079e9df8467a5372e550dedc4cc9dd]
+│   ├── 555.vom [7790f9d0a301931b124bfe8b9f29ab5518fe41a7ee9c6041b96a5d8081c115af]
+│   ├── quit-92.vom [f3abce118bf180b9c03681572d0e6dd4ac857ab23b07f43fefe8d066d49f58f9]
+│   ├── quit1992.vom [c9f7565edd3c21494c2f17285e06bee484d08b6fd8bf52ba8945dd1bd0098f1e]
+│   ├── quit1992.vxe [471b451aba1aa592c1d323611178aa9134aa463fe5388782dd87e5e2011b880a]
+│   └── quit1994.vom [33725a5066ec0888ae9e260394c40d5feb021832e6411228f0cc9ad7b9325792]
 ├── c
-│   ├── 1-an555b.vom
-│   ├── 1-an555b.vxe
-│   ├── 2-an555b.vom
-│   ├── 2-an555b.vxe
-│   ├── 3-an555b.vom
-│   ├── 3-an555b.vxe
-│   ├── 4-an555b.vom
-│   └── quit-b.vom
+│   ├── 1-an555b.vom [d56e7d6993df69b9524be389868f050fae65b2b979d4d0742911c6d7cfcd311e]
+│   ├── 1-an555b.vxe [418f08c9121671dba02203fc28d1836b87dbea1cfc521943fc7150d0f80e20e3]
+│   ├── 2-an555b.vom [e35b3148e60b1924d498c7c0378c1c2cfff0e513fd06bf5aa7df246db2e52226]
+│   ├── 2-an555b.vxe [037915a5c793ea7671ca26ca183ca775bff42864bf09bc8810c6448204950fa3]
+│   ├── 3-an555b.vom [a9c8683863c8f94c783de8b767e402c3ac23f3134a7818c3379c49f975617ac7]
+│   ├── 3-an555b.vxe [361d703357192b2a4c8ef51c7537e4e0e8a332174470e79bde07df5fd37ceab8]
+│   ├── 4-an555b.vom [1cfd569b427e8cc424ae9a0f4dcc4a292429ba414b3f6fab49a259cb981f3bce]
+│   └── quit-b.vom [0650908a7d695a085b0d31cc8f636aa0d7720b9144e33b77c40c66ec22832443]
 ├── d
-│   ├── quit_555-001.vxe
-│   ├── quit_555-002.vxe
-│   └── quit_555.vxe
+│   ├── quit_555-001.vxe [4fe24d547f801f0b0b4dfd5886a2cd9715489b33b668d093b8138bd6d95b3a13]
+│   ├── quit_555-002.vxe [832772e241730496f3ba4218e33ab5764a2e70e0eb7a071097e2e9d4673a51b9]
+│   └── quit_555.vxe [33862e2455c8a379384f7aafdddd87cda231888ef1da19ea18a4d8e124dcf708]
 └── f
-    └── virus.dos.quit.555.c
+    └── virus.dos.quit.555.c [9e2e96434e5ec376f60b5e1f8e84bcc2bf4dc7b764d6d8044a802aa027875fd5]
 ```

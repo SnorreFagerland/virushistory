@@ -3,43 +3,43 @@
 
 ```
 ├── 06528
-│   ├── canary.vxe
-│   ├── debug.vxe
-│   └── dnazi31b.vxe
+│   ├── canary.vxe [8df524ea0ba423943b45ba63e74faa82a1806ebbf04723337dbd99c9531238ce]
+│   ├── debug.vxe [43e66c2055c5548650a766a42e893787d18db8e60c652df107ef44f8f15f16c6]
+│   └── dnazi31b.vxe [1c5fdcbce072adfc73338fc43bb0e4fcb3264226ab37c0643b6dee55c48c05e6]
 ├── 07864
-│   └── virus.dos.hllp.ppz.7864
+│   └── virus.dos.hllp.ppz.7864 [08e57fc313b36136175dd5ed9f71ea8b1f6ac70b36d423314e2c24e715c324fc]
 ├── 07904
-│   ├── cdplyr.vxe
-│   ├── dnazi10b.vxe
-│   ├── mediarck.vxe
-│   ├── nazi7904.vxe
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   └── t3.vxe
+│   ├── cdplyr.vxe [8627f80d47110ba2e5dc27ebc3cdf7f91b230a12388d6f2ac6d4e976498e8d80]
+│   ├── dnazi10b.vxe [7234abb4a5cd0e1f28c3a8fe0a6538db02138a73be7f470c1e6a14b96795d3c4]
+│   ├── mediarck.vxe [23a62f6f4b66810f9974268018cb4c964353fb1378234e425472d7485a10beb1]
+│   ├── nazi7904.vxe [05cd910e2699e9d4c41007885683cc6b89d719852a7f3163dc414055e5210390]
+│   ├── t1.vxe [b8b612cea418eca175ea4d367c6fba864e81d0da3d939a8acc5a52327612a2db]
+│   ├── t2.vxe [db09ddc8ebacda57dfc18d3d5aee28e6bdff7e77f06742b15aeaccdeda43a969]
+│   └── t3.vxe [5eabc6ff3e39cee9b7938669871cb31d3d726a5191a45ca3a61d3ef8698ceac3]
 ├── 08000
 │   └── a
-│       └── virus.dos.hllp.dn.8000
+│       └── virus.dos.hllp.dn.8000 [50f14b19fd9923ae6aa2370a0dd0366a9a59c9d105e4284197aafb2f64dd562f]
 ├── 08288
-│   └── virus.dos.hllp.remiz.8288
+│   └── virus.dos.hllp.remiz.8288 [f7b5669f07e76fc30087db0aa5b3d9e6325132c54eafad7203a1c12946fe6ef5]
 ├── 08297
-│   └── virus.dos.hllp.nazi.8297
+│   └── virus.dos.hllp.nazi.8297 [ddebf4959c03c29dc2b521dc2ad356c172c83c0101f3866cde0b7b5451100d2d]
 ├── 08506
-│   └── virus.dos.hllp.tomsk.8506
+│   └── virus.dos.hllp.tomsk.8506 [cd191d7f9f5b345c903125f8ca3dbee5ed7519d3a263f9621a9fa916c06d4cae]
 ├── 08516
-│   └── virus.dos.hllp.ppz.8516
+│   └── virus.dos.hllp.ppz.8516 [dd481efcfd90d654e5d338fc2e66a312ab1749b02d1e00b0e0d357a611bd0ada]
 └── 08600
     ├── a
-    │   ├── 1-hl8600.vom
-    │   ├── 1-hl8600.vxe
-    │   ├── 2-hl8600.vxe
-    │   ├── nazi8600.vxe
-    │   ├── t1.vxe
-    │   └── t2.vxe
+    │   ├── 1-hl8600.vom [87916677bf9b2bb47484f11f90df798639bf443d6f3acf8f92d07cbc7668eb9d]
+    │   ├── 1-hl8600.vxe [5cf3f598d2fdbf446eb30a422c814ac6b53f1d2fd3ba692964df2ccd24e326b8]
+    │   ├── 2-hl8600.vxe [0eab3c680578cb9ce822fc30b0e5da4c791cde50cc1506571534a0a58bf38070]
+    │   ├── nazi8600.vxe [7cb9ceb84140674e31f9e41bf02ee2477d5919da4939c264d1e0575335fcd075]
+    │   ├── t1.vxe [83b8200264c37499598f21eae6489e473cc53f02f5d4d43090d8adcbf5225fe8]
+    │   └── t2.vxe [669715349d3bb922268c767a61fdc27361fa21eff1983b20e675281502b7770a]
     └── b
-        ├── dnazi20b.vxe
-        ├── hlt8600b.vom
-        ├── hlt8600b.vxe
-        ├── t2.vom
-        ├── t2.vxe
-        └── t3.vxe
+        ├── dnazi20b.vxe [5b39336a7b50e75d13aa79a091005e846f6e6f20d1d9ecf2f9ee8eb2f6503a06]
+        ├── hlt8600b.vom [2d776793def1f64a647f401dedff03d3f90f5c8b388cc9bb2504218ce448f49f]
+        ├── hlt8600b.vxe [4bceda18a10f75fae0e42ca98de287288026216fccb27d22d8dabedfb1a5d1dc]
+        ├── t2.vom [50266953c28a7660950cf28d8ab3ee9cf2ffa3b4da3eb118bd4e38f847f86ad4]
+        ├── t2.vxe [b6ff25d25c56bc36638dc96b98f1de40fc27eebc9a1b168072bf1555c97d2138]
+        └── t3.vxe [649c64e92b672a0f7813e35603757cb903e480e37e8998d39abf79432d4ca567]
 ```

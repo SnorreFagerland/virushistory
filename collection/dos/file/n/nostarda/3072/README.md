@@ -3,26 +3,26 @@
 
 ```
 ├── a
-│   └── virus.dos.multilevel.3072
+│   └── virus.dos.multilevel.3072 [43b49ec7637aed13ed758603489b5b7671108c6c2ae42be1139698c12a5c3a8a]
 ├── b
-│   └── virus.dos.nostardamus.3072.a
+│   └── virus.dos.nostardamus.3072.a [a1503be555d52a7f55677c7825c02aae0afe91f2736c11c401aa49103d8693c7]
 ├── c1
-│   ├── extra.vom
-│   ├── t4.vom
-│   └── t4.vxe
+│   ├── extra.vom [37a68d758cd4feb9a9050b224211350c5fadbcf98390902880ed163b7a919907]
+│   ├── t4.vom [530002bedd1ad8adc82498c42de4795ded4d9dc69a91ba84bad024de557d8df4]
+│   └── t4.vxe [c05ed6d05fe559f421c520d2c2595edcdbd17fd4b3b770122ba35c57a6b44972]
 ├── c2
-│   ├── int-kill.vom
-│   └── int-kill.vxe
+│   ├── int-kill.vom [1a05323434c4ee536be58a82913b1e205754481af7b331032ec96eee9d1efb8d]
+│   └── int-kill.vxe [f71d81300984b687bf060fb1432cd780c786a43a55ea7613aee1d85152ad3d63]
 ├── d
-│   ├── double.vom
-│   ├── t5000.vxe
-│   └── t5000e.vxe
+│   ├── double.vom [7015642767423f4ffab1256fc8b7974de20d8ed8882db194088b25d978e05d26]
+│   ├── t5000.vxe [f4c85bfe132a9ad0690e08c2fc5758ed7259325556c7d8c0a05f144a53d3f016]
+│   └── t5000e.vxe [bb64400c33ebe9928924fe50e53f921335426317e17b2e9d38b73d1659a965dc]
 ├── e
-│   ├── double.vom
-│   ├── t1.vom
-│   └── t1.vxe
+│   ├── double.vom [35dfe4aa7e611b5813f310655d5f476392db739478e68df06e9710ab5bc797f0]
+│   ├── t1.vom [4d814b9e46d72dbeff346b486e201bc224d01337bac15983087a136b05b7ca9d]
+│   └── t1.vxe [293861ec7bbff2d6916f4c6b757c350cba575f0a4bb2742c7f59b8d4dfe4013d]
 └── f
-    ├── extra.vom
-    ├── t2.vom
-    └── t2.vxe
+    ├── extra.vom [6e07f0eafd0ffc92230d45971e0e06d4b3575a2e7ba57a3cb2544d6b1a16e7af]
+    ├── t2.vom [9fb01192b351b84d9728ace62ff261540bae529a9d4d88703f596c1fd06a0db6]
+    └── t2.vxe [6f1e663ad31e643b20f8ac3ba9d9e41add2a1d983f26f3c40ce3044f77827ceb]
 ```

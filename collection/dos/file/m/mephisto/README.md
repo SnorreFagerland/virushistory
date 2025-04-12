@@ -4,54 +4,54 @@
 ```
 ├── 0295
 │   ├── a
-│   │   └── v300.vom
+│   │   └── v300.vom [428039006c62b49ef7331c2074fb45bb4e9866e9142e8cd7b5ee6532affc54b2]
 │   └── b
-│       └── v300.vom
+│       └── v300.vom [9c3438505a66211a4686f4480a524dcb48c4557bd3bc8a3e4f19edf336faa675]
 ├── 0510
-│   └── mep510a.vom
+│   └── mep510a.vom [c4f6b9c5567913d92bc470d0fc6a970a3260679b999b2b7a801400cf7676575f]
 ├── 0615
-│   ├── Virus.DOS.Mephisto.5.615
-│   └── meph0615.vom
+│   ├── Virus.DOS.Mephisto.5.615 [dc3b8694deb1d18b823b91eb1e7c53600882f302d26e309b3031f1b389603f02]
+│   └── meph0615.vom [55f9f2e9498914522ab8e992f0a8037e0c36db6e1d56f18bd4fe29b2f3c36696]
 ├── 0654
-│   └── meph0654.vom
+│   └── meph0654.vom [edded9a4a59576a6a43735ab80c75328163212f6661b192623f807fb148e6b8d]
 ├── 0815
-│   └── meph0815.vom
+│   └── meph0815.vom [d8441638c83a91ebe5ac3a99f9e79a09512fd0aea5969fcdd60d2f422632f541]
 ├── 0914
-│   ├── Virus.DOS.Mephisto.3.914
-│   └── meph0914.vom
+│   ├── Virus.DOS.Mephisto.3.914 [04d4788bf5af1fd7f684d6e84cb1056ea4b3390880b105957ee273a902f43d1d]
+│   └── meph0914.vom [449b4f51e8c80131bacc39845c685f06f1807a4238091b456fb9824116859edf]
 ├── 0928
-│   └── mephi928.vom
+│   └── mephi928.vom [6d5834d3720fa2581e4e9291d3e88a6a0f6fa9e58d5e38f826e0759d3f3f5c3a]
 ├── 0937
-│   └── meph0937.vom
+│   └── meph0937.vom [c8e61cac2742555197c010e6b3b48e00e3b915050d951be5f6b5f9086ac903b7]
 ├── 0938
-│   └── meph0938.vom
+│   └── meph0938.vom [11b7792454ef09d4469d6ef7ec5fd5da584ecd0998969e64b21607a7b247aa47]
 ├── 1000
 │   ├── a
-│   │   ├── mep10001.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   └── t4.vom
+│   │   ├── mep10001.vom [6b51860b8387cffeb703b9b9eaca1e98a318ca5d0809e1b1da9d3ce2fa808a6a]
+│   │   ├── t1.vom [61d54c8c396718805084b4f37fc25b1267abd4ea9c25bc65588229155da0b250]
+│   │   ├── t2.vom [c5884e2a9b564dc31751342ab18c93ce3cfbb84da2f72fa6fb52d2d89bda178f]
+│   │   ├── t3.vom [ede420007cb5e6323e10bfa15134a95d30de80ddb27ca0cc7fd594b46610f409]
+│   │   └── t4.vom [3ae614adc8fe5c69e658355c2bea44c62097013d2303d52fd63d0ea416da1784]
 │   └── b
-│       ├── Virus.DOS.Mephisto.2.1000
-│       ├── meph1000.vom
-│       ├── t1.vom
-│       ├── t2.vom
-│       ├── t3.vom
-│       └── t4.vom
+│       ├── Virus.DOS.Mephisto.2.1000 [14c179827c8f80a179c2ec9bccedde051d133ec6e24a67d3aa3337c1fe66da2d]
+│       ├── meph1000.vom [9b1d74378f38d299b6f6a3ab79f0e29f342d2d251036fe33a7b67cfc2dfc9848]
+│       ├── t1.vom [6bda26b455c7a7d6d64d9ca2acbc03746c87683457e7e3fdfcc19cf15b624015]
+│       ├── t2.vom [dffab2ac27738aa097a0687f65ddb1232d15e48a808ddd3bd7e4caafa04f9135]
+│       ├── t3.vom [450d13f198a6bb49b4a6bbf86b8c7eb3824de6c0bea0ae167bfeef6c73667e94]
+│       └── t4.vom [f174fe2744b0f62f6a88a778dc96e191e0c156fc74ceb6ca24ff6fd498e393d4]
 ├── 1099
-│   ├── Virus.DOS.Mephisto.4.1099
-│   └── wci02022.vom
+│   ├── Virus.DOS.Mephisto.4.1099 [1e63912338ee2220c6f92adf4b2539a7aaf4deadb69d8af7f2bb161813c02890]
+│   └── wci02022.vom [350bdc8f197b4452108c8561f27c63188e1bbc2ed9c7260ee8ecd8629a35bfe2]
 ├── 1108
-│   ├── n4-1108.vom
-│   ├── n4-1108.vxe
-│   ├── t7.vxe
-│   └── tf.vxe
+│   ├── n4-1108.vom [afdcb6f699da25a4ede9255a87f0e30260dbabcbbfde6bcda0a074c71b5192af]
+│   ├── n4-1108.vxe [370768024f1fb408c81e7273dfed6823e69a99948ff0718939808958bceb3160]
+│   ├── t7.vxe [0bbb378ecbdf6d8ce8de78dcfd788cbec7c80af1fe424551ab459178c1ba5ea8]
+│   └── tf.vxe [755ff378f60e1259fc040ed3d3214ef28b56d7a1d9b922c68df10c4774e83332]
 ├── 1140
-│   └── Virus.DOS.Mephisto.4.1140
+│   └── Virus.DOS.Mephisto.4.1140 [e7604e584555dd0b3f293d06ea9104a3dfef635a34b0487567fa8468bec86641]
 ├── 1223
-│   ├── t1.vom
-│   └── wci03923.vom
+│   ├── t1.vom [968f4617113f2c1ee4f67b741472a40f8ca43902b75bb6ef02f6f912e47637ce]
+│   └── wci03923.vom [1ad7977e2e8e52fff5fc7afc05b2f0de5cb017434b4d9d5a8e6cf2299b52be10]
 └── 1242
-    └── meph1242.vom
+    └── meph1242.vom [6f837f8802bb7c8da1ba468dc0be0045192b7d81ae987500b90757881075d30a]
 ```

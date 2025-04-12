@@ -3,42 +3,42 @@
 
 ```
 ├── a
-│   └── trv-44a.vom
+│   └── trv-44a.vom [af4e7e0820edbd51f90942b1ad2f9cd239121f50ef87381b13ca79745a727883]
 ├── b
-│   └── 44.vom
+│   └── 44.vom [4acb479f593843db20a0482904482367fb3810bfede7002095814660509edb34]
 ├── c
-│   └── trv-044c.vom
+│   └── trv-044c.vom [9cb51340dbc8284bf8ccad15c5a11fc21cb6a32e3396bddaee467ef01a8c8625]
 ├── d
-│   └── v44.vom
+│   └── v44.vom [409c825ba5d74a09569adb6d1a544192f826e5759278837ef5bc463d5199cd20]
 ├── e
-│   └── wci0390t.vom
+│   └── wci0390t.vom [c43deb03e7cc60ca9db5c3ebec3c57f2e4324cbb33ceb345dbde4f91d9249493]
 ├── f
-│   └── wci0391t.vom
+│   └── wci0391t.vom [d65a9cb6273fdd235cb5854489e8d00a5b54c2ca68769b95430892f1c9a4ad33]
 ├── g
-│   ├── kldf.vom
-│   ├── p100.vom
-│   └── t1.vom
+│   ├── kldf.vom [b29106a7d02927dede26c3a439b37f61e06e81e55cfd6a6ae9c6e07552441b5e]
+│   ├── p100.vom [ced9c5bcfbe81c96a6309a0b8c0028b6840c9befae126c0b643adaf2aa13c7ea]
+│   └── t1.vom [038e5fe46e198f6c27fc534359adcf0a52578741b294c0f63d626a6fd2c4510b]
 ├── h
-│   ├── mini-44.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── t7.vom
+│   ├── mini-44.vom [b1339069b1911ffddccf770fb54e0830228416c4d69f3583b5a00bbfde9e4ef3]
+│   ├── t1.vom [b54baed41a007874848af726e5bcfc150befa1a0b8f28c6d53f68ba652e0baf4]
+│   ├── t3.vom [4039f59f38dd81a60df4c56aa6722088f0766c9cd131ad45875cda634ec4d739]
+│   ├── t5.vom [226b27a0922b3259d08e56ce6b5159d80fd018ffebdf47357d934c94958bf53a]
+│   └── t7.vom [d9c3d2daf46054950ef5926e35eadcd26a495b3be78f817e2c5095d2bad7e3b6]
 ├── i
-│   └── mini-44b.vom
+│   └── mini-44b.vom [4e4ced5ecdaf17f90fbbca578e6ced56b4434918bbe0b5e3d0a498e73a914193]
 ├── j
-│   └── mini-44e.vom
+│   └── mini-44e.vom [14943b4742eaabea7459b8330acd334e845898d8accdaf9eb798d051838257d1]
 ├── k
-│   └── Virus.DOS.Trivial.44.f
+│   └── Virus.DOS.Trivial.44.f [549900c716ba2c879422fc48e7027c8c6e47c415a18fbe4476dd8589d7d7542e]
 ├── l
-│   └── Virus.DOS.Trivial.44.k
+│   └── Virus.DOS.Trivial.44.k [7ce2eb65fe097f604bd98819694061f18360bcd623d1920ded2bdef4fed1e54d]
 ├── m
-│   └── virus.dos.trivial.44.l
+│   └── virus.dos.trivial.44.l [e2b9207647be1a8848a1df5b9310004592586f91d0fa1d6e82944968027900e0]
 ├── n
-│   └── trivial_.vom
+│   └── trivial_.vom [52c79ee538773e5d1f4605eb535004352abab062547d8093513078625c039e94]
 ├── o
-│   ├── t1.vom
-│   └── t2.vom
+│   ├── t1.vom [1c56a2293279fcc79ea169f4e2a8490aad1aacf7dcdc9ee910b91eedba8b8b4d]
+│   └── t2.vom [0835c89c57370b2f9f892385486a5f86090011f22c9bf3d0a702e321cbc36550]
 └── p
-    └── trivial_.vxe
+    └── trivial_.vxe [e18184a69ed452423644b2c41dd61d05ea1a705b044f721b04edfdce469013b8]
 ```

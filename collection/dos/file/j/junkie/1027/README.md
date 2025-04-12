@@ -3,31 +3,31 @@
 
 ```
 ├── a
-│   ├── callhere.vom
-│   ├── cara.vom
-│   ├── catman1.vom
-│   ├── ci2000.vom
-│   ├── fvirus.vom
-│   ├── junk.vom
-│   ├── junki.vom
-│   ├── junkie.vom
-│   ├── junkie_.vom
-│   ├── junkie~1.vom
-│   ├── junky.vom
-│   ├── junky_.vom
-│   ├── lind2.vom
-│   └── vdos.vom
+│   ├── callhere.vom [88ef236b824f0ed26cbaf03ec104896bae9a05eee9bd896ac4383ba8c6277a8b]
+│   ├── cara.vom [acd6029992a497e5fce0a0ef1259c50fd5364c2c75b1d2cbcb24b24533ccdb4f]
+│   ├── catman1.vom [0412fa2586b1c4aad63a62c7d494761e51252419b367885ffc64e43e1054e69c]
+│   ├── ci2000.vom [42d5db96f3b628e44cd435ec2e2e9fbb62216caaa4488e31a71833c45b4fcff2]
+│   ├── fvirus.vom [42605df6189e404b55089355b6d4a9603e526fda4c3aee5a21e578efe99b493c]
+│   ├── junk.vom [ca1142421e34103aa00039481b5ef4c097656c833aa08ec3d981bfdfabed9120]
+│   ├── junki.vom [32c2dde85806a4d6def6df342c796a2e0d68ab77e31704525685b2588d44df66]
+│   ├── junkie.vom [1030539e2953545753c5e4576d1a13fb9134ee24b104941de1fc6909b3d1d2bc]
+│   ├── junkie_.vom [8aba7538a256ec26bf3851e331282ebc1ac533c212a39fb2c9adb50fc84def1c]
+│   ├── junkie~1.vom [b9d27bbeef3ab60ac397254f0fa62c51fee2c1860dd3ca5b9c39693ad6bee7bb]
+│   ├── junky.vom [58880747c597f5a75617a810e608042e97ddb1023edeaf6e902ad3778370a95d]
+│   ├── junky_.vom [a6ad64a57e2b0f68004da07e8dffc78ce60580be9d2632ade9e2ace965dd3a9d]
+│   ├── lind2.vom [f142ccf90aec525a8adbac6963fe2471832cc29a7501f60998f1f7924ff205cb]
+│   └── vdos.vom [01e38efd36e7abd931de735b45abefa12b0fdf1b455040340f960eb46f1802f2]
 ├── b
-│   ├── 1-j1027b.vom
-│   ├── 2-j1027b.vom
-│   ├── 3-j1027b.vom
-│   ├── c-j1027b.vom
-│   └── ju1027b0.vom
+│   ├── 1-j1027b.vom [a3b5bf19a44415d4607ad521ed000805ea73b9f515e64ec602fca8d87a2d851e]
+│   ├── 2-j1027b.vom [cfc0cc3aacac8b1e027710d1ea7ea65687aea9660b4b8ff4416d2979085a7057]
+│   ├── 3-j1027b.vom [4075b818bee5234845a9dcb0b28336b9b32e94cdcb23c3ffb1fb3bb6c75fe6f5]
+│   ├── c-j1027b.vom [0277ef194d996a15090e03ac13d5273b23b5c3815bf9aaf28440f06f66ffabd1]
+│   └── ju1027b0.vom [100c673a8e195cbf74d9bb083f0848c6825da067a2be18f643b5bf203fc46b86]
 └── c
-    ├── keyb.vom
-    ├── t1.vom
-    ├── t10.vom
-    ├── t2.vom
-    ├── t9.vom
-    └── wci03172.vom
+    ├── keyb.vom [ad6105c7b53752360919fdcb491b0413202176fbf910455177c08643532a5307]
+    ├── t1.vom [a321c62816e3c95967cb07e262446b779a4d4ad0884b24fa1746112af5970e6e]
+    ├── t10.vom [9ff9616a0d0bc85e30eca161919cee6e94d027fba0e70046217742ffaa43edb2]
+    ├── t2.vom [f8c6be77e162dc628e1616fa3a147fc3be3a260411945cf87f1c656355b27708]
+    ├── t9.vom [83398b08edaa564fce6b6eaf4fe7c8c8f8dfe19008a72a2e9d755e1dc77da07f]
+    └── wci03172.vom [e0ec19ce3a26888598e08798d12af67ad320fc61ccca5bfec432869585bf7ef6]
 ```

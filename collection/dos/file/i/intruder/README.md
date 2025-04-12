@@ -3,96 +3,96 @@
 
 ```
 ├── 0459
-│   └── intrunk2.vxe
+│   └── intrunk2.vxe [300608fbe1c5ce62d63f84893313bf6588101ce00bdb535933fcc496ea84ca47]
 ├── 0654
-│   ├── bombt554.vxe
-│   ├── t1.vxe
-│   └── t2.vxe
+│   ├── bombt554.vxe [5ee149e2d379678e831672ac0d2be65ed39d5f1568f2d7171b409487270fc11a]
+│   ├── t1.vxe [0f46f55dd4558cd1afa72249c413b2b87884b66e5405c2a4ba88193d7cd80d5d]
+│   └── t2.vxe [4ba80f4da492f660e47e254d6140248695f80777a85b4893f58d73b6fbabfd5e]
 ├── 0879
-│   └── intrunk8.vxe
+│   └── intrunk8.vxe [c432862078d851e28d30e8bceacda9fbe7fa282fe04d1075c877f9e6438b29c1]
 ├── 0956
-│   └── retal956.vxe
+│   └── retal956.vxe [df2810b9be17f7db9fe845952a5365667e385dfedaf46a87da1398c695c7ee39]
 ├── 1312
-│   ├── intruder.vxe
-│   └── wci0071i.vxe
+│   ├── intruder.vxe [7a6dd79fa81c7857eab0af942def7b218749c753ae59e4412f2eb5b2c5d7324a]
+│   └── wci0071i.vxe [b9c36184b34177207700e5888b875c04c7506e0b9418428b852029958b6d2217]
 ├── 1317
 │   ├── a
-│   │   └── int1317.vxe
+│   │   └── int1317.vxe [966a9e049429c540e466e421b42bc22eac8daa03cb1228928c4dfc045a216f88]
 │   └── b
-│       └── virus.dos.intruder.1317.b
+│       └── virus.dos.intruder.1317.b [c3f74dfcba04dca563b67e84b04d9dc926794e26f08befde4cf0a180be096d27]
 ├── 1319
 │   ├── a
-│   │   └── v3330.vxe
+│   │   └── v3330.vxe [372374ec1e533e5f16fdf9e7f03716334cf74d7fba2408097b41b42f6d5e155c]
 │   ├── b
-│   │   └── v3335.vxe
+│   │   └── v3335.vxe [b21964ee1a84c902f237c6b852a532f7a1535cf34479b298c8469de2ca7780e2]
 │   ├── c
-│   │   └── v3340.vxe
+│   │   └── v3340.vxe [5f94c66ea2038225f36243d812380b22ca73ef0d8568071be2672465aa65a5d6]
 │   ├── d
-│   │   └── in1319d0.vxe
+│   │   └── in1319d0.vxe [12a08c8eeb8cd6847ca9799036a73546d7e53b8ba5bf1dbd3599fb540e128102]
 │   ├── e
-│   │   ├── debug.vxe
-│   │   ├── intz.vxe
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   ├── t4.vxe
-│   │   └── t5.vxe
+│   │   ├── debug.vxe [775311b4d1b34ad9b9a8c30899f2b62ee80d1c6781a49c71fe8b517402f17ba6]
+│   │   ├── intz.vxe [3cce6b6f7bd40a7f2e9fc6e8ee9193ee570c75eeec59139ed5496f1e87c39500]
+│   │   ├── t1.vxe [001970359ab15c851fe82ee51a260f9768896d50c04576d8b5bd4e5b20b9f392]
+│   │   ├── t2.vxe [b6d91de956f0f6ad1f67cac76391f3fc63a75818a76ea2be21f69805b7304928]
+│   │   ├── t3.vxe [434dcd4d672d779255a621704ca734999100da320ae01e7db733e8af34f62b25]
+│   │   ├── t4.vxe [6563d8da8ff324fe635a6114f2bf5c209d0db22e7287cf97ba2cdac73aa68698]
+│   │   └── t5.vxe [e32eb15a83b029fab9ba80a3e63143130e1a2e2d40c11357c8ee553d438d5822]
 │   ├── f
-│   │   └── intruder.vxe
+│   │   └── intruder.vxe [3981fc2102acfbcbcdcb0e8f0d13e6100b2726e49ae16641ac88db11250b0d68]
 │   └── g
-│       ├── intr1327.vxe
-│       ├── t1.vxe
-│       ├── t2.vxe
-│       └── t3.vxe
+│       ├── intr1327.vxe [8edbf3feefb0415c5f1f2032e8d289ae293a3e9f3bee44426e970e618464ee66]
+│       ├── t1.vxe [60194e5c2f82614a9eeacca00cc158511ddf931e2a075d23b63bf2cde2d9f140]
+│       ├── t2.vxe [7faf79f6221bcd5c26461665fe664d695c41bbbc663bec7d18fd0f9988cb0be4]
+│       └── t3.vxe [d80cfa0223496290f4d086198e3db5a04c3f9df15ae5a71bf69c8ff8c938a303]
 ├── 1322
-│   └── virus.dos.intruder.1322
+│   └── virus.dos.intruder.1322 [36f5e15600548536140507a627e7a6804ffab49bfc0672bb58ffe2f6fa0b0944]
 ├── 1326
-│   └── v3345.vxe
+│   └── v3345.vxe [85edc699f513abbaab2e478bf726c0c65c4cec0e785e1421d786db2a5e850f72]
 ├── 1331
-│   └── int1331.vxe
+│   └── int1331.vxe [1f9e3a4c98999cc50fa4180d744868edea7a3d579c43ede4cfe17aa96119842b]
 ├── 1336
-│   └── 1336.vxe
+│   └── 1336.vxe [ebc0e7d999c01fa8d7d9b281bfe880478fa13bad510ff537133422c416c2aa55]
 ├── 1347
-│   ├── intrunk6.vxe
-│   └── intrunk7.vxe
+│   ├── intrunk6.vxe [b7af780eedd9f25586e9bf1c1b11b97252ed65eb645e353ba1095cdf8f67c719]
+│   └── intrunk7.vxe [e90c8235c9c3bc4af907ea70f6cb531ea5f7f1be693534b89d1f4444fc73d4e4]
 ├── 1353
-│   └── wci0082i.vxe
+│   └── wci0082i.vxe [34d03a07ddb9d4d2593b6538df81b4b2307e444981a4a66c4dd595f4cde069fe]
 ├── 1355
-│   └── 1355.vxe
+│   └── 1355.vxe [1a05a5f4d2fe9d8214f0f0a2eeb5be2229dcbb2a778753e65a8ec49b23b9580c]
 ├── 1413
-│   └── antiprt3.vxe
+│   └── antiprt3.vxe [48969304c0ad8835e9d994aee919f2bfa8f6bbc84f0b41139ea6975eea8825ea]
 ├── 1440
 │   ├── a
-│   │   └── v3350.vxe
+│   │   └── v3350.vxe [2c8af74541121334a6befd549dd65c47dd1c4859f5793210838db322c1fcb937]
 │   └── b
-│       └── maddenb.vxe
+│       └── maddenb.vxe [b7adf2c4798422dfa5edba817b2a5adb690f4c2d4d9517673827ab58bb09fb99]
 ├── 1555
-│   ├── intruder.vom
-│   └── intruder.vxe
+│   ├── intruder.vom [fea674734e8faef8daab866b4a56a38f4c9370ad68bf00cde505de9e257f9e16]
+│   └── intruder.vxe [20364f88a048cafd72373d322077d39361793258aa77f115d16167bb0a339ef7]
 ├── 1967
 │   ├── a
-│   │   └── v3355.vxe
+│   │   └── v3355.vxe [1c71025261d2191797390368dcdaea014b92481ed145566e700862d8ed4ad478]
 │   └── b
-│       └── int1967.vxe
+│       └── int1967.vxe [e0a712f0c222989104c93f90ba818a1454ba2ec02daff96e167b2f2a5193d170]
 ├── 1988
-│   └── v3360.vxe
+│   └── v3360.vxe [73e3fe84541aafef0aec3ca84647b7774ed2d1a98d385ec810842418518be7b6]
 ├── 2028
-│   └── intrunk9.vxe
+│   └── intrunk9.vxe [19a0658a27c96218c8860b5908ca9d27d95ca9564a554a652039bf9074514a2c]
 ├── 2050
 │   ├── a
-│   │   ├── int1.vxe
-│   │   └── wci0091i.vxe
+│   │   ├── int1.vxe [c6c458f113c535315e1afb127da1a2f0a27053bcd966559d020d3a7cbe646b03]
+│   │   └── wci0091i.vxe [11afac60b88783aee9ad712f9451ce3f7080c5c118d0799c0e7a360399122da1]
 │   └── b
-│       ├── cabinfo.vxe
-│       ├── clratt.vxe
-│       ├── debug.vxe
-│       ├── getinfor.vxe
-│       ├── t1.vxe
-│       ├── t3.vxe
-│       └── virus.dos.intruder.2050
+│       ├── cabinfo.vxe [f48237fb90dd03e44f5ffca3f85896205164f486d6c7f2ae274692a8a6dd61b1]
+│       ├── clratt.vxe [dd0d099793fe66a0ea569772f7db65ad7a59cf5a0478ea95616511d206a80845]
+│       ├── debug.vxe [d994362181388d49f25eb4bcd3559021be26212f7c0ef3d4b1e2eb5aa5c67a0a]
+│       ├── getinfor.vxe [d71f5263784c6e64ca849318d9ea544b9270f39f183208220b99508404f7f245]
+│       ├── t1.vxe [0b21c7d5dc26516b538dad74bafa716b1631d90bea61e0967fabdd0c1dd0cd7a]
+│       ├── t3.vxe [86669ee1240fc7d3af10d79b1d45e8a35042b5fd339633972d22ed76cbad1867]
+│       └── virus.dos.intruder.2050 [811e6a58b9edfb6f6e1af97749593e731f7f4f2586d21a353027976829c6e60b]
 ├── 2051
-│   ├── madder.vxe
-│   └── wci0093i.vxe
+│   ├── madder.vxe [16497b8f2a3c2b2a6da1fd18224e049a6dd65faed7c26c3fe45f929bc2ee49cb]
+│   └── wci0093i.vxe [090874b6a570fba6f57eecc3892cfb9caad20475f99afe050e00edd185b14118]
 └── 2336
-    └── v3365.vxe
+    └── v3365.vxe [7c042a4ff64620c17693dc82fd92b5a40700be87dd7608af70acace82877a134]
 ```

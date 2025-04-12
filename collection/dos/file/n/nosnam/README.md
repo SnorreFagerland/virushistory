@@ -4,13 +4,13 @@
 ```
 ├── 409
 │   └── a
-│       ├── f-prot316f.txt
-│       ├── nosnam_4-001.vom
-│       ├── nosnam_4.vom
-│       └── virus.dos.vcl.nosnam.409
+│       ├── f-prot316f.txt [75eaa95538c02bc69c9a1122bc8bdff6a75d9161f941c83fdc6cabd087491624]
+│       ├── nosnam_4-001.vom [3de16b00b51b753c39dff65a076ca9434924f4bceb96cece9e70bf9fb03d5883]
+│       ├── nosnam_4.vom [b0e621e3441b03a2e36b9945d24d45d187c597adf42d98ad2aaeaf2397d6cde3]
+│       └── virus.dos.vcl.nosnam.409 [c14b026563d29f16b28ba073e2c453330d91e922aa2eaa1acb124749ed6b2109]
 └── 411
     └── a
-        ├── nosnam_4-001.vxe
-        ├── nosnam_4.vxe
-        └── virus.dos.vcl.411
+        ├── nosnam_4-001.vxe [887ab683b409909f9a7854728453f82462b2242c54f5e392e36ba0b35df6428c]
+        ├── nosnam_4.vxe [663057483a24fe49add5ced2a804ff3923dd0703feedc93da204be44e74bc817]
+        └── virus.dos.vcl.411 [663057483a24fe49add5ced2a804ff3923dd0703feedc93da204be44e74bc817]
 ```

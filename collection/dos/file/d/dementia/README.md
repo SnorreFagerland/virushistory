@@ -3,81 +3,81 @@
 
 ```
 ├── 3951
-│   └── virus.dos.callfast.3959
+│   └── virus.dos.callfast.3959 [0c50e66e8f5f35d66da58e5180110803101f3f59692d67f13307829f215d8ee6]
 ├── 4207
 │   ├── a
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t4.vxe
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   ├── t7.vom
-│   │   ├── t8.vom
-│   │   └── wci0217d.vom
+│   │   ├── t1.vom [23eb3a78e9b2ed612478c53e6a87d7d8be2f7f329e65730fc08e60fa9fb054ac]
+│   │   ├── t1.vxe [6228f768d598263f9622765f217fd0d6a42f6d63249cd14e459119c7412cc193]
+│   │   ├── t2.vom [cc4e0c67ad7a3c826950cbd00131b742375bbecf091e681810537e5dad7a1059]
+│   │   ├── t3.vom [90287074c2b13911160e8b842fccf11a4abbb2c42a6ee720356c8c078fb8d773]
+│   │   ├── t3.vxe [a58e877bfb01fe6837a8bf8492847f24b10418a41d6bbdad352eb3afeb0a0b33]
+│   │   ├── t4.vom [215e08ddfd149d101348501306fca3d443b0365143dbb95e4a930b0f70f7cc32]
+│   │   ├── t4.vxe [7ab3d6ed15ab1317546c1a29758b717c71f4af41f3213287ad168417073e7a4c]
+│   │   ├── t5.vom [ef82341a54bd6e33f3b97af5ff2656577055c4602c8ca0c6faaa6dc24e9ef8dc]
+│   │   ├── t5.vxe [cb71ec48650757c9fc07fbf918cfeddee079768b5a3de5a6cab16316c6a4fb70]
+│   │   ├── t6.vom [9acf31a0706036a70b1b1e35b85bd64f7e11bb12f6b4d45d14b42c30e86c6094]
+│   │   ├── t7.vom [6b91770e9ade33b723546121f2962ea8e7f5caea6e0123488ea52b4ac2751072]
+│   │   ├── t8.vom [82722526f8f37cdc8ed760d7ea3b950e1e005dd9462a15c5f5c042654c10bb22]
+│   │   └── wci0217d.vom [0803ecb16b2a930a0031869f262fa84bca34f2282bcbf41afe14db806e92dd17]
 │   ├── b
-│   │   ├── _demen~1.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   ├── t5.vxe
-│   │   ├── t6.vxe
-│   │   └── wci07111.vxe
+│   │   ├── _demen~1.vom [b0492563ae6ffd8a7c4251166b41cffbc0390148492a00cf5e75573fe2259a50]
+│   │   ├── t1.vom [21e6bfebfcf95ad336e7963491bc1f989aa09849869ce30ec487b8300c6ba101]
+│   │   ├── t1.vxe [698f7c67f4c82ecd3a4456cc135ab1f847b66a026aa37dfa24a74bf2d8de4179]
+│   │   ├── t2.vom [59e3bdc7acba0fce4c201f38915c68deea9ce748c04beb34b47c31b962b4e12f]
+│   │   ├── t2.vxe [fec9f36e583e2bb82690db049a47213b84bd11bb133b9b3bfd70a8e5f948fdd2]
+│   │   ├── t3.vxe [f69f910caf818237dfd4d10ca4bd516c0bfb9ccac0891e2d885652bb6eb6765b]
+│   │   ├── t5.vxe [07686b36116885aefcd60fe139111a900450e1aed88654e0e39d84825d6faf09]
+│   │   ├── t6.vxe [fca0c51f0e88cf415102304e21e6372ed4fa3cb78927a9ba5836de7459313ad9]
+│   │   └── wci07111.vxe [2697873d0cf313a3a3e3c5a619902f4a25a6dd23b3bc2219abc87e44e1989f8d]
 │   ├── c
-│   │   ├── 1-d4207c.vom
-│   │   ├── 1-d4207c.vxe
-│   │   ├── 2-d4207c.vom
-│   │   ├── 2-d4207c.vxe
-│   │   ├── 3-d4207c.vom
-│   │   ├── 3-d4207c.vxe
-│   │   ├── 4-d4207c.vom
-│   │   ├── c-d4207c.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   ├── t6.vxe
-│   │   ├── t7.vom
-│   │   ├── t8.vom
-│   │   └── wci02454.vom
+│   │   ├── 1-d4207c.vom [8c389ce247f66d2e7b0002c6887b1c709abb025a6c53c10492cadd560263888f]
+│   │   ├── 1-d4207c.vxe [5fc0f622d856b039ad2a15bba5b0c4ee16cb7d3e830f1c29b84f4177aaa49105]
+│   │   ├── 2-d4207c.vom [b537cdd05129219cb00a460266988841ce60a3fd47a138206b237b64a588f4c1]
+│   │   ├── 2-d4207c.vxe [40a97a09405b7ee078f2cd96d65053da969229c160fab50bc3bd6df5dc577313]
+│   │   ├── 3-d4207c.vom [9ea478a78d2cd091b4dd69449968795a358ff248b3c6dbdcaf30d776f6caeb8c]
+│   │   ├── 3-d4207c.vxe [30e518dd023a53222deb9fc71f5940043ae0d1f72cc842d27bdf79afb45d07a6]
+│   │   ├── 4-d4207c.vom [32e72b94abc18649c302f950597727076b2cc3fc0f0a84d4208e6bebe9a1d538]
+│   │   ├── c-d4207c.vom [27ea6a4706e1a939f8d2df0ef66626d4cc7f1b0536d3a22568cea076473579a1]
+│   │   ├── t1.vom [4112a5b056a6fdf38f3208da1110e4c20d094941eaecffdea42c77bf280ae952]
+│   │   ├── t1.vxe [caca53b1c48a1489dba98fb16201c5a752d56a2b1fb992b5e4ed2703252cd206]
+│   │   ├── t2.vom [dc5e1559373beb4b2007c6724c4e9a68a0af74e70aa50f08c9d83ed4ec00a4b3]
+│   │   ├── t2.vxe [17a5350a1ce21d292390e7fac6206ed374a42e4878c495e986e5f3dee6a2e94d]
+│   │   ├── t3.vom [ce94b3a562d750df071852d7defe0dc05528d8abf118776ed679a7292d571feb]
+│   │   ├── t3.vxe [37b759db766962a60dffa476dcdea97c1118b751ba5021df42f643e817f2b7c9]
+│   │   ├── t4.vom [aabdb77d3ac0fd558e39c1217b08bf8db7015a67cdd07bfc52866f67f3a9dbb5]
+│   │   ├── t5.vom [38b6287a70cfaf1e84b59e7869ff74caf837066a2452602bde547707c3843136]
+│   │   ├── t5.vxe [061c3ebb230d1bc0cede5708167029979ac814a9d39b319c166fac1567c79092]
+│   │   ├── t6.vom [f27b74647e728a401b1e8411b905cad22650cb0dd21c1ef47c42c2ea5dd880b4]
+│   │   ├── t6.vxe [098c1d6b6bc80081bfe656e23c80214a5f195ed7573c1652be7b219aa7658645]
+│   │   ├── t7.vom [353d9045736eed0e845f7dded8d325c7641c53eda810f9ffea0003a9b70b05a8]
+│   │   ├── t8.vom [5a24fd0620d235c723957965e75bf2cf1af420f194c5351775e1e79e0361c5d9]
+│   │   └── wci02454.vom [7710faf892a6a2f996978a2391eb60083bde8004b9ae874f9de7b04e146e08d2]
 │   ├── d
-│   │   ├── dementia.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t11.vom
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   ├── t6.vxe
-│   │   ├── t7.vom
-│   │   └── t8.vom
+│   │   ├── dementia.vom [73d67a882d744448977602b5fa2f174003af18ce3c418523bdc03f24f1deeb54]
+│   │   ├── t1.vom [e6bcef65ef1614f70f745d702eea46e5425be481fdac622722e656fe69d59154]
+│   │   ├── t1.vxe [20d7636477f3880eac27463b6eb3d427d9225fc72fb2c2848d5a180337dd123e]
+│   │   ├── t11.vom [813b99b7ef4722c8199cbeca9be504efba641f4b214be962acb93d05442646de]
+│   │   ├── t2.vom [c2cdf4cd9c8a3d6da091d8d8164d29354d76fceeb667ec87ca42029257d3ab05]
+│   │   ├── t2.vxe [feffbf63b7df5ce00aefe2653e1834e77e78d465f30f641b561f59a31cb2f065]
+│   │   ├── t3.vom [64de3b4d63cd7d821619c57b823665a8d482f6660917b9d4e2cdc22c779dbb2b]
+│   │   ├── t3.vxe [693d48566d879409a7fe21cb07b877f33a76e84c7d66a00b63fda08910a0af95]
+│   │   ├── t4.vom [5d28f2fc2c10c32bc1d2737a8b36d6688610522ef39dff14d932e958f5e0065f]
+│   │   ├── t5.vom [fdacfecebff32d1b402354d228b871471f499dafc83216d2d626e512851b6c58]
+│   │   ├── t5.vxe [587ecf7e1c742b22ab119d123fa5f9b836376f7e4361994bfa5e9af044f8c1d6]
+│   │   ├── t6.vom [5618505417a699883c0b2a3b5653bf3969fa23c73270e7b4fa360f9dff753c1c]
+│   │   ├── t6.vxe [34e17a73f9f5fc619bed084099db5c99a91e93affccabbd63994e76096d3bfb7]
+│   │   ├── t7.vom [73017cce203bd1c0c4e1eb0735b69f31ee54d350988733daa2661dc258e630a6]
+│   │   └── t8.vom [987cd419cb9d3a6e82d8236a6413f3dee8ec533efcd0edf96dd1e6691815e1dc]
 │   └── e
-│       ├── DUMP32.vom
-│       ├── debug.vxe
-│       ├── t1.vxe
-│       ├── t3.vxe
-│       └── virus.dos.dementia.4207.b
+│       ├── DUMP32.vom [63c7c3dc448b5efa96ce4c8c972f40214402f63d228250a9e9b4c569c35df289]
+│       ├── debug.vxe [77550f41271e39c63be5f570c11198053d78fd8fbe77517eeabcadacf3ebc4fb]
+│       ├── t1.vxe [5ce5de4ce5db1c9ccd32d44c4d066cb6e2401914cf42865b70bf97216e7bdab3]
+│       ├── t3.vxe [49cbfce339fce51472f578ad1aba2f24a9b4686419823444875da631f31992e3]
+│       └── virus.dos.dementia.4207.b [27d9d422f3be75f02b6a71e88e463ed7dcc3b7372e4c68da66047cd15c00c015]
 ├── 4218
-│   └── virus.dos.dementia.4218
+│   └── virus.dos.dementia.4218 [f45265937989b83c1cf7f3433565926224c34ac9fd17468e6c152bdf97bf6790]
 ├── 4226
-│   └── virus.dos.dementia.4226
+│   └── virus.dos.dementia.4226 [aeaf5bce9f3e3f98062f67614e7eb60860f3240e72970dd6a31bfd289ac892c7]
 └── 4229
-    └── virus.dos.dementia.4229
+    └── virus.dos.dementia.4229 [792f8f099ff1e743524e2045d18c385763499db7559c2eb328bd528963ad9483]
 ```

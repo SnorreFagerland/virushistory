@@ -3,122 +3,122 @@
 
 ```
 ├── 0267
-│   └── virus.dos.civilwar.ratboy.267
+│   └── virus.dos.civilwar.ratboy.267 [14710c8d68b8217fd996fcdd0ed77d62dc25316bf6fc3a01cd564cb3b7aece60]
 ├── 0269
 │   ├── a
-│   │   ├── fmac269a.vom
-│   │   └── rb1.vom
+│   │   ├── fmac269a.vom [9f45965ad230b34af08c1c26bcac8c91c1119ae1303e5c5932b270a9029c1e94]
+│   │   └── rb1.vom [88270fd6db935f25af7436d02bd368e6bbb4f2a88ed03ee86cf26699998fbb27]
 │   └── b
-│       └── fmac269b.vom
+│       └── fmac269b.vom [b8af77458344c7e7fd8d65bb03ed7bfc54f5fab455577a1028c62f3a3bfe4541]
 ├── 0289
-│   ├── #hellr#.vom
-│   └── fmac0289.vom
+│   ├── #hellr#.vom [721cf7156a70369e54a69cef74a2e30810122e93b503d64f2e519cc8f1910685]
+│   └── fmac0289.vom [7a523dca305dde8e965f55bddfac22eb8f055b4f7087fe3d8e1bd70527bb9e32]
 ├── 0303
-│   └── rat_boy_.vom
+│   └── rat_boy_.vom [d3dfbcd7e60885f0b39ea366646f63fa0027ca53cc190f12d02c43fd5d9197d2]
 ├── 0306
 │   ├── a
-│   │   ├── 90ana.vom
-│   │   ├── ratb306b.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   └── t3.vom
+│   │   ├── 90ana.vom [d506d856ca572d9e1b6aa1aaf7b4a9f98ec9b40826451ff87f6577b07b0285c8]
+│   │   ├── ratb306b.vom [8aa916bb6035c74b7e74b7c04c50df4a644f782e3665a891c7f49960515567cd]
+│   │   ├── t1.vom [c1a975c3c6aa36e556eb96cc85b2699303e8b516fcfad0321871d5e1ee310844]
+│   │   ├── t2.vom [0a6c44750ff1377f9296fe418386d486499319648cdaacc9603b0c0820c4373d]
+│   │   └── t3.vom [48a7b7562774063630c1924a43c289d7e0a791c771f803fc13913052a4d5bed5]
 │   ├── b
-│   │   ├── fmac306b.vom
-│   │   ├── t1.com
-│   │   ├── t2.com
-│   │   ├── t3.com
-│   │   ├── t4.com
-│   │   ├── t5.com
-│   │   └── t6.com
+│   │   ├── fmac306b.vom [9adc1f50329ae02274537c429fb5bd30c085cca83e2eca4b255d02fbd3f5a11c]
+│   │   ├── t1.com [03d7cb7a05e069f53f2b440a11d52905b6a0c88cc514a03ecac2078ff7a49821]
+│   │   ├── t2.com [d4d8ac1cad2582908ed0c55380aabfb89e10d50a7ceee3647051d1295e23fc4a]
+│   │   ├── t3.com [b4e1bb7b3eced5b519c1624f38369bdc40100c514bc1684e5f612ec2ecf361bb]
+│   │   ├── t4.com [4b84f9be6899e6fda65821c6f98ab54f03e634bf24390fc95dc2a16899a48bdc]
+│   │   ├── t5.com [f6c3f0621147d74da5837f12811a619deee447d850430df7d6e26c32ae9a9aca]
+│   │   └── t6.com [52db17313c7fcb6e23cabb441a7493e4beec67898a049114988e3be0bf44d869]
 │   └── c
-│       ├── 32ffd33d.vom
-│       ├── t1.vom
-│       ├── t2.vom
-│       ├── t3.vom
-│       ├── t4.vom
-│       ├── t5.vom
-│       └── t6.vom
+│       ├── 32ffd33d.vom [2a669eb4f6dff9a2c5523ed47e007aa0902c608caba43d1c8e7bdb363a471553]
+│       ├── t1.vom [18b23450d4d7cb53b9e15b318daaa2589cd575a95404d9cc2461fdd9c5ed1958]
+│       ├── t2.vom [5b43cd04d9730fe27bcc00de30bb1a2d0022f81a302b72287b44bcd90e6cb76e]
+│       ├── t3.vom [07ac977ef5fd8a31a0ca7c259bdde6ffc20a05499b6150c824e77adb12a3ae88]
+│       ├── t4.vom [7acc472dccf76b7ed893c42a91a5601a6ca6d329b565c4140a43a8e92929ddc6]
+│       ├── t5.vom [e6a41c733911d813e8c3333c23207b6bf9b371e9e401d23f8aba48ec05d18bd4]
+│       └── t6.vom [18563742966ef488e4e0090af0eb43ae50c00b4ca25633b59e8d036c7bbf2cc3]
 ├── 0784
-│   └── tular.vom
+│   └── tular.vom [de26729ce15ada0afaf32933fda6023b49c772cde05f9f23aee907e3bc8932c1]
 ├── 0789
 │   ├── a
-│   │   ├── cr1.vom
-│   │   └── fmac0789.vom
+│   │   ├── cr1.vom [0f4ed5d11085c4e4f6b4307f3819d99e44d19690f152cf49d5e88e74de1d4d12]
+│   │   └── fmac0789.vom [5cfb36a591a4909a1c51d6400e2b54afb3feff3ee914c46939ffc046b5b94e87]
 │   └── b
-│       └── lassa.vom
+│       └── lassa.vom [8ce38f34bd0654d82e2044292a5df1d9e646e94dfcd930d8d87425f4131e4532]
 ├── 0794
-│   ├── coccidio.vom
-│   ├── qfever.vom
-│   ├── qfever2.vom
-│   ├── qfever3.vom
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t4.vom
-│   └── t5.vom
+│   ├── coccidio.vom [2a3c1c5e48aab5141a98df2edb037c1bf64cf45030893f59b00e0de71bba61da]
+│   ├── qfever.vom [c7cce553072c58a5a366f90ca0c46c92d1b69079f8b3b6a9148d9137b77d89bf]
+│   ├── qfever2.vom [07f5628ef0a671dda185f32a0e877ba9581374c82b467f642e8d2bf0737c2a0d]
+│   ├── qfever3.vom [23d42fcec7f1c83c0454bfe5055b117734d0b48f7a431ed5107dd582b41019bb]
+│   ├── t1.vom [7e42c02c7908f5af370aea06bd841ef0331515151f9c05b1d0b02676ec596fee]
+│   ├── t2.vom [482231d0c514ad13c2535e8dd056b51f260c68d604e5bf1b9797cd431c819898]
+│   ├── t3.vom [f1175884ffb0a87927c8665626a10a4a2cffa9faf656a41430d02dcd5bb0d96f]
+│   ├── t4.vom [4221bea349df8822ffb4a7c69ec620139571ec4640bd3cebaec882b3edbd78f8]
+│   └── t5.vom [da3a065126ffe0510371717617aac16becd4ec5e800953cca75c317e7f62ed38]
 ├── 0797
-│   └── virus.dos.lavi.usa.797
+│   └── virus.dos.lavi.usa.797 [229f20a3a6d2c728ddfda5668bfdd1c3c3f294e637de5123bd41a6208ddabeeb]
 ├── 0833
-│   ├── histo.vom
-│   ├── histo2.vom
-│   └── histo3.vom
+│   ├── histo.vom [1b0a4831992e14cc2c717b19b516419c00831904a13788598a05f1d9963c2243]
+│   ├── histo2.vom [3d0060c572cdedeac32078bf7f84513aaafd36a4a87501bf73eaf0c17b00556a]
+│   └── histo3.vom [a9cad65ccc96cb0842a69fb1929951999bffc625db4eced8790993a1e99d113e]
 ├── 0836
 │   ├── a
-│   │   └── 836.vom
+│   │   └── 836.vom [bb5e6228a18b472bc126501888bd6c0aea06dfe6702ce22d68e9b440baa3fcc5]
 │   ├── b
-│   │   └── fmac0836.vom
+│   │   └── fmac0836.vom [ec6dee02b7c1faa84caee20adac51b0ce7fe7b2e3acdf2a6478d4a6a3519c634]
 │   ├── c
-│   │   └── wci0266l.vom
+│   │   └── wci0266l.vom [2ff2cf5289f0eef23fbe2a28d93fb35cbe2124271ca01368f7a03ac970912978]
 │   └── d
-│       ├── fat836d.vom
-│       └── tular3.vom
+│       ├── fat836d.vom [eae3d93705a763eaac208c2b77825ad474a1b81ada68d1b1af5a2c225dec67fe]
+│       └── tular3.vom [28705c42f15ded03c5444efa430804c8d00cc8f4949cf7d4ec5547e2f4d7020a]
 ├── 0838
-│   └── fmac0838.vom
+│   └── fmac0838.vom [b8c0d2e9be47575c5ce9bf732ca5ba2a711df38b22457b9de71f479207e70882]
 ├── 0843
-│   ├── father_m.vom
-│   └── wci0056f.vom
+│   ├── father_m.vom [34bd58fc958958589488efb23c2863c77fab3f6c0b45ba57a5d13cde30b4c04b]
+│   └── wci0056f.vom [4a6909df0affb3265d78fcaeccee200228432b41eb158d8d408b6ae011c336e5]
 ├── 1360
-│   └── fmac1360.vom
+│   └── fmac1360.vom [d3b57510e023037d0b17a118299671217923a15754a9fcd43354441986183fff]
 ├── 1382
-│   └── virus.dos.lavi.1382
+│   └── virus.dos.lavi.1382 [e692d5abe3b97debebc442d111e16193837e88ca5d037312af3fe0b6a45fc05e]
 ├── 1437
-│   └── testill1.vom
+│   └── testill1.vom [aee072059184552ac84ebb6feb475c1af11a646b4b8e7ee637963b40b5a30265]
 ├── 1445
-│   ├── fat1445a.vom
-│   └── fmac1445.vom
+│   ├── fat1445a.vom [445db62aa0c1c61407ef2dc71fde29dbe028834291fb58e7d05769cc1b703690]
+│   └── fmac1445.vom [ef88bc88db9f6750fa167da46758492363904d725f2929b4fa27cf490394d7d7]
 ├── 1446
-│   └── house.vom
+│   └── house.vom [330c9df97ecb4467ca5fd340ab24b36eb2b57d46091d13685caca4ec0fb0cb1a]
 ├── 1460
-│   └── virus.dos.lavi.hola.1460
+│   └── virus.dos.lavi.hola.1460 [51c8eac5baa48a8e1fa880934c717666c14b90f44454e9556068779950fba09c]
 ├── 1464
-│   └── kalo1464.vom
+│   └── kalo1464.vom [31454f5a271569879f698673b2a5fa0a2c89b3d7df7ba7065406471386439c12]
 ├── 1470
-│   ├── cris1.vom
-│   └── fmac1470.vom
+│   ├── cris1.vom [b431759dc234fe853a05564a39d5cc1682ff649fd2623ffbc845154b8af2559a]
+│   └── fmac1470.vom [77c260e148d011bb3ba0ea35976f054f882aaed3f27a7e7af87403fc77e619b8]
 ├── 1494
-│   ├── myco2.vom
-│   └── t1.vom
+│   ├── myco2.vom [f199d59c86ded96245c943287dc71e0c9534d25ae4d1ef8b61b835c8c1900145]
+│   └── t1.vom [cae1dc4b419284907fa9e8c69337a7e2ec17408bda9179e6a042a546b0afd65e]
 ├── 1495
 │   ├── a
-│   │   ├── fat1495a.vom
-│   │   └── fmac1495.vom
+│   │   ├── fat1495a.vom [f3d0360dd088cc30a03eb6a87110057ea323e4c10f9b853c1859c0416556f33c]
+│   │   └── fmac1495.vom [ad03f2377efca0dd5a2a659b7fd7149bbb16997a53b8a7394cc62e097e02b7cf]
 │   └── b
-│       └── meinhof.vom
+│       └── meinhof.vom [00bd7262d93fe6fba1a5917244c135ee14cedc8278675c47066952ee0f452f17]
 ├── 1496
-│   └── fmac1496.vom
+│   └── fmac1496.vom [f15d5915fa117e6405fc86ab3f419ad2468c579aac310c1bff4a064376deb067]
 ├── 1499
-│   ├── lavi1499.vom
-│   └── metralla.vom
+│   ├── lavi1499.vom [427cd89641d6ed82f12e2b99d32dc02be4bb995b92445ae558d5150f5837a350]
+│   └── metralla.vom [1babd855541b55a54697329df54b0abf64b717071d96e3027da018c6d45c4363]
 ├── 1508
-│   └── chlamydi.vom
+│   └── chlamydi.vom [fdca76e92d02166e86f1d723fe1d03e4dd133fa226a9bbeb02b239c3642d576f]
 ├── 1531
-│   └── myco.vom
+│   └── myco.vom [1cd778aae8d663f21cd075c001eb6f10053cac03c326295a7445abe364afad39]
 ├── 1534
-│   └── testill2.vom
+│   └── testill2.vom [3e9383b842b2733329025d1a42c178b03f627a3a71a41ebd81ca61307059b42e]
 ├── 1536
-│   └── virus.dos.lavi.1536
+│   └── virus.dos.lavi.1536 [52211a8dae4b6f73e8bc67573fa73e8334e1fb1f9d876a4d701b4d8662c2575e]
 ├── 1579
-│   └── unke0364.vom
+│   └── unke0364.vom [43eced45cd49f3bd1bb3a2b0e9fa279a9cebf3fe27fbe8c7095b359154718fa9]
 └── 1622
-    └── runs.vom
+    └── runs.vom [95821024e605d48a742be71eba44bd61e6c16efb1ec54a2c93492a5d4a00e24d]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── bat.silly.d.zip
+    └── bat.silly.d.zip [6abebe9022552c51692acada5efcfe6105d7897079b5814ff86b4a8759914e8b]
 ```

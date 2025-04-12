@@ -3,24 +3,24 @@
 
 ```
 ├── a
-│   ├── 1661.vom
-│   ├── cascad~2.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── t7.vom
+│   ├── 1661.vom [ed4c0b97a0abfa2348e7f7fb027aafd1ca541064433085c74abaf13a97fc581c]
+│   ├── cascad~2.vom [18d32b7d29cc3fc1f6c0f9f35f96b96d366a66d4734f8bd8926ca1c54e59a5ec]
+│   ├── t1.vom [3bc66168c61faa59e2d65fdfc19b0822bd84e164eba0e9a2fa3a5ea34466a43a]
+│   ├── t3.vom [256d5f37d49620644284cf9e349a9a37df7e745466986efb5a380664b19d6473]
+│   ├── t5.vom [294986e90fa9f09b5a98c2dbcb4e738719f4f232c61c53c167e761b964f05305]
+│   └── t7.vom [e4a76ac1cb59fa63db50fafae2a4d8ba56a3ea49dc803b5c04d2758b3b438360]
 ├── b
-│   ├── cas1661b.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   └── t7.vom
+│   ├── cas1661b.vom [4e5eedee4316a517ca663baa083ac34d927904553a5eb24502385c0dc9957478]
+│   ├── t1.vom [11f891175ac2698ec720339bc8143acb47b88bd0a51267fc3c323f60680d2fc2]
+│   ├── t3.vom [3a5c4564fab582cd79f11e2cf37cc715decb007a147eb1c82e244fc7ed37a1aa]
+│   ├── t5.vom [44aafd30017d6a7b33ea41f0d18218ac359260214ed64e44f50714a4e69c756e]
+│   └── t7.vom [7955d7a4eadf3ae7aa3bb11567788c15169ee4e218c63ab5935f0597e81b1f6a]
 ├── c
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── wci0019c.vom
+│   ├── t1.vom [8def1be85f866cc3ed15709d45733beaf83f1d7b32f4aff165c6a0b7fc578535]
+│   ├── t3.vom [f163ee94227092c2b1dec0f1e46b9bdae5174756d4a0e131fda0193e76688d73]
+│   ├── t5.vom [81b14218bf64953fac16ed292cc9a5ad4603f20e0831aedbf1bebb6921faf13b]
+│   ├── t7.vom [2ba133e405a0d8acea8f2243972b12f0ae05ee81879cd3137749a94d879d7287]
+│   └── wci0019c.vom [9177583c94663d519702dbec2373301b227047ea3ff4a7ec3bc32165f3b2a062]
 └── e
-    └── virus.dos.cascade.1661.b
+    └── virus.dos.cascade.1661.b [50cc5597767e006b284b158cb856e4aea0c5f4d1bf4ccb5043e6d6bc8d46b0a2]
 ```

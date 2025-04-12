@@ -2,8 +2,8 @@
 # Contents of `f`
 
 ```
-├── DPOG75.vxe
+├── DPOG75.vxe [c4c81f8c960d06a11e427b97965f7d9e73567d84a35a94e59d3fdfbc612f1c5c]
 └── src
-    ├── DPOG75.CFG
-    └── DPOG75.PAS
+    ├── DPOG75.CFG [fc153cad5c24340c781b212b635932b78203c214824cf16988a25f6cb6780dc3]
+    └── DPOG75.PAS [a6d3d94dedce16f6b308d5f4eeefeb082a78a186fe251eb9f1c148804be7f09b]
 ```

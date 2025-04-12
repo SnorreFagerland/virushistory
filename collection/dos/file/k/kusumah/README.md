@@ -3,22 +3,22 @@
 
 ```
 ├── 2588
-│   ├── kusu2588.vom
-│   └── kusu2588.vxe
+│   ├── kusu2588.vom [6e20589cb0523c848322c829753f24fe8c58b059732c5af81d65014ab96f3e09]
+│   └── kusu2588.vxe [5d53e084f9623b095872636d4b240e80695802345b4ae4fd36e5a804bba75183]
 ├── 3967
-│   └── virus.dos.kusumah.3967
+│   └── virus.dos.kusumah.3967 [ffc198e24043a4bb63bdee91ca61baa1eab9d4630fc198610299b73628714002]
 └── 3968
-    ├── 1-ku3968.vom
-    ├── 1-ku3968.vxe
-    ├── 2-ku3968.vom
-    ├── 2-ku3968.vxe
-    ├── 3-ku3968.vom
-    ├── 3-ku3968.vxe
-    ├── c-ku3968.vom
-    ├── ksmh3968.vom
-    ├── ksmh3968.vxe
-    ├── kus3968.vom
-    ├── t1.vom
-    ├── t1.vxe
-    └── t2.vxe
+    ├── 1-ku3968.vom [c263bdea144d4a15b57edf91e7d3d416e67dc9863b528a28fbe616cb38f9c646]
+    ├── 1-ku3968.vxe [398113d7aa521629902bee82ad6c99ed5b6a0fdd25684c49668942deadd5b4e0]
+    ├── 2-ku3968.vom [96f64e93aa084e040e995d7320a3214455fc6664bab951882f76b77c64731810]
+    ├── 2-ku3968.vxe [e7e49c80a4cfc80202124956703d661226392a5528425f2bf0823130dfc0f5aa]
+    ├── 3-ku3968.vom [f21fa7b4610c50166264bee6fff7bc1bcb9539f2ee5d380818713536df51e5ac]
+    ├── 3-ku3968.vxe [037a8698300556a023c5696383d415d7fe6486e22fc578dc59fb1cc8283a338f]
+    ├── c-ku3968.vom [a4b40c24ffd7341dd20350b8e6bd0496dee05016ddf9d243807211a02a80c94e]
+    ├── ksmh3968.vom [8c3f50251b7bb17dc147acee814d48a64de110acf7fab6db65f02c687140e6d3]
+    ├── ksmh3968.vxe [a0b89a7d0f3a17fad4d452b131f22c4362edd3df6610425d94de896448ca4ed4]
+    ├── kus3968.vom [e6108d799cbd011befe9e925336a0e417614923c2b06f76415567e2e54a730eb]
+    ├── t1.vom [8819df66c71386cc8ee6459b9a1a07776460b865f070b430328a9a15ed53cd04]
+    ├── t1.vxe [df7a39b548480d2c4c82c418dd8dadb6d870a6be382bc34a3140c5ecf0001191]
+    └── t2.vxe [78d19087b8d69ae8a60a93d725eed186ac2e36df7b247534038dc91eae8d081e]
 ```

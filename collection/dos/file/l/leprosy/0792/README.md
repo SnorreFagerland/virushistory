@@ -3,36 +3,36 @@
 
 ```
 ├── a
-│   ├── c-le792.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   ├── trace.vxe
-│   └── virus.dos.leprosy.jas.792
+│   ├── c-le792.vom [caf206f5003d0197ad80c9e3c0d2756f4294bf3ac675a4405b05046c0f7a50e8]
+│   ├── t1.vom [40d6f1d1ab923e50af50848d1cd47c918c965ace56c5e3fadf695f7f86813a5c]
+│   ├── t1.vxe [fa7d62595b305d50535b21012f0c6a8d835cd24205f9df49f7e84e95cc2ea596]
+│   ├── t2.vom [2960152a37d404ebb9e2b815c3d272a623ea1d92913e2b10d3824d0ad23e1df3]
+│   ├── t3.vom [55707473f4c7e0ca979b7adeec0367200243956300babde34f475311cfbe6b61]
+│   ├── t3.vxe [ac5e7bac0b12f417f911d8a9b11c378f3ce2eb3a38f39f253efac326ff199904]
+│   ├── t4.vom [0b6b9a812afec92e3a46d6683089dc31225abeba16a6a699ef36eb0a0f04a3f4]
+│   ├── t5.vom [7ab8f5d17351758cfee8eef6c506e49845b5fb028f2e9d436e18c9477f5ade84]
+│   ├── t5.vxe [22595bc89c7cf47ba4ad91f1af66468f5a01e2c2c4eeef19adf4bb7f1efae323]
+│   ├── t6.vom [6f2ea6021bb47b627957cff16168e679cbd5dee97971c16da8c3013522731e86]
+│   ├── trace.vxe [bc90d2adafc665966e77eff4ea28663a4fa9fa47e3ab6c10756eba49f2bda7ad]
+│   └── virus.dos.leprosy.jas.792 [b6f5c39cfc63dbdfbe02ea7e359b7074266664b2ab7cf8e4eb078f15c7bacccb]
 ├── b
-│   ├── lep792c.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vxe
-│   └── virus.dos.leprosy.acid.792
+│   ├── lep792c.vom [197d1892fb355631becf70cc05bec2a70232e60a204c769b2b4d1921affc78da]
+│   ├── t1.vom [bed8041fef5b66337bc257943c2b59f7b0a63906ab74f8b39baefa740634414f]
+│   ├── t1.vxe [a6fef150363a86a46e29ef62911169753f5c64a8c22e3ea9f1b2972b36e039cb]
+│   ├── t2.vom [24ef4d9d1576caba7f1bc0233ffff47bc8e31a194271b207a8240b3b4b976437]
+│   ├── t2.vxe [42cbcaf88a4fad91cdcf9d5334e0c6f09168b1c01f2a426c37be44de393960d4]
+│   ├── t3.vxe [09e1e41f2a0dc5e39d9a284db948aa93616a08563773eb35cff3a2dd8df91884]
+│   └── virus.dos.leprosy.acid.792 [929f37af3f9f9ac1db1ecc5c86efc6777f9917225e61973bacb81c926f305d97]
 └── c
-    ├── debug.vxe
-    ├── jas.vom
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t2.vom
-    ├── t3.vom
-    ├── t3.vxe
-    ├── t4.vom
-    ├── t5.vom
-    ├── t5.vxe
-    └── trace.vxe
+    ├── debug.vxe [8773402b72948370f37dd1ef9dc1303bf3ed37df1bc56c50f6f1419a0c591beb]
+    ├── jas.vom [b898e14ac2bc82e0c34fe9abfb98a72af6641ab14f49fd63c4731cfb4b7a2357]
+    ├── t1.vom [68a50d23ba7c19137bbf703c5c910fbb0f0ca6a9c5a2a4f7fae9335750756f97]
+    ├── t1.vxe [80f0e50f77184fb8499ec4c912ba605e33e99e5619541166d684983a3839c979]
+    ├── t2.vom [01224b3593ebf21297865bb663e7cbbe74268e7235578db515731c02e90e4e82]
+    ├── t3.vom [32c254bfa222f40a919491ee99fd8087442e1fe5f6cef6b39d540ec9966beadb]
+    ├── t3.vxe [07822dd6b94a806147c2537bf44a3f8424391ffadb7a2f42b0f7e6d3ef0f00c1]
+    ├── t4.vom [ad33cffbb60191b597ecf2a6f5311ae2ff34aeed0ac9b9332db506b41f75cc4f]
+    ├── t5.vom [1264a6e9803cd23a1d5a2c55e7d9e75c309c77abdeb7067ba9b44b1c7df297b7]
+    ├── t5.vxe [3ae462518fdfcec50492f894565a108b29cf6ed1196bd26f6ec31fdc8fe76f7f]
+    └── trace.vxe [29604e67c78dcc319e219e8f43543d067b2e04bd22343722d6bf8a559e66a13d]
 ```

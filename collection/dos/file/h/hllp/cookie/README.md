@@ -3,11 +3,11 @@
 
 ```
 ├── 7360
-│   ├── anim7360.vxe
-│   ├── hll7360a.vxe
-│   └── v2860.vom
+│   ├── anim7360.vxe [1c48291f1e660e9602d1ae6fac666bfbe80e63d44ebade332d3bb4b14629c1e6]
+│   ├── hll7360a.vxe [6783e03a55b78c4dac34a96371f5a02ba208cf80b1044170bbecba37941aa52a]
+│   └── v2860.vom [9b80a932f535d560e707ade341eb731f3458bd2c2e79669d8192488f4432a3f2]
 └── 7392
-    ├── anim7392.vxe
-    ├── hllcoo~2.vom
-    └── v2865.vom
+    ├── anim7392.vxe [bea5b3dae2e571592edab17557615138167716737e41c55329e931b51afd7420]
+    ├── hllcoo~2.vom [83d79696b49ea9573e46ffd67cb39d931b79fa7b4d07dbb3185d0c4552ce336f]
+    └── v2865.vom [cf011171f2dc04646686d7a4c7c5149fd7cd651053872239ca650e29d2b53a09]
 ```

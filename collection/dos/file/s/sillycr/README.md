@@ -3,192 +3,192 @@
 
 ```
 ├── 0058
-│   └── wci02004.vom
+│   └── wci02004.vom [bf778ce9857f593ddd06b85d2d97cb01a97b20e52aa1730470fddf49848bea26]
 ├── 0059
 │   ├── a
-│   │   ├── gen59.vom
-│   │   └── genius59.vom
+│   │   ├── gen59.vom [5ce4fa0e656c0ae2095f222c7360a9dbcffdaa118fe6074815b8a9b5f9cb24c2]
+│   │   └── genius59.vom [9a0125ce482e2980461646331567326f69606c0a8bc975f50d2368d2dec38108]
 │   └── b
-│       └── wci0258s.vom
+│       └── wci0258s.vom [04ce946e1a8e2eae2087fa18f140afe4c409a40fdbfeecc755daea6205b4ef2e]
 ├── 0066
-│   ├── small-66.vom
-│   ├── t2.vom
-│   └── t3.vom
+│   ├── small-66.vom [59bde7c8320371f55b607c7ed5880f9ee94b9a65854f8a9531d4573257de9971]
+│   ├── t2.vom [88a5891e221510d35feebf5c626812e62b29ce8188613ad3e32405bc762efe36]
+│   └── t3.vom [be20bd24bda7db5485910434a1457647608ff507b919bea287ad5883caf58c20]
 ├── 0076
-│   └── wci0260s.vom
+│   └── wci0260s.vom [9d9e9ee7b6ba7f26e1aab8e62e62ce8ba93ee929e9d176408c266dc71b3a81a3]
 ├── 0080
-│   └── sma--80b.vom
+│   └── sma--80b.vom [cc567e0eb863c9c327b0f4be8c84f95cc0e96e6f7f0a799edee95925d489db45]
 ├── 0086
-│   └── slcr086.vom
+│   └── slcr086.vom [41013aea5a2b75cdc195c465128838a2af90678fc03cf0387cd85c96e386a21b]
 ├── 0092
-│   └── slc092.vom
+│   └── slc092.vom [f66646a23c625903aca47b3c82482dada15673d4dd76789e3d23317f3705dfe8]
 ├── 0100
-│   └── smal-100.vom
+│   └── smal-100.vom [6ba23c4cbe185fa9ef0b97372182ceb207531286153d4e6115de09deaf728fbe]
 ├── 0122
-│   └── slcr122.vom
+│   └── slcr122.vom [73b8478134a0755fbc419d48a1b35bec9c87b81a224017a5d677a2c5d8c00395]
 ├── 0125
 │   ├── a
-│   │   └── ovt.vom
+│   │   └── ovt.vom [a371adab63109003757fa724b588211db99ceba1573b231b361f4365754450e5]
 │   └── b
-│       └── rc125.vom
+│       └── rc125.vom [0b2771c207d7560791000d0f6e2483059d9c6da15afed24e11d4959b60672558]
 ├── 0127
 │   └── b
-│       ├── Virus.DOS.Small.127.b
-│       ├── small127.vom
-│       └── wci0013#.vom
+│       ├── Virus.DOS.Small.127.b [0c232d1e21f2b6bb4f2e49dff3d1f676e0fa4b3905684715bad7240814830e2d]
+│       ├── small127.vom [ccf8be81e7417e82c713c55ff7992fd49615c1b9660c0ddf524068ab34c6c70e]
+│       └── wci0013#.vom [7786d89ef03a4c23fa7debe57e002ef3143fef6c32335f3f03d503a323c62f09]
 ├── 0130
-│   └── wci0237s.vom
+│   └── wci0237s.vom [6f750d86d9b1b18a129e943ee0bde0036d40e76b900d29b36bc2fc67f9cf198c]
 ├── 0131
-│   └── wci0238s.vom
+│   └── wci0238s.vom [8521c4fc26edf86b7428ea8b0c0cfdc0b312dc19f4d30c68d0e17beaf0890ed3]
 ├── 0132
-│   └── wci0239s.vom
+│   └── wci0239s.vom [598a3a94a02f944bdf011b08420aa340555758dc8b5a65df659702672bd09f05]
 ├── 0137
-│   ├── 1-sma137.vom
-│   ├── 2-sma137.vom
-│   ├── 3-sma137.vom
-│   └── 4-sma137.vom
+│   ├── 1-sma137.vom [55b7662abf3361dbc158485f4083ad38f2e104a5dd85f418ffbd67509fa8f19f]
+│   ├── 2-sma137.vom [48c94476c207d6a14688de5888eb9a3169187bff2f0109f153d3b725f4b298a2]
+│   ├── 3-sma137.vom [6409e408a2db0f05a582629be31f6ea21accf3abc04d55fa16bef9d07b22e097]
+│   └── 4-sma137.vom [ed60fce8e2f4a1635d111db3effeeb9fc2eb23148cc7a104fede0fa1ddd94a8d]
 ├── 0160
-│   └── small160.vom
+│   └── small160.vom [d5d58f0ee18e59890b86f1973ae56516e2cd64c6d2527bba343d3f5737e80a12]
 ├── 0173
-│   ├── file0001.vom
-│   ├── t1.vom
-│   └── t2.vom
+│   ├── file0001.vom [1fb039193e89c780df3601af91a296ffdc4d970d08da63ff206f29ebac6e8956]
+│   ├── t1.vom [34bbe2377891e8ab71854ad29f7b5aa8f44cf7518e1c053dc27fbcbf29844ac2]
+│   └── t2.vom [7e4e4bc1f2b25fc81e8ede1568383ec902ca9823f3ade9c769aa05d20c01ab7b]
 ├── 0185
-│   └── small185.vom
+│   └── small185.vom [d04621c6873fdf097c5f144f8103ea2ff3af809cc81533b2cee42b0ed03a73b7]
 ├── 0187
-│   └── small187.vom
+│   └── small187.vom [3804ac1eae1565d3f03ba6b15a9edf1d8baf1bc9f3c1acbc066426de3d402b61]
 ├── 0191
 │   └── a
-│       ├── sillycr_-001.vom
-│       └── sillycr_.vom
+│       ├── sillycr_-001.vom [8df19906cf68093fd85e7cea4ff7650dbad84ab1c6f9fbb76dcf6f61b695a018]
+│       └── sillycr_.vom [7eb8f05bc9bfb41ce3f8476147e9862ca88c9c8b39277ef2d82e0eea3694646e]
 ├── 0200
 │   ├── a
-│   │   ├── das-200.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   └── t6.vom
+│   │   ├── das-200.vom [ec61494a1419cdb47fcfe9fc552b13a3a4ff3cd7e6bc6af310efc26c011920e1]
+│   │   ├── t1.vom [5403980a835edeb526b79b45f009cbbe1f78db1cd1a9eedc464d04ad79ab0dc6]
+│   │   ├── t2.vom [2979ebfb74e02f9016c73b983213c1d0b923804bc4739db161ab2d44e68988bc]
+│   │   ├── t3.vom [5cdb59d7004c04d2ce9410f90a0e4aabd8fca1775d30511996a3d859570b8dc1]
+│   │   ├── t4.vom [2e2b93d507a3bf49ba8d980ee622e90096a04fd30e3ffa62dc1ae34e2f53630b]
+│   │   ├── t5.vom [ee2cfbf818717ef7ab892edd9a4a1a51819fdd99aaa86be3dd0496904274440e]
+│   │   └── t6.vom [f2f33673e4e033891a0207cca52f62b9894f51c605a40da03e36016f7bd81a28]
 │   └── b
-│       ├── sl200.vom
-│       ├── t7.vom
-│       └── tf.vom
+│       ├── sl200.vom [907ff0809a6b740c082f3789282d90f6eceb9f63eb608837ae3a5b2956c791d6]
+│       ├── t7.vom [3a58265c97ac020da9a5418c8feba2e3c0fc2245f7a91dad07d5deda35034ada]
+│       └── tf.vom [0c8430a6b19fcd5f960c0fe718f99c4f6e00067d56e7cb771e631d3d49d93350]
 ├── 0212
-│   └── small212.vom
+│   └── small212.vom [5e9fdcf42298e08cbf67fd9e293c58d79c791d215125d79ee327667d1d737024]
 ├── 0226
-│   └── sillycr_.vom
+│   └── sillycr_.vom [cb4f0b0d30cc8966eb5213c59412f42003fce3fd4248b653165039fd650b6b77]
 ├── 0236
 │   └── a
-│       └── unke0348.vom
+│       └── unke0348.vom [246fb050bed525a737926faa951cffc55d1d97fe96abc4e67632d643f1ff9831]
 ├── 0239
-│   └── wci0245s.vom
+│   └── wci0245s.vom [041587118a73ca2e97f64849061d4e27fd1accc9636fcaf4cff141b3d664950e]
 ├── 0240
-│   └── scr-240.vom
+│   └── scr-240.vom [09209eb575b915f5c18643e9c3e1382a118dd14189e1ab33c463f37ff3100ec5]
 ├── 0242
 │   └── b
-│       └── sillycr_.vom
+│       └── sillycr_.vom [59f41d3a090d6888c0c452e058039c8b02d8da030bccb02bc2d0a6b29f231980]
 ├── 0257
-│   ├── silrc257.vom
-│   ├── t2.vom
-│   ├── t3.vom
-│   └── tc.vom
+│   ├── silrc257.vom [0c227fee213d0538bd21eb9b56140342870419eb3b5093357da181bbbb28fbca]
+│   ├── t2.vom [d75091f8da0401fdfd53c78b07d16ab76e25ca52fe9f7aa2581aed9829c481c8]
+│   ├── t3.vom [1df49d6ae3839cf9c8e59d440f2d625e54715598903122930a3ce92d101d2a2b]
+│   └── tc.vom [be477edd252de900c1142df9b06ca659a7ebc6f143beb41e986a56aaeb961c57]
 ├── 0258
-│   └── v1.vom
+│   └── v1.vom [6abec1ff633febefff57882e214bdfc736b62340656a4e72e3cc269bffc3e131]
 ├── 0259
-│   ├── 1-sil259.vom
-│   ├── 2-sil259.vom
-│   ├── 3-sil259.vom
-│   └── 4-sil259.vom
+│   ├── 1-sil259.vom [3315ea604548c2db9216b3326a4410326a3a0cc2493a1ad0d763be2ee7c8df57]
+│   ├── 2-sil259.vom [0b47fd937ae3f6a4f903bb2ac64a9bc0f02d6efc87af4553ae48f0e7a3751a55]
+│   ├── 3-sil259.vom [2a5b454c404c062c8e5ff7556be906877455480f907f9b8c51147e74044e7e96]
+│   └── 4-sil259.vom [f11744f19a5717ffdaac409c9750341f4a062f3315ec82aa309a2814c849d677]
 ├── 0261
-│   └── v1.vom
+│   └── v1.vom [ffd89b7d95c5e47498069c4fdb6096010b1c4a8bf933f0dce90dfd6ffbd85592]
 ├── 0264
 │   ├── a
-│   │   └── wci0249s.vom
+│   │   └── wci0249s.vom [cd9a31ca26543444cfd040456936867f9bd63eba0a7b87b599a7b100dfb310bf]
 │   └── b
-│       ├── src-264b.vom
-│       ├── t1.vom
-│       └── t2.vom
+│       ├── src-264b.vom [5c82ad2ecc0e8051a3887c2e0f84ce83c8bbe2f49339eab9cfc7d7df7916f14f]
+│       ├── t1.vom [0f0bb46f405e26620422bc09395eecdf90d7d4b10e4a74789deb5ec36f71bb21]
+│       └── t2.vom [534fb86cc149c520437209adf8b0241d6d01dd0f205f8643314b46804d08f1d0]
 ├── 0277
-│   ├── rc-277.vom
-│   ├── silrc277.vom
-│   └── t7.vom
+│   ├── rc-277.vom [348c1d5781699c5687c3bde4900afe8c271885f61c662473be4012c7e90eb44d]
+│   ├── silrc277.vom [7b6acb2374d7612b1770fc78c28a208cf8b51fdbeb89630d2a4aa981ce3a8b1f]
+│   └── t7.vom [b27d7e1c457421dd0147332ade6a8e7cfc30dc4442567bd4d79f946c72ebd6a9]
 ├── 0281
-│   └── MVIR.vom
+│   └── MVIR.vom [cbbfc7d275452b897446df004a1db6c3b6934cb24059ee2a5b16ae924b720d6f]
 ├── 0291
-│   └── wci0250s.vom
+│   └── wci0250s.vom [0f399501d62e1cc071b20d63bde8e219e812c7802f77b31b2dde06fa123bf956]
 ├── 0303
 │   ├── a
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   ├── t7.vom
-│   │   └── wci05003.vom
+│   │   ├── t1.vom [d77b83f15030838d29e2e5cdeb0abb6c7e4a2c8fe0363a1e65c89146ab528321]
+│   │   ├── t2.vom [c6d26fc629ca14e2b01f26cabbbf9cb2bbb75bad0d50d127a8aee171d239fcf5]
+│   │   ├── t3.vom [6aff528eae6aac5ac3a4612f4c141f24ec73df6c5b4340921077e088222383ef]
+│   │   ├── t4.vom [bd8d7793c2f01a06fd712a21b68b8175bd8fc6ee1762af797492aa7f60204010]
+│   │   ├── t5.vom [857a673274e033b4c08b6a8001a121871c9ce563dca9c0d5f4cbc7b2f2251ff4]
+│   │   ├── t6.vom [7b7003d7fafcf049125a02c76060e61f17856f46d5b161e2a9d6607c93fcbc81]
+│   │   ├── t7.vom [938dfd9aab2e4da1509d2bf38668973a0296eb157c8194d6fe035d2cbe4a6a1a]
+│   │   └── wci05003.vom [6315b06cb1c400014ecdc8b06645c8ee5472162788d4a493bdc0b434bccdaf7b]
 │   └── b
-│       ├── silrc303.vom
-│       ├── t7.vom
-│       ├── tc.vom
-│       └── tf.vom
+│       ├── silrc303.vom [6ba609b538491cbecf22ada791e136193fc2dc55d93c25581a315338ee2d208b]
+│       ├── t7.vom [4ec6ab9abe9453fd5a9a49b22180a15c3417d7b26851fb397593858469726286]
+│       ├── tc.vom [bd426be64ee581dc5340a09fea2a3721d3bb6f84956bef9d6ab94a4c6e221e64]
+│       └── tf.vom [43e2f3b304aee722ca729a6a81c6392dcac2968e73d1fdbe4223ac3db2bdfea4]
 ├── 0315
 │   ├── a
-│   │   ├── src-315.vom
-│   │   ├── t7.vom
-│   │   └── tf.vom
+│   │   ├── src-315.vom [f382e140316c9833433f910a369b766defe99a7d487b1bd9b78db558de7ec551]
+│   │   ├── t7.vom [385667dd7c383f9be1318cf77428fd86727085d16b02c4231f810f7674aa6a82]
+│   │   └── tf.vom [ad71b645038fe158a18fd2f39dcc0beb2815324c20488383a441a8196a4c8f65]
 │   └── b
-│       ├── t1.vom
-│       ├── t3.vom
-│       └── virus.dos.sillyc.315.b
+│       ├── t1.vom [1062a1e414471eb47ab85230e12603fd6afae3a94b40e52d589756e7328adda3]
+│       ├── t3.vom [9dc031efc99b10cd22c97ba8c756a26e18268e0a446c58ce414664e5180460b8]
+│       └── virus.dos.sillyc.315.b [f8cd998d0319026b6213bf48802425f9106f3ea82b61e0ef07c1584d949e826f]
 ├── 0316
-│   ├── src-316.vom
-│   ├── t7.vom
-│   └── tf.vom
+│   ├── src-316.vom [9c1c93e3f2c814ca8520b388007ab1292631d28396fbb81a3b25d9fc5d3544ef]
+│   ├── t7.vom [802077caaa07b330618c03b90b0b0e62c81d76da3866b6e67b81769c7b0f6dd2]
+│   └── tf.vom [1f309ec0b517a76477772d05cd3e0eb473820eba46a9c3980d97c532a060209e]
 ├── 0319
-│   ├── silrc319.vom
-│   └── t7.vom
+│   ├── silrc319.vom [f4f9ca57a5a865c383a92ab9550f4ac8c8382ee36a1ef66fb2f977404ae7bc91]
+│   └── t7.vom [6fdb60459803c3c25ba25c8cbb4ce3103931e250c77430557638ac6a6deb01ec]
 ├── 0330
-│   └── wci0252s.vom
+│   └── wci0252s.vom [b1a0fce99e8a19ab1bee6f3b7dde4a81c46053929422ef1cbf34da617018de47]
 ├── 0341
-│   └── resvir1.vom
+│   └── resvir1.vom [65de7449536fb691395474975d552f6675fd92939d89ffb572d989a902a1e63d]
 ├── 0354
-│   ├── mega.vom
-│   └── ret.vom
+│   ├── mega.vom [fb6a357ca4611f866250a84d0fb98c8fb852d652af754f7e95524d8c49888501]
+│   └── ret.vom [b7a7a1fa9ba94546b54453ad6b4e2703fcb875512da0f928b1f0235bd1fac15b]
 ├── 0357
-│   └── wci0254s.vom
+│   └── wci0254s.vom [e49a293fe3315d3e8ba9149c94b5976f61ba216ea4af826084daa75f9e7c7408]
 ├── 0387
-│   ├── src-387.vom
-│   ├── t7.vom
-│   └── tf.vom
+│   ├── src-387.vom [cc905abfaad575903ba61ed55140a05a1240b1e40618a5dd519cfdd55ac375f7]
+│   ├── t7.vom [22a3e76b5eaed64763aae7c724bf36c62f286d7fcb427e422c634929ab2fed9d]
+│   └── tf.vom [f463b5fefe45f6b86c85ea7af403e345e350d61228253ffcd4542a56ea6857cc]
 ├── 0394
 │   └── b
-│       ├── qres394b.vom
-│       ├── t1.vom
-│       └── t2.vom
+│       ├── qres394b.vom [42e3b18c3a3017a2d0976c711074864e29ad29f1103bd52236d67d90e99320b7]
+│       ├── t1.vom [a2052f347da22061a6e71c5c56189584e6548be3534b872d8ca0d624832203ed]
+│       └── t2.vom [97f9b3e9db05c92593cbd3df392550c009d9f442168f908742649dcdfa4beaeb]
 ├── 0397
-│   └── silly397.vom
+│   └── silly397.vom [4a852acec63c5597f35d05bffc3be14746f8d8ac3be7f7e761408ac8d628db8a]
 ├── 0402
-│   ├── t1.vom
-│   ├── t2.vom
-│   ├── unco402.vom
-│   └── unk.vom
+│   ├── t1.vom [d587f32e9d120e9486148dd2c9188d14e10dc51289a6f61df767f84aa958fa98]
+│   ├── t2.vom [c04a4ee48f38af9d3464345fa9292dd12e2cc93ff04e75e1f929444f8c3fa7e2]
+│   ├── unco402.vom [ba25d77cb94552c425b2d09903232bc98cca1dd4e7e514408c03f3e2a387a581]
+│   └── unk.vom [9b689c416d597beded1883f1b2337b24baa11a93a0381f179c1514e5222f1d40]
 ├── 0403
-│   └── unk.vom
+│   └── unk.vom [523e6cb3576bfa005af31127b11011405a61acace407b56406d30059f7039569]
 ├── 0409
-│   └── small409.vom
+│   └── small409.vom [f8a7cc80a026e808587cc2469b4e91e086f3e962dbb3bea4da8bebeab99b8069]
 ├── 0438
-│   ├── silrc438.vom
-│   ├── t1.vom
-│   └── t2.vom
+│   ├── silrc438.vom [cd8f8a7d8fb93d21da3735841061f75888ad7b8b0018f2f0014c9938eaa3fe3f]
+│   ├── t1.vom [1b0359c0ab7c8f6c3eb8ba2ba866e6393bcbcc9726af271d6f15192bc87289cc]
+│   └── t2.vom [1401c5a0998782b91554cc5a52ee1544e9a1fd6bc4db8d5e1596efc1a4c720a2]
 ├── 0485
-│   └── sillycr_.vxe
+│   └── sillycr_.vxe [dd0f12d2843f73b4503f21075c0670a8b38a7651cd2085d01ee71b1e78fcb4a1]
 ├── 0563
-│   └── wci0257s.vom
+│   └── wci0257s.vom [aa4a956f9dcced7e0f1679cbbef0f02333af93521381ef117d6276d6c560f436]
 ├── 0641
-│   ├── martr641.vom
-│   └── t7.vom
+│   ├── martr641.vom [94d1cde4f8dfc1637a402518e3741eb980f481db97b432245c94125cc0e8d5cd]
+│   └── t7.vom [a28623785a5bc3b643e06694c6d934c0fb7e872c4c033db080de377c73640a4a]
 └── 3152
-    ├── 80.vom
-    └── sill3152.vom
+    ├── 80.vom [13628fec8844c3a10b47726eedc074c164ffbf8e67f070cc08921fb3675087dd]
+    └── sill3152.vom [b14479cfb24483f8a0dd020ac7d62dbe0a45bed597d6dfc42ea0312ff0d931fe]
 ```

@@ -3,14 +3,14 @@
 
 ```
 └── 3378
-    ├── debug.vxe
-    ├── doskey.vom
-    ├── o6w.vom
-    ├── t1.vom
-    ├── t1.vxe
-    ├── t2.vom
-    ├── t2.vxe
-    ├── t3.vom
-    ├── t3.vxe
-    └── trace.vxe
+    ├── debug.vxe [3e669feecccb5f5f52defae20e4c41bf3c125262abb86fe47b9eaaaf08d5d417]
+    ├── doskey.vom [8e25dcce16892e4be0f91706709960710a39abc4595661a8a34e4ae12ff4a74e]
+    ├── o6w.vom [c1c54b9d95b1c522e5430e694de44ed3831aa298b6e510abc4edfd6a74ba8d8c]
+    ├── t1.vom [d906a1857db364f2dcc8685c320a7843cd8d888af5aa0b951548e3250b09f8e4]
+    ├── t1.vxe [635334dd069cb688fa9fd35890ee57ce9e4c8917d50f0b75d1bc395506771534]
+    ├── t2.vom [8c248fe9e21bd1e8784e67095b004b4bdef967ad8d12830d557f034ab82694fe]
+    ├── t2.vxe [7e45fd29a2716c06bbc2befba09db81c49589bf3f304ee614e336016dfa60f0a]
+    ├── t3.vom [44339ac7969148604574071092ec1fbd754af3c25c844fb88df9632136e34a74]
+    ├── t3.vxe [50bb7ebd87165e88d0c6e776acf43512b302d069576563e880c3cf731245fefc]
+    └── trace.vxe [8be0f05de59feb16678ea26a004c6b7de160e9132c4d471b3eb60ba92fac3129]
 ```

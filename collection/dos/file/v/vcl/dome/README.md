@@ -4,17 +4,17 @@
 ```
 ├── 0546
 │   ├── a
-│   │   ├── do.vom
-│   │   ├── dome.vom
-│   │   └── mss.vxe
+│   │   ├── do.vom [55163a0d8a9ac0947de154a17671862e97d512d27fb9b10edfc1a558b8299652]
+│   │   ├── dome.vom [8906972b518604ce4ebb76b2a0375ce26dd741765f88b6593930f423bca883cc]
+│   │   └── mss.vxe [b8676ded08213f5532d13998f6598d61b0d9844d44549a7252563229e8395d48]
 │   └── b
-│       └── virus.dos.vcl.dom.546
+│       └── virus.dos.vcl.dom.546 [1c7396aba42d2d085971799e177dac2039b6ac2f65f5a862bdc5a806233d85f2]
 ├── 0554
-│   ├── do2.vom
-│   └── dome2.vom
+│   ├── do2.vom [d41b82a7a906449c67248dc6b630ec5bb4f96213ac164c791e47e1dca66d34ce]
+│   └── dome2.vom [f5a05c91c95d12391a02e00681e8f324d12ab9a2402e7a9e8ac289fedc293138]
 ├── 1083
-│   ├── wci03634.vom
-│   └── wci03634.vxe
+│   ├── wci03634.vom [47b7afe728ed4c0f317afaba54709968bc11bd151a82c15c9893c8b9758977c6]
+│   └── wci03634.vxe [5243636edd37ba8a9edbe9f7d2a33a57b74cf50849f285a4d601d71dad2ec18b]
 └── 1086
-    └── 03e40d8b.vom
+    └── 03e40d8b.vom [387fbdb02dd3e9dc6ba0d6b82c4d31bef4554f1fda5347a4070832d527a8c6ef]
 ```
