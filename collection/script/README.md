@@ -12,7 +12,7 @@
 │       └── rapid
 ├── alisp
 │   ├── autoinf
-│   │   └── acad.fas.zip
+│   │   └── acad.fas.zip [204cd2de38f0a5b43dfa8be426c64076d1f8933f3186c624e87fb29b40b7687d]
 │   ├── bursted
 │   │   ├── a
 │   │   ├── ad
@@ -59,7 +59,7 @@
 │   │   └── c
 │   ├── kenilfe
 │   │   ├── a
-│   │   ├── acaddoc.lsp.zip
+│   │   ├── acaddoc.lsp.zip [70f1460939c08890eb6ea247aff2e174d20fa40da8d0f20d7b1c01c81c9d267c]
 │   │   ├── b
 │   │   ├── c
 │   │   ├── d
@@ -93,10 +93,10 @@
 │       └── a
 ├── ansi
 │   └── ansivir
-│       └── ansi881.ans
+│       └── ansi881.ans [d7eee29a6b0c8dd1acfeb23d89342e4e8703a13cc806c0f8cfdb17d01cb85b98]
 ├── asx
 │   └── conp
-│       └── virus.script.asx.conp
+│       └── virus.script.asx.conp [90125b9e2324090488ee14bd880f3a8a891f92122a28f77cdc841af87bb1ed03]
 ├── bat
 │   ├── trojan
 │   │   ├── aantiv
@@ -569,8 +569,8 @@
 │       └── cst
 ├── ferite
 │   └── kruel
-│       ├── kruel-0.fe
-│       └── kruel-1.fe
+│       ├── kruel-0.fe [61892c514d4928b84aaaa3bc5b15e1baa3f3947c7c57302df6956655e5418976]
+│       └── kruel-1.fe [13a64904456bda3899b8e3a39dd8c3932d407f447d0a2ba3276543891430faf5]
 ├── irc
 │   ├── trojan
 │   │   ├── acnuz
@@ -668,8 +668,8 @@
 │   │   ├── a
 │   │   └── b
 │   └── zox
-│       ├── zox-001.in
-│       └── zox.in
+│       ├── zox-001.in [aaaf4ebc597b2c907fa42e9e7fc5d281cfb1c8e508feecf25083ed03ca315f69]
+│       └── zox.in [a4d0f2d57ec40f5c0b790b7200f538ee619b536151d9c6280cb5ced6ce1a9100]
 ├── kix
 │   └── ixlam
 │       └── a

@@ -7,5 +7,5 @@
 ├── b
 │   └── 67afa7bb0ab576cefe69bb1c25f0bc753791fc8b3bdc71c3d2cba42709df26c4
 └── d
-    └── CARIBE.vis
+    └── CARIBE.vis [0f7b1309b188a647586ba8f85546cba0ff9a3703b6bd9dc030f3c69400d2a8eb]
 ```

@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED-README -->
-# Contents of `Virus History Project`
+# Contents of `collection`
 
 ```
 ├── amiga
@@ -264,7 +264,7 @@
 │       └── zonderkommando
 ├── apple_ii
 │   └── elk_cloner
-│       ├── elkcloner.dsk
+│       ├── elkcloner.dsk [7f9ca751555bece92a47a21b17295bf6dcc70cfb3489bd46bf35f83613ef659e]
 │       └── src
 ├── atari
 │   ├── boot
@@ -1509,17 +1509,17 @@
 │       └── a
 ├── macos_classic
 │   ├── aids
-│   │   └── AIDS.cpt.hqx
+│   │   └── AIDS.cpt.hqx [74ce945bb7ebf98f9cb51f7027c6a9f5d8b7a7d7a7c4902876fd73b8a39db51a]
 │   ├── anti
-│   │   ├── ANTI_A_Variant.cpt.hqx
+│   │   ├── ANTI_A_Variant.cpt.hqx [86814ef47432e99835b4f871701141bedd4f26fd0081a3d0a410f659fec2509b]
 │   │   ├── a
 │   │   └── b
 │   ├── aolsearch
-│   │   └── AOLSearch.cpt.hqx
+│   │   └── AOLSearch.cpt.hqx [01e230aadab257909b83f0440a71beb08cf9cfa6cb2f49abcd2ed25ca793f04a]
 │   ├── appleproduct
-│   │   └── AppleProduct.cpt.hqx
+│   │   └── AppleProduct.cpt.hqx [449abfadfdcb3d0409c2c20e15803594397c7b681f93223e9c968ab9183b0ca7]
 │   ├── bangspice
-│   │   └── BangladashSpice.cpt.hqx
+│   │   └── BangladashSpice.cpt.hqx [fdb3b67afdd0d016cb437659d3ef7791768aeecf6704fa1715becef0244809a3]
 │   ├── cdef
 │   │   └── a
 │   ├── chinatalk
@@ -1557,19 +1557,19 @@
 │   ├── mdev
 │   │   └── b
 │   ├── mev
-│   │   ├── MEV#.cpt
-│   │   └── MEV.cpt.hqx
+│   │   ├── MEV#.cpt [be263175c78d6aa72e0504a22010c05acb0644b4bd6512b07f9cc4da399da96d]
+│   │   └── MEV.cpt.hqx [6d5d5f1ae1b7d3fe06b2a673d2f160bc620dd09c704598272b235cd0fd35d162]
 │   ├── nflu
-│   │   └── nFLU.cpt.hqx
+│   │   └── nFLU.cpt.hqx [f115bde7efeafbcd2b010cdfba2059d67cc56e78420bf4ae94e9221814a0201e]
 │   ├── nvir
 │   │   ├── a
 │   │   └── b
 │   ├── nvir_aids
 │   │   └── a
 │   ├── nvir_hpat
-│   │   ├── hpat.bin
-│   │   ├── hpat2.bin
-│   │   └── nvirhpat.bin
+│   │   ├── hpat.bin [bbe112f4bf9f58bfb5ef014fbe83214c6d4608311d7f20c410ed3c3ada427809]
+│   │   ├── hpat2.bin [920178e8dbf7c98ab7baaa0f6f991b756556741cfda6a3642adb486f9e2726cc]
+│   │   └── nvirhpat.bin [a77049a63a690ceec922ab8af4bb31cb5cee394699432a934e29d49334cf8568]
 │   ├── scores
 │   │   └── a
 │   ├── sevendust
@@ -3000,7 +3000,6 @@
 │       ├── uedasan
 │       ├── weit
 │       └── yohimbe
-├── makedescreadmes.py
 ├── mvs_370
 │   └── vp370
 │       └── src
@@ -3072,7 +3071,7 @@
 │       └── method
 ├── solaris
 │   └── sadmind
-│       └── worm_sad.vom
+│       └── worm_sad.vom [03826bae8b961eb10a400380b0e5fd687406c0132d8528cf517bdc1f87dc84c4]
 ├── symbian
 │   ├── riskware
 │   │   ├── hidemenu
@@ -3124,8 +3123,8 @@
 │       └── stealwar
 ├── univac
 │   └── animal
-│       ├── animal
-│       └── pervade
+│       ├── animal [975d629856f3e07ebe09e097b1e549a0f428a54a5ea371e635db4fb806f8e3bd]
+│       └── pervade [2b497042c08a7756e0fcda1d433fc10a840c4cf7852503e010944c6e0dc79c4a]
 ├── unix
 │   ├── bliss
 │   │   ├── a
@@ -3134,10 +3133,10 @@
 │       └── src
 ├── vm_cms
 │   └── christmas
-│       └── christmas.rexx
+│       └── christmas.rexx [2b50734ca72fa5968f9afe95fc3bef00df1bf30575439fb5e955f7973eff1231]
 ├── vms
 │   └── father_christmas
-│       └── hi.vom
+│       └── hi.vom [56bcb7dd638b7bf7a39ad3fb8789e6b554756781422aae79c9cd9c01e3332231]
 ├── win16
 │   ├── file
 │   │   ├── aep

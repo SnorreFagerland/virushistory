@@ -5,29 +5,29 @@
 ├── 1127
 │   ├── 369f1df143e667a2c01d5531fc835455ecf368c50cfe8ef8fe6e0ac2b2e120fa
 │   ├── 68e5cfbacdbec25e99d834789cdd9ae6628d76d5f0f509f46a006b418796bce6
-│   └── Virus.Win16.AEP.1127
+│   └── Virus.Win16.AEP.1127 [64722e7d6a62f684ff24db2c80a58b1b214c2e52db734b11c74f2b2f03d5e435]
 ├── 1129
-│   ├── Virus.Win16.AEP.1129
-│   ├── dialer.vxe
-│   ├── keyview.vxe
-│   ├── t1.vxe
-│   ├── waep1129.vxe
-│   └── winvir.vom
+│   ├── Virus.Win16.AEP.1129 [dd8176ddf7cfda0bc9ec401619030d42503db3c46c11a3b608fcf88f08e129b3]
+│   ├── dialer.vxe [d78fa3560777bce15bf028cc69295450f3971f71bd3320f3a439e6c712be87a7]
+│   ├── keyview.vxe [39814331a43f9b491f134245a29387c748955c845ed83825cac1b87d59b04412]
+│   ├── t1.vxe [065a1740950322d241e0c36085dbd4eb60f50710ae9151a4dc81cab58363831b]
+│   ├── waep1129.vxe [0af7c7686bd2c31c7cba868c18597f564d016f5597421759e39e311e2505e9a9]
+│   └── winvir.vom [a67d30e0c106b9eefa89fc14021fd7176d80c438863a2d7ccd4bfc5a579ede93]
 ├── 1130
 │   ├── a
-│   │   ├── winvik-a.vxe
-│   │   ├── winvika.vxe
-│   │   └── winvir.vom
+│   │   ├── winvik-a.vxe [77137bf580a54b60978f8ee9280b38bfd388449e24cf81b6ff49024fce9fd50b]
+│   │   ├── winvika.vxe [eb3dbc8e9730fac2265cac420b58822764e84537aa9c7fe1cf31229681ec71c7]
+│   │   └── winvir.vom [8d57687c27e72774bfe88ab77e1e62465fdceb7e334b6dc1e910b40998ebaa93]
 │   ├── b
-│   │   ├── Virus.Win16.AEP.1130
-│   │   └── setup.vxe
-│   └── keyview.vxe
+│   │   ├── Virus.Win16.AEP.1130 [ee8d8b99e959d725f2183934143fb3d680352d548f440f6d25f3b56a1db5ab8f]
+│   │   └── setup.vxe [fc1bac4d6f048c18548dc5b116b33b76fd3f34ef743b0706c5c0a10dcb365f91]
+│   └── keyview.vxe [2d3834ede3fbf26793b923dd8080e9cc868ce980b70147b01bde96dd3d4f505c]
 ├── 1550
-│   ├── keyview.vxe
-│   └── wci0121w.vxe
+│   ├── keyview.vxe [2c19ddce36fc84340e2d8ff63fe489633d6634bb73e5623dcb25c3f9983cc786]
+│   └── wci0121w.vxe [691eabac417ebae1db0b65793129823f4625e292e01bdcc8198906705ea8205d]
 ├── 1563
-│   ├── aep-b.vxe
-│   └── winvikb.vxe
+│   ├── aep-b.vxe [86290947e5b955ffba34e48b133e5718a23d4914a03e01a053aab57502f71748]
+│   └── winvikb.vxe [953f7faea4862f2bf55caa16ed26011a88f78dcd7f4c38de074b244d28657e94]
 └── 1772
     ├── 78fdefffdec5f0383bcc690a9791313e59fab52572f513be0f4da8269912fcf8
     ├── ae1df8b43d004604fd56cbf6689af1b740341ddebbe12947875632f3457bb717

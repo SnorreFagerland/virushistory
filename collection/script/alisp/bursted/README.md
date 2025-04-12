@@ -3,66 +3,66 @@
 
 ```
 ├── a
-│   └── Virus.Acad.Bursted.a.zip
+│   └── Virus.Acad.Bursted.a.zip [6a4524c7525d7ca4b3fa87ec87775a60341f9f9680c30e8a89ab648a49cc3a9c]
 ├── ad
-│   ├── d346beaba20e743c47f25c3a0256e0460c768b50b99fab9ee3557f2687899280.zip
-│   └── d4abd1077ed2397febacbf541e9dc928a4916958650cd9577cbdca1c55ba33c3.zip
+│   ├── d346beaba20e743c47f25c3a0256e0460c768b50b99fab9ee3557f2687899280.zip [1727874154e5bc28492ebf45a4343e2d59b43291f2225b03c6f5249f415e206d]
+│   └── d4abd1077ed2397febacbf541e9dc928a4916958650cd9577cbdca1c55ba33c3.zip [505e7dc9303112c4e40d55fa2a35b13cdc2ec884e65c71f7805e0c28e825f995]
 ├── aj
-│   └── fdcc9771b784ba7f1a43d581f6558abeda83e8cd42af89bb280fa42c261a13c2.zip
+│   └── fdcc9771b784ba7f1a43d581f6558abeda83e8cd42af89bb280fa42c261a13c2.zip [7d82d8378834e9771170acb1ebc7aefb41fe28369deec7a0b2976a68dbd79abe]
 ├── ak
-│   ├── d747ad2438536a5c338a2f2225fa6790426652b1f9ca25de6acebb292f28c447.zip
-│   ├── e2424a4a657178a75867b663a3e5b194c05a188886d17e318ea092a8731dcf49.zip
-│   └── fcd87e439ca2b4f16a749e8d8b8632bb478e86bbcb00049ebede881631a8d149.zip
+│   ├── d747ad2438536a5c338a2f2225fa6790426652b1f9ca25de6acebb292f28c447.zip [87733d7578bb9ba0532ec0dd05bd798a4759bda9f3bf6d22afe57f0e4eb004de]
+│   ├── e2424a4a657178a75867b663a3e5b194c05a188886d17e318ea092a8731dcf49.zip [985c5a73e86dd20ec13918043f4a38214bac80d4884c0848a3befee818bc5ad1]
+│   └── fcd87e439ca2b4f16a749e8d8b8632bb478e86bbcb00049ebede881631a8d149.zip [bd07a1438a7bcc6011f188ce19b3b8703ba90cd7770a3bb9d168062b3beb5a5b]
 ├── an
-│   └── ebc6cd7f73aea929258116b50ae36d0d4e99d1105b1aa1dd469ba97dda6731ea.zip
+│   └── ebc6cd7f73aea929258116b50ae36d0d4e99d1105b1aa1dd469ba97dda6731ea.zip [78a31c3a12e43a14782902258e21bcb2faad1d7ca65f48310fe27fc327a261ac]
 ├── aq
-│   └── d0f1c24d6a353268b68603f5eb7337389e52c548d423593d6d03e1f2572bf64a.zip
+│   └── d0f1c24d6a353268b68603f5eb7337389e52c548d423593d6d03e1f2572bf64a.zip [d28352ed9f36ed51f6c0c9450f758fe171a0b2c0b467efa16a100f72a4dfd588]
 ├── as
-│   └── acaddoc.lsp.zip
+│   └── acaddoc.lsp.zip [a09919ecaadf707d418ff01e5a9fb0e06ca334105ea55b0c4556009d96808e63]
 ├── bd
-│   └── dbb956aa157a3896b02eff3a931d56715954ebb62691ce624b4ea12c204389bd.zip
+│   └── dbb956aa157a3896b02eff3a931d56715954ebb62691ce624b4ea12c204389bd.zip [7291a800c6b8d5e4f5f0c5631495021951c89a3b6f6e3d114d6ffc3b0def0b36]
 ├── be
-│   └── acaddoc.lsp.zip
+│   └── acaddoc.lsp.zip [5d3608fdb83d074f614b9067e0a271822fb5fb32a0ffaa3903318c76389c234b]
 ├── bf
-│   └── acaddoc.lsp.zip
+│   └── acaddoc.lsp.zip [fdf9f922461fff3b7720d23fde4c8d360b2f305e654643e6437b58c055c9cc9f]
 ├── bl
-│   ├── 9fb996cf0c9199c25444e1fb4af4650897efcb716b4d59a183674cb43ef89363.zip
-│   └── ff99b288a7ad23b66609da9a0da04e8cdcc8be67c183fe4396e3a88a9e1c4aa0.zip
+│   ├── 9fb996cf0c9199c25444e1fb4af4650897efcb716b4d59a183674cb43ef89363.zip [c5385d999a922673937597545a2d2459c9af3b00d58d7827d0293afdc4e4ae95]
+│   └── ff99b288a7ad23b66609da9a0da04e8cdcc8be67c183fe4396e3a88a9e1c4aa0.zip [0e0250fb955115cc4b7fc51f289888744d6b921d6441dc78481ae64da79978e0]
 ├── bu
-│   └── f5ce45061a6ce51f3e7bfb85b12400b6424fc7f5b6c5d04204d3b05e0ce0f2b5.zip
+│   └── f5ce45061a6ce51f3e7bfb85b12400b6424fc7f5b6c5d04204d3b05e0ce0f2b5.zip [f43456265a49c07984de0b8ffe5e05d001e42f34b53642ca3d46fb0b1a9fc9ff]
 ├── c
-│   └── Virus.Acad.Bursted.c.zip
+│   └── Virus.Acad.Bursted.c.zip [c0e4e39115314d24c37ab843061426c321085fb8946ddb2d1deae66b216006c3]
 ├── cc
-│   └── fac0e946fd5009972406f703d261a3c89e138cc9f4661e969f3b96294b7da1aa.zip
+│   └── fac0e946fd5009972406f703d261a3c89e138cc9f4661e969f3b96294b7da1aa.zip [3828a2152c3cb626b925fff993b1cc88ea23bcf41131872fe6878e8bb58e72bc]
 ├── ci
-│   └── e792a90495a1ed8233aa4c6211a47db8e8100178d19df2c8955beefb75c205ac.zip
+│   └── e792a90495a1ed8233aa4c6211a47db8e8100178d19df2c8955beefb75c205ac.zip [c80ae9e6d75fb2795566d4d1a0eaa6da0816712ccf27b4890c40edafdf454198]
 ├── cl
-│   ├── dfaffb56ad9de6f762b0bcc642acc2365575a0f28cc8cfa89a18825d77dc8bec.zip
-│   └── e7b2faf005b86b2e9e3424d1d7b8664c04068664ee31abde1a1e178720ac9716.zip
+│   ├── dfaffb56ad9de6f762b0bcc642acc2365575a0f28cc8cfa89a18825d77dc8bec.zip [0583a60b9bc1df9d7ff1810031861052fd8ac013e8470757575088d3ff58aa55]
+│   └── e7b2faf005b86b2e9e3424d1d7b8664c04068664ee31abde1a1e178720ac9716.zip [cfcdd3d953ebcd5e97df2f089786e50e8d2d1ac373ae0778210a1107e85e4fab]
 ├── cm
-│   ├── ea548adda7a26bc3eea12a50b6a01e679e4bed2770c00c58790bb1a940f51b25.zip
-│   └── fb1f4fa8ab95f0061831b4882ce1c33255d6ea258ac3c4af66053ac491c8aafb.zip
+│   ├── ea548adda7a26bc3eea12a50b6a01e679e4bed2770c00c58790bb1a940f51b25.zip [beefb00454a921a1b97b8ef93568528e50edc1d5ca92b9df736bb4d3578d12b7]
+│   └── fb1f4fa8ab95f0061831b4882ce1c33255d6ea258ac3c4af66053ac491c8aafb.zip [a807ac2f353a0d3b359ad11d26d27e70ddf1ea61526623f79e9a4e08c590549e]
 ├── d
-│   └── Virus.Acad.Bursted.d.zip
+│   └── Virus.Acad.Bursted.d.zip [b7ed315667e1b894e03cf2060714b47f5e490238aa616725aede49da995ba6e8]
 ├── e
-│   └── Virus.Acad.Bursted.e.zip
+│   └── Virus.Acad.Bursted.e.zip [3316f0f4fd7c8a47932f789af541861c454812601bcfbe0a1c4e2f4f144f81d9]
 ├── f
-│   └── Virus.Acad.Bursted.f.zip
+│   └── Virus.Acad.Bursted.f.zip [b4acc4ae7f665e9c8b27157207d87232b719a83acb3afb8f5f3eafd06fa631f1]
 ├── g
-│   └── Virus.Acad.Bursted.g.zip
+│   └── Virus.Acad.Bursted.g.zip [adfa908e76d39608d881f2c03d5603684fd7e94f47c91f7ef95981347d86ba8b]
 ├── i
-│   └── Virus.Acad.Bursted.i.zip
+│   └── Virus.Acad.Bursted.i.zip [e4b968effb68b5fd8f84c8ff0642da9c342dc7a829ff9e1cbbdfed49cccdeec1]
 ├── k
-│   └── Virus.Acad.Bursted.k.zip
+│   └── Virus.Acad.Bursted.k.zip [02512ad0dfb71bc5ec670edfe366f8f58166a18276935783c7e8da3e97df2999]
 ├── m
-│   └── Virus.Acad.Bursted.m.zip
+│   └── Virus.Acad.Bursted.m.zip [7183c27124e00fe1c57d72addfb08b746a5a2cdb2d5ebc7b1c4b3e8b65c7d880]
 ├── n
-│   └── Virus.Acad.Bursted.n.zip
+│   └── Virus.Acad.Bursted.n.zip [bcce0e2af521f42c36b7e4a649bf29a744b93f926b6ef4a9c6d5fdc4c7ff877b]
 ├── q
-│   └── d0dabb894798575f3a0f7753b584a8b4b09007e9303d81839211081155e822cf.zip
+│   └── d0dabb894798575f3a0f7753b584a8b4b09007e9303d81839211081155e822cf.zip [0d7d382e4c2e6ca0d887058e6867bc5d199a90b7e4d29cc575c930d6b13007aa]
 ├── r
-│   └── Trojan.Acad.Bursted.c.zip
+│   └── Trojan.Acad.Bursted.c.zip [b3582f8df58af568491c1c78709667f8790b85a20807e8244da22d314b72e2c7]
 └── u
-    ├── bursted-u.dwg.zip
-    └── d2bbeb989bf2924a5ccfdca08f15b2f5b7909b0deff884e52d2bee7f3b7ecac5.zip
+    ├── bursted-u.dwg.zip [2855bcdabd9938d36345cf09d00feac0f328b788fc60fcf9e542ab4281126b27]
+    └── d2bbeb989bf2924a5ccfdca08f15b2f5b7909b0deff884e52d2bee7f3b7ecac5.zip [dce792e752de7ff861b67863f6b44c52636aed157b4bf3e7a380d425ecd8de9d]
 ```

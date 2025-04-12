@@ -3,35 +3,35 @@
 
 ```
 ├── a
-│   ├── nVIR_A.cpt(1).hqx
-│   ├── nVIR_A.cpt.hqx
-│   ├── nvir-a.bin
-│   ├── nvira.bin
-│   ├── nvira1.bin
-│   └── nvira2.bin
+│   ├── nVIR_A.cpt(1).hqx [6e30390e414d7faa994d9dd102aa68ac37b67713b6915e5aa0f94a7539290d7c]
+│   ├── nVIR_A.cpt.hqx [e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855]
+│   ├── nvir-a.bin [e6907c8c71f7c6c98754bbc3b8ae1a2b0c84be4afbad22f79ab35910487eb2c9]
+│   ├── nvira.bin [e3ae49befe437e492944a8653f957e7db50eef0718d447a36724a31603ba5186]
+│   ├── nvira1.bin [a4fb002c06943651290997080a01ad8ee4b75b1622272a8e94e4f68379f7674d]
+│   └── nvira2.bin [7a688aa9f3dbc20f25548cd6da8775f4090898f4cb7eadf2d41371c449058e12]
 └── b
-    ├── nVIR_B.cpt.hqx
-    ├── nvir-b.bin
-    ├── nvirb.bin
-    ├── nvirb11.bin
-    ├── nvirb12.bin
-    ├── nvirb13.bin
-    ├── nvirb14.bin
-    ├── nvirb15.bin
-    ├── nvirb2.bin
-    ├── nvirb3.bin
-    ├── nvirb4.bin
-    ├── nvirb5.bin
-    ├── nvirb6.bin
-    ├── nvirb7.bin
-    ├── nvirb8.bin
-    ├── nvirb9.bin
-    ├── nvirba.bin
-    ├── nvirbb.bin
-    ├── nvirbc.bin
-    ├── nvirbd.bin
-    ├── nvirbe.bin
-    ├── nvirbf.bin
+    ├── nVIR_B.cpt.hqx [7190616727a410683df8c71b2cb3032cac58ec1d9df71866d3211cd6679dfde3]
+    ├── nvir-b.bin [e0d1be1cb039c401e545acd2ba08fc4b0fb732933804e827538267e850113798]
+    ├── nvirb.bin [98e571258fb026588ea28a9faf3c8f066585a760f3386be733de8ed63be27e57]
+    ├── nvirb11.bin [18d503f7be63ef6209aa188a5cd618c85208b0d3122ef05ad02de1866ffcfc1e]
+    ├── nvirb12.bin [024356f96ecc07339e117ed6d592ebac09e4a830c14e69786b0da247a825003c]
+    ├── nvirb13.bin [284634eb0cad15b060afd3a29a87c10307fee1ed83a905480a4a387f2285f45b]
+    ├── nvirb14.bin [1415baba4b3116630c12a00cb74ff085598aa4441400fa5a635198edddf892ba]
+    ├── nvirb15.bin [2b3a8b87dea6a1e08ccc1ccff3bab166ae222775852753d0246543633e096f7d]
+    ├── nvirb2.bin [de00e1a6212934a64d19652e2499613ae5973474fb11b836fc0b9a381963772e]
+    ├── nvirb3.bin [02ae6185f4af393cefee19343cbb7ec17dc8a4ba4f70bc8eeae92581b924fb13]
+    ├── nvirb4.bin [1c790475e982c39deda3804d12e8d0cb88bff9bed7074851f9d051a5b9953db7]
+    ├── nvirb5.bin [d5c97691f3e312f2a2cf11977a8a7210d3b9dea46768cb64cb60683b7701aa20]
+    ├── nvirb6.bin [573a9a319483079ea8d084310222351d100722b93eee4ca3a83018b65f3478a8]
+    ├── nvirb7.bin [b659ec9e0a2a83124f5feae38077cb984f522b5d1e7d9e5578f22d2786aab4e3]
+    ├── nvirb8.bin [e5846b50a09ee232a75e51667df1639434ffb9141a8c5aacdcad3f7daf91e87c]
+    ├── nvirb9.bin [953636e03295b7a6c97f4f5a1ef86af15ce000f51f615829227675c7115a908b]
+    ├── nvirba.bin [968f42c48064a7cbb390a5c9fd284192d913aee9679271f4de86887198be2636]
+    ├── nvirbb.bin [f1c111846fc36b409b4535fc85796c48e4afa4a55b96bc0b896836eaa9bc9c59]
+    ├── nvirbc.bin [a1dc4316bb6c8a2dd2002d746660b5c4c2b391410e8c6a0f38bd2fda07cea34e]
+    ├── nvirbd.bin [d78dce765f9511ac9885f264f74671abdab1eaa5c96097f2c2a72f4254713c8e]
+    ├── nvirbe.bin [5f980cffb05ade074eb0f92de894bf2d65b77e63f1413c764a832300a05311be]
+    ├── nvirbf.bin [172a2825d1200761640a65cacab01edea3fce3fda90d9cdd485bbac08ab83de5]
     └── src
-        └── nVIRB_source.sit
+        └── nVIRB_source.sit [fbf290da6fef171b459691ba67b9df2619fcb04209a6112d4053b50422e6e853]
 ```

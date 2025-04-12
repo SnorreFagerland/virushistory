@@ -5,42 +5,42 @@
 ├── a
 │   └── fc3b28b18708785816d16358ef2762964ba14b246e057fea4ebdb7a9c6b3af89
 ├── aa
-│   └── 16bfaa4d.vis
+│   └── 16bfaa4d.vis [05029ef759767700ca3f0f5a4978e515b9191524576788e66c1b8fc89bbc111f]
 ├── ab
-│   └── 1747ec54.vis
+│   └── 1747ec54.vis [e527aa17e6cba6223ceddeb72173de960fdf8c70fe1df408f708413d1b3b05f7]
 ├── ac
-│   └── 1a32793.vis
+│   └── 1a32793.vis [fbce39ad15ef0c5b1170cad9b1119f7447c53fbe1f255a20794c5467265ad5bc]
 ├── ad
-│   └── 22b4a3d.vis
+│   └── 22b4a3d.vis [f74400a5ee21d1bd26bdbcda3a2aeafb66914391a0b3d607e20ab9e72089dad7]
 ├── ae
-│   └── f4ec5690.vis
+│   └── f4ec5690.vis [6e3e33a15a13555a103a7e6f34aa7b5cbd03b7f722ef51a751ac45cc8668c492]
 ├── af
-│   └── 32768085.vis
+│   └── 32768085.vis [4bd8e66ba80a259ebd08a1d1cc2c9bc3fe5d3df0af4d34668c08ae22a9799de4]
 ├── ag
-│   └── 38e3e263.vis
+│   └── 38e3e263.vis [48b6d44cecfb58ef2ebd2aea9c2d5b3ce4f57411b9c3d11feb60678c9098b2db]
 ├── ah
-│   └── 3b31bbba.vis
+│   └── 3b31bbba.vis [b84a18c16db1ff65676733027d8447b5f37598c796c9d6c939cc3566cb53e2a2]
 ├── ai
-│   └── 6ea03287.vis
+│   └── 6ea03287.vis [091232d421333a2cdce306560358d44caae94ea2ae35424ed8896624c31ed997]
 ├── aj
-│   └── 7451518d.vis
+│   └── 7451518d.vis [6a69cc3166129c6d295eb4c8fbccdc92e4aefe1f98457bdf48d487db057835cf]
 ├── ak
-│   └── 75426c09.vis
+│   └── 75426c09.vis [76c4d83da543d9579f960d1f9acd26a42eaa4bdb8b043311b0d6a896f33463e9]
 ├── al
-│   └── 7c483bfc.vis
+│   └── 7c483bfc.vis [0e8c64f33a80c1a223cae530319b1b6615c081be74ed43c32b525bb7b1e4d3d9]
 ├── am
-│   └── 8c5f9e1d.vis
+│   └── 8c5f9e1d.vis [931d5c79793675b04f651042820417b6db0db7c49c16f9230c524badced803f2]
 ├── an
-│   └── 8dc33ab.vis
+│   └── 8dc33ab.vis [c3c5a964ddf27e5323629409304328ce3fb3027df84eac9fbe234d399b1f14e1]
 ├── ao
-│   └── ad6ccd7.vis
+│   └── ad6ccd7.vis [7fd48f9b7c2700974ae8fd3918ea1ccb25abfdcf7e579a787b6bfc8bb03bc823]
 ├── ap
-│   └── commw-2.vis
+│   └── commw-2.vis [d61ce48a37e8af88cb40af9919558fd2c2f3a92e62ec7f8fc8b0d593d8c20747]
 ├── aq
 │   ├── 2c4e57c6ea734cc4cd651ef031a03a1040fc893f1b50486ceb0217ce03ba52e0
 │   └── 6383b94e79b954282342f1daefc2e04c0f639900165bea756ef78a38880428b3
 ├── b
-│   ├── 033951081.vis
+│   ├── 033951081.vis [5d7abeea95c65a1b4fa443a09fc31c299be6a3121ec8444b6e6cf602e0b00011]
 │   └── 6ccfd7d798215860b6b1b0fba56f7831f6df1d1829a5e1d95514334064b050b0
 ├── c
 │   ├── 1efd49473012ad3c1c849cd58b13132bedf3cb307bbcb52a3499d5584a44e456
@@ -57,11 +57,11 @@
 │   └── 3ea52758c12a3ca34f3159aa242acff4865be656113580e5946282aa44478f87
 ├── e
 │   ├── 13fe428ffa2a0e116196ae343c4bb14b215921c0c99bc3841e0d32fdfb4e8992
-│   └── amena.vis
+│   └── amena.vis [a411b90c0a59ba981be5f4000dc8ce8f6815f8326d1b2b860868a3ca631b5791]
 ├── f
-│   └── MMSms.vis
+│   └── MMSms.vis [d4bbe29f203bbd198f077ff65bbc9ff59342f573a2a18c1e39bda9d9c33a58cd]
 ├── h
-│   └── 1496deaa10ecbcf8900194c39b9ea632.tmp
+│   └── 1496deaa10ecbcf8900194c39b9ea632.tmp [d2971490544e80df3c3f70400233476de77e294ade06fca01327bb43025cec55]
 ├── i
 │   ├── 1f904419a704b334afe315673dfe736dca3a7401f4ba385b6b7bb7254d75fde5
 │   └── a46fcdea17d4d8d9486d25dc974a6598ec4f7cba6c393920ca3520c7f531b222
@@ -69,28 +69,28 @@
 │   ├── 0443bbc70db0d7f4e698d282e3efefa12ca3b5349e5cad660bfc1fdd0e59338a
 │   └── 92f84ddb02ad6b0e598d7325440b695e8fc94590c5a84e22792d9869d0c4611f
 ├── k
-│   ├── commwarr.k
-│   └── comwarrior
+│   ├── commwarr.k [8a4375925f5c927f749d49730248a5f0e36d655c9782d5b97fd2c855093f0713]
+│   └── comwarrior [27c936a43de5aace85308d08ded27cf96d32594072e55d4a2f68df3b7b4cb9f0]
 ├── l
-│   └── Filer.B.vis
+│   └── Filer.B.vis [bde405029f4176c4318d0509d1d8737acdcb4a30f9e1b5f9341801f30831ac93]
 ├── m
-│   └── read!.vis
+│   └── read!.vis [077ba786f02b3c53f4d6e044321f1b5c5349091a62e677ba19d9275599efeb33]
 ├── q
 │   ├── 9df3f28d24eeb968c73b5c98a7f6ea70f37ff8168ca97022cbca598b6daef0d6
 │   └── de41b7bdf1133d1c9ea76ea3dfb890d66f73ed7f58be3e2b5d381b56d6a9af40
 ├── r
-│   ├── Disco.mid-1
+│   ├── Disco.mid-1 [0caa3266e47d3dde42337b8330a61a186713e0443ab3362cb01d05f3f586af9d]
 │   └── d84d88ec756eba78355ed4d975ebe8fefebcbd50c0eee3432566653b29073a66
 ├── s
-│   └── Disco.mid-2
+│   └── Disco.mid-2 [5125a0f9fb79023e2674e80de450ae5d9a90ed95709a2abb509989d2db8e58af]
 ├── t
-│   └── p2vpka7.ex
+│   └── p2vpka7.ex [72016097df2f8458f27cfd762f9cefbf63330c971a71dfd175c93aa6ad3513f6]
 ├── u
 │   └── 7abf5a4d89aa4ab1f565d02276b306d32483edbf8e604e3eb22c82428f0cad4e
 ├── v
-│   └── HACKTOOL.vis
+│   └── HACKTOOL.vis [f0488aca320a4fb5f394d6961dd79766678198d2915c4590edb34a2acdda2691]
 ├── x
 │   └── 7b16b589ef85696272e2925340e41eadcdb3b8e6b0603b94954e6af85c526104
 └── y
-    └── 1067be68.vis
+    └── 1067be68.vis [3324a83bae5169d2ecacf9c27f9f61058ac7e83b1a51f7d66d502a05fae71bf7]
 ```

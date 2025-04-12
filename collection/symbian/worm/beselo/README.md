@@ -3,16 +3,16 @@
 
 ```
 ├── a
-│   ├── beauty.jpg
+│   ├── beauty.jpg [4e623adbd3301506f518e333abe8a3f6344089a61e339c56609eccaf4fe5a22a]
 │   ├── d20e65945c10ba58100d9e4280d486cac8b6d7f25e860ecf122aa7bcc5b17938
-│   ├── love.rm
-│   └── sex.mp3
+│   ├── love.rm [b0c96815e3e83c529541c032f23255b1352769b7c1ee3b0a3b3c386e449ca357]
+│   └── sex.mp3 [a1055da8f61f17dddb2729d0890ca5e3aab70e93d998fe0bd3c2e34b30f5fc9d]
 └── b
-    ├── Games_baru_s60_n70.vis
+    ├── Games_baru_s60_n70.vis [6a62bea45f4325e8189466e34a3838d8d9926438f8539cae520326bf4c37c122]
     ├── a73f1d2d777073f53f4023fa9ac18f20bec862a65d71552b993fa7586d79a107
     ├── aadf9f14686e2bc7b615114de25f896dfe280550cccd45d433c4e894acb035c3
-    ├── beauty.jpg
+    ├── beauty.jpg [3c55e11d070885fb95bf8d0509e6d304ff1871a389e81afd27374232f6ae3447]
     ├── c0401e87c89ecc571c2bbfd0e7e9b0f4c2dd1f65b8ed411303dc08adcee6fa06
-    ├── vnruulp.vis
-    └── zn (2).vis
+    ├── vnruulp.vis [da60774b1fb60cd3ec644fe449523f769e74578f515d50da60c30171e0f0c833]
+    └── zn (2).vis [6171f4bb732db771be0897bd620730cc0628a5699bca7ed0bd13fcf7eef5dfbc]
 ```

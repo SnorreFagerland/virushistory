@@ -141,7 +141,7 @@
 │   │   ├── h
 │   │   └── i
 │   ├── hobbes
-│   │   └── Symantec Anti-Virus.vis
+│   │   └── Symantec Anti-Virus.vis [ae4744184e8d4652ce098ddbd0b9dfd1833cd7e11ba22f4faba0563be25e6801]
 │   ├── keaf
 │   │   ├── a
 │   │   └── b

@@ -23,15 +23,15 @@
 │       └── 5c118ad1c05258833a31d9caaa9ded4f2e5185e42d588d090c0ba187e8826869
 ├── anthrax
 │   ├── a
-│   │   └── IRC-Worm.IRC.Quiet
+│   │   └── IRC-Worm.IRC.Quiet [e5c3f8c6d6c4e6bff269e15d750182da262261883e588544937c9ca797384fa7]
 │   ├── b
 │   │   └── 07f190ce92bd85c45df492d14929de6cbd6c43464f81e92f0ce0b2ec3b79fcf4
 │   └── c
 │       └── d9ef38c0acaf1be8a496e4490e875924ad641f7eab0415e8efa46ffdcd4b6479
 ├── auser
-│   └── IRC-Worm.IRC.Auser
+│   └── IRC-Worm.IRC.Auser [e592e8f5638adcef4652139087bf59bce501dc6ff82c24dc0788b862f94869ce]
 ├── baby
-│   └── IRC-Worm.DOS.Baby
+│   └── IRC-Worm.DOS.Baby [19182f3310631a987ebdc2c5a0413112c934990f2dd361b7fd7b6f9ba811f188]
 ├── backdarter
 │   └── e
 ├── badboy
@@ -61,19 +61,19 @@
 │   ├── a
 │   │   └── dc6b8ce095a58223010fd6d70c0e57c9ac73e7a2171491dbc7392470c50f5c32
 │   └── b
-│       └── IRC-Worm.IRC.Gakk.b
+│       └── IRC-Worm.IRC.Gakk.b [f78fcc355f00e76bec612c5246d61802b262bf05c42603c3953f02f2d148e76c]
 ├── gift
 │   └── b
 │       └── 6648ae188cb68606c428634d20e8defa85672d8087e5ae63e1e79fa925f4b65f
 ├── godog
 │   ├── 615a517ce211d2d58457b374dfc8f2448edad2c6fe861b96442ba0420c5b741a
-│   └── IRC-Worm.DOS.Godog.h
+│   └── IRC-Worm.DOS.Godog.h [21930b119c3abfcfbfa23e48f09c5911229ebfcebee77f1d83f680b5450618dc]
 ├── gorum
 │   └── d
 │       └── ab14dbbdde41e7c97b83e24edc28508139a70895eafc7e3b1ccccbe83781fa2c
 ├── inca
 │   └── a
-│       └── IRC-Worm.IRC.Fono
+│       └── IRC-Worm.IRC.Fono [37c306513fc6ddfd875fbe122ca8748e219ee9723618b71e7b59a858dc07ae28]
 ├── injust
 │   └── a
 │       └── 6a36435f60189c52f9f60484be76642245f51b50ddeff2262f267647c6edca86
@@ -85,7 +85,7 @@
 │       └── c012914bbb567188795f2e65fb0283180a9fd2a2350f2ba384f7a3010630d5e9
 ├── julie
 │   └── a
-│       └── iblis-julie_script.ini
+│       └── iblis-julie_script.ini [075e6bd5cef94a4a41e146343aacd01dbcec6d2a4a03de9b1fe7a2a95ff36f3f]
 ├── kelebek
 │   └── b
 │       └── 5f659713fbfb81d56b5fcec91f4d0d037f596a0d2e678c3e5d8d735f85d49a3d
@@ -111,7 +111,7 @@
 │   ├── a
 │   │   └── d319d9c619abc2b0a3d1b3f28c5e95ef45b627b1acfe69df9aa760d02d375900
 │   └── b
-│       └── IRC-Worm.DOS.Milbug.b
+│       └── IRC-Worm.DOS.Milbug.b [ac2419a12acb4771de8d1fec6369ddbf1f70fa037a7c73caf2dd26afac055c44]
 ├── mill
 │   ├── b
 │   │   └── 73148339f96cfd288598fc027afee6005a143ceec73c58e412c1cebc3a0a1869
@@ -143,8 +143,8 @@
 │       └── 4c46efe289588e9ca0d0671d65976338c06e5ea59b495265f4656a8abecd2902
 ├── repro
 │   └── a
-│       ├── IRC-Worm.IRC.Repro.a
-│       └── IRC-Worm.IRC.Repro.b
+│       ├── IRC-Worm.IRC.Repro.a [3ab01cd9bfb7a7ccc919c3a01bb1d1481969a27a402f63dda6dc0084e5800719]
+│       └── IRC-Worm.IRC.Repro.b [3ece3b5d261033c925761d7a460376b96f17a2b767dc42d5248699e48f09749f]
 ├── rules
 │   └── a
 │       └── 2ed84150ca00228e4b28dadaa0a10de42f65619f535436256d990e70835312d0
@@ -162,7 +162,7 @@
 │   │   ├── 68d3ddc3cc73892dcbebf823c64a17a788c81e38aa73ff5f3d02cffc99aba0fb
 │   │   └── 6c2ae9565b9e1ef3132ef03f8d9914502e76df77280f96915418a2a6316ffdeb
 │   ├── c
-│   │   └── IRC-Worm.IRC.Simpsalapim.c
+│   │   └── IRC-Worm.IRC.Simpsalapim.c [414d3106d3516e7b8d15f293cb5787df05d6175499b7285bbdd1edf1dd900a14]
 │   ├── d
 │   │   ├── 2be89dafd65cbc4cab63857d8791bd83707fbe2fd5cae71cdffe9325ecd61f3a
 │   │   └── 4d6ae21338b14d5ab2a1829d0cda8ef344e36112687e6242b5673ada3352b7a1
@@ -173,13 +173,13 @@
 │   ├── g
 │   │   └── 9a58487eefdf63cbd947913ad80887a9b329d4f1be2aae13b239b3a2840d7005
 │   ├── l
-│   │   └── IRC-Worm.IRC.Simpsalapim.l
+│   │   └── IRC-Worm.IRC.Simpsalapim.l [46170b39e2f2099630f4c905887dab4562cca8f0768e6a4e2bc1400f5e032604]
 │   ├── r
 │   │   └── bb72709fc13075c87dd9f44646b0c372acca9d989d9676e0bbcfb13b6ae5135c
 │   ├── t
-│   │   └── IRC-Worm.IRC.Simpsalapim.t
+│   │   └── IRC-Worm.IRC.Simpsalapim.t [884eefa8af4975b2cab0d8cfefa9adf0af5c0a10a1cef4081e09eb1ac787dbb2]
 │   ├── v
-│   │   └── IRC-Worm.IRC.Simpsalapim.v
+│   │   └── IRC-Worm.IRC.Simpsalapim.v [7e5e5054219401cf31b0b151ac117b3ddd3aea99db7b1ebe1b13ab784b50ac04]
 │   └── var
 │       ├── 1137b2afdef2ee07086ad1d5f324024b68e4b69422aedb94db9d3498e5350fcb
 │       ├── 395166c736b886061360165e1aecb742440df1a9b9013baa0407420d5c0c1e93
@@ -193,11 +193,11 @@
 │       └── f6862d227c4f6016a102381d3e825332eaafb955a968567c44cd8ea008598765
 ├── sleeper
 │   ├── a
-│   │   └── IRC-Worm.IRC.Sleeper.a
+│   │   └── IRC-Worm.IRC.Sleeper.a [9beed261ae870ef61e35cb39457d234189a7d71bc26296e2590e8c640023d683]
 │   ├── b
 │   │   └── 05faa1d4ce3ef5ff61d6fa540400b21a06d798564e7160d9e9b9c7bc184e5d8f
 │   ├── d
-│   │   └── IRC-Worm.IRC.Sleeper.l
+│   │   └── IRC-Worm.IRC.Sleeper.l [7bf15faf14f10c25fe6de679d305de395f71c7dd3cd1858755dae9020795b4a9]
 │   ├── ef245d430af898eef09a17be321eb27ccde467f6084e5ef9a81bfba7d506ed35
 │   ├── f
 │   │   └── 8407e15b9711553607260c9a974c69613069d2bb1aafa2741076aa7be6de8e8b
@@ -230,7 +230,7 @@
 │   │   └── b82850a903cb395b6ea65e587779799102c0b648b4349776ef8babf89bde11e5
 │   ├── e4cdbabcbdbf7a3c07f5cc1ef844a7900d3803baed0c14e489832f5ba911496f
 │   └── g
-│       └── IRC-Worm.DOS.Tiny.f
+│       └── IRC-Worm.DOS.Tiny.f [b292281b0efb45850e378a6f3006a2c19c32d43005287bf0caa177cbe0456109]
 ├── toolame
 │   └── c
 │       └── 211f894fefa14f87ba63e16c062b0f64b91f8267fbf61efd4d7d4941477872ac
@@ -241,10 +241,10 @@
 │   └── a
 │       └── 55aedaf97b4deec330739717d58108f95ffa34ced0ee38abd8e7610ac508fbfe
 ├── warez
-│   └── IRC-Worm.IRC.Warez
+│   └── IRC-Worm.IRC.Warez [6157bad51f421085a843085de5adaf7a6931af2f16485f2d9e32aa75f4e22628]
 ├── whacked
 │   ├── a
-│   │   └── IRC-Worm.IRC.Whacked.a
+│   │   └── IRC-Worm.IRC.Whacked.a [eac5f9b594bb53b0b15ced148cdbe22134d699d1b44c74be9ee7231db3dc164e]
 │   ├── b
 │   │   ├── 0f30744f27034c64a42cc87021c7c9394a53538a94319325037ffb6c7d848f9d
 │   │   ├── 1bd904eddf793f534c9d9ce7d18e519e0c0ca48e2bfd3f7186e7a5c7021c4aee

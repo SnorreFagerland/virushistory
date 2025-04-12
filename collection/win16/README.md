@@ -26,17 +26,17 @@
 │   ├── coconut_ii
 │   │   └── 1323
 │   ├── cybertech
-│   │   └── Virus.Win16.CyberTech
+│   │   └── Virus.Win16.CyberTech [faf63e6359c33f0f4f83846bc6ee01b90f6fae3af833ad05191abc9d029079d1]
 │   ├── dedivan
 │   │   ├── 1303
 │   │   └── 1380
 │   ├── gollum
-│   │   ├── Virus.Win16.Gollum
-│   │   ├── debug.vxe
-│   │   ├── gollum.386
-│   │   ├── label.vxe
-│   │   ├── mam.vxe
-│   │   └── mem.vxe
+│   │   ├── Virus.Win16.Gollum [329954ff4c5f7a12b93a0318c5c4421dc3c3d3f8775f8fe8920c8fe395bfd5d3]
+│   │   ├── debug.vxe [c18f637f8fa69c1b0d3ad11c333f3ac92748d28e0dea55187fb75d508807cb8b]
+│   │   ├── gollum.386 [6241d7d9dbd765d4f923c5db118faccf4476d631439a8225510c31bf2ac7b5b2]
+│   │   ├── label.vxe [54f0cacaa56e8c7532b166a2572247898b1d39def95fd9de0fae9b2b7b5a5c24]
+│   │   ├── mam.vxe [b2d607024130777d7cf9e6150bd70080df19a296c477e006385484517f969c0d]
+│   │   └── mem.vxe [329954ff4c5f7a12b93a0318c5c4421dc3c3d3f8775f8fe8920c8fe395bfd5d3]
 │   ├── header
 │   │   ├── 145
 │   │   ├── 192
@@ -65,7 +65,7 @@
 │   │   ├── 12860
 │   │   └── 13056
 │   ├── kodzer
-│   │   └── Virus.Win16.Kodzer.1651
+│   │   └── Virus.Win16.Kodzer.1651 [b75ab1fa09b0d9329852f63e15e4ab2e6cb4ed2bccba97bdcaa93692b3467137]
 │   ├── non
 │   │   └── a
 │   ├── nrlg
@@ -108,7 +108,7 @@
 │   ├── tved
 │   │   └── 780
 │   ├── twitch
-│   │   └── Virus.Win16.Twitch
+│   │   └── Virus.Win16.Twitch [c07d223aab9378b0c3beee849d09e2c7b3d53fea4c1defc6bb177dafc235c67a]
 │   ├── vecna
 │   │   └── 832
 │   ├── vfw
@@ -141,10 +141,10 @@
 │       └── 1417
 ├── kit
 │   └── omvck
-│       └── Virus.Win16.Odysseus
+│       └── Virus.Win16.Odysseus [d04ad0edca6f7ac89b4d71a300c4e6633489add6dc3621357d13aa495d2149f6]
 └── trojan
     ├── parkin
-    │   └── parkin.vxe
+    │   └── parkin.vxe [4eb4cb52a90e62bbe26da7e35cc00aca107dcd54d0874f38a094690b3a8532d8]
     └── trojaninfo
-        └── Virus.Win16.TrojanInfo
+        └── Virus.Win16.TrojanInfo [b94d2e5e21d567760babb382c266cda3342e9fe29903ec478065ee1748f8122d]
 ```

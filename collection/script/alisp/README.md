@@ -3,160 +3,160 @@
 
 ```
 ├── autoinf
-│   └── acad.fas.zip
+│   └── acad.fas.zip [204cd2de38f0a5b43dfa8be426c64076d1f8933f3186c624e87fb29b40b7687d]
 ├── bursted
 │   ├── a
-│   │   └── Virus.Acad.Bursted.a.zip
+│   │   └── Virus.Acad.Bursted.a.zip [6a4524c7525d7ca4b3fa87ec87775a60341f9f9680c30e8a89ab648a49cc3a9c]
 │   ├── ad
-│   │   ├── d346beaba20e743c47f25c3a0256e0460c768b50b99fab9ee3557f2687899280.zip
-│   │   └── d4abd1077ed2397febacbf541e9dc928a4916958650cd9577cbdca1c55ba33c3.zip
+│   │   ├── d346beaba20e743c47f25c3a0256e0460c768b50b99fab9ee3557f2687899280.zip [1727874154e5bc28492ebf45a4343e2d59b43291f2225b03c6f5249f415e206d]
+│   │   └── d4abd1077ed2397febacbf541e9dc928a4916958650cd9577cbdca1c55ba33c3.zip [505e7dc9303112c4e40d55fa2a35b13cdc2ec884e65c71f7805e0c28e825f995]
 │   ├── aj
-│   │   └── fdcc9771b784ba7f1a43d581f6558abeda83e8cd42af89bb280fa42c261a13c2.zip
+│   │   └── fdcc9771b784ba7f1a43d581f6558abeda83e8cd42af89bb280fa42c261a13c2.zip [7d82d8378834e9771170acb1ebc7aefb41fe28369deec7a0b2976a68dbd79abe]
 │   ├── ak
-│   │   ├── d747ad2438536a5c338a2f2225fa6790426652b1f9ca25de6acebb292f28c447.zip
-│   │   ├── e2424a4a657178a75867b663a3e5b194c05a188886d17e318ea092a8731dcf49.zip
-│   │   └── fcd87e439ca2b4f16a749e8d8b8632bb478e86bbcb00049ebede881631a8d149.zip
+│   │   ├── d747ad2438536a5c338a2f2225fa6790426652b1f9ca25de6acebb292f28c447.zip [87733d7578bb9ba0532ec0dd05bd798a4759bda9f3bf6d22afe57f0e4eb004de]
+│   │   ├── e2424a4a657178a75867b663a3e5b194c05a188886d17e318ea092a8731dcf49.zip [985c5a73e86dd20ec13918043f4a38214bac80d4884c0848a3befee818bc5ad1]
+│   │   └── fcd87e439ca2b4f16a749e8d8b8632bb478e86bbcb00049ebede881631a8d149.zip [bd07a1438a7bcc6011f188ce19b3b8703ba90cd7770a3bb9d168062b3beb5a5b]
 │   ├── an
-│   │   └── ebc6cd7f73aea929258116b50ae36d0d4e99d1105b1aa1dd469ba97dda6731ea.zip
+│   │   └── ebc6cd7f73aea929258116b50ae36d0d4e99d1105b1aa1dd469ba97dda6731ea.zip [78a31c3a12e43a14782902258e21bcb2faad1d7ca65f48310fe27fc327a261ac]
 │   ├── aq
-│   │   └── d0f1c24d6a353268b68603f5eb7337389e52c548d423593d6d03e1f2572bf64a.zip
+│   │   └── d0f1c24d6a353268b68603f5eb7337389e52c548d423593d6d03e1f2572bf64a.zip [d28352ed9f36ed51f6c0c9450f758fe171a0b2c0b467efa16a100f72a4dfd588]
 │   ├── as
-│   │   └── acaddoc.lsp.zip
+│   │   └── acaddoc.lsp.zip [a09919ecaadf707d418ff01e5a9fb0e06ca334105ea55b0c4556009d96808e63]
 │   ├── bd
-│   │   └── dbb956aa157a3896b02eff3a931d56715954ebb62691ce624b4ea12c204389bd.zip
+│   │   └── dbb956aa157a3896b02eff3a931d56715954ebb62691ce624b4ea12c204389bd.zip [7291a800c6b8d5e4f5f0c5631495021951c89a3b6f6e3d114d6ffc3b0def0b36]
 │   ├── be
-│   │   └── acaddoc.lsp.zip
+│   │   └── acaddoc.lsp.zip [5d3608fdb83d074f614b9067e0a271822fb5fb32a0ffaa3903318c76389c234b]
 │   ├── bf
-│   │   └── acaddoc.lsp.zip
+│   │   └── acaddoc.lsp.zip [fdf9f922461fff3b7720d23fde4c8d360b2f305e654643e6437b58c055c9cc9f]
 │   ├── bl
-│   │   ├── 9fb996cf0c9199c25444e1fb4af4650897efcb716b4d59a183674cb43ef89363.zip
-│   │   └── ff99b288a7ad23b66609da9a0da04e8cdcc8be67c183fe4396e3a88a9e1c4aa0.zip
+│   │   ├── 9fb996cf0c9199c25444e1fb4af4650897efcb716b4d59a183674cb43ef89363.zip [c5385d999a922673937597545a2d2459c9af3b00d58d7827d0293afdc4e4ae95]
+│   │   └── ff99b288a7ad23b66609da9a0da04e8cdcc8be67c183fe4396e3a88a9e1c4aa0.zip [0e0250fb955115cc4b7fc51f289888744d6b921d6441dc78481ae64da79978e0]
 │   ├── bu
-│   │   └── f5ce45061a6ce51f3e7bfb85b12400b6424fc7f5b6c5d04204d3b05e0ce0f2b5.zip
+│   │   └── f5ce45061a6ce51f3e7bfb85b12400b6424fc7f5b6c5d04204d3b05e0ce0f2b5.zip [f43456265a49c07984de0b8ffe5e05d001e42f34b53642ca3d46fb0b1a9fc9ff]
 │   ├── c
-│   │   └── Virus.Acad.Bursted.c.zip
+│   │   └── Virus.Acad.Bursted.c.zip [c0e4e39115314d24c37ab843061426c321085fb8946ddb2d1deae66b216006c3]
 │   ├── cc
-│   │   └── fac0e946fd5009972406f703d261a3c89e138cc9f4661e969f3b96294b7da1aa.zip
+│   │   └── fac0e946fd5009972406f703d261a3c89e138cc9f4661e969f3b96294b7da1aa.zip [3828a2152c3cb626b925fff993b1cc88ea23bcf41131872fe6878e8bb58e72bc]
 │   ├── ci
-│   │   └── e792a90495a1ed8233aa4c6211a47db8e8100178d19df2c8955beefb75c205ac.zip
+│   │   └── e792a90495a1ed8233aa4c6211a47db8e8100178d19df2c8955beefb75c205ac.zip [c80ae9e6d75fb2795566d4d1a0eaa6da0816712ccf27b4890c40edafdf454198]
 │   ├── cl
-│   │   ├── dfaffb56ad9de6f762b0bcc642acc2365575a0f28cc8cfa89a18825d77dc8bec.zip
-│   │   └── e7b2faf005b86b2e9e3424d1d7b8664c04068664ee31abde1a1e178720ac9716.zip
+│   │   ├── dfaffb56ad9de6f762b0bcc642acc2365575a0f28cc8cfa89a18825d77dc8bec.zip [0583a60b9bc1df9d7ff1810031861052fd8ac013e8470757575088d3ff58aa55]
+│   │   └── e7b2faf005b86b2e9e3424d1d7b8664c04068664ee31abde1a1e178720ac9716.zip [cfcdd3d953ebcd5e97df2f089786e50e8d2d1ac373ae0778210a1107e85e4fab]
 │   ├── cm
-│   │   ├── ea548adda7a26bc3eea12a50b6a01e679e4bed2770c00c58790bb1a940f51b25.zip
-│   │   └── fb1f4fa8ab95f0061831b4882ce1c33255d6ea258ac3c4af66053ac491c8aafb.zip
+│   │   ├── ea548adda7a26bc3eea12a50b6a01e679e4bed2770c00c58790bb1a940f51b25.zip [beefb00454a921a1b97b8ef93568528e50edc1d5ca92b9df736bb4d3578d12b7]
+│   │   └── fb1f4fa8ab95f0061831b4882ce1c33255d6ea258ac3c4af66053ac491c8aafb.zip [a807ac2f353a0d3b359ad11d26d27e70ddf1ea61526623f79e9a4e08c590549e]
 │   ├── d
-│   │   └── Virus.Acad.Bursted.d.zip
+│   │   └── Virus.Acad.Bursted.d.zip [b7ed315667e1b894e03cf2060714b47f5e490238aa616725aede49da995ba6e8]
 │   ├── e
-│   │   └── Virus.Acad.Bursted.e.zip
+│   │   └── Virus.Acad.Bursted.e.zip [3316f0f4fd7c8a47932f789af541861c454812601bcfbe0a1c4e2f4f144f81d9]
 │   ├── f
-│   │   └── Virus.Acad.Bursted.f.zip
+│   │   └── Virus.Acad.Bursted.f.zip [b4acc4ae7f665e9c8b27157207d87232b719a83acb3afb8f5f3eafd06fa631f1]
 │   ├── g
-│   │   └── Virus.Acad.Bursted.g.zip
+│   │   └── Virus.Acad.Bursted.g.zip [adfa908e76d39608d881f2c03d5603684fd7e94f47c91f7ef95981347d86ba8b]
 │   ├── i
-│   │   └── Virus.Acad.Bursted.i.zip
+│   │   └── Virus.Acad.Bursted.i.zip [e4b968effb68b5fd8f84c8ff0642da9c342dc7a829ff9e1cbbdfed49cccdeec1]
 │   ├── k
-│   │   └── Virus.Acad.Bursted.k.zip
+│   │   └── Virus.Acad.Bursted.k.zip [02512ad0dfb71bc5ec670edfe366f8f58166a18276935783c7e8da3e97df2999]
 │   ├── m
-│   │   └── Virus.Acad.Bursted.m.zip
+│   │   └── Virus.Acad.Bursted.m.zip [7183c27124e00fe1c57d72addfb08b746a5a2cdb2d5ebc7b1c4b3e8b65c7d880]
 │   ├── n
-│   │   └── Virus.Acad.Bursted.n.zip
+│   │   └── Virus.Acad.Bursted.n.zip [bcce0e2af521f42c36b7e4a649bf29a744b93f926b6ef4a9c6d5fdc4c7ff877b]
 │   ├── q
-│   │   └── d0dabb894798575f3a0f7753b584a8b4b09007e9303d81839211081155e822cf.zip
+│   │   └── d0dabb894798575f3a0f7753b584a8b4b09007e9303d81839211081155e822cf.zip [0d7d382e4c2e6ca0d887058e6867bc5d199a90b7e4d29cc575c930d6b13007aa]
 │   ├── r
-│   │   └── Trojan.Acad.Bursted.c.zip
+│   │   └── Trojan.Acad.Bursted.c.zip [b3582f8df58af568491c1c78709667f8790b85a20807e8244da22d314b72e2c7]
 │   └── u
-│       ├── bursted-u.dwg.zip
-│       └── d2bbeb989bf2924a5ccfdca08f15b2f5b7909b0deff884e52d2bee7f3b7ecac5.zip
+│       ├── bursted-u.dwg.zip [2855bcdabd9938d36345cf09d00feac0f328b788fc60fcf9e542ab4281126b27]
+│       └── d2bbeb989bf2924a5ccfdca08f15b2f5b7909b0deff884e52d2bee7f3b7ecac5.zip [dce792e752de7ff861b67863f6b44c52636aed157b4bf3e7a380d425ecd8de9d]
 ├── certufas
 │   └── a
-│       └── acaddoc.fas.zip
+│       └── acaddoc.fas.zip [e763e9f8efcdccc0d57bde3f433a4f9e1abbeb774c86f05b8da146c141c60a2b]
 ├── duxfas
 │   ├── a
-│   │   └── acad.fas.zip
+│   │   └── acad.fas.zip [02d623e799cf1779ddd3a39718ad49dd8e8a13a03262ab795719ee9ed068ac45]
 │   ├── b
-│   │   ├── 15917892e45183b15d891554bf14f0bacb7b46ef5bedc94497cf2d72c29478b8.zip
-│   │   ├── 2a913df2598e75fb29c613226349db305b637c73d2d8c2f2704896c1c934ef9a.zip
-│   │   ├── d00cfd192f9a562ef10ca72586e605864d8cdd542d36061a3edc7268e84c554e.zip
-│   │   └── dda168b14ffaf4f92636501ff6ff8b96263a0e558f27d7ecf8e44c21bc7a8544.zip
+│   │   ├── 15917892e45183b15d891554bf14f0bacb7b46ef5bedc94497cf2d72c29478b8.zip [2ddf43250c204ee6db921c4186c542301b81beb647a4b155b3af80829ea106ee]
+│   │   ├── 2a913df2598e75fb29c613226349db305b637c73d2d8c2f2704896c1c934ef9a.zip [e9f0bcac5c9c4a72e120044cb2589c696f734009ce4c59ad68852f8330fe9857]
+│   │   ├── d00cfd192f9a562ef10ca72586e605864d8cdd542d36061a3edc7268e84c554e.zip [d0bc79ad0f8a659629b50221326adf1b1c2a33c065afaba7146db2f1219c40c6]
+│   │   └── dda168b14ffaf4f92636501ff6ff8b96263a0e558f27d7ecf8e44c21bc7a8544.zip [72c5621578108025ddbf4ed868e57dea6bfe6854a16e898f65251a4f71c5240f]
 │   ├── c
-│   │   ├── 0ad1407b80d697821347fd89ebe5e4cd6fb2f48041c347e022ea827f6bff0634.zip
-│   │   └── e4d5a3b3b51596f6d80f3e00bd676516399e359cef319edd5b34a395652ba073.zip
+│   │   ├── 0ad1407b80d697821347fd89ebe5e4cd6fb2f48041c347e022ea827f6bff0634.zip [5105710d3667c0b477055f387a0cace2b509043c1149ada1314df77cb946d045]
+│   │   └── e4d5a3b3b51596f6d80f3e00bd676516399e359cef319edd5b34a395652ba073.zip [e3f6493e7b0470dcb7eb41e39209188594e116407907047abc52bb0d6c650936]
 │   └── d
-│       └── acad.fas.zip
+│       └── acad.fas.zip [bca1e61028ded7be95abe98e04990b72714d0fd80635dddd229c0b72f9c7e250]
 ├── dwgun
 │   ├── a
-│   │   └── 250816b4ff6673238b3e6a7565f6e3c315851cc77e2f057cfc50a3b0693e6b30.zip
+│   │   └── 250816b4ff6673238b3e6a7565f6e3c315851cc77e2f057cfc50a3b0693e6b30.zip [0f8cdb997efff0f971e80951195f371b55939827bf2b69e24af2ec6ad861fa1f]
 │   └── b
-│       └── acad.fas.zip
+│       └── acad.fas.zip [22ff1028503a6812a0fb2362ee9c2342ab19e0a568ee10c7c2c60c58dd1e5d2d]
 ├── galaxy
 ├── gofas
 │   ├── a
-│   │   └── acad.vlx.zip
+│   │   └── acad.vlx.zip [1b129e22c423f88a8c4ea9e6460a1251f0a03aaa6e4e325ccb3fc0b5f18a99c3]
 │   ├── b
-│   │   └── acad.vlx.zip
+│   │   └── acad.vlx.zip [7b5eff0c33ef2ee450f920bb5d8d278a23672ba08664a0d1750a3ddfc121b8ca]
 │   └── c
-│       └── d9c6e0e35e6927a15347e433a562d69623ef5063fb649efc7d22f1dba256201c.zip
+│       └── d9c6e0e35e6927a15347e433a562d69623ef5063fb649efc7d22f1dba256201c.zip [54e845c357a206d5e0b80a4f44c9bc7fc422058bb8ce83b3e60ad442a68c55dc]
 ├── kenilfe
 │   ├── a
-│   │   └── ce7e02d2122cf6e82a38da6e9d18bf6b04c16ab0243ce8c6a6977630974c852b.zip
-│   ├── acaddoc.lsp.zip
+│   │   └── ce7e02d2122cf6e82a38da6e9d18bf6b04c16ab0243ce8c6a6977630974c852b.zip [a94af5428c4467db93cb0a150f443fd16d9d4940b18996b0979c531769c1ac04]
+│   ├── acaddoc.lsp.zip [70f1460939c08890eb6ea247aff2e174d20fa40da8d0f20d7b1c01c81c9d267c]
 │   ├── b
-│   │   └── acad.fas.zip
+│   │   └── acad.fas.zip [d4ab103d2fd72f565ef3f6352f0d2b1ac7da94d37214612653a9a8cf9f747fcf]
 │   ├── c
-│   │   └── acad.fas.zip
+│   │   └── acad.fas.zip [7397ace51c480e3f21d8d514ccbdd011b9ef49004655d03d71ba0e7a6134cb13]
 │   ├── d
-│   │   ├── 6040eef9d70a2e9238b46b2ffb473ab8e85c184acdbdf5499c74102c14562d6f.zip
-│   │   └── 9d5dc541e5a77277f0effda0cded254a92748bf9e553d42bba9204e3c10be136.zip
+│   │   ├── 6040eef9d70a2e9238b46b2ffb473ab8e85c184acdbdf5499c74102c14562d6f.zip [607e92e6709a396f66f1190b818daca3df7d549287885be21ad47230af5842d2]
+│   │   └── 9d5dc541e5a77277f0effda0cded254a92748bf9e553d42bba9204e3c10be136.zip [5db48b0323012046b3a6fd4ed4bf839d31bdbad842da7035283bed813bb9cedb]
 │   ├── f
-│   │   └── 28b38b2ff8b79ede63342584684ef93e55cf8cc8e85daf0180598274e7448a93.zip
+│   │   └── 28b38b2ff8b79ede63342584684ef93e55cf8cc8e85daf0180598274e7448a93.zip [f06209e53cde190273002264950c9345ebaf39d4dc807cc1a7386154d6c34bb8]
 │   ├── g
-│   │   └── acad.fas.zip
+│   │   └── acad.fas.zip [6ddb9925564481241628092cb2d54c04348d2d097dfea4e8505e61abe95a0b70]
 │   ├── h
-│   │   └── acad.fas.zip
+│   │   └── acad.fas.zip [02c7b056bd295ca1e09418cb91ece71bebd3f9059ca45d5b505c0ee86787f1f1]
 │   ├── j
-│   │   └── acad.fas.zip
+│   │   └── acad.fas.zip [03514e23491cf7c3bb9cfcdcf45c1eed7e3164f4aa08847cae357f6e7582a02e]
 │   ├── k
-│   │   └── acad.fas.zip
+│   │   └── acad.fas.zip [24d41b268f2c558312a95774aaee2643513a4ed856c4ddcc4870108137d02884]
 │   ├── l
-│   │   └── acad.fas.zip
+│   │   └── acad.fas.zip [f6896d1ce7dc56b9a34438a571adbb5e385e89ba167d0fb817fb1dd421e70f5a]
 │   ├── m
-│   │   └── acad.fas.zip
+│   │   └── acad.fas.zip [53bc85e398643497ba3599ebc277f6679f85db52fde280e3ead078d92aabbf1e]
 │   └── n
-│       └── acad.fas.zip
+│       └── acad.fas.zip [0f8f5b6ba45e83e05356b48e90949cb3ecfe8a7e56d91e2d5819f6a5ac43f073]
 ├── medre
 │   ├── a
-│   │   ├── 79baf616d2701cc26ef328cd9c13682db317932aa47efb8eb079d8af4a49e0a3.zip
-│   │   └── 961fa78df08747f6a21a39d9c2b8a802bdaad3324ff8dcd7770b5969cf101951.zip
+│   │   ├── 79baf616d2701cc26ef328cd9c13682db317932aa47efb8eb079d8af4a49e0a3.zip [019ece8b1b69848e1c137e61afb06952762e5235df39a70668f330041fb712b2]
+│   │   └── 961fa78df08747f6a21a39d9c2b8a802bdaad3324ff8dcd7770b5969cf101951.zip [d53e26aabf2823076e668dbb2a07a4b94cfc3259d1fe7a2c1fc16ffdd03d5b6e]
 │   ├── b
-│   │   └── 82f577cbf3cf8f12315bcaff906dd66f610f6ab6015debf1dca120d9e7335549.zip
+│   │   └── 82f577cbf3cf8f12315bcaff906dd66f610f6ab6015debf1dca120d9e7335549.zip [a955e000f4282326cf02281cb500f1b3ed7570bd3ef04244733af58b3aec9f36]
 │   ├── c
-│   │   └── 05aee8e4f089b18867f2a20c8905e95e131aa1fb28eea77773c37d94a777c816.zip
+│   │   └── 05aee8e4f089b18867f2a20c8905e95e131aa1fb28eea77773c37d94a777c816.zip [e839e00cc3d027e2620b8c634f045481afba413f9840f7ca082056fefad88989]
 │   ├── d
-│   │   └── 2fc22777f5c63f02f793473b1b210e83d25378badc5defa09a65353c1763518a.zip
+│   │   └── 2fc22777f5c63f02f793473b1b210e83d25378badc5defa09a65353c1763518a.zip [cbe4e93ec9efffd8e9028475b1eb32ea1de91b80d703e6d742454d97034b1d72]
 │   └── e
-│       └── d92d640ed8ae3ce99eabaad3fa9cd5193b17da3d963dc793e4d38ddbbcfa89e5.zip
+│       └── d92d640ed8ae3ce99eabaad3fa9cd5193b17da3d963dc793e4d38ddbbcfa89e5.zip [7a210866e190a9c62ae289caad2e06837cfd2e97ffd8e40a1ba2e466ac2441d9]
 ├── neyer
 │   ├── a
-│   │   └── 0be09e718d99d7a2e7c648705bf1da1597b20b1b7a2e5cd45e5ab00ea401e586.zip
+│   │   └── 0be09e718d99d7a2e7c648705bf1da1597b20b1b7a2e5cd45e5ab00ea401e586.zip [ace755af8742eaabd567d9fd069ea85d3407c9279fd45482ef3b88bd376b07ee]
 │   ├── b
-│   │   └── acad.fas.zip
+│   │   └── acad.fas.zip [e250f8a004136d9d41c77d34f3f2db963dd9acea6eb834b1562d52cb09c0437e]
 │   └── c
-│       └── neyer-b.zip
+│       └── neyer-b.zip [0f04cdaae9256392ad2b2958670ce3f491b76c1b5a5417994d5bfdf7532682c4]
 ├── pobresito
 │   └── a
-│       └── Virus.Acad.Pobresito.zip
+│       └── Virus.Acad.Pobresito.zip [0ba517e013d046d7d2037bca0bd3ce5b289db886eda3cf02bcb27b3aa7c2d2d8]
 ├── qfas
 │   ├── a
-│   │   └── acad.fas.zip
+│   │   └── acad.fas.zip [7640e4a1fa61892d85dfaf25921dca4b753fbb68113823c2fe01c97817a1c387]
 │   └── b
-│       └── f07974728e6c06f1198da1efabf277c587f4d73437fa07466969156320e2dc37.zip
+│       └── f07974728e6c06f1198da1efabf277c587f4d73437fa07466969156320e2dc37.zip [f67f4a4c2c43ac5252fcab47b287393cadde90aaa54e2637af883c2977386101]
 ├── recfas
 │   ├── a
-│   │   └── acad.vlx.zip
+│   │   └── acad.vlx.zip [27a9953d6647f4c1ec3505735de77f88c4a3e2891b1d8618c5336002668ff6f7]
 │   └── b
-│       └── acad.vlx.zip
+│       └── acad.vlx.zip [256e561441920cc1521cdc0b018f1707937826f76e9bc4410fcc06747a053c7a]
 └── wonbaful
     └── a
-        └── acaddoc.fas.zip
+        └── acaddoc.fas.zip [8678b1d260c2397bce82d94e286fc66abeebe02c492295a6b6cd91e5de3e1a9a]
 ```

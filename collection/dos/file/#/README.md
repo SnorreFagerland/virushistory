@@ -10,19 +10,19 @@
 │   ├── 748
 │   │   └── a
 │   └── 789
-│       └── Virus.DOS.10past3.b
+│       └── Virus.DOS.10past3.b [40073839d48eda97a4b73353f36de80e313bbc05fdd5a9ac44af76fefff3c11c]
 ├── 2_up
 │   └── 6000
-│       └── Virus.DOS.2up.6000
+│       └── Virus.DOS.2up.6000 [0e75b94b4cc4ca1c668e5bfaaae7c22a47a59a7ebb892fafb3dbfb8b26ffc000]
 ├── 3apa3a
 │   ├── a
-│   │   └── 3APA3A.!OT
+│   │   └── 3APA3A.!OT [ef575589a6092831eb15f8c600b2f078dcbcc529b517417103141e717a8ed5b5]
 │   └── b
 │       └── 443b3c8de71f59abbe610ac8cde1bc6ce991bbe9a6d6890e40e9cdcd804fad95
 ├── 3e
 │   └── 384
-│       ├── 3e_384.vxe
-│       └── virnew.vom
+│       ├── 3e_384.vxe [f3fbdfe43321591fa8de5a7a26e940b2e4bba4c121e8d3b694928c1e38717724]
+│       └── virnew.vom [977990fc68ff676d3853eb069f737f8bb74a5ba57730b68b8947abd46432ca27]
 ├── 3y
 │   └── 853
 │       ├── a
@@ -32,188 +32,188 @@
 │       └── f4ceb03696d8a5b95c86f77fc32676c68118e278718fba9e6332a8b070cdddf2
 ├── 4on
 │   └── 1346
-│       └── 4ON.vxe
+│       └── 4ON.vxe [c191667086a22bef0c0444a4c5b066552a96d2fd18570dd8b6375dae7dd34cd6]
 ├── 4res
 │   └── 1049
-│       └── Virus.DOS.4res
+│       └── Virus.DOS.4res [b8c14a5e8493f4aa77b1a6307414269f7821f3dca63349ad1ccbc5608c7dc977]
 ├── 5lo
 │   ├── 1024
-│   │   └── Virus.DOS.5lo.1024
+│   │   └── Virus.DOS.5lo.1024 [ec8dcc44b19774f8811da170fd881eb09af0686a05b718cccb850f54f5c2203c]
 │   └── 1559
 │       └── 384c55b7590d5c3b793710595c80b22987c07060a98ad79c0c5912fa30e30efa
 ├── _0130
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   ├── t9.vom
-│   └── wci0014#.vom
+│   ├── t1.vom [a5488fb3a7acacd2ed61595ba33f0161fb01daab901241df5455721fd5986483]
+│   ├── t3.vom [40f64241e6bf293fc07de7225841efb035c0269d20dfc6c05cbc08be92152105]
+│   ├── t5.vom [2e45d8683cd964339dcaef7015ccc1b2a1d6a6f8328c3812790bb66c88e32ff0]
+│   ├── t7.vom [c1a349f13949e139103aea91917c2e36a4e3b46f9edbdb96395ee1fa19c59581]
+│   ├── t9.vom [85a5e73b254f4e7039fad7457691bb7588b568996354af3c0b5c26565ddd8ddd]
+│   └── wci0014#.vom [a147deaf3076b7287aab63aaf53ce0860426934c5f41274a8c613fc2529fc22e]
 ├── _0164
-│   └── wci0001v.vom
+│   └── wci0001v.vom [3dfab344b5a28eec14bfe2af7faee50c1254e515f0ba6f433b19f0d9c1a8c5cb]
 ├── _0200
-│   └── h200.vom
+│   └── h200.vom [6d9681d69d8d08042d3cbeb75ad64848a9959081b7398149d2409e2b14a4da22]
 ├── _0226
-│   ├── Virus.DOS.Search.226
-│   ├── t9.vom
-│   └── wci0029#.vom
+│   ├── Virus.DOS.Search.226 [2680131771697af084f31e7d38521e409acaf65a755e2092e0da3b35b94c77e9]
+│   ├── t9.vom [f4adc73975dd6d13a03c3a73847e8d26f296aff077d510040ea3e6678d589d64]
+│   └── wci0029#.vom [cd329506ec6d7b193d14cf2e4ff9ac70bd5efbdfe0696f6f5d7077a124a5b91b]
 ├── _0229
-│   └── Virus.DOS.Tiny.229
+│   └── Virus.DOS.Tiny.229 [c207aefd632f0be59d2604659d39922671a84e1d9f53bfd108dda3bdbbc31abd]
 ├── _0241
-│   └── sc-241.vom
+│   └── sc-241.vom [5632390a86bc93af0f72ec69aaa56b316b5c68d7bf2bb2ac560bedb810419b59]
 ├── _0310
-│   └── h309.vom
+│   └── h309.vom [f17c51ef03429fd63244964587ddbc7457f060309f945e29b0fdc75320262c3d]
 ├── _0330
 │   ├── a
-│   │   └── _330.vom
+│   │   └── _330.vom [4369628b4b7fad1a9a9830356826ddb2815ff42092f53c4166640380d13adfbb]
 │   └── b
-│       ├── _330_b-001.vom
-│       └── _330_b.vom
+│       ├── _330_b-001.vom [f108feb506f8f5c2552f099fb9409ab008b95749cf3b405ad3e6ba2782e84ab3]
+│       └── _330_b.vom [86564aae4424b57380cd2bed075c156dd1392619b3e4c341ad3b1893f3643384]
 ├── _0353
-│   ├── new353.vom
-│   ├── t7.vom
-│   └── tf.vom
+│   ├── new353.vom [e4ac7d101583afe7c584b525ed1629602443f801ba054eb5bd39b7420086991e]
+│   ├── t7.vom [72fb23aab7044153e3c4c624d5af3ba25e3c3dd8d6383caa547d97eeba48d3bf]
+│   └── tf.vom [834fdb0b9eb64f8d1dd1ffbcfb11ddd28927617f39c038144ccae1438496906a]
 ├── _0361
-│   ├── atomcsea.vom
-│   ├── grep.vom
-│   ├── keyb.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── wci0039#.vom
+│   ├── atomcsea.vom [7731d340f0dad02ecaadecbfd0b7c417d754a56168c073c72768bc382f8b48ee]
+│   ├── grep.vom [5ef6464a5e84ba2d4b6f6108b0beebee6e07b23f9615e4bdec27842069910702]
+│   ├── keyb.vom [65a9b24dacea07956be58117dfb890584ac11e26aa39b9b51d13ddb17ed10055]
+│   ├── t1.vom [945770a5f3441ecd4981f00821bbba9d7d1f229dd1aae812b15fc2b77b641a25]
+│   ├── t3.vom [649237bcae4691ec3ca8cbf59fbc98b010b5466d592d74f551c064f21f0bd688]
+│   ├── t5.vom [0e218028d30cf244be08842a006dbb3ddb71cefe5f6ffbedb237e34cb784e825]
+│   ├── t7.vom [3a0c7e217f2938f7647b8b2f253ffcde43d2bdafac3f8bede532cdb5b3c3646d]
+│   └── wci0039#.vom [b30596268c9a99d744fd72a63a730ad1845b8929797e60050063355ef7c20abd]
 ├── _0380
-│   └── 380.vom
+│   └── 380.vom [bd5e89682b78017bb913ac4220c4d08a892cc5148063d31ca919a11cfc744ef9]
 ├── _0382
-│   └── virus.dos.v.382
+│   └── virus.dos.v.382 [8aab91e3c94044f35e37cf04c1e9d9b2fd8ef8d8b9b8ea30ab113f2b5b1045bf]
 ├── _0388
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── v388.vom
+│   ├── t1.vom [423ede4c0e22595e06f5b2aefa49c810f71a7134a18543b22078dc1163827a46]
+│   ├── t3.vom [69b783ce2e4a19c81ea58e06426702b3bfbb0ead003bbb7370de1254f9af54ac]
+│   ├── t5.vom [601c46cb92410059ea45d1bc5397f1af935dc26156ce92e4c4397eb55be41128]
+│   ├── t7.vom [2d7f527a52b7a3db918bba7af6bb3a9ba9b0d58e8bca0413e2e11d966e3b7aa8]
+│   └── v388.vom [5605070ca0e82e464d2119d25d92cc3ef2e693a05afac57c97b139610094deab]
 ├── _0452
-│   └── Virus.DOS.SillyC.452
+│   └── Virus.DOS.SillyC.452 [424a693ed1f2355a9f75f478fbfb912f2e61ae9319ed43f9e2121005c049ba37]
 ├── _0509
-│   └── Virus.DOS.SI.509
+│   └── Virus.DOS.SI.509 [407b8abf2a44fd982677ff5511bb5999fc9a7ca20cf9559f57b8129094754502]
 ├── _0514
-│   └── virus.dos.v.514.a
+│   └── virus.dos.v.514.a [643558bf2d99900df83612b8d7d9385efaef0d811c30c266939533ada675024e]
 ├── _0525
-│   └── _525.vxe
+│   └── _525.vxe [76a707946aded1089048a426dce34a58c65d85582838a83ecd145993ca3c0107]
 ├── _0553
-│   └── v-553.vom
+│   └── v-553.vom [bd0e8e5876d39d76583678c43e337ff4ae6374bf4d3a2ea6ef5d4b41feb72107]
 ├── _0600
-│   └── virus.dos.screen.600
+│   └── virus.dos.screen.600 [ffa8d4ce258d57e51488e43340bb4cc41a644c175a2bbfda52ff135a9198acb2]
 ├── _0613
-│   ├── wci00513.vom
-│   └── wci1037v.vom
+│   ├── wci00513.vom [ac2e2c9e0971759427cc9c8e6b424c6466c56729e92c078e09f3894dfab629b2]
+│   └── wci1037v.vom [c236c0d4ebe1e844a79421001fe37069429b91b72d223e2bcc096db008c25e44]
 ├── _0625
-│   └── virus.dos.v.625
+│   └── virus.dos.v.625 [f85f8467c7fed25dc471e215b447accb946d8a7052bc636042179783e009bcfc]
 ├── _0641
-│   ├── _641.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t3.vxe
-│   └── t5.vxe
+│   ├── _641.vom [bc038891fa90d604bb4670bc0b16f8ebf837992526cb0df5017fc2da40f511fe]
+│   ├── t1.vom [7cec2b167c9aabae826b8e8854fc6de20043be963369bc380c4a23eabef310dc]
+│   ├── t1.vxe [3dfa38ae3a786f496f371880577d1b53d6e923e915135f5e2846c3cbe44ed766]
+│   ├── t3.vxe [d6078dce250e9025ee7512ee717c2c01f3a45f085bf57ee61729ffb5c095acdd]
+│   └── t5.vxe [131d7a8eb28c4b1beb084ae1adbf0131d83a6e9704efdd4e1e874e8e7cbc6528]
 ├── _0658
-│   └── virus.dos.ww.658
+│   └── virus.dos.ww.658 [a0cb88c3b68459b513f24a53339cbc1346bb8b1922ff80f37f6861e60b8caea4]
 ├── _0664
-│   ├── sc664.vom
-│   ├── t7.vom
-│   └── tf.vom
+│   ├── sc664.vom [aad91eb4d7684bc03f81a717a4205f93f727c6ed5c5032b484eaa79dc6d3d1bb]
+│   ├── t7.vom [bacc3e832c8bcc298bf4a7999d0e4dbee87bd2f147574f7368d354cf8fb07bfe]
+│   └── tf.vom [a81c9542546a3c3fff69a5bc3ab45235312d6bdb289039ba2653601261d1fefb]
 ├── _0666
-│   ├── qres666.vom
-│   ├── t1.vom
-│   └── t2.vom
+│   ├── qres666.vom [b8e52251c22c7499f5a6053674661aecc6a6511876d1d46da10b1e7f0a34541f]
+│   ├── t1.vom [76122cc96acf784f092eaffd38b11a779cc94abb61d99187057ad608ef01d453]
+│   └── t2.vom [f3e127d2059e92f873046c8d211eabcc35acaae7043905becf3487302b9a3b55]
 ├── _0667
-│   ├── t7.vxe
-│   ├── tf.vxe
-│   └── v-667.vxe
+│   ├── t7.vxe [cf64302b16b7202e3cd5abfd1690153c2c38727b4709042c4b7626abae007f0e]
+│   ├── tf.vxe [14e72167ae4aad85c9d147b440d00164b163c16582b48abc1e528b6022400449]
+│   └── v-667.vxe [e83ef1f21d2d5d7e9de6b2b170dbf0669140bbdbc39a0d98ca9dbcaab66d8d79]
 ├── _0677
-│   └── Virus.DOS.BF.677
+│   └── Virus.DOS.BF.677 [3190fa0850485cc2342629f2dcef79d7366cc96f6ad8968445f1e05b241d056a]
 ├── _0723
-│   ├── t1.vom
-│   └── v723.vom
+│   ├── t1.vom [143b1ce69956d9d81294eebf42923fb0bbc944b34b98173a80305353b6bc7866]
+│   └── v723.vom [83e7dde97b671f24e9a1ee813a67b8e0aac893d4795e20f4fd22b4df84286e41]
 ├── _0736
-│   ├── DUMP32.vom
-│   ├── LWM.vom
-│   ├── t1.vom
-│   ├── t3.vom
-│   └── virus.dos.w.744
+│   ├── DUMP32.vom [45c07371cecb3929e95117546991a163339b892ff4f4da71ee627e6e1d052368]
+│   ├── LWM.vom [9904b9f544cfd5d06528860fccd7e94008c46446967f3340226758487dd21f71]
+│   ├── t1.vom [7eac645a2129c659236e67ef7c3b985a08ba4c1746adba830c1104aaf9ab3e08]
+│   ├── t3.vom [0f34056a365c7957852f34c406f466e41e2f52724cb6a971916cedce66c1e87d]
+│   └── virus.dos.w.744 [5990d9f51edf0d45fbd8d6a922de84656c531d1798ac99583e742298a74c54f9]
 ├── _0743
 │   └── b
-│       ├── 1-_743.vom
-│       ├── 2-_743.vom
-│       └── 3-_743.vom
+│       ├── 1-_743.vom [174473cb4a5cf34d0b878d8f63997dc29b9f1daf4b653465584525314d6cf345]
+│       ├── 2-_743.vom [d402d2924416b8eb659cdad09a60f8777c9626bab0ebec208c8495d4671b1282]
+│       └── 3-_743.vom [41f2484976d5fc43580a42ea9b7d460f0c4c8a3865cd748f4f79b3e44372727b]
 ├── _0793
-│   └── Virus.DOS.AJ.793
+│   └── Virus.DOS.AJ.793 [6678c1ddfab107a145296d4e91b0cac01f9cc8d4890b2b77c90be5bf91f065b3]
 ├── _0809
-│   ├── 715.vxe
-│   ├── t1.vxe
-│   └── t2.vxe
+│   ├── 715.vxe [794c90ad1d25092b53df25b9889e6a9fcba4ed5654927c69650660a57a74ad13]
+│   ├── t1.vxe [e24a106b7b1386e84988840e84b5ba9d4d6ac9379e790e707ca076ddea5112a0]
+│   └── t2.vxe [958586d974499bc783610ed8d239900bdb43c99a2b7e4753cd2fe6396e732982]
 ├── _0814
-│   ├── 814.vxe
-│   ├── _814.vxe
-│   ├── ramthief.vxe
-│   ├── sorin.vxe
-│   ├── st.vxe
-│   └── v814.vxe
+│   ├── 814.vxe [6da77c9d0a2724e753d5fa6d5ea4aac620866c915fbe4027c6cd105d1aa651bc]
+│   ├── _814.vxe [29bd1cdfeb68d40cde2792ac74acaf861ead7aa3784afa0f0d4b61107c38e531]
+│   ├── ramthief.vxe [33e647568b5a4226fc0a4648b63b18c48d85274e559b74382d241366859a98a8]
+│   ├── sorin.vxe [4c999f32c127981a68fa3c8c9b646e9be8f371e296787231e442a11bc10bb8a5]
+│   ├── st.vxe [0a43a398569e13f9de0ec9f6436c154b7a3de972a7cfeead62ac916a6be8ab34]
+│   └── v814.vxe [6f43f8a5e9b39e66b003381a0b3678162ebc43baccc0ee14f26a1158f5859dfd]
 ├── _0897
-│   └── virus.dos.v.897
+│   └── virus.dos.v.897 [45f2f900c8ea24b80fcf8a0051aa5818dc987ab7549d937c3b5010548fdbc045]
 ├── _0901
-│   ├── silc-901.vom
-│   ├── t7.vom
-│   └── tf.vom
+│   ├── silc-901.vom [28a7c50be969bc79e7c31c4e91e1c59e56ccbb2105215dd34600bbb2980f8a42]
+│   ├── t7.vom [fde891929849dfb1b8c90d752df6f5705338ca658670b744cf9c8adbef000618]
+│   └── tf.vom [243ec901f8787d00cdc88353db490a8f28be71a62e9ae96378c5646cf2b3e6e2]
 ├── _0932
-│   └── Virus.DOS.Andrey.932
+│   └── Virus.DOS.Andrey.932 [d2a9335c2a6d1776a417886e24f0ea2300531a4e13d002a7eeabad58eadf1be6]
 ├── _0935
-│   ├── _935.vom
-│   ├── t1.vom
-│   ├── t1.vxe
-│   ├── t2.vom
-│   ├── t2.vxe
-│   ├── t3.vom
-│   ├── t3.vxe
-│   ├── t4.vom
-│   ├── t4.vxe
-│   ├── t5.vom
-│   ├── t5.vxe
-│   ├── t6.vom
-│   ├── t6.vxe
-│   ├── t7.vom
-│   ├── t8.vom
-│   └── wci0066#.vxe
+│   ├── _935.vom [4386d5854b352e1316316f9eb7b6e3e6da3cf456dc9086997005f3cb8205199f]
+│   ├── t1.vom [2b2eaaf2647fc7ae1a49d5df77cadf58b8b6fd98251ed647854013a0d46dacc8]
+│   ├── t1.vxe [b1e2ad1ed9906307273f50bc32ecc3514f3c59ef7300300533ffd97775a09a46]
+│   ├── t2.vom [5ef8957eb65755b1a86774ee52141a7caf0b253d472c0253d2c882158cc5bbb1]
+│   ├── t2.vxe [366d6dc95505d3922a0716e40c55dfe6ca8374d315f934b79c313e9a992151e2]
+│   ├── t3.vom [171eda66464194d858fa6fae5e47ae4eac9f46cbcb1dd70836581c2b8fb0bc7d]
+│   ├── t3.vxe [69e4f25426f6590616eec99e5618ab4f597b049a77365395816622a1dbb035a5]
+│   ├── t4.vom [5646a927421d4eb345515f105f17200067acb99a6e2e9bb6b796f1f3793715ee]
+│   ├── t4.vxe [cae4385423e72d23aa61fbdbe22f8691677221d764c96cece91dbcf57f916a91]
+│   ├── t5.vom [209c2798ff1f8ef08312ccab9026405252389326412e7ba1b08ae5e647c9033c]
+│   ├── t5.vxe [7a828a9a4f27f1f2c2058112514cb659d01702f09c062f73cb2fb1ad2714d21a]
+│   ├── t6.vom [d6ff5c074027a327327fec31e5572e53f7391f2bf661fd9149a2b9281ff3ae1a]
+│   ├── t6.vxe [6288be09bfdb54ca669a9a7869f7e3e626733d1cf02a535489f3dc5759ae6390]
+│   ├── t7.vom [170a5ad730dc89a9eb445717eb4f9b2c999a29a4aa2036510689be2f19719668]
+│   ├── t8.vom [752e57b24d39d6b8967581a20a601d7bc5c2406bed92373b9a41f46defcacef6]
+│   └── wci0066#.vxe [0e0a183d29efbbc74b1ef63e490f37367889b08b5a5bf0989c4db20aaa309f9a]
 ├── _0936
-│   ├── t7.vxe
-│   ├── tf.vxe
-│   └── v-936.vxe
+│   ├── t7.vxe [e0df153d57a7b0cfabb87a5ae93c02011d801370b11ff665dd84cb57896a9c54]
+│   ├── tf.vxe [60a2356334ea20ce477f000fccae531b70491a2053a72334fd4ec362ba14ab63]
+│   └── v-936.vxe [3ff5df403edb44ab255f2bfb116ad99eac48809ad3ebae4acb54ea0c50c77c1a]
 ├── _0938
-│   └── _0938
+│   └── _0938 [70838a49580693d358d2925f132afb250a2daf7315473c1a2ea1f60f57d5b3e5]
 ├── _0948
-│   └── Virus.DOS.V.948
+│   └── Virus.DOS.V.948 [c0af2999070e21494af2c94913404a8ed3a7379d902537c372282df0447477dd]
 ├── _0974
-│   └── virus.dos.v.947
+│   └── virus.dos.v.947 [58cc7296de473a01de57c8db6b96a0a6eaf62ea1ed34ef7e7fd4ec8185f6dd9e]
 ├── _1024
-│   ├── Virus.DOS.V.1024.b
-│   ├── t1.vom
-│   └── t3.vom
+│   ├── Virus.DOS.V.1024.b [e77fa078150f771dae44c2b9df456a374605c1d29565c79b139f9f7aced2161c]
+│   ├── t1.vom [b5cce9bbf0a4814875b83cd9f34f16657f619c958810c73279e61a075ea08af3]
+│   └── t3.vom [30d5ed009a688a6f630016f55ac99ba3ce2a0a564ef01129ed1dac1afbc206da]
 ├── _1055
-│   └── Virus.DOS.V.1055
+│   └── Virus.DOS.V.1055 [18f1bfa25d0b6ef39000ccdd32d1e195c175fa8644b689041b2740dab68ba1ab]
 ├── _1089
-│   └── Virus.DOS.Spyvir.1089
+│   └── Virus.DOS.Spyvir.1089 [bb9120d6d5cac686cfb107a005981b28f27ffa0e070594ea412893e773d1cb10]
 ├── _1191
-│   ├── _1191-001.vom
-│   ├── _1191.vom
-│   └── _1191.vxe
+│   ├── _1191-001.vom [98fcdba86adec605367cabaae6f30512c6a5600416cb9f5e4e1921c6b940da2f]
+│   ├── _1191.vom [fa988fa9e3601902ce693865076b20b791250d35fb0c844633f7456a9c908f69]
+│   └── _1191.vxe [58e9561889db844e8db4c8945c2ee3be7dbc26e750835055f3ac1c28705c245c]
 ├── _1259
-│   └── Virus.DOS.V.1259
+│   └── Virus.DOS.V.1259 [a49e0665a37808559703e50eeacca6fc9398628a8700fa33a9615eb06a8af42d]
 ├── _1320
-│   └── Virus.DOS.V.1320
+│   └── Virus.DOS.V.1320 [744a6e1252078351461899f2bd2de82f7d9617223cd5dc1e9932a20ffb5064fb]
 ├── _1453
-│   └── 1453.vom
+│   └── 1453.vom [25eafba30ea0828874003f465312c1113cf6289f3594eeef2e759742ee5d1a22]
 ├── _1838
-│   ├── t1.vxe
-│   ├── t2.vxe
-│   └── v1838.vxe
+│   ├── t1.vxe [ef05b297af57d3a7f1a624ee4d34c42f10f15d9e5204b98e4f4d56b97bbbbd37]
+│   ├── t2.vxe [e5892ef73b849467d7707cf88f8384c3a261f3a50b0d2538560fd6b63838a23f]
+│   └── v1838.vxe [3cb2fe49821ab98b3e0d9fc76411d8edb98b8bb731c8c29dd6fcd60bdbccaa28]
 └── _3809
-    └── Virus.DOS.Bomzh.3809
+    └── Virus.DOS.Bomzh.3809 [55ee6c05ae51725aba1e1b3778e76308f320dbda741cddfe5db9ead8e9e6b757]
 ```

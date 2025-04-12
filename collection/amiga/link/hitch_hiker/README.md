@@ -3,63 +3,63 @@
 
 ```
 ├── 1_10
-│   ├── hi_hiker_infected_cd
-│   ├── hi_hiker_infected_lha_1
-│   ├── hi_hiker_infected_lha_2
-│   ├── hi_hiker_infected_list
-│   ├── hi_hiker_infected_loadwb
-│   └── hi_hiker_virus
+│   ├── hi_hiker_infected_cd [eb11945976f3f3fe2a81b0140c377aaba90c709175aee37f66f09d755700e1b3]
+│   ├── hi_hiker_infected_lha_1 [b54890c1f8fdfbac1121f55095aefd84c7b46db5dfe1485a94e8b3c6fc635b33]
+│   ├── hi_hiker_infected_lha_2 [14143286cf682b94d41fb86a5f1b0f8b4ad1d07905b14f5ccf31bffcbad7a874]
+│   ├── hi_hiker_infected_list [44015cce7a4d20389a40130e9cd2d81c58d492fc86d0fc88653493899b4802c2]
+│   ├── hi_hiker_infected_loadwb [6ea2fda5a24fcc56916f213a4a15952524a992aaa7b84d80026c93020349be50]
+│   └── hi_hiker_virus [1f419b4eeb21f64764704be3662884f6a4f7d355fec0678cce1727060e18d50c]
 ├── 2_01
-│   ├── hh2.01_apper
-│   ├── hh2.01_assign
-│   ├── hh2.01_cd
-│   ├── hh2.01_closepic
-│   ├── hh2.01_copy
-│   ├── hh2.01_cpu
-│   ├── hh2.01_delete
-│   ├── hh2.01_dir_1
-│   ├── hh2.01_dir_2
-│   ├── hh2.01_join
-│   ├── hh2.01_kcsconfigmem
-│   ├── hh2.01_launchpad
-│   ├── hh2.01_list_1
-│   ├── hh2.01_list_2
-│   ├── hh2.01_loadwb_1
-│   ├── hh2.01_loadwb_2
-│   ├── hh2.01_magicmenu
-│   ├── hh2.01_multicx
-│   ├── hh2.01_version
-│   ├── hh2.01_virusz
-│   ├── hh2.01_wfv
-│   ├── hh2.01_xtruder
-│   ├── hh2_01_diskfont.library
-│   ├── hh2_01_filevirus.library
-│   ├── hh2_01_mfm.device
-│   ├── hh2_01_removelink.library
-│   ├── hitchhicker_2.01_noclick
-│   ├── hitchhicker_2.01_syspic
-│   └── hitchhicker_2_01_inst
+│   ├── hh2.01_apper [24374c1cca107d818442a856efa2575e221f2b23c0791fce5c703965b2e7d89d]
+│   ├── hh2.01_assign [c0d24a90dae193f2ddbd67dc50b65ef48882c573c0e80f48e10a8c390825179b]
+│   ├── hh2.01_cd [f33800182b088310b0d5ff631c3cddbea405f1bbb91214dcf8d7dea07bd6d59b]
+│   ├── hh2.01_closepic [29ba2b961cd8cf045a2285b6d2c3c4dfd9f4110fc83e9adfb85587b79679bd6e]
+│   ├── hh2.01_copy [c6530645752180f98ca05eef3101eb93f76175ca26b1ea6297d29a9e4f324aac]
+│   ├── hh2.01_cpu [6421f99d82d925c4c61dcbf0c1746c6b1de70bf444ff519cf751c1d17a5e8fa1]
+│   ├── hh2.01_delete [58e10cab431bad3343439cf55aa268c51496f5a82068cae9c91e08870e15b8bb]
+│   ├── hh2.01_dir_1 [6367141d0a91b1563ed497f62e631bcfa179086abcf029db8a9fd6759049e103]
+│   ├── hh2.01_dir_2 [bd9adb6e2fadb4d705c4f90da743605d985691a72713143e1df299442ee4ad7e]
+│   ├── hh2.01_join [bd89479e0dad3a36034b2919eaa4640da2fe7789c7cc10e80aa99957420c40af]
+│   ├── hh2.01_kcsconfigmem [b61169c12ef2544c77c7061be11aa0fb7bbda551a50d451e445101d228d1d763]
+│   ├── hh2.01_launchpad [43faa1c18ff63b44f27b8af94e7f6847dc765ae4c45c04ad064f4e39b0efeb65]
+│   ├── hh2.01_list_1 [a04c425e825e9313c3f895231dba59fa8f01232bb5f45a31c1e2d99797e96129]
+│   ├── hh2.01_list_2 [f743dab4caab3a57e2857cbcbfea872725ba1621a452b268bdf1fa4f39fac0c0]
+│   ├── hh2.01_loadwb_1 [ee93f5d23c732ee80135bde196b97b993a2e959128631fcf5346dca48ff0267d]
+│   ├── hh2.01_loadwb_2 [52b7587afaafb2fd4b4cbfea95cb8d33e342669d350f67993088cdbe9088e7b2]
+│   ├── hh2.01_magicmenu [f6c9e2a29cb0bb4611870374db75260234288ef44bc4fc89ede9f6081c41d7db]
+│   ├── hh2.01_multicx [15018f7b55cb872b76419dbec120480e40975c87f787d23060108ffcea00e014]
+│   ├── hh2.01_version [9f35dc6cde374f37a2842214fdf3e93352d138a1a384fdf446266ea718f06a0f]
+│   ├── hh2.01_virusz [519f8d394d468c8737dfdb442852ea941f17f0ca6df60d733ba8d84d89035c54]
+│   ├── hh2.01_wfv [72c4a39729a59107b3878a2810840e950602cef734435c20bc89120a33ce855d]
+│   ├── hh2.01_xtruder [eaed24006fee065cb77f759e25b11d4cc843458d5894dffb942b69adf3c6a2e0]
+│   ├── hh2_01_diskfont.library [1daf239f9a07dda48b4269c291e4d505e76641d61b11d643a76ee60c9ce4ed74]
+│   ├── hh2_01_filevirus.library [5aae2ceb08cc9f197ffd7248bfa5d434a4155e717f6bfd6c522686ded857c6ad]
+│   ├── hh2_01_mfm.device [1d6cfee4e6266274ab8eb2f496b3ac82273f1994c2380bae1c4e3c30f9c21721]
+│   ├── hh2_01_removelink.library [d8565178b7397de42224f8936931fee61a4b3686cb2da8ead7ba06e85c1eaf93]
+│   ├── hitchhicker_2.01_noclick [89236f02323c9facdd0ed3a3e2dfe31229a12a37dcde918107ea4c975d0e9a27]
+│   ├── hitchhicker_2.01_syspic [53a22db110118e7a94cdba9f819fe6c3214cad50a9e721a445391ffd419a72f0]
+│   └── hitchhicker_2_01_inst [ab273832c858241a401352f738eae0ee6a7e082c8a283f146c4e5486316595a9]
 ├── 3_00
-│   ├── hh3.00_assign
-│   ├── hh3.00_assign2
-│   ├── hh3.00_copy
-│   ├── hh3.00_delete
-│   ├── hh3.00_dir
-│   ├── hh3.00_execute
-│   ├── hh3.00_fastwaitblit
-│   ├── hh3.00_filter
-│   ├── hh3.00_list
-│   ├── hh3.00_loadwb
-│   ├── hh3.00_ls
-│   ├── hh3.00_makedir
-│   ├── hh3.00_relabel
-│   ├── hh3.00_type
-│   ├── hh3.00_virusz
-│   ├── hh3_00_commodities.library
-│   ├── hh3_00_powerpacker.library
-│   └── hitchhiker_300.virus
+│   ├── hh3.00_assign [9c231737aedf3ca62a4d942490656f4245a77599bee7d2f72a730f4f3ad8c4db]
+│   ├── hh3.00_assign2 [0f72af5a3714d7fa717b13164e3317282cfaeb700d7fb7ea4ead855b5601e7ba]
+│   ├── hh3.00_copy [9e35c3d56616cc90d0a0542c16ce84bbe6fe7dd1ff007e249a785b9a5e7ef4e9]
+│   ├── hh3.00_delete [0c19b462e2a3adad0602dce5586a87c3cedb05b1fd3ca585c0871beb76bb8625]
+│   ├── hh3.00_dir [4bda38d6e9f168f2503d2eba00b12a3664319eec9750aa8b5d940d182a1f68ca]
+│   ├── hh3.00_execute [b08f2ff6a4dd66bc335ac06577e93bb7b47a62081b5ba7282b1ca6de749b8c0a]
+│   ├── hh3.00_fastwaitblit [5f102c8073ec6d3da4731725692b2caf2d281b5bc792639e79c83d6d616d84db]
+│   ├── hh3.00_filter [960a6db27a3694705ddc5875bd4e8db18ff1d8afe48c29b62c3363bd477e1250]
+│   ├── hh3.00_list [a63b5fe9c1a297075d68f151f17a8099adff281ced5d78b4123223e8ceb74b5d]
+│   ├── hh3.00_loadwb [998c656989b707454900f4041f591a7ee87d5169919efbd12e221d6e8ae8575c]
+│   ├── hh3.00_ls [4fa4001faeb1d969897d3cba2bc99df4f8bd972e8450f6c7d7b16721a2b2eb10]
+│   ├── hh3.00_makedir [b725c109d027bcb01442f815cd97ae4136b4374941e1ec9049ce6a148d3046a4]
+│   ├── hh3.00_relabel [48240cbe094b6a8c24c17b1965d0f7e01f97bb4ffd28c3412fdaf935fc61aeb3]
+│   ├── hh3.00_type [e6fb19881411ccd5550a114c99486950171edb67372e8f65b1da287ad35bf9b1]
+│   ├── hh3.00_virusz [6f3e054acb0396d8baba876bfe14906800357157f13e77dda466e6ec5c30e0f2]
+│   ├── hh3_00_commodities.library [778a65ad2584d888578b1f082e76297d2c3e7226fafe522756c047c5f25007cd]
+│   ├── hh3_00_powerpacker.library [0d51beb14a77381ab5ca70afb3dadab34ac943b69e1c251dc491f8510af425b6]
+│   └── hitchhiker_300.virus [5201e79dd842a77ec49e85bde24342ed4959caff71ce9b36d6b7a8d5537a2ab0]
 ├── 4_11
-│   └── hitchhiker.411
+│   └── hitchhiker.411 [102911c4fcff2e7e949c94e3124a6f640094553f65790e609efda4c4d92f3690]
 └── 4_23
-    └── hitchhiker.423
+    └── hitchhiker.423 [481b66a0614a50a1343b1da59bde4b7ef98cfbf754ee361f0ef604f273b65c40]
 ```

@@ -9,7 +9,7 @@
 │   │   ├── c
 │   │   └── d
 │   ├── accrest
-│   │   └── restrictedaccess.mdb.zip
+│   │   └── restrictedaccess.mdb.zip [9a29d655b74d4ee187a329ce2e16e978da94069d23bf5226bb974c8dfee8488c]
 │   ├── amg
 │   │   └── a
 │   ├── babar
@@ -29,9 +29,9 @@
 │   ├── nugra
 │   │   └── a
 │   ├── poison
-│   │   └── virus.msaccess.poison.zip
+│   │   └── virus.msaccess.poison.zip [177aeb26b803f8b9a88e7a4f6764482c5bc614e5db3c0953337648f5877101b5]
 │   ├── poly
-│   │   └── poly-a-int.md_.zip
+│   │   └── poly-a-int.md_.zip [07e590560e358ca9156f955c106b09fcf68b0d45b9abbe760decb6a5b6bd51e7]
 │   ├── sepla
 │   │   └── a
 │   ├── slither
@@ -58,10 +58,10 @@
 │   ├── greenstripe
 │   │   └── a
 │   └── minimal
-│       └── minim-a.smm.zip
+│       └── minim-a.smm.zip [95c2bcde18d0ac3065051bf2b15c3ac5061b24e40f77aa2f27a2e12e5e796572]
 ├── lm
 │   └── ramble
-│       └── ramble.wk1.zip
+│       └── ramble.wk1.zip [732f61a115e857434b7b4c6c254d9d4e8eb736161f7c4edf1bf1c9084f0c5f7d]
 ├── p98m
 │   └── eikrad
 │       └── a
@@ -97,9 +97,9 @@
 │       └── a
 ├── w2m
 │   ├── polite
-│   │   └── pol2.doc.zip
+│   │   └── pol2.doc.zip [4e258848b5f1a3321b4dcfd58aa80a0553bc1226f6130ecdc963ad14183fa5c3]
 │   └── wiederoeffnen
-│       └── wieder.doc.zip
+│       └── wieder.doc.zip [1529eddf49afa081bc4eba765b105927d0c8cfdd563b80a59086f8f448f0ebf1]
 ├── w97m
 │   ├── across
 │   │   ├── a
@@ -461,7 +461,7 @@
 │   ├── bastorm
 │   │   └── a
 │   ├── beast
-│   │   └── virus.msword.beast.zip
+│   │   └── virus.msword.beast.zip [b386d6e79b59dc989fca6d48d3776a97e9ec0d46e92871e962717b8ade9cfa32]
 │   ├── bebop
 │   │   ├── a
 │   │   ├── b
@@ -631,9 +631,9 @@
 │   │   ├── b
 │   │   └── c
 │   ├── calendar
-│   │   ├── cal1.doc.zip
-│   │   ├── calendar.doc.zip
-│   │   └── calendar.dot.zip
+│   │   ├── cal1.doc.zip [b867fcf275d48f2414bac3aecb9ceec1a841c0fc3aa0a26f136d28f43fe44af2]
+│   │   ├── calendar.doc.zip [dee1919d2632a2a161fbe52e583188588d92a7e89bd53de4aeed3848ce854d11]
+│   │   └── calendar.dot.zip [7b867067d17dd55ed7ec57a7a1692a45d067a2f4da117e6adfed1e3c8bfc9098]
 │   ├── caligula
 │   │   ├── a
 │   │   ├── b
@@ -753,9 +753,9 @@
 │   │   ├── g
 │   │   └── i
 │   ├── change
-│   │   ├── change.doc.zip
-│   │   ├── change.dot.zip
-│   │   └── h.doc.zip
+│   │   ├── change.doc.zip [123558fc04ebfabc06e55dd0b77a1a69718959bb2c8b328728538945c036ed0f]
+│   │   ├── change.dot.zip [f5a48dd5d4c31b4ab55b2925d86815f7cc26a8751e82bd42986ceea1d6705b29]
+│   │   └── h.doc.zip [e98ffdd53b3a257f577cfbd17eeb474c276c5cd436575b368608cd55beb0570c]
 │   ├── chantal
 │   │   ├── a
 │   │   ├── b
@@ -833,7 +833,7 @@
 │   │   ├── ci
 │   │   ├── cj
 │   │   ├── cl
-│   │   ├── class.do.zip
+│   │   ├── class.do.zip [08fa68c81f1bac5932bb532c8ffd94308664f80e0b1b1b693a52801dcbe9495c]
 │   │   ├── cm
 │   │   ├── cn
 │   │   ├── cq
@@ -2515,12 +2515,12 @@
 │   ├── mv
 │   │   └── a
 │   ├── mvcka
-│   │   └── mvcka.do.zip
+│   │   └── mvcka.do.zip [38a0b3e01a3cea09126635c1fd0fd21106e23e24f6aca83e64bb8e8c3f1e6220]
 │   ├── mvckb
-│   │   ├── W97MVCK.doc.zip
-│   │   └── mvckb.do.zip
+│   │   ├── W97MVCK.doc.zip [5d7a5c94df5ecef0ffcdcbadb030098311d1fcbb3753b0620dd5cf1fda052bbd]
+│   │   └── mvckb.do.zip [ab3f6f519976e8d617ca92361c2e71867fefe93cfe5f2c29cb2280f57991c83c]
 │   ├── mvckc
-│   │   └── mvckc.do.zip
+│   │   └── mvckc.do.zip [3f0208910e050770f01143a16da9904facbedf0b8d87d6495db86fdb8bd47ccc]
 │   ├── mvtk
 │   │   └── a
 │   ├── mxfile
@@ -2766,13 +2766,13 @@
 │   ├── ntvck
 │   │   └── a
 │   ├── ntvcka
-│   │   └── ntvcka.do.zip
+│   │   └── ntvcka.do.zip [ac914570255c75424462c8daeb07afd33342a616676227e4fadf2023b7c3c325]
 │   ├── nuclear
 │   │   ├── b
 │   │   ├── t
 │   │   └── z
 │   ├── nwxpg
-│   │   └── nwxpg.doc.zip
+│   │   └── nwxpg.doc.zip [5d354023c024d5a9423a9cc2ce83bdfab15943d5163f0b3e59c2dab614d184a8]
 │   ├── obeso
 │   │   └── a
 │   ├── obsol
@@ -2863,9 +2863,9 @@
 │   │   ├── y
 │   │   └── z
 │   ├── opim
-│   │   ├── opim.doc.zip
-│   │   ├── opim.dot.zip
-│   │   └── opim1.dot.zip
+│   │   ├── opim.doc.zip [ec595015ff8b3f578d0d198401fd7eb4e7e7634dd993584d85ba40d60a48e74e]
+│   │   ├── opim.dot.zip [47cdb3858e2703d0fa1fcd0243507f2637e971340adca83926e9a4555c7c5a98]
+│   │   └── opim1.dot.zip [48b6f0d8b588b07f4bbc087b8dfa39357841a3608e38b79a0781b075c14a6471]
 │   ├── osm
 │   │   └── a
 │   ├── ostrich
@@ -3312,9 +3312,9 @@
 │   ├── soul
 │   │   └── a
 │   ├── sparkle
-│   │   ├── spark.dot.zip
-│   │   ├── sparkle.doc.zip
-│   │   └── sparkle.dot.zip
+│   │   ├── spark.dot.zip [e4cc53c18c0ba6cd4120f913acd80fe27ab8b23225df8ff7500688be263d263e]
+│   │   ├── sparkle.doc.zip [bdbda3d615caee29af5dfda81456c5c0542d9bd18eb08716a8dee1d688d4dcc8]
+│   │   └── sparkle.dot.zip [a7f90d7fdc49dee4203445186129861b6905ce4c1a0b52e0404dddb47da94307]
 │   ├── spatch
 │   │   ├── a
 │   │   ├── b
@@ -3324,7 +3324,7 @@
 │   │   ├── a
 │   │   └── b
 │   ├── splash
-│   │   └── splash.doc.zip
+│   │   └── splash.doc.zip [71555ee10fd8f2ce8bc906dd89e7de7bf1e0965c3ba388ae4ee659ffbad56df1]
 │   ├── sprhide
 │   │   └── a
 │   ├── sr
@@ -4003,16 +4003,16 @@
 │   │   ├── y
 │   │   └── z
 │   ├── vmpck1c
-│   │   ├── vmpck1c-001.do.zip
-│   │   ├── vmpck1c-002.do.zip
-│   │   └── vmpck1c.do.zip
+│   │   ├── vmpck1c-001.do.zip [94456113f5533ccb07fd6fc919560e80bd6b8e197a044d4dfd00a2548e16c1c1]
+│   │   ├── vmpck1c-002.do.zip [6de5c892c798771a0e313dffd6ce140c5d566201690555f1725db920d461f64d]
+│   │   └── vmpck1c.do.zip [67defdc2e03d3b21d1873c431138a8b67f5048643ee08e7f1b1b06e77eb1298b]
 │   ├── vmpck1d
-│   │   ├── vmpck1d-001.do.zip
-│   │   └── vmpck1d.do.zip
+│   │   ├── vmpck1d-001.do.zip [d151705947d61ed1c6ceba36562815f031db4468e877a2d66b03839b1daf6790]
+│   │   └── vmpck1d.do.zip [591b980a8d52fff7587d7994a70a63e3e179354c570b02b770aa23b45bc60c7b]
 │   ├── vmpck1e
-│   │   ├── vmpck1e-001.do.zip
-│   │   ├── vmpck1e-002.do.zip
-│   │   └── vmpck1e.do.zip
+│   │   ├── vmpck1e-001.do.zip [240f46833f87151e46fe7ff0eae58bb8c7d6df17a601c751205e09597bf0dff3]
+│   │   ├── vmpck1e-002.do.zip [be734b098bf950a71b6c052deb2784f9abe92b5e4e67612770b6800e6f5c3d05]
+│   │   └── vmpck1e.do.zip [1a9327969ffbb8879371d42bfd3ea1fb96ca9518363447a6804d1033bdfdd528]
 │   ├── vmpck2
 │   │   ├── a
 │   │   ├── b
@@ -4192,9 +4192,9 @@
 │   │   ├── f
 │   │   ├── h
 │   │   ├── j
-│   │   ├── virus.msword.agent.e.zip
-│   │   ├── virus.msword.xaler.g.zip
-│   │   └── xaler.do.zip
+│   │   ├── virus.msword.agent.e.zip [18e3ac3574523f25c716287a9f15d77a044d3e52cce74c546236edc815835c1a]
+│   │   ├── virus.msword.xaler.g.zip [71af66dc4fd126b20e9426d938cbe474e9daa71a561f9938c024c4f4cdc296f2]
+│   │   └── xaler.do.zip [b686c06ed4593b6c64afaf03820abb4d4d9570abff2e8597addb0e797c1f3104]
 │   ├── xthree
 │   │   └── a
 │   ├── xu
@@ -4398,8 +4398,8 @@
 │   ├── breeder
 │   │   └── a
 │   ├── buero
-│   │   ├── buero_d.dot.zip
-│   │   └── buro-de.dot.zip
+│   │   ├── buero_d.dot.zip [8e61cebcdfb53c82a01eb39ae632158c56af6837890769e6b846efb15816e576]
+│   │   └── buro-de.dot.zip [08eccf042d67ac85197b49ffd2c25d80b6e30def34ef9f57d4475badd64627a8]
 │   ├── bumble
 │   │   ├── a
 │   │   ├── b
@@ -4437,8 +4437,8 @@
 │   ├── chaka
 │   │   └── a
 │   ├── chandigarh
-│   │   ├── chandiga.doc.zip
-│   │   └── chandiga.dot.zip
+│   │   ├── chandiga.doc.zip [d105df55cc5b230c1aa8c30afe449c798739b7cff637eb9204f8828a8c0b2748]
+│   │   └── chandiga.dot.zip [279e4d00951fff27c0a8f890861a824f96d8820597bcb77fa18b0e135a6cd204]
 │   ├── cheat
 │   │   ├── a
 │   │   └── b
@@ -4649,8 +4649,8 @@
 │   │   ├── d
 │   │   └── e
 │   ├── dracula
-│   │   ├── dracula.doc.zip
-│   │   └── dracula.dot.zip
+│   │   ├── dracula.doc.zip [14c849e4d4dd146dd25762a1e02994f072b73ae74e03fea5a14a05ecb04befb0]
+│   │   └── dracula.dot.zip [8e925d4d9d9aa0103f3d1ac894cff25230cfb57becae9fec6eef5e0351408e81]
 │   ├── drugs
 │   │   └── a
 │   ├── dub
@@ -4729,14 +4729,14 @@
 │   ├── fivea
 │   │   └── a
 │   ├── formatc
-│   │   ├── formatc.doc.zip
-│   │   └── sergio.doc.zip
+│   │   ├── formatc.doc.zip [dc20a7b33ecb1de46d24ed2781dd5a8245709d4d74007a880995e7ca2acd2ea7]
+│   │   └── sergio.doc.zip [10eb3cd50be8bc190daad4dc54be22239ed8b113c7884377234291cd9e3da44a]
 │   ├── formater
 │   │   ├── a
 │   │   ├── b
 │   │   └── f
 │   ├── formats
-│   │   └── formats.doc.zip
+│   │   └── formats.doc.zip [bd9f56318b8046c35479412e780011beb06668fbc9e6d6f6f55e71b46e1088f5]
 │   ├── four
 │   │   └── a
 │   ├── friday
@@ -4744,15 +4744,15 @@
 │   │   ├── d
 │   │   └── f
 │   ├── friendly
-│   │   └── friends.doc.zip
+│   │   └── friends.doc.zip [2558c334a87d040b8f14ddcaef567f93af59c18416b39da7c83ce380c3131b76]
 │   ├── fries
 │   │   └── a
 │   ├── fury
-│   │   └── greenf.doc.zip
+│   │   └── greenf.doc.zip [8f7cc2eccf4b81bc7573f8881ff83391199edb4f928e13ae63e717fc59f69ebe]
 │   ├── futuren
 │   │   └── a
 │   ├── futureno
-│   │   └── npoly1.doc.zip
+│   │   └── npoly1.doc.zip [8999ae2c1f7cf522956429f3015185e03cbafb0342bbb76054dd3ee2b652d5a4]
 │   ├── fuzzy
 │   │   └── a
 │   ├── gabi
@@ -4760,7 +4760,7 @@
 │   ├── gable
 │   │   └── a
 │   ├── gangsterz
-│   │   └── bdc.doc.zip
+│   │   └── bdc.doc.zip [8b415d7e11904f9007dca0c233874965761059c75c34e0b57487d2818dc6a7cd]
 │   ├── gas
 │   │   ├── a
 │   │   ├── b
@@ -4823,13 +4823,13 @@
 │   ├── haggis
 │   │   └── a
 │   ├── hassle
-│   │   └── hassle.doc.zip
+│   │   └── hassle.doc.zip [81e104a8f5f6122d4034f4fdac3ecf0268648b3f8713ab8961abb25662dc959e]
 │   ├── hawk
 │   │   └── b
 │   ├── header
 │   │   └── a
 │   ├── hellgate
-│   │   └── wmdnz.doc.zip
+│   │   └── wmdnz.doc.zip [308dcd48ab87007124adbb4ad8d065597adcf8bb510fa5435db5a715f184b442]
 │   ├── helper
 │   │   ├── a
 │   │   ├── c
@@ -4877,10 +4877,10 @@
 │   │   ├── a
 │   │   └── b
 │   ├── inexist
-│   │   ├── inex-a_1.doc.zip
-│   │   ├── inex-a_5.dot.zip
-│   │   ├── inexist.doc.zip
-│   │   └── inexist.dot.zip
+│   │   ├── inex-a_1.doc.zip [b8e5cd4e0e364fdcaee4a059fb8ffed49dea17ad33d78f9038c7164d1580d793]
+│   │   ├── inex-a_5.dot.zip [ded73954f08601fcb6c66cb842b414433396ce7343000cb519386dbe30b366fe]
+│   │   ├── inexist.doc.zip [8e75c938d7c1b53d1eb54949866a4f8ae58ec2e4341e0923322a96e779ce825e]
+│   │   └── inexist.dot.zip [c66e9bbb28ffd72731eaf7d23a198478fcf515f2a6c6efe58f9d5e7964a62d35]
 │   ├── influenza
 │   │   └── a
 │   ├── innuendo
@@ -4898,8 +4898,8 @@
 │   │   ├── o
 │   │   └── s
 │   ├── italian
-│   │   ├── demoita.doc.zip
-│   │   └── ital_d.doc.zip
+│   │   ├── demoita.doc.zip [2495a5c67583b8bac5d521f7f7feb548dbd2c847d4efab36930de8df2e98b3a5]
+│   │   └── ital_d.doc.zip [5b8d4233926c19ef3364d1eee5c8a0069e46dc1e2aeb6887034c3baa3c85b0f3]
 │   ├── ivana
 │   │   ├── e
 │   │   └── f
@@ -4932,7 +4932,7 @@
 │   ├── karatka
 │   │   └── a
 │   ├── kerrang
-│   │   └── fakecd.doc.zip
+│   │   └── fakecd.doc.zip [d84752c476a95a6283fe05ae1d622f231d27c9cde4de14ee04fb7507aad9e6bd]
 │   ├── kiek
 │   │   └── a
 │   ├── killdll
@@ -5012,7 +5012,7 @@
 │   │   ├── a
 │   │   └── b
 │   ├── magnum
-│   │   └── magnum.doc.zip
+│   │   └── magnum.doc.zip [d60b125eff65c5a625c23cfbfb3a609f3e155f75d5364e37839bc31fc44a3161]
 │   ├── malaria
 │   │   └── a
 │   ├── malice
@@ -5055,7 +5055,7 @@
 │   ├── mess
 │   │   └── a
 │   ├── messenger
-│   │   └── messade.doc.zip
+│   │   └── messade.doc.zip [1b529a8da226f014ad0fa757b24235465a1eaa67ae65911b9230ead18e2fdf8f]
 │   ├── mg
 │   │   ├── a
 │   │   └── b
@@ -5150,7 +5150,7 @@
 │   │   ├── p
 │   │   └── z
 │   ├── niki
-│   │   └── niki.doc.zip
+│   │   └── niki.doc.zip [30363f3a507e54ca7981824d2362393dad20f5689c27c7b6d26d8da32d584f57]
 │   ├── nikita
 │   │   ├── a
 │   │   └── a1
@@ -5305,8 +5305,8 @@
 │   ├── panjang
 │   │   └── a
 │   ├── paper
-│   │   ├── papershr.doc.zip
-│   │   └── realpape.doc.zip
+│   │   ├── papershr.doc.zip [666dd5c0d9a35db91c09012636e88261fa6ba9dbfee04fb8bcd582a4c5435b0c]
+│   │   └── realpape.doc.zip [46cf181393c0f410ec027c970ed760dd32640085fa637c45dec6707a1b1eb7fe]
 │   ├── parol
 │   │   └── a
 │   ├── paycheck
@@ -5347,8 +5347,8 @@
 │   ├── plushad
 │   │   └── a
 │   ├── polite
-│   │   ├── polite.doc.zip
-│   │   └── polite2.doc.zip
+│   │   ├── polite.doc.zip [66d916b1e81107d23673a09bf8bbdace75091c826f8d903afc5bff8a93f8b7fd]
+│   │   └── polite2.doc.zip [e3e7e399bdd4da63a48862b64c5bd051946571e5f5c16e2a17a9684758a1cc99]
 │   ├── president
 │   │   └── a
 │   ├── primit
@@ -5366,7 +5366,7 @@
 │   ├── ramses
 │   │   └── a
 │   ├── random
-│   │   └── nrandom1.doc.zip
+│   │   └── nrandom1.doc.zip [afcda605dc2d79137f6c0ca206bda4a3ac0b2dcb4ba78cce72ddaf38b377a893]
 │   ├── randomic
 │   │   └── a
 │   ├── rapi
@@ -5419,9 +5419,9 @@
 │   │   └── a
 │   ├── rellik
 │   │   ├── a
-│   │   ├── macrokil.doc.zip
-│   │   ├── rellik-a.doc.zip
-│   │   └── rellik-a.dot.zip
+│   │   ├── macrokil.doc.zip [4ca96e8cb742a02ef2eeecb78bdd79d016e222fb40572273d93647a86f1849e5]
+│   │   ├── rellik-a.doc.zip [fefdb6bd20a23bcb25d5bc922147affed0a972568e2971d2ed7155b45730deaf]
+│   │   └── rellik-a.dot.zip [04fc2371cff620856a66b3d00a4d3e7a66a1ed523e166864c4adb902e97fab05]
 │   ├── rhappy
 │   │   └── a
 │   ├── safwan
@@ -5431,7 +5431,7 @@
 │   │   ├── a1
 │   │   └── b
 │   ├── satanic
-│   │   └── satanic.doc.zip
+│   │   └── satanic.doc.zip [c6452983fcd2273395ca854122d71956f432a39ed2774953125489a125400fe3]
 │   ├── saver
 │   │   ├── a
 │   │   └── b
@@ -5458,11 +5458,11 @@
 │   │   ├── a
 │   │   └── b
 │   ├── shadow
-│   │   ├── shad-a_1.doc.zip
-│   │   ├── shad-a_5.dot.zip
-│   │   ├── shadow.doc.zip
-│   │   ├── shadow.dot.zip
-│   │   └── shadow1.doc.zip
+│   │   ├── shad-a_1.doc.zip [9ddcf59c694c5c1bb558bf28010427777b7e83447a630d27bddc12684dd8e379]
+│   │   ├── shad-a_5.dot.zip [32dfafc0ba424e783d56a253c6285628ae9c95c5f517bf9eaa61c6f2e63fa388]
+│   │   ├── shadow.doc.zip [1711394f335714e78b92f8248d5b4191918d4acd6eafbc31320482d87df830d2]
+│   │   ├── shadow.dot.zip [0b4353a2bcbe1acf1a2f638371433be912ae3f960fe3617a83daf29dbc3e1e2e]
+│   │   └── shadow1.doc.zip [f3f491505a74e3e449d3f75c2f2fa13cd4100f1de316d68e38df541498fe48d3]
 │   ├── sharefun
 │   │   ├── a
 │   │   └── b
@@ -5487,7 +5487,7 @@
 │   │   └── w
 │   ├── shuffle
 │   │   ├── a
-│   │   └── cyberpha.doc.zip
+│   │   └── cyberpha.doc.zip [5ef68bb55a57fd8334046f30f4bbbd2b72b1273bc42235bfd819396e8f31e396]
 │   ├── sidor
 │   │   └── a
 │   ├── silly
@@ -5497,8 +5497,8 @@
 │   ├── simple
 │   │   └── a
 │   ├── since
-│   │   ├── since.doc.zip
-│   │   └── since.dot.zip
+│   │   ├── since.doc.zip [3165da576c5ee7fff9795e64bbe137a8f17ee878352086d1681c421d899bb367]
+│   │   └── since.dot.zip [09a502c6461c8cdd99bfb60037a27c5cd02fb7ba590fa75a2a7b9d482172fe94]
 │   ├── slow
 │   │   ├── a
 │   │   └── b
@@ -5510,7 +5510,7 @@
 │   ├── snail
 │   │   └── a
 │   ├── snickers
-│   │   └── snickers.doc.zip
+│   │   └── snickers.doc.zip [947abf1db9ee8e70b16d6702d712cdd7374b4238ab9eb86adf56bfde3190fc09]
 │   ├── socks
 │   │   └── a
 │   ├── softwar
@@ -5526,8 +5526,8 @@
 │   │   └── d
 │   ├── spy
 │   │   ├── b
-│   │   ├── spy.doc.zip
-│   │   └── spy.dot.zip
+│   │   ├── spy.doc.zip [9becb7d8ab8db1e134ac67ec54a65f4a404458881d92d3f19be2f501fd81d6a5]
+│   │   └── spy.dot.zip [888265876c526de1810d29a617c92e4a8872dde6e2f2d623bbc4eda680e5798b]
 │   ├── stall
 │   │   └── b
 │   ├── strezz
@@ -5600,9 +5600,9 @@
 │   │   ├── a
 │   │   └── b
 │   ├── tedious
-│   │   └── tedious.doc.zip
+│   │   └── tedious.doc.zip [98da9aa203dccfe506dad9cd795a8dadd330cff58f17861e8c7c51566c16bbc9]
 │   ├── tele
-│   │   └── lucifer.doc.zip
+│   │   └── lucifer.doc.zip [f0122bfbaba8098e47dcaf28dfea24fd09645b901c98a4dc814f7686485e5c35]
 │   ├── temple
 │   │   ├── a
 │   │   ├── f
@@ -5651,7 +5651,7 @@
 │   ├── tunguska
 │   │   └── a
 │   ├── twister
-│   │   └── twister.dot.zip
+│   │   └── twister.dot.zip [68a0df3b92a498ccba2112792ab96b628afade2ee300d1b0edea5f9ca79b943f]
 │   ├── twno
 │   │   ├── a
 │   │   ├── aa
@@ -5846,8 +5846,8 @@
 │   │   ├── a
 │   │   └── b
 │   ├── wiederoeffnen
-│   │   ├── wied.doc.zip
-│   │   └── wieder.doc.zip
+│   │   ├── wied.doc.zip [134bee0b507bd7096b86c775a6be4c3b63b46960388de7d2f47091b34c4ecd34]
+│   │   └── wieder.doc.zip [cf0d05a6395d788bdba56c356bdfde6c2fdbef98f43107ab4a066b3414a56d83]
 │   ├── wme
 │   │   └── a
 │   ├── wmvh1
@@ -5860,8 +5860,8 @@
 │   │   └── a
 │   ├── xenixos
 │   │   ├── c
-│   │   ├── nemesis.doc.zip
-│   │   └── nemesis.dot.zip
+│   │   ├── nemesis.doc.zip [f000425ed379f77ec2f08d2259bc937cb1782a6eba09fcf7629b565f1e4ad422]
+│   │   └── nemesis.dot.zip [0e256550905999a8d13a76ea3ae6e54ceb83e6a15f4c4a1d5d52f3f31be15c3c]
 │   ├── yaka
 │   │   ├── a
 │   │   └── b
@@ -6077,10 +6077,10 @@
 │   │   ├── t
 │   │   └── z
 │   ├── import
-│   │   ├── 1-8imp_a.xls.zip
-│   │   ├── import-a.xls.zip
-│   │   ├── import-a.xlt.zip
-│   │   └── phnt.xls.zip
+│   │   ├── 1-8imp_a.xls.zip [80943bdb69aedc14d5565c8bc40f325e0575c8bb8ab5a48320ea62d4044b3a64]
+│   │   ├── import-a.xls.zip [67fc94d89e9638e602232e56c56f969d4acd8e051e3262b03145247e72e04cf9]
+│   │   ├── import-a.xlt.zip [9852289d8311844a5a2f365301be73bf4e4f8cce7160a1cfc42d27a8a3629614]
+│   │   └── phnt.xls.zip [e4cd2639f89250a97ff8e030a7657cfff44af2e9f3c5686a6de220eaba9e9103]
 │   ├── jal
 │   │   └── a
 │   ├── jasmine
@@ -6493,10 +6493,10 @@
 │   ├── tha
 │   │   └── a
 │   ├── tjoro
-│   │   ├── 1-8tjo_a.xls.zip
-│   │   ├── tjoro.xls.zip
-│   │   ├── tjoro.xlt.zip
-│   │   └── wci01574.xls.zip
+│   │   ├── 1-8tjo_a.xls.zip [f9fd7dc6b486b6df5d2518ce4a9ee221b667d559f0f0d84c6e36e6430130c44d]
+│   │   ├── tjoro.xls.zip [8a17b9af90bf0e9f9ee7992b73a9f115e598918c62c680a4d9df195fdb7c56c6]
+│   │   ├── tjoro.xlt.zip [9e56a734f516a3de06186479ba7f159d9b1edaba6f437a4b5896777df359f31a]
+│   │   └── wci01574.xls.zip [1f31dc511214ad6c91c8fc13a9297faff428b6e2fb5482c3ec6c56e5ef750603]
 │   ├── toraja
 │   │   ├── e
 │   │   ├── f
@@ -6863,9 +6863,9 @@
     ├── lavista
     │   └── a
     ├── legend
-    │   ├── legend.xls.zip
-    │   ├── legend.xlt.zip
-    │   └── legnd.xls.zip
+    │   ├── legend.xls.zip [3daf7107e95b5ad6d0be08db811d26cff21c2405b3f3dc98636d7216ee6341ca]
+    │   ├── legend.xlt.zip [f7346a375bd3ee04117b3ac1e697b2c19b726e8e189b252041675b6a663233eb]
+    │   └── legnd.xls.zip [1202924c099a5b67d2612b136faf5f0180dfe2fb979ebf91da271d0e580a1a55]
     ├── lmv
     │   ├── a
     │   ├── b
@@ -6916,10 +6916,10 @@
     │   ├── b
     │   └── c
     ├── tjoro
-    │   ├── tjor-a_1.xls.zip
-    │   ├── tjoro.xls.zip
-    │   ├── tjoroxls.xls.zip
-    │   └── xmtjoro.xls.zip
+    │   ├── tjor-a_1.xls.zip [45181c8e7055ac6c037608fce13004efadbce0dff7f248e540e783f5abf7a7b0]
+    │   ├── tjoro.xls.zip [4848bf7eab9651fc0fa462c88361d7a4c02ad36bf4c15f6705e1275c5b04bd22]
+    │   ├── tjoroxls.xls.zip [b2574f19c6654d40c8d1bab9faee344774577cd0f2544e1d96cab6f07b6c8ce6]
+    │   └── xmtjoro.xls.zip [1660c960cb2236ff1fd429396fc2892e737811b147b15faddaca75f5a5aefcf7]
     ├── totaler
     │   ├── a
     │   └── b

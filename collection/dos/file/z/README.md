@@ -4,236 +4,236 @@
 ```
 ├── z_mania
 │   └── 1741
-│       └── Virus.DOS.Companion.Zmania.639
+│       └── Virus.DOS.Companion.Zmania.639 [9ec93471f87a6deecba853de1e73cf3b30db961083d56d1a3c5efc8b9471b411]
 ├── zadig
 │   ├── 1274
-│   │   └── virus.dos.yosha.zadig.1274
+│   │   └── virus.dos.yosha.zadig.1274 [d7e699087aa841f2380169cf23f0089509182b8e0cd4b9b26e60cfdbb737a2c4]
 │   ├── 1276
-│   │   └── virus.dos.yosha.zadig.1276
+│   │   └── virus.dos.yosha.zadig.1276 [79d9a9038e3671bc2783893ff3d89318076806a1ad5b8c048ebf14a726444558]
 │   └── 1339
-│       └── zadig.lxe
+│       └── zadig.lxe [5c8d5f33edd8a53b81a1c9629c6bc96010f7b92cb918ce1fd2172e725ab25ae5]
 ├── zahak
 │   └── 906
-│       ├── 1-zah906.vom
-│       ├── 1-zah906.vxe
-│       ├── 2-zah906.vom
-│       ├── 2-zah906.vxe
-│       ├── 3-zah906.vom
-│       ├── 3-zah906.vxe
-│       ├── c-zah906.vom
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t2.vom
-│       ├── zah1.vom
-│       ├── zah1.vxe
-│       ├── zah2.vom
-│       └── zah2.vxe
+│       ├── 1-zah906.vom [4c5fd22c60d1be86c5f83604bce703121d652655498199980ef1039c98f78819]
+│       ├── 1-zah906.vxe [9235fbc07c58066cff70c0b434aad9d623e5a18779f4f91f0330a62d3dc8e936]
+│       ├── 2-zah906.vom [765645a281bf122e805a2cd9ada4fccae776b10f09bc9ae458b1cd9a50666a0b]
+│       ├── 2-zah906.vxe [4ae9e94f4fc370fdadc0349052460962b978b3ca0dcd586d99e584403ce91647]
+│       ├── 3-zah906.vom [9d99b4d2ffca4d00219b0ebdbb7cebfeba4927a4c5f5b4168d6d92b755303955]
+│       ├── 3-zah906.vxe [fcedddcce2d252ac4d6f567974ce88fd06e8fd448ead8701cc07063a0f73e9f5]
+│       ├── c-zah906.vom [f12e1a3d74181ac66660751dd60dc3937e9ee36a774f7572622c15feb0fee207]
+│       ├── t1.vom [17f80de0ca6fe2156f032c492660c8666c2c432e036580a6d11024e4d9eb94e2]
+│       ├── t1.vxe [034b68fbbfa69e5efdfa6cac236b8aa144e6ed8f901d3002d0905db88fdaee93]
+│       ├── t2.vom [f2ef09a700ed784867b3258da4cafc5eea90f5ec348a71eda800cc1532d30eaa]
+│       ├── zah1.vom [b2b2a532cb0d2c5a66de6ffd716b18858ab2e4243538791301345bca99a63af6]
+│       ├── zah1.vxe [047202f4ded6b82f70f7878fa9a76bb85272624f56d34357ae76c8313ec247f1]
+│       ├── zah2.vom [f7e0d9f098cb452f2737542bccd6e352188e92b2c1510cded6ed2341545cf611]
+│       └── zah2.vxe [2edafdd44a2ecd4fe0ecbed775ee3aeb7a32a09ae0e9b6c085491d10ba60dc70]
 ├── zamol
 │   ├── 2024
-│   │   ├── 1-za2024.vom
-│   │   ├── 1-za2024.vxe
-│   │   ├── 2-za2024.vom
-│   │   ├── 2-za2024.vxe
-│   │   ├── 3-za2024.vom
-│   │   ├── 3-za2024.vxe
-│   │   ├── f-prot316f.txt
-│   │   ├── fire2024.vom
-│   │   ├── fire2024.vxe
-│   │   ├── m1.vom
-│   │   ├── m1.vxe
-│   │   ├── m2.vom
-│   │   ├── m3.vom
-│   │   ├── m4.vom
-│   │   ├── m5.vom
-│   │   ├── m6.vom
-│   │   ├── m7.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   └── t2.vxe
+│   │   ├── 1-za2024.vom [ec919d16b494e1ed03109d1b9015388e69214c01b3ecc1e84d9e81eaafd87304]
+│   │   ├── 1-za2024.vxe [4950f5c9e5ab95a6404389ef9e150fa371f2f8a61f8e50eebe05b77777b9ab27]
+│   │   ├── 2-za2024.vom [fb90bd503d1a9b52e09edd7d29a4d6deaeba8333a89bb619b0e2fb10d8ab95d9]
+│   │   ├── 2-za2024.vxe [ea8c4cd8b0ddb8e493fbed2e52e82b3c1ac14a7dc11eb6c82753b0718d9e0c74]
+│   │   ├── 3-za2024.vom [de6685c3568188360df47c9e667597babfe329855418d38a7ca72d9518614938]
+│   │   ├── 3-za2024.vxe [8ccf5a05a951053cb416555b9a035d396e3e416351f99170be69935b545ce3cd]
+│   │   ├── f-prot316f.txt [065c019b45e0f4213e8719861b03c54358669751740ce96963197b5a7b0f3a8e]
+│   │   ├── fire2024.vom [dc4dc89c3d928ddebf9fc53128c2b93d0d021206f1a4632886fb4a262c013548]
+│   │   ├── fire2024.vxe [508961b948d24c9006163485c0fde90df44318c6ee77947b97c5ce72fbbbd953]
+│   │   ├── m1.vom [4e9f279988fd5ec9acceebf3575bcd8f3d9a7451352e7dc6ffd4d41f28185dd2]
+│   │   ├── m1.vxe [29a186e94f2d51f0429963aa12aa3e38fda3cb4e1b373b247a55c0c027b281da]
+│   │   ├── m2.vom [ada96386a510d1bf86d80940cf0ff0846cdb673b58126f753d2e761b49d580ce]
+│   │   ├── m3.vom [32a5c26f3f2e2fcedde02bd6a9aacc741514a0b2362382a2586d962ee3e7c1d6]
+│   │   ├── m4.vom [c281369e54fb063e4c142cbf007d5e2090700f6f670686a0511e5be357cffefd]
+│   │   ├── m5.vom [fbebd975fef7be291fa1b0bf87213bff70c00a3dba5844ef6078460d64a8db09]
+│   │   ├── m6.vom [4a1b1aa724e51f5ffae6bcace577fdaea702f98adaee9303a886faf479ce8663]
+│   │   ├── m7.vom [4b98de7d11cc7648cf9127d9055f941436ccfda108b4e1e8819064d8b17f0211]
+│   │   ├── t1.vom [4197551020248bbcf6cb85ed7a35312266460da2a3cb3b20225f050548b4458e]
+│   │   ├── t1.vxe [822cb7b8fe212c77dc0ebb60edc33c90d1a91c5c64e4b1c08e3006c7f4af4ec6]
+│   │   ├── t2.vom [f32b089218852f1feb5e0ed341163fcfae2669d5d0d96a5f3270fcae70a792b8]
+│   │   └── t2.vxe [0bffd0a751349995359f76379419d980574b99b9afb1f55543eefbc120ef4c53]
 │   ├── 2132
-│   │   └── virus.dos.timishoara.2132
+│   │   └── virus.dos.timishoara.2132 [e26238ba2296ffd37bfd1a450e6bdeae093412c02fdb596cc278285dffa486a4]
 │   ├── 2147
-│   │   └── virus.dos.timi.2147
+│   │   └── virus.dos.timi.2147 [c65080075f5e6bdc81baa2e97d326049310593910c7fbd86322283195ef1b6d4]
 │   ├── 2153
-│   │   ├── 1-za2153.vom
-│   │   ├── 1-za2153.vxe
-│   │   ├── 2-za2153.vom
-│   │   ├── 2-za2153.vxe
-│   │   ├── 3-za2153.vom
-│   │   ├── 3-za2153.vxe
-│   │   ├── fire2153.vom
-│   │   ├── fire2153.vxe
-│   │   ├── m1.vom
-│   │   ├── m1.vxe
-│   │   ├── m2.vom
-│   │   ├── m3.vom
-│   │   ├── m4.vom
-│   │   ├── m5.vom
-│   │   ├── m6.vom
-│   │   ├── m7.vom
-│   │   ├── m8.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   └── t2.vxe
+│   │   ├── 1-za2153.vom [bf8ce3b3e1b456d1ca991e0fcfdf960744fecb0a3c9ec216cd12d3daa97d5f6c]
+│   │   ├── 1-za2153.vxe [a95a764197b2c03572f522cb06d1ecfe817b6f1e54a359efde701687413ed5be]
+│   │   ├── 2-za2153.vom [d55a7bcc3bc5ad928601ac610fe748600ba14febef0f74333e0b8cb1b2d19961]
+│   │   ├── 2-za2153.vxe [c2f4981deb6d9547ff92ca31f3c8dc4c4d1bd8938d6d0a44d102f7dc163e6683]
+│   │   ├── 3-za2153.vom [f4ab3d2ff5132817b51e88f897b88b6e5bf65d69163ebf40c568d64284ff318b]
+│   │   ├── 3-za2153.vxe [1876fd8c3a529fd9391308d4cbe2b87795874372405934f8ffe5895c1aa8fa54]
+│   │   ├── fire2153.vom [a18e2b3cf0ebad0c9479cdd9729214d0d781e458e435b1a72e39ae89ab68db05]
+│   │   ├── fire2153.vxe [4f991502fda7d3bc154df592f7fc63051b45fa636c3d466656fc8e27b6f63101]
+│   │   ├── m1.vom [d8d69934257585e17d259614f3ca6e7f130e0baa63ab3fb96e49fdbc7ad54bb2]
+│   │   ├── m1.vxe [bdecca1c1123f5b3368432713d667bff224c3a799eeefb7680d2e66b5b46b005]
+│   │   ├── m2.vom [562eae91b081a5e53fef11d18aed657b174827492921ee7075f4d1febd5a0fba]
+│   │   ├── m3.vom [dfe27d37125bfc4d4128c3a9ab75b1c0215f0f69fd72b76e4431f09926549237]
+│   │   ├── m4.vom [c94d2e61499bbe0ef9aa2e902652d33d22ef46cc94a443d84ac56b8a87ca8872]
+│   │   ├── m5.vom [69b23c24d3f6094305355a122215768c46a4f055bec657e28c364f55610e2e85]
+│   │   ├── m6.vom [1d947792f326dba1ace6b34bc0c4400ec25957797dc0aa6a9ab5d2fe9aa54fe8]
+│   │   ├── m7.vom [1e2d3a75698fdd27d49e663b9f2db36e5efc775f920cc52af3192e7e31045a88]
+│   │   ├── m8.vom [ef11cf78deb936e3041ba8911eb96bedaecf6e99c0b54f1afe66a30fa4135a79]
+│   │   ├── t1.vom [85aec7e8280cb3dce2d38d46098c82c6b846056dfd4bf3c7bba3fff1d0a4b9e6]
+│   │   ├── t1.vxe [552278846808af0e35dac12499aa630b8f31441f967b0ca6f2e5dc97a4bbf792]
+│   │   ├── t2.vom [2daf3b886d9eb34bdad1d23ccb58c0df13b3a99709d964cf642384665db63e5b]
+│   │   └── t2.vxe [35293d316e311c74bf7168e5c7651d9335844c4c979c3da03c547e2d6cf34191]
 │   ├── 2743
-│   │   ├── 1-za2743.vom
-│   │   ├── 1-za2743.vxe
-│   │   ├── 2-za2743.vom
-│   │   ├── 2-za2743.vxe
-│   │   ├── 3-za2743.vom
-│   │   ├── 3-za2743.vxe
-│   │   ├── fire2743.vom
-│   │   ├── fire2743.vxe
-│   │   ├── m1.vom
-│   │   ├── m1.vxe
-│   │   ├── m2.vom
-│   │   ├── m3.vom
-│   │   ├── m4.vom
-│   │   ├── m5.vom
-│   │   ├── m6.vom
-│   │   ├── m7.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   └── t2.vxe
+│   │   ├── 1-za2743.vom [0bd28001652d2c3e2d2a72150176fe73d1c23c76f2147ec889b5913896a99501]
+│   │   ├── 1-za2743.vxe [d44b02b541b78dc2bce40fd95d1ad9cd4a009989e392552472968103415327bd]
+│   │   ├── 2-za2743.vom [4f2cc890d762c3132037fa2b30306448aab0a8a8e7710e3c37aa203294a8728b]
+│   │   ├── 2-za2743.vxe [c10a21b3ee3fcd62c9eb473cc4ed852ca6912f8e4a895ca2c2afb927243bfd16]
+│   │   ├── 3-za2743.vom [5831fa324e05898572a2b66d6da5c01b6bf54e0be51c206fcfd9875eb27e181b]
+│   │   ├── 3-za2743.vxe [6e9e3cdd9c2df968d072cfd03f6807267c662bcbd17aeb879b377c0a4cfe14bd]
+│   │   ├── fire2743.vom [6124ecfdcfb02d3a3f7dec300c1957afbd72ead3339dd0fc81445cf59efa5118]
+│   │   ├── fire2743.vxe [47e0e5a06b7525b937acb0bc2e058f0305ca2402885eae8b01bccf449f796d28]
+│   │   ├── m1.vom [abd14e46a46cc6281bc56521901ae9a368d7e40d94da21a4a04492ffc5928488]
+│   │   ├── m1.vxe [0c02736871dd28fb96bf7ee9ac250a46d3c609e32f14a237362ed707c92c62ee]
+│   │   ├── m2.vom [5a862ea876cef3ac6d77d13b19fc179cac4f8599e1ce64f091eee71aacc9f545]
+│   │   ├── m3.vom [4ef046cee5b0a85eef98fd13dec6062984c72aeb0d44a8b6ebc428f51ba8127e]
+│   │   ├── m4.vom [3596211d019cb52382131915922c6e920ab20783c0cf6dbc7adfec69749c237d]
+│   │   ├── m5.vom [2eca02f87b5057d95eee4b287cc798a8c0a24a6a161820b775c2297741440b59]
+│   │   ├── m6.vom [8bae02d59ab2c2677182dc3e30ef0ed64f9703cf6ce07a76f6885c8e3b4c478e]
+│   │   ├── m7.vom [c64d3367546042515e97ec4f8bcd12a565a057a1834a8c0f01fa6080418d3d74]
+│   │   ├── t1.vom [89e54d1c83c4c8e9e4fce414896333732da3816ea85f3458dde5d79708953718]
+│   │   ├── t1.vxe [fd42b4feffb65c6f6f1d3ef53f9b100ee9e4f95f3f9703f59c4a09582c88d8bc]
+│   │   ├── t2.vom [427005eaea70158095640fa6f50d7ab8c85e0f69ea5c7abefbf23aa57a9d01e6]
+│   │   └── t2.vxe [1f0c070f9e662583c663b27927ae9c8db98fa261ed96dc4ffc078bf071542d32]
 │   ├── 3390
-│   │   ├── fire3390.vom
-│   │   ├── fire3390.vxe
-│   │   ├── m1.vom
-│   │   ├── m1.vxe
-│   │   ├── m2.vom
-│   │   ├── m3.vom
-│   │   ├── m4.vom
-│   │   ├── m5.vom
-│   │   ├── m6.vom
-│   │   ├── m7.vom
-│   │   ├── t1.vom
-│   │   └── t1.vxe
+│   │   ├── fire3390.vom [9ec5af549478cbaeff0e9a2e90508a69e28e8d2767cc37b23a1fae86b8a2e076]
+│   │   ├── fire3390.vxe [80340aa4db62efbea247ea8d60be3ffd88f1a9ed9677f01f632082fefc75eba8]
+│   │   ├── m1.vom [30a8f18b1f41163319cbe91bc125d6ad3017c2eeb3d20ac07cd95a880e8f439e]
+│   │   ├── m1.vxe [9e21aa07aab3eb581583ed903f76710e2a4e502e7775a52cb16e037586fc21d4]
+│   │   ├── m2.vom [2118c89bb292995e2c8870cdbaca566ec6008b0cbbb64a10cf0f3912938f495d]
+│   │   ├── m3.vom [18d2a53f3bd22a1d7bf044dc183beda92915cb0ca09e710aae3cb0861aad4ee6]
+│   │   ├── m4.vom [e5e566793f0ac44907a36f025ecc0cfae3be8ccc6f3088b52e56b169318725a3]
+│   │   ├── m5.vom [afd22aee8e8d5ea72addde18c73ae8d350d9a01ac58d3d60bfd48d2d8198dd85]
+│   │   ├── m6.vom [954f81374032d0d8320f36e7f6ae1ce47f0962af39f9fea5c597f431b93a260f]
+│   │   ├── m7.vom [655a7d7d0804ecb1080853489091c9da4c3cf790a3b9de01ef989f7a7912d71b]
+│   │   ├── t1.vom [3382a512fa227dfe7a7c88c592487f01d1f1c930e8fb5fdf24a023227feae2b5]
+│   │   └── t1.vxe [ff5115ba3113a4c183b89d665828bfdda128a055457231932d1931b2d6eb7aaf]
 │   ├── 4358
-│   │   ├── fire4358.vom
-│   │   ├── fire4358.vxe
-│   │   ├── m1.vom
-│   │   ├── m1.vxe
-│   │   ├── m2.vom
-│   │   ├── m3.vom
-│   │   ├── m4.vom
-│   │   ├── t1.vxe
-│   │   └── t2.vxe
+│   │   ├── fire4358.vom [af2d1a3e018bafd82ecc95cb2c376c15069b08f28cf5f4c64d5aa8334313a3c5]
+│   │   ├── fire4358.vxe [b1dd2f94cc9ecc1800722b89723e2bfd805b72588b1674228b2c7d1fe8a3ef1b]
+│   │   ├── m1.vom [6673aa9810009e90a0500cfeca019bd3a4ff9e20c926f0d0964d716d8fd0938b]
+│   │   ├── m1.vxe [31482859e804d32796c00edfaf7aadadc8e7afb61d13e9c69609da003d470bdf]
+│   │   ├── m2.vom [e75fdf15e31e64ded2693cf1134308cdde64e88babdc7dc2510eb130d68dd2b4]
+│   │   ├── m3.vom [b5199bee98685b53c2be9080ecc99c4a7a9de4e6a45ae1582bcfb3ded7deff43]
+│   │   ├── m4.vom [7d5f2a99648c91f9e22739ac6d2f64b0ef2d9b8fe649ff01c20251886cc0b456]
+│   │   ├── t1.vxe [aec6ad6bf51239fb9e7f7b6c95b569d46363d11920b3fcb27b43408449880299]
+│   │   └── t2.vxe [effb2d4f49930191287bdab0f3bb2dfdc3b7d1368dd50d22cff3516fa1199ca0]
 │   └── 6418
-│       ├── 1-za6418.vom
-│       ├── 1-za6418.vxe
-│       ├── 2-za6418.vom
-│       ├── 2-za6418.vxe
-│       ├── 3-za6418.vom
-│       ├── 3-za6418.vxe
-│       ├── fire6418.vom
-│       ├── fire6418.vxe
-│       ├── m1.vom
-│       ├── m2.vom
-│       ├── m3.vom
-│       ├── m4.vom
-│       ├── m7.vxe
-│       ├── t1.vom
-│       └── t1.vxe
+│       ├── 1-za6418.vom [648bfb182fce8e9b836f97bb9ec95ca33b5e7c69baf8f08479f3e061c6f57afc]
+│       ├── 1-za6418.vxe [b1f7c96078a3cde02f3b651c7d76133b05be4b2f2e7ac6df05b1e983021036f1]
+│       ├── 2-za6418.vom [9c99398b6b72fa275fdbe928688a90291fbb85c7dd0cf1b12cf7dc9556a33aa9]
+│       ├── 2-za6418.vxe [4b0b69ae78302b85d123c3e353e0a6cded5fecd6493e76463830d44b51ab0650]
+│       ├── 3-za6418.vom [b1cbcc2fab3c4948908f3e1db8af6ff78c7b04d7d2274d8a6d29cb9594bc224a]
+│       ├── 3-za6418.vxe [76f4349d83b0c35f251de510200f1ee530ee0538b570d6ea70bb41bce500f71b]
+│       ├── fire6418.vom [0841c2ad55888b59b768cf3234398187e6e954316a3821de37e78c03016f3d41]
+│       ├── fire6418.vxe [42085cdad938006679605310c7ce338060490fb882eee80ac53f816bd942bc55]
+│       ├── m1.vom [0a66dff2535dbe662ab9b4d30477d3b8f0a983e7f854bb3e0f45885b5cf11e84]
+│       ├── m2.vom [8d10d19a4d386c59cea4e3e551df370169ad570701aff8b08f25cd8d7e8b8b0c]
+│       ├── m3.vom [239eca0a346afe96cdfd890b3391f6ef2801b6e4653638b828469090142d4620]
+│       ├── m4.vom [265f1faf2b1e42b7211e371ca918776bbc6fbf276eb5a0c77a82a5b9ef0ffdb3]
+│       ├── m7.vxe [aba215a08255752d43e9f80579290bd328bee7f0fa1ad8c9c2c911ea048721a8]
+│       ├── t1.vom [7d7218357c3f1987124a94ed3c532ecfd0e58fd82dd403dd63053cc07a53606f]
+│       └── t1.vxe [394506760b92fb97b55d359e1ef216aa1708ba928155ef987ef1f405d766dbec]
 ├── zamoy
-│   ├── c-zam587.vom
-│   └── command.vom
+│   ├── c-zam587.vom [8c901a13c5988fbdc21d5eb07ae5ba15044ebd4c6c4e8e3f623f9d575e67bf2f]
+│   └── command.vom [0e9e7724428816a5e34fd689eb3e5be9375813968b03e13e63ace1acd3ae9795]
 ├── zaneto
 │   └── 1769
-│       ├── 1-za1769.vom
-│       ├── 2-za1769.vom
-│       ├── 3-za1769.vom
-│       ├── 4-za1769.vom
-│       ├── c-za1769.vom
-│       ├── t1.vom
-│       ├── t2.vom
-│       └── zane1769.vom
+│       ├── 1-za1769.vom [9b65dd1d7959b8387a963990a28767ac2dca77bec251fbc2640b119ae8369990]
+│       ├── 2-za1769.vom [58b2f79e26e63a5094d3e13a7bcaa00db005818d462a158c118c2e4bb1d2eff4]
+│       ├── 3-za1769.vom [2424d139acdb15c459ff3394d51932235a8b7c296955d96a2b2081cc0fce637b]
+│       ├── 4-za1769.vom [2e92fc062f56266781152b7b1b893b225da61057580410dc0ad2e0bfd5280826]
+│       ├── c-za1769.vom [24d2c9ac4b05a38f71ab3905b0a6171a095d90eec8055d61c93996218eee2829]
+│       ├── t1.vom [2870c5aac91a66ff97377783c01e617af1718070f656358b5acfbd9cb5fd7216]
+│       ├── t2.vom [0a740905f9c4d8f9c49e1323f34aebfaf87b2005a6760a8c388949b60f6408df]
+│       └── zane1769.vom [259b0b59c7ba6bdb56ddb661c9154501ac5faadec66b6ec16ede3cf4b9180a9f]
 ├── zaphod
 │   └── 399
-│       └── zaphod.vom
+│       └── zaphod.vom [13b86488a309365c0e665f43f8a8d09cade26b8e7573832632f6b4a527ae3329]
 ├── zapper
 │   └── 1121
-│       ├── debug.vxe
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t2.vom
-│       ├── t2.vxe
-│       ├── t3.vom
-│       ├── t3.vxe
-│       ├── t4.vom
-│       ├── t4.vxe
-│       ├── t5.vom
-│       ├── t6.vom
-│       ├── t9.vom
-│       ├── trace.vxe
-│       ├── victim.vxe
-│       └── zap1121.vom
+│       ├── debug.vxe [18da61ef1b03d2dd4d2052c3223d5e2e089fad7f71c1add5dff21f714cf43f8a]
+│       ├── t1.vom [bd2a6e65248e6b2d0cec9b892fb59f7e6e938a10aed8dd0af0bb2d7fb2cf1a48]
+│       ├── t1.vxe [367c3582c6c893b9bb3f70db62cc0afe077b2909fbb8782454f12fe97d124676]
+│       ├── t2.vom [cebc21a1113c7040003a8c669d65e487a1e2065ed492aaebf57af3f995e1cde0]
+│       ├── t2.vxe [3a5ac45f333780927f8a174117e73a341430743e547d03b5085ff7f302a1a1bb]
+│       ├── t3.vom [95d4ac6d17c627a7f2758227120ba0b66ebd78788a763fe4ee15363c0b314894]
+│       ├── t3.vxe [53eb8d4fdba80d8f63b77c37321349c496f7bc2aaa6da372558df947299fe7e2]
+│       ├── t4.vom [fc5dc3f38c31fadbf92f5487a5173127d9912b7cad079d78de0a5a2be9cd8519]
+│       ├── t4.vxe [a8d02ef11d75ccf0fddd0a39c5d18c55de26339a3fdb4a7609875eac2ddcb65c]
+│       ├── t5.vom [d24273dc70bd055460e5e2e5290dd790fa29f0d14fe05a6f3d64991b3992a90f]
+│       ├── t6.vom [48732df0e34a742b281ed93d42ddc5a509c4b7d781815ea2a00bb0e2f00ec15c]
+│       ├── t9.vom [0c110c7c3bfa9805cf2e5f5b0d6c1bd693a0512f93f980e26055f8cb88ff3040]
+│       ├── trace.vxe [9483167f3a4098772e9106938d05b6ca58c8730a41be8341cb408460d56abece]
+│       ├── victim.vxe [0b759635cf6807628f9e07baf51cdb6c3c81d165829ba6517f86849bbd0f90c6]
+│       └── zap1121.vom [f091b2bdde20309cf4d4d75785c64106eb3d0ede0b3e8b3882e12ea73db6b492]
 ├── zarazony
-│   ├── tf.vxe
-│   └── zarazony.vxe
+│   ├── tf.vxe [d3861e14feab193a90ff95fbd42fd619bea152e540380c0349f0c861704236ed]
+│   └── zarazony.vxe [4c4aac73529af958a07a112070f357ce3d5b86709cb38dc50b6b51269ae98ef8]
 ├── zarina
 │   ├── 0509
-│   │   └── virus.dos.zarina.509
+│   │   └── virus.dos.zarina.509 [24a1558f179efd337b14b171cb72b4a49396ff9a20faf51f520f2cba08175deb]
 │   └── 1730
-│       ├── 1-_1730.vom
-│       ├── 1-_1730.vxe
-│       ├── 2-_1730.vom
-│       ├── 2-_1730.vxe
-│       ├── 3-_1730.vom
-│       ├── 3-_1730.vxe
-│       ├── 4-_1730.vom
-│       └── c-_1730.vom
+│       ├── 1-_1730.vom [9d93044a25048e8640690e64b9b5c641fb6e2914e3fd5fed89c72c9b6cbfc9e9]
+│       ├── 1-_1730.vxe [1e92ae5e6151a63444e8aa4c2d9a86575932c9a43d1a3bee7d15561c3d5d6bfa]
+│       ├── 2-_1730.vom [3f926b2f415647afb4fb67287b74fc64c418f0851b04e930c960192147d60d1a]
+│       ├── 2-_1730.vxe [385e957d7739105d8442c2677d21da26855ad97368de3988a7c3de460e3d9326]
+│       ├── 3-_1730.vom [fc751ab0141130fc8a2b5addf036ea59aae75966e0cff427dbe7c682fe026e5a]
+│       ├── 3-_1730.vxe [1c2d732118202db4ffca814462540b11c162bb916bddb304da5f8f96eac3e58d]
+│       ├── 4-_1730.vom [1e524af485ca16d9f625aa698db68f6539cb22635f6ae2e205621ebbbfa68c5b]
+│       └── c-_1730.vom [e9d7746d078bcc17c1c38effafa7ed0dd947809de990926df93ceed4d4b745d2]
 ├── zarma
 │   └── 2322
 │       ├── a
 │       └── b
 ├── zebra
 │   └── 935
-│       └── virus.dos.companion.935
+│       └── virus.dos.companion.935 [b83b886b16a5ec98dd976dfe2f375e066863be2c7c8a93774f11e4696bef9548]
 ├── zed
 │   └── 287
-│       └── virus.dos.zed.287
+│       └── virus.dos.zed.287 [66e60bc498d6efbc33a75cab143d4a375991e9c766cdd321d5f0567afe3b2638]
 ├── zelentsv
-│   ├── t1.vom
-│   ├── t3.vom
-│   ├── t5.vom
-│   ├── t7.vom
-│   └── zelentso.vom
+│   ├── t1.vom [55dad39a6e4313de6c95f56e17ffa1f534882318ac0e1c4873e6502d31eb4468]
+│   ├── t3.vom [56f70be3a741bf63537e036c51f6433326993a3706e68800cea95abb74c29a4e]
+│   ├── t5.vom [c5a249eb3313c623f1e1c2b4630f0d23994059054c1414eb3184982129251724]
+│   ├── t7.vom [c4772ebe25dd75ed3c60458c1e04d3efb08e91ff3da4c2fac96fd0ec8ca908e5]
+│   └── zelentso.vom [d20aa46b78b73367fec3282fec6869f705b6b7760c4951fba42e5ab6ca5d38e4]
 ├── zero-to-o
 │   ├── 403
 │   │   ├── a
 │   │   ├── b
 │   │   └── c
 │   └── 409
-│       └── Virus.DOS.Zero2o.409
+│       └── Virus.DOS.Zero2o.409 [875b5c366f39161508883704b70a1baa49e0867b1e0fbd97072d9516ef0e8444]
 ├── zerobug
 │   ├── a
-│   │   ├── !2186.vom
-│   │   ├── zerob.vom
-│   │   ├── zerobg.vom
-│   │   ├── zerobu0.vom
-│   │   └── zerobug.vom
+│   │   ├── !2186.vom [25537b246b0a6c4bb7a013f013d31002aacbcb8f450fc475bd56029a80104517]
+│   │   ├── zerob.vom [3b8291eceed296aa5befb8c8cc13da56f398f92b23cd365fd9995a83076f71a0]
+│   │   ├── zerobg.vom [b249c01f38c19851a0a5329b429fcf599c2fbf8e97e22cdfe77bee1d267f4b89]
+│   │   ├── zerobu0.vom [3a070fa6d252f22045549b66c7dcad5193061055669f8406404cb5709cb473c0]
+│   │   └── zerobug.vom [a0d83d5c52bab2c9a71f62a00379caa14898aba0d9113ddca4c3378ed852d4f9]
 │   └── b
-│       ├── t1.vom
-│       └── zerobugb.vom
+│       ├── t1.vom [e22accf89e6d9b0eb3e66d56cda2a2d73c11ffffe1995ee270706d4fe2f2858c]
+│       └── zerobugb.vom [31293450c852f9dbb5d7ea589f52430672174cba10fc9c1734e667863b959b25]
 ├── zerohunt
 │   ├── 411
-│   │   ├── zero-411.vom
-│   │   └── zhunt411.vom
+│   │   ├── zero-411.vom [881dc5bb4056fc119cffc4b23cca0db619e738fb325bed653d2c8410bae3ca39]
+│   │   └── zhunt411.vom [bf7e8f0c093d2e5c0ace3384d2ad038a0aa1522b4aa372e6a1f77b5e7cc7f6fa]
 │   ├── 415
 │   │   ├── a
 │   │   ├── b
 │   │   └── c
 │   └── 422
-│       └── zerohunr.vom
+│       └── zerohunr.vom [41d1135493fc1e1e9de96682f42524aacd626fcf7bd23dfbcc38d65568dd1617]
 ├── zgb
 │   └── 2128
-│       └── virus.dos.zgb.2112
+│       └── virus.dos.zgb.2112 [550e37ce98f8699412698b1d8931f89fdf62c9c9d812570f6b212bcc37c3c946]
 ├── zgenrat
 │   └── 785
-│       └── virus.dos.genrat.785
+│       └── virus.dos.genrat.785 [8cb8519ba72f8ef28e03541098a9bafac76114a062c690d195087e21b548b6c3]
 ├── zhangfan
 │   └── 1535
 │       ├── a
@@ -241,97 +241,97 @@
 │       └── c
 ├── zhelez
 │   ├── 629
-│   │   └── Virus.DOS.Zhel.629
+│   │   └── Virus.DOS.Zhel.629 [0312016ebd44c82bca284cfcc6b838ffd4932580614c201cc84a5a87b7d5d3f3]
 │   └── 664
-│       └── Virus.DOS.Zhel.664
+│       └── Virus.DOS.Zhel.664 [5574ab0d3607eda850343cabef72dd973cd6ac5a2cc18eb6174ea9bc9bef44e9]
 ├── zhengxi
 │   ├── 2370
-│   │   └── Virus.DOS.Timer.2370
+│   │   └── Virus.DOS.Timer.2370 [e0a68c64766a069515a5dc94f1dee23736aba971bce051a6179a22831be9d630]
 │   ├── 7271
-│   │   ├── abadbs.vxe
-│   │   ├── ai.vom
-│   │   ├── al.vom
-│   │   ├── arj.vxe
-│   │   ├── at.vom
-│   │   ├── bisel.vom
-│   │   ├── bkn.vom
-│   │   ├── bu.vom
-│   │   ├── cat.vxe
-│   │   ├── chmo2.vxe
-│   │   ├── chmod.vxe
-│   │   ├── cq.vom
-│   │   ├── ddht.vom
-│   │   ├── dkkvi.vom
-│   │   ├── dkvsf.vom
-│   │   ├── dpje.vom
-│   │   ├── ed.vxe
-│   │   ├── eddt.vom
-│   │   ├── eteeb.vom
-│   │   ├── fbcvf.vom
-│   │   ├── fu.vom
-│   │   ├── ggs.vom
-│   │   ├── gkis.vom
-│   │   ├── huct.vom
-│   │   ├── ieqpg.vom
-│   │   ├── ietce.vom
-│   │   ├── ifrfv.vom
-│   │   ├── ig.vom
-│   │   ├── im.vom
-│   │   ├── iold.vom
-│   │   ├── iq.vom
-│   │   ├── jcbms.vom
-│   │   ├── jpakt.vom
-│   │   ├── kan2.vxe
-│   │   ├── kanari.vxe
-│   │   ├── lba.vom
-│   │   ├── lepj.vom
-│   │   ├── lqop.vom
-│   │   ├── lu.vom
-│   │   ├── mam.vxe
-│   │   ├── munh.vom
-│   │   ├── nr.vom
-│   │   ├── ofdj.vom
-│   │   ├── pkzip.vxe
-│   │   ├── pqoib.vom
-│   │   ├── pqv.vom
-│   │   ├── qe.vom
-│   │   ├── qk.vom
-│   │   ├── qkks.vom
-│   │   ├── qmptk.vom
-│   │   ├── rrlgm.vom
-│   │   ├── rsr.vom
-│   │   ├── rurrq.vom
-│   │   ├── sgk.vom
-│   │   ├── sppb.vom
-│   │   ├── tb.vom
-│   │   ├── tot.vom
-│   │   ├── ue.vom
-│   │   ├── uipo.vom
-│   │   ├── vc.vom
-│   │   ├── vcstv.vom
-│   │   ├── wc.vxe
-│   │   ├── zhen7271.vom
-│   │   └── zhen7271.vxe
+│   │   ├── abadbs.vxe [c4e0b0b9d252069ff87164044c93ec917caee9ec76ccf5a16d57bce0db5d1bad]
+│   │   ├── ai.vom [e0a513c7176140fa2345a83b1accc65db1c8ce8a920504874705a86cec42b240]
+│   │   ├── al.vom [a21b140c491a6b098f19b7009e4a70f1ed0f6da83db4787b6166b71680d63ca0]
+│   │   ├── arj.vxe [3e23d055a854a7fbdb5f8c6b545521acb6962c0aa9862474af6824abaec5d67b]
+│   │   ├── at.vom [88db0143b281a091f32465221b4ca76892eda52865b0d30148c9b05bedb90dcb]
+│   │   ├── bisel.vom [74c8d6769e9afe47de1bd56a7f722fb08018e20e18d18f2bb99ea91c18188b23]
+│   │   ├── bkn.vom [4c4c2b706ac0d95861779bafb52dfc3955d54a1baa9350c8f6beb0e6cc09f71e]
+│   │   ├── bu.vom [b6186c104abc0febd502b6ee86c867b5ff38fb4c20f13b24c3861c3ffed07267]
+│   │   ├── cat.vxe [eb1e7914f96ef3232438a1dc3b6d57a7a506e2338c988f8cf5dd1cd24804956c]
+│   │   ├── chmo2.vxe [addc64ddd42eda4d086e0222adc71dc62947658c5dce8805b97c4cd5b553b493]
+│   │   ├── chmod.vxe [c01dd48d1e9386f55d1adb6eec5e1de8fffa42c642a672d1c65fbc201804957c]
+│   │   ├── cq.vom [1a46c37e5507d4f62ff2984ea1fecabad349f86b72a7dc37df7ce48cf69f1e18]
+│   │   ├── ddht.vom [865e6b5f0da476e10827747626b43d7e499d6aeb3f97833ee8cd002917b1c799]
+│   │   ├── dkkvi.vom [d14c57b34d33d9b6747260493702c5f11b1610d87ad4fd2343e4d7cca77189fd]
+│   │   ├── dkvsf.vom [44deb08fd2adc5252cd17d688c41a93853754f302030ca09e4a257a5d52c3770]
+│   │   ├── dpje.vom [7b5f56771846ce370a3688bd3ba6087e41a208acae113ed4381bcb8d0d3c7d56]
+│   │   ├── ed.vxe [49b82646c070355d258bc61be528fd44dc2a2aec21c8f3e0e0d423a735573e76]
+│   │   ├── eddt.vom [490a3ad6b39035b670d7d37a46da525b641235e8ff5ff08e5818f653d042577f]
+│   │   ├── eteeb.vom [d699df6b4ab6e463687a902230cf3afbd8120fb1c011dddbb30038b508bf1863]
+│   │   ├── fbcvf.vom [ab69625ad6c017591d79ea2f231f3eb22b003a1b04b1f9f10080b62f0fced502]
+│   │   ├── fu.vom [9a5cefc5333b68554e12f658fae4a45750f22ee8aa51020c1a21a3896fc6204d]
+│   │   ├── ggs.vom [7cdb62fced82da4810134c0d3644760ef27c44a6faf4159b708cb22f1cb2867d]
+│   │   ├── gkis.vom [a0b7485a65e68c1576cb03dc3f7c7da982f23d4e48ade627ee1bd71561197b44]
+│   │   ├── huct.vom [40fa3decb8074aea369814dd4bc461971044e062a38990cb2e6176b88c445b40]
+│   │   ├── ieqpg.vom [bbe71bdfe542cd219f95c480b028d5711e44ebae8c4ca14e410d499c2687bf78]
+│   │   ├── ietce.vom [9655c940a65c5bce78cf772f5aebb9e32b238b6b70976caaabfb49e4400f5d02]
+│   │   ├── ifrfv.vom [7fda0cc6e280942b490b556ea770df6fd92238097646633c8e84657d77156d67]
+│   │   ├── ig.vom [de33c9fdd771455835a73a4015ed96a4c356b9bc8018f9b70527435159c35766]
+│   │   ├── im.vom [f9a1a72ec4cf8f4678570c3e2b8fc576afcef222fa5fb6a016b4a615347e88ba]
+│   │   ├── iold.vom [7eaea5284416c170a411a2e40deb08b986e0cc7ec83dd12c90a83458e3503f4e]
+│   │   ├── iq.vom [8eb30e67969108af2b2e061a5187e00400ba14021b5dd15a09737beb00d01b70]
+│   │   ├── jcbms.vom [93105e30d11ed062ece62dfe8140f7e98299ba1951c44e35fe7d437c51386288]
+│   │   ├── jpakt.vom [70dbc4624a6441c884cb459fc01729850f8d1e95cc69d5f5c8b6063b8418a273]
+│   │   ├── kan2.vxe [bee609b396d6fa5871d44b8424d77c1a4f2d1cc1c2d234b803e464520bee89b5]
+│   │   ├── kanari.vxe [8fe0d866b0cfb8d81456e8fe147d78724ed6fc141b5ce20a86f0c022dc4de2bd]
+│   │   ├── lba.vom [93f87240d627b92d366991ed07d7313c5c0634c894356b091ed134e4f61d3440]
+│   │   ├── lepj.vom [58f3f4c31b899134fcbc15e63393e22cb405d9f3a0357b7a29828dc6f2fcf24d]
+│   │   ├── lqop.vom [b4dcefa4ed42d70364e5a606936cb69beae8d1c02cb320029ece5dea229aa562]
+│   │   ├── lu.vom [851f508eb92ee661c55f253a802993d3b592e29c48ad98952adc40471d5cc926]
+│   │   ├── mam.vxe [38815d10d58d8c74b5762993201166f320fe215c28fb274e3ab6e264eeb51292]
+│   │   ├── munh.vom [ad9bc0796db5778f9f4fe84344461a70a01324e3daf772a06379e11e5de68d38]
+│   │   ├── nr.vom [f5f8f8012ad5e301c26fcac90735b205a2858b4d7b8b59e567b1ec657519df6e]
+│   │   ├── ofdj.vom [ef222ebd260451df6f4566c68d0143f727d11e4ce5e064b8aac492552055c909]
+│   │   ├── pkzip.vxe [8a65f6e1c7287b0e924d73afc772a433316a1cf93105c20737357f0bb0009d14]
+│   │   ├── pqoib.vom [428192c73c6fb5e332a0dada38c6e49d04270d2d7579f406c160618ab2107a5f]
+│   │   ├── pqv.vom [669155874b3a529061d06639c15b10948caf025c64d65d0ad7d3323c10a32cda]
+│   │   ├── qe.vom [262f9309bcc780ec6cd293ac8eb1fc70ba409827edd4873e452ebf6726e31ada]
+│   │   ├── qk.vom [6f81ae86a2320a6b07d5de169e48e37d8c92594d496f02e4f968143ccd890acf]
+│   │   ├── qkks.vom [216ae417a994b25aec3d72c4721f262ced051ac1110ff972b7421909f4a0d815]
+│   │   ├── qmptk.vom [d1aab30768648f8e684949791401b1cd49f5a32e481dedfca8922d8a41078cb0]
+│   │   ├── rrlgm.vom [bc163b22b52aebe145111cd65c286c3782498466228596bfde770f98a3ba7c5c]
+│   │   ├── rsr.vom [81b976d8064e3069ce88c0bd275e87f20b46377f6a46a1689819957b90a0c1d5]
+│   │   ├── rurrq.vom [f404bc2abb53cc388f3d5b917cd1452457f9aa22dfdab1e320b976edebd5f654]
+│   │   ├── sgk.vom [f99bdc110f86ae8a68c59a1fd1df18a3d76231bb2161782e9c0d8b5b3cdb4f83]
+│   │   ├── sppb.vom [0d970e93f064b49b739e39dd9a7254a1caf9f52070b5851a21e1c262f29a2955]
+│   │   ├── tb.vom [2a927613b0729c7d1af35263b9121c001b4f309ea59b34567b41805828c9f737]
+│   │   ├── tot.vom [56d735282f6b7267c013b69f40533790c4ba6bf3f6477b2699d5665cdb6109d6]
+│   │   ├── ue.vom [3102f8a4acb08d254626dd000d3332767bec5c01db137f84c3794a0f1a35ef23]
+│   │   ├── uipo.vom [881ba2ff67de93b1c47a0b0821efac8f760f26c83bc4d5fa1f3d65735664376e]
+│   │   ├── vc.vom [0c392a92939b1710dc4f522d37be732219149f8f1ee53eb9f926fd2fc0b8b928]
+│   │   ├── vcstv.vom [1986a916364895d573df0c13b8e8d78057c4f20ce6a4fb7007a7e405d6695df4]
+│   │   ├── wc.vxe [f9eea695c1576fd6073ee6225f0295137e79624ce312f5feed45d6d09696f719]
+│   │   ├── zhen7271.vom [14237fe2023ea0b99c4b987eed98f43e5e186df9ec168fdb8eafdafd533c4e65]
+│   │   └── zhen7271.vxe [918dc22b18bf9f23063894c2de38a393c917bbde5c37fae2ff79628438dcf542]
 │   ├── 7307
-│   │   └── zhen7307.vxe
+│   │   └── zhen7307.vxe [c7aa4b4d9250a76feac016d0b434eedc3bdd0791642f08df34d0e067e4ae9b23]
 │   └── 7313
-│       ├── zh7313.vxe
-│       └── zhen7313.vxe
+│       ├── zh7313.vxe [a81297115f26961b226264767512bd655d1e259575e82fef9ee7beb7a58b5555]
+│       └── zhen7313.vxe [fb38725c67302cfd03d9212d7cb217bfb74bcb63ad34d16bcc03a3fd517dff8b]
 ├── zhengzhou
 │   ├── 1759
-│   │   ├── chang.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t5.vxe
-│   │   ├── t6.vom
-│   │   ├── t7.vom
-│   │   ├── t8.vom
-│   │   └── wci0112c.vom
+│   │   ├── chang.vom [33e403477b4b477745bef10f69372026905d2300e1a5545080699d6d032bff01]
+│   │   ├── t1.vom [8f7a67cc187c6b99f322dd4ac4df7adf81c702bd46eaf031867312668b40f08f]
+│   │   ├── t1.vxe [8380ae2d086e4de449aebe1c454d624f50264b59a0bb98ee250bb3757e7cc6f4]
+│   │   ├── t2.vom [4a30b31d93986741c29f98a139c7d8cad3275325cd86769f295f25db3af36cce]
+│   │   ├── t3.vom [32a7212f537e665189fd125310e77b3ac5c063aaf3031f6c69da8bb183cbdbd1]
+│   │   ├── t3.vxe [c2d9c3f1a964bbe73893365473717b4d1427bdf9b3ff0f242b9b6164173790b0]
+│   │   ├── t4.vom [e26d5e587ea03e386e06039de7e53b753922f6024b86a98dffefa3334b5cd80e]
+│   │   ├── t5.vom [991e2254bf75db1b18594280cb0e07f9421b1b04b86771eadc583b936c4309ff]
+│   │   ├── t5.vxe [6423eb934beb9c364ea6c3556ce30e92c4de415c21530917ee4e32dbfc40e301]
+│   │   ├── t6.vom [1f361f1214b787104b6e16f044024217f6c4aff82bae8f93180aaf1d4e98c9db]
+│   │   ├── t7.vom [9872509f279307c80d7f1b871cb1527fefdf7c8657e3286b413867934392742e]
+│   │   ├── t8.vom [0ede0661cdc96ca8b28e6c61be62b5931a5050f4d15e2b270aee84c6c07d4cdf]
+│   │   └── wci0112c.vom [a88b12e9ad31ad40785d2fc435bc153d8d5657d75ec7e8d0f268b29e73ca34c1]
 │   ├── 3571
 │   │   ├── a
 │   │   └── b
@@ -341,268 +341,268 @@
 │       └── c
 ├── zherkov
 │   ├── 1018
-│   │   ├── 1-zh1018.vom
-│   │   ├── 2-zh1018.vom
-│   │   ├── 3-zh1018.vom
-│   │   ├── 4-zh1018.vom
-│   │   ├── ZRK1018.vom
-│   │   ├── c-zh1018.vom
-│   │   ├── loz-1010.vom
-│   │   ├── loz-1011.vom
-│   │   ├── t1.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t7.vom
-│   │   ├── zhr1018a.vom
-│   │   └── zhrl1018.vom
+│   │   ├── 1-zh1018.vom [ba4e3760ba436195b535c8013afc0ca456346d367710ada6a064cf02e3dccd1f]
+│   │   ├── 2-zh1018.vom [93da42e1427f71f25c7eef5c4342130ad182b3fe64e8de3b4a52d79c56f76646]
+│   │   ├── 3-zh1018.vom [74b8fce2fdbb18315aee08a131005bd081b5a149b47a9d2905043ba2bba532d2]
+│   │   ├── 4-zh1018.vom [513cc8879a0c5550c27d8ab6b73b78feaeba1c56e08d5d7bab772a8d9dad84ef]
+│   │   ├── ZRK1018.vom [0d79cfbe21f898eca5c389abefe0300ce7c0a218d7ecd1280a8317ef245cae3f]
+│   │   ├── c-zh1018.vom [ca159da7fe0b84c593a56c7c6f4c386510345839534f7fc2d303d8b65710e854]
+│   │   ├── loz-1010.vom [ae46f75bfe53ba96ec16e91e012c542edf2aa56d373cfd4603c9d38f45b47362]
+│   │   ├── loz-1011.vom [a7b0cfa9302eb96f04564e22024d3e4972a15e4d2a713f303738ae41ac4fad62]
+│   │   ├── t1.vom [c60e64e06fe4b07da8639009ece127fdd9736cd19ad93d5c40c953403f8f556d]
+│   │   ├── t2.vom [eab7bb5dac10804862616a706de0abcdbe9b10855a14dfca281788f866db8b20]
+│   │   ├── t3.vom [bcd1870bab7c339dfbf4bac43ff0848ccce5ee81940d36372f5f077d872a662e]
+│   │   ├── t4.vom [2b6b904f146d7500ffd82b00662a6c303cc4aff06a77d3ef26bbed65ad1c5ed0]
+│   │   ├── t5.vom [6e14bf6117f24c5d03c8ea8ac7eabe398158483697aeb555b6b9f431816a6a7c]
+│   │   ├── t7.vom [21493cdb96d759acbd05ec889842eccb725415f40ce92f4994ade8c8717812cc]
+│   │   ├── zhr1018a.vom [c9858356d79ff563f593760384cc67771374dd965cea66a873f23ff3e0bfe007]
+│   │   └── zhrl1018.vom [6c2ab0830767613fed3b644c72de155800652be3e22d2956f66155e41a54e341]
 │   ├── 1023
 │   │   ├── a
 │   │   └── b
 │   ├── 1882
-│   │   ├── 1-zh1882.vom
-│   │   ├── 1-zh1882.vxe
-│   │   ├── 2-zh1882.vom
-│   │   ├── 2-zh1882.vxe
-│   │   ├── 3-zh1882.vom
-│   │   ├── 3-zh1882.vxe
-│   │   ├── ZRK1882.vom
-│   │   ├── c-zh1882.vom
-│   │   ├── zher1882.vxe
-│   │   ├── zhr1882a.vom
-│   │   ├── zrk-1882.vom
-│   │   └── zrk-1882.vxe
+│   │   ├── 1-zh1882.vom [57184f8ff510ee08ab7b972da87faf86decba339e0594b6bef6e665915c8cfd1]
+│   │   ├── 1-zh1882.vxe [2e7c0ff41cd539e1c5d57f512d101d816f381098f4ad234959b13e35c7e8f818]
+│   │   ├── 2-zh1882.vom [84de9d79fa26bb2bb0bbc6f9048550afec7ed5715dea4e7eac58344e2cde684a]
+│   │   ├── 2-zh1882.vxe [59e3159d45e80a505d9d7cdcc99c67cbbb49a0fe0969c39b73b2cc97dd618a4a]
+│   │   ├── 3-zh1882.vom [2a22124171ae21267e2896e86788b670e3f485bead658367aa2c7ccbf7aafb9e]
+│   │   ├── 3-zh1882.vxe [d9071666aa41c92832b3eefbb0b1a960e028fd4b40f300d037f7f5a9554e4066]
+│   │   ├── ZRK1882.vom [7f4b77ca417f1a48cfa29993adc4e76ebf4756f9e4bbce025844e2a133167916]
+│   │   ├── c-zh1882.vom [16f7beb32992b9fe1e0fba80e3210b10f6a6179a435a8e7eb319b0f1b21f6a25]
+│   │   ├── zher1882.vxe [852b70930abf61a6d260251768bb9304e262324741537179c916c7b96e501900]
+│   │   ├── zhr1882a.vom [3339618bb38d2741043a1caa8be00be2a626d9a3a7053b3519450eec590b9117]
+│   │   ├── zrk-1882.vom [6fcc864f46cc9ffe3cc8e531f1340b0513a3c82517add7ce8bfed68d3506d1b9]
+│   │   └── zrk-1882.vxe [a266da1d85cf970678df86e45ffdf92a3138ad5f3979e86717c5c858d990c4db]
 │   ├── 1915
 │   │   ├── a
 │   │   └── b
 │   ├── 1922
-│   │   ├── loz1922.vom
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   └── t5.vxe
+│   │   ├── loz1922.vom [366bd30dc899d572de8e80e7041853f7e37d320dede81ab7c578af2354e4952b]
+│   │   ├── t1.vom [2c96095620797f764a72b16bdaac2852455c504587b2175fad007f7b18ecd105]
+│   │   ├── t1.vxe [00cf1afb433397a8211ace1e2a2d505a80dff7a052d1a1a1183ffa2eaa0aef60]
+│   │   ├── t3.vom [e38a76edc84a9ed5617099adc7d70c69696edbb55e07962b47aa735444ef51a4]
+│   │   ├── t3.vxe [0f840f60ee4abdaa20cd2ab1f24ac4fdba5f267c52d6ee4a300d21ed1f7fdbf4]
+│   │   └── t5.vxe [33de28b34e5ac70ffdfa2cd3da5dd66937ccec457e37b782f2f1380690757a57]
 │   ├── 1940
-│   │   ├── 1-zh1940.vom
-│   │   ├── 1-zh1940.vxe
-│   │   ├── 2-zh1940.vom
-│   │   ├── 2-zh1940.vxe
-│   │   ├── 3-zh1940.vom
-│   │   ├── 3-zh1940.vxe
-│   │   ├── t1.vom
-│   │   ├── t1.vxe
-│   │   ├── t3.vom
-│   │   ├── t3.vxe
-│   │   ├── t5.vxe
-│   │   └── zher1940.vom
+│   │   ├── 1-zh1940.vom [76903e5597a1c65bdb4bf686a24a40e8d3641685c0863b21ef2d9452493d1997]
+│   │   ├── 1-zh1940.vxe [6eff787dc0880c66efcd5454b2e04897937054e28100a89af54a5835dfab2184]
+│   │   ├── 2-zh1940.vom [22142bb36258e756c990ccf5c4cf546be4dc361c119e6635aae99dcbf582d685]
+│   │   ├── 2-zh1940.vxe [ced23721ef3029a8f942ede7a80e07e1ebde9b49e8389717385e4daf4d68c624]
+│   │   ├── 3-zh1940.vom [eb545864b2ae8f350441fa06f34db7c794325af054a8f8f11e9e48bafa5aeb5c]
+│   │   ├── 3-zh1940.vxe [055f533b8b6955ccac9c87440e65f59428b6e2c8eb981b664b6dc0c8ff607aa8]
+│   │   ├── t1.vom [301822b68421d54e40f34988958642021c91845402bc2184bc252c7f67c10b95]
+│   │   ├── t1.vxe [37dd9f3a4989edf9956b464ffc63d520be4229cd10585bf08f7b826d5c5ed8e2]
+│   │   ├── t3.vom [bc0dba6272f6653c97bfb943ac3301477e9a4a0b7bae6944bac4fab90494b307]
+│   │   ├── t3.vxe [e721dbf5faa1e230cbecd9a9009754471f05c6d593872c514888fa3851fbb81d]
+│   │   ├── t5.vxe [c85b9d5e76c184abac9398e5df40d6255a259c2c722c3d0a705de42f11435b65]
+│   │   └── zher1940.vom [0f06229b06e8945bdb2ca0dbad564b42b528c0e4dd250c9f686bd01d3a5ea211]
 │   ├── 1958
-│   │   ├── 1-zh1958.vom
-│   │   ├── 1-zh1958.vxe
-│   │   ├── 2-zh1958.vom
-│   │   ├── 2-zh1958.vxe
-│   │   ├── 3-zh1958.vom
-│   │   ├── 3-zh1958.vxe
-│   │   ├── ZRK1958.vom
-│   │   ├── zher1958.vxe
-│   │   ├── zrk-1958.vom
-│   │   └── zrk-1958.vxe
+│   │   ├── 1-zh1958.vom [2e9e8d686a523a5ef2dd40c548c157f8a7656949df81770874350b677a1e6c67]
+│   │   ├── 1-zh1958.vxe [26ab3dc9b82e63c3bb7fd2eb1c92509cd51ff28443d981800a4b469dbf8cb872]
+│   │   ├── 2-zh1958.vom [8664c6fe0a536c0fcb7f8df1c225fcd35067297552403811b3f2a65e2254a328]
+│   │   ├── 2-zh1958.vxe [a4bd8c61bcd90d4aa49e15895fd0b3703f6b8e508d73140acd45666715d67e86]
+│   │   ├── 3-zh1958.vom [2a83a46a5e6b4b715b797b37b2f21a8264ad4dd1e51059bda26db61461975423]
+│   │   ├── 3-zh1958.vxe [296c77563d29e06d5cc472d9ceb4af8d43d1c8887afbd04901b27c8bd367b125]
+│   │   ├── ZRK1958.vom [e0e7e93831cee8d77cac3ff9aa566eb1c0279042dcd8773ac3a2cf2de1d7f246]
+│   │   ├── zher1958.vxe [8463ac9eec3013887995ee9d94eeeb960400cd173afa53fbe48a5950e36433e7]
+│   │   ├── zrk-1958.vom [90052e745e5b3cde8959c6a06ebd5d9003f1dc4e1f83792f8b3d0e357cf0e5ec]
+│   │   └── zrk-1958.vxe [1270877dc6e5dc4e3e50d2d828ff201335844f86b05d9c8c75cf72264cc7c17c]
 │   ├── 2435
-│   │   ├── 2435.vom
-│   │   ├── rce#2.vxe
-│   │   ├── zher2435.vxe
-│   │   └── zherkov.vom
+│   │   ├── 2435.vom [2e15a77069c9bf945c931d8a35a43d61e457556c9d76a1eca017cfad9ccc1002]
+│   │   ├── rce#2.vxe [aeca184be66a8cde5d4e0520fc3151f47f440a9ed77a2db9a96cf112bf4341ec]
+│   │   ├── zher2435.vxe [a5546524b5d145cd996edf60796c874400b45964dea1df87432a8e5c55063433]
+│   │   └── zherkov.vom [eb6d64899eea48b3663b5a285c1f1266e3c72c5cefbf673d83afa5e6d8540a8a]
 │   ├── 2968
-│   │   ├── 1-zh2968.vom
-│   │   ├── 1-zh2968.vxe
-│   │   ├── 2-zh2968.vom
-│   │   ├── 2-zh2968.vxe
-│   │   ├── 3-zh2968.vom
-│   │   ├── 3-zh2968.vxe
-│   │   ├── blink.vom
-│   │   ├── loz-2968.vom
-│   │   ├── zhe2968a.vxe
-│   │   ├── zhr2968a.vom
-│   │   ├── zrk-2968.vom
-│   │   └── zrk-2968.vxe
+│   │   ├── 1-zh2968.vom [38a5f1ae6a6341c55488a7841f6c19fdaef4ef8f613eb5f031254be0ba4c5f77]
+│   │   ├── 1-zh2968.vxe [bead752e78e5f07cfce5162b97405e37598e0c2cf7435ee96071f4e6f2e6fa1a]
+│   │   ├── 2-zh2968.vom [e023a46c8ee7fa3f8c62a5dc6e3d1a952e50d03ae3abcf2c81fc8e203e99558f]
+│   │   ├── 2-zh2968.vxe [d1f65df3588399c04dc275723291a2542a323740250439fd0bf5e5572802eefa]
+│   │   ├── 3-zh2968.vom [5d19db1aca07ce4da4ac3e8898b81a9d7af5d949caaa81718edf7a6b74e008f4]
+│   │   ├── 3-zh2968.vxe [8f85b8f822edde22d2b3a003d78bad82a52b2825bebfb5207e2918cd96e990b1]
+│   │   ├── blink.vom [790707aeb5765e2bbb17c36f842a06f10add54350a225036d90fd6847d19889f]
+│   │   ├── loz-2968.vom [70e2da0a42f08238a06b9565b05372b49908b6070d1eb38e43197d2440678a50]
+│   │   ├── zhe2968a.vxe [bddc1c14b890a3010571167f33386b1aeb76d24d4f9b20885619a44233d6a21c]
+│   │   ├── zhr2968a.vom [c68f7fcb218b4d76680bdd407faf3da7d9ef70838cadc13abc94d4ab323502aa]
+│   │   ├── zrk-2968.vom [1148a5314bcb908a556e6b9e66d3e0c7c2a244c4960896d751e5df1fbd3b5637]
+│   │   └── zrk-2968.vxe [f1dba7ff813621d31fc8f1ad541839b7ac3e84c856c0012da5d40964a9c06914]
 │   └── 2970
-│       ├── 1-zh2970.vom
-│       ├── 1-zh2970.vxe
-│       ├── 2-zh2970.vom
-│       ├── 2-zh2970.vxe
-│       ├── 3-zh2970.vom
-│       ├── 3-zh2970.vxe
-│       ├── zhe2970a.vxe
-│       ├── zher2970.vxe
-│       ├── zhr2970a.vxe
-│       ├── zrk-2970.vom
-│       └── zrk-2970.vxe
+│       ├── 1-zh2970.vom [b403007a4140c8121ea577eda00e05ad322ea7c6e4d1e7eeaf87bdb82beafe0c]
+│       ├── 1-zh2970.vxe [ed40d68c771a9533d8d90b9efbdf09d79caa22679807a4a4193f9c9a4761ca88]
+│       ├── 2-zh2970.vom [702b25f17e30fb647c6ee33461463522a1b1d8acd51ad4c58469da391970ecbe]
+│       ├── 2-zh2970.vxe [e1c92c8696bbed51bdd635af7a0391ee4b7f26f87f41f9d53cfe1a1bda633ed5]
+│       ├── 3-zh2970.vom [be005b57ae83d0387349fa46c95fefe425c82853914676f205efe0ccab3b7212]
+│       ├── 3-zh2970.vxe [68dc6b226c97690ed704e5e3a1433d1c6e907c0cb870b57e3d4c786b4a624024]
+│       ├── zhe2970a.vxe [718f01949906a30ff96af56a8e6ad87f51df3b2e63dd54a8405e48c046b0fc6a]
+│       ├── zher2970.vxe [c43abcceaeebc32e0ee917e615f1991e90ae478824c53823f57a4f5b2286f092]
+│       ├── zhr2970a.vxe [cee4a7208ec3144eda92df0fc1ba27ebad356aa0a3b5e50afab133bbbee14be2]
+│       ├── zrk-2970.vom [9bd3e0c385ea2b3661bfb12182ee5e25deedeaf8363de4116d222e2849ed2198]
+│       └── zrk-2970.vxe [0b411318ad4701077bab4ba11a8ae1295e5ac614c431960ada4eef74dbf29080]
 ├── zht-cv4
 │   └── 1867
-│       ├── t1.vom
-│       └── wci0057z.vom
+│       ├── t1.vom [55d0c44f475bfd806597357af808abbf3516d6e880b9a24a70664ed6a0763ff0]
+│       └── wci0057z.vom [950ed13e0fe47acdabc92d4b5271649abcdafb54aa5a931f47950b9e9f4c3674]
 ├── zibbert
 │   ├── 1268
-│   │   └── Virus.DOS.A2Space.1268
+│   │   └── Virus.DOS.A2Space.1268 [ba2fbb6c3fd08beebf22fb2c4a4521112c880b701c6a13a904a84faebcf553f4]
 │   └── 1315
-│       └── Virus.DOS.A2Space.1315
+│       └── Virus.DOS.A2Space.1315 [e1dc3c31a3c014e9dbb01a679b9a076a82471a7f53ca73c5fb03d15ebb07f5e7]
 ├── zibit
 │   └── 1680
-│       └── virus.dos.puver.1680
+│       └── virus.dos.puver.1680 [f701ad95e9620b979ab85e1449cb132f5095ffcf39289d7ae29741747ad714a4]
 ├── zielona
 │   └── 2576
 │       ├── a
 │       └── b
 ├── zipfade
 │   ├── 1174
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   └── zipinf2.vom
+│   │   ├── t10.vom [f1e77b8d1ec33f0d764e25af6069a3d2e1603d588a82953172a919566a1e3294]
+│   │   ├── t2.vom [6fcb56f707906f484a49bde66f5c5bf47276f1a129d98dbf97d1e5fdd7d91ec9]
+│   │   ├── t3.vom [10ecd8fb2b46d5ef986ee36ba56088297c32f405c9ba77866b2249270b2073c3]
+│   │   ├── t4.vom [9bcc16d97902fb9c9711edc0798daed756c486219fa3417c8b8c2e1610b3284e]
+│   │   ├── t5.vom [24529b084ee9fd9b69e4c67e927e8b5e543b9a2941fc89539570c3073c2c2437]
+│   │   ├── t6.vom [53e35ff310df268760ff581440a414083ab9ba3ce32801f5c82d9aedba492861]
+│   │   └── zipinf2.vom [499c94831d2facec92b4387cfd3cb8e33d73ae2551c8dc1863c622739890f3cf]
 │   ├── 1186
-│   │   ├── keyb.vom
-│   │   ├── lwm.vom
-│   │   ├── mode.vom
-│   │   ├── more.vom
-│   │   ├── t10.vom
-│   │   ├── t11.vom
-│   │   ├── t12.vom
-│   │   ├── t2.vom
-│   │   ├── t3.vom
-│   │   ├── t4.vom
-│   │   ├── t5.vom
-│   │   ├── t6.vom
-│   │   ├── t9.vom
-│   │   ├── wci03294.vom
-│   │   └── zipf1186.vom
+│   │   ├── keyb.vom [1e7ea249cc54fc63a7bec2619861d68525c0e2d20d834e0ea18607cb3b5c2bb3]
+│   │   ├── lwm.vom [faebd088854572661b6173bf9421e8d24124c217ffdc422c77b92c0ff31eacc4]
+│   │   ├── mode.vom [32f8a10dd89063688677a2f39e750a8419bf1f3ce4a99fd833ba8d8de9dae8a5]
+│   │   ├── more.vom [c260e167fe196f740a8541d1ac627f9fb9455b5c53acd928d1147caf75f24d74]
+│   │   ├── t10.vom [29c06e71b9552f9d6b4eb06ae3dba950034c301d790814d00bd3850591e1af9b]
+│   │   ├── t11.vom [af8581c14580cd817fffa968e8817f5c904460300aa7d5ef3099942290f5f08c]
+│   │   ├── t12.vom [50b7431ebd080295ad8a86e2c58237c4639ed58a06f7297d991fa75275528a88]
+│   │   ├── t2.vom [bbf1c67828d78313794424f3ebef613198c88d1a9501092071702f7d595ccddc]
+│   │   ├── t3.vom [19e91785f8dd5f997a9b852d9003b486e63633996fe51c295eb6ec3bed8ed00e]
+│   │   ├── t4.vom [0af6216199f68bebd08c596377b66979843f5cc9c6eb7557cafc26e94d49a50f]
+│   │   ├── t5.vom [83361a8d3042122d3284bcbc10239a829c7fcd6508c750a9323452ce17ede8a3]
+│   │   ├── t6.vom [49acaecb913b5769d4bf2ff836b713d5ee1b0a47290b1838972dd7379527aac3]
+│   │   ├── t9.vom [f7a95aa5e6d87f1050a2d9bd0c2e38f0ff888cb786e9db8ae4b1e6f6a1d620d6]
+│   │   ├── wci03294.vom [1d007e0ebdfc6703a9251bf4ca18467f0dda85b6a23d21e115a0044c3f8bcdb6]
+│   │   └── zipf1186.vom [426f5c37cf5ee7ddbd61d4e5c141341be3832877d57051852695508186df422c]
 │   └── 1313
-│       ├── t1.vom
-│       ├── t10.vom
-│       ├── t11.vom
-│       ├── t12.vom
-│       ├── t13.vom
-│       ├── t2.vom
-│       ├── t4.vom
-│       ├── t5.vom
-│       ├── wci03304.vom
-│       └── zipinf1.vom
+│       ├── t1.vom [844dd6c0b3b176b7ac2378cedb2ef4a6dba32615dc49d9fd781ccb62881b31e3]
+│       ├── t10.vom [7b01377cb067c1d9a8f70e1bfb1e1ba5467fd5bf556d49744be9510eeb5bcbab]
+│       ├── t11.vom [17c205500612ac0076169c4e6eebfc0875678b997356aa9854a52b1df39a99d5]
+│       ├── t12.vom [a50777361b8bfbe43d328d52f964ab45b2281a349157c0e1caa60be3a3d989e7]
+│       ├── t13.vom [6dad4900caab2d0ac7950b2164f5702d2cef36c88d639813be32d1aa9ec99119]
+│       ├── t2.vom [65d1c71d51dab454a7a6dd7a37e1308399b5d2df1f518dd4578a93eb798d5ed4]
+│       ├── t4.vom [80aa1b2d4f977044951e0b5158377563a427c67484a7583413390c08fcc1ad2e]
+│       ├── t5.vom [a7211f561758c1c2124cec125c1f9577e5f98590adc9bbc920c4a5de47ccca57]
+│       ├── wci03304.vom [a2c418c4b9e80efbc1594556f988a305a62bb989b1cff9bd695804d03005b8b1]
+│       └── zipinf1.vom [21e3392c45f3be11b061670fc93cccfdcfbda4b8bdf5bdd55273bebaae26e50d]
 ├── zipper
 │   └── 2779
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t3.vom
-│       ├── t3.vxe
-│       ├── t5.vom
-│       ├── t5.vxe
-│       ├── t7.vom
-│       └── wci0025z.vxe
+│       ├── t1.vom [b5bc736b227b2669aeeb8337affe35b287b01a840fe0f2ad87e306e6b1768925]
+│       ├── t1.vxe [caa661e91a40b2e8e8039ea1204e2cf2e78008d8358cdba56c5cd12b0dad5453]
+│       ├── t3.vom [7c78ffabd6475fb4fb974e6ad9b30f95dc1a4b7973deb5d8fe6e6c6f3dbc581f]
+│       ├── t3.vxe [ae623dfa4fa6f7a327ab2e39cc61f10b59155a8d813d887301e58bc73bd0015b]
+│       ├── t5.vom [c2f2d517274a1f63bdbda4ac807defe294db7cf3ff6c24baa339c1574fa434e5]
+│       ├── t5.vxe [a77e4395039b2e917b4bff1069f43df0b3c8955f79085fbebe0b1ce2fd3dc62c]
+│       ├── t7.vom [fcf82cab953edf5a8185dcd059d2afb9024fd71ed504c64a32497144f3df604f]
+│       └── wci0025z.vxe [2a1ca58aa7d444428b0ff55477e5ff415a1e79073fd192648de29e1bdbda1243]
 ├── ziuck
 │   ├── 1279
-│   │   └── ziuck.vom
+│   │   └── ziuck.vom [448295f11dfcbda03d82e994b232cedbd02f512d286e63897568f72f8394e09a]
 │   └── 1372
-│       └── ziuk1372.vom
+│       └── ziuk1372.vom [a0285e6abdcd3506a6a264629114327833ca3017a05109bdc651565ed1e30d70]
 ├── zk
 │   └── 1929
-│       └── zk_1929.vxe
+│       └── zk_1929.vxe [0e3eff91cb57c3bf9f9439e226ab263d297e94cdbb2af36336d4ba06f4acddc2]
 ├── zlo
 │   └── 1133
-│       └── virus.dos.zlo.1133
+│       └── virus.dos.zlo.1133 [1c9c3400a22e214e0ed7df1ade671fd22b6fb2c0f45792b3ee8416ed28cf9c0f]
 ├── zlodic
 │   ├── 666
 │   │   ├── a
 │   │   └── b
 │   └── 999
-│       └── Virus.DOS.Zlodic.999
+│       └── Virus.DOS.Zlodic.999 [3b19f0290edb1e8de272e9a250c85bbbbae8b8746cd84eb7ca8ea28b3d227591]
 ├── zluk
 │   └── 876
-│       └── virus.dos.zluk.876
+│       └── virus.dos.zluk.876 [e915cebcf7cf8d53d4cd3ddddd06624b15774e7782e899c44229266541c343a8]
 ├── zodiac
 │   └── 485
-│       └── c-zod485.vom
+│       └── c-zod485.vom [d0576e9946694ebe5e3ebe9fc192259e1a5675c1282699698a06984d96b9aa5c]
 ├── zogzog
 │   └── 915
-│       ├── debug.vxe
-│       ├── t1.vxe
-│       ├── t3.vxe
-│       ├── t5.vxe
-│       ├── t7.vxe
-│       ├── trace.vxe
-│       └── zogzog.vom
+│       ├── debug.vxe [9ad62f24406a0b67f7b4dae2996ec543d13e5f2557725b3fdbb706b7efdcbfd6]
+│       ├── t1.vxe [c4f6dd0dad336b56123c9db82a405231de95964380146d56eb7f0c117f4fec8c]
+│       ├── t3.vxe [81e2b7edd4f0246c9e97fda8f94239b550af06e906bad7d7dd555716af5d3b37]
+│       ├── t5.vxe [0315c2f4a5d84a54399edff69afcd2e44258523a6d5e2c4d09e2d519ff21e3c7]
+│       ├── t7.vxe [ecfdea4ec8747afda58e9f20be9c42eee8d4f767f283ca64c7022342eb059be4]
+│       ├── trace.vxe [79b6f4c1456e381a06aaaf46785289cde399eddd0cf875d448e17ca7f83c8a63]
+│       └── zogzog.vom [a2e478170bb8e3aba43a1ef3594e396b82c92cf9405115cab716250d1f39a7b1]
 ├── zohra
 │   ├── 4160
-│   │   └── Virus.DOS.Zohra.4160
+│   │   └── Virus.DOS.Zohra.4160 [083228afcc947dd046d4f776a9329fba56a7f0024de81e062e6b0f083edbe7ab]
 │   ├── 4382
-│   │   └── virus.dos.zohra.4382
+│   │   └── virus.dos.zohra.4382 [3948639212604be05cd1ecd6f1f591949feeb15e4e939f94c5b3476efa3b95ac]
 │   ├── 4488
-│   │   ├── debug.vxe
-│   │   ├── keyb.vom
-│   │   ├── mode.vom
-│   │   ├── more.vom
-│   │   ├── t1.vxe
-│   │   ├── t2.vxe
-│   │   ├── trace.vxe
-│   │   ├── zohr4488.vxe
-│   │   └── zohra.vxe
+│   │   ├── debug.vxe [1051ee9f1db00bb06d82f83a665401cd9756de1928b0083ef4d0c2663b9ccd89]
+│   │   ├── keyb.vom [6f11b1bddaf6cfd31d6e904ff5db68e30c19ede267b8c28d47dd39a60f34d085]
+│   │   ├── mode.vom [f0f4f311e5b144ee36fe8abc9e5423751abeb8059d076f80f4a540dcc6590f1f]
+│   │   ├── more.vom [b61c2b056d5b4e83d6e2b15394ed4e80ef57a47a38e76c55a89236f8a1f5be12]
+│   │   ├── t1.vxe [b02d46e2777f66de26452cad89af9a56d7fe5c79188689e446d690a5361dfbc7]
+│   │   ├── t2.vxe [089dd66c565e5b1d068edabe4593dae32f69b1cf3f8ddd7de608df3b5cc8332b]
+│   │   ├── trace.vxe [039be540f644bb545e61a5868aca760f292568cf23a4b3d14b66c3a3dc6f9547]
+│   │   ├── zohr4488.vxe [07de2090f8af716b612783912ee09bb9989bdcc3fa69942f76719301cd6460cf]
+│   │   └── zohra.vxe [5b45ec8c123dcdc4e8edb43ad53c70c89c8fb6296225ad39651e2d081f0d459f]
 │   ├── 4516
-│   │   ├── abadbs.vxe
-│   │   ├── debug.vxe
-│   │   ├── keyb.vom
-│   │   ├── t1.vom
-│   │   ├── t10.vom
-│   │   ├── t2.vom
-│   │   ├── t2.vxe
-│   │   ├── t3.vxe
-│   │   ├── t7.vxe
-│   │   ├── zohr4516.vom
-│   │   ├── zohr4516.vxe
-│   │   └── zohra.vxe
+│   │   ├── abadbs.vxe [76fc2c6966761d9c5aa57a839069b338cc75921521bfbb2c52dee01027e5218d]
+│   │   ├── debug.vxe [d3da72075c7b578ea12b0c1321ee6cacec0bc220e014a7719348bf57febf4977]
+│   │   ├── keyb.vom [9365e94a410ffb29032c5e973e75a2b9a6a69c9471df5db46de7e4e8eba32e8d]
+│   │   ├── t1.vom [506b1af0a55b34e0da211b390b0950ebe13e9c80e252be5577b2e650a0960d9c]
+│   │   ├── t10.vom [ff23db2372317669a2cb04bfc0f3c6d82a524f82eb94fab178d9d531ce6343c8]
+│   │   ├── t2.vom [7e08ed7f1ce6a468a1b51d1a350243d9add7a8a2b9284c9feae2480146561219]
+│   │   ├── t2.vxe [bbab6fe3ea4f6323f9edd0a18074cb9a8091a94b76ae88178e6d355bfef052e2]
+│   │   ├── t3.vxe [b1882c45c2294af4e3df81fb4c3c1ee5a47814f59236a78074f1e9df42098eba]
+│   │   ├── t7.vxe [c80632aa75a6cd667f43790e891955322349b42a4fb95acf6234415517fcf1fd]
+│   │   ├── zohr4516.vom [719af14576095f91a359e9802d8bba0ffbd9e83c93f6b39d50165f85c10ec334]
+│   │   ├── zohr4516.vxe [cf5b3d2854545317ca12bb172af178687af87b0703eed166a6eb731aa42bf8b9]
+│   │   └── zohra.vxe [f013ca9cc9f56d11410931b61a3b042fbddbada9b56e4ca4b68061ee991e0814]
 │   └── 4525
-│       ├── 1-zo4525.vxe
-│       ├── 2-zo4525.vxe
-│       ├── 3-zo4525.vxe
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── t2.vom
-│       ├── t2.vxe
-│       ├── t3.vxe
-│       ├── zohr4525.vom
-│       └── zohr4525.vxe
+│       ├── 1-zo4525.vxe [cfa2366e99b4e83fe45af96da290ab9eaca693277b41241efee93577a1225da7]
+│       ├── 2-zo4525.vxe [27c16b2ac1ae3a40010db43ab374918920b182d4b1ed5063b765044e6d76e7f9]
+│       ├── 3-zo4525.vxe [f168ea46932d761e760cbaee08e33c03f0310c0661a027e94de815f6c41e9462]
+│       ├── t1.vom [6d40637ab7d3db95b8eeff8ea6e13b00386aafa39b1b4640f6ad37bff900412f]
+│       ├── t1.vxe [4373bfff0dad50866096dd4d1a6d06e7fd7cea6c90daa1b8346ffc4c7b5ea04d]
+│       ├── t2.vom [8c6f692250edd4f7a792fcc43ffdd9abb67dcfa8faab2622df95ef25b28a8f08]
+│       ├── t2.vxe [19aec92e0a1c84ec741d162d8d851fc181713fa702c074516057c6cf95fbd221]
+│       ├── t3.vxe [a9c4ed70d69477394cccf141d5baa19fb84fe20ad39f43db24923bd4c11ca454]
+│       ├── zohr4525.vom [73be4f30f95ff26fbb6de6cb6337ee60c639ab669d950db082cb658f0673d8af]
+│       └── zohr4525.vxe [d9655cd72509ef745e996dc564cfb6b249859299f708068fa4a80eb87d469abf]
 ├── zol
 │   ├── 316
-│   │   ├── t1.vom
-│   │   ├── t3.vom
-│   │   ├── t5.vom
-│   │   ├── t7.vom
-│   │   ├── t9.vom
-│   │   └── zol1.vom
+│   │   ├── t1.vom [e302a504fc137ba29954542c61b2d085eef9ea6163cf57cc057a1f8ed2146878]
+│   │   ├── t3.vom [420ce2213403f50bedfb1ae5c00769f0ee3cdd7b3e2ad745347d7e53d9b06e5e]
+│   │   ├── t5.vom [c74623b05f71594efe692f9292c28d976e29da1dc5e65678631e68ed750db95c]
+│   │   ├── t7.vom [0a043b0677584639f49e21bf5773797acd301b515f33c22a76d9de90c7547bed]
+│   │   ├── t9.vom [c18e7149bd5081657405470b856321610d2b9a759d3eedbc01a31159c66a9d31]
+│   │   └── zol1.vom [c0f110f1e7e97716621b467bfbaa05bd74c61e1e5d78677bdfefb5850d1598af]
 │   └── 799
-│       ├── t1.vom
-│       ├── t3.vom
-│       ├── t5.vom
-│       ├── t7.vom
-│       ├── t9.vom
-│       └── zol3.vom
+│       ├── t1.vom [632e6635f648012dc4666438efec4ee17237e5fcf4ff601857f0e66435e24d91]
+│       ├── t3.vom [48102934c7b12a46dbc4b4308985844d2fba9c435de4fab149a58a894220c68d]
+│       ├── t5.vom [79bce7d2e07173247b0165bbe4e5d05d92975d47334cc8fb21c0632150d3705d]
+│       ├── t7.vom [05044016cc0b8abeec389730c73e9943cdd23ff08dc74196f425520d57196e72]
+│       ├── t9.vom [a3f83028779906b8b05d909301c2cede703c2ec6a1b4b7a04548f6aa6767466d]
+│       └── zol3.vom [5b2067f67a8010bf69912e5859470bdf783cf61ddbdc234f02423fd44ba284db]
 ├── zombie
 │   └── 0747
 │       ├── a
 │       └── b
 ├── zombie2
 │   ├── 2351
-│   │   └── Virus.DOS.Zombie.2351
+│   │   └── Virus.DOS.Zombie.2351 [917d42fdccfafa328857eb6a7f693d80a8f4b027849518b3d2e39daccbe0e5d3]
 │   ├── 2415
-│   │   └── Virus.DOS.Zombie.2415
+│   │   └── Virus.DOS.Zombie.2415 [d644e5c9265bdaa69d9072a4cd3e0cdf76a628d8b17f62420a0907b305ece756]
 │   ├── 3592
-│   │   ├── MORE.vom
+│   │   ├── MORE.vom [12a70b8659b2fd9bad39de16f06f24ca3dd222dd21ad614192f572383629b38f]
 │   │   ├── src
-│   │   ├── zombie_3-001.vxe
-│   │   └── zombie_3.vxe
+│   │   ├── zombie_3-001.vxe [7b8a11d8a5b65a7875313c514d5789e5afdb8e23173b98e05a7cf11b9a9956ac]
+│   │   └── zombie_3.vxe [1b66dca197c8fdc11cf198b987157b977004367db0dee4685025b9409f9b75fc]
 │   ├── 4566
-│   │   └── Zombie.vom
+│   │   └── Zombie.vom [8bab49ba47eec6953770578758819516b342692bdf574662d863004e2e182ba3]
 │   ├── 4592
-│   │   └── Zombie4.vom
+│   │   └── Zombie4.vom [001e7aa61b88f864e5fbfb29340111365e1b8ed134c8401f01d2c4fa671da5c9]
 │   ├── vpi
 │   │   └── 15211
 │   └── zcme
@@ -610,175 +610,175 @@
 │       └── 16384
 ├── zoom
 │   └── 260
-│       ├── t1.vom
-│       ├── t2.vom
-│       ├── t3.vom
-│       ├── t4.vom
-│       ├── t5.vom
-│       ├── t6.vom
-│       ├── t7.vom
-│       ├── t8.vom
-│       ├── tf.vom
-│       └── zoom260.vom
+│       ├── t1.vom [5a0fa8d2676647b2071fce37e926adb7b552dddb657b360cb83e08a36f13057e]
+│       ├── t2.vom [e9488e8b40522b65745e761392d13e8108cd8e4a4440356cc71d7f92c04c3ca4]
+│       ├── t3.vom [2b4da2c142162c8ad7b965e43ca8ce09258703627418125c644662bee1d7f8ce]
+│       ├── t4.vom [7d9ef4863b48db55afb7bc4805fc1bdfe9900def53271f5c5ae4d92193ba1fe8]
+│       ├── t5.vom [66367d1586fad1407a2e83f547509c505af6d43d72f07de9c77ff7d56f757956]
+│       ├── t6.vom [d36e3226c347e5099edca81bd3353725b19e40984f33b521cb0c3a2548c8d435]
+│       ├── t7.vom [14ca1c6fa07d4cc79392b009879ae74d14f310ab16f77dcd5fd72000dc4da717]
+│       ├── t8.vom [a631710356ceedbebdd3e633b768c23fc382c497304dcdc777c010d556a04c54]
+│       ├── tf.vom [104d655b479bc725f43e63ccdb5ae4f21e22746eba12253784ba9425dcdb6720]
+│       └── zoom260.vom [c3121f2220e690da6e5dc870f48217013a2cf479d1bc4aea3ee76f3c5178efb1]
 ├── zorm
 │   ├── 0265
-│   │   └── Virus.DOS.Zorm.265
+│   │   └── Virus.DOS.Zorm.265 [c91a1b75e2a5d4de09976c4f3fb4a2782b9a90f6d5083c5e82b99b060486f647]
 │   ├── 0410
-│   │   └── zorm_410.vxe
+│   │   └── zorm_410.vxe [794069463e6ac42ea04aca78ef2743c959f000a552e403e306a438f3341713be]
 │   ├── 0432
-│   │   ├── zorm_432-001.vxe
-│   │   ├── zorm_432-002.vxe
-│   │   └── zorm_432.vxe
+│   │   ├── zorm_432-001.vxe [6f822ee8a33f62baf88af856679c3d5aaf963ca496517c78a08b1ee9bede1641]
+│   │   ├── zorm_432-002.vxe [958cb9104e216e57070e1b617d4b235d8eecf36fa1141e56e316c241f15253ad]
+│   │   └── zorm_432.vxe [6c4de145334f02b090cecda54bc9cf8c9d5e7ff4c5295a75dd6675d9d9d6df5a]
 │   ├── 0458
-│   │   ├── zorm_458-001.vom
-│   │   └── zorm_458.vom
+│   │   ├── zorm_458-001.vom [af5298902e042bbf30ef519693d6ea60a0a9c86517d73688dc9a779dbd4ee21a]
+│   │   └── zorm_458.vom [966b9f4e11ecfc30a9ac88dc56c6525d8f415905320c24bd3402169d3a1d2366]
 │   ├── 0459
-│   │   ├── zorm_459-001.vom
-│   │   ├── zorm_459.vom
-│   │   └── zorm_459.vxe
+│   │   ├── zorm_459-001.vom [f07e1da78253152d92d10cbab4894f19c94edf5cc2762a63bc6e968811767fe0]
+│   │   ├── zorm_459.vom [ef302851a28d4341efd6d81d90486a1ae6eb3c9aa8b9a6dd21e4026ee28813b6]
+│   │   └── zorm_459.vxe [6db1a6ad561252bb2edf1ce27c36883c8fb585f79d990480981adfe12f6a2cf4]
 │   ├── 0464
-│   │   ├── zorm_464-001.vxe
-│   │   ├── zorm_464.vom
-│   │   └── zorm_464.vxe
+│   │   ├── zorm_464-001.vxe [79777322597ea7f76cd38fd594e7846d1508c9242a6dbf43901c9745917c9f77]
+│   │   ├── zorm_464.vom [aceb71fbf870c00e33a8fc1429ce49fc47299ce570fce4227775da242ff9742e]
+│   │   └── zorm_464.vxe [10e3f472b00ffed2d1047bf9524934c7a87232221b1d686ca579c6a486c3ee91]
 │   ├── 0495
-│   │   ├── zorm_495-001.vxe
-│   │   ├── zorm_495.vom
-│   │   └── zorm_495.vxe
+│   │   ├── zorm_495-001.vxe [631e7efd8ee490bdd26f78aa65c79829c22bf8d86dde27dfca03657114675dba]
+│   │   ├── zorm_495.vom [a0218d861b4d1c93eb399c3320fc442bc3c35ffebc5b89e961ce580bf817ba09]
+│   │   └── zorm_495.vxe [4f8eff90952754429fbbfd7077e1b4af56f902df40e16b2732d8704e7e4afd99]
 │   ├── 0504
-│   │   └── virus.dos.zorm.504
+│   │   └── virus.dos.zorm.504 [a5f4f2c76b36f120733ebe04b120c6be39864837ee4238c814ec8cac96d66c72]
 │   ├── 0517
-│   │   └── virus.dos.zorm.517
+│   │   └── virus.dos.zorm.517 [b9a8ae904cbed5b5f62e7d62eba96d13f8d1c1e1b50ac27cf648aadd81629fe7]
 │   ├── 0573
-│   │   └── virus.dos.zorm.573
+│   │   └── virus.dos.zorm.573 [6f50c513b159537178fe4ed95ea557081f44df46e6fd894eab5f58f7685463f0]
 │   ├── 0620
-│   │   └── Virus.DOS.V.620
+│   │   └── Virus.DOS.V.620 [d7973e8fc5726c5a7b9f8d9dfb75015ae536e258cb727be68b1437aec2520e6d]
 │   ├── 0643
 │   │   ├── a
 │   │   └── b
 │   ├── 0648
-│   │   └── virus.dos.zorm.648
+│   │   └── virus.dos.zorm.648 [aca86672afbe97534db62b57df00655b5f97bc2f83d8022064e8e21e8c5fdb28]
 │   ├── 0661
-│   │   └── virus.dos.jn.661
+│   │   └── virus.dos.jn.661 [8b02a08b6d68dceb03944d935ef9b2751aeb7478fb0a25defb0310911edeee6c]
 │   ├── 1120
-│   │   └── virus.dos.zorm.1120
+│   │   └── virus.dos.zorm.1120 [eb3c383934b604c65f60e349dbcf19669dc7355d1daabec1623ce189f7276ebd]
 │   ├── 1123
-│   │   ├── virus.dos.zorm.1123.a
-│   │   ├── virus.dos.zorm.1123.b
-│   │   └── virus.dos.zorm.1139
+│   │   ├── virus.dos.zorm.1123.a [49f99509222609ac7a3a4c5e8bbce74cd947d895538cda3e2ccad2df55a714a5]
+│   │   ├── virus.dos.zorm.1123.b [88518c44d41b6d018e8ce3b1779d10b87377e30de5302e44a796b8839ccc6287]
+│   │   └── virus.dos.zorm.1139 [a658ca66525b820ad3522f62f4c5c819418cd3690ced27c4328ffdb49508999f]
 │   ├── 1193
-│   │   └── virus.dos.zorm.1193
+│   │   └── virus.dos.zorm.1193 [2410337a1bb6c101f0a0b92bb36ab7443cb43bf1a1782c6d6c6a5ee37a4fe8a3]
 │   ├── 1203
-│   │   └── Virus.DOS.Zorm.1203.b
+│   │   └── Virus.DOS.Zorm.1203.b [a092578929e1653c3d5f197216164b2d72918291bdcc09a230ebbe80bc88630e]
 │   ├── 1368
-│   │   └── virus.dos.mahon.1368
+│   │   └── virus.dos.mahon.1368 [d40bcca972d11b6ea1bd9c918b67ec5bc92d9e7f70bb668a2001db96769d6ffc]
 │   ├── 1404
-│   │   └── virus.dos.zorm.1404
+│   │   └── virus.dos.zorm.1404 [fbf4c74f4a2dc3134d03ae009619b49d0530158b59479adaebaa9d7d448f7f2f]
 │   ├── 1412
-│   │   └── virus.dos.zorm.1412
+│   │   └── virus.dos.zorm.1412 [a1d084f613d62580ce69c126e0aea6776cfd0818ca1b42dc4baa4f0838252fe5]
 │   ├── 1417
 │   │   ├── a
 │   │   └── b
 │   ├── 1532
-│   │   └── zorm_153.vxe
+│   │   └── zorm_153.vxe [6557a2dd4ea2473bbf0bb55cf97524e538ec73019610004098c5e5f4312d0355]
 │   ├── 1807
-│   │   └── virus.dos.zorm.1475
+│   │   └── virus.dos.zorm.1475 [cfb45a51a320f21b7cfc5190a7177ed2b13720c81810dd96baaadfee6d77a7c9]
 │   ├── 1826
-│   │   └── zorm_182.vom
+│   │   └── zorm_182.vom [c261b222fda4b29ad31f8a6e075c6ab0cd248506574e5e68f330dcbb6e05720a]
 │   ├── 1863
-│   │   └── virus.dos.zorm.1863
+│   │   └── virus.dos.zorm.1863 [e2c4f2d2b49b9545bdc940e7c66ed9858de4d6a0920b1fcd2acd5ef198ae0474]
 │   └── 1872
-│       └── virus.dos.zorm.1872
+│       └── virus.dos.zorm.1872 [2df8602a54d330ada4d2dec2f52af3dd5a7dc7e2de71c429a00a23b914353350]
 ├── zortech
 │   └── 836
-│       ├── debug.vxe
-│       ├── t1.vom
-│       ├── t1.vxe
-│       ├── trace.vxe
-│       └── zortech.vom
+│       ├── debug.vxe [942a6ffc68d7d221672d17dab31eebec240d0af7a5e1170538dccd603830a316]
+│       ├── t1.vom [6c7741c8d75069605a6059b55e6f5eebaab0f1595d854ed1a4c726b895c101ed]
+│       ├── t1.vxe [c5f2933d677a9d274f4b3206708ad2c529e006fec1e7915a843db38ca5b83e92]
+│       ├── trace.vxe [946e869e038cf28c645e3c3326a0ec491ea1316b540a4f07c0b3656d85c4502c]
+│       └── zortech.vom [bbf67d786adb0ed6ccc90718b8fe5b450fc59d0f4264f4bc1538c780087e624f]
 ├── zp
 │   └── 503
-│       ├── 1-zp503.vxe
-│       ├── 2-zp503.vxe
-│       ├── 3-zp503.vxe
-│       ├── t1.vxe
-│       ├── t3.vxe
-│       ├── t5.vxe
-│       └── wci0031z.vxe
+│       ├── 1-zp503.vxe [ea7546c9230926b746a540baabf205647eef203a3cf91edfb1fec4b233876561]
+│       ├── 2-zp503.vxe [ef5ec0befd7989478abceb65df5fe30cbf227ef0570c013206b4ef65ba6d37d6]
+│       ├── 3-zp503.vxe [0f3d1459af031f40add61fa2ff29c1bce69c4f57b07b4172e59ed99d6740e50e]
+│       ├── t1.vxe [0623e4ba517736619acedd92a3618d3bcbffa1d177eb34637c70356249aa9c71]
+│       ├── t3.vxe [b47ea047974d342f2426a6f580476ab013d07c951c97d9acf33a3c1a1decf2eb]
+│       ├── t5.vxe [151935d5ceae2f3698cfa6b79a7de55e5e4b00e3b65575ee548649f0f8570b57]
+│       └── wci0031z.vxe [20f9cbd3bc5facb3fa163ce9c9a0c7468f65ed6e2a01adf8ddff5cde17810622]
 ├── zrdavim
 │   └── 1472
-│       └── virus.dos.rms.1472
+│       └── virus.dos.rms.1472 [944a83d8727c59f5a0eaddfefc8965e8e67cfe4f3d4a2887472414a638e4e4b8]
 ├── ztert
 │   └── 1003
-│       └── virus.dos.keypress.1003
+│       └── virus.dos.keypress.1003 [53b20108d93a520e9e307638b41b2d7640bb2a3fe44ec8724f7ea5f12cf28983]
 ├── zub
 │   └── 792
-│       ├── 1-zub792.vom
-│       ├── 1-zub792.vxe
-│       ├── 2-zub792.vom
-│       ├── 2-zub792.vxe
-│       ├── 3-zub792.vom
-│       ├── 3-zub792.vxe
-│       └── 4-zub792.vom
+│       ├── 1-zub792.vom [583beebe96bfa9055c76be9d361f9217743f296b8f2e7537f134addf14bbf3a1]
+│       ├── 1-zub792.vxe [45977f76222b8c59907b18170e232b3a649049dd66f4541c401e435f3f1ab4ce]
+│       ├── 2-zub792.vom [7ce13bd9b85e2a483746c1b40db0ad8f4d3e36d19c18b40716ff7ccae9d1f15c]
+│       ├── 2-zub792.vxe [825b68f28918a6b1f0646866a4eb5b1b5615c0653720b311b4f9849d025e5b72]
+│       ├── 3-zub792.vom [b2c10be79d2caae8315b6b50b097273f27538c18973ee8197cbb0200a7d83509]
+│       ├── 3-zub792.vxe [6dbf2336fda736ad127b967fd8e95ad3affa254929a0212b14085581011e7f5a]
+│       └── 4-zub792.vom [403d259b914ce0a9da692351f3a34427c71041f5fb92d0785fcff4b1f7189dc1]
 ├── zulu
 │   └── 1390
-│       ├── t1.vom
-│       ├── t3.vom
-│       ├── t5.vom
-│       ├── t7.vom
-│       └── wci0032z.vom
+│       ├── t1.vom [12691b77d88cc58bc6e8d6bbf9af0116b835929625c4e25cff3a497e47271195]
+│       ├── t3.vom [7b8ebc745fa0ba8a8774d99bf71232eee3f8484d4f484b39a0eb0b3838d434e0]
+│       ├── t5.vom [8eb8064ff5334e5593012091275f96df1a7dcb5a456fe1583d2422506f3f89c5]
+│       ├── t7.vom [1f9e462ae24c9d5d2993cd58dc7ba2459ca074d13cae83b1fce9d21a6aea0883]
+│       └── wci0032z.vom [c90fc30d99030ac661d7bb5da1cc78ce8ab0c909f5c264571c25acfdd75df0f9]
 ├── zun
 │   └── 837
-│       └── virus.dos.zun.837
+│       └── virus.dos.zun.837 [5768710018e01d5580348bfd0449e04db67a30b5c0fcf20c75916c11deb5ad29]
 ├── zune
 │   └── 2588
-│       └── zune_258.vom
+│       └── zune_258.vom [510eecd7a547d4bc1d153eec319194ecaad69e990215e708d3aaa77213eb6151]
 ├── zurp
 │   └── 922
-│       └── virus.dos.cf.922
+│       └── virus.dos.cf.922 [743799c9737bbe2bc5bb6bb7c6e8ff5929565b8de449b18b584a1c22123a906f]
 ├── zver
 │   ├── 512
-│   │   └── virus.dos.zver.512
+│   │   └── virus.dos.zver.512 [0bd36430e893fafc746abfc944788d83c90bd1c668572e372fc9af1594ee4654]
 │   └── 689
-│       ├── t7.vom
-│       ├── tf.vom
-│       └── zver-689.vom
+│       ├── t7.vom [074a5a8131b07c967e8bb219e1db701a3fe0b1ef0be9e1acd14976579ace3344]
+│       ├── tf.vom [e2a63a914befc79de4930bb6f08e9efeabc01b3f2da3744816fe3386ee7fd372]
+│       └── zver-689.vom [27e0fa727777f4bb98a33a32a57e24095a34185e71ce75da250e1980fba61b75]
 ├── zw
 │   └── 1967
-│       └── virus.dos.zw.1967
+│       └── virus.dos.zw.1967 [edfe467791969a8e141b1c4b4905393b21a1d5fba425751f229a27b2265516e2]
 ├── zwick
 │   └── 505
-│       └── virus.dos.zwickau.505
+│       └── virus.dos.zwickau.505 [f2292b6e803d617e702e2dc73f1d893f0c3e2f5df5065b311f964685e18e8e08]
 ├── zx-x
 │   └── 600
-│       ├── 1-zxx600.vxe
-│       ├── 2-zxx600.vxe
-│       ├── 3-zxx600.vxe
-│       ├── t1.vxe
-│       ├── t3.vxe
-│       ├── t5.vxe
-│       └── wci0033z.vxe
+│       ├── 1-zxx600.vxe [8a662ace5551206d2a9902c804cd9ef974fc9e23e47f556e1ae4bf41e02da46d]
+│       ├── 2-zxx600.vxe [08d24434a61ec716048f9316a0fdc32637db9a923c80fcb9b14c8744b8d2e60a]
+│       ├── 3-zxx600.vxe [ff49529d085279f96d19a5a1492cb72f461df8bcb8ba97b36472a42507ec0338]
+│       ├── t1.vxe [e4a97cc61930ee6b938ef55357a807961f97afc3cc82b1bb9a80268f592b7792]
+│       ├── t3.vxe [a5c7e7f5a90d81ffde0bcdcec81e7deefe5b22d4e520d4a81ede10c130b0aac7]
+│       ├── t5.vxe [80027af2a10cbbdba84da74468469a411bc2746b8c15fa7803057f2b45d8dba6]
+│       └── wci0033z.vxe [e9e46c9951717dfd6c0340df045e858064c0047440ab3cf05c58b07d43ba4e6f]
 ├── zyklon
 │   └── 754
-│       └── virus.dos.tt.754
+│       └── virus.dos.tt.754 [2c6b2754eaaa84ed490ac309ade2bb0011e5eaf2189dcf7a20fcff5ff746b193]
 ├── zyrtec
 │   └── 4300
-│       ├── zyrtec_4-001.vxe
-│       └── zyrtec_4.vxe
+│       ├── zyrtec_4-001.vxe [4616d9f1ed6e493465d1cd48d63bdc1302bbfdc4c8a49374495a3b129e395c74]
+│       └── zyrtec_4.vxe [011f5b19765f56ffa914e20559f6bb605837a2eac174c391f51852194a92690a]
 ├── zyx
 │   └── 5685
-│       └── virus.dos.zyx.5685
+│       └── virus.dos.zyx.5685 [d86ffbc77d3ce941a9bfbba78875927bea7cbff23c32debfb5c1809f87444579]
 ├── zz
 │   ├── 412
 │   │   ├── a
 │   │   └── b
 │   └── 429
-│       ├── zz.vom
-│       └── zz2.vom
+│       ├── zz.vom [a1e4f4c9e386791b90c65b456713b328e1b425f7f0170f9b44c8a0db084f1884]
+│       └── zz2.vom [1a42f22a73c0e43b121dd79f930d7afccf1965917ba838cdef5da5ba243a0153]
 ├── zzero
 │   └── 667
-│       ├── Zombie6.vom
-│       └── virus.dos.zombie.667
+│       ├── Zombie6.vom [47fe394b687c5dd334b55d9f86594652eed62352ba0f91eac36dac221355162f]
+│       └── virus.dos.zombie.667 [21f4a623c1ad47325d0f02966f68407fa87f867ab5bd874d96d924e33aa20af3]
 └── zzz
     └── 1379
-        └── Virus.DOS.Zzz.1379
+        └── Virus.DOS.Zzz.1379 [6b36d6221ee1cc96a6d6c07a04899b698ad409f01be78ba7ead445622a14cc62]
 ```
