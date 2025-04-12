@@ -1,0 +1,18 @@
+<!-- AUTO-GENERATED-README -->
+# Contents of `mango`
+
+```
+├── 468
+│   ├── a
+│   │   └── _468.vom
+│   └── b
+│       ├── t10.vom
+│       ├── t2.vom
+│       ├── t3.vom
+│       ├── t4.vom
+│       ├── t5.vom
+│       ├── t9.vom
+│       └── wci0046m.vom
+└── 470
+    └── wci0048m.vom
+```

@@ -1,0 +1,37 @@
+<!-- AUTO-GENERATED-README -->
+# Contents of `better_world`
+
+```
+└── 1019
+    ├── 9ce763410e2d3a6c3a6ec9423dcdf33cba7919be98e3edf4780e7bbaa8a0c153
+    ├── a
+    │   ├── 5ab658804fac76763bd6aec4ee58e7e2a45dc18e8873e16b6ece4adda47e15a5
+    │   ├── 5ccf3d8547e17d568f9e9655090795376f7bdd2000821ec9d500477bdc7c7b69
+    │   ├── 6103bb310e8a28a4d380acb17716ef977432d1886ec06ac0b01d4e32b1c59a6d
+    │   ├── 66817b2de124d0fb2a0a87946d29c7d51099cb5427ac62f1852e5ab85d65ea5d
+    │   ├── a6ce607da709e8ddec78fbbcc03a4c2111c60dbbee52a588c5726245817c0ab3
+    │   ├── d2246376fddf49d4bf1cee5a8c68f84e6e8c2aecc73a71e68f4824ee70e968f1
+    │   └── d5f50b8682e18557216e3b409c455d3286790dc8986eab904a1ccc72b989495a
+    ├── b
+    │   ├── 79276348ea663dea6e3c70b8aa034cc234706c3e1c1ec6e6aef7e0016d0b6139
+    │   ├── 90210fd2b00f2b2becc321ee78c09b7abb1f5a20df4f0687dae7ca62555e3d3e
+    │   └── 9fdb769a9edbd22f1d0891eb03aa4065f27c9ea561f876965506a5f36efd6ea7
+    ├── cb3c0bc2666e5593d65719877f945a46ca7e943d4256241010e8a423719f88e3
+    ├── d
+    │   └── better-d.vxe
+    ├── f
+    │   └── 375fccca2e0fc0c8122080857acf8c7cbeb7107e04a3906f766d153dd042e931
+    ├── g
+    │   └── 27fe5c1889b3dc6ce03d0f8aa1dbcf582c15e9e3720dc0396d7738976aa122fb
+    ├── h
+    │   └── 79ae6adc58ab7bc15f0a3e5691e0a15c356050369e07d18c80d0e6dac22bb3e2
+    ├── i
+    │   └── 77d8479b2cc8f673bffe2f37c5529e8caf762a91e310210c7e519ecd43f0810b
+    ├── k
+    │   └── 5285fce2f337d672e4c300637f93a054b97a33babdf9fc29018f693d27d13d0b
+    ├── l
+    │   ├── Virus.DOS.Fellow.1019.d
+    │   └── c84077513f566335dd6af8dbb38805ed492483e6db7759225feef54ef66f3372
+    └── n
+        └── virus.dos.fellow.1019.e
+```

@@ -1,0 +1,9 @@
+<!-- AUTO-GENERATED-README -->
+# Contents of `1000`
+
+```
+├── a
+│   └── 123d50f82b8780325403bc87920ddc16853a6d7412f66f8037916935ce4426e1
+└── b
+    └── 6af8c92aeda023c44c2c1987978fa97ec82db8437019a790b5426c5d190042c4
+```

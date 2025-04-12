@@ -1,0 +1,41 @@
+<!-- AUTO-GENERATED-README -->
+# Contents of `simpsalabim`
+
+```
+├── a
+│   └── ac1e3786d3241f5711970b3c90f2482ea0f67aee797072de9c8ca66bdcf8559d
+├── b
+│   ├── 3973d5b89b4369d4d379a14111b0a42b9d524f4764cb28bedb3361b6438d7b56
+│   ├── 68d3ddc3cc73892dcbebf823c64a17a788c81e38aa73ff5f3d02cffc99aba0fb
+│   └── 6c2ae9565b9e1ef3132ef03f8d9914502e76df77280f96915418a2a6316ffdeb
+├── c
+│   └── IRC-Worm.IRC.Simpsalapim.c
+├── d
+│   ├── 2be89dafd65cbc4cab63857d8791bd83707fbe2fd5cae71cdffe9325ecd61f3a
+│   └── 4d6ae21338b14d5ab2a1829d0cda8ef344e36112687e6242b5673ada3352b7a1
+├── e
+│   └── 3d9139cd560b0ac123f6598fbc8c7ef9b62cce9724480dc39bb84e56b44736e4
+├── f
+│   └── 0e4a9d4c38522058680908a7473ef9793a16a4edcbad49b493f7c38b5e97d1e4
+├── g
+│   └── 9a58487eefdf63cbd947913ad80887a9b329d4f1be2aae13b239b3a2840d7005
+├── l
+│   └── IRC-Worm.IRC.Simpsalapim.l
+├── r
+│   └── bb72709fc13075c87dd9f44646b0c372acca9d989d9676e0bbcfb13b6ae5135c
+├── t
+│   └── IRC-Worm.IRC.Simpsalapim.t
+├── v
+│   └── IRC-Worm.IRC.Simpsalapim.v
+└── var
+    ├── 1137b2afdef2ee07086ad1d5f324024b68e4b69422aedb94db9d3498e5350fcb
+    ├── 395166c736b886061360165e1aecb742440df1a9b9013baa0407420d5c0c1e93
+    ├── 467ff0de32455906f78fc11d1fbe2d8259a4c158ea9a6aa731e1c7c2ef763d68
+    ├── 5901c80a1debdee8653923e142e7919d94a9c2d919a1786ad511f9eb7b584f80
+    ├── 73dfa7877b29cffbda7f47df5ee88f3c3e0b5382727bbaaa1e21e5cebf2c3d70
+    ├── 75222c3e7d050f1d1abfee345e516cbf710f1446063ae4d966799fbae9c5d609
+    ├── 78d0c3f846d8ea38cb2139a4ca72eed245d1c3611a90bf6993d3aa4126b0e734
+    ├── ca450cd63f949485be1f1d0f777fbf2484f6dbd5f8fe8183e1b501cf15c2c472
+    ├── e117cdaf70ee804b555c5b17e1a369019fc7aa3cdf407e3b3e16dd93dbc3fe14
+    └── f6862d227c4f6016a102381d3e825332eaafb955a968567c44cd8ea008598765
+```

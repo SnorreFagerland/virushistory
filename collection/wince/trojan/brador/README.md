@@ -1,8 +1,7 @@
 <!-- AUTO-GENERATED-README -->
-# Contents of `.`
+# Contents of `brador`
 
 ```
-├── a
-│   └── WinCE.Brador.vxe
-└── makedescreadmes.py
+└── a
+    └── WinCE.Brador.vxe
 ```

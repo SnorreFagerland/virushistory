@@ -1,0 +1,12 @@
+<!-- AUTO-GENERATED-README -->
+# Contents of `3000`
+
+```
+├── a
+│   └── 25dbf51b05349b3b851dbad2bd2d1474262097ee2f2752b4086fa2a85b4b0080
+├── c
+│   ├── 4694009b74c55c3c95f3a6b150743ed54588ff8a1f85ac85fc3b11e91513f2d2
+│   └── 8052efa6e544f1ca24a09a756cb4ba7c7837472bf5e28c9feff612a1c8b10156
+└── d
+    └── 9eb0f80f5eb6c1283c1504c71520ca4c66c69904ec37e4957a99433d745bfa33
+```

@@ -1,0 +1,7 @@
+<!-- AUTO-GENERATED-README -->
+# Contents of `perfid`
+
+```
+└── a
+    └── virus.msexcel.tstvr.zip
+```
