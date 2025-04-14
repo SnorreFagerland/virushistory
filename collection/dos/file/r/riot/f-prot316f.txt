@@ -1,0 +1,396 @@
+Virus scanning report  -  13 April 2025 @ 18:37
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\boot.lom  could be a destructive program
+u:\boot.som  could be a destructive program
+u:\wci0539m.vom  is a corrupted or intended virus
+u:\144\ir144.vom  Infection: SillyC.144 (exact)
+u:\attitude\343\wci00291.vom  Infection: Attitude.343
+u:\attitude\548\dreamwld.vom  Infection: Attitude.548
+u:\attitude\548\dr_world.vxe  Infection: Attitude.548 - Dropper
+u:\attitude\548\wci0516a.vom  Infection: Attitude.548
+u:\attitude\715\attit715.vom  Infection: Attitude.715 (exact)
+u:\attitude\715\badattud.vom  Infection: Attitude.715 (exact)
+u:\attitude\715\c-att715.vom  Infection: Attitude.715 (exact)
+u:\attitude\715\t1.vom  Infection: Attitude.715 (exact)
+u:\attitude\715\t2.vom  Infection: Attitude.715 (exact)
+u:\attitude\716\badattud.vom  Infection: New or modified variant of Conjurer
+u:\attitude\723\badat01.vom  Infection: Attitude.723
+u:\attitude\723\wci0362a.vom  Infection: Attitude.723
+u:\attitude\724\bad_att.vom  Infection: Attitude.724
+u:\attitude\728\c-att728.vom  Infection: Attitude.728
+u:\attitude\728\riot-724.vom  Infection: Attitude.728
+u:\attitude\728\t1.vom  Infection: Attitude.728
+u:\attitude\728\t2.vom  Infection: Attitude.728
+u:\attitude\728\wci02752.vom  Infection: Attitude.728
+u:\attitude\746\t2.vom  Infection: Attitude.746 (exact)
+u:\attitude\746\t4.vom  Infection: Attitude.746 (exact)
+u:\attitude\746\t6.vom  Infection: Attitude.746 (exact)
+u:\attitude\746\unke1722.vom  Infection: Attitude.746 (exact)
+u:\attitude\747\attit7xx.vom  Infection: Attitude.747
+u:\attitude\747\red_merc.vom  Infection: Attitude.747
+u:\attitude\747\t10.vom  Infection: Attitude.747
+u:\attitude\747\t2.vom  Infection: Attitude.747
+u:\attitude\747\t4.vom  Infection: Attitude.747
+u:\attitude\747\t6.vom  Infection: Attitude.747
+u:\attitude\747\t7.vom  Infection: Attitude.747
+u:\attitude\747\tf.vom  Infection: Attitude.747
+u:\attitude\749\red_merc.vom  Infection: Riot.749 (exact)
+u:\attitude\749\t10.vom  Infection: Riot.749 (exact)
+u:\attitude\749\t2.vom  Infection: Riot.749 (exact)
+u:\attitude\749\t4.vom  Infection: Riot.749 (exact)
+u:\attitude\749\t6.vom  Infection: Riot.749 (exact)
+u:\attitude\823\redmerc2.vom  Infection: Attitude.823
+u:\attitude\825\a\cruel.vom  Infection: Attitude.825
+u:\attitude\825\a\r_mercur.vom  Infection: Attitude.825
+u:\attitude\825\a\t10.vom  Infection: Attitude.825
+u:\attitude\825\a\t2.vom  Infection: Attitude.825
+u:\attitude\825\a\t4.vom  Infection: Attitude.825
+u:\attitude\825\a\t6.vom  Infection: Attitude.825
+u:\attitude\825\b\t10.vom  Infection: Attitude.825
+u:\attitude\825\b\t2.vom  Infection: Attitude.825
+u:\attitude\825\b\t4.vom  Infection: Attitude.825
+u:\attitude\825\b\t6.vom  Infection: Attitude.825
+u:\attitude\825\b\wci0621a.vom  Infection: Attitude.825
+u:\attitude\827\attit827.vom  Infection: Attitude.827 (exact)
+u:\bedbug\571\virus.dos.riot.immortal.571  Infection: VCC.571.B (exact)
+u:\bedbug\589\virus.dos.riot.immortal.589  Infection: VCC.589.B (exact)
+u:\carpe-ii\1012\ca2_1012.vom  Infection: Riot.1012
+u:\carpe-ii\1033\ca2_1033.vom  Infection: Riot.1033
+u:\carpe-ii\1299\ca2_1299.vom  Infection: Riot.1299
+u:\carpe-ii\1305\ca2_1305.vom  Infection: Riot.1305
+u:\carpe-ii\1308\petr1308.vom  Infection: Pollute.1308
+u:\carpe-ii\1308\t1.vom  Infection: Pollute.1308
+u:\carpe-ii\1308\t2.vom  Infection: Pollute.1308
+u:\carpe-ii\1308\t3.vom  Infection: Pollute.1308
+u:\carpe-ii\1308\t4.vom  Infection: Pollute.1308
+u:\carpe-ii\1308\t5.vom  Infection: Pollute.1308
+u:\carpe-ii\1308\t6.vom  Infection: Pollute.1308
+u:\carpe-ii\1314\petr1314.vom  could be an image file of a boot sector virus
+u:\carpe-ii\1336\blu_dick.vom  Infection: Riot.1336
+u:\carpe-ii\1354\ca2_1354.vom  Infection: Riot.1354
+u:\carpe-ii\1409\cdii1409.vom  Infection: Riot.1409
+u:\carpe-ii\1415\cdii1415.vom  Infection: Riot.1415
+u:\carpe-ii\1435\hybrid.vom  Infection: Riot.1435
+u:\carpe-ii\1442\hybrid.vom  Infection: Hybris.1442
+u:\carpedi\467\carpe467.vom  Infection: Riot.467 (exact)
+u:\carpedi\467\carpedi.vom  Infection: Riot.467 (exact)
+u:\carpedi\467\t1.vom  Infection: Riot.467 (exact)
+u:\carpedi\467\t2.vom  Infection: Riot.467 (exact)
+u:\carpedi\469\a\carpedi.vom  Infection: Riot.469
+u:\carpedi\469\a\rio469c.vom  Infection: Riot.469
+u:\carpedi\469\b\rio469d.vom  Infection: Riot.469
+u:\carpedi\470\carpe470.vom  Infection: Riot.470 (exact)
+u:\carpedi\470\carpedie.vom  Infection: Riot.470 (exact)
+u:\carpedi\470\t5.vom  Infection: Riot.470 (exact)
+u:\carpedi\472\a\023c71e3.vom  Infection: Riot.472.A
+u:\carpedi\472\b\carpedi.vom  Infection: Riot.472.A
+u:\carpedi\472\c\carpedi.vxe  Infection: Riot.472.A - Dropper
+u:\cheese\395\virus.dos.cheese.395  Infection: Cheese.395 (exact)
+u:\cheese\423\chees423.vom  Infection: Cheese.423 (exact)
+u:\cheese\423\cheese.vom  Infection: Cheese.423 (exact)
+u:\cheese\423\t7.vom  Infection: Cheese.423 (exact)
+u:\cheese\423\tf.vom  Infection: Cheese.423 (exact)
+u:\cheese\424\virus.dos.riot.chees.424  Infection: Cheese.424 (exact)
+u:\cheese\427\virus.dos.cheese.427  Infection: Cheese.427 (exact)
+u:\coke\535\coke.vom  Infection: Cocaine.535 - Dropper
+u:\coke\535\wci07821.vxe  Infection: Cocaine.535
+u:\demand\666\b\dema666b.vom  Infection: Human_Greed.666.B
+u:\demand\666\c\c-hu666c.vom  Infection: Human_Greed.666.C
+u:\demand\666\c\humgrd1.vom  Infection: Human_Greed.666.C
+u:\demand\666\d\wci0211d.vom  Infection: Human_Greed.666.D (exact)
+u:\demand\666\f\h-greed.vom  Infection: Human_Greed.666.F (exact)
+u:\demand\666\g\c-hu666g.vom  Infection: Human_Greed.666.G
+u:\demand\666\h\c-hu666a.vom  Infection: Human_Greed.666.H (exact)
+u:\demand\666\h\human.vom  Infection: Human_Greed.666.H (exact)
+u:\demand\666\i\human_gr-001.vom  Infection: Human_Greed.666.I (exact)
+u:\demand\666\i\human_gr.vom  Infection: Human_Greed.666.I (exact)
+u:\demand\666\j\virus.dos.leprosy.h-greed.666.j  Infection: Human_Greed.666.J (exact)
+u:\demand\789\a\c-hu789a.vom  Infection: Human_Greed.789.A (exact)
+u:\demand\789\a\infernal.vom  Infection: Human_Greed.789.A (exact)
+u:\demand\789\b\demand.vom  Infection: Human_Greed.789.B
+u:\digdeath\0958\digdeath.vom  Infection: Digital_Death.958
+u:\digdeath\0958\t1.vom  Infection: Digital_Death.958
+u:\digdeath\0958\t2.vom  Infection: Digital_Death.958
+u:\digdeath\0958\t3.vom  Infection: Digital_Death.958
+u:\digdeath\0958\t4.vom  Infection: Digital_Death.958
+u:\digdeath\0958\t5.vom  Infection: Digital_Death.958
+u:\digdeath\0958\t6.vom  Infection: Digital_Death.958
+u:\digdeath\0958\t7.vom  Infection: Digital_Death.958
+u:\digdeath\0963\digdeath.vom  Infection: Digital_Death.963
+u:\digdeath\0963\t1.vom  Infection: Digital_Death.963
+u:\digdeath\0963\t2.vom  Infection: Digital_Death.963
+u:\digdeath\0963\t3.vom  Infection: Digital_Death.963
+u:\digdeath\0963\t4.vom  Infection: Digital_Death.963
+u:\digdeath\0963\t5.vom  Infection: Digital_Death.963
+u:\digdeath\0963\t6.vom  Infection: Digital_Death.963
+u:\digdeath\0963\t7.vom  Infection: Digital_Death.963
+u:\digdeath\1062\digd1062.vom  Infection: Digital_Death.1062
+u:\digdeath\1062\t1.vom  Infection: Digital_Death.1062
+u:\digdeath\1062\t2.vom  Infection: Digital_Death.1062
+u:\digdeath\1062\t3.vom  Infection: Digital_Death.1062
+u:\digdeath\1062\t4.vom  Infection: Digital_Death.1062
+u:\digdeath\1062\t5.vom  Infection: Digital_Death.1062
+u:\digdeath\1062\t6.vom  Infection: Digital_Death.1062
+u:\digdeath\1062\t7.vom  Infection: Digital_Death.1062
+u:\digdeath\1153\digd1153.vom  Infection: Digital_Death.1153
+u:\digdeath\1153\t1.vom  Infection: Digital_Death.1153
+u:\digdeath\1153\t1.vxe  Infection: Digital_Death.1153
+u:\digdeath\1153\t2.vom  Infection: Digital_Death.1153
+u:\digdeath\1153\t2.vxe  Infection: Digital_Death.1153
+u:\digdeath\1153\t3.vom  Infection: Digital_Death.1153
+u:\digdeath\1153\t3.vxe  Infection: Digital_Death.1153
+u:\digdeath\1153\t4.vom  Infection: Digital_Death.1153
+u:\digdeath\1153\t4.vxe  Infection: Digital_Death.1153
+u:\digdeath\1153\t5.vom  Infection: Digital_Death.1153
+u:\digdeath\1153\t5.vxe  Infection: Digital_Death.1153
+u:\digdeath\1153\t6.vom  Infection: Digital_Death.1153
+u:\digdeath\1153\t6.vxe  Infection: Digital_Death.1153
+u:\digdeath\1153\t7.vom  Infection: Digital_Death.1153
+u:\digdeath\1153\t8.vom  Infection: Digital_Death.1153
+u:\doom\446\debug.vxe  Infection: Mephisto.446
+u:\doom\446\wci07752.vxe  Infection: Mephisto.446
+u:\doom\448\a\wci0055r.vom  Infection: Raver.448.A (exact) - Dropper
+u:\doom\448\b\raver_44.vom  Infection: Raver.448.B (exact) - Dropper
+u:\doom\448\b\t1.vxe  Infection: Raver.448.B (exact)
+u:\doom\448\b\t3.vxe  Infection: Raver.448.B (exact)
+u:\doom\448\b\unp.vxe  Infection: Raver.448.B (exact)
+u:\doom\449\a\cris10.vxe  Infection: Raver.449
+u:\doom\449\a\cris4.vxe  Infection: Raver.449
+u:\doom\449\a\cris6.vxe  Infection: Raver.449
+u:\doom\449\a\cris8.vxe  Infection: Raver.449
+u:\doom\449\a\doom!.vom  Infection: Raver.449 - Dropper
+u:\doom\449\b\taz12.vom  Infection: Raver.449 - Dropper
+u:\eternity\353\3.vom  could be infected with an unknown virus
+u:\eternity\410\ete410a.vxe  Infection: Eternity.410
+u:\eternity\410\sturm.vom  Infection: Eternity.410 - Dropper
+u:\eternity\410\wci07121.vxe  Infection: Eternity.410
+u:\eternity\411\ete411a.vxe  Infection: Eternity.411
+u:\eternity\411\storm.vom  Infection: Eternity.411 - Dropper
+u:\eternity\411\wci08231.vxe  Infection: Eternity.411
+u:\eternity\412\sturm&dr.vom  Infection: Eternity.412 - Dropper
+u:\eternity\412\sturm&dr.vxe  Infection: Eternity.412
+u:\eternity\412\t2.vxe  Infection: Eternity.412
+u:\eternity\562\ete562a.vxe  is a corrupted or intended virus
+u:\eternity\562\eternitc.vom  Infection: Eternity.562 - Dropper
+u:\eternity\565\a\eternity.vom  Infection: Eternity.565 - Dropper
+u:\eternity\565\a\t4.vxe  Infection: Eternity.565
+u:\eternity\565\a\t5.vxe  Infection: Eternity.565
+u:\eternity\565\a\t6.vxe  Infection: Eternity.565
+u:\eternity\565\b\etern565.vom  Infection: Eternity.565 - Dropper
+u:\eternity\565\b\t1.vxe  Infection: Eternity.565
+u:\eternity\565\b\t2.vxe  Infection: Eternity.565
+u:\eternity\565\b\t3.vxe  Infection: Eternity.565
+u:\eternity\566\etern566.vom  Infection: Eternity.566 (exact) - Dropper
+u:\eternity\566\etern566.vxe  Infection: Eternity.566 (exact)
+u:\eternity\566\t2.vxe  Infection: Eternity.566 (exact)
+u:\eternity\566\t3.vxe  Infection: Eternity.566 (exact)
+u:\eternity\599\ete599a.vxe  is a corrupted or intended virus
+u:\eternity\599\etern01.vom  Infection: Eternity.599 - Dropper
+u:\eternity\600\ete600a.vxe  is a corrupted or intended virus
+u:\eternity\600\etern_ii.vom  Infection: Eternity.600 - Dropper
+u:\inv_evil\768\bio2.vom  Infection: Evil.786
+u:\inv_evil\769\inv-evil.vom  Infection: Inv_Evil.769 (exact)
+u:\inv_evil\786\inv-evil.vom  Infection: Inv_Evil.786
+u:\inv_evil\811\bio.vom  Infection: Evil.811
+u:\irate\0912\compo.vom  Infection: Kubik.912
+u:\irate\0928\a\compo.vom  Infection: Irate.928.A
+u:\irate\0928\a\wci0318i.vxe  Infection: Irate.928.A
+u:\irate\0928\b\irate_92.vom  Infection: Irate.928.B (exact)
+u:\irate\0944\virus.dos.exeresh  Infection: Irate.944
+u:\irate\1968\tu-ir8.vom  Infection: Irate.1968
+u:\keyb\667\a\iod14.vom  Infection: Keyb.667.A (exact)
+u:\keyb\667\b\iod14-2.vom  Infection: Keyb.667.B (exact)
+u:\keyb\756\iod15.vom  Infection: Keyb.756 (exact)
+u:\keyb\757\iod15.vom  Infection: Keyb.757 (exact)
+u:\keyb\996\2.vom  Infection: Keyb.996 (exact)
+u:\linda\517\lin_vir.vom  Infection: Linda.517 (exact)
+u:\lisa\lisa.vom  Infection: Lisa.666
+u:\lisa\lisa2.vom  Infection: Lisa.666
+u:\livewire\220\livew.vom  Infection: LiveWire.220 (exact)
+u:\livewire\220\livewire.vxe  Infection: LiveWire.220 (exact)
+u:\livewire\220\t7.vxe  Infection: LiveWire.220 (exact)
+u:\livewire\220\tf.vxe  Infection: LiveWire.220 (exact)
+u:\manzon\1404\d57da3bc.vom  Infection: Manzon.1407
+u:\manzon\1404\manz1404.vom  Infection: Manzon.1407
+u:\manzon\1404\t1.vom  Infection: Manzon.1407
+u:\manzon\1404\t1.vxe  Infection: Manzon.1407
+u:\manzon\1404\t2.vom  Infection: Manzon.1407
+u:\manzon\1404\t2.vxe  Infection: Manzon.1407
+u:\manzon\1404\t3.vxe  Infection: Manzon.1407
+u:\manzon\1414\eanzon.vom  Infection: Manzon.1426
+u:\manzon\1414\manz1.vom  Infection: Manzon.1426
+u:\manzon\1414\manz1414.vom  Infection: Manzon.1426
+u:\manzon\1414\manz1445.vom  Infection: Manzon.1426
+u:\manzon\1414\manzon.vom  Infection: Manzon.1426
+u:\manzon\1414\manzon2.vom  Infection: Manzon.1426
+u:\manzon\1484\00012652.vom  Infection: Manzon.1484.A (exact)
+u:\manzon\1484\00012653.vom  Infection: Manzon.1484.A (exact)
+u:\manzon\1484\00012654.vom  Infection: Manzon.1484.A (exact)
+u:\manzon\1484\00012655.vom  Infection: Manzon.1484.A (exact)
+u:\manzon\1484\00012656.vom  Infection: Manzon.1484.A (exact)
+u:\manzon\1484\00012657.vom  Infection: Manzon.1484.A (exact)
+u:\manzon\1484\00012658.vom  Infection: Manzon.1484.A (exact)
+u:\manzon\1484\00012659.vom  Infection: Manzon.1484.A (exact)
+u:\manzon\1529\4.vom  Infection: Digital_Death.1529
+u:\markedx\110\virus.dos.vellax.110  Infection: Marked-X.110
+u:\markedx\304\virus.dos.flood.304  Infection: Marked-X.304 (exact)
+u:\markedx\347\markunk0.vom  Infection: Marked-X.347 (exact)
+u:\markedx\347\metal347.vom  Infection: Marked-X.347 (exact)
+u:\markedx\347\metal347.vxe  Infection: Marked-X.347 (exact)
+u:\markedx\347\t1.vom  Infection: Marked-X.347 (exact)
+u:\markedx\347\t1.vxe  Infection: Marked-X.347 (exact)
+u:\markedx\347\t2.vom  Infection: Marked-X.347 (exact)
+u:\markedx\347\t2.vxe  Infection: Marked-X.347 (exact)
+u:\markedx\347\t3.vxe  Infection: Marked-X.347 (exact)
+u:\markedx\347\t5.vom  Infection: Marked-X.347 (exact)
+u:\markedx\347\x.vom  Infection: Marked-X.347 (exact)
+u:\markedx\354\marked-x.vom  Infection: Marked-X.354 (exact)
+u:\markedx\355\marked-x.vom  Infection: Marked-X.355 (exact)
+u:\mmir\268\a\mmir_268.vom  Infection: MMIR.268.A (exact)
+u:\mmir\268\a\mmir_268.vxe  Infection: MMIR.268.A (exact)
+u:\mmir\278\mmir-278.vom  Infection: MMIR.278.A (exact)
+u:\mmir\278\small.vom  Infection: MMIR.278.A (exact)
+u:\mmir\279\mmir2791.vom  contains MMIR.279 (non-working)
+u:\mmir\281\1c447067.vom  Infection: MMIR.281 (exact)
+u:\mmir\282\a\virus.dos.riot.182  Infection: MMIR.282.A (exact)
+u:\mmir\282\b\mmirunk1.vom  Infection: MMIR.282.B
+u:\mmir\282\b\t6.vom  Infection: MMIR.282.B
+u:\mmir\282\b\t7.vom  Infection: MMIR.282.B
+u:\mmir\282\b\v4995.vom  Infection: MMIR.282.B
+u:\moonlite\338\moonl338.vom  Infection: Moonlite.338
+u:\moonlite\351\moonlite.vom  Infection: Moonlite.351
+u:\moonlite\355\moonlite.vom  Infection: Moonlite.355
+u:\moonlite\359\moonlite.vom  Infection: Moonlite.359
+u:\moonlite\366\caffein.vom  Infection: Moonlite.366
+u:\moonlite\417\417.vom  Infection: Moonlite.417
+u:\moonlite\417\moon-417.vom  Infection: Moonlite.417
+u:\moonlite\458\met-moon.vom  Infection: Moonlite.458
+u:\moonlite\465\met-moon.vom  Infection: Moonlite.465
+u:\multiflu\791\mul791a.vom  Infection: Multiflu.791
+u:\multiflu\791\multifl1.vom  Infection: Multiflu.791
+u:\multiflu\813\mul813a.vom  Infection: Multiflu.813.A
+u:\multiflu\813\multiflu.vom  Infection: Multiflu.813.A
+u:\multiplex\815\multiflx.vom  Infection: Multiplex.815
+u:\multiplex\815\multx815.vom  Infection: Multiplex.815
+u:\multiplex\821\a\mul821a.vom  Infection: Multiplex.821
+u:\multiplex\821\a\multiflx.vom  Infection: Multiplex.821
+u:\multiplex\821\b\flex.vom  Infection: Multiplex.821
+u:\multiplex\822\t1.vom  Infection: Multiplex.822 (exact)
+u:\multiplex\822\t2.vom  Infection: Multiplex.822 (exact)
+u:\multiplex\822\t3.vom  Infection: Multiplex.822 (exact)
+u:\multiplex\822\t7.vom  Infection: Multiplex.822 (exact)
+u:\multiplex\822\wci0758m.vom  Infection: Multiplex.822 (exact)
+u:\overdoze\470\overdoze.vom  Infection: Overdoze.470 (exact)
+u:\overdoze\472\iod.vom  Infection: Overdoze.472
+u:\overdoze\563\overd563.vom  Infection: Overdoze.563.A (exact)
+u:\overdoze\563\t1.vom  Infection: Overdoze.563.A (exact)
+u:\overdoze\563\t10.vom  Infection: Overdoze.563.A (exact)
+u:\overdoze\563\t2.vom  Infection: Overdoze.563.A (exact)
+u:\overdoze\563\t7.vom  Infection: Overdoze.563.A (exact)
+u:\overdoze\563\v5.vom  Infection: Overdoze.563.A (exact)
+u:\overdoze\568\v12.vom  Infection: Overdoze.568 (exact)
+u:\overdoze\569\v17.vom  Infection: Overdoze.569 (exact)
+u:\overdoze\569\wci0053o.vom  Infection: Overdoze.569 (exact)
+u:\overdoze\572\v9.vom  Infection: Overdoze.572 (exact)
+u:\overdoze\573\v16.vom  Infection: Overdoze.573 (exact)
+u:\overdoze\578\v2.vom  Infection: Overdoze.578 (exact)
+u:\overdoze\580\a\v6.vom  Infection: Overdoze.580.A (exact)
+u:\overdoze\580\b\v13.vom  Infection: Overdoze.580.B (exact)
+u:\overdoze\580\c\v19.vom  Infection: Overdoze.580.C (exact)
+u:\overdoze\582\v18.vom  Infection: Overdoze.582 (exact)
+u:\overdoze\584\v4.vom  Infection: Overdoze.584 (exact)
+u:\overdoze\585\v7.vom  Infection: Overdoze.585 (exact)
+u:\overdoze\587\v14.vom  Infection: Overdoze.587 (exact)
+u:\overdoze\588\v20.vom  Infection: Overdoze.588 (exact)
+u:\overdoze\590\v10.vom  Infection: Overdoze.590 (exact)
+u:\overdoze\591\v3.vom  Infection: Overdoze.591 (exact)
+u:\overdoze\593\virus.vom  Infection: Overdoze.593 (exact)
+u:\overdoze\596\v11.vom  Infection: Overdoze.596 (exact)
+u:\overdoze\600\a\v1.vom  Infection: Overdoze.600.A (exact)
+u:\overdoze\600\b\v15.vom  Infection: Overdoze.600.B (exact)
+u:\overdoze\606\v8.vom  Infection: Overdoze.606 (exact)
+u:\pollution\378\poll-378.vom  Infection: Riot.378
+u:\pollution\378\rio378b.vom  Infection: Riot.378
+u:\pollution\381\religion.vom  Infection: Riot.381
+u:\pollution\390\rio390a.vom  Infection: Riot.390
+u:\pollution\390\stio.vom  Infection: Riot.390
+u:\pollution\463\doskey.vom  Infection: Ratboy.463
+u:\pollution\463\format.vom  Infection: Ratboy.463
+u:\pollution\463\pollute.vom  Infection: Ratboy.463
+u:\pollution\463\t9.vom  Infection: Ratboy.463
+u:\pollution\464\faces.vom  Infection: Riot.464
+u:\pollution\464\t10.vom  Infection: Riot.464
+u:\pollution\564\faces.vom  Infection: Ratboy.564
+u:\pollution\564\t10.vom  Infection: Ratboy.564
+u:\pollution\565\face.vom  Infection: Riot.565
+u:\pollution\565\rio565a.vom  Infection: Riot.565
+u:\pollution\822\digpol01.vom  Infection: Riot.822
+u:\pollution\823\digpoll.vom  Infection: Riot.823
+u:\pollution\823\rio823a.vom  Infection: Riot.823
+u:\psfl\5.vom  Infection: Blue_Nine.1005
+u:\psychosis\1195\1195.vom  Infection: Psychosis.1195
+u:\psychosis\1195\psycosis.vom  Infection: Psychosis.1195
+u:\psychosis\1201\psychosi-001.vom  Infection: Psychosis.1201 (exact)
+u:\psychosis\1202\psycosis.vom  Infection: Psychosis.1202
+u:\psychosis\1203\psyc1203.vom  Infection: Psychosis.1203
+u:\pushup\943\pushu943.vom  Infection: Push.943 (exact)
+u:\pushup\943\pushu943.vxe  Infection: Push.943 (exact)
+u:\pushup\943\pushup.vom  Infection: Push.943 (exact)
+u:\pushup\943\t7.vom  Infection: Push.943 (exact)
+u:\pushup\943\t7.vxe  Infection: Push.943 (exact)
+u:\pushup\943\tf.vom  Infection: Push.943 (exact)
+u:\pushup\943\tf.vxe  Infection: Push.943 (exact)
+u:\pushup\959\push_959-001.vom  Infection: Push.959 (exact)
+u:\pushup\959\push_959.vom  Infection: Push.959 (exact)
+u:\pushup\959\push_959.vxe  Infection: Push.959 (exact)
+u:\pushup\964\push_964.vxe  Infection: Push.964 (exact)
+u:\pushup\995\push_995-001.vom  Infection: Push.995 (exact)
+u:\pushup\995\push_995-001.vxe  Infection: Push.995 (exact)
+u:\salamand\888\sala888.vom  Infection: Salamander.888
+u:\salamand\940\s4.vom  Infection: Salamander.940
+u:\salamand\945\s4.vom  Infection: Salamander.945 (exact)
+u:\tankar\229\antiivt.vom  Infection: Tankar.229 (exact)
+u:\tankar\230\aivt-230.vom  Infection: Tankar.230 (exact)
+u:\tankar\235\atbc-235.vom  Infection: Tankar.235 (exact)
+u:\tankar\236\rsv.vom  Infection: Tankar.236 (exact)
+u:\tankar\240\atbc-240.vom  Infection: Tankar.240 (exact)
+u:\tankar\409\tunn409.vom  Infection: Tankar.409 (exact)
+u:\tankar\411\tunn411.vom  Infection: Tankar.411 (exact)
+u:\tankar\476\tankar.vom  Infection: Tankar.476 (exact)
+u:\tankar\482\subcon.vom  Infection: Tankar.482 (exact)
+u:\tankar\482\t7.vom  Infection: Tankar.482 (exact)
+u:\tankar\482\tc.vom  Infection: Tankar.482 (exact)
+u:\tankar\482\tf.vom  Infection: Tankar.482 (exact)
+u:\theta\527\incompl.vom  Infection: Theta.527
+u:\theta\530\incompl.vom  Infection: Theta.530
+u:\theta\530\wci0548t.vom  Infection: Theta.530
+
+Results of virus scanning:
+
+Files: 561
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 561
+Infected: 356
+Suspicious: 8
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00

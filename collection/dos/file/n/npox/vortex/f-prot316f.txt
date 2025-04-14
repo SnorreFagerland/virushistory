@@ -1,0 +1,172 @@
+Virus scanning report  -  14 April 2025 @ 13:43
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\0986\t1.vom  Infection: Npox.986 (exact)
+u:\0986\t1.vxe  Infection: Npox.986 (exact)
+u:\0986\wci0177n.vom  Infection: Npox.986 (exact)
+u:\0989\1-gone_a.vom  Infection: Vortex.989
+u:\0989\1-gone_a.vxe  Infection: Vortex.989
+u:\0989\2-gone_a.vom  Infection: Vortex.989
+u:\0989\2-gone_a.vxe  Infection: Vortex.989
+u:\0989\3-gone_a.vom  Infection: Vortex.989
+u:\0989\3-gone_a.vxe  Infection: Vortex.989
+u:\0989\4-gone_a.vom  Infection: Vortex.989
+u:\0989\c-gone_a.vom  Infection: Vortex.989
+u:\0989\t2.vom  Infection: Vortex.989
+u:\0989\t2.vxe  Infection: Vortex.989
+u:\0989\wci1068v.vom  Infection: Vortex.989
+u:\0992\t1.vom  Infection: Npox.992 (exact)
+u:\0992\t1.vxe  Infection: Npox.992 (exact)
+u:\0992\wci0178n.vom  Infection: Npox.992 (exact)
+u:\0995\t2.vom  Infection: Npox.995 (exact)
+u:\0995\t2.vxe  Infection: Npox.995 (exact)
+u:\0995\wci0179n.vom  Infection: Npox.995 (exact)
+u:\0998\t1.vom  Infection: Npox.998 (exact)
+u:\0998\t1.vxe  Infection: Npox.998 (exact)
+u:\0998\wci1069v.vom  Infection: Npox.998 (exact)
+u:\1001\t2.vom  Infection: Npox.1001
+u:\1001\t2.vxe  Infection: Npox.1001
+u:\1001\wci1066v.vom  Infection: Npox.1001
+u:\1004\t1.vom  Infection: Npox.1004 (exact)
+u:\1004\t1.vxe  Infection: Npox.1004 (exact)
+u:\1004\wci0143n.vom  Infection: Npox.1004 (exact)
+u:\1007\t2.vom  Infection: Npox.1007 (exact)
+u:\1007\t2.vxe  Infection: Npox.1007 (exact)
+u:\1007\wci1067v.vom  Infection: Npox.1007 (exact)
+u:\1010\t1.vom  Infection: Npox.1010 (exact)
+u:\1010\t1.vxe  Infection: Npox.1010 (exact)
+u:\1010\wci0144n.vom  Infection: Npox.1010 (exact)
+u:\1037\00011639.vom  Infection: STF.1037
+u:\1037\t2.vom  Infection: STF.1037
+u:\1037\t2.vxe  Infection: STF.1037
+u:\1039\00011640.vom  Infection: STF.1039
+u:\1039\t1.vom  Infection: STF.1039
+u:\1039\t1.vxe  Infection: STF.1039
+u:\1043\00011641.vom  Infection: Npox.1043
+u:\1043\t2.vom  Infection: Npox.1043
+u:\1043\t2.vxe  Infection: Npox.1043
+u:\1047\00011642.vom  Infection: Npox.1047
+u:\1047\t5.vom  Infection: Npox.1047
+u:\1047\t5.vxe  Infection: Npox.1047
+u:\1051\00011643.vom  Infection: Npox.1051
+u:\1051\t6.vom  Infection: Npox.1051
+u:\1051\t6.vxe  Infection: Npox.1051
+u:\1055\00011644.vom  Infection: STF.1055
+u:\1055\t5.vom  Infection: STF.1055
+u:\1055\t5.vxe  Infection: STF.1055
+u:\1059\00011645.vom  Infection: Npox.1059
+u:\1059\t6.vom  Infection: Npox.1059
+u:\1059\t6.vxe  Infection: Npox.1059
+u:\1071\00011616.vom  Infection: Npox.1071
+u:\1071\t5.vom  Infection: Npox.1071
+u:\1071\t5.vxe  Infection: Npox.1071
+u:\1074\00011617.vom  Infection: Npox.1074
+u:\1074\t6.vom  Infection: Npox.1074
+u:\1074\t6.vxe  Infection: Npox.1074
+u:\1077\00011618.vom  Infection: Npox.1077
+u:\1077\t5.vom  Infection: Npox.1077
+u:\1077\t5.vxe  Infection: Npox.1077
+u:\1080\00011619.vom  Infection: Npox.1080
+u:\1080\t5.vom  Infection: Npox.1080
+u:\1080\t5.vxe  Infection: Npox.1080
+u:\1083\00011620.vom  Infection: Npox.1083
+u:\1083\t5.vom  Infection: Npox.1083
+u:\1083\t5.vxe  Infection: Npox.1083
+u:\1086\00011621.vom  Infection: Npox.1086
+u:\1086\t5.vom  Infection: Npox.1086
+u:\1086\t5.vxe  Infection: Npox.1086
+u:\1089\00011622.vom  Infection: Npox.1089
+u:\1089\t5.vom  Infection: Npox.1089
+u:\1089\t5.vxe  Infection: Npox.1089
+u:\1092\00011623.vom  Infection: Npox.1092
+u:\1092\t5.vom  Infection: Npox.1092
+u:\1092\t5.vxe  Infection: Npox.1092
+u:\1095\00011624.vom  Infection: Npox.1095
+u:\1095\t5.vom  Infection: Npox.1095
+u:\1095\t5.vxe  Infection: Npox.1095
+u:\1584\t5.vom  Infection: Npox.1584 (exact)
+u:\1584\t5.vxe  Infection: Npox.1584 (exact)
+u:\1584\wci0147n.vom  Infection: Npox.1584 (exact)
+u:\1588\t5.vom  Infection: Npox.1588 (exact)
+u:\1588\t5.vxe  Infection: Npox.1588 (exact)
+u:\1588\wci0148n.vom  Infection: Npox.1588 (exact)
+u:\1592\t5.vom  Infection: Npox.1592 (exact)
+u:\1592\t5.vxe  Infection: Npox.1592 (exact)
+u:\1592\wci0149n.vom  Infection: Npox.1592 (exact)
+u:\1596\t5.vom  Infection: Npox.1596 (exact)
+u:\1596\t5.vxe  Infection: Npox.1596 (exact)
+u:\1596\wci0150n.vom  Infection: Npox.1596 (exact)
+u:\1600\t5.vom  Infection: Npox.1600 (exact)
+u:\1600\t5.vxe  Infection: Npox.1600 (exact)
+u:\1600\wci0151n.vom  Infection: Npox.1600 (exact)
+u:\1604\t5.vom  Infection: Npox.1604 (exact)
+u:\1604\t5.vxe  Infection: Npox.1604 (exact)
+u:\1604\wci0152n.vom  Infection: Npox.1604 (exact)
+u:\1608\t5.vom  Infection: Npox.1608 (exact)
+u:\1608\t5.vxe  Infection: Npox.1608 (exact)
+u:\1608\wci0153n.vom  Infection: Npox.1608 (exact)
+u:\1614\virus.dos.vortex.day7.1614  Infection: Npox.1614 (exact)
+u:\1634\00012544.vom  Infection: Npox.1634
+u:\1634\00012545.vom  Infection: Npox.1634
+u:\1634\00012547.vom  Infection: Npox.1634
+u:\1634\00012548.vom  Infection: Npox.1634
+u:\1634\00012549.vom  Infection: Npox.1634
+u:\1634\00012550.vom  Infection: Npox.1634
+u:\1634\00012551.vom  Infection: Npox.1634
+u:\1634\1-np1634.vom  Infection: Npox.1634
+u:\1634\1-np1634.vxe  Infection: Npox.1634
+u:\1634\2-np1634.vom  Infection: Npox.1634
+u:\1634\2-np1634.vxe  Infection: Npox.1634
+u:\1634\3-np1634.vom  Infection: Npox.1634
+u:\1634\3-np1634.vxe  Infection: Npox.1634
+u:\1634\4-np1634.vom  Infection: Npox.1634
+u:\1634\c-np1634.vom  Infection: Npox.1634
+u:\1634\t5.vom  Infection: Npox.1634
+u:\1634\t5.vxe  Infection: Npox.1634
+u:\1641\00012555.vom  Infection: Npox.1641
+u:\1641\00012556.vom  Infection: Npox.1641
+u:\1641\00012557.vom  Infection: Npox.1641
+u:\1641\00012558.vom  Infection: Npox.1641
+u:\1641\00012559.vom  Infection: Npox.1641
+u:\1641\00012560.vom  Infection: Npox.1641
+u:\1641\00012561.vom  Infection: Npox.1641
+u:\1641\00012562.vom  Infection: Npox.1641
+u:\1641\1-np1641.vom  Infection: Npox.1641
+u:\1641\1-np1641.vxe  Infection: Npox.1641
+u:\1641\2-np1641.vom  Infection: Npox.1641
+u:\1641\2-np1641.vxe  Infection: Npox.1641
+u:\1641\3-np1641.vom  Infection: Npox.1641
+u:\1641\3-np1641.vxe  Infection: Npox.1641
+u:\1641\4-np1641.vom  Infection: Npox.1641
+u:\1641\c-np1641.vom  Infection: Npox.1641
+u:\1641\t5.vom  Infection: Npox.1641
+u:\1641\t5.vxe  Infection: Npox.1641
+
+Results of virus scanning:
+
+Files: 176
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 176
+Infected: 140
+Suspicious: 0
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00
