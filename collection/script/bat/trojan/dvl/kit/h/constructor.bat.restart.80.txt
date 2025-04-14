@@ -1,0 +1,74 @@
+@echo off
+@ver|find "XP"|if errorlevel 1 goto menu|if not errorlevel 1 exit
+:menu
+cls
+echo.
+echo.
+echo.
+echo.
+echo                        ÉÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ»
+echo                        ³ °±²Û Restart Constructor 8.0 Û²±° ³
+echo                        ÈÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¼
+echo.
+echo                     www.geocities.com/ratty_dvl/BATch/main.htm
+echo.
+echo.
+echo.
+echo    1 - Normal Shutdown (for Windows 9X and WindowsME)
+echo    2 - Forced Shutdown (for Windows 9X and WindowsME)
+echo    3 - Forced Shutdown (for Windows XP)
+echo    4 - Forced Reboot (for Windows 9X and WindowsME)
+echo    5 - Forced Reboot (for Windows XP)
+echo    6 - Normal Shutdown (for MS-DOS)
+echo.
+echo.
+echo    Q - Quit
+echo.
+choice /c:123456Q>nul
+if errorlevel 7 goto done
+if errorlevel 6 goto 6
+if errorlevel 5 goto 5
+if errorlevel 4 goto 4
+if errorlevel 3 goto 3
+if errorlevel 2 goto 2
+if errorlevel 1 goto 1
+echo CHOICE missing
+goto done
+
+:1
+cls
+ctty nul
+echo.rundll32.exe user,exitwindows>restart_1.bat
+ctty con
+goto done
+:2
+cls
+ctty nul
+echo.rundll32.exe krnl386,exitkernel>restart_2.bat
+ctty con
+goto done
+:3
+cls
+ctty nul
+echo.shutdown.exe -s -f>restart_3.bat
+ctty con
+goto done
+:4
+cls
+ctty nul
+echo.rundll32.exe shell32,shexitwindowsex 4>restart_4.bat
+ctty con
+goto done
+:5
+cls
+ctty nul
+echo.shutdown.exe -f -r>restart_5.bat
+ctty con
+goto done
+:6
+cls
+ctty nul
+echo"echo G=FFFF:0|%%windir%%\command\debug.exe >nul">restart_6.bat
+ctty con
+:done
+cls

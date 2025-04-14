@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.dos.fasterer.zip [babe43719421cd0dd3a82e1bdc44b39a2e5b205dcb33e79e913c5025c47360d3]
+    ├── trojan.dos.fasterer [73b4cc395ccc32c3f417a158ac9c13570c67969e1cb6253a5335293f5cdfdb23]
 ```

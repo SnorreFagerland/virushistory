@@ -27,7 +27,7 @@
 ├── j
 │   └── Trojan.DOS.Erase26.j.vx [f267e98fae88b985ae609cd2ab36959227cccb405f68978025319aa49827e64d]
 ├── k
-│   └── Trojan.DOS.Erase26.k.vx [3405e89e6982e3040ad071b608baf25968c26133694dc19b59d266132a53b9b5]
+│   └── trojan.dos.erase26.k [3405e89e6982e3040ad071b608baf25968c26133694dc19b59d266132a53b9b5]
 ├── l
 │   └── Trojan.DOS.Erase26.l.vx [0bb9147e0227c1b0d1055bc22138c2e81507829bccc87f46a3e90100d5116ef9]
 ├── m

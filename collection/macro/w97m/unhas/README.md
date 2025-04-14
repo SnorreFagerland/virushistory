@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.unhas.zip [cbf73563dee95c59a28a1c84b3c6e09609f433fa6822be74144daf17037b7f6d]
+│   ├── virus.msword.unhas [fc48f5251b92ec7f74dfd954d0964e43e3f6cfe84698d662c3953689a2955843]
 └── b
-    └── virus.msword.unhas.b.zip [db3f299d2ebb5e01a946dd4bbbd6547c44a1dc6554f5854f1600e876fa9fb837]
+    ├── virus.msword.unhas.b [cb8c86f2abdc5b8ca7294f8e84a0e1a3dbcd54027f9e3de7394e74f85f913415]
 ```

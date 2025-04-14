@@ -1,0 +1,55 @@
+@echo off
+:menu
+echo                    ษอออ                             อออป
+echo        Creator-DVL บ Win9x and Dos Restart Constructor บ Version 1.0
+echo        อออออออออออ ศอออ                             อออผ อออออออออออ
+echo      It will easily create .bat files with restart and similar commands
+echo.
+echo                    ษอออออออออออออออออออออออออออออออออออป
+echo                    บ Viruses don't harm, ignorance do! บ
+echo                    ศอออออออออออออออออออออออออออออออออออผ
+echo.
+echo    Choose your file (press a number):
+echo    อออออออออออออออออออออออออออออออออ
+echo.
+echo.
+echo    1 - Log Off (req. win95 + ie4.0)
+echo    2 - Shut Down (req. win95 + ie4.0)
+echo    3 - Reboot (req. win95 + ie4.0)
+echo    4 - Force (req. win95 + ie4.0)
+echo    5 - Power Off (req. win95 + ie4.0)
+echo    6 - Restart pc after 15 seconds (req. win98) 
+echo.
+echo    Q - Quit (Are u sure ???) ... Nevermind ! C yA in version 2 !
+echo.
+echo.
+choice /c:123456Q>nul
+if errorlevel 7 goto done
+if errorlevel 6 goto 6
+if errorlevel 5 goto 5
+if errorlevel 4 goto 4
+if errorlevel 3 goto 3
+if errorlevel 2 goto 2
+if errorlevel 1 goto 1
+echo CHOICE missing
+goto done
+:1
+@echo rundll32.exe shell32.dll,SHExitWindowsEx 0 > logoff.bat
+goto done
+:2
+@echo rundll32.exe shell32.dll,SHExitWindowsEx 1 > shutdown.bat
+goto done
+:3
+@echo rundll32.exe shell32.dll,SHExitWindowsEx 2 > reboot.bat
+goto done
+:4
+@echo rundll32.exe shell32.dll,SHExitWindowsEx 4 > force.bat
+goto done
+:5
+@echo rundll32.exe shell32.dll,SHExitWindowsEx 8 > poweroff.bat
+goto done
+:6
+@echo runonce.exe -q > restartafter15.bat
+goto done
+:done
+cls

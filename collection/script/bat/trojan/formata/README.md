@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.formata.d.zip [b055b53a2ecb77c19ca20c495a2d4ac6554f974e1ff6ae83c8802b4c84f09876]
+    ├── trojan.bat.formata.d [85963bdb2fa8412163b082497c79925bc2499d4ef844b70489e4eef00f4ee2aa]
 ```

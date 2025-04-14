@@ -3,9 +3,9 @@
 
 ```
 └── a
-    ├── horn-a.doc.zip [48650154dc187eaac96ff63f3a3042cd775b66c9e1e80109a8b9e60b8f091cb0]
-    ├── horn-a.dot.zip [48109b6c93fb6497cd9862597aae6aac1b7aca8d44b15c1467692e96a8acf548]
-    ├── horn-a_1.doc.zip [6be17332995ae0f18f7e95809b44de60c90c199db46eedaad784da76083271e3]
-    ├── horn-a_5.dot.zip [7db21d1d9d9c77c74379602bd664651cdd73c6ad2c5b1bbc3ae7ff03b1249e6d]
-    └── horn.doc.zip [89a967d1b02a0035f2a27885ab4e31984a3b618edb267e6a2ab66712003ac36f]
+    ├── horn-a.doc [c0e508ecb06930de0d9664c0f3121aaecfbef94416d9cfe0ef10dea5af266eba]
+    ├── horn-a.dot [3279e10d20a23cf6344a2a3e167245f492ec8c6d6cd088d474c5441d2f372893]
+    ├── horn-a_1.doc [32d393f967ce72f0b5dde558842fa4e3905cdb76d031e389e65ed226e8e71eb6]
+    ├── horn-a_5.dot [a6534db827a55da8a87cd52e2ca90e9fcf95edc50bb361b48b74c5c050d91dc9]
+    ├── horn.doc [ab75dac487473eb4288e532d7409c2a4fdf6691d65da8088e242ed896891c51d]
 ```

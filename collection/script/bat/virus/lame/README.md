@@ -3,5 +3,5 @@
 
 ```
 └── c
-    └── virus.bat.lame.b.zip [2c526768079158b29a8c87ae4589480af863182f163ec2b9c02125b7cf61dbad]
+    ├── virus.bat.lame.b [65bb1e05b5b19237e72ea68830807e0a8fe474258195b9b51eed429bd849cbcc]
 ```

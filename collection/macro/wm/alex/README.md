@@ -3,19 +3,19 @@
 
 ```
 ├── a
-│   └── alex.doc.zip [7ff71a8d325160fb545867a5d995bdda26f00df0cf64f5f57253fe95ab7f2324]
+│   ├── alex.doc [b47f40b8764c29ee6d7abdce7a78c8beddc7616e29e16fba499a44510ee83266]
 ├── b
-│   ├── under.doc.zip [88e02e8fb1aa582961f8d7389086bc91f846966c13ad2a90f05d5b157e3d1676]
-│   └── under2.doc.zip [7b2e4a7ec6e0901f644e7ceeb96a53ab5f6444e555ddb2167136b9b117824e1b]
+│   ├── under.doc [4f489d6a0fcfe475af2d2e985cbe653c832a3464d0c1e5a3da2df8b7911a25ec]
+│   ├── under2.doc [c4d8dc0eb6a90d1810fd1f5e2de4ef8ee7af521e4c4d3f9f568319f7a9e290f5]
 ├── c
-│   ├── alex-c.doc.zip [858fad9ffd15ced1b6dd1db72cc96004b0fc52dad36ea75b5b886e56e59e7077]
-│   ├── alex-c.dot.zip [b54800c222e4430e280aa4898ab78779c934c68fcc7a12f135c6b212d8923805]
-│   └── conair.doc.zip [521d771bf16e3747232953340bd0ccf79f67f0509850fdac991db040c7260985]
+│   ├── alex-c.doc [860a5a0f1eb31bf49da10532aef63fb8e81651904ec7bb400c44fff687fddca5]
+│   ├── alex-c.dot [6b9b7c2fe216312eb1f85d7ebce6a75a0ef2689aa679d4645123da63f814e919]
+│   ├── conair.doc [860a5a0f1eb31bf49da10532aef63fb8e81651904ec7bb400c44fff687fddca5]
 ├── d
-│   └── alex-d.doc.zip [d39cc39fb2d0a44f85ab23dcaac180bfb464040a862c8518aa6bf583d89d3dc7]
+│   ├── alex-d.doc [8aaa188e49fcff5e4147d6671a25c6914bb278d1df5440a39023a7fb81d062dd]
 ├── e
-│   ├── alex-e.doc.zip [17faf7337d533e1e7f2afc7ba250d0b621113402410a6e7e023c90a04f27b805]
-│   └── undo.doc.zip [d9a63219d1f6a373bd48f929eb40d17bc3aa3ae30e1bce06a3198e23e90b0a32]
+│   ├── alex-e.doc [fd19f5f7cfd79eb380f69f62bef3272c841e29f496a5ba3f7d45341b53212099]
+│   ├── undo.doc [f3b56cc6e10e8be7ca0326e4ba2b1c494683306464bcf471aa5b0ec8d2e648c6]
 └── f
-    └── satan.doc.zip [56b842d7c9742efd0cf6299742adcc2c0ade52fa38c8b821e6e21eaa3902c611]
+    ├── satan.doc [5e0767449f8e17ccf8797c03fc7b1045cda5b53ab145dc941557be40a067cc7e]
 ```

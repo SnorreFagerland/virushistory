@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.ewobble.zip [a624ddeae948404713cc1c871f23cf39402962e5ee8344e122d55aceeac7ba77]
+    ├── virus.msword.ewobble [985161ee32e2e3ee83b6285396aec4b584fe90e62e382b5680f4174be054850f]
 ```

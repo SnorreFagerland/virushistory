@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── bat.midget.a.zip [fd040e856a47cfeb9a77b54baf530288c5136771b6f23b558f74b88e8354c1c1]
+    ├── bat.midget.a [b67112fba0ac7f164cd025afab236cc83909fd313626eccaead32e918a28fd9c]
 ```

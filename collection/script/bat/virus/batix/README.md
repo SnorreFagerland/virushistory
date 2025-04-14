@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── bat.batix.zip [3d087b34a8072220a5caecd0b80cb431e7f0340524e589e7ec863f9a3c7a3ae3]
+│   ├── bat.batix [da848882b9978cfb3221d838c58755b965aeef60ece0619a3e713cb95834ea83]
 ├── b
-│   └── bat.dvquest.a.zip [535a552ebaf5d9af335af7a1881e8006cc931b9b525f7c86aefa447b1facd699]
+│   ├── bat.dvquest.a [a14a601eba6259995b5aa0f6d033df29245c73ffbba0fc5664977ef226b1e084]
 └── c
-    └── virus.bat.dvquest.c.zip [6f4879a70b7db296593a95edc02124c95ae9c88266544051da203b5bc185cf63]
+    ├── virus.bat.dvquest.c [06bf9f3f5e9fe0e2b4d2fa8b1de86dbbd272a47ef782d15ae22f81bed7de5ac8]
 ```

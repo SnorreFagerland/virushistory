@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.ostrich.zip [cc38d83631e82628c1d0d915b38b48c25d8ac0f6c4089ec46a3c23ea3181c007]
+│   ├── virus.msword.ostrich [f33b2de35f98423ced954a5c147d26c2629e1bce126c38d6b998b787c1f91da4]
 ├── b
-│   └── virus.msword.ostrich.b.zip [64a376e2d6afafa6f1bc91dd42685908593f8c918a7a6f78998c21161d7ba81d]
+│   ├── virus.msword.ostrich.b [628e6be3dc5ce705ae77b508a4baf0a04931ff73880ac1c826bb83b1d638e547]
 └── d
-    └── virus.msword.ostrich.c.zip [a3bf9703dd3c8693419eca555b1c8f9c50ece2b246fa078809c0dcdd790580a0]
+    ├── virus.msword.ostrich.c [4bda160f2c227f070aa459bbe2c690b958090ac7d0c2e9c68f7213aacddea73e]
 ```

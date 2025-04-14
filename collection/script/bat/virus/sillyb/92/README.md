@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── virus.bat.silly.as.zip [23b55ed7bf1a27c70e647153de2f7cc92ab113baa00b426d2bdfe74fb04a0dc0]
-    └── virus.dos.borg.631.zip [0be8ab7de906c75f249c706b6929819880850dd7c40f5944b9d2cc6833afba5a]
+    ├── virus.bat.silly.as [0f28417207923d27b53222529353b137ee0d09ed1af22158659d9c51df77c56b]
+    ├── virus.dos.borg.631 [6b2385ced0dffae7cfb20fa3c9799c0b6c35807cc00a462b499bc3eaa5c5085a]
 ```

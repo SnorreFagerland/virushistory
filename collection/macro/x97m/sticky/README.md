@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msexcel.sticky.zip [0b781e5abfd246665e9146ba2e40c6e6194eddb7efa2605997b0e16486c4cd50]
+    ├── virus.msexcel.sticky [0b9c6bc7d0c5cf4b5ce654083f9718e7eb7ca4fb0ba3afa33adf6a51a2babf67]
 ```

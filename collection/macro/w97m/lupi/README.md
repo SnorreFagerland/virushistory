@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.lupi.zip [fa4801cd6f449ab1175197fa61b0c467f7e738896b789109566a6461c5f12329]
+    ├── virus.msword.lupi [bb427ea30055fa7b251bf12d33e9e43c32a7bcc2f58de838b7ef720de309f40a]
 ```

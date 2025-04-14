@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.gullible.zip [90e613c21324d398b03ac68bacb19d838b8fe0dcab78c314139b898687f504d2]
+│   ├── virus.msword.gullible [7a22cc9e37affeb2b6219c310cf8173be83aaba6013f300c2e94019a117ed2c5]
 └── b
-    └── virus.msword.gullible.b.zip [480cc6643ad0825008c583f65ebbd0cb18ee84b61465351a0a31c7947b45cb15]
+    ├── virus.msword.gullible.b [9af5df139497901d27a24b7a7e51aa5bdbb31e4802830b49c19a60b3f3abc6fd]
 ```

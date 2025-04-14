@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── dub-a_2.doc.zip [34e5d9ca88547e1d577eaba973725dbbf927610236f2f7fa3e67ba440c647bb1]
-    └── dub-a_4.dot.zip [20137c3f4509ce366024778f4f9d69b36c739e55674ce6ad5a758de155b03e82]
+    ├── dub-a_2.doc [c7a98cd6e16c4934672b2336b6dd4d58d23b34ebd758f7cf9debfb985c453489]
+    ├── dub-a_4.dot [226dd2be3a023d3b75d4a3105e41ecf712f518ed64b847a477786aefb769b4d5]
 ```

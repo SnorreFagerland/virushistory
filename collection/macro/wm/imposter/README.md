@@ -3,16 +3,16 @@
 
 ```
 ├── a
-│   └── conc-imp.doc.zip [a64d674064aaaed600e4c8342d988f6dda2f12f142f6fa39e2022908867094b5]
+│   ├── conc-imp.doc [48b0ca5bba51d24eda84c5e44f0dc7b45ef299e053c991f87b21d383a4cdbe14]
 ├── b
-│   └── impost-b.doc.zip [bd86cdae9720d3d19dca585edb0868bc29f36a6d6f9f13aa62baa3e473361768]
+│   ├── impost-b.doc [117b37e6fe7cf3b8cfe2e23693143fb4939201491cd3f2daa07e75e400cdeb8f]
 ├── c
-│   ├── impo-c_2.doc.zip [d910d5d1e8f4bcf768947da60857f884b61e21d4244a7a7d089fc5bc64899822]
-│   └── impo-c_4.dot.zip [8009fbdabe1d9cf0faff32ab9b8a0b8e24a6cd53978ac83ed292b0f501859100]
+│   ├── impo-c_2.doc [1a61976059c3f7eb6a7c8b2e222a5653e20e495848745c7681a31d37f7b74094]
+│   ├── impo-c_4.dot [65c2bd5f6b7ba6907df5ba77e9837796632c2c6aed1525f95e0a37f7c8c793bf]
 ├── d
-│   ├── impost-d.doc.zip [69d6a6f94bb0473f19203c7e840b6551364fc46a3a06d629d00f55e4b9f55a62]
-│   └── impost-d.dot.zip [4c9ec969c527ce1f9c015bb355a35de31bd4a80f5cc6ccc15523970efb3537a4]
+│   ├── impost-d.doc [8dedfe6ed45213548a40d2b522d3592f43a6e61f0439b525f8d860df28588f76]
+│   ├── impost-d.dot [85da83148e7bd8466689344b09ea63a6458c845aeb20ac1c51ad12346a9ae453]
 └── e
-    ├── impost-e.doc.zip [c1272ece2c5bcdbe303a7b795fcfd8de8bb6089dc1333999dfc13a645f952af1]
-    └── impost-e.dot.zip [372ebf1766b2e97969c0cbcfa5b37c1481156d35ae768f7f3a03083583a8a06d]
+    ├── impost-e.doc [c1cdcf7e00b08d0d9c37c96a18bdc101fab5c6904cb1912287d99284afa7e620]
+    ├── impost-e.dot [a2707543c859d5c14d4726c367bdbe87fad0dc3063cfe3278d94f8b1864fe60b]
 ```

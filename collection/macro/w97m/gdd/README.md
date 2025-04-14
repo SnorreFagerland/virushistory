@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── gdd_a.do.zip [f501594b3d53323d81ca76bc783c1025051740601aad43df57adf424d6936e66]
+│   ├── gdd_a.do [0900a3c83b2b6180969100b5ce1fb361b48bca3899b886c8330adc1f3caec65f]
 └── b
-    └── virus.msword.day.b.zip [ca46689b098aa3a25153ebeb63c56cc37171d1a613dd1e5d7ad1626be12b1d6c]
+    ├── virus.msword.day.b [ea3ed438c93339f3881560f3a8d13bd54070810f8bb4f955797d2c7fd680c05e]
 ```

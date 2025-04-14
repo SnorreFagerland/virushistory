@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.angus.a.zip [8449dbab37c5de12c6f452a447f7044abd7c057b64afb1d29e7c6aef24dca829]
+    ├── virus.msword.angus.a [304c510117779ce472ce314293fa184af22452d89f50cb2e4c367bc89b84100f]
 ```

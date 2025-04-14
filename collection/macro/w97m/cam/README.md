@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.ego.zip [eae576ad7bd2130ddae3ff5c7eade5fbd7051eb080cfcd1ab4e8ba4320d7971c]
+│   ├── virus.msword.ego [e27accc98df35c512030300a1615f88d26d2dadc3132cf1e8b38cf6c0370d731]
 └── b
-    └── virus.msword.ego.b.zip [873b53315c419d945ae7e98418d0a1b6f458d132c58258fe7ea537e945ab7f5d]
+    ├── virus.msword.ego.b [b7e429d1d08ece5450c1512ddc3f09e375f5eda59199c330d616ea114258b6b8]
 ```

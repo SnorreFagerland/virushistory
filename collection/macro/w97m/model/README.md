@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   ├── model_a-001.do.zip [22619f7160110826bb8db5a197c14b48f58531c7f0e516898475fb6381c4dc39]
-│   ├── model_a-002.do.zip [36bd488378ff733b0adfabfc5f47541a63d299e0976234aa3772ea15f2870c0d]
-│   └── model_a.do.zip [0f879ec8edd5c3ac114cbf89e7de6f60bc4841f11191a71f5acd1be22f498e6e]
+│   ├── model_a-001.do [f2767dd0a7e4e0c46ccb03c987a0e8748be65cb976151a23288d08deefb86fa0]
+│   ├── model_a-002.do [dbb76b3a8d8d6af49fb3ce595acbd8e5ea90fae44a119749dab23fd287560532]
+│   ├── model_a.do [2e4ab2dd0991b5969fb124c142fe4283077b3034c063622fbfa6c05e7504096d]
 ├── b
-│   └── virus.msword.model.b.zip [5e82f31b5c35355a0625fdbe0a13cc24a664be0aa14538d5f1427da42b7b774d]
+│   ├── virus.msword.model.b [069931689c10ef2401004e5bf6a25eda0728a0fef00bbc96885701286b7c37f8]
 ├── c
-│   └── virus.msword.model.c.zip [4a6d4acf59cc7a0205b5e7d865848fa279ce283e1086c55702bc0dad7f8fc330]
+│   ├── virus.msword.model.c [d0763f2fec9ab0ce042483f3742ec76a23d02a4be597b9c89b1dd60d794e6c84]
 ├── d
-│   └── virus.msword.model.zip [b5a970e633f7c04b34da7d101f096476d19d9d48f015f23ee297d3459e2f41e3]
+│   ├── virus.msword.model [e83b8625eaeef62dfd4473b84fa535d675a7691b5eca4ac537c40b001191bade]
 └── e
-    └── virus.msword.model.e.zip [eeb1a9df588af55796f8e289bd5fd999eae3a1facf6fe8fbb4132f43c51a9cbc]
+    ├── virus.msword.model.e [4c594669c1424e1f2b869a77b27783715a1f53f33f2ced3f98d1a26972b3b21d]
 ```

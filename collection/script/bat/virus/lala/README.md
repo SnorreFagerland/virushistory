@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.lala.a.zip [a7c26e2ac78ad183c76399acaa6d3ad580a8516258e9a4ae3582f8bf6ec5c57e]
+    ├── virus.bat.lala.a [684c620ddcfb316ccc7fa8b6354aa538b1fa8174bc66c94bd7db1aad102aa1e7]
 ```

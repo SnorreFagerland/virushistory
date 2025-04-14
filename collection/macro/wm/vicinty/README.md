@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   ├── vicinity.doc.zip [8b61a1d8ebfdab95b7d94f2dbc969e44a1e8b7f8010104811090ca90a7c6ec1c]
-│   └── vicinity.dot.zip [998f19a2fdbccba38514174d09bbd6a3aff2d123365f802364b1447aeae4cda2]
+│   ├── vicinity.doc [b1c08252845a518360bfbc20c7afd1577646fbfee27ecc704ac8d405dc8c908c]
+│   ├── vicinity.dot [3e50831ec0efceab4361bcf7c491ce4cbed16d65529c36d5648c6cdb38e776d3]
 └── c
-    ├── vicinc.doc.zip [3d2011c6793daa49a4de83cf034cc5ae1d3ed89baf52b3b5b10f5d587d5d7121]
-    └── vicinc.dot.zip [8a4335b44fb616dc3a58e4bd4b63fcd40dda4df223795d3808b310db6c18d673]
+    ├── vicinc.doc [9409ae681b71744249267d509b69bbb1cd357e470748da51d3e06cfdc9b8b4c5]
+    ├── vicinc.dot [1a4b5f8cf4c12c122690afe8b301ba8ba601a242c122adaa294f1cfed9f0f0a2]
 ```

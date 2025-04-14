@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── b_nod.doc.zip [6e17ae5f78c32efde00ffb5be7a7079772f6c45b5215c7ebc80e40ef956b714b]
-    ├── illiter.doc.zip [76dcaedb0155ec8a7e1c56c6fee315f98703b7e45ed11395d5f23f53b8e8218a]
-    └── illiter.dot.zip [c36d0aa091e01bc2326feb623f665ef3e93fb88be5c4f9107291b89a06928fd9]
+    ├── b_nod.doc [f0bdebac70fc881cdddaba9f52284062fd379b0549e5e06c679131f8f3e290cb]
+    ├── illiter.doc [1606d3a537e0bda310b582779e82374cd4a240a4d236695bd953b8c7fc5c8f3a]
+    ├── illiter.dot [37f1ac7496dc8f045321753b35067f7ed40ca157a9dc16c222016790be31b03b]
 ```

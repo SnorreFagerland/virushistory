@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.bumblebee.zip [082127dab6dad0dae32a5999f2806a7a4ad3a268aeb88dde6a770d377349afe4]
+│   ├── virus.msword.bumblebee [f34aecfe1a1112c31783a2c6bcf78462a8e088658703dc241cbdfac23c73c972]
 ├── b
-│   └── virus.msword.bumblebee.b.zip [9c25b0fa4015c21beee70046f4f08d026eb3fe290dc3f932de6dd46e92632ef6]
+│   ├── virus.msword.bumblebee.b [9fb6808939a6d098d0c8e897279661fa3c568fb97bf3791f28698f087819144f]
 └── c
-    └── virus.msword.bumblebee.c.zip [8661e0d370504f5ceb5b2c6a773b2ad8b5ef64541eec53ab8675f51ee1009763]
+    ├── virus.msword.bumblebee.c [6f5eee41a78c3d2cb6dfd0defe7736e7c65f29669480150f226f5aec98a2a0c5]
 ```

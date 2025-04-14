@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── bat.pikachu.zip [7d013c5c181c365ca3cb3671b3196ddf140e4c0695df86a2b91c1c38d3136ec9]
+    ├── bat.pikachu [6a2bd55742652fa1ba28d7ba93514efecdfb36f93bf36d85067b1eee0aa86f2e]
 ```

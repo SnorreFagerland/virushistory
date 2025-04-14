@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── dave-a_2.doc.zip [06e220c97b8ae3ac441060fb5cf7d69676a65684df4cfc3b2274f87f37005040]
-    └── dave-a_4.dot.zip [ea8c4a425486c129b96c7a7f093858633e4f20d1ac4513c5567b9bacce9f38a9]
+    ├── dave-a_2.doc [a8ef097b207ab2f03b5767233c55923bbae2018bf64ed0fa919f4a983309d05f]
+    ├── dave-a_4.dot [02aa982c49034db1bcfaf0a8822a9e2c329db931be3a2fb389300f0945c46861]
 ```

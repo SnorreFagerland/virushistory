@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   └── hybrida.dot.zip [3818957a0515c4c791252660475263213e5a7d99021e466bd2413f93f117707b]
+│   ├── hybrida.dot [7824b63a860774f3271149d5e7fd99df4b55e8c8865fa8319152f747639fe623]
 ├── b
-│   ├── hybr-b_2.doc.zip [11eea42940a2a11a1e1fb5c1d621f8038d192d1a5a1fa4da04b18a6168e35e6e]
-│   └── hybr-b_4.dot.zip [95de02dd78e4fe93e2efcc9a07bbb62c7a2a5ce8de11cd937cd3f6f3269eeec0]
+│   ├── hybr-b_2.doc [aa0ae0bed1a50bae82b1ab588b69b8464a061580bbd8508225c0c0d13950ec24]
+│   ├── hybr-b_4.dot [97bed3412de64b3498e1bf9a135cf4315a5b8713acd8141b3f97029d419c0e13]
 ├── c
-│   ├── hybr-c_2.doc.zip [a7c9be75fd0d1bc2abb9410808fbc49d439d2217de8939cad5e680400870e85a]
-│   └── hybr-c_4.dot.zip [fdeaab9ed0270ed64c5dc53db7d26180e067d09d82e8bc104c340cd5156a4dce]
+│   ├── hybr-c_2.doc [af5e9c23dfa19bd7688ff152041e7d7a6b0f975344955f8cd03325001f2c29f8]
+│   ├── hybr-c_4.dot [d984ba44314be916550c300164c4ede2445a8f177b66f7c81664a5bbcdd5c7b7]
 ├── k
-│   ├── hybr-k_1.doc.zip [df7fbcea633d0fd91f8a2e70e5cda1b44f76870fdb88551d5d6946788d654e57]
-│   └── hybr-k_5.dot.zip [15f1ad7df38e281a2819e80e19497831f7a23fdd49d2e69e3d411b99be916b2e]
+│   ├── hybr-k_1.doc [bd0e2ab928a0850ee3426f878b829173ae2a262518c5453b970cd5a5cfcba0ad]
+│   ├── hybr-k_5.dot [f1e43dc0b2d3fee4235c5c9629a50d4f28d8623e7752353f92119f3423f39add]
 └── l
-    ├── hybr-l_1.doc.zip [7b86d97aba10cb845c42ad666b7d4514c8a166ac867863abcc4067f10cba24ea]
-    └── hybr-l_5.dot.zip [c6385eab117a30e469285037f72c708872fb8f42527bbac4d22c1759ad6e2c9f]
+    ├── hybr-l_1.doc [b4488dcea85c93c128804da6a5ab3ca7b908c4d75109f2601bf31d7dd749afce]
+    ├── hybr-l_5.dot [b24b26b97e613cb2180fbe162b3b65832bd31d64c0702b5c8d7934c0fec3689a]
 ```

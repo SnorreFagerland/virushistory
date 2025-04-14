@@ -3,46 +3,46 @@
 
 ```
 ├── a
-│   └── skam.doc.zip [2b5dcaf8bff2ab58a519b1c4b956d31ec7a000706938698e8a4f354c80ac91d4]
+│   ├── skam.doc [88e05aefb190c2cd2abaf8dd5ebb1087887984553733251c73e04f3da2217542]
 ├── c
-│   ├── skammya.doc.zip [94e6abfc2b5ae34d301035b69b7b32fa0d8bf62c3c17ac4a46198f5a0e4ad6c0]
-│   └── skammya.dot.zip [c7f7ae0b08eab403d4c22919a4a69d4dd66f5b8ae8c21ac3c57cb381c615e9bb]
+│   ├── skammya.doc [2733b897c031adf975b49820d03d62b408ea10b66bd4f9b0375b90e9dd457d82]
+│   ├── skammya.dot [3165fae086cebd62302a19b824260fc347cb2afec60c5aa399632faf3edd568d]
 ├── d
-│   ├── swlabs-d.doc.zip [4fd9926aad6a7abeb1545b5837dc3b4f8a177ac90fb0944b64ca9d75f2890b44]
-│   └── swlabs-d.dot.zip [92d3f0abd5e8d50f7a341156c5c3445caa61931a94a34a9b3812f0f1f980c991]
+│   ├── swlabs-d.doc [2e652eb2a8431e81bdf2f202bdc7ac7cd1589f0aaebf973296149f56b3dc80a4]
+│   ├── swlabs-d.dot [0390eafbaf3f282560d7b7c5169542004582ea74f63f8d9b71d2a1da8b1ec3e3]
 ├── e
-│   ├── swlabs-e.doc.zip [9d95342b89f85b6c594273063a913e1841ac9ab4aaeb827218cc889d1f36f82b]
-│   └── swlabs-e.dot.zip [6db4256de70e5e65bda6d687e287a8423316207e3e2462c1c6a918e73f0dc437]
+│   ├── swlabs-e.doc [74c9d2ff206cdce41dc4c8f53b68e6215db860b555d95346ed49f8ae45acc8d3]
+│   ├── swlabs-e.dot [c0fbf08776f5d114411cd856d40d8c518ebd43bc751e6e995a9d88422186600a]
 ├── f
-│   ├── swlabs-f.doc.zip [06cd9928626bb8a13001922e23136d4bbf7f0d06750c8daa415955b3a803a7c9]
-│   └── swlabs-f.dot.zip [716cb282304f702eeda5511a807aeb711a7e3a5a1dfccec342221b81b0ef0695]
+│   ├── swlabs-f.doc [ae4a6d42e1be7261ba06098dd4193e4566ef6d00db29e7ad6864a8c056d8a972]
+│   ├── swlabs-f.dot [d55af6794fa36c43b04528ec42faaf11b67fd84580a1ff6e70a796c393c8bff0]
 ├── g
-│   ├── 15tsex.doc.zip [2bb6cbaf336394ebba5c2da0f7f09ce9df2aa811c878f4b9c5b66533014c43cb]
-│   └── 15tsex.dot.zip [5801ed23d49338a97345c32cee8ca570acc601c1db1f0e1911ec44b8f112ba3a]
+│   ├── 15tsex.doc [5e7e0357ffa9e8a34d585a3f40e6a690eef6a1ba641fe2dad132f0e3858b37ef]
+│   ├── 15tsex.dot [5145f5851a5d73a914c43a6a09963b68394979c8746e98bfeb1e67a55d25135a]
 ├── h
-│   └── swlabsh.dot.zip [7292fd2e3d87995768a467ca528a362ed8ffa67e01d956cea3fce3d625c8df2f]
+│   ├── swlabsh.dot [a18ba3170ded55df68909c252e83c25a8e2463b3738deec0cdc17e66def5bcd7]
 ├── i
-│   └── swlabi.dot.zip [57c67e6fbd2e203ce65554f81cb2a9849089888874b1e563e76c8891d85c58b4]
+│   ├── swlabi.dot [fb4d4fade85d0396eda09ad46aaf84207359738efe0978287c116c46965ec751]
 ├── j
-│   ├── swla-j_1.doc.zip [b8efbad532066c21be342b054989f219bd02aba4cd5f6bbb261b01050b025f5a]
-│   └── swla-j_5.dot.zip [b86f1d23785c19880ec44da702f8a8813ba99b59d86748373aeee971f1db6ace]
+│   ├── swla-j_1.doc [2a31e1c78280a7c124e6b3e0ee1683f3940486c69212be716982a0ab7926a718]
+│   ├── swla-j_5.dot [2238b6d171562a7fd6ea5276a96af6caaeb91ecdb7d7eca1e1959c0a13ee0888]
 ├── k
-│   └── virus.msword.swlabs.k.zip [8d2fc420da07a55a1e5d73511690816685cada8a3a56502294106f4d41a77f6d]
+│   ├── virus.msword.swlabs.k [81b4bae13f6fe9a2becac8673a0cf699c9d808115e0b607091d84baf6e43ae67]
 ├── kit
 │   ├── 1
-│   │   └── swlabs1.doc.zip [3c0489f68345afcebb5d3496ec5946918f54d702c64129481e6f9b1cfc3b517a]
+│   │   ├── swlabs1.doc [8155b548def09bf654e8161355eb8a76cdbacb88b1e757a50a37db7f0507f0ca]
 │   └── 2
-│       └── swlabs2.doc.zip [38afd56257f2157602da8eae805e0cd554998ae2a79c340bed227f04eeb7c175]
+│       ├── swlabs2.doc [9e4971588bb46640d4097b0824461f33c74e6ee83e0e6255be226ad8efa6e86b]
 ├── m
-│   └── virus.msword.swlabs.m.zip [c859fd2afe0ffa76cdcebd4fe8e6eb55813e39691d49ca9bd8d41d3c07743df7]
+│   ├── virus.msword.swlabs.m [2cfb0e149b662ed587cb57702751ea873f54cb35e690ea39f276a7182707c93a]
 ├── o
-│   └── virus.msword.greenbay.zip [ac793cdaccf89c0054275f14ad5bf3ff80e3358d99bf76fdd28348bcefb8180d]
+│   ├── virus.msword.greenbay [4436f0b4eb5f287fb50699fec4ba88d1a8fefd711161e232964887e3fc5f21d0]
 ├── p
-│   └── virus.msword.swlabs.p.zip [1436ffb512b1b70e19d1edd1a9aca310917145e4ad7bc2ca98cb721076e1a42a]
+│   ├── virus.msword.swlabs.p [24b0a3b3596232dd4321ec014b22b821f15f8222987fb38fb88be044f1adf575]
 ├── s
-│   └── virus.msword.swlabs.q.zip [ee6e47e4010263099b603848eeff0e6840cfa505f1184f3d81f3add852637284]
+│   ├── virus.msword.swlabs.q [1bb024f5ec1bad6dd5d65eea730e8e7e729555e9b557e3f8ab5b97ceb8bd24dc]
 ├── t
-│   └── virus.msword.swlabs.t.zip [e440fe43cb7e44a9d7fe0b5c2996cfc23fd1ebbf6baeff0eabcbdb0c74184434]
+│   ├── virus.msword.swlabs.t [b3213943079065d58c5c2105dc66a99325397ec0b3b32c55357cac17557ce19b]
 └── u
-    └── virus.msword.swlabs.u.zip [8d6ba4ac9ddca9883694b0cbbdc4e06b3de538bbe3ed13baee05f40ed2953e36]
+    ├── virus.msword.swlabs.u [7dcf20f7838b7705e1a01d08ca69776cfd0134bad5c0c964a542dc7c01280592]
 ```

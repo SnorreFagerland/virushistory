@@ -4,83 +4,83 @@
 ```
 ├── abc
 │   └── a
-│       ├── abc-a.doc.zip [5ec3f269bbee1a7ae2725663d63a1557729f5026ca09a10528839e68d465345f]
-│       └── wci06073.doc.zip [08cc15a5b7e378419aacebaa71103f9a4b02f6f2c38c1875d01b1631da499786]
+│       ├── abc-a.doc [18f3a629872523f26c0e2d260eef73d75d2d34d38c548197a9d8946fb15cb1f8]
+│       ├── wci06073.doc [691acf3fc30b8d340b30ee9dfa9aa72024b6b9fa8b91f5cb059621326abb1c62]
 ├── aber
 │   └── a
-│       └── virus.msword.aber.a.zip [d1936ce7fa8799a340eb2dba0a3bff55bf87f4fa7cfe7a55fe39fd55d217ff77]
+│       ├── virus.msword.aber.a [c8ae6ac235d216765d14cd4f8a74dfba86965c29da20015a3f90c16c2fa88a8c]
 ├── alex
 │   ├── a
-│   │   └── alex.doc.zip [7ff71a8d325160fb545867a5d995bdda26f00df0cf64f5f57253fe95ab7f2324]
+│   │   ├── alex.doc [b47f40b8764c29ee6d7abdce7a78c8beddc7616e29e16fba499a44510ee83266]
 │   ├── b
-│   │   ├── under.doc.zip [88e02e8fb1aa582961f8d7389086bc91f846966c13ad2a90f05d5b157e3d1676]
-│   │   └── under2.doc.zip [7b2e4a7ec6e0901f644e7ceeb96a53ab5f6444e555ddb2167136b9b117824e1b]
+│   │   ├── under.doc [4f489d6a0fcfe475af2d2e985cbe653c832a3464d0c1e5a3da2df8b7911a25ec]
+│   │   ├── under2.doc [c4d8dc0eb6a90d1810fd1f5e2de4ef8ee7af521e4c4d3f9f568319f7a9e290f5]
 │   ├── c
-│   │   ├── alex-c.doc.zip [858fad9ffd15ced1b6dd1db72cc96004b0fc52dad36ea75b5b886e56e59e7077]
-│   │   ├── alex-c.dot.zip [b54800c222e4430e280aa4898ab78779c934c68fcc7a12f135c6b212d8923805]
-│   │   └── conair.doc.zip [521d771bf16e3747232953340bd0ccf79f67f0509850fdac991db040c7260985]
+│   │   ├── alex-c.doc [860a5a0f1eb31bf49da10532aef63fb8e81651904ec7bb400c44fff687fddca5]
+│   │   ├── alex-c.dot [6b9b7c2fe216312eb1f85d7ebce6a75a0ef2689aa679d4645123da63f814e919]
+│   │   ├── conair.doc [860a5a0f1eb31bf49da10532aef63fb8e81651904ec7bb400c44fff687fddca5]
 │   ├── d
-│   │   └── alex-d.doc.zip [d39cc39fb2d0a44f85ab23dcaac180bfb464040a862c8518aa6bf583d89d3dc7]
+│   │   ├── alex-d.doc [8aaa188e49fcff5e4147d6671a25c6914bb278d1df5440a39023a7fb81d062dd]
 │   ├── e
-│   │   ├── alex-e.doc.zip [17faf7337d533e1e7f2afc7ba250d0b621113402410a6e7e023c90a04f27b805]
-│   │   └── undo.doc.zip [d9a63219d1f6a373bd48f929eb40d17bc3aa3ae30e1bce06a3198e23e90b0a32]
+│   │   ├── alex-e.doc [fd19f5f7cfd79eb380f69f62bef3272c841e29f496a5ba3f7d45341b53212099]
+│   │   ├── undo.doc [f3b56cc6e10e8be7ca0326e4ba2b1c494683306464bcf471aa5b0ec8d2e648c6]
 │   └── f
-│       └── satan.doc.zip [56b842d7c9742efd0cf6299742adcc2c0ade52fa38c8b821e6e21eaa3902c611]
+│       ├── satan.doc [5e0767449f8e17ccf8797c03fc7b1045cda5b53ab145dc941557be40a067cc7e]
 ├── alien
 │   ├── a
-│   │   ├── alie-a_2.doc.zip [af9f1d66749554a2061ba2bf1e1feeb3c02a13bb6c1a1c780784ff1b0b4332dd]
-│   │   └── alie-a_4.dot.zip [cc9487904cfd16a335433b1ca980fa29710904455e4cea994d979915c9f4a340]
+│   │   ├── alie-a_2.doc [848c036210fe79d18c8a4e836aa311ede7bc24b9114b64419effffb30454f0f7]
+│   │   ├── alie-a_4.dot [608c8efdf68d9814d036e960134f9fa780909f32dc8b2d658796c897b2098511]
 │   ├── b
-│   │   ├── alie-b_2.doc.zip [4bd9c250bd69de6ec60772de0daec83706e400083df23792deedec1592c914e2]
-│   │   └── alie-b_4.dot.zip [56623f262ffb5aa34c709ba08d92bf6a631985ca3c4dbfd998471e55f2cbb810]
+│   │   ├── alie-b_2.doc [7adfc1b9ae3eebc8a4bbbc3167cb3be57525002809479564792438613eb442e6]
+│   │   ├── alie-b_4.dot [7a3918546550450ac0631a64c842efb0859ab3dade010bef62332e04415a4633]
 │   ├── e
-│   │   └── virus.msword.alien.zip [382bdba26a156bbbb92af381fec3736f5c5bf054d73934aa681506bb1e5942b0]
+│   │   ├── virus.msword.alien [d7b88b3ca56da47ce1b06037ac1092c1183de83e07bc0a351e291219f3235a72]
 │   └── h
-│       ├── alie-h_1.doc.zip [de0a54c3a8235573c2518c322d510c4de8cf884ad34719c88433de3794726142]
-│       └── alie-h_5.dot.zip [6b5feb8b30a6f156808f29cb1d07c64afa097c23f05b1cb50abfa7723110eafb]
+│       ├── alie-h_1.doc [cb564c551cd3efe193eb6b86852bdf2c21530d695cb5cd40c048116a70c500c3]
+│       ├── alie-h_5.dot [bef034c528bbe7a06f178f0b5975956f4d564cef2013087da579919a2c8bdeeb]
 ├── alliance
 │   ├── a
-│   │   └── alliance.doc.zip [fe6a88eb7965ab77a3a8ef9b4f09c0187d8970ca0bfc6d7596ed502654a3b241]
+│   │   ├── alliance.doc [779146bf6945a139d0849f7fb6bb00cb263ea23a939e849b8d59096dcea4b856]
 │   ├── b
-│   │   ├── allian-b.doc.zip [ef0025793a07f0a5d80ae969e95c9d1cc6e6ab179a16d9e60033e8f8ed9d3d73]
-│   │   ├── allian-b.dot.zip [9701bba304e0ca0ba0163d6cf48cf66fa10428850193649a92d11f18fba5e4d5]
-│   │   ├── doc2.doc.zip [7bb7288f7bc44cd16cfdd5bcec7b187af7a4ef657d2af2d0e57a4df627b81833]
-│   │   ├── doc3.doc.zip [97f2c2bd442e61a5acb6d98219710d9690d6f2213ab63068adc3dea185f212f9]
-│   │   ├── fsksm.doc.zip [35ba7c8c28569872c3c3fb75b00c410c7934aceb0305b1ab25114806f8e3edc1]
-│   │   ├── saya.doc.zip [9208a49dcb2c0e64c7d01d66924921db8864617e3d7ed60d7248d22e400bf1e7]
-│   │   └── saya.dot.zip [0469cf30e2ec897d316826ff17a02fbb6ec04bde80829108e5629d831ca70e1c]
+│   │   ├── allian-b.doc [dd7968dba00d43049bb299fec410f9076686a83321be82112aa2227e563b5884]
+│   │   ├── allian-b.dot [9ed73ef5fe9446c8b680b3e41154a94f5fca7c75e0e0ddba9e6816a200bd654a]
+│   │   ├── doc2.doc [4dbf87fbc140469740898e10c3b9a9d24b02a90bfb9be70f46d6a509a3227d4b]
+│   │   ├── doc3.doc [76207f6018c5d8b16623ea1f5922efca87ae3edb541e9776247e2d606ce7111e]
+│   │   ├── fsksm.doc [ee3e2e3dc0ccaec448ed756ef845873f6f9114db832837ee99ad1b37c73af4e1]
+│   │   ├── saya.doc [f0b1f6b9fdad396fb81901fe529690401045110678d05438ba3ca3a38df52874]
+│   │   ├── saya.dot [e93112b961ad125d30c87df23cc91da5e12a13c525e8b3328b233904ee33e4a6]
 │   ├── c
-│   │   ├── alli-c_1.doc.zip [ebb8dd90865ab4eeda2b038cbe547f79861f0bfada4dc7c7b862e651140bd9f3]
-│   │   ├── alli-c_5.dot.zip [11639395e815525ab4f13eb9bb0b41f96e9b48496397f7e565641c92ddd1d327]
-│   │   ├── allian-c.doc.zip [16a900c37118c6714c0f8cb618c458a8fe6a3b0ff058d592163ebbe766b49527]
-│   │   └── allian-c.dot.zip [8b0152d97ad0c12c1579094224899f5d15f250c35196749bf293b6721a95b22e]
+│   │   ├── alli-c_1.doc [f8be07a4931dc8dbf71de374215effae6b590cc3260479016672d1d255f457a8]
+│   │   ├── alli-c_5.dot [b334c2ac5edfeb6888b3d18117376510f77444e4db6a5d2ad78f6d308a47efbf]
+│   │   ├── allian-c.doc [da15355f5b670cfca3d8e3ec3919f29d26f75e3facd39177bb9e5b71abca399c]
+│   │   ├── allian-c.dot [3fad9c87c993ad3b3ee769e770ba651face30cd9c54c3a2d1c59f89420550bc9]
 │   ├── d
-│   │   ├── alli-d_1.doc.zip [47dfac24ca3e37652a4dfe04d3ff6e10fb0597535a5a55ef27d942ba03cc3895]
-│   │   ├── alli-d_5.dot.zip [0b03796947347216c3f546bc5920700ae4fa54cb493cbc05c51994d2a68e98c2]
-│   │   ├── allian-d.doc.zip [d72a1467754beba850f4f87cf237b230face39673002ee8da35d12180b2de35c]
-│   │   └── allian-d.dot.zip [c55e330b6f02d83e2b4fe63faa27e87aa918c6f7a1cc03182077c86a47d0e530]
+│   │   ├── alli-d_1.doc [6ba3c838fb7174e7e5050c0496132fbecdc49cfb627e79e9ba0476f4b91c9479]
+│   │   ├── alli-d_5.dot [5109c8657b4c613b916ba1114b9207cb43a24f07a7a019bde33f00e91b42eb0f]
+│   │   ├── allian-d.doc [9d2876d9a7f249cbaeeec7feb5b753d84a5790ca7047c2ac427f579266d6abc7]
+│   │   ├── allian-d.dot [6c8d4755ad48e30059a2dbbdb886b10b94806070ab41b65147d37bf9a9b02c8c]
 │   ├── e
-│   │   ├── allian-e.doc.zip [1db5b5f3eea22130db922643fa073aa64c5b4711c75d7334a8af88930fe31292]
-│   │   └── allian-e.dot.zip [cb88585e4f6b4697d3e1d01f523910fe9f0e59c68fd61167819f86cc0017f5d3]
+│   │   ├── allian-e.doc [0689d01f6b6130df6638d6e75d0c7062df4c21d6f349be747f38a63bf698209a]
+│   │   ├── allian-e.dot [a784997fa8a0c3210e0069a0d1617133f9c04e61f214bfa9ed200c16442202c2]
 │   ├── f
-│   │   ├── alli-f_1.doc.zip [1c37d552c33ca934d57a5d1d5390842406d78130a89060a0e48a3832f3dd3672]
-│   │   ├── alli-f_5.dot.zip [74d0dd6ce0cc262c695c1b760fa8681292626a9411fe968b0e21578d87a4a489]
-│   │   ├── wwall-f.doc.zip [9c476121cd6ff50fe1206aaec12d158ccd6b8786d530b15697629671dcfe28d5]
-│   │   └── wwall-f.dot.zip [269f9b53cb974d4d1bc1ce0e71a8c984140052284adceedfae600b2b404b3ca0]
+│   │   ├── alli-f_1.doc [514db4b4a047b54cd5b377f02599413ff1e7a882a1b51646720352d6f968f5f7]
+│   │   ├── alli-f_5.dot [1c7b7e01c8063931cb20116ffb898e3432e8dcf4c9a065cd59984dd9302b2b4b]
+│   │   ├── wwall-f.doc [02d5bbea92072a54660cd0a02bc22a33ed6e67f1fecf9d0d39696db5bc464581]
+│   │   ├── wwall-f.dot [007dacf66cc3da85accd07bdf8a2ea515b1588f64675411f589c953fc3ffc8fc]
 │   ├── l
-│   │   └── virus.msword.subject.zip [10a554d06506f9e5a17fc496ea61785c05273e3237ffb65486ccf329808234f8]
+│   │   ├── virus.msword.subject [4492b695c7499191a3d847f4201f34477f86815e9b2ebb6639b31a90b4486f05]
 │   └── o
-│       └── virus.msword.intended.subject.b.zip [a8b3581f2599ef6bce056fe0cac28938984988405060a3537419fd67f325be8e]
+│       ├── virus.msword.intended.subject.b [405ddbebb622ff96b300241e3727c8ba2e580b5224278f5f7b1d63f3f601042a]
 ├── ammy
 │   └── a
-│       ├── ammy-a.doc.zip [f04120fff499a8b36599d1b39432c081d806d421d0ee8af0dd2e107c2fa89f0e]
-│       ├── ammy-a.dot.zip [011a29661b739d4d355e6cdbef23d0438bed2255055ed416c46a04f05a665cd4]
-│       ├── ammy-a_1.doc.zip [c99b4fe82f4ff8f01c1e467845ac9a747839ec03ff9bfe47bda25eee2013e795]
-│       ├── ammy-a_5.dot.zip [3d5f381285508bb4768370fc0c8b38c5b492a65a34a8c0fc8fd1bcb990aec9fe]
-│       └── ammy.doc.zip [c31c0768cced503e82345622e27dfc683ed62bb7496fb09d070c8c2a96f4926c]
+│       ├── ammy-a.doc [f96d4e2e2b514da73633cad9ddb806d58fe580942ca7bed5941cc20354da73c8]
+│       ├── ammy-a.dot [8927c7d1e71c28ed202fb0b19745560c216e14f6d2d34c14f5100c361d19d6c4]
+│       ├── ammy-a_1.doc [b93c51558deed97f56145e9eb19aab852790762237202e7832f667d9b4aaa44e]
+│       ├── ammy-a_5.dot [9133fa0f7cbc8317c3ebd4760f4ffbdaa7e64c3a98cb0c25d612ba7aff066178]
+│       ├── ammy.doc [83ee33b1ad8816b5f7796bf28a9ca5c8314cf1c32540386ca197e310b264a3b8]
 ├── anak
 │   └── a
-│       └── virus.msword.anak.zip [608ee1fb6d5aac92e645495b94bcc821ef8f8bfd8c721badf32ec98179d6d00b]
+│       ├── virus.msword.anak [e37e225417597883f1a3b3d2c0177791fa9503d56f7c4aff90b8b017e313c22e]
 ├── anarchy
 │   ├── 5838
 │   │   └── a
@@ -88,2111 +88,2108 @@
 │       └── a
 ├── andry
 │   └── a
-│       ├── _christ.doc.zip [bf2d9db09d939b9890c56d7d846b38e4aac9239a3539b572b73ac0d56af4d919]
-│       ├── christia.doc.zip [a8c384a251df7f554d599e66d2c18f0b285d6b90fe521659e82c355e437eb53a]
-│       └── viruz1.doc.zip [a4bfed77823ae3b463f90fdc0996efb3652b3ad9aca93bfafa2a9df526cf7d2b]
+│       ├── _christ.doc [bacb17acfde3eef590fd9033dfd3f98af3efc07bb4a71372f5d495c89fb3eff6]
+│       ├── christia.doc [8191b6a7def216bb6674efb80d4f8607bbb70fc6b489c734fc0a0d192a815e31]
+│       ├── viruz1.doc [efd63fda2eba2d70f06a472f00e46faee9fa0df80661c7f72ba009af7e1e8796]
 ├── angel
 │   └── a
-│       ├── angel-a.doc.zip [992bdcc2620706bafdedd1457fd0b8939af481a3ce56f1965ba90317be0ce50e]
-│       └── angel-a.dot.zip [73a84ddd292fe2e7b67d3638a7c397ab28042052abee34611815c33a230b234f]
+│       ├── angel-a.doc [59fa4d3ec0af8680b1f450c06c2b957467020f54ea3413cf4aac7ad997ef9201]
+│       ├── angel-a.dot [20c4d0a68e415da30ed1f333982e04ccdaa89d10d710e1f4c56332749e2dcecb]
 ├── angus
 │   └── a
-│       ├── angu-a_1.doc.zip [42ef34571eee1c8192e717e12795a855dc038a5c1b23cee95a2860a97a9b63f0]
-│       ├── angu-a_5.dot.zip [b9fa303fec3dbb7a4454ee1ac7f018e3f69f283a5cfb72a1a0bcffef200f5215]
-│       ├── angus.doc.zip [3bfc11b6b8b6fc141005fe6815cf1fc35c1a10b6e3710da2802684174e2cdae3]
-│       └── angus.dot.zip [07cb001fccfaea9ad6635ec2d5507b4af39f025749ec162efe1d2a0fdd9978f2]
+│       ├── angu-a_1.doc [8293d13d7eb7f82cde0b8f7a4280bb88f823d2f2a0a3cbfeeb0faaf0d8989042]
+│       ├── angu-a_5.dot [8510765fc93ab14b65401b2bc9b5d351122aedaa5b2cc7341ac1d2f29b8caaef]
+│       ├── angus.doc [819e86e86335cf2fd3d427242890ccc712e7ba81d690b7c7787ba955c6839885]
+│       ├── angus.dot [f51ab0b4c4de73c68a9b67c2278711852a64cfe54de31208537d75c727d4cdef]
 ├── ant
 │   ├── a
-│   │   ├── ant-a.doc.zip [28c87a37f887bcea623bbe8b8441dd79ad4f30c86e1b0d5edb6a6a7be5fb94a8]
-│   │   ├── ant-a.dot.zip [be030df86468db5ed34cbefe4898670f67d96acc88a4cf3afe761f9c3273387f]
-│   │   └── fom.doc.zip [37fa4caf4d8c2f935fd0e3de597ad2eb282b73a00126a674ff5747e823493411]
+│   │   ├── ant-a.doc [2b61c948f3b1b9de0192c061dcf6d5590dd5c4295f7f9d2ea044bd9dff0cfc85]
+│   │   ├── ant-a.dot [8038a26f9cf1090466815327c5372d0ddb086ea697233d2ce5aa966e0bc473a3]
+│   │   ├── fom.doc [80226ceb02cbe565ae8775320996b6e388723afdaa90334c19b2e8a2773d1e2f]
 │   ├── b
-│   │   ├── ant-b.doc.zip [65c49db23875203464b3cbf5014a253864ee96b9a3071f154864c4b83d318230]
-│   │   ├── ant-b.dot.zip [8b2d194f19e028b33ec1931dfd4c9ba471a192150c6d2bee8d124ad0f7c3769c]
-│   │   └── pig5-3.doc.zip [0005847a270f06269f1f14553969d2803cb7cf17e03b5b8d371240edfca59c1a]
+│   │   ├── ant-b.doc [43707746db62cc739faf17569fc5e28729742f2e5a5e365d7d4d397bec3a3491]
+│   │   ├── ant-b.dot [8d0e531500c1893ac93c68336000ed22a0b93292297449f8f904ff977ba37db9]
+│   │   ├── pig5-3.doc [0778acc132d2a076e3b6abacf47e38f12485bf1666fe09e4c8de0c9e45dbca76]
 │   ├── c
-│   │   ├── ant-a1.doc.zip [3fd6966cf489aab93a6b4d0eb6278cbee2c2b9fb01824fb5233bf2e8044e085f]
-│   │   ├── ant-c.doc.zip [32658fe294e7ec68545da575cb40d14fb6b338f8141284593b0b2d105d75d9c6]
-│   │   ├── ant-c.dot.zip [43081c7a977a22db229eef8bb368373e8926520277ec74e2481fe4ae2a61bf51]
-│   │   └── d1.doc.zip [26fe65a17f5e2e37f5d546a0de92fe1f19cbec7ce3b199b80959d3b2ee62a3b3]
+│   │   ├── ant-a1.doc [06c663976481716d4f8216dbe175c8dac833e46424bf7a885d0679e5e42ce1a4]
+│   │   ├── ant-c.doc [0a147539e0ca737b90e2f66f5c0a58a7fdd892689c966be59fcbdb8a71523b61]
+│   │   ├── ant-c.dot [6adce8eba075eae4498a7933dee8bbb56544a8b4cf510b4dfb0c6b15669f35c9]
+│   │   ├── d1.doc [06c663976481716d4f8216dbe175c8dac833e46424bf7a885d0679e5e42ce1a4]
 │   ├── d
-│   │   ├── ant-a2.doc.zip [0c98c79f55f15428c4fb2d33915a25fc1c0a9df5d55e3adefe24e80bad70988f]
-│   │   ├── ant-d.doc.zip [4e83b4fa21f012b4f1cc2df39384a2fcb1b3cb7ce1ec08f7cda9be6c2ed4c2c7]
-│   │   ├── ant-d.dot.zip [69ad95f2376c292672924269ec5748f605484b162d91d004a555dd998514d604]
-│   │   └── d2.doc.zip [62515d1b3a493b0c523e63e0e32f3fc2b79a6841fba09766786c34211e1f0daa]
+│   │   ├── ant-a2.doc [3ced14f0e0da51b014df91c1f2a0c7a272ff6eb78f5e1b3f7da766c2dbd52d1e]
+│   │   ├── ant-d.doc [aa5b55317b82343502be1caf008b2b4b566f6b8163330ea6331a3aeda7378a96]
+│   │   ├── ant-d.dot [d69e2b3ec1d32cb730f2a3e849196ca72a55f622c4973f0d53d27aa2a8a2c42b]
+│   │   ├── d2.doc [3ced14f0e0da51b014df91c1f2a0c7a272ff6eb78f5e1b3f7da766c2dbd52d1e]
 │   └── f
-│       └── virus.msword.fom.a.zip [b2ad3c3f3c04c6a6eadcb8e7e78e6277da5c151379c4a5eea9b73d6a121b3351]
+│       ├── virus.msword.fom.a [8b7fad0faba8801c5487de2a458931a0f9db55b217c65d867fb6d30c72984e3f]
 ├── anticoncept
 │   └── a
-│       ├── anti-a_2.doc.zip [0c09d127ad67504a461301d41e02bb055c4f9e58284106928b05cb095dfe2db8]
-│       └── anti-a_4.dot.zip [dee84cf7c0c004a970fc4213296450966190446ac2678ffecb451b549e5281b4]
+│       ├── anti-a_2.doc [1c9c8517a8813c95a340114eee0fd67c815a4f3bcf86bb8c4fe8a212e605c270]
+│       ├── anti-a_4.dot [df74b968465556019f6b6339340d6d0e5817d8f4d0f4bb5152a77a3e6581d62d]
 ├── antiwazzu
 │   └── a
-│       └── virus.msword.antiwazzu.zip [00d12eda318d6465dabe7e8a2e54e53f9782c34f129a641d64a6cf76de71ca8d]
+│       ├── virus.msword.antiwazzu [e9931d74c9732226c104fb7812af80124e373b4c6765e964df3f632951fcc9d4]
 ├── appder
 │   ├── a
-│   │   ├── appd-a_2.doc.zip [cbeddc3b67c6a226856a2f9b48950ab2fdb7040c25b229dd6716176652c1e960]
-│   │   ├── appd-a_4.dot.zip [a15bb1130ce60249100184222181402953377c51b14d344900936589997bf3cf]
-│   │   └── appder.dot.zip [4857167765720d0dd54a8798d7f3ab4ec510fd559679e82c848cbd33987bc0af]
+│   │   ├── appd-a_2.doc [0ef92a871e8c17994aa8e91275ff4c808b9e78bc72bf191a84ff561fe5b718ba]
+│   │   ├── appd-a_4.dot [a371783ec14f02a9cd8503136e09c0c98642daef4aafe7773c8eb47597fff8c8]
+│   │   ├── appder.dot [e75f0ce4c56f87793dd07ac461884546d068039e5826f106f8d818acc500d27d]
 │   ├── b
-│   │   ├── appd-b_1.doc.zip [9616c8eb9b9537be6800beec6c13831769b2ba75c750658cd3da64dfdc924868]
-│   │   └── appd-b_4.dot.zip [cb5371b697a3c57154ba6efde8c87ad93f8aa6f8dd5513b911f4539255fbc3ff]
+│   │   ├── appd-b_1.doc [05fe8e09bef03e20b2f68782905073c2b42868b9fa5cb0cde50ab88ca9e90fd5]
+│   │   ├── appd-b_4.dot [ab010c35bc1a4aee9f7ba379e9e0fe248a9cfe959bd5d2de708e4cb998b4a7af]
 │   ├── c
-│   │   ├── appd-c_1.doc.zip [8fec1336837eb37801949ef35646d5d7b8322935a50b081b4a4e0252654c4215]
-│   │   └── appd-c_4.dot.zip [9df85196bf86edd6b994b4fe735f9a086897be560a14125bd9c13611986c5c9b]
+│   │   ├── appd-c_1.doc [203da747d8450bfc2a221a30e52b13af064c9c7db8865f28fc496c6647a57bb9]
+│   │   ├── appd-c_4.dot [8b666b935e0b631ed945353f20634c2a5065c08eac74e0e7058e70aafc7bd2a4]
 │   ├── d
-│   │   ├── appder-d.doc.zip [81cca8f6c20e9cec554c23771c0c6828197a3e3fc81d9f148e4a8398d8b5d6bd]
-│   │   └── appder-d.dot.zip [75fd81b63255870a0028f25aa112face9b604fc330bfa86f39fcbf13b0b96fae]
+│   │   ├── appder-d.doc [060381dbfbcee792c0faf9a4457fffe9c2ad0cb32920c66bcd528c4bf19d9356]
+│   │   ├── appder-d.dot [988d837db995c176172703a5a5a7a00f1bc1d971f9e99308e6e1b969ce25e9cc]
 │   ├── e
-│   │   ├── appder-e.doc.zip [1faf1280d8fb71d11bfa3250dd247773be3ff030ddbcae3d9314c94ea9e3a1a0]
-│   │   └── appder-e.dot.zip [7629d0575e8e2278c25828264fc33838686cf0d066099416ed08bf63c75d4359]
+│   │   ├── appder-e.doc [675cee065ba5c25bd4bef520725de52fe2a86bf498dc5b79c7639ec5c60ea483]
+│   │   ├── appder-e.dot [dbc293dbc31ee8f4d8fad1cf0267ea9ded92091e22c53a4a705ef3cff0ea8b7c]
 │   ├── f
-│   │   ├── appder-i.doc.zip [703dc5fe1dd0b459f94735dc5aa3b4b274a83b08e94e5121eaf1a8320532976c]
-│   │   └── appder-i.dot.zip [105a329c6d1c9e065757b6ba869bef50952b56e1c3435269e751847f52aa0224]
+│   │   ├── appder-i.doc [5bfab8194a66a45401a1dd01a7f9f0e2d34606966de666e33a56bc612b9bfe82]
+│   │   ├── appder-i.dot [f63baf6306e059e51f982d71488451a0eba69f76527eda3ffb3c0c4a6b81132b]
 │   ├── g
-│   │   ├── appder-g.doc.zip [76b4b8993c82a02dba35edeefa309c22e34843ab4f831871774d0b481f061859]
-│   │   └── appder-g.dot.zip [c316965e6c37b889a14f2297be86cf750f2bcb4eb33cacfe2908c6ff9c7302d9]
+│   │   ├── appder-g.doc [bca1aaaf847b33394f880ca7d1c710a34c292b4661e285d532ba5f473a30647f]
+│   │   ├── appder-g.dot [14e03357915c65c650346d5b1f85806e644b82a2486117ba2808d26b11b50b70]
 │   ├── h
-│   │   ├── appder-h.doc.zip [af0f730b2f76fd8f865beae8ba80cb245ab47f2b1559e238cbdadb982b212c68]
-│   │   └── appder-h.dot.zip [983efc274fdf344f369810e671feeb4adc2b7f1f66754705c17debfe27a052bf]
+│   │   ├── appder-h.doc [27b1f398d6ae2585d720eb2582beb96061c07be6f51fd55fe6256d400d240960]
+│   │   ├── appder-h.dot [e7d57cd41873d9a52d0eb4dc58edf2df6a2246730e00c953bfbc514010f95ab9]
 │   ├── i
-│   │   ├── appder-f.doc.zip [a44a8012f915f89cf679c392c74593a6f5db95910dd82442a16288eeb4532c1d]
-│   │   └── appder-f.dot.zip [64f6dba66d8aaf3ebbf93e66e21762cb29d62e567734a95ea4dde30d68b92701]
+│   │   ├── appder-f.doc [78d9559c3323df6db7477061a9174962116f4e3b8c01646a7bea9f9744d3c083]
+│   │   ├── appder-f.dot [19e51bff783b24aaf60bae17f5a3054efd1b5e65d5c3f0446513e380be664aab]
 │   ├── j
-│   │   ├── appder-j.doc.zip [338abe79873f4f40a68f835ed79c5a844a8b151c0485f5d902ba4bf3bd2b915f]
-│   │   └── appder-j.dot.zip [4c0a06807afca9754cf77699ad0ae065ed016407e4eca5fd6293d8cd1643fbb8]
+│   │   ├── appder-j.doc [169a6b149b7f4e506c759a9bfed82d26e393c9489e1c28030ed1c1b47db027bc]
+│   │   ├── appder-j.dot [59e8b6cd339080644ecf97df27df603759aad5c82bb057cf2709f660887ddb3e]
 │   ├── k
-│   │   ├── appd-k_1.doc.zip [67d0b4299812e165033968a5bed14d377a20092057cc9941d23440d5779d637a]
-│   │   ├── appd-k_5.dot.zip [4acf70751c63ebd8204214f6cc5cd7baeb7a899d37de84381d75bfe58c52a0b0]
-│   │   ├── appder-k.doc.zip [ea57285dd1e0f5d0f64fdd063e94ec4e2f54827291b2fd8fa26ce7f54bfae8e6]
-│   │   └── appder-k.dot.zip [c6746bf2f6b12a841886f551e6b6e043e42e66e50a5b4040f0112b4cdddb98d2]
+│   │   ├── appd-k_1.doc [58cbacdf925c8a394df5ca5616a484e7b3c46c12decf7749314cc1a48fdcda9b]
+│   │   ├── appd-k_5.dot [ed7e8a2e92c9f53fca70d8bda8b90b7e94240945b925bb5ebeeedad236bba750]
+│   │   ├── appder-k.doc [f25cc74e3df4ad810c1edf68b45096b5375782e5ae63b488449af8a988da852f]
+│   │   ├── appder-k.dot [3c7333cb6fc2957598e84cb7d8af3fe6dc8c1105f694fb70b984febfd158f118]
 │   ├── l
-│   │   ├── appd-l_1.doc.zip [10ba33c2448d515a10f389bf74e450cbe5de9d58a714331d8959fc38282541e5]
-│   │   ├── appd-l_5.dot.zip [318e63ef6f5b770c2a35722f457b4dac5b891f0a50e4901fa946f0161287dce9]
-│   │   ├── appder-l.doc.zip [f3d634ab6275fe0a192d8d052a1e032f196169c37562110458ed1076404884ac]
-│   │   └── appder-l.dot.zip [e07abeb79391caf0c1e6b4cd62ecef3141c91f51a882dc47e6667d996f73cbf1]
+│   │   ├── appd-l_1.doc [ee57414924aee9f62fc0648e1e080c0c949759095ee97cd4a2646ced085d0d07]
+│   │   ├── appd-l_5.dot [c07a87521581a6ac27794df6d440bcf383e0a43dd945f6fa7766527487d47fbc]
+│   │   ├── appder-l.doc [5726eb91b1da8b5c0d0a7340392f352e90003940e4f7c1335208f16464204802]
+│   │   ├── appder-l.dot [7b928f4cb9f98b685b00a431e56bcd60f6d3e4f5bf1b06f4cfaf578d1498dba1]
 │   ├── m
-│   │   ├── appd-k_1.doc.zip [fbc8c1786e18a05816b236fb4b70074f8ca6ebcfaef9c9d69084a3740a7ee880]
-│   │   └── appd-k_5.dot.zip [0f5b2f234b4bde3372df5b8032ae66f9fad2d3175369725e686fd94814d37bf8]
+│   │   ├── appd-k_1.doc [f3775d0cb5f7cfde2f50c35ea9f762b83845f9dd78ec01946d65919a3912c992]
+│   │   ├── appd-k_5.dot [2e8ac62df7953b2e11fb1d2b822755922977e848ffef30c0bedb492b094f95ef]
 │   ├── n
-│   │   ├── appd-n_1.doc.zip [2f44e322fb44f2da54d26214e720e46686597218a6f84e95d77decfff58400f2]
-│   │   └── appd-n_5.dot.zip [dbb666bbe98190c5732f002098743b3391f30412595dbab5b8e3f8713405b0fe]
+│   │   ├── appd-n_1.doc [0742bfada98aaa6bc61b5d4c5589057d86e321fda9a83188e68ae2efbb45a91c]
+│   │   ├── appd-n_5.dot [96390ec4db8b37ca57a2fd51c5ce7a266902191e5f814979d64f1a2c8bf997e8]
 │   ├── o
-│   │   ├── appd-o_1.doc.zip [4673344a0a5639f0a42d5d28ca52fc725ebe5f5c76178defdf988d6324318f36]
-│   │   └── appd-o_5.dot.zip [775760be89a95365a82a0f6b33db74610babb88359790c8c38f973ce916cd19e]
+│   │   ├── appd-o_1.doc [409824762f42e227de9f1c94549f5d7b3bd08e70808c342963c57b21304cd098]
+│   │   ├── appd-o_5.dot [16625df4637b2e42ad3c190efec521257eda71ce6228094343952cbea9f903fc]
 │   └── z
-│       └── virus.msword.appder.y.zip [dc4067dbca2c3c2ac663397f7e49301713cfa5d1a0b943a9bc9aaa9325478209]
+│       ├── virus.msword.appder.y [1829fcf8f0a5c193cdfacd6968fefba560f5fbeb1b10501e3d8881935b01ba2a]
 ├── archer
 │   ├── a
-│   │   ├── archer-a.doc.zip [4ce91bf6b385d96721c7774ed84150723df328ce381fd0a8d8d468e7d777cb59]
-│   │   ├── archer-a.dot.zip [91efd2aa8d7e5aa82459dd9a81e7d5e55ba2f93b3d3b7b77b1f3f3d2ebea8c5d]
-│   │   ├── archfien.doc.zip [98e1eeeba5ec2ba26cb4a9b5ba0800471b6b4f30261cf2f1b60eb743b4a0c4c4]
-│   │   └── archfnd2.doc.zip [81cb9231fa1673a39d79a816e68fda1d767d3b2b1145e36c05cde476424815da]
+│   │   ├── archer-a.doc [511f318930329d75f31ad7c7e81c68bee813578422cea3458a17307ac427869b]
+│   │   ├── archer-a.dot [0861f1eadf1e46f86b2e2728c6f9427b8dbb4f2c4d18e0106b2986ef078c6550]
+│   │   ├── archfien.doc [19e4f485e9529a6b63d840e03fb51e5075eff9a812a6a3a1092f11465fa3d9f0]
+│   │   ├── archfnd2.doc [19e4f485e9529a6b63d840e03fb51e5075eff9a812a6a3a1092f11465fa3d9f0]
 │   └── b
-│       ├── archer-b.doc.zip [27d8493a019085a5bcee88467601fa6c9743608d3990cf38438801784557389b]
-│       ├── archer-b.dot.zip [aa5ddc3bac05ac41c3f0a2d8861944b59100b488ec8566fe833b7533bbc3476a]
-│       └── archfien.doc.zip [ec414e4aa2b135adb48073796fc8b4cf8c0a229c80ddfa63a4a13576c78ec78d]
+│       ├── archer-b.doc [f367b55b5d18e53fd8d81819375be8d02f4fae8031270fbf477805e9f5c674fc]
+│       ├── archer-b.dot [1840c95ed2d1831e253e6b8cc4a25857c5911f58c8ec38bc8b12615257859a8e]
+│       ├── archfien.doc [66d88b56bd182cc8fca6dd2164e916b44b60d08e5305361a68509a9572e5df48]
 ├── armadillo
 │   └── a
-│       └── stepbyst.doc.zip [d9ed08a89a0bb22a42194317536f3f85efd6be96a6d635386b198856fe4c1d5c]
+│       ├── stepbyst.doc [4ac7055320c2256343e1dfc016187d4c37b6a126c44727b4db3970d1166a14aa]
 ├── atom
 │   ├── a
-│   │   └── atom-a.doc.zip [2eab5efc4a6690301ddc492432932ef4123090d2a48cc3ddfcfdadb3c389e9e3]
+│   │   ├── atom-a.doc [cd9197238e7bcc3065976a74d3fe7e745c0531a9875d9759cb42a65bf478e60f]
 │   ├── b
-│   │   └── atom-b.doc.zip [cc8d6fa6707d991f33ed4069bae80a35bee4d8582376fa07e40b3490efb250fa]
+│   │   ├── atom-b.doc [4993a5e3bb725688be27cf39494fc23cf8dd0428bfc1e5f1ae8fd3bbdc0c4950]
 │   ├── c
-│   │   ├── at.doc.zip [d1a0bad3e72e0e29c8500e2859eead708ebf3b8e0d341c751d9762c0cf079849]
-│   │   ├── atom-c.doc.zip [327bdba77fc2d02cde6d7d59c2611bd65f3e6e9a9f22b80a5984f4045672945e]
-│   │   ├── atom.doc.zip [991468263aa7caedea6e1335d319ac8976bb27ddf4f68eb284d416e677844037]
-│   │   └── atom.dot.zip [05ba73fe974b847068fbb786419292c4f18c0235e133a702a9c3f6fd8ee7e5ae]
+│   │   ├── at.doc [5bda93ca0d781fd762c8a09904cd7738b34e2300cc7ee3e4cfe9027080b5eacf]
+│   │   ├── atom-c.doc [4b1e8959b7527c4e58d4976f16531e9a9df3960e447aa0e8d2845d5d27434d02]
+│   │   ├── atom.doc [7a51b6a1187b3801c6dbf72337be39c7cfdbf4e7fca36fa3b8c2f6a150af1109]
+│   │   ├── atom.dot [396d8d5a68401dd36ab16e0c250c04038a2da55c16dc65268ff5a8b63a945f36]
 │   ├── d
-│   │   └── atom-d.doc.zip [9e26c739af732234e84d42a8a2ee08402c5c727b906355dff1a7202da113dc91]
+│   │   ├── atom-d.doc [d9b5a0805e2704ca8f72371907d8d04e2dbd240c7595fb6b77a1df472dd90ea2]
 │   ├── e
-│   │   └── atom-e.doc.zip [b1bec3a5f7634d66c0d642497245bdc947b0057ea9cc3075be4235bc6b70b94b]
+│   │   ├── atom-e.doc [847318f030f4d98e7e719f1b7f979843fa3a69081f105bfc126942f25b6dc03d]
 │   ├── f
-│   │   ├── atom-f.doc.zip [6ab96aaa55082ff80836a961217afaa6c664e0e17b58bc45f06c5c5528de0ba8]
-│   │   ├── atom_.doc.zip [defa38c89e35be2f0c21bfe254368e9e4f088e9d4925afaae9f8c94004f1be75]
-│   │   └── atome.doc.zip [af432ab846a8c641e26e9c2a45dcab1113bd18e037206d8ca7681dbeb3fb2e58]
+│   │   ├── atom-f.doc [f64265a39d84e041966cc2fd4ee1b5f5b24b1be947977d46996d16bdbb2590af]
+│   │   ├── atom_.doc [c89208e5403f689fe6fbe945113744d7b64b4474677c66debf6f21eaa20f05f8]
+│   │   ├── atome.doc [da66aa1ef94a70d62c5eb22397b2eecd8b2af92c04cc51dadec498dfd57a7969]
 │   ├── h
-│   │   ├── atom-h_2.doc.zip [37293854dfac2d41064a1ee7b85a83a0a921ff8c607fff54e132ff8f6ea6e4fa]
-│   │   └── atom-h_4.dot.zip [00fc3ac041a335f13e6eddad9173893446cc63e0c858c93c6248634bf0029b96]
+│   │   ├── atom-h_2.doc [60b4b5a23734e05e9b075fa7ceeb2860629bac2897c637117e81e11864af2823]
+│   │   ├── atom-h_4.dot [4bf36d74ea35e04f531646fb66f0d380ec532170372f1abbdb1154c83cada165]
 │   └── j
-│       └── atom-j.doc.zip [9b1c6a771141bcf162931af6edf2018342f5ed733802768a9d93bc1bf1808c16]
+│       ├── atom-j.doc [57ac5f0d5631217d369859b03b6800dcd29730e50dc31c54b7f857cb0a32095c]
 ├── attach
 │   └── a
-│       └── virus.msword.attcah.zip [c42d059b577421f2f3ed259d4d10c72725a05d4155ee54dfbe3ed4899714b4b9]
+│       ├── virus.msword.attcah [8ff4ea6a496893e8f11d16961da8bcf9ab5a43c09557fe83b5f15b11be822a6d]
 ├── attack
 │   └── a
-│       └── virus.msword.attack.zip [f02466f4a1ef59f7189016133ab8213506e2b267b286be2ba96643c0c302d0b0]
+│       ├── virus.msword.attack [a0a539edd65251c95ee598c38ffea09c6ebc7d432aaf93d2cce46f1bd2947c65]
 ├── attention
 │   ├── a
-│   │   └── wazzu-bl.doc.zip [8180d14b12eee7fa1a13146a885a3039b067a64578ad5e0c64fa1b6971a20401]
+│   │   ├── wazzu-bl.doc [a729c505ee471cc8208d89759c8320c1ef9c73a73fe91b3ba4c2a98397a58fe1]
 │   └── b
-│       ├── antifwin.doc.zip [c2fdc33c984d4909d01ec71bd735d694dc975b0b83afcfced3d6ecc751922b0d]
-│       └── antifwin.dot.zip [9e777dfb89609567c90aabff640de3abd742957c230112335f7d8f9da49524ff]
+│       ├── antifwin.doc [32cd96f400545a994fd76fde77f4ceae8e6a92bd546426993e9a17d93ca8e937]
+│       ├── antifwin.dot [d05ddfcd1016d9272fbaf2879ae630edfebc663443ee6420908472435b8c2098]
 ├── azrael
 │   ├── a
-│   │   └── virus.msword.azrael.a.zip [e50b8f6b5bda9c210c4f146770518a5f3805322bb8bc5990391bee4c33c5cace]
+│   │   ├── virus.msword.azrael.a [7bc133e6935497b77b8e56fa8e57af5b8624c5bead947564890786f487422b97]
 │   └── c
-│       └── virus.msword.azrael.b.zip [b1ec85aa0cc894430ce4d74a859e7b0945812f19595f38dea0a67910d58c62d1]
+│       ├── virus.msword.azrael.b [4a9e4428a8aa35cf1d1b07d2b22fe90b11d507d01b27c9ac40133b9b063be15a]
 ├── baby
 │   └── a
-│       └── babydoc.doc.zip [adeca0610336d1f87ff5bce9dc0476b6c03db8a99085a7bafe63a15ad3b47284]
+│       ├── babydoc.doc [b5b42491d0aa4deb717c81e2884edc92ba9840c395e5fc074dba7569a2f7e3e1]
 ├── badboy
 │   ├── b
-│   │   └── virus.msword.badboy.b.zip [549e4a16c6250889a0964ade0e7aac9d7c4ea2c50d4b4f998e3ce2bb924ba663]
+│   │   ├── virus.msword.badboy.b [dd04d77968cd7bce5964a7556aa8e4ed220aba55c768c6a0588f0b115cf04b9c]
 │   └── c
-│       └── virus.msword.badboy.c.zip [42c7ba1e612bfcbe5b253c153fbe2eca5fc4103f9d78adad0ed7da0649dd2037]
+│       ├── virus.msword.badboy.c [9cba1884a9ab9aea705b7d6f9dcd0173d28091fc2a54dbc14535b29f107a28d6]
 ├── balrog
 │   └── a
-│       ├── balrog-a.doc.zip [5704e9708f7a87622d1b78b9e9bc6da23a0a315f1d363b8f1e24ace4c221e9a5]
-│       ├── wmbalr-a.doc.zip [f5b7b054328568abf95e83938c94a78e88fb60466a229ca33e62d31834c946b8]
-│       └── wmbalr-a.dot.zip [ddc9859a9e0f657f2b5c019c28e0798da3e7220f687bc052f7e7227319c87a77]
+│       ├── balrog-a.doc [bed30b9f52ab9742af4f12748b30dd17f70df0a76878baf5bba574703223ad39]
+│       ├── wmbalr-a.doc [64d640bbd459ea6932a5d9ca33b8da84ec3a64cbf750801fe4ed9d311be2fb0c]
+│       ├── wmbalr-a.dot [f4705eb4ee1b833e3ea5f00acbf2d7399907b27761349b9c8c6094fc2a6f39e9]
 ├── balu
 │   ├── a
-│   │   └── balua.doc.zip [520a54325e1126e74c1412566e4d58b9232add547194a0081c704d5b39f3334d]
+│   │   ├── balua.doc [06282bafe720a0806269eae9bf9405b6202d5a19481948eeb021bf0349d20212]
 │   └── a1
-│       └── balua1.dot.zip [eefe4ee312137deaf0d915709e492df3ea6db78f5dce41d9a98d1fe89d72dbe2]
+│       ├── balua1.dot [f2d20354750b206e9dedc05dec753668bcbfac45622984b52052d7638bf39e01]
 ├── bandung
 │   ├── a
-│   │   ├── bandung.dot.zip [e1a8e57f94a2d9642f6f80ba3f84f1f8acf24f81479f3809ca7085cc2651add7]
-│   │   └── wci06083.doc.zip [d733539587010404acfbb9e678bb5d5e38384c807a75ed6cb40783ade1a1ba51]
+│   │   ├── bandung.dot [80c0f32c5ad1dd483777af0057b587ba3c7a5775268257e1927e318569c22dd1]
+│   │   ├── wci06083.doc [13809a479fdf9e6a9cc233548bc22a48ca30b914cb40c1aa43c2b9f245ae4ab8]
 │   ├── b
-│   │   ├── band-b_2.doc.zip [1df2e66070a195f3537d5056259ad8626c573ab8a5b2e5eae543639cb7ba43cd]
-│   │   └── band-b_4.dot.zip [7f65e21cffa986552a57cc461e8026080a622cd66230f5d6ee626ce15ace2b21]
+│   │   ├── band-b_2.doc [12146a59975e1d9dbc51c3fd1f9801b6ec689b807f4cca081297d95ae38922bb]
+│   │   ├── band-b_4.dot [42624d317fad85e4cb3c7cb9cafea5317e3645a2ad056e9e815c6dc8fc67a539]
 │   ├── ba
-│   │   ├── bab-3.doc.zip [0da320236c32be31083f525260dded6a59cc3a32f8f3d08cd0c0e1c759476327]
-│   │   ├── bandba.doc.zip [f5fe2d0121aed59318cc229e674e3fda17e158d56dc47fc96e6db66729aeca2c]
-│   │   └── bandba.dot.zip [ed5f140ebdcbbfc5ab62428de25f2c4e2ebd91d82e6a72e412c69e249b9424f1]
+│   │   ├── bab-3.doc [fc391ae471f26f9e1c4d7b97f10a8884b1c7a607b1715900ee072cde2b6fcad2]
+│   │   ├── bandba.doc [093b98805c803dff5c552befd960e7c47761f6c5a41ead123418d1e5b09e9bd6]
+│   │   ├── bandba.dot [86647f9510cdbb5d96986fc7862ed62ff3f286d047f21c8561d3c85c8d6807f5]
 │   ├── bd
-│   │   ├── ban-bd_1.doc.zip [15ececcc50fdd03578c490ea40bfa0e48cd6af98a9462c0638e77db858930b3c]
-│   │   └── ban-bd_4.dot.zip [9f72c23be261491493ed481212a36792688d5d5f14e8b58604e909b332ff445d]
+│   │   ├── ban-bd_1.doc [3607c8994ae542a5754442ca28fde21304e6b1453e0ea8560a22fef832fb05d6]
+│   │   ├── ban-bd_4.dot [e08f5a9a742c9739dc859fcd28a989e33dc1ea333ca8c81bb9338e5b82dbf2c1]
 │   ├── c
-│   │   ├── band-c_2.doc.zip [1db253f751821bb599a25e42ed6e4d38cdc6d87db3251b12094f8ab3955bf5db]
-│   │   ├── band-c_4.dot.zip [4ba6120a57462289e90c9368526f953229d2ca112618bce80894a6684c49e5de]
-│   │   └── wci05603.dot.zip [f4d2e01c02e78b551b919eb48095ca9b33cf3d605566a0f3243f913887d1e0ca]
+│   │   ├── band-c_2.doc [93c3a75f54a9ae49918b245cf531c3aa404a9ee1ff84327b939fe8190f42e2ac]
+│   │   ├── band-c_4.dot [c2098dc4b3fdb3945a61c3fd502110d1977b99c77f7dcd36ddeca990ca9b8d55]
+│   │   ├── wci05603.dot [572ca93ae90d497a1f4d55e4e7dcceeb8d6b45ee4c6dae656988727aaf90d67b]
 │   ├── d
-│   │   ├── band-d_2.doc.zip [a5e69d865764494822e7b354b60641ae6f1cf697705d00862f59cc8358b851c0]
-│   │   └── band-d_4.dot.zip [563f2d442e62d63f9e9b1eee1bfed37a45275602da2829f214f16135426bd7f2]
+│   │   ├── band-d_2.doc [a0e91d9b1a39a660d8d2fd21b2310c3d57ad99eba89303cd8031a9524e9ba1d8]
+│   │   ├── band-d_4.dot [adb0993a5a903506ad03ccf9ed1cc619ec1319eab8ccb5d3e1a71775bf0c8693]
 │   ├── e
-│   │   ├── band-e_2.doc.zip [95db431eaad6f5bbe2226a4eb81baf71760aa918d081c46360fe3e130fbdd413]
-│   │   └── band-e_4.dot.zip [79c8318912fe848b1326190ab4c67115a831a2482c3934f5674d100fd6ff490f]
+│   │   ├── band-e_2.doc [d6d5754d736b67fb0cb8881c6792bde5d77dd8966c98bcc5a5b76cf83dc0318d]
+│   │   ├── band-e_4.dot [8d52cab495f9034e2e63ef3a9441cc0ce37ee0f7c46571711af53de6c5d06942]
 │   ├── g
-│   │   ├── band-g_2.doc.zip [15f24b3392f0a3fe1563f61ff563feceba954f41ced0b4fd0cf95ae04393dd94]
-│   │   └── band-g_4.dot.zip [1851467c9298efae70942f0a4a89c90ae31044f48e961c56e840926088045c07]
+│   │   ├── band-g_2.doc [3d6951e5b0ed7241029781b4d0224c2f957827a8fa8c166fe6a1db290140d9f4]
+│   │   ├── band-g_4.dot [84349bdad1f65e77a4794d98912eed9dc50e7c82c50972a4c5e2f11b0d8a9300]
 │   ├── h
-│   │   ├── band-h_2.doc.zip [e9e514466a53cc43b863d2f61760ca6134de463d82a9d29e7d730526ade6eb6d]
-│   │   └── band-h_4.dot.zip [bd4bd42d7df7a5fe9ab77977d36c2f805a6467a7a34a91edbb5227772afb9fcf]
+│   │   ├── band-h_2.doc [5cd2bfab99d9b8ad455bb66f19aa765197c1d0ac92f7caba196dbf5740886820]
+│   │   ├── band-h_4.dot [2bdf438bdfb737d1ce4074dc033691e5926448e96622fb288a8c0d6cb1f89bff]
 │   ├── i
-│   │   ├── band-i_2.doc.zip [03d6762caab625532bd868548e1e06409fa50c4c58e9dcbb66822da1df979d07]
-│   │   └── band-i_4.dot.zip [cb3a98b709bc5630f44d0554cb0badb4af0bd3e2d56ef05faacdc792197c6bc9]
+│   │   ├── band-i_2.doc [64487450ad6486eb236043eb8c468b65532895aab3d8210c24672c98de458014]
+│   │   ├── band-i_4.dot [47b36d4675e50ce2ef3556f1924b0c445417792cc7ad97882d865037dc2d95e3]
 │   ├── j
-│   │   ├── band-j_2.doc.zip [b99ffbe66e71a6098d811ceed50922fedf6751b1c9ff27042811aa46f183bbfb]
-│   │   └── band-j_4.dot.zip [55821541ae0aee8d25baa97ad829adbbe3eaba304a50e91b456489323215a867]
+│   │   ├── band-j_2.doc [5cd079b4f38e83a6c32e3af41681166afd9643ada78b53998091a5cd090edfc8]
+│   │   ├── band-j_4.dot [bcea0bdd09e41d2cbba1d149b1880112f9bc251688a15c6ae7dc190d64418ed0]
 │   ├── k
-│   │   ├── band-k_2.doc.zip [c0f1804c521c3c81201651a3e0928419ca1428fd54f006fb8d84fc6cd5d14f2c]
-│   │   └── band-k_4.dot.zip [c66d4ee7654b500b4967e7e2f0b795bef4c7071695ed1a01fa18899a426f53fe]
+│   │   ├── band-k_2.doc [b8d000a8e8be0a94e4c1e300e93d16dd6845455866a3b8031dec4a1b1f603c3f]
+│   │   ├── band-k_4.dot [557fd70a26185dd2a4e3bee72debf308afacf87699cf8282e7746d26dbe59699]
 │   ├── n
-│   │   ├── band-n_2.doc.zip [770045cb092e57239753c266a52f8ed7bc7a807427db8ae5501d3be0649c8657]
-│   │   └── band-n_4.dot.zip [07ab0491b54f73b225d48fd8b3c6a37292d854076147a1c031ec08d5aad1b2a1]
+│   │   ├── band-n_2.doc [17118fd10f8c30b4eda22e2ce5e2a0810de6d8b78a8e7a334a276a57021dfcd5]
+│   │   ├── band-n_4.dot [1c44201b67dd429cddd0a10464c2d3789e8938b6b33e8100458b28e8bf8b1c93]
 │   ├── o
-│   │   ├── band-o_2.doc.zip [5960cae1c6e30c1585a30d04ea7c53e901f5ac4721cc3394f8f55d5926ebdc80]
-│   │   └── band-o_4.dot.zip [364782ad3b493157a11d26ea8f560a7b5d9419e18d1bc0e9c6d58ca2542bd092]
+│   │   ├── band-o_2.doc [668d65247d49dc248e280c8fb9872921003cb7b50f17cf7c947444abb4c8c80b]
+│   │   ├── band-o_4.dot [9d09312b0c1341fc9bf579e755b338e2d73c8ae915893080ea313230533bd1b1]
 │   ├── t
-│   │   ├── band-t_2.doc.zip [31a8c72174ea49ce0f4d4fea2a975568cb8c312484b2b45e65609c679818d3f7]
-│   │   └── band-t_4.dot.zip [992c36e2d01a2c2a998b08af78ed9081c206093b22adca2a404018e1b76d96ab]
+│   │   ├── band-t_2.doc [65655f7eba45801242fe9b42f22ca1871ff40b6c863c8c972b2ba124586eafc4]
+│   │   ├── band-t_4.dot [1372943b9604a0fc7ef890c0369abbccbd722ec3eaf1b94d97863eff47c7cbc0]
 │   ├── u
-│   │   ├── band-u_2.doc.zip [075109e478da3c20a512d17b3df6119967fe732770ff03ac929502d1caef4307]
-│   │   └── band-u_4.dot.zip [a29655755969257463d3432aac310e4cba8817d337a2d9c948ca7863b75e316f]
+│   │   ├── band-u_2.doc [89be0e551140310aa8b584a305c5a598dd477f9f3a8b6bb1388195f5f139fd09]
+│   │   ├── band-u_4.dot [78eb9a017c9f57376e4650052e07c4bee0a831af7967d3d436cb13ea37840da1]
 │   └── x
-│       ├── band-x_2.doc.zip [36175e7536d339c56212e768e162adc816d81a03c6351669c93771dc6ff67847]
-│       └── band-x_4.dot.zip [078c38b90c460f5192ff75fb3a8b76025dc48c7cf6e5ce9f1df33fc43169ce86]
+│       ├── band-x_2.doc [09b99681ced21fdd72008f6b11bf090d7c63fab56930c5b8f43654b9f0ba8396]
+│       ├── band-x_4.dot [f74647486ad88ce77fe04b41e7603309cb23dea4fd68be347565c322efc1bf22]
 ├── barbaro
 │   ├── a
-│   │   ├── nostr.doc.zip [ccc33e80a6d0db45429d44af065960a812aa708b6a70d89563dff5a5b02b2025]
-│   │   ├── nostrada.doc.zip [c9e9cf193541a5b7d26b5071a1dda56981b2d898697a8797d72528233afb72b8]
-│   │   └── nostrada.dot.zip [6194ccae25dc87f6c716f768f6e52c39b17867eb7a8316573c8c907afde9c576]
+│   │   ├── nostr.doc [bedb4ed987d9270ce1400dfc6af2eff137b46cb6c683e85fa20a6e978250917a]
+│   │   ├── nostrada.doc [45a7037a2b08311a53b4f3951a190855bbcf69e79692231f87894152f597a7b8]
+│   │   ├── nostrada.dot [19b56c2612e907c599c334703d8207800848605d77c0228a6a4402fc9af7088e]
 │   └── b
-│       └── virus.msword.nostradamus.b.zip [c30d3ae269337cb352a30bfd9248b183897c77327aa3ee5212a7d696bf8105a2]
+│       ├── virus.msword.nostradamus.b [24b83eee43ed4f9865dda628232e0edba39520c5bc38cc5efec35914adff309d]
 ├── bertik
 │   └── a
-│       ├── bert-a_1.doc.zip [7a7810a419481844850c0b560eedfaf8c51ae164134e69b446b0a21fc2e948d2]
-│       └── bert-a_4.dot.zip [572d93146e82549b7fae050869129d0f9ecf6fc90ea669eb13d9ed7916fcc739]
+│       ├── bert-a_1.doc [de260cf4a5982e3b98bd2c4b8ffdb0b00808f7c8cb77ea52be5f8a6d1022dd4b]
+│       ├── bert-a_4.dot [4b8353b71d74dec2a9a1c513565625f00b89b4eb78a830ddc4b9d4ccbb735988]
 ├── birthday
 │   └── a
-│       └── birthday.doc.zip [9d9cd9fbefb2d2f8fc5d28adb009f6059147f5d0c1b6046b69e6629a263f94ce]
+│       ├── birthday.doc [3d0764d804fe452aa60e409ecad8ee3acfea47050658d76aa516ae8e409c993a]
 ├── bishkek
 │   └── a
-│       ├── bishke-a.doc.zip [7daf4fe3fe68b10aa2497362a8e200e2ab8de98ab4592ff0f94cf9f3301000a7]
-│       └── bishke-a.dot.zip [d21fca779e43fe849bf0057a91cf3ee0ff3d24d9cb7e28f21a261dc0ec4b8278]
+│       ├── bishke-a.doc [4ea36b4e2c5b718745d4ba0e29f9cb5e8404a4aa49e82b912696bcd222146039]
+│       ├── bishke-a.dot [a19f89dbef9ccec9aa80020a071fe7a8e8cf6ebccb0024a9ecefd184e415b563]
 ├── black
 │   └── a
-│       ├── black.doc.zip [a0c2f7a66974eaf6854869a046f0a56137ee41699342201e24cb649001f76b8b]
-│       ├── blackdth.doc.zip [b4839dc4d3cc4ea3e92e7b3025711cc3ab7228a054898e9812ba41df9b1fe646]
-│       └── blackdth.dot.zip [2844efeb9382ac46fae87e640d77298d1203c298b47eff56f1fcad490d9406d9]
+│       ├── black.doc [265afc333e278d63c7736d5b00719c25e4db8aa50776d80b8adf098dc2653e02]
+│       ├── blackdth.doc [06226f2af0ad610361a8f3672ef1ebdaf777f605176b7279e4d51e9b4935df4e]
+│       ├── blackdth.dot [91ca253c64e8881308d8076b3b6ded2887d4c4913d1c82c7dcc2e5ce30af0c02]
 ├── bland
 │   └── a
-│       └── virus.msword.simple.b.zip [3927b060c29fc5b56a44d288af9e12b5531e988d04e36cdd2e39b1ac139fe089]
+│       ├── virus.msword.simple.b [52d05f25fb75db15bb13e20c94fc857050e7a0f5598821d45cc56a036e5e9024]
 ├── blashyrkh
 │   └── a
-│       ├── blashy.doc.zip [0152b4d5edb290c99f7e69fadfd93d95954506b735467cd300d5319ec712e2eb]
-│       └── blashy.dot.zip [8b06b3354ef3b3cef3e6a07c0e9784d3de7235caab0444f7e4cd08d84f6f73ca]
+│       ├── blashy.doc [7981efe39d44cd7b24acffffbce8d9690e7cefeb79863b42a0d51391759e6a83]
+│       ├── blashy.dot [2d446bde9be27c53c7e8fc087525ff45b719680e3c1bfdcce53f4bdfe4bc651d]
 ├── body
 │   └── a
-│       └── virus.msword.k302.zip [e21e49c0f9fa869f632b017082fe7346d62cc56409b6090cc7baffbd05902f61]
+│       ├── virus.msword.k302 [cb33adae0cf3612c30d6849725b94642c26b4e7aee64ae4b3632b15a7224b9fc]
 ├── boom
 │   ├── a
-│   │   └── boom-a.doc.zip [a50fe50c341ef5a691ed0c9123ec8b9a93e34e132f4e897c0b47647149c3ac37]
+│   │   ├── boom-a.doc [bd761ce3053ff36dc8b0688f53004a5809011c0a84467c21a2fe3d48c845c3ca]
 │   └── b
-│       ├── boom-b_1.doc.zip [c3ad62129b7f1d2b0989a7fe0107c31b8336eb1451ee65188ed59e50ee410895]
-│       └── boom-b_4.dot.zip [9db9db12d9180724a60f6cf5844e85dc4bea450ab3dc79e3afc07d3eee648f9b]
+│       ├── boom-b_1.doc [8e4292a7dbaacad19c4da8538620cf4081bee522afc2e33b856b52cf70ecf639]
+│       ├── boom-b_4.dot [a0d909dc022908ba360370fa9865b7e5f039df88ae2f75e37be93c05463d4a48]
 ├── box
 │   ├── a
-│   │   ├── box-a.doc.zip [eaf2e64c10c4e7f8f4e9ad2ef748c75b2f4f895da82c939dc855fae73ac2295a]
-│   │   ├── box-a.dot.zip [d5f621f60cd184395a04c2b1f31d7d345a92ef222eec9d3c421859e0119911b2]
-│   │   └── z-macro.doc.zip [d1aa6c2ecf7fe5591e01e9d45ef22f35dc9ce5fa792e59a1989faffb1c9458e4]
+│   │   ├── box-a.doc [7c3636414de241ffb4a53b08a86cd425f44fcda6cef4e5114044b0901180c873]
+│   │   ├── box-a.dot [27535af591cf1735afcb6d7d56fcc41d0ba3b4488e8d6904c391f42225d64ba8]
+│   │   ├── z-macro.doc [10d26b2a9aa4676286ceaa5fab6e1ac86893dd35b8ef4574f67d5dc5eb9ec517]
 │   ├── b
-│   │   ├── box-b.doc.zip [a84e265d573e5957d50add1970fe3c8886c0a88906e7225b3cb4b4be47c11b85]
-│   │   ├── box-b.dot.zip [312bda78a2a24a13931fa72cdd2f875361a291eaddfe222c21c5ed8fd24b266d]
-│   │   └── twnos1-n.doc.zip [aad18a4244d574b326eba082077ac6ba27c8965d70f838b565bed91b7026cebf]
+│   │   ├── box-b.doc [814de366294cff9093c3fe9a1431616567df24828c2dd52569293e020384b49e]
+│   │   ├── box-b.dot [cb86f1727dc2f7370cb92fce45c7ca018e2908bb0d6de953a8ce6aabde05498f]
+│   │   ├── twnos1-n.doc [bd6355a105bf4c932a17597c3009de30795d691619a91a9c2747889e3c657f5e]
 │   └── c
-│       ├── box-c.doc.zip [3c519a41c87c7517d8445837cc731a9ada2fe0bcca2d81fc71ea4c4606dfbdb7]
-│       ├── box-c.dot.zip [9880cd35b5b62a44f3468f9d0ab00340e95c23817769a1603bffa46d5dd66293]
-│       └── twnos1.doc.zip [90b7c9bb794cc640e7f85381eea5ea457c899b6445cf4c529113a599d95c353d]
+│       ├── box-c.doc [de0cb50651d7d9280f3bcbc51d29be205ea78dcd30c5ddcbdeed2d484ca91b89]
+│       ├── box-c.dot [8bfa5aa596fd94fdb710eac3f0822fdb64ec597af36e4ec0e2890f1b7b6ea277]
+│       ├── twnos1.doc [4f3f37c24032dcf1bd87ffcadbcaa54ee4ae1287a82e8754d1bac3a87547b699]
 ├── breaktime
 │   └── a
-│       └── virus.msword.breaktime.zip [a87a129edcc06b5d581d330f3ef394b6ee0cc4a766d71b111c8d13f18d7d9c37]
+│       ├── virus.msword.breaktime [25f4492eec1e4b28611b56ed7ed526564c5466a31d9c2ed725d5ed5519beac2c]
 ├── breeder
 │   └── a
-│       └── virus.msword.breeder.zip [72ab18b24d34615fa1710ed8e0218ba3381782d6c283521c5833ca6c2cb34b7f]
+│       ├── virus.msword.breeder [7a1cbceefb7efa277d733c0eef0f9ca1d1edba6037ce85cef1e26d4bffaf5421]
 ├── buero
-│   ├── buero_d.dot.zip [8e61cebcdfb53c82a01eb39ae632158c56af6837890769e6b846efb15816e576]
-│   └── buro-de.dot.zip [08eccf042d67ac85197b49ffd2c25d80b6e30def34ef9f57d4475badd64627a8]
+│   ├── buero_d.dot [1ed2e915ed725d1726fe10197252f2a281d37671ef5fb7957cdcc1a268ee1cc2]
+│   ├── buro-de.dot [959c022f5c71017f03044cd568a7410e5b0e375273b26a2ed3fabd96c7f313cc]
 ├── bumble
 │   ├── a
-│   │   └── virus.msword.bumblebee.zip [082127dab6dad0dae32a5999f2806a7a4ad3a268aeb88dde6a770d377349afe4]
+│   │   ├── virus.msword.bumblebee [f34aecfe1a1112c31783a2c6bcf78462a8e088658703dc241cbdfac23c73c972]
 │   ├── b
-│   │   └── virus.msword.bumblebee.b.zip [9c25b0fa4015c21beee70046f4f08d026eb3fe290dc3f932de6dd46e92632ef6]
+│   │   ├── virus.msword.bumblebee.b [9fb6808939a6d098d0c8e897279661fa3c568fb97bf3791f28698f087819144f]
 │   └── c
-│       └── virus.msword.bumblebee.c.zip [8661e0d370504f5ceb5b2c6a773b2ad8b5ef64541eec53ab8675f51ee1009763]
+│       ├── virus.msword.bumblebee.c [6f5eee41a78c3d2cb6dfd0defe7736e7c65f29669480150f226f5aec98a2a0c5]
 ├── candyman
 │   ├── a
-│   │   └── virus.msword.candyman.a.zip [73a5c1b4ab5b80a4cd942790bb28698dcf0fa06ce0a7e2e6dde495ac7ca51c68]
+│   │   ├── virus.msword.candyman.a [d9eb77ba17ab5c885ed11d20ced6e941453ee311697b0876fc357e6659e99288]
 │   └── b
-│       └── virus.msword.candyman.b.zip [0c23c4049e637880fdb54bf5aed86fda4c0c401eb2a45dd70bb23a9c3783c324]
+│       ├── virus.msword.candyman.b [a9381d250debe791ac3da52af6b1590d7ea1517d6a08fe53a77ed757dea896dc]
 ├── cap
 │   ├── a
-│   │   ├── cap-a.doc.zip [868a74e2a3c761d6823b6384b16dc7f742e44245b9727f0fe86c522643211229]
-│   │   ├── cap.doc.zip [fa14ef8490dd27381baa481f1f332184c4771a90ee4ae443845f1bd5cbc9fd5e]
-│   │   ├── cap_a.doc.zip [ce9e44c4f52d3fe8102c20fb334e3ca4a2a95dfa969a6cf2703207500a4ee144]
-│   │   ├── capa.doc.zip [05da7d6be7ef4249797df3a1bfd0eb8c4887506d4b81d363fa19c6aef48a0469]
-│   │   ├── forum.doc.zip [aea7527744e83ecd5a172d67056b159e3ca985052d0e3c97b3212f51962d7f68]
-│   │   ├── princess.doc.zip [e96f937f55de22f731a9f1792cfb0d8e7c88b57c1e1c9d4061836f8cfdffa3f2]
-│   │   └── wci01594.doc.zip [c9b6863a6e14bd44de31c1d83a34032af53eb15613ff9faf30f41088858a51d6]
+│   │   ├── cap-a.doc [d0de5ea3b65a67e727215d3c92cd26d304ce325cbebe6877e35b0377c07502bb]
+│   │   ├── cap.doc [761d55a20ed40ae6e5a72559d6dab1dabcfdaeea6dbcb1204a4f1eb76aead92e]
+│   │   ├── cap_a.doc [b23899ac2e39b921fcd5eb20e5459b6c995e0c935aba74db72149e64b1be4d39]
+│   │   ├── capa.doc [4721ddf789af89d8b45fddc9b77ce4a0bdd7a4ef8c3f86099a3a9ee85335f2cd]
+│   │   ├── forum.doc [9b694d79c1fc686a6c8784b7678bc2dd0843c8c7cfef97ce68702acad8469941]
+│   │   ├── princess.doc [a9eb5fb706520c980ce112bfca1077f00ffabd0ea0d609eea1c8f817923e2fcd]
+│   │   ├── wci01594.doc [fb842e83682a139590190ef05ca78db248c09c9537f80883cab8d2f1652b5c45]
 │   ├── al
-│   │   ├── wmcap-al.doc.zip [95748e20ba6fda0f22765dd655d3b164c721cdd92b8b2993b084bb5780ed2a9a]
-│   │   └── wmcap-al.dot.zip [84e88884ea22f5c7f9dca7ee5f402fd2576bb17301c02f816348ebfa20640927]
+│   │   ├── wmcap-al.doc [87e38ca01400651221f4e30c35cac6291abe3da8c7cb3ade54d93acdad04ded2]
+│   │   ├── wmcap-al.dot [d4ed4ac5a26c479b2b03a5538f7ef5dd51f7dd7325bf47fa96e145a38d102775]
 │   ├── aq
-│   │   ├── cap-aq.doc.zip [69ed6d1c25a2ac8b5abdc94330fb1de60206f3656f4e8ad75b87c3f4d17e3963]
-│   │   └── cap-aq.dot.zip [3790fc2963f72b89a28d2d308d643b7b7e01b093620f5dd7664015910f0ef819]
+│   │   ├── cap-aq.doc [f6cbf455cce661aaea550fceb169f83af3bd1797c7b764d40ad22e9668e0b3c7]
+│   │   ├── cap-aq.dot [5bd6ce7cfc0cd16ba28aedb5bb42d138c4828c0b67309f8d27f03c7e152a8a89]
 │   ├── au
-│   │   ├── cap-au.doc.zip [c1ba45b61cdabfb6ec96eada88658cff5ccfe9c36572a1a79132a8aaaa39d366]
-│   │   ├── cap-au.dot.zip [74125085c43e5ccaaf20e224a03c8ec7670d56fb4bcee7cf315b3bfb958aae74]
-│   │   ├── cap-au_1.doc.zip [f64dd18db53b7f50ac2029bb01eebdfdf66dd1977a41e5b3bbfac83f56f94639]
-│   │   └── cap-au_5.dot.zip [74805b1ffc34e82b5f183166a5c6c7dcf071c1fdebbebdb84bbb1bd83458b968]
+│   │   ├── cap-au.doc [6ae022c565986154e529b71bcc451283274a6bcfaab6809eb63b339dc756078a]
+│   │   ├── cap-au.dot [d46229b62166bd513d2220e385705c810aa4713d51b2ff944b898334945ed4f9]
+│   │   ├── cap-au_1.doc [22bfd6f1e0d806652770febe67f8dba07aa0c2db0fd15cc429b136e7fc6928d4]
+│   │   ├── cap-au_5.dot [6be140c31b41b8c0ab44cf83f3f39c652582387f5c4d2e50ac3e04deee5ee20b]
 │   ├── bi
-│   │   ├── cap-bi_1.doc.zip [e6918348891baf18913c97aa0da7dca292fe1d849418d93d6118dcae26583e76]
-│   │   └── cap-bi_5.dot.zip [c9dcffd149fc75e0280ee0f346516967c913c5ce349d1bf0caead1938feedbd4]
+│   │   ├── cap-bi_1.doc [6074786de3972e397a9f2e83a0f27d9da494b58aee6ccb70f048858cd0db7b28]
+│   │   ├── cap-bi_5.dot [faf02a71c257d61fb337c3b972376a631d56f7374e468ee29613c747b0b76d50]
 │   ├── bq
-│   │   ├── cap-bq_1.doc.zip [6339591744eb20fd056185671a26e19f235fcf5d2d83af2d4811041d5f953940]
-│   │   └── cap-bq_5.dot.zip [06269b0d9458d00fa7b14fb3a3bd4f8263e32d5c1a57f1c35902b983d02d0ded]
+│   │   ├── cap-bq_1.doc [1e22bffe15d5f960374932fca84e471113d87083b32c0df52d6e923985418666]
+│   │   ├── cap-bq_5.dot [19aaafb8d99785d9c097f214619a1b7ab253e0f1676b66ce34eed1faa5ab3ec5]
 │   ├── bx
-│   │   ├── cap-bx.doc.zip [2e2e5819b69be206846a99549f3f7e3ddfd9fc389e71a221524805243266d023]
-│   │   └── cap-bx.dot.zip [d1ce176402560cd5c817d55bcb5d6e8e0051d9f3ba90b401217c02b2b709c000]
+│   │   ├── cap-bx.doc [898abe8ee55153e4300dba8712dd39c1ba56e607abde1ac880d7c996c0e70ecc]
+│   │   ├── cap-bx.dot [1576cff80d9f953ebb92dffce02edee0f1534de894779d45d05ad29d27c76529]
 │   ├── by
-│   │   ├── cap-bo.doc.zip [f62093590eae122637f8c53cf720dced5ec99f79dbc0e9827d7e53467f0faec2]
-│   │   ├── cap-bo.dot.zip [d165c35438b2930bd3c1c0ef8f2e7006c4dc6881617fa1e00400ffa1f15145e0]
-│   │   ├── cap-by_1.doc.zip [c9a7b68e7c07baeffc5be64e390ee64449498086ab76603b1fb204efa759e534]
-│   │   └── cap-by_5.dot.zip [59d151e3af720373ab98d46799d97e2d2db1bb1c22c1fea3eb2eaf088531ce66]
+│   │   ├── cap-bo.doc [c6fa3377e73ceddce9d60bc537b33e8b0dbc1d279bda3faf6ed95d4ef36d8ca4]
+│   │   ├── cap-bo.dot [bd561b31a5184169e29c3f580bfdb5eaf8240b4000550c422a1c1185cf894b88]
+│   │   ├── cap-by_1.doc [eb28aa77f8c5f1c6b548d83e40ef99ab123a8a0982af92707e940c978785d7e7]
+│   │   ├── cap-by_5.dot [377a4df20573dc2f11f84a98c27d535df81f736fd13fd445280a1ff7c1e2debe]
 │   ├── c
-│   │   ├── wmcapy.doc.zip [d2fd96827d41fdbebcc7acfa6e7145c7ecd843164249d990c92c13bac0d11ec8]
-│   │   └── wmcapy.dot.zip [0f71c976c1e1ef1e539ccc1b366923c242625a261519ef51dc7e463f6bbbbf84]
+│   │   ├── wmcapy.doc [ce3e8bde8475e302f5de2bb880586e6cb817da5ae477f6862c92e47c30ce111a]
+│   │   ├── wmcapy.dot [5c9b1dea59577acde9d93fa46acb252d35a429f12c2ae427f7a96dae3ce08df7]
 │   ├── cc
-│   │   ├── cap-c.doc.zip [637c1ca12759caf7493663654ba439b7cd2ab2bccdcc86b4e7565079ddabf9b2]
-│   │   ├── cap-cc_1.doc.zip [a0db470aff1298a2751d340d45e64c163fd942af2cb141f40e419b925b79c6df]
-│   │   ├── cap-cc_5.dot.zip [6d820a2f0717f092967a3ec6c15328a61447e33469ec45e7dda60a5731cce066]
-│   │   └── cap_c2.doc.zip [7983306c8a90eea41e332de63c770bcba97ded5a0e657feb1c571aaf87cff3a9]
+│   │   ├── cap-c.doc [b5c6eefcbd5b9dd6a71a493db096c11c1893550f6c9254c47f8bad001d9f1954]
+│   │   ├── cap-cc_1.doc [c909e4344e689f33843cb8637163a92d8e05091c4fce28155a94ae9c9eca83cd]
+│   │   ├── cap-cc_5.dot [29ac027c11666aed3ca6edc2dc497c43b6b466e18d01a920bd344138e2aa2ce7]
+│   │   ├── cap_c2.doc [b5c6eefcbd5b9dd6a71a493db096c11c1893550f6c9254c47f8bad001d9f1954]
 │   ├── dl
-│   │   └── virus.msword.cap-based.zip [4eb2fb133c3cc10bacc838b870c3443ce226f994dfd5818ea35dbbb84e300c2a]
+│   │   ├── virus.msword.cap-based [73841b352638f5bdb2ac5962b8e3e11650b8f5fc5bd35b6e896e24fe6b7bc83b]
 │   ├── e
-│   │   ├── cap-e_2.doc.zip [509d8fc856410b7e391feb2fbf00aaf5bae1b7d3f38ca825c04376ec2aee50a2]
-│   │   └── cap-e_4.dot.zip [8fb038970b112919c83ce5d1947e235ac367bb16febe1d3c6bb9dcab8b75ef13]
+│   │   ├── cap-e_2.doc [3539baa2c2b7047e22673fdd420e62a89c841eb9ab372d04c17831fd6045ec50]
+│   │   ├── cap-e_4.dot [7d3331bd05dbb93c87e03e43438d531417c4f51742e41b263b934875a37a1ef0]
 │   ├── j
-│   │   ├── cap-j.doc.zip [ec0cc6d75d0d78179e6d90fe3cad1ed160846e8b9ccb7093452a8b5195ab0e42]
-│   │   └── cap-j.dot.zip [2ac9b9d03c84ee9179b5dc48a29268dd7c981e3f50a9e59ebe77240fa8171e54]
+│   │   ├── cap-j.doc [e285e7a0d62824caa0ff91fb9404d94bfc5c2f52e071b2f122f3ba0f9827e83b]
+│   │   ├── cap-j.dot [55c1d7204f6118c00141eae0c99360694a01b94283de09c485beec9468a6953b]
 │   ├── m
-│   │   └── virus.msword.cap.zip [e1ba989579c436bf5cc77010276927822aaeaedf18b00f6da1fd8e99c52251dd]
+│   │   ├── virus.msword.cap [9c8dce86b88f0056f7f691ea7a43b5adcc98b6f522a99051c9fa975049fcfb17]
 │   ├── t
-│   │   ├── wmcapt.doc.zip [5ebe8dbc5e10cfedc5111fa6bb09199cd492ad826dc269bc411f09aedec9934f]
-│   │   └── wmcapt.dot.zip [73501a8b041e41cfa1923b52078fafa8a54984968317bc4a12e45290a19537eb]
+│   │   ├── wmcapt.doc [ce0f3fda70ed44d0b9b58101980a9cd2f7eb265703158d88834daea6eaa3faf6]
+│   │   ├── wmcapt.dot [a9dd223e368139a43e9a173079265eaa314003f432098223626e3911ee2e8db3]
 │   ├── u
-│   │   ├── wmcapv.doc.zip [8f384443e95875c6fb7f97d5996038a3c123e74b7b085602fddbaf2b35be507f]
-│   │   └── wmcapv.dot.zip [1e185ccec6a6efa264b462645ccec30e1d92aeccad0fafd83ada0d9da160e2ea]
+│   │   ├── wmcapv.doc [7d97b3feccb6828f7668309cbefd5807d97edbeb5b0f1328b55c6f9b898fbde8]
+│   │   ├── wmcapv.dot [92728e5562b7ba2b6bd9cf14e99ad91c9a02b1377a666c5ea6103c752a64e216]
 │   ├── x
-│   │   ├── cap-z.doc.zip [c8674b608ef18b9b24096ecd2e624568d38751b0f2ba8423c8da29d409626766]
-│   │   └── cap-z.dot.zip [fce330dfa06d79db558654b29baa585936c191d548b0a285ed17635c172b149d]
+│   │   ├── cap-z.doc [f9aab19bc1f2a8d91dda3484db119e2c77ab75acef19a3103846240c7195a999]
+│   │   ├── cap-z.dot [19dd64d2944cdb3f9a792a720c745e5b1bf6b65ec67aef5002acb0f2a536e966]
 │   └── y
-│       ├── cap-y.doc.zip [bc7f7a1a19f8b0ba1d16b3e1e58792346d902c087944cba8c542f01c54fb7694]
-│       └── cap-y.dot.zip [f7b79ba3d52fe442f43a4d41af0ec04c5386f9219460566ccc8beb2dacc4be34]
+│       ├── cap-y.doc [db57c93ef26a0c8455ee1eeac45ca2f86da241ded260acbaf75859e2c39b15e9]
+│       ├── cap-y.dot [e41438c2eb7c995f77178e24718a068527482fadcaae281f2fb974169f4f8aed]
 ├── catch
 │   └── a
-│       └── virus.msword.catch.zip [b83c076001682f4bc1ff2a9377640d90650e12e87e346d3d22780fcbeec65918]
+│       ├── virus.msword.catch [8def9a536a4098830e9bf7d2c238dc1ccfd664c06039141e7d454f0d78cb8565]
 ├── cebu
 │   ├── a
-│   │   ├── cebu-a.doc.zip [88cb2c668777b2ab1a7982032180f17a057717339c4b600432c6595efb0986b8]
-│   │   ├── cebu-a.dot.zip [1af754d0ea33f6e6860fde83bde90dcf05693d3fbde8eada93f21a15928292f8]
-│   │   ├── cebu-a_2.doc.zip [09189028b31232a67cc271ecb27a508508883a407503a0722af5ed5b6b880edf]
-│   │   └── cebu-a_4.dot.zip [461a47abb74272fc6c02cc7fd00eb58513d09dd3c00fb0496f1fba448f236130]
+│   │   ├── cebu-a.doc [863385c0289acb2ff20f7a78dd502da43f3b90a6615b6724f538e1b9bfa36123]
+│   │   ├── cebu-a.dot [29e51449f807dad1e87205d5273ada56ce9541a092c8e1f2b9db64e76cdf48f2]
+│   │   ├── cebu-a_2.doc [b196be8c9baf3dfd037550112e79d3b04ca3474b8046ea920dfd6f86b09ddfa6]
+│   │   ├── cebu-a_4.dot [8359319d34a5c71bc57f608ee257bee1946c883e9c7b1e6c55693d0dbf1d838d]
 │   └── b
-│       ├── wmcebu-b.doc.zip [868d0ee2c5dadd0fab3959051c6a636be154ac14f7a44193f49e4bcb06216932]
-│       └── wmcebu-b.dot.zip [664b86aa65da9a6d3d350050152cb5f5ef0f12bed7d3ccb50ab2266fede7e750]
+│       ├── wmcebu-b.doc [bc1ba98e097ce29d23746de57f39ec1923be703688a9482e3a6525793337f575]
+│       ├── wmcebu-b.dot [1db7364ee6e7daddf44bae6a95f81df03ab206a31dbb8333c6a8779d8dd3fa77]
 ├── ceefour
 │   ├── a
-│   │   ├── cee4-a_2.doc.zip [eee3297788cf6cded3bd5b69b1aad60934e925d2281af07c232790665f2b83fb]
-│   │   └── cee4-a_4.dot.zip [79013ecc43805cac49020c64cd19b6460867b977a2eca85f40daa9099fa4482b]
+│   │   ├── cee4-a_2.doc [20a1ddbc8d19eb04a4e82f6fe10550172746dffdcd38a1a37762bae4a6afceb4]
+│   │   ├── cee4-a_4.dot [e4bae6ed41a8f3da53509cf82190061b639207b57035297902374c7a80072087]
 │   └── b
-│       └── virus.msword.ceefour.zip [0e46c71a7d95faae6a494d55a941cca34d4c5e8f70d78635a7f8f576c58d6fde]
+│       ├── virus.msword.ceefour [2e2ddfa8af1ab76b4d65241ee2ddf17b2b3899964eaef45c56de07515b92fe07]
 ├── chaka
 │   └── a
-│       └── chaka.doc.zip [1a83257b8ca37f6bcb1cce37db8f5a00d37d95deeb312ba7071f90521ee0d039]
+│       ├── chaka.doc [34e700930a16c86c5f0afb666ac0fbba76772dadd30133ced8799601cfba9a75]
 ├── chandigarh
-│   ├── chandiga.doc.zip [d105df55cc5b230c1aa8c30afe449c798739b7cff637eb9204f8828a8c0b2748]
-│   └── chandiga.dot.zip [279e4d00951fff27c0a8f890861a824f96d8820597bcb77fa18b0e135a6cd204]
+│   ├── chandiga.doc [a219d4c7bcc35da9eb00979b39d2b32831a407d80dfda376d3e6e48bc9b564b4]
+│   ├── chandiga.dot [80daee25392dac2b3958b6bc15fa383c5bd8b79ef63dbb701d3924ffd06ecd96]
 ├── cheat
 │   ├── a
-│   │   └── cheat.doc.zip [e6fcb9b1dd0c641148ccda25f68abb2c86329b07b7691561b438de532415bac1]
+│   │   ├── cheat.doc [6d9554db260ab66cecff7788f4a0d2cb70d51ef2b6b95b2153b3c6a12c9bdf30]
 │   └── b
-│       ├── cheata.doc.zip [ca39536ab42dd80ddabd78a6667760a2d889be1c5377c14dbc6399d53084151d]
-│       ├── cheatb.doc.zip [efde82d33ab8244dc6ca7884455682b63220b06abbcb71907987eb5ea31bdcc4]
-│       └── cheatb.dot.zip [0a00e42f7c1a8ec8b697e9a6edc791a53d4f2e6c18444dd53c8ad5fce6b29425]
+│       ├── cheata.doc [7a8273982e9e284cf45b380b43a1e571465ea2b925ea4e543c546a791a8802a4]
+│       ├── cheatb.doc [12295d50782cbc86709a26017b29732beffa9e7af6c50170210390dce5f4ecc1]
+│       ├── cheatb.dot [5d67628098be69cb504ec2dece9a69dd603bea748c1ac850ac6f60598d1684e0]
 ├── checkf
 │   └── a
-│       └── cf.doc.zip [e56d3db4fe056cf31fd9201879f1e8efc44303b473f115e45e788c0da862b312]
+│       ├── cf.doc [0f56b4c7b15379898547797e8d1d0e78e8ffedd9d82b2eb47baf85632baafe0a]
 ├── chiao
 │   └── a
-│       └── virus.msword.ciao.a.zip [24f302dca949e1cc1eab186e92f476d3193beb420d9ac08a7fd466a0070153ea]
+│       ├── virus.msword.ciao.a [a29e908d88006bd9939a51676c3276329d126c27e42e2f0ed96ac114e076ccd9]
 ├── childish
 │   └── a
-│       ├── childish.doc.zip [ce4d1986e80dc4aa108ca774e1ef282488a6357349e624945bb3cba094f2cb02]
-│       └── childish.dot.zip [ba9fa2ff2dc65870a837611d6cbc08faebea6b60854594aaa5f7e33be5dbb26e]
+│       ├── childish.doc [c7948b7723c8f828bded28db033f2477c94e0287594f7b78717f30d4559d7c2c]
+│       ├── childish.dot [b39bbb46fd1a7fc8636da4e81145088d2167721ce7cdbe3bfb611e6b2933263b]
 ├── cleanup
 │   └── a
-│       └── virus.msword.cleanup.zip [7f404425954716b768f663b6032c6c0a125910735fe38de86681a71d81e4338a]
+│       ├── virus.msword.cleanup [5605f73914702ba8d426032e781b17ea40725f7946e4847a8784280c4c47fe6a]
 ├── clock
 │   ├── a
-│   │   └── clock.doc.zip [eabcbc17ad7d9182f163f10758167e6800e91628934394a252576889d27ec5e8]
+│   │   ├── clock.doc [f1fbdeb62998f24c4a889999f0213c6a0667e1a7b9c6b0198b503d791cb660a8]
 │   ├── b
-│   │   ├── cloc-b_2.doc.zip [2f76415f4629ccb7de1ac19b975b21c1c16c4e4f2fe8773ba93f34522a059226]
-│   │   └── cloc-b_4.dot.zip [21b26ab8c06e6c116bc2e603a205c47169a51afc0e2ea2c4a9fc750e945c6df1]
+│   │   ├── cloc-b_2.doc [88bb6c290994fec4b61d29dacd7d31fc9077f92031e92fe724ce6eaca2c4eb1e]
+│   │   ├── cloc-b_4.dot [d98362086d3172014c06abfefcf61d36e264a9c7191561d77e62f7b38548f8a3]
 │   ├── c
-│   │   ├── cloc-c_2.doc.zip [75d74e06c57bc4de9794b667361e5d3bd82d4ab94d9cad92535487725da437cd]
-│   │   └── cloc-c_4.dot.zip [c0a7e12f831e48477af8bce7202309cb3ac498fb9c1d46a6cebdfd2ffa7537b8]
+│   │   ├── cloc-c_2.doc [5db3abfc960a8ebddfd1a7145b246bd942ddc3a60548bb2ad9948f58f572d009]
+│   │   ├── cloc-c_4.dot [8a05769dda5f7995fb405f5eb33c9e4de5dfb79b7f787fc39e367834b1b35381]
 │   ├── d
-│   │   ├── cloc-d_2.doc.zip [267577ae76079321d9abd4a4df4c489dcb29b2b0ae519053eb90b0fe861e58c7]
-│   │   └── cloc-d_4.dot.zip [8f36a3eb77eab8e5a9c2b5f0a5dd7a88ff4284f9530e1b7a56aa4f1519e190ce]
+│   │   ├── cloc-d_2.doc [04e27bd9b4ccdf786babfdebb8317b39705448d0804212924ea372d99c807e41]
+│   │   ├── cloc-d_4.dot [c2ca39f95817a9ac5e735d5d16c5db2dd669a461b16790b564fda7b2b28f98e9]
 │   └── j
-│       ├── clock-j.doc.zip [ebf27f483ef2e2d9eb6369feb54309b71aad1d5067b159bf48137b7aba98a989]
-│       └── clock-j.dot.zip [7a499f9ae87ec8dda4e43bf55303ce6587a52824a36b72cef2dfcfd4c416b775]
+│       ├── clock-j.doc [609bad758699c8b1757ccd025b7cf9d3784898463e38bc7dd1b68317ff39f2d7]
+│       ├── clock-j.dot [c05dc5ad1050a2528b9702cc1a89b91235af8919aeb93827711f38a3b7ef562d]
 ├── colors
 │   ├── a
-│   │   └── rainbow2.doc.zip [b0437b5dba8eda661a30f84cf1bf7eb1e8e713f848107c7d4b177db8d680531a]
+│   │   ├── rainbow2.doc [788f1e1dcd4b235ad435e68091a25f526b63b5dd9a13ffd6990189b7c73a933d]
 │   ├── aq
-│   │   ├── conc-aq.dot.zip [4fd972f88cd469e9a15f8d0843b5431ee65c1b093e65c4b9f82767bf87577956]
-│   │   └── wci06863.dot.zip [d02364ca1a752d476e168be5ece7565200c754a7389f9c80ac37fe81057ea42d]
+│   │   ├── conc-aq.dot [d8aba0becfad4ad82e7efceb5987d6d76d9a76c24af724921eb32fb4b3678a09]
+│   │   ├── wci06863.dot [d8aba0becfad4ad82e7efceb5987d6d76d9a76c24af724921eb32fb4b3678a09]
 │   ├── b
-│   │   └── colorsb1.doc.zip [f822cdfe2178520f4bc3d43de34a780a1c716ad98f6bd52688f1372ffc435c2c]
+│   │   ├── colorsb1.doc [443517d3e2322fac4d384870e47cf2e6edff10b1d12e2957b04c8b6d56b1964d]
 │   ├── bt
-│   │   ├── col-bt_1.doc.zip [233ca8444762ed9d4638f591166e1abeb26ee5dc368e923b8be4e2ca4cdb929e]
-│   │   └── col-bt_5.dot.zip [af324f86a5b5ce51673753a8b48ad18a118c63941b577514e63769bb3b9a5733]
+│   │   ├── col-bt_1.doc [12fd4b5603d809fb8a2604c34e01c485a3e632efcbdb488113442d8d10dd9954]
+│   │   ├── col-bt_5.dot [2d0407d059bddb9d34ae15d975c573f40c57d9b674d38da1c4ffe80f070908e6]
 │   ├── bu
-│   │   ├── col-bu_1.doc.zip [508b5408f2cd15ead9e9b83ed3ee7f93ad1f09d3d4041eb270b1fc5c97c873e5]
-│   │   └── col-bu_5.dot.zip [e58a42fc00b5a21c83c990bd35e21057431746881d54503e203d7d7e8d1bac89]
+│   │   ├── col-bu_1.doc [cfd66f8c58862ba9a20671d40085631fdadef28511b39d6330e57c4a41e4171c]
+│   │   ├── col-bu_5.dot [a4fde91cbf6f067be679a1e33269c404ff62b394143903472a9889088785da9b]
 │   ├── bv
-│   │   ├── col-bt_1.doc.zip [9a1a587e6f29be70e4a494cec67c9606a487fb389058558be234e499264589fc]
-│   │   └── col-bt_5.dot.zip [57cb47235123437ce23f6c0bae10e8898d5fb7b855d798e1981d41e240f775df]
+│   │   ├── col-bt_1.doc [e3d6808ff5ad7ff3f4b09b4d53c3b7520a6eaffbd73e5f7dd94ef01c5de501d6]
+│   │   ├── col-bt_5.dot [aee7e3fe55ccf1273406b6711bff0048e3ef1afcede0c6847d4e284d5d4bcf18]
 │   ├── by
-│   │   └── virus.msword.jackwild.b.zip [22561cc38d7e5591a40714fa06a7a6b1097f8389dbddaa6eeebe842cba9db68c]
+│   │   ├── virus.msword.jackwild.b [2c4da24a269b546c5e64d3492ca14fc5812164ab229857a0152f7c6e03e2ab2d]
 │   ├── bz
-│   │   └── virus.msword.color.bz.zip [a67034504e266b444e58674646edadc15eb8765334c54dd07e3d799983d624ca]
+│   │   ├── virus.msword.color.bz [10469ca7ac02915cc46246ad9607db77a77a910f6215fc8f0a7028c07ffe465e]
 │   ├── g
-│   │   ├── colo-g_2.doc.zip [0752b501d0419b412a806a7a042754f87e2a6716b999f18802e66020c1a81beb]
-│   │   └── colo-g_4.dot.zip [bd10b445fbc4369ed6185a280ce93ea4564e20cc4478106f595508ad9e649796]
+│   │   ├── colo-g_2.doc [489c5d631ecb68d64a7c5a1d942229a21e2eeeec86fd71e6a484324f45f9087b]
+│   │   ├── colo-g_4.dot [a0f886ab8452b8af78470016b7773fe71a349160b1e5f0d50686802e6675b5cf]
 │   ├── h
-│   │   ├── colo-h_2.doc.zip [b8818723309679ebb20ddd3324ba584efb136cd5a308a02e74d83519fef8f312]
-│   │   └── colo-h_4.dot.zip [b09cd53052838cb15eabd766e1488cde3a3dde6380b341b2d47f9d097dbbf98e]
+│   │   ├── colo-h_2.doc [82c51ad05a42110032ce2494c6113d23384c74e2e886214f90375493bc48681c]
+│   │   ├── colo-h_4.dot [7cea8fce443de1480a09c68b28f3abd96717c48ffaf1aa37d7a56ece59f232a2]
 │   ├── i
-│   │   ├── colo-i_2.doc.zip [980590eda1de5bf4809e78a9d36f14796f6448e602a34692005795c00a301993]
-│   │   └── colo-i_4.dot.zip [a147687ed3cfb0ae01e68d8a9e3ce6e4bebf10f93bfea138096d57a8e2723556]
+│   │   ├── colo-i_2.doc [77b6a9e956c3dc7fdf4dec78a7da32ab93d250b80019fcc201055ffd347a8900]
+│   │   ├── colo-i_4.dot [a696f80acd8809b50ccfe20728854c966b7ccbae1efff5d15d40b266774259ec]
 │   ├── j
-│   │   ├── colo-j_2.doc.zip [c063debc607039d12ca0a0eba200d330f26f3a06322a49c8a5375fa51a97c738]
-│   │   ├── colo-j_4.dot.zip [6d2cd22132f61572fbe610c2c74a809697e1416c118e1dbebe834c37b224e0da]
-│   │   └── colorsj1.doc.zip [89945ce2e83abd8386387c2ab4332b7a9f1917fd18646eaa9ac995aeb9f903d3]
+│   │   ├── colo-j_2.doc [b3cd72a2e2be368edbbb1e508576ce459777ea27a4ecaf3829d13943d3e0a20e]
+│   │   ├── colo-j_4.dot [d9ba3a326f3397286d3e66fc1cbad5929c1893420c181fc3b412cb710afe872c]
+│   │   ├── colorsj1.doc [d1f6032f3cd3956b72ece03955540e5a8d4c07b09a39e8d8cc016363faf2e142]
 │   ├── k
-│   │   ├── colo-k_2.doc.zip [0ef19f8f742b941755e74bc888c248dcf5e574c59914e68569537d6ed8edc571]
-│   │   └── colo-k_4.dot.zip [275b4276f6f206f321c4be95dfaee421e8a01378138e4171272a704982db8ebd]
+│   │   ├── colo-k_2.doc [439d070bdc1515b817d5049dce763e71d9da9b2c30d0d5fd37f268ea709bec51]
+│   │   ├── colo-k_4.dot [cb94cd96b1a0606bf9f9cf0c1032bb677f3fcc8a084508eb9bf1b916f4908522]
 │   ├── l
-│   │   ├── colo-l_2.doc.zip [5116f9ef6b3291b59d2c73de01d8e1662c33cbd89d8d8ab483273e19afaa551e]
-│   │   ├── colo-l_4.dot.zip [a1be98061202697f2604749b87052c3cbda2914262ef9a4a79cd2d650a6dbdb1]
-│   │   └── colorsl.dot.zip [6e1beac34fb04905a006ce3b987cedf436fca7a3efb863e1866feff8b78adf85]
+│   │   ├── colo-l_2.doc [66f270f8d0fcbe847f26eaff008711d33686ea2486b119472cbe45825cb125b0]
+│   │   ├── colo-l_4.dot [78625bcfab807e250178eb5a071eccf30d2fb5134c77811fdb782e5a4253c8dc]
+│   │   ├── colorsl.dot [548e5337df7f4d105892022d71dcd84c8d2b0b098a42f7be9754b152c20942d2]
 │   ├── m
-│   │   ├── colo-m_2.doc.zip [f769c1df52339ea2d3fa999f713fe474eb8bda61600fb2325878477ed3914295]
-│   │   └── colo-m_4.dot.zip [136e216fcefb2ec8b21475077bf01239655c38d30ed42181249c4d5b4d27be34]
+│   │   ├── colo-m_2.doc [7fead404344c449c2ebbc35921e7f703851dc2c07c771d8ad144e65a1eb85265]
+│   │   ├── colo-m_4.dot [5cf09c71846b5a413383292fb09be3ac548d217f5465af013cfd78f28a6db10b]
 │   ├── o
-│   │   ├── colo-o_2.doc.zip [655a9f9db738ea0542dc28202c7ee20d5fb917587c5f8b3399b3fd8fb354524b]
-│   │   └── colo-o_4.dot.zip [09346b05fa9b40731037eef5ffface1d2f72dda1e6b5ba4c5448c84bc29ae29d]
+│   │   ├── colo-o_2.doc [f29a216012cc6fb1805b950fffcb61848314587a354ad3993bde2c39e2339976]
+│   │   ├── colo-o_4.dot [7b8ba8cd3d0ed066ae06843838af2ab01d2feccaf21cdd22f75b70b6098f2380]
 │   ├── p
-│   │   ├── colo-p_2.doc.zip [b359bfd7145353edb34cc16b6d9c78a1a7e023263b0b260550f2af6c58f7383f]
-│   │   └── colo-p_4.dot.zip [7fa27cf57adc09eff5dae740b8cca5b66ec450dcb4f593c45118b6466c6faf2a]
+│   │   ├── colo-p_2.doc [2e6ec48884d03033371ffc4c837965cb1a8910fe3ba0734e0d2fe4ac60008d1b]
+│   │   ├── colo-p_4.dot [d689cf309b2453e0550557342bbffcdbb76ecd4feeff69125cebab62fb5391fc]
 │   ├── q
-│   │   ├── colo-q_2.doc.zip [3e306f207743ec314ba9bf9112611cf07aec5b8b5240b1fc11ea30ff08c81393]
-│   │   └── colo-q_4.dot.zip [9923e07994cdc3aa9047504c44ace42237002f9e392f7248daa7851202df324f]
+│   │   ├── colo-q_2.doc [b1826cdc814ab2392052e0e2e3cd12d14906d6128c94fe0e476408de65563055]
+│   │   ├── colo-q_4.dot [0110e27abfbf2efe3be830003d3e352bcd8b67f2f1ca47abafb7bad9751f36fe]
 │   ├── r
-│   │   ├── colo-r_2.doc.zip [08ccf20403705e4ba859fecd35dbc6912d6174e83daf498fd9cae5ecfe10e57f]
-│   │   └── colo-r_4.dot.zip [11cef7018fdcadc8b410a1b1486d9747713ad2d3b777513a880b43c2b8dfb5fb]
+│   │   ├── colo-r_2.doc [e23b5f9dec2940e72d7b81db09ddcc979f23684a82c3fc4bd8adb6249d215d0f]
+│   │   ├── colo-r_4.dot [33a98c1a3cacdd34f80a271ab43c329b53acf63876fa94d5c068f63de37b899e]
 │   ├── s
-│   │   ├── colo-s_2.doc.zip [0302d4b3ced93199a73bcbf3e0aa778eff33b2ced65c2bf318519151a0dca1aa]
-│   │   └── colo-s_4.dot.zip [8ef35000260423b807e8b06bfd48514076a7aff7467b3148edbf649b726ffb8c]
+│   │   ├── colo-s_2.doc [4389a447f56c65443ba1c0193373e4bbdd8f26e3383066e2212c663fa4d5f3e6]
+│   │   ├── colo-s_4.dot [8f8573172b38239463439f1a138e3f6f2ef3e9a9f2baaf3eb5f35fa00928e7fd]
 │   ├── t
-│   │   ├── colo-t_2.doc.zip [ad4baa83eadef7463fe0ab6d9d8cc0f07e80dcc8918f4b0c5f7b310825a59185]
-│   │   └── colo-t_4.dot.zip [250e123b35ddfc0cafa040051048c9689ca888b7fafb310ee058eb9f2b85eec6]
+│   │   ├── colo-t_2.doc [65cbbf29a1a10ee192822456993c78b253b12a1074dc9bffd7e5ebcd7f0e433d]
+│   │   ├── colo-t_4.dot [dd6ab8ad9e28bdbde9c96e4f98ed6ecb02c7f19369dbb4d518397d41db878b05]
 │   ├── u
-│   │   └── colo-u_4.dot.zip [866871ec537c9c2fbf4238c6a3a609fcc344353645018f79b6151b37931d55d0]
+│   │   ├── colo-u_4.dot [4574e1a71b5f389f8f83cfebdd6f3dfc72e980ccf9578bf442dcc5eea103ea33]
 │   ├── u1
-│   │   └── colo-u_1.doc.zip [481e90cdb265b41590f5f7e4cf7abb958e6dcbb47641dd1d743b3cc804cbaeb2]
+│   │   ├── colo-u_1.doc [6c75753c61a668c018789d0307a3e2a55c90af9feca83bdc78ec9111b31c2344]
 │   ├── v
-│   │   ├── colo-v_2.doc.zip [ceca1f8299907cd0ff6a700ec54d6cdf5a98dba9102483c2ee0b958357b4bd8d]
-│   │   └── colo-v_4.dot.zip [afcdcf0683a6578f9532d74feaad45a7c60a7328949fd0a56b1fe434024404d3]
+│   │   ├── colo-v_2.doc [a69460e4be672b3cada0b2c89473d90c012ae3b368dbf614597c00560e6e9993]
+│   │   ├── colo-v_4.dot [8f466668b2b8905633fb29e4202682406a7e1993732645270eaf2d945d596449]
 │   ├── w
-│   │   ├── colo-w_2.doc.zip [4c4ecabbe2fdf63b1042e8f05a75f17438041687f0af871eddc1f82183c720f3]
-│   │   └── colo-w_4.dot.zip [6e3b13789574f42c4d0a81d83095f74b3cfb9499d84d72c197cf7b366b2d7fc8]
+│   │   ├── colo-w_2.doc [165eaf6c6ed664c1614d69a96a293c53341982d6dfbbe08aa3108c8188c35fe4]
+│   │   ├── colo-w_4.dot [670f3e8913ad251fcc1cce7ec08aaca268ebdacec7af3e859e03e94e192a7c89]
 │   ├── x
-│   │   ├── colo-x_2.doc.zip [ca723fd46358272ba166074ddb114e901c48bdf9558c947d1b89a6e74f6cb17f]
-│   │   └── colo-x_4.dot.zip [9485a8e54048bcbac0a7957921c591d9fae4e006d680753cfa2ef29dd03965c9]
+│   │   ├── colo-x_2.doc [0a8092a920f520ae5849356a681f748192732e9dd6667b798b6826aff6e06222]
+│   │   ├── colo-x_4.dot [5365761ba28f685b41041a37f3baa10b8c781c2a98492e1c2550987c8f026f8f]
 │   └── y
-│       ├── colo-y_2.doc.zip [790b21ab1fa1a2effd9b7cb0712fe69179274f4204e789a5de481c9b186e73ea]
-│       └── colo-y_4.dot.zip [236f4cb9ea617e5be23a8dfbe2ac5cbdffb78c9d7b87c386894b4f2c92fca6c1]
+│       ├── colo-y_2.doc [d4a6a47a83b98e0f581600f097983ffd88b0826be6b26c4518deab2d75ec3974]
+│       ├── colo-y_4.dot [be33ed6af00ef3170a0db2e2358daf7752d80267ab8414ef787b9ba94e5084ab]
 ├── concept
 │   ├── a
-│   │   ├── conc.doc.zip [91ba95d9a75ca8141999552ac87650b567f10c9e30af9f025355d601d9caa615]
-│   │   ├── concept.doc.zip [afd4847ae7c29b91824bdb523b8192e0c2e953f1bf1d212111afe557ec009191]
-│   │   ├── concept.dot.zip [8f69c06e5196e514c9ea6f58ae1dbee41561a23aca6299f4322017726f11ccea]
-│   │   ├── concepta.doc.zip [a289e63e2c733e4a9df730d19949cda43576fba84de91d8856a4afd9bafb0582]
-│   │   ├── ctrltest.doc.zip [b95baf037ddbeb16cbf121e27ef3cc7d5f819a4648a1a376b5440493c7396321]
-│   │   ├── doc2.doc.zip [ddbda050b07f5e86c0526114c99e1e92d12b496812e56cc74fc17e8f9bf98d54]
-│   │   ├── johnson.dot.zip [d1ecaf90e4edfdf6526149cb9ad1da31f1f7a5c860b5b0a4838f36b7a2b5ec35]
-│   │   ├── normal.dot.zip [1eea39884688cb483d5890f29215709cd3bc2fe09582ed869b6fa49ce227f33b]
-│   │   └── welcome2.doc.zip [8d58d87a228c528848299538715ff1b26e4ce544518f66b179ef981c4cd61d4e]
+│   │   ├── conc.doc [92d7ca2f5df5bae3924a2d3443106c3799679419c3c2c5cdbad18235eef3ecc1]
+│   │   ├── concept.doc [521bcb82462b2892aa49961f458921ee5337098cdfe141b26be6ebc97141e0a3]
+│   │   ├── concept.dot [2a053118fab972ea6ae98c9e9ba1163b61d31be1c52d296ac869750ee1fba947]
+│   │   ├── concepta.doc [73cc357015169877c67f973b49168096ad4907f152e6b941e0e5fe2a8b2d2a20]
+│   │   ├── ctrltest.doc [fede861ea4eef0c2d8eb588af77ecda260d7224d1263d0d1223cc5983f700be0]
+│   │   ├── doc2.doc [b26b1140f06fd911e9136c396f4b834edacc6644fc66b12ca45ee275f09d5283]
+│   │   ├── johnson.dot [1e2c0bcb36e13ad07d1aa76b8a5ae22935d990f4bea7bbe9e244fc6aacecbd8d]
+│   │   ├── normal.dot [725afc9b5cb0d7585d923ada4a512ee1a9afb96281bf0f66f8f6b93d2fb8718e]
+│   │   ├── welcome2.doc [e2cba44e7bdde6f51b9b66a979df3d3e50c123e9fd4ced047026253691547094]
 │   ├── aa
-│   │   └── concept-aa.doc.zip [26fe46beb715be2df0a212b4069fdfceccdd7679dc083332a16252bec81c5c42]
+│   │   ├── concept-aa.doc [d9deb0a86ed849284d82ea273ed0be29e6c74826b22e5bbaf37cca8ca6be7999]
 │   ├── ab
-│   │   └── conc-ab.doc.zip [c038af13b9045e202f5499441b6a3896dfa0150beea824f4312d62d3dd1855d3]
+│   │   ├── conc-ab.doc [e3fbfcd11109a0d54dadedbd5d1c7514bb2cc995cc3da9e3f4a217552bac8ba3]
 │   ├── ac
-│   │   ├── conc-ac0.do.zip [dc390b30b71132a1fe3d00108d996e3422f3abece6019bccf5fef48e949da11b]
-│   │   ├── conc-ac1.do.zip [7c444cd96816f8a95db7488262d28030b108afdfdfc857027128b8d58578b774]
-│   │   └── conc-ac2.do.zip [753ba4af12a02ea4f07c277a5afe1941bf2a109ec7f48d39f04786f255c95e03]
+│   │   ├── conc-ac0.do [6b37819e87f3bdfac495f80bac362a621d6f4f5026f87fa571542ea9f5eab7a8]
+│   │   ├── conc-ac1.do [89cab728516f646faca43804126dbceadaca33ad35e06f60b28ac8cf4ba4e345]
+│   │   ├── conc-ac2.do [b345c8c2dac2f33014b430919d45516a5a45518fe5970ea6db038f7eaadac150]
 │   ├── ad
-│   │   └── conc-ad.doc.zip [328ceceb2051a3ca8716bca86cc92176ef6a995f3de4890b673e1d6d45a090b3]
+│   │   ├── conc-ad.doc [9b290e7e404021e8ba1dd923d4d18a2600a022db076969cbfed852ac68d36f01]
 │   ├── ae
-│   │   ├── conc-ae0.do.zip [49df5b689a6b8ae975b47fc3f95db4c48de0084a72d0650a3e40b3e7c2da6f80]
-│   │   └── conc-ae1.do.zip [64a9d44c9cc258bf006ed086c238352a8a06597023dacd3696ab46cdf94208ef]
+│   │   ├── conc-ae0.do [8b944c44ca8ea015af79053938881b994907bd00204f0f908205b97a11afc77b]
+│   │   ├── conc-ae1.do [a3e619ff8bdb931a099b8539219792688911e0a17fe37dd63782dcd641ad4f5c]
 │   ├── af
-│   │   ├── concepaf.doc.zip [93bc677cf16ffa752cdf6ea66f4cb0155b9929dc2ff16f4daa0ce05a398726bb]
-│   │   └── concepaf.dot.zip [670de3cfe66ab2bf7b7469eee5f56fd379c0ac396838aac6949e8ff67c4b3b59]
+│   │   ├── concepaf.doc [46aecfc66add04fbb46791b981a20b4df8d60f60fe833f2aac7192127d7b3c3a]
+│   │   ├── concepaf.dot [aacb9c157b7d103c9c33470c769d6d65e9ed021796c5ba66686d5d2178390c0a]
 │   ├── ag
-│   │   └── conc-ag0.do.zip [6ea763a38f140d2b2b4dc14c7abe4fac829af8b010fd5aac2a25c7e69fa1568c]
+│   │   ├── conc-ag0.do [24dd6cca2a1869f4208c7b0a1cec2fc3ca9644aadd0211695cf23bc46c6ad9f9]
 │   ├── ai
-│   │   ├── conc-ai.doc.zip [8d5ac010227846f90844d6f19694f093880751cea4e31d794baef55309ff9a55]
-│   │   ├── conc-ai.dot.zip [1f2f8cf15f9697cded20e26a39c33a24cfc51cd37f8f2a41487ae6fbba89118b]
-│   │   └── concp-ai.doc.zip [67972f34371465951169409b2efe2389a5b4324a9ca4108c9cc7b64ea76bcbf5]
+│   │   ├── conc-ai.doc [d2461dbff590cd2786102835d6cf6c79fa6fba0cda1a5933c926e5772e9d05cf]
+│   │   ├── conc-ai.dot [11d7284370c5b719fa052cad9c354ed0df2c50fd24984a3bf57543ece79b25d1]
+│   │   ├── concp-ai.doc [e462384860a6024663e3b3778bba5739e4085e62038ae60cf2df680437b795a6]
 │   ├── aj
-│   │   └── conc-aj0.do.zip [941d9839013c6641943613b841223713792a79c14a93a3c7dd9c5f88a71ce556]
+│   │   ├── conc-aj0.do [158076a42649f302b58c719e2f3be8052b12acb620444439af7e84ade387331d]
 │   ├── an
-│   │   ├── conc-an.doc.zip [d3654d3d7828f83dbac996b4dd01c9abcd2a1aaa414c865351f480ccac1d1290]
-│   │   ├── conc-an.dot.zip [f26e0c9bcdfc54b841e5ed440d27e99a5d95a1ad24a3c9c2fb98f1088ced029c]
-│   │   ├── concptan.doc.zip [9480b3960d2ebfb478676502fe8d6c3b619f9d581cac07b9ecfff0acd931299c]
-│   │   └── concptan.dot.zip [3dd6f66b937178259027d0795ad110a86ec1a20fc44cff74bdf2793971c5a7be]
+│   │   ├── conc-an.doc [51ea2ed3a29a3a7463da1c735a14fea13331f71296806b83081cecc8e98d3c75]
+│   │   ├── conc-an.dot [1386c6f140f783b13164e3f3e7d7ea51bc47f042f750d968f5922882ab32f240]
+│   │   ├── concptan.doc [c07a1480aaab6729a25abb6cb7585e8d571d62d4cc7fdc80ec6d5eee294d5976]
+│   │   ├── concptan.dot [29bd4ea21aa1538d9c5e52404d56325716463f0274f0bb1a9ef65ab88002e164]
 │   ├── ap
-│   │   └── virus.msword.concept.i.zip [0c117ee73c6c49f870b14a04b0bf1a873f91554224aa4bdffcef71aeefe02b34]
+│   │   ├── virus.msword.concept.i [316e6f9a48dd474bc1e7a0c0c3ddc8c65ed4e7ef57ca0816cf8131993c5881a9]
 │   ├── av
-│   │   ├── conc-av.doc.zip [e53cf0cada26f2452a1fb60b32bdf76fd64fea2fcee9ef84db21ecad0fad6e80]
-│   │   └── conc-av.dot.zip [69c84e67583832c0ff6935bc62fa71f9811717c1102371029b78979ffb02b17f]
+│   │   ├── conc-av.doc [f0a32b28694e1415cc3d0588c6feb8f5831df64b8cc9d1943367a71f5cd9bf73]
+│   │   ├── conc-av.dot [108f113136f37163e8f8f78a50a94a1c0f843327042958ead2be55829f238e01]
 │   ├── aw
-│   │   ├── concptbb.doc.zip [f08e18e18eb3837cb8bad796ca3073dd639258c7cf7feaba28e005d989eaadd9]
-│   │   └── concptbb.dot.zip [cd9d896188286d56736f583958f5db8e2ec26aed10c5eec4271e5e42f306c4ba]
+│   │   ├── concptbb.doc [341fe8f34d9501dad977c79f52f7d7b6453310e0185e7d653a34a7bee6fa3d5c]
+│   │   ├── concptbb.dot [744c4f7d0b359dc608f7568be4d7d24345c670cf0c651b3ba805fd348169ecac]
 │   ├── ax
-│   │   ├── conc-ax.doc.zip [e369c7a2e9111bec9d5998bf24c4e5301241feb89621d1c8ae840c1e93edc99b]
-│   │   └── conc-ax.dot.zip [2502e54a9e8e9cbe642486d2b50dd3c28b1e6dfc17c316958e49aa6def8ebae9]
+│   │   ├── conc-ax.doc [33cec939b192a84626c594d09d46f85cce20584796713287e6fdaf061a59ae5e]
+│   │   ├── conc-ax.dot [e07830835c2eedd144e77b510f4754133623246e47b85df2ea8de09fbba7219c]
 │   ├── az
-│   │   └── virus.msword.concept.ay.zip [7e82eaa6f31ff49400d52204c4f0f4bceca662ac40c3e9d310c48eef7bff8160]
+│   │   ├── virus.msword.concept.ay [52e1d7a457cc0dbff2a38fd8b39b5aa3aecd2730eac710411b2531ce0f351767]
 │   ├── b
-│   │   └── conc-fr.doc.zip [634f15b0966f1f9ee84a8869e103c253f953357195498c2cae3867b8c037e419]
+│   │   ├── conc-fr.doc [6becf990a0406addba066e0ea9cd65dfd9819712424e9575e0f97843ae9b2d08]
 │   ├── bb
-│   │   ├── dntc.doc.zip [8ca5b41594e63681e77750dd918fee0b3d1e81bad8c8ad8d29a756c5db50a9ca]
-│   │   └── dntc.dot.zip [45049110080204805a299e08987f857d6a6f92d6222104356cd76f925cf6bee9]
+│   │   ├── dntc.doc [f5d5d623803fd9f1c312ead73def18eb0a4215f4349ffb0c44cd0ffee19907ad]
+│   │   ├── dntc.dot [7fe0fa89833eba678f82b46925438a974b81a05ddf222924e90c385d95e201bc]
 │   ├── bb1
-│   │   ├── cncepbb1.doc.zip [802ec3450ff519e556972350277f04ba9e602162c8abba1380ba8d5d9dbb859b]
-│   │   └── cncepbb1.dot.zip [9c9e98f9bb0ca1cc52f09a0400a534b9bbacf8d9c2027d1cea8c31a5a92fc5ec]
+│   │   ├── cncepbb1.doc [ecd34d4968d1423657923252b2439276fa3deb61c0ed52845d47e691a85aa930]
+│   │   ├── cncepbb1.dot [33d8cc81d1e8c7bbaf7cafbfd81b03ed585f4d95b1f7c3448894c61e8d5e5d7c]
 │   ├── bd
-│   │   ├── conc-bd.doc.zip [28b0ba703201476c9c2a2e6b89493fafc3b6edc8e195a9c39d2d87fb2e762bed]
-│   │   └── conc-bd.dot.zip [b82db0164fa49f3fae815c91074269601be8b250f2cf24d8b89ddbfabc20c44b]
+│   │   ├── conc-bd.doc [8b5a9ff4f7964c8a926b6c6c874162726d8363111d72d760eebd27fa8ada4082]
+│   │   ├── conc-bd.dot [6304eb96b24c79ddb645e66c15ef4f3cabf0ca54540072cfddc7c9351e56538c]
 │   ├── be
-│   │   ├── conc-be.doc.zip [f4d492ee6145edcb074792f17587e55d08a3638ece0ca0b14a03b82a25143d5d]
-│   │   └── conc-be.dot.zip [ad202f8155e2e3706ca2764d7baf2db4f18f0f8f3d1d1abe591da8623d968915]
+│   │   ├── conc-be.doc [ce37e8c7f97748756e1ccecdf5be33b9063584749f77da9e80302b30284e88f5]
+│   │   ├── conc-be.dot [d5f04173be65dd01cdfad55b5ee2a5bd91fde5d4d6657d20f631163fb889bc48]
 │   ├── bf
-│   │   ├── conc-bf.doc.zip [7d432df0be9564aa33f9c984ef05137f999a382c6fe8316b68941539fbcf68c9]
-│   │   └── conc-bf.dot.zip [6da9b2e9a239c6f0afb4206cf3209e93f25ff9e4486733c5a4de36a5973d92a4]
+│   │   ├── conc-bf.doc [121376c6394d7e9c2b3abbe8b102eb30e431023b4d833a0bcbcf1ef2e547aa79]
+│   │   ├── conc-bf.dot [c40f12aea9cfa8267ee963f50eff345eae981d822b871d29daf8cd601920292e]
 │   ├── bg
-│   │   ├── conc-bg.doc.zip [e5d4e811218c7f1d069412c80ebe710b1145645ae899453d9f6deb26e369b2fa]
-│   │   └── conc-bg.dot.zip [32811bb30e4b377d4247f256a974e9fce260e3f4d3131b57864eb7727d71756d]
+│   │   ├── conc-bg.doc [7292667e1cd5e0fcae8eb801d592a4b577e0a7feb1e75a2ce7eb3c183f84bdb4]
+│   │   ├── conc-bg.dot [8cf97544cc2ecbdc2ec8aac9f4dfdb9df86bc9df421929dff41cfdeff571d619]
 │   ├── bk1
-│   │   ├── co-bk1_1.doc.zip [916ea69ef54e8f69dd795734930874caaaed76840117b7080e359eff34df58f8]
-│   │   └── co-bk1_5.dot.zip [a638e90d0eb928e94946f5683435bab781f8e9c771861e95af2651e64c63c0ff]
+│   │   ├── co-bk1_1.doc [77490f5c3be9afe18921ca1037520f372dd3292acd8915b647aefc6dfa7ef1bd]
+│   │   ├── co-bk1_5.dot [4bb658e4f5b55a08706545a35abbdd10b36be738f836b9a714278ffff4d2577d]
 │   ├── bl
-│   │   ├── con-bl_1.doc.zip [48ae2684bea3afa7e14fa0132336e92b932b080920331afb4f0c561615d64802]
-│   │   ├── con-bl_5.dot.zip [4ce419297e874289aada00ec4fdc5ada8c47b551b3bb2ea8b675e7ada9959cde]
-│   │   ├── conc-bl.doc.zip [6c59fcac9a5a3157c8cda57f66994681af71399cd4a8a60d8e2c9ef2ac750197]
-│   │   └── conc-bl.dot.zip [7fa1d422a6a7e04cac454f327fb7c0545f2fcdde3759dda75dd03ba3d5be5130]
+│   │   ├── con-bl_1.doc [8015a6c6edfe6fd2294abd632b5c8bcfd48b61bffc921783cbb360c5b21b09c7]
+│   │   ├── con-bl_5.dot [4fc21e3f9b3350d6805fc685bb20db9879666afde095b79a016ac495f06d716e]
+│   │   ├── conc-bl.doc [5cec99bcb309cef9fd1f3fe45ed93b1b693c27bbdff89c8d57f111e54d43908d]
+│   │   ├── conc-bl.dot [bc0cdbd8467b88bc5d02d64c2042836e47ea9b0da102d5d0ca2db1ae46d2bf69]
 │   ├── bn
-│   │   └── virus.msword.printer.zip [b527d988e01b117fb5147e661095835da0a7374f8a4ce2dc9b52b024530822bd]
+│   │   ├── virus.msword.printer [1f7dd0aa9a83857130a0767877ba678db6062601fe477f1dcab64f2b90109cd5]
 │   ├── bo
-│   │   ├── con-bo_1.doc.zip [5a48602bf6e6ad05623e0e2746e92cf4f22cdc3f74275e4727837cf895f12e16]
-│   │   ├── con-bo_5.dot.zip [a93a6ff9cb8aa9af2693ef721121473503b1a86cef65adc885db4625dd640869]
-│   │   ├── conc-bo.doc.zip [1dab2f3d788d57d1880b12a40345fa9e90cc75e9a4a7f351264e9557fbe3a979]
-│   │   └── conc-bo.dot.zip [c44626b4eea82c74fcf5d2ecad3c9be4efc160b56a2660b2cb938a0db46a2a1c]
+│   │   ├── con-bo_1.doc [a761b8558cc4d01503b1a362de83c4cfde113c049a33cda6b87715b0d9884284]
+│   │   ├── con-bo_5.dot [0ed2310b7ed0353139ad1c63bfd5bbaaceafa4195e43189e0992b0a3214186f1]
+│   │   ├── conc-bo.doc [8c59114a1405f2a71f9fc6a37537200ffcde20561461def3939abe7e7e0536cd]
+│   │   ├── conc-bo.dot [41bba1ea8c39f2f44331273294b584586d1a10982f847de913c71f47d4a85482]
 │   ├── bs
-│   │   ├── con-bs_1.doc.zip [85ab6ed6d10d71cca9db36faf4cbd778659c4530527baf6fc85f7e6f19c210bc]
-│   │   ├── con-bs_5.dot.zip [ced49d4e3c1f8b948025fb0086a158aaa25a4f9ad8ed6e6b72372f723a9e062c]
-│   │   ├── conc-bs.doc.zip [1753d81ae4d2a1b1bb51b70c9d06ac5976770ab7b0be1790dd38a1f59fe11621]
-│   │   ├── conc-bs.dot.zip [c67bb864739cc99a1f09072e9eaeb0ea2e76a4d8df08f12d1a043fbc05b28ae9]
-│   │   └── wmconcbs.dot.zip [9aa47c2d63f2109ef8aad706d2ed8fa135a2b5bddbe181fdc8cec9116f900803]
+│   │   ├── con-bs_1.doc [e0658899b43b1db094ec36f0b20ba0c2c9c9eead42d973c1f27c61f5767c6f8b]
+│   │   ├── con-bs_5.dot [7d0f0f2ad2c9bde0ba65524619a69665843139b75a7ed9d8f490b7d2ae3145d4]
+│   │   ├── conc-bs.doc [27c8f79ee44b96a7c2da78127a6405620b9d3c04aa6a9511fe9973649ba3dc7d]
+│   │   ├── conc-bs.dot [5877c761eaf5f2bacbc9536b9d5eb09e0d847e068f530929ab7511b1f7242b12]
+│   │   ├── wmconcbs.dot [5aa43db5de2ad4b6350a7bc8b922682407ee40a9a5409858c9e607aa04a650c6]
 │   ├── bx
-│   │   ├── con-bx.doc.zip [a0bd592e9dcfe161b28bbc4fed368c99fca432edef6ac93d1dcd521588e9c7f5]
-│   │   └── con-bx.dot.zip [856b6ca6fb3fa96c41262be7b5c48a8d66de71595add570c9929a65dda5e1d75]
+│   │   ├── con-bx.doc [a95b1e069e0cc3817f834a494e81cc7300d00bbaaa8447137ad1695bcf6bcdc2]
+│   │   ├── con-bx.dot [595b9a1663f205efc31f46fb37e3ece232b2cc639ad16b3a45522ea618dd2e3c]
 │   ├── bz
-│   │   └── virus.msword.concept.bz.zip [576c19cd4bd72c3873804644d25f7d3db6afd54553e682d63fbd8c89179c96f9]
+│   │   ├── virus.msword.concept.bz [9b985436c743730aab2965611209a909977e5fb4bf39bc9f2f192ecb185b98b4]
 │   ├── c
-│   │   └── conc-c.doc.zip [ea237ecef1877c49947793aaf6ac3f086e491530e9ffbee9f0abc88fa681e28f]
+│   │   ├── conc-c.doc [ce5f888f1545616cb9b1f238eb0e9aacd11fec9f42e16a35c535f4cee0266200]
 │   ├── ca
-│   │   └── virus.msword.concept.ca.zip [f97e0c23661f979766cb5348cc77f31efe53eb691534e19d6ef40c9cb7b20e91]
+│   │   ├── virus.msword.concept.ca [707ea21654c995820cae38300bccee4172129741203b6a56d6674589e9a30935]
 │   ├── cb
-│   │   └── virus.msword.concept.cb.zip [4fa96e7cb85f55b11a8ec5c1b6eac07f0a2e25fbbbb97a24e8e676a0c71cf799]
+│   │   ├── virus.msword.concept.cb [632fcee1b3067f054225dc8d2387fdaf4227f34c38468c029010ee79d205f1fe]
 │   ├── ce
-│   │   ├── conceptx.doc.zip [f7aeefb3694c8b0c36eb114369ec4cbe16a37267ece4866cc4a0736d9ef80bea]
-│   │   └── conceptx.dot.zip [4b5c6533f398f5fcc201e9100714ce2f8556d4c94440a38152463b09cead63ad]
+│   │   ├── conceptx.doc [2f4c5e6c94acf1c1f8bbda74580ab5ddb26e905ae618b128a94e95db7f9b11e0]
+│   │   ├── conceptx.dot [015293cc249e6e65760ff67e99bd4b71a92cf9da6c2734b94908bafbc85772ce]
 │   ├── cf
-│   │   ├── lorax.doc.zip [5bce125168f2f389563cd85475e9b46a622d8c1b69fbed492df3b0f61591b71e]
-│   │   └── lorax.dot.zip [b3ac5be59de5b2cdcefc6253fe78073977476f8c298f6a6079070883775dd3da]
+│   │   ├── lorax.doc [2a9104c2b63f72fa7fb4c9c254ad4f75d7c143f86b08049b74cacdf97b4a188c]
+│   │   ├── lorax.dot [12781d39b6fb48ec9885876a4932836eb5bb19ecb02190e1596f4dae56310054]
 │   ├── ch
-│   │   └── virus.msword.concept.ch.zip [2decd9106fa2940921658b77e38370c3aa584c875dc98f795d31b833b4c3c819]
+│   │   ├── virus.msword.concept.ch [b4ac152bf0f24a5e0c4920686b0e3f7df571398fe9456ea8601029c6da364226]
 │   ├── cj
-│   │   └── virus.msword.concept.cj.zip [0f90f9c3408442b02ab583744df42f83a6cc2f05e401c375ec35bfdd2c988cc0]
+│   │   ├── virus.msword.concept.cj [515fbbeb51ed366f35b6b24b7ea462a54b30b189a6764155d54cf0fd2063b52f]
 │   ├── cm
-│   │   └── virus.msword.tanggal.zip [773351a389782aabdcbcca931a774e8953d400b7e05f5807994fc8e507c72e9f]
+│   │   ├── virus.msword.tanggal [0ca3fc0f618d7259073534989307c868a3b2a796d72d69b19e2aaedf012b83bd]
 │   ├── d
-│   │   ├── conceptd.dot.zip [44f8c81e7d3e401d92b7b63d3ebe6cc65bc33d87b9b736ea166ba6eea8f78e0f]
-│   │   ├── litlrock.doc.zip [d23d58ff62458d84bb8ab25af812f88cfd13909fc8329e7b3b89fee0b40dbf45]
-│   │   ├── vmacro.doc.zip [713032d4e74b8459d60aa86210e72b9ab6f0a2539a0b645cca4996391cf615d4]
-│   │   └── vmacro.dot.zip [de7fb7dc623ce870940401ea8ddfba0e8bcfae6d0299325924f91951ecbdeb24]
+│   │   ├── conceptd.dot [965bf236095b01c037382a1ded1821b98d662ec04fef6402003ab9cb0b669617]
+│   │   ├── litlrock.doc [adf8d80ee83d7d7ff91fe889efb49123634e116c3dfb5e1717b6fca4780e3247]
+│   │   ├── vmacro.doc [78f2d99365d13553c89c5514d7009e4bfd30134be35aab33ddf24ea089fd8ae5]
+│   │   ├── vmacro.dot [f6ad70c82522f7862fb44e8f0adcf0987de20a18d3cc63527a9dc65aea05ab79]
 │   ├── de
-│   │   └── virus.msword.concept.de.zip [e3d2e2bb0bbe486fb9c4434287203104b73c6390afae519b4f7e51e0c7861cb3]
+│   │   ├── virus.msword.concept.de [02721c01692e68d350474742b7db018a59d3c19dceb455c5ed57b055e26605f9]
 │   ├── df
-│   │   └── virus.msword.concept.df.zip [b4ee0f75b0c7eea7836d5c203d382ca2c0c17eff3c0b3ee748ba469908cc50f3]
+│   │   ├── virus.msword.concept.df [b9ba4da9026369829756a36113c054f780e36116066a7f392dcd245e790cbc61]
 │   ├── dr
-│   │   └── virus.msword.concept.e.1.zip [fe5e45ca7c5a2942880153a49783c75bff2b417c0afcd403db235b78d32e252a]
+│   │   ├── virus.msword.concept.e.1 [f67e71592cfd08a1d7960d0bcb144031a336ae4e5ae20b53a49b950b18e6e908]
 │   ├── e
-│   │   └── conc-e.doc.zip [685b19cc9666db384669f499c5c479261725810248b40e8e597c6b7f55ee05e6]
+│   │   ├── conc-e.doc [e3845f4f4b88ff02c90592ebc4824d4a8b74f5c94ec6d3a6382add12341b1d0c]
 │   ├── f
-│   │   ├── conc-f.doc.zip [a2de4dcfeea101b27d8bdaa030827eddcd310438dc3a13fb8924eaf1d0084042]
-│   │   └── wci05793.doc.zip [614ac215bb3c4619c3589e57a42d811a8d7dc3d75e5998cd7b77d1bcdc5a0ab3]
+│   │   ├── conc-f.doc [640016d345bb03220e6dc3f68228fe744ff830cc80dbed4c9430b23d1afa0732]
+│   │   ├── wci05793.doc [9c9c3ef66727e56ca617f670754fd6addcd7a6e9e729abbb7f7d7eca98f9eacd]
 │   ├── g
-│   │   └── conc-g.doc.zip [239b2c758ee16fc6968fbd73a778247a84e400e7edd360ff8fbdb4e245a3cfdb]
+│   │   ├── conc-g.doc [fd6bf2bf59d85c6be19649b83ae8e5e9e776369293a9ef7e67f00f7af725c7fd]
 │   ├── h
-│   │   └── serials.doc.zip [888e9fd61113babdf8de3cc690024084b115e3101ce3c73542a8ee3f5edf7fad]
+│   │   ├── serials.doc [459acc3abcbf665cfdc7020ee255cc9a3f7a94d9311b2975636d96bdb9083444]
 │   ├── i
-│   │   └── conc-i.doc.zip [1533a467339cb4e7a16b0a849da07f8489a465cec54c1ac2a9ea75f60f78f9e6]
+│   │   ├── conc-i.doc [39f9808f8459259076ecec502e0cf2acf496299d0d2224da483cc92743ad2514]
 │   ├── j
-│   │   └── conc-j.doc.zip [2d233919aa807a761bb26167e7b95b7ffcef6d0a8b88ee0a0ceb8d6556adf68c]
+│   │   ├── conc-j.doc [2f7e536020e07d986644b61a5bf51d75af7782b5cb9994120572c414508d8b21]
 │   ├── k
-│   │   └── pheeew.doc.zip [c4333350e9b0b931127bbf8513ca25b4e11376b27cbc078bbbf5de65227f7542]
+│   │   ├── pheeew.doc [054a0972b34b4438836fae9cda3ab707761303ce882b5dbc7d0bcf96caa3a089]
 │   ├── l
-│   │   ├── conc_l.doc.zip [39115d1546205f60ffdd165881375b54b86c565c81d5220e245939cd31526b2c]
-│   │   └── conceptl.doc.zip [be364b7f1e04a49bdaa93d998e586d7bc4fcd7543359b5a8dced319d3a39023d]
+│   │   ├── conc_l.doc [607831aad0a683dba0f0018e7cde3c68b5c98fe215dfbd01370ffa64a048e954]
+│   │   ├── conceptl.doc [68e72883cc3e7fc13ddfcb8b65fd56efbafcd07a629dce9781936de0b17b3511]
 │   ├── m
-│   │   ├── conc-m.doc.zip [46ccc6349a24157caf69a57289164efa63ccf962e822dbad18bc87dbb7b0b092]
-│   │   └── conceptm.doc.zip [171d20e9ae10492da4ff61c5efc2c1557768f20aa2de3c0b273ed77c4dd7464f]
+│   │   ├── conc-m.doc [49f5b8b28ef310b38a02b52ed4929460135bdc8fbfb9050bc8a9b36f98a17421]
+│   │   ├── conceptm.doc [e72fbf54f787b321a0431ba6da5c195bc96fe81769aaaded7c28fa4c375c292f]
 │   ├── n
-│   │   └── conc-n.doc.zip [23f2475f4faf48e47771772552d6716e5b0b53876a789dc6bcc7c4d8154ed879]
+│   │   ├── conc-n.doc [7de6c907d0b47649afb2656a8fe6a3a3636b3d0b6872d9ee825614baf6063cd6]
 │   ├── o
-│   │   ├── concept-o.do.zip [486c8a967eb790c07075907fba03e2d7bdf5230bfce1be054e9bd66c7d469a14]
-│   │   └── concept-o.doc.zip [e792671d8baedc8b3e8395f21cd0e1c1aedc3ed0145e2a7f34e043ca88b326df]
+│   │   ├── concept-o.do [69f9fc483d5944f8bf49ae3a1c7f5e6c0cb65a2b106e76742589c71abfdeb34e]
+│   │   ├── concept-o.doc [3ddcc85f6e343b6bc3a65a056c9f573b2f0956f4e227aabbfff621bb5a28c0fb]
 │   ├── p
-│   │   └── concept-p.oc.zip [44571f40dc5a963663c031ff99a66f607345cb939d469e85e5b017992f1eca02]
+│   │   ├── concept-p.oc [cd6258f4d8981dba7f4fae64f4601e71b09cc1fb2a7ba830fc06b73d352f9c71]
 │   ├── q
-│   │   ├── concept-q.do.zip [eab8b478d6df86839869587efa7d66ba8fe01bba4b19c0a0f4190c5d543b7134]
-│   │   └── concept-q.doc.zip [9250c4b98fdb225bb9c8335146687b089c45eedff9d6a009b4f95257b26ccae3]
+│   │   ├── concept-q.do [4ffdafe793d7b09218501483073227c221acb1cb7a3f57b1ba603c289db7e5f6]
+│   │   ├── concept-q.doc [4df6ab03ba7c665387a644b7fdd07c3b5ab79f8706a9d8e2a3b73fd31949f7e5]
 │   ├── r
-│   │   └── conc-r.doc.zip [8c8bb3d5c143b1571eab92d1f19486dc5bf6681522b0ce00bb317e9086cf4d26]
+│   │   ├── conc-r.doc [d1e31d54fef9db7501606c6f5bb0eb83e28e40cac0918881be79739ff643c972]
 │   ├── s
-│   │   └── concepts.doc.zip [302f6765d46f227071c05cff166c2b0f988e6a5190cd81fc9c85d242419eda93]
+│   │   ├── concepts.doc [df7409e284e6a62f07d790e9c4a436b7217a842983c1c1aea93a9cb77fc64f29]
 │   ├── t
-│   │   └── parntenc.dot.zip [bf320ed304b9f073e0c8aa833f9e06a4b1c75e59b622c0c9349e535cbb6d89e9]
+│   │   ├── parntenc.dot [dcc758985b38ba15ac3938c6484a6730125c30085802de43cb65350af7672427]
 │   ├── u
-│   │   └── para_enc.doc.zip [cadac08ede2b1ee1ee53d9781bf09bcc5df9fdb7f75feac7194487a030e56c30]
+│   │   ├── para_enc.doc [e363fb705680eb1e729160166ef23dcc50a620a4161dade028c5d956f23546dd]
 │   ├── v
-│   │   └── virus.msword.concept.v.zip [eca493469245f8723ef40cf8cf17d3102c8edeb9b52ffc857dd92a3ed2fdcdfe]
+│   │   ├── virus.msword.concept.v [2a7465933888522fba42f3314c4c1c86667c7966af3307cfd177e5d18564a75c]
 │   ├── w
-│   │   └── temple.doc.zip [adfd1fbabdb7c3336609c1ce4c786e52a53e51d1c458400899d650653ba18140]
+│   │   ├── temple.doc [10e39ba89241a829fc99d05d46718ce61bf48283b6ba49ef111aa7f0f7c81a36]
 │   ├── x
-│   │   └── conceptx.dot.zip [0274ad5813c49237ba5a1b752e546a9e7f2b59f38516500eef7a33357224a5b5]
+│   │   ├── conceptx.dot [5f3d1d4dbcb5b3a3cc7fd2c8bb0d46c93ae95283c4a75bd3081e8936558b9dd5]
 │   ├── y
-│   │   ├── conc-y0.do.zip [7f77ad7e3d119855af866b5f69191bc43eab3c9b5ee4e2b5762cf146cff33177]
-│   │   ├── conc-y1.do.zip [1715f2ec838bd4af3f56b5568ec1f78a94e3dc648ceaebca62a2f89c75d732ac]
-│   │   ├── conc-y2.do.zip [babf91974a8ed0fd271a26096dda3d33e27c6c361058f6d66fcc9aa1aeb0e838]
-│   │   ├── conc-y3.do.zip [ee75dc18b8b27c32ae5b45c335d544009392df7722dabf25371c414c6c9c0030]
-│   │   ├── conc-y4.do.zip [f3bfd20fb1da7a755fa419d4a960c043e2bbf3cca32b36d7cf41c4b14501444e]
-│   │   └── conc-y5.do.zip [6f67a900d96018afbc50b3c323250c5f602418c9b0d8ec96df8aa0d79b8700dc]
+│   │   ├── conc-y0.do [52cef38ae55999fc2747bb0012fe70f92d637450d53f6296066faa1167147fb6]
+│   │   ├── conc-y1.do [8205804f1601eb995d8c3df572d3165467d039faf3697e4f2715ef2726b7ced8]
+│   │   ├── conc-y2.do [b0c8021db9b8dce01719bbfb5d1ec40f802b1264e941b15e4da46e147e16ec05]
+│   │   ├── conc-y3.do [bb06172056192529e1a61ae3af3d2a7b468ba43c470d92c139e438367d49bb2a]
+│   │   ├── conc-y4.do [e466d4c540aec52b4a1208fdb96c7a6c847adb5b1d1f66781d05e5c5fb8b4662]
+│   │   ├── conc-y5.do [f6f8492fc797465b201a026a3ea1b0114a8ebd32900df3c6f54f5b70624c64af]
 │   └── z
-│       ├── conc-z0.do.zip [c02cb09cdf3c48266b4aeff7e382c226b0c616fb604f1eb9b8aa04b9eaea186a]
-│       ├── conc-z1.do.zip [7065e43757074db07f1791cdd18a9f4d12daebfdc82804b9334bbcd23ad1c917]
-│       └── conc-z2.do.zip [e9a01cfd3978c0e403f7e5d7a20d9415ef93abb783dfe39ce87b1c149f8c7ddd]
+│       ├── conc-z0.do [4fcb59ef4ad3281d5a5a195815c03552c50a7b4b131e1e386cccaf70f1b12743]
+│       ├── conc-z1.do [59ed978cee0ed032a72057c35bc0ce5726d57123d786719d84c006bf0d8291be]
+│       ├── conc-z2.do [da3970ea0e47fc7d84f02ff2f091262be8eb5894e719e0b3b179ae684bee00b0]
 ├── copyauto
 │   └── a
-│       └── virus.msword.copyauto.zip [b447a0007165daccd302da6e80455d3af22c4be0e2c960b93cfd809b24f7cd3d]
+│       ├── virus.msword.copyauto [ed702fffac2cca04edb30251df12b7a872f41b8c1f319832ea73ed6ddc812ee3]
 ├── copycap
 │   └── e
-│       └── virus.msword.cap.ep.zip [ea56c446eb1c8a9f5c748b4db1f74a3bb252f4677feab62317ecd06e68dc56c0]
+│       ├── virus.msword.cap.ep [c3f8d9d93223f88b89c4c08a06bbba891fd0f64a6821a5385eb1f75b558a3380]
 ├── counter
 │   ├── a
-│   │   ├── coun-a_1.doc.zip [5e2db0a9d805f27d32758d829295c127fe1dfe7b94a3e6cf8e487a74609d17d2]
-│   │   ├── coun-a_5.dot.zip [e4b065963ae4377e34083f4b534df486ffd9a11d1bcb503fddd9b7361d2f60b6]
-│   │   ├── counte-a.doc.zip [f7ede196e98e389dbee13817b83ad0340dc02787ad52eaa1993cad939f9b5850]
-│   │   └── counte-a.dot.zip [d913c46879572034c0ea988ce7846750cf92782cd9306822309871b6c18a42e6]
+│   │   ├── coun-a_1.doc [2666b661cb5f69643ccc90f28f622405bef41805911f57d3845e897b4efbf30a]
+│   │   ├── coun-a_5.dot [4288b29799c19a91fe783bb7fd27b239261ecb78ba952e18489b17f279bd3b68]
+│   │   ├── counte-a.doc [9336219dbcb9893b348405f0d1dbcf4e7baf2a2ded817966864058ffb89fe84f]
+│   │   ├── counte-a.dot [3367e021ff909e9539b85005d5c558bae33c992738ebc002e630b02374faa6f8]
 │   └── c
-│       └── virus.msword.counter.zip [986e1b43c65710cf1d8bfb1b59852ccf012056562962c88c8408dd93a1dab0ba]
+│       ├── virus.msword.counter [19cfa6bf504fb415f896115dcf429361719e3774407062656a44badb52ffe7b6]
 ├── countten
 │   ├── a
-│   │   └── countten.doc.zip [9ec7ee37c1f358d5b6c61cf4177753dac196f0775cc781d2d1a875054c08dc49]
+│   │   ├── countten.doc [236b0e433a9d516d652263f450f1dc1b1373c91d317959f9790c06d02df3cb2e]
 │   ├── b
-│   │   ├── cnt10b_2.doc.zip [f0a7fe828c02a349e0cd6e49fa502f3250200fc2d958fc791513d7aab432bf8c]
-│   │   └── cnt10b_4.dot.zip [4165404b0e032a56948aed4ace8380bb5acaea5f9678f1d891c17f7020dc67d8]
+│   │   ├── cnt10b_2.doc [07bf3ae6724e7874f65ac1a877448a48991e50c63c399d8768a99d525d3ac1cb]
+│   │   ├── cnt10b_4.dot [6048dfeae7e839bc947ef6abc3585e85a39bfb95eceef0f78b38dd6eae617f1f]
 │   └── e
-│       ├── savecntb.doc.zip [fe0f4d8523e6fab33a80adea55234f1067f7da638271d6138ddb0f35228b3191]
-│       └── savecntb.dot.zip [606680c486cbd7c3a05ba9cb88eb3a6dfcb044ce10bf4ab51696b9a9387c669d]
+│       ├── savecntb.doc [3f3a1eaa859780b9ffec75bbb9b3f03e328b371d72dfb3c7baade9304825e89d]
+│       ├── savecntb.dot [8ad8bcdadaaa3fdd17118c037d7c8715f35951d6134eff3101fc7b9d2788cf8f]
 ├── crema
 │   └── a
-│       ├── crem-a_1.doc.zip [03fe02fb327c19685adb7bc45b4d76cba4df3b6ddd5ff89ca5a7e2fa91cb2905]
-│       ├── crem-a_5.dot.zip [3358b74e02085a4dfab1e0d93187592871133722d2e06b536b18b9fbee6ffc3d]
-│       ├── crema-a.doc.zip [737c5ca1fd7366cdc4092cbeefa88ed62fab3c36ecc2569bbec1f2b50ab9e678]
-│       ├── crema-a.dot.zip [64bf0d57ecb639157d6c60310a49a9fdc2cb996b1702b08ece49e1999ab1b109]
-│       └── wmcremaa.doc.zip [5bf9818dd9fb6c6c4544690943eead7a55d48c67df898fc26bae6491c4878c48]
+│       ├── crem-a_1.doc [ce448b387e8f515d2f906355239dfbc7c796aab1fabb5e9f954c86e5e585e2d8]
+│       ├── crem-a_5.dot [68ff35b4db2efc5dc997c1aa8310567aa5f6d304fd8f850844158e67fd3de69d]
+│       ├── crema-a.doc [8ea1a2864f13dc8c33766a77bcd7e9e82e34d025115aadd92d5eb7ddfcc75345]
+│       ├── crema-a.dot [951041f31eafb61d7935a526709e8b957612beca68c9b10efd4d7f7676b42dba]
+│       ├── wmcremaa.doc [9abada29cc3e8c8d9094eacc2586def44a1c8bc1582aca3f42090d0a382c0b82]
 ├── crow
 │   └── a
-│       └── virus.msword.crow.zip [5bfe5c804fc6a8a81615cbc109575d1b300c6a4ad7f0c846e76755f6f0dd0c21]
+│       ├── virus.msword.crow [6491ecd170e5fdd58bfe5ca90d7fef208b3645a2f6ace5c22a7d9d73120c6c9e]
 ├── cs
 │   └── a
-│       └── virus.msword.stealph.zip [c923b3cb5911ebe981b5abe31d183292230b1d251fcfb6352622d67f60bbbf92]
+│       ├── virus.msword.stealph [8729bbbd501b1f1f8f538ccf4336361e26b3bbe273bcd9d197d4dfe28fe99248]
 ├── cult
 │   └── a
-│       └── cult.doc.zip [7fe56d30be8032960bb9d91ca6d3515f697574064cfb01dbe94d8ff472bb9dc0]
+│       ├── cult.doc [963ab68cb9ac3c9c6f3c4ca47251d3ad6336d12718bc5b1e05230798e4f380ba]
 ├── cvck1
 │   ├── a
-│   │   └── chicken.doc.zip [dfeec071e214d0395eb22d591c47d10a9b5066fb0407dcd7d6e250168ede78f5]
+│   │   ├── chicken.doc [d57c0a2fe511205cbbef87891aacf3af1dee588b9406dac5e843015878774e92]
 │   ├── b
-│   │   ├── cvck-1b.doc.zip [e44133af212752c00207ad91ee520a78d12ba2a581d690be35d8654078dba3af]
-│   │   ├── cvck-1b.dot.zip [1d688ce089281a92e140b2836c31ce395626f34eaa5457530c31cdd30831c417]
-│   │   └── foxz.doc.zip [9d76c7e2fe7c4d7971a139984116d944125d539a8bb2af60de6fb7ec660d9f38]
+│   │   ├── cvck-1b.doc [2b5a7392909cb099dab4ff37444ddaa5d85b31a922a3feb31e36edd40d9ca126]
+│   │   ├── cvck-1b.dot [43386dffc773dadd03ba11c5823109064b7305fd8d24a4572c88b505f4c35b6f]
+│   │   ├── foxz.doc [bf4c96169437ab8c1fd2f3e562c0084ca544e890f445fc6a2a6ae96e123c65e3]
 │   ├── c
-│   │   └── vampire.doc.zip [b8c3b0870d323b20bd68ec3b0634043cd63ce2ddddb2292fd78eca7ddbcb8c7f]
+│   │   ├── vampire.doc [49759294bd3506c09321b01ad96676525a588de5dba06c82179791bf7e42827a]
 │   ├── d
-│   │   └── visit.doc.zip [75b08f0859addd569f5bc692a7f6b255c6848476c61960c2a76e5435d0da2f5a]
+│   │   ├── visit.doc [651327f3d24d9a89f391fc028bb86f1f4a49e0de752b98e58e9e69319d45ccb2]
 │   ├── e
-│   │   └── foxz.doc.zip [99c7107a846d6f3419f69dd033ab25b5325d239198b9d6c8d6f5c8329db13435]
+│   │   ├── foxz.doc [1d11ed76145f21a9fdc01065b686a01105a4edce32ce8770eccf3f0da8def350]
 │   ├── f
-│   │   └── constructor.msword.cvck.zip [73ad17525083d8902d5e22a332d6bdfd54588ddc9957cf60a73a264b3357f64f]
+│   │   ├── constructor.msword.cvck [098cf670a1945daab1a9cebb3bcf9d398c7e4192cab4cbab086045856b425164]
 │   ├── i
-│   │   └── chick.doc.zip [317b1f8c9a807104b83431f3f8cdeaae99944db1131c4f16f6d7eb5cdacaa37e]
+│   │   ├── chick.doc [bb54f040bace06860137023a39747c13a078ab7be490eaf1e1c9843494286582]
 │   ├── k
-│   │   └── virus.msword.cvck1.k.zip [75447e3dd49a5796e507f9a2925a8c75313abe8143cf7c27a0f43fad48237c9a]
+│   │   ├── virus.msword.cvck1.k [d7401a37551a8482f1199bcd5f66f6f3a3e3e487208b436107bdf2c10eb9aef2]
 │   └── kit
-│       ├── cvck01b.dot.zip [5c8f335ee91ee6c9d0612a917128ec375e9eb72d3536f226b31f01b0607c9412]
-│       ├── readme.1st.zip [213f3463614f9095d8ddecffba03d29132f87fd40e1cd49a09003bdeca01e849]
-│       └── readme.doc.zip [e713405e40def96936342f21d6b026810909314627e3995e1e8bc0e479fc8276]
+│       ├── cvck01b.dot [ea5717033ad93d83035a2f1d013cf56f73ffef93bab1fd619d0a4694593b0cbd]
+│       ├── readme.1st [21d068a7fa95ebaa51057d5c83ab6cce610d32cb46bb6e1fde3ff039759e532f]
+│       ├── readme.doc [966618df7e5870cf94d6bc02ea8d58293e811d1f21b4e20a5f09635b2be232a8]
 ├── czech
 │   └── a
-│       ├── wmczecha.doc.zip [0344cc99d89da37aa32a78f4180fc49f49afe0d6d75ae802e847d9adb9ab98b0]
-│       └── wmczecha.dot.zip [f52e76d71453e75a0aa3d827ddb29b0e875c99d9a9f3435f7e2a5b54febebd11]
+│       ├── wmczecha.doc [495c0ae246c033a59fff767501b2009f1d159dc92fa7156a3ac9680980c3fafe]
+│       ├── wmczecha.dot [54816cf14d38c9445e1582fb3e8504821f48ca6dc03b96664c6fa47006ea9efb]
 ├── dakota
 │   └── a
-│       ├── dak.doc.zip [b0f0bdfced0a0b57cd3facd8993fa2fe37653116626861dec16d83ece0e2ff82]
-│       ├── dakotad.doc.zip [09944ef20e51e83604de5c55f15298f36a5ce9e7441ccf769e1f343a536e5567]
-│       ├── dakotae.doc.zip [b3be87c6d0ccfcacd85edee7803528fa7e571ddaff846489d73f1a0ad92afb3a]
-│       └── wmdakota.doc.zip [cfe4648c21fb11bfd14cf7f6b1a04e348e8e00455598d7981536a68537c9e4d8]
+│       ├── dak.doc [4b9d54a27b22931b299a84807ae3e8d769df4f6b45ad60da4bf4cab4489ad93c]
+│       ├── dakotad.doc [054f2ebe9b36585567cbad2bd652b1186b92196ae4bde5d77b13c224e5f68dbc]
+│       ├── dakotae.doc [46594c6b8d966278d8bc756e3f300ed0525846039c61e7babde3d09613f92f69]
+│       ├── wmdakota.doc [8b6a4ad157ce594f7f0e03824ab61d532c63b05674b2c6d8ca5e5bc6c2e94f9a]
 ├── dance
 │   └── a
-│       ├── boogie.doc.zip [358097f07bfca9c1b17eafe3caf81527b53337681634c619a438b70a0ffe0959]
-│       ├── dance-a.doc.zip [cc6627929fb8cf11bca86fbf511e167cbcae2276cc06425951cd6033e995ecda]
-│       └── dance-a.dot.zip [057890484f96013f9e44b9341f76121db605451a02a223f150f15cdeab54a873]
+│       ├── boogie.doc [e014d691d8128bfe5723cfa21a3f3d7655e06e7f77099fcf232566d1ea7b2a9d]
+│       ├── dance-a.doc [b9035c57585af5ba8eb169b8da76ca5d2d7953240680046d9c34de333827d602]
+│       ├── dance-a.dot [ba8dc4de7728835f313a6d971a2a645b61dd85be313c0b13bb8303a92887c8ee]
 ├── daniel
 │   ├── a
-│   │   └── daniela.doc.zip [ac7fdfc5f4588e378792e64d68a482163f0a9bce9c5b14f455709af39150e1a8]
+│   │   ├── daniela.doc [5968ff62c411b4cd58c501fdc0030637ebcd31d9cfb2d5bda5da641d0ebdf443]
 │   ├── b
-│   │   ├── daniel.dot.zip [fec1fb5a5ba70842401820f4170715dab284c6cb544f24dcddf06fa75b638966]
-│   │   └── daniel_d.doc.zip [98ace34b6e555018a7e768a78612d017dd08c5ec4a68357e4addfa489a24970f]
+│   │   ├── daniel.dot [fb1d48667ce40d2bfe80db3e38aac53c3c77801ab2d3abb88a7da03c30b594aa]
+│   │   ├── daniel_d.doc [ffb7e04a03351125e45f60a81dc922219d66f02499e8329d1e9ed9da9d6b0c9d]
 │   └── c
-│       ├── dani-c_2.doc.zip [e3383070c6c5204ea3065ffc5b49111884c2984b5d09df895cfb57d7e5f7c7c0]
-│       └── dani-c_4.dot.zip [f4e183f828d8018ead236cffdc56309fb391b568d389e7681df5c2d1af71f730]
+│       ├── dani-c_2.doc [bb4f0f594eb80863c961dd49c86d5e4a1631a1a02902d9bb0c9a5c2d3edb894b]
+│       ├── dani-c_4.dot [7a1688e284d63ccfd8892c106910d381c1f4b08be24057fa9053c805a15cd318]
 ├── dark
 │   ├── a
-│   │   └── darkinfo.dot.zip [8dcd9511d906a75477f0ba2bdc9a774e25fb8a89e05f4570fbdfcf37f7774eaf]
+│   │   ├── darkinfo.dot [334a478918491af622214d2e659bc63e8f475ec52867ec94ebe29ad4d44fd994]
 │   ├── b
-│   │   └── back!!.doc.zip [42456377fc6e06cfed41c440ff794a700da3e28051b9ef150471f45bfcfdfcd6]
 │   ├── c
-│   │   └── darksd1c.doc.zip [41bdfc3d4b81433601a3941efba8f77c22c941589ec7a6ce38bcd0304dd2ec8f]
+│   │   ├── darksd1c.doc [d7fe1c6e7fa0c9ff9939585c27fccb2d7f61b8d1f0464d20126a36e332d81720]
 │   ├── d
-│   │   ├── hills.doc.zip [98351dd165ebdaa4b452bd06ab6770f61497fdd6c10ded75f22159899ce9253a]
-│   │   ├── lithium.doc.zip [2405bd27ee0b0ddb1c277f5d1c76ea65c8561c417a18c42991e66d304c0a5b3f]
-│   │   └── spreadme.doc.zip [d8f6b98d7ce94275d5bba56a6e5dd77aa4b89f5ad75cf012ae8e5c9010044a9e]
+│   │   ├── hills.doc [c3e0c14cd901265dd0468b025edef94423d4432adabe0a85b497a9cd105b1ee2]
+│   │   ├── lithium.doc [ff54e2d55504fdd466bd5ff8a91ee1cff5f241383e3deb9f99e4f4f832a7fbc7]
+│   │   ├── spreadme.doc [c0925b8a953ed668c62aed50b352a4e3f23d2844525e92b2382fede3cd5ee4fc]
 │   └── e
-│       ├── dark-e.doc.zip [7defd326ddcec1efd459a9421e4ad3befaaa35f158b04079b5dbc0f79c2d0be3]
-│       ├── dark-e.dot.zip [1a11eacad9a3fb2fb5d10b650b9b717f46555b4386d9223d0a36aa48969e9dd3]
-│       └── moss.doc.zip [bb66eb5339be9cbd5ebca10c97a4c6a0d809889476dfebd7a4955c6972a8245c]
+│       ├── dark-e.doc [87d43ab30994f5012f64edff75c61d3d786ffd2cbf12acb2a2d67e12b582d53b]
+│       ├── dark-e.dot [3892910d3f84a3131fd445110437ba3b48b0ebdfa1236c4109e072cd0014109e]
+│       ├── moss.doc [44c0937cfbb4fcfb0a88306f98af435f028fb9aa20a0061ca409bf9ad0e9c100]
 ├── date
 │   ├── a
-│   │   ├── date.doc.zip [355f52fd1eb43b1a346ea6f705d5c69e0bd53c6711d40cd2a2b5debffeb5046f]
-│   │   └── date_d.doc.zip [f45f056f709ceaef0bfab1fd12722627ee8dc0290b9b530d0d0ffe0d3ba91617]
+│   │   ├── date.doc [952e0506762fee974f6334172770670a8ff32ecf51c4dd2830a3edfd57de8034]
+│   │   ├── date_d.doc [043d5965b31f30ab021cbd3ac5a5f6917a54d7675ea5b0656a16c444439d47e5]
 │   ├── b
-│   │   ├── date-b_2.doc.zip [d1c72b94bdc77364b6bacd4d74f0ed8f420bb32370170f3b4e4200266fbb24e1]
-│   │   └── date-b_4.dot.zip [03c797386b1c3de871b12bbd2b4c361ccb6e2c65fba3c514ecbbe4f86551100a]
+│   │   ├── date-b_2.doc [137d8bfac4e1c55b350d4781580f71fcf7da452b85e5f6fb5cbde104227d2ea1]
+│   │   ├── date-b_4.dot [d51cfae6f222b5f3294a7900504c25ce8eb3fd2c42fd8842dc91d94a19f1e04c]
 │   ├── c
-│   │   ├── date-c.dot.zip [5b8c2b546acae42b4df7989a2b65252c154de99f8ae665135a36c07bffaa6fec]
-│   │   ├── date-c_1.doc.zip [35c902167e3b5c0289ceed385fc8256db47ad0bf065527142204473581de4586]
-│   │   └── date-c_5.dot.zip [4ed0c920122cb50cd6fdba4cf971153fa2dd1942bec7f44d66591c99e6d21206]
+│   │   ├── date-c.dot [9ff91e8b0ccc8448b756a993d9c85495162f012c9bc8af7a4a92ca3139591411]
+│   │   ├── date-c_1.doc [6bfe98629c5d2dc4e0b7df9e87d3f1cd3f6965f28f518f23b170d57e98335379]
+│   │   ├── date-c_5.dot [5b39816770cc981fd0e63e6b0a2a5d269c5aef9301497939f2b7593fea80d11f]
 │   └── d
-│       ├── date-d.dot.zip [79459f6f0f927112be9a40f5dc2062ae97abd81079c5271e527adf726e4e1527]
-│       ├── date-d_1.doc.zip [2d5d7ab46d3b41c379efcf9abb204792e13c50d7442aa77be0340fb69169f0aa]
-│       └── date-d_5.dot.zip [4180c084de7e33d7e6d5066fb870f681f5cd2274a12e9277ee1ddf67aba9399e]
+│       ├── date-d.dot [47dd22432f5cde9c0105c112c188048634cde6de37ff41fbf9cf6c4cf1395df7]
+│       ├── date-d_1.doc [d4eb4500e22cddf1c7c1ed1230dfaa1e431e0b893ee1eb3c4015262c956713e0]
+│       ├── date-d_5.dot [aa6c5c7b00f61295bcf6f51fbc32efaae171e5da922a33ac0445b9d37748f915]
 ├── dave
 │   └── a
-│       ├── dave-a_2.doc.zip [06e220c97b8ae3ac441060fb5cf7d69676a65684df4cfc3b2274f87f37005040]
-│       └── dave-a_4.dot.zip [ea8c4a425486c129b96c7a7f093858633e4f20d1ac4513c5567b9bacce9f38a9]
+│       ├── dave-a_2.doc [a8ef097b207ab2f03b5767233c55923bbae2018bf64ed0fa919f4a983309d05f]
+│       ├── dave-a_4.dot [02aa982c49034db1bcfaf0a8822a9e2c329db931be3a2fb389300f0945c46861]
 ├── decaf
 │   └── a
-│       └── virus.msword.caffeine.zip [b61ac92c5a7af7d3561e60842320ff6907190019735cceaf2d957a06e8c96302]
+│       ├── virus.msword.caffeine [9916a6882b6190d5a929eb99c2c8fa5c34f72106ab0494cca66440f3b5497d39]
 ├── decept
 │   └── a
-│       └── virus.msword.decept.zip [fc15c206de3991d362a6680749e4de6c74358c132969c4aeba65a6f761464166]
+│       ├── virus.msword.decept [00db73f052416d04ce6412c5c8f2837a9ca761ca66b46870bfd25907784971aa]
 ├── dedicato
 │   └── ait
-│       └── virus.msword.dedicato.zip [affac9832776bc56999590a1d40b29b7d22ae8b116dfdc669fa809ff4031ab57]
+│       ├── virus.msword.dedicato [63c5c1ee9468f58d603c3c85f3a41a3eb633e65db14de0ab9564dac80d91e007]
 ├── defender
 │   ├── a
-│   │   ├── defender.doc.zip [e93785b68459312d2685cefc97ce259f7c37447749d36d4dd4e7b293d599d43b]
-│   │   └── defender.dot.zip [5a6deefec9355db2dab1e969e379aa1d6b9ef4db23573939630ca20f9e425eb8]
+│   │   ├── defender.doc [9781d587c5452e5af5cd8911e68c6e32bad914485c4f120e6ccf0e29c88789ec]
+│   │   ├── defender.dot [ad2b99a68b8d4200af9b4998e8b40f3c520cfd73c5449e25c1fdb6fda3228d2a]
 │   └── b
-│       └── virus.msword.defender.zip [e4812245cd097e14931faaf1ab6634c1a9507d8f77dce50c9331f625dc535079]
+│       ├── virus.msword.defender [ae8654f74ca374ea88461ad7ecd53627807b83fa6ea99c974de837d7a1d62720]
 ├── delmacro
 │   └── a
-│       └── virus.msword.delmacro.zip [6f92e30acb89ab7824654fb35ce4f789a3a9b94fc4c589d40d6b210127b954be]
+│       ├── virus.msword.delmacro [f0e021289cd9fc9344e8a88561b6b893db566d2cdf6641557f7f9a06dae71b20]
 ├── delword
 │   └── a
-│       └── virus.msword.delword.zip [d7f5a33b60a3a8f0160fca474e0ec013fcf0e046f01bda9bca38bad2ced11918]
+│       ├── virus.msword.delword [16ac5ed1c8af720fde097fa4a6cc21b0b2430068e83cc9f976bf3b1a5db0c605]
 ├── demon
 │   └── a
-│       ├── demon.dot.zip [289580532331c9f6aa69a4e6512fa9f05501f469afd2d7c0ca4fd0414de91f60]
-│       ├── demona.doc.zip [b41914bb8b98370188dd9c7a0d0b7402e47d47e394b06f8b049e58971b908c20]
-│       └── demona.dot.zip [6798060b8c682c319f14b406eff3038fb59fa218ad2e87c09a38b25e6e0e5750]
+│       ├── demon.dot [5232af2934aaef5dc5ace41014c4531a56c20b6eae8d22cdd3f299a0672627d9]
+│       ├── demona.doc [c593e2a2ffc5f36e7d4762931d04b75f13f8f064e718e0a2ef41ba908f202095]
+│       ├── demona.dot [c0e8402c100f68e4edbb67e0311766215a94171b183dbf7a54613fb28bbd98b0]
 ├── deviator
 │   └── a
-│       └── virus.msword.deviator.zip [07881b5d58d7accda16ea1aad83ddbcbd566a7005da1a1dda47da9cceea00c80]
+│       ├── virus.msword.deviator [0eb44dfad9ffe4a2da29fe01b9ee2cc519016fc70554ef5cf0d3423db992ebb3]
 ├── dietzel
 │   └── a
-│       ├── dietzel.doc.zip [7bbba288709d9621891720b1917fe1467c8e1acef33c9b597cf7a7fdbbb0f319]
-│       └── wci06123.dot.zip [f63e6f41661055db5615467af108d2e1f9ba5e2cfe5875a6fdf3eefe51559307]
+│       ├── dietzel.doc [e085c3321a5333c89e7d685e97cb44746c4557c8bdb8cf106c72c686caf505df]
+│       ├── wci06123.dot [5e601f83fb32588b78ffd0cfd1158303ec679e4f49aa92cbf5b659cfe67671a7]
 ├── dirty
 │   └── a
-│       └── virus.msword.dirty.a.zip [064c5f7fc6345e3b1a2ed0e87e73ad2df1db3c35e38aa288cfa2808f35ded92e]
+│       ├── virus.msword.dirty.a [afd9f8f215f17750f6d6a53e5c4d6857352bde8223fe5c971763a01ca13ad151]
 ├── dishonor
 │   └── a
-│       ├── dish.doc.zip [715ce267aa849e815145058488063c37875c3e6ecf93ade50372c0a688511dd7]
-│       └── dishon.doc.zip [fdeb7d2a12f676cd85cc820b56d602267ef2e1d8e3b806a3ff05da175924b14f]
+│       ├── dish.doc [0dd24c855ed1a588b0f45dbe94307bda22424b050f7b5ec233c8a915c83a1db1]
+│       ├── dishon.doc [733c74c2f526c2bac8d55cfd5ba4c880a4803857d4738a66a4302718fb9fa8dd]
 ├── divina
 │   ├── a
-│   │   ├── divina.doc.zip [c2a5bf640ca55633d1c13360fd13429bd0bd198c188d74bd529cd8c61959cd81]
-│   │   └── divina_d.doc.zip [bee5eb580da1bfc63e543ef0efee7e00a4bfdda714c190fed9edfea607ea1485]
+│   │   ├── divina.doc [40441d0faa979825d17cb163566aea5638b43c83617bb84dacaf6b79e6874490]
+│   │   ├── divina_d.doc [6988fe194981c00c45f2142d454234a9a7a87b35d63b01258bc0f874cf89d0b2]
 │   ├── b
-│   │   ├── divi-b_2.doc.zip [436bdce73478a97df07aff7be80c8eb705e2506ae2df908436b0f939b62546ca]
-│   │   └── divi-b_4.dot.zip [5d19ec4ff0dc9125a6312038582e3ede6df2dd5678c7c0d2659f5f99aa28ca30]
+│   │   ├── divi-b_2.doc [f5ab040fa6dc2f13ea2bd814d7e31858d854b4e05d53ce549bfdde6346218ffc]
+│   │   ├── divi-b_4.dot [5f3646c4962b2730842000bf7501edac7072b4bebe51c2a256b08f4161309638]
 │   ├── c
-│   │   └── divinc.doc.zip [1143e45d074c264547321f01ed6ac9ddb1fefa761bf9eef928e384138c570f24]
+│   │   ├── divinc.doc [e231308140ff188753423e385a2f1847b9da67672ef6e1057676b6a28168041d]
 │   ├── d
-│   │   ├── divi-d_2.doc.zip [44668966f161f55643b8883c64604dccabcba99574cb958ef68f51ef043d9ec3]
-│   │   └── divi-d_4.dot.zip [1b51e1706e8b2c0a6cc627209558c8c19b1dc883d0a75c2d77328e1c9603fb59]
+│   │   ├── divi-d_2.doc [e5645938c1c30c8ab812201bd64930b488b7fe4867ebad6dc88f192d8029a29a]
+│   │   ├── divi-d_4.dot [c04563b41703013afed5835c511443f18c92c43761ca5575dedb0bcd681a13dd]
 │   ├── e
-│   │   └── virus.msword.divina.d.zip [04c057e68bfc916ba07838c726f9c5b5719a2ad3bb773f41daab9cced62529d0]
+│   │   ├── virus.msword.divina.d [1e889eafd81d81e817547413f713cfbcc01bca24f914343c986daf2e50bd2264]
 │   ├── i
-│   │   ├── divi-i_1.doc.zip [7d80394863acfcb05d018d06986f8f860aef9bd5bae1c14f66a4275aaf58050f]
-│   │   └── divi-i_5.dot.zip [bc4d68bc896519dd0304f6d7cbe298e6ac3b2498b177f3a6a486c41abffe5f17]
+│   │   ├── divi-i_1.doc [290613ea81e41e0978d4c8b5634dda2c4ff53d293030c87db1d30ae0bee6e789]
+│   │   ├── divi-i_5.dot [88978be780b44cea7c2d4c14ce79d32f51f583fa2f2b6fa0eac6b8ebd6871e4f]
 │   ├── j
-│   │   ├── divi-j_1.doc.zip [9faac829a8361087acfe82100f7062ad32f348404972c006ba91c87bfeeeb8f3]
-│   │   └── divi-j_5.dot.zip [e087629912b245e20d6e5f98cc20d22dcf5b490608b36ccfcb6e9cbce3aa9660]
+│   │   ├── divi-j_1.doc [92da96f374ee752bfc8d62e2aba6d6c381c371179a3fb91e54c63548cf7596b6]
+│   │   ├── divi-j_5.dot [398d9aaf5ac55529e7699b309cc2696fb736d071935cbf326b237207c4868136]
 │   ├── l
-│   │   ├── divi-l_1.doc.zip [4271970573d2eb56ddd699f1f3f47ed23a2c7b3d215a5b4962a98a37ac7e0db4]
-│   │   └── divi-l_5.dot.zip [4a34803777483f03446b0a885be26b0b7fcce5defb4d6c7fbf33a4c661202a71]
+│   │   ├── divi-l_1.doc [b58b411dc9dd889f9c3179f0285c864b4b0bb71cf9e4b1fcb5bf88948cbedb1f]
+│   │   ├── divi-l_5.dot [a34ae82ca90cf53ff50e8f335b63f3ced12d3eb73bf5bc0d4f4cde3130cf596f]
 │   └── s
-│       └── virus.msword.divina.s.zip [3aba1edd77ceeaaeb00bcc268c31966821e6c3c655002e8dacdce3fdc0798e12]
+│       ├── virus.msword.divina.s [02b649629f4e4a8bfb2d56fb9d54219e04191594e4f2cfacc14d834422f1fe76]
 ├── dmv
 │   ├── a
-│   │   └── dmv.doc.zip [33b23dbbbc903d50c39e07a22edb59a110cfe0cc7ff9303dea732bbf657fd8de]
+│   │   ├── dmv.doc [c11a9ed93d2ee24588cb6834dd15a8ce32c9353664b80de435082672ec091ffe]
 │   ├── b
-│   │   └── dmv-b.doc.zip [9ddb4b42179f824806d4b76bc5348d0a030fa8eaf7ef955dff86cc2145ee3caa]
+│   │   ├── dmv-b.doc [0a488d06133426db9ccba1ecb2c0b9b9a6bcbec11c977481fdaf3fe60be2eeeb]
 │   ├── c
-│   │   └── virus.msword.dmv.c.zip [ef1ec25b6368f53f02be9da36d231b0d1fb29ad0861c3d2037dfcb77ad92c37e]
+│   │   ├── virus.msword.dmv.c [3b1593f4d99ac30179d61626369edf5277b9926c458d912aede838eb5a0eb254]
 │   ├── f
-│   │   ├── dmvf.doc.zip [ab29e2bf5be2bfd0d4de56e3f4e172a5958a12a755ba928029f5791300d83aec]
-│   │   └── dmvf.dot.zip [8aeb294001fd471fb2b80177f411994088b024e0fcf079b640bc5b5586d588c7]
+│   │   ├── dmvf.doc [5071780b2520926dcd668ebd08631fcd43048cfa3667c0e44bdd1683def4025a]
+│   │   ├── dmvf.dot [0f0a00ba3648758c05dc33e3bdb42a5cc17aa0c8699581dc5a48cc06aa3a03af]
 │   ├── j
-│   │   └── virus.msword.dmv.j.zip [a34745946ca2819a573321f742b6dc86be6914c704f25d2eff122aa1e7d7b8aa]
+│   │   ├── virus.msword.dmv.j [30ece59a2f0853cbe01f3a15a09deba855275739c2c12963b316ed707bb48bfb]
 │   ├── l
-│   │   └── virus.msword.dmv.k.zip [d9810c93ff758add7afa6c8e300a2d094bdd7ed1164e08b49128a91873c39f16]
+│   │   ├── virus.msword.dmv.k [e9cba7015e1cf7f2a6e3b478be2df78f5327fd0c7fff95529dc11a6f9518d9f2]
 │   └── qtw
-│       └── virus.msword.dmv.q.zip [c2abbc914096e55cbca730dc9deaa598272949d966a0af334d40ae453ebb4af0]
+│       ├── virus.msword.dmv.q [ea9dd532c93313af093118ffefce837b7038e45e45037b8125557116e7ec1b61]
 ├── doggie
 │   ├── a
-│   │   └── doggie-a.doc.zip [3ea6e4f3eec1d5b3c98c2305c2f83a60952d7a29910a42b12f0cdaf56e10e89d]
+│   │   ├── doggie-a.doc [51f472580d1d91a6d02516601edd694fb7b59392012219a214a0bcc814ecf1cf]
 │   ├── b
-│   │   ├── dogg-b_2.doc.zip [2cc61676cae93508cb7f8c641beae678dd74b6e24b3590f4c0c7845840331414]
-│   │   └── dogg-b_4.dot.zip [28cd73096c6b83e2a270b71c799304bf763274e5aaf6192ef9d141d61864bb72]
+│   │   ├── dogg-b_2.doc [8cdb741fffa1241ac8a06ee8547bfcc6d2cf7b3eb7c3c570077ad98542f6c862]
+│   │   ├── dogg-b_4.dot [1dc96adddbee9a6043e2434580a43822fba9bab747c40adec2cd5a6aaf0acf8f]
 │   ├── c
-│   │   └── dodger.dot.zip [50718068bd256eaa2d6739e44bc77f03587b5f0972dda9068938dc97f7199d35]
+│   │   ├── dodger.dot [9e81794ac094db8d44e70fccbcaab4b6247655fff82c132e23ddbce508370af8]
 │   ├── d
-│   │   └── dodgerb.doc.zip [c17acc74783959002bc23dbd5e066415f048c8a3168d0a5e7299f7140343ecc3]
+│   │   ├── dodgerb.doc [50881d2459f5a76aa252d036c46e5d5a293377e9b9ecdb164f68e2b80e666154]
 │   └── e
-│       ├── dodgere.dot.zip [fdaf5d006ebc4c594d013f583550da3599e819ac15d67f0fac72c1662aea0c41]
-│       ├── doggie-e.doc.zip [e04bea42e6a3ab9323500170883f06ea2d7dfcc46be9ab7940bda664dc5885e0]
-│       └── doggie-e.dot.zip [abce198a999ea436227956417284cbbb2b3bc4d302fa2c76b76e92aaf0de1664]
+│       ├── dodgere.dot [91900c647376dcc543056d482d40fe6dcac601222a6bc4d785da8eee1063997a]
+│       ├── doggie-e.doc [5743e7371a1573f62658ae715ac8dba30b665087331af062f7cdf2b01ce05928]
+│       ├── doggie-e.dot [75014bc2008a7343ef07a15a56c3d7ba84c3722018773624aa01dd15f0ac35fb]
 ├── dracula
-│   ├── dracula.doc.zip [14c849e4d4dd146dd25762a1e02994f072b73ae74e03fea5a14a05ecb04befb0]
-│   └── dracula.dot.zip [8e925d4d9d9aa0103f3d1ac894cff25230cfb57becae9fec6eef5e0351408e81]
+│   ├── dracula.doc [fcfc81fd7bb079ca25da780c64de8c7af767b9c438e6f5f6713175dbaa9b6169]
+│   ├── dracula.dot [32ab6be930698ff2a0a8022ca641f23bd26ad4fb2ec05b2908a48b2cef8748e4]
 ├── drugs
 │   └── a
-│       └── drugs-a.dot.zip [6bc52f36d35e3e3c2a50e43aa166b6afca93bc3e5fcb88991a02027649afcc75]
+│       ├── drugs-a.dot [8d07f49b669d0c6599f213ed83a775bd401084be7fc92e1a6fa7178b5b723e75]
 ├── dub
 │   └── a
-│       ├── dub-a_2.doc.zip [34e5d9ca88547e1d577eaba973725dbbf927610236f2f7fa3e67ba440c647bb1]
-│       └── dub-a_4.dot.zip [20137c3f4509ce366024778f4f9d69b36c739e55674ce6ad5a758de155b03e82]
+│       ├── dub-a_2.doc [c7a98cd6e16c4934672b2336b6dd4d58d23b34ebd758f7cf9debfb985c453489]
+│       ├── dub-a_4.dot [226dd2be3a023d3b75d4a3105e41ecf712f518ed64b847a477786aefb769b4d5]
 ├── dude
 │   └── c
-│       └── virus.msword.dude.zip [054c2f5a1f7682cae6df4a18d22c1e38ead47d993ec02eef8c973cfe2dc3a858]
+│       ├── virus.msword.dude [5b799b957d326425d40c188469b888fb3a4fd1a8a22d6f2f5a933e7b867555c0]
 ├── dust
 │   └── a
-│       └── virus.msword.dust.zip [a2704daa4711ce4634e347e1e4513d3e4fcbc36b2a6af903379c83f149f8b65d]
+│       ├── virus.msword.dust [1de06807411841124f26bb77a0e8c7d0d2870ee1a3284e30b425642cd79e0d73]
 ├── dvl
 │   └── a
-│       └── virus.msword.dvl.zip [870a5573bf174b558d1e18905f12a61f407571379787e9ad23a317ee14b85adb]
+│       ├── virus.msword.dvl [29e2d35d90859b00abdb6f7bca54f41eb5c18016dd957c9d0ffea4e61d955202]
 ├── dzt
 │   ├── a
-│   │   └── dzt.doc.zip [d0992e757c3a8dd73cb7630f065b2bf4c1c75ccbf59e9bbedda9afe73b9a7d83]
+│   │   ├── dzt.doc [7ea57b304c9ef0d492867689a876044739af0ba3dc5bf159d6470fb699f8843c]
 │   ├── b
-│   │   ├── dzt-b_2.doc.zip [56ee899f2ccda3d387b7a824cf766f87e8599248235d4bcc966d7182c703d806]
-│   │   └── dzt-b_4.dot.zip [e6ac583f6e3d77d62958e043899ccde92992252af9edb7943db64bcedc62aafd]
+│   │   ├── dzt-b_2.doc [ac548787991d099e95c8562424d20c62321fc72cd098749294faf31bab23af65]
+│   │   ├── dzt-b_4.dot [e8c6c25aa051d084a6b1de281322d689b5cd79de32f69728e24879e15ca28cb4]
 │   ├── c
-│   │   ├── dzt-c.doc.zip [d5c3cf8bdfde09e02a4dcc15ee0005e15eb2972f9d522f5275cfcf39507950be]
-│   │   ├── dzt-c.dot.zip [6b3ebe4dfb3141c7b3a12c96ffcc95fe2dad9216fc431fe17b0118e971c7a2e9]
-│   │   ├── dzt-c_2.doc.zip [2793c95bf61457bcc1890b1394906cfa72390e25f1a42b58ca6986d15e0c9c1b]
-│   │   └── dzt-c_4.dot.zip [05d38fdf226487771921cf3686adc982f12bc466e783a12944287f0e7153b42f]
+│   │   ├── dzt-c.doc [8af605650d26212d3c263ff282c2213a4f6403acd84d9cf24b38101c5c0d73a3]
+│   │   ├── dzt-c.dot [ac492a09144e70af79fdc92ea71663701c893348929245d65521d70f7ed8cd86]
+│   │   ├── dzt-c_2.doc [3b319bf4f63ac1e168801274dba3ca512ed4999bb2c42771a2aacbc7d22bc9cd]
+│   │   ├── dzt-c_4.dot [fcd33b845c476979d908637b1a229d1244be17aefe39431aec2e61971590631f]
 │   ├── d
-│   │   ├── dzt-d.doc.zip [3649fe3b8daadb9bed1b8ea634a2ab918369dc91d13bf60d76c8053ba9695e95]
-│   │   └── dzt-d.dot.zip [2eb8f800800324a1fd8ca921f356beae06c92350fe9af5273e220414b1ba6911]
+│   │   ├── dzt-d.doc [b9d8105adf4278480a2eaaf6a0d4ef563b5a59112befa15e8d2364765f61734c]
+│   │   ├── dzt-d.dot [ccf2c35306a81507ac050c6f8257e57c7a5ebcf4089132d21b2abe81bd15801b]
 │   └── e
-│       ├── wmdztb.doc.zip [233e54851e8699ef84ce617664e34fd7205cd11940b4b2b99801cb1ae294c86c]
-│       ├── wmdztb.dot.zip [82f7f88eee1e620560cac3c6c56222c4cbf44e746b11006d7c265e89e41455b7]
-│       ├── wmdzte.doc.zip [5c8ca62a87cd7163f4a6ebeccaf45c40254aaf1ae52922b243b8c3084d498eae]
-│       └── wmdzte.dot.zip [102f9fcd2aa0da1c9320fa5aeb11aa05c7972d0c695bf29c6771ccfc97fe7018]
+│       ├── wmdztb.doc [63a75386024e161e5244b91f89dce9ac3c57c7bb3f904758371ba088577e0b84]
+│       ├── wmdztb.dot [eabf0d4a030634063b1c062b199de5cfa70de2f74f7ed591bb7e9f3ec09767e3]
+│       ├── wmdzte.doc [fa7e1db54156e1ba96d20b8c79c5679bb78a38bd7e15a2e98223b28145985c8c]
+│       ├── wmdzte.dot [f08df26fc527b3156faf4cddb909dbc09e9cbac23fb0cb5989e4c669242f7259]
 ├── easy
 │   ├── a
-│   │   └── easyman.doc.zip [7ba200ebdb1ada0e7e6d222d5e48a3d77c304ef5948c5f8b37faeb1ebd8e2793]
+│   │   ├── easyman.doc [6e5a8a3a1665d380ce84ce2dc8859bfbc8b50c00b2562aeaa78b15e7d43842b7]
 │   └── b
-│       ├── easy-b.doc.zip [8bf84c578ec88bb1da4a3e8efdb45c9ef308433b46a5ce44291b9436fb657b79]
-│       ├── easy-b.dot.zip [a0a5586fcc1a89c639d6ba01792659bbd6c195f26afece32883bf6d20f4002d6]
-│       ├── easy-b_1.doc.zip [81c0900529f868ff526822ffd9dd6db116199c751867d275f54d57776de81893]
-│       └── easy-b_5.dot.zip [0c7de035989f9fab505bc93261b27c0557f9a66f17ba308cbe7d6aeac84d35d2]
+│       ├── easy-b.doc [c154c8bad9d1c77595fb7a3907ee954d93dffc01fc6764a41f0fa21cbd1f425c]
+│       ├── easy-b.dot [116a862c8f218dee398b4f88df22a7462edb6bdd3f00839d29d8d40ccfccf964]
+│       ├── easy-b_1.doc [a58d0b50ff2a5d69b878945156b26df5a1ea2993abf4dfa7d42fce442cc00020]
+│       ├── easy-b_5.dot [b2f9bc16718afcd4302a062c5dd1b70ac001646692285cedf81b2389d2451364]
 ├── echo
 │   └── a
-│       └── virus.msword.echo.a.zip [a31b8e27bbd4e65c906f5fefa2dfd9c8842871562bfa235379d588df778b02e4]
+│       ├── virus.msword.echo.a [4855a30220bd5872ff0eddf657fc19803a55b7dca935c7c238778d28145cc15a]
 ├── elohim
 │   └── a
-│       └── virus.msword.miholeh.zip [780878fddc1e8e790a22130b9eee557fd1f308bd71cc122df0e847e631093058]
+│       ├── virus.msword.miholeh [754ba482ea75fa8a04d3e7ac933dec8b4c7c33afa70b555ec3563bc510cc2761]
 ├── emission
 │   └── a
-│       └── virus.msword.emission.zip [9224ab268b548297238f7e4b2b08d1b153b5fe4ee1989af555a03b78c2e5cd5d]
+│       ├── virus.msword.emission [d24888ea84793b2083f3f4eb33bc90a674b27ba51cec05c3df4564bf3f8cb658]
 ├── emt
 │   ├── a
-│   │   ├── emt-a.doc.zip [fdca5aa0685917eb44b101b360741ad7ad50e95ce3b9f67cad0387e9fc6ffd6b]
-│   │   ├── emt-a.dot.zip [7d3fa3e5d7c7a811833f16712d84b1a601d0f867052ba0a67055b4aa70841b14]
-│   │   ├── emt-a_1.doc.zip [a92251c3e9405006106a5e3f55574b1714d2ba6d599ced407587f90f3eab811d]
-│   │   └── emt-a_5.dot.zip [e821f7f2e2a8528bd91eb8a56f58d19fa0b741d25a95c15845fc8956498f683d]
+│   │   ├── emt-a.doc [09e224ff66bba02f84b83f16eecb1c3e2abd3bc57319eaa15c65b7dcc8d6faed]
+│   │   ├── emt-a.dot [4659f5b941b0537090a3db01b5e70d3bce86dc6b13fc8b7cda2a5511873fb004]
+│   │   ├── emt-a_1.doc [4df9f722540352cdba1071a40c335af15df3d15a6875d766fd36f96da0cfdd1e]
+│   │   ├── emt-a_5.dot [ba53cdc80aa787b85890e0302d35cbdaad899a1a02ec6a39baef94be4c53ad83]
 │   ├── b
-│   │   └── virus.msword.emt.b.zip [4116ff190fe732064cba90c4322408780188906f5b2e65b029c81a9fee7536fa]
+│   │   ├── virus.msword.emt.b [2ed501834dac630e7d838f88f32aa5711177e87ad492fc4bb02216d7420b37a4]
 │   └── c
-│       └── virus.msword.emt.c.zip [efdbbecec7cddc2f0d214e5b79e1a9eeb913a944dd8afdf3a6222e6782044fda]
+│       ├── virus.msword.emt.c [0d91e2f5d89b5420755397f9ba054048c27be6fcb76b018d16092862b6cfaa3d]
 ├── emv
 │   └── a
-│       └── virus.msword.emv.zip [68c67f155831563d90c83aecc0038ed49642b0314a4523c91056251390fb5357]
+│       ├── virus.msword.emv [c227262e6a38aa21d2f74544eeb2d60dab1d77987da12af32cc4b035c5664d39]
 ├── enfk1
 │   └── kit
-│       └── enfk1kit.doc.zip [c7289fef48fcb3453a8d99bb9f16e55cdc1bca4037e22af05f8af47ea79b2836]
+│       ├── enfk1kit.doc [eb8ce1ceb7e4c10280148453c4a6b68a82e1472d54210ac0c2e23015dd59ff39]
 ├── envader
 │   └── a
-│       ├── env.doc.zip [e90b58aad2178210e49669093022d9b99b0bf73aa0d4c73a3935e6a7fbc94b6e]
-│       ├── envader.doc.zip [aaf24586817e488a26625d4d5cf3e7310124983a8881af6cd069a0cb4764c594]
-│       └── envader.dot.zip [6741491232c1d7bd048651a67070f42e0d9522445857af9b40c48332f2849188]
+│       ├── env.doc [c98276a3c9af4c18aad2169e44155935244e54989a0aa46c9de6cd9bcaec79b1]
+│       ├── envader.doc [017b310023d96d3e792d5a944689aed002e959b5637b2fef73e132512aa6fd6b]
+│       ├── envader.dot [511983263ede56009363aaaf433bf5c59e9b98e97c95c07b4db7a54964c95a58]
 ├── epidemic
 │   ├── a
-│   │   └── epidemic.doc.zip [0f2be2b1d33a49aa50e8186c83e2d7d755391f435b33fadd6d06ac4ebe79cf02]
+│   │   ├── epidemic.doc [a9fa1c0306ae1188e73d7aada0460ea0946d834b12c3a182d4d1ed076f005a22]
 │   ├── b
-│   │   ├── epidem-b.doc.zip [e041c09d94fe88ba93dd33eb2b54126ae3e3a5085516b4c526921f22b976f1bf]
-│   │   ├── epidem-b.dot.zip [4bde4e84959a8b3761e1276a85e9c03e173e904b4f4b9c0292ac697821a0ea91]
-│   │   └── epidemic.doc.zip [db7210411f2c049851745a891713fc237058e4a54a12287b970be54a55228e57]
+│   │   ├── epidem-b.doc [3b7a2a667d39e6082c9394e9400dc06cb84af47977ebcd7e8a6ed7e64b2b979d]
+│   │   ├── epidem-b.dot [67f22bd7820bb142114c724cfb6b5b26e2615fd1b0918e3460452e5926bcbe05]
+│   │   ├── epidemic.doc [67e8579e0f8e7faeda5e1d69f99938f901a61e46cc1cbdb02dc47a4807c3158c]
 │   └── c
-│       ├── epidem-c.doc.zip [b2f2d42a6f0eb0b4fc664a7e85e3e90f73d8ec780a2205a6fbeacff9466e16c8]
-│       ├── epidem-c.dot.zip [fc30f9594ff5d8b6d10f16765cfa8d4f5f5291d241df875e416ef739952b6b85]
-│       └── epidem11.doc.zip [88a41ca795ca2c790a52ee531345b65272b452850cf19be7806e6ef28651c9b5]
+│       ├── epidem-c.doc [0a989eb114420c559ffa0d96721230d4f255e0f9e8f64f5f0824a89de23fc3fa]
+│       ├── epidem-c.dot [00049c67eee4b596488d30ee3c233149a3bb3b7d40def855868008fcff37138d]
+│       ├── epidem11.doc [ac11daefa6dcd0b0cbb8b1eaeb1200e283e1a8375e4f7a337a8ba5fe11f78b52]
 ├── eraser
 │   ├── a
-│   │   ├── eraser-a.dot.zip [795190270c81a0158f1f70a65396d6df636dd88be3960b99e5caade428770eec]
-│   │   └── mrg1.doc.zip [c6fdc7016343bb3b843a224cac3aa24380113e2c82d2bf48a4890dbb55af8b13]
+│   │   ├── eraser-a.dot [7331f553a5906453ca1461fcebfa7d1a1865155c8cb291e40d3865a55a666dcd]
+│   │   ├── mrg1.doc [8025792c4292cb0897c61a17ad21cf0993efc02c30c57fca488b75b48c3ad2da]
 │   ├── a1
-│   │   ├── erasera1.doc.zip [48d24f329ffb27cef853e17f4acfe8086e4cba204c93e257c6d7527a651bb846]
-│   │   ├── erasera1.dot.zip [e031fa635cf1840c73de410da7bf1261edd2e3d9d66e52d84cc7f045df991f34]
-│   │   └── wci05583.doc.zip [864bcde12dc2c952a409f824620b1a097f7142487eaaf16f825115931599fb1e]
+│   │   ├── erasera1.doc [45d5c6df9b868c35b5d482c582f0211f6d2778780576572531653560d0e50019]
+│   │   ├── erasera1.dot [98c6ec59225ce43dedf1c2e0e18931545c3e86616b04895217757472f1aa5277]
+│   │   ├── wci05583.doc [77a885bdd67265b157c1d40b9b8abae8cfddd3329bd913284342acf73e0fe9fc]
 │   ├── b
-│   │   ├── cke.doc.zip [ad1be04cc1d296deedbae813c4ab98e027a2e8ed00b7dab8dcaeba76988412eb]
-│   │   ├── eraser-b.doc.zip [cbc91657341a5ba7b959fc73541e4b39d31a6b426980b45588488048c42bfca7]
-│   │   └── eraser-b.dot.zip [2f73f7e6d37a952ae72088fe469139c05a437232b928fb4bed720eee9ce38d12]
+│   │   ├── cke.doc [8c65479aae6b1ec5873db655eb360a8d524fb0a5dd2cf327746249f29179f306]
+│   │   ├── eraser-b.doc [45aa8ba586f883534c20f9bce309ec0165b586450b51d4ca30a3bfe21fbab2c9]
+│   │   ├── eraser-b.dot [28f2ffb6a04688e7d0a57df37b8f577ecabd315b1ff1ebe585bb477b729675d8]
 │   ├── c
-│   │   ├── cke2.doc.zip [93ec360c2547e0ce1e12cca702b89a01fb8272a09b459a320dcd3e296eed803f]
-│   │   ├── eraser-c.doc.zip [3a51891ce74c91e766d32caa16e12e640e256e8919b57e2c2f6500f0918a505f]
-│   │   └── eraser-c.dot.zip [4359c346002a43249a43434552c0d2e9314e2b8525a344a82bce248ce17b3234]
+│   │   ├── cke2.doc [173d6f2f5f79d2b2f40656f698401cf50611461300394969b79198e1fecefbe1]
+│   │   ├── eraser-c.doc [8217f20557f1fc5a7f5f72f65423adba727966ad68be55f6dec248e6e29c3634]
+│   │   ├── eraser-c.dot [b6d54fbfd6cdb325b307bd658014038bc3d1cd16ab86ae066f692f7099cf4bbf]
 │   ├── d
-│   │   ├── cke3.doc.zip [02dbeb0a11252595075fe7efd8236352255ed1af062e00d35a87bf60c0384816]
-│   │   └── eraser-d.doc.zip [33d438593f3e1dcde09ccdfd64d146341461fc444594c84007a65c6e67f82875]
+│   │   ├── cke3.doc [5aca541868abc66113ab81886a1d25fda6d31a7c98b012547907d39e1a17415f]
+│   │   ├── eraser-d.doc [cce28d53ce3462dd5b5006a94665283ab7ed38d5a5cdc2109e603ed90c60cc6c]
 │   ├── e
-│   │   ├── eraser-e.doc.zip [08f1f07ebca43b1e90a9f786bb915f3339f96b94010b87d283fbae684c576ad7]
-│   │   ├── eraser-e.dot.zip [241f34a1675901a4ba2b188bc4d0c42126b6a45adada682d53231b65fed0cc30]
-│   │   └── mrg2t.doc.zip [385a687ffd20ca3da6a3a45a147379161e01c51ab6935ffc9484733576cea7db]
+│   │   ├── eraser-e.doc [09c6bb4df751e63cd0e2589d95fd809878966173de7c67a264d6d44ed2448150]
+│   │   ├── eraser-e.dot [ec381afe28fe70c5625fe87357d1927075108caaaada9b7f3711fe9210fdbf5f]
+│   │   ├── mrg2t.doc [41b22e03ac922003636622e3ed1c7b09542b7c1c177c56ab29751fed868616b6]
 │   ├── f
-│   │   ├── eraser-f.doc.zip [fdfc0e791952a6f69b27d8aaa0c6b66d12028a496b244bfde9af7b53a1e41d6a]
-│   │   ├── eraser-f.dot.zip [2c3d9094c3c51187e679d25248177492ea1e1a3e3ad5d0317a8cc2375c242366]
-│   │   └── mrg.doc.zip [8d8a4feec97b86b594730f74cd514c52adf30d0d30b3808576cd592b413f1236]
+│   │   ├── eraser-f.doc [1c5c563ce9f54d562820dcf37dd27b7d2af5f2343a94cc2de7a2deef6a2aad55]
+│   │   ├── eraser-f.dot [1ac0bbf8ac1e04303bb041ef1b94ad47b64cb0e720729200afacd067480aa534]
+│   │   ├── mrg.doc [0de9a50752c4bdc2a887f7c252feef991693bbe830720c35c27512e48ddb9a49]
 │   ├── f1
-│   │   └── wci05593.doc.zip [d884b977fa4c9168d847764aeceb2f9221e44aada595375534bdc7bd950a7ddb]
+│   │   ├── wci05593.doc [09c50f997e2e396be73f8859b970a1a016c3a8f974e0c2286b61b6e2fb60656d]
 │   ├── g
-│   │   ├── eraser-g.doc.zip [0c8c9b99377be1b54fe8dc7852e6270ab7f582e2a51cec4eba2dcb5dc085f8af]
-│   │   ├── eraser-g.dot.zip [3f89f3e1718d64df854e6e133db3c83dcf732f30b15777b2dcc8fca06e2eb709]
-│   │   └── mrg2.doc.zip [3d09ec29afa7e8c19759e6032250995afc9228fe57b306f16ec385787838ecb5]
+│   │   ├── eraser-g.doc [fc8f8bcc6124c36f38580af33f734dd0f06cfcef0f18ef7c42d8bea75dbe40b4]
+│   │   ├── eraser-g.dot [50005a87704d3af6b76f98c51e444bb07820833d949b3e7ba879fe86fa908ce6]
+│   │   ├── mrg2.doc [fb90c3b7243eecc8bfec171b7a49ca49ff27dcb555ae8974c7f27f0542a0afd5]
 │   ├── h
-│   │   ├── bie.doc.zip [eca729a0e9137891f100f4e01b6318e9796936c9dd7e8029f7f48aa7a41d2f2d]
-│   │   ├── eraser-h.doc.zip [561f408ad7a3f7d933f9bab1d9959dd8ada257957a19c6dd7fb1d0341c8c4565]
-│   │   ├── eraser-h.dot.zip [34cf574a27aba7cef5ffa4be0fc841c2441fbf87529521d4ca564f885d229e44]
-│   │   └── overlock.doc.zip [6d0045ef39b1c78f83398a116bb0feffcf47af3de36361a2c6424b7b010fe2cc]
+│   │   ├── bie.doc [d960ddbb71a4263a9b024a8c75fe5c74dd20a71b441890c48ae6c6330da4fdac]
+│   │   ├── eraser-h.doc [2311f29781c25b93b451203c23ca1df167741ca10e2fa728b50219a5dd9a482c]
+│   │   ├── eraser-h.dot [197e0e5dd1c5f5b951b186786bcfb9d3743f359b28678c3d912b1c7fb2a64476]
+│   │   ├── overlock.doc [b75bfa073fd6e17631ec1cc333b235bb29d7ccdab47e1e19c54887032e8ed706]
 │   ├── i
-│   │   ├── eraser-i.doc.zip [9e1d4006f77b9890c87bf91b7c337e3d7eba0465c3d5dff8b9964de193d6b65b]
-│   │   ├── eraser-i.dot.zip [7cec8df4fb44542c2dfa2f62b1ada975a17c25cd8fac86c661c7167a16289d1c]
-│   │   └── eraseri.doc.zip [d90b095a9fd01f977623112a13b19e869ca330913b7247c19308d2164899b0a6]
+│   │   ├── eraser-i.doc [b9987e25493355003f21a480178b8a44d74847c8c66d7ee322fe49a7aea47bd0]
+│   │   ├── eraser-i.dot [dcad9e659655a714e2cdc9bf6c86c8fc8faf92980f3c03fe59a862986cb24afb]
+│   │   ├── eraseri.doc [c8c9417bd181fc2439d6847dce1840a8d45b3122bcd0ec6b6cdce728168558a5]
 │   ├── j
-│   │   ├── eraser-j.doc.zip [dc8259bc67934344a556944bc0164518911fbc0d01c113809aa09aaee295fc80]
-│   │   ├── eraser-j.dot.zip [fd715b4a8f0d59661d2158e11a46132efeb685e68fc5395321ef357a87b515fe]
-│   │   └── eraserj.doc.zip [4915fb3c42d88e876222ddf1bbe736e1168c427132918d569f4b64bae506f833]
+│   │   ├── eraser-j.doc [2f22d601c9f39a144fac14a9985531574298e8c6974c770db6772cbd17d59297]
+│   │   ├── eraser-j.dot [662f9726166431163da43f29d4fe879ca3bf0603ed0b6d50c2b1dd0a41518fbe]
+│   │   ├── eraserj.doc [45e545f7f197db02052d91917745805cb683a2d5c3d2fe871005378f051bd6ef]
 │   ├── k
-│   │   ├── eraser-k.doc.zip [54d0f02fde09384ccd5e076f275f77fcc659696ab9f7904cca41ff0d38418660]
-│   │   ├── eraser-k.dot.zip [dd3ed027f1131ace600a675be8d91ae57dfa0525e3bd453ffae5ea68d7bc66d7]
-│   │   └── mrg3.doc.zip [6baf298918e0c2f0efe4f96dcdd1358d08478dfa58dab4f76511fc2be08b420a]
+│   │   ├── eraser-k.doc [326f569c269ca27e3cf71f0da0a039f166720aa52137927b50bff9754271e9e6]
+│   │   ├── eraser-k.dot [75f67aeaa3ed4a435db505fec7dace299397c2301fa458bd925bb1f12f2ff2c0]
+│   │   ├── mrg3.doc [67de7dd3536ac861f7ee0046085bb614ef7bd494dbbb1bfb663e88182383a5b1]
 │   ├── l
-│   │   ├── eraser-l.dot.zip [1aaed30df010e9075df932c1cc36400279810ef8ebe0158c1c5f92e3abfe8ba1]
-│   │   └── mrg4.doc.zip [099db4d9372bfc883fa7c84929b0292f679a64cbfaad5cd958dee4e90c91c9c8]
+│   │   ├── eraser-l.dot [d813bfc13951b60b0a7367c22235834b4969654450153a3262fec9e2acd56265]
+│   │   ├── mrg4.doc [64ffe8b467b061002168ff3a79995d1ea3cf0048de2816806b694b13b431020f]
 │   ├── m
-│   │   ├── eraser-m.dot.zip [44adeb39d7c9ab09951ba3ccc3c2b5e814368137193159df32271570e309792b]
-│   │   ├── play1.doc.zip [7f9654506e546bb80154635354bb426d4fa888922616b2298cf7883133ccf555]
-│   │   └── wci01813.doc.zip [f24d6fc09590c65d45694710229d806fbf2469ed239dd56c5963f4658c35aa29]
+│   │   ├── eraser-m.dot [625bb1ca52cf82bd15f0ca52300271ebfaab14cf8518de74ff279eeb6dc6f2c7]
+│   │   ├── play1.doc [f455f213cd20f36868975da7db2563f63754c6ef95c7ef5add6570063e2ea70e]
+│   │   ├── wci01813.doc [e6bcafd7357b42ef51f7eb99f6c87f6ac89f76f47081e11aa8b490980806603d]
 │   ├── n
-│   │   ├── eraser-n.dot.zip [8a8494f5174cae47390f97e9ffe895760a04516f7eaec925612485adef8922df]
-│   │   └── slot1.doc.zip [1d86228f10aacb65411f595b74b7f43344d941485070edd63d12ec37d97a846e]
+│   │   ├── eraser-n.dot [9471f2ea011db93c33b141c03dbeb200fc06b70ca59ca1f89d6b4e5d45f18687]
+│   │   ├── slot1.doc [095386b38e89a7e112b05f8f09faa4228e1b60b196591b7bf2baabbf2bf40e56]
 │   ├── o
-│   │   ├── eraser-o.doc.zip [2d09d50c8519d408b1996db6bd969353ddd73fbc1c6cd3119c7c3b71ad3a86bb]
-│   │   ├── eraser-o.dot.zip [a49160bf5ab407f01d1132f9dcd4064e68ce6977d542bbeea104eda444fed43a]
-│   │   └── guess.doc.zip [d783795fce69158639abacb559637b2d00f52fd805029c6d70797941c3ac11d7]
+│   │   ├── eraser-o.doc [2851a68c8ca49e486cbae4d2c01067db3a05b8934996e9c28393fea9a9ca8837]
+│   │   ├── eraser-o.dot [9fa367e782abc5fe3dee457d9e6a73c25b107869710bfe73450667537939e08e]
+│   │   ├── guess.doc [d4dcd25b117592ea8f29ee080b397b07f6708ad0e454368160774c4b09ed5fef]
 │   ├── p
-│   │   └── up-g.dot.zip [6a536f68e5672b2eb822577cd5d534a335a42a5831775484ad4e27ea822cc079]
+│   │   ├── up-g.dot [cf319abfd94524114c84c3a635d129f71502c302e2fb60018702546918cc689e]
 │   └── s
-│       └── eraser-d.dot.zip [da9b85ff398f0e57bf91a2ecb5fdb70edb2a00bd2fc12e6706971d8190cbb636]
+│       ├── eraser-d.dot [7137a2be6c3e0dea9f90a66d74f788f4591d45164bb24d3e29150eccc1b5ced5]
 ├── errorsoft
 │   └── a
-│       └── virus.msword.errorsoft.zip [85aa1dc097dbc127397405aa26173a097d4fbb9d0017fcf61506a326fac2d273]
+│       ├── virus.msword.errorsoft [11b1fa3239f4259c5d5073e2d11a7a08a39cbc68e52e3c229a271965d26137e2]
 ├── ezln
 │   └── a
-│       └── virus.msword.ezln.zip [b16a612e5c65d2030344c2cb3c74cf5bd1587aae3763182e03433c6a74f48f7d]
+│       ├── virus.msword.ezln [fb8e0f0a050d812ca0bdc442dadf876e8ae604668da2c7e47bfca9c645f3c768]
 ├── fake
 │   └── a
-│       ├── fake-a.doc.zip [a202564e4b29ef0f0273e0b0afe525627661ffeadb4861d96e53208e06f29ab5]
-│       ├── fake-a.dot.zip [85c0712139a15b6d011884bf141a6289af14e6be738be1bdfe058f262b76a4f9]
-│       ├── fake-a_1.doc.zip [dca29642c9a44f157cc34c080158980719512b6a9f1ada3ea72da924aa4aaf5c]
-│       ├── fake-a_5.dot.zip [21ceeda47b8ac03a12dde2954e935510674bf172820efac6e2785c8fb740508f]
-│       ├── registr.doc.zip [79db72352f2b91eb7aa1d8a4dbc20ef650c29f0e81b0e0684eb25859cecacf70]
-│       └── winfake.doc.zip [cea915261824e0605b25f1b6c8f0ea2a0877addc753933ac6f197fcb72c4f0b3]
+│       ├── fake-a.doc [4e6a6dc250395c4c23289c497401c1966c181fa6bcddf51dcee41a70f16461f7]
+│       ├── fake-a.dot [0413cf78689e4c405b83bd1a5d3462c5bbb968fd2322eb47d3cae61ff23fc5f3]
+│       ├── fake-a_1.doc [8c6643a699dc7cb45ce5aae0a0c12fa30b500b985307805fabd3ff2cd3aacc54]
+│       ├── fake-a_5.dot [2c2cf2f5baa76541b64a57beccdc92982ad119896ea844a7daad205d11581ea2]
+│       ├── registr.doc [f70c745a297a265752d814265c828ffff8bf4e3d91ac02f71046f01286c5f343]
+│       ├── winfake.doc [ad28debe0f4d723e5719827c4a7c8bbd4060065bb4568c822c97a27b110fb6de]
 ├── fehler
 │   └── a
-│       └── virus.msword.fehler.a.zip [c0a177af11b0d69c59c0d9b26b02627823b2777e0302a789d8eee3ea4760f439]
+│       ├── virus.msword.fehler.a [2f8c6adddf298a303de0e0c5d75e041d85d276409dc461bb9b5b593ba743cc1a]
 ├── ferias
 │   └── a
-│       └── virus.msword.ferias.a.zip [93943900313294d8c8c5bbb55f1ad5cbc6e5e252ab308061b4056a0acfb4b857]
+│       ├── virus.msword.ferias.a [61348e4fcabafe0a3b1fc947ba559b82117f8a3277661e7f61cafbe302242920]
 ├── fert
 │   └── a
-│       └── virus.msword.fert.zip [20e4c61d3f18400f37835bdd41e6f075e75cac3360c131445cf9841ffaaf31a1]
+│       ├── virus.msword.fert [62797f79600ac342d7d7de1e4d87ef374c1d2014f404075d9a18566fa7166603]
 ├── fhd
 │   └── a
-│       └── virus.msword.fhd.a.zip [27f81928195eddfb750b9b2066ae9c79899a14b7b630ad9f1d148ef0adff8135]
+│       ├── virus.msword.fhd.a [d81c0b817ac58b25c4c6d31cf8bdfbd9e98de5b99d9e542d47d5108d43c2ff29]
 ├── fire
 │   └── a
-│       ├── fire-a_2.doc.zip [1c2c1f3f7f10e3342ca1ec97b035219f5a744011af26f29c2cad3938dbff4889]
-│       ├── fire-a_4.dot.zip [a57faec01353efae0abb4b233b955ed47b1bf9281565abd5d60f332b29f1ad05]
-│       ├── wmfirea.doc.zip [e464d2962b6a654251964cdc0a602a8b6eace4cc4f9d16ca719a7a64b15e43f9]
-│       └── wmfirea.dot.zip [d978f50a7aa4d62d27ce4edb635b2bccf61dfd0598b053ac75a52e929881b1ce]
+│       ├── fire-a_2.doc [336150d28d9fa86a4ff109240428905121fa9dfbfe3e4df37ed2504241927142]
+│       ├── fire-a_4.dot [587afbca1724a51af43598ab2dfc7ab59d5373a7bea31f38e7730be3898312b1]
+│       ├── wmfirea.doc [76095a61248242c852bc59f0654b585faa2eee0048abd394c7ee0f5c9a835dd2]
+│       ├── wmfirea.dot [38863bf1dd98f47d368d8b8ec2ad54332ac5d1de6828643f5f0599bb2d4113a1]
 ├── fivea
 │   └── a
-│       ├── fivea-a.doc.zip [6c9b60de6e71cf832ac6453a9b43cd495d002d59c10b8fb070e54b5426fdfaf2]
-│       └── fivea-a.dot.zip [b8a5231febfb6d62dd3ca806ce82cca80b7cd6ad846f5fea4393b28f2ebc2b81]
+│       ├── fivea-a.doc [f7e7405fd5eba7451c04b5987f11d79063b7ea4eb48faf12ae057b3ced54d36b]
+│       ├── fivea-a.dot [dca25f68ec4b423837e88e73baf5a0fe05a5968e63f19e7250b46aba0bf4ab6a]
 ├── formatc
-│   ├── formatc.doc.zip [dc20a7b33ecb1de46d24ed2781dd5a8245709d4d74007a880995e7ca2acd2ea7]
-│   └── sergio.doc.zip [10eb3cd50be8bc190daad4dc54be22239ed8b113c7884377234291cd9e3da44a]
+│   ├── formatc.doc [24d171b8e4f98e60cd49201488418b664dc97fd8ff056042e6826b3563708e50]
+│   ├── sergio.doc [b25bd4e1e9735963e280e7265b2c06535184d9c96e2cad2e3c045853146830ea]
 ├── formater
 │   ├── a
-│   │   └── virus.msword.formater.zip [9ba6696fbbef6bdf540473cfe8968206f37a79dec071bbc50807a49775318faf]
+│   │   ├── virus.msword.formater [751caefae0b6b7bc68296298e29de7a3753f94dcbec0eab8dbe497dc691aedce]
 │   ├── b
-│   │   └── virus.msword.formater.b.zip [1a8bbdf2bb7830a0b965ecf465b8ac400f74e2e7ceb1702d7dc05619423a0911]
+│   │   ├── virus.msword.formater.b [20adf6d8cbef002ae8a13b5450397bc60344ca9ed65983682da3e62d6900feca]
 │   └── f
-│       └── virus.msword.formater.f.zip [1c45378df155c0937ad93372344b04e9e199ce2b49fbc99f0e671fa4aec6eb4a]
+│       ├── virus.msword.formater.f [2b5bed75ffb59826ecb4c3ae814b9426f6757bced130c77a2c14c4e8c9b936c5]
 ├── formats
-│   └── formats.doc.zip [bd9f56318b8046c35479412e780011beb06668fbc9e6d6f6f55e71b46e1088f5]
+│   ├── formats.doc [d0336326c8876a2995bd6b9c9357b59f1cd5501a22f4497bf23e95eb383ac8f3]
 ├── four
 │   └── a
-│       ├── 4_in_1.doc.zip [00d37bdd3155068c8f9b24b7211bce911257b2a84a0fe0a0b1f22b97e3351a36]
-│       ├── four.doc.zip [8f548f9478030c43863bcb12f965a70f7d0efe7a9557a2b3df623562aec47e07]
-│       └── four.dot.zip [c8406e15c5097684fdb0ae1762718620109c07490e6f6f7f7e1820555ac3aace]
+│       ├── 4_in_1.doc [c52d2a4203765c172ec20573dc98ed828e73b3dc52eaf94119a8cc6453d4aa99]
+│       ├── four.doc [e9b8fe889c8b64b58dee287cf46e8168924e37a9901072c8acf2e40f1bb5d769]
+│       ├── four.dot [3395729f6699aa17848376d7b6139b0e99ba582c4a466307149b0307440b4c5e]
 ├── friday
 │   ├── a
-│   │   ├── frid-a_2.doc.zip [54a799764c78f8b8993a9907966ecaa2d4946879a12889b46ac974e7a2cedbea]
-│   │   └── frid-a_4.dot.zip [97a383adeaeb6c3050ad7488048063a5c3e41ed653214af82454143fbfb41c30]
+│   │   ├── frid-a_2.doc [2ebf21c7e0108fabc03e9453541b624c088c1a19bacf569b7a3c5f0c894ef7ac]
+│   │   ├── frid-a_4.dot [f15ff9e3124bfc59a5e215c2926a4626b69d27001bf24ff5d90e9ec4e692cc2a]
 │   ├── d
-│   │   ├── friday-d.doc.zip [bad5d4fbf3525f2ca3de2b531c58f43035fd402b4439933a4fa372f2239720be]
-│   │   └── friday-d.dot.zip [c3aabfa7641e2a2e085325a89897961d311baf59b95f3f0869975d16a3f2014f]
+│   │   ├── friday-d.doc [9e0a9d0c0f9a80c406d28bddeee98054324dc4954a4d7d0b21af308c124a91ca]
+│   │   ├── friday-d.dot [e7ffd5c59f2cf880a1d665b93aebd641d5b0ab62b9b895515c2a841f0caff432]
 │   └── f
-│       ├── frid-f_1.doc.zip [043d04543736b9a940ff65bf6acbaa9509484f08f088a750f497e62f44318697]
-│       └── frid-f_5.dot.zip [7325260a3abd0c0d9cd7767db5f27ccab9416c5a2a77c5c05bf0c4929f68ccbc]
+│       ├── frid-f_1.doc [bd0c841467e087747553b87199d574b07288153b0ee75ed0a9c0bcc19f9d7697]
+│       ├── frid-f_5.dot [2e0a2acfd304a8f1e8dc8e792b9b44e2a473803982157a43f6f622c40e00732e]
 ├── friendly
-│   └── friends.doc.zip [2558c334a87d040b8f14ddcaef567f93af59c18416b39da7c83ce380c3131b76]
+│   ├── friends.doc [f60f52b18243f5ef7fd92361fff6b5bc33a9db84b2db19df2b290e4dae79a205]
 ├── fries
 │   └── a
-│       └── virus.msword.fries.a.zip [2264bac433bd28e66814bfaed0ae30facdb41bb5ad8788c7a239ad2148cb2b8d]
+│       ├── virus.msword.fries.a [fd604ccaf109c36a07893933f235e0dc695a84d4534e84b8af5a62833c68250a]
 ├── fury
-│   └── greenf.doc.zip [8f7cc2eccf4b81bc7573f8881ff83391199edb4f928e13ae63e717fc59f69ebe]
+│   ├── greenf.doc [a78581a2ae61c15f04185147aa2ad784def5721c6bba277e1b70a064522c50d6]
 ├── futuren
 │   └── a
-│       └── virus.msword.futurenot.zip [5db37be5f6125fcf14a8c159662fdfb435d4253e79ddb5df77f23d0696a232ff]
+│       ├── virus.msword.futurenot [ab82cd17f5d9b39a9a0a63d28608003f5b02a7d3d9c20afd62d81e64cf711963]
 ├── futureno
-│   └── npoly1.doc.zip [8999ae2c1f7cf522956429f3015185e03cbafb0342bbb76054dd3ee2b652d5a4]
+│   ├── npoly1.doc [e55ab7f958452ff175f01b2d99784d07708b43936c8250960f05c421b7462b0d]
 ├── fuzzy
 │   └── a
-│       └── virus.msword.fuzzy.zip [0ba5ad7363573405ced7bdfe85ce8a0b78d960a63198dc5ad99dc889e4e68cbb]
+│       ├── virus.msword.fuzzy [49fec252fcd0d9fa2a4ab4bf2f63f6c73041c7a37aca41d95dd323a0830f5f3e]
 ├── gabi
 │   └── a
-│       └── virus.msword.gabi.zip [007c091068fba2ec073b0b17cc07f84ee93a34c96b5fab0a0770a4945d5c57a8]
+│       ├── virus.msword.gabi [f2c9c9da04e506a39d53b90d53d9230b78c827e906c33ca843c856be27dcd327]
 ├── gable
 │   └── a
-│       ├── gabl-a_2.doc.zip [8ce9a41c17ce3e0a9d28dc54d71bab294c05a3dff31676f42ab5f6be56a6a4b3]
-│       └── gabl-a_4.dot.zip [677ded6169e5e00db00dbeaa6639ec9cf69615ae776586e913326f4253380813]
+│       ├── gabl-a_2.doc [50ca39a36ea93283257a3add23f74cde20c8ab14b8a4370c9ee1aad50709727b]
+│       ├── gabl-a_4.dot [318c65e2d627299e741aa1184839beb374a5672565de0c52168398dfb733ac84]
 ├── gangsterz
-│   └── bdc.doc.zip [8b415d7e11904f9007dca0c233874965761059c75c34e0b57487d2818dc6a7cd]
+│   ├── bdc.doc [26e8ecdff505b146d1219d4533d321e4b790c6255571473ffc37d4e3b28ee532]
 ├── gas
 │   ├── a
-│   │   ├── gas-a_1.doc.zip [29fcc8f21239e5504abebb875a0c52af8c9aaa3a0ed810fe7193e85062537e8e]
-│   │   ├── gas-a_5.dot.zip [e57804b1eab5140c29969d80927ad2240cab5e8dfed44e52ac94f3fa8eeb99e3]
-│   │   ├── solidgas.doc.zip [33802cb2cce8460c46a51497086db7eb9400c2693e0a70394e702bbafbe1a8b4]
-│   │   └── solidgas.dot.zip [f8190619f4db6a440574999ec9dcbd4700e9647ae471ee177f44aaad338b12c0]
+│   │   ├── gas-a_1.doc [db9351ec9619ad5ce3e506c36c57f2c3416a4389d03d8049722c105a78e82ed1]
+│   │   ├── gas-a_5.dot [2bdc4fc3d44473a9c690e41f615c7539348a100448d2a79f1d7d78d734443e69]
+│   │   ├── solidgas.doc [3187ca5ca171129152b9c46f1165341d0b021dd7edecd0e11a57ffe2d229119b]
+│   │   ├── solidgas.dot [3aeb2b410720ba47714e225fa24b2edbc20e833935f423210998acf0049e9b17]
 │   ├── b
-│   │   ├── gas-b_1.doc.zip [9c77f2d84bb73976aab6cea2944038182ef4a0650202a20ee145e3e26aa46aab]
-│   │   └── gas-b_5.dot.zip [f5746f57048e57f6e95f2ad772c15abd9255d244e21e40ed6c14fcc1af8a8fa1]
+│   │   ├── gas-b_1.doc [0ca8d40963d91555344f9dba056806fcb07e05086083bb4ac967e021baf6c3fd]
+│   │   ├── gas-b_5.dot [f939492129e30be7de94e7ad1d604d7fd42ae794b5220de1c2080f809d000dff]
 │   └── c
-│       └── virus.msword.gas.zip [68f27ff0b6ef18a34e3816a34d307757719a05c5da9379f7861076673ac617ac]
+│       ├── virus.msword.gas [a00b4a9622143eddee350f37a064b3d2dc1239e3c3a12a8906feecd072a51b54]
 ├── geni
 │   └── a
-│       └── virus.msword.maf.zip [33e48e355aea3aee59430ec2361e5751c3c7c4a0f4d557d1b41f011278f2388e]
+│       ├── virus.msword.maf [614f505cf5e80762de9b2a703150100d08bece2a363a1983f37e8078a247f456]
 ├── gest
 │   └── a
-│       └── virus.msword.gest.zip [20804fb4a597c3a9cd47dbdb547e7fd4ca6467ed3d7213e7d4d644730b4f2e97]
+│       ├── virus.msword.gest [901ee52cccae96e31aa147708a25336065f7bf11b57e955171cd4501f04d3a51]
 ├── giant
 │   └── a
-│       └── virus.msword.giant.zip [86aefef6947ddcf5b00fe9c9bd628a9c520541d05ddbbeb58b1fe7bfd0e4cccd]
+│       ├── virus.msword.giant [ab0d81330a869c202dcda7e1b033ece19d778cde4eb737ebf9ed916d51037954]
 ├── gier
 │   └── a
-│       └── virus.msword.gier.zip [9068f5293b68ecb8e5d1abde61fdd6991f92843a4821c77ead5fbe220e06a8e7]
+│       ├── virus.msword.gier [7706c52bd119aa7318ca466d4cbf025f2608b9f210a335117a90f7bd7a5b20ab]
 ├── gnomo
 │   └── a
-│       ├── gnom-a_4.dot.zip [1c952a4377d61a5752fded9c7455d43d5a56ece3a7f8ccf4c364948d9cf1d978]
-│       ├── gnomo-a.doc.zip [4ffdf894e1bae8adb407b2574b671f07a2da99c543a6f29a585a6301301762d3]
-│       └── gnomo-a.dot.zip [84cedb664ff155dbc9c1b02c7e9f9b15dd587ab808937a06e09fc430245c7e43]
+│       ├── gnom-a_4.dot [e86eda9105a59f7720657e74d7e566affc32017fff88667cd3449aee2ea2c1c9]
+│       ├── gnomo-a.doc [f0d6234adf0525479a475c52f851503aed0b4f65431cd2ba66274cae60fb81db]
+│       ├── gnomo-a.dot [fa2e4cb32334c6c23d2b6d856686ae7289b7781f7012983697420b9d07a3fc87]
 ├── gob
 │   └── a
-│       └── virus.msword.ultras.goblin2.zip [bfd452ae51713563c58ed840aafe0f8c4ba581b343ff5363353af1c67bfd5651]
+│       ├── virus.msword.ultras.goblin2 [aca822800c8d7ae242d3ebf7ff0345f1407d743b179e789b4d52417548773424]
 ├── goggles
 │   └── a
-│       └── goggles.doc.zip [06e977483d6529ddac953f072583fac03fe07bb30bb62f6b934936abd721a4d3]
+│       ├── goggles.doc [1f8c4235a3add8923ee01d893d63891a70cab23b7ebdbf8aaa324d9e06e1a75b]
 ├── goldfish
 │   ├── a
-│   │   ├── goldf-a.doc.zip [e961085ecf097cac6d78cb98e50800d0a5c21a36c3caee8fe909a32aa58887af]
-│   │   └── goldfish.doc.zip [0d30eb2d0705d07f365f115bd2f02183fc45d2b5c37421f06229c8a5e5840ffa]
+│   │   ├── goldf-a.doc [83362192fde7e9ec337c06e84944ea600cd16594a64052c138bc12690756fa07]
+│   │   ├── goldfish.doc [df09269a2d38a3ce5027f697d7647144566f8b6980ecfe04ee4cbb3d3dbf90b0]
 │   └── d
-│       ├── gold-f_1.doc.zip [e4df848c069a2d7a69fc24a70591e9357b2a058c166caf8e90ff85b47a3ce51f]
-│       └── gold-f_5.dot.zip [eb51b1a9000f6e76b0d0d7d88c297a567f75b6cd7dbef0117473e257fa4041cd]
+│       ├── gold-f_1.doc [83e026e1192c8ba36a9b67d83dee9c1eaf1102f4c8b7fa7600712123e6b8ae62]
+│       ├── gold-f_5.dot [d065141a651a1ce1427ee33dcf6b315a932c94294e6f1022c118cf8b79f7e2a5]
 ├── goldsecret
 │   ├── a
-│   │   ├── normal.dot.zip [c6f01fcffa53a9c78ec2bb6caf91f3c63b973d18bdbb9b92945203355601d799]
-│   │   └── virus4.doc.zip [c0f4ded09a14fab738619edc97be5205d96069a30117f38894fbb9b0b482d0c0]
+│   │   ├── normal.dot [01ce7728ab1cebd3d535f99f5b6cc0a59d48bbd1be48d41b29f658eb0a314f3f]
+│   │   ├── virus4.doc [977eac6c37d4906fdfd6b7467890cdaa23cdcf45ac6639c11b7d08edd4e34c42]
 │   ├── b
-│   │   └── visuald2.doc.zip [c8a21b6e1c58e00c0a185900c7cbcceb22ad7b27fd9d05f3db498680a5e1f552]
+│   │   ├── visuald2.doc [d0422f63feb088dc0c4da4fbef7f3e0e198e644e44d5dc21fc9ac3b20140aa67]
 │   └── b1
-│       ├── visua-b.doc.zip [578aa3f524374ab7e9124b72fd7a4a057f92decea6a2aeb93595f9c91ade0624]
-│       └── visua-b.dot.zip [258e52cdebd58b552a23735d628b7d006ece9a0599a4af44be3eb308dba8e47c]
+│       ├── visua-b.doc [10ed7dbfcbaa42fe2f836499684fb2a8c2129844bc8b9f8f12b38a9881558285]
+│       ├── visua-b.dot [6836602b318bffd041499d9c4b0a3d2bfb6662fc7bdaaa3c803041297361e4f2]
 ├── goodnight
 │   ├── a
-│   │   ├── good-a_2.doc.zip [8e9ae8f3b5ecc8f683c92d8021a6505ea536358482f2957a19fd6563463d250b]
-│   │   └── good-a_4.dot.zip [38fb7ca7af32279b462a39e8223c36b27127e5f13e5dd2c71a92c240656b24ed]
+│   │   ├── good-a_2.doc [786ec7833290e5a7a7d42c30694434aed684b0b168bd7f82afaf95cebc39ae8d]
+│   │   ├── good-a_4.dot [37737e60d67c4c13aec199d5ea4374b025d74122f18948f43bc48ef8a2d6fe80]
 │   ├── a1
-│   │   └── goo-a1_2.doc.zip [4784f1a246e7ac4c5e6c271eeab73f95c03dbc10a17a275466b4a2f83a87559f]
+│   │   ├── goo-a1_2.doc [057a65a77226677aa8f37529058ac78ca36849e1959e7ecff8dc491792442999]
 │   ├── a2
-│   │   └── goo-a2_5.dot.zip [155e5c6ed3c4453f2f30c4bdcbd4d2288f9dd0d09d3a10539b49df3bad98a1f5]
+│   │   ├── goo-a2_5.dot [a5bed3e11791b589857488fd0e5d9d44fa4187aae5628fc8edb385dbdff5a1c6]
 │   ├── d
-│   │   ├── good-d_1.doc.zip [803aa60ef4519997c0207307fd322d581dc44f17e9d7539850e4bfefb0472b37]
-│   │   └── good-d_5.dot.zip [a81d15870f463fdaef77cc905b480aa16fbfda8e22bf7c92e4f73dc5380e1305]
+│   │   ├── good-d_1.doc [ffb34dcc58e5a2720e8600d4f8ec548350e211180b2a00f4f078a2faccff2a3e]
+│   │   ├── good-d_5.dot [cb64a17ee2b65734c0206e2fb02f0ba4c9dbf0be390ffb79da101abdfcbb5e52]
 │   ├── d1
-│   │   └── goo-d1_1.doc.zip [6a767cd249d3a9b35a866ac494e52106fde2bb1f3160d27833692b93b81bfed5]
+│   │   ├── goo-d1_1.doc [24ff06c3c8f29e46d9b7ef1cd93cadcd00ad22373a2016dad67cb58798b596c4]
 │   ├── e
-│   │   ├── good-e_1.doc.zip [043ebe39986011b754a701177901cb45670fa52807ffe495a3e8938dff3d6618]
-│   │   └── good-e_5.dot.zip [31e3413cbe1743886247133a8c6407f03f623397a5f89898778791fb58267384]
+│   │   ├── good-e_1.doc [5e73328af840591e6ae2264aa0c8515663a741f96c34cab049465d5ea6fec216]
+│   │   ├── good-e_5.dot [71ded035245f67522e815e558f3be17519b102b9b2553d4591de68314a9a9d41]
 │   ├── e1
-│   │   └── goo-e1_1.doc.zip [245ac9303ff85e43bc217651db5eac7600d83efc5b53dee29d4ae56477134dcf]
+│   │   ├── goo-e1_1.doc [b8d111cd508c182ed41d8b977e66e2ccfe81ee0a8b86d04620f973e95c559dea]
 │   ├── e2
-│   │   ├── goo-e2_1.doc.zip [38419c6a6951962f5810b31c647a670d1d2ed2b6b6cfc209315b03e8c569c288]
-│   │   └── goo-e2_5.dot.zip [b5d2f8d8870e192be27d97384f58cb5247e7fa98d226da832d53a16908dd8506]
+│   │   ├── goo-e2_1.doc [1e75e1bfb285eca2ae27643a19ffda9a7347f4b45375bb2b1c6c507614c281bd]
+│   │   ├── goo-e2_5.dot [f549f6c425d52797ec0652ec3b24e563af731efe316a9752415b1c529afe448d]
 │   ├── f2
-│   │   ├── goo-f2_1.doc.zip [253a69bb012a71e3df8c0b45d777c580aed855e03d35007c1862ecbb4870cd29]
-│   │   └── goo-f2_5.dot.zip [b9452201b5d804de41df8f5ec38aca8f60ab85d3476021f94ac74e70bd42d04f]
+│   │   ├── goo-f2_1.doc [8b9af9591d6bcaa45547dfc9a26401c7c8acbe10d9707405e77ec22e16c75655]
+│   │   ├── goo-f2_5.dot [8138214ca9a1d426de927d65d7109afb70abecc1aa21008901a434ed1590bb6f]
 │   ├── g
-│   │   ├── good-g_1.doc.zip [d45ef9f1b39b82f852928911009c23d35b1fd0449db376b8abb0d7046c17ce79]
-│   │   └── good-g_5.dot.zip [cf5f07028cbb13c1e2c358a8bdc01765bb802771940fbe40397829e006b10e3d]
+│   │   ├── good-g_1.doc [b0934ca61858eab9efa6958ad5b099c12c7854c2018d4e6a93e79d0afc5cc86e]
+│   │   ├── good-g_5.dot [582593f92caaa43720e5445f87ed6614bb424c7a911f654569e7a6b8406004d9]
 │   ├── g1
-│   │   └── goo-g1_1.doc.zip [3e5b5a75b2522c5d089d420d9c0ea95e82f0d978ecfc1d2977172411af493e00]
+│   │   ├── goo-g1_1.doc [db0a61c4968ff58546cd249744fcbbef90f93e7ac8f5a1bb5ddf31f4bf95ee88]
 │   ├── g2
-│   │   ├── goo-g2_1.doc.zip [cc34b3b2db0b9046ad9ea583243d4ce6d7adc542af37ace3646cf8fd99431b29]
-│   │   └── goo-g2_5.dot.zip [18b68fd2ec26d524178a1143669a31f3434f0d1c3b9bf4e382a5b0d44b0d98db]
+│   │   ├── goo-g2_1.doc [f7235f3763d3717e75c8d97675ac22d67af3e7c0ca976c45776c48baa51910fd]
+│   │   ├── goo-g2_5.dot [b0f0757508cd30ee0d63fd543a7d56f53fb9c10e5ce1407ab6c38f6d4875147b]
 │   ├── h
-│   │   ├── good-h_1.doc.zip [712823688c49ba85b5c12a41f5105edcb0d71f5e4db9460405f0237c15687b11]
-│   │   └── good-h_5.dot.zip [0b38a44103bc40a372f87636a6b7247266736ac851bf49faf92af9ed43639f81]
+│   │   ├── good-h_1.doc [e8a41ab1b40e99e8437584a55c1968a34ea7222d6a6f755361ea2c3956a07fd6]
+│   │   ├── good-h_5.dot [87f73431df4a0cbd569e57ae535f69fe83a0240d8287d78d476684a67574e026]
 │   ├── h1
-│   │   └── goo-h1_1.doc.zip [5e7c33a2b4aa8d13a11cb41a35112ddd80ee8e0cb6ac72c75a990f92c243f7d5]
+│   │   ├── goo-h1_1.doc [9be2c6d95d2cc37978833b6414944ef24787c115c3b8d568a049840a64b49a48]
 │   ├── h2
-│   │   ├── goo-h2_1.doc.zip [9917b36d4f0f38509bce2c57993f3ef4e4500df4c9ab651232651485a57155dc]
-│   │   └── goo-h2_5.dot.zip [a8883551853850ce25970005c43050bb066492bb59651e993e40a0283fa70299]
+│   │   ├── goo-h2_1.doc [dacb5d1eebd4298a6f37c9528190834a253d7cf7f622b32212d031484c2b6371]
+│   │   ├── goo-h2_5.dot [3fc1b1a9a1882617aeadde4d646faae6ac22e6feb53958c587d0acf9f493eaf0]
 │   ├── i
-│   │   ├── goo-d2_1.doc.zip [6fb4483694712ec6db1f6435a6c50f3e551aec4796852e6198f0bdb007fd0f69]
-│   │   ├── goo-d2_5.dot.zip [07e51d596dfc76025a1d83802af0875603bafb52b376a7e57d0fd520013f2ce0]
-│   │   └── good-i_1.doc.zip [8a5725f30869147dc35ecdc1e0074234d15411b613a17e8594e0f0b500d9cd0f]
+│   │   ├── goo-d2_1.doc [81f57b141e2c61e405f7a247205690f392b3e8a9db5e809b8aeb5d7c46a6ce84]
+│   │   ├── goo-d2_5.dot [36851aa58be993e854a17080ea909638e1ce929f028db109253900f139ea06a7]
+│   │   ├── good-i_1.doc [642682810fea7370fd25b71949d9775613c3b0fe2f114701da0ec3331aa6bec5]
 │   ├── j
-│   │   ├── gnight-2.doc.zip [f51e3dabd51f52a00e8fdda4f654dfd01499f046dd002cbff776e3f37a24bf0d]
-│   │   └── gnight-2.dot.zip [171726b7937ea575bbc3c473c286f2938859aed9b0e089e23d43b6b474f71d42]
+│   │   ├── gnight-2.doc [a7159b36ba909ae651bd725737d514dde46face0b71e72f0b3b473fdca280468]
+│   │   ├── gnight-2.dot [cde274702acca10a63368756c384b969bb1538721cc51d03cceea6adf42a3820]
 │   ├── k
-│   │   ├── gnight.doc.zip [523ce9ef470942a6546c571c203dfb55fec3d3e1a20760449ae9937104c6bb29]
-│   │   ├── gnight.dot.zip [57c7ccdad6a010fecd70e6c5667b16e4452249dc35278889012ff289aa6fc9ef]
-│   │   ├── good-k_1.doc.zip [80ffd145e0ae0ae502e97c5513aeb24e1146874d59caf8746db4c84156c97938]
-│   │   └── good-k_5.dot.zip [9c4ca976c5b24679e09decc3cd9ae3c7b67639b0c07d96349ea60782d3ad2ec0]
+│   │   ├── gnight.doc [3801bb54e4ff0c9cc83300dc9da6404e2efa69fade6a52b3aed502e32ef325c9]
+│   │   ├── gnight.dot [e6b1992b48fcb9091a60e7982e5b4c594b2eea1286c1ba6162b2e9cf26dd47ac]
+│   │   ├── good-k_1.doc [9a6d6646a7ddfa9dbdc3de8792cc80ea78e46cd30d1316284aa46ae49d186408]
+│   │   ├── good-k_5.dot [0712cbe073adcfc3078dd7f1b456444fccc68e4750772ac42b8587648b7e324b]
 │   ├── k1
-│   │   └── goo-k1_1.doc.zip [a7c1a147659385bc31612419332860e99ff564071f2634bdaad689f8520333e2]
+│   │   ├── goo-k1_1.doc [928306effc367ffecf743e88edb6d362c93abf975adaf20ce862025094b6a485]
 │   ├── k2
-│   │   ├── goo-k2_1.doc.zip [ba3fd7812f56bb9be6b221ffab49cf8f12686cc8a6aab31641f434f5c2e6f3af]
-│   │   └── goo-k2_5.dot.zip [2710aa79f890a65fb80a94ceec416718ecfb8b4ad4baea72eb944fd91bb25d15]
+│   │   ├── goo-k2_1.doc [0c52b805284770cbb44f5a313f906dcc9c3d1dead14d66fac0fe4fa5a95dda8a]
+│   │   ├── goo-k2_5.dot [bf9c1d2f047b71433042ad74cb33ea44d01f963248b49eedb33fee5d5f422375]
 │   ├── l
-│   │   ├── good-l_1.doc.zip [c31ce57a1e8eec428813b1ff6a5db5895d5abc6afc4bb90a20b8e8805a6c1c24]
-│   │   └── good-l_5.dot.zip [8c0e8217436aa9725f680c3c66da8b9f69f64e01c54c5d5f60ebe9a2a3a63080]
+│   │   ├── good-l_1.doc [c20cf4eb1c91f9153cbb3c84b112811444debdf7732084835be0a9b77290b1c0]
+│   │   ├── good-l_5.dot [ea45df4fdba030e96fc3671a95d05c43d4f5309895598f83a382b6086b007658]
 │   ├── l1
-│   │   └── goo-l1_1.doc.zip [bfa58af013548522857847564523c2d643d9b72401419e337537b151a8fd3624]
+│   │   ├── goo-l1_1.doc [276b0afae6e4dad39e8b5d7f8eba3c7cacb75c54c40bb4d7c1df273a87ca4af9]
 │   ├── l2
-│   │   ├── goo-l2_1.doc.zip [5d146f2cdeb55f47c2e05ee6c7c781d9b06b62aee06d1b1213fceabdd828885a]
-│   │   └── goo-l2_5.dot.zip [43060e70943c307408208101a86ecc598ba83ba70cc766469c84951f83ec6cba]
+│   │   ├── goo-l2_1.doc [4256f1531466228798f7bc0dae51360673ac38c6c783ec6f3be25c82d10958a4]
+│   │   ├── goo-l2_5.dot [e870109e93d40ad10a2a6448909f0720904c34166f783d47b8f003e3c02b5eab]
 │   └── m
-│       ├── goodni-m.doc.zip [7ee94105da9773597647f2ca051ca2b088118acdf27eee2c071e555eeed55a3c]
-│       └── goodni-m.dot.zip [e3a37e4d9524f9dfe872c4a3b38d2de009b07ad76557c9e3cb8d56f9358fdc5b]
+│       ├── goodni-m.doc [c3dd547d70d48f597840ebf21d9308e11b61b2f4bc4f9d3807692ead8bccafd5]
+│       ├── goodni-m.dot [c34e1736e75767efdef7c70a93569fe5ed4b990f850b170afe21303d213f18e8]
 ├── grass
 │   └── a
-│       └── virus.msword.grass.zip [dceb8c46ba143451c731f7434e280c7985e68574364833549e76911906c59ec9]
+│       ├── virus.msword.grass [c23698d9d36ef310bba3f8b05e52d5351dec3dc0dbd65f2684cd122160c556dd]
 ├── gsis
 │   ├── a
-│   │   ├── gsis-a.doc.zip [7ee07430f2fe1a33dc2864320993279673e8572d164ca29eaf4d873b2dfdf5ae]
-│   │   └── gsis-a.dot.zip [b847b8eefdec97a71a3c30cf3b0d64ae63798822e0188c0e1ecc6da6ac9603d9]
+│   │   ├── gsis-a.doc [82a518ccfa26b81753e6838f818061f509a36f03e24d57cce4ecbc30835b4fd1]
+│   │   ├── gsis-a.dot [994dfea351155c4f73603e31d5c0b88580513ca40553e1113c6c31f793a3e2fe]
 │   └── b
-│       └── virus.msword.gsis.c.zip [b649426d529a382bc03bcec8c65d04ee9f41eccebc3a81206803db9e07fad7ff]
+│       ├── virus.msword.gsis.c [7cad0105a58594c81900caf7f0afb94aeb9d5d88710f5aa84586753ebf512dce]
 ├── gurre
 │   └── a
-│       └── virus.msword.gurre.zip [4ce065f9d286cfad106b0efd2d2d88ef7fb7deb2e52078c7c1fc594c92a8b179]
+│       ├── virus.msword.gurre [b457654917bae6c51537c6a4301d45732c5aec9fadc5255940defb0a6be9f196]
 ├── habir
 │   └── a
-│       └── virus.msword.legends.zip [559efea158c0553e994ec9328156e5fcf7a0c4b16b346f7b88b63e46208a3b45]
+│       ├── virus.msword.legends [1697a632ec44e250ea83955f48475a434ed6fe4adea6f6ca17835d3eafb07216]
 ├── haggis
 │   └── a
-│       └── haggis.doc.zip [50785b50803580cc0f64ece590d25a67e024c26b916f99acfcbb9b9430ba78bf]
+│       ├── haggis.doc [4b7329cc4fc9d5d3d7b9304e13bcc59483be0f1e45ffdd7e5c8bd358877cf3de]
 ├── hassle
-│   └── hassle.doc.zip [81e104a8f5f6122d4034f4fdac3ecf0268648b3f8713ab8961abb25662dc959e]
+│   ├── hassle.doc [1ae59f9a13a9da1f419f11979e7f068b3044bec485b5ccbbf621d9642985ca50]
 ├── hawk
 │   └── b
-│       └── virus.msword.hawk.a.zip [93f6fa4010736be5089cf0b5f2235950344b9b3737c3ab4ec68475351cc40929]
+│       ├── virus.msword.hawk.a [157a1e218b18422c6fb7c750255d4085fb24dce30bf4d59c4a0bed91816e2571]
 ├── header
 │   └── a
-│       ├── yeltext.doc.zip [3b641050f3d7812476abc5e5827757fb913af047e13b1a2b94251980082952ef]
-│       └── yeltext.dot.zip [bdddfacd4c90236472017390ab7fb05c2b3d306b4fc966c0e4a8f2a3e6038893]
+│       ├── yeltext.doc [5c5b1d7b969deee41acfb7cbfb2614f8b3f041b2f0f3e1a98e4c0861871335dc]
+│       ├── yeltext.dot [9a9e314fb38c8c08e1b325a6fcbc2a7b265226d5a1ec501053c5d21bb2e963ac]
 ├── hellgate
-│   └── wmdnz.doc.zip [308dcd48ab87007124adbb4ad8d065597adcf8bb510fa5435db5a715f184b442]
+│   ├── wmdnz.doc [56d4914465c8849c362e03b12d10718098558d81af0d52dc2312f96b62aa640b]
 ├── helper
 │   ├── a
-│   │   ├── helper_d.doc.zip [911854fe96c8239208da804f61a7e2fc8f31f2e7aa09d7774a9c29fbfdbf2525]
-│   │   └── helpera.doc.zip [5d340ac0bfaf2fb66d9397297e5bfa9195c0ad1a06b6d5e285c571ac6e0f35b3]
+│   │   ├── helper_d.doc [c5fbec8691c54c62fa5038fee91a4c6da65a87efa0c1c8999628b68a96a630dc]
+│   │   ├── helpera.doc [6f755206314a9b77b1ee3e39d9502b4c3fe2006e1bc9e211135c507030e39a36]
 │   ├── c
-│   │   └── helperc.doc.zip [8322cf6032464f76997ba18d9d67740f196688fd8ae5f0376213b9f96cd39aea]
+│   │   ├── helperc.doc [d06aa8b2393877144710230c5ef5d17600808ff7cf2a06ed16a1057fb9ce00b8]
 │   ├── d
-│   │   └── helperd.doc.zip [b1d9438ce1c436a159f9358cd8b3f88216f4ca082ba43dbcd6e2f915e1fbca65]
+│   │   ├── helperd.doc [2992b78d2a91ccc4fad6057d661f57bf2423a3f1e259fe838946553a8526f22c]
 │   ├── e
-│   │   └── helpere.doc.zip [9952517b06cbc1e6826f6373f86da031961476da9a55efde9ce9301529d85bb1]
+│   │   ├── helpere.doc [a1977a204ed2586faac02e4e8fbe23e71c7d16ab566d2fd2c9225fe3a749bdda]
 │   ├── f
-│   │   ├── helper-f.doc.zip [56ad5c126f49913d53ed1aa52050d58b8c2e79aae48b2fb9321f75e5d6d878d4]
-│   │   ├── helper-f.dot.zip [0e49cf96353d86aac46b57097db2c45155506edb05a530d1f7fbe2e559ad7455]
-│   │   └── wci02655.doc.zip [86219171bbecc46795ceea62408ecc13a60940e4da7e9bd83579da4065a719a6]
+│   │   ├── helper-f.doc [a07f27d7e93338531d6960f5f55f913d372e50f1c45b86ac4f014a6e83ec90e0]
+│   │   ├── helper-f.dot [fdfe31b804af219e50b0af08ac56e2e45cf975c54a613a12b129fbd0081e9490]
+│   │   ├── wci02655.doc [fb0b5027990aa1ae0881038c7964d34fdbe1648e54cd06670a8bf75a3080e421]
 │   ├── g
-│   │   ├── helper-g.doc.zip [5b039f9afb16a81368e46d35f96911dfc165a7fcd7c4846a1b5223133a1f1405]
-│   │   ├── helper-g.dot.zip [b3437264a124f828a7bdcdacfab4c114e5e4436215dd73b48b62df2067691ef8]
-│   │   └── wci02665.doc.zip [6c009903db7e3b9f366ff606eb9f237f440f7e19e59f11c0d4fdb674fa3c6a72]
+│   │   ├── helper-g.doc [a38af5ec265a4cb8a4e220ef01c1a011b86ab61f3171acefbed645c6c9c4c2ad]
+│   │   ├── helper-g.dot [a755115660b7833d1420f0a130e9a063af7c4e203d333c1663a6ef1432a16095]
+│   │   ├── wci02665.doc [c90c26b53e88f3815cf44e4a517e6012852b18bffbee3aa3f255cd2100624528]
 │   ├── h
-│   │   ├── helper-h.doc.zip [898cf6090d6dff03687e5f5918a157ab7b965c610622077d1788fb5b85b9ee36]
-│   │   ├── helper-h.dot.zip [e9215515bfed4e750930a0ee1f6000cff8b082c2d7abab64f27cde8e2ee266a4]
-│   │   └── wci02675.doc.zip [e5d2d54b8265f6ded1078bd27cf6341adfc9439cb9fe2f86e235f628fa862752]
+│   │   ├── helper-h.doc [08619d1636eab0ad0816b101e7142e71df8555644408058a88f2949991e4372f]
+│   │   ├── helper-h.dot [1d335bfb9fb44a6a13c62f5643103815491f7b5ad989df2a19012e6707f2ac04]
+│   │   ├── wci02675.doc [68c1fd7f742520ffd1c41279e3d0c1023f2b5eba8c1fa20207ce201466cf7c87]
 │   └── i
-│       ├── dmv-d.doc.zip [3013bc8e306a83cd55147dc3897b2266c3349ec769df6f8797e8c22b38b4384a]
-│       └── ex.dot.zip [0bafd1ee39c999530048092236626ad2554da2e3139576178a4a1c4f4bbe92ba]
+│       ├── dmv-d.doc [f0e520bffb9fbf2cb324a1b50a113bee730c144956942a3f29ad8484b4ed738d]
+│       ├── ex.dot [e60749d7a5d2f9ef12174f114092e0bf6c31f84dac622aa0761e910d7b829117]
 ├── hiac
 │   └── a
-│       ├── hiac.doc.zip [ee06db5b18b6b562ab80f8e085edc033f477ecdd8530145f0e806ecd77516ff2]
-│       ├── hiac.dot.zip [450a1a4eb6486f84505fd331346ad48c44a45611a01c4d22c10d2a695426cd92]
-│       ├── wmhiac.doc.zip [c22aff25e50ae9ffa6348d5ff14eaa7ac045f44d8bc22cd6cfd783b93601c96f]
-│       └── wmhiac.dot.zip [bd82d8ef5060bd993a5570d2c3e2fdb48408d9a08123cf94abd77b5cba5e2944]
+│       ├── hiac.doc [3f64d6de5af8e1251005ab6f6e3e9da877d275753bb9920266b1fd27026283fe]
+│       ├── hiac.dot [0a7c403287dd499590b34a2923762730f36c6b643816fb49309846ac42b70a58]
+│       ├── wmhiac.doc [84d8cd4497531c862ec3ee8b12e232a503544346d5a694c4751c30077c7b882f]
+│       ├── wmhiac.dot [dfe4a6f02aca0fe4827ce6331404272f89e132f7f88f3ec6832c456a9bcfc6a4]
 ├── hider
 │   └── a
-│       └── hider-a.doc.zip [e7bd359eb05c5e954fa8eab6b0b93c2553b3d8c365b855c2c92b84972d7770e1]
+│       ├── hider-a.doc [9781dc50a1d91986555778b99306bf41b572bf7cfdfffa947ffe705d26475a3e]
 ├── hilight
 │   └── a
-│       ├── hili-a_2.doc.zip [4cf5b61988911d27208b4ca84d567ef02ba4acd206e275f64ba4d58b0b16f46e]
-│       └── hili-a_4.dot.zip [41d47bdcc7e068546914422e4c6e20584d2093c2ad162cb09e2e41a034fcb220]
+│       ├── hili-a_2.doc [10bbd84874903e46f5737582799aecd9a71a3db493016c01cf11c97b1fc312fe]
+│       ├── hili-a_4.dot [86e7c7e22377ab37da735604b8c4f2cf09afb5e8f7c15cbe24ae23043670c01d]
 ├── horn
 │   └── a
-│       ├── horn-a.doc.zip [48650154dc187eaac96ff63f3a3042cd775b66c9e1e80109a8b9e60b8f091cb0]
-│       ├── horn-a.dot.zip [48109b6c93fb6497cd9862597aae6aac1b7aca8d44b15c1467692e96a8acf548]
-│       ├── horn-a_1.doc.zip [6be17332995ae0f18f7e95809b44de60c90c199db46eedaad784da76083271e3]
-│       ├── horn-a_5.dot.zip [7db21d1d9d9c77c74379602bd664651cdd73c6ad2c5b1bbc3ae7ff03b1249e6d]
-│       └── horn.doc.zip [89a967d1b02a0035f2a27885ab4e31984a3b618edb267e6a2ab66712003ac36f]
+│       ├── horn-a.doc [c0e508ecb06930de0d9664c0f3121aaecfbef94416d9cfe0ef10dea5af266eba]
+│       ├── horn-a.dot [3279e10d20a23cf6344a2a3e167245f492ec8c6d6cd088d474c5441d2f372893]
+│       ├── horn-a_1.doc [32d393f967ce72f0b5dde558842fa4e3905cdb76d031e389e65ed226e8e71eb6]
+│       ├── horn-a_5.dot [a6534db827a55da8a87cd52e2ca90e9fcf95edc50bb361b48b74c5c050d91dc9]
+│       ├── horn.doc [ab75dac487473eb4288e532d7409c2a4fdf6691d65da8088e242ed896891c51d]
 ├── hot
 │   ├── a
-│   │   └── hot.doc.zip [de28e6f3b7e67d98edde67a17932ee39aca2376644fe5fdeacb0221bc8b451dc]
+│   │   ├── hot.doc [764520a67f04cd4c1af21d15097e7eb4b138808fe09e411e22252bcba97ae041]
 │   └── b
-│       ├── hot-b.doc.zip [8dc6b063638c27d72183a14f68527122d19e52c0942bc45106ff41803a206421]
-│       ├── hot-b.dot.zip [ad3367acbd3bbc2913bb2ec0ad3716aff0c35da3758d297de1ea23662f9d16be]
-│       ├── hot-b_1.doc.zip [389b210842b14e07f614d7c72b604d292dd357b31107814bc45cede879b6bb06]
-│       ├── hot-b_5.dot.zip [9439a8968317788dc1eee6144dd627c03962d6a2c94c39639395cbb0088ccb91]
-│       └── hot95.doc.zip [22ea289fef92358520d153023625899299af46f3af32874649ae78349e8c624b]
+│       ├── hot-b.doc [7592707cca72e65c39b4a0c05f92fff95e290c3ce7aa6ab52ff631a483796f1c]
+│       ├── hot-b.dot [b7947889d0b51d49e0aa151b5175287fd4376ec52061bcd6039d0f22fe391cfe]
+│       ├── hot-b_1.doc [28049add70808cebfa75814e5592c19bd446af5fab12f4894a4de74999accc29]
+│       ├── hot-b_5.dot [d345b9fa51e152f25496944e52a08be5d7d9559043b6b42b3198e0e55c4c14b0]
+│       ├── hot95.doc [719fe20d6b75467d84d54e7394cddfe0f15a4bab0fd40cc050fde8a06c9ad492]
 ├── hou
 │   └── a
-│       ├── hou.doc.zip [5ef27a777274b61b6981892a08635ee17c4b87048efb52f7f1c5de0685975bf7]
-│       └── hou.dot.zip [d8e1ade721757a92dc5a490bbb844964c66f39fecee58bdcfb3715e342be8cc2]
+│       ├── hou.doc [aa6e3ff22e82f3f982f8aeddacded52f9abd94210e8d50943596e9429f02eab1]
+│       ├── hou.dot [d38779eec5531d35d4ede339651dc18fc5fd58211d429e5dcac55f6dea99b01e]
 ├── hunter
 │   ├── a
-│   │   ├── hunter.dot.zip [8a50d7200c3fdd4592eb927ad583cb65a490ebaad65358dccfdb4dcd558423c0]
-│   │   └── huntera.dot.zip [533b98698fec4708020f49d7367205959810af1eb387ee095a59498b1d939e1b]
+│   │   ├── hunter.dot [db90ea397a47809327bb914729f36ccd06691773aec6ba808bb2a74b75961fd0]
+│   │   ├── huntera.dot [37d51be391145df8e8f5c2721a1797c7173e2f86b3404dcb01e15ef0e91bcd3d]
 │   ├── b
-│   │   ├── hunt-b_2.dot.zip [97192f3a214c7acb196a669545c241e65165b5e0f64781d3a8130f9af9d994b3]
-│   │   ├── hunter-b.dot.zip [9d96643c9aaeaf74a50a9a5b90a0d23a13b114e741e64ba03a0af983518486b6]
-│   │   └── hunterb.dot.zip [d63a3144fb3fe6bb09975c9cd818dd5795897aa5d6843d9edc06d7986ead227b]
+│   │   ├── hunt-b_2.dot [9e915130e4a80647d4b0b1b3a2e8dbaa6f4067d2d9ede119d39b5bce86f15b6a]
+│   │   ├── hunter-b.dot [b7fef77b5ee0c243a6a4980fbc2459e970fd60c69a1909f62700a290593412d2]
+│   │   ├── hunterb.dot [0160ecc844edcf02b8b702d263018eb496261b8ad3516e955961ccea4d83d4dc]
 │   └── c
-│       ├── hunter35.dot.zip [f89af7fcab4433610d641fcf9c5e68c9e18a6bf3abe026511d3781f91d60d709]
-│       └── hunterc.dot.zip [7e892a86c17c21bd20c3b270c335f54b0124bb8cf12233812a00ffa9b1478c6b]
+│       ├── hunter35.dot [e8f7c99ea13cb1696d120011d950c6e7621622311139cdbf0917c2c9f052120e]
+│       ├── hunterc.dot [10d3e77ca34ee0f75a05534934d2a386bef2ec6893c19b621c75cc3d2cdbf8b3]
 ├── hybrid
 │   ├── a
-│   │   └── hybrida.dot.zip [3818957a0515c4c791252660475263213e5a7d99021e466bd2413f93f117707b]
+│   │   ├── hybrida.dot [7824b63a860774f3271149d5e7fd99df4b55e8c8865fa8319152f747639fe623]
 │   ├── b
-│   │   ├── hybr-b_2.doc.zip [11eea42940a2a11a1e1fb5c1d621f8038d192d1a5a1fa4da04b18a6168e35e6e]
-│   │   └── hybr-b_4.dot.zip [95de02dd78e4fe93e2efcc9a07bbb62c7a2a5ce8de11cd937cd3f6f3269eeec0]
+│   │   ├── hybr-b_2.doc [aa0ae0bed1a50bae82b1ab588b69b8464a061580bbd8508225c0c0d13950ec24]
+│   │   ├── hybr-b_4.dot [97bed3412de64b3498e1bf9a135cf4315a5b8713acd8141b3f97029d419c0e13]
 │   ├── c
-│   │   ├── hybr-c_2.doc.zip [a7c9be75fd0d1bc2abb9410808fbc49d439d2217de8939cad5e680400870e85a]
-│   │   └── hybr-c_4.dot.zip [fdeaab9ed0270ed64c5dc53db7d26180e067d09d82e8bc104c340cd5156a4dce]
+│   │   ├── hybr-c_2.doc [af5e9c23dfa19bd7688ff152041e7d7a6b0f975344955f8cd03325001f2c29f8]
+│   │   ├── hybr-c_4.dot [d984ba44314be916550c300164c4ede2445a8f177b66f7c81664a5bbcdd5c7b7]
 │   ├── k
-│   │   ├── hybr-k_1.doc.zip [df7fbcea633d0fd91f8a2e70e5cda1b44f76870fdb88551d5d6946788d654e57]
-│   │   └── hybr-k_5.dot.zip [15f1ad7df38e281a2819e80e19497831f7a23fdd49d2e69e3d411b99be916b2e]
+│   │   ├── hybr-k_1.doc [bd0e2ab928a0850ee3426f878b829173ae2a262518c5453b970cd5a5cfcba0ad]
+│   │   ├── hybr-k_5.dot [f1e43dc0b2d3fee4235c5c9629a50d4f28d8623e7752353f92119f3423f39add]
 │   └── l
-│       ├── hybr-l_1.doc.zip [7b86d97aba10cb845c42ad666b7d4514c8a166ac867863abcc4067f10cba24ea]
-│       └── hybr-l_5.dot.zip [c6385eab117a30e469285037f72c708872fb8f42527bbac4d22c1759ad6e2c9f]
+│       ├── hybr-l_1.doc [b4488dcea85c93c128804da6a5ab3ca7b908c4d75109f2601bf31d7dd749afce]
+│       ├── hybr-l_5.dot [b24b26b97e613cb2180fbe162b3b65832bd31d64c0702b5c8d7934c0fec3689a]
 ├── hyper
 │   ├── a
-│   │   └── hyper.doc.zip [fbc50a37f5127cea55c04005433b50eb80d0acdef12204674353cd02a1f3929f]
+│   │   ├── hyper.doc [234e05880a304b4234c8177d90ac46f34a4b0bca627c5ec48be71599339ba275]
 │   └── a1
-│       └── wci01644.doc.zip [02be7c6b670a10617f42b2ea74ea3e6e1e2481a5a6b6273bea067879e8b22e98]
+│       ├── wci01644.doc [7100d275abfc27cd3cbdc64eb4575759db8999d67edc50e7c48839574579f32b]
 ├── illiterate
 │   └── a
-│       ├── b_nod.doc.zip [6e17ae5f78c32efde00ffb5be7a7079772f6c45b5215c7ebc80e40ef956b714b]
-│       ├── illiter.doc.zip [76dcaedb0155ec8a7e1c56c6fee315f98703b7e45ed11395d5f23f53b8e8218a]
-│       └── illiter.dot.zip [c36d0aa091e01bc2326feb623f665ef3e93fb88be5c4f9107291b89a06928fd9]
+│       ├── b_nod.doc [f0bdebac70fc881cdddaba9f52284062fd379b0549e5e06c679131f8f3e290cb]
+│       ├── illiter.doc [1606d3a537e0bda310b582779e82374cd4a240a4d236695bd953b8c7fc5c8f3a]
+│       ├── illiter.dot [37f1ac7496dc8f045321753b35067f7ed40ca157a9dc16c222016790be31b03b]
 ├── imposter
 │   ├── a
-│   │   └── conc-imp.doc.zip [a64d674064aaaed600e4c8342d988f6dda2f12f142f6fa39e2022908867094b5]
+│   │   ├── conc-imp.doc [48b0ca5bba51d24eda84c5e44f0dc7b45ef299e053c991f87b21d383a4cdbe14]
 │   ├── b
-│   │   └── impost-b.doc.zip [bd86cdae9720d3d19dca585edb0868bc29f36a6d6f9f13aa62baa3e473361768]
+│   │   ├── impost-b.doc [117b37e6fe7cf3b8cfe2e23693143fb4939201491cd3f2daa07e75e400cdeb8f]
 │   ├── c
-│   │   ├── impo-c_2.doc.zip [d910d5d1e8f4bcf768947da60857f884b61e21d4244a7a7d089fc5bc64899822]
-│   │   └── impo-c_4.dot.zip [8009fbdabe1d9cf0faff32ab9b8a0b8e24a6cd53978ac83ed292b0f501859100]
+│   │   ├── impo-c_2.doc [1a61976059c3f7eb6a7c8b2e222a5653e20e495848745c7681a31d37f7b74094]
+│   │   ├── impo-c_4.dot [65c2bd5f6b7ba6907df5ba77e9837796632c2c6aed1525f95e0a37f7c8c793bf]
 │   ├── d
-│   │   ├── impost-d.doc.zip [69d6a6f94bb0473f19203c7e840b6551364fc46a3a06d629d00f55e4b9f55a62]
-│   │   └── impost-d.dot.zip [4c9ec969c527ce1f9c015bb355a35de31bd4a80f5cc6ccc15523970efb3537a4]
+│   │   ├── impost-d.doc [8dedfe6ed45213548a40d2b522d3592f43a6e61f0439b525f8d860df28588f76]
+│   │   ├── impost-d.dot [85da83148e7bd8466689344b09ea63a6458c845aeb20ac1c51ad12346a9ae453]
 │   └── e
-│       ├── impost-e.doc.zip [c1272ece2c5bcdbe303a7b795fcfd8de8bb6089dc1333999dfc13a645f952af1]
-│       └── impost-e.dot.zip [372ebf1766b2e97969c0cbcfa5b37c1481156d35ae768f7f3a03083583a8a06d]
+│       ├── impost-e.doc [c1cdcf7e00b08d0d9c37c96a18bdc101fab5c6904cb1912287d99284afa7e620]
+│       ├── impost-e.dot [a2707543c859d5c14d4726c367bdbe87fad0dc3063cfe3278d94f8b1864fe60b]
 ├── incarnate
 │   ├── a
-│   │   ├── incarnat.doc.zip [0f622a357b19bf0035ce4dbf9d88dd498d2d50d0e71758e2965e52cc22832ca4]
-│   │   └── incarnat.dot.zip [fb6e1a779d9d85703eef0bd463039f03e07fce04cfba1e2d36d5d03d93b553dc]
+│   │   ├── incarnat.doc [479f682e012ff9e5e04fd29b558f68bb632a7e5aa558fd8aa62bd89081e9a6b1]
+│   │   ├── incarnat.dot [cce6c1cd1524fc2df9ad71cdf73b1a8c67550a748172d0148fd0f9d8b84f1a0f]
 │   └── b
-│       └── virus.msword.incarnate.b.zip [4f2d228d646ed5cbd17fb864dff14daf0bf37196293f6a20543e18d3c96fe813]
+│       ├── virus.msword.incarnate.b [451e514003345b87e4a00f2ba36d196258d0c07e65afc2bc1870b71bd7a6e220]
 ├── inexist
-│   ├── inex-a_1.doc.zip [b8e5cd4e0e364fdcaee4a059fb8ffed49dea17ad33d78f9038c7164d1580d793]
-│   ├── inex-a_5.dot.zip [ded73954f08601fcb6c66cb842b414433396ce7343000cb519386dbe30b366fe]
-│   ├── inexist.doc.zip [8e75c938d7c1b53d1eb54949866a4f8ae58ec2e4341e0923322a96e779ce825e]
-│   └── inexist.dot.zip [c66e9bbb28ffd72731eaf7d23a198478fcf515f2a6c6efe58f9d5e7964a62d35]
+│   ├── inex-a_1.doc [ecdf9f5f6302cb0fb11dbf53cda4987d779560622a8676a730e4bafac9c49134]
+│   ├── inex-a_5.dot [21c1f0cc903934c620d3411579ff33425bccf3575aaa72936d986346385fcb96]
+│   ├── inexist.doc [929a12597d2570b560018ae40c6c7fe9f1e85e04ab951daa7e5a924fcd99c785]
+│   ├── inexist.dot [705188e484e8aed343b5d741bcc2268a66f479450b5d2320c58b07cfbc3cd5ce]
 ├── influenza
 │   └── a
-│       ├── flu-a_1.doc.zip [cf36a1e970f7234fad5839e61ccbbe0a6e6cec35e567677031bf20964b73cf67]
-│       ├── flu-a_5.dot.zip [30bb7c5cd838d6a2ddfa1b544ff6ca70f2b477719496f404ad467b452110d605]
-│       ├── influ-a.doc.zip [233132d13dc5ebf098f27bf3eb01c43e829906ef54e4d7e105da3afb290d37fe]
-│       └── influ-a.dot.zip [2c4f9b11ef02085fe72a7e282a85e285ddd6127b05dbc24057d02bd5cbf0e7dd]
+│       ├── flu-a_1.doc [cb1ff0c0f7953c8c3e8faab3cf3758dc5cca2aa0f050a5ce7179f0bfe9e39710]
+│       ├── flu-a_5.dot [a9865e0830fd7cd970257632daadb8a6af4a652e9938701a234b14f404b1a8bc]
+│       ├── influ-a.doc [02f13b45b1c7b6ca003efaee1cff6ef3189929895f0435bd68153eb15404bbd3]
+│       ├── influ-a.dot [8faef39f860dcbf9972e37ba2145bc75eb4cc94ccf75e1018be0e466d6d2e31c]
 ├── innuendo
 │   └── a
-│       └── virus.msword.innuendo.zip [545ad991f062a141881ad48ce0c6ee84d00ae06472c83175e934089cccff41dc]
+│       ├── virus.msword.innuendo [7cdd615cf7c72a7ca6f7f781c98a8f2baa8237a4d2e074b1e63d019ec3fe1d98]
 ├── insideout
 │   └── a
-│       └── inside.doc.zip [7d1f87df19f304a2077fbacceacd2614db148651423704e9a3a2e6dfe4652b8c]
+│       ├── inside.doc [6ee6f2c6ebb0912e5d958fabea973c865dc06f34578a2710486413e28a8c3b30]
 ├── irawan
 │   └── a
-│       └── virus.msword.irawan.zip [31ef22c4baa25211ecdf09c6ce168ac1c5d9a1e404bf0a04b4b683c5987bab9d]
+│       ├── virus.msword.irawan [550a1d41e51d7f38b0164ad01a5b3de15a22ac6116e8327ad1d734a47f6512bc]
 ├── irish
 │   ├── a
-│   │   └── irish.doc.zip [d3568d858486018782b48b374fe078abe613710045b1899113086f99b04109f7]
+│   │   ├── irish.doc [b8e8b6acaf956971117412389e2a3752ab307e2634f088b2118c9d9db41abb99]
 │   ├── b
-│   │   ├── irsh-b_2.doc.zip [bb9ff076e23181afdbc60a9f6b65ddc28015efa975485654696cefa86c3b4ca9]
-│   │   └── irsh-b_4.dot.zip [266107ec2a26ac114ff752fda3472dc707cd7ab2cca68a6e75c67b44943b1d17]
+│   │   ├── irsh-b_2.doc [0b4e1a7452190f37f74380ee2ec1ab29dc4b77a5d0f95b6c23114728acaa6629]
+│   │   ├── irsh-b_4.dot [454f7b07550bf4e223b9ee673cd9441f7e9ea807f1dcc0ad1f688d59d33d484d]
 │   ├── c
-│   │   ├── irsh-c_2.doc.zip [61cf65d8755403623b6111b163cafb696537dceb5c5e06ca29c3fbb6a7c41097]
-│   │   └── irsh-c_4.dot.zip [53ee2d809647d4946a726cb93a161aebfc6e8b7e47e74ac9d3e9ca3704a6892b]
+│   │   ├── irsh-c_2.doc [905292af4b52299625325a834d272c58b494ad2954d4d87a411152cc3297a0a1]
+│   │   ├── irsh-c_4.dot [3bf3138f9bf6f8f2eec49a589d1bf410b26cc76b9501f9d253764c1a3f309e02]
 │   ├── d
-│   │   ├── iris-d_2.doc.zip [906dc8e0de7a93b4a9870a953c2f403cdbde57f94923a462f252ff5de8dea1e7]
-│   │   └── iris-d_4.dot.zip [9f1c0d6de48baf07fc63847f173712303c02f9748e6a0988c35529316e4dbf1d]
+│   │   ├── iris-d_2.doc [7e84a9ca61221dfd30e1e1a5f69aae2079ae72c7a2c09691190b6538e69b4073]
+│   │   ├── iris-d_4.dot [152d02a714d8f614e09fac968a666c192db1e558e129a9bcef041f3cbf06cf04]
 │   ├── f
-│   │   ├── iris-f_2.doc.zip [d64c757532431fd96c76de926d023c80db65eb974792f0cfee585d027577f420]
-│   │   └── iris-f_4.dot.zip [9a6c7aa90b2b0e8f1211b22a26ffd1236ab48c21b2fb150dfd8bea267d5270c1]
+│   │   ├── iris-f_2.doc [3422a33d215b104ad951520684e3516306c85a940b5902490009d98e09aae6ac]
+│   │   ├── iris-f_4.dot [809e36aa3d8fcf2f3474057f3c5bf3cad2189ffbbc2c32b392d2c9cf129e9fbd]
 │   ├── o
-│   │   ├── iris-o_1.doc.zip [ba62b54cd2ffce0e706fd74dbeace3640d42d3a021763a396c713fee994ab739]
-│   │   └── iris-o_5.dot.zip [807d6ad4598064372b1833253d98d0ecd7c7b98f10614a8ac9f7bfc8dea06047]
+│   │   ├── iris-o_1.doc [e21b9ebeb65e966f86c8caf3c1adc54473e695dbfc8fc774440aa038cf75d064]
+│   │   ├── iris-o_5.dot [b9772768e1d170f7f4153a4e78c295bd2ecba20ec2737b0ce148a101f751728b]
 │   └── s
-│       └── iris-s_5.dot.zip [5ea268aa439b56796a0913a19d4d6a91e6b61ef8fc5cc48a550efb91fb59e0df]
+│       ├── iris-s_5.dot [9f3599367fb6f4f9ef10b999e0447b06581830f738ba525f98063c26fbe2e7aa]
 ├── italian
-│   ├── demoita.doc.zip [2495a5c67583b8bac5d521f7f7feb548dbd2c847d4efab36930de8df2e98b3a5]
-│   └── ital_d.doc.zip [5b8d4233926c19ef3364d1eee5c8a0069e46dc1e2aeb6887034c3baa3c85b0f3]
+│   ├── demoita.doc [32628948112e0f0cf4764186870fd4b04f72edfe4c426ab9cff65c5da451edfb]
+│   ├── ital_d.doc [05ce0c105fc8de72e96888474cf1f3025c8e9364be60c62ccada7519dd1e969d]
 ├── ivana
 │   ├── e
-│   │   └── virus.msword.ivana.zip [837bc43c4c5ad2845871f1d3b46564ee32a63c0c986cedc719dd628c71c249fa]
+│   │   ├── virus.msword.ivana [7049e9ef9f9f56387236a25f5283ff867e2ac6037e19473b14b1e1c479d9c51f]
 │   └── f
-│       └── virus.msword.ivana.b.zip [4636932f75b07ad071c3d1eb157216375c5259d683a9263a383e538ba9c33bf4]
+│       ├── virus.msword.ivana.b [45ff0934efdcad61192891b90163e8e5577f259560b4d32d3e75c27d80cd96a0]
 ├── jaja
 │   └── a
-│       ├── viruz3.doc.zip [b532450cce90c71e8f62b18bd86264e98ab2afee92341be76918c5f9ade3a1a9]
-│       └── wci00624.doc.zip [3fa4dfeeda01055ddb86eeccdbb81ad39d3b5ffeccd31569a5ab98b6de652f4c]
+│       ├── viruz3.doc [63e67ee4e296d8bfde05883c93b0b0efda8afbcd072f1be39c62b2e30081984c]
+│       ├── wci00624.doc [fabc4c0747411683c12b48baa30ae3ba20695066db12a419c12774eedd2c680f]
 ├── jerm
 │   ├── a
-│   │   └── virus.msword.jerm.zip [f4cfd4e3d19619434bfc1ec35bec319aa9698963d8cc5bb12ccc070c63d4f61b]
+│   │   ├── virus.msword.jerm [4a37d8f21cd572167c1d9c89e8feeee5dec05f82ecf2bc66797ae6882dc9dba3]
 │   └── b
-│       ├── jerm-b.doc.zip [b9647aaeee8bb743534e05371df73ca3cd352f9b406655eac8a57c6e4edb6bc6]
-│       ├── jerm-b.dot.zip [64b11b6a91df9ac1de31d6a993131958b3dc81761a334b6d3e3061d62bdbe391]
-│       ├── jerm-b_1.doc.zip [a5f9ebf9e2158c2cfd3a5af22849b010d3cf1fa32efccc0bef6a6256236a8287]
-│       └── jerm-b_5.dot.zip [3cf17848745fe3314d387095f3879f92cadb6f86f95d197f5b6bd6e21948de7a]
+│       ├── jerm-b.doc [63b902b585072f4d6a94cdaa11cc40fe357fdfa509ffb06a48d66412f8a6b03f]
+│       ├── jerm-b.dot [09e3da059265e51269771532a5ebb1605b3486055e67c170fd50f1bff3433ca4]
+│       ├── jerm-b_1.doc [79421c1b7b91342146f82001ab493be59d2f5500a63873d16e47b8887b636786]
+│       ├── jerm-b_5.dot [df870fae4d9b8f907c2c4df6d280dea6be0ae69e12d71f9eb02ea53e424a06a5]
 ├── jisu
 │   └── ajp
-│       └── virus.msword.jisu.zip [3ec5c4572be411121c62faa98a19a034af16a6da15149d92d2e7a47a2d32d623]
+│       ├── virus.msword.jisu [6d11dba21fd02e0ec6d383b59e8566bed1db8809a4c8628d01b534a2c7e17837]
 ├── johnny
 │   ├── a
-│   │   ├── johnny-a.doc.zip [4a6f4880ad68985dc5c7429ed19e9ea912150c68f86ead3c6e95bb61001bdacb]
-│   │   ├── johnny.doc.zip [7dcd60159a40ffdc258ff303cb1a17b175f8f3a2b939319c6ac155666895fb63]
-│   │   └── normal.dot.zip [b5e41c761f1167091dbc65b5c81119f721c4596d57921c1940483d48c517f144]
+│   │   ├── johnny-a.doc [d90fbd4183c907f29fa1b7c20d8b3706592e3bc2ec12ae72dd8f1e643680459f]
+│   │   ├── johnny.doc [2b442fe4cfd34bc91c42f86d91bcedb04e4ebf4f5bff4535503320fc89e500fb]
+│   │   ├── normal.dot [1562f4be24e487367f78173a5f18193e3480c586c858ffb55e3ab5701fe7c331]
 │   ├── a1
-│   │   └── johnnya1.dot.zip [b3e4146ca82cb9b36a6b11685aaca21f4936bf3da445d9b5628ebb68665b4e24]
+│   │   ├── johnnya1.dot [53f2a646c946cf0edd2b542a38204fd8d68ca0d69263064887102cef05eed673]
 │   ├── b
-│   │   └── john-b_4.dot.zip [2f51bc7720c472d61f507b037dbf41f087b38754ad96668829bd862e13bb2e75]
+│   │   ├── john-b_4.dot [31f86dd08d65974ffb2511135dda207cda278d9d9f72d5dc9c1c8ae7a51b6389]
 │   ├── b1
-│   │   └── john-b_2.doc.zip [e2019e0637b26ba9be1288826227df67460a8c91f8a153c0aab25a9b31286eca]
+│   │   ├── john-b_2.doc [86b29d933c5b3133b03a57936f1cac4a3ba9b9710b40abb22b4a9941c1d62e08]
 │   ├── d
-│   │   ├── john-d_2.doc.zip [32da621125e79d8ee3d9aaad2b6a63aec78d4f6c7c207887f01e71cd6443dc39]
-│   │   └── john-d_4.dot.zip [88e762dc246c127ed50748ff0826877d18a43451435377dd74414969a02c7a46]
+│   │   ├── john-d_2.doc [695e65ad0923b223e7a042f227a68368a40978b9fabca5472fc810c99a511407]
+│   │   ├── john-d_4.dot [da3941ddf7b194ca8f7f4ac5c547b5525aa135d1c7f0a25baa87e28284154fa5]
 │   ├── f
-│   │   ├── john-f_2.doc.zip [6561b62cd6235e726068d3cb2c8c5fb9e555f810b018efadbc275324f73b7d24]
-│   │   └── john-f_5.dot.zip [32a8340ca409829b356820969ab2edf09d63e1e671b1ab64042050284fc3463f]
+│   │   ├── john-f_2.doc [74cd75e8b50fa2f1597d4f33c1eb671df09e442dacb58e109f27a04b2cb96d38]
+│   │   ├── john-f_5.dot [1f935afcbefbb044477b988b3168e6f6447a819181a7160619eb6950001e35c6]
 │   ├── g
-│   │   ├── john-g_2.doc.zip [b4ae3a47ef3e80961caae0dbbf04b2f70015f01890ae56aedceb95746f29c893]
-│   │   └── john-g_4.dot.zip [a32524e941af5ceabb5b2302688da93543013e1d22f9d6afcb3f005830e105ad]
+│   │   ├── john-g_2.doc [24d2a740517104f3e7a1b3d0d45f6a578a688b8d7721a41dfef3c00e6a492596]
+│   │   ├── john-g_4.dot [5f0da515a30dedebbe21863800c9effcab602bcc49e6faf7cc2a90e4e0d6b2f6]
 │   ├── h
-│   │   ├── johnny-h.doc.zip [4c364a99a3d190a56e4f650401ba780a47e505a724e63fecfdbfd0cdf77ebb79]
-│   │   └── johnny-h.dot.zip [05da01ab7de6c35b1e1ed01801c37065bc1829c79deb49211deb7a7e0c2c91ae]
+│   │   ├── johnny-h.doc [25528e15a7a21e013051903dc0f99791d2cba1985f59fec0ba754b53d2fe0e6b]
+│   │   ├── johnny-h.dot [a45816537e29ef12c5132d248979e06746394da736ccb611d10b019998399882]
 │   ├── p
-│   │   ├── john-p_1.doc.zip [26af0f582fbcbc256ff94d69bbb2a72a00167ec1bb6398fbd30a1157fb9daef7]
-│   │   ├── john-p_5.dot.zip [13280058a8750260bda5142e3a2dbf80085fca17e7a6919bd296e3719843bb87]
-│   │   ├── johnny-o.doc.zip [7e7119a9fe70b9c78c2db3d647717938746efdce5a3bd9dab22c8d04100874ba]
-│   │   └── johnny-o.dot.zip [a348e9fad91f2a01db3e4ee9ae13e573a425644a6a2c55246e01231439f62710]
+│   │   ├── john-p_1.doc [4c1dba547f6dc3fd3b6be4e79335887e302e26bb9f5d54cc134f39fac011038d]
+│   │   ├── john-p_5.dot [239e04c69c20d6ce1c66fe9677bc80003fb139503d38a1be4ec388dc862576e2]
+│   │   ├── johnny-o.doc [d9869e2bcfc8a8392db3a2eb6353005174420c4e8a38b09627cae074726499aa]
+│   │   ├── johnny-o.dot [d1a5ea0b3e72d587cd722780576cfa32205d1c33c95775669c46bdfe458dd001]
 │   └── s
-│       └── virus.msword.johnny.b.zip [6d7f753b8fb2a9678c21b1258dec2ec59ed5c21af0b3b017eb83e4b7400d3669]
+│       ├── virus.msword.johnny.b [b110718a3877eb9bf8ef4b61cce67cf94d0743ff3b97435642a7f02a3f985403]
 ├── julho
 │   └── b
-│       └── virus.msword.wazzu.dx.zip [919e9066b4468ccc07862e2092e84cf90c77526face4b35dd4aba925bf4b0712]
+│       ├── virus.msword.wazzu.dx [d6772f5fad2124251f6e232b6e1543327c2821ff9f8234650418b9f3df43e7d0]
 ├── junkface
 │   ├── a
-│   │   └── junkies.dot.zip [78a65dc1e67c6659ca43a3343a83a8ee05da49c7d966831695d7b9595fd851ba]
+│   │   ├── junkies.dot [30edbdd5b05de0f3fcbf13fba61922bfe40fa165b77012e2ce9c57e326695124]
 │   ├── b
-│   │   ├── junk.doc.zip [1462266765037a7bbe008e018195f918127531ab3f7d8398817128570865b9b1]
-│   │   ├── junk.dot.zip [c381593e59a6d3021732eefd3220ebd794296e7f9841e6f44e77298a873b0d9c]
-│   │   ├── junk_up.doc.zip [7c881c92bae0ece9e04266d48882d025460a22cd87e0304a451240d9f97a2c40]
-│   │   ├── junkup.doc.zip [5a0fafd0a68636d8a099cf4be4a6390bc184817324b1e89a8c50b7a2c8e3a0e1]
-│   │   ├── mutant1.doc.zip [d7efc00121a851afcad34b91acd2f265b1130b3bdf8c735f714cc798d1da3bd9]
-│   │   ├── mutant10.doc.zip [3cf22b05053f9ac735ebafc559fe3146317f42c45adc64fad7aa86be31043b9f]
-│   │   ├── mutant11.doc.zip [e5673a31115c0673c399c38710bbae92d35ed0ca5f3f649628354177f09da409]
-│   │   ├── mutant12.doc.zip [e0dab220e43b1c65a3851d6b4ecf11914f4ca7597a6a6c8e62e674eb34c20f75]
-│   │   ├── mutant13.doc.zip [0722d7f47b68bfc7db50ac70ea6652e462d57d9f93198cb121706923441ab762]
-│   │   ├── mutant2.doc.zip [85d53293a43365c90fd5027453fdbdf0045f985943f0ae6ee5d5095ea75a6da5]
-│   │   ├── mutant3.doc.zip [1812902c0969a14253a1a6ad077db06aa98400ca3295731fa9e7eb936d701ac2]
-│   │   ├── mutant4.doc.zip [b24bd658db28d86611e43c2e71640f5cb1f86f08a33a44a5da50e10ba893249f]
-│   │   ├── mutant5.doc.zip [3bc5c05afaae250cbba0b796c99946ff8c80ddb451a43de318eb3e9ac3790f34]
-│   │   ├── mutant6.doc.zip [63bfdd54ed4414937f7f7de47b2c1dc16c24b5be7f3fddbd926b1b5d09465506]
-│   │   ├── mutant7.doc.zip [7dd304f47bee461ae4ded525dd80c2dbecc424cd18eecad4b6887d3bd2529cd0]
-│   │   ├── mutant8.doc.zip [04332309bf6807d9c8a52ad974a7153590be4f216c7f6b8b74c87a8a5cc460dc]
-│   │   └── mutant9.doc.zip [873ac5547705eb54f3b4cd0e747747173aded6ab6b9c0944f4f2aa4530f6e93a]
+│   │   ├── junk.doc [96fa2eef5d2bdc70db39cea1c8a651a1ea948c9b519e56497b41401a98333dda]
+│   │   ├── junk.dot [a0dc455ed0332149965028ab537cb4bd4e0047a53b9739b7cf606de7f1305d56]
+│   │   ├── junk_up.doc [cb13ca4ad04f9dfa02ffbc41d738a4a54cae8d668bcdc5b13fa6c1b4faf9b90b]
+│   │   ├── junkup.doc [de45afa1de5df42e28d7e2744f2362f0fdc56e6b0a11fb8a6a4c7b1ae4479f8d]
+│   │   ├── mutant1.doc [e0922f1336ce5153f3007f5e2b00f98dc700c9633092d578bc9ba4d089bcb50d]
+│   │   ├── mutant10.doc [7ea4e34d1d7f4c88f69d7a08972b9dff83021cff14626261eb7a8137e941545d]
+│   │   ├── mutant11.doc [4ad70594560d2d5f1326da4bcc76d8054698c7677333ef3c52235782e3edb94a]
+│   │   ├── mutant12.doc [a1a8766022c872ea47793f4b72ec0dde3c864e923bfe2b79a73a213250456485]
+│   │   ├── mutant13.doc [63e7db03d31caf8cdc1d7276636e4842aee549d389b642af989948cc4caa3c52]
+│   │   ├── mutant2.doc [98d43e265f4432f2cf470abb819709d261ec992c7a891cac9e492ad3465fdcd5]
+│   │   ├── mutant3.doc [bab2fa190b357916cd3176ba8b60a32c36f6b182b4167d67520e8541527b97a3]
+│   │   ├── mutant4.doc [77d2415941985bf3ce2268e65366df035e50295e7ed9393cb6e58cadc93b3afa]
+│   │   ├── mutant5.doc [dd448e0c85df2e3fbf642e182533e45ee2f4d234298c36bb08c65f73a6b97cd2]
+│   │   ├── mutant6.doc [6be16382e97e5a75d805f550d9e7cf534c45ba5540b3e494ac4cc3da0a629c53]
+│   │   ├── mutant7.doc [465e3063b8668178d2b4bcbe2d14a11c6ce1e037224f45f9dd9cfd06d78eed9d]
+│   │   ├── mutant8.doc [e268861db2a8e6e2b9198e68ea493551e6d103b806109201c6491a2c2c4eac52]
+│   │   ├── mutant9.doc [facbdda9c48b5ab632ca7fb471f65d66c200fdebb4ee93ce69c1af65404e42d8]
 │   └── c
-│       ├── jnk_up.doc.zip [90dc27069cec7038eada9127f0ba9946ba0f188c61996efd7894ca504ba07c85]
-│       ├── jnkfacec.doc.zip [ae25f8dd0aa34b7c17a8ca943c7db357ae62076bd7fa755df9f3b04797006515]
-│       ├── jnkfacec.dot.zip [5d3e06c5e358f965d3621463bad32eaaa133fcd29b513c7199d988cdcd48f646]
-│       ├── junk_up2.doc.zip [41398242b578c0bb5c2a2c162b47d5a74e511dd538765ebfb269014505a36e30]
-│       ├── mjunk12a.doc.zip [73b3bbe6c1194cc0e144cc5ae296f7bfd47e8e5814e23efa77b0bc7408738dd1]
-│       ├── mjunk12b.doc.zip [8e653d42f4da14bbfc07f0bf44c0e02839395429839501e3c4915edf5b2bf808]
-│       └── mjunk12c.doc.zip [2ad04ff7d828ea7f2a02d8ac30353ab90fc727a47e074adc27a18197cf8bc3e7]
+│       ├── jnk_up.doc [4d15203bec3604497388fdadce97af696993493ffaa7ffc9a3c7303a0431525b]
+│       ├── jnkfacec.doc [fc1a8893b49376cdd943b720e2692cf78347dba077a337e763c1672711f7375f]
+│       ├── jnkfacec.dot [5442b4784a8f25424cbfbd1aaebd1e0945dc65dfca9a0f7722be75520aca89d4]
+│       ├── junk_up2.doc [9a299dbae660d02cf2793935e490f22da107ff9d2b2748842cf0426a77e9cfc1]
+│       ├── mjunk12a.doc [b3cd53982c704d7a93f67b04a7ac9a3058b7c1991c4a55d6033739fd00cf38d2]
+│       ├── mjunk12b.doc [5927ff30996fdb602e290729c5814c6eb3baf615e31b91b1be913a738ce05098]
+│       ├── mjunk12c.doc [4cb0972af1652746b5d7e3591281a9261589fec9d30141c2000e4a7eb431c42d]
 ├── kann
 │   └── c
-│       └── virus.msword.kann.zip [cb162ae55dabe4768048dbc023614680f228862ad64999554fd7ef2d42e45b24]
+│       ├── virus.msword.kann [3b0e5be40b90fc949c99690369e2fe7c75be69e10b946f76d862c82c0c35a389]
 ├── karatka
 │   └── a
-│       └── virus.msword.karatka.zip [241a3630b3e682eed1ff4cd9028e8e355fa753a690542e5045fc5d0cfaf29bcc]
+│       ├── virus.msword.karatka [c4968bccac3560eee1b8e61b6bb20c48036cb53a23302bdbb8252d94eebe1af2]
 ├── kerrang
-│   └── fakecd.doc.zip [d84752c476a95a6283fe05ae1d622f231d27c9cde4de14ee04fb7507aad9e6bd]
+│   ├── fakecd.doc [fd507c5ebdad5f5c262a45364b9568076f11378494136f56f7ff854df7234539]
 ├── kiek
 │   └── a
-│       └── virus.msword.era.zip [53e1728f54e91669f0db6dad662b36a36f4cda909c721bb46e61a2796d49df97]
+│       ├── virus.msword.era [eb24309d144a2e99e7ec92563b4946c9ae49f5e0b63b8a265fa964ed89450fce]
 ├── killdll
 │   └── a
-│       └── killdlla.doc.zip [db03d3ad921f9d0ab2478959a978bfd667bcaf622d9899a768a78c3fab813c9a]
+│       ├── killdlla.doc [7d1816c0d34e4f8ab0dfa16f3da23761e6d569e772bc56521bd3e01f502f98eb]
 ├── killdos
 │   └── a
-│       ├── kdos-a_1.doc.zip [45ecff9902c952572b5aa6dc37f306dcedcf4f6ba26f6655572b15f284bdcc67]
-│       ├── kdos-a_5.dot.zip [d5398349c321111803a2343ba084c81c043a039b54d595d2e3fac42597021fa5]
-│       ├── kdos.doc.zip [f8a8967bce4fcb844fafd2d31ca66095494e2a71de01837ae24c7fad64d4dbde]
-│       └── kdos.dot.zip [77dc9e5847337573bb3db9de863b51dcbeea2bd92e1c43c4a08be482a71f03ce]
+│       ├── kdos-a_1.doc [09a0eef42e558d13afcaf255b8208c694dc5f23e24f7572945e3f1e7bfa445dc]
+│       ├── kdos-a_5.dot [194e5a4dd1f2a0877f2a8ae831c8d5eca6bfffcbf5102235445b0a4879dca976]
+│       ├── kdos.doc [3551710ada4740241a273a31deb9493751c7a2530517a5dc86fbdd2366034091]
+│       ├── kdos.dot [9edfe9a5cc681d584677d3564762d969e190a55e3a99b5805d5a2331f98ecff7]
 ├── killok
 │   ├── a
-│   │   ├── killok-a.doc.zip [ae069334c8ee21f733d90f4829297839f75d7e804db69527d10f6cb6746c8ae9]
-│   │   ├── killok_d.doc.zip [5b1b1a92992fdfe77612ce9e845ae58ba69dd9ea76275a0a988cacf6c494d484]
-│   │   └── killok_e.doc.zip [0eabc8ff3aa8046eff8ce0c9d5c59408a4302eb116ae67635c8ad31fc0829648]
+│   │   ├── killok-a.doc [328922d4011b5cfbded5cfb48194dded769eb9113f3362c3aa9454d1b3d956dc]
+│   │   ├── killok_d.doc [ea9f2182df51f52c244c5bc616c60671c24e7fc6efb580c681dfa0a105a5ede6]
+│   │   ├── killok_e.doc [5e3eaa026d479242e6513158bb1272b6896e35098cc7f85ace394e5f99165b64]
 │   ├── b
-│   │   ├── killokb.doc.zip [a7e3ee782560198ac728b44616b425ea7c67fd0aa050bb5be56e67d8db757955]
-│   │   ├── killokb.dot.zip [815b0364d25e0cfa6e71f7726a28c483f8475a01fd219428793120f23042c955]
-│   │   └── toegoe.dot.zip [6cc4c1f13ad0aadc7efc667502288067eab70b3a0c05a6c19795deb805dd39ba]
+│   │   ├── killokb.doc [542a32f7c5f8af323b271aac3c24c29d14f54f113fea52caf348ce2c19d2cb5a]
+│   │   ├── killokb.dot [717894d334ab3f8678dde7da5027e61dc5acbedc433c9c78b5a84f3ab72b1e13]
+│   │   ├── toegoe.dot [b9e0aa9a3a459d6b9465a737ed25c670f5b8a84cfa6fa8d4a49a5d4d3854cb08]
 │   └── c
-│       ├── killokc.doc.zip [7e8025c4f7cb7707c94fab2e417f3f215f369eb41d1ed92acf2a7fc8524e3ff7]
-│       ├── killokc.dot.zip [c21c63a0c53a73d6ffc41a9a03beef611bb22b85ab7ef871fea5cf98071113ab]
-│       └── krakatau.dot.zip [53058dafbdcb6a1eaa884f01e26026d4326d3602c3bb8d2525a54bc5d20c1043]
+│       ├── killokc.doc [43f2322fd9ebe9e6eb6b424b01d0b1aec5621c67b212ad0838aef66fd0cddd94]
+│       ├── killokc.dot [a9043a7885410cf62a07ee1a671aed92bd047e435753be12bad3841fc0a75a5b]
+│       ├── krakatau.dot [37f551da3bec02f55639ec4da62157902da9429fa0f6788bc89080c3aa81f16c]
 ├── killprot
 │   ├── a
-│   │   ├── kpro-a_2.doc.zip [d1b091e2d5c02914555e8b62a3a5555c5ba26dec6094a2769b8306a30ba2453f]
-│   │   └── kpro-a_4.dot.zip [324f9b7a209a665f167b20905c513544deb03cc3c0e6dd3405765336c1c27213]
+│   │   ├── kpro-a_2.doc [082dc19c549c9193cd90f11fdfa237b16b46cb6c915aee2ce31f476bec4f937a]
+│   │   ├── kpro-a_4.dot [de7273f22e3c18a6d4dadc1e8d1b1b664fc94d6a47b38e3adec598e7c9d48117]
 │   └── b
-│       ├── killprtb.doc.zip [8f41b9ecac435f704fa86449377ea9196bdfc364dd1e8bba9e5a8f3a46e0c832]
-│       └── killprtb.dot.zip [b70c34bf1b14789e7502dff187c7860de18d46d45d758d66b5bad80db6b2b336]
+│       ├── killprtb.doc [edfa4ab00e6264c923803a461e0f7fefeb626aa9447ac89d4a8a89d50c78536b]
+│       ├── killprtb.dot [868b4629a704ffd267a47fd72c7f279988737ff5f51f71f06ed2cfb592a83372]
 ├── killuf
 │   ├── a
-│   │   ├── killlufa.doc.zip [95f77fb6b3d4a25e69d5733ea65de102f3196d780e71047f4c7de0df8358b785]
-│   │   ├── killlufa.dot.zip [6dd21d854fdd6843bae27e8f7d41f70f36e9d62ae3e1942a10799bce69380b1f]
-│   │   ├── kluf-a_1.doc.zip [1abc526fd1e348be0401b01a1353cbe0278c50437ae961a92935180bc9a4681e]
-│   │   └── kluf-a_5.dot.zip [ab97dd42930920b1d09ec8e510879c284d8ba27ba8e30dab086d6702486b75a5]
+│   │   ├── killlufa.doc [fb5184d1267659d686461113042777bd7f729f7dae03b4ec1ef856510c6d6292]
+│   │   ├── killlufa.dot [fe2feb8104493650bcb7ee8a393edf8521448407d7068e847929e59e75845550]
+│   │   ├── kluf-a_1.doc [d8158f085bcd4501093fa8c989e4160c7ab0377e38d0d5440c1f4de24c340212]
+│   │   ├── kluf-a_5.dot [879826d1b9a40542866a954518ab43d2ba502c96ee72dce940c3506933b4d121]
 │   └── b
-│       ├── killlufb.doc.zip [c393191bccbe1836be9bd578f54246cb57136d0b30ae73e2254c75a00d3d8709]
-│       ├── killlufb.dot.zip [6cc7a34dd94a63cebadf11cf30cf568e3145173e186b265d4b5f644e249e4600]
-│       ├── kllu-b_1.doc.zip [868c751069ef073dbf53a226bf85d22587d4386c2d36e9d7f650c6efdff71e2b]
-│       └── kllu-b_5.dot.zip [0e865dedd4b2bdd407288f8fdc2efce417f62c47ff21770f985dbb287c8c6bba]
+│       ├── killlufb.doc [cfceaecc2b64bdf15628017f4730f324dd4c4a09bf4303a53e16cf576437a754]
+│       ├── killlufb.dot [025523abf29b674f959503fa4e063c9ebab7bb3f7fa63e3614a1e675947397d8]
+│       ├── kllu-b_1.doc [3ee0dd2b1145947b729a07a9f1f2463c1a64602e6699e1b843113cdf4e38fb8e]
+│       ├── kllu-b_5.dot [e17195674e7e00115568ea155849c6070bca464d6ca8276a4c833e5f93954c4c]
 ├── kmt
 │   └── a
-│       └── virus.msword.kmt.zip [bf2681df60be4e4039302129662871a97d0405875b1f914e2d4592c4053ba775]
+│       ├── virus.msword.kmt [9070a22dba29cbe14c59b54fc7890a59948b0876b944b427087583390ca9624d]
 ├── komcon
 │   ├── b
-│   │   └── virus.msword.komcon.b.zip [cb618b319999c006b60a42e6eb8a14362008bd15cfff8ae8ebbe0ec54b35b492]
+│   │   ├── virus.msword.komcon.b [2719bf803d178f67c2ff15036a873fe1a0e932b74640dcb92ac08ccb26b56629]
 │   └── c
-│       ├── indi-a_1.doc.zip [eaa71f970268d6e1abe8e747781c2aad202c1a4533ea7639ad402f1f47ebfba3]
-│       ├── indi-a_5.dot.zip [c4a75a6733893bb0a9b3b1ba8de3c274f4e9b779d7bbde3b26cd867ef7b3fe05]
-│       ├── india.doc.zip [1d8f6271428726d7f1266717400289d919b2616c9514b9d6ab0a5df9da7d7289]
-│       └── india.dot.zip [2a64df1748315931e9e3d2d5d8e55720f84ffefb0a153cebb00ba9243ec190d2]
+│       ├── indi-a_1.doc [a122d4a5ffdbde75c2ae53c006986c68d69f7e41258cb844db258173ecf340a3]
+│       ├── indi-a_5.dot [7c9f77ae82096146190d45d6121c58b169413fabd801e864464f1e79bcd40e7f]
+│       ├── india.doc [8d5fca40fea9806954de0a29ffb86d8ea5d6724372f1f216ba5cb1928cbc95bf]
+│       ├── india.dot [f02da64206377963d6b893c8542cf890130ac9c95c1f3174fa8042eaf2e0a73f]
 ├── kompu
 │   ├── a
-│   │   ├── komp2.doc.zip [012ebe2ccbf06aa3824b9535f176da01cf15906d167e976506c4fd645962ffb7]
-│   │   └── kompu.doc.zip [abdc84deb01396e2a104995464a4cce335224a92981afc38630c31be5a7f9fa1]
+│   │   ├── komp2.doc [e85b49d8318bebe5f3046392b58e77c562dee19b10e757617580c3327a1c84b1]
+│   │   ├── kompu.doc [57d6843ab7f82ae671f308256f475b30c65a43a31a19ba93363d58c331bb6521]
 │   ├── e
-│   │   ├── kompu-e.doc.zip [d4232ffee147cebd319639e9007dfabd2a38d436f3640881e9ba276dbf9640ab]
-│   │   └── kompu-e.dot.zip [42bd121fde3829c566d6c68a2fd0b39a1d2cb3e18a9cb363431405a971e201d1]
+│   │   ├── kompu-e.doc [c8dc0d71707a477f90be3e848da428af748178ad0c753dddcaf88688a267ade0]
+│   │   ├── kompu-e.dot [300503727e3433bef9d8203dd8e735441952af54269f3e731c20d2e197d0ff05]
 │   ├── f
-│   │   ├── kompu-f.doc.zip [a1918610b576c506006c389a6ccb83ebf8ad675c01230b85c66ebb4df653a796]
-│   │   └── kompu-f.dot.zip [1b20530cfe3582ae2df520a97003c4d6f40c23f6dbeba248a6bad61231a9a592]
+│   │   ├── kompu-f.doc [04d2c66f00ebaaca2c3c7e939680748bd1ba9607a0d7eee4629bb669074ca837]
+│   │   ├── kompu-f.dot [19bdc4235635095f2dae36c6ff59faeb6e58c2e2fc9a08f0170f88043fcaed2a]
 │   ├── g
-│   │   ├── komp-g_1.doc.zip [41198edc61c61a5c69dacee51232f9271db4d537524f43d01161d0824ed6db9c]
-│   │   └── komp-g_5.dot.zip [943a8e5d902dff770b40fdb66a0ebba430d9c5e4a4a629297ec5652ebc50cc5a]
+│   │   ├── komp-g_1.doc [c5c21d1c5224db593eb3fc30a0ba7e3dee6dd58169eb9e29c9057e8956a4793d]
+│   │   ├── komp-g_5.dot [f1df109b1c7d04b6bebb7de255c854a9cbe08f7245e33c279020ed0456997e6a]
 │   ├── i
-│   │   ├── komp-i_1.doc.zip [6f0c53a8d60ce69aef0e5067b939b49ce7abcf9cd0c85aa11b3615a73caae48a]
-│   │   ├── komp-i_5.dot.zip [ef3eafb9d74e5f18b5d5fc621e5a04da3c0193c43ac670f8f90625d8671ed132]
-│   │   ├── kompu-i.doc.zip [96649c258ec87e4f49ae782a247be9c4877aa7a4a938594f60820f2dd6ef6b6c]
-│   │   └── kompu-i.dot.zip [628b6c2f979503c3bd9aade046f27885878e6f02429996df9e064e020e67bd46]
+│   │   ├── komp-i_1.doc [c9a9de9af516c8976f12a214c1ae5e9f87888cb8f5e86caf942eb83381bc9e4b]
+│   │   ├── komp-i_5.dot [5e7d77dd43d7da34f4f407edd87582ba7fb1231364789070a795c5dc3b8f3762]
+│   │   ├── kompu-i.doc [2e1f9004dbaaba6cce262c08f54fa580b33a2470fc146f46c4d5428d742b0c41]
+│   │   ├── kompu-i.dot [274f894d96477bf3a98ec8f538feb6d97469aca4cadc2890b2dc6035f992a64f]
 │   └── n
-│       └── virus.msword.kompu.n.zip [7d5b2db919f6ab4776e988236d2d6b7a2af370a8ad31fd224881dfb3896b6d4d]
+│       ├── virus.msword.kompu.n [11397ed4e02a52e05d376c5f4db8389c76e2f83e33c935692f1f4cfea7dc41bb]
 ├── kop
 │   ├── a
-│   │   └── virus.msword.kop.zip [f7dcad7851d83682ee527c31ccd5940e1be65d8fd89f3ceb3ba4d546c0191c06]
+│   │   ├── virus.msword.kop [df172c3dbcbb582a0adc03e2301779b8252265f41867bf6253a3b2eaf875eced]
 │   └── d
-│       └── virus.msword.kop.c.zip [e3ac8370f8f09373172504aa166dd27cb241eecf651b52839f68fc0cdbc51bbf]
+│       ├── virus.msword.kop.c [b228aa1a5502fabd95316ec0579ef4adc2f9e0a051f732a91ed077939b75f9ca]
 ├── lamah
 │   └── a
-│       ├── lama-a_1.doc.zip [080346334d93ccc730f1b46dd30c3599e4eb026842bd13c6c1a615a65f98ceea]
-│       ├── lama-a_5.dot.zip [e43b7a45763e3425801fdc73d7e7a95316da3bee7daa53ddbfaebe07586cbe30]
-│       ├── lamah-a.doc.zip [5e705b145fed51e3240a2f7db604d1623f3c20714385c1cd17ed2b640a45bf4b]
-│       ├── lamah-a.dot.zip [7761dbc0194e2d8c161969dcdd0f5daf38c9290ce74f302c857d8be4c35b3ccf]
-│       └── wmlamaha.dot.zip [2ae2d7120a4ab8a0e199f43bf46b47f2c38d6c6092a3bb3e2fc3e5d9b00a397e]
+│       ├── lama-a_1.doc [6132b1206c4e058e3e50eb67e9e7adb0c80a03c0720828f5eec47546321498d9]
+│       ├── lama-a_5.dot [eb5e4c389439562920e3b069f7a5b76cbbf64269cfd4d8ed0fd37862599b5def]
+│       ├── lamah-a.doc [d8f668bb004c6acb7c09d5a159f07b26fa8c0a62f5502ce04c8f7323b12380ee]
+│       ├── lamah-a.dot [d1e447c64b0b7b47e5657665c0fa9598c8088d96b1a06500c828435675c562ff]
+│       ├── wmlamaha.dot [75655e793591c70b7f21a2f654ec2893e5909aec232bea892f44d97786d70f56]
 ├── lazy
 │   └── a
-│       └── !!lazy!!.doc.zip [5f704bf0282ffb9bcf8e881020febc723954a00793f407b21e8e0918b36a7075]
 ├── lemon
 │   ├── a
-│   │   └── virus.msword.lemon.a.zip [f19f78a8a10f7d7d9a5c9f2e225da300c834148045719d0a725612166c003b30]
+│   │   ├── virus.msword.lemon.a [80845d4cfcd34ed4f77ffb77f1669b9f1aeaf72f3da413d6246dd756c5ce8c73]
 │   └── b
-│       └── virus.msword.lemon.b.zip [ebe8097f5e303f732a1c076da714d33cf041b143124bc69cbfd542e004ab2472]
+│       ├── virus.msword.lemon.b [707d3fe3373c211b99fea884a64a1cc9b8fdd6a5555546951da7146a51957e8b]
 ├── leonor
 │   └── b
-│       └── virus.msword.leonor.b.zip [aff9baa8e729cba36f321ea96c7427b44771ec9ee204a9ac5c3752a9e3ef7c10]
+│       ├── virus.msword.leonor.b [f5d51185effab81a9e56d3a20072fd184c756d18319c8827baaa439b85c99de7]
 ├── ler
 │   └── a
-│       └── virus.msword.ler.zip [3ffcf48fe4ab3050147a19d41223db933add7f47f108b2968fe78099065538c5]
+│       ├── virus.msword.ler [e4448db2adca2491dfcfeab389b5e9a8b38bb2abc5cd6da0d4743ab4535cd94c]
 ├── leveler
 │   └── a
-│       └── virus.msword.concept.cn.zip [0b9b48f71f5c645effa124b913024e190f745f1017c7303328d864e0d0a1d765]
+│       ├── virus.msword.concept.cn [fad5a05c5424f8b0946cc224513aa709c6649e8ecbef6bd47d23f90255a58b94]
 ├── look
 │   ├── a
-│   │   ├── looka.doc.zip [f24aa6c41025778def8b4df8b2c070e927e0b70d9f229d2a4c00ea2ad5e7dce4]
-│   │   ├── looka.dot.zip [8fad6fed08aa46d95b62ca17f5b3df16b57ba4e6b0eb97cf2d9fdd37be9c2e45]
-│   │   └── taiwan.doc.zip [db1c2e65fd2af1fb883be870ce185a01a98cb0057219ba329c2d93fa105e4c04]
+│   │   ├── looka.doc [0fcdd00a2d90a69edca6944c9793e5199a010a61f7b254bc8085f826de1fa3e0]
+│   │   ├── looka.dot [8f0b7924311fb077d4d53cc07b1beaa43aef5d6c9067d2f6106e14fc13973167]
+│   │   ├── taiwan.doc [a36759382afb6ffd65c6c7d757f6f1ae768446ff323312fdc6dfa66059ee964a]
 │   ├── b
-│   │   ├── look-b_2.doc.zip [19135de02bf979c48fda9821ff2b6c6d312d05ee1301684110f6f260c4a14758]
-│   │   ├── look-b_4.dot.zip [37f4b4ed389aa8def5b856772bcb25075e189be1c9d8c7a1ba9c56169a59c758]
-│   │   ├── lookb.doc.zip [72301b277123be55d747023287f557759f2805be561901fa3586a06eef4655ca]
-│   │   └── lookb.dot.zip [e15f229ad52291d3a941a96f174f3bbccb182dc2b6605d4a9b81e77c6c2a5dbb]
+│   │   ├── look-b_2.doc [f10e892314293621125321e1e863d75005bae09b3be8a55e04cfc83dcd79860c]
+│   │   ├── look-b_4.dot [5841a7c2fbaef03cb7b1cf86f7fcaf7223221fe00ea5dfe4b4457e312c16b9ee]
+│   │   ├── lookb.doc [a85e18a492779998f5683e4ff124dc23940a708ff121bb05130a7148d4ff1a1e]
+│   │   ├── lookb.dot [513c2ad6d82f8630caca29b2fe36f69baee29b91d588f9f0379b1e7b9f70857e]
 │   ├── c
-│   │   ├── look-c.doc.zip [8ea8637cdb2cc93977d5ad95dca5aea6636c31181fbe943e770bac39b8507851]
-│   │   ├── look-c.dot.zip [8899369d4112e37abe1155dacd1ff753e2bdb1260e17666d05209103ddab30cd]
-│   │   ├── lookc.doc.zip [c5db2350ded9829dee081d04b90b9d46d87b12f5e04b293d8627d6d0276f6cbb]
-│   │   └── lookc.dot.zip [d63952266f99b57545bc02e3602da1fa0f14917ce16a18b1a6b056fca007ec11]
+│   │   ├── look-c.doc [190bb4db8d90b3e9751b39b3649affcdfc4c56077e81d10e15f6e45ef23d98d2]
+│   │   ├── look-c.dot [f9f9248507f24c419ad2d6ad89d60aec616e7c01dcecd8ddcb8001d5665dd148]
+│   │   ├── lookc.doc [cbbc07d648f6ee6dc8a5801004631b990528c2733eebd7f1b5ec87890cac1d02]
+│   │   ├── lookc.dot [ae1dabfb3ec278cb4d2b2c72b9603b1af7a19728916e95fdd0dc2abc14ce79ac]
 │   ├── d
-│   │   ├── look-d.doc.zip [c7e849b44f89efc8a83fe08518d0f84ca673c09240d7e845f656ff57a3528bec]
-│   │   ├── lookd.doc.zip [9641a058b71687dd86d405ae78ba261002c1ff8532c345d0f01362b1af37d6c8]
-│   │   └── lookd.dot.zip [02aad7417e78901d7057e1d1a55f25fee6b7dd5296b039163228aa3b00c79758]
+│   │   ├── look-d.doc [b4f359d80705516cbcc4d5a343753142f99b8f48facb026d93fce7cb880297fc]
+│   │   ├── lookd.doc [d1706865aafd7e3b6924514c83231c6144479766b00c2ba2acd4d68f470c60df]
+│   │   ├── lookd.dot [5f6848e62c7b7915263f82594a487e2f6fde9f391d27356d5c53c8c8856c95d1]
 │   └── e
-│       └── virus.msword.look.zip [d4150a351313af29e99b0b0df6daf11371cb99daaa483c46c42a6dc2174a70a2]
+│       ├── virus.msword.look [43fe5e7af8444f10f08615bcd4d0ce81d249820ff140ac2158fa7fb7e50d35a9]
 ├── lorax
 │   └── a
-│       ├── lorax.doc.zip [20c7bb10fc83320b3e4eb47e9938c5eef9b3422f6a1662d9363d66e75f3bd726]
-│       └── lorax.dot.zip [377ebfa6c6d0e499ff4f7a7db59b5894cbfbbe92295a0cd75ef99a4f45a5a0ab]
+│       ├── lorax.doc [2a9104c2b63f72fa7fb4c9c254ad4f75d7c143f86b08049b74cacdf97b4a188c]
+│       ├── lorax.dot [12781d39b6fb48ec9885876a4932836eb5bb19ecb02190e1596f4dae56310054]
 ├── lord
 │   └── a
-│       ├── lord-a_1.doc.zip [beeb65cb64870379a955fabafe59a2e8644726d4f7fd11634afad8ffa8e98dcd]
-│       ├── lord-a_5.dot.zip [5459daad8bf18a7bf25025b7a2247f0648f8a324ad909c4d7dc8452782b9f9ad]
-│       ├── lord1.doc.zip [e855f608534e7cfe4d4ef93b7ee7ab22d78834b9556c7b887e2ba4bf5bb2ed83]
-│       ├── lrdsatan.doc.zip [7fc4027be3003f4fe34fd39dc892ee4193995ac36ef66841df71cdbce2794e15]
-│       └── lrdsatan.dot.zip [36f7955b3dfa22e57b64cfc519324169ca071a8e9c04f88127f96baea7ed0103]
+│       ├── lord-a_1.doc [59fea1822ae4db4590442d01d8e080c207c191c4df25b1256297d91f034ed66b]
+│       ├── lord-a_5.dot [e227bdbc884da29bcf4f25ca617e63e509db2ad9e2341cdc514ea80305e1cc89]
+│       ├── lord1.doc [99a29cc317e552fba0aa3466b50e19fb7472999998f8a2a4c1cab9746737c59b]
+│       ├── lrdsatan.doc [8e4eeef310515641840dd44decc4078ce22cd93ed5f8b76734a4ee55adb01f26]
+│       ├── lrdsatan.dot [47dfd667e93c9d87ca33c8bccab9183789d6ef0729d7aea76055aefab0b8c296]
 ├── louvado
 │   └── a
-│       └── virus.msword.louvado.zip [4b93dede329b9fa237a14f6c7603efc77fd4109b21500b99e8103b946e15ea08]
+│       ├── virus.msword.louvado [14f77cdb2492ab7bac217d8cdd490832019dec5b572fb4ab72aaaa8bf6f8f129]
 ├── lox
 │   └── a
-│       ├── lox.doc.zip [6f8d2d7644a9692d6cd5602dbe78793fa9d482bb8451704be97390f7bdfbab76]
-│       └── lox.dot.zip [716590e5c9e6a10c17d5c506a7f426fc3d1de78fd3594fcd345ac16313d62613]
+│       ├── lox.doc [3212621d4a06815bfffbfe9c605b23f4d812c25cbf3b274c6a957a40e23402dd]
+│       ├── lox.dot [566918ab3c1e011e19019b12b8fd35a4ca3cf38cb3fdcc1e584b0fa833e50741]
 ├── lucy
 │   ├── a
-│   │   ├── lucifer.doc.zip [b48b9575b2c11e60f5eb6f1abb25753b560354fdf501a27e92c43b2aad1305d1]
-│   │   ├── lucifer.dot.zip [9f58a3539970b9add1731d6876a8bc0d797f277b90302ee1101ef619119b9987]
-│   │   └── lucy.doc.zip [d4e1711946e2d685e6b625659ebe2a4f7d85b0628097387bee8bb3492269bc8c]
+│   │   ├── lucifer.doc [afd44e4ee1f4c01e1297fc0beb01135ac41c96b0e75c6eff0c4407b4919dc3dd]
+│   │   ├── lucifer.dot [41cea1267a134ea926430d5b23c05886d3b87dd5aa9b01ab65ad0231ed4e2497]
+│   │   ├── lucy.doc [979c5d384969422f0f0c77a87e231d71d496463195258d368f21db9f0960341e]
 │   └── b
-│       ├── infected.doc.zip [c21c891232bcb4364dcf78e3e03cbab30ad21c312fea4da2464ab0d4f96534d1]
-│       ├── lucy-b.doc.zip [26bb59c37e9d598187ed96ce8c521c79cdcb96e01d3183d043e041fc066baee0]
-│       └── lucy-b.dot.zip [3c39415a1d3e69e6b4de80222105c97dcc54f606887348755fc48330222f109a]
+│       ├── infected.doc [5cd5d058b42579f88d6407289de0e0689a8b7606375ef30c0b54a206f3a7a830]
+│       ├── lucy-b.doc [0846df9eba9746f1322386e7a2a499cfc5b16af9360939c02f8b3fe76165eeab]
+│       ├── lucy-b.dot [954b9b169cf5441b49cec0aa4ba899941e3eb749c4c87026d8b514fea6b268e4]
 ├── lunar
 │   └── a
-│       ├── lunar.doc.zip [6e4526f7ebbb1a569a5ff1c58bb2526bfd33ab84867555efabf608b75c65601a]
-│       ├── lunar.dot.zip [a8240a3c6e9b911446f5908ece33d6a369c9dc06c6e13ad67bd03c1e1608df7a]
-│       └── lunar_a.doc.zip [550211514985a36780e7e878d735763b3db11fbe98127944bdc73bf911ee3f25]
+│       ├── lunar.doc [199083c749aaa4f559dbe17710cf1aea3925a6c1acae75923250d9d2142a9504]
+│       ├── lunar.dot [542f47f59e9be58850d05443d22771ddf7b80415d9930f1f85a4b14f8dbcb940]
+│       ├── lunar_a.doc [ec338f11eb297e4fd9287ab33adf9c352cc1706055c03d383681bc696195f336]
 ├── lunch
 │   ├── a
-│   │   ├── lnch-a_2.doc.zip [f1bb589bb935b986e3cdeb1302a6c8fb9f0ea700d8d213391127f2ad2d56b317]
-│   │   ├── lnch-a_4.dot.zip [bdfa607443e250f5a1a522ea1ffa313d4bd89302ec862e12d5b29c4c84c7bd71]
-│   │   └── lunch-a.doc.zip [5bb689add729483f9a3338845bf50a6af6ba6d40c52330c5106407cd48dfa469]
+│   │   ├── lnch-a_2.doc [a8effc97f0ac77ef6df9e65a64880a405d3e0f63e888bc8a7b3b8e9779dcf2fc]
+│   │   ├── lnch-a_4.dot [992d6fcaf915771afcf07530f226aac9d44de5c222878d3dcdecf96dc1490346]
+│   │   ├── lunch-a.doc [f6ed802450e25e5252a21f0ffee569ebbfa33110c3852574e21554e96be0d2cf]
 │   ├── b
-│   │   └── luncha.doc.zip [07715153d1095f59b47314674e6395fafdf6f72b9be224a61cf3101927521cae]
+│   │   ├── luncha.doc [6f74a9f10c8dd5ccdc502cb5704e4da87574d96be17fe91e3a8c1564cf115aed]
 │   ├── e
-│   │   ├── lunch-e.doc.zip [8dea1ae952a6aff3c9fba5cb243863f7f430d30ade05151ef54c51d9bb096db3]
-│   │   ├── lunch-e.dot.zip [4b0e5157ceffdd472af4e699f2966ee869d69a4a0621e26b5629add773acd8b4]
-│   │   └── resume.doc.zip [42e715382f9f28d71b98dc139c3a17166add894f9af0885c69d4ac5d325eeaac]
+│   │   ├── lunch-e.doc [be3d67e56b91871a86bcd83d3c975afae156132c99502504c5964c8e443c03bf]
+│   │   ├── lunch-e.dot [8a748c77fee47af40ad9edddfb7b3fc5ac886235350e93d3a08d552b4e1ae504]
+│   │   ├── resume.doc [3a8fc9b0d528db689ddfc27d35ef9430c3103e579e272034a433fa21449b0f70]
 │   ├── f
-│   │   ├── lunc-f_1.doc.zip [66cf6b1c7fed4f21bd0c56a9f0cbd3d31f2b290876b12833c935901674c79a71]
-│   │   └── lunc-f_5.dot.zip [3ed70610b970ac70a6e03991192afcb0d7254b5ec10288284da813f6dee3c5a0]
+│   │   ├── lunc-f_1.doc [7a83dca7b5d740a26e185f24e6d2211a148cdbd277df63204c05c237399b9e01]
+│   │   ├── lunc-f_5.dot [0bba9bddca2631798f7aec6d0ed0327f335b8a4c423abb466e30652d5661e155]
 │   └── g
-│       ├── lunc-g_1.doc.zip [13d3d3cc6a8ea381568f707f9a1308db6b332fb2499bb85520d3e4e1a915f850]
-│       ├── lunc-g_5.dot.zip [b56baa811476045ce859edc5845ad5f72ce36ad2c58acc17fba35af8a752cfdf]
-│       ├── lunch-g.doc.zip [1aea33c891eea579a485f1fd880883c00a944f92ecfd1a1b70d059b3da129bc6]
-│       └── lunch-g.dot.zip [3c54f5f843ae9429b3af61098c4240d0a0fc505242f244ae61ade3c10a20229e]
+│       ├── lunc-g_1.doc [94d72fc183fe4c63d19c1b8ef2be8851de0bc96c96f4e5897af44823df0790a3]
+│       ├── lunc-g_5.dot [bb0db1e408244cf4bc15399eeeb2797c572efb3d2f4c16dc56ec6ac09d72ab97]
+│       ├── lunch-g.doc [5ed82fa31da9b75f46f39e276f7c23b76eb4ea7b221af7af3242fca7d6d6b9ee]
+│       ├── lunch-g.dot [0185da3158a9c2fec0dcd7f766b39873cbb33c8f1ec8fea55f740cd55bf273c6]
 ├── lupita
 │   └── a
-│       └── virus.msword.lupita.zip [ca9438b4c8198626b44bcf95dfe5cec28b69ab4b11c1561fcc496d49d0f306bf]
+│       ├── virus.msword.lupita [bc88bca65961aa75393c7791ef96e81b7d1d1e68978ab4ba0fa41b392dd58d42]
 ├── macaroni
 │   ├── a
-│   │   ├── macaro-a.doc.zip [16e2a3fcab69cd2bc7074f8853463f16a6d22f8c546f42b3b6693dfdd3702c2d]
-│   │   └── macaro-a.dot.zip [b0109f3fdffcc598af2643435bf8696c60dfa82b8c6a0c511904f9ce202af4ff]
+│   │   ├── macaro-a.doc [d7aced8fd25595990764aef0ac6bc88bcdd395e934fb189c46c3b6e429c75e7e]
+│   │   ├── macaro-a.dot [00a6183fa37dc92255a1a2a42ac774eb5ee03f93979052db05e192c6ee149a64]
 │   ├── b
-│   │   ├── macaronb.doc.zip [2d29bb2ead307389d117a2c1e786da34847faa50a4d48a2c0a2148b534f244df]
-│   │   └── macaronb.dot.zip [fa35904a1e37ebf9fde9bcb2907396a46d9aa7d8b395f270672238367de412a2]
+│   │   ├── macaronb.doc [2910b01381bbb68ea739e6ac9c2907cdf19dfff6df8c7e0d8eda9debf74cc9a8]
+│   │   ├── macaronb.dot [58325fa556f610f1de2bc655b4dc3b53753903b742d306cda16c20c85cd90a4f]
 │   └── c
-│       └── virus.msword.makrone.b.zip [a62d23fe7ffbddc7a1d32cbed904bf1c8b5e72eb54f6786da94aff7aa0286be4]
+│       ├── virus.msword.makrone.b [0550192d8e0bd2d30030cf0f1330b362e6c42269daf129b6b6f81ffe74b8b462]
 ├── maddog
 │   ├── a
-│   │   ├── madd-a_2.doc.zip [56955e6531e3a1e348c2a12f3ce8c0dbd1340e2fa87d3832a073d849a092a34c]
-│   │   ├── madd-a_4.dot.zip [3794fee1c3490124ac275913e635b505d817b5cee50399c63c0ae2eafb65f4d6]
-│   │   └── maddog.doc.zip [92a2c2510c8a5a5c0c9009214da0871b51bb50756427f7eea9df56d3ac5c3dd7]
+│   │   ├── madd-a_2.doc [5ccb595558d4b05408a8eba6e42321c6675ec3682e91f6ab6f9bfc4a44aa7b59]
+│   │   ├── madd-a_4.dot [1f95b8da08c1519973c457b51e4ce2745cb78251c662c745194a763bf4390200]
+│   │   ├── maddog.doc [ed31795a7505a5d52c997fef4914c12e5cf74aa6d403612829f2b096fd26d468]
 │   └── b
-│       └── maddog.doc.zip [5c22944445649dce2b7912125a8627592b08276ae60d74e1ac512aa3faa5b406]
+│       ├── maddog.doc [2cbe1cec009ddcab419d3926397893334f8d7d5c513b1d0ea95551cf1033dc5a]
 ├── magnum
-│   └── magnum.doc.zip [d60b125eff65c5a625c23cfbfb3a609f3e155f75d5364e37839bc31fc44a3161]
+│   ├── magnum.doc [8d142270cb78110ced971a2e63443dd0bded42a9969b2c0214d8d11253ba6523]
 ├── malaria
 │   └── a
-│       ├── malaria.doc.zip [201a65ec9240f083e295e0cb79b631124513734df1be23d3c6eedc27f7c6b2a5]
-│       └── wci02685.doc.zip [80ab721d8a0dda5722dbd9b9efb62bbdeb4cdb939925258981ea6c5aae8e8ff2]
+│       ├── malaria.doc [c8952d9d5ee5f8771ad1f77611df3ddf85dc8e46c47259d607639c1c89da99b0]
+│       ├── wci02685.doc [745e863bdb4a49195b76dc5c620dc2e96250cb30feff1a6fec826d9836c4af12]
 ├── malice
 │   └── a
-│       ├── malice.doc.zip [a49ef03e2d1c730f9dcb29db9d63e09a49c44e9fa9611a62c7e30bf7fd24c228]
-│       ├── malice.dot.zip [4cd127375fda9bd80e01b4979f39992db5e3b1e1b158d537acd5588a40124259]
-│       ├── malice1.doc.zip [700d318b7e1015fe5928dbf11db7500add961a51dbab928e4001bdb343ba20ae]
-│       ├── mini-v_1.doc.zip [bed757a8d17a85802c1b8a4f1e1e1d1373dd6fb2a47bfd90c7676e8b3746115e]
-│       └── mini-v_5.dot.zip [ce4f7eacbf7ece335e7975216c3a70800a12a9ab394b659f6028f678966dfa1c]
+│       ├── malice.doc [68064add6335e30fc54c05d3b3e18d50c8cd34e47de72ffc5dcbcc9a63f22fd2]
+│       ├── malice.dot [bc40ba809e891eab5b2466dd12ec51b9d0deafa9dcea408c0e4a3e1f720a24e6]
+│       ├── malice1.doc [ef0e73de5a590c6356bc82769cb69727e01b4f9eba2b051830f704939b12ea6c]
+│       ├── mini-v_1.doc [02d9f34a749c59813fd90639c95b0dbbda3b65a63c0b6d0cea9bbd718beeeb67]
+│       ├── mini-v_5.dot [27059403e4b40b5fa825add96f0f8c6320d4aeddad108d191ad22a2cecf14968]
 ├── marbles
 │   └── a
-│       └── virus.msword.gavin.zip [dca79e403c8aea9733b1c7e3bf8562776bc9edd6a82c01d16d43a1dee2f7826f]
+│       ├── virus.msword.gavin [4337181483ef86094903ffc563e31961de1dcdc828949e2f7a0285c0b5c26e57]
 ├── mark
 │   ├── a
-│   │   ├── coffee.doc.zip [2738da1ba0b947d0f6245e6a5b84def25ff3317de5bdca4a2ab259986db7e680]
-│   │   ├── mark-a.doc.zip [3dbc54e7372ec9ad369b7fbdee8dc9ebfddb493e5c44626c8b1f5287d35c559f]
-│   │   └── mark-a.dot.zip [5627f565778565575cf0ec754202adb9b4d07e2e1c4ac05e8141019e156af454]
+│   │   ├── coffee.doc [290b9dca562974741708efb252549dc3c869e7a8f13e5da938b2b9f75fa668fb]
+│   │   ├── mark-a.doc [69bc785071adefe35ccf7fa34c3c8b99e7ff84666dd6f2418dd26ee48d546ae0]
+│   │   ├── mark-a.dot [7b935902ad45492ab0c0ab4f59cbab3a4fbe61331eaf298de17358ffc0308914]
 │   ├── b
-│   │   ├── mark-b.doc.zip [0f445f39d0c8234d2952b59e41df47eef8a17ac05bb8dbc09525acbf11854288]
-│   │   ├── mark-b.dot.zip [3c5378cabfb92f700927fce7137d068cb8ff43d2b6642eddac782155cebd88e2]
-│   │   └── markb.doc.zip [c69f1d75a437cc117775ba066d2fd25b34067cf8fb96f30d32a172c803aae19c]
+│   │   ├── mark-b.doc [af244ef20471d6061333e4c9bd74ad8dbdf9b808a52c201ffaed8189975ca9bf]
+│   │   ├── mark-b.dot [8eb9f020962c825fd99841964cc13551331af61069bb1d84e5dfcba6042df900]
+│   │   ├── markb.doc [6e6f0a5fe865782887fe14761753863ff3993419943bfb8d14408859f65cbab4]
 │   └── c
-│       └── virus.msword.mark.c.zip [c8dd5c972f212126491c1f3437c059aa228779c620b274c4442717d0429a4ef9]
+│       ├── virus.msword.mark.c [510106a34eda3c3a5bd9d769e8fd78000fbbb852e7220cdf0e66a19d5e62684c]
 ├── mdma
 │   ├── a
-│   │   ├── mdam_d.doc.zip [bb6f67e38740e889f2d00da1d5bc4a4bafbea6fa4322dbe707bcce0aa1980965]
-│   │   ├── mdma-a.dot.zip [dabf544682dbe33c7147536c9016e7563634e5f9daf6bd21cb4aeed04b81b081]
-│   │   ├── mdmaa.dot.zip [8935ef6ea1e6ec27792353d89f759fe50a25ebd4c04bdd358d9d3b43e19901ee]
-│   │   └── mdmawazc.doc.zip [ec92e203de6910048e0436ab6812d1001c1cb1de9b6881930565af37180fde4a]
+│   │   ├── mdam_d.doc [b1ff9956a3a40823a4df541913ee5f38ab55e800a2fcfbc5ad3cb388fd782e0a]
+│   │   ├── mdma-a.dot [e91a2dd60798da1a912a20c9ffe9182dcc933ec2d7447cb6dd59c3268c2cae82]
+│   │   ├── mdmaa.dot [1212a086ab24e5c310f41c653aaf191f07ad72cad94c479e6887bef7a2e301f1]
+│   │   ├── mdmawazc.doc [b8e9a295519dd6ee26d085e98c2dc097433c3a759ded98e882d6ff4ec42df861]
 │   ├── aa
-│   │   ├── mdma-aa.doc.zip [577dd1c61b60f5f0e24bb0fa33418fb1362115d6343e161c0cd1fdf9df3098f4]
-│   │   └── mdma-aa.dot.zip [a54f4c3b0c0ac3c2a5c9096e0021531e36d3f6af574e5861a17850d047397bc3]
+│   │   ├── mdma-aa.doc [52cc2d1dd0fdaafdf2c35c9d74e00b7ed6821325513e26a4f756c4ec52e2ef4d]
+│   │   ├── mdma-aa.dot [96b7d7d858628876949b06b611df002abec3a874174ad4ae83ed9431249b738a]
 │   ├── ac
-│   │   ├── mdm-ab_1.doc.zip [b4a041f3c10e41f5a20b62dcd0b5acadd9da31095a3ed7628b52d485efe30963]
-│   │   └── mdm-ab_5.dot.zip [1f52246eb6389f5520c4cf1f2ff07ce821932777b81a0f60dfd945e7d3a4d346]
+│   │   ├── mdm-ab_1.doc [f3919c98c1db1f5f86f49ac80b098cff7dbdf4667079633fa55ad47d57ec2473]
+│   │   ├── mdm-ab_5.dot [c419591b149b072092703e2df9bab23cd108f928d6846c02ee721f8ab76f7a41]
 │   ├── ae
-│   │   ├── mdm-ae_1.doc.zip [84e52887c1ed063110d3adb788208cf1d093ca51651708eb7cf8feb491bfcf3a]
-│   │   ├── mdm-ae_5.dot.zip [c440b81d9dabaa6f9d05928d6fb2e10b03240b3d0bdb201993216c204ba9242c]
-│   │   ├── mdma-ae.doc.zip [24e306b659567ec3a4827b164fa55e344078b7ac8a543cce6ddceff2f2c7aac4]
-│   │   └── mdma-ae.dot.zip [ba14543ffec4d2ca98fdbc880925620f9e3c1eae02f00de6c217f39d936b1e7a]
+│   │   ├── mdm-ae_1.doc [590892ff457003b020e78e47c7c9be114c9a720b1e4d75b35713f638e1545c9d]
+│   │   ├── mdm-ae_5.dot [8b66a53800a3a4d0ff3c85ed782c861d9ad086d2f714b1475137446e2aec7470]
+│   │   ├── mdma-ae.doc [8da0d1f61893f9d0494d8c4b137d2ef03987ff0227dd58dace46821f274a0a61]
+│   │   ├── mdma-ae.dot [7a53c8966c216f9db07d6bdf778ebd54915a40f3c48b4323e9fe563485a30be0]
 │   ├── b
-│   │   ├── mdma-b_2.doc.zip [36695c433b1d45fa5011ed7a87c7387e6b88efe1287a5f666d484a411e4bbf46]
-│   │   └── mdma-b_4.dot.zip [df0d327a16e7d7a72c1cd399632f370525a22268f3575ea6d2ab698d70dcf061]
+│   │   ├── mdma-b_2.doc [faf760b534a21a72f7f2f07e8abae7c9df911d12fdf5edcd2a79b80657abc540]
+│   │   ├── mdma-b_4.dot [18255c4895ffda5f3a92c9e192d88f5f2718fde1209e0e59574b79816035b01d]
 │   ├── bb
-│   │   └── virus.msword.mdma.f.zip [307764b97f0ca7c430cfe6f88da5630b50f48de8be9192545738660588141ed9]
+│   │   ├── virus.msword.mdma.f [f8071be595826ccb198dacb4ac208a4b5f2548fa05e8d243502fc90cc798e42c]
 │   ├── c
-│   │   ├── mdma-c_2.doc.zip [239ebe72cfdc65062b6a96c97070f240109a033528825d247018c798f08c9f51]
-│   │   ├── mdma-c_4.dot.zip [aefbda69103f3eb4d740dc50b7db4499946f9c4ae7b676045c5b20cc7a9d0cb8]
-│   │   └── mdmac.doc.zip [231b07d57cad71eea57ef4338f7a16e22c1d76059fb3342e2ab28303a51e3ed2]
+│   │   ├── mdma-c_2.doc [d7f0bfcbe7f3509e1a6237b5e5489868a0c9d99f617170baa2dddc4bd3644c47]
+│   │   ├── mdma-c_4.dot [9c276efaeaf48f1526a2676a431973514515aac286920a5750ee2aeb058de676]
+│   │   ├── mdmac.doc [d7f0bfcbe7f3509e1a6237b5e5489868a0c9d99f617170baa2dddc4bd3644c47]
 │   ├── d
-│   │   ├── mdma-d_2.doc.zip [7e769f876d705d7d86b61d1cfdff586c481267515ec9c2341129bebf750d5bde]
-│   │   ├── mdma-d_4.dot.zip [8634f9343a0cf1f21adf08c5606d8a237137b45ba8573375ff8ff0e1381a463c]
-│   │   └── mdmad.doc.zip [da48c897fa0f7890ba9c53dac9054918efb556cf5cee99331bdf993d2eec560c]
+│   │   ├── mdma-d_2.doc [1ec3fc7f72f324c118d841a5a45f701a0e40814ff5f7f462c31d7ce70ebe378a]
+│   │   ├── mdma-d_4.dot [8a3d3346769590c9057a6a44d5255e73f35346f68aade1397670dcb12b8b149b]
+│   │   ├── mdmad.doc [1eff8f1207ad0ef8cd6369591811fe0b14aeb5e6afbcd132686940096ba92cbc]
 │   ├── e
-│   │   ├── mdma-e_2.doc.zip [812b5dbfcdb856ebdc82f035e9fe76e000939010b1f0424f604f9251343534e3]
-│   │   └── mdma-e_4.dot.zip [8d35dd494f066f153904f62367daccaf5b8fdb13d6483abc014ff36613b7c86d]
+│   │   ├── mdma-e_2.doc [8a37d94e212400067d8104d6fc5b1a6242936a3b0c0dbc7cc93c183c97dd82ab]
+│   │   ├── mdma-e_4.dot [19cada3207f4778aa4f6b5831fa364bf5f8b7417add67e33b80f59a525711f9e]
 │   ├── f
-│   │   ├── mdma-f_2.doc.zip [33523c3f993b04c852f94bdb4af08ad1ea7acbed444ffdb66803992a26d1ee9f]
-│   │   └── mdma-f_4.dot.zip [e7d7b0fe705ee29e851b3bf92fa05c7cf4f6e4701b78b26c159cc76d9a23fc8e]
+│   │   ├── mdma-f_2.doc [9e6b4e15d872768cfad0356e1209e41bcc1eafac2b7cf547d9b82b1b04473457]
+│   │   ├── mdma-f_4.dot [67e3b8cc6a3d756dd9d9fe133d7e6d293fbdcc63923f64bf80e1756eec6fb22d]
 │   ├── g
-│   │   ├── mdma-g_2.doc.zip [fdcf3b53b3bf945e2b67057082a3de3017983a4b1f792d59935d0405f9913aa9]
-│   │   └── mdma-g_4.dot.zip [f26efd86056f7fb330d15cc729583328dc2a0f7b480dfe6ce4d16922145671c2]
+│   │   ├── mdma-g_2.doc [69f0e3b321b5240e47fd7360b6f1dd7542e1a14265d365c16454382740d4c93c]
+│   │   ├── mdma-g_4.dot [a86d3ecdf3d3dbfe4a96c6b9a8e636d201e29ec844e4b194f80d8bba4fc0a980]
 │   └── u
-│       ├── mdma-u.doc.zip [24b8f6d2142bb64bfb1d97ec142e423a101acadd270b00acc58116f4c66035d1]
-│       └── mdma-u.dot.zip [ba64658fe87b757b795bef9a0bf1f454faf5c9f786f38564566e6a89d75dde75]
+│       ├── mdma-u.doc [5d10f7e0dfe8463f906feac7ad688ace15bf385744d92c00e18eecaab0c2ec29]
+│       ├── mdma-u.dot [ce665b44f074243320910a792004611028e750b45bc6c84aeb660467d447125a]
 ├── me
 │   └── a
-│       └── virus.msword.me.zip [c5660ca42fdaf619add3935468a90731c739201529b3e2c2a0b073a6becd3d20]
+│       ├── virus.msword.me [3ea35bed7c5c25019072ece5799d47c412b42e2c3fdf0f301ac05cbf3a47e380]
 ├── meldung
 │   └── a
-│       └── virus.msword.meldung.zip [840d04c85e4e0d3cd6faa0c347de9c94a13d287175ad0ef3a537ba7bf54c5bc4]
+│       ├── virus.msword.meldung [7a757c2736f6b3070677e198315c760d1a4e93c7b903a5efe51386b5319472e0]
 ├── mensagem
 │   └── a
-│       └── virus.msword.mensagem.zip [5a29595f61af35c241abc4e2aea9b03258bac1d4043a32b6540f42c173b1e5bc]
+│       ├── virus.msword.mensagem [963d8d960e47add1a6a1c5ea84cf2a7a3d9812fcb8ac111f426f4988e3b42068]
 ├── mental
 │   └── a
-│       └── virus.msword.dementia.zip [cea8653188c7c7d0e2ed6ed46d95155c040e15d2f1a33c8d34924c29b91277ff]
+│       ├── virus.msword.dementia [0aa9415abb245f687b9c5e436ebbc2d83ef50d5c1fbcb2eaf114b9ccb513c1ed]
 ├── mentes
 │   └── b
-│       └── virus.msword.mentes.zip [f6983a867fe77c75750d304443a87320f66e72adc9567629ba72e27fc82d919a]
+│       ├── virus.msword.mentes [712fd616183d8ec0f219f5579388d14e06c463669fc4b282cf6175c60679eae1]
 ├── mercado
 │   ├── a
-│   │   ├── mercado.doc.zip [cef5953f95468eafb888977e095db52551e67823f601d300fc008bb2b22571fa]
-│   │   └── mercado.dot.zip [ee533567981288b00ba1ed49aedfd037c84ec85be137fb1a235e4e565bd2c3ee]
+│   │   ├── mercado.doc [5646a8ccc77a395ac07aa19026d6554f69e1ddc5a24670082eeda2fdb0974c5e]
+│   │   ├── mercado.dot [6eee2343611224af9f5adad3a9907856cb1a92a665309ba4735dbe53742b8ffb]
 │   └── c
-│       └── virus.msword.mercado.zip [913ae14b1a7d9f1318c681a32af856902c8d52b0bb4fe46ee7c4c03a17966781]
+│       ├── virus.msword.mercado [6b966b364b5facddc31975a0fb215bd6a5654c54eee10312be7cbbdbdd73f748]
 ├── mercy
 │   ├── a
-│   │   └── 10faces.dot.zip [209f553ead0ec4315160573696dff104c0c2b261adab763fcf5c594964d70ea9]
+│   │   ├── 10faces.dot [03e2eccefb4efacfe767c5ebd1303c6a486524d9002bfba9e260148803bb4004]
 │   └── b
-│       └── 10faces2.doc.zip [ec6c2d5a0d51da300999559cb3a9b973883d58405bc16ef363ef8e513bfb6d6c]
+│       ├── 10faces2.doc [1e32c6630030f49e41203494c80620035d16aeefb186baa397145ecc3d77c9f7]
 ├── mess
 │   └── a
-│       ├── mess-a.doc.zip [7f3f0888c81b2adfcf212827e2791e6ba254dcf95e8fedb106bc724b50e4755c]
-│       ├── mess-a.dot.zip [75c7ec18bbc46dae22a9b73c1a7fb2dabd72e1e58d83dc8d2f70118311f876d7]
-│       ├── mess-a_1.doc.zip [124a805584d1b6a0d3357db5bef1c5cbe19c33309467fc9d801aec5e5896ee31]
-│       └── mess-a_5.dot.zip [baceeda470925f162217015081e53bfe09c732d9fd60e38dda80cce7b1380266]
+│       ├── mess-a.doc [7d0225a409261f4465a2433ff2895dad4944314bce626d933d7d5e768741dce6]
+│       ├── mess-a.dot [8c98526fcb39d8719e02467469eecb6e03d733e5ccad32b1518ce8d84fedda23]
+│       ├── mess-a_1.doc [3baf67551cac959796212ad19f6dab6eb776227ffe71eee5d15ed990993d8acf]
+│       ├── mess-a_5.dot [e6b1ccf61f7aa1dd2619e5c9b21e2ca3175b1639c15c06ae3af4d74010a6ca35]
 ├── messenger
-│   └── messade.doc.zip [1b529a8da226f014ad0fa757b24235465a1eaa67ae65911b9230ead18e2fdf8f]
+│   ├── messade.doc [57b2236ed7f380e097a855c3767e8fdada7b1cc4f0f64c55e7d371c758c8ccce]
 ├── mg
 │   ├── a
-│   │   ├── mg-a_1.doc.zip [47560bb7250d512133597c6f5b378813cab8a5f3d9cd3307b5f5d68f79e4f5b5]
-│   │   ├── mg-a_5.dot.zip [124b5609664306d4731a8e45472f46facb61c94a9ef432372f949386ad9c695b]
-│   │   ├── mg.doc.zip [9344a3c60dd672c1854f11b7e21dfb2bd3c8abe0ce5dea3ffca75a80a15bca80]
-│   │   └── mg.dot.zip [56250d1914ddc100eb2d8a829b884aa218508b436ff74fc28ffe5709a2a91e3f]
+│   │   ├── mg-a_1.doc [84c2955646ad14a6b2109fb30f1c4bb32b69bb39dabf88ffab357fc4ec3127f7]
+│   │   ├── mg-a_5.dot [b973f987d0e69792a4f6649ada2d35e44c7a4c1a6348f9b1f77c591307e8e2c0]
+│   │   ├── mg.doc [26ec2b1ad5983c191d3da0a112413b71239aee570f632b012901e208adb9fa67]
+│   │   ├── mg.dot [c3de72d064b749a227ac9e18b4a017ff7e6a4a47030b61349143a1786c3f5f78]
 │   └── b
-│       ├── mg-b.doc.zip [317b3ce8e9019ba52f51ee21fe4f356a8c3eb8855860b0fe7e574362426b44f7]
-│       ├── mg-b.dot.zip [2909adec164333899a87bc2e2e3e58f7b66320bc42885eeaac39f9ae1ff7661c]
-│       ├── mg-b_1.doc.zip [5a09fa1f3f0badc23eafbb206a88f638c2bd21f58ea6a52d9ec8681d05ae7bef]
-│       └── mg-b_5.dot.zip [b6df22909dba998e5f97f632829bd5f44b7e08879b4efdebfab8d5ba462ce35b]
+│       ├── mg-b.doc [78d311382b81ecb77c401482f18876d382241ec89c02c94712a219f87f74bbfe]
+│       ├── mg-b.dot [5580ba9c512f1eecb387b702f4fc6c9c7e55842a2c88e9a18bb3952988d39cbd]
+│       ├── mg-b_1.doc [ce693d452bbc3840b542a5a6f740dffca6f3e539638bd84a95baaa9f0788322a]
+│       ├── mg-b_5.dot [eebfcc015f7084e613f7824bebe01d7d3635b0c214bb6f3954484af0983d68b2]
 ├── mili
 │   └── a
-│       └── virus.msword.milicrypt.zip [46e284e06ce0c2ab6a0c1a526435b46901afcc6bcfe2dd3c61c4719858c3fe7b]
+│       ├── virus.msword.milicrypt [5b188e856c98db3e6f67bccbb847de181c7a8e76f315e8270d05e64dba43051e]
 ├── mind
 │   ├── a
-│   │   └── puritan.dot.zip [08f9cbd008c13e5a0514c7a54d6d653bd10de06bbe9e3ab2b36a2f006c2a1bc2]
+│   │   ├── puritan.dot [69c9ebf40559ba54cf0ebaef381a98e2e869164688352a6dc5c650a7bbeaa293]
 │   └── a1
-│       └── mind-a1.doc.zip [1230d231d77a27eb48089dd4b22e9f46f87d07280b538c4f4953d9aa8462c5d8]
+│       ├── mind-a1.doc [6904ed61821ba98ef3dc68d254115d7a870a781addf25009d91fa9b00dc9a519]
 ├── minimal
 │   ├── a
-│   │   └── mini_a.dot.zip [4963d33dcab97deafc6a04345680327df43d30d09c158089066a6c5d034c933c]
+│   │   ├── mini_a.dot [f32405472da05f77eee3d3dbff475ec233d14dfaaac0f5572a5fe3a573b61726]
 │   ├── aa
-│   │   ├── pox.doc.zip [3c375222ecc0f6af507c802df68a32288594e093605cc6b1ba513d706da96663]
-│   │   └── pox.dot.zip [d1eaffc2b094d37addd19b186c5c8839ebf06caed83abaa20ec3b784c366de8a]
+│   │   ├── pox.doc [84ce853bb737930b5e06627e5c28852c7c82e17ee2dc94d3ec424216a9712ec1]
+│   │   ├── pox.dot [2990b967000dfd95949097d14eb7985a0823af085ce311cb9009e11d3496c2bd]
 │   ├── ac
-│   │   └── virus.msword.minimal.ac.zip [a988c76ec9cf9bef4d0b968de5794e44d504e4ff3c88179f256736cefaf3f358]
+│   │   ├── virus.msword.minimal.ac [591beac258d278839b55ab45ae137cb723388e3cf24329bd14408b583b678dab]
 │   ├── af
-│   │   └── virus.msword.minimal.af.zip [54cb6dcfea2ea06257a28a5f9cf777af3c6c07e4723532d40ce641905e5fd8cf]
+│   │   ├── virus.msword.minimal.af [24d2c8a5a00593511ef033571b2156464668fd5d019374f30cfd5cef82147899]
 │   ├── ai
-│   │   └── 37_d.doc.zip [ccf5f77bf9bb6350908b27fb52e726452e308e87f91e48eda9983adcd26a7f9f]
+│   │   ├── 37_d.doc [db4b755620492d66eec3f278b4c0254264bc94556e1f7bf5f62e710500ec9946]
 │   ├── aj
-│   │   └── 42_d.doc.zip [00027fa345c7b16eacb2ce9ead4ff983bd796f4c28d25136321688f4e98007ae]
+│   │   ├── 42_d.doc [73f61a2e9c2592146167eb54154483883d45930344d2a67a5cf492cdd3ebb1c0]
 │   ├── ap
-│   │   └── virus.msword.wazzu.fy.zip [4b70f9a39019ea4fcb3b7840d8f1e5f6c8935c885898f69f22ac0460529cd206]
+│   │   ├── virus.msword.wazzu.fy [4d2101934458fea8b349b85d0ce15c7d033102092f23b8d2cd51eec71541b861]
 │   ├── ar
-│   │   └── virus.msword.minimal.ar.zip [391200691c2d2ff7c6c818935e80d31359b3215cfc02ba0bc0c9d40a96925376]
+│   │   ├── virus.msword.minimal.ar [3185edfad86f1a32a4ef7fa88d7c0208b5400103a7def6e1e8665e143596af60]
 │   ├── at
-│   │   └── virus.msword.minimal.at.zip [acfb3230042982b69416dcc1f04b90ea0a8a67c84a11f7420cf7c1e987e4cee7]
+│   │   ├── virus.msword.minimal.at [a0a1a69df49319c307d3c00eef545e6cc06863046e789625c6521e9703503be8]
 │   ├── au
-│   │   └── virus.msword.minimal.au.zip [328c91a8d53be79aa9e2cdd3ea4788d1a75a2057d3c27e7cf141ca5a8dfde33a]
+│   │   ├── virus.msword.minimal.au [24224fe87786ff2e32f9d8b414670bd5389cb895df1e83eba7f0afa5ecf3d829]
 │   ├── b
-│   │   └── minsize.doc.zip [64be49d11cfb124a88d2fffc07daaafd15fe40a50bdf2898ef531fd66b14d844]
+│   │   ├── minsize.doc [19edc556845d56f0e10e30f1e51a3921f556fcd59d528475e3858f7d915f1493]
 │   ├── bn
-│   │   └── virus.msword.minimal.bn.zip [b528f05e9250177dc53ce4bff947cf45779b7b5cb260007eea7bf53fe42e2100]
+│   │   ├── virus.msword.minimal.bn [354db8b46ea16278c5ce97f46e9ca6dd3fc9c1392860a19e043940d49b62a158]
 │   ├── bp
-│   │   └── virus.msword.minimal.bo.zip [fcaf6d4c177372a1b3a51b1bc6ea90895f7617d0bff2bf2321687d1e28e7b156]
+│   │   ├── virus.msword.minimal.bo [65ae47cce95ee115825d4ef6596e497b99a6e628607eede09192f25a7204a459]
 │   ├── bq
-│   │   └── virus.msword.minimal.bp.zip [b9029b3c97574394a53a3e1f2dd12675ada7eb95894ba43a2308e325022d5f6f]
+│   │   ├── virus.msword.minimal.bp [a67e74cddfb7cae5245bf2b4d9f8df98e23a6fa2d8c16b0478042b923ce1eda0]
 │   ├── br
-│   │   └── virus.msword.minimal.br.zip [fe6daa5cc293935e406d6b2fd271fd7f1b7e3f958b9cfe1394d864df22ed756d]
+│   │   ├── virus.msword.minimal.br [4b59e6314be622bb135fa206f994afc90d99b05b8f71c69ea852ab8f8917f74b]
 │   ├── d
-│   │   └── min-d.doc.zip [31863ca6d7d41ede4b11d2b27abfa798cdaa7f8cb03f455ca27c19516331b586]
+│   │   ├── min-d.doc [057bd22ee2712f3243e12258fea1b0f054b57c9b3e2ebda5569620b8a3a647f3]
 │   ├── e
-│   │   └── min-e.doc.zip [a3df64343bd294c6e380c7d7f5531901da443c1aa111e458af17d86564942929]
+│   │   ├── min-e.doc [8c428886ea3d70e6a5415a9fbb2cfae361db191d7d6ac6c1ed96202acedef5f5]
 │   ├── f
-│   │   └── min-f.doc.zip [f0b52144572be1a4139da8908f14130cadb99663ae58e043ffb3f8b14efd5cb2]
+│   │   ├── min-f.doc [9a65c4ed5e4863d747fee6ea427aaaed0c60141bd81547af1ac81143251e6906]
 │   ├── g
-│   │   ├── minimalg.doc.zip [02ca19ba536490e81e99e1f1503ef5a4ee81053575e4511edcbf5d9452df6370]
-│   │   └── wci01743.doc.zip [d784c7f0408876d14b32b682b853d58a73617c19434562bca37dd2233c1a731f]
+│   │   ├── minimalg.doc [e94c0c0fab55513a5a8a86cd5bec0ddb49b89cad744c2488b8afbcc038ab073c]
+│   │   ├── wci01743.doc [a255d3282f737a0c0e5452dec4780280678fb99a824fc712076e7c3cded1d292]
 │   ├── h
-│   │   ├── minimalh.doc.zip [aa224087991f6a453df70944f6422efc5fab3cb9636e48a5d6968522fa735a61]
-│   │   └── wci01753.doc.zip [b6f107db24944b0df58b822980aa8cbda463a1f741b6299c06b20c7938f0ceab]
+│   │   ├── minimalh.doc [0d9b4591520690aadcbaf457410b0359ecad21c644f1c3dfcdb58ba31b79e744]
+│   │   ├── wci01753.doc [2d260a1e593831396288e1804c9f8adc55309838f7b2c54de99d779f2e5b65f7]
 │   ├── k
-│   │   └── wciv1465.doc.zip [ba49ed1cf93c93548f0a8e2dfe1f189d004b6c01ca6bf882f30b1403aed951c0]
+│   │   ├── wciv1465.doc [84dcb3b30b78f4e4879c5a3934890f4ad625eb685a7285b8ab14ffebca0ab3b5]
 │   ├── n
-│   │   └── virus.msword.minimal.a.zip [941344d61cfb3c9421f90841fa3f709a2070e0c26d488d793bc5d8c76b9d2bb4]
+│   │   ├── virus.msword.minimal.a [2703ee107f7e0955745986a74955a9bc543489b7098de1adc24c10be2d3ca94a]
 │   ├── o
-│   │   ├── mini-o.doc.zip [c658f18ec34fe552781eeea94791e763b0b00eae795a6bffad69375501b391a6]
-│   │   └── q-d.doc.zip [c6cd4af41a15c82c10f125936b9b40a21b74c85a80cf1e2f3f74aea3fe6bbb54]
+│   │   ├── mini-o.doc [dda10df9892ce94c8ca3c792a42a62455a7410dd3c81a2855965dbc2d5001d0d]
+│   │   ├── q-d.doc [dda10df9892ce94c8ca3c792a42a62455a7410dd3c81a2855965dbc2d5001d0d]
 │   ├── p
-│   │   ├── cheat.doc.zip [a2f6465270ec076430e06731b18d4b288ab8fe9ac90afbde51e94627e6540622]
-│   │   ├── wmmini-p.doc.zip [ebc2355b663b3afdbb8d76a9077400964502f7682857614abb014b777680c9b5]
-│   │   └── wmmini-p.dot.zip [3ca09896a32af9365d856af6adc8969430caf0af0d54b8454dba34685545a043]
+│   │   ├── cheat.doc [da67a05084545ae1f373642520b40102833faf8436279ac6c334148be726336f]
+│   │   ├── wmmini-p.doc [ba73f148b36de198f5b8670a72994d0cb2ffeda3d2b9308cf75588a88f662313]
+│   │   ├── wmmini-p.dot [553a8b62c5f986f0870af6c4e87598cf40cc438382675d5c39a691d4dafa58d0]
 │   ├── q
-│   │   ├── minimalq.doc.zip [cd3f699798d4fd049c270b3a86d8db8815385be1fbf8f819c2c9369606a10f42]
-│   │   ├── minimalq.dot.zip [2482b549c35abd800f741421678792b28a848e0b033e45e8d18f0a7e721be045]
-│   │   └── poxa.dot.zip [4b827a8f9706978868b5b2b8fdad36641ed485d31217a5b1f9c68b61d4beca8b]
+│   │   ├── minimalq.doc [ac9c86f8f94ba2f658de5a9f1545b615a7ae0c20ea99aead336959a7dc6cb881]
+│   │   ├── minimalq.dot [ac9747df4bbdf1a37cf673c9c8527ad5a5f245bba9a19237bcd001105ae53a60]
+│   │   ├── poxa.dot [02b8d50098dcc49742ae96cc335fab7a94acbb4943b214817b9aecbf7290cd0e]
 │   ├── r
-│   │   ├── minimalr.dot.zip [7fa917bedf956b903243aa20659dcf6fff523d902d53dc7166420e716413fba8]
-│   │   ├── poxb.dot.zip [b2ce35e086e05d6c26b6b25d1c92a884785140c1dd82620d1d0c8a1e5a546d84]
-│   │   └── poxc.dot.zip [f3cb10726819b999ec36645817868a8cb2e79185bb86603054512cdc5553773e]
+│   │   ├── minimalr.dot [e911da7ba4981c7b0d712ea3c3e2f78da11fd5a871efc8e09d4cf669007e0334]
+│   │   ├── poxb.dot [d4fd8dd80825f9bf427382e89828088707498acbab94a3a165b6760b4666d00c]
+│   │   ├── poxc.dot [cfea1dd6f46ceff5faf9a820b0491c74bca8eba22b09c55f5dcebe532387332a]
 │   ├── s
-│   │   ├── minimals.doc.zip [f713f95df21d7ead1b755afd3aaae00d2cc56621f57ce290fe3218fc9d663510]
-│   │   ├── minimals.dot.zip [008b14731e210348c3ea931263ca08e4223070af15f5499dbcf1dad6bb2a37b7]
-│   │   └── poxd.dot.zip [97ffadb7183707dcbab7ef4a00b1201ce1ec22a18daabe774d0fb007a4f3dc58]
+│   │   ├── minimals.doc [6f0c5a01fa52978e10495b0bbe246d7087e2b3357051143bc26761c565f0afa7]
+│   │   ├── minimals.dot [1a45848ad38fa554daa8b79e601a87b0579506e971854309db1d387fd766235e]
+│   │   ├── poxd.dot [d2416da4a7605006e24375d89b07029275d59fd90ca8d3324069798e7c965cca]
 │   ├── t
-│   │   ├── minimalt.doc.zip [2df6d7e07fd691c90de84f1cb44e4ec945c100f7a21bfdaf55d74afbb1d92f51]
-│   │   ├── minimalt.dot.zip [82c8e91184293f688942d3ef6252f5740419c67b8def812567abf0abde39bf15]
-│   │   └── poxe.dot.zip [b648b79b2701f2286fedfff3bbc2a02feb490ef36a457e93e862c187e9db004e]
+│   │   ├── minimalt.doc [c2fb75f3f05022fc4c3d7f09765c65893ac8a768ae77199dd35868b08724d968]
+│   │   ├── minimalt.dot [0659e781e170193139594a9eec48a0e04d8f3f739d0cff42407f9f743037a027]
+│   │   ├── poxe.dot [329651b1778b40b2704dedf20e81c02d2394a2ce40005d00ffa8f4f4044fbdc4]
 │   ├── u
-│   │   ├── 99bytes.doc.zip [7a2aecd3f7387ce27d17b51eeace3d5e4c011f00e99153fd4184745cffe46b14]
-│   │   ├── 99bytes.dot.zip [3f41715530bc21f6090dba2f8682c75f567c74f9edd0378b51850fb96c37b6a1]
-│   │   └── minim-u.doc.zip [e2ec9f74f0b952a8a8a03d4597fdf899a00c56f39540dc56fb4d25a0ce4352bb]
+│   │   ├── 99bytes.doc [0bf8ef90465eaa5c653f46d48426e7c34c081db84829849e73787975fd246d82]
+│   │   ├── 99bytes.dot [03340bf2de1508649b9a4bea28a0943ed3848a4f008147a9bfd5ba5128832303]
+│   │   ├── minim-u.doc [230890979e9bbbb8f38b2e01f0f6f4546bddda83d1628e109a8f3f8e34b70488]
 │   ├── v
-│   │   ├── mini-v_1.doc.zip [e27dd0e6d078b700456b11e39b5998d78a0648888b743488875412ceb1e03328]
-│   │   ├── mini-v_5.dot.zip [09e52d2766b078361599db3336c7201ca79b635dc3dd646f52590f00ff67de61]
-│   │   ├── svirus.doc.zip [434aa9129d450dda2da5f3ec1e207a2f5baaf0d5a2c02f867cc427ad2e7c0e6f]
-│   │   ├── wwmini-v.doc.zip [18b944f31447a202f7635b0b218ad649dc2864cb55b3fbaa7150e00dda3401c9]
-│   │   └── wwmini-v.dot.zip [a49d23dd71af669ba01b9ce3e690efc334071037aa18f1b86b9ac1f56a26c38e]
+│   │   ├── mini-v_1.doc [904ab6b74deda48c3b7f227d63175bac99134425463d9a25d2fbea6e9d31c136]
+│   │   ├── mini-v_5.dot [ef461c0cd9c05b839432afb85c654c2cc4b7cfe5440cea6c95aba8fb4ff7bdd1]
+│   │   ├── svirus.doc [6bedf8db6c31c5bcfda7a9b01a0a6f80eaef5352fe0f7cb25778523ca4351eaf]
+│   │   ├── wwmini-v.doc [e4177305ddb0fc1dc48b1c0b4e857087b41b390b7be4c2af79eba4a6fa0df02a]
+│   │   ├── wwmini-v.dot [949bb278658274d09dd37fd250597d6bda0f1e88938bb488d8ddc60bba2fdc64]
 │   ├── w
-│   │   ├── mini-w_1.doc.zip [90d266fe4b5c46b1ccf332886c908e51afe794d720ef7ea149f3218f0983afe1]
-│   │   ├── mini-w_5.dot.zip [6d8615000369bda876e185efdf122c25d1a8870125e0a049dec2fea557d5e25c]
-│   │   ├── minimalc.doc.zip [9f22c9e368e381e070673328a6cac79dc1efb8904726a437cf5eae1598aa84b0]
-│   │   └── minimalc.dot.zip [61ac7534635d37754c1355e69b5e0899ab698c9f575425a62d260acfccb7c85b]
+│   │   ├── mini-w_1.doc [04769809e7c77e42d78b8c05c6d4eb7ef4ec1a7488e260a36ecabe7e6ff87db0]
+│   │   ├── mini-w_5.dot [c5bac9418b2533f113c5c066ad565839e7ccec0db9afb1a4b511beb0ec08d714]
+│   │   ├── minimalc.doc [563e5cae4be6ee2e59f05c1a98e1f94524d8374ebb58211a2efe72651542b8de]
+│   │   ├── minimalc.dot [b38c335e32462cbe9277b73dd8c2df52f6a034ee3d6e9b52611e0d43ecb6ee0e]
 │   ├── x
-│   │   ├── hitman.doc.zip [76c13d325a8c1be72d57034d4897feabe37f1be844c4cfdb0f07719b57acc3ba]
-│   │   ├── hitman.dot.zip [af2612ace5c7b55bdd16559fe7c2664d2097324cdde8a1f1baa76307c627dea0]
-│   │   └── svirus.doc.zip [a991975a8c0a1d4d8d1207253825589ba1653b9e5f6dac526e07c9e53cccf9f8]
+│   │   ├── hitman.doc [5097ec21765a601c972579753294cc6e0f03e8010410e7018b38f5bb09b8fd38]
+│   │   ├── hitman.dot [9236de5388513d3199df779ee2e046b908b361e1add92143a513bc5b60efc857]
+│   │   ├── svirus.doc [20b7c618e553458185f9aea4a646ff65f6c40740ee3a0c69f1352993a9e85999]
 │   ├── y
-│   │   ├── mini-y_1.doc.zip [9a2e4109ccef4b50816f7e92c36717a6f31a375238f3d6d9aa90717d1d8f3205]
-│   │   ├── mini-y_5.dot.zip [02d4f66e7ed7153c179f8759ea43d4971cbbf27f662b92479b95ddefa217b755]
-│   │   ├── minimaly.doc.zip [8acae6197d370ca980c5b9ff66c00b1b1113c0c40b963e54d3b3f17bcdad0611]
-│   │   ├── minimaly.dot.zip [59ecc278057778e116cf2cf08ea894546a8b1952c6422f046a9e0591cab12ead]
-│   │   └── smallv-a.doc.zip [3cf7a1ce5f7403bf72370ce643963b00c259917ec6ff71611afd7e7c750c0596]
+│   │   ├── mini-y_1.doc [3b2a117044d75c902c39ca2e7ec07a8aa1fc00d3632b471ead8159c4abf5ab21]
+│   │   ├── mini-y_5.dot [9a06f6eaa9e16d58d85cddb2e7db24c55573262c4c1a947fd6e9cbd708681ce3]
+│   │   ├── minimaly.doc [5fe9f393737c78b2bc8644b309f57e7ec2a1fee10a0146fa2ca3c5a13f6a3849]
+│   │   ├── minimaly.dot [8210da189778cfb5680a3d9a508bb1b11df7177ef6391329a55a40b49c0323eb]
+│   │   ├── smallv-a.doc [c227cf55aad12fb643e873e440d3f958f2f77eba0ae212b6adc978c2a7a44dc2]
 │   └── z
-│       ├── mini-z_1.doc.zip [ae2e8e59b3f48c32829a0ec6b88d6b801ca082d7735fe2dbf9b9809de2e09b73]
-│       ├── mini-z_5.dot.zip [2bc9a6962beb89e52956bcd377064533dc06376f09570b9c5c10843f6777395d]
-│       ├── minimalz.dot.zip [86c532bcd63dee948b20761a2c7c31daa615ce6acd02401793893e0f9523dbe6]
-│       └── smallv-b.doc.zip [c810107348a318bd4e8b5986f889beb0a9232657a74919dddd08410bcc902e44]
+│       ├── mini-z_1.doc [ba29042396726cfe0dbbaeff915bc06e7f8eb43d48d2675fb375a0cb92b5e390]
+│       ├── mini-z_5.dot [50e7d0f4faf8249a86641883680c4336e06cf71e3fa0851fac7353fd88354f0c]
+│       ├── minimalz.dot [bcebf6808ce5dd65e7d580acde29acf8b6b1c417b2e60c221bb5f8ec226dcaa9]
+│       ├── smallv-b.doc [07c62a77c99630108b0bb8dc50bdeef3c9543357c4e6499b26323ca8b6ebd67d]
 ├── minimorph
 │   └── a
-│       ├── morph.doc.zip [97ced8bdd8fab0d2aaffceb3810892555090311a4403bcab73fd8c3a8bced45c]
-│       └── morph.dot.zip [fa0a11c5e9f8431caa95e38f7809ccb335c068a68b53623745d1ed712283a350]
+│       ├── morph.doc [e7fe540c4ad395a1a6f1dfe2378ca97a8c3a02c0520fd93a8e9b024d8d084029]
+│       ├── morph.dot [01a3b34217101d5069e2ac5f572922bd14464cb63341782e61ad1c095046f5ea]
 ├── mortal
 │   └── a
-│       └── virus.msword.kombat.zip [dc4bce4cb0f0a520086715d7637dd4fa0f16187beca7bd352e3003475d3415d7]
+│       ├── virus.msword.kombat [5fbcdd2f1beecf5d5faff9d3321d4d09c2f60c035fd79b7dc48ef08dd8f6d72e]
 ├── moscow
 │   └── a
-│       └── virus.msword.moscow91.zip [fef2b069b34d3b88a3049fbb05239b27a1d304827b84afd710ec38b37a37b2c9]
+│       ├── virus.msword.moscow91 [224c77b67a618e64fa43a3401abeb6a6004d0ddb0c46fb0feeedf351eba67241]
 ├── mota
 │   └── a
-│       └── mota!.doc.zip [101cf73a098ba8523711572085aa360e51502924cad824a85966c2e0e2be63f3]
 ├── mtf
 │   └── a
-│       ├── mft-a_2.doc.zip [c879096568f1ffc391a24872b5c3f0388cabcbf00f872b0a78252fb407273cdb]
-│       └── mft-a_4.dot.zip [c4b4aba0165446ade0a0b1f4ca096a217540c577dc6082b1f10ac04b00f34a89]
+│       ├── mft-a_2.doc [13f2b4ab091ec58ba90c61cf71b2f8f5e483450e739e116fe4ae11402ee2f589]
+│       ├── mft-a_4.dot [8d6a05d009c0b51f40900418a5e43aeb616d2ef947713794cffe77e4e3e81886]
 ├── muck
 │   ├── a
-│   │   ├── muck-a_2.doc.zip [c8f7ade087e3aede2248b55e09d5f1ae14daaa7e4fbeac0173ae804862bbc97a]
-│   │   └── muck-a_4.dot.zip [eaf5cb5bd34c2f1b779e9f364b3f03fb231a15b9f24267a44bbb2334543928b0]
+│   │   ├── muck-a_2.doc [9e75c60fe96a17f62ecf04d0cb6ea3083f017e5bae73f151f82ecbc3f481dd55]
+│   │   ├── muck-a_4.dot [ad71decbb1c9382aaf2808155aac28eed3849fcf2d780dfcf12844247e043a31]
 │   ├── ac
-│   │   ├── muck-y_1.doc.zip [2434c54fda5d720e6a27afe0950cd49f505a167010be6bd8bedcfb18abe3715e]
-│   │   └── muck-y_5.dot.zip [24358ac30eaacfd20de8282c397048bf08dbb5a3da5291128fe0999a99c05148]
+│   │   ├── muck-y_1.doc [8f7130265eb1302fde47867828af04981805943ac174b7a2d4124a2d75c511b7]
+│   │   ├── muck-y_5.dot [d6829b565130e76ca8eb65dc065dce33fcafb29be0913eee0be1411dca46a23c]
 │   ├── af
-│   │   ├── muc-af_1.doc.zip [e16a50800b81d25377d57395a49a210503305ce46199b6b336ed7754b2a4f04f]
-│   │   ├── muc-af_5.dot.zip [afe67832230031d38016477504636f01cf7b66f7b3c194a6f6faefe14ff30390]
-│   │   ├── muck-af.doc.zip [b001ff5174cdac16b9c7c526c40b34a4f0214ed81bdd596397fedf47af02178e]
-│   │   └── muck-af.dot.zip [e2356c5e6f61a368bc94069bf00b8126d5e034ce5cac5a03127a9749d5e9be99]
+│   │   ├── muc-af_1.doc [f42af42dee266cf1d3b79472051e57286f63565a1008730071ed2247b89fd1fa]
+│   │   ├── muc-af_5.dot [3eab8f2f7e320800f4f712c83b556a07e4fecc194a161d77145acb1965278666]
+│   │   ├── muck-af.doc [71e8df468c1364d0ab04d49eebd99331fbed282dee3e34ea4583100777923cbb]
+│   │   ├── muck-af.dot [96797a9e3aef63d81183eed3cd6f5b3f1002db68b1a8c4a79f19ad153ca2fda9]
 │   ├── ao
-│   │   ├── muck-ao.doc.zip [78e5ea2a1bcf906355e4b0023c88740e642f63b2aae699d6800c3ea44d7d5938]
-│   │   └── muck-ao.dot.zip [12d8e091ecef21e5028b4e96320270191f42e4a7793e59ccd4a66b9859180ce7]
+│   │   ├── muck-ao.doc [50277f76966c8d907d8fcad0a21386534c83830b82cbfa9aa20621cbfe19df96]
+│   │   ├── muck-ao.dot [5f047ca03a20aac3640e1ebca09bbb25c50f1b37bc12e282e80cad10e6a31a07]
 │   ├── c
-│   │   ├── muck-c_1.doc.zip [57749ea3bbf4a1b23e073ccd469c4ca3641f63e538e750446901fb2d51b7cdcb]
-│   │   └── muck-c_5.dot.zip [ba3fd67657c0584fecb93adb7baca83335e569449a1ba92bbbb3e05892e9bdf7]
+│   │   ├── muck-c_1.doc [01a1b48e46102d88b4dd0b3a4de18520544c92db2550188f62d32ab9cc7d145d]
+│   │   ├── muck-c_5.dot [6d12e56e2baf54f20687bfa7b4db688ade922f4f727ddf625c3943dfe98325f5]
 │   ├── d
-│   │   ├── muck-d_2.doc.zip [40fd8636784ec6ca0f2ce21a679bcfe6cca451c84506ec7d1da9bf4bda3b9a4f]
-│   │   └── muck-d_4.dot.zip [31836e434ffb0ee491cd52d2b840e2e846946c3d2c844441d7413e88d2dc3e14]
+│   │   ├── muck-d_2.doc [87ca80e52fc2ffcf959e30235c32fdf94e4d8fcc00e0f74b2a47debbbf26981f]
+│   │   ├── muck-d_4.dot [26a31ac7d7ca6d8b6ea9a92ccbf14b326e6d70d8614319d4afceecb0748d25b1]
 │   ├── f
-│   │   ├── muck-f.doc.zip [6a1142a8ee5017958f866d01fc5015d35eac3c09ab165d2e4ab9335c5785900b]
-│   │   ├── muck-f.dot.zip [b86b5cdbdedc4e3796f7620f797ae86426e7df1e30626dec8c938b7f6d5e42a1]
-│   │   └── muckf.doc.zip [d7e74f48d51375b7bd867e6d99c6c12a66387fe75c08755b0a785fb0b0cd3945]
+│   │   ├── muck-f.doc [0991c2aae8ea139221400eeae2c43f2f3f6b69304444682efcdffdaf96b5def8]
+│   │   ├── muck-f.dot [eb6dcd57a9e00d4d42f6e46143cb443d6857b2ed36c2932bd2dcd45253d00768]
+│   │   ├── muckf.doc [b040a0c8eafc02394795999a17e146353dddfe45644c8d3ce22bf36d2b3c4a63]
 │   ├── s
-│   │   ├── muck-s_1.doc.zip [268d815b5f6cd90779ac8940122dd61b5eaf048492a918f0552e4a3f18153432]
-│   │   └── muck-s_5.dot.zip [da92ec8992ecc237a2dbf428276f1c73793c58e84214be867d4ec42114a7fbd2]
+│   │   ├── muck-s_1.doc [30fc3cb3515bb932f7c7cd130277fc1b0c34188323d1e5e5d9a4a72adb513d7e]
+│   │   ├── muck-s_5.dot [43f40dd727f282fac21896d395dc01b631b9b09e93260fef8e2cdce28451d14a]
 │   └── t
-│       ├── muck-t_1.doc.zip [26ef290d3096a74a38d13beb685e01dfe96a8c90d7e84c27eacd62509e2888e9]
-│       └── muck-t_5.dot.zip [9a4a121bf9b6fa1e71f14545f606e92e217600676b7407e71f1c1630b5fceeed]
+│       ├── muck-t_1.doc [47d7ab642574e18c10285070f8044bd16a0ba544cf39ca5ef1f06f9ca7943633]
+│       ├── muck-t_5.dot [53961cadddd60587eea7e06f0d442ced3c0bb930c1623db0fe061d813c5793f8]
 ├── munch
 │   └── a
-│       ├── munc-a_1.doc.zip [9f76ea48037646ed8f03e3a409cf23a4fe711551203f1053ebd234db8b83ea2d]
-│       ├── munc-a_5.dot.zip [1844230ce6627f15491c25d651912e47ee08b94d523395c0f667983650333bd5]
-│       ├── munch-a.doc.zip [daef05942a8265d89a1d610787da8918c3d1bd0cf47c2211671e546439e187f7]
-│       └── munch-a.dot.zip [d788a443c4d0d887db378a8aa5a4c53570531c5ddd734b462b30a967d290a2a9]
+│       ├── munc-a_1.doc [1465cf7ed8176c76ef26abd7776bc3145d1cd40e7b1f9a6ca55e7e073d4ab148]
+│       ├── munc-a_5.dot [3a9048ff6856b82cf242d81cf77967c21d78eaf6b443cdafef15e215042773ee]
+│       ├── munch-a.doc [075cd00ada054e961bb31ea5287d4b18f1032372698436acd355b87692684783]
+│       ├── munch-a.dot [8d45c02f5c7b821ca9ebe1574603536fca55f67a4a020fe06a7869e087e26317]
 ├── mvdk1
 │   ├── a
-│   │   ├── mvdk-a_1.doc.zip [72cdf7f917c4a3597a65849b1506cd0b50b4fe09851bacca6c18ed8a8d61fd4f]
-│   │   ├── mvdk-a_5.dot.zip [ef6916388145544bbca29476597081e373df4895633c6de3df807c703abc51f2]
-│   │   ├── mvdk1a.doc.zip [686505e87b8dedabd39f05f5cdaf302f5233f429a3e0795efafff92b3d825220]
-│   │   └── mvdk1a.dot.zip [a7a193d7bef0c4ff96af05ac167ba8b26894c3ea56bf1b0aaf0fba17e92ae42e]
+│   │   ├── mvdk-a_1.doc [9688f9aaadab644e52065f7ba54ec1fe1df05c18845542b1a7ff93bc0af91f51]
+│   │   ├── mvdk-a_5.dot [aceb59bdda5ce6db4485f4cf35f5195452bb4911eff1c8fe8ee851162874d121]
+│   │   ├── mvdk1a.doc [68c14a85186c1a312ae8c6d2bc8314ef6f47cbfcbfda060d74b58d862a628a9e]
+│   │   ├── mvdk1a.dot [763ff3528ab8816701cb0fda3b308256c228f4c10fb4e13004c88393b37d2116]
 │   └── kit
-│       └── mvdk10b.doc.zip [6447c362e809bd3121c09c6a45eb2dfb818937afac13d0c59fde913bd6f76fb0]
+│       ├── mvdk10b.doc [b0630efb58305ba175b735a22ee39640c0fd04c7e2648b54486e18d6f804bc70]
 ├── mvdk2
 │   ├── a
-│   │   └── anarchy.dot.zip [43e4a321ccb9aa95a28f998723285d1ea9e18dc8cb3dce5d64865446a6592112]
+│   │   ├── anarchy.dot [3858a124c26b811e39ccd7792c45b0beb737ae5f2923fc8bba04469048fdf21e]
 │   ├── b
-│   │   └── bilbo.dot.zip [87590af1d40b6eab447fc0c5fd59c47b915ce993d8b03f0010af23720dbe48ad]
+│   │   ├── bilbo.dot [781cd4cbec924cc4032eaef8da1be6be4f227a81355c8a9746e31086c856f0ad]
 │   └── kit
-│       └── mvdk2.doc.zip [292a6767009f36ec0d63161fb9d11d3fb072e7c0d6b560850eb91b83eefea6c8]
+│       ├── mvdk2.doc [5de10558c979c504c6649a488e50d57006b8893570afcb692e50d901627fda6a]
 ├── mvm
 │   └── a
-│       └── virus.msword.mvm.zip [f3629d09922d4fd803f1e2708b0aeae371c146f3de3b0d66ea6f3d6867cbcee5]
+│       ├── virus.msword.mvm [458a552ce3f1ad13049b2a9825403aba36d429c25b6dbd8266da0e9fd94d782c]
 ├── mwvck
 │   └── a
-│       └── virus.msword.ctmwvck.zip [5027a2c6ec081f7a2cbb20bca80623ec3e9e90dd727b30376dacbae02c9fa837]
+│       ├── virus.msword.ctmwvck [27bbc0a8e9269d596b3d06ecc58a39f20a709d4c3552e9973a8dd746313d0517]
 ├── narmol
 │   └── a
-│       └── virus.msword.narmol.a.zip [a1031deb05ee3564489b89717ad952142108a6830372ffe2c8ec3295bfa463d0]
+│       ├── virus.msword.narmol.a [f5217b65d7599cc26e87a90b767c647d775739f5ee97e1b37a3d6893b93f1ef1]
 ├── navrnar
 │   └── a
-│       ├── bans-a_1.doc.zip [0646c0a10e0221d98f436ccd295eb00a0a1d863b54737a419a93e835c09c9a75]
-│       └── hzds_01.doc.zip [9dfeb5adadb3ac95eef247e274f269a0f81685bc8f948e8c0206b2a1278b5def]
+│       ├── bans-a_1.doc [ad11c6446a471a5614bb47c7c615b0c6b4196a0fddc5e5cb206e2b84b7f1b988]
+│       ├── hzds_01.doc [b3e822d87b54691154076e8358e4f84dc8f089cc4ae6109b6d3a8e29eb930346]
 ├── newyear
 │   └── a
-│       └── virus.msword.newyear.zip [1b04fda9d8a729018bf3c9db21a6330abfaedda62b03772d12fc15aba2c57b8d]
+│       ├── virus.msword.newyear [db901532ba5ef6da5670cf06e5f1eeba7e88fe54a5cf4c0acceebc2511df26ae]
 ├── nf
 │   ├── a
-│   │   └── nf-a.doc.zip [4b867bef7c0172fa657fa6266981c2b7e92d2e043c0b000c4925ff5e7e55f1c1]
+│   │   ├── nf-a.doc [19109670f4e17f7bf58ff2579ace97230c2a26b01b36db4e6e1b9c62e1af1424]
 │   ├── b
-│   │   ├── nf-b.doc.zip [82eaa07d76e1011ea5b3aa99549e40ffb23b5fa8f2dbd5459c8b63d3ab71baa7]
-│   │   └── nf-b_4.dot.zip [a8bba63fa5059b0df10cbba1fc32ab747c451332025dfa1b1ff798b8df7ad5ed]
+│   │   ├── nf-b.doc [5a5716b10bfc396afdcdcf80b19a42d581886008a39b819417f982e0dbfb871d]
+│   │   ├── nf-b_4.dot [09d4a2901e1e100b441adf80879081174c33c335a622d8530aab8519c95135b0]
 │   └── c
-│       └── virus.msword.nf.c.zip [1543eb86ca1e54006a53f28b965e9cb190fa16d4c3e2f6b113f0777dbf222e11]
+│       ├── virus.msword.nf.c [824a0420710bbcfe16d8c71fc6ec8ce9dd06803a9fc460b3b156e1ba7591431e]
 ├── niceday
 │   ├── a
-│   │   └── niceday.doc.zip [b2cf7310b96feec66defa87332788be044a26e68ee93a596f942271e53e4d093]
+│   │   ├── niceday.doc [7f6420d654f34a26d01c8b19a6793f78c7f8045e04a3c136368864bca48a6dc0]
 │   ├── b
-│   │   ├── nice-b_2.doc.zip [11235b80a99818ec305b680dbd2fc955a3f4e6dae83fc1709c1ce7673482820f]
-│   │   └── nice-b_4.dot.zip [84c1e12eb97294f691370136b52dce9a056f82279e1f3b9eab1d86043439cc66]
+│   │   ├── nice-b_2.doc [6a582f0db2f02d40f8c797a74b20619e3aa03e3c20aa565717416b4720a3f6c5]
+│   │   ├── nice-b_4.dot [7973f1dffbf6ed4f0371b7af7a6af90f1fa3f68c7857cc54a2e7725291564577]
 │   ├── d
-│   │   ├── nice-d_2.doc.zip [bde9a2cd62908b0e9e23af88afa9f83314f00166a6e13004fb607b3a6ebb6dac]
-│   │   └── nice-d_4.dot.zip [a28a4993e7f62213e7ccabb76aecbbe6575144d6d356e4a392ed4915d1f5b906]
+│   │   ├── nice-d_2.doc [65c307cbc29819c53d60dbfb8ceef878cb5a78d5b01a1dbf6a8a8ae1f127c6d8]
+│   │   ├── nice-d_4.dot [07226abc5269e8dd9656cd39adf9e18641eaf3c0de0138c05d9c0256ea502343]
 │   ├── n
-│   │   ├── nicedayn.doc.zip [9906944da4edb6a6344b4ab53643a6cbb82d5c5fa7fcd88df5862783c0690f3e]
-│   │   └── nicedayn.dot.zip [c7f4d3078d98a6b2bed96991df348f492c750979c63c36e196394f227ac83686]
+│   │   ├── nicedayn.doc [6322eec3dd04f49fc4a9ec74e81a80ed0bb66aa2d4c4b8d7768abfbdae60150a]
+│   │   ├── nicedayn.dot [fdf54ab4f95ca9e240faefe7c383e7f8af0012ba44c5ecbcdf617600f751ca59]
 │   ├── p
-│   │   └── virus.msword.niceday.t.zip [16410c5e9247e98c17a8de905b8ac57f83ec7e4b3d66aebc569bd0c58275997f]
+│   │   ├── virus.msword.niceday.t [57cdfb0f30c35a402f20018c78fd636e2cd217ce41d40eac0cb8be3d555e7586]
 │   └── z
-│       └── virus.msword.niceday.x.zip [cf82d9805321b5b4ae1f92206c42d1f2b7851c519ad65ab4058759a74ea8c0a1]
+│       ├── virus.msword.niceday.x [fd292c9ecf528a1be3b561a6c2e68d89e889130bc1e51316f100e797c1bf30ba]
 ├── niki
-│   └── niki.doc.zip [30363f3a507e54ca7981824d2362393dad20f5689c27c7b6d26d8da32d584f57]
+│   ├── niki.doc [d7d7d997085a94c91aec2a6160c5c6d0749e8c357e13dfd53ee4aa1c590a4a36]
 ├── nikita
 │   ├── a
-│   │   └── nikita.doc.zip [e85178328d658cb3630948a153876cc3e8e9d1be6a5f53fdafe2169823e5628d]
+│   │   ├── nikita.doc [2fd77768d3bba02d7d5fa2553443e3462573ae6251d86475c53685783ed32ad7]
 │   └── a1
-│       └── nikita1.dot.zip [b544af3db16e42e5bf9052541713a53ddad7a871afd572f4623b9f580684255c]
+│       ├── nikita1.dot [d7160c81f57d675884d6c05d0c815abfd6b896f54713431ad6f7f1c99700ddac]
 ├── niknat
 │   ├── a
-│   │   ├── niknat.doc.zip [a70aa6636107bd69aa3b59cc41d78c073072319f54976cbad7b07c81f80cd3ee]
-│   │   └── niknat.dot.zip [98487fad963b6348193d94d64f4a098851ff3c8bda57417c948bf9ee6a4f9f97]
+│   │   ├── niknat.doc [f1ea09d8b489e48f2f84f037b7dcf6616f4aef313ee8dba11884e3efa3712de7]
+│   │   ├── niknat.dot [d65345967e038399e76f29054bcaffab4f78d2a43402cc012714ebaf48e0e73d]
 │   ├── d
-│   │   ├── niknat-d.doc.zip [f9b219ebf7cb5f2a28d29578db36ca10f0a130855047d8e5ba368370052a5b24]
-│   │   └── niknat-d.dot.zip [1070181fea18ece7094fb51052cda44a2158442231b75e8c0091a52b9daea21a]
+│   │   ├── niknat-d.doc [239099daf072a6027d80d6436bbec1ffd76d50d156e7bbaf0484b799848f54e7]
+│   │   ├── niknat-d.dot [b6e99f2163d8dd762a456569687b776ae196080cd8d3dc81f3bdf8be1a237e68]
 │   ├── e
-│   │   └── virus.msword.imposter.b.zip [15e78a629703c131425d10c27c0ef2d962b8641c2c3fa752c86ccc94c75dcb7b]
+│   │   ├── virus.msword.imposter.b [1d65eb4533c5fd2a7b3e33c99c6f58e706b8c9f25830d58953b8ac306d4f6af9]
 │   └── i
-│       └── virus.msword.niknat.i.zip [254e342f74af9254538795cba8f2adab66012f0ad64338af451600b554ccc2d2]
+│       ├── virus.msword.niknat.i [282baf67de7989778cf003d8473deaad0c159847531c83be9c2ec06f2e497c3d]
 ├── nj-wmdlk1
 │   ├── o
-│   │   └── virus.msword.mikevelyn.zip [9f7773452eec6c550f8e65df819f22084be0947e72a1d2e31698b685c1cec2c6]
+│   │   ├── virus.msword.mikevelyn [303a2d410a63943d877cd2108796ec5de08451cfa613020dfef520ce89b65db9]
 │   ├── p
-│   │   └── virus.msword.tz.zip [8940052186672f44c0e9509f78064fd4d5cdc1e526c664d5a808ae3f2e68bf60]
+│   │   ├── virus.msword.tz [009bd41797da540f652363a6d8fef6318bb7ebc18de051e0b21a18687b16de37]
 │   └── v
-│       └── virus.msword.cop.zip [89bf1295c71faa51963ac1a8d747fc1be2bd8689d011e22c5705cba1e17de54c]
+│       ├── virus.msword.cop [cefb8796ce4631b1833131a65a45cd23b0eab3b2bce63e72a807c80a49fb2eec]
 ├── nj-wmdlk1a
 │   ├── a
-│   │   └── blackk.dot.zip [317bca6ce33d76df2bffd637be249b35634c903a7c03cf775e3113bf7ce83389]
+│   │   ├── blackk.dot [413bba8bad932525380cb8223bd6bce55d6e949e73334cd9db01d904671f6fa7]
 │   ├── b
-│   │   └── blackend.doc.zip [8292e6f520b3dce6215bae85af8ed52e400099dac5c3ae96ac68cf87df37684d]
+│   │   ├── blackend.doc [c276a7afa553f6b5b053f145bdeb5be847e90894cd7fcd3eb9c54a7e72e9ab69]
 │   ├── c
-│   │   └── grunt.doc.zip [12257eec33b7d2a2c35cb8bd81e5a33afce8ed6c2a2784e94fcf0b6f32f691d3]
+│   │   ├── grunt.doc [76df942d2752457abfb6717a8283e9683a6974fc7cb6200c6b797b8384367f8f]
 │   ├── d
-│   │   └── archie.doc.zip [9ec3dbd5969d0ddc6f544eb6e3281a78e603deda7e9f41e4b8d809f726d3769a]
+│   │   ├── archie.doc [23aef95a5152a94f8f3c290b7241981a4191220dbc239b625431f144307f3947]
 │   ├── f
-│   │   └── colozero.dot.zip [a1a8d9c1cf5b3a30722a24a3d4b4089f66f30f4b0b413e9bf8eb4ecfd66b2698]
+│   │   ├── colozero.dot [cf0f5f1d8ad942e733d40d37a146f1e78d5f60113e1c0f3df36470c3eb8f8c7f]
 │   ├── g
-│   │   ├── njdlk1g.doc.zip [d6763e90918493bf00cc7fc2aebaf5b2c6dff44fbd5077d9b86c949438e430cf]
-│   │   └── njdlk1g.dot.zip [b6a56383971ac39e0caec841e7cc3dfdc8bb1d4eef54904a89cb938a5937bcba]
+│   │   ├── njdlk1g.doc [3ad7035b421213fa2b5982154b1d8a6e3caf0af6b34506ade4ad32789e61737f]
+│   │   ├── njdlk1g.dot [32eedfc817c3df68252cc59ba6e2824e8cc0736a0bc0da984e0e1fd915137fe6]
 │   ├── h
-│   │   └── wmdlk-h.doc.zip [8953fba4c6ee8c9dcc59b5d2d61060438dc32ef39f6ff9551b74e3dfeca5e401]
+│   │   ├── wmdlk-h.doc [676bd1fd837d721cddc6fdb5a0f2fd7e66a933d924fe1738f51b5b9ff088ea8b]
 │   ├── i
-│   │   ├── donoso.doc.zip [d24eaa0a58dcb55c1a36563d69f5f9823f3097d7f0398b716e4a5bd592448a11]
-│   │   ├── wmdlk1-i.doc.zip [aa7fd9b087b9ef76c237c36f49dd4824a3f6961307bd067719de23e5ff3d0820]
-│   │   └── wmdlk1-i.dot.zip [a725e2936e1d1271a09a3b6e6fb206606cabdcb05bb6b61f8b6737ff8868fb70]
+│   │   ├── donoso.doc [c9442b9c302cbc2eed9a4a660f1c38bf1541c836897b8d84ab04882f63040fe1]
+│   │   ├── wmdlk1-i.doc [de591e28e4e021f565979673467d7d23ca55e53ad80808c3b68e6419e70ded92]
+│   │   ├── wmdlk1-i.dot [e90cd2fdef4a215f3ef85d18c3cc0bf7a9bbde431a9d7b895617ba0c00c56f57]
 │   ├── j
-│   │   ├── nj-dlk1j.doc.zip [75aac7820bdbbf9a6e311f36a02d5c7e9d1936e79f032d4846ec16770cc0d9f1]
-│   │   ├── nj-dlk1j.dot.zip [0667ce266810ef119b99d77b58d074471cf5ed5ebdd5bf085c5f75933f155680]
-│   │   └── wci02695.doc.zip [c62e55a1023a9e3c8ccd0317764c7bca2c05c2bd5ac0b29fc319adba82b1f367]
+│   │   ├── nj-dlk1j.doc [db34ff54ec3a34225c8252f92d1c79440c06bb97aee320398deb382ca43ae387]
+│   │   ├── nj-dlk1j.dot [b1ee342da2f329cccf4a1a37a392ccc1fc15f4bab03aa6edfd324da20ad69b10]
+│   │   ├── wci02695.doc [03702cbadf3b6353aa7ce1a5cb3dd3e2af5fe259ee76c3fdf3665dde15d784b6]
 │   ├── k
-│   │   └── time.doc.zip [559af146e68d7f6da886b04106457cf4f301876739a766fa14b80099748596e1]
+│   │   ├── time.doc [eeac45072dea55c5397187250227f8a5946c37f331974f55dac82789528ada37]
 │   ├── kit
 │   │   ├── a
 │   │   ├── b
@@ -2200,1632 +2197,1632 @@
 │   │   ├── d
 │   │   └── e
 │   ├── l
-│   │   ├── greeting.doc.zip [b91b52bbca4562c5f9a66762c49c8cf6a32ba7119b9ea55a9dcb39d2bf6d2a70]
-│   │   ├── wmbeep-b.doc.zip [3d2f99ff99ab623eb82bc34fc5d47531a8b0fb88fad56bcdfb3fd2c4353a4a94]
-│   │   └── wmbeep-b.dot.zip [1c5cb83a591ca70b45023515876c916f143b67e8767818e4d822f3f556fccf6f]
+│   │   ├── greeting.doc [82670e68ee9c22b2db72d7de698fe899b157d41445eca8117e1a537cde3ca781]
+│   │   ├── wmbeep-b.doc [c1b93dad8db34665af57b2656733623cc656ff60ca304079d5c200273e4cec2a]
+│   │   ├── wmbeep-b.dot [998bf69b9b0615ff6272c0aafda677d484377cdd47d6c22df9c5bff242c69e9f]
 │   └── m
-│       ├── dlk1-m.doc.zip [37107222a2285dabd99c56ebba71a1fbee8e93a4d9ac22001129f87f198c7770]
-│       ├── dlk1-m.dot.zip [980404c79a38ac1c6310e06f19a900e5e38302b67ff55240fc1d3b70999b0960]
-│       ├── dlk1-m_1.doc.zip [7449c147af297559ee5761df835764791683cbce7c8f303b072f6e44aa47533e]
-│       └── dlk1-m_5.dot.zip [2b61b970ac905c6c99b0c0cc52274ffe243283a5f9395e01bb409b281c9c398d]
+│       ├── dlk1-m.doc [be91a143e131d9384a6387a391d893cab8528e5e08e626b2cb2c18e90a2a9b54]
+│       ├── dlk1-m.dot [58be3cb380145dd8674081367a19ff309548036ba6c9516d3d5bf381e0e23f54]
+│       ├── dlk1-m_1.doc [a50d39521a36c9e22124631beb9d83abc184204f30491c6c4d4d1cf140ad9ecc]
+│       ├── dlk1-m_5.dot [e81ad6b2d3343c01ccdf4d0a6d5c492ba0a1325f033814006f4d85c5dba036b4]
 ├── nj-wmdlk2
 │   ├── a
-│   │   └── coolio.doc.zip [55536d8cbf32d118dc6a274cb25633b0abd11f574ced0fd3f6b9c65209476153]
+│   │   ├── coolio.doc [bc6fa7f2e79cd5604ea1aba8ae76cff9c3fd7ddd0ad2046c0c7a1252975febf5]
 │   ├── b
-│   │   └── misterx.doc.zip [f6d378ce3f83be54da0bbb46d73b8df19db427695797f78bb7f3da92040bfe0e]
+│   │   ├── misterx.doc [7c6811bd9fb4df101c0b0fe175fe6b21f8de0ed38339ac032feb5aaf8b445ecc]
 │   ├── c
-│   │   ├── nj-c.doc.zip [3935bb15979fdb6ac0c655a6bb15164a4d0a2dbf0f9519f96293718a33531b1c]
-│   │   └── nj-c.dot.zip [a4b304e51f2e192b0d4511f6cb481c4b540a68b0a790484a2978157b1acd9c7a]
+│   │   ├── nj-c.doc [9f712a0d79ff1354100b9fcc81d87a4fec0a77cea11486a96fcc0e3af0225614]
+│   │   ├── nj-c.dot [84c88c51d23caf8bddaf6c229e8fb3349f3366034e5142a24a7e81c0b4950e11]
 │   └── t
-│       └── lucifer.doc.zip [c51eee0c50abbefb94c232aa2ff353019b591c99025db4f540eb9d9b1889e37c]
+│       ├── lucifer.doc [3bc60505755f51cebadf10e8450b6d7d167f62b6ec5e002fa03cf454c081fc75]
 ├── nj-wmvck2
 │   ├── d
-│   │   └── virus.msword.nj-vmpck2.v.zip [373d8d133f96d48c789e063597167bfb5172a7142b4ecf4efc72e2d8c0e7601f]
+│   │   ├── virus.msword.nj-vmpck2.v [b9cbd2d665e490906b5a91d9fae8b71506446e3e792230385d0fbc1efa5fd346]
 │   └── j
-│       └── constructor.msword.nj-wmvck2.zip [e0a9c8f7bd0e63e015c36d4c4337d2531e2efa5d7de6172cb3b3fe65581cefe4]
+│       ├── constructor.msword.nj-wmvck2 [5c89738c50155e4e2119855be8b741ceed5cd9975b8bee1e171bdcdc36a9b2ac]
 ├── no-f
 │   ├── a
-│   │   ├── no-f-a_2.doc.zip [6ac344f57735dfccd689ec506b0f004192a71df060f24edb3dc0f0e06ca4da90]
-│   │   └── no-f-a_4.dot.zip [185605d3a895a5ea0f6f1306c31109cab580fb90d5c078ff477ca1e0b41f0d8c]
+│   │   ├── no-f-a_2.doc [3a23e1ad7102b20c303dbd3caa7260d9fff4d54ca3bf0eb3f656264a23b009dd]
+│   │   ├── no-f-a_4.dot [c67a69a2722de65529de69b04c05c79cb17c01a11c93c2b55bf1ce7561ff727d]
 │   └── b
-│       └── virus.msword.misspeller.zip [90ded0e2f28cba78bb757ca1bcde2101bd6407d3c85f509449093f8c856a4d24]
+│       ├── virus.msword.misspeller [c45fb5b7b4d549a630c7bb2ac0acfd9a676399a182135a75ac0dd4702234a1ca]
 ├── no_va
 │   ├── a
-│   │   ├── nova-a_1.doc.zip [363eed916c364fb3e6d1b656b914ed93ae3e73825113d38b01b533ee71669129]
-│   │   ├── nova-a_5.dot.zip [50cabcebbbe2479cbf96428284c2ac8c28a99dbbff6570c522eff33a7873f9ca]
-│   │   ├── nova.doc.zip [898b353b44f98295f4bfd798283d866f6bb4c0cb46c6d21c82f114208c4df86d]
-│   │   └── nova.dot.zip [4e8c911c68fa6715e514186b098a78a07132c9fb8925d0f9df5899758edcc42f]
+│   │   ├── nova-a_1.doc [a3f5e01cb6b0e7e3afdffd0a9d9b2d194c9694cb06cfa8bf1e61a4d248e2dfed]
+│   │   ├── nova-a_5.dot [31e5933d65801b777bdb19c6decf3c5a94711e199048e960a7d8b8e6788ac6ca]
+│   │   ├── nova.doc [63f5490f0800e0bc408c8b190ef7efb06eef9cef4ce777896b90bb18fc9c6965]
+│   │   ├── nova.dot [4830cdee148441aef947bd81811afa1d267aaa2ac52660181681d413093b3e21]
 │   └── c
-│       └── virus.msword.map.a.zip [90eda56e4bf5e6f7d33d03b6dd6fd050fab1460a0afc69c54325b66700123a0a]
+│       ├── virus.msword.map.a [bea10f04f2135fc2da6e3b9c13f99298679f682c2ffa857f6cd77e419082450b]
 ├── nomej
 │   ├── a
-│   │   └── virus.msword.nomej.zip [ed604ae510aefe7e2f87431e447ebcb0dad89c1cb892b403cc6a27cf9823cc89]
+│   │   ├── virus.msword.nomej [8edf4722493a27395bab91fcfea6fdabd14e4ad112911eb6c16e7892add68194]
 │   └── b
-│       └── virus.msword.nomej.b.zip [09520e24fdc85860d681972e09c05270dc0766e70999bdff7bbb371f4aa59f08]
+│       ├── virus.msword.nomej.b [6a7be845d31f419e42389a1d84e3a213c9acf1be077f1268642cbc39a6ca983f]
 ├── nomvir
 │   ├── a
-│   │   ├── nomv-a_2.doc.zip [c9392cbab574022059430f5733078392d5e1c76a9517397d6d0f6450a68c10f9]
-│   │   └── nomv-a_4.dot.zip [cfda7bbe89351a38a481beb248510d46fa61e4d60761654e48cfab9106472c90]
+│   │   ├── nomv-a_2.doc [a3da6805ecd8d7e2e1c9f1813911ee5f9f7368d99eaf8c337843bbf9b92b27ad]
+│   │   ├── nomv-a_4.dot [cff17b0f8479586ddf3f1b92666f146e96b1291dc51966a064457a3059a26be4]
 │   └── b
-│       └── nomvir.doc.zip [77fbeca70bbc990ee8631410a126a431674795e818f19810a0feb0e07fb284e1]
+│       ├── nomvir.doc [fd67284dc238e68ffa73e30e22b6bf6619a22d17469d5d0c88a6c1fd483cc3c4]
 ├── nop
 │   ├── a
-│   │   ├── anwelis3.doc.zip [65db956c3f57bf66a5c3061abbbcd731a485e6fe600a1b0b2fcc06e70ef56417]
-│   │   ├── nopdoc.doc.zip [4ac9339dbb53a71e2bed6aff7528d5b5e15f12478dc25ac9d17eeb21c4d74784]
-│   │   ├── nopvirus.doc.zip [85e6bb11978bbd47168f7d8fe5be81a6ca32f257723e44dc771518eee81e79db]
-│   │   └── normal.dot.zip [e6f29965b3993e9bc93847319d204f2e6b959ccb8e637cc5f0eefd591f179ceb]
+│   │   ├── anwelis3.doc [d43be1fab57f4e4ecb5d38e19b741e2e6e323d6abaede4e08947312251245926]
+│   │   ├── nopdoc.doc [1d3bfb594734df0b2a833e800c6a9ef3f14cf4a35981ae5e1ee7cbe551d58faa]
+│   │   ├── nopvirus.doc [868278145ccc70a50b7b3ecb660f700ee6727e643e99c230dff92a5d8fc33d5e]
+│   │   ├── normal.dot [f2b2777ecfdc6e2c740a57eb74e6de6a3a2aa66b95591b723270e3ac09c4d371]
 │   ├── aa
-│   │   └── virus.msword.nop.aa.zip [0c15f2b68402c07db6216838b2562879804632c86debef0f445e4bbafd765e92]
+│   │   ├── virus.msword.nop.aa [1eb6ed451a1b0f77dda28473ad9f949ffd4a554183ef3487e085d0e337fcaabf]
 │   ├── ab
-│   │   └── virus.msword.jakutsk.zip [15fbdc85d071d9fbbe607b19399fe9654e5b36334b7443604d7c6aa5d0e207ba]
+│   │   ├── virus.msword.jakutsk [8d67450248d3a7f34801863d07edd087fd59ef69c130a24c6762b34777df9085]
 │   ├── b
-│   │   ├── nop-b_2.doc.zip [17eb091054c89a1abde07e249d2281680ccf6d9000e1107ddd305d6d79b3db78]
-│   │   └── nop-b_4.dot.zip [ec0f7c81222e6804f77bdaf9ea8bcebfbdba21ba01a3d416a8fe27886e454306]
+│   │   ├── nop-b_2.doc [85d092bf296dfe8cf91718e2f40d6302db49c24ca4cc388f012299995e83e96b]
+│   │   ├── nop-b_4.dot [8676e39f0435ade873eb0bcb62e1b3d3501f3ca17097589d3d6d5b391849e8fb]
 │   ├── c
-│   │   └── nopd2.doc.zip [2214fb073ac3f6c0f10656a3eb255b96ee2f6e8c9caaf59b05e55d6b35829730]
+│   │   ├── nopd2.doc [5f91d1197a6db1db0c0c570a04e8a142208a8e0d32b7e02f766fd1ddb36b9917]
 │   ├── d
-│   │   └── nop.doc.zip [d73013e30f8067e35872b7eb017a2bebaa7599ca7837ea800d671c557ddcf558]
+│   │   ├── nop.doc [7a4c2dd4728f05906eff65ba0e7cf8a7ef77c993973fc54efd7f43ff50f8c9f8]
 │   ├── f
-│   │   ├── nop-f.doc.zip [5c84eb621924544cf8f3c44f660b38fa61a81cc7fa56f70f945f0b93790f1523]
-│   │   ├── nop-f_2.doc.zip [d248a50dcbd2f37e4c5934747e26b8674e39b67ad3220433dc623a7c5bd91f07]
-│   │   └── nop-f_4.dot.zip [574b1b8ea1798f58be9b8d5b7df3fb46654f697a1c68da55fd114945e3db8694]
+│   │   ├── nop-f.doc [a92ed55dc17914b30baa8abe45f7a1ad428a00c52e1866cba90640040e9bc345]
+│   │   ├── nop-f_2.doc [6143a218c9762fc09e7c9d561f18a61626560887ec18865d5ed0766323adad7a]
+│   │   ├── nop-f_4.dot [4d557671dd18e40986bea9f41631262fd306fe5bf290524b00e9e7102e1c8b8c]
 │   ├── g
-│   │   └── virus.msword.nop.g.zip [e6ce17de26f7150a8d9ab5692331d4d3a7f7aff1e581701dfbde8aec01eeedff]
+│   │   ├── virus.msword.nop.g [b230464e265185914fe4a997f9d7a698591794ecc6612052f4b2332d342a8116]
 │   ├── h
-│   │   ├── nop-h.doc.zip [47423c8a334aa1ad66949c5b6eb9537fe3a9d59f18cf91e11479c261f8dda693]
-│   │   ├── nop-h.dot.zip [0a62220e885d3d056ba988cdd7e6cc5fb49408321b05287422e269d7e4b7ad0c]
-│   │   └── nop_h.dot.zip [af9c99c50897c99a7c87c1b73d8775237767e10abf16970f6af64eb37d69d3bf]
+│   │   ├── nop-h.doc [4d3333fe2a8af0ee1396de4f5bb7dda76c8b6b362c6c9b631aa3a5f2899be54b]
+│   │   ├── nop-h.dot [d9b6c3a9c4a5fb15ada35c651f842a9fe920784782616ba830b42f458a12f129]
+│   │   ├── nop_h.dot [7038d1e80b8b7625f8f78072949598ac3620232f4e87eb6d9d2f87d45fda6df6]
 │   ├── i
-│   │   ├── nop-i.doc.zip [4c6e1bc0c4d24505070506656cfd0f6543d77718d2f01ee68e4467474905d7cc]
-│   │   ├── nop-i.dot.zip [a2e4c7719064cbde6f84b2788043d5ffea823d0cd087cee29491ed8afa045f1e]
-│   │   ├── wmnop-i.doc.zip [a9f65b652328d1d0e5d6c3ddea1edd421d548b5f044b675833479457d411e473]
-│   │   └── wmnop-i.dot.zip [d7f89ac90f9e948b5084425b5a59d656d94b408b8bcf2f8891acb48941717cf9]
+│   │   ├── nop-i.doc [266305a85cd37573a1ed648b79de889aa882bc659b36b3468aac4ec0fc6928cd]
+│   │   ├── nop-i.dot [7f79809365fc7f2fd58fe8bbc95049055c72e5d8c9adb529aa9cd240ad2c610e]
+│   │   ├── wmnop-i.doc [f02aa7f04a8140b86904cf12af64d6e5b0e354ace0034b11f698983c8c714e1e]
+│   │   ├── wmnop-i.dot [f85cd70a19f61c938a23fcb4eccfa0ea5d0d0094b141e19bd073b8aaf1b22f31]
 │   ├── k
-│   │   ├── nop-k.doc.zip [0bea4df76e0dca4248fd16fc196afdd887ecd2477aa276ab5c905892db4c67a0]
-│   │   └── nop-k.dot.zip [5222f4274cbfe098b19d5922a09953904bd42b87f0ebd677a3a540dbbde0f2da]
+│   │   ├── nop-k.doc [2fd70c93fe6536a853fb88f28a31759e0dc95122bc65d8a17d57850b3dea0876]
+│   │   ├── nop-k.dot [52a0a2d928d8bdb9227dbfa3ae5a613d4dffe45dd011a25b1bf4a35fae4ecfcc]
 │   ├── l
-│   │   ├── nop_l.doc.zip [80bafa601e05e42f16772b25f2c239b200f443758b109ec39dc664fd237e072a]
-│   │   └── nop_l.dot.zip [a1e8560ea016042460fd76d58780c6ef6c954c5943bd05bfeef8f4011a2e3ff1]
+│   │   ├── nop_l.doc [458c7a694ab8a3cd780e38a5706c38a8b3de681215fba4b0f5afeafaee9ab6d4]
+│   │   ├── nop_l.dot [645fba25caeef6d5df288e87e896a7dc9bb21b4fe9bff8adf6881a5223ad905e]
 │   ├── m
-│   │   ├── nop-m.doc.zip [11b6eb2ba747d9b076e75ced86f25b4270b986d9ff9e800384d368c7030486ea]
-│   │   └── nop-m.dot.zip [96a18e07c819be1d81adc136b8a8486d4d105900d29964f2b8e3b342d5ef0af5]
+│   │   ├── nop-m.doc [ea87e7e3b4b44e523fcc1a7781cf6a969ce696545b41bab0c429070a9a1d4267]
+│   │   ├── nop-m.dot [b9db71ba082bdc16891adf92705b59315925bc5b56b2e759a90a8666161db652]
 │   ├── n
-│   │   ├── nop-n.doc.zip [0c09b2ea0b70c56a57d87ff9ba232a972429e45a213587e767d6e7327adb74ea]
-│   │   ├── nop-n.dot.zip [bd0603bb5c807e9c0eb5bf5bfbca477c79a60faf0b537b8f5b1d6719b3ba9278]
-│   │   ├── nop-n_1.doc.zip [8a8631ccd8fcee14ae7c2464fc3421f8c50083ab6c771f27ea22949ae0dbc630]
-│   │   └── nop-n_5.dot.zip [dc2c942c8a07a57161c3e6d88e4d92516f8f5f1f330a99bfd1c473f03541ce90]
+│   │   ├── nop-n.doc [43764a102a6c624f70f507f009e28a0def4de86a62aeda3672c5a294b315833d]
+│   │   ├── nop-n.dot [6677f03819e1d52c3f67b21e50fa6d60d95711893703092d9b4e3bc7b29215eb]
+│   │   ├── nop-n_1.doc [ee83a68ffb65cc8e3d3b14f7c45d715e54035374e2fe8d2c03c6e5528ab78d71]
+│   │   ├── nop-n_5.dot [09ce1456d1fc515046ea024728f29406c19361e702f5d80903264c73a4212559]
 │   ├── p
-│   │   ├── nop-p_1.doc.zip [02c95aa44ac1d991e6b09a71563db3f3819e05b90c7bdf47f88e57687c343022]
-│   │   ├── nop-p_5.dot.zip [d8473c25d8ac446faaf60c6e21baa89bb71b4abeecf8eb5b6a53983159b62104]
-│   │   ├── wwnop-p.doc.zip [eb0869b03db79bf6edc13b919b44726b99e833853b5a0a0ff7b48689a629d8d9]
-│   │   └── wwnop-p.dot.zip [3cc17b5d98e3069f3d3725512935c531c3b026fe2fc5c6e630567e2e9b5c9738]
+│   │   ├── nop-p_1.doc [29717a5e07a6141e521c8737bf05bd8995556cc8cac55476a6230cce53f8ff1f]
+│   │   ├── nop-p_5.dot [3a1808cb35f71a0500e880835e0c2e1a34d138e714f9728fb6b28c12b7e9d08b]
+│   │   ├── wwnop-p.doc [0866aca56a53021337de768b00d62517bc6ab0c08b8ad820207cd6c9dcf137e6]
+│   │   ├── wwnop-p.dot [bc21c09c77806e9aa34f1ecf123b5bfb546132415d6c304470788e03ad852095]
 │   ├── q
-│   │   ├── nopq.doc.zip [7776983047d730e332f858849611d09caf35aaaf1e174eed4cef372fc58e8c9d]
-│   │   └── nopq.dot.zip [d5e906b9c2261442286f088b96e3cc48bc3b82330e57dd123f20710ea90998e5]
+│   │   ├── nopq.doc [16454a7974c119e1e5626817f4e0c16136846e8e0084673217f60582248d3698]
+│   │   ├── nopq.dot [bbf2387c02cd51b72be1e8be7e38fdebd426befd257fbdc18feee956a418f398]
 │   ├── r
-│   │   └── nop-br.doc.zip [61c9b6c31dbb5ef98f24fc25692b58d3d2a06d6f56ef384fd5f3c93ccf7f0bae]
+│   │   ├── nop-br.doc [12b5ca0af1b21cfcb3e3041d04e65c3abc3a122f79f8eaa770011faacc0e9b5c]
 │   ├── s
-│   │   └── nop-es.doc.zip [1d9194b8f35c8be9c062af7090660000cf60ef3fd3c1bc94d4205ceae0f794f3]
+│   │   ├── nop-es.doc [3cfda09c4bacff14bedab31b914d0612f9cecbc8bb53abea28987f9a03f90410]
 │   ├── t
-│   │   └── nop-it.doc.zip [6c9f77eb54649ace1882fc26ddf3dd2ca49955effd463751e4c5df416e15696a]
+│   │   ├── nop-it.doc [6422ebf92d8b7b0e1e461e51862ae39f4a110e869ffdfa421345dbb06203c080]
 │   └── v
-│       └── virus.msword.nop.v.zip [a4dbdbf83e3d88c336ec58d603a70d10f1f1710ea2b43b3f6028ae462de8dbbf]
+│       ├── virus.msword.nop.v [3aaf194104418e70f5fc344c8146f4012f24ea48b893821fd5ec5c20fbeebdbc]
 ├── noprint
 │   ├── a
-│   │   └── virus.msword.noprint.zip [2117c8b8391c34578c44c2ddc5049c32e7f6c88286e7ef310a9c93cf786eab41]
+│   │   ├── virus.msword.noprint [d98b92620bb9122637dbb75a029af5c4c5da777e4f5bd9ea35774f6a64453335]
 │   └── b
-│       └── virus.msword.noprint.b.zip [0ec2f11e080955f46257b6f1b16f454cba711074df5de5ee5957acaa680fe3eb]
+│       ├── virus.msword.noprint.b [d5c464733b0d2292a857f637a4578b97b4ed4d41d65766e4615b1b996267ee23]
 ├── nottice
 │   ├── a
-│   │   ├── nott-a_1.doc.zip [9efd3694a366bf6d4a5803c4b616dce2ca90f27265bae4c8a825416c549a611e]
-│   │   ├── nott-a_5.dot.zip [a9355d0f8c792a4034377a7674d31f61a9010f324c80c32a7392276016497cc6]
-│   │   ├── nottice.doc.zip [23ba20cd77122d38f9be2c3c4a4f6753e79b1720e43739d949197c33417fd896]
-│   │   └── nottice.dot.zip [afb4216fc974cb75b97c5a30c9e42eb117d10abe6c92380b43eaedb022fa95c8]
+│   │   ├── nott-a_1.doc [e04735ca9d47cf593ed582607cd7427369b611d8a1c440f86a478fbbd28776ba]
+│   │   ├── nott-a_5.dot [6acd3eee86714a92f1db6704aaccfda9edbc7b49cb5ef6248305a0027d9184a2]
+│   │   ├── nottice.doc [26dad2cffc100ae6e0e341cf8b97de902008b20e27fba385dbc7d8390cffeea4]
+│   │   ├── nottice.dot [13ba0dc5b6971284286681dd10272f32278b4f0bb26f524603f27577c11e0188]
 │   └── w
-│       └── harkone.doc.zip [4401f14e74f90531544b4774891033bab0dfe88c4c5d39032d6b53d04b04a223]
+│       ├── harkone.doc [8ef3f712120bddd92c66e795bc4b972317306c109d783223b98ecc0b033ef5b2]
 ├── npad
 │   ├── a
-│   │   ├── fax-sr.doc.zip [63569ae14f6a417ceac84343135aa1c44cae226785f48e0696164bdba6cb0f23]
-│   │   ├── faxside.doc.zip [9ecaef8c9cad98d7e1048bc30a7f16cdae3489da171de0c59e9b4f3ffa4f62f1]
-│   │   ├── normal.dot.zip [58a024319b96142c8df263c96b6089be276ca9efbb023a8daadca489b6f6351d]
-│   │   ├── unpad.doc.zip [ad6a8b8470e6491c79bdd400f06aa81473bef5a9789e6299efeb9c32337a3815]
-│   │   └── unpad_d.doc.zip [a75844e60480683d6768aab69dcd110725e9e02926dcdb5c872f92663de0aacb]
+│   │   ├── fax-sr.doc [a2e1609cc0161d195c95bd9186245171436529db5cc73d029214ab2b346e20f4]
+│   │   ├── faxside.doc [eed2e13cf87fcdfa23b9d3a263c92f3e4817abb8a0e4eb1b3b23140c3ea5d313]
+│   │   ├── normal.dot [1aa79ca8bd4dfe0eafa6da23471dce19cb66edea52d8101e3c80a49c530f1531]
+│   │   ├── unpad.doc [b67bf3a8aba6b7d0abfbea2ba60022c2865c0c6d48ac17c8aa6ffa8f3fe72bc1]
+│   │   ├── unpad_d.doc [69b63c9a3773ef3051d084c0a52a45af81c7bb2c389ba6e4b02a66e46809ecab]
 │   ├── b
-│   │   ├── npad-b.doc.zip [d5bef77dca692a22ebe1642be35ea698c4cc622ad02ad33eeda2f9ab2072a026]
-│   │   ├── npad-b_2.doc.zip [91d2d5e5987e93ceead100ddca3b309e6b27a7220fbb8cfdbafbdd3e82762f3f]
-│   │   └── npad-b_4.dot.zip [7c10c9966a5cd6d4b0eb55c5fc505b772ef0e6b48b4beb0c2fe103a603adbb99]
+│   │   ├── npad-b.doc [35e4f1189ac39a9dc8b91f4d81a48c928644a4b31bdee89aaf09ea3fe9b09070]
+│   │   ├── npad-b_2.doc [fdc39165362d236fe96350d38100e1d61eea2cf653ab7330192f0b4dedc9ad2e]
+│   │   ├── npad-b_4.dot [4bbfd7b8d143f38f94f3a980a4c04884b045c2041e67f224848d791023813e93]
 │   ├── bc
-│   │   ├── npad-bc.doc.zip [5c77fc29c1e1e8ae250c074a1802db5713d58a77c5e42387bd3106870c84e45c]
-│   │   └── npad-bc.dot.zip [98f1cd63c5237980c04621f04d6f39a547c2cd695615c0ff3e5b726b65efceb8]
+│   │   ├── npad-bc.doc [af893f63e55e4c15d0a03f6939cb5c17386a18379900dbc45cdae6017cfd46c4]
+│   │   ├── npad-bc.dot [a0a8b0cbf2db9f7a4c57ff275743caf2caf238a58ee8757ea8f212dbdda120f3]
 │   ├── bw
-│   │   ├── npad-bv.doc.zip [d4d38600871059ca2f0e951b69fc0d3783e9de008afd96eceedb7b9c94287ab8]
-│   │   └── npad-bv.dot.zip [d6308b00318a3dc4045574035950202cb202537e14775553a694cc13e48e711b]
+│   │   ├── npad-bv.doc [4a0603cfdef37beae53640c695c8262371321d2851e35b9c71d58cedc1f09bf3]
+│   │   ├── npad-bv.dot [1dbaa1ef7d6bc135144645046e141fce5dc863cea2325a6f38cbba7781f21e3b]
 │   ├── c
-│   │   ├── npad-c_2.doc.zip [a42e921ee7a02c96006cee5d42b55b37b70fad70da48dadf2f7562e66c4978d4]
-│   │   └── npad-c_4.dot.zip [35d1b32c675403172d587f06d1bd2f46067b08c9d98abbde2e3e9c0b4fdc4d64]
+│   │   ├── npad-c_2.doc [2d9462051da0b2a0f729b2a505877519ad34bc9f0a021ec516486dd89780d2b9]
+│   │   ├── npad-c_4.dot [f6fe9a135b304e85adfa54c4f7e12a192de821666ed3ad33579ee9d0a7dd65e8]
 │   ├── cf
-│   │   ├── npad-cf.doc.zip [eda728dac0a0edda407dbfdc5e4044fb44c622265ef5919eb054a39712c0ade3]
-│   │   └── npad-cf.dot.zip [998af8beeb91b09aec862da1a61d1d25e6c24e265e681cefa69ccd91494ee122]
+│   │   ├── npad-cf.doc [27303779f12a3324f1cdd9c67e39ccff7243c857ff1751924e35b4718b8ade3a]
+│   │   ├── npad-cf.dot [8ea0f51518a67e0846913df6ad53d8c3aee8ff935477430fa540a2d7391ade87]
 │   ├── cl
-│   │   ├── npad-cl.doc.zip [8ad698913896ba4c85c74fd602528774d129a63035f81d09ee9f971098d332fc]
-│   │   └── npad-cl.dot.zip [252dd01f65d9f79f301cfe5855772e76d37c5f1c7fa28c3f5e63fbc11b06371c]
+│   │   ├── npad-cl.doc [2991a42b100b51449ff0d59d807d6d13028e5757679ea771121cd0b3bb82e350]
+│   │   ├── npad-cl.dot [68ed84e2435c167d60d212bf9acb064e2131c8519d43826fc9951b936e33204e]
 │   ├── d
-│   │   ├── npad-d.doc.zip [7cef389cf338d028eb1f9e12eb91654907be4daaa2e655584ecff43dc0ead128]
-│   │   ├── npad-d_2.doc.zip [11b9fc2c464f2aff9b9b4d6ff6c5c8555057213d49af4028050c7f49082e9547]
-│   │   └── npad-d_4.dot.zip [70efe5c7377928f9117661b12f71517c34751382c3a8870f4c037538fb4f36f6]
+│   │   ├── npad-d.doc [1af954209443a35c979de92af7f7899178a9b7aa21307031eff412d5508443c2]
+│   │   ├── npad-d_2.doc [dee05284d1a0f5d0a49e7b935059ff106be1cae5c1aeaeba854cce5550826c60]
+│   │   ├── npad-d_4.dot [ab41382e0c8e097ad016e9fb4c2f05faa919888f7f896f5aae8e848cad7dd5e6]
 │   ├── dj
-│   │   ├── npa-dj_1.doc.zip [8069ec089b095e81e4e9f152480a629d4ff6f21134d5b8be14c7bde31600990c]
-│   │   ├── npa-dj_5.dot.zip [9005b45ee2283f01849dbbef8d953986ff503a2de0f100cb2a70c6a566c1b805]
-│   │   ├── npad-dj.doc.zip [56c61b912e8f1e1b329ff31deb7f8cdceb430e5c78878895d198f4fa3e4d7305]
-│   │   └── npad-dj.dot.zip [7f493db8e48a67812636fe4afabc94b91d20f8f0ed5db8f3a4f2b67ac114f55a]
+│   │   ├── npa-dj_1.doc [ff557c7bfb93aa1e182b82358e79e6e4e4fd44c0d492f42a9fd79f130d7ff784]
+│   │   ├── npa-dj_5.dot [21e71319f1157c2ff62a42f19b25e3741fabf00ed8707d778a2681c1808620e7]
+│   │   ├── npad-dj.doc [1a0b201d33de49f6dd8d5c8e5f9f130156862e58aab0c2ee2f3004ce72eee54e]
+│   │   ├── npad-dj.dot [7c8e82539f333532b0e37998611789f87f33caed264f019299be6a8372990f30]
 │   ├── e
-│   │   ├── npad-e_2.doc.zip [f9dd9b5c103017650963f1257c578c305c40ce9e26276f14342398f8ce388f08]
-│   │   └── npad-e_4.dot.zip [5162db5cdc9e461eb5e331666aae5615b25580ab133c05916883d4199a4f2456]
+│   │   ├── npad-e_2.doc [8c8b4b3d81886eb1a52c736a9d8243f89276094c3b0de4bf3537262d30def7a7]
+│   │   ├── npad-e_4.dot [098e01a1263df2c38b3cdacb4a7ceb6462437e9dac6a9eac134717327c8b4950]
 │   ├── eg
-│   │   ├── npa-dq_1.doc.zip [9d30be89afa26620b6a1487c7e91591e0b93e40bc62d32673c9f59aff9795373]
-│   │   └── npa-dq_5.dot.zip [3317ce6699c623d45cbf2878c71756e6ea2802c142698fa7f0d35d9ef7a7db4b]
+│   │   ├── npa-dq_1.doc [5a15082a1c0552610af1020b4a8a21249573ef0b386abe0970528308657339e8]
+│   │   ├── npa-dq_5.dot [e374a519af41c346737fb8e3a8b3d214aea2bef265593cf26fbbe5d72df9b84e]
 │   ├── f
-│   │   ├── npad-f_2.doc.zip [090bf3435fde5ca60ceb3a1c41b35c17c3b170052f82375a71c0232927758d01]
-│   │   └── npad-f_4.dot.zip [7747ba0360385eb74d37db6660846cba0bd38de21d4b95b71e452dfdf607c05a]
+│   │   ├── npad-f_2.doc [2ab50929af869851a17072860ee4a1f4f5e01d0e0d26151863eeabb806790081]
+│   │   ├── npad-f_4.dot [87836ba13c7adf672f83b13ceef61679d3ff388812969e8482c4c9b9e1dcfc7e]
 │   ├── g
-│   │   ├── npad-g_2.doc.zip [9a238ca4b0d3bbd90907618aef8d480f890a2d05a950dc658b67475c4ab7a89e]
-│   │   └── npad-g_4.dot.zip [42dc7a0e87a04fb9376e067ad0d739a480e60f3be16e3fe6ca78c6f3009402e6]
+│   │   ├── npad-g_2.doc [6430e5ac311162384842e5f664e9923df0567bdad39b546ea75f9468c9ad0895]
+│   │   ├── npad-g_4.dot [b604c2f241f3ae6f667bc5bd3013f711536d3b0136373c10423052729696818a]
 │   ├── h
-│   │   ├── npad-h_2.doc.zip [2f2fe2d8dd9bc38b0b60767b97e4d36e53b8a54f727fa12550f8f485920cf651]
-│   │   └── npad-h_4.dot.zip [defbf1b545553fde0d68d34a720570d63c4c8d00d305bb85f26dfcb92c7f8e57]
+│   │   ├── npad-h_2.doc [9c88d2c7f0edf97419b8275a4549ddea3b827df319d25863d418c8e33c593a28]
+│   │   ├── npad-h_4.dot [e9af655394bbe7231e1fa80f3493c49f66fca71cc7dc94ceacea14c0099a0689]
 │   ├── i
-│   │   ├── npad-i_2.doc.zip [fcb9f712bc9f0cb41de1b0fd9f0a06978dff7d0d7e50ddb922f2c34e1c83f275]
-│   │   └── npad-i_4.dot.zip [33f5bbf5fa1523a7353b1c411760cb3abb67ab7c9545a283e7dc740a55bf6d01]
+│   │   ├── npad-i_2.doc [69dbd7053f7a04b7c9a75925d1bab63eddd4c652da912b6432267c71a438f99a]
+│   │   ├── npad-i_4.dot [a994406ef2f68223b354d3d3983a60dcb55f618a986cc02b482d94747f066fb4]
 │   ├── j
-│   │   ├── npad-j_2.doc.zip [8b0323fced4b7adc66fbcfe028f77cb81ca4c321022803584b83917321210a40]
-│   │   └── npad-j_4.dot.zip [13e77dc11deefc06ead172a0ab2b230ca230e91d6befd768c0cdf62299899b90]
+│   │   ├── npad-j_2.doc [29561c44e2fca95cbd636a17dc15108c0982b76803ce66ab64b7ea3e19c22699]
+│   │   ├── npad-j_4.dot [b8cc3d61439ce0370d92b720243fbf3fe10c57c11fc1d69b893e35226695580d]
 │   ├── k
-│   │   ├── npad-k_2.doc.zip [688540ae4ad0ca358aad15a061d74ce466ae738e5bc18ecd2c2a8e265edcbc59]
-│   │   └── npad-k_4.dot.zip [622ceba19f15c5e69e05a3f10c4801cf68fabccd73db6331574a22c4c34e4a91]
+│   │   ├── npad-k_2.doc [20729d312519bef00a6d74b9dca35cec3624ba81da3009e27a5e828d59574e15]
+│   │   ├── npad-k_4.dot [d92a5804d7db723d5afd7aa6a0b084b594957dfdcedebeb8a3920e4b39aa7619]
 │   ├── l
-│   │   ├── npad-l_2.doc.zip [2879b156bfb6372ff744c47ea2047076a9d1bcd0c1dd24e5c7788b51638a7202]
-│   │   └── npad-l_4.dot.zip [b2b61b8ec14d8ea99b86381acb1e770321d482a6f78dd3400a5bb5ce94fd0a44]
+│   │   ├── npad-l_2.doc [e32546dd1bb4b86cca44dacf60051fd8e527206a62db49df01a9c9423f210380]
+│   │   ├── npad-l_4.dot [8720171a60cb0e358bb0accb92619a37c096113e9cc58b5c4f9148e53418b793]
 │   ├── m
-│   │   └── npad.dot.zip [d685b752e3c7d3c77e2062ed572a175da0e147e885ac64b167cc30b918a899fd]
+│   │   ├── npad.dot [ae4b784da0376f0d699c58eaf2a6c09cfb9efc3e0e29129982151e7405e1badc]
 │   ├── o
-│   │   ├── npad-o_2.doc.zip [1fa91b01cbcd7cf19a9821d0cbcca4acb63913e3c17b583e53f92a3387973931]
-│   │   └── npad-o_4.dot.zip [3381ffd86972693ceb9405e9dad174856af6ec4e41fa5720b97a202e65b94be9]
+│   │   ├── npad-o_2.doc [cebf3e1e819659d295536715356171f7bf16ba28abb0a8e96825e559f0844565]
+│   │   ├── npad-o_4.dot [42f9ccb2c3f8e1f18c1745cdfbe00815e0f9cddeeacfc97ff22cacaaba917e68]
 │   ├── q
-│   │   ├── npad-q_2.doc.zip [27da83700d2e5dd93d2633ec97de2e0fb6252b1331596ed8f99ad660047e44ae]
-│   │   └── npad-q_4.dot.zip [1bfc3564abda84f3119d0a7424f855ae8e619f78070c0ed0f2463a60951b3488]
+│   │   ├── npad-q_2.doc [aac32bc9185e92aec17a5d4cc1aad6ed933b87ac8495db22db47859d403db925]
+│   │   ├── npad-q_4.dot [9db544d15f6d1eb5964603da837f11db44732cd3d3828c530d435cc942e7fb04]
 │   ├── s
-│   │   ├── npad-s_2.doc.zip [1d2cd3ec06eb71928f4682974f77cfadc62118efac0845b778eade862685c61b]
-│   │   └── npad-s_4.dot.zip [a65502970c40f3d0607274bd3a7b7e11b3f8390cf7dd69112324794bb60ccff3]
+│   │   ├── npad-s_2.doc [fdac3c68ccba93f78ecbce50103da565cc5f1d148dbd1f40eed44c1853d2257e]
+│   │   ├── npad-s_4.dot [55f865cc6492677016241358f0e8acef01b14a759464a4e203ad07879ceb0cc2]
 │   ├── t
-│   │   ├── npad-t_2.doc.zip [c84a918b3a212974b4795425d7304d9e5d56c8a1f5d4ca1f974ec977864d18f6]
-│   │   └── npad-t_4.dot.zip [8501432588d4632197048566bdcd8d8ac6fd2d225698da694640b0d37fcbe9d6]
+│   │   ├── npad-t_2.doc [ad569162c94420e0e3bc09543731d7de2a622d317dec3b805c03d4fccbfc1f3f]
+│   │   ├── npad-t_4.dot [6dca3da6196f4b92c157e4f721854674043c6d9dcc6786d0b5cf757b4859a0d3]
 │   ├── u
-│   │   ├── npad-u_2.doc.zip [ca3b750f6751a16789c664bdd5f670d11f223780c723e1c01e7a2c75d188f677]
-│   │   └── npad-u_4.dot.zip [bacddc7b92a795ada25c35de32664860983432405f3b08724c400ead79a9106c]
+│   │   ├── npad-u_2.doc [0ce518027fbb1399abec8b2538c118213bbf32e020473914bb25b3e659ecb2cd]
+│   │   ├── npad-u_4.dot [a5a1dc8f0df76a2d19f0eba358b8285cc01b70ed19a254eada6cd9b88cd843e7]
 │   ├── v
-│   │   ├── npad-v_2.doc.zip [ea4988fa3c9ca017ac8c1574717d5d58eeec29c41e72d7d27047ed2a192c4ab1]
-│   │   └── npad-v_4.dot.zip [28c64c152e28567cb42ab7bcb3d90b9c31ac07a2f8d78e8f837eddf267c78fac]
+│   │   ├── npad-v_2.doc [22b7bba02437e15b6532d82bbc70ae84e517082f56066782af56ed07661772d3]
+│   │   ├── npad-v_4.dot [acb012d88b066d3707b97a15025daa951190a593a5cd2685f19257853a04cd7e]
 │   ├── w
-│   │   ├── npad-w_2.doc.zip [e11e966c63991541502f58b5303ba51b1c9fec3692ffe219c856788b0fca97ea]
-│   │   └── npad-w_4.dot.zip [5fb694b17c20bfcb0fb1c39a94745c09083738a910c1e5a9ba00d1faf571533c]
+│   │   ├── npad-w_2.doc [40d8a5ff9e0a66b60d8f34b977fbbc3b992de8ae38251b6026e5dc59dc9cc5ba]
+│   │   ├── npad-w_4.dot [085d7b8ecc002da25f02f9b8c0da6d3900b83a75a4fc1d3cd1d86b9d1b4fea75]
 │   └── z
-│       ├── npad-z_2.doc.zip [8734debffa6ddcea44a60fe99ea7667efda277fb564d4feffecc64a03dd9f5ee]
-│       └── npad-z_4.dot.zip [8d86d2f2d16c2e4af47ea29f8a237d4aba9bc52b96bb348c295e02e17f955289]
+│       ├── npad-z_2.doc [051229ba1df799d1b240bce6154f7e9c0d85aed5e1c9ddccc9fdbaee81a5f210]
+│       ├── npad-z_4.dot [bc40b48932a8f6bbb38b1003398fba6310a475b476181407bbe36663e2b2e733]
 ├── nuclear
 │   ├── a
-│   │   └── ww6info.doc.zip [46214d10ae8893eb609e89333210c542a23b6deec056b8ccc799195f2c915188]
+│   │   ├── ww6info.doc [298d48ed627170aac517af67296982d8753149b2f02f18a5f0c13fdadced75ec]
 │   ├── ab
-│   │   └── virus.msword.nuclear.k.zip [bb354264fbd716522540d498b06f6fbb4605316d0a66c6cdef43c0e51f035309]
+│   │   ├── virus.msword.nuclear.k [2b82507a9e2d206639cdb8e9da0c17a3595330b273b59a10fec44e4d03fa35c8]
 │   ├── ai
-│   │   └── virus.msword.nuclear.c.zip [21de19f2fc7021be81aa77d50b70458963f39f9dfa7fa0433faae6c4069f52e7]
+│   │   ├── virus.msword.nuclear.c [30701a74bd0f76dea9bc56c4703f74a6759f65cb73f002162ce8a57aa834535d]
 │   ├── b
-│   │   ├── nuclearb.doc.zip [305e52f340075f8929d1c656cbe70a691002d040e3ee2701429cd25eb7721a05]
-│   │   └── viruswin.dot.zip [faa5e988085e34bcba423d05f0dfaa58dd40a6fedcf07cb1f9149cabf619bcef]
+│   │   ├── nuclearb.doc [86af976a116861ca6bc8d2f1075e55ba207afe18baf3eb1a6142dbb95e9fad4c]
+│   │   ├── viruswin.dot [1655eb53e0dd6fc124146ad19470d2b105fd069e38333b6b50dff074f4437429]
 │   ├── c
-│   │   └── nuclearc.doc.zip [43156f57f1f2fb21ec279223b482cb219a44bf067c76671eb9f5d5efb48215c4]
+│   │   ├── nuclearc.doc [5aed91423571dd27aa084e6583059e2346386359a0873c4913b1a1cd036abc75]
 │   ├── d
-│   │   ├── nucl-d_2.doc.zip [ec955e371a785a7b6868283b90206801a43a2c387d906925c94342e960181e6e]
-│   │   └── nucl-d_4.dot.zip [da7dd6faefbfd4a5f2b1934ed76171fc5a21f65b9ce424db841679e1c79b34c5]
+│   │   ├── nucl-d_2.doc [e1adf1eca250bcb57398ae7b02992906b77b232a9b7e29e90f5f872fec25fc18]
+│   │   ├── nucl-d_4.dot [354a77dfb572e6be2a671a28380ef6773bc7f92423fec96b2ebadf8ac3ca26e2]
 │   ├── e
-│   │   ├── nucl-e_2.doc.zip [04b2257ad9aac42b6177bb3053c810cc192a8b98ec4db656f5adc8af335a0bda]
-│   │   ├── nucl-e_4.dot.zip [79220c6201ff986858d798e2aa044e72d218a116fd23e27a07e27c5630b66c24]
-│   │   └── nucleare.doc.zip [b102cd5ec0ad056bea7f5efb5842231b2f3421557475d277c650bae4c4c702fc]
+│   │   ├── nucl-e_2.doc [c5e48929a29c7fff5f7c652ec55d99c1a76258e6ecbdfbdcf4556b119426abdf]
+│   │   ├── nucl-e_4.dot [89fc793b69a9d01d49368ad272579fc9170605f3339a61f46a83ce4041b92371]
+│   │   ├── nucleare.doc [33e784d17e95cd7ba527c625cd551d20626f162326e98ea360b2862ce9b3d158]
 │   ├── f
-│   │   └── nucl-f.doc.zip [3a1794fa9c151d0fa83739ae7140ea762b65311def2c0d9c9fe597c050932862]
+│   │   ├── nucl-f.doc [8c38ec386608c41edda9be324bae81fcdc1e504e54c637d54c14ea1416c6c9c5]
 │   ├── j
-│   │   └── virus.msword.nuclear.j.zip [10e0ed0a75e746c793d54544d8c82c6ab8ca884a1f2d34f67a557305e6d46d00]
+│   │   ├── virus.msword.nuclear.j [8cc3b21c983ddb1a3acaebd3947ad1d20040946507979f16c0f052f2ade54695]
 │   └── t
-│       ├── nucl-t_1.doc.zip [e6731dbcf6bd3b8cc8996b6d7135a3cbf9272d88d075a2a319fccdc9207cc7b3]
-│       ├── nucl-t_5.dot.zip [f0ebbaeb6fe1aabf63d88ea6e70a46cdb800ebdd3b86d6b7ac040f40d53341d2]
-│       ├── persil.doc.zip [1f067fc197ae16d03d7237d749f7e38c419a1046f32ee098bbfcae24476e5caa]
-│       └── persil.dot.zip [51ee99f867bb664e7d2a249ecb1343392c350c026c8abc73aaaf101f7adb3448]
+│       ├── nucl-t_1.doc [4da467e80c706995a7107069802887ce5ab81a22a47f84d9e857f9d71a0ae492]
+│       ├── nucl-t_5.dot [c56c97484cdfbf06ab80740ce45e4f4107731f9b62257dc602922371d21f7fc8]
+│       ├── persil.doc [55a79a380cc57b725ab6f919a6bb7cbf823532e2b66111f91fec6951f700c4d0]
+│       ├── persil.dot [a6a668351d0344c50d7d66072d0b8a4b45ebdcbf1f05dac9dd69e40becbf3268]
 ├── nuker
 │   └── a
-│       ├── nucpower.doc.zip [56223566278d332cf4ff7ef49ea39bd8e80aea7fa3f20b02b9c90025381633fc]
-│       └── nucpower.dot.zip [ba80e5dc2eed742306d0db27c0fd49d5e9a832e5bb434e57f13f3768c5dd18fa]
+│       ├── nucpower.doc [33fc9cd2327a688507253c453a9d69c46e32fbc263e7cd3d3301f95c0a492249]
+│       ├── nucpower.dot [15624643b9841a60fa47fcdaa18b53d6987a2314630df0177ffdcbb021c802ee]
 ├── obay
 │   └── a
-│       ├── obay.doc.zip [6de722537c12f3b84a5e9ba4070527719f3f7432e5dedb87b756ad77338540a0]
-│       └── obay.dot.zip [99b33c67034ac498a9242f166d5dea1c72a88f68cb649415c2aefcd7c6841325]
+│       ├── obay.doc [3b5758a764636f25b20f5ed2d7236b3614179c9c3e74a0e0b623230c6e309b32]
+│       ├── obay.dot [6d9a9bca73e182889649cc1a711ce8166439b9f24d34bab1723817a53a03ccc6]
 ├── oblom
 │   ├── a
-│   │   ├── obloma.doc.zip [367c77753a08447d3d08a460171354375e49746cd307a5a44d08b44ef3fe2e6c]
-│   │   ├── obloma.dot.zip [def789651bf36548e0f33b285d490622fabd4c079011fb95886528da04e8159e]
-│   │   ├── virus.doc.zip [34b2e55ec0d4bef9131e6782199b66ab276a9c99996affd19dc7341ba481ccf1]
-│   │   └── virus2.doc.zip [05376af68f6b0f2550887fe086f0c57a289d499fab795fe7b9453664b82fc1cd]
+│   │   ├── obloma.doc [e04f704987353982d4c9af6f4e84e4b57d83804fac0efd5a26abdd5cfd7f879c]
+│   │   ├── obloma.dot [c3ee52b08d6fab3d2966f3ba00a95e36be3933be7e9f97edc9387598919ca8ed]
+│   │   ├── virus.doc [0917aaa958cfe437475de2aa820abbf71423ce15daa7f3b9aceeb0ea8942d919]
+│   │   ├── virus2.doc [7532b48e482298b5c35888d8611ad61808cc5862c7a09c6c81eac751ba6de6cd]
 │   ├── b
-│   │   ├── oblom-b.doc.zip [dca469b21903f0101774e5f273160c3243121d4975c72f2f41fc8263b0b30300]
-│   │   ├── oblom-b.dot.zip [2413e6350b4ced3598e5093857611a9ff67674e23b9267b5a0966ddc842b879b]
-│   │   └── queen3.doc.zip [60b448ebf04780a2654ac64fd0868176c1e5b88eed1ab327ed4c1b6cf054491e]
+│   │   ├── oblom-b.doc [d02e3da843f6420c150386aea51e37da972f147bbcad9de1d40703c1bb7871c2]
+│   │   ├── oblom-b.dot [b7e3f2d95aacd7b47ad17760f21d7998b68c41d9facc70a4a0ad5dcee89657bf]
+│   │   ├── queen3.doc [b0a83867b68a8d9d8156b1e977bb82496b91a32d2a346c9ccd0e03940616e2a8]
 │   ├── c
-│   │   ├── oblomc.doc.zip [1ea301408e76c0ebd7ebd3d1fc0bfa44a34184837d7e51027e90d8e685e3ddc3]
-│   │   ├── oblomc.dot.zip [a10da9846222347dee3a10d4cbef06eff41f766844dd141687ba983f27c7936c]
-│   │   └── virnew.doc.zip [823d5be8cf211eeadcb3468c7b2a64a3f4e88f0f2186ae2f640f91334c4b3968]
+│   │   ├── oblomc.doc [874a270ad93546ca394eb57aa83f4e4c872485b29f6b390d654fe4126e878ae4]
+│   │   ├── oblomc.dot [4c506d0e98ec3eedf55aaafab7bf175c56e40629b397be3d4357472769ca681f]
+│   │   ├── virnew.doc [ebfc7dea79c1815235cadef91b26027080ad871bd7eb701ea51f85f6b21f2939]
 │   ├── d
-│   │   ├── oblomd.doc.zip [41ea46cc62f28635e38078c1c3af3d4d80da5df6ada68a91f7a26ab6f7c90f52]
-│   │   ├── oblomd.dot.zip [64eb2927bea240373311ab6424c862150d27ca32d58cc8da8644098bfdded7c8]
-│   │   └── virus.doc.zip [9c67cfd5e455b4a2af1c25765fef2f436f5835881a2bda80258f63f5d32f9faa]
+│   │   ├── oblomd.doc [b07f1b6fa5ff68989b764c059952c233f324eecaf0fb012e1c0eaade65273f7e]
+│   │   ├── oblomd.dot [c5a315eb30d71c410e69925a596459e4d7da781d8cdebbcfc3370d7be7fb4087]
+│   │   ├── virus.doc [f71a1b6492db237066419f32c43e1d1f92a5941bd27cc966ef38165e55756a2f]
 │   ├── e
-│   │   └── who.doc.zip [17f6b3c7e10bd574c04a827ffb5fa162d481a7f7ead3922b8c8a6ceb148fab43]
+│   │   ├── who.doc [b2f1d2a1b4b2b63aa1506695a3f2c7aea640ca6a61293687684698c28a319695]
 │   ├── f
-│   │   ├── oblo-f_1.doc.zip [c0adc0e5099fc9fec5a2a2a72f4a7d68950f621df262f218bbbfc74c1c1f8ee7]
-│   │   ├── oblo-f_5.dot.zip [b5cd43dbd1e039e006badaaad2e0e2da8cb69eeb1138f8ae363bc0ceb3200fe7]
-│   │   └── oblom-f.doc.zip [06448a978b4e924797dc18968f673ac4808edb3e2feacaed484d3a5216d0f191]
+│   │   ├── oblo-f_1.doc [155aa81e312b3cbbbe716e45abb3094e8983e65faf44838ccec5df207b328ade]
+│   │   ├── oblo-f_5.dot [fb9eed808c597699610f3ea8955c373138c32d1e52c2a05bcfaab370199f0fa8]
+│   │   ├── oblom-f.doc [1f13dc047e2613f16fb3dae6b14169047164d3a84540c99d94cd40219b4b608b]
 │   ├── g
-│   │   ├── macrotut.doc.zip [49d2c285dc398c1fb6ecea5973f7d3489c517bad6bc95daf91c3f673c5a0d2c9]
-│   │   ├── oblo-g_1.doc.zip [21fc0f961d20028c1eb8bff0c913d0afd2b61979fb919b47d6f78a3fbe7c4562]
-│   │   ├── oblo-g_5.dot.zip [b4513c8784e7e73610371fbc83241b121e22870db1d2288a7db88607d7911ebc]
-│   │   ├── oblom-f.doc.zip [acd53920cfc1174c65b86639ff525e62f2dc45a04b88c1a0583d2f0da9095634]
-│   │   └── oblom-f.dot.zip [292d129c67cc38dba3b6e8c2b945150aa9cf7163b8e07fe027680543c0363207]
+│   │   ├── macrotut.doc [1063529ffb62802d0be4f4123b0aec1c9d4731755345278cf169955f7331ba07]
+│   │   ├── oblo-g_1.doc [f397e96e97179197c83b1f1f76a17c7ce6760a3d9cbf10a301d560943f652a8c]
+│   │   ├── oblo-g_5.dot [e83851fa479e941ab1ac8cb0c280955e6109e6f773301a36539989f2e32ee199]
+│   │   ├── oblom-f.doc [e895d692b6a92de4a03f5bde13d9e3bfa294e3417e372f64d464405e53395cc2]
+│   │   ├── oblom-f.dot [605e3a10db603f841070d25fc8b9f709bd10223e406baa0e8111fc2dcade8c3f]
 │   └── h
-│       ├── freddie.doc.zip [98af97f161e5b940ebaba24203693c0f9cab2b95236f65651d408cbfab16f4b4]
-│       ├── oblo-h_1.doc.zip [2520b9cdaa777d99cef2efe67595e8aeee51edf44dda8cd10da90f0e1837be89]
-│       ├── oblo-h_5.dot.zip [627337c92d142120516c31bdeb3f56ef7ee5d14114518048098b165650cf4907]
-│       ├── oblom-h.doc.zip [c7918fd8ba5e4201e3e3616298968f035ba5a940f3055059abbc38ced43db7bd]
-│       └── oblom-h.dot.zip [c9e9e6bf1b57f4a3968b093340b6d058a6333a0bb1adef2f0f3166b82b28070c]
+│       ├── freddie.doc [2d681c0c3e2ac7784c6e5caa0f1748a13c41732938e29da38a3bcd74a4791e62]
+│       ├── oblo-h_1.doc [4d26e391291f57be4424d04b61bf0d9be551ca92e62ad18212852305df200d1f]
+│       ├── oblo-h_5.dot [0280b8e20603ffdb9c131b5c2f09e9b3d78062d83b2508eaab420f2783b414c4]
+│       ├── oblom-h.doc [63ada709ca11579f744efb506a5646b221adabcc825113bcbd6843dd3147c922]
+│       ├── oblom-h.dot [7f2c9039b087d875667cfbc88fd3f49e05a481648c8d051924cfb7cf6cc39683]
 ├── ochoy
 │   └── a
-│       ├── ochoy-a.doc.zip [bf104eb1c5e61f965f21b7edd2f4e9b8a54cae413c690c77868e723e4ccb0031]
-│       └── ochoy-a.dot.zip [304333b696f68cd4cac9c79c7d51dcaa2de75fc6b607cd80c7431f2f50147fce]
+│       ├── ochoy-a.doc [1c63766a58362ccd9a3e658bab608b102acfdfc0f1c31507dffa2547b7941570]
+│       ├── ochoy-a.dot [167036f7ec5bd08081d31a0e9a17b7f7476e57b148851773c329a0c997b61397]
 ├── odysseus
 │   └── a
-│       └── virus.msword.odysseus.a.zip [3b2058f29bf649b8c34eda1325f6cbd21bf4984df9771f38ffe30d7005ea1b53]
+│       ├── virus.msword.odysseus.a [543302e05bd278034368dd44d72754cf80c49388ed1b54dd9a86496ff4a00c79]
 ├── oldpad
 │   ├── a
-│   │   ├── oldp-a_1.doc.zip [df379df5691b92537a74b99c61a89aec7d2dd01f5d1753d4a1c139cec8c27390]
-│   │   ├── oldp-a_5.dot.zip [ea5b4ea567eb28e81b12f21ba4eaf2ec1f0a4bd6504983e9139df7cdfb851b5f]
-│   │   ├── oldpad-a.doc.zip [e7e57e5244607b05c37943695efd607694a8ef7a5120ee27c1f4985170178b02]
-│   │   └── oldpad-a.dot.zip [eb6901d4df6395f58ebb2a67126b37c838d69cc116f8753ed6bfda2c6b9b9c7f]
+│   │   ├── oldp-a_1.doc [4e64f92b30fd0e9f9e1505015862afaa9da104f374c58871dab66e8f15d0ff57]
+│   │   ├── oldp-a_5.dot [26b6a2bc49c4eae717910a4ef7e98d0fe8c43de41a0a3134741860bf0ac8716b]
+│   │   ├── oldpad-a.doc [2936ee0ea52e75f62af57a57f11dee12117634f5b0af6a5978a541d60ff6fee0]
+│   │   ├── oldpad-a.dot [937f4b1e5a4f922eb9d625f6266cec9c35ae18a88ca0b050bfaae3d630dd4f15]
 │   └── b
-│       ├── oldp-b_1.doc.zip [5b6e4bb5e83066dff7c6484f05cfc46c12c2f90767701b70fbcdccb5b613b294]
-│       ├── oldp-b_5.dot.zip [5066f3e14cd30764810ff4397fbb25d0684693a5490c9c991e5219920ea92f55]
-│       ├── oldpad-b.doc.zip [120f30b71ded71cbbb3f06fd3ba3090334bbda077f4d3a68415e63b76f585dbe]
-│       └── oldpad-b.dot.zip [96970a46cc97331bfd8f34dacb7292158e11125f80a9be791686c677019d938b]
+│       ├── oldp-b_1.doc [1ad4da5b7f5f4f8248e49f443ff70f4f4efddc51bccd98c5c442db385b8ddbd6]
+│       ├── oldp-b_5.dot [d1e843d109f63a31163a7b583e70f6ac4d624ccb23dc51d31a4d5b3698c1c3e4]
+│       ├── oldpad-b.doc [d2b402713e0e1b900ff3a7c4576481ddfcaffc1f340f8266028a120cb5723aea]
+│       ├── oldpad-b.dot [7b5d4c9fbddef519a174b5da9e8d431e5f99b0ef06916ecf465fbbc4bcf89ae2]
 ├── olympic
 │   ├── a
-│   │   └── data1.doc.zip [6073ec076c488879d0d91ac6308eadecc28e9398063257745f409f3cdb0ebfdf]
+│   │   ├── data1.doc [905816335f7059df79c6d348690e52b96f2ebc1c725017340cae152b9352603f]
 │   └── b
-│       ├── atla-b.doc.zip [3f1da6222f47e92b3c63a2addbb0f359575a5c75372ac44dcb8a6e9be480ffda]
-│       ├── data2.doc.zip [c3c1948ce19416c4623fd8515cd0c702e7e784ef316d522fe3659ba7b8b232b1]
-│       ├── olympicb.doc.zip [2dc31f8e218ac5c80ab60baa81132a6ef9c41d7d8e7d79fb1a38a577a0d749e5]
-│       └── olympicb.dot.zip [01accd5c2be19e57bfa8d37fbc23d177bcda97dde0ccaf07e1a73c28ed1bb163]
+│       ├── atla-b.doc [187dd664b73f91f91f08d6057751919d4c80d048df9aebe6a85a54274db692bd]
+│       ├── data2.doc [fc294f3f543edad0fbaf03232c0e8d1f8b8111188626e8fda9ef4f048af82d85]
+│       ├── olympicb.doc [a8d65a29fbaf4942e1f6542099c83aa9580c8b6092414a5d5553208c2683e345]
+│       ├── olympicb.dot [046915dbe637c49864beef9196d8945d696b5a9817ffebebdda4397a1f789ce2]
 ├── onyx
 │   └── a
-│       └── virus.msword.onyx.a.zip [a79ad5cd4191fb6036cc6335b96789b4073afb345477717c2c852d073dbc85cf]
+│       ├── virus.msword.onyx.a [63129fec4e806b30859119d9854cd6c6087b436b44eb5b505e3a5aa335c8a0cc]
 ├── ordo
 │   └── a
-│       ├── ordo.doc.zip [dc4c6039ff6873d8367eb3938e8375e9d6c3baa98650551b8ac81435fa2c42cf]
-│       └── wmordo.doc.zip [52ffd589c3bb560149768d8d9038b394f9b29601af5b94f4ab7ad19d302c30ba]
+│       ├── ordo.doc [650003c52a09ccd1e3ac94388b714e196052cdcf751a513aec6e444b7080a190]
+│       ├── wmordo.doc [c61bc4f4007b480f9336797f77dae829f9f88376bcab73ee34979f5a395c523f]
 ├── orhey
 │   └── a
-│       ├── orhey.doc.zip [72a774ce831f4fce6400cc84ed331b26b8b02d81efe43c6f55d56d99adebef77]
-│       └── orhey.dot.zip [94d52fb2b5f8367e7fddb22de1a2c7c2d811b19b91914676fe87e4488ed73163]
+│       ├── orhey.doc [f39ae86e20037e8e3d150a1d1d488a06c2a0767d3df2c229093681ddfe1cd515]
+│       ├── orhey.dot [111d14f6d3255b5cfb440b5dfd8180904e371c8ee80bd641e5cfde584f2cd628]
 ├── outlaw
 │   ├── a
-│   │   └── outlaw.doc.zip [ed1465982b5b287498e7ca5c701834daf88a07c8fc534bf39958690d737aa374]
+│   │   ├── outlaw.doc [86fdb82a648ab27d71dd36ca76899a4d6c36ed9432d07c92870d5533547aa467]
 │   ├── b
-│   │   └── o_encry.doc.zip [b5f569cb41bcc8ba4f92b262b810c5092b73e80e1c98ec5e709c04e6d3eff748]
+│   │   ├── o_encry.doc [b1c877933d72ce21b52cd2e2a2515f064bc114c658cf9052b81c4e5eafbe809e]
 │   └── c
-│       ├── free.doc.zip [f77b52c85dc80774d37f0db653732bc8ad2620c6b465f6519a734726545ed407]
-│       └── outlawc.dot.zip [67b3ed5bfbe61a4665408fd85100ac66cd54453170085acbe1377c2c1bb09fbd]
+│       ├── free.doc [4fb8920895946b12955a68e810a6258a41a06cab50302686a4e1508d467fb2f4]
+│       ├── outlawc.dot [d0c6013d0338f663eb0c6fe129692c6a5d2a7d528cf42c797603201093238574]
 ├── oval
 │   └── a
-│       └── virus.msword.oval.zip [60c4ebbd590042f05092df724f9b6e440f39674c855c98a023cf8ec0bc3bc6ab]
+│       ├── virus.msword.oval [035e751645ba87c680acad3efc9e92a16cac6051107f44f054a9f075ea88474b]
 ├── over
 │   └── a
-│       └── virus.msword.over.a.zip [3a61d0564a1f88a7391d5fa9fd4fedba2716f9539f6a5dc8cf7e3feb7311a2d3]
+│       ├── virus.msword.over.a [ea71e6ae2ec53968e0b09296b26e9473241e5761afc5013e7c47dd3e731472b9]
 ├── padania
 │   └── d
-│       └── virus.msword.padania.b.zip [13d83633a1d9b32e8cc9630de9214fbb397e76d2d0a414112317060b1c9193a2]
+│       ├── virus.msword.padania.b [65a8c491c5595d5c6942ad977934c5ba8a5b1441ee18449b32a38b6170ea77b9]
 ├── panjang
 │   └── a
-│       ├── panj.doc.zip [91c5e44ba06cfb4002d042f584c7e0df42bf4c9989162d8b5d859d31239b0e3c]
-│       ├── panjang.doc.zip [437bc3e18e78237332250155c7e7a090b8d18d93d5291c995f37f576918db740]
-│       └── panjang.dot.zip [b61aefe68e06cabee0bce4f4c4100d3d423016974fc9f6559a27ee2b5b07f0d9]
+│       ├── panj.doc [a4947d7c6510b64f07f1ec6c7362bbd66e81010e5e6f8e6d2f9f1879cce3d9d6]
+│       ├── panjang.doc [293b2db104bd9865b4fdf90f932ef1793c4c040b4e3539946e049d9edfae4f73]
+│       ├── panjang.dot [d2e53e9a0e31988ea6f9da4ec3c2e0b0ee46929259da074b6d91e0a49d4abd81]
 ├── paper
-│   ├── papershr.doc.zip [666dd5c0d9a35db91c09012636e88261fa6ba9dbfee04fb8bcd582a4c5435b0c]
-│   └── realpape.doc.zip [46cf181393c0f410ec027c970ed760dd32640085fa637c45dec6707a1b1eb7fe]
+│   ├── papershr.doc [ec23b2217fb2d38d7d53a040911a83cb41cc86ec8401e298070a906c3bac7b47]
+│   ├── realpape.doc [160922bbac7309eac844ff290e2c379cd34498d7990b88a23cc3236d02455ea1]
 ├── parol
 │   └── a
-│       └── virus.msword.parol.zip [c8e81eebd503774904a8f607e315567c4d9aa454ff086f16fd755fbee5aa966b]
+│       ├── virus.msword.parol [dc6e4a04a7c01536cbcaf7498b5d92100ad7b4fb5a6acb6ddc4792b530bfa638]
 ├── paycheck
 │   ├── a
-│   │   ├── payc-a_2.doc.zip [f8bd332bc1d0c93f02c47731f51456815bcc5ca7628f196b2042976da88d4181]
-│   │   └── payc-a_4.dot.zip [764e53dff2c193796412380dc1aba7cfb37d6a9d696455a603b97225865ec70d]
+│   │   ├── payc-a_2.doc [8bb371ca3e89158e37c66d8cbd781fa65d53156fbbe471488b9a27ef57c2aced]
+│   │   ├── payc-a_4.dot [b76a67d2c9a32fbe56663e72eca072ab864757b01f09d00c2e89ab686e9e4e1f]
 │   ├── g
-│   │   ├── paychk-g.doc.zip [87f682e590e5a075f7c97515d7be3290d1acaa5f16bc1830b089b2bfb5afb6f3]
-│   │   └── paychk-g.dot.zip [0df5bfecea3dacb026be68bbd5003e380c91adafc348d47e3a65326acbb50f1b]
+│   │   ├── paychk-g.doc [c844b0feb4a73139c7eb0099d344b2cfb75411d9ff41b57c05da029a49ee8c8c]
+│   │   ├── paychk-g.dot [66b8c7c5c02ba127ca3a358b198058589370595aed750f0c378010ece5b9bda0]
 │   ├── h
-│   │   ├── payc-h_1.doc.zip [090288cd10821cacec12b7cfae0322a99e3a5a5fc8bd20d515bd68a59c0122e1]
-│   │   └── payc-h_5.dot.zip [215735e1541e4d6a386d8c4d3f9d81ff53ae82322294f1f47095f72d9e6173b7]
+│   │   ├── payc-h_1.doc [159223d346b7e9befefbcc790c3747adebdad7ffbf5a1cac6c830b8a38ae8fdb]
+│   │   ├── payc-h_5.dot [64f0c009a35c5de98e618e052d788361a3fcebd43804b9ecce3d3ce0a271b049]
 │   ├── i
-│   │   ├── payc-i_1.doc.zip [488d0bbeaef82e0201dde800f9f316cc141b240a05268ef178d11bf61d2417c8]
-│   │   ├── payc-i_5.dot.zip [7a83bb9427a17f24e76df075ffb7cecd304b8dfd1b680b7aaca963c0ba51704c]
-│   │   ├── paycheck.doc.zip [4707bba60b4aeaebf5d1bf802e2a03071ebeafeef8b5d1aa886e6a841d93a34b]
-│   │   └── paycheck.dot.zip [f649bbffe8458c9b9fa630241738e76392626914fedd1b6da2e01888243db6af]
+│   │   ├── payc-i_1.doc [1d328e7e0fda6794c7f4b8be05235d4ec03655b4ca6c3cd75def9be88ec57086]
+│   │   ├── payc-i_5.dot [1866377af3a08aa794ece96e1d7b6d47c5ab33060f54efd64d95e82810932bc8]
+│   │   ├── paycheck.doc [342e66d25b07a88f9752a32296b3c33ce1320f1daa5b58277eae3f9e3303e229]
+│   │   ├── paycheck.dot [89678f6208dd45f61220f3293301e0860c0583dc2fb0ae8a3be19039f9926b57]
 │   └── j
-│       └── virus.msword.bukit.zip [046a9cdaed935ba1e2f1f93926fd3d4e5b13794e5edf4015f29394e5802d4708]
+│       ├── virus.msword.bukit [0a716804c20a944d6fe9e9b401b2050a531b3b2f358656badab41d56245a7373]
 ├── peijuang
 │   └── a
-│       └── pejuang.dot.zip [70cb92e6e0a0750cd9562298a336f4cbf31d31958c38c099f641c0b38a894c53]
+│       ├── pejuang.dot [44801908e1acc50fdb7e549f55b8a607d492a799c55bf48d9b5c4c7ded782a7c]
 ├── pejuang
 │   └── b
-│       └── virus.msword.pejuang.zip [d98e47d1fefbc954b76ba9354317a5d5eeb3f56af579aed03a99c05b8192a70c]
+│       ├── virus.msword.pejuang [6dbe4d9579655db8096f0b0894f804534ba2d999213305f0bd29a68cbd608194]
 ├── pelo
 │   └── a
-│       └── virus.msword.pelo.zip [538c98588ca4461da6a7e617602d91a878d33a363ddb0f85ec9cc51685b646e3]
+│       ├── virus.msword.pelo [3ffa920e4880b68447c897e19f0e23c93575c9184b062e21f59e4bcc74febbc2]
 ├── percent
 │   └── a
-│       ├── percent.doc.zip [e3b829ddd72b87a10e3a7feb329342c00f06901f4f42924de5c165502688d0db]
-│       ├── percent.dot.zip [5f720b83a2474df7a24b0db3adb5c55750f1acb528a4068a75e9642e66ba1f53]
-│       └── readme.doc.zip [a0330b35439016540f474571bdb8196c817ec7e71acca18f634a56972bb0d7b4]
+│       ├── percent.doc [cdca92ed28b9c11a86b4a40db7ea593c7f394cafe0c51145839b50a2bda338a7]
+│       ├── percent.dot [ce799be29e6794d7e1bd13e8156bdef64bd0cc6b9602ed869c5657413a3dd151]
+│       ├── readme.doc [04bd301f0e5864deb9d29c0d67391ee20d18a18ccfe51914cd8f0434fc4eb6d2]
 ├── pesan
 │   ├── a
-│   │   ├── wmpesana.doc.zip [935c602e1d72dad624b73dadb2cdb6275c9b1afce7d8814c34c2793881205567]
-│   │   └── wmpesana.dot.zip [22acf08ba4a88e15b960e559cf4d88b6e06063e6adb943830bb93ec56ff96d35]
+│   │   ├── wmpesana.doc [8effad8f8552ecf4b49c51a24daccf9a1b9c6fb5371bf4a3bb4b2222d88653b7]
+│   │   ├── wmpesana.dot [b414408f46c037af4b8140c616a9ecd226a13303f15dbe2c32b27560e02bccd4]
 │   ├── b
-│   │   ├── pesanb.doc.zip [cf2abfdef7af1b4e68449e927f7f0143f03e677623509b61230f0efa8946bec0]
-│   │   └── pesanb.dot.zip [bb0979bcfe604d5874d6afcb97d21300924c5a99359f6fc62ad47ed0fb9dc7cf]
+│   │   ├── pesanb.doc [0d02865917206c006b3e8a0373da928ccb27c9cc10d0f2de6b7f6bfcad7d5108]
+│   │   ├── pesanb.dot [6713fee044d2b6b02089e8d34008c68751aa5e1dfb0a698189200bcc806f4eff]
 │   └── c
-│       └── virus.msword.pesan.b.zip [dd1489cf6fc8dcd546e66b06569a7dbf635499c208b91a5eaa479800fe6eac87]
+│       ├── virus.msword.pesan.b [502b51fb4a4f9f08e013fc19cb7e6f25adc58deca4f2871423ba7b6b5e3416d9]
 ├── phantom
 │   └── a
-│       └── phant-a.doc.zip [5fb667a54f465fec09cf78b2be32059f98f440ec87d73327d97d9f4b09d1e2f8]
+│       ├── phant-a.doc [1a95b2a0eac132b776535d69dbb02dfe35cadcfba855d6d1f539d953ba0ef2b5]
 ├── phardera
 │   ├── a
-│   │   └── phard-a.doc.zip [9391ed7bffaee69b90f83b52fe47878719ca4236586ef26ed70009a6e9bfa563]
+│   │   ├── phard-a.doc [a019ddf66d028da2a5f04d8012349b835811f7fe599138d1e17d6712acdc9bf2]
 │   ├── b
-│   │   ├── phard-b.dot.zip [af4c8196ba03396fb64b4f37ec79c6d4663006a165b6909256b66b1b0d8dbf5c]
-│   │   └── phardera.doc.zip [0f02f5d7ef5bb5953af1a52755c39c0217989dbe3e279e282e1f244328fe667a]
+│   │   ├── phard-b.dot [f2abaf6476383b2c3a0dacf99b19bd7ced8060692838eb976152586cf6eef2e5]
+│   │   ├── phardera.doc [a41621adc5780d65255818383a6502c078e93ffb0e8a6a76d91b509669bc458b]
 │   ├── c
-│   │   └── nphardra.doc.zip [8049877cad64c54497428f616b79235a5cc5d3c84bb980b49a3dcd8c09a4fbc9]
+│   │   ├── nphardra.doc [4f9387689ea96a237181e89e31cdb14f076048a1b198e9b3d00ae5a434d9f21e]
 │   ├── d
-│   │   └── phard-d.doc.zip [53de0644ffe3bce716a4f64116597f90fd173f5520b4252d47e490d2dbddafcc]
+│   │   ├── phard-d.doc [fcb6c218f6dc62d13e837809a421e104329d5ee3e8b49147232ad9161a0d7506]
 │   └── e
-│       └── pharde-e.dot.zip [379d598bbbfe4cb8a29c8d448b2d5224586433cae951f2365fe15fcc371d2762]
+│       ├── pharde-e.dot [c4cba9a9eefd79d27c13bbcff054c36d9ee0e889ede63d34a1703b5400fb008f]
 ├── pig
 │   ├── a
-│   │   ├── pig-a.doc.zip [f8fdfb540cfdf69fcafdc458c19edcaae5b5e1b61a4a6771d83970fe938ffcb3]
-│   │   ├── pig-a.dot.zip [8ee45bbe5d90c593e7a478b56f559cbad6e7e0aad6298ac8f1d5d130b1a2b5b4]
-│   │   └── pig.doc.zip [63c61b31cf64e4ef65d853619f9464aef6702dfc84f1b77df9a10f4daabecd40]
+│   │   ├── pig-a.doc [1fbba340cea4994159b9d899b6e0f02ed82114ddd884f89965897a8b0b493ea0]
+│   │   ├── pig-a.dot [30e3462e200cd6c54c19d49d792fc1df91a5d3ad68f99eb2f270fdd331005485]
+│   │   ├── pig.doc [92039d87ac1004d2986d1731a91b7d638eee3fb38b8534db81a389fa44efb166]
 │   ├── b
-│   │   ├── pig-b.doc.zip [de100e282efa58231eef1b8a7cec44d7ce150dbe6aa609d2831026cfa8c67004]
-│   │   ├── pig-b.dot.zip [9b9b79df352b582e5a7f22ca55c9d6e9bb436a9b28cf8b2a42e215f03eb0cf77]
-│   │   └── pig2.doc.zip [d8afec6541ed4fd6f22bb004c946b310efd5475dae48965c2f943eb97be93681]
+│   │   ├── pig-b.doc [c25f4b745226cdc35775caadbbf15f3fa0d36b5b05629fb17938229798aabe8e]
+│   │   ├── pig-b.dot [9c0a21a5b11fc5cc7986050bd3394030916cd190200966bca1587dda2722991d]
+│   │   ├── pig2.doc [bf75a122697b0a02220f4ff1461eec6fc3ef9cca0861b29121b3ab2118be5c26]
 │   ├── c
-│   │   ├── pig-c.doc.zip [38a5322a97739b646a7d3eea00aa155c88b9fd506d57207d059453cf671af638]
-│   │   ├── pig-c.dot.zip [bb2abc71586dec66116d16c571f31cdf8dbaab7357f368cf21cf36f516005a0a]
-│   │   └── pig3.dot.zip [e84d9468405ae1eed0d74307539e821970730862b4d9b7fab00dadb68730779a]
+│   │   ├── pig-c.doc [70660f0625391dd40426a7fb0a754ba5662b6121b8174540e9282cd540ef69ee]
+│   │   ├── pig-c.dot [09d0939ee38829ff1151a2fcf3429dc5dc97396c11eadcd44676590b1618261d]
+│   │   ├── pig3.dot [791f18342be88b658ab9d233798c68fd8d42aa5f9e23de2c88aa35691bfca78d]
 │   ├── d
-│   │   ├── pig-d.doc.zip [8d66f8ac058266e5a9dc525a3aeaaa866236bfcc6b383391f21265e818b8448f]
-│   │   ├── pig-d.dot.zip [4990f5a70bbd5789542ab31169928794dab4418f81bd396ad19461f67aa9119a]
-│   │   └── pig4.doc.zip [1d4810e896986eda92ab256cf4d29ce250bd41c03dbdb944f5f07875b5f016dc]
+│   │   ├── pig-d.doc [accc96d693ec0b265007e9e5a8bd8e7a69cd7f8995ed1417d72bc3c649d03c66]
+│   │   ├── pig-d.dot [c8722681b452a677e5dea93963fd21754ff49a1b32a9b0963228ae03d28a2d40]
+│   │   ├── pig4.doc [7edd69bfb6fb9b9c9eb72bca80b9f1b3271595cf73fd037c7b2a510de03cd9fe]
 │   ├── e
-│   │   ├── pig-e.doc.zip [19fb23634456270074c672583bcfc8d085c9dd7119ee25a6128a4ffbbbef20bc]
-│   │   ├── pig-e.dot.zip [7664082b8eb1f2969af63eccca5f36eb9d195f7544a8963d2b1d594205f25d9b]
-│   │   └── pig5.doc.zip [70e32c25df0dcb4800af079cb532142cfd54d340ae97c92e85b496d5e6bac5bc]
+│   │   ├── pig-e.doc [fc7598b51a0a6894160a60d23f516469cc83afd05983e1d912a5cce6a13a2c96]
+│   │   ├── pig-e.dot [b2186fe83b1322f0cf1ba20ecb89e47cf20a8e02a4185d49472234f60c013cd7]
+│   │   ├── pig5.doc [0e397bc115e38674a570db7e59c25312ae5ade71422ef2187432b74f7f72520c]
 │   └── f
-│       ├── pig-f.doc.zip [39ff93da4e7f61037c053f4bb629e029d58f9d749b0ba46c15da7b7e3545ba3f]
-│       ├── pig-f.dot.zip [e716d0514e015cc6e81245fca72626e43b9cbf38be38e00075670c874f33f9a6]
-│       └── wci02705.doc.zip [b10b02482474da4f1c16bc80c35973640b3f600ba4a835ba577fd1db83a6fc15]
+│       ├── pig-f.doc [2746daed75292f6eab08c0e7f5b43c003f0362693823e0050f327619de678811]
+│       ├── pig-f.dot [9a8cd154807940e681f4a9595700409ed613758aeefc885aa7d676e3e494b37b]
+│       ├── wci02705.doc [761f2ea99685cd87c69aaaa2f19b07cca2f81b1338db1c50452e5b2feff8c32f]
 ├── plain
 │   └── a
-│       └── virus.msword.simple.c.zip [4c48d59d0d111bdaab56744689020780b0ddfc1061e6e955deae10ea4f45e0c8]
+│       ├── virus.msword.simple.c [cb935c9a08224127a6d257e71680716244260b1f19e7db37768b7f0e70e69012]
 ├── plushad
 │   └── a
-│       ├── hades.doc.zip [1f33824a4a896b5f50a5748c8fb3078d3d530e8b9e8e5ec42c0cf8e35ffa9673]
-│       ├── hades.dot.zip [8cdba9fcd0401b13ddc399efdddc51548a4ec9d9aa09454387627081cad9fbff]
-│       ├── hades1.doc.zip [a3ba656c400a140533681d5848d25af235e40399d722d86408f4392dda3be7f0]
-│       ├── plus-a_1.doc.zip [cb9accbac9df4213a393256e1ea96470f9811c5715f935c4c40e3449f2b18e9a]
-│       └── plus-a_5.dot.zip [74d8dc8ca7bcb6332cd78b77db781ba8a54bd5753a0352ea1b0b733e82e3ce63]
+│       ├── hades.doc [33f283a549e2c5d57b8af4c5ec3b8d06540fd424b8cb7b0c3145e9f2e5b5db01]
+│       ├── hades.dot [864847b773603d9a6f076dedf031b9cf7423ee58a5ab2882068927c500c6a1a5]
+│       ├── hades1.doc [1537082188933438fea3143c27308903749c06bf10ec59ee7522927b885ef008]
+│       ├── plus-a_1.doc [ae8fb44861b9ed237e40c820a3bc39f95ce780a7a91330e91114b15c629dba62]
+│       ├── plus-a_5.dot [d18081432f5339d95e51244a3c0ae72b14fa127d1e0ef1e87c8c329256d4c759]
 ├── polite
-│   ├── polite.doc.zip [66d916b1e81107d23673a09bf8bbdace75091c826f8d903afc5bff8a93f8b7fd]
-│   └── polite2.doc.zip [e3e7e399bdd4da63a48862b64c5bd051946571e5f5c16e2a17a9684758a1cc99]
+│   ├── polite.doc [d3cec4fe823c5d5796321a7bbca9d26917370ec6b4b68d23be91817684b9ce2e]
+│   ├── polite2.doc [6c181fa499d98300f42a2d8de2eb5a8e211fb97f50b3005ea0a1e4eb62b3c690]
 ├── president
 │   └── a
-│       └── virus.msword.president.zip [ce6f86b204b67e9093e09f53f92c538cf7b072d6129d3d604afe92d7f43f50a8]
+│       ├── virus.msword.president [7c2634a9cfb5e169e15046a5b317f2077960c2c5dce8a737ed2a46cbfceb8549]
 ├── primit
 │   └── a
-│       └── virus.msword.primit.zip [3e9e98fa1268088d40a9379e6435309c62275eb4225745207e7b3354f31f3767]
+│       ├── virus.msword.primit [518408a5ee53e41b0bdee6fb4f1dad1fcffe38dfd397d5866efdb75def365ffa]
 ├── prizm
 │   └── a
-│       └── virus.msword.prism.zip [5daa0387dfa893f89d891167fae3dc35c6be135c226d748a9a9b6ee19be3c0ca]
+│       ├── virus.msword.prism [2ec3f294041d00fdfd1a554bacb85e74842e78a0703fc1ee3b82912dadd6b596]
 ├── pwd
 │   └── a
-│       ├── pwd-a.doc.zip [250bd4a47eb60d8224c1f79182308443b9a7428b02136daf3cf8c2eec5e424b0]
-│       ├── pwd-a.dot.zip [0d9ce2f6131735cf59e51d31cb97cdec357c34e6d3ba21fe938585cd9d20f273]
-│       ├── pwd-a_1.doc.zip [06cb8f19670222b1e24170192d23365216b396bba2d4148a3893fe3c3eeecae5]
-│       └── pwd-a_5.dot.zip [b21edfa525fa606136de646205ec066d59a354889b7ddacb9e2f7e8283acfc5d]
+│       ├── pwd-a.doc [a89dab7a4b702892076f0d1d93d0a18676fc2e72f2ee9c8bbd8517d24239657f]
+│       ├── pwd-a.dot [e70e689c846bebf3e3bc8c3b673a7c40e8e3361f2d43271b4ca051c6a3ac0f35]
+│       ├── pwd-a_1.doc [484c7be8e8deded127508b06f1b2134fb510b8c5970888664fa5233ef4ac5d48]
+│       ├── pwd-a_5.dot [3c3aa5d87aced33c0f2e9d094932915f07d4d1746a7abd544ab1a558f7971581]
 ├── query
 │   ├── a
-│   │   └── virus.msword.query.a.zip [b87c3c361c8bf676082082cd437933c64311909c91fd9284694145308f88a87e]
+│   │   ├── virus.msword.query.a [f560c25c009d59dfc94377a5f668e3a1262c2da2934e74d040e63254e5e39377]
 │   ├── b
-│   │   └── virus.msword.cba.zip [af65f50791b614f951fed813714e76db61ed6fd158ae7446bf699794c50ea384]
+│   │   ├── virus.msword.cba [06f7362d4174979ea6b5fa884b2cc46ebaf5383814e681e6252fc161ba8011bd]
 │   └── c
-│       └── virus.msword.query.c.zip [52ee557352c852e5fea0b341b786f3fec48149133f281ad89a357ccda97d205f]
+│       ├── virus.msword.query.c [4b7e70acb8904afad419c878997d82433f26a017462dbdd736adca7fcc4de760]
 ├── quick
 │   └── a
-│       ├── quick-a.doc.zip [12ed7445b33113150aeabe9e3c22af94b933b93fd045239e0923a6687b395b62]
-│       └── quicks.doc.zip [b0f5b79a6ff8e810d51e44e4328f13cf2394b6ac43051433b23e1a56a5ee39e0]
+│       ├── quick-a.doc [c3f6a2e4cedfc6bdccd76cd65885e4e41a92faafddcaabbc18ba43ad30ec284a]
+│       ├── quicks.doc [dc32391ef55a412114fe38eb9fa8dd26c636ebbde38f3312053e617465c79a7a]
 ├── ramses
 │   └── a
-│       ├── ramses-a.doc.zip [9872358652a659e30787d4404190185a99e15bc069d5a8a6a64003a61538c32a]
-│       └── ramses-a.dot.zip [d8ef0450c71fec14f9e897aa67415769aa636e4c246da92cd4586263e9201885]
+│       ├── ramses-a.doc [f6e053822b1ed5b05db4c9f9d32a6aaabff2d33f8c827b33a1ead6b32bf72c0d]
+│       ├── ramses-a.dot [055b0140a2c4ae27e98f39a073537950927cb7b7f7a3265d524e94faceeb5ad8]
 ├── random
-│   └── nrandom1.doc.zip [afcda605dc2d79137f6c0ca206bda4a3ac0b2dcb4ba78cce72ddaf38b377a893]
+│   ├── nrandom1.doc [93cb28d144f2a00b402ef5cf370dc3dcf971e4ba85e9495762941ea81e62e31c]
 ├── randomic
 │   └── a
-│       ├── random-a.doc.zip [011f4bc568ce63b71371d3d4f6e72c260c972ee557dc74eb403e5234a81f9d5b]
-│       ├── random-a.dot.zip [1ecb342ab1a2a42b49eaaee49e2f7abd29c934f8001c5e7f04232cbd3357cf0d]
-│       └── randomic.doc.zip [5cf69f2ebfbdca93fabb857c020935695990fec458f38db06b875eea4513c39e]
+│       ├── random-a.doc [edea4605c23407f3b5b93c6c72d4bedd9f2b457d5e24099897e3c29e9a2b2310]
+│       ├── random-a.dot [b943ca698b624ebc4bf0fbc8ca547c2743538994dba0ae6142d54a551c1502d9]
+│       ├── randomic.doc [f0be5d6089d810d2cf80b8fb4e607f86d3019824f25ff98a9b4f0acb6134c896]
 ├── rapi
 │   ├── a
-│   │   ├── doc2.doc.zip [8320563cc81d7648abc58a46a4a6ab56ace0a1f227ba24de08881b6bded2e1b0]
-│   │   ├── doc3.doc.zip [e467e87a36bfd49532eebca25d9df33299a5db70af4e45903550220e63b6c242]
-│   │   ├── normal.dot.zip [1f62663085c151bafe11f393b49e9f69af0ce7774ce820e406809b3d36cf5584]
-│   │   └── rapi.doc.zip [5355fb797a7121f32a7d3db382d78d506a8dd9b79c1414891b0757bc4ba4e1ee]
+│   │   ├── doc2.doc [1ead8ec46cbb62d5478d740dc9adf2598d8a40dd6b9316b6e5f3993106623a65]
+│   │   ├── doc3.doc [96d95bf07122d2a459cbdd704548fcb5dfc7bf27f00c19aeb0a6a3e53256162c]
+│   │   ├── normal.dot [b0e39a6acb892868f535b28915bdf5e61f4a06a1d89e3f3884d4822b394a6a18]
+│   │   ├── rapi.doc [9c64a1c586b462e49a8a4d1b7e085488b3dcbb8bc76a018286cabe43f0fb6883]
 │   ├── a1
-│   │   ├── doc1.doc.zip [d88a407666bed7c974516e3002767bcfa1e2e6a5d822dfe5edebccda6caba6ad]
-│   │   ├── normal.dot.zip [d24be84f10758a32f9e9eb6f3ffd07ae564cf25dde6f9bb44283397d21f77f8d]
-│   │   └── rapi-a1.doc.zip [10d15a2467cbf4cf5a1b004b89dde4dd6ec7a70e26eea0c846569705d43fd974]
+│   │   ├── doc1.doc [a86c8ccbe59c07acd87cd09da68ec7087ff4914c5fedfe7d3f952f9c895dded5]
+│   │   ├── normal.dot [3c14649210006a692828d86f5d8f845562e436983f9aa4106f27380bf3761938]
+│   │   ├── rapi-a1.doc [f7136b52a8f1b7c38dd66375946849a49de0d0dd2ed975b46711e28eef2911eb]
 │   ├── a2
-│   │   ├── doc2.doc.zip [c719b52510fc4a8b474db273e0359bfc7a17c70a9b63784930df9e98452c1093]
-│   │   ├── doc3.doc.zip [76c907b429a08c971ca9ff111ae8f8faf64deb6bc048a6a7f5d7631a138b5017]
-│   │   ├── normal.dot.zip [f8de96b211d9a6787ddc9340e9b7e0ebf64e52754b06378bbb4b56a23b53f818]
-│   │   ├── rapi-a2.doc.zip [3756f00e0f1aba3127e1c5308f29160b990a92f5a0844f39f36caf23a09b9f8c]
-│   │   └── wci06093.doc.zip [16a7ae9d5896c7bca9dc1a8d5bb8468f2e9a9405c6f9c1148920b3dc30d46557]
+│   │   ├── doc2.doc [7566b947cdc0cef2fc571697a8243a49fe213f9fde36153cc4635cfd0ab8bc88]
+│   │   ├── doc3.doc [dca3e30a474f6f0c1a31d9cfde79340566806b6b490eb9c8bdc237745584b262]
+│   │   ├── normal.dot [c5f8b805ce02d88b36e48810efbc756f54adb9df63d61f5ec3a65b2427629c41]
+│   │   ├── rapi-a2.doc [08c60e5aba26080d57b491a090104a76d89af3edd5a9939bbf1a3c3949bf6f38]
+│   │   ├── wci06093.doc [0e047f3157111eb66dce8749a0ee9df84cbbfa6badae3952420d9bd6156c952c]
 │   ├── ao
-│   │   ├── rap-am_1.doc.zip [a75a1f2155ed29ba5893ed1d3a094d1e27d4f293d66c4e7d2a960da5863eb450]
-│   │   └── rap-am_5.dot.zip [05d527a6fc13850cbdef60a8ef25d9db8720ce68538279f5a2afdc3d3cd47308]
+│   │   ├── rap-am_1.doc [a4475f46ccb9eecbe45582fedbd91b92bbf7e85aafe598d32f163cf62328f57a]
+│   │   ├── rap-am_5.dot [2a4eedde7c2a9d572a066bdc485627895e184bd88102cee4ed1e1e8508627297]
 │   ├── ao1
-│   │   ├── ra-am1_1.doc.zip [e3482f72bd826b757f73ae06d902edca4f4c68ea70095f7274a923f72a0ba5e3]
-│   │   └── ra-am1_5.dot.zip [e85efd4b53d5cf0febb0e480b975f878966da671cf83cd7c297f6a49c34b7ba1]
+│   │   ├── ra-am1_1.doc [df367fa50ce0c91142dfd6d735bc05902a444a10be4a4862c98ca8a9c1b9b622]
+│   │   ├── ra-am1_5.dot [8cc26fc76de2dba72e6ffedf414ffe95e5aa2bbdca2c851e0ed99932f842c434]
 │   ├── ao2
-│   │   ├── ra-am2_1.doc.zip [3383355ee387792aff02b02bafefcc5ec010f5385fdfa9521e0c71de29c0f08e]
-│   │   └── ra-am2_5.dot.zip [3ed03993ce7c6f3f7df1157c8848ab0e043ee2229145a99b853941ece9800a2d]
+│   │   ├── ra-am2_1.doc [eaac44923435c4a4c81c29a8d97938953426ac05e349062e41afb8f8b751c12b]
+│   │   ├── ra-am2_5.dot [0d297703d8b4ec96125d9c0e1ad10e3f4d3aa544a20d772f8bbeced113600c6d]
 │   ├── ap
-│   │   ├── stttel.doc.zip [4712d6718082bce6dc393155ea6e1dd686e4c22eaa3f07c4bde2139ba5efc103]
-│   │   ├── stttel.dot.zip [969666be474003e8cd2d8e636b316ed8b56a097d76cbd0367b4aa598610f0e6d]
-│   │   ├── vivt-a_1.doc.zip [9dfa95db1d74d51d98bd447406a245f6cc63265a94665c72506c90c0a9f713b8]
-│   │   ├── vivt-a_4.dot.zip [c82836518f39c8899e11e8f79986751d293bc1a980fe217401429a33ba3bc3c3]
-│   │   └── vivt-drp.dot.zip [ef38a625a122cde59a010266f9918b343fd2c1aa0be9a45701c3f2a91ae9dbe0]
+│   │   ├── stttel.doc [a76cf93e66019491784d0c5b6d5fb20e44e46c0c76865b1b943d18cdb6f900e8]
+│   │   ├── stttel.dot [70ca2ce710257bd8be8541184a60a88b158477289ee68501d72c5137a9d9b178]
+│   │   ├── vivt-a_1.doc [4b53a5f06d9f85d0f550d2b8156d450748a3c5f4f7563d312a8667c20b593e84]
+│   │   ├── vivt-a_4.dot [4b77b7ffcfed1272d0b1f866526f22fd542e170f646dd27ec72b0d42858eb235]
+│   │   ├── vivt-drp.dot [325f9502107248ca2413b1e769ddd0824e5a80462814ab241710354d035d3a60]
 │   ├── av
-│   │   └── virus.msword.rapi.av.zip [7eb3c00c9efcd38facc05b5fb14f0c4ade39eec61da2c8546d794ff2b91b7e04]
+│   │   ├── virus.msword.rapi.av [57a0b56f0abf20cbefafc65d569ff500daa5cb458a3e6382fbe9d4d3fbc77177]
 │   ├── b
-│   │   └── rapib.doc.zip [c3de7cabfe753ddc016dc855d6dcd2014991e14223e9afad853fed9d54e48330]
+│   │   ├── rapib.doc [6e9fcee438dd3cba224ad0cacc9535d0ef76b40b2b9c73a64ac39824d39e057b]
 │   ├── b1
-│   │   └── wci05613.dot.zip [1c7cfd6216060d815b1f06764586c7166323aef70c5e47eec924e0621ead76cb]
+│   │   ├── wci05613.dot [7161a5aed3c623bc69c95a821143115f06234f3062aa8ceac7fa2899ad9ee1db]
 │   ├── b2
-│   │   └── wci05623.dot.zip [0e46c886d00f90cc183fdd7b5fee5db81e4190a6ba940504a87e2f35c63c9dda]
+│   │   ├── wci05623.dot [cca0fb96d1ae4d9ec0559136eb11d95aaf87f662c171299e75a47099669d4883]
 │   ├── c
-│   │   ├── rapi-c_2.doc.zip [67e94ae1d5027982051f53f59f53666de1a6dbc965d08c33fd68e5ce6af20a57]
-│   │   └── rapi-c_4.dot.zip [be97eb590aefd4da0a637592b2316e77f9bcf44f154e88299f55c4fdb79c213d]
+│   │   ├── rapi-c_2.doc [37d6a20e1a4ce3a8dc2800946c31c1ae8b3df7b742242ecc066605433d8da944]
+│   │   ├── rapi-c_4.dot [f69f275160aa9d84cde3f41868ea0daeafe5b150624a6d975326ba7591f6aedb]
 │   ├── c1
-│   │   └── rap-c1_2.doc.zip [d7ecefd7bc14124c9624e49b3cf4ee78392a524ca5e0ab326ecce2bcb32896dd]
+│   │   ├── rap-c1_2.doc [0321aa6467e6e6ef4295a175e4ef4fe6933d9e3782bc164d43d14cb6291a9f07]
 │   ├── d
-│   │   ├── rapi-d_2.doc.zip [f00f0b00df0ed50ff352db5a3d277965ecd16ed7d3183ef905e1b61cacb95136]
-│   │   └── rapi-d_4.dot.zip [32e5e17dbab775077eb280aadecd8ab6ef043cd58494a6af7ca91e18282aa0c7]
+│   │   ├── rapi-d_2.doc [e94a472152f3859e2896252a5a8e97a3468bbf298ae69bef572337737f43a785]
+│   │   ├── rapi-d_4.dot [f46848f318308fa22e27e4bf6099d08f69c32ff12eae1b251ecf077bb3bdcaad]
 │   ├── d1
-│   │   └── rap-d1_2.doc.zip [4bce785389bb9805cfce10465ced747687f64f7649d012b49f0dd3ee5a42e96a]
+│   │   ├── rap-d1_2.doc [e7d58544de80d6fdbc492553e2769c68bb8f47cff6901e0ac24e316656d1c9fe]
 │   ├── e2
-│   │   ├── rap-e2_2.doc.zip [9309ee4472d2c116f325b7ee8e96050dad7776b69e7194c317890270be4ca231]
-│   │   └── rap-e2_4.dot.zip [e6b5426fe7634c2b4d5cac80469f38b75d1c77f68f2be498466d6f71d948f693]
+│   │   ├── rap-e2_2.doc [a42d562ca5816e1d6a5444501a555b380e2c710893c40ecb031c90fc8347859d]
+│   │   ├── rap-e2_4.dot [29696a12f93eb6f1feb8504b4e423ceef8e745b24fcaa734b88cc76e517f69e7]
 │   ├── f
-│   │   ├── rapi-f_2.doc.zip [4716a70f1276a11e43c4f5a2defb1f4eb50e47580a93ef294765b1f799dc2aa1]
-│   │   └── rapi-f_4.dot.zip [597030a790f26e2acb84a592e86a1f2f97ad1ed6ccd7a4309029349d8e795c5a]
+│   │   ├── rapi-f_2.doc [f535947e980868d2683f6f3962c832a21a80d84989990729e056fb10e688a218]
+│   │   ├── rapi-f_4.dot [8778e99e1fb9731c4eb898458ec381e1e88cf2def364eb8cf6fb893e20a888e3]
 │   ├── f1
-│   │   └── rap-f1_2.doc.zip [8644009c3257aef566c5eaceba0eb1dd0529a75138bdec742903f48d9872c54f]
+│   │   ├── rap-f1_2.doc [faa38dda95b6d15da81b046e8d50be68ba1ea42732e72ccb40be9d3ac69bdbd4]
 │   ├── f2
-│   │   └── rap-f2_2.doc.zip [1c25748c0fd41f9866e7f76731ecab6ac0f5bc1d67a52a689143491bd3260c37]
+│   │   ├── rap-f2_2.doc [561ee8636e9b18e55f83e28bfc8851140a03c2f902477ed898e5785fa5333e66]
 │   ├── g
-│   │   ├── rapi-g_2.doc.zip [2c59fe315e09c7545406c84fe85b4b86ed524a3b1cbcdbdacd0ed4c29394a3ab]
-│   │   └── rapi-g_4.dot.zip [677447b587990d76da3b828ce154949cc84c408ceeec2e924586259aacba16ac]
+│   │   ├── rapi-g_2.doc [d6e30f94100302a78d09ec804bee77e3737699ef1bc6eae72da309e476ac1e2b]
+│   │   ├── rapi-g_4.dot [37dd37940eb8f3406ae1d29f798a2f5c9cecf861cd21d91c9207be3cd17fe406]
 │   ├── g1
-│   │   └── rap-g1_2.doc.zip [9790d1b1747be92e61be51ab611524dcbe2da58ab99bd40154dd16ac627e7da1]
+│   │   ├── rap-g1_2.doc [00a9cc08a55f30f035759889f9da45ed2898c9b1841d40b3cc549516ed9a6d38]
 │   ├── h2
-│   │   ├── rap-h2_2.doc.zip [60997b9721f1e40fa44bf7dc84fea6fb7f2c9b319ce69fcab3b5dee4fd97b06a]
-│   │   └── rap-h2_4.dot.zip [bf47cba258d566e4dbe6bb820d233d4d56c9caf43cf56dde3c25d098babe0e34]
+│   │   ├── rap-h2_2.doc [f6985087190a56619ad024292235a9b1f1f3dfd05506585b2810d2f56bb7acf1]
+│   │   ├── rap-h2_4.dot [be2aa40a742f2e79e7ac1471a5937626757ca9411f844f59e2121a18ccf27ad6]
 │   ├── i
-│   │   ├── rapi-i_2.doc.zip [1a00519b6ad18b8daed5a6f92bb9fddab2e26f80b6efa35440f876d49af43ca8]
-│   │   └── rapi-i_4.dot.zip [be248fbbebcf6f052cbac7f47af75c3d8422c462d6775fa581578002453e380b]
+│   │   ├── rapi-i_2.doc [ed68daf821326f704283c70964fc2f1059010a1efb37a472b8264f99c0954c8b]
+│   │   ├── rapi-i_4.dot [039f091e0c65eb0de18270e4257554c4aa32903d86a8f8be0904bb81af10f327]
 │   ├── i1
-│   │   ├── rap-i1_2.doc.zip [854d451c89525f21f9b5158b916e912977ec22b9ad978e6614996013b4579548]
-│   │   └── rap-i1_4.dot.zip [a4e3da85dc2112919fa6b44da46f4f43dbbe4f55f93c87fdb931f32b845cea6e]
+│   │   ├── rap-i1_2.doc [7f70088e71a22de77c9e158b3b36985fce780783c3bab09e2d6e33f05de961f9]
+│   │   ├── rap-i1_4.dot [4693afc83f003957ac5db1e36f1d13f1175cde3f9c8622ba216447eee745a7cb]
 │   ├── i2
-│   │   ├── rap-i2_2.doc.zip [788e0a56f8b252514a2c8457afc03cdb7c2dd4348cba4391ae0972e49ec9e3f9]
-│   │   └── rap-i2_4.dot.zip [a4c8c793193d91c2cf32d6a1ef28146e69f770c1404e3363783ac02de1f6399f]
+│   │   ├── rap-i2_2.doc [e97dd52c16493584cb3d5c80869e5ca75b954b0e9c4cf06b27db35bdcb4ae5a3]
+│   │   ├── rap-i2_4.dot [5dbd746290b17168f9fbf1d59319d8db0d010d6c413f0de1466d837df4230657]
 │   ├── k
-│   │   ├── rapi-k_2.doc.zip [ccf6bf22f0408721ee482494bfe21b6b456e5d41bcde6ff9f15ddefbd8a4ceb7]
-│   │   └── rapi-k_4.dot.zip [812a62f4ce6831b8919f7f3c4e3bce23378a23908f1361af847c1bcdc09bfbf1]
+│   │   ├── rapi-k_2.doc [d743e57716edb7c5d56178351e2d4c0f66fc774285afbc745de1155a410725f5]
+│   │   ├── rapi-k_4.dot [852b1e402664f9692f4ec4ccec419f0296796bcd6fa989b49fad0ffdacef4338]
 │   ├── l
-│   │   ├── rapi-l_2.doc.zip [b66608259dbbbff2fd22b07e022f6a2da4672f29ece0210c91a54f46a388b7ae]
-│   │   └── rapi-l_4.dot.zip [d67409adf95bee25a77f7319420eec48382a03b4f05f65dc0c483191d866499e]
+│   │   ├── rapi-l_2.doc [677ab5b949d9f97b657537a8c77eaaa39555affa33be2d154a5bffd77eec4892]
+│   │   ├── rapi-l_4.dot [dc1dad9b6571d0de9156443a99dea3d848833b6e334abcd28ccd252eeb54f074]
 │   ├── l1
-│   │   ├── rap-l1_2.doc.zip [ee422795c2b93c6b0f185d19031bf7e416897103fdca656d52724f9b13f78808]
-│   │   └── rap-l1_4.dot.zip [252e7b8017995c505d10c7914bb4770b28be66288a9a9c76a7dbafd9e2a70811]
+│   │   ├── rap-l1_2.doc [a9e0cc924f6d158999dde5e009f2d9ee74346d5ff143e3e9654f4b80dd5c1d72]
+│   │   ├── rap-l1_4.dot [6dd70f65925c9176802e39eb7ce491817e56d4473fbab320216fa65eb3899379]
 │   ├── l2
-│   │   ├── rap-l2_2.doc.zip [007bec6aa7dea49c80ebc29a1c585211b1494bcc9cf481afcd564a3d3132a038]
-│   │   └── rap-l2_4.dot.zip [f4ec9270ab07e01fe300bfb56b8a869bccf2c884fb9136d918ae739cdb6115f5]
+│   │   ├── rap-l2_2.doc [8ec84f8a9b4be599dbc7f700982cd4c0034a7857527ed7c74310d445d957c46b]
+│   │   ├── rap-l2_4.dot [3d6f8b79fd7a7f13138846c82fc37df8dc098e79187b39d2e9a27509725f3aab]
 │   ├── n
-│   │   ├── rapi-n_2.doc.zip [3fdc2a264133dab569ab2511f7dd624ad45c03183532c02096739d5cd039593c]
-│   │   └── rapi-n_4.dot.zip [ec2fe8ed26674e0457ba7a15d4cb8aae120d1b6f5f40d6b1104a5b3230c40e9a]
+│   │   ├── rapi-n_2.doc [c447594b4e6dc72efe58464a51c7ffb4cfdd03bb68d67915ff4662e122c5df2d]
+│   │   ├── rapi-n_4.dot [8b3d9f68d98d2e2b72c21965121a1646841836e17b5ce6d19f624e34a995f88c]
 │   ├── n1
-│   │   ├── rap-n1_2.doc.zip [198e44301f6d50b91f5c74159f19977e3eab089c54f8c289633cdd48abad3584]
-│   │   └── rap-n1_4.dot.zip [e51870f22fd64337dc66361ab8c4a51cc660a0cf2e69ce5eadb4a8871e3014ed]
+│   │   ├── rap-n1_2.doc [7da28857f01d1f601458c7fd627b0f4eb127bdec617e532a1f0602faa9e00654]
+│   │   ├── rap-n1_4.dot [eee7c774d737c00fe89f35de902884918e0f1e53bc2b439719744a9bc38a9e05]
 │   ├── n2
-│   │   ├── rap-n2_2.doc.zip [856dacff2c04e28cca0a49de1a7ff6e4cc8e6de0683a72e1a97c4577b0610596]
-│   │   └── rap-n2_4.dot.zip [6ab6d53b0ea9fa72e9dd00c99b86036885e16de8d168548a77670b14f1067ea7]
+│   │   ├── rap-n2_2.doc [19b8c3aab38570af3d90310ef7dd0efdb57636705212f477fad0fdd92305326c]
+│   │   ├── rap-n2_4.dot [41fb16fb65162e45764df010cccce3634fb31c714260ce2ed05f5771f0e1c8ed]
 │   └── s2
-│       ├── rap-s2_2.doc.zip [57f63fab44dfc308a29d12485043a2cce53c85f36222bb84fdeeaa29b1f62867]
-│       └── rap-s2_4.dot.zip [24a7d508b64c04afb80e938998f159978e18857de3115ae03908b53ee2123a8f]
+│       ├── rap-s2_2.doc [a6f64db4f9934f7cd04f4230459a33dd0011092f206ae3180d8d94dd0d891dcd]
+│       ├── rap-s2_4.dot [38928176224066419ba60547604398fdcb052ae93c1ed8818ffab45017806a94]
 ├── rats
 │   ├── a
-│   │   └── template.dot.zip [459aa3507ccd7e3f8e14ebceda81bbd98191ce47d082be7bf5cc828992a3fa70]
+│   │   ├── template.dot [1943db986383cf8427ae07299781065fed004d57b35182bb86adcbf3d566590a]
 │   ├── b
-│   │   └── wwrus.doc.zip [d5cd514d6ae6f2c0b731b09e85d9d9975978612dc55a3a3192ea6effa465a4a2]
+│   │   ├── wwrus.doc [edde5a6352cfa3f46086d2fea877e4c7ff053639fc983fe8200b4b3bbe84dd57]
 │   ├── c
-│   │   └── wwvir.doc.zip [e709404e83fd322a089d070830ceead388a357767bdca9e36e27595a62691634]
+│   │   ├── wwvir.doc [6ee24260529feb3ac9c2ac3e2b8f7c4f6c3566990a678a111c565fc55034ae4b]
 │   └── d
-│       ├── wmzashib.doc.zip [4c363f20e3c9646dd4129832e89029b4ea73e064b6f26cb6d136df04d435d509]
-│       └── wmzashib.dot.zip [e4dd4502db3d557689605d12579f563d48a21e079e403e74f6516b3a5252a55b]
+│       ├── wmzashib.doc [cba070de0f92369f523f6ae75f104a536dd74dea6c4c54cbbc8ec07a3358244e]
+│       ├── wmzashib.dot [38b87340f56e7aa5466ee18fcebe4aeeb4f1bc058f4f70a3d3bdbb62fcf217d8]
 ├── razer
 │   ├── a
-│   │   ├── razer-a.doc.zip [c88c3496126b989954163d85b1b0e9e77092ae9b67df5027c2cec4564b2c4c1b]
-│   │   └── razer-a.dot.zip [fccd051b134a80b4b92b2ce75b4cb3fb89bbb0a7485a3094ec15f4e34eb2fc7c]
+│   │   ├── razer-a.doc [785c8a373b5fc511a89c75234359fdd02c98863110470df2482dea64891559f9]
+│   │   ├── razer-a.dot [125003b5c3d672735a7f6e5e87111ea944590ebc3063e29a00efdbd0837c4058]
 │   └── b
-│       └── virus.msword.razer.zip [1ac9ee31119f8a8762f9153dee07ec9de2c8314e9a3af1fe0cc51bfadc7e728d]
+│       ├── virus.msword.razer [0894d0115c37f6b22ee5ecc071c51a1c488823474c2732381bfb4f8572d7fa1c]
 ├── red
 │   └── a
-│       ├── wmred-de.doc.zip [fbb07c7c160ea016da4563387cab5736328fd6c8b4bcc468046495aa194b20b7]
-│       └── wmred-de.dot.zip [8c6f8dca57ba58fbe63bb28c551a86c421175a025750fbdb55e0c305106616c4]
+│       ├── wmred-de.doc [0e9895f21ee30120e5f6fb013389b4f4330c117ba345e4f88a9bf2d11d1daa7e]
+│       ├── wmred-de.dot [a3e5b9be1b45ee7744bb64777772660f0b4d6c294eea7862e4513093f29c45a0]
 ├── reflex
 │   └── a
-│       ├── reflex.dot.zip [526c380a617c269bfb1654cd653b2ef90165a033874d3a789298803cb1b7bf36]
-│       └── wci06133.dot.zip [44064ff8d6bb273d4c9bdff79d989908552a8fef176c0b1dc09d81de932d6e46]
+│       ├── reflex.dot [5087867232f6dff92c28ab0089afb1f33a0886a923873328c831e01e64b4e436]
+│       ├── wci06133.dot [cfdb5948d7b1e4317785e21ea4d021a66556cf75001ea03101bd08d78e8e21e2]
 ├── rehenes
 │   └── a
-│       ├── rehenes.doc.zip [6de7e007e560b9c5f31c5dfd44cd1184448a87737f96cb298f12cb8bc2d2fe49]
-│       └── rehenes.dot.zip [3c7c66b9f0db050f992c14a91d637b077dcaaccb98236c77b9ea37d0daf872d8]
+│       ├── rehenes.doc [6de4c3b211ec57e096f801bbda3456efdda17b4c827df4a12e54df5737b5a38d]
+│       ├── rehenes.dot [7c248b4b89816800acabb0a759e6735d1934dd95fdfe7d98a34e25b36d849598]
 ├── rellik
 │   ├── a
-│   ├── macrokil.doc.zip [4ca96e8cb742a02ef2eeecb78bdd79d016e222fb40572273d93647a86f1849e5]
-│   ├── rellik-a.doc.zip [fefdb6bd20a23bcb25d5bc922147affed0a972568e2971d2ed7155b45730deaf]
-│   └── rellik-a.dot.zip [04fc2371cff620856a66b3d00a4d3e7a66a1ed523e166864c4adb902e97fab05]
+│   ├── macrokil.doc [7714e3154fb85ac574bb9202c22a50452951734bb9da5409159298bdc56b0be0]
+│   ├── rellik-a.doc [0a40d9442ba17573551f67a0985a4988814a4d8c6bc516409b2647783c067e61]
+│   ├── rellik-a.dot [387ab0ba29e93d40db6638f0fa6a16d14f4999361358f8f5cc03e65451586ab4]
 ├── rhappy
 │   └── a
-│       └── virus.msword.rhappy.zip [3cdb53a32178363cc37a7786d1e6257cf7c3038b2d8cd2876037901eea624f70]
+│       ├── virus.msword.rhappy [d005dfb94e83b9ab80077f19de011ad2d7d34e1e20eeb5e355afe0aa414d687d]
 ├── safwan
 │   └── a
-│       ├── wmsafwan.doc.zip [3a6bab4ac53f79e06fbea8c7f9652c9519c9cc9c5dc2e36591890630643d1dcb]
-│       └── wmsafwan.dot.zip [9ecb5444195c7632a5cc8e50ad4a2fddb22e09868674465eee767ecd106c6d03]
+│       ├── wmsafwan.doc [b974c8eed1af24e088b9de5ad51d7ddbbf61af7ba53698121c82c6cc8e2b0bcf]
+│       ├── wmsafwan.dot [53b7cc152cca394334cb52d2731baf1ec7355d3462440e244f052d63352c8678]
 ├── sam
 │   ├── a
-│   │   ├── sam-a.doc.zip [657d31602c6f0b9a6000114ad1d3c7dca581facc55442a39f61cfee3b2a03a69]
-│   │   ├── sam.doc.zip [670b9a75cd653ab93189b3a3babdf46ef5c5d92f59717091f7aa58b0552561c1]
-│   │   └── sama.doc.zip [7611def1ea5a4a8bbe4c511de85db416dd8dfba38a8227a7a9a14f71abfee950]
+│   │   ├── sam-a.doc [faa36a63fbdec2e62c37c15e727283da98a12a9163fd5fdc7c6b5b3670ee2a2b]
+│   │   ├── sam.doc [baaf683c36cf89c36bc6f9f99b64b85ca15fc3dfccffe2e10435e009d426fb40]
+│   │   ├── sama.doc [74e227c363fbc690412fe0aabd081226f0f517a2f6eeda9b5c5e01ffca7a598e]
 │   ├── a1
-│   │   ├── sam-a_2.doc.zip [093267ee53c0fcefccaaab2032f58b77f0d307acc8cddcaab3f1b167343aa33c]
-│   │   └── sam-a_5.dot.zip [47c413761fc80003ad2b33ce69075a336c021be440913672c98e42949ac0a45f]
+│   │   ├── sam-a_2.doc [fed610bb3b565a003062cb1aca1a0d64259b1f7fe0f4442eefd8a8b15c530d72]
+│   │   ├── sam-a_5.dot [6d023812d82418901ff4ec529d043ad9c0f085452237f11b24ce243ba85438c2]
 │   └── b
-│       ├── monday.doc.zip [9dc30f0815a6d88463df1204ddae3d87a2c3a120f08796143972a8e697180180]
-│       ├── monday.dot.zip [79e4d01cafa4963e358e3ecf8cb38ec2438131e1f98c8bb1867d4e1f10a3cc42]
-│       └── sam-b.doc.zip [8efe544a726165843d1a8b881ceef26e93389dda7b436c46e99afe42d35c7067]
+│       ├── monday.doc [151987fed2b7483e65d67528f32b413eb49e034600531bf14c3a225f8cd9d78d]
+│       ├── monday.dot [d1e0a21215578106a5ef715ed0f5051ea18643d96f7ee0920990d7ee15b923eb]
+│       ├── sam-b.doc [db247663d8b1902f12a1289a44e184570fbc72a29dd36f0613a9da400fb42ef4]
 ├── satanic
-│   └── satanic.doc.zip [c6452983fcd2273395ca854122d71956f432a39ed2774953125489a125400fe3]
+│   ├── satanic.doc [a059686d83c66fec51317b4e33cd6cd1159ae2755fca46dc5c4ee69261251884]
 ├── saver
 │   ├── a
-│   │   └── saversex.doc.zip [b5b2acde375e1d8702961de5534c3b9f80d3ad6c7c5c65629ce0a7aac77e241a]
+│   │   ├── saversex.doc [65fafa69bc5f45741f0eb36e0882f0a0cede9d4acd3fbed55476e88cd1d2560e]
 │   └── b
-│       ├── save-b_1.doc.zip [ebcdf532ceab6476c45cf31eac1359a34b5bacef1c27130845b29ac2f9770b5f]
-│       ├── save-b_5.dot.zip [69befdf1735aa31f04b3e9c827981e4926f2b2f7d11a513b7e949c3c32d05e44]
-│       ├── saver-b.doc.zip [15b7086e1b7b993cdd77c51da5a6597a2b36cae57692971f8056452e2d6457dc]
-│       └── saver-b.dot.zip [f8ba55386d84d4494c7a7c70fc097acc53e05266beff2009dadacff33e253aef]
+│       ├── save-b_1.doc [bc0148b3229f3824f822b241f676da60d79dfc403c21c127b613ebf4864023d3]
+│       ├── save-b_5.dot [c7da1654ad063de07dcbfaf9c8d751f1f59055e11ca3b599d9de869c5d83f95e]
+│       ├── saver-b.doc [f6c0550e2e5bc2ac319baf375bd1a020273745abaf09fa2565cc1b46d4c360f8]
+│       ├── saver-b.dot [a0588cebc689c7bfb7245e0b0d6c528655deae91861e8e7d0a07da0b7b1ee6da]
 ├── sc
 │   └── a
-│       └── virus.msword.messa.zip [0ab5116c086151fc3ff3db036c0dc6dbb2dc467a4aab62783ed454a72c4664ff]
+│       ├── virus.msword.messa [98e7cc3553667bbc922a40ba299083fdcd72e45f487d7bf93770eb38e2151a57]
 ├── schoo
 │   └── a
-│       ├── schoo-a.doc.zip [ed5caeeaa6a2370b46f48d72772a635e65c4711f723fa1eaec28c3bc686a2667]
-│       └── schoo-a.dot.zip [2715771101fa8b46bf192a378314e8b0452cd2d42bf013afddba033c17ec1242]
+│       ├── schoo-a.doc [704926bf9dba8b8feaddb23912a6fd351e6b9e776e52c1417fb7fd39e8a7883f]
+│       ├── schoo-a.dot [555218989cd39f231c6a38757709b648a717c561dc2194ca9759009933170adc]
 ├── schumann
 │   ├── a
-│   │   ├── schuman.doc.zip [d8ac938de5ca1cc0df9d2e24ae5337efc05bbc171804a30e61c9a4ed221756db]
-│   │   └── schuman.dot.zip [942f3faa79039da2463e831adb76567aa0271c465f01e60e785c1407a1f99895]
+│   │   ├── schuman.doc [ef6dbf334ed807017ad6dbcece2b89cf170566b9db35f97c736d819fb837549d]
+│   │   ├── schuman.dot [eb318af4c56a5ebc43859529c28d10dce5523883f5b17381ae7337fdb5a13386]
 │   ├── ab
-│   │   └── virus.msword.schumann.ab.zip [857783f3ebd34eb570e0d0bf7970d280817c0d2093076293eeb783b99f9e4ab3]
+│   │   ├── virus.msword.schumann.ab [dd404edbbaf31d44fe4abbff37b86a1e6f4f62df7469deda62f10fb63a9b56d3]
 │   ├── b
-│   │   ├── schuma-b.doc.zip [622cdac594791cd52993b82157573cc1420ef40111748749daf6776726ce2d4d]
-│   │   └── schuma-b.dot.zip [576ecd9e9a2dde4267c2d5fc26ed4b6a98d8bc4addc5010a399c2041ca9e2414]
+│   │   ├── schuma-b.doc [ed06fd8917aef8bf9525e2a9cd21594e0787b3b8f0b46459e9bec7a86c54764d]
+│   │   ├── schuma-b.dot [0c5c43ed1cacfa5a1ea1cf8fb737e6056d2f073e7b2b8b05291f8aab45700745]
 │   ├── c
-│   │   ├── schuma-c.doc.zip [dd544e2ef404280bd43b74ca09b921566049bfe736843cac2aba173329ebffdd]
-│   │   └── schuma-c.dot.zip [b056159a3038912f38c0b775a17f5e0ee614446c41e0a7a4310f8c3583e34ac4]
+│   │   ├── schuma-c.doc [95f4ac4f0d762c191c6db6a6745f00a8ca7c0f212dca5f1c4f91eff6ca4901c8]
+│   │   ├── schuma-c.dot [e2bad78f77ba2bcb9f3614a9209d6e25428276ad42144aaf1177326dd78866c4]
 │   ├── c1
-│   │   ├── sch-c1_1.doc.zip [02faf64fa98f48883d9c4fd2f0f5db28c61ea201580381e7274e2de4ffe40a55]
-│   │   └── sch-c1_5.dot.zip [ff5db3336df390119c7b35b094c52906884f261cc36b56ec80fadfc8be152b0d]
+│   │   ├── sch-c1_1.doc [969c8b2f4cbc9fe2faef75fbc9915468179698aa349ee9c08df6c29bf98c8335]
+│   │   ├── sch-c1_5.dot [88bfbc774d34014a08bd8bf60627865de0586b51ee5d05e64cec7caf74677a6a]
 │   ├── d
-│   │   └── virus.msword.innocence.b.zip [d34df546158a37022f1ac10461ace424f1d3eadc8ee3f5b019a641dbeaea169b]
+│   │   ├── virus.msword.innocence.b [1eea2dfd82ca2cc4873a1b44517e56ce10b39f084c46fb8001a9c778ed292f0c]
 │   ├── h
-│   │   └── virus.msword.schumann.h.zip [41d686813fe23e155adfa4b9c4e0c633ae52eb6b5bb388795e47d0f3c31d7398]
+│   │   ├── virus.msword.schumann.h [4194e2ce0c1ed46f8e6f787d323e4b89570bdb02702f14724484fb8710495018]
 │   ├── j
-│   │   └── virus.msword.schumann.j.zip [75c61b268e70f48605685ab7cda54ab725350541b79cc6b31e864c0cc586a88e]
+│   │   ├── virus.msword.schumann.j [c44aba54f8448e08ddeecf18f775be9ef3d33016b0ea79f52407cf9ee6f15d50]
 │   ├── l
-│   │   └── virus.msword.schumann.l.zip [1530367e8174d48f4b0e7a1201a4faa2b73c143df51054f98561c8ec4af3f254]
+│   │   ├── virus.msword.schumann.l [d52d841b1920b1a98a7e78d0e7750864e444f2d7535743acee26887a5d249dfb]
 │   ├── m
-│   │   └── virus.msword.innocence.e.zip [52c39d535fa3b9deff1e5ed6de2581e616252a869d465e67dd4c283d9c26af9c]
+│   │   ├── virus.msword.innocence.e [63bfce9ca94f2b809d0fedd563d1c8f7ba51e50794d04b41eaf4acafaef30d2d]
 │   ├── u
-│   │   └── virus.msword.innocence.a.zip [45dfe92d2d9a51658017c1018dcb862a8659ebcb8d32d33d519d6e4085e8ab3c]
+│   │   ├── virus.msword.innocence.a [8168af72dd01be6bd38671e98641587a87c11d669f807ceef7dbedb8053bd732]
 │   └── w
-│       └── virus.msword.schumann.g.zip [cf3edb7f6ef2bf00caceff3f5605412a9530cc67e68843267ea370de9adc2bc0]
+│       ├── virus.msword.schumann.g [39c51bcffcdad306306dfbe8eaf8b617604169081ec012f2421330c61ca26c71]
 ├── screw
 │   └── a
-│       ├── screw-a.doc.zip [18ea8a3d18ae46cbd48749b8721031775e531e698aa09be5d060d3c05d1919d8]
-│       ├── screw-a.dot.zip [ee6323f26d078034c1baef013684deae893b9eb901138c1d2c7ff919f9a76d4a]
-│       └── screw.doc.zip [ff0c2ef401ee3f0e75ea956061539e4d337fdeb8dcbeca5e36318c916f258b1c]
+│       ├── screw-a.doc [1d03aebc2f2fefe7175d59d016848f10686df123e2d95051b4102cad6c81cc49]
+│       ├── screw-a.dot [1d03aebc2f2fefe7175d59d016848f10686df123e2d95051b4102cad6c81cc49]
+│       ├── screw.doc [7da275daf33524addf7f9559bad4de0424dedbacb29b7f4335af874cf8e85858]
 ├── setmd
 │   ├── a
-│   │   ├── setm-a_2.doc.zip [6adf8ac37e49cf6b46a49720029aa4591557af8f6c0138866462f6dd12dcbf06]
-│   │   ├── setm-a_4.dot.zip [6f9d872009fe44897f168c9d58c13690cd95cf432d6045451e3d3b1cc12f7fa1]
-│   │   ├── setmode.doc.zip [d44d3361b6723237470a7956ea76bf0bf0d8a5a2453ce7c579f6c4f207619d0a]
-│   │   ├── setmode.dot.zip [3e78e21d61a1626017a0599ab4b7dd412083ead5111dc2581a9d63a710d50779]
-│   │   └── wci01654.doc.zip [1a7348a85d0c9e9305a7b75ab2a74e9a94ec4329f77e8c0e8b4d57f11c9929fa]
+│   │   ├── setm-a_2.doc [cfd7ca801849d8701c69ecac3daeff8aa36e6416ae7484403f3a83acdedbdebf]
+│   │   ├── setm-a_4.dot [b8ba872722d38f9ea73a5bc8aaf655b515d59235a18ccaa7aff86f680701d6ed]
+│   │   ├── setmode.doc [fa73899d6a5b571d55c2355897e34283e0ad4c7fdefcd0f7e41bb09c6f509a2b]
+│   │   ├── setmode.dot [d7e5833a3b862a9caf8365c72ac7cc4f18784baa14f295618d37b7c5eab4efae]
+│   │   ├── wci01654.doc [e97ec1e3618c5bcafc7a47d8b049b3dc8fe57ec9ba8dbbe8c6d997dd1dc6e984]
 │   └── b
-│       ├── setm-b_1.doc.zip [7f24ac826a4c6b31db78da6da405f4f4354f9c2271dab734b2dd889450316b11]
-│       └── setm-b_5.dot.zip [022b0e17d669bfcbea7b06c253b2c462d41797a43c2d86ba773242173414294e]
+│       ├── setm-b_1.doc [6156fc5780425423b065ca1c94387dab7b65cd750d291743ba9fc97d23c8fd80]
+│       ├── setm-b_5.dot [310b02f986a3974bb5ea6f184cec526e7933c4ba3ea5f911ace394b331134fa6]
 ├── shadow
-│   ├── shad-a_1.doc.zip [9ddcf59c694c5c1bb558bf28010427777b7e83447a630d27bddc12684dd8e379]
-│   ├── shad-a_5.dot.zip [32dfafc0ba424e783d56a253c6285628ae9c95c5f517bf9eaa61c6f2e63fa388]
-│   ├── shadow.doc.zip [1711394f335714e78b92f8248d5b4191918d4acd6eafbc31320482d87df830d2]
-│   ├── shadow.dot.zip [0b4353a2bcbe1acf1a2f638371433be912ae3f960fe3617a83daf29dbc3e1e2e]
-│   └── shadow1.doc.zip [f3f491505a74e3e449d3f75c2f2fa13cd4100f1de316d68e38df541498fe48d3]
+│   ├── shad-a_1.doc [c3c5f8aef9fa273f9deefbe29d92e98b3c95d31211f0aa1347a65b661da661a0]
+│   ├── shad-a_5.dot [f2ccde9d0807fa99e41ce746bb1c510bfed4f8d1ff8673af12fcf88e31f0563b]
+│   ├── shadow.doc [82d7d6e2ba7fe5c7d6c0d49ae6261b9d73ebaa3593d6762928fdd818f2975764]
+│   ├── shadow.dot [3add3eaf02372a022cc71d23707f9601275aaacececab78256f46d644d3b0e04]
+│   ├── shadow1.doc [3f3c6bb42a03a446c8931bddca14f18a9828af06b35f9fe8c2fbf87880ab37f5]
 ├── sharefun
 │   ├── a
-│   │   ├── shar-a_2.doc.zip [ea3ef167fcca410d98415be8c5decb9667397958c27d4ecb48e83972b56ad47e]
-│   │   ├── shar-a_4.dot.zip [0a8ce6d24be9aaea0ec850bbada8bcd50a62288a9fd45183f12c3bfd8e285145]
-│   │   ├── sharefun.dot.zip [58e3710a5017183324a8115346966d68e67f3525bb16ad49ec584ea02b7034c2]
-│   │   └── wci06143.dot.zip [36da44b6aceaeac667b4a3334ea5711d84c0eda4e3b8352ab56b70ee4f15f2f3]
+│   │   ├── shar-a_2.doc [c28f13bfdec8089d4b73ddd02a1306f82f224a99a651e038e976e1ea9406dc7d]
+│   │   ├── shar-a_4.dot [a531994f41c0caee4ab0be35fd9a0037cc876cdbf5ef6af100decd60c7f288d0]
+│   │   ├── sharefun.dot [a31989f8dcd1fa913e33aba55291a2a727953b2c55454ed558564aeaea095789]
+│   │   ├── wci06143.dot [e7354b9a7d4fbfc53b5f388109a8955f2c30e3b704df1e561b3d807e2c6b8c5c]
 │   └── b
-│       └── virus.msword.sharefun.b.zip [2ebbf2c07cb1168ae5ba4b68e5518a5798794385b2577344518871adfc591366]
+│       ├── virus.msword.sharefun.b [e3cbdc0977f1446c903d5e8bc839e1229d87e18a1ce453a81e6c32a8442f6168]
 ├── showoff
 │   ├── a
-│   │   └── showoff.doc.zip [ca5de2d896b39553e3aac0386cc168e7e81d63840eb3c15c4f7466d98efa0d60]
+│   │   ├── showoff.doc [acd651becd07337a6b8dc2270535c9b4817ce2ab0ac2577f1614d51d4aa051f2]
 │   ├── ac
-│   │   └── nomer2.doc.zip [5cdd70fe6e263ade76012a2523508bf78bf25ff42df351e2f749e724e1b952cc]
+│   │   ├── nomer2.doc [fb4c24de2516bcfce1163471872d52cece016cfe3a74eb030a4e4e817754409c]
 │   ├── b
-│   │   ├── show-b_2.doc.zip [596258f5b39ff7f68b54717a64b48f1b9f33677bcce48b5238bb8af1870f2650]
-│   │   └── show-b_4.dot.zip [797137e070b5f36ed9381cefd0759394e75c8371903d6022766d865333ad14d7]
+│   │   ├── show-b_2.doc [8a4e121a1abe11d53031d5f4b5d7e699f97deeab00cac0b448b3911347347f81]
+│   │   ├── show-b_4.dot [c51648b092e5e03f5b41bc351c7c098555c1e7d6f58c59abb5933f632b7f34df]
 │   ├── c
-│   │   ├── show-c_2.doc.zip [46081c1f8f710c0cd99be4058e3ee37f595940fcf350b7667776460f968f7ba1]
-│   │   ├── show-c_4.dot.zip [faea90fab9e912b611f3904421de5adfc77f40c0ade367d26d34f96ce0c10b7d]
-│   │   ├── showc.doc.zip [6f99f75f3648a1d57ea3c8fc9bf448276a7164bde774ad1a15b59a5ae770573d]
-│   │   └── showoffc.doc.zip [0b30a94e68e0e2c0d0cb6a640cad41177452e8f689163cdf7d23b385d3cb2b1a]
+│   │   ├── show-c_2.doc [9a8d961b83589af6ed5902ee74cbcbf8ee27c1df186ac33bfb884249094c1525]
+│   │   ├── show-c_4.dot [f1e58ede918027d5ce8776a9032ab434c2eaa1ee68b593352f9459ec0d273cbf]
+│   │   ├── showc.doc [2fd10314b7b0b11ce05e37605a81352f248f4c416f15c45939d8c42b2d61f63f]
+│   │   ├── showoffc.doc [b9cd0419fd79f1dca67dc0c186a3e6c8003d3d75403e2d029caa2d48bdf9f289]
 │   ├── cd
-│   │   ├── sho-cd_1.doc.zip [71f2c0fdd42c27c89c88ca7857ee4695b0685c85e5eefddfbecb01e80a8fb805]
-│   │   └── sho-cd_5.dot.zip [cf7837f859356e6151ede59948eb19eeb79ea4a05725a687318d0d3c2cc98b4b]
+│   │   ├── sho-cd_1.doc [c5067e52a7801f34cef9e600b21a603958c4565c0a573289897e22e1db370ece]
+│   │   ├── sho-cd_5.dot [0760b768ff9fe05f60a3ad7c54cbc1780a9ddc0ae6f9ec0ac2afcbeadb790137]
 │   ├── ck
-│   │   ├── sho-ck_1.doc.zip [e044c89c9c3112fa47e5e581750a51b9363873524e4e7b3504cf7e04b7520548]
-│   │   └── sho-ck_5.dot.zip [f7c7ac684e5babe683422496399742764260a15b11fb806af42b5d845afa8110]
+│   │   ├── sho-ck_1.doc [9087878194fec488eb63b5317e31f956c3635982d0655e0122096387b7a48d86]
+│   │   ├── sho-ck_5.dot [a12dec3652dcedf9ebab81b9df96306e17f56016aeea77107be58c4b272b7004]
 │   ├── d
-│   │   ├── show-d_2.doc.zip [4a2ce11e500482f7dbaf4b5485b229628180389da72f6c2d58ce8d227ff8488e]
-│   │   ├── show-d_4.dot.zip [0090384aaa534e2f38ccfc86eab2b29dfdddde7122f345dcede9321e47c7fb03]
-│   │   └── showoffd.dot.zip [69012b31cf5dfea1515dc2d2b779e223219f5edaa1afcd06f7e5d2c763632607]
+│   │   ├── show-d_2.doc [abf69537160587ce9b07b3ae6b2cc414ab74aaf60309e9798593156e1d6a2912]
+│   │   ├── show-d_4.dot [82d8e837233471dc0071c0be15c7c95b5501727cdf90335153e17d871ca2137a]
+│   │   ├── showoffd.dot [e07b7e2a2c73d795822f3bbcc95e4a377da900fb0a28e6fb645b078acbb9fa3f]
 │   ├── e
-│   │   ├── show-e_2.doc.zip [cc8a2f71ca3c78d44582d169c3b79571c98d7ff4c883f87e1e06cf64f77a78a3]
-│   │   ├── show-e_4.dot.zip [0063b92ed84915f58e58c958bc0471b39f5ced987787ea2d8aea65c69032be73]
-│   │   └── showof-e.doc.zip [65337d3bba518c5724aee090c5ac85fee5c155b1db4121d306c03e3d653d5fe2]
+│   │   ├── show-e_2.doc [7593649ff34b82688288a2b067d19a742ffd11591295cb557eed4eeaddf1b42f]
+│   │   ├── show-e_4.dot [98aac10c889da1ec82907f144d1409d000d3e11dba54f993869df58c15d0f0ff]
+│   │   ├── showof-e.doc [ff1444978252fd86953edc1c81990888655c680961c77f46d146ed6dd883a476]
 │   ├── g
-│   │   ├── nmpass.doc.zip [1e736cdf90e9baeebf681399a44be02c98e911187a8aa1d09d42cddb937c0a27]
-│   │   ├── nomercy.dot.zip [c25fffc9a9b12db524721c9b947795bf59d3788d7db7c72a8406b23b5cd294cf]
-│   │   └── showoffg.doc.zip [672671aca07968a383186b990208f9f1755908d71a154c767a7d2d1099aebe2c]
+│   │   ├── nmpass.doc [022f5e2f992bcf1c7d56bb635803d98c76689f3f992bf72b7ae300965ec3bf35]
+│   │   ├── nomercy.dot [a43405a35d8be947419523c11c03fcd39498a2fd49d9c61e386c10c14d7a14fa]
+│   │   ├── showoffg.doc [7f8508d0d7d6217368080866c82305d41b2f0454394dbacd6f9b175c4a9baf82]
 │   ├── i
-│   │   ├── show-i_2.doc.zip [442b4e7feebe92b5cf2165ad0c25e35f6cbb2fcd3112c638446247230b91e204]
-│   │   └── show-i_4.dot.zip [31fc4d5033f8765e1d9f194aac4ab8dda692cb4fdeceb1c7ada6f123d8e5adff]
+│   │   ├── show-i_2.doc [ad7e18592c321f592acd6533ffd30e4bfe9a70eb3042662d56967ee9c7e5d34e]
+│   │   ├── show-i_4.dot [54cd50bc501904570ac4eec21bd69133d01d5076efc7757b105d36959b003120]
 │   ├── j
-│   │   ├── show-j_2.doc.zip [da0a03eb7bd0a7c645913915c0c23d51c64df4f3cd00e736755fbfad08d8cb4d]
-│   │   └── show-j_4.dot.zip [4925c17e6922169273030ed6603301bee26b1584be4850ca90a00e6fd6e21c85]
+│   │   ├── show-j_2.doc [2aabb0b25c9e2686348de10c0bf0b9d4ed9d29a0605b833f8ef9f72a36bb6736]
+│   │   ├── show-j_4.dot [49522cb464ccc35d67366565499292d72201a13db8acdc6fa0d8175c043a2102]
 │   ├── k
-│   │   ├── show-k_2.doc.zip [f8ae1cd3f22809d43639f410ac174bc9f2cfb52c7ffcbc742aa7bff11ee56865]
-│   │   └── show-k_4.dot.zip [32b43b45c56ffbadca835fba3785a8590951e4ee857dffab4b6e65e6d63120c1]
+│   │   ├── show-k_2.doc [51c73aafaec7275d9200af94e8a1f0794fd5cbe5bfde34e098a1e641c254c67d]
+│   │   ├── show-k_4.dot [3c096785fbfd53cda7580786faa788f31de3a5cb1db8a92d0d580a51b0766b60]
 │   ├── l
-│   │   ├── show-l_2.doc.zip [ae0e3aa3186a468ac21b467f46464949d6a961dba78c7908463bb63a6c68348d]
-│   │   └── show-l_4.dot.zip [f9539965c510cbb20607d1d57049d20ec788fd60e49fcb29bb49676294666c05]
+│   │   ├── show-l_2.doc [0a7afbbd6eeca4fa1401481a968ff19941a2d72614be1f2cc6d10b7afab98404]
+│   │   ├── show-l_4.dot [00beb1f4c872baad260eebf249123b9fd52afbb43aa6abec07fae3d76750a8dd]
 │   ├── n
-│   │   ├── show-n_2.doc.zip [36c8e70d7a985f4d7be62fbb8813f839cb0af40f4c454e6e864cb207e2d4df5b]
-│   │   └── show-n_4.dot.zip [1dfdfba326da8be2c8a7a4282c1ae6053731f1e8535009449de7c7a71d1d1f48]
+│   │   ├── show-n_2.doc [ff61573d190bcb0f9e530e1b4f6c331b9ceb5874067aa09290ec5fc00e9edeb0]
+│   │   ├── show-n_4.dot [c93d93f35ede02212db714f3323514bbf9bbde394d31477fc0715e56eeabb56f]
 │   ├── r
-│   │   ├── ririn.dot.zip [50caf7e85bbcc0bfc4f722bb2cd7d87dea97bc8b4f6972cace2efaeacefba01d]
-│   │   └── ririn2.doc.zip [080504708384c6cc9e02334dcba4ebd69091dec482f86fb93e3ff0f66ad6f6b5]
+│   │   ├── ririn.dot [1234567422f5fcdc24a8139e1ccf94bc3babe6dc058831670e0a6108de2f5d45]
+│   │   ├── ririn2.doc [58b9000a93eb506c668d35f2f4f6d02e817031f5a825f200d0733d5c0ea34bc5]
 │   ├── t
-│   │   ├── show-t_2.doc.zip [ac03a605262e7ac1ce67f568241a1005d07d401b2c46fbee8fddcf73b5941de3]
-│   │   └── show-t_4.dot.zip [69c40e987d949f06e499ee2ec55523fc350e07cb08b67cd355dfface005052b0]
+│   │   ├── show-t_2.doc [e470b9e36dd84672232d4a984b427a9ba7df26308eefa37455feeda544dc67e0]
+│   │   ├── show-t_4.dot [70209315e04aaff09d5d9c63b0ae554786d06e9d1ae2325aefbb7057994d04cb]
 │   ├── u
-│   │   ├── show-u_2.doc.zip [6f99dff2835aec2aa9a30f302043731cef49e7b777925003415611ba9812c78c]
-│   │   └── show-u_4.dot.zip [729e4a5c1565eef1e4b7ee8bb57ba1c8d03175849e35afb76f046d5b422ab236]
+│   │   ├── show-u_2.doc [b646f480869df49ca1ce132774a5a83270b6f16e4e39e60911a010d3e923e096]
+│   │   ├── show-u_4.dot [a958c2b90b5ef283e3998344be8988170d12e90ec89c54adb2e7cf643f7cfa4b]
 │   └── w
-│       ├── show-w_2.doc.zip [e3a7c63bf2ba3007af5799b88ae21a68024fe4a86f7560e1b572d6759bcbefad]
-│       └── show-w_4.dot.zip [f3bac82c92e42f757c10c62d599a47fce8fd047c4764db9f13da027272b068d9]
+│       ├── show-w_2.doc [19cab4a6aa3e20ec92d8ce0f7aad2da5898eb114286e04abca4be070b80c7047]
+│       ├── show-w_4.dot [2018c32b9c9065e6fa871957757edadbc5e615141cb7ac20f100a5ada6b76e46]
 ├── shuffle
 │   ├── a
-│   │   └── virus.msword.shuffle.a.zip [a332c4493ff0860201bc690724086a09c05658e5d9240b1cf06f9d10be686872]
-│   └── cyberpha.doc.zip [5ef68bb55a57fd8334046f30f4bbbd2b72b1273bc42235bfd819396e8f31e396]
+│   │   ├── virus.msword.shuffle.a [3f42f4cc44bc38f209d4867a159edf79ee634ed73498f73828a1a78746334c2d]
+│   ├── cyberpha.doc [176e63693b1e4c77a260edd888e6391495363009d239c1a11d41b0bcfea4e598]
 ├── sidor
 │   └── a
-│       └── virus.msword.sidor.zip [9c9373f2a6305160722f154bfde0468102345f7dddde85ffbcf1b3a0f9450648]
+│       ├── virus.msword.sidor [4d838c27c766fb3bbf014cedae753b0e275f82b3352c77d0a1aa1590535934d4]
 ├── silly
 │   └── a
-│       ├── sill-a_1.doc.zip [b921e98f7bd75402761d44d77fe530af6892e9a44bc3d1a38c73bf630c8814d8]
-│       ├── sill-a_5.dot.zip [2ab529dcc27cdf22a7acbb2447f0e54defb219d9ef6ff7f0700d65922e60a084]
-│       ├── silly-a.doc.zip [3b700ef1990915cb9c2bfe6439767bd8a9352f455cb230d9a304c136169d9c9d]
-│       └── silly-a.dot.zip [57bb244c9a5f497a8c965020fc12a2d30d99442994c65250e8ec53ca59e48db8]
+│       ├── sill-a_1.doc [045c24b00fc87603fe6e87dc5be6ab7535fc5d40e143bbe5ba98d08817374f21]
+│       ├── sill-a_5.dot [2c2204617985203c8196754e2e4dd164e2659e1361f8e898b70654c861bd39c8]
+│       ├── silly-a.doc [6435a536cb6bd0b0d38eeee624ddb5e3baa38709c6fab81f47db75064189a97e]
+│       ├── silly-a.dot [663ae31395501b43bf75671af49e2554ec77b2734e12e83c28e759a50c65719f]
 ├── silvina
 │   └── a
-│       └── virus.msword.silvina.zip [8afe6f360c989825f80885f34ea93a6893fcde00f36f8c4e68d49c26eccaa5bd]
+│       ├── virus.msword.silvina [7045a743b7f145b3a9643269e235be695d8f8fc05ce3f1d1d052a538c32ac257]
 ├── simple
 │   └── a
-│       └── simple-a.doc.zip [7fd15f3d7e9e3a67c7d2f5cfed42bbfcdf0986de7a44a4c340fe6a99fb4d8cbd]
+│       ├── simple-a.doc [ac45b56fd24280c0ecfd8a515991405dbcec6b154cfbb5b872c0de019e683dd8]
 ├── since
-│   ├── since.doc.zip [3165da576c5ee7fff9795e64bbe137a8f17ee878352086d1681c421d899bb367]
-│   └── since.dot.zip [09a502c6461c8cdd99bfb60037a27c5cd02fb7ba590fa75a2a7b9d482172fe94]
+│   ├── since.doc [d5a88f14d163bdf97a5b5442de349cb2d62c380fb364c519bf626a9a9189769e]
+│   ├── since.dot [49ce3fc67984b1e3522521d53d814ae962dcffb7bab2cdb03b9b8e498c225832]
 ├── slow
 │   ├── a
-│   │   └── sldict8r.doc.zip [cfdf17b88fff6d6bb7150b33d00753bbdcc713507c7c1959f4fa2f8bcf9f4d52]
+│   │   ├── sldict8r.doc [1e25e2276ae771070fad67a95b774c7f931ad23169a19908bb4706f77b4095dd]
 │   └── b
-│       ├── sldict_b.doc.zip [26dab80824b77a4d27ad168d069bc63f6b4ad57ae8b7a8bab558056ba2ca6fd2]
-│       ├── slovdi-b.doc.zip [d4862ca1af5cbbe3aa39cb50516d5f0fe017b86620110400e5c07e07d732f628]
-│       └── slovdi-b.dot.zip [20b63b7be7535268b8c313ea3e9b866fab9b1f989e79b118f03021e00d5db7ee]
+│       ├── sldict_b.doc [7bf49f1cde14492794472d02ff807023ebb6b0696a241acade2360c1a1edf6ea]
+│       ├── slovdi-b.doc [ff2235a55fd9717297147ed3be5122d0e3748490934b6b37d6f5a5ccf3d07f83]
+│       ├── slovdi-b.dot [d3801fdaeee187952b97a23fba5afeee3e600084fe9625b5e1d002220a315854]
 ├── smiley
 │   ├── a
-│   │   ├── smil-a_2.doc.zip [63f48600d033fd2987ee0f76adf276ecf2b884c753119c587dd16186ca4fd6ed]
-│   │   ├── smil-a_4.dot.zip [81dbf87a4133e8f1fad8a3f06229a1f322895f4b720d266d989e41b60b3d4655]
-│   │   ├── smiley.doc.zip [485120f8d9425897be31428a7168008bc6481d4133c254fbc5021176199d20a6]
-│   │   └── wci06153.dot.zip [4f8da4134efb13af461d37b3bf19d4cbced3ed97b63036e6f735b13cb003d063]
+│   │   ├── smil-a_2.doc [8ef7eb1c20c5e7f4b7268b02811735cfd6f561f41b392b97e57fa829f086d407]
+│   │   ├── smil-a_4.dot [8d3225fbccb12315677a41c1681ce8d6d7400c556c84267233dce9401e727794]
+│   │   ├── smiley.doc [b846a72f2f901047042c017a467eb80cffc84925456647e56d8799362fe13645]
+│   │   ├── wci06153.dot [6627e7cae7503a2bdc848bf513994e43570864c3697d0a2aba29bbbdcdf3c050]
 │   └── b
-│       ├── smil-b_2.doc.zip [a709c7bf36c5f62f043813e064542eca5b23d129673802fc7b6bec253ba03e64]
-│       └── smil-b_4.dot.zip [a42f84b32a2eceaf64e2b5b22c6bb478e8ae6fd938463226d94ad78374cba87a]
+│       ├── smil-b_2.doc [34ae19c3dc4a70d2a680598dbb12dd4f5175f618e672f5413a197ef58de9987f]
+│       ├── smil-b_4.dot [ff058bb295cf6111212fe98e8aea6dc4ed15da4c9643158a9149cbe7a6ca84ca]
 ├── smmd
 │   └── a
-│       └── virus.msword.smmd.zip [9762a7e6cb00e40d29ea0448424da30d7fdcdcbfca1e31ca963fabba1ec8460b]
+│       ├── virus.msword.smmd [dfd89d3dae829321ffa3e7ddfe2bcd565a82e16b51aa11fe7ecec7ae88e213b9]
 ├── snail
 │   └── a
-│       └── virus.msword.kiffer.zip [8a1682cf32d5ba78e08149169c95b6688d06a9fdf16ddfba9cb078645e91ac96]
+│       ├── virus.msword.kiffer [c908ae454dd0b9888767577f80ad077ff41c1659f77cedc44609c7cedd234340]
 ├── snickers
-│   └── snickers.doc.zip [947abf1db9ee8e70b16d6702d712cdd7374b4238ab9eb86adf56bfde3190fc09]
+│   ├── snickers.doc [25e16800fa6a159f311b3acc03d5df77bf3a76d1bcb147886e9eccf4da3c8477]
 ├── socks
 │   └── a
-│       ├── sok.doc.zip [e02d711a49cec94983be87b23d87ed4c54acd4c1eed340396fa4ddc5c52ff027]
-│       └── wmsocks.doc.zip [fb95128c67bde93d844dc9f9eac22cd87071b414b593c7e8a406f886e183380b]
+│       ├── sok.doc [40a41a6b21f3b5b89217a99d8e9a1fbedf35542561f31798e76b206e54ad66ec]
+│       ├── wmsocks.doc [60dc0e823dd0812f25729c26f62cf695ee6c2c91af41a2ce267e12b46937444d]
 ├── softwar
 │   └── a
-│       └── virus.msword.softwar.zip [dc2501a61876e88035965a2da92cd388e4ad6f9066de151077a979d6594153da]
+│       ├── virus.msword.softwar [65db6f73768caec5265c403738300fc0ea79dcfe7b0ebc361807b8cbe706c0d0]
 ├── spell
 │   └── a
-│       └── metallic.doc.zip [f443d02f4bcd06bc3a574041b09546a0bdfb2ed96d70c508650b2a52d121c4e4]
+│       ├── metallic.doc [858dfba0001970de386152dbb04a454c52b3a38f78824d6af47c9b60163e208f]
 ├── spiral
 │   └── a
-│       └── spiral-a.doc.zip [aaa3fd5d2f642dca467407ebba6b18ec1ef7b2e97b325a3b38ff74f873228ecb]
+│       ├── spiral-a.doc [3d9605471c8ec25a5aae9409d8ee211336f2aeaed48ff8c49a219962ffa2dd4b]
 ├── spooky
 │   ├── a
-│   │   └── spooky.doc.zip [60962ef87c8b53caa8596757cc68de01ce4a85841911ade8ffcdd225cac365fe]
+│   │   ├── spooky.doc [a3c3438e7872c73b487ff71a647f8a38a4a3c2cfc98fcbf1972560d0d77a6ef8]
 │   ├── b
-│   │   ├── spooky-b.doc.zip [ff5f41ca3effee8980a7ec674cd0557f7c0cc96d5e13389837a318687960d2a4]
-│   │   ├── spooky-b.dot.zip [c292c44979dfe617cc4a95b952b9b261e67eb1223140dd3416fa54e2b0fa998a]
-│   │   └── word_spo.doc.zip [3e8ba86fa93dc82b3db142f91c4e1492ef32f65c15130fdee29025dcca803a46]
+│   │   ├── spooky-b.doc [548a2070dc150a8ef2e77a929120110dbb43861a0b695838d633742d9e0d1875]
+│   │   ├── spooky-b.dot [9903fc37204afe507028ebf4b4909d3cfe83078010a64d1140fd8e1e1f2b66be]
+│   │   ├── word_spo.doc [c90287beffeda371b52d21d18d98deae7f286f04da49fa3df106c725fde33cc2]
 │   ├── c
-│   │   ├── hackers.doc.zip [7eed4ad7ccf45bc58f43a8b805980cc7a18d3f247e47601a323421f2fbb3bc18]
-│   │   ├── spooky-c.doc.zip [42a91a52c1a30f2229d647c89efa1e8b966aae3ba38c8bff0645f9e12886836c]
-│   │   └── spooky-c.dot.zip [9fb5a541e7e3b32d69efb7bd3b98080e27b274d275dfa17faa895bf048a81c71]
+│   │   ├── hackers.doc [7354472774a222013c6b755a5d0fd530b9f7bcbe2f0afca92ab39bdca64ce010]
+│   │   ├── spooky-c.doc [a20cc5d2eb32abe4009dd8a32966e95e43ff6bf468a2f1b16adaa2f6a7274fd0]
+│   │   ├── spooky-c.dot [205ad73c919a4f4e2beb965e286df4175a7af86c3f0aecc811a332757532e910]
 │   └── d
-│       ├── spoo-d_1.doc.zip [993cb4f6e44ea11362e1e78f9f4b0c83a9f1c4c7d3344ae703424b246aa17be2]
-│       └── spoo-d_5.dot.zip [d9a2345b6728247f3913ea659e333bef83e441904d52938d041d3d10da3a402b]
+│       ├── spoo-d_1.doc [d6b116e338551b05feb744b249dcee58e60d349fb10efdc5df19a8235d4f1cdc]
+│       ├── spoo-d_5.dot [5e4811ff87567b8126d5904e0d5a4053d58919bffcc543cce39db3e469061111]
 ├── spy
 │   ├── b
-│   │   └── virus.msword.spy.b.zip [44ecabaac24a5833625f49c798643b1fa2da76065bb0654dae56bcb0f3bb8001]
-│   ├── spy.doc.zip [9becb7d8ab8db1e134ac67ec54a65f4a404458881d92d3f19be2f501fd81d6a5]
-│   └── spy.dot.zip [888265876c526de1810d29a617c92e4a8872dde6e2f2d623bbc4eda680e5798b]
+│   │   ├── virus.msword.spy.b [d072ca497232cbbd75e350bec9ce182c60bb5bda7e58c133f2a7acf8eaf59fa2]
+│   ├── spy.doc [691e0f95ab8517aa8a8c84346a803f6d4d18c73cca183009609e8983a38de7b4]
+│   ├── spy.dot [dfb1661335d6f726f874db0430ab339e5bc165a7cedaf656a052adb4cdac6599]
 ├── stall
 │   └── b
-│       └── virus.msword.cristall.zip [d2430af1053d2da6f9e24f2c73e42f6fab202c55525705b15f04deb3900f4b1f]
+│       ├── virus.msword.cristall [9652d90c7d14275e08e52b49d8d0ec60ec11b1641b765ae8eedd8957a054edd7]
 ├── strezz
 │   └── a
-│       ├── strezz.doc.zip [fd2edfe040317422bc66d04f0cb7b2a3886cd5327382af865726f83a5dc6f367]
-│       └── viruz2.doc.zip [1a35c17d89bb1e669a34c56309f81a7a64cf817cbbda5c6cc774feb390683099]
+│       ├── strezz.doc [178e26fdf03670be5f78dd9b147b303bcee7cf70dc869a4bea29d76c44ccacad]
+│       ├── viruz2.doc [eb75fef31cccb1741b02b032d118ec224a3ef7f544eb2a716417528fb2c32464]
 ├── stryx
 │   └── a
-│       ├── scanprot.dot.zip [b97543bfe0aa9c82909702cfb76dc6f9c920d717adfdbc016d37a8a302ce6ea9]
-│       └── wci06163.dot.zip [1701d7b4854c870e7f1a6a1b0b787e5b1b6e0c5b16973bc7530693f3f70d9359]
+│       ├── scanprot.dot [5296ba904647355f5d535617ce7cd05314d765aa1e682fcc54e60458925e65af]
+│       ├── wci06163.dot [1100335c207eff03de9a679c1e1d6bdc6d177cef08fcbdef21222530dcd17de7]
 ├── sunbeam
 │   └── a
-│       ├── sunb-a.doc.zip [ad95def2ea456b2b7acc2943123788dcdd59272efb685a99a6c952d7060e3f96]
-│       ├── sunb-a.dot.zip [e889aafe0e11f0c04675f12bac3b6956cbd68d3ba7524ead371cfe9df38d3ecf]
-│       └── sunbeam.doc.zip [3b82cb2632845d1e47cf472472f68545037692655f2e9f05d51f0495defc4db1]
+│       ├── sunb-a.doc [de4d705b2321b8be8d23fe7f72d14ec19bc5b9f118bea4223279f4795c5b52a0]
+│       ├── sunb-a.dot [471cd7a90b182d777cca62aae23a76dfcd853b975b820535ca36cc47dc455321]
+│       ├── sunbeam.doc [d50750aa1d7a9a3702cd92c7cc1af3e713fef60b63930beafd3f83d7eddf2c22]
 ├── superstitious
 │   └── a
-│       ├── fri-13.doc.zip [fdc2b1e7e9caf27b87f8bd7b0cd177cd65944cfc6de23703401a2d31fc20e50c]
-│       └── fri-13.dot.zip [8f84edb6a15e94974d647b1f0921aa54191d3bdfde528b7164d8cf51d91a0dc5]
+│       ├── fri-13.doc [6e5713d5167e1c2917d3028d87408fe033ca2a6a9fc6582a72bfe58505fca5e5]
+│       ├── fri-13.dot [233c59281ba7feb1a692bd7a88a4f7b0595211014953d41be5e36defaf0c0263]
 ├── surabaya
 │   ├── a
-│   │   └── virus.msword.surobaya.zip [2bbec5e454eacad86868d1cc049b2823d8b77d01485c371528e9e9db95e7d68a]
+│   │   ├── virus.msword.surobaya [e8045f5f91f43de17db225a58a4530bd0d3fbfdb74c408238dcfe651b5961214]
 │   ├── b
-│   │   ├── sura-b_1.doc.zip [0fb2e3f58eacf1b90eed85b8e609b928f40a6e9acc7b201450b22a15f7eb56e1]
-│   │   ├── sura-b_5.dot.zip [0dc6870548e9867e2757384d1d93674aedf27c13be1fc9c6070189269a1eaf54]
-│   │   ├── surab-b.doc.zip [0c49f73b254396435645f72b26d6f0c5eee8e5540aff41d0baca2e60b0ac0e14]
-│   │   └── surab-b.dot.zip [52844b8379ed24429aa970ebf0ead3de60711871def83b27556f218b7e869dc1]
+│   │   ├── sura-b_1.doc [8d46536278b990971a6681e4bbdc19a84e2cba5bd804aace9a795980c0377e1a]
+│   │   ├── sura-b_5.dot [118eba7770747b86b8361afde0de394579d2cd14c876ec2b0bdd7be144215a0e]
+│   │   ├── surab-b.doc [12937e5c4b4028d825d67652cd4a4c5b74f90fd9ab25970b9d761d1052fafe85]
+│   │   ├── surab-b.dot [33e0311b952094b1c739c00c98671082e6fdeab8cfff461b54def43acf6f6cc2]
 │   └── c
-│       └── virus.msword.surobaya.c.zip [a7369a40581b34f812b57020c55f56a62df64778535762c5e8f0cd5fb884de10]
+│       ├── virus.msword.surobaya.c [0339df2824b28c341899aa0632b2dddf6af808d36a1766880163522cf3f2ea65]
 ├── svetlana
 │   └── a
-│       └── virus.msword.sveta.zip [03346871aa89286fbd956ac9c1e63c6730434c019485d902ffac883a1544dbe3]
+│       ├── virus.msword.sveta [c2e2ee81e691c8108ca8e22089d9f708d87bf5381412044ca81550b9f99af843]
 ├── switcher
 │   ├── a
-│   │   ├── switcher.doc.zip [9106c6b992bd3c6fd401af6598b596a1c038fb775b2a6c805687ea6e2d5c259d]
-│   │   └── switcher.dot.zip [b0de91a8ae6eb19bcbc87f6663fe7aa8885a7dd821230b975263a7ea14db5915]
+│   │   ├── switcher.doc [54610be449eb8512852e2a8cc04cc72b0e252a107d54ff4089e3a0747db044f6]
+│   │   ├── switcher.dot [4b43f71d18224c3a4ccb2eee4b3583d9719cd646a95dec672404b691e84b6fb2]
 │   ├── e
-│   │   ├── swit-e_1.doc.zip [257e70390906aa5438c429226ac265cde92216eb1b2feae4be0e311cef790371]
-│   │   └── swit-e_5.dot.zip [2b930d9cc209e06884695a90cc53a7f67948091c5aa914ea054f0761bf84f43b]
+│   │   ├── swit-e_1.doc [7bc9b0ed534862eed84d439faea6aa3eab779475b96f7bc7518ccc2776a7c2f7]
+│   │   ├── swit-e_5.dot [847c6e66eda07c6b4a2d3c662edaa6693e3cff39dc250a403bd3d59feee0b865]
 │   ├── g
-│   │   ├── swit-g_1.doc.zip [a0f4eb4c49b7772852e487928434acd0def48edb4c6baa1f0c38d65bb34bb981]
-│   │   ├── swit-g_5.dot.zip [6895bf98ce085925eda188d0d8be194509265cd6aeda7d713f67479b3eab7d36]
-│   │   ├── switch-g.doc.zip [8407a251c34811d339e46b6540e672dc74cbc0df4d46b6e3b12d85bdec7d4245]
-│   │   └── switch-g.dot.zip [f797858819cf18dd3360006f2ea5808216298203dda53f8883f172691827820a]
+│   │   ├── swit-g_1.doc [ef7a6bd9927ec2d6f52241b6e3cb6ac3a19f08359bcb4ef234b80776fc71af30]
+│   │   ├── swit-g_5.dot [52cac02c79d2aa2696d5b533fc2522d5ed73e70338dcf06682a1d075625c2bc9]
+│   │   ├── switch-g.doc [0e30eae85f579a1e1b84baca578b820110d9274d66140be7388da8d44abdaa36]
+│   │   ├── switch-g.dot [c868dd491141648dac4f769a38d8e615bfb2b9187ad3a931da2373dbbed8b445]
 │   └── i
-│       └── virus.msword.switcher.zip [0d636f0557b5710a39a1441faf5cdb48638454682b0235ba520e7d3da97c825c]
+│       ├── virus.msword.switcher [8cb6e3cac0ada6d14601f6092e95f34fb50f2a8043915a9a91c3eac49e7fedfc]
 ├── swlabs
 │   ├── a
-│   │   └── skam.doc.zip [2b5dcaf8bff2ab58a519b1c4b956d31ec7a000706938698e8a4f354c80ac91d4]
+│   │   ├── skam.doc [88e05aefb190c2cd2abaf8dd5ebb1087887984553733251c73e04f3da2217542]
 │   ├── c
-│   │   ├── skammya.doc.zip [94e6abfc2b5ae34d301035b69b7b32fa0d8bf62c3c17ac4a46198f5a0e4ad6c0]
-│   │   └── skammya.dot.zip [c7f7ae0b08eab403d4c22919a4a69d4dd66f5b8ae8c21ac3c57cb381c615e9bb]
+│   │   ├── skammya.doc [2733b897c031adf975b49820d03d62b408ea10b66bd4f9b0375b90e9dd457d82]
+│   │   ├── skammya.dot [3165fae086cebd62302a19b824260fc347cb2afec60c5aa399632faf3edd568d]
 │   ├── d
-│   │   ├── swlabs-d.doc.zip [4fd9926aad6a7abeb1545b5837dc3b4f8a177ac90fb0944b64ca9d75f2890b44]
-│   │   └── swlabs-d.dot.zip [92d3f0abd5e8d50f7a341156c5c3445caa61931a94a34a9b3812f0f1f980c991]
+│   │   ├── swlabs-d.doc [2e652eb2a8431e81bdf2f202bdc7ac7cd1589f0aaebf973296149f56b3dc80a4]
+│   │   ├── swlabs-d.dot [0390eafbaf3f282560d7b7c5169542004582ea74f63f8d9b71d2a1da8b1ec3e3]
 │   ├── e
-│   │   ├── swlabs-e.doc.zip [9d95342b89f85b6c594273063a913e1841ac9ab4aaeb827218cc889d1f36f82b]
-│   │   └── swlabs-e.dot.zip [6db4256de70e5e65bda6d687e287a8423316207e3e2462c1c6a918e73f0dc437]
+│   │   ├── swlabs-e.doc [74c9d2ff206cdce41dc4c8f53b68e6215db860b555d95346ed49f8ae45acc8d3]
+│   │   ├── swlabs-e.dot [c0fbf08776f5d114411cd856d40d8c518ebd43bc751e6e995a9d88422186600a]
 │   ├── f
-│   │   ├── swlabs-f.doc.zip [06cd9928626bb8a13001922e23136d4bbf7f0d06750c8daa415955b3a803a7c9]
-│   │   └── swlabs-f.dot.zip [716cb282304f702eeda5511a807aeb711a7e3a5a1dfccec342221b81b0ef0695]
+│   │   ├── swlabs-f.doc [ae4a6d42e1be7261ba06098dd4193e4566ef6d00db29e7ad6864a8c056d8a972]
+│   │   ├── swlabs-f.dot [d55af6794fa36c43b04528ec42faaf11b67fd84580a1ff6e70a796c393c8bff0]
 │   ├── g
-│   │   ├── 15tsex.doc.zip [2bb6cbaf336394ebba5c2da0f7f09ce9df2aa811c878f4b9c5b66533014c43cb]
-│   │   └── 15tsex.dot.zip [5801ed23d49338a97345c32cee8ca570acc601c1db1f0e1911ec44b8f112ba3a]
+│   │   ├── 15tsex.doc [5e7e0357ffa9e8a34d585a3f40e6a690eef6a1ba641fe2dad132f0e3858b37ef]
+│   │   ├── 15tsex.dot [5145f5851a5d73a914c43a6a09963b68394979c8746e98bfeb1e67a55d25135a]
 │   ├── h
-│   │   └── swlabsh.dot.zip [7292fd2e3d87995768a467ca528a362ed8ffa67e01d956cea3fce3d625c8df2f]
+│   │   ├── swlabsh.dot [a18ba3170ded55df68909c252e83c25a8e2463b3738deec0cdc17e66def5bcd7]
 │   ├── i
-│   │   └── swlabi.dot.zip [57c67e6fbd2e203ce65554f81cb2a9849089888874b1e563e76c8891d85c58b4]
+│   │   ├── swlabi.dot [fb4d4fade85d0396eda09ad46aaf84207359738efe0978287c116c46965ec751]
 │   ├── j
-│   │   ├── swla-j_1.doc.zip [b8efbad532066c21be342b054989f219bd02aba4cd5f6bbb261b01050b025f5a]
-│   │   └── swla-j_5.dot.zip [b86f1d23785c19880ec44da702f8a8813ba99b59d86748373aeee971f1db6ace]
+│   │   ├── swla-j_1.doc [2a31e1c78280a7c124e6b3e0ee1683f3940486c69212be716982a0ab7926a718]
+│   │   ├── swla-j_5.dot [2238b6d171562a7fd6ea5276a96af6caaeb91ecdb7d7eca1e1959c0a13ee0888]
 │   ├── k
-│   │   └── virus.msword.swlabs.k.zip [8d2fc420da07a55a1e5d73511690816685cada8a3a56502294106f4d41a77f6d]
+│   │   ├── virus.msword.swlabs.k [81b4bae13f6fe9a2becac8673a0cf699c9d808115e0b607091d84baf6e43ae67]
 │   ├── kit
 │   │   ├── 1
 │   │   └── 2
 │   ├── m
-│   │   └── virus.msword.swlabs.m.zip [c859fd2afe0ffa76cdcebd4fe8e6eb55813e39691d49ca9bd8d41d3c07743df7]
+│   │   ├── virus.msword.swlabs.m [2cfb0e149b662ed587cb57702751ea873f54cb35e690ea39f276a7182707c93a]
 │   ├── o
-│   │   └── virus.msword.greenbay.zip [ac793cdaccf89c0054275f14ad5bf3ff80e3358d99bf76fdd28348bcefb8180d]
+│   │   ├── virus.msword.greenbay [4436f0b4eb5f287fb50699fec4ba88d1a8fefd711161e232964887e3fc5f21d0]
 │   ├── p
-│   │   └── virus.msword.swlabs.p.zip [1436ffb512b1b70e19d1edd1a9aca310917145e4ad7bc2ca98cb721076e1a42a]
+│   │   ├── virus.msword.swlabs.p [24b0a3b3596232dd4321ec014b22b821f15f8222987fb38fb88be044f1adf575]
 │   ├── s
-│   │   └── virus.msword.swlabs.q.zip [ee6e47e4010263099b603848eeff0e6840cfa505f1184f3d81f3add852637284]
+│   │   ├── virus.msword.swlabs.q [1bb024f5ec1bad6dd5d65eea730e8e7e729555e9b557e3f8ab5b97ceb8bd24dc]
 │   ├── t
-│   │   └── virus.msword.swlabs.t.zip [e440fe43cb7e44a9d7fe0b5c2996cfc23fd1ebbf6baeff0eabcbdb0c74184434]
+│   │   ├── virus.msword.swlabs.t [b3213943079065d58c5c2105dc66a99325397ec0b3b32c55357cac17557ce19b]
 │   └── u
-│       └── virus.msword.swlabs.u.zip [8d6ba4ac9ddca9883694b0cbbdc4e06b3de538bbe3ed13baee05f40ed2953e36]
+│       ├── virus.msword.swlabs.u [7dcf20f7838b7705e1a01d08ca69776cfd0134bad5c0c964a542dc7c01280592]
 ├── sword
 │   └── a
-│       ├── swor-a_2.doc.zip [d166a7256c31750b6174b2c91821c0df786cf0ffa870a4fea2a602862ebe04c5]
-│       └── swor-a_5.dot.zip [9bb54d6160b332d995fee9dc92d6183fe29901d855470881f3bdce46850b262a]
+│       ├── swor-a_2.doc [64558bb4cf4f70eab18831fd7f8a2efefd042b12dd12e2208c9f91164e77f62c]
+│       ├── swor-a_5.dot [b42b593830ca8582501a25f31f8a21b9f19863e6e8bc86dc22e5965d76f887ad]
 ├── tabula
 │   └── a
-│       └── virus.msword.tabulator.zip [03aff24b03d8fcff2f0a789f4c08b3d87c87fd8aa4b59ea05f97d6e93b72396b]
+│       ├── virus.msword.tabulator [5b098bb0552e6dd827918ce465a0d7a58af4735b7c824271cec7d44efe8a0980]
 ├── taguchi
 │   ├── a
-│   │   └── virus.msword.taguchi.zip [1959b93dcfc1487d07af54ec507795d69c72b6c46bd4e469eacb038de9f41198]
+│   │   ├── virus.msword.taguchi [c76fd95bc7359cd1d318b3ca9906d74e965bdfd3362bdf6f8467f8d209660a32]
 │   └── e
-│       └── virus.msword.taguchi.d.zip [2d22c335b42c1bfde03f33d4e55f3763cfaeb63858066191b97457d66eb97c62]
+│       ├── virus.msword.taguchi.d [f398f9f3d1e18faf7336d1fd66a8fefd5eb73e2e85e1abd56053df6339b5aae8]
 ├── talon
 │   ├── a
-│   │   ├── talon-a.doc.zip [9a03512e3b940c1f7cb6dc25efddc8cf61d2e1ad9d5aeeacc8573558dd82a64c]
-│   │   └── talon1.doc.zip [7432fc31f4ac9dbbdd5cf7491659091f6c51bc1b871302e6bd007433055db7c3]
+│   │   ├── talon-a.doc [d040a225296e1e4d0a27234350c9ea82396511702847366517812d71c4ebed9d]
+│   │   ├── talon1.doc [e10b8693caa64be2fe56dae8623dfef6896b3147b9fecd80a84dae3c0d956a29]
 │   ├── b
-│   │   ├── talon-b.dot.zip [a4a62e9a4ef7cb224deac4a679aa0dd1665973af7da8e26f06b8bcd3b9f40f20]
-│   │   ├── talon2.dot.zip [36b1d4e92d0bfbcee7e29049420198797886459877172a934d1ae0c0fb4ca9f4]
-│   │   └── wci01773.doc.zip [236527e6bd2806f87df8796f4274eb2df0ced9d2281f4858f8efbbe97405381d]
+│   │   ├── talon-b.dot [3e5b0ec474f776522d0963e9bccc85d78c7e099d8849113b752b4f333bb0f0a0]
+│   │   ├── talon2.dot [5449bcd5f83dcc9715135e10efe5164c45c82741887ebbac10106ced3746217b]
+│   │   ├── wci01773.doc [798fb912c188be056ff5dfeed5c87edfc541e54fc3f80c82a02a17330f5e6d39]
 │   ├── c
-│   │   └── talon3.dot.zip [35a2450fd62bb7ab6fbcce46a5fda77f4e993c970111e8bd3e97213ffa7461a2]
+│   │   ├── talon3.dot [0f4662c6733a4c85075c6d03a381c68fbeae1282e7bfa6144af8505f248a25f6]
 │   ├── d
-│   │   └── talon4.dot.zip [1d2a0c6dfc31becb705bc980722c584ad8d8274f140aae729351514f42513ede]
+│   │   ├── talon4.dot [420e7e74ed93cee70724be1b043c62612a4645e45c03fc16c968103357a63d21]
 │   ├── e
-│   │   └── talon5.dot.zip [d4bfcf03999be0bbf6d3ccd43087ed96268a781dff823ff2dab0146f8757b634]
+│   │   ├── talon5.dot [9c47fa8beb4be24f1e7a67e97b197f9e56f5e04bccca5bea3e2024ebf9112e4f]
 │   ├── f
-│   │   └── talon4.doc.zip [4c68b3355ff3ba6ce48ae3553701369ca2d3dc15c576221b72f63044f4f7a730]
+│   │   ├── talon4.doc [48f32ff3741f071d2b13917faab6dff12de681a713aa1faff3287ab13eef1bad]
 │   ├── g
-│   │   └── talon5b.doc.zip [b353840067f1f553270be47b63c3f83b267b7fb8bc57052c748686da6c731453]
+│   │   ├── talon5b.doc [f9870e079bfb79147aa5ffc0cef8f68651e6d1fa24a8593641a2d23c9eeb7751]
 │   ├── h
-│   │   └── eifel.doc.zip [a41fcffc53b08c9c9f2d31d3cb91a8041ad9bd2c82c215d739aeebe19ae3d87b]
+│   │   ├── eifel.doc [61f23d46717b16274d0d1da59ea46436fd32e948a3e6bac777cf7d85e7d215b7]
 │   ├── h1
-│   │   ├── talon-h1.dot.zip [6a7a24c2bc53489021eb2bdfa0f809f61a00751b9c1186ab911c68489e7fb411]
-│   │   └── talonh1.doc.zip [408bfe5d7b8e4bf18038f6cb971f0d20cca6f4644cd3fe7bb34b06338f110f8c]
+│   │   ├── talon-h1.dot [753372b0c6e4b95866e9b1a1bf8896635589b585177305bf38cdc99d9bdd1808]
+│   │   ├── talonh1.doc [6ef33987e6703a8c93df78adc677ff40274ed26608a07b90f5144b69c039b26b]
 │   ├── h2
-│   │   ├── talon-h2.dot.zip [cf649a3487fbd3b7de35847e2aed8bd42eec35b43dc1d45ef10a8802639af71a]
-│   │   └── talonh2.doc.zip [c26c286b01f610fe0a204e604323829c1e8f7c1b9cd3bac26d9c9638daa4f389]
+│   │   ├── talon-h2.dot [3dfd3c73cb890e0080ce587e3fcdf069d196a6795e134e030b822cb4272ebccb]
+│   │   ├── talonh2.doc [c8d7eb9d204e5cbf0e4711210ce54084aab646fc01f26ab7ff11440e44d49ea1]
 │   ├── l
-│   │   └── talon-l.doc.zip [6b4aa498162f71a1f75c2c178b81dd0f74790ecfde3361824f7533e41dcebcf3]
+│   │   ├── talon-l.doc [b9ee44a9074612c3aa295e654d250c33c29967dcb8bc4a7c5c4685f7d377eeec]
 │   ├── n
-│   │   └── virus.msword.talon.c.zip [a62badfd6421b93ff31f5b7bcc15a10de20baff6b466f50aeb3cbe5cf683398e]
+│   │   ├── virus.msword.talon.c [73ebe1e67b243977aa550c29f7b6eb7d8d7e49b4546b43fb63acbcc8bdb733e7]
 │   └── q
-│       └── virus.msword.talon.o.zip [da51b9bf31c874be2f3da68e1f0f4dffb4284362f751c30773f3252a2f3aed1e]
+│       ├── virus.msword.talon.o [e2bd733eb3e76b8d3d60a8ee759972f2bfa274c926066316150d9ed0479f47aa]
 ├── tamago
 │   ├── a
-│   │   ├── tama-a_1.doc.zip [e9a8d32c23e6ba5bc53c3b9e523fdf48aeb00969886e5a3e093a5e2d8b6238f8]
-│   │   ├── tama-a_5.dot.zip [dfe798b716ef183ff877062469c4da33e59cfc33a02836008b91d557d93976ae]
-│   │   ├── tamago.doc.zip [c1742e875d87aa2929345f841c2fdc9be378a1a7c65c636140b44491978c99f9]
-│   │   └── tamago.dot.zip [34237f91c9407bd97e8618f820b639aa7098c303a3237ee96b1391851ac6af62]
+│   │   ├── tama-a_1.doc [a28ac68261f46af3ad5e665d602c4c61a47ace4360886b151cd7c997eb9b75b0]
+│   │   ├── tama-a_5.dot [2a985a1c80929a4f120fbad6042957132d90ef82c99efe4c007cfce610e3f206]
+│   │   ├── tamago.doc [a49ee27977791d6c403bebbd2e8029ffc27b30e86b965eef9dba8a1c06117f98]
+│   │   ├── tamago.dot [e3d3aabecf831fba62f6faee1d538997abcf5077fdf3b5d97e152b9e55ea6641]
 │   ├── b
-│   │   ├── tama-b_1.doc.zip [7bea4ee0917b95f3da4fdc04361a1f7c6ed9f31ca568955edb4e3a506e7783fa]
-│   │   └── tama-b_5.dot.zip [1ce223279db182800a32d25bafb971954c4d87c749576ca5cc1798b0029e7dd9]
+│   │   ├── tama-b_1.doc [3fe1749eb8dac5b5978bd4354de54f3054db85475657a9f316d7c63900b52706]
+│   │   ├── tama-b_5.dot [e9601fbe296d607be212c919b173d92f7110a51591280bf4bab0d156cfe8d84d]
 │   └── c
-│       └── virus.msword.tamago.c.zip [a3aee9110e6abac74797b7285fb854d2f2f7591029887b7856a7206ba4c47a0e]
+│       ├── virus.msword.tamago.c [a3d9be5711120e89fe5d77632b149fa359cce954662a6b5c5e36f121a524e70c]
 ├── tanjung
 │   └── a
-│       └── virus.msword.tanjung.zip [f2cd55f779d71ca11913bebaf87274e8b1e878aa0c122032344734acc3d1f317]
+│       ├── virus.msword.tanjung [fcfeef80e61ff58717afb6044b681f92e1f84708f8be2a4bd1df2701502a8b81]
 ├── target
 │   └── b
-│       ├── lone.doc.zip [fc88cf0db7ed3424cf090f0f7d6a20a4477bf38c98cecaa966984e394adaae16]
-│       ├── lone_d.doc.zip [72595f2d1392d3d0d89d450756068948c2651f075f53fb630eff5f804ddfa9fe]
-│       └── xxx.doc.zip [2c5d32bbb1a0e99d4aae31116b5973d9800b3239f96140b7bbb833dda3a02dc5]
+│       ├── lone.doc [4c2f8ac419a19804c2325c3175b4cf6fdbac694b5215da7bdd8edaeb67dfc898]
+│       ├── lone_d.doc [9561e59b81c53cb3b7b7dbf8bbd22ee20cf601caeac0eadd5f9613a3220fc25f]
+│       ├── xxx.doc [9561e59b81c53cb3b7b7dbf8bbd22ee20cf601caeac0eadd5f9613a3220fc25f]
 ├── tear
 │   ├── a
-│   │   └── virus.msword.tear.zip [7a077a506ab5b7a5e1a5762758af959c0bc20cb08b2c8a0da11be8a78b7c122a]
+│   │   ├── virus.msword.tear [f6435042516b52bcfb97115ee735137df6f4b0e892db0c144ee937f0ab11b5c7]
 │   └── b
-│       ├── docv.doc.zip [327afc23802d34e8199f91cd80c5857d1e8a193e21701b5f54c109c7ccfd8f63]
-│       ├── tear-b.doc.zip [8d52a57a9139e6772df68c9fbdde959d2cb56d7f4a1d705a5527bf44666559b7]
-│       └── tear-b.dot.zip [4feb60d1ceb73d16a116ae17caa537abaa74175d52d1c46f066f3bfd0780da8d]
+│       ├── docv.doc [83098d3ef7891973a3b28ad1eb472e8151a3d517ee07b5e24feaa3012c687b3e]
+│       ├── tear-b.doc [a6241143591cca7e50ff4a812ecaf1cebc2cd16dde610b12eb6225d284d4ca62]
+│       ├── tear-b.dot [fcbf345f6c08a273b1f2338f3c69c7bcebcf0053d0626ec88776edc934b071e7]
 ├── tedious
-│   └── tedious.doc.zip [98da9aa203dccfe506dad9cd795a8dadd330cff58f17861e8c7c51566c16bbc9]
+│   ├── tedious.doc [592a0ca05cf518777a83ec441b71e27ddae1da9917ccfeee5a6c66a7385bff0e]
 ├── tele
-│   └── lucifer.doc.zip [f0122bfbaba8098e47dcaf28dfea24fd09645b901c98a4dc814f7686485e5c35]
+│   ├── lucifer.doc [3bc60505755f51cebadf10e8450b6d7d167f62b6ec5e002fa03cf454c081fc75]
 ├── temple
 │   ├── a
-│   │   ├── temp-a_2.doc.zip [0b340e36d311a47e6dc5e7860b7f4a2176e698987a943db80ff47c8d62c80f26]
-│   │   └── temp-a_4.dot.zip [47d5adc11ea2d48204537ffe18362922f4b674c5499481b3883a9d4b59e7256b]
+│   │   ├── temp-a_2.doc [a5d3b808cd8e2c82c7bfcce768b54d5589f6a36855ab7c66a05c93650e7332a6]
+│   │   ├── temp-a_4.dot [0268ba8dd1ddb8172488fbaace739108d8fac458cbc4502fd2b4fab60bc3bc88]
 │   ├── f
-│   │   ├── chao-a_2.doc.zip [0833be73bbce9d336a0df38bc77dd912392202e6637845dd71803384b659a8f2]
-│   │   └── chao-a_4.dot.zip [4d64911213c6ccd6eeb99e048449607d9f8dad264c699b538ffb3ebc0bf475d2]
+│   │   ├── chao-a_2.doc [0e5479dcd931ac26e014090cb0cbcef40e1639e62f10933058e0b5716a340897]
+│   │   ├── chao-a_4.dot [cfb451524743c6d5bf260d01ff1252e3c6a4a85b89fed1e8ee4ebc9c0d8e6750]
 │   ├── i
-│   │   └── virus.msword.temple.zip [07b755bb711a678069f06c87e9029eb0791c4996fc5d56cb29617fbb3edc34ec]
+│   │   ├── virus.msword.temple [2acaf8ba2b6a8482be7419bd7199072d976c70d7bbee0c1e123eb1a92ec6be11]
 │   ├── s
-│   │   └── virus.msword.chaos.b.zip [8d511adc6d58247a6c7e51e9ff15aaeac281d981f3ccfbbb0ebd198c0a9fe835]
+│   │   ├── virus.msword.chaos.b [d2b800c7af7829b623a3859243b11488fb1c758c8668e7b7a3f6e808f2d57e67]
 │   └── t
-│       ├── tem-e1_1.doc.zip [20521915871d4ed5c6c6f46fe3547ed2bb8fd78e8ffb6381829131ff022d0b46]
-│       └── tem-e1_5.dot.zip [d3f910dc7d894716d63d76d589941d72c5c10bb2778d48cbf218555183e7a6f2]
+│       ├── tem-e1_1.doc [c9760ea1faf5b07c6f7c9722ae3f5800102d66048c1cf923f4f1b34053cc32a2]
+│       ├── tem-e1_5.dot [bdb0a4afcc7223c0d1a78f105a26272aa6b717b47eca04c2f29efaf9ab4e4342]
 ├── terror
 │   └── a
-│       └── terror.dot.zip [276e5802a54bc9f319985c060c51d3f9cc9e04a4703af41cef6f297d41fb6b4e]
+│       ├── terror.dot [78c2414b78bb6761459d1aec8df3d252954771cac29261a6f423fd304b15be2a]
 ├── testarea
 │   └── a
-│       └── virus.msword.testarea.zip [411649ada1251b38b7a00bd09326a6cd5c9dad57cf749979badfdb7138a6572b]
+│       ├── virus.msword.testarea [334058637a4a8fdb9b0ff891ecae546c048e34f51c4c66dcda26b4c3a764088c]
 ├── testdot
 │   ├── a
-│   │   ├── test-a.dot.zip [5e5da7520bb84fdedef3b0ea292229b0a60096ccb1e05dfc5d3e3a694a270c23]
-│   │   ├── testdot.doc.zip [e3d4b4fd33741009a62db6be2bafd6ea2ac1ec4bf606fc50ab93cc517881b8d8]
-│   │   └── wci06883.dot.zip [21f67855662c0205def3ec91720f6f4a01da4719ecc52a77284a88d96f8bb146]
+│   │   ├── test-a.dot [2aa874d50eed5d528e965f323990f3c41ddb12c2d6c90301cd86b38b94e89bd9]
+│   │   ├── testdot.doc [b8bc21e38be0351eb4bb1fdf4a81b8edcf082cf6614b8f57d8438cc60d696a77]
+│   │   ├── wci06883.dot [515f2e4092ee95b16d18716bd6059dd52bd4acd5f535bbeb9ae8cb83f23b27bf]
 │   └── a1
-│       ├── test-a.doc.zip [6fd60c4dde476058864f3641e54b4e9c42ef5b9d3ead1dfcbcbe9a0dbd8a0f75]
-│       └── wci01684.dot.zip [995d43c979375af49553886a7eb40c5ffce3c42ab3935426fdfcea820ccea27e]
+│       ├── test-a.doc [ba25a7d1b71647fa9eb4dbe5b889e579cdb6d308a60c9e3d889e976b9757c68c]
+│       ├── wci01684.dot [6f5ea91849c6b6fb82bce9430a8bb0e7870a05d7a21dcd2c4fd5a589ed5efe32]
 ├── th
 │   ├── b
-│   │   └── virus.msword.th.b.zip [163818322eab0df251be75d92a4fb9040a44c5705d216b72011d78e8f99f9afe]
+│   │   ├── virus.msword.th.b [f11ad00897b37185e555fb3bf17ba28bef6de1b6481f55e4e5811d18b8d860a0]
 │   └── c
-│       └── virus.msword.th.zip [90c81c888f09f373dde4eaa0472757c13124f1e6446b88a7df35cb9cbebb8604]
+│       ├── virus.msword.th [5a4874e56bf8a2b0bd06cde797c4b6d4c79b6c0ac763fc5e793bfbc3cc8097fd]
 ├── theatre
 │   ├── a
-│   │   ├── thea-a_2.doc.zip [ca2027ec14163bd5c59cd4ac8e82fe632f87e1e5dfae9615fc20c6fd4e8b6740]
-│   │   ├── thea-a_4.dot.zip [8606503ad4821604f28b5878bd2de05e1098000526ea93d2a29864ae9cd6dcce]
-│   │   └── wci06843.doc.zip [ec63fc6abe6fa786b40ca84cc440528e0eb9811956b0f1c5945d5c60ab82c33b]
+│   │   ├── thea-a_2.doc [4acd556dd54edff8b19ccfd9730515848da173ccc300e1667bb46b57b3ceed1c]
+│   │   ├── thea-a_4.dot [aa6172343adf3aabae73473b1c6ef8bf81e7916bf9ea280c996d45c97a736f70]
+│   │   ├── wci06843.doc [3689d348a032260c0148b664d1231912fff7662d353c8eba231ebec8a65bc291]
 │   ├── b
-│   │   └── theatreb.doc.zip [aa9d1904b1fff4e03577849d04edca3027caead85545e7338c48613ecba81cdd]
+│   │   ├── theatreb.doc [5a320475762f28c430d2453b9f7cea2681205b2696d901e4dc567ee80e9a101c]
 │   └── c
-│       └── thea-c_2.doc.zip [94979b4968cd1ba0737672e83676a47c80e7f4a6a4eb5e55b4da1bf5eaf5e246]
+│       ├── thea-c_2.doc [777e6cc3755afa7ea7f558680d453318c7292924b2cf99b26708bb8c34381dbd]
 ├── thebman
 │   ├── a
-│   │   └── virus.msword.thebman.zip [1513d8d634839da5299ab74afb0aaa2cd2f7f222025b63eb3dc29099a42810be]
+│   │   ├── virus.msword.thebman [bd2b3e3a9b0e64a851e4ef6e7c082dfcabbcb0076e68583469343963ae5d794b]
 │   └── b
-│       └── virus.msword.thebman.b.zip [3a76c3ed0b42d852814dff615124892c3053d4b9956946379322985225b3445b]
+│       ├── virus.msword.thebman.b [792d1819772e989a7a0a51d55aa88eadd79442fcfafa41d9178a879ad5fb3f31]
 ├── therese
 │   └── a
-│       └── virus.msword.theeraser.zip [d9a9ff3b9ec056c240059f032b2999f29ef185c28837b93dc2525af901ed5a6d]
+│       ├── virus.msword.theeraser [4971752a89b434a652afb9c26df84538edfbc5ed79166a6bd1d19023aad56e05]
 ├── tiger
 │   └── a
-│       └── virus.msword.tiger.zip [2a29ecbe63019d2a13b490a5c990261d9cd131510b1419583d28834a1d20d3c8]
+│       ├── virus.msword.tiger [16416cd6fb4244373d4d6b45fe028bb4189a357811f777385c19f9f1a5fa409b]
 ├── toten
 │   ├── a
-│   │   ├── toten-a.doc.zip [83cbebddcf531763bb2752d2ca58c45a92542866fb1d606f4c235aa60d7729c4]
-│   │   └── toten-a.dot.zip [6b748360c05f8e7559db03cf85fa3fdd6a58ef601278d38225302a1c18dc8640]
+│   │   ├── toten-a.doc [bfb452b2df2d142788c17732864a773ece7b7f5657c8adf50f9c17e77dbb5c40]
+│   │   ├── toten-a.dot [93fd5e5f6cb3800a3c08de1c9ea2489242a3245e7427fc1b5fb3d2407710ce4c]
 │   └── b
-│       ├── tote-b_1.doc.zip [2e270e9f64e54346e4fe7453ed156932219621ae7c3a24e4d39045a784306e10]
-│       ├── tote-b_5.dot.zip [062c41823d7d5eeb30309c265a53847c858fb4326fd8d6745eb325f927621456]
-│       ├── toten-b.doc.zip [ea39ed778cfd0569e6c293aa865c4e333926a17a442111255e1876fbdf8e4ac7]
-│       └── toten-b.dot.zip [ee70b30973bf6bd948b895e421c0839b0b76bc7c5e5c4caac06be41c21f59215]
+│       ├── tote-b_1.doc [04979b9c7c8624179ebd81cd33b02727a3d089d30855dc0a4c114d89b07199c3]
+│       ├── tote-b_5.dot [b24b0f6bf3605b69d07b92f11d7bf7192bff10d7848ba5619d4e927146191279]
+│       ├── toten-b.doc [1049c67d4780788b0490e0ca2aa7c15949e2d20987c69ed64725f5fabe875c86]
+│       ├── toten-b.dot [d3a0a88a48b7a2a30e44c1fc19ef88c45574118497d0a308013b97492dab28f0]
 ├── trap
 │   ├── a
-│   │   └── emperor.doc.zip [fdf52bbf1c67840940bf08566f2cd48042dc50af745d674360a5348840a77763]
+│   │   ├── emperor.doc [f6b5398fe855e534fed33440d068b56be49a5cbde1177db883adce38904c37a3]
 │   ├── b
-│   │   ├── em970520.doc.zip [45a595ba597522cf5a27a06907cefdb70c355c6f70796af543f4ac745b7955b4]
-│   │   └── trap-b.doc.zip [8e6451d123f0495a7023d4b876a64bc3138d8e8ffb61d797fae30c83fb136384]
+│   │   ├── em970520.doc [a0b09e3319c54e35b421f7ec57f337da98c6deb9c3bb75deb1d792b0e48c8421]
+│   │   ├── trap-b.doc [64ae7f4e58cbcc994c986c8b902cc6b69001937bc78ed9f21a54c47b447b8a51]
 │   ├── c
-│   │   └── emp.doc.zip [f5959e5f0fc12830052cbfc9164f27281363db24794994774eb0b79b16870c9c]
+│   │   ├── emp.doc [0eb3e84e84231a7b141252a41b5931cfc696a23470320a61aad93c441d5a66ef]
 │   └── d
-│       ├── em970530.doc.zip [ce5b042a7c6209a98e315e402eafdc332a5525f623bf340a00c2bda53a27e4e7]
-│       └── trap-d.dot.zip [97969adeecf5b6e150b92c5f1b5398c3b6d6f34d259fb8816fa5d7119a171072]
+│       ├── em970530.doc [66429fe6d44b14aab1f7e757204201d82e4ae26bb527e8f5b167912eb507561b]
+│       ├── trap-d.dot [25a06cba1ef481ef79259a703ff25cb0afca4add9619e2c1c36715fac1a620d8]
 ├── trash
 │   └── a
-│       ├── tras-a_1.doc.zip [8d6581eca077ba86485e2fcaa952d154cad176549c4447bdeb6e167cacbf5496]
-│       ├── tras-a_5.dot.zip [881fdf0890407615ac40b78152f14a638b879e57bc32d9e42ff9f9db4f667782]
-│       ├── trash-a.doc.zip [8a7b7fc35fcc5a7295619f82e8f7bebf6734780575cb75955067b507105e57da]
-│       └── trash-a.dot.zip [026a3e313dca540fbcfe050a79cf300e2a9cf73b8024bb96bf735f9acd2ff1de]
+│       ├── tras-a_1.doc [595181ff0750d3750f9f0ec73e3068d9e2df8beb35da34ffe1f7aaaf039351bb]
+│       ├── tras-a_5.dot [eee9868c082c61625c62a57af4e4bf727d1f1f99826486a1358cd0a1ef5ebd23]
+│       ├── trash-a.doc [7d64e8b32ee9224d7d5bf57a41c536d9ec5f79703f8d344a215d88073003953d]
+│       ├── trash-a.dot [e0a8850e21e8dc14dca84b521408002e16038aa9406b66ce9b0111f8a6904bcc]
 ├── tribute
 │   ├── a
-│   │   └── virus.msword.diana.a.zip [b6d036b67b87ee42a5cb0594a6f5c38ad47b822289b2ce2e9c6d8b852e2e8722]
+│   │   ├── virus.msword.diana.a [540acad49fa2fed4fa863ed018a275c9d7b68709c1de6c779c675ccfdc64bb8e]
 │   └── b
-│       └── virus.msword.diana.b.zip [90671cd4dbf97cbe8935b68e60918bb1165f8ae17b1f596495928bc75c60aa89]
+│       ├── virus.msword.diana.b [bd8b316ae641c3f81b4916ca8d8ee2ff08f8699a5144cc41ac287389b23938c3]
 ├── triple
 │   ├── a
-│   │   └── virus.msword.dot666.zip [341abe5a5d9a29184de1f1b692baf8d2aa1f9c30c169680b2b938772a32a352b]
+│   │   ├── virus.msword.dot666 [00a26f5e3d7d6667e4b7cae8723617b1e871f6c41bf6ce0b84b1d8f91df5d02a]
 │   └── b
-│       └── virus.msword.triple.zip [741fde97a36b31b7ce636347eac36950f5eba1ae2aed663b787670ddedfe5aac]
+│       ├── virus.msword.triple [35192d9a3053b18f9f193f6e17ccc1a36eabd83528033697b40dddc923fb1a2e]
 ├── trurl
 │   └── a
-│       └── virus.msword.trurl.a.zip [3f5dab038d6ff1ac45da493f8937656db493649ad703387f9c8376e95b0b62ba]
+│       ├── virus.msword.trurl.a [bacaa7b72f096087ad83ef55b74905272c92de3d5b816140d294199223e059fc]
 ├── tunguska
 │   └── a
-│       └── virus.msword.tunguska.zip [809e200aafb9c8c0453b711615cb08c6a760a6d42bb6e3eb0aa0a5c3d054c2ea]
+│       ├── virus.msword.tunguska [fcedd2d3d57fdaec5c7ec20d5654f032ad57d732f08799084350f7d32812198b]
 ├── twister
-│   └── twister.dot.zip [68a0df3b92a498ccba2112792ab96b628afade2ee300d1b0edea5f9ca79b943f]
+│   ├── twister.dot [e8bb0ddcced009b9de4c9193cd377a8483e5cc56f99b469ff73f1a11ce0d3832]
 ├── twno
 │   ├── a
-│   │   ├── autobiog.dot.zip [6a1ba25888af3bcf6e66539e42061ac22057c28fa06a95052076731c8240a010]
-│   │   └── taiwan1.doc.zip [d23285a4553c7511581f782d0ebf87152a1a70626a35ef7c595a7bd6ca49ed9f]
+│   │   ├── autobiog.dot [a12f1096ac8a7ac3329331ecbd8613052cfa21e9c1da7c52e5c8794d1251bfc6]
+│   │   ├── taiwan1.doc [e853f4fd08e84397cc0c9289bdf3addc3e6d4e1fc222418e37ccb6e9b161ceff]
 │   ├── aa
-│   │   ├── twn-aa_1.doc.zip [e0b899ffa15d5f5656e98e785ad27cf503b5010e992390d2b9a101bcfa6731d0]
-│   │   ├── twn-aa_5.dot.zip [ad6f104ffb11120732bf0ac3545c2588d6545361e77dc872364b0a543bee6eb9]
-│   │   ├── twno-aa.doc.zip [4a980d09711af2cb3ac0706eacf7b2f05a6f4af61730dbfbd84a6f943f2775ef]
-│   │   └── twno-aa.dot.zip [4e0c85696bbec3d515114ab1cab303edb2ec3b350da6db7cd5bccbb09e9b7236]
+│   │   ├── twn-aa_1.doc [d5a30df2e8c0985ca35eaf9aa1502c4a90dec76ea71f9a3f40cf3845efece49c]
+│   │   ├── twn-aa_5.dot [21e29524f6e70338fc50d6e42f453c3e7cee982c8309d20b22fc3ae5108e8792]
+│   │   ├── twno-aa.doc [112bc5a5e482013adbc04b4bcfcb5ffd71323f53b5fa27c510710003f91bb463]
+│   │   ├── twno-aa.dot [d74dd61d1bd8514843af7971730c5f0334742140b6d5e15210888ba29bfa2f2a]
 │   ├── ab
-│   │   ├── twn-ab_1.doc.zip [b5fe84175092defba1561bcea4d7133128f109c568c9ddb4511e0f3524dad2d8]
-│   │   ├── twn-ab_5.dot.zip [e56b6ad63447c69a078757a5a00d7e879125a10e1d346e63633c344d41541491]
-│   │   ├── twno-ab.doc.zip [5764083884ba5fa6517d30aab403442aa526727319ac450ded4676e317c7266d]
-│   │   └── twno-ab.dot.zip [e83498cac12b5045d731cfe5a4df609aaabbb86915875a8233474c19be6a4177]
+│   │   ├── twn-ab_1.doc [a4e62cbfdda97936b4999ba34ccc18e10ace6b37b07f7dfbadd6d7e973695643]
+│   │   ├── twn-ab_5.dot [18dd706607a0c25d92ce940220fca8aad98575fb2b4c63bd2bacda5034aae88a]
+│   │   ├── twno-ab.doc [bb7874e206956d1308b6db00e9dadf1c4fa8cf343510f02a917045bc272a49cc]
+│   │   ├── twno-ab.dot [7c5523c22f702627f207e518809e93c57f30adb98b6bee48b105dde3e446ab11]
 │   ├── ac
-│   │   └── virus.msword.twno.ac.zip [3460a8205e3b903c1c6f92841f49b736ca7b31adf87404d6ad05235092d88fc7]
+│   │   ├── virus.msword.twno.ac [b3c8d4947d9ab67324c75d4809b32cb361547e6d49ec7880d29e282f9fbf67bb]
 │   ├── ad
-│   │   ├── twn-ad_1.doc.zip [43d5249eab8bf1e92e5789f4d197f450961a0f50c8ec99f3b07b880e06431780]
-│   │   ├── twn-ad_5.dot.zip [aab1e6f3e3a6ecf957d38537ed1768eee8802c089bfe516d79401a791e3c9039]
-│   │   ├── twno-a1.doc.zip [2f3baee421fc3d4d63400a850d911baa57c583d5b110011fc9c616745cdfa26a]
-│   │   └── twno-a1.dot.zip [2f646f63a8c0ffb2898557363acec8713377f563423eb745c2957a68a50a5e56]
+│   │   ├── twn-ad_1.doc [1181db0e597f875355d40cfb8c5f22545f9bbdd614f2a02b5cbdfcc753fb0267]
+│   │   ├── twn-ad_5.dot [bc981196ff3b21102671fc714548680a9b3a06ed86ad2f6fbf2fdc5a2f624453]
+│   │   ├── twno-a1.doc [e76cb804ba74aa1ec16516a76d35b80f0b5cd45de89459f635fccacb1c22be11]
+│   │   ├── twno-a1.dot [31cf49b71a396da5e71e447987f46d439ddddf6a9f6ffd86251e62068f7adec3]
 │   ├── ae
-│   │   ├── twno-ae.doc.zip [dd11e408266aa0a843fe8da42019e5c97a46aa80d83ad93e4a2f4aff9d89e073]
-│   │   └── twno-ae.dot.zip [8a62fb81b7c399a772364a4b7b111941d4ae289e4f3fe6b029b338eae7147543]
+│   │   ├── twno-ae.doc [6aaacff8a679d33abb6562815822b6f1221ec1d9a956358114d1b77153620d8e]
+│   │   ├── twno-ae.dot [14dbc3473fd29a94829aae690d8d5b9f13ac09bb8ece3b07274e1d3316d527b7]
 │   ├── ag
-│   │   └── virus.msword.twno.i.zip [327e9fa3be4312476f085e49a355df8dbbf5b0f125d7aaadaa0680c105a974ae]
+│   │   ├── virus.msword.twno.i [a315865eeabc7e487b29acfa701ead4abbd767380dfe2638d24f51f457f72346]
 │   ├── ah
-│   │   └── virus.msword.twno.af.zip [68835a19c657fa49a2b46167eabafbe087a753890f7e12aa7dd7fc7f80338c2d]
+│   │   ├── virus.msword.twno.af [f9418340e00911ab67d05017a93b97b0ff785d16887e9f31eef9265c4a8c83d6]
 │   ├── am
-│   │   └── virus.msword.twno.am.zip [343d6d7b14510d6314770b01ff7537052292165d4c1594b74ddac857d69e4c39]
+│   │   ├── virus.msword.twno.am [3d098f935e196c5ccc94d1dda164b51334ecf3db67c38a503b97654bc4c35768]
 │   ├── aq
-│   │   └── virus.msword.twno.aq.zip [2da15238865e8afdf4fb906f8022e19ef296cda79b0bd4b690117aab9e5de093]
+│   │   ├── virus.msword.twno.aq [c202257df4c0234cb6aeec92beeec6a40e683c29ecbc291051bc7e87c42e838a]
 │   ├── b
-│   │   ├── twno-b.doc.zip [4367266beaaccd70943c09387496e9fd33110e422521cc7b6ba2b2bb9a79082d]
-│   │   └── twnob.doc.zip [b713302354f0178bc51ef17dcc7eedfa4b6f2c2f276922d5d88d55affc8b6591]
+│   │   ├── twno-b.doc [a036efe8630e4a0c2a3d8d15010b194f9b64e47860b6fb8bfb3f21b773bda0e5]
+│   │   ├── twnob.doc [29773724f7d85d549e7a0c5ba2f576c26f6b399ddcfe1ea2868b3337bec0c19a]
 │   ├── c
-│   │   └── twno-c.doc.zip [6f426cd00cf7b24b680e63146588c0aaa1456d3c873ca850559177d2115fa32c]
+│   │   ├── twno-c.doc [4a82da8dab375ae460570b322c6c6ff443bc34bee566c118416afb77bdbf3b73]
 │   ├── d
-│   │   └── twno-d.doc.zip [2a57ec750abc3f0f832f5740222376a74c56aaacdcf82c2072373a737167deb6]
+│   │   ├── twno-d.doc [52fb764db35c295efba3eb81caaf4f99a1d66f231828ef465e554fbf560ca627]
 │   ├── e
-│   │   └── twno-e.doc.zip [63099632fbbdc3e08c79d41512b148c60d15e6e686c26d62cc782e51a6d6f92f]
+│   │   ├── twno-e.doc [cdd085e6fe703296501b2b0548e460c0746261f59ef33643f8ca532e0e8557b9]
 │   ├── f
-│   │   └── play.doc.zip [f5f0b1021827a445a68c9616548617fec062b183ff01a36481f37b8f4d2a64c2]
+│   │   ├── play.doc [d47faba5955ff89bb6e588bbc0189a28fd930f5ada2fad2edb8beff649faf85d]
 │   ├── g
-│   │   ├── slot.doc.zip [11b1bf188556b56c57147a68b75d2f8188d52b203e8cb4de1b4c2e2e79940142]
-│   │   ├── twno-g.doc.zip [fa474cca389095921b325c0f289f078d8d75665ede43a197f11c30c3a63cceff]
-│   │   └── twno-g.dot.zip [ed28b329b932d6a6e0774d2562296e9e7ec0161cee5a2983aa5132710c411217]
+│   │   ├── slot.doc [e7b055a2ed036527873ae5a0ff0df67550ac398178360d342177a2c72e97fd2e]
+│   │   ├── twno-g.doc [005841da2c7cb21d5b32184a81d2e2376944c7f7584b216fce68cf0bdc1eab85]
+│   │   ├── twno-g.dot [811561dd9f1dfce765aff2d9a5e1234791402a595ad4776618a8c4af6d24f421]
 │   ├── h
-│   │   ├── doc1.doc.zip [12668ec65988c7f4dc82b5bda8d77ffa2dbd5cd94c69e06350d4e5b302cccb8f]
-│   │   ├── twno-h.doc.zip [9bf6c26cacad7dbf3e060096395cdc448b199d208c167590d7457dd7fb3032b6]
-│   │   └── twno-h.dot.zip [d48a93000e46436dbad565a7adc135ec0df986432dc34dd73cc45612d09172d5]
+│   │   ├── doc1.doc [2aabb4e95eb38ab7372ea6ea9b77a3dfeedc698c164feac7d120b4b6e5a95b44]
+│   │   ├── twno-h.doc [13fadb1960dae3511b60f41995e85ad4c0c096a65d97c25508862397f057db25]
+│   │   ├── twno-h.dot [452f3ceb2e2e1b61ae0d53a4c7798ec7e55e3bcbfe25cddbd03c5360fb208b79]
 │   ├── i
-│   │   ├── twno-i_2.doc.zip [bed1695a66ac18c94f18ebf8b596deff3fe617091b7701ed165942afd4528260]
-│   │   └── twno-i_4.dot.zip [67a1b7157d154916c021d9a5c005cf9060840108d285ccedee8316e4deacd542]
+│   │   ├── twno-i_2.doc [59fa13298ed45535731be192c247c99140652b1f63c7e9671077d76ea097e061]
+│   │   ├── twno-i_4.dot [c97a1434802bb4dc97d84530ecb45e85a08ba341807c7e51414b75a027b59220]
 │   ├── j
-│   │   ├── msg.doc.zip [8faf02f535cb2421fe32db5d4e5383a02a13266cfed37c953e6721310f29f899]
-│   │   ├── twno-j.doc.zip [87d1ce0be181c3eb7c107f3856f53647ad05b621bec989344a9242dc53cb40dd]
-│   │   └── twno-j.dot.zip [57a1292d42bd427a2cbf5b43aee1771c52958019b82e9b4400baa52023bd4930]
+│   │   ├── msg.doc [6a0fa94bd0afdb53bcbb95195682d4e876064c699ae7b207a9cb8e0df3b6c043]
+│   │   ├── twno-j.doc [3edee5c5ff91163255ca6a97516ff2722e43adf852b6fcc7e417cf3694d31940]
+│   │   ├── twno-j.dot [45f77bf3c452007891120d8a78de503d6d0b9dff8159d3e9871867d52145870a]
 │   ├── l
-│   │   └── virus.msword.twno.k.zip [b441f034af446b2669292e3fbc6f7e0f158c311911966f8a60fc1445eb869b91]
+│   │   ├── virus.msword.twno.k [df14ecbff5c27f47526d24d2e5c942ad42f151ede94bf96454fb04724095cd2b]
 │   ├── y
-│   │   ├── twno-y.doc.zip [453330d558d055a052270d378a34c01a821bab7114791bc35ddea2b72fc66108]
-│   │   └── twno-y.dot.zip [89337a6a800c774b95e17aca12d81f95b28480bc19ffb13987e59469f6da500c]
+│   │   ├── twno-y.doc [85ef65b19a7c123bb16bfefdd2cfd71114caee94a85c6c805602a2c380115cec]
+│   │   ├── twno-y.dot [99fcdf4e29a25aca36fc8836043cc13b5425449849cbc6f2f77adf7d227debe6]
 │   └── z
-│       ├── twno-z.doc.zip [229e9cfec817c5ce6ef814a336d6ea34400ce514dfdf78e8a1093eec04e6abfc]
-│       └── twno-z.dot.zip [dbad781f0a97b2d9e4460826890e9581464f06ccaeaff938d1ff818db4c610bf]
+│       ├── twno-z.doc [8301f8aa8d33ad853c29ba1db79ae0a0d74ccefaa4286626e8e35810a96d251b]
+│       ├── twno-z.dot [7a7a8fa73d3d9a229493a1009037b4135cbf200be8cc48b15a6d640d05b94502]
 ├── twolines
 │   ├── a
-│   │   └── twolines.doc.zip [7efd069402da5a38a56ef3fba7a65badea17bb674246784de3dff38a450ebee4]
+│   │   ├── twolines.doc [c9b1ba30bbb6c996a9846b78c8f97d54db7ef589fd09b84d28f7309cb6c8e58d]
 │   ├── a1
-│   │   └── wci01893.dot.zip [f3e497691184105abf5c3414ec2675e66804eba71d1cab8596588aa7ddcf98d9]
+│   │   ├── wci01893.dot [ed1151a9a90ca29188ff2fb0e06f3428a67570142c7a388ba3c638ceb9bc632b]
 │   ├── b
-│   │   ├── twol-b_2.doc.zip [ae07b2866ed01d20d158613b87c0dd312759e702cc8022348717d9fc6d6460a8]
-│   │   └── twol-b_4.dot.zip [04aa46148399fa74aebd00e21859dac3f83bd1ceaea912733f2a1345f241d84f]
+│   │   ├── twol-b_2.doc [0fd3e0be449d026bbe2ae5b63179ccdffcb8f4662ca31d651c69e45352191714]
+│   │   ├── twol-b_4.dot [56e873699c899b5727c2cfbc53cbfd4c8dd2dea3b5c1ee2dc923b0e75ef06217]
 │   ├── d
-│   │   ├── twol-d_2.doc.zip [ebe3ed48e78ced5500ed84ce26227ecdb3dbaf766ec598db0f5902e6e7c31d2f]
-│   │   └── twol-d_4.dot.zip [84a646949e22589c2e923cb2901cb09cab4d64872f4e1058f4c834bad7a4cba8]
+│   │   ├── twol-d_2.doc [ae80a8684428d76410d828e372e317509f5457164a917bf9a99825914316c4ad]
+│   │   ├── twol-d_4.dot [66aeb6911a1267e03aa5939414c05f1beb475ca22942e973968d8ca7b1318b0e]
 │   ├── d1
-│   │   ├── two-d1_2.doc.zip [aa9621791f29659d20a607754a563aaafb0b076e2122c7aa154677221a55ce93]
-│   │   └── two-d1_4.dot.zip [e5e8a565a91ac1544483db21e39020545bb62d4ede38f2d073399da2830ab610]
+│   │   ├── two-d1_2.doc [8e2cf8fb767228ce79250c88534b312e00983675f53159893c74c8e07e224d80]
+│   │   ├── two-d1_4.dot [4d7242177ac00b43a24b4b9740da585ae993657c51088932a52aa94206c94b55]
 │   ├── n1
-│   │   ├── 2lines-n.doc.zip [8d37a9c512836db30c9ed9eaa1e60423c2e0b91a6ff7e9b9eaa99af411bf0977]
-│   │   └── 2lines-n.dot.zip [12f056d7437af1f01c8b3a4ec468b81934a7dc9b3311568b8cd00035b29dee9c]
+│   │   ├── 2lines-n.doc [97e48e02b41ab1cf08306c79804754b2a2228d984f0e026ad333a93669e8538b]
+│   │   ├── 2lines-n.dot [d17349cd30199671747bb9ba80eed43e416bf5b41694490593832c8b48c6ddf1]
 │   ├── q
-│   │   └── virus.msword.twolines.zip [4b1470433ac6750c1dc19b10dd5bc63e831f28b612144090fe5b7c336fbc3a75]
+│   │   ├── virus.msword.twolines [7a91bf9fbbf80fdb0f7324182e6c422e932861da0411d5c77ee0ac3135f0ad6e]
 │   ├── s
-│   │   ├── twol-r_1.doc.zip [8793d28043c7279ff83c840aa4089c90542a68883392bea1f87b5d8fc69d0555]
-│   │   └── twol-r_5.dot.zip [0587fed8893e0c2ad0722af3c0bd8e4a37bcd039413c6c511a952e7140ffea93]
+│   │   ├── twol-r_1.doc [3480795390a551917878a27d4d68e395b49ffb5178b9ccf1a58034b7d7cc95a8]
+│   │   ├── twol-r_5.dot [0b8096dc49586b38a988c5552333374ec5b2d58f4f04b63fd739420ed7753e01]
 │   └── s1
-│       ├── two-r1_1.doc.zip [2e538f80f2885949642518659a88b915dfc33871abd69f420528b44ce697cfd4]
-│       └── two-r1_5.dot.zip [834d76c230e5b44a6808a3e6fdbbe07a48d6442036e216819741112f61a4192d]
+│       ├── two-r1_1.doc [6977c5f44fc7feeb6f84193dfe183e39b91229e3b1f841e46d8b90ab1f25fb76]
+│       ├── two-r1_5.dot [91021db4c660edafcb3489b8007b0d5e46fb179b45f4fca9c3cb50c0b2c67a75]
 ├── uck2
 │   └── a
-│       └── virus.msword.intended.uck.b.zip [a84b9bb9752c4481f3a61028e4981ed6e4ee0fd2ed9d77a389627ee6b20c3db3]
+│       ├── virus.msword.intended.uck.b [7d62e10c72eddb4f1c6344cbb77e4b6590a104cc1a34dbefa0491891cbf5a839]
 ├── uglykid
 │   └── a
-│       ├── nasty_1.doc.zip [0a9e166e30d3fd6ac4347be9a125cd9cc3ed426ccf724a611e8fb3d16f4f0b1f]
-│       ├── nasty_2.doc.zip [9205e03ac15cbd30c9a039303e58a16004902b14b667dfd641d4085140266a59]
-│       ├── nasty_3.doc.zip [fd1617db865a210e101f2ff44cbde36f92b0c533609201ab6e67833c5016595b]
-│       ├── nasty_4.doc.zip [59889ae33944a4795df602a92c4cf159ba0093565b9922bd5ca8dd9b09a5d12b]
-│       ├── nasty_5.doc.zip [164a4c4694630ffc67c364b7801c72db015ab903b732b2fafb9a80a355022c81]
-│       ├── uglykid.doc.zip [12eba43691efc4a75bf26d9b90c83ced266603ee95cb23a4189b0400221fb099]
-│       └── uglykid.dot.zip [754427e056f06eb6636a0c4e15a411ca482c4a40df211a96dca5d3e3a55c9c93]
+│       ├── nasty_1.doc [7d32d6a100ccc66539435791755d295e043af035fb9c936298508f5cfb77f732]
+│       ├── nasty_2.doc [4547dc92335272db268c6dbdb34b36b9e3e34160230027457a30823d17e2651c]
+│       ├── nasty_3.doc [bead836f1dc9b3cda929f4f6f18acacdd3ea54ef215410782e83d34c9684774b]
+│       ├── nasty_4.doc [f81c5c1b741fa7c2627157fc823831dc379c27124763260f4c33ac2473cbcd09]
+│       ├── nasty_5.doc [96fdabaa46d939e165c34e25bc53a66660038078cf2e7c632114ef3c89ab202b]
+│       ├── uglykid.doc [44fa9e9dfae3ec20142c9774bfc5c90a832e14f7a779755a45dc8f6787fb7dac]
+│       ├── uglykid.dot [b41d90bf8233891aa4a3e3b8f2e5dbb476cd507bb332da8f73625d44630da4b6]
 ├── uhrjap
 │   ├── a
-│   │   └── virus.msword.uhrjap.zip [a1fb273c2a7e84de03c79c0da8389d7c366ff71ba2d97a543fb8eca45c24376c]
+│   │   ├── virus.msword.uhrjap [dc95959430ea59e27c95ddb32b49097a02d0aa9a294b052f53684816e2cd567a]
 │   └── b
-│       └── virus.msword.uhrjap.b.zip [adfe1fffbfd51adfe58ad53ca9a11c90b7c9dc4ac3243f945e9f8419e4050aff]
+│       ├── virus.msword.uhrjap.b [4fa9c3d4c142b4932f83a4f0cbf344097d5390646f14b2959931296c55207be2]
 ├── uka
 │   ├── a
-│   │   ├── pakispra.dot.zip [799842e302679ec5374c72a82555344f58df76bc5cabed2ec25e2a2f6e15430c]
-│   │   ├── sweetp.doc.zip [4ea5d91bfe72bb1ed9d4eae05c5fe6708051d3a760c3c39415a67f8fadc35a64]
-│   │   ├── sweetp.dot.zip [9b8b18ecea0eced2092733b6d89d7bf86961942166d4eacfeac373e93d5401c6]
-│   │   ├── uka-a_1.doc.zip [4d83e4e4d86261a8dd962a840b9c4a3da2c7aecb72e949077622d59ccc52f37d]
-│   │   ├── uka-a_5.dot.zip [6bc3300a52193386accccf9a331c8fa3c8298cc41d7664278a96bc55685d61e7]
-│   │   └── uka-drp.dot.zip [81b48a8203483bde29504c888736b7ce628ae2a9edeca7f121991d730a1f37ec]
+│   │   ├── pakispra.dot [3fed23533485580cb6a108aa6e4493dc0c05836ec1bc7e3740ca79cabf1dc1d9]
+│   │   ├── sweetp.doc [fa466434c0a3a21568bdae9ad3f8584c3603082a9c6754810dd0fb75f99aa8ef]
+│   │   ├── sweetp.dot [e610b49a2a4b9a855fdad51706760438d248b1b8953f0e58d90a3c597653d9eb]
+│   │   ├── uka-a_1.doc [72e2bd485b4c4782ace2d749b577e7cb2a371f60fa718c0c00634d21d3595488]
+│   │   ├── uka-a_5.dot [abd8ca4665f603e94a79c74de63c1d6894a43a8b47b6a370f3d92bdde27c52f2]
+│   │   ├── uka-drp.dot [39fc1c361c58352eb1e905c7c890e8fa0d5602f4ee69d9432d0f09d744c26334]
 │   └── b
-│       ├── uka-b.doc.zip [fc9099e9be01b96d4b6ec6da63c5a00792725d7cc65df9d076d675987202f028]
-│       └── uka-b.dot.zip [b777274ae82910d69af5e616b13d14d1228a20a484b20bf537143d6d4c22172e]
+│       ├── uka-b.doc [f0380b67f6e1961115734744f21942138634541eb700a2c193e326d8478f5045]
+│       ├── uka-b.dot [e1f21e63954875b6406f2ce338d0a0c7bb334b77b79b7b5614b138ef65a61eb6]
 ├── ultimo
 │   └── a
-│       └── virus.msword.ultimo.zip [34e757e7c47d633d8f07cdea2fb89d592e5759f065495157a5781140e4165923]
+│       ├── virus.msword.ultimo [cdf6cd96f67ea9782c767e3a5dbeb3847c077ce9898a3cbf57b549fed6c7e538]
 ├── ultras
 │   └── c
-│       └── virus.msword.ultras.joke.zip [d3d49a971e5e7739e1b42313c782361636580c23082eb3fcbe808d66084f54d1]
+│       ├── virus.msword.ultras.joke [a06a7bd7e9d0aa57095f3aeab426bb40c48da98c7223e6955dbed6c3082911f3]
 ├── underground
 │   └── a
-│       ├── wmunderg.doc.zip [84e645e273e520616b5c1c486d81331bc813449bd42738043c37c3080e016d99]
-│       └── wmunderg.dot.zip [f12fa7ad389e1b1287014779cbdb3089e6498ec0283dcd9ee0fd6bb512aac54e]
+│       ├── wmunderg.doc [3d1f5780897b87b267ee5b90b828305bdb73188069e8b084f968b695b786e367]
+│       ├── wmunderg.dot [89d84fd643a7faeba6093837840ba4b9dcc88e7f295658b32eaf39593af3ae5e]
 ├── unhas
 │   └── b
-│       └── virus.msword.bond.zip [607cedcc1204b4c5154aa5a7b9be24ef06da5e723e8d833d1933f72f0b52bf6b]
+│       ├── virus.msword.bond [2b6c84437284823ce5d1933c6a018fb0815a391b2fda96d3b7a0fcd0f7a46c8b]
 ├── urchin
 │   └── a
-│       └── virus.msword.urchin.zip [e0558e3c12d7ad34d94cd518ba36ad4f04e843d5f96d280eda5c47624a3498a5]
+│       ├── virus.msword.urchin [e63b137d0c3b930e6e33e0510fa85277b83ab6d28ee1a8e9bfa13e0eb053fdd7]
 ├── ushasty
 │   └── a
-│       └── virus.msword.ushasty.zip [8e637e3e98d4fbb4bb637472207f48bbb0bbe4c37b3b9de162c3a23b99b86935]
+│       ├── virus.msword.ushasty [616645fc62919b838f64108436da72edac124753e9de4392874d0abd3606b563]
 ├── vampire
 │   ├── a
-│   │   ├── f-macro.doc.zip [79c3dfc1d92f77cb82ad89c03faeb12e071b07412f5bc48917d05c562ddd12d8]
-│   │   ├── readme.doc.zip [9e84e35c29dd620e56458ee1a11f24b2a32477b07e83fbf7e1e25151591fcb48]
-│   │   ├── vampirea.doc.zip [0eeecbecd7b12d3d8d02054d93c4ce412b7b362286dd0efc0c4e09eb70d65787]
-│   │   └── vampirea.dot.zip [c048b44c004588d143703e92968a6074608cb692991c1da9892c22fde4c7f63a]
+│   │   ├── f-macro.doc [5427235388326ed0afbf2c5d9394c020706a001bb06e116207acc3c2fd4d84bb]
+│   │   ├── readme.doc [db94e203ac3e8da5c8e955077d37b89a427a10cc403fdd4147e1ab958c857236]
+│   │   ├── vampirea.doc [21dca2f48de43b189d469dac5ba1e0c608bf007f6f917692b1650dd5f6c04e77]
+│   │   ├── vampirea.dot [b1374ccd6db1b3a5d66ca5f0d6fdabfe12207809d6761c29d189102b422763b9]
 │   ├── b
-│   │   ├── vampireb.doc.zip [170da26c43cab3ad921d8e79986858a10a82c07a3fcfab55fab2290f49415f64]
-│   │   ├── vampireb.dot.zip [5ac0d21adbd60b8eb999b01cce06214f653d5c82baf5aef1f896d928776cbb4e]
-│   │   ├── vba97-1.doc.zip [e8f62316c1d2c7d45efb73ab7c790fe669901acd7893019f20b238e70e54a690]
-│   │   └── vba97.doc.zip [3cb2eff8ce1af9e0517808674eaa842835f6aaccddd4bdf5ce2b181f9db8a242]
+│   │   ├── vampireb.doc [95e4f7bf265535ad77131c44d998d673502b42f0a8bd046b57018b4ea4863cbe]
+│   │   ├── vampireb.dot [d3879003cf3b2ef0245383be5606f60e502f35f9e53aabe0877e5ac9abcad5db]
+│   │   ├── vba97-1.doc [8b2dcfada9d9aca8a8b55511013997bca4c16cac0a11f75d5267d4384021216f]
+│   │   ├── vba97.doc [c9fdbca5c682a5283143e18e342f3235c6a493c70b04711024cf0165256e29b2]
 │   ├── c
-│   │   ├── vampirea.doc.zip [26e16d09b8911bd7c01dfa604e56735aab99883e534cac8df56d0e8f5758a335]
-│   │   └── vampirec.doc.zip [d02c3241d7c38945d512565b07713a7356247a7c31a0fc228eb6f24203dd4ba6]
+│   │   ├── vampirea.doc [af26865c2ea31da383c023c79bf585d21824969817992e51c97a92662f03f73d]
+│   │   ├── vampirec.doc [bde32062156b62fad250971d2fdfdb1a47cd81b33144b8f3beef336d3b108fc0]
 │   ├── d
-│   │   ├── vampd.doc.zip [0da2c4fa5b5977804ec6d6cd582212c5e488ef151520fe954655a1e63492780a]
-│   │   ├── vampired.doc.zip [291fd2873766a40a6770b11141bfa17ea2edcd9104d51e80cd83b1ac45dff5ca]
-│   │   └── vampired.dot.zip [c035c98d9100f50f9886da15c7363c2eca65a39fdae948bf103790bc7c605ac9]
+│   │   ├── vampd.doc [e2c58da83d5d5b5b5ab0a1eec4d47c8ea1cd36af92828c0950444d867b6667ad]
+│   │   ├── vampired.doc [0c03f35daf6294cd00d0788ebb7e8d63676ce26e76bbc9a5b6730fee87bba91e]
+│   │   ├── vampired.dot [4c629d7ec38c958fe5dc9810f79d6689a7c007b610cff9ae6cf86405d50624b3]
 │   ├── e
-│   │   └── vampiree.doc.zip [bb42cd46fc6b651e118e8c45f8d178b262ae7b180cff9b104dd27175e519af93]
+│   │   ├── vampiree.doc [070d9bf36ece20abe370c68e4f55d02641731880d1b6f99ee78db8b3fadac597]
 │   ├── f
-│   │   ├── vampiref.doc.zip [e656716c1d7872f63949f8f246ecb28ab83b16aef5e61b41ba0956b7103a26ed]
-│   │   └── wci01885.doc.zip [9cdee79f1f0316ff6a8c5bb0eb4bf7ba285c13c0573e5e46b9ac133b78224ff3]
+│   │   ├── vampiref.doc [18d6263b00b1d5966e13e6b0cf5e077104144c5cb9e8da454d46a6eb799c3e77]
+│   │   ├── wci01885.doc [709becadeb4c37b1df3e81155265b800da3794fd08c1589514db176c6c331c41]
 │   ├── g
-│   │   ├── ggreat1.doc.zip [5b056dd514fa78dc532c1d578527e4fce9ea07f7518e1b4b6428d144a61dbe07]
-│   │   └── vampireg.doc.zip [1d13d213805e513d44e87cb553df6c617e69175f3fe992713324dbe32e30cb68]
+│   │   ├── ggreat1.doc [999d93cbbb0c4513e14b5830016379cb06e25ab762f15d7e894c7dd4e30496df]
+│   │   ├── vampireg.doc [90fbecb86701b1d15c28c475cf7186d036d0f37fc86fa2eda840a5d17ba008ae]
 │   ├── h
-│   │   ├── ggreat.doc.zip [3948a708727d7f0f2272f942e5058da87b41823ceb7db30e8e4dccc3d28ee7e8]
-│   │   ├── vampireh.doc.zip [155dacadb370ae65d9365a86169ed3a358ad879e37d9e4f38479b8145d53c392]
-│   │   └── vampireh.dot.zip [34848e9843ac249cb7ae1ed47c43a890073bd07fc142fa4180feb98fdfca4f32]
+│   │   ├── ggreat.doc [45d8eed30ad219c1c4a07950ae4856cfecefc715d743291443c504f092bb8ba2]
+│   │   ├── vampireh.doc [38da58d80137d799ef3aa7adc85d6b4e904c55f5979a52c9cffdb952d17c3bb3]
+│   │   ├── vampireh.dot [a128fa6be36fd41f031c450e1c4b5d4016eaa89fc0e5c54a6c1673cf87a3a086]
 │   ├── i
-│   │   ├── nekobell.doc.zip [f8fe7c2463408b731d2099272311180b3f6424ef551bc96f7a3b3a193d68e7d3]
-│   │   ├── vampirei.doc.zip [6f0020f516d83e2034fbb3fd0104fa1414ac6e32f1727769374658cd9d86b23e]
-│   │   └── vampirei.dot.zip [86190d98f3813bfeda8307f91a159537feb17b776ea7582af7e23b4c0b6a95dd]
+│   │   ├── nekobell.doc [85220661451b1e0ee68307bdd27c6194c3bff60c3c6d812f5720ea544e273f3e]
+│   │   ├── vampirei.doc [d5a3d62ed7e2b03e7e7bbe66db387be04c44ecfff06461d1a916fd59a6e2a9fe]
+│   │   ├── vampirei.dot [4e89cd2362f9c481c19ca037cd7744a7c619b1b3d38952b6e11bfccb0f9a9bac]
 │   ├── k
-│   │   └── vampirek.doc.zip [b995eab351cb120a7f97a33122b3b3873e34142116adfc1eca809460196d9336]
+│   │   ├── vampirek.doc [b1e44a785d5c2421ae1046a46c3504b40baacf8a61393f1eeaf47bad2fead586]
 │   ├── l
-│   │   └── vampirel.doc.zip [7a2f43ea20b4e4fd97e643659d06ec3a84e08eec49d3003ca2003d37c8134beb]
+│   │   ├── vampirel.doc [94f138cf81346ee1afa39dca46ae79b43dfa12920e596a92954901d6966d43bf]
 │   └── m
-│       └── vampirem.doc.zip [bae1dc62a65fb06ebbee145c7cc968542e58536088426f7ca95d728ae57c4311]
+│       ├── vampirem.doc [f1fd1d86580cbb27815d421fb035a2006e47a8fc41a9ccffbd011298690dd3c5]
 ├── vanoce
 │   └── a
-│       └── virus.msword.vanoce.zip [3765fbe52715db6305b322275cf96fd64abae362c0245839e31a300b41f9ea33]
+│       ├── virus.msword.vanoce [f3b53bec4e543977a9927ac406f31c6b64dc409eb997b39397cfb1e86720a9ad]
 ├── varmint
 │   ├── a
-│   │   ├── aa2.doc.zip [fec8d8af30156da1173b420334fbd49d3dfd6864d3b1071b1a14ceacc11abffb]
-│   │   ├── varminta.doc.zip [655e7dea1745fde4c9b745d2c858300db48f1679153438ef291fb8455b19df9c]
-│   │   └── varminta.dot.zip [4805dc61a1b0ec601e385eb2b59f8af2f5e3504222598c51359120d4ea5320c7]
+│   │   ├── aa2.doc [5f5cb2c0613f79665fe9337c56bfb788909255542397a150b6d603429b8978ce]
+│   │   ├── varminta.doc [fc328007f4c57d291769b8e579f5364d48d6c4fe0b76edb22d238f7471d91f49]
+│   │   ├── varminta.dot [a71905887193c58e73827d3b329674f24a3a3a2f67f8b1b765a924fe0583cdd9]
 │   └── b
-│       └── virus.msword.eraser.n.zip [6e6a50146cbb02ce9638c9b467594c7df2a3ff0511af65a79fac1dd3a649889b]
+│       ├── virus.msword.eraser.n [13716eaf81627a69651883f164668427c8d846ad0533be7c58d8b0c8288b954e]
 ├── veneno
 │   ├── a
-│   │   ├── veneno.doc.zip [561020e56548f27e7761e16e7d52821407e49428f2c24c74daafd162ead8e0a7]
-│   │   └── veneno.dot.zip [acbc4e00d77999fc67be0c8943b671ef783ccfea5555b6cb23876466a552f785]
+│   │   ├── veneno.doc [15d26758b74d266d29b81f4ba92f486ad39b14f230041012e95114a55148d101]
+│   │   ├── veneno.dot [401c155be789da82c259b9564f213fb36fe4882f23ddbc55e9024235959b3a15]
 │   └── b
-│       ├── vene-b_1.doc.zip [db13f0719939048892db90fa37eb0f904ded167901fcdb6d4affeb1483a9bf3e]
-│       └── vene-b_5.dot.zip [fdab4f8a077a068263eeb762e88fac274583aae8d65dff21fd109dd84fdffafd]
+│       ├── vene-b_1.doc [346fa7a841241780e8b6c4a46f8ac4d76041f873ea2c899190185dd75ac1a283]
+│       ├── vene-b_5.dot [ae220d9c4a558144f880cf9ada7e8990f89e3bbaf8d1a977b71045d01bf6024b]
 ├── veraltet
 │   └── a
-│       └── virus.msword.veraltet.zip [4fca3a394264d7ef9e6c4b76bd3e9ff66231f23047a5fd86e80a59317c024f99]
+│       ├── virus.msword.veraltet [b5eba7693fd1b2e8d9bd3245b2e576175ab77a6f980769c8cf85d52d49faa228]
 ├── vhdl
 │   ├── a
-│   │   ├── cdrom.doc.zip [981157f4d0361bce76837c00d8d64b9386e0cbf596d5e03d312f35ece0acf5b7]
-│   │   ├── erotica.doc.zip [8bc4d92e370232a09b51ea2358e9d7dff5edc7af8069554f35739993be13f4cb]
-│   │   ├── vhdl-a_1.doc.zip [4f5bc43a420685ba839f098f2962bbcd5ae04e60d65ccb63595a671338abb651]
-│   │   ├── vhdl-a_5.dot.zip [5e17f93bd4d7085e4e11a7270405052265ae8fae4eef9880041514b5a039e700]
-│   │   ├── vhdl1.doc.zip [f05033876606c6f0853166888de6c21c19f719418f106a969d44f1d41f4b87b5]
-│   │   ├── vhdl2.doc.zip [38d28e650fe8151e4bf41d95a2334ece5200aa526bc101502de3d825013820f8]
-│   │   ├── vhdl_a.doc.zip [ebfc961cd68f6d9bb65aa60b992ef80e16e4d55d48fe70cfa688cd236b09d351]
-│   │   └── vhdl_a.dot.zip [462465c11994b0d35e7b12257c84b6991b04af9b64b6c11b603ec15474202f71]
+│   │   ├── cdrom.doc [aa7a052f3b05baf3e00cd66352773281f09ab1596392df9277c1c21cdd84cf47]
+│   │   ├── erotica.doc [693bb129cb9f8ebe0665daba568817b5cc636dc6baa3a7e1c89c6fcd41a25e70]
+│   │   ├── vhdl-a_1.doc [2c8a6aaa9de50ff6e6b35068d970907a1dd5b07a7666357e43b95f8b659898b6]
+│   │   ├── vhdl-a_5.dot [5d482d99a668f6d6cdfcc9757918408d66197926df27f679bcf1280f849bdcd4]
+│   │   ├── vhdl1.doc [c631412419675670a5242db0883236f2b3660d664ac270d0d39fecd5a9963422]
+│   │   ├── vhdl2.doc [758db8504f764085e99ac5d609dac91fe2b0a41da565745320bc891095931a20]
+│   │   ├── vhdl_a.doc [7259915bac3d67d632fbded6b61ecfc01ab56ee73e801adb7e2f00e9bcfaaa35]
+│   │   ├── vhdl_a.dot [2e7c5ee9106e7f6e8dc41538ea8db80263cf2972bfa9fe7e1f6bdb7e6eaef9da]
 │   └── b
-│       └── virus.msword.vhdl.b.zip [3c933661c3638be1435c188f5a3d5dcd6d9975448b99798a44d81393e29ecc4c]
+│       ├── virus.msword.vhdl.b [3993bc6cb6141832d3f4168a93009f290afeac6b9e6826826e3937ff471d265f]
 ├── vicinty
 │   ├── a
-│   │   ├── vicinity.doc.zip [8b61a1d8ebfdab95b7d94f2dbc969e44a1e8b7f8010104811090ca90a7c6ec1c]
-│   │   └── vicinity.dot.zip [998f19a2fdbccba38514174d09bbd6a3aff2d123365f802364b1447aeae4cda2]
+│   │   ├── vicinity.doc [b1c08252845a518360bfbc20c7afd1577646fbfee27ecc704ac8d405dc8c908c]
+│   │   ├── vicinity.dot [3e50831ec0efceab4361bcf7c491ce4cbed16d65529c36d5648c6cdb38e776d3]
 │   └── c
-│       ├── vicinc.doc.zip [3d2011c6793daa49a4de83cf034cc5ae1d3ed89baf52b3b5b10f5d587d5d7121]
-│       └── vicinc.dot.zip [8a4335b44fb616dc3a58e4bd4b63fcd40dda4df223795d3808b310db6c18d673]
+│       ├── vicinc.doc [9409ae681b71744249267d509b69bbb1cd357e470748da51d3e06cfdc9b8b4c5]
+│       ├── vicinc.dot [1a4b5f8cf4c12c122690afe8b301ba8ba601a242c122adaa294f1cfed9f0f0a2]
 ├── vicis
 │   └── a
-│       ├── viccist4.dot.zip [6b74c5606d17344f264fc4603dd55a4c4291e9455cca7ebd2705ba4acf653505]
-│       ├── vicis.doc.zip [d3248852831e98398adf7c7b08bd298b5e817b1d99236bebede2890db259709b]
-│       └── vicis.dot.zip [fcee44240220cb34f2a65a896c1b8eb90b299017c437dc0f9c515495581c0d6c]
+│       ├── viccist4.dot [f4052d602d46c980dd6b10c20b9318ca36c3aaaf72bf98edea52c9e6341ea103]
+│       ├── vicis.doc [d1ca70ff02293e46367b29f9662a8f10666531cf9a9ff7925eff34820a46a182]
+│       ├── vicis.dot [9c8896771e08e8dc410e4a5613a42c4767c2673422a013ce5cec4edd4e87ed17]
 ├── viva
 │   └── a
-│       ├── joxzin.doc.zip [c770237a6e046c86f08570c00451c7875fb269c6157f05c7ac67a78d9edb857e]
-│       ├── viva-a.doc.zip [3257e9830eab2b8a81b6c0badfe57490977fef730d19687f86c084cda923eaa0]
-│       └── viva-a.dot.zip [7ce73c8f63005cfbf2dce95ec8ffd8f9a8b0d8d0bb183a0cedd11861716a77af]
+│       ├── joxzin.doc [69347e8e3177f88e3271e7a5f17089531d6d2c104400fa9d83e0e1a28d3d7048]
+│       ├── viva-a.doc [0e22a7c0364ef67800126f57297048446446b9ebaf6af7a8be9cb79bf1b9e2b5]
+│       ├── viva-a.dot [b21892eb57ae83fee94d2dc0abf6955279feadf6279dc08a6534660b01fd1fe8]
 ├── vivat
 ├── volcano
 │   └── a
-│       └── etna_mt.dot.zip [b0a0ec02206481f391b5326f1d07f6d671a3aa07b3181b58a3fa529ebb471348]
+│       ├── etna_mt.dot [d7404b2c26002fe9face347213c9eb4f2e5db5d1d9c2f862840b5fc765bc14e6]
 ├── vp
 │   └── a
-│       └── virus.msword.tomsk.zip [c10752ecfb96da0095774921e34699eaf4c50635fa5c68495c09ae53180ae259]
+│       ├── virus.msword.tomsk [f4cd07d764f6ec1e822b34d6b8fdee8a26f925198ed06a10cb6b95fe09edf132]
 ├── wallpaper
 │   ├── a
-│   │   └── virus.msword.wallpaper.zip [248c80f68823701b85a38314b7404aefd84f6a44fb370143054ab89413f0109b]
+│   │   ├── virus.msword.wallpaper [b873449e3bf5eda2512158e8c7ba1b8c38878b6e11c9243e9f589cd17c42af6c]
 │   └── b
-│       └── virus.msword.wallpaper.b.zip [0b2c628abea75820ba2d7c3d3cf2d7f32adc2540b7546daca9d9a769d93df558]
+│       ├── virus.msword.wallpaper.b [bd810c94abdf6849e56d866be94df1523cff8ef1f3ad473e69ff3160d59d05ff]
 ├── wannabe
 │   └── a
-│       └── virus.msword.wannabe.b.zip [d4572451c8618384ae3b2ed2fd893ece426480d71e38da0f4152b0f05f825bcc]
+│       ├── virus.msword.wannabe.b [970093aebb7e8e868cccb6072002aa518234bd2516ae2f0f6494b60c5182f1d4]
 ├── want
 │   └── a
-│       ├── freedom.doc.zip [0a6e90bbc77124116259d53a944b3c99cd20c148fb2daee15f1f07709514827f]
-│       └── want-a.doc.zip [e355dcf051b53aa49491bff45faa353f1b5a5036cc64aaf84d2892a89a1034ce]
+│       ├── freedom.doc [668ba62136b05db22ebc52109862486086e73550beac7a35a08b1fe37a35e43e]
+│       ├── want-a.doc [528573ffcece1ac406e2c427b0778a6aa141a7947ce427a7b160965dfa966e00]
 ├── watermark
 │   └── a
-│       └── virus.msword.watermark.zip [c8773795f997268a39b4ec44183818f0501aafabd9d61167bea6e8333940e1ad]
+│       ├── virus.msword.watermark [c4e3d5e88d72a012c00f828e2670f4e73f1873f15264e8da8f581fbc38c6ef83]
 ├── wazzu
 │   ├── a
-│   │   ├── doc2.doc.zip [e885cfcfbd6f5d0f40f820b52c5e98f0b8cbc947c891348685c8c51286f67c25]
-│   │   ├── doc3.doc.zip [07b8350910f151558a8ae0c82243b47250d713ebf93a4be948ec9af5228e2a2f]
-│   │   ├── wazzu-a.doc.zip [8d6249f505990b9607ddeaef7e74bf0101349332f3230c77ecf34b32ebf11605]
-│   │   └── wci06103.doc.zip [016a8ee9c07229eb9a9a6366088cec1d1cfe0b1ddead4ae78a9447238c356720]
+│   │   ├── doc2.doc [a2b89449e350323d75fe659bd5afdbbfd03fed557347217074e107198747cb97]
+│   │   ├── doc3.doc [e7fd4206f790928c457d8bf59c0e1b98e81be9de39122cd3f534535efc743b66]
+│   │   ├── wazzu-a.doc [076d4cd85b25a0807cbd23953e8dfbeb1a5e1e2cb83c8cbd253b18e246bcc083]
+│   │   ├── wci06103.doc [3ca0be45d91b80fc39c5b5e63bb20f2ea9857df9d3b5878ae12ff5d8b16775a1]
 │   ├── ab
-│   │   └── wazzu-ab.dot.zip [d75ed5f266c6fd4214d9b8dd824e3face0b39d6e8a53fc7a38a91d7561689fdf]
+│   │   ├── wazzu-ab.dot [3483070814eb713b3f2a6c2df9efdb910fb6c18a1fab690d3fe9de1c64af79c4]
 │   ├── ae
-│   │   └── wazzu-ae.dot.zip [9a0c46d9dda8a1fc5171b5a997bb1357d2e409d22010552c2c02ca02762c823a]
+│   │   ├── wazzu-ae.dot [6be9815d177f228d2c74f6755277e272174b94ca1a76bff86428b9fd96d86426]
 │   ├── af
-│   │   └── virus.msword.wazzu.l.zip [3d0ed3be85086ec73986750f5b0280a79b7449ad00fde72a4a53a2f4d9d085c3]
+│   │   ├── virus.msword.wazzu.l [357b340efb80aed24fa3d2ff4684e449d896401713d00bf31019bcb20caae8b0]
 │   ├── ag
-│   │   └── wazzu-ag.dot.zip [d5e35eae218dc097e69dfd5f7db041fa98e72da57b412688e806304ac0cf6110]
+│   │   ├── wazzu-ag.dot [324b594e64d7c2f3915a75571080515bdd956b976a776abeb89d69c94b19fdcb]
 │   ├── ai
-│   │   ├── wazzuai.doc.zip [3d23472b3f132c54fb0dbb0cd385ebbd7c728ff3488fa5207119f9b945d96d5f]
-│   │   └── wazzuai.dot.zip [b33cfccacdfbad6abeb5664848e45f1a4908e604201c6f1bbd8515b7a84d41b8]
+│   │   ├── wazzuai.doc [4e855672de56ca624aa17e6f3485fe88e02a9f695d7660887bc130c3e5aeefde]
+│   │   ├── wazzuai.dot [a7bcda4a6602327b38b778824947a2e6670ed65890ee7f0be85270b418bc22b2]
 │   ├── aj
-│   │   └── wazzuaj.doc.zip [897b6cde0146342725994140464c3063323d1259e6fc8d023fe811496375ef28]
+│   │   ├── wazzuaj.doc [2e52aa0d5ee95b046b8e5cb8171199199fff218d3bdb840053bbd3e66a189353]
 │   ├── al
-│   │   └── virus.msword.wazzu.al.zip [6741bafa31c84a6772ee1b2e4911f5ec6dd67178f9ffaeab1f2c82127bc89af6]
+│   │   ├── virus.msword.wazzu.al [6ee4c0338e5fed31048e0a489ad235e7b1cdc2fdf0be55ad23808074bacd264e]
 │   ├── an
-│   │   └── wazzuan.doc.zip [04ac1169caa99f0b0e6eb6dc9d8dcec23b1cab7b813499655e402a2ce7f41fa1]
+│   │   ├── wazzuan.doc [ea1352d3adf5ad2b475b8f30cbb02646c77b19074facbdbdb9d97309c1c96f90]
 │   ├── ar
-│   │   └── virus.msword.wazzu.ah.zip [cfc1df973b48f9df00fd57017fa7736a45802f2390766c07ea1eae0b41939dd8]
+│   │   ├── virus.msword.wazzu.ah [6349b8396b092827535ec11c2b096f7515763f5f933a23c05a674d83aaaa02ee]
 │   ├── as
-│   │   └── wazzu-as.doc.zip [a3ab0abd8347335b34d765c59ff5f4d394876786d6ef667f0a84bdfdbc90b25d]
+│   │   ├── wazzu-as.doc [746070cfb9b499a46bee8887fd08b4f52c0785f0c102fdafe2658a5eb2703f78]
 │   ├── at
-│   │   └── wazzu-at.dot.zip [c4874e9180435511d115b396e71e02265216170fd97673ea60e5bce8cb5d8d3b]
+│   │   ├── wazzu-at.dot [a167057983b5545467209e53afb760c4adb487321e86a6dd77875aa4eb83bb9e]
 │   ├── au
-│   │   └── virus.msword.wazzu.au.zip [2ed057566f85e68f92c46bb478a7566801ac267b1592c82146e0945370012e65]
+│   │   ├── virus.msword.wazzu.au [b2694786423007a4a34bef0e3e156027ebabf1e5c4cbb4dd54c91ae2a97b085e]
 │   ├── av
-│   │   └── virus.msword.wazzu.av.zip [235f1446f4b9651ffd553d70cd7ebeed23bda1ad24c8abcb19de43b580650de1]
+│   │   ├── virus.msword.wazzu.av [72234cba961509518f7dcf704e40a538f486d08a3cf6696056eb3454433a6197]
 │   ├── aw
-│   │   └── virus.msword.wazzu.aw.zip [59866e9c80bc8ca28568bf9681a35be496e8cc2378aac3def72a93561d3387b9]
+│   │   ├── virus.msword.wazzu.aw [c43c48cbc219bd2331010e5789c70d30bba9385cfadda46e9978ff207772343c]
 │   ├── az
-│   │   └── wazzu-az.dot.zip [d3a888ead834ecfb9f1f5176e9e42263b92b33e70e31abc991c87d1af23e58c0]
+│   │   ├── wazzu-az.dot [c0062748ce6b5a5a642431ddb3d0f67281840f0a75d24f8a32a4847401eb6d03]
 │   ├── b
-│   │   └── wazzu-b.dot.zip [43389f51c6c48fab6220e9080b4528c8595dc73fe3e0b9615fb43fb1887fd777]
+│   │   ├── wazzu-b.dot [143ff5fb84d1f46e8a7de9f4763d4235b93605392e6343d0d43a0ecd62bbe831]
 │   ├── ba
-│   │   └── virus.msword.wazzu.ba.zip [c5f36618ae4bad43d3f1886227f0eb9a38899d13750014e45576cbb03491c714]
+│   │   ├── virus.msword.wazzu.ba [7699d8ac3bfccbfe8f1e9586ecc15b5fbca7c373889905963ae6eb2ae0d7f92b]
 │   ├── bc
-│   │   └── virus.msword.wazzu.bc.zip [0adfb7744c399ba60344bdc5d848127ef5c82fa366ee1432eea37d2e4cd89d1c]
+│   │   ├── virus.msword.wazzu.bc [4c5f3abcf5ebf2cfd264fbe774f236c2f7d469606ffe83f3036682fe22e0a45b]
 │   ├── bd
-│   │   └── virus.msword.wazzu.bd.zip [7213745be51102fbd22a98e332643ddf33b18c0c404cff8018d650fe9e7d12e6]
+│   │   ├── virus.msword.wazzu.bd [b8d45c4ec8e83a70b1ba3680a978705147091d210819615be54af59946b47e6f]
 │   ├── be
-│   │   └── virus.msword.wazzu.be.zip [5b2ce556f3c5cff2ebf00a315a79000db42172d29961f9e61827fed79fc7f2a7]
+│   │   ├── virus.msword.wazzu.be [720e06dd066f82603be7da91e529018230b855273d0e04c73c316b9c4a4e3953]
 │   ├── bf
-│   │   └── wazzu-bf.doc.zip [8533dbfc72e0d19d56aceabefa1f2eecbe0b7deda1dc12c09efdcbfd7556aea4]
+│   │   ├── wazzu-bf.doc [41dadec4f3a8948029c1d8421bf5e77952157954105f19deae4a8197bf036ec4]
 │   ├── bg
-│   │   └── wazzubg.dot.zip [359b80be93312b391f9a9b77c7c56ce319fdc4232bbc5d36de263f0fa543e649]
+│   │   ├── wazzubg.dot [f848b85823905aa40d6f7015da08b780dbe5955bb73f32d955d91c64e50191d5]
 │   ├── bi
-│   │   └── virus.msword.wazzu.bi.zip [a81e2d93142806b80d5a7506e1a05fb13e9bcc7e37cc04c736723d2bc80be0bd]
+│   │   ├── virus.msword.wazzu.bi [dc718e69cff8c1f96c1209ca186f1904811261ac81595b5a2534ff40da83112a]
 │   ├── bj
-│   │   └── wazzu-bj.doc.zip [24353b8ffcf5e60a042083d1861628f5898e23720bbb59774ad3fc5d93bd6a0f]
+│   │   ├── wazzu-bj.doc [ae0361a3581369b1283f0c9006913801931cd2e163bf992fadf6f1a4817b7828]
 │   ├── bq
-│   │   └── virus.msword.wazzu.bq.zip [2ad3ba6bf2e3e83575258f67f5cc3d066222e8d5f19b4183380b1b510e88af96]
+│   │   ├── virus.msword.wazzu.bq [0b842a160820f23cb617da58295232dcf3be11c2004a3b3cc45f2507e5e1c5da]
 │   ├── bs
-│   │   ├── wazzu-bs.doc.zip [8772f3c47787f34e6cd4d0a434ed99eb38b568a5ab339ef035f1bdd9f1361e3b]
-│   │   └── wazzu-bs.dot.zip [983166b904a2116ed0a0568ad3f5a76f5d2083235104ce622dd19f5ec34393fd]
+│   │   ├── wazzu-bs.doc [5eb561d7f7da128fcecb05d0f5b6e5c28e3cfc0d67e080c33c961b3acc860b2e]
+│   │   ├── wazzu-bs.dot [fb1c54051b018ed993316fd43d8e2e818f841c298cdde52e34813f87da06c2eb]
 │   ├── bu
-│   │   ├── wazzu-bu.doc.zip [b9f65a382429ee1ce902e34e8d125e53da81209fbf3fd9cfafaa75766476baa0]
-│   │   └── wazzu-bu.dot.zip [9e6440da546f8cc82dbbbc8b91f0906126d2f26ce5d06e3403de2821e6576afa]
+│   │   ├── wazzu-bu.doc [5f00362485e9fdce524be75b6cb34b1e0c800c310e99818545ded8a7f77a2432]
+│   │   ├── wazzu-bu.dot [011e5cdd8178c2eebda93684c12493274317c49363c3d9604ed2cb887a881930]
 │   ├── bv
-│   │   ├── wazzu-bv.doc.zip [bd0699db207dca2de4856df7f52fef1f88512f6f07a577cf0247fd04f876f58a]
-│   │   └── wazzu-bv.dot.zip [cc259e3508f753701eb7c8b2430ad6cd40e22cf180ddb4aabe99f1868cd559e9]
+│   │   ├── wazzu-bv.doc [616971a8d371675c2a57c8cd8a9e444e5afe67dbdd14ab51a37e81d15c16f38a]
+│   │   ├── wazzu-bv.dot [26b30c42eb9ff6a99ef3e891eb12f890f93ab66ce3d9d3f046255fde19b2b631]
 │   ├── bw
-│   │   ├── wazzu-bw.doc.zip [7091906403b0c4452d2a44c660d27a62fc29e691f577a708806c7619a6abeba4]
-│   │   └── wazzu-bw.dot.zip [88b0ac9ecb380bc4a11f303872963dec28b3b3022e1fb2cb2ee980d787e266a5]
+│   │   ├── wazzu-bw.doc [1fa326d0244642584743a4bf4a1ce560dd62133bae8306e04b60dad056bb5d9e]
+│   │   ├── wazzu-bw.dot [9dffe4af81d2bec89588f269b0ecf5c9a708b353acf7cf317b106d9a4ec59ce6]
 │   ├── bx
-│   │   ├── wazzu-bx.doc.zip [468ef943655a79e3fe858bd63f10374816e55b8c134a584dac633a35c7ce0522]
-│   │   └── wazzu-bx.dot.zip [3a809a3197898f4a1857d36b4f12bc1efb386367c1b945983fc10c77f922bab7]
+│   │   ├── wazzu-bx.doc [9cda953f0a224ca676478dd50aa902b28d1fce6072afbda0e9a48ceb229c11ba]
+│   │   ├── wazzu-bx.dot [e0b48df00cee1f9ac589b92d4b3e11f46e74bea87bcaca4a0d06b657afb05f40]
 │   ├── by
-│   │   ├── wazzu-by.doc.zip [91eb30b562e4720cbd9f219d64b7cca37abd5b69b2b400c48c18ac3b66c78589]
-│   │   └── wazzu-by.dot.zip [693d0e6b34c7afda82dbdd8b911df473fe55eb510195984e6c07091b427f430c]
+│   │   ├── wazzu-by.doc [e3b5acd573ec6697e2c9eb7bba9c55de56119c37dbb591c8989cba4208e6b837]
+│   │   ├── wazzu-by.dot [25e84d844f4f876f4014519f76cde898c374bfe9159c6fd908a12c7b393d1752]
 │   ├── c
-│   │   ├── wazzc.doc.zip [5e405006c68008dc5886807c2162706e3db57fca7b5307fa2d0a6bab01c20902]
-│   │   └── wazzu-c.doc.zip [46107142f0572b66e141d4c617ea97a5140f1bffd1d62dc908ca9e9336bb30ed]
+│   │   ├── wazzc.doc [8c3e861234dda6c42bc65d0c15f7661efe1f1d5be88cb1f048a0d7c6cd12da7a]
+│   │   ├── wazzu-c.doc [14ead44a2886caf8c0fc80aa78d20e97aa6e0efe03d71968717738be56c36278]
 │   ├── ca
-│   │   ├── wazzu-ca.doc.zip [9cd5bafd0800f3653789394b0c53e2d35153b6d8c5848dcfac3c102d1208a200]
-│   │   └── wazzu-ca.dot.zip [caaf7e7562f72b12b871caba13fc3d0602f5a62c5137ec4dcd35eb68a51de136]
+│   │   ├── wazzu-ca.doc [1217e92c64a27c6358393aada310f9b2a78a7c44efb1e4c642d86b2245947500]
+│   │   ├── wazzu-ca.dot [249064ff2e526c098a5c6b75a2d7ea9d39b9c259faeb8e629410717fdc3a9e80]
 │   ├── ce
-│   │   ├── wazzu-ce.doc.zip [5acabdc7669337b24b403f0e16e37068e31cf563dd8724e9580da85edc59f3db]
-│   │   └── wazzu-ce.dot.zip [7d0af6f8a5a2d7aeaaf96c6a24712c194adcfbc27fb17bf4c8bb944fe45f0fad]
+│   │   ├── wazzu-ce.doc [9e61574f939c03e77427be2be212756ba2fc29bb73cfed1ba404bb84e9ebbf99]
+│   │   ├── wazzu-ce.dot [8320e3eb67258a001fa1c7371492363e706920429c1af6ce4041bf3c75740082]
 │   ├── cf
-│   │   └── wci02735.dot.zip [3be6d972568dfa90e43a02c9707d43a6adb905393b6b6eebf05f174b599a36f7]
+│   │   ├── wci02735.dot [f46235fe9053faddbfab7f0a73f49f6c1fc92633341a04cfe33499ce31a9d472]
 │   ├── cg
-│   │   ├── wazzu-cg.doc.zip [87a2461c5fd7f5248878c2c3b8861fbc331fa4d26c69d3596d65c364eefdca67]
-│   │   ├── wazzu-cg.dot.zip [84c4cd90d5282805ecef56c334e11fcde0537469fa2431779649764c74420bc0]
-│   │   └── wci02745.doc.zip [75d6cebab340cf80157e40674da1553569cc4626fb4819e2a0839212192de81e]
+│   │   ├── wazzu-cg.doc [b920bdd6e4392c6d1f6e26beeb4a263bd63d95514900e7da737a63fdc769c9fa]
+│   │   ├── wazzu-cg.dot [337b646f27d00941dcb6066496322e2f640a49222f52cfa4d80eaa6ff5919902]
+│   │   ├── wci02745.doc [e07062a88377ee9499f221925396741abf93b0a06b61aa367b210a69909104e0]
 │   ├── ch
-│   │   ├── wazzu-ch.doc.zip [b8cd279c085278cc007d0c5b5a3bcecd7638b3fbf5b513b0423fa6ccbbc164ec]
-│   │   └── wazzu-ch.dot.zip [873ed3398fc27c89ff0d1d17c753fe29310e87d2e63d90d0a115840c3a6590fe]
+│   │   ├── wazzu-ch.doc [4cd710c999df7d280f638693ba25c521373e07ef44b722f7002bf62c52ae62df]
+│   │   ├── wazzu-ch.dot [1d7805e5ba42fea499ac6614e3b68332637a5924cc994c2f04e9f64030b17af4]
 │   ├── cj
-│   │   ├── wazzu-cj.doc.zip [a3efdcdcc76d200e6b02aae68a596ab2fc310e0a69799d21cc9a731fb4175edb]
-│   │   └── wazzu-cj.dot.zip [53e7d965b7b12cbca463636756c5e181cd51ecfeaa27666fed38c0830b821c10]
+│   │   ├── wazzu-cj.doc [90e3a99c596f64f18e121507c037b6476dc10a0204c0475974e39b23e82cf6e1]
+│   │   ├── wazzu-cj.dot [3403142d50c84f28531fb56b48cfdeaced4049aa371b7b4baa94022cd594b10f]
 │   ├── cl
-│   │   ├── wazzu-cf.doc.zip [5dcfe47b7e647bc44c3ee5bf416109597f1f20b793fc183bc502c1bf858354fb]
-│   │   └── wazzu-cf.dot.zip [09b394605ea20334d97b00b0592bd6258355a6b43641db730344cca1d1689106]
+│   │   ├── wazzu-cf.doc [7ad2fbaf23ae0653c3ee441c9c03fe9d259c0a2356c5bd3023d1e02a3bebc82c]
+│   │   ├── wazzu-cf.dot [127fff371df4ee58b09e6d1b202d71e98a77684202b4dc7dd744009b8b9a2f4f]
 │   ├── co
-│   │   ├── wazzu-co.doc.zip [175ba3d7c6480eb1e10a5fb733d8db8c665dd77bd55d8f48c9cae0864ccd2e3b]
-│   │   └── wazzu-co.dot.zip [812ad73b3121a6fa5dee416b5d3ca80fda4ccd444e7e8501e094e371dcc20299]
+│   │   ├── wazzu-co.doc [df77714e54acd25e8e91168db1098da3948b040d01d97ec773b1352de287079f]
+│   │   ├── wazzu-co.dot [43173672d6e699450e8bc8aa32c78b0159362321f59d0f650c556c67abe1325d]
 │   ├── cp
-│   │   ├── wazzu-cp.doc.zip [39270542c595d5d010e549496787d102d37152fe3846ede0cee54888b0486362]
-│   │   └── wazzu-cp.dot.zip [19c063dd01ff50774d8174256d9f70d50c211c5e53ae3548a714b67bc4b768a3]
+│   │   ├── wazzu-cp.doc [b47f64069cba0b8d613526cc99ac5b069d8a2df5ad01e954c360ec94375547fe]
+│   │   ├── wazzu-cp.dot [417c43c660d5146414c0f3181fd9a692cb7828b4f218b9fa851f4cb47d6ba301]
 │   ├── cs
-│   │   ├── wwwazzaw.doc.zip [706c58ac25d7b51f706852e0d03ab33fe57935a2f6f59942b1ddee0fe2b93fcf]
-│   │   └── wwwazzaw.dot.zip [3bf118ee902387951a589a6495e9234b56fd44eb30ae094de7f95471513f0996]
+│   │   ├── wwwazzaw.doc [49036b791d580508ff7858d9e706f1f0b001ff5b0485cf8b64228dda85f2f098]
+│   │   ├── wwwazzaw.dot [0eacfac2f896981369861a48f1c86cb3561b79adddc2ddc3ba4f75ae43318c33]
 │   ├── cv
-│   │   ├── waz-cv_1.doc.zip [535b26e845e5e42c5bfeb578f6f38b626297788dec6a0237dc8ce2c390fea24e]
-│   │   ├── waz-cv_5.dot.zip [f6d42f72cb1528257070d581770009b508accfb9fb0b6cf1b15529ed27ba8a94]
-│   │   ├── wazzu-cv.doc.zip [9c57771c0b957d01dd6e97656046bd62d7e24e30a0e42e27ed4be0d36ead05a8]
-│   │   └── wazzu-cv.dot.zip [c4756f669ade846db7b384217eb731897d26ad00a1c5fdf981b0322e3457f909]
+│   │   ├── waz-cv_1.doc [fdf11862ec0a8b06e7f3f8af7cd59820460c9d22f757ed6c1aca965d64102033]
+│   │   ├── waz-cv_5.dot [b0d222467c76d048830fb7cb930787975f6e1ba53264348dde3ede04fef1bf5b]
+│   │   ├── wazzu-cv.doc [c8ea257fa54ee8e4f5109e9b8b2c97056023c27fdb4ac83532491088460a80ae]
+│   │   ├── wazzu-cv.dot [e9b8ba90b6e6060864f3aef76540169fa252ce71416c02f34a538e77bf6e2946]
 │   ├── cw
-│   │   ├── wazzu-ce.doc.zip [63c26038b6c9f404d26eecad4146b3f1326af89b65571371c2c822fa5f48d53c]
-│   │   └── wazzu-ce.dot.zip [fbb469677814bc5a206cefadc206e3c046f428e8d4bcd77de76159c8159b629e]
+│   │   ├── wazzu-ce.doc [41d2f0870254d7d981be0d78a5951af83268dd3bee7890a784b76e0c27f3943d]
+│   │   ├── wazzu-ce.dot [0ca4449dce7f42121cbf667204d08b6d105171636860d701b88cd051f2f1b863]
 │   ├── cz
-│   │   ├── wazzu-cz.doc.zip [c9b080d600632d0b26d5f808447bc3155f15ef8e9a3a4556f053468a950a2f2e]
-│   │   └── wazzu-cz.dot.zip [98cbdf5a877ad3516f8e35c89c7f53745e39d634608e59851b4c8c15c775de13]
+│   │   ├── wazzu-cz.doc [47d5f5882b145ad88ae48aad7565f21670e0887a7738c5bfe18748abf3264e54]
+│   │   ├── wazzu-cz.dot [54c0dc72f42ccc822e14f971987e68bd0889cd1e43959845488d7858384339ae]
 │   ├── da
-│   │   └── virus.msword.wazzu.by.zip [ef59dd22c5ee9a7d4a81a83d032b351279225dc264260e6d6a0fb23f504b211e]
+│   │   ├── virus.msword.wazzu.by [7534201277a8f7f34c3110d0027571c7fcb1fd215cd3115f47dc2b52f97d05bd]
 │   ├── dc
-│   │   ├── wazzu-dc.doc.zip [181777c76916811678f83982eb86205f3efa17af2c9dc1792276431a4d57b44b]
-│   │   └── wazzu-dc.dot.zip [b641b4b4b380e5ea589124d62d8fa1ca15466239c21ee8abdac1c224d4a31cc8]
+│   │   ├── wazzu-dc.doc [6703ea774b3e232c34c852c1963b9923b408dfd216c491931dc73085e95f9114]
+│   │   ├── wazzu-dc.dot [e1356c915394d82701c1e3c43aa242a63a092d5c8a39d507c188fb6691c513de]
 │   ├── dd
-│   │   ├── wazzu-dd.doc.zip [5f8b88f7f8fee58d7687937194acda094bc05d2bb5bf2411729d4e43a31a8995]
-│   │   └── wazzu-dd.dot.zip [80021df7ccfc7b01556327e0abc1c74b6e7cbe80b2083907bcefa022951fb91a]
+│   │   ├── wazzu-dd.doc [9c54913a7bdb927d2347cb46e5fdde2f311c649e873a2ddb7dd438c1fcb37855]
+│   │   ├── wazzu-dd.dot [31a79690c0debb4b8ac2aadb4165f0145f169a06ff4136213e1ce3dcc1dc388e]
 │   ├── df
-│   │   ├── wazzu-df.doc.zip [fd88ce2c11ec6152362e8c39c92be5ee160f9a9b9e2aa2e32b227c4edc29d5c1]
-│   │   └── wazzu-df.dot.zip [c65e3ccdf5868ccc92f018ad2294c9942c8fffae19a9467a8030f303341dbb38]
+│   │   ├── wazzu-df.doc [6011727ca95810829eb44ba15c8d480935c58ae8c6e595472acefa26c37814c6]
+│   │   ├── wazzu-df.dot [98e5a0bd698b0730270eae260e5af8fc85ad068cddd6f98f6038aa90fda72965]
 │   ├── dg
-│   │   └── virus.msword.emloy.zip [95557920815f99d81b929dc40c41420e1d7fe2717530458ade2764a20a0ad0bb]
+│   │   ├── virus.msword.emloy [b91ca62b49d56e161da8db775a70cae03afd682a28721b3d0dbac6586f34283d]
 │   ├── dh
-│   │   ├── waz-dh_1.doc.zip [aa95c49c41284dd808664e3453c12f905800c56ef0d8000b182597b94f726c72]
-│   │   ├── waz-dh_5.dot.zip [d353c911ffc0b739bd35afe6bd6b596e89da4f307aade2b51dd2f6049a978087]
-│   │   ├── wwwazzdh.doc.zip [69aa287fad12e068b89aebe030dc0a0bc6c075658586fa70d42a0747f02f1ed1]
-│   │   └── wwwazzdh.dot.zip [372cba70e98816dd9fa11a57681ad9185f068b7a2f49184111e18cb7cba815b0]
+│   │   ├── waz-dh_1.doc [652665a2d473eae20659b15300527f96ed1f6d366956fbeb87f822a372bb83ec]
+│   │   ├── waz-dh_5.dot [31fd5b89d4a9b817d1db48ea2277723a4a15661a9ea843e4fa2e19e9af7d1a2d]
+│   │   ├── wwwazzdh.doc [5b1276ea142850b7c47a48a1bfedd415bc96644aef19229f4734b25825f29393]
+│   │   ├── wwwazzdh.dot [bbd2d2fc91bdee5e3a73cd20c42af53d674d6231437d5edf1a92d0abc2b542d4]
 │   ├── dj
-│   │   ├── wazzu-dj.doc.zip [b39071fcae438b4464946938936b2b55d8cfee4ce2e80f4b469b757d05e0f0bc]
-│   │   └── wazzu-dj.dot.zip [2ca10b810fb9bf4587a2420624cfa000504c55d866abe2aa42cbb9a3c71fe8d0]
+│   │   ├── wazzu-dj.doc [ad585302f12b011a828ab4bd7bbdf6fa2b89e4146e489cc6b5e2ae7b543dfa1e]
+│   │   ├── wazzu-dj.dot [b7def6f9ae71f1f83168495cd7bc2374ed23ab9067adde20fa42dab47481917e]
 │   ├── dk
-│   │   ├── waz-dk_1.doc.zip [324417708f78d04618403c1b33b4da3fe637be27a316620c57a8cce82281f06c]
-│   │   ├── waz-dk_5.dot.zip [1bcba5ab3b9c43e6f6bc0f1b0a4a93790c134e0b391da16d510d9b2e9b37d9f4]
-│   │   ├── wwwazzdk.doc.zip [0e44dbef22cd54e00489e57ab06cd08f947b3de3b414cffda1e826cb5e3c9c48]
-│   │   └── wwwazzdk.dot.zip [384fe5702c662c60f2a0114bb3bd1ed17f9ae507606778fda88c9f02299854d6]
+│   │   ├── waz-dk_1.doc [5abe899445485f181fcd531817719c9aff5b13a9eaab49d8e1dbcb3a81a3738b]
+│   │   ├── waz-dk_5.dot [3031833501b6928f530e989bad6e9a763e6b4b7c9b4e721ab15d7975da0a16b1]
+│   │   ├── wwwazzdk.doc [0ca024c9116045e3f33000f6040e54dfe0ebe1e1ce7564802bdc2da28fa84c5f]
+│   │   ├── wwwazzdk.dot [94d151fd45f54fb16917590d3513f4adfe7ab174bf3be79dc2161f15fb9530b5]
 │   ├── dl
-│   │   ├── wazzu-dl.doc.zip [664474e5d4ad6a3292664a04f59ad907cceb337ca17415f350ada6e3c61b76aa]
-│   │   └── wazzu-dl.dot.zip [68d59f92a91ddc63567c62bec37f94b9e0bb9fcb1bea5d0f218273976e519d4b]
+│   │   ├── wazzu-dl.doc [9bb862e0e975a4f080c6b71b35f012ebbd2f081c28f6967f9457dd5d9e29d5b7]
+│   │   ├── wazzu-dl.dot [60ef89c597ea1d1e83c81fc39d3be1cb5fee80fd1cd9a2ef5fe87bcc9ac7a37a]
 │   ├── do
-│   │   ├── thery.doc.zip [d6575788c3d846be9d594e6264bc31fff3bc2cae12ba0ef6c6083dec5a313f3d]
-│   │   └── thery.dot.zip [f834934d6d6821f4d327de3663ca59e4233921003461a4c6c49d9af61dc0050c]
+│   │   ├── thery.doc [5cb846af06a55920c9dec4dd322b11c283c15f2ea4b3ec81795ec479919d85d9]
+│   │   ├── thery.dot [3b161be7fa060f83857758d319ffa8b12de3c3eecf85c35c28e619db37046e09]
 │   ├── ds
-│   │   └── virus.msword.wazzu.ds.zip [5d7a8b5cbe39711ff0cc5cc4cdf62b9880298e7c25362157ee53c6c8a7b8807a]
+│   │   ├── virus.msword.wazzu.ds [52912ac0939254256a80d60f511cb8565fb581293a46ba0a09dddcfb3f22bec3]
 │   ├── dx
-│   │   └── virus.msword.wazzu.ep.zip [7ca1d3fcbb34201c5f7dd7f3403ba08c4786fc0634330a896278a6f6384e24c3]
+│   │   ├── virus.msword.wazzu.ep [4dc9da33b5bb6f564595084bacf15c7f72067fe8e2864dea3beff866a0be5435]
 │   ├── ek
-│   │   └── virus.msword.wazzu.eg.zip [37ddb5b387090cc87e19860d9d10cf5c3118ca07135c6d24e814e88bd405dff9]
+│   │   ├── virus.msword.wazzu.eg [453478a7a1e3dd897eb23954b0c25a65270e00b581aa185b85aae1845daadac0]
 │   ├── em
-│   │   └── virus.msword.wazzu.em.zip [d59ee3b3a55e620f591172f98a31e955387762897c93171d49bd40f2f6054e79]
+│   │   ├── virus.msword.wazzu.em [b661c4473489dcd52ee186dce1146e33473e70b4100c045ade8f0eafc1e00ce7]
 │   ├── eo
-│   │   └── virus.msword.wazzu.eo.zip [b6a85844406151750b28f69f081d8205ebc6f628976c0dc091ed36eb13a6e94a]
+│   │   ├── virus.msword.wazzu.eo [3d313d8c9c3c4a6fc895bfc04ee20e3d7a45a710c1d9a215d316b941f6bfc39a]
 │   ├── ey
-│   │   └── virus.msword.wazzu.ey.zip [e0bde333f2d13c3308c5059766c8a13ced507b441d7b79856c28f15ea880e90a]
+│   │   ├── virus.msword.wazzu.ey [224f2e6d2b05fd026e13cb07252e6a1d2ddd213571e723af0d7d058dff775e9c]
 │   ├── f
-│   │   └── wazzu-f.doc.zip [607d938479ba4aa53d86ee56c4c3d48d92d3f80974febfdc4d5abf24b47f1259]
+│   │   ├── wazzu-f.doc [99e31ea2e588cbb2acc4dc65151e561d003645cc040647c50701a642dbab0045]
 │   ├── fk
-│   │   └── virus.msword.wazzu.fk.zip [c0ea7d95594f7fcff89d287cd00ab51b6db17417166de02fbe356e372bade4f1]
+│   │   ├── virus.msword.wazzu.fk [265a56d0c0ff6849628077d44359c98130efd70107e6ff8fc9687bde83389d54]
 │   ├── fo
-│   │   └── virus.msword.wazzu.fo.zip [ed45d2338e13de9d06785bd5159c39b8f29abdce6d35da5e4d1f3e78d66ee850]
+│   │   ├── virus.msword.wazzu.fo [394c145ccf5b21bd855faf01ec7c7d2236e68848da2d01ff3d874cb1c9473762]
 │   ├── ft
-│   │   └── virus.msword.wazzu.ft.zip [5941fbd6fda366c9fc03cffa6f773fdb18b189f570e59b4277d3c9f354ca2a12]
+│   │   ├── virus.msword.wazzu.ft [7c9bc1644ded1a795384a9f180604783f05211e006b8f07b538ed33704dee38b]
 │   ├── fu
-│   │   └── virus.msword.wazzu.fu.zip [1a205119d7e95ba584079d1c1080522e76168e7fed514baf527dbce290d3d939]
+│   │   ├── virus.msword.wazzu.fu [9c69121855a29153e0ad6dc1d8b4b9138c5e4ff29a045dd63a1b1b5a02eb7269]
 │   ├── fz
-│   │   └── virus.msword.wazzu.fz.zip [d024a717f0b7848967167751302f75c1105a621ca5e7129df0a5a7e22dc4d143]
+│   │   ├── virus.msword.wazzu.fz [b262cdb7fbff36ffa7e39aef908197f2d554bf330cdf139eadecfc32dd267799]
 │   ├── gq
-│   │   └── virus.msword.thery.zip [4ef078e411eada4cd5cc4967d7f4b1d2c208845a982d0fd00b25c4de6206f26e]
+│   │   ├── virus.msword.thery [9469900fcabf8a947ee029d273b2ed3ac4ec66ac1a99cfaeab141f10e828f356]
 │   ├── gz
-│   │   └── virus.msword.wazzu.gw.zip [1e0e08b818a19696b89e2c29a8d0ae6a2ee4e272482278b8cede27ea123d49bd]
+│   │   ├── virus.msword.wazzu.gw [2e861d6df726ccd473dac197f0cd86e77d90022f74c5503d98e3944004ce4297]
 │   ├── i
-│   │   └── wazzu-i.doc.zip [1c641d765868ae892654c39e44cf9da61a932456189c59e73e91e68e7255da2f]
+│   │   ├── wazzu-i.doc [b103aa54745ca43cf56467ee549a3762faf0ff8f58a5d8700456b756ce816557]
 │   ├── j
-│   │   └── wazzuj.doc.zip [63f590b0f3cd1caff8422fd17542ab82ce799ddea35e90f30e62641c43840d53]
+│   │   ├── wazzuj.doc [3e1b80e39182a2f1585529e41527d44d31ca294674f9903204030d8f8d657b95]
 │   ├── l
-│   │   └── wazzu-l.doc.zip [07fa731443f0fc6b1a15b0c7db4afdb73c2762e31f0c15c75f71fe787d594870]
+│   │   ├── wazzu-l.doc [0fafdb4ce9b984b3ef63a60adc35e9295b9fffdeafa196210eb89489c8736b40]
 │   ├── m
-│   │   └── wazzu-m.dot.zip [8a18d3c875d7e752aecb7315e1b1d69311b54bea89d67bed7bed967f6dfb2bc5]
+│   │   ├── wazzu-m.dot [8bbf9ddf2ba65ec2a8cf2a32ac954796a38514bccdd13abb69940a8dce53e94f]
 │   ├── o
-│   │   └── virus.msword.wazzu.ax.zip [679b5d61abc5fd5b708185f005b315948893d584d522e5a5fb2ffa2389cc171a]
+│   │   ├── virus.msword.wazzu.ax [bbef2430ca496dceb426f5160b925e36e08269d5fd794033699617c6f114c8cb]
 │   ├── p
-│   │   └── wci02765.dot.zip [f2e93639a3f60f9925da94ef46c511b9f85cbb06bf8d0591ecfb3d1428d35a34]
+│   │   ├── wci02765.dot [7bac58e64e8334e846d5588478873271ae534b601ccff1e92f3d17fd943b573d]
 │   ├── q
-│   │   └── wazzu-q.dot.zip [ad627723d6d3cd9e9fde73648e0194e1a9e47e704877df1bb36c1b1708bb90ab]
+│   │   ├── wazzu-q.dot [5050e095d30e27254646d60906687d04cf64e2bec407bca634d7cee040b774d7]
 │   ├── s
-│   │   └── wazzu-s.dot.zip [76882d3cd043d3a93a03d4d8f476bc80f1ecc45c34ce82737fd7c0c367e32096]
+│   │   ├── wazzu-s.dot [df1106002337e7ab60b44ab74072c52c68bbbf98a8bf35930d259cbeeae994e8]
 │   ├── t
-│   │   └── wazzu-t.dot.zip [fad22139866071df6e7eeca021a8585c2f2a203ab32b873ce8558e86406bdf39]
+│   │   ├── wazzu-t.dot [3273e6077c8f2cb85b248de19e360e1c3184c9cd80b83b186327728dbf3ff0d3]
 │   ├── u
-│   │   └── wazzu-u.dot.zip [0fe22b7bd7b56f10e4752cc12edc69739fdcd09dd49afdd8f8fa22f6b3056967]
+│   │   ├── wazzu-u.dot [b1f61dc416fa2bcccb91a95d60603e0132e603063dc39356af440d7f5da77f28]
 │   ├── x
-│   │   └── wazzu-x.doc.zip [2de3a7bcf7c201a5a346b5d9c9c4840d7fcef065cbbbf4a2ca8ac498eb9489bc]
+│   │   ├── wazzu-x.doc [d870a5fe2147c248feec21d430f0bd02a2d063de512b9d72becbf5a01184a6a9]
 │   ├── y
-│   │   ├── wazzu.doc.zip [f46de021dc59b96dc39c7aa6578580d52529da0aa414c92bee1ec3884a32020c]
-│   │   ├── wazzu.dot.zip [b5022f4ce6a5d43f2e15e4538c67646a4318e6038c61b98716f01235db16a8f1]
-│   │   └── wazzu_.doc.zip [eb18a72f47676dc803faf5622e58bce3b13ff7556aaf335268aa9d1f78f2ba98]
+│   │   ├── wazzu.doc [f9121cff26861af2218d760a2b4933fdbc95d9293a1f5f606fadd4baf9a0d24a]
+│   │   ├── wazzu.dot [1ad9c04e52fd1503e557197e7e861253b7b21e853c6f8619f67bd2989e861d61]
+│   │   ├── wazzu_.doc [d5ce86de1dc7c0fe8171972750f07b5eb215beb8fa0a582230f02f860018d3a7]
 │   └── z
-│       └── wazzu-z.doc.zip [c4b83568702b8aac7bd32e63753eb3a6911d734c5dcba3a09777a4d408100016]
+│       ├── wazzu-z.doc [c5fac2a0f83a03bb9ac545e293c8e74ed31503b53586d5c2ab0ed81ce79dfd3e]
 ├── weather
 │   ├── a
-│   │   ├── tools.doc.zip [c27b0ee39a2528c823e58b8e0cd95f13922126707e2b044c213c79ae1b495057]
-│   │   └── weathr-a.doc.zip [ed5c9913932568ce75914b4132a1b8451591317a8405f223277bdbaa5fe1a0ae]
+│   │   ├── tools.doc [e6fc19274329f4ba2b08edc407ffed7e6d48a5433c78844d16a3b47897f28452]
+│   │   ├── weathr-a.doc [acbe597f1ccc1ad293cf4eabdfd62ad7d98205d48f8673c8f744591724a2ab58]
 │   ├── b
-│   │   ├── weat-b_2.doc.zip [7394fd7e70deab001012ad2082fff4273a9b1aad71edd5e8a5aa58303126cac8]
-│   │   └── weat-b_4.dot.zip [d6e62a7eda7f6453349dca12a075b7a32b119e7b3d5ececc1778d2b1cc2effa8]
+│   │   ├── weat-b_2.doc [36c9bf7c17916bce0c4de6b5de3a65834ce042546544f1ff52840acc706eb7ac]
+│   │   ├── weat-b_4.dot [3b812daa212c9cbef0cc1fa71a4b5cf3db100f3e2f9adb4683c21329d3f6c961]
 │   └── c
-│       ├── weather.doc.zip [05f3874236c7397ba736b3f80cec60420ae06e9203797f7df2e41dc4a302ef8e]
-│       └── weather.dot.zip [28f9421d727f522eb4f04ac95b04eece9034eaf2616ab2c882c46c3220835190]
+│       ├── weather.doc [1978c98cd5f3657546e7208aa72021b311a5fe0981e943291ce5d3c07c49f535]
+│       ├── weather.dot [15d78482c0a89065019430e98160c35f3e9062b791893ea537be9cc10b054e2e]
 ├── why
 │   ├── a
-│   │   ├── why-a_2.doc.zip [e1770277dd20734c3442440c7b331ffedddc0d9ffc24155b220568000c35dea5]
-│   │   ├── why-a_4.dot.zip [4d1d0d195318e9d46b12ee96b589b580385124bb297d0689e95b0ffb35e486f7]
-│   │   ├── wmwhya.doc.zip [bfcdafbaa2e236701a4ae18b55b2461dd73b57815251732dc90d806b42b2cc58]
-│   │   └── wmwhya.dot.zip [52c6fba96f04bfaf15971cb6229d651ef7ee0d551b747683e108f31d06040371]
+│   │   ├── why-a_2.doc [e3163de2c1bac8a3871671cd22535927f0bb4ef62aeee28e7f9d3a4a0a786bd8]
+│   │   ├── why-a_4.dot [7f83aa3b5d5532cee00a37e8a0cd3d47f60d6fb36390d49b984fceedba6b3522]
+│   │   ├── wmwhya.doc [ebfec8ab30149bcd3d8b0ff89179028fd8380a06c077e4e39ef69ea599945f03]
+│   │   ├── wmwhya.dot [42c917d5b18d0848170aa1bb4aafedddd6a60bc11b5fdc11797679af3f96c820]
 │   └── b
-│       └── virus.msword.why.b.zip [a6bef847dd41127e7422821d9769d50f959a5ffc320992d5d04b19a402ea5cb7]
+│       ├── virus.msword.why.b [c4cc655c9afedf29858b3c567c32789e77041bcfc44b27417807253bd759e5b5]
 ├── wiederoeffnen
-│   ├── wied.doc.zip [134bee0b507bd7096b86c775a6be4c3b63b46960388de7d2f47091b34c4ecd34]
-│   └── wieder.doc.zip [cf0d05a6395d788bdba56c356bdfde6c2fdbef98f43107ab4a066b3414a56d83]
+│   ├── wied.doc [a125b076df3b7dc36ceb806918144f4e0e6a01a60ea4539e7d745c959cb14d03]
+│   ├── wieder.doc [daaa2197b4ab6ac500dafe2b20832b80a6d920b5b9619b1d9949cc948793885f]
 ├── wme
 │   └── a
-│       └── virus.msword.cc.zip [36f91d9f7616610f87e01c7805f21c6c2f1ea2eb4b2198b5224cc567d0f71d95]
+│       ├── virus.msword.cc [e51732e81c5a3b7157706b7a05a83b712eb42fdcbb45e0ec81aae501bf4ddeea]
 ├── wmvh1
 │   ├── a
-│   │   ├── biedemo.doc.zip [78c95cdfa25936b295c79db0fad18fdda4c521d749ce3bcf2401ad59b62dbdb2]
-│   │   ├── vh1.doc.zip [75b9895036495017054c325e8b68e88678d9835c44571df87552f8fabc0ccf13]
-│   │   └── vh1.dot.zip [564914fdde7ee363db5a92d2f5d9e9641b82f2e9e92eba18e5971992dcff3b54]
+│   │   ├── biedemo.doc [5281537f62ccec526e71892a57f88d6b002d4485aa6cec49b29d6915270bd4b0]
+│   │   ├── vh1.doc [4b6f2d5dde646ca1dd744b724f4c9b898b85742a36ba734587ddd12e4cbd2ecb]
+│   │   ├── vh1.dot [80ee589db0eca133ecbc91faa7048dba4f78e959b060a7888f18eec217cb542f]
 │   ├── c
-│   │   └── virus.msword.wmvh.c.zip [f836684c4b856952647c3818f7c6a1b83e10588ad1a6e46f6994df08c36ab067]
+│   │   ├── virus.msword.wmvh.c [bfa7caccc59fc5bc2783a231b5d1d4603c6a997c7891b0e43334f3f610ca15e7]
 │   └── kit
-│       └── wmvh.doc.zip [721b9f42ccda7827adaef9e590b644241a9aa1fad4fa11027babb4c28aa7ad9a]
+│       ├── wmvh.doc [29becf81703720d4cd8271dcdec97403aaba9d554f65c80177d631d2f361f791]
 ├── wombat
 │   └── a
-│       └── whydoc~1.doc.zip [48a5fb917ef1f43b4285a01884c6281ab053089c9839d402c61ec52fffdee215]
+│       ├── whydoc~1.doc [da0bbc78a336e3545a508dd629632b3820b8594f4e12c7e86d7ca2ccce244c04]
 ├── wompie
 │   └── a
-│       ├── womb-a.doc.zip [adb62b0ee8713e34c682591fd8e5492b42c67a6f96cb1e740018774b6b5e2cf6]
-│       ├── womb-a.dot.zip [a94cbac51f2aae20e00e68acf3cbac0b9814ba438e638e1e063eb51996d3c0b6]
-│       ├── wompat-a.doc.zip [31e5d10db156350e8afed5df0dc58956c5cc81a39a59591cafae3f792f33589c]
-│       ├── wompie-a.doc.zip [14968f8469dc8b98698365107fce97649cd427b93432136d02cb5d4cf65c2251]
-│       ├── wompie.doc.zip [a28e296a98f8b085706e4698385088605a1d4623323548c6365662d22128457d]
-│       └── wompie.dot.zip [ed220542e91c866924ade9ed455e31e0de9b00e8c79985aefad07dad1e32e919]
+│       ├── womb-a.doc [1291e6715d958a5ef1b03dc30e3f0501d4914c637373b7dabd58c3799f57249c]
+│       ├── womb-a.dot [dc8048f187ed54d62ffa76447bfba00d30b611f2e217b8b389648a1ba571f94d]
+│       ├── wompat-a.doc [da0bbc78a336e3545a508dd629632b3820b8594f4e12c7e86d7ca2ccce244c04]
+│       ├── wompie-a.doc [a342a2a9640ad0b21f91b3340906a2b566bb8c56b66c86eba49bd70415a29019]
+│       ├── wompie.doc [af1d5354c7481aa41becc33040344bed108b4175d39b254c632b65756ecba0b3]
+│       ├── wompie.dot [d1b71c69efe13d064d1dba3566496a565e4b0ad1aba5dec4ce90d8d5fc318dad]
 ├── xenixos
 │   ├── c
-│   │   └── virus.msword.xenixos.c.zip [d2e25623dc5f165b296cb4d5ac363b6e103531d953b9669b9380613192fafc8a]
-│   ├── nemesis.doc.zip [f000425ed379f77ec2f08d2259bc937cb1782a6eba09fcf7629b565f1e4ad422]
-│   └── nemesis.dot.zip [0e256550905999a8d13a76ea3ae6e54ceb83e6a15f4c4a1d5d52f3f31be15c3c]
+│   │   ├── virus.msword.xenixos.c [6b78083c52dfcb99c4ae765f9e72516760dfc8d10fcb673daebc5f320c2a27fe]
+│   ├── nemesis.doc [608bbbc5c6483bcbafdcfb81f9428afa769148112a57ab81a86e6bb8163a0d30]
+│   ├── nemesis.dot [926af035479c7d9be08aa788d535e2386af82d401965b00300cc998910bcabea]
 ├── yaka
 │   ├── a
-│   │   ├── yaka-a_1.doc.zip [9ff4f28d7912a89b366c83a771b6d0b86998be902b1027cba8684eb5250cdb37]
-│   │   ├── yaka-a_5.dot.zip [adb1d1a48b7038d51ea953f973e4be22cde7a82e18b7be54fa8147a083143aca]
-│   │   ├── yaka.doc.zip [9cdebcc842a6fa688099d551b0cdde735aa6aafef67c2b0326be4cccc9c45ade]
-│   │   └── yaka.dot.zip [90ec70131532c98a5866fb9639c5ab8643b43d46e9ece33c98726f69ec5e689e]
+│   │   ├── yaka-a_1.doc [3a0dcbc124fbc9752813ad9eb1e0a1907df44edf5b68b2ed677548e1a49744ce]
+│   │   ├── yaka-a_5.dot [55ecfeda871cb83b96a3551736420883e3a70b0b85daba48adefdc3d9cee41b4]
+│   │   ├── yaka.doc [07a95ac815cd234fbb6771d00339f47047837a8deaefa233e7409d3d2eec8dda]
+│   │   ├── yaka.dot [c1422f7766a655537c4145f5249f665408679b488f60c28fa3a3740d3c8b2d79]
 │   └── b
-│       ├── yaka-b.doc.zip [e6dc30963736153bc43ef72da909473aa2a8c190b1340fd25de4bc649a3ff4d7]
-│       └── yaka-b.dot.zip [93104e3dc28386adb0bed59f8545ce0cdb2f57a1daa45ecd478306be9127aca3]
+│       ├── yaka-b.doc [a939af88a086836b5858edb89edc25595b752691cbb6b015baa501342dcd0382]
+│       ├── yaka-b.dot [5cd925bb56c9c1e6fd04ae548a0d6d70e9fe3e89f216535936b7808180501661]
 ├── zero
 │   └── a
-│       ├── tk-dec.doc.zip [7a58988dbc853643a3ae49f9f33107185a3e4950cca96949420eb3409c25ef3e]
-│       ├── tk.doc.zip [ef81067fc3fa79ac4947c2492c5328d31f65686018c65bedc37b3826cce80aef]
-│       └── zero-a.doc.zip [3e95bec9f127ac76e490f0ec46874b70fd4ac424ae1f72118eb03d0c7ebca02a]
+│       ├── tk-dec.doc [4bfbe9eb3f3b2a65b50ed453e8151abea4b23dc18258ea0726e11985e906197c]
+│       ├── tk.doc [45c5f90a11b9049e9852037371a0aa872d3b515b69cdc96c3c193d60836a7552]
+│       ├── zero-a.doc [45c5f90a11b9049e9852037371a0aa872d3b515b69cdc96c3c193d60836a7552]
 ├── zmb
 │   └── a
-│       ├── zmb.doc.zip [952df1d326402d804267c80717eb419e32a3fe4e4320cb728c5ce38a13d5d842]
-│       └── zmb.dot.zip [27bacef8c459ca2362606b01b0e1ee2fa57406ac3d2a12db75db0e5001095061]
+│       ├── zmb.doc [4da28bbaefebb721dbbf58e41f941c8aff14a91e38361cadfd4b0926d486dacc]
+│       ├── zmb.dot [91c0109b074414a6259175747d2289d32cfbf9e32f45c913144260e98a46d895]
 └── zoolog
     └── a
-        ├── zoolog.doc.zip [d72597f6acb1cdfb8e1a9657614170e59fa9d5e41a57f8023920c2883ffd383a]
-        └── zoolog.dot.zip [19c23f9b28fa928805b84b46c80168bb8f8fd90e39be5ea0e6d604707881237c]
+        ├── zoolog.doc [4ca001b78f65a5042afc85dc26cea7f64a029ea349938b3ab334ebf4d5e02908]
+        ├── zoolog.dot [0895f63ab8b7fe5f719ea139ceb8c14c78ebb2cb921804c011d1006aac8996c6]
 ```

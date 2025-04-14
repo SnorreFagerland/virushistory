@@ -2,6 +2,9 @@
 # Contents of `voodoo`
 
 ```
+├── 798
+│   └── a
+│       └── virus.dos.nrlg.voodoo.798 [48e7c4458a455b81f60da59089f7e5078043dda590b16afb918c2d514d160df1]
 ├── 806
 │   ├── a
 │   │   ├── t2.vom [7eecdb7160065ba5bceee314e57acda317804c6824ab39b82d12fc01853bfd31]

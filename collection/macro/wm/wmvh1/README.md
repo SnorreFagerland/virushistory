@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   ├── biedemo.doc.zip [78c95cdfa25936b295c79db0fad18fdda4c521d749ce3bcf2401ad59b62dbdb2]
-│   ├── vh1.doc.zip [75b9895036495017054c325e8b68e88678d9835c44571df87552f8fabc0ccf13]
-│   └── vh1.dot.zip [564914fdde7ee363db5a92d2f5d9e9641b82f2e9e92eba18e5971992dcff3b54]
+│   ├── biedemo.doc [5281537f62ccec526e71892a57f88d6b002d4485aa6cec49b29d6915270bd4b0]
+│   ├── vh1.doc [4b6f2d5dde646ca1dd744b724f4c9b898b85742a36ba734587ddd12e4cbd2ecb]
+│   ├── vh1.dot [80ee589db0eca133ecbc91faa7048dba4f78e959b060a7888f18eec217cb542f]
 ├── c
-│   └── virus.msword.wmvh.c.zip [f836684c4b856952647c3818f7c6a1b83e10588ad1a6e46f6994df08c36ab067]
+│   ├── virus.msword.wmvh.c [bfa7caccc59fc5bc2783a231b5d1d4603c6a997c7891b0e43334f3f610ca15e7]
 └── kit
-    └── wmvh.doc.zip [721b9f42ccda7827adaef9e590b644241a9aa1fad4fa11027babb4c28aa7ad9a]
+    ├── wmvh.doc [29becf81703720d4cd8271dcdec97403aaba9d554f65c80177d631d2f361f791]
 ```

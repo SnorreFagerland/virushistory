@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── spiral-a.doc.zip [aaa3fd5d2f642dca467407ebba6b18ec1ef7b2e97b325a3b38ff74f873228ecb]
+    ├── spiral-a.doc [3d9605471c8ec25a5aae9409d8ee211336f2aeaed48ff8c49a219962ffa2dd4b]
 ```

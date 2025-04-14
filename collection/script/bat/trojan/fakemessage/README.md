@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.error286.zip [6e629c28489f172c5da079128f7add03ddee715d6d82a5cd93b4d65bff5eefed]
+    ├── trojan.bat.error286 [b36b6079b7da4b6f6376bb97c1023193e7e65983e0a9f6ad4fd914421de0d187]
 ```

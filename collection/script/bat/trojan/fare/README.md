@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.fare.zip [632892d7cdc7103266845def8755cbe72ad163d34d4f5328c59c4e9528d45277]
+    ├── trojan.bat.fare [92977f09c9d476f6f9138457cd4981feb06fcee36fb120036fd7aca5569002b9]
 ```

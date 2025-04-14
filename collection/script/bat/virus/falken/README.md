@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.green.1431.zip [f53b2e69cf0abbc7df40e3ae25bb4f820e9ed201bb0456aec871e50c2b516ef8]
+    ├── virus.bat.green.1431 [27845d2610b370b090e1f49a005e5dbb0a60cbccc4e19ebda3d8742f2b374232]
 ```

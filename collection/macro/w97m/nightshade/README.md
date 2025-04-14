@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   ├── nightsha.doc.zip [ae4320f210c7b69f5bf7150fa2ccba98b3a81c4e58288a69725aa292922029aa]
-│   └── wci03113.doc.zip [2b3c52f093d68461b449d3a6e54f944bc796063ab8bfa6c0f1e462cc4f06f9f9]
+│   ├── nightsha.doc [6ef06ac1cfd4e42ff9a1c01e5a7719a9e0f86570c8b1ae0cdc573d3af8bdeb72]
+│   ├── wci03113.doc [5690f820a304def993a8029fbf87317bd8a45723d2f3fcb492358be50a0c121c]
 ├── b
-│   └── virus.msword.nightshade.b.zip [a4a0b8683c63d091cdd47e2fef4aa435e7b2f8cca5b845e7c1c38b1523bcbe0f]
+│   ├── virus.msword.nightshade.b [db4b18e65850e8b55ba82773fd914c3333c4cd8f09ab93d61fb759c2e8595587]
 ├── c
-│   └── virus.msword.kid.zip [ca11501063d66a47cddd2ac4d4a394a8f87849bd181cc189315421621014eb82]
+│   ├── virus.msword.kid [67cb48bce9a58250dec4d44b74e36ec175212254297d5f578db82ebe870daae9]
 ├── d
-│   ├── nightsha-001.do.zip [f4b0e00bb154cb55b5cab41983226dde73bfcd7f80718153b1f35cfd4190d3dc]
-│   └── nightsha.do.zip [250fbbd323d4450bf863e70b42bfe5ddd51b05c1bd553dc71aa84a44b579455f]
+│   ├── nightsha-001.do [87237027bc30ec12457b4332855c7f3c86706384535b36300e71e657177f9bdf]
+│   ├── nightsha.do [32d9932fad62b6bcc54a7195fb8ee685ed87f022841ce7a114563b9332763245]
 ├── e
-│   ├── nightsha-001.do.zip [297b2889408e2fb00ff200f554cc80c78e42453352470bbe6f82b08fe5a7e12c]
-│   └── nightsha.do.zip [2af3d5f2c7f44ea4a8c5b5f4db1b926861baed3fe5d0c8f835f0631fe942e941]
+│   ├── nightsha-001.do [582b2b6df5418173f0fd17fb35da83255a5a82a5a99fadddfd5c706b6d6b7078]
+│   ├── nightsha.do [04833736da58c51874d895c98cfffb4ce2cd7747f8da73345883bab96a2491f8]
 └── f
-    └── virus.msword.nightshade.f.zip [b4b02fb10a2b88bfcaa62dd5e49ed8820a8729757d5b65d9c97339e6f9ee6978]
+    ├── virus.msword.nightshade.f [b4ee500de413a5425e65ce1cb9fd4b0a57ef132de538ae10701a80eef53d0aec]
 ```

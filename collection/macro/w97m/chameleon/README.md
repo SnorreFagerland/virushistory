@@ -3,15 +3,15 @@
 
 ```
 ├── b
-│   └── virus.msword.chameleon.b.zip [7f763fca97bdeb88bc025ea48080a0293158fc1fa88820fa0fbc339c59f514c7]
+│   ├── virus.msword.chameleon.b [c8d2693d4afb07b6ea96a61967b7a00d24d0ef87385140a50f86ff0fa23254f4]
 ├── c
-│   └── chameleo.do.zip [0d8082bff2c049f0264a86d7d4bb3b6c94224a5a631163899d452df10510a91b]
+│   ├── chameleo.do [e69e7c82d4e807acb1ce8ee734f8d405cfc0f853df0e0b03526ce36477163d59]
 ├── d
-│   └── virus.msword.chameleon.d.zip [0b0f5782b40f23f4a11d710049055af1e4de6089bc05ecdfc1a7fc1f1cdfc6ff]
+│   ├── virus.msword.chameleon.d [2aa6c79b49ea19ef94d102ed3155cacb9633e81bacc948719577d28f81c2bc9c]
 ├── e
-│   └── virus.msword.chameleon.e.zip [92321542058be1bbe4e54234b5a99cec5c94ec8721930fb47684d02a27c794ed]
+│   ├── virus.msword.chameleon.e [3aa3a972c458523a3aeb0bfcc2d5ee31fd4396f2e3b4c4d4db0deaffc4414fad]
 ├── g
-│   └── virus.msword.lownmow.zip [c2cb97dbf0e59b08b4db6d9cce89b804749c62a559e13d90e4aea61945a88acc]
+│   ├── virus.msword.lownmow [b7cae5e9c38f09527d43eba629e1a282404610fa760448a0504a6650cfc60447]
 └── i
-    └── chameleo.do.zip [8e7c0a5176181c54e4b8d25c7c609610481afa6794dae27013097b38a645b500]
+    ├── chameleo.do [98d91c0ea4e931ce7b25aaa1a9c487b65df07ad583e18b00f19c74f92f45f061]
 ```

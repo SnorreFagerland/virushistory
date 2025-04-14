@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── snake_a-001.do.zip [2b99e2355fa7d5e969a043fb8983a145df6ed7133c24cacaf007cac470b9187d]
-    ├── snake_a-002.do.zip [f4073e41749206ed3e5427e2f3f68b6e03bce95eab200b9c9dc55b31c7423b9c]
-    └── snake_a.do.zip [b8e2023e4f75497715b65c4ffbe74b5fd4c07a2fcd42f011cac7f3f22af7134f]
+    ├── snake_a-001.do [e78ae3768efa9c436c44c229f2aa5937e3ef61233d0a43e75f185d8153ceaddd]
+    ├── snake_a-002.do [d586a65817d676ac67e1bd949fdc45b58007daad651316dacc0f3f099a27cd1e]
+    ├── snake_a.do [87d4e363e6e2c5faa6e610421c4acbadd12adec0d70f6a031258ab1d78bdeac6]
 ```

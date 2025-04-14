@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── bat.silly.ap.zip [497f67dd8bd096444f0a52c30fd6053b43c524b69337ae2a5618d0bccbb79817]
+    ├── bat.silly.ap [355970e2ef80c64b610d966140d2e44702457fa113d01835f9ce40ffbbb4fa50]
 ```

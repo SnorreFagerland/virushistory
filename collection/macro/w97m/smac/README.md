@@ -3,28 +3,28 @@
 
 ```
 ├── a
-│   ├── smac_a-001.do.zip [1956c5cf19d974f8c2ddb3c7cb8be1980afd52d3e14fb44ac92e12b2b90de9c0]
-│   ├── smac_a-002.do.zip [dc09e27f82d1ca2406ab2129968e0e082f9e9671ee5e0b8656afc109279445f6]
-│   └── smac_a.do.zip [056a2f5f4f4a844fb484e6fd2e3d137a52a041a67dd8a22e99bf5af5cf673251]
+│   ├── smac_a-001.do [634ab3461a85fa21c9a5a6baf336cda396a1728de0d8511ca2599e1cadfbe983]
+│   ├── smac_a-002.do [f3b6da406114d1ecce52ad0d4212a30bd95d49ce485f927ee9292c24251ca437]
+│   ├── smac_a.do [56689639af89a45687c72d4ff566815780283acf7d762cd9cf76ca18dd8adfb4]
 ├── b
-│   ├── newmacro.doc.zip [c88f21daa7c2e36b9aa10194c85f252d24fc2b07b4f946b594e9f6b89b9a3a9d]
-│   └── virus.msword.smac.b.zip [c4304c791afceeb2d4777f59fea731fca50cf81ebeec9deedd8c4d641a073fae]
+│   ├── newmacro.doc [f327721ccaa1dc19d6534bd227281e354dd5ef5f906b1808d384a588bf0443d5]
+│   ├── virus.msword.smac.b [4553e5c2734661bb4fd471202820e8603719d9a81efcdf5f90fa771e07083586]
 ├── d
-│   └── virus.msword.smac.d.zip [73d373913f7917e6b0786331b5e89c855f566d4e5680c3d8ce1e84526c1ad153]
+│   ├── virus.msword.smac.d [f6a33806db5c618708d04351ce91105704e4fc51bb4fb5db28740101a4485110]
 ├── e
-│   └── virus.msword.smac.e.zip [e8ce15a63fcd5afa6aad1e9f2c05ab47049da94456051125e9492a790e20f536]
+│   ├── virus.msword.smac.e [150db10eeadf0c89ae9cb57b26e253fae58d97cd8f609e3e08d44dd5685d34ca]
 ├── g
-│   └── virus.msword.smac.g.zip [dcbeb9f52537f05f3d63da340ae8d3ecbf2a938fe174546dbf4f5281428661da]
+│   ├── virus.msword.smac.g [e6139cde73e01ee8c7751d0455eab8347e6c7459a0fcfd4de6a747d087661713]
 ├── h
-│   └── virus.msword.smac.h.zip [454575d4ff81427b27a1e465413fc0928442bcaff99a32be84183b6fbec94c4f]
+│   ├── virus.msword.smac.h [03d63010b7e51d9af29eabf67bb9e584c2b74c8cd149aaf679cd8478c8534695]
 ├── i
-│   └── virus.msword.smac.m.zip [e426aad972ab3d5c2e76c4d7036b76747e1e6766de5ad99f9606ef0340f79a63]
+│   ├── virus.msword.smac.m [5fdcec401c1fc5dc6318a50f60679251f787be3e81534ba887243dc06e60853f]
 ├── k
-│   └── virus.msword.smac.i.zip [2fe5ea221fb637766516ed21429f24c98f57e7c10a832c0a17be417387d1815e]
+│   ├── virus.msword.smac.i [260c1bcf2314bf5963c2061a938fa4b64bd0e7f5479eb5fceaa5fcf1c1d4afd8]
 ├── l
-│   └── virus.msword.smac.k.zip [c50ea9de7e140f8b1aa065800abe509c3866ed8bc4c087c1b8071f55c780fdc0]
+│   ├── virus.msword.smac.k [4bd85608cc264e0d935c76dd9f118bd209264d1655dcf65d95fa7c7a844fa6b6]
 ├── n
-│   └── virus.msword.smac.o.zip [2e3e1f6b67c801a8dc56c2a9128dc42332e74cc3e1b3454d5b8f4f07e2c0c3ae]
+│   ├── virus.msword.smac.o [c53535e928c83b7e4145a24d2cd35821809e528eac896e75b9ae1641468e3ba7]
 └── o
-    └── smac_o.do.zip [bb26536012a43ab01d56c971758253102118de3e3df31d5d98347603d35a8840]
+    ├── smac_o.do [8b80a583bcefa178099d75d5bd949e11a662344248d3c0a2c5c124e0566842ea]
 ```

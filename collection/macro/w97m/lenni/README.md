@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.lenni.zip [aabcb519832774e2fcb859ea51942743847ec4de42f57e40e896eddc54e717c9]
+    ├── virus.msword.lenni [90d41c5ea9345602d716322720f3b6d78f397c512824de62b50006f6b8f71cff]
 ```

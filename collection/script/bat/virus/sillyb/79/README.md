@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.lys.zip [91c4feda1657ffce91cec34e08a5d85f8a1d561633287e54c0d1da7e7e2b8861]
+    ├── virus.bat.lys [f715c528a9865a12d48224ecb32b24c9d3a48688192e61c54f665fcf40a9d9a4]
 ```

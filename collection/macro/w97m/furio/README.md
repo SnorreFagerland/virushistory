@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.furi.zip [cc4daf40fc8b340a75f63ad89f425829282a584a119256025cff949530fd010f]
+│   ├── virus.msword.furi [3548510792b28b2f3e4efbe60e6faf9ad7ff3faef25e366f0536fee0c53b7502]
 └── b
-    └── virus.msword.furi.c.zip [963a50f0cdc06e2237e7e3e974475881de566f6885df22829eb803a8ad0e89da]
+    ├── virus.msword.furi.c [8326de0276abd1ed2c0758cc2e15f0ad8a4513e4d755fc8e438c9d738e58f5f9]
 ```

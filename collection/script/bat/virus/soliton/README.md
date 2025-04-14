@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── bat.soliton.a.zip [6a58497f68d34303b99d118185c16edbf6d58cc5e304c1e74673b796375c5902]
-    ├── soliton.b_t.zip [7fd467ba63cdde4150f332dbc41300b4883cc5b9a62d407115eb7a4299fa6ac2]
-    └── virus.bat.soliton.b.zip [fc27fd7fa9719fc4bd30d919cee71e968e72e4662a506b8e99dcb49d06d61767]
+    ├── bat.soliton.a [b0ac6ecb9c059fb5374163d0966ef831d899e61bca868ad7d7c1e1244e3cdfc7]
+    ├── soliton.b_t [2b10ae7b1a1001d5cef98d813ddf9e34196ce4b3d0970a6e4ce7128d5b8df929]
+    ├── virus.bat.soliton.b [f37448bdce8ed38ac949f4d016d4e2f478ee78842478356f1bbeb0541d64f6f3]
 ```

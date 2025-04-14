@@ -3,24 +3,24 @@
 
 ```
 ├── a
-│   └── virus.msword.steroid.a.zip [d0e5dc7d9fe79b486ef12f5b2a5aa6cbefd2c8a26bab33db1877ff008ad2348b]
+│   ├── virus.msword.steroid.a [a7258c1cbfc8cb4560aaa91aa57f710d2427ad52dbbbaf4c998129e213f9250b]
 ├── b
-│   └── virus.msword.steroid.b.zip [dcfb39528cc6900a1afdfa5885a8aea1b6b377d3d7b470ba220c5fea649f9b5d]
+│   ├── virus.msword.steroid.b [4fc806306088e04b71146461c0ffd02e751d4474386a25d7462ad2e2ffd70f73]
 ├── d
-│   └── virus.msword.steroid.d.zip [fbb21249fda5ccc3068d2248e69fc00294c8c2ccbbcc2d4f0d90e578cd93660b]
+│   ├── virus.msword.steroid.d [95608792e716211757c834772b40aecab4cd2af561019af326553d9f1cca56ad]
 ├── e
-│   └── virus.msword.steroid.e.zip [f7c45d39b32147eb43ee03535ca6c18267987638f5c785471373e9dfdc452c32]
+│   ├── virus.msword.steroid.e [7916ce40a2ed0742ac0f8388f50a857ae4d09f58339d8626ac2d60d53ed7f0de]
 ├── f
-│   └── steroid_.do.zip [8f1498eb1884f7eedb312b8c9cc6b601a2c5b6492cd33202c64f95fa82b12e94]
+│   ├── steroid_.do [8c7c7dff8584260cea7ab958dfbd2f7f963455474cea49158efcf97595f7f0fe]
 ├── g
-│   └── steroid_.do.zip [5dec7c68d2680fe581a7f2fe7436fb59ef9dcf9097dbbe6e698216f1f9e16093]
+│   ├── steroid_.do [d03578b284a153ac5772c8002db9ead123cbb42bbd8dea4f1a87ac17b3cf2ac8]
 ├── i
-│   └── virus.msword.steroid.g.zip [6f777f133246a8285d39c2c4051027f20d21a4b74adfd82d356b1d6eed3a7c80]
+│   ├── virus.msword.steroid.g [c3848fcd0dbb597079fb7a9ad65c142d194ff4539cd584f9272af1338ea82365]
 ├── j
-│   ├── steroid_-001.do.zip [8c22de2da06c17a0457eb4d711dbe94b8d578b61bd12c6488f28fb1efede55a2]
-│   └── steroid_.do.zip [af3ff58b90633d9ff8ffb3319375cbc4c5bb33a0abc633ba311afb99814f79b3]
+│   ├── steroid_-001.do [6b02c661e14ab1d4a1abd7eda637c17514dbf0c48e583cabb99e657a44367f46]
+│   ├── steroid_.do [105af77206d7c756c6d2a548a4dcaa64825ffbfea6c1e6c5672b90e1becda98c]
 ├── k
-│   └── virus.msword.steroid.f.zip [a1870c931f18a8c3b24413f86f000b9b418f40aea6e35d460753d374912b2e37]
+│   ├── virus.msword.steroid.f [314c6657ccdfedb9107fb50a6541fab4545ee4f1be0f25fbb5ae5a1b3a861cd0]
 └── m
-    └── steroid_.do.zip [b992a11e05ff4953fca2bee02bfd7d4d73a019677781212cf4f2bc494e4b05d8]
+    ├── steroid_.do [4591cd21926b3db0f41fc8f7e8bf25861215a05ddf1e9b40301cea74907c8387]
 ```

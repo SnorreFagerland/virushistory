@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.narmol.a.zip [a1031deb05ee3564489b89717ad952142108a6830372ffe2c8ec3295bfa463d0]
+    ├── virus.msword.narmol.a [f5217b65d7599cc26e87a90b767c647d775739f5ee97e1b37a3d6893b93f1ef1]
 ```

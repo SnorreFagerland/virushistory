@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   ├── box-a.doc.zip [eaf2e64c10c4e7f8f4e9ad2ef748c75b2f4f895da82c939dc855fae73ac2295a]
-│   ├── box-a.dot.zip [d5f621f60cd184395a04c2b1f31d7d345a92ef222eec9d3c421859e0119911b2]
-│   └── z-macro.doc.zip [d1aa6c2ecf7fe5591e01e9d45ef22f35dc9ce5fa792e59a1989faffb1c9458e4]
+│   ├── box-a.doc [7c3636414de241ffb4a53b08a86cd425f44fcda6cef4e5114044b0901180c873]
+│   ├── box-a.dot [27535af591cf1735afcb6d7d56fcc41d0ba3b4488e8d6904c391f42225d64ba8]
+│   ├── z-macro.doc [10d26b2a9aa4676286ceaa5fab6e1ac86893dd35b8ef4574f67d5dc5eb9ec517]
 ├── b
-│   ├── box-b.doc.zip [a84e265d573e5957d50add1970fe3c8886c0a88906e7225b3cb4b4be47c11b85]
-│   ├── box-b.dot.zip [312bda78a2a24a13931fa72cdd2f875361a291eaddfe222c21c5ed8fd24b266d]
-│   └── twnos1-n.doc.zip [aad18a4244d574b326eba082077ac6ba27c8965d70f838b565bed91b7026cebf]
+│   ├── box-b.doc [814de366294cff9093c3fe9a1431616567df24828c2dd52569293e020384b49e]
+│   ├── box-b.dot [cb86f1727dc2f7370cb92fce45c7ca018e2908bb0d6de953a8ce6aabde05498f]
+│   ├── twnos1-n.doc [bd6355a105bf4c932a17597c3009de30795d691619a91a9c2747889e3c657f5e]
 └── c
-    ├── box-c.doc.zip [3c519a41c87c7517d8445837cc731a9ada2fe0bcca2d81fc71ea4c4606dfbdb7]
-    ├── box-c.dot.zip [9880cd35b5b62a44f3468f9d0ab00340e95c23817769a1603bffa46d5dd66293]
-    └── twnos1.doc.zip [90b7c9bb794cc640e7f85381eea5ea457c899b6445cf4c529113a599d95c353d]
+    ├── box-c.doc [de0cb50651d7d9280f3bcbc51d29be205ea78dcd30c5ddcbdeed2d484ca91b89]
+    ├── box-c.dot [8bfa5aa596fd94fdb710eac3f0822fdb64ec597af36e4ec0e2890f1b7b6ea277]
+    ├── twnos1.doc [4f3f37c24032dcf1bd87ffcadbcaa54ee4ae1287a82e8754d1bac3a87547b699]
 ```

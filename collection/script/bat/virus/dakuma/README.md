@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── virus.bat.akuma.1935.zip [21c4a4ccf9dda937337d719406d0fbb83d0ea7429b8af0b30dc2c337f414ba0e]
-    └── virus.bat.akuma.b.zip [1e87077aab8fca1961d94a40ed2b7b30b200d73df1ff5a6510ef28eab077938b]
+    ├── virus.bat.akuma.1935 [05a9a8ca295f8e7e6ac5c4c34819952c3231a21936a811fb7fb33dc313604cdc]
+    ├── virus.bat.akuma.b [399b4e1104f35a2743dd8ad971a5972ee227914dd6696603306a36469f8b2cd7]
 ```

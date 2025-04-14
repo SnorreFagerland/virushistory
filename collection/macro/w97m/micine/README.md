@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.micine.zip [7d7492bc4943d040f8615906eab1f73b366471c8dd5557ad8ae1ed759769ed3c]
+    ├── virus.msword.micine [ead0fc292493d1765cb4a18c6d24a38f81ed96c4d52df10fd89c2fca83693b9c]
 ```

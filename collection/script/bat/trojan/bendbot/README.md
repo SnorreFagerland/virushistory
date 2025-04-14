@@ -3,5 +3,5 @@
 
 ```
 └── c
-    └── trojan.bat.crapbat.zip [e416ebb39a8a9e0358a17e8ca9153cd48638158acfb6d491d417249630f489a7]
+    ├── trojan.bat.crapbat [eeeaf614015df464b558884723fea251f81eeb2e7c65433ecf8a8a41b3a8284e]
 ```

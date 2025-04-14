@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── wmczecha.doc.zip [0344cc99d89da37aa32a78f4180fc49f49afe0d6d75ae802e847d9adb9ab98b0]
-    └── wmczecha.dot.zip [f52e76d71453e75a0aa3d827ddb29b0e875c99d9a9f3435f7e2a5b54febebd11]
+    ├── wmczecha.doc [495c0ae246c033a59fff767501b2009f1d159dc92fa7156a3ac9680980c3fafe]
+    ├── wmczecha.dot [54816cf14d38c9445e1582fb3e8504821f48ca6dc03b96664c6fa47006ea9efb]
 ```

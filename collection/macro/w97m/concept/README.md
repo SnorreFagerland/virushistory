@@ -3,27 +3,27 @@
 
 ```
 ├── ab
-│   └── virus.msword.uplamhand.zip [f9a357b875fea6173d2aaf64208bde2831d0323474f18b9fdb22768541bd3014]
+│   ├── virus.msword.uplamhand [8f851dfa5341180ea958e8ab128c8de0ebdfe440af70efa0e91ede0c9bafc976]
 ├── al
-│   └── concept_.do.zip [202feb363c595e49333c9f465cc8c140433891b0e858dce6f79e235b0b0f6a44]
+│   ├── concept_.do [0d1d9a0d3bfdd36ef834142a149efe835c68774d02d33a7337133c47846712c7]
 ├── aw
-│   ├── conc-aw.doc.zip [03902f07868e9f44f504303eaddf8ff54d04324782289b59f467b54609cc1974]
-│   └── conc-aw.dot.zip [90bfef60eb5a7687bbfe71a805277beed60936572b5927019b5368643a709116]
+│   ├── conc-aw.doc [bc6bc2147941700b2db5fdd5bf82b4388a77041b6488bdad062a3aa8d593150f]
+│   ├── conc-aw.dot [66d3b1c744e164d4f7c193e27ca561b7a3326546fe004554190a7a4446d016f6]
 ├── bb
-│   ├── w97dntc.doc.zip [28e84ec1b8d07527a977709a08528b836676df8c03c570e9f8122cf3d9d8be15]
-│   └── w97dntc.dot.zip [44c8f2f5b4b2d3062ee8df9cd18a6980b3ec39092c7940db15fe604139d2d99f]
+│   ├── w97dntc.doc [d17561f29fbde44e8c4ab742b7c4b29a4825b018dc4a4748920f098d41350c86]
+│   ├── w97dntc.dot [919af72d49855803c33ce3c4ef0d02ae84fe9f18f41a8711ea7a81af1e213caa]
 ├── cm
-│   └── virus.msword.concept.cm.zip [65278693b02740e7825efdee0ffd08eb3c0acdea19bbd8dba19ff33ff1c666d5]
+│   ├── virus.msword.concept.cm [71d03d2631816dbb7968a2be959bc76c41a9022da8c954bf12e485a363983cb3]
 ├── cq
-│   └── concept_.do.zip [5a7f032807f02f9407b8d7b9a56fd59a86ba19f2b0e20892205220a7c429478a]
+│   ├── concept_.do [be24db417d14e3bef13bb74d5115c246d297c758dac9fde4ea51dac05b864441]
 ├── dj
-│   ├── concept_-001.do.zip [bbe060b28f11aebf6f4284e5dd4397421157d4f2c868d154896b7d6c206ee867]
-│   ├── concept_-002.do.zip [ec4b52389ab1528ad5eed874dcff3d5ed9d068255d3b66fc5817e5c39bad3de3]
-│   └── concept_.do.zip [f81ed62ec59f32a7a2e42f0999de75361fad18bc825d93a4492d4c44862aea94]
+│   ├── concept_-001.do [1143cb9b4cc18954788792e5f90103426677b929b3b4a1c3040f50224dbcee8b]
+│   ├── concept_-002.do [cfccfb03789cbad348c853e00750ed302e5fe8316ea8c177ee71ec2564018e79]
+│   ├── concept_.do [0bf4f620264bf6224bacbdb8ad67948f6f907840421f993ee8722b245c0bbfac]
 ├── dl
-│   └── virus.msword.concept.dl.zip [4fbf10018e05336b4dbc48e1c7d4c908179077331c901cdadb6eb384f596204a]
+│   ├── virus.msword.concept.dl [1e1f176d4b0522f5579face97070419eddb5f3498e96d09618d382622e75a000]
 ├── dp
-│   └── concept_.do.zip [9557fbfb89f2d39865f350a8014baf67e8968593495090751024338177f91aca]
+│   ├── concept_.do [95c01a7693b53ff39163f8c8e8fbeb9d5ef7c6601615207e1ba0b18502fbb8f1]
 └── dq
-    └── virus.msword.concept.dq.zip [77cd153f12afd1935811a218371c1d4cd7a60efc63deb22c4e190331a2a6f261]
+    ├── virus.msword.concept.dq [fae9cc8813c7a742ea452297393203b6856146eee05512d9b9840ee228438fdb]
 ```

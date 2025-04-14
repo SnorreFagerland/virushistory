@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.armagid.zip [06e385791f3038b44ecf93fb9def6b5323db9217ca609653d9901a7799760a64]
+│   ├── virus.msword.armagid [f5d256ce778cb04454fe5775f8e52d8d0650c105258561b5fa71b339cbd82ba2]
 └── b
-    └── virus.msword.effect.zip [797d3219b81797ed22a8dabdb9f0107f3330cfa6f2e7e1184cc8f5a03ea965e6]
+    ├── virus.msword.effect [2ecffb72c540125b0c4cfd237744f5da04ea09a4f78d2c35e2443f187b4b756c]
 ```

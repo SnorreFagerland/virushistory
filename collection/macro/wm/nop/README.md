@@ -3,64 +3,64 @@
 
 ```
 ├── a
-│   ├── anwelis3.doc.zip [65db956c3f57bf66a5c3061abbbcd731a485e6fe600a1b0b2fcc06e70ef56417]
-│   ├── nopdoc.doc.zip [4ac9339dbb53a71e2bed6aff7528d5b5e15f12478dc25ac9d17eeb21c4d74784]
-│   ├── nopvirus.doc.zip [85e6bb11978bbd47168f7d8fe5be81a6ca32f257723e44dc771518eee81e79db]
-│   └── normal.dot.zip [e6f29965b3993e9bc93847319d204f2e6b959ccb8e637cc5f0eefd591f179ceb]
+│   ├── anwelis3.doc [d43be1fab57f4e4ecb5d38e19b741e2e6e323d6abaede4e08947312251245926]
+│   ├── nopdoc.doc [1d3bfb594734df0b2a833e800c6a9ef3f14cf4a35981ae5e1ee7cbe551d58faa]
+│   ├── nopvirus.doc [868278145ccc70a50b7b3ecb660f700ee6727e643e99c230dff92a5d8fc33d5e]
+│   ├── normal.dot [f2b2777ecfdc6e2c740a57eb74e6de6a3a2aa66b95591b723270e3ac09c4d371]
 ├── aa
-│   └── virus.msword.nop.aa.zip [0c15f2b68402c07db6216838b2562879804632c86debef0f445e4bbafd765e92]
+│   ├── virus.msword.nop.aa [1eb6ed451a1b0f77dda28473ad9f949ffd4a554183ef3487e085d0e337fcaabf]
 ├── ab
-│   └── virus.msword.jakutsk.zip [15fbdc85d071d9fbbe607b19399fe9654e5b36334b7443604d7c6aa5d0e207ba]
+│   ├── virus.msword.jakutsk [8d67450248d3a7f34801863d07edd087fd59ef69c130a24c6762b34777df9085]
 ├── b
-│   ├── nop-b_2.doc.zip [17eb091054c89a1abde07e249d2281680ccf6d9000e1107ddd305d6d79b3db78]
-│   └── nop-b_4.dot.zip [ec0f7c81222e6804f77bdaf9ea8bcebfbdba21ba01a3d416a8fe27886e454306]
+│   ├── nop-b_2.doc [85d092bf296dfe8cf91718e2f40d6302db49c24ca4cc388f012299995e83e96b]
+│   ├── nop-b_4.dot [8676e39f0435ade873eb0bcb62e1b3d3501f3ca17097589d3d6d5b391849e8fb]
 ├── c
-│   └── nopd2.doc.zip [2214fb073ac3f6c0f10656a3eb255b96ee2f6e8c9caaf59b05e55d6b35829730]
+│   ├── nopd2.doc [5f91d1197a6db1db0c0c570a04e8a142208a8e0d32b7e02f766fd1ddb36b9917]
 ├── d
-│   └── nop.doc.zip [d73013e30f8067e35872b7eb017a2bebaa7599ca7837ea800d671c557ddcf558]
+│   ├── nop.doc [7a4c2dd4728f05906eff65ba0e7cf8a7ef77c993973fc54efd7f43ff50f8c9f8]
 ├── f
-│   ├── nop-f.doc.zip [5c84eb621924544cf8f3c44f660b38fa61a81cc7fa56f70f945f0b93790f1523]
-│   ├── nop-f_2.doc.zip [d248a50dcbd2f37e4c5934747e26b8674e39b67ad3220433dc623a7c5bd91f07]
-│   └── nop-f_4.dot.zip [574b1b8ea1798f58be9b8d5b7df3fb46654f697a1c68da55fd114945e3db8694]
+│   ├── nop-f.doc [a92ed55dc17914b30baa8abe45f7a1ad428a00c52e1866cba90640040e9bc345]
+│   ├── nop-f_2.doc [6143a218c9762fc09e7c9d561f18a61626560887ec18865d5ed0766323adad7a]
+│   ├── nop-f_4.dot [4d557671dd18e40986bea9f41631262fd306fe5bf290524b00e9e7102e1c8b8c]
 ├── g
-│   └── virus.msword.nop.g.zip [e6ce17de26f7150a8d9ab5692331d4d3a7f7aff1e581701dfbde8aec01eeedff]
+│   ├── virus.msword.nop.g [b230464e265185914fe4a997f9d7a698591794ecc6612052f4b2332d342a8116]
 ├── h
-│   ├── nop-h.doc.zip [47423c8a334aa1ad66949c5b6eb9537fe3a9d59f18cf91e11479c261f8dda693]
-│   ├── nop-h.dot.zip [0a62220e885d3d056ba988cdd7e6cc5fb49408321b05287422e269d7e4b7ad0c]
-│   └── nop_h.dot.zip [af9c99c50897c99a7c87c1b73d8775237767e10abf16970f6af64eb37d69d3bf]
+│   ├── nop-h.doc [4d3333fe2a8af0ee1396de4f5bb7dda76c8b6b362c6c9b631aa3a5f2899be54b]
+│   ├── nop-h.dot [d9b6c3a9c4a5fb15ada35c651f842a9fe920784782616ba830b42f458a12f129]
+│   ├── nop_h.dot [7038d1e80b8b7625f8f78072949598ac3620232f4e87eb6d9d2f87d45fda6df6]
 ├── i
-│   ├── nop-i.doc.zip [4c6e1bc0c4d24505070506656cfd0f6543d77718d2f01ee68e4467474905d7cc]
-│   ├── nop-i.dot.zip [a2e4c7719064cbde6f84b2788043d5ffea823d0cd087cee29491ed8afa045f1e]
-│   ├── wmnop-i.doc.zip [a9f65b652328d1d0e5d6c3ddea1edd421d548b5f044b675833479457d411e473]
-│   └── wmnop-i.dot.zip [d7f89ac90f9e948b5084425b5a59d656d94b408b8bcf2f8891acb48941717cf9]
+│   ├── nop-i.doc [266305a85cd37573a1ed648b79de889aa882bc659b36b3468aac4ec0fc6928cd]
+│   ├── nop-i.dot [7f79809365fc7f2fd58fe8bbc95049055c72e5d8c9adb529aa9cd240ad2c610e]
+│   ├── wmnop-i.doc [f02aa7f04a8140b86904cf12af64d6e5b0e354ace0034b11f698983c8c714e1e]
+│   ├── wmnop-i.dot [f85cd70a19f61c938a23fcb4eccfa0ea5d0d0094b141e19bd073b8aaf1b22f31]
 ├── k
-│   ├── nop-k.doc.zip [0bea4df76e0dca4248fd16fc196afdd887ecd2477aa276ab5c905892db4c67a0]
-│   └── nop-k.dot.zip [5222f4274cbfe098b19d5922a09953904bd42b87f0ebd677a3a540dbbde0f2da]
+│   ├── nop-k.doc [2fd70c93fe6536a853fb88f28a31759e0dc95122bc65d8a17d57850b3dea0876]
+│   ├── nop-k.dot [52a0a2d928d8bdb9227dbfa3ae5a613d4dffe45dd011a25b1bf4a35fae4ecfcc]
 ├── l
-│   ├── nop_l.doc.zip [80bafa601e05e42f16772b25f2c239b200f443758b109ec39dc664fd237e072a]
-│   └── nop_l.dot.zip [a1e8560ea016042460fd76d58780c6ef6c954c5943bd05bfeef8f4011a2e3ff1]
+│   ├── nop_l.doc [458c7a694ab8a3cd780e38a5706c38a8b3de681215fba4b0f5afeafaee9ab6d4]
+│   ├── nop_l.dot [645fba25caeef6d5df288e87e896a7dc9bb21b4fe9bff8adf6881a5223ad905e]
 ├── m
-│   ├── nop-m.doc.zip [11b6eb2ba747d9b076e75ced86f25b4270b986d9ff9e800384d368c7030486ea]
-│   └── nop-m.dot.zip [96a18e07c819be1d81adc136b8a8486d4d105900d29964f2b8e3b342d5ef0af5]
+│   ├── nop-m.doc [ea87e7e3b4b44e523fcc1a7781cf6a969ce696545b41bab0c429070a9a1d4267]
+│   ├── nop-m.dot [b9db71ba082bdc16891adf92705b59315925bc5b56b2e759a90a8666161db652]
 ├── n
-│   ├── nop-n.doc.zip [0c09b2ea0b70c56a57d87ff9ba232a972429e45a213587e767d6e7327adb74ea]
-│   ├── nop-n.dot.zip [bd0603bb5c807e9c0eb5bf5bfbca477c79a60faf0b537b8f5b1d6719b3ba9278]
-│   ├── nop-n_1.doc.zip [8a8631ccd8fcee14ae7c2464fc3421f8c50083ab6c771f27ea22949ae0dbc630]
-│   └── nop-n_5.dot.zip [dc2c942c8a07a57161c3e6d88e4d92516f8f5f1f330a99bfd1c473f03541ce90]
+│   ├── nop-n.doc [43764a102a6c624f70f507f009e28a0def4de86a62aeda3672c5a294b315833d]
+│   ├── nop-n.dot [6677f03819e1d52c3f67b21e50fa6d60d95711893703092d9b4e3bc7b29215eb]
+│   ├── nop-n_1.doc [ee83a68ffb65cc8e3d3b14f7c45d715e54035374e2fe8d2c03c6e5528ab78d71]
+│   ├── nop-n_5.dot [09ce1456d1fc515046ea024728f29406c19361e702f5d80903264c73a4212559]
 ├── p
-│   ├── nop-p_1.doc.zip [02c95aa44ac1d991e6b09a71563db3f3819e05b90c7bdf47f88e57687c343022]
-│   ├── nop-p_5.dot.zip [d8473c25d8ac446faaf60c6e21baa89bb71b4abeecf8eb5b6a53983159b62104]
-│   ├── wwnop-p.doc.zip [eb0869b03db79bf6edc13b919b44726b99e833853b5a0a0ff7b48689a629d8d9]
-│   └── wwnop-p.dot.zip [3cc17b5d98e3069f3d3725512935c531c3b026fe2fc5c6e630567e2e9b5c9738]
+│   ├── nop-p_1.doc [29717a5e07a6141e521c8737bf05bd8995556cc8cac55476a6230cce53f8ff1f]
+│   ├── nop-p_5.dot [3a1808cb35f71a0500e880835e0c2e1a34d138e714f9728fb6b28c12b7e9d08b]
+│   ├── wwnop-p.doc [0866aca56a53021337de768b00d62517bc6ab0c08b8ad820207cd6c9dcf137e6]
+│   ├── wwnop-p.dot [bc21c09c77806e9aa34f1ecf123b5bfb546132415d6c304470788e03ad852095]
 ├── q
-│   ├── nopq.doc.zip [7776983047d730e332f858849611d09caf35aaaf1e174eed4cef372fc58e8c9d]
-│   └── nopq.dot.zip [d5e906b9c2261442286f088b96e3cc48bc3b82330e57dd123f20710ea90998e5]
+│   ├── nopq.doc [16454a7974c119e1e5626817f4e0c16136846e8e0084673217f60582248d3698]
+│   ├── nopq.dot [bbf2387c02cd51b72be1e8be7e38fdebd426befd257fbdc18feee956a418f398]
 ├── r
-│   └── nop-br.doc.zip [61c9b6c31dbb5ef98f24fc25692b58d3d2a06d6f56ef384fd5f3c93ccf7f0bae]
+│   ├── nop-br.doc [12b5ca0af1b21cfcb3e3041d04e65c3abc3a122f79f8eaa770011faacc0e9b5c]
 ├── s
-│   └── nop-es.doc.zip [1d9194b8f35c8be9c062af7090660000cf60ef3fd3c1bc94d4205ceae0f794f3]
+│   ├── nop-es.doc [3cfda09c4bacff14bedab31b914d0612f9cecbc8bb53abea28987f9a03f90410]
 ├── t
-│   └── nop-it.doc.zip [6c9f77eb54649ace1882fc26ddf3dd2ca49955effd463751e4c5df416e15696a]
+│   ├── nop-it.doc [6422ebf92d8b7b0e1e461e51862ae39f4a110e869ffdfa421345dbb06203c080]
 └── v
-    └── virus.msword.nop.v.zip [a4dbdbf83e3d88c336ec58d603a70d10f1f1710ea2b43b3f6028ae462de8dbbf]
+    ├── virus.msword.nop.v [3aaf194104418e70f5fc344c8146f4012f24ea48b893821fd5ec5c20fbeebdbc]
 ```

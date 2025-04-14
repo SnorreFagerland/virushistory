@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── bat.mf.a.zip [8352a9a0eb043866a5bd5841535fdd5b740a0c4727553d7646f177877fc9a801]
+    ├── bat.mf.a [71fc6f9da4f84ec80dea82131d66f9051f8dc7e0afd5c8463854bbbf4910b295]
 ```

@@ -4,5 +4,5 @@
 ```
 └── 54
     └── a
-        └── bat.silly.g.zip [04fd78b3f51cdccafce26cc162f4121414cb0b80563fb9a8ebb87340e521d439]
+        ├── bat.silly.g [50501e97b7dc72c18d369d8382e2020c6dd3ff9a2cf6bc043ea75f86be96cd92]
 ```

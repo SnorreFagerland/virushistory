@@ -3,12 +3,12 @@
 
 ```
 ├── a
-│   └── virus.msword.swatch.zip [fc1e9dee17f15601bc03de62364d98546fc47ecf6906a3e621a8dadce30bf3b7]
+│   ├── virus.msword.swatch [1c2f382d323a3d20ec5c128c734c6ee3212cd010ef4f39c4e7ee6d8581b49abe]
 ├── b
-│   ├── spatch_b.do.zip [f353a54c0d560ca9d762618b83eeedfcb20c4725bd190b08092c962d0ae96140]
-│   └── virus.msword.swatch.b.zip [3b740074b00842c025fa1d1b55be92b3f44588badcb426f2876554e166c8d717]
+│   ├── spatch_b.do [5c320e2075c6044c0cf7ebb9b49965388bf88244d5a7bcfa4a5437d82d21dac8]
+│   ├── virus.msword.swatch.b [3889216dec4d13dbadc24c4e06cfbbc3161d8811ead93afe1a5b6858979127b7]
 ├── e
-│   └── virus.msword.swatch.c.zip [1e4736ad056e03189b4bf177184c8c12ad365a0435d8bcff082578d2826bebfc]
+│   ├── virus.msword.swatch.c [1f57f7f5aa340c65781dfad949e77fd345e0bd5a32d634c66df12f48aa0b2f26]
 └── h
-    └── virus.msword.spatch.a.zip [268fb8920d30a9d16aaca39c2e3b3e935fb3a9dd07c958f9e6fdc739fe9cdb33]
+    ├── virus.msword.spatch.a [3289ae361a3a5c183fd9414182c00bd2a4657182869f210e63c0a089ee519cf9]
 ```

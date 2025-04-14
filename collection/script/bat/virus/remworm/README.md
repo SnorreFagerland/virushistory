@@ -3,5 +3,5 @@
 
 ```
 └── 150
-    └── virus.bat.remworm.150.zip [851d5c8332ad47c3ef4048931d7ed5e9c06918b5a90999919a269d74a99faef8]
+    ├── virus.bat.remworm.150 [fa97e4ac4b5838253c1bdd62177ad824e5b3b2a0766866c0ab79b02595ba39cf]
 ```

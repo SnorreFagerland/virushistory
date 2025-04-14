@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.bat.malk.zip [f29baecdfef756955275f5a2113963df2e0de11378782e9ecf7f7377f0e283ad]
+│   ├── virus.bat.malk [112cfc43be3dd0103d561a22aa6c61e8f9820e0b1aad1df45757cbcb5fe4e20a]
 └── b
-    └── virus.bat.malk.b.zip [48453421df19668d07fed84599a1a83390a8e058d42c9865c84b4cd502615069]
+    ├── virus.bat.malk.b [1d87ecd71b6a2573f916521889789eda20e335c4094041cbeb04b4019a658dd7]
 ```

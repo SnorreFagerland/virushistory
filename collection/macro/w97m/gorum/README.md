@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── I-Worm.Guorm.c.zip [6dcdc8a15aee87ac2e17b8a0ee61bbb1d1440a58230fbeb9f650be9622091a01]
+    ├── I-Worm.Guorm.c [2aeef1bdbf708b14d85fa4192efa4754deae87573b6c938bcc090b55b09953de]
 ```

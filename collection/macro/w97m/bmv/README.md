@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.bench.c.zip [1fb513432dcfc316f48e7b0c2a323e8ab3e970f29806fe9d246f0916b3c459d6]
+    ├── virus.msword.bench.c [db6966ec7fcc5af722caefda3cbb485249b0aebd0c5fcf294fecfad04bb747f4]
 ```

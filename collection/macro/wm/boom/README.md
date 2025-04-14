@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   └── boom-a.doc.zip [a50fe50c341ef5a691ed0c9123ec8b9a93e34e132f4e897c0b47647149c3ac37]
+│   ├── boom-a.doc [bd761ce3053ff36dc8b0688f53004a5809011c0a84467c21a2fe3d48c845c3ca]
 └── b
-    ├── boom-b_1.doc.zip [c3ad62129b7f1d2b0989a7fe0107c31b8336eb1451ee65188ed59e50ee410895]
-    └── boom-b_4.dot.zip [9db9db12d9180724a60f6cf5844e85dc4bea450ab3dc79e3afc07d3eee648f9b]
+    ├── boom-b_1.doc [8e4292a7dbaacad19c4da8538620cf4081bee522afc2e33b856b52cf70ecf639]
+    ├── boom-b_4.dot [a0d909dc022908ba360370fa9865b7e5f039df88ae2f75e37be93c05463d4a48]
 ```

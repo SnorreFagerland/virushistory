@@ -3,12 +3,12 @@
 
 ```
 ├── a
-│   └── template.dot.zip [459aa3507ccd7e3f8e14ebceda81bbd98191ce47d082be7bf5cc828992a3fa70]
+│   ├── template.dot [1943db986383cf8427ae07299781065fed004d57b35182bb86adcbf3d566590a]
 ├── b
-│   └── wwrus.doc.zip [d5cd514d6ae6f2c0b731b09e85d9d9975978612dc55a3a3192ea6effa465a4a2]
+│   ├── wwrus.doc [edde5a6352cfa3f46086d2fea877e4c7ff053639fc983fe8200b4b3bbe84dd57]
 ├── c
-│   └── wwvir.doc.zip [e709404e83fd322a089d070830ceead388a357767bdca9e36e27595a62691634]
+│   ├── wwvir.doc [6ee24260529feb3ac9c2ac3e2b8f7c4f6c3566990a678a111c565fc55034ae4b]
 └── d
-    ├── wmzashib.doc.zip [4c363f20e3c9646dd4129832e89029b4ea73e064b6f26cb6d136df04d435d509]
-    └── wmzashib.dot.zip [e4dd4502db3d557689605d12579f563d48a21e079e403e74f6516b3a5252a55b]
+    ├── wmzashib.doc [cba070de0f92369f523f6ae75f104a536dd74dea6c4c54cbbc8ec07a3358244e]
+    ├── wmzashib.dot [38b87340f56e7aa5466ee18fcebe4aeeb4f1bc058f4f70a3d3bdbb62fcf217d8]
 ```

@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED-README -->
-# Contents of `notb`
+# Contents of `no_of_the_beast`
 
 ```
 ├── a
@@ -30,6 +30,8 @@
 │   └── 512-d.vom [dac888445fb8961178322ef2604426e053abed85c7555f8217df0dcd83088e80]
 ├── al
 │   └── 512-f.vom [f8bd19fbbcc0611cadc6dd5629bfff9add4b053f94091ffd859889797eeab5e3]
+├── am
+│   └── virus.dos.beast.m [0a21223205d17443ca4951dcb32ec7a36beff908e7489ca1a49ab2840c21d22d]
 ├── b
 │   ├── 512-b.vom [e4a202b73e1b0b775d0afd52bd4709dec368f09314c9b71b29e6f14d22e0d5ea]
 │   └── noo512b0.vom [2bf45c1fc4df666f2c75fea71ec2a19822b204127b41931103e6d6a2ba83e801]
@@ -41,7 +43,6 @@
 │   └── noo512d2.vom [fc5fcaedd68995080053b0a29e15b6dd5802865b1c9ea290b1c7457eda7a4c88]
 ├── f
 │   └── 512-f.vom [8c4befe5966fc3e9db5ab7f8ccb6c2f37290dcd3b2e4af5a08b9fa2c54f2c16a]
-├── f-prot316f.txt [bb8b03e9cedcc27564046108493f8e783044862f8fc2110c925c643a9680dd5e]
 ├── g
 │   ├── 512-g.vom [044f912e42d345a983f7e36d49fd7f1eee91a3376cea377be2926d462dc02925]
 │   └── notbg.vom [91d361b0b61e252533f67d2615f8d2b4d4fb8ba288301536916aece2be4bfe9b]
@@ -65,6 +66,8 @@
 │   └── nb-u.vom [54095ff34e3d8304da90b9e26d80ed3a03996034537548ea685238053a8baf91]
 ├── v
 │   └── 512v.vom [087332a26207fe4a948211310ca7feb1fd0d532bb463519bb7decc654280cf72]
-└── x
-    └── 512x.vom [db922adb7e53c2e9f4927f0c3d8d5e2ad0bf54d1f1f0975721924f9f722fac66]
+├── x
+│   └── 512x.vom [db922adb7e53c2e9f4927f0c3d8d5e2ad0bf54d1f1f0975721924f9f722fac66]
+└── z
+    └── virus.dos.beast-ii [46b197af44a2f2cce02b62dafe38e8704d2c1c66438f298f5ce2acaf878d6247]
 ```

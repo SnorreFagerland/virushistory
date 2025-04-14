@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   └── virus.msword.blash.zip [b4332bea12ec9a738e4403d6e1754f6c1dbc2ca902a5952ea1999c4235939a4d]
+│   ├── virus.msword.blash [fe9af94a130f66d02796c108cbd8a512013cf2b4b8e25c3c56864f6a2ceef6e6]
 ├── b
-│   └── blashyrk.do.zip [48420e4026bf168f7300bcd721e56b91dec8e8b00251a2a6a934c09d2615e38a]
+│   ├── blashyrk.do [1e8fe6dcca0adbb6b1632d9cf81fb5287df62efe702b29014e3f5bf0c0fccfde]
 ├── c
-│   ├── blashyrk-001.do.zip [1dedccec19f2e305d12675d919c103681a2cc25c11c12bed1c12dce3137bb41c]
-│   └── blashyrk.do.zip [15e6570cc066325a732a72aeed2eacc9185ec6bb27891d85ae2fadd14db07327]
+│   ├── blashyrk-001.do [b6b5c953079257dbd25c45694e364e0ba3bb34580f95d68a50c295e0fa17f34b]
+│   ├── blashyrk.do [307517872a6fe441cf986fed76ecf24c15b1ee87b3aca55357b3c184f6d8f194]
 ├── d
-│   ├── blashyrk-001.do.zip [f87f9c9f3aeb144c67e559daf5f17664a0d117dd7103da70419cc854a3b5a6ea]
-│   ├── blashyrk-002.do.zip [040c8569bef056f5ec38ba474fb26e82f94da7900f2affe9c722fc6df6b37cdb]
-│   └── blashyrk.do.zip [94ecf5f007cd5673ac3d8f040c9bcc2aa82ac30c7adca80fc70fef2f1fb14d24]
+│   ├── blashyrk-001.do [7c2f5245150f512be557cca71a1a3b642ef808448434634cd9fd8b163d1ea702]
+│   ├── blashyrk-002.do [cd905d60bca1501ff04e5557f02dbd50d43b597fff5e40d6ada46cedf5f9c95c]
+│   ├── blashyrk.do [6629dadb3eb2abc60e21cf7f31166edf14b636f2963a8b5300334fafa1c97dd8]
 └── e
-    ├── blashyrk-001.do.zip [0522f8fffa52dc19338a13f5feb719adbce8050744e2d08a1cdce8ba8e9132cc]
-    ├── blashyrk-002.do.zip [3c734ed92518d3f8af00a522a36a692715fbf5395bd924f9ddc551dff480a9fd]
-    └── blashyrk.do.zip [28fc16dce42e2ae421e9b901cb7bc9862d5c3b9d1795813e2ce8b90e2c344bb8]
+    ├── blashyrk-001.do [cd6b25939684efd663d45842f2fae5a640706bfbbd3390a87bc1c74931b30036]
+    ├── blashyrk-002.do [cbb94059f28dd2a2efd91fcf08c7f66333429a596d26286a29350ad747440848]
+    ├── blashyrk.do [4bbb356bb074ab6011d981935ff1043a5098b6c234fdbaa88fe2465c259a6fb4]
 ```

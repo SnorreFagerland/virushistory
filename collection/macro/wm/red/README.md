@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── wmred-de.doc.zip [fbb07c7c160ea016da4563387cab5736328fd6c8b4bcc468046495aa194b20b7]
-    └── wmred-de.dot.zip [8c6f8dca57ba58fbe63bb28c551a86c421175a025750fbdb55e0c305106616c4]
+    ├── wmred-de.doc [0e9895f21ee30120e5f6fb013389b4f4330c117ba345e4f88a9bf2d11d1daa7e]
+    ├── wmred-de.dot [a3e5b9be1b45ee7744bb64777772660f0b4d6c294eea7862e4513093f29c45a0]
 ```

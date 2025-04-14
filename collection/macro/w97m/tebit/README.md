@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.tibet.zip [7b797cface6491622af410cb23c24167faf3298cdf7259a32e319fee20a242f8]
+    ├── virus.msword.tibet [0d2bc5d0e270bf7efc6b17459a856a5740239f00a53d7115e199a61b57025a15]
 ```

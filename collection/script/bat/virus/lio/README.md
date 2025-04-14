@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── bat.lio.a.zip [3a992c9acdb03c71edb114ca16652310d1a22ffd2b1f75109b277f3244a68758]
+│   ├── bat.lio.a [3f54975fd90a43cc8c7db53acd04afcf02c658a0a557d1ec249cf54107ba8590]
 ├── b
-│   └── virus.bat.lio.b.zip [13b432a06b5420f7950d632d43899a2e2f89e92c1ff7465bd356666e6b8b5b0d]
+│   ├── virus.bat.lio.b [7fed0edda80e97e926fdf02db7c66539eb457b5cb42a42c5d71a4f44ed8afcf0]
 └── c
-    └── virus.bat.lio.c.zip [5e09ccf881902dc83f41166941a481dffc6d4beefe68132589419142c9541e0a]
+    ├── virus.bat.lio.c [a32e1daf050fe70fba28b719ad94242f5399b2276856f8437e9798ba30ee9ad9]
 ```

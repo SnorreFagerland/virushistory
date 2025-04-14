@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.argh.zip [f22272f80d660447f337da3bf8b8b8a3cc9710ba263c4f64dec8dcc38fd611db]
+│   ├── virus.msword.argh [96312a9ec4a47d46f26e5c34aad4dd8118fca1d93dde4812ad959263a7347bec]
 ├── b
-│   └── virus.msword.argh.b.zip [2a6503270e879a20ec35ee71a02a839fdb61ea0fb138b8c278814a335bbfc167]
+│   ├── virus.msword.argh.b [c31d61358840d62a8ac76efb9a62e9775459ed7551a47f729bf61616d85a29ab]
 └── c
-    └── virus.msword.argh.c.zip [afdf4513ae199a0194161f903f6d0e5bc49df68865cf20639fedba2a1eb04ddd]
+    ├── virus.msword.argh.c [0b335c7298771e231994846ba4ff335c7a231d13033834c912ea20d6e293438b]
 ```

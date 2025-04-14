@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.hey.zip [49f896ddc0f90756f022c8643ea4807230936be34b3af685b9c3872a354a713b]
+│   ├── virus.msword.hey [419f7892a872388dc297822d9cc0d7942213bebc78535513a051f17b80190109]
 ├── b
-│   └── virus.msword.hey.b.zip [c89a6780e86faed845515965b8fd8de58f0c7772c4adf6e7f8e48ac84dd143e2]
+│   ├── virus.msword.hey.b [aecb13da3a6301054fa5f17001ad5d97a9e071ab8976acc491adbf50b2afd772]
 └── c
-    └── virus.msword.hey.c.zip [afe8da06131b62e9567a510fe635be458771e12a8665a28b99c382d17c48eff7]
+    ├── virus.msword.hey.c [efc5a4eda2a186d12ec80e20810a15e2d8811bc73a30c36f0069222795c06bae]
 ```

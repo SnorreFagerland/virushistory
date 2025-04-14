@@ -3,19 +3,19 @@
 
 ```
 ├── a
-│   ├── payc-a_2.doc.zip [f8bd332bc1d0c93f02c47731f51456815bcc5ca7628f196b2042976da88d4181]
-│   └── payc-a_4.dot.zip [764e53dff2c193796412380dc1aba7cfb37d6a9d696455a603b97225865ec70d]
+│   ├── payc-a_2.doc [8bb371ca3e89158e37c66d8cbd781fa65d53156fbbe471488b9a27ef57c2aced]
+│   ├── payc-a_4.dot [b76a67d2c9a32fbe56663e72eca072ab864757b01f09d00c2e89ab686e9e4e1f]
 ├── g
-│   ├── paychk-g.doc.zip [87f682e590e5a075f7c97515d7be3290d1acaa5f16bc1830b089b2bfb5afb6f3]
-│   └── paychk-g.dot.zip [0df5bfecea3dacb026be68bbd5003e380c91adafc348d47e3a65326acbb50f1b]
+│   ├── paychk-g.doc [c844b0feb4a73139c7eb0099d344b2cfb75411d9ff41b57c05da029a49ee8c8c]
+│   ├── paychk-g.dot [66b8c7c5c02ba127ca3a358b198058589370595aed750f0c378010ece5b9bda0]
 ├── h
-│   ├── payc-h_1.doc.zip [090288cd10821cacec12b7cfae0322a99e3a5a5fc8bd20d515bd68a59c0122e1]
-│   └── payc-h_5.dot.zip [215735e1541e4d6a386d8c4d3f9d81ff53ae82322294f1f47095f72d9e6173b7]
+│   ├── payc-h_1.doc [159223d346b7e9befefbcc790c3747adebdad7ffbf5a1cac6c830b8a38ae8fdb]
+│   ├── payc-h_5.dot [64f0c009a35c5de98e618e052d788361a3fcebd43804b9ecce3d3ce0a271b049]
 ├── i
-│   ├── payc-i_1.doc.zip [488d0bbeaef82e0201dde800f9f316cc141b240a05268ef178d11bf61d2417c8]
-│   ├── payc-i_5.dot.zip [7a83bb9427a17f24e76df075ffb7cecd304b8dfd1b680b7aaca963c0ba51704c]
-│   ├── paycheck.doc.zip [4707bba60b4aeaebf5d1bf802e2a03071ebeafeef8b5d1aa886e6a841d93a34b]
-│   └── paycheck.dot.zip [f649bbffe8458c9b9fa630241738e76392626914fedd1b6da2e01888243db6af]
+│   ├── payc-i_1.doc [1d328e7e0fda6794c7f4b8be05235d4ec03655b4ca6c3cd75def9be88ec57086]
+│   ├── payc-i_5.dot [1866377af3a08aa794ece96e1d7b6d47c5ab33060f54efd64d95e82810932bc8]
+│   ├── paycheck.doc [342e66d25b07a88f9752a32296b3c33ce1320f1daa5b58277eae3f9e3303e229]
+│   ├── paycheck.dot [89678f6208dd45f61220f3293301e0860c0583dc2fb0ae8a3be19039f9926b57]
 └── j
-    └── virus.msword.bukit.zip [046a9cdaed935ba1e2f1f93926fd3d4e5b13794e5edf4015f29394e5802d4708]
+    ├── virus.msword.bukit [0a716804c20a944d6fe9e9b401b2050a531b3b2f358656badab41d56245a7373]
 ```

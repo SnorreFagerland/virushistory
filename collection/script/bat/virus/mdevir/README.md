@@ -3,5 +3,5 @@
 
 ```
 └── a@troj
-    └── virus.bat.bwg.d.zip [41bde7db1ad25129977f361c6d1948eeb59db5dbe4fc430df3a967e1fa2c80fd]
+    ├── virus.bat.bwg.d [a959b7485aee82ed9343f634faa6a818f322018d21d19d67908b521f7777e8b2]
 ```

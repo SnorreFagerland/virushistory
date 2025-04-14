@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.bat.doubleat.b.zip [394661cda0e7381b8b9265f4e9cca9533a7005a84668d7684db19c0e8a089395]
+│   ├── virus.bat.doubleat.b [d54399e36b68b694a320515aec61920d691da560aa6737a986acba81052fd958]
 └── b
-    └── virus.bat.doubleat.a.zip [0322016f7eb3ebf0fe325de2437a1e2d405a5bdde3b4ca8cf0ea294233cd6b0c]
+    ├── virus.bat.doubleat.a [44b9723c4c053486bfdec2df0a8de09a0b3c87d3ee7524de5c2d6823a0cb9470]
 ```

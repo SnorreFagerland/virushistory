@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.avir.11.zip [7a496b957df731fe2265a53888b5cdca53e9c670f72032e201b5a136fc6733e9]
+    ├── trojan.bat.avir.11 [308b950f8f481e4cd27fb547893675321099116ba23575d7587707a129a2d947]
 ```

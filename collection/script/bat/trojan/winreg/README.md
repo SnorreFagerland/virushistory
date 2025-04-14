@@ -3,5 +3,5 @@
 
 ```
 └── destro
-    └── trojan.winreg.destro.zip [ec2bf69c818e23025947e79553ffce56a584bc55ae4bf76d799346f55be39b16]
+    ├── trojan.winreg.destro [1ace5a780dbc3a6b4c2c4241a5becf432346f967f0bba028ed60dbac2cc5f0fb]
 ```

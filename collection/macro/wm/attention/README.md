@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   └── wazzu-bl.doc.zip [8180d14b12eee7fa1a13146a885a3039b067a64578ad5e0c64fa1b6971a20401]
+│   ├── wazzu-bl.doc [a729c505ee471cc8208d89759c8320c1ef9c73a73fe91b3ba4c2a98397a58fe1]
 └── b
-    ├── antifwin.doc.zip [c2fdc33c984d4909d01ec71bd735d694dc975b0b83afcfced3d6ecc751922b0d]
-    └── antifwin.dot.zip [9e777dfb89609567c90aabff640de3abd742957c230112335f7d8f9da49524ff]
+    ├── antifwin.doc [32cd96f400545a994fd76fde77f4ceae8e6a92bd546426993e9a17d93ca8e937]
+    ├── antifwin.dot [d05ddfcd1016d9272fbaf2879ae630edfebc663443ee6420908472435b8c2098]
 ```

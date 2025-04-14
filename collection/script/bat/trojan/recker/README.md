@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.win32.recker.zip [034cb9824a769a0770a087322269ddd79bddf1332c49941e3492880afecce10f]
+    ├── trojan.win32.recker [553bb2f9f346357114a6a37f94cdd44bce37dfd31e278960f70178c032616dc1]
 ```

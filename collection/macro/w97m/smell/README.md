@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.smell.zip [58750917bf0e68c79bb4d888b6c18a20b148e6b564f28b8b585151151351e711]
+│   ├── virus.msword.smell [dd543da46f78bd35c9cea48023060ff284214bdf55903d25f7d3299e08cea663]
 └── b
-    └── virus.msword.smell.b.zip [f2dee2e3d0794e8db2e3b23818bfc97d7c81a5e1b614248ad61f434f2061d838]
+    ├── virus.msword.smell.b [9c4718b025b074b401cb8207ec16333ca69376d1479af0d1195fd55c731d782a]
 ```

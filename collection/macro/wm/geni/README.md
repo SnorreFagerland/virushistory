@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.maf.zip [33e48e355aea3aee59430ec2361e5751c3c7c4a0f4d557d1b41f011278f2388e]
+    ├── virus.msword.maf [614f505cf5e80762de9b2a703150100d08bece2a363a1983f37e8078a247f456]
 ```

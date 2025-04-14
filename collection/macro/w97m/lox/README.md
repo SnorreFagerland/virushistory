@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.bloodhound.zip [23562501ec6843b0d3fbd987c781b83cebab1d71ef7834ea0446bd4b3e11afa8]
+    ├── virus.msword.bloodhound [a79cb229833ca5da3c52e017683883ad3bba78e72c1841282014f5fb23b033da]
 ```

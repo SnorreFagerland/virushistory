@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   └── sugar.xls.zip [7aa327b5ac30809cb00b117f742ad1a51a2a21dc671f6922113501cf987698f8]
+│   ├── sugar.xls [b303ce39c6756979695bf6f8ddbf9f5d5da7d628fbe9fc6058ce7e61cb962570]
 ├── b
-│   └── virus.msexcel.sugar.b.zip [7f79d51661069643af44cb27e451597b3da87d6bfc61631bf3306d7c984160f7]
+│   ├── virus.msexcel.sugar.b [505db20aef2c0254d2b238a5bc6d0d9ac54092ce1cfa6c88e9a24160050de508]
 ├── c
-│   └── sugar2a.xls.zip [f1627885b142de54341c3af3baa3ae1703a8d12430fb44744bd6aaf79bf92221]
+│   ├── sugar2a.xls [db9e226fe60a16e26cef3b069fa1e474d9a39e839a355c111760cd947d85e196]
 ├── d
-│   └── virus.msexcel.interior.zip [1bde8af660c2a42f0c777e613f57d0c40d9faf5d9f0cf393a35060bc1841933d]
+│   ├── virus.msexcel.interior [4afb5af5237dc8b4d9754791a6f4d8bafffef64f1980b6451e41ceb4f7746a85]
 ├── e
-│   └── virus.msexcel.sugar.e.zip [6bfb549159e149cd66e3e1255e8ab5e7fc0307ae8d664b755f63024885a46bc5]
+│   ├── virus.msexcel.sugar.e [4040eb85af1d61a65638af89e6d1c156bf5fa019adeb3b3e0dc9968c6342393b]
 └── f
-    └── virus.msexcel.sugar.f.zip [07906a1b43bc9b3f377aba984cbe830c5925b8c741e578f1f2a1ece71e26cd03]
+    ├── virus.msexcel.sugar.f [88f405babfcb39c0cd626ed1980200b9294a9f6909b7074ffc649f084357c5d7]
 ```

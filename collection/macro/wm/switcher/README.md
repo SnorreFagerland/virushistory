@@ -3,16 +3,16 @@
 
 ```
 ├── a
-│   ├── switcher.doc.zip [9106c6b992bd3c6fd401af6598b596a1c038fb775b2a6c805687ea6e2d5c259d]
-│   └── switcher.dot.zip [b0de91a8ae6eb19bcbc87f6663fe7aa8885a7dd821230b975263a7ea14db5915]
+│   ├── switcher.doc [54610be449eb8512852e2a8cc04cc72b0e252a107d54ff4089e3a0747db044f6]
+│   ├── switcher.dot [4b43f71d18224c3a4ccb2eee4b3583d9719cd646a95dec672404b691e84b6fb2]
 ├── e
-│   ├── swit-e_1.doc.zip [257e70390906aa5438c429226ac265cde92216eb1b2feae4be0e311cef790371]
-│   └── swit-e_5.dot.zip [2b930d9cc209e06884695a90cc53a7f67948091c5aa914ea054f0761bf84f43b]
+│   ├── swit-e_1.doc [7bc9b0ed534862eed84d439faea6aa3eab779475b96f7bc7518ccc2776a7c2f7]
+│   ├── swit-e_5.dot [847c6e66eda07c6b4a2d3c662edaa6693e3cff39dc250a403bd3d59feee0b865]
 ├── g
-│   ├── swit-g_1.doc.zip [a0f4eb4c49b7772852e487928434acd0def48edb4c6baa1f0c38d65bb34bb981]
-│   ├── swit-g_5.dot.zip [6895bf98ce085925eda188d0d8be194509265cd6aeda7d713f67479b3eab7d36]
-│   ├── switch-g.doc.zip [8407a251c34811d339e46b6540e672dc74cbc0df4d46b6e3b12d85bdec7d4245]
-│   └── switch-g.dot.zip [f797858819cf18dd3360006f2ea5808216298203dda53f8883f172691827820a]
+│   ├── swit-g_1.doc [ef7a6bd9927ec2d6f52241b6e3cb6ac3a19f08359bcb4ef234b80776fc71af30]
+│   ├── swit-g_5.dot [52cac02c79d2aa2696d5b533fc2522d5ed73e70338dcf06682a1d075625c2bc9]
+│   ├── switch-g.doc [0e30eae85f579a1e1b84baca578b820110d9274d66140be7388da8d44abdaa36]
+│   ├── switch-g.dot [c868dd491141648dac4f769a38d8e615bfb2b9187ad3a931da2373dbbed8b445]
 └── i
-    └── virus.msword.switcher.zip [0d636f0557b5710a39a1441faf5cdb48638454682b0235ba520e7d3da97c825c]
+    ├── virus.msword.switcher [8cb6e3cac0ada6d14601f6092e95f34fb50f2a8043915a9a91c3eac49e7fedfc]
 ```

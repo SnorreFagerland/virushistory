@@ -3,54 +3,54 @@
 
 ```
 ├── a
-│   └── iis(intelligentinfectionsytem).doc.zip [62ecc7a58e58df801fd17fd64254c1b59a18b946a80b499216aaf2a459638a7b]
+│   ├── iis(intelligentinfectionsytem).doc [63b9412844c0cd4b09976ec31e00dc5c14d112a9f89a6ae9c4d75a633d85bd97]
 ├── b
-│   └── superiisv1.0.doc.zip [27e7a3e24c8bdf559a2c3fc8fdfc6a62520c44ef6210ac4c29d86df8b9e380e1]
+│   ├── superiisv1.0.doc [2a762b87edc2a592023f0ac3235aca389ead3da5a34015c16619af6f056573f4]
 ├── b2
-│   └── virus.msword.iis.b2.zip [5f5fb779f8d981f28ad329eb3277fe89b759685fd6ca1b22e13ae968b8c2c28e]
+│   ├── virus.msword.iis.b2 [9b46a5e04d9a3bffdab89955eb35d61cbc8742983382bfb208de136a5a0122cb]
 ├── c
-│   └── virus.msword.iis.c.zip [236564460a69982c8ad069e48da7a3470e4ab6044f5146ae2059abf5a503bacb]
+│   ├── virus.msword.iis.c [d1ef0436bafa3f960e96cb81465d541407dad5f5f08fcf42c670b4d502cc110c]
 ├── d
-│   └── superiisv1.2.doc.zip [42b294195a9bec08a12733ae66e8b980c5475c288eae02c1cfe2b6438d8acf3a]
+│   ├── superiisv1.2.doc [64e93712006f9ed70a2a6a7603aea7c0e4082723f4bea1a16cee9dddfacf6b50]
 ├── e
-│   └── virus.msword.iis.b.zip [28b94b5961b1350cdd63292d7f3d7e56d630833bf4267084c5118b5dafa2eefc]
+│   ├── virus.msword.iis.b [7b507870db05f0fe1251188dc9a657961e9d95d38061f6038518b0f104d0fd4d]
 ├── f
-│   └── iis_f.do.zip [eb094e6cd6f45929a04710e2ff84062244df8afff31485777b88b640062864b8]
+│   ├── iis_f.do [b00e2b7349163f892993efaff31ef9221fb1cc1c2fe1174949a3b1514c5d4d23]
 ├── g
-│   └── iis_g.do.zip [b085798ce698b0df790070618f9312185ac56424fe7140e9341c333197ed0b0a]
+│   ├── iis_g.do [846fab44086a81ef76e3379216ccbafe38e05e7bf4643f7ccaffc69dbdf0f53c]
 ├── h
-│   ├── virus.msword.iis.e.zip [d98818106ec86c2e9084c31aa3729435f830205ce6f00f54d6dbd49abce33d80]
-│   └── virus.msword.iis.h.zip [fc8c8c788ca17f0c296591dc52bbe7af134a02c11f635e464c00e4ba2fdfa68e]
+│   ├── virus.msword.iis.e [93c85d82274680c787aa7606ec0a56deb59c9e964b321f6f9e28900a5d43650f]
+│   ├── virus.msword.iis.h [a27238cac0171feec52d7170c4cecf2d896f4bbbfa14c3f6e1cfc999fe1ec851]
 ├── i
-│   └── virus.msword.iis.i.zip [26f0ed7beba898ce9555c71db425411d9d2f198c5bcd87996f798d3d090b88f5]
+│   ├── virus.msword.iis.i [b562580795ae37a6b4bcdd2703007ad1e85e8212f5acb1f7d3ab5c9ff16e0977]
 ├── j
-│   └── virus.msword.iis.j.zip [4618cf84e2ef64b1e36a4c05f71d6f1ebdfe392b94455925538bd5f85c3d7fb1]
+│   ├── virus.msword.iis.j [fa854315ab44f2748bfc307dd8af951238202e9a203694c95d0b867a4915fc7f]
 ├── k
-│   └── virus.msword.iis.k.zip [15cb518acf31de62ef7d17f53be5fe352f712db9679fd61a55f909d7cc7177c7]
+│   ├── virus.msword.iis.k [e7a57deab01ebb86f1a9e51acdf11a2584307e9e971d039a9d426a32eccb09f5]
 ├── l
-│   ├── iis_l-001.do.zip [66fe9cf034b8716c1599e8563f43b57e414d5b40389781920bc928977a95234a]
-│   └── iis_l.do.zip [7af783497d69d3bbf294d623f380ae9265c01ee66770528bb7f84afd6579378c]
+│   ├── iis_l-001.do [9c8e4f8ee1bd9e9226bbf829eb2440e610aa5663457b82bf665e508a1012d8fc]
+│   ├── iis_l.do [170cb2299ba97ac9511429ca80eddf59d10853b46753af4a52656c32e950bfda]
 ├── m
-│   └── virus.msword.iis.l.zip [f4f6e6a34e8d52473efb9f738d27c08c815600ae2127f09b4ebdd3390674ae4e]
+│   ├── virus.msword.iis.l [64e62deb0c94fee8d15f274adfa712fc570aad7f172bc0a63ce491d3d2713533]
 ├── n
-│   └── iis_n.do.zip [73d89139a2979db85f9abfbf5ed9daa07115288c019a5f4b7819b13e10257149]
+│   ├── iis_n.do [55a236a2c9ece1f7039f0190989363c70e1d058dda2def331712cf6cf801850b]
 ├── p
-│   └── virus.msword.iis.p.zip [a4223c526c8098e057697499ffbdb9093df79756c5eee07bdd655cb5daf8121e]
+│   ├── virus.msword.iis.p [8dc867ad70cb938d2714619207d3ecbcad606fdc69f99ad488cd37d81679eda8]
 ├── q
-│   └── virus.msword.iis.q.zip [ad013bbf4f89b5681105cb1917f8b1f0b4fdcf7e87e3d63b221dbfab71819331]
+│   ├── virus.msword.iis.q [0f0cf332219617731416d07c41b0edf16e07d4d396482f7e653f5324bce376d4]
 ├── r
-│   └── iis_r.do.zip [5d2ab8a313864b666b974585f6a2580c9c57fccdf30b46d34f6821c9f46c4170]
+│   ├── iis_r.do [a23031b69d1392d0b9ea2f9052dbb56e0d484cef5768f490186a78825669f9d6]
 ├── t
-│   └── iis_t.do.zip [fce4bb7874d685201bff7ca40b82ea17ecfe5d5de7c73fc067f0471b970d4f6c]
+│   ├── iis_t.do [93e55fb973fa47ffad3a2320bd04782447cfbd430113b358bdf851411afa12e1]
 ├── u
-│   └── virus.msword.iis.u.zip [3c09874a704f5b00e7d44420e07c2dd6c0129b7d4b34ea0e640393bc2179044f]
+│   ├── virus.msword.iis.u [03d3eafe154fffa329ac3f305730a0b0569b1b274dc9c2181cc90c530f7c6337]
 ├── v
-│   └── virus.msword.iis.v.zip [5a37d1110a4586464daa37e77fb7ba36640aeb1ecb29699a68c9ccf57edb826e]
+│   ├── virus.msword.iis.v [c23e474167137acb6601a34f1e5af9f6bccf25720a00fcd98754e99dde12ef9d]
 ├── w
-│   └── virus.msword.iis.w.zip [a1b80b35bce3f043f7b083bc457443f9334daeec56f1bf675cc94a7732376e79]
+│   ├── virus.msword.iis.w [d8e9d208ba3ae7554439caa87010d27beea97796f68d118db766987190e8cc00]
 ├── x
-│   └── iis_x.do.zip [bcd99b268339c2251296b199aff8bf0df198a190cc659b82949ed73ad7c26611]
+│   ├── iis_x.do [b5e9f91e2488d6834d7ae3d2aff713ba6093efaa1a47f50c54db1e61cfb332d7]
 └── y
-    ├── iis_y-001.do.zip [a3f8727c08a05bc9d16a9190c82eb27261f8fce4f7fa25eea9fde88de104e446]
-    └── iis_y.do.zip [b4f05bdfffa9955a6315fafac50759bf4406246640e16ebf600609ee30d331d7]
+    ├── iis_y-001.do [f2c5f05c4a817c981176cfe7449725fc5d27a4b4b16124620569381d69571c92]
+    ├── iis_y.do [3a2e26172ab0d1e89f9c982d3df4ba4ee3acce1db43a1b60b9f0b03cb7b049ba]
 ```

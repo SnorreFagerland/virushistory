@@ -3,53 +3,53 @@
 
 ```
 ├── a
-│   ├── twno-a.doc.zip [4f8ddedd5427ee076e8adb18130286ab6f42c30a1c27d36dec74ffeea19803b7]
-│   └── twno-a.dot.zip [9d9669d1199b805a4b7a1ad3c1f4c210ac79797224948f361317f9af0c446ebb]
+│   ├── twno-a.doc [eedf3b604383cde7eb19e95ccc6cd175fe75ca0f570c1b274a4967c52d1f5559]
+│   ├── twno-a.dot [905e9612c6eb4d7ab9f1d46a6bbf9a8e18905ebc6f5ff87df52d74af74d39b51]
 ├── ac
-│   └── virus.msword.nac.zip [9b7e71c55f870323ae8aa209f67d712887c370f511558674dfd81a3c6cc2b641]
+│   ├── virus.msword.nac [e3f2c2186a0ea4094bd36e7e3a7fd875314657fe3976eb309940af3a1dc39c3a]
 ├── af
-│   └── virus.msword.twno.aa.zip [a3e0bda584782a32b02333a08075d9a90b830f03303ca5ddfdb36b1863e23033]
+│   ├── virus.msword.twno.aa [4adf0b011405eab0125c4c70dc8b6ea72b6abffc60e5d1c35ba96ec33a7395ff]
 ├── aj
-│   ├── twno_aj-001.do.zip [d036a47d507ff92af8dfedcd55b5de862c47ba95f059d26eed7d679aca180a90]
-│   ├── twno_aj-002.do.zip [0fbc73a522209742110b3631eeec0f8f6e21bf5c5c3d97335c57518bd5584398]
-│   └── twno_aj.do.zip [40779aa4410c03534609f6639f12e7d06178f22b75ad8c457d31a6e8700b7993]
+│   ├── twno_aj-001.do [4968b65e4b2aab44b8904b2d0aff02c74ae6d713b2660e8a52f848b538ba0f79]
+│   ├── twno_aj-002.do [eb9ecf3e706e35e5207c5fb11ad7b81abefa54b5cf41503e202c1c62f01b6dd3]
+│   ├── twno_aj.do [2cef2f98d183c8d4dc6ecf429530c1120f44094fae5f9283a4f40fcfc7fac672]
 ├── ar
-│   ├── twno_ar-001.do.zip [98142bcfa812af0f1fed55f564a984d6a618a960f5f032d0f24b8106327ea484]
-│   └── twno_ar.do.zip [ebe781deb2b4098f72aa04f13cf158d032c5bad73e40dd30f97f7d67c1565df6]
+│   ├── twno_ar-001.do [fa879287397c6f8b9656376452712734c0c7e61946c6a1a9031e4a7cc9ab4224]
+│   ├── twno_ar.do [4ebbc2c25fc50d483be5c03a749e8004b33e0d73e7643b2e6edc821c55d86df0]
 ├── at
-│   └── virus.msword.twno.at.zip [d029ac6bc1c5074009ed1e6e463ff187362a697a3e12d623fa0b72305153b50c]
+│   ├── virus.msword.twno.at [eca6c03443b68434895e1805dc5fe6ddc14c16dede126382795556a852953479]
 ├── au
-│   └── virus.msword.twno.as.zip [28f7faaf9cae056f4a869c44ec51a8b5f75e5fab0cb2b0a8f117a5abbef54899]
+│   ├── virus.msword.twno.as [029187a49a4ad6a6e56512bf4d6b0c96a27edfee40dec782e73b0e8e46667c5c]
 ├── av
-│   └── virus.msword.twno.av.zip [4f4ba38ef509c0fee0c68ac1d5cea30496d531e2c3f1fc89d6540e25ae7f53a0]
+│   ├── virus.msword.twno.av [62a91c7a6ede390babfc14b88e7e6465e87ffc89572279f32499e274cd3f5de5]
 ├── ax
-│   ├── twno_ax-001.do.zip [3e96bcb58b801ca28b7fb883997e4e8b6a844bf2545450581c97b3664382b1d3]
-│   ├── twno_ax-002.do.zip [839628067eb5eb273c2a1cdddd787fd5fa60f1bbf5d1dad3ac2e2b26ff967ce4]
-│   └── twno_ax.do.zip [50033b4140270de177aa132d3df1be842e6c04df0fa4aca0d60e1f1862fcaace]
+│   ├── twno_ax-001.do [7c347a7d1b5095d37cdc71f188009e8d3313458fd4832d88adbcb7743a5218d6]
+│   ├── twno_ax-002.do [e2b822d08f923714720086b3cce52b7500d0027fc888feab5afac39ff8fc0819]
+│   ├── twno_ax.do [132bdca493decbc0448455fd56b4b518e88354da45f9dcd49a4bd02278b9cc86]
 ├── ay
-│   ├── twno_ay-001.do.zip [c3a7a519a8c15f210588d22905623cc8be43c1e8ed980d3693b91b01799b3c75]
-│   └── twno_ay.do.zip [f0210a2dcccaeff90aa71a4a5f3cf1ac7e2bdefdc85c072e6f74897f76244893]
+│   ├── twno_ay-001.do [eac84ff2fe0d9c28c65418cd10e4d20ca603e2d92963a9c0f0bd700f61bd7e85]
+│   ├── twno_ay.do [a002c2590df26d7b57c9bf0f8a0acb5cf2afcf33aee05734a7b4f696a2562352]
 ├── az
-│   └── virus.msword.twno.az.zip [b5263316ff909ee7bc587fc49b312a7aa19491f905beb84485e81d4bcb956575]
+│   ├── virus.msword.twno.az [5814e861e2e0d70e57625585db39fe1519790fb3bd5b6f7dac286374327eb95b]
 ├── ba
-│   └── twno_ba.do.zip [507ef2ff57b727fe15cba3638ee0b186e0ac1a0b5e1cd9861d4761aed98dff42]
+│   ├── twno_ba.do [52cce043421a72bd2e9db9207cd947c600e11f4c2ed32eb7ce22ebef482d2603]
 ├── bb
-│   └── twno_bb.do.zip [e2496871d42499fcd0eb8f66e7939e1c496624ebb9e863b9028d144bc9216722]
+│   ├── twno_bb.do [b3527bfc49c8c2e5841888fad1b76314481c057cd1858f62b8ca8d9963f311e8]
 ├── bc
-│   └── virus.msword.twno.ar.zip [8223f0b741ae65dea07eb48034b2da2996b4318e8446802454b7f6e273867064]
+│   ├── virus.msword.twno.ar [87b4739142ac425841b18ec107a438a20cb6808d1dc235776d55e2c1a065c7d3]
 ├── bd
-│   └── twno_bd.do.zip [a6255b2444fd8b874d25d1933414a7b6fb98686dfa3c577b91c4833de778009a]
+│   ├── twno_bd.do [0d1740394f7340f487eeee2ee6f8a8d330652b3828011ca2d9e0019af6609592]
 ├── be
-│   └── virus.msword.twno.be.zip [cb19d71fd88d1cb063fd8e612307399c07a2508f6f575fd7fa284ac233b50e6c]
+│   ├── virus.msword.twno.be [5596c9f9dc9712f9922ee5bb49a0a605df622209cccd2c15dda6f56b2aabaccb]
 ├── bf
-│   └── virus.msword.twno.bf.zip [e12b43bf7b0563a6cb5797cbef5ec9ad4818919257daa1737cb8859cd46a176d]
+│   ├── virus.msword.twno.bf [77e6a8f7884024f4adec7de6531f903d3af8dbe2343b7b510c32d30eeedc818c]
 ├── bg
-│   └── virus.msword.twno.bg.zip [90bbe02224df40e6a91a173cad0ed77cf7b1514b9128158cfdd602587e43bf84]
+│   ├── virus.msword.twno.bg [6869f495391dc6e8462ee93eb072c9fd81ec02c65044ca3b4add27d3ade4712a]
 ├── bi
-│   └── virus.msword.twno.bi.zip [3a6350fa05b851d767e64382701aad4062bad3e87e95e7c071a9dfb036279727]
+│   ├── virus.msword.twno.bi [2e663739f3e93d27ae5bf68e046bcb518df791a14048fa65e9e58695d1c652c8]
 ├── bj
-│   ├── twno_bj-001.do.zip [272aabf56b9c6919cf90c204b191214d941a432869d4d4a60d01399cd8732553]
-│   └── twno_bj.do.zip [26ee9bce3164a7de9803115675c5bc2bd33ba32a2804d2e93a48d3830d1d99cd]
+│   ├── twno_bj-001.do [a097ddb2446622179fdd95dc2c4d71a490ec867c759ed909d446faf1f013308c]
+│   ├── twno_bj.do [25d2d374fdd2cd6deee77e67531721be176788884c390271257438385c941378]
 └── bl
-    └── virus.msword.twno.bl.zip [a2a13a9f2fffe4880e1af5bb8efe3254a1db3f954d936a8c07657b9c583fa6e7]
+    ├── virus.msword.twno.bl [57fe7bcb1a5178b1a05856b12e61b695bc5bdb579cc7c27fe5ee6d9ed1ec33c0]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.adenu.zip [b9cd4ee057f4e401f6164cdf9f04c148b1af46b1fd4384a774ca78dacb349334]
+    ├── virus.msword.adenu [6f4c9ff42e6b60fae6ad0d11c5ca9182b9c9e70249b03be4e94b11836f2f5362]
 ```

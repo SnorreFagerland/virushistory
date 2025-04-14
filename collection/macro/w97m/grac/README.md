@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.grac.zip [f2603c40bb9a54d6916947a7d9560b076f367bd96f8d4cee921383906b061ac0]
+    ├── virus.msword.grac [7424e03ce066d2ba02f05385d742e92a0e715cde8e1a8d6c1d03a2db743628e9]
 ```

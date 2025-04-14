@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msexcel.goof.zip [61df897bdc4043343528b4fd72691c7169401a64efa80134a0d77b6286314b99]
+│   ├── virus.msexcel.goof [d4b0759884d6831d5ba25463c0df306ac65c06c5b67da40b719f10550f08b065]
 ├── b
-│   └── desk_b.xm.zip [1e8c497b442f6df5e39e6cbf0d50d48733543b897816fe44f8f60acd1d33fe72]
+│   ├── desk_b.xm [ab2cd6b1e38274f9614c0df39064470935064af0082e2fa5e2830028391f5052]
 └── c
-    └── virus.msexcel.chip.b.zip [b642250826682fde4edc05b1e42b74536dc1319b53744c5f7391b38d918b91d4]
+    ├── virus.msexcel.chip.b [0f1a3c080e90536bad3f4dc00001d10b9bff6757754f2074d22419b8b91febb9]
 ```

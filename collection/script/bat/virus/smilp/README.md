@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── bat.smilp.b.zip [94e61f0200248069ce02b6b1a6ed0fd4e886f98230ab05c480672801a88f1308]
+│   ├── bat.smilp.b [842b9ae607c41be9f0042003d770a6d4694fe3b310c5b616f4d76332f840e80b]
 └── b
-    └── virus.bat.smilp.a.zip [dd0655a5c67ab37cfcbc8543fc069ec9de70851b2ae3d74e905e09dea4e5a94c]
+    ├── virus.bat.smilp.a [6ef76320c3dd3006caaa4dbc74e549ed05c875308b1633993ecac7d18330ac32]
 ```

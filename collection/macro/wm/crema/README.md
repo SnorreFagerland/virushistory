@@ -3,9 +3,9 @@
 
 ```
 └── a
-    ├── crem-a_1.doc.zip [03fe02fb327c19685adb7bc45b4d76cba4df3b6ddd5ff89ca5a7e2fa91cb2905]
-    ├── crem-a_5.dot.zip [3358b74e02085a4dfab1e0d93187592871133722d2e06b536b18b9fbee6ffc3d]
-    ├── crema-a.doc.zip [737c5ca1fd7366cdc4092cbeefa88ed62fab3c36ecc2569bbec1f2b50ab9e678]
-    ├── crema-a.dot.zip [64bf0d57ecb639157d6c60310a49a9fdc2cb996b1702b08ece49e1999ab1b109]
-    └── wmcremaa.doc.zip [5bf9818dd9fb6c6c4544690943eead7a55d48c67df898fc26bae6491c4878c48]
+    ├── crem-a_1.doc [ce448b387e8f515d2f906355239dfbc7c796aab1fabb5e9f954c86e5e585e2d8]
+    ├── crem-a_5.dot [68ff35b4db2efc5dc997c1aa8310567aa5f6d304fd8f850844158e67fd3de69d]
+    ├── crema-a.doc [8ea1a2864f13dc8c33766a77bcd7e9e82e34d025115aadd92d5eb7ddfcc75345]
+    ├── crema-a.dot [951041f31eafb61d7935a526709e8b957612beca68c9b10efd4d7f7676b42dba]
+    ├── wmcremaa.doc [9abada29cc3e8c8d9094eacc2586def44a1c8bc1582aca3f42090d0a382c0b82]
 ```

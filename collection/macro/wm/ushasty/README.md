@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.ushasty.zip [8e637e3e98d4fbb4bb637472207f48bbb0bbe4c37b3b9de162c3a23b99b86935]
+    ├── virus.msword.ushasty [616645fc62919b838f64108436da72edac124753e9de4392874d0abd3606b563]
 ```

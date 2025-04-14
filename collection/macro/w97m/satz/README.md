@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.bausatz-based.zip [ffd8a71f22e6be81c3ad270547fba3b20f2d0d11c5ea0ce27982467f03ebe723]
+    ├── virus.msword.bausatz-based [755079118aaccbd70e654c6cc6a5a4c09b37e6c5910b1e2a2786f3b44b131995]
 ```

@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── trojan.bat.cocun.zip [d94fc95dfb028d621bc407360a7349ef0eafc721c38c04ef36482988ff8a38fd]
+│   ├── trojan.bat.cocun [a2a9cd90da45affed5d26b611925d319ba824282c58643a184c62564a872d331]
 └── b
-    └── trojan.bat.concon.a.zip [9c20d6c3a821cc1c017d1b77f48b34c147f0fdf1311e80584756854db95b2cc0]
+    ├── trojan.bat.concon.a [b786d139d387c913df2b684fedf4387009fdf9f3cbb9fffeff966c7439233cdc]
 ```

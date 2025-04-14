@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── bat.zert.zip [f09b5dad8227910295eac960578aa8e32af388b8c9997eb6ada9066e4e7bfa8a]
+    ├── bat.zert [82ccc36be60110c7ef1a4bea9885ff25c989d2cdc9d14354d4fa31273d48735f]
 ```

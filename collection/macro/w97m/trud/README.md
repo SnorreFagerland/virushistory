@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.trud.zip [987a69d89422c01b0b6c46d19b05870deb72e35c09af222d0665277a87015242]
+│   ├── virus.msword.trud [1c353ce051a9dcd1dbabe222e3c4034706e69b7193221cfbc3e281870a50fab3]
 └── b
-    └── virus.msword.trud.b.zip [4926dc77ce64579d07bc9f92f3a13956820a8479aebe191a6640140a652eab8a]
+    ├── virus.msword.trud.b [998b9f83786405b9401edcdc3b22fdfda6e117aa8125624c2a3b497ea78810f2]
 ```

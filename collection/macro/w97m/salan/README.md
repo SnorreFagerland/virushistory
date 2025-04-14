@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msoffice.salander.zip [76d258cabcceb7d0accf55c576b4915511a06942a8886ca4b7d35e8b9fb652a0]
+    ├── virus.msoffice.salander [60e87d1755f52cb8acace0b72b4cab1514e568677162f21fa1ddcc5915204a80]
 ```

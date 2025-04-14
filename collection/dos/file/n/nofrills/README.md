@@ -10,6 +10,8 @@
 │   └── b
 │       ├── 815b.vom [9a1a03370318c7f5df04c5b69db01a7cc630c20941f990d7499a6ff3c241a6c6]
 │       └── nofrills.vom [328d91683367809a5b5cd51724969fb4200130d5ee7b7816e89424c9ecb06810]
+├── 0823
+│   └── virus.dos.nofrills.823 [77b6c551a60d9c0daff37bb3a26d25be19c418838b4aefb2e3bab4d81f6a0fb1]
 ├── 0835
 │   ├── krk.vom [142a7134c60c965c678eb133fd62295f8e2b04de73f4efd7d07509049414aedf]
 │   ├── nf-0835.vom [37b80ca8a6a2a8bdac82892e3a439cf776ad5da072ea67cd84bfce65130e8e52]
@@ -17,6 +19,9 @@
 │   ├── t1.vom [ed1d8f54ac5e4371b512e95fa176b0422ea585b2ca872b587ec2f392bd5c790c]
 │   ├── t1.vxe [cbcff006eda7e5247b829344ed65f5156b79ccd9b89a9abdbd95e668d3491c97]
 │   └── t2.vxe [aa5ad4e0d614740ffb3a804a519dddeec5df1c2c138e32eda0f0c36bd5d58d01]
+├── 0837
+│   └── a
+│       └── virus.dos.nofrills.837 [ab1921d76209246af5870eaf4f4474e882cdea641a07b320959abc1392516f41]
 ├── 0840
 │   ├── bung-843.vom [712be89339240615afc76d50bc644268a4d74d81b544783eb909b114b038a312]
 │   ├── nf-0840.vxe [1d5aea9e37b291c6bdba6ddd4c940b73781a14cfadf84347dfc2cc4659f3b04e]
@@ -34,15 +39,18 @@
 │   │   ├── 2-nof950.vxe [ccf9380a74e5d5a0aeaea4b38079ec18a86c8e6c7fac9e346002fbe0c0c7138c]
 │   │   ├── 3-nof950.vxe [e6266ca50a97bab7dc38b1f999a6c0bdda792238e6a8fe9596e6e815f31295a8]
 │   │   └── kk.vom [aacbb198b869d879bd1a9517661dfa1208ccb17af0615be6a8351991e9b29e67]
-│   └── b
-│       ├── no_frill.vom [bb69ccaa0d189fcb134742b50ea43c47a4b5f54296f26829a7429410f0016aca]
-│       └── no_frill.vxe [3558afc773e31ecbff8f30b5bd0b44beac90a84987ea66d4b44fd5f0971af04a]
+│   ├── b
+│   │   ├── no_frill.vom [bb69ccaa0d189fcb134742b50ea43c47a4b5f54296f26829a7429410f0016aca]
+│   │   └── no_frill.vxe [3558afc773e31ecbff8f30b5bd0b44beac90a84987ea66d4b44fd5f0971af04a]
+│   └── c
+│       └── virus.dos.nofrills.k-lame.950 [68687ec004028710d5ecff5a3811af6049b6509a206a02bd1618d932bae21671]
 ├── 1153 (dudley)
-│   ├── dud-1153.vom [10cf6ee3390771a30f0a9ab95e75f8f835f8329c3778bbf500b60611a7745ff6]
-│   ├── dud.vom [6ce7ee15b250edd168cac7497f8c325b0e096205d2566a260df8c65b3d0ea5a3]
-│   ├── duddley.vom [ac966391d1ba4fd3b38c8fe8136e7076fbd100fd1d656903a9fb4fd951d3ff58]
-│   ├── dudley.vom [7f864e0a5648b2c57e5b0424f1bd6d3b36a74e9e9591c51c330d6c18ca2dc23f]
-│   └── no_fri~3.vxe [a78133e007eea20ad5f08dc0c3cbc83a155a4060d9d500be7962255c98703482]
+│   └── a
+│       ├── dud-1153.vom [10cf6ee3390771a30f0a9ab95e75f8f835f8329c3778bbf500b60611a7745ff6]
+│       ├── dud.vom [6ce7ee15b250edd168cac7497f8c325b0e096205d2566a260df8c65b3d0ea5a3]
+│       ├── duddley.vom [ac966391d1ba4fd3b38c8fe8136e7076fbd100fd1d656903a9fb4fd951d3ff58]
+│       ├── dudley.vom [7f864e0a5648b2c57e5b0424f1bd6d3b36a74e9e9591c51c330d6c18ca2dc23f]
+│       └── no_fri~3.vxe [a78133e007eea20ad5f08dc0c3cbc83a155a4060d9d500be7962255c98703482]
 └── 1358
     ├── k-kat1.vom [fbbe1d103c0cef271c68e6146ec81cbdc551cec904d70037d35278d4ced83930]
     ├── k-kat2.vom [6d41c02efc08cf8e27c0a421c7de353523b941739f2c4241421d180ffcdfed15]

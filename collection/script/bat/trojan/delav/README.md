@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.delav.zip [3000d6deb3f886c3a2bcc0a0cc4234840425aee9ed5aaddfa76f048dbe97fb06]
+    ├── trojan.bat.delav [8cfc3bba88d130290c35bfb5cd8bec9cd325e7613b189acf91f4c70111529c4d]
 ```

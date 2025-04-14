@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.pompas.zip [a43c0427c181a9fbd5e6a68b49824d928850286d8ce80cbdacb9415e862765ef]
+    ├── virus.msword.pompas [610ef4adc08c3bdb73c60f3a69b6571ecdee71c6ab6c8fde6c06e6e471b1319e]
 ```

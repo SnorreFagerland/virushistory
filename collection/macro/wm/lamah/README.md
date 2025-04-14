@@ -3,9 +3,9 @@
 
 ```
 └── a
-    ├── lama-a_1.doc.zip [080346334d93ccc730f1b46dd30c3599e4eb026842bd13c6c1a615a65f98ceea]
-    ├── lama-a_5.dot.zip [e43b7a45763e3425801fdc73d7e7a95316da3bee7daa53ddbfaebe07586cbe30]
-    ├── lamah-a.doc.zip [5e705b145fed51e3240a2f7db604d1623f3c20714385c1cd17ed2b640a45bf4b]
-    ├── lamah-a.dot.zip [7761dbc0194e2d8c161969dcdd0f5daf38c9290ce74f302c857d8be4c35b3ccf]
-    └── wmlamaha.dot.zip [2ae2d7120a4ab8a0e199f43bf46b47f2c38d6c6092a3bb3e2fc3e5d9b00a397e]
+    ├── lama-a_1.doc [6132b1206c4e058e3e50eb67e9e7adb0c80a03c0720828f5eec47546321498d9]
+    ├── lama-a_5.dot [eb5e4c389439562920e3b069f7a5b76cbbf64269cfd4d8ed0fd37862599b5def]
+    ├── lamah-a.doc [d8f668bb004c6acb7c09d5a159f07b26fa8c0a62f5502ce04c8f7323b12380ee]
+    ├── lamah-a.dot [d1e447c64b0b7b47e5657665c0fa9598c8088d96b1a06500c828435675c562ff]
+    ├── wmlamaha.dot [75655e793591c70b7f21a2f654ec2893e5909aec232bea892f44d97786d70f56]
 ```

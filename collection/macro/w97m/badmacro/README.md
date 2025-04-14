@@ -3,5 +3,5 @@
 
 ```
 └── c
-    └── virus.msword.badmacro.b.zip [92b1863ff1a532bccf950bc186c417ae532345b774931c06a838845fc2b02947]
+    ├── virus.msword.badmacro.b [c2491586db83ba795404aac6eb591a1c59d36f4bff34e6341bf9b480aee43d26]
 ```

@@ -3,10 +3,10 @@
 
 ```
 ├── a
-│   └── saversex.doc.zip [b5b2acde375e1d8702961de5534c3b9f80d3ad6c7c5c65629ce0a7aac77e241a]
+│   ├── saversex.doc [65fafa69bc5f45741f0eb36e0882f0a0cede9d4acd3fbed55476e88cd1d2560e]
 └── b
-    ├── save-b_1.doc.zip [ebcdf532ceab6476c45cf31eac1359a34b5bacef1c27130845b29ac2f9770b5f]
-    ├── save-b_5.dot.zip [69befdf1735aa31f04b3e9c827981e4926f2b2f7d11a513b7e949c3c32d05e44]
-    ├── saver-b.doc.zip [15b7086e1b7b993cdd77c51da5a6597a2b36cae57692971f8056452e2d6457dc]
-    └── saver-b.dot.zip [f8ba55386d84d4494c7a7c70fc097acc53e05266beff2009dadacff33e253aef]
+    ├── save-b_1.doc [bc0148b3229f3824f822b241f676da60d79dfc403c21c127b613ebf4864023d3]
+    ├── save-b_5.dot [c7da1654ad063de07dcbfaf9c8d751f1f59055e11ca3b599d9de869c5d83f95e]
+    ├── saver-b.doc [f6c0550e2e5bc2ac319baf375bd1a020273745abaf09fa2565cc1b46d4c360f8]
+    ├── saver-b.dot [a0588cebc689c7bfb7245e0b0d6c528655deae91861e8e7d0a07da0b7b1ee6da]
 ```

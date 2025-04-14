@@ -3,10 +3,10 @@
 
 ```
 ├── a
-│   └── virus.msword.jerm.zip [f4cfd4e3d19619434bfc1ec35bec319aa9698963d8cc5bb12ccc070c63d4f61b]
+│   ├── virus.msword.jerm [4a37d8f21cd572167c1d9c89e8feeee5dec05f82ecf2bc66797ae6882dc9dba3]
 └── b
-    ├── jerm-b.doc.zip [b9647aaeee8bb743534e05371df73ca3cd352f9b406655eac8a57c6e4edb6bc6]
-    ├── jerm-b.dot.zip [64b11b6a91df9ac1de31d6a993131958b3dc81761a334b6d3e3061d62bdbe391]
-    ├── jerm-b_1.doc.zip [a5f9ebf9e2158c2cfd3a5af22849b010d3cf1fa32efccc0bef6a6256236a8287]
-    └── jerm-b_5.dot.zip [3cf17848745fe3314d387095f3879f92cadb6f86f95d197f5b6bd6e21948de7a]
+    ├── jerm-b.doc [63b902b585072f4d6a94cdaa11cc40fe357fdfa509ffb06a48d66412f8a6b03f]
+    ├── jerm-b.dot [09e3da059265e51269771532a5ebb1605b3486055e67c170fd50f1bff3433ca4]
+    ├── jerm-b_1.doc [79421c1b7b91342146f82001ab493be59d2f5500a63873d16e47b8887b636786]
+    ├── jerm-b_5.dot [df870fae4d9b8f907c2c4df6d280dea6be0ae69e12d71f9eb02ea53e424a06a5]
 ```

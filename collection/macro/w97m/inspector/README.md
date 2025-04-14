@@ -3,23 +3,23 @@
 
 ```
 ├── a
-│   └── inspecto.do.zip [9b3cd15ea2ee03ec0b3907de798dbf979b4a653cc154f3cdd9d193295817f8f1]
+│   ├── inspecto.do [a9b0849e5fd896b8661d75532993b13bc1fa0ee154109a0ae0e8b52d68f11eaa]
 ├── d
-│   ├── inspecto-001.do.zip [efdd55481608792a1fb0d7434563ae14ba0671c7a2488e7049b07163b35709ce]
-│   └── inspecto.do.zip [d1ee82b5a3b902021d2874f7e64ff680b6ff009a7d508dff173b54dbf262e4cb]
+│   ├── inspecto-001.do [bf92f88e510c192b3cbc39cdd560805905966df5a4b0c8d6aa5fdebc3da2ae92]
+│   ├── inspecto.do [188db13828cd9f1a736eebb14e1a1fc7bdbd97561e443f6488ca583de06c1da4]
 ├── e
-│   ├── inspecto-001.do.zip [d1592fe764f21e0e82331886e96153d8d1956c60ad4cac512c9416be5c5bd85f]
-│   ├── inspecto-002.do.zip [3acf30ad3e487d4cb4e338d8d0db1bb67f1896a414152cef42d15870b1c39971]
-│   └── inspecto.do.zip [f9bfa27cc22936c7c6fb60252d2e6989b6a28affa0c1f0b5c01c1a002a121491]
+│   ├── inspecto-001.do [deaf5fa910300ba5918094ee4fe0ae0c3c5300e699a91015aad5c60e44806416]
+│   ├── inspecto-002.do [b171e9dd4d1d73e8619d3887d8a4e068481b778a86386f3d8caa4849d9b31e73]
+│   ├── inspecto.do [52727e64571cef6ccd599f59cd5a5062ece063cfe2f0cce0daeb603cb07e61f4]
 ├── f
-│   ├── inspecto-001.do.zip [e389a08f89312ebfa03d08e7a6ca210bfab4fda88e4e0b75533623d912d03ed0]
-│   └── inspecto.do.zip [6fc72f4841bd45e00b5e13335574355e281e3d76dd3729989685b224fb31b13c]
+│   ├── inspecto-001.do [efab9743b67789b3689ff718e9c571121bf66952a04950a36f4dbaeb3b073d92]
+│   ├── inspecto.do [1002481bc60d4b78e25463010f2c7ed26cf9fac63b3733a5201d964f4cc81e19]
 ├── g
-│   └── virus.msword.inspector.f.zip [d2f5f8f4610c25240025d9a0edd4af3ec1f9f625fe61723c6328e2bec4d7239c]
+│   ├── virus.msword.inspector.f [c5b2ff6c6f6c212b9b95e3e97b3ec00599ae91c8f0dab5ca263df27310ea7109]
 ├── h
-│   ├── inspecto-001.do.zip [5135ff57d852ba8f77fea3f14342fcd57cf3e85f58b433b1f213dc0606b1849f]
-│   ├── inspecto-002.do.zip [8c653b97dcf11bf60ce7efe6675094730a1b18d8fc32659be040f6a0c736afd9]
-│   └── inspecto.do.zip [b9a95a6f7ef0e64471ca0765a64facef80065ffe27ffc1383f6a951d8c659e05]
+│   ├── inspecto-001.do [e74428ea4ffeb6f8177fed22d1c03634a87a323c4f4c26c13ce38fca6516705d]
+│   ├── inspecto-002.do [ccde5bb8860e53967386bd8c8fc3ecc98b25998638a8cb5ad54065d8f3351b4c]
+│   ├── inspecto.do [9a32bf52f88486eb997fc7a8f8e0f2f8031464299baa180eb54f6c75ce451a58]
 └── i
-    └── virus.msword.inspector.h.zip [e3762c34ddb88b5940a1522c8cb95c32d5b236d2ba06b319f0562d1c31adbf94]
+    ├── virus.msword.inspector.h [848a772890397b81cc53c73ad43a350fc3d43cbf80c8faa1874d9d0296e76ac9]
 ```

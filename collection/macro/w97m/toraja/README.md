@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msoffice.toraja.zip [514c1356ddf38261991d3749300d919f1876d4691db94282a31bd5cca5b4a32f]
+│   ├── virus.msoffice.toraja [4cfb8ef7cae3d8af39e8e845f374abd4ef34aaca1f71f263a814f7e49336647f]
 ├── b
-│   └── virus.msoffice.toraja.b.zip [d87df99146d0bd3da740d692ce4f3edafd41d0573ee59ede77afcb51044d3611]
+│   ├── virus.msoffice.toraja.b [8638b0709c50624987485295e1b835d7c281ae86ae8bbfa647f945309d15c7c6]
 └── s
-    └── virus.msoffice.toraja.h.zip [95a147b9714718fa96ada1bc8f2a42f2a329df2f6afece305ad0281b588e8457]
+    ├── virus.msoffice.toraja.h [fcf766e417d59f2b08c6791a7fe5514ed523f94ea166c61136654075c19944d9]
 ```

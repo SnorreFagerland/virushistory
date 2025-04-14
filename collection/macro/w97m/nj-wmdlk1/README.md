@@ -3,21 +3,21 @@
 
 ```
 ├── b
-│   └── virus.msword.nj-wmdlk1.b.zip [509925ca4b97a10d96649ca0c8ff1660ec4d393d290b80db65ad1879a1c2de4f]
+│   ├── virus.msword.nj-wmdlk1.b [a6ee5882244202561fe84b544597e4d78e30fd9d91232ba96da6ffa86bf2c2a6]
 ├── d
-│   └── virus.msword.nj-wmdlk1.d.zip [0b9cf969e092bee28984638806e7c6efb7f93a8f8a773596e269ad7d83b2293f]
+│   ├── virus.msword.nj-wmdlk1.d [3f49f544edd61f00402f3f6f4c3f8101729b3b7819c41ef0652e535461cbf917]
 ├── e
-│   └── virus.msword.cozer.zip [5cd3c71fa80e6efebd316b6ce8f991a49c43d3653f28186f7b018e42a254523b]
+│   ├── virus.msword.cozer [fe95aec047625c9cd1c7c751f2ab91e69da977eb5203920eabe846403f983f4a]
 ├── g
-│   └── virus.msword.nj-wmdlk1.g.zip [6d684fa5e2fb1ec8761489ae39357eefa4cb9eb17e60936a3738c6408c049fd0]
+│   ├── virus.msword.nj-wmdlk1.g [b1c20b1eb305c408b96e53030d7693ff689aa4095bf98fb7f702f8d4df0e44a0]
 ├── h
-│   └── virus.msword.outlaw.c.zip [89bbcbbb07571dc4a0b01e477616a1f302f5a25fdcd37000883765c0885ee38c]
+│   ├── virus.msword.outlaw.c [49c490cfaa33fe59b1691504d01de1c7ffeaf2c0d63ff000e223afbe550898ad]
 ├── j
-│   └── virus.msword.nj-wmdlk1.j.zip [5bcdf51e100413c909d92be2d5c9531e9ddca923e225ef871d42ec2b23384054]
+│   ├── virus.msword.nj-wmdlk1.j [fd44ba01ada03f32402363e0c079afc6a189485cc1c7510ed1d779281333d309]
 ├── k
-│   └── virus.msword.nj-wmdlk1.k.zip [a916c75ce935b6951b972f49389d741f1139fc8798aaf824e6029d4d348cabdd]
+│   ├── virus.msword.nj-wmdlk1.k [a9ea4677b08c0762466d8cec967167784eb7e9401588edc296aa5178800ed0ac]
 ├── o
-│   └── virus.msword.nj-wmdlk1.o.zip [91e2d02ccce695b3df2881d9bcb0da26033782a92043c099548451ef529ba415]
+│   ├── virus.msword.nj-wmdlk1.o [ae097dc5eb5421b7127ffc0adae08fb1839fcc7b2fc907f5c9d0487c1bf32501]
 └── r
-    └── nj-wmdlk.do.zip [f2ef1ab79f64ef77cd007d4f1116ba25e7b674874941cb7b7e347e56f8439d2c]
+    ├── nj-wmdlk.do [04d76a0f0a992aa888429356b25751cc9211cbb0b63836fa9836bc186646517f]
 ```

@@ -3,14 +3,14 @@
 
 ```
 ├── q
-│   ├── eraser-q.dot.zip [439f78726c0c04e1e170a92a165b8c4382dc0230545001a8161da6d93b8af1c3]
-│   └── w97erasq.doc.zip [1ad2484d9450967c0b2e19014ba12f27811f94031d896bf4722c177fe2283279]
+│   ├── eraser-q.dot [d7f3f1388cc35b49351adfa2ae3ad3b9903816dd7ad12bb6ac05edfc36e8fe75]
+│   ├── w97erasq.doc [9998cbc1b0d8afce130f120f116d6450edfcf3277ff5088ff0e64c13761be464]
 ├── r
-│   └── eraser-r.d7c.zip [cd54f3b27a7e487facc52514ebba7f1308d23414f49bb1e344ae04569c0752a7]
+│   ├── eraser-r.d7c [fc333a071c8107b4db404701765a781184ccfee7e6138bb25bcefb67d043b9d6]
 ├── t
-│   └── eraser_t.do.zip [c897dde192d8f94fff0581f329997ae1c11311335790f3d33ed7d16519fc7fac]
+│   ├── eraser_t.do [91c5d6bc48e18178d8adc8b17ab68924fe26ff3d56894737cdf7560cc2162555]
 ├── u
-│   └── virus.msword.eraser.t.zip [8c05e502b6b0fd278e3b050847df3a89edb766b89bdd4321fe626689a8275682]
+│   ├── virus.msword.eraser.t [fe538eb589497c85f6e96b9de2d5e6e9424c985370fc99f12081e8b9caf97f95]
 └── v
-    └── virus.msword.beauty.c.zip [3d984931aa47014752288d1acfc4ba01b55b18b6d52834d11c62885c203066e3]
+    ├── virus.msword.beauty.c [fa5f8aa4cd5683ccc8bc1874a7f9b490c55cbc4060ced8814e56c6d96a42c796]
 ```

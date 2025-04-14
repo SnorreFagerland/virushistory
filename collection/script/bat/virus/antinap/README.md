@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── email-worm.vbs.chapo.zip [862f5187ad8e26ecefa4e76ea8f5cb942c5163333e4e17a7c2d4fc526912ef58]
+    ├── email-worm.vbs.chapo [0029d36f493083e8edf7f8e9e28f6707f5e9ff0b4f60034a757bc7a350261773]
 ```

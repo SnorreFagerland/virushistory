@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   ├── dmv.xlt.zip [4e09f00c3712de12785fbefbfa0a1d11b3b017031405857f07c86d7556e726c6]
-│   └── dmvexcel.xls.zip [efa469bfada7ea1ade42940a904cb1bf4816f00f36dbb7091ba5cb42a8718900]
+│   ├── dmv.xlt [1fc0066f5e9ff97a7384a1c5c42805e0018963e1f14ffa5b0ed5242cb74c34a9]
+│   ├── dmvexcel.xls [43052da6786ae2d9d36d1390e0b06d196fe437e166aff0745e2e70163bed03aa]
 └── b
-    ├── dmv-b.xls.zip [05a6aabf4a06f60642c00b763eb08af3b21e701b4db017dc7e33527733521035]
-    └── wci0835m.xls.zip [f4d320ae61a1aab74830aef59044b652a24575c9859872af4eafef8371cd1162]
+    ├── dmv-b.xls [7b5f8731cda9e3e67764c7dea2a4654771655d13b56b8f70142d6873974d31bf]
+    ├── wci0835m.xls [cf78c4e6fcd929bff0de65dc8ef70773cb8be1b570ee0d16f1f75bba69610209]
 ```

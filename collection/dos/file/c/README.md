@@ -1268,14 +1268,8 @@
 │   │   ├── 1798c57f.vom [0d896fadda831b969802b760f6904c68006c5dd7d3257d544e9a01c5cf9bb3fc]
 │   │   └── win.vom [e7930676c72fd20be9cfca42429383b333a5eac369af9ceedd034fc04d7a1242]
 │   ├── 561
-│   │   ├── anti_daf.vom [83c379b4fa6cc7997f0beecb914db5d337ad167cde445cda0ddd7a54cc07229e]
-│   │   ├── t1.vom [bf309b77eadd6c3841be118efaf70ecd6f608cee1054968dc3f964bed7652969]
-│   │   ├── t2.vom [f7b47ba679e19ab05831821dc02f8fccff8bddcb8e541a6ab8f15208e9d2a799]
-│   │   ├── t3.vom [dcb44a93ae5fff98fef6b275278ca8e425a1159989a3ea2b84ae8da3adf8a2e7]
-│   │   ├── t4.vom [8e162ca9e7894d74b98c87636f3a3ff58c2d7a6fcd757010fb225ccbc5228110]
-│   │   ├── t5.vom [b0558dc44e2491c94b2a806dbb3f4d8420511d7305005ed75f9603a8018a0054]
-│   │   ├── t6.vom [91439c1772b437113e5b8994e3b7f5d0d2ec18f803ed34ab15bcaa6175912fe9]
-│   │   └── t7.vom [bf1bde6c4fe48d6c44d74c9feea3a65d24378faafc9bbb9ca2f52edf11ca959d]
+│   │   ├── a
+│   │   └── b
 │   ├── 588
 │   │   └── civil_wa.vxe [0943ba067e7b2315b39447951d3230c692487de4801f21f36ed432063ad4a20c]
 │   ├── 592
@@ -2754,6 +2748,9 @@
 │       ├── a
 │       ├── b
 │       └── c
+├── cvme
+│   └── olga
+│       └── 1274
 ├── cybercide
 │   ├── 0846
 │   │   └── virus.dos.pony.846 [30e0605a5fa0ccbf548a62bcca9ad08dbf117ce43d0ddf7f10574ed8ca797b29]
@@ -2957,6 +2954,11 @@
 │   │   ├── t5.vom [88c6a5bc8905cc48aa1debc383e3f06244c0845d0515a7dcb452e0fd435f73a7]
 │   │   ├── t6.vom [7fd81f3dce6b7469856c96fc1d1ff6b5f890d5619dc21637cb16ee9bf90f0d33]
 │   │   └── t7.vom [d9bf535bdc631fec5092331950928d81549c9fafe8254a150496be8c7c90978c]
+│   ├── 1070
+│   │   ├── t1.vom [62da0ceeb8c3c33d86836b0264d6af13260d2177232b851924d5421f8bc7b168]
+│   │   ├── t3.vom [b9b73eea2d727c3d993cde587b1cadd0047c803f70f0f3406bd95751a09540ab]
+│   │   ├── t9.vom [17a8da302c35bd3059ac0cf39e2de13fbcc97997b82fe4a3b3cea4b09c444e45]
+│   │   └── virus.dos.cybertech.1080 [113eaad1deaf33fa8f0ad067c95e053d8fea951951d5b415f7e58741e8866850]
 │   ├── 1076
 │   │   ├── cybe1076.vom [696577bb24df4ac32e7eccd85fa1c14551478487cdcba1ffe2e3c68c77368a94]
 │   │   ├── cybert~2.vom [7045e76883e037c7e3a9e208ce0df2975f5e640d79b3bee372538881ff59d473]

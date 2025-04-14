@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.seniat.zip [148cbf38379448e6ac652fa3d6a92498760dcbac20be70651fb02b7a8688e988]
+    ├── virus.msword.seniat [d2896ac6f24bda8737a930c84321338c06ed2171eb9645203a4ec93d1e358b70]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.msword.nometz.a.zip [f8edc371d6fc09363e5a8be0480950020895dd344423a8190b8b41b2966212a3]
+    ├── virus.msword.nometz.a [734100bd71331f5614ff3b428408698102f790b68ec0cc1664d27ae4fb22bc3b]
 ```

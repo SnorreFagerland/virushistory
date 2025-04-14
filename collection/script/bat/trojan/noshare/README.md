@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── trojan.bat.noshare.a.zip [ce68b34134e61abd3f932e94a6edd6cdcc9e719dc0df6c69a210d9f2378cc944]
+│   ├── trojan.bat.noshare.a [1283921b9d8cd4b9c858747dc4609c81e6573ac87d14d75092e3f2075dc38bed]
 ├── s
-│   └── trojan.bat.noshare.s.zip [4794edc31463d5fd477784008e47fb9f777b04e09df73fd911f0505edfd21642]
+│   ├── trojan.bat.noshare.s [13cff033e9180f46e4c78b83fc51c064b2c028fd62c5178ddeaf92854627613d]
 └── t
-    └── trojan.bat.noshare.t.zip [6d612dafb159fd04b682724893c9caba5e74231b402f487e8a20affa0c5e998a]
+    ├── trojan.bat.noshare.t [6f1ec03464804b1e18331fbf0048822d96544291b942fae75e814c4427fdf781]
 ```

@@ -3,24 +3,24 @@
 
 ```
 ├── a
-│   └── virus.bat.butcher.a.zip [6264a5fc9d74024438eb3d8548f3ce0b03c1d4f6a8cc11b57a1073546a47a7f4]
+│   ├── virus.bat.butcher.a [1ac146426f75e49518630c75d4f15986bd225d6477ed841649f0dadbe134e20d]
 ├── b
-│   └── virus.bat.butcher.d.zip [8d38d8d3ec9ba5b99191573575afe531fafc4f91949a1524bb6b8752ce126986]
+│   ├── virus.bat.butcher.d [f754dcec327e9c156c20abb31feabf93c2bfec33e9cdc6c055861be45c6ccb08]
 ├── c
-│   └── virus.bat.butcher.b.zip [d91508efae37e4c1117a507f2933bb2267206c6503d28c59bab161c2900f30ae]
+│   ├── virus.bat.butcher.b [b15179b858a5e39f976e40c056d253d2ff4a35ad338106c9b8339f4c13542605]
 ├── d
-│   └── virus.bat.butcher.c.zip [0c3e460a3cd464070a3eb45689d079b07bf5b03afeadd4760f41d08201d99f99]
+│   ├── virus.bat.butcher.c [a2768b567e4a0a7979545e8b42f0adfe88fcdcf2a5548c55e3052e7812fd8e47]
 ├── e
-│   ├── virus.bat.butcher.1134.zip [653c1b57d981226180b3c193d2ec307e7435f74e2c336e07426620ae222bb79e]
-│   └── virus.bat.butcher.e.zip [96b0dd5eeaf0a70d6ce261c8fc77adbe7de172f6783fa2a930aafd26a861e3cc]
+│   ├── virus.bat.butcher.1134 [35898674e3a9f4a5122a36847afd65242491da7e7a0427e30bb62f3dce37c47a]
+│   ├── virus.bat.butcher.e [fc0bb05bec5110e53b6243cd700f4c9db7ca1c3c9ff8c59d19db8472f7ff5a70]
 ├── g
-│   └── virus.bat.butcher.f.zip [bf765e281afcbe3ffa2af3de8d9bc46c5ee1e98c4533d1344d3fe086b3b67bf3]
+│   ├── virus.bat.butcher.f [d93bd389f1f3e4206c787c795766fe372bae16f377b726511ed27fa083e32fcb]
 ├── h
-│   └── virus.bat.butcher.1851.zip [a019de5564b68053f0cea89ac139dc8eb93a68b3178cd66b37f226930b59d57f]
+│   ├── virus.bat.butcher.1851 [fd5b24ea4787c1a240d4d732998361836d0157d9a8d871cdd2f78d38eb15f47d]
 ├── i
-│   └── virus.bat.butcher.1175.zip [10a871625fca462c7e40e8d8801268f4e4e6f69f8c8894ea4c3bf0aa6a14ca8a]
+│   ├── virus.bat.butcher.1175 [82ea6103453b560cb80d259162d360377731cf0384cdc080df584f04f4f85490]
 ├── j
-│   └── virus.bat.butcher.j.zip [c6d7b5712fde9c0c37445dd4fe7a460f53abae3b82beb69606e063191ad7ef27]
+│   ├── virus.bat.butcher.j [b3f2e9de53e032a98a543b831c13bc405e3542d4abff6489bd8936a7dd759663]
 └── k
-    └── virus.bat.butcher.1018.zip [9b9d66459b352157e3a322f6386b31fae5a201abb8cc4118b7a6e10c9829d82d]
+    ├── virus.bat.butcher.1018 [6e8369abb00beafbdff9e2ea60d0e36c95d900efe347216a7d227f8741f24e3f]
 ```

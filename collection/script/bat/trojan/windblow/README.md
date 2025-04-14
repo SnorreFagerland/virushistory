@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── trojan.bat.windblow.a.zip [7cbb9dc29407210998217f247dc00090797bb3bd5f160204965ec712b9ac65d0]
+│   ├── trojan.bat.windblow.a [e0078dcb63218533424865d640f68cb3e8d5b52fd28bfd369e566231359ab7a4]
 └── b
-    └── trojan.bat.windblow.b.zip [80873f09c5a88a661c88686cc9f45a02b45b61c04eed9c1fb5e2ed100022d0d6]
+    ├── trojan.bat.windblow.b [903b4e8840e793b762f2d5aadfaeb957fc0e1ca068b258ad0036eb1ea971f57d]
 ```

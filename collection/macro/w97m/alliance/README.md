@@ -3,20 +3,20 @@
 
 ```
 ├── a
-│   └── alliance.do.zip [31ac26d5900aff7ef243994bd6f312764d698f530edff40b2c4b41bb68c00876]
+│   ├── alliance.do [d7d1406b09360473a88751fd44791b09b19f27611f430d1de3be79597bdef850]
 ├── b
-│   └── virus.msword.alliance.k.zip [8a83a60b569c4c2ba19765edca299e73182b95a068da1a06fe2f3b17afed43fd]
+│   ├── virus.msword.alliance.k [bdf0e8be90d336ac4564684d9d4407aae3fdf4b219c84e6dd58df09260802984]
 ├── c
-│   └── alliance.do.zip [fa4f233f126a464a7fe96b3d312e848c3ca435b6d736b2fad476f6d24975a0c6]
+│   ├── alliance.do [6af3039857d0a30c850c953a1e868ef61cd5e547aa399b728af1baff4bcc0569]
 ├── d
-│   └── virus.msword.alliance.c.zip [94e34f16cbe120c295a2518c538951d8aedf13783960594b54122a52de09a664]
+│   ├── virus.msword.alliance.c [3531d6acf6ccd14c3b1798ecc9903f88174b2fddb2db283a6abacd75f0c87439]
 ├── i
-│   └── alliance.do.zip [0983068f8fe3b618d8802d4c15a1f444966d8d52d9d938ca0a47823a53f8154e]
+│   ├── alliance.do [a4c2d565b63b74b42aa6f2e45b24dd1418d085e6c9a850131e5cf54e37257d06]
 ├── j
-│   └── virus.msword.alliance.b.zip [099877e9442fd9b73bb4d91143e9b5ae9d6bad40b2ab2f7e2356671c08e5e2e1]
+│   ├── virus.msword.alliance.b [9eede49d0eac3b8af6f0f17845577a75ec28c93e2b166845c0b1fd448b5b5132]
 ├── k
-│   ├── alliance-001.do.zip [1ceefb352a08393fd46ed31e1069322f2bf58a8319539d54b257aff9797d0091]
-│   └── alliance.do.zip [9924870e139e49fa566e63786b4e285d933e91d458c5fed6f9ae428503fb7e9d]
+│   ├── alliance-001.do [c935ceaaaa6780c6e6de17b0f708450f30cc669e5c11069139e5c1df5d2b07f5]
+│   ├── alliance.do [be3e25c828f3fffb905476efde64fbb4aa92eac361ae9b552387087dce564b0b]
 └── l
-    └── virus.msword.alliance.n.zip [af1eed66f9344b07c157dd0c8fafd9b0ba6ddf96f8d0f9baecbffad9ee89d6df]
+    ├── virus.msword.alliance.n [acaa941cca8cce677f7485940f21aad9235ed133f492aea67e1ce3b647f31330]
 ```

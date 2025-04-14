@@ -3,10 +3,10 @@
 
 ```
 ├── a
-│   └── easyman.doc.zip [7ba200ebdb1ada0e7e6d222d5e48a3d77c304ef5948c5f8b37faeb1ebd8e2793]
+│   ├── easyman.doc [6e5a8a3a1665d380ce84ce2dc8859bfbc8b50c00b2562aeaa78b15e7d43842b7]
 └── b
-    ├── easy-b.doc.zip [8bf84c578ec88bb1da4a3e8efdb45c9ef308433b46a5ce44291b9436fb657b79]
-    ├── easy-b.dot.zip [a0a5586fcc1a89c639d6ba01792659bbd6c195f26afece32883bf6d20f4002d6]
-    ├── easy-b_1.doc.zip [81c0900529f868ff526822ffd9dd6db116199c751867d275f54d57776de81893]
-    └── easy-b_5.dot.zip [0c7de035989f9fab505bc93261b27c0557f9a66f17ba308cbe7d6aeac84d35d2]
+    ├── easy-b.doc [c154c8bad9d1c77595fb7a3907ee954d93dffc01fc6764a41f0fa21cbd1f425c]
+    ├── easy-b.dot [116a862c8f218dee398b4f88df22a7462edb6bdd3f00839d29d8d40ccfccf964]
+    ├── easy-b_1.doc [a58d0b50ff2a5d69b878945156b26df5a1ea2993abf4dfa7d42fce442cc00020]
+    ├── easy-b_5.dot [b2f9bc16718afcd4302a062c5dd1b70ac001646692285cedf81b2389d2451364]
 ```

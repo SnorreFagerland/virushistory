@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msoffice.darkstar.zip [fd5555f20529ee7bf88b60c90186d154346c5fbc35733b9b0025e571fa7cc791]
+    ├── virus.msoffice.darkstar [f098464009a7c739173464a10e94fbd916d04a4a68917cb319d0165254437b90]
 ```

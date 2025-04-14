@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.rhappy.zip [3cdb53a32178363cc37a7786d1e6257cf7c3038b2d8cd2876037901eea624f70]
+    ├── virus.msword.rhappy [d005dfb94e83b9ab80077f19de011ad2d7d34e1e20eeb5e355afe0aa414d687d]
 ```

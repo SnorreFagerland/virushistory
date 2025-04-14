@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── stardus0.xm.zip [1ebd87118627eefcbfe3f87cb962274a20ad39b71c105361ffb6f0983d1e6578]
-    └── stardus1.do.zip [1d80b99da0068d76840ad39e8069488c44c193a095a8d3424ab4f6407a48b769]
+    ├── stardus0.xm [2c34a26b2631597effe7ec6a2e58abf814c7abefe124ebf8e47c79c8e00c8ac1]
+    ├── stardus1.do [f84354bb9e65c43107762512f6686acb56da39520acb43abf53416023ecc2c41]
 ```

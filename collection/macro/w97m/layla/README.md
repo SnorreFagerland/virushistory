@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.layla.zip [247d1d8c5c55b854319a8c36a548409efa89677840446815541f4accff829003]
+│   ├── virus.msword.layla [ff01bfc75c72846c9ab7eada1b4eb12a494895505b72b991891ce31d7094c3f8]
 ├── b
-│   └── virus.msword.layla.b.zip [a88a5e3f45c11d1c039bc36606b8f493dadf694270bec7502788bde420d949ea]
+│   ├── virus.msword.layla.b [b03a10b77bd2681937a4e425224602385d558e11a27540bd957e9c22ee06c5e9]
 └── c
-    └── virus.msword.layla.c.zip [bc69c1ababbe65c86e1c7e3138226ccf9c50b514c2f42fb9589852937af8370c]
+    ├── virus.msword.layla.c [4eae03e5912281ba490b3d8a31cd371bc4a41e548256c0331467525e554e614a]
 ```

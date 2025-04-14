@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.prism.zip [5daa0387dfa893f89d891167fae3dc35c6be135c226d748a9a9b6ee19be3c0ca]
+    ├── virus.msword.prism [2ec3f294041d00fdfd1a554bacb85e74842e78a0703fc1ee3b82912dadd6b596]
 ```

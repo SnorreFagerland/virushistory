@@ -2,6 +2,9 @@
 # Contents of `mururoa`
 
 ```
+├── 2070
+│   └── b
+│       └── virus.dos.mururoa.eldorado-based [2330c663b22bb6775692e7d640a66be8ad2ac50a8a65ccd7dd436451433f9cff]
 ├── 2464
 │   ├── mururoa.vom [ccf2404d96af27ed8f78fcc595aa3a27b047fd85453fe0740f940abf5ae100c5]
 │   ├── t1.vom [3887e7d854726cb15e1790b8c27320239eb070e6ff1617f5a4908f3f6bbc75dc]
@@ -13,6 +16,8 @@
 │   ├── t6.vxe [ce177e103be6e23860478550e97ff5069c42e0a891b42cbe9c15227c6feab52c]
 │   ├── t7.vom [64cf4222319c9190b7fe2b618a56991b0bf18caa08d89979fba10574de7f321e]
 │   └── t8.vom [740b8b1f7bb9206fa2aebeb26ea4cb54faf8382e25e8b106ac6929ae459c58c4]
+├── 2467
+│   └── virus.dos.mururoa.2467 [1af7979f47341075e6201f4eb35b774af0491fc0e320cbbd056a043892a199ee]
 ├── 2483
 │   ├── bleskvir.vom [2f3a2a45b200242315d78f71cb23d6ce6f5051da8f40430f9baec343fe3664c3]
 │   ├── t1.vom [3eff169e08d882fe424635299637586c706e769b8facee273528561a0c8945c3]
@@ -23,6 +28,8 @@
 │   ├── t6.vom [60abfad3f6240a21a1111d01b9f5f0303367628e3c743eb63803e3f6c34baf5e]
 │   ├── t7.vom [9d1adc655b008bd2d24befbc0a3c906b4c340491d763b436da1e40d6cbb09b5b]
 │   └── t8.vom [2cc3a4c52f27639a32776021fd9851b8d8be9bc0018926635de40efe3c62143e]
+├── 2510
+│   └── virus.dos.mururoa.2510 [8afdc5edea1cc86430faf9ec9bc9d3c85cd08071c245ba14407977601b6eea1e]
 ├── 2513
 │   ├── mur-2513.vom [8228be49c14c7fbdc0d4d6f73e111bf7d0e2b1c9d29cc7070525d92510c7defa]
 │   ├── mur-2513.vxe [b0496e442a0070837adb0e55baec7bae12c57845977c0995de987119e605d45b]
@@ -72,6 +79,8 @@
 │   │   └── mururoa_.vom [b34efb6c2772f83ec75bce6a7e701ac99451b79d798f2f1f4409b2d68778e6aa]
 │   └── o
 │       └── mururoa_.vom [ec280e2d03943079da2927f9e33037e5f835763e66364c56e1886e326bcfdc87]
+├── 3437
+│   └── virus.dos.mururoa.3437 [6766c801fd373b5cffdbbe3df7dc2a11045f57fe566ee967bb839bee99adfb2d]
 ├── 3443
 │   ├── mur_end!.vom [94e279c271a21bb90d7280829e3586696df0eaf891d5366133ee7b67e9a4e2f9]
 │   ├── t1.vom [8febd881c7bbf355d405a4342803c2d1c4b33702accc6b98cc890279bf5d0de5]

@@ -3,7 +3,7 @@
 
 ```
 ├── b
-│   └── virus.bat.promark.b.zip [e28e6181a6a410f61d0e70806e40f32bd3129170a3d6922c0d54d1e27f6a2170]
+│   ├── virus.bat.promark.b [5a030e17bc87bc75c3c5eced03361d1c090dd59c4520d0bb1c0cbbe5af986ace]
 └── d
-    └── virus.bat.promark.d.zip [c2d09ee26063db3633f990218b64f0026fa7ec04d1c88066b8dc94591af906e5]
+    ├── virus.bat.promark.d [4e62cf58f15e853b96c7ab692ca2ee54e8e147d06bca4ad6980684b26b06b19d]
 ```

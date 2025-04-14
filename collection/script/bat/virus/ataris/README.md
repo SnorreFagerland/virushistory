@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   └── virus.bat.ibbm.ataris.a.zip [025566d3de1ce35d7418f8c03871cfc4bcf5975ec6f097a0990a9a8e1f12f111]
+│   ├── virus.bat.ibbm.ataris.a [fad81b709e117d8de7300d2eeeea29ae88b222ca56c8d92f29bd1ebb33457c79]
 ├── b
-│   └── virus.bat.ibbm.ataris.b.zip [240a7466b997e47f440a2c66281e117f13bd6dc32b2e601c5cf32672e481c819]
+│   ├── virus.bat.ibbm.ataris.b [daf843a85ab1d098c5e0bfdbd78930c41ac0e17e3aec4c355db6cced596839bb]
 ├── c
-│   └── virus.bat.ibbm.ataris.c.zip [81461992915e0f6baf2b3ce0c92d27cf8536540f03769559ecc8441042f0672f]
+│   ├── virus.bat.ibbm.ataris.c [15a49c61fb53e48f2071a08ebfc393ccaad748308b5039e7b41c77880a7c19a9]
 ├── d
-│   └── virus.bat.ibbm.ataris.d.zip [7d75f18652e9c5bfc31dc387848916324a05d95611cc93aebb910fd5877a46cd]
+│   ├── virus.bat.ibbm.ataris.d [4807f139e79ca915e876664d70e9d1c3418d12e4e85467694de6f3c6c5225ace]
 ├── e
-│   └── virus.bat.ibbm.ataris.e.zip [56d646e77ad3713c0ff6ac9f3afd699ff16bcc2f0e3ff3d388d0b27ca02450f4]
+│   ├── virus.bat.ibbm.ataris.e [ff0065f4fc2631897de5cad7fc58804171ec5b285107cd65504e7a132d3b2a88]
 ├── f
-│   └── virus.bat.ibbm.ataris.f.zip [8a691767cbe385643123c320aaabe6cea4c7be02e4a710c44903fa83430322d4]
+│   ├── virus.bat.ibbm.ataris.f [7534729d838a361f57ed3d7ac4f0672226ac4d2f37c69d24fca4d3587928babc]
 └── g
-    └── virus.bat.ataris.963.zip [2a01316e59ba05978d2108eb4b6fb3f2d4c6e1edddcfdce244d15013d2f3cdb9]
+    ├── virus.bat.ataris.963 [a9e2abfd22034b907556753f70ef902c2e54d1a93ecf9247b2cf45313536ba43]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.earthworm.zip [2e5239a975b2f40f0ec2ddef5449251e621418fa39fa8cbee74c90bc2f026856]
+    ├── virus.msword.earthworm [2f20168d8a0bb77f2be9e3776b58e578d294e171e74e0547a533897bf17eb8ab]
 ```

@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   └── phard-a.doc.zip [9391ed7bffaee69b90f83b52fe47878719ca4236586ef26ed70009a6e9bfa563]
+│   ├── phard-a.doc [a019ddf66d028da2a5f04d8012349b835811f7fe599138d1e17d6712acdc9bf2]
 ├── b
-│   ├── phard-b.dot.zip [af4c8196ba03396fb64b4f37ec79c6d4663006a165b6909256b66b1b0d8dbf5c]
-│   └── phardera.doc.zip [0f02f5d7ef5bb5953af1a52755c39c0217989dbe3e279e282e1f244328fe667a]
+│   ├── phard-b.dot [f2abaf6476383b2c3a0dacf99b19bd7ced8060692838eb976152586cf6eef2e5]
+│   ├── phardera.doc [a41621adc5780d65255818383a6502c078e93ffb0e8a6a76d91b509669bc458b]
 ├── c
-│   └── nphardra.doc.zip [8049877cad64c54497428f616b79235a5cc5d3c84bb980b49a3dcd8c09a4fbc9]
+│   ├── nphardra.doc [4f9387689ea96a237181e89e31cdb14f076048a1b198e9b3d00ae5a434d9f21e]
 ├── d
-│   └── phard-d.doc.zip [53de0644ffe3bce716a4f64116597f90fd173f5520b4252d47e490d2dbddafcc]
+│   ├── phard-d.doc [fcb6c218f6dc62d13e837809a421e104329d5ee3e8b49147232ad9161a0d7506]
 └── e
-    └── pharde-e.dot.zip [379d598bbbfe4cb8a29c8d448b2d5224586433cae951f2365fe15fcc371d2762]
+    ├── pharde-e.dot [c4cba9a9eefd79d27c13bbcff054c36d9ee0e889ede63d34a1703b5400fb008f]
 ```

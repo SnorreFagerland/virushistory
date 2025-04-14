@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   └── neg_a.xm.zip [0db7af579e73bff2bc708346a7512dd0042699c450dbd2a5873fe83d6c3376d2]
+│   ├── neg_a.xm [d9bb3a00d28189c0c8df968a0186a87e7bfc11995ef909b85bb726cb2961be2c]
 ├── b
-│   └── virus.msexcel.neg.b.zip [abd9f58de6fd4bdb8490f13db76187f3856ad89ed0fc033a139c50dbf3dfaaf3]
+│   ├── virus.msexcel.neg.b [d73ee1566b072ccfe8d6956ddbccc03910e7333eaea1aa295d11757aadfbba1b]
 ├── c
-│   └── virus.msexcel.neg.c.zip [1289fe73f8c87da1319b35458dd0f8061c459a85e8339d457cc0805f4d977b36]
+│   ├── virus.msexcel.neg.c [01f81cf7c52b03253dc18f63adccbb4ed10e196145e583e92a3591332c2c26dd]
 ├── d
-│   └── virus.msexcel.police.a.zip [d8d4c5bf2b5ec351e8ca4d5f2683fb2eb545dc7e8e90f86fd4f9dccd352c536a]
+│   ├── virus.msexcel.police.a [d9a693b36a1197e9c5d3fc8cba5ec60e57e98235b3df9a557182008841c4206f]
 ├── e
-│   ├── neg_e-001.xm.zip [427f24e0c643590c828056f928733ebbd99fbb2d50ece33ec855a914beb435f0]
-│   └── neg_e.xm.zip [aa93fc288f0019c508b240b23e619d19a8ac0092d9de4d5a5fde7cd0d33c15d8]
+│   ├── neg_e-001.xm [d461716923c1634373f099fcc223a6e4b644f8b79758f74d42c030ecdb7c1aff]
+│   ├── neg_e.xm [6c8f5f2a65a87aa419d721ae562246683d3787839ac243fe39fe041944adca9e]
 ├── f
-│   └── virus.msexcel.team.zip [5d85e6b7ba74fd07b662bf61a1a16e6663afb50f99ab20ede62b71246b4e13a9]
+│   ├── virus.msexcel.team [5a10621b6ac01010fa4c872dc18c8af0d816a6678cfab56c10600313c34bb033]
 └── l
-    └── neg_l.xm.zip [685ef1bf9cd74cfc73b0f0de7ce73eb78067f1bcafe2f4d3abe15c527c1e5969]
+    ├── neg_l.xm [c2d66bc384710c7da7705b523bb0dc7b83852628d32d17272ef9c8483df1b026]
 ```

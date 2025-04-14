@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.systroj.zip [1245b5130be3f4b0e308b82636680889e6670e2a1189166b1263738a6b70937f]
+    ├── trojan.bat.systroj [10bf5c502c4745ed1c60e53f848d449f53d4edebc76de32aa358d3826d50fa16]
 ```

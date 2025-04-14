@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.locus.zip [3590451d957148677ef5035cd8e42390a332baf6164d17f4d518e46158820876]
+    ├── virus.msword.locus [2a8c6debf41d329227817bc8c1bdfefa73288bd5fdc2c2c4d697633a8ae6ae96]
 ```

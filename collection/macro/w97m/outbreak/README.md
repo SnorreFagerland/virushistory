@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.outbreak.a.zip [cea5c993e8eed2642f445b1888b9a98010d65c9f96d9f7bc8a6b8844d3bdec52]
+│   ├── virus.msword.outbreak.a [53218df5fd725ea0bc2b8907af18e8973b7ce48206935313b7130bdfc4a2875a]
 └── b
-    └── virus.msword.outbreak.b.zip [726f4a2ed14f4db135263eeda68581f1578c81f8bbe48b93c2976a6b375eea31]
+    ├── virus.msword.outbreak.b [31fac7bbea8ae66d720583df2c1fd6937c30da0694ab602dd1aa1552974ed22a]
 ```

@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   ├── razer-a.doc.zip [c88c3496126b989954163d85b1b0e9e77092ae9b67df5027c2cec4564b2c4c1b]
-│   └── razer-a.dot.zip [fccd051b134a80b4b92b2ce75b4cb3fb89bbb0a7485a3094ec15f4e34eb2fc7c]
+│   ├── razer-a.doc [785c8a373b5fc511a89c75234359fdd02c98863110470df2482dea64891559f9]
+│   ├── razer-a.dot [125003b5c3d672735a7f6e5e87111ea944590ebc3063e29a00efdbd0837c4058]
 └── b
-    └── virus.msword.razer.zip [1ac9ee31119f8a8762f9153dee07ec9de2c8314e9a3af1fe0cc51bfadc7e728d]
+    ├── virus.msword.razer [0894d0115c37f6b22ee5ecc071c51a1c488823474c2732381bfb4f8572d7fa1c]
 ```

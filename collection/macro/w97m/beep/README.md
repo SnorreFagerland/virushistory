@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.beep.zip [efbb5183840a79c111d03312e9623de6af877a5a5da044fb00c44223ec063965]
+    ├── virus.msword.beep [a878cebdfba89a57056ba6fe7edb4949d4ce1f5dce57755c57d4fab0c5601552]
 ```

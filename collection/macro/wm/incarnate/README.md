@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   ├── incarnat.doc.zip [0f622a357b19bf0035ce4dbf9d88dd498d2d50d0e71758e2965e52cc22832ca4]
-│   └── incarnat.dot.zip [fb6e1a779d9d85703eef0bd463039f03e07fce04cfba1e2d36d5d03d93b553dc]
+│   ├── incarnat.doc [479f682e012ff9e5e04fd29b558f68bb632a7e5aa558fd8aa62bd89081e9a6b1]
+│   ├── incarnat.dot [cce6c1cd1524fc2df9ad71cdf73b1a8c67550a748172d0148fd0f9d8b84f1a0f]
 └── b
-    └── virus.msword.incarnate.b.zip [4f2d228d646ed5cbd17fb864dff14daf0bf37196293f6a20543e18d3c96fe813]
+    ├── virus.msword.incarnate.b [451e514003345b87e4a00f2ba36d196258d0c07e65afc2bc1870b71bd7a6e220]
 ```

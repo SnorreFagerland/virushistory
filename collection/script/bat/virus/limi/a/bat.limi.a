@@ -1,0 +1,6 @@
+cTTy nUL
+tYPe %0>1
+EChO.>>1
+vER|tIMe>>1
+EchO.cLs>>1
+FOr %%! In (*.b*) Do cOPy 1 %%!

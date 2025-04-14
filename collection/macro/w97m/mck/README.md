@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   └── virus.msword.muck-based.zip [8b720cecd33823cedd9d9fa41a54cb8216b8af7811452310e6b8d5ecaea00551]
+│   ├── virus.msword.muck-based [e17c3a95c7e08ab631f9e420d053dd6a1603683329f2a5fb51a43e6356e512cd]
 ├── b
-│   └── mck_b.do.zip [b3a3016fd8771ba67efd69c9c37d9ed5b800b3e1cb16d5074d77cba7758cd1f8]
+│   ├── mck_b.do [047b48ea6f50e578bd19fb61ba791c8726b0fdeee817e9d746693b3f76616ec9]
 ├── e
-│   ├── mck_e-001.do.zip [49086f054e6caef539fad9a4351c2bcbbaa748f0dbc28f2d15f5369ff998dbf0]
-│   ├── mck_e-002.do.zip [f6f5eaceaba6f54e8c8af816008dc83bde75af229c1e163b50d5e5689400885c]
-│   └── mck_e.do.zip [4d922538d2538038784c5ee671dff59b23fe025f07efd944894c2563034380a6]
+│   ├── mck_e-001.do [ea8f05893f11ba45b180887beb745d32e6f014f34113abeb761f90ac4eca4205]
+│   ├── mck_e-002.do [aae8c261b15b9ff7e60c55159e60f3c1ecf173c72b6b1428feb9e10831eb0f94]
+│   ├── mck_e.do [38582be6214361e68b318b7006897bb855a49d824ef79285e165913ab8376e27]
 ├── f
-│   └── virus.msword.mck.f.zip [178192d6d9072d8dbbbd7b46cae9bcf5afe1ea81818afefd179c21ed73fb3571]
+│   ├── virus.msword.mck.f [e3e5f9e56e90a92ce6ea2a658373d1cb91b966aee356f4d7952817bc1e2de667]
 ├── h
-│   └── virus.msword.multo.zip [32e98cd6136a9240d91a1c5b0da01440a9a5808ac64cd62b353456257dd55c84]
+│   ├── virus.msword.multo [963fc56dc743c3dbebc84892266d3db5abadc4d948c42554835732ed95e6638c]
 └── i
-    └── virus.msword.mck.i.zip [01a6b20b938b9294d3e0331fa73ec6fef945c6771f1e439504d829e2c261b88b]
+    ├── virus.msword.mck.i [c20bf70ad942d6ff2e2ea195482275e8540d8e7b0e6922ce23cc3d724843b5aa]
 ```

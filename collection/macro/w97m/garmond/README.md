@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.garm.zip [5d54f04686df2b222589867c9ed94492d0e1f22ebb7a273673b9defb50892e56]
+    ├── virus.msword.garm [aabd8a78a3d8f7afa593c9a11d1a4d25e7503beb297e4d46fe9e901d7721a099]
 ```

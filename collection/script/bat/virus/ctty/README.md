@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.bat.ctty.b.zip [f2e84a65fdde6a799f2eb205b3421d940f23cd175fbb0d2f47990b9dd351fdbb]
+│   ├── virus.bat.ctty.b [6d6513dca71a4d61a037815cf3b0eba3b739df7713770394c159da2872d18e92]
 └── b
-    └── virus.bat.ctty.a.zip [7d6ac5a9a4d3351f8894557df30bf364b1615bf211ff0973b1f8ea17fe325e5e]
+    ├── virus.bat.ctty.a [2458548695fa65425fe03cb5501ebdfe7062b4b9e67dc9966287273259a16744]
 ```

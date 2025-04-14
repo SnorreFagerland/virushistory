@@ -3,5 +3,5 @@
 
 ```
 └── c
-    └── trojan.bat.renamer.c.zip [0c533aa0089217fb99eb1d43a8e9d54b114612b04dc11fa7c2199cd841b6acc6]
+    ├── trojan.bat.renamer.c [abd6b01ed1ee14d6a5e5a3e5ce63b12cc146162610a1a9e5a963fd49d2e3f922]
 ```

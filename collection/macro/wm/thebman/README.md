@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.thebman.zip [1513d8d634839da5299ab74afb0aaa2cd2f7f222025b63eb3dc29099a42810be]
+│   ├── virus.msword.thebman [bd2b3e3a9b0e64a851e4ef6e7c082dfcabbcb0076e68583469343963ae5d794b]
 └── b
-    └── virus.msword.thebman.b.zip [3a76c3ed0b42d852814dff615124892c3053d4b9956946379322985225b3445b]
+    ├── virus.msword.thebman.b [792d1819772e989a7a0a51d55aa88eadd79442fcfafa41d9178a879ad5fb3f31]
 ```

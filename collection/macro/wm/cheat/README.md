@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── cheat.doc.zip [e6fcb9b1dd0c641148ccda25f68abb2c86329b07b7691561b438de532415bac1]
+│   ├── cheat.doc [6d9554db260ab66cecff7788f4a0d2cb70d51ef2b6b95b2153b3c6a12c9bdf30]
 └── b
-    ├── cheata.doc.zip [ca39536ab42dd80ddabd78a6667760a2d889be1c5377c14dbc6399d53084151d]
-    ├── cheatb.doc.zip [efde82d33ab8244dc6ca7884455682b63220b06abbcb71907987eb5ea31bdcc4]
-    └── cheatb.dot.zip [0a00e42f7c1a8ec8b697e9a6edc791a53d4f2e6c18444dd53c8ad5fce6b29425]
+    ├── cheata.doc [7a8273982e9e284cf45b380b43a1e571465ea2b925ea4e543c546a791a8802a4]
+    ├── cheatb.doc [12295d50782cbc86709a26017b29732beffa9e7af6c50170210390dce5f4ecc1]
+    ├── cheatb.dot [5d67628098be69cb504ec2dece9a69dd603bea748c1ac850ac6f60598d1684e0]
 ```

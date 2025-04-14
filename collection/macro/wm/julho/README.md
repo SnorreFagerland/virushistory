@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.msword.wazzu.dx.zip [919e9066b4468ccc07862e2092e84cf90c77526face4b35dd4aba925bf4b0712]
+    ├── virus.msword.wazzu.dx [d6772f5fad2124251f6e232b6e1543327c2821ff9f8234650418b9f3df43e7d0]
 ```

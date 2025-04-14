@@ -2,11 +2,11 @@
 # Contents of `ba`
 
 ```
-├── aolsecrettricks.doc.zip [8cd2b54d6608aec1eb3c7571ebfe1a00d3071e789fa7aa3b066839049321cd9b]
-├── booklist.doc.zip [d9b5a083edf7afccc7390ff4c760e23516141c357c5137d98ffa169cf9441dc7]
-├── class__b-001.zip [ad1a652bb6a9c2024fbead03ca1ba55efbb2dea054465fba23f7bcd4d850f6cb]
-├── class__b.do.zip [859b7143c3ef37b7d21f60483d0a392222ec4fc80409770b9de804cc1ca8b578]
-├── hoax.doc.zip [29d18379db34e019b79acdd4f7793eab49d5ce9dbef4bed2107b4a4e90461191]
+├── aolsecrettricks.doc [a62e21a7b63199f99c06bdfbb1ca23622863a0f64d7004f7f2accc40229e17a7]
+├── booklist.doc [977268b9090ae465a8337c9c9a38dd674b9e37d9c1a56b55922ba965fc0005b7]
+├── class__b-001 [cdd4809fb56013b2a620b7c31fa05f7dc5f178460918fe27050318fedfaabd77]
+├── class__b.do [16da2c288320f56f19fabc070b9d49d39b6d581d855642fdba480a43284ed876]
+├── hoax.doc [2fa15d5c0017a6910c86bf3f65d40eeda00721de087a23fab04f11637a339299]
 └── src
     └── 19f60d16a2738a2c9cb67005c0c11344fcb3c984ca8b96318f726930b9dba7a0.src
 ```

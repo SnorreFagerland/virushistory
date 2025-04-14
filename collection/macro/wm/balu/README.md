@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── balua.doc.zip [520a54325e1126e74c1412566e4d58b9232add547194a0081c704d5b39f3334d]
+│   ├── balua.doc [06282bafe720a0806269eae9bf9405b6202d5a19481948eeb021bf0349d20212]
 └── a1
-    └── balua1.dot.zip [eefe4ee312137deaf0d915709e492df3ea6db78f5dce41d9a98d1fe89d72dbe2]
+    ├── balua1.dot [f2d20354750b206e9dedc05dec753668bcbfac45622984b52052d7638bf39e01]
 ```

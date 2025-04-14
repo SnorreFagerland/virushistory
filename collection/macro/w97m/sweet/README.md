@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.sweetkiller.zip [cddf32c9ae26c6fd39b0765e687e4ef2ebdf024f0eda4daaafa06828f6cdc3ce]
+│   ├── virus.msword.sweetkiller [51f514839bbaea1e28dd229bf982aa6f5a97cfdc09fc08d5093b96cc236fa193]
 └── b
-    └── sweetkiller.doc.zip [c8337eef188f740e814f8fd64a1b13822a57ea2e5603e318cc6a9d70a84e7c67]
+    ├── sweetkiller.doc [80b45c4a67c83f31f0ac9e6ea3c8489ba4e2955032c4755635f902bf2712e593]
 ```

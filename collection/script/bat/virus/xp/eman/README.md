@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.spth.name.zip [5f8f7601a7b44ecea811791436688fe318e41c0e5375a7af3e7cb1f226b6dc61]
+    ├── virus.bat.spth.name [2b68c49c2d904a0616663580f7a8d1e126d1119e836d1128ce7d6072abd5313f]
 ```

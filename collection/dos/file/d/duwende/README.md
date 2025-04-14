@@ -121,7 +121,7 @@
 │       └── virus.dos.duwende.584 [22365634bb51d4144cc9b4ba6b0b6bdb9904af43e856dfbb953f59903d6e51c6]
 ├── 595
 │   ├── a
-│   │   └── duwende.595.com [2ef6f8c8e85f3f63082aa65c7376aeb0c48f59ce384d2fe17fa7d69294f96435]
+│   │   └── duwende.595.vom [2ef6f8c8e85f3f63082aa65c7376aeb0c48f59ce384d2fe17fa7d69294f96435]
 │   └── c
 │       └── virus.dos.duwende.595.b [c9c1362560cd8dd621228bc901c2942787543b46a4ca88cc9e0e5a09271b2aab]
 ├── 724

@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.loud.a.zip [c27b45c9fadc2c17a53882ad2903875e89d90b2270a188c6c7243bb473eb168c]
+│   ├── virus.msword.loud.a [94fb0f9d625eb300d0d96ad6a31229480ca90517793fe82892eb9f0443c52929]
 └── b
-    └── virus.msword.humanit.zip [796ec6b3339255afcc9f08888aa92dbf71f43899283c4b3c76e732e31093f351]
+    ├── virus.msword.humanit [6b0627b65fc4b8fc5d34d05bc3ae6f9392744d973c07ee63b7aa7665c4683086]
 ```

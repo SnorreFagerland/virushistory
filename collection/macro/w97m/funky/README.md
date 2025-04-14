@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.funky.zip [f1249d480d091a994807874e2beeba3bf23ca8f7e6efcead169feb2223e52f1a]
+    ├── virus.msword.funky [b5aa7f6b4c24c923c4dacdb5905390a81349703cb527d3bf909349147d41a52b]
 ```

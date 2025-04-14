@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.skaarj.zip [a481a4f30bfbeff3b3c75a10c9e9407311abc1ec327e847c16587d57b89c9467]
+│   ├── virus.msword.skaarj [c1bd91363d8a9514a84b0f84c0d0f354144f1ee600fd009bd30ff9f646bbe1f0]
 ├── b
-│   └── virus.msword.skaarj.b.zip [6e393f766a3524d3a8b29cde6292bc0998c81e9c632dc713fe39b65a96bb8f8d]
+│   ├── virus.msword.skaarj.b [3dae84673cd3346cfb9f2fa5abd965f5a36e815376f530fe0395ada2eed98dee]
 └── c
-    └── virus.msword.skaarj.d.zip [9a8f12c9166acdbd6855156f1ced2861b52fa5a0f4dcc67c3ca44b5d6bf6c139]
+    ├── virus.msword.skaarj.d [b3cecc67daba5f5ac8c7d4c802e39587894d9ed722858a735e305b8efe516839]
 ```

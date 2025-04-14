@@ -3,44 +3,44 @@
 
 ```
 ├── a
-│   ├── mdam_d.doc.zip [bb6f67e38740e889f2d00da1d5bc4a4bafbea6fa4322dbe707bcce0aa1980965]
-│   ├── mdma-a.dot.zip [dabf544682dbe33c7147536c9016e7563634e5f9daf6bd21cb4aeed04b81b081]
-│   ├── mdmaa.dot.zip [8935ef6ea1e6ec27792353d89f759fe50a25ebd4c04bdd358d9d3b43e19901ee]
-│   └── mdmawazc.doc.zip [ec92e203de6910048e0436ab6812d1001c1cb1de9b6881930565af37180fde4a]
+│   ├── mdam_d.doc [b1ff9956a3a40823a4df541913ee5f38ab55e800a2fcfbc5ad3cb388fd782e0a]
+│   ├── mdma-a.dot [e91a2dd60798da1a912a20c9ffe9182dcc933ec2d7447cb6dd59c3268c2cae82]
+│   ├── mdmaa.dot [1212a086ab24e5c310f41c653aaf191f07ad72cad94c479e6887bef7a2e301f1]
+│   ├── mdmawazc.doc [b8e9a295519dd6ee26d085e98c2dc097433c3a759ded98e882d6ff4ec42df861]
 ├── aa
-│   ├── mdma-aa.doc.zip [577dd1c61b60f5f0e24bb0fa33418fb1362115d6343e161c0cd1fdf9df3098f4]
-│   └── mdma-aa.dot.zip [a54f4c3b0c0ac3c2a5c9096e0021531e36d3f6af574e5861a17850d047397bc3]
+│   ├── mdma-aa.doc [52cc2d1dd0fdaafdf2c35c9d74e00b7ed6821325513e26a4f756c4ec52e2ef4d]
+│   ├── mdma-aa.dot [96b7d7d858628876949b06b611df002abec3a874174ad4ae83ed9431249b738a]
 ├── ac
-│   ├── mdm-ab_1.doc.zip [b4a041f3c10e41f5a20b62dcd0b5acadd9da31095a3ed7628b52d485efe30963]
-│   └── mdm-ab_5.dot.zip [1f52246eb6389f5520c4cf1f2ff07ce821932777b81a0f60dfd945e7d3a4d346]
+│   ├── mdm-ab_1.doc [f3919c98c1db1f5f86f49ac80b098cff7dbdf4667079633fa55ad47d57ec2473]
+│   ├── mdm-ab_5.dot [c419591b149b072092703e2df9bab23cd108f928d6846c02ee721f8ab76f7a41]
 ├── ae
-│   ├── mdm-ae_1.doc.zip [84e52887c1ed063110d3adb788208cf1d093ca51651708eb7cf8feb491bfcf3a]
-│   ├── mdm-ae_5.dot.zip [c440b81d9dabaa6f9d05928d6fb2e10b03240b3d0bdb201993216c204ba9242c]
-│   ├── mdma-ae.doc.zip [24e306b659567ec3a4827b164fa55e344078b7ac8a543cce6ddceff2f2c7aac4]
-│   └── mdma-ae.dot.zip [ba14543ffec4d2ca98fdbc880925620f9e3c1eae02f00de6c217f39d936b1e7a]
+│   ├── mdm-ae_1.doc [590892ff457003b020e78e47c7c9be114c9a720b1e4d75b35713f638e1545c9d]
+│   ├── mdm-ae_5.dot [8b66a53800a3a4d0ff3c85ed782c861d9ad086d2f714b1475137446e2aec7470]
+│   ├── mdma-ae.doc [8da0d1f61893f9d0494d8c4b137d2ef03987ff0227dd58dace46821f274a0a61]
+│   ├── mdma-ae.dot [7a53c8966c216f9db07d6bdf778ebd54915a40f3c48b4323e9fe563485a30be0]
 ├── b
-│   ├── mdma-b_2.doc.zip [36695c433b1d45fa5011ed7a87c7387e6b88efe1287a5f666d484a411e4bbf46]
-│   └── mdma-b_4.dot.zip [df0d327a16e7d7a72c1cd399632f370525a22268f3575ea6d2ab698d70dcf061]
+│   ├── mdma-b_2.doc [faf760b534a21a72f7f2f07e8abae7c9df911d12fdf5edcd2a79b80657abc540]
+│   ├── mdma-b_4.dot [18255c4895ffda5f3a92c9e192d88f5f2718fde1209e0e59574b79816035b01d]
 ├── bb
-│   └── virus.msword.mdma.f.zip [307764b97f0ca7c430cfe6f88da5630b50f48de8be9192545738660588141ed9]
+│   ├── virus.msword.mdma.f [f8071be595826ccb198dacb4ac208a4b5f2548fa05e8d243502fc90cc798e42c]
 ├── c
-│   ├── mdma-c_2.doc.zip [239ebe72cfdc65062b6a96c97070f240109a033528825d247018c798f08c9f51]
-│   ├── mdma-c_4.dot.zip [aefbda69103f3eb4d740dc50b7db4499946f9c4ae7b676045c5b20cc7a9d0cb8]
-│   └── mdmac.doc.zip [231b07d57cad71eea57ef4338f7a16e22c1d76059fb3342e2ab28303a51e3ed2]
+│   ├── mdma-c_2.doc [d7f0bfcbe7f3509e1a6237b5e5489868a0c9d99f617170baa2dddc4bd3644c47]
+│   ├── mdma-c_4.dot [9c276efaeaf48f1526a2676a431973514515aac286920a5750ee2aeb058de676]
+│   ├── mdmac.doc [d7f0bfcbe7f3509e1a6237b5e5489868a0c9d99f617170baa2dddc4bd3644c47]
 ├── d
-│   ├── mdma-d_2.doc.zip [7e769f876d705d7d86b61d1cfdff586c481267515ec9c2341129bebf750d5bde]
-│   ├── mdma-d_4.dot.zip [8634f9343a0cf1f21adf08c5606d8a237137b45ba8573375ff8ff0e1381a463c]
-│   └── mdmad.doc.zip [da48c897fa0f7890ba9c53dac9054918efb556cf5cee99331bdf993d2eec560c]
+│   ├── mdma-d_2.doc [1ec3fc7f72f324c118d841a5a45f701a0e40814ff5f7f462c31d7ce70ebe378a]
+│   ├── mdma-d_4.dot [8a3d3346769590c9057a6a44d5255e73f35346f68aade1397670dcb12b8b149b]
+│   ├── mdmad.doc [1eff8f1207ad0ef8cd6369591811fe0b14aeb5e6afbcd132686940096ba92cbc]
 ├── e
-│   ├── mdma-e_2.doc.zip [812b5dbfcdb856ebdc82f035e9fe76e000939010b1f0424f604f9251343534e3]
-│   └── mdma-e_4.dot.zip [8d35dd494f066f153904f62367daccaf5b8fdb13d6483abc014ff36613b7c86d]
+│   ├── mdma-e_2.doc [8a37d94e212400067d8104d6fc5b1a6242936a3b0c0dbc7cc93c183c97dd82ab]
+│   ├── mdma-e_4.dot [19cada3207f4778aa4f6b5831fa364bf5f8b7417add67e33b80f59a525711f9e]
 ├── f
-│   ├── mdma-f_2.doc.zip [33523c3f993b04c852f94bdb4af08ad1ea7acbed444ffdb66803992a26d1ee9f]
-│   └── mdma-f_4.dot.zip [e7d7b0fe705ee29e851b3bf92fa05c7cf4f6e4701b78b26c159cc76d9a23fc8e]
+│   ├── mdma-f_2.doc [9e6b4e15d872768cfad0356e1209e41bcc1eafac2b7cf547d9b82b1b04473457]
+│   ├── mdma-f_4.dot [67e3b8cc6a3d756dd9d9fe133d7e6d293fbdcc63923f64bf80e1756eec6fb22d]
 ├── g
-│   ├── mdma-g_2.doc.zip [fdcf3b53b3bf945e2b67057082a3de3017983a4b1f792d59935d0405f9913aa9]
-│   └── mdma-g_4.dot.zip [f26efd86056f7fb330d15cc729583328dc2a0f7b480dfe6ce4d16922145671c2]
+│   ├── mdma-g_2.doc [69f0e3b321b5240e47fd7360b6f1dd7542e1a14265d365c16454382740d4c93c]
+│   ├── mdma-g_4.dot [a86d3ecdf3d3dbfe4a96c6b9a8e636d201e29ec844e4b194f80d8bba4fc0a980]
 └── u
-    ├── mdma-u.doc.zip [24b8f6d2142bb64bfb1d97ec142e423a101acadd270b00acc58116f4c66035d1]
-    └── mdma-u.dot.zip [ba64658fe87b757b795bef9a0bf1f454faf5c9f786f38564566e6a89d75dde75]
+    ├── mdma-u.doc [5d10f7e0dfe8463f906feac7ad688ace15bf385744d92c00e18eecaab0c2ec29]
+    ├── mdma-u.dot [ce665b44f074243320910a792004611028e750b45bc6c84aeb660467d447125a]
 ```

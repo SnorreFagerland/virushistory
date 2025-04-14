@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── pejuang.dot.zip [70cb92e6e0a0750cd9562298a336f4cbf31d31958c38c099f641c0b38a894c53]
+    ├── pejuang.dot [44801908e1acc50fdb7e549f55b8a607d492a799c55bf48d9b5c4c7ded782a7c]
 ```

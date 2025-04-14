@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   ├── aa2.doc.zip [fec8d8af30156da1173b420334fbd49d3dfd6864d3b1071b1a14ceacc11abffb]
-│   ├── varminta.doc.zip [655e7dea1745fde4c9b745d2c858300db48f1679153438ef291fb8455b19df9c]
-│   └── varminta.dot.zip [4805dc61a1b0ec601e385eb2b59f8af2f5e3504222598c51359120d4ea5320c7]
+│   ├── aa2.doc [5f5cb2c0613f79665fe9337c56bfb788909255542397a150b6d603429b8978ce]
+│   ├── varminta.doc [fc328007f4c57d291769b8e579f5364d48d6c4fe0b76edb22d238f7471d91f49]
+│   ├── varminta.dot [a71905887193c58e73827d3b329674f24a3a3a2f67f8b1b765a924fe0583cdd9]
 └── b
-    └── virus.msword.eraser.n.zip [6e6a50146cbb02ce9638c9b467594c7df2a3ff0511af65a79fac1dd3a649889b]
+    ├── virus.msword.eraser.n [13716eaf81627a69651883f164668427c8d846ad0533be7c58d8b0c8288b954e]
 ```

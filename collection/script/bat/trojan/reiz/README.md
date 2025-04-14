@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── trojan.bat.reizfaktor.zip [ce19f696e649d63aea41df0e0af87b6872e875671432be527188bffacdd86439]
+│   ├── trojan.bat.reizfaktor [a60d9697b1ab833f556855aaa4caa12d3bc893c379a2998291987adc1bccdb95]
 └── b
-    └── trojan.msword.asphyxiate.zip [f0cdbe5ad0558fa6ba63832a7274857f44b358eb14ec8312b1127de6d135f735]
+    ├── trojan.msword.asphyxiate [f86f4b757ffae1d1af1b5f89f1e629761c3183610f2212cef65a3bdb79d94673]
 ```

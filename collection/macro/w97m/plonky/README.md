@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.plonky.zip [3cfd154297ccef425a62a1577aabf0b42ef780e522b1f7937a8b9444b24c776c]
+    ├── virus.msword.plonky [e2c543b361190c4575767681ef6bc989c429f929a6f224e132111042509f1d5a]
 ```

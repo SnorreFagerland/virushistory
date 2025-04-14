@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   └── virus.msexcel.ellar.zip [1c9c9996e4a53e21523456dec871a0cb05ade0f023701cdc532d0fd6741b7dc3]
+│   ├── virus.msexcel.ellar [8ad49523b1615722054cd4e5994291b759230038bf26712ccaa6f35799292c98]
 ├── b
-│   └── virus.msexcel.ellar.b.zip [c3cdc63745259fd193d411d69de792b46008b9e09776265195df284adea6267c]
+│   ├── virus.msexcel.ellar.b [71fe150bf5fd033fc26ceb19e6f4b76679d2e80cef42ec16361f28dcbabb077f]
 ├── c
-│   └── virus.msexcel.roh.zip [da7a39abc6b4d6c532d41ca0442120b9089499647fbff2b39909bc2962587cb4]
+│   ├── virus.msexcel.roh [d326713fc9eaa764274b9f07ba38f83be61bf7ec873f5e8482179c27d88d72a7]
 └── d
-    └── ellar_d.xm.zip [3a74a94a23e833bd2ffa75bfbf2923d9b0eeb720a2a340876ac1d532d9ed266e]
+    ├── ellar_d.xm [8691bfc9fbf72ffe37082be6b619d7e187a8ad446ba5019848740256c6205796]
 ```

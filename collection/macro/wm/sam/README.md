@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   ├── sam-a.doc.zip [657d31602c6f0b9a6000114ad1d3c7dca581facc55442a39f61cfee3b2a03a69]
-│   ├── sam.doc.zip [670b9a75cd653ab93189b3a3babdf46ef5c5d92f59717091f7aa58b0552561c1]
-│   └── sama.doc.zip [7611def1ea5a4a8bbe4c511de85db416dd8dfba38a8227a7a9a14f71abfee950]
+│   ├── sam-a.doc [faa36a63fbdec2e62c37c15e727283da98a12a9163fd5fdc7c6b5b3670ee2a2b]
+│   ├── sam.doc [baaf683c36cf89c36bc6f9f99b64b85ca15fc3dfccffe2e10435e009d426fb40]
+│   ├── sama.doc [74e227c363fbc690412fe0aabd081226f0f517a2f6eeda9b5c5e01ffca7a598e]
 ├── a1
-│   ├── sam-a_2.doc.zip [093267ee53c0fcefccaaab2032f58b77f0d307acc8cddcaab3f1b167343aa33c]
-│   └── sam-a_5.dot.zip [47c413761fc80003ad2b33ce69075a336c021be440913672c98e42949ac0a45f]
+│   ├── sam-a_2.doc [fed610bb3b565a003062cb1aca1a0d64259b1f7fe0f4442eefd8a8b15c530d72]
+│   ├── sam-a_5.dot [6d023812d82418901ff4ec529d043ad9c0f085452237f11b24ce243ba85438c2]
 └── b
-    ├── monday.doc.zip [9dc30f0815a6d88463df1204ddae3d87a2c3a120f08796143972a8e697180180]
-    ├── monday.dot.zip [79e4d01cafa4963e358e3ecf8cb38ec2438131e1f98c8bb1867d4e1f10a3cc42]
-    └── sam-b.doc.zip [8efe544a726165843d1a8b881ceef26e93389dda7b436c46e99afe42d35c7067]
+    ├── monday.doc [151987fed2b7483e65d67528f32b413eb49e034600531bf14c3a225f8cd9d78d]
+    ├── monday.dot [d1e0a21215578106a5ef715ed0f5051ea18643d96f7ee0920990d7ee15b923eb]
+    ├── sam-b.doc [db247663d8b1902f12a1289a44e184570fbc72a29dd36f0613a9da400fb42ef4]
 ```

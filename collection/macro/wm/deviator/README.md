@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.deviator.zip [07881b5d58d7accda16ea1aad83ddbcbd566a7005da1a1dda47da9cceea00c80]
+    ├── virus.msword.deviator [0eb44dfad9ffe4a2da29fe01b9ee2cc519016fc70554ef5cf0d3423db992ebb3]
 ```

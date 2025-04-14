@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   ├── veneno.doc.zip [561020e56548f27e7761e16e7d52821407e49428f2c24c74daafd162ead8e0a7]
-│   └── veneno.dot.zip [acbc4e00d77999fc67be0c8943b671ef783ccfea5555b6cb23876466a552f785]
+│   ├── veneno.doc [15d26758b74d266d29b81f4ba92f486ad39b14f230041012e95114a55148d101]
+│   ├── veneno.dot [401c155be789da82c259b9564f213fb36fe4882f23ddbc55e9024235959b3a15]
 └── b
-    ├── vene-b_1.doc.zip [db13f0719939048892db90fa37eb0f904ded167901fcdb6d4affeb1483a9bf3e]
-    └── vene-b_5.dot.zip [fdab4f8a077a068263eeb762e88fac274583aae8d65dff21fd109dd84fdffafd]
+    ├── vene-b_1.doc [346fa7a841241780e8b6c4a46f8ac4d76041f873ea2c899190185dd75ac1a283]
+    ├── vene-b_5.dot [ae220d9c4a558144f880cf9ada7e8990f89e3bbaf8d1a977b71045d01bf6024b]
 ```

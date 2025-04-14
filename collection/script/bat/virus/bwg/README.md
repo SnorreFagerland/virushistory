@@ -3,22 +3,22 @@
 
 ```
 ├── c
-│   └── virus.bat.bwg.c.zip [d9b829ea95453b9859c8b8827ac0da6e2fc40a8c08b8eb8b088ff4b9730fef72]
+│   ├── virus.bat.bwg.c [1621338065d0bf16ed97a4b836857d7128f01d79c2212dca29457720f2412746]
 ├── f
-│   └── virus.bat.bwg.f.zip [6d96b6318ad77812a60cfd77b4d28a749970dd1f803c6e5955384c7fbd24a3cb]
+│   ├── virus.bat.bwg.f [af7ef123a565173d496c582cceef7ebd5b9dbd1505e070cd9182823b89242538]
 ├── g
-│   └── virus.bat.bwg.g.zip [118f0471f9b7deb8d1dafa2fb11a43319dd690151306bd95245f08eddb5fa983]
+│   ├── virus.bat.bwg.g [c55837927e399345fb13db6b1acdfa71faf01a6a6d9c6de5c1a8c3d3ba5334c7]
 ├── h
-│   └── bat.bwg.a.zip [51764e37eff604c1a8e9e3d285b89b7283258944394a5e3ce1ebb8402d4f5e17]
+│   ├── bat.bwg.a [c1195f94f196f44c557f92a8f43e7030f939ef30353b0f03d352aa964a733e29]
 ├── j
-│   ├── p2p-worm.bat.copybat.ai.txt.zip [3e9416d6b000315b5ba96f0903dbddd17981ef6152abe0c901ca27c9d9a4ccf8]
-│   └── p2p-worm.bat.copybat.ai.zip [0179a26e2691164f6768ace09d700d25652aeeea386a2a647c681f954375769d]
+│   ├── p2p-worm.bat.copybat.ai [1234e29d20fff6799695c236056fdd1d5e3b94dc8bff8e7ad4fe85f4da1e372f]
+│   ├── p2p-worm.bat.copybat.ai.txt [a673deb1af744376f4811f7388226b44c3c971093b5611b636c03a762bdeb02d]
 ├── k
-│   └── server.vat.zip [6717f440c84f2a82645ca7ca947b5d076ee3f1fd4b6c4d616af97dfe7e3140a0]
+│   ├── server.vat [3fb316313ee939c5ebea47463c3496eaa879735df8b2b20727489cc54adc419b]
 ├── l
-│   └── email-worm.bat.bwg.d.txt.zip [faad064ca4db363fbdcaf6ffa560cbeb1c8a9952055c2dec3ff33e8b75a79cde]
+│   ├── email-worm.bat.bwg.d.txt [2719b8aee1e3d8cb39c29d61cc61db6269411216613ab1a1bb0ab2e8896b98ad]
 ├── q
-│   └── constructor.bat.bwg.zip [e0371c135febb08c94c08dc455b35916321d4f115b910e60c0368ff4561450b6]
+│   ├── constructor.bat.bwg [a8b4deabbc7fea593d3216a732443bf60fbcdb155f577a4daa8a105bfd1172d3]
 └── r
-    └── email-worm.bat.bwg.c.txt.zip [dfa22e64aa6fc239650f16a9b4d46deed4109290352b0ec9f47a9cad407a1319]
+    ├── email-worm.bat.bwg.c.txt [c8012e45c0bd137a85cf8a23373c3164334eeffae7342ed8bf6aec24ee87ad4d]
 ```

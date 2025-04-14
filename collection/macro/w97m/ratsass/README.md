@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── rats.doc.zip [d36d6c06fafd48871262746b2c7e8014b31bfc2a12f3996622a3d0dcd756beb0]
-    └── rsm.doc.zip [0e4072a4bc9996680ecbd1af7d712152ddb8bbe821ffb7279427e3af0f34c0ce]
+    ├── rats.doc [69c5f20ebf1336bcf1cc9c26c833767b9edc20d81279a4b4cce59e5251ed6651]
+    ├── rsm.doc [927f44c687bdcbadc65d3830ffc268f9885fc03febe503da80b3d722c282308a]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.melissa.bj.zip [492b4e97ac72b1514efe57d634a7717cd6a95cc5ddcf2d6a9ec0272c1ee4334f]
+    ├── virus.msword.melissa.bj [1605ab814198484153c9740f5d02b6baef01cdd31f24edafa979d33ae542a8dd]
 ```

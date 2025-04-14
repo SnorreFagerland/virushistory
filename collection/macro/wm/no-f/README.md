@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   ├── no-f-a_2.doc.zip [6ac344f57735dfccd689ec506b0f004192a71df060f24edb3dc0f0e06ca4da90]
-│   └── no-f-a_4.dot.zip [185605d3a895a5ea0f6f1306c31109cab580fb90d5c078ff477ca1e0b41f0d8c]
+│   ├── no-f-a_2.doc [3a23e1ad7102b20c303dbd3caa7260d9fff4d54ca3bf0eb3f656264a23b009dd]
+│   ├── no-f-a_4.dot [c67a69a2722de65529de69b04c05c79cb17c01a11c93c2b55bf1ce7561ff727d]
 └── b
-    └── virus.msword.misspeller.zip [90ded0e2f28cba78bb757ca1bcde2101bd6407d3c85f509449093f8c856a4d24]
+    ├── virus.msword.misspeller [c45fb5b7b4d549a630c7bb2ac0acfd9a676399a182135a75ac0dd4702234a1ca]
 ```

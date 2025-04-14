@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── metallic.doc.zip [f443d02f4bcd06bc3a574041b09546a0bdfb2ed96d70c508650b2a52d121c4e4]
+    ├── metallic.doc [858dfba0001970de386152dbb04a454c52b3a38f78824d6af47c9b60163e208f]
 ```

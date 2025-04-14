@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.golni.zip [bfb122166c4c2a746240919e3c545eb9474ee377ba7b77d05a80097f68ce2810]
+    ├── virus.msword.golni [b7ac39dda21d3e1e8d5ef067cc82ede1cc9546d1c60ecc9400e91ef65a401410]
 ```

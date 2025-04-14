@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   ├── rats_a-001.do.zip [c8afaa0002f9d77fbe1d45bf75cc75852c024c2cdf4dbeed2f225a3ceb75314d]
-│   └── rats_a.do.zip [d04f14b54f32a93dd8d72269072d4f3768cf4c23765d05a92f383d0607d92296]
+│   ├── rats_a-001.do [55e8fd5340d757a68c20f51782f56e0ef9acc82ffa2e48d14f7730990535c999]
+│   ├── rats_a.do [23bb2c8b9d8605dd81a9ae428abb3b63cccdab3e29dc04540852df59c974b384]
 ├── b
-│   ├── rats_b-001.do.zip [ac1a6151ef0900161a585081bffaf8913e13f0b71727414054cf8c96ca753ad0]
-│   └── rats_b.do.zip [842be26c93088e6877303608e9d6231a281914150cba4819453874bd9a4c2404]
+│   ├── rats_b-001.do [bf610bc4254ba60828ca458ba34f4f3e1a5e4a8bc624140c65a87319e792956f]
+│   ├── rats_b.do [07f4b978495202ed0427b42b4777f917bed3b97a4655ee4c795ddcfd0c696b81]
 ├── c
-│   └── virus.msword.apparition.b.zip [6a098093bd4de82dc7d5dab4ac4b1dd2172844d2d8ffba2e32847ff0cc44a6e3]
+│   ├── virus.msword.apparition.b [b809e4615c4619a05a26a057e682bad9f28c7e825d2987c861627fc66bff33b1]
 └── e
-    └── virus.msword.rats.zip [4037117a0a2a6c895530385a2c006d38aa9c16da6e4f52a7956a007fbfec687e]
+    ├── virus.msword.rats [d0020519889d3e1a4411091b13decb41fcb5796c2327b1bb54fd755020169209]
 ```

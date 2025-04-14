@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.sprite.zip [6f5b81c27237f2878a98e42ee7b8fe84b462ddb4331fa92e8e396bdf2b5cfa67]
+    ├── virus.msword.sprite [7ca8185062ce998b5221e9af90198de886aa0b7e4b549b8fb83a9cce30cffc55]
 ```

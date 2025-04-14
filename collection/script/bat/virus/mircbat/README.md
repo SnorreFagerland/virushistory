@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.bat.orgy.523.zip [1084942e4c00993a1ebbbefec9413e170b9276b6886ca1515c1a390217ddc31a]
+    ├── virus.bat.orgy.523 [b7a20c344eb7e718bb5c4767d04779c1ce397b09dc287706e1e0bf2230a3c518]
 ```

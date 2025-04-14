@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.obsolete.334.zip [792a168f6b65ccda12e67a225c920373d74d01bb8d714e589d5ef12e7d387216]
+    ├── virus.bat.obsolete.334 [3ee8e3195e8ddb9d01cdcca19e8fd982a2cc1d665003e82e11b4fd2b8557a32a]
 ```

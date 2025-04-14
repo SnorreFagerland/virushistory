@@ -3,68 +3,68 @@
 
 ```
 ├── a
-│   ├── autobiog.dot.zip [6a1ba25888af3bcf6e66539e42061ac22057c28fa06a95052076731c8240a010]
-│   └── taiwan1.doc.zip [d23285a4553c7511581f782d0ebf87152a1a70626a35ef7c595a7bd6ca49ed9f]
+│   ├── autobiog.dot [a12f1096ac8a7ac3329331ecbd8613052cfa21e9c1da7c52e5c8794d1251bfc6]
+│   ├── taiwan1.doc [e853f4fd08e84397cc0c9289bdf3addc3e6d4e1fc222418e37ccb6e9b161ceff]
 ├── aa
-│   ├── twn-aa_1.doc.zip [e0b899ffa15d5f5656e98e785ad27cf503b5010e992390d2b9a101bcfa6731d0]
-│   ├── twn-aa_5.dot.zip [ad6f104ffb11120732bf0ac3545c2588d6545361e77dc872364b0a543bee6eb9]
-│   ├── twno-aa.doc.zip [4a980d09711af2cb3ac0706eacf7b2f05a6f4af61730dbfbd84a6f943f2775ef]
-│   └── twno-aa.dot.zip [4e0c85696bbec3d515114ab1cab303edb2ec3b350da6db7cd5bccbb09e9b7236]
+│   ├── twn-aa_1.doc [d5a30df2e8c0985ca35eaf9aa1502c4a90dec76ea71f9a3f40cf3845efece49c]
+│   ├── twn-aa_5.dot [21e29524f6e70338fc50d6e42f453c3e7cee982c8309d20b22fc3ae5108e8792]
+│   ├── twno-aa.doc [112bc5a5e482013adbc04b4bcfcb5ffd71323f53b5fa27c510710003f91bb463]
+│   ├── twno-aa.dot [d74dd61d1bd8514843af7971730c5f0334742140b6d5e15210888ba29bfa2f2a]
 ├── ab
-│   ├── twn-ab_1.doc.zip [b5fe84175092defba1561bcea4d7133128f109c568c9ddb4511e0f3524dad2d8]
-│   ├── twn-ab_5.dot.zip [e56b6ad63447c69a078757a5a00d7e879125a10e1d346e63633c344d41541491]
-│   ├── twno-ab.doc.zip [5764083884ba5fa6517d30aab403442aa526727319ac450ded4676e317c7266d]
-│   └── twno-ab.dot.zip [e83498cac12b5045d731cfe5a4df609aaabbb86915875a8233474c19be6a4177]
+│   ├── twn-ab_1.doc [a4e62cbfdda97936b4999ba34ccc18e10ace6b37b07f7dfbadd6d7e973695643]
+│   ├── twn-ab_5.dot [18dd706607a0c25d92ce940220fca8aad98575fb2b4c63bd2bacda5034aae88a]
+│   ├── twno-ab.doc [bb7874e206956d1308b6db00e9dadf1c4fa8cf343510f02a917045bc272a49cc]
+│   ├── twno-ab.dot [7c5523c22f702627f207e518809e93c57f30adb98b6bee48b105dde3e446ab11]
 ├── ac
-│   └── virus.msword.twno.ac.zip [3460a8205e3b903c1c6f92841f49b736ca7b31adf87404d6ad05235092d88fc7]
+│   ├── virus.msword.twno.ac [b3c8d4947d9ab67324c75d4809b32cb361547e6d49ec7880d29e282f9fbf67bb]
 ├── ad
-│   ├── twn-ad_1.doc.zip [43d5249eab8bf1e92e5789f4d197f450961a0f50c8ec99f3b07b880e06431780]
-│   ├── twn-ad_5.dot.zip [aab1e6f3e3a6ecf957d38537ed1768eee8802c089bfe516d79401a791e3c9039]
-│   ├── twno-a1.doc.zip [2f3baee421fc3d4d63400a850d911baa57c583d5b110011fc9c616745cdfa26a]
-│   └── twno-a1.dot.zip [2f646f63a8c0ffb2898557363acec8713377f563423eb745c2957a68a50a5e56]
+│   ├── twn-ad_1.doc [1181db0e597f875355d40cfb8c5f22545f9bbdd614f2a02b5cbdfcc753fb0267]
+│   ├── twn-ad_5.dot [bc981196ff3b21102671fc714548680a9b3a06ed86ad2f6fbf2fdc5a2f624453]
+│   ├── twno-a1.doc [e76cb804ba74aa1ec16516a76d35b80f0b5cd45de89459f635fccacb1c22be11]
+│   ├── twno-a1.dot [31cf49b71a396da5e71e447987f46d439ddddf6a9f6ffd86251e62068f7adec3]
 ├── ae
-│   ├── twno-ae.doc.zip [dd11e408266aa0a843fe8da42019e5c97a46aa80d83ad93e4a2f4aff9d89e073]
-│   └── twno-ae.dot.zip [8a62fb81b7c399a772364a4b7b111941d4ae289e4f3fe6b029b338eae7147543]
+│   ├── twno-ae.doc [6aaacff8a679d33abb6562815822b6f1221ec1d9a956358114d1b77153620d8e]
+│   ├── twno-ae.dot [14dbc3473fd29a94829aae690d8d5b9f13ac09bb8ece3b07274e1d3316d527b7]
 ├── ag
-│   └── virus.msword.twno.i.zip [327e9fa3be4312476f085e49a355df8dbbf5b0f125d7aaadaa0680c105a974ae]
+│   ├── virus.msword.twno.i [a315865eeabc7e487b29acfa701ead4abbd767380dfe2638d24f51f457f72346]
 ├── ah
-│   └── virus.msword.twno.af.zip [68835a19c657fa49a2b46167eabafbe087a753890f7e12aa7dd7fc7f80338c2d]
+│   ├── virus.msword.twno.af [f9418340e00911ab67d05017a93b97b0ff785d16887e9f31eef9265c4a8c83d6]
 ├── am
-│   └── virus.msword.twno.am.zip [343d6d7b14510d6314770b01ff7537052292165d4c1594b74ddac857d69e4c39]
+│   ├── virus.msword.twno.am [3d098f935e196c5ccc94d1dda164b51334ecf3db67c38a503b97654bc4c35768]
 ├── aq
-│   └── virus.msword.twno.aq.zip [2da15238865e8afdf4fb906f8022e19ef296cda79b0bd4b690117aab9e5de093]
+│   ├── virus.msword.twno.aq [c202257df4c0234cb6aeec92beeec6a40e683c29ecbc291051bc7e87c42e838a]
 ├── b
-│   ├── twno-b.doc.zip [4367266beaaccd70943c09387496e9fd33110e422521cc7b6ba2b2bb9a79082d]
-│   └── twnob.doc.zip [b713302354f0178bc51ef17dcc7eedfa4b6f2c2f276922d5d88d55affc8b6591]
+│   ├── twno-b.doc [a036efe8630e4a0c2a3d8d15010b194f9b64e47860b6fb8bfb3f21b773bda0e5]
+│   ├── twnob.doc [29773724f7d85d549e7a0c5ba2f576c26f6b399ddcfe1ea2868b3337bec0c19a]
 ├── c
-│   └── twno-c.doc.zip [6f426cd00cf7b24b680e63146588c0aaa1456d3c873ca850559177d2115fa32c]
+│   ├── twno-c.doc [4a82da8dab375ae460570b322c6c6ff443bc34bee566c118416afb77bdbf3b73]
 ├── d
-│   └── twno-d.doc.zip [2a57ec750abc3f0f832f5740222376a74c56aaacdcf82c2072373a737167deb6]
+│   ├── twno-d.doc [52fb764db35c295efba3eb81caaf4f99a1d66f231828ef465e554fbf560ca627]
 ├── e
-│   └── twno-e.doc.zip [63099632fbbdc3e08c79d41512b148c60d15e6e686c26d62cc782e51a6d6f92f]
+│   ├── twno-e.doc [cdd085e6fe703296501b2b0548e460c0746261f59ef33643f8ca532e0e8557b9]
 ├── f
-│   └── play.doc.zip [f5f0b1021827a445a68c9616548617fec062b183ff01a36481f37b8f4d2a64c2]
+│   ├── play.doc [d47faba5955ff89bb6e588bbc0189a28fd930f5ada2fad2edb8beff649faf85d]
 ├── g
-│   ├── slot.doc.zip [11b1bf188556b56c57147a68b75d2f8188d52b203e8cb4de1b4c2e2e79940142]
-│   ├── twno-g.doc.zip [fa474cca389095921b325c0f289f078d8d75665ede43a197f11c30c3a63cceff]
-│   └── twno-g.dot.zip [ed28b329b932d6a6e0774d2562296e9e7ec0161cee5a2983aa5132710c411217]
+│   ├── slot.doc [e7b055a2ed036527873ae5a0ff0df67550ac398178360d342177a2c72e97fd2e]
+│   ├── twno-g.doc [005841da2c7cb21d5b32184a81d2e2376944c7f7584b216fce68cf0bdc1eab85]
+│   ├── twno-g.dot [811561dd9f1dfce765aff2d9a5e1234791402a595ad4776618a8c4af6d24f421]
 ├── h
-│   ├── doc1.doc.zip [12668ec65988c7f4dc82b5bda8d77ffa2dbd5cd94c69e06350d4e5b302cccb8f]
-│   ├── twno-h.doc.zip [9bf6c26cacad7dbf3e060096395cdc448b199d208c167590d7457dd7fb3032b6]
-│   └── twno-h.dot.zip [d48a93000e46436dbad565a7adc135ec0df986432dc34dd73cc45612d09172d5]
+│   ├── doc1.doc [2aabb4e95eb38ab7372ea6ea9b77a3dfeedc698c164feac7d120b4b6e5a95b44]
+│   ├── twno-h.doc [13fadb1960dae3511b60f41995e85ad4c0c096a65d97c25508862397f057db25]
+│   ├── twno-h.dot [452f3ceb2e2e1b61ae0d53a4c7798ec7e55e3bcbfe25cddbd03c5360fb208b79]
 ├── i
-│   ├── twno-i_2.doc.zip [bed1695a66ac18c94f18ebf8b596deff3fe617091b7701ed165942afd4528260]
-│   └── twno-i_4.dot.zip [67a1b7157d154916c021d9a5c005cf9060840108d285ccedee8316e4deacd542]
+│   ├── twno-i_2.doc [59fa13298ed45535731be192c247c99140652b1f63c7e9671077d76ea097e061]
+│   ├── twno-i_4.dot [c97a1434802bb4dc97d84530ecb45e85a08ba341807c7e51414b75a027b59220]
 ├── j
-│   ├── msg.doc.zip [8faf02f535cb2421fe32db5d4e5383a02a13266cfed37c953e6721310f29f899]
-│   ├── twno-j.doc.zip [87d1ce0be181c3eb7c107f3856f53647ad05b621bec989344a9242dc53cb40dd]
-│   └── twno-j.dot.zip [57a1292d42bd427a2cbf5b43aee1771c52958019b82e9b4400baa52023bd4930]
+│   ├── msg.doc [6a0fa94bd0afdb53bcbb95195682d4e876064c699ae7b207a9cb8e0df3b6c043]
+│   ├── twno-j.doc [3edee5c5ff91163255ca6a97516ff2722e43adf852b6fcc7e417cf3694d31940]
+│   ├── twno-j.dot [45f77bf3c452007891120d8a78de503d6d0b9dff8159d3e9871867d52145870a]
 ├── l
-│   └── virus.msword.twno.k.zip [b441f034af446b2669292e3fbc6f7e0f158c311911966f8a60fc1445eb869b91]
+│   ├── virus.msword.twno.k [df14ecbff5c27f47526d24d2e5c942ad42f151ede94bf96454fb04724095cd2b]
 ├── y
-│   ├── twno-y.doc.zip [453330d558d055a052270d378a34c01a821bab7114791bc35ddea2b72fc66108]
-│   └── twno-y.dot.zip [89337a6a800c774b95e17aca12d81f95b28480bc19ffb13987e59469f6da500c]
+│   ├── twno-y.doc [85ef65b19a7c123bb16bfefdd2cfd71114caee94a85c6c805602a2c380115cec]
+│   ├── twno-y.dot [99fcdf4e29a25aca36fc8836043cc13b5425449849cbc6f2f77adf7d227debe6]
 └── z
-    ├── twno-z.doc.zip [229e9cfec817c5ce6ef814a336d6ea34400ce514dfdf78e8a1093eec04e6abfc]
-    └── twno-z.dot.zip [dbad781f0a97b2d9e4460826890e9581464f06ccaeaff938d1ff818db4c610bf]
+    ├── twno-z.doc [8301f8aa8d33ad853c29ba1db79ae0a0d74ccefaa4286626e8e35810a96d251b]
+    ├── twno-z.dot [7a7a8fa73d3d9a229493a1009037b4135cbf200be8cc48b15a6d640d05b94502]
 ```

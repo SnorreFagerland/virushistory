@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── aduh1.vat.zip [a0af26665d10c7a6fb43e950c670d876d3e82ac5548e7314c15c15a111be195a]
+│   ├── aduh1.vat [aaf7d0669f286cf0f18b82801192457dba89a74bdb9d96149db748df15fc5b4c]
 └── b
-    └── aduh2.vat.zip [ff46dc8d9c6e6e6bbd7da4319453c70041b89eca6ef6c804ecde32a58773807b]
+    ├── aduh2.vat [8c311bf6ed51a9f4c54d25aa63aceb2e67d310da1cc5b2aa2258586ccc0bda66]
 ```

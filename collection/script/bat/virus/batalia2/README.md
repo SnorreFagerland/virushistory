@@ -3,8 +3,8 @@
 
 ```
 └── b
-    ├── virus.bat.batalia2.b.txt.zip [8f30d0f116a4039814fc48ff8c4fe9c05b26017e3b4e291674f68e6cd115337d]
-    ├── virus.bat.batalia2.b.zip [798e119c019cf5535296c9a224ebf70847a1604a58f571932fff49d49e008354]
-    ├── virus.bat.batalia2.zip [ce071a51f3d2d6ac32c469b91dc7e8aff44476229a579ab3f3b9e5191ac7fe3a]
-    └── virus.bat.batalia2e.txt.zip [d2e40ccbc9a3cd871f62ec9a3cd9baa57d67cb87e2912e9dd46dfb6295fd4238]
+    ├── virus.bat.batalia2 [ce19580e27a9fdcc06408b77626f13352cae8f95ecc6f56df48a40a423524eb3]
+    ├── virus.bat.batalia2.b [a2556e0ae7152ac4ccccc5c1ba139d03f03b5a8e64ebe696f00dfe6411b1785c]
+    ├── virus.bat.batalia2.b.txt [9d41534fba4a329fe6b4624571f11ce60bd7ce39c3adf29d492858815cdf692c]
+    ├── virus.bat.batalia2e.txt [f1d0ed94bb172f15ecc70dd6b70033f44a8843b2545c8412cd856b5f66187cc0]
 ```

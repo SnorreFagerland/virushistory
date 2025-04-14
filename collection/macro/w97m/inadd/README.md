@@ -3,19 +3,19 @@
 
 ```
 ├── a
-│   └── virus.msword.inadd.zip [163b9e33daf4cac721c624843f1dfd053b45c294692018a59b02c96cf5505f87]
+│   ├── virus.msword.inadd [397807c34b890482fc7b5b909d7ec0e48d25bccb32fc1b8f0a3b9839f24f4c72]
 ├── b
-│   └── virus.msword.hijacker.zip [7c83955fae6263c8f664f55ce3f04bbdb4a25ef00db4ad95b11c0c04ed6dcde3]
+│   ├── virus.msword.hijacker [afee0d5950c7c0b2f364461835f83e3870691b819c6aef1518225ab5f9298b97]
 ├── c
-│   ├── inadd_c-001.do.zip [6f67fa42097bc5db733a014628db65befade2699331050a2fa4c874683bd5471]
-│   └── inadd_c.do.zip [cb98589442e097fef4671cf82dc4e547f90682d3cd10e74b07fab257cbc6fb5f]
+│   ├── inadd_c-001.do [95b5627c96ee672a3c90ea8c08aa80a495186a77f67a767f216497c9a2edc2e0]
+│   ├── inadd_c.do [141e4dd3b448ccd348220f47c950dd4df181af00239067dcee200fb108a16e7e]
 ├── d
-│   ├── inadd_d-001.do.zip [397534dc031835bd2b654a89672c2aeb35c0313adadfbe7daa71daa169e56b66]
-│   ├── inadd_d-002.do.zip [f390038bcd293f1292a3c125f13ed926e2e78080471539458d74b10ada0606e4]
-│   └── inadd_d.do.zip [aafdbb2bf96b02b1ef0f49be4bcdc52546ef5d3f81e1d79e257ceb0ef0fd645a]
+│   ├── inadd_d-001.do [8c1c66f505cc5cb921354bca8df9d697791b8c3ed8808c18a2e0062c9182a115]
+│   ├── inadd_d-002.do [d912b143dc5c5d95cc19147c3b7a2542ab6790951905001fa0e3ca689aa000be]
+│   ├── inadd_d.do [253ed087d057a76381c5e671c8000299d8b8ae1ce516830573e9036c5380da4b]
 ├── e
-│   ├── inadd_e-001.do.zip [00368132878527e3ada53ac2fe17626756d2e1337131a5113d5a9469f323b807]
-│   └── inadd_e.do.zip [c34dfe0ed26dc4002fdd760d27ce0e1b6ad8a4102c1a8c0c060e591c68679eef]
+│   ├── inadd_e-001.do [60da2b36252bdcb878ce2da2a567f701078b397b1f47d781c20b5542e15423c7]
+│   ├── inadd_e.do [08265393e4262bfd0145d43cb0a517962de3fea97ccafd71912ad8553d6b6445]
 └── f
-    └── virus.msword.lesstime.zip [105852daab4b3fe17a6edca005479d6371de2eba5b64bdc867661fb6bb9c5454]
+    ├── virus.msword.lesstime [41b778484d7be63c6938f5cb25c9e095b5f0bcaefc45342cd5664d9395b6b993]
 ```

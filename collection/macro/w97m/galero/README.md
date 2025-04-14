@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   └── virus.msword.galero.zip [f7720bf84bf0993a018766e2a2cd3d7179d2ee4591fc4af6d156d8074ff752a2]
+│   ├── virus.msword.galero [82a7caef03179b3b7ca6da737aac90dbbd1d89248167d10a857576fa3d0d1cee]
 ├── b
-│   └── galero_b.do.zip [8ffa253f5a32d0b58c02def9c16689ea44bf48a1c3dcdd1dffcc2fdc90370fba]
+│   ├── galero_b.do [95b4744a5ae9c9922e17e4477450111f303c4d31d0f469e92fbb369d60b7505e]
 ├── c
-│   └── virus.msword.talon.s.zip [1f7fb6ed50d08ae23eb277d1929551b6ca469f0f58f807ead8ffeb15559b8d5e]
+│   ├── virus.msword.talon.s [61e733fca0df2da812cb2a9b0963d58e2c62ee072d2f4dc591829cf1b28f3c52]
 └── d
-    └── virus.msword.galero.b.zip [d723d3986a403c20fa57308218a59ad87d440e513395f3a02e0e7922b54d830e]
+    ├── virus.msword.galero.b [5f1fe3381808f1cc5cda192d1a573f9a0b51678bb0cdfe48ddec477e832ec559]
 ```

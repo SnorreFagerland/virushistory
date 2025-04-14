@@ -3,8 +3,8 @@
 
 ```
 └── a
-    ├── fire-a_2.doc.zip [1c2c1f3f7f10e3342ca1ec97b035219f5a744011af26f29c2cad3938dbff4889]
-    ├── fire-a_4.dot.zip [a57faec01353efae0abb4b233b955ed47b1bf9281565abd5d60f332b29f1ad05]
-    ├── wmfirea.doc.zip [e464d2962b6a654251964cdc0a602a8b6eace4cc4f9d16ca719a7a64b15e43f9]
-    └── wmfirea.dot.zip [d978f50a7aa4d62d27ce4edb635b2bccf61dfd0598b053ac75a52e929881b1ce]
+    ├── fire-a_2.doc [336150d28d9fa86a4ff109240428905121fa9dfbfe3e4df37ed2504241927142]
+    ├── fire-a_4.dot [587afbca1724a51af43598ab2dfc7ab59d5373a7bea31f38e7730be3898312b1]
+    ├── wmfirea.doc [76095a61248242c852bc59f0654b585faa2eee0048abd394c7ee0f5c9a835dd2]
+    ├── wmfirea.dot [38863bf1dd98f47d368d8b8ec2ad54332ac5d1de6828643f5f0599bb2d4113a1]
 ```

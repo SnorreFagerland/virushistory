@@ -4,12 +4,12 @@
 ```
 ├── 5838
 │   └── a
-│       ├── Virus.DOS.Anarchy.5838.zip [a0f7a465042c1d41fea309c8bce4c3e232f132d5243092cc836dbb0fb07e9d3c]
-│       ├── anarchy_-001.do.zip [b47f413beaa6584a084cbcf2fec332f0ff2b64936392b571e6c0808285aa23e0]
-│       └── anarchy_.do.zip [c573050dd132199070cfdb29816b5cf131423403a345a0fe9948b2d010145854]
+│       ├── Virus.DOS.Anarchy.5838 [28f5a8628c5a0467400b91f4e27598b1c5bce739875b9c29c823036f51245101]
+│       ├── anarchy_-001.do [918e87d91e411b20f78fe25c82abafe5f4b869f9de8653f774e3305e2a501f2e]
+│       ├── anarchy_.do [3d56c073775855b1e9e0706e8ed7b814e451af136bf6ce5435a75f511b8066f5]
 └── 6093
     └── a
-        ├── Virus.DOS.Anarchy.6093.zip [8629db6211c63b1854cbfca1679aa9c8775de1bce5dbc9fb790e5436417be8c8]
-        ├── anarchy_-001.do.zip [bcde6041e76039735f26f431689aa57a276e87869110d905d296c458c9ddc5fc]
-        └── anarchy_.do.zip [6c3b4264d7106ab93a7de2289a7539b0fa13d64238fd90f9e3b576c6caadf837]
+        ├── Virus.DOS.Anarchy.6093 [32c164fa40b885c4f6a59ab5ce1d850e478312e3b7be69a149e2bec97bc76d03]
+        ├── anarchy_-001.do [60d36cc0f29a2daaadc7279b9adb791c1962a884529b73f8346827978855061c]
+        ├── anarchy_.do [3d9dcacc4541f3c83141132eabbcc62433db043665bff9fd7903117ee7edfe14]
 ```

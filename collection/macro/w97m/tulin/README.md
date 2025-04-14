@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.tulin.zip [7448436ed02480b4fc9a78cef820d24d37caeb572377ae4167fbf4d67ca21470]
+    ├── virus.msword.tulin [0b9485f330e258fba3fb49042d39a62044f4d42ce1c4beb7ecd24a83aad8fd87]
 ```

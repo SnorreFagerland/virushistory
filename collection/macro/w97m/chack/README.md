@@ -3,175 +3,175 @@
 
 ```
 ├── aa
-│   ├── chack_aa-001.do.zip [d83a09baa974d7a292918aae41931f88c301969fd2ddc51161d7b2aa62e19dcf]
-│   ├── chack_aa-002.do.zip [eaef3f07f4e1d8d16ad3e124cfec4970fbaaeed23dd208f892600702e273c000]
-│   └── chack_aa.do.zip [0db80ca2ad032be1b5bcad800d06bee9b564ce603bd8b91eb83face52290be26]
+│   ├── chack_aa-001.do [e535be21b35533043aa53cd70a6845d9884101a96ecc273def04087f153d6d41]
+│   ├── chack_aa-002.do [a82a700455ead339398916e5786fa131fc15699891be677df14b6fbd21b83948]
+│   ├── chack_aa.do [2e5f6562754254363a01faf55efcfadaa27862fb713b22e0f465870421645c87]
 ├── ab
-│   └── virus.msword.cyberhack.ab.zip [a89dace89a48962bf076588f26a487dfcff393a2859bf0fbab5972ff68521a57]
+│   ├── virus.msword.cyberhack.ab [acdad14cdb663921d178b7bfe1e4c858073fc0dad247e35bb4818011129c7ef3]
 ├── ad
-│   ├── chack_ad-001.do.zip [b06bc9ab14721a6bf66f966e12d6258a00a242107e53f13713f2d39c5c00fd01]
-│   └── chack_ad.do.zip [ca6bcd98db6686bbba3254b7ca861eada424d284839cd79b2cfad347f06f2a0b]
+│   ├── chack_ad-001.do [ffbe5ae3fa9e6a45facb2742a8c10bb6c597b72b912735cbd58f2cb70aad39b5]
+│   ├── chack_ad.do [d1108b8e0395adc1932fcf81ae572d4b3097c36fe60ef5e0972f8b10a1433e96]
 ├── ae
-│   └── chack_ae.do.zip [167968221301c5f7bf2debfbe85bd5198e9f0fe0e0932612b0d9017a6302a011]
+│   ├── chack_ae.do [28eb1865d6b3b3b0d0de37d5d86149bbb4ca888db3ea5790b1ccab143319c9ae]
 ├── af
-│   ├── chack_af-001.do.zip [78ce83ae026e23390ac579cd4fea3697309ea73a51ab59cbcb749c4ed33a9266]
-│   └── chack_af.do.zip [304a3f5b9c327025ab5a51675425a90f5466269591e172a5f9de31b9d479ffc8]
+│   ├── chack_af-001.do [f0c0392efbaf2d3acdc260dcc5c3a7bde50f5a7213ad596ef7d3529d0a27cdd8]
+│   ├── chack_af.do [9c951688e7356bc10531798fc9ebb02cc312e144916fc87c2a416c5ce9304c8b]
 ├── ag
-│   └── virus.msword.cyberhack.ag.zip [f404afb2e979898418a7110050e3039cd04f438201ff883cc9ef17a9777b0e3e]
+│   ├── virus.msword.cyberhack.ag [6ee8d97bdb10eee25a15c97a5050a44dc116c9c33a2a891da59f748bc3955709]
 ├── ah
-│   └── chack_ah.do.zip [3697433028e1c890c0ee50d280289a810e717e9078d4fd6d40d080a939261610]
+│   ├── chack_ah.do [b1c0491116894776862392044c61bda2d5a74ea12afdb82f9aa1fb26108dc64c]
 ├── ai
-│   └── virus.msword.cyberhack.ai.zip [3e0f1a4eaac29550212178ea75a2382624677c97f7f565aa9cdeb17506a007d9]
+│   ├── virus.msword.cyberhack.ai [128e82780ac632925bf8d4f6c04bd0d7a0c2956cf324b4f8c169b11770c60888]
 ├── aj
-│   ├── chack_aj-001.do.zip [7903bcf42260ba66c363cb384119dd1462e8c4d13a011ba986bfda5a5a011c33]
-│   ├── chack_aj-002.do.zip [2d533544f51465b8ce26ccbf914bc52e7a892033a2bcdaa91735c46cd2ab076a]
-│   └── chack_aj.do.zip [98e8de8fdb1345a1073f0923ff751103355086be29bac2cbcf3008c65bcecf5c]
+│   ├── chack_aj-001.do [6c4670a02b648cfb6c211fae0c7ee96627b2140e5ab9a7600843e9f85a239971]
+│   ├── chack_aj-002.do [9ef7f9397ed0b4c2cc6b3efaab31b04fbe8524b1df839c83e316e9bb56046d9d]
+│   ├── chack_aj.do [453eb2a5dfc63fd6d0183301c1f7baccaff590e88f5dc77e3fbd2304c0f39e9a]
 ├── ak
-│   ├── chack_ak-001.do.zip [6d820142cc849cbda7cfa4da76704d3407940ae586e0339ea09c9466d34d7d8f]
-│   └── chack_ak.do.zip [3e77c908240064f387d8abed8737394d7cac474317b412217fc5cb75ba314a3e]
+│   ├── chack_ak-001.do [fe37f9fb0be87d1d19cb14aa8e71c93b28f2b7a29854c3fc960323b4a2cf5a80]
+│   ├── chack_ak.do [b60eede2eefe336c9f2395a968c723343420c53c537319f7503bb4686630c7f7]
 ├── al
-│   └── virus.msword.cyberhack.al.zip [041d98469d29a2541293114a362966a5d2389fd938cb15e100dff02f077b01b8]
+│   ├── virus.msword.cyberhack.al [690d3c18e9741f4b18b5e97947b7b6a37fbd9a29a5fec25c145d0a3914a54415]
 ├── am
-│   ├── chack_am-001.do.zip [44537d3d051d0cdcc039db93281024311263becd2ccae0bf5d1c984b08dd5f41]
-│   └── chack_am.do.zip [0a05ec7cdf9abf10faa85b777caa4eaaaf400f810558ec4982f1c8e80dd4e6f2]
+│   ├── chack_am-001.do [c9f5cccbe828df60ae80ad2ce3c82ec2057611a93f06b778b4d56ccd40ee754c]
+│   ├── chack_am.do [bced9c1bb64d0833a7bbe9d464886272533f8bcfbdde3e1a8ad2d9cf71d98da3]
 ├── an
-│   ├── chack_an-001.do.zip [60ea2b14e2efa38ea71ff608152d1ed2a200a592025601d8ceed6d174980e0f7]
-│   └── chack_an.do.zip [4600b3d096fe4fb44a2e2e46365fa9d6ea819a0afbc1be3e613ccf85b79eafc4]
+│   ├── chack_an-001.do [493912b61dd588ed013f5ac27782cc24acbc17a88ce520e9bf085e79b8edc663]
+│   ├── chack_an.do [15a3a7829de57ce657491180551b2d4125ffc766ff904cbd976ec644da23c0e4]
 ├── ao
-│   └── virus.msword.cyberhack.ao.zip [25633b767515cc81481a351efb8fc9600b9ef4b3b63f1aef401d0c9cd2bc8093]
+│   ├── virus.msword.cyberhack.ao [2a9b6ec994db438e3483e2d24174fcdbd3fff775f48fc13b2b95ab1235a05e7d]
 ├── ap
-│   └── chack_ap.do.zip [4a2c902b282a6cd7f018be42a171d126c040774e0a43e8df6a1b6539f15cd2c5]
+│   ├── chack_ap.do [834bf514109da88f15950836c331938f433f00c7724289e2535dd47458a63cf2]
 ├── aq
-│   ├── chack_aq-001.do.zip [1d2148f87f46eb95593defdbeb2639c3bf5dcf1438c07de4051da9ff15023fed]
-│   └── chack_aq.do.zip [1ef726fe188c484cabbdc05d72d6d7fdac76572f1d7944fe1b833824cd39aa07]
+│   ├── chack_aq-001.do [ff592e3658f4b7235cbe2054528be8e68943c8b1ad7ff423e498ea4082240d80]
+│   ├── chack_aq.do [17c5f3f1b7bba042993988341f055004dfb43e40795c818e56edd3b08c770dc4]
 ├── ar
-│   └── virus.msword.cyberhack.ar.zip [4f9534ceaf4c724e7d34e71caa0ddcecc0a97120491cb0ce1db3bb026493fc92]
+│   ├── virus.msword.cyberhack.ar [e97a8213bebab3e8d6fe06c23ab09fc705312de09431f8fc73354c9b642bbaf7]
 ├── as
-│   └── virus.msword.cyberhack.ap.zip [a6a55e6e84607ddf68dbc14dade21d734a2d0eb6535d8d76dc5ae12a05f3692f]
+│   ├── virus.msword.cyberhack.ap [c2d7d20322bd367644204e7a2f396150b9200fff08324f5de1bd0dd59b79e563]
 ├── at
-│   ├── chack_at-001.do.zip [dbadd8af5e398398bb18d21942ca5419de76be242ae14d8042cd728f6b9eef75]
-│   ├── chack_at-002.do.zip [e09b5daebee97e0b1f31ade62771f81a7263209996c0d5235e1f1255f3a1ebf3]
-│   └── chack_at.do.zip [effa3e5e507b22e61395f5e6f5937cee1d47462218bbc00ed00802bc3c52cf67]
+│   ├── chack_at-001.do [909b33abc84f8b3ee87331e984aabd4e812f8d9350473f1a2e94df24dc146f70]
+│   ├── chack_at-002.do [e69ca182d18787fcc6d99e21c38d6ec303a858608a1fb223ab0e720e344dd96e]
+│   ├── chack_at.do [7cd4d8e5c516e8e683581650d0fbaefebde560b19ab8ca2ba6fb84c5e2dd74f0]
 ├── au
-│   ├── chack_au-001.do.zip [a03493a40851166f231226e50b18ba71c587479d5f968003d886f738b8b3b108]
-│   └── chack_au.do.zip [8e0f041eb0b00ba4e324407f56a4f3acf7d5f4c8cf7910a4c3bfbfd3e304365a]
+│   ├── chack_au-001.do [bda3eede677ba29ab31f307ef0df7a35bf2cd8d51c38caa9d372f1bf1719d60b]
+│   ├── chack_au.do [24e325d7dd4daa74df539024f27eb1d9af8220cb39641d31540df6302878e4c3]
 ├── aw
-│   └── chack_aw.do.zip [7becfa4d3219e0977d01896ce84e3e65707d26cdedc248ee664710cdeb27ef9e]
+│   ├── chack_aw.do [d7eb3c95832d0314a31e7304da94147a0cc1f279d20d34a25173e157f0ff6dd3]
 ├── ax
-│   └── virus.msword.cyberhack.as.zip [e0000b0684945a6814ce31c8ed01cbf2088629f9e8a0ba39b5c3272a6da9a5a7]
+│   ├── virus.msword.cyberhack.as [b7cabac39e0b0a99629f4b32486bdea864254e98b88e2077b58e512115214ce4]
 ├── ay
-│   └── chack_ay.do.zip [222e53e6a6a734f6ae4ea56fc8f5acf593ffcf89b9980e42472ad17e390b2f29]
+│   ├── chack_ay.do [9ad4341f19d32da75a2897d07b7244fb0eedea751a417f4f6644273608edcd51]
 ├── az
-│   ├── chack_az-001.do.zip [03c06c97af552546996c41a03ee40f9189839fc97b5ea446becae5c85c7304a5]
-│   └── chack_az.do.zip [3dc88fc07cfc9d5bb6d7395e613e4c82022a2fcc0463d29ada5a9ed39f6a4cda]
+│   ├── chack_az-001.do [6dcc578ca44820ecf827ecf82bac9fac1e32dab2a7dd7ab94eb17a5e14b2a45e]
+│   ├── chack_az.do [3d9c86f3e9477493c44694e0dc94e05f7353fce0c6d0d37ad3ec5d3fb4bad11e]
 ├── bb
-│   └── chack_bb.do.zip [5ccf36f52d5a71273b20ca461ee2b54c35d67a2b51c6dcb754fae31622ea4ccc]
+│   ├── chack_bb.do [9b009b14f45e2176878a4e0b3ca5574ef9d22bd9a4dd80c8e05e7bef74ddd247]
 ├── bc
-│   ├── chack_bc-001.do.zip [495c2cf0650c30fe6623de3be6330038c5e906d232d428effaf9faa1f153c21f]
-│   └── chack_bc.do.zip [5977c1ba902706d2322cf3d883880f92a4c0a745238a746f232de5893b2b2c06]
+│   ├── chack_bc-001.do [ab9b2a65104c7fb229cd44052c65f3b41555ee03beab36b656d004d7a86773b8]
+│   ├── chack_bc.do [85050449fda3011bb3c1794958098523834268a23a14ab31c0e1145159fb9dad]
 ├── bd
-│   └── chack_bd.do.zip [6af8e4f6804ad33b5fd1a1d3590780901424e66bd7652d719ff517ba4d4264a0]
+│   ├── chack_bd.do [f736b80b3219ec366058f7d97d7b4dcb2a6e2207b1859700873fc0448f3800fe]
 ├── be
-│   └── chack_be.do.zip [5ed4768551e95d49ab1fd95dc3b9c5bd0176898baed8edba9d18ffab7bfaa33f]
+│   ├── chack_be.do [a9f3ce43020a93a6e7f9601d110e7af48fd90d4a23e59da0ad8871be6329d0b4]
 ├── bf
-│   ├── chack_bf-001.do.zip [186ee5cbcd63716fe595dc5a5a97bf95146b51e98e8502ac7ce5950e37b48002]
-│   ├── chack_bf-002.do.zip [19b4914c040372196d736f85680a0f19dcff165ecd6e077a5817213f49ce4bcd]
-│   └── chack_bf.do.zip [791dd2e87e11cabb54f911d8fc3407db2886b2cff7a614029a23bd819264afea]
+│   ├── chack_bf-001.do [f1ba4f20eeb98b4a9839fff549f91e368c3fa58977c17d7274c6b773356a277b]
+│   ├── chack_bf-002.do [c8881e78f175f39cf26c36ac5a5580e7a28c4744b752a89285f9a42687c5313a]
+│   ├── chack_bf.do [3029e8ac5bbd235d427495d63198a890db6e1ec51a44a724132987e0cf15e788]
 ├── bh
-│   └── virus.msword.lagi.zip [aa8e2abdd2859174f87dfe87520e7490553a78fefcc80d898be3b5720ebb6a55]
+│   ├── virus.msword.lagi [966a5ce88bb6125ad6a67ce6b52de3f6b1939d14573703a331b76fd11997850e]
 ├── bl
-│   └── chack_bl.do.zip [74df8cccf57078755ac40489a3cb9ece6b58a6262e39a2d3c6982be6849edc91]
+│   ├── chack_bl.do [a8393125a607647415772d601dc89104f804c9c032d3c3312dbc30f165a57e6e]
 ├── bm
-│   └── chack_bm.do.zip [8723411ab8efbf795fc83e91459bf794a69bf27e837fbd360b9616e7ee746b6a]
+│   ├── chack_bm.do [8a0bd5bf9705c3e3dd7f4c95b3a7ca403e6372f52cf7b62f6613594a0bce11dc]
 ├── bp
-│   └── chack_bp.do.zip [8bf81ee06edf7f75974db1c2b962c537f6e2d440c4a1e5cf78065903455958b4]
+│   ├── chack_bp.do [50352d8365727b723e8aec2b66afb6c0ac7a359c785d930806122fd0fa59fb8d]
 ├── bq
-│   ├── chack_bq-001.do.zip [768de8ec5931b355b7a4e5a0406a1e4be41cd110dbbb0a757e5bc5bbddd619cc]
-│   └── chack_bq.do.zip [ee8983563ff6bf63b1fb1c471bf6ccb26b98be4757fbf8c036d674a5ccab67d2]
+│   ├── chack_bq-001.do [eb9291ad90b92b82b856558f912e71e65cfe2352e776bf841637bbefd984234a]
+│   ├── chack_bq.do [a606b156c16dc6906b34841526a95714e8d17d8504de67c9c0cbfd176c39b324]
 ├── bs
-│   └── chack_bs.do.zip [bfcbeb0115fe0f33d4041b6b685306d670adb8c759ab7ee1b760006919b10d40]
+│   ├── chack_bs.do [5f5e67ea4e29412fa030316d814a808be3fe7f6b60fc333ec2fe3b3dcd567a6f]
 ├── bt
-│   ├── chack_bt-001.do.zip [b2b2358b7f41c040a33cc1e1f9482ccc260302e32f65b6da4d72027f69cc1897]
-│   ├── chack_bt-002.do.zip [ee8859e2bb63a77d0bd1b001bc205e6c6f35d418aa567dc6fbe45313320b2549]
-│   └── chack_bt.do.zip [84ac7e8f15ab39271b50de83598541ca929258c829381cfc8d46c4d8ac6ec381]
+│   ├── chack_bt-001.do [81274dcbd380d44f33a855a5b3df26ef3f6982f1e123401e67574b3b01200963]
+│   ├── chack_bt-002.do [a11c1c3fff6a9ca4ddec9fed604afc47294c063e3d43aebff15ba0c010fefb98]
+│   ├── chack_bt.do [54622c8fd996beec377f45e31b7f1fead2b2f01d1a9437faa49fb18686537e92]
 ├── bv
-│   └── chack_bv.do.zip [c404cbcd0d8e7b7af0ff1cc021eaacab5f3b16cb2aac1e2aabc71fc05c4f66dc]
+│   ├── chack_bv.do [7572e5b21f90fcf3408339d7c67dd1c604ceeca1bd8d04da2e3298a7ac364f24]
 ├── bw
-│   └── virus.msword.cyberhack.bw.zip [58179e5b865f32cb3106f9322b908e658269c63b40c3e6788f51a8d5536b0eee]
+│   ├── virus.msword.cyberhack.bw [8d56f5932ba0784cddb570ca8d7892414d0737099bec7fa595ec79eca316f504]
 ├── bx
-│   ├── chack_bx-001.do.zip [be556646d15383ff2c97886f942a746d36dcb352cf29055f9e3ab7420fa1f91d]
-│   ├── chack_bx-002.do.zip [7248cd1f39e53420adfc9293255a5cac4698bade764e8d1ddff5b837fdcfdbae]
-│   └── chack_bx.do.zip [e58258a9f9a977bedc422f8f248dcf72c01cf01554381cd8668eb0e7145c9ed5]
+│   ├── chack_bx-001.do [9386a7f62173d7b9af7dd177d22dfa820bc33ccdf23e0af560283911442d6742]
+│   ├── chack_bx-002.do [972a6b044237e7fb87ac7deec1087a739a98197a6ef8adf517eada0f9fc3cb4d]
+│   ├── chack_bx.do [32485bdb8fae65ea6e1b3a6b609f46487493eee90d32d54107e53f34cb562f6b]
 ├── by
-│   ├── chack_by-001.do.zip [990407295b7133daef064e7b22c970b244d69dd944e499870d53a986c0eeb975]
-│   └── chack_by.do.zip [0a5c4595ee70dc4189403adfc15d5eaae299167b919d570eeda4aeb8510a7731]
+│   ├── chack_by-001.do [e8f53b117809c9550f8f9faab9b9e9bbd55817affa6be0652d31b6c9d9b1c065]
+│   ├── chack_by.do [20cab05db73b9e4a46035f13945ea7e7b553ebc2e8e5f420629566b007db8440]
 ├── bz
-│   └── virus.msword.cyberhack.b.zip [aa477396c0c0e49bb7bb0a7252ac4ed4e856e1f37db4038ee09fa656fcc808ca]
+│   ├── virus.msword.cyberhack.b [e822174ecc8157bfc40277a4585ce0ee491b2e501498a0792378ca826f3625bb]
 ├── ca
-│   ├── chack_ca-001.do.zip [739dcc173da90c443470d4211a294cce5e1b757a34f8e69e8b0a61fcc75f9b73]
-│   ├── chack_ca-002.do.zip [3939a557289e5f942262c5a636f6b95119b3216c37f573055f391b79cba889fb]
-│   └── chack_ca.do.zip [bfc68a853d9f59f2abe7a6d208670e8ba13aaf791b7037e455950e92b39df8fa]
+│   ├── chack_ca-001.do [c0006d840d685cd59c9ea58a4e858c166af4e2b76322b1e46994659f81191397]
+│   ├── chack_ca-002.do [aa6dbf5570bae43eb22fa7ea47136689dbd59741e5a3bb4ffbe082d0aea3e45a]
+│   ├── chack_ca.do [870f0acf8e57f15f12785c560bf8c59758a5e1fddd6a6715430c3b67920ac973]
 ├── cc
-│   └── chack_cc.do.zip [fdbd812db34d24bdd0ed1655e3549e636a02d6c4485fcb158cfe5a867d20b2d5]
+│   ├── chack_cc.do [ac207f09b021545568704487df9797bc4f0af4ec864fb510c73221e257cfd80c]
 ├── cd
-│   └── chack_cd.do.zip [717aeee3554fa233174e978e69bc89f588238f7e83305671f5bcb098417c1dd2]
+│   ├── chack_cd.do [faddc701af6f8dd5276eb48e7c981bc3a2d8bb7a7a8f22203e68869a2901af92]
 ├── cf
-│   └── chack_cf.do.zip [577efc029b96ececde423b80e67522f4472bdb131c529b273758457ce3202515]
+│   ├── chack_cf.do [9cb74ebd8532ac7e72eee2525b3a6ae7a6cc07d6bda188b7815c81135e2f26a4]
 ├── ch
-│   ├── chack_ch-001.do.zip [fa9721537f30589b1935fc01145a8209dd5f7cc9528ccb843e28bbf465908546]
-│   ├── chack_ch-002.do.zip [97ee5c3122926deea2a1f1d872093b1dbff6d94e48165fee44b9c966e13ebde8]
-│   └── chack_ch.do.zip [6662d631a23340e4749f823b26e623cbc542e26b4a0177eade0f8f68cddc20e1]
+│   ├── chack_ch-001.do [5b4d63ea571d964c1b75e93def8c8292407f1a3cc887bf379baf7f18c46d3fe6]
+│   ├── chack_ch-002.do [c587a141deaf02bc63fa2faf95f131eed406db0b35b3c6598de70ad07a041e4b]
+│   ├── chack_ch.do [4d80b5029f168bbbd01c77ff3bc1114759fb5f4bdeb44718f3d187e9454621a2]
 ├── cn
-│   └── virus.msword.edoen.zip [5ff47cf655c79a1ae83bb19bfd4b7ed3c6a34fe2af7e4ac5fd43d1bdbe6e1578]
+│   ├── virus.msword.edoen [ef5513a5c4c2edc6c954c9b40d758837091f766c50b6322f20f5f82385876a7b]
 ├── d
-│   ├── chack_d-001.do.zip [b70763e2790e2f59297bcc394b2f79cd827c0be7d414e65a4a204ad924c7c27b]
-│   ├── chack_d-002.do.zip [1827971f6e139e1632effcef0c07853dcad2947d4b62d277ead59d6824cca8e4]
-│   └── chack_d.do.zip [9384b0f11684d4b9e1759e3aec83b5630287d246e7cd5cbe8aa0455fc2746075]
+│   ├── chack_d-001.do [cc0368695e93c94efd0429fb18bfb405db1dc5988ac9eb4581488545ea228820]
+│   ├── chack_d-002.do [ec12f091ddbb948d7d050701c352dcb04168ba0de0655e178690c6c46a1edd5b]
+│   ├── chack_d.do [cac067034aae200c10c3a333d6670dbdd92bce0941f484017f7b7fa53025d832]
 ├── e
-│   └── chack_e.do.zip [84220b1dbb42d7b52ce587a55b5071d292241435929b2f20f37590bf5b3cf3da]
+│   ├── chack_e.do [6cc733f9e00c41493a35b2aa69d4ed3aedc6be068c5799c079c10d6dece5f1da]
 ├── f
-│   └── chack_f.do.zip [cbb69ed93d0425365c5bc0b1024d299f9da8038e0f17b7b6912a919c7dd6f3a6]
+│   ├── chack_f.do [83602f76875fb5dcd8b05c9ebbb7e7abacc82ca614b2364cb1b7af08c34b0a9a]
 ├── h
-│   ├── chack_h-001.do.zip [dbed90ca07f19580ec530f87d1d23162725978390b2a6449a22330331f74339f]
-│   ├── chack_h.do.zip [b751ea284b07f64c94f8e69acd320040420d31f57e7b87ca9ddb07d27d77e247]
-│   └── check-h.doc.zip [36a96f710ddd9bed9165adee350449cafac22f7ac8988f6c9a039b6675c14591]
+│   ├── chack_h-001.do [9135a737b0ccedeea4685354c8b8d70ca9a03424aed42d9ccc8a2cb3e8913bd7]
+│   ├── chack_h.do [8c97e6b97415e4cf665f93d29c1971e80a5861e7ce30d412fa25e80e0e7103f1]
+│   ├── check-h.doc [54b491f7468606e147ba6dc0b4fb3331fe3326a7850a77e6a8c92bb19d988b0e]
 ├── i
-│   ├── chack_i-001.do.zip [05f1c523b10b80c1d79b99d2c8ee3d876d81cc39dd99b8ce8c17f2c4a584651f]
-│   └── chack_i.do.zip [e53e1b3e8208165b99ff78fd77af3266bd3e5cd8e282274cbeacc2abb3770cfc]
+│   ├── chack_i-001.do [d38dcea78a0080c9e67cc65af4de8f25fa1a1b81da7b79e296329364ef060e46]
+│   ├── chack_i.do [b664e8d5a8d77d3265ca7b7e3eaf3559ff0eb3c5520b17cf6ef14c4ce4dd741b]
 ├── j
-│   ├── chack_j-001.do.zip [14179b23d49cd2fc017210b26e06cdf135b428d0746fdbdab5c58bd558b99f07]
-│   ├── chack_j-002.do.zip [305efa980701d322d0b4bff53284113c3428d6f50baa88b7b5f59d2d743d7724]
-│   └── chack_j.do.zip [beb8910361869188015fbce9d1eaed2f1fa052b48a27bab4917b23be699710bb]
+│   ├── chack_j-001.do [e11e37fd7a5275c36872a41162ab32db1e8b26cfef7be4f18c01d4bef9cccc49]
+│   ├── chack_j-002.do [a0b05d041fec257e585cf4ad277976f5f3b192ba9321174887b8164cf05ff394]
+│   ├── chack_j.do [34b34a8337225d0973daa3a23775a1749300f67975d7a667ad45fa701751ffcd]
 ├── k
-│   ├── chack_k-001.do.zip [8ccedf191f10e517e938dfd3c16d7bd829caf45efbeb557ea9562afa2dbd5fbb]
-│   └── chack_k.do.zip [82c9a0f5798a508dc46df0d6442e7032cb87a778e5d78d62103c3edf0bfc33e4]
+│   ├── chack_k-001.do [41a2f1bc10718c92102c44555541e12533902c873fd41c6cfa029ab7b7f31c4b]
+│   ├── chack_k.do [1be59e3acf39c1e71d99ed8a43c185aee164e9b7c4fbcebec6c42b37b2135728]
 ├── l
-│   ├── chack_l-001.do.zip [7818acfe15e047728e4926d46afbb4c5fac7b259c23b040c3d77db8e24ea2b20]
-│   ├── chack_l-002.do.zip [7e1f41bd9f8b6febb2474c0c33a5d56a93a9913c678fe75c44e0aa63f06a40f9]
-│   └── chack_l.do.zip [0c26b9456174412489c05c87e21bd52c80c367434332ff2869347f0107e3d38d]
+│   ├── chack_l-001.do [6a7854ee3a23d71542951bcf860fe01a7edd12f45606cd057cddd1a5e22dd3a4]
+│   ├── chack_l-002.do [d3327cc914a940d942fd021091b8e2ac6269a3e520ca83e5aca23e20aaa9725b]
+│   ├── chack_l.do [385d97997cef58c21858292b26aba084244871bd617241f82c1c10062f9386e2]
 ├── m
-│   ├── chack_m-001.do.zip [c37a6fcc1ca6606c562e48b80865f39e60cff0c478f10a08cf2b747b10bb0ea4]
-│   └── chack_m.do.zip [18ab0cf05b04695399933fb2c1ef1ebcd17859225548082244ce69392bde35de]
+│   ├── chack_m-001.do [830ba568042c80d767741d3c2305494efa607ceef5aa25397caee9c65cfb0a38]
+│   ├── chack_m.do [224af38ece1b68f793904d5dec3928fee05fd2575f34fa6790bd3c61f556e461]
 ├── n
-│   └── virus.msword.cyberhack.c.zip [9743c0cb0406d1119748333f1173595ec7c16e5b3a56c3cb390066417c4ad4c5]
+│   ├── virus.msword.cyberhack.c [f09a3fc1fff7bcad6b7d96d2fd153f58852bb86246dae42f6b5654d75765f3ba]
 ├── o
-│   └── chack_o.do.zip [7be05a9a4016c66544c79cdf64d2b79267769ad4fbb310413e5b6b07d2946d45]
+│   ├── chack_o.do [3485e1f9521bab3948a0a145a10f59261c59fb738f14e3516b40dfb9d0b28145]
 ├── t
-│   ├── chack_t-001.do.zip [5e0d7734aca9c208dc3b68bc2de45677913b0ead9202461cd6ffa9ed4ddbc31e]
-│   └── chack_t.do.zip [0c2daf725e287a219c85d0dd218604f0077f47edbc12320997c498833a711a97]
+│   ├── chack_t-001.do [807f493b3a69691b9095b370924078dd87341a2280aa922bd36dc15a80fb157a]
+│   ├── chack_t.do [181f840099fef8a98d71f98220258230a15917fced3e96fd5981e913f6482d76]
 ├── v
-│   └── chack_v.do.zip [13ed2dbfba0416464bf319000d369e535fdada3aa816889b1c442530b8e1f13c]
+│   ├── chack_v.do [7d167dfa775f0c89838c4a91692a33bdab9b65e8c90041d07cbd268f94b068ae]
 ├── w
-│   ├── chack_w-001.do.zip [7b0dbebac5dec2499575bfe2ce435ce7e39f81fcc7fb9ffba7511b0ac8c42055]
-│   └── chack_w.do.zip [a68da41dba959591218fc1451dd26153ade4200217313fd127ebbc5211088359]
+│   ├── chack_w-001.do [6356c878058eed68dc55c7d1a2a65e2882fc9553b6ab2d43c6abdc15c9234fee]
+│   ├── chack_w.do [510e53d18f333c91a3ed1156dfeeb811503ae4bad748a3a518c013d314dfd652]
 ├── x
-│   └── virus.msword.cyberhack.x.zip [5505ccdbec2e6e5cf14067d116310e90b054a78162bb972c4eb3a7c58c7d531a]
+│   ├── virus.msword.cyberhack.x [e0eeddcfa9e2fa3087e82309c646f236c3fce45bac16c9dfd74d4752817c1807]
 ├── y
-│   ├── chack_y-001.do.zip [594a3a693c2a65d36806d6aec53b9db3c80594ee488f1501e18040496265579f]
-│   ├── chack_y-002.do.zip [3f94acb992a53711d86db8aa95519c1b8f58b0b6a235231285a904a6d652e694]
-│   └── chack_y.do.zip [aaa9812f4773235f2e2b10c272c846951db1889904c8fd0ddb1215dc88d10068]
+│   ├── chack_y-001.do [da26323b72dfc1847a77d242a1c24fc30f6a81eb37bd3191955a4f2a3287a6c1]
+│   ├── chack_y-002.do [c11cf1ec99ba4162cc282075e036b9e5b7ea6771cfd6679253bd70e5618d4b4d]
+│   ├── chack_y.do [2f178f47d1964f5d7e2a8d5dc94b887c8aa7c5514b3c10030f9b4f39c8f89c88]
 └── z
-    ├── chack_z-001.do.zip [815e2d49fca00b0809156aaae16ed6a53bf20df2c8d2b47fab24891ec43b23f2]
-    ├── chack_z-002.do.zip [ef0ca7595283b189b45b150921709ba59bec0dd623c253ce846a71fab8103ee1]
-    └── chack_z.do.zip [dac05b465866f3068e54acfbd695652cefe0a7d4bf7f451970f4b548596f2cf7]
+    ├── chack_z-001.do [9f024d278d9278318c3f2c83bb72aa7f679a7b982a32772b93609f608a33bb50]
+    ├── chack_z-002.do [d663ecf0853076efd7434e600f256a9d207d5774f91536b4ddaf595a996cd569]
+    ├── chack_z.do [792e6c2d07ea1d5c4e9fb6e19f8c73017bfc019b176b88ef578de5814d8fb6e0]
 ```

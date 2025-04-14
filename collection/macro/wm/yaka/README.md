@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   ├── yaka-a_1.doc.zip [9ff4f28d7912a89b366c83a771b6d0b86998be902b1027cba8684eb5250cdb37]
-│   ├── yaka-a_5.dot.zip [adb1d1a48b7038d51ea953f973e4be22cde7a82e18b7be54fa8147a083143aca]
-│   ├── yaka.doc.zip [9cdebcc842a6fa688099d551b0cdde735aa6aafef67c2b0326be4cccc9c45ade]
-│   └── yaka.dot.zip [90ec70131532c98a5866fb9639c5ab8643b43d46e9ece33c98726f69ec5e689e]
+│   ├── yaka-a_1.doc [3a0dcbc124fbc9752813ad9eb1e0a1907df44edf5b68b2ed677548e1a49744ce]
+│   ├── yaka-a_5.dot [55ecfeda871cb83b96a3551736420883e3a70b0b85daba48adefdc3d9cee41b4]
+│   ├── yaka.doc [07a95ac815cd234fbb6771d00339f47047837a8deaefa233e7409d3d2eec8dda]
+│   ├── yaka.dot [c1422f7766a655537c4145f5249f665408679b488f60c28fa3a3740d3c8b2d79]
 └── b
-    ├── yaka-b.doc.zip [e6dc30963736153bc43ef72da909473aa2a8c190b1340fd25de4bc649a3ff4d7]
-    └── yaka-b.dot.zip [93104e3dc28386adb0bed59f8545ce0cdb2f57a1daa45ecd478306be9127aca3]
+    ├── yaka-b.doc [a939af88a086836b5858edb89edc25595b752691cbb6b015baa501342dcd0382]
+    ├── yaka-b.dot [5cd925bb56c9c1e6fd04ae548a0d6d70e9fe3e89f216535936b7808180501661]
 ```

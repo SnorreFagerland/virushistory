@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   └── virus.msword.mkill.zip [5af07aa38ca3a155ce929f3ec8f19c530982bcfae2c8c0a15d20b468f8e8a78e]
+│   ├── virus.msword.mkill [78d97d0470bab3c07a4beb77814870d745ed83fa17e0a439c807e1593e611fcb]
 └── b
-    ├── noma_b-001.do.zip [81a14d2cd09ad1e98291ede142a8d4745cff225240189dce9945fb49ce326f0f]
-    └── noma_b.do.zip [105baf72ce12ba713aea4322c8d92974fcf82f05920410feca131ee956e2a74d]
+    ├── noma_b-001.do [a22f841e62d06e03781a8c528a9ed72f186e36102e82f0960757cf41a944b22a]
+    ├── noma_b.do [3e5037fdcec6d3508e0a3581512e635a90c6c74cf8edbfd5c38f849ce213f04b]
 ```

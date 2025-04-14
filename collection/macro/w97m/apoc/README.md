@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.apoc.zip [df1d4f951b34783e387080739e1e80868a0680c9075e2da24b0c073294f64fb0]
+│   ├── virus.msword.apoc [a7bb59bb1c8d13bd61c4c3e273f1ac2c237bb08694e301279294c12cf36ae2cb]
 └── b
-    └── virus.msword.apoc.b.zip [409940dde1e3514c633de5aab94bd862c73373cc62af82553edf7cd1068339a1]
+    ├── virus.msword.apoc.b [bb17a20e07d3b1754c1afefa6bda1ff19810f28d3228dc9c402f6d809a21c522]
 ```

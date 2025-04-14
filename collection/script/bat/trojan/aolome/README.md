@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan-psw.bat.faspy.zip [b98f88b6b5aea4dc461b05328a88128701416f743cbd7ae4cb465881e7677b57]
+    ├── trojan-psw.bat.faspy [d18682f2fa0b330feee9e5587e5a5a43302bd155cbfdcde9b50626489f7f076f]
 ```

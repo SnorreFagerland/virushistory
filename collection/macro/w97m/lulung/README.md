@@ -3,30 +3,30 @@
 
 ```
 ├── b
-│   ├── lulung_b-001.do.zip [937cf7df799d3c04c983b09d148e17535d66f96e396ad5a569a1f5e81ca39f82]
-│   ├── lulung_b-002.do.zip [f42e30bdd37b6abe412aff2e2a6d057063bfd07cea55c2c8bd28051724187ff4]
-│   └── lulung_b.do.zip [fde8ae4060f791a9f32271e1ee8312a644297b11c16b9777996b9118e68b4159]
+│   ├── lulung_b-001.do [1ead6fc41a5cd61df3aff53420c84eb37e2bf0ee31d673cad25c1528419619ed]
+│   ├── lulung_b-002.do [f9b4046a00b90f93204834189f6baebc7fa7a144049b0604b4126ff2bd8b9f1a]
+│   ├── lulung_b.do [0426d88af7e96c9386fc44cc043d4aa092ce5061f16ab0168ea325b95a8108d7]
 ├── d
-│   └── virus.msword.reformasi.zip [a8d642cfe7f84e92491c77eb2c7a3035bb26948416cf9678fc8f47239f815d70]
+│   ├── virus.msword.reformasi [dd46e4829f91626218712ccc1d8a9e15dd1b1a0335f24de7e48271b772ef284b]
 ├── e
-│   └── virus.msword.bogor.zip [5e89d19abc1de521c30b0d3dc03e1a2020dae7f2ad1e175fa3857540b3809608]
+│   ├── virus.msword.bogor [15e28092ff9c23cab727d27ada2d1427858649e9d0486c0141483b9e707bc0a5]
 ├── f
-│   ├── lulung_f-001.do.zip [8342b3cb9720cfe0cf3eceb29471bc1d1e1e217c44770ceb3f8f512da419051b]
-│   ├── lulung_f-002.do.zip [5a30e9c154e493ce364a78e4633a9d0e87ab0ea03086b4bea6c9bf53d9d5e52d]
-│   └── lulung_f.do.zip [1fdeb186cfe5ac34c11a7aa10a5f034d187624475dc653b301dac8eab4714f71]
+│   ├── lulung_f-001.do [8aabe4322f8ddb78188db5f400cdf1f3fcfd15b2a9f451d4c9eda0a2cc5bb885]
+│   ├── lulung_f-002.do [fccc08256dd19066e06f2d518348d663fcdd6a6d0c30e880a967295be744a34d]
+│   ├── lulung_f.do [5bffda1547c9ea727b3b24ec2a984125bee6c6fecaf35ddfb57f798bdf9a20e7]
 ├── g
-│   └── virus.msword.bogor.c.zip [8324eda7792e7e34a1791c295abecd71120de645e4ad42b327403b3d6b3392f6]
+│   ├── virus.msword.bogor.c [b52bf8ec3faa71a896cb82769c090e008deaef2a26eaab78f9b72e15507e1e5c]
 ├── h
-│   └── virus.msword.bogor.b.zip [400c11af3b3ed87e90f0ecea0da1b2a0467b67e4709164c0afaaf80d757bfd54]
+│   ├── virus.msword.bogor.b [49a27201802366d453a8c8dbc077618eb01842f23093f86d90fb972a41cf754f]
 ├── i
-│   ├── lulung_i-001.do.zip [c7060b85e3bef4b527611e95bcf3b78839763d9d8ce5dc7b2e7ef99d2ddc5a1b]
-│   ├── lulung_i-002.do.zip [523db95108f79a67d25dd8acb92616be7d54b3783b68de1ec48ffaf6e34d4f78]
-│   └── lulung_i.do.zip [17d6013188fbb66f4d942cd5e39925c18ed9948fb8d24c089ddf0725139f55f5]
+│   ├── lulung_i-001.do [667e8a96c71a8ca5cdaba9ed6df21695068350be203ff6e0479963042f02dccc]
+│   ├── lulung_i-002.do [ee8060e321f600ca10e517134624dc8ea6a1b4a87453e6bc1054d11caf27ea7d]
+│   ├── lulung_i.do [4e27cab85191c15b5a58c4f715f827caac8f3d615f7c9136f6ed5c66b45dca13]
 ├── j
-│   ├── lulung_j-001.do.zip [fae6c20c40fb40553d41f128c3059a145fb7d04ae248326fde3ceef44396d39b]
-│   └── lulung_j.do.zip [b90126746183557c58a0f5ec05096cb5cba57cbc985c2c2693bb2634e9bb66ef]
+│   ├── lulung_j-001.do [ee5a239541c9dcf2b2e779d18cf7c2b287ba9029aae3373e5687a59dbbdc4028]
+│   ├── lulung_j.do [067f128a46780a070bf69b44895cdde152ff312cf63d6052c6189ce13b924608]
 ├── k
-│   └── virus.msword.bogor.d.zip [78a4b4a7eddc6d7af361e16727524585de94afbaf66edbdfc48b8471416873ca]
+│   ├── virus.msword.bogor.d [81c3968d06060e02f8a906628812c6a451a698ced28a57d11c41988826f51ca9]
 └── l
-    └── lulung_l.do.zip [726c9f3d209df5d59b957d87d4fe1b6083d2b050a99aebf8687e5c71d7d9dd05]
+    ├── lulung_l.do [3e228f8c8b7903db03fc62d691546a7cb6fbcc471aac73ec6b01370a7222bf30]
 ```

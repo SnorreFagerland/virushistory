@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   └── virus.msword.lis.zip [dfbb404e4425f8ac82982e8c50517a4ad42296016ef9b0cd0834b604573c4679]
+│   ├── virus.msword.lis [9bfa26716092c54e7907b34566cfbdd01d57b3dd2f27dbd2db44ddcfd7ec1645]
 ├── b
-│   └── virus.msword.lis.b.zip [8153c4be86c65756bb961a50a8ea575416bb46eb269d9642f40da097a6956173]
+│   ├── virus.msword.lis.b [464182144f83c6896fc2f1a801fd32d223f09bee62381944209215e7896d6220]
 ├── c
-│   └── virus.msword.lis.c.zip [86866fec774d88e6290a56c867f25cecd9e8afc8eabf65d290bde0a353020005]
+│   ├── virus.msword.lis.c [c6812f83f6691eecdd1c2d31307dd0db432b4cc3fd534d4c2475a897b6d4dccb]
 ├── d
-│   └── virus.msword.lis.d.zip [27fed9797e9257a60a1477ae1748cd3d89aa3955a7f727b593fd077c49f5bf5e]
+│   ├── virus.msword.lis.d [24cefa0c9b1549bd2eef2230fb24a60ed1cfe8a99d973561b63ad32493b0edb6]
 ├── e
-│   └── virus.msword.lis.e.zip [4a8cd771ad17c47210c6fefef25c29b66829b8e71c0357f0c0c00dbbf4c20477]
+│   ├── virus.msword.lis.e [83685c29bcd42802175046fe25e31a0c5060c71777154fab47c840b7b9eb17cc]
 └── f
-    └── virus.msword.lis.f.zip [63dbbb884ff8ebd0a31279def442d34ca609c5f870ce83f74f6eacccc8443aa3]
+    ├── virus.msword.lis.f [e958434efaaa31a8ce9004a047ba84bd77f56c3c2e27ebc50f3f9d7bbfb180ae]
 ```

@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── anarchy.dot.zip [43e4a321ccb9aa95a28f998723285d1ea9e18dc8cb3dce5d64865446a6592112]
+│   ├── anarchy.dot [3858a124c26b811e39ccd7792c45b0beb737ae5f2923fc8bba04469048fdf21e]
 ├── b
-│   └── bilbo.dot.zip [87590af1d40b6eab447fc0c5fd59c47b915ce993d8b03f0010af23720dbe48ad]
+│   ├── bilbo.dot [781cd4cbec924cc4032eaef8da1be6be4f227a81355c8a9746e31086c856f0ad]
 └── kit
-    └── mvdk2.doc.zip [292a6767009f36ec0d63161fb9d11d3fb072e7c0d6b560850eb91b83eefea6c8]
+    ├── mvdk2.doc [5de10558c979c504c6649a488e50d57006b8893570afcb692e50d901627fda6a]
 ```

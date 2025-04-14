@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msexcel.jini.zip [5be40b7755a31acfdd2a2f8c5cab17625ee60419739bd95a906b83943276cdbd]
+│   ├── virus.msexcel.jini [2b21a6f54cf3224012949b73782955956955aea65e00eec10507c33205265d07]
 └── a1
-    └── virus.msexcel.jini.corrupted.zip [bbcac3eb8a7697d41f016e35f5e9c010fcf599f2340b65e09ecdbd133e972c91]
+    ├── virus.msexcel.jini.corrupted [b52f66ef5f2f96d4babcc839759fcbc8622a1f3dd7a9c38768c273ce934df28b]
 ```

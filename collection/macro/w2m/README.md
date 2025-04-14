@@ -3,7 +3,7 @@
 
 ```
 ├── polite
-│   └── pol2.doc.zip [4e258848b5f1a3321b4dcfd58aa80a0553bc1226f6130ecdc963ad14183fa5c3]
+│   ├── pol2.doc [4c560f9ca7ef44dae137fb649bbd289562038761195f9eefb9cdf7e61f6ede9d]
 └── wiederoeffnen
-    └── wieder.doc.zip [1529eddf49afa081bc4eba765b105927d0c8cfdd563b80a59086f8f448f0ebf1]
+    ├── wieder.doc [f8019809779deaf4d502f174cb66d6207794417594199ccf80d7894315b39910]
 ```

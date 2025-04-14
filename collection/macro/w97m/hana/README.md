@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.msword.ultras.dollar.zip [11e590dfa9095046de3ea500f5c040ff182f6ece06f541616059b9b46f3eacf2]
+    ├── virus.msword.ultras.dollar [8b8c854bb986a1676a5afa86aacda3ca4da2dd410db51e5bc70be36734d042c0]
 ```

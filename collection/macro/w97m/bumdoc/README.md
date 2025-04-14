@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   ├── bumdoc_a-001.do.zip [e6c15beaa5f1ec29738fc7cd51de2f3a190bc1478515581c11a7ffd32ac65288]
-│   └── bumdoc_a.do.zip [d0dee5f108a753674932f6ee094d64345d6be0d7d251d2b39ed87f05576ca04d]
+│   ├── bumdoc_a-001.do [96e84d73fc46fbcf1c9b356fdbf4e7e3907fb0fed00439ab2d8808503ba4cd43]
+│   ├── bumdoc_a.do [5786cad9b2d1ee9080779806719730a0dc00ea4800068d1764e4bcb0b432b443]
 └── b
-    └── bumdoc_b.do.zip [14bdf930f1779031ec0ff736e179b5820d6509e48fe6b2dc15ccbb086324653d]
+    ├── bumdoc_b.do [ffa937e2599a1627532f357e8387406fe574e150670cd065e0b9c150d655ace7]
 ```

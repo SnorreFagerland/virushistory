@@ -3,103 +3,103 @@
 
 ```
 ├── a
-│   └── mini_a.dot.zip [4963d33dcab97deafc6a04345680327df43d30d09c158089066a6c5d034c933c]
+│   ├── mini_a.dot [f32405472da05f77eee3d3dbff475ec233d14dfaaac0f5572a5fe3a573b61726]
 ├── aa
-│   ├── pox.doc.zip [3c375222ecc0f6af507c802df68a32288594e093605cc6b1ba513d706da96663]
-│   └── pox.dot.zip [d1eaffc2b094d37addd19b186c5c8839ebf06caed83abaa20ec3b784c366de8a]
+│   ├── pox.doc [84ce853bb737930b5e06627e5c28852c7c82e17ee2dc94d3ec424216a9712ec1]
+│   ├── pox.dot [2990b967000dfd95949097d14eb7985a0823af085ce311cb9009e11d3496c2bd]
 ├── ac
-│   └── virus.msword.minimal.ac.zip [a988c76ec9cf9bef4d0b968de5794e44d504e4ff3c88179f256736cefaf3f358]
+│   ├── virus.msword.minimal.ac [591beac258d278839b55ab45ae137cb723388e3cf24329bd14408b583b678dab]
 ├── af
-│   └── virus.msword.minimal.af.zip [54cb6dcfea2ea06257a28a5f9cf777af3c6c07e4723532d40ce641905e5fd8cf]
+│   ├── virus.msword.minimal.af [24d2c8a5a00593511ef033571b2156464668fd5d019374f30cfd5cef82147899]
 ├── ai
-│   └── 37_d.doc.zip [ccf5f77bf9bb6350908b27fb52e726452e308e87f91e48eda9983adcd26a7f9f]
+│   ├── 37_d.doc [db4b755620492d66eec3f278b4c0254264bc94556e1f7bf5f62e710500ec9946]
 ├── aj
-│   └── 42_d.doc.zip [00027fa345c7b16eacb2ce9ead4ff983bd796f4c28d25136321688f4e98007ae]
+│   ├── 42_d.doc [73f61a2e9c2592146167eb54154483883d45930344d2a67a5cf492cdd3ebb1c0]
 ├── ap
-│   └── virus.msword.wazzu.fy.zip [4b70f9a39019ea4fcb3b7840d8f1e5f6c8935c885898f69f22ac0460529cd206]
+│   ├── virus.msword.wazzu.fy [4d2101934458fea8b349b85d0ce15c7d033102092f23b8d2cd51eec71541b861]
 ├── ar
-│   └── virus.msword.minimal.ar.zip [391200691c2d2ff7c6c818935e80d31359b3215cfc02ba0bc0c9d40a96925376]
+│   ├── virus.msword.minimal.ar [3185edfad86f1a32a4ef7fa88d7c0208b5400103a7def6e1e8665e143596af60]
 ├── at
-│   └── virus.msword.minimal.at.zip [acfb3230042982b69416dcc1f04b90ea0a8a67c84a11f7420cf7c1e987e4cee7]
+│   ├── virus.msword.minimal.at [a0a1a69df49319c307d3c00eef545e6cc06863046e789625c6521e9703503be8]
 ├── au
-│   └── virus.msword.minimal.au.zip [328c91a8d53be79aa9e2cdd3ea4788d1a75a2057d3c27e7cf141ca5a8dfde33a]
+│   ├── virus.msword.minimal.au [24224fe87786ff2e32f9d8b414670bd5389cb895df1e83eba7f0afa5ecf3d829]
 ├── b
-│   └── minsize.doc.zip [64be49d11cfb124a88d2fffc07daaafd15fe40a50bdf2898ef531fd66b14d844]
+│   ├── minsize.doc [19edc556845d56f0e10e30f1e51a3921f556fcd59d528475e3858f7d915f1493]
 ├── bn
-│   └── virus.msword.minimal.bn.zip [b528f05e9250177dc53ce4bff947cf45779b7b5cb260007eea7bf53fe42e2100]
+│   ├── virus.msword.minimal.bn [354db8b46ea16278c5ce97f46e9ca6dd3fc9c1392860a19e043940d49b62a158]
 ├── bp
-│   └── virus.msword.minimal.bo.zip [fcaf6d4c177372a1b3a51b1bc6ea90895f7617d0bff2bf2321687d1e28e7b156]
+│   ├── virus.msword.minimal.bo [65ae47cce95ee115825d4ef6596e497b99a6e628607eede09192f25a7204a459]
 ├── bq
-│   └── virus.msword.minimal.bp.zip [b9029b3c97574394a53a3e1f2dd12675ada7eb95894ba43a2308e325022d5f6f]
+│   ├── virus.msword.minimal.bp [a67e74cddfb7cae5245bf2b4d9f8df98e23a6fa2d8c16b0478042b923ce1eda0]
 ├── br
-│   └── virus.msword.minimal.br.zip [fe6daa5cc293935e406d6b2fd271fd7f1b7e3f958b9cfe1394d864df22ed756d]
+│   ├── virus.msword.minimal.br [4b59e6314be622bb135fa206f994afc90d99b05b8f71c69ea852ab8f8917f74b]
 ├── d
-│   └── min-d.doc.zip [31863ca6d7d41ede4b11d2b27abfa798cdaa7f8cb03f455ca27c19516331b586]
+│   ├── min-d.doc [057bd22ee2712f3243e12258fea1b0f054b57c9b3e2ebda5569620b8a3a647f3]
 ├── e
-│   └── min-e.doc.zip [a3df64343bd294c6e380c7d7f5531901da443c1aa111e458af17d86564942929]
+│   ├── min-e.doc [8c428886ea3d70e6a5415a9fbb2cfae361db191d7d6ac6c1ed96202acedef5f5]
 ├── f
-│   └── min-f.doc.zip [f0b52144572be1a4139da8908f14130cadb99663ae58e043ffb3f8b14efd5cb2]
+│   ├── min-f.doc [9a65c4ed5e4863d747fee6ea427aaaed0c60141bd81547af1ac81143251e6906]
 ├── g
-│   ├── minimalg.doc.zip [02ca19ba536490e81e99e1f1503ef5a4ee81053575e4511edcbf5d9452df6370]
-│   └── wci01743.doc.zip [d784c7f0408876d14b32b682b853d58a73617c19434562bca37dd2233c1a731f]
+│   ├── minimalg.doc [e94c0c0fab55513a5a8a86cd5bec0ddb49b89cad744c2488b8afbcc038ab073c]
+│   ├── wci01743.doc [a255d3282f737a0c0e5452dec4780280678fb99a824fc712076e7c3cded1d292]
 ├── h
-│   ├── minimalh.doc.zip [aa224087991f6a453df70944f6422efc5fab3cb9636e48a5d6968522fa735a61]
-│   └── wci01753.doc.zip [b6f107db24944b0df58b822980aa8cbda463a1f741b6299c06b20c7938f0ceab]
+│   ├── minimalh.doc [0d9b4591520690aadcbaf457410b0359ecad21c644f1c3dfcdb58ba31b79e744]
+│   ├── wci01753.doc [2d260a1e593831396288e1804c9f8adc55309838f7b2c54de99d779f2e5b65f7]
 ├── k
-│   └── wciv1465.doc.zip [ba49ed1cf93c93548f0a8e2dfe1f189d004b6c01ca6bf882f30b1403aed951c0]
+│   ├── wciv1465.doc [84dcb3b30b78f4e4879c5a3934890f4ad625eb685a7285b8ab14ffebca0ab3b5]
 ├── n
-│   └── virus.msword.minimal.a.zip [941344d61cfb3c9421f90841fa3f709a2070e0c26d488d793bc5d8c76b9d2bb4]
+│   ├── virus.msword.minimal.a [2703ee107f7e0955745986a74955a9bc543489b7098de1adc24c10be2d3ca94a]
 ├── o
-│   ├── mini-o.doc.zip [c658f18ec34fe552781eeea94791e763b0b00eae795a6bffad69375501b391a6]
-│   └── q-d.doc.zip [c6cd4af41a15c82c10f125936b9b40a21b74c85a80cf1e2f3f74aea3fe6bbb54]
+│   ├── mini-o.doc [dda10df9892ce94c8ca3c792a42a62455a7410dd3c81a2855965dbc2d5001d0d]
+│   ├── q-d.doc [dda10df9892ce94c8ca3c792a42a62455a7410dd3c81a2855965dbc2d5001d0d]
 ├── p
-│   ├── cheat.doc.zip [a2f6465270ec076430e06731b18d4b288ab8fe9ac90afbde51e94627e6540622]
-│   ├── wmmini-p.doc.zip [ebc2355b663b3afdbb8d76a9077400964502f7682857614abb014b777680c9b5]
-│   └── wmmini-p.dot.zip [3ca09896a32af9365d856af6adc8969430caf0af0d54b8454dba34685545a043]
+│   ├── cheat.doc [da67a05084545ae1f373642520b40102833faf8436279ac6c334148be726336f]
+│   ├── wmmini-p.doc [ba73f148b36de198f5b8670a72994d0cb2ffeda3d2b9308cf75588a88f662313]
+│   ├── wmmini-p.dot [553a8b62c5f986f0870af6c4e87598cf40cc438382675d5c39a691d4dafa58d0]
 ├── q
-│   ├── minimalq.doc.zip [cd3f699798d4fd049c270b3a86d8db8815385be1fbf8f819c2c9369606a10f42]
-│   ├── minimalq.dot.zip [2482b549c35abd800f741421678792b28a848e0b033e45e8d18f0a7e721be045]
-│   └── poxa.dot.zip [4b827a8f9706978868b5b2b8fdad36641ed485d31217a5b1f9c68b61d4beca8b]
+│   ├── minimalq.doc [ac9c86f8f94ba2f658de5a9f1545b615a7ae0c20ea99aead336959a7dc6cb881]
+│   ├── minimalq.dot [ac9747df4bbdf1a37cf673c9c8527ad5a5f245bba9a19237bcd001105ae53a60]
+│   ├── poxa.dot [02b8d50098dcc49742ae96cc335fab7a94acbb4943b214817b9aecbf7290cd0e]
 ├── r
-│   ├── minimalr.dot.zip [7fa917bedf956b903243aa20659dcf6fff523d902d53dc7166420e716413fba8]
-│   ├── poxb.dot.zip [b2ce35e086e05d6c26b6b25d1c92a884785140c1dd82620d1d0c8a1e5a546d84]
-│   └── poxc.dot.zip [f3cb10726819b999ec36645817868a8cb2e79185bb86603054512cdc5553773e]
+│   ├── minimalr.dot [e911da7ba4981c7b0d712ea3c3e2f78da11fd5a871efc8e09d4cf669007e0334]
+│   ├── poxb.dot [d4fd8dd80825f9bf427382e89828088707498acbab94a3a165b6760b4666d00c]
+│   ├── poxc.dot [cfea1dd6f46ceff5faf9a820b0491c74bca8eba22b09c55f5dcebe532387332a]
 ├── s
-│   ├── minimals.doc.zip [f713f95df21d7ead1b755afd3aaae00d2cc56621f57ce290fe3218fc9d663510]
-│   ├── minimals.dot.zip [008b14731e210348c3ea931263ca08e4223070af15f5499dbcf1dad6bb2a37b7]
-│   └── poxd.dot.zip [97ffadb7183707dcbab7ef4a00b1201ce1ec22a18daabe774d0fb007a4f3dc58]
+│   ├── minimals.doc [6f0c5a01fa52978e10495b0bbe246d7087e2b3357051143bc26761c565f0afa7]
+│   ├── minimals.dot [1a45848ad38fa554daa8b79e601a87b0579506e971854309db1d387fd766235e]
+│   ├── poxd.dot [d2416da4a7605006e24375d89b07029275d59fd90ca8d3324069798e7c965cca]
 ├── t
-│   ├── minimalt.doc.zip [2df6d7e07fd691c90de84f1cb44e4ec945c100f7a21bfdaf55d74afbb1d92f51]
-│   ├── minimalt.dot.zip [82c8e91184293f688942d3ef6252f5740419c67b8def812567abf0abde39bf15]
-│   └── poxe.dot.zip [b648b79b2701f2286fedfff3bbc2a02feb490ef36a457e93e862c187e9db004e]
+│   ├── minimalt.doc [c2fb75f3f05022fc4c3d7f09765c65893ac8a768ae77199dd35868b08724d968]
+│   ├── minimalt.dot [0659e781e170193139594a9eec48a0e04d8f3f739d0cff42407f9f743037a027]
+│   ├── poxe.dot [329651b1778b40b2704dedf20e81c02d2394a2ce40005d00ffa8f4f4044fbdc4]
 ├── u
-│   ├── 99bytes.doc.zip [7a2aecd3f7387ce27d17b51eeace3d5e4c011f00e99153fd4184745cffe46b14]
-│   ├── 99bytes.dot.zip [3f41715530bc21f6090dba2f8682c75f567c74f9edd0378b51850fb96c37b6a1]
-│   └── minim-u.doc.zip [e2ec9f74f0b952a8a8a03d4597fdf899a00c56f39540dc56fb4d25a0ce4352bb]
+│   ├── 99bytes.doc [0bf8ef90465eaa5c653f46d48426e7c34c081db84829849e73787975fd246d82]
+│   ├── 99bytes.dot [03340bf2de1508649b9a4bea28a0943ed3848a4f008147a9bfd5ba5128832303]
+│   ├── minim-u.doc [230890979e9bbbb8f38b2e01f0f6f4546bddda83d1628e109a8f3f8e34b70488]
 ├── v
-│   ├── mini-v_1.doc.zip [e27dd0e6d078b700456b11e39b5998d78a0648888b743488875412ceb1e03328]
-│   ├── mini-v_5.dot.zip [09e52d2766b078361599db3336c7201ca79b635dc3dd646f52590f00ff67de61]
-│   ├── svirus.doc.zip [434aa9129d450dda2da5f3ec1e207a2f5baaf0d5a2c02f867cc427ad2e7c0e6f]
-│   ├── wwmini-v.doc.zip [18b944f31447a202f7635b0b218ad649dc2864cb55b3fbaa7150e00dda3401c9]
-│   └── wwmini-v.dot.zip [a49d23dd71af669ba01b9ce3e690efc334071037aa18f1b86b9ac1f56a26c38e]
+│   ├── mini-v_1.doc [904ab6b74deda48c3b7f227d63175bac99134425463d9a25d2fbea6e9d31c136]
+│   ├── mini-v_5.dot [ef461c0cd9c05b839432afb85c654c2cc4b7cfe5440cea6c95aba8fb4ff7bdd1]
+│   ├── svirus.doc [6bedf8db6c31c5bcfda7a9b01a0a6f80eaef5352fe0f7cb25778523ca4351eaf]
+│   ├── wwmini-v.doc [e4177305ddb0fc1dc48b1c0b4e857087b41b390b7be4c2af79eba4a6fa0df02a]
+│   ├── wwmini-v.dot [949bb278658274d09dd37fd250597d6bda0f1e88938bb488d8ddc60bba2fdc64]
 ├── w
-│   ├── mini-w_1.doc.zip [90d266fe4b5c46b1ccf332886c908e51afe794d720ef7ea149f3218f0983afe1]
-│   ├── mini-w_5.dot.zip [6d8615000369bda876e185efdf122c25d1a8870125e0a049dec2fea557d5e25c]
-│   ├── minimalc.doc.zip [9f22c9e368e381e070673328a6cac79dc1efb8904726a437cf5eae1598aa84b0]
-│   └── minimalc.dot.zip [61ac7534635d37754c1355e69b5e0899ab698c9f575425a62d260acfccb7c85b]
+│   ├── mini-w_1.doc [04769809e7c77e42d78b8c05c6d4eb7ef4ec1a7488e260a36ecabe7e6ff87db0]
+│   ├── mini-w_5.dot [c5bac9418b2533f113c5c066ad565839e7ccec0db9afb1a4b511beb0ec08d714]
+│   ├── minimalc.doc [563e5cae4be6ee2e59f05c1a98e1f94524d8374ebb58211a2efe72651542b8de]
+│   ├── minimalc.dot [b38c335e32462cbe9277b73dd8c2df52f6a034ee3d6e9b52611e0d43ecb6ee0e]
 ├── x
-│   ├── hitman.doc.zip [76c13d325a8c1be72d57034d4897feabe37f1be844c4cfdb0f07719b57acc3ba]
-│   ├── hitman.dot.zip [af2612ace5c7b55bdd16559fe7c2664d2097324cdde8a1f1baa76307c627dea0]
-│   └── svirus.doc.zip [a991975a8c0a1d4d8d1207253825589ba1653b9e5f6dac526e07c9e53cccf9f8]
+│   ├── hitman.doc [5097ec21765a601c972579753294cc6e0f03e8010410e7018b38f5bb09b8fd38]
+│   ├── hitman.dot [9236de5388513d3199df779ee2e046b908b361e1add92143a513bc5b60efc857]
+│   ├── svirus.doc [20b7c618e553458185f9aea4a646ff65f6c40740ee3a0c69f1352993a9e85999]
 ├── y
-│   ├── mini-y_1.doc.zip [9a2e4109ccef4b50816f7e92c36717a6f31a375238f3d6d9aa90717d1d8f3205]
-│   ├── mini-y_5.dot.zip [02d4f66e7ed7153c179f8759ea43d4971cbbf27f662b92479b95ddefa217b755]
-│   ├── minimaly.doc.zip [8acae6197d370ca980c5b9ff66c00b1b1113c0c40b963e54d3b3f17bcdad0611]
-│   ├── minimaly.dot.zip [59ecc278057778e116cf2cf08ea894546a8b1952c6422f046a9e0591cab12ead]
-│   └── smallv-a.doc.zip [3cf7a1ce5f7403bf72370ce643963b00c259917ec6ff71611afd7e7c750c0596]
+│   ├── mini-y_1.doc [3b2a117044d75c902c39ca2e7ec07a8aa1fc00d3632b471ead8159c4abf5ab21]
+│   ├── mini-y_5.dot [9a06f6eaa9e16d58d85cddb2e7db24c55573262c4c1a947fd6e9cbd708681ce3]
+│   ├── minimaly.doc [5fe9f393737c78b2bc8644b309f57e7ec2a1fee10a0146fa2ca3c5a13f6a3849]
+│   ├── minimaly.dot [8210da189778cfb5680a3d9a508bb1b11df7177ef6391329a55a40b49c0323eb]
+│   ├── smallv-a.doc [c227cf55aad12fb643e873e440d3f958f2f77eba0ae212b6adc978c2a7a44dc2]
 └── z
-    ├── mini-z_1.doc.zip [ae2e8e59b3f48c32829a0ec6b88d6b801ca082d7735fe2dbf9b9809de2e09b73]
-    ├── mini-z_5.dot.zip [2bc9a6962beb89e52956bcd377064533dc06376f09570b9c5c10843f6777395d]
-    ├── minimalz.dot.zip [86c532bcd63dee948b20761a2c7c31daa615ce6acd02401793893e0f9523dbe6]
-    └── smallv-b.doc.zip [c810107348a318bd4e8b5986f889beb0a9232657a74919dddd08410bcc902e44]
+    ├── mini-z_1.doc [ba29042396726cfe0dbbaeff915bc06e7f8eb43d48d2675fb375a0cb92b5e390]
+    ├── mini-z_5.dot [50e7d0f4faf8249a86641883680c4336e06cf71e3fa0851fac7353fd88354f0c]
+    ├── minimalz.dot [bcebf6808ce5dd65e7d580acde29acf8b6b1c417b2e60c221bb5f8ec226dcaa9]
+    ├── smallv-b.doc [07c62a77c99630108b0bb8dc50bdeef3c9543357c4e6499b26323ca8b6ebd67d]
 ```

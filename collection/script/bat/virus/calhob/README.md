@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── email-worm.bat.calhob.txt.zip [65bf9288aa0fa80fee9f3136050c4c28ff07f8b657d18f6dba30b24dbbbe3d5e]
+│   ├── email-worm.bat.calhob.txt [cd0c9c9565339b4e2a16886f1f6daa6dc8118c98308695bf55b88c9b81990d89]
 └── b
-    └── aguilera.vat.zip [9c929b74e9467df83fdf582bfb03a02ee392524ab3240dfe1a8fffb5b55ef77c]
+    ├── aguilera.vat [946f51946990a04a3f7daebec571d9fc06e8bb9089599282959221373babd451]
 ```

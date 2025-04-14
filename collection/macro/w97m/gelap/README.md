@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.gelap.zip [a0973e5cc875a249e2299896591cac97dd5ec99bdebfd3bcf8e902e374f9929d]
+    ├── virus.msword.gelap [5eaa16554eddaead2c1f96cac243823244323aa359d2281a9f0ea89bac9ab991]
 ```

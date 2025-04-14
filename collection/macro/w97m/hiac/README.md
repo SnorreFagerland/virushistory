@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── hiac_a-001.do.zip [84b4403814b10423664ea96dd95c67c77910650597cf3779013609b6a0894624]
-    ├── hiac_a-002.do.zip [8af25fd32c171acb82005b040ec53ffb46283c60cf59f7103c3d1a1dbdc7927a]
-    └── hiac_a.do.zip [c0cadaa1edfd5a542a5a61d02349f29642dc1007bf82c00df94a06a1a07098a4]
+    ├── hiac_a-001.do [997ff178e3cec5e7d3a6a6e58919ba6140a874a4d8e2c0663ad7d0dbfa933c4b]
+    ├── hiac_a-002.do [d63fea2dc63b24ef54fed5a82c6401b6b8273dc90e4de5eb45dfa5400bdc6ef4]
+    ├── hiac_a.do [32557a69f669cff35d178357d6754866a163cff4cef1940b3a3af79eda2df821]
 ```

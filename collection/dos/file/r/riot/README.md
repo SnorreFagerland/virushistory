@@ -4,20 +4,6 @@
 ```
 ├── 144
 │   └── ir144.vom [0014b12437fcdf9002a265411afaf0e08d6abd8230699c57aa9efa58f6685c9e]
-├── 268
-│   └── a
-│       ├── mmir_268.vom [b7ed6aa14f99deb7ce3f727bfb00f8059db9f0cc285e9142071a1d83591b5769]
-│       └── mmir_268.vxe [3fb3013d16a50bcde018404c051f8bb191042eba1bb560921ee34464bd5c8c95]
-├── 278
-│   ├── mmir-278.vom [3b2ab0e14fca261a23bb85aaf38991029b05d6821922df50f7a1916d46277cb1]
-│   └── small.vom [f74ad6695653db646a6cc831af199656d08b8074fb67d8d06df049b399463cec]
-├── 279
-│   ├── a
-│   │   └── mm-279.vom [0be66e175e0585e1fdc3a1ba568438aaf89c56153ff36e2d8a18a58f647e7173]
-│   └── b
-│       └── mmir_279.vom [d6cf8dae78b990c178f0b720334b8de7364b27149825ad4d102c089450eb5174]
-├── 411
-│   └── towerv1.vom [150003d6ff5062d9efe7ba731fc6d7f9af79aab356f85ca207ee57fe41a13a52]
 ├── attitude
 │   ├── 343
 │   │   └── wci00291.vom [e676de906267e19096b9b9e6cf404a268d836790bf2088b5f73687503d8a7ecd]
@@ -241,16 +227,7 @@
 │   └── 600
 │       ├── ete600a.vxe [5e5b1d382ef4b8d224da3800dd27badf050919d73caca3557afecd5cb9ede98a]
 │       └── etern_ii.vom [8e8661b69bebe8b2d5066a4b78f12757987ab77ce94ba8cb73713ea74f72c523]
-├── extasy
-│   ├── 279
-│   │   └── mmir2791.vom [445b7726e97e3fa736338260ff9e94de0e6de5ed222494d2096432cc44b5e837]
-│   ├── 281
-│   │   └── 1c447067.vom [4b40d406f9fd0f73f35e109c03c4b60590fef42ab7c8be32948a3c8a88fdc73e]
-│   └── 282
-│       ├── mmirunk1.vom [21dc6795c500c6786ab05e8cb0cf89cfc9983a7f60a6dcca8f0802f7f7893b98]
-│       ├── t6.vom [f41d4fec074d292430b178f0b3b6d8d5706a87c94a46b14bca7e942e60b99a39]
-│       ├── t7.vom [449a149e44912edfa7e25cf63b479cd44d46316dd77d184334e58c85a071a7a5]
-│       └── v4995.vom [24874ee7e951467fa6a2e28eeeb10ef1ff08b08f081ae600ab451bde3de1c749]
+├── f-prot316f.txt [28dfe045812a593de4ec6aae9f77db225aaf95c75a76bbdcd55e005aaa012812]
 ├── inv_evil
 │   ├── 768
 │   │   └── bio2.vom [04a9f8274e07c6ad54a79e583d04bf96c73149567f0a9f4eccd7306afeb42902]
@@ -320,6 +297,10 @@
 │   └── 1529
 │       └── 4.vom [16203d19bf4d4290ad2a94bd5c043e579a0ddca3011715ce52444b1e6105ce7e]
 ├── markedx
+│   ├── 110
+│   │   └── virus.dos.vellax.110 [2ed246e27dfe2e119da2cceb3452ddbd76cff95cad34ff82b96dc62d25bdc7f8]
+│   ├── 304
+│   │   └── virus.dos.flood.304 [f054d72458b70d6168e186470c2154f8a04d223092079d3e9e922cb0b8649686]
 │   ├── 347
 │   │   ├── markunk0.vom [ef1192db2902fcaaba3f1497d31f9513686fc1145850424ce144b895037fcef9]
 │   │   ├── metal347.vom [ea9894116b748ef2b098256cd85e487a0692998769b0ac35624b97b20d62413d]
@@ -335,6 +316,53 @@
 │   │   └── marked-x.vom [3057d19248b39ba4d425b5866712930dff8ba2fddb7a00138e918e6093bcf3c2]
 │   └── 355
 │       └── marked-x.vom [4cd9969e104cb96f32467e28f0bcb6002fef2916c077198ccc831454d491cd02]
+├── mmir
+│   ├── 238
+│   │   └── virus.dos.mmir.238 [fca1053b153064eb0341a0f2ded95a3129e4ca8b060102bafb0005366dba377e]
+│   ├── 240
+│   │   ├── id.txt [53cd0327b422df77b09704e91942848605593d28fe8910e228f30c3a0f9b82ea]
+│   │   └── virus.dos.mmir.240 [8e78dc53fbc8acf2e5c95bc5cef611990f94ebe18cfc39e5789ddd42c9a25fea]
+│   ├── 268
+│   │   ├── a
+│   │   └── b
+│   ├── 278
+│   │   ├── a
+│   │   └── b
+│   ├── 279
+│   │   ├── a
+│   │   └── b
+│   ├── 281
+│   │   └── 1c447067.vom [4b40d406f9fd0f73f35e109c03c4b60590fef42ab7c8be32948a3c8a88fdc73e]
+│   ├── 282
+│   │   ├── a
+│   │   └── b
+│   ├── 283
+│   │   └── virus.dos.mmir.283 [d83cf0045c7453744efd8cd196782d1fa39eedb0c2199291a5cd75c3f02b61a9]
+│   ├── 289
+│   │   └── virus.dos.mmir.289 [481047c8fda7e3e38adc64a63077dd3904240ba37d4b3e6cb8443f8efe7bb3ac]
+│   ├── 348
+│   │   └── virus.dos.mmir.348 [8f021d5e504553ec980811044b78815337d17694cf558ca54ee73df059c9f226]
+│   ├── 392
+│   │   └── ravage.vom [a6e00a66d770cf97c2c4bda766b0c7795187abae8a10f2dc05b4b13c1b3db469]
+│   ├── 393
+│   │   ├── a
+│   │   └── wci0245m.vom [33eb2b6b19e65165f0168e8db8cec5f85519107588b54836919822fb42efd6fa]
+│   ├── 410
+│   │   └── virus.dos.tower.410 [fc4f2444d18c746fd4e506eb430fe09492aac0515f1a44a2900ad3455596459d]
+│   ├── 411
+│   │   └── towerv1.vom [150003d6ff5062d9efe7ba731fc6d7f9af79aab356f85ca207ee57fe41a13a52]
+│   ├── 421
+│   │   ├── a
+│   │   ├── b
+│   │   ├── c
+│   │   └── das_boot.vom [0f0382cb0575664a99ff605b475fac749f33cdcc04e7b2540ce8aa2ddf0cc9c1]
+│   ├── 423
+│   │   └── mmirx2.vom [1019eb8c9fe3548859183eee15987a2232820b28617c456abe2a234783e1299e]
+│   ├── 441
+│   │   └── binobses.vom [a6ea23914e5ed6373d07339df9f22c20468d639a7a0c8821ceef8329971e5eb5]
+│   └── 444
+│       ├── binobses.vom [02f94e6ab41953c990bcbfedbe0e9d51f4854c979679cdf1ad0ea58607a3dd60]
+│       └── wci00423.vom [0df56bd8cbf3789bb3c91877ffd1ef0d33cfd0286968d7de210677e5338f3df9]
 ├── moonlite
 │   ├── 338
 │   │   └── moonl338.vom [83084be2428cb39fea94a71c050ee246f28b3a91da965548c091d6c037eb291c]
@@ -373,12 +401,6 @@
 │       ├── t3.vom [506374defe2b993d89a830b75913dbacf99d171ed05479f6813e2332a84a0f81]
 │       ├── t7.vom [938b93c857da3cc7a51b135b8d1b9589a17bc73e8758e04653a111a238434686]
 │       └── wci0758m.vom [2a153f64ec093d3969ef78b6cc6603b3b00aafecee98f2de535b417991e2f63a]
-├── obsession
-│   ├── 441
-│   │   └── binobses.vom [a6ea23914e5ed6373d07339df9f22c20468d639a7a0c8821ceef8329971e5eb5]
-│   └── 444
-│       ├── binobses.vom [02f94e6ab41953c990bcbfedbe0e9d51f4854c979679cdf1ad0ea58607a3dd60]
-│       └── wci00423.vom [0df56bd8cbf3789bb3c91877ffd1ef0d33cfd0286968d7de210677e5338f3df9]
 ├── overdoze
 │   ├── 470
 │   │   └── overdoze.vom [991e446ff12c97bec5479b39279f7b11ff3bccdfdda829f4f8043896fbb69bbb]
@@ -487,12 +509,6 @@
 │   └── 995
 │       ├── push_995-001.vom [c4c1a389be169fbf12e7e8f473edfbf74f2046ac3b46d4de967ed2121787cc1e]
 │       └── push_995-001.vxe [3ff155124f0487f127ccdd3d1a1de70b8855bc41a1aec82bcbb5b0195caf51c4]
-├── ravage
-│   ├── 392
-│   │   └── ravage.vom [a6e00a66d770cf97c2c4bda766b0c7795187abae8a10f2dc05b4b13c1b3db469]
-│   └── 393
-│       ├── a
-│       └── wci0245m.vom [33eb2b6b19e65165f0168e8db8cec5f85519107588b54836919822fb42efd6fa]
 ├── rsv
 ├── salamand
 │   ├── 888

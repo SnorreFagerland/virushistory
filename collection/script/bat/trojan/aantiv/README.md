@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── trojan.bat.anitv.a.zip [b6e6bb431eeb6af1fc7d2125109879aaf453a8002b35840aa25c5d5d3d31dded]
-    └── trojan.bat.anitv.txt.zip [47ce23b80715cf15b4ddc5c111a03db978b2f466e1ddfa8f7552dc99f8df85d0]
+    ├── trojan.bat.anitv.a [54d96ae6783a849e692d85c7433d69ed3af45d26505efb1afd72356efa3b1c14]
+    ├── trojan.bat.anitv.txt [9dc2f5088c0123849bd43d9448ed9af354ee122fc8e824ab8dabb9d931cc772b]
 ```

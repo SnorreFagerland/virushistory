@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.krusk.zip [cda3caa3226ef7f7b35ab0f761569c7a53303a5df0bce8e00ed65d049cb38565]
+    ├── virus.msword.krusk [7e4f47aa3a65ed5bc99d8bdbde58fa2964bd48fd872231a115ca4e7ff54b7a7d]
 ```

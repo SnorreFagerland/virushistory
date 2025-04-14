@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── hider-a.doc.zip [e7bd359eb05c5e954fa8eab6b0b93c2553b3d8c365b855c2c92b84972d7770e1]
+    ├── hider-a.doc [9781dc50a1d91986555778b99306bf41b572bf7cfdfffa947ffe705d26475a3e]
 ```

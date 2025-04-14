@@ -3,20 +3,20 @@
 
 ```
 ├── 116
-│   └── bat.mf.b.zip [d0d1e929933e331a3f455f77b61ce009e9f1a34a640fe338434576f77b734e19]
+│   ├── bat.mf.b [8a5b032b04ea1c4e3d2603189350be5d4e2dab28a63b22990ad9397791446a81]
 ├── 227
 │   └── a
-│       └── bat.mf.c.zip [4cdc4c942da8c50bbf14bd03e8a08fcb5b55c53aa6088ba9767d8a05aafcc762]
+│       ├── bat.mf.c [b7f4db8c3aef859790034122f25053fd39f1fb776c9c6c6902cfaf6ef9356049]
 ├── 251
 │   └── a
-│       ├── bat.mf.e.zip [42822f207a1dd369227179209136c19c71548d8f2ad7df3fc20ae5d29e496bd8]
-│       └── virus.bat.smf.h.zip [8b56a33f1d7068f57358e29af42823046076b1a8dd765304646daf6a88816411]
+│       ├── bat.mf.e [5458aebcb2c00caed60ca65dc4cbf3f27bb11ec0819aa3763b477063e5209db6]
+│       ├── virus.bat.smf.h [1a2f3ec7223c2580f63e7ed21e1ec12a78084f35b98800382e4ffe6d26911c23]
 ├── 282
 │   └── a
-│       └── bat.mf.g.zip [4c5415e9a52bea7bcb2cef3aae488bbe3f0e066b3d1c5b61728b307f6f7d136f]
+│       ├── bat.mf.g [6ab2fa8a10ea6dbcb205c5282c850b7b40cd66ac72ef95cb48c0b9ad9e564f93]
 ├── 290
 │   └── a
-│       └── bat.mf.h.zip [872b8040198d18bd881688ba104228e89434bf9f9bcd9b081720a98a7e3bbdf3]
+│       ├── bat.mf.h [51e291a51158f1eb488bb3a199535b95ccbd0b81a07e59771865e29c1bc4f5cc]
 └── d
-    └── bat.mf.i.zip [6eedb8a94ecccf891223c5fe7705c81cf373ba0934a86970e0644face05f753c]
+    ├── bat.mf.i [727f43be3f190aa9463f32ba3755408157386f70ed35c387958d5e49ce082990]
 ```

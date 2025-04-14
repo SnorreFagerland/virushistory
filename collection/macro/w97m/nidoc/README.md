@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.nidoc.zip [98c449212f6b2ce38b657761b94e2871311bb009462ce3e4b1a87929095b6594]
+│   ├── virus.msword.nidoc [592b89b647b327e736a1cadd13c735d1c2c8de99405c535cc5f25564a0de801f]
 └── b
-    └── virus.msword.nidoc.b.zip [0bcf529f7aeb66af3e0c4c740f6d510c44433c814374cd448cc02fa64bf38ee7]
+    ├── virus.msword.nidoc.b [4f2e944ddcb4f75d8958c5445da453af73f0a3b127e83edfe783f26c8a0a5bb3]
 ```

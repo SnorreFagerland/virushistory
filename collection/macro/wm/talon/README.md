@@ -3,34 +3,34 @@
 
 ```
 ├── a
-│   ├── talon-a.doc.zip [9a03512e3b940c1f7cb6dc25efddc8cf61d2e1ad9d5aeeacc8573558dd82a64c]
-│   └── talon1.doc.zip [7432fc31f4ac9dbbdd5cf7491659091f6c51bc1b871302e6bd007433055db7c3]
+│   ├── talon-a.doc [d040a225296e1e4d0a27234350c9ea82396511702847366517812d71c4ebed9d]
+│   ├── talon1.doc [e10b8693caa64be2fe56dae8623dfef6896b3147b9fecd80a84dae3c0d956a29]
 ├── b
-│   ├── talon-b.dot.zip [a4a62e9a4ef7cb224deac4a679aa0dd1665973af7da8e26f06b8bcd3b9f40f20]
-│   ├── talon2.dot.zip [36b1d4e92d0bfbcee7e29049420198797886459877172a934d1ae0c0fb4ca9f4]
-│   └── wci01773.doc.zip [236527e6bd2806f87df8796f4274eb2df0ced9d2281f4858f8efbbe97405381d]
+│   ├── talon-b.dot [3e5b0ec474f776522d0963e9bccc85d78c7e099d8849113b752b4f333bb0f0a0]
+│   ├── talon2.dot [5449bcd5f83dcc9715135e10efe5164c45c82741887ebbac10106ced3746217b]
+│   ├── wci01773.doc [798fb912c188be056ff5dfeed5c87edfc541e54fc3f80c82a02a17330f5e6d39]
 ├── c
-│   └── talon3.dot.zip [35a2450fd62bb7ab6fbcce46a5fda77f4e993c970111e8bd3e97213ffa7461a2]
+│   ├── talon3.dot [0f4662c6733a4c85075c6d03a381c68fbeae1282e7bfa6144af8505f248a25f6]
 ├── d
-│   └── talon4.dot.zip [1d2a0c6dfc31becb705bc980722c584ad8d8274f140aae729351514f42513ede]
+│   ├── talon4.dot [420e7e74ed93cee70724be1b043c62612a4645e45c03fc16c968103357a63d21]
 ├── e
-│   └── talon5.dot.zip [d4bfcf03999be0bbf6d3ccd43087ed96268a781dff823ff2dab0146f8757b634]
+│   ├── talon5.dot [9c47fa8beb4be24f1e7a67e97b197f9e56f5e04bccca5bea3e2024ebf9112e4f]
 ├── f
-│   └── talon4.doc.zip [4c68b3355ff3ba6ce48ae3553701369ca2d3dc15c576221b72f63044f4f7a730]
+│   ├── talon4.doc [48f32ff3741f071d2b13917faab6dff12de681a713aa1faff3287ab13eef1bad]
 ├── g
-│   └── talon5b.doc.zip [b353840067f1f553270be47b63c3f83b267b7fb8bc57052c748686da6c731453]
+│   ├── talon5b.doc [f9870e079bfb79147aa5ffc0cef8f68651e6d1fa24a8593641a2d23c9eeb7751]
 ├── h
-│   └── eifel.doc.zip [a41fcffc53b08c9c9f2d31d3cb91a8041ad9bd2c82c215d739aeebe19ae3d87b]
+│   ├── eifel.doc [61f23d46717b16274d0d1da59ea46436fd32e948a3e6bac777cf7d85e7d215b7]
 ├── h1
-│   ├── talon-h1.dot.zip [6a7a24c2bc53489021eb2bdfa0f809f61a00751b9c1186ab911c68489e7fb411]
-│   └── talonh1.doc.zip [408bfe5d7b8e4bf18038f6cb971f0d20cca6f4644cd3fe7bb34b06338f110f8c]
+│   ├── talon-h1.dot [753372b0c6e4b95866e9b1a1bf8896635589b585177305bf38cdc99d9bdd1808]
+│   ├── talonh1.doc [6ef33987e6703a8c93df78adc677ff40274ed26608a07b90f5144b69c039b26b]
 ├── h2
-│   ├── talon-h2.dot.zip [cf649a3487fbd3b7de35847e2aed8bd42eec35b43dc1d45ef10a8802639af71a]
-│   └── talonh2.doc.zip [c26c286b01f610fe0a204e604323829c1e8f7c1b9cd3bac26d9c9638daa4f389]
+│   ├── talon-h2.dot [3dfd3c73cb890e0080ce587e3fcdf069d196a6795e134e030b822cb4272ebccb]
+│   ├── talonh2.doc [c8d7eb9d204e5cbf0e4711210ce54084aab646fc01f26ab7ff11440e44d49ea1]
 ├── l
-│   └── talon-l.doc.zip [6b4aa498162f71a1f75c2c178b81dd0f74790ecfde3361824f7533e41dcebcf3]
+│   ├── talon-l.doc [b9ee44a9074612c3aa295e654d250c33c29967dcb8bc4a7c5c4685f7d377eeec]
 ├── n
-│   └── virus.msword.talon.c.zip [a62badfd6421b93ff31f5b7bcc15a10de20baff6b466f50aeb3cbe5cf683398e]
+│   ├── virus.msword.talon.c [73ebe1e67b243977aa550c29f7b6eb7d8d7e49b4546b43fb63acbcc8bdb733e7]
 └── q
-    └── virus.msword.talon.o.zip [da51b9bf31c874be2f3da68e1f0f4dffb4284362f751c30773f3252a2f3aed1e]
+    ├── virus.msword.talon.o [e2bd733eb3e76b8d3d60a8ee759972f2bfa274c926066316150d9ed0479f47aa]
 ```

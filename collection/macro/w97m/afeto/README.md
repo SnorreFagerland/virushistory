@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.afeto.zip [9ffbe25a86e6cf2f8e215aa3d05ff6c41fdafea8e5c6ab775a5a46af57a1977e]
+    ├── virus.msword.afeto [c32efd1cf23c9161dec9292d0aa1c4c5916e67b82668a430ea7b8cea4327928f]
 ```

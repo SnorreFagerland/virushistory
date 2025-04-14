@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.bat.delirium.a.zip [9e02aa4d0d0623a059fbcc4adcbd01ef0e0aa62fdcb4343f47179ba589cdff59]
+│   ├── virus.bat.delirium.a [f22bb6fbc32969b4efbe73297ff1b0f0f9c6e306ed74e30ca1a4cc151dee52a8]
 └── b
-    └── virus.bat.delirium.b.zip [7d6b499c2d7c95969d4dc753c2eafe8ce68a6b7e8f2430b6043b8d192dfe381c]
+    ├── virus.bat.delirium.b [d17cf5233c007c6ff632e6fb8287196e7ac6a14363168a6a3f950f8e4a53bd2c]
 ```

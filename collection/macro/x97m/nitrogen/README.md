@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msexcel.stars.zip [f9817a45a72ab71067d2509f85c860d011b3b858f48afe69854a9e7a6b402012]
+    ├── virus.msexcel.stars [95991ce2006d1864b2701466a8ee29fcaf17c2629125f0c67e314a90ac4d1473]
 ```

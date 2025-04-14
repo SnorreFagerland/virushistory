@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── trojan.bat.kaskad.b.zip [29f83138e1337e28caa00f0a803d12ce3e05e151651159230dc5d407a7e12864]
+    ├── trojan.bat.kaskad.b [7695b9e5de7beebe390754f8004d8ea74c6aac1e1820a324c5dd4573f3d1ee3a]
 ```

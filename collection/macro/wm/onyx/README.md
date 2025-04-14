@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.onyx.a.zip [a79ad5cd4191fb6036cc6335b96789b4073afb345477717c2c852d073dbc85cf]
+    ├── virus.msword.onyx.a [63129fec4e806b30859119d9854cd6c6087b436b44eb5b505e3a5aa335c8a0cc]
 ```

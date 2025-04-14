@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.tarap.zip [f3210e6050d44a797a9163634fa346d2bcfe60fe46a2b6655c738f539285f90a]
+    ├── virus.msword.tarap [3c575d36be7ba4b2a59b37e09ef2c66e4cb31dc1acb99c9be1bbe4ca855bd453]
 ```

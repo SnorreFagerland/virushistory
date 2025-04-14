@@ -3,6 +3,6 @@
 
 ```
 └── b
-    ├── AutoSpread.doc.zip [7f37d73eedf0d5de4e81b07f8ef5a760a8b31a73828ec6edb5cc9d85ca769591]
-    └── beko_b_m.do.zip [1c9adf02619d8add3e3f1ef5d184bc73ab89700c76c23e65690b27fe1f7189d5]
+    ├── AutoSpread.doc [3ab8f56286e915dcf5656d8ecba063be06bc9dcbf23139f67a5bac0a413494fc]
+    ├── beko_b_m.do [9df28c1c6a20b91a2fdc83a7e491fb4593728e727ca9ae3e6cc216602ce5f888]
 ```

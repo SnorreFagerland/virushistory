@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── trojan.bat.metka.a.zip [b6f61f1218625950bdcfec43e8196ec7ff1f30141e52163517c1ed70f5860690]
-    └── trojan.bat.metka.b.zip [745887dd5db55904491497421d3defb7d1f123743939ebc9f39203ab046b3081]
+    ├── trojan.bat.metka.a [5a08de5fd710d1dee8e20d176d197b95a946a57f6eb51d66896ffce02b224a70]
+    ├── trojan.bat.metka.b [562fbff628cd221be7cc6eded3d7cf70e9669d6fae7f5fa92066d03803d8a8d1]
 ```

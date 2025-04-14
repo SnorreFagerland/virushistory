@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msexcel.rippet.zip [8835f21b04edc636039856dac9d06b00ac0af60176eebc8e8fdd41b6d548aedb]
+    ├── virus.msexcel.rippet [8d1dd4ccaa4417e2276bdf2aeafe9b660fdf8b45514e15b429914d3ae0b06e8d]
 ```

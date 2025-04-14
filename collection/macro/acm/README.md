@@ -4,8 +4,8 @@
 ```
 ├── nunus
 │   └── a
-│       └── nunus-a.dw_.zip [b3e26ab33240d9327c31c76278bd7e553176bba4fd0d023975d141d33214e24a]
+│       ├── nunus-a.dw_ [1d3afbba143cbb4fe2d4a036159af692abc4ec499e3e1fc289ec0abeedff64d5]
 └── star
     └── a
-        └── star-a.dw_.zip [ff7a6d3bcea9d9a833f98ec0c7ee5c3fa1d4cc80160db2e3c72a4bd16dd1971f]
+        ├── star-a.dw_ [1fb24016f84d9b9dc22951bdba5d19527765deef7d5ff00ae812557813d5c1c0]
 ```

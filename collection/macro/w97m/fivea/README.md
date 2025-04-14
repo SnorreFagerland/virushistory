@@ -3,5 +3,5 @@
 
 ```
 └── c
-    └── virus.msword.minimal.lv2.zip [cedca0e4a1e9c1a2a3e985fd410cd98ed503ffee2f9190bcdd05b15a04d12120]
+    ├── virus.msword.minimal.lv2 [61a6e56a31dc583d6313960ccf3533dbadb11c9332bcdf7625a9e9da79c3c133]
 ```

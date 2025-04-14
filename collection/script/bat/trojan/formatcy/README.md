@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.formatcy.a.zip [7f4ce923ac36b2ddd608c3e78ba2218f9af21008a162b0355d69ba643a5649b1]
+    ├── trojan.bat.formatcy.a [2c87fe139bec59d1a2c392ed1c6c43310e289c65049442a41dfcbe06d637afab]
 ```

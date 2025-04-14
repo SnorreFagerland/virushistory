@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   └── bat.small.a.zip [547819d7360088c06bb3db7d0253915710b5a995e722fe71ac94662347b0954c]
+│   ├── bat.small.a [79e71bf45603edf205d40566362d0b04440d2b208f6bec21e353716d578ce57d]
 ├── b
-│   ├── virus.bat.silly.aw.zip [dea30191addd59e7f66402d77db704a1d262bd53911c88d9e9d32a80432ebf46]
-│   ├── virus.bat.small.b.zip [5443e3b2af2fe82ac1a75f1c75fd9e73922b6c045d5d98ba8db40c27caa9c43f]
-│   └── virus.dos.trivial.84.zip [9b3b0f2ea88be1b979927a05829f79c3b5f3e64639bd17d89aebadd19a606cf6]
+│   ├── virus.bat.silly.aw [80931fa0079c3d458a578162edbae7ac5c2e9c75f60afa50744fc28696d5ba19]
+│   ├── virus.bat.small.b [9de3dd378f217a2620ccf5c2ba6a1cbbd904dcd06fe546eb01a9c2c1cfb36bf4]
+│   ├── virus.dos.trivial.84 [86366260ea17732208a404107eeb3466f5eda9f4604e8428e7ccb81e010fce5c]
 ├── c
-│   └── bat.trivial.zip [82a579d61d844e96b933420c5886e7f56792fe70a3c74fc10a402be4c7293448]
+│   ├── bat.trivial [7b7817e0d68e9c29cabb6801c5bb81d1a03e2e00357f37096c2fd2a625d22c57]
 └── d
-    └── virus.bat.copier.zip [12af43442de8ffe89d41c41c8e0949e9429c86b9276a3776bbd9e86867ffbf34]
+    ├── virus.bat.copier [b3ae301510f86c09d382a7539a4d88b8e1d4bdc5674ed38854de70475fd055f3]
 ```

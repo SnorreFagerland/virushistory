@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.codefore.zip [f7c2236fa1b9596e4b2f6deee83a2bdabbff8774ee2e0318b053413f33a13eb1]
+    ├── virus.msword.codefore [396f23bfdeb7331d21b2544943a9d1b281fe24b68cb9c60bd10b11e583cfad7e]
 ```

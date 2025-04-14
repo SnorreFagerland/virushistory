@@ -3,41 +3,41 @@
 
 ```
 ├── a
-│   ├── proverb_-001.do.zip [d563b9452ddb320aa49731969ade2f80051f6702f87b11a8c705d8b2adea30bd]
-│   └── proverb_.do.zip [1c4f6b048a29b8731c72585ba47d2b0535d6e4baf53821b3b93141829f3bb233]
+│   ├── proverb_-001.do [11155db20f59a200d371c7fd3cd662f3bc7bdc35dd96f7d08624f1d28818bde0]
+│   ├── proverb_.do [0b4f7c781a2736164ad9a45f384006dca74edc253503be21be7a9a6d3ebaa317]
 ├── b
-│   └── proverb_.do.zip [2ff431f596786ba0a6a406dc36045be503d2a11f2d2e3f7b1e7bb6d89b15249c]
+│   ├── proverb_.do [3d41d55325885711a7fc2e2880ffe624d80920de60c6dc4b31c9c0529536930b]
 ├── c
-│   ├── proverb_-001.do.zip [51c85718f5c3e09693c5907266f6b124065fd6e0206db1a3fbdcbbebb270717c]
-│   └── proverb_.do.zip [fba65836d99fceb7ce560f0ba5633271a5422840eb65d89dc650c9b0a55166f0]
+│   ├── proverb_-001.do [93e2970d93578e23d1689b8b9d6ab6159b9046e2c58dde4f7ac3deeabd1edd44]
+│   ├── proverb_.do [30fc965e49451205f58cc6b0fe40e7feb138508028309922ac77ba96abbdfb2b]
 ├── e
-│   ├── proverb_-001.do.zip [2b158a949063b8f86060ac08646df829d0b1f106c3ce58f9062eacee95c2bebb]
-│   └── proverb_.do.zip [3f9572ae1f36d07a7f20d2ad9b4ab63b0ae96f751bf610dd4ccf61c5de7c3e99]
+│   ├── proverb_-001.do [d527105d4c9053e7672ad30cdcd3f4e8280d66b91b201d975d9c36568e3df42c]
+│   ├── proverb_.do [495c37ac8611915b1cb4c544c026a0f9fee71d16ec700bf0efca0bd483f629fb]
 ├── j
-│   └── proverb_.do.zip [eef05fb9797cf2bc76299697b22585a6e0ee8b50e5f7887fa43952ce93432201]
+│   ├── proverb_.do [8998d704cb1c9ce490bdb7336a3cc1b73164a75739a63ec491499ace9bfcc45c]
 ├── n
-│   └── virus.msword.proverb.m.zip [6a6ba15513753e63c1b8516b599ae556d5b8703b039a416c16763aaeb9cf0fb7]
+│   ├── virus.msword.proverb.m [161c9073479e1d67f10a86a02f73f016db05107e9ab060ad29687fbb065b2bd3]
 ├── o
-│   └── proverb_.do.zip [90eeba959d5d4b5b949d1b5904e268a649888d98e9dd48ee403c5ce486fffe66]
+│   ├── proverb_.do [97a9244f1494495e08b11d5abd20f33761e37fc26b5204afd3fe0cdd9333a2c7]
 ├── p
-│   └── proverb_.do.zip [950f1baed8fc569480458c3bae0977bd29a84179700edc5278f576651c20158f]
+│   ├── proverb_.do [19f23180a69e1da6930d9e903378ff41b79cb5b59684356620f94c8465530350]
 ├── q
-│   └── virus.msword.proverb.o.zip [704278c9d3983f5b719c48a14667c87a4cf212f835c3b436e42e1960237a77aa]
+│   ├── virus.msword.proverb.o [900137baceb949c6a5a40e6a7a699eb7cea6ee66a321a3e37a965d83a2f87993]
 ├── r
-│   └── virus.msword.asis.zip [3f3f4ac14ccd941ec27e18fb11e66eb960457d4f08b6186226c6974ff4aef4f5]
+│   ├── virus.msword.asis [cf978d53c075dfb35992d4dbc6e1e5f569e07a2ee6057ecde747cb269b49b218]
 ├── s
-│   ├── proverb_-001.do.zip [1e494d7f9e9f5b5dfc3c6a246b0df0dc0a2c945a879f0bde00bf2892b396cdb7]
-│   ├── proverb_-002.do.zip [2fb173e07588bca861984e29778694159b6f19d1cf9d40ac6285a2ba71b7a241]
-│   └── proverb_.do.zip [774317bbf1a9618449e2ddbdb150e043c4bc7048e47bf9d19891f8ca611ede6a]
+│   ├── proverb_-001.do [db58b31112d3f6a62d0017080a23acf5ce3346be8e83e1d33a43305ebf68250d]
+│   ├── proverb_-002.do [fd170639664d2aed42563cce391ea0a563e6ecdbd05bbf2077e2746b3389dfe0]
+│   ├── proverb_.do [a0abdb0a986f6cee3b629119708ae748b62d86f4611b98172244b2f3c39f04d3]
 ├── t
-│   └── proverb_.do.zip [82af55fb078ab556c731c467ba300dbf3f61d0e0d3a686f73e805023b5163c2c]
+│   ├── proverb_.do [462a65d222092d951d6ee017bb78360e0b7cc7c90caa088f7de8e5f758d99bfc]
 ├── u
-│   └── virus.msword.proverb.u.zip [0e0646ae5cf03d3d49ed860e15da041c516c6535f71e119295b162366ebff7e1]
+│   ├── virus.msword.proverb.u [e898996141236c1cee37b284c26dccd37cad7b9a52ebdb0056b036580b812038]
 ├── w
-│   └── proverb_.do.zip [993e184bde3a77765e995f75068f65c5dcff6a02c5eccb9d75f7699c78c0d623]
+│   ├── proverb_.do [d0f86a72dc94012da5b6cb145f9d264a6cb2a22dfb3d9c03bca7fd14c000d3b4]
 ├── x
-│   ├── proverb_-001.do.zip [003f7c4b563f6db28f74b7b42ddd0533ee8d4bc4b68bc0c8e9ee033b8d44b7c8]
-│   └── proverb_.do.zip [9a914d63c9145f582bbb43fa2cb55a8fdf4409b58a962f105863b5ae7fb25ed6]
+│   ├── proverb_-001.do [c47b7ad586ac8d2e0570e9174fa6d44fffee527294eacf8e332d3d99f27f5e95]
+│   ├── proverb_.do [a4be0e2246e11595f5a0bc9e21dffc433f5766dfa8c394d2da8455aa67f31137]
 └── y
-    └── virus.msword.proverb.p.zip [74974d76cb1c55d6403ac65482a097cc5cb60b96215b3e6c35552b923f8dc3b4]
+    ├── virus.msword.proverb.p [1a7cbfa61ca3a34779477393041738fca64e35ff99bcbf14579db24d519a4072]
 ```

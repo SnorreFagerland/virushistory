@@ -3,16 +3,16 @@
 
 ```
 ├── a
-│   └── virus.msword.nochance.zip [5e2efad63a7397f6bcef57961008faf31c01ea77ba206058af761b0ce9ab05db]
+│   ├── virus.msword.nochance [90bb7cf5e0d89991d9e099392bcb75993b471f1a25974265d728e6142d85a206]
 ├── c
-│   └── virus.msword.af.b.zip [555911c6cbd1d91ee4bc49fbfcca1147ef147388653a10dc288e5ca701eb5fce]
+│   ├── virus.msword.af.b [1cd0bc92a613258f544b12b3a65bf912c3dddafe53aee21ee8ca3e2026365585]
 ├── e
-│   └── virus.msword.tb.zip [81656f2a850ff3a4843b3927a514ba74b9e529f76f1a9013402e0b5b4d8a749f]
+│   ├── virus.msword.tb [3a511e461a9349bbd10023687bf4d3eb91767b889172041580fe233f62d90bce]
 ├── f
-│   └── virus.msword.nochance.g.zip [126e80bbf0c7b69aff8121007f1d66581df8252fb43ee0839b9ed8656e4aa54d]
+│   ├── virus.msword.nochance.g [dc23a62abfe2d05b5ef5e5cac88fcbe1afbf6d67b482e437be8ece3e3252a82e]
 ├── g
-│   ├── nochance-001.do.zip [93bb98278da5ea266a1ffb4ba734cfd1717caab24b9d62dee032e50b51d2fffb]
-│   └── nochance.do.zip [267d209cc88840d7e66a4d69e1fa53b761fdeb1283e323e24e83edf75d4e1dda]
+│   ├── nochance-001.do [1b6134197b9aa050f9d4ae4cc77e6942e1a8faadcb1ff4f0c6ac34c57964783a]
+│   ├── nochance.do [166cf3bc642e316742334e3c02dff7bf907ccc93f47baed941518ce36877d0c7]
 └── h
-    └── nochance.do.zip [12990d5294d36ac18a6a43cdb2153940b650106b47fd4575bacc34618672cca6]
+    ├── nochance.do [384df0bee2d394f1a91a4c9da47c761b3f80ca43e4f53ce9f5b98eb143a3f5e5]
 ```

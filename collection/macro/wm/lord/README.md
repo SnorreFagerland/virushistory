@@ -3,9 +3,9 @@
 
 ```
 └── a
-    ├── lord-a_1.doc.zip [beeb65cb64870379a955fabafe59a2e8644726d4f7fd11634afad8ffa8e98dcd]
-    ├── lord-a_5.dot.zip [5459daad8bf18a7bf25025b7a2247f0648f8a324ad909c4d7dc8452782b9f9ad]
-    ├── lord1.doc.zip [e855f608534e7cfe4d4ef93b7ee7ab22d78834b9556c7b887e2ba4bf5bb2ed83]
-    ├── lrdsatan.doc.zip [7fc4027be3003f4fe34fd39dc892ee4193995ac36ef66841df71cdbce2794e15]
-    └── lrdsatan.dot.zip [36f7955b3dfa22e57b64cfc519324169ca071a8e9c04f88127f96baea7ed0103]
+    ├── lord-a_1.doc [59fea1822ae4db4590442d01d8e080c207c191c4df25b1256297d91f034ed66b]
+    ├── lord-a_5.dot [e227bdbc884da29bcf4f25ca617e63e509db2ad9e2341cdc514ea80305e1cc89]
+    ├── lord1.doc [99a29cc317e552fba0aa3466b50e19fb7472999998f8a2a4c1cab9746737c59b]
+    ├── lrdsatan.doc [8e4eeef310515641840dd44decc4078ce22cd93ed5f8b76734a4ee55adb01f26]
+    ├── lrdsatan.dot [47dfd667e93c9d87ca33c8bccab9183789d6ef0729d7aea76055aefab0b8c296]
 ```

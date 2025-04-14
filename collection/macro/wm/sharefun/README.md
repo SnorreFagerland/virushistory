@@ -3,10 +3,10 @@
 
 ```
 ├── a
-│   ├── shar-a_2.doc.zip [ea3ef167fcca410d98415be8c5decb9667397958c27d4ecb48e83972b56ad47e]
-│   ├── shar-a_4.dot.zip [0a8ce6d24be9aaea0ec850bbada8bcd50a62288a9fd45183f12c3bfd8e285145]
-│   ├── sharefun.dot.zip [58e3710a5017183324a8115346966d68e67f3525bb16ad49ec584ea02b7034c2]
-│   └── wci06143.dot.zip [36da44b6aceaeac667b4a3334ea5711d84c0eda4e3b8352ab56b70ee4f15f2f3]
+│   ├── shar-a_2.doc [c28f13bfdec8089d4b73ddd02a1306f82f224a99a651e038e976e1ea9406dc7d]
+│   ├── shar-a_4.dot [a531994f41c0caee4ab0be35fd9a0037cc876cdbf5ef6af100decd60c7f288d0]
+│   ├── sharefun.dot [a31989f8dcd1fa913e33aba55291a2a727953b2c55454ed558564aeaea095789]
+│   ├── wci06143.dot [e7354b9a7d4fbfc53b5f388109a8955f2c30e3b704df1e561b3d807e2c6b8c5c]
 └── b
-    └── virus.msword.sharefun.b.zip [2ebbf2c07cb1168ae5ba4b68e5518a5798794385b2577344518871adfc591366]
+    ├── virus.msword.sharefun.b [e3cbdc0977f1446c903d5e8bc839e1229d87e18a1ce453a81e6c32a8442f6168]
 ```

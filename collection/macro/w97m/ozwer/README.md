@@ -3,35 +3,35 @@
 
 ```
 ├── a
-│   └── virus.msword.zmk.p.zip [7282d83baccd0ee15e7ce9bcbe857d0282ce0c06dac7a9ff3ea50d4b5c168c98]
+│   ├── virus.msword.zmk.p [64740d7222426660a61313747565917eecdc7c6aa96bf0443d2080a5ae50eec7]
 ├── b
-│   └── ozwer_b.do.zip [f355b15a9008068cfe5fcf421e221fa20c2454bee5f6755b2b4c841b0456d360]
+│   ├── ozwer_b.do [ff46d6973af1d660c5ebdc872838d73e002a862ae459bbb9d5d4c8640eca2f41]
 ├── c
-│   └── ozwer_c.do.zip [8f2560f29f42c2f62d133308dc02e87e52cab4dcc291821d357d869efd8fe1b0]
+│   ├── ozwer_c.do [548e85c23fff34d85c6d453a72e990149fe5ef5a580179a6da7e76d3ae54b01e]
 ├── d
-│   └── ozwer_d.do.zip [8abb278fb7fdbb8f9a63de4b1fd7361e71c4a148dd838490f12d812d0410950e]
+│   ├── ozwer_d.do [81e31ace0efc35e55f5b56b1096405da3c2fb7a30bc17dab4a71f6b420a01447]
 ├── e
-│   └── virus.msword.ozwer.e.zip [48b9d1e50759e40080ec34f2c1a2b153fb2a29cc249c9207170629eb0e2e73a6]
+│   ├── virus.msword.ozwer.e [6784339c79bbab61f05e77558ae47daff2fa1168effcccd81a5cc0aa0ba16738]
 ├── f
-│   ├── ozwer_f-001.do.zip [11db8ca16b821879ef612b8d97deb334f5b5b82a2b001ab6694001a2eef07e28]
-│   └── ozwer_f.do.zip [499784d917344ffdd88c57793a902ce898e7c41bac1662befd2513fd4a7d7e48]
+│   ├── ozwer_f-001.do [aed60b5e61fc9e3d96b6ad8e57b8a6d7282f8375e66c14fea78bc81341f65897]
+│   ├── ozwer_f.do [84c48c502722727a3e4a7072cac9b6797655d63dd7333f99362048cddf76d51c]
 ├── i
-│   └── virus.msword.ozwer.h.zip [0640690c98e239823dcb6506c55dd55d388bda7cc7c773f2c4747f73eea7457a]
+│   ├── virus.msword.ozwer.h [0978f94cf83e26ae91e7c0c86043e4b8b7a1974c48175aeb06d9095a71275013]
 ├── l
-│   └── virus.msword.ozwer.zip [f105951bd5c2b3e0b81302504d24fa58f8df097b8cbc11c54c3a826a53ce9076]
+│   ├── virus.msword.ozwer [f80e518b34e5c06959fff9df73e89c7ebb67156311434ee6169a4b3bf61cb439]
 ├── m
-│   └── virus.msword.ozwer.m.zip [649a7cdbb8f608862604a2d97bc7ee82bbf71ae8b6d49adf11eada0cad2de6c1]
+│   ├── virus.msword.ozwer.m [e25fa9a3ea155988b570a342da7d758be60eb814f118a44e6e9c3f3f06ee2ea8]
 ├── n
-│   └── ozwer_n.do.zip [d8b0f9cd8c9fc67491f5a2a608698e619ea2612f717b8641e1f4eadfe1417d79]
+│   ├── ozwer_n.do [c9c44035d8ccbcc55bdd73b64864e59e10b35fc91b456ac8b30ecbac986bff65]
 ├── o
-│   └── ozwer_o.do.zip [63a313d4bf082f5638e603422b14a82bbbf1deea5735a485efc7efcda473c417]
+│   ├── ozwer_o.do [ceaffc7bba91a929e3d5677788641e757227411f9b24a4ae00b10cc38323f5c2]
 ├── p
-│   └── ozwer_p.do.zip [494ef74c1686001b0d30ed5c8ede7646fa9b64d467c33d32c7651e819649fc09]
+│   ├── ozwer_p.do [28144394335171c3a9b92ee74d1ae8e663e5c9ec46738ce23836f0170237da2f]
 ├── q
-│   ├── ozwer_q-001.do.zip [428ff866cc1094013f7c1c1565570fa64d67e38ea70df0adbbea0c7e28ad21fe]
-│   └── ozwer_q.do.zip [d546ae42633d3e97fc6d4b8ea3e3aa487d4882fcaa4319307694133a24427a65]
+│   ├── ozwer_q-001.do [ee8bd165f88fed0cbd674a71a17b96989b979b0639e40435f9239db0bfed0bf2]
+│   ├── ozwer_q.do [1ffb620f0d433580a44f4e10276d7480ff1ede41301d50e01866e7b4ee41c656]
 ├── r
-│   └── ozwer_r.do.zip [11c376ec2d721ccfe110cf388ebed35337467a2c0a769cec03453129000cd038]
+│   ├── ozwer_r.do [c2f81054b5a22e5ec9c862a052f3140c12736486f1c481e427a76544f01b8f0e]
 └── s
-    └── ozwer_s.do.zip [8e14c037b8ed6b1e4e74d550ee5783a77eef84943b83adb26abebf0d8d0e75b7]
+    ├── ozwer_s.do [b0458d8a67627205c2e70c8d7baac673ec58a8e5aa846058b45c875db1d99839]
 ```

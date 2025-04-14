@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.msword.mentes.zip [f6983a867fe77c75750d304443a87320f66e72adc9567629ba72e27fc82d919a]
+    ├── virus.msword.mentes [712fd616183d8ec0f219f5579388d14e06c463669fc4b282cf6175c60679eae1]
 ```

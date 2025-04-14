@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.alek.zip [45de23302a03eac9c3282abc33431048e0e6f486ba2b5545e134f39acde9aded]
+    ├── virus.bat.alek [ae33ab6afa7d0579a705cd58ff0fd7557ecfbcbff674a7237d1855a736a4bf94]
 ```

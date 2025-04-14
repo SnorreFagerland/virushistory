@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.vanakan.zip [05220083fc6ebc934fa6317a946105117a101d8365847a3f5b9de717c56f3675]
+    ├── virus.msword.vanakan [5f19c24ef6368231d8abe15db1d4b0105c3da7af87eb85bfb51004490aeec2da]
 ```

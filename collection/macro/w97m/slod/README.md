@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.slod.zip [33150aeae5b73e1177d43e09109530273e97a26c151ad483e93d700db2df749a]
+│   ├── virus.msword.slod [d155dc20f09ac9fb5200d288d298eff917ee9dca81ea692fddeef0c4cd17e077]
 └── b
-    └── virus.msword.slod.b.zip [a7e44ebcb8db3de7ce2dae10276c8b10f83f18b1d060532b4695381555c92ae0]
+    ├── virus.msword.slod.b [f1ce3ae56557665990b0d62f344c5796144cab791b796e80408f5bc34adb6963]
 ```

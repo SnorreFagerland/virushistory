@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.cham.zip [fe2a33cfe06d6c1b88c2dc11ae97cfd9592458d67fc567451ac85e5a2fbfac88]
+    ├── virus.msword.cham [4e8eefc9a062de4759343da00846de98375fd2095bc9929f0f00763a2c3a039c]
 ```

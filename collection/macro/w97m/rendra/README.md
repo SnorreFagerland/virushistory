@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   └── virus.msword.chiao.zip [169512a7dded0173b047e760a879ceee01c275b976d47db4486179a46f20c335]
+│   ├── virus.msword.chiao [f5e71766f1542adfe6cd27fbf64e228aa87d720faed1201debe8969ec8bc4f3b]
 ├── b
-│   └── virus.msword.rendra.b.zip [6b60be4fd67d6bd7694305bba013ad00a444d182b3780a5dbdf96e2c3d295a68]
+│   ├── virus.msword.rendra.b [94159506050551094a894c8ef237d7c10f3be482ad2bd1702d012e9070b73444]
 ├── c
-│   └── rendra_c.do.zip [b3836c17f8c3f84e297c27d6b57e54e2508a29f3aa2a165c5459993bfd00c890]
+│   ├── rendra_c.do [169a58bb736ec3a47ec45dc90f47ad558cb515a21371ba1dd28c421f1d4cfe15]
 └── d
-    └── virus.msword.rendra.c.zip [fadce9f6dcce784d02cdb7fe9579bf3eb1f3b7e9aa22ce4580b089a54be49de2]
+    ├── virus.msword.rendra.c [9cc1c23304b53c15d0275721aa3d9b52cce31ee87bd7f408c3311c0e1fa0940a]
 ```

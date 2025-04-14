@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   └── virus.msword.jamie.zip [029a6cf3d6f6faa3d194796cb90e5d0c1fb4ff925ba88ae98c7b7b9902cdb18d]
+│   ├── virus.msword.jamie [23a57ec74da3d231ddfdaf7cc26e23cf1c107e8b85edb7cc2f9c61af48756f06]
 ├── b
-│   └── virus.msword.jamie.b.zip [b87868cc7c707839f06fb72d1f7c14f504798eb5cbbc353e56348d432b4d3769]
+│   ├── virus.msword.jamie.b [fa4d23963e69ecd3df9b14f94e6e33c1f407300a29f1b8e205a49ad9de466757]
 ├── c
-│   └── virus.msword.jamie.c.zip [c332029da1a0b8b95cc55d6f5c0c713288d7a0c6408ca471541f268580d4aba2]
+│   ├── virus.msword.jamie.c [6f045a44f7db070c147e796a20a16fa6e3e34c59120430dd26267be61ce1ecbb]
 └── d
-    └── virus.msword.jamie.d.zip [3e419fd3da26541e6a8dcfd5a29d64816c2f776343efa765fd88f05bbd2e2d9d]
+    ├── virus.msword.jamie.d [ed9f795192e56d8ce28bfe77796f2a9ef4c770c3e3f65e2fbae6d0bf5f268a0f]
 ```

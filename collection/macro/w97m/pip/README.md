@@ -3,20 +3,20 @@
 
 ```
 ├── a
-│   └── virus.msword.pip.zip [032742f94bc4a80320333777e9badaf1524d74434c5fd903656f056f74d131b7]
+│   ├── virus.msword.pip [eb290cc37bc656cc166abe050baea446ecda5f6ed71b60b6d9171016299b9594]
 ├── b
-│   └── virus.msword.pip.b.zip [9fb9114eb79c00d5fb22650a40c04567e28de55ad578ba44ca7dc55cb3073bc2]
+│   ├── virus.msword.pip.b [3dbab9b730e9ea969e83a5c90294bfbfd84476c5e4be2a7a551a92df05bf4ba8]
 ├── c
-│   ├── pip_c-001.do.zip [4bf7e7fff2db58b9fc16c4b058789d18076150f420058fefe551fffca69c497d]
-│   └── pip_c.do.zip [d3c1d3f2aee73d14b5d3df7d817db801a70334450788e54727af2166a3b5eacf]
+│   ├── pip_c-001.do [f026f895ada6a773ed0b3ffecafce2c85aab4a255d55977d85e26867f1fdee83]
+│   ├── pip_c.do [6957bac06c3cb13a19aed3362708d981124109c1ae7fac0c0dbb76c83018d426]
 ├── e
-│   └── virus.msword.pip.e.zip [5155b9c4b7b3161eea84d29029b70fc904cdafa9781ee62c208de4924bb45306]
+│   ├── virus.msword.pip.e [e17b19a29cd9b7a135635b354d4448bd0014ae19632adf3b39cc1721f27f24d1]
 ├── f
-│   └── virus.msword.pip.f.zip [ecec284761e2f155e8973aeff656b172f4c0ede364e8e6ff205a330d6ba3cb48]
+│   ├── virus.msword.pip.f [32dd4613ebe6fb20ae13f01e40fd5818a72867832d7678c4382d23e3c06dc9f5]
 ├── g
-│   └── virus.msword.fool.f.zip [691828fba377b865e4a2661fcb7384cae2c5e76fe6f80b619cf7774bacb7a793]
+│   ├── virus.msword.fool.f [102074510055b7ec376f81b006785ce597a45d12be38a45cfe67e5dcb9076108]
 ├── h
-│   └── virus.msword.fool.i.zip [daff2ce92e66d5344340a18959fba6347dcce205da708c57307c24d772bda735]
+│   ├── virus.msword.fool.i [ab6d2e5a02a279fb463def7f6154eba631062f77ec5594f9f725dc476d4dbce2]
 └── i
-    └── virus.msword.pip.i.zip [ee1b9b5776a46bf54fac372aa1d5b70a2b69a7780446ffd2870f6e72777d742a]
+    ├── virus.msword.pip.i [c4102d852e807caf68f68e138ed2f75f904425142c055058dd48dcb020772efd]
 ```

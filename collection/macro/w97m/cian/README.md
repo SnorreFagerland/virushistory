@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── email-worm.msword.cian.b.zip [5e0ec4fa6794c11fc06aca398ba56096954c522fdd5e103e5e59b94a74ed42d9]
+    ├── email-worm.msword.cian.b [9c310bfd1aa38435c89af50be212c6b6af0b3158fbba81ebb0cc740c3cbf5b0a]
 ```

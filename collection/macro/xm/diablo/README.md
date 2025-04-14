@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msexcel.diablo.zip [21b15801d6e75b38f5269c1a8fbc0e7af53b8f64546f8112e688280d0269afb2]
+    ├── virus.msexcel.diablo [027a98c271c6df3d2cbb77610852d9507b30954635cecd8473eef4b1a6be30cd]
 ```

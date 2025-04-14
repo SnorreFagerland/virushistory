@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── a.vat.zip [dbf44738baf0fadc20b8337e1d77aaa55e94ac18abb7f9c71865f8fcb2d7039f]
+│   ├── a.vat [87b758457ae5828aff8eb78392e59a6d9a44bcf619d7ac32c76e58a95e3c0095]
 └── b
-    └── b.vat.zip [60fd0534216cc9b68b59f877bcec1ffad6c5e545d453ce3337efa2358620df8e]
+    ├── b.vat [9b66a98b36ed251eccee76a5f4d56efd33ff808db1f391cdb1d52f4d28e546b0]
 ```

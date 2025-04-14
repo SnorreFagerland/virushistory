@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   └── virus.msoffice.toot.zip [90d16921c2a1d4a325be7b266988176dbe16a5d48a776f86b608f0944f8b17ff]
+│   ├── virus.msoffice.toot [d58ac86bb4a4db8d2d7245eb8edc24169a165a78b3294d60ef4e2237e446a481]
 └── b
-    ├── toot_b-001.do.zip [80ef4ef7764109374eeab16dc1ee2c7a04381736590ef18622bee4e4c6e3e17d]
-    └── toot_b.do.zip [32f7c89f9de06357ea36f46221973f9c41069c04242a63b2ff5eb4d3c513f08d]
+    ├── toot_b-001.do [d0da94884306b33dce258a0ba50266d75e4f800da8dfe33fa0cdb043524dc969]
+    ├── toot_b.do [57cb22b8eb501490feff3acaa6588de6515d2ae617f3683ac32f4398444d3ef3]
 ```

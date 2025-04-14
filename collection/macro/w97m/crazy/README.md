@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   ├── crazy_a-001.do.zip [c9ba5e5d58383c20ee978da0e1f62ca058f6966c84218636299968005944ed33]
-│   └── crazy_a.do.zip [b7815c45cab52e0c031e9e35286b78c2b66dc1a318090cbd0f46d34ecd843109]
+│   ├── crazy_a-001.do [efb4fb6f8bb27763cf802fcb5d261a89bd8acd34dd0ed071df08eb16a3f80b71]
+│   ├── crazy_a.do [a393ecbaa99dd9db0614d5c68bcf6b06ecbbf100f84f6d642cde43f9717ffb18]
 └── d
-    └── virus.msword.ultras.wicked.b.zip [b2c20fb7c11e269e6dc5e02f79a173e21d511d5902d2b3d9a28e08b2b25957c7]
+    ├── virus.msword.ultras.wicked.b [38ea96484b1dec33d739a2624f3e89b5b4373151786db450d7fb1a1c880a7bd6]
 ```

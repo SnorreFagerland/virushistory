@@ -3,9 +3,9 @@
 
 ```
 ├── d
-│   └── trojan.bat.nina.zip [481f134d57ebee4a5c2f138d426f18cb91e381e90b6a881e0bdee9dd035dee44]
+│   ├── trojan.bat.nina [adb245f0d08dd14f559fb1a1b86ce3e4f372efa69c9fb5b474f1dca747b7bc57]
 ├── e
-│   └── trojan.bat.munga.d.zip [84572bb5fb64d1fd684b873870770a4c047c74e7c663562cb5ebfc1a3f49ebc0]
+│   ├── trojan.bat.munga.d [77e1effc3f07753759b4a0d71e1cf7a2a163dc20d806c30b9b68df6cde8b540a]
 └── f
-    └── trojan.bat.hdkiller.zip [92c6e33eb895b926dd0faf180b6f9f84c165109bd42f615ce1fb77c64f6c9bee]
+    ├── trojan.bat.hdkiller [8d55137f37bc0042dbef35f0d2309bc64b60ee87f58a6bef261477a0e36b6169]
 ```

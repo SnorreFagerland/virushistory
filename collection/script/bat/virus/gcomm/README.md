@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.goodcom.zip [9de649481d2e8a84e39102325e5ea8bbb465314ca0dc6a6994d374cbed27a795]
+    ├── virus.bat.goodcom [d88766689089d02bd9e720800d7793e62f310e07022ef1f450909be6ebfebf2a]
 ```

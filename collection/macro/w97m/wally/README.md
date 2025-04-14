@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   ├── wally_a-001.do.zip [396a98fe625bae420c5f6e4932e91b3a018b6d844f7fa281122be48678e09af1]
-│   └── wally_a.do.zip [aa7693931b9e1297c450617928d501bbc7fabbad9fdb82ae945c06288b669339]
+│   ├── wally_a-001.do [a1dad5b4eabdffb0b917a271f72f273aa5684e84db9e64115f30a24317467b6b]
+│   ├── wally_a.do [05f3ab2dee28f94c5cc5e2cd8080ea2c4dfe20d083333539993c880d87346ccf]
 └── b
-    └── wally_b.do.zip [544e923977c87fcbd4dd33244816884a992b12d13399f8a9d7eff8fa5b102c74]
+    ├── wally_b.do [4c2dec60674bd76da5a1f8da26eb772d0b636232f71c8a012e17a747fc38f909]
 ```

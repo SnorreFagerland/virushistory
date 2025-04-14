@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.nofrx.b.zip [42c26780a0406c3b3d7383aaea004b665dcf872013ddaaff29b30af84c93fb6f]
+    ├── virus.msword.nofrx.b [40b2fbf4b8c0fc604003397dc02fe0236f552a41f91e2b775b254200059b9259]
 ```

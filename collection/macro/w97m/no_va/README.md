@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   └── virus.msword.no_va.zip [4d93247f764be6a4f2d88bce0274deeae75499f3ecb181a5513a92e33caae194]
+│   ├── virus.msword.no_va [7576b43cb1141238721a0ee15b93422a1f674d2ff39532c272db11aac54e345a]
 ├── b
-│   ├── no_va-b.doc.zip [93a33de7a2bcf1522400f283533ae175c746db0d8b34cda170bd2adfefa91c05]
-│   └── no_va-b.dot.zip [eeb3e3349b9d512831165177354b64e7a04a9ea8c91dca2037b7732904699e31]
+│   ├── no_va-b.doc [2820a2dab70117917c15df8f87960e9c2b4e8514339801232d310ac2634db719]
+│   ├── no_va-b.dot [890a2682ff459a0315d9fad8a998a7b8ae9956bdda923825d2c9eac48272d10a]
 ├── c
-│   └── virus.msword.voce.zip [f12f7dff885f64b61104ef137bbe792a15eb83811fef635695ab4a1f8bb2794f]
+│   ├── virus.msword.voce [f54d6569680023f95c75ea8e94890416e648b5bddd77c7195ecc4b70f4eb5e24]
 ├── e
-│   └── virus.msword.nova.d.zip [b4778a4d1e4f6ef87993436c1c17a2addaa250f153ae31f81448bbc4d5fb6e2e]
+│   ├── virus.msword.nova.d [52d37e4866bf84f16cd49e54024722329e567bff023f19b3d500ce1a180437cb]
 └── f
-    └── virus.msword.no_va.f.zip [637a99073edc7b609719aff3ef0c45369bee84be16c50cba355179f8432b0cc8]
+    ├── virus.msword.no_va.f [56e3e3a708dff711719d7e54265edbf2be4bd4653351c6b7b86341132ad24cac]
 ```

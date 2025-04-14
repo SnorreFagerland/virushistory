@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.recent.zip [fe7f7a62602ddec7931301644aeee1652c19fa687734ed5339b7c4e9f9b21d6f]
+│   ├── virus.msword.recent [4786cc5fbda01c9f434cee2386ebc2f38040c124ee55bff4f93be83c259b584a]
 ├── b
-│   └── recent_b.do.zip [f63b1b87444a6eaf0194f98b469b4501d5a10c17eb85f633220667b1364b868c]
+│   ├── recent_b.do [9c175825f09172a4ffa37176515354cfd39c30fc890b5c7800fd2655c4e38a14]
 └── c
-    └── recent_c.do.zip [921011ad4d86f2e6b5bd27e26c4cd28cb73db6b84fbb6d27c7d3e3803ccc2c25]
+    ├── recent_c.do [0e8a7f5a1fc75f62b48334b82302d615e7fd7a03e4530604e947ec21528be52b]
 ```

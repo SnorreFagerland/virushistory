@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.my12.zip [f6b33604f0f6c5b606f8c40ac36b22d8920c5fd931ddb721e845403b8b60b579]
+    ├── virus.msword.my12 [cc8c2c9cf8be63bd1963da19069fd108eeb380ce676b8187181e5f0802ceee24]
 ```

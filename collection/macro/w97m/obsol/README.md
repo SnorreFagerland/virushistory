@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.obsol.zip [fb06515cd88f258bf43333d57e2ac8e739c1860253a8a943cdfe8520ebfaa96b]
+    ├── virus.msword.obsol [752a047e20064f185a1e82a28381a9df43f07fab6c84377f0f62047d42139cfd]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.petik.zip [8ad27252058828a1b6b6fd9e6031ca2c2fc81500fc999fb2acd03fbf24d11869]
+    ├── virus.msword.petik [249f86322652556606ef051a617fa9a473cf6ec0c8cccdb5a7ee7082c430695d]
 ```

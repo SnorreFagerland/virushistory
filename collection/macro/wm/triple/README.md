@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.dot666.zip [341abe5a5d9a29184de1f1b692baf8d2aa1f9c30c169680b2b938772a32a352b]
+│   ├── virus.msword.dot666 [00a26f5e3d7d6667e4b7cae8723617b1e871f6c41bf6ce0b84b1d8f91df5d02a]
 └── b
-    └── virus.msword.triple.zip [741fde97a36b31b7ce636347eac36950f5eba1ae2aed663b787670ddedfe5aac]
+    ├── virus.msword.triple [35192d9a3053b18f9f193f6e17ccc1a36eabd83528033697b40dddc923fb1a2e]
 ```

@@ -3,100 +3,100 @@
 
 ```
 ├── a
-│   ├── notice-a.doc.zip [cc4aea11916089c8d1dbdf0d4c5db8d09245a7593685ec7327d281b822e1d8a7]
-│   └── notice-a.dot.zip [3ef2799efaa6074094d980bbc90065444310081b823c0b090be9d113f47e045d]
+│   ├── notice-a.doc [2d61b65ce0cf981b3c8472ab85a9f7831d06c492540b5b74bde3a85a283bf63a]
+│   ├── notice-a.dot [72500f307a8393997cfdc6025d9c7abe5d3c8f0d75d4b216ea7bced8c2f16234]
 ├── aa
-│   ├── nottice_-001.do.zip [0039e2627e606f27011a781a675f9274620b832aaccf22afe75c648b4c424bd3]
-│   ├── nottice_-002.do.zip [2edda6b4fca772989e66f7f49316ff9fbd494ffcb911204227d017fdee6bf495]
-│   └── nottice_.do.zip [9021c6ae1d3ec7ebc9d5e00dfb14f2ce0e7812c4c6da7a25bd00324593b91f9d]
+│   ├── nottice_-001.do [9a34d3e467ea92149ec6bf069f08ed0284ac312218aef864550a7a1b180ebb3d]
+│   ├── nottice_-002.do [bac99a0ba45572b0c5e99d40aaff528230e3afc2f11b19e79f79efdd050d9f90]
+│   ├── nottice_.do [653397ea635f2a64fc8993e36573df7f7193174a3313d5986ad5dca8177b0a36]
 ├── ab
-│   └── nottice_.do.zip [dde973a2ad97716ffac533007b22f55764e6c9e215dceeb3f358017e865a9a51]
+│   ├── nottice_.do [6663ecfa768295af109a75f3bfd9d50fc9b06e0713375be4b4aacdbcac3596d2]
 ├── ac
-│   └── virus.msword.nottice.ac.zip [353558bfe4509c5cab60c8d7c87f593612f57c7656231d070428b4e096712bdf]
+│   ├── virus.msword.nottice.ac [89ac825e14166c09e2a8f643a83456e362a6151be9a206a8640082c69c5aedca]
 ├── ad
-│   └── virus.msword.nottice.q.zip [8c582340c763da27d0659f2c1c06b0a3fc56bc1f3f976f53075102d60f47cadf]
+│   ├── virus.msword.nottice.q [d518c735f36f9cb8b536fea9bccbdbbcc2898c1b85b2becc6fe1485d1a8f8c8c]
 ├── ae
-│   ├── nottice_-001.do.zip [469ba4aecf580fbdb13d506429b1a0f2a9152cd114e76854a586be6e1940d30f]
-│   ├── nottice_-002.do.zip [4aa2bd43e297f047974e3aa3a00e49ef1a7a71ce48ea4f53508076ff3950e78a]
-│   └── nottice_.do.zip [afe8e2255dd251c693e1297527299903df0b111b0715c6d2544e51698f2dd82b]
+│   ├── nottice_-001.do [ef75e8fd6f47d7e830a08e21c0cf53dd5bec72d75d8afa081c71dac7b336690a]
+│   ├── nottice_-002.do [d2ecde500889fc6ddfc6ddc73347aa46fcb2c7beb7930b92965c16a75e9eefc6]
+│   ├── nottice_.do [636a5b826e1c9cb027f919328cccc41adab13445f40f71c39c5c835c14f91858]
 ├── af
-│   └── virus.msword.nottice.ae.zip [b1f4bc849a2e5ed91b67c926bbb1a470f73efeb4a9cbe8aa05ed8fd7d6d9bc5b]
+│   ├── virus.msword.nottice.ae [f7ff31ab65de693ee1611517ad9eb3c103e57a4a032188d1785d1a9f2047a94a]
 ├── ag
-│   ├── nottice_-001.do.zip [87dc3e632afd385c0dd0f27e7606f1668ae05d3486f2e8320d87a8d37a246da4]
-│   └── nottice_.do.zip [4d8838761ca0617022dc162b7e20e15cec01ae526b99db8ef0de3c8f1ff78227]
+│   ├── nottice_-001.do [9c4a84a6fc0c93f184501f3ed48e749434b5aeeab87be96896a7d08bb05f4969]
+│   ├── nottice_.do [96b1c09d1bef1374c5466d9d3deb67a7aecbb42349060898f53b86f424f30afa]
 ├── ai
-│   └── nottice_.do.zip [39e975aee0e7b494e2c03ed2c344f607105c9a2bb58dfaae19dfe6874c23b86c]
+│   ├── nottice_.do [835c14760b8cfde017d387f91d93b4354dd39ee10bdd962021624d3d039f99d2]
 ├── aj
-│   └── nottice_.do.zip [d3f93679421bd3d5eedcfef167bf7e2628bb56518da69f49b40b2304134925c8]
+│   ├── nottice_.do [511c57eea6914c537bcd646af8055405858d65ca7c46eabd0d13ca8cd8d1b95c]
 ├── am
-│   └── virus.msword.nottice.am.zip [c10f27ea2d89670ec19081838d9b820f6e1530452c9bbd3618086b0188ed0608]
+│   ├── virus.msword.nottice.am [0dd1e84d57bbcb34591d0fb644a5310df75964c8b5a47d1d3c8d2fcaf087b826]
 ├── an
-│   └── virus.msword.nottice.an.zip [3239a6f2acb8945e42e013487033ce18654201cb66f466962dc66fe916db15ab]
+│   ├── virus.msword.nottice.an [d3175501a235f6b349f1244afbde5dc10ae5f3ae45e68a694bb937156b85fc0d]
 ├── ao
-│   └── virus.msword.nottice.ao.zip [09d4977b5a7098dd4cb8be0e6c01c9636d681b13a7d092d0fe99e202de08dab2]
+│   ├── virus.msword.nottice.ao [9fd4bfb080b3363374053a96e5099de02cdc47c74174367456979f37a6d45afe]
 ├── ap
-│   └── nottice_.do.zip [f2839170edec2653f286cce6cc058e317ee3150f7ac616375f31054c494dc188]
+│   ├── nottice_.do [bac5639a6fe4f786a823c12291254352106c8168eeb7b7faee5edbdf0e80e251]
 ├── aq
-│   └── nottice_.do.zip [7a1aeba3c748d70df76d12e615692170af077cbad90cb1f22b7164cc60aa0c45]
+│   ├── nottice_.do [92b6b1fd042df339e3722ed0055d05bbb7e4bb78fd84bbca4cd445de375d8d79]
 ├── ar
-│   └── virus.msword.nottice.ar.zip [2a8fba0b4804201117bbc36523d311c094fe210c19a5a2d830f3e4b1dceb99d5]
+│   ├── virus.msword.nottice.ar [8853cddb69ef7bfcfe74a7770391a48766745a54bdac1d9c192b1c79dce77920]
 ├── as
-│   └── virus.msword.nottice.as.zip [373137854947c1af9fae797b7a94c127570283c0fee9e6e661375c7a510c1d41]
+│   ├── virus.msword.nottice.as [a3fa1f013e3f69e10b04644a60e807e53075d5d06f9904eb9fd234f4a1893913]
 ├── au
-│   ├── nottice_-001.do.zip [7621e3785481525703ef8d006154a518e38febf4f2fe2f14fca3cdb3736233d2]
-│   ├── nottice_-002.do.zip [5b0919b13372368775d93ffa10148d4a964175ce0540154cbb62ee02352a58a2]
-│   └── nottice_.do.zip [c44b231de69be99a978829a95956024fdf08e2da77e9b3a6a168ec80c03d6f38]
+│   ├── nottice_-001.do [5e54dfaba5a3029e0d7c55ca4bde0a559b0e65852060b89a95efbc6fed9b9ea5]
+│   ├── nottice_-002.do [97ceb90b8fad7bd4a7526f5f948baca81a33ccb4a84623b7c7ef9de01347ebe7]
+│   ├── nottice_.do [0cf7f5780d80fad4ade1404684ca35e6767f39927084e91d7adf49d54592e806]
 ├── b
-│   ├── nottice_-001.do.zip [b0cdf7e4525f058b086486a79e6640302c132e85c6b998be0a6c01caad9286bd]
-│   ├── nottice_-002.do.zip [45c4d2557e22998ee06f389542cf7821c4ff738571ec4e75ab84becea256d033]
-│   └── nottice_.do.zip [07ee750b4c3f7b0d26d119e8a6ed18530d16c60118eb0032dd90ba8ecf839368]
+│   ├── nottice_-001.do [df6de696bcf764ec2b104676fdd84c89789faee5d761642caf5eda55804d1c40]
+│   ├── nottice_-002.do [d68f01b8ec74928f0b78552765e12f78e2f4795e1940acca32e6152ed98cf1ee]
+│   ├── nottice_.do [915a1b53419dc1fefa06a89d4b2fc881681e19f354af03170fc7f551ee9e2e5b]
 ├── d
-│   ├── nottice_-001.do.zip [9d6f323e222d5ba834dce5521fdebdca8aa24513952552dbd0cc4077a1f8ae24]
-│   └── nottice_.do.zip [c2e401a4da04a70dd3793d07c08de30189a7567b48f465e16d46b2b8441af2f6]
+│   ├── nottice_-001.do [c655d2ab6524f6cc1cf464d1341b4984c0fafd458663daff8466a1593b96121d]
+│   ├── nottice_.do [634f9f87b68a58ed7b3ae6729c1c082d4def9bf7afd1b9bd0b8c7b1432992eb3]
 ├── e
-│   └── nottice_.do.zip [61815751927a0e2d865f7c1eb4273b9d36471623c69001701fd7c29cbf3c4541]
+│   ├── nottice_.do [79baf875c4222f131f29c7b57afd14e289793c34545ffe36fc1571e02e1876f3]
 ├── f
-│   └── nottice_.do.zip [42d81d8eb4c40035df3db6d1e5c2e62134581e7c4752c16cecb0399dcf04c82d]
+│   ├── nottice_.do [63481634ab664c03764c6211b29400e046c0bd5381122b96d5bdba949c8a2715]
 ├── h
-│   ├── nottice_-001.do.zip [2849ffa00be14a43a668e52655d90d12e13d84fdb8798a312e5bee5b14a6d764]
-│   ├── nottice_-002.do.zip [9ff5e1fbbdac7b1486779270c4aa105b1a64ac36e4fb56e23f265c014fbb600a]
-│   └── nottice_.do.zip [0160ea5a209e6575b1d177787a3df34d51018fb4e47fde545f6960a890bf4c96]
+│   ├── nottice_-001.do [991d594b960c8108d41c0b3455df3ac8c6f4f1d99906a79cd7dccdde0ba31940]
+│   ├── nottice_-002.do [aa718ac2d96134de5e2197e20ad5aba9526abc82efc644d8bcab55cc51824777]
+│   ├── nottice_.do [7c20cdda4a91599471c1604658b0665aedb7a2bb2888255ca5f447cacf585658]
 ├── i
-│   ├── nottice_-001.do.zip [8761af3c19b76533bb25b7445480d8760c8d609b8f815dabe6886acc2c125aaf]
-│   ├── nottice_-002.do.zip [d6700f073f5757eb7c2ffc277e3669d65a4f6af8cfbf5354977dca592ee66eb5]
-│   └── nottice_.do.zip [784dc220abdc5aee5782b5f484c71a3ab751cba61076413ea22f828da00f9666]
+│   ├── nottice_-001.do [b366d9672dd001eaf1b857d6a335f4119dc6d0065855e915139e309f93ad823e]
+│   ├── nottice_-002.do [a33ff2456d38e3ac1de950d92b57b0b41eaf3a052353920e62ceb577bd9158e7]
+│   ├── nottice_.do [12dff4b33d305bdb2130d7d6f07f6c8ada073890a173be1317a83e9a3764d300]
 ├── j
-│   └── nottice_.do.zip [fabb0f57b068f9cf983b3a7526db60f42793817b1fd552f2de2fa5e825c3e4b0]
+│   ├── nottice_.do [c178e8b51da1df72e0824d543274ed3741738f5d91f02dd9569e8b90d6acd396]
 ├── k
-│   └── virus.msword.nottice.p.zip [4b44517855deb73e64ccc7b8745289dc481832eeda0f633db01dc89d0525edb5]
+│   ├── virus.msword.nottice.p [d2d9c0d9e4a44e9c0ebe5ed3c36024021ae12ac3a88fd0352df912c2d34a461d]
 ├── n
-│   └── virus.msword.nottice.zip [c5bc55006219bcb2417cefcdc6e84af8bca6c7d06c54cb556ede5342eff68949]
+│   ├── virus.msword.nottice [cb9891d57b1a2426353ce8759fff02c6c5a19bae07ff7162531fda45f4e129df]
 ├── o
-│   └── nottice_.do.zip [0a6d43b2a5984df70aa712fc63fc06c330054b05e853fa6e06be0f1f65e4bed2]
+│   ├── nottice_.do [16cebfea8737f7edd014fa2e316b45a74a0240163c2afb94fce19909e9472b9c]
 ├── p
-│   ├── nottice_-001.do.zip [8e2922cf651d16f0a71eb2dabb0e90f45bcde47117ea658b5049835339d17105]
-│   ├── nottice_-002.do.zip [8803ac9d276d6f868017e6b130220983957880f7c8ee200adb2a3ae81150241c]
-│   └── nottice_.do.zip [200ade80d9352787a872e9ed15d093c7df7f378b55b2058301459009b7fb865d]
+│   ├── nottice_-001.do [8832390536fcbd1ed77ebc15d463b9c25bab2913464eb867dd7c9fbe2482fc4b]
+│   ├── nottice_-002.do [e0cefa59607d1a4e50020a735bae0d0844215f02e8191d8fbb985b9f3a7f4dc3]
+│   ├── nottice_.do [4a11d16f222761842bbac0c19e428ee603987cc57cef6cd3c16093a6dc6e7461]
 ├── q
-│   └── nottice_.do.zip [53b10e0aa499fff2d829fed097f08de57ca748c816a3605e917d0683b26ddec3]
+│   ├── nottice_.do [eb8001e182df72c4957e9b85dc4203d236d1165bd098e8cf213ba68cd0facbf1]
 ├── r
-│   ├── nottice_-001.do.zip [36e37b013b5cc12984a828c369dad1060e81aea13bebfb67987c8b62c5f9339e]
-│   ├── nottice_-002.do.zip [57f3f5ec5123c526725f60b2f5ad9b8712fda745e1ac3ed2696acd79f1d7d0ea]
-│   └── nottice_.do.zip [67664ff3f1b1aa71a6c6f0fa547f52a87de19f7820e3d4f9e2be88a8f8147159]
+│   ├── nottice_-001.do [1f1171b2f98f3edcf481e44d026fd4c7aae39b06482e9e787e11685a499945e0]
+│   ├── nottice_-002.do [30b0c4ec2a6e8dad77bae58f0a65c81339550e991e8a93c6faf75f76c3dff78b]
+│   ├── nottice_.do [1a784e253388c3cd02feb4c044327905acfac9274d8b4d92d80c1f0081650f28]
 ├── s
-│   └── virus.msword.nottice.s.zip [421d7a8d11030436b55c4f4436320fd41bcf92749e3ec00fb3498293f77b54ca]
+│   ├── virus.msword.nottice.s [400d68c458ac3fbebdf816c2bec5fd68990ee539fa257bd4f3d5d471d76fc55e]
 ├── u
-│   └── virus.msword.nottice.d.zip [71ed40890c0e9b5ce63040da45f528cf06ba9d123ce8001341fa1e946bd16a35]
+│   ├── virus.msword.nottice.d [af374e6be49a4819efb1b548966cfd219dc59374f5fed41c9c22e23ada1a30de]
 ├── v
-│   └── virus.msword.nottice.v.zip [e5453e740b4ee56d74469d0d685ed5fb9bfd221268e5490c3770fda316aaa8c0]
+│   ├── virus.msword.nottice.v [82e450aa0e9aebc7a38905ef8425874263228fb288d050635d932a105b68692a]
 ├── w
-│   ├── nottice_-001.do.zip [d78ec987d1639fa975d6f463f091803f0b500369620333224ea18f4286dbf1c9]
-│   ├── nottice_-002.do.zip [3780d592e47d9203d3b8163a9059fd49b720b6e9ffab941af2f3aa90cd47bfe9]
-│   └── nottice_.do.zip [026b2aa217b1935153607150cefbfec5b96e9c7aec139e5b1c6b77d87141fc5d]
+│   ├── nottice_-001.do [e1aa55dbee6acb75197cd60e216afee1f4913cace4e771c2d7ffc4dc0cdf69d4]
+│   ├── nottice_-002.do [ad006d9ead3a617ddc231ecef54642aa895c5ee032bce4e3452e7e92ac661aa4]
+│   ├── nottice_.do [742980ee84ba8c84f667e4cbbc23671a739e63136c5f97872ca1facb2d213437]
 ├── x
-│   ├── nottice_-001.do.zip [812bdd06af2fc44963f281cf7d411bb61a6b3a1328f376e7ddc8e8679ec31dec]
-│   ├── nottice_-002.do.zip [3fcafbf1dcc3286737bfa7171ce205e9a1964999915b51367ae95ba2767ed7de]
-│   └── nottice_.do.zip [c18955189ef71ffba48ca1aa42da86a05e595056c2129cfbd91f09fd1414ecef]
+│   ├── nottice_-001.do [4bedf68322497b9c0e7529779b43aa16ad20fa5534e7b61fd432eec8a7213b13]
+│   ├── nottice_-002.do [9696194a71e30f58851d8cbda8401de981b57e124bb06a4bb6e6cc778227ffc0]
+│   ├── nottice_.do [2786f49f59388c914ef15f040f52d1b67a6a3434fca3252bbe569d010fd1e865]
 └── z
-    └── nottice_.do.zip [58a8c9b12b6977ba4faa95be921281c224017aa995825fde5da93420f44d01fc]
+    ├── nottice_.do [ad06d15e659ef3b9b14c45caa3b6033122f735f6851f25aabe8f86485a3255b2]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.bat.oneline.zip [27fb4f50d0c85250cff0ede17e39be10602b73c02b85f9a4654d7028a389095d]
+    ├── virus.bat.oneline [f649ca7e0391e2512018728067f61d8d9c7cebb32197c875f965f9ac2a2b6f36]
 ```

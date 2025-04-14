@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── cult.doc.zip [7fe56d30be8032960bb9d91ca6d3515f697574064cfb01dbe94d8ff472bb9dc0]
+    ├── cult.doc [963ab68cb9ac3c9c6f3c4ca47251d3ad6336d12718bc5b1e05230798e4f380ba]
 ```

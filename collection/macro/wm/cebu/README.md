@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   ├── cebu-a.doc.zip [88cb2c668777b2ab1a7982032180f17a057717339c4b600432c6595efb0986b8]
-│   ├── cebu-a.dot.zip [1af754d0ea33f6e6860fde83bde90dcf05693d3fbde8eada93f21a15928292f8]
-│   ├── cebu-a_2.doc.zip [09189028b31232a67cc271ecb27a508508883a407503a0722af5ed5b6b880edf]
-│   └── cebu-a_4.dot.zip [461a47abb74272fc6c02cc7fd00eb58513d09dd3c00fb0496f1fba448f236130]
+│   ├── cebu-a.doc [863385c0289acb2ff20f7a78dd502da43f3b90a6615b6724f538e1b9bfa36123]
+│   ├── cebu-a.dot [29e51449f807dad1e87205d5273ada56ce9541a092c8e1f2b9db64e76cdf48f2]
+│   ├── cebu-a_2.doc [b196be8c9baf3dfd037550112e79d3b04ca3474b8046ea920dfd6f86b09ddfa6]
+│   ├── cebu-a_4.dot [8359319d34a5c71bc57f608ee257bee1946c883e9c7b1e6c55693d0dbf1d838d]
 └── b
-    ├── wmcebu-b.doc.zip [868d0ee2c5dadd0fab3959051c6a636be154ac14f7a44193f49e4bcb06216932]
-    └── wmcebu-b.dot.zip [664b86aa65da9a6d3d350050152cb5f5ef0f12bed7d3ccb50ab2266fede7e750]
+    ├── wmcebu-b.doc [bc1ba98e097ce29d23746de57f39ec1923be703688a9482e3a6525793337f575]
+    ├── wmcebu-b.dot [1db7364ee6e7daddf44bae6a95f81df03ab206a31dbb8333c6a8779d8dd3fa77]
 ```

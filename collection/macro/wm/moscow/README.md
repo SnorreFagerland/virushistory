@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.moscow91.zip [fef2b069b34d3b88a3049fbb05239b27a1d304827b84afd710ec38b37a37b2c9]
+    ├── virus.msword.moscow91 [224c77b67a618e64fa43a3401abeb6a6004d0ddb0c46fb0feeedf351eba67241]
 ```

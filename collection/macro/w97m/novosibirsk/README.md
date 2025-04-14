@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.novosib.a.zip [9c61c8a5f22b89b902acf6dd726f51b8b194764ee35a16eca2c6c5e2359770d2]
+│   ├── virus.msword.novosib.a [6cff51b10118ed2f45778cac34dc352a20b331a00ba79605980dac04c3577e79]
 └── b
-    └── virus.msword.novosib.b.zip [e9590f6e883eda0154326c1dc2b0c9e1ac65b4de42b99b68028eac4b6888abaf]
+    ├── virus.msword.novosib.b [3e1fa0635d461ac1c611e2440e3d4cb3bbf42a8e398b246971429b4c582a0ce6]
 ```

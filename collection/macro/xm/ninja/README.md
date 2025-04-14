@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msexcel.ninja.zip [73b81ec3369f8fc8e97e91f0831cae61b67d1fa2ab6c6b1a1251280bedf076b7]
+│   ├── virus.msexcel.ninja [a9336d674c4346d1bd1ac5e081acb2650916872cabdeffd1f9ab9693fbf73418]
 ├── b
-│   └── virus.msexcel.ninja.b.zip [94bc01d80b935080b5ac71a62b3b84dd928c56934937f0359eec8a71d9e95b14]
+│   ├── virus.msexcel.ninja.b [60c7f223f369932f9622dd59d5822b15e60f6b162016b364be330eaeb3d07911]
 └── d
-    └── virus.msexcel.ninja.d.zip [44823bf399a53936e82eef051db90a621e9600b0a314a3007ea8fd4e8cce5046]
+    ├── virus.msexcel.ninja.d [911a06aba3283a7c073f80b426dfc18bc9314567afde9c7c2abe17ee0742033c]
 ```

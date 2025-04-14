@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.666.zip [6e4360450ff3ae86b606b24967c83828a1b92cb8c58912be3029a0b6d7964f52]
+    ├── virus.bat.666 [53e33f21560b2d2e6b32da2567260fb6d5ec88ea109cab5152a84c490ecb4046]
 ```

@@ -3,10 +3,10 @@
 
 ```
 ├── a
-│   └── virus.bat.sg.zip [c1175de49331aa3c84923bf47e8a6ef377e31f154a555657e94ecb2a87abf998]
+│   ├── virus.bat.sg [dcf81e95280a236aad885b387338ee5b88709dc81e64491e1f534d299ce99392]
 ├── b
-│   ├── virus.bat.batalia4.b.zip [d68f99fab84b96ed24ea6aa934b3c50ab90e2a2024121cda0e6f121679e3831c]
-│   └── virus.bat.batalia4.c.zip [193080c30a3afeceae7c22e123937fafbbca980d6189383f7ac4a8dce8df2cf8]
+│   ├── virus.bat.batalia4.b [269344d7c16b40ca9d0c7dc0c13ad6b773c28f9a501faa262c32bb5bf01ab934]
+│   ├── virus.bat.batalia4.c [e2eb4e09681431621b9f2cd289373f5459587367236dd39e16a7f260a35f537a]
 └── c
-    └── virus.bat.batalia5.b.zip [fcd5e7e3c01b6a56561e90fb40de6650d62b0f13dcda96cada57dbebb2e516d1]
+    ├── virus.bat.batalia5.b [742d564829782b5bfa8b80f9781215130ac51ba2add200334c68f53d298a3036]
 ```

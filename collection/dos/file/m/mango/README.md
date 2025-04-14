@@ -13,6 +13,8 @@
 │       ├── t5.vom [26108426f1d6dcc4102bcb4e63a31178c54256ee11e197fe1e8d1f94f4dca0cd]
 │       ├── t9.vom [feefbc74c5045a24dc3e337ed6c16d9bdafed4aa7e4ce46feb91464cd0e285c5]
 │       └── wci0046m.vom [eee483eb1971c8d5c7feb6f8ec7158e2c34f98112daf003b23f625914faa0ac1]
+├── 469
+│   └── virus.dos.mango.469 [7676cd21994a87a379de1e5116f8e7f21047514c1a9b7f720a289522e0f4ba1e]
 └── 470
     └── wci0048m.vom [d1779fd78fdeabac2d91b4713e16d177ac00c987b3ac33da2f59c7ee4bbf1e35]
 ```

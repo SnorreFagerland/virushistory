@@ -3,23 +3,23 @@
 
 ```
 ├── a
-│   ├── bleed_a-001.do.zip [9e7754ed413909b9c6bba1c7376b2156a27d1dbaafd3558ee3590eac6dcd595b]
-│   ├── bleed_a-002.do.zip [a325e51324f59323104e5203988d9e6d2f0700ab1970e0eb61d1c0f4a33c76bf]
-│   └── bleed_a.do.zip [2d5a9031efe26d6b48bd74bb6a82cceb6afac4fd78d33993106418a3b1ee3838]
+│   ├── bleed_a-001.do [74ea33d91fe1cb9dd8ce013c9f9b36fb46cc8d7df1898474d7c22e8ec1ed920e]
+│   ├── bleed_a-002.do [99377a97f57dbdc7d5be3d41356648d04e9841ae14ba48cf27a9807f28c41d59]
+│   ├── bleed_a.do [70f3726b581c8772252ed2d60bdfb99cc416bbba4e932bb8d42e023c549be37f]
 ├── b
-│   └── virus.msword.bleed.b.zip [a28655e96248075fece13af886ecadea0ceb76046f0d672211259c26d84d2cee]
+│   ├── virus.msword.bleed.b [a2241dac93f85df4c741c2939d3c856a0e3d0475ba32ab56cc7f5d699b5d67b8]
 ├── g
-│   ├── bleed_g-001.do.zip [c6ee00d2f70e6a9dd62b72dfd9325ea730006f2709eeb994d8ba1be3dfb23f98]
-│   └── bleed_g.do.zip [8be03805dfdf3e3b7b129d2c01b6ea2febb3bbba6ab03a088b48f2dc848ecc3b]
+│   ├── bleed_g-001.do [29dbecd35d53f422da1031b900ebbf6ba5c4ac34df75a8bc3574863a0388c21b]
+│   ├── bleed_g.do [1ee43cd41e46f62a228178062d6b26191753994e9cf916990edea1db609b9808]
 ├── h
-│   ├── bleed_h-001.do.zip [153e18d8cd113f9d4cea38aaa46384e813b1facba457236ffe33bbec35621804]
-│   └── bleed_h.do.zip [6bafdc43f669cc063c6e6da48bd018244bc48332326a7bfa96d5514012903b48]
+│   ├── bleed_h-001.do [8e8b9c43f71fb7dc66e21101799efb68b2c60c2aca0a3eb8d652455751c405db]
+│   ├── bleed_h.do [6fea14fd25be7ee3afd0710d3b37665c0bfc5800dd34693dc21daa5d62b5f26c]
 ├── i
-│   └── virus.msword.compresser.zip [6a8552e10275eb2933f1ca4891e6c3277bb0eb491da9116b3dc69b63e6f73df6]
+│   ├── virus.msword.compresser [0893cc21a51b476c201efc3497a68a6784e15cbb25541b2a51a5a4eca00702af]
 ├── j
-│   └── virus.msword.bleed.g.zip [caceed0e132f60aa2eb379340ed4585bfdbf606b203512325f23a31d074da1a5]
+│   ├── virus.msword.bleed.g [8ffe7efba28e102cba8af5db74bb7e42bbbb7cca7833802eaa752543f47e89d5]
 ├── k
-│   └── bleed_k.do.zip [78dc12e7e829e154909b9118378cc6a034d11bbc30e7dbb8f01ae4a472f58e71]
+│   ├── bleed_k.do [4fe6cf4a6456a28f85f0380b53e224110609bdfb663b7c0dcf00ad07a005fb7a]
 └── l
-    └── bleed_l.do.zip [f4f118a22746f8485d6ef8b592fd671c59ab0a33e89f89ba8f63808e3c60f400]
+    ├── bleed_l.do [9ba16dc64174d1a50ded77d567bb534e26d00875c7da38f121d698d6f66ef358]
 ```

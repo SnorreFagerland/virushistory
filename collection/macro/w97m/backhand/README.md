@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.backhand.zip [8debd9ce224a4690eb0517e2f76326fd4033b5e647270f4f286ef9f8f656126d]
+    ├── virus.msword.backhand [d3cf7a32c5fecf95f44cbd41025857c486a7ecb2db6c15ec95cf31f5853963f2]
 ```

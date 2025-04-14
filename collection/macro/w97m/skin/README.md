@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.skin.zip [ac5d9ae2bbcc302fb1923f39862f4351ebd73ea8fddd249bdb57cc83b66874c9]
+    ├── virus.msword.skin [41f15af7cf27fc6439e6d1c4b13dcd15d30b4382dd06042c0ecf3f8546f8cd1c]
 ```

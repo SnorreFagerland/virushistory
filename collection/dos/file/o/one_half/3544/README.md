@@ -14,8 +14,14 @@
 │   └── unhlf.vom [c8470d8282b8f186c889cb4bfcde3f0c1893e3f249f52e8d86e1d61f3bbfefca]
 ├── b
 │   └── one_half.vxe [31477ddf2582eff0461cfe09affbd4378f15dab314453276149a1a2e3526fe7c]
+├── c
+│   └── virus.dos.onehalf.3544.b [d7713b70156a2dc1283f2f85695ef39a59062d5ad88b6e8f21a70af9b059108c]
 ├── d
 │   └── one_half.vxe [5e29d5920014a4112afca809a0c8bc4c1f073cbdd63fc34a5a3e3aa1585d5262]
+├── e
+│   └── virus.dos.onehalf.3544.k [5f3cb1c3a603434fb93ba86bc3e479ddfdd2a0ec74146d7b39b09ddbd3e25348]
+├── g
+│   └── virus.dos.onehalf.3544.l [df803776ee51a948879c831a9b2adf820ef3de31d3fabc017de88c1b97abbdd0]
 ├── h
 │   └── one_half.vxe [228e523c699d24c3138cd5c71b7eb10c4bfb7bf6f8233a7aafacccfb700b25eb]
 └── i

@@ -3,21 +3,21 @@
 
 ```
 ├── b
-│   └── trojan.bat.formatcq.b.zip [f860568911d3dc11e4077592e727b95b2b97cdad3f8f9e88a516ef5ba3f9eb2a]
+│   ├── trojan.bat.formatcq.b [7660c7dac5c2f10acb10ad24b4f9d1fd3279f239f25d19b45bbcc9fad922fcb6]
 ├── f
-│   └── trojan.bat.formatcq.f.zip [f85c74ff7aa22f4913c28734c5f5eac4afbd4a028aaa47aa85cff408387e8b31]
+│   ├── trojan.bat.formatcq.f [8e328790d95ec83ac9b2163cc1218b05e615a8b4688a6b0df165cf117e0d4491]
 ├── g
-│   └── trojan.bat.formatcq.g.zip [bc9cf6b63680b3018d41c70e47c9f86f9126dbc90202216685e58b14c12b8cb4]
+│   ├── trojan.bat.formatcq.g [a2d89f95bb2ec7fc6cf46fed82cee1e0f828653f705c0f9c121b34586587a774]
 ├── k
-│   └── trojan.bat.formatcq.k.zip [e6ad0a7a139b3c94b1d6dcfdee96dee42e51eeac713e5d24fb1cefce83f76dcd]
+│   ├── trojan.bat.formatcq.k [d04ad4d2ded4751b4881a4c65cc1cf99d671ddcac521d155732609b042481f6c]
 ├── p
-│   └── trojan.bat.formatcq.p.zip [ffbff9c9e1a3b15493e1457d9712b62d5ba84e5319787f0decdb60e242c1b9df]
+│   ├── trojan.bat.formatcq.p [889fe07cad71cda21a40bc734186b4cd107ce2118dc1a512c36c84f364752fdf]
 ├── u
-│   └── trojan.bat.formatcq.u.zip [d71b249c8c2334843ef9117466cd503f439e59403b4f556ab61b0311a935f712]
+│   ├── trojan.bat.formatcq.u [fd7e3e9e3eab3940a2d363ccda8900af6e7e7de1c975d47c82339404a849c131]
 ├── v
-│   └── trojan.bat.formatcq.v.zip [3f21c83b3c7396ee627f91806f55896ff7a167003ad8f1a09733b73775fc2d4f]
+│   ├── trojan.bat.formatcq.v [fed5d72659acf31583ecfbd234b12a6801aea73e348675459905ffae78c013d1]
 ├── w
-│   └── trojan.bat.formatcq.w.zip [bd01fbb372b814400083f6b154e669264bc9e10f3182425bce212c97ef1a4234]
+│   ├── trojan.bat.formatcq.w [dcd84af5cd1c03fafb0158f037461aad01c7463b46f2109bc6efdd0b2677ddf1]
 └── z
-    └── formatcq.z.vat.zip [2fe4e0237fafb6b722e391a781270d75feba9d5eaa195dc0486142c2c74855e2]
+    ├── formatcq.z.vat [8ef1de84eccbcc5209eff51102b20952363784bc277ce39cb3130407566634a1]
 ```

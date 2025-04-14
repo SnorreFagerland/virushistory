@@ -3,5 +3,5 @@
 
 ```
 └── atw
-    └── virus.msppoint.jiaiy.zip [9a5f3935813af1ecfa2702ad46226da1c1b6f6fbc7dd1a547a61dfa68a6106b6]
+    ├── virus.msppoint.jiaiy [b2b76614d3217b575f45d83f853885219dafbf85f09ba429752e2096a48321c9]
 ```

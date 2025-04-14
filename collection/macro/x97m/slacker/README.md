@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   └── virus.msexcel.slacker.zip [e162ddc5a01aca772cc38a89831530020c47e3fd3702fdbfc7468bcaebabea09]
+│   ├── virus.msexcel.slacker [1f7f7a4099d24b5a096f99a4059d3ebcc22c7a4bf9634aafdbdd89d85a2554c2]
 ├── b
-│   ├── slacker_-001.xm.zip [fbed19f9ca9d14358ba58c22d55dec636e64dff9b5b7c0462775ea28030981f0]
-│   ├── slacker_-002.xm.zip [230942d72fc5a480160532ad765364349a607c8c2a8a90b5466bb445e394e560]
-│   └── slacker_.xm.zip [8acfd4dd3298f5734bff691cc97f93c8f85205dad7bb75172890ed32ec2701af]
+│   ├── slacker_-001.xm [652c95a4c4573cb130ea0f227a649930222c2fb79995820f168b40adeccc9fa4]
+│   ├── slacker_-002.xm [97e36a33863423dd75d87734a32866ff020fb1432a7ca2ca7e7e5088b31ab758]
+│   ├── slacker_.xm [2f6846f1ffbdfb997017b6c259f98482fbebb00f351c14ec15c1a8425825a543]
 ├── c
-│   └── virus.msexcel.hybrid.zip [41188a18ad4e642c9f5964371c3c6a7c51108698c2245ca500ead523fd3c98b9]
+│   ├── virus.msexcel.hybrid [90608c3ab70487499e512adedd980566f17150995ef8c3cb67e83d4430568a46]
 ├── d
-│   └── virus.msexcel.slacker.b.zip [f15b2cc7adfe26a6669aace129177d2ab80b6e2c34adadac8905f60447e1bdef]
+│   ├── virus.msexcel.slacker.b [272735b09d9bd070070069e76715304bf8617e9daf34eae484e9ffb110cd34fd]
 └── e
-    └── virus.msexcel.slacker.c.zip [0231960459142cca682457220563b888678195c75477eacca9fe5e4d92b062f6]
+    ├── virus.msexcel.slacker.c [8e1929afcf52ecd21bf259912f33fbfa71ee70e41cfa5ed408f8ee311ad1dd79]
 ```

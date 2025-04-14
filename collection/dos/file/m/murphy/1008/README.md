@@ -11,6 +11,8 @@
 ├── c
 │   ├── manti.vom [ae600f6a8a36e1db9ac4cb6885f8e45101e6983b454730ae1852859f37d27a05]
 │   └── manti.vxe [32ca6ca83d4258209fc605d99322ed37508150f2eba27bc6517f167ec7eb324b]
+├── d
+│   └── anticsta.vom [e8f53277e22d8388d775ff876dde3e42b7bfac2555fa631877a187d7819fdf07]
 ├── e
 │   ├── murphy_1-001.vxe [62d0c482b0169ea7a273ec2d1e588ae32d5cdf8e483488e36076fe394b90679a]
 │   ├── murphy_1.vom [ab863fcd1fb404a811577c3c37af6e3d58f4fb1c17bf90bd82fd7b19bd56e0ec]

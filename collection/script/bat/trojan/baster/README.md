@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── trojan.bat.qrap.zip [596da17f439ed68fd77dc22895896ec0d95daa26ed6c6595a3183a02ab9ed898]
+    ├── trojan.bat.qrap [9595afb5990cf2a93d8bcef90fae257142ed403414cafb02c2dcc45f24332db8]
 ```

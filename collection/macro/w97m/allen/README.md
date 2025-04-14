@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   ├── allen-a.doc.zip [38a7f45eb9af58bcf54dfec2fea6da5e2be2d519060c663e3ce589f4ba6ef996]
-│   └── allen-a.dot.zip [202f5dc77a3db128a42a12f906c38eb6ac08e51b110df1623bb35f59c3f1b5e0]
+│   ├── allen-a.doc [fe65cf10a3040b315d485922179c275f91f7e01a43e98d46e32dd316f4106e36]
+│   ├── allen-a.dot [4dffbaf9a0e5d9bd5b9fc542089b3ee30a2f7df201a4ef87c984e8a337080d5b]
 ├── a1
-│   ├── allen_a1-001.do.zip [62b82ae74fdf191089e546a1abcdbf7a834f4e9bd3f5a534fc2aa82bed70e21b]
-│   └── allen_a1.do.zip [15d657ebc13ad11d67af28eb5e82ccc241a8a496f260b585a3bdc25be21ca439]
+│   ├── allen_a1-001.do [3a790405c981ba9bbce77265ce9167df25bfd7a7cf6416af650e76dce2444372]
+│   ├── allen_a1.do [1225d9c31481871a842c2cbe41385ab118acea9e3ca20c972b04820403065d98]
 ├── a2
-│   └── virus.msword.allen.zip [b8fea3e7a22bd917062f0bda8a1794653f7c714dcc370b83813f790bbe6801a2]
+│   ├── virus.msword.allen [59530af705ab25bb6eb545cc397f04f7c79a23586fe00c92bb6e6510dd0518f9]
 └── c2
-    └── virus.msword.allen.c.zip [39d1f160498d436a4f1b0331639025d4561e4a2f449ed980f237f86e51d889b8]
+    ├── virus.msword.allen.c [976ccbbabc12620fe58a7cdcdebfa4056d2077c9d6b613a6a582ad9068a761aa]
 ```

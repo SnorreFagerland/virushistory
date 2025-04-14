@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   └── virus.msword.poc.zip [87a5a7f05399b1eb7d6f47f4da628300f58ccd22fd2df975452c83929488d47b]
+│   ├── virus.msword.poc [4912cba14a1e8b2c7e976ff579144329a235b28face91c52abeabfc2ba60941c]
 ├── b
-│   └── poc_b.do.zip [fc79232a858b97bb7114af6f3e250c9365722b428147869fa093b57141d8a821]
+│   ├── poc_b.do [e423b9833da5abaec066d9c159dc7da15ce214ac13f05d3a4f7a129557f8eacf]
 ├── d
-│   └── poc_d.do.zip [6c557a9b38e5dc80c25dadd50940832a18757e0cf133e827844b3e9bd959a240]
+│   ├── poc_d.do [84147890f0b1d4056f86f7e40b80b156749be0d1cfafe7e208764c30a809ff16]
 └── e
-    └── virus.msword.poc.b.zip [07db29ce47ac56dfffc6a4f6a0f3f157bab178a45c592e029a5b6667a61f2013]
+    ├── virus.msword.poc.b [21629d7068e88bb86be1dc47d1e07e5262b4c1d2f829c28ca02fa8abea6adc87]
 ```

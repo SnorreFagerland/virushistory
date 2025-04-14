@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.trima.zip [420f435e652c448882aa71912dbc21549d7e48ebf56e4a2f7210f95586f7c0ae]
+│   ├── virus.msword.trima [7afba13fd00822ec36e710886448ce429f4c9813f6672ef758664b3c36ee1414]
 └── b
-    └── virus.msword.trima.b.zip [b19e9d2f4677e06adcd4a2c9b550a7ed262efc5af60fe8d1af668d4faeba3960]
+    ├── virus.msword.trima.b [131be2dd0b420690a7726a0a5c044f389bafcdc13a98e884e82a8f9d14a51758]
 ```

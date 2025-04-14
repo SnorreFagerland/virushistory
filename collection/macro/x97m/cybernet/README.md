@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msoffice.cybernet.zip [94f52c992da064ab47c8052bad0ddbd2660c8b34836dfa3ed1422facf809828d]
+    ├── virus.msoffice.cybernet [6525127caa9c42ffac4de3293438632bc7130ddf9df55b86522c9ac89b019906]
 ```

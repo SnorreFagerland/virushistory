@@ -4,167 +4,167 @@
 ```
 ├── 102
 │   └── a
-│       └── bat.mf.a.zip [8352a9a0eb043866a5bd5841535fdd5b740a0c4727553d7646f177877fc9a801]
+│       ├── bat.mf.a [71fc6f9da4f84ec80dea82131d66f9051f8dc7e0afd5c8463854bbbf4910b295]
 ├── 108
 │   └── a
-│       └── bat.silly.ac.zip [7f0d92b8aa36d144645f69b8c64e06891a62949ea486a36b5942f864ce4570a4]
+│       ├── bat.silly.ac [4ef3c872cd545363f3c330c8f81053ce6cdf87fed6f07da1e4a6cde02ed0afe2]
 ├── 109
-│   └── virus.bat.silly.bk.zip [6410fd57f27e309841229592b55ec667804654c92f02809e97700e822980e915]
+│   ├── virus.bat.silly.bk [ab04c7fc02ad7edddd6beb74653a55c5d3dc50e51e540e6c7028151d1fce8661]
 ├── 111
-│   └── bat.silly.bm.zip [c4b83013c83f513d80ec3281bbd7aef30dbac2f82c357280ffc35a45155fdbd2]
+│   ├── bat.silly.bm [a7598db09805cdf60212a02f59139d940cf889751466d9e75c3659836a5c32ea]
 ├── 114
 │   └── a
-│       └── virus.bat.silly.ad.zip [2f01f3484eff9698a8891a8c32df2cb15de80bf7f42c10aa11bdca535ad78334]
+│       ├── virus.bat.silly.ad [a5cf2781a1602c93ab0a915a23807ff39e9b1a4a25340eb70408585103a72c2e]
 ├── 118
 │   └── a
-│       └── virus.bat.silly.ae.zip [aeb4b8c26df498a06230ff978ec9579934c2f5dd7105ceedba117d689c8f8fe0]
+│       ├── virus.bat.silly.ae [8f8c90d46fb37de03a69f8dab5114af4133964a95c6a11a2bdd3d4d78c0e955a]
 ├── 127
 │   └── a
-│       └── bat.silly.af.zip [ce56402401eec7bb70140d33d0e1eaabe399de58cdf7d098e90244a4327fe4ae]
+│       ├── bat.silly.af [4f36f67c4358d9101f80b5648d0cbdfedc3ae71096a4ed92a1e822e568d3f98c]
 ├── 135
 │   └── a
-│       └── bat.silly.bi.zip [0989e9b4c711f5e293d3d6309e425914027daaa7c13418c343dacecfc8d096fe]
+│       ├── bat.silly.bi [d2ce1620bcb777bb782af8108543a95418cc8a86ba346c0b62575d8354e66f11]
 ├── 140
 │   └── a
-│       └── bat.silly.ag.zip [a66802385712533b547bcaf4139fc1c143862f27b62b77c4478275b3f804f4e4]
+│       ├── bat.silly.ag [e9ffe5e533c540c5ca3464e9c2ae8b25346a350dab857903f95e28e5f7fcb67d]
 ├── 146
-│   └── virus.bat.silly.ah.zip [6b93b9b4047982aa9f771eca31559ad8e76a607d3008e60a0740ce9ee2de37a2]
+│   ├── virus.bat.silly.ah [b963d41131ea4a2e01155174784c01bf1192d4d3f261dfbab6ee6e20d2e3b4f3]
 ├── 147
 │   └── a
-│       └── virus.bat.silly.ai.zip [ca54d338a62bc0586bd5ea238817166afef1420d91adfffc7b408245babcb9c5]
+│       ├── virus.bat.silly.ai [3baed927a257bdc051baa7da399e423d58c0dcc201daaab7de2bb2148721a1d6]
 ├── 156
 │   └── a
-│       └── virus.bat.silly.an.zip [11a58027c4c3c9724f240f877ff723ae327cb37cadd750fb2c2032235bf3b6e0]
+│       ├── virus.bat.silly.an [c4fdff80773a7e914c55f62dbeb663e617080c87715a02470cae31708db5a8ed]
 ├── 164
-│   └── virus.bat.lala.b.zip [e888238946dada2722b02b961568b3c5940462b821468f6f4ad60027851a0607]
+│   ├── virus.bat.lala.b [58eb7b003708338ca5856c7a1d98887b7acf15598513916c25824c5b1585dc3a]
 ├── 176
-│   └── virus.bat.silly.aj.zip [88013737d8c7afcf8729ec45f9d8adaa3df1dfb89c243f7d13390dba33703260]
+│   ├── virus.bat.silly.aj [ea9052395d5fee27c1e30755672280277f53e9d1bae5d66cb1c34f36ba5b269f]
 ├── 182
 │   └── a
-│       └── virus.bat.silly.ak.zip [460dfcfc695dd6c311adbe448785158447b3b247f6981abdfb5cc6cd27efb34e]
+│       ├── virus.bat.silly.ak [436473b95384f38088f1df26cee20af8b093876f86b0304e0edfd5a17910108e]
 ├── 213
-│   ├── bat.butter.b.zip [636b591134e193098aafe702da9898763581413ab13393dafe052f5ec398392d]
-│   └── virus.bat.silly.bj.zip [b246b844984f9f0137305c17fc6c839613404e1fb43da0d53b3b0b1eb1567583]
+│   ├── bat.butter.b [4000fdf475a63cbce755da660f922d6b40d6c7cc8bd23022d12bb0fe451b4dd0]
+│   ├── virus.bat.silly.bj [c27719d9249d8b2b1e39ae6310d2529ac9c100293366f5550295fbab70bf359e]
 ├── 223
-│   ├── virus.bat.bylys.zip [c6ab786a626a8b31ff41cb150038958a0edafe7787e2c551e19c0296205a6aa2]
-│   └── virus.bat.silly.al.zip [49a038fe7257193bf24f77f477772fbfa9d4e5e6a400d2b2daff803d59c65a48]
+│   ├── virus.bat.bylys [bb794b8914eb57c0b456708eb395298a3bfb4fbf518ab0debc47d04019add8f8]
+│   ├── virus.bat.silly.al [153bb502012901a803b6bbf57ac65ab99d075ffacf2594af5fe089cc27a5a408]
 ├── 232
 │   └── a
-│       └── virus.bat.232.zip [cc5f299aeaa33998cc052a33101ea6eb52bc404ec8de96ccfab43b941b319ee7]
+│       ├── virus.bat.232 [83d142afe8101885685b4f4951abdcd364d828235d8b97406b69e00a8c5f6a31]
 ├── 258
 │   └── a
-│       └── virus.bat.silly.bb.zip [9c87ab2e0215fb239a72c4d6933637477fe4cb6d95102b465900201387025fdc]
+│       ├── virus.bat.silly.bb [355f592bd2b5187486929c6c3e897912a86775fe7d4c2b64b183bcddbc59236c]
 ├── 279
-│   ├── bat.mf.d.zip [e9ede04a5739fea259a3ac23380bb4307a8f4ffd81f40b0d64fd275e90bf9444]
-│   ├── bat.mf.f.zip [077ae78b9dcd2f1d3d20d2b6cefbebc3bef2e7046e1c73d7db888eebfb32698b]
-│   ├── bat.mf.j.zip [d7e4f6e6ba4bfd4eb228b56ff1abe96ba1669e947874d39b1c07cbe04506a31a]
-│   └── bat.mf.k.zip [c3cc5078d6fb542a0f9c69a0c8e01534d7f5b359d0eeed4b5d17f74a595cafb1]
+│   ├── bat.mf.d [9c75cd5b66adc571e2ab538e52aa4ef72a59c0aec679b5cbabbf53894d9f177c]
+│   ├── bat.mf.f [4b90df413c9186484152fe82b4847dec7d1674d5bae824966f125348c8c4fad3]
+│   ├── bat.mf.j [251e575cbfcd43d308cb8932aa06122fe4616d2466a4dfea9a310abe61d51751]
+│   ├── bat.mf.k [ee2ad97d5254fb71fa03554a12cde8ab5a1445a8dac92b782aeee5185db96595]
 ├── 314
-│   ├── bat.silly.bl.zip [62ff045bae4ea95c4ad871cbf52314a2cdc7faf52a1f42fd9689275d67d99827]
-│   └── virus.bat.copytoall.i.zip [7df61af21e9dc732d1aa087bc9a83020ef157a2588010429ef8ff381f190433e]
+│   ├── bat.silly.bl [95768bce467b8cb60358d9af54720601de1a8926add56860ce6c95ba2d93d998]
+│   ├── virus.bat.copytoall.i [f766fd136d1579dda9cb1ef000774c8c6b3d956a884ad10fbeae472475fd5f06]
 ├── 32
 │   ├── a
-│   │   └── bat.silly.a.zip [c1f4c5eb9f1e47d2c0823e601e843cc4723dafe556a8afae2316fae8db963f27]
+│   │   ├── bat.silly.a [bad4bbd201e53501c3d6b1bedce0e202a05652a70f84684261e5ffc2d336bb71]
 │   └── b
-│       └── bat.silly.b.zip [0a463f0a1507395806b97717fe2b538cf9684be9404e3b1a29e6c829c3d21e82]
+│       ├── bat.silly.b [7eab0bee8236c6ba38784f3f94b935495624908f32b19b7353b5ba25aff3f0fc]
 ├── 329
-│   └── virus.bat.silly.btg.b.zip [2055a52bd7eb56c62a6af23caa999d3ecba2940cc162488988383bb5ff441265]
+│   ├── virus.bat.silly.btg.b [503b47c1cedd2b7e1080f5f8bf763e1e7f26385c1ddcada152a375fe38d400de]
 ├── 33
 │   ├── a
-│   │   └── bat.silly.c.zip [247a8de928c2a5c6c65fff929e7ead57a784779f399bc9cebad8c099b806b31a]
+│   │   ├── bat.silly.c [34eaaf356781c3d4fb2b7477b1ac35488e91b52d6d55d526fe8caa47954b903b]
 │   └── b
-│       └── bat.silly.ay.zip [77793ac991740c303d7ba43ce1a4a8de36ff0852c2f757133eabdaedd405427c]
+│       ├── bat.silly.ay [00994054ce31f5e190487b969d4aa3862ff6e30d4bf0cc967a909b0c5b12af3c]
 ├── 371
-│   └── virus.bat.copytoall.h.zip [d53d2ba09e38039de38eaaedf738ca675bf7d1ba74096308f431e65e7fe16834]
+│   ├── virus.bat.copytoall.h [b460782a17523f5d75b346e7e3462eb5dac050af74f499135f8dd39f9e0e232b]
 ├── 39
 │   └── a
-│       └── bat.silly.bf.zip [46ec09646c53d5a60e7b1f8b6ac3beeeeac8b2ed9ac27e362616e4a39327a98e]
+│       ├── bat.silly.bf [a452ade7fb10e7689578dc30f58cdfbe3774e2e894a7f28764a32b7193325c47]
 ├── 390
-│   └── virus.bat.wincom.a.zip [6cd695b84d75a782de4f8cc1a864d6a4bdd36897aeba4b5f0295060b98dc13fe]
+│   ├── virus.bat.wincom.a [e31285d676d378289810c816accc544ff09acb22f1772384b467868edeabbc56]
 ├── 46
 │   └── b
-│       └── bat.silly.d.zip [6abebe9022552c51692acada5efcfe6105d7897079b5814ff86b4a8759914e8b]
+│       ├── bat.silly.d [f78e33d5b39f268b35c3ca7b5c32dfb2e0ed51134e34e0ba8644788d4b8a3f25]
 ├── 53
 │   └── a
-│       └── bat.silly.f.zip [44ff88066f8eba8dfa9561b4e8057c00dcfb1831d30a04c5dae5d05303b12461]
+│       ├── bat.silly.f [f10f6c0a8cded9affbd280f2804349afe6ae6be2832ea02a196777889ecbc35c]
 ├── 55
 │   └── a
-│       ├── bat.silly.h.zip [4b7818b2c86cc2e0f0ea37c8251238b0c8a4b0dc9f30773bf4100411b8718a88]
-│       └── bat.silly.i.zip [fcd51675037a850d91061165027787f495fb605005ff7c385962bf203b98789d]
+│       ├── bat.silly.h [a6c4380414f120740b23653fb975804ef199fdf31a6401b79b68b0806bb94eca]
+│       ├── bat.silly.i [41d8746dd6f2889d850ad1c567929a1618ed418bb586beccbe01e55007c572ed]
 ├── 56
-│   └── bat.silly.bh.zip [3c219c77bfcf4a5f47baed8a92cd77fa8d2efb04657ce7e391ff5af50a334817]
+│   ├── bat.silly.bh [3e6d68939e123199e993d0efa9bbcf265013a438acbb2235e961d432aeeeeace]
 ├── 57
 │   ├── a
-│   │   └── bat.silly.j.zip [e50d5b782f8cb7fbb03383d8c92b44ff89a54ca52509a1f090a3a3b8e1f9d64a]
+│   │   ├── bat.silly.j [e3d370f327b686668044ca54c87a52abeefa9d5e81a8daf5f937985c22765757]
 │   └── b
-│       └── bat.silly.k.zip [e045e46c5863bcb7fcbd19f065a079e4f7fa6514d6ec50e79624fb9daf892528]
+│       ├── bat.silly.k [4da463e2ab2449df06d27891843625f9081dc6a36a37221566b1e593d48774c7]
 ├── 60
 │   └── a
-│       └── bat.silly.ap.zip [497f67dd8bd096444f0a52c30fd6053b43c524b69337ae2a5618d0bccbb79817]
+│       ├── bat.silly.ap [355970e2ef80c64b610d966140d2e44702457fa113d01835f9ce40ffbbb4fa50]
 ├── 61
-│   └── bat.silly.l.zip [90a060525428d9ae95e46488e99367665adeef9ae2ad70cd23595eec3665a486]
+│   ├── bat.silly.l [c6c7848f226a384e6b4e90453844f8fab90647d612f8d1aa7ee26eac56f769a8]
 ├── 63
 │   └── a
-│       └── bat.silly.m.zip [5954156b5cee5b19375f5619833438f5eefa62263a23fbab78a4c73e9c23e7b4]
+│       ├── bat.silly.m [3488b71e3e699bc69e9ad7e10326d817acca0708cb5431910c81e8779d749f78]
 ├── 64
-│   ├── bat.silly.bg.zip [0c718e0fc83f31bdd6b2df4bbfa0b1d9070ed50fe897245efb9aceb95b65f5bd]
-│   └── virus.dos.trivial.150.zip [db314cac4884fc0e63ebe1502a3ec7a0b17fcad6daf5dc28ad1cbd040549385b]
+│   ├── bat.silly.bg [3b35ad40b5dc5f475843e7a30f2d42ca24c3fafaa76794b6698fa743e6257a4e]
+│   ├── virus.dos.trivial.150 [8a1cdea27357c08031adefe8da5c6f2b765490522f8b84a8e6042b7c9a91214c]
 ├── 65
 │   └── a
-│       └── bat.silly.n.zip [2ac959b76920eb781089d8f5d3e719c0923622d000cdcf5d543bede85921a849]
+│       ├── bat.silly.n [d81946222d255c31922691680df2448b9cfda3adf4a68fd134281ae812ccbfae]
 ├── 68
-│   └── bat.silly.o.zip [28d4e4070e4e086fa7df8abc219312a89a62f99a1c03ebf8b5043ad727450536]
+│   ├── bat.silly.o [50cf6db0939e5a849cf72d0ad08361faa538d2cb0b32c57edaf91c7f793f0a4e]
 ├── 69
 │   ├── a
-│   │   └── bat.silly.q.zip [3eec114d8a41d0fb91cc8889ec36ecfb6e452f31d9ebd8bc5fdcb081bfb2ac6a]
+│   │   ├── bat.silly.q [4d9ee3d61ea8f5aba96937905568fa31e869d0be8f43f7a5485c79c1bf1f1597]
 │   └── b
-│       └── bat.silly.p.zip [118265995e5ffcb18b3f38770cd83b13cdfdb2352f494b83bf6fe4d6c30bf90a]
+│       ├── bat.silly.p [3afcaab50dbe86c775fdfc79471b42ad62bd097012e62b155ac419eb40cf1fcc]
 ├── 71
 │   └── a
-│       └── bat.silly.r.zip [d916e0b59d4bac5ef2918530ea2c23b04847c98e67af536e67c9045f6611839b]
+│       ├── bat.silly.r [cf6be2fbcc56dedcdfccca89563295f795900f61bf9b2a7d36ac5ecbcc75a289]
 ├── 73
 │   ├── a
-│   │   └── bat.silly.t.zip [6d71eb9b2869d90b1459101f6b2a957739d03ce82e607c427214b91ff6baf925]
+│   │   ├── bat.silly.t [772f92448ded22637bf5c6d41b7a32c4e01c31c9f76b9500c24174dd48cb4675]
 │   └── b
-│       └── virus.bat.silly.s.zip [16f6d62242858ecfca20b4f9bc391d9076e9e4b732c9d28b4e364da7945be32e]
+│       ├── virus.bat.silly.s [7c124386ccfef11230c318649dad110db810d9d6da2fe97eac773de8987ab8e9]
 ├── 74
 │   └── a
-│       └── virus.bat.silly.u.zip [034596e9420e802978d1a7b94f411eb1ce410356e0c22e9a26a32633adf9ee55]
+│       ├── virus.bat.silly.u [018e950634310e3dfe8014e4a3c46b3df517804e7286a6a0cb019e191e60b0b5]
 ├── 77
 │   └── a
-│       └── virus.bat.silly.v.zip [93a0dec70a3b4c7b90e1c403476bb48e8b7628829aba6921998713c0a31d45a5]
+│       ├── virus.bat.silly.v [9fdc1bf4f1d30d12b0317b6c245c57b6ac9e5707c8ae7d160caa019e3156eeed]
 ├── 784
-│   └── virus.bat.crypt.zip [1dfe17902aefe5c073d795f891cf4847beb7702bb7b63a7157ece35de9a16d1a]
+│   ├── virus.bat.crypt [4bf9e5d3c05275e4a02fd7cd20a342f4004fe1c30b2134e7c512d77f05e19646]
 ├── 79
 │   └── a
-│       └── virus.bat.lys.zip [91c4feda1657ffce91cec34e08a5d85f8a1d561633287e54c0d1da7e7e2b8861]
+│       ├── virus.bat.lys [f715c528a9865a12d48224ecb32b24c9d3a48688192e61c54f665fcf40a9d9a4]
 ├── 81
-│   └── bat.silly.w.zip [1cd47d42af4a1ae7052f68b04f34da0a79917e5c3b30ca07739c34e77a40c248]
+│   ├── bat.silly.w [ff34f5671208c8dc814c0a9874ce46c7bc99c43d8e4d99c8d8d491c39987e9d3]
 ├── 90
-│   └── virus.bat.silly.be.zip [8f8db2020979075b4452fd139b841b614d1c696d3377a96cb84eb021f9142917]
+│   ├── virus.bat.silly.be [158174a3a89e6cf21117f957310dcea613cda73cb9fbdcbc51b448db2722addf]
 ├── 92
 │   └── a
-│       ├── virus.bat.silly.as.zip [23b55ed7bf1a27c70e647153de2f7cc92ab113baa00b426d2bdfe74fb04a0dc0]
-│       └── virus.dos.borg.631.zip [0be8ab7de906c75f249c706b6929819880850dd7c40f5944b9d2cc6833afba5a]
+│       ├── virus.bat.silly.as [0f28417207923d27b53222529353b137ee0d09ed1af22158659d9c51df77c56b]
+│       ├── virus.dos.borg.631 [6b2385ced0dffae7cfb20fa3c9799c0b6c35807cc00a462b499bc3eaa5c5085a]
 ├── 94
 │   └── a
-│       └── bat.zert.zip [f09b5dad8227910295eac960578aa8e32af388b8c9997eb6ada9066e4e7bfa8a]
+│       ├── bat.zert [82ccc36be60110c7ef1a4bea9885ff25c989d2cdc9d14354d4fa31273d48735f]
 ├── 95
 │   └── a
-│       └── bat.silly.aa.zip [b5daa90d252710b84fd7e9103433d10479e083bb3e0c6e21cb7f91fb0881a8c4]
+│       ├── bat.silly.aa [a8db4ac206712c7a453c69dcf8b61c757d6b8be7f456c00245c2c62df6fa17b4]
 ├── 98
-│   └── virus.bat.silly.ab.zip [bea315ea00101b38feb5f245f11c4fba6bb34b5e85b58b8d76b70c26bc47b82e]
+│   ├── virus.bat.silly.ab [0b00925c498a55f8bd0a424a6d5b91ca9cc5a31e37a85dea3d702c20ed3c3169]
 ├── a
-│   ├── dikshev.yj.415.zip [258e59b08dc80a6570c63798a578f2e3b19f4c0d85684ffab46e281999827783]
-│   ├── virus.dos.dikshev.yj.404.zip [03d929e5c62050a5af453a312bc52c7ee7d955de05b720e61e3f3a4c650f817b]
-│   ├── virus.dos.dikshev.yj.414.zip [bf894d432f727e896b67e42168b42549dcf2a4ac8ac6bca1c0527295fe235425]
-│   └── virus.dos.dikshev.yj.427.zip [3e13c36656960d4e50bd615d1895ddbef91d353635d4a74da035ab7f85d673f5]
+│   ├── dikshev.yj.415 [4a80b4f85c5da2fb3a0a860af2d279333f1b093e2ba275be3b09afbcbdc0e848]
+│   ├── virus.dos.dikshev.yj.404 [b4880458882642b6fb7c799f9cb990a7948d5dc42a0de2f1427823f3f6362b4f]
+│   ├── virus.dos.dikshev.yj.414 [a7c60616601f566f14c026d759c1e297e3eb96428301d1ef7ad57677cb52c76a]
+│   ├── virus.dos.dikshev.yj.427 [35c4368ae28175a4fbef8c1613209c853706a242332f5c29342435c3662c4d3e]
 ├── c
-│   └── bat.silly.aq.zip [1e2cf2ffa39b358f302a96a24a3f9297e7b4993ecf1f4354fea8e6288ea02f66]
+│   ├── bat.silly.aq [e0a81ca040540e352467fd3600a92c8cd3593214f5ca72c84e3e322ff920df06]
 ├── d
-│   ├── bat.silly.bn.zip [36452fa2c96fe0617b94655ca707e6ac75252751e2667ad21e7a2d88e587c321]
-│   ├── bat.silly.x.zip [b9e931efeaafbd70a95a87c88659870dfd8f046213bc21070793133a9d9a7556]
-│   └── bat.sity.zip [501659ab76e6650cef623f65b6cbbe614301c0929416fd5a9bdcd996c37c716d]
+│   ├── bat.silly.bn [41eb94b6061ae81676ec960c8ccc5c92bad35eb744349b9670593e54a8f59279]
+│   ├── bat.silly.x [a085914f9d9e115bf589ccfc5fcc682e27942233fd58f9d143dc496db5134f72]
+│   ├── bat.sity [7e68b3d6b074b87d5817996db9942e8f27cf833ef6bd74ea46daf8601e29e7d7]
 └── e
-    └── bat.limi.c.zip [b86180886f8c69d5c1754d5f3113a199abb4eae4b0ac84784bf83d9a4defca42]
+    ├── bat.limi.c [7270e3fcb3b2b1a849a7fe8b6af6027f785476a5e614012dee76c83bc49356ab]
 ```

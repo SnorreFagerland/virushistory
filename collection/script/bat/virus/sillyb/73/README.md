@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── bat.silly.t.zip [6d71eb9b2869d90b1459101f6b2a957739d03ce82e607c427214b91ff6baf925]
+│   ├── bat.silly.t [772f92448ded22637bf5c6d41b7a32c4e01c31c9f76b9500c24174dd48cb4675]
 └── b
-    └── virus.bat.silly.s.zip [16f6d62242858ecfca20b4f9bc391d9076e9e4b732c9d28b4e364da7945be32e]
+    ├── virus.bat.silly.s [7c124386ccfef11230c318649dad110db810d9d6da2fe97eac773de8987ab8e9]
 ```

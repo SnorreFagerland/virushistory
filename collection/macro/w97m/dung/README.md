@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.rinz.zip [9528d4fdf3948e1e5a321fbd5b8ad00c8696c47d2a12ba947744e312c8d2ab84]
+    ├── virus.msword.rinz [33c5875098aa892827dfc86e762bc5c8d45fc7c9262865aac60ff64b8c06a135]
 ```

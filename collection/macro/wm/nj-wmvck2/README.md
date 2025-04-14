@@ -3,7 +3,7 @@
 
 ```
 ├── d
-│   └── virus.msword.nj-vmpck2.v.zip [373d8d133f96d48c789e063597167bfb5172a7142b4ecf4efc72e2d8c0e7601f]
+│   ├── virus.msword.nj-vmpck2.v [b9cbd2d665e490906b5a91d9fae8b71506446e3e792230385d0fbc1efa5fd346]
 └── j
-    └── constructor.msword.nj-wmvck2.zip [e0a9c8f7bd0e63e015c36d4c4337d2531e2efa5d7de6172cb3b3fe65581cefe4]
+    ├── constructor.msword.nj-wmvck2 [5c89738c50155e4e2119855be8b741ceed5cd9975b8bee1e171bdcdc36a9b2ac]
 ```

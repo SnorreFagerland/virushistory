@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.ephen.zip [467059f6c2a280c3d51f9e85e55240d47eb1a4ecbc250202fff3ca005cfcec92]
+│   ├── virus.msword.ephen [a0fa5e0face3f57bd8430b0fce3269d4cd14837569c789684ea26b89bc4f6956]
 └── b
-    └── virus.msword.ephen.b.zip [98e442a1e70806e01a7ce03151ebb5e536a99103fd408df313e5b8c3b24e0492]
+    ├── virus.msword.ephen.b [0cfe7b8d4530ff4b5d74198e9de8ba036b950348dc4b442d36fd11046a6ca8d8]
 ```

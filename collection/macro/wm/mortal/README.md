@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.kombat.zip [dc4bce4cb0f0a520086715d7637dd4fa0f16187beca7bd352e3003475d3415d7]
+    ├── virus.msword.kombat [5fbcdd2f1beecf5d5faff9d3321d4d09c2f60c035fd79b7dc48ef08dd8f6d72e]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.msword.diperis.b.zip [8d7253757835dc707d21446babc68432afbdf77d35f3e5389f21d3bf1e8b9b83]
+    ├── virus.msword.diperis.b [e621ba0ba3faccdd9a821f8139aa31f05e65168a5d7da40b820ec953437e3ae2]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.camino.zip [6d06c070ed0a5bbf611351245c4a12e19dba4d41603bdd6301ddccb1b71b7d06]
+    ├── virus.msword.camino [99c11989bbf8139c96108828de5a09da1594328b67ab85e3aac2e0f9553055bd]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.tunguska.zip [809e200aafb9c8c0453b711615cb08c6a760a6d42bb6e3eb0aa0a5c3d054c2ea]
+    ├── virus.msword.tunguska [fcedd2d3d57fdaec5c7ec20d5654f032ad57d732f08799084350f7d32812198b]
 ```

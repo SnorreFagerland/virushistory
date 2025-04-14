@@ -3,55 +3,54 @@
 
 ```
 ├── a
-│   └── wci01494.dot.zip [83a4231be3cc0bab6e688c6d5e6fc1f4071609ce3ae144dbe4f5519232bcf47c]
+│   ├── wci01494.dot [30f7d1b5c9ae557ad2ecd89b4e63b8be3b11eadbeddf1e1031085a352051bb91]
 ├── aa
-│   └── appder_a.do.zip [82e51d63b61ced4f70d2017b92b68864843028123deeaeb499fee61ee052de78]
+│   ├── appder_a.do [f9c7545ae48663677b07cd072f4f8b073d217e521135893547e2a2ec2a5746d4]
 ├── ab
-│   └── virus.msword.hybrid.b.zip [66d899f20734c079915bdced4f6862200c5cb08a7624bc3f581e0a5e45ce1ac7]
+│   ├── virus.msword.hybrid.b [593c9c5be9dfc78e07da80b8a592571272846d4bf9dce4e1cda78574c7bc31de]
 ├── ac
-│   ├── appder_a-001.do.zip [4eae670ca5e45ef5f586a652c286104c987ae98e99af6c006690fa866e9126c9]
-│   └── appder_a.do.zip [691df9f4c8253c5617e8dbb956a58cf775b2be36f9e2500281a7e43917b29ab9]
+│   ├── appder_a-001.do [97ff35a6dd8102dc440fc6717f3c72021388a4b0d72dfaac53f4b8d0de8506c6]
+│   ├── appder_a.do [8c299dded58f7ada2a10f7d531f6174cd59c15c7165c0ed24e944d661354d754]
 ├── ad
-│   ├── appder_a-001.do.zip [3e1b046e2b5b3a383a7e129adc150e5a418b578d810f67e69cc1566968e90fb6]
-│   ├── appder_a-002.do.zip [25b250bc34c9e0ec2f85fb6639bbda853c2e53038e5b306d983f89c701135fb6]
-│   └── appder_a.do.zip [21af7f6d1cd223e1a82cc0389847c66969e4a63ab457e650bf4a241524281f11]
+│   ├── appder_a-001.do [6b512dd9ad906f45b176bd5c2571fff7b76bca2c49d4728f4ea69cf3153c8eed]
+│   ├── appder_a-002.do [7645af412b55baee1b0bfc887da9e7af6018f9c2ac8adaaab6771e55b6604044]
+│   ├── appder_a.do [5e00731fe6cab83a507771adc2b627a05ffa51de63f95b887d6ebad125d77ff2]
 ├── ae
-│   └── appder_a.do.zip [2314a465f7380d0e46246c9ee2c142fc3693673cba7f15d79182da7889860539]
+│   ├── appder_a.do [9605d5ea2aa7f4dfe8248381a038f1be7eb7c773a4a76279f062659b1ea98ef6]
 ├── af
-│   ├── appder_a-001.do.zip [f9bdfe3e7394a3ecc69d2c3e6dd444255750390bc6364caae0db68540405b477]
-│   ├── appder_a-002.do.zip [cb8d4fa6ceeeea3e4e9a35021056c348680295cf72567f5913a47de42f34b861]
-│   └── appder_a.do.zip [277b9ecf41c94497c3a13e8246605c467ba0baab36f038c924019c8868a25bc2]
+│   ├── appder_a-001.do [6584a6726b2c9e43d3ff9ca5ed093f0be6255bd212995fee0e65f07a8a0db981]
+│   ├── appder_a-002.do [edd66f7dfaf3e7bfbe2cf9adc1856773a9e6a10c176858074f1edbe6ec026645]
+│   ├── appder_a.do [380676c9bc0f0c1f41784916fd568b4102b34bf5b39b30155d556fc47bd8f538]
 ├── b
-│   └── virus.msword.appder.c.zip [377f718a10b8e3ecfb5ab088651ac452494fee96260698b8fb4d80f6fd656dde]
+│   ├── virus.msword.appder.c [c137cdff930121dd7bc957cb9a741e9c3916e40a21338cf43bc5b465ff47bb0a]
 ├── d
-│   └── virus.msword.appder.d.zip [52a640c1e721751477a59efbee952cce913fda5723f7bc9b90847ba66825e020]
+│   ├── virus.msword.appder.d [abd871abf34ab74b63dbd72b47aa81888fe72c48e2eed66e4c4e61ad70806624]
 ├── i
-│   ├── appder-i.doc.zip [c2d636c91a1164857f39af231bb8cca55bbd12a43d2dbe0f6ac3d8b39eae29de]
-│   ├── appder-i.dot.zip [18a821cfa80be97487124c947d9d78eaba3a74b5ef301e9a497b4b106a8b538e]
-│   └── appder-i.zip [16a7074b382ae6ce104827b93cc0fbc8047024f5048f49093aa02df9ab522a43]
+│   ├── appder-i.doc [17cc068023c6d8e84849124414e2f94c495868aa4bef9bde0e00dd5781c24f35]
+│   ├── appder-i.dot [10693bcb7989a959b5a9cb163809317667e2b41c383f87b8654aeed3ba786bd9]
 ├── j
-│   └── virus.msword.appder.zip [cea7566d4cfc685261b82ebf0410cd10d303029058edcbd6aa0d0aeb0cbf93f9]
+│   ├── virus.msword.appder [9a38c237a98946e1450b6f07a5b3b1958ff3841c861c67c14e1eb7792945b18d]
 ├── l
-│   └── appder_l.do.zip [027f0c514179e5eb475063d30405ec6d3a7cb8b76cbe4f32fe4ebc859a7c71e2]
+│   ├── appder_l.do [a5b4c44bfc7461f7b034e870ad48d2e7279d3780f9ae19201bfe40062dd3d8f5]
 ├── p
-│   ├── appder_p-001.do.zip [0179b655f0d6369298c0f73c9bd217bbed416bcc789c746d7998645ee4d1e682]
-│   ├── appder_p-002.do.zip [8bbb27f80c5e2ee6ac12fc6cb66a5e510449a67e90d7ee8b3890f0953e03726b]
-│   └── appder_p.do.zip [bc069b04086f30fbc6f86fe64457d58b3ac0ce0dd6b6a256c7840f9e2cfb94dc]
+│   ├── appder_p-001.do [6970798b41e2cb164c39203cea279365650ab72e15fcc54dbf7e6fe31b4a69ab]
+│   ├── appder_p-002.do [832474d58b69b565358b7ba7fed98bd5d52f7b43364acbc01679438f886cf75e]
+│   ├── appder_p.do [15f3f3735ed5aa8237e58fc2af99f113a6641f2bc254492c739357b224edd7fa]
 ├── q
-│   ├── appder_q-001.do.zip [8449a8c9a463778a73a29ad9f46639233b45c79ae1e180fc7c20292ea6f79485]
-│   ├── appder_q-002.do.zip [16261253efc8a593497b886dec25dbac0f861d418e2aa810dba4447584e3910f]
-│   └── appder_q.do.zip [900079171687d4bee46929db966ce586eee6760e26a66369fcb4ca6c3c250d90]
+│   ├── appder_q-001.do [f35f24000e0d5efd06d39657d0824c5d79f17ab735bb2a2150c40df9e4a27cfe]
+│   ├── appder_q-002.do [b415068b06580d869602960c19fb853af2cec7df7773ed85ec77d3405a138e61]
+│   ├── appder_q.do [13702377779df010fdc8639bee4d47f0badc06c0adc3e55142c1bbfa882c257d]
 ├── r
-│   └── appder_r.do.zip [5854c88031bab962823b63b27084264d717f152392d2b172d8ea274de9e9a068]
+│   ├── appder_r.do [76c8035f5c75a502f18282a59dd5de2937f8abee3a6761775ef27290acb95619]
 ├── s
-│   ├── appder_s-001.do.zip [328e9bd78c0e5d0fd22cb8aa4a88bb5d810e67d97272738f864c4dc868defb7a]
-│   └── appder_s.do.zip [064681a16841cf1975f74bbc8ddf9e393efaffdff5c98191bba09c34ecb03882]
+│   ├── appder_s-001.do [b0ba4e16e1788bc697957acebf295122a80838c5f47572d374e52b29a3974236]
+│   ├── appder_s.do [07f6728c03630968299a370eb833c3f8d5cd10a6977b47cd151da4bba8557508]
 ├── w
-│   └── appder_w.do.zip [37b2b9bd8fe63039c2e6bc476d4c68084a37edf414d5f1cd9dc71515e68237e8]
+│   ├── appder_w.do [1117c9a6b4cbef20789d9ccd125268a0afeaed051e7abdaf521d7e476ea356c9]
 ├── x
-│   └── appder_x.do.zip [18f6128a7d16ff6c58b9be5b7795c6b95f6e1493621fa62c108648adf763d4fa]
+│   ├── appder_x.do [9503726d5e38b5b51fe69590b224344de1d6447309171acfffd7c5d99b661777]
 └── z
-    ├── appder_z-001.do.zip [7c99fd1c26d8565105d11caa6094127603d0c8df69173861ee41ca57c8c381a2]
-    ├── appder_z-002.do.zip [9527da1a44a5ed777d837f2706b012c2a88abb95f98a1d247e82d0ef3b6dc0ec]
-    └── appder_z.do.zip [99e2eff06f23f14c6180932558a889d364fcc5acc7e08729070e1bc5428d7236]
+    ├── appder_z-001.do [76519177dabf89da464830a036dbd806c239691cde92d7b28885d06cfef47c79]
+    ├── appder_z-002.do [eff22246764cdc99a16e2875b94f32c241dfcbcf2f69818299efaa765658d3d0]
+    ├── appder_z.do [67b14d76eff2141b80b3e1861776412a89a4d543aa7749863a66321d589eec19]
 ```

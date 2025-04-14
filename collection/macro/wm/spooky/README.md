@@ -3,16 +3,16 @@
 
 ```
 ├── a
-│   └── spooky.doc.zip [60962ef87c8b53caa8596757cc68de01ce4a85841911ade8ffcdd225cac365fe]
+│   ├── spooky.doc [a3c3438e7872c73b487ff71a647f8a38a4a3c2cfc98fcbf1972560d0d77a6ef8]
 ├── b
-│   ├── spooky-b.doc.zip [ff5f41ca3effee8980a7ec674cd0557f7c0cc96d5e13389837a318687960d2a4]
-│   ├── spooky-b.dot.zip [c292c44979dfe617cc4a95b952b9b261e67eb1223140dd3416fa54e2b0fa998a]
-│   └── word_spo.doc.zip [3e8ba86fa93dc82b3db142f91c4e1492ef32f65c15130fdee29025dcca803a46]
+│   ├── spooky-b.doc [548a2070dc150a8ef2e77a929120110dbb43861a0b695838d633742d9e0d1875]
+│   ├── spooky-b.dot [9903fc37204afe507028ebf4b4909d3cfe83078010a64d1140fd8e1e1f2b66be]
+│   ├── word_spo.doc [c90287beffeda371b52d21d18d98deae7f286f04da49fa3df106c725fde33cc2]
 ├── c
-│   ├── hackers.doc.zip [7eed4ad7ccf45bc58f43a8b805980cc7a18d3f247e47601a323421f2fbb3bc18]
-│   ├── spooky-c.doc.zip [42a91a52c1a30f2229d647c89efa1e8b966aae3ba38c8bff0645f9e12886836c]
-│   └── spooky-c.dot.zip [9fb5a541e7e3b32d69efb7bd3b98080e27b274d275dfa17faa895bf048a81c71]
+│   ├── hackers.doc [7354472774a222013c6b755a5d0fd530b9f7bcbe2f0afca92ab39bdca64ce010]
+│   ├── spooky-c.doc [a20cc5d2eb32abe4009dd8a32966e95e43ff6bf468a2f1b16adaa2f6a7274fd0]
+│   ├── spooky-c.dot [205ad73c919a4f4e2beb965e286df4175a7af86c3f0aecc811a332757532e910]
 └── d
-    ├── spoo-d_1.doc.zip [993cb4f6e44ea11362e1e78f9f4b0c83a9f1c4c7d3344ae703424b246aa17be2]
-    └── spoo-d_5.dot.zip [d9a2345b6728247f3913ea659e333bef83e441904d52938d041d3d10da3a402b]
+    ├── spoo-d_1.doc [d6b116e338551b05feb744b249dcee58e60d349fb10efdc5df19a8235d4f1cdc]
+    ├── spoo-d_5.dot [5e4811ff87567b8126d5904e0d5a4053d58919bffcc543cce39db3e469061111]
 ```

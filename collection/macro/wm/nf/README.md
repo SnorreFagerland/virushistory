@@ -3,10 +3,10 @@
 
 ```
 ├── a
-│   └── nf-a.doc.zip [4b867bef7c0172fa657fa6266981c2b7e92d2e043c0b000c4925ff5e7e55f1c1]
+│   ├── nf-a.doc [19109670f4e17f7bf58ff2579ace97230c2a26b01b36db4e6e1b9c62e1af1424]
 ├── b
-│   ├── nf-b.doc.zip [82eaa07d76e1011ea5b3aa99549e40ffb23b5fa8f2dbd5459c8b63d3ab71baa7]
-│   └── nf-b_4.dot.zip [a8bba63fa5059b0df10cbba1fc32ab747c451332025dfa1b1ff798b8df7ad5ed]
+│   ├── nf-b.doc [5a5716b10bfc396afdcdcf80b19a42d581886008a39b819417f982e0dbfb871d]
+│   ├── nf-b_4.dot [09d4a2901e1e100b441adf80879081174c33c335a622d8530aab8519c95135b0]
 └── c
-    └── virus.msword.nf.c.zip [1543eb86ca1e54006a53f28b965e9cb190fa16d4c3e2f6b113f0777dbf222e11]
+    ├── virus.msword.nf.c [824a0420710bbcfe16d8c71fc6ec8ce9dd06803a9fc460b3b156e1ba7591431e]
 ```

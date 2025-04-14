@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── virus.bat.dit.txt.zip [a2c3988f6b270e29ed3f69132b2b8e2c70198bb7d869bf8911dd86bc88f464d8]
-    └── virus.bat.dit.zip [e3554a224351eecbaf377777d25f720405bb8fdb2580b30d7295542c5e122938]
+    ├── virus.bat.dit [09b1b2a6a9c8367035aa8a0198d596889592a868b87fb55829a692574b64d53e]
+    ├── virus.bat.dit.txt [fbdaf2c9d6757d6613d3046eee3911b180f64b36f37f5e0d465faa29487906e5]
 ```

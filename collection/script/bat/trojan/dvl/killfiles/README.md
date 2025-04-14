@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.dvl.killfilese.txt.zip [b0668469df8f9b2666eeb74d14d97aec58807f44070aba78270cd1b7f2af10ef]
+    ├── trojan.bat.dvl.killfilese.txt [a6992cb9a84aa39494094ccd4919b8d797c6b0ce9dfa5971e5aaaf1743a55d99]
 ```

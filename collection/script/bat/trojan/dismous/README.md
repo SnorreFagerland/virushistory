@@ -3,6 +3,6 @@
 
 ```
 └── e
-    ├── p2p-worm.bat.copybat.f.txt.zip [c0ae763495395ba7f7de353b86ad75e3c1793cf4a0ddd83acf6024da8ea76c8b]
-    └── p2p-worm.bat.copybat.f.zip [c4d6ecb4295543bb741d415fd95c8ad3d03cd6dd3017189b4b8c51d5c10dab79]
+    ├── p2p-worm.bat.copybat.f [cc9450c1e4c30bbf8414a49cacc2185051dabbbe5c8efb35a1d9666a2df37de0]
+    ├── p2p-worm.bat.copybat.f.txt [74fe371c137f4b27ec2e56fedf1fda532d9150c5b9f56706261b3bc3b8d53653]
 ```

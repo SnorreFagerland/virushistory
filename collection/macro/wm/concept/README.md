@@ -3,186 +3,186 @@
 
 ```
 ├── a
-│   ├── conc.doc.zip [91ba95d9a75ca8141999552ac87650b567f10c9e30af9f025355d601d9caa615]
-│   ├── concept.doc.zip [afd4847ae7c29b91824bdb523b8192e0c2e953f1bf1d212111afe557ec009191]
-│   ├── concept.dot.zip [8f69c06e5196e514c9ea6f58ae1dbee41561a23aca6299f4322017726f11ccea]
-│   ├── concepta.doc.zip [a289e63e2c733e4a9df730d19949cda43576fba84de91d8856a4afd9bafb0582]
-│   ├── ctrltest.doc.zip [b95baf037ddbeb16cbf121e27ef3cc7d5f819a4648a1a376b5440493c7396321]
-│   ├── doc2.doc.zip [ddbda050b07f5e86c0526114c99e1e92d12b496812e56cc74fc17e8f9bf98d54]
-│   ├── johnson.dot.zip [d1ecaf90e4edfdf6526149cb9ad1da31f1f7a5c860b5b0a4838f36b7a2b5ec35]
-│   ├── normal.dot.zip [1eea39884688cb483d5890f29215709cd3bc2fe09582ed869b6fa49ce227f33b]
-│   └── welcome2.doc.zip [8d58d87a228c528848299538715ff1b26e4ce544518f66b179ef981c4cd61d4e]
+│   ├── conc.doc [92d7ca2f5df5bae3924a2d3443106c3799679419c3c2c5cdbad18235eef3ecc1]
+│   ├── concept.doc [521bcb82462b2892aa49961f458921ee5337098cdfe141b26be6ebc97141e0a3]
+│   ├── concept.dot [2a053118fab972ea6ae98c9e9ba1163b61d31be1c52d296ac869750ee1fba947]
+│   ├── concepta.doc [73cc357015169877c67f973b49168096ad4907f152e6b941e0e5fe2a8b2d2a20]
+│   ├── ctrltest.doc [fede861ea4eef0c2d8eb588af77ecda260d7224d1263d0d1223cc5983f700be0]
+│   ├── doc2.doc [b26b1140f06fd911e9136c396f4b834edacc6644fc66b12ca45ee275f09d5283]
+│   ├── johnson.dot [1e2c0bcb36e13ad07d1aa76b8a5ae22935d990f4bea7bbe9e244fc6aacecbd8d]
+│   ├── normal.dot [725afc9b5cb0d7585d923ada4a512ee1a9afb96281bf0f66f8f6b93d2fb8718e]
+│   ├── welcome2.doc [e2cba44e7bdde6f51b9b66a979df3d3e50c123e9fd4ced047026253691547094]
 ├── aa
-│   └── concept-aa.doc.zip [26fe46beb715be2df0a212b4069fdfceccdd7679dc083332a16252bec81c5c42]
+│   ├── concept-aa.doc [d9deb0a86ed849284d82ea273ed0be29e6c74826b22e5bbaf37cca8ca6be7999]
 ├── ab
-│   └── conc-ab.doc.zip [c038af13b9045e202f5499441b6a3896dfa0150beea824f4312d62d3dd1855d3]
+│   ├── conc-ab.doc [e3fbfcd11109a0d54dadedbd5d1c7514bb2cc995cc3da9e3f4a217552bac8ba3]
 ├── ac
-│   ├── conc-ac0.do.zip [dc390b30b71132a1fe3d00108d996e3422f3abece6019bccf5fef48e949da11b]
-│   ├── conc-ac1.do.zip [7c444cd96816f8a95db7488262d28030b108afdfdfc857027128b8d58578b774]
-│   └── conc-ac2.do.zip [753ba4af12a02ea4f07c277a5afe1941bf2a109ec7f48d39f04786f255c95e03]
+│   ├── conc-ac0.do [6b37819e87f3bdfac495f80bac362a621d6f4f5026f87fa571542ea9f5eab7a8]
+│   ├── conc-ac1.do [89cab728516f646faca43804126dbceadaca33ad35e06f60b28ac8cf4ba4e345]
+│   ├── conc-ac2.do [b345c8c2dac2f33014b430919d45516a5a45518fe5970ea6db038f7eaadac150]
 ├── ad
-│   └── conc-ad.doc.zip [328ceceb2051a3ca8716bca86cc92176ef6a995f3de4890b673e1d6d45a090b3]
+│   ├── conc-ad.doc [9b290e7e404021e8ba1dd923d4d18a2600a022db076969cbfed852ac68d36f01]
 ├── ae
-│   ├── conc-ae0.do.zip [49df5b689a6b8ae975b47fc3f95db4c48de0084a72d0650a3e40b3e7c2da6f80]
-│   └── conc-ae1.do.zip [64a9d44c9cc258bf006ed086c238352a8a06597023dacd3696ab46cdf94208ef]
+│   ├── conc-ae0.do [8b944c44ca8ea015af79053938881b994907bd00204f0f908205b97a11afc77b]
+│   ├── conc-ae1.do [a3e619ff8bdb931a099b8539219792688911e0a17fe37dd63782dcd641ad4f5c]
 ├── af
-│   ├── concepaf.doc.zip [93bc677cf16ffa752cdf6ea66f4cb0155b9929dc2ff16f4daa0ce05a398726bb]
-│   └── concepaf.dot.zip [670de3cfe66ab2bf7b7469eee5f56fd379c0ac396838aac6949e8ff67c4b3b59]
+│   ├── concepaf.doc [46aecfc66add04fbb46791b981a20b4df8d60f60fe833f2aac7192127d7b3c3a]
+│   ├── concepaf.dot [aacb9c157b7d103c9c33470c769d6d65e9ed021796c5ba66686d5d2178390c0a]
 ├── ag
-│   └── conc-ag0.do.zip [6ea763a38f140d2b2b4dc14c7abe4fac829af8b010fd5aac2a25c7e69fa1568c]
+│   ├── conc-ag0.do [24dd6cca2a1869f4208c7b0a1cec2fc3ca9644aadd0211695cf23bc46c6ad9f9]
 ├── ai
-│   ├── conc-ai.doc.zip [8d5ac010227846f90844d6f19694f093880751cea4e31d794baef55309ff9a55]
-│   ├── conc-ai.dot.zip [1f2f8cf15f9697cded20e26a39c33a24cfc51cd37f8f2a41487ae6fbba89118b]
-│   └── concp-ai.doc.zip [67972f34371465951169409b2efe2389a5b4324a9ca4108c9cc7b64ea76bcbf5]
+│   ├── conc-ai.doc [d2461dbff590cd2786102835d6cf6c79fa6fba0cda1a5933c926e5772e9d05cf]
+│   ├── conc-ai.dot [11d7284370c5b719fa052cad9c354ed0df2c50fd24984a3bf57543ece79b25d1]
+│   ├── concp-ai.doc [e462384860a6024663e3b3778bba5739e4085e62038ae60cf2df680437b795a6]
 ├── aj
-│   └── conc-aj0.do.zip [941d9839013c6641943613b841223713792a79c14a93a3c7dd9c5f88a71ce556]
+│   ├── conc-aj0.do [158076a42649f302b58c719e2f3be8052b12acb620444439af7e84ade387331d]
 ├── an
-│   ├── conc-an.doc.zip [d3654d3d7828f83dbac996b4dd01c9abcd2a1aaa414c865351f480ccac1d1290]
-│   ├── conc-an.dot.zip [f26e0c9bcdfc54b841e5ed440d27e99a5d95a1ad24a3c9c2fb98f1088ced029c]
-│   ├── concptan.doc.zip [9480b3960d2ebfb478676502fe8d6c3b619f9d581cac07b9ecfff0acd931299c]
-│   └── concptan.dot.zip [3dd6f66b937178259027d0795ad110a86ec1a20fc44cff74bdf2793971c5a7be]
+│   ├── conc-an.doc [51ea2ed3a29a3a7463da1c735a14fea13331f71296806b83081cecc8e98d3c75]
+│   ├── conc-an.dot [1386c6f140f783b13164e3f3e7d7ea51bc47f042f750d968f5922882ab32f240]
+│   ├── concptan.doc [c07a1480aaab6729a25abb6cb7585e8d571d62d4cc7fdc80ec6d5eee294d5976]
+│   ├── concptan.dot [29bd4ea21aa1538d9c5e52404d56325716463f0274f0bb1a9ef65ab88002e164]
 ├── ap
-│   └── virus.msword.concept.i.zip [0c117ee73c6c49f870b14a04b0bf1a873f91554224aa4bdffcef71aeefe02b34]
+│   ├── virus.msword.concept.i [316e6f9a48dd474bc1e7a0c0c3ddc8c65ed4e7ef57ca0816cf8131993c5881a9]
 ├── av
-│   ├── conc-av.doc.zip [e53cf0cada26f2452a1fb60b32bdf76fd64fea2fcee9ef84db21ecad0fad6e80]
-│   └── conc-av.dot.zip [69c84e67583832c0ff6935bc62fa71f9811717c1102371029b78979ffb02b17f]
+│   ├── conc-av.doc [f0a32b28694e1415cc3d0588c6feb8f5831df64b8cc9d1943367a71f5cd9bf73]
+│   ├── conc-av.dot [108f113136f37163e8f8f78a50a94a1c0f843327042958ead2be55829f238e01]
 ├── aw
-│   ├── concptbb.doc.zip [f08e18e18eb3837cb8bad796ca3073dd639258c7cf7feaba28e005d989eaadd9]
-│   └── concptbb.dot.zip [cd9d896188286d56736f583958f5db8e2ec26aed10c5eec4271e5e42f306c4ba]
+│   ├── concptbb.doc [341fe8f34d9501dad977c79f52f7d7b6453310e0185e7d653a34a7bee6fa3d5c]
+│   ├── concptbb.dot [744c4f7d0b359dc608f7568be4d7d24345c670cf0c651b3ba805fd348169ecac]
 ├── ax
-│   ├── conc-ax.doc.zip [e369c7a2e9111bec9d5998bf24c4e5301241feb89621d1c8ae840c1e93edc99b]
-│   └── conc-ax.dot.zip [2502e54a9e8e9cbe642486d2b50dd3c28b1e6dfc17c316958e49aa6def8ebae9]
+│   ├── conc-ax.doc [33cec939b192a84626c594d09d46f85cce20584796713287e6fdaf061a59ae5e]
+│   ├── conc-ax.dot [e07830835c2eedd144e77b510f4754133623246e47b85df2ea8de09fbba7219c]
 ├── az
-│   └── virus.msword.concept.ay.zip [7e82eaa6f31ff49400d52204c4f0f4bceca662ac40c3e9d310c48eef7bff8160]
+│   ├── virus.msword.concept.ay [52e1d7a457cc0dbff2a38fd8b39b5aa3aecd2730eac710411b2531ce0f351767]
 ├── b
-│   └── conc-fr.doc.zip [634f15b0966f1f9ee84a8869e103c253f953357195498c2cae3867b8c037e419]
+│   ├── conc-fr.doc [6becf990a0406addba066e0ea9cd65dfd9819712424e9575e0f97843ae9b2d08]
 ├── bb
-│   ├── dntc.doc.zip [8ca5b41594e63681e77750dd918fee0b3d1e81bad8c8ad8d29a756c5db50a9ca]
-│   └── dntc.dot.zip [45049110080204805a299e08987f857d6a6f92d6222104356cd76f925cf6bee9]
+│   ├── dntc.doc [f5d5d623803fd9f1c312ead73def18eb0a4215f4349ffb0c44cd0ffee19907ad]
+│   ├── dntc.dot [7fe0fa89833eba678f82b46925438a974b81a05ddf222924e90c385d95e201bc]
 ├── bb1
-│   ├── cncepbb1.doc.zip [802ec3450ff519e556972350277f04ba9e602162c8abba1380ba8d5d9dbb859b]
-│   └── cncepbb1.dot.zip [9c9e98f9bb0ca1cc52f09a0400a534b9bbacf8d9c2027d1cea8c31a5a92fc5ec]
+│   ├── cncepbb1.doc [ecd34d4968d1423657923252b2439276fa3deb61c0ed52845d47e691a85aa930]
+│   ├── cncepbb1.dot [33d8cc81d1e8c7bbaf7cafbfd81b03ed585f4d95b1f7c3448894c61e8d5e5d7c]
 ├── bd
-│   ├── conc-bd.doc.zip [28b0ba703201476c9c2a2e6b89493fafc3b6edc8e195a9c39d2d87fb2e762bed]
-│   └── conc-bd.dot.zip [b82db0164fa49f3fae815c91074269601be8b250f2cf24d8b89ddbfabc20c44b]
+│   ├── conc-bd.doc [8b5a9ff4f7964c8a926b6c6c874162726d8363111d72d760eebd27fa8ada4082]
+│   ├── conc-bd.dot [6304eb96b24c79ddb645e66c15ef4f3cabf0ca54540072cfddc7c9351e56538c]
 ├── be
-│   ├── conc-be.doc.zip [f4d492ee6145edcb074792f17587e55d08a3638ece0ca0b14a03b82a25143d5d]
-│   └── conc-be.dot.zip [ad202f8155e2e3706ca2764d7baf2db4f18f0f8f3d1d1abe591da8623d968915]
+│   ├── conc-be.doc [ce37e8c7f97748756e1ccecdf5be33b9063584749f77da9e80302b30284e88f5]
+│   ├── conc-be.dot [d5f04173be65dd01cdfad55b5ee2a5bd91fde5d4d6657d20f631163fb889bc48]
 ├── bf
-│   ├── conc-bf.doc.zip [7d432df0be9564aa33f9c984ef05137f999a382c6fe8316b68941539fbcf68c9]
-│   └── conc-bf.dot.zip [6da9b2e9a239c6f0afb4206cf3209e93f25ff9e4486733c5a4de36a5973d92a4]
+│   ├── conc-bf.doc [121376c6394d7e9c2b3abbe8b102eb30e431023b4d833a0bcbcf1ef2e547aa79]
+│   ├── conc-bf.dot [c40f12aea9cfa8267ee963f50eff345eae981d822b871d29daf8cd601920292e]
 ├── bg
-│   ├── conc-bg.doc.zip [e5d4e811218c7f1d069412c80ebe710b1145645ae899453d9f6deb26e369b2fa]
-│   └── conc-bg.dot.zip [32811bb30e4b377d4247f256a974e9fce260e3f4d3131b57864eb7727d71756d]
+│   ├── conc-bg.doc [7292667e1cd5e0fcae8eb801d592a4b577e0a7feb1e75a2ce7eb3c183f84bdb4]
+│   ├── conc-bg.dot [8cf97544cc2ecbdc2ec8aac9f4dfdb9df86bc9df421929dff41cfdeff571d619]
 ├── bk1
-│   ├── co-bk1_1.doc.zip [916ea69ef54e8f69dd795734930874caaaed76840117b7080e359eff34df58f8]
-│   └── co-bk1_5.dot.zip [a638e90d0eb928e94946f5683435bab781f8e9c771861e95af2651e64c63c0ff]
+│   ├── co-bk1_1.doc [77490f5c3be9afe18921ca1037520f372dd3292acd8915b647aefc6dfa7ef1bd]
+│   ├── co-bk1_5.dot [4bb658e4f5b55a08706545a35abbdd10b36be738f836b9a714278ffff4d2577d]
 ├── bl
-│   ├── con-bl_1.doc.zip [48ae2684bea3afa7e14fa0132336e92b932b080920331afb4f0c561615d64802]
-│   ├── con-bl_5.dot.zip [4ce419297e874289aada00ec4fdc5ada8c47b551b3bb2ea8b675e7ada9959cde]
-│   ├── conc-bl.doc.zip [6c59fcac9a5a3157c8cda57f66994681af71399cd4a8a60d8e2c9ef2ac750197]
-│   └── conc-bl.dot.zip [7fa1d422a6a7e04cac454f327fb7c0545f2fcdde3759dda75dd03ba3d5be5130]
+│   ├── con-bl_1.doc [8015a6c6edfe6fd2294abd632b5c8bcfd48b61bffc921783cbb360c5b21b09c7]
+│   ├── con-bl_5.dot [4fc21e3f9b3350d6805fc685bb20db9879666afde095b79a016ac495f06d716e]
+│   ├── conc-bl.doc [5cec99bcb309cef9fd1f3fe45ed93b1b693c27bbdff89c8d57f111e54d43908d]
+│   ├── conc-bl.dot [bc0cdbd8467b88bc5d02d64c2042836e47ea9b0da102d5d0ca2db1ae46d2bf69]
 ├── bn
-│   └── virus.msword.printer.zip [b527d988e01b117fb5147e661095835da0a7374f8a4ce2dc9b52b024530822bd]
+│   ├── virus.msword.printer [1f7dd0aa9a83857130a0767877ba678db6062601fe477f1dcab64f2b90109cd5]
 ├── bo
-│   ├── con-bo_1.doc.zip [5a48602bf6e6ad05623e0e2746e92cf4f22cdc3f74275e4727837cf895f12e16]
-│   ├── con-bo_5.dot.zip [a93a6ff9cb8aa9af2693ef721121473503b1a86cef65adc885db4625dd640869]
-│   ├── conc-bo.doc.zip [1dab2f3d788d57d1880b12a40345fa9e90cc75e9a4a7f351264e9557fbe3a979]
-│   └── conc-bo.dot.zip [c44626b4eea82c74fcf5d2ecad3c9be4efc160b56a2660b2cb938a0db46a2a1c]
+│   ├── con-bo_1.doc [a761b8558cc4d01503b1a362de83c4cfde113c049a33cda6b87715b0d9884284]
+│   ├── con-bo_5.dot [0ed2310b7ed0353139ad1c63bfd5bbaaceafa4195e43189e0992b0a3214186f1]
+│   ├── conc-bo.doc [8c59114a1405f2a71f9fc6a37537200ffcde20561461def3939abe7e7e0536cd]
+│   ├── conc-bo.dot [41bba1ea8c39f2f44331273294b584586d1a10982f847de913c71f47d4a85482]
 ├── bs
-│   ├── con-bs_1.doc.zip [85ab6ed6d10d71cca9db36faf4cbd778659c4530527baf6fc85f7e6f19c210bc]
-│   ├── con-bs_5.dot.zip [ced49d4e3c1f8b948025fb0086a158aaa25a4f9ad8ed6e6b72372f723a9e062c]
-│   ├── conc-bs.doc.zip [1753d81ae4d2a1b1bb51b70c9d06ac5976770ab7b0be1790dd38a1f59fe11621]
-│   ├── conc-bs.dot.zip [c67bb864739cc99a1f09072e9eaeb0ea2e76a4d8df08f12d1a043fbc05b28ae9]
-│   └── wmconcbs.dot.zip [9aa47c2d63f2109ef8aad706d2ed8fa135a2b5bddbe181fdc8cec9116f900803]
+│   ├── con-bs_1.doc [e0658899b43b1db094ec36f0b20ba0c2c9c9eead42d973c1f27c61f5767c6f8b]
+│   ├── con-bs_5.dot [7d0f0f2ad2c9bde0ba65524619a69665843139b75a7ed9d8f490b7d2ae3145d4]
+│   ├── conc-bs.doc [27c8f79ee44b96a7c2da78127a6405620b9d3c04aa6a9511fe9973649ba3dc7d]
+│   ├── conc-bs.dot [5877c761eaf5f2bacbc9536b9d5eb09e0d847e068f530929ab7511b1f7242b12]
+│   ├── wmconcbs.dot [5aa43db5de2ad4b6350a7bc8b922682407ee40a9a5409858c9e607aa04a650c6]
 ├── bx
-│   ├── con-bx.doc.zip [a0bd592e9dcfe161b28bbc4fed368c99fca432edef6ac93d1dcd521588e9c7f5]
-│   └── con-bx.dot.zip [856b6ca6fb3fa96c41262be7b5c48a8d66de71595add570c9929a65dda5e1d75]
+│   ├── con-bx.doc [a95b1e069e0cc3817f834a494e81cc7300d00bbaaa8447137ad1695bcf6bcdc2]
+│   ├── con-bx.dot [595b9a1663f205efc31f46fb37e3ece232b2cc639ad16b3a45522ea618dd2e3c]
 ├── bz
-│   └── virus.msword.concept.bz.zip [576c19cd4bd72c3873804644d25f7d3db6afd54553e682d63fbd8c89179c96f9]
+│   ├── virus.msword.concept.bz [9b985436c743730aab2965611209a909977e5fb4bf39bc9f2f192ecb185b98b4]
 ├── c
-│   └── conc-c.doc.zip [ea237ecef1877c49947793aaf6ac3f086e491530e9ffbee9f0abc88fa681e28f]
+│   ├── conc-c.doc [ce5f888f1545616cb9b1f238eb0e9aacd11fec9f42e16a35c535f4cee0266200]
 ├── ca
-│   └── virus.msword.concept.ca.zip [f97e0c23661f979766cb5348cc77f31efe53eb691534e19d6ef40c9cb7b20e91]
+│   ├── virus.msword.concept.ca [707ea21654c995820cae38300bccee4172129741203b6a56d6674589e9a30935]
 ├── cb
-│   └── virus.msword.concept.cb.zip [4fa96e7cb85f55b11a8ec5c1b6eac07f0a2e25fbbbb97a24e8e676a0c71cf799]
+│   ├── virus.msword.concept.cb [632fcee1b3067f054225dc8d2387fdaf4227f34c38468c029010ee79d205f1fe]
 ├── ce
-│   ├── conceptx.doc.zip [f7aeefb3694c8b0c36eb114369ec4cbe16a37267ece4866cc4a0736d9ef80bea]
-│   └── conceptx.dot.zip [4b5c6533f398f5fcc201e9100714ce2f8556d4c94440a38152463b09cead63ad]
+│   ├── conceptx.doc [2f4c5e6c94acf1c1f8bbda74580ab5ddb26e905ae618b128a94e95db7f9b11e0]
+│   ├── conceptx.dot [015293cc249e6e65760ff67e99bd4b71a92cf9da6c2734b94908bafbc85772ce]
 ├── cf
-│   ├── lorax.doc.zip [5bce125168f2f389563cd85475e9b46a622d8c1b69fbed492df3b0f61591b71e]
-│   └── lorax.dot.zip [b3ac5be59de5b2cdcefc6253fe78073977476f8c298f6a6079070883775dd3da]
+│   ├── lorax.doc [2a9104c2b63f72fa7fb4c9c254ad4f75d7c143f86b08049b74cacdf97b4a188c]
+│   ├── lorax.dot [12781d39b6fb48ec9885876a4932836eb5bb19ecb02190e1596f4dae56310054]
 ├── ch
-│   └── virus.msword.concept.ch.zip [2decd9106fa2940921658b77e38370c3aa584c875dc98f795d31b833b4c3c819]
+│   ├── virus.msword.concept.ch [b4ac152bf0f24a5e0c4920686b0e3f7df571398fe9456ea8601029c6da364226]
 ├── cj
-│   └── virus.msword.concept.cj.zip [0f90f9c3408442b02ab583744df42f83a6cc2f05e401c375ec35bfdd2c988cc0]
+│   ├── virus.msword.concept.cj [515fbbeb51ed366f35b6b24b7ea462a54b30b189a6764155d54cf0fd2063b52f]
 ├── cm
-│   └── virus.msword.tanggal.zip [773351a389782aabdcbcca931a774e8953d400b7e05f5807994fc8e507c72e9f]
+│   ├── virus.msword.tanggal [0ca3fc0f618d7259073534989307c868a3b2a796d72d69b19e2aaedf012b83bd]
 ├── d
-│   ├── conceptd.dot.zip [44f8c81e7d3e401d92b7b63d3ebe6cc65bc33d87b9b736ea166ba6eea8f78e0f]
-│   ├── litlrock.doc.zip [d23d58ff62458d84bb8ab25af812f88cfd13909fc8329e7b3b89fee0b40dbf45]
-│   ├── vmacro.doc.zip [713032d4e74b8459d60aa86210e72b9ab6f0a2539a0b645cca4996391cf615d4]
-│   └── vmacro.dot.zip [de7fb7dc623ce870940401ea8ddfba0e8bcfae6d0299325924f91951ecbdeb24]
+│   ├── conceptd.dot [965bf236095b01c037382a1ded1821b98d662ec04fef6402003ab9cb0b669617]
+│   ├── litlrock.doc [adf8d80ee83d7d7ff91fe889efb49123634e116c3dfb5e1717b6fca4780e3247]
+│   ├── vmacro.doc [78f2d99365d13553c89c5514d7009e4bfd30134be35aab33ddf24ea089fd8ae5]
+│   ├── vmacro.dot [f6ad70c82522f7862fb44e8f0adcf0987de20a18d3cc63527a9dc65aea05ab79]
 ├── de
-│   └── virus.msword.concept.de.zip [e3d2e2bb0bbe486fb9c4434287203104b73c6390afae519b4f7e51e0c7861cb3]
+│   ├── virus.msword.concept.de [02721c01692e68d350474742b7db018a59d3c19dceb455c5ed57b055e26605f9]
 ├── df
-│   └── virus.msword.concept.df.zip [b4ee0f75b0c7eea7836d5c203d382ca2c0c17eff3c0b3ee748ba469908cc50f3]
+│   ├── virus.msword.concept.df [b9ba4da9026369829756a36113c054f780e36116066a7f392dcd245e790cbc61]
 ├── dr
-│   └── virus.msword.concept.e.1.zip [fe5e45ca7c5a2942880153a49783c75bff2b417c0afcd403db235b78d32e252a]
+│   ├── virus.msword.concept.e.1 [f67e71592cfd08a1d7960d0bcb144031a336ae4e5ae20b53a49b950b18e6e908]
 ├── e
-│   └── conc-e.doc.zip [685b19cc9666db384669f499c5c479261725810248b40e8e597c6b7f55ee05e6]
+│   ├── conc-e.doc [e3845f4f4b88ff02c90592ebc4824d4a8b74f5c94ec6d3a6382add12341b1d0c]
 ├── f
-│   ├── conc-f.doc.zip [a2de4dcfeea101b27d8bdaa030827eddcd310438dc3a13fb8924eaf1d0084042]
-│   └── wci05793.doc.zip [614ac215bb3c4619c3589e57a42d811a8d7dc3d75e5998cd7b77d1bcdc5a0ab3]
+│   ├── conc-f.doc [640016d345bb03220e6dc3f68228fe744ff830cc80dbed4c9430b23d1afa0732]
+│   ├── wci05793.doc [9c9c3ef66727e56ca617f670754fd6addcd7a6e9e729abbb7f7d7eca98f9eacd]
 ├── g
-│   └── conc-g.doc.zip [239b2c758ee16fc6968fbd73a778247a84e400e7edd360ff8fbdb4e245a3cfdb]
+│   ├── conc-g.doc [fd6bf2bf59d85c6be19649b83ae8e5e9e776369293a9ef7e67f00f7af725c7fd]
 ├── h
-│   └── serials.doc.zip [888e9fd61113babdf8de3cc690024084b115e3101ce3c73542a8ee3f5edf7fad]
+│   ├── serials.doc [459acc3abcbf665cfdc7020ee255cc9a3f7a94d9311b2975636d96bdb9083444]
 ├── i
-│   └── conc-i.doc.zip [1533a467339cb4e7a16b0a849da07f8489a465cec54c1ac2a9ea75f60f78f9e6]
+│   ├── conc-i.doc [39f9808f8459259076ecec502e0cf2acf496299d0d2224da483cc92743ad2514]
 ├── j
-│   └── conc-j.doc.zip [2d233919aa807a761bb26167e7b95b7ffcef6d0a8b88ee0a0ceb8d6556adf68c]
+│   ├── conc-j.doc [2f7e536020e07d986644b61a5bf51d75af7782b5cb9994120572c414508d8b21]
 ├── k
-│   └── pheeew.doc.zip [c4333350e9b0b931127bbf8513ca25b4e11376b27cbc078bbbf5de65227f7542]
+│   ├── pheeew.doc [054a0972b34b4438836fae9cda3ab707761303ce882b5dbc7d0bcf96caa3a089]
 ├── l
-│   ├── conc_l.doc.zip [39115d1546205f60ffdd165881375b54b86c565c81d5220e245939cd31526b2c]
-│   └── conceptl.doc.zip [be364b7f1e04a49bdaa93d998e586d7bc4fcd7543359b5a8dced319d3a39023d]
+│   ├── conc_l.doc [607831aad0a683dba0f0018e7cde3c68b5c98fe215dfbd01370ffa64a048e954]
+│   ├── conceptl.doc [68e72883cc3e7fc13ddfcb8b65fd56efbafcd07a629dce9781936de0b17b3511]
 ├── m
-│   ├── conc-m.doc.zip [46ccc6349a24157caf69a57289164efa63ccf962e822dbad18bc87dbb7b0b092]
-│   └── conceptm.doc.zip [171d20e9ae10492da4ff61c5efc2c1557768f20aa2de3c0b273ed77c4dd7464f]
+│   ├── conc-m.doc [49f5b8b28ef310b38a02b52ed4929460135bdc8fbfb9050bc8a9b36f98a17421]
+│   ├── conceptm.doc [e72fbf54f787b321a0431ba6da5c195bc96fe81769aaaded7c28fa4c375c292f]
 ├── n
-│   └── conc-n.doc.zip [23f2475f4faf48e47771772552d6716e5b0b53876a789dc6bcc7c4d8154ed879]
+│   ├── conc-n.doc [7de6c907d0b47649afb2656a8fe6a3a3636b3d0b6872d9ee825614baf6063cd6]
 ├── o
-│   ├── concept-o.do.zip [486c8a967eb790c07075907fba03e2d7bdf5230bfce1be054e9bd66c7d469a14]
-│   └── concept-o.doc.zip [e792671d8baedc8b3e8395f21cd0e1c1aedc3ed0145e2a7f34e043ca88b326df]
+│   ├── concept-o.do [69f9fc483d5944f8bf49ae3a1c7f5e6c0cb65a2b106e76742589c71abfdeb34e]
+│   ├── concept-o.doc [3ddcc85f6e343b6bc3a65a056c9f573b2f0956f4e227aabbfff621bb5a28c0fb]
 ├── p
-│   └── concept-p.oc.zip [44571f40dc5a963663c031ff99a66f607345cb939d469e85e5b017992f1eca02]
+│   ├── concept-p.oc [cd6258f4d8981dba7f4fae64f4601e71b09cc1fb2a7ba830fc06b73d352f9c71]
 ├── q
-│   ├── concept-q.do.zip [eab8b478d6df86839869587efa7d66ba8fe01bba4b19c0a0f4190c5d543b7134]
-│   └── concept-q.doc.zip [9250c4b98fdb225bb9c8335146687b089c45eedff9d6a009b4f95257b26ccae3]
+│   ├── concept-q.do [4ffdafe793d7b09218501483073227c221acb1cb7a3f57b1ba603c289db7e5f6]
+│   ├── concept-q.doc [4df6ab03ba7c665387a644b7fdd07c3b5ab79f8706a9d8e2a3b73fd31949f7e5]
 ├── r
-│   └── conc-r.doc.zip [8c8bb3d5c143b1571eab92d1f19486dc5bf6681522b0ce00bb317e9086cf4d26]
+│   ├── conc-r.doc [d1e31d54fef9db7501606c6f5bb0eb83e28e40cac0918881be79739ff643c972]
 ├── s
-│   └── concepts.doc.zip [302f6765d46f227071c05cff166c2b0f988e6a5190cd81fc9c85d242419eda93]
+│   ├── concepts.doc [df7409e284e6a62f07d790e9c4a436b7217a842983c1c1aea93a9cb77fc64f29]
 ├── t
-│   └── parntenc.dot.zip [bf320ed304b9f073e0c8aa833f9e06a4b1c75e59b622c0c9349e535cbb6d89e9]
+│   ├── parntenc.dot [dcc758985b38ba15ac3938c6484a6730125c30085802de43cb65350af7672427]
 ├── u
-│   └── para_enc.doc.zip [cadac08ede2b1ee1ee53d9781bf09bcc5df9fdb7f75feac7194487a030e56c30]
+│   ├── para_enc.doc [e363fb705680eb1e729160166ef23dcc50a620a4161dade028c5d956f23546dd]
 ├── v
-│   └── virus.msword.concept.v.zip [eca493469245f8723ef40cf8cf17d3102c8edeb9b52ffc857dd92a3ed2fdcdfe]
+│   ├── virus.msword.concept.v [2a7465933888522fba42f3314c4c1c86667c7966af3307cfd177e5d18564a75c]
 ├── w
-│   └── temple.doc.zip [adfd1fbabdb7c3336609c1ce4c786e52a53e51d1c458400899d650653ba18140]
+│   ├── temple.doc [10e39ba89241a829fc99d05d46718ce61bf48283b6ba49ef111aa7f0f7c81a36]
 ├── x
-│   └── conceptx.dot.zip [0274ad5813c49237ba5a1b752e546a9e7f2b59f38516500eef7a33357224a5b5]
+│   ├── conceptx.dot [5f3d1d4dbcb5b3a3cc7fd2c8bb0d46c93ae95283c4a75bd3081e8936558b9dd5]
 ├── y
-│   ├── conc-y0.do.zip [7f77ad7e3d119855af866b5f69191bc43eab3c9b5ee4e2b5762cf146cff33177]
-│   ├── conc-y1.do.zip [1715f2ec838bd4af3f56b5568ec1f78a94e3dc648ceaebca62a2f89c75d732ac]
-│   ├── conc-y2.do.zip [babf91974a8ed0fd271a26096dda3d33e27c6c361058f6d66fcc9aa1aeb0e838]
-│   ├── conc-y3.do.zip [ee75dc18b8b27c32ae5b45c335d544009392df7722dabf25371c414c6c9c0030]
-│   ├── conc-y4.do.zip [f3bfd20fb1da7a755fa419d4a960c043e2bbf3cca32b36d7cf41c4b14501444e]
-│   └── conc-y5.do.zip [6f67a900d96018afbc50b3c323250c5f602418c9b0d8ec96df8aa0d79b8700dc]
+│   ├── conc-y0.do [52cef38ae55999fc2747bb0012fe70f92d637450d53f6296066faa1167147fb6]
+│   ├── conc-y1.do [8205804f1601eb995d8c3df572d3165467d039faf3697e4f2715ef2726b7ced8]
+│   ├── conc-y2.do [b0c8021db9b8dce01719bbfb5d1ec40f802b1264e941b15e4da46e147e16ec05]
+│   ├── conc-y3.do [bb06172056192529e1a61ae3af3d2a7b468ba43c470d92c139e438367d49bb2a]
+│   ├── conc-y4.do [e466d4c540aec52b4a1208fdb96c7a6c847adb5b1d1f66781d05e5c5fb8b4662]
+│   ├── conc-y5.do [f6f8492fc797465b201a026a3ea1b0114a8ebd32900df3c6f54f5b70624c64af]
 └── z
-    ├── conc-z0.do.zip [c02cb09cdf3c48266b4aeff7e382c226b0c616fb604f1eb9b8aa04b9eaea186a]
-    ├── conc-z1.do.zip [7065e43757074db07f1791cdd18a9f4d12daebfdc82804b9334bbcd23ad1c917]
-    └── conc-z2.do.zip [e9a01cfd3978c0e403f7e5d7a20d9415ef93abb783dfe39ce87b1c149f8c7ddd]
+    ├── conc-z0.do [4fcb59ef4ad3281d5a5a195815c03552c50a7b4b131e1e386cccaf70f1b12743]
+    ├── conc-z1.do [59ed978cee0ed032a72057c35bc0ce5726d57123d786719d84c006bf0d8291be]
+    ├── conc-z2.do [da3970ea0e47fc7d84f02ff2f091262be8eb5894e719e0b3b179ae684bee00b0]
 ```

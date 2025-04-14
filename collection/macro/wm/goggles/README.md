@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── goggles.doc.zip [06e977483d6529ddac953f072583fac03fe07bb30bb62f6b934936abd721a4d3]
+    ├── goggles.doc [1f8c4235a3add8923ee01d893d63891a70cab23b7ebdbf8aaa324d9e06e1a75b]
 ```

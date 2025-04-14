@@ -3,7 +3,7 @@
 
 ```
 ├── c
-│   └── bat.copytoall.c.zip [8809e8e18901a90b4a50867f6eba47a427998556e0b4bf952212c8f146024eb3]
+│   ├── bat.copytoall.c [8dbaa2d0cff5f14826485873238a8c94381edc5b490deecab93dcd50e887d292]
 └── j
-    └── virus.bat.copytoall.j.zip [68430c9bf4a98cc9493ed066c38f3269d26c33376a90d17915a2b3b4d3bf4223]
+    ├── virus.bat.copytoall.j [35a72f4afea6078d3793530f6808b97df5ed3402b2e4342e69c98feb272edacd]
 ```

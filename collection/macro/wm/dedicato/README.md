@@ -3,5 +3,5 @@
 
 ```
 └── ait
-    └── virus.msword.dedicato.zip [affac9832776bc56999590a1d40b29b7d22ae8b116dfdc669fa809ff4031ab57]
+    ├── virus.msword.dedicato [63c5c1ee9468f58d603c3c85f3a41a3eb633e65db14de0ab9564dac80d91e007]
 ```

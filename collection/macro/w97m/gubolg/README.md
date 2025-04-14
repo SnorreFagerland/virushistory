@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── gubolg_b.do.zip [b934defa01244c231224444f48e438891fd03982bde71e1fe04976a0f4f997a0]
+    ├── gubolg_b.do [fa4b84fa89dd2c8b4ebf54ce38720bbc0f2c8a5ffe655f216615c4e7956bfa48]
 ```

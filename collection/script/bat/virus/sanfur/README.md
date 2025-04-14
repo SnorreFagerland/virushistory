@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.sanfur.a.zip [14df8f84096e2149a3632ba52430313922c795084797ec231fae50eab9e7f320]
+    ├── virus.bat.sanfur.a [741706c0410abeb1ddc892dc115ae44fdfe2e71ab3a68e1eac9dff6a3fb35597]
 ```

@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   └── breeze_a.do.zip [95ca33e814fd8de010fa10b69fe79bb150c7dc80afce332bfe2cea6b5179bea7]
+│   ├── breeze_a.do [00ac134dfd4a77333fb3d84b7e075c727ce852bbb2c89e538c99cc00533d3b7f]
 ├── b
-│   └── virus.msword.breeze.zip [3f4dfc01a5b6c0213e942d11964c7d1938d762bbd4626d1a79e6ff73aa5de576]
+│   ├── virus.msword.breeze [2bd4b1279de5521e17dd788d6defd81cd7cf6a970a726068cc2854fdba710fa4]
 ├── c
-│   └── virus.msword.breeze.c.zip [fba489b5182fc4b9f354d98386f127cc9592e3b2bea925ec2087a1bc8fca0e90]
+│   ├── virus.msword.breeze.c [26bc8dd7a91fa2a70b9a28a467d9949c352d1187e60c7a4afa34edb570434a69]
 ├── d
-│   └── virus.msword.breeze.d.zip [75ed936c768c41b2c7c6f7a2bca80c644a2ed2b2c45df1aefe54b8812984985b]
+│   ├── virus.msword.breeze.d [a72861d46eb9d419d854cd9b182c3a78f69d99c2b63aeee80f4476c5301d3324]
 ├── e
-│   ├── breeze_e-001.do.zip [5603fec47b4662c7accc7dbe14d7e184c1c22fbd8c1c2114fe0adbae5566ff01]
-│   └── breeze_e.do.zip [60f65c6e0098c260dca8efc635101a8bcc0eeaf97dfbc8a845b379ddbe261bed]
+│   ├── breeze_e-001.do [fed7e9fb53e573c28240a5189d630ef448a35a53c37dd280cef6e5ffdbd63e6c]
+│   ├── breeze_e.do [a36fedc347222f63c714389e8904ac500b46d96cadd9aa928318574e6b234b9d]
 ├── f
-│   └── virus.msword.breeze.f.zip [7da7be5e67d273310133e64ead64743cf6975fbe2b9f0db2ec6d8fa8c39c1945]
+│   ├── virus.msword.breeze.f [840902e2183363c662de79301d37edd44d2f1457feb76f397db398158332a807]
 └── g
-    └── breeze_g.do.zip [31a671c4b2d923d793fbdfc93335ec88a7397279fc96e94da268230bc17cd587]
+    ├── breeze_g.do [7a3fed416aeb67b17a40eb74a9f1861b0eb49069931a4e49926de77e6e0b5c8c]
 ```

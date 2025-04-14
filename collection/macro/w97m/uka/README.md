@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   ├── uka_a-001.do.zip [52374f93ff8dc01079e9d6782e780b96cfe514e828df59848b25aeedc48d69a0]
-│   ├── uka_a.do.zip [63219973ef24200c0b0b854fa7607fe55addf89f13e12a1299dbee0cd9488dd6]
-│   └── ukaa.do.zip [030c9f765d5a19dea4b7e4421643d9338010aa025e7479ec8ced443818273ce2]
+│   ├── uka_a-001.do [7729312ec6fcc13017ff6c0179d87d26f95a6115917d940d89101bddb92df10b]
+│   ├── uka_a.do [517df2c97fb9e4ec959ae908c0ee280b3101f8c22124abcf20b96202c6847d2a]
+│   ├── ukaa.do [633359ebb81cac407058cd1a4e11c83f4d60a573ad616fac926cc1ac0657368c]
 ├── b
-│   └── virus.msword.pelaku.zip [0704acf747d384b219f19af9e19acd6853c5636a4acc82e3047e2549ab020bd0]
+│   ├── virus.msword.pelaku [1f5ec006d81003a245f594b55329983c0bc9a5607dc053d20af09c14ee92725c]
 ├── d
-│   └── virus.msword.ulang.zip [83b6caa7e3c9129003ec6458b5b7befa86a531ab21a358e639d657a37d91a4b8]
+│   ├── virus.msword.ulang [a9032bedd564abd2e692d21dda121508cdf5c6cd5b5bc033b39e5ea4f6175886]
 └── e
-    └── uka_e.do.zip [ca5d10a765918748da600aafde51480904bdce99c194eeeee3e7842a6ab051b0]
+    ├── uka_e.do [d941dbacadab5aae6636eb30f057895be5100394c49cde4c69a0b416139a6b01]
 ```

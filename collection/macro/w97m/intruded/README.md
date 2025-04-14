@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   └── virus.msword.intruded.zip [38bdfa87cbb001b60351722d89ad23a0c3802eedc11f95599fccf4e49690dd79]
+│   ├── virus.msword.intruded [9694840fb999e49bd9c8f52bb66bdacf4d61a6332cbaa91739d0bbdbc8479760]
 ├── b
-│   └── virus.msword.intruded.b.zip [56560d0e78e502b01aa4d1f83aa7901b785fc1bdb1814b2f1504293010aae472]
+│   ├── virus.msword.intruded.b [264a693f346b359f1b71039866143545fed5e0730a0a5657b9c402d464460422]
 ├── c
-│   └── virus.msword.ppack.zip [69292ed13191f4a543d1da0091f7f76e0dffea53c02daddd27162379f3f2a71c]
+│   ├── virus.msword.ppack [dc548e2af35cdb681e6869e8d4e684c5185c72cd33d66bbb386599782582396b]
 └── d
-    └── virus.msword.intruded.d.zip [4cd6b9995fdf19a0161e40d82f2ad1a4164a2635ea058e2b8556938d3d9539ff]
+    ├── virus.msword.intruded.d [39dfe845a717ad3ecd498e724001016ee70a132f8f869ba6a2b18a123a9de5fa]
 ```

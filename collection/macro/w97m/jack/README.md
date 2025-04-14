@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── jackal.doc.zip [0697134640d8a1b9b1b540be4b7bf8af0e2bb205fabb506cc8095b1e47f69ba7]
+    ├── jackal.doc [4c7acabddda3148490181b7f57ce2193d3b63e36b51c7f42d920225ea2bc5c22]
 ```

@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   └── virus.msword.flop.zip [35b9afd03948e762ba08d70b14528a6838c1eb97f80b26ff2149ab52cc4e63bb]
+│   ├── virus.msword.flop [a243ad0e3ea4fb9c47d1990cf0627bf24a36ee7f0472a5a88aa48515930c3316]
 ├── b
-│   └── virus.msword.flop.b.zip [57ace5209dfffd24284ac7dcc14198a512711ac5a497199633974a99f650a489]
+│   ├── virus.msword.flop.b [d5378dd1dcf3a99e449b6ddb79d061dac918e40253704119b43be783c8643a4c]
 ├── c
-│   └── virus.msword.flop.c.zip [558dc114e6beb544a5b14b27d952ebb2de484b7b698568835224001ad553f84a]
+│   ├── virus.msword.flop.c [71d54cfe83fc6f55651972d226be4616bd700b4d497b9187da323a92fad7c567]
 └── d
-    └── virus.msword.flop.d.zip [c8f83fa55d8ad90d05add5eaebcc9d57fb5e3f3536ad44fcc727659cb770fdd7]
+    ├── virus.msword.flop.d [2cd24cd5b6d22d69e3b1f62c818688ec0dd7d205d8edd781a184c21043875c0d]
 ```

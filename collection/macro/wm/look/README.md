@@ -3,23 +3,23 @@
 
 ```
 ├── a
-│   ├── looka.doc.zip [f24aa6c41025778def8b4df8b2c070e927e0b70d9f229d2a4c00ea2ad5e7dce4]
-│   ├── looka.dot.zip [8fad6fed08aa46d95b62ca17f5b3df16b57ba4e6b0eb97cf2d9fdd37be9c2e45]
-│   └── taiwan.doc.zip [db1c2e65fd2af1fb883be870ce185a01a98cb0057219ba329c2d93fa105e4c04]
+│   ├── looka.doc [0fcdd00a2d90a69edca6944c9793e5199a010a61f7b254bc8085f826de1fa3e0]
+│   ├── looka.dot [8f0b7924311fb077d4d53cc07b1beaa43aef5d6c9067d2f6106e14fc13973167]
+│   ├── taiwan.doc [a36759382afb6ffd65c6c7d757f6f1ae768446ff323312fdc6dfa66059ee964a]
 ├── b
-│   ├── look-b_2.doc.zip [19135de02bf979c48fda9821ff2b6c6d312d05ee1301684110f6f260c4a14758]
-│   ├── look-b_4.dot.zip [37f4b4ed389aa8def5b856772bcb25075e189be1c9d8c7a1ba9c56169a59c758]
-│   ├── lookb.doc.zip [72301b277123be55d747023287f557759f2805be561901fa3586a06eef4655ca]
-│   └── lookb.dot.zip [e15f229ad52291d3a941a96f174f3bbccb182dc2b6605d4a9b81e77c6c2a5dbb]
+│   ├── look-b_2.doc [f10e892314293621125321e1e863d75005bae09b3be8a55e04cfc83dcd79860c]
+│   ├── look-b_4.dot [5841a7c2fbaef03cb7b1cf86f7fcaf7223221fe00ea5dfe4b4457e312c16b9ee]
+│   ├── lookb.doc [a85e18a492779998f5683e4ff124dc23940a708ff121bb05130a7148d4ff1a1e]
+│   ├── lookb.dot [513c2ad6d82f8630caca29b2fe36f69baee29b91d588f9f0379b1e7b9f70857e]
 ├── c
-│   ├── look-c.doc.zip [8ea8637cdb2cc93977d5ad95dca5aea6636c31181fbe943e770bac39b8507851]
-│   ├── look-c.dot.zip [8899369d4112e37abe1155dacd1ff753e2bdb1260e17666d05209103ddab30cd]
-│   ├── lookc.doc.zip [c5db2350ded9829dee081d04b90b9d46d87b12f5e04b293d8627d6d0276f6cbb]
-│   └── lookc.dot.zip [d63952266f99b57545bc02e3602da1fa0f14917ce16a18b1a6b056fca007ec11]
+│   ├── look-c.doc [190bb4db8d90b3e9751b39b3649affcdfc4c56077e81d10e15f6e45ef23d98d2]
+│   ├── look-c.dot [f9f9248507f24c419ad2d6ad89d60aec616e7c01dcecd8ddcb8001d5665dd148]
+│   ├── lookc.doc [cbbc07d648f6ee6dc8a5801004631b990528c2733eebd7f1b5ec87890cac1d02]
+│   ├── lookc.dot [ae1dabfb3ec278cb4d2b2c72b9603b1af7a19728916e95fdd0dc2abc14ce79ac]
 ├── d
-│   ├── look-d.doc.zip [c7e849b44f89efc8a83fe08518d0f84ca673c09240d7e845f656ff57a3528bec]
-│   ├── lookd.doc.zip [9641a058b71687dd86d405ae78ba261002c1ff8532c345d0f01362b1af37d6c8]
-│   └── lookd.dot.zip [02aad7417e78901d7057e1d1a55f25fee6b7dd5296b039163228aa3b00c79758]
+│   ├── look-d.doc [b4f359d80705516cbcc4d5a343753142f99b8f48facb026d93fce7cb880297fc]
+│   ├── lookd.doc [d1706865aafd7e3b6924514c83231c6144479766b00c2ba2acd4d68f470c60df]
+│   ├── lookd.dot [5f6848e62c7b7915263f82594a487e2f6fde9f391d27356d5c53c8c8856c95d1]
 └── e
-    └── virus.msword.look.zip [d4150a351313af29e99b0b0df6daf11371cb99daaa483c46c42a6dc2174a70a2]
+    ├── virus.msword.look [43fe5e7af8444f10f08615bcd4d0ce81d249820ff140ac2158fa7fb7e50d35a9]
 ```

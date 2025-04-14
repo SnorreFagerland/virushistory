@@ -3,16 +3,16 @@
 
 ```
 ├── a
-│   ├── azrael_a-001.do.zip [196428027400724204109ef9092bc3645d6e18f1b48aac5a4d7dd8ce959088c4]
-│   └── azrael_a.do.zip [818e9188eaf9d1df1ddac40f4e43018fa98d16b2d929f772a6fc633cbcba5967]
+│   ├── azrael_a-001.do [b7d88bb616f5515e5b88743240406b06b7acb0ab91d9ddf6532ea11c202cc41a]
+│   ├── azrael_a.do [af6114bc350d0c9d2c5d4801134b16d028cf90e825cabde4ee9ba7f8d1e608dc]
 ├── b
-│   └── azrael_b.do.zip [3380647987e3791b6c55856edc405ff7092af13da95fe0475cd900cbac87d983]
+│   ├── azrael_b.do [65b64a7ab2837bfa8cd3f1895e8e04bb5303c6e8dc0fdf9e4edbd6b59b2dafeb]
 ├── d
-│   └── azrael_d.do.zip [3fc79caa2c6222602548406dbbcf1d6a304e8e7aba0b2217266f70095f5135ca]
+│   ├── azrael_d.do [74ee94ee3e2b42ae85bd76634e77932a9e0734bf69129f9eca5f563a1e8419f2]
 ├── g
-│   └── azrael_g.do.zip [76bf3540229cad00188fcd21610221eaaf4d183d9b74d901b7f1e4b7f629cf31]
+│   ├── azrael_g.do [556b2e29794bd73e9614c2660a380b5511a27c4475acd6a64fa9f1ab98c68d1c]
 ├── h
-│   └── azrael_h.do.zip [b2b6a7f11c2786fbde58767cb3fc2bdacabd5c2695037f01a219389a2a73b57e]
+│   ├── azrael_h.do [6e7227a65aff5029453bcc9e13f329b68cf0c3ab8505f8b50a040323ee66e67e]
 └── i
-    └── azrael_i.do.zip [943e1744f8461138eb638aa1ea034888521178598c39b5fcbc6c1e97bfd375da]
+    ├── azrael_i.do [e8b692c694060b767a8ed31be41a8cbfa3cf8dc517aecb0bdd41fa63d7d01647]
 ```

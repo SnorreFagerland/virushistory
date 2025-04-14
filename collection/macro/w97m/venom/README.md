@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.venom.zip [36637cc1acc1820f04edd399a26da59ea12b9cb3dbf0658a48f2351b8c5779e6]
+    ├── virus.msword.venom [7cb3a882cb06ff2603a95b5dfbb1264343b1e693bb60071bae3c6311ea2f16cf]
 ```

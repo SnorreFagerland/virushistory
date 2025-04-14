@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.msword.cristall.zip [d2430af1053d2da6f9e24f2c73e42f6fab202c55525705b15f04deb3900f4b1f]
+    ├── virus.msword.cristall [9652d90c7d14275e08e52b49d8d0ec60ec11b1641b765ae8eedd8957a054edd7]
 ```

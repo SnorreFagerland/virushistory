@@ -2,7 +2,7 @@
 # Contents of `batalia3`
 
 ```
-├── bat.vat.zip [880178e3444ff8a5b6a3bf33fec61d214499870758c7a7d5a73c2584cb48d789]
+├── bat.vat [96975dbb02aa76e35f2a941f7b7c2ebb69ba402ba49f11a9b5b14382d616bf21]
 └── c
-    └── bat.batalia3.c.zip [231d18d78f5a409f58a0b9713adfeea8173a63d5434ed0c5cc87e3a42ffb8291]
+    ├── bat.batalia3.c [85d2c391510c04673477fc30aed5ecfdcfb6504e0afa23613caf712a616c316e]
 ```

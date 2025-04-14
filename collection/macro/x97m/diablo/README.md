@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   ├── diablo_a-001.xm.zip [8423585fc990f50f8794bfdcd6bb410a6e3ec0e153672b703096e916722f9e57]
-│   ├── diablo_a-002.xm.zip [ec3e88e49f5529a59dfdfb9583836bb4957ba02c8d19111e0a9775705364c93c]
-│   └── diablo_a.xm.zip [1f568fed92533f9e658afd4fc50f2d8f0e90a7e94ba25b2b639898ddd5fe920a]
+│   ├── diablo_a-001.xm [f9e1b42678c379c2c8e6483c7ee5721cb179998cff39c607154f0e027b295df8]
+│   ├── diablo_a-002.xm [dab9594dbd7c0c5787495d9c25aa21aa07e74fac31ee5b6eb20abd3e525033c3]
+│   ├── diablo_a.xm [0ff765e06720cacd067683fcb884e754dfc145b2487897a11ee9acdc5fdf9fc0]
 ├── b
-│   └── virus.msexcel.diablo.b.zip [f573514e1002bbb8fdaa978e31cd75149c181d7043ce2ab749cc4139fc046cf9]
+│   ├── virus.msexcel.diablo.b [9bb2aea369980ed92e2388875c4fe729a086c8d7d5adfcca9ddaded810085f40]
 └── d
-    └── virus.msexcel.diablo.c.zip [a1a7f73f9d9677479922d1caa3374d86fe2ad91d0842008cc76e09b5149a493f]
+    ├── virus.msexcel.diablo.c [cca6a72f7bea7967bf55d02d5258bfd33009b9f4bf3c0f010fb5018f63a42516]
 ```

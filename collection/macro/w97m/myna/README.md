@@ -3,111 +3,111 @@
 
 ```
 ├── a
-│   └── virus.msword.myna.zip [adf796585e81342aba8fa2437c3692ed8ea7ea39eba10da234ca644d65c1a4a6]
+│   ├── virus.msword.myna [bb2f2691d9b9352df196799b99536d82bd90a272457ef8434efab3c628a8f4cb]
 ├── aa
-│   └── virus.msword.myna.zip [49cd4442592e75e35f1dd80aafd653f313c1014fa6a6bf1b84c45818a1871076]
+│   ├── virus.msword.myna [a0a66f4d0823c2d3a7f3d46102de8700c9a768a5639f3d7ab11e2e03e3cbd127]
 ├── ac
-│   ├── myna_ac-001.do.zip [312222015a2c6a043de5c8f8f290cf4db45e42254fa13cc6d6b799d24bba8538]
-│   └── myna_ac.do.zip [618a0b211af11f43fdfb6b27882f4e30ab681a60fa00e401d1ebba4cf33be5ef]
+│   ├── myna_ac-001.do [9efd7077f05a17c59d62198f2230265c0c86e090c93c752da595ec25972adbe9]
+│   ├── myna_ac.do [5cfcb61bee2576c4e2004f847dda80cfff2e8e6bf8524aa5181e671101d70514]
 ├── ae
-│   └── myna_ae.do.zip [a29fdfb1009b3bf1fcfd9c5de8abec7e5c5e99cf2d53144d87773b870c7d6504]
+│   ├── myna_ae.do [271049bcfa96cc49b20e136e9bc32ac3dcd96ca61c3525c689f77acc88853b33]
 ├── af
-│   └── virus.msword.myna.ad.zip [c80ded0e3e65b63df5eada2dae18fd573b49adcbf50ed4fc74873269d2dfd172]
+│   ├── virus.msword.myna.ad [2c2746686ae6f322d52bf4aab5daab1b2caca92c0082bd236fe7db0bd548335b]
 ├── ag
-│   └── myna_ag.do.zip [e7575fa0d502d39391ff2c35d294a7f77b840439a4e7b6dd3e97fc3af142740e]
+│   ├── myna_ag.do [2918cd15cc74fe0c55cfd1e09671cb55dc8a6e0614d99ea42aa9fa69448b080a]
 ├── ai
-│   ├── myna_ai-001.do.zip [4431ffa15f03a02382165dd2c28d8e4900c567618a1bb23f6883d2b9442c7a81]
-│   └── myna_ai.do.zip [c12d0a1b87d3dc47915c3f63a9d073f8d7ff391f0b4dda3a703b7b0ec61ccf37]
+│   ├── myna_ai-001.do [f28dd3d9b8f999d15c10563fe072636f2b194e6e6baf94f2c6a2c32fab0720af]
+│   ├── myna_ai.do [696b95ea9fc69b29edf8b791a64a8b19f44a26731c4179f68c509bf16f97b04b]
 ├── aj
-│   ├── myna_aj-001.do.zip [ffb3a3b0d8b6338b316b5b1050bdda3f60094468ff482eda315f50501aff2610]
-│   └── myna_aj.do.zip [8f9c39169d6f21ecddb4e5769b7bc2eace881739f94f7bcb2f64857f7d77fa64]
+│   ├── myna_aj-001.do [a4f5428637b9e3145093fef72c3daa5d261d877e653836fb3f5e727c57946d87]
+│   ├── myna_aj.do [66a44c193978fd282555e4cf777fdf2fd3dc23c5e8d6d79d2bdad06dc8d88d48]
 ├── ak
-│   └── myna_ak.do.zip [d80900fd06007d0207adb8c37d6f904c383127ef2006699e7ed2d746a76d745d]
+│   ├── myna_ak.do [5fa2b784f83556a2b626bf9b8f9e9ef2f860ef76982c398f7bbbb5263f426dc6]
 ├── al
-│   ├── myna_al-001.do.zip [77ec36f8077e17c933f9e28d8669aabe99fdfa84c7b605eab6a9327bb1ba2d67]
-│   └── myna_al.do.zip [9610b9214225c9c0a947fbee55f57973b68cd27af1ad4125d625ff0e967240ad]
+│   ├── myna_al-001.do [a5d906043e9480e510596eba03f3090b85ab19ff89816e89f61d2cae02be3a40]
+│   ├── myna_al.do [6f0babd9bbabff675d2abc82c8e66667ce0723656c9a44bd240fcbf8c1714ae6]
 ├── am
-│   └── myna_am.do.zip [733f57157e8f31342757a998f47f8815b1909de3b573cec9d9815587ef3db1d9]
+│   ├── myna_am.do [b810d88f8bbcc4b0b311064207b5863c054f5a736a3df02a5680b7c4b24738a2]
 ├── an
-│   ├── myna_an-001.do.zip [c1d0601996c61511e6934bb5fd3af09733045547d9a2d4df0ae81b2c2059ebd3]
-│   └── myna_an.do.zip [a330204a3efde195e1bf1252990e0c6c081a64ea4a873f75d664ba49b122383f]
+│   ├── myna_an-001.do [fc11537f8402d8d3740f0bd82751d158e61cfa2f264278794646490b5b0cfa92]
+│   ├── myna_an.do [8918b1f913c0d894ce33c4dc57598a2ce42cb9071cbb06416c115386bc56680e]
 ├── ao
-│   └── virus.msword.myna.ae.zip [604e7353f2351ef45d61e8f3ce33aa6f855a68fa18f4e2fec6617a1c8a985867]
+│   ├── virus.msword.myna.ae [488f252c5717062e5ad91afe31525394f835d0703b7d41ee7aa4fbe1cc2e0ac1]
 ├── ap
-│   ├── myna_ap-001.do.zip [63b849996b6df9a4396d4dc8cb2c0ed723f53e8e4d93065fb39dba1c20f8b326]
-│   ├── myna_ap-002.do.zip [d9730728131ccf368435a3abb6541eb86fc768941b2ec0b9c77a1c0dd72f1ef3]
-│   └── myna_ap.do.zip [3e6abd9f191b8fa01b9cb51688407bb05839917654d5a4d7b042cee73fe20abe]
+│   ├── myna_ap-001.do [6c3d95278ee54ddcb6a7443c7078879c225161688c6715273585b0d58bc17ef8]
+│   ├── myna_ap-002.do [886bbb36aca2a2b7b9a497386b709047e805af79be76c0f87a72e488f58ab1f7]
+│   ├── myna_ap.do [2a725d1b5c3f0a0a5e3d992fc1ef96e87a612858279bf6557fce5ce66f2001fb]
 ├── aq
-│   └── virus.msword.myna.ab.zip [383246d1a5fc88695fdfef7af816822597820253ac0be94842a6f74e42f49173]
+│   ├── virus.msword.myna.ab [5409add4d283c9ef8f8f8acd6d4df17d2105b6669d80f52dea541db701db9f3c]
 ├── ar
-│   ├── myna_ar-001.do.zip [ecc91d45742d910a5d644a1f47cf590719c79ff0a782082ec36c4576bf1d37ac]
-│   ├── myna_ar-002.do.zip [bdd3c8d6fc9031fc8f4d4a61d67c7ee4f698d6e2cb35c56dc21e6e3d886dcec9]
-│   └── myna_ar.do.zip [17698c14cd94735d6a6f2d786cb141c4dd49925a6aa1b74acda958ad4f3d6c35]
+│   ├── myna_ar-001.do [df3099eae30c6604e2ae1f620c361338cecb521436922949c6bbae3e45f72fcd]
+│   ├── myna_ar-002.do [b1ca2300780434fc380f495f681c61b30d5355c5ccdb83841865c8ea35fbb05b]
+│   ├── myna_ar.do [0000f2e4254c44349dc317de3ca858930ed8a4951e3256679a0d47d6de268963]
 ├── as
-│   ├── myna_as-001.do.zip [2d95fd3d03c16aaf95bb4a7192d1ea81afabd40ad5a197492dae5065eaca122f]
-│   ├── myna_as-002.do.zip [af24c7b8991e1d718e8359821bdfc2b881a9d3881153be7ff8e7860f79dee694]
-│   └── myna_as.do.zip [0979cce863f3500b2f5d06a1cf16350248a0728e63fb9d8e1e59f967375ee177]
+│   ├── myna_as-001.do [265bd38494e2f806567dd2cac7b6af813ef8125cb9d10523d845a19cd0221855]
+│   ├── myna_as-002.do [c41eef5895b955e888223b5c5f112016a5518961f26a75cbe8e69bdb4a217725]
+│   ├── myna_as.do [0008224a0145f8902bae9cd0570fbe3e71e8e2f142f602900357df70878a2b5a]
 ├── at
-│   └── virus.msword.myna-based.zip [fc17fd2ca6d72170604c6dd46c01d897bd48d48ba4d49aab2230245353b3b28d]
+│   ├── virus.msword.myna-based [90581cd44a29687f49949052a87e0af5ed6ade44b63e3a448b7183448b444db1]
 ├── aw
-│   ├── myna_aw-001.do.zip [1a11f632bfdcfe0ed6d890c64e7477b2478935829e631e7b6b9632dff3262f21]
-│   └── myna_aw.do.zip [c51340e119790248cbe22948abb0514a7552e1fec9c0584e4a4c4e6bdd5d7ee0]
+│   ├── myna_aw-001.do [f3e9655fbf38843f49d5e73975979e6c0d95b79cfabcbc2d3eba4bccaa315808]
+│   ├── myna_aw.do [24b18476aa51a9a6522192ab7f2b4fc64a356ee9ad2d879321be794342ec98fd]
 ├── ax
-│   └── virus.msword.myna.ax.zip [b326bc4de34dfc476d6835a61b29e4ae2940c6489f365a3db710c8ca58085d39]
+│   ├── virus.msword.myna.ax [2b0b0c800772fbad8c7510b6862279d89093bdeb4b3a650995b1c30d6f203382]
 ├── az
-│   └── myna_az.do.zip [dbfdd54f5b1ca193c6dafd1a2a92b28c2072acd1750fd0ac5b10671d62fb90f8]
+│   ├── myna_az.do [5414747ea9d771ccb22e1869af3fd0695c081cbf8b8f465f5bbdf1d660d52107]
 ├── b
-│   └── virus.msword.myna.b.zip [011a69172e1fd12697f057163b3eeb4db56bb0944bf5c52e5cbf57b8f00aa0b9]
+│   ├── virus.msword.myna.b [f3c0a1ba64ae38efcfb4808262c596798cd13bef2c7f3b1d34d8014c92c0d3df]
 ├── bb
-│   ├── myna_bb-001.do.zip [d0b01e2470bde76a5e975d48e2ae2387dfb9f52e70e1f4e5d87fec2e62497f31]
-│   └── myna_bb.do.zip [74953a1c76c5c7e58ba5a69af5cd5649bd77fce516104be313dac5b33b610343]
+│   ├── myna_bb-001.do [ed93d61fd89341e99dc981c70dfb91d118803b2404997637d6ab2277fb4a490f]
+│   ├── myna_bb.do [e9ba37a0b5ba6464b82e77ced0705e4a3336ecd6e995f5d5673dba12585e657e]
 ├── bd
-│   └── myna_bd.do.zip [55fa3f1ebe7d3ec4efc61c1cc7b45e3edd39c0d03de41c488b0998c1cc098512]
+│   ├── myna_bd.do [b9c6f8d97858607ffae27822a26464a86e3fbccf9122c7b6a629d97b609304ed]
 ├── c
-│   └── virus.msword.myna.c.zip [336dfb8ed5139b54b16d7a3a0aecb6065b7ea267b7064d1cbd8417a0d105ddb0]
+│   ├── virus.msword.myna.c [c4d7c4873f01860e130cfc593e158fd508c447efdc916510629c3dee9f42178f]
 ├── d
-│   └── virus.msword.myna.d.zip [5204fc12e89528ed1b56cc1d2c7d53f88f2e23a5da3a1c12ce507f0469947bb8]
+│   ├── virus.msword.myna.d [f711b0f26247c190a7c4b5ea24becfa61b683be5f7d8442e0df08c6991837c7b]
 ├── f
-│   └── virus.msword.myna.f.zip [8237deabb3081bb345d1d09777789b2c26efc7293152947a55ec69ac9be5178d]
+│   ├── virus.msword.myna.f [b4b474825c0abeb4e7cbdc8ff1eedd1ff344a1f695cd04257ff2d8bbe0873278]
 ├── g
-│   └── virus.msword.myna.g.zip [5b2af22091c81dffeb4fc552c3fe3059fd472c6e5a0a735a00e72a05b67ca1da]
+│   ├── virus.msword.myna.g [959de36d43a12a916423307c46f0883a899e4391095bea714d79a13ce37ee0e0]
 ├── h
-│   ├── myna_h-001.do.zip [eda1a54c0b9d7b49211c1dcc0968a5fce8ff4e7931b19f50a3eef3920d56e397]
-│   └── myna_h.do.zip [f025c468300f1dcfd28a43c7ec435a64c438ced8e3b9adf1fb0910f3fe10d37d]
+│   ├── myna_h-001.do [ac83c9d0766b79637cb0aa0090c70f13ef6c362b4b5c8ea7bd701541c135795a]
+│   ├── myna_h.do [aba8b90e3d470d404be808e43ae7b4cda1fcb04b2048fdff86bea2b92c384a86]
 ├── i
-│   └── myna_i.do.zip [d49506106454a496ceff0f7a039b6a02e9f5962ca16093a7afb57482fa12d3f9]
+│   ├── myna_i.do [a4047e18e588e88feda7fb94b95a5e9383706175730c86aace1e6b69cc1aa91d]
 ├── j
-│   └── virus.msword.myna.i.zip [3060e02ddbc6ba3138123263585a5a405d7a176e989a995bc4c5704e1e4d2fa6]
+│   ├── virus.msword.myna.i [4547c96d6239ab66439090b287d6835baf6cea9a85b23e1a50f00ca480445993]
 ├── k
-│   └── virus.msword.myna.k.zip [39cfb469a1b5ebb5c0e0fa951a6aacd67ba22ae3fd4c5f64e142e750380c4644]
+│   ├── virus.msword.myna.k [93708676d014e905c271e0685764d59da4328ac1e239298644690bf231c546b7]
 ├── l
-│   └── virus.msword.myna.l.zip [00a027b51ed88a45b61e92d841796a06bedbdf232851741b2528d572a3473c76]
+│   ├── virus.msword.myna.l [5f91b8bdb1c482d4a21040b90d40716093ebd51aba323095bd9ee71821f409be]
 ├── m
-│   └── virus.msword.myna.m.zip [3bdd7d9c772f10e3440ffbcf36047aa7b17c014558ee9df0f7d13317335d0b5f]
+│   ├── virus.msword.myna.m [1714df71ab9af1bd019998738840b85769e729f30e772f0d54cc2284d4ed53bd]
 ├── n
-│   ├── myna_n-001.do.zip [9de135ca9ca2d5594057da81560b779861d628b57f374c86acf3246ee76b3b69]
-│   ├── myna_n-002.do.zip [77d5e98ea81773b6b996115c77e586287cd98014cd4e60df3e32154f292ea786]
-│   └── myna_n.do.zip [07d16329e83924f40b7eb9a2c07c46f8fe7fdc92a10008a7838aadc0c1345a41]
+│   ├── myna_n-001.do [4781932e9218f84153082b24363cf3d340c16631a51e771daef9c4276caa18ee]
+│   ├── myna_n-002.do [63b741b40e0da5a65f7f47bc004dc552641587472dc325cd67f7d778adf14bd6]
+│   ├── myna_n.do [142931d3a4a1e581b4d2b52f6d044ece93fd4aa477be1ea93e31d48979cbeb07]
 ├── o
-│   └── myna_o.do.zip [2d0baf29f94086960fcc65a9a66053b3e23e6bfc782f78ac343941c6dd1deadd]
+│   ├── myna_o.do [2a8a1efcfd2d9a72b9dd1df271400ebe456d3f53a1fe39f19bfd7e7962515ed6]
 ├── p
-│   └── myna_p.do.zip [b2bdcc60e62105e1f47754932acd39b042cd1f514aa6f0c1a25809f5c10a4719]
+│   ├── myna_p.do [691746b9c04f2af27787c73b280d004cbc51f06cc9d024f2711dbe421c324ab6]
 ├── q
-│   └── myna_q.do.zip [82ac207f8573e74db142c098ec7b20e49e0983409cda4d62e6b08973240077e0]
+│   ├── myna_q.do [1fb7c1ff93d60db4cb3680cba615560de181c287269a1e20d760d6be4e13e361]
 ├── r
-│   ├── myna_r-001.do.zip [3a690da72699b7f1a0999be1cc5ee01dbf94ad3c73dc9a5085c94539a5915b3c]
-│   └── myna_r.do.zip [5ff49462febe51aa3718b4bfc304534efc22879f397f0caf8a7bb7565860738f]
+│   ├── myna_r-001.do [6824ed622add0ac3d69ce9d0736b939f6e6688e87b48510eee5c8d378f4f25f8]
+│   ├── myna_r.do [165dbaeb242e95704d8e28b603374f977b91c0ef95ae344ef5374e96b7664c61]
 ├── s
-│   ├── myna_s-001.do.zip [13cf6ca92f35d38999aaae08613c3a0e63970d3f1967c4eb38424802363fc6f0]
-│   └── myna_s.do.zip [24a95d9881d519b9992b82405d513344ccbdd7be1030a721404db906652b9d82]
+│   ├── myna_s-001.do [30b3ddd799b673d15ffea47d021114c15d25353ffc3b24f2b5af96eaa4f68cba]
+│   ├── myna_s.do [1c193116763e45dedb5ec2fa27c8490cdd2c62a55dcea39964a57eb3f007e747]
 ├── u
-│   └── myna_u.do.zip [0b97a9850a98075b702996245a244afb29ca2df9e37bbc579204968ec2d3848d]
+│   ├── myna_u.do [29b576782544fc6e5b13fb5b5b91786c4074d7d61541559bd4aa069ea301614e]
 ├── v
-│   └── virus.msword.myna.v.zip [03893bd7020f17cb6a00c908ef4f2f295046eb3722dedf17f2d6016c4dea5b91]
+│   ├── virus.msword.myna.v [0e855742a9b50f327752a22d1ac6f1092fc82a26616ac48fe667a4871d47054c]
 ├── x
-│   └── virus.msword.myna.x.zip [4d6a9464ad650ca40f3a19d76baa2ff3dbe9fc7f07d0cdfceee8a0d243fd1f83]
+│   ├── virus.msword.myna.x [0ab9d61420e66ac9f4d31762bd430c590e255fb71d132eb657980c569f33e782]
 ├── y
-│   └── virus.msword.myna.aa.zip [ac63f5673258bca5d13929fce826ae23451f76ecc05f6288bae2e11f023c5fc9]
+│   ├── virus.msword.myna.aa [78a1f2c45cad78ef1913704b7ff5d544519da8d33d4b51cbe11a2d73336a710b]
 └── z
-    └── virus.msword.myna.ac.zip [d06a64d0bdf98fa6e5ff1d6c54ef939cc9d65e16310fb89c43b5c229af7e707c]
+    ├── virus.msword.myna.ac [f4b6c4537a981c607cc594284692cb76c209a89b92a926d7cdb1c34da76d62be]
 ```

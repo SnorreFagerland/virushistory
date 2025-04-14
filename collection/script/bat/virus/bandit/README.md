@@ -3,5 +3,5 @@
 
 ```
 └── c
-    └── virus.bat.bandit.zip [4a72a317e6922afdea942d642c7c46b29248689d23f3bf053c1ae2a30ddfa335]
+    ├── virus.bat.bandit [25cb9bef3b00d5c4859c45c1797b389f7ae550c65dc10c2f451ed9f638bbbad9]
 ```

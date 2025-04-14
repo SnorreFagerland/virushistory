@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.attcah.zip [c42d059b577421f2f3ed259d4d10c72725a05d4155ee54dfbe3ed4899714b4b9]
+    ├── virus.msword.attcah [8ff4ea6a496893e8f11d16961da8bcf9ab5a43c09557fe83b5f15b11be822a6d]
 ```

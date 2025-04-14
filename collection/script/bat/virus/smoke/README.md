@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── bat.sbvc.b.zip [9247482c89e8c4a3075ec5367d510819def0634558c3776c1a6fa22fe5ac0d7d]
+    ├── bat.sbvc.b [79608409e58ca03d109e96a922bff2077ae50cbae565fe78eb75381802c47522]
 ```

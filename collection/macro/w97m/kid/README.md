@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.greetz.zip [f286bf70cb3171fd4b01b40ace476a21bd29bee9a93d130773faa144bc6a638e]
+    ├── virus.msword.greetz [b77a18eb09c9e5b759226eb6e73c093f517571637ae30450cb0887233f0da308]
 ```

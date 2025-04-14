@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   ├── date.doc.zip [355f52fd1eb43b1a346ea6f705d5c69e0bd53c6711d40cd2a2b5debffeb5046f]
-│   └── date_d.doc.zip [f45f056f709ceaef0bfab1fd12722627ee8dc0290b9b530d0d0ffe0d3ba91617]
+│   ├── date.doc [952e0506762fee974f6334172770670a8ff32ecf51c4dd2830a3edfd57de8034]
+│   ├── date_d.doc [043d5965b31f30ab021cbd3ac5a5f6917a54d7675ea5b0656a16c444439d47e5]
 ├── b
-│   ├── date-b_2.doc.zip [d1c72b94bdc77364b6bacd4d74f0ed8f420bb32370170f3b4e4200266fbb24e1]
-│   └── date-b_4.dot.zip [03c797386b1c3de871b12bbd2b4c361ccb6e2c65fba3c514ecbbe4f86551100a]
+│   ├── date-b_2.doc [137d8bfac4e1c55b350d4781580f71fcf7da452b85e5f6fb5cbde104227d2ea1]
+│   ├── date-b_4.dot [d51cfae6f222b5f3294a7900504c25ce8eb3fd2c42fd8842dc91d94a19f1e04c]
 ├── c
-│   ├── date-c.dot.zip [5b8c2b546acae42b4df7989a2b65252c154de99f8ae665135a36c07bffaa6fec]
-│   ├── date-c_1.doc.zip [35c902167e3b5c0289ceed385fc8256db47ad0bf065527142204473581de4586]
-│   └── date-c_5.dot.zip [4ed0c920122cb50cd6fdba4cf971153fa2dd1942bec7f44d66591c99e6d21206]
+│   ├── date-c.dot [9ff91e8b0ccc8448b756a993d9c85495162f012c9bc8af7a4a92ca3139591411]
+│   ├── date-c_1.doc [6bfe98629c5d2dc4e0b7df9e87d3f1cd3f6965f28f518f23b170d57e98335379]
+│   ├── date-c_5.dot [5b39816770cc981fd0e63e6b0a2a5d269c5aef9301497939f2b7593fea80d11f]
 └── d
-    ├── date-d.dot.zip [79459f6f0f927112be9a40f5dc2062ae97abd81079c5271e527adf726e4e1527]
-    ├── date-d_1.doc.zip [2d5d7ab46d3b41c379efcf9abb204792e13c50d7442aa77be0340fb69169f0aa]
-    └── date-d_5.dot.zip [4180c084de7e33d7e6d5066fb870f681f5cd2274a12e9277ee1ddf67aba9399e]
+    ├── date-d.dot [47dd22432f5cde9c0105c112c188048634cde6de37ff41fbf9cf6c4cf1395df7]
+    ├── date-d_1.doc [d4eb4500e22cddf1c7c1ed1230dfaa1e431e0b893ee1eb3c4015262c956713e0]
+    ├── date-d_5.dot [aa6c5c7b00f61295bcf6f51fbc32efaae171e5da922a33ac0445b9d37748f915]
 ```

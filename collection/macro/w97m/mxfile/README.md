@@ -3,29 +3,29 @@
 
 ```
 ├── a
-│   └── virus.msword.mxfiles.zip [22a9d9fcdd43205fe334a3f68a38bb45f04956037672ba07f22ffbf2cfe0fec8]
+│   ├── virus.msword.mxfiles [5128c73c77ceb13d5ec7d763e96ec638b54fef2a79959c725bd1934cbcbb904a]
 ├── b
-│   └── virus.msword.mxfiles.c.zip [416b3b8ca9e9ce50042542a40b13bfa373d627cd68dd92c8a5e2239757357477]
+│   ├── virus.msword.mxfiles.c [aa822e9b1602e56c615baece8e3c89336b497c452fe475f3b453b198657b6966]
 ├── c
-│   └── virus.msword.mxfiles.b.zip [79e5523ddc32059fc30c22dcd7fba3b52ee2065aef028dc814a5c159184ae925]
+│   ├── virus.msword.mxfiles.b [947fe0e26a1f1f5834ede5f7dda862b1f76bb05bd211d38a4d57b43619c06e54]
 ├── d
-│   └── virus.msword.mxfiles.d.zip [9bb1d8f684955e49c7fa081363721e60bf7b06ecae2be72df0c8192a35571a50]
+│   ├── virus.msword.mxfiles.d [18c7b67321b24ea2a80d4d052eec43309030a76e97d4de1f20be268bf89ff7f5]
 ├── e
-│   └── virus.msword.mxfiles.g.zip [0caad7099423429a79aaade5dea7f979517df76215b7185cac52efbe6c218b6b]
+│   ├── virus.msword.mxfiles.g [4c59701e03c50e92a131733195107ddc8eb0d2c9f0c1ce4892b137ab4cb2827a]
 ├── f
-│   └── virus.msword.mxfiles.e.zip [4eb5de9ea0127af2ebcaa8af2147c27b3f0ea3b4ea380e8743cf973bc4a5c3fd]
+│   ├── virus.msword.mxfiles.e [82188a17c3fb5efe70ffbee51dc2d713805ec5eb594a9f693bf54f3f22a715f6]
 ├── g
-│   └── virus.msword.mxfiles.f.zip [932edb200a2921c1e36612d45e3faddb0609cd6ba335186cc2b9ddb650297bc2]
+│   ├── virus.msword.mxfiles.f [6ad67d94b846977ba147b7c96214634837a11da7c688bd474d16554a6930a80f]
 ├── h
-│   └── virus.msword.mxfiles.i.zip [1d739f4c375a132bb24d5d5aad479b5876935bacf90b17d7eb69e2c81ef89777]
+│   ├── virus.msword.mxfiles.i [fee8951feb4c0e3b7160a539ebcbfa960c005bba728bd14546ad93e335ec4ed4]
 ├── i
-│   └── virus.msword.footprint.t.zip [25167414b1a7e57fd56641084bbd38ed9b17b31ca476729ab582a25470b7bfa8]
+│   ├── virus.msword.footprint.t [f4468330ba80923c0235636496dc4dafd1e73fa9d4bde510da02a3b7daa56c99]
 ├── j
-│   └── virus.msword.mxfiles.j.zip [a71272a075b8048dcf6ffaeacc658f98e727e28655b9b9c578fa3c1b32fa0a4a]
+│   ├── virus.msword.mxfiles.j [713babe2563f13f4fc611537a37e95e5ba9cb3806790fbdf54212433c7d43cd0]
 ├── k
-│   └── virus.msword.mxfiles.k.zip [ebe96c3418438bf529de6fbb2a964ba2c42644268680ae6b3d9a3ad2b7f861cc]
+│   ├── virus.msword.mxfiles.k [24676e4751e3f38c34f80687c83794ddd598ed01d32ac06530c120f73cebceb3]
 ├── n
-│   └── virus.msword.mxfiles.m.zip [9a684354b71f4d0b905d4defc11a96a151f35084f723aedb5e2bbeb503a617be]
+│   ├── virus.msword.mxfiles.m [d0a3419d4d97217a3321eebc5d6197c955ccef05e798427c6dca339d0473f0c0]
 └── o
-    └── virus.msword.ragaga.zip [e8ef2aa1dac75c5ae6318e502f381d6b1780ac4bd9e80ca13712c5f7756bb553]
+    ├── virus.msword.ragaga [0e2bc17cbf1e815f2ccab44a5acd18809993f852c243e48dd2bb9afde5681f4d]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.creutze.zip [fda934f4eb61b5b0cc7d00e45c4424c68804e36c27757dbc41d41fde1f1512b6]
+    ├── virus.msword.creutze [6f59eeff0082f0728fafe15786c96e0a892f58376a7765fe856f6aa1a2c0c42a]
 ```

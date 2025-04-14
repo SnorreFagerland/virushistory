@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.toy.zip [8cca5634b68f55192c1e9d119e4bea0cda9ffadb668f369c00b216a789fca52f]
+    ├── virus.msword.toy [6e2879adc128988fedb1fb7605a99d4af72d2dfe70433fb6e4cba57a7b895473]
 ```

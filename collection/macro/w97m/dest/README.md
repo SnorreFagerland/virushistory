@@ -3,23 +3,23 @@
 
 ```
 ├── a
-│   └── virus.msword.quiet.zip [679ea3de31a59efcb9e56f6e7cbb09c25c80cb12f1572a8d96b19c7d0ad72e31]
+│   ├── virus.msword.quiet [b35b73edef46a5781992c35ece18e660425740859873d4e7eabb8e7e17257135]
 ├── c
-│   └── virus.msword.quiet.c.zip [7b0e8de137ee16d5bed1b23cd861a2713ecc93e17902dac506e586f8b34b0041]
+│   ├── virus.msword.quiet.c [c7419b3473308c432e539470c5750c6190e45716f133a9e4427bfcacf4789bb1]
 ├── d
-│   └── virus.msword.quiet.d.zip [6d04b36d3f615b87219967045970b321cd7f9dbd4a0c6a9ab872967c9e93c8b1]
+│   ├── virus.msword.quiet.d [18de1c2032b78d45b51e40d2d4cbe0d4dabf5a7fa09d464586f9fea171154786]
 ├── e
-│   └── virus.msword.quiet.f.zip [c43cd890f0d47e2a10cfbc49cd0b56758e96a25df16585e13a0f6e5e83eebd99]
+│   ├── virus.msword.quiet.f [4ab3fa0ee759951df0f180e3535e3ec6c3e316193da42dc5c70782e75394b8e7]
 ├── f
-│   └── virus.msword.quiet.h.zip [91a38b4644625c2bfc4d556e96566c3713dd8976d18ebfa2eea74ad239cc9e17]
+│   ├── virus.msword.quiet.h [a8650da7ea0e7745e64146ccb2ef1490d9f76b184b8425102163cdc2653c6d0f]
 ├── g
-│   └── virus.msword.quiet.i.zip [cd24f8a1452c18fb9aca51aa818fda476c7211923876292cf4dfd949e13aa4a8]
+│   ├── virus.msword.quiet.i [348efbf50c2f749cc8c21fd5f249f93bb9f8c3724a93d7d6823bb64afb537610]
 ├── h
-│   └── virus.msword.quiet.j.zip [294289f3a41e206c9544b98dbe53216fea8ec4a16fbd495ee8ada7c651b32863]
+│   ├── virus.msword.quiet.j [e4b16d9cd9355a105f2fb8fad9616d7369cf307355f1eb6e357064023a868440]
 ├── i
-│   └── virus.msword.quiet.b.zip [c2acc3802d6cb1ffb0920078c966e2274929a70fada9cc062e846b3467305def]
+│   ├── virus.msword.quiet.b [e60a273575f100dc5db3c8ada64018b0163ec6b03d844aa85b4026ab40446f47]
 ├── l
-│   └── virus.msword.quiet.m.zip [1dc9099daab9ca087703d2b2dbb20d1b0aff11f2d795dc467e1eec6701ceae66]
+│   ├── virus.msword.quiet.m [ac349a6a68d8331bd0d3751de1fbeb5308c183c751832b95c611f23d180c5c27]
 └── o
-    └── virus.msword.quiet.w.zip [37caf62642f394bd9f3f167bdca9a408be068a97cba00e6e4ee2d3175a99be55]
+    ├── virus.msword.quiet.w [7c68648b47277f3fd5e01ae4c38055b00f2a649f28b8e16e46ad73fc7451493a]
 ```

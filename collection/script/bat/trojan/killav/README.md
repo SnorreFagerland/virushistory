@@ -3,26 +3,26 @@
 
 ```
 ├── ag
-│   └── trojan.bat.killav.cf.zip [b5835c74e0338264851ea32397ec198275c92af52175965c5758dc3e3d29d6b3]
+│   ├── trojan.bat.killav.cf [1c3e7c316902dfa8ed86c23e8503d93f4764239ebd858b3ee8b79dc37b81b8b5]
 ├── ai
-│   └── trojan.bat.killav.ai.zip [4f75e14868dbb9095d958e22f1d770bbbc261e6c24de7078013a9129adbf23ac]
+│   ├── trojan.bat.killav.ai [312479205af799f97a97ab554154ed915732cbc3d1fb4cead34b866d1cdab769]
 ├── d
-│   └── trojan.bat.killav.d.zip [61368b57c3600f47609a00bc0281273a3b1d9dfc665cc956c9e75a96ce2cd09a]
+│   ├── trojan.bat.killav.d [db501d8cfa2d08617cc562d64e7d8ed10c8aba2966b7cbed1606c2b46b097d07]
 ├── f
-│   └── trojan.bat.killav.r.zip [fe92cbfb8467686fe8d64e4862be15e658f24b25ad7e7b12e336e3f238c4af52]
+│   ├── trojan.bat.killav.r [e18c64db86ae4afc073edc9c55e1eae0daa6f9b829cbc8b3aadc33cbbfe5489c]
 ├── g
-│   ├── trojan.bat.killav.ao.zip [8e5509483ee47870982ab765a508155b6fe5127e071578c2c213cd9f2c0908b1]
-│   └── trojan.bat.netstop.q.zip [aba280fe79b354718d3628876a410f6671c2be6b80047288a9cbb1d75b08e5c7]
+│   ├── trojan.bat.killav.ao [39e9ff947ebc2af365a49c3518e0d12b9941e43ba17697d0eb87797081088d79]
+│   ├── trojan.bat.netstop.q [3cc1ae3ef914e27c33347c4611b259b4cb38fa62e0e6a952e1b5e5ad914e53c1]
 ├── h
-│   ├── trojan.bat.killav.aj.zip [ec9e931dd1c4182d27915e0c58e7d32024cf426d19d450d7ae5495db09906921]
-│   └── trojan.bat.netstop.o.zip [de05bc1e01442c818f50940489e956b3ce867d8ec70bda1fc3a83b81fbf5b2be]
+│   ├── trojan.bat.killav.aj [c5543f7b5a3640143937b343cd1083c6a885b2e9dc49cfc46b70e5939afb02bc]
+│   ├── trojan.bat.netstop.o [90aca2acd0630baf94a4958c9bfdce7792b39130729ce0a9f0ceb628da94d213]
 ├── o
-│   ├── trojan.bat.killav.bt.zip [1e234c340b68fd5df5348a61a43c44c2f82200ed3a3d3479485fd4d68df00cdd]
-│   └── trojan.bat.killav.s.zip [01a52a82e5ae47c82a45420b846f095f806a4307c01d1ce71aa9fe20e6769a04]
+│   ├── trojan.bat.killav.bt [c289ec5ff827b63a69b6a58097fed175741d996c9c569028af0083613e569252]
+│   ├── trojan.bat.killav.s [31e59745567e2dccbc4d9b70b951a134c4aeb6778db8e6b69e81cdb3125453cb]
 ├── q
-│   └── trojan.bat.netstop.f.zip [298b92afe743eea4ddb2e32a592c10abf6aac6d1660b1de49c9ee15c84e89ff8]
+│   ├── trojan.bat.netstop.f [d09cb3a6e6ef4b69530c48dce03d234e70eb29958effd70a55c558e055f79ab4]
 ├── r
-│   └── trojan.bat.netstop.m.zip [5a34dbf6ee2c6618fadb376cb32e1d14c86b6123cc012b9b7fc708aabd2fe3fa]
+│   ├── trojan.bat.netstop.m [254b54336d6d97cec31aedbdb3611c91dcd35bc2bc202afb585e415243876d25]
 └── s
-    └── backdoor.irc.demfire.zip [ba5fc7227dcac48e35fefd499cf3c4730a8d78fefc317b02a3abec3b9ffe9d12]
+    ├── backdoor.irc.demfire [fa3539c6b5e09ac872e14a72f4297465fd67d8e9f36c2fcd0b293155c433bb02]
 ```

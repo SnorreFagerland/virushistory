@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.cocacola.zip [774e48c91e6a61c7227d21188a96ba0f7e227e1778df35358902a615fade209d]
+    ├── virus.msword.cocacola [3f8eb2727b13d30bb8bb4208742a78a2468a345f0be951ab4457ae5b3d641418]
 ```

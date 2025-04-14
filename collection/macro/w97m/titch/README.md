@@ -3,29 +3,29 @@
 
 ```
 ├── a
-│   ├── titch_a-001.do.zip [1a2f593e4d781e0b2be99a17871fe3e1cbc2df71c3b532b17ed5c44629324a84]
-│   └── titch_a.do.zip [4e16c9a9ab2237ac65842cf6659aac1b4ec22f1c06e51840d1efa4028962ef8c]
+│   ├── titch_a-001.do [f863847cc285a8e182316b69661c3f8e66f8ee69d421d60ca43f3b37fa915f56]
+│   ├── titch_a.do [34b160df8493722ade0ca250672b284d338367577d13f2df1b61401c6009a2cb]
 ├── c
-│   ├── titch_c-001.do.zip [6a495791ca7a5e56e28e2ce3871d507d48a34cdce463bc9605f4ec7d9d244a8e]
-│   ├── titch_c-002.do.zip [eeee7b3853b0ff3137da60e37a2cd87bb9ad214f94e8063d45de7bce676a1733]
-│   └── titch_c.do.zip [338f0da138e3dd73c763e86b093e2d9f6f2a10e3e51132f4c6f458d339ae7408]
+│   ├── titch_c-001.do [82663dad5c586ae0b288b2056308547771fca29bcaf85e03de37ddf0095aaa59]
+│   ├── titch_c-002.do [fbface8b159e90dd4dea93bdecec243863f00d018af124489551ddcc2f6e9e9e]
+│   ├── titch_c.do [1459312e49ead1753a7c6ff6a66496bb9754e01e1308e3beebf430230eb390fd]
 ├── d
-│   └── virus.msword.titch.zip [3ccd9a6139d70cd9be1990c9df7187c1a30078546450acb0a81d54b4341ba47f]
+│   ├── virus.msword.titch [d52a7ab1b46f525635f3fad1a1960538085280e1082b6bb452b892a69a2de560]
 ├── e
-│   └── virus.msword.titch.e.zip [35fdf849b407f8130b51228275378c95f2070e4d8173e55b5c1a56ca180075b2]
+│   ├── virus.msword.titch.e [145b780eb5d6ed5d144ab49b48bfb36c199633541af5ce1ae894a55832dd31fa]
 ├── f
-│   └── virus.msword.titch.c.zip [5903ba0040f4308204454bd88ba7fb8588021d51e1fa7407764245d20ec90cd3]
+│   ├── virus.msword.titch.c [5c05cdad49597268172515cad0aa64b31d02e50e4861cd103d7504d5f391688e]
 ├── g
-│   ├── titch_g-001.do.zip [e0d2cde781390e1bd736c32a4cb3d1c74eb236da2df87b27813f0d48d7ab5102]
-│   └── titch_g.do.zip [0d0d0ebf21d0362305cb5255de409c68b437250b09380607fa00b1979c66e560]
+│   ├── titch_g-001.do [62f832bb7cee8b75081c5afdf8628e74a40957aea5bd04da6ed72ab16486b9cb]
+│   ├── titch_g.do [1f498fa6b78193b43abb75fafa00d666ef5b1fb393b07b099838a25a29f909ca]
 ├── h
-│   └── virus.msword.titch.g.zip [d1c59200e6eabda9558e033b95c05c569c27113d313a1af824260f4eab6cda21]
+│   ├── virus.msword.titch.g [65a9882c91a753c778ad1eeb4a6770bfcc9bfdc5ce11f256f293598bbae6416a]
 ├── i
-│   └── virus.msword.titch.i.zip [459db81efc3cb6eec03adf1c25e7f29d8cb2a739e02a1a55df6d7228f17e5e7b]
+│   ├── virus.msword.titch.i [67c7aaff1687aa76af581f7aff24a29a1fe7dd43415be778096062287556e3dd]
 ├── j
-│   └── virus.msword.btw.zip [949236e41c5ee08f64275dca0090746536371f97b691f1cd0cb408cd976264af]
+│   ├── virus.msword.btw [6599647bd586c86997674468dc1757a17ebbf4b442ebe36c45181ab315441ac4]
 ├── k
-│   └── titch_k.do.zip [29a8f719fb802f564a99ab977bf2f734a8bf4a0eb78ff8c911fbe425338ba580]
+│   ├── titch_k.do [04e6bfa03d546a590eeea05303d73c497cb11d10548637975f19e2c547eb3ec1]
 └── l
-    └── virus.msword.titch.l.zip [5ed7a80925f258edbe7180dd40db2230087aba8da862198a48e7ae89ff93a523]
+    ├── virus.msword.titch.l [5679fd7443403393b670487898752a7291295ae3d61f860bac40be3c71ba5f14]
 ```

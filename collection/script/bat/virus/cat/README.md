@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.cat.zip [7aa3254dafbf08ea1f17d0a8b1d13b26701ceadd1635a5df8286a8b90f868984]
+    ├── virus.bat.cat [aa0dd69e6bfc87f4f575decb70ace510d4c0eed9633cbbd5e06454db508e64bb]
 ```

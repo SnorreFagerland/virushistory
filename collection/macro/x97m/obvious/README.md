@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msexcel.obvious.zip [653d06625509aee2e6d0308a3416f94a3fcfb126b900047327a8a6c5960c9801]
+    ├── virus.msexcel.obvious [6f4ec3c0e2865b667c3451c00ade3f2cc4761de6fffb7c5cf780978a0fac55aa]
 ```

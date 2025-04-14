@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.bat.ripost.zip [a47eba82ddc4a76dcbedab616b4fb72dd7a400b97ea4e9cb4720db389ba31666]
+    ├── virus.bat.ripost [4bfc676b9c2575214e9baad9f4ea5ed6548f29b787cbd0f97647b54dca033299]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.zip.fakecmos.zip [99200e774e06c44867e7cce68fce2ae05c4fdfbc0a440466b49d76cdd700a0ef]
+    ├── trojan.zip.fakecmos [51b456dc5cac149abbc653cc004e111e562674a88b0509be23042a4e5e8a49fd]
 ```

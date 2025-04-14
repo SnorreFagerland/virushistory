@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.lys.h.zip [cf32d92eee292ba25ea5e2db290bd6edc0c09e42ac858b72fe9ea1c676177627]
+    ├── virus.msword.lys.h [5f4f6a7c578fbbca19560275d1a7a5fb9d14383e2200825f6f18afa91b2a5778]
 ```

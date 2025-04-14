@@ -3,8 +3,8 @@
 
 ```
 └── a
-    ├── 1-gabl_a.doc.zip [64adf1a621185c0b319ddfbba1809305040191241d917b8960d6fba49bbe3596]
-    ├── 7-gabl_a.dot.zip [fc2cfcb187498af56fc3d6cda9b7159f61414657e78abbbfa7d77b68bb648acf]
-    ├── gable.doc.zip [8fcdecd932befa6d59c152b04a2b841c4c367232812cd3b92ca45f0096ac2ad1]
-    └── gable.dot.zip [ffda04b511eace92bb7d9a1b1a146e0017fcded18f0245a7d2f56a8dedabeb5c]
+    ├── 1-gabl_a.doc [e2f0142374958ee097e6a34778821291cf5ce32ad7989b5912fb0ea9e3e0add0]
+    ├── 7-gabl_a.dot [d856234ec1636a7a8c64d16f0b18a37c86be1e5a26c4026b573b19e2e433dda7]
+    ├── gable.doc [cf4347c6339008a68329d8e856879815149007dbf704510991d8de46a1854a96]
+    ├── gable.dot [6eca7b922342d6e703b11edeb6d0b4b09b57e04e958ee9007b9f1c5868fcd649]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.jota.zip [fc83face6037dd1e540a67a9a25e87d706a10359e86baef156950fe63ff27d4a]
+    ├── virus.msword.jota [db0cf495269791d173633e03cc73c9e0a61556137396e724f10aa1bcdafc53f0]
 ```

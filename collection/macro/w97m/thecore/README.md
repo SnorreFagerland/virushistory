@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.thecore.zip [aa83df28eec2982ad9aece4c294b69c9d4e08fb702f96c04c457ee08ebceab90]
+    ├── virus.msword.thecore [9e9b55192230143c95f1ca7a50548f40d00ae3e1e2be22bed7482e3968862214]
 ```

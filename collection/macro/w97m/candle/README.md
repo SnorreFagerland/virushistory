@@ -3,22 +3,22 @@
 
 ```
 ├── a
-│   └── virus.msword.candle.zip [3356bd8a2b9d05b7d75017f444cb6219cd1c5e6186d4bc8b1c71c5f21c524aea]
+│   ├── virus.msword.candle [3649a1ebf6c67ebae11192cc86fd99593c57fc4dda8b360958ffdb139b2140a3]
 ├── b
-│   └── virus.msword.candle.b.zip [054283d003eea6aaa7d08e5b498f2f2a2afcecb8462a4b1cf7cead5cd74c26b9]
+│   ├── virus.msword.candle.b [a807ce3c440119cff11a7c46f1830059567a2b1779ee6fd79a5d280c642fdacd]
 ├── d
-│   └── candle_d.do.zip [18e1d7568bab8b863eaae51762431e20b0812d5d77c514cc0d273be0b03ebabe]
+│   ├── candle_d.do [9396c49a8e173d0399acf51e2689ca93ce6d04b2c6358f041be3a55837c42b66]
 ├── e
-│   └── virus.msword.candle.e.zip [01fa6867e9d9c24620eac3748e0eff6d7faff4178aaa5bce8e6feab46c77f837]
+│   ├── virus.msword.candle.e [85e377b475c6cbbcf49b4ff0d07892c70f49b05b07d22b819cfcfa289ec1b8c9]
 ├── f
-│   └── virus.msword.candle.f.zip [da4eaed59d19e3efc3a7343d9fc8f14564d21783740a4d078fb89e962bd27d45]
+│   ├── virus.msword.candle.f [f839a54f9b34610b91a1228de033fee3b510bcb35684c692acdfb8f9399a9b53]
 ├── g
-│   └── virus.msword.candle.g.zip [c3b185d62d8e6a5b3788ad5c0d7489a9c1699f6bee337825efb83bb0f62f9404]
+│   ├── virus.msword.candle.g [8473f58528c37ed9ea7a8b9443acbc14f6ac89a9f777ec7ad584046931e6b8ee]
 ├── h
-│   ├── candle_h-001.do.zip [458932a01cb8b0037b08cd8ef4757ed0e69495a1b7b4e60bd444ca7b0c5c9c47]
-│   ├── candle_h-002.do.zip [02a833a64ed9be1675ff1123967aca87e66cf5d88e184af7f1ad5be6d492a610]
-│   └── candle_h.do.zip [a56d2dc1239338098fffd1d2e655505c90c273bb3889e599eb5da5c852cd0893]
+│   ├── candle_h-001.do [99b445959c396f1c7db881cab30ae85b63e712720970c57beb697d7de77cc1ad]
+│   ├── candle_h-002.do [b98922cb93d174cd15b329be4756553bdad66d4216ed3377fe968c9ee9b64674]
+│   ├── candle_h.do [880dd973a994c452afe1a95649e353ed395eea4ace35c58bf9f8248e7064ee82]
 └── i
-    ├── candle_i-001.do.zip [a4f6810ff9306920a30c88eb21ac489ac946e1949169105ce74eaa02e52bb950]
-    └── candle_i.do.zip [2a4c3ce62a16315899c7183ed73bae584e9c54dcadf1895ca92bb453f8f7af2d]
+    ├── candle_i-001.do [fc1083cab9d428bcc2104e01eb6f83209a10b6a358f67956e36385fd9f7f01d7]
+    ├── candle_i.do [0d3844b31de8ec5c7454b22ac2707cac9d7ea96add94519f695ab15d8303cd61]
 ```

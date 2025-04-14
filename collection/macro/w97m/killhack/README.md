@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.killhack.zip [6b34099afa59e8c6d4f62c352c4b62d58c5c85a23a820e4e42e31f9b88e5ad66]
+│   ├── virus.msword.killhack [56692737b3059c9480a86649cb3a37288eaae4cc256ffa9685083074826459de]
 └── b
-    └── killhack.do.zip [7f580953aaddaff9198621dacf5f074f0fce43a99605fd78f48acb287ef2206a]
+    ├── killhack.do [4ff8080de7637f8812f513afed7ca7d5227fd61353669a4d2ecd1a77261e4bb7]
 ```

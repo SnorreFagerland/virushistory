@@ -3,15 +3,15 @@
 
 ```
 ├── b
-│   └── hp_laptops.doc.zip [e28a134161c4aac44a67b50f84dfdb4ea95815bfff1edf6ad5531c2e7ca8ef9e]
+│   ├── hp_laptops.doc [81fc50ba1af9a24440b824c2a137e4cfefd14b158d18610c22f25eb1fbc3404a]
 ├── d
-│   └── kukudro_.do.zip [54e0c8bbaa3c006513ab9e1304dc0d43361b0e2037ec3f53005bb5559205dc61]
+│   ├── kukudro_.do [77cbd80323a183105b644f06ed08cc5966197340781d69390389e4f40a73926f]
 ├── e
-│   └── kukudro_.do.zip [1399a416d3086ba37f59f0b8188040b296184f6589d90b68017081c08134b64c]
+│   ├── kukudro_.do [846284f41a2e6be2cc9ef77392bb86595010b73a88784fcc7e3241a28d001827]
 ├── f
-│   └── kukudro_.do.zip [4eaa50530416b00200f6607637d7251c99b2043b13a70d0ee65bdeb976ae390c]
+│   ├── kukudro_.do [adf3fb548a61c83a3ea626f2ab2270bc6939032ffa68e2be3c9d133a659721f1]
 ├── j
-│   └── kukudro_.do.zip [99ffcf8e3ef66912a3a48e2c05fc243955a1d8b56d674f496432b487196a8a39]
+│   ├── kukudro_.do [50f023176a728d4e3ba72211e53a39fce223ba664dce985de83035fefbb53b7a]
 └── k
-    └── kukudro_.do.zip [8ef4788d8ce01aab5cc9fca68cbcb7111cb41b06708f2fec4af3e596880ce2ff]
+    ├── kukudro_.do [64357f1e7c3e69daa2af597a5802294cb16c890eb74d504baec331b3647e2654]
 ```

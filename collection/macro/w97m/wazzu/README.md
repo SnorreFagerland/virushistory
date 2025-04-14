@@ -3,229 +3,229 @@
 
 ```
 ├── a
-│   └── w97wazua.doc.zip [54f04b60f9cd5117759ee3255ca0d6d4d8d211e62cda342e82c1b6f5c9e0f8fa]
+│   ├── w97wazua.doc [80688674facd78593e4d56eca53b74c92bb19e94577ed4b50e73eebadfb4eee9]
 ├── af
-│   └── wazzu_af.do.zip [e545b847ee86910cfc662e949696d62ca993309a5e0755358a2022b6fbadf311]
+│   ├── wazzu_af.do [36c118ccdf4d6c385c9da1fcb6138fef748d3766f468e5d4c80199e81330e77e]
 ├── ah
-│   ├── wazzu_ah-001.do.zip [41669e509514c8049dd3361f2cd860292dbb1dba52f45bd8c1566af1eb68efde]
-│   └── wazzu_ah.do.zip [e18f7a591c59624aee7b4594329e0c862ba4e3ebbbdf61d93e502183ccdb5c69]
+│   ├── wazzu_ah-001.do [367c35886bc2d8812c37cee062ac3ddf1076494983a8e8866e125f39c0f61a73]
+│   ├── wazzu_ah.do [0920280c0b3b9d5e6537969d0b2641ef770d90321ac989eb76acc0f8e64e44d1]
 ├── al
-│   └── virus.msword.wazzu.fr.zip [c52334a4c9d4bcbbae64ed41d7d21b677db959abe21ac362674daddd8add11a0]
+│   ├── virus.msword.wazzu.fr [8164febb9c3f856093ee05947e6195b49e17c423673f5d9839d23978275c6f7a]
 ├── am
-│   ├── w97wazam.doc.zip [1c7bc0f40cf296efb932896bf31414b7267aaed5cfbf7eb641b531a6e5093604]
-│   └── w97wazam.dot.zip [91317f2a13d7ad48e977477755073186219bcd42ad08b931278e4c96212b4cbe]
+│   ├── w97wazam.doc [7a51d11832408caadcd70746070ffd8e9071f6167db19b971ebe05626d344edb]
+│   ├── w97wazam.dot [24fc66937e8680d5bbb92e6e01ec4de30f9c2a77a7913da5ea584c588c0fe0fa]
 ├── an
-│   └── wazzu_an.do.zip [a11f79b1c666ae6cdf06da6c790e4ca3e7446f53abc77a21cc66b3e1f2107344]
+│   ├── wazzu_an.do [321ca2bf8af9c73cab5dd4d26db316677d7c0dcc03f3c751d63a5ad3cd04750d]
 ├── ar
-│   ├── wazzu_ar-001.do.zip [07c94036ea9da5283c236a496a762ef93532a6ecc11554be13f09acc87e3b304]
-│   ├── wazzu_ar-002.do.zip [ce6f80f6c0827857a08f7f85a32d7b47b48ad9eb70582acc8f6dd1279db84b9d]
-│   └── wazzu_ar.do.zip [22eab2762baee8808656deeb462188f4865cbda93e18955511c104c08f9b1d03]
+│   ├── wazzu_ar-001.do [8386c42c275f4b15bb70473f9a24af8299610ed0832aefbbc6e921af68974d8e]
+│   ├── wazzu_ar-002.do [dcff2de4b85f1cb973e7f1878c3b527a87861236cce647f229775d0500004a9f]
+│   ├── wazzu_ar.do [719aa46f78bac6e85c12885f6ca9fd77d106d7628455f8a9778b19ec04bf0b57]
 ├── at
-│   └── wazzu_at.do.zip [e50b75fc500e5b9f72727e352a28528fb8f10a52fc678e0e5b930c79a1c5bc0c]
+│   ├── wazzu_at.do [57eec9d7680ac6d6207eb1bb9a62326cc0896cb3ddfbc6bdebf684d8bafea4bf]
 ├── av
-│   └── wazzu_av.do.zip [1c9ede70c8ebaf0afcb2143b5d8e592ec53b322ac5feee2fba5c086baaca0531]
+│   ├── wazzu_av.do [dd3ab433962d2ac57c279d86c21c79d4dd1471e36545b822f76fcd275c7ba2b5]
 ├── aw
-│   └── wazzu_aw.do.zip [2286b469cb52b6c7f0d32e24de6d28afdc387936e18afbb283793a4ee54f8ccc]
+│   ├── wazzu_aw.do [880314f14f0934af47b34e43bf1ee4bcac92981aa1197e21cc8fe2ba2a5c2390]
 ├── ax
-│   └── wazzu_ax.do.zip [8608dd28694489b2941791b91924194b134bd65420050daf127729e093a1c132]
+│   ├── wazzu_ax.do [c284038b9b28fc40af6e8391df5aed28e9b82e9535d4036db260d665fde0d3d6]
 ├── az
-│   ├── w97wazaz.doc.zip [0de500a3ff9b2694c61634cac970715a81ccddfeb9e0a1233fdf1c2bc49ac1ec]
-│   ├── wazzu-az.doc.zip [f301fa53851930f09ca2df127f8f704e61a8c403d71bfd0e0d7e856f41e3c080]
-│   └── wazzu-az.dot.zip [ec78d9d0d44546ead3060d0afa2f8832067e456b542a974a2184ba4ae4d7d36e]
+│   ├── w97wazaz.doc [f0534f7662a46ed618cce8376ee428d03fc90f907959169fb134f3794e70a821]
+│   ├── wazzu-az.doc [d476b4ba2c7e89895c3ee04f22fbbd93e569b9c6d0f2f9486ab226501dbc6b5e]
+│   ├── wazzu-az.dot [3c2c06bbd03632db78347ca671ea0f095976325062cfb2e5b5cd20427bca93d5]
 ├── ba
-│   ├── wazzu-ba.doc.zip [80dcc3069041cce829cc34c35cfc1ac7f6947855e5e59dca78a3daf8c085f248]
-│   └── wazzu-ba.dot.zip [43fa4727f2ffb5ecc11f59e30a436676ec11a1dfb5e1effa807bad905a2f94e4]
+│   ├── wazzu-ba.doc [2f75e14ef292b84321715c7e1c438bb73b75e51b418512997566f44d7aeef97b]
+│   ├── wazzu-ba.dot [450d21cf88790d30336aa11c693713fc0b4e37de5bd1fdf030f60c824c27cf6c]
 ├── bd
-│   └── wazzu_bd.do.zip [8f852d2a3f98c20932b790c3b21decaf1aa3ad20c971eb162157e345433b48c7]
+│   ├── wazzu_bd.do [a0bf286294efa32078fd673e79bcf083ce01f95c5b377e32558c004516cebea4]
 ├── be
-│   └── wazzu_be.do.zip [9edd298acbeffe79793d11f413b5e8f94e9e2d8177e181ccbd6c3ca2541ff568]
+│   ├── wazzu_be.do [81275e11e3dcf79050571a30a7a5eecd23f1cac07acf88ae1eb7e8f44b170f7c]
 ├── bj
-│   ├── wazzu-bj.doc.zip [b88ef35bb82a18a0596a42ef0da691850e011d6219c94ae5e9f2b81d58b9aaf8]
-│   ├── wazzu-bj.dot.zip [c5ad2189ad40d3123fb1d791a184b7f285ed29bafe6e2c9f6a977879c6a64d4c]
-│   └── wci03123.doc.zip [ca918db038a7dd90a584e1f214f39fab4c92ee1ad27c57fe94c073d981afb139]
+│   ├── wazzu-bj.doc [6b80ff13bd00cf39994dc55bfd41e6102ade43d540f58b89b6d3bff049708402]
+│   ├── wazzu-bj.dot [e3d259cc0d5c96bd830ea307bdbf24a52356ca5a8459b99c59ac3dea06a23f17]
+│   ├── wci03123.doc [f5466c51c585e0dafe65a842369eab345768a41614be72b1c12a5a3b0b1a38d4]
 ├── bm
-│   ├── wazzu_bm-001.do.zip [9df56dc8e24b7c4d44b4036d640b69c88b40b70f3bcb892e1c63befda05387a4]
-│   └── wazzu_bm.do.zip [762b91258082155feb37d38f052c7a2a3fed95fc7fb9dc11e49698c5bb067335]
+│   ├── wazzu_bm-001.do [cf06b08e3c761908afdf294a57340b909cb619ccbf66e924beb7045fbf65ba04]
+│   ├── wazzu_bm.do [c7b7a89149d9e79144ab06dcebcf11f720d3ae70393d3b843b18854131260750]
 ├── bp
-│   └── virus.msword.wazzu.bp.zip [836d63a605647fc40661e811f8f7b10400684d9cfc9986496d1f3d7cac794268]
+│   ├── virus.msword.wazzu.bp [d44a498c54c5116e4f136fd83d8e81427283a39ab8d0a402de53848ef5a06bd7]
 ├── bq
-│   └── wazzu_bq.do.zip [91ccda40aa1b8a7ef3eaf93fc43443db4713bcc05baf948975ef9614d1ac035b]
+│   ├── wazzu_bq.do [5255211125af12e526fe2b31207adf82e76337146fc8150e55c52568f59c838d]
 ├── bs
-│   ├── wazzu-bs.doc.zip [2e7caec2d314cac10beb367707abfab6a13b6cb41ea653f4f21ff3f70848870a]
-│   └── wazzu-bs.dot.zip [6a3f0a8ae04776e5bb9495c76ad764a55e237bbe8f247a4c0e7893089a564678]
+│   ├── wazzu-bs.doc [d6be8cdfb63401e2cef87b4740068f924262d22e865a2748cba5b673b02876af]
+│   ├── wazzu-bs.dot [8ba4ac25a3034bf477328f38ce2c53815fa807cf08097bbc796edc4fd904ea81]
 ├── bu
-│   ├── wazzu_bu-001.do.zip [14c14681da086484caa6be539c2117039b3c561fb865217682cfc96932809700]
-│   ├── wazzu_bu-002.do.zip [800f20f7c8e8067a9eea1e3b691e6f16cc59520938f815c267f925102d33699d]
-│   └── wazzu_bu.do.zip [f1fb30c267ee595fd5623426d05cba7bfc3c363d85c12803219c03d3379edf5f]
+│   ├── wazzu_bu-001.do [72632ca05133b680049d68b8f3ad6ec1db8d702dcca4fd7e49b2809987701c23]
+│   ├── wazzu_bu-002.do [d1ce0d1f19f7a58e5f7dac4db54b35b29b8612e97191cda167144d0ad599ce49]
+│   ├── wazzu_bu.do [5de89080f94ccff06c79000877fa038037e46a59591741aa1a9d0ca9724afe06]
 ├── bv
-│   └── wazzu_bv.do.zip [b1e927733dac188dfd9c3069841c89dd96c7a3f43b943f205d14d2aaabe49779]
+│   ├── wazzu_bv.do [c9fb2e7d8847c29f47fbaa97164e4a363d0b287b1661e51174f73066fee2b123]
 ├── bw
-│   ├── wazzu_bw-001.do.zip [3a0ee6f81a6b1234c035f53dc18f1150b97bc82197da58e1bbd6c926a0f231a1]
-│   └── wazzu_bw.do.zip [f6e157169d5e9c40e20a38b8e3f581d632349677cda51cfdc05ae13a968583c3]
+│   ├── wazzu_bw-001.do [783a6da97e4d947c4d1f4d2cc7eaa149768bc47b9cd61bda61bc69d47858a5a9]
+│   ├── wazzu_bw.do [59b8cdf99ec71d10f71b23330cdc54dc388e339c5720d43d532330ee49bc4bfd]
 ├── bz
-│   └── wazzu_bz.do.zip [f396ee471abf68cc4b26307a36132dfa5946583ea883c38e9b08cacd784bda8a]
+│   ├── wazzu_bz.do [6b9dc060f14c5b008c50057e7b00bb105a648046c425d5369551dd08841852fe]
 ├── c
-│   └── wazzu97.doc.zip [aba70288efb4ac68f52eb8a7318ffca7424e0a55622e9ac0e528079c2120c082]
+│   ├── wazzu97.doc [b087e692310b8d097b724554cacd2faab8b58ca8ce04d0c29e54a41b1f404de9]
 ├── c2
-│   ├── wazzu-c2.doc.zip [2584f3091e5f309c7b0c4b3056a540dfd3f2ee11d9cd7624aa974d8df8b2ce5b]
-│   └── wazzu-c2.dot.zip [749c0b88c3ba3e651e9b5b0e034e5b7593f46044d3966b74f745dad0de034fc5]
+│   ├── wazzu-c2.doc [2994d82be0ddca3b6cd0deba8fd8d62242344a9c58bf96bc802a189c671544f7]
+│   ├── wazzu-c2.dot [a3bf022f164bdb405ec96f2ea89ff30d2fb079f6fd62a44891536b7ced0b5197]
 ├── cb
-│   ├── wazzu_cb-001.do.zip [cda3154a1c6fb32a0e4386a4b3951157bca3a046195b8886c958484350b61d45]
-│   └── wazzu_cb.do.zip [26728bec2d09279c12ab2a96310be12985db983f2f0811ea96a071cc2f44199b]
+│   ├── wazzu_cb-001.do [bb5c456c51c031a644997e10a610a6b44a889cdcf3c2af0536f681581635557a]
+│   ├── wazzu_cb.do [6840f5f7c39082937660f5ba9937713388b7abfaa75f064556e77d31d4165432]
 ├── ch
-│   └── wazzu_ch.do.zip [65960a51c1cf4d5b344f3965dda395e8af601cd94b4cde9836a513f1fa2009c3]
+│   ├── wazzu_ch.do [eec5b60b183559bf103c866f929ba7e45a32dd5eef0278949830f362d470eaa6]
 ├── cj
-│   └── wazzu_cj.do.zip [ea7fee47a79c13cf6f270d0264aa34d40cfb2f982778d22e12e3563f6bd1307b]
+│   ├── wazzu_cj.do [16e9cd980b89a6029eb01ca439235277f94a8cd5bb40a8d7f011ffbdeee3566b]
 ├── ct
-│   └── wazzu_ct.do.zip [7c2babddf5aa239ccd551dded3072e77ee8ffc3df4055fa401a77a7958c2c8ef]
+│   ├── wazzu_ct.do [1bfe7f2eb750f2c680a8e4dd89d802849bce8d1599a691e97c35d38122c02b9a]
 ├── cv
-│   └── wazzu_cv.do.zip [8ec5ff4ce0eec88c18c9ccc1023f707db4133bfc985caaf841931b3195d97ae6]
+│   ├── wazzu_cv.do [1385e84322dc28422fbece346d5dea98ed5bc9d470a49f62d93c3f2a2d8d08fb]
 ├── cw
-│   ├── wazzu-cw.doc.zip [8850a96c2aad2ee0b7715d30f316a96b563df14aeabff066a159c5ff9cd235fc]
-│   └── wazzu-cw.dot.zip [7cf29fee8b94b8d5b279c93cc45d55a4e721e642880e324769d7c56f677c14c5]
+│   ├── wazzu-cw.doc [0427380d9c334421484ff4f695f36f10133b9dff635b4a83c56710f8e0ad3cf0]
+│   ├── wazzu-cw.dot [b3db975e84cc923f4a8495d569e405e67683d3ce4b466c921053373bf38be765]
 ├── cy
-│   └── wazzu_cy.do.zip [42ac5dfba532c136ff8afb549bc79b9368c3e52305531299236d1f0d9ebb6cf7]
+│   ├── wazzu_cy.do [8e5d6319d22d5c5d800b06ce6ac1de1784f3cfebaa2f5a840945de9e2da37e9d]
 ├── d
-│   ├── wazzu-d.doc.zip [280442736b95bac403178e470286e80af91f189b5620736298cd463f08472184]
-│   └── wazzu-d.dot.zip [f536f99666112173ddc67c892caf7dec27649245bde73e9e80e132e18ad5fbb8]
+│   ├── wazzu-d.doc [d6cac449284cf93c99a9e11dd6635048bdf65deb99bd4e05186257cdd137b441]
+│   ├── wazzu-d.dot [8024ec1d99f102b5426992210d77e00397f4f5affb88c2870203d73597f8d1eb]
 ├── dc
-│   ├── wazzu_dc-001.do.zip [01607a64788aaf0008ac2a366c8bc923e3d436d28566d4a4a277ffe3f0838611]
-│   └── wazzu_dc.do.zip [de2a47f4b090124b0e7b537fcce939adeb8345c1b525e8d95d5e42bdfa9926ce]
+│   ├── wazzu_dc-001.do [a5eb62de19ea7028379db878dd058d4b33b760d5ae33a932975da173713b1024]
+│   ├── wazzu_dc.do [8a59e58d7a8f1f2a6e6fa5a00650a55f4acd4a278157b55878388acaa8ac9290]
 ├── df
-│   └── virus.msword.wazzu-based.zip [9f40eea1c4363a6b24eaff9b8b53ff914e64e33d7d88944386ba8f3f496a5484]
+│   ├── virus.msword.wazzu-based [91c3ad724bc3739fda1cc68206c81f006fbe6e5bdc0305568cd64c6b570a4681]
 ├── dg
-│   ├── typo-97.dot.zip [c04fdeb8b3768054325f442fe34504c317c0d4e1c907e4ed21e2980d87715d8b]
-│   ├── wazzu-az.doc.zip [f6beb1888c35da5d319980e4d401357219135210292e577d22313b16491278a4]
-│   ├── wazzu-az.dot.zip [0a209ef7b81dc0408102a6b722bd247ff624128497280cfccca4b1e15d0e4246]
-│   ├── wazzu-dg.doc.zip [f7569223ab46701232380c78cda6cc1bb55aa1d975ead7f6b7ee1653003408e7]
-│   └── wazzu-dg.dot.zip [41dbdd15bccae820f738c6c8ef9f39b78887cbb457ced139e0e8e4b20d1fe46f]
+│   ├── typo-97.dot [5c3cb479c41fa472fecbd742dea85d2425377a683005e31fbbe17246b366a4e5]
+│   ├── wazzu-az.doc [a07c58657a0466701efdd2e4556b9867a443e451d9009a0c966d1ffa7ea41c1a]
+│   ├── wazzu-az.dot [87aa6642fe64c85856e0477532b1629d5870534ac8c79f9258953c398b2d396f]
+│   ├── wazzu-dg.doc [d518c26c7c584805f5a2d10d4296dc4e82e38b2f5d5ba4aa631eded003bf6098]
+│   ├── wazzu-dg.dot [11b6aff7bc33a043f91d66aabe7ef5d5e4788920f45259a180b4a426bd4f3c66]
 ├── dj
-│   ├── wmwazzdj.doc.zip [8b4bc4bb3e1e7bbdbdce35b8ffc5d6e370a317d1161a4bb843dd79c3a9ffbb97]
-│   └── wmwazzdj.dot.zip [8ba078ca839454966539a16e599c03f6f937968ab18e857495b260f6b4e23a6d]
+│   ├── wmwazzdj.doc [4dbf1a777613064f5b0e2f41f63f49aaf4267c804881eb406a229ed584fec5ee]
+│   ├── wmwazzdj.dot [382aa7d872196ba9f8f89dda0fff2b2d3073d550a79e973107a5347adb6492fb]
 ├── dk
-│   └── wazzu_dk.do.zip [4eadbc6c70a9dc0e7257a7ff8ed19b687373e4e2b8907f390000267250965b6c]
+│   ├── wazzu_dk.do [f232f800ab80b4a709780a8fe763d194cfe59ea5e9665a10bce82cace1ff27e6]
 ├── do
-│   ├── wazzu_do-001.do.zip [9e2150f64e52f1d073c47e04a0d1695ec28290e2d452b51eaf434e64fd27b136]
-│   ├── wazzu_do-002.do.zip [7a842d672cffffc3bb4428b9fcf68d3502ec0670b88471146d9078ac61d21ec4]
-│   └── wazzu_do.do.zip [12762d62a72da57a479a78c3689b19262bbb5a94144bae024efd9669869e0eb6]
+│   ├── wazzu_do-001.do [dfdfd3e0c9bed04c2d93a8a2babf74a1e7fd3c1cfba2b0ce2bae203a2bcd8e3f]
+│   ├── wazzu_do-002.do [ce9ff2a7c4cebb698a23b4c4bdd4558b62d25c59e34fa2de36f9f9add85b14bc]
+│   ├── wazzu_do.do [9c3fc7d621bd4e5aa0e20074086b8df8af0409390870a8c6aae32ff4dfe1de50]
 ├── du
-│   ├── wazzu_du-001.do.zip [37dfe313d8d9e64d9da093b0eedea3fecf53032e36d4a8db2c6d34531cc62fa6]
-│   ├── wazzu_du-002.do.zip [9267831ee74a8e217e4d3e8b19426e37ea0698f14c1b2be2f772781db6077203]
-│   └── wazzu_du.do.zip [f1d9461c3bb0eaa46b1de413342290187b1778306d8a3ee2440f4d423932a158]
+│   ├── wazzu_du-001.do [99c5836923b76c2bd7b28159a31795fbea04edbbbc507573865a5906909a0aec]
+│   ├── wazzu_du-002.do [d9ab6db6818a7aff2400fb6119301ff2e9b6f4643759ffe67975da89aa5f76ed]
+│   ├── wazzu_du.do [57ccedb500492241a1b50693eea15c8c8a636050edc96907f5b2a0d2f15d5c76]
 ├── dv
-│   ├── wazzu_dv-001.do.zip [7af655411a7bc2e603b621db54fba538505fc55e0e0c0f84ecc83798246fc551]
-│   └── wazzu_dv.do.zip [8902f97d4a0aef4c0cd40cd65c4ebd57a3239bab793f4068c4eea1ae410d404b]
+│   ├── wazzu_dv-001.do [e1e4fd9ed1afeedfd7a028748a72b1b59a21d70a980ebed007e5d6b09fbf7997]
+│   ├── wazzu_dv.do [45536459cf56d3bb108ee61de6ee1ba28553907d18db69f5880a2eecda75bab1]
 ├── em
-│   └── wazzu_em.do.zip [13f0278360e66e0d7ab2871187f00466a82eb2c6d38ce88d51fe76b4da51db73]
+│   ├── wazzu_em.do [bc3b1db7b49c7d86bf81eac1ad84ac6756e0ed4bc2d8e444fd42ea5a20af983a]
 ├── eo
-│   └── wazzu_eo.do.zip [25f2a964f37177ed6b23f645814b0fc14794cf5917386bfcd647a83b89c03b19]
+│   ├── wazzu_eo.do [c296b82b53bc40bd1440a2cb9a5736cc86803ca444dd67d4bcc8388fb09189d9]
 ├── et
-│   └── virus.msword.wazzu.az.zip [60f4d15479675891817f3fbb2987c00c396a8319466b5970fe5c363b2029d50e]
+│   ├── virus.msword.wazzu.az [b01cc4f184d4df3121e86d7fef7187d6804dd21472b30d1b91ad8d4ce90b675a]
 ├── ex
-│   └── virus.msword.wazzu.ex.zip [e22e8f878d3088a52eb235c74e1b550d1de9175f43e67a836013f0c928d815c3]
+│   ├── virus.msword.wazzu.ex [a5919caf6e5b5913565b7f43f69db04aa53b51011dcf6bfb97d454ab891dd7c6]
 ├── ez
-│   └── wazzu_ez.do.zip [202aa4183aac675ee060ed7516bf23067e98b2c0d652533be03cba2e522c9111]
+│   ├── wazzu_ez.do [b2bedbe3b535098065f2bb0da0ab818564f83b80eae83a65b0baad6ee685ae2d]
 ├── fd
-│   └── virus.msword.wazzu.do.zip [eeea788133fa8ece8825016ac902249c69fddc7f659ebf4d9ca837da49e6d114]
+│   ├── virus.msword.wazzu.do [574a962d161aa0900ea8413b0088c8d6257deee5358c413cca0120394bb92fbb]
 ├── fe
-│   └── virus.msword.wazzu.fe.zip [7b59e52890016de62dfd96e573011bd0b94c80d8c10f04ba31c22fd73fc39dce]
+│   ├── virus.msword.wazzu.fe [c963ca1af750f33e06eca4bbbd783e50b9fc02dabcdf30fc266039756e41a1b5]
 ├── ff
-│   └── wazzu_ff.do.zip [ac039ddfeefe852ed855a8aea370ea78f5ad7cd945774099fe9c2dc1a6953b03]
+│   ├── wazzu_ff.do [a1faa901c8901376c76096a4c18d1b29a87191400d7cf553441e26f6d9e723a2]
 ├── fg
-│   ├── wazzu_fg-001.do.zip [e9c8187a18b5443e493aa2d127068ad537cd9db0181d05cc970c1b929e7e3e72]
-│   └── wazzu_fg.do.zip [11567869367b38d5900371cfb040d4521cdb62ed1123692856a3861d788bf023]
+│   ├── wazzu_fg-001.do [89406ac647bad52e90ec91a727733cde51daecb393d3d4beff4f64b4b6c1f3a8]
+│   ├── wazzu_fg.do [4c9b42eb9fecb5d6de6fd78507bbcb35c08313bbe9b43152b31beef659eb23d3]
 ├── fm
-│   └── virus.msword.wazzu.fm.zip [1d2070dec4ae8e0aac6b35c76ba68f8f45212e2d31ccd0c811236595766ef493]
+│   ├── virus.msword.wazzu.fm [f17d4ee7de92d590c94dd6e6dc103f97e964da23592775e023eed2891eca4e8f]
 ├── fn
-│   └── wazzu_fn.do.zip [22e4f0d65068ee0c37def6f760400cf8302c3ff4991b6d61b060b28c1bfcb052]
+│   ├── wazzu_fn.do [146e9ed9dbf57b3d069a02cd32c5558b61a59af378f5265a71d3178fe31bd5f9]
 ├── fq
-│   └── virus.msword.wazzu.fq.zip [e573938168b395a535128e6403b28a96c114572be8f78fb42e70ebd1b632d698]
+│   ├── virus.msword.wazzu.fq [08655249c977af7de88b229370386e46fe43632696bfeb3192706b091d070489]
 ├── fr
-│   └── wazzu_fr.do.zip [f5d476b9600f0073fdb66ef36f75d3f4f5de3d8b8706d3604448124e61c10b37]
+│   ├── wazzu_fr.do [a687dacbadf85fa53a7622856eb61b89324ba30fdbfecac29de809c662f6abf3]
 ├── fs
-│   └── wazzu_fs.do.zip [ee9dd553ab989aa29a865042ec7935eaca95e66216d38ada16bc082bfafc5a46]
+│   ├── wazzu_fs.do [b575f5d4721b96f7bc53d76e498a3b5edc4c63a616a9961efa39b1e6f7e39be6]
 ├── ft
-│   └── wazzu_ft.do.zip [4aa6b03a4555d0a213875eab1475487333a471ded8cfd38d8def4d7387506673]
+│   ├── wazzu_ft.do [352dcaf28a3b48d672064595305fb4f96b8737cfaf2cd98380453b6c3fe817eb]
 ├── fu
-│   └── wazzu_fu.do.zip [454a00d061c73ae4bfd9c74eb0b273dc9178803f50ab6bee43ce676c000026c7]
+│   ├── wazzu_fu.do [930627ea01ed663f692a2178aa307499f10e29cfc64838a5396a4610f65f7c94]
 ├── fv
-│   └── virus.msword.wazzu.fv.zip [25b2d7702f687e1c70e9c85121683636fcfdeeeab2cb6487dc0a7ba1af3f5bea]
+│   ├── virus.msword.wazzu.fv [269e47f81954ac6b6afa129f6d52147dfb8912355baa356fcf963ba3a1a1be98]
 ├── fw
-│   ├── wazzu_fw-001.do.zip [8ea876d485ad0672e8026bd917d39dd2863a275cf1e839f8136eed04363468ed]
-│   └── wazzu_fw.do.zip [e5ca7b72fcf34d98ad25549539c08c13e825907f90d0f7f75370dea58b91cfe0]
+│   ├── wazzu_fw-001.do [5c41ffb673fcb3fff653fc8363b1170e99ac991c926ba86e45656a593d4a3136]
+│   ├── wazzu_fw.do [1d1071c446658bd0e0c24cf8fbb43f5e33da17b9fa092f91b01841c59af36cb5]
 ├── fy
-│   ├── wazzu_fy-001.do.zip [277a4891a52afbf20aa58f298dda4249f1127b86a9b37ba9dd96b39ad5d62da8]
-│   ├── wazzu_fy-002.do.zip [9406592cbb3638b74f4e6177aae4ad227f97185f26eacb1c60ee4f656c35788c]
-│   └── wazzu_fy.do.zip [809f4b7a11ddd641ddeed0fb187fff41fa340065aa9c664f24237e186f306a88]
+│   ├── wazzu_fy-001.do [896328b3cc9aa65bdc45251b411e517440ba5816d2772ac8ddf185358c134d83]
+│   ├── wazzu_fy-002.do [cb19a14ae81c29d0be3d156bec99fb7bc7aca30d22fa01c47c983e341b4d6167]
+│   ├── wazzu_fy.do [2eed5a6ea67ba3fb01e8f65704166a55f6bc4d4d952133502c00e14b1f45d057]
 ├── fz
-│   └── wazzu_fz.do.zip [190090c89096f431ab474c69b59dda511a6a8b5aee57f468514d10ef989e7e35]
+│   ├── wazzu_fz.do [b0533b734dc97c2e8a3162050e2a172c6a5a83c6df91df1bff75cfa21032e58e]
 ├── g
-│   ├── wazzu-ae.doc.zip [e3ffa8cf9c8c560410d32ebfa62d103d37aa1b3efc179864fb3c00be698cce41]
-│   └── wazzu-ae.dot.zip [eaa4ed16c3fa0c3304131fd81b9a46ec6c85c943728e79673582c12c767dafb5]
+│   ├── wazzu-ae.doc [1e561ef9c544869c323d254aa31dfeec05f2f3b62fabe9b02acebaea87bd239a]
+│   ├── wazzu-ae.dot [d76ac64ce562a34606fa33eca5f68b5212dfe3f42ffab45e0f00eecfc5817f9b]
 ├── gb
-│   ├── wazzu_gb-001.do.zip [1f44ec48739eb3022dbd63dd00ff60e79f71f5e5805106ef76756ed4e98eb496]
-│   └── wazzu_gb.do.zip [c2b048298696ad40f9069b3755a6cc737828647f0d469799b936db4905c25686]
+│   ├── wazzu_gb-001.do [e487c2787814ef62ac0172a4a42b3fe87063c6c079bc23d759169dbb68739bba]
+│   ├── wazzu_gb.do [2a639a78e1521d9214bed6f8a47a35889ced7cfb815c47195a6459361887c27c]
 ├── gc
-│   ├── wazzu_gc-001.do.zip [a83c7ef4a0e1466204377fc333f1bdabcdb798ee4d34d7967e3b5a365e33c627]
-│   └── wazzu_gc.do.zip [d0c5560409f66f05b1ca86972039ef4590850994f184c5a11dbb2fccc27ab793]
+│   ├── wazzu_gc-001.do [a3874be1c70bc096da5d7d710872f0a444778f25d420fc1a86d3c007e49c182c]
+│   ├── wazzu_gc.do [10d73b3a85d4c779a3579c3c45cb28e88767cfcf0f02e700710e8e5b9f47ce3c]
 ├── gd
-│   └── wazzu_gd.do.zip [dac42a9e3ffe8ad54b8a15a7119f931d26a3948d2cb59f5dacc8ca68a5b09821]
+│   ├── wazzu_gd.do [a5c171747b1a638a5c876d6d850b448bea2ba59d80e6d104bf0f5f8e996b6097]
 ├── ge
-│   ├── wazzu_ge-001.do.zip [469ba7e010f3f336c6a5e2d2e78726fd47b8c26897eb86763b017d28ca1a4e31]
-│   └── wazzu_ge.do.zip [082297254d0faec4f7eca5460b43af10ccdf15bc1a8c58d4c912b3f527007e80]
+│   ├── wazzu_ge-001.do [a71fcbbe86faafd8fea63661539a907519b39a8db7028d067ca15f01f8c5ffcb]
+│   ├── wazzu_ge.do [2d98051dee2648803aa119ccee9ee1ab3f6d1926ce68c465bdc94d4ead626ded]
 ├── gf
-│   ├── wazzu_gf-001.do.zip [5883d4f652c302b167275719289ac481cb76d92964c749840cc669b1cde9f0a8]
-│   └── wazzu_gf.do.zip [aeec634a8e98dc82cb361d5a1bd271e703c57d460875ea489b63cdefbdaf0548]
+│   ├── wazzu_gf-001.do [c072c428c9357266bd69cc9ea850e74d5608eefc0ef6c9af58950ce8bbeca529]
+│   ├── wazzu_gf.do [68f92865bfd05c39958b833ea3a840005c19a50b7324132f6e3797baeabe5df8]
 ├── gg
-│   ├── wazzu_gg-001.do.zip [c34e94dd14363b80038bab2a009da20ee2faf5c9c36695b2860fa6d8d37772c6]
-│   └── wazzu_gg.do.zip [70fdacb993017028d7b2e030fa4280131c66513c178145c04581be8be59db3e7]
+│   ├── wazzu_gg-001.do [8d1548d5bd99cc221412509077618112e04c5a2d2b84b361f15a12b6e708de25]
+│   ├── wazzu_gg.do [49bf58135b32c9f0ab6a25ef078c52f718f4374360ebb65a66485fb940c41a2c]
 ├── gh
-│   └── wazzu_gh.do.zip [4d477698706edc85bb50389ea228d97f876e2faf338bc754d48ef33802e1f0f0]
+│   ├── wazzu_gh.do [87905aa839245cb8933d6f59ac3310861c63fd5f12e5759335669f39237f37cd]
 ├── gi
-│   └── wazzu_gi.do.zip [5e7627c27315e9ffd25af8ebb60dd538082a65dd9fe5a0dfbd81aa48f16e4a74]
+│   ├── wazzu_gi.do [1869ee3af41d231cfaafec31579992919f3551b7335c40be3e99455d17a3e1a3]
 ├── gp
-│   └── wazzu_gp.do.zip [07c6309e43d55272a902f74f1f6a5a5909037693efbca3c3993caa5486e874ad]
+│   ├── wazzu_gp.do [eff6b1df2e59ebf8f4e73b1d6374a593d2a8ae67b1834a1714c1a545dd2ed491]
 ├── gq
-│   ├── wazzu_gq-001.do.zip [7c537d6157dee078d3b921a7561239aaafcdab662fc79261c03f23bce651684b]
-│   ├── wazzu_gq-002.do.zip [784060ee07878577883137b8ec48a3f0c67aaa6ddc82e2fd266bcd41e50302af]
-│   └── wazzu_gq.do.zip [ee34a4a474dd3c776f9394d71185352562859eb6a6ed43fd6f59c6bb631cfc90]
+│   ├── wazzu_gq-001.do [a9d16141a818038c0e0a3c5ff1333a6b6768966a819e2ac902aaccf194a30a16]
+│   ├── wazzu_gq-002.do [cd88be1e11c37439f543afc0be04b57084e8eb1ed20e45634c1e3589dcceb6a6]
+│   ├── wazzu_gq.do [a1e5862c9e3ee187a8dbe996a84f09deacd2f61009095ab82b0a6f7c99d25d91]
 ├── gr
-│   └── wazzu_gr.do.zip [4f494f9b5395bb77fb8977c2e8ee5e96fe485cb774b0759644df65e8484dffb2]
+│   ├── wazzu_gr.do [9cb6441a1c64a460c4193541c6f104eedc65313c94cf866eaec04dd625aef6b8]
 ├── gs
-│   └── virus.msword.smallv.d.zip [05946536bc4bc3b902ab140deb799af8f17104ee936f943fe2d9e826fcdf1d9d]
+│   ├── virus.msword.smallv.d [14e8c93afa30eb0168e6e7a38b6f00a6243deaa0dfd21b078dff476a0c0d8be2]
 ├── gt
-│   └── wazzu_gt.do.zip [80364716e094b13ee21d31567e18303734a71860141b50fa61e4efad10f86fed]
+│   ├── wazzu_gt.do [d621131fd4915435dc494be47d6783546256e666b349b96bccca0ac2fc9962b0]
 ├── gv
-│   └── wazzu_gv.do.zip [04f73937c3112332e915fc9985d2b8c6985d4326f195846edc34c4871be21ad0]
+│   ├── wazzu_gv.do [9811c72e55d59af807e74346a4ef629593406ca94b6e9cea475b2e5300e87a66]
 ├── ha
-│   └── virus.msword.wazzu.ha.zip [093c1fcf728de279eb8882fbc6fd39bd6e2dbf5246b27c93c054e98d1cceccdf]
+│   ├── virus.msword.wazzu.ha [da0a3838cd3ff62e21fc8bc2f7e9d6513a8ea36fa65f58b94fa7efdf0a546ce6]
 ├── hb
-│   └── virus.msword.minimal.ai.zip [b75e5e4547949dddf437c60bd32a8ba657b6f026bcacc22e514a8ebb6a282580]
+│   ├── virus.msword.minimal.ai [25aed3939f66eafd0ac04a345a1b93559dac39e0b318974fe141be121c2a8381]
 ├── hc
-│   └── virus.msword.minimal.as.zip [7919d061f14c33581f13a40ff917f0c487ee6012ba7a670d278db47675c3a539]
+│   ├── virus.msword.minimal.as [c0a08e72e3a01403c71fc0c48d77f14c3bdcfd9bdeee9d08e1f853dabde5ccc4]
 ├── hd
-│   └── virus.msword.minimal.aw.zip [c05000584d10cba1028fe86eef0de407e6e8a7e193a99df3308c0bbc7d5128e2]
+│   ├── virus.msword.minimal.aw [91202afd675e78ab323c1ee838aa90b3d7fcdfaa2a3bd4642ef0ff92d0c426a8]
 ├── hh
-│   └── wazzu_hh.do.zip [b14700e050d52d9c837dedd830c61e9bb130f4728a2fc6d5ba2adde7d921f8c7]
+│   ├── wazzu_hh.do [6a5f1b2157468215c7758cff84775c9f452118e4a6868c8f2e4d3aaeb2a8a315]
 ├── hm
-│   └── virus.msword.wazzu.dl.zip [3c99e677d9ecc1a72be781a1fdd1ed80f5058c1d26a83918b745462f4b84c27d]
+│   ├── virus.msword.wazzu.dl [9a5cc54ffa473bff564067d3df07135a354e2d5c9b832f70551519d9a498c9d9]
 ├── m
-│   └── wazzu_m.do.zip [3e62fa765d02c385d86e4104c0ec39650acfb263bdf1d57b62cccb016eb7958b]
+│   ├── wazzu_m.do [6346e257f97a6955cb5139333943c92dac79854b7199c471a5b7cbdfadedae67]
 ├── n
-│   └── virus.msword.wazzu.n.zip [7757d056d7b9fae687661c3d10f25008f327ce067f1498a42ce8e012d1ceee24]
+│   ├── virus.msword.wazzu.n [eeec86d9f46a40d83de4a425498ac42581951ea3ba28cd3cd04424f74f792e1e]
 ├── o
-│   └── wazzu_o.do.zip [9b42bb78d26f9e3948e0fe0bf4b5aa4a8367c721de27f8d29927d1004623aa93]
+│   ├── wazzu_o.do [d55255201884f45874a3892dc3749d809b10708968fd3424963321841db8fcd5]
 ├── p
-│   └── wazzu_p.do.zip [68e87879450a3e358c167a694f96c941e23c5c38b1b98b9800a55008dc770c8e]
+│   ├── wazzu_p.do [8ebdeda157936d9b9f72220641e9d692008d9bec30fbff83b6127525044d0a76]
 ├── x
-│   ├── wazzu-x.doc.zip [a3b4a99787c9908d14ee4c86ca0769065c222a0994c37aa49cd09be4f11e8352]
-│   ├── wazzu-x.dot.zip [ac26150f3c4c6fd23386677316a8416ea4c7a2956c0bb068a79f29457332a6d2]
-│   ├── wazzux.doc.zip [20bc66f7bc8ca0b06b6aecca752c943e9ae26416e141318182e7f82bb0d06eed]
-│   ├── wazzux.dot.zip [7fef50a391d3556c6aabb971bbdfeb934dc6c089c8772ee2a5477fb8cd69b7c4]
-│   └── wci01404.doc.zip [a0990688d1c28d77e8a053fd3fcdf4cad5b73b5d6eab08d92c73d648a9bf72d4]
+│   ├── wazzu-x.doc [b07a33763cfd6e00f88df9810603954c95e6672b1b57899322236c4097c4350d]
+│   ├── wazzu-x.dot [ffa638eb9f30e229b29ca6117468881975a11aa80bc8d9f759341a8672237e64]
+│   ├── wazzux.doc [26ea4cf31377e9267e6631327c3180834efe5f6c0edb765342ece88490354521]
+│   ├── wazzux.dot [e15542ae5320ad28ff110e0d70124ea160c3c2f2e9bb1f26b4bcd696232c114a]
+│   ├── wci01404.doc [9c34b7c8651ee85d68eb8d19bf384bd807f9631b4004536e2b96316ccd31ef38]
 ├── x2
-│   ├── wazzu-x2.doc.zip [26f2d5a100c4f963f2873f28320d10965c2f54624b0cd9074511c4c2f07344c3]
-│   └── wazzu-x2.dot.zip [8b69a37fbd62397254f35443f75e4a7f097b813b81ca69d3f6e3abc2f44007f1]
+│   ├── wazzu-x2.doc [31d5158ae83efac15e492d5c33bd96a89cc4af2d324945b5c05bfea68670c585]
+│   ├── wazzu-x2.dot [f356acab07c629716cc7d0548b6eb71368d94381b08b98982deb7efea99659fc]
 └── z
-    └── wazzu_z.do.zip [da032add1cc724584f9bd7677fba88dde4927767d56cc6bfe5bae053db586b1c]
+    ├── wazzu_z.do [41493e08ee264c91e58ad1a6f8ff3ac63283152f6cc71999cfd25b1dcce5fd6a]
 ```

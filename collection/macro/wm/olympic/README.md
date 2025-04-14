@@ -3,10 +3,10 @@
 
 ```
 ├── a
-│   └── data1.doc.zip [6073ec076c488879d0d91ac6308eadecc28e9398063257745f409f3cdb0ebfdf]
+│   ├── data1.doc [905816335f7059df79c6d348690e52b96f2ebc1c725017340cae152b9352603f]
 └── b
-    ├── atla-b.doc.zip [3f1da6222f47e92b3c63a2addbb0f359575a5c75372ac44dcb8a6e9be480ffda]
-    ├── data2.doc.zip [c3c1948ce19416c4623fd8515cd0c702e7e784ef316d522fe3659ba7b8b232b1]
-    ├── olympicb.doc.zip [2dc31f8e218ac5c80ab60baa81132a6ef9c41d7d8e7d79fb1a38a577a0d749e5]
-    └── olympicb.dot.zip [01accd5c2be19e57bfa8d37fbc23d177bcda97dde0ccaf07e1a73c28ed1bb163]
+    ├── atla-b.doc [187dd664b73f91f91f08d6057751919d4c80d048df9aebe6a85a54274db692bd]
+    ├── data2.doc [fc294f3f543edad0fbaf03232c0e8d1f8b8111188626e8fda9ef4f048af82d85]
+    ├── olympicb.doc [a8d65a29fbaf4942e1f6542099c83aa9580c8b6092414a5d5553208c2683e345]
+    ├── olympicb.dot [046915dbe637c49864beef9196d8945d696b5a9817ffebebdda4397a1f789ce2]
 ```

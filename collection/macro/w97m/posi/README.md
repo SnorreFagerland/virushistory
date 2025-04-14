@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.posi.zip [f414861cb5fb9bcde213a01f1d478e1b2af6e55a45dfc288c32d1046cb34c5d7]
+│   ├── virus.msword.posi [c3d1479b3f471270851d65ab57868398f95786f0eea6952af1f478036f191462]
 └── b
-    └── virus.msword.posi.b.zip [85864c1ec9dd9a656d05e88bd329f22cf1ed2a355d8a0408a704a4169a68026c]
+    ├── virus.msword.posi.b [18796285095f0d7071c19e751a7945bcda669bf0a89eb1ae1b27676beb695a4b]
 ```

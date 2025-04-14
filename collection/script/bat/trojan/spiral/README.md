@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.spiral.zip [a9fc0bc503781300dfd24d3c141c7eca978e18f7347c79ca17b1ccd88b03d914]
+    ├── trojan.bat.spiral [8eda4e2f8d6a6512b63e53713fcc84a7dd927fe15e6198568ec35ab7e3b16396]
 ```

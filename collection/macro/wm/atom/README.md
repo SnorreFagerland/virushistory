@@ -3,25 +3,25 @@
 
 ```
 ├── a
-│   └── atom-a.doc.zip [2eab5efc4a6690301ddc492432932ef4123090d2a48cc3ddfcfdadb3c389e9e3]
+│   ├── atom-a.doc [cd9197238e7bcc3065976a74d3fe7e745c0531a9875d9759cb42a65bf478e60f]
 ├── b
-│   └── atom-b.doc.zip [cc8d6fa6707d991f33ed4069bae80a35bee4d8582376fa07e40b3490efb250fa]
+│   ├── atom-b.doc [4993a5e3bb725688be27cf39494fc23cf8dd0428bfc1e5f1ae8fd3bbdc0c4950]
 ├── c
-│   ├── at.doc.zip [d1a0bad3e72e0e29c8500e2859eead708ebf3b8e0d341c751d9762c0cf079849]
-│   ├── atom-c.doc.zip [327bdba77fc2d02cde6d7d59c2611bd65f3e6e9a9f22b80a5984f4045672945e]
-│   ├── atom.doc.zip [991468263aa7caedea6e1335d319ac8976bb27ddf4f68eb284d416e677844037]
-│   └── atom.dot.zip [05ba73fe974b847068fbb786419292c4f18c0235e133a702a9c3f6fd8ee7e5ae]
+│   ├── at.doc [5bda93ca0d781fd762c8a09904cd7738b34e2300cc7ee3e4cfe9027080b5eacf]
+│   ├── atom-c.doc [4b1e8959b7527c4e58d4976f16531e9a9df3960e447aa0e8d2845d5d27434d02]
+│   ├── atom.doc [7a51b6a1187b3801c6dbf72337be39c7cfdbf4e7fca36fa3b8c2f6a150af1109]
+│   ├── atom.dot [396d8d5a68401dd36ab16e0c250c04038a2da55c16dc65268ff5a8b63a945f36]
 ├── d
-│   └── atom-d.doc.zip [9e26c739af732234e84d42a8a2ee08402c5c727b906355dff1a7202da113dc91]
+│   ├── atom-d.doc [d9b5a0805e2704ca8f72371907d8d04e2dbd240c7595fb6b77a1df472dd90ea2]
 ├── e
-│   └── atom-e.doc.zip [b1bec3a5f7634d66c0d642497245bdc947b0057ea9cc3075be4235bc6b70b94b]
+│   ├── atom-e.doc [847318f030f4d98e7e719f1b7f979843fa3a69081f105bfc126942f25b6dc03d]
 ├── f
-│   ├── atom-f.doc.zip [6ab96aaa55082ff80836a961217afaa6c664e0e17b58bc45f06c5c5528de0ba8]
-│   ├── atom_.doc.zip [defa38c89e35be2f0c21bfe254368e9e4f088e9d4925afaae9f8c94004f1be75]
-│   └── atome.doc.zip [af432ab846a8c641e26e9c2a45dcab1113bd18e037206d8ca7681dbeb3fb2e58]
+│   ├── atom-f.doc [f64265a39d84e041966cc2fd4ee1b5f5b24b1be947977d46996d16bdbb2590af]
+│   ├── atom_.doc [c89208e5403f689fe6fbe945113744d7b64b4474677c66debf6f21eaa20f05f8]
+│   ├── atome.doc [da66aa1ef94a70d62c5eb22397b2eecd8b2af92c04cc51dadec498dfd57a7969]
 ├── h
-│   ├── atom-h_2.doc.zip [37293854dfac2d41064a1ee7b85a83a0a921ff8c607fff54e132ff8f6ea6e4fa]
-│   └── atom-h_4.dot.zip [00fc3ac041a335f13e6eddad9173893446cc63e0c858c93c6248634bf0029b96]
+│   ├── atom-h_2.doc [60b4b5a23734e05e9b075fa7ceeb2860629bac2897c637117e81e11864af2823]
+│   ├── atom-h_4.dot [4bf36d74ea35e04f531646fb66f0d380ec532170372f1abbdb1154c83cada165]
 └── j
-    └── atom-j.doc.zip [9b1c6a771141bcf162931af6edf2018342f5ed733802768a9d93bc1bf1808c16]
+    ├── atom-j.doc [57ac5f0d5631217d369859b03b6800dcd29730e50dc31c54b7f857cb0a32095c]
 ```

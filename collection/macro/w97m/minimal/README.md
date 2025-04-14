@@ -3,132 +3,132 @@
 
 ```
 ├── a
-│   └── wci01354.doc.zip [da15d3da9a7942cd6cb7f08830d55c7f33295f27997b7f8e408ed669c8d6fe62]
+│   ├── wci01354.doc [837efe3e7728ad6f214b099e0e5b1e23fc8622b8bba4510654498c42593841db]
 ├── aa
-│   └── virus.msword.minimal.aa.zip [cd746681b6506360c78a6ef9b1957a5bed621c29615297d3627a9ae8e018b183]
+│   ├── virus.msword.minimal.aa [5f677d212d9193962bdee01d484bb8edf9c3342c8c7d38c52616bd83ffb4f828]
 ├── ab
-│   └── tiny.doc.zip [e10e35aa95524eeb099027983ebb54f78cf2d92a447ea2381d1ea87b24535e28]
+│   ├── tiny.doc [931422d24fecaf51d7535980f06e9787c85d0addb9ea049b467f69ee255031a1]
 ├── ad
-│   └── virus.msword.minimal.ah.zip [fd92c2cf8af645c2e59f57d56253f05c1e911a0a568aa1b765d1f0acd933aaaf]
+│   ├── virus.msword.minimal.ah [b2abb216b487fe98a87ed4cf0a334700623d1881d5ede09b43f002f00cd5d4b6]
 ├── ak
-│   ├── minimal_-001.do.zip [f4d555059d82b2c3f73122533458e002d39ef87d395227ad955874e387981338]
-│   └── minimal_.do.zip [c0b6526c6258e4b379c336bbdb7d10506964b5a1c294893a6373d5b11d7cbec1]
+│   ├── minimal_-001.do [919d99660ecef72ec44aba7cf3f03516f9cf8565fbee5f04d0f27187bb639e91]
+│   ├── minimal_.do [643fdc4a9b8e2af15161693ee19d0790f8f5390a3deb8c21c3f75173457c1bf8]
 ├── al
-│   ├── minimal_-001.do.zip [5d1652acad0171250462e57ddfa03865ef08fd251b5e840bdfe348276aca25ac]
-│   └── minimal_.do.zip [a405356ad811b16ac5c3b37cf13ad7eb68c625672408c9ea475184ba98ca78df]
+│   ├── minimal_-001.do [80087317121e85b4cbc9aeaace4c0fc2e7340a53ffb8092765e2e27f319b6d91]
+│   ├── minimal_.do [3a6d5687b3831095759233a5a145a9ed414b9d4223933663c556a073e3104ef2]
 ├── am
-│   └── virus.msword.smallv.zip [961db01a180d82625d031cb5aab5889d0b8806015e41f6111b2092fd1cdbe5bb]
+│   ├── virus.msword.smallv [cae5c40973b28f71e8e36c9917c354f789a06bf6705ed97db3f59169bc848fd9]
 ├── an
-│   └── virus.msword.smallv.b.zip [629e9f7391f263d013b37000d6e82c48a84fe047422a5d7be355f6e08255a5f6]
+│   ├── virus.msword.smallv.b [9f8f6275abd1308befc35d60ee3a0df8eabd313f2d47a4e3f92bacb59b6857e0]
 ├── ao
-│   └── virus.msword.smallv.c.zip [9f070f434198297b8ec486408e2f792357a6b040ca44e1ac5548feecc559a10c]
+│   ├── virus.msword.smallv.c [4176a5e4f410208f5d77c1e94f89e53d24e357efaee65113b22992dc5dfbaa79]
 ├── ar
-│   └── virus.msword.minimal.az.zip [be6fe350d6fa405bfa5e33c9b86df0f08d9a89a5693e89b66d45c7348e323b4f]
+│   ├── virus.msword.minimal.az [1173f550a9d5751054ca4694ca115033e370f2b5940b756c326a7ae7f78e9fff]
 ├── as
-│   └── minimal_.do.zip [a49e95a5545da64bd6be67633b5cb36836b391d9216a4c98c2b7173ca848593b]
+│   ├── minimal_.do [4e753974182007b388b089e241c00826ee399b870b4b926b4ae597583b58bf4f]
 ├── at
-│   └── virus.msword.minimal.ba.zip [727f0e29c14179ed82bc94a712c405cd93b95e1dda968f8102bb39d234c5edf1]
+│   ├── virus.msword.minimal.ba [e82c5a00bece3efdac96b241d76aed1a729b32ddf0eb6abe131551e0b1c4bc98]
 ├── au
-│   └── minimal_.do.zip [cffb684cd943744f2b35ac6cd21f934acf543eb5853bf8023984145ee2cb9741]
+│   ├── minimal_.do [ac51c07a07a0ec3b6a140f61bf12ae7bc69778c39442090898006d748cb8d8e2]
 ├── av
-│   └── minimal_.do.zip [7783796c6b8aa6563e419c17f9d4d7f47d7b57c40bfdf169cee27ed0057e97f2]
+│   ├── minimal_.do [17b55d99401183f579ad87069223d2a8d739f81d070164d4e17ea090e3cb0c5a]
 ├── aw
-│   └── virus.msword.minimal.bb.zip [421c026b268367e7d027866a87f4fd226c31a1fb782f6de0d96d9baa32f52ae1]
+│   ├── virus.msword.minimal.bb [dbd32d96fcaac2a2202ae08262138f924551f99ce16123ebccff997457b78674]
 ├── ax
-│   └── virus.msword.minimal.bc.zip [18defd667afd56ac06f0e4a2329deb325191a9b95a89fff346d5d0987b2a164c]
+│   ├── virus.msword.minimal.bc [22868a83aca268f6b9708d611ca0f343a2a634dd2c0aed6f16724af1bf307c77]
 ├── ay
-│   └── virus.msword.minimal.aj.zip [b02c73826bc1a12190f2dafe406915ac2f96aeec22ac9e71893f07b7c7f28ea7]
+│   ├── virus.msword.minimal.aj [0d11d6b8eb0dcdde0a2581d8a6e5e66b5a2b7b994cb7ab4dffdbd9b52cdc63ad]
 ├── az
-│   └── virus.msword.minimal.ak.zip [c6999d17274b19206b69ee6c6357048370ad9656f8ad5f881d570b33a7f3ffcc]
+│   ├── virus.msword.minimal.ak [1f7fbe4da47fac50d2e48f7851b994ee0aa5fdeee615f9e56136f27633a70c9d]
 ├── b
-│   └── wci01364.doc.zip [363a6b962d12899296a6a6c2fd150349b10d4d4bb90f0e74bba16c1091952e4a]
+│   ├── wci01364.doc [fe84147d0e4d73a634dabf355340b3c242c150a8272f4bc1ec59a3b9f838c96c]
 ├── ba
-│   └── virus.msword.minimal.am.zip [6d1306bc8a847ef1e3064976e6cc17a58873aedf3f7e14311c1890c6ece3cc74]
+│   ├── virus.msword.minimal.am [20dbb37d56183cf5deda971ecba834615dfa3cb8bbee952559491095b9eabe25]
 ├── bb
-│   └── virus.msword.minimal.ao.zip [b70eb81f0218bd259fb656daffecc434c67225159f983a4d677e8c63ab514a38]
+│   ├── virus.msword.minimal.ao [8042a0c94223803d733ca6a70818de052787e5d0b2212ccf3702feaaf4f66cdd]
 ├── bc
-│   ├── minimal_-001.do.zip [25f2f89e4d8a45883bfbd28081593267125f2176b3ac08b0c73d33b9aeb20538]
-│   └── minimal_.do.zip [9693a141e7d7497c818c0d197cf7f80e5624e52d969a1660b9a0a8779df6e963]
+│   ├── minimal_-001.do [72dda2f92bc3676566f25e897dab9dbffe910af6e7ca59200c8caed33bf90f8f]
+│   ├── minimal_.do [58328c16e4a556838ca37a22b7e819ec2b6bb6836186de494ec54d6dd7791469]
 ├── bd
-│   └── virus.msword.minimal.ap.zip [c84596cfc32402aec4230d8d74542d4a3b1f2362ea9b3ea8cd32be1817b4225c]
+│   ├── virus.msword.minimal.ap [71125d1eedb2a42f13ce07cb5b013d64f72c07c035b5ecdf3f02ed16fa365b66]
 ├── be
-│   └── minimal_.do.zip [2b40e9ff9cd1d9c69e7fc59d237e43aa0b4b111f885c0f6f0cb08c9f288f7bed]
+│   ├── minimal_.do [6fec1e29c5899586147773483900d672d9aa4c21cf22fcc11e175f2eb586a7cd]
 ├── bf
-│   └── minimal_.do.zip [8c75e1314f4da73cb92177bea51b2a09c0c8a6af0d21df356ba31d2514ae7b24]
+│   ├── minimal_.do [892dfc85cd7ebd196c8da5187bdc2b69b0fe07e6b43635d58414889218c4f208]
 ├── bg
-│   └── virus.msword.minimal.av.zip [0a529d5e986269e887efb19a886f6b7577d4d1005f439fc46cdc7d6b44d41c8c]
+│   ├── virus.msword.minimal.av [18b43e619a905f15662f82e0c1e9a8d6ec0ceca70d4de7a6b491134cc71e7d7c]
 ├── bi
-│   └── virus.msword.minimal.ay.zip [9740711033a6b58739ba8720001771321561f35620acbc0d70283f7d3e6830c8]
+│   ├── virus.msword.minimal.ay [7348a35deadbe8049ab975f57758c70a710a0f13ac65b6ae6437fa539120af74]
 ├── bj
-│   └── virus.msword.minimal.bj.zip [01619f03e2c75b54b5bac72019197c14ee983e819db14c7f69bd4598a96d9cb0]
+│   ├── virus.msword.minimal.bj [90d57b0cdd54e740e786d1ac6f276c60b222f2b155703bf5b292f8ce58bd49be]
 ├── bk
-│   └── virus.msword.minimal.fa.zip [9fc432e521a45800f5c14f0abf38afcc6bbe2ff547180aca767780a25a7741b8]
+│   ├── virus.msword.minimal.fa [f28a1cfb603d22e8af4edc6558b30514997ac3867cb5a54300b828ab5525976e]
 ├── bo
-│   ├── minimal_-001.do.zip [061375937af6a3a4be5e0333c97af8ec03d9ababa547565bcc6bae72b499c1f3]
-│   └── minimal_.do.zip [07a5b7d1cdc9b36296207be6c16ed63b775d26792b78f7e593bf91c3fc7f60c9]
+│   ├── minimal_-001.do [76445ca75bf1d319be11cc85b0e5ea35c4447473cc612600c7c0f8b075307e04]
+│   ├── minimal_.do [64f42046d3d2cf432fb2cc6bda978767b952e14921b1c954a302ebb60ec43245]
 ├── br
-│   ├── minimal_-001.do.zip [b90639e4367eb521d1352bd7dae6e0b2b4875bee0798242b55a5d555c18e55d8]
-│   ├── minimal_-002.do.zip [a916128ca552d0cef07f0ef6baa4b103f7186d87bdb8eda1708c9bccf290129c]
-│   └── minimal_.do.zip [5ce2fef48eb6a0b78d74c32a1da14e1f6bdeb2df918f1b2fa0a8108b7fd8eba1]
+│   ├── minimal_-001.do [2652119d09ea3d3cd05040073c6e1f3d85c46287012c956c97e70eae8e143cf0]
+│   ├── minimal_-002.do [2ebed3dc5ecde9ef7cc493b0ad173c5f3b9e587f3dfec39ef682b19573ec6e99]
+│   ├── minimal_.do [0cf323b105dffde9cd007c6a6a95bdb130d9fad1548c378f9b69c84ee5b2878d]
 ├── bs
-│   └── minimal_.do.zip [0c0fbde8acb2ce5b750550d05fe753477437800a933c85844e347437c0be7a13]
+│   ├── minimal_.do [5c6367e3adfc36cbad48f90c79b31ab51c6e47ba742e0b977fc51f01243a1844]
 ├── bt
-│   └── virus.msword.minimal.bt.zip [11bccebdc3a94335bda00c3dd0ce0552d7516971d013157e96531f329b208f1a]
+│   ├── virus.msword.minimal.bt [fed041e99d35f04641ba2a2fa0cbb02746fb371542dc66755539cd4d3254bbaa]
 ├── bu
-│   └── virus.msword.minimal.bu.zip [d9f553ff4c726c3ce246bde85f6d7ece2e8279efbbbd2fd465715ec06cc9c0e1]
+│   ├── virus.msword.minimal.bu [3bec9212da578b873a61a33e3255d2a1a15a097d979da48bb95c26825a35260b]
 ├── bv
-│   └── virus.msword.minimal.bv.zip [ca3c60609238f54238fd1ee89de49e455b6fec4bc0c4817454288bbe7d5203d0]
+│   ├── virus.msword.minimal.bv [95d343dd4aa3adfe47b1f0964935bf693995fddc2f7e82a06138c6312d2975ed]
 ├── bw
-│   └── virus.msword.minimal.bs.zip [a44845e8664e68533bdb3d18fdcbffb601085103dcb14da3e24b8616ca4febde]
+│   ├── virus.msword.minimal.bs [e673e2a06d47d3fac5a01a069d3edd843a8818173050b821d29c85a810172ccc]
 ├── bx
-│   └── virus.msword.minimal.bx.zip [82475abfe907c62c1e54dc4520d3d2d305e9ef6221625bc10ed0f1cc307af6cc]
+│   ├── virus.msword.minimal.bx [5ca17d2705fd8036de8325fa2be1717fe0c4b2ebbc7ddbb692dc01a08495612e]
 ├── by
-│   └── virus.msword.minimal.vw.zip [d003728424c7c1b88f5a7f77bd7f41cdb7382dd3d246b8a01e949e460af089f7]
+│   ├── virus.msword.minimal.vw [62308d3e184592e003dda60d524a2301a3fdf51451565ab46d223ec86996af12]
 ├── c
-│   ├── goat01.doc.zip [8e361a890b759548b553d26b25496106a9aa0a30df2b71576c7f461419964f74]
-│   └── goat02.doc.zip [78f1b757790c12e2ddae479b0bd80003b1886c80aa751dc470858f95e5414d25]
+│   ├── goat01.doc [a682384755017aebbe664dff09dcd939a57f77c8806ad6735e67932f243a18a4]
+│   ├── goat02.doc [cff8ab011d1910041e0dd89d41b3ebaa6209117b5042d8e69eba061f18a37c45]
 ├── d
-│   ├── mini-d.doc.zip [4c69d2a32608a7c9f79e135de26401908da3a183ecfd2ec73cdedbdd2bae5b4d]
-│   ├── mini-d.dot.zip [a4bde17e684873b321104e6b4b2b4d32c4acc0a3664f7b152741806690918164]
-│   └── wci01374.doc.zip [8d495eb8b49dedc52a6cc7947b2a760b9ddecf233359648afd32f3e0e47c5602]
+│   ├── mini-d.doc [fc9904eb594fc260b446aa7edca2199972757f0b938bcae8a9b81bb90a66c15e]
+│   ├── mini-d.dot [333524aea3888f207825fa430ae46b83673cc4a3a6f8a41f924c4b5f8c076aff]
+│   ├── wci01374.doc [6e17738a369355078f6aaa59ee919dde4970e021d3c30acb7e13a784c3d1eeae]
 ├── e
-│   ├── minimal_-001.do.zip [7430056c415481e6b493b7bcd2d5a50ea33a60b82d6b0998ab8a6fa426c0d3ba]
-│   ├── minimal_-002.do.zip [fbf999ad76608505175f6b8bfea0c4c689abee24532f13857eeb3405cd7f9fd3]
-│   └── minimal_.do.zip [b8acaaffd9753ec4182f80af29ce1a8061e890fcffa135a2e88a43a5270da4d2]
+│   ├── minimal_-001.do [e43776897f8332bbaaebb55ed07fd29ebd5b6c8e455372115e03294d4b6864a1]
+│   ├── minimal_-002.do [a418fa487c286ea471d40854546d646e0ce1b947efd2e6dbac4045c344e0ddbe]
+│   ├── minimal_.do [92b118805c46fe892247179ba778fa8bd098aebda2dd33ae60d252cb0b8f0d85]
 ├── f
-│   └── minimal_.do.zip [6e098012c5e2d39632d5f9836b66f46d4cf5ff479d467b9e78d2ca74dc3f11ec]
+│   ├── minimal_.do [6aaf511e86ba2d679e0e26e027c3825024b3997fb734fe4beed46953584efbf8]
 ├── g
-│   └── virus.msword.minimal.ga.zip [dc3a616dba7241e522cc82a434c3b022cebaf29c427160fc6cb95604b04c280f]
+│   ├── virus.msword.minimal.ga [61403889d79c728c74b07c1a9fc3587cc0a7e43e958182f5ddf6810b2f2be008]
 ├── h
-│   └── virus.msword.minimal.ha.zip [dc9f8a5cba8afe6a73d8a6a3b09e782b0d00a257eea60b1807dc18dad1787b8f]
+│   ├── virus.msword.minimal.ha [d92e07489d7f9806fc489e5d898f5a8fa8f68bbe2b3824db72aa6314fade2c68]
 ├── i
-│   └── virus.msword.minimal.i.zip [bb7b8898061f7ad839189b1e9fec1e8328c82d3603b61d98fe7edb171525dbfe]
+│   ├── virus.msword.minimal.i [bd7350352d474ca2efc35064994d0ca97089504096117e79ca005977f47e2cbd]
 ├── j
-│   └── virus.msword.minimal.j.zip [61ea2c8131ef21309edd49458b4bd00d2f57c7ccf31c1113f4580ffef6463191]
+│   ├── virus.msword.minimal.j [c48df34936d847a37d965537f08dd2f9a20001886a6e6b55ad3eaa57d8d48831]
 ├── k
-│   └── virus.msword.minimal.k.zip [81ee1b8f7367162ac8c5e0cd61d6a1bd0dd5a59e0faf1efcb0f9524415438a25]
+│   ├── virus.msword.minimal.k [7afc073aea653ff335d30f9cf64aa288921ebcc347c217b1263847be2771d5fd]
 ├── l
-│   └── virus.msword.minimal.l.zip [471269d84d8b52f7ea64016a8b8b4304957c1c4248ae3f33b932be9f50b975d9]
+│   ├── virus.msword.minimal.l [a0cc4efe7ac8b94cf4ce98d8b7e098ff1f0860b15ba72b42dd2e0cd723cc552e]
 ├── m
-│   └── virus.msword.minimal.m.zip [3f1fbad4381c4db1f2efc3848f4373e0f4a1dee8bd2634b15de216c4c0c7d6e1]
+│   ├── virus.msword.minimal.m [aa964810fc62e34bfd6452d367fc249f08623fbe34782ed244edabfef3388275]
 ├── n
-│   └── virus.msword.minimal.n.zip [475eb8ba0a3d8e277fcfe62f0e31d77640ba42ee04e1e7ebfbfbb85bd5e752db]
+│   ├── virus.msword.minimal.n [34009faf41f66604ecb5fcffc57d569618bec42ff254a0ca6ca190cd3700291e]
 ├── o
-│   └── virus.msword.minimal.lo.zip [9700182de795bb78bc315a01f194a91cecbc6849ba7b3130e43b284f91917c13]
+│   ├── virus.msword.minimal.lo [6a47bccbb82806007c3b2e3bfe71ebf02dea39786710ba0c22156d132cdbd3c4]
 ├── p
-│   └── virus.msword.minimal.p.zip [e3ba2bcc104aa60f593bd0fec3e27e431211153f7411a9cf1f852e8a6daefc37]
+│   ├── virus.msword.minimal.p [d249493251747efc5a0782ec149c97c9a37b78575b9ed0c7d6b8cfedea012d3b]
 ├── q
-│   └── virus.msword.minimal.q.zip [7e626e392490637c3a60a6c87c3bdd0f5b48fe9e108d8a3d1389c38bf3197a12]
+│   ├── virus.msword.minimal.q [fbb2bb8d5bf18bc5a997884d5062d9d3cf01d60a02b305ce18829785eba5fb12]
 ├── r
-│   └── virus.msword.minimal.r.zip [6ee091aa8e2ec5a2cbd90edad892fb68de8b6af841bbab255f74e54d1160f6b4]
+│   ├── virus.msword.minimal.r [49db2984adde43a0ce785c754aa256e3621a9a75f3b208304fa50f1f018bf3d8]
 ├── s
-│   └── virus.msword.minimal.s.zip [0118f2edc8789bf41a0f0a8b2cd4b66f631ad15e10902d2db63193eff61448f0]
+│   ├── virus.msword.minimal.s [f3bc3a77498f980df8ef23e06ad3e3e0bb695f2a02386be8b996a372caf378f9]
 ├── t
-│   └── virus.msword.minimal.t.zip [6f28ea46e18ffcabf506fc0100c80e864a661502fb5863c5d9a73e1c652455f7]
+│   ├── virus.msword.minimal.t [754d2dd0b6095161ea6bb23f57ff09e9b9e6ca8c9130fe2b0fc64c32704fcaeb]
 ├── u
-│   └── virus.msword.minimal.lu.zip [2cfc8738be432e970856ce12bf33c0432460a34575664552b5971c24c5190cdb]
+│   ├── virus.msword.minimal.lu [46bd6e7aa90ae093c895a32bb86c39f4aa33a144d7ed01fad206fc168d5f8823]
 ├── w
-│   └── virus.msword.minimal.ag.zip [9786eb96354acc7aeeff06967db59eb9d31f88f79b29e13d96fea2857336189f]
+│   ├── virus.msword.minimal.ag [e31e8ede65c01283bf4af128586d31f9d7cfc2658c82c93483471bdc80cb398e]
 └── z
-    └── virus.msword.minimal.zip [9636e8584d704a675ad278c26052c033d293097d8d04a65a6c2e06d7ab364039]
+    ├── virus.msword.minimal [f4862b2bc6ddeadb89953bb9be84085821f4874a160962a3b8c8b3140d12cfc2]
 ```

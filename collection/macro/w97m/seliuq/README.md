@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   └── virus.msword.seliuq.zip [c51932fd0245c007bcd289ea169dabade425620e43337b28a293cdac6a2f90c2]
+│   ├── virus.msword.seliuq [f9961e1ad17be5568fec48f4eeb78a01eea4f7bba4ff253afcff1dd0d9984ae3]
 ├── b
-│   └── virus.msword.seliuq.b.zip [4d7c5ebf5f532f57f5612f0f3837561eafa69f7a1b8287bdcb341a15147654a4]
+│   ├── virus.msword.seliuq.b [c20cf55efe9e021226b2e1b830b3b341b7f5bf32b03d23ebd23bbe93dc780d27]
 ├── c
-│   └── virus.msword.kokos.zip [50faddb86e0dfa9eaa80f93766007d4e1295422e5aaed5d0645487176ace9955]
+│   ├── virus.msword.kokos [88a866af8f2f4b53c92726d0003e3ff4d5a6c24a5832067e3cd4de572392ec18]
 ├── d
-│   └── virus.msword.seliuq.c.zip [9840b4d1b70deddd8d5a3c2b92b3f6ce4ed3ca5a45c9cc86b05f57ab780b7d5a]
+│   ├── virus.msword.seliuq.c [ca47c95546703842eb507c294954ad91814b4f67b25389cee6f7c8e4d7483ac7]
 ├── e
-│   └── virus.msword.seliuq.d.zip [6bd7320f89191eee0297ee7253857c5b51fff4ebf93f7f9dc85678cc5d991fd1]
+│   ├── virus.msword.seliuq.d [ba8755327b6463dd16c3429ea216e39e77d43447a8eca7df9e32526c3a9578db]
 └── f
-    ├── seliuq_f-001.do.zip [1a2b65eac81f8e9bd2ed45cf8b3a0e7c6106fc0688e3a3043a9838ab21e52726]
-    ├── seliuq_f-002.do.zip [a8def62b927dc9c5c6f4fc2083077af6d005c66c054e372a404613442245000b]
-    └── seliuq_f.do.zip [40016be54c99b462e3557dcb914a10cf781a06a7de6cd071c3372ea8b68b58b6]
+    ├── seliuq_f-001.do [089e80e7c29aa3aaccfa22b6de19defd9095f7a8aaa0f59fc3fb2ade8881f3f9]
+    ├── seliuq_f-002.do [6969fd5c7f4583a8ef7096a49520da6324c526a0eca222e98053933906a33e53]
+    ├── seliuq_f.do [08429152bcb996280bf051b42bddf55c5d7980277a3bb23fb4c816ab5c1d1029]
 ```

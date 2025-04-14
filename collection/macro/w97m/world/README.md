@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.dworld.zip [04912b7b1cbd5c6eeeed678e6c98791a634bfd16d7c298328dd03afad6fe7be6]
+│   ├── virus.msword.dworld [b064fb620ba79da5769888130836de523bbb22d3e89b761439dc024152064053]
 └── b
-    └── world_b.do.zip [889300b901f66f161c7ca6ef886cebffa9a7fe488d2961ac3719b41e8f9948ce]
+    ├── world_b.do [2ebbb1cdd40389e5c2f606ac8b96f5d29d20154ac8e4057c28a7ae5bb34df2b1]
 ```

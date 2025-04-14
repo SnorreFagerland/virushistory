@@ -3,5 +3,5 @@
 
 ```
 └── n
-    └── trojan.bat.autorooter.zip [7b60bb1498e5e8ed9804a8daaf34ef5bba2dcc9b346da700ba7540d013b959ab]
+    ├── trojan.bat.autorooter [bdc820da754fd2de4c527a7caad43a599f76282ecde571490362864e4dcc8771]
 ```

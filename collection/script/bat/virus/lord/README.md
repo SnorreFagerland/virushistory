@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.lord.491.zip [79a7c609cdf0c6d0f75d4cfa09d83ac2ae65134ef8fd47311e28c26d28c90a59]
+    ├── virus.bat.lord.491 [a5defc33561b74fc1ce025c94362caa6fc21e99d1cf2de6541440e21490add18]
 ```

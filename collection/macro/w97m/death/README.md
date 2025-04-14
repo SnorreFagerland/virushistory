@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.death.b.zip [ea00eebed73a43618ef55de63c2d2ce1ed6cc98fd14b994119b734bd167f6174]
+│   ├── virus.msword.death.b [0c0ed076cc58a2870d8c0a43ad9f02f7876d2faefe0387e97d68575b9aa21b0c]
 └── c
-    └── virus.msword.death.c.zip [2e238bad3b66076e397708a96440b5c998d001e35de81f95b4fc68f7316b5e34]
+    ├── virus.msword.death.c [23487b96deb531f2ba28fcb0587bde4feccf7d940ec6f34e5fafddedc38b435f]
 ```

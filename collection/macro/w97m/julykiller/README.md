@@ -3,16 +3,16 @@
 
 ```
 ├── a
-│   └── virus.msword.julykiller.zip [ecac0c9c879919b5eaa29d0caafa5364be19ef80af424b11f51c43ecbcbbc5a6]
+│   ├── virus.msword.julykiller [25a8604312807282decd0c87c5c4171b6c8de5467d1b5c158b856df6923112fc]
 ├── b
-│   └── virus.msword.julykiller.b.zip [57ede660de8630633c1bae36d77921eaee4796cc6fbae756599508f379797faf]
+│   ├── virus.msword.julykiller.b [1135d165680084c5d1c255071bfb155a4abe63b849b59bb2a55195c5a04035ad]
 ├── c
-│   └── virus.msword.julykiller.c.zip [52fcda942f394d642fb3fbe2319894d1acd7ba662f74c53c39d184d06ae50984]
+│   ├── virus.msword.julykiller.c [d272c593004a1d649c7c3640e7c714f1b77949ca376fffbab7f9ffc00abf80e6]
 ├── d
-│   └── virus.msword.julykiller.d.zip [256eb82a378fcd8da68e523a6695100ca831890a09937a335a64bdbe68c4db93]
+│   ├── virus.msword.julykiller.d [45d272c019c857c8bd1541ca50d504776bc1b087406715a5f8527ded169bfccf]
 ├── e
-│   ├── julykill-001.do.zip [49547a72e5797046950f988bd041c73cda3c57387767ccddd7e23e83c2165cdc]
-│   └── julykill.do.zip [020212b7d13347f4e4a489a9c78164ce2af7c9ee77c385ea57a182e26fd93a9e]
+│   ├── julykill-001.do [f3e8355c681018b567b4f694d738c3ed6c994664fd4fd694b2b57b2aa192fe4e]
+│   ├── julykill.do [13a7f2b4f36a4e44868dc56b034994c0dff29441d7b4ec97f7bb7f760fde5562]
 └── f
-    └── virus.msword.julykiller.g.zip [d1ca3e39ca0c4df91255fbdd1730db80147e33d73572902d295faff805042790]
+    ├── virus.msword.julykiller.g [ed79a7fed22ab64dbd06bce92d414b53978f74f5491ec48bec75426b46581618]
 ```

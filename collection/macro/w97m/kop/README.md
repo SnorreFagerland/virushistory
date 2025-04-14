@@ -3,14 +3,14 @@
 
 ```
 ├── e
-│   ├── kop_e-001.do.zip [7aec938850352fd4bf9090ef231ea67fefa03bfb670b4e11dbf581a4690e0f13]
-│   └── kop_e.do.zip [00c41e5add4ef186e1291c7ee1624e5b7d10e6cc15947ee2a1c34df712b5293d]
+│   ├── kop_e-001.do [c782879082b5defb76fee9aa87956c157e17fa98b92b540a956fe7dcc21e644c]
+│   ├── kop_e.do [6449e44160404ddd65c84f2e5469c17aae9907894059e606576884e248ff1240]
 ├── f
-│   └── virus.msword.kop.d.zip [63523ad576335b7f91238d39d7f4346039808345d31f03dc2885bf6cb5b8c10f]
+│   ├── virus.msword.kop.d [f8bc3d86ee5415cce9c7cb29ff45683aab3338c180bb24b608964a3cd2f308c6]
 ├── g
-│   └── virus.msword.kop.e.zip [6ccb362713299364e2ff965b87fb4d4626e2f88f0c69b1058f5f374f9f6fed34]
+│   ├── virus.msword.kop.e [980a7637cd000e895a749883ce13891e4a87a506d4dc6330f4dc6fb8ab3fb5cf]
 ├── h
-│   └── virus.msword.kop.f.zip [1123872d987426bede867607f2ca1d2f1b6b0bf2fa0fe048abe49c625e1fde7c]
+│   ├── virus.msword.kop.f [4e5fca06edbb61eedb53a1873001df04c23022160a75b7e124980b65f941e234]
 └── i
-    └── virus.msword.kop.b.zip [ac600598da306c2d77d8b145d10bffd2d3154c861ddf0b77fde888d841d10f98]
+    ├── virus.msword.kop.b [599d7e9ea2c7c5ee2ecf7179a7004b1de0b5fc3774f3e1f71f5c51110726fe00]
 ```

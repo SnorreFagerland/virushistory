@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.marker.cg2.zip [38504c75233e1afcc0bfe0ae69525cc4d010d923936fdb8e755f1198f4133ea8]
+│   ├── virus.msword.marker.cg2 [3c0c10d8136005eb12828854365a5d79f41cae27b21e5249cdb7d98c26c4f935]
 └── b
-    └── virus.msword.este.b.zip [ea8e2d42278e0af158c3017a4007f991f6691f5cbafe3037c5baa129ae6fddf1]
+    ├── virus.msword.este.b [7a20b06a860880ff9e076ebaa162f57da168cd1af200de50615d79f28965193d]
 ```

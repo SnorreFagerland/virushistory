@@ -3,13 +3,13 @@
 
 ```
 ├── b
-│   └── trojan.bat.haltwin.b.zip [bb5eebf37b65f38c3fede69d0fa52b57eab94425653faa394295018cba1ce8c0]
+│   ├── trojan.bat.haltwin.b [46b69f752faa9f86401d710ace576935dd0a6ec928d76bc402b1cb9d53664f64]
 ├── c
-│   └── trojan.bat.haltwin.c.zip [9959ce2fa799cb3c2ab256f1cf1a3742d850df602e1bce11ded73cfba25c0877]
+│   ├── trojan.bat.haltwin.c [eb1db3b2e0a8146abd957abfecfdec12557ea696d4c8300539b5e26f5a84b6d7]
 ├── d
-│   └── trojan.bat.haltwin.d.zip [1432bfdc4b843f6ac40b0377ccf9c9bfe60a9fc02cadad6314a6de621b9f6c8c]
+│   ├── trojan.bat.haltwin.d [31041f3800947a43cfe53a2b23af5b7abb3c9007b39763684aa4a9df88c5c3b0]
 ├── h
-│   └── trojan.bat.haltwin.h.zip [bec537bfa762734fee029432e3e44f4a9506e96836549308f1ecb29d6ecdc003]
+│   ├── trojan.bat.haltwin.h [052a4352d62c9d93a4128b20ff5c8b762346af3a09fb8edaea0f29e4ee4a9797]
 └── j
-    └── trojan.bat.haltwin.j.zip [19f71020384c1c0582364db24973243693110bcbf908a13887dc7a5b34c6d4a9]
+    ├── trojan.bat.haltwin.j [a4c4817978923e9849658d3241ba27a52040e794c410ea8ede8eb694fb3b4bd8]
 ```

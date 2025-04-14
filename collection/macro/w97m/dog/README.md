@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── dog_a-001.do.zip [0776a1e9b2a08a72c6f9ddf31f7da9dbb4c2249ea2a0049a4f5a6ff4fd39d358]
-    └── dog_a.do.zip [993d222b50a4ffa1c91d2b3f399c947ee10bb4ceb898654c4b869c54ac1c5c7a]
+    ├── dog_a-001.do [a9c1803aad714b0c802e41a9cfb081a6615320206b7ac42d18de2a5eaa85d1aa]
+    ├── dog_a.do [8934b2b4eee3d0a961587ed755073d8ea9ce341793ec5ff5d7cc14665a21edc2]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.magnetic.zip [3715ad573269a0cf41c4e30fe04147c385064985bff9888e6903d3c5a36aaa99]
+    ├── virus.msword.magnetic [25e3fb55fd5313e074bd03a6b6eda354bb96f2739bf10c1232ab51b508cd1b27]
 ```

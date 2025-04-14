@@ -3,60 +3,60 @@
 
 ```
 ├── a
-│   └── showoff.doc.zip [ca5de2d896b39553e3aac0386cc168e7e81d63840eb3c15c4f7466d98efa0d60]
+│   ├── showoff.doc [acd651becd07337a6b8dc2270535c9b4817ce2ab0ac2577f1614d51d4aa051f2]
 ├── ac
-│   └── nomer2.doc.zip [5cdd70fe6e263ade76012a2523508bf78bf25ff42df351e2f749e724e1b952cc]
+│   ├── nomer2.doc [fb4c24de2516bcfce1163471872d52cece016cfe3a74eb030a4e4e817754409c]
 ├── b
-│   ├── show-b_2.doc.zip [596258f5b39ff7f68b54717a64b48f1b9f33677bcce48b5238bb8af1870f2650]
-│   └── show-b_4.dot.zip [797137e070b5f36ed9381cefd0759394e75c8371903d6022766d865333ad14d7]
+│   ├── show-b_2.doc [8a4e121a1abe11d53031d5f4b5d7e699f97deeab00cac0b448b3911347347f81]
+│   ├── show-b_4.dot [c51648b092e5e03f5b41bc351c7c098555c1e7d6f58c59abb5933f632b7f34df]
 ├── c
-│   ├── show-c_2.doc.zip [46081c1f8f710c0cd99be4058e3ee37f595940fcf350b7667776460f968f7ba1]
-│   ├── show-c_4.dot.zip [faea90fab9e912b611f3904421de5adfc77f40c0ade367d26d34f96ce0c10b7d]
-│   ├── showc.doc.zip [6f99f75f3648a1d57ea3c8fc9bf448276a7164bde774ad1a15b59a5ae770573d]
-│   └── showoffc.doc.zip [0b30a94e68e0e2c0d0cb6a640cad41177452e8f689163cdf7d23b385d3cb2b1a]
+│   ├── show-c_2.doc [9a8d961b83589af6ed5902ee74cbcbf8ee27c1df186ac33bfb884249094c1525]
+│   ├── show-c_4.dot [f1e58ede918027d5ce8776a9032ab434c2eaa1ee68b593352f9459ec0d273cbf]
+│   ├── showc.doc [2fd10314b7b0b11ce05e37605a81352f248f4c416f15c45939d8c42b2d61f63f]
+│   ├── showoffc.doc [b9cd0419fd79f1dca67dc0c186a3e6c8003d3d75403e2d029caa2d48bdf9f289]
 ├── cd
-│   ├── sho-cd_1.doc.zip [71f2c0fdd42c27c89c88ca7857ee4695b0685c85e5eefddfbecb01e80a8fb805]
-│   └── sho-cd_5.dot.zip [cf7837f859356e6151ede59948eb19eeb79ea4a05725a687318d0d3c2cc98b4b]
+│   ├── sho-cd_1.doc [c5067e52a7801f34cef9e600b21a603958c4565c0a573289897e22e1db370ece]
+│   ├── sho-cd_5.dot [0760b768ff9fe05f60a3ad7c54cbc1780a9ddc0ae6f9ec0ac2afcbeadb790137]
 ├── ck
-│   ├── sho-ck_1.doc.zip [e044c89c9c3112fa47e5e581750a51b9363873524e4e7b3504cf7e04b7520548]
-│   └── sho-ck_5.dot.zip [f7c7ac684e5babe683422496399742764260a15b11fb806af42b5d845afa8110]
+│   ├── sho-ck_1.doc [9087878194fec488eb63b5317e31f956c3635982d0655e0122096387b7a48d86]
+│   ├── sho-ck_5.dot [a12dec3652dcedf9ebab81b9df96306e17f56016aeea77107be58c4b272b7004]
 ├── d
-│   ├── show-d_2.doc.zip [4a2ce11e500482f7dbaf4b5485b229628180389da72f6c2d58ce8d227ff8488e]
-│   ├── show-d_4.dot.zip [0090384aaa534e2f38ccfc86eab2b29dfdddde7122f345dcede9321e47c7fb03]
-│   └── showoffd.dot.zip [69012b31cf5dfea1515dc2d2b779e223219f5edaa1afcd06f7e5d2c763632607]
+│   ├── show-d_2.doc [abf69537160587ce9b07b3ae6b2cc414ab74aaf60309e9798593156e1d6a2912]
+│   ├── show-d_4.dot [82d8e837233471dc0071c0be15c7c95b5501727cdf90335153e17d871ca2137a]
+│   ├── showoffd.dot [e07b7e2a2c73d795822f3bbcc95e4a377da900fb0a28e6fb645b078acbb9fa3f]
 ├── e
-│   ├── show-e_2.doc.zip [cc8a2f71ca3c78d44582d169c3b79571c98d7ff4c883f87e1e06cf64f77a78a3]
-│   ├── show-e_4.dot.zip [0063b92ed84915f58e58c958bc0471b39f5ced987787ea2d8aea65c69032be73]
-│   └── showof-e.doc.zip [65337d3bba518c5724aee090c5ac85fee5c155b1db4121d306c03e3d653d5fe2]
+│   ├── show-e_2.doc [7593649ff34b82688288a2b067d19a742ffd11591295cb557eed4eeaddf1b42f]
+│   ├── show-e_4.dot [98aac10c889da1ec82907f144d1409d000d3e11dba54f993869df58c15d0f0ff]
+│   ├── showof-e.doc [ff1444978252fd86953edc1c81990888655c680961c77f46d146ed6dd883a476]
 ├── g
-│   ├── nmpass.doc.zip [1e736cdf90e9baeebf681399a44be02c98e911187a8aa1d09d42cddb937c0a27]
-│   ├── nomercy.dot.zip [c25fffc9a9b12db524721c9b947795bf59d3788d7db7c72a8406b23b5cd294cf]
-│   └── showoffg.doc.zip [672671aca07968a383186b990208f9f1755908d71a154c767a7d2d1099aebe2c]
+│   ├── nmpass.doc [022f5e2f992bcf1c7d56bb635803d98c76689f3f992bf72b7ae300965ec3bf35]
+│   ├── nomercy.dot [a43405a35d8be947419523c11c03fcd39498a2fd49d9c61e386c10c14d7a14fa]
+│   ├── showoffg.doc [7f8508d0d7d6217368080866c82305d41b2f0454394dbacd6f9b175c4a9baf82]
 ├── i
-│   ├── show-i_2.doc.zip [442b4e7feebe92b5cf2165ad0c25e35f6cbb2fcd3112c638446247230b91e204]
-│   └── show-i_4.dot.zip [31fc4d5033f8765e1d9f194aac4ab8dda692cb4fdeceb1c7ada6f123d8e5adff]
+│   ├── show-i_2.doc [ad7e18592c321f592acd6533ffd30e4bfe9a70eb3042662d56967ee9c7e5d34e]
+│   ├── show-i_4.dot [54cd50bc501904570ac4eec21bd69133d01d5076efc7757b105d36959b003120]
 ├── j
-│   ├── show-j_2.doc.zip [da0a03eb7bd0a7c645913915c0c23d51c64df4f3cd00e736755fbfad08d8cb4d]
-│   └── show-j_4.dot.zip [4925c17e6922169273030ed6603301bee26b1584be4850ca90a00e6fd6e21c85]
+│   ├── show-j_2.doc [2aabb0b25c9e2686348de10c0bf0b9d4ed9d29a0605b833f8ef9f72a36bb6736]
+│   ├── show-j_4.dot [49522cb464ccc35d67366565499292d72201a13db8acdc6fa0d8175c043a2102]
 ├── k
-│   ├── show-k_2.doc.zip [f8ae1cd3f22809d43639f410ac174bc9f2cfb52c7ffcbc742aa7bff11ee56865]
-│   └── show-k_4.dot.zip [32b43b45c56ffbadca835fba3785a8590951e4ee857dffab4b6e65e6d63120c1]
+│   ├── show-k_2.doc [51c73aafaec7275d9200af94e8a1f0794fd5cbe5bfde34e098a1e641c254c67d]
+│   ├── show-k_4.dot [3c096785fbfd53cda7580786faa788f31de3a5cb1db8a92d0d580a51b0766b60]
 ├── l
-│   ├── show-l_2.doc.zip [ae0e3aa3186a468ac21b467f46464949d6a961dba78c7908463bb63a6c68348d]
-│   └── show-l_4.dot.zip [f9539965c510cbb20607d1d57049d20ec788fd60e49fcb29bb49676294666c05]
+│   ├── show-l_2.doc [0a7afbbd6eeca4fa1401481a968ff19941a2d72614be1f2cc6d10b7afab98404]
+│   ├── show-l_4.dot [00beb1f4c872baad260eebf249123b9fd52afbb43aa6abec07fae3d76750a8dd]
 ├── n
-│   ├── show-n_2.doc.zip [36c8e70d7a985f4d7be62fbb8813f839cb0af40f4c454e6e864cb207e2d4df5b]
-│   └── show-n_4.dot.zip [1dfdfba326da8be2c8a7a4282c1ae6053731f1e8535009449de7c7a71d1d1f48]
+│   ├── show-n_2.doc [ff61573d190bcb0f9e530e1b4f6c331b9ceb5874067aa09290ec5fc00e9edeb0]
+│   ├── show-n_4.dot [c93d93f35ede02212db714f3323514bbf9bbde394d31477fc0715e56eeabb56f]
 ├── r
-│   ├── ririn.dot.zip [50caf7e85bbcc0bfc4f722bb2cd7d87dea97bc8b4f6972cace2efaeacefba01d]
-│   └── ririn2.doc.zip [080504708384c6cc9e02334dcba4ebd69091dec482f86fb93e3ff0f66ad6f6b5]
+│   ├── ririn.dot [1234567422f5fcdc24a8139e1ccf94bc3babe6dc058831670e0a6108de2f5d45]
+│   ├── ririn2.doc [58b9000a93eb506c668d35f2f4f6d02e817031f5a825f200d0733d5c0ea34bc5]
 ├── t
-│   ├── show-t_2.doc.zip [ac03a605262e7ac1ce67f568241a1005d07d401b2c46fbee8fddcf73b5941de3]
-│   └── show-t_4.dot.zip [69c40e987d949f06e499ee2ec55523fc350e07cb08b67cd355dfface005052b0]
+│   ├── show-t_2.doc [e470b9e36dd84672232d4a984b427a9ba7df26308eefa37455feeda544dc67e0]
+│   ├── show-t_4.dot [70209315e04aaff09d5d9c63b0ae554786d06e9d1ae2325aefbb7057994d04cb]
 ├── u
-│   ├── show-u_2.doc.zip [6f99dff2835aec2aa9a30f302043731cef49e7b777925003415611ba9812c78c]
-│   └── show-u_4.dot.zip [729e4a5c1565eef1e4b7ee8bb57ba1c8d03175849e35afb76f046d5b422ab236]
+│   ├── show-u_2.doc [b646f480869df49ca1ce132774a5a83270b6f16e4e39e60911a010d3e923e096]
+│   ├── show-u_4.dot [a958c2b90b5ef283e3998344be8988170d12e90ec89c54adb2e7cf643f7cfa4b]
 └── w
-    ├── show-w_2.doc.zip [e3a7c63bf2ba3007af5799b88ae21a68024fe4a86f7560e1b572d6759bcbefad]
-    └── show-w_4.dot.zip [f3bac82c92e42f757c10c62d599a47fce8fd047c4764db9f13da027272b068d9]
+    ├── show-w_2.doc [19cab4a6aa3e20ec92d8ce0f7aad2da5898eb114286e04abca4be070b80c7047]
+    ├── show-w_4.dot [2018c32b9c9065e6fa871957757edadbc5e615141cb7ac20f100a5ada6b76e46]
 ```

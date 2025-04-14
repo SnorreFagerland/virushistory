@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.natas.zip [03df13dbb3095ab8d293fcd059dff4e2a88fde9d9e056a940a3e5798af8fde70]
+    ├── virus.msword.natas [9b0cc1999f7e145fc5724654fdf6d193f95cd7832d1fb30da0a69cc564e227da]
 ```

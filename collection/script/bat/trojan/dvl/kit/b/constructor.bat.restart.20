@@ -1,0 +1,119 @@
+@echo off
+:menu
+echo.
+echo.
+echo                    ษออฤ     RC2 - Created by DVL    ฤออป
+echo                    บ Win9x and Dos Restart Constructor บ
+echo                    ศออฤ    dvl2003ro@yahoo.co.uk    ฤออผ
+echo.
+echo      It will easily create .bat files with restart and similar commands
+echo.
+echo                    ษอออออออออออออออออออออออออออออออออออป
+echo                    บ Viruses don't harm, ignorance do! บ
+echo                    ศอออออออออออออออออออออออออออออออออออผ
+echo.
+echo    Make a file (press a number from 1 to 6)
+echo    ฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤฤอฤอฤอฤอฤอฤ
+echo.
+echo    1 - Restart 1 (min.req. win95 + ie4.01)
+echo    2 - Restart 2   (min.req. msdos 6.0)
+echo    3 - Restart 3   (min.req. msdos 6.0)
+echo    4 - Restart 4 (min.req. win95 + ie4.01)
+echo    5 - Restart 5   (min.req. msdos 6.0)
+echo    6 - Restart 6   (min.req. msdos 6.0)
+echo.
+echo    7 - Greetz and special thanx
+echo    Q - Quit (Are u sure ???)
+echo.
+choice /c:1234567Q>nul
+if errorlevel 8 goto done
+if errorlevel 7 goto 7
+if errorlevel 6 goto 6
+if errorlevel 5 goto 5
+if errorlevel 4 goto 4
+if errorlevel 3 goto 3
+if errorlevel 2 goto 2
+if errorlevel 1 goto 1
+echo CHOICE missing
+goto done
+:1
+@echo %windir%\rundll32.EXE %windir%\system\shell32.dll,SHExitWindowsEx 7 > restart1.bat
+goto done
+:2
+@echo"ECHO G=FFFF:0 | C:\WINDOWS\COMMAND\DEBUG.EXE >NUL" >restart2.bat
+goto done
+:3
+@echo e 0100  B8 40 00 50 1F C7 06 72 00 34 12 B8 FF FF 50 B8>>v
+@echo e 0110  00 00 50 CB 00>>v
+@echo rcx>>v
+@echo 14>>v
+@echo n com>>v
+@echo w>>v
+@echo q>>v
+@debug<v
+@ren com restart3.com
+@deltree/y com >nul
+@deltree/y v >nul
+goto done
+:4
+@echo %windir%\rundll user.exe,exitwindowsexec > restart4.bat
+goto done
+:5
+@echo e 0100  B8 40 00 8E D8 B8 7F 7F A3 72 00 EA 00 00 FF FF>>cb
+@echo e 0110  28 63 29 20 31 39 38 38 20 5A 69 66 66 20 43 6F>>cb
+@echo e 0120  6D 6D 75 6E 69 63 61 74 69 6F 6E 73 20 43 6F 2E>>cb
+@echo e 0130  20 2D 20 62 79 20 43 68 61 72 6C 65 73 20 50 65>>cb
+@echo e 0140  74 7A 6F 6C 64 00>>cb
+@echo rcx>>cb
+@echo 45>>cb
+@echo n com>>cb
+@echo w>>cb
+@echo q>>cb
+@debug<cb
+@ren com restart5.com
+@deltree/y com >nul
+@deltree/y cb >nul
+goto done
+:6
+@echo e 0100  B8 40 00 8E D8 B8 34 12 A3 72 00 EA 00 00 FF FF>>wb
+@echo e 0110  28 63 29 20 31 39 38 38 20 5A 69 66 66 20 43 6F>>wb
+@echo e 0120  6D 6D 75 6E 69 63 61 74 69 6F 6E 73 20 43 6F 2E>>wb
+@echo e 0130  20 2D 20 62 79 20 43 68 61 72 6C 65 73 20 50 65>>wb
+@echo e 0140  74 7A 6F 6C 64 00>>wb
+@echo rcx>>wb
+@echo 45>>wb
+@echo n com>>wb
+@echo w>>wb
+@echo q>>wb
+@debug<wb
+@ren com restart6.com
+@deltree/y com >nul
+@deltree/y wb >nul
+goto done
+:7
+cls
+@echo.
+@echo.
+@echo   Greetz and special 10x goes to:
+@echo   อออออออออออออออออออออออออออออออ
+@echo   - NGL - myth_eu@yahoo.com
+@echo   - SpTh - SPTH@aonmail.at
+@echo   - Sad1c - sad1c@interfree.it
+@echo   - Adder - adder_2003@yahoo.com
+@echo   - Nino - drliks@yahoo.com
+@echo   - Mj (Gotenks) - igrasie@yahoo.com
+@echo   - Ratty - ratty2001ro@yahoo.com
+@echo   - John - Cyberpunk_ro@yahoo.com
+@echo   - Kaspersky - www.kaspersky.com
+@echo.
+@echo.
+@echo   Contact me at : dvl2003ro@yahoo.co.uk
+@echo                   อออออออออออออออออออออ
+@echo.
+@echo.
+@echo   Press any key to main menu ...
+@pause >nul
+cls
+goto menu
+:done
+cls

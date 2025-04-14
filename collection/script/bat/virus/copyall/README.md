@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── bat.copytoall.a.zip [b11c8548e395fa921a453687ba33ddc8a29cf910a39b3e2ddc4186e2f62f7ee3]
-    └── virus.bat.copytoall.f.zip [fecb6364993941eac71b107cb3c4d0dd1b5dcc64cdfdcdf1a0b02d8543dc040b]
+    ├── bat.copytoall.a [d6ca7161dd1ec13458178de3cbefe83197a5d7eb8a7a349310751f5a58757c42]
+    ├── virus.bat.copytoall.f [0a1c8c4eeba98b0f6e046c0c948ab64f914957d36baa04aebb1b76e78905eaea]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── booky.xls.zip [fec4fb5e1da698dbff05083f69b9b512af7c2e5bb34c1b3f08df7d77797a797a]
+    ├── booky.xls [af0c2eee7f5383171fe4f5affec64a9cf295f60a157e214428b192c0c0cc2475]
 ```

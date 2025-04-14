@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.komcon.zip [266805a1fd7b49a842b81e4dd9fa182a0823af51b82d2e2a7483d6a0a00375e8]
+│   ├── virus.msword.komcon [4a6fed06a8a6f0a7cb55a4fba1a4e6d975d16514a1700cdd568f3e668f806132]
 └── b
-    └── tanto_b.do.zip [85a44d051065baa95838027a09b823f80376111c2a85dfa28568500ddb0af631]
+    ├── tanto_b.do [c811436bad67c4ea014c5ba836af7fe81011b29e557fe399faaa295e77cfcd99]
 ```

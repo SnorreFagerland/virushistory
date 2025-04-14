@@ -3,12 +3,12 @@
 
 ```
 ├── a
-│   └── virus.msexcel.uedasun.zip [2637fdc49764f0b0ffbc70b5b8a2591eeceab3013cfb37e98793d7d1052f4bf1]
+│   ├── virus.msexcel.uedasun [28c1513124d244ecbc5f0cf731dc62113f49189f8f59ee5fdb43bc1b178293a9]
 ├── b
-│   ├── uedasan_-001.xm.zip [7040a52691e6853e0505fbd91e559dc983d5941f24afd7f88208e8cc71dfa3ef]
-│   └── uedasan_.xm.zip [c82c6d322eb43e01fdfc697056d92cd56d4c83c55716fb3fc33be2eb5be636e3]
+│   ├── uedasan_-001.xm [edf2959d13b78d541cb37db24eff32094908df9bfd8f1f792d22e97a26480e53]
+│   ├── uedasan_.xm [29a505cd3444b7eff408a7097ef316758e4df5c180591726a0e7fba28d63c75b]
 ├── c
-│   └── virus.msexcel.uedasun.c.zip [e9e8eb57b61b2dd1b623cb880d92b643736cb7f6fe914354fd0141cdb96935cf]
+│   ├── virus.msexcel.uedasun.c [b97a89b9b32c53738d070e63b6f6fa737cb7f5efc04f1e507aa00316d863785b]
 └── d
-    └── virus.msexcel.uedasun.b.zip [eaca215e84e9c255d1550f628e0c63e1eaf4a0441216568e7a6907f08500cc24]
+    ├── virus.msexcel.uedasun.b [547a50864d61bcafd64b7de08e87b1c5d311c4d932ed56c5ea6de667fc5c4ae4]
 ```

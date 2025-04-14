@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── xchg_a-001.xm.zip [aa7045b5b9d1ce9dc946a687e0067bc56a66dd7d12bb95eebd4c373aa0ea327f]
-    └── xchg_a.xm.zip [a4b166eddd73fd133e48750902778ca816d0b286f690aad7e20606f6fd93a9bb]
+    ├── xchg_a-001.xm [52e1af493afaf2a522a90a1c976fb228611b3b95d21bcc12fb5d8a8b6e77aca0]
+    ├── xchg_a.xm [453feb03574735c36d07c75b0720d027efe19b196e6d9bf51838218eb8e38844]
 ```

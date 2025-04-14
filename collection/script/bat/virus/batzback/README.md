@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.batzback.zip [6dfe653f8fc505a7fe41f184744e737a3c84de021952d4d936613c36d7220b8d]
+    ├── virus.bat.batzback [5d13d72b2196e93a16e6525fb9e249a913e2049cb8c8fc5e0ea2ddea360886d3]
 ```

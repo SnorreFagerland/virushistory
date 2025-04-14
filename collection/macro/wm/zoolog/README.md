@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── zoolog.doc.zip [d72597f6acb1cdfb8e1a9657614170e59fa9d5e41a57f8023920c2883ffd383a]
-    └── zoolog.dot.zip [19c23f9b28fa928805b84b46c80168bb8f8fd90e39be5ea0e6d604707881237c]
+    ├── zoolog.doc [4ca001b78f65a5042afc85dc26cea7f64a029ea349938b3ab334ebf4d5e02908]
+    ├── zoolog.dot [0895f63ab8b7fe5f719ea139ceb8c14c78ebb2cb921804c011d1006aac8996c6]
 ```

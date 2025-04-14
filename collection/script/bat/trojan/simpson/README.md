@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.simpsons.zip [7a20547678fba89a02ab08c17fb364e71ef60768597c3aee52790b022ecd11ec]
+    ├── trojan.bat.simpsons [166f8433aed516b0b1a565b457b037993caa6fedb8bb8c15168ee05d0079db68]
 ```

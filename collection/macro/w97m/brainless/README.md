@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.brain.a.zip [fe305ac75e0cfa5c090120d6631154057173d39da41b8093be75910bc60b5375]
+│   ├── virus.msword.brain.a [ad9fdf764fbcd644bc608c358b8989512cc5caa627002bf5435f315cf67355b6]
 └── b
-    └── virus.msword.hlam.zip [5f05af3e64e7e1eb169df43afa63b0ce8721bc6e30de9295419ceec895de96b3]
+    ├── virus.msword.hlam [2ee9a2550fa48704e6dcf040c4563f6345fac97804c16674bcdec88827fe6484]
 ```

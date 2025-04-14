@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── trojan.bat.delaol.b.zip [cd086efd9ca48f0aac3929f2a110bcee2d2b2a9ebe8184b1e718a6bac4c209a6]
+    ├── trojan.bat.delaol.b [10d18cfdc6d932e9990e3103036c726f7f1b57f9434918075c913b22e704a189]
 ```

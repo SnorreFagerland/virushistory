@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.seqnum.zip [0d54591004e3bd8b5ac62fd9fe336ec2be8c7685648867ac7c994066c2ab17fb]
+│   ├── virus.msword.seqnum [5819457404acbdc209bb929481f1f0bf156153afc01d0c2b8762af6da482092d]
 ├── b
-│   └── virus.msword.seqnum.b.zip [c992b8882ffc64c9eaaa20ff903e6fc83d28abca22c6b4708e57c5eeea2448e6]
+│   ├── virus.msword.seqnum.b [07b5021a649ce6c941fa3ede58303d05c82d491597eea5e7a963e7c9da4c8615]
 └── c
-    └── virus.msword.seqnum.c.zip [a49f70fe63c82a20b1953f496db79cf8ce6816f8d3e9a2538b4aa2bd0ec7b721]
+    ├── virus.msword.seqnum.c [3e190d329c5b2e478b74af60a99a786399f3a2076cb20b25f39eb955992e4382]
 ```

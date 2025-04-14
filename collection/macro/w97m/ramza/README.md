@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.ramza.zip [b8fe112429a7002faeee3a29bb3a69ea9fb9bbe69a06693d8cc0e884c0d816bf]
+│   ├── virus.msword.ramza [813e218e64d0def4d6c2d51ce404fccc66d5314fa578d3c20e5ddb2aed613b9c]
 └── b
-    └── virus.msword.ramza.b.zip [3f791be3c7a8c780a034f62b3e90a7655a2c9509913d510be7e9a829d8d52592]
+    ├── virus.msword.ramza.b [7063bd13be530322706690fdedec16253616b19ae6369aa3567cbc19209dd744]
 ```

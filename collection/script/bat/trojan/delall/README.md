@@ -3,19 +3,19 @@
 
 ```
 ├── a
-│   └── delall.a.zip [3d863d79bf35812072ae887a4b5728e3f402e96f573e680804fee0251b7a446c]
+│   ├── delall.a [537782604727fe3e552ecfbb91bdfa6f7d8e7c2f2fc02fdb8b489e7a9941694d]
 ├── aq
-│   └── trojan.bat.delall.aq.zip [f050d9fcae76569bd6eaccd585e6395815edb494d72468a8ee913f4ab11ef0b7]
+│   ├── trojan.bat.delall.aq [37e21959584660cc0982cda534792fd04ad5b2d8e5ccefbd9f52f54fa596d8f0]
 ├── b
-│   └── trojan.bat.delall.b.zip [8412ff3c755325b7a161c39f9e5a1a420398d1a53e235a4c516d3043f650608a]
+│   ├── trojan.bat.delall.b [024be2e706287ad938f6f9968037a3e1e7e276669d068a72d25811fe30c08b2c]
 ├── d
-│   └── trojan.bat.delall.d.zip [6f68af432d5e73989382b9375524e68742c67fb2a2c909384423d2d87d807fc5]
+│   ├── trojan.bat.delall.d [332de70f48652f19507e0bc61eb71c41c74d37b7823e3999064242334c7fa27e]
 ├── g
-│   └── trojan.bat.delall.g.zip [bcf049c679778091035d72ced056d8ce5085dbae1f2fb7c6e882c331cda714a4]
+│   ├── trojan.bat.delall.g [6e70eed321c5e16d6a813b62989a33dc39b022bfebf356217bc89df07bb7f082]
 ├── i
-│   └── trojan.bat.delall.i.zip [2321ed5b729bea17200a37405e7abbfcdcb11057d249ab51b5284817cf40a743]
+│   ├── trojan.bat.delall.i [05c3e3bed191abc772c7bea53c79a44c3a4151a5b59d417944c2acf1a9914b92]
 ├── l
-│   └── trojan.bat.delall.l.zip [441d927b79cb19428d94c611ecef4a5788b9a9b877d044eed61aa19112b36535]
+│   ├── trojan.bat.delall.l [eca5123fe8d1aa2a8dceba46964047bc2378727469907a5fee3f3d1d58cba53f]
 └── s
-    └── trojan.bat.delall.s.zip [ffa02529465d7019fc0dfe740f427ae5b569e72143af90a14db9326ceb061a7f]
+    ├── trojan.bat.delall.s [f5e50e6c262c253f804ef010cbb3fbb0a7527ac030b0a691bdc09df6d4dfc694]
 ```

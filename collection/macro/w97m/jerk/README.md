@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   └── virus.msoffice.jerk.a.zip [6ef9bb046aef2c7d165b6650aec0d14c0d85c35ccf92b18cd62d3776aa146d78]
+│   ├── virus.msoffice.jerk.a [2634dc2379cf34b46b3a41cb296ffc5f93266028eadf00f76d602faa04a57f08]
 ├── c
-│   └── virus.msoffice.jerk.c.zip [44d0aa19ec043577df1e05422439db9ac036f440e56c5d2fdd4c930554b8b0ab]
+│   ├── virus.msoffice.jerk.c [230784e1913f7a842e4912287d2bfe4387d17d08c4bc9836e26e3a9e08bfdc64]
 ├── d
-│   └── virus.msoffice.jerk.d.zip [296e0c4f2c0dab1d98dba5b6c4251873e91159a1a6154c9268e54e8f3c4431f5]
+│   ├── virus.msoffice.jerk.d [bb081742f623b9b06362806dcd2fae604021ef13da821a947767c3aba536c73f]
 ├── g
-│   └── virus.msoffice.jerk.f.zip [d43d613989acf65ce1b7fb008085ca6e0465928fde02be8604b15f20b8e80b61]
+│   ├── virus.msoffice.jerk.f [c694a06fc499869d64b0521531b82c605eaae78abb6f239c16dec0a0214f2a1d]
 ├── h
-│   └── virus.msoffice.jerk.e.zip [e3f6a529d6ace5c2d1163000bbb011cb924a24ea50c653e26e1c94c77c4f977e]
+│   ├── virus.msoffice.jerk.e [7276f7a90ad569720bbba091fe557ebff8ceb362df0034a182fbcaa64158146f]
 ├── i
-│   └── virus.msoffice.jerk.i.zip [312f0876146aed5b5ac304d75201d6f765f3b84d51f0fdcf8100e26d4c9af821]
+│   ├── virus.msoffice.jerk.i [8d8d013cab973131aeefd3e834072665df9c1f46bff0f3002e78014e1389975f]
 └── k
-    └── virus.msoffice.jerk.o.zip [e2afa849106dfca8b0c4b40233c8ded3d7be68392037349ec457257d78c63eab]
+    ├── virus.msoffice.jerk.o [8896026f82e48f828dec092e17bb7d50f7f92399a7d75b8b3bc48ddcca90ab8f]
 ```

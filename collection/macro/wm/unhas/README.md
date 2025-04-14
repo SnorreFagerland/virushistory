@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.msword.bond.zip [607cedcc1204b4c5154aa5a7b9be24ef06da5e723e8d833d1933f72f0b52bf6b]
+    ├── virus.msword.bond [2b6c84437284823ce5d1933c6a018fb0815a391b2fda96d3b7a0fcd0f7a46c8b]
 ```

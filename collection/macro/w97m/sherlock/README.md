@@ -3,20 +3,20 @@
 
 ```
 ├── a
-│   └── virus.msword.sherlock.zip [02d03c949419537f574b0102774a7a6de429287b5325474815a59d184f81a5c8]
+│   ├── virus.msword.sherlock [054c31c4a4402505c0bea35b901a5c3258506ad958aa09970451b8ff3e9c0794]
 ├── b
-│   ├── sherlock-001.do.zip [bbd4e1cdc84f49a22fd2a81ac20e9e0554c25227f7421086efb340441f37b2b9]
-│   └── sherlock.do.zip [05490edba6de9085bea7638a9d467baa51962147844c2c9bfaccd03dad6f0127]
+│   ├── sherlock-001.do [9a121f2b954211c59f3b66eb29e9b485a6a6e40b50c9accb786f7ebc30f84b0a]
+│   ├── sherlock.do [5b8004db3666d4949999bfc965a720a63c6584b8b234ab54e974176916395c47]
 ├── c
-│   └── virus.msword.sherlock.c.zip [f193539f20bde03e28e6443af63e2078abdc16216786a09bf4367fc4284f6a55]
+│   ├── virus.msword.sherlock.c [68ca81425cc4411653e22765c5f3b9e6101f76c5df898637fe4f2b9620c1567b]
 ├── d
-│   └── virus.msword.thus.de.zip [d41330bbac4b084351252fa49de5b165f0dda0acdffd3d77098ffd8816b5783c]
+│   ├── virus.msword.thus.de [9b068c4c56a1c129b2c12f4732d3d5fbdd55135d1ea17a68b3663085a1e48305]
 ├── e
-│   └── sherlock.do.zip [1e43a60f8b3e50393565ccc8fb080a98b1bc044c1824eb93b8ec5742748804d8]
+│   ├── sherlock.do [698708ce50b32764d3fe98600b661aba3aea0f05c1e79d3a5c053833874066f3]
 ├── f
-│   ├── sherlock-001.do.zip [322a32d9efe2c4bbc8d255877ac15f4eab86a0a2b8fc541fa3648accbe494a7c]
-│   ├── sherlock-002.do.zip [a63803edab293a0d22d7d55a3244c58bf4a91d82a24920c8b2fab0978b5a8920]
-│   └── sherlock.do.zip [e10b79a881f85cb3dce3539877ce126072748f4b6fd260fa24f4dd2abbb110de]
+│   ├── sherlock-001.do [338ebd9cc2ab366a77e2bde189e4c00447d8f2e799bc747a729e7634d19067aa]
+│   ├── sherlock-002.do [401430538040d9c130be558580ae7c912735ae1c4a22e0980139305f6a10bbda]
+│   ├── sherlock.do [26511fc36f23e0ff8f12cf1e7368a37d97dc19fc09812719e99129a76af26f74]
 └── g
-    └── virus.msword.sherlock.d.zip [b5b5aa6f334d56eac3ae887f123c0ed266b92e13fc8a425649623cc1f584c063]
+    ├── virus.msword.sherlock.d [328bcc5e41f77fb53d3d77c91e178d22a4138ac95827e7500fefdf56ad4e0f2a]
 ```

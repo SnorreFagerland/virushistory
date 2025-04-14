@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.goodluck-based.zip [f0b6cf74162f9e3d2a98a467e4c0c5624127ee97384772558ce5b0ed94110e96]
+    ├── virus.msword.goodluck-based [be5c306018a0265da9a3ee540268d37d9e8bea189e2ecd87f09cb1935ed74855]
 ```

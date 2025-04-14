@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.blockout.zip [2560efb430147294c5fb3c4a83c0261d3d5ba63ca6f59d99ea112fd8035ae01c]
+│   ├── virus.msword.blockout [491ee438fdf966b3b5ea5ddf291c36c0213148e2fa72c1aa5aad52f66b57c953]
 └── b
-    └── virus.msword.blockout.b.zip [231374ad9090c0e63cfd775f092e2d81a3c7e8306a9eacd6daca20ab83e74e7f]
+    ├── virus.msword.blockout.b [0405310915be1da341971022707c53b0568cef5e73b6acfb6e90bb8dbb486392]
 ```

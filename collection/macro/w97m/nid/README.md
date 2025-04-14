@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   └── nid_a.do.zip [e3ddf1ad5869f60d153a118c0ee4d5394051cbcd2c79c81b056d169897d12b41]
+│   ├── nid_a.do [b072c8868f6d3bdcf436233b70db8969f092527a5ff6e95a4d97429d53e97725]
 ├── b
-│   └── virus.msword.barabarka.zip [6e4571245c23a1ddbb0ddb060467cc039d0b5ee77bd25b58b3cace2cf8cf40e9]
+│   ├── virus.msword.barabarka [6dac34068c181cfa6db2b82cdeed4453e06a900c95eb3886de27c8d6a3396302]
 ├── c
-│   └── virus.msword.pcsb.zip [7a83715eb768ed647db9a9c20e91b60204516c4bd131daf0dcba7391571e4cae]
+│   ├── virus.msword.pcsb [a170a8d89df4c2a4e72358f25878cddf14cc67469c762658fe6f309f9d70ec2f]
 ├── d
-│   └── virus.msword.zaraza.zip [8f5a32dd21ff420348e7008acb0bad1ca6761a11019ba3780ae01ea031230a63]
+│   ├── virus.msword.zaraza [3c8c803de92f5c1b955b37ec650c3a150c0292941df53a157b8261a3bc865b7d]
 └── f
-    └── virus.msword.yoy.a.zip [ca38e997102552af88c2e51d9c75ba8977208fe5b64089792770a7cac8344de1]
+    ├── virus.msword.yoy.a [4d7f3fa2a79e771a3406464390640c14d28be8b427284d5a565d75fe2582a8ae]
 ```

@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── schoo-a.doc.zip [ed5caeeaa6a2370b46f48d72772a635e65c4711f723fa1eaec28c3bc686a2667]
-    └── schoo-a.dot.zip [2715771101fa8b46bf192a378314e8b0452cd2d42bf013afddba033c17ec1242]
+    ├── schoo-a.doc [704926bf9dba8b8feaddb23912a6fd351e6b9e776e52c1417fb7fd39e8a7883f]
+    ├── schoo-a.dot [555218989cd39f231c6a38757709b648a717c561dc2194ca9759009933170adc]
 ```

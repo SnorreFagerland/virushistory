@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── joxzin.doc.zip [c770237a6e046c86f08570c00451c7875fb269c6157f05c7ac67a78d9edb857e]
-    ├── viva-a.doc.zip [3257e9830eab2b8a81b6c0badfe57490977fef730d19687f86c084cda923eaa0]
-    └── viva-a.dot.zip [7ce73c8f63005cfbf2dce95ec8ffd8f9a8b0d8d0bb183a0cedd11861716a77af]
+    ├── joxzin.doc [69347e8e3177f88e3271e7a5f17089531d6d2c104400fa9d83e0e1a28d3d7048]
+    ├── viva-a.doc [0e22a7c0364ef67800126f57297048446446b9ebaf6af7a8be9cb79bf1b9e2b5]
+    ├── viva-a.dot [b21892eb57ae83fee94d2dc0abf6955279feadf6279dc08a6534660b01fd1fe8]
 ```

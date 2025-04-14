@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.tomsk.zip [c10752ecfb96da0095774921e34699eaf4c50635fa5c68495c09ae53180ae259]
+    ├── virus.msword.tomsk [f4cd07d764f6ec1e822b34d6b8fdee8a26f925198ed06a10cb6b95fe09edf132]
 ```

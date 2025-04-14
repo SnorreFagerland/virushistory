@@ -3,9 +3,9 @@
 
 ```
 ├── c
-│   └── virus.msexcel.ultras.enigma.zip [8d70840442ceb1729d29fa75e49d219913d1a28d4a68f250a5ca877319a15927]
+│   ├── virus.msexcel.ultras.enigma [dea9cd30f2f2445be6c88371050c24cf8cdab8f40ea1b3cb63594f63bad11dbb]
 ├── d
-│   └── virus.msexcel.ultras.cobra2.zip [b9b9c8ae1dacf7cd8ab2dcb867b392f57d5311d1eb9318f4571a7cdbd933e9b5]
+│   ├── virus.msexcel.ultras.cobra2 [f5eb9e53dceaa45d7f37383948dd6023e1cbd9de4d45619d2789e0a914d14dc3]
 └── e
-    └── virus.msexcel.ultras.freezer.b.zip [b6ab08264c97c3c37cb682f45c4264eed85940cf4b860291791fc733d257f0ef]
+    ├── virus.msexcel.ultras.freezer.b [0e3f663bdb4fd0aded29d9dddb7786aa654fc2b0271809bf3351bb5c8f58be7c]
 ```

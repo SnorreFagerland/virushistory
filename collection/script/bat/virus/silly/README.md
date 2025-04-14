@@ -3,5 +3,5 @@
 
 ```
 └── t
-    └── virus.bat.silly.ba.zip [6a9c1f48d24cc2aa762a2729f3c4f7396011fdfb7036ce11749dc04e606847aa]
+    ├── virus.bat.silly.ba [0c2d28c022655214c9d3481f1a2d96bcc25b2c494ff229c3601ba59030bf6e38]
 ```

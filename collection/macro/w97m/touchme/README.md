@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.touchme.zip [7dbcfe457bcf3f71cf721b64152214fb2efde24169d905723217a506156c2df8]
+│   ├── virus.msword.touchme [e9344238c7b441850048efd5fc1d3e3be419f19d19138920e692bbad3cfad9fa]
 ├── c
-│   └── virus.msword.touchme.c.zip [aa0cd48e2585d2d6b4e7abece6d2adcc6f8d3eaec73642fb633511cdbb1da951]
+│   ├── virus.msword.touchme.c [8f5fcb46e12409d29baf3b6e6a982589e676a379dabeebbc88ea75ca69157cd3]
 └── d
-    └── virus.msword.touchme.d.zip [4fced9b8d85ab28f3d2d062a2f08ce81f58f6e1ed74e512b6f581ee6b92cfe0e]
+    ├── virus.msword.touchme.d [335de90739231459ca904dcce2f816e7947d8b23dd4c4dd0a7d0fd9b27f58924]
 ```

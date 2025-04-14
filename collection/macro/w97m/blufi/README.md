@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.blufish.zip [d4617c93fb77717375b80f76e22628e277179bba584ffc09ab16c1ee5735d2ec]
+    ├── virus.msword.blufish [30eb5a67cd29c10b852755b874e0a06cc11afc352489dc3289c32761149cc3ff]
 ```

@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msexcel.acute.a.zip [56fad137c2f137e17b55abb9fcfbb1d2893f1eb3b925784c197d8a1df58b9cdd]
+│   ├── virus.msexcel.acute.a [53dc7915c2991272ddc3ba28fb9a004db984ed9ce4e1d4438e00778f14ee22a6]
 ├── b
-│   └── virus.msexcel.acute.b.zip [2906fb45dc860065a345ef65b2de54fa8e58fd73bff6fafd9b71028cc623c5cc]
+│   ├── virus.msexcel.acute.b [fef1863fc854622625cbe478c1da29abbda907e1d136d216a52ad8eb3fdd9908]
 └── c
-    └── swart_c.xm.zip [09225ef87534c6a404163ca85eb04ca82c158c7d5713f5d006dcf6ababa59c44]
+    ├── swart_c.xm [1635942472f713db6a7916d51fe11131272e7df95a86684dc1105651f996101e]
 ```

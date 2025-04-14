@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.scorn.zip [05a08669e1ea786cd61b6536f482dca6e6cd8805303a59e0dd70e3206177b237]
+    ├── virus.bat.scorn [5a57e803c13f6dae023294df593624aab02fdf47c71cf7dba436a2c86f05db64]
 ```

@@ -3,35 +3,35 @@
 
 ```
 ├── a
-│   └── virus.msword.thesecond.zip [56b2806cd35639046034764368b0e91e3eb6ca0a6f5b6a499f83323bf62b4b46]
+│   ├── virus.msword.thesecond [b42c8a637ff274cdc33670c95d781b20a90e8198065324d2a908090dfbf1d76b]
 ├── c
-│   └── virus.msword.thesecond.c.zip [334f2c1d71e4769983b6d8375a8585977297e0b9178c02e72c6ebe10d372023f]
+│   ├── virus.msword.thesecond.c [8763940e12e0e6117ee803b897c889162894abbcb7ce4c475b5eb5b9c02bb767]
 ├── d
-│   └── virus.msword.thesecond.d.zip [793a11987e430f339a7ac23bd96b96dbaa0a5c21255ed6eeec98fb1f02ac6bbc]
+│   ├── virus.msword.thesecond.d [db1c353b09aec2716883be186aaff123a76ddb86c82f46cc742e20024afb76c4]
 ├── e
-│   └── virus.msword.thesecond.j.zip [1d7896d5ccb7e9c7487a2f6823aa7f1a1545417dac804a7ab50266c5528cbc31]
+│   ├── virus.msword.thesecond.j [1ff428b5cf34b0c1901deb8a21bf519c9e4244a5a6abbb0d481b313a08a5a6f4]
 ├── f
-│   └── virus.msword.thesecond.e.zip [2cfcf098e3d1f67363ab5f6dd2506fa03084d589d4fa75c4426d57ab2bf32765]
+│   ├── virus.msword.thesecond.e [014df79a8be4ee46dc050fa689953abbc75dca8e2d0a63085e120233ccebf50e]
 ├── g
-│   └── virus.msword.thesecond.f.zip [38d4fe9bd2e8fb04b66b8e63f03ff142f4d46dc86a571d8839b4c85335088109]
+│   ├── virus.msword.thesecond.f [64478c7380779da00d777597e71a04eee3bb71772d2c98a12c6a09dbf942c503]
 ├── h
-│   ├── thesec_h-001.do.zip [e984752e0dc7cbac0efc98c2c06a6bb77ab43a9095066fe498706b556ad0f01d]
-│   ├── thesec_h-002.do.zip [8e6c8dcf5818bb269ae518e6f46929badb0129578d46e8dc0ded5032f8903326]
-│   └── thesec_h.do.zip [e40ddbd4faa63f574d1ddadfdbd1f05946ba23a61db45a087bdde0e9cb713e96]
+│   ├── thesec_h-001.do [cc29fcacbd5efe2ff41418653e273101beecf51300db604bcadcb9fb030a522f]
+│   ├── thesec_h-002.do [c8f2196a0b801b13869b47fad114ed7e0a833198d70bffd885bfb5642a107c6e]
+│   ├── thesec_h.do [5d7a9a974a0c048dca41c1c7d29954a9898e93f5985e176bebab23e79cca2a77]
 ├── i
-│   └── virus.msword.thesecond.i.zip [b7307c4a0ff8473fea88f1c7a61a8ad6e2691baf22eb9ce82cf542ea9dad1435]
+│   ├── virus.msword.thesecond.i [ece7a24d0c01ec418fe4db086fe8ec1330a5828b689aaec37b4383f567236d3f]
 ├── j
-│   └── virus.msword.killdll.c.zip [4fb353dc38de1ba72d76592509052c508675256393660af5136246b03a8c02b4]
+│   ├── virus.msword.killdll.c [839adb5dabde622aaf6693b8fa532b110632b1665d5adf6c262b4f9142cc6ddd]
 ├── k
-│   └── virus.msword.thesecond.l.zip [64064ae017d33caad2a938d35310436f7b1bdccbc30d42de9b072c6839bcefc2]
+│   ├── virus.msword.thesecond.l [cbe404b65d1f8a5192ca40d75d29fae9ceefa7b2c94f432864e66d7afdadd45f]
 ├── l
-│   └── virus.msword.thesecond.h.zip [21bb2d18a05b53eb274a186bf26b2775968115886096ae7a2d640643bc02f041]
+│   ├── virus.msword.thesecond.h [78eae08bf020eeebc73f6df524223e9410bba296d4b3360cdcda3b0ae381a94c]
 ├── m
-│   └── virus.msword.killdll.d.zip [76215f8d4a6320f9a2e1c97f39d367d890eeb2f496cacafbade04805818096e3]
+│   ├── virus.msword.killdll.d [128a7bac67e92b0ab2ca67466a1dd61a1404ca434fc1678e13ab7e69f948baea]
 ├── o
-│   └── virus.msword.thesecond.n.zip [97aef51a3225969a6d5353831d2dbc0e18899547295769e9c9089c3e720a2717]
+│   ├── virus.msword.thesecond.n [a2f6e68d666ee0e7670d4af003ebf34cd4fd1fc982d79b96797a51b76bcce249]
 ├── p
-│   └── virus.msword.thesecond.o.zip [c1bf062dc4557e361319f8d88e5343eee3b387de6970f0d341ad7357df99de6f]
+│   ├── virus.msword.thesecond.o [c3c841a10acbf1f9ecbac1ba4504e07ed18e6a91f9d188656c6936c607a4b354]
 └── t
-    └── thesec_t.do.zip [377f2423822bf551f361b75f561dd677d518469cadcfa72aaf7bb35a4477499a]
+    ├── thesec_t.do [2cde8d350768facb57122ff5cc76ac1c2f506da2cebf97b11d72a189014170e8]
 ```

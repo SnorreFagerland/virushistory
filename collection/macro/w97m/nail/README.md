@@ -3,7 +3,7 @@
 
 ```
 └── b
-    ├── nail_b_m-001.do.zip [5deecb6bf40e3d84aeb4076c5e5f4369c79590b56d741e137cc1fe9f0426e8bf]
-    ├── nail_b_m.do.zip [7c570164844880193a1d28246be6d104eebc905477f693fa543fcdbfeba72e44]
-    └── virus.msword.nail.b.zip [7008cc7d2b2ce57c5df4f3a1a910c16f2b24e2577dac03c5e0aac32f4406117e]
+    ├── nail_b_m-001.do [eae74905e4e0813ae1992603cfd55cc2d6e2ef5d3918e94b595243d473337c24]
+    ├── nail_b_m.do [7382ac99d3145c7fa84746edd02df1abd22ea8abc24a47c451d68b09c558a6f7]
+    ├── virus.msword.nail.b [a3cc91706007da5ab30d189488a20f9e1cdd69d61b81223bfdfe3b30b93cbf1d]
 ```

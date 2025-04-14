@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── cmd.doc.zip [586abf922d991e9c3f3d37745bfc350d5c5d36481ff1fc678dfbca7a08fa6369]
-    ├── cmd1.doc.zip [ab690db01acc0fb268da1c3167d5e38862e62d87ac488f15211396dcc410a1ff]
-    └── cmd1.dot.zip [594647009d90055a0866f2bd84d6b688278c2cc0bec8057076f5bbad36a245dd]
+    ├── cmd.doc [c0233ff004a90c6eb7b308fc86be8268b2b34e419a41d05f9c344bab4cabd46a]
+    ├── cmd1.doc [60f8a947b43676f9c027d57c627844aed615de99455846ff6e3a76d85a7b1d06]
+    ├── cmd1.dot [abc83f0ae8d35f64155a27d60f33ab159ffd94de063c7c369494c6200a7552c9]
 ```

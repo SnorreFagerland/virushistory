@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.msword.rash.c.zip [ddc900ab84297e7149ff8580e71aa965249fe0f4a667c58074012d99850d50db]
+    ├── virus.msword.rash.c [34f439d6d56c69ecd2515454247456f30c11a4dd0bea68eb2c904a240083ccd8]
 ```

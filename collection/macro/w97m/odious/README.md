@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   └── virus.msword.odious.zip [137898b3e693d5cbee2d2db472ea5cfae3d11f56788ca778086138c48883f829]
+│   ├── virus.msword.odious [3a3e3f8f5211a31c803c8f8e3edebaae8d659478e1a173c68bd66bbe6697e2de]
 ├── b
-│   └── virus.msword.odious.b.zip [1170eb6196760143e17bf4cb78c699f38453ec5ce5487384e681f1c7cdd9dd5d]
+│   ├── virus.msword.odious.b [f850bd304840449eac1bd7d3a8584f78a01109017ee85b3cf2b56ec59031a0af]
 ├── c
-│   └── virus.msword.odious.c.zip [715b412b0f86f3d11abbccf2324ebb81f695f14836987a6eb3cd69a2f34f9aaa]
+│   ├── virus.msword.odious.c [17c84fadbe4179b87d8391ea80fcf8d898f8113b69f5d7b6a367551e1180eaca]
 ├── d
-│   └── odious_d.do.zip [385992ac95c9ecba615c78214d423a7a0b6aacf7deb5f9aaa2e0bfdccf558b7e]
+│   ├── odious_d.do [c3a4be09e0b29e18dd46eebc99ba9d89163051957d284176a5d6313cc9513566]
 ├── e
-│   └── virus.msword.odious.e.zip [fd0a5e7ac0bd2233209343580dd646362d5bcdf7d8c3962015b069b86d049f76]
+│   ├── virus.msword.odious.e [8f984b3ad5a17da160ca64c4ea6a31682827f52af4352f7d6e749866e897a36b]
 └── f
-    └── virus.msword.odious.f.zip [089bd93c47b13146bf19e84c6e79dd310a133f41a3ef6988700b0dccb6066f0e]
+    ├── virus.msword.odious.f [7343361c605756b38a906bb10b43031d4807984f615b1f726dac0043bacc8a62]
 ```

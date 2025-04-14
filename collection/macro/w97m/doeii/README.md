@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.doeii.zip [39e08949a463b2d6d9ed8db7b52a589e7876da01075ab5ce0fc43dfa803d80a9]
+│   ├── virus.msword.doeii [d69452451573eab5fff8673720ec8b45ad4ef66bbc9a747cd3e87d1793f5cd31]
 └── b
-    ├── doeii_b-001.do.zip [0ffaedeedcd973a510691b8650adedd1725b66d5f004fece50ff98872207b10c]
-    ├── doeii_b-002.do.zip [d461d46ffd78f09886b1fd296da771e2f19e0861e70d0f56eba996439e0616a5]
-    └── doeii_b.do.zip [c63cee78ff7ff87de862d106db219512522d8dce4014b04789464193bde10e41]
+    ├── doeii_b-001.do [24f642cf184644f2425ba137084d70a0980c6ddda0b0955db1d9097e323444b7]
+    ├── doeii_b-002.do [c272047fc9d3f49028161a2ce459ee7234bad82dc9ba5df20f360bb9a0242376]
+    ├── doeii_b.do [01ea1d88d5c5ff2cf7c84daa08cc693ce9d6e6da502a06e22e45bb9c31f8654f]
 ```

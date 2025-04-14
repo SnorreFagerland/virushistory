@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   ├── girls_a-001.do.zip [4a3ecc8081669e585d697de5bb5b1a0db6817268c377dd1972252329c1cfa637]
-│   └── girls_a.do.zip [c4cb1be9ca2dbed2523e352fbf3a664f271311b655147faf9f846220ce0aea72]
+│   ├── girls_a-001.do [b6c03b622d21efada56d68d2bd4e6d737e92e9b6b0d4642c9e98b4d636b39fa7]
+│   ├── girls_a.do [595cbf923ab8ea533d849c97cf047ea783a55e739f41eb44755f330dbbaa54f4]
 └── b
-    └── virus.msword.mxfiles.h.zip [4f6de1c8748ad5f0d0e6f24804941dbfbb3dda006ed4cbc6ab56a1d8fd717d09]
+    ├── virus.msword.mxfiles.h [91364ab028431cf161b29a24c67e20a80ead6b49ce1ad3082119c290143909ff]
 ```

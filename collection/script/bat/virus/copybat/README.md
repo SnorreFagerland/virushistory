@@ -3,12 +3,12 @@
 
 ```
 ├── aa
-│   └── virus.bat.mumo.a.zip [09833c099015a52ff998bca4ba0b4565826a993b126ed439b6ef0499fb55c361]
+│   ├── virus.bat.mumo.a [d346d65259f0b3a6ff473fab80f51a92296ad86bae7a24787df39d5e9103324e]
 ├── ac
-│   └── virus.bat.copytoautoexec.zip [4e9e7df61420761d2d03969b7398399b0d0727650ea7dbd16de4c60604cf9952]
+│   ├── virus.bat.copytoautoexec [0f5d81223c562af5f14910593cf941373dfe8f54e8f267b4738437f037de3fd1]
 ├── am
-│   ├── p2p-worm.bat.copybat.am.txt.zip [75bffdeec7869581f3152d149c9782c669abe61d4064cdb0d872bd1e8fbc925c]
-│   └── p2p-worm.bat.copybat.am.zip [10f017ff0447c83e59073545cb78684ee718322eca53ba3aaf1bc340d05741a1]
+│   ├── p2p-worm.bat.copybat.am [db136ca929c4ea30c9b07bcb723c248ebd4967627b8ed0d85b00796980b58248]
+│   ├── p2p-worm.bat.copybat.am.txt [77a193337ba2d25a03e54eaa97b8de7b392725051441c26eefa96019d168b362]
 └── p
-    └── virus.bat.crock.zip [f9e967af742a068bb078764ebc9bf1b3674a1b2597b429473aee0b686840c10e]
+    ├── virus.bat.crock [c30b6a7f4bc7382f444d26a8c088bb8ad8cf5d73d0cbc5df071d469a554737cc]
 ```

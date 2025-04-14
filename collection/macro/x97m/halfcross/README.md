@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── virus.msoffice.halfcros.a.zip [9db0581dc09936934c0bbb8e869a32f244399496391a7217639a5c394c63b208]
-    └── wonder v2.0.xls.zip [36d6a8b092e289518161f54dec4ca329018b1da846a1a8de219d492e62a8d6a6]
+    ├── virus.msoffice.halfcros.a [3e91c2ce4bc9099d97087875576b2977f68c1ddaccbd8c01d2705a8ff529b524]
+    ├── wonder v2.0.xls [3e91c2ce4bc9099d97087875576b2977f68c1ddaccbd8c01d2705a8ff529b524]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.bribagi.zip [2e20a4c25f4e90d11ab919ff7e51e86b93bd62d63ac692597a5b5bf53f287a68]
+    ├── virus.msword.bribagi [a402f246b7534b5d5e8b97ac9eef8128d9b9e8c4ec4ecef20390ac6c2f9816ee]
 ```

@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── ansi.tally.txt.zip [1e9748d32b1e3034355c4eec8ddd056855d7f1984465f45249760dc6ef1c67d8]
+│   ├── ansi.tally.txt [068e885ff81e9ea0be43cc29cbe0825336f319477a2d19d423abf46c221817ab]
 └── c
-    └── bat.tally.216.zip [ab72de83db5d461b32a1ed062ee5911a7d04ce4617d6760be5601eeb4c4ed241]
+    ├── bat.tally.216 [dc4cf5200ce3faa83f4566332bfcd6734654d370d50a7af7424edd53695d2e1a]
 ```

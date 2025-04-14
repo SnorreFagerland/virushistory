@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   └── virus.msword.bench.a.zip [7398e33dfa8ac6f4c9d6c3693732b0a63fce2b891f21b177a3a14ab4e13ef683]
+│   ├── virus.msword.bench.a [688b0738c9af0d213060cc189166bc5d0b7114414310f5b6ce1ceb3aeac23b3e]
 ├── c
-│   └── virus.msword.skyline.zip [f8bb8abd719c37abb7c24680bef98fd77f791e94498c19e243bedd2d5a7fa6e2]
+│   ├── virus.msword.skyline [4337857f4a6facded97075a049bdc9cd6235b6667306ac7dfd2481c1b057266e]
 ├── d
-│   └── virus.msword.bench.d.zip [d0cf35d0e20cdd2aa490e40057b6a9aea6dc7ac41ba3ed238d6094f75d316c0b]
+│   ├── virus.msword.bench.d [9e4657d3c1731b2c8532e65e97b47bf6b218b42f5090e0655dc889cec32db230]
 ├── e
-│   └── virus.msword.bench.e.zip [77020bfd1790dce8e15eada75feccc12d4bf40e18a7979754a09e03f1cdf940d]
+│   ├── virus.msword.bench.e [8326ec5a03c4e284a30cc6388f79da2fc112df2e7d7aef9a88a85ea8507ab3b3]
 ├── f
-│   └── virus.msword.bench.f.zip [89af24e7bad88fe851b389bfc6536ffe9caaea5448622d8fa510d6546278e258]
+│   ├── virus.msword.bench.f [cd95fcb6939b7a6e4df0267bedbacb253ff484dd22bd9fad07bdebb8c0c23e57]
 └── g
-    └── virus.msword.bench.g.zip [02d32faeea3e3a19eb5549e884aa3da783f5aff51737a29c2606165192a76bcc]
+    ├── virus.msword.bench.g [e22de166f13c2d3f6aebd8c187a1fa1fc4b33f874b55a8836f168a30f725406e]
 ```

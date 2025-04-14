@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── bernie.doc.zip [706f590a2dcffb5fc9cbc0ba32a8bd51be85535a36205ed43a73dff5a593197d]
+    ├── bernie.doc [bee40d7c41f23365c0e20dee515dd05ca036c5f9d03a74947b6cff6d0d1e3be8]
 ```

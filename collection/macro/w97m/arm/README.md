@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.arm.zip [d13e8bea6daa600512208ccbe7ab81042fec6e03af972642dcee610839313e05]
+    ├── virus.msword.arm [deeaa287c09ee9b66f22b859dbf1b9a8a6609121227a23bb68f9cd4310d3eb94]
 ```

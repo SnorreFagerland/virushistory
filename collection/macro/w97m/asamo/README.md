@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.asamo.zip [fca196bf2039c4827e506002f5adc64a1b8a13081e820e2fb05ed7373661b8a2]
+    ├── virus.msword.asamo [1b0ab8f5b954d45b02cbca63e59ff2bcd134a8926742689eb64e7840cf379f45]
 ```

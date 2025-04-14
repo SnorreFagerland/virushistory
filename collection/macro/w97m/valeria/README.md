@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.vnet.zip [238d428d6a8aaa31277d5531be74c110ae6b613c2594dc087f1fd1c911012b5c]
+│   ├── virus.msword.vnet [cc53c23a69e6e1d5dc061ebf7f19b3594527d305588bf3ed01ef248f44ac0c79]
 └── b
-    └── virus.msword.valeria.b.zip [2356492fe4248c0cc8d4d833e3f06b970626775d7e56b2d5fbd92034367c90ff]
+    ├── virus.msword.valeria.b [704169b50eee990ec1282c13c068cc697bef3f1a9fedf1d3c83d675ddc205881]
 ```

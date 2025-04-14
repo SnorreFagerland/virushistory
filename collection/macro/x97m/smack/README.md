@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msexcel.smack.zip [37e72bf403c11590d9ebf1267f7b5d4cba22dbf118f12d7e5105a04906354fbc]
+    ├── virus.msexcel.smack [a7e21ac4638822f79897a5eb13a3d4ec94bb42a87d7bf1241cd5d70979d10f10]
 ```

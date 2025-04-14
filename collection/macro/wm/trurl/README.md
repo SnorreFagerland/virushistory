@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.trurl.a.zip [3f5dab038d6ff1ac45da493f8937656db493649ad703387f9c8376e95b0b62ba]
+    ├── virus.msword.trurl.a [bacaa7b72f096087ad83ef55b74905272c92de3d5b816140d294199223e059fc]
 ```

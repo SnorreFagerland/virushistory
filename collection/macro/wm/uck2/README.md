@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.intended.uck.b.zip [a84b9bb9752c4481f3a61028e4981ed6e4ee0fd2ed9d77a389627ee6b20c3db3]
+    ├── virus.msword.intended.uck.b [7d62e10c72eddb4f1c6344cbb77e4b6590a104cc1a34dbefa0491891cbf5a839]
 ```

@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   └── dmv.doc.zip [33b23dbbbc903d50c39e07a22edb59a110cfe0cc7ff9303dea732bbf657fd8de]
+│   ├── dmv.doc [c11a9ed93d2ee24588cb6834dd15a8ce32c9353664b80de435082672ec091ffe]
 ├── b
-│   └── dmv-b.doc.zip [9ddb4b42179f824806d4b76bc5348d0a030fa8eaf7ef955dff86cc2145ee3caa]
+│   ├── dmv-b.doc [0a488d06133426db9ccba1ecb2c0b9b9a6bcbec11c977481fdaf3fe60be2eeeb]
 ├── c
-│   └── virus.msword.dmv.c.zip [ef1ec25b6368f53f02be9da36d231b0d1fb29ad0861c3d2037dfcb77ad92c37e]
+│   ├── virus.msword.dmv.c [3b1593f4d99ac30179d61626369edf5277b9926c458d912aede838eb5a0eb254]
 ├── f
-│   ├── dmvf.doc.zip [ab29e2bf5be2bfd0d4de56e3f4e172a5958a12a755ba928029f5791300d83aec]
-│   └── dmvf.dot.zip [8aeb294001fd471fb2b80177f411994088b024e0fcf079b640bc5b5586d588c7]
+│   ├── dmvf.doc [5071780b2520926dcd668ebd08631fcd43048cfa3667c0e44bdd1683def4025a]
+│   ├── dmvf.dot [0f0a00ba3648758c05dc33e3bdb42a5cc17aa0c8699581dc5a48cc06aa3a03af]
 ├── j
-│   └── virus.msword.dmv.j.zip [a34745946ca2819a573321f742b6dc86be6914c704f25d2eff122aa1e7d7b8aa]
+│   ├── virus.msword.dmv.j [30ece59a2f0853cbe01f3a15a09deba855275739c2c12963b316ed707bb48bfb]
 ├── l
-│   └── virus.msword.dmv.k.zip [d9810c93ff758add7afa6c8e300a2d094bdd7ed1164e08b49128a91873c39f16]
+│   ├── virus.msword.dmv.k [e9cba7015e1cf7f2a6e3b478be2df78f5327fd0c7fff95529dc11a6f9518d9f2]
 └── qtw
-    └── virus.msword.dmv.q.zip [c2abbc914096e55cbca730dc9deaa598272949d966a0af334d40ae453ebb4af0]
+    ├── virus.msword.dmv.q [ea9dd532c93313af093118ffefce837b7038e45e45037b8125557116e7ec1b61]
 ```

@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── batpot.vat.zip [4d97b1cc81e0eee7d751b14617f050dc44f86699a7fb2ac0f6c8cb8ab95cb5cc]
+│   ├── batpot.vat [a3855b5a555602d5400f5a2ec7605339908a94629ff9d6caec29d705229fde1d]
 └── b
-    └── batpotb.vat.zip [7917fac627e4a9cff019f7db5e874ff8b26945db706865537c1e900ee2a5a806]
+    ├── batpotb.vat [9f89f2ac7b44ce2f9f080adade69b355a6511b723f494419a21cd9797515917b]
 ```

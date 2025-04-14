@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.bat.roshi.804.zip [f9321be4c0d8782d3dd0a55e9c6337e4fde112076b1c783bd7afe8ae7c3c6704]
+    ├── virus.bat.roshi.804 [8cbd111d9aeb1345292e76253f36064dd6f5cd43fb497764c94754020bee4c0a]
 ```

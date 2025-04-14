@@ -3,5 +3,5 @@
 
 ```
 └── c
-    └── virus.msword.kann.zip [cb162ae55dabe4768048dbc023614680f228862ad64999554fd7ef2d42e45b24]
+    ├── virus.msword.kann [3b0e5be40b90fc949c99690369e2fe7c75be69e10b946f76d862c82c0c35a389]
 ```

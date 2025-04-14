@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.sgen.zip [6a0545147a94c901f8bb6a9bb821fac964f05d9363d33ddd49fcc8c6cfb1f49f]
+│   ├── virus.msword.sgen [2a1402b14237936266efee9ba8d9a6131a2518831e63029a3f2ed91ab610b475]
 └── b
-    └── virus.msword.sgen.b.zip [d5479cc188af5b0e833e21039b4ad1886560968789f808ee6c341f15ed30c464]
+    ├── virus.msword.sgen.b [7dada6332a87cb3d871e7b9285d7ed1d446a34eccf8699019564a45cfbe33c6e]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.vovi.zip [2ef9f32c0c067806f2e6bc2b3c97d4df9584826bdaeca3510270baf74c85c9d1]
+    ├── virus.msword.vovi [161dcb32fa0ee2dffb1d74fe04059a0e4f6f26f348566a7740e264eff8914d65]
 ```

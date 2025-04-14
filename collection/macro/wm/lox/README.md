@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── lox.doc.zip [6f8d2d7644a9692d6cd5602dbe78793fa9d482bb8451704be97390f7bdfbab76]
-    └── lox.dot.zip [716590e5c9e6a10c17d5c506a7f426fc3d1de78fd3594fcd345ac16313d62613]
+    ├── lox.doc [3212621d4a06815bfffbfe9c605b23f4d812c25cbf3b274c6a957a40e23402dd]
+    ├── lox.dot [566918ab3c1e011e19019b12b8fd35a4ca3cf38cb3fdcc1e584b0fa833e50741]
 ```

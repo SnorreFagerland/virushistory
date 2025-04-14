@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.bat.sys.a.zip [ee60b2d26c1381e9506300f995774fca7cd799edf6933ee8548ac4542f0e887b]
+│   ├── virus.bat.sys.a [85580dd46797163173a863e2243c570bf42a13a6bc789c539bf0af6233ac5b3b]
 ├── b
-│   └── virus.bat.sys.b.zip [32b0cab98db8eb2f242a9d5a2829589a313b375e2b67406c733319c2a9725633]
+│   ├── virus.bat.sys.b [f9752deefdcd4e84fc710efc81a02a4b9ec0954faf627d39a7fb78bbb893cf6c]
 └── c
-    └── virus.bat.sys.c.zip [a643d2f84c5e788c82e98c7d79d9a67a7cb9ffd9113302c2cc4afbc3fcc55be8]
+    ├── virus.bat.sys.c [e71aea04fd3d777ec4f403a26535bf12342e12e6272d49bd213f3f21102cff40]
 ```

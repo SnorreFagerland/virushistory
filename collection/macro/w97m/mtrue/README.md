@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   └── virus.msword.mtrue.zip [24959e7b0f7d64a6fb4a7bb3c90b9f9479f9cce5f6fd29227a62a0cd24dca677]
+│   ├── virus.msword.mtrue [5c28b6ca3a237496baba4ecf562e1ccb945348039f40d1b9a3b65c318b3cc8c1]
 ├── b
-│   └── virus.msword.mtrue.b.zip [7ce73536272ac7dc42353e71e87c48e8e63cc94981e4c7b8c56025b2c223851e]
+│   ├── virus.msword.mtrue.b [48a2138ebcfcf480e7e17335bbd201b669b42f7ef4686bf94cb20bedd327eebc]
 ├── c
-│   └── virus.msword.mtrue.c.zip [5c3749f4ae64759ec3175cb8d672ae5694a2166e328761c022c795cd7ddb7166]
+│   ├── virus.msword.mtrue.c [9996231244316ffbec13d095411779428a046fa0b57f88f0f047a40245dd80f1]
 └── d
-    └── virus.msword.mtrue.d.zip [1fa446445f2b0b4ae10ff1b8a04701237e6941d3d37ba5290c839e146b43a008]
+    ├── virus.msword.mtrue.d [79568d7cc33fd96ed0025840650f5090e99c32841fa92a515e2bb7524f5ad5a3]
 ```

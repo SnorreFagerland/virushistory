@@ -83,8 +83,13 @@
 │   └── 543
 │       └── virus.dos.mackbanner.543 [a338e6ddaf2052fbecbd95c719f55394bc5f559982a7a2272c354643fefa5f57]
 ├── macondo
-│   └── 249
-│       └── virus.dos.i13.macondo.249 [720446c1851c90b90920a554ad92f57807036a0f19da3f299e0371d4b86245e3]
+│   ├── 249
+│   │   └── virus.dos.i13.macondo.249 [720446c1851c90b90920a554ad92f57807036a0f19da3f299e0371d4b86245e3]
+│   └── 367
+│       ├── t1.vom [de578240925153c2a034d8be565e025e7fe7881c2ad3e894d4dd56b42806f3d4]
+│       ├── t3.vom [7f2493422f1a5bb0f07d210c1a24b0414b348c2545dec6472729136ddefd47c0]
+│       ├── t9.vom [1a2e56fa891bbba74efd93bcb0cff7ce00dd1b4cfccce4ced56d718dd27c9d37]
+│       └── virus.dos.i13.macondo.367 [6e7dfe0beab24567955c3c3326839b2afb138bc55615f3a88306999e963e1fa8]
 ├── mad
 │   ├── 1288
 │   │   └── virus.dos.mad.1288 [c948db3f9cfbbf1186d1b57a6b833b0a6b6fae4a0b9322c30ed33019591e11ab]
@@ -306,6 +311,9 @@
 │       ├── mala3737.vxe [bfba6835589468429a422a8a9463bec9f983b8472775a349599b40d92e08b301]
 │       ├── t2.vom [76aab93559605a6bf5aad55ec9aeee784ef29311101ae7e5e8f3bdf966a0dbc7]
 │       └── t3.vom [c9c97ebfcf98c5e4145486bb8258601f818d107c0eb96a2e4d12a8f76b15c894]
+├── malen
+│   └── 360
+│       └── virus.dos.malen.360 [8092cf22af550f485a467c65fa1a021e9cd044e69da9f22aafec5cbfec88fb8e]
 ├── malice
 │   ├── b
 │   │   ├── malicea.vom [5270038833c3d507727f246bf337eca230bd6ed4b48a599fe8d2cfa78685cbee]
@@ -343,6 +351,9 @@
 │       └── malign~2.vom [8accc88dd285dafe2a742a524deb442a4e2b6d15c065c78da80039db0dd14679]
 ├── malms_ii
 │   └── malm1703.vxe [298b3ef55947d3fc16dfa844231478c7462b46769d1b24b08322b4769f47b98e]
+├── malmsey
+│   └── 508
+│       └── virus.dos.malmsey.508 [1f88b1ac9a3ee6f24320ce5a9b2cb583728436716b10e3a785f4fb4e9031bd2c]
 ├── maltese_amoeba
 │   └── 2367
 │       ├── Virus.DOS.Amoeba.2367 [c113d5ba0a08329e960358beed71c44fc59d8c3fb93413ef45b68768508f648e]
@@ -364,12 +375,45 @@
 │   │   └── v6000.vxe [77db0a0e93b6b2205b79c9c5197dbe3841e59cde6b887669682da1511d41f0e8]
 │   └── 6047
 │       └── wci0072u.vxe [8c1b5634e56c0ddcbc4796118c0c0119b3a9800bfcfb1504ba5e15ca1557e5f5]
+├── mand
+│   └── 1061
+│       └── virus.dos.mand.1061 [5297b9d2762af621885a341b0740a1b03b160c5ce4eba4f1d626bbd562acc0bd]
+├── mandra
+│   └── 431
+│       └── virus.dos.mandra.431 [9e913415026ad9890658c7942eebb096ae872204a519e0ae2632544b0d69fb57]
 ├── mandragore
+│   ├── 533
+│   │   └── virus.dos.mandra.533 [81881e60d73ce4cff7e58fd1612ee8786e83c0392a2862feabdc40c4812468cf]
 │   ├── 544
+│   │   ├── b
+│   │   └── c
+│   ├── 556
 │   │   └── b
-│   └── 669
+│   ├── 559
+│   │   └── virus.dos.mandra.559 [8c23f7254863e0d627c8d262a17488f5d214eb06a36f525157542bfdb6b5ae20]
+│   ├── 562
+│   │   └── virus.dos.mandra.562 [b8bac3e4bc536cf32a097917c92033a953a46a4d9232584f912d96920e5da2bd]
+│   ├── 583
+│   │   └── virus.dos.mandra.583 [605ec08d555a0c3c761c92368a46e721105f2337b4778135d535a349ab5a6aee]
+│   ├── 664
+│   │   └── virus.dos.mandra.664 [5109eca43451fcd308a88352e4a9ff1523aae2b3219e086e10d9c9b69505a0d9]
+│   ├── 669
+│   │   ├── a
+│   │   ├── b
+│   │   └── c
+│   ├── 823
+│   │   └── virus.dos.guinness.823 [906bf01ea42e89bd5e4f25f91d121edab87a0f6feb35a46f2a69c9581525e09e]
+│   ├── 825
+│   │   └── virus.dos.guinness.825 [570b6ad1a737f5e6ff3f7b49af596bdf520da75f7b4e858dc5f90da6974076a6]
+│   └── 866
 │       ├── a
 │       └── b
+├── mange-tout
+│   └── 1091
+│       └── virus.dos.v.1099.b [d5aee61760ac0d5d0fbcb9b14ad394c0e791efe01c26aa109b7dfe941620fd01]
+├── mangeloid
+│   └── 1445
+│       └── a
 ├── mangetout
 │   └── 1099
 │       ├── man1099a.vxe [f01ef0384de2b1e033bf243bd4da25e845c0da16c4c842afc2b9bd827edd5dac]
@@ -378,24 +422,35 @@
 │   ├── 468
 │   │   ├── a
 │   │   └── b
+│   ├── 469
+│   │   └── virus.dos.mango.469 [7676cd21994a87a379de1e5116f8e7f21047514c1a9b7f720a289522e0f4ba1e]
 │   └── 470
 │       └── wci0048m.vom [d1779fd78fdeabac2d91b4713e16d177ac00c987b3ac33da2f59c7ee4bbf1e35]
+├── manic
+│   └── 2143
+│       └── virus.dos.hider.2143 [bb89c26d758367cabb3a79a198e8334ae36ecf073fb3ef064e34dbc66488d273]
 ├── mannequin
-│   └── a
-│       ├── 1-ma778a.vom [a1bf29b94e5a49c796a98a7bf5c74a4643420ad29a742d6ceef70e04cba15255]
-│       ├── 1-ma778a.vxe [4279676203da24af34728f98d8050be2dc53556ef07b1ca4117b93209c1b36a8]
-│       ├── 2-ma778a.vom [d55546b7cce4ddc91193de0ac7086dbb075961339ffcb24032c7f585aed68ee9]
-│       ├── 2-ma778a.vxe [96e4ff488faf9ed92894bb4d052d712ea96b205eb119849a664b968a1671aec1]
-│       ├── 3-ma778a.vom [1449d3d8c6b4b7f3d715ef23c58203d9a7e02de42d88ca79ff45d1a93165934e]
-│       ├── 3-ma778a.vxe [ed441837f83f23ec66c421bcf03690fbe1801c58179ee3607e4d70a5983547a3]
-│       ├── 778.vom [e0ea03dcd97849123b13fc1eb6ac5f93bfa46684f09f7e979cb7d3db4592c614]
-│       ├── jassy.vom [e7501b3e2003ce9db711050aa16cab10b6163e536337abc407171185749eac1c]
-│       ├── manneqa.vom [dc83bbd2758864cade695ccd56ffe4dbc0c163d75a3849049afe91abb869341c]
-│       ├── manneqa1.vom [832f97ad14fd9cecf31a369069a46c12eba27dd72b356ddf6ce8be81e11b37a0]
-│       └── v5115.vom [a7b0de5503eff7049d132323f01fd6463ef756c35794713101ed6cd2e4eb51a4]
+│   ├── a
+│   │   ├── 1-ma778a.vom [a1bf29b94e5a49c796a98a7bf5c74a4643420ad29a742d6ceef70e04cba15255]
+│   │   ├── 1-ma778a.vxe [4279676203da24af34728f98d8050be2dc53556ef07b1ca4117b93209c1b36a8]
+│   │   ├── 2-ma778a.vom [d55546b7cce4ddc91193de0ac7086dbb075961339ffcb24032c7f585aed68ee9]
+│   │   ├── 2-ma778a.vxe [96e4ff488faf9ed92894bb4d052d712ea96b205eb119849a664b968a1671aec1]
+│   │   ├── 3-ma778a.vom [1449d3d8c6b4b7f3d715ef23c58203d9a7e02de42d88ca79ff45d1a93165934e]
+│   │   ├── 3-ma778a.vxe [ed441837f83f23ec66c421bcf03690fbe1801c58179ee3607e4d70a5983547a3]
+│   │   ├── 778.vom [e0ea03dcd97849123b13fc1eb6ac5f93bfa46684f09f7e979cb7d3db4592c614]
+│   │   ├── jassy.vom [e7501b3e2003ce9db711050aa16cab10b6163e536337abc407171185749eac1c]
+│   │   ├── manneqa.vom [dc83bbd2758864cade695ccd56ffe4dbc0c163d75a3849049afe91abb869341c]
+│   │   ├── manneqa1.vom [832f97ad14fd9cecf31a369069a46c12eba27dd72b356ddf6ce8be81e11b37a0]
+│   │   └── v5115.vom [a7b0de5503eff7049d132323f01fd6463ef756c35794713101ed6cd2e4eb51a4]
+│   └── b
+│       └── virus.dos.printer.778.b [47f3b0382137a077f18d9101298e2b0aef5f0ad2551230b136653812e6dca53e]
 ├── manowar
-│   ├── mano.vom [07064c187069b5c66eda80df08ec9e1ae03e1e81d1c1363975294037a465ad20]
-│   └── wci0050m.vxe [8108bf51b05858390bc0642ca52eab1fc82cd4aebc14c80e62c88e7992af67fc]
+│   └── 592
+│       ├── mano.vom [07064c187069b5c66eda80df08ec9e1ae03e1e81d1c1363975294037a465ad20]
+│       └── wci0050m.vxe [8108bf51b05858390bc0642ca52eab1fc82cd4aebc14c80e62c88e7992af67fc]
+├── mans
+│   └── 1486
+│       └── virus.dos.mans.1486 [5ff57d3148067e89c1a2196f658f4db2c7f394d85b8416ac908bcca1f757490b]
 ├── mantis
 │   ├── 306
 │   │   ├── mantis.vom [a91ecbb8f6c5dd85911917be84a0db770225ec0a927522cdcfb028285954fc45]
@@ -433,10 +488,13 @@
 │   ├── 0876
 │   │   └── wci0057m.vom [248d55c760adb6fb922c4f24f440923482ae1bb365129ef46a183b4690196e48]
 │   ├── 0937
-│   │   └── wci0058m.vom [32f8288c27ce740af39cfb69c100d96bff735b6c7ef6fcca4431ed9661b4dce9]
+│   │   ├── a
+│   │   └── b
 │   ├── 0957
 │   │   ├── manolb.vom [bd07b3140cf5c64749440de870b57a5c2c2795662ebcb3b0f76dec0055f54cb1]
 │   │   └── v5120.vom [210bdd55e20fc6266910cf17d04bfebcc7a86db96ebba7dafe9eaa5ff69b8025]
+│   ├── 0972
+│   │   └── virus.dos.manuel.972 [b5dff46d4dcd97b45ebec8b08060f2958ec5dff8b9bfe4561ee0acc1a2512442]
 │   ├── 0995
 │   │   ├── a
 │   │   └── b
@@ -446,6 +504,12 @@
 │   │   └── wci0052m.vom [a1543c9f4433af6501189bb105a581d69f429a49dc831f00d6f8b91e4a2c64ad]
 │   └── 2209
 │       └── wci03053.vom [515a5c75ee6322cffab68c32189e3ffebaf7e4b2bc7bff7762d1d946e6d2f6ad]
+├── manuela
+│   └── 5238
+│       └── virus.dos.manuella.5238 [9d4a7bf181bce04af536559833e30334defe505664ef008c7a89bfb1307b26fe]
+├── manugif
+│   └── 685
+│       └── Virus.DOS.Manugif.685 [1091b50ad2857bcda96b64d81b71b458b496908a1ac2abba896330ccd841e863]
 ├── many_fingers
 │   ├── 1-ma1322.vom [79778578537ce2f82d424a3ba02c9f743e8bda5fbb57cf993b6d92aea98d98d9]
 │   ├── 1-ma1322.vxe [adb426c81ddff8a47a45de9a6c8bfd86ba1e25bd7e13725ed57f7dc6d3caf394]
@@ -499,6 +563,8 @@
 │   │   └── virus.dos.marawi.2750 [5a8905796d5534fde44cf6a435ebe45b3fa11b187108f39a2cafe999941f1f8d]
 │   ├── 2828
 │   │   └── wci0068m.vxe [162787712cf377e6f32a5feada1fb04c96392976462d6b177c01a8009099a288]
+│   ├── 2887
+│   │   └── a
 │   ├── 2888
 │   │   └── philippines.2888.vom [1115d086243d23316685e7f2d6334ba5d5588c9eeaec642a275cfe3622457ec2]
 │   ├── 2892
@@ -540,6 +606,19 @@
 │   │   └── mari700.vom [861f6b7c7e0e4da87f85c9ba616aa394972eb1d49cb2bb05df312f2e06f9eced]
 │   └── b
 │       └── virus.dos.marian.700 [5e2fca48e146103347e171634d95bf80c7e671ecaf089d30f553a18131a94fcd]
+├── mariano
+│   └── 147
+│       └── virus.dos.mariano.a [a95e6d915238a6925824c1229131be3c1ba3714c763b324f19b6fa3e0d379dc5]
+├── marina
+│   ├── 0902
+│   │   └── virus.dos.marina.902 [c9e504b96339c37fc4e1afa27b3ba7ce68075d9e7ef783a3787892825676cf3b]
+│   ├── 1296
+│   │   ├── a
+│   │   └── b
+│   ├── 1312
+│   │   └── virus.dos.marina.1300 [dd59e941a7bad17c2d9d04f90bf1e97032fcbd34fa3f1bdc0470a1b631a41ef9]
+│   └── 3888
+│       └── virus.dos.marina.3888 [7f37b616bb7324569704a151a8cc63fc488eef82f7c78755cad0e91356da3680]
 ├── mario
 │   ├── 661
 │   │   └── mario661.vxe [b4e13edfc05e83a00db06ac242ef2eacacb4e23ecd79f783d876d5c5037be9f4]
@@ -549,7 +628,11 @@
 ├── maripuri
 │   └── 1942
 │       ├── a
-│       └── b
+│       ├── b
+│       └── c
+├── mark13
+│   └── 739
+│       └── virus.dos.mark13.782 [2049c6bdf506edd118e7ffc0c7ed6e5f311278a6fa3fa3ba42cf9d228d0453fc]
 ├── mark_ii
 │   ├── 347
 │   │   ├── markii.vom [43e696c35477add2a7ff1af15924adaa5e46e0ff501857dc81a2c463fb8efeae]
@@ -564,6 +647,8 @@
 │       ├── b
 │       └── c
 ├── markiz
+│   ├── 1024
+│   │   └── virus.dos.markiz_ii.1024 [a2d98bb5b04322045060998daa77bc142993ffe71ca3a39eade0ffb76cdfd527]
 │   ├── 1560
 │   │   ├── m1.vom [53fab2565533c6e84ecd643dd94c6cde561d5dc9f297dcd908bcaad5bfb4030f]
 │   │   ├── m2.vom [5744dbed195d91a3f2c2a27817e26ba18c549fc0a530408a0c0f7e80d782601a]
@@ -578,18 +663,20 @@
 │   │   └── t9.vom [f3c3405967a96ecb5cab1f0a704cb1437341f76558772357c95c539da012d0bd]
 │   ├── 1972
 │   │   └── markiz_1.vom [d831a2e1d22cb45cc0e8093827ccccd2b0fbc9f4a684bbb961b2534c9e248dd4]
-│   └── 2642
-│       ├── 1-ma1642.vom [f205470435a7cb76eeda0d2a0be89271c52e5a256932531b86cc0b5a8c69e571]
-│       ├── 1-ma1642.vxe [d2de213a9f46d702d083b9d33db400318a7d62f7ff5d94852742fcf21e8e6a9f]
-│       ├── 2-ma1642.vom [5306e28e3e6cefeea48000c69504cfe1dde75c7d82110720b6eb3505c0d80ef6]
-│       ├── 2-ma1642.vxe [c7f3f207309d58cb8b4cb5b2400e7a6e875d3cee51e095aa13e1f1ac5d999d43]
-│       ├── 3-ma1642.vom [72237629d614d2b7e358dbe064fa85e372438f6bc4332c46c5e6584e1bf063cd]
-│       ├── 3-ma1642.vxe [42bd2074885d639ec23a15044acda445292b3c00dbf6b301ef2e3b672e3e4da0]
-│       ├── mark2642.vom [083ccee4eb31dafe41f10be34da15e7eace2c10be55fb584dd21073e2b6b67c9]
-│       ├── mark2642.vxe [63139069356f6c6c99838a433193df3b37236caf3b006dc1d2643a2342408ffd]
-│       ├── t1.vom [6c194014a7a832f124e306924af22086106414ea879dae341b7d83b33508ea0b]
-│       ├── t1.vxe [b7263a32d287e0f8e732232664a2a8493f334b1db003b3392e71b1393cf8b4dd]
-│       └── t2.vxe [7f49ec2fb835c4b5df94c83d5376245049d24487a5b1916e6a97a88625192de9]
+│   ├── 2642
+│   │   ├── 1-ma1642.vom [f205470435a7cb76eeda0d2a0be89271c52e5a256932531b86cc0b5a8c69e571]
+│   │   ├── 1-ma1642.vxe [d2de213a9f46d702d083b9d33db400318a7d62f7ff5d94852742fcf21e8e6a9f]
+│   │   ├── 2-ma1642.vom [5306e28e3e6cefeea48000c69504cfe1dde75c7d82110720b6eb3505c0d80ef6]
+│   │   ├── 2-ma1642.vxe [c7f3f207309d58cb8b4cb5b2400e7a6e875d3cee51e095aa13e1f1ac5d999d43]
+│   │   ├── 3-ma1642.vom [72237629d614d2b7e358dbe064fa85e372438f6bc4332c46c5e6584e1bf063cd]
+│   │   ├── 3-ma1642.vxe [42bd2074885d639ec23a15044acda445292b3c00dbf6b301ef2e3b672e3e4da0]
+│   │   ├── mark2642.vom [083ccee4eb31dafe41f10be34da15e7eace2c10be55fb584dd21073e2b6b67c9]
+│   │   ├── mark2642.vxe [63139069356f6c6c99838a433193df3b37236caf3b006dc1d2643a2342408ffd]
+│   │   ├── t1.vom [6c194014a7a832f124e306924af22086106414ea879dae341b7d83b33508ea0b]
+│   │   ├── t1.vxe [b7263a32d287e0f8e732232664a2a8493f334b1db003b3392e71b1393cf8b4dd]
+│   │   └── t2.vxe [7f49ec2fb835c4b5df94c83d5376245049d24487a5b1916e6a97a88625192de9]
+│   └── 2660
+│       └── virus.dos.markiz.2620 [ef6be1931211503da15e64f557eaa3901cdd831fed8afc03e75e9fa3fa9f3a67]
 ├── markus
 │   └── 5415
 │       ├── markus.vxe [76ab82ae9f47f6d6eeb4f2ca9cf310b872f3a18a7e2a6b3bcd0c48c3987e5f1e]
@@ -597,6 +684,14 @@
 ├── marky
 │   └── 478
 │       └── wci0085m.vom [03ed3230e3d839145825e83c8e4ed4ccf317584d01801d53f64780e628b8607c]
+├── marlboro
+│   ├── 619
+│   │   ├── a
+│   │   └── b
+│   ├── 686
+│   │   └── virus.dos.mboro.686 [02cc3405b52d603cd38936873522823fb13f6f3799d64db187d4164618281a9e]
+│   └── 773
+│       └── virus.dos.mboro.773 [24eeb974f128a707b43371c41679a03ce2bc90884158faa00f6bfbb4fdbf24a5]
 ├── marzia
 │   ├── 1536
 │   │   ├── b
@@ -620,8 +715,14 @@
 │       ├── r
 │       └── s
 ├── masha
-│   └── 1338
-│       └── masha_13.vxe [5c613c54e75cdc4b09aceed1b61f23356b2c2486582bfb6cf995539b1f0abc51]
+│   ├── 1338
+│   │   └── masha_13.vxe [5c613c54e75cdc4b09aceed1b61f23356b2c2486582bfb6cf995539b1f0abc51]
+│   └── 2284
+│       └── virus.dos.masha.2404 [82549fbc8a894f6c6dd9c1c7d1568fab2053c22b76dfb611a24aa11af8223815]
+├── mask
+│   └── 2389
+│       ├── id.txt [2709f08adbd86e2982a0d3a9084894272046378d1101e0e1d7bf8f729af45b49]
+│       └── virus.dos.mask.2389 [5671006f8eab5aeed0cf4b884c3540775c40f6dfc14567198e98e88c8fd91b36]
 ├── massacre
 │   ├── 742
 │   │   └── _massa~1.vom [cfbf038ed6218b918f603c13680da8a45c255b4b1b35849029bb94e4f4fa1cfa]
@@ -631,8 +732,14 @@
 │   │   └── wci07591.vxe [872778d5dff4e4ff49bd9943580a6d24ecf4142324a2f3d5e0a0fd166dac144a]
 │   └── 778
 │       └── massacre.vom [4ad5d873f4ddf94ae75de2702a54c52d7b7308a522c77b095a3916081a405db2]
+├── mateo
+│   └── 181
+│       └── virus.dos.mateo.181 [bb014e00b61cd9dfb9424532dffa70f1597916a42b5a4f52e5bb92420299f096]
 ├── material
 │   └── 80hex.vom [c8e33e5da1ecc17293f3c0ea021b6e561cee1c59a9d90df05ebff7a229cac5c8]
+├── matii
+│   └── 974
+│       └── virus.dos.mateo.974 [c3bea7ad0d0941b7685f76911921f1ebd5be741946fc08a53abac4dd160a7d4a]
 ├── matija
 │   └── 696
 │       ├── 1-pot696.vom [8ecf7b9d01a85250bcde6af705cd047351b163ce4700c2621f41d612338184db]
@@ -643,12 +750,16 @@
 │       ├── t1.vom [3b11393a9fa213c7dbe941ba73409d5132c5622869c438eb4e89aa395cddf112]
 │       └── t2.vom [adb33ebc9d249de86c2b4f415e566a5aaae7596da64c365a5de76bf43db4a95b]
 ├── matthew
+│   ├── 2667
+│   │   └── virus.dos.matthew.2667 [c99d907a41bf7cc82e79739643f4587090af295989297a6b6c8377eb54e04133]
 │   ├── 3037
+│   │   ├── a
 │   │   ├── b
 │   │   ├── c
 │   │   └── d
 │   └── 3044
-│       └── wci0104m.vxe [c5e5bfe708de643355443c9ab85083999f6dfc8d8dd104452736f9171bbbf7e6]
+│       ├── a
+│       └── b
 ├── matura
 │   ├── 0549
 │   │   └── matura~2.vom [144fb1b2e0398d4a9d57fac0dbb369ae50b19f8b07d512f44faa8fd7dc89be31]
@@ -659,15 +770,22 @@
 │       ├── matura92.vom [13cbd8dac635775a2848ba0bc8b47e1023e7011400a85de5acfe5850be64076b]
 │       ├── matura~1.vxe [a896d64d227aba97c96a30f4ea641194a7c9cdba9c7e375d5975aa48d7db8c01]
 │       └── replace.vxe [cee24c304bd2db5c330026729126f10f4d71a291f6ede67bdb597eae5d402233]
+├── maun
+│   └── 386
+│       └── virus.dos.massive.386 [868439b3cb8064bf9120b6a7d560dc989ddc09e9021ddba5c1b1816030661289]
 ├── maverick
 │   ├── 1536
-│   │   └── b
+│   │   ├── a
+│   │   ├── b
+│   │   ├── c
+│   │   └── d
 │   ├── 2048
 │   │   ├── mav2048.vom [936afec7785670a9d48c20002be599eb9a2385533b8055b00fa7b83e510fad6f]
 │   │   ├── mav2048.vxe [106101e84422bc9d3aebb2e199c2f66342ecf3e44ba0b6ff1a5b8c13223c61d3]
 │   │   ├── t1.vom [3b342f335c23a51ade426b39e43f9fa2bc9824997632cf615e82faa80ddbe1f5]
 │   │   └── t1.vxe [419d03e08175af48939242da579ae89bb86ec433484f1764f7b3f9b8b51b9bf3]
 │   └── 3584
+│       ├── b
 │       └── c
 ├── max
 │   ├── 336
@@ -677,6 +795,10 @@
 │   │   └── tf.vom [b146583e0d30410890a80646ff6b4ccbccd1f1384fb3f6d3606ba36bd6c34a8c]
 │   └── 347
 │       └── max.vom [9faf25c29b676f5e85f381e62721e91ff142e210a807c6ac02ad41ab39f73353]
+├── maxi
+│   └── 1198
+│       ├── a
+│       └── b
 ├── maxoval
 │   └── 423
 │       ├── maxoval_-001.vom [d4de818ea5b7fdc3b9c3a53dc1e141b6e6915ba0d827672fe7a581997e39e003]
@@ -696,40 +818,84 @@
 │   ├── 1125
 │   │   └── wabikcom.vom [8843e16a56b190ddd8d7a6a81a19b8909c8a6683ff4ad658a9264cdb00931804]
 │   └── 2541
-│       └── maz2541.vom [1742f4ee860dd10d264323f3c54c725cfc8cb875f99fd70306945d6f2a66d6f3]
+│       ├── a
+│       └── b
+├── mbd
+│   ├── 1258
+│   │   └── virus.dos.mbd.1258 [66dc6ecf61b5c30a5afea770848129d356e660ba4a11fd645f34b7dac13e6287]
+│   └── 1317
+│       └── virus.dos.mbd.1317 [22729e18d141c67b3635bea069873aa7b042357389872cb9525befb51a75a8d7]
+├── mbore
+│   └── 636
+│       └── virus.dos.i13.mbore.636 [7d6f79bfd7b99f778934b31ea53d33d6497e5a6182afcf410658d7c60e3fa4d0]
 ├── mbrkill
 │   ├── 713
 │   │   └── mbrkill.vom [f4f075eabb9b99f042265664fd4ad96032bdf2220dbafdbbb6f1f07376e2cd29]
 │   └── 714
 │       └── mbrkill.vom [d4cdf2a637b7f0870657d0edec5e5ec9a1303ff532a054ea2557b54a1af06811]
+├── mcdon
+│   └── 1470
+│       └── virus.dos.mecdon.1470 [a46b96de52ac8c740a94fcccf2eb04ff69015f2d6b01b44db7883912e3bebf9f]
+├── mcmahon
+│   ├── 1306
+│   │   └── virus.dos.mahon.1306 [16893da6043839792a61917ec4ea289c625ee9d667768db5fe6c2af9aacdbb14]
+│   ├── 1360
+│   │   └── virus.dos.mahon.1360 [5e1a0d6156b707672eaaed0fda8c4ef639533127eb9f773c96d08c51f104bb4f]
+│   └── 1372
+│       └── id.txt [bf24c1579cc14fa086c337fed229b5ea86fea03f95b85aa2af137713ed5b223e]
+├── mdma
+│   └── 5460
+│       └── virus.dos.mdma.5460 [644f32acf64e90feea1a83234351d6ae30b9ac4d60c3256aad3f2e97daf7f6fd]
 ├── mds
 │   ├── 302
 │   │   ├── a
 │   │   ├── b
 │   │   └── c
-│   └── 329
-│       ├── t1.vom [9fd9ff99e399fb5486344634e4a53650ca083e4f3f4fa55fb35f4238997360d0]
-│       ├── t2.vom [1032bb8407b276d903db575fe2e7bc87d3c095fd8850e6255a2b3012795dba23]
-│       ├── t3.vom [20a108a2b998ca761372f7a51623de0ce834ed639a3e188778659038148d9916]
-│       ├── t4.vom [111e5b1c354e75511fe2aece7f77fa058c547c7de1f1fb19ec652cb29a63f0a5]
-│       ├── t5.vom [0975b9ff53a78ed1ce7e249c8f282a41bbf11397ee9ce81a400ff533e0d1eb6d]
-│       ├── t6.vom [e2fd1d76b3043a7f68e93e584abcc5d55792fde50e0585c5dd88c9cef2e3be08]
-│       ├── t7.vom [96bacec3fb26a0c42a5b841c038bdd9dc2a913b67ef04dea163fe2e10c2b7e32]
-│       └── wci0115m.vom [815b9696bb80af8cac9deac625ef1ba3db198292f6c97261eb2617fa4171e02d]
+│   ├── 329
+│   │   ├── t1.vom [9fd9ff99e399fb5486344634e4a53650ca083e4f3f4fa55fb35f4238997360d0]
+│   │   ├── t2.vom [1032bb8407b276d903db575fe2e7bc87d3c095fd8850e6255a2b3012795dba23]
+│   │   ├── t3.vom [20a108a2b998ca761372f7a51623de0ce834ed639a3e188778659038148d9916]
+│   │   ├── t4.vom [111e5b1c354e75511fe2aece7f77fa058c547c7de1f1fb19ec652cb29a63f0a5]
+│   │   ├── t5.vom [0975b9ff53a78ed1ce7e249c8f282a41bbf11397ee9ce81a400ff533e0d1eb6d]
+│   │   ├── t6.vom [e2fd1d76b3043a7f68e93e584abcc5d55792fde50e0585c5dd88c9cef2e3be08]
+│   │   ├── t7.vom [96bacec3fb26a0c42a5b841c038bdd9dc2a913b67ef04dea163fe2e10c2b7e32]
+│   │   └── wci0115m.vom [815b9696bb80af8cac9deac625ef1ba3db198292f6c97261eb2617fa4171e02d]
+│   └── 331
+│       └── virus.dos.mds.331 [3363c8a14b2acde6c9d4cbde7b700ceafc1717b1c9388f6b8fe47c6837baf493]
 ├── measles
 │   └── 212
 │       └── rm.vom [34e71e5f7ce7567f3d2480f7e4fde330bbeebd1c52d88d4279bfaf9356858efa]
 ├── medical
-│   ├── medical.vom [7f82600e6a9fa7a85e5c8623b9c60b3f2b3da343d64329f7b7968b51222116ba]
-│   └── wci0025#.vom [383a3768aa9c69709f29ee9bfd028744abe8e5d036b92a424da6481fcb56a8ee]
+│   ├── 189
+│   │   ├── a
+│   │   ├── b
+│   │   ├── c
+│   │   └── d
+│   └── 252
+│       ├── id.txt [b77cff5b37b88ccee8ec476309fb369012702419a5f4fdb3b3d688d41256e7ce]
+│       └── virus.dos.macaroni.a [cf284e624dba5a92f45bef8f84453e47fb4883306bf87f2bf2fbdee0e8e48cff]
 ├── meditation
 │   └── 1196
+│       ├── b
 │       └── d
 ├── mef
-│   └── 1481
-│       └── mef_1481.vxe [675c4511c43cb7d724bf8a8c5ba5c1a65b0052e77c52a264ccc73f95551bba1a]
+│   ├── 1481
+│   │   └── mef_1481.vxe [675c4511c43cb7d724bf8a8c5ba5c1a65b0052e77c52a264ccc73f95551bba1a]
+│   └── 1538
+│       └── b
+├── mefl
+│   ├── 625
+│   │   └── virus.dos.mefl.625 [4749555efc5957621a047f4775ed4d1862ce034b9fe75a6772c2492200bfa54a]
+│   └── 700
+│       └── virus.dos.mefl.700 [c11c50e539f7abb4947e4fb4fc9b289adbf2aef6dd1a4f5e15d02c568e4f3659]
 ├── mega
 │   └── wci0472m.vom [0f9be78b50c34cb214729c4a217782a4362701ffcd2d5016e4ca9ead9886c6a2]
+├── megadevil
+│   └── 665
+│       └── virus.dos.megadevil.665 [bee3b907e7361e67c73ce249b55f8be4f5844312ba998a6cce7222995e3e62a1]
+├── megaf
+│   └── 1085
+│       └── int-mega.ee [2b0bedd94bcfae5a7058e2affb8d0457c1ef20a0e00953dbb2e3034d49b9e567]
 ├── mei_hua
 │   ├── 1488
 │   │   ├── meih1488.vom [669e9e00604b021538480a0ec86cfb2d0d501d1947cc70792a16cbe1b6697a15]
@@ -739,10 +905,25 @@
 │   │   └── t2.vxe [332b8847ee4cc438a4b5a51b76c7beab8ecf90a083d7d25bfd661472788dcc46]
 │   ├── 1786
 │   │   └── wci0474m.vom [5fdd4943afc4e76407e0005254816a39d95b397b1e4a1055a170949dc1aca8f1]
-│   └── 1836
-│       └── wci0120m.vxe [d05c378b2bd6e54756b5bf03082d4dd9489a88ace8afd01c355581d2e1ba1130]
+│   ├── 1836
+│   │   └── wci0120m.vxe [d05c378b2bd6e54756b5bf03082d4dd9489a88ace8afd01c355581d2e1ba1130]
+│   └── 1959
+│       └── virus.dos.meihua.1959 [b4a17f73c2874e24db3c329b87b852045873fb875685b5465d1c88004247251f]
+├── mejorar
+│   └── 1184
+│       └── virus.dos.mejorar.1184 [888ee8580552c76de4bc72d04bd85d1ba102ac9d5fa70a29337d8da955b62636]
 ├── mel
 │   └── exeupack.vxe [1bd3988f5d3760d3a33ce35500a1b98f65e63b4dccf5745d4b750ae4546b2921]
+├── meminf
+│   └── 3310
+│       └── virus.dos.meminf.3310 [9c627034606fcfa4476605963d863d4ccf456814652322feb47f0403fa5ee756]
+├── memorial
+│   └── 12413
+│       ├── a
+│       └── b
+├── memsys
+│   └── 348
+│       └── virus.dos.sysm.348 [e2ada42d6a773ad743f336b78f02649c476c4bc5b98106fa016a34a668ecfb8e]
 ├── mendoza
 │   └── 3380
 │       ├── 1-me3380.vom [945df5bf233a4359c849750b11d458290092213606365a6a3a174ed4eea656cd]
@@ -756,10 +937,17 @@
 │       ├── t1.vom [e6015a4cb59cef85532585cedb509b00ffe1904616df2df01a7cbcd52c1b73ea]
 │       ├── t1.vxe [3db14d79485b858c6470b9cfdbd4cb65837b177ca57bd8a1fe49381615d58ffc]
 │       └── t2.vxe [40a61085e548a01eb11718e4d9ada2b441d30a3f2f1401b737ff759c629eb9b6]
+├── menem
+│   ├── 1318
+│   │   └── virus.dos.menem.1372 [3b9b6daaf274995cf4e06ab04d602bd753b3539bd3ed503970781a2ba61fdc11]
+│   └── 7370
+│       └── virus.dos.menem.7370 [7fd5a20c7a9ca0b4e8b3063d8f4bd866a455609724c641232bd8001153531a04]
 ├── mephisto
 │   ├── 0295
 │   │   ├── a
 │   │   └── b
+│   ├── 0498
+│   │   └── virus.dos.mephisto.5.498 [1edfd18024597d58d9d9efa59221229cc23e4ee12ca2d4ee79b4028a3458bab1]
 │   ├── 0510
 │   │   └── mep510a.vom [c4f6b9c5567913d92bc470d0fc6a970a3260679b999b2b7a801400cf7676575f]
 │   ├── 0615
@@ -789,11 +977,15 @@
 │   │   ├── n4-1108.vxe [370768024f1fb408c81e7273dfed6823e69a99948ff0718939808958bceb3160]
 │   │   ├── t7.vxe [0bbb378ecbdf6d8ce8de78dcfd788cbec7c80af1fe424551ab459178c1ba5ea8]
 │   │   └── tf.vxe [755ff378f60e1259fc040ed3d3214ef28b56d7a1d9b922c68df10c4774e83332]
+│   ├── 1134
+│   │   └── virus.dos.mephisto.4.1134 [7d61f194afcf41372d8b3a1f427e99bb830657085a21e55a8f1e8075c0edbd20]
 │   ├── 1140
 │   │   └── Virus.DOS.Mephisto.4.1140 [e7604e584555dd0b3f293d06ea9104a3dfef635a34b0487567fa8468bec86641]
 │   ├── 1223
 │   │   ├── t1.vom [968f4617113f2c1ee4f67b741472a40f8ca43902b75bb6ef02f6f912e47637ce]
 │   │   └── wci03923.vom [1ad7977e2e8e52fff5fc7afc05b2f0de5cb017434b4d9d5a8e6cf2299b52be10]
+│   ├── 1235
+│   │   └── virus.dos.mephisto.5.1235 [62ce51c20aa906d50c385a6110cbcb45463f5a007dc07c5195920d7722b98d50]
 │   └── 1242
 │       └── meph1242.vom [6f837f8802bb7c8da1ba468dc0be0045192b7d81ae987500b90757881075d30a]
 ├── mercury
@@ -802,6 +994,9 @@
 │   │   └── b
 │   └── 1418
 │       └── Virus.DOS.Mercury.1418 [7214139fa08227bab61417fe10e2ecb5852ed86da4f4e0730f2f9bcf672bd0f2]
+├── mess
+│   └── 2900
+│       └── virus.dos.mess.2900 [bf45cc56aee904d94849dec48c8d192f04ec33ba4b0ac9587b4d37c944360774]
 ├── messev
 │   ├── 3016
 │   │   └── messev_3-001.vom [cb297cf461702e2eb8d0af19516026575faaa43915247609aa595826261a4e37]
@@ -826,6 +1021,9 @@
 │       ├── metal557.vom [1947ed358e87940da3765753c36824c857ef634f8cc1b843020492f0a98daf5b]
 │       ├── t1.vom [f358dfd5b45ad89ff8765f9dd627fe44f8645553f2f473cfa4bd23d076bd6e29]
 │       └── t2.vom [e1f4993a173556e042ba386f72a92ca8a0a2ae6a576f73e62b1861ccd4a491d1]
+├── metal_warrior
+│   └── 1127
+│       └── virus.dos.mw.1127 [adc9d0b78c95df5ff172bac05e5efeaaef9805f2e823b04684f4b97645b1ec24]
 ├── metallic
 │   ├── 1103
 │   │   └── meta1103.vom [2eabdbe5042690d86720469a41d3789b976e2e5ef0128acd032823508a1f7b5f]
@@ -836,11 +1034,18 @@
 │   └── 1536
 │       ├── a
 │       └── b
+├── methyl
+│   └── 2323
+│       └── virus.dos.methyl.2323 [d3e9a117641310c649abbeb58643eb60a86e462e6b2616343f5a3dc81dd7d65d]
 ├── mexico
-│   └── 474
-│       ├── mexic474.vom [1363681b5e40826d1ff8c94ead5166a5f53055c2a9bd3279cf5beecd6a3be51b]
-│       ├── t1.vom [17cb7136759cf74aa73490a3405955d45a0f63b59cae51776559f346ed320c60]
-│       └── t2.vom [18f53a53553123b27745bf0c302fb773356e53cc200129bced85734893d09a2c]
+│   ├── 691
+│   │   └── virus.dos.viva.691 [75b70f989af5a6b4b649abaad04035f776e14ab67eb86c8b0c094b22f4b9e257]
+│   ├── 694
+│   │   └── virus.dos.viva.701 [8d4a7cd48a471d8235165fb6681f384cfd4976188ff76ec5872fb1184b63203d]
+│   ├── 748
+│   │   └── virus.dos.viva.748 [5333ba735823ab7cd21d05670967b5f29f2fc918602b02e45a3b9935b34e6edf]
+│   └── 752
+│       └── virus.dos.viva.752 [964223a5773bea51b89ddc8dbf2ad64cdbcbadf9944c961439193242c0279cf4]
 ├── mf
 │   ├── 3490
 │   │   ├── mf3490.vom [cea00a2f52f509275de57cfc36388f2dbb517d00c8bb4e38cdb9dd0c355c5ac7]
@@ -850,6 +1055,8 @@
 │   │   ├── t2.vxe [72becefb65086df7cefdfe1584b0cda4fe924fc2c283c67f4c33540417dcf651]
 │   │   ├── t3.vom [6d310ea612c4fcc25fb7c0d501d0207cd723ec8848cf117e89659767fe9a8204]
 │   │   └── t3.vxe [1af4ca8c751f60e539cd5df6c62527c0b9b756f9e9dab55792f0bed6a3eef7c4]
+│   ├── 3503
+│   │   └── virus.dos.mf.3503 [976c1d420832355e73c66a879eeb3ea341b8e7c69b9aeea82361128347f8c770]
 │   └── 3564
 │       ├── mf3564.vom [7ea7fc42815f95fbec83f0541ca1f0debe4da00fdb5c3fe61c7de1f46f1b2eb8]
 │       ├── mf3564.vxe [4fb97ddfa39df768da304d665f1f621c914e54a1ea6f5cadc0fead46914cf85d]
@@ -870,7 +1077,12 @@
 │       ├── g
 │       ├── h
 │       ├── i
-│       └── j
+│       ├── j
+│       └── k
+├── mgtest
+│   └── 5131
+│       ├── 1325.com [77191e7d9d760faada414320e067839805c10a04095bb08be7eb9016c9205df4]
+│       └── virus.dos.mutagen.100.test.1325 [77191e7d9d760faada414320e067839805c10a04095bb08be7eb9016c9205df4]
 ├── mgtu
 │   ├── 269
 │   │   ├── t29.vom [199a9b6fa8d8561cb3a93d62ee2be3aadd04becc0897e30c82ae8e179869b6a7]
@@ -878,11 +1090,21 @@
 │   └── 273
 │       ├── a
 │       ├── b
+│       ├── c
 │       ├── d
 │       └── e
+├── mgul
+│   └── 1807
+│       └── virus.dos.mgul.1807 [33c7513d08ed5d427ae65424d2c59a4e82fda83f69ed57c7ae6ef33cd7536a55]
 ├── mh
 │   └── 757
 │       └── mh-757.vom [d81ed42c864840d872ae51800a97579ae892f3094b4474f92e253e41a656ae69]
+├── mh_ii
+│   └── 1499
+│       └── virus.dos.mh.1499 [a5294e02940622ab6f4a184945374c64b4012b5795fd08afc2a6e0e239515b4d]
+├── mhole
+│   └── 540
+│       └── virus.dos.magichole.540 [85b6b7f475bf96d745bce4994c8f14679189d90a216cb65e835ca17ce124f19e]
 ├── mia
 │   └── 9000
 │       ├── mia_9000-001.vom [57662c3800e8d7400f7bad2c9ac6efcbcb03dc8f23cb640a075d546e3a5983fc]
@@ -890,12 +1112,22 @@
 │       └── mia_9000.vxe [4ca1229945e8e517b9dffeff6bceb56c40d21418d55fcb115a4074777d35a225]
 ├── mich
 │   └── mich-ii.vom [9e348eea531e26c94a5b239e35293f44b855a8486e2347e0972d2cb4c58f1f89]
+├── michael
+│   └── 1458
+│       └── virus.dos.michael.1458 [5b41cd2c9fcf30892358efd0a0636c36ca4e925a33ccf20ba165653e780bb91e]
 ├── michela
 │   └── 1235
 │       ├── 1-mi1235.vom [2b1b74dbde4d84a3ca8f869fd051cd54942110a93438594e285ab7906e472b50]
 │       ├── 2-mi1235.vom [2c10796985ddb2837806b9f7366a407b9ed788b0d6d92cda751bcba53d54cab7]
 │       ├── 3-mi1235.vom [1601d5d3ed5c4c19f1c977c3e29404aa8489972de0450f888046cb2323cf7880]
 │       └── 4-mi1235.vom [145b3f4a5597c0d0e6adcaab3451c717de22ac91ec29fccd842470b885b074ac]
+├── mick
+│   └── 343
+│       ├── id.txt [98996cad5340509261c9211bed07ffbc82d6c13b3b52a54d1d15f9d0210f411a]
+│       └── virus.dos.mick.343 [a9489a9e7bd10d12b8daecb60f004481ed556f44a1aa4346da9c30a28b01f04f]
+├── mickie
+│   └── 1100
+│       └── virus.dos.mickie.1100 [f47b609cc962fd776994cfaa628c36f4f62bf511197b9979a71f485a10ac3f52]
 ├── micro
 │   ├── a
 │   │   ├── micro_a.vom [383caca73c7637f554c3b66f00144ea77fca255979627261a0570978203aa873]
@@ -913,62 +1145,137 @@
 ├── midinf
 │   ├── 760
 │   │   ├── a
+│   │   ├── b
 │   │   └── c
 │   └── 765
 │       └── midinf2.vom [d76d23cbed22885616568210d480aa003bb713521a569a1faa8f96e5579afd44]
 ├── midnight
 │   └── midnight.vom [09f161f71c3a86127d8034883b939168e4f896e4baec787235322f722b956670]
+├── midnight_lamp
+│   └── 558
+│       └── virus.dos.vcl.lamp.558 [15180acc2fa2a378831b5e3af966b7dd15ef6ba2fdc30f31fdb05e8a6cfcc56a]
 ├── mierda
 │   └── 484
 │       └── mierda_4.vom [82162fd4ed80fb3efbe68cdb8ad486eb5db0ec145e368bc2c8836d5918547b76]
+├── mif
+│   ├── 452
+│   │   └── virus.dos.mif.452 [8c08267230acc843a04bd0854d59a2be4de4aa264bdef1f48e402637bd69a722]
+│   ├── 453
+│   │   └── virus.dos.mif.453 [a7aa1cf58435b3bcb6b27b36253867fccab6f01df5cc4c2b1b30dfc966552571]
+│   ├── 456
+│   │   ├── t1.vom [47c3685f88747d5b0510acc6783309301fb5a9cbfe682066bf578a999cc0624d]
+│   │   ├── t3.vom [d2f74a791e9c2f2099a22e7f24724c999a96fc7fa3b2779fe4e79da7af4c7a1f]
+│   │   ├── t9.vom [3185d180a5fccb9e915ba8746eeffa5ffb4d0aff9ea97fdc4baeee87c7594149]
+│   │   └── virus.dos.mif.464.b [1f0f90834f221fea1e258c6ff1469e2fbc6c6ca32501982b737c5e920b9ec4d3]
+│   ├── 460
+│   │   └── virus.dos.mif.460 [4fb8c4883ee6e94bc392db45e2e17e35d65000f9c26f12f581cc514953b2f940]
+│   └── 464
+│       ├── t1.vom [58466952a7f14434bf1bf44a6300a8afc20d469fbe1813dcc581d5f5bb207679]
+│       ├── t3.vom [88c2cec73433e433a68dbdf7bb666451f6ff425b3fd122b550b6eb27279abab9]
+│       ├── t9.vom [b4bf2009b687bce61e9ba400a77ee4ae940b22a5375254a67d7c66bc91f94e0f]
+│       ├── virus.dos.mif.464 [56241adb3a8c2838002ea794229440f9f686178a4d4f2cd2e4e12b6914482e4f]
+│       └── virus.dos.mif.464.c [f8936cf60d112f1b7f5e2c1af678a87a68056d8a11a5e2283648ab55b7f226ef]
 ├── mike
 │   ├── 252
 │   │   └── mike.vxe [31edb3df05b4e55612dbba4c55d0f809df39051b4ee918c379222014c69e109f]
 │   └── 256
 │       └── mike256.vxe [8b4a5b8ffce30b5f15b3ea5365dbe9d098f3fe763708547d479c834460357e18]
 ├── milan
-│   ├── antinazi
-│   │   ├── antinazi.vom [d74bbdbfed09562c14207c17c12fed3b3157a2671e671edca31f2fbae136d153]
-│   │   └── antnazi2.vom [7012549d6c32393b37a6f08b71198f0fc20fa999495f0391790c01f87fdcdf0a]
-│   ├── badguy
-│   │   └── v5225.vom [76aad860280b056cd760fb11c2ada3b7bd902d21b0e781b0853d7f7d6d58a3ec]
-│   ├── bill_me
-│   │   ├── mi-billm.vom [04c1865d642f4dda7dac74a3cddc336e8a16d5c798160726c031174970287c00]
-│   │   └── wwt263.vom [84996d1fd7074f001159edbfc82ca6dda5c1185da05a48189df22b1f166aeb76]
-│   ├── demon
-│   │   ├── 270
-│   │   └── 272
-│   ├── evul
-│   │   └── 264
-│   ├── extasy
-│   │   └── 359
-│   ├── extermin
-│   │   ├── 429
-│   │   └── 451
-│   ├── naziskin
-│   │   ├── 270
-│   │   ├── 335
-│   │   └── 903
-│   ├── nwbadguy
+│   ├── 0063
+│   │   └── 63.vom [06ec06a9e439c3108ce8621c52bf00220fcc40cadfdbb4a02fe0e0262c3c07c1]
+│   ├── 0065
+│   │   └── milan4.vom [9743ea726bf6882e692a1a17f3f7eec142e253f47c979f1747fa62cefef00f5c]
+│   ├── 0067
+│   │   ├── a
+│   │   ├── b
+│   │   ├── c
+│   │   ├── d
+│   │   └── e
+│   ├── 0116
+│   │   └── milan3.vom [f4488d8568ef0175ee4ec276f3d12c55e8e045eaf9cb71596934c636c301c38c]
+│   ├── 0117
+│   │   ├── milan_11-001.vom [7489ab2ca2f9d96f71a5eaad227e82230f3a3fb7515812b0a5c434139baa4bee]
+│   │   └── milan_11.vom [0948b856f810947428325a8ec93797590f995c9b72b59dd3bd1900b4fdb4236a]
+│   ├── 0123
+│   │   └── virus.dos.sillyoc.117 [20167551f30df74ff0e56c0f9b7c96f8f84fb25c643b77ca75b442952aeee6b9]
+│   ├── 0125
+│   │   ├── a
+│   │   ├── b
+│   │   ├── c
+│   │   ├── d
+│   │   └── e
+│   ├── 0129
+│   │   ├── milan_12-002.vom [6d107d860588b942d3b610e36ec67a918e8c9a4fd6f3ae6283d1d8865dc75f95]
+│   │   └── milan_12.vom [071cef875d4e8f61520d21144815eef801b9b0975dbebe49762c7b819ff50649]
+│   ├── 0175
+│   │   └── milan1~6.vom [f869541d29bdcf1f81ffece7c5ab0a93611eddd0ce8485076f89c3a0032127aa]
+│   ├── 0208
 │   │   ├── a
 │   │   └── b
-│   ├── sabrina
-│   │   ├── 175
-│   │   └── 249
-│   ├── verbatim
-│   │   └── 289
-│   ├── vivisex
+│   ├── 0249
+│   │   └── milan_24.vom [4f9772af5d4735454cc9b0a541b9c2623c6d031bc45cf6e39ba9e86a0304f864]
+│   ├── 0263
+│   │   ├── mi-billm.vom [04c1865d642f4dda7dac74a3cddc336e8a16d5c798160726c031174970287c00]
+│   │   └── wwt263.vom [84996d1fd7074f001159edbfc82ca6dda5c1185da05a48189df22b1f166aeb76]
+│   ├── 0264
+│   │   ├── grep.vom [e930e14a19dd8ed9567e3e2fcb88db1fdc3addd980faf689256db068e68d20fb]
+│   │   ├── milan264.vom [06f41525cc9dd99fc919d55bd0c54141e8022a76463e752603d8ec32cb478648]
+│   │   ├── t1.vom [8c29e71c30164d2ef16fc42232bdc1a611ee6fd2767ae8362592afc3aa72d97a]
+│   │   ├── t10.vom [3642600c2b8123490372484d82ae04053830efa1697b15d166a5078632da5983]
+│   │   ├── t2.vom [55654b0f5c7010711f44a8b5e05d187588d908ae197e41004b5a86e8df848dcc]
+│   │   ├── t3.vom [883be3f539ead5ba154d891960775ef4befad514ccf00862392ebec46364ff93]
+│   │   ├── t4.vom [2e849c57668a9fcdbe4c1d74cf34ab749ac0a18081f8860b5cb728e70674ac71]
+│   │   ├── t5.vom [3fc9880dc1f0dc86907a6cafc420c66e08aef61d312d841b065be070f8e6bb3b]
+│   │   ├── t7.vom [3074fcfbf75f18fafa38bed531dd0022632a54872cca5119b6cb274df61bc2a7]
+│   │   ├── tf.vom [d5232b927f0f443322c738b48993d5410779dec4e3b0e3a99f580652cea6e8d1]
+│   │   └── xconnnie.vom [2b6e0ea7b83626d1aa5350fa75ba2bb3941189e8a281289e05e120dbc9405df5]
+│   ├── 0265
+│   │   └── v5225.vom [76aad860280b056cd760fb11c2ada3b7bd902d21b0e781b0853d7f7d6d58a3ec]
+│   ├── 0268
+│   │   └── virus.dos.prodigy.268 [f173b9736b71ce48a2b78ca9250760b920997156d29efe1c9cce9b14edaa84bb]
+│   ├── 0270
+│   │   ├── a
+│   │   └── b
+│   ├── 0272
+│   │   ├── a
+│   │   └── b
+│   ├── 0284
+│   │   └── virus.dos.milan.press.284 [f3b6f78d0c69df0a2df1398c36a99a44aca8e9b4bbd4320334c2af0a7f85e17e]
+│   ├── 0289
+│   │   └── wci0188m.vom [c96ea929846d49f14b784ba41230302557eb6b857156be6ca9a20a1f1343e16c]
+│   ├── 0335
+│   │   └── milan3~1.vom [26778312343bac4bbfc59e7a6c92c7b6d83f4c43507c15ac499274eacd5a4b40]
+│   ├── 0359
+│   │   ├── c-mil359.vom [6109e69ddf0f8a911bd4eaabfb6ffe449b131c48725a22f6dfc9f9426f384dba]
+│   │   ├── milde359.vom [2c8dc63366a5763b76cfd1cd328d74097e376f2fc33ba24db8727a9e3c61f73c]
+│   │   ├── t1.vom [6346f05433ed252e5c779464319ff7964dc1ea11968fc799204346142d8e39d9]
+│   │   └── t2.vom [f147990ad3a915d401f4b5a4140395fa704375d4b76f842178213c6995b03039]
+│   ├── 0429
+│   │   ├── 429.vom [9b63eb1320703aa62b124bc7bf66b56ee06ef2d358c204020dbb4c94ff4e6ed0]
+│   │   └── mi-e429.vom [c02d225ff0160533ca78b7c64bd61f6a70aec3b9f3ab96aac5ab10242ca8f16d]
+│   ├── 0451
+│   │   ├── b
+│   │   └── c
+│   ├── 0683
 │   │   └── vivisex1.vom [651a0c16140006ef4993f17e503b7737cd753848fbd1262e4520bb2604a6c007]
-│   └── wwt
-│       ├── 063
-│       ├── 065
-│       ├── 067
-│       ├── 116
-│       ├── 117
-│       ├── 125
-│       └── 129
+│   ├── 0903
+│   │   ├── a
+│   │   └── b
+│   └── 1091
+│       ├── antinazi.vom [d74bbdbfed09562c14207c17c12fed3b3157a2671e671edca31f2fbae136d153]
+│       └── antnazi2.vom [7012549d6c32393b37a6f08b71198f0fc20fa999495f0391790c01f87fdcdf0a]
 ├── milikk
 │   └── milikk.vom [dd7ab0535c2d1411ae41c0fd6b2b91471492e1c5ffa556a431dcd0385bd95a53]
+├── millen
+│   └── 3616
+│       └── virus.dos.millenn.3616 [46715b72df4cd50cad6077a2adb4468c5aa84f34b0e82f27b248e5814ce6bedf]
+├── milliner
+│   └── 827
+│       ├── virus.dos.fivem.827 [2f7c26ad7569e00cc21585898a52defc955198850cffa4c39d16232a8cfd5b7c]
+│       └── virus.dos.sillyrc.827 [8d8b2daa0b6d6aee9199bcfa4f9b30e91d8529c2e34c9396785b0b37ca16ad98]
+├── mind
+│   └── 1758
+│       └── virus.dos.mind.1758 [16c636c07137a0e3f4911434c7f56d8b98bb97be43ea2a2c373b0992e74e9795]
 ├── mine
 │   └── mine.vom [0e37041256703d9c8554ea4b47707408e7fe3ad4280cb567815a0217bb3b4bf3]
 ├── ming
@@ -987,7 +1294,10 @@
 │   │   └── virus.dos.sillyc.272.b [d7ec5df6723db6cee864c615ab3ef616d748c5c8403e4877189cebd45994a91f]
 │   ├── 279
 │   │   ├── a
-│   │   └── b
+│   │   ├── b
+│   │   └── c
+│   ├── 322
+│   │   └── virus.dos.mad.morose.minimad-based [56d020f819acae918aea491f73a3c7535f1405d3332105b73fbd9eb0869dd104]
 │   ├── 325
 │   │   └── mini325-0.vom [849df7cee540e3b4502726737b0bd6b8507afc59311065b40697cd660c1a560b]
 │   ├── 335
@@ -1038,6 +1348,9 @@
 ├── minimax
 │   ├── minim.vom [715d7215adc2379d582e3b901edf4aa7555b3d5414272182809810dcf374f226]
 │   └── minimax.vom [12eff5ae5635f311e57a8e887c8c673cc4c9c08a82a98bdaff654f5263851580]
+├── ministry
+│   └── 474
+│       └── virus.dos.ministry.474 [c87a22c4d29b5c1518978efeb0e32431a3fcd281a15d32970b5c77d9000969e4]
 ├── minnie
 │   └── 271
 │       └── minnie_2.vom [14372e2e0442020cd1a41657200f83d91a1eb690d319f32f5b1150d4215b3cc8]
@@ -1127,6 +1440,7 @@
 │   ├── 300
 │   │   └── my3-300.vom [4abf507c777bafa7bc317dea3408ed923f182ec1e676131b86b04691dfd64119]
 │   ├── 320
+│   │   ├── a
 │   │   └── b
 │   ├── 321
 │   │   └── my3-321.vom [a9b452dbb57047e5d1b0f4bba49bfd070d5afbf11f39e03149f907539ea8a3f5]
@@ -1136,6 +1450,7 @@
 │   │   ├── tc.vom [a751dfce2777b66363c0551eb7aea77626c852ca18904879b0f3a5d80b8517a1]
 │   │   └── tf.vom [88a8efc0de50c7730c2a036f86e1d7b627d320fb0db3ad7238292d65431be4c3]
 │   ├── 332
+│   │   ├── a
 │   │   └── b
 │   ├── 333
 │   │   └── my3-333.vom [641e825e48dc32ae0048200aa6e7d099d25820b5af1220a0e956f1a23abca13e]
@@ -1162,11 +1477,13 @@
 │   │   ├── a
 │   │   └── b
 │   ├── 443
+│   │   ├── a
 │   │   └── b
 │   ├── 444
 │   │   └── my3-444.vom [a3fc1643149824923ea7bdf4cefc8f6347d1d6e17a5c29b5ceea3c76432cfca0]
 │   ├── 499
-│   │   └── a
+│   │   ├── a
+│   │   └── b
 │   ├── 500
 │   │   └── my3-500.vom [45b83940eb9e6b6544b5a2df1d9ebb79f6cfe1a3c16a28234e68e4036b4c57c4]
 │   ├── 511
@@ -1176,6 +1493,8 @@
 │   │   ├── t1.vom [5d25cd965341ee0c9943c03dc2846413ec474f49a45f8f918e439dd9ed510b23]
 │   │   ├── t3.vom [7ab1a6e7cfcb63310ce5b74b20a610087ad28be5168f063319b1bd633453235c]
 │   │   └── wci03213.vom [6185a736e6805b43b52757bccf512ca33c50bbc12bc4fad874e81af87894c3ea]
+│   ├── 541
+│   │   └── virus.dos.kov.mini3.541 [26a90aa40fc3d546ed323dbf96dd8c2574b1e09c2b675ca821eee25d912ba6ec]
 │   ├── 542
 │   │   ├── 1-kov543.vom [39cf5cb609d4739ac7458931b5556f10668022cc3649c09825782c6745c56ea1]
 │   │   ├── 2-kov543.vom [77dffe77e288f11daa2507018fc3b562b554e2fa4098a33ee489e777dfb0aeb0]
@@ -1190,6 +1509,8 @@
 │   │   └── wci03223.vom [e9447abb21e797f11581d7b5c05137e213f95dc1c621e9976d86d7030764ded4]
 │   ├── 543
 │   │   └── my3-543.vom [53feb226febb7124a909d45a5b74f5f0d7c3004cfcee1ce5086651906995dd97]
+│   ├── 564
+│   │   └── virus.dos.kov.mini3.564 [13f7fad705c4a33f2a19e6aaa47fd18a5a1a2a6c716caec59bbfe853c4822119]
 │   ├── 565
 │   │   ├── 1-kov566.vom [f13855d81e5b0ad944e374ed87103dc1f168198f8035778b8a4e39b5cc56acb3]
 │   │   ├── 2-kov566.vom [196e28e3939af0c25de6689457f0d05ccb7be2cffe13e4d4911ea74fb3c775ea]
@@ -1218,26 +1539,47 @@
 │       ├── t7.vom [0efc17f19c92ad09988df7735aa29b19f5c02be708deb28cb7e7c02d3661e0b5]
 │       ├── tc.vom [675ad19f469ef6e746a429875da3d932a69e0472ccb0fed5458e365fb4d3d382]
 │       └── tf.vom [afc8dd0cbebbd92589e8c1e8fc22a91c423faac92a2b89fa6b0e568081ec4732]
+├── minyo
+│   └── 396
+│       └── b
+├── minzdrav
+│   └── 470
+│       └── virus.dos.minzdrav.470 [9dc0f28649cc67d5bdb8fc7c6f8167fc37928f7dc41ded306e64b575588af637]
+├── minzhou
+│   └── 1024
+│       └── virus.dos.minzhou.1024 [4d829b1739e64d7667ab894de07835d3b1af283a726fb152a99b4790d876913d]
+├── mipht
+│   └── 460
+│       └── virus.dos.mipht.460 [060bb04f774da8dfce08c19145f72579c4a27a851f0a6c1f8a5681d2c15b7298]
 ├── mipt
-│   ├── 439
+│   ├── 0439
 │   │   ├── mipt439.vom [14de41ca4be2440509d610ee2a1aa660deea250cb9b2dab0cf1e334219ae9976]
 │   │   ├── t1.vom [d737a8fbd6a4f87d7d8e2a864d5403c793fec4c54cef4a44e7fdf014ac813faf]
 │   │   └── t2.vom [d059a268516aacf66f821beee98bdca438b0838608a99bd9f4c2bc86b73bf9dd]
-│   └── 748
-│       ├── mipt748.vom [7380ff1123ba22c2a97f28a3653fa0a9590f6be25e72a067c24b9f1c3ec588e1]
-│       ├── mipt748.vxe [95be7b2316ee0e77bf2a31c9e43fff39c3cb523392918189a62652d890d5c1dd]
-│       ├── t1.vom [0008368630dc479fbbf431a6b63596ce5174c11d53fefb7fea30a288fee5f054]
-│       ├── t1.vxe [d290c91308c63e8bfc0349df28087caf9c24cd8c5bf329353b9203f412749e0c]
-│       ├── t2.vom [182758b1b257830f0c136ae96f035fa9a337eb56912be8f441dbb128c5944230]
-│       └── t3.vxe [3096d2179b301b4fdecfc174d5d3b7caab042dfb8889a8aef69915958b44d8aa]
+│   ├── 0602
+│   │   └── virus.dos.mipt.602 [9bed9d041a13a0bf1ebbb613cb02ef2b56e95ff0492f35357310833a5bcbbc0e]
+│   ├── 0748
+│   │   ├── a
+│   │   └── b
+│   ├── 0879
+│   │   └── virus.dos.mipt.879 [fd4c162855dca48fb3a9d0c1e47398d75d48b522d5ca3d1c222d06df518b0660]
+│   └── 2000
+│       └── virus.dos.mipt.2000 [517a3bd170b9737fb163d60213286fa8d0c4d828904b0e251f9f40fa399316ef]
 ├── mipth
 │   └── 905
-│       └── a
+│       ├── a
+│       └── b
 ├── mirage
+│   ├── 1309
+│   │   └── virus.dos.mirage.1309 [5ac4a2726cff6a53e4e2a9c925bd91a3bafbb99e5da890d8248f43cb1db9819a]
 │   ├── 1322
 │   │   └── wci0212m.vxe [4db68ee257b3d972214472c2765cc3dc57bd47b2e6e0ed5f53bda45367a1d971]
 │   └── 1331
 │       └── wci0213m.vxe [c84d664870a35e322c7d2d53f30819b4a1a54d42bbda30fb8618ce82276fcff7]
+├── mirage_ii
+│   └── 727
+│       ├── a
+│       └── b
 ├── miranda
 │   └── a
 │       ├── miranda_-001.vxe [73b6c9ab8d01023a6e43a17449420349c6377d39bf808494da4a162b7f88e09b]
@@ -1245,6 +1587,10 @@
 ├── miras
 │   └── spanish.vom [e41342c32eba23e0e5bd983bedc4b69fdac19e62924aef040f5ee96a9d97b2cc]
 ├── mirea
+│   ├── 0549
+│   │   └── virus.dos.khizhnjak-based.mirea.549 [1b336930d28a8c6e591fc29678b00bd0b5f16ae2c3ae89563e5851d5034af65e]
+│   ├── 0703
+│   │   └── virus.dos.lyceum.703 [e93c8d18771e4219bab59e96abfbeb1d80c9a5626ed356c8799d7835d22f2751]
 │   ├── 0737
 │   │   ├── 1-mir737.vom [e8611a29c01a5824d7ac1c5cfcb6cce8f07b6d2341666e90d59642f0478887c4]
 │   │   ├── 1-mir737.vxe [32f70f9d81067b05f02ea0d72155d27d453c98d53467958f82668bd023ba024f]
@@ -1253,6 +1599,12 @@
 │   │   ├── 3-mir737.vom [2dce872f94e093921a243d602d36365f3bf6c3b7e29ab11368c8b197561e42f4]
 │   │   ├── 3-mir737.vxe [8a59c371a15350cff6a57a9f0c8340439df049e175f9f41e715059c4dd4b81f4]
 │   │   └── c-mir737.vom [6273ede755415397e73a87f999a167d73b81d6e2f82e9b53a5e9c0bb7ad99dfb]
+│   ├── 0767
+│   │   └── virus.dos.replicator.767 [2886e3a88cb941e1b5d9210eb105902a83db254858266ba7d7a9a53589eb9223]
+│   ├── 0815
+│   │   └── virus.dos.replicator.815 [288d13f664aba655f48e13bee48ac4381655de7db888c249dbb754ac5785b310]
+│   ├── 0888
+│   │   └── virus.dos.replicator.888 [6f9edf64911c6c46d7a425b323f2f1afc5b17a91a9340ce79ae0dbbd59ca06b2]
 │   ├── 0925
 │   │   └── wci0224m.vxe [f0d08f35637d7e20a0a1bd11cd274fe44a1edd2df43026b8e6ef94ce4c78a530]
 │   ├── 0930
@@ -1264,6 +1616,8 @@
 │   │   └── wci0226m.vxe [c617bcaf79c47f3a8adebded91b9ffccaf4a7a69a658dbb216be12c07b734ce4]
 │   ├── 0950
 │   │   └── wci0227m.vxe [8888d93deb0f566bc38b517ea7120e464c85a9a26ea092a51cc196796dbcabb8]
+│   ├── 0957
+│   │   └── virus.dos.beeper.957 [1c850ba30cfe36b1e0c483a973ed61009d5fb66fcff1eed349af4bb594f037b6]
 │   ├── 0958
 │   │   ├── mir958a.vom [a6a8d641851c27d2cc425a272014b897e09310ad09716528751123eb7e6c9812]
 │   │   └── mirea958.vxe [0f549794db10661d8ff9240d41268f757fbd9ef97c5459ba83fc7adab36b58dd]
@@ -1288,6 +1642,7 @@
 │   │   ├── mire1788.vxe [3ec25fea8399dfbf0ed60a8d8b7a4aa485e2805f607eaf480618a79df76cfacf]
 │   │   └── mirea.vom [743aed7c7006557b8bb8e9100cece03f72ac6132019e6a78c133c91a979c927b]
 │   ├── 1800
+│   │   ├── a
 │   │   └── b
 │   ├── 1813
 │   │   └── wci0522m.vom [1bc03694967ad5c261ea0aea2e18ea66efdbe48f2768d2789c3173e78943eb87]
@@ -1321,9 +1676,12 @@
 │   │   ├── lyc-1975.vom [ec4c981afe68a8c63e98a3fae7fbdc7f7db2d0308a283334d466ba11f720c9af]
 │   │   ├── mire1975.vom [9fa7b5d5b836f42a2bf1faaa11de9bf35f2fb670effeb98b894db7343a7af8f6]
 │   │   └── mire1975.vxe [5ca0ea232a82a0ee8cbc66fd0e7ec45f355c78e8f0bf5143bf2b900fd56bbe83]
-│   ├── 4157
-│   │   └── wci0523m.vxe [22de147642d53baba8f2e288edcded0bb7f09aef4bd32d72512b9954a417bf80]
-│   └── mirea.vom [1ed431c57dec70202bb2955f4af758b3bdb35307517aa354508552fba81f7e80]
+│   ├── 2087
+│   │   └── virus.dos.mirea.2087 [43a457e8c0dc5104360c5cf19d336216a30cd50204fdfe54a38c6579f64bc325]
+│   ├── 2117
+│   │   └── virus.dos.mirea.2117 [2bf95b594a3c7155533ef84d3d7974ef79dd44714a81b3e36a87b0363a6ddd99]
+│   └── 4157
+│       └── wci0523m.vxe [22de147642d53baba8f2e288edcded0bb7f09aef4bd32d72512b9954a417bf80]
 ├── mirror
 │   └── 924
 │       ├── a
@@ -1336,6 +1694,15 @@
 │       ├── mirror.vom [933333937de9e3be80cecf2b828e0d506a4845c8707a5569d4d680a00bf7a784]
 │       ├── mirror.vxe [95e392c9557179a63553c2c8477a80b143b6cd92c295e8819133c9a286a235be]
 │       └── mirrorop.vom [bc8abdbc2f0001cd2afabe2d326efea0a2dd46129f105257330dd2a81473b46e]
+├── misa
+│   └── 1410
+│       └── virus.dos.misa.1410 [6e9f409445660f50caf3070842caa750db66f5257248369ea48ddc6a4b02ba89]
+├── misdirected
+│   ├── 323
+│   │   ├── id.txt [1fbe2c2c78d04846756b8b8393b341db32d7ed7da582e149000ae58f8bc1b4fa]
+│   │   └── virus.dos.eicar.323 [c4853fa5354e9e0f89ddbc2f83382bb1ebe8d7fe6be95d9c18615a4ed9776079]
+│   └── 325
+│       └── virus.dos.misdirected.325 [2a1ea5407fbccf9cfd1ac5e0079243598dacdbd3816ade09356f8a5581b26520]
 ├── miss_d
 │   └── miss-d.vom [e5f3b80ddef037a1961622e0932793e89ddfa11f210034b47d2fceebc4365f4e]
 ├── mithrand
@@ -1350,8 +1717,13 @@
 │   │   ├── mit496.vom [28f46cae5341a2055dbb318ebd853c21dd33483abe8c7f981776530247bba9d2]
 │   │   ├── mith-496.vom [cda2a3c80fdd6ce785cb98c37af03035eee37593ed7582436fc300145dd001d1]
 │   │   └── t1.vom [7129b2d81f463e850dacc4cb70e22271c36cfbd633e22ea99bf58510112936db]
+│   ├── 689
+│   │   ├── 690.vom [282b152a4f28d88e379dbcea3467396ff8cb3d8b5965d248e8867e11f36ff549]
+│   │   └── virus.dos.mithrandir.690 [c87174f9b553a82bb5983d0082aa0234e48d9235fd81eea576424503a1125fd6]
 │   ├── 694
 │   │   └── mith1.vom [d5ecd6b2a5c0e14a4243169c51604e852b3a5466fda8723d5e2563520e9884af]
+│   ├── 697
+│   │   └── 4e9ff4cf.vom [8e2be7ef0981feaf9e48875a0282a2d6f8be663aae211b0a556422285ac20663]
 │   └── 705
 │       └── wci02814.vom [e9e5cf34cc58fc5eb642303f1b4976ce8c9f5611acc483c49e3e495b32570b41]
 ├── mity
@@ -1361,11 +1733,26 @@
 ├── mix-2
 │   ├── mix2.vom [6d4d5db038b4a6b769ce6eaac5ffb9358ea4606e76de7aed614c185abf612f94]
 │   └── v5325.vom [17832e4dd7669fb34dde7f0047e9082655f3ad15968dbd0c9d5302e6d27c4e92]
+├── mixtura
+│   └── 1000
+│       └── virus.dos.viking.mixtura.1000 [e2e94dad5fd60ff9fe1f5a677859200f937f2ced96f1a7955f78177b3a6060d8]
+├── mixx
+│   └── 570
+│       └── virus.dos.mixx.570 [7f7d45085c6bcd321227133929be599e042298d2396d04ed24fc213fad66242d]
+├── mjump
+│   └── 143
+│       └── virus.dos.wit.jumper.143 [5d355b136d256c758fa1867a3f857e63e9f871c7032f8bfe315cf602ec79df0f]
 ├── mkworm
 │   ├── 713
 │   │   └── wci0187w.vom [b1ef0205764f007cbcacf7903593119a591a1473f0c0abd0325656f589e51459]
 │   └── 715
 │       └── mkworm.vom [af0b2a55e3bf32435273adcae6a945c2c66cd0dc78004c23d534b584627823fc]
+├── ml
+│   └── 231
+│       └── virus.dos.sillyrc.231 [03d80c388c39009616a190651ed236f0080a51d9d7d881d8c52e7f7fe8c6f182]
+├── mmand
+│   └── 2048
+│       └── virus.dos.mmand.2048 [5828081cbb30a000320bdaf39a14a4e8113cc1b394ff3b02975543318bbc75b3]
 ├── mmca
 │   ├── 505
 │   │   └── virus.dos.mmca.505 [ee5e2e9d5d6ffe976de75544278b015fa7938ee69063993b73113c8ff9686f1e]
@@ -1382,8 +1769,15 @@
 │   │   └── 969
 │   └── wnn
 │       └── 1263
+├── mmisha
+│   ├── 110
+│   │   └── virus.dos.spartak.110 [4b4d3d92d8ecb0a2372f680a66ca39f71d9120bbd87a202f704e89ef89f1a4fc]
+│   ├── 367
+│   │   └── virus.dos.spartak.367 [a68b8e60b42fdd67b6d64b97b73abeb8f8519a62039fdc80c81f7c01b26e943d]
+│   └── 454
+│       └── virus.dos.spartak.454 [805d6adbb90cf76825295e3472f6d411651418e72c667c09150ece1f61361416]
 ├── mnemonix
-│   ├── 100%
+│   ├── 100percent
 │   │   ├── 681
 │   │   └── 684
 │   ├── atomic
@@ -1416,6 +1810,8 @@
 │   ├── gates
 │   │   ├── 3895
 │   │   └── 4105
+│   ├── lotek
+│   │   └── 859
 │   ├── neuropth
 │   │   ├── 924
 │   │   └── 928
@@ -1443,11 +1839,20 @@
 ├── mobius
 │   ├── orion.vom [8fbb3a2a073f437b007656504986555e7b22f391c3a1a60bee35f1336423a111]
 │   └── orionb.vom [f9c8c202d547ca31facc44f2815dc5206a0a7386d11bfb8cb3a0e91cc772b8b4]
+├── mode_13
+│   └── 316
+│       └── virus.dos.insect.316 [1c6f3c50eb170b965a3c719202b6de19a7148d71ce150f5002bfaf2404769130]
 ├── modi
 │   └── 648
 │       └── modi648.vxe [374db02480fe6a6345afda72b61a719fe09067f0bccaaafb34682df72076bce1]
 ├── mombasa
 │   └── mombasa0.vom [d223ac5a75bad8153bbb2313687da4f3b5e6d7db3af2f74ada1f01a11890170c]
+├── monami
+│   └── 999
+│       └── virus.dos.vlad.monami.999 [429b992bfbba09394a01735bd85c5a37d1bac68525412276f5301ceabd5f47bc]
+├── monarch
+│   └── 1040
+│       └── virus.dos.monarch.1040 [142a2e3f29f3cd8f69bcc4cac35fd93a4744b7ae7ffd6221c14f11737e1896e6]
 ├── monika
 │   ├── 0686
 │   │   └── wci0259m.vom [7bc0d1177f8927e384e0847a755bd88e88f0c985c978055984da6cf17b0e25de]
@@ -1456,6 +1861,10 @@
 ├── mono
 │   └── v5330.vom [6d2fff2916c50ee2284fba055a932edc7af440d8221239c905d661655942f6fa]
 ├── monster
+│   ├── 248
+│   │   └── virus.dos.sillyc.248.b [31cc78b6bf244ea08872e411c4f35e3e7c42ddedccaf12466fe819180abbbd21]
+│   ├── 421
+│   │   └── virus.dos.monster.a.422 [29c992653f95be87dc353c03b0c631b2f747cf118ce03a39cf83280c7452966d]
 │   ├── 422
 │   │   ├── monster_-001.vom [eb5d484e06998c6563e5a7ba5b15f94dd8f687d763cad976f5a3b62167b0a806]
 │   │   └── monster_.vom [2b870a70d9bd5dabfb0eb075cd054ae7c4980601303797484955a5446b0d5ab1]
@@ -1473,18 +1882,49 @@
 │   ├── 495
 │   │   └── monster_.vom [edab83d25582be98099f9e88ebea4387201e33554dd31751c0d439be025bf712]
 │   ├── 496
+│   │   ├── a
 │   │   └── b
 │   ├── 497
 │   │   └── monster_.vom [32271f37cd4b24a07cb9e35d25272d12ceeac8e5af62325349c2792bc9d1a88f]
 │   ├── 498
 │   │   └── b
 │   ├── 500
+│   │   ├── a
 │   │   └── b
+│   ├── 502
+│   │   └── virus.dos.monster.b.502 [e4d6147e4a0668b92aba0d8fe5233c6a36be5eb1e5f8f8ef8a44ca1d00a72972]
+│   ├── 503
+│   │   └── virus.dos.monster.b.503 [c9a4165442e3a86ba748e17c09e2369da6144dbde4396dcbe4b53ffff2ce2e12]
+│   ├── 505
+│   │   └── virus.dos.monster.b.505 [6e5a2f86b99b1fbaa60ca6e32aba09bccfa0d8b9e0b94fe37843d02cf2bf5782]
+│   ├── 506
+│   │   └── virus.dos.monster.b.606 [df675eb4d86e6260b79081850d8fd8d069cce73c7876ce950ab9af6ad4967fea]
+│   ├── 507
+│   │   ├── a
+│   │   └── b
+│   ├── 508
+│   │   └── virus.dos.monster.a.508 [209e87d0d123c03c278b5addf5ca5e70bf57a9fb6de41daab99662af03106450]
+│   ├── 509
+│   │   └── virus.dos.esot.509 [e5f4a415959d8bd8b0dced10c85f2774bac14ae3260e9444bb85aff64efd9f0b]
+│   ├── 524
+│   │   └── virus.dos.monster.a.524 [32fb06e964e0d442dee347615eab68fb44ff85f53dc1c48e98e5e61a3b4d3d76]
+│   ├── 528
+│   │   └── virus.dos.monster.a.528 [5d92123349ee095ec4e7f0110de18179ea3d22847273b78bf0b2ab9a3f2fa8e6]
+│   ├── 529
+│   │   └── virus.dos.monster.a.529 [2b0c8612859cd36fe1f09b08fea2950cf4c75562f9794cc002860fa6cc371cda]
+│   ├── 531
+│   │   └── virus.dos.monster.a.531 [9b96885eba780a37124ad87218da3b2acc6d0ccbf76328cddae8acd1e8cd22f5]
+│   ├── 536
+│   │   └── virus.dos.monster.b.492 [bf6634d9c8d447bd5a105d365a159ed934d8a4c0a5ff28cf21c51ac1bf6c525a]
 │   ├── 555
 │   │   └── monster_.vom [032378a699f73b4d35b35a1c9e16a957e8ca54f87d6f94ffd78fa7cd3c7cb35f]
 │   ├── 557
 │   │   ├── monster_-001.vom [83695b03295b4345f19c55f75baa10c0807aa99faf36b576cae6801242806352]
 │   │   └── monster_.vom [18ec768f8825f9d0964c2385ed22a99385fb2a489f34f254f4603e3ab2f1cf68]
+│   ├── 570
+│   │   └── virus.dos.monster.b.570 [057aa537d530b704cdf01f7fc54e3d820c43226c3291f1b18f0ce68b6efb0662]
+│   ├── 572
+│   │   └── virus.dos.monster.b.572 [739ff7185ecd482cbcf228f4d1b0f53280ad17c89e132f2115afc9742b88b41e]
 │   ├── 574
 │   │   ├── t1.vom [df157408d9885c1d22aa42b528d61247cf0905c49f217c90d211a881062ec1b9]
 │   │   ├── t2.vom [541ccaddf1aa2b3efaef3aadcc69a3cd8aa32139e369166858c13a004f3b4fd7]
@@ -1501,8 +1941,28 @@
 │   │   ├── t5.vom [71dd59009cfecdae13024f76cfe9930171989bf6bcade3b8edacc6c461af5f7c]
 │   │   ├── t6.vom [4fe2d186549d60386c39e0242839dc21c36b30f021b01523323b03aac864b1b1]
 │   │   └── wci00093.vom [1041eb23c14dffa5cf8728e1bec477140075796c75db0e4b16c401e6d7a5000c]
+│   ├── 577
+│   │   └── virus.dos.monster.b.577 [5f40ac7b5a01f238d275c0580f59271968fb72f5e1871dde83fefdb5b24ee22e]
+│   ├── 578
+│   │   └── virus.dos.monster.b.578 [6d115595a447a1cae1350eed14e6e88e5c4ece84995447035d7c3e8e4247c083]
 │   ├── 580
 │   │   └── monster_.vom [cea68b0e9bfea8e17e0dd2de5c1099784887ee635dc3ce030edfe25cb0a23427]
+│   ├── 581
+│   │   └── virus.dos.monster.b.581 [1cfe9647721b83b8441453ad6f6b6acbcd86702ea5fd85747fd853aab7bd9659]
+│   ├── 582
+│   │   └── virus.dos.monster.b.582 [079c3878e93d171af93d59008b1b8163f7de2a8f093d7a8a99f8b3b629c7dda6]
+│   ├── 583
+│   │   └── virus.dos.monster.b.583 [16db58c7bfd41646f285639905031e22e208a394438c3250cfaaf2fa7af7b80a]
+│   ├── 584
+│   │   └── virus.dos.monster.b.580 [7f90fa17d8530520a5484d37fb1aac3c641b4304d8881bd0f772cfc167d9ffda]
+│   ├── 585
+│   │   └── virus.dos.monster.b.585 [992f552d2955582e17dd81ee05c42cdd5976e4a13c09b84b21b9c9b3ec8c4ba4]
+│   ├── 589
+│   │   └── virus.dos.monster.b.589 [4793a159755daa655e5664f758d87d46e06526a7d33404513c66f20bfc4e1cb6]
+│   ├── 592
+│   │   └── virus.dos.monster.b.592 [cc7aabb8c38fc126712d9f8974b85ffaeec6dc8e918576f860ee26290ef0062a]
+│   ├── 593
+│   │   └── virus.dos.monster.b.593 [b40a555fdb7b162947a17f5e07f93005464aaa8c83c45517ba51403919f7bd73]
 │   ├── 594
 │   │   ├── t1.vom [c188f9837b883dcdfc46c1dc7bdc16086b5990fb0ba8180f35f29c9b567276fa]
 │   │   ├── t10.vom [14b02bcfaed3f596a619099c4cd546fac33ae194357f3b255ef9cdc4176bade1]
@@ -1514,7 +1974,13 @@
 │   │   ├── t8.vom [a9fa446cc2e65793c5401aacf0b33e0c6f16bfb040b4d9a8d364221eb5b72005]
 │   │   └── wci00082.vom [15e05fa3c60fee18cd30396aa936b67a4f593286227e74296a2d5f5858d0e872]
 │   ├── 596
-│   │   └── a
+│   │   ├── a
+│   │   └── b
+│   ├── 597
+│   │   └── virus.dos.monster.b.597 [c070aa4cec0d04cb4ec49c2399c31b3e97cd7d9d545366714099add5d131b4e5]
+│   ├── 598
+│   │   ├── a
+│   │   └── b
 │   ├── 599
 │   │   ├── monster_-001.vom [cbea05d5805c054b00c4bcb706351eefbbe3be844c3fee13743dce382aa1aa73]
 │   │   └── monster_.vom [e1acdd25bad43bb211166d536c5a062fd0eb5e24c4cab691c8cc9909fff9881c]
@@ -1522,20 +1988,73 @@
 │   │   ├── a
 │   │   └── b
 │   ├── 601
+│   │   ├── a
 │   │   └── b
+│   ├── 602
+│   │   └── virus.dos.monster.b.602 [1c05ea18fa2734514c004a6b370aadb54eb8073f6ec228d09115ac5f21d00be0]
 │   ├── 603
+│   │   ├── a
+│   │   └── b
+│   ├── 605
 │   │   └── a
-│   └── 615
-│       ├── t1.vom [9a7091e7226f45d8c9b39f761b388fb38fc9fb35dd815890fc2b015af0d1aba6]
-│       ├── t2.vom [3518a17f4f3195cf7492d2fcf02a5bd8fb335a4aa02adba3de62f65b60850dbf]
-│       ├── t3.vom [e29cd4a545c1355dc9e13c03de135b51ed4174f744cc5bd25bcdcef59527e19d]
-│       ├── t4.vom [d7fecbf8d1461f7be7da586f8d64e38f312c4fd3ff891483c40f251984e988ba]
-│       ├── t5.vom [6aa15cd31c6bb41d42811fc56eaf3999adaf70cef5e40eab0ec6bd5c76bd461d]
-│       ├── t6.vom [2d0fb3f824688f64dde5579f5053aa30b94ef5d9cd7ce97101d268b8be8dae20]
-│       ├── t8.vom [8697237c79354516cdd6fa8f50610548046e6a7669e90a24bc102c27ba7e3e7f]
-│       └── wci00092.vom [5a3389ad9449fe542eb23222518a5dc0d248b41768fdfb83d9421a15b11a774d]
+│   ├── 607
+│   │   └── virus.dos.monster.b.600 [d49d4612b90067ea39abbf9168e22d2bbe81951717b8e35fb1493bfe99b213f9]
+│   ├── 611
+│   │   └── virus.dos.monster.b.611 [b060467a28bcee2c7ba86750ccc0257825eaab9438df881fc4d686af0e4ccfa2]
+│   ├── 614
+│   │   └── virus.dos.monster.c.614 [21940f7312d4eace7c37a7ac0138508a1c58144f60a4542dac0bbe547b8296be]
+│   ├── 615
+│   │   ├── a
+│   │   └── b
+│   ├── 616
+│   │   └── virus.dos.monster.b.616 [83deb9781046424863a6ba7d0d4a4e63fb3a6adb8c4edef774eab553e891a9e2]
+│   ├── 618
+│   │   └── virus.dos.monster.b.618 [14d48daa4a9b4daa59f0005c5bc9eb4807769eb0a72e7fde64f3feba1ee39356]
+│   ├── 619
+│   │   └── virus.dos.monster.b.619 [1260f5612f776864cb6c5e1dc998159eeaffcfe3c37aa46ecbeca5e170b3022e]
+│   ├── 620
+│   │   └── virus.dos.monster.b.620 [e53f655e8a121810043a0eac9d9e123cc918ad6d3d2e7ff4d3e54f7276c7caa2]
+│   ├── 621
+│   │   └── virus.dos.monster.b.640 [9917ee6508f46c801b677d8f849ccebebbb92f4294db9e717e99915bd529bfef]
+│   ├── 622
+│   │   ├── a
+│   │   └── b
+│   ├── 633
+│   │   └── virus.dos.monster.c.633 [d71721b194c5f43f62c91d5253b1fbcdf2e3a7e4a3c279974d27502df51cdb9e]
+│   ├── 638
+│   │   └── virus.dos.monster.c.638 [91da1c9ceeb8f1c79aa0002c4932d698fb93e628d456026489c8377a2359b2f3]
+│   ├── 640
+│   │   └── virus.dos.monster.c.640 [2e97dc99a9ab824508fe62779a784dc0f82bde4ec8e444f42f21e23494f39d3e]
+│   ├── 641
+│   │   └── virus.dos.monster.c.641 [83e55754706a5d39ef7e20ef001c8863e5afdcec72dbcde3c9543f7109ba830e]
+│   ├── 642
+│   │   └── virus.dos.monster.c.642 [9c5f0d2e44b7582991d0c387f5c6586ad9e2316199b887ca5de41dacc6162482]
+│   ├── 643
+│   │   └── virus.dos.monster.c.643 [2b23d47ee2741827346fc9bd1954f1ab1db7b17a9ef9948a1dadefd17a4a99dd]
+│   ├── 645
+│   │   └── virus.dos.monster.c.645 [1f39f37bece5c1324c01321d2e9e61dac534d7bc508657b19e844920167cb2fd]
+│   ├── 657
+│   │   └── virus.dos.monster.c.657 [f3f5f937369eb732365ba3e3f8f2d7e845f4ea09d52e2cc53a06e0c9d1790538]
+│   ├── 661
+│   │   └── virus.dos.monster.c.661 [4472b106fa8940832957cdbfe6b99f8f4c09ee2674aece85a0488f96fd955ec7]
+│   ├── 662
+│   │   └── virus.dos.monster.c.662 [8742b6a8d331841b481ce01a51f58c051748f25d1c42ae35c04ea5815545ba94]
+│   └── 664
+│       └── virus.dos.monster.c.664 [ed68057a09cdfceb1af4973fbdc58f208e07c0cbca80c0cbb483e63ec775feea]
+├── monstero
+│   ├── 213
+│   │   ├── id.txt [8c3c8b8997934bb0b245ab168e8eeda43ce046b2839d46d93e254e80fd4d60de]
+│   │   └── virus.dos.monster.213 [d6888664434959826aa74986b6d387ca37e30b9de446e220577e0eeb9cf2c035]
+│   ├── 217
+│   │   ├── id.txt [bed0d3ba1afdda95210af4cf33a1bdfa9c797b92a1e364bc25fb80312154163a]
+│   │   └── virus.dos.monster.217 [beed37e56e42fcdc4f1bc6fdf255bd72c550b3a109d2ad39407c0c84acd62044]
+│   ├── 323
+│   │   └── virus.dos.monster.323 [4856fc56dbd9fd6382b32c7ec54c39e00df6d128edb870306a2148995c6a7ed8]
+│   └── 327
+│       └── virus.dos.monster.327 [5d7faede19e4005c7c47f23cc524297598d4c37ee660cab65018ebad6c5ff230]
 ├── montana
 │   └── 1367
+│       ├── a
 │       └── b
 ├── montecar
 │   ├── 1491
@@ -1552,10 +2071,12 @@
 │   ├── b
 │   │   └── agiplan.vom [807d7710cf05c0263a0fe61107a7f6b357d1eb9b643029cb0e7b6cc4d8a4ca5e]
 │   ├── c
-│   │   ├── month_46.vom [4754f6526eacefac6e3c6b45842fa05a6edbf144f0fffb3ddfb0207083ee3971]
-│   │   └── stepdos.vom [a9eeb2aaeddfac8978ebac867edf57468c764d7a3d06f58aeff1f34e3d380dc6]
-│   └── d
-│       └── Virus.DOS.Agiplan.b [6ad460bfb7ce2b03bbce095ebab9ca13fa9f77cafcf2bd458b40b02aa9f43632]
+│   │   └── virus.dos.loaderror [ec04e81bbd7f4ded66643ecc8e1ce4fecdd55a9aed4151ba9485c578ce066923]
+│   ├── d
+│   │   └── Virus.DOS.Agiplan.b [6ad460bfb7ce2b03bbce095ebab9ca13fa9f77cafcf2bd458b40b02aa9f43632]
+│   └── e
+│       ├── month_46.vom [4754f6526eacefac6e3c6b45842fa05a6edbf144f0fffb3ddfb0207083ee3971]
+│       └── stepdos.vom [a9eeb2aaeddfac8978ebac867edf57468c764d7a3d06f58aeff1f34e3d380dc6]
 ├── mooc
 │   ├── a
 │   │   ├── monkeys.vom [f8098a87581b44f75dceb25dd7a1e39c70c6e6e771fb7b3d2d573a04ab4074b7]
@@ -1567,8 +2088,18 @@
 │       ├── t3.vom [784237b11da350c9badec73d5c616fd80c6782fb92ff572b4aefafe7096b5b8f]
 │       ├── t5.vom [ebec73a19d7c522e6929ad357f735a8203cb0d73673baae569c643adffb70b5b]
 │       └── wci0266m.vom [40301fe7e0441afb77958dc851970e0313ab17d17743c60d4ced350ca544c2ed]
+├── moon_rat
+│   └── 501
+│       └── virus.dos.moon.501 [826584e931bdba0a353a1112c848484cd28cf66977ef34d30ae2adbe7cebf1bf]
 ├── moonligh
 │   └── moonl319.vom [a34f2dd20ac346ccc7b603986581818feffb07600c707ed3dcce8c4f49891a3f]
+├── moonlite
+│   ├── 343
+│   │   └── moonl343.vom [ea5e6d087b9c0a9c42fdb5f2733ab2513e920126950fa8ade006474547af9dbf]
+│   ├── 344
+│   │   └── virus.dos.somekit.trap.344 [9b156fd2a51d0983b4fd38c3f36e6c70d43222093a3f93d1bd0e7690d9336c23]
+│   └── 412
+│       └── virus.dos.riot.moonlite.412 [59071ce4afcdfc646678bf1ef18423247050652557da1cba632af9782594b9bc]
 ├── moose
 │   └── 353
 │       └── moose353.vom [4bcec8236b8f9479266f93a5dd0da9ba8b6dbb8c218faa317bae0de27a7f1d44]
@@ -1609,6 +2140,11 @@
 ├── morbid
 │   └── 461
 │       └── wci0277m.vom [34478124abed7fabca124af597b06f4882f3099f27aca9198024dda02f8927c3]
+├── mordant
+│   ├── 656
+│   │   └── virus.dos.edit.656 [70c254ba48655664df7764380907bc3a92a5003edb1d9c368708fa3dc1d408aa]
+│   └── 684
+│       └── virus.dos.edit.684 [4cac835d62a443ffa835cc261092d22bd5405473c5049b26beca615a2a2a2001]
 ├── mordor
 │   ├── 0538
 │   │   └── mordr538.vom [bbd9721ba0221ff48ec7dcfe15764c13ee243ef48fc6736b01290e0342827613]
@@ -1617,11 +2153,16 @@
 │   └── 1110
 │       ├── t100.vom [f3ed48af1282df8685afaf883f572b0c125709792a10565d56eabc69eef72557]
 │       └── v5345.vom [b2eab873036431d9df03ac0828d21fb467f139d537d636284cf234a82fcad75c]
+├── morgana
+│   └── 837
+│       └── virus.dos.i13.morgana.837 [c5ab868b7815e89af792571146cc1c8d0b8ade397361c68d3530bc08f0b12533]
 ├── morganis
-│   └── 470
-│       ├── morg470.vom [af82d67be93dc56961a471dc1ae74ad26255bf6e9c0cd7cbf546dd6c3be76b1a]
-│       ├── t1.vom [c55f747d3d7e7853c01dc7c3a52e1d9af67b864aa3878a297c6c5e912e36f318]
-│       └── t2.vom [df6fbf7b4a7f0866e3811d5369a86b1c1647520b1026bcc2d595b9ab8eef6ac9]
+│   ├── 470
+│   │   ├── morg470.vom [af82d67be93dc56961a471dc1ae74ad26255bf6e9c0cd7cbf546dd6c3be76b1a]
+│   │   ├── t1.vom [c55f747d3d7e7853c01dc7c3a52e1d9af67b864aa3878a297c6c5e912e36f318]
+│   │   └── t2.vom [df6fbf7b4a7f0866e3811d5369a86b1c1647520b1026bcc2d595b9ab8eef6ac9]
+│   └── 532
+│       └── virus.dos.morgoth.532 [9afefba12613db415c7ad449f1814a667d04a0c9b1a8a6f788bdc0b0a3fd0c91]
 ├── morgen
 │   └── jorge656.vxe [4560cc1d91b49c8a805612a712bb8ddbc97b0ea50bc6fe55a3877e1a8a8a3c3c]
 ├── morgot
@@ -1634,21 +2175,40 @@
 │   └── 1017
 │       └── morg1017.vxe [3f1138d8d80cf5a41f5342024972882fc2726edf09e1aaaf68c080a6c47bb572]
 ├── morgoth
-│   └── 189
-│       └── sillyc_1.vom [041aef52b4cbb11501b2a2ec02daef4feadecfda2960669553ef17b48ddb8d32]
+│   ├── 141
+│   │   └── virus.dos.trivial.morgoth.141 [0bcf37e8d94de531f860df5f4585773f044bc4226b71591a450aa49abbd23efc]
+│   ├── 189
+│   │   └── sillyc_1.vom [041aef52b4cbb11501b2a2ec02daef4feadecfda2960669553ef17b48ddb8d32]
+│   ├── 223
+│   │   └── virus.dos.morgoth.223 [e4157abceb59505d5dc35fd09a23066afe8ff15809ee64912bf47f65d11402cb]
+│   └── 301
+│       └── virus.dos.morgoth.189 [0c8ce9dbdd835fb20a4c8fce5607b72b144da8b5bff547f64f9724b808f4bfa1]
+├── morgul
+│   ├── 400
+│   │   └── virus.dos.morgul.400 [2eac7e6dc2b02dbacb459a786b2c205042333225674e1d7005d14f42dd9262dd]
+│   ├── 401
+│   │   └── virus.dos.morgul.401 [ebee1892273ca9ef0ca0b8e4d16bef278ef022b3c68a5a1992216980c6b5ba4a]
+│   └── 424
+│       └── virus.dos.morgul.424 [9b6437efc52a952ca95800916dd15752b9e263b85a80694a86e9d43b02e54a1a]
+├── moronic
+│   ├── 247
+│   │   └── virus.dos.sillyoc.247.e [32f134509f8f00081d861f9f5eb76ed34c953700dd6a71eee738dbdcf68392a3]
+│   ├── 248
+│   │   └── virus.dos.sillyoc.248 [df8e3a03e5faa9b854df084a922bc87d3c523392ebc9d441d900693865120438]
+│   └── 249
+│       └── virus.dos.sillyoc.249.b [9122ed8c4bfd5001441a7264949f83e35627ed9e2bbbd1d166ad8d8ba8e07bb7]
+├── morpheus
+│   └── 193
+│       └── virus.dos.morpheus.193 [4b1e64cef45ecdb670520e4e3d206482d57427bbd260d559db586264b2c81170]
 ├── morphine
 │   └── 3500
-│       ├── 1-mo3500.vom [6268c86bd550fef5ec06192b0e1a979ee68401bd3fc03c7160fd4d180c2d19a7]
-│       ├── 1-mo3500.vxe [b550fa3232e5905f1952243f788fe837203c3effff708e4d3aae278d3b75d9c7]
-│       ├── c-mo3500.vom [0e12b198c5a49faf78cfd453924193ca97b50a56cf68033f8c70d8ec8dd897ac]
-│       ├── morphine.vom [99badea3f719f4b4b7789b8aeb86a26953d044dfd52c5e3e277a3fa8df561936]
-│       ├── morphine.vxe [4c0746786be578522e0d862e770e378b4ecdac625143593a4a0a589ed8837e42]
-│       ├── t1.vom [fda5f423f5cebee62ad9c753b796ab3bbf98e7ce076109ecb0485bd6df6b8ff3]
-│       ├── t1.vxe [603269c1622c6fc173dade39f6061b75d3fe1a07bda9c0780f46ac405e433829]
-│       ├── t2.vom [d73d3348b7042f57f78511f8c840c5adfa374dccf3c93b3d755c0d82ed031622]
-│       └── t2.vxe [f710dfb7ad8d7aa98a64eb1319c56feeee7fe94b4e247a1d06da9d0d21071b40]
+│       ├── a
+│       └── b
 ├── morrison
-│   └── mor870a.vom [d5358108fdbb6420449d22de9e3b09fb7b250c4d58b8c68fab03de41f169855c]
+│   ├── 818
+│   │   └── virus.dos.livio.818 [8ab7b3db7e1b63a75f004fa16bfd90a5c75e04626e0dd4a4408531ab67e294a1]
+│   └── 870
+│       └── mor870a.vom [d5358108fdbb6420449d22de9e3b09fb7b250c4d58b8c68fab03de41f169855c]
 ├── mosca
 │   ├── 0849
 │   │   ├── mosca.vom [d47736bc102af551d085fc9cda2122f043e87813acad197750205c8307efa679]
@@ -1678,6 +2238,30 @@
 │       ├── t5.vom [2820cfff69ecc41a2de8dc666a1542e9dd015f006d47366c256ce9feb6bb09e5]
 │       ├── t6.vom [012717849bad483bfec691ccf728a89ad5b24c06eb4a193031c105bff5e581b7]
 │       └── t7.vom [107bb398213531435e210da969c2ee781e4ed6ea552a7d2138f6a352ca018e9b]
+├── mosdos
+│   ├── 680
+│   │   └── virus.dos.mosdos.680 [a3e8325d207d2161ddd73973591e317b057a7a77d8e30e2c89008326e1244793]
+│   └── 727
+│       └── virus.dos.mosdos.727 [19a53bc1a6ee01d7aeebec3ab61737a45d24451c647ab4c5d4fa3cb515f16866]
+├── moskau
+│   ├── 800
+│   │   ├── a
+│   │   └── b
+│   ├── 838
+│   │   └── virus.dos.moskau.838 [83b0a01001c25122da8410e2a7115302352c394e23ad2d7be3a49f1f88a9bae7]
+│   └── 846
+│       └── virus.dos.moskau.846 [c9cb2336472519ecdf860c1700103a2330185d7f6aebe43876c810e1858f56c7]
+├── mosquito
+│   ├── 354
+│   │   └── virus.dos.mosquito.354 [ad4843abf46ddc585ec92b4a240470325880105939d2f5e3d31decc7db450407]
+│   ├── 356
+│   │   ├── id.txt [2b0ad1d8596f5dcb3735cf3802b00d28841075e6fecd985e6302fc31c75a49d3]
+│   │   └── virus.dos.mosquito.356 [e6dcee557c80be570463353a83c2b947341956e1869e87447e21853b7e113d6b]
+│   ├── 357
+│   │   ├── id.txt [52462acc7a98b91bcfeae511b669a8a23ae788e25a654e93c690c9d8808ef1f5]
+│   │   └── virus.dos.mosquito.357 [c018f87d6736b070554ba5526b3506e34c22b8debd5e4c4e635bab01e533da75]
+│   └── 768
+│       └── virus.dos.mosquito.768 [47829c39d5830ef756b86e13e09f8c9504b4b054388b4356f09718fe8ba5ee60]
 ├── mothersh
 │   ├── mother.vom [1bf54fd100e885679ef40908ac5b72d7f71484c1a9667cb36488b2a17cb94018]
 │   ├── mothersh.vxe [360ea8e34d9478b420c1a58d387b9fa68cf65524629969bbd91162e019195935]
@@ -1687,16 +2271,63 @@
 │       ├── a
 │       ├── b
 │       └── c
+├── mov
+│   └── 664
+│       └── virus.dos.mov.664 [f1de7015012276103ad380bd19bf382120c18042ccab4684f2921824e41fea72]
 ├── mpoc
-│   └── 818
-│       ├── a
-│       └── b
+│   ├── 200
+│   │   └── bughunter.200 [9a4811ee601d7ef06613ff2195b316288f9bf1a94842aa74c4fd3f7c12c9f285]
+│   ├── 206
+│   │   └── bughunter.206 [b81f726911f2769c63095d5691b6cf9e5a82c99367f5316ab76bf8b291165b31]
+│   ├── 219
+│   │   └── cyberwarrior.219 [2a03ec4511d0655c18eed2a9b1fb208dcf7898faff2acf99a5bfdd67f71856fe]
+│   ├── 228
+│   │   └── cyberwarrior.228 [e72bfcccda9d897c975c119db998773ece565bb6056da95ed338b6b08df98039]
+│   ├── 257
+│   │   └── virus.dos.dead.257 [ef0faee69c07fdd073235e90b7670bea21e981449327a560fcbe73443c341200]
+│   ├── 260
+│   │   └── bughunter.260 [d26e524e6bbbc21dc98085eedea4d1dd1ada991b5789a5efc96294488056f079]
+│   ├── 263
+│   │   └── bughunter.263 [939a3d5235c6391b7c83796dca38f97405a787bc04b58ae9dfd89f78541ee529]
+│   ├── 295
+│   │   └── bughunter.295 [d013804b90c60edd6590171ce8a78c7ff581a4a9ef701ca77c559ca0c98aeee0]
+│   ├── 302
+│   │   └── bughunter.302 [ef0ecf7a5b9fa9a47a2dd579eb7a1f8330e3ae9a24e6d083a230a6636bcdbede]
+│   ├── 317
+│   │   └── cyberwarrior.317 [47fe43861722019b32498bc19a4ebcfaaa089a0baec7ca8155d95d5e409b28d5]
+│   ├── 318
+│   │   └── cyberwarrior.318 [f31f489855a35a1984a5c1c803ba96cce5b2f6b28fefc97209034fc6db161905]
+│   ├── 359
+│   │   └── bughunter.359 [d81d239603ef4943ab817caca9a1032d4daffdede3d83c32df5f13d9725d6054]
+│   ├── 360
+│   │   └── bughunter.360 [698425494ef0a7f9cd45c8ea0e38a31e0444938e38f81e54d9aa10008840f8ef]
+│   ├── 364
+│   │   └── bughunter.364 [079e0604d0b79824b2d4f9e855bb3fc4aa3b4565b96fc05830128434b61d3200]
+│   ├── 488
+│   │   └── virus.dos.mpoc.493 [c2b4d76147b41bd725427a3c4511d176674811404f7fc51c5d4758398a962f8e]
+│   ├── 499
+│   │   └── virus.dos.mpoc.504 [870518c73a7ab1dd94e97f23540ebf59f0cbd6eed0d4fae6981f9a970311bd91]
+│   ├── 792
+│   │   ├── a
+│   │   └── b
+│   ├── 804
+│   │   └── virus.dos.mpoc.804 [b4807f4aae5e4de5ce4e0ade9b1cb0b6749d970906d79d16b2a92735745c299d]
+│   ├── 809
+│   │   └── virus.dos.cyberwarrior.809 [914a86a1cc6653b8b0cbdfd5f8717a50e357aa8bbfe07ae01b6ba2a85c3b8253]
+│   ├── 818
+│   │   ├── a
+│   │   └── b
+│   ├── 894
+│   │   └── virus.dos.cyberwarrior.894 [3e2beec7fd4500f5da5ff26199716cf52405823c5f60ff5c40039cee3ba29346]
+│   └── 895
+│       └── virus.dos.cyberwarrior.895 [8dd6c48afcd6af72a60196d8faeecfad4bc3d19aa3624212f8cca354f24081c6]
 ├── mps-opc
 │   ├── 376
 │   │   ├── mps-376.vom [d684ba85e8ecc294b9a598aece9dd40c98616a6a84beedf96fae104ac27a33ff]
 │   │   └── mps-slow.vom [41d3dc6c71039aebde1155d2200663aca6644adde9f069df3b16079b2735f07f]
 │   ├── 469
-│   │   └── mpsopc11.vom [cac940e2dcd939f78cec8bc8c86bc22ac02a5b3ce7c7f48b7bc62b9c7811657d]
+│   │   ├── a
+│   │   └── b
 │   ├── 640
 │   │   ├── mpsop-g1.vom [5023da7cf0d0992bb7a3aae8fa4c9a05685684799785bfe314c0618c4a94db65]
 │   │   └── mpsopc31.vom [1ef790aa149e85df7393d9ffc04687f3fc972eb99ab637aa7f4f918ae874ed40]
@@ -1704,14 +2335,22 @@
 │       ├── mpsop-g1.vom [ed168c623b0a4c91d2e9af5c794e03202c6b62584556f579eec4c5f88d16a3d5]
 │       └── mpsopc32.vom [85549fb92daf35bc72e12b76ea171fb05d68ef2ff9077f274d315358b323ebc2]
 ├── mps-opc2
-│   └── 682
-│       └── mpsop401.vxe [97ef9b8d4a155661d4cc0ba7c345377df2cc266c771389185e6ee05fae3fe3da]
+│   ├── 682
+│   │   └── mpsop401.vxe [97ef9b8d4a155661d4cc0ba7c345377df2cc266c771389185e6ee05fae3fe3da]
+│   └── 754
+│       └── virus.dos.mps.754 [96b93a681396dd1901eabb1c6df8aa0fc0730d3eec498c6b8092aaa3c6459f5f]
 ├── mpti
 │   ├── 0577
 │   │   └── korg.vom [3c7d59ad7b22cbd09763dfe2e516145a4f33f1254b217d71d9221ff616167cde]
 │   └── 1536
 │       ├── a
 │       └── b
+├── mq
+│   └── 278
+│       └── virus.dos.mq.278 [c39d4692063027cb58a831be6057aa0938061699cb76f2fc37b20b6ef27fc0f1]
+├── mr
+│   └── 962
+│       └── virus.dos.mr.962 [dece8d936566feab4c78cf2a1cf3f36fc8efb2331313a1d8eae96beffb80c613]
 ├── mr_d
 │   ├── 1024
 │   │   ├── 1-mr1024.vxe [3bb99af723eb1c07f9c364ba65570bd8b89815ba05308c00809b1621640178fd]
@@ -1816,9 +2455,20 @@
 │       └── winquiz2.vom [1bc9b28cc717a8a5628b03040a3b878512a1ebca0b371e5f82b1d2a9a1a7eea4]
 ├── mr_virus
 │   └── mrv508a.vom [5ae451d5210d5285d73eb5d49154980f46ad69c562888838bbf505e82ff420c2]
+├── mrrat
+│   └── 1278
+│       └── virus.dos.mrrat.1278 [d4c4ad97367e23a1987d3a56ff97c39bdd975d1081d56248aff0d0b52838fbc5]
 ├── mrta
 │   └── 2776
 │       └── mrta2776.vxe [28d0cfc04043bc6c1c522b85c85ec6c2bb9eb9647897a48902c9d3e1d2dacbe9]
+├── mrti
+│   ├── 576
+│   │   └── virus.dos.mrti.576 [20d469a5a12b92228a694894e4c2be58cd500c7288cfed745860327521865070]
+│   └── 644
+│       └── virus.dos.mrti.644 [c1751f016f4cf2ab1c6c3c06f6167c56f7fabf5b8cff87349c0e6696db8dc96d]
+├── mrv
+│   └── 4120
+│       └── virus.dos.mrv.4120 [15e7536c5983068ae9afdb64284b19eee0866bac8f23f932b2616347040222a7]
 ├── mshark
 │   ├── 373
 │   │   └── v5350.vom [8495bd975dcc1819eb30c596b875e33193d232e47e6a6086111e20b773f533ea]
@@ -1832,11 +2482,13 @@
 ├── msk
 │   ├── 105
 │   │   ├── a
-│   │   └── b
+│   │   ├── b
+│   │   └── c
 │   ├── 272
 │   │   ├── a
 │   │   ├── b
-│   │   └── c
+│   │   ├── c
+│   │   └── d
 │   └── 284
 │       ├── a
 │       └── b
@@ -2055,6 +2707,8 @@
 │   │   ├── mtz.vom [32226cb3232dc6afe30c87b342ea4d433fa02af9770bbf548bfe72f8c7e79007]
 │   │   ├── mtz1907.vom [9afdf20dcd58447aedc5632c827c3ee9c8a6981fc249aeeff5c11cda83e6d81b]
 │   │   └── ykk1907.vom [e3ee03b93382bc2c005fec7c28b1fed9c18b1954d3d5fdbcd203d4bf183aff6d]
+│   ├── 2539
+│   │   └── virus.dos.mtz.2501 [19121f7d7a9769b4716f9a183fc3b7c051892491a105f11e7ceb9c7a2c0144ec]
 │   ├── 2624
 │   │   ├── 2624.vxe [0515c61a1a376ebc26ac200dd32ab32865afcccc2a1059eea629911b2e2f697d]
 │   │   ├── mtz-2624.vxe [0187e8dcbc1fe07016cb17a2f5e58166816bb370b33335401ee041816bdd89ec]
@@ -2070,6 +2724,9 @@
 │       ├── 005.vxe [480ed9271fb5fefc02c203e41e91de36dc81032f3e4f0642a6d4e89afb4c6e8c]
 │       ├── mtzp5081.vxe [39f6767b94c9de8246ff9158b17f00aa10155b7f4467239abed79e446e92da63]
 │       └── pinkpan2.vxe [536ff0d12fe333619398d0b3a26eeb618f9e7335c0e3ae1a98eb2a77423f1102]
+├── muhamor
+│   └── 4608
+│       └── virus.dos.muhamor.4608 [38654cac839252f4bd883b4f25d1dde58ac4ab872208e16d5a1e45102a399308]
 ├── mul
 │   ├── 452
 │   │   ├── light2.vom [dfe64288d1f2f98a2a2664944c4e26430668bc556479b27d44f185f281dc23ac]
@@ -2082,11 +2739,9 @@
 │   └── 512
 │       └── light2.vom [a4469340be4c8f1aa70094206c445b94ea6dde34ea2adcbe19441a464a564e5c]
 ├── multi
-│   ├── a
-│   │   ├── multi-a.vxe [e8a198b92ceb99d65147f12406d9d0b2000058dc57ce6c1db06ec0b16e7a00bc]
-│   │   └── wci0753m.sys [a526120e6e485aa8824a544a7c8fd35272fd13b3337d6fb6c2aae16783e963eb]
-│   └── b
-│       └── multi-b.vxe [e68bc3c668fb1b22932c77f01cc45dcd44e61540596fb79d83bf494901cde822]
+│   └── 2560
+│       ├── a
+│       └── b
 ├── multichi
 │   ├── 104
 │   │   └── smal-104.vom [408aef10ab7b435bdc54f0ece20ac583c38872803be99c07bd85f55fc5efb2c0]
@@ -2095,6 +2750,12 @@
 ├── multifac
 │   ├── portuges.vom [82cf218674d3e92708cf5c90b3511ee719bf82efb5ad51b1bd3cc90ca698b529]
 │   └── v5465.vom [7ffac77484d43c4f93ed7153827613a5e61606ccd84d82c93c719969415777a2]
+├── multiflu
+│   └── 814
+│       └── virus.dos.riot.multi.814 [e7ae4271cf0f32cc2232e9dfd81afafdaafd936436db1c1d99979fddebcf6d8f]
+├── mumb
+│   └── 1287
+│       └── virus.dos.mumbler.1287 [26b69f3050ec90a9ea4f276dfe4d6c356d848e07212cd379339b2637671a99ce]
 ├── muminki
 │   └── 902
 │       ├── c-mum902.vom [c0088121cbeb8769aea3c91cd05c33e417ebf7c4ec1377e8b732d58dc48cb3cf]
@@ -2104,17 +2765,35 @@
 │   └── mummy.vom [54874e12ae06ef90e784b87adc6ae771240d09b527a9dc02ea8de527db3f6312]
 ├── munich
 │   └── v5480.vom [b52a6fa5f4c1ec0d6a9a4d61752b6163f3806eb67ced61e979161f03d91c3ce6]
+├── muny
+│   ├── 0655
+│   │   └── virus.dos.muny.655 [cd64cf763e0017e5944605211e85878034ed4a60fd0a558dcc4ef00550f8f67b]
+│   ├── 0969
+│   │   └── virus.dos.muny.969 [fc4e10fb4e8d419fd103070e1e7f3ba9ef55a3cae28267e495bcd7f07215b3fc]
+│   ├── 1887
+│   │   └── virus.dos.muny.1887 [c30f84cd1b3495a64f192bce885b50d2f23287746f9646223fa7b22b3fddf5a3]
+│   └── 2876
+│       └── virus.dos.muny.2876 [20872c0fa37f3ffb9e77eb99f9df01cf563a5dbd1645e4f997aa0e6f76f0aded]
+├── munya
+│   └── 1317
+│       └── virus.dos.muny.1317 [47e34dd8bb606dcf1769967efe408b53ba0aa568e29c5903a1b2c14995012948]
 ├── murcia
 │   └── 4651
 │       └── wci0331m.vom [63e3974ac9dfd1c122de5932b88a8f5e18265aef7834bc02297abb1f3de2554f]
+├── murder
+│   └── 246
+│       ├── id.txt [f37f791154ac345c3e5657498368a1c9c15b9c8ccd47b92ae72f924d5efc2b9c]
+│       └── virus.dos.yosha.mdk.246 [f501c23f2ace703c653b1e07a0ee169c781f763363d743e3869643cdb3640c31]
 ├── murderer
-│   └── 3684
-│       ├── mur3670.vxe [d80bee488cb007fb88481b1f6755454906d3e541a7ed1504943095bc22a57ebd]
-│       ├── mur3684b.vom [3902daf300b02002d7420ac0c0924c8384b6df7218927d9104222aa7eaaec93c]
-│       └── murderer.vom [0a59f69ea41ff731b5eaf6e22c19c303369eccedfc6b9c60fde9c19a335ab4bc]
+│   └── 3670
+│       ├── a
+│       └── b
 ├── murkry
 │   └── 398
 │       └── b
+├── murmanda
+│   └── 1564
+│       └── virus.dos.murman.1564 [5a5c6b51372a9f665473baba698faf3e2957374abc8dff52d2f6136eb2953b94]
 ├── murphy
 │   ├── 0950
 │   │   └── m-murph5.vom [01fb26fb971d99cd3b2dde17293764ef61e47e0de2c00fe1cfdfbecb716d53a7]
@@ -2122,6 +2801,7 @@
 │   │   ├── a
 │   │   ├── b
 │   │   ├── c
+│   │   ├── d
 │   │   ├── e
 │   │   ├── f
 │   │   └── g
@@ -2151,7 +2831,8 @@
 │   ├── 1219
 │   │   ├── a (migram)
 │   │   ├── b (woodstock)
-│   │   └── c (migram)
+│   │   ├── c (migram)
+│   │   └── d (migram)
 │   ├── 1221 (migram)
 │   │   ├── a
 │   │   ├── b
@@ -2177,10 +2858,13 @@
 │   │   ├── a
 │   │   ├── arce.vom [9fead8ceccf254b5f22176a935c1b3e039ec82a94609a926b6952eb5feeb24da]
 │   │   ├── b
-│   │   └── c
+│   │   ├── c
+│   │   └── e
 │   ├── 1284
 │   │   ├── a
 │   │   └── b
+│   ├── 1404
+│   │   └── virus.dos.murphy.1404 [b9e838ba0e54ff469088456c98af81b27bd049c5407dfa81fdfc96251ee7c943]
 │   ├── 1417 (cemetery)
 │   │   ├── m-cem.vom [93efc549638b8a440c0412085312d8f128fa53eec0892e5471ce4dd4b38a9041]
 │   │   ├── murphy20.vom [f586ff53d0b55cd73a1a4ccf885ba4475b9943cb725ca35c343186507e0007c2]
@@ -2189,6 +2873,8 @@
 │   │   ├── 04152b1b.vom [4ca006ee65c8bdc676dd4c27ac76856cbbb1d832f091ede189d9bdf2363e20fb]
 │   │   ├── m_1477.vom [aab1135e8088fae00a07b22e397735a365a0d1e8ebbeca89838534892a78aab1]
 │   │   └── mur1477.vom [5911ef9763186f40efd17ebde77dd74fe911113f7558c1354fcd57687e1ba843]
+│   ├── 1478
+│   │   └── virus.dos.murphy.1478 [2afaef70f796d70595637457f015a1391ac41fc6ed7232dba3c9a88c8d228020]
 │   ├── 1480
 │   │   ├── a
 │   │   └── b
@@ -2250,6 +2936,8 @@
 │       ├── m-napalm.vxe [7e158f1adeac8d047429aeb06a30596d7ae6deed3a1a46b93cd3eaadcbfb3cb5]
 │       └── napalm2.vxe [dc59560056099ce1f369f89a5e639294d768543f7428f8120c6d70d83a8b7592]
 ├── mururoa
+│   ├── 2070
+│   │   └── b
 │   ├── 2464
 │   │   ├── mururoa.vom [ccf2404d96af27ed8f78fcc595aa3a27b047fd85453fe0740f940abf5ae100c5]
 │   │   ├── t1.vom [3887e7d854726cb15e1790b8c27320239eb070e6ff1617f5a4908f3f6bbc75dc]
@@ -2261,6 +2949,8 @@
 │   │   ├── t6.vxe [ce177e103be6e23860478550e97ff5069c42e0a891b42cbe9c15227c6feab52c]
 │   │   ├── t7.vom [64cf4222319c9190b7fe2b618a56991b0bf18caa08d89979fba10574de7f321e]
 │   │   └── t8.vom [740b8b1f7bb9206fa2aebeb26ea4cb54faf8382e25e8b106ac6929ae459c58c4]
+│   ├── 2467
+│   │   └── virus.dos.mururoa.2467 [1af7979f47341075e6201f4eb35b774af0491fc0e320cbbd056a043892a199ee]
 │   ├── 2483
 │   │   ├── bleskvir.vom [2f3a2a45b200242315d78f71cb23d6ce6f5051da8f40430f9baec343fe3664c3]
 │   │   ├── t1.vom [3eff169e08d882fe424635299637586c706e769b8facee273528561a0c8945c3]
@@ -2271,6 +2961,8 @@
 │   │   ├── t6.vom [60abfad3f6240a21a1111d01b9f5f0303367628e3c743eb63803e3f6c34baf5e]
 │   │   ├── t7.vom [9d1adc655b008bd2d24befbc0a3c906b4c340491d763b436da1e40d6cbb09b5b]
 │   │   └── t8.vom [2cc3a4c52f27639a32776021fd9851b8d8be9bc0018926635de40efe3c62143e]
+│   ├── 2510
+│   │   └── virus.dos.mururoa.2510 [8afdc5edea1cc86430faf9ec9bc9d3c85cd08071c245ba14407977601b6eea1e]
 │   ├── 2513
 │   │   ├── mur-2513.vom [8228be49c14c7fbdc0d4d6f73e111bf7d0e2b1c9d29cc7070525d92510c7defa]
 │   │   ├── mur-2513.vxe [b0496e442a0070837adb0e55baec7bae12c57845977c0995de987119e605d45b]
@@ -2298,6 +2990,8 @@
 │   │   ├── a
 │   │   ├── m
 │   │   └── o
+│   ├── 3437
+│   │   └── virus.dos.mururoa.3437 [6766c801fd373b5cffdbbe3df7dc2a11045f57fe566ee967bb839bee99adfb2d]
 │   ├── 3443
 │   │   ├── mur_end!.vom [94e279c271a21bb90d7280829e3586696df0eaf891d5366133ee7b67e9a4e2f9]
 │   │   ├── t1.vom [8febd881c7bbf355d405a4342803c2d1c4b33702accc6b98cc890279bf5d0de5]
@@ -2317,6 +3011,9 @@
 │   └── 3449
 │       ├── a
 │       └── b
+├── murzic
+│   └── 1745
+│       └── virus.dos.murzic.1745 [a69863f6fd870071b9398a15c0824825f5f8c08968740f207f864a03afa6604e]
 ├── mushroom
 │   ├── grep.vom [1241164aae44c21d879f2aaba0d3e916e7f462731a78d07154bce04727a60660]
 │   ├── keyb.vom [6557f6633014351398bf1e54132f22b08bfbdd062313383151fa317f4bd9c674]
@@ -2345,6 +3042,7 @@
 │   │   └── 1113
 │   ├── 0_90
 │   │   ├── 1297
+│   │   ├── 1304
 │   │   └── 1305
 │   ├── 0_95
 │   │   └── 1332
@@ -2369,6 +3067,14 @@
 │   └── 2_00
 │       ├── 2204
 │       └── 3368
+├── mutant93
+│   └── 1778
+│       └── virus.dos.mutant93.1778 [922e3ad6d293bd3ac0af70989084e218508411fe565c969097ddefe20a0bf08b]
+├── mutation
+│   ├── 1353
+│   │   └── virus.dos.mutation.1353 [0ff7b60931b75b40d66dc89d37713c8bce0a0fb5f6e08b07764f17661051d68f]
+│   └── 719
+│       └── virus.dos.mutation.719 [567eeb245b483c6a1767ef35cef904da7d722bcabd4c65fb9ca1e695ffc5de32]
 ├── mutator
 │   ├── 307
 │   │   └── mut307.vom [5df5b0097bef69c8a4af5b7c5f77d4dd7e04abd37cc3583eebee9de4f4a3d6f9]
@@ -2376,15 +3082,41 @@
 │   │   └── muta-459.vom [6ef21ca27cd5ddee479155012e8fae6c0e7ef513d5c1d56eb9ce2f6a1be14250]
 │   └── 780
 │       └── mut780.vom [174660b64efc833d3c687b5dcb8c8b1cda318647f3dff41179abc1d833377698]
+├── muze
+│   ├── 1733
+│   │   └── virus.dos.muze.1733 [47b303f8fdf557c7cd6e27b5831bd5f2992bed1b74a12e91349ab7e3ed380f6e]
+│   ├── 1796
+│   │   └── virus.dos.muze.1796 [8f05de2eaa31824ec7085fb1c269010eb076a58a1f4bc76ce26e4608c45854fa]
+│   ├── 1860
+│   │   └── virus.dos.muze.1860 [da1557da825b0a9c8bf0c6cc3f56ddc69bc917d0fa549b0b1ce9d64525e27164]
+│   ├── 2029
+│   │   └── virus.dos.muze.2029 [4dbe0d3f5e760cb778d388501b9dda0b4186e0e6a0ca478dde6d804c27e4e37b]
+│   ├── 2165
+│   │   └── virus.dos.muze.2165 [167883b6716a48c982fb20ccfa9049a2070b0173881b8d9408b80ad9e4adf42c]
+│   └── 2426
+│       └── virus.dos.muze.2426 [16216d7793120548e99ac0e89f25776ecf19c345c40ee30a5c077ad65c19c903]
 ├── mvf
 │   ├── 1896
 │   │   └── 14104fcb.vom [789e2c85cc6b3fac52669b2573e02bc510895b7a04954270b2925ade00e7312e]
 │   └── 1952
 │       └── mvf.vom [66c4217d0987bc651989dac52aab7193f2ebdb70ece551b9f66d2bd0fb454bfe]
+├── mwin
+│   ├── 424
+│   │   └── virus.dos.mwin.c [7e8fdbfb645ab39422d7c1813b36096b7d6745985ab38d618aba3f7cf367dd0e]
+│   ├── 461
+│   │   └── virus.dos.mwin.d [583317950c450f5021d0e96e6d36eb49b48aaa36d08b2b9edacb8f20000353d4]
+│   ├── 539
+│   │   └── virus.dos.mwin.b [7b94bdcd536180f3e38b868b7da4ed1ea7b38be8f4e6b0b2074bd8ab68163194]
+│   └── 567
+│       └── virus.dos.mwin.a [7b492c6d112ed81d327ac6f42455b38aaeb41b6522754ab7960a8ccb195a8259]
 ├── mws
 │   └── mws.vom [7cf232991e97e5f49b7d84e8cccbd3589948f0786576539af86a59dc9f9f3c54]
 ├── mx
 │   └── mx.vxe [6aa17571df3c630295ccc5174bc966a5f647e97fba54420207102f0b1790bdd6]
+├── my
+│   └── 328
+│       ├── id.txt [aec437c0b27533d8fce385f78894a4b7cfcc58706c8d5eee889ddab25c159903]
+│       └── virus.dos.myoc.328 [b5c51183995ba51399539e891f27784cf89301ce7849a61f88e168dddddc0502]
 ├── my_child
 │   └── 1000
 │       ├── a
@@ -2397,9 +3129,15 @@
 │       ├── mypic_11-001.vom [f9bc8d99391dc49508c2a5a186815bf59f9a2490ec1b7e6a2b625971bfb9054e]
 │       ├── mypic_11-002.vom [fb327df13b1d8e349027c36f28a5a6636a1f1d8f9967c3d08b35831069a9e9de]
 │       └── mypic_11.vom [cd4c4cae969403d69cb8cc23a2e183ec7aefc24714da3f76694508a650bddf3b]
+├── mypx
+│   └── 376
+│       └── virus.dos.mypix.376 [b77ffaf4c6816e6c58762ea31da97c24ab4e97b61e954cac88d6be37f0fed13c]
 ├── mz1
 │   └── mz1.vxe [2caf50523672a73c0141627898aa51103f93dbe632dc2b860fcc8accaa7d0da7]
-└── mz_boot
-    └── 464
-        └── wci0418m.vxe [4fefe945d59663500a96a2b865d90c0a418b3230dc45c11094a8b3686e971927]
+├── mz_boot
+│   └── 464
+│       └── wci0418m.vxe [4fefe945d59663500a96a2b865d90c0a418b3230dc45c11094a8b3686e971927]
+└── mzv
+    └── 333
+        └── virus.dos.mzv.333 [c1ff43606ccaec1b7ce54eba80ededc475e4c007cab1ac8d65ce8c42f340a072]
 ```

@@ -3,102 +3,102 @@
 
 ```
 ├── a
-│   ├── doc2.doc.zip [8320563cc81d7648abc58a46a4a6ab56ace0a1f227ba24de08881b6bded2e1b0]
-│   ├── doc3.doc.zip [e467e87a36bfd49532eebca25d9df33299a5db70af4e45903550220e63b6c242]
-│   ├── normal.dot.zip [1f62663085c151bafe11f393b49e9f69af0ce7774ce820e406809b3d36cf5584]
-│   └── rapi.doc.zip [5355fb797a7121f32a7d3db382d78d506a8dd9b79c1414891b0757bc4ba4e1ee]
+│   ├── doc2.doc [1ead8ec46cbb62d5478d740dc9adf2598d8a40dd6b9316b6e5f3993106623a65]
+│   ├── doc3.doc [96d95bf07122d2a459cbdd704548fcb5dfc7bf27f00c19aeb0a6a3e53256162c]
+│   ├── normal.dot [b0e39a6acb892868f535b28915bdf5e61f4a06a1d89e3f3884d4822b394a6a18]
+│   ├── rapi.doc [9c64a1c586b462e49a8a4d1b7e085488b3dcbb8bc76a018286cabe43f0fb6883]
 ├── a1
-│   ├── doc1.doc.zip [d88a407666bed7c974516e3002767bcfa1e2e6a5d822dfe5edebccda6caba6ad]
-│   ├── normal.dot.zip [d24be84f10758a32f9e9eb6f3ffd07ae564cf25dde6f9bb44283397d21f77f8d]
-│   └── rapi-a1.doc.zip [10d15a2467cbf4cf5a1b004b89dde4dd6ec7a70e26eea0c846569705d43fd974]
+│   ├── doc1.doc [a86c8ccbe59c07acd87cd09da68ec7087ff4914c5fedfe7d3f952f9c895dded5]
+│   ├── normal.dot [3c14649210006a692828d86f5d8f845562e436983f9aa4106f27380bf3761938]
+│   ├── rapi-a1.doc [f7136b52a8f1b7c38dd66375946849a49de0d0dd2ed975b46711e28eef2911eb]
 ├── a2
-│   ├── doc2.doc.zip [c719b52510fc4a8b474db273e0359bfc7a17c70a9b63784930df9e98452c1093]
-│   ├── doc3.doc.zip [76c907b429a08c971ca9ff111ae8f8faf64deb6bc048a6a7f5d7631a138b5017]
-│   ├── normal.dot.zip [f8de96b211d9a6787ddc9340e9b7e0ebf64e52754b06378bbb4b56a23b53f818]
-│   ├── rapi-a2.doc.zip [3756f00e0f1aba3127e1c5308f29160b990a92f5a0844f39f36caf23a09b9f8c]
-│   └── wci06093.doc.zip [16a7ae9d5896c7bca9dc1a8d5bb8468f2e9a9405c6f9c1148920b3dc30d46557]
+│   ├── doc2.doc [7566b947cdc0cef2fc571697a8243a49fe213f9fde36153cc4635cfd0ab8bc88]
+│   ├── doc3.doc [dca3e30a474f6f0c1a31d9cfde79340566806b6b490eb9c8bdc237745584b262]
+│   ├── normal.dot [c5f8b805ce02d88b36e48810efbc756f54adb9df63d61f5ec3a65b2427629c41]
+│   ├── rapi-a2.doc [08c60e5aba26080d57b491a090104a76d89af3edd5a9939bbf1a3c3949bf6f38]
+│   ├── wci06093.doc [0e047f3157111eb66dce8749a0ee9df84cbbfa6badae3952420d9bd6156c952c]
 ├── ao
-│   ├── rap-am_1.doc.zip [a75a1f2155ed29ba5893ed1d3a094d1e27d4f293d66c4e7d2a960da5863eb450]
-│   └── rap-am_5.dot.zip [05d527a6fc13850cbdef60a8ef25d9db8720ce68538279f5a2afdc3d3cd47308]
+│   ├── rap-am_1.doc [a4475f46ccb9eecbe45582fedbd91b92bbf7e85aafe598d32f163cf62328f57a]
+│   ├── rap-am_5.dot [2a4eedde7c2a9d572a066bdc485627895e184bd88102cee4ed1e1e8508627297]
 ├── ao1
-│   ├── ra-am1_1.doc.zip [e3482f72bd826b757f73ae06d902edca4f4c68ea70095f7274a923f72a0ba5e3]
-│   └── ra-am1_5.dot.zip [e85efd4b53d5cf0febb0e480b975f878966da671cf83cd7c297f6a49c34b7ba1]
+│   ├── ra-am1_1.doc [df367fa50ce0c91142dfd6d735bc05902a444a10be4a4862c98ca8a9c1b9b622]
+│   ├── ra-am1_5.dot [8cc26fc76de2dba72e6ffedf414ffe95e5aa2bbdca2c851e0ed99932f842c434]
 ├── ao2
-│   ├── ra-am2_1.doc.zip [3383355ee387792aff02b02bafefcc5ec010f5385fdfa9521e0c71de29c0f08e]
-│   └── ra-am2_5.dot.zip [3ed03993ce7c6f3f7df1157c8848ab0e043ee2229145a99b853941ece9800a2d]
+│   ├── ra-am2_1.doc [eaac44923435c4a4c81c29a8d97938953426ac05e349062e41afb8f8b751c12b]
+│   ├── ra-am2_5.dot [0d297703d8b4ec96125d9c0e1ad10e3f4d3aa544a20d772f8bbeced113600c6d]
 ├── ap
-│   ├── stttel.doc.zip [4712d6718082bce6dc393155ea6e1dd686e4c22eaa3f07c4bde2139ba5efc103]
-│   ├── stttel.dot.zip [969666be474003e8cd2d8e636b316ed8b56a097d76cbd0367b4aa598610f0e6d]
-│   ├── vivt-a_1.doc.zip [9dfa95db1d74d51d98bd447406a245f6cc63265a94665c72506c90c0a9f713b8]
-│   ├── vivt-a_4.dot.zip [c82836518f39c8899e11e8f79986751d293bc1a980fe217401429a33ba3bc3c3]
-│   └── vivt-drp.dot.zip [ef38a625a122cde59a010266f9918b343fd2c1aa0be9a45701c3f2a91ae9dbe0]
+│   ├── stttel.doc [a76cf93e66019491784d0c5b6d5fb20e44e46c0c76865b1b943d18cdb6f900e8]
+│   ├── stttel.dot [70ca2ce710257bd8be8541184a60a88b158477289ee68501d72c5137a9d9b178]
+│   ├── vivt-a_1.doc [4b53a5f06d9f85d0f550d2b8156d450748a3c5f4f7563d312a8667c20b593e84]
+│   ├── vivt-a_4.dot [4b77b7ffcfed1272d0b1f866526f22fd542e170f646dd27ec72b0d42858eb235]
+│   ├── vivt-drp.dot [325f9502107248ca2413b1e769ddd0824e5a80462814ab241710354d035d3a60]
 ├── av
-│   └── virus.msword.rapi.av.zip [7eb3c00c9efcd38facc05b5fb14f0c4ade39eec61da2c8546d794ff2b91b7e04]
+│   ├── virus.msword.rapi.av [57a0b56f0abf20cbefafc65d569ff500daa5cb458a3e6382fbe9d4d3fbc77177]
 ├── b
-│   └── rapib.doc.zip [c3de7cabfe753ddc016dc855d6dcd2014991e14223e9afad853fed9d54e48330]
+│   ├── rapib.doc [6e9fcee438dd3cba224ad0cacc9535d0ef76b40b2b9c73a64ac39824d39e057b]
 ├── b1
-│   └── wci05613.dot.zip [1c7cfd6216060d815b1f06764586c7166323aef70c5e47eec924e0621ead76cb]
+│   ├── wci05613.dot [7161a5aed3c623bc69c95a821143115f06234f3062aa8ceac7fa2899ad9ee1db]
 ├── b2
-│   └── wci05623.dot.zip [0e46c886d00f90cc183fdd7b5fee5db81e4190a6ba940504a87e2f35c63c9dda]
+│   ├── wci05623.dot [cca0fb96d1ae4d9ec0559136eb11d95aaf87f662c171299e75a47099669d4883]
 ├── c
-│   ├── rapi-c_2.doc.zip [67e94ae1d5027982051f53f59f53666de1a6dbc965d08c33fd68e5ce6af20a57]
-│   └── rapi-c_4.dot.zip [be97eb590aefd4da0a637592b2316e77f9bcf44f154e88299f55c4fdb79c213d]
+│   ├── rapi-c_2.doc [37d6a20e1a4ce3a8dc2800946c31c1ae8b3df7b742242ecc066605433d8da944]
+│   ├── rapi-c_4.dot [f69f275160aa9d84cde3f41868ea0daeafe5b150624a6d975326ba7591f6aedb]
 ├── c1
-│   └── rap-c1_2.doc.zip [d7ecefd7bc14124c9624e49b3cf4ee78392a524ca5e0ab326ecce2bcb32896dd]
+│   ├── rap-c1_2.doc [0321aa6467e6e6ef4295a175e4ef4fe6933d9e3782bc164d43d14cb6291a9f07]
 ├── d
-│   ├── rapi-d_2.doc.zip [f00f0b00df0ed50ff352db5a3d277965ecd16ed7d3183ef905e1b61cacb95136]
-│   └── rapi-d_4.dot.zip [32e5e17dbab775077eb280aadecd8ab6ef043cd58494a6af7ca91e18282aa0c7]
+│   ├── rapi-d_2.doc [e94a472152f3859e2896252a5a8e97a3468bbf298ae69bef572337737f43a785]
+│   ├── rapi-d_4.dot [f46848f318308fa22e27e4bf6099d08f69c32ff12eae1b251ecf077bb3bdcaad]
 ├── d1
-│   └── rap-d1_2.doc.zip [4bce785389bb9805cfce10465ced747687f64f7649d012b49f0dd3ee5a42e96a]
+│   ├── rap-d1_2.doc [e7d58544de80d6fdbc492553e2769c68bb8f47cff6901e0ac24e316656d1c9fe]
 ├── e2
-│   ├── rap-e2_2.doc.zip [9309ee4472d2c116f325b7ee8e96050dad7776b69e7194c317890270be4ca231]
-│   └── rap-e2_4.dot.zip [e6b5426fe7634c2b4d5cac80469f38b75d1c77f68f2be498466d6f71d948f693]
+│   ├── rap-e2_2.doc [a42d562ca5816e1d6a5444501a555b380e2c710893c40ecb031c90fc8347859d]
+│   ├── rap-e2_4.dot [29696a12f93eb6f1feb8504b4e423ceef8e745b24fcaa734b88cc76e517f69e7]
 ├── f
-│   ├── rapi-f_2.doc.zip [4716a70f1276a11e43c4f5a2defb1f4eb50e47580a93ef294765b1f799dc2aa1]
-│   └── rapi-f_4.dot.zip [597030a790f26e2acb84a592e86a1f2f97ad1ed6ccd7a4309029349d8e795c5a]
+│   ├── rapi-f_2.doc [f535947e980868d2683f6f3962c832a21a80d84989990729e056fb10e688a218]
+│   ├── rapi-f_4.dot [8778e99e1fb9731c4eb898458ec381e1e88cf2def364eb8cf6fb893e20a888e3]
 ├── f1
-│   └── rap-f1_2.doc.zip [8644009c3257aef566c5eaceba0eb1dd0529a75138bdec742903f48d9872c54f]
+│   ├── rap-f1_2.doc [faa38dda95b6d15da81b046e8d50be68ba1ea42732e72ccb40be9d3ac69bdbd4]
 ├── f2
-│   └── rap-f2_2.doc.zip [1c25748c0fd41f9866e7f76731ecab6ac0f5bc1d67a52a689143491bd3260c37]
+│   ├── rap-f2_2.doc [561ee8636e9b18e55f83e28bfc8851140a03c2f902477ed898e5785fa5333e66]
 ├── g
-│   ├── rapi-g_2.doc.zip [2c59fe315e09c7545406c84fe85b4b86ed524a3b1cbcdbdacd0ed4c29394a3ab]
-│   └── rapi-g_4.dot.zip [677447b587990d76da3b828ce154949cc84c408ceeec2e924586259aacba16ac]
+│   ├── rapi-g_2.doc [d6e30f94100302a78d09ec804bee77e3737699ef1bc6eae72da309e476ac1e2b]
+│   ├── rapi-g_4.dot [37dd37940eb8f3406ae1d29f798a2f5c9cecf861cd21d91c9207be3cd17fe406]
 ├── g1
-│   └── rap-g1_2.doc.zip [9790d1b1747be92e61be51ab611524dcbe2da58ab99bd40154dd16ac627e7da1]
+│   ├── rap-g1_2.doc [00a9cc08a55f30f035759889f9da45ed2898c9b1841d40b3cc549516ed9a6d38]
 ├── h2
-│   ├── rap-h2_2.doc.zip [60997b9721f1e40fa44bf7dc84fea6fb7f2c9b319ce69fcab3b5dee4fd97b06a]
-│   └── rap-h2_4.dot.zip [bf47cba258d566e4dbe6bb820d233d4d56c9caf43cf56dde3c25d098babe0e34]
+│   ├── rap-h2_2.doc [f6985087190a56619ad024292235a9b1f1f3dfd05506585b2810d2f56bb7acf1]
+│   ├── rap-h2_4.dot [be2aa40a742f2e79e7ac1471a5937626757ca9411f844f59e2121a18ccf27ad6]
 ├── i
-│   ├── rapi-i_2.doc.zip [1a00519b6ad18b8daed5a6f92bb9fddab2e26f80b6efa35440f876d49af43ca8]
-│   └── rapi-i_4.dot.zip [be248fbbebcf6f052cbac7f47af75c3d8422c462d6775fa581578002453e380b]
+│   ├── rapi-i_2.doc [ed68daf821326f704283c70964fc2f1059010a1efb37a472b8264f99c0954c8b]
+│   ├── rapi-i_4.dot [039f091e0c65eb0de18270e4257554c4aa32903d86a8f8be0904bb81af10f327]
 ├── i1
-│   ├── rap-i1_2.doc.zip [854d451c89525f21f9b5158b916e912977ec22b9ad978e6614996013b4579548]
-│   └── rap-i1_4.dot.zip [a4e3da85dc2112919fa6b44da46f4f43dbbe4f55f93c87fdb931f32b845cea6e]
+│   ├── rap-i1_2.doc [7f70088e71a22de77c9e158b3b36985fce780783c3bab09e2d6e33f05de961f9]
+│   ├── rap-i1_4.dot [4693afc83f003957ac5db1e36f1d13f1175cde3f9c8622ba216447eee745a7cb]
 ├── i2
-│   ├── rap-i2_2.doc.zip [788e0a56f8b252514a2c8457afc03cdb7c2dd4348cba4391ae0972e49ec9e3f9]
-│   └── rap-i2_4.dot.zip [a4c8c793193d91c2cf32d6a1ef28146e69f770c1404e3363783ac02de1f6399f]
+│   ├── rap-i2_2.doc [e97dd52c16493584cb3d5c80869e5ca75b954b0e9c4cf06b27db35bdcb4ae5a3]
+│   ├── rap-i2_4.dot [5dbd746290b17168f9fbf1d59319d8db0d010d6c413f0de1466d837df4230657]
 ├── k
-│   ├── rapi-k_2.doc.zip [ccf6bf22f0408721ee482494bfe21b6b456e5d41bcde6ff9f15ddefbd8a4ceb7]
-│   └── rapi-k_4.dot.zip [812a62f4ce6831b8919f7f3c4e3bce23378a23908f1361af847c1bcdc09bfbf1]
+│   ├── rapi-k_2.doc [d743e57716edb7c5d56178351e2d4c0f66fc774285afbc745de1155a410725f5]
+│   ├── rapi-k_4.dot [852b1e402664f9692f4ec4ccec419f0296796bcd6fa989b49fad0ffdacef4338]
 ├── l
-│   ├── rapi-l_2.doc.zip [b66608259dbbbff2fd22b07e022f6a2da4672f29ece0210c91a54f46a388b7ae]
-│   └── rapi-l_4.dot.zip [d67409adf95bee25a77f7319420eec48382a03b4f05f65dc0c483191d866499e]
+│   ├── rapi-l_2.doc [677ab5b949d9f97b657537a8c77eaaa39555affa33be2d154a5bffd77eec4892]
+│   ├── rapi-l_4.dot [dc1dad9b6571d0de9156443a99dea3d848833b6e334abcd28ccd252eeb54f074]
 ├── l1
-│   ├── rap-l1_2.doc.zip [ee422795c2b93c6b0f185d19031bf7e416897103fdca656d52724f9b13f78808]
-│   └── rap-l1_4.dot.zip [252e7b8017995c505d10c7914bb4770b28be66288a9a9c76a7dbafd9e2a70811]
+│   ├── rap-l1_2.doc [a9e0cc924f6d158999dde5e009f2d9ee74346d5ff143e3e9654f4b80dd5c1d72]
+│   ├── rap-l1_4.dot [6dd70f65925c9176802e39eb7ce491817e56d4473fbab320216fa65eb3899379]
 ├── l2
-│   ├── rap-l2_2.doc.zip [007bec6aa7dea49c80ebc29a1c585211b1494bcc9cf481afcd564a3d3132a038]
-│   └── rap-l2_4.dot.zip [f4ec9270ab07e01fe300bfb56b8a869bccf2c884fb9136d918ae739cdb6115f5]
+│   ├── rap-l2_2.doc [8ec84f8a9b4be599dbc7f700982cd4c0034a7857527ed7c74310d445d957c46b]
+│   ├── rap-l2_4.dot [3d6f8b79fd7a7f13138846c82fc37df8dc098e79187b39d2e9a27509725f3aab]
 ├── n
-│   ├── rapi-n_2.doc.zip [3fdc2a264133dab569ab2511f7dd624ad45c03183532c02096739d5cd039593c]
-│   └── rapi-n_4.dot.zip [ec2fe8ed26674e0457ba7a15d4cb8aae120d1b6f5f40d6b1104a5b3230c40e9a]
+│   ├── rapi-n_2.doc [c447594b4e6dc72efe58464a51c7ffb4cfdd03bb68d67915ff4662e122c5df2d]
+│   ├── rapi-n_4.dot [8b3d9f68d98d2e2b72c21965121a1646841836e17b5ce6d19f624e34a995f88c]
 ├── n1
-│   ├── rap-n1_2.doc.zip [198e44301f6d50b91f5c74159f19977e3eab089c54f8c289633cdd48abad3584]
-│   └── rap-n1_4.dot.zip [e51870f22fd64337dc66361ab8c4a51cc660a0cf2e69ce5eadb4a8871e3014ed]
+│   ├── rap-n1_2.doc [7da28857f01d1f601458c7fd627b0f4eb127bdec617e532a1f0602faa9e00654]
+│   ├── rap-n1_4.dot [eee7c774d737c00fe89f35de902884918e0f1e53bc2b439719744a9bc38a9e05]
 ├── n2
-│   ├── rap-n2_2.doc.zip [856dacff2c04e28cca0a49de1a7ff6e4cc8e6de0683a72e1a97c4577b0610596]
-│   └── rap-n2_4.dot.zip [6ab6d53b0ea9fa72e9dd00c99b86036885e16de8d168548a77670b14f1067ea7]
+│   ├── rap-n2_2.doc [19b8c3aab38570af3d90310ef7dd0efdb57636705212f477fad0fdd92305326c]
+│   ├── rap-n2_4.dot [41fb16fb65162e45764df010cccce3634fb31c714260ce2ed05f5771f0e1c8ed]
 └── s2
-    ├── rap-s2_2.doc.zip [57f63fab44dfc308a29d12485043a2cce53c85f36222bb84fdeeaa29b1f62867]
-    └── rap-s2_4.dot.zip [24a7d508b64c04afb80e938998f159978e18857de3115ae03908b53ee2123a8f]
+    ├── rap-s2_2.doc [a6f64db4f9934f7cd04f4230459a33dd0011092f206ae3180d8d94dd0d891dcd]
+    ├── rap-s2_4.dot [38928176224066419ba60547604398fdcb052ae93c1ed8818ffab45017806a94]
 ```

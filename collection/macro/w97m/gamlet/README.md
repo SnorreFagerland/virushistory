@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   └── virus.msword.gamlet.zip [ac96199c260faea750b416fe0007b2f045230d3c2ab9cb98c07302a96268e3d6]
+│   ├── virus.msword.gamlet [83efd8e0b42a9ca044edffcd7288b2119ad86b04cf271e331d280c8ba8aaa766]
 ├── b
-│   └── virus.msword.gamlet.b.zip [80e360b7f38c108d703bb631da9b67da76654818ec0601f238198cbf725a12a8]
+│   ├── virus.msword.gamlet.b [894ef0e293a4b6294dc18610ed6228ee2ac4b0465f29c0914c52d0aede36cdb5]
 ├── c
-│   └── virus.msword.gamlet.c.zip [5078889a5f3b0b5d5029fbbace68d6040cb1641dc367f4f22d3efc8ebe7cf587]
+│   ├── virus.msword.gamlet.c [303785fa1ffb8c0b3313c33ca14da4e31b994cc5ad46b1b1bc56cef8b291dde4]
 └── d
-    └── virus.msword.gamlet.d.zip [bb6beb234665c7fa476d1337dfab31cc1da7306ecb78cf5901808f6773a4aeda]
+    ├── virus.msword.gamlet.d [016d509ee68e2d97a26254eab5ef4fe285520e4709c5b4921be273fc93042d52]
 ```

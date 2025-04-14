@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.techno.zip [1a7b72735b05ade8a4cd525b85fce3fb19df97adcde4a733ccff667f1b26d85d]
+│   ├── virus.msword.techno [4253f9096f88d3f72fa1a006362d6b8685011cec772d835e5c0d5d7bc00fda3b]
 └── b
-    └── virus.msword.techno.b.zip [eba1909ed430cdcbae96fa34e8283d9ca0b62facc82e7a0862d541509a432a11]
+    ├── virus.msword.techno.b [29947959ba40c14d326da1e42111bb8ab3e3cab9627c7446dd3ba1429100db51]
 ```

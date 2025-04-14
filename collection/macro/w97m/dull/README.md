@@ -3,12 +3,12 @@
 
 ```
 ├── a
-│   └── virus.msword.sundula.zip [a4496d30d46b5b775e3b0e45732441aff88f47236538a5e4c35a7fa4f80c070b]
+│   ├── virus.msword.sundula [ce0e74a32a0feaeff6c32e1f5c0bfa462c4d65720ab4f97acc7236fff7132ab6]
 ├── b
-│   └── dull_b.do.zip [2a9f79c1b38b034a179323934f02352d83472bfd1b66e8da9b0926e37e7dabc4]
+│   ├── dull_b.do [9361d93ad11afd6b9bca92ea2baa7efaf22ac5ff1e5af69efcfada955682423a]
 ├── c
-│   ├── dull_c-001.do.zip [980ddf9e8394bebfbc84e55f5776db439a46a40575ec33a89ead4d23fe2216b4]
-│   └── dull_c.do.zip [384a052f0cc50fd48152f53f11098ec6b99299774de19a8093f33d2082f27873]
+│   ├── dull_c-001.do [9cec703ee8317df68f4a375620e8945978d8dc6059db811a995be8f6fb9b2f4d]
+│   ├── dull_c.do [9550a93da5ab1908ddc1e51955628abcfdee4c3c770ef31fa0ac70c9c58b07ca]
 └── d
-    └── virus.msword.sundula.b.zip [56054768ab28308765fde008b433f5af9c8e8c1fa251ad53e747f05f1ac18ae8]
+    ├── virus.msword.sundula.b [6b1f08e81361d8cbd3857b77f4a243ab76f9631be60cd3d33a023e2e5511cfb8]
 ```

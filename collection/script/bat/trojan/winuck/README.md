@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── winfuck.vat.zip [1260af47d78aaba1cedf4ad539a80d78994402bbb118a0b7e2ca77c4c76b4077]
+    ├── winfuck.vat [56a8c748cd9842ee952ccb711e86fb1ba874a0ce2230563c07ee92ec2a0efb56]
 ```

@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.smallv.e.zip [fdf43d6db44270c7b8b128924d44608c3ba8e74b8bc8e3762f4ccf3e60660437]
+│   ├── virus.msword.smallv.e [83f9f7ba1b456c6a319b6a5b6a26b17cbf7bb32cd3d6dd3106978d847d424f24]
 └── b
-    └── virus.msword.smallv.f.zip [686fd76df3a4e2b41b003cc69d0413e20b6aeeee00954e08c29fe4123b88c186]
+    ├── virus.msword.smallv.f [645cba3c734231de7b511cfa707b2bd00128ef2d30f73899def934daa1318cda]
 ```

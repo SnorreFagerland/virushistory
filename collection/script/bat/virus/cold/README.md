@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.bat.cold.b.zip [403f5aae845a506d12212fd9f8f1d1068d68b4c5c182db1ab1c367fc2bc6b29c]
+    ├── virus.bat.cold.b [1a87ab8ea89c25959e1fd31c3659cd010d5fc942a36905418c0559a6cda8fc01]
 ```

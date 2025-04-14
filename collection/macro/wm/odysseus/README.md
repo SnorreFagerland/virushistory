@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.odysseus.a.zip [3b2058f29bf649b8c34eda1325f6cbd21bf4984df9771f38ffe30d7005ea1b53]
+    ├── virus.msword.odysseus.a [543302e05bd278034368dd44d72754cf80c49388ed1b54dd9a86496ff4a00c79]
 ```

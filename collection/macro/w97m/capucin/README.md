@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.capucin.zip [6d522f57e9968f041103254c7bfbe51f990a785f5d4fbe7ebf0b30c209996cdb]
+    ├── virus.msword.capucin [eefea928ce6849cd47983b69fa314c266de8b0fd152b85bd873ae783eff0b79f]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── cats_a.do.zip [8d0b403ab0b22d99168dd3de8db6876f53bbdc60163238d210b1614a6f109702]
+    ├── cats_a.do [55e36ca24a115db7f32c61bafd5d08a5e0b25aa2965a3f1c2625c47008bf916f]
 ```

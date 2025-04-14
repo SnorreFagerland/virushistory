@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msoffice.snack.zip [e9d40adf158b4e213a99beef40928455ad89fd11892c92227e1d64d2e76d6f56]
+│   ├── virus.msoffice.snack [c07fba81f2881d59bbbe1dc85ed8d9744a228c9447def594d486d112cc0d0eec]
 └── b
-    └── virus.msoffice.snack.b.zip [1ebb93a5a4e9e285c91d877b0fc71dae8704ca1f2ab3760b01e3cb56da9cea4a]
+    ├── virus.msoffice.snack.b [48ba40d9b1f45d07f1ed96d1d78f8e9250395d502d574dcc123aea61a18be3a4]
 ```

@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.titasic.o.zip [9c8af78d7e9fb37e5b0c46fb37710e87edbba608534619a8978dece0312e52ed]
+│   ├── virus.msword.titasic.o [4a9ee5fcf882fd2d27aba9a6d758e33421051154af3b07d8e83126b86ef97496]
 ├── b
-│   └── virus.msword.funky.b.zip [d4cab7109b97d093f9a970d7de728dcaa68fe25ed264cd59a6d136514df7753c]
+│   ├── virus.msword.funky.b [b4d1cdd4ba78554d6f0917e23261a5887ebd78082c8a07b34687aee92c376d42]
 └── c
-    └── virus.msword.marker.kh.zip [d0793a82120880c1b1442cb462d3a901a5ba51f8a5ed6bda23b8c1ee15dd6205]
+    ├── virus.msword.marker.kh [78b198ca6b8565e0dc01dc72745de96afa5883e8f2cf0b9a006e4349069d4267]
 ```

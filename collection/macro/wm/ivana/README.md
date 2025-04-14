@@ -3,7 +3,7 @@
 
 ```
 ├── e
-│   └── virus.msword.ivana.zip [837bc43c4c5ad2845871f1d3b46564ee32a63c0c986cedc719dd628c71c249fa]
+│   ├── virus.msword.ivana [7049e9ef9f9f56387236a25f5283ff867e2ac6037e19473b14b1e1c479d9c51f]
 └── f
-    └── virus.msword.ivana.b.zip [4636932f75b07ad071c3d1eb157216375c5259d683a9263a383e538ba9c33bf4]
+    ├── virus.msword.ivana.b [45ff0934efdcad61192891b90163e8e5577f259560b4d32d3e75c27d80cd96a0]
 ```

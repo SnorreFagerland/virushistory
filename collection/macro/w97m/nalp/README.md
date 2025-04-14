@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.plant.zip [d97d4e3cb5706021e5ec50854e3191a020a9464359e1ba8a99b5a4f66b462cb7]
+    ├── virus.msword.plant [368db27848a28679b9aa32a46cc231b8678b1e93e7947d59507e7cec7e57658e]
 ```

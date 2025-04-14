@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   └── countten.doc.zip [9ec7ee37c1f358d5b6c61cf4177753dac196f0775cc781d2d1a875054c08dc49]
+│   ├── countten.doc [236b0e433a9d516d652263f450f1dc1b1373c91d317959f9790c06d02df3cb2e]
 ├── b
-│   ├── cnt10b_2.doc.zip [f0a7fe828c02a349e0cd6e49fa502f3250200fc2d958fc791513d7aab432bf8c]
-│   └── cnt10b_4.dot.zip [4165404b0e032a56948aed4ace8380bb5acaea5f9678f1d891c17f7020dc67d8]
+│   ├── cnt10b_2.doc [07bf3ae6724e7874f65ac1a877448a48991e50c63c399d8768a99d525d3ac1cb]
+│   ├── cnt10b_4.dot [6048dfeae7e839bc947ef6abc3585e85a39bfb95eceef0f78b38dd6eae617f1f]
 └── e
-    ├── savecntb.doc.zip [fe0f4d8523e6fab33a80adea55234f1067f7da638271d6138ddb0f35228b3191]
-    └── savecntb.dot.zip [606680c486cbd7c3a05ba9cb88eb3a6dfcb044ce10bf4ab51696b9a9387c669d]
+    ├── savecntb.doc [3f3a1eaa859780b9ffec75bbb9b3f03e328b371d72dfb3c7baade9304825e89d]
+    ├── savecntb.dot [8ad8bcdadaaa3fdd17118c037d7c8715f35951d6134eff3101fc7b9d2788cf8f]
 ```

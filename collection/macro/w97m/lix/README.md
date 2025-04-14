@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.lix.a.zip [a0c3fc4707bd45e1d6268360c8bdc3c5a39f174acd554dfb050bea25f94fab13]
+    ├── virus.msword.lix.a [d196dcd13d8ea1fde17f4eba53c9a06662af7f569d7a4a875cda192c2a83c63a]
 ```

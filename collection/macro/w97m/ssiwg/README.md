@@ -3,7 +3,7 @@
 
 ```
 ├── c
-│   └── virus.msword.summer.c.zip [baf5a45af4d7b725dc427d9292b80e570578b2b2f643d90209caaf8d96eeba54]
+│   ├── virus.msword.summer.c [8d9f23f78f02823fb68555f0d4d8db259e77f4a5cc87166513950f306c9559cb]
 └── d
-    └── virus.msword.summer.d.zip [35aa1225017231bc617a9b2a069dbcec6ea080f360b30c5a3b347dd5c3d55cfb]
+    ├── virus.msword.summer.d [b5b6a36ab15a908c889b66be6a953d0f11a225762d6f6dc1ace8f043fe11d196]
 ```

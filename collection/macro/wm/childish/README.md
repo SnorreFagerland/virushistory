@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── childish.doc.zip [ce4d1986e80dc4aa108ca774e1ef282488a6357349e624945bb3cba094f2cb02]
-    └── childish.dot.zip [ba9fa2ff2dc65870a837611d6cbc08faebea6b60854594aaa5f7e33be5dbb26e]
+    ├── childish.doc [c7948b7723c8f828bded28db033f2477c94e0287594f7b78717f30d4559d7c2c]
+    ├── childish.dot [b39bbb46fd1a7fc8636da4e81145088d2167721ce7cdbe3bfb611e6b2933263b]
 ```

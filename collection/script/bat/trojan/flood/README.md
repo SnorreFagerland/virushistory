@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.floda.zip [b03b720cd018f2326aad71f14919dbc538d3f7dfa4acfe2b6b795cf70d068cb9]
+    ├── trojan.bat.floda [27483fcbd40751b83f0655fe534099f04c58c69d5b4ca927642e1ceccd9b6b48]
 ```

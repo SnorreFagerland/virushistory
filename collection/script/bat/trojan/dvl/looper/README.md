@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   └── trojan.bat.dvl.looper.c.zip [5b2e19224bbaca2f37602ce06a1b62f9ae310f5b7366d8201a48e2ba2ae87870]
+│   ├── trojan.bat.dvl.looper.c [8f28dfb0ec09702381cf366e340e73e1b95ecf59fc1fff8fe88afead413591f8]
 ├── b
-│   └── trojan.bat.dvl.looper.e.txt.zip [face057c69bec3d2b54ce5b06deb81416662589ea0f417ff448d081371322250]
+│   ├── trojan.bat.dvl.looper.e.txt [2e1987ed9354b9b4939b576b079abed8c57a736b434d561f499b81eb1e4c8941]
 ├── c
-│   └── trojan.bat.dvl.looper.d.zip [f64245a9231559404d8b8c13937fd3555f7b8926f079ce1c1cdedfbff2d2350a]
+│   ├── trojan.bat.dvl.looper.d [2a84759c87df851bd84155954a7d778545df1e3f9db8ed8d3519778e6d576b5a]
 ├── f
-│   └── trojan.bat.dvl.looper.f.zip [b9d775bd9d774cb63fe9c6bfed24c496a6ee2cb52175cc6e748d9f92983b1381]
+│   ├── trojan.bat.dvl.looper.f [21cfae49a368d21877b7e0de510e192435865ed501b972c8bbb89e9a8279c159]
 └── g
-    └── trojan.bat.dvl.looper.g.zip [2757708fa529cd0988193cc204ae954b27831e01cb9bbf06cac3034429781e5e]
+    ├── trojan.bat.dvl.looper.g [494be762399d058d11583313dfce34ea00917873bb23b8b021ccb3de4e8b3c9a]
 ```

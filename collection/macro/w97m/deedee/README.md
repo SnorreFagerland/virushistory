@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.deedee.zip [2d261a8dc06a01c5faa426bd85238a92e8fabe68db093684c6b9a612b4d010f4]
+│   ├── virus.msword.deedee [9ec0dc0726e1e146d7b2ef7ca271c0b151876aceb666567b7e731d75f794389c]
 └── c
-    └── virus.msword.pexas.b.zip [48f5795ffbae960bd5e4bce08fe2d6f2e14e63ab102a23b97efabfd13b793f98]
+    ├── virus.msword.pexas.b [d19ee9b32b129b6248c0833ecfd48f37af428abb818e4c22d491ecbd4a9b4f9c]
 ```

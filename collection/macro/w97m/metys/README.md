@@ -3,35 +3,35 @@
 
 ```
 ├── a
-│   └── virus.msword.metys.zip [ff6cda1d6457e78662cbf813ced76a169947b7336593ef8144e36ca3e700bd68]
+│   ├── virus.msword.metys [2ec41557a9840d86545556d0e2bc25f502e3fd353eef48ef8442ee1e12d22e8e]
 ├── b
-│   └── metys_b.do.zip [63171226307d87458a9c81314ce7b446c223b05922a4259dc2c48467d233b526]
+│   ├── metys_b.do [812b6c0815d8658127d8cf49fb97a7e0067b440b14dd0d3daeccfa2110319623]
 ├── c
-│   └── virus.msword.metys.c.zip [8a43f8a4ba6e1df486764ec939f4ff771a81e115ed01cd3f370d1e4a215c3317]
+│   ├── virus.msword.metys.c [fbd3f6c00a863ad56f782637355f610119ed127385a6a6e1987db802cf17606a]
 ├── f
-│   └── metys_f.do.zip [4406821c650d2cb52692c6a0d4d831db084fc9ff988df8aee330df870a4e35a1]
+│   ├── metys_f.do [cbbe759c3f3f831e6445c8bec7af5c3da641ebafda6ef88a0033371fc68d0a64]
 ├── g
-│   ├── metys_g-001.do.zip [5856c7a09dc3898a3d7e8334be517396e3b670d889ace8cf4b65ff67a73beec2]
-│   └── metys_g.do.zip [85b24047fe9f400e48b1d2e7179370660879798333fb795ff44586969da09fa0]
+│   ├── metys_g-001.do [97e962f3b3df468920347697287d3d857d0f6d70990db2eac4cd963e603f1b08]
+│   ├── metys_g.do [288bbf1664a58a2139a625929367b759b3cf8fe7f7be845e9172cff2fd09050c]
 ├── h
-│   └── metys_h.do.zip [1fcddc6cb7d676b88f7546d42d2e9d1a7a9d51a28967e88ccc2319c7021fc5c2]
+│   ├── metys_h.do [3360d45366982115f6d4aff93d45fd1e4d77b0a9eee86dbe7bcb9094ed41ed5c]
 ├── i
-│   └── virus.msword.metys.f.zip [b1d708bea47366ef4e3de9113c71ecf965d7391f329baf81513522fb1d1f03a8]
+│   ├── virus.msword.metys.f [85571165137734a5d74a02f14eb2aaddf8555f974422b7489a70df7ed39a0901]
 ├── j
-│   └── virus.msword.metys.j.zip [cfaa4903791508ed34ce7d1373f179374207c316003593d3a7cd9d2df52f5362]
+│   ├── virus.msword.metys.j [bec113ca868e9ae486eaa20bebe5aa7c3c101eee149283eabb99e1da9615f66f]
 ├── k
-│   └── metys_k.do.zip [4d364939e242d586def1ddc943d6f2edabcb8cd75af01ee172beaff858869561]
+│   ├── metys_k.do [8d283cf31147ea7a2196bd373eb0c1c55ab215bd7f6d69adfc4fffaa4d805dad]
 ├── o
-│   ├── metys_o-001.do.zip [9c45cdeac108659b1c52b2e218e7d45f6ca197f537b4f1d3ad070ae211a85ea9]
-│   └── metys_o.do.zip [5c1287590ac9a13da725cbee97fa54d107799ba21cb7ac0bf8852d1f4f8e0e12]
+│   ├── metys_o-001.do [f428514a956a27884020e27cb88fb25faffe4a02870ae7b87bbfb062cb5a7957]
+│   ├── metys_o.do [29bf09d504f3ced10145974317335241a4b8254e5e0888545651fc87a6883c7d]
 ├── p
-│   ├── metys_p-001.do.zip [89bd47d101d15086295e2838ac7fe6aece1e787a4af29f32d85d7e20e2b48fad]
-│   └── metys_p.do.zip [31a32ac715d978d167607bf9ca9cf5fe7d44ea4995774f08299206c29eb8da89]
+│   ├── metys_p-001.do [ecd76ff7228b9134876cbcbc4563359b7da237cf8e0f20e59770d50d838da196]
+│   ├── metys_p.do [1cce4f68beb6e965da617ca80b2d56be3ebb41c27ac25f748ff091b99615eddd]
 ├── q
-│   └── virus.msword.metys.m.zip [5af5f45ead49f600b9da8fde7b53b4bb54bf064ce55093b06018a9a72c61445e]
+│   ├── virus.msword.metys.m [2993339c56dedf7d87aa28f77bfade5ba7a13867a96b6e8ae1be9dd431b2fb6f]
 ├── r
-│   └── metys_r.do.zip [3c3106532f7d01fef6495dbe65f3c1988a216ef91e164e04c2122e716b699411]
+│   ├── metys_r.do [6dcd7ea28e3d864193fd51ab0474d5c33b9bfdb7a4ad4009ca90f8e321d3ce0c]
 └── s
-    ├── metys_s-001.do.zip [c24e0a2aca99c9285548168c101de1490d49a1643de87f66348b12d61d1d7175]
-    └── metys_s.do.zip [39755355aa6a4b54f4cd1bb40428647f94ca278d73fe499cacd13cd854bdbeb8]
+    ├── metys_s-001.do [c2d7d714aeaece1304f50fab0b6eb2fcf4457cb7335995bb7a7b7747f4bacc62]
+    ├── metys_s.do [5b0b39b1eed2137247329a8c6f83d345f8313c191126dacee1533a982b889d70]
 ```

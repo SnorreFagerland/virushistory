@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── angel-a.doc.zip [992bdcc2620706bafdedd1457fd0b8939af481a3ce56f1965ba90317be0ce50e]
-    └── angel-a.dot.zip [73a84ddd292fe2e7b67d3638a7c397ab28042052abee34611815c33a230b234f]
+    ├── angel-a.doc [59fa4d3ec0af8680b1f450c06c2b957467020f54ea3413cf4aac7ad997ef9201]
+    ├── angel-a.dot [20c4d0a68e415da30ed1f333982e04ccdaa89d10d710e1f4c56332749e2dcecb]
 ```

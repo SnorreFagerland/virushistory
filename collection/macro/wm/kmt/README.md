@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.kmt.zip [bf2681df60be4e4039302129662871a97d0405875b1f914e2d4592c4053ba775]
+    ├── virus.msword.kmt [9070a22dba29cbe14c59b54fc7890a59948b0876b944b427087583390ca9624d]
 ```

@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   └── virus.msword.dig.zip [d4255f3ce005c73e4eb4ca38b651e840f1b8581c62648dd7bd651a847fe0c14e]
+│   ├── virus.msword.dig [ace3c1dcf175ce86a6e5aa80f2382af5b252fab9657146bf37bef506b73869ce]
 ├── b
-│   └── virus.msword.dig.b.zip [78175ef3a87b6611928f7f388b44ad347dc5451ed46a101179ebeb3fd3115e1c]
+│   ├── virus.msword.dig.b [b1a43abba3ed4864f01c22c0199d8067af396a904f424e73efff63620eb28375]
 ├── d
-│   └── virus.msword.vegas.a.zip [309430da702ff8ca9cbbc0ed9dee2615f5164883c7160e73c11fb1e4d41f3458]
+│   ├── virus.msword.vegas.a [04e0c8252dfd06a7d671a6041cbc3051b23238cadb6353f2bd07d6fe2d6644e9]
 ├── e
-│   └── virus.msword.dig.e.zip [9e84be8445fbaa5c0294c2a2061c623d8d4fa345619d810cfdb1ab77ccd54f71]
+│   ├── virus.msword.dig.e [b62fbe50c1eb22d28e151df724c2c1c54efcc40b1b2ad7544f19981c1e6cf667]
 ├── g
-│   └── virus.msword.solder.a.zip [e62cbc159baeb6d66f377972ff4df07cd85a9fcf70e3e239c61b4c1dcb4ac63d]
+│   ├── virus.msword.solder.a [59567ebcb922e9e038625fb052a7398a14241ff0809d5d4b31fad06f94fc7108]
 ├── i
-│   └── virus.msword.vegas.c.zip [102ed58dc06f02d03fd12b85a8344cacdeaadfa19b91f157eb0d911580e54e55]
+│   ├── virus.msword.vegas.c [d823149a73910a11a72a58e04152af3f71ef96cad81271503de2a37587193b57]
 └── l
-    └── dig_l.do.zip [ae3812199da508553706f7382b19864d28c98793395914a381fc9d295d8fddca]
+    ├── dig_l.do [74636fba7c3137230a087e86b68a2c4dd1489f7915b85dec4bffb1db93eb3a2c]
 ```

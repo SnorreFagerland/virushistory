@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── ramses-a.doc.zip [9872358652a659e30787d4404190185a99e15bc069d5a8a6a64003a61538c32a]
-    └── ramses-a.dot.zip [d8ef0450c71fec14f9e897aa67415769aa636e4c246da92cd4586263e9201885]
+    ├── ramses-a.doc [f6e053822b1ed5b05db4c9f9d32a6aaabff2d33f8c827b33a1ead6b32bf72c0d]
+    ├── ramses-a.dot [055b0140a2c4ae27e98f39a073537950927cb7b7f7a3265d524e94faceeb5ad8]
 ```

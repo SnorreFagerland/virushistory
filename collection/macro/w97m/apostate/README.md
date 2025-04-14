@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.apostate.zip [e5487941b3454263f0c55a78763dba82214c665da673278ee63c740e2e9f9bda]
+    ├── virus.msword.apostate [76ad83206ece874d302dcfc14b69a8b201eec703fec76788b5e4d67d2a528fd1]
 ```

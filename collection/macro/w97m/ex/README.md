@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── ex_a.do.zip [95f01099fab03742166b2c5d0f362382cc05a8a50723cf2bf3819deb5a7b314a]
+│   ├── ex_a.do [1502ef50add7afa27116af01972e28a709aa4eac383bee559ccdeadc05582e86]
 └── b
-    └── virus.msword.ex.zip [2e60eb6e8f2f213d8b8c6abb14946e61cf1f6802a1c7c863bd6f85ef2ba7d82d]
+    ├── virus.msword.ex [2f4e05aba86609b12b323aef1b605e5aa09e9f3e0df44114ae8d77d432e5ad5c]
 ```

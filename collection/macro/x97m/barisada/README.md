@@ -3,54 +3,54 @@
 
 ```
 ├── aa
-│   ├── barisada-001.xm.zip [fdd8e19070ee3aea990798632039e0af636de9211ffac306a46d9f21f9f45ee2]
-│   └── barisada.xm.zip [7b4cc8567f7ad7b11092f81672bf8f3eec071bed7c51009b720c9fe73283b160]
+│   ├── barisada-001.xm [a237fd44b26dcbf6d93ad31cde45bfd0df65c6e3e34010d5ef1c06ab495a2f01]
+│   ├── barisada.xm [2c214449685cd45885ca6f6fa91d1e2aa765d91631a1a1535e01bcc8d5358820]
 ├── ad
-│   └── virus.msexcel.barisada.w.zip [4dfa1c367093f979f0ff13038d9cd83626d0d12b0863783d32f5c17358ac262f]
+│   ├── virus.msexcel.barisada.w [d05dbd1626f1c708fd8d4453cea181435e3484cb39418d25b1f75aac29483015]
 ├── ae
-│   └── virus.msexcel.barisada.m.zip [3b5ca2cb0e98524c4274a6446e245c1bb3d43774ab0af51c050ddcefb1a0eb84]
+│   ├── virus.msexcel.barisada.m [540cfadcc5d1aa148045bc00e618cad183e23189ae74001c287dc2dd9b3c5032]
 ├── af
-│   ├── barisada.xm.zip [96786bdb0f98d2e76564fda2beb0a6f2a15bc9be85a3c534d442e705c6b166a6]
-│   └── virus.msexcel.barisada.g.zip [15b32a33186fe20936d68a40e8a40ed3e61e545efbb39973ef34a06f858c13a5]
+│   ├── barisada.xm [68106c2ff12c5b96e7913fdb55d75461ad786a56eb9e98a322621c12a5e45cd5]
+│   ├── virus.msexcel.barisada.g [ab3f5c97016601eaf02f857ca9ea1ad9fb9926d204fcfed1b6bfcb0adce3fc0d]
 ├── ag
-│   └── barisada.xm.zip [63dcd3f2bb3d21cd44155465afcf1853fcc6c3a2fea50e6b4e3f83395cddc8d6]
+│   ├── barisada.xm [289736023e22fe1fe71eebc46a50731e45b6002567e3bfaff73ec55e37dc8b46]
 ├── b
-│   ├── barisada-001.xm.zip [681bda304ebe5f8916e898785b22118f783b43069644cb025ef43d13ed8c2e42]
-│   ├── barisada-002.xm.zip [747aab869e54bf4232cc338db6e95ce6e76dcce20e44470f5881e80b1eb8653f]
-│   └── barisada.xm.zip [7392e842c085b3fc93809a4a35ca3836178dbd095a53e0341f1340fa6c3ebcff]
+│   ├── barisada-001.xm [83800aefc784751ec9a4cdbbda28cd714b63e0767a066ce16d76ce9ddec735cd]
+│   ├── barisada-002.xm [eef054a54c0046bdbc885e330a473ab63b9638dc0352ab780745b0f37afdfc16]
+│   ├── barisada.xm [7c86b3f040b901b25e64fa9edae3fe87a508e21340c36d83ba86943f66ca6a67]
 ├── c
-│   └── virus.msexcel.barisada.zip [8f720c6b05f42e31acbdb9e6ed1904fb073dfd2bf91a00bac48aa376f827dc17]
+│   ├── virus.msexcel.barisada [f78d7d96c95cf7d0d0762ff570bcfe16cc76373cfb27b866c27d7a2a3d3c477f]
 ├── d
-│   ├── barisada-001.xm.zip [eb92b7776235add5b818d32924344f389c7af9991e1b9a0b74e38b79793d85b1]
-│   └── barisada.xm.zip [793df668b675b291994d4aaf3ab3a54b64d6cff4d447c08378217b8ade71e754]
+│   ├── barisada-001.xm [ddd47fefd638a2895e7c0247451f1399390a788ed2d3e41af3b981ed41a8fa7e]
+│   ├── barisada.xm [a0e43cd72b296449cc09834a8f51e3091b7dbc72b05bdbbd1af62b16b61a63c0]
 ├── e
-│   └── barisada.xm.zip [35dd5bc40ade51076bd86d70285990e065e77b5724c23044b3bf8f37a747d427]
+│   ├── barisada.xm [0fccf9fd4ba1dd15efdc93a0f57ea851321f36a9e54f815f7cdd25fddbdfc4c4]
 ├── h
-│   └── barisada.xm.zip [74d7e2accdc050886a0c6e68642af1f50cd62079ae287c50c329f3e44bbc9207]
+│   ├── barisada.xm [3ee90243e8154e7f0785fd25a4103a027c6d653042c000802104c5dfd668c573]
 ├── i
-│   └── barisada.xm.zip [779bcb4eab1aad7acaed73d8b213cd5f71b28b7c55a7b54a9aaecb731642f41f]
+│   ├── barisada.xm [8c709542a2822863f2717799d0aafd4409683252e62069f32b22b21013458ca3]
 ├── j
-│   └── barisada.xm.zip [1ac9d5ebceebc91d5043cd7e2aacad652aae69518be12ff28a0ab393bf8c90d4]
+│   ├── barisada.xm [72788977bd660e21f16f17f0e9d315d6ec77ee4f17cf7714811f79ad7948c5fe]
 ├── k
-│   └── virus.msexcel.barisada.l.zip [d6da1df6c6bd6d45c4bd449e8f934393cf7b7def46de80bd02b0dde825bebc11]
+│   ├── virus.msexcel.barisada.l [be9419bad263f6f2b6df70acd59793c36a3f01d0dbd16e355d0372b40632dbd8]
 ├── m
-│   └── virus.msexcel.barisada.n.zip [00e7fc6ec5b2dd670edb4c497b6b1811b12bb3d340a27ea147840c375c129572]
+│   ├── virus.msexcel.barisada.n [ca84fb9ed93c2451aa00175ab1612f0ff852e32f15d08a32ed1083ca670528fc]
 ├── n
-│   └── virus.msexcel.barisada.o.zip [ff820619acaeae6ca04327c96efc9023ff668ce3cffbffaaa11355b2f8f46bdb]
+│   ├── virus.msexcel.barisada.o [af59294d4c4f245aacb8daf7a4b4a3c696b166e28a50d32cdca92e06ce1246e6]
 ├── p
-│   ├── barisada-001.xm.zip [519de625ea2ae69ad00a70502365b2c9ffa4a00f90074fe3887e70722e17e633]
-│   ├── barisada-002.xm.zip [829f33f4e2fdc11524cbbcad2305935d1df422880771ddcd0b7a8ce628568ff8]
-│   └── barisada.xm.zip [0197ee65817d8cec2b28e6bfed90d3618104d970525786e991edf226ce0e3f1f]
+│   ├── barisada-001.xm [2ced7fd0472441cd3fa01c200b9d8276aa7af146a02d15b512f5f328aafd3446]
+│   ├── barisada-002.xm [4d92161a1b99cc9ddb82b80ea0acfabd1db1a085df9ec71f323606c14f022a9e]
+│   ├── barisada.xm [1b641668dc57312d431900e9f1b7b6f400ca3b5ce78ecd9db4748cd017fe7f7d]
 ├── r
-│   └── virus.msexcel.barisada.r.zip [eee402c360f590098920c953b80331e81043ce4ec5f8c802d2e43853b7a0032f]
+│   ├── virus.msexcel.barisada.r [1142cd36f848c10c09a069e550f85c562951420088d7cfde4ef16f9515924975]
 ├── t
-│   └── virus.msexcel.barisada.s.zip [d15c0efb9355d1065e3ea9ed254906829584b6428b9ad49a453ad0c4ef6a564c]
+│   ├── virus.msexcel.barisada.s [bf247c081af518bf1f35054baf11d718a3d694471cb6eb7dca64b378cb00c956]
 ├── w
-│   ├── barisada-001.xm.zip [cdd989e205665489cd729faa7b08a67c4f288c5289cb3174c0c495f5825beeff]
-│   ├── barisada-002.xm.zip [231a9ac797e853517ab9673ee29b3aa849db210c264631c57f5a8f740c92e0c3]
-│   └── barisada.xm.zip [cc12e25b84abd69d46bd675343d65fec4eac507a2078becb63b01f8024d0d2b5]
+│   ├── barisada-001.xm [eeebe0c813d9493689a640e149dd401479a2a6805bf199e04739b89ff00de14d]
+│   ├── barisada-002.xm [a2545aa18d1bf35bfebf1c23cd6af9c59063d6122c46ad8df6cd6336cc4bad18]
+│   ├── barisada.xm [80ea8071aa8b81f998e2ff1b43e24d48d6956c6c12706a31a6694e0ad0b09236]
 ├── x
-│   └── virus.msexcel.barisada.t.zip [e933bf466a8f85599efbf1e09cf132f879cdecf6fcac25f5cd63c9dfd97aba74]
+│   ├── virus.msexcel.barisada.t [67bbd429debbad1fb11cddb5dde752fbafcb066a1c30f9f2a1cb3704ac2cd196]
 └── z
-    └── virus.msexcel.barisada.v.zip [f7f9cdceff067300b449d0b572ac9c90efa11d426dbd430080dc30054008f27c]
+    ├── virus.msexcel.barisada.v [ea70fd772848cdc164324668fa22073ef19eb12abb3b88314cc239d5102b26af]
 ```

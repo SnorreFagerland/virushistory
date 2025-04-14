@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   └── virus.msword.quaint.zip [d42a65167dac771b019e9b0e843a51593037cdf98bbb4d987bad16a676c48ae1]
+│   ├── virus.msword.quaint [21a00f91730bfdaaa1dc2ccf797a3da9be60904bffca6fa5484c1305bbc546c6]
 ├── b
-│   ├── quaint_b.do.zip [9deab694213fa69a99b0df94b39228ec50e02ff5684e2a753ae22c5a8255ae00]
-│   └── virus.msword.quaint.b.zip [7e2e5b2e8343f074fe903c80d706b548e5b4efcec51761ee0ad7c8099dd9cd40]
+│   ├── quaint_b.do [1fbe307f1fa78ca4925628e8bf25c6f5e5fc1596595df642bb0dcc216665610f]
+│   ├── virus.msword.quaint.b [1d836b6906900d88fde305381f48a395dade656572e49680dd4e86b82f51fd2b]
 ├── c
-│   ├── quaint_c-001.do.zip [65be321fc6a202b844435fccf29ee40eebc9632634265a542f35520963e14b53]
-│   ├── quaint_c.do.zip [363b89522fdfa796e4d2c22ac210d78a4c4015a5da6612d52188b1a915ebdd16]
-│   └── virus.msword.trinus.zip [4f4344453824dabfd325abc668e85c6495de1c31a957f5da951c06f86737657d]
+│   ├── quaint_c-001.do [cfacb13bc3cf8af956a7d76ec83c320c5005cb3e807dea45aa251b606a55052b]
+│   ├── quaint_c.do [b6ab996a54ef44e024a1213cf87a93e07114cad949d89ef4c72600d75cd754dd]
+│   ├── virus.msword.trinus [25ed8ef8140e0f1cf165e55e52f8177c0245aaa7e8e16350c1983d1064877b8e]
 └── d
-    └── virus.msword.quaint.d.zip [6d94c69052f84cec08c557c75fa122c72e51a6a1bf8e577e7318ee8ff13f6c08]
+    ├── virus.msword.quaint.d [1939865908654bcc429eade69db39337b970ebd27d40a7e54ca047fafb865b32]
 ```

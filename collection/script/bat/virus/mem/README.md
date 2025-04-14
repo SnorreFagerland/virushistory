@@ -3,7 +3,7 @@
 
 ```
 ├── b
-│   └── virus.bat.mem.b.zip [9ba0be031da14ba25cad68aafb351525d9fd394085c37195571de6af3a980c06]
+│   ├── virus.bat.mem.b [582a2eb3f20e25d85098f5017e00577dc3243b9f6a6732cea451c1ba7bf8b5b0]
 └── c
-    └── virus.bat.mem.zip [abf8241c77e5b1bfa8efcb3283f7a813c36f7c5877948a4b832ab320ce455393]
+    ├── virus.bat.mem [df02755859dd965e0b12f752937e7c6c653df5f8a969528004e936bdb6a3801a]
 ```

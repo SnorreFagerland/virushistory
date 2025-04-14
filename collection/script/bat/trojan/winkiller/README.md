@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── trojan.bat.winkiller.b.zip [ce77d7210b59b944ee296d2321879613d74cf65293f3e2d27a2413d4ee1007b1]
+    ├── trojan.bat.winkiller.b [2d0eb3ebf712435aee87f6d5fadec8c21bfbc0ea9fb9d261172310e8d12d8115]
 ```

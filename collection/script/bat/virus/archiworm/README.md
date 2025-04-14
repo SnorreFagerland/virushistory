@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   └── virus.bat.arhiworm.555.zip [cbb5aafeaba992abb93e0a89699458a4e2731059eca32c5446392d3b192ab94a]
+│   ├── virus.bat.arhiworm.555 [84908e543e4f31588c8cda243ac653b3756682fb8e255d0ab63ccc454a01ef3e]
 ├── b
-│   └── virus.bat.archiworm.d.zip [278f836551c004d0eea719d3f63e6cf1f7f276d0116e5c01475d442aabf84f22]
+│   ├── virus.bat.archiworm.d [4fbdb97a051331ab1fc8ad1dd9f472931b9153c4c998b2313b2c55e220bd4bfe]
 ├── c
-│   └── virus.bat.arhiworm.547.zip [6171b5b39d7deaad41b4bb8eb164a27c2d2afa6f292f38c2f5ec582da85a50f7]
+│   ├── virus.bat.arhiworm.547 [00e61835f9213e9d14a457f717057c318717b386f452a1c0f8e5210b0b53b974]
 ├── d
-│   └── virus.bat.arhiworm.590.zip [ebdbeadf437d4c4d3f8f57c42911916fb48fa9a04c98e8f338696a161dff410b]
+│   ├── virus.bat.arhiworm.590 [ce6385d49916e9db33779bb26a10afeed8934d5154922e378000472b9f0d1148]
 ├── e
-│   └── bat.khorp.289.zip [afbbc65fab606460587f1739c03e14b04578f707adb1064de9fd90b4f9ef2045]
+│   ├── bat.khorp.289 [f4f446d050b68e2471c2b1dfc550adeae25ff5d7df8bcb0b753103b59ac0c56b]
 └── f
-    └── bat.archiworm.e.zip [54e30d6dfafa6891209e989121cae7a727a27d27cc7cf94a3ac2538890a6ba37]
+    ├── bat.archiworm.e [0ee8db286bd5c948761dcf47ee8cf9e21ea185fe8bfe22429523be0e39c9a6b9]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.autodestructor.zip [f1879d13b97e221d7a6d738eb6def073000821790a8ddf4f25c11ba2ad5100f0]
+    ├── virus.msword.autodestructor [2c7da28a7bfae54fdb03370c21173ecad08ba635cfc3457eaa238bc621f7ee78]
 ```

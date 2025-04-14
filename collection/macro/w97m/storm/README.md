@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.netstorm.zip [4efe31688804e6f10cf515dffd0e249ae6e7d8b4bf1d84e0c6fa00182f57e228]
+    ├── virus.msword.netstorm [575010b804c3c1d1b4fa698535f96d5465771245fd8f21971d9788a7618f0466]
 ```

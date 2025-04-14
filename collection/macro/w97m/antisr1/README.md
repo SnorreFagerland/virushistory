@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.antisr1.a.zip [9a5c9b7334254d1e2fb7557981c2579ac72a9590a76f24d503b9e1ca5a42f2bb]
+│   ├── virus.msword.antisr1.a [d51b85aaeb95ac0adfb4b997050989725b984ff0afd9a58896d63bc0184b6693]
 └── b
-    └── virus.msword.antisr1.b.zip [4049647da7f7b90359796ca7099e53542c86eb893b3a718948ad759a5227404d]
+    ├── virus.msword.antisr1.b [bb8dace6c9c52e5cd51828fbeedfafdb1b5104ce4cb044b7be0500f5f2b02b68]
 ```

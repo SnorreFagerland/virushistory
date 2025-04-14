@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.gier.zip [9068f5293b68ecb8e5d1abde61fdd6991f92843a4821c77ead5fbe220e06a8e7]
+    ├── virus.msword.gier [7706c52bd119aa7318ca466d4cbf025f2608b9f210a335117a90f7bd7a5b20ab]
 ```

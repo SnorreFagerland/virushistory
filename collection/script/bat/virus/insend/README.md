@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── batins.vat.zip [c55d89d5099d1ff6fd0cbd872d0def5cde3653677b6c1031751f8943fbbea88b]
+    ├── batins.vat [ec416c9b999eb27a2dead65b0ed16e755032dfa8dbcf0a0d45369fd1df6beaae]
 ```

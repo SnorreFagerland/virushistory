@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── slither.md_.zip [37fb5f70b93cac87d2252e02eb7bbad2edb37bd1d698b557ce0b19f86b1ec969]
+    ├── slither.md_ [7e78ac54976e88a68c7abdcf660c02df32c2d1a4d5756fabdd1fa2eec7124104]
 ```

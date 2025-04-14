@@ -3,25 +3,25 @@
 
 ```
 ├── a
-│   ├── macroble-001.do.zip [2f3617247a410a8108012a262c579ad75349741d2ea60a7ad30131c544517eb1]
-│   ├── macroble-002.do.zip [02619aa5cb5703aaec16680fef2b9ce5ec9c4e90e978b6ec6e14f2168c022603]
-│   └── macroble.do.zip [b1a8c90fcd33fb677227683184f9435fb25b45d66c64a6dbeed7391730039b1b]
+│   ├── macroble-001.do [54300a2d4cfb2ca5a2e9f64763e75e9c5341bd084e1babd5d72f0fcfab130944]
+│   ├── macroble-002.do [b4bfdda3a367698ac2d93308e32919c5fb4acce94e6033e985efd145c919f885]
+│   ├── macroble.do [365bfd56c25a04596dabcddd9c36a3b212d3434108a82241406fd15871f64925]
 ├── b
-│   └── macroble.do.zip [d42fa600b1ee2e37c4677afc2476fc9dfc5e49e58262f45bdcd0c90ac494d19e]
+│   ├── macroble.do [a0be10c49bcc79b662fae2d85fd7ed1e6640960e076bc86d493d767593a6aabd]
 ├── c
-│   └── macroble.do.zip [83e192ccad3c093da634e9121d8511cc7c559dd30c426f071fe736e03a9f8980]
+│   ├── macroble.do [db2df931d456b3856bf9861d84901a1447d668b87b0e4e3040d0f4efc3ed2a91]
 ├── d
-│   └── macroble.do.zip [ea33e65a93682751e432fe1d36bec8a8c222c892b089f90c78f2f28b88e07c92]
+│   ├── macroble.do [1caadb1bf23ae68831822118f69c0e80f07967179e5a9535d5f41399471ba269]
 ├── e
-│   ├── macroble-001.do.zip [af7bf2257704aec9a747f67a899b295e2f0632745198c0c02fa380d9c6f33ff5]
-│   ├── macroble-002.do.zip [55954f92aaaf6c932fb93a1f3f47eb029e78beebf9364f6510ad61d4d8088e4a]
-│   └── macroble.do.zip [db7b792553504844801c82a12d755ace54e124eed24df5026859b7e3e4347be8]
+│   ├── macroble-001.do [6279412473de49584c766a85022cfc36e8c3a2612725d29ec52f416b5e6bf769]
+│   ├── macroble-002.do [6713d810b152c3e6193aec27c84f5679738d6b128864ae53ec8e995937b38102]
+│   ├── macroble.do [139f243184169f2654c2deed4cab7e3f84bbbf270fd05ff7a40e12918ab7f1d2]
 ├── f
-│   └── virus.msword.ble.b.zip [2a841beefc41e5fdc070ea9b851b5ada18e427e40cfe66b4507eda6d2dd7fa0b]
+│   ├── virus.msword.ble.b [36247f7cdc88001b8d246ee3dfcf48f55f2b9fac5a61efe13b7996177554bfcf]
 ├── g
-│   └── virus.msword.ble.zip [896a398a856bf564932825907d3a56e174c37fce30a90fb61eb4349aeaafaa27]
+│   ├── virus.msword.ble [204a4059a9f0a7d485e7653616a14e472cdaaf1dab2aa4f36efd0df8119ff144]
 └── i
-    ├── macroble-001.do.zip [694120e31a89a707dc58c194070fb941dc05eb219f9b4d223d9b7ffee846080f]
-    ├── macroble-002.do.zip [0a9fc3d8bea1e9be2138128fa77be21e43f394fee75b42504b1d036bce4963ae]
-    └── macroble.do.zip [8ef8691ca5e05b6d82878b0832c0f8107eaa4bece93528c24c92e7d880a19f2a]
+    ├── macroble-001.do [590c5dc2281ff3186a73473789a948f4eabb234437c01e545e5f59eb1378a249]
+    ├── macroble-002.do [dd9ad3e71dd7d5dbf73b1da58f834c1c9913b052044e1a1482aa0fb13386baac]
+    ├── macroble.do [5760c7061820672f37f40b6d4cafab46082772299ffd7057eab1786081bb7ce2]
 ```

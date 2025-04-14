@@ -3,7 +3,7 @@
 
 ```
 ├── h
-│   └── virus.msexcel.poorboy.c.zip [211c86ee80b1420342028044ce9a18d85369fc9391c81ee11d9a26f652881359]
+│   ├── virus.msexcel.poorboy.c [03eed6261f61f5b130baed903182bef8c56b93e262294d155f0a2681d390bdf5]
 └── j
-    └── virus.msexcel.poorboy.a.zip [c0c849d28dbaa82214bb4c855443fab3163e053838adb30db7229624aea9a77e]
+    ├── virus.msexcel.poorboy.a [3a40722577aa6bc44bada96c830e7601e6bfab7520ed49b4301ae38ef57bea5d]
 ```

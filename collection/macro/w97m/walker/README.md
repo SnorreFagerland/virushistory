@@ -3,21 +3,21 @@
 
 ```
 ├── a
-│   └── walker_a.do.zip [1c000bcecebf55671bfc0c63675304172f138608f175e6a2eac81ffc65269ec1]
+│   ├── walker_a.do [802b86c46e4fe8f9a206c194601e8a4e68116b03326f9293f22b8cddaa5d4580]
 ├── b
-│   └── virus.msword.carrier.c.zip [d5e744d1beaf5ff8af7b1a84d451f839c7fb76c1cee8385579547c3be406a55f]
+│   ├── virus.msword.carrier.c [0cc93cf526b1e5f5e0bb6b8e923b89b52f56ceab2f4067214f983701181acb6a]
 ├── c
-│   └── virus.msword.carrier.d.zip [af48992d60d8b1b98c3244270c757f3f8478a3afb05973acf4feec14bcf86ee1]
+│   ├── virus.msword.carrier.d [5723970fe8e50f45babeb6c4504a59e9ffa1f13ae1b3cf6cf2f2a71549af4804]
 ├── d
-│   └── sattelite v1.5.doc.zip [fab6efec9deb24c084bdc3fb55ab24c23a7d9411486ad79c63c5498d8b76527f]
+│   ├── sattelite v1.5.doc [5379f537a1af29c00b53434234cde61ec1075e9d2dd952a40f61a1be9dd48545]
 ├── e
-│   └── virus.msword.sattelite.b.zip [71ad9d083cd569d39817304ffaa675e923c466f8f76923acec16f14d8dfb4d82]
+│   ├── virus.msword.sattelite.b [210a03c24d628e6347e2d4c55a4ca102b473a37c75b3316be2ad8a510d76cbbd]
 ├── f
-│   └── virus.msword.sattelite.c.zip [269b2e79e48b368a704f1ff95dcaab0b3351cd7fed7c5282cc3512b415ab4e0a]
+│   ├── virus.msword.sattelite.c [93b497e57d9709f1384eb31a651c2879016b84759d347a43998db44346c6d62d]
 ├── g
-│   └── virus.msword.v_man.zip [df1bc6dbc5fe9d071ef8caff2be6a0db7b0cd0250c19e1b3a2896e151aedb74b]
+│   ├── virus.msword.v_man [3344a60b00e319fafdaa22bf13b64de3d919a80756f43cc273ccacb163382339]
 ├── k
-│   └── virus.msword.carrier.b.zip [58f8031fa034608befba9b8b301b2ab73980c2920bed601222cc42ee915982e8]
+│   ├── virus.msword.carrier.b [30f25ce7c84c9e6bf057da9a4620934cc42f0e3243b19acc91828fc49e3e592b]
 └── l
-    └── virus.msword.walker.l.zip [5b9c819631bf0aff035576040cd7c9604b9e758f4fb7af30b7bdfd96960a6e90]
+    ├── virus.msword.walker.l [876b5b0e2cee0b28b8a6912d2948fd97628076799f679f7a84436b171955271b]
 ```

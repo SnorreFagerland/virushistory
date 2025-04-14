@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   └── virus.msword.nsi.zip [47022d3a61d7e80feeb9a99ee3d7cbc2cb26907843e03e77d249cd388c56150f]
+│   ├── virus.msword.nsi [7455e8b6b8a0c54253e06f1b6f5abca6900c67a491599ef9b5c7c6b5dd3296d9]
 ├── b
-│   └── virus.msword.nsi.b.zip [1bea7d43122e065243d7a8cb55d35eb5ff98f99aa81e62ea8d39d8ac3cfb1c86]
+│   ├── virus.msword.nsi.b [4ceaeeaa7a31bf0c8d7e194088f10757e4570358a1fedce11d03f3ce5d4d0a00]
 ├── c
-│   └── virus.msword.stp.zip [b1d39c26ac61a3da86afccd7749853b6fe6812633dafa3aaf0f4640f18e94935]
+│   ├── virus.msword.stp [794c6ccb3da84144f94c01554637e7b757602adb6e1a44d53fa89f429476d90b]
 ├── f
-│   ├── nsi_f-001.do.zip [7b8286f28e6563ce3847d5ccb9a51871bb8c53005ea042f6794b7f599bf9a308]
-│   └── nsi_f.do.zip [9df85150ea606cd7de5f67d8479e9548ad899eda793a4549db89acb40572f5cb]
+│   ├── nsi_f-001.do [dadf9f39cd14ad8d7f844197faadb74f1a8a4bf440d757b9a8a86517a6975d52]
+│   ├── nsi_f.do [4b84cc3ca7d2a353df98d807427aae33e73b93219e4eea7d0eac72099d50328a]
 ├── g
-│   └── virus.msword.nsi.h.zip [7570a5c4830dc5809d98660a13284afe6049f349ea92795ace0746ba5c8042f9]
+│   ├── virus.msword.nsi.h [f77760517e7071488ee97927142248d437f8a6a80ac7a40d21655198b2b96be3]
 ├── h
-│   └── nsi_h.do.zip [c1e56981956345a969832c83ba610c0f4a32f2d337b06b685bad8a75bd2ae944]
+│   ├── nsi_h.do [60c032e4d135cb868f9aa8cb5d75e85f993bde4788f5300fbf5a138519920a8a]
 └── i
-    └── nsi_i.do.zip [c4b0fe802a3baabcdea5416b0b26ccbbc038478ed6f08e5558f9eb08b3f49e8e]
+    ├── nsi_i.do [97f03d4c00891ce3843b097c0124ce7a7b65203ee11c4f831f722ee2c6c52c9f]
 ```

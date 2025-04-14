@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── p2p-worm.bat.betty.txt.zip [b797d0fd74788dfe960b7445c4e05b47c6f321a9f7f42c3623596b7bf007925c]
-    └── p2p-worm.bat.betty.zip [372a6649b8e918ecd187a805d3b6fd2ec4ad94a24c454db03779a743c74afe0d]
+    ├── p2p-worm.bat.betty [90dfb9ed0884ee8ecdab2b7cd1403fb88ec9eeb67367f72125e2f89637a45a07]
+    ├── p2p-worm.bat.betty.txt [ce23dffe76793b836da7bdeec9fb6802534bfea89bf9d36e53d6d4b63fadaa5e]
 ```

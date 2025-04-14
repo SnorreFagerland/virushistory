@@ -3,9 +3,9 @@
 
 ```
 ├── c
-│   └── virus.msexcel.netsnak.a.zip [8170659c05668de0a8a95cbee40ab5928d8185818338de5b6fbd763041368cde]
+│   ├── virus.msexcel.netsnak.a [1f987e719f1e1dd8c3d4d8401efd3223b1ab253f05de6294f0dcbfa07d9c6d6d]
 └── d
-    ├── netsnak_-001.xm.zip [b06589824b28886501fffdc34b9c7f72a9e1d54a5ea0e6387eae4d87cbb83a89]
-    ├── netsnak_-002.xm.zip [b1551bbc440370360d3725882c042bf834bb289f1629499ec66e79ce6894b8ce]
-    └── netsnak_.xm.zip [ff0c869a5caa140001d133c57f8aa267ee71d16bfa8bffed9842c69e95502a24]
+    ├── netsnak_-001.xm [233e0babe3ae14499a59f35216fbdf902c48a23b8bea4f2b38df92380ce0dad1]
+    ├── netsnak_-002.xm [e5276a5b8e12917202db690529719b5ecb720dca4f36a48b543214744c8eaf3d]
+    ├── netsnak_.xm [14ad38c969f268d93f8763e2e72624f2edf2734d5e547e7f656aa5cf394e92a7]
 ```

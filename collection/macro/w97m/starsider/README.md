@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── virus.msword.starsider.zip [ac04066b7a6ab03463c735fd411ac966d5960b181d71ed4d3655b0f525d52b90]
-    └── virus.msword.startup.zip [6d89936f36036cbfa6e002d3ba07e66d0f1ee06912e8708b73249fb2f9beb60c]
+    ├── virus.msword.starsider [cdb636d590ee8ca64eab1cf79a35d1ed88630436598a2f15f64e92f851d8bf57]
+    ├── virus.msword.startup [bd5f3868b07b43d02f0be31f9508dfa2692456b85ef9982692ff0afeb77e4043]
 ```

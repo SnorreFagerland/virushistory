@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── trojan.bat.barbos.txt.zip [8c64f8e8e4ea41d9ecf1fff8bcc87dab90f86200df54379bdf342a5dcd18b08d]
-    └── trojan.bat.barbos.zip [eaad0756f04c6f02d1d7bad6155c57c6cd106b65baa0df28103cf207a256ab61]
+    ├── trojan.bat.barbos [00229cac8c0805d9e12819dc39a25d167a5c54c8c39b41edf7ff801aed61bab5]
+    ├── trojan.bat.barbos.txt [675890d1f9224bbf36da1328c1424263f337b5fc39683664cc3cf6b8198a7f36]
 ```

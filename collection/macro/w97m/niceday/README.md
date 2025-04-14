@@ -3,25 +3,25 @@
 
 ```
 ├── a
-│   ├── niceday.doc.zip [0a71bec268f1a147373abd6217ea0fbf01a327277d10a5b6470b430bae3f23f7]
-│   ├── niceday.dot.zip [dc35e3f74cb02d6ea462d58f88fac900220e529c4a0aca6735974ea7952e50ed]
-│   ├── niceday_.do.zip [ae962ca9e6bad59f563c5ed49e531122ae2c6ac35f57d1d87ea7d29fb92cabde]
-│   └── wci01524.dot.zip [a21812e1b10d1f47f97d6ae49715f830d9897791bd1c1312aa8d546b69614df3]
+│   ├── niceday.doc [d44058c7b8aedf4ab61fb85536e9be2bb539f42e105d67a9ab915b3361cf836c]
+│   ├── niceday.dot [d1f39d4e193f36b680c23c7a829f626110268bb0ef01537e14865fd1ecb2594f]
+│   ├── niceday_.do [9291e24a72fe00cd648d6cdf3f5240350edd6d6a620b6c9acea816aa2e025ca9]
+│   ├── wci01524.dot [a73e5df9d2010eee3df6827a3234a5dc5287d07def30a4b1525379919c3de02e]
 ├── ad
-│   ├── niceday_-001.do.zip [fb0eb6fad73aea7934b57084a5a7be1076b0276061086754ef669b270025f245]
-│   └── niceday_.do.zip [eda53f967cd337a13fd9895aca619184e4a9afb511996f2349a47f669c8cf25d]
+│   ├── niceday_-001.do [7f4baf04397369467223838bb1d2f7a3a12ba4ac494edbcc6b20ae4d808fcc03]
+│   ├── niceday_.do [2c0a7ba82f4c8f1e785d8c572e51580c5b524fd4b5f2caccdff24aafd80a5174]
 ├── n
-│   ├── 1-nice_n.doc.zip [87c3f4723e3b0d44595602984078b0466de505c802d55e1589fcf5f5e77891b4]
-│   ├── 7-nice_n.dot.zip [009394b978663a4929ceba35f4711c0e1345fe00b31aae7bed489a94b3017434]
-│   ├── nice-n.doc.zip [bda467946e594bb007f44d887dd8c0635c08ca9a78d0a9dfe3b3a9b3dc6a0ed7]
-│   └── nice-n.dot.zip [af4d6354c2ebbd61bfa4b5d373eb29caa38c1022d665ba715f9e5f80a71d6b31]
+│   ├── 1-nice_n.doc [d4c65129bc6a786cbac05c201bfe4124819b61a7e7f55b3eebec7f7cc7111511]
+│   ├── 7-nice_n.dot [5a692a6a46394c656a37527c500a0d9e912f2aae8c5135d919e7e0c58b7f759f]
+│   ├── nice-n.doc [ef79642b4addd49d339d356a3ae2fac9b5ec89d37b3f4bd04f9b1d203dad9491]
+│   ├── nice-n.dot [49536eab5fe41cabf96c5215aa8295c095be358cdca7f21f3c6f34301f42637d]
 ├── o
-│   ├── niceday2.doc.zip [b6c8f57405d162d7583d62314bfa3b3c61962072e5a9567b801aa519b7146bd9]
-│   └── niceday2.dot.zip [8a29eb7e997a56c8e53f0027f3492c006f9e8ca1c56de963e70c73a6626c7d61]
+│   ├── niceday2.doc [f4fe61200baf1bced9184605eecb4bb093d3c45bd0c2c64ccf9fe4a53b737dd9]
+│   ├── niceday2.dot [927087cd82123aa2b3f48c82188b32995df72984941ebb9c70e7642e54529c5b]
 ├── p
-│   └── virus.msword.niceday.p.zip [f90baec16fb0133432ca132052f02b30933c687bab1036e97f8c3b0d879a7463]
+│   ├── virus.msword.niceday.p [9cf17c5064db89d5c9074a47f13a142aada5c4d0092be14cae84f52f1c5f850e]
 ├── s
-│   └── niceday_.do.zip [a601e7e3d1482f4633518c670a92a1d252e4e03ffb6d21202e71fa8e00df19a3]
+│   ├── niceday_.do [546103c8a5700c9e8e6d2577c775390a88d2f64ac3df14fd02f6f28cd947961f]
 └── v
-    └── virus.msword.niceday.q.zip [b55644b12b013d265b7d98238807fce6fef5fadae3838fd03a84bdd4ea419e14]
+    ├── virus.msword.niceday.q [1eca3118cc2f61dec78191510cc1bf3ae3f5cf9de5dfe9a84eae3a8a249eb78a]
 ```

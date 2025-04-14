@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.shark.zip [80a83709daf5a1affb5c93e409fb2385b3f8cc5de948ab72ef3288cbe715ac40]
+    ├── virus.msword.shark [6b4f89543f6e07a57e7aa6e3ab05d63f9956e1dcede27ffcb587aadb081ddb0d]
 ```

@@ -2,6 +2,10 @@
 # Contents of `mirea`
 
 ```
+├── 0549
+│   └── virus.dos.khizhnjak-based.mirea.549 [1b336930d28a8c6e591fc29678b00bd0b5f16ae2c3ae89563e5851d5034af65e]
+├── 0703
+│   └── virus.dos.lyceum.703 [e93c8d18771e4219bab59e96abfbeb1d80c9a5626ed356c8799d7835d22f2751]
 ├── 0737
 │   ├── 1-mir737.vom [e8611a29c01a5824d7ac1c5cfcb6cce8f07b6d2341666e90d59642f0478887c4]
 │   ├── 1-mir737.vxe [32f70f9d81067b05f02ea0d72155d27d453c98d53467958f82668bd023ba024f]
@@ -10,6 +14,12 @@
 │   ├── 3-mir737.vom [2dce872f94e093921a243d602d36365f3bf6c3b7e29ab11368c8b197561e42f4]
 │   ├── 3-mir737.vxe [8a59c371a15350cff6a57a9f0c8340439df049e175f9f41e715059c4dd4b81f4]
 │   └── c-mir737.vom [6273ede755415397e73a87f999a167d73b81d6e2f82e9b53a5e9c0bb7ad99dfb]
+├── 0767
+│   └── virus.dos.replicator.767 [2886e3a88cb941e1b5d9210eb105902a83db254858266ba7d7a9a53589eb9223]
+├── 0815
+│   └── virus.dos.replicator.815 [288d13f664aba655f48e13bee48ac4381655de7db888c249dbb754ac5785b310]
+├── 0888
+│   └── virus.dos.replicator.888 [6f9edf64911c6c46d7a425b323f2f1afc5b17a91a9340ce79ae0dbbd59ca06b2]
 ├── 0925
 │   └── wci0224m.vxe [f0d08f35637d7e20a0a1bd11cd274fe44a1edd2df43026b8e6ef94ce4c78a530]
 ├── 0930
@@ -21,6 +31,8 @@
 │   └── wci0226m.vxe [c617bcaf79c47f3a8adebded91b9ffccaf4a7a69a658dbb216be12c07b734ce4]
 ├── 0950
 │   └── wci0227m.vxe [8888d93deb0f566bc38b517ea7120e464c85a9a26ea092a51cc196796dbcabb8]
+├── 0957
+│   └── virus.dos.beeper.957 [1c850ba30cfe36b1e0c483a973ed61009d5fb66fcff1eed349af4bb594f037b6]
 ├── 0958
 │   ├── mir958a.vom [a6a8d641851c27d2cc425a272014b897e09310ad09716528751123eb7e6c9812]
 │   └── mirea958.vxe [0f549794db10661d8ff9240d41268f757fbd9ef97c5459ba83fc7adab36b58dd]
@@ -45,6 +57,8 @@
 │   ├── mire1788.vxe [3ec25fea8399dfbf0ed60a8d8b7a4aa485e2805f607eaf480618a79df76cfacf]
 │   └── mirea.vom [743aed7c7006557b8bb8e9100cece03f72ac6132019e6a78c133c91a979c927b]
 ├── 1800
+│   ├── a
+│   │   └── virus.dos.lyceum.1800 [c66c48126e1717ea70aff8b210bcc030cc6fece9f3b01db994026624622baf1d]
 │   └── b
 │       └── mirea_18.vom [cf9cc171014216c7f68a507a19e8b461243bd071595c3c67861a7064c7ea6bb0]
 ├── 1813
@@ -79,7 +93,10 @@
 │   ├── lyc-1975.vom [ec4c981afe68a8c63e98a3fae7fbdc7f7db2d0308a283334d466ba11f720c9af]
 │   ├── mire1975.vom [9fa7b5d5b836f42a2bf1faaa11de9bf35f2fb670effeb98b894db7343a7af8f6]
 │   └── mire1975.vxe [5ca0ea232a82a0ee8cbc66fd0e7ec45f355c78e8f0bf5143bf2b900fd56bbe83]
-├── 4157
-│   └── wci0523m.vxe [22de147642d53baba8f2e288edcded0bb7f09aef4bd32d72512b9954a417bf80]
-└── mirea.vom [1ed431c57dec70202bb2955f4af758b3bdb35307517aa354508552fba81f7e80]
+├── 2087
+│   └── virus.dos.mirea.2087 [43a457e8c0dc5104360c5cf19d336216a30cd50204fdfe54a38c6579f64bc325]
+├── 2117
+│   └── virus.dos.mirea.2117 [2bf95b594a3c7155533ef84d3d7974ef79dd44714a81b3e36a87b0363a6ddd99]
+└── 4157
+    └── wci0523m.vxe [22de147642d53baba8f2e288edcded0bb7f09aef4bd32d72512b9954a417bf80]
 ```

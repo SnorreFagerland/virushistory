@@ -3,10 +3,10 @@
 
 ```
 ├── a
-│   ├── carrier_-001.do.zip [a06c373e7d375864e5b522db9e7c87d1e9f9a2302850c8de4cd0f3ebbd8e4f98]
-│   └── carrier_.do.zip [72e47f9f577c94fabcb521e945426af20d794f717342ad20f84d874662860be6]
+│   ├── carrier_-001.do [f5027899dc6f027790485b625545ebb2c577c55636fc40e0f0224f469bedd6b0]
+│   ├── carrier_.do [4181d574fc7d5e6380f08ef105743214c25afd3ac5ae07d096deab2dba6b3092]
 ├── c
-│   └── virus.msword.ghostship.b.zip [77a5f7c499c574eea3c2f18d65103d7fdba4fbf73b19ff5aab5efcd195f64a73]
+│   ├── virus.msword.ghostship.b [cac7537613787550af5af819a57fbe19a54f53c06e397e693f3ebe96e58f8b9e]
 └── d
-    └── virus.msword.carrier.zip [c5b815a47afbc6cae56e69f6fa10cac1f4dfbe189f011127bb5de0586f00e0d5]
+    ├── virus.msword.carrier [426f93e8dff84dc864c6df83bd4baf0b3fb6c83ec9ca218b48aa074764b81536]
 ```

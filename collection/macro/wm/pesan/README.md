@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   ├── wmpesana.doc.zip [935c602e1d72dad624b73dadb2cdb6275c9b1afce7d8814c34c2793881205567]
-│   └── wmpesana.dot.zip [22acf08ba4a88e15b960e559cf4d88b6e06063e6adb943830bb93ec56ff96d35]
+│   ├── wmpesana.doc [8effad8f8552ecf4b49c51a24daccf9a1b9c6fb5371bf4a3bb4b2222d88653b7]
+│   ├── wmpesana.dot [b414408f46c037af4b8140c616a9ecd226a13303f15dbe2c32b27560e02bccd4]
 ├── b
-│   ├── pesanb.doc.zip [cf2abfdef7af1b4e68449e927f7f0143f03e677623509b61230f0efa8946bec0]
-│   └── pesanb.dot.zip [bb0979bcfe604d5874d6afcb97d21300924c5a99359f6fc62ad47ed0fb9dc7cf]
+│   ├── pesanb.doc [0d02865917206c006b3e8a0373da928ccb27c9cc10d0f2de6b7f6bfcad7d5108]
+│   ├── pesanb.dot [6713fee044d2b6b02089e8d34008c68751aa5e1dfb0a698189200bcc806f4eff]
 └── c
-    └── virus.msword.pesan.b.zip [dd1489cf6fc8dcd546e66b06569a7dbf635499c208b91a5eaa479800fe6eac87]
+    ├── virus.msword.pesan.b [502b51fb4a4f9f08e013fc19cb7e6f25adc58deca4f2871423ba7b6b5e3416d9]
 ```

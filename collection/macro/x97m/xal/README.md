@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msexcel.exlax.zip [39ae6a4e81bf7e752b2726a2a852c77c3c0acf7ccd0416cdc5c33cc596815916]
+│   ├── virus.msexcel.exlax [49cf6d42705c4f05eabf2313a0f9a28b1dea0cbc3d4df47176cca05f7845a44f]
 └── b
-    └── virus.msexcel.exlax.b.zip [2f2a352ede326ea8418fed1c642f7a430abcbb943edf8d2f17b0e16db81358b5]
+    ├── virus.msexcel.exlax.b [ecccdcac43fb30aa786667094615353d89965e5b042c55aeba7a640f436529e6]
 ```

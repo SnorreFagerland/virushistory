@@ -22,10 +22,18 @@
 ├── 0876
 │   └── wci0057m.vom [248d55c760adb6fb922c4f24f440923482ae1bb365129ef46a183b4690196e48]
 ├── 0937
-│   └── wci0058m.vom [32f8288c27ce740af39cfb69c100d96bff735b6c7ef6fcca4431ed9661b4dce9]
+│   ├── a
+│   │   └── wci0058m.vom [32f8288c27ce740af39cfb69c100d96bff735b6c7ef6fcca4431ed9661b4dce9]
+│   └── b
+│       ├── t1.vom [da6bce67eda9c6de506125fb2bf75572490774cf302f53a1098249daabe8e683]
+│       ├── t3.vom [87cc9e25de4cfb85caf59bba8f40c1139829b0b70cd309ff27790f87d6a2d38b]
+│       ├── t9.vom [232e609ed364ec1d524589d409499127adbb7bf39bbc4a043267324bedf55472]
+│       └── virus.dos.manuel.based [de6a947e08aa0cfb609342577b91fcc3aa886e123547019fe6e9201d51531fc9]
 ├── 0957
 │   ├── manolb.vom [bd07b3140cf5c64749440de870b57a5c2c2795662ebcb3b0f76dec0055f54cb1]
 │   └── v5120.vom [210bdd55e20fc6266910cf17d04bfebcc7a86db96ebba7dafe9eaa5ff69b8025]
+├── 0972
+│   └── virus.dos.manuel.972 [b5dff46d4dcd97b45ebec8b08060f2958ec5dff8b9bfe4561ee0acc1a2512442]
 ├── 0995
 │   ├── a
 │   │   └── wci0061m.vom [8501ef25189cc5886cad1037a3b0fac226477fc1e6ea47c3ddec73d5e092f7e6]

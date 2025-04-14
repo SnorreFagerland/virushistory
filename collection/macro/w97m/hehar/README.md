@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── hehar_a-001.do.zip [414d5f1e9a7d14068f7f9e86c59952da4cf218f8a187912aa832b44d35c72a78]
-    ├── hehar_a-002.do.zip [f043729e8920b82a0a04b80cd00d93437b7ddd2647dd35262058e671d37422bc]
-    └── hehar_a.do.zip [7403d61913dc3ccc350a23a577b5470eddd1da1c24d851c4bff82eb6d1b850eb]
+    ├── hehar_a-001.do [e71c6ea5be8e2341cc4b86432e4e82abcdac48c6364c8078b3e39e49312f194e]
+    ├── hehar_a-002.do [d1239e4eb1badeee54db6e3ef2547adc309e6cb01fea5a5570ffbcdb53df348a]
+    ├── hehar_a.do [1f5865d7134502d86bceb6a626fa89cf22328e99bd4d43f54c11bdfc8959e6fd]
 ```

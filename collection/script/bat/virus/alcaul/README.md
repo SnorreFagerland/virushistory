@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── aguilerab.vat.zip [5e0f45c5397be886826bec902fa80c528312c13e26ec06f74d678b0cf06d7cae]
+│   ├── aguilerab.vat [1ebbfeb6f35fbfe7796bc525cbad6fe824ec4e1a156a6c33b599e74411957cd2]
 └── b
-    └── email-worm.bat.alcobul.b.txt.zip [fef3635e2870cd2556393ca5d57154749a4032b3b8c9038004b63d37d9aa9dcc]
+    ├── email-worm.bat.alcobul.b.txt [00266ae7d219c2797bf8010eaebd5e3bde52e11cdb5b59a22abc035aecf6ca5b]
 ```

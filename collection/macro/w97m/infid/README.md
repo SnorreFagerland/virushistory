@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── infid_a-001.do.zip [bfeabb56e80fddf1fbed2b0bff67d2dbbfbec1cd02d00e766d8a1dfad3c369f6]
-    ├── infid_a-002.do.zip [ad502a0889ef89c45cc45049e4962e9e6587e6220e069952cdab8d02e6562640]
-    └── infid_a.do.zip [88351e6c15cdda5f15f87b0ef28e6248832aeb492aee11f44ddd7b3bc8b8abd4]
+    ├── infid_a-001.do [7a3191ff7176fa1040833602eae4ace1f997c7f2b0dd37dee5d0ccc6042bb7b1]
+    ├── infid_a-002.do [983e70903ca831b252d64bd5fccecb353a50a3801e7acad5b3f7959afa43327b]
+    ├── infid_a.do [13d304e42d5dc6d821e1c3b92154f15fd0ed7ce5863fc34bcf6ad997d987e11e]
 ```

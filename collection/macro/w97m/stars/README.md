@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.stars.zip [a13a93b2f8cb067d60fcbfb58085b23ccc409f62523304c2a526ce2af779b758]
+    ├── virus.msword.stars [7cad759a4bc0e9115f6447e4c9a16394b8ded2c877ccc5ad37eb555e47d3baab]
 ```

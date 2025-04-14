@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.crono.zip [997919dd35cb343fb4698602fb9d5009f9721ff317d91774bb8679f9635a9157]
+│   ├── virus.msword.crono [800ee5d7931acf95a7379b599834b46367f826b10479f3c8ce1eced770c9cf93]
 ├── b
-│   └── virus.msword.crono.b.zip [9862673493c1f70ac475011c54fbe4801ba52bf5c4729aab7aa18cb19299c687]
+│   ├── virus.msword.crono.b [b7d264a8daf9297eaa1d14bf312c41f9cbfdb8fe15b541d8618c11a59f812ca8]
 └── c
-    └── virus.msword.crono.c.zip [53d58597319fa90e37fff1e2dbd58794eb67bd8b5bc6c66e24db7a18098940e0]
+    ├── virus.msword.crono.c [90eb721fa8a207b2d778b0f6b2284157f7cbaf42452852dc8a95a331e3a76f85]
 ```

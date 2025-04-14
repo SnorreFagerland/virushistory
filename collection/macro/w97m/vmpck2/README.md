@@ -3,23 +3,23 @@
 
 ```
 ├── a
-│   ├── hello.doc.zip [402e8c6d5e17b2ed913f2274e6e1d89b26a1910a92cf56ca949f6db39196a523]
-│   └── test doc.doc.zip [5873285f199311840a1629b7e3b2576cd8cb043c9be86a349129bea35d3d345e]
+│   ├── hello.doc [7a430900468ebb0435e7e4dd8ef6f50b4e2808c10e3db1325c91cab3304e696e]
+│   ├── test doc.doc [6c4337184e157c72a64c3192e67b29306c22110d313a5df9d8b331e54a9176d1]
 ├── b
-│   └── power.doc.zip [b2b76393cf9137f4265c67529065c7694d149104ddfe0ad5a52e24822a61bd4f]
+│   ├── power.doc [902c93ae7f00f43aa4d35a37f7ccb9b81562559dbc71873925ab9d88a1ab1043]
 ├── c
-│   └── microsoft.doc.zip [efdeec6a3812f3bcd3ddffa416a1e36b9cf26e15021a700a3bdd064ccc86d556]
+│   ├── microsoft.doc [83c9b73999f826424f00f29d711ff45a392876d02e062d35c47238dba1312d4a]
 ├── d
-│   └── vmpck2_d.do.zip [f5d8150f11bc7e7c89a6ee22628a07a26da7979f1ae6e74cf9e61df59ac31de0]
+│   ├── vmpck2_d.do [1bc26d9b549840794ffbfa825ea50bd190e579a0f25c73454bbb52fc29bfb2d0]
 ├── e
-│   ├── vmpck2_e-001.do.zip [9d5044a326622b77df4529b340776f06b1655b3034dafbe0a153bc75c5fe535b]
-│   └── vmpck2_e.do.zip [bc689b7815879dc0579c22e4d1cc739d0e4146702dcb7d6ba7f40f63bd187d4c]
+│   ├── vmpck2_e-001.do [9d1988401af3458515ce5fe716fae87d944f8f8a10ebf11be982fa5e2bd010a9]
+│   ├── vmpck2_e.do [7b161a9b1746e4a111cad1dc65c21ff22f3abbbb07ece8fb521a1a00e686b57e]
 ├── g
-│   └── virus.msword.vmpck2.g.zip [f9ded84ab2743a6b56fc78f69c98dbe97da81b1608ef5b8b43da0c02abeedb9c]
+│   ├── virus.msword.vmpck2.g [67827f12f860c4c3f6aaafbb3024af21c2764cfb8b59f6b9044fd9bc4ce8de57]
 ├── h
-│   └── virus.msword.vmpck2.h.zip [a25cae5c23f20c2aca2f8fc4e1d914897736f524a52476fda5bf5a57fb506fe4]
+│   ├── virus.msword.vmpck2.h [a69b8ddbe700d90d2f15eb3a6c6ca16ac60c7de7b2c2a4221a7e4442cdb39309]
 ├── i
-│   └── virus.msword.vmpck1.de.zip [7afda139511e389d2645bba1b86f6c723ec4253342daddb25a3264120d4c3d63]
+│   ├── virus.msword.vmpck1.de [62bd0c3b82ea20c0cb405c76bd49f8a6281be5e3e69bc415054638e939d1a637]
 └── j
-    └── virus.msword.vmpck1.eb.zip [3de298b6e8187ef56108b4532be2989cd368f98c8ec66f98d6e071c39901b57e]
+    ├── virus.msword.vmpck1.eb [c4821d9e954d1570cb591b3dbd4097a87307f5272f900a78f36046a5ee61ca7b]
 ```

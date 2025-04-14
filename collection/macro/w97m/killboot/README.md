@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.norver.zip [e6bee3570b7d98e45fb3fca82c87c4c3fd687d78aaf4ae1f3e7f6b2b3df78be3]
+    ├── virus.msword.norver [5eb2e4d9848cc7e6c5c07e3f51086c6c9c996716aa93c2deae99e105b62500ed]
 ```

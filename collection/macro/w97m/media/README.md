@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.media.zip [eb37562262682d35f612c97b95955a45e78fcd7660e2b53119d604d3ccd081de]
+│   ├── virus.msword.media [c503d3af3bfc629f5234a27b0c705062937f404aea3b32e0f14964e9f5631e85]
 └── b
-    └── virus.msword.media.b.zip [bed069c36d61d52f71ee7d6d84ddd266cbefe0901b89a164fd938eea05ac7b90]
+    ├── virus.msword.media.b [5c0a489652b59261447f673a315d0674cb2b07825bcb1a8088c4ac94a6d8bb88]
 ```

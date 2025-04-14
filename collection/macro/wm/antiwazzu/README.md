@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.antiwazzu.zip [00d12eda318d6465dabe7e8a2e54e53f9782c34f129a641d64a6cf76de71ca8d]
+    ├── virus.msword.antiwazzu [e9931d74c9732226c104fb7812af80124e373b4c6765e964df3f632951fcc9d4]
 ```

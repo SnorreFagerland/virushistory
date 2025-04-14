@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── trojan.bat.formatd.a.zip [ba8ea40f84b1061d1aa22832cef159fa583b1c9dec1b9dad327c20a8d49bb00b]
+│   ├── trojan.bat.formatd.a [8f44214f3efdc1a238bcae924a9fac4342b0647d62dfc6b552d427e9dd4f74e8]
 └── d
-    └── trojan.bat.formatd.d.zip [7851b1ff96786de1982c87d123e5b485310bbe90775085918023683a0bc496d9]
+    ├── trojan.bat.formatd.d [eb63f1581ffc8141edf1a93686370d85b4f7ded99d27908da2663da6459371ee]
 ```

@@ -3,23 +3,23 @@
 
 ```
 ├── a
-│   ├── ant-a.doc.zip [28c87a37f887bcea623bbe8b8441dd79ad4f30c86e1b0d5edb6a6a7be5fb94a8]
-│   ├── ant-a.dot.zip [be030df86468db5ed34cbefe4898670f67d96acc88a4cf3afe761f9c3273387f]
-│   └── fom.doc.zip [37fa4caf4d8c2f935fd0e3de597ad2eb282b73a00126a674ff5747e823493411]
+│   ├── ant-a.doc [2b61c948f3b1b9de0192c061dcf6d5590dd5c4295f7f9d2ea044bd9dff0cfc85]
+│   ├── ant-a.dot [8038a26f9cf1090466815327c5372d0ddb086ea697233d2ce5aa966e0bc473a3]
+│   ├── fom.doc [80226ceb02cbe565ae8775320996b6e388723afdaa90334c19b2e8a2773d1e2f]
 ├── b
-│   ├── ant-b.doc.zip [65c49db23875203464b3cbf5014a253864ee96b9a3071f154864c4b83d318230]
-│   ├── ant-b.dot.zip [8b2d194f19e028b33ec1931dfd4c9ba471a192150c6d2bee8d124ad0f7c3769c]
-│   └── pig5-3.doc.zip [0005847a270f06269f1f14553969d2803cb7cf17e03b5b8d371240edfca59c1a]
+│   ├── ant-b.doc [43707746db62cc739faf17569fc5e28729742f2e5a5e365d7d4d397bec3a3491]
+│   ├── ant-b.dot [8d0e531500c1893ac93c68336000ed22a0b93292297449f8f904ff977ba37db9]
+│   ├── pig5-3.doc [0778acc132d2a076e3b6abacf47e38f12485bf1666fe09e4c8de0c9e45dbca76]
 ├── c
-│   ├── ant-a1.doc.zip [3fd6966cf489aab93a6b4d0eb6278cbee2c2b9fb01824fb5233bf2e8044e085f]
-│   ├── ant-c.doc.zip [32658fe294e7ec68545da575cb40d14fb6b338f8141284593b0b2d105d75d9c6]
-│   ├── ant-c.dot.zip [43081c7a977a22db229eef8bb368373e8926520277ec74e2481fe4ae2a61bf51]
-│   └── d1.doc.zip [26fe65a17f5e2e37f5d546a0de92fe1f19cbec7ce3b199b80959d3b2ee62a3b3]
+│   ├── ant-a1.doc [06c663976481716d4f8216dbe175c8dac833e46424bf7a885d0679e5e42ce1a4]
+│   ├── ant-c.doc [0a147539e0ca737b90e2f66f5c0a58a7fdd892689c966be59fcbdb8a71523b61]
+│   ├── ant-c.dot [6adce8eba075eae4498a7933dee8bbb56544a8b4cf510b4dfb0c6b15669f35c9]
+│   ├── d1.doc [06c663976481716d4f8216dbe175c8dac833e46424bf7a885d0679e5e42ce1a4]
 ├── d
-│   ├── ant-a2.doc.zip [0c98c79f55f15428c4fb2d33915a25fc1c0a9df5d55e3adefe24e80bad70988f]
-│   ├── ant-d.doc.zip [4e83b4fa21f012b4f1cc2df39384a2fcb1b3cb7ce1ec08f7cda9be6c2ed4c2c7]
-│   ├── ant-d.dot.zip [69ad95f2376c292672924269ec5748f605484b162d91d004a555dd998514d604]
-│   └── d2.doc.zip [62515d1b3a493b0c523e63e0e32f3fc2b79a6841fba09766786c34211e1f0daa]
+│   ├── ant-a2.doc [3ced14f0e0da51b014df91c1f2a0c7a272ff6eb78f5e1b3f7da766c2dbd52d1e]
+│   ├── ant-d.doc [aa5b55317b82343502be1caf008b2b4b566f6b8163330ea6331a3aeda7378a96]
+│   ├── ant-d.dot [d69e2b3ec1d32cb730f2a3e849196ca72a55f622c4973f0d53d27aa2a8a2c42b]
+│   ├── d2.doc [3ced14f0e0da51b014df91c1f2a0c7a272ff6eb78f5e1b3f7da766c2dbd52d1e]
 └── f
-    └── virus.msword.fom.a.zip [b2ad3c3f3c04c6a6eadcb8e7e78e6277da5c151379c4a5eea9b73d6a121b3351]
+    ├── virus.msword.fom.a [8b7fad0faba8801c5487de2a458931a0f9db55b217c65d867fb6d30c72984e3f]
 ```

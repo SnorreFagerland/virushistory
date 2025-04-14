@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.mago.zip [e2923917ca99b431393f83055c00653e3c112979b831a5d11e9b0e20e1e1adf8]
+│   ├── virus.msword.mago [897a309db643d6e19ef5a4c61eadce13e147e824ca9921217a4439f3fe633bab]
 └── b
-    └── virus.msword.mago.b.zip [3689457da765be404c92c175868a69261e049590cb47d18abb2628351da535ac]
+    ├── virus.msword.mago.b [4eb14a29b94795fa4938606824656858a88ce5d8c383d4bac2085a580098e944]
 ```

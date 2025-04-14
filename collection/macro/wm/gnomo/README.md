@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── gnom-a_4.dot.zip [1c952a4377d61a5752fded9c7455d43d5a56ece3a7f8ccf4c364948d9cf1d978]
-    ├── gnomo-a.doc.zip [4ffdf894e1bae8adb407b2574b671f07a2da99c543a6f29a585a6301301762d3]
-    └── gnomo-a.dot.zip [84cedb664ff155dbc9c1b02c7e9f9b15dd587ab808937a06e09fc430245c7e43]
+    ├── gnom-a_4.dot [e86eda9105a59f7720657e74d7e566affc32017fff88667cd3449aee2ea2c1c9]
+    ├── gnomo-a.doc [f0d6234adf0525479a475c52f851503aed0b4f65431cd2ba66274cae60fb81db]
+    ├── gnomo-a.dot [fa2e4cb32334c6c23d2b6d856686ae7289b7781f7012983697420b9d07a3fc87]
 ```

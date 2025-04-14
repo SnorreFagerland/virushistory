@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.kangaroo.zip [861feb2433005bf5b47788258c6554d15424d78cad4b78e34a8e4fb021efad5b]
+    ├── virus.bat.kangaroo [ff45ba2fbc866e021efcdbd183cd282fe9148348edf8bc02db9fe1b577604f60]
 ```

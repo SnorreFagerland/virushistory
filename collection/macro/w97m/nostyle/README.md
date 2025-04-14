@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   └── virus.msword.free.zip [226d515b2dd58819f5361d9605de3311fd87fb1428cbcac4ab224349009c8441]
+│   ├── virus.msword.free [f96d695dfff3f6800da6969ed1bcb62e5c431f1e7994dd02a9e0a04ee1b963b8]
 ├── b
-│   └── virus.msword.free.c.zip [f1a63f51cb3fd83c786bd4139cbe2b2a03c888da719d3348b06b8ddbb98e3254]
+│   ├── virus.msword.free.c [a255305c56409506026bf5ace8a6ec99edc772ea15ffb550d5b99fb8b55708c2]
 ├── c
-│   └── virus.msword.nostyle.c.zip [11af34eea237c0ad5213da954b70e708d221e6a5db7b067fdd1285cf174129ee]
+│   ├── virus.msword.nostyle.c [e643311389d56a0c479e92bdbc4ddf0b5fd6a061d05b80c1aa4b75b9954ff20c]
 ├── d
-│   └── virus.msoffice.nostyle.d.zip [4f763d03449d07a15f3d6d2a2b0da201ac75c387e66dc1c9edab0358f7707c08]
+│   ├── virus.msoffice.nostyle.d [5d8a068e1336c0a9b13273eebfcaf950ff54522c7537c1e1b1e0fa8e47995ebb]
 └── f
-    └── virus.msword.headhunter.zip [38e16aa7f67edd366ebb934d4d72c9e84ba65c9895bf28a20f5b4cefb7d23750]
+    ├── virus.msword.headhunter [55a56cc3acf7344c7285ce81e60c106fbec0ebc468c43397aa9cd18d85ac8459]
 ```

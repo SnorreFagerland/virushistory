@@ -3,12 +3,12 @@
 
 ```
 ├── a
-│   ├── archer-a.doc.zip [4ce91bf6b385d96721c7774ed84150723df328ce381fd0a8d8d468e7d777cb59]
-│   ├── archer-a.dot.zip [91efd2aa8d7e5aa82459dd9a81e7d5e55ba2f93b3d3b7b77b1f3f3d2ebea8c5d]
-│   ├── archfien.doc.zip [98e1eeeba5ec2ba26cb4a9b5ba0800471b6b4f30261cf2f1b60eb743b4a0c4c4]
-│   └── archfnd2.doc.zip [81cb9231fa1673a39d79a816e68fda1d767d3b2b1145e36c05cde476424815da]
+│   ├── archer-a.doc [511f318930329d75f31ad7c7e81c68bee813578422cea3458a17307ac427869b]
+│   ├── archer-a.dot [0861f1eadf1e46f86b2e2728c6f9427b8dbb4f2c4d18e0106b2986ef078c6550]
+│   ├── archfien.doc [19e4f485e9529a6b63d840e03fb51e5075eff9a812a6a3a1092f11465fa3d9f0]
+│   ├── archfnd2.doc [19e4f485e9529a6b63d840e03fb51e5075eff9a812a6a3a1092f11465fa3d9f0]
 └── b
-    ├── archer-b.doc.zip [27d8493a019085a5bcee88467601fa6c9743608d3990cf38438801784557389b]
-    ├── archer-b.dot.zip [aa5ddc3bac05ac41c3f0a2d8861944b59100b488ec8566fe833b7533bbc3476a]
-    └── archfien.doc.zip [ec414e4aa2b135adb48073796fc8b4cf8c0a229c80ddfa63a4a13576c78ec78d]
+    ├── archer-b.doc [f367b55b5d18e53fd8d81819375be8d02f4fae8031270fbf477805e9f5c674fc]
+    ├── archer-b.dot [1840c95ed2d1831e253e6b8cc4a25857c5911f58c8ec38bc8b12615257859a8e]
+    ├── archfien.doc [66d88b56bd182cc8fca6dd2164e916b44b60d08e5305361a68509a9572e5df48]
 ```

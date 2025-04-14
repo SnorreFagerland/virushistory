@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.sweet.zip [2190f677c7a3021c7ed09bba6e0a78409e4aaf94db573df975073624c43cc636]
+    ├── virus.bat.sweet [f8b40c2e5aac3dcb04c18a19e8453fa1d40833b4977ef043362d06992934f054]
 ```

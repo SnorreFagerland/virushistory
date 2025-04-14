@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   └── virus.msword.ira.zip [1ee4a54e88589908326a1fd7637e85d1e006c4deaa0c93ee7bef9075d10ce846]
+│   ├── virus.msword.ira [02e8ee5a25efa0bea09a2983fdc1304952dac0917c06b8ed104b90cbc114e9a3]
 ├── b
-│   └── ira_b.do.zip [e362885aa1fbf993d20280adb9e638040d9da9705c935251aa2bb4c8016283a7]
+│   ├── ira_b.do [37e3a0089159c046e27d156cebc5616cef4d3e7bfcd720b3cc609bdc0d7a441a]
 ├── c
-│   └── virus.msword.ira.c.zip [80e1e5102083d02ae3f60c91071ba457437c147dfeb9aa61b9e60716f6621b95]
+│   ├── virus.msword.ira.c [519e1085c45da58cb29058681cf2390586658de4f3251a78b87f369d3b25a72f]
 ├── d
-│   └── virus.msword.ira.b.zip [b82b03b2aae3b5e45463adb37f4787dc8801b5dbb61d7d851af103547427d056]
+│   ├── virus.msword.ira.b [1080725f47b6f561bef4a098830ad668e93866ef56ca692f7efa477353c3ec72]
 └── e
-    └── ira_e.do.zip [dbce91f8de27782d72ac0e731f7aa0d3d211d186cae09e77ad961b956895a428]
+    ├── ira_e.do [c6baf106947802e962fc0a2396ea9b3621e86fea8058aad8e54b01ba7b65dac1]
 ```

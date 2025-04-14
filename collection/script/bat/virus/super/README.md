@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.smf.super.zip [cd8098cfc5b5c0449b1b7cb6a9b992069eba0aff52426dbbb66b6c3222bfe512]
+    ├── virus.bat.smf.super [25dd016f950631b21d225c4d3ef7d4be291916dd3c6614a20243f9ce26467382]
 ```

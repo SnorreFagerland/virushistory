@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.spth.mkdir.a.zip [444f4b2235965b3d6e6c458a3e40e31a0d4a69f6616e9d028c3b70eebe08bc0b]
+    ├── trojan.bat.spth.mkdir.a [12371561185940327e27b7226a6024556e1425290531da41ea1e11c9a8e373f6]
 ```

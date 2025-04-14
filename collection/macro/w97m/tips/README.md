@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   └── tips_a.do.zip [2bfda89bbfeffa365db4c2d04bfd543ea1257c0fefde9ea1f40f601809b0afa6]
+│   ├── tips_a.do [a40f41d9505e4ccdc8e0f4d5969becff18446940907441c9130dff626c8ad407]
 ├── b
-│   └── virus.msword.tips.b.zip [1aa863e5e81b35b8ad1b488422aad4d82d1fa3c137bc0a05f15ebf765b63168b]
+│   ├── virus.msword.tips.b [c2b366faaf664f24a5cc3622fa175bd17ec6765fae5184f6a5119dc5eda69c90]
 ├── c
-│   └── virus.msword.tips.c.zip [edc5ad4571a807fc8872f69c2597e6cc699d758b9d0d7828dd97a1948bf6b982]
+│   ├── virus.msword.tips.c [acd59ca5391f7d3a2ed87dd74aef4d4f3dd946f48389ca5bca365f614e5a5101]
 ├── d
-│   └── virus.msword.tips.zip [e4b1c00809bbae80586a597aa796f93028bb4409748f1b79c9df26322bf5bc19]
+│   ├── virus.msword.tips [42456f02da9cbaeee7bfdf7dea3fd71e6caae989c30cefaadf62b52526d1bc01]
 └── e
-    └── tips_e.do.zip [1696cb0ae15593ad5000dba0debaa539220eef97c6d041a64a74c062b10a5c28]
+    ├── tips_e.do [1c616775720419a95ae4ce136d50410392d8925e3e3d1962f220e93afbdec4f8]
 ```

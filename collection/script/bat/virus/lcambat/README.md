@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.lcambat.85.zip [e738a241d57ef857d568bc5f600bf7a9883b65d634dd327b31700a48febc9a72]
+    ├── virus.bat.lcambat.85 [23d79ef87bdafd86c8411f601b13ca0d7ce711144d79d8c733fab3c950aaf2f2]
 ```

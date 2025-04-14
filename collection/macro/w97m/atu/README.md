@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── update.dot.zip [f26faada784a67b6e7c5f1fb58609343d28af2195d5416122879772944d1a4b2]
+│   ├── update.dot [69476ce52ced2bc4b9177cabddc8003d1874e273abbce14e5360614c63ae73db]
 └── b
-    └── virus.msword.atu.b.zip [4594fed69336eb29bd818449c199dc41e83ea5600996632a5c013882fa8fa250]
+    ├── virus.msword.atu.b [ff0eec9685ccb7c5197c937e450b432ac347a7944e77fa665779e1f6fa9c92fa]
 ```

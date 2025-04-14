@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.rut.zip [b66cc5ddc57c9ff26d9943a0b8aaf263c66db1d5d46cf3340608376b9325ba25]
+    ├── virus.msword.rut [aec5da630a13bcbd8ca8e9d1ca704eefa6d5eb2c9ac43624ae66d997225deeb9]
 ```

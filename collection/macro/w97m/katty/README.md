@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.msword.katty.zip [966e29b90a88d2c2c0e32b53326c32cb43ead175e0f823900f445569f8d8f626]
+    ├── virus.msword.katty [57ac8e6e830cfac4d5a7d743c720306690d5cfa2d5943378d587248e4b3ca7d0]
 ```

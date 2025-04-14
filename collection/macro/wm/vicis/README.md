@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── viccist4.dot.zip [6b74c5606d17344f264fc4603dd55a4c4291e9455cca7ebd2705ba4acf653505]
-    ├── vicis.doc.zip [d3248852831e98398adf7c7b08bd298b5e817b1d99236bebede2890db259709b]
-    └── vicis.dot.zip [fcee44240220cb34f2a65a896c1b8eb90b299017c437dc0f9c515495581c0d6c]
+    ├── viccist4.dot [f4052d602d46c980dd6b10c20b9318ca36c3aaaf72bf98edea52c9e6341ea103]
+    ├── vicis.doc [d1ca70ff02293e46367b29f9662a8f10666531cf9a9ff7925eff34820a46a182]
+    ├── vicis.dot [9c8896771e08e8dc410e4a5613a42c4767c2673422a013ce5cec4edd4e87ed17]
 ```

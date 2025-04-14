@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.ultras.lena.zip [29e481934bf6bfeed2d1e24df86473cc92e13b5a212de6ab80279a67c67ac9cb]
+│   ├── virus.msword.ultras.lena [357bd1d5f5dc0ac9f11d3ef64ace2397af7758d9e2a1ea0b90db2a9818e24fc1]
 └── b
-    ├── lena_b-001.do.zip [87c2af74b22ff0c69b14b6628dee2a7d87a256f497a17d33e0e59a3f1ec78763]
-    ├── lena_b-002.do.zip [9990f0f6f46bf536bb913d3c682ae85276b57897573e49b059f83df4374259a3]
-    └── lena_b.do.zip [e12901775ece10d932279255e9dc00e9b26994dc0e71c8ced833223c60150eee]
+    ├── lena_b-001.do [5cb4ff0cf06baeba3296af4054a5d626c6c950e3c4eccb985d92569f2bae5246]
+    ├── lena_b-002.do [aeb2665da8940e723014bd74e28d41ee900890f6e913d532a94bab0df4fe1ba7]
+    ├── lena_b.do [28d12fa2536f72efeb0640f7497d786bd67157fec7d56abae70afa7198fe5776]
 ```

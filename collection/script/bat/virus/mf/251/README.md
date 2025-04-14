@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── bat.mf.e.zip [42822f207a1dd369227179209136c19c71548d8f2ad7df3fc20ae5d29e496bd8]
-    └── virus.bat.smf.h.zip [8b56a33f1d7068f57358e29af42823046076b1a8dd765304646daf6a88816411]
+    ├── bat.mf.e [5458aebcb2c00caed60ca65dc4cbf3f27bb11ec0819aa3763b477063e5209db6]
+    ├── virus.bat.smf.h [1a2f3ec7223c2580f63e7ed21e1ec12a78084f35b98800382e4ffe6d26911c23]
 ```

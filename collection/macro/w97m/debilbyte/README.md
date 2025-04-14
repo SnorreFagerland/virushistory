@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   ├── debilbyt-001.do.zip [2fcf199ce2f29795171b1b4f5720b67c6538866da2c8fb4eadb9a9268af2fa96]
-│   ├── debilbyt-002.do.zip [f88666d61185aa101e8d3667c694dfadb5ba9517198e192d31b9f08908b9dfcb]
-│   └── debilbyt.do.zip [a3457b0aaf55fa127e2910c9c63fc165a1bde73d674397bfb0ac2a1d2e6d1412]
+│   ├── debilbyt-001.do [820e5bda6f9da8d7d0688bb981e5b10851800ef6e921bdf72d66a022640636f1]
+│   ├── debilbyt-002.do [a35adeee787d7bd1e87a711cfef03997f9e3c5aaf08164ad11b2066f23b79e88]
+│   ├── debilbyt.do [2cb73796f7d3b2d35ed8862d9b283b8de3501f40eb22afac5f8877f6f2bf1ab2]
 ├── c
-│   └── debilbyt.do.zip [43fcc09ff44c7c8c3034c82f3e70538bf0b1388d56cf2522919d5257290dd738]
+│   ├── debilbyt.do [6148edbdac37788e500c62a055c09a4f15d8a43b3e76e80eca1952c9a9bedd82]
 ├── d
-│   └── virus.msword.debyte.b.zip [432c5afcba0a52e77eb891e9ef29b84ff7df8812db0f819d51f16181095542a8]
+│   ├── virus.msword.debyte.b [346af0a8ef4bef51a7f573bbaa4db4c21c8eb2f696ab143157bbbd85785208d5]
 └── e
-    └── virus.msword.debyte.zip [38af93a008e76deef7906f96b397211d20f3e1fd01357c35e402a8e7107b8761]
+    ├── virus.msword.debyte [8f8b3f4d0069dfc141db3d1aeeef136696ee6f053a864854bb4a8a3c3c653ae0]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.cviper.zip [b2152eaccba75fed4022e4a140abc98b4fb2ed98c4843fe7eb7e78bf9c2205c2]
+    ├── virus.msword.cviper [7c450ad6f68b508bd10561f8efbcddff8bb6544db292a4922a0debfa87a9bbbf]
 ```

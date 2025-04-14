@@ -3,12 +3,12 @@
 
 ```
 ├── a
-│   ├── darkstar-001.do.zip [37513f032979c50cb55b26bf4db3e37281e2552a7fcf6d2550db87b09a012a29]
-│   └── darkstar.do.zip [bfd3259b6104dbeea42e4e7b129c1345a83bbc79d48792a54332a6c95996d065]
+│   ├── darkstar-001.do [d84efd2a3f7a1760da4845606d1ea4b54d3ed6af66f73ff22f9979e4cb2f487d]
+│   ├── darkstar.do [2263f0dd7d4ba498b5911ce349fc6e86fdfbffa3321d0f81d99db3e4232d0219]
 ├── b
-│   └── virus.msoffice.kryptos.b.zip [3863980dbedd6b5f7618f1670e4624e46d1e66c5005a7134cfbb3f72bcebbb55]
+│   ├── virus.msoffice.kryptos.b [b3c159600c9a8975c876346ea5c67016668bb67c3f60cc05688bf181b59603f2]
 ├── c
-│   └── virus.msoffice.stars.zip [76cd1b5536740748a5031823486acdcbc92a4d9b4d049abd49ceb1d9cc815da9]
+│   ├── virus.msoffice.stars [38880a7c00b13b9d75ff2ba9ae9c53bc46f105cb15c3ca9eaa312b46c2fcf56e]
 └── d
-    └── darkstar.do.zip [701a7c375877a45c7cf4401a13ff4bcfeb0b10fe7a3cde5881331dd02d901220]
+    ├── darkstar.do [c22b5d3e424365983b49f6a07665b64d5f4df1e9829c9dadb90f73bd7810c752]
 ```

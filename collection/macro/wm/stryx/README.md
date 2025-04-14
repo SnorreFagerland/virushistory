@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── scanprot.dot.zip [b97543bfe0aa9c82909702cfb76dc6f9c920d717adfdbc016d37a8a302ce6ea9]
-    └── wci06163.dot.zip [1701d7b4854c870e7f1a6a1b0b787e5b1b6e0c5b16973bc7530693f3f70d9359]
+    ├── scanprot.dot [5296ba904647355f5d535617ce7cd05314d765aa1e682fcc54e60458925e65af]
+    ├── wci06163.dot [1100335c207eff03de9a679c1e1d6bdc6d177cef08fcbdef21222530dcd17de7]
 ```

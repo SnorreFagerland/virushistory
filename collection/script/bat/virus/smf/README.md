@@ -3,13 +3,13 @@
 
 ```
 ├── 121
-│   └── bat.smf.b.zip [f1cc9e8901d5cfe579ec1c3a08a9af6fa9fe8980124c6c1e7fdb175b39b042a3]
+│   ├── bat.smf.b [5ef5ef4e04f8d1b8bbc349465d576a6cc727102a0781f46a27c9d4a52eb2f243]
 ├── 137
-│   └── bat.smf.d.zip [50f045ced0687cf1b5a7d94aadb20a43bf01be781347bbdfd656e479e4ef5e21]
+│   ├── bat.smf.d [f78c158b8172f6110775cc18b422df13202528fbd92a803df7d9fa088bbef0f4]
 ├── 166
-│   └── virus.bat.smf.f.zip [6eb31ff6662e34fa3faf01563b94716010c969678c51c53623a7e80d908535db]
+│   ├── virus.bat.smf.f [71babe8d78fef5b1a8e55eaffc4baff25ea085f3c8d54812dbb6790425fccfc2]
 ├── 266
-│   └── bat.smf.a.zip [d6a9266871853e6fe5ed36c7fa92b707867cc464ec93f689c48d2bb42f2a29ab]
+│   ├── bat.smf.a [2ace9115e775eb2219c12866ef8f676f834c3f62fc4274f174b0ea11ff60a06f]
 └── 301
-    └── bat.smf.g.zip [3cd15e69828fc0b406c9eab7ac28b7c52b7846b8f14fb63268230815c9242601]
+    ├── bat.smf.g [6ef05fa448be996f197ae79b6444d6f55f38e5ea1ceeac0257842c4bc28cf959]
 ```

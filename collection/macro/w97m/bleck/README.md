@@ -3,30 +3,30 @@
 
 ```
 ├── a
-│   └── virus.msword.bleck.zip [2907fa1d156041a775748a77e3b84b3db98de05418d890ec6afbc7de070fb2b0]
+│   ├── virus.msword.bleck [02776e6538c5aa681537e4e8c31a1b223aea9787e06130f72346ed82c75a7fed]
 ├── b
-│   ├── bleck_b-001.do.zip [3b92b6a5de443c295abbaafa43cd17e5735ff3da645d05dcf0813a38713dd281]
-│   ├── bleck_b-002.do.zip [21a88c2cf92edd3660584b4e5a0de2f4495c3edcbcd604c68cd47319a9f68582]
-│   └── bleck_b.do.zip [5fd580209b803d02401879e8d2cc71cd076bbb78db19089adc1bc4e4d465bd46]
+│   ├── bleck_b-001.do [667915a674f89e1113767b71ec18228e37226532f445bf502e97bb2b1c5bd8cd]
+│   ├── bleck_b-002.do [a0adc123dee05abef97818681bed19359b13f84b6496207b8e5e4d236403ca40]
+│   ├── bleck_b.do [5f3fb2f536dc64de969ac0dccab01772dde8aed95da108d40979c5b160540dc0]
 ├── d
-│   ├── bleck_d-001.do.zip [c23b460f12f214e46e24f25cbba997131b84c0aeafe1ec1daf11e63da42de06f]
-│   ├── bleck_d-002.do.zip [ce0a4d439a239bdfb97062417ae7bded1a335229873df4f4adb06b40cd32cba5]
-│   └── bleck_d.do.zip [56190d8503c8601f46b763cc43b9b1a6c03dc3ccc3f3dac38d7c77db6deee506]
+│   ├── bleck_d-001.do [16d9c2ef22de56643cf85205c74dc4647851192952ace00dbcc04f9078973651]
+│   ├── bleck_d-002.do [2e740d5eb7bbcd81cdf362755cf9a8396d1541cb709a7bcb959f50e855846355]
+│   ├── bleck_d.do [0d27c439ada04ce8cb8a2775615f762cc3953389e8850b82b1a1637490c07ebb]
 ├── e
-│   └── bleck_e.do.zip [93a8d14de77d19d5e537bf91d4e765429806c163cfe3d8c631746132c3117037]
+│   ├── bleck_e.do [82be05539fc8c6d502ea43400b09c871415ee4218fe3e51360cb715961bdbce7]
 ├── f
-│   └── bleck_f.do.zip [73139f0e212e68c93bc3f05b8f78a4346b126ec0cfd84efdc962da3557ae7a89]
+│   ├── bleck_f.do [ff1ec6221b890e271d4e568fd6ec134ce36c0b38e7176522e418f045508120da]
 ├── g
-│   └── bleck_g.do.zip [d3251a76492b3c5f34ff158e775bbdec6a3b9a84b9883985309b1c2caf2660bc]
+│   ├── bleck_g.do [1d3b3a508d093643992cbc1e29f7a552dab3bd4e37217988cf011e7fd5e53cb1]
 ├── j
-│   └── bleck_j.do.zip [c91fcd0eb11204aa0ee19c3bff93aac138a5523c2957dfca7a4cb16849c943f1]
+│   ├── bleck_j.do [307edda7a78f93b3febd818a95cf7d330b28cdb564155d9ec0c1175b2f7baa76]
 ├── k
-│   ├── bleck_k-001.do.zip [6afcc0abb2e9c75a7096ef9c674c30e5163397be2cdd1a656b861866c5d2e81d]
-│   ├── bleck_k-002.do.zip [9eece25beb8e1e0190a0bd9f39ffbd6f831fb84b55427bb4b25f0a12b844e3cd]
-│   └── bleck_k.do.zip [c58b4cf76f57bcaa83e7540d6dec2ecdebe228fcdbb5274bca1df4feb644636a]
+│   ├── bleck_k-001.do [8ba246c56a3023ab6fcf4354c607eda53084c4f5bc5684c2840f7694348a00b0]
+│   ├── bleck_k-002.do [c5a50e8ac551c443b0b18c133a2bbff707105ed4bf5c33a98351550d31d9f04d]
+│   ├── bleck_k.do [4fef205c47cd31a19706f2a45d9870130a6ae70b184269d3459e70b0e240093d]
 ├── l
-│   └── bleck_l.do.zip [00ece8f548263126bcec17d69e7c3043a032b9b3645a241b8463154e66cf39b0]
+│   ├── bleck_l.do [82e541e1606c582858d229788ae2a30426b2b53bf63783c88ca4f4d5e27ffb63]
 └── m
-    ├── bleck_m-001.do.zip [d81aacf462d155c8d6c0103099e28143ad023a69add569167d08f6297d4083db]
-    └── bleck_m.do.zip [547cc3b1ff86c046df1f3825c80f48988bc67d96a2d83e5a8c4384ded030bb6f]
+    ├── bleck_m-001.do [72a377284626975510502610b352c0e7de2e76c50f1f3e9cc89f91556cfe9b86]
+    ├── bleck_m.do [2e16cb21567088e713aa596e7f63c5fe33c95fceb7075c25abff7b47c0fd89ee]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── buker_a.do.zip [a23b4413e8aaab4f22a54b8abed1af927bf78305a30bea604269fbfe360c5d89]
+    ├── buker_a.do [da418e8bd4a6b50f9f38d13824d797e644452702dc630962a56da707adc669e5]
 ```

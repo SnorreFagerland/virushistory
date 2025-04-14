@@ -3,5 +3,5 @@
 
 ```
 └── a@troj
-    └── virtool.bat.pbve.zip [6e8d44c74a2d36089bac9afd7585d7bb4abdb82407c04e5dabec55a2026355ee]
+    ├── virtool.bat.pbve [27bb52bc39c6cbc804ec20d565f6eb8d88dcd32cae4f689cc5ca82a8c4987926]
 ```

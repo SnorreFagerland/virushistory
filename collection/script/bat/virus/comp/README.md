@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.bat.companion.b.zip [68cad042f7c97e167b56a5009b19d3e90bce7be761057be2c9a31ccc2e0dffb4]
+│   ├── virus.bat.companion.b [9999f1664ec93191cb505d922993da03cc1f5727dc9815c338716de3d45afc9e]
 ├── b
-│   └── virus.bat.companion.c.zip [be0ca60da4645906823851d1c89a9a73c477749d77ea2d21ae5823bbc32c9e43]
+│   ├── virus.bat.companion.c [1205693eca29fb083dbbc06ad840b729a4deb17650bffddfc2cf374397f05f43]
 └── c
-    └── virus.bat.companion.a.zip [78467985bde92c7d8210bf690cda6ae739449bc075e492d000c6149de0b793ff]
+    ├── virus.bat.companion.a [602c6f84444471f8c5165b3dbf5670d46324a96c31e1651c3a23c663792d9505]
 ```

@@ -3,7 +3,7 @@
 
 ```
 ├── d
-│   └── trojan.bat.delautoexec.d.zip [9b9102f85bec3a190335b1932c0cbc9cf44eedc33da33a45fe8201215d9cfe16]
+│   ├── trojan.bat.delautoexec.d [4ada4a2d3ae2c5a59deb4c51358f6cf023a5a8da048f8610fe42df0c114e9b50]
 └── e
-    └── trojan.bat.delautoexec.e.zip [894b211483e77d4d594ab7c031c4eb63a7326eec805d2809fd7a0458aa69484c]
+    ├── trojan.bat.delautoexec.e [adf777460fa0271ddd5f645a9bd8d5e10afca88577ef73749985a21b9c2a8005]
 ```

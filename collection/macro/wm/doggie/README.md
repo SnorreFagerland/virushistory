@@ -3,16 +3,16 @@
 
 ```
 ├── a
-│   └── doggie-a.doc.zip [3ea6e4f3eec1d5b3c98c2305c2f83a60952d7a29910a42b12f0cdaf56e10e89d]
+│   ├── doggie-a.doc [51f472580d1d91a6d02516601edd694fb7b59392012219a214a0bcc814ecf1cf]
 ├── b
-│   ├── dogg-b_2.doc.zip [2cc61676cae93508cb7f8c641beae678dd74b6e24b3590f4c0c7845840331414]
-│   └── dogg-b_4.dot.zip [28cd73096c6b83e2a270b71c799304bf763274e5aaf6192ef9d141d61864bb72]
+│   ├── dogg-b_2.doc [8cdb741fffa1241ac8a06ee8547bfcc6d2cf7b3eb7c3c570077ad98542f6c862]
+│   ├── dogg-b_4.dot [1dc96adddbee9a6043e2434580a43822fba9bab747c40adec2cd5a6aaf0acf8f]
 ├── c
-│   └── dodger.dot.zip [50718068bd256eaa2d6739e44bc77f03587b5f0972dda9068938dc97f7199d35]
+│   ├── dodger.dot [9e81794ac094db8d44e70fccbcaab4b6247655fff82c132e23ddbce508370af8]
 ├── d
-│   └── dodgerb.doc.zip [c17acc74783959002bc23dbd5e066415f048c8a3168d0a5e7299f7140343ecc3]
+│   ├── dodgerb.doc [50881d2459f5a76aa252d036c46e5d5a293377e9b9ecdb164f68e2b80e666154]
 └── e
-    ├── dodgere.dot.zip [fdaf5d006ebc4c594d013f583550da3599e819ac15d67f0fac72c1662aea0c41]
-    ├── doggie-e.doc.zip [e04bea42e6a3ab9323500170883f06ea2d7dfcc46be9ab7940bda664dc5885e0]
-    └── doggie-e.dot.zip [abce198a999ea436227956417284cbbb2b3bc4d302fa2c76b76e92aaf0de1664]
+    ├── dodgere.dot [91900c647376dcc543056d482d40fe6dcac601222a6bc4d785da8eee1063997a]
+    ├── doggie-e.doc [5743e7371a1573f62658ae715ac8dba30b665087331af062f7cdf2b01ce05928]
+    ├── doggie-e.dot [75014bc2008a7343ef07a15a56c3d7ba84c3722018773624aa01dd15f0ac35fb]
 ```

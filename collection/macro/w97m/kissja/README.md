@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.msword.kissja.b.zip [454b5d6cc13dbeff160457fefb08235ee343c13e4ad2c084266182fef350cba7]
+    ├── virus.msword.kissja.b [9984dfbb25facfa0c4ac1a427046a51e60e2a5655be128291a12b05ffe69b59a]
 ```

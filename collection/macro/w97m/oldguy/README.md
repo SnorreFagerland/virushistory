@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── oldguy_a.do.zip [6c9d22f0497ce542f59197d14147f242a6b98ee6de1e53655653e75104da9240]
+│   ├── oldguy_a.do [8012ee38e9bf791a2ab08c23fb1650b19d3a495355eebfbf4412d7f83406ad57]
 └── c
-    └── virus.msword.antisocial.r.zip [e45d064a32d3ffda53c7d1030023d972a8242bf0818402abe80574c121be3070]
+    ├── virus.msword.antisocial.r [5e0f6cf7cafeb2ae9daebbe06fc854ec72f87c952b5b67a07daa972dec90266e]
 ```

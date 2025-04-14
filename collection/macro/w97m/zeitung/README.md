@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   └── virus.msword.zeitung.zip [5d25ada06d38fda9e3e2082f90083f9e600f75909a39ee0e9b36714654b3309b]
+│   ├── virus.msword.zeitung [5052a28aa606b7591cf7223094974c4109fc7664d0f5d3f4f6f5484690dff77f]
 ├── b
-│   └── virus.msword.zeitung.c.zip [4a456a5efced8d9d3b54615422775a4b13270946d98a822662c840779e6b4800]
+│   ├── virus.msword.zeitung.c [df1f61939850fb12aae7046bb7f09017e1130fddabc79fcde46550c90984930f]
 ├── c
-│   └── zeitung_.do.zip [b40d4380685a025cdbafbd4ea503fbcc00b0c942b944bdeb12bcd29a802d7891]
+│   ├── zeitung_.do [096bc129995d7a7f0fe0a201045738818875cb44b428308ceb9200cdc15e0cf5]
 ├── d
-│   └── virus.msword.zeitung.d.zip [d7f9199db8a500d5a0fc68600c6af37527df01fc0fba01652faedbecb2d6b602]
+│   ├── virus.msword.zeitung.d [5f2bbaf7d5b38f358e6074e8c5b05573c322230f39fccb394795347906821099]
 ├── e
-│   └── virus.msword.zeitung.e.zip [bdf87b8979f44e6e8892bf5e09563ab2ab1e3e689b6f299e7bc5d8fbd61babcf]
+│   ├── virus.msword.zeitung.e [8f54031ce1b90817ad505d49da74c79864a44a691ebe8ea611f412969f0d0708]
 └── f
-    └── virus.msword.zeitung.f.zip [b439ff6da128bd5880eeaafb5b483a3bf8e6660839a3f57f2733dc3300ac29a9]
+    ├── virus.msword.zeitung.f [779aa33688ceabb1d8a502db4d5566601982942cd5bd54052192bc3b0c17b30a]
 ```

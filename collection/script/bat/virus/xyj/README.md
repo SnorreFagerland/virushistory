@@ -3,8 +3,8 @@
 
 ```
 └── a
-    ├── dikshev.yj.415.zip [e01e6ad9f329b8d0da35b2ad4e4520b26d47da9d1533c90544458121da1b6093]
-    ├── virus.dos.dikshev.yj.404.zip [65ba19460ebb72e86e02dbd9ed1bc4ff4da8e0d208d300dc82999cc9eea6fe48]
-    ├── virus.dos.dikshev.yj.414.zip [3cfca72b0841018dd9460a0f90a8b80090c15ee12b95a1d16b326f3dd51dfa97]
-    └── virus.dos.dikshev.yj.427.zip [31ce4078c49d417e2e35f431ca2a5e237e35f0edb45c9cf4f28199cec1d7248d]
+    ├── dikshev.yj.415 [4a80b4f85c5da2fb3a0a860af2d279333f1b093e2ba275be3b09afbcbdc0e848]
+    ├── virus.dos.dikshev.yj.404 [b4880458882642b6fb7c799f9cb990a7948d5dc42a0de2f1427823f3f6362b4f]
+    ├── virus.dos.dikshev.yj.414 [a7c60616601f566f14c026d759c1e297e3eb96428301d1ef7ad57677cb52c76a]
+    ├── virus.dos.dikshev.yj.427 [35c4368ae28175a4fbef8c1613209c853706a242332f5c29342435c3662c4d3e]
 ```

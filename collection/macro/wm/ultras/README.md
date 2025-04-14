@@ -3,5 +3,5 @@
 
 ```
 └── c
-    └── virus.msword.ultras.joke.zip [d3d49a971e5e7739e1b42313c782361636580c23082eb3fcbe808d66084f54d1]
+    ├── virus.msword.ultras.joke [a06a7bd7e9d0aa57095f3aeab426bb40c48da98c7223e6955dbed6c3082911f3]
 ```

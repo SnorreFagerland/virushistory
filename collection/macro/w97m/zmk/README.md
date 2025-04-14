@@ -3,32 +3,32 @@
 
 ```
 ├── a
-│   └── virus.msword.epsilon.zip [69c83c6990765eff1413ab37a48e042c6c20774e97204029ef9542a32354cff0]
+│   ├── virus.msword.epsilon [ecfa741f9a188b579af7309c96e38f18d8c4d2af41ed7b42cdd892ebbc0b270a]
 ├── b
-│   └── virus.msword.zmk.zip [5c7d19ef5556786bf74a7e0c3062aa3044f34a713ff4efaf234a4234b2d3ce59]
+│   ├── virus.msword.zmk [b137d9838bba6c9f0850911161b044b87a184a9445da7482243ce234fafc6f28]
 ├── c
-│   └── virus.msword.gamesvirus.zip [b88690493293dc22d6488779e47fc91eeee63ddb6d32acdeed3fd48fe64346f5]
+│   ├── virus.msword.gamesvirus [96bd98d4ce1977bf5efda9d981661456f87fd7c18da74db5ef0b04fa0700d171]
 ├── d
-│   └── virus.msword.multivirus.2.zip [a9f32e357f64513078f6acfe5fd4a68904be2e898ba3f440b9a1aba12117e00b]
+│   ├── virus.msword.multivirus.2 [97f7cc3e43a0b7e1e39f453bc590eea080692a01fb418e4cedb3f52dacfeee1a]
 ├── e
-│   └── virus.msword.paixvirus.zip [cfe076439349238489a9281f7ec8f9239cde1cfc95cf9d1fe640978de1711745]
+│   ├── virus.msword.paixvirus [2f213ec41d753074c8a7cebf4c65c358f14190b16136efe8d36eb8460d7ac47e]
 ├── f
-│   └── virus.msword.zmk.f.zip [c44f0fc20d54100cd0264e72698033437f58bf350ec8fbfb9c84977ba4b097ef]
+│   ├── virus.msword.zmk.f [d44a0417e05e0c9882c3ccd0ae0e427c3aa656ffc910fdc18b37fe8665fe6780]
 ├── g
-│   └── virus.msword.cryptor.zip [c136193b0a079ddd9159b5adbdcaf50c70fe5dcc7f7182d53655197e2b6a045a]
+│   ├── virus.msword.cryptor [c5c037e403f73d8c619f7dc1169264903777c2e39ec2a4a6e68124952e9c9535]
 ├── h
-│   └── virus.msword.zmk.h.zip [2d428ea72942246afbdeb55970c5ffa68e08a359f82059581f4646bbf8b11f5e]
+│   ├── virus.msword.zmk.h [0b4d44c78f83a3ca266c4684e68ba5ce4a151e754aa4c98fd0109a25a4aa01d5]
 ├── i
-│   └── virus.msword.zmk.i.zip [64b6ac15a0d57efc8f3ccef77c03b2abdde37dfe236fd8eec5698591b4a2d156]
+│   ├── virus.msword.zmk.i [166b87d5f1c338eb7459b222c9bf9ccc61a8f1a91cae1b2ff9d7c025992ca703]
 ├── j
-│   └── worldcup98.doc.zip [c1523643b70224fc911a7767a7670cab948beb4b2903c2066df284614dce6ed2]
+│   ├── worldcup98.doc [3aaccf2b04985ad2026da0d5a13f190c328a5705431bc5fa771d3ee3c7d1007e]
 ├── k
-│   └── virus.msword.multivirus.4.zip [272eed69413efd782bbffa66b623073d8a5faa4e58e1e7ea54c5b5b7bf0c0ed4]
+│   ├── virus.msword.multivirus.4 [6f2310262775b10de9dd7f768dd548eacb29f787156390863b9f574c31f54329]
 ├── l
-│   └── virus.msword.thisdocument.zip [6950d8cfbe976939348d51aeb040bbc64cd07e89c011de7cc3433639572d989f]
+│   ├── virus.msword.thisdocument [c241257df28d308457245f9a5f0708e7afda247e262396eeec07189b559760e7]
 ├── m
-│   └── virus.msword.wnw.zip [e6d1b7c9107fff0e678449e9dfc6674256bd6cc1e27f44314a9cd9e088dcb65b]
+│   ├── virus.msword.wnw [24854b37269497c90ad129c7a5c9b8fabf10fe1feea14ca0a4f02da3bd9d41cb]
 └── o
-    ├── zmk_o-001.do.zip [246d265d33a6d07002250da08a6be0d270ed93340dcbbe00a06dd0a58faa473f]
-    └── zmk_o.do.zip [8ca7001fdb99c096f7628d73c33fb12d1f7d25cccf132683be39a01cce8814c0]
+    ├── zmk_o-001.do [dc1ddec9dbaa7bbb44c5a98f475ffba60f42d86b2abe7913f14c446dcb092ff0]
+    ├── zmk_o.do [c3e2f5c0bf3153c418d503ebac34aaaa42c4f357c813bced9c85049a56557afc]
 ```

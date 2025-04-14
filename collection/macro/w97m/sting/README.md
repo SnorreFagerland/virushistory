@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.sting.zip [41c59e55a4f9e7f356052a4d1549eecbc8c7b2deefc75a13ecac0b54496f56df]
+│   ├── virus.msword.sting [e4fee654158caa00d9bc1a8739fbab00cd45db28f4b2451a2136d417296f27d0]
 └── b
-    └── sting_b.do.zip [24410ee9b52e21006d622492dedf1cf0ffc9d6a431bbbb8f9208ea9e93d10b4d]
+    ├── sting_b.do [133d927b5fbc38049460b06fe71ef7ec17141b160c1d6c3a7f99351c5e4dd302]
 ```

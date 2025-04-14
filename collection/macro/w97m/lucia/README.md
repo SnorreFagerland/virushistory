@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.lucia.zip [d16ac974699ced925b8d64165767bc345a5589673ab96f3481ef14f564b56ab4]
+    ├── virus.msword.lucia [59b92d6befe0dca6339a128258ed6595b208c9a03dba58b33706dc86437e0615]
 ```

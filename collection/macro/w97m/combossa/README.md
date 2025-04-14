@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.combossa.zip [8205a4aeff3a72d04e3c18bcad7b933c7d2a9bd3e71cd442b1d3bfc04d478fdf]
+    ├── virus.msword.combossa [20f8f375ede79c502404a2ead5350ac9fc6513091dc6969e9421ef75a5c0d667]
 ```

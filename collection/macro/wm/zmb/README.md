@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── zmb.doc.zip [952df1d326402d804267c80717eb419e32a3fe4e4320cb728c5ce38a13d5d842]
-    └── zmb.dot.zip [27bacef8c459ca2362606b01b0e1ee2fa57406ac3d2a12db75db0e5001095061]
+    ├── zmb.doc [4da28bbaefebb721dbbf58e41f941c8aff14a91e38361cadfd4b0926d486dacc]
+    ├── zmb.dot [91c0109b074414a6259175747d2289d32cfbf9e32f45c913144260e98a46d895]
 ```

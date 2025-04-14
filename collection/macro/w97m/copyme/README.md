@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.copyme.zip [0856465d208f6ff68c5e25f93e41c23a71f0295b2bf73c877086b03540a55ea8]
+    ├── virus.msword.copyme [020ecb953ca2fe3a002ba21df1691c88931e3b162df1d0a2f31b8da9e6d2c307]
 ```

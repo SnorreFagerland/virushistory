@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.riophosis.zip [c12604f08da6fbbd1fc6b97a1e4317c48db28c6a0da3296a71d82f1c6266afba]
+    ├── virus.msword.riophosis [d3f64db31d0c235bb84ad3ec9826cbcd078c9f99e42c55e067dfa36303a43faf]
 ```

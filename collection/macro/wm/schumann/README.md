@@ -3,31 +3,31 @@
 
 ```
 ├── a
-│   ├── schuman.doc.zip [d8ac938de5ca1cc0df9d2e24ae5337efc05bbc171804a30e61c9a4ed221756db]
-│   └── schuman.dot.zip [942f3faa79039da2463e831adb76567aa0271c465f01e60e785c1407a1f99895]
+│   ├── schuman.doc [ef6dbf334ed807017ad6dbcece2b89cf170566b9db35f97c736d819fb837549d]
+│   ├── schuman.dot [eb318af4c56a5ebc43859529c28d10dce5523883f5b17381ae7337fdb5a13386]
 ├── ab
-│   └── virus.msword.schumann.ab.zip [857783f3ebd34eb570e0d0bf7970d280817c0d2093076293eeb783b99f9e4ab3]
+│   ├── virus.msword.schumann.ab [dd404edbbaf31d44fe4abbff37b86a1e6f4f62df7469deda62f10fb63a9b56d3]
 ├── b
-│   ├── schuma-b.doc.zip [622cdac594791cd52993b82157573cc1420ef40111748749daf6776726ce2d4d]
-│   └── schuma-b.dot.zip [576ecd9e9a2dde4267c2d5fc26ed4b6a98d8bc4addc5010a399c2041ca9e2414]
+│   ├── schuma-b.doc [ed06fd8917aef8bf9525e2a9cd21594e0787b3b8f0b46459e9bec7a86c54764d]
+│   ├── schuma-b.dot [0c5c43ed1cacfa5a1ea1cf8fb737e6056d2f073e7b2b8b05291f8aab45700745]
 ├── c
-│   ├── schuma-c.doc.zip [dd544e2ef404280bd43b74ca09b921566049bfe736843cac2aba173329ebffdd]
-│   └── schuma-c.dot.zip [b056159a3038912f38c0b775a17f5e0ee614446c41e0a7a4310f8c3583e34ac4]
+│   ├── schuma-c.doc [95f4ac4f0d762c191c6db6a6745f00a8ca7c0f212dca5f1c4f91eff6ca4901c8]
+│   ├── schuma-c.dot [e2bad78f77ba2bcb9f3614a9209d6e25428276ad42144aaf1177326dd78866c4]
 ├── c1
-│   ├── sch-c1_1.doc.zip [02faf64fa98f48883d9c4fd2f0f5db28c61ea201580381e7274e2de4ffe40a55]
-│   └── sch-c1_5.dot.zip [ff5db3336df390119c7b35b094c52906884f261cc36b56ec80fadfc8be152b0d]
+│   ├── sch-c1_1.doc [969c8b2f4cbc9fe2faef75fbc9915468179698aa349ee9c08df6c29bf98c8335]
+│   ├── sch-c1_5.dot [88bfbc774d34014a08bd8bf60627865de0586b51ee5d05e64cec7caf74677a6a]
 ├── d
-│   └── virus.msword.innocence.b.zip [d34df546158a37022f1ac10461ace424f1d3eadc8ee3f5b019a641dbeaea169b]
+│   ├── virus.msword.innocence.b [1eea2dfd82ca2cc4873a1b44517e56ce10b39f084c46fb8001a9c778ed292f0c]
 ├── h
-│   └── virus.msword.schumann.h.zip [41d686813fe23e155adfa4b9c4e0c633ae52eb6b5bb388795e47d0f3c31d7398]
+│   ├── virus.msword.schumann.h [4194e2ce0c1ed46f8e6f787d323e4b89570bdb02702f14724484fb8710495018]
 ├── j
-│   └── virus.msword.schumann.j.zip [75c61b268e70f48605685ab7cda54ab725350541b79cc6b31e864c0cc586a88e]
+│   ├── virus.msword.schumann.j [c44aba54f8448e08ddeecf18f775be9ef3d33016b0ea79f52407cf9ee6f15d50]
 ├── l
-│   └── virus.msword.schumann.l.zip [1530367e8174d48f4b0e7a1201a4faa2b73c143df51054f98561c8ec4af3f254]
+│   ├── virus.msword.schumann.l [d52d841b1920b1a98a7e78d0e7750864e444f2d7535743acee26887a5d249dfb]
 ├── m
-│   └── virus.msword.innocence.e.zip [52c39d535fa3b9deff1e5ed6de2581e616252a869d465e67dd4c283d9c26af9c]
+│   ├── virus.msword.innocence.e [63bfce9ca94f2b809d0fedd563d1c8f7ba51e50794d04b41eaf4acafaef30d2d]
 ├── u
-│   └── virus.msword.innocence.a.zip [45dfe92d2d9a51658017c1018dcb862a8659ebcb8d32d33d519d6e4085e8ab3c]
+│   ├── virus.msword.innocence.a [8168af72dd01be6bd38671e98641587a87c11d669f807ceef7dbedb8053bd732]
 └── w
-    └── virus.msword.schumann.g.zip [cf3edb7f6ef2bf00caceff3f5605412a9530cc67e68843267ea370de9adc2bc0]
+    ├── virus.msword.schumann.g [39c51bcffcdad306306dfbe8eaf8b617604169081ec012f2421330c61ca26c71]
 ```

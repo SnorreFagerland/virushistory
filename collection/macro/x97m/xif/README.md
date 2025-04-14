@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── xif_a-001.xm.zip [0ff002b844b0e7f5e60041d04f31b8cc4ed6d544ead697845317da7394d64337]
-    └── xif_a.xm.zip [fd8ff3656cf55594af4a3877b36178c66771b29af4170212268a4db8056bf5e7]
+    ├── xif_a-001.xm [fda454f55985fdd7f3591e8b4756a84ae4ff12bfeb4c70b2355d793e5d9dc9ad]
+    ├── xif_a.xm [d40379feb6060329eaeb8c9351b8253ba08a002806550692a783db382be75dda]
 ```

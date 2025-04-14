@@ -3,13 +3,13 @@
 
 ```
 ├── b
-│   └── virus.bat.beware.c.zip [184c5f4c54dc2ef4995295e7dc54d41f0ad92ed5adb1b33c889add61be82d7c6]
+│   ├── virus.bat.beware.c [ce041451458d66a2d5773a61ef0c725d56869a8b61e46fc97480957296c634a8]
 ├── c
-│   ├── virus.bat.beware.698.zip [5c77e2f9b2249cd10cbacb3b0363acd24e59a29e73847fe995ee6f65d723cfb1]
-│   └── virus.bat.beware.b.zip [bffaf6aa0ab242985f247f2d6819e5a0b080d36e8c47d471c55e3edcc0a146bf]
+│   ├── virus.bat.beware.698 [6b79d5d97e3a3d140e69c946ae3e680529762401c4aedf134792998bc974b030]
+│   ├── virus.bat.beware.b [58dc6be8e220dabe51075cccc48b38734622b0cddacfea61e2f5c656f49a9974]
 ├── d
-│   ├── virus.bat.beware.d.zip [4cd6a01623f3f6efbee67115baf2dd2ba46c7bb2e988e74bbf226be67da5e8dd]
-│   └── virus.wbs.beware.zip [94486ff3baeaaa4854cbe137103a9ce302b2b6430af9b95e7c1f86a5ff60a311]
+│   ├── virus.bat.beware.d [81fb070d79a95325987f5842ab6a7030bb708ff2d7dd27fbc67979b44be5c903]
+│   ├── virus.wbs.beware [25817d3f9ced3f9019dad64d0f4f11f00aa10443faa666a17fd86484c86b66c7]
 └── e
-    └── virus.wbs.beware.b.zip [a20d669c03b52357c0606b6b52469c8e54a9d5000e544545719e0eab54355545]
+    ├── virus.wbs.beware.b [fcfbf7c5e1258f3200987cc48dc0889f0917c07631f864075d90a1f4041ae6a8]
 ```

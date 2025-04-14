@@ -11,6 +11,8 @@
 ├── c
 │   ├── enigma2.vom [0ff42660cce7182427e56abfadf32293614223b1c2d2599d11adc9409edfd7af]
 │   └── t1.vxe [eedac58d0f964a5300484675521b2ee2ada0dbe1e186a833d48a5484a7881ad4]
+├── d
+│   └── virus.dos.yanshort.1961.c [497e9de8c6f6cf2615159c2937003a03d868b8b57388ebd949dc190c5b7175af]
 ├── e
 │   ├── enigma2.vom [1fcf968388fe8e6b37c1a41968061afe45274acc6659daa5b27cba2843814658]
 │   ├── wci0121y.vxe [c03f779a0c64b3b3baa6acf1f188fdf9e2ac3ed580c54a8d5fdfaed44fe7da1a]
@@ -30,6 +32,11 @@
 │   ├── enigma3.vom [ffb058201c52a4079bfd216e3317f544f9914f09ffea0bc824ea8a67c06132d4]
 │   ├── t1.vxe [90c133fd23f9ba2ed15e85215c7e10b3c92bf91c189874b1f057803db19c2b95]
 │   └── t7.vxe [a24cc8bfa8e85c3ae54e17a4d07f69febbb758cea6250f1b62b7a11629aa9b81]
+├── i
+│   ├── id.txt [dd23700a0c35208c99f30cd949bfd5ae9734f596cd2d63d02a39aa2b732bac02]
+│   └── old_ya~8.vxe [663bd968f0c05de1e31341b772405aad1a4ffd5d437f60bcda9b183ba2d0afca]
+├── j
+│   └── virus.dos.yanshort.1961.e [791981cce5d52d12d17eaa19a75c8a3533e269debf5642d9a22cb148d77ee754]
 └── k
     ├── old_yank.vom [bc0e9ba21bc0794244c3bbc1c4944d5afa2b3d5e572010cb6a699148c7d5d173]
     └── old_yank.vxe [7dae2cd9e9a6aae34873506d2c840f47a174de985d2d61d341aa464289d37fe5]

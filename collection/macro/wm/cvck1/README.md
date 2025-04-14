@@ -3,25 +3,25 @@
 
 ```
 ├── a
-│   └── chicken.doc.zip [dfeec071e214d0395eb22d591c47d10a9b5066fb0407dcd7d6e250168ede78f5]
+│   ├── chicken.doc [d57c0a2fe511205cbbef87891aacf3af1dee588b9406dac5e843015878774e92]
 ├── b
-│   ├── cvck-1b.doc.zip [e44133af212752c00207ad91ee520a78d12ba2a581d690be35d8654078dba3af]
-│   ├── cvck-1b.dot.zip [1d688ce089281a92e140b2836c31ce395626f34eaa5457530c31cdd30831c417]
-│   └── foxz.doc.zip [9d76c7e2fe7c4d7971a139984116d944125d539a8bb2af60de6fb7ec660d9f38]
+│   ├── cvck-1b.doc [2b5a7392909cb099dab4ff37444ddaa5d85b31a922a3feb31e36edd40d9ca126]
+│   ├── cvck-1b.dot [43386dffc773dadd03ba11c5823109064b7305fd8d24a4572c88b505f4c35b6f]
+│   ├── foxz.doc [bf4c96169437ab8c1fd2f3e562c0084ca544e890f445fc6a2a6ae96e123c65e3]
 ├── c
-│   └── vampire.doc.zip [b8c3b0870d323b20bd68ec3b0634043cd63ce2ddddb2292fd78eca7ddbcb8c7f]
+│   ├── vampire.doc [49759294bd3506c09321b01ad96676525a588de5dba06c82179791bf7e42827a]
 ├── d
-│   └── visit.doc.zip [75b08f0859addd569f5bc692a7f6b255c6848476c61960c2a76e5435d0da2f5a]
+│   ├── visit.doc [651327f3d24d9a89f391fc028bb86f1f4a49e0de752b98e58e9e69319d45ccb2]
 ├── e
-│   └── foxz.doc.zip [99c7107a846d6f3419f69dd033ab25b5325d239198b9d6c8d6f5c8329db13435]
+│   ├── foxz.doc [1d11ed76145f21a9fdc01065b686a01105a4edce32ce8770eccf3f0da8def350]
 ├── f
-│   └── constructor.msword.cvck.zip [73ad17525083d8902d5e22a332d6bdfd54588ddc9957cf60a73a264b3357f64f]
+│   ├── constructor.msword.cvck [098cf670a1945daab1a9cebb3bcf9d398c7e4192cab4cbab086045856b425164]
 ├── i
-│   └── chick.doc.zip [317b1f8c9a807104b83431f3f8cdeaae99944db1131c4f16f6d7eb5cdacaa37e]
+│   ├── chick.doc [bb54f040bace06860137023a39747c13a078ab7be490eaf1e1c9843494286582]
 ├── k
-│   └── virus.msword.cvck1.k.zip [75447e3dd49a5796e507f9a2925a8c75313abe8143cf7c27a0f43fad48237c9a]
+│   ├── virus.msword.cvck1.k [d7401a37551a8482f1199bcd5f66f6f3a3e3e487208b436107bdf2c10eb9aef2]
 └── kit
-    ├── cvck01b.dot.zip [5c8f335ee91ee6c9d0612a917128ec375e9eb72d3536f226b31f01b0607c9412]
-    ├── readme.1st.zip [213f3463614f9095d8ddecffba03d29132f87fd40e1cd49a09003bdeca01e849]
-    └── readme.doc.zip [e713405e40def96936342f21d6b026810909314627e3995e1e8bc0e479fc8276]
+    ├── cvck01b.dot [ea5717033ad93d83035a2f1d013cf56f73ffef93bab1fd619d0a4694593b0cbd]
+    ├── readme.1st [21d068a7fa95ebaa51057d5c83ab6cce610d32cb46bb6e1fde3ff039759e532f]
+    ├── readme.doc [966618df7e5870cf94d6bc02ea8d58293e811d1f21b4e20a5f09635b2be232a8]
 ```

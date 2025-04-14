@@ -3,65 +3,65 @@
 
 ```
 ├── a
-│   └── triple.doc.zip [e26400ce46268cd12b5095061dd35612c811158ce02910b90debdb94c98aafc1]
+│   ├── triple.doc [0fe78766285cbc761116bf24ee0dc96f42e7244aeeb09ffe88d8f990462c0cb1]
 ├── al
-│   └── tristate.do.zip [c6005bdb6a2d639cc590c71f2381556bc07882cae90c7213c958382cdb54862d]
+│   ├── tristate.do [c70bb037250e68b537c84c4f1b5a9f445352214ffbea4b3be71e3a0de0a8331c]
 ├── ao
-│   └── virus.msoffice.triplicate.ao.zip [3d041535f2ae2eeddd2c13eea2182c91de99184fd727abb8ac8f55c68323f7f1]
+│   ├── virus.msoffice.triplicate.ao [c37e3e0e7803df10944735691a86db14079bfa7a86d3f06ef8a05135bad2996c]
 ├── aq
-│   ├── tristate-001.do.zip [c580fa392e9f74655102f839d9032ad5eb081aaacc8b1a970eb54a6f1b0c04d8]
-│   ├── tristate-002.do.zip [c494e8caef6d340f1d57b0154c098cc8b1c86bfddcfa9b8085402fd28c79c1c1]
-│   └── tristate.do.zip [9dfb4abbb6110ad86d794a7ccfd5c1f8902297e8c8638a771186691478052e9d]
+│   ├── tristate-001.do [f7a4bd67ff4b4d3f88e5f4bdbe12ad689b388ec69a8fc25741175919f4a5894d]
+│   ├── tristate-002.do [a834a03e09c6ebfe87e84a416e955848850d0a71731f4a334390fe4a67e778ba]
+│   ├── tristate.do [2eb859d61c8b3e99d603253ebe3fac8126c20d4e38038018b3ac35cdf0be7d19]
 ├── as
-│   ├── tristate-001.do.zip [842f52fc2313df887b8bc78d8cd68de4ed9dbb96a7be48539e66325bfd9a85de]
-│   ├── tristate-002.do.zip [74487c445893da11e87ac1d449f9c010d0e543a6b27b3a026f7fa1b9945f7bd0]
-│   └── tristate.do.zip [b9a06de0c06871eef339f5f2ab2c2f23618ec509e657a95e6e013a214dd752ac]
+│   ├── tristate-001.do [efc8240e9c4071eebac9f063b2b43896be8caca77f10bbe5ec2abff2c3c1cc6c]
+│   ├── tristate-002.do [a9b17439fc9121abfe81271442318950ef09ebf2cc5a8fea185213bb0808b868]
+│   ├── tristate.do [2cfb44296cdcf5ff0bb7d998ed19dd24ef4d7e801d6996243213fa624d7291c3]
 ├── aw
-│   └── virus.msoffice.triplicate.ap.zip [6a0b05c96e0c7b689e386d74ab86d1319b3bf2a0b38d27af0f0edf4336861494]
+│   ├── virus.msoffice.triplicate.ap [6e7dd976ac33ee33f311e062d4b11042617ebfdc35d4a62f80e6fbaa931d9074]
 ├── b
-│   ├── tristate-001.do.zip [ebcd61202b7e438bee88ff7e118e0176f59f8cc696099b82683cc598a9ddd67f]
-│   ├── tristate-002.do.zip [bd525584ae1b7ad0d83ffdc42e0fc013c537fd7f0ca6f3aca9c285749797ae62]
-│   └── tristate.do.zip [c38c1088255d5502d69625d25c0f1433b9d2efa974daf26764ed0d79c7faf6ca]
+│   ├── tristate-001.do [9376971684b28c63e3d124c30dbef4c6085e78a4e03ea3dda00d0f190f34ac91]
+│   ├── tristate-002.do [ff15fd221762b641a5d1b0190be86cba8b7ff2ea161fae3942b17c9c9aefa79c]
+│   ├── tristate.do [43c184c75ddc9619f43cd959b070277bf72c744699e5d77aa9af1d4f0be6e260]
 ├── be
-│   └── tristate.do.zip [6b4d3d33eb41cd47a7774feb29df39d9f2707ce0ab2cdde29630d67f894c0a87]
+│   ├── tristate.do [5ef0204a820f9d2fd3ee6a50f953c12d1dd3e7fb86452e0086d163d9114c99a7]
 ├── cb
-│   └── tristate.do.zip [287e64c8bbf5c0245f557a162ed2be723695321f08ba134f03a460104a604c6d]
+│   ├── tristate.do [2e227b51aad1097dcd11f50b23abe1606371526423ca4635d02a0eb366caca5a]
 ├── ce
-│   └── tristate.do.zip [de234f52207325884e097cc365a5a042d418dfcf9db6c8b1362d1d958e840d2a]
+│   ├── tristate.do [0422166d9e4ae5adf54335956d17cde989f8a2379bb3642c71f1bf5b9e9fe073]
 ├── cf
-│   └── tristate.do.zip [49f570df7e285b7ddfa0dcbb0bb1cb8d1f034495998440a296f644202df09e5a]
+│   ├── tristate.do [f06d8f4bbe9fff15444d3e1337cf57a9f730dd5f13f8471cc2b7ecd339b91b68]
 ├── cg
-│   └── tristate.do.zip [4104dadcdebe956fc9e2d620e4647074cf4c48e3d40e999adbb1bb44179b3d75]
+│   ├── tristate.do [455439194073ff94fd68d3913c6a2cfb3e03caf8132f29bd69b232c620696c7e]
 ├── cj
-│   └── tristate.do.zip [5deafb286c90731305a69e4be2563a03d83d8759649eb91329a106fba9bc50d4]
+│   ├── tristate.do [8ba1a83a6e9e8af1e3f129a001194042e346e5f207bdc19ab46837281156298c]
 ├── cm
-│   └── tristate.do.zip [dbd4a583727d32d3fb01602ed9592d89001bb066494a8b2a6ed40f9ac9ed5d3e]
+│   ├── tristate.do [84b07720e074a6476e2d89af0e9da9a7cae90fb0efa8eaa0d5f4ff6f60197049]
 ├── cn
-│   └── virus.msoffice.triplicate.ch.zip [60162635b8ee1492144d8d74f2b441dc0886d30254421e19fcd52517a05dd308]
+│   ├── virus.msoffice.triplicate.ch [ca02f620e4d2041cb523d6f80a890befbcfa9e77a61f19c04d28e10bd246a922]
 ├── d
-│   ├── tristate-001.do.zip [9609d562483d073bddb2a3c8e055b8c2f6f05fccd1bccc5749acbfa8a5f7e351]
-│   ├── tristate-002.do.zip [68421cbde68d2f79fe1723b32db19958cba8831df5806186b90f1eed7926975a]
-│   └── tristate.do.zip [4049b35d34f3de2b584ae3aecc869545506386eb182628c2eec2b17979f75794]
+│   ├── tristate-001.do [e78012031248a0fbbe6f598f99ecdffa2660ad8e9ac6cab0e187153db3181cdb]
+│   ├── tristate-002.do [be0b9aed1e6548526d83a2b07f83ae61b13bc3f7e40be7e800d44beacd82b807]
+│   ├── tristate.do [18daf96a1a3d10928248e0552636bb6396973e2beac027d69c828d914803226d]
 ├── e
-│   └── tristate.do.zip [07e87c41be8dd1e4326387f3099f8d6f76f118687d85f7ff8b1fbfdf2f5937ff]
+│   ├── tristate.do [66fa4d2ef4babfbf6c5e3a216f241fa7435b5e6469f7e5caa7b3723ea56d5a78]
 ├── f
-│   ├── tristate-001.do.zip [00ed1ee4acca0c57fe55d26be24a5e1887494d229b6ba52b06cbab7a9fbdb094]
-│   └── tristate.do.zip [ebbdae198f1f1f3b4182c88cb74eef2a01513c846075b7f928c5668dff9945a0]
+│   ├── tristate-001.do [bc262843fc4dd81e70d3327a235adb54e68e4249d0734ad63a5459763318eda4]
+│   ├── tristate.do [307566c4444acd197bd6ea356cb35a4c85b0b852a63ce2b28e68a590be3fdee0]
 ├── h
-│   ├── tristate-001.do.zip [4b1eefa1292aa62f7bf2b106d57341a2868e782ebdbab145ba90f74b4f48e145]
-│   └── tristate.do.zip [91b760addb524fb6f75fbc65f1b93efda14bd3d6da036e88647370a57c205b72]
+│   ├── tristate-001.do [b9de82d927099c67accbce3202645e631bcb4ed2bcb39a1a2318b4aefbb1435d]
+│   ├── tristate.do [92f9eef0981a6f362cc378aa067534e114a8b395e8f74c0dd9f60fb881b55908]
 ├── i
-│   └── tristate.do.zip [d02a63a653dadfd499d13f0a7f07439487659ff0c1812697c4c6e532bfffb6a3]
+│   ├── tristate.do [320694a83c95da8b7d57bdf5a2e257d20390767850c14f4a52414d9fd98329f8]
 ├── j
-│   └── tristate.do.zip [3b33040c7f3ff6636b005f2643d0b5d59b922e3c3cba4400137941ebe4add32b]
+│   ├── tristate.do [9eb2e6c44a3a4ac3bf02e050971df02a35ee08355f270d66d7bd3a90e60655dd]
 ├── l
-│   ├── tristate-001.do.zip [7953b042e1d9489632a9d409d4995252d5ca4f2b4377ec23b449bd12c4cb2e57]
-│   ├── tristate-002.do.zip [7a07977d9c36b1188f65b1931e02bef72b092c9f4b2044b5776655b38f0d2cc1]
-│   └── tristate.do.zip [bea06d90a74f12e96af871e5ac2e9035a1247b8f327e3f8d4f6a5c4561b04a0c]
+│   ├── tristate-001.do [fcb4809491532167a4d0d4a4a37922dccc48567545703c4efe6bc36fb7e884b8]
+│   ├── tristate-002.do [b61d67f2f53df81ee3d796bce4affd9b593e55ffdbf14f502977aa0545466bcb]
+│   ├── tristate.do [83db023dac4b160730ef011737db221432ec045d326045c78c3b962b18bcf011]
 ├── t
-│   └── tristate.do.zip [bfd88a05850d78b9ccc70004ce7bc8bac4cad47e169928333dee26ae12e3494d]
+│   ├── tristate.do [e19a2c25ab11afe5d83787bdea5c86fa04c1a90d798afbab356ff37e970dc568]
 ├── w
-│   └── tristate.do.zip [fbbb328785cdd52ce835d3914a72b9f0fcef5da4d2c343feeab88bac0ddd82ab]
+│   ├── tristate.do [58c971b723f758aad58912b74d35d5e6a73b67226c1cab8048d46975d079e423]
 └── x
-    └── tristate.do.zip [ce7fb1d10a51089ae014f20e2cf4e52239fcbe3259ca9cf177776adf4d29909b]
+    ├── tristate.do [4be52795696010cf0beada19f8ca9a24bf4ee3c7e75f02ed1856e1d265834dcb]
 ```

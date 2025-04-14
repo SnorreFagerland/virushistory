@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── bat.argon.217.zip [3c2682169dad6ec4ae8be016e3045c84552e9c9c445ee5ffc20b5eaa61f19101]
+    ├── bat.argon.217 [63df1f07fcc051562b00f70792c8f2a642be156a6b7127b3280199303fdf0005]
 ```

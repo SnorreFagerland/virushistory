@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.karma.zip [be206db2e8faf1592c35bc6d67a207aeda4f68d26bc9830c3372f8917a7bfeb3]
+    ├── virus.msword.karma [9a0081377d763c1ffd633bc3e3fbe08a2bbf2ca0c0075a971cfee2aeaedea0f3]
 ```

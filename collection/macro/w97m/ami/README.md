@@ -3,5 +3,5 @@
 
 ```
 └── c
-    └── virus.msword.ami.c.zip [b4e17e76b4eb9e02434c5194430725c738ef536814c128b845dc99440bdd52e6]
+    ├── virus.msword.ami.c [812eea31fee6b4d1f720cc1288ecc48dd9a2edc9a6fd3d9a02af16cdea2f9489]
 ```

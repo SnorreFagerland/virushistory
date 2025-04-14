@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.tif.zip [f157f282d4b908deb7d938252531e101251efc905eb99fb7d27cdec5b86c3161]
+    ├── virus.msword.tif [9a2b75bf3f8cbb2426ba5fb6fc7f36634244f198bc41c10260a9d1cdc1ddaadf]
 ```

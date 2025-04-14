@@ -3,5 +3,5 @@
 
 ```
 └── 448
-    └── virus_2192.vir.zip [4311630674d5bfb31e0980b5b72c6f5cc0c4324e71298c46ceec51de2dfc2f65]
+    ├── virus_2192.vir [bcdd2db2ac3528c51f4dac90aa485df4b44185d345df77414100af3326415648]
 ```

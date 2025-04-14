@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   └── trojan.bat.exitwindows.a.zip [e945b7d58588e0ab333278fff89f6c5a3f2e0cb02c8a8270a14d0c88b4eb61d8]
+│   ├── trojan.bat.exitwindows.a [3380b047f792b2a6ffbdd858a720861f643e48df55218fbe91988b8a825efcbc]
 ├── g
-│   └── trojan.bat.exitwindows.g.zip [42bf302d0f3586e62213eae7c2705611293d640615d36cedd04ac267963973da]
+│   ├── trojan.bat.exitwindows.g [a04e421fd61d43de97e33ea43504ff6d041e99fafa1b6228dda375a0b3364e2b]
 ├── h
-│   └── trojan.bat.exitwindows.h.zip [ce0c413261c3b13c6c12d95902f0fb6cf19daee2b6596b923158c0ad9c76dc54]
+│   ├── trojan.bat.exitwindows.h [436a232327533b07b2d6646a8fff81731355a5eac46967c40069e9d22af5a9fd]
 ├── i
-│   └── trojan.bat.exitwindows.i.zip [3fd3e353d47c8fa71e14ae0b5cccb6b6ce3c7e978bc0b692e0f17c170266a36f]
+│   ├── trojan.bat.exitwindows.i [2ff8abf3b0986e1104f239954f0ff783bc6d5ec1d406117c7930c7149e852322]
 ├── j
-│   └── trojan.bat.exitwindows.j.zip [1bc327aff191913763483f1a491dd15e46255429f4f69c55a29496285d6bf44e]
+│   ├── trojan.bat.exitwindows.j [3924dcd71add7bf6dfbd84ab80f86b01a1f36e283160321babf30e7301f657a3]
 └── l
-    └── trojan.bat.exitwindows.l.zip [29cbac1d133706fb31ce1fa89a2230bddd690195f557127d48936987aee3af6d]
+    ├── trojan.bat.exitwindows.l [4e212e7baccad83f1e9e056ea40c2e54cf8bddc9abbce142b91da096c5bd6cf5]
 ```

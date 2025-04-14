@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.twomag.zip [d07dec719157327ad6d45b278a290fefde664c1ff9231e5dd0071d3d854c5277]
+    ├── virus.msword.twomag [a8061f204815d550042d08e9588bc1da1624ac73d86c3d97ffb6a529f6e1175a]
 ```

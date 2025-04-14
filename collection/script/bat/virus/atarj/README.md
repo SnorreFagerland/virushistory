@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.first.zip [7d60c99b2c55af19adb9c654d358170b56d3b16eb7a75338b35431d2c929a9cf]
+    ├── virus.bat.first [3c2b6737b7f440452d597d44ebe6b2cd64fb2a09a2c94f8bdccb10b10ed19bc9]
 ```

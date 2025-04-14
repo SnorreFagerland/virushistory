@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── trojan.bat.delwinini.b.zip [e69a16de5624f29d94753fbf801ff4289a15b20e07cb308c6e517bcb34c63cda]
+    ├── trojan.bat.delwinini.b [da454a94264dc56399e171a253f6fbcf2382f7af295cda43c03b2c3f1222b034]
 ```

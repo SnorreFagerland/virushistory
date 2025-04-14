@@ -3,14 +3,14 @@
 
 ```
 ├── 296
-│   ├── 296.vat.zip [ae49fa5aa6a86f6da9221d58a25e5c2a09a7b5ce3df485c0d75ce4a84f8ffdff]
-│   ├── 297.vat.zip [e43b036ace2ea5b08e929adee90ef73561f2d995d6715a7dbd7fd5b95f36cb11]
-│   └── virus.bat.winstart.f.zip [6dc50ed3756e28f402284db2678abfc9c2be5ba18d66f21539e4f15d718d5c17]
+│   ├── 296.vat [f78ae49303070c9c6710d981c3c23237ff3bedfb4148a427c205a50cf8d7d948]
+│   ├── 297.vat [20a8f632e9bcd31f15ba62f2102ceb9c433a580c3c05b976390735d07c33c9ff]
+│   ├── virus.bat.winstart.f [2f5a726d735dc6340824988323576e9032a0dc20ce2251c502ffa605a0e88c6c]
 ├── 303
-│   ├── bat.winstart.320.zip [fee9c9ebea28376dc3505023d571c8dde757ce858b2cf3980e8be85f7bcc7525]
-│   └── virus.bat.winstart.326.zip [df98bb5a5c09539f27accae107582604f9fc5f78ee5d323dd937136808278ceb]
+│   ├── bat.winstart.320 [242f951b0aea00c267cffa6dccaf2a14454f5c48803eea4c1dd245bde8e6eb2d]
+│   ├── virus.bat.winstart.326 [df1918539df7b685fa1ecf2d6fcf8df2399fde15886fbeaaa7d0b2cecba85bfc]
 ├── 305
-│   └── virus.bat.winstart.e.zip [5778f59964d6134e75317f1b271390bdda1bdfc88d9ba0cba9c07449bc242df4]
+│   ├── virus.bat.winstart.e [319a45fd53e455c036bd276921461bbf84bd3b3c4e2809525b72133412081b89]
 └── 768
-    └── virus.bat.winstart_iii.a.zip [bda2d84120cdffcdfb0f2142bd74587d19d1be4a161f8c032197f3c482d0ad0f]
+    ├── virus.bat.winstart_iii.a [d28445ddd06a46cb9332a698850fdb880be418810898fa1e210c16fa4b74ae2d]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── c
-    └── virus.msword.dude.zip [054c2f5a1f7682cae6df4a18d22c1e38ead47d993ec02eef8c973cfe2dc3a858]
+    ├── virus.msword.dude [5b799b957d326425d40c188469b888fb3a4fd1a8a22d6f2f5a933e7b867555c0]
 ```

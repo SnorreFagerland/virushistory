@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   └── virus.msword.surround.zip [fd99cab0c9d705b2149e2ed3658b7c5564477a0f8807065c4bc3ae63160fcdf6]
+│   ├── virus.msword.surround [18d8da029d751c1df0cbf3454ab88a351e65b3965dad5fdeb121c497a34bf94b]
 ├── b
-│   └── virus.msword.surround.b.zip [6903c23c4353d60243fa1d7c407ae4665b15865da8a8e90e872a57730572db38]
+│   ├── virus.msword.surround.b [dbe1b9d57ed306881483c91c6f43b2eff7148ff4a4865368e0ffa16e6e633211]
 ├── c
-│   └── virus.msword.surround.c.zip [8ae4613034f29c123c28026ffa1c1f7a5a49ea088e4fbd097ba03816ed53783b]
+│   ├── virus.msword.surround.c [93285e223fac06949740b0d2b4765dd624a99c5cfe72a18cdb9ca30e7fbf8867]
 ├── d
-│   └── surround.do.zip [5fa16036706cb3f85a809b2e15d3260ef309cdb1169df4682c030e382e4c0f45]
+│   ├── surround.do [b59f145668b9fbf2ae165c993d9afd0e0bbd77d34b5748fa8f1405cbba5a2a1b]
 └── e
-    └── surround.do.zip [b1e4455f65f6609ec28a9a3e4851bc959404942abd13eb9565fd2d96a6e514a0]
+    ├── surround.do [2e1ec3a4f6956c52ed083617155d8e96af42d9296ba7c3fa9ad18da1be2404d9]
 ```

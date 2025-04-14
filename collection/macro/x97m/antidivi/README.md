@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.msexcel.antidivi.a.zip [d7cb5f6f8dead132abe5473a2068e4def03b77c88b61def5b809f54387d5c43f]
+    ├── virus.msexcel.antidivi.a [6fa7373b935857b9963287a77c48478ede620e2b6bb26dd2c7aa486ce77846ce]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.storm.zip [4564e25c50b5921350aa85369715dfc6e4e70bf56c2658114aefda6f7491fa23]
+    ├── virus.bat.storm [8d50a98eecba7122ba28b88cda6393063a5cfa5bde9a11156d7ac20c5f7496ec]
 ```

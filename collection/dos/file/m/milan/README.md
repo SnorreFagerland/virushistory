@@ -2,60 +2,48 @@
 # Contents of `milan`
 
 ```
-├── antinazi
-│   ├── antinazi.vom [d74bbdbfed09562c14207c17c12fed3b3157a2671e671edca31f2fbae136d153]
-│   └── antnazi2.vom [7012549d6c32393b37a6f08b71198f0fc20fa999495f0391790c01f87fdcdf0a]
-├── badguy
-│   └── v5225.vom [76aad860280b056cd760fb11c2ada3b7bd902d21b0e781b0853d7f7d6d58a3ec]
-├── bill_me
-│   ├── mi-billm.vom [04c1865d642f4dda7dac74a3cddc336e8a16d5c798160726c031174970287c00]
-│   └── wwt263.vom [84996d1fd7074f001159edbfc82ca6dda5c1185da05a48189df22b1f166aeb76]
-├── demon
-│   ├── 270
-│   │   └── mi-d270.vom [abd0f201662bab4e2bc8deea7bf5bdd608264c3bae428f387ce4491be00acb54]
-│   └── 272
-│       ├── a
-│       └── b
-├── evul
-│   └── 264
-│       ├── grep.vom [e930e14a19dd8ed9567e3e2fcb88db1fdc3addd980faf689256db068e68d20fb]
-│       ├── milan264.vom [06f41525cc9dd99fc919d55bd0c54141e8022a76463e752603d8ec32cb478648]
-│       ├── t1.vom [8c29e71c30164d2ef16fc42232bdc1a611ee6fd2767ae8362592afc3aa72d97a]
-│       ├── t10.vom [3642600c2b8123490372484d82ae04053830efa1697b15d166a5078632da5983]
-│       ├── t2.vom [55654b0f5c7010711f44a8b5e05d187588d908ae197e41004b5a86e8df848dcc]
-│       ├── t3.vom [883be3f539ead5ba154d891960775ef4befad514ccf00862392ebec46364ff93]
-│       ├── t4.vom [2e849c57668a9fcdbe4c1d74cf34ab749ac0a18081f8860b5cb728e70674ac71]
-│       ├── t5.vom [3fc9880dc1f0dc86907a6cafc420c66e08aef61d312d841b065be070f8e6bb3b]
-│       ├── t7.vom [3074fcfbf75f18fafa38bed531dd0022632a54872cca5119b6cb274df61bc2a7]
-│       ├── tf.vom [d5232b927f0f443322c738b48993d5410779dec4e3b0e3a99f580652cea6e8d1]
-│       └── xconnnie.vom [2b6e0ea7b83626d1aa5350fa75ba2bb3941189e8a281289e05e120dbc9405df5]
-├── extasy
-│   └── 359
-│       ├── c-mil359.vom [6109e69ddf0f8a911bd4eaabfb6ffe449b131c48725a22f6dfc9f9426f384dba]
-│       ├── milde359.vom [2c8dc63366a5763b76cfd1cd328d74097e376f2fc33ba24db8727a9e3c61f73c]
-│       ├── t1.vom [6346f05433ed252e5c779464319ff7964dc1ea11968fc799204346142d8e39d9]
-│       └── t2.vom [f147990ad3a915d401f4b5a4140395fa704375d4b76f842178213c6995b03039]
-├── extermin
-│   ├── 429
-│   │   ├── 429.vom [9b63eb1320703aa62b124bc7bf66b56ee06ef2d358c204020dbb4c94ff4e6ed0]
-│   │   └── mi-e429.vom [c02d225ff0160533ca78b7c64bd61f6a70aec3b9f3ab96aac5ab10242ca8f16d]
-│   └── 451
-│       ├── exter0.vom [4d1dccb9d048bd841f555b29d305229d49b4699cba9ef697e154f2bb8e43bc2a]
-│       └── v5235.vom [580ead29846ad27a17006bd2a1521cf7406596661246f0b26137cb0af8057227]
-├── naziskin
-│   ├── 270
-│   │   ├── t10.vom [7ecbd9ed242812a694c751ef2fec30ff9a56f2177f0ebbffc50aaa7dc187a0a3]
-│   │   ├── t2.vom [63f8d6ddb4772eec85afe2e9917438117c05ad5ea699f49cc86238b8803a5a8c]
-│   │   ├── t2.vxe [99bbcc9620902ff1a4d51a96deab6be2fc1a1c05b25bf494abfc134807108b82]
-│   │   ├── t3.vom [7d3e4b37c2c6ac7d03580c4fc7767dda4e967bc9fd8cb401610e1d68b02e47d8]
-│   │   ├── t3.vxe [bdd2ee70f14da0d192614d102b8cd9ad043c0f51bc4579b194c6d042fe2bb096]
-│   │   └── wci0514m.vom [ce178ac83c8e4bfb5688d5ea192dcf98e2239960e9157729c90cba8b959e0b28]
-│   ├── 335
-│   │   └── milan3~1.vom [26778312343bac4bbfc59e7a6c92c7b6d83f4c43507c15ac499274eacd5a4b40]
-│   └── 903
-│       ├── mil903.vom [e88d013710dfdad72e128a3bbfbcf7974027037b0c6ed886c15989673d99d7c2]
-│       └── milan9~1.vom [7a673c8048ca4ac6ff5931a64297daa5b3cffe4bb4ac54e9e763b5396cc62437]
-├── nwbadguy
+├── 0063
+│   └── 63.vom [06ec06a9e439c3108ce8621c52bf00220fcc40cadfdbb4a02fe0e0262c3c07c1]
+├── 0065
+│   └── milan4.vom [9743ea726bf6882e692a1a17f3f7eec142e253f47c979f1747fa62cefef00f5c]
+├── 0067
+│   ├── a
+│   │   └── v5265.vom [76730819cdfa2a4dd62673f4a01890b2dbdbc320f0ee8b88cba26a879b3ccbac]
+│   ├── b
+│   │   ├── milanw~5.vom [6a0ad6b021d13abf0e438e347aa8c1d2c2381940d042425ceed3355bf469b5c4]
+│   │   └── wwt-01.vom [c9fade0964a2975d475c042bdfe6156219994c391d3b5217492cee34cc852497]
+│   ├── c
+│   │   └── v5270.vom [3685f61b583324c333028ef445491748b8acd21b79433347a82c56d83bc45af2]
+│   ├── d
+│   │   └── UNKNOWN.vom [32d44c74028bdc472df9ebd8b867e17b7e0df0e12b21d9ab2c6a3bd1ec28d0c1]
+│   └── e
+│       └── virus.dos.trivial.67.e [a430d992afc6efb9434653cbd034e9ac42fef86247a9db196dcfb9bb50b69d9d]
+├── 0116
+│   └── milan3.vom [f4488d8568ef0175ee4ec276f3d12c55e8e045eaf9cb71596934c636c301c38c]
+├── 0117
+│   ├── milan_11-001.vom [7489ab2ca2f9d96f71a5eaad227e82230f3a3fb7515812b0a5c434139baa4bee]
+│   └── milan_11.vom [0948b856f810947428325a8ec93797590f995c9b72b59dd3bd1900b4fdb4236a]
+├── 0123
+│   └── virus.dos.sillyoc.117 [20167551f30df74ff0e56c0f9b7c96f8f84fb25c643b77ca75b442952aeee6b9]
+├── 0125
+│   ├── a
+│   │   ├── milan1~2.vom [a33ecae60ee739625a1fa63c8ed63904fa2f58c54216a73753e4d0b08139290f]
+│   │   └── v5255.vom [cfb169a68b966933bc89b78daaa1a37425609df8df3257b39cf0a3632668a8e8]
+│   ├── b
+│   │   └── mi-w125b.vom [75211f5068121e49e1dbdc42b72048d45bc2ac335f3ca98bce633c2a397934b7]
+│   ├── c
+│   │   ├── milan1~4.vom [5544140c5e792e6f5975fea0b509adca64255fc801f2f630ddad01f1ad2b9eec]
+│   │   └── v5260.vom [670623324f86d820cd44a4bfa1edef819890ea5e6e39b28de71211acbd4a81c3]
+│   ├── d
+│   │   └── milan1~5.vom [2092f8c19c7921a4e5007e97c7586506848f203581e9000e17867ab952865d40]
+│   └── e
+│       └── milan_12.vom [a023d0288220bc8d9af9dc1c36f1406aab1729e6cc909fd2d10960c38d4a4276]
+├── 0129
+│   ├── milan_12-002.vom [6d107d860588b942d3b610e36ec67a918e8c9a4fd6f3ae6283d1d8865dc75f95]
+│   └── milan_12.vom [071cef875d4e8f61520d21144815eef801b9b0975dbebe49762c7b819ff50649]
+├── 0175
+│   └── milan1~6.vom [f869541d29bdcf1f81ffece7c5ab0a93611eddd0ce8485076f89c3a0032127aa]
+├── 0208
 │   ├── a
 │   │   └── v5240.vom [61a65c17496c96335a2a82503f2bb19394fde1f2989137bbf33f96c011251a4e]
 │   └── b
@@ -64,38 +52,75 @@
 │       ├── t1.vom [c7567d264b1188a1ffcec9ae856b711aae13e6b5fbdc62c118de43727082854b]
 │       ├── t3.vom [ab1363b0af33795622b16531ef07e36349e952809a31fcc0cefceccba4fcc255]
 │       └── t5.vom [4bb2660f7b7285873c025b432aa7bb91cb6004800e6af31ce31fdef0d48666a8]
-├── sabrina
-│   ├── 175
-│   │   └── milan1~6.vom [f869541d29bdcf1f81ffece7c5ab0a93611eddd0ce8485076f89c3a0032127aa]
-│   └── 249
-│       └── milan_24.vom [4f9772af5d4735454cc9b0a541b9c2623c6d031bc45cf6e39ba9e86a0304f864]
-├── verbatim
-│   └── 289
-│       └── wci0188m.vom [c96ea929846d49f14b784ba41230302557eb6b857156be6ca9a20a1f1343e16c]
-├── vivisex
+├── 0249
+│   └── milan_24.vom [4f9772af5d4735454cc9b0a541b9c2623c6d031bc45cf6e39ba9e86a0304f864]
+├── 0263
+│   ├── mi-billm.vom [04c1865d642f4dda7dac74a3cddc336e8a16d5c798160726c031174970287c00]
+│   └── wwt263.vom [84996d1fd7074f001159edbfc82ca6dda5c1185da05a48189df22b1f166aeb76]
+├── 0264
+│   ├── grep.vom [e930e14a19dd8ed9567e3e2fcb88db1fdc3addd980faf689256db068e68d20fb]
+│   ├── milan264.vom [06f41525cc9dd99fc919d55bd0c54141e8022a76463e752603d8ec32cb478648]
+│   ├── t1.vom [8c29e71c30164d2ef16fc42232bdc1a611ee6fd2767ae8362592afc3aa72d97a]
+│   ├── t10.vom [3642600c2b8123490372484d82ae04053830efa1697b15d166a5078632da5983]
+│   ├── t2.vom [55654b0f5c7010711f44a8b5e05d187588d908ae197e41004b5a86e8df848dcc]
+│   ├── t3.vom [883be3f539ead5ba154d891960775ef4befad514ccf00862392ebec46364ff93]
+│   ├── t4.vom [2e849c57668a9fcdbe4c1d74cf34ab749ac0a18081f8860b5cb728e70674ac71]
+│   ├── t5.vom [3fc9880dc1f0dc86907a6cafc420c66e08aef61d312d841b065be070f8e6bb3b]
+│   ├── t7.vom [3074fcfbf75f18fafa38bed531dd0022632a54872cca5119b6cb274df61bc2a7]
+│   ├── tf.vom [d5232b927f0f443322c738b48993d5410779dec4e3b0e3a99f580652cea6e8d1]
+│   └── xconnnie.vom [2b6e0ea7b83626d1aa5350fa75ba2bb3941189e8a281289e05e120dbc9405df5]
+├── 0265
+│   └── v5225.vom [76aad860280b056cd760fb11c2ada3b7bd902d21b0e781b0853d7f7d6d58a3ec]
+├── 0268
+│   └── virus.dos.prodigy.268 [f173b9736b71ce48a2b78ca9250760b920997156d29efe1c9cce9b14edaa84bb]
+├── 0270
+│   ├── a
+│   │   └── mi-d270.vom [abd0f201662bab4e2bc8deea7bf5bdd608264c3bae428f387ce4491be00acb54]
+│   └── b
+│       ├── t10.vom [7ecbd9ed242812a694c751ef2fec30ff9a56f2177f0ebbffc50aaa7dc187a0a3]
+│       ├── t2.vom [63f8d6ddb4772eec85afe2e9917438117c05ad5ea699f49cc86238b8803a5a8c]
+│       ├── t2.vxe [99bbcc9620902ff1a4d51a96deab6be2fc1a1c05b25bf494abfc134807108b82]
+│       ├── t3.vom [7d3e4b37c2c6ac7d03580c4fc7767dda4e967bc9fd8cb401610e1d68b02e47d8]
+│       ├── t3.vxe [bdd2ee70f14da0d192614d102b8cd9ad043c0f51bc4579b194c6d042fe2bb096]
+│       └── wci0514m.vom [ce178ac83c8e4bfb5688d5ea192dcf98e2239960e9157729c90cba8b959e0b28]
+├── 0272
+│   ├── a
+│   │   ├── demon.vom [4de6515a6e75c0bf37588ac5622f79987dd6e8184b78692e00316cd253ca3c64]
+│   │   └── milan2~5.vom [bdd20b049288f511cc92a817bfe37d57afb1bf3f053d4b62f50a1b877d7c7caa]
+│   └── b
+│       └── virus.dos.milan.demon.272 [58f1bc0ade6bf2cd58b662b302e83fb09a0724fc24c5671dc892b70e4e8e8355]
+├── 0284
+│   └── virus.dos.milan.press.284 [f3b6f78d0c69df0a2df1398c36a99a44aca8e9b4bbd4320334c2af0a7f85e17e]
+├── 0289
+│   └── wci0188m.vom [c96ea929846d49f14b784ba41230302557eb6b857156be6ca9a20a1f1343e16c]
+├── 0335
+│   └── milan3~1.vom [26778312343bac4bbfc59e7a6c92c7b6d83f4c43507c15ac499274eacd5a4b40]
+├── 0359
+│   ├── c-mil359.vom [6109e69ddf0f8a911bd4eaabfb6ffe449b131c48725a22f6dfc9f9426f384dba]
+│   ├── milde359.vom [2c8dc63366a5763b76cfd1cd328d74097e376f2fc33ba24db8727a9e3c61f73c]
+│   ├── t1.vom [6346f05433ed252e5c779464319ff7964dc1ea11968fc799204346142d8e39d9]
+│   └── t2.vom [f147990ad3a915d401f4b5a4140395fa704375d4b76f842178213c6995b03039]
+├── 0429
+│   ├── 429.vom [9b63eb1320703aa62b124bc7bf66b56ee06ef2d358c204020dbb4c94ff4e6ed0]
+│   └── mi-e429.vom [c02d225ff0160533ca78b7c64bd61f6a70aec3b9f3ab96aac5ab10242ca8f16d]
+├── 0451
+│   ├── b
+│   │   ├── exter0.vom [4d1dccb9d048bd841f555b29d305229d49b4699cba9ef697e154f2bb8e43bc2a]
+│   │   └── v5235.vom [580ead29846ad27a17006bd2a1521cf7406596661246f0b26137cb0af8057227]
+│   └── c
+│       └── exterm.vom [866de3a6b9f671b0c42a0ecb37b01bbdf84c085c3b6c66879047cf85ba020d68]
+├── 0683
 │   └── vivisex1.vom [651a0c16140006ef4993f17e503b7737cd753848fbd1262e4520bb2604a6c007]
-└── wwt
-    ├── 063
-    │   └── 63.vom [06ec06a9e439c3108ce8621c52bf00220fcc40cadfdbb4a02fe0e0262c3c07c1]
-    ├── 065
-    │   └── milan4.vom [9743ea726bf6882e692a1a17f3f7eec142e253f47c979f1747fa62cefef00f5c]
-    ├── 067
-    │   ├── a
-    │   ├── b
-    │   ├── c
-    │   └── e
-    ├── 116
-    │   └── milan3.vom [f4488d8568ef0175ee4ec276f3d12c55e8e045eaf9cb71596934c636c301c38c]
-    ├── 117
-    │   ├── milan_11-001.vom [7489ab2ca2f9d96f71a5eaad227e82230f3a3fb7515812b0a5c434139baa4bee]
-    │   └── milan_11.vom [0948b856f810947428325a8ec93797590f995c9b72b59dd3bd1900b4fdb4236a]
-    ├── 125
-    │   ├── a
-    │   ├── b
-    │   ├── c
-    │   ├── d
-    │   └── e
-    └── 129
-        ├── milan_12-002.vom [6d107d860588b942d3b610e36ec67a918e8c9a4fd6f3ae6283d1d8865dc75f95]
-        └── milan_12.vom [071cef875d4e8f61520d21144815eef801b9b0975dbebe49762c7b819ff50649]
+├── 0903
+│   ├── a
+│   │   ├── mil903.vom [e88d013710dfdad72e128a3bbfbcf7974027037b0c6ed886c15989673d99d7c2]
+│   │   └── milan9~1.vom [7a673c8048ca4ac6ff5931a64297daa5b3cffe4bb4ac54e9e763b5396cc62437]
+│   └── b
+│       ├── t1.vom [edc3a2632f0a3e72f1573d0d47981cfe9a1fe5c4a27b8bea2e445032f3443b66]
+│       ├── t3.vom [b8b4e33a5a47b104a34d975bf3959da286d2dd8a75269b5101033040313dd2a4]
+│       ├── t9.vom [883a6efbc5aa75c9fa4709d1414dda0bf8efc820cf1ec9ab8fb19ef84dbbc38b]
+│       └── virus.dos.milan.naziskin.903 [5735ca6e1259c999bf6de2819d0bce70ecffc570e437d813aa4ed0befcae7aa3]
+└── 1091
+    ├── antinazi.vom [d74bbdbfed09562c14207c17c12fed3b3157a2671e671edca31f2fbae136d153]
+    └── antnazi2.vom [7012549d6c32393b37a6f08b71198f0fc20fa999495f0391790c01f87fdcdf0a]
 ```

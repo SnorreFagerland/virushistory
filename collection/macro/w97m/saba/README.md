@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.saba.zip [f373ae8b3a941a4269299ab7e1648dc0983a41a332a2333f2aea568c178b6bce]
+│   ├── virus.msword.saba [1411ccac5aea3574fe59540426e20d7e893fd939e893754cfbd6f39c18f50dc7]
 └── b
-    └── virus.msword.saba.b.zip [a55c82f431a4c931d75b136caefba5d353568368951e067d24e3db20e5182e89]
+    ├── virus.msword.saba.b [a52706d2b6244927decea0613e50a4640a8c463066705410a47f9b05df0bd61e]
 ```

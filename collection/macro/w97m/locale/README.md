@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   ├── virus.msword.locale.c.zip [fe648a9858ff55240399d32dbc0ad135618f250176bc8b4a657c62f0fcb03ea8]
-│   └── virus.msword.locale.zip [b0fb8fa415b324bc1da2481e829c95f184b78269377316e3890801121708a26d]
+│   ├── virus.msword.locale [f28a70098c17b9e2f097ca4e3563a75f9b613c86bea9f81ade85b4e4a9bb2370]
+│   ├── virus.msword.locale.c [7be17b5fdf79d5496ab64112f1eacebf527408957cf7af62a5d4857af8b64240]
 └── b
-    ├── locale_b-001.do.zip [fe5f4691feaa9eb847dcd66df0666b9d20ee148cb6e01d6d9f23c885c5f21773]
-    └── locale_b.do.zip [3d22ffef0a0f94fd601e839f6f3a5130ce825177c873ff23173ec6241dd4e627]
+    ├── locale_b-001.do [d2af3210263186761bd67d0308414bb8b577710c57423e8e00602910f3c8519a]
+    ├── locale_b.do [592fb5900145570ce8170570df55a3180a477ae665914f65e6a92b9889e60439]
 ```

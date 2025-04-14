@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.msword.melissa.ad.zip [7973446634437a1a09365e7b17dee75e970a7cd216f3dfd33e4645304a6b76a1]
+    ├── trojan.msword.melissa.ad [0daf120eb1e9c6d2dd8c71a0e46234b55527096dd48d225d24ba725046d560e4]
 ```

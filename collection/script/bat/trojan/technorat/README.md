@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.technorat.zip [fefa163b1970a5769965e479b98e9e1c2f30f3e16e08d0125d5c1f0d53f24b7a]
+    ├── trojan.bat.technorat [3b5b6d05f17ec8181d3a2768c44cb642b8e4f9f70d3a0cf747f3cb4c99aafbc9]
 ```

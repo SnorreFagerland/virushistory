@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.msexcel.v2.zip [9aebdf89063d7ccfe1c84b57ca313fc3ee6b1aed1eca36bbf184e1fa8379af82]
+    ├── trojan.msexcel.v2 [5c4eaa75ff6220e10833056eaa95ff4dd0fae7152ffbe4fe28a87a573094351b]
 ```

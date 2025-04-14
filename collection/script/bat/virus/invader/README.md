@@ -3,7 +3,7 @@
 
 ```
 ├── b
-│   └── virus.bat.invader.b.zip [b2d2b381aa449488e1140516342114112a95f1ffee062beaba53ffdb2f61a1fa]
+│   ├── virus.bat.invader.b [9ccc5adf6f120a0be2e800932456e0aef226f2b82dc27be5d92a505fed61826d]
 └── c
-    └── virus.bat.invader.c.zip [1d8ecb6ccef13a7ad850e264e1b07efc9373732ea55966e8bb8ed43ad208d007]
+    ├── virus.bat.invader.c [9d160f2f1ce3e6743db7dc869754badab3c4f3ba7a07266c2b7fa7dfaf4d4294]
 ```

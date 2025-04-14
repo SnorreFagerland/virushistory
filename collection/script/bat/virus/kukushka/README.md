@@ -3,5 +3,5 @@
 
 ```
 └── 630
-    └── virus.bat.kukushka.630.zip [0d3afe8cc5ebf967bfd68b63f774a4761c0faf18eada7332c42f474f9c5efc5d]
+    ├── virus.bat.kukushka.630 [f58f85612657e0ac1de837d638b080715e8d22c431fe8bf749ecdc94bca809b4]
 ```

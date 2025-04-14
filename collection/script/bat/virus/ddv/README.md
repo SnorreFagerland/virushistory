@@ -3,5 +3,5 @@
 
 ```
 └── f
-    └── email-worm.bat.heloon.txt.zip [d84d7b1f2610e90f026dc7dff111063929c522f4242399f00bc2dd50069b9eb3]
+    ├── email-worm.bat.heloon.txt [dafb3c2b7064aff74e1302d890c550b503466bfa51019b9439ac19850fa58cf8]
 ```

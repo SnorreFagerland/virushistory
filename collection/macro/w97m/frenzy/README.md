@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   ├── frenzy.dot.zip [99a009c447dde3f878fd5f7b7f617f7c81d71c21079c8c7539faa67e65aeadde]
-│   └── frenzy97.doc.zip [3827bb24c7c6b77b3322e91fd0eec34c3d5d7b7ea490e335bec65a49de1df78d]
+│   ├── frenzy.dot [067b698f66bf18abefd2384619d1e0e2f9b6191c4e8613970198ff0b50018aef]
+│   ├── frenzy97.doc [9df20e543ceee46df7f36c3ea08562d6c685444857a4a8bddaea5a1c1c7b90a4]
 └── b
-    └── frenzy.doc.zip [86013a25da3f9256d7e2845eddf2c1fce09d758c64880d39391f84b1bfeec087]
+    ├── frenzy.doc [dbb1b6aba4a1b1b7fc0ff1c67ad64f50c2600bcef4a259fbd09d3ef7ed120168]
 ```

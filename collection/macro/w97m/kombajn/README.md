@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.kombajn.zip [c94c34e00e1e529a3fe0bf5effdec12ad02f3eb5fbe409b9d91f914d2e80656c]
+    ├── virus.msword.kombajn [d193e7ba6fe80658c0c279a07ae99d941e01ce0890eae305f0494ca41493860b]
 ```

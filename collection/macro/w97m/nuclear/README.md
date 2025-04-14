@@ -3,12 +3,12 @@
 
 ```
 ├── b
-│   └── virus.msword.nuclear.ab.zip [4d6415fb18554f153e54b6f72d74292af98c09f8c65a143e5ebcaf1175bcc826]
+│   ├── virus.msword.nuclear.ab [1767bdf370f82289f58cec0b259551e053daab4e003a96e870333a803e93dc0e]
 ├── t
-│   ├── 1-nucl-t.doc.zip [1672486df26db91c57168fe1383353a5f692be8ccc2e37399e0e37702cd8002b]
-│   ├── 7-nucl-t.dot.zip [5e5595a460a65cc565083a2f37098a608b795c8365b674fcb5c251485e96199f]
-│   ├── nucler-t.doc.zip [cb79c050049d6f78ee6ffc5c501b8b4f5d89e0737062fba1e5ea8d05e5d26ad5]
-│   └── nucler-t.dot.zip [bb0cc6ecc199ea7fc5997f55c5eebe0fda47150008d368ad316db1dc3d186173]
+│   ├── 1-nucl-t.doc [bd2ef6b6c9537c5fc75ba58387a62d61511743046c85628fd183cf02ac6c9858]
+│   ├── 7-nucl-t.dot [41576a03c81440e1bf6d37ebb79f8d3ca18b2468b7fc3bcf05a943d67a89d0b5]
+│   ├── nucler-t.doc [6bce1822011e49af5a059a7db0027284f4e334c54c6aba3959adcc5914d990ea]
+│   ├── nucler-t.dot [bcb48700f29af2ea8b61a2a6b143b599d4cfebd2fcdb0d726168c818040041a9]
 └── z
-    └── virus.msword.nuclear.zip [db8f64b3b012d4451022b7955b01e1d113553e1c4d1b032527c51ebab872e328]
+    ├── virus.msword.nuclear [ef9db355dc831ba6aca04c640e5ab5fc163b9a5fe02cffe2fcb996be7578a57c]
 ```

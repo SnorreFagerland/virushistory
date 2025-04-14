@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.sprhide.zip [559d2e9ce0c6f9e08ff7910f2eb9a95fbaf3d1d8b25278f31b0359e8cb09e175]
+    ├── virus.msword.sprhide [47cf7050e5ff0cdda09f6bc3aa2506042a585bc1c0d3cf7dbe9c5e9f8fa0faab]
 ```

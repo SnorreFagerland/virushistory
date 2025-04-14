@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── quick-a.doc.zip [12ed7445b33113150aeabe9e3c22af94b933b93fd045239e0923a6687b395b62]
-    └── quicks.doc.zip [b0f5b79a6ff8e810d51e44e4328f13cf2394b6ac43051433b23e1a56a5ee39e0]
+    ├── quick-a.doc [c3f6a2e4cedfc6bdccd76cd65885e4e41a92faafddcaabbc18ba43ad30ec284a]
+    ├── quicks.doc [dc32391ef55a412114fe38eb9fa8dd26c636ebbde38f3312053e617465c79a7a]
 ```

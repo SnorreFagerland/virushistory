@@ -3,12 +3,12 @@
 
 ```
 ├── a
-│   └── coolio.doc.zip [55536d8cbf32d118dc6a274cb25633b0abd11f574ced0fd3f6b9c65209476153]
+│   ├── coolio.doc [bc6fa7f2e79cd5604ea1aba8ae76cff9c3fd7ddd0ad2046c0c7a1252975febf5]
 ├── b
-│   └── misterx.doc.zip [f6d378ce3f83be54da0bbb46d73b8df19db427695797f78bb7f3da92040bfe0e]
+│   ├── misterx.doc [7c6811bd9fb4df101c0b0fe175fe6b21f8de0ed38339ac032feb5aaf8b445ecc]
 ├── c
-│   ├── nj-c.doc.zip [3935bb15979fdb6ac0c655a6bb15164a4d0a2dbf0f9519f96293718a33531b1c]
-│   └── nj-c.dot.zip [a4b304e51f2e192b0d4511f6cb481c4b540a68b0a790484a2978157b1acd9c7a]
+│   ├── nj-c.doc [9f712a0d79ff1354100b9fcc81d87a4fec0a77cea11486a96fcc0e3af0225614]
+│   ├── nj-c.dot [84c88c51d23caf8bddaf6c229e8fb3349f3366034e5142a24a7e81c0b4950e11]
 └── t
-    └── lucifer.doc.zip [c51eee0c50abbefb94c232aa2ff353019b591c99025db4f540eb9d9b1889e37c]
+    ├── lucifer.doc [3bc60505755f51cebadf10e8450b6d7d167f62b6ec5e002fa03cf454c081fc75]
 ```

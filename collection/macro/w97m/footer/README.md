@@ -3,60 +3,60 @@
 
 ```
 ├── a
-│   └── virus.msword.footprint.e.zip [54f389a5fea8ef538d4702dff7bbc1b6da54bc1d2297abcfae8d281df5af09ea]
+│   ├── virus.msword.footprint.e [fe6ca7ef6f90b3e041b12df90cc9ac5feda6ee581fdd2c8d94883a68738ac312]
 ├── ab
-│   └── virus.msword.footprint.ab.zip [6539002be4b277997f3e1714bf2b42c97bc1efb5c6d46334be1349f9e78d07d7]
+│   ├── virus.msword.footprint.ab [06488f0e2073a5937974c02f814b579481974e3c3b9d875ab1a0e73612a92456]
 ├── ac
-│   └── virus.msword.footprint.ac.zip [7e778ba9553c8b2e162201e99b039928ba656cb98f8ebef67903ce404c1d4738]
+│   ├── virus.msword.footprint.ac [ae69b2d4adbfdc6c1b9226120619ad6e3f00388f14273d19e659c9c09105c829]
 ├── ae
-│   └── virus.msword.footprint.aa.zip [c337e76286444f93f0f7ee72e53329294b469d803b4af78e1e01c69b41cd005c]
+│   ├── virus.msword.footprint.aa [c354f8451ba438d84f67fa1f2ebe20855c2fa8e2b6152674232b10eeb4636ee8]
 ├── b
-│   └── virus.msword.footprint.b.zip [c44a24ce14a240dfec2a11b3b926d2478d91c406d0712945850c1dddfaa91e7a]
+│   ├── virus.msword.footprint.b [0d4c5bbde9755ad0097c067f77499b836308dd5816b4544d13925d1b70d9987d]
 ├── c
-│   ├── footer_c-001.do.zip [3057bc4b60409199ef3dd7a7a6253c08aff3a0f825c71a16fd7d2b409e93db06]
-│   ├── footer_c-002.do.zip [cecd42034efaf29a55e13c82256b08b37f6656f59385591497a1616f744107d4]
-│   └── footer_c.do.zip [ba26cca720fc434140a7f06be83cafa8fe5f96717c351b984aa87d1cbe366992]
+│   ├── footer_c-001.do [fc99478876df61aa0e7beedd0dff8dd19258808fd62fcbf2a1f957083ebd67f3]
+│   ├── footer_c-002.do [cbd1546774ebd4ad7811d0cb3c4683006724296735a2711a2bc84d00476dc964]
+│   ├── footer_c.do [3c4ef02310f8542da47424a25452f29b08d5e77d0c5dd3a52dcb504c0da35f11]
 ├── d
-│   └── footer_d.do.zip [0eecc1cd49ae516ac81626bf7ab17939038f670856b5012561d85e5aa25e1751]
+│   ├── footer_d.do [c2facdbe02220122b2617980a5baf2ff5ab33de5a93958fde5731ab91c943f5d]
 ├── e
-│   └── virus.msword.footprint.zip [c639ed97ec0f16345c00bff91c7758077d7d32f096a11806c61590d2514ab5f8]
+│   ├── virus.msword.footprint [fc299a6e5dcb4ed7fb52f0fe7d6952c07efcf9d3c41e3e001c2e206f91417871]
 ├── f
-│   └── virus.msword.footprint.d.zip [3b25cb7dfa0e0bbbe408119409cb5f1827f10151062808cca69bbc6278654317]
+│   ├── virus.msword.footprint.d [90608f5ee5e3637ca58eada2ea8483af21aeb8930f70c013170ef33a01d608bc]
 ├── g
-│   └── virus.msword.footprint.f.zip [82ea6d6bc6a31f763fc573b08535ae969c4321b5953f38f2a2c10f7bb87ff1f1]
+│   ├── virus.msword.footprint.f [922fdc0c731db1093a6e186ed3e08ba3f222fcd73cc958f4433431dfaf78b16f]
 ├── h
-│   └── footer_h.do.zip [67f108f5ee17f47c0f2995e7e0c886c9ebaf0ccff1865469023c83c956a5411c]
+│   ├── footer_h.do [e5fe8b98799b99e3d9764956ae3fbcde890d36eb44982b19994dc67205e45da7]
 ├── i
-│   └── virus.msword.footprint.i.zip [eb4c675b28efebfbe8e1851db378a5b88a99fe2f4668f70a4c2e32cb86f60443]
+│   ├── virus.msword.footprint.i [9bc3c34f19359d296e41027154105d1d0ac4e8ef2eb03798da919117317a3c99]
 ├── j
-│   └── virus.msword.footprint.j.zip [2d9e9432650f35ec2f4387f20e4973399fd8182935dcfea146f661b3b89cdea4]
+│   ├── virus.msword.footprint.j [ab1438ce8eff36063c70433fd0b44fd97c3db8e5c4fa63f4be4a812e34592b12]
 ├── k
-│   ├── footer_k-001.do.zip [071244062bdda724b08fc43a0e3f27bdfe1b9ccc6d147fb20fc7da7ef6febc1e]
-│   ├── footer_k-002.do.zip [3e8fa5b25dd40e3b31a5df783205a4a76813276fb0be94fa002673682a2b8928]
-│   └── footer_k.do.zip [c4780217599f3bdd58b08655a3ca13b32b0a3f1783f8d21393759399335eee3f]
+│   ├── footer_k-001.do [2500db8ef18e92d8520a4ceb0bed4532b0771cd6c5de425b17785bfbd986decc]
+│   ├── footer_k-002.do [515cb238122f30f7067653024985890f405223cfc17ca081f2a891450227f1f6]
+│   ├── footer_k.do [0f9f4be0fec7562288aec626c6c209cb4cb4901471235480207d8fbd579c809e]
 ├── l
-│   └── footer_l.do.zip [b64637eaddceedfc25b6c199f243113c4e603be726c8bf696ae3f65cc20c24a9]
+│   ├── footer_l.do [884f0fedfa0d1e71e325706156c30f4f15158b15b8a24a17a6a4c22df8554497]
 ├── m
-│   └── virus.msword.footprint.l.zip [30dce4aa83d17a5fe10e70abc6cbeb473bd804f2fe0e68de788803c8b1cf34a0]
+│   ├── virus.msword.footprint.l [5aec1c3ddea90cef99b66ba3a522244908335e3aa85c0aa64d81818fb817f62e]
 ├── o
-│   └── virus.msword.footprint.m.zip [dc2a2255d2cba909998beddc3c5ca1735524f41306feb6a9b91408dd21d062ef]
+│   ├── virus.msword.footprint.m [687ed3b44170194514557e53b1d9357cf11baefbe9588d67acbc86757617d358]
 ├── p
-│   └── virus.msword.footprint.p.zip [d7b909d8638667fa54943e728ba6dc88d0be4a639b6d4ea7c3c9f69d5089a3af]
+│   ├── virus.msword.footprint.p [f231dbce31ced9380e9e5d3ff138cca18ec36c38488c16fc34e041e2b7836a0a]
 ├── s
-│   └── virus.msword.footprint.s.zip [100ac9d090179dd8fe1d2451b0af164f80bfb25eea1eb9dbc629d890badb6d4b]
+│   ├── virus.msword.footprint.s [340978e4a499333d954572ab74bf240e64f62406913046e4e8c10a0ba2a7a2f7]
 ├── u
-│   ├── footer_u-001.do.zip [4cb1e1dc7c8aa1e3f4c5f773025eebf74715f5d55eb93aaff905568621680f0c]
-│   ├── footer_u-002.do.zip [a222904c1f28a58435bb01bdf9cf7872d735da861462d1388143d56b686949a2]
-│   └── footer_u.do.zip [73e2e10c520a92d68a63dc1873ddfc56f1517f069eb40071b84bbd0591cf62a2]
+│   ├── footer_u-001.do [2efa3acd2fa74be0ba91e07fdf8c33624b6801424bc4b156fc2a55395e169f05]
+│   ├── footer_u-002.do [bb0240858e147b8ffa73c2f57d9e8e99ecd4785238afa7934584eced7b755ba8]
+│   ├── footer_u.do [2ee6d223f865fd38640a446f5211728fa3d08207e0af3d9a801061e5198ea90a]
 ├── v
-│   ├── footer_v-001.do.zip [114d68714c68efaf6b2577ff201777af023b1727e54d5af6106edba6d902692b]
-│   └── footer_v.do.zip [9dc167dd67d90c4777887208eca68b69634df289e53aaebcce7516f767446b5e]
+│   ├── footer_v-001.do [a9b81db353c00a5d7c0f0b27883db4d855bd1e3039f5dc5d82a01f5efc4b68c5]
+│   ├── footer_v.do [1ce261c5aa76dfd9789a0939e7827e9925d284ed9e10191df0f8f79764308193]
 ├── w
-│   └── virus.msword.footprint.w.zip [7a274608adb1a2157e67893bbafcea6fa1e29973c147930804bb2d73b893efff]
+│   ├── virus.msword.footprint.w [509e722b9c694101524a9b926918c63b603eb36f03421bf7f8c197a822c12221]
 ├── x
-│   └── virus.msword.footprint.y.zip [593d6044d3dd3ac7789a277945c1ed32b77bcb4e3b1ed990496f767d3e8d120f]
+│   ├── virus.msword.footprint.y [2dcbe53f232b8a6a286b1d258987342c9291811d210749909b1e807f8aae9e14]
 ├── y
-│   └── virus.msword.footprint.x.zip [1994c42c1dd1f53991e2afb64c6a0d15f3d4daeadd668bdcfed5cf4ea0585482]
+│   ├── virus.msword.footprint.x [d7c7b4fa3c191199f6715b1774cbb9a5fcff0f50830df65c7bb9169fc8ffad5f]
 └── z
-    └── virus.msword.footprint.zip [0cc49080c72b5fa253fa09a8f556e51ebf6bfab149b34079d0a5c35d8132e471]
+    ├── virus.msword.footprint [9f5dfc96b3c6093a072253057e06ffdb24068db18d8e6205c79b5d2052fc8c95]
 ```

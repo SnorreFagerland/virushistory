@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── viruz3.doc.zip [b532450cce90c71e8f62b18bd86264e98ab2afee92341be76918c5f9ade3a1a9]
-    └── wci00624.doc.zip [3fa4dfeeda01055ddb86eeccdbb81ad39d3b5ffeccd31569a5ab98b6de652f4c]
+    ├── viruz3.doc [63e67ee4e296d8bfde05883c93b0b0efda8afbcd072f1be39c62b2e30081984c]
+    ├── wci00624.doc [fabc4c0747411683c12b48baa30ae3ba20695066db12a419c12774eedd2c680f]
 ```

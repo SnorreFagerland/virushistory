@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.ops.zip [a5ed2c5198d8d888d660433a4b29ff4b6890458e5e91ec2d99f799e365574caa]
+    ├── trojan.bat.ops [96e8368b12e01c881fd8577688db3725822bca1a1d264e036e24424aca11b424]
 ```

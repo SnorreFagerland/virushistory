@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.werwe.zip [57fce1a76418db8434d86d4c53ebc96c7478dcd080e943d80a8ea9596436250e]
+    ├── virus.msword.werwe [73e69d4ff94ce3a4b24ae97aa286eea7e26228feabc64e8c3b28b4cedd2cb039]
 ```

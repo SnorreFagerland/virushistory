@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.dariem.zip [5977895ed4e76d733ff684bf1435fab5d898a92ec763409f096f725b95b0e9fa]
+    ├── virus.msword.dariem [135bc81887dc1abe46144204325290a04da57831c744c8c63c22bcd37efc859e]
 ```

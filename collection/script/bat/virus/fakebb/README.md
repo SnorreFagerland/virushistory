@@ -3,5 +3,5 @@
 
 ```
 └── a@troj
-    └── trojan-psw.win32.fakebb.a.zip [6902a115cb904f535769a9dac1529538d11cd56dbab34ec5b1fb2626a88bc09b]
+    ├── trojan-psw.win32.fakebb.a [d7498df67ebc7615ffb834a8da95412441027db4f96a94f67a96d313f001f635]
 ```

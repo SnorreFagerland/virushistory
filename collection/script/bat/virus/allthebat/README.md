@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.copytoc.a.zip [a19b7f07c1edac5e7d5f3846808a0a231cbdfe379f2b901db61c700d9e245534]
+    ├── virus.bat.copytoc.a [3155443a8942a15dcc4fabd0adccdacd2058fabda2ff71191e44fbe463950a62]
 ```

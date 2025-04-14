@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.prince.zip [61a55a2c70d8da567fd31566c8b12778038fb4486851f604d8e6e86bf2651ed8]
+    ├── virus.msword.prince [df5ef4b604c7eadabaf2e08a86051d7fb6befc5dc689de3101a065d050a9c409]
 ```

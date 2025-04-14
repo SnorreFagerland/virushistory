@@ -3,12 +3,12 @@
 
 ```
 ├── a
-│   ├── frid-a_2.doc.zip [54a799764c78f8b8993a9907966ecaa2d4946879a12889b46ac974e7a2cedbea]
-│   └── frid-a_4.dot.zip [97a383adeaeb6c3050ad7488048063a5c3e41ed653214af82454143fbfb41c30]
+│   ├── frid-a_2.doc [2ebf21c7e0108fabc03e9453541b624c088c1a19bacf569b7a3c5f0c894ef7ac]
+│   ├── frid-a_4.dot [f15ff9e3124bfc59a5e215c2926a4626b69d27001bf24ff5d90e9ec4e692cc2a]
 ├── d
-│   ├── friday-d.doc.zip [bad5d4fbf3525f2ca3de2b531c58f43035fd402b4439933a4fa372f2239720be]
-│   └── friday-d.dot.zip [c3aabfa7641e2a2e085325a89897961d311baf59b95f3f0869975d16a3f2014f]
+│   ├── friday-d.doc [9e0a9d0c0f9a80c406d28bddeee98054324dc4954a4d7d0b21af308c124a91ca]
+│   ├── friday-d.dot [e7ffd5c59f2cf880a1d665b93aebd641d5b0ab62b9b895515c2a841f0caff432]
 └── f
-    ├── frid-f_1.doc.zip [043d04543736b9a940ff65bf6acbaa9509484f08f088a750f497e62f44318697]
-    └── frid-f_5.dot.zip [7325260a3abd0c0d9cd7767db5f27ccab9416c5a2a77c5c05bf0c4929f68ccbc]
+    ├── frid-f_1.doc [bd0c841467e087747553b87199d574b07288153b0ee75ed0a9c0bcc19f9d7697]
+    ├── frid-f_5.dot [2e0a2acfd304a8f1e8dc8e792b9b44e2a473803982157a43f6f622c40e00732e]
 ```

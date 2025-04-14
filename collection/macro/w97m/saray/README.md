@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.saray.zip [dcb4ae23848c817ce1a560d3b3302d297a70458fc83a7825458bf4d8b63e6444]
+    ├── virus.msword.saray [a2f9ca29e4012ed06a6f02ca02b9abc969036a1f71da124a79bdecab08aa07a0]
 ```

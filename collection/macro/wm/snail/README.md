@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.kiffer.zip [8a1682cf32d5ba78e08149169c95b6688d06a9fdf16ddfba9cb078645e91ac96]
+    ├── virus.msword.kiffer [c908ae454dd0b9888767577f80ad077ff41c1659f77cedc44609c7cedd234340]
 ```

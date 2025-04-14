@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.renameall.a.zip [b27efaf02e30651118063e73a37a11c98133f331e308833b9e8619cbf74974b6]
+    ├── trojan.bat.renameall.a [c9a92fef0129192cfe3f300e4f54fa229a4fd4d075ee714a6b0b4d331a77a9e0]
 ```

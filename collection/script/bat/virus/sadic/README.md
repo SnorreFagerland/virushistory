@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── p2p-worm.vbs.sadic.zip [f179705999d5e122fffde00a1e57f1601a26a3fe37078c3ecac9340739a488cd]
+    ├── p2p-worm.vbs.sadic [9ca6ee168b39d72468e037ff27cefe24f7f0fecab16025fa02607a273970e63d]
 ```

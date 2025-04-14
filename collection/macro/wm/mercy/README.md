@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── 10faces.dot.zip [209f553ead0ec4315160573696dff104c0c2b261adab763fcf5c594964d70ea9]
+│   ├── 10faces.dot [03e2eccefb4efacfe767c5ebd1303c6a486524d9002bfba9e260148803bb4004]
 └── b
-    └── 10faces2.doc.zip [ec6c2d5a0d51da300999559cb3a9b973883d58405bc16ef363ef8e513bfb6d6c]
+    ├── 10faces2.doc [1e32c6630030f49e41203494c80620035d16aeefb186baa397145ecc3d77c9f7]
 ```

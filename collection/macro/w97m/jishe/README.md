@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.jishe.zip [bdb487cf4cc16955b8d58d36ed5a26c4e4def477c399de70eaaa28d7db913b2f]
+│   ├── virus.msword.jishe [fc34af9dfb4f75a43e03985be92c4f102b31fb3aa09a2eab7d03c221b4554eb1]
 ├── b
-│   └── virus.msword.jishe.b.zip [38c2dc382eb5fb1671db77e451ee09218ba04fcd5458a53983d3525eee7f8d2c]
+│   ├── virus.msword.jishe.b [12c760ee5ffc262eb44c164153deadd0605922646cdb78514838701e77e623b0]
 └── d
-    └── virus.msword.jishe.d.zip [c3a35b83f46e604583d9c18fd0cd7a10ea1c46f63d404cd5b2eee088a817fecb]
+    ├── virus.msword.jishe.d [512e130cb6c8b830204f38cc46e58b0567a396db47b41dc37ab810bee01e6b04]
 ```

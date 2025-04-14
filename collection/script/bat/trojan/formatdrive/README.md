@@ -3,20 +3,20 @@
 
 ```
 ├── a
-│   └── trojan.dos.nahal.b.zip [882538b96f87093e4cd74a9999669e9c9873b19170e84ad65f9fe27dd9a86d1f]
+│   ├── trojan.dos.nahal.b [a374169b51c058f73904f4c28e700f4880bdbe09bf9f9c011765a2d5e96a405f]
 ├── c
-│   └── trojan.bat.formatcq.d.zip [53a63abab04d5ee022a9deed436161f816d63156bef7c9784bcc1fbc9e0c2c55]
+│   ├── trojan.bat.formatcq.d [7040012d201eef37d1104570b147922dd9e80f30718eca81a36f13d1095692c7]
 ├── d
-│   ├── trojan.bat.formatcq.l.zip [70ebb738b9abbb8e53e52f2e8d6ccd0313447423169b60a5a024ce32f1159924]
-│   └── trojan.bat.stupid.zip [a8020e0811b1597b13eabb2aa2cafa46914e85cf7832930d72b3727b3c885592]
+│   ├── trojan.bat.formatcq.l [8042f54649ac5f7768756b98f33b591114f0f4716140a58b40394d6b05cefdc7]
+│   ├── trojan.bat.stupid [f2f33d88329f3765a60a7b3ac0012cd0270661e0e660dc111e09c0d342798f6e]
 ├── f
-│   └── trojan.bat.joreg.zip [4ba9e2c35bb0da59d50b7c1f065800e287b68078ef4c8587ab8005521f1a0c7c]
+│   ├── trojan.bat.joreg [c7aaae45781a41a74bd9261c367c438acd66576f74a4a933845494405436ad73]
 ├── g
-│   └── trojan.bat.formatall.a.zip [028fedc2dc88446a8f56b90e7eb2e1f2c99cc9bc0436995a5ac8e9e32a695f32]
+│   ├── trojan.bat.formatall.a [1dc0412306b076d7fe52bf9734368fc21455dba775c59e8f7849a0df394d3933]
 ├── i
-│   └── hdk_v2.vat.zip [98c9e8535dceabbd1334b50f5246cf980c58038d54f80be5b36ff753044f4ddb]
+│   ├── hdk_v2.vat [05d66998f122f886e44fbf0d9837a6bd29424f87c5939235fcfd7f69e828f382]
 ├── k
-│   └── trojan.bat.killall.c.zip [0036b28d5ffe363f905eb73307512ddf6865f3e109038c4f907d7f34a716bbe4]
+│   ├── trojan.bat.killall.c [ad5605048b4d86ca6ed73d802d1ac4e6fbd21a5c3b588c6d567bd75a45415ddf]
 └── l
-    └── trojan.bat.formatall.d.zip [d95db293cd79864c2db4b5d0c1a83fe35e9047caf309c9ca70670377f0ee6ce8]
+    ├── trojan.bat.formatall.d [0287181382eeaee50b89f1b92e73dc5c607778f47653814789c3649abde1220c]
 ```

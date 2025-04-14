@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   └── virus.bat.darky.zip [1fedf274bf01b79ed6cb47c5f14926e786022e8cc1b610199314c5525a47388c]
+│   ├── virus.bat.darky [a72fbe0a23aeb6e4ec8d0c18780e24fed40c43eef2355715e2e331d15053cd96]
 └── b
-    ├── virus.bat.darky.1119.zip [d65d284d8d5ba665a98cd55595dc7d57f31945e39d908b159d56efd383bf5d62]
-    └── virus.bat.ibbm.darky.zip [453839af1b8d9b01c99fc366871768838e119b980aeb0189ea64a6e9b8a2a292]
+    ├── virus.bat.darky.1119 [b8c4f93846eb43baf5b7884a461af29f5e40a86939844a3ef36ecd2380eec02b]
+    ├── virus.bat.ibbm.darky [471fe8812e9e3c2050f240d0172ceab46e48c6b5b54ae34c657842d9baad6e14]
 ```

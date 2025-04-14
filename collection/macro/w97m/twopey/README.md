@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   └── virus.msword.twopey.zip [b52b3971ca8b86b246ab3513ff94fa1aabdd17cc3d0ec66495b460959148ef85]
+│   ├── virus.msword.twopey [0182b5214024808aca17a23a62dfad94f2df263900b17fe14b403d887baab586]
 ├── b
-│   ├── twopey_b-001.do.zip [53a8c3c0796d9e15ef16107a6471822ba422bd8ad5c65fc20aa6646fe13863e7]
-│   └── twopey_b.do.zip [ce85d1002fb49a6a38025473a2ec96c888600526fb261fafb1f1f9ddeaf1e322]
+│   ├── twopey_b-001.do [328c4c9388b37a730a4949a06fe23b64462a613a699d81b711d7976154beb2df]
+│   ├── twopey_b.do [2f3ea732e311df0904c2cc5c3b2c7c4c4adfbdcc9c91a9d3489a1cb04c524ce4]
 ├── e
-│   ├── twopey_e-001.do.zip [24d2e77753ce07b0582b69f0309a5cf4718ffc14c329645d65eeb168ba714c39]
-│   ├── twopey_e-002.do.zip [852357906f16dff9993cedc150c5758116fe42b5c0026b0daddb4a10ca6f3d06]
-│   └── twopey_e.do.zip [5d48d40bd57c08dd82b31cc1c8b58514f70e6d9df527903f102eef77d6672cc3]
+│   ├── twopey_e-001.do [f99ba9ba7ba8c428d3f86e2f65c7e2049afde7fdb52186806440be80543449db]
+│   ├── twopey_e-002.do [aa6fb71edc071349d828e6c8935e59d9fdfb95d11303be6ebe05342963e0f9a4]
+│   ├── twopey_e.do [87acc56ae00ed941437c0b0882353c4abaef865b4e4e66ad9732de0c54f41dad]
 ├── h
-│   ├── twopey_h-001.do.zip [2253cd9ad419b924469c03d7295d1f55eba7567a266a692bd701d69770dd9ba0]
-│   ├── twopey_h-002.do.zip [0bf099f7f7a40e4a3723e877e73893e79e4922e5f6744cf84a61055ff1d6c032]
-│   └── twopey_h.do.zip [09397e744a9b27480447e082557994f0a80c18a2df3bb7974d902fd593ee6604]
+│   ├── twopey_h-001.do [86b28117b8fdd527a8ae26e2ffb0be2d01c0ef58123746d6fe2b2a8f288263d2]
+│   ├── twopey_h-002.do [d533702cd8acfa9a584c15fd52a1c81a62fc0c867a353c436b3509583f03c328]
+│   ├── twopey_h.do [317627358cb6504355c5d0053429a1fe0c96e63682259a5cd1348e687045e5bf]
 └── j
-    └── virus.msword.racaga.zip [872b0430407021f4dddab6c8e9c76960489d571334995d3cfc8fa55a2fff3e9f]
+    ├── virus.msword.racaga [a2a7061f6f5edda4900d32ac65ce3e9e8272db52ad37ee98377f8e63db7019c7]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msoffice.papercut.zip [f1f83eb0b0be2781b4199c8d71bbe428c680a41b043499030900c81eea2e92bb]
+    ├── virus.msoffice.papercut [be192cc66e18cb5bcff3a98244b6bf3337d56bd3eeaee5db7d03dc58caada675]
 ```

@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── hili-a_2.doc.zip [4cf5b61988911d27208b4ca84d567ef02ba4acd206e275f64ba4d58b0b16f46e]
-    └── hili-a_4.dot.zip [41d47bdcc7e068546914422e4c6e20584d2093c2ad162cb09e2e41a034fcb220]
+    ├── hili-a_2.doc [10bbd84874903e46f5737582799aecd9a71a3db493016c01cf11c97b1fc312fe]
+    ├── hili-a_4.dot [86e7c7e22377ab37da735604b8c4f2cf09afb5e8f7c15cbe24ae23043670c01d]
 ```

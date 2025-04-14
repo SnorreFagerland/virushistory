@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.wannabe.b.zip [d4572451c8618384ae3b2ed2fd893ece426480d71e38da0f4152b0f05f825bcc]
+    ├── virus.msword.wannabe.b [970093aebb7e8e868cccb6072002aa518234bd2516ae2f0f6494b60c5182f1d4]
 ```

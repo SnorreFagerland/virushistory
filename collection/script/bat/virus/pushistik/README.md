@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.pushistik.zip [af8f40bbed009aac32ac9af78391a143a3ddb66afda72b4abb3142e737ae98f0]
+    ├── virus.bat.pushistik [964d970249a98ce238dc1808b30dd99100f5cf687203064cbc9cf1316ee9adf4]
 ```

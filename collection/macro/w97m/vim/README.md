@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── vim_b.do.zip [f063d8b08bec53c1b89b22fa736825e6dbbd29cc29f2f0bce815201f4cdd6b7c]
+    ├── vim_b.do [41edb92ae7cc41bc9d58491f1f3f0a1a6eeca9e1904b5373c9d715d00a3d13e3]
 ```

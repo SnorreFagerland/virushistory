@@ -3,8 +3,8 @@
 
 ```
 └── a
-    ├── tras-a_1.doc.zip [8d6581eca077ba86485e2fcaa952d154cad176549c4447bdeb6e167cacbf5496]
-    ├── tras-a_5.dot.zip [881fdf0890407615ac40b78152f14a638b879e57bc32d9e42ff9f9db4f667782]
-    ├── trash-a.doc.zip [8a7b7fc35fcc5a7295619f82e8f7bebf6734780575cb75955067b507105e57da]
-    └── trash-a.dot.zip [026a3e313dca540fbcfe050a79cf300e2a9cf73b8024bb96bf735f9acd2ff1de]
+    ├── tras-a_1.doc [595181ff0750d3750f9f0ec73e3068d9e2df8beb35da34ffe1f7aaaf039351bb]
+    ├── tras-a_5.dot [eee9868c082c61625c62a57af4e4bf727d1f1f99826486a1358cd0a1ef5ebd23]
+    ├── trash-a.doc [7d64e8b32ee9224d7d5bf57a41c536d9ec5f79703f8d344a215d88073003953d]
+    ├── trash-a.dot [e0a8850e21e8dc14dca84b521408002e16038aa9406b66ce9b0111f8a6904bcc]
 ```

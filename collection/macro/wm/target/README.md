@@ -3,7 +3,7 @@
 
 ```
 └── b
-    ├── lone.doc.zip [fc88cf0db7ed3424cf090f0f7d6a20a4477bf38c98cecaa966984e394adaae16]
-    ├── lone_d.doc.zip [72595f2d1392d3d0d89d450756068948c2651f075f53fb630eff5f804ddfa9fe]
-    └── xxx.doc.zip [2c5d32bbb1a0e99d4aae31116b5973d9800b3239f96140b7bbb833dda3a02dc5]
+    ├── lone.doc [4c2f8ac419a19804c2325c3175b4cf6fdbac694b5215da7bdd8edaeb67dfc898]
+    ├── lone_d.doc [9561e59b81c53cb3b7b7dbf8bbd22ee20cf601caeac0eadd5f9613a3220fc25f]
+    ├── xxx.doc [9561e59b81c53cb3b7b7dbf8bbd22ee20cf601caeac0eadd5f9613a3220fc25f]
 ```

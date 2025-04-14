@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── bat.deadman.zip [6dbc393e30ea8b6812436b5a0d406b64361565ef4dd266f492e1bfee4d4fc47f]
+    ├── bat.deadman [d7b89c56707398ac9624bbb0d02322bdd74012b5d3ed0c3e0cad0335181c68f9]
 ```

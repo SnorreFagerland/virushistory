@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.bat.abm.txt.zip [8a4fb4d262a1370c4d56b0bab671b9d518547cf4baffe5c7c92cfe52f3558a6b]
+│   ├── virus.bat.abm.txt [397afb99108f279ff0209df53a8a164057b321d4cab72639784c4cb0f8c9c9f6]
 └── b
-    └── virtool.dos.abm.13.zip [11ba27a4cccbe3aed4780aecc084b2adf0b87c4dd4464ed007ef3eea20b05105]
+    ├── virtool.dos.abm.13 [23b09c48d8087965b16184e56e1308bda0bc45960fbfc1434f79492d10968252]
 ```

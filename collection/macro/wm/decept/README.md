@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.decept.zip [fc15c206de3991d362a6680749e4de6c74358c132969c4aeba65a6f761464166]
+    ├── virus.msword.decept [00db73f052416d04ce6412c5c8f2837a9ca761ca66b46870bfd25907784971aa]
 ```

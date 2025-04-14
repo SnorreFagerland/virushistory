@@ -3,25 +3,25 @@
 
 ```
 ├── a
-│   └── virus.msexcel.yawn.zip [c4b7501f2c173d28155b7c818d0568ee1c223c754bd2573970243fb4aebd12da]
+│   ├── virus.msexcel.yawn [376444a6f5619078f5486f61c407b68569f4c194c65f76e1b667e5712d65d9f0]
 ├── b
-│   └── yawn_b.xm.zip [549eb13f870515399fbad26f1af22ca5d76b6022e4eed28d1d9a5f94c61af4ad]
+│   ├── yawn_b.xm [90eb0f07040a9705b5d85246e27736c1600e7c5d7906c7cd6f535479b1319122]
 ├── e
-│   └── virus.msexcel.yawn.b.zip [68e2d6c565c759ca744c0946d3aff50d749d7446ed351550a6cfadc8f934bbff]
+│   ├── virus.msexcel.yawn.b [7b3308804c79d7c42b1d877b4889ebd4188cd52dcdb5ad6fca92f1ebc04267f3]
 ├── f
-│   └── virus.msexcel.yawn.d.zip [7e60d750eb170d501e1f376a00cfb4575c44d5453626f3caf8bf105206fdea8f]
+│   ├── virus.msexcel.yawn.d [ac11e484d0c36e378f5cbb5b853f33368190c9efc6a181b2238e5fecc817dab7]
 ├── h
-│   └── virus.msexcel.yawn.j.zip [b45aae8e58a694d5ab8d6f55ec41f6863e5e96c329b3405323a2d4bf8f7104aa]
+│   ├── virus.msexcel.yawn.j [abbb2090e03068c0542030ba98a26f9205d4222e58a3ffaeaf786707995c50a1]
 ├── k
-│   └── virus.msexcel.yawn.k.zip [078168f4b99504803f0d4147462961143835440faf2a4b42d841712ec30ae5cc]
+│   ├── virus.msexcel.yawn.k [b30e9ca3efe414314d7eb64684fb4463235aabe2d1bb891f015304d8e263eaac]
 ├── l
-│   └── virus.msexcel.yawn.l.zip [1639fe3bfe860212da324da0a17c08e72b5f00f52279b2272bd7c81d2dfd7427]
+│   ├── virus.msexcel.yawn.l [c544094ceb16efb8c9104a314879acfeb52b498251dc8b862e43671ac54a93e9]
 ├── m
-│   └── virus.msexcel.yawn.m.zip [a5bd7aa8e0ff5651ac0d1a328c7de3da1a638212d2de27d2239e2f46728450f5]
+│   ├── virus.msexcel.yawn.m [c3bdb05d156396c2dae28016d2fb3866935e4231f77aedd343abc4332cc3d88d]
 ├── n
-│   └── yawn_n_m.xm.zip [8ddf2158ca73ea525b01659d4afba0c7553fac1dd3598e6ad0e2ddb69f25f8b7]
+│   ├── yawn_n_m.xm [64b8c2d48851d1228d77d635a4c778ccaf1dfba9cdb1945e3a1ceec2fb63a455]
 ├── p
-│   └── virus.msexcel.yawn.g.zip [9ee4c5c257a83328d6d152de8714dcd57e461d7b3797cdff489bb0ddd2dd85ed]
+│   ├── virus.msexcel.yawn.g [cadaaf99a3ea2c8a27cc355a23352b5f986e0d8eda10da1cdc2f5233fe312bd5]
 └── q
-    └── yawn_q.xm.zip [24dccca8514a33243755829046dcd1828d4d06f1659b99f4d2394c0e1b4c556c]
+    ├── yawn_q.xm [72a7ad2c7a4de5a6b3c34b7a0f7df8ca825dcfffdc1c7fc1f731ebdf5939a03a]
 ```

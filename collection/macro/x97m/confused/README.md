@@ -3,16 +3,16 @@
 
 ```
 ├── a
-│   └── virus.msoffice.confused.zip [6616c7d2f5af5332962c8594795968567b84d92ce272e7402e0c7fc22f269b6c]
+│   ├── virus.msoffice.confused [51db587581895de9d1de813e9c48f380a3305561db4bb64e7b2591082fe3a793]
 ├── c
-│   └── virus.msoffice.confused.c.zip [3621f7962742c08c0395f592e6079b8bec1872e0ed301d6d869be94b03aacdb5]
+│   ├── virus.msoffice.confused.c [e71b3f8352511523cbeeaa9b07e42724e85b0f1b8f8687679b60627428196071]
 ├── d
-│   ├── virus.msoffice.confused.b.zip [ddd628efaad7044b598b50ad0a760d92a1317f6421450a75c403174474ffc7e4]
-│   └── virus.msoffice.confused.d.zip [f3a612f414f88f5f992d9d648f700c957ad1d4aca7fdb64771a0d846ebe9f3a6]
+│   ├── virus.msoffice.confused.b [25233db40cfaf4570b8622b8e5d1dfeaf317de713086a360c93f8e17dcd63fe2]
+│   ├── virus.msoffice.confused.d [5b9d7ca88eea99c58722128f72916ff16b65ef0f7852ec99ff9a2ea51d015236]
 ├── e
-│   └── virus.msoffice.confused.e.zip [db58d406fe2f07dd2eccec2eab610348100619c914e1b698f8708940282091da]
+│   ├── virus.msoffice.confused.e [ca89d4dac5b3490b83d965519ed8cfe48b1fe73f716de5381a7c7a9ffae7ec02]
 ├── h
-│   └── virus.msoffice.hikaru.b.zip [ee5cfba9ab0de1add6d2347f839d9d61d15a39352626289084feccf4413e4ffe]
+│   ├── virus.msoffice.hikaru.b [ed36f34cf9b418c5879d7fd92810089be98f1efd1341c2eeeae79d931d4c0376]
 └── i
-    └── virus.msoffice.confused.f.zip [f75630bb1a21fd041b1e6b0c5edfb933d20d05db8d9c35e2f29993c37dea293d]
+    ├── virus.msoffice.confused.f [8df4aaefc5d70d80c62bd4c9273c474336c884e191c195470d3a19be0b6dd2ea]
 ```

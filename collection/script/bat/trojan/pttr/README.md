@@ -3,5 +3,5 @@
 
 ```
 └── c
-    └── trojan.winreg.disableexe.zip [596e9ba95a836244c228fccef4cde5c8b88cd43a5f44730756ca5c6d9f5a401a]
+    ├── trojan.winreg.disableexe [cc2881056589e39b05896b155ace6672f5f1d1b8626e8c29a770cf49a7545b66]
 ```

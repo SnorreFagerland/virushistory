@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.pain.a.zip [2eae659ed0c85646d8135a933748301189425dafa36baa461d91bb60462497be]
+│   ├── virus.msword.pain.a [47c545a2d1c62659e96138d4245b7943b964f255837dba44a33cf79be47e2864]
 └── b
-    └── virus.msword.pain.b.zip [4e81fa278b1adc5c921feccfebb4b7c350be61b0a20e29d4ca2487aeae574bcc]
+    ├── virus.msword.pain.b [ee72b5f7ded496c6dcd5fbf59a103d8f7460e4b44f1104237c9b35d4e30c95c5]
 ```

@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   └── bat.dbyte.zip [8d3daa0a600eab9048d2a2d2b44d40e94fb4eb8dabcf769f6eea34527564e362]
+│   ├── bat.dbyte [b5c4d66c871fdc9dbe668cd81b1ac89e9f324286c729a0f81a6dfdc8517daa37]
 ├── d
-│   ├── virus.bat.deadbyte.b.zip [165334bbfbe7b8a0d85a940c695932fd15270215fe5ecbb9a45fbc557ca3ba44]
-│   └── virus.bat.deadbyte.txt.zip [46765ffe2a1444a451a43b68c9c3f7f0feee9a840a470a10ca576f8708c93152]
+│   ├── virus.bat.deadbyte.b [afd6c6ebb81a5960a02de4f010da9526ffe1b89a4d45df43bf71944f36b08e83]
+│   ├── virus.bat.deadbyte.txt [f6f6a28777488a084af1a6cf5db19b57a7c4c767d2b785c897e95e3898484939]
 ├── f
-│   └── virus.bat.deadbyte.f.zip [7cd3deea4285b541654810924c6128109445d04ff0bea89cfa14390cb72a032b]
+│   ├── virus.bat.deadbyte.f [47d6597c874f9068cf3bb2a60988df64f7877971c1c552502c355d6cf0f9fb90]
 ├── g
-│   └── virus.bat.deadbyte.e.zip [559fd36c6210182fded995804f74330b3e14a8e184f25dcc7784e05920d447bd]
+│   ├── virus.bat.deadbyte.e [e08fa4186ce799d6464aee68ba3b48f95ac9110169217468b88a5c413d14047a]
 └── h
-    └── virus.bat.batalia6.zip [2117089880f32b03ea8d3830e69172b412c727d3f07281aa979a948e7255df98]
+    ├── virus.bat.batalia6 [95dd00d5dbfa04a5f65c776ecbf591179e9b8f4f8d5ea24019fec344b8e2b565]
 ```

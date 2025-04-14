@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── bait.doc.zip [f08c943112214c9315248822c381e7ad1af1dcb6c8d95ab893e439f17f86f790]
-    ├── bait.dot.zip [0130dfe4acf2d3cc5dbbde50b586510c5320e4d8827c6e895a8dd4fafdfb4015]
-    └── vmpckkim.doc.zip [fd0523e540891dd9a5f1841e0921a7e4dbb1bc3ec4f1313362f801034fabd9c2]
+    ├── bait.doc [059f0922cc0c5eb82b3fe4730e9a683cd717c31599a7ae982bff62b339720ab3]
+    ├── bait.dot [0560eede5f4b5a9fb683c9fbca810eb208a5ae4749883885410ac7926dc218dd]
+    ├── vmpckkim.doc [619952c36e3eac8f50cc22c4521f6ad49959e519f5181825734330e2c5ca836d]
 ```

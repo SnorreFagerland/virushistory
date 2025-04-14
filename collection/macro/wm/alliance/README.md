@@ -3,35 +3,35 @@
 
 ```
 ├── a
-│   └── alliance.doc.zip [fe6a88eb7965ab77a3a8ef9b4f09c0187d8970ca0bfc6d7596ed502654a3b241]
+│   ├── alliance.doc [779146bf6945a139d0849f7fb6bb00cb263ea23a939e849b8d59096dcea4b856]
 ├── b
-│   ├── allian-b.doc.zip [ef0025793a07f0a5d80ae969e95c9d1cc6e6ab179a16d9e60033e8f8ed9d3d73]
-│   ├── allian-b.dot.zip [9701bba304e0ca0ba0163d6cf48cf66fa10428850193649a92d11f18fba5e4d5]
-│   ├── doc2.doc.zip [7bb7288f7bc44cd16cfdd5bcec7b187af7a4ef657d2af2d0e57a4df627b81833]
-│   ├── doc3.doc.zip [97f2c2bd442e61a5acb6d98219710d9690d6f2213ab63068adc3dea185f212f9]
-│   ├── fsksm.doc.zip [35ba7c8c28569872c3c3fb75b00c410c7934aceb0305b1ab25114806f8e3edc1]
-│   ├── saya.doc.zip [9208a49dcb2c0e64c7d01d66924921db8864617e3d7ed60d7248d22e400bf1e7]
-│   └── saya.dot.zip [0469cf30e2ec897d316826ff17a02fbb6ec04bde80829108e5629d831ca70e1c]
+│   ├── allian-b.doc [dd7968dba00d43049bb299fec410f9076686a83321be82112aa2227e563b5884]
+│   ├── allian-b.dot [9ed73ef5fe9446c8b680b3e41154a94f5fca7c75e0e0ddba9e6816a200bd654a]
+│   ├── doc2.doc [4dbf87fbc140469740898e10c3b9a9d24b02a90bfb9be70f46d6a509a3227d4b]
+│   ├── doc3.doc [76207f6018c5d8b16623ea1f5922efca87ae3edb541e9776247e2d606ce7111e]
+│   ├── fsksm.doc [ee3e2e3dc0ccaec448ed756ef845873f6f9114db832837ee99ad1b37c73af4e1]
+│   ├── saya.doc [f0b1f6b9fdad396fb81901fe529690401045110678d05438ba3ca3a38df52874]
+│   ├── saya.dot [e93112b961ad125d30c87df23cc91da5e12a13c525e8b3328b233904ee33e4a6]
 ├── c
-│   ├── alli-c_1.doc.zip [ebb8dd90865ab4eeda2b038cbe547f79861f0bfada4dc7c7b862e651140bd9f3]
-│   ├── alli-c_5.dot.zip [11639395e815525ab4f13eb9bb0b41f96e9b48496397f7e565641c92ddd1d327]
-│   ├── allian-c.doc.zip [16a900c37118c6714c0f8cb618c458a8fe6a3b0ff058d592163ebbe766b49527]
-│   └── allian-c.dot.zip [8b0152d97ad0c12c1579094224899f5d15f250c35196749bf293b6721a95b22e]
+│   ├── alli-c_1.doc [f8be07a4931dc8dbf71de374215effae6b590cc3260479016672d1d255f457a8]
+│   ├── alli-c_5.dot [b334c2ac5edfeb6888b3d18117376510f77444e4db6a5d2ad78f6d308a47efbf]
+│   ├── allian-c.doc [da15355f5b670cfca3d8e3ec3919f29d26f75e3facd39177bb9e5b71abca399c]
+│   ├── allian-c.dot [3fad9c87c993ad3b3ee769e770ba651face30cd9c54c3a2d1c59f89420550bc9]
 ├── d
-│   ├── alli-d_1.doc.zip [47dfac24ca3e37652a4dfe04d3ff6e10fb0597535a5a55ef27d942ba03cc3895]
-│   ├── alli-d_5.dot.zip [0b03796947347216c3f546bc5920700ae4fa54cb493cbc05c51994d2a68e98c2]
-│   ├── allian-d.doc.zip [d72a1467754beba850f4f87cf237b230face39673002ee8da35d12180b2de35c]
-│   └── allian-d.dot.zip [c55e330b6f02d83e2b4fe63faa27e87aa918c6f7a1cc03182077c86a47d0e530]
+│   ├── alli-d_1.doc [6ba3c838fb7174e7e5050c0496132fbecdc49cfb627e79e9ba0476f4b91c9479]
+│   ├── alli-d_5.dot [5109c8657b4c613b916ba1114b9207cb43a24f07a7a019bde33f00e91b42eb0f]
+│   ├── allian-d.doc [9d2876d9a7f249cbaeeec7feb5b753d84a5790ca7047c2ac427f579266d6abc7]
+│   ├── allian-d.dot [6c8d4755ad48e30059a2dbbdb886b10b94806070ab41b65147d37bf9a9b02c8c]
 ├── e
-│   ├── allian-e.doc.zip [1db5b5f3eea22130db922643fa073aa64c5b4711c75d7334a8af88930fe31292]
-│   └── allian-e.dot.zip [cb88585e4f6b4697d3e1d01f523910fe9f0e59c68fd61167819f86cc0017f5d3]
+│   ├── allian-e.doc [0689d01f6b6130df6638d6e75d0c7062df4c21d6f349be747f38a63bf698209a]
+│   ├── allian-e.dot [a784997fa8a0c3210e0069a0d1617133f9c04e61f214bfa9ed200c16442202c2]
 ├── f
-│   ├── alli-f_1.doc.zip [1c37d552c33ca934d57a5d1d5390842406d78130a89060a0e48a3832f3dd3672]
-│   ├── alli-f_5.dot.zip [74d0dd6ce0cc262c695c1b760fa8681292626a9411fe968b0e21578d87a4a489]
-│   ├── wwall-f.doc.zip [9c476121cd6ff50fe1206aaec12d158ccd6b8786d530b15697629671dcfe28d5]
-│   └── wwall-f.dot.zip [269f9b53cb974d4d1bc1ce0e71a8c984140052284adceedfae600b2b404b3ca0]
+│   ├── alli-f_1.doc [514db4b4a047b54cd5b377f02599413ff1e7a882a1b51646720352d6f968f5f7]
+│   ├── alli-f_5.dot [1c7b7e01c8063931cb20116ffb898e3432e8dcf4c9a065cd59984dd9302b2b4b]
+│   ├── wwall-f.doc [02d5bbea92072a54660cd0a02bc22a33ed6e67f1fecf9d0d39696db5bc464581]
+│   ├── wwall-f.dot [007dacf66cc3da85accd07bdf8a2ea515b1588f64675411f589c953fc3ffc8fc]
 ├── l
-│   └── virus.msword.subject.zip [10a554d06506f9e5a17fc496ea61785c05273e3237ffb65486ccf329808234f8]
+│   ├── virus.msword.subject [4492b695c7499191a3d847f4201f34477f86815e9b2ebb6639b31a90b4486f05]
 └── o
-    └── virus.msword.intended.subject.b.zip [a8b3581f2599ef6bce056fe0cac28938984988405060a3537419fd67f325be8e]
+    ├── virus.msword.intended.subject.b [405ddbebb622ff96b300241e3727c8ba2e580b5224278f5f7b1d63f3f601042a]
 ```

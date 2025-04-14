@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.karatka.zip [241a3630b3e682eed1ff4cd9028e8e355fa753a690542e5045fc5d0cfaf29bcc]
+    ├── virus.msword.karatka [c4968bccac3560eee1b8e61b6bb20c48036cb53a23302bdbb8252d94eebe1af2]
 ```

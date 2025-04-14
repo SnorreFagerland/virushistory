@@ -1,0 +1,127 @@
+@echo off
+:menu
+echo.
+echo.
+echo                    ษอออออออออออออออออออออออออออออออออออป
+echo                    บ Win9x and Dos Restart Constructor บ
+echo                    ศออป    dvl2003ro@yahoo.co.uk    ษออผ
+echo                       ฬอออออออออออออออออออออออออออออน
+echo                       บ                             บ
+echo                       บ   RC 3.0   Created by DVL   บ  
+echo                       บ                             บ        
+echo                    ษออสอออออออออออออออออออออออออออออสออป
+echo                    บ Viruses don't harm, ignorance do! บ
+echo                    ศอออออออออออออออออออออออออออออออออออผ
+echo.
+echo    Make a file(press a number from 1 to 6)
+echo    ฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤอฤ
+echo.
+echo    1 - Restart 1   (min.req. msdos 6.0)
+echo    2 - Restart 2 (min.req. win95 + ie4.01)
+echo    3 - Restart 3 (min.req. win95 + ie4.01)
+echo    4 - Restart 4 (min.req. win95 + ie4.01)
+echo    5 - Restart 5   (min.req. msdos 6.0) 
+echo    6 - Restart 6 (min.req. AdvancedPowerManagement 1.2)
+echo.
+echo    7 - Greetz and special thanx
+echo    Q - Quit (Are u sure ???)
+echo.
+choice /c:1234567Q>nul
+if errorlevel 8 goto done
+if errorlevel 7 goto 7
+if errorlevel 6 goto 6
+if errorlevel 5 goto 5
+if errorlevel 4 goto 4
+if errorlevel 3 goto 3
+if errorlevel 2 goto 2
+if errorlevel 1 goto 1
+echo CHOICE missing
+goto done
+
+:1
+ctty nul
+@echo HPSห>restart1.com
+ctty con
+goto done
+
+:2
+ctty nul
+@echo rundll32.exe shell32.dll,SHExitWindowsEx 3>restart2.bat
+ctty con
+goto done
+
+:3
+ctty nul
+@echo rundll32.exe shell32.dll,SHExitWindowsEx 5>restart3.bat
+ctty con
+goto done
+
+:4
+ctty nul
+@echo rundll32.exe shell32.dll,SHExitWindowsEx 6>restart4.bat
+ctty con
+goto done
+
+:5
+ctty nul
+@echo e 0100  B4 0D CD 21 B8 40 00 8E D8 3E 80 0E 17 00 0C B8>>rb
+@echo e 0110  53 4F CD 15 3E C7 06 72 00 34 12 EA F0 FF 00 F0>>rb
+@echo e 0120  00>>rb
+@echo rcx>>rb
+@echo 20>>rb
+@echo n com>>rb
+@echo w>>rb
+@echo q>>rb
+@debug<rb
+@ren com restart5.com
+@deltree/y com >nul
+@deltree/y rb >nul
+ctty con
+goto done
+
+:6
+ctty nul
+@echo e 0100  B8 01 53 33 DB CD 15 B8 0E 53 33 DB B9 02 01 CD>>atx
+@echo e 0110  15 B8 07 53 33 DB 43 B9 03 00 CD 15 C3 56 65 72>>atx
+@echo e 0120  73 69 6F 6E 20 31 2E 33 00>>atx
+@echo rcx>>atx
+@echo 28>>atx
+@echo n com>>atx
+@echo w>>atx
+@echo q>>atx
+@debug<atx
+@ren com restart6.com
+@deltree/y com >nul
+@deltree/y atx >nul
+ctty con
+goto done
+
+:7
+cls
+@echo.
+@echo.
+@echo   Greetz and special 10x goes to:
+@echo   อออออออออออออออออออออออออออออออ
+@echo   - NGL - myth_eu@yahoo.com
+@echo   - SpTh - SPTH@aonmail.at
+@echo   - Sad1c - sad1c@interfree.it
+@echo   - Adder - adder_2003@yahoo.com
+@echo   - Nino - drliks@yahoo.com
+@echo   - Mj (Gotenks) - igrasie@yahoo.com
+@echo   - Ratty - ratty2001ro@yahoo.com
+@echo   - John - Cyberpunk_ro@yahoo.com
+@echo   - AlcoPaul - http://alcopaul.cjb.net/
+@echo   - Kaspersky - www.kaspersky.com
+@echo.
+@echo.
+@echo   Contact me at : dvl2003ro@yahoo.co.uk
+@echo                   อออออออออออออออออออออ
+@echo.
+@echo.
+@echo   Press any key for main menu ...
+@pause >nul
+cls
+goto menu
+
+:done
+cls

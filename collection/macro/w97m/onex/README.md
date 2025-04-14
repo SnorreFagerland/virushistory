@@ -3,23 +3,23 @@
 
 ```
 ├── a
-│   └── virus.msword.onex.zip [29aac6341975f46ddaf330aa7a8ffcc10d253f3db1f6cd0ca36a9f87c33ed13d]
+│   ├── virus.msword.onex [024bc461ac4b1ea78a3e8585d0c2bde9ba00b2c0813948cce54698525bfe28fb]
 ├── b
-│   └── virus.msword.onex.b.zip [e6ea1c54e576cd29d85a9a5a28567c0e1cac7f2c47fac92c3c5b1f85c948caf4]
+│   ├── virus.msword.onex.b [31565c37b393693c40c2ea0a8e5795a01b6b372275d9b65b9a658faa3aea830a]
 ├── c
-│   ├── onex_c-001.do.zip [3c664c11b61c8055a47c298ee8667bb8dc404fd74b38ae76cec48b802749467f]
-│   ├── onex_c-002.do.zip [cc098c644fc95d2c703ee76fa4d70ddb6d7457f6a866c7298ce0b3608e4a828c]
-│   └── onex_c.do.zip [6114443adbef389376258cf1d0d71ef9d7ab999145877acad64473bf46d5c919]
+│   ├── onex_c-001.do [79c6bd755ec58d04d0c1c0b5d72c272b6b8d4e91c80eb0f7b85abb333503229c]
+│   ├── onex_c-002.do [f8e224d5a88ea42b6387e98fdcb12a2c3097fce4b487d7140330bb8a804b6052]
+│   ├── onex_c.do [318b2d45a59b27b61b57ed29e5766c9864456cc95df5d7897688a90565cf6631]
 ├── e
-│   └── virus.msword.onex.e.zip [f703056ff60204ad4daa079e244bc8245cb22ae246d71afa1fbb952463705f6e]
+│   ├── virus.msword.onex.e [5bd376495619a9144314af5f3e0b15a6d91212c1a50627fb64f8440430410549]
 ├── f
-│   └── virus.msword.onex.f.zip [85549b142e2951110eee9a1dcaaef6dbc1e4aa4bbbc12eddd2828b2484a588d6]
+│   ├── virus.msword.onex.f [6c42db3e2eaa4c012789f05e3ef0bb012b39e415dd6d9fc6f0c63662adeb5e8f]
 ├── g
-│   └── virus.msword.onex.g.zip [33e1ba492434587e120957cd865c0d68bb76128e1dc702e15e415e66f8cf53f2]
+│   ├── virus.msword.onex.g [d8d36740569da5881566c6000f74d923185f29467ac22d4cfeeb821ca71e1cd5]
 ├── h
-│   └── virus.msword.onex.h.zip [a28fe4089c842e590c8581037183177c65a90f0214a7073d6b1ee88ee9f5afe1]
+│   ├── virus.msword.onex.h [111c536a0eadbae1702570aaa06459a68e3f513d82ca4ae5cfeff1ad298fdef4]
 ├── j
-│   └── virus.msword.onex.i.zip [5a785b78ba7f8627140425ddd84ce9aaada75c8f1b9d6b785c002ccae0502a8d]
+│   ├── virus.msword.onex.i [5a0f8b6e43e93f127ee02477382ec78bae1996bf52be8cb5270ed1bd306a1304]
 └── p
-    └── virus.msword.onex.o.zip [8cfb7b5496e13dd02aaed99df05bf22df38ff15a6139aa5b0ff217228221806b]
+    ├── virus.msword.onex.o [757c78c7857249c3b2c32b619e6dd3eac2103beca153bc051e066659e110c23e]
 ```

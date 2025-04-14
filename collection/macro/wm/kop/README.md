@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.kop.zip [f7dcad7851d83682ee527c31ccd5940e1be65d8fd89f3ceb3ba4d546c0191c06]
+│   ├── virus.msword.kop [df172c3dbcbb582a0adc03e2301779b8252265f41867bf6253a3b2eaf875eced]
 └── d
-    └── virus.msword.kop.c.zip [e3ac8370f8f09373172504aa166dd27cb241eecf651b52839f68fc0cdbc51bbf]
+    ├── virus.msword.kop.c [b228aa1a5502fabd95316ec0579ef4adc2f9e0a051f732a91ed077939b75f9ca]
 ```

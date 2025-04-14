@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   └── bat.sob.a.zip [cb9c17588c57e452407a5266714cd7628630efbd4753497c236675712a499f97]
+│   ├── bat.sob.a [5a4c68fec59d388a0840769af7ce211bcf6ddff95e40749ed35013a126b137b4]
 ├── b
-│   └── bat.comp.226.zip [8bc999fe6cabc96fc1dcbf07c3a943effb503e7197ace7419e1f37e47b3e81ee]
+│   ├── bat.comp.226 [6554e93fd3dee6854088ae4655fce6b42146a421115ca03182d31bd1da54d9b2]
 ├── c
-│   ├── bat.duke.a.zip [6b852ddbe6f1eb535027062fa9b209c1accf55f7460a76d28960cdb4fd1840d7]
-│   └── bat.duke.e.zip [c9da485369d8c7a5ad2b796049e40ee46f75d4e3492c10edafd351c801b90da1]
+│   ├── bat.duke.a [0ca3f4c582cb0d11d9df30c1fa950dba0dd3536180c9e56a0b257821535ced79]
+│   ├── bat.duke.e [0d08bb9d89d5a5be60777f8b4bc0ad11a1ac6e5869b556517cd679c661f3c7ae]
 └── d
-    ├── virus.bat.duke.b.zip [2e46d2d55989f3aa908d4b33ace6997729b39dbf9f01620c5e2746675ca8b039]
-    └── virus.bat.duke.c.zip [f94c67fd718d68b33269059188e9ca772372d8c7b240c69714a9bb572207c08c]
+    ├── virus.bat.duke.b [a3e4232ee17070bb976aa94401ab01bba54d9bbda5f32e542f760cfbb09971a0]
+    ├── virus.bat.duke.c [048d50b133c57e444b6ad1638fb707125c12c98a12a19dea209d98f5d534495e]
 ```

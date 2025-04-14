@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.msword.phram.b.zip [6b8accc9653b31cee6533bb469a6e278da1b4f6d0428251fdb95f05998458323]
+    ├── virus.msword.phram.b [b6bcb46ab4c790e596b8808bb4c2a91032c22ede6d7f4d68539fb489e6bbed1e]
 ```

@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   ├── thea-a_2.doc.zip [ca2027ec14163bd5c59cd4ac8e82fe632f87e1e5dfae9615fc20c6fd4e8b6740]
-│   ├── thea-a_4.dot.zip [8606503ad4821604f28b5878bd2de05e1098000526ea93d2a29864ae9cd6dcce]
-│   └── wci06843.doc.zip [ec63fc6abe6fa786b40ca84cc440528e0eb9811956b0f1c5945d5c60ab82c33b]
+│   ├── thea-a_2.doc [4acd556dd54edff8b19ccfd9730515848da173ccc300e1667bb46b57b3ceed1c]
+│   ├── thea-a_4.dot [aa6172343adf3aabae73473b1c6ef8bf81e7916bf9ea280c996d45c97a736f70]
+│   ├── wci06843.doc [3689d348a032260c0148b664d1231912fff7662d353c8eba231ebec8a65bc291]
 ├── b
-│   └── theatreb.doc.zip [aa9d1904b1fff4e03577849d04edca3027caead85545e7338c48613ecba81cdd]
+│   ├── theatreb.doc [5a320475762f28c430d2453b9f7cea2681205b2696d901e4dc567ee80e9a101c]
 └── c
-    └── thea-c_2.doc.zip [94979b4968cd1ba0737672e83676a47c80e7f4a6a4eb5e55b4da1bf5eaf5e246]
+    ├── thea-c_2.doc [777e6cc3755afa7ea7f558680d453318c7292924b2cf99b26708bb8c34381dbd]
 ```

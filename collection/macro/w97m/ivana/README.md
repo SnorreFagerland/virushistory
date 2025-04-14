@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── ivana_a-001.do.zip [3fc8c537f4b5b74d08b9a2d35c4b1c6d61810f391a08dacadef08c396efdef1e]
-    ├── ivana_a-002.do.zip [3fc9e2ede4ae4ee4ba64e42b8927b8ae7574edf27352564ed7563c105e60d852]
-    └── ivana_a.do.zip [98c1c92dea777f24952a3bfb203f6c847ab68319e17196135944f8a64b78a584]
+    ├── ivana_a-001.do [feee98ff4a45a27c61cc54785a7f946fc6ec0eb512ed258e0eb02337129b1ac1]
+    ├── ivana_a-002.do [a0fa7fae9d27095233b8d5d67fa0607347ac47fb23d58bd2596c929ba27c7203]
+    ├── ivana_a.do [66fb8103ad5033a7b8350dea7fc15fb2b9a330432818566e9c93463e7a305b02]
 ```

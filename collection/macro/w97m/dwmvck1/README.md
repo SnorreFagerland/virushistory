@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   └── christy.dot.zip [25c56c4cc86aa08b2ea6b61de24d1107f737df9db63289c01bce397fcbfcc6e6]
+│   ├── christy.dot [4d7a8f21c2d17ae6a6150b3583d24b000c8f1d45d5df7e9bba160f854fc5f5d9]
 ├── b
-│   └── slam97.doc.zip [11a87a91f24514a638a9ba0b6074c320a7aef3315760154e307dfe4d1a016225]
+│   ├── slam97.doc [064fbf75b5f212a69877a03903702a26f95675c52929d2b6c5c6932428a7bddc]
 ├── g
-│   └── virus.msword.dwmvck1.g.zip [aa1360ab41e3be5118b00f8890d6750240f7fcc022d345c26e3fd25912ca0282]
+│   ├── virus.msword.dwmvck1.g [c2a13e724d5a4086dfc359f27b77c66db9350e867040bc2b41b4260090b1b765]
 ├── h
-│   └── virus.msword.dwmvck1.h.zip [7e90d03c4abda4e3f9378a2227108721f5ecf98eeb1be892fcb0b2aae692f90c]
+│   ├── virus.msword.dwmvck1.h [16e51fea2c727a67707e8337b787c8eea3043150b8329f50ed4a9a2ccbb43a4f]
 ├── i
-│   └── dwmvck1_.do.zip [a467a91fd923311aa9ac6f0d19f0666ab2ca32015a3c4e1c28367e7600c8ab95]
+│   ├── dwmvck1_.do [80e04602430b9184e6d66931a65e0dafc7402bbeb3069a26faea9084bbcbd237]
 └── kit
-    └── dw97mvck.txt.zip [987e1e5bd700c2aac17f8a4eb7e84b606179ffa2780153fca1dd2f79430b28dd]
+    ├── dw97mvck.txt [bd7af0e2c98ee05c3eea710ab549e3e110f61291f8d04ecaa9f42a2fb684fc42]
 ```

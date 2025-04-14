@@ -3,55 +3,55 @@
 
 ```
 ├── a
-│   ├── appd-a_2.doc.zip [cbeddc3b67c6a226856a2f9b48950ab2fdb7040c25b229dd6716176652c1e960]
-│   ├── appd-a_4.dot.zip [a15bb1130ce60249100184222181402953377c51b14d344900936589997bf3cf]
-│   └── appder.dot.zip [4857167765720d0dd54a8798d7f3ab4ec510fd559679e82c848cbd33987bc0af]
+│   ├── appd-a_2.doc [0ef92a871e8c17994aa8e91275ff4c808b9e78bc72bf191a84ff561fe5b718ba]
+│   ├── appd-a_4.dot [a371783ec14f02a9cd8503136e09c0c98642daef4aafe7773c8eb47597fff8c8]
+│   ├── appder.dot [e75f0ce4c56f87793dd07ac461884546d068039e5826f106f8d818acc500d27d]
 ├── b
-│   ├── appd-b_1.doc.zip [9616c8eb9b9537be6800beec6c13831769b2ba75c750658cd3da64dfdc924868]
-│   └── appd-b_4.dot.zip [cb5371b697a3c57154ba6efde8c87ad93f8aa6f8dd5513b911f4539255fbc3ff]
+│   ├── appd-b_1.doc [05fe8e09bef03e20b2f68782905073c2b42868b9fa5cb0cde50ab88ca9e90fd5]
+│   ├── appd-b_4.dot [ab010c35bc1a4aee9f7ba379e9e0fe248a9cfe959bd5d2de708e4cb998b4a7af]
 ├── c
-│   ├── appd-c_1.doc.zip [8fec1336837eb37801949ef35646d5d7b8322935a50b081b4a4e0252654c4215]
-│   └── appd-c_4.dot.zip [9df85196bf86edd6b994b4fe735f9a086897be560a14125bd9c13611986c5c9b]
+│   ├── appd-c_1.doc [203da747d8450bfc2a221a30e52b13af064c9c7db8865f28fc496c6647a57bb9]
+│   ├── appd-c_4.dot [8b666b935e0b631ed945353f20634c2a5065c08eac74e0e7058e70aafc7bd2a4]
 ├── d
-│   ├── appder-d.doc.zip [81cca8f6c20e9cec554c23771c0c6828197a3e3fc81d9f148e4a8398d8b5d6bd]
-│   └── appder-d.dot.zip [75fd81b63255870a0028f25aa112face9b604fc330bfa86f39fcbf13b0b96fae]
+│   ├── appder-d.doc [060381dbfbcee792c0faf9a4457fffe9c2ad0cb32920c66bcd528c4bf19d9356]
+│   ├── appder-d.dot [988d837db995c176172703a5a5a7a00f1bc1d971f9e99308e6e1b969ce25e9cc]
 ├── e
-│   ├── appder-e.doc.zip [1faf1280d8fb71d11bfa3250dd247773be3ff030ddbcae3d9314c94ea9e3a1a0]
-│   └── appder-e.dot.zip [7629d0575e8e2278c25828264fc33838686cf0d066099416ed08bf63c75d4359]
+│   ├── appder-e.doc [675cee065ba5c25bd4bef520725de52fe2a86bf498dc5b79c7639ec5c60ea483]
+│   ├── appder-e.dot [dbc293dbc31ee8f4d8fad1cf0267ea9ded92091e22c53a4a705ef3cff0ea8b7c]
 ├── f
-│   ├── appder-i.doc.zip [703dc5fe1dd0b459f94735dc5aa3b4b274a83b08e94e5121eaf1a8320532976c]
-│   └── appder-i.dot.zip [105a329c6d1c9e065757b6ba869bef50952b56e1c3435269e751847f52aa0224]
+│   ├── appder-i.doc [5bfab8194a66a45401a1dd01a7f9f0e2d34606966de666e33a56bc612b9bfe82]
+│   ├── appder-i.dot [f63baf6306e059e51f982d71488451a0eba69f76527eda3ffb3c0c4a6b81132b]
 ├── g
-│   ├── appder-g.doc.zip [76b4b8993c82a02dba35edeefa309c22e34843ab4f831871774d0b481f061859]
-│   └── appder-g.dot.zip [c316965e6c37b889a14f2297be86cf750f2bcb4eb33cacfe2908c6ff9c7302d9]
+│   ├── appder-g.doc [bca1aaaf847b33394f880ca7d1c710a34c292b4661e285d532ba5f473a30647f]
+│   ├── appder-g.dot [14e03357915c65c650346d5b1f85806e644b82a2486117ba2808d26b11b50b70]
 ├── h
-│   ├── appder-h.doc.zip [af0f730b2f76fd8f865beae8ba80cb245ab47f2b1559e238cbdadb982b212c68]
-│   └── appder-h.dot.zip [983efc274fdf344f369810e671feeb4adc2b7f1f66754705c17debfe27a052bf]
+│   ├── appder-h.doc [27b1f398d6ae2585d720eb2582beb96061c07be6f51fd55fe6256d400d240960]
+│   ├── appder-h.dot [e7d57cd41873d9a52d0eb4dc58edf2df6a2246730e00c953bfbc514010f95ab9]
 ├── i
-│   ├── appder-f.doc.zip [a44a8012f915f89cf679c392c74593a6f5db95910dd82442a16288eeb4532c1d]
-│   └── appder-f.dot.zip [64f6dba66d8aaf3ebbf93e66e21762cb29d62e567734a95ea4dde30d68b92701]
+│   ├── appder-f.doc [78d9559c3323df6db7477061a9174962116f4e3b8c01646a7bea9f9744d3c083]
+│   ├── appder-f.dot [19e51bff783b24aaf60bae17f5a3054efd1b5e65d5c3f0446513e380be664aab]
 ├── j
-│   ├── appder-j.doc.zip [338abe79873f4f40a68f835ed79c5a844a8b151c0485f5d902ba4bf3bd2b915f]
-│   └── appder-j.dot.zip [4c0a06807afca9754cf77699ad0ae065ed016407e4eca5fd6293d8cd1643fbb8]
+│   ├── appder-j.doc [169a6b149b7f4e506c759a9bfed82d26e393c9489e1c28030ed1c1b47db027bc]
+│   ├── appder-j.dot [59e8b6cd339080644ecf97df27df603759aad5c82bb057cf2709f660887ddb3e]
 ├── k
-│   ├── appd-k_1.doc.zip [67d0b4299812e165033968a5bed14d377a20092057cc9941d23440d5779d637a]
-│   ├── appd-k_5.dot.zip [4acf70751c63ebd8204214f6cc5cd7baeb7a899d37de84381d75bfe58c52a0b0]
-│   ├── appder-k.doc.zip [ea57285dd1e0f5d0f64fdd063e94ec4e2f54827291b2fd8fa26ce7f54bfae8e6]
-│   └── appder-k.dot.zip [c6746bf2f6b12a841886f551e6b6e043e42e66e50a5b4040f0112b4cdddb98d2]
+│   ├── appd-k_1.doc [58cbacdf925c8a394df5ca5616a484e7b3c46c12decf7749314cc1a48fdcda9b]
+│   ├── appd-k_5.dot [ed7e8a2e92c9f53fca70d8bda8b90b7e94240945b925bb5ebeeedad236bba750]
+│   ├── appder-k.doc [f25cc74e3df4ad810c1edf68b45096b5375782e5ae63b488449af8a988da852f]
+│   ├── appder-k.dot [3c7333cb6fc2957598e84cb7d8af3fe6dc8c1105f694fb70b984febfd158f118]
 ├── l
-│   ├── appd-l_1.doc.zip [10ba33c2448d515a10f389bf74e450cbe5de9d58a714331d8959fc38282541e5]
-│   ├── appd-l_5.dot.zip [318e63ef6f5b770c2a35722f457b4dac5b891f0a50e4901fa946f0161287dce9]
-│   ├── appder-l.doc.zip [f3d634ab6275fe0a192d8d052a1e032f196169c37562110458ed1076404884ac]
-│   └── appder-l.dot.zip [e07abeb79391caf0c1e6b4cd62ecef3141c91f51a882dc47e6667d996f73cbf1]
+│   ├── appd-l_1.doc [ee57414924aee9f62fc0648e1e080c0c949759095ee97cd4a2646ced085d0d07]
+│   ├── appd-l_5.dot [c07a87521581a6ac27794df6d440bcf383e0a43dd945f6fa7766527487d47fbc]
+│   ├── appder-l.doc [5726eb91b1da8b5c0d0a7340392f352e90003940e4f7c1335208f16464204802]
+│   ├── appder-l.dot [7b928f4cb9f98b685b00a431e56bcd60f6d3e4f5bf1b06f4cfaf578d1498dba1]
 ├── m
-│   ├── appd-k_1.doc.zip [fbc8c1786e18a05816b236fb4b70074f8ca6ebcfaef9c9d69084a3740a7ee880]
-│   └── appd-k_5.dot.zip [0f5b2f234b4bde3372df5b8032ae66f9fad2d3175369725e686fd94814d37bf8]
+│   ├── appd-k_1.doc [f3775d0cb5f7cfde2f50c35ea9f762b83845f9dd78ec01946d65919a3912c992]
+│   ├── appd-k_5.dot [2e8ac62df7953b2e11fb1d2b822755922977e848ffef30c0bedb492b094f95ef]
 ├── n
-│   ├── appd-n_1.doc.zip [2f44e322fb44f2da54d26214e720e46686597218a6f84e95d77decfff58400f2]
-│   └── appd-n_5.dot.zip [dbb666bbe98190c5732f002098743b3391f30412595dbab5b8e3f8713405b0fe]
+│   ├── appd-n_1.doc [0742bfada98aaa6bc61b5d4c5589057d86e321fda9a83188e68ae2efbb45a91c]
+│   ├── appd-n_5.dot [96390ec4db8b37ca57a2fd51c5ce7a266902191e5f814979d64f1a2c8bf997e8]
 ├── o
-│   ├── appd-o_1.doc.zip [4673344a0a5639f0a42d5d28ca52fc725ebe5f5c76178defdf988d6324318f36]
-│   └── appd-o_5.dot.zip [775760be89a95365a82a0f6b33db74610babb88359790c8c38f973ce916cd19e]
+│   ├── appd-o_1.doc [409824762f42e227de9f1c94549f5d7b3bd08e70808c342963c57b21304cd098]
+│   ├── appd-o_5.dot [16625df4637b2e42ad3c190efec521257eda71ce6228094343952cbea9f903fc]
 └── z
-    └── virus.msword.appder.y.zip [dc4067dbca2c3c2ac663397f7e49301713cfa5d1a0b943a9bc9aaa9325478209]
+    ├── virus.msword.appder.y [1829fcf8f0a5c193cdfacd6968fefba560f5fbeb1b10501e3d8881935b01ba2a]
 ```

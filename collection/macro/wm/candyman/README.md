@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.candyman.a.zip [73a5c1b4ab5b80a4cd942790bb28698dcf0fa06ce0a7e2e6dde495ac7ca51c68]
+│   ├── virus.msword.candyman.a [d9eb77ba17ab5c885ed11d20ced6e941453ee311697b0876fc357e6659e99288]
 └── b
-    └── virus.msword.candyman.b.zip [0c23c4049e637880fdb54bf5aed86fda4c0c401eb2a45dd70bb23a9c3783c324]
+    ├── virus.msword.candyman.b [a9381d250debe791ac3da52af6b1590d7ea1517d6a08fe53a77ed757dea896dc]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.godzilla.a.zip [95b5becdfe2cca2bc3567fbe4ea260b189293569bc239c4ba41687c5df779d53]
+    ├── virus.msword.godzilla.a [a5e4b2ec03aa4e01c476e8915bc751e633071810b51d36e4d07961bb410aabd7]
 ```

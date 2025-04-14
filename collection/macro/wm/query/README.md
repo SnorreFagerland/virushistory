@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.query.a.zip [b87c3c361c8bf676082082cd437933c64311909c91fd9284694145308f88a87e]
+│   ├── virus.msword.query.a [f560c25c009d59dfc94377a5f668e3a1262c2da2934e74d040e63254e5e39377]
 ├── b
-│   └── virus.msword.cba.zip [af65f50791b614f951fed813714e76db61ed6fd158ae7446bf699794c50ea384]
+│   ├── virus.msword.cba [06f7362d4174979ea6b5fa884b2cc46ebaf5383814e681e6252fc161ba8011bd]
 └── c
-    └── virus.msword.query.c.zip [52ee557352c852e5fea0b341b786f3fec48149133f281ad89a357ccda97d205f]
+    ├── virus.msword.query.c [4b7e70acb8904afad419c878997d82433f26a017462dbdd736adca7fcc4de760]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.lupita.zip [ca9438b4c8198626b44bcf95dfe5cec28b69ab4b11c1561fcc496d49d0f306bf]
+    ├── virus.msword.lupita [bc88bca65961aa75393c7791ef96e81b7d1d1e68978ab4ba0fa41b392dd58d42]
 ```

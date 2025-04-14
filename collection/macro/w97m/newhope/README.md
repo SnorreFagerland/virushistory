@@ -3,18 +3,18 @@
 
 ```
 ├── c
-│   ├── newhope_-001.do.zip [df9571b67c13f3af354842369937f2a95a650135355abbf59a6f99d20e702031]
-│   └── newhope_.do.zip [a3dd37617d262df776129e1df324ff359358c77830d80689dbbca5f758b62daf]
+│   ├── newhope_-001.do [a44302dd1979d85e48153f351c728eec00f834f4f61b58c88414e5b1afa57544]
+│   ├── newhope_.do [306adc2c39ed5dfbe8acecfd47361abb6d9d53fec45ef472f87c8c31eedd913a]
 ├── d
-│   └── virus.msword.newhope.d.zip [5dd4d26ee29ecb9fd293c9784ab10b687fe1f5b74d614f70f78920730781f060]
+│   ├── virus.msword.newhope.d [25dfb74b422360d9d4753abaed55c9631e7445615c9d0dee8c5c26d24fef6762]
 ├── e
-│   └── newhope_.do.zip [c6f2d1306786355dcd1d0af1c64e3fbd78634c2ebb553d2b0f6d543c407fa303]
+│   ├── newhope_.do [a96eb8d0dafaa8a31209c99929101fd04a79f129d04ec3edb77be6f07ade4df8]
 ├── f
-│   └── virus.msword.newhope.f.zip [270fd4ab88ccdd512328d35dfc28de0bbf5826f54b60e2ed2ab750de74428425]
+│   ├── virus.msword.newhope.f [bf385ab1ea4cf57ac3e37ce3d7bb4c0bc34dbf3f2b367a95c33e26dbc97d8f65]
 ├── g
-│   └── virus.msword.newhope.zip [42ea8ef72f358c238a2965ba641623427cfeea79086756d129e8da81f173f58a]
+│   ├── virus.msword.newhope [b9856995678ee5cf60f1226cf5c4137fcc84928de45e8fc6d979c672bae979dc]
 ├── h
-│   └── virus.msword.newhope.b.zip [4961a7a4aaaa1ad8c336f91c44c3ce79629663cb3123241ce60e077b96139924]
+│   ├── virus.msword.newhope.b [b7cc07f0914d602857585b7cc033e5fcb02231b4d018440fdfccbeee4f5e9db0]
 └── i
-    └── virus.msword.newhope.i.zip [43ff0547b2da7a4f57ffc1b3043acef926528f7b87b98a3fbbec7a2e1897978b]
+    ├── virus.msword.newhope.i [b24b7e63790ec9456ab29cd8b18df8cb4500d3a5e273bc9779cccb117e5b7bf7]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.setupexe.zip [346632ea06c32c37b16ee3f89ce9d63ce8244906779b894a08aceb664e47e16a]
+    ├── trojan.bat.setupexe [7888318ccbcf062b36bdf4545147c2fdfdfaeb426b8908a3016a0ef4d0b9cfb7]
 ```

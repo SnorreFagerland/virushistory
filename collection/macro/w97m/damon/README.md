@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.damon.zip [4d4e6f0d70bb39f1adc99fd41abbe88cf9ee432582f7f21a745d2ba0bc610ea2]
+│   ├── virus.msword.damon [314d490b0a3e688d72bc6f9f6415c8e78d7ea534f163188ab6b9e52a70f0265a]
 └── b
-    └── virus.msword.damon.b.zip [618efab172c0cb570c77d7d77e35079ed2ddc6d89bf18a480c9753b35c1bf20a]
+    ├── virus.msword.damon.b [94e635b1809ea55211d5f111ebb8410432174fa8d91254b3af3f6de395ddde6f]
 ```

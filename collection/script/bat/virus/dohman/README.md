@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.dohman.zip [404f17f14b2eb0ee5410460724d944c136b8860d59fc7db1ff03d6e6c2a9a3a8]
+    ├── virus.bat.dohman [3df463064a53e9f440e47f44ae06ef00fe741b5c4b4b84bbafaacce9f949bbfd]
 ```

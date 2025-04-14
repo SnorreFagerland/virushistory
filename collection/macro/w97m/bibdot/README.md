@@ -3,9 +3,9 @@
 
 ```
 ├── b
-│   ├── bibdot_b-001.do.zip [df1092bbdf6f6cfcc74d991cab58953bd0cfa8c6f75395233a89eade83c1c6a9]
-│   ├── bibdot_b-002.do.zip [ce22d8afee1a1e37ba3bcf2ef3775b59a620546fbfb2a36072ad1e4e99c9eaa6]
-│   └── bibdot_b.do.zip [556d863bbe8fb4507c7db89c441e15ff9579dca4cae13ce80dd58cd4cef5fe84]
+│   ├── bibdot_b-001.do [dfe22a8a1911fd97d03b5d290721e36e43d3cf6ba08cda00cce33524cf6d3450]
+│   ├── bibdot_b-002.do [c73e4ff9f34e280a410c5b5887ec88b992f44e223e2f56a41666d4ce2d0c2412]
+│   ├── bibdot_b.do [79b13528464e37ebf6fc1a9130d4837bda50ff1f4c9585bf7c2e2ccfacc15b14]
 └── c
-    └── virus.msword.bibdot.c.zip [0298bf021c0fa8de580a7a877c9b9c3ad63df1292002aafe9e5c361cfe65b5f5]
+    ├── virus.msword.bibdot.c [ca2f61eda1487c18ce38ddaaff64b9f838d4510931b4d319dd03a76051467b7d]
 ```

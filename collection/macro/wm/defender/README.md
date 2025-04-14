@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   ├── defender.doc.zip [e93785b68459312d2685cefc97ce259f7c37447749d36d4dd4e7b293d599d43b]
-│   └── defender.dot.zip [5a6deefec9355db2dab1e969e379aa1d6b9ef4db23573939630ca20f9e425eb8]
+│   ├── defender.doc [9781d587c5452e5af5cd8911e68c6e32bad914485c4f120e6ccf0e29c88789ec]
+│   ├── defender.dot [ad2b99a68b8d4200af9b4998e8b40f3c520cfd73c5449e25c1fdb6fda3228d2a]
 └── b
-    └── virus.msword.defender.zip [e4812245cd097e14931faaf1ab6634c1a9507d8f77dce50c9331f625dc535079]
+    ├── virus.msword.defender [ae8654f74ca374ea88461ad7ecd53627807b83fa6ea99c974de837d7a1d62720]
 ```

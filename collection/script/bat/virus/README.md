@@ -4,759 +4,759 @@
 ```
 ├── abm
 │   ├── a
-│   │   └── virus.bat.abm.txt.zip [8a4fb4d262a1370c4d56b0bab671b9d518547cf4baffe5c7c92cfe52f3558a6b]
+│   │   ├── virus.bat.abm.txt [397afb99108f279ff0209df53a8a164057b321d4cab72639784c4cb0f8c9c9f6]
 │   └── b
-│       └── virtool.dos.abm.13.zip [11ba27a4cccbe3aed4780aecc084b2adf0b87c4dd4464ed007ef3eea20b05105]
+│       ├── virtool.dos.abm.13 [23b09c48d8087965b16184e56e1308bda0bc45960fbfc1434f79492d10968252]
 ├── aduh
 │   ├── a
-│   │   └── aduh1.vat.zip [a0af26665d10c7a6fb43e950c670d876d3e82ac5548e7314c15c15a111be195a]
+│   │   ├── aduh1.vat [aaf7d0669f286cf0f18b82801192457dba89a74bdb9d96149db748df15fc5b4c]
 │   └── b
-│       └── aduh2.vat.zip [ff46dc8d9c6e6e6bbd7da4319453c70041b89eca6ef6c804ecde32a58773807b]
+│       ├── aduh2.vat [8c311bf6ed51a9f4c54d25aa63aceb2e67d310da1cc5b2aa2258586ccc0bda66]
 ├── afint
 │   └── a
-│       └── email-worm.vbs.jerm.c.txt.zip [6f6c01f951041bf94c427d54840e3334b510845b7d7d533839e18b89924440c2]
+│       ├── email-worm.vbs.jerm.c.txt [c19e599c4d3c6a52725efd95becfda70ab1d8f2d2b08ce8e9f6d7b03c25705c5]
 ├── ahoj
 │   └── a
-│       └── virus.bat.ahoj.1284.zip [fd678d5e66f24836882313616c66f496fc8aa3d56613ad907f034f1cc8223383]
+│       ├── virus.bat.ahoj.1284 [33c5e0d3776d1a848f942311687966fd9781d89b9ffd75c7750e880d73799c37]
 ├── alcaul
 │   ├── a
-│   │   └── aguilerab.vat.zip [5e0f45c5397be886826bec902fa80c528312c13e26ec06f74d678b0cf06d7cae]
+│   │   ├── aguilerab.vat [1ebbfeb6f35fbfe7796bc525cbad6fe824ec4e1a156a6c33b599e74411957cd2]
 │   └── b
-│       └── email-worm.bat.alcobul.b.txt.zip [fef3635e2870cd2556393ca5d57154749a4032b3b8c9038004b63d37d9aa9dcc]
+│       ├── email-worm.bat.alcobul.b.txt [00266ae7d219c2797bf8010eaebd5e3bde52e11cdb5b59a22abc035aecf6ca5b]
 ├── alek
 │   └── a
-│       └── virus.bat.alek.zip [45de23302a03eac9c3282abc33431048e0e6f486ba2b5545e134f39acde9aded]
+│       ├── virus.bat.alek [ae33ab6afa7d0579a705cd58ff0fd7557ecfbcbff674a7237d1855a736a4bf94]
 ├── allthebat
 │   └── a
-│       └── virus.bat.copytoc.a.zip [a19b7f07c1edac5e7d5f3846808a0a231cbdfe379f2b901db61c700d9e245534]
+│       ├── virus.bat.copytoc.a [3155443a8942a15dcc4fabd0adccdacd2058fabda2ff71191e44fbe463950a62]
 ├── along
 │   └── a
-│       └── email-worm.win32.hopalon.b.zip [6fb5a3c42173cb2416a9a88d7812477a4ffbde07351460dfe30bcedd9fe00ac8]
+│       ├── email-worm.win32.hopalon.b [0f7c927fcfed78e4d01ced43534e1417669d1816ee793e62e7726c59e4069054]
 ├── alpha
 │   └── a
-│       └── virus.bas.alpha.zip [533c3d4563d7acb14c9268231360558d87082b632079d1f23d0bf67b5dd4e78a]
+│       ├── virus.bas.alpha [ccbc25c208fa2547f49bacaaef206fc23c8df2bffb668890a51f04d35216e1a9]
 ├── antifa
 │   └── a
-│       └── email-worm.vbs.cuerpo.txt.zip [db0c96a5caf59ab64a8f398d1f1ce29962cd4a2114f8cbc36cc9ba5f686d5b6e]
+│       ├── email-worm.vbs.cuerpo.txt [948c730a1b55865b2631882731dbcfa7b9d64e17ed428d1a4b224f00b00ee43e]
 ├── antinap
 │   └── a
-│       └── email-worm.vbs.chapo.zip [862f5187ad8e26ecefa4e76ea8f5cb942c5163333e4e17a7c2d4fc526912ef58]
+│       ├── email-worm.vbs.chapo [0029d36f493083e8edf7f8e9e28f6707f5e9ff0b4f60034a757bc7a350261773]
 ├── apm
 │   └── a
-│       └── virus.bat.ibbm.agm.zip [bee07d1f01496d96e9f8f8d92944b9c403306d4f7b674555221d53ab86849b47]
+│       ├── virus.bat.ibbm.agm [79df2b562c1637e2856f3c9140d3d92dea22ff0d5e40d4cd2989e6d4b11b6071]
 ├── archiworm
 │   ├── a
-│   │   └── virus.bat.arhiworm.555.zip [cbb5aafeaba992abb93e0a89699458a4e2731059eca32c5446392d3b192ab94a]
+│   │   ├── virus.bat.arhiworm.555 [84908e543e4f31588c8cda243ac653b3756682fb8e255d0ab63ccc454a01ef3e]
 │   ├── b
-│   │   └── virus.bat.archiworm.d.zip [278f836551c004d0eea719d3f63e6cf1f7f276d0116e5c01475d442aabf84f22]
+│   │   ├── virus.bat.archiworm.d [4fbdb97a051331ab1fc8ad1dd9f472931b9153c4c998b2313b2c55e220bd4bfe]
 │   ├── c
-│   │   └── virus.bat.arhiworm.547.zip [6171b5b39d7deaad41b4bb8eb164a27c2d2afa6f292f38c2f5ec582da85a50f7]
+│   │   ├── virus.bat.arhiworm.547 [00e61835f9213e9d14a457f717057c318717b386f452a1c0f8e5210b0b53b974]
 │   ├── d
-│   │   └── virus.bat.arhiworm.590.zip [ebdbeadf437d4c4d3f8f57c42911916fb48fa9a04c98e8f338696a161dff410b]
+│   │   ├── virus.bat.arhiworm.590 [ce6385d49916e9db33779bb26a10afeed8934d5154922e378000472b9f0d1148]
 │   ├── e
-│   │   └── bat.khorp.289.zip [afbbc65fab606460587f1739c03e14b04578f707adb1064de9fd90b4f9ef2045]
+│   │   ├── bat.khorp.289 [f4f446d050b68e2471c2b1dfc550adeae25ff5d7df8bcb0b753103b59ac0c56b]
 │   └── f
-│       └── bat.archiworm.e.zip [54e30d6dfafa6891209e989121cae7a727a27d27cc7cf94a3ac2538890a6ba37]
+│       ├── bat.archiworm.e [0ee8db286bd5c948761dcf47ee8cf9e21ea185fe8bfe22429523be0e39c9a6b9]
 ├── argon
 │   └── a
-│       └── bat.argon.217.zip [3c2682169dad6ec4ae8be016e3045c84552e9c9c445ee5ffc20b5eaa61f19101]
+│       ├── bat.argon.217 [63df1f07fcc051562b00f70792c8f2a642be156a6b7127b3280199303fdf0005]
 ├── aricaworm
 │   └── a
-│       └── email-worm.bat.arica.txt.zip [c3d1728b740ae3b8174a1ee52d38c40b2aa40cfd58651040c0b592fc418f6478]
+│       ├── email-worm.bat.arica.txt [3e1faa4ac4e955818d9f3fabd6cb9b1139ee53c04c36300180ffd9d8e1bd6604]
 ├── asscom
 │   └── b
-│       └── part-b06.htm.zip [28bb11b3b671c0f70f8fd08b01535bb441e132570cbd65106f6d4eba0112b0a4]
+│       ├── part-b06.htm [40cf54f74f9a0846040741e8952cc2f255c8068a94cdd715b349dfc4b6281b56]
 ├── ataris
 │   ├── a
-│   │   └── virus.bat.ibbm.ataris.a.zip [025566d3de1ce35d7418f8c03871cfc4bcf5975ec6f097a0990a9a8e1f12f111]
+│   │   ├── virus.bat.ibbm.ataris.a [fad81b709e117d8de7300d2eeeea29ae88b222ca56c8d92f29bd1ebb33457c79]
 │   ├── b
-│   │   └── virus.bat.ibbm.ataris.b.zip [240a7466b997e47f440a2c66281e117f13bd6dc32b2e601c5cf32672e481c819]
+│   │   ├── virus.bat.ibbm.ataris.b [daf843a85ab1d098c5e0bfdbd78930c41ac0e17e3aec4c355db6cced596839bb]
 │   ├── c
-│   │   └── virus.bat.ibbm.ataris.c.zip [81461992915e0f6baf2b3ce0c92d27cf8536540f03769559ecc8441042f0672f]
+│   │   ├── virus.bat.ibbm.ataris.c [15a49c61fb53e48f2071a08ebfc393ccaad748308b5039e7b41c77880a7c19a9]
 │   ├── d
-│   │   └── virus.bat.ibbm.ataris.d.zip [7d75f18652e9c5bfc31dc387848916324a05d95611cc93aebb910fd5877a46cd]
+│   │   ├── virus.bat.ibbm.ataris.d [4807f139e79ca915e876664d70e9d1c3418d12e4e85467694de6f3c6c5225ace]
 │   ├── e
-│   │   └── virus.bat.ibbm.ataris.e.zip [56d646e77ad3713c0ff6ac9f3afd699ff16bcc2f0e3ff3d388d0b27ca02450f4]
+│   │   ├── virus.bat.ibbm.ataris.e [ff0065f4fc2631897de5cad7fc58804171ec5b285107cd65504e7a132d3b2a88]
 │   ├── f
-│   │   └── virus.bat.ibbm.ataris.f.zip [8a691767cbe385643123c320aaabe6cea4c7be02e4a710c44903fa83430322d4]
+│   │   ├── virus.bat.ibbm.ataris.f [7534729d838a361f57ed3d7ac4f0672226ac4d2f37c69d24fca4d3587928babc]
 │   └── g
-│       └── virus.bat.ataris.963.zip [2a01316e59ba05978d2108eb4b6fb3f2d4c6e1edddcfdce244d15013d2f3cdb9]
+│       ├── virus.bat.ataris.963 [a9e2abfd22034b907556753f70ef902c2e54d1a93ecf9247b2cf45313536ba43]
 ├── atarj
 │   └── a
-│       └── virus.bat.first.zip [7d60c99b2c55af19adb9c654d358170b56d3b16eb7a75338b35431d2c929a9cf]
+│       ├── virus.bat.first [3c2b6737b7f440452d597d44ebe6b2cd64fb2a09a2c94f8bdccb10b10ed19bc9]
 ├── bandit
 │   └── c
-│       └── virus.bat.bandit.zip [4a72a317e6922afdea942d642c7c46b29248689d23f3bf053c1ae2a30ddfa335]
+│       ├── virus.bat.bandit [25cb9bef3b00d5c4859c45c1797b389f7ae550c65dc10c2f451ed9f638bbbad9]
 ├── baster
 │   └── a
-│       └── virus.bat.baster.zip [1e4037bb74b56cede555c03ca591650364360c4ec0551fc12e6d542f662c6c8d]
+│       ├── virus.bat.baster [57fb1ee7b45c1df497c848f6bd01cb469c8add1df522647d092de89c6bbba19a]
 ├── basvir
 │   └── a
-│       ├── basvir.vat.zip [eb6d11e6245e25ea1805562798a8a54d341dabc81fd29b0930fec06ff836e638]
-│       └── trojan.bat.basvir.txt.zip [6375450eccdf07be62951ffedd70dfba506c0abeab8f85c7d03555b3c0766893]
+│       ├── basvir.vat [0a4881e55644b17e549a9c383f147c1760efe9accb179fa31bf6e95550a50fb1]
+│       ├── trojan.bat.basvir.txt [eefd6dfbd682b689ab71a4d73a4651cf6bdfc33847ac56170a198324a8e74684]
 ├── bat
 │   └── 301
-│       └── virus.bat.301.zip [918e524efc6253d998daa2df88608a026e2afafdf951d8601d7c20a0a3bf70f9]
+│       ├── virus.bat.301 [7d6b927890c2426b73027b62e3af8f6bb43859f6b8285aaee1c177a7d16b2b69]
 ├── bat300
-│   └── virus.bat.300.zip [f3be7925628b486a0718cfad602a84712613e3d0d9d51b896c3af13acb730999]
+│   ├── virus.bat.300 [7f39dca5440c10d68346b5f4d264597d1f0131a398e8b1ae5fde1dddc920c7e0]
 ├── bat84
 │   └── a
-│       └── virus.bat.silly.y.zip [90a9925c5e9290f4774d420266a989676306f558299304e3506b58336ce90e89]
+│       ├── virus.bat.silly.y [e968b08229f9ca4f37a6984fe75a1eebacceac127d594f6ec1fd3b2607a70218]
 ├── bat91
 │   └── a
-│       └── bat.silly.ar.zip [5227de9ce9b1bba22fdf262d193ba3fd68a474cf123cab0e65205e25df3e43f2]
+│       ├── bat.silly.ar [d3716c45e7688e060bdab870485f41c2e69849503f3c5847cbf63e4bf00e0cad]
 ├── batal
 │   └── b
-│       └── bat.batalia5.b.zip [4ef7315747ea668afa130a8769add97c1f61076fae742d8b1299ac5c1d2097ff]
+│       ├── bat.batalia5.b [4190b39718525ec571d668dbb30c71042108a5f9ef98836fb718af5fc499cc18]
 ├── batalia
 │   ├── d
-│   │   └── bat.batalia3.b.zip [43c4041141a2ae5d37d71abe04d98c85569c7533807a3825fc3cc7766ec89aee]
+│   │   ├── bat.batalia3.b [5bf88821a76ac12afc9e4b465e81c0171c77043696b7825b07d615e4439ae99a]
 │   └── g
-│       └── 521.vat.zip [452bf7fb74f899616889c9908d41bb433ee397e75f219d4e8f03252497e20953]
+│       ├── 521.vat [7edfb1c617ba3636d5263dc3ed1b2317ec31597304aa53f97f54e2121df145a5]
 ├── batalia1
-│   └── 840.vat.zip [dd8eae9a60ade53fbc8b1cd056dbe930408552dc5a08024f888d94556279437c]
+│   ├── 840.vat [c500e439fce61d753895ec949c0e28f7fbe57362e0b86161e1c52445fb10e609]
 ├── batalia2
 │   └── b
-│       ├── virus.bat.batalia2.b.txt.zip [8f30d0f116a4039814fc48ff8c4fe9c05b26017e3b4e291674f68e6cd115337d]
-│       ├── virus.bat.batalia2.b.zip [798e119c019cf5535296c9a224ebf70847a1604a58f571932fff49d49e008354]
-│       ├── virus.bat.batalia2.zip [ce071a51f3d2d6ac32c469b91dc7e8aff44476229a579ab3f3b9e5191ac7fe3a]
-│       └── virus.bat.batalia2e.txt.zip [d2e40ccbc9a3cd871f62ec9a3cd9baa57d67cb87e2912e9dd46dfb6295fd4238]
+│       ├── virus.bat.batalia2 [ce19580e27a9fdcc06408b77626f13352cae8f95ecc6f56df48a40a423524eb3]
+│       ├── virus.bat.batalia2.b [a2556e0ae7152ac4ccccc5c1ba139d03f03b5a8e64ebe696f00dfe6411b1785c]
+│       ├── virus.bat.batalia2.b.txt [9d41534fba4a329fe6b4624571f11ce60bd7ce39c3adf29d492858815cdf692c]
+│       ├── virus.bat.batalia2e.txt [f1d0ed94bb172f15ecc70dd6b70033f44a8843b2545c8412cd856b5f66187cc0]
 ├── batalia3
-│   ├── bat.vat.zip [880178e3444ff8a5b6a3bf33fec61d214499870758c7a7d5a73c2584cb48d789]
+│   ├── bat.vat [96975dbb02aa76e35f2a941f7b7c2ebb69ba402ba49f11a9b5b14382d616bf21]
 │   └── c
-│       └── bat.batalia3.c.zip [231d18d78f5a409f58a0b9713adfeea8173a63d5434ed0c5cc87e3a42ffb8291]
+│       ├── bat.batalia3.c [85d2c391510c04673477fc30aed5ecfdcfb6504e0afa23613caf712a616c316e]
 ├── batalia4
 │   ├── c
-│   │   └── virus.bat.batalia4.zip [aabd3e2fa766fd01f762fd1a97fe3a0b43753080b9a1b567df072bf80df55b38]
+│   │   ├── virus.bat.batalia4 [8284c39b3928d4c82b25063e3d442e962f7b13d3f555c6ec20bbe4000f69c7bc]
 │   └── d
-│       ├── 460.vat.zip [8566d2e6b224c10ced1587d0c0157d054755503338c7ee35b464632204ffe166]
-│       ├── 491-493.vat.zip [8e91e1fbf5cb470bef209f401c1b414e22964ca9ac831867b5cf79e62c5ccd46]
-│       └── bat.batalia2.460.zip [bf47ead7bc49073bc69357bbfd639044c02b7a47c90d53e4cf26a784c473cf2a]
+│       ├── 460.vat [15efa73905498b23211c5c5e2cfcd6482631e138959daee6679360259ac0820d]
+│       ├── 491-493.vat [6e3e2d33f72f4e7371837de74568e51a03b7f2dbee40b960998b168cfb58432d]
+│       ├── bat.batalia2.460 [e1e2f3083d99a407456e72121a192bf9dcd3d01d17ca64b23ec598584e7251e1]
 ├── batalia5
 │   ├── a
-│   │   └── virus.bat.sg.zip [c1175de49331aa3c84923bf47e8a6ef377e31f154a555657e94ecb2a87abf998]
+│   │   ├── virus.bat.sg [dcf81e95280a236aad885b387338ee5b88709dc81e64491e1f534d299ce99392]
 │   ├── b
-│   │   ├── virus.bat.batalia4.b.zip [d68f99fab84b96ed24ea6aa934b3c50ab90e2a2024121cda0e6f121679e3831c]
-│   │   └── virus.bat.batalia4.c.zip [193080c30a3afeceae7c22e123937fafbbca980d6189383f7ac4a8dce8df2cf8]
+│   │   ├── virus.bat.batalia4.b [269344d7c16b40ca9d0c7dc0c13ad6b773c28f9a501faa262c32bb5bf01ab934]
+│   │   ├── virus.bat.batalia4.c [e2eb4e09681431621b9f2cd289373f5459587367236dd39e16a7f260a35f537a]
 │   └── c
-│       └── virus.bat.batalia5.b.zip [fcd5e7e3c01b6a56561e90fb40de6650d62b0f13dcda96cada57dbebb2e516d1]
+│       ├── virus.bat.batalia5.b [742d564829782b5bfa8b80f9781215130ac51ba2add200334c68f53d298a3036]
 ├── batalia7
-│   └── virus.bat.batalia7.434.zip [18e012e66cce2c6b4842dd793afbc8dde62cf52f8ab1b0c45589fac35cf10dd3]
+│   ├── virus.bat.batalia7.434 [f3243598df5662870589b00120920ebc0ecf9cd42234d6680179d18b398b29c7]
 ├── batix
 │   ├── a
-│   │   └── bat.batix.zip [3d087b34a8072220a5caecd0b80cb431e7f0340524e589e7ec863f9a3c7a3ae3]
+│   │   ├── bat.batix [da848882b9978cfb3221d838c58755b965aeef60ece0619a3e713cb95834ea83]
 │   ├── b
-│   │   └── bat.dvquest.a.zip [535a552ebaf5d9af335af7a1881e8006cc931b9b525f7c86aefa447b1facd699]
+│   │   ├── bat.dvquest.a [a14a601eba6259995b5aa0f6d033df29245c73ffbba0fc5664977ef226b1e084]
 │   └── c
-│       └── virus.bat.dvquest.c.zip [6f4879a70b7db296593a95edc02124c95ae9c88266544051da203b5bc185cf63]
+│       ├── virus.bat.dvquest.c [06bf9f3f5e9fe0e2b4d2fa8b1de86dbbd272a47ef782d15ae22f81bed7de5ac8]
 ├── batman
 │   ├── a
-│   │   └── 186.vat.zip [449076c8115f349f722b34fd620a18ec538f8fcb1c18a4d0350a268c1fc8301d]
+│   │   ├── 186.vat [2a15078b5efad33e0557af0729eeb6ff66f0ea72972b9a35a22c3a3f1d6e5a67]
 │   └── b
-│       └── bat.batman.b.zip [bd94427e370e4e9434c547e2e0035a9f483a6a8c087208e14d915d14344d0df5]
+│       ├── bat.batman.b [6d985ff3b26cc55d65d6a4db2b2bf01dad09e6dfff7ede5def45439a5dddae67]
 ├── batoff
 │   └── a
-│       └── virus.bat.vat.zip [cdd015be49fe9a7c4cb40db115c691ae56778a5f5df2ca2661f6cd78e6010f84]
+│       ├── virus.bat.vat [6373f514324ffd70b31f3b2fb62a1016d395d130157b8a8cc14519f7eac0ad33]
 ├── baton
 │   ├── b
-│   │   └── bat.batonlee.659.zip [632fca83aa9f805695180151097a38c3c814c4fe91a613ed1e46321be5ca9ee6]
+│   │   ├── bat.batonlee.659 [858ad3745e9975b6307f6f18ac5be247b95648e6ec100e542cd8f5ac0e5a0186]
 │   ├── c
-│   │   ├── bat.baton.a.zip [14b3527f7a7fa5cc7ff4cf835d5f0d33f6c6458fe18ba85e98f9e6d319bafc07]
-│   │   └── bat.vat.zip [e98fa47eea8e77dbb0679945ba3359c30e1a1650ce99ad8e53111eea3b895df8]
+│   │   ├── bat.baton.a [ac9b48e7cbb4210c53bc3f59bba7dcac292a577b19452a25e6dc1bccbed6b859]
+│   │   ├── bat.vat [a128a3b5ec05a63cbb5722bb3b05b11594c7c639d67d8e2b42285ec720da0dfe]
 │   └── d
-│       ├── bat.baton.b.zip [902979d683f42f5fab7cd169722c9c4406ef70bc8ecefb73171b14e5196e604c]
-│       └── bat.silly.at.zip [5749f09b2cba549620bbf3acbfa08412f2ff37e9ed82977f7580c5440c61ca79]
+│       ├── bat.baton.b [686f2db372dbc7664bcde1653dda4d0bc2aac94aa0c3abc538be456e67b4c39d]
+│       ├── bat.silly.at [68f543aecc8d71da516d5c6987a34d4e9f865a4831b7d33b1421a28a682e516b]
 ├── battler
 │   └── a
-│       └── virus.bat.battler.zip [b6b98ea17bec5e0aa56b69e190ec3bb290e5b9529dbf518bce010155e63b62c6]
+│       ├── virus.bat.battler [ba6651c033923e05f461821d51670ccb38af201a8202463836dfa3709504a9ed]
 ├── battona
 │   ├── a
-│   │   └── virus.bat.battona.zip [263bf2782d9e03ad8a0efd75bd0e257e8c859bc985d7598a9abd8493d1c4090d]
+│   │   ├── virus.bat.battona [1f61fd8e64a76516ee8d11c3ec77aad475f5ed6ed41f5ef15bf53859b7131d57]
 │   └── b
-│       └── virus.bat.mtito.zip [f762db60284da88b2ab33511b9d007d94ccf55bfc7bc925d9dd0715f59486333]
+│       ├── virus.bat.mtito [984cd3d2a30669b41d1cc5cebfe546733125aaa10a8681aae81f4992da58147a]
 ├── battus
 │   └── a
-│       └── virus.bat.tus.1680.zip [7898e7003a752f6c5f9cbf90afeeda86c92683aafd79bc49c8719247a5713251]
+│       ├── virus.bat.tus.1680 [f0c238aa86b9b7932cb86bceb4f5fc32fb6bd857411c31a1f5192dd13718cd97]
 ├── batwin
 │   └── a
-│       └── email-worm.bat.batwin.txt.zip [e0b37f7016aff31da34ac3a409ceadbac7f24ccf76e9bfda1c966bfab53534eb]
+│       ├── email-worm.bat.batwin.txt [71acffeb4348cdf230e9f8ce7f2a44e646a44a33111975a40506ff1a665a673b]
 ├── batzback
 │   └── a
-│       └── virus.bat.batzback.zip [6dfe653f8fc505a7fe41f184744e737a3c84de021952d4d936613c36d7220b8d]
+│       ├── virus.bat.batzback [5d13d72b2196e93a16e6525fb9e249a913e2049cb8c8fc5e0ea2ddea360886d3]
 ├── bclone
 │   └── a
-│       └── trojan.bat.caloner.a.zip [c606e9fe3a46e4063e302028e0c2492bfa00d15093d4235c426ab011c6be5f1f]
+│       ├── trojan.bat.caloner.a [884584e86ee88a0cb4348532508a07e6435f58b3a6471e194bb3d1ffae21469c]
 ├── bcom
 │   ├── 154
-│   │   └── combat.154.zip [491cf930d7df99fef3f0a86c6f30598448f5a25a334d16493af97cd3370d449d]
+│   │   ├── combat.154 [e501de9bd645921c46150c228e6f56732a04a5b5d6406924fb381b8d07a3ade3]
 │   └── 156
-│       └── bat.ss.a.zip [b6e957aa40950f1912b187fc3495fdc8cbbb1c7b279422e8b638c4c75cf4eb1c]
+│       ├── bat.ss.a [dd0863aa95d1c9c87f327481b7e6c222919f28afc38f7ab5710b190377181bef]
 ├── beat
 │   └── a
-│       └── bat.beat.zip [2d862c8a2622e992d6b8bfc394dc583f7d7fddbfc70d72ea42fafabf3832c9ea]
+│       ├── bat.beat [92e4f4bab6dc8ba6c87fe5c44c2f4d62a04ddfd91ba1d4f38f363d272e4d0c97]
 ├── becky
 │   ├── a
-│   │   ├── antibecky.vat.zip [2b82c24832e825f1dbda5f5d7223446090d50e7220bfc9f02a6ef6b34a178895]
-│   │   └── irc-worm.bat.txt.zip [25d668e3283695b605caef6bfc96259b6082e2331bfb0006871eb8b5b1e16191]
+│   │   ├── antibecky.vat [59c531c130308192d74866683be3b520d70b1f171986142b23f2ce816d97027d]
+│   │   ├── irc-worm.bat.txt [efa08522ffb9df650cf2b2d7a023b9c67f89fb03196f266fe8ac364ba71e696f]
 │   └── b
-│       └── virus.bat.ibbm.becky.zip [a516529c71ac7bb5a38bd905e2a54da5d6cbb4d203d4da89cc2599be49e6924d]
+│       ├── virus.bat.ibbm.becky [bdd34f0d578d0891f3a7e7767b947f3f0beff90235f9dd3bafc2b0fdbad11945]
 ├── betty
 │   └── a
-│       ├── p2p-worm.bat.betty.txt.zip [b797d0fd74788dfe960b7445c4e05b47c6f321a9f7f42c3623596b7bf007925c]
-│       └── p2p-worm.bat.betty.zip [372a6649b8e918ecd187a805d3b6fd2ec4ad94a24c454db03779a743c74afe0d]
+│       ├── p2p-worm.bat.betty [90dfb9ed0884ee8ecdab2b7cd1403fb88ec9eeb67367f72125e2f89637a45a07]
+│       ├── p2p-worm.bat.betty.txt [ce23dffe76793b836da7bdeec9fb6802534bfea89bf9d36e53d6d4b63fadaa5e]
 ├── beware
 │   ├── b
-│   │   └── virus.bat.beware.c.zip [184c5f4c54dc2ef4995295e7dc54d41f0ad92ed5adb1b33c889add61be82d7c6]
+│   │   ├── virus.bat.beware.c [ce041451458d66a2d5773a61ef0c725d56869a8b61e46fc97480957296c634a8]
 │   ├── c
-│   │   ├── virus.bat.beware.698.zip [5c77e2f9b2249cd10cbacb3b0363acd24e59a29e73847fe995ee6f65d723cfb1]
-│   │   └── virus.bat.beware.b.zip [bffaf6aa0ab242985f247f2d6819e5a0b080d36e8c47d471c55e3edcc0a146bf]
+│   │   ├── virus.bat.beware.698 [6b79d5d97e3a3d140e69c946ae3e680529762401c4aedf134792998bc974b030]
+│   │   ├── virus.bat.beware.b [58dc6be8e220dabe51075cccc48b38734622b0cddacfea61e2f5c656f49a9974]
 │   ├── d
-│   │   ├── virus.bat.beware.d.zip [4cd6a01623f3f6efbee67115baf2dd2ba46c7bb2e988e74bbf226be67da5e8dd]
-│   │   └── virus.wbs.beware.zip [94486ff3baeaaa4854cbe137103a9ce302b2b6430af9b95e7c1f86a5ff60a311]
+│   │   ├── virus.bat.beware.d [81fb070d79a95325987f5842ab6a7030bb708ff2d7dd27fbc67979b44be5c903]
+│   │   ├── virus.wbs.beware [25817d3f9ced3f9019dad64d0f4f11f00aa10443faa666a17fd86484c86b66c7]
 │   └── e
-│       └── virus.wbs.beware.b.zip [a20d669c03b52357c0606b6b52469c8e54a9d5000e544545719e0eab54355545]
+│       ├── virus.wbs.beware.b [fcfbf7c5e1258f3200987cc48dc0889f0917c07631f864075d90a1f4041ae6a8]
 ├── bfv
-│   └── bat.bfv.475.zip [98d43b6bdcfb5e16dd3d4d105477370eac1d78a2e316ab7ad17a67587618a473]
+│   ├── bat.bfv.475 [a756c9954bd830058fed3c67d9791fb09fa04e505beb9a2003f277d5b9894c05]
 ├── bingo
 │   └── b
-│       ├── bingo.1963.vat.zip [a72b6f0a9bc4038b647575d75c67855580851d5e3487fbb5efc599b56b78a82f]
-│       └── virus.bat.bingo.1963.zip [adba3d139afad30c1cd7865b2250e20a4aed5c26c9ddda1c25c717c5eac669af]
+│       ├── bingo.1963.vat [071faeae1d338bb5e3addb55a357ffe1a3abd6b3096ef82b972b9967f4c409b3]
+│       ├── virus.bat.bingo.1963 [d58ccb2f242969caadc232554133c185bfcdb3506ea85eb3601a4c9657664d64]
 ├── biong
 │   └── a
-│       ├── irc-worm.bat.biongat.txt.zip [dd88ded2423b3343791647697774fa47fb793022a176685dea54b6af24fde4c4]
-│       └── irc-worm.bat.biongat.zip [51a09d720b5f3c5e43e76c5d1296ba4363d343c7b4b2956e04dc71534c42e510]
+│       ├── irc-worm.bat.biongat [24c0532a759042c07bc3fbe2c86eb66004eb2c90d06769bf6359c55c49990d7c]
+│       ├── irc-worm.bat.biongat.txt [4141eb1cebf3fc92e90a5db69d407e579f42e68bae463353808c0dce08ef5866]
 ├── black
 │   ├── a
-│   │   └── virus.bat.black.b.zip [0492738119aaece169ff973e3a3e7534f7f1d969f07dc0c79a129c982248fbfb]
+│   │   ├── virus.bat.black.b [48a82b8bb93f9cc8d13e950aa4ea56b2006dfb49dd527a926b92a2fd13dfa488]
 │   ├── b
-│   │   └── virus.bat.black.a.zip [9b68467b9f32cacac24665cfb5743875c30eba4c9340b7c612632b63a4a9d673]
+│   │   ├── virus.bat.black.a [f2d186621e62f1c1f3f1a971bc94ae4c255f827978568f3c5676894dd9d8d8a3]
 │   └── c
-│       └── bat.black.c.zip [e90fec486800e2ce412c805fcb1048a471de14b8e80b443facaba3847e4bab40]
+│       ├── bat.black.c [2552baa389d0c278ebe1c886d50169e0cd5d9cba81e7876fcdad60c6697b1945]
 ├── blb
 │   └── a
-│       └── virus.bat.blb.zip [eec9a55cc47d0e6b0452e33723886c9f59fe1324dd2719cb18a0fafc9450e0d7]
+│       ├── virus.bat.blb [672141310ecd8c34ff90fef0793f9355370c0926f6128875bb259a6252779d03]
 ├── bogger
 │   └── a
-│       └── 679bcc03adec7729bbdd1646720d2e3f998022cb37cc5aa48ee64e146133325b.zip [d8d22712bfd4eb23fc9c2a7c0656eca7d14a2694503bb7db13439b404989b249]
+│       ├── 679bcc03adec7729bbdd1646720d2e3f998022cb37cc5aa48ee64e146133325b
 ├── bolt
 │   └── a
-│       ├── virus.bat.bolt.txt.zip [4c453216c1bbcaf54c021e4d5b795b5c717d0d57a7a5731838d55cab49e90c7f]
-│       └── virus.bat.bolt.zip [c3bb302e3bb0eb3df309f1c800ff620031cedf3f81cbefba8d19393952cb94e2]
+│       ├── virus.bat.bolt [70af94f54197766ff6514c490c3f7dc2d5e92513d55f71301751148c350ccfde]
+│       ├── virus.bat.bolt.txt [e7e79d7914c002d9c8a1b20f0de7c55f546c9b7a1ead6aafe27008a1d98bb034]
 ├── bombas
 │   ├── a
-│   │   └── bat.bombas.zip [d748260bf571ca876288f2ae10e2e0a562125688f009b9fcfe35846fe6dabaef]
+│   │   ├── bat.bombas [85361bef05c101611fbacbfb938caf33549a9a605512df77513323c41a489acc]
 │   ├── b
-│   │   └── trojan.bat.bombas.zip [8ae4a8788158cfb66c39374fbab6e46cf3363e5e8b354384c5cc578dbe00b6e6]
+│   │   ├── trojan.bat.bombas [7257aa6f9e02ee6c24e19ae9832624a79a2b2f8c58c8560966f41582c2140e53]
 │   ├── c
-│   │   └── virus.bat.bombas.1078.zip [12b26f9d4754a9cffaa4d472395e3a9c3eaf8edaade124f0f87eb4f5e0d713e0]
+│   │   ├── virus.bat.bombas.1078 [de2ff37a3addf0dbd71bd01fb8923b2f88cd7d8742d6e1779931c6b5f67e7ac3]
 │   ├── d
-│   │   └── virus.bat.bombas.504.zip [3caba39327ebb443a53b8842f81a362defe54bdb30d73f9666929d44ef6eb0b3]
+│   │   ├── virus.bat.bombas.504 [ee995d3d5fb2b77f12cfee53300419ac8e949b9df8e53c749dbf634c6ed8aa13]
 │   └── e
-│       └── virus.bat.bombas.364.zip [63f760aa3a194115752d811728d59d3951616e34bb8fa5eaf20353c525c5d925]
+│       ├── virus.bat.bombas.364 [23c48f2fb2547a70690f1ff6edecbf94e8473a33f75bb55b32d9de2501779a9a]
 ├── brcompress
 │   └── a
-│       └── virus.bat.br.zip [2a3bcafdd9024749ed2601bc4bf95f719fa3bc743350102779552aef398586ea]
+│       ├── virus.bat.br [818a46651c31f9f3d4d7dc920d9c30951f6851ab97062484b92cd67486f99674]
 ├── btg
 │   └── a
-│       ├── irc-worm.bat.phile.a.zip [63485e9b718a49c1b3caf00f81323caf37f53c8f93ae8f9b0ba9c1a951e9de5a]
-│       └── irc-worm.bat.phile.txt.zip [b053e2e66ac170ff01298c694aafb659bfd46ea9dd2942d60b57d8440c841dcb]
+│       ├── irc-worm.bat.phile.a [1f93580a44b2465e393faa817b3b737c5159708ff6368d665c3fd024c790fd88]
+│       ├── irc-worm.bat.phile.txt [b71065717fdbb04d5cc64ab0c05894fe4f2bd95af8c1d22e254008a53153240d]
 ├── bug
 │   ├── a
-│   │   └── virus.bat.ibbm.bug.a.zip [8e92d48a2907cff538e6614a83611128bb99c10a00e297501f80a85e8e62c5b7]
+│   │   ├── virus.bat.ibbm.bug.a [672f3d0a8bcf5f2913e8bd8e5768468145f2cb748e2e5a5c56459276fda41726]
 │   ├── b
-│   │   └── virus.bat.ibbm.bug.b.zip [7b68e2153203eaae4bf6d5fe39417906507d808bf7687d7404e20fe021c3c91c]
+│   │   ├── virus.bat.ibbm.bug.b [3afda4af088cea08d715a29ecf1c6fb47c9605b44c30bf81212a449fa482a157]
 │   └── c
-│       └── virus.bat.ibbm.bug.c.zip [045411b3953f877ee6da1d3079840ee4c962383d5738dd7d84fdaddc6cb41bf3]
+│       ├── virus.bat.ibbm.bug.c [f5403a5e19857f6bc83dd0bd48e9de4ebffa513b25f9a3dea104bbbfe11d4442]
 ├── bumblebat
 │   └── a
-│       ├── bat.bumble.445.zip [6619496b7a6c86c4dd68e6bdfc1d5d2b737a3277bf74060ed3d621fb1ddc3209]
-│       ├── bat.bumble.a.zip [e3734f18728d2e9df8088fe4ab0ebef2966d37ef32c16063bb89fff302d00ed1]
-│       └── virus.bat.bumble.444.zip [77dcd84ad229279e2ee9cc880526d7884b8cd3d4e1c00a6dd9ad545c8336e670]
+│       ├── bat.bumble.445 [4f9f12775fd13256ca3037fc4bfba60b01542f3b2d9b32244dc591a84936839a]
+│       ├── bat.bumble.a [3eb8e3c62d58240e37341874cd3e9320e6bb7f57bc55f0c9f1fbe1e463f0f3c7]
+│       ├── virus.bat.bumble.444 [d0a10e0790d63e52e8a0a5267810d977e543bacb5fa6f9d719ecae29e319b21f]
 ├── butcher
 │   ├── a
-│   │   └── virus.bat.butcher.a.zip [6264a5fc9d74024438eb3d8548f3ce0b03c1d4f6a8cc11b57a1073546a47a7f4]
+│   │   ├── virus.bat.butcher.a [1ac146426f75e49518630c75d4f15986bd225d6477ed841649f0dadbe134e20d]
 │   ├── b
-│   │   └── virus.bat.butcher.d.zip [8d38d8d3ec9ba5b99191573575afe531fafc4f91949a1524bb6b8752ce126986]
+│   │   ├── virus.bat.butcher.d [f754dcec327e9c156c20abb31feabf93c2bfec33e9cdc6c055861be45c6ccb08]
 │   ├── c
-│   │   └── virus.bat.butcher.b.zip [d91508efae37e4c1117a507f2933bb2267206c6503d28c59bab161c2900f30ae]
+│   │   ├── virus.bat.butcher.b [b15179b858a5e39f976e40c056d253d2ff4a35ad338106c9b8339f4c13542605]
 │   ├── d
-│   │   └── virus.bat.butcher.c.zip [0c3e460a3cd464070a3eb45689d079b07bf5b03afeadd4760f41d08201d99f99]
+│   │   ├── virus.bat.butcher.c [a2768b567e4a0a7979545e8b42f0adfe88fcdcf2a5548c55e3052e7812fd8e47]
 │   ├── e
-│   │   ├── virus.bat.butcher.1134.zip [653c1b57d981226180b3c193d2ec307e7435f74e2c336e07426620ae222bb79e]
-│   │   └── virus.bat.butcher.e.zip [96b0dd5eeaf0a70d6ce261c8fc77adbe7de172f6783fa2a930aafd26a861e3cc]
+│   │   ├── virus.bat.butcher.1134 [35898674e3a9f4a5122a36847afd65242491da7e7a0427e30bb62f3dce37c47a]
+│   │   ├── virus.bat.butcher.e [fc0bb05bec5110e53b6243cd700f4c9db7ca1c3c9ff8c59d19db8472f7ff5a70]
 │   ├── g
-│   │   └── virus.bat.butcher.f.zip [bf765e281afcbe3ffa2af3de8d9bc46c5ee1e98c4533d1344d3fe086b3b67bf3]
+│   │   ├── virus.bat.butcher.f [d93bd389f1f3e4206c787c795766fe372bae16f377b726511ed27fa083e32fcb]
 │   ├── h
-│   │   └── virus.bat.butcher.1851.zip [a019de5564b68053f0cea89ac139dc8eb93a68b3178cd66b37f226930b59d57f]
+│   │   ├── virus.bat.butcher.1851 [fd5b24ea4787c1a240d4d732998361836d0157d9a8d871cdd2f78d38eb15f47d]
 │   ├── i
-│   │   └── virus.bat.butcher.1175.zip [10a871625fca462c7e40e8d8801268f4e4e6f69f8c8894ea4c3bf0aa6a14ca8a]
+│   │   ├── virus.bat.butcher.1175 [82ea6103453b560cb80d259162d360377731cf0384cdc080df584f04f4f85490]
 │   ├── j
-│   │   └── virus.bat.butcher.j.zip [c6d7b5712fde9c0c37445dd4fe7a460f53abae3b82beb69606e063191ad7ef27]
+│   │   ├── virus.bat.butcher.j [b3f2e9de53e032a98a543b831c13bc405e3542d4abff6489bd8936a7dd759663]
 │   └── k
-│       └── virus.bat.butcher.1018.zip [9b9d66459b352157e3a322f6386b31fae5a201abb8cc4118b7a6e10c9829d82d]
+│       ├── virus.bat.butcher.1018 [6e8369abb00beafbdff9e2ea60d0e36c95d900efe347216a7d227f8741f24e3f]
 ├── bveg
 │   ├── a
-│   │   └── virus.bat.pepi.a.zip [4adea37f5e7c2aa20069dd5a89624dc744281d8a2c56c86b5512a136b9e40348]
+│   │   ├── virus.bat.pepi.a [217233999e3d1dd1bba25ffe028b044f733293617d1c480cf2dae893d818ff7c]
 │   └── b
-│       └── virus.bat.pepi.b.zip [1d29bb09326c8e7db22e7ff7c3ed137e41355fb9ca2f3b1290842e04b4a4ca50]
+│       ├── virus.bat.pepi.b [1f6e42587b1516f6bf7e2f9636c731937224c4c2aa963264549a2d022a5497f0]
 ├── bvgn
 │   ├── a
-│   │   └── virus.bat.ibbm.mkv.zip [a95de5ded1d70cbf51b3ebc8cc6539aa4fdc89928f2edfb7e6ec9a7d7c158c29]
+│   │   ├── virus.bat.ibbm.mkv [158ae6c01d4c91432e88e0b31451c3910926ac237656403bbae9b35a7aaeda26]
 │   └── b
-│       ├── constructor.bat.bvgen.zip [743f868638c64d4d4c54b53716cfe0437d8adbe850329366b979ed2f987fd99a]
-│       ├── constructor.bat.bvghh.11.zip [1500ae67965b6beba7928ffc672b5ba4ecd62864879eb7b15054793757ece7cb]
-│       ├── constructor.bat.bvghh.txt.zip [0d62062818806729de4799ef0d564b25cc565c8b19395b929fbf40b7e32c7cbb]
-│       └── constructor.bat.txt.zip [e7f556ae710e3cf9a9c24111482eaf645601463637b2b4589c20bf04b71104ff]
+│       ├── constructor.bat.bvgen [ed3358407d4f3d54b32623688bda6bc951eefc2310af9d0b273bdcb1223bd4d3]
+│       ├── constructor.bat.bvghh.11 [6a8a4370afaaddc2066ae2b72c7a40f8c357a931439a50ef7a5e1241d3e136cf]
+│       ├── constructor.bat.bvghh.txt [4d26e8df30cc697a017675da0e3b72778007ec849b5977e6d1e7b3f471962fd3]
+│       ├── constructor.bat.txt [42a189ed731b519ed1d41accb008b7106d1929de19e6548ba5c63a0f1a2050fe]
 ├── bvone
 │   └── b
-│       └── virus.bat.roshi.804.zip [f9321be4c0d8782d3dd0a55e9c6337e4fde112076b1c783bd7afe8ae7c3c6704]
+│       ├── virus.bat.roshi.804 [8cbd111d9aeb1345292e76253f36064dd6f5cd43fb497764c94754020bee4c0a]
 ├── bwg
 │   ├── c
-│   │   └── virus.bat.bwg.c.zip [d9b829ea95453b9859c8b8827ac0da6e2fc40a8c08b8eb8b088ff4b9730fef72]
+│   │   ├── virus.bat.bwg.c [1621338065d0bf16ed97a4b836857d7128f01d79c2212dca29457720f2412746]
 │   ├── f
-│   │   └── virus.bat.bwg.f.zip [6d96b6318ad77812a60cfd77b4d28a749970dd1f803c6e5955384c7fbd24a3cb]
+│   │   ├── virus.bat.bwg.f [af7ef123a565173d496c582cceef7ebd5b9dbd1505e070cd9182823b89242538]
 │   ├── g
-│   │   └── virus.bat.bwg.g.zip [118f0471f9b7deb8d1dafa2fb11a43319dd690151306bd95245f08eddb5fa983]
+│   │   ├── virus.bat.bwg.g [c55837927e399345fb13db6b1acdfa71faf01a6a6d9c6de5c1a8c3d3ba5334c7]
 │   ├── h
-│   │   └── bat.bwg.a.zip [51764e37eff604c1a8e9e3d285b89b7283258944394a5e3ce1ebb8402d4f5e17]
+│   │   ├── bat.bwg.a [c1195f94f196f44c557f92a8f43e7030f939ef30353b0f03d352aa964a733e29]
 │   ├── j
-│   │   ├── p2p-worm.bat.copybat.ai.txt.zip [3e9416d6b000315b5ba96f0903dbddd17981ef6152abe0c901ca27c9d9a4ccf8]
-│   │   └── p2p-worm.bat.copybat.ai.zip [0179a26e2691164f6768ace09d700d25652aeeea386a2a647c681f954375769d]
+│   │   ├── p2p-worm.bat.copybat.ai [1234e29d20fff6799695c236056fdd1d5e3b94dc8bff8e7ad4fe85f4da1e372f]
+│   │   ├── p2p-worm.bat.copybat.ai.txt [a673deb1af744376f4811f7388226b44c3c971093b5611b636c03a762bdeb02d]
 │   ├── k
-│   │   └── server.vat.zip [6717f440c84f2a82645ca7ca947b5d076ee3f1fd4b6c4d616af97dfe7e3140a0]
+│   │   ├── server.vat [3fb316313ee939c5ebea47463c3496eaa879735df8b2b20727489cc54adc419b]
 │   ├── l
-│   │   └── email-worm.bat.bwg.d.txt.zip [faad064ca4db363fbdcaf6ffa560cbeb1c8a9952055c2dec3ff33e8b75a79cde]
+│   │   ├── email-worm.bat.bwg.d.txt [2719b8aee1e3d8cb39c29d61cc61db6269411216613ab1a1bb0ab2e8896b98ad]
 │   ├── q
-│   │   └── constructor.bat.bwg.zip [e0371c135febb08c94c08dc455b35916321d4f115b910e60c0368ff4561450b6]
+│   │   ├── constructor.bat.bwg [a8b4deabbc7fea593d3216a732443bf60fbcdb155f577a4daa8a105bfd1172d3]
 │   └── r
-│       └── email-worm.bat.bwg.c.txt.zip [dfa22e64aa6fc239650f16a9b4d46deed4109290352b0ec9f47a9cad407a1319]
+│       ├── email-worm.bat.bwg.c.txt [c8012e45c0bd137a85cf8a23373c3164334eeffae7342ed8bf6aec24ee87ad4d]
 ├── calhob
 │   ├── a
-│   │   └── email-worm.bat.calhob.txt.zip [65bf9288aa0fa80fee9f3136050c4c28ff07f8b657d18f6dba30b24dbbbe3d5e]
+│   │   ├── email-worm.bat.calhob.txt [cd0c9c9565339b4e2a16886f1f6daa6dc8118c98308695bf55b88c9b81990d89]
 │   └── b
-│       └── aguilera.vat.zip [9c929b74e9467df83fdf582bfb03a02ee392524ab3240dfe1a8fffb5b55ef77c]
+│       ├── aguilera.vat [946f51946990a04a3f7daebec571d9fc06e8bb9089599282959221373babd451]
 ├── camile
 │   └── a
-│       └── email-worm.vbs.gamile.txt.zip [f414c8d99bc0e7a69cb6f9903da60b8e14d01b302f0199c5ecf22ec7ba8e6d91]
+│       ├── email-worm.vbs.gamile.txt [bf41ef3dbeb756b62401228f292a2be22149ce8a4a894a0c5602f087fb17e855]
 ├── carbuncle
-│   └── a5bc2578.vat.zip [ab560b869e9ed4812ba71161452ddc7d02ab4cff77835cce4c7ebff26656fb5f]
+│   ├── a5bc2578.vat [425fd26df55e2da512b4d3ee570c053d9533dff94a480badd91ef7751a89bf3c]
 ├── cat
 │   └── a
-│       └── virus.bat.cat.zip [7aa3254dafbf08ea1f17d0a8b1d13b26701ceadd1635a5df8286a8b90f868984]
+│       ├── virus.bat.cat [aa0dd69e6bfc87f4f575decb70ace510d4c0eed9633cbbd5e06454db508e64bb]
 ├── chantal
 │   └── b
-│       └── virus.bat.ibbm.mkv.b.zip [d4bcd0d4816fb1a9de4247d46284a3e50a75dead981122b4dd0cdb1b4e81f94e]
+│       ├── virus.bat.ibbm.mkv.b [a33d333bde54532a6224954ff8d9e5bda7665bff4a3050a390a7cb329b4cf246]
 ├── cheezy
 │   └── a
-│       └── 329.vat.zip [d75c60fe1931897a782ac9ccb313647b507cbbf467442bacf6ef72c27a0cf3cd]
+│       ├── 329.vat [7c291e6b574ad913b370287b19cf999756f50be5617324a1eb344bfd634ac011]
 ├── chkem
 │   └── a
-│       ├── p2p-worm.bat.cyseq.a.zip [2e5e889f8c5bf55666fad6a78ccdb1499726117c506241e49089985ee8247b59]
-│       └── p2p-worm.bat.cyseq.txt.zip [008cbb23e0e25bba944c566bf2cc3b0a0c4a08deba4c90a246793f92edaa7db0]
+│       ├── p2p-worm.bat.cyseq.a [b2c7e111c484b5450e37a53a40be41e8e0e3df28ad8eb0268f2616e520995e83]
+│       ├── p2p-worm.bat.cyseq.txt [59877b1f57b799b62ed14d02c4a7a89a68779b9d5c7448f24b13e1b9b8318fb0]
 ├── cigar
 │   ├── b
-│   │   ├── virus.bat.cigar.a.zip [34ea7a0786c4b86e2452722ce08bbf86238a0efa50d29394c5227f82ee1a4f7d]
-│   │   └── virus.bat.cigar.b.zip [c2a469fb05108428f8a6b579259a8036d51fb86111be66b453d3bb5d837dd419]
+│   │   ├── virus.bat.cigar.a [7a8d0c2986340ce5dbc0440d5a99c4450e8b818658dd7d589bb69af6e4674eea]
+│   │   ├── virus.bat.cigar.b [33c724b5750e9dc8ec93651cfd3a1bac973326d39731e79d00fdbe109725fdf5]
 │   └── c
-│       └── virus.bat.cigar.d.zip [40c74a79ef6e77ceaa726a7a01f99f5903855b7e4babb8b6c2973a81e745148e]
+│       ├── virus.bat.cigar.d [2363b9ffb12240a64d8304a474d5f02a925b06250d9ea842f27548248d380120]
 ├── clsv
-│   └── bat.ibbm.clsv.zip [89e7acc0e6dbe4380017a4c45c8e29ac282b30037ac39661ebbf1b1883c266c8]
+│   ├── bat.ibbm.clsv [a45777d481979088851467f5adfb04d0329f504355d83739a9db23f9022f567c]
 ├── code
 │   ├── a
-│   │   └── 169.vat.zip [4c4919255c1caa141a63973273755b7a3443a628cce5150c7bc29470b4168a4b]
+│   │   ├── 169.vat [f42d06e3e276a5d57bcd618eaed4fe101d9fa55cc4f97acb1d6301a1869b5183]
 │   └── b
-│       ├── 0fe.vat.zip [2d272f4757719fd964781fcd4c40290414ffa043fd6a9c2670a046826ea5b9ef]
-│       └── wci02164.vat.zip [b73736202ae31eecfa538348e9e6984601732ea78d6fe01d733335334ffbe53a]
+│       ├── 0fe.vat [5cafb758e09236039151b689d74652f6645b688a4d91134f3514e01f171f7724]
+│       ├── wci02164.vat [968a6807ec35dfa9d7935ef60b97b15f42d830da645fbcd8c7bc26f45ec7178f]
 ├── cold
 │   └── b
-│       └── virus.bat.cold.b.zip [403f5aae845a506d12212fd9f8f1d1068d68b4c5c182db1ab1c367fc2bc6b29c]
+│       ├── virus.bat.cold.b [1a87ab8ea89c25959e1fd31c3659cd010d5fc942a36905418c0559a6cda8fc01]
 ├── com
 │   └── 448
-│       └── virus_2192.vir.zip [4311630674d5bfb31e0980b5b72c6f5cc0c4324e71298c46ceec51de2dfc2f65]
+│       ├── virus_2192.vir [bcdd2db2ac3528c51f4dac90aa485df4b44185d345df77414100af3326415648]
 ├── combat
 │   ├── a
-│   │   └── combat.398.zip [a41761e9c9bff6a33ae96982c47c71f988c2d1d45d09cf579d15eb020cecc3a4]
+│   │   ├── combat.398 [e28db4775956dfa599237cbb32f75122b7fbd0fd0ab45289daf8857c674b9025]
 │   ├── e
-│   │   └── virus.bat.combat.i.zip [2be7b27d0bd5e24a2ad7402941fd0a28dbda93aa1a377e44d0522de711eead5f]
+│   │   ├── virus.bat.combat.i [9521fdb569a92cc92b7318c1eef12f52d383e00fb26f999ad9f366a3e76994f1]
 │   └── f
-│       └── virus.bat.combat.j.zip [62a52c0e1de1229ea4014fa20b177d44b13805d4d4b8e1b615b52c8bfb33dab8]
+│       ├── virus.bat.combat.j [30bca6b4fa0efe6b7f63b2cc9c628732ab7530ecc11d824d56d90c9254cf5bad]
 ├── comp
 │   ├── a
-│   │   └── virus.bat.companion.b.zip [68cad042f7c97e167b56a5009b19d3e90bce7be761057be2c9a31ccc2e0dffb4]
+│   │   ├── virus.bat.companion.b [9999f1664ec93191cb505d922993da03cc1f5727dc9815c338716de3d45afc9e]
 │   ├── b
-│   │   └── virus.bat.companion.c.zip [be0ca60da4645906823851d1c89a9a73c477749d77ea2d21ae5823bbc32c9e43]
+│   │   ├── virus.bat.companion.c [1205693eca29fb083dbbc06ad840b729a4deb17650bffddfc2cf374397f05f43]
 │   └── c
-│       └── virus.bat.companion.a.zip [78467985bde92c7d8210bf690cda6ae739449bc075e492d000c6149de0b793ff]
+│       ├── virus.bat.companion.a [602c6f84444471f8c5165b3dbf5670d46324a96c31e1651c3a23c663792d9505]
 ├── coolhz
-│   ├── virus.bat.billy.zip [54aeddfb502efffb63defcbbe1a74921b47c4b92ee2ab9bf501cd2294022ba7a]
-│   └── virus.bat.coolhz.703.zip [e6e4c94290bc4eda5db72b4a02c4617c33196de2cff5a7f7bb21a5e1a94713b1]
+│   ├── virus.bat.billy [c340303937f1acafd398b9535374b1e40c211f0818ad5e5edd989c0e01eafc12]
+│   ├── virus.bat.coolhz.703 [a9b9137ca1b3f899e5221096b5b2e70c611bf74a83a098e82443f79c496f9484]
 ├── copy
 │   └── 54
 │       └── a
 ├── copyall
 │   └── a
-│       ├── bat.copytoall.a.zip [b11c8548e395fa921a453687ba33ddc8a29cf910a39b3e2ddc4186e2f62f7ee3]
-│       └── virus.bat.copytoall.f.zip [fecb6364993941eac71b107cb3c4d0dd1b5dcc64cdfdcdf1a0b02d8543dc040b]
+│       ├── bat.copytoall.a [d6ca7161dd1ec13458178de3cbefe83197a5d7eb8a7a349310751f5a58757c42]
+│       ├── virus.bat.copytoall.f [0a1c8c4eeba98b0f6e046c0c948ab64f914957d36baa04aebb1b76e78905eaea]
 ├── copybat
 │   ├── aa
-│   │   └── virus.bat.mumo.a.zip [09833c099015a52ff998bca4ba0b4565826a993b126ed439b6ef0499fb55c361]
+│   │   ├── virus.bat.mumo.a [d346d65259f0b3a6ff473fab80f51a92296ad86bae7a24787df39d5e9103324e]
 │   ├── ac
-│   │   └── virus.bat.copytoautoexec.zip [4e9e7df61420761d2d03969b7398399b0d0727650ea7dbd16de4c60604cf9952]
+│   │   ├── virus.bat.copytoautoexec [0f5d81223c562af5f14910593cf941373dfe8f54e8f267b4738437f037de3fd1]
 │   ├── am
-│   │   ├── p2p-worm.bat.copybat.am.txt.zip [75bffdeec7869581f3152d149c9782c669abe61d4064cdb0d872bd1e8fbc925c]
-│   │   └── p2p-worm.bat.copybat.am.zip [10f017ff0447c83e59073545cb78684ee718322eca53ba3aaf1bc340d05741a1]
+│   │   ├── p2p-worm.bat.copybat.am [db136ca929c4ea30c9b07bcb723c248ebd4967627b8ed0d85b00796980b58248]
+│   │   ├── p2p-worm.bat.copybat.am.txt [77a193337ba2d25a03e54eaa97b8de7b392725051441c26eefa96019d168b362]
 │   └── p
-│       └── virus.bat.crock.zip [f9e967af742a068bb078764ebc9bf1b3674a1b2597b429473aee0b686840c10e]
+│       ├── virus.bat.crock [c30b6a7f4bc7382f444d26a8c088bb8ad8cf5d73d0cbc5df071d469a554737cc]
 ├── copytoc
 │   └── a
-│       └── virus.bat.copytoc.b.zip [b47a695233ac17d5dcec668f977175f08b3b0d5b5d1deb698177f5128df67e1a]
+│       ├── virus.bat.copytoc.b [ef19a12615a21302d8d905f0d1477f1f9ea83d5322e6fc52e599323ea592640a]
 ├── corea
 │   └── a
-│       └── bat.corea.293.zip [ef5da6dfa71da257acd93c62063f3efb4404eba623d67282d3f0ae416f2a65cc]
+│       ├── bat.corea.293 [73d3d25960c1eea19b3dd4e05e564d7c100c721a277ca0338b5dc8f7fe927f62]
 ├── craz
 │   ├── a
-│   │   └── 1267.vat.zip [bb54e2d1516d5abdd7ceb4b92bf2f29d89ee12997ada151af0d781127091bf9f]
+│   │   ├── 1267.vat [47827d32296c5df9faf26f21ffabd04eb59fd40e2732b4874e0f84c0322ef316]
 │   └── c
-│       └── craz_c.vat.zip [5bc74a8d112a76efd933fa79cda245f01eb957d5e7b0aaa2ab02846e99141785]
+│       ├── craz_c.vat [a95d65abeb1e1335fb937e615aff5c8e2156aeac47e412956e9c9cb25a8fb8d5]
 ├── cream
 │   └── a
-│       └── virus.bat.mosquito.a.zip [8eaf19848dd9c667efee5b40d82c4b2f3a9f9fc03d0e7e9f0874bad453633b88]
+│       ├── virus.bat.mosquito.a [6fc0ca1a2757ac762affc0052635e75f19d28366e4c4bb91dfc62d660b70ed7c]
 ├── crodom
-│   └── virus.bat.hny.3350.zip [28b97b01697ee1288a3be8adaaff6b3a803ee3dba77486aa3006b9a2494dcfdf]
+│   ├── virus.bat.hny.3350 [fff90ab53897941faee63ed884742daf1063742967ce867f07fecf162522bf49]
 ├── ctty
 │   ├── a
-│   │   └── virus.bat.ctty.b.zip [f2e84a65fdde6a799f2eb205b3421d940f23cd175fbb0d2f47990b9dd351fdbb]
+│   │   ├── virus.bat.ctty.b [6d6513dca71a4d61a037815cf3b0eba3b739df7713770394c159da2872d18e92]
 │   └── b
-│       └── virus.bat.ctty.a.zip [7d6ac5a9a4d3351f8894557df30bf364b1615bf211ff0973b1f8ea17fe325e5e]
+│       ├── virus.bat.ctty.a [2458548695fa65425fe03cb5501ebdfe7062b4b9e67dc9966287273259a16744]
 ├── cw
 │   ├── a
-│   │   └── bat.cw.a.zip [a8b213411aa4f6d3b00314698c98796e152ed35009b01ed5e8479d36aef2ab48]
+│   │   ├── bat.cw.a [a8163e7cda7f289a39db7d9b9dbede3f0b33ef7b37f3fda7311887410e3f5d0c]
 │   ├── b
-│   │   └── virus.bat.cw.b.zip [0b3b761105f088b5eaf6733076f260c1047d23fd991d01f76cac1f901ae53d54]
+│   │   ├── virus.bat.cw.b [7de483092ef7507c5f12e947b9c51d77990ec852c5a70fafaf455e503d2c458a]
 │   ├── c
-│   │   └── virus.bat.cw.c.zip [fcc8e4f0a91b36eb8ce84b57318128ebcfa0a99e9158d02162296a30c93bec99]
+│   │   ├── virus.bat.cw.c [69f5a5363e1dc365293357a1fa7cb0d4530a92a511afe78c05f06e1a95d7a75e]
 │   ├── d
-│   │   └── virus.bat.cw.d.zip [92dda3f0de18fae94040e9277d3fa81e0c1bc8eca9d63df4a73b9813394111b0]
+│   │   ├── virus.bat.cw.d [5ae5ee8b10b132f525b87d4edffe59a3b605ad23d2df6fae0d5b69c030724ec4]
 │   ├── e
-│   │   └── virus.bat.cw.e.zip [52757999e4f536e9f54a75ce58cd298aced2127c1b88de10f178400c2a4f13d9]
+│   │   ├── virus.bat.cw.e [f002af046b6b7971eb2b643e0852fdbe7fad92efdda5f50a5f5c67376edcbddf]
 │   └── f
-│       └── virus.bat.cw.f.zip [5b0cc06ddc3c009de25b9dacfa6b4bf0ebeeca4ea6147dc2fdac897586242e5b]
+│       ├── virus.bat.cw.f [f6ca664c504198d130a20ef0c396361a0c296a4bc4430cec8a093bfb1658348e]
 ├── cyber
-│   └── cyber.vat.zip [b63e38d8259bae5763d8a5ad6dae85695a0974c478405c4dc8dfd9c7afac4d95]
+│   ├── cyber.vat [3d5838e50b980f90e65b87c419b99e7ea712b1be8b9cbff8e0427ea61decc639]
 ├── cybrphuc
-│   └── 703.vat.zip [8cbe7c0c6075033f5fef4e50f0196ca41e53b860cdf666f8e7f85895095f7002]
+│   ├── 703.vat [0f5f12ebccdd8044cd9b24ba2a127fcb61107f010ef726f2c73b6d68e044d357]
 ├── d_smack
-│   └── virus.bat.dick.1424.zip [3143ef90a3b55e29dcba9fbf552c176a67b3a8b696d10a7625fe55bbe7ddec52]
+│   ├── virus.bat.dick.1424 [419155bad1c0d1509117ba4bd104250fb89f432e135a17c9274f319076c1086c]
 ├── daar
-│   └── virus_2907.vir.zip [ea1316a2dfcaa57436fb572ec8193b2eeb0c029d2c93ed13643c2503e5ec66ce]
+│   ├── virus_2907.vir [3fcc0ac8e805c07dea4755fa6e7aa092ba0b18c644b71f02a3d4b20b5b4eabfc]
 ├── dakuma
 │   └── a
-│       ├── virus.bat.akuma.1935.zip [21c4a4ccf9dda937337d719406d0fbb83d0ea7429b8af0b30dc2c337f414ba0e]
-│       └── virus.bat.akuma.b.zip [1e87077aab8fca1961d94a40ed2b7b30b200d73df1ff5a6510ef28eab077938b]
+│       ├── virus.bat.akuma.1935 [05a9a8ca295f8e7e6ac5c4c34819952c3231a21936a811fb7fb33dc313604cdc]
+│       ├── virus.bat.akuma.b [399b4e1104f35a2743dd8ad971a5972ee227914dd6696603306a36469f8b2cd7]
 ├── damang
 │   └── a
-│       └── virus.bat.damang.600.zip [83f1c6d5e48c278473090972b725eb785f79258f1cfc21c2a318243a4b4a3bb3]
+│       ├── virus.bat.damang.600 [1ddf9faf28a1485534d4bc3059ff1643c27fbc54be00c959afa010d51b2a9a12]
 ├── damn
-│   ├── virus.bat.damn.a.zip [15831f6d1df56e784b74b2133656f3fdd3b3cda337120d5e184c0c63ebbc3654]
-│   ├── virus.bat.damn.b.zip [e60ad13660691238427a2a53a1fdfdf22b4cb5f7d2c871f8c87cfd2eb5e680a7]
-│   └── virus.bat.damn.txt.zip [cb4da466c6bb1e6b6b99ac6d316d6fbb353b20423ca83d1b0633ecfaa92eda6f]
+│   ├── virus.bat.damn.a [803da19f9bd96217a8e2ecac14c5f43108583d39f8737b9378ec3be65a4af593]
+│   ├── virus.bat.damn.b [d350787c4daaba1b1bd840e2395317a3a156ca9e85af067df409219e90a172c0]
+│   ├── virus.bat.damn.txt [6eeda7c18da39e0283e401551f12383d2dafa7d81eaf85394f96ba4fe8f75e35]
 ├── danom
 │   └── b
-│       └── virus.msh.danom.b.zip [738a6b0860fa80b5b03f3d02fbae34d69e2d326ec5919858d055231f7f0c1137]
+│       ├── virus.msh.danom.b [697e850835480bae1c5bae11ac9fa227832bc31d40a2c69a9a106e1a04d3a1cb]
 ├── darky
 │   ├── a
-│   │   └── virus.bat.darky.zip [1fedf274bf01b79ed6cb47c5f14926e786022e8cc1b610199314c5525a47388c]
+│   │   ├── virus.bat.darky [a72fbe0a23aeb6e4ec8d0c18780e24fed40c43eef2355715e2e331d15053cd96]
 │   └── b
-│       ├── virus.bat.darky.1119.zip [d65d284d8d5ba665a98cd55595dc7d57f31945e39d908b159d56efd383bf5d62]
-│       └── virus.bat.ibbm.darky.zip [453839af1b8d9b01c99fc366871768838e119b980aeb0189ea64a6e9b8a2a292]
+│       ├── virus.bat.darky.1119 [b8c4f93846eb43baf5b7884a461af29f5e40a86939844a3ef36ecd2380eec02b]
+│       ├── virus.bat.ibbm.darky [471fe8812e9e3c2050f240d0172ceab46e48c6b5b54ae34c657842d9baad6e14]
 ├── darmp2p
 │   └── a
-│       ├── darn.vat.zip [97dc1f49a37b13e7f3ad578258cd732a49d8f4d4b521e3df29a759975595e2b9]
-│       └── virus.bat.darn.zip [013326d683e1f807bfb42863afed6b49338c14a22570b0bb0d2c1d5617b0364e]
+│       ├── darn.vat [6a4777bb352331326f145270e649720a11608990b7649f28d470cc9587619e28]
+│       ├── virus.bat.darn [016e0cc7469b336f382c4721b0b0f4d0d67bba0ed4df571476bee950526e4c40]
 ├── ddv
 │   └── f
-│       └── email-worm.bat.heloon.txt.zip [d84d7b1f2610e90f026dc7dff111063929c522f4242399f00bc2dd50069b9eb3]
+│       ├── email-worm.bat.heloon.txt [dafb3c2b7064aff74e1302d890c550b503466bfa51019b9439ac19850fa58cf8]
 ├── deadbyte
 │   ├── a
-│   │   └── bat.dbyte.zip [8d3daa0a600eab9048d2a2d2b44d40e94fb4eb8dabcf769f6eea34527564e362]
+│   │   ├── bat.dbyte [b5c4d66c871fdc9dbe668cd81b1ac89e9f324286c729a0f81a6dfdc8517daa37]
 │   ├── d
-│   │   ├── virus.bat.deadbyte.b.zip [165334bbfbe7b8a0d85a940c695932fd15270215fe5ecbb9a45fbc557ca3ba44]
-│   │   └── virus.bat.deadbyte.txt.zip [46765ffe2a1444a451a43b68c9c3f7f0feee9a840a470a10ca576f8708c93152]
+│   │   ├── virus.bat.deadbyte.b [afd6c6ebb81a5960a02de4f010da9526ffe1b89a4d45df43bf71944f36b08e83]
+│   │   ├── virus.bat.deadbyte.txt [f6f6a28777488a084af1a6cf5db19b57a7c4c767d2b785c897e95e3898484939]
 │   ├── f
-│   │   └── virus.bat.deadbyte.f.zip [7cd3deea4285b541654810924c6128109445d04ff0bea89cfa14390cb72a032b]
+│   │   ├── virus.bat.deadbyte.f [47d6597c874f9068cf3bb2a60988df64f7877971c1c552502c355d6cf0f9fb90]
 │   ├── g
-│   │   └── virus.bat.deadbyte.e.zip [559fd36c6210182fded995804f74330b3e14a8e184f25dcc7784e05920d447bd]
+│   │   ├── virus.bat.deadbyte.e [e08fa4186ce799d6464aee68ba3b48f95ac9110169217468b88a5c413d14047a]
 │   └── h
-│       └── virus.bat.batalia6.zip [2117089880f32b03ea8d3830e69172b412c727d3f07281aa979a948e7255df98]
+│       ├── virus.bat.batalia6 [95dd00d5dbfa04a5f65c776ecbf591179e9b8f4f8d5ea24019fec344b8e2b565]
 ├── deadman
 │   └── a
-│       └── bat.deadman.zip [6dbc393e30ea8b6812436b5a0d406b64361565ef4dd266f492e1bfee4d4fc47f]
+│       ├── bat.deadman [d7b89c56707398ac9624bbb0d02322bdd74012b5d3ed0c3e0cad0335181c68f9]
 ├── delavsoft
-│   └── redarc.b_t.zip [9870b579e49990c7479d6d23c52859c982f14f913c1df54670bd231a051ead8e]
+│   ├── redarc.b_t [21228ec0f6d4cb15ff1b8ac4c2cd0198e03bb90a2b6a351543e767bdc5941ecf]
 ├── dik
 │   └── a
-│       └── bat.dick.b.zip [823945750d9370aa6a2ddbd9f449da37ed0cb46ced0ef380412ff22ea2db1280]
+│       ├── bat.dick.b [d2b7ddb858da8160e8f94db904ac636140d14aa22ccd06d2170d479ef335118c]
 ├── direct
 │   └── a
-│       └── virus.bat.666.zip [6e4360450ff3ae86b606b24967c83828a1b92cb8c58912be3029a0b6d7964f52]
+│       ├── virus.bat.666 [53e33f21560b2d2e6b32da2567260fb6d5ec88ea109cab5152a84c490ecb4046]
 ├── ditty
-│   └── bat.ditty.zip [6dec263057077fd985d2662c2169d5afd7f7097ccc4f96521ecfb0940e1c1347]
+│   ├── bat.ditty [84a02a66796bb4f7df51154143552b74c2678a11c9de403e75e34f2c44a0b3ea]
 ├── dohman
 │   └── a
-│       └── virus.bat.dohman.zip [404f17f14b2eb0ee5410460724d944c136b8860d59fc7db1ff03d6e6c2a9a3a8]
+│       ├── virus.bat.dohman [3df463064a53e9f440e47f44ae06ef00fe741b5c4b4b84bbafaacce9f949bbfd]
 ├── double
 │   ├── a
-│   │   └── virus.bat.doubleat.b.zip [394661cda0e7381b8b9265f4e9cca9533a7005a84668d7684db19c0e8a089395]
+│   │   ├── virus.bat.doubleat.b [d54399e36b68b694a320515aec61920d691da560aa6737a986acba81052fd958]
 │   └── b
-│       └── virus.bat.doubleat.a.zip [0322016f7eb3ebf0fe325de2437a1e2d405a5bdde3b4ca8cf0ea294233cd6b0c]
+│       ├── virus.bat.doubleat.a [44b9723c4c053486bfdec2df0a8de09a0b3c87d3ee7524de5c2d6823a0cb9470]
 ├── doubleecho
-│   └── bat.282.zip [1e68dff6715c03b17258739b12349d24662c5bc1be9c2d2bc8010b49ace2dfb6]
+│   ├── bat.282 [a2bdc0f1c0b17804fae8b3b284b452b4f8ec2c0d1a55dd90bab67c9d3ac9645f]
 ├── duke
 │   ├── a
-│   │   └── bat.sob.a.zip [cb9c17588c57e452407a5266714cd7628630efbd4753497c236675712a499f97]
+│   │   ├── bat.sob.a [5a4c68fec59d388a0840769af7ce211bcf6ddff95e40749ed35013a126b137b4]
 │   ├── b
-│   │   └── bat.comp.226.zip [8bc999fe6cabc96fc1dcbf07c3a943effb503e7197ace7419e1f37e47b3e81ee]
+│   │   ├── bat.comp.226 [6554e93fd3dee6854088ae4655fce6b42146a421115ca03182d31bd1da54d9b2]
 │   ├── c
-│   │   ├── bat.duke.a.zip [6b852ddbe6f1eb535027062fa9b209c1accf55f7460a76d28960cdb4fd1840d7]
-│   │   └── bat.duke.e.zip [c9da485369d8c7a5ad2b796049e40ee46f75d4e3492c10edafd351c801b90da1]
+│   │   ├── bat.duke.a [0ca3f4c582cb0d11d9df30c1fa950dba0dd3536180c9e56a0b257821535ced79]
+│   │   ├── bat.duke.e [0d08bb9d89d5a5be60777f8b4bc0ad11a1ac6e5869b556517cd679c661f3c7ae]
 │   └── d
-│       ├── virus.bat.duke.b.zip [2e46d2d55989f3aa908d4b33ace6997729b39dbf9f01620c5e2746675ca8b039]
-│       └── virus.bat.duke.c.zip [f94c67fd718d68b33269059188e9ca772372d8c7b240c69714a9bb572207c08c]
+│       ├── virus.bat.duke.b [a3e4232ee17070bb976aa94401ab01bba54d9bbda5f32e542f760cfbb09971a0]
+│       ├── virus.bat.duke.c [048d50b133c57e444b6ad1638fb707125c12c98a12a19dea209d98f5d534495e]
 ├── duplo
 │   ├── a
-│   │   └── virus.bat.duplo.277.zip [f585094eb31f90bffea0c270ac5072661ef274ff4ae90bf8940e46158cc1244b]
+│   │   ├── virus.bat.duplo.277 [c323d12379bc6b7ef74ae08b045e54e55efecc958907362a041b0f7bed76db7a]
 │   └── c
-│       └── virus.bat.duplo.344.zip [e8838ffd88181863141ea8958646eb2c24bfdb0704dbd92625e70e57fd4cdbdf]
+│       ├── virus.bat.duplo.344 [8f940b9d0c0757b97c4952f80e1a73ca655a3ef48fb4b1712731b8f33f4a3d28]
 ├── dvlcrash
 │   └── b
-│       └── virus.bat.copytostart.b.zip [5fd15a17cb86dfa959657a8e2ba643e036d61e32114ba0e1b5765694d8e4a410]
+│       ├── virus.bat.copytostart.b [a6af6538d559f131596d447b4932594a06b1a125c8b83ad0730744bd3ca99d24]
 ├── eightone
 │   └── a
-│       └── virus.bat.ibbm.vrs.a.zip [7bab612f9df4873ef07b2b8687b4c9931247482d55f86f3912765e4ff4be6933]
+│       ├── virus.bat.ibbm.vrs.a [e4a7f1072e81603a28bd9f32779c400a4b8b076ae4f873904f7d8eeffb238fab]
 ├── elf
-│   └── 782.vat.zip [bf8695ce1773c89545b847f0e84ca57cc7bcd971f2d6116a509aa022d0f7dd30]
+│   ├── 782.vat [fb2957c246d3cd37f54c26739d61405a34cee76d0e896631a32076f02c0e3eb9]
 ├── emma
 │   └── 411
 │       └── a
 ├── england
 │   ├── a
-│   │   └── virus.bat.ibbm.england.a.zip [34e8eeb85f00365aaa0e6d786c4194374a4fe09bd77b0c386016b122669af966]
+│   │   ├── virus.bat.ibbm.england.a [0c0dfa65af10a64e4f835a8878a67ca46befaa46a8dd85edf0d68c2f7e5286ee]
 │   ├── b
-│   │   └── virus.bat.ibbm.england.b.zip [f8ddcf509f08e26b424a75d4341472583d0d2c70b28da24cda5e06b0d238ebfa]
+│   │   ├── virus.bat.ibbm.england.b [ca0e41571fea782a94caf2cad2728f72533c72532d470cecc2e0b1c0cb25e5ba]
 │   └── d
-│       └── virus.bat.ibbm.england.c.zip [a0aacf686d0363b3912a9e81e7170c806eb050f18060d5ce86a093bca211ed00]
+│       ├── virus.bat.ibbm.england.c [f51bdb65b8edd61b3a196b35d5fa60213bae22b2f11195efea6a745d30bd055b]
 ├── evir
 │   ├── a
-│   │   └── virus.bat.evir.661.zip [dd71137a5068fd15f6b3ce0bbc3f65ce97e0c7045a4c5fbbd48416aa61a902e0]
+│   │   ├── virus.bat.evir.661 [8a1a912577bbac633d26ea5ae3f4a0c8b23e8e66a5ef2c90a30270a11e907b71]
 │   └── b
-│       └── virus.bat.evir.1139.zip [054636ba164e1a60571fbbd8f9c7db05d961c5d5c362412ee0b0fa06339419bc]
+│       ├── virus.bat.evir.1139 [911e4a4ceb525bc09c2e98e8776096ffc1f01bd37803c2620ef451b65ff637b4]
 ├── fakebb
 │   └── a@troj
-│       └── trojan-psw.win32.fakebb.a.zip [6902a115cb904f535769a9dac1529538d11cd56dbab34ec5b1fb2626a88bc09b]
+│       ├── trojan-psw.win32.fakebb.a [d7498df67ebc7615ffb834a8da95412441027db4f96a94f67a96d313f001f635]
 ├── falken
 │   └── a
-│       └── virus.bat.green.1431.zip [f53b2e69cf0abbc7df40e3ae25bb4f820e9ed201bb0456aec871e50c2b516ef8]
+│       ├── virus.bat.green.1431 [27845d2610b370b090e1f49a005e5dbb0a60cbccc4e19ebda3d8742f2b374232]
 ├── find
-│   ├── bat.silly.am.zip [f12f68551c7c36e64259017684760dcce00f364390280b94f06f80e74d46ea5e]
-│   └── find.vat.zip [7af07c2e613495ae68e5c9e079bfdcaf1faa86ce42e73d27004c54c1399a3b7c]
+│   ├── bat.silly.am [ebb4048c8ea30beec89d25a93aaf8da5cc77665a04b8965dd61854093bad8c3b]
+│   ├── find.vat [be1ae35d1cd0ea10ff2bf2bc4d1494504eaf000d9f5b1daf92d8b548c872b072]
 ├── finekill
-│   ├── virus.bat.finekill.a.zip [e2d03dd71f85701705a516a3627124a7c60ec2c9f5ef87c4ee5cf270ece42bc6]
-│   ├── virus.bat.finekill.b.zip [ed472e68a58fe8ee8edcbcc21759070ebcbfae87fd24c131e7414d5cc0e5507d]
-│   └── virus.bat.finekill.c.zip [a2db6ab07dd5fb12914bcb887198d9042c13de22e7213735012499801a71945f]
+│   ├── virus.bat.finekill.a [177ad7a50cba92d6ce78ed7ad670dc148a2b76d3a46b8f7fac234ff37d766cdc]
+│   ├── virus.bat.finekill.b [8ac1fe69aa2b18c4b05f452faa1854f0e885a92a7c3d6bd2e30d9584b67d3c22]
+│   ├── virus.bat.finekill.c [9e951af29ba463b597869ed9847f71f5d34e2f23be8e92d896b2f7b07d613d4c]
 ├── fish
-│   └── 8fish.vat.zip [ee59799a73bf69eb33f5584263d5a997b06d274d2f74d144f4ce55b82ddee589]
+│   ├── 8fish.vat [fb33086d48c8d557b9e118ce59dbe4fe8104eb1569b5d8363936433260ae2ce0]
 ├── for
 │   └── a
-│       ├── 322.vat.zip [6b4875bb327dab865fc0d3fca74ca521223c4a1c1e90b8de720a5617848c4724]
-│       └── for.vat.zip [cbb7057e7a7213b00b8ff9eb92b696ac357a45ebbfda4babbc451636f1aafeca]
+│       ├── 322.vat [3f870556bac15ca5219acc5184cf3d8cf67863555c72ec1f93478c7bcc47345f]
+│       ├── for.vat [8f060040a3817a32163eda46c1e420f055bcecedb9323167365f311b10c2c432]
 ├── fret
-│   ├── 1023.vat.zip [9e9ae5799016be4616a5ff5b024f8d36dcc2c20b3e966428c6277a959f33eed8]
-│   └── ftc.vat.zip [254b3722068824ed64f55a3f1cb0e4bddc36bd8ea7a4ce25996157c2d3ed02e0]
+│   ├── 1023.vat [0ba2b6b13f6a154e2f01f5fa01888b98db62c780269468fdd3854f09349e3922]
+│   ├── ftc.vat [916497be6a77f08b26a718a51b276aecce9dbb60abe53df6536e0160c5b828f3]
 ├── futility
 │   ├── a
-│   │   ├── 406.vat.zip [8a45941080084ba82e8ff052684927121a865dc6f32835abcc4d57d719c55f24]
-│   │   └── futility.vat.zip [36f520b3cd186ad06b9d86f4025407ff518ae41df5cfaefe7af83170ebcaac10]
+│   │   ├── 406.vat [c925ed71ef88db730125770a834ad9f6c96f9d84ca0929acc87234f0a9d36407]
+│   │   ├── futility.vat [088146553e30e69d2b7950856b27907a1f2fa67c09b30066a34d3d9b4f952fba]
 │   └── c
-│       └── bat.infect.b.zip [a0a9c6bc3e0fb01ec7c17b48c4e669a24cda6762565c8478d66ddf04b05bd889]
+│       ├── bat.infect.b [137cbd652a38519f2a88dd88e32a5950cc9e73db6419720096a236792027dd29]
 ├── gcomm
 │   └── a
-│       └── virus.bat.goodcom.zip [9de649481d2e8a84e39102325e5ea8bbb465314ca0dc6a6994d374cbed27a795]
+│       ├── virus.bat.goodcom [d88766689089d02bd9e720800d7793e62f310e07022ef1f450909be6ebfebf2a]
 ├── geez
 │   ├── a
-│   │   └── 145.vat.zip [195b2feb6fe7216a75dfc8b26e4c90074e6fd736cdc9b6c76553c0500963380e]
+│   │   ├── 145.vat [047f710aab788e847a93c5dc88b9b3f7069da41a09ff9ab4d44c168c3e0b787b]
 │   └── b
-│       └── 216.vat.zip [863a70c1e26f8b6aeabc9938ec7a861ce686c89c59ad49642884558510cca317]
+│       ├── 216.vat [cfebfd3bde84f4ed6f44ab9797780c06aba41a39212ed7eed657faec6885f68a]
 ├── goma
 │   └── a
-│       ├── bat.goma.286.zip [7636edaf2172ac442203fcf5fa9c6092b6240d60afd2f429b28cacd3c11de0aa]
-│       └── virus.bat.goma.zip [f38ecb50e8e85001f6e8079a77b6b36c315353a009effb9086bcbc30fbcc5bf0]
+│       ├── bat.goma.286 [399f55cf849f3b6ffea674c060fa8c4b7c3b1769959fb93b9c47be7f755465a7]
+│       ├── virus.bat.goma [1f8a7c414ee15f77f02a92f3eac1d724d600268c8c9eecad47052ebe84b04d93]
 ├── goofy
-│   └── goofy.vat.zip [81869c562e3da4d7b79de37fb09f4360b0a9299ce878871e078d66a0240d49f7]
+│   ├── goofy.vat [ba329c35581da77a5024a844c1a50dba589e11bf8a66c21eda9e8b3f0ee88d70]
 ├── gpb
 │   └── b
-│       └── gpb.vat.zip [f14041bfc245b0e86a1e8ceb9875adb7a9bb2c607ad7eceffb3660d9f6ace9cc]
+│       ├── gpb.vat [97c5806cfc3e5952df8d7bf8bf17dd60f8405eeef39a627a27bba1105c02ae4f]
 ├── gray
 │   └── a
-│       └── virus.bat.gray.705.zip [9694a26ee67926a7e5b7f439dfcea8702e43197d098b5de84474cf9498e56465]
+│       ├── virus.bat.gray.705 [38038e21f4834f8eb9f14039c9ec455ecee14df263e696470f59d8c128245560]
 ├── gremlin
 │   └── a
-│       └── 1424.vat.zip [a1e749dab8840cbcea39b7a6d14c1060d978f0dc8e0d9f939e8a53ee3cd27187]
+│       ├── 1424.vat [7e86f1290130bba368ce2565289a2c79f2f77c624b565e824b270e46e918cf5b]
 ├── grozny
 │   ├── a
-│   │   └── virus.bat.grozny.a.zip [bd528a4d4bdc4c88c5ef65f69dc15430564e4d2a84464d09f80908ffd535474a]
+│   │   ├── virus.bat.grozny.a [aba7649ff1d0e0ce0152ab9dcc980a37478f2e020404fe4b00bf4e01f61d9189]
 │   └── b
-│       └── virus.bat.grozny.b.zip [496226cd941c5b134348bd2a1248b5aad430dc902ac3ab041e0a8a0133e9ff64]
+│       ├── virus.bat.grozny.b [1b68bd38e087cbb6379590e129594bc8f7286a3c57e72977c119e672f7e29ea7]
 ├── grunch
-│   └── 1189.vat.zip [f681975e9a126476a62b6ac8db78385a714f262c76d912ee8e40572e4805ec91]
+│   ├── 1189.vat [968ce3fa2c32e988bc2688e9ef109bcb3d58c4bc0edc6edde0d6a7511515c66e]
 ├── guru
-│   ├── 1460.vat.zip [d0f42524bb16b32ceebc3db59267aadee1a9eaf07b83d45015e1c6daf9653829]
-│   └── fae.vat.zip [efdbf01b88871bd83de12e4dbf75ca397c355a15b67c824e9ca115c126a4dbed]
+│   ├── 1460.vat [6ab663ca5d634c402f33871772c30151aa61354204f130ab5794eb6b14090b78]
+│   ├── fae.vat [a41ef755debe77ad332601097fc8a1a5b1dc30eb5518cdb5be079624304e4381]
 ├── haba
 │   └── a
-│       └── virus.bat.haba.zip [af57f4cd61695e1c86743631e8f7ec06800a0c68c7621b78020a001e9ed9d7c8]
+│       ├── virus.bat.haba [fad95a91eee6b8eb9486c2c688e6ed0f4d58857afdc02c0c31c08d7d2d13c463]
 ├── hadez
 │   └── a
-│       ├── virus.bat.hadez.a.zip [63d68771be5c84c1e53622d6cf803d82872de8270b32f972522b9930d47c5ce4]
-│       └── virus.bat.hadez.b.zip [e5df4a36b79ee751dea4fd3a31f6e41d2f15c5deb1c88625ac52efc177d7c601]
+│       ├── virus.bat.hadez.a [f0f363b4a944bc43b4003cb79bc2cee0881997dedff1d5354653ac8de8eb564b]
+│       ├── virus.bat.hadez.b [9875f3b8eb059338c77ebb8c7e3a143143d634ec043a1940759958b63a9ab61d]
 ├── haj
 │   ├── a
-│   │   └── virus.bat.haj.zip [c99070019be0ac9956a8405e2b1f7a401ec09179f96436527928a2fc58ee52a7]
+│   │   ├── virus.bat.haj [861df51b3d530bf69bb863e97b862d24b6f28a4fc8f60f75a53ee46efdf3ccbc]
 │   └── b
-│       └── virus.bat.hajkova.zip [eb2b98ecc1032a93b4eca4e07e3dc0ebf2a08edb4f2dc8f28913cb5dff95dfb2]
+│       ├── virus.bat.hajkova [7300317952a5e377a38e1e95836a01cd9466f033099fa0d69b281ef3b3a12cb2]
 ├── harl
 │   └── a
-│       └── virus.bat.harl.zip [ee7a5675ba51f5c0c75f92e967e55f84925ac4056da546d898d955c123c1e074]
+│       ├── virus.bat.harl [582835b7164767fc824ce7d849cc775529da63bf149117e91933f2071391f30c]
 ├── hellow
-│   └── hellow.vat.zip [0cf13a15aaf86d7686c2275658d06341ccd8d1edc7923f137431c8ad14d7181d]
+│   ├── hellow.vat [8b19ef055a65a642669b563e98208fecefb19017f6b78a89551afe90c21b3268]
 ├── hex
-│   └── wci02174.vat.zip [3a1d062c9dc36dd376f4a47cad8d5ac004131bcb5937dd644b8b14ee47b0d764]
+│   ├── wci02174.vat [0f4bb9bab705403df23029e578260144ef13d9639b67289a0df64cf4a6caf5e3]
 ├── hexvir
-│   └── 1840.vat.zip [5fed3a364ca895274d9bb1460fc1b0ca2b8c12bcc6ebae23bfb954fa1497dfe1]
+│   ├── 1840.vat [8513115fea210f5f89cbf4b09e1ac9a84261a8350f2bdbbaf2fa68a3b6e86969]
 ├── highjaq
 │   └── a
-│       ├── 1400.vat.zip [b8c4929a2e2ff67c9b7698ad3ca9526f240e51fae660e655b8435b290601001a]
-│       └── wci03243.vat.zip [3b470f6c84ef2d1f74d86094ae3f4aeadb41f3d800b2489b1375efb44836c0ed]
+│       ├── 1400.vat [9772b53d3b3f1fb1abcf032b2863636d5f9dcea13daba88b3828af6bbebf8921]
+│       ├── wci03243.vat [c3840b698e5ef3dcbf810459ad5cecd5a3cf772ba903f0fe284b60664d824bb7]
 ├── hike
 │   └── a
-│       └── bat.hike.zip [ca24f2d32f8a2289453a03343c0d475104c402b0d73ecb5ec32ba6403e529e6d]
+│       ├── bat.hike [5d32821c5fba00526ec847546938e5972b4423e2c9bc3b1aaf55d44ce7e01595]
 ├── hogy
 │   └── a
-│       ├── 2645.vat.zip [6792a7f75abbd7540d07016351b3ffae05041a5a915c850fa0524787a6b0283a]
-│       └── drop.vat.zip [842499e4a04a69b17ccdff667ee46868d399b60b5fb8f29a0bdd17ff6a6bc698]
+│       ├── 2645.vat [0fd17ff50d152b6dcd96e5510ce5fb02c4ad3abc4767f642b355bb472f289beb]
+│       ├── drop.vat [eb4077867e3e867c30830a9ac78b8f331bc5b8376679f98d0cab7a5cb8d41e8c]
 ├── hokun
 │   └── a
-│       └── bat.hokum.zip [2db0f6fd620395af7e783a17b82187b86db688d76428d560be66db35f0956aba]
+│       ├── bat.hokum [ece2601538eb5a34a4b68faeced737b11fddb7827305fd8b54ecaf7f649e9aa9]
 ├── hottotrot
-│   └── h2trot-3.vat.zip [cb02a7411278addf5fd030a6cba74f9b03c70a2b9d1e846b0938d41a70d0e176]
+│   ├── h2trot-3.vat [fbe6333d82a8fb92b147ab13a17cc50ca4fe4c0a206984b3f1e7fc7132faeecb]
 ├── ich
 │   ├── a
-│   │   ├── bat.ich.a.zip [b5e08360c5cd2de572de77ed1de7326a5acdc7e6177208c8d6929ddfc56d3c89]
-│   │   └── bv_ich.ba1.zip [451546de783482d0bc9d27ce706af61ca382e6b0df27f5148b07791b56621235]
+│   │   ├── bat.ich.a [8bc4569b48556f271e0d9f30ebc01e4445d37d89d83dc2dc195ff926dd307442]
+│   │   ├── bv_ich.ba1 [1963dbbf8cb4a759657497c4cef2e3e043e5e951a4c81156c40010a43b9c253e]
 │   └── b@troj
-│       └── bat.ich.b.zip [54c850671117e745aa436b2248e3011abab23901f88f2943fffe0afd888ab9ae]
+│       ├── bat.ich.b [0a1552ffc2ee53f4f19fd5c92675ac5bc4e29198b681783f711c8e8cf275fc7c]
 ├── incmnd
 │   └── a
-│       └── backdoor.win32.incommander.zip [503320d349018a80e5fae30caa3dc0a38b3ecfbdf7a68db24205c89864de998e]
+│       ├── backdoor.win32.incommander [8f6a496f195264467199fdfcbdc08ead1b96f1725307fd08a0c694ef1607db8d]
 ├── insend
 │   └── a
-│       └── batins.vat.zip [c55d89d5099d1ff6fd0cbd872d0def5cde3653677b6c1031751f8943fbbea88b]
+│       ├── batins.vat [ec416c9b999eb27a2dead65b0ed16e755032dfa8dbcf0a0d45369fd1df6beaae]
 ├── invader
 │   ├── b
-│   │   └── virus.bat.invader.b.zip [b2d2b381aa449488e1140516342114112a95f1ffee062beaba53ffdb2f61a1fa]
+│   │   ├── virus.bat.invader.b [9ccc5adf6f120a0be2e800932456e0aef226f2b82dc27be5d92a505fed61826d]
 │   └── c
-│       └── virus.bat.invader.c.zip [1d8ecb6ccef13a7ad850e264e1b07efc9373732ea55966e8bb8ed43ad208d007]
+│       ├── virus.bat.invader.c [9d160f2f1ce3e6743db7dc869754badab3c4f3ba7a07266c2b7fa7dfaf4d4294]
 ├── ircworm
 │   ├── highhop
-│   │   └── highhopes.txt.zip [c047deb5124cb4e5b720e81ddd525c49049d791f6c54acc6730f9a8344b36785]
+│   │   ├── highhopes.txt [5b75324439abaf4a20fc2c5780a2290ce2323d3af2673e939341b4f2bc2e6656]
 │   └── prelud
 ├── james
 │   └── b
-│       └── james.b_t.zip [f1dbb2b289bb305d4b45ba180bf8204478fed7f938e6687c48aeb6b8052e8f64]
+│       ├── james.b_t [dac3c0f5413882f076281d725732362b05e1ceaa50b5ac67e313ef3a0c56a3bf]
 ├── jerky
-│   └── virus.dos.ti.1191.zip [f26cc3f952c757aa17289ff89fa98ed5646dbbcc43abd2879e2fc3e1533ea3af]
+│   ├── virus.dos.ti.1191 [218d522c5892a0c6e88367561c8ed6e851195b29b07052004396330f1179c837]
 ├── joy
 │   └── b
-│       └── virus.bat.joy.b.zip [dff6be755e5f8afe95fafe4b94dc1744338af7baf012c242a382b3043faf86b5]
+│       ├── virus.bat.joy.b [73dc28e4ea49302aacef435f2c179ef92f403ec06044a83054319d6c730f528d]
 ├── kangaroo
 │   └── a
-│       └── virus.bat.kangaroo.zip [861feb2433005bf5b47788258c6554d15424d78cad4b78e34a8e4fb021efad5b]
+│       ├── virus.bat.kangaroo [ff45ba2fbc866e021efcdbd183cd282fe9148348edf8bc02db9fe1b577604f60]
 ├── kukushka
 │   └── 630
-│       └── virus.bat.kukushka.630.zip [0d3afe8cc5ebf967bfd68b63f774a4761c0faf18eada7332c42f474f9c5efc5d]
+│       ├── virus.bat.kukushka.630 [f58f85612657e0ac1de837d638b080715e8d22c431fe8bf749ecdc94bca809b4]
 ├── lala
 │   └── a
-│       └── virus.bat.lala.a.zip [a7c26e2ac78ad183c76399acaa6d3ad580a8516258e9a4ae3582f8bf6ec5c57e]
+│       ├── virus.bat.lala.a [684c620ddcfb316ccc7fa8b6354aa538b1fa8174bc66c94bd7db1aad102aa1e7]
 ├── lame
 │   └── c
-│       └── virus.bat.lame.b.zip [2c526768079158b29a8c87ae4589480af863182f163ec2b9c02125b7cf61dbad]
+│       ├── virus.bat.lame.b [65bb1e05b5b19237e72ea68830807e0a8fe474258195b9b51eed429bd849cbcc]
 ├── lara
 │   └── d@mm
-│       └── bushlovessaddam.theme.zip [03a6c8f57d6db00a43f6128d8e51056794f20160589460b9fa36190628e179c9]
+│       ├── bushlovessaddam.theme [0b6c745ee34e16beeda56895ed9a52cbd36ae9b8c12b61c35a364ee22153408e]
 ├── lazirc
 │   └── a
-│       └── irc-worm.dos.lazirc.f.zip [be5c79c279ccc9507e9558b310efeb8fcae287e6aadbe5d69b15b6a7800695fb]
+│       ├── irc-worm.dos.lazirc.f [c32880359f46e2fdd62b822271f0b802f2632ca3b7fabf4b3fc798a215d9b012]
 ├── lcambat
 │   └── a
-│       └── virus.bat.lcambat.85.zip [e738a241d57ef857d568bc5f600bf7a9883b65d634dd327b31700a48febc9a72]
+│       ├── virus.bat.lcambat.85 [23d79ef87bdafd86c8411f601b13ca0d7ce711144d79d8c733fab3c950aaf2f2]
 ├── limi
 │   └── a
-│       ├── bat.limi.a.zip [882d92c0f0e894cb89e32dd8b611d8d40de004950b469cb9f88fd17f60c7fd8b]
-│       └── bat.limi.b.zip [420ba77cec4830a06e5fd7f35ce962e4ba43cadc9d769359f80fa1a0e8bb9f22]
+│       ├── bat.limi.a [8407d7c8a8031af4f21f0dba0a43fdeae25b96b94723b07a8b0679991dbda499]
+│       ├── bat.limi.b [6877f9f4b5a489eab43278bc7f47e394976b0c10e2cfd8d61317322dd04c907a]
 ├── lio
 │   ├── a
-│   │   └── bat.lio.a.zip [3a992c9acdb03c71edb114ca16652310d1a22ffd2b1f75109b277f3244a68758]
+│   │   ├── bat.lio.a [3f54975fd90a43cc8c7db53acd04afcf02c658a0a557d1ec249cf54107ba8590]
 │   ├── b
-│   │   └── virus.bat.lio.b.zip [13b432a06b5420f7950d632d43899a2e2f89e92c1ff7465bd356666e6b8b5b0d]
+│   │   ├── virus.bat.lio.b [7fed0edda80e97e926fdf02db7c66539eb457b5cb42a42c5d71a4f44ed8afcf0]
 │   └── c
-│       └── virus.bat.lio.c.zip [5e09ccf881902dc83f41166941a481dffc6d4beefe68132589419142c9541e0a]
+│       ├── virus.bat.lio.c [a32e1daf050fe70fba28b719ad94242f5399b2276856f8437e9798ba30ee9ad9]
 ├── lord
 │   └── a
-│       └── virus.bat.lord.491.zip [79a7c609cdf0c6d0f75d4cfa09d83ac2ae65134ef8fd47311e28c26d28c90a59]
+│       ├── virus.bat.lord.491 [a5defc33561b74fc1ce025c94362caa6fc21e99d1cf2de6541440e21490add18]
 ├── love
 │   └── a@troj
-│       └── bat.love.zip [650f06a8f5c8e23f9daa2038463b213ffd245317f56b32c427b26a871258c10a]
+│       ├── bat.love [784338ade0d0a36eef6030db29f50f8485c5d817b6853aba423b3dce69f47950]
 ├── loveletter
 │   └── y
-│       └── email-worm.vbs.loveletter.y.zip [aafef4bcb3a0e4e118d17fb531f6107b755eb9be9416c610e1dadb89677113ff]
+│       ├── email-worm.vbs.loveletter.y [b283ed862de0cea47eaf84aa3f6b37000ae512ffc87a7a7799850eba6ce130d4]
 ├── lsv
 │   └── a
-│       └── virus.bat.life.b.zip [9655919080e16b1d251249cd10260040d08b1e199ec56a18cac52f9348e1e722]
+│       ├── virus.bat.life.b [0778e924bbc6c45d144808386cd02aef5f1b89126c252245d2ffc6515f4e65a1]
 ├── lucky
 │   └── d
-│       └── virus.bat.lucky.c.zip [ec0e23a93712740e20502669440a253ffb1f71dceff8b2c848b8c10840681b03]
+│       ├── virus.bat.lucky.c [060bfee1d43198996caa96f15f40b8b7dbfb63a7f24562ba30da2d5556dc2155]
 ├── malk
 │   ├── a
-│   │   └── virus.bat.malk.zip [f29baecdfef756955275f5a2113963df2e0de11378782e9ecf7f7377f0e283ad]
+│   │   ├── virus.bat.malk [112cfc43be3dd0103d561a22aa6c61e8f9820e0b1aad1df45757cbcb5fe4e20a]
 │   └── b
-│       └── virus.bat.malk.b.zip [48453421df19668d07fed84599a1a83390a8e058d42c9865c84b4cd502615069]
+│       ├── virus.bat.malk.b [1d87ecd71b6a2573f916521889789eda20e335c4094041cbeb04b4019a658dd7]
 ├── mandragore
 │   └── a
-│       └── virus.dos.mandra.591.zip [a51d5386ca23364f72f6e3963cd7d94d8ada73aca8ef7f966b4566630c8222ed]
+│       ├── virus.dos.mandra.591 [389b424476541de2661c237e3e6bdb3a45667ecfcd68950e19322acf533de0cd]
 ├── mdevir
 │   └── a@troj
-│       └── virus.bat.bwg.d.zip [41bde7db1ad25129977f361c6d1948eeb59db5dbe4fc430df3a967e1fa2c80fd]
+│       ├── virus.bat.bwg.d [a959b7485aee82ed9343f634faa6a818f322018d21d19d67908b521f7777e8b2]
 ├── melt
 │   ├── a
-│   │   └── melt.vat.zip [d832d640f05623867bb456186b62fb256d1118271d3f47c8db5f0ef2296454f3]
+│   │   ├── melt.vat [081d73c1e9c923c7612d57b78c29e343fcd74ffbca166fa0d24c81406ffe6e33]
 │   ├── b
-│   │   ├── melt1812.b_t.zip [a5899ecd7b46b0191426b6db8134cf4be0b023e9103418c87e4312d783ab3cf9]
-│   │   └── melt3c.vat.zip [49b6efb1b6dc26235ed2360296dbc68e3c65747a6de52409f09095b86d6316a3]
+│   │   ├── melt1812.b_t [6721f020fbcf406118a0432fe59df75603344fe4d3bcf7a697eeefb0d6e2b875]
+│   │   ├── melt3c.vat [419f3c000444f341f9b2ab2e55a81fd5ba34d6560f6f5b49a0013b19404c68ac]
 │   └── c
-│       └── batmelt.vat.zip [ee28ff87e3f1bf3154ccc09d1691f27d349fa39579d22d4a8a4021a63b600306]
+│       ├── batmelt.vat [650adce3ee936247d1e26ef1be6e8989021219763c2ffda9321153ada3025476]
 ├── mem
 │   ├── b
-│   │   └── virus.bat.mem.b.zip [9ba0be031da14ba25cad68aafb351525d9fd394085c37195571de6af3a980c06]
+│   │   ├── virus.bat.mem.b [582a2eb3f20e25d85098f5017e00577dc3243b9f6a6732cea451c1ba7bf8b5b0]
 │   └── c
-│       └── virus.bat.mem.zip [abf8241c77e5b1bfa8efcb3283f7a813c36f7c5877948a4b832ab320ce455393]
+│       ├── virus.bat.mem [df02755859dd965e0b12f752937e7c6c653df5f8a969528004e936bdb6a3801a]
 ├── menude
 │   └── a
-│       └── irc-worm.dos.menude.zip [a4773058fb5a30f4da3315943d35dcf240c1324829e48db4559f3fbadcee3c54]
+│       ├── irc-worm.dos.menude [02065d8a40dc8df889ce27af8743898e83eca09fe124e646abac5a303aceed4a]
 ├── meunin
 │   └── a
-│       └── virus.bat.meunin.731.zip [9c3f604e1191979fa3538679ca06cbbcd81b54ed550cf4ed44358fb53e5f11b4]
+│       ├── virus.bat.meunin.731 [66bcfa789c5369c084d4ad6b60c7c6dee90cce92e66037830f45fe38f046558b]
 ├── mf
 │   ├── 116
-│   │   └── bat.mf.b.zip [d0d1e929933e331a3f455f77b61ce009e9f1a34a640fe338434576f77b734e19]
+│   │   ├── bat.mf.b [8a5b032b04ea1c4e3d2603189350be5d4e2dab28a63b22990ad9397791446a81]
 │   ├── 227
 │   │   └── a
 │   ├── 251
@@ -766,214 +766,214 @@
 │   ├── 290
 │   │   └── a
 │   └── d
-│       └── bat.mf.i.zip [6eedb8a94ecccf891223c5fe7705c81cf373ba0934a86970e0644face05f753c]
+│       ├── bat.mf.i [727f43be3f190aa9463f32ba3755408157386f70ed35c387958d5e49ce082990]
 ├── micomo
 │   └── a
-│       └── bat.micomo.zip [70df933660a2732331b922c9b6a3f270829878f74500a7071658765d37f5dd41]
+│       ├── bat.micomo [9390afe220154d543fb0a08fb70d026628664920256a52de712edf406042b51b]
 ├── midget
 │   └── a
-│       └── bat.midget.a.zip [fd040e856a47cfeb9a77b54baf530288c5136771b6f23b558f74b88e8354c1c1]
+│       ├── bat.midget.a [b67112fba0ac7f164cd025afab236cc83909fd313626eccaead32e918a28fd9c]
 ├── midtext
 │   └── b
-│       ├── battext.b_t.zip [8593d4712478144d2bc0bb8d136fc32bea3993a1f3f7cc60b196717663cbe6fc]
-│       ├── battext.tx0.zip [3d9452dd3d2c75dcdd83efd95e4406545137c5d832a1ccff5df496468e3750f6]
-│       ├── battext.tx1.zip [6f7fd21a615beaa9afa49adb3b65a81657c9b8be7e3cc34102a71daf75c9b8c2]
-│       └── battext.tx2.zip [9c5d39e591881e73e794204ec1ee24bb6209579a496b3e35daac8006f74a5643]
+│       ├── battext.b_t [35e20d01ef9cc28cd47180af530e9863b57a746108d57add0e85a94029735fe0]
+│       ├── battext.tx0 [773809a16544ad0e26364220b0ed43b84a0bc7b2397364e5ef94c85b3192c227]
+│       ├── battext.tx1 [dd75ca19240534ca42ffa9892ecdfde2bcb2a8b36f6ab163b723fe34b4e1cceb]
+│       ├── battext.tx2 [d0738ab4b1922dc9aadd515d33757b2f7758d345fbe30f3848535d2d08e3da3d]
 ├── mircbat
 │   └── b
-│       └── virus.bat.orgy.523.zip [1084942e4c00993a1ebbbefec9413e170b9276b6886ca1515c1a390217ddc31a]
+│       ├── virus.bat.orgy.523 [b7a20c344eb7e718bb5c4767d04779c1ce397b09dc287706e1e0bf2230a3c518]
 ├── misan
 │   ├── a
-│   │   └── virus.bat.misan.a.zip [1081b6ffee2c4d555b3b2d242c529aea78253e6f2e8399640f5cd2ec4e1061a0]
+│   │   ├── virus.bat.misan.a [70f38d75cca0c22bfddab09c2a6582c1d9d729e101f95d3a508cbc844ff9744a]
 │   └── b
-│       └── virus.bat.misan.b.zip [a25186000cdfb061fabb09c5b3d50de5613284e6d5d9872763e35786210c7403]
+│       ├── virus.bat.misan.b [477933193d4bcae9d02a25c315acdb66997250fc9ff5981db493451ba5f90694]
 ├── mobius
 │   └── a
-│       └── mobius.b_t.zip [c05812e4056fb33e1eee3a8e3225822bf7fc3fa43a8bc1dfd77e967ee7a1f878]
+│       ├── mobius.b_t [926f265e76f071e86d8b6fbd2db9e47d4118ce24fdca5020b3577cc1fc3e7d16]
 ├── moral
-│   ├── 941.vat.zip [46d08036f1dabd0c807a33911b8ecc069d90c14eb6459482f4dcffe7b36aaf87]
-│   └── moral.vat.zip [24815f6daa1ae071b18306e06f56fdc51805e11b852568dae2dd9585a32b8fad]
+│   ├── 941.vat [dc55f99b002a833abc4459ed61d839450f0cf45af0259ca22f45b2972b38de1d]
+│   ├── moral.vat [91663d70e5c411ef226347d78ee223144c3f43f3429f295c0da7c389df6e57ac]
 ├── mtxw
 ├── mydhack
 │   └── a@tool
-│       └── hacktool.win32.mydoomer.a.zip [61075ad1f3e3d9e112e678ad9001b4401672f09e4113b4d3befe9b2411afa65e]
+│       ├── hacktool.win32.mydoomer.a [c4f87931afb1608949440c817a48883d096e254cb37edaf8066d371583208758]
 ├── naco
 │   └── d
-│       └── email-worm.win32.nocana.b.zip [ca57d7e3151c63814c607c627818e10e70df1715bd26e964e4da3747755f583f]
+│       ├── email-worm.win32.nocana.b [fd90910b116c0da4c3dc1d117d527a7747d9ac123b055ca57276790869f8e7fc]
 ├── neborg
-│   └── virus.bat.angus.687.zip [aca612071ecc3c3676e4f8a458dee4d0b78aa10b1f689b30b3906137074f6829]
+│   ├── virus.bat.angus.687 [61e3213e8ae5aea1b4b96fd68730cd3e1e25b85755f206da13860cfde6845f69]
 ├── necro
 │   └── a
-│       └── virus.bat.necro.a.zip [5a19980c79324a1eef5c7d59fc998df037cb3c90f0d430767e1877a35d038364]
+│       ├── virus.bat.necro.a [3ff6aada11acb6710a391dd8927194670918c838c591e0511e7d2842424f8406]
 ├── neon
 │   └── 474
-│       └── virus.bat.neon.474.zip [ff1fecdf99cbc1460ba0a75b51cb58b7f3f4b056697de0a40be356ce89ce1db5]
+│       ├── virus.bat.neon.474 [b36d037c527b4428443c94040a7dcfaa8b27d59b0360834a186ee31d6524ed9d]
 ├── newhost
 │   ├── b
-│   │   ├── virus.bat.newhost.vat.zip [436777693c7c60285c699a4d533460d8beafa9115502e91f949cafef6b58dc7d]
-│   │   └── wagner.vat.zip [3192165a3da58456dde11a8660d6becf1e91900ccf6965ca208f38998b7a576a]
+│   │   ├── virus.bat.newhost.vat [1fec17e5140c24d9f2c8051240ddc91d2358d116254c480b7145f94a8f091d45]
+│   │   ├── wagner.vat [2530311683d0fe51ea68283981e466b5f6893e9807a16827b32931a920f3b6e0]
 │   └── d
-│       └── ansivir.vat.zip [dc4293433a21f3711778625c4e8703e56a60fff37da45dc89dfe1eac743a4369]
+│       ├── ansivir.vat [e495a8cf4c58234d8a01abe854eb79630ce4f690ed119570b918cb6c71802a73]
 ├── nice
-│   ├── 2897.vat.zip [48d1aa0fff6b5304a4c1fc2733b31c8d2f9445c0aacc02d9984e526d1264f70b]
-│   ├── 412.vat.zip [06309ea3015b03af62a7786d7b0d2f085687718f65f520ef4e0ac266ff6ab5f4]
-│   └── dirkbv3.vat.zip [9af7ab1277ead2ce23c2b43a1db3ffdab5e25a72f4da526956e51bf312f49e09]
+│   ├── 2897.vat [f928ed64ea60374e0b4308722de629eb08f5d7838f3edcd389d726dd85fad9fc]
+│   ├── 412.vat [8c068a713996a393ed5d68aa12087e70f94fde36e8ea405993db995d7352e2bf]
+│   ├── dirkbv3.vat [d4db7a6a30d4a628d28dd28c4baf64bb719fa207841bc59aaf8a231c1eb05a3a]
 ├── niceold
 ├── nika
 │   └── 479
-│       └── bat.nika.479.zip [8ec1ddac0389303f9a5fbade4c891559b9e741802a0625d230c727c457238db2]
+│       ├── bat.nika.479 [0d27edaf84429dcdd2b30ef2bf63bf0a6060013860f12b9b9075033336335f79]
 ├── obsolete
 │   └── a
-│       └── virus.bat.obsolete.334.zip [792a168f6b65ccda12e67a225c920373d74d01bb8d714e589d5ef12e7d387216]
+│       ├── virus.bat.obsolete.334 [3ee8e3195e8ddb9d01cdcca19e8fd982a2cc1d665003e82e11b4fd2b8557a32a]
 ├── oneline
 │   └── b
-│       └── virus.bat.oneline.zip [27fb4f50d0c85250cff0ede17e39be10602b73c02b85f9a4654d7028a389095d]
+│       ├── virus.bat.oneline [f649ca7e0391e2512018728067f61d8d9c7cebb32197c875f965f9ac2a2b6f36]
 ├── pam
 │   └── a@bd
-│       └── backdoor.irc.pam.zip [2a41c8b2443564967d38de0b43fc80f3e7afcab94f59f8b88d4172f8c6df4bdf]
+│       ├── backdoor.irc.pam [b47418acb155ec52cb3025bb53e08b381d708f4feb9c34d927a46d188b75967d]
 ├── panic
 │   ├── b
-│   │   └── bat506.vat.zip [b10b075463ea573dbeb63ee26f189ba5561de331afdf6a057a5f92cf1f4624ee]
+│   │   ├── bat506.vat [b311eb14f6a786e9ef06a8feb9751891125cac39ac8f9f58776bead2b86e0507]
 │   ├── c
-│   │   └── batvir2.vat.zip [d5366a412be37c6b922d5a1190c4576d6bac9556df6d222b020168168cab429b]
+│   │   ├── batvir2.vat [e20055b2cdc3a2e0fb721bdf1612899266e7d0d66f49be7fa465b108f2269258]
 │   └── e
-│       └── bat527.vat.zip [35390f8215c6bb6fe42ee864c6d1e6c9634b22f0859a8e220cfe0b903b27431a]
+│       ├── bat527.vat [adbe9fa3c050eda10a7fd6f66807728d9ef485d883c842a4365e67ba3a3a28dc]
 ├── parasite
-│   └── parasite.vat.zip [ee4185560fabc5a0f40a4915a37bd37388deb4917c2b8bdbccbf60a3edbdd147]
+│   ├── parasite.vat [399268ebe7f29909f086ea680f2162aa4ca8b2a602d412a290c19f4ca946e2d9]
 ├── passion
 │   └── a
-│       └── 1354.vat.zip [978f62cc30f51d1f290241e4fa8adee2f93e2a202b2d7edc640e0d4e001b8585]
+│       ├── 1354.vat [1a1d43fccd1807c2b9751b678497a575368d0cc35d75503ac04104f9ce3bfe7b]
 ├── pbve
 │   └── a@troj
-│       └── virtool.bat.pbve.zip [6e8d44c74a2d36089bac9afd7585d7bb4abdb82407c04e5dabec55a2026355ee]
+│       ├── virtool.bat.pbve [27bb52bc39c6cbc804ec20d565f6eb8d88dcd32cae4f689cc5ca82a8c4987926]
 ├── pg94
 │   └── b
-│       └── virus.bat.pg.538.zip [68f4902047511f3c0a0123a03218278f8c91ec8bee344d58f4084d606553a27d]
+│       ├── virus.bat.pg.538 [7b589e8fdb6dfda21fd4720fa3d1fc02d4fbf2e3e2f624bd15e51955f15dc646]
 ├── pifv
 │   └── b
-│       └── pifv.vat.zip [14521d211cfbbba16bd81fc455c115a4227cac42e6af394532a3edb755f131d9]
+│       ├── pifv.vat [ee9e8a47db4fdd2108a602058df90efb46474514ac2104c6d96c8c7a9376d976]
 ├── pikachu
 │   └── a
-│       └── bat.pikachu.zip [7d013c5c181c365ca3cb3671b3196ddf140e4c0695df86a2b91c1c38d3136ec9]
+│       ├── bat.pikachu [6a2bd55742652fa1ba28d7ba93514efecdfb36f93bf36d85067b1eee0aa86f2e]
 ├── pluton
 │   └── b
-│       ├── bat.pluton.zip [53c9be55579ac4a9239ccaf8cf4833823516f3452af4f4021804d89ef5f113ea]
-│       └── virus.bat.pluton.338.zip [9e8f80a44a1b874ee233274bd154d7e3939697df33f172bff219355d6e7a6205]
+│       ├── bat.pluton [5ba7d501cf03a40e969b03891d89dd22e2cbca4c83292b1f1570c2bffe0282fb]
+│       ├── virus.bat.pluton.338 [385f1b2349ff3f419dc1d68da3422f62c620681b23f27e0e4ba73199238c6272]
 ├── polybat
 │   └── b
-│       └── polybat.vat.zip [a940cdfb701916e130c55b70991ca7b29ccd2539eb69ff3150712072832f03ae]
+│       ├── polybat.vat [bddf4528ecfde9a7c759923b562f04b49b04ea8cfdde6c19486f16f7f6a1131b]
 ├── pot
 │   ├── a
-│   │   └── batpot.vat.zip [4d97b1cc81e0eee7d751b14617f050dc44f86699a7fb2ac0f6c8cb8ab95cb5cc]
+│   │   ├── batpot.vat [a3855b5a555602d5400f5a2ec7605339908a94629ff9d6caec29d705229fde1d]
 │   └── b
-│       └── batpotb.vat.zip [7917fac627e4a9cff019f7db5e874ff8b26945db706865537c1e900ee2a5a806]
+│       ├── batpotb.vat [9f89f2ac7b44ce2f9f080adade69b355a6511b723f494419a21cd9797515917b]
 ├── promark
 │   ├── b
-│   │   └── virus.bat.promark.b.zip [e28e6181a6a410f61d0e70806e40f32bd3129170a3d6922c0d54d1e27f6a2170]
+│   │   ├── virus.bat.promark.b [5a030e17bc87bc75c3c5eced03361d1c090dd59c4520d0bb1c0cbbe5af986ace]
 │   └── d
-│       └── virus.bat.promark.d.zip [c2d09ee26063db3633f990218b64f0026fa7ec04d1c88066b8dc94591af906e5]
+│       ├── virus.bat.promark.d [4e62cf58f15e853b96c7ab692ca2ee54e8e147d06bca4ad6980684b26b06b19d]
 ├── psbat
 │   └── a
-│       ├── 3379.vat.zip [8184ba911a9728a1124985aaec4190e757ad713032c649ad4088d54304efecbe]
-│       └── blah.vat.zip [d25f8389061e29d6a7371bc01c16c71a4a84c56195f9d4830b46d980247f9ee8]
+│       ├── 3379.vat [12c17db0edde9988107823e23fafef2cb37873cb4c3f9b0fe320a95ff9e29893]
+│       ├── blah.vat [bed7f2fe04840fd23054f0640b3c36e36855a2bde168240152bcaf563ec22ff1]
 ├── pushistik
 │   └── a
-│       └── virus.bat.pushistik.zip [af8f40bbed009aac32ac9af78391a143a3ddb66afda72b4abb3142e737ae98f0]
+│       ├── virus.bat.pushistik [964d970249a98ce238dc1808b30dd99100f5cf687203064cbc9cf1316ee9adf4]
 ├── qlop
 │   └── a
-│       └── virus.bat.ibbm.qlop.zip [9cdad98f4896faed2d5c45f5536d455e61bdb3acfb5ccb69ab632eca1998572a]
+│       ├── virus.bat.ibbm.qlop [8e0c546efbe94604ca43ea55531d06913b8ae9eb19734ade5f0f3e302e22db60]
 ├── qpath
 │   └── a
-│       └── bat.qpath.zip [b1bccc7b6d1e3752b438facc4b7bf9678894b89362a57eca8b0d9020cd233e88]
+│       ├── bat.qpath [c591c055fb415ab7b3dbc8b6a9538d6ff475d2949ab5db6e87f91b5b54c49e20]
 ├── qwerty
 │   └── a
-│       ├── bat.qwerty.296.zip [9dc5b0b252b23ba5e63af7fe46138c34b053e9eb6bd304c26f7ddaab2f1c122d]
-│       └── bat.qwerty.b.zip [84baefac3edd71b9c959761eef77eb0cd883615cfb92daddb57bebc483ffcc2f]
+│       ├── bat.qwerty.296 [d3631165778065ba4401b6b174debbebbcd1444d925d6d1976ef36ca9d9306d0]
+│       ├── bat.qwerty.b [baafab3f0b392f04ade99ddc03d916ad414c271d9e7e0bc67a5057a365188734]
 ├── ramble
-│   ├── 511.vat.zip [47c0cb9e3278d9c1b734f6c21419c06459fd6375eb10c29ee9b9224493638e77]
-│   └── virus.bat.winstart.g.zip [cdbdfad5a283a3523e8dd9808424963d252e31a04c66f868af52cd6c6c04583f]
+│   ├── 511.vat [3f825963f7e12586f729beb505f20b66d8ace9f56874a642af857043b14a4263]
+│   ├── virus.bat.winstart.g [73f4c1508f45398200f17be19f725d3d3f322483008fade1b5b9b7b3d208fdd5]
 ├── randdel
 │   └── a@troj
-│       └── virtool.bat.dvl.rnddel.zip [4c9a1fe29a43cb663c368b797ac3aa470d0c38936425c61e2144e8c9e427cc30]
+│       ├── virtool.bat.dvl.rnddel [499256bba80621299baef9f524fe12ecbf700ddbdd100524e9abb28740bd179b]
 ├── randon
 │   ├── c
 │   └── e@troj
 ├── randren
 │   └── a@troj
-│       └── virtool.bat.dvl.rndren.zip [63da35012a7f7b34c3b17cf6e1c51764408a6235885b2ee979bd52929a9bf81c]
+│       ├── virtool.bat.dvl.rndren [d22237b97eac2d64c9090cc8e55f6b94358a01ea53b537193dd8a6e1b2515df7]
 ├── rbm
 │   └── b
-│       └── virus.bat.ibbm.rbm.b.zip [2b3b6bfa4839689363d796a9b8cb47828bdf89d6599c9b25783b4d9800724b24]
+│       ├── virus.bat.ibbm.rbm.b [c27abe9ac03c09323341e7bbc2ea4cfad511cb717231565d6182dc833197e719]
 ├── readme
 │   └── a
-│       └── virus.dos.hllw.readme.zip [9252c11ed3434df6d8404cca82784f04cc810e9d823d03abf4dd84aea80d1842]
+│       ├── virus.dos.hllw.readme [bf9376617802699da9018280941471860129ffd137097dfdba954acf1ddf068c]
 ├── reinfector
 │   ├── a
-│   │   └── virus.bat.reinfector.b.zip [21f923a9bed150f3cf85ef9fffb8dc94ca115b42d233b6c54deb9b0ecd84e68b]
+│   │   ├── virus.bat.reinfector.b [a97dc34ccff2d6ddd8603a82c25f3b0be053b375be983408a995bb51a4a4b84a]
 │   ├── b
-│   │   ├── bat.reinfector.56.zip [e93bd9098712da35984f0f8b7cf1c03bb0bbfd03fa59d774efa229eb57ccadfb]
-│   │   └── virus.bat.reinfector.g.zip [ab9df04625faaac39090bf4241fa7b7b8ee14dd2a3997f5436ab272cdae61d60]
+│   │   ├── bat.reinfector.56 [235fc5d2e3acd5ff8907c2ca6e261cdffb599c045685b40e0307ec1e197a3b79]
+│   │   ├── virus.bat.reinfector.g [fa98a262c23dae2d6c26d0454bad05b3399fb6836f054e0403642ebb4c9b824e]
 │   ├── c
-│   │   └── virus.bat.reinfector.209.zip [d4c71d1f065198e89550beaa8674426f98f5ea741382ebefe89f9f250c9e65ec]
+│   │   ├── virus.bat.reinfector.209 [07c77aad567e55d5743c7682481784c5206de4478e2407891fc52760e3f415ce]
 │   ├── d
-│   │   └── virus.bat.reinfector.307.zip [339d57ebfb5562fc1b48b93950068a1d531619942538be16a45b6be9fcfcf969]
+│   │   ├── virus.bat.reinfector.307 [3edfa63912145555de5f2b9d900641e7ea74c76192e46077b57b188e47ee668b]
 │   └── e
-│       └── virus.bat.reinfector.565.zip [147f0d524e4a437eb77f6661c8f6573629322c36b2606905ed0c3bc3aca639b0]
+│       ├── virus.bat.reinfector.565 [a01926cf88688b022b4edd52d6e05239e5b373bd337a358f368a3a1b7039e167]
 ├── remworm
 │   └── 150
-│       └── virus.bat.remworm.150.zip [851d5c8332ad47c3ef4048931d7ed5e9c06918b5a90999919a269d74a99faef8]
+│       ├── virus.bat.remworm.150 [fa97e4ac4b5838253c1bdd62177ad824e5b3b2a0766866c0ab79b02595ba39cf]
 ├── ripost
 │   └── b
-│       └── virus.bat.ripost.zip [a47eba82ddc4a76dcbedab616b4fb72dd7a400b97ea4e9cb4720db389ba31666]
+│       ├── virus.bat.ripost [4bfc676b9c2575214e9baad9f4ea5ed6548f29b787cbd0f97647b54dca033299]
 ├── root
-│   └── bat.ibbm.vrs.b.zip [5a5f91660ccf358e4de20b1f3114fe5f631f53d6b0d1e08bb4afa36f7ce57619]
+│   ├── bat.ibbm.vrs.b [2c570e63611f6bfb41158786362a01b2058dd663a26d6a49950be0cef0174a8a]
 ├── sadic
 │   └── a
-│       └── p2p-worm.vbs.sadic.zip [f179705999d5e122fffde00a1e57f1601a26a3fe37078c3ecac9340739a488cd]
+│       ├── p2p-worm.vbs.sadic [9ca6ee168b39d72468e037ff27cefe24f7f0fecab16025fa02607a273970e63d]
 ├── sakura
 │   └── a
-│       └── virus.bat.sakura.zip [e6d27e416d7a2cbd269ae8da08f3a349647cb3f2eec860f2564013cb96907d89]
+│       ├── virus.bat.sakura [b061c69087069e096b58706bd8b81f51ce73802fa5d26b8699808c10604a4dcf]
 ├── sanfur
 │   └── a
-│       └── virus.bat.sanfur.a.zip [14df8f84096e2149a3632ba52430313922c795084797ec231fae50eab9e7f320]
+│       ├── virus.bat.sanfur.a [741706c0410abeb1ddc892dc115ae44fdfe2e71ab3a68e1eac9dff6a3fb35597]
 ├── savec
-│   └── bat.savec.zip [8538c89d483808b291721bc13e99ce97daaf742dc2f7b8bc5995598dba573661]
+│   ├── bat.savec [1a2f8778ad86968fece405d63c7ffbf639e8cc76f60c72a9902222b7940c6498]
 ├── sbvm
 │   └── a@troj
-│       └── virus.bat.sbvm.306.zip [5f1468086daad94b1b28327a334a8dafc2738687137b79bc1fc28e39191b99f9]
+│       ├── virus.bat.sbvm.306 [09f0a7d4c074fa1a9d79db0f735e99bfbdb1751600e58a9fc47430337d54af0b]
 ├── scorn
 │   └── a
-│       └── virus.bat.scorn.zip [05a08669e1ea786cd61b6536f482dca6e6cd8805303a59e0dd70e3206177b237]
+│       ├── virus.bat.scorn [5a57e803c13f6dae023294df593624aab02fdf47c71cf7dba436a2c86f05db64]
 ├── sd
 │   └── a
-│       └── virus.bat.sd.zip [178a5117d424ba33343b3f641e8f02d0862d745eb0bdca03fe59342306835d52]
+│       ├── virus.bat.sd [03d3904002586239af7ac6d35f40187cb38f36136eb8472ceca8a3e75bd748a7]
 ├── septic
 │   └── 4535
 │       └── a
 ├── sgruller
-│   ├── virus.bat.genesis.zip [14f241c5171feb931ff9f75767977abb7095312c2e5f328dd351fad9343557c9]
-│   └── virus.bat.sgruller.99.zip [53e5d43b5bbc8d0a243f73356dd58acb501b13e8ba07c594a53e4f9558c31575]
+│   ├── virus.bat.genesis [698fa282f53b4aba1de62087d9e58bce65bc6150b991d9e308ef0da3562f4b4a]
+│   ├── virus.bat.sgruller.99 [72a436b11f53403aff88f09e1cb85a7b3858118409550fd594fa7626523e47a8]
 ├── shadowbat
-│   └── 1232.vat.zip [c8d9e1621d70c208d0129b44800733a868ed674855cf5884b6cf45181180a937]
+│   ├── 1232.vat [848eb617ad5abc7a63f997505695bad14dba857a30333cc50393f089685c2aef]
 ├── shak
-│   └── 1268.vat.zip [567878cb631ec9a201a1fea933a051e5248ca81f17a25cce20c0d844a8f6a702]
+│   ├── 1268.vat [a526f92ce8bc0793aba8b587ac5aa4817657cdad53df34f25f7cd18e4de86809]
 ├── shimmer
 │   ├── a
-│   │   └── a.vat.zip [dbf44738baf0fadc20b8337e1d77aaa55e94ac18abb7f9c71865f8fcb2d7039f]
+│   │   ├── a.vat [87b758457ae5828aff8eb78392e59a6d9a44bcf619d7ac32c76e58a95e3c0095]
 │   └── b
-│       └── b.vat.zip [60fd0534216cc9b68b59f877bcec1ffad6c5e545d453ce3337efa2358620df8e]
+│       ├── b.vat [9b66a98b36ed251eccee76a5f4d56efd33ff808db1f391cdb1d52f4d28e546b0]
 ├── silly
 │   └── t
-│       └── virus.bat.silly.ba.zip [6a9c1f48d24cc2aa762a2729f3c4f7396011fdfb7036ce11749dc04e606847aa]
+│       ├── virus.bat.silly.ba [0c2d28c022655214c9d3481f1a2d96bcc25b2c494ff229c3601ba59030bf6e38]
 ├── sillyb
 │   ├── 102
 │   │   └── a
 │   ├── 108
 │   │   └── a
 │   ├── 109
-│   │   └── virus.bat.silly.bk.zip [6410fd57f27e309841229592b55ec667804654c92f02809e97700e822980e915]
+│   │   ├── virus.bat.silly.bk [ab04c7fc02ad7edddd6beb74653a55c5d3dc50e51e540e6c7028151d1fce8661]
 │   ├── 111
-│   │   └── bat.silly.bm.zip [c4b83013c83f513d80ec3281bbd7aef30dbac2f82c357280ffc35a45155fdbd2]
+│   │   ├── bat.silly.bm [a7598db09805cdf60212a02f59139d940cf889751466d9e75c3659836a5c32ea]
 │   ├── 114
 │   │   └── a
 │   ├── 118
@@ -985,49 +985,49 @@
 │   ├── 140
 │   │   └── a
 │   ├── 146
-│   │   └── virus.bat.silly.ah.zip [6b93b9b4047982aa9f771eca31559ad8e76a607d3008e60a0740ce9ee2de37a2]
+│   │   ├── virus.bat.silly.ah [b963d41131ea4a2e01155174784c01bf1192d4d3f261dfbab6ee6e20d2e3b4f3]
 │   ├── 147
 │   │   └── a
 │   ├── 156
 │   │   └── a
 │   ├── 164
-│   │   └── virus.bat.lala.b.zip [e888238946dada2722b02b961568b3c5940462b821468f6f4ad60027851a0607]
+│   │   ├── virus.bat.lala.b [58eb7b003708338ca5856c7a1d98887b7acf15598513916c25824c5b1585dc3a]
 │   ├── 176
-│   │   └── virus.bat.silly.aj.zip [88013737d8c7afcf8729ec45f9d8adaa3df1dfb89c243f7d13390dba33703260]
+│   │   ├── virus.bat.silly.aj [ea9052395d5fee27c1e30755672280277f53e9d1bae5d66cb1c34f36ba5b269f]
 │   ├── 182
 │   │   └── a
 │   ├── 213
-│   │   ├── bat.butter.b.zip [636b591134e193098aafe702da9898763581413ab13393dafe052f5ec398392d]
-│   │   └── virus.bat.silly.bj.zip [b246b844984f9f0137305c17fc6c839613404e1fb43da0d53b3b0b1eb1567583]
+│   │   ├── bat.butter.b [4000fdf475a63cbce755da660f922d6b40d6c7cc8bd23022d12bb0fe451b4dd0]
+│   │   ├── virus.bat.silly.bj [c27719d9249d8b2b1e39ae6310d2529ac9c100293366f5550295fbab70bf359e]
 │   ├── 223
-│   │   ├── virus.bat.bylys.zip [c6ab786a626a8b31ff41cb150038958a0edafe7787e2c551e19c0296205a6aa2]
-│   │   └── virus.bat.silly.al.zip [49a038fe7257193bf24f77f477772fbfa9d4e5e6a400d2b2daff803d59c65a48]
+│   │   ├── virus.bat.bylys [bb794b8914eb57c0b456708eb395298a3bfb4fbf518ab0debc47d04019add8f8]
+│   │   ├── virus.bat.silly.al [153bb502012901a803b6bbf57ac65ab99d075ffacf2594af5fe089cc27a5a408]
 │   ├── 232
 │   │   └── a
 │   ├── 258
 │   │   └── a
 │   ├── 279
-│   │   ├── bat.mf.d.zip [e9ede04a5739fea259a3ac23380bb4307a8f4ffd81f40b0d64fd275e90bf9444]
-│   │   ├── bat.mf.f.zip [077ae78b9dcd2f1d3d20d2b6cefbebc3bef2e7046e1c73d7db888eebfb32698b]
-│   │   ├── bat.mf.j.zip [d7e4f6e6ba4bfd4eb228b56ff1abe96ba1669e947874d39b1c07cbe04506a31a]
-│   │   └── bat.mf.k.zip [c3cc5078d6fb542a0f9c69a0c8e01534d7f5b359d0eeed4b5d17f74a595cafb1]
+│   │   ├── bat.mf.d [9c75cd5b66adc571e2ab538e52aa4ef72a59c0aec679b5cbabbf53894d9f177c]
+│   │   ├── bat.mf.f [4b90df413c9186484152fe82b4847dec7d1674d5bae824966f125348c8c4fad3]
+│   │   ├── bat.mf.j [251e575cbfcd43d308cb8932aa06122fe4616d2466a4dfea9a310abe61d51751]
+│   │   ├── bat.mf.k [ee2ad97d5254fb71fa03554a12cde8ab5a1445a8dac92b782aeee5185db96595]
 │   ├── 314
-│   │   ├── bat.silly.bl.zip [62ff045bae4ea95c4ad871cbf52314a2cdc7faf52a1f42fd9689275d67d99827]
-│   │   └── virus.bat.copytoall.i.zip [7df61af21e9dc732d1aa087bc9a83020ef157a2588010429ef8ff381f190433e]
+│   │   ├── bat.silly.bl [95768bce467b8cb60358d9af54720601de1a8926add56860ce6c95ba2d93d998]
+│   │   ├── virus.bat.copytoall.i [f766fd136d1579dda9cb1ef000774c8c6b3d956a884ad10fbeae472475fd5f06]
 │   ├── 32
 │   │   ├── a
 │   │   └── b
 │   ├── 329
-│   │   └── virus.bat.silly.btg.b.zip [2055a52bd7eb56c62a6af23caa999d3ecba2940cc162488988383bb5ff441265]
+│   │   ├── virus.bat.silly.btg.b [503b47c1cedd2b7e1080f5f8bf763e1e7f26385c1ddcada152a375fe38d400de]
 │   ├── 33
 │   │   ├── a
 │   │   └── b
 │   ├── 371
-│   │   └── virus.bat.copytoall.h.zip [d53d2ba09e38039de38eaaedf738ca675bf7d1ba74096308f431e65e7fe16834]
+│   │   ├── virus.bat.copytoall.h [b460782a17523f5d75b346e7e3462eb5dac050af74f499135f8dd39f9e0e232b]
 │   ├── 39
 │   │   └── a
 │   ├── 390
-│   │   └── virus.bat.wincom.a.zip [6cd695b84d75a782de4f8cc1a864d6a4bdd36897aeba4b5f0295060b98dc13fe]
+│   │   ├── virus.bat.wincom.a [e31285d676d378289810c816accc544ff09acb22f1772384b467868edeabbc56]
 │   ├── 46
 │   │   └── b
 │   ├── 53
@@ -1035,23 +1035,23 @@
 │   ├── 55
 │   │   └── a
 │   ├── 56
-│   │   └── bat.silly.bh.zip [3c219c77bfcf4a5f47baed8a92cd77fa8d2efb04657ce7e391ff5af50a334817]
+│   │   ├── bat.silly.bh [3e6d68939e123199e993d0efa9bbcf265013a438acbb2235e961d432aeeeeace]
 │   ├── 57
 │   │   ├── a
 │   │   └── b
 │   ├── 60
 │   │   └── a
 │   ├── 61
-│   │   └── bat.silly.l.zip [90a060525428d9ae95e46488e99367665adeef9ae2ad70cd23595eec3665a486]
+│   │   ├── bat.silly.l [c6c7848f226a384e6b4e90453844f8fab90647d612f8d1aa7ee26eac56f769a8]
 │   ├── 63
 │   │   └── a
 │   ├── 64
-│   │   ├── bat.silly.bg.zip [0c718e0fc83f31bdd6b2df4bbfa0b1d9070ed50fe897245efb9aceb95b65f5bd]
-│   │   └── virus.dos.trivial.150.zip [db314cac4884fc0e63ebe1502a3ec7a0b17fcad6daf5dc28ad1cbd040549385b]
+│   │   ├── bat.silly.bg [3b35ad40b5dc5f475843e7a30f2d42ca24c3fafaa76794b6698fa743e6257a4e]
+│   │   ├── virus.dos.trivial.150 [8a1cdea27357c08031adefe8da5c6f2b765490522f8b84a8e6042b7c9a91214c]
 │   ├── 65
 │   │   └── a
 │   ├── 68
-│   │   └── bat.silly.o.zip [28d4e4070e4e086fa7df8abc219312a89a62f99a1c03ebf8b5043ad727450536]
+│   │   ├── bat.silly.o [50cf6db0939e5a849cf72d0ad08361faa538d2cb0b32c57edaf91c7f793f0a4e]
 │   ├── 69
 │   │   ├── a
 │   │   └── b
@@ -1065,13 +1065,13 @@
 │   ├── 77
 │   │   └── a
 │   ├── 784
-│   │   └── virus.bat.crypt.zip [1dfe17902aefe5c073d795f891cf4847beb7702bb7b63a7157ece35de9a16d1a]
+│   │   ├── virus.bat.crypt [4bf9e5d3c05275e4a02fd7cd20a342f4004fe1c30b2134e7c512d77f05e19646]
 │   ├── 79
 │   │   └── a
 │   ├── 81
-│   │   └── bat.silly.w.zip [1cd47d42af4a1ae7052f68b04f34da0a79917e5c3b30ca07739c34e77a40c248]
+│   │   ├── bat.silly.w [ff34f5671208c8dc814c0a9874ce46c7bc99c43d8e4d99c8d8d491c39987e9d3]
 │   ├── 90
-│   │   └── virus.bat.silly.be.zip [8f8db2020979075b4452fd139b841b614d1c696d3377a96cb84eb021f9142917]
+│   │   ├── virus.bat.silly.be [158174a3a89e6cf21117f957310dcea613cda73cb9fbdcbc51b448db2722addf]
 │   ├── 92
 │   │   └── a
 │   ├── 94
@@ -1079,237 +1079,237 @@
 │   ├── 95
 │   │   └── a
 │   ├── 98
-│   │   └── virus.bat.silly.ab.zip [bea315ea00101b38feb5f245f11c4fba6bb34b5e85b58b8d76b70c26bc47b82e]
+│   │   ├── virus.bat.silly.ab [0b00925c498a55f8bd0a424a6d5b91ca9cc5a31e37a85dea3d702c20ed3c3169]
 │   ├── a
-│   │   ├── dikshev.yj.415.zip [258e59b08dc80a6570c63798a578f2e3b19f4c0d85684ffab46e281999827783]
-│   │   ├── virus.dos.dikshev.yj.404.zip [03d929e5c62050a5af453a312bc52c7ee7d955de05b720e61e3f3a4c650f817b]
-│   │   ├── virus.dos.dikshev.yj.414.zip [bf894d432f727e896b67e42168b42549dcf2a4ac8ac6bca1c0527295fe235425]
-│   │   └── virus.dos.dikshev.yj.427.zip [3e13c36656960d4e50bd615d1895ddbef91d353635d4a74da035ab7f85d673f5]
+│   │   ├── dikshev.yj.415 [4a80b4f85c5da2fb3a0a860af2d279333f1b093e2ba275be3b09afbcbdc0e848]
+│   │   ├── virus.dos.dikshev.yj.404 [b4880458882642b6fb7c799f9cb990a7948d5dc42a0de2f1427823f3f6362b4f]
+│   │   ├── virus.dos.dikshev.yj.414 [a7c60616601f566f14c026d759c1e297e3eb96428301d1ef7ad57677cb52c76a]
+│   │   ├── virus.dos.dikshev.yj.427 [35c4368ae28175a4fbef8c1613209c853706a242332f5c29342435c3662c4d3e]
 │   ├── c
-│   │   └── bat.silly.aq.zip [1e2cf2ffa39b358f302a96a24a3f9297e7b4993ecf1f4354fea8e6288ea02f66]
+│   │   ├── bat.silly.aq [e0a81ca040540e352467fd3600a92c8cd3593214f5ca72c84e3e322ff920df06]
 │   ├── d
-│   │   ├── bat.silly.bn.zip [36452fa2c96fe0617b94655ca707e6ac75252751e2667ad21e7a2d88e587c321]
-│   │   ├── bat.silly.x.zip [b9e931efeaafbd70a95a87c88659870dfd8f046213bc21070793133a9d9a7556]
-│   │   └── bat.sity.zip [501659ab76e6650cef623f65b6cbbe614301c0929416fd5a9bdcd996c37c716d]
+│   │   ├── bat.silly.bn [41eb94b6061ae81676ec960c8ccc5c92bad35eb744349b9670593e54a8f59279]
+│   │   ├── bat.silly.x [a085914f9d9e115bf589ccfc5fcc682e27942233fd58f9d143dc496db5134f72]
+│   │   ├── bat.sity [7e68b3d6b074b87d5817996db9942e8f27cf833ef6bd74ea46daf8601e29e7d7]
 │   └── e
-│       └── bat.limi.c.zip [b86180886f8c69d5c1754d5f3113a199abb4eae4b0ac84784bf83d9a4defca42]
+│       ├── bat.limi.c [7270e3fcb3b2b1a849a7fe8b6af6027f785476a5e614012dee76c83bc49356ab]
 ├── sit
 │   └── 382
 │       └── b
 ├── skul
-│   └── bat.skul.zip [73cc950836f389cf5b3e61bf1dca1de2c0353184266768c392d2c1c160959b54]
+│   ├── bat.skul [b909c9887524bbf83e883340fd5e1d0a8c2c64a956741d4537823c1178e5200f]
 ├── small
 │   ├── a
-│   │   └── bat.small.a.zip [547819d7360088c06bb3db7d0253915710b5a995e722fe71ac94662347b0954c]
+│   │   ├── bat.small.a [79e71bf45603edf205d40566362d0b04440d2b208f6bec21e353716d578ce57d]
 │   ├── b
-│   │   ├── virus.bat.silly.aw.zip [dea30191addd59e7f66402d77db704a1d262bd53911c88d9e9d32a80432ebf46]
-│   │   ├── virus.bat.small.b.zip [5443e3b2af2fe82ac1a75f1c75fd9e73922b6c045d5d98ba8db40c27caa9c43f]
-│   │   └── virus.dos.trivial.84.zip [9b3b0f2ea88be1b979927a05829f79c3b5f3e64639bd17d89aebadd19a606cf6]
+│   │   ├── virus.bat.silly.aw [80931fa0079c3d458a578162edbae7ac5c2e9c75f60afa50744fc28696d5ba19]
+│   │   ├── virus.bat.small.b [9de3dd378f217a2620ccf5c2ba6a1cbbd904dcd06fe546eb01a9c2c1cfb36bf4]
+│   │   ├── virus.dos.trivial.84 [86366260ea17732208a404107eeb3466f5eda9f4604e8428e7ccb81e010fce5c]
 │   ├── c
-│   │   └── bat.trivial.zip [82a579d61d844e96b933420c5886e7f56792fe70a3c74fc10a402be4c7293448]
+│   │   ├── bat.trivial [7b7817e0d68e9c29cabb6801c5bb81d1a03e2e00357f37096c2fd2a625d22c57]
 │   └── d
-│       └── virus.bat.copier.zip [12af43442de8ffe89d41c41c8e0949e9429c86b9276a3776bbd9e86867ffbf34]
+│       ├── virus.bat.copier [b3ae301510f86c09d382a7539a4d88b8e1d4bdc5674ed38854de70475fd055f3]
 ├── smf
 │   ├── 121
-│   │   └── bat.smf.b.zip [f1cc9e8901d5cfe579ec1c3a08a9af6fa9fe8980124c6c1e7fdb175b39b042a3]
+│   │   ├── bat.smf.b [5ef5ef4e04f8d1b8bbc349465d576a6cc727102a0781f46a27c9d4a52eb2f243]
 │   ├── 137
-│   │   └── bat.smf.d.zip [50f045ced0687cf1b5a7d94aadb20a43bf01be781347bbdfd656e479e4ef5e21]
+│   │   ├── bat.smf.d [f78c158b8172f6110775cc18b422df13202528fbd92a803df7d9fa088bbef0f4]
 │   ├── 166
-│   │   └── virus.bat.smf.f.zip [6eb31ff6662e34fa3faf01563b94716010c969678c51c53623a7e80d908535db]
+│   │   ├── virus.bat.smf.f [71babe8d78fef5b1a8e55eaffc4baff25ea085f3c8d54812dbb6790425fccfc2]
 │   ├── 266
-│   │   └── bat.smf.a.zip [d6a9266871853e6fe5ed36c7fa92b707867cc464ec93f689c48d2bb42f2a29ab]
+│   │   ├── bat.smf.a [2ace9115e775eb2219c12866ef8f676f834c3f62fc4274f174b0ea11ff60a06f]
 │   └── 301
-│       └── bat.smf.g.zip [3cd15e69828fc0b406c9eab7ac28b7c52b7846b8f14fb63268230815c9242601]
+│       ├── bat.smf.g [6ef05fa448be996f197ae79b6444d6f55f38e5ea1ceeac0257842c4bc28cf959]
 ├── smilp
 │   ├── a
-│   │   └── bat.smilp.b.zip [94e61f0200248069ce02b6b1a6ed0fd4e886f98230ab05c480672801a88f1308]
+│   │   ├── bat.smilp.b [842b9ae607c41be9f0042003d770a6d4694fe3b310c5b616f4d76332f840e80b]
 │   └── b
-│       └── virus.bat.smilp.a.zip [dd0655a5c67ab37cfcbc8543fc069ec9de70851b2ae3d74e905e09dea4e5a94c]
+│       ├── virus.bat.smilp.a [6ef76320c3dd3006caaa4dbc74e549ed05c875308b1633993ecac7d18330ac32]
 ├── smoke
 │   └── a
-│       └── bat.sbvc.b.zip [9247482c89e8c4a3075ec5367d510819def0634558c3776c1a6fa22fe5ac0d7d]
+│       ├── bat.sbvc.b [79608409e58ca03d109e96a922bff2077ae50cbae565fe78eb75381802c47522]
 ├── snake
 │   └── d
-│       ├── bat.snake.b.zip [225ad09e71d7f8e0ccd916d2c986216f1e704f79c02fdcfe8489158b2a776a39]
-│       └── bat.snake.zip [10c153bc148c77fd4a9316087f963e16a7d32bc1626f006741735b9b57e17b25]
+│       ├── bat.snake [fedc529062479ae95e6de67bad0cd760cf9e41e91a628e684a8fdfbc2f177656]
+│       ├── bat.snake.b [fdd42d4fc715500f24acc961c5fb93f2c831b7976a7052ee79c1c6293befd85a]
 ├── snotkop
-│   └── virus.dos.snotkop.479.zip [65d902df9f285be7aae63dfe34b58930f958cbf1ad518cac27235d2b99d49dda]
+│   ├── virus.dos.snotkop.479 [c1c59f5a238046c1c3b3341744a106f5195a7c7d7528502a5d8dcf89c01e84d9]
 ├── sob
 │   └── b
-│       └── virus.bat.sob.b.zip [9d8242231303ad92f183e6fc8a59d5e73930d0d807207a5e99439d8087d999c9]
+│       ├── virus.bat.sob.b [05925d3e0eb24ebb8a8cc6d1ad82832257ae891b00b2bd681534de4af6a11e04]
 ├── sobachka
 │   └── b
-│       └── virus.bat.duke.d.zip [02587dc81bcaccfe63c68d4277b6795989d763d1bf62417ce37242ac86c30058]
+│       ├── virus.bat.duke.d [a4f4c90a065bf77eee939671505b6be0643b471fecbbbabd5c0549fa4d106146]
 ├── soliton
 │   └── a
-│       ├── bat.soliton.a.zip [6a58497f68d34303b99d118185c16edbf6d58cc5e304c1e74673b796375c5902]
-│       ├── soliton.b_t.zip [7fd467ba63cdde4150f332dbc41300b4883cc5b9a62d407115eb7a4299fa6ac2]
-│       └── virus.bat.soliton.b.zip [fc27fd7fa9719fc4bd30d919cee71e968e72e4662a506b8e99dcb49d06d61767]
+│       ├── bat.soliton.a [b0ac6ecb9c059fb5374163d0966ef831d899e61bca868ad7d7c1e1244e3cdfc7]
+│       ├── soliton.b_t [2b10ae7b1a1001d5cef98d813ddf9e34196ce4b3d0970a6e4ce7128d5b8df929]
+│       ├── virus.bat.soliton.b [f37448bdce8ed38ac949f4d016d4e2f478ee78842478356f1bbeb0541d64f6f3]
 ├── steel
 │   ├── a
-│   │   ├── virus.bat.steel.278.zip [83b6e5b271c571c66031630e1a6898f6ffb4131bbde3b37bacc4e7030a30f4b1]
-│   │   ├── virus.bat.steel.357.zip [3f2784b5adbc091530a8bd2df7fe9f83ac7df6621c0c5df142a9520349973d05]
-│   │   └── virus.bat.steel.a.zip [12baeb6c1bc217c848b0b0b73ef1657895f143b6557453ec015838438e6ed3a8]
+│   │   ├── virus.bat.steel.278 [fe334d055f9199d9632fcdf8b41c42b4c3fccc3231cd3a9a657df167e32008fe]
+│   │   ├── virus.bat.steel.357 [238d1ea8b56f16f8422cd6acd04d00b5b3521241bf1640d5903f88f2183e49ae]
+│   │   ├── virus.bat.steel.a [4cafb3455ad4508f2cbf801c41c8cb1ea843f502370e043438303f683c164a88]
 │   └── d
-│       └── virus.bat.steel.557.zip [3185767315f78982c3115c255af833766d54c9cbd0ac8c7cfd8768fe35c8817d]
+│       ├── virus.bat.steel.557 [9849a29a2001df6187358aacf821a5c2dd44a55dec0564e819aca6a4e3c233de]
 ├── storm
 │   └── a
-│       └── virus.bat.storm.zip [4564e25c50b5921350aa85369715dfc6e4e70bf56c2658114aefda6f7491fa23]
+│       ├── virus.bat.storm [8d50a98eecba7122ba28b88cda6393063a5cfa5bde9a11156d7ac20c5f7496ec]
 ├── stormy
 │   └── b
-│       └── 458.vat.zip [23f5d562ca6f6e9e95167151bc40e3dcf50b542674d05ce62ceb96c626cac2a4]
+│       ├── 458.vat [f58b9c77d16094d51aec0c3060053296ec1ad525146e601273ff15ac23396147]
 ├── stupid
 │   └── a
-│       └── origvir.vat.zip [b1d220846a9cf2c747374b56be6758390c1bf0926d9b4a859d076742ee822fed]
+│       ├── origvir.vat [457c930478271fac7586be636a154ee1ca243f397a2f740994c2330b6dbbb9b0]
 ├── subs
 │   └── a
-│       ├── bat.butter.a.zip [2f2a866b147429ca75383ca7a3f0eabeaddb9beebd444d0f07e29cfe944afc21]
-│       ├── bat.subs.a.zip [9f95766e290d346185897fc30582747be4dc717b92c63954ea45155ed5c97548]
-│       └── virus.bat.subs.b.zip [f5e1873a892d4a961c139fedabdb824cfa31bf2f38f309d1245435c47a3b786e]
+│       ├── bat.butter.a [39c30805f24059008c430dedbda8d9a5e841dd4bc60e407aa5a5aab696e88f25]
+│       ├── bat.subs.a [a7db1836893ee79c668be648a98e49728c2cfc5aa1140b073bda179d1aee6c79]
+│       ├── virus.bat.subs.b [101cf843b6f0723dfc2b689f348378a3cfdadaae4bd085d87a71f09a0d6b2e96]
 ├── super
 │   └── a
-│       └── virus.bat.smf.super.zip [cd8098cfc5b5c0449b1b7cb6a9b992069eba0aff52426dbbb66b6c3222bfe512]
+│       ├── virus.bat.smf.super [25dd016f950631b21d225c4d3ef7d4be291916dd3c6614a20243f9ce26467382]
 ├── sups
 │   └── a
-│       └── virus.bat.sups.zip [ebacd93b9561c9e5ebe22fda16ae5cb1490da173137bb213c4e776f84d0480f1]
+│       ├── virus.bat.sups [741bc940a2b1a8488d366a7d4a132bfd74570fd742be24c0a7d21a8c457f1df6]
 ├── sweet
 │   └── a
-│       └── virus.bat.sweet.zip [2190f677c7a3021c7ed09bba6e0a78409e4aaf94db573df975073624c43cc636]
+│       ├── virus.bat.sweet [f8b40c2e5aac3dcb04c18a19e8453fa1d40833b4977ef043362d06992934f054]
 ├── swing
-│   ├── swing.vat.zip [b8fce3d57cc45aee8396d86a5e578386d3be029c31ecdddff9faa5dfdd19ce15]
-│   └── virus.bat.minus.380.zip [465f9a2689570bcd6a909beb5d609c5aaf14a5b47ec6dc2da83826169c0cda59]
+│   ├── swing.vat [eaa8009d441da9b16b37e0bad953465bd9088e85dfd15ceb0a0fd97570adaba3]
+│   ├── virus.bat.minus.380 [6e2d239228c677c66bca85ca9e3f72fbd3b9fb040cda94470ea74d26055ce53b]
 ├── sys
 │   ├── a
-│   │   └── virus.bat.sys.a.zip [ee60b2d26c1381e9506300f995774fca7cd799edf6933ee8548ac4542f0e887b]
+│   │   ├── virus.bat.sys.a [85580dd46797163173a863e2243c570bf42a13a6bc789c539bf0af6233ac5b3b]
 │   ├── b
-│   │   └── virus.bat.sys.b.zip [32b0cab98db8eb2f242a9d5a2829589a313b375e2b67406c733319c2a9725633]
+│   │   ├── virus.bat.sys.b [f9752deefdcd4e84fc710efc81a02a4b9ec0954faf627d39a7fb78bbb893cf6c]
 │   └── c
-│       └── virus.bat.sys.c.zip [a643d2f84c5e788c82e98c7d79d9a67a7cb9ffd9113302c2cc4afbc3fcc55be8]
+│       ├── virus.bat.sys.c [e71aea04fd3d777ec4f403a26535bf12342e12e6272d49bd213f3f21102cff40]
 ├── tally
 │   ├── a
-│   │   └── ansi.tally.txt.zip [1e9748d32b1e3034355c4eec8ddd056855d7f1984465f45249760dc6ef1c67d8]
+│   │   ├── ansi.tally.txt [068e885ff81e9ea0be43cc29cbe0825336f319477a2d19d423abf46c221817ab]
 │   └── c
-│       └── bat.tally.216.zip [ab72de83db5d461b32a1ed062ee5911a7d04ce4617d6760be5601eeb4c4ed241]
+│       ├── bat.tally.216 [dc4cf5200ce3faa83f4566332bfcd6734654d370d50a7af7424edd53695d2e1a]
 ├── telo
 │   └── a
-│       └── virus.bat.telo.zip [5eb6d907cc81a3ccdd4fd0bfb418b111f3bb84f60c8e2df8054775cb03ae74f1]
+│       ├── virus.bat.telo [273c07eb660be8cd6d098f9ce179410dbd489cc19991ff7cce840dd98526b934]
 ├── temer
 │   └── a
-│       └── virus.bat.temer.zip [07d23b28b8f791d263a8bd979b375fa26e53977287fe94d13c98f9abc2eb285a]
+│       ├── virus.bat.temer [960eb5669b394474b0688a5be643035e46b39cb99743650165302601a2c45987]
 ├── tiny
-│   └── bvtiny.vat.zip [8fbb718ed3120e3a70aabb203989a140b835a5e83c1df09e8460bc125f24f9f6]
+│   ├── bvtiny.vat [6b92e3c1ba5790266c85c63430c616fdcfbc2dbb65feea8efa148477c1898101]
 ├── tnse
-│   └── 1519.vat.zip [0bd053626e20be1e1612d334de24a735613eac1790cdb022d6be9271733b39f9]
+│   ├── 1519.vat [86eee6327c451b60f91009df8c83f1d197b095a6752f7dbd49c7bf4a97bda681]
 ├── ttt
 │   └── a
-│       └── bat.ttt.zip [4300e5e961245264462b7140595d6254eaf01bb67a6e2a8e7f3501663ded8f59]
+│       ├── bat.ttt [1902dba2b80bffef1fe7aea31473d74f366f227a8df8f700ffc2162062706492]
 ├── tvang
 │   └── b
-│       └── virus.bat.tvang.zip [5f267e53f12d6525094a38f736df41198fd85e3d9b9e9a437428307894b12078]
+│       ├── virus.bat.tvang [96d4ac9dc52d3a8fca2a79778dd8e9339787224831ecf6a0a8b7e10383063d16]
 ├── vbn
 │   └── a
-│       └── virus.bat.vbn.176.zip [d313e9241d56cddd4d791f6fd112c628377eb7fb52e4a63d42ab130bab85f851]
+│       ├── virus.bat.vbn.176 [172ad9843289ad08cc0de272bbfc4cf1d241b0f920a94ae1c2c6f0bc0c9ba48e]
 ├── vdv
 │   └── a
-│       └── virus.bat.vdv.zip [2fbfa9a94dad29a23289a2c52412a254674ef6bd3c8f3ab909aeae4ae30f6e7a]
+│       ├── virus.bat.vdv [49f49d476e09eec206cee2f1722490c34cfa75e2f72fe9265942626ccc49c6ea]
 ├── veter
 │   └── a
-│       └── virus.bat.veter.511.zip [746a4ca4fc4e847d29f2511a90de4ecab46769856c05818c58a7c8e46dc1a642]
+│       ├── virus.bat.veter.511 [f5ace0b5b07948ce2c409c1a5734b159cc2c1d3e221ec917ec47e35a8b36c2e7]
 ├── vir
 │   └── a
-│       ├── virus.bat.cheezy.325.zip [83f510c0be6152ed87a1f2d4ce415ce8541163dcde46be14f628250993d9aab4]
-│       ├── virus.bat.vir.b.zip [a60604af8005a091d2e267c7882953979f9dc46c674d01a805411f223ec95bee]
-│       └── virus.bat.vir.zip [171546a5bd890736d6a7ba8b39db7604c75dfd69fd5b27353c2b03df21e056ea]
+│       ├── virus.bat.cheezy.325 [3f6d84ebf44b29cada46a8b7503fa8bfbcd47f39ae11906a4441642a3a653dec]
+│       ├── virus.bat.vir [2b6e2a1e187d185dadba0874aea98787963de7842c43c667cc32431b465b559f]
+│       ├── virus.bat.vir.b [5e26da58c87b8e4ed1c8f52866bab9803a75bc44abe880e48caf7a2d8249b5fd]
 ├── virh
 │   └── a
-│       └── bat.bv.virh.zip [58f3819ec40ad260900858dd2bffc5d9ab657e67b95f1db5d3880e0db9069e8a]
+│       ├── bat.bv.virh [0b316650800f658a60dd4e0996089ff84009c0b59ccb1958634ac60d33edca84]
 ├── viz
-│   └── virus.bat.viz.zip [1aabbfdc9066fea4ce2fffd8c47508aa2ff58ffb186651b76b6c05d5bd641167]
+│   ├── virus.bat.viz [279000fc51748b3e0fb170901c6fb9157b47097c683cb39c420a8ab5b92df4df]
 ├── voff
-│   └── 1363.vat.zip [5dc1eea025cdc430e73dbdd6ea093c398c8608a28fb3317608117322647a12d2]
+│   ├── 1363.vat [24d09b7107f0c5c5e09a1b6123cb7d0651445fd96512a49532aecfb8aac61ecc]
 ├── vr
 │   ├── a
-│   │   └── bat.vr.b.zip [278c2a2637b1435f7b94743ec094c0aff1c7def224b46911abcf040a8862e4e0]
-│   └── virus.bat.vrs.zip [f98d6eddd54115ba50994783d26fcd0fa87f6e098fae4ce90e662aa4f21f77d6]
+│   │   ├── bat.vr.b [0f7c9e1d31831ff8fbb2cb873aca9064eefe44a56cc414a6f0463a288a825f4d]
+│   ├── virus.bat.vrs [65adfc2823c9f5a195f3c5a2c53df21e8e76a1d33d591e40ae891d2998799ff1]
 ├── vvw
 │   └── a
-│       └── bat.spth.vvw.zip [8dc62ba1b285ece92a6d78fd38c82cfc7599b082e59829153a73327415955629]
+│       ├── bat.spth.vvw [4cb18dfa3fc3e22683af5b31fb99d82cac6a4f41bb9fae92871b52eaae5d3505]
 ├── vx
-│   └── virus.bat.bv.vx.558.zip [c0d003b8fac62902be64725b9b03a47a4102452b88e2924bfcf74e7e2be3d4e7]
+│   ├── virus.bat.bv.vx.558 [cb25f67737d55d5197703215660e1ff5905dbf574380b5e4e48b5a3d92e9edc1]
 ├── wally
 │   └── a
-│       └── virus.bat.bwg.e.zip [2af3787347ee3c8934b9f08e23abb795f62680e753c830777ed99f1d87c08c21]
+│       ├── virus.bat.bwg.e [a2bbd1fef8c412e2a8d1a715e3fc37bb5f73f16535c0758931d151b4bc8b1b9e]
 ├── wincom
 │   ├── b
-│   │   └── virus.bat.wincom.b.zip [ee45e3ca6a9a5626960bd4bf42d9e9c6bee355b841f71b8fa9a99ff6df9dde1b]
+│   │   ├── virus.bat.wincom.b [13de175f425c7e4ee7b93d483bcc8b34f01edecd7c03fccc03e9e0364720edf0]
 │   ├── c
-│   │   └── virus.bat.wincom.e.zip [ee886095bc031e519bdf99c4b1ec643f2d257f7acfd2cffc60d1b3939181e054]
+│   │   ├── virus.bat.wincom.e [17b927939f96ff09cced44300e89e1501e8f8276989900e4eba9cf0b1bc09608]
 │   ├── e
-│   │   └── virus.bat.wincom.c.zip [3ed176e91c94dba6af7cd66f794198e39dd7bc87d55974d6d90606f1330aae24]
+│   │   ├── virus.bat.wincom.c [beb0fe5ae6080a861de7fd87c2349e863c81e92c2a948927ba677f5e8f0ebffd]
 │   └── f
-│       └── virus.bat.wincom.d.zip [5d29a4fd39eb07fe9ea3b9ad0d29cad0ec1428a2032363aad41eb2b3b9e439fb]
+│       ├── virus.bat.wincom.d [fe364ee5e93ee1703269b7b2883b348f8229cf8d3f8942cd2844144e6cc10f07]
 ├── windir
-│   └── virus.bat.winrun.691.zip [c163c061787701ced9ba0755c058ae619f39aa2d595f252a516064fe5184c796]
+│   ├── virus.bat.winrun.691 [e5faf813f2c2a08cda2715b2c24e45fbfb9c4080c0a40442d2e934e7d1b25dda]
 ├── winrip
 │   └── a
-│       └── virus.bat.winrip.zip [326a7d898c5e5027bdf70d4a988d39d6634d5d12e533c6b3b59938853e51ad3e]
+│       ├── virus.bat.winrip [05903da49e6ae46f60d09505fb9779cb1850ddf67d2cdc514b7350a557018fb8]
 ├── winstart
 │   ├── 296
-│   │   ├── 296.vat.zip [ae49fa5aa6a86f6da9221d58a25e5c2a09a7b5ce3df485c0d75ce4a84f8ffdff]
-│   │   ├── 297.vat.zip [e43b036ace2ea5b08e929adee90ef73561f2d995d6715a7dbd7fd5b95f36cb11]
-│   │   └── virus.bat.winstart.f.zip [6dc50ed3756e28f402284db2678abfc9c2be5ba18d66f21539e4f15d718d5c17]
+│   │   ├── 296.vat [f78ae49303070c9c6710d981c3c23237ff3bedfb4148a427c205a50cf8d7d948]
+│   │   ├── 297.vat [20a8f632e9bcd31f15ba62f2102ceb9c433a580c3c05b976390735d07c33c9ff]
+│   │   ├── virus.bat.winstart.f [2f5a726d735dc6340824988323576e9032a0dc20ce2251c502ffa605a0e88c6c]
 │   ├── 303
-│   │   ├── bat.winstart.320.zip [fee9c9ebea28376dc3505023d571c8dde757ce858b2cf3980e8be85f7bcc7525]
-│   │   └── virus.bat.winstart.326.zip [df98bb5a5c09539f27accae107582604f9fc5f78ee5d323dd937136808278ceb]
+│   │   ├── bat.winstart.320 [242f951b0aea00c267cffa6dccaf2a14454f5c48803eea4c1dd245bde8e6eb2d]
+│   │   ├── virus.bat.winstart.326 [df1918539df7b685fa1ecf2d6fcf8df2399fde15886fbeaaa7d0b2cecba85bfc]
 │   ├── 305
-│   │   └── virus.bat.winstart.e.zip [5778f59964d6134e75317f1b271390bdda1bdfc88d9ba0cba9c07449bc242df4]
+│   │   ├── virus.bat.winstart.e [319a45fd53e455c036bd276921461bbf84bd3b3c4e2809525b72133412081b89]
 │   └── 768
-│       └── virus.bat.winstart_iii.a.zip [bda2d84120cdffcdfb0f2142bd74587d19d1be4a161f8c032197f3c482d0ad0f]
+│       ├── virus.bat.winstart_iii.a [d28445ddd06a46cb9332a698850fdb880be418810898fa1e210c16fa4b74ae2d]
 ├── wise
-│   └── 2233.vat.zip [3f615245b8ebff95cbc716226a83d86f526e3c6ad5b28d1600b46a70642b5b28]
+│   ├── 2233.vat [0894aff2df36587f4402a6b5c4970357eafaf3bbc83879563f898df4f4f26c54]
 ├── wlf
 │   └── a
-│       └── backdoor.win32.wlf.dr.zip [e1def71c9d8a9507767a2fb1370315d9a03163d5d9f969a93a75f1d320d23f82]
+│       ├── backdoor.win32.wlf.dr [cb26ebe4752f060c457229b4d89f6e654805d653d43c46371c734e44db503e9e]
 ├── worm
 │   └── 185
-│       └── bat.worm.frizer.zip [e73b3d39a8755357ee53534f08328a325f54ad5d74dd8f56f3bfeb10f4be149e]
+│       ├── bat.worm.frizer [01d2f36cc388141d9fbd6af6c72f9890de9844e403b62f24a7d4fa5b7e8f604c]
 ├── xop
 │   ├── a
-│   │   └── wci03263.vat.zip [bba15e52d43b7003159c8107ad25c2ebb19b49152cce15b34aebdee6545f977f]
+│   │   ├── wci03263.vat [23b9ce06e7dffa3c38645de666b79e5ddd8dea0f922fb0d0af1754485b897fbe]
 │   ├── c
-│   │   ├── bat.xop.a.zip [1abd91fdd39c7ea4a1a019254ba045179cd38563cfcddfddc152582cfe2b82a4]
-│   │   └── virus.bat.xop.c.zip [acac416e0f7dbd13271fb89ed3ebcc173ab3fbb66669924961888040f39878ab]
+│   │   ├── bat.xop.a [8ebdf54763269bc3a0ddfbc20ffcc2871fd6037148886e4f6fbd724fcbee0e71]
+│   │   ├── virus.bat.xop.c [1dc581b0d135ab2cd97040ca2864ed6a6491e6dd682a0a427cfa34c4bb1380a0]
 │   └── d
-│       ├── virus.bat.xop.b.zip [10ed60d8538ea722f96a88ac9945472f34ca7582a01b8c32b65c0234f8c04da4]
-│       └── virus.bat.xop.winstroy.zip [0bf477e3cad359f49e28477acc5183e43933ccc96db2dc6ac006d5c27b0dc9cb]
+│       ├── virus.bat.xop.b [245c338baded9ac4ead0882a810b880963ab2d3ac2bfbd5da8d887f76bcf0ecc]
+│       ├── virus.bat.xop.winstroy [2f88314b160f1853881a2ad41e8d7dbb0cf6284013a06154b6e96a60b61c4c00]
 ├── xp
 │   └── eman
 │       └── a
 ├── xpeh
 │   └── a
-│       └── bat.xreh.zip [acda7947db6a382254048e7c4945148e8c68ab1d8bab80172be7ad71f4fd3d71]
+│       ├── bat.xreh [25ec3ac28ef525bdb0599bf02340601b64e862b4a466c276fc4798d13b2d36a6]
 ├── xpsaturn
 │   └── a
-│       └── batxp.saturn.txt.zip [c4c08028d85ba1b279c48805eb9c71df71200467f6c6e3265bf17ba3557f97d6]
+│       ├── batxp.saturn.txt [11b1ad689ddfcf8c854d8cdb382ebf3c18d338b12855570f5e20bb94e7bd9d0d]
 ├── xyj
 │   └── a
-│       ├── dikshev.yj.415.zip [e01e6ad9f329b8d0da35b2ad4e4520b26d47da9d1533c90544458121da1b6093]
-│       ├── virus.dos.dikshev.yj.404.zip [65ba19460ebb72e86e02dbd9ed1bc4ff4da8e0d208d300dc82999cc9eea6fe48]
-│       ├── virus.dos.dikshev.yj.414.zip [3cfca72b0841018dd9460a0f90a8b80090c15ee12b95a1d16b326f3dd51dfa97]
-│       └── virus.dos.dikshev.yj.427.zip [31ce4078c49d417e2e35f431ca2a5e237e35f0edb45c9cf4f28199cec1d7248d]
+│       ├── dikshev.yj.415 [4a80b4f85c5da2fb3a0a860af2d279333f1b093e2ba275be3b09afbcbdc0e848]
+│       ├── virus.dos.dikshev.yj.404 [b4880458882642b6fb7c799f9cb990a7948d5dc42a0de2f1427823f3f6362b4f]
+│       ├── virus.dos.dikshev.yj.414 [a7c60616601f566f14c026d759c1e297e3eb96428301d1ef7ad57677cb52c76a]
+│       ├── virus.dos.dikshev.yj.427 [35c4368ae28175a4fbef8c1613209c853706a242332f5c29342435c3662c4d3e]
 ├── zeke
 │   ├── a
-│   │   └── 324.vat.zip [c566b938dec18929e2b8c05b5b7d256f0a3b5a273ffa582b0740e139a4b68251]
+│   │   ├── 324.vat [8362dda74651140b5ab091027086956cc82530c0a086cea2fee547acb756f404]
 │   └── b
-│       └── bat.zekezip.zip [91ec17c76d6999cc2a578fbb45835734347f7035390b428ccef638bf563f7be3]
+│       ├── bat.zekezip [57d7172380c0ba28ac2e8f0d4819d10fd94096a05ebd015417515db60bb0aef2]
 ├── zep
-│   ├── bat.zep.zip [fd0e0858c67d79dd827b0034c22dc9f7f8fcae488aad0ad547e41837721c7d48]
-│   └── zep_ans.vat.zip [6a4bf369a652ebadc9e4d01a23ed34ddd380863d72b8e86212b13557dbe538df]
+│   ├── bat.zep [22dbe8cb38e51146b26fbda31c9aec15bbbc4272c638e2dce9aa46b94cc65e44]
+│   ├── zep_ans.vat [69e2f9e3cce25fe99d4ba73b2d506e04a0aae62ac93ed111a6a5329282f6ffed]
 ├── zert
 │   └── a
-│       └── constructor.dos.zert.zip [971ba80afa7b342eeea611ee30f6c766dfcdcf3ca4b93079cd949433195d6d49]
+│       ├── constructor.dos.zert [bc7cec0ef130a1021de8cdb5b661e5280982ca8b539652e2dbd8c17b05f04035]
 ├── zipbat
-│   └── 607.vat.zip [880cc53fe993ee434cd409a53863f846659b2d87530f14f59066dcf6a24d16c4]
+│   ├── 607.vat [bc654131f2d309af86008a44daa9aaf42d6e450b3423f3df7d1fe8533f367870]
 └── zopb
-    └── virus.bat.zop_b.zip [796523c1cdfe57b0f77540af92678e73935940780fb9df9015f2a07596d50248]
+    ├── virus.bat.zop_b [661652a4028edec9cb2b6082e29f08f77e5f67ec8546c005144852aa1a77d52e]
 ```

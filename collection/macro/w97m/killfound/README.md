@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.killfound.zip [4e1ed05c209d92c2b1982d720c9a347ca9aa7a06de24b5a86bb95be445748361]
+    ├── virus.msword.killfound [f80f65a7cdc8df9d680d2f9aaefc469153c06b0372a5a219115eb9182b75d874]
 ```

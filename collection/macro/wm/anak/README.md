@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.anak.zip [608ee1fb6d5aac92e645495b94bcc821ef8f8bfd8c721badf32ec98179d6d00b]
+    ├── virus.msword.anak [e37e225417597883f1a3b3d2c0177791fa9503d56f7c4aff90b8b017e313c22e]
 ```

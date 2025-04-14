@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   └── virus.msword.hog.zip [b065567f245b625f84981682e842d4616c988f2988f6009fee48395c478316e8]
+│   ├── virus.msword.hog [487199dba76f5a58c5c56df8f6b8fa44d64b0b8a32732bf8262696101121910d]
 ├── b
-│   └── virus.msword.hog.b.zip [90559a5f8da28145291f94a4a2e8c41619558f2394b85fc38593e28e7235bfa6]
+│   ├── virus.msword.hog.b [b7f5f8ff5a3a5aee5cc0fd87f590f140690bf2514f2817e93c52d25b6322327b]
 ├── c
-│   ├── virus.msword.hog.c.zip [d6d07bd09a8df41d94a5fbe1e2687a6f7f8e48a9be5d0d592ff2ea38180a0c3e]
-│   └── virus.msword.hog.f.zip [d1516c23e4b62593d57fe0275680e2b600460ed37d24e4a81b75de25a16b0472]
+│   ├── virus.msword.hog.c [46684e4d5c3315bebed5ed7dbaac50fd779df6df9e209015cdee535947ff8251]
+│   ├── virus.msword.hog.f [47fc695cf78f07592ac907a03fb07f8a8d8fc44100010a33b0a9cb8dedb2337c]
 ├── d
-│   └── virus.msword.hog.d.zip [53a3adb78d10eb2147b1b3651d611c5525b44a687c09964dfddc9e0dc5609412]
+│   ├── virus.msword.hog.d [2e5c97f20bf921023e414c33a8fdc07e412d28b7a536cbbfde8ea2f5d941e82d]
 └── e
-    └── virus.msword.hog.e.zip [606f0b7110ff8afc5710c80efffa8d3d0453f628566add35d98ab7993c7edd48]
+    ├── virus.msword.hog.e [72b566bc51616d2388d138d7982f5a7e5086c73c003d8b5b6b02fbde434b6ad3]
 ```

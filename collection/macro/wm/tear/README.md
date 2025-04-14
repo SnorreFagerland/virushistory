@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.tear.zip [7a077a506ab5b7a5e1a5762758af959c0bc20cb08b2c8a0da11be8a78b7c122a]
+│   ├── virus.msword.tear [f6435042516b52bcfb97115ee735137df6f4b0e892db0c144ee937f0ab11b5c7]
 └── b
-    ├── docv.doc.zip [327afc23802d34e8199f91cd80c5857d1e8a193e21701b5f54c109c7ccfd8f63]
-    ├── tear-b.doc.zip [8d52a57a9139e6772df68c9fbdde959d2cb56d7f4a1d705a5527bf44666559b7]
-    └── tear-b.dot.zip [4feb60d1ceb73d16a116ae17caa537abaa74175d52d1c46f066f3bfd0780da8d]
+    ├── docv.doc [83098d3ef7891973a3b28ad1eb472e8151a3d517ee07b5e24feaa3012c687b3e]
+    ├── tear-b.doc [a6241143591cca7e50ff4a812ecaf1cebc2cd16dde610b12eb6225d284d4ca62]
+    ├── tear-b.dot [fcbf345f6c08a273b1f2338f3c69c7bcebcf0053d0626ec88776edc934b071e7]
 ```

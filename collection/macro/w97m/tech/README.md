@@ -3,18 +3,18 @@
 
 ```
 ├── a
-│   └── virus.msword.tech.zip [5a1c658c76c65c24d43ee4e5e87d4fc5d5b6eca2dc542521085b5a9b2b636009]
+│   ├── virus.msword.tech [149d9963e587c1796f70f6c2907064b350ed4ad8e0633c01b54902954ad5d09d]
 ├── b
-│   ├── tech_b-001.do.zip [7672ce2e8d4e9769cb319aeec3d74e9737d7da84bc8224d2847026da15bb86cf]
-│   ├── tech_b-002.do.zip [700458ff8cff48ac531f12b3e1ff93f44893891ad70c20f6dbef58082e8d9df7]
-│   └── tech_b.do.zip [1bb8ada22001811f8953daaf4b9c8bda788dc6cc787665f5819f808325fb4a0f]
+│   ├── tech_b-001.do [79c5cd4d7e434f2a3c755432d87c6dd96ea862a11fa8bf98769be2039b07eac4]
+│   ├── tech_b-002.do [96a96cca8e12d0e2a8a391e45512654c9990e90d449fe28d6b77bd691a4e5a72]
+│   ├── tech_b.do [603b925c4b0c1c128c6bc536361e6383322e515c9d46bcc9a78ff34cbff98594]
 ├── c
-│   ├── tech_c-001.do.zip [1e49d86c97bdb4c00642254084d7a29dcf2ed1a89abee819a72b0533acb3bdc8]
-│   └── tech_c.do.zip [4445164252c27b02e5148508f38d46693632fa11dac0bd0fe9192f787c506a58]
+│   ├── tech_c-001.do [6cf2538cab0d1b8e67abc60564dba89789afb9d69d7ab23692e3eec41e6da303]
+│   ├── tech_c.do [4319302f7d45f57993e61cd0b58c8afeb365e1b7d6db12e9d37d09a28ba08a1a]
 ├── e
-│   └── tech_e.do.zip [b8f1759b26f2c92b40243807caf4c87e96133d449757719d32f1e1e1b3b0e9ce]
+│   ├── tech_e.do [6025176448fa0c009bdc9e746fac347627ab8cd18d33655bc1e361425ed6b6bb]
 ├── g
-│   └── virus.msword.pvx.zip [70e9f19ebe8206ea1cad57d0adb967cce7903f2d95a6e836198c3201727b5cfb]
+│   ├── virus.msword.pvx [6d61fc3b054b0e9b85c37c05d62e758fa1f2671e7e57626efba53ffe2b0a0ba2]
 └── i
-    └── virus.msword.imagina.zip [c80e084ecaa2cf85c2e725b2b7bdcf26e6972e23839be219ce69945ebf5519ae]
+    ├── virus.msword.imagina [5d0528a2bc480729cdd6f665416d0cd461e93425bf5fb57591f59332aed70e65]
 ```

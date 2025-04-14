@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.msword.hawk.a.zip [93f6fa4010736be5089cf0b5f2235950344b9b3737c3ab4ec68475351cc40929]
+    ├── virus.msword.hawk.a [157a1e218b18422c6fb7c750255d4085fb24dce30bf4d59c4a0bed91816e2571]
 ```

@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.cakes.zip [f05db49c3e753399d7fca63ce012a3ecd59d8892d45d00e8dc44643acb43b7e7]
+│   ├── virus.msword.cakes [f94aced64406d1092256a20b590f1b3886a60ac010f4c412bb5cfbd62d990f42]
 ├── b
-│   └── virus.msword.cakes.b.zip [0d01b66535d27b6c56f963d0a44ea9b0bec53d57d3fe329037abfcfb4137a851]
+│   ├── virus.msword.cakes.b [edfab47ee698d5cda04378233198b8ba9e6196d728fb8a64b1c0ab689fe4ee34]
 └── c
-    └── virus.msword.cakes.c.zip [2adcfa815a409154b76e227af5cdb938207cb63c850bb8b33398332ab9f6ed93]
+    ├── virus.msword.cakes.c [d1557bac6cd6aa1ef62ce1328c8f78b9c486a8a882627f230ecbcf5bdb42274f]
 ```

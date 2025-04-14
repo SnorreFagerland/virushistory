@@ -3,17 +3,17 @@
 
 ```
 ├── a
-│   ├── replog_a-001.do.zip [3e79e3ffd09fb40c3cb949c0a2214374df2fdbb04fdbb478d4ba0a4da1443f8d]
-│   ├── replog_a-002.do.zip [6e7a5515de782012aad7c58fa15f009792721360a350c9c198185b87857e2775]
-│   └── replog_a.do.zip [9b7d7c9c4a9fc9a1d4ee37592b0803328e92aa90149feeb7b02a642a72beb602]
+│   ├── replog_a-001.do [eda3628b3ba9e2ebfb0f71119314567bdf1ef0d61e7feec0abd4132cf2f2c0f1]
+│   ├── replog_a-002.do [c1e8ba8853ea423ddcb27edf8737414cec502dde346f73a832a7952ce9414ad9]
+│   ├── replog_a.do [35f2ae76d298f2d24db9e6622d197d2951fc99aa875f3a98030cece5c8e93816]
 ├── b
-│   └── virus.msword.replog.a.zip [bf116717dfa48db9d14b106aa78fd988f4e865a312819ae66fff063373ce616c]
+│   ├── virus.msword.replog.a [f07b8e871eed104647be1adac1a2f0cf251a46d44207b6e40e0af74207b53a60]
 ├── c
-│   └── replog_c.do.zip [281f34270a751dc529f2c93ba72b76a0b32a1427f8e45ac69b2c11faf7d5df6f]
+│   ├── replog_c.do [a2861c05b0f82ef6e974e2ee7f47634e86cadcc7701fd8c54c77e4873c9ce973]
 ├── d
-│   └── virus.msword.replog.d.zip [34caf992ae1696dc452d5a4aeee259e408f3e6972e63576bb594ff276f680177]
+│   ├── virus.msword.replog.d [fc4d3a3d5dcb5aa3b00def5b6f2bdf143b3589a9f68e3588a52d36807ea96264]
 ├── e
-│   └── virus.msword.replog.e.zip [811b4d1538eb1938dfb3aa0667d2466d70f84cdf3790a6141c68761d9be68e73]
+│   ├── virus.msword.replog.e [7d687ae7cb8a8f898a7e68704bf913907cffbaf33ed7c90fbed9d722d37b6e0d]
 └── g
-    └── virus.msword.replog.f.zip [d3d362980bf584216b2b354a49296a6c94fe5ca7ef8fe7f19886b0ba54a02dc0]
+    ├── virus.msword.replog.f [488ccf920de368b2f08e2ae87d86e1489fcdf6f523993f57dd38bdc87aaf4a86]
 ```

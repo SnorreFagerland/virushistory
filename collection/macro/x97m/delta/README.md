@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msexcel.delta.a.zip [83012c8ff109c27437fdb73368d7dc5f1ac669142c64d55cffba8ad655552e6f]
+│   ├── virus.msexcel.delta.a [a7664d16641569d388c1c80a736c4758424d210b6da88d4b8b9c6308e61a623c]
 └── d
-    └── virus.msexcel.delta.d.zip [ce2b7b2a5093b89794b81414f81ca722a7c68b4213496591a40759b044a2f499]
+    ├── virus.msexcel.delta.d [1f7cf81284c9158374ed42f6c00a5b461ec56a9da9498b0c60deb11562945fb1]
 ```

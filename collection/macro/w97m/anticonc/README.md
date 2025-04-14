@@ -3,6 +3,6 @@
 
 ```
 └── a1
-    ├── antic-a1.doc.zip [f3ab068ac15a65aef7f0d7d5405e706cb6738b6c2454d0ba4cc5670cc6b19b09]
-    └── antic-a1.dot.zip [707ad2f3ab93b28766518fcc15f0aacef2ebfe5072dbeace36644f0ccad027f2]
+    ├── antic-a1.doc [ece1e099c3490f442e056858091b922f2c7b1565980bf11a5b7c6c453595244b]
+    ├── antic-a1.dot [bb0eeee14e5892542ab6958a8efb95b293c288889405f604aa0cffece6eb5214]
 ```

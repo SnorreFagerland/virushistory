@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── percent.doc.zip [e3b829ddd72b87a10e3a7feb329342c00f06901f4f42924de5c165502688d0db]
-    ├── percent.dot.zip [5f720b83a2474df7a24b0db3adb5c55750f1acb528a4068a75e9642e66ba1f53]
-    └── readme.doc.zip [a0330b35439016540f474571bdb8196c817ec7e71acca18f634a56972bb0d7b4]
+    ├── percent.doc [cdca92ed28b9c11a86b4a40db7ea593c7f394cafe0c51145839b50a2bda338a7]
+    ├── percent.dot [ce799be29e6794d7e1bd13e8156bdef64bd0cc6b9602ed869c5657413a3dd151]
+    ├── readme.doc [04bd301f0e5864deb9d29c0d67391ee20d18a18ccfe51914cd8f0434fc4eb6d2]
 ```

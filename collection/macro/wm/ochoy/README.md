@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── ochoy-a.doc.zip [bf104eb1c5e61f965f21b7edd2f4e9b8a54cae413c690c77868e723e4ccb0031]
-    └── ochoy-a.dot.zip [304333b696f68cd4cac9c79c7d51dcaa2de75fc6b607cd80c7431f2f50147fce]
+    ├── ochoy-a.doc [1c63766a58362ccd9a3e658bab608b102acfdfc0f1c31507dffa2547b7941570]
+    ├── ochoy-a.dot [167036f7ec5bd08081d31a0e9a17b7f7476e57b148851773c329a0c997b61397]
 ```

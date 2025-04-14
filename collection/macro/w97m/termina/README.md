@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.termina.zip [f27a857dc6945742e633bd775a80a52c410c2058f76fb59922e87b9573cbc4a4]
+    ├── virus.msword.termina [c1aefd16a5b24717146b09ce3ef1ce89a6773ca2c0e14786f3e2b633eb4da735]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.fino.zip [2cb34edafc14c086e7d369770124d578934aa0997acd4a6235542392b6f3e81f]
+    ├── virus.msword.fino [d5d02d04b70bf6c27a358fa493f38f762e1a48bb9e342646aad5b5ebde92fcd0]
 ```

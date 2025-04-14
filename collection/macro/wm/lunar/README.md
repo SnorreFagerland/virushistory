@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── lunar.doc.zip [6e4526f7ebbb1a569a5ff1c58bb2526bfd33ab84867555efabf608b75c65601a]
-    ├── lunar.dot.zip [a8240a3c6e9b911446f5908ece33d6a369c9dc06c6e13ad67bd03c1e1608df7a]
-    └── lunar_a.doc.zip [550211514985a36780e7e878d735763b3db11fbe98127944bdc73bf911ee3f25]
+    ├── lunar.doc [199083c749aaa4f559dbe17710cf1aea3925a6c1acae75923250d9d2142a9504]
+    ├── lunar.dot [542f47f59e9be58850d05443d22771ddf7b80415d9930f1f85a4b14f8dbcb940]
+    ├── lunar_a.doc [ec338f11eb297e4fd9287ab33adf9c352cc1706055c03d383681bc696195f336]
 ```

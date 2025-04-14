@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.polces.zip [878ccf1b3c566e9b82301990a2570c2b4f3c86760fca3f768cba9de355344a2b]
+    ├── trojan.bat.polces [5f89d2269a41c9c8705c360989efe084a424d3feee15481f10b7108440298370]
 ```

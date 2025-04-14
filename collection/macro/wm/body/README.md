@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.k302.zip [e21e49c0f9fa869f632b017082fe7346d62cc56409b6090cc7baffbd05902f61]
+    ├── virus.msword.k302 [cb33adae0cf3612c30d6849725b94642c26b4e7aee64ae4b3632b15a7224b9fc]
 ```

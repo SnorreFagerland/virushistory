@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.crow.zip [5bfe5c804fc6a8a81615cbc109575d1b300c6a4ad7f0c846e76755f6f0dd0c21]
+    ├── virus.msword.crow [6491ecd170e5fdd58bfe5ca90d7fef208b3645a2f6ace5c22a7d9d73120c6c9e]
 ```

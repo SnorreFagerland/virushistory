@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── irc-worm.dos.lazirc.f.zip [be5c79c279ccc9507e9558b310efeb8fcae287e6aadbe5d69b15b6a7800695fb]
+    ├── irc-worm.dos.lazirc.f [c32880359f46e2fdd62b822271f0b802f2632ca3b7fabf4b3fc798a215d9b012]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.startv.zip [fb7de6e4c369fa785d31d796b9ab3a276998a334c7c996c4308367fc0f3da264]
+    ├── trojan.bat.startv [274a586cdb4b10b748047b5a23dd51637a05b1da622eab7059ebb44458729ce6]
 ```

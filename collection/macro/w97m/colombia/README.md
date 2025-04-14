@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.colombia.zip [51f390e87506b2e38cc6f457befc194e7962cec1095d6b9e0a9339c8789516e5]
+│   ├── virus.msword.colombia [69ab0bd1d57f6057f4503d7688ccebce0ab71f20a3b6aa9af6aff6203df9b8bf]
 └── b
-    └── virus.msword.colombia.b.zip [849ce83d2709ceaf1430588947c78b68f02407415b4e351e94d1bace6d4bff91]
+    ├── virus.msword.colombia.b [e6961464f501d48a6e0a94b96f3ef863ba701c223a1d3a5d6ab30b0f85570059]
 ```

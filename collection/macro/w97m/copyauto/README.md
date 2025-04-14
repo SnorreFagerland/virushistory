@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.copyauto.b.zip [eb5f40ef6da32f8a3418db16d99a9281066aec709a256a200446192a936fe872]
+    ├── virus.msword.copyauto.b [9a26517b4b25fa8713e11d0e95fe06427891bf091e4f199d05966b265d166738]
 ```

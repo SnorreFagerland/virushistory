@@ -3,10 +3,10 @@
 
 ```
 ├── a
-│   ├── nova-a_1.doc.zip [363eed916c364fb3e6d1b656b914ed93ae3e73825113d38b01b533ee71669129]
-│   ├── nova-a_5.dot.zip [50cabcebbbe2479cbf96428284c2ac8c28a99dbbff6570c522eff33a7873f9ca]
-│   ├── nova.doc.zip [898b353b44f98295f4bfd798283d866f6bb4c0cb46c6d21c82f114208c4df86d]
-│   └── nova.dot.zip [4e8c911c68fa6715e514186b098a78a07132c9fb8925d0f9df5899758edcc42f]
+│   ├── nova-a_1.doc [a3f5e01cb6b0e7e3afdffd0a9d9b2d194c9694cb06cfa8bf1e61a4d248e2dfed]
+│   ├── nova-a_5.dot [31e5933d65801b777bdb19c6decf3c5a94711e199048e960a7d8b8e6788ac6ca]
+│   ├── nova.doc [63f5490f0800e0bc408c8b190ef7efb06eef9cef4ce777896b90bb18fc9c6965]
+│   ├── nova.dot [4830cdee148441aef947bd81811afa1d267aaa2ac52660181681d413093b3e21]
 └── c
-    └── virus.msword.map.a.zip [90eda56e4bf5e6f7d33d03b6dd6fd050fab1460a0afc69c54325b66700123a0a]
+    ├── virus.msword.map.a [bea10f04f2135fc2da6e3b9c13f99298679f682c2ffa857f6cd77e419082450b]
 ```

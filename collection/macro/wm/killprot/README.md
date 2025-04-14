@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   ├── kpro-a_2.doc.zip [d1b091e2d5c02914555e8b62a3a5555c5ba26dec6094a2769b8306a30ba2453f]
-│   └── kpro-a_4.dot.zip [324f9b7a209a665f167b20905c513544deb03cc3c0e6dd3405765336c1c27213]
+│   ├── kpro-a_2.doc [082dc19c549c9193cd90f11fdfa237b16b46cb6c915aee2ce31f476bec4f937a]
+│   ├── kpro-a_4.dot [de7273f22e3c18a6d4dadc1e8d1b1b664fc94d6a47b38e3adec598e7c9d48117]
 └── b
-    ├── killprtb.doc.zip [8f41b9ecac435f704fa86449377ea9196bdfc364dd1e8bba9e5a8f3a46e0c832]
-    └── killprtb.dot.zip [b70c34bf1b14789e7502dff187c7860de18d46d45d758d66b5bad80db6b2b336]
+    ├── killprtb.doc [edfa4ab00e6264c923803a461e0f7fefeb626aa9447ac89d4a8a89d50c78536b]
+    ├── killprtb.dot [868b4629a704ffd267a47fd72c7f279988737ff5f51f71f06ed2cfb592a83372]
 ```

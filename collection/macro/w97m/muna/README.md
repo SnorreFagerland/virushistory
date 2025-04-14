@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.muna.zip [b49149c508ec9eb24913b7de59945947c141c2d8dfe4c8a45063fc9b15242f0b]
+    ├── virus.msword.muna [81db874b57dc58abe2a65297ed53ef6f95c5dd5bc064dfa2b72bf1e3be3a5b28]
 ```

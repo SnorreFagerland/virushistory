@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── hou.doc.zip [5ef27a777274b61b6981892a08635ee17c4b87048efb52f7f1c5de0685975bf7]
-    └── hou.dot.zip [d8e1ade721757a92dc5a490bbb844964c66f39fecee58bdcfb3715e342be8cc2]
+    ├── hou.doc [aa6e3ff22e82f3f982f8aeddacded52f9abd94210e8d50943596e9429f02eab1]
+    ├── hou.dot [d38779eec5531d35d4ede339651dc18fc5fd58211d429e5dcac55f6dea99b01e]
 ```

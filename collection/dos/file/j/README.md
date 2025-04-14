@@ -704,11 +704,11 @@
 │   ├── 2758
 │   │   └── smartbom.vxe [05177df3c83491f30dccf41a8640d2d58d2502d2ac2e86db21644997f832de90]
 │   ├── allsystem
-│   │   ├── 313e2699943de9c353b0ce3b7f2ebdfffa99a58e7e137724e9ef71f68ac5bc5f
-│   │   ├── 4ecdf2d10fd9f813e48aaf953c019f782f74d9b0d8b2ba3973bc19ef78b69ee6
-│   │   ├── 5ddc11842b224a56a8c320d91bc970e3a044d54bca50fa65b550bf2664e5a3b4
-│   │   ├── aed054db0d0d3774782ea70915f016e41df0143f2e65152df48bc423244c06de
-│   │   └── wci0173j.vxe [bebbe433de4917591b7a407b7794187e3d2d3e55753ea956462b303ba0c25a4d]
+│   │   ├── a
+│   │   ├── b
+│   │   ├── c
+│   │   ├── d
+│   │   └── e
 │   ├── anarkia
 │   │   ├── a
 │   │   └── b

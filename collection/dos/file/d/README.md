@@ -172,6 +172,10 @@
 │   ├── 207
 │   │   ├── a
 │   │   └── b
+│   ├── 209
+│   │   ├── NETRUN.vom [9f76b7483fc6037817be3db267e2b6b8088a680576249be94316310f17d5519b]
+│   │   ├── t1.vom [226964f01efe8caf27bb4791dcfd0b8ff41965953d3a98bd31e569a8c1233826]
+│   │   └── virus.dos.sillyc.209.a [12aadbddfc05dd243d52625735c568683faf1e00e95849e123ed5a75f6279485]
 │   ├── 219
 │   │   └── virus.dos.dutch_tiny.219 [6be348b788436d11ae88cf86989cab0f92379dbd936b40a4e8954fb0bd48d6be]
 │   ├── 242
@@ -630,14 +634,6 @@
 │       ├── t6.vxe [aa838ceaa9d6e9e5d8a66ea64c817a0ce61cf266e2922737b4c6c23f45af31de]
 │       ├── t7.vxe [e1286577c2f0e252f8704ca49a074e069f276495f0a594e9aa3b9bcb0e7342b1]
 │       └── wci0130d.vxe [a4cbfae43fa7b204961b9f96a138b16248b40e2d666d0674e9333216cbfa41ad]
-├── dasboot
-│   ├── 421
-│   │   ├── a
-│   │   ├── b
-│   │   └── das_boot.vom [0f0382cb0575664a99ff605b475fac749f33cdcc04e7b2540ce8aa2ddf0cc9c1]
-│   └── 423
-│       ├── mmirunk0.vom [7fc7cd8d95a477ee5a5c1881702d993a111e95764a078a2cc74a0e6be775a213]
-│       └── mmirx2.vom [1019eb8c9fe3548859183eee15987a2232820b28617c456abe2a234783e1299e]
 ├── dash-em
 │   ├── dashem.vom [590bfbaed5bc9eae4f93cf223c136cd8c0ebfb8d337a4ea4f3bc8d7ff2b84a30]
 │   ├── t1.vom [e1e5e60a0902f9d98451b97c4f2aedb53922af896ab68f03fe05adfe3ea2c30d]

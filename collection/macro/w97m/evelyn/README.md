@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.lopez.zip [843e56b4fc1ac9a8259596e1c5853b476993318b8f229aa2e9aa25a2f9a12b4a]
+    ├── virus.msword.lopez [01ab2fff0a66af9bb64350c936dcde9ee8904d14815888b461243f1b4e9b0159]
 ```

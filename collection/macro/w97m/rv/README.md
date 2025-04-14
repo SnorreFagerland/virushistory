@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   └── virus.msword.rv.zip [5db03262a2fbc268fcd72120b1788cd92463d83777c3b031ba28ffaff4213f5f]
+│   ├── virus.msword.rv [8b634c286cfc61a5b9971913ac3769127dfd4cda554c43cca58964bf79a3164d]
 └── b
-    ├── rv_b-001.do.zip [bca5a1af3e9a44ed45aee396fb31df7f1637a3940b00da7f45c66d80c72ba838]
-    └── rv_b.do.zip [ab70e3ea171b5e8970ec8af000700c37b2781654ee7a57fd1bb529238eb4b629]
+    ├── rv_b-001.do [8d9d3f5f0a5f267dff8f0b2afd9abeac4b1862f6bad732f7a693a9f71075c80a]
+    ├── rv_b.do [1d141a979668c3f467ecc3c1ff387a6bfa4d3d6280d7f253630199c88cc3da86]
 ```

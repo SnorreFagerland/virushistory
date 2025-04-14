@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   └── virus.msword.mbop.zip [f128f6417bf2473e9ec660d345db69c9883b41014aa868df277ef5e5aee3508f]
+│   ├── virus.msword.mbop [8ce3f05a23700601827f97cdcc91ad4039e331f13e68bed71a320b3a847e0fb5]
 ├── b
-│   └── virus.msword.mbop.b.zip [dc2a47f594e3c9bb2fffad36d49e897b0e31bc6e337ebc64cd77188051db9da4]
+│   ├── virus.msword.mbop.b [51e4aa0fec26bf4d59dc0a221e83053b36bd8011396f95ea409636a845db3db8]
 ├── c
-│   └── virus.msword.mbop.e.zip [b4e7a7fbc0e568ee3edbe30d0d1b2e42a3b7458d3df23c2de69ce6e9a6cc1cb0]
+│   ├── virus.msword.mbop.e [f05302fcb87c0a61129ce8c9540b29a19c6bb52df68bfca6e2379f40baf93ba1]
 └── d
-    └── virus.msword.mbop.c.zip [04c163efce97cd743b13d75d2b9989ca1fb79e20088eaecc6d75208ee8936db9]
+    ├── virus.msword.mbop.c [e10a1c4feb04cb0f00df710f8790fd7c30d224542937da75f9eb9211211e2c44]
 ```

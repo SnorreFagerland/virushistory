@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── kolera-a.vs.zip [810069b315aa7543a3daf19f7d49fee98b213d0dfea7a05b65672b544790a233]
+    ├── kolera-a.vs [cfc60cdf053c9c802ace604ddfd6fc4db976a2c547f1128015afa9d9534ba57a]
 ```

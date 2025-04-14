@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.lemon.a.zip [f19f78a8a10f7d7d9a5c9f2e225da300c834148045719d0a725612166c003b30]
+│   ├── virus.msword.lemon.a [80845d4cfcd34ed4f77ffb77f1669b9f1aeaf72f3da413d6246dd756c5ce8c73]
 └── b
-    └── virus.msword.lemon.b.zip [ebe8097f5e303f732a1c076da714d33cf041b143124bc69cbfd542e004ab2472]
+    ├── virus.msword.lemon.b [707d3fe3373c211b99fea884a64a1cc9b8fdd6a5555546951da7146a51957e8b]
 ```

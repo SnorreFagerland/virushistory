@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── drugs-a.dot.zip [6bc52f36d35e3e3c2a50e43aa166b6afca93bc3e5fcb88991a02027649afcc75]
+    ├── drugs-a.dot [8d07f49b669d0c6599f213ed83a775bd401084be7fc92e1a6fa7178b5b723e75]
 ```

@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── black.doc.zip [a0c2f7a66974eaf6854869a046f0a56137ee41699342201e24cb649001f76b8b]
-    ├── blackdth.doc.zip [b4839dc4d3cc4ea3e92e7b3025711cc3ab7228a054898e9812ba41df9b1fe646]
-    └── blackdth.dot.zip [2844efeb9382ac46fae87e640d77298d1203c298b47eff56f1fcad490d9406d9]
+    ├── black.doc [265afc333e278d63c7736d5b00719c25e4db8aa50776d80b8adf098dc2653e02]
+    ├── blackdth.doc [06226f2af0ad610361a8f3672ef1ebdaf777f605176b7279e4d51e9b4935df4e]
+    ├── blackdth.dot [91ca253c64e8881308d8076b3b6ded2887d4c4913d1c82c7dcc2e5ce30af0c02]
 ```

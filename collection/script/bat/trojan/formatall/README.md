@@ -3,9 +3,9 @@
 
 ```
 ├── b
-│   └── trojan.bat.formatall.b.zip [087859f6a68c3ba52321244cd568b123f203b3b1810f4fc9f7d002da3ad4a62d]
+│   ├── trojan.bat.formatall.b [20ceeac296847e5f08121e082cc7068825b28004ac1610f21ab23ecf20fd871a]
 ├── c
-│   └── trojan.bat.formatall.c.zip [fe7855be2a92e096c7f9955705075d0dfcc6818fdf68b01bc46875de5334aec8]
+│   ├── trojan.bat.formatall.c [1aa8de3d4edb7d705c3e0da52e12789661622940d578c0c4085850e049a7e6f1]
 └── i
-    └── trojan.bat.formatall.i.zip [210741e91fde31756abab379b76d74a4391eba6d0a538d71342a34a8241fb81d]
+    ├── trojan.bat.formatall.i [79280bd1c3ad7b26870461adabb464b611af6df75639b1c4cce7190d763ee766]
 ```

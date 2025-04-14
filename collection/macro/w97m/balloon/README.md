@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.nightshade.e.zip [9fda06319a674c1712b310eac39873761697f4909abc961f714294e870fd137b]
+    ├── virus.msword.nightshade.e [52071a26d6987033e637e749c7a5794687072d0fe658d7f86db1fa8d0c3a2197]
 ```

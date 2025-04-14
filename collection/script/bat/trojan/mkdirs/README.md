@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── trojan.bat.mkdirs.a.zip [9e056f242d3e65a58aba155799ce7d377b415e1a31fb75d4e270292546747a2c]
+│   ├── trojan.bat.mkdirs.a [d9bae42feb372de0d0ed98fd922223c1e0ca89c7306c87828cd2faea750671cf]
 └── d
-    └── trojan.bat.mkdirs.l.zip [aee61180568856ca5bed7a664f17c33c5ea53988341492fa8864b7810db71fb9]
+    ├── trojan.bat.mkdirs.l [eaf3c9de04294dfe6d767732237b88fb722353ccde80c33b48a846a83c96db1a]
 ```

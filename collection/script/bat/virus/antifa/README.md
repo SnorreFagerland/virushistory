@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── email-worm.vbs.cuerpo.txt.zip [db0c96a5caf59ab64a8f398d1f1ce29962cd4a2114f8cbc36cc9ba5f686d5b6e]
+    ├── email-worm.vbs.cuerpo.txt [948c730a1b55865b2631882731dbcfa7b9d64e17ed428d1a4b224f00b00ee43e]
 ```

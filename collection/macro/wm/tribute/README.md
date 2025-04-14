@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.diana.a.zip [b6d036b67b87ee42a5cb0594a6f5c38ad47b822289b2ce2e9c6d8b852e2e8722]
+│   ├── virus.msword.diana.a [540acad49fa2fed4fa863ed018a275c9d7b68709c1de6c779c675ccfdc64bb8e]
 └── b
-    └── virus.msword.diana.b.zip [90671cd4dbf97cbe8935b68e60918bb1165f8ae17b1f596495928bc75c60aa89]
+    ├── virus.msword.diana.b [bd8b316ae641c3f81b4916ca8d8ee2ff08f8699a5144cc41ac287389b23938c3]
 ```

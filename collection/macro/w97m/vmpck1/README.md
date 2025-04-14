@@ -3,261 +3,261 @@
 
 ```
 ├── a
-│   └── virus.msword.revenge.zip [9970616d1f522644582ccf8ecf59490ec144a07537380e8b1b6af1c3873c1896]
+│   ├── virus.msword.revenge [109fd34e50426a00d7acd4c6e90636f9746b6642e4a295fd94b4f0ca3b9f98ce]
 ├── aa
-│   ├── vmpck1_a-001.do.zip [ac807b5dc2bdca7ce4351048ab8b4ccf32ecf0ea6b19115c7a831e09b4b89345]
-│   └── vmpck1_a.do.zip [89f192e95b3707542b7e00d06a46405ab76227a3d71cbb5ea9f23660f8a1bda2]
+│   ├── vmpck1_a-001.do [f61a333ba8a4dcd3b1b70dc9c8198c17bdda9b141990777a35ae96f81efa1ae0]
+│   ├── vmpck1_a.do [765426ae45de79cc6f88b422dbc8f775fec7640a338b15f939a6d1c5b0b3f8e2]
 ├── ac
-│   └── vmpck1_a.do.zip [4f7588dd5948617bff610265b829f402c26f0a014d5e5af64885fa6919cb8be1]
+│   ├── vmpck1_a.do [9cc6e2310cd5e91343de224d5a46ce1ab774f36099dffc311d7a86216e3d27ed]
 ├── ad
-│   └── vmpck1_a.do.zip [91de6ef4c8b75d9242f5680ab507109750ef9ac8be2e529ecbfdd1a32b2d0963]
+│   ├── vmpck1_a.do [1b0382eaf4446a36b46d6d17521dfd444468f4b094e3edd27f9cf564b1ab5794]
 ├── ae
-│   └── vmpck1_a.do.zip [7aaf4f730a2d28150427e23ad296d197718a156f75969e1f5040b1fce37499f8]
+│   ├── vmpck1_a.do [e57192e463c81cf93f969792e32be7541150c47b77b675e944ba013f3562c9ae]
 ├── af
-│   └── vmpck1_a.do.zip [36873eba49c7ab6f7f6693c1a9c3b214ecc93293b8afe7f024d5b8e8a3aff92d]
+│   ├── vmpck1_a.do [e8efb460456695151ee6cc358eb38e0ed2150781e90e85734d91c82a430ffa6c]
 ├── ag
-│   └── vmpck1_a.do.zip [4a2cd131e8eb32667805525db7a470358dd481035fff5beb5c81f8744bf2b373]
+│   ├── vmpck1_a.do [8d5a0ec4888344f141a473b04be24bf64a181857af1c5be7c283664306870ce4]
 ├── ah
-│   └── vmpck1_a.do.zip [2edf9c0dbed75ff2f94b60a382c7ae9b29297ed5fd77ca16296a97cbe6a3007f]
+│   ├── vmpck1_a.do [e7c5b1d524b5539f8e5c2b436a6c66a3ffb27ccca22e4a70ba33d8909d31e49c]
 ├── ai
-│   ├── vmpck1_a-001.do.zip [99828766eb4c7cc2b6bbc783b915e85e5e5e52219b4d1e5f01673e67181910a4]
-│   └── vmpck1_a.do.zip [812351b131c66e2063b3497cefe4ae1254c3db54bb4850baeb1c55fcb8ad9886]
+│   ├── vmpck1_a-001.do [ed079310ea9341cf3deda885b969614d2665af1c1cfcf170667bbb591ca6d7d1]
+│   ├── vmpck1_a.do [15da161fd535146a01abf76ccc73825322513dd92e94bc613365c507935b4b2d]
 ├── aj
-│   ├── vmpck1_a-001.do.zip [e3e4c91925e6b36f815d5d37f8f42689d6bf77cf25e62eb044a629b4a44eb33e]
-│   └── vmpck1_a.do.zip [62cfc1248dd2febd4db7250570c0b55cf7da58f354927f12fc47ff50ab279e3d]
+│   ├── vmpck1_a-001.do [98a69e42160f95cf6af73267702858c8aef255721cda2d16e5f37e0702581240]
+│   ├── vmpck1_a.do [5cde34f0f5e48d9140e19cc6a32e20dda4c86423e1c11f4fad3b903d8a7adf8a]
 ├── an
-│   └── vmpck1_a.do.zip [fde5b698927800365608a055c746fc4671c203aaadaee3bffba8ee8c63416ecc]
+│   ├── vmpck1_a.do [fe6baad508d31340b56c9de154019ffe80b984681eee95851468b04fe0f46f36]
 ├── ao
-│   ├── vmpck1_a-001.do.zip [d1da6742a3b2dd001d948b395988cac95c114fe64836e9788bdc6ef01ed9283e]
-│   └── vmpck1_a.do.zip [e7651bc125434af8845ec7a48682275b1c4e78e7d64afa1015f7181ed87faa2a]
+│   ├── vmpck1_a-001.do [519e9032f5854c41c84130c82c4a948cb156cbd139e59981a2bd73e14f70c728]
+│   ├── vmpck1_a.do [19b2186d9a4913c2257f0ba0870bd973bc5e8c48707292947fe4edc2b32dbc45]
 ├── ap
-│   └── vmpck1_a.do.zip [6f0b90ad48d0139401b9733c541892cee4fbab3e99ed0492d825b9dd4c2be5da]
+│   ├── vmpck1_a.do [e33dc189e0f1cf09fac565f3309f785f529c94b38838b1c939f0bbce184dea80]
 ├── aq
-│   └── vmpck1_a.do.zip [dd8d6e11e0139628fde413f931209b136bd040ab5b2d317df73d18444d3a4f2e]
+│   ├── vmpck1_a.do [25203d360eb457fda5ce6261409e9614bcfe70c0e01c472894f0efce7f0ed3f3]
 ├── ar
-│   ├── vmpck1_a-001.do.zip [12c8ff6a9ae3dd58983a54b9ac763eb5559981e40dd6fc19f1a77f99af972aef]
-│   └── vmpck1_a.do.zip [8296e65ed9b670882b3bd1f79e6af34da03c4882e458c851c10b9cc36b6374ab]
+│   ├── vmpck1_a-001.do [c7ecc71a2b8d298da82e9bb7e8b638edff826c5856880d729e7b162c46e692d0]
+│   ├── vmpck1_a.do [684f4ab4cc615ecc558475caf1524a9e6c55c326d6ebf3a25f5dd1cdecd965e4]
 ├── as
-│   └── vmpck1_a.do.zip [28488af67ec555ae2acab5ce3f052dec5657c6acc0414bc7f99664588a7d2e60]
+│   ├── vmpck1_a.do [9e7ab1957d29f607877483a57a1259ed714a443c3ff2a8b335cb72a8d603876a]
 ├── au
-│   └── vmpck1_a.do.zip [3a8080499e49ddbc3a42a6e7d4339a34524d83a4135cd1e8e2b3d16aef2f98b7]
+│   ├── vmpck1_a.do [e28e8ada807f476a3cf95e746513de3f419795bb27e07ef8ed2de0854b81acd0]
 ├── aw
-│   └── vmpck1_a.do.zip [6d6466bd191771d3be743f6303b725f6b65db3192c496c75faad39ad153ec5cb]
+│   ├── vmpck1_a.do [4496dd21faf7903e97e94b45e3cad55e34fe2ec5a2a0cd6fe4152b2b68fcc663]
 ├── ax
-│   └── virus.msword.vmpc.c2.zip [79460ebb4850456592839e8f076916282a958e48e62051958126998eef958b28]
+│   ├── virus.msword.vmpc.c2 [4a13d8a56d761f66383f307dc353fdc70212a1d1f2a1c7755016a319752cb8ce]
 ├── ay
-│   └── vmpck1_a.do.zip [a05fdd8058edf358e624a20fea0a338e55227d0f449f369b993f2e0108d7bf18]
+│   ├── vmpck1_a.do [1552c82de51ad64291e58118cdcac3f29700ceb87e27720bd1817d3e4baef3e9]
 ├── az
-│   └── vermon.doc.zip [8a0f81f9a2c00bdbbefb783e3dac94576bf87e5bd5c0c5a3e5059b2104311862]
+│   ├── vermon.doc [b4d006a4f9e9c4b76edf731b9bd85abe2f2982b658a30f783a5f12e3e323a6f4]
 ├── ba
-│   ├── vmpck1_b-001.do.zip [661e9d75776279aecab21c2a7bc010efc8930aa88cc896e3da57339d4803e60c]
-│   ├── vmpck1_b-002.do.zip [e22afd2709d5c57148f062ca9dd1fd9f8301326f0df50902aff6ff405e81cc32]
-│   └── vmpck1_b.do.zip [b9823c4d61d5f00b697651a59b5e6c22c5ae3ac2f0660f2327d2c4a2c87924fe]
+│   ├── vmpck1_b-001.do [49ee42c8fd19ebf18c9e477c5d83a35c2f49c7cb3dfbbc48dd945107ab4833f7]
+│   ├── vmpck1_b-002.do [c06a23654acb31bf1ddae2ca3e45becdadfa060522a3742b65591a7772ea7259]
+│   ├── vmpck1_b.do [092d0c2a6d5183d4c89c297d645d36f1ac31557ead213d3396517155d328b8ab]
 ├── bc
-│   ├── vmpck1_b-001.do.zip [f6ed7cb5ca272ac6b8e64cffd6850ef12322612835adea4a62b935c2bd494c9a]
-│   ├── vmpck1_b-002.do.zip [41d2d37cca88679920743f8e9e738ac1266547ba2c3b95bb2f52abbdec827ebb]
-│   └── vmpck1_b.do.zip [b6057aa540dd0a2f4d8ed633d1e390b8fa10d46003eef924a375628fdc38a053]
+│   ├── vmpck1_b-001.do [e79a36f82ea50460d0d2d44cfe77e66c09eb7d9f121efec5454c02c48e0485eb]
+│   ├── vmpck1_b-002.do [fb0463c4a1301cc399d2ca6bec990c4e0c513ff72280a40338444635dda56990]
+│   ├── vmpck1_b.do [d011bdf8dc7e03dd20a63e147c67bfbf1b9a5f699912a2ce24265422cffb09a9]
 ├── be
-│   ├── vmpck1_b-001.do.zip [34089b9aba612db78159df527262fc0500b14be4f48f5b6a82663b1514affa1f]
-│   ├── vmpck1_b-002.do.zip [98c76fde4b73db4b69f2dcc753d344df46ca72127d994543090f78816ecc61e7]
-│   └── vmpck1_b.do.zip [a6fc1c81500b4e9b85e968015ba1d3eeef6b10e5c453e29b9c055c5fa96eed71]
+│   ├── vmpck1_b-001.do [327dada89824ef244e5229521db990bd89a488a619a3780e83c66a328eb62214]
+│   ├── vmpck1_b-002.do [4a6e50e722cc5c6898f71655e54c0c639b5503cf766948c2ceb0c54b5846506f]
+│   ├── vmpck1_b.do [006248bf4dccc218a6210f07335f7408f6196336363739f4589bf96c718ee2ab]
 ├── bf
-│   ├── vmpck1_b-001.do.zip [a6a1118833e90a6cdfe6056e37b2c342071b03bbeb77fffe3e5058e2e9506b82]
-│   ├── vmpck1_b-002.do.zip [0bc5b3e4c9d5e3538576502927f3cef3eb06410f4c247dc8aade746cbee8d288]
-│   └── vmpck1_b.do.zip [364b1ee103b6f9c9e7d4a340cbf23067f0dab8b23c0351b51f227266e5ade198]
+│   ├── vmpck1_b-001.do [46252ba1627d63e43c9caf6e950b79abb60bee342689998bdc838ef54a70b936]
+│   ├── vmpck1_b-002.do [d578c70c7b5960da0aff0642fd75bf18a009033128004aa118bf0ef163e1fbbf]
+│   ├── vmpck1_b.do [28913d78c85fdf1b39f3eaa9ddf168b646e0ddea52c63cd315c3c747ca897504]
 ├── bg
-│   └── virus.msword.vmpck1.bg.zip [62ae60b9729a6e7433de2462a2468a5ec0ff8b04f9d1958e06a42866bfea2b5f]
+│   ├── virus.msword.vmpck1.bg [ce94c6264ef503d589f533b75ca80065c819935050e21750f5a0541f399c7fc9]
 ├── bh
-│   ├── vmpck1_b-001.do.zip [ba16328beec98972133298cb212e6c803366ae829df6c7ef125419e1f355e4c1]
-│   └── vmpck1_b.do.zip [41716162491321ae076111e48ba0f36725891d78c2de8dd0075fdd1465f13c26]
+│   ├── vmpck1_b-001.do [d14bccc900ffae015523a969a37b6038d31c4ac6c36ccb625b3f36cc38477a93]
+│   ├── vmpck1_b.do [96830229630a5adcf77a1f7172e2529a61c5cd032d96438b599bac8b7fb1f2ab]
 ├── bj
-│   ├── vmpck1_b-001.do.zip [49989c979a3acbc49c8097094395fdbbdb97277889aca18b62a6b359b59e2e8d]
-│   └── vmpck1_b.do.zip [47d597e4c85904b95bc3b186ef44728f367adbed41ca1b4735d2b511f5e48d93]
+│   ├── vmpck1_b-001.do [a790fc20e47dffd11538e87304d1afb08f001c3a478e67dfaff1c48ea22528bc]
+│   ├── vmpck1_b.do [8f0b9f6e63b3e32aa5aa966cff55d5b021bf6528eea5447aa710ce43912b54aa]
 ├── bk
-│   └── vmpck1_b.do.zip [d41045e2c07c2120d5921330def1507daa1871930687a23380ecd0e20d97c423]
+│   ├── vmpck1_b.do [ffce91baacf3932c647d152cb9f24bc7b36ba7c986f23662f1a3af7eaeeaac74]
 ├── bl
-│   └── vmpck1_b.do.zip [7155267637179d9005cebf1b0d1e3fb84caef2607fbbcc4c565f6086b580495b]
+│   ├── vmpck1_b.do [a36d84b8377deb63514842441763019b909402cc4de2435242f0723a0e93c6e6]
 ├── bm
-│   └── vmpck1_b.do.zip [1b789986aeeb2c988e3103d05e151013ae579430d93cd70b7c64d5e580e0a382]
+│   ├── vmpck1_b.do [e4f73e91b1ea453f5a05ebe7d19e93a4650d5fcf647c345db379c19c72713fa6]
 ├── bn
-│   └── virus.msword.vmpc.bn.zip [cd3d18c40e794b1d88c6de8f91d55c028fd27697c9cf55175ff5b8a69f933713]
+│   ├── virus.msword.vmpc.bn [c29353982bb2b50aa87fca031d2cc760d0e65c44e310c08f80f6464f995a9b26]
 ├── bo
-│   └── vmpck1_b.do.zip [73058688fd4877159ffe3243a7358cc117062485b9282edec15f2c44d654d3c3]
+│   ├── vmpck1_b.do [676ab439644424cfa84d7f10e6692a13c7ebf902995e27dea0658c34539106d7]
 ├── bp
-│   ├── vmpck1_b-001.do.zip [74f22614ceea4e92b9fb825a050510b984f43abafb03d2c4f0340ae964774a57]
-│   └── vmpck1_b.do.zip [c82472f1d8b5e24122aee57ba4f58d0534594c468eb362f8cee6e5108cc49911]
+│   ├── vmpck1_b-001.do [3d53e38af4fa119887242c41b8d85de1f7641e86227bd744d6d1ee1add30a92a]
+│   ├── vmpck1_b.do [1f2ce773ae79c52442016a55ce35f97952558443384a7d1329fea2ca6aae7890]
 ├── bq
-│   └── vmpck1_b.do.zip [4658bf4384bdbce639c518019c513b7a6b2b4160d51a7638cc737aa2ada21924]
+│   ├── vmpck1_b.do [69edd91760a54f4aba9497fce007d761dcea2b4c908a895764b1052c025de297]
 ├── br
-│   ├── vmpck1_b-001.do.zip [c3d89013dc31df00880d58f90ef034bbe171615be9e130ebef7d3cd39e7b629c]
-│   ├── vmpck1_b-002.do.zip [87d58789b74a2cf0cfe5ee3368202d40cb69ec798878dd8513136c4895ad9db0]
-│   └── vmpck1_b.do.zip [9cd942451a934551908f057b655114caa53d8001f65abd8472db0a841d89507c]
+│   ├── vmpck1_b-001.do [eb917fb14cd10fbece8d2377bfacbe40a3db122d6ecc127b9dabe6114281fae0]
+│   ├── vmpck1_b-002.do [a39e59291d022f428db008c71267b0dc7df3b7f09d98bd4f3c3a7b47ef41769e]
+│   ├── vmpck1_b.do [005ee8eaf9d5d2dfa557e1fa7a330863ae4ab001de5679db1be5d3c9df9ca219]
 ├── bs
-│   ├── vmpck1_b-001.do.zip [0db52458c572956d1ec90157f96e285256477c572d835b2215c67e54a592bcbc]
-│   ├── vmpck1_b-002.do.zip [a1d5cdb07c7aa760115674cc18684b76246ae5514f59b4a70779c615508ded99]
-│   └── vmpck1_b.do.zip [1be82fc1f3121cc9a32c93741b8ec96ee2628296daeebb46cb02fd499d6d61df]
+│   ├── vmpck1_b-001.do [ff80ab9c9cba85912366145a7be76ee67a3a80ceaa8de83f7a3a5da3ba4de784]
+│   ├── vmpck1_b-002.do [aa6430e39bd1af05220b6d20bcbab390b27e3769e7c6f19be71329164ffdaa7f]
+│   ├── vmpck1_b.do [66da851fb528b7f8141d175bf29b946cfefb120a48b253b60a5a5b8659e2b7e6]
 ├── bt
-│   ├── vmpck1_b-001.do.zip [a207aa46a19102b6f00ff14dd1201431f5de3daaf34f02f1c7fe9887dde1c767]
-│   └── vmpck1_b.do.zip [ae1f8806e70ebd48868b19b5a97e9385b190d56e4a08c4a754c23eb0fccb1031]
+│   ├── vmpck1_b-001.do [c84384376fe0eb737cf4b6e9aa618fde8abdc02ced0dff75a292ca0ebf67ca98]
+│   ├── vmpck1_b.do [8f226eaec7622295fea9c6c80a8278b11de99579b7238c993db4a84566e65008]
 ├── bu
-│   └── vmpck1_b.do.zip [f5c6d0b4518d8076080be1de1d86f15b1ca54e0ca145a2676f6929508433a2f0]
+│   ├── vmpck1_b.do [838963551cb27b775291842d5a25dc9faf421cfebd68f68ac33176904a8e921b]
 ├── bv
-│   ├── vmpck1_b-001.do.zip [a5521eead106f56c1add6fabc49dd4ac9b64dd94e76bf451ca838b8c362e076f]
-│   └── vmpck1_b.do.zip [7cf3d7458374c2b896d294d198714a46ec1cb12699399ca47a65d713432080e1]
+│   ├── vmpck1_b-001.do [5232168431fddc8e1939e4b40d49857e6484a69a9a2a31afe742ecce206db869]
+│   ├── vmpck1_b.do [166e5fd9ef69d89fa59d643da60f624474a04f8f7a93735700e67492200bfe93]
 ├── bx
-│   ├── vmpck1_b-001.do.zip [5312d5eed3f9448f7350839926502ee0b52ed9dcc1ec094965341027cd9c7285]
-│   ├── vmpck1_b-002.do.zip [d7f135b6af953be17e200d71565e234c38c89949b860890bbd7c436a3a797623]
-│   └── vmpck1_b.do.zip [7951913c77222ae23b0bd52a541f6a231a3d08d0ef93a0f23a2b6bacf8514cce]
+│   ├── vmpck1_b-001.do [99cd1fadf2c95a5afe19e6ee03e8c03fa3aefc970327e89c8bf14ae6105dfb5e]
+│   ├── vmpck1_b-002.do [9feb7a64071bde97002d7a77f62228d0c95b71db40c748a28ea2260bf2904dcf]
+│   ├── vmpck1_b.do [170cf8da02b81a152469fda99b341a84987628a41bbc07cdf02409e476df3a4b]
 ├── by
-│   ├── vmpck1_b-001.do.zip [9ba167cf5259a448b1e69b0b057666a86991bea2d734ef0c835597043919e4ac]
-│   ├── vmpck1_b-002.do.zip [22c9047ad16ac83c5401fd39ba8c4081b990856513a799ddbd5f5d632f5b123e]
-│   └── vmpck1_b.do.zip [52f2ad3ec2c435dc2339c9852cf0308e623fa60d75bc8c17902a4d0cfe2dd074]
+│   ├── vmpck1_b-001.do [613b63983ecf8b79f224d6d30793df84c0ad56fc1e0e6a374bb9a13484eed4d2]
+│   ├── vmpck1_b-002.do [d5475f4a424de1143fe2a60a1a444c8b5d0299a2b926c955d58ab8df93eb28f8]
+│   ├── vmpck1_b.do [575d0c1c1aad5297f5d82a8467635dd68a1c09b308af6e3bf3fc0b1d6de9a46b]
 ├── bz
-│   └── vmpck1_b.do.zip [af2fc80be44900bcee566342b21377255d47ed5111252318ee072971e76781c1]
+│   ├── vmpck1_b.do [8354c499f748f8104e364e6e9c76fed74cb0a5fbdd47bb0a5fbb7a4c2d46bbdd]
 ├── ca
-│   └── vmpck1_c.do.zip [a54a62a8f238bbcc0fa88a5aa4ac111d81716baaa5b7fd956bcb9605135ccc64]
+│   ├── vmpck1_c.do [0204f6d6ea5bf0b014933eee5d84f6ad533c49ec13e19e29c384519abcdebe29]
 ├── cb
-│   └── vmpck1_c.do.zip [211994aa7280fbfaabbc8870f292f9a9fc47f7a2386dfafeffe305aaa88aa999]
+│   ├── vmpck1_c.do [59d9857c776aa657638db7a176d4ab3baba1369963b3e971fbab83903d078d68]
 ├── cd
-│   └── virus.msword.vmpck1.cd.zip [4a58f8018398afb15339d7fc390df8bd97bd4848062792b7f78d372d9ad0db94]
+│   ├── virus.msword.vmpck1.cd [a7655f04818d2694ac57a32a8d99db5d5804bb6c9ee56ee31509ceb2e83facac]
 ├── ce
-│   └── vmpck1_c.do.zip [2186492dc1e97878edf4e02387fe133c4ab3f78fa0cbe3bb81e100769af39ed2]
+│   ├── vmpck1_c.do [061b7e172bb95c823d92a83df75974f44d716ca1b9e4924bd1be7391758da322]
 ├── cf
-│   └── vmpck1_c.do.zip [f2baba8ac302b650c7ed12160df5f6791fa9d8ba84b89ea5fcb586ac9465e8cf]
+│   ├── vmpck1_c.do [812c5d6342853a71f42b1e96e8ae8049a977cdcf691a24bc19907e312b5a66a7]
 ├── cg
-│   └── vmpck1_c.do.zip [a47835c2cb901d9936b1794a9e92ee7614366af87df81901c08c1064fcba2ecd]
+│   ├── vmpck1_c.do [478c74736c907f78b352e204fd230de9e6ad2d1123377c8190a77bbfbf009602]
 ├── cj
-│   ├── vmpck1_c-001.do.zip [1217731089b5a432e761224467b5c1f2d0b9fe921da7b016ab86df134cc2cacb]
-│   ├── vmpck1_c-002.do.zip [8fc43d05f0ba33fce985e07541d0fc44e8c1307ed8a109946f9771b6dd7f01c1]
-│   └── vmpck1_c.do.zip [b7132c718032eaac1c73665db323ae22a81f59c1069ebd72008e62921debaa0a]
+│   ├── vmpck1_c-001.do [e9bd309f6eb1de0018264d933e23ece644a26e8b6134616421dfde899d886f20]
+│   ├── vmpck1_c-002.do [f0df957d99a2098e0c3e77220fb421fc8681f81013e382e4fcc30af69a6bd587]
+│   ├── vmpck1_c.do [a8137dcecbb1f46b9068a52a7399132454af3fc3f2911595f219a07890ab9944]
 ├── ck
-│   └── vmpck1_c.do.zip [a02cb11128ae82eb8e106ccc28d0604c958669e5ac0ec640aedebeb61f4c7083]
+│   ├── vmpck1_c.do [18324e3ef8c06d1f22ba810918b5992dcdf95ef572e4214a4f6e61843f411fcf]
 ├── cl
-│   └── vmpck1_c.do.zip [ce98fc68988bab5522298a18d73d8333404b0175956520a1fe309c6efb9f49ad]
+│   ├── vmpck1_c.do [13c826e9eb704d39d1ac88e1e62a219ef9cd2b9e7c1ac0d212b2125b8ab417d8]
 ├── cm
-│   └── virus.msword.vmpck1.cm.zip [94e987d2219d7fc7007a93ec8a84463cc209998c1142bc5115f4dd1c03d4f257]
+│   ├── virus.msword.vmpck1.cm [c91087abf4bf5b236e8c45160fa3d1dad4726aeb2f87245bc54fb8e729bc1011]
 ├── cn
-│   ├── vmpck1_c-001.do.zip [e1863d99f838f59daff791ff693d957ca4e0a9544aadaf266ae6da11a5d364a2]
-│   └── vmpck1_c.do.zip [f354796935e903ca56d480568e4c67f94ef90018ddfeeb38c32627746acaad30]
+│   ├── vmpck1_c-001.do [b29e08422bc4d13030d741f7ff9541d04893c1e9a12ccc8403332f2112eb370b]
+│   ├── vmpck1_c.do [548b7a5220aa0b549dbc4a2f8bd62cf4efcc8b51d2ce97cfe16aff4c46b966d4]
 ├── co
-│   └── vmpck1_c.do.zip [712f2c448696d756e227e19056aafdfbd7e0a39fa90bcde21e73b72a9a2b1dcf]
+│   ├── vmpck1_c.do [6f6ec6535cf3e7275d2d4a155ad4984bec48769142098ea1925ce012792ec3b4]
 ├── cp
-│   ├── vmpck1_c-001.do.zip [eb45f831ef691cd1d90cda7b0d79995a85bbd7a70e86539acc63045a3ad7d624]
-│   └── vmpck1_c.do.zip [e744b09b75a82cf0d6a86adece4cc251150fcb683f97ae9ea499f76d0f357535]
+│   ├── vmpck1_c-001.do [df9dbcf82545b30a24240a87d017abe35726e3fc1748f1785eb7a5270c857b5b]
+│   ├── vmpck1_c.do [90e807b491116f129b226e36b950b7b98523e9a7b4787df8dd39f582ff7d3fc7]
 ├── cq
-│   ├── vmpck1_c-001.do.zip [9fdf052a75e932105ba5e6622c9b37c70c0f2ff2d0406bc5e9bcba49a9e7b808]
-│   ├── vmpck1_c-002.do.zip [d31b4d1397221fc25d185a0d8edae7789c62ecf5da86752e9e7139fb5dd60d33]
-│   └── vmpck1_c.do.zip [23d71b61dd299a328ebf499fe48bc600117d6b9df64cf7041e6b9de374eb5ec7]
+│   ├── vmpck1_c-001.do [dc30b6dd103c1b5c0390c0ccfdfc01b9ffddf8926363326f14deb8011a9674d2]
+│   ├── vmpck1_c-002.do [b2a2450aa47c8b08e49983508f8c2ab58044bbf0d118df1b86f71117f2dc65ca]
+│   ├── vmpck1_c.do [9d4a2200cbf416a47a643e2cd6dabba0361e54669db409c743b4200d639828ec]
 ├── cs
-│   └── virus.msword.vmpc-based.zip [6e933b17439946075f20b9ecf3cae5374817c94b4bbfc3a7a57a48b876163e92]
+│   ├── virus.msword.vmpc-based [3a0fe3656db108734b1f3d5c7b203381ef688684eff8e94c373ac7e840b52d07]
 ├── ct
-│   └── vmpck1_c.do.zip [e33135c473442797f6966768fdb31dda9fd3c2f8b457f86cacc9b1cf2acfd5c1]
+│   ├── vmpck1_c.do [95583428e4fbe92fd7cc9102040d1d8f6b47611ab0386d83627da37b973f8e2e]
 ├── cw
-│   └── vmpck1_c.do.zip [a2bb4adb9ae32c48ddd38d57b8b216c2249e9ffc8a163ca86e2a65fac07608c8]
+│   ├── vmpck1_c.do [efd6ff47d711bd2edfc672d88aeb3c763caf3b86e50da0da030212a110cfb207]
 ├── cz
-│   ├── vmpck1_c-001.do.zip [bfb3d17f15d052159e508b4f7dad30f93900af97a688513b467b1f3c8003bebc]
-│   └── vmpck1_c.do.zip [6e4001c7eb1a574b1475faaf8ec859878304c211b5872d441cbce2af34983ec3]
+│   ├── vmpck1_c-001.do [75cbd7e7742111c5e5bda835e1e4a5d7588671a11aea292712b586a4d94d14d2]
+│   ├── vmpck1_c.do [383c626c89b4c83c96447b24988518b044c1d1a7e375711149952f699d23179b]
 ├── db
-│   └── virus.msword.vmpck1.db.zip [a6b781d0c61021852df6fd810ae06958816e692d352605eca1411b3dccb4c5e3]
+│   ├── virus.msword.vmpck1.db [1ad7d01229480adfc157253ce84a7065b54d8495b0a015d4fdfa7b2f160ace78]
 ├── dc
-│   └── vmpck1_d.do.zip [5918a83faf8997d67b2964e7a1777271bf6455a39a31d629b502f5f1966bf2b5]
+│   ├── vmpck1_d.do [1afb5180d38eff05ef1b49daef0dec77d6979ff43ef7d9a8d8c563f4cdbebb56]
 ├── dd
-│   ├── marker__.do.zip [5355e909d78027a9179ae1b55984c3728399f6c241116e29d7654cd566e884a6]
-│   ├── vmpck1_d-001.do.zip [6184e6ebcb126fda98fe5d2f867f558d2acb9e5108548d3d7966b8b571fd9b09]
-│   └── vmpck1_d.do.zip [9d41b192beb5ec0fac58e3e4fe55741d8473a20ea0e85cc09fc4d6f6ffbf0e9b]
+│   ├── marker__.do [8c255b583558010d2e266f1981cb5ac7fcebf9180bc8dd019c77a9a88e2cf517]
+│   ├── vmpck1_d-001.do [6e9a0af3d33f3cec27d621196bbdbd6b61ca920f85089d4adbb8f9ae91f6ef09]
+│   ├── vmpck1_d.do [5161ba1b3aec5817c3462e763448b0099a89ebf2d7b83009029892d0c057f5af]
 ├── df
-│   └── virus.msword.vmpck1.dm.zip [ae7082c032be8303ad02c9a6fc63e2cf02f116709604d5da9d386ec8de8de79f]
+│   ├── virus.msword.vmpck1.dm [b6fb83230f1b0130032a103f98105e0dd18dceedd1cb99f0d40caa9973f39d2e]
 ├── dg
-│   ├── virus.msword.vmpck1.dg.zip [540713b4afdf09d0e99e7c0aef5e654786e4dd6f03b6af38481b1f1c7efc4e95]
-│   └── virus.msword.vmpck1.dh.zip [91f6522798b21279291bb297c6e0cd618fe33d0ea67e2c2bf4d32b6c83df4f3c]
+│   ├── virus.msword.vmpck1.dg [c1fc1ec4b8bc9a4874a9fac1a0d957e3f1bc2d2df86b8ec792d2774dea5809cb]
+│   ├── virus.msword.vmpck1.dh [2bc4296401a56557b18123301e84ca57b889220f053c7de0aff2868af284a649]
 ├── dh
-│   ├── vmpck1_d-001.do.zip [0bcd3d5cfed89d4b6ecbef69f2d530cff9faad59af854c61f53c72270af01e64]
-│   ├── vmpck1_d-002.do.zip [7da3a66baa8a37a4918b1c01d180b0fb341825386c5b3f05d6c4f6c621fe7c4d]
-│   └── vmpck1_d.do.zip [1b3cca9bd7e4ed8e0f23a6e44143303e265d1756a7068ad72203d5cf8bce9ca7]
+│   ├── vmpck1_d-001.do [5c171f938a5591bb9cc39b29740634f3ecaa5d01f7a442ea4f17fb6d31e7b37d]
+│   ├── vmpck1_d-002.do [e464f93c9d39ca46581e185b621026dde25a774a23088c5223cd6f8f8b741c04]
+│   ├── vmpck1_d.do [0492c09b1e5877b2c5c184b6e2d6643ef77db203bfe77c214bfda08381ff7891]
 ├── di
-│   └── virus.msword.vmpck1.dj.zip [6d482233286bdf9f59bec7a22286ba31aa63927b20949c0ec4022a44ef525354]
+│   ├── virus.msword.vmpck1.dj [08e16fcc9d8d6f643cee2f747a1da5c6f3f5c2bb877195b84fa6a2d5530da14e]
 ├── dk
-│   └── virus.msword.vmpck1.dk.zip [2fca36455411934ca53929a1dacd13c6338669d876307aaddf4b7cf6a1d71cd6]
+│   ├── virus.msword.vmpck1.dk [4be61157efe87d20f94ec3dbd60c20405350972e88d45956241266ae6b666b6f]
 ├── dm
-│   └── virus.msword.potato.zip [4c821269e8e0eef40e165b3954538541e205d66b01db54134b75314d98712724]
+│   ├── virus.msword.potato [9fe908e83331c01af1e75869592c41ed61c4d2c3e59bb742c76685adfa06a6e3]
 ├── dn
-│   ├── vmpck1_d-001.do.zip [87cdca568fc4daa3bdd5f474a986068f6c491bd0d3596cc855ede6f2520da60f]
-│   └── vmpck1_d.do.zip [09f7df3751c75af7b623b6543d9907ca5a0516ca7bf049a9d0391e7ab438fda6]
+│   ├── vmpck1_d-001.do [d154d25ff43aec1f0e726ef4c7e9a20ac0756ac51f7022bbad8a9961265de6fb]
+│   ├── vmpck1_d.do [c3c7e823a3acdfa84b0649791ce24f96775d383eb266a5d79b70ba65aec3eed2]
 ├── do
-│   └── vmpck1_d.do.zip [024e59ef23cff16ff3c40ceefd4153c27d8325559b801ce8c109188ff037fa6c]
+│   ├── vmpck1_d.do [b42788cb91d794c5a1638883b364869f9fb933608ae30d44039fea2e27e25182]
 ├── dq
-│   ├── vmpck1_d-001.do.zip [4270a0c9f67afea2d26d0d0da8261f41b35abd0e1cad6189141509b7e79413f9]
-│   └── vmpck1_d.do.zip [8fd62efe6a76809f7cacd8fd58b8a58ca76bd7591e7da012a28d71725f39c5d0]
+│   ├── vmpck1_d-001.do [4323e719237c1ad86ded5d70b960dd5525311ae927fe94fb37df9ec630b16cce]
+│   ├── vmpck1_d.do [22d5e691a3d048a43736a1d61743b28432d896fc9ba6dffe5857c28a486b138a]
 ├── ds
-│   └── vmpck1_d.do.zip [90ae36911a3ab6b67181f5885d49db24083ac597e866961e27d9d15e6d9ed5ee]
+│   ├── vmpck1_d.do [c65eaf1b313f5b18ae38fe9bcf7aa9cfd45ad1be31aa40a7cfbd9ca04b85522b]
 ├── dt
-│   └── virus.msword.gnet.zip [d0ec87bf2f6efbc6122a0773c0a86907acf70e01c3fcdde21da0f9cc99d67b91]
+│   ├── virus.msword.gnet [3673ac4615b52c9bc071918c1da5ff10c2b43a3df3fe79fd9dac830cb4a703cf]
 ├── du
-│   ├── vmpck1_d-001.do.zip [9749c84a8d84108f0113ad11174126e3751335c55c6efa5ddb1eb7b788733403]
-│   └── vmpck1_d.do.zip [b031ab5fdff7f25a000c7a6f5fa40cf05b97fd53efd5dc4fcce290478a3ae746]
+│   ├── vmpck1_d-001.do [3f67fc8df3cdc4941cec8b1f28be7fe2284560c50dfe8e39d18fb52fcb63983f]
+│   ├── vmpck1_d.do [1d379eb49f0952e0a9e2b3f8066abc05c9c7baac4ad68e94c5ac1d3e5c91de22]
 ├── dx
-│   └── vmpck1_d.do.zip [88093792e67f136d7fbb6a942e6c3f86f438e72e41be0ed5bf91df32f97fdb88]
+│   ├── vmpck1_d.do [a3c576832f291db02bdfa628b1ef5d9ced29d112b9210f3db778aaea15c20490]
 ├── dy
-│   ├── vmpck1_d-001.do.zip [e70f407411f31be23c190131ddafd9667f8aac223b869ea3995bea2b905ff4a0]
-│   ├── vmpck1_d-002.do.zip [5c74bc7a6e971fff2576ce78e72a69604d8df1df45b72e427a141f2374f03e8a]
-│   └── vmpck1_d.do.zip [472b01081d9ab4a36be4319d89c80e475c527cdd3c6feba6f627e8ab3daf0d6e]
+│   ├── vmpck1_d-001.do [543369ebe7ad590ab9fc7305df8667bccd4249d1e48f7b1da9b628517d5baad9]
+│   ├── vmpck1_d-002.do [a285ceb0454aada92b04ff70b4f0ec9cd09b7316d71a95b5c630ce0317cdb3a2]
+│   ├── vmpck1_d.do [3047d83c44404cc347ad8cafb1686ee21f07c7294c3c1dc6a24e3873ec14254c]
 ├── dz
-│   ├── vmpck1_d-001.do.zip [88ee93f6615f00d510406c6f219ba57beecd3501e79ac07ff1e9366fd3cb1d86]
-│   └── vmpck1_d.do.zip [9e3c1581d66440e23b56d9b6dbd7286af3506e1a6cbbbdc224e059ccc4f53489]
+│   ├── vmpck1_d-001.do [de5f9accd4b974a1c27bd0bae67d0ade3252a264bfc6bb9032d4b230093d5eec]
+│   ├── vmpck1_d.do [1be5ee23aa19aae0718d8bb658860b6c238bed2b766d1004fd7eeb1ba1f5c150]
 ├── e
-│   └── cartman.doc.zip [27b9d0d5eb257d3c45e121ac9e1509f74ae46a7efa988e93c36e0c8af5d6619a]
+│   ├── cartman.doc [020660cb063e3a049b2cc8a3f598a076d1b4bb0c1557f9a6c63156af40c1ba08]
 ├── ea
-│   └── vmpck1_e.do.zip [03e852b26b16f29dac366089c9504e1c7ef356a8802c177bd6cc529e879d6227]
+│   ├── vmpck1_e.do [d785c0ede8b30c067288853e00c0a5b1a849e9bc0e40dbbfcc3351119e7a6213]
 ├── ec
-│   └── virus.msword.vmpck1.by.zip [0b9a3596e7fc478dbd447b16c180f624068d9829cd54568db96b7dbc9515b7f9]
+│   ├── virus.msword.vmpck1.by [a333d9d2bf8027c00c2ea460ebdf690d64a265def57d3c7538d676a622439834]
 ├── ed
-│   ├── vmpck1_e-001.do.zip [e65f323ca57f185d9f0be548f8d20c7ad41122316672a46ec2e1875f9f44ab7d]
-│   ├── vmpck1_e-002.do.zip [b6afc270f24f7aa5ae75f0c4e645acf4481808d721ffbe1e2476728d6a4de8c0]
-│   └── vmpck1_e.do.zip [58240f7c00225ef7598f2e26d85a1eb7a7edc6c6f60c223b34fbf8dee155d160]
+│   ├── vmpck1_e-001.do [c763bb5f452e0df7e2750c52668bc2a095882d2d44516b1dd0d026eb7e794615]
+│   ├── vmpck1_e-002.do [bbf9a65011162d9a2136d9eeae5cce5ee75dc6af5972277edda9328bc8ad8d0a]
+│   ├── vmpck1_e.do [8b722c97fb7cb8e9ab558db5e20a1428c6899023810045dcb0dbe39311da7f68]
 ├── ee
-│   └── virus.msword.winn.zip [e526246b87dbd1489f6a5196536bb4cd4a4f1195d8dc5d7c68b7f9ece7c8f0f5]
+│   ├── virus.msword.winn [97889204e8c66c7bcba3e7e41a65fe64dc4429f8fe914ea301fd65710b9df8d2]
 ├── ef
-│   └── virus.msword.vmpck1.ef.zip [1fd55fb33547a5ca65a2ceb406cd89df1a36c0d055139df3049557b01a813290]
+│   ├── virus.msword.vmpck1.ef [ce42c6bd522bb71317aef797d01090156a9b4e0078d22514b59dfa6bc1fb2dd3]
 ├── el
-│   └── vmpck1_e.do.zip [ef3bf6927be0834595047107c583b184be29c46cbe79c16352581c9bb35784c3]
+│   ├── vmpck1_e.do [6d7a8b0108a5f1aa68466179b25f8ac9304616d8b8296505074b2bb6d216fe1d]
 ├── g
-│   └── virus.msword.edds.a.zip [eedc72b1f83e53a8984215e33a184a9e8e6fc5a6e30278c9407a4fb94c027fd9]
+│   ├── virus.msword.edds.a [cdcea29767597b0a083bcd731840fb4296b493d45afea7133f60e01a55e4e0ec]
 ├── i
-│   └── virus.msword.edds.c.zip [0a4759c58787e805df63d0c65127f94259cd157cde4e6b89e6fcb088e1339ad8]
+│   ├── virus.msword.edds.c [484b06a443cec498d4416905a15c5c251e356eb6a74c8b3ddc981fe4ce6baf7d]
 ├── j
-│   ├── vmpck1_j-001.do.zip [69185023b6a60bedd3164013e8e74c8d7fddb727d6a3bc2500faac3c68d93310]
-│   ├── vmpck1_j-002.do.zip [60601e0fc111ec71d0e9d35898fe57e08bcc56f3de3d15232ac11eee56c1e182]
-│   └── vmpck1_j.do.zip [1330d2fbd153d519d4256f9fee18cb21dd2177ece1428bd596db3fc9fb96ba3d]
+│   ├── vmpck1_j-001.do [ec1b0d673bc143f5f800ac2eab4ea9a190d3bab3603c7a6821fc7e41d4be9e85]
+│   ├── vmpck1_j-002.do [c6f613c682edf8ebdb238ed228ff34b1aafe9329cad5ccb66579eddbb20b80f9]
+│   ├── vmpck1_j.do [49d9f3c312ab8527352e47a2ef11d002b1b6244ed67f4fbac22ea47b4954e752]
 ├── l
-│   ├── 5b008157bd2936e2805ad2cdff88bb333ffbe1d2dcb26a97820ebebc210d8225.zip [667730e31403eaaaf741d7d9f21e66a7abc73c0ac075f8402fc70e2a0618488f]
-│   ├── vmpck1_l-001.do.zip [f0da83fcef496de3d0876accaf55d2adf6778a0a3361a16b103ab66cd7343c87]
-│   └── vmpck1_l.do.zip [5f262716275c2ff8fff216adf1adb6ee406bf00486a6cf104928e58fe67941ce]
+│   ├── 5b008157bd2936e2805ad2cdff88bb333ffbe1d2dcb26a97820ebebc210d8225
+│   ├── vmpck1_l-001.do [3a285ce57bfd8d0792d1734ad4550bee2e1aa73b5c8526476a0097aed0203446]
+│   ├── vmpck1_l.do [1c87887bf13408ab31f141794a519fef2459c651c2908a947ea686da22701040]
 ├── m
-│   ├── vmpck1_m-001.do.zip [5972c3714f950c42305fae8b40edfa988b139eea8cd72d598f0abf5be129866a]
-│   └── vmpck1_m.do.zip [c17cac2db2767d8d1f580c4af9ed11cc04f57b2618bf60a4a1d4f252fdda9237]
+│   ├── vmpck1_m-001.do [be105bac65bd229b561cdac70fc63badb5cf405d6cf5b456cf6412997997363d]
+│   ├── vmpck1_m.do [9f1b3a9307f3ea8f1b925b795eb7c1a8eeab5800ef7ca17878799e802d07f22c]
 ├── o
-│   └── vmpck1_o.do.zip [064677c22d7adb7169091baf3981564142bf5d622f580619e50fd9fd3d85a6ac]
+│   ├── vmpck1_o.do [6602e2a5e5351d917bd83ba0f228e91c3f574af7c2ea5df53328324418b6b2b5]
 ├── p
-│   └── vmpck1_p.do.zip [ff4301bd52f87a43bddf8b79210b00229124100ecec93f56f22a15af3e58ef5f]
+│   ├── vmpck1_p.do [1306b0b1d6c155489f8b04b50e91afec74ff09272e904034af10256785856956]
 ├── q
-│   ├── vmpck1_q-001.do.zip [7b18340379e41ffacccfeb5b305d28dad5946b95d4a17e7cc430daec3bdcb71a]
-│   └── vmpck1_q.do.zip [bf9aa7eb648f1b1ea5984e4a6da3abe4e003299d47adabb281206b7ec3f2ec45]
+│   ├── vmpck1_q-001.do [adf7330ea608c5265894b0167587a597757b9943bc7c76e4df2b56035bebd84d]
+│   ├── vmpck1_q.do [0a830e43df7ba013ef9120e9124e9fb57a127105a6a22e78ebd733b0b29f91f0]
 ├── r
-│   └── vmpck1_r.do.zip [964f4f36024f19cc73c4eb1b6d44be88fcdf7ec4cd174f92144b0b06c6d55430]
+│   ├── vmpck1_r.do [cac6d2ca55dccaa919c2c1a7328b7420393d7ebe1c1cd10a613be84ced4f88b6]
 ├── s
-│   ├── vmpck1_s-001.do.zip [20a0052898df85a6edfeed392a78a4da0940967b48c7ae8e14220b0afbb7322b]
-│   ├── vmpck1_s-002.do.zip [a54940d45a61be1831d19a4fad3fdd718be22b07cfc9f0b049be766f403369a6]
-│   └── vmpck1_s.do.zip [d7797f49b24f2ac3e98fc4aeaa572a12b6dca614198e15140628680e58b6c40e]
+│   ├── vmpck1_s-001.do [63f2732673fcebb4561caf706b1b76451bb66731ca7cfa473c59293401e1a855]
+│   ├── vmpck1_s-002.do [fd59d9479a17b1d38696d9992b129da8b6c7baba9da25b5d288a0502d8c751d3]
+│   ├── vmpck1_s.do [01fa11a1dc47d7d36e09a0b5af0863c22fd014e855d81a2b2c5cb9a52cfbf664]
 ├── t
-│   └── vmpck1_t.do.zip [c13a98157188c62bd47a708e5d9b5337eccf2988fa62979ad9eafb50ec2e15b2]
+│   ├── vmpck1_t.do [6ded36fe6c71ff2d5873b16ca1e16c796d02b9840f501fdfb46058ba55530762]
 ├── u
-│   └── vmpck1_u.do.zip [22507f3aa8b9983740d9c05639c5ba4229329403a27ec9795d45bd68e028f4e8]
+│   ├── vmpck1_u.do [c3af1c0c3117d110ad3ca0723b5b332777ad4d8f57c4021c93c09cdc987c3137]
 ├── w
-│   └── vmpck1_w.do.zip [6874b5aebb367a0e95ac88235ae347286fb1ebe370058edb8f32cfc245b5ab46]
+│   ├── vmpck1_w.do [678dbdbefa131b41edb4429fc886d27b4b03b5e62b3193248f430f1fe7f68c1b]
 ├── x
-│   └── vmpck1_x.do.zip [a6107bb9dfc629eb380ad1f3fab49d8495c2ac4fe41e95ff1d2fb7184d52c0f0]
+│   ├── vmpck1_x.do [253d70e65129781f3b219e88e549064d1b1adde58e257e17391dfe94b793d4dd]
 ├── y
-│   └── vmpck1_y.do.zip [cac2b580643e0bd98ffb28fe6de088d6039f19e955b71bf2d6b8803b5bc742e3]
+│   ├── vmpck1_y.do [e58bad7a73942a030ac0c8a5f68158e82d1e3732763be7dc10d30568a057545d]
 └── z
-    └── vmpck1_z.do.zip [578be4aa5622d215eced90eb84487ce188b9e5553295c550eafe421a62b82654]
+    ├── vmpck1_z.do [17ebf469dd98f3f36d82cc026021f3cc85124387d387ef902557a64326a01957]
 ```

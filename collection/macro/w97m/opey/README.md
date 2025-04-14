@@ -3,136 +3,136 @@
 
 ```
 ├── a
-│   └── virus.msword.opey.a.zip [512e5205c4061dda19089f381021ea7309d48514e603648da4fcafc272dbfe45]
+│   ├── virus.msword.opey.a [fba1c3646dd4baf1e1851bdb163515971681b32c9b32169fa28b0bb72ec3c905]
 ├── ab
-│   └── virus.msword.opey.bc.zip [d9fc482aea66f1b601365f69fe4acde4501f70082094f34fac4dddedca3f72f3]
+│   ├── virus.msword.opey.bc [314cf5dc091571f411828daea8d1559a95e851deb786959d999eeeec88595d59]
 ├── ad
-│   └── opey_ad.do.zip [a1f62afcd7119da2274b658e4120646b78fe46538adf5c32fb86f6f3c50b5ed8]
+│   ├── opey_ad.do [936d27c344cf3a1f1fb904fbe34026210f172c3a2e9d7e839e49ae2b9d91b437]
 ├── ae
-│   └── virus.msword.opey.ae.zip [89508e1e4a8701e375e20611eb07af4f6f289febc70f8fb644e53c2740595291]
+│   ├── virus.msword.opey.ae [a4bfc1b88e0995e40146dd41e0d7cb9cc53f4f2f896f865a4622c64d13230d3a]
 ├── af
-│   ├── opey_af-001.do.zip [d1cf3e71d2c392fc287bb16d41a9c436045e54425e5a17aa5c72b37141dae7f8]
-│   ├── opey_af-002.do.zip [1134188fc1051733df3451a775774b00b45102745c15b5d6732b1eef5217dff6]
-│   └── opey_af.do.zip [807f0d6405175bbe9cc4cb652f320f3a73a012a8be6c61d0080c54e5b7938101]
+│   ├── opey_af-001.do [d97f6c7b2bd91946a4d725c4883c5359ef3524b52e2bfb66080e116d75eecd16]
+│   ├── opey_af-002.do [e09bd109e411460922956391ebc686b2fc4216c233695da4dfe83675b5da2b5d]
+│   ├── opey_af.do [d5109f52f746d647751f30f87df42ecda625cadf56e8a1e60f286025cc4f335e]
 ├── ag
-│   └── virus.msword.opey.ag.zip [00981829db5c624febcab600fd32d0f57575d0902a206b8b2437961d443d28c0]
+│   ├── virus.msword.opey.ag [3635e049c9bea0447244ac9eb48393249940d200f27e866e7ef261f2dad7d997]
 ├── ah
-│   ├── opey_ah-001.do.zip [eaad516ebd527aa9d961d7f76cde27a32ed5fcbfef358a603a21b467cba24734]
-│   ├── opey_ah-002.do.zip [32ecc83605bd22bba0bfe957d3f7fe8be5ba34f9ba6a096e4db56f963c6a4ec3]
-│   └── opey_ah.do.zip [479e2adff5035edae952fea8e78718c2ef48f6217a7042f978a6d8126256ceb7]
+│   ├── opey_ah-001.do [8c13095a9360cbac7bc6930d6ce44c5742b12cb8c640c6befad0f9bfe863a24c]
+│   ├── opey_ah-002.do [9e31bf1bb16fbd94d1e124da6feab126480e682ab658aa939664ba0dbd3400fc]
+│   ├── opey_ah.do [83d8804f0d1616bbf813fd9bf55f308a5678fe488ea45fb6768d707009cc50d5]
 ├── ak
-│   └── opey_ak.do.zip [ed1e319b6908c5cc7f00ae726afe0e6067133f79278b4747cc037178d2ee4686]
+│   ├── opey_ak.do [47c81215d676b9c62cc7d1eac5c464676af9e03383bf6a0d2798372a638a5b26]
 ├── al
-│   └── virus.msword.opey.al.zip [d28d3000786f5d81908823a37dcfb8d771c64ccac47fe66bc8b37d6daeab3be5]
+│   ├── virus.msword.opey.al [2a7c862c870e9cf0e4345fc563dc70277273a89856466c94918dd72aade70cab]
 ├── am
-│   └── virus.msword.opey.am.zip [5527538bbe047d556f887d65b1e133ef3e7eddff174d855abf288d92e8b6d9b9]
+│   ├── virus.msword.opey.am [9d8987ae0118f4c0771a7e252615b56ebbdb31da4b88aae8b58de3ab0c13d867]
 ├── an
-│   └── virus.msword.opey.an.zip [b8b92dcdc72b69c62eab209742add54d5fd4fdac8793e1edb465980dd56f3414]
+│   ├── virus.msword.opey.an [5813c80da8d0adb5c5ad86b53e8ffa52dd443512ae81bec9c231e1489242a15c]
 ├── ao
-│   └── virus.msword.opey.ak.zip [69cf5cd25afaf7a3c11c91f99024c0139042e40276e2ff1339d7f68bc78d9840]
+│   ├── virus.msword.opey.ak [a7aabd74696cea064e82d0fd7332dc5684bc7ac1c9eca911e107d4b5ce512a92]
 ├── ar
-│   └── opey_ar.do.zip [e01448b561d17bf30d6d89c4093776942e8ebb48c1a1617bd0466460a9ab69fc]
+│   ├── opey_ar.do [b3c81a493f41c8aa61497d81d34a1fde2b5e18f52cf62dc589c4632aa65d0bbe]
 ├── as
-│   └── virus.msword.opey-based.zip [4864f955eca9bff1f0e1acb4b16dfadf01726627fcbc3f8c2af41904f023df97]
+│   ├── virus.msword.opey-based [ec6c37979046332503a52bb944c8f321b07f24cff1494a91ea7958a65b4ac19b]
 ├── at
-│   ├── opey_at-001.do.zip [3bda36cb8108470def6348c64ed75af83a26a5e79f7ee47fbd6313120a068529]
-│   └── opey_at.do.zip [45a5e187f2b0558242ae8d474d9871e0cc38ea1b3be55aef0e1b385b34ad6e4b]
+│   ├── opey_at-001.do [c5c3f7792729f261c132ca3fe71d58745a0794564a1b7489ae2586954df27136]
+│   ├── opey_at.do [a639804caf831bbbfe57f5ae5e8512800eede73cdfb7f5fb9139694da619e325]
 ├── au
-│   └── virus.msword.opey.au.zip [b539c38684327ae66c9c4b9004f5b0beb87f0ee3050b348c372ab5c41810a37a]
+│   ├── virus.msword.opey.au [aaf3515f499c2b6b26de5fc4868609420e53849ed16b577dcec880638b46753c]
 ├── av
-│   └── virus.msword.opey.av.zip [76db46efec4c674f886418b77fa08865e7c46ab2db2dc81a9d3ab1f69e012aaf]
+│   ├── virus.msword.opey.av [8a1a869852c068be09a8582fdd1b965016cbfd507c3c74499361b0b35fb24f94]
 ├── aw
-│   ├── opey_aw-001.do.zip [9b1945665c35f2aa2a1bb8c260fe0676f73895f4ac1f96fe20c31d8aa3f2c0ce]
-│   ├── opey_aw-002.do.zip [15b7bddb8e59caf78853756f3a82e6d78b684c121a5dfbf0f30575126ad6ac66]
-│   └── opey_aw.do.zip [f687e003f18314da9b66f9233510c7b6472f68f92efff6e6c1f06f042bebbbbd]
+│   ├── opey_aw-001.do [d080f9deba29ce5127b43f8ac976ba7650f603a51e4fed836cc4e64e6898f5e7]
+│   ├── opey_aw-002.do [f05ae99ec27b5aca9671e98ce958cfb1c678bc19f894dab65145e82ea09fd216]
+│   ├── opey_aw.do [b990cff519f2733f46b910643ce808eb726582b384cdab13ab782d7805a08826]
 ├── ax
-│   ├── opey_ax-001.do.zip [008393f1ebe90226503c562b203617eab1e9187e54beb8e2587f93408a133e46]
-│   ├── opey_ax-002.do.zip [0080aa62af1ed918123f7ea162048b07b7c8101fd0f43ae8d54b888ff3bc3884]
-│   └── opey_ax.do.zip [be2f666fcd50b3f3954be5340d52c437a0fe04431fd8bd55046e73a0c5305ce6]
+│   ├── opey_ax-001.do [59a7cf95f053d60448b818e8384eccb46a170c6e6476f50efae99ad77c47a4f0]
+│   ├── opey_ax-002.do [ba8446959f715279021d92f8d6659170e286266c619d2fe8dd41fa56628455da]
+│   ├── opey_ax.do [1b9df5567b81b7afda379985037e9d04c6721fb2869ba1cac636a38f404b6aa0]
 ├── ay
-│   └── opey_ay.do.zip [24ca6412c9ee636ec5f3beb96f0bd12b0451e3a0e0c873061bee7b2b4969687b]
+│   ├── opey_ay.do [37e1a80872fd6353da246969b83031e375386dfd1cce1a833b32ac0bc61f2896]
 ├── az
-│   └── opey_az.do.zip [02a00a9bfb275e8b89da4deb8ed069071f09ccacd560f5f43d41a3893c09bfe0]
+│   ├── opey_az.do [b9c739646d17f4a00d5373170b5832433ca5edefeaa4b940618e4ac7f0da6682]
 ├── b
-│   └── virus.msword.opey.zip [c0f50e24999a65f24ee312d77c3639a7560fe58f1b78b0fd06f97c7977a6af80]
+│   ├── virus.msword.opey [4ff5fa0a62341ad1939499081d0fc259d58c631c20fdde4bde8d02a7b4a910d1]
 ├── ba
-│   └── virus.msword.opey.ay.zip [309f924fd14c708b55c37c4b5870e82813fb63be07b2567b9d0a2e8b1b9a0528]
+│   ├── virus.msword.opey.ay [d5f97aefb34480c74c772520b1252f69e696727a9b816e1bf9fb376cacb2071e]
 ├── bd
-│   └── virus.msword.opey.bd.zip [e86ca845dc1021856e4d0aa2093073bbe1d67cd8ac1cbc4f5297b51306d8f6a7]
+│   ├── virus.msword.opey.bd [2fe268e09ab19ede0c8023551fbbb18d03c6643ec6c866854990788ecd46721d]
 ├── be
-│   ├── opey_be-001.do.zip [af8c553b5f6a53b1ad90d928408923abf628fce1ca7fbccc84e1fdd5db61d173]
-│   ├── opey_be-002.do.zip [09f719415859620753c4b6d1a7cd70b63499c2a6f9c4cfb409baf1d1fb21f13d]
-│   └── opey_be.do.zip [83881e2f903cf7f83ab7208707d2ec4e6e0e29bf9d86347c81da18849fd10880]
+│   ├── opey_be-001.do [daefbcff10721fc115779d6dd8844b2b24133139e431d76c7589eaa2ab5484f7]
+│   ├── opey_be-002.do [c7d402fd39b03eb71dc647f0cf58283ff736051e7db4284b593e936d9cc62d5f]
+│   ├── opey_be.do [9830f62271a3e5698fe18f73651c946594c3489bcae038b369f3342f96ac2d83]
 ├── bf
-│   └── virus.msword.opey.zip [dd6cbaf95dd8cf98c21286f32fcd132a386177bfcc31449b81753450c481a5b0]
+│   ├── virus.msword.opey [7360e12a4bdd28f75e5b671fbc335ddca15ad6cbe8b98acd94d5d85deeb9327b]
 ├── bh
-│   └── virus.msword.opey.be.zip [3e36c8891580cb51ef49b67739c970e4e26af68bd906ba321dc65ff26e8a0ada]
+│   ├── virus.msword.opey.be [c7c5a57a1c204e42d7ca4189536012d16f52cd38a652cc948b35da7bfe7377fa]
 ├── bj
-│   └── virus.msword.opey.bb.zip [a4b9ab68be81e3cc71400a4be0751549fd3970defe1378bea90395ee4161b516]
+│   ├── virus.msword.opey.bb [2e09f924ba119b08597c9d816834b2be2e031fd1fd11196fd3d85efd84025003]
 ├── bk
-│   └── virus.msword.jishe.f.zip [4346f052f4b4b88fe3b62dfb807f7bdc5e51a9504479782dbbc6d4ae0842515b]
+│   ├── virus.msword.jishe.f [ebcf85c76b1ccacb93d92e04fef8cf45ced76c7f03789c4ff89fe6cd56074b9d]
 ├── bm
-│   ├── opey_bm-001.do.zip [1ebd758028d41c0510b34a9ae70f6c6798e7d90f381463dd8c713e6ebf8da335]
-│   ├── opey_bm-002.do.zip [94f0408a3f63a5d9315331f7efb2456c096356ce78345a16e639f0f8eb563ecc]
-│   └── opey_bm.do.zip [bc7998aae3d8c1af9f27c0937e02fc43798eecc46074dea61720292cc17fa1a1]
+│   ├── opey_bm-001.do [319ad5d4e8dda472c4d91eaab3b679fc5407ff69ab5ba2b909203c0b3f3d849e]
+│   ├── opey_bm-002.do [32c61379a514991cbde04d70f974704d4d3e61e9cc88ef9b3823e4b73b6e3467]
+│   ├── opey_bm.do [00382a54512a9ccaae7bb8042858ba388a52cd9acf8e3a4a526db6a1c14ef51f]
 ├── c
-│   ├── opey_c-001.do.zip [3992ed1119ab1a4b2660a8fa1053251d23e35f4c10dd32379e5c02eb27dabaa7]
-│   ├── opey_c-002.do.zip [b538b9838df223bbe9628846b2ebf6d689aeae995bd785de1a24d543d23e253f]
-│   └── opey_c.do.zip [e6fb1655ef7c3f3aa37894584cc567efb392b5206a98a7bb777d8c961baa5198]
+│   ├── opey_c-001.do [666bd1792c5dce19faaf4c25ae22d377f8ce78ddfea03367e6423c620dd4118e]
+│   ├── opey_c-002.do [6bf1583f51199256b1fb1390d71ea0c897f7b3cff9dc623708217130dc83a067]
+│   ├── opey_c.do [3e8790c9dd09d75f58b4cc77f7b53f27bfee27f1767fd77c9d7ae64f19fd8bd3]
 ├── d
-│   └── virus.msword.opey.d.zip [d8708edf0ac79c6917e268481654ac5c7313a278081700930b81365adf35f0e6]
+│   ├── virus.msword.opey.d [9c22d896e287ac9837f22895a8733c2200efcf792906ad4509f0f66cca2a75e2]
 ├── e
-│   └── virus.msword.opey.e.zip [ba9e966190101334655a122574a722848b8a68985465c7d45dcdc804d67ff729]
+│   ├── virus.msword.opey.e [a5cc13a596b6b6a2802028d16e9cb7a7ee0a60de240594f5b804ac465e3ef4fd]
 ├── f
-│   ├── opey_f-001.do.zip [3c5375dade6f26c770fa7e3dbca0160184dfc70dffc49bdc7f7812ec1cb87454]
-│   ├── opey_f-002.do.zip [01e8b66b781512df088bf74f74075aeb7995ab2bf52ee6e02978bd38f7aa0a05]
-│   └── opey_f.do.zip [e4c5e735b73d29be5c1a58a5b4b4bbe80700575e7b07385ad451b258242668c1]
+│   ├── opey_f-001.do [82e60e5a7a2b2055f27a37c75cfd0dd675b740034068ee02b3ae9bbf98573214]
+│   ├── opey_f-002.do [c7ada28b0e1d8e2d60725c9fe24dead728899bebc39714b474097f6060ce593d]
+│   ├── opey_f.do [6edfe36e6bc5a60b061a52577a8b1670ed515ec635e082b42a7a7ad041937713]
 ├── g
-│   ├── opey_g-001.do.zip [afbca2caebaccd95fa7c539f5ca8aa295c9c8b89027d6a012ee49f88f658eaaa]
-│   ├── opey_g-002.do.zip [5f3a6b3e38688bce4ba713f429e669bf5d1a420bc6b86e0c40a447199ec1b3e1]
-│   └── opey_g.do.zip [99679db35df0f4d19309771d3f5e1fcb84bec3b87292fc74a18e6ac7a9147fa0]
+│   ├── opey_g-001.do [9155dd87d53fe7d50330cfed0c975609652229226f692c530ea7920994dd825d]
+│   ├── opey_g-002.do [ecb4c25c72e862ff29e8713b4115ffdb18582f6b863fcc8b5b42faba36df0260]
+│   ├── opey_g.do [1372ad00771b1716e054cb1c0421661de6c2a7f2f4ebad2d682ac0e666981e3a]
 ├── h
-│   ├── opey_h-001.do.zip [61fa49e1057b499b966542d8bc1843d1e7824b271f42bd8c41b538e6ebe1dd4a]
-│   ├── opey_h.do.zip [b4499b5ae0099cb30e0ffeb2d09e7e6b635409c46e9b84c7d5fd3f1ea43215bd]
-│   └── virus.msword.opey.h.zip [ee82cf2d49e53207a6ee87d3cbc57cccdcac132430b7a217aacf896652973cd3]
+│   ├── opey_h-001.do [f0d717abc2c5a9a3e4ff24b9f061c84f07cd6a80254caa5a9504dfb3bbdecc33]
+│   ├── opey_h.do [aad8359d3a633a080ab84bf0cb4ff5418450db08588ba3be914ba4a2f5a2cde1]
+│   ├── virus.msword.opey.h [2e9532cc74c83807645eb266662621666571eb3920d5e1b5f633435a12c2ec42]
 ├── i
-│   └── virus.msword.opey.i.zip [4d1d2fbd97c42ac08a0da45723bbe5a4ca733901b9fa077ca5b8b43445acba67]
+│   ├── virus.msword.opey.i [83734df299f439ce8b30a9f5248d0bdb8ddcf16edf133ba24f8d7c94c5eba679]
 ├── j
-│   ├── opey_j-001.do.zip [2dd01752e523d0bfd0e49322465858a8ad73ab6326b41f2592dc6685eea3851a]
-│   └── opey_j.do.zip [da6a491e95a126a9732f64924747e6c442d56d7e2df7a235c40b1d7621eb0fd5]
+│   ├── opey_j-001.do [1b0725d99d87ce70d04efcc471828364c869f7df10fb596ab69b6458b9d46c07]
+│   ├── opey_j.do [0bf3296977e3ded419cba29ed58c6267be173821c62490b72078e9e949c694b8]
 ├── k
-│   └── virus.msword.opey.k.zip [fa2fa44773743aa6ef9bdbf7218d336d889168e4a3000ba9a8d621d91023d9a8]
+│   ├── virus.msword.opey.k [37f96d338d51d3c9393976500941a20cafeb03f08dd3ee713f3a1a384e4cb594]
 ├── l
-│   └── virus.msword.opey.l.zip [3b7afe5311c0bb66507c3860d30671fedc280b3f6b4e8b7337d1c33b8e28736f]
+│   ├── virus.msword.opey.l [9fdab6b2c40a8f0751074c60f6b2094826a29bc3756093597dd7ff399bf8d97c]
 ├── m
-│   ├── opey_m-001.do.zip [632ff7616740eb5f8307e7c5789bbe37e8757df3fec7c58657366f42f26db89a]
-│   ├── opey_m-002.do.zip [c28998479917b6e11447ea390194b1cb4d47a0ce905865e6a2cd7195046de560]
-│   └── opey_m.do.zip [2a17f8b58b12aa647464799009d09f39f17b02ae722b7afbce887368210412c6]
+│   ├── opey_m-001.do [37998bb03ab61206403806415c3916fe830c9c0abf70d12e362b88f35ebe26ff]
+│   ├── opey_m-002.do [fa4ebc776ffb719f91d94cef528489037ced3ca91d1d255d3e6b8fc03bc969f9]
+│   ├── opey_m.do [1fb7dd6037ffa9b8309ca4c46eb8c56c8ddec077cfdffd6f68f20687d2b6185c]
 ├── n
-│   └── virus.msword.opey.n.zip [297d7543037fb8c4be19ddb8d81cd3a7435d8e207fc60d5d6aaedc4d342de227]
+│   ├── virus.msword.opey.n [f76348eea2e244caf81c4c19ed23375b44f07030a4d8da1efbb02fee06da4e41]
 ├── o
-│   └── virus.msword.opey.o.zip [0363d5b301a0322e234e56684fff32561375f3dea2ead49189fbcd257b9c11c8]
+│   ├── virus.msword.opey.o [2a9aa1547a9a75f703a600725014378ad96efde30558e6063fcf41543db7c378]
 ├── p
-│   └── opey_p.do.zip [62cbc98610c6f18cc6b7d0557862ae0017b787c090eaeff7f1b05390b32c0128]
+│   ├── opey_p.do [4fdc427e70a8740dbb544d536c098b1aeac9bdcb7ef8dae6ff99bc41e4f6e0aa]
 ├── q
-│   └── virus.msword.opey.q.zip [a3db95b3f86b9f9b91e10202176de211a2de8aaab6ea09296d790b900983e996]
+│   ├── virus.msword.opey.q [03acda5eb3d8e16fefcfbc9a96e51dcf37cdb9de4697cfe0fd3b3942c619322f]
 ├── r
-│   └── virus.msword.cereal.zip [f339827a94259133428873a2cd617589ceee8fc45204cbd39f5ef26a6dc92cbe]
+│   ├── virus.msword.cereal [84480d7de3a9bd980b7bc6c278e619cf3cc7b5fe6e47c1900d76092add78caba]
 ├── s
-│   └── virus.msword.opey.s.zip [fdb673aac74148af32b8166894d224ef8dbf4f3f3a43ca1dd177ea7791166461]
+│   ├── virus.msword.opey.s [0a13c7889eb4c8336c2b78fce3051be730fbb7ecad1283181434aa72e685dadb]
 ├── t
-│   └── virus.msword.opey.t.zip [74cd6858bee7baa596082aa415c34be5fcecf3ab45819985e6d794b235c9a8c0]
+│   ├── virus.msword.opey.t [a8d5c8b884f7eddac32720bf7f5cc8c426dc97c87c1017aef2bffb3ae0c5ba94]
 ├── u
-│   └── virus.msword.opey.u.zip [4975122d9b4c22b0a5dca33ec0d7a7c36fe661ab5392f79d310196fa829d5b41]
+│   ├── virus.msword.opey.u [3b1bb653d376a5900be09e5e9e560997cdfe36f1951910277ce7478d00ad3f30]
 ├── v
-│   └── virus.msword.opey.v.zip [fe624277ad139526e604152340e2239596a3ca367eabb89f8a9b1e3c2c88b7f0]
+│   ├── virus.msword.opey.v [42eb2e0a3f65b6e5d37cd788d04ed9f2a242678acf83ca83c75951aeec5c4d36]
 ├── w
-│   └── virus.msword.opey.w.zip [375c749cc84bc3851210f4547436119402981d3d75f69bd4ac993d85138c1d01]
+│   ├── virus.msword.opey.w [e5ab495cd8a76bf7ccae5c9341b94f978d3be1e84dd2ae8aa76c1ac43f75935f]
 ├── x
-│   └── virus.msword.opey.x.zip [9e722ac8140543a55d0056b414500f80de9136eb7d107f3cb1384e16953daab3]
+│   ├── virus.msword.opey.x [d2bca65dbdcc0aaf9d299c439c15408551fb73ef6363d37c6fdf7fafaa8c5c7e]
 ├── y
-│   └── virus.msword.opey.y.zip [ce60f33535dafa96f5208752f4f443e4389a7554d57e2dc561ccc25608ce8abc]
+│   ├── virus.msword.opey.y [569d0dab1b59d7673d651fe2bc3cd220a079c26c0ad283f03fdb7d6f09bab810]
 └── z
-    ├── opey_z-001.do.zip [59d365efa15beb057a55dac862021c800f8047b1b968a28fa6b0158287a012bd]
-    └── opey_z.do.zip [04aa3136ccd5c379d732ccf15da6fed7c406e57e1583afa0d0116b49a596aa75]
+    ├── opey_z-001.do [edac816baaad5431ecf8888e8c4153e177a7cbd92de9d55a7887d665901c5372]
+    ├── opey_z.do [2004d84bb5963159e106909fb3c7e642a74504772d8bfbc4e677564bcfe1fbfc]
 ```

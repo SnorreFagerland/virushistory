@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.digger.zip [48555fe3efa3fd6b4e67a09b9f72a54422d627b5556d48560c93ee28c56f2f7a]
+    ├── trojan.bat.digger [3f862abf669b4a07a27273bb9ed2f0ed2c298875edeafaaf475b601cae86c912]
 ```

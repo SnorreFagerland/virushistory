@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── trojan.dos.ares.b.zip [1008ae82c173db8dd89632698fd22f7474aadd34dc2643c196114e55fafa120a]
+    ├── trojan.dos.ares.b [2b6f9622f84a187c76b65a68164359820a8054f61c49fb1f66a0396a8158253d]
 ```

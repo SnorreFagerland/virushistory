@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.marker.ek.zip [a0eb276781f62b602cfcb52b89cad81e5ef925dfa4c0e88691a03bf57485d3ed]
+│   ├── virus.msword.marker.ek [159658eb472158e26cfd405d806ba16833f1c1d55fdc68cd09db759fb1eec9a8]
 └── b
-    └── virus.msword.marker.el.zip [6a5337c2f7c815326310f18f4aafd6326d83e11a0c543b18fb9870ae7156568e]
+    ├── virus.msword.marker.el [fcde573c06580695ab5422fa37db243715dc72e37496aea49f3bee9a64aeca19]
 ```

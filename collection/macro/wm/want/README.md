@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── freedom.doc.zip [0a6e90bbc77124116259d53a944b3c99cd20c148fb2daee15f1f07709514827f]
-    └── want-a.doc.zip [e355dcf051b53aa49491bff45faa353f1b5a5036cc64aaf84d2892a89a1034ce]
+    ├── freedom.doc [668ba62136b05db22ebc52109862486086e73550beac7a35a08b1fe37a35e43e]
+    ├── want-a.doc [528573ffcece1ac406e2c427b0778a6aa141a7947ce427a7b160965dfa966e00]
 ```

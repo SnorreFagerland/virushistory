@@ -3,8 +3,8 @@
 
 ```
 ├── b
-│   ├── virus.bat.newhost.vat.zip [436777693c7c60285c699a4d533460d8beafa9115502e91f949cafef6b58dc7d]
-│   └── wagner.vat.zip [3192165a3da58456dde11a8660d6becf1e91900ccf6965ca208f38998b7a576a]
+│   ├── virus.bat.newhost.vat [1fec17e5140c24d9f2c8051240ddc91d2358d116254c480b7145f94a8f091d45]
+│   ├── wagner.vat [2530311683d0fe51ea68283981e466b5f6893e9807a16827b32931a920f3b6e0]
 └── d
-    └── ansivir.vat.zip [dc4293433a21f3711778625c4e8703e56a60fff37da45dc89dfe1eac743a4369]
+    ├── ansivir.vat [e495a8cf4c58234d8a01abe854eb79630ce4f690ed119570b918cb6c71802a73]
 ```

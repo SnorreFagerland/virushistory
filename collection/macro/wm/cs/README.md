@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.stealph.zip [c923b3cb5911ebe981b5abe31d183292230b1d251fcfb6352622d67f60bbbf92]
+    ├── virus.msword.stealph [8729bbbd501b1f1f8f538ccf4336361e26b3bbe273bcd9d197d4dfe28fe99248]
 ```

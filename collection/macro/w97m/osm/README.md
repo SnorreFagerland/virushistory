@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.osm.zip [c6585dc4dd451529cbc3fe542e320a6022c9286acb955e19c08922548420c17c]
+    ├── virus.msword.osm [b363b02ede1c3f9b47e80f6d12fcded51caec799cc11bd0ece83a0f352668034]
 ```

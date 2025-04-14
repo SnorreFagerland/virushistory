@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── infected.doc.zip [6c4feda42239fb5008aed9876e151d3a3ba4fb0e6b065f86ef9636fc59b6bb68]
+    ├── infected.doc [a46787974cc4e7e09529d98a429e66d2ae8c1e3017f5b83fc33edddb15a020f5]
 ```

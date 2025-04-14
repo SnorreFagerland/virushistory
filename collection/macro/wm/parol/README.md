@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.parol.zip [c8e81eebd503774904a8f607e315567c4d9aa454ff086f16fd755fbee5aa966b]
+    ├── virus.msword.parol [dc6e4a04a7c01536cbcaf7498b5d92100ad7b4fb5a6acb6ddc4792b530bfa638]
 ```

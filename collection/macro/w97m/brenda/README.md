@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   └── virus.msword.brenda.a.zip [c0b6e3bbd52a57e123840fdbe51cbb2ef5ef8766c502cf0eb1108406febfdb36]
+│   ├── virus.msword.brenda.a [dea6bcb1edcd318f73025cbccebd31e4e43f8e5562a34f188a47715e6e19a1c3]
 ├── b
-│   └── virus.msword.brenda.b.zip [d55aad5de2ffa96ee5b00d9ccf76bf5410be5e9d65c78221621908c710b07cc5]
+│   ├── virus.msword.brenda.b [f5020647b52c11d82dde954adc24198f89fa638503b4a6340dd8cdc4d8b021e5]
 ├── c
-│   ├── brenda_c-001.do.zip [5e25c1d147d3f8d5bfc777f6f21493790d0dea86b8ca2ea9a0daaa0d8e909de5]
-│   └── brenda_c.do.zip [781110e21e98f863ecadaea2a4146a2e3efde2d5aafeda18eb594550f8d4ac87]
+│   ├── brenda_c-001.do [cd92905b9338acb93677b3d188f72c1e9c7fd5a71c95b6de97cca3689bcd1e72]
+│   ├── brenda_c.do [00aa3f50858ade336a698805c061a92b047830fee1c7cf2bd7411a1cf1b89ff9]
 └── d
-    ├── brenda_d-001.do.zip [cb646f07322ebba4b9d4ab6e3fc87db958c5d7124ea1ab00f1a6701028f832e7]
-    ├── brenda_d-002.do.zip [e337b8df4a9429f4ff043056610fbaba05bd927f3dfafb28c9eab66a897cfbe3]
-    └── brenda_d.do.zip [65d5a390b8ba6dd6ca111b045445853390e30ae514ebc571b04b379c3d87d567]
+    ├── brenda_d-001.do [d04926f4d231149f38351bcec11b1f7243713421ba14f383a5f9019ded999489]
+    ├── brenda_d-002.do [b62c7e20a0877b770fd89830fb24436d6d116c1c724b1a9b51f003b44af555a8]
+    ├── brenda_d.do [4c8bfe28e176b5f6ec94a6d2eddef8b46ab1ca9c4138b47a05024947ef1b8af5]
 ```

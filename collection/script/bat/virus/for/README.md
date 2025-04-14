@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── 322.vat.zip [6b4875bb327dab865fc0d3fca74ca521223c4a1c1e90b8de720a5617848c4724]
-    └── for.vat.zip [cbb7057e7a7213b00b8ff9eb92b696ac357a45ebbfda4babbc451636f1aafeca]
+    ├── 322.vat [3f870556bac15ca5219acc5184cf3d8cf67863555c72ec1f93478c7bcc47345f]
+    ├── for.vat [8f060040a3817a32163eda46c1e420f055bcecedb9323167365f311b10c2c432]
 ```

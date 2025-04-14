@@ -169,6 +169,7 @@
 │       └── virus.dos.katvir.623 [a0ce52a0c7b11f800f76f9b9f81d5969612d0ae6cf053a8aec18e2a2b24edc5c]
 ├── katya
 │   └── 732
+│       ├── a.vom [8a4f1ba2b1ea79a7278877f49bf11cb54a7046c88e99a11172d60e67bc81153d]
 │       └── virus.dos.katya.732 [b85ee9bf37e8a82b6a8378bb498d1de5916e2dcab2b98c7192996194b2149828]
 ├── kavaklar
 │   └── 743

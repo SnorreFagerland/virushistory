@@ -3,28 +3,28 @@
 
 ```
 ├── a
-│   ├── invoice.doc.zip [2e2c1966f16c60eadc9eb7e75a3fa58fd0580512de0cc71f95cc224317bcac76]
-│   ├── kompua97.doc.zip [e27869fc83961c2f3102e7c017e6df78cd8f22a8f3e80b5e93f796f3cc1715d3]
-│   └── wci05783.doc.zip [17515a89d26abd42fc5e8cf4c6b5581f7ceb0a35121698943e533f6895a37610]
+│   ├── invoice.doc [894ea1f58eac153bd1ca3b5b89ef644df14bb84007df2cfb9f9ad9d9ffbc6752]
+│   ├── kompua97.doc [38687035ce8eccad2c8285c0e1883209ae797946effa3e668971685328d7b5df]
+│   ├── wci05783.doc [38687035ce8eccad2c8285c0e1883209ae797946effa3e668971685328d7b5df]
 ├── e
-│   ├── kompu-e.doc.zip [0d281630bd1130bed93bdcee2c89f36d2364c621e4cec4d25aac90e1e0e573f0]
-│   ├── kompu-e.dot.zip [cb74a90a29415dc29dd2a2fb899670fdbae1d645727e5d0a0c94ee56da124eff]
-│   ├── kompu-ea.doc.zip [7cb68ae827ec78968344f4b2e7af18015e1b3287efedeb8fcbdcc0e98b569a3f]
-│   └── kompu-ea.dot.zip [702dcac31baa02f402b434a88a0c483d87913b9b8927e80603e6331d6262bd50]
+│   ├── kompu-e.doc [7ae3fdc67b699023d5b7f230bb32d121c6fe21019e6d3bfb4566edf98e3172e2]
+│   ├── kompu-e.dot [1eae02f6ca83290f9e4e2af7c663b39c410ee001a83ee919c7a9d8fd3a923c0a]
+│   ├── kompu-ea.doc [11334459ccbc9655f2f69d7f20f7855b6ac829ea1293a549e458fef00f33f69d]
+│   ├── kompu-ea.dot [65d11e64b30718856d56bceb09acb7d7f26768dd44dcfe58cfb0eb1439e33a81]
 ├── f
-│   ├── kompu-f.doc.zip [d8a37fd8819bef905a1a0822505ab8577ced58712b76ecb9a35bc75503afec96]
-│   └── kompu-f.dot.zip [2b6f0b8333fa0e8587479342bf0d978e70ab7d57e14490b5ff3208924368a19e]
+│   ├── kompu-f.doc [241539abdb17f28f3bfeba05cf074164da78126cc7c5523d3f1d51127b298f6e]
+│   ├── kompu-f.dot [baf5eb50c6a60da8e7c6d46bf8a43b68b6964f61b1759017004e81610935285b]
 ├── h
-│   ├── 1-komp_h.doc.zip [3743d179ae212e7c6d43a3e3f890f4134b9d69745bfef738c31050bab9a3dd3a]
-│   ├── 7-komp_h.dot.zip [801ce340acb6a15a4d69d536d4700e65a12c83ea7bc96d5438072c2b5316e78a]
-│   ├── kompu-h.doc.zip [cc0b088a1bbdf8a7857b1b48e5120565e839e8704a218be3841f7840d4c26406]
-│   └── kompu-h.dot.zip [557ee70c18151a7666be5393601e8217266f432b3047c4ae9fab057153beff35]
+│   ├── 1-komp_h.doc [34defeae1a2c0847cdd0e87037b8e48a5467cc60c9dff8ff752db9a932860c50]
+│   ├── 7-komp_h.dot [2cbb8140e9f644db37442dff496c350fdb38531c4d9e942b8a04c0255778033a]
+│   ├── kompu-h.doc [84fec4f45df3550d406f4ae671a4e6097f4159b659879639c499c6bc512ba9e3]
+│   ├── kompu-h.dot [d104fbcb347477777a0056cd5bffb1cd54817113475e574ec2acd655ad10a611]
 ├── o
-│   └── virus.msword.kompu.o.zip [f71e4f3ef9f65d22cac54ab2ec89f1d21c69297865f347c29eb0e89f0784a505]
+│   ├── virus.msword.kompu.o [992c4c8dd25f82f419a7bf1d937e4d9bc2ef477f151a0df1759fe1a9d53f3ed6]
 ├── p
-│   ├── kompu_p-001.do.zip [16c4507547162296c5f0291c1a2d93e12bf756ed1309bdf9f303f872eb277ed4]
-│   ├── kompu_p-002.do.zip [06fad4fa389b2cf45f72691c7edf12d9b4127f3b4e44878126e21e4a4af53126]
-│   └── kompu_p.do.zip [49496c876f08839ae363a0469c18d17332558f549d011b112756f403e2632be1]
+│   ├── kompu_p-001.do [25c4f84cfdf56c81376556e9d90d4908c913c52ad693750405f429d684e7f929]
+│   ├── kompu_p-002.do [8c91f0c710af84a4b6cfc8ceb175c552e0c12d1d9bcf6feb03eca4b5b1c24a38]
+│   ├── kompu_p.do [1b7fe9287823aed58ba5c696fa6745131fd35239de7f422aa1d043fc566250d4]
 └── q
-    └── kompu_q.do.zip [70a44cd01f2261b5f8125fb05c7f1e24e42d67fe672be471fe5170b447dced27]
+    ├── kompu_q.do [55dcb99e7c7179d23b791027971908b80a3a9a510092246faea34805704b17c9]
 ```

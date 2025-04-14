@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.msword.pejuang.zip [d98e47d1fefbc954b76ba9354317a5d5eeb3f56af579aed03a99c05b8192a70c]
+    ├── virus.msword.pejuang [6dbe4d9579655db8096f0b0894f804534ba2d999213305f0bd29a68cbd608194]
 ```

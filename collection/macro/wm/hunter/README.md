@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   ├── hunter.dot.zip [8a50d7200c3fdd4592eb927ad583cb65a490ebaad65358dccfdb4dcd558423c0]
-│   └── huntera.dot.zip [533b98698fec4708020f49d7367205959810af1eb387ee095a59498b1d939e1b]
+│   ├── hunter.dot [db90ea397a47809327bb914729f36ccd06691773aec6ba808bb2a74b75961fd0]
+│   ├── huntera.dot [37d51be391145df8e8f5c2721a1797c7173e2f86b3404dcb01e15ef0e91bcd3d]
 ├── b
-│   ├── hunt-b_2.dot.zip [97192f3a214c7acb196a669545c241e65165b5e0f64781d3a8130f9af9d994b3]
-│   ├── hunter-b.dot.zip [9d96643c9aaeaf74a50a9a5b90a0d23a13b114e741e64ba03a0af983518486b6]
-│   └── hunterb.dot.zip [d63a3144fb3fe6bb09975c9cd818dd5795897aa5d6843d9edc06d7986ead227b]
+│   ├── hunt-b_2.dot [9e915130e4a80647d4b0b1b3a2e8dbaa6f4067d2d9ede119d39b5bce86f15b6a]
+│   ├── hunter-b.dot [b7fef77b5ee0c243a6a4980fbc2459e970fd60c69a1909f62700a290593412d2]
+│   ├── hunterb.dot [0160ecc844edcf02b8b702d263018eb496261b8ad3516e955961ccea4d83d4dc]
 └── c
-    ├── hunter35.dot.zip [f89af7fcab4433610d641fcf9c5e68c9e18a6bf3abe026511d3781f91d60d709]
-    └── hunterc.dot.zip [7e892a86c17c21bd20c3b270c335f54b0124bb8cf12233812a00ffa9b1478c6b]
+    ├── hunter35.dot [e8f7c99ea13cb1696d120011d950c6e7621622311139cdbf0917c2c9f052120e]
+    ├── hunterc.dot [10d3e77ca34ee0f75a05534934d2a386bef2ec6893c19b621c75cc3d2cdbf8b3]
 ```

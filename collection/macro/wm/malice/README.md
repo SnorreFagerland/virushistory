@@ -3,9 +3,9 @@
 
 ```
 └── a
-    ├── malice.doc.zip [a49ef03e2d1c730f9dcb29db9d63e09a49c44e9fa9611a62c7e30bf7fd24c228]
-    ├── malice.dot.zip [4cd127375fda9bd80e01b4979f39992db5e3b1e1b158d537acd5588a40124259]
-    ├── malice1.doc.zip [700d318b7e1015fe5928dbf11db7500add961a51dbab928e4001bdb343ba20ae]
-    ├── mini-v_1.doc.zip [bed757a8d17a85802c1b8a4f1e1e1d1373dd6fb2a47bfd90c7676e8b3746115e]
-    └── mini-v_5.dot.zip [ce4f7eacbf7ece335e7975216c3a70800a12a9ab394b659f6028f678966dfa1c]
+    ├── malice.doc [68064add6335e30fc54c05d3b3e18d50c8cd34e47de72ffc5dcbcc9a63f22fd2]
+    ├── malice.dot [bc40ba809e891eab5b2466dd12ec51b9d0deafa9dcea408c0e4a3e1f720a24e6]
+    ├── malice1.doc [ef0e73de5a590c6356bc82769cb69727e01b4f9eba2b051830f704939b12ea6c]
+    ├── mini-v_1.doc [02d9f34a749c59813fd90639c95b0dbbda3b65a63c0b6d0cea9bbd718beeeb67]
+    ├── mini-v_5.dot [27059403e4b40b5fa825add96f0f8c6320d4aeddad108d191ad22a2cecf14968]
 ```

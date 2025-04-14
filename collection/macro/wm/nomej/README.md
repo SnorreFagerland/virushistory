@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.nomej.zip [ed604ae510aefe7e2f87431e447ebcb0dad89c1cb892b403cc6a27cf9823cc89]
+│   ├── virus.msword.nomej [8edf4722493a27395bab91fcfea6fdabd14e4ad112911eb6c16e7892add68194]
 └── b
-    └── virus.msword.nomej.b.zip [09520e24fdc85860d681972e09c05270dc0766e70999bdff7bbb371f4aa59f08]
+    ├── virus.msword.nomej.b [6a7be845d31f419e42389a1d84e3a213c9acf1be077f1268642cbc39a6ca983f]
 ```

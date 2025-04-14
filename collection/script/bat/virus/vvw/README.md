@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── bat.spth.vvw.zip [8dc62ba1b285ece92a6d78fd38c82cfc7599b082e59829153a73327415955629]
+    ├── bat.spth.vvw [4cb18dfa3fc3e22683af5b31fb99d82cac6a4f41bb9fae92871b52eaae5d3505]
 ```

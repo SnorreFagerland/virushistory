@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msexcel.hongo.zip [f99e04c8a4bd08cf2e7fd66735651c1c0c4a70e3f81a227f8d9d3338bc03ce41]
+│   ├── virus.msexcel.hongo [c45800ddb385827a23ee01bb07a1856a77c894806e600688dd301edcad94f18b]
 └── b
-    └── hongo_b.xm.zip [e35cd9ea9fff588ba99340007fed8a3554c7671f898fc2df787e857b86b36b3a]
+    ├── hongo_b.xm [011e70536a8e1079c565a814e12c4fbefd68413947daf04b21da3faaba812d67]
 ```

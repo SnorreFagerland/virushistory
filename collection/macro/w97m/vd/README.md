@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.vd.zip [e0fdbcdadfdf8d83c7845788184381e6d122a4a9e32306ec63f417ac932d9617]
+    ├── virus.msword.vd [0827bc4362b35fb8bfdc89373c5291c168b2d9826518523dc5f63db9275fae9c]
 ```

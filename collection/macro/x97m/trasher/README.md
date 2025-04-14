@@ -3,8 +3,8 @@
 
 ```
 ├── c
-│   └── virus.msexcel.trasher.c.zip [bdd89992e12cc1a1996192c983e3a44720d83c1ea0a01d498377942a1fd93fd6]
+│   ├── virus.msexcel.trasher.c [009b0ba665439911ab0a843b81d247abd7c7e1d455b60370805355e085587b01]
 └── d
-    ├── trasher_-001.xm.zip [7125229b6d27094e88b9ab41e8ff689fd89659e557e57cde4abc20c2c90871c4]
-    └── trasher_.xm.zip [63febef298015c2a9645cdf9f327e2da5496dda8024aae767484fb3e726fc4ef]
+    ├── trasher_-001.xm [2a7f8b9833f67a9673e62dd8c2399a778a8828fce5d7b7ac4bd1e044da60a191]
+    ├── trasher_.xm [1082f06124626cdac38f06478a9a53e6ee08bb4bf81ebbccf15f9223680bbd84]
 ```

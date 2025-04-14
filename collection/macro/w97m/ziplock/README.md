@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── ziplock_.do.zip [654b98853348a3a8202c4b7156cc1faacf6e13c1a741e0e0469ab288e11003ef]
+│   ├── ziplock_.do [a4603f9927f9d871284110db1e7ed8d56bce0f16f5d3f38219813a8dcd111b3f]
 └── b
-    └── virus.msword.ziplock.zip [d2befd379c4a556c1102498c00963836cb42bd0a7f8ade5a5645126e6df72253]
+    ├── virus.msword.ziplock [3d8e4b5547bb4f0a2d63e0cce7d1cc2387115699c94d7529c6b3ad3fba7eee7c]
 ```

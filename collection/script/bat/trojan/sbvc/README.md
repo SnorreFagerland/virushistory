@@ -3,5 +3,5 @@
 
 ```
 └── d
-    └── trojan.bat.sbvc.gen.zip [4e22a416f74f00809ae9483fd502fd7a8cecf316778b20ff183fa473b3f2953b]
+    ├── trojan.bat.sbvc.gen [b8b2de8cabf78053449239259f5a85b0399f3fe76dec848a58ccf077ccc820ab]
 ```

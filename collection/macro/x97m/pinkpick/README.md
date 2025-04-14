@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msexcel.pink.zip [4b58a0ea24b1a44c31a7a41fe7d9a714d59eb672889b5b548fa2caec25df0047]
+│   ├── virus.msexcel.pink [96547f3b6ed6cf767b87f2db48333efc113b848f393b613ccce62dc456965d19]
 └── b
-    └── virus.msexcel.pink.b.zip [001df0c4b0f292b2bc66599fd7863c6dcea8d620f04b7196a7a6be23ba50d98f]
+    ├── virus.msexcel.pink.b [55abfb07049060217b6df65bf932c8707d6a62df0a1c482f7ec2a0a6be7802ad]
 ```

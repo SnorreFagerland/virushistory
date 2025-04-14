@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── bat.beat.zip [2d862c8a2622e992d6b8bfc394dc583f7d7fddbfc70d72ea42fafabf3832c9ea]
+    ├── bat.beat [92e4f4bab6dc8ba6c87fe5c44c2f4d62a04ddfd91ba1d4f38f363d272e4d0c97]
 ```

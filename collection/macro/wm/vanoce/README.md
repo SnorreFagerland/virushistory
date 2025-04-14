@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.vanoce.zip [3765fbe52715db6305b322275cf96fd64abae362c0245839e31a300b41f9ea33]
+    ├── virus.msword.vanoce [f3b53bec4e543977a9927ac406f31c6b64dc409eb997b39397cfb1e86720a9ad]
 ```

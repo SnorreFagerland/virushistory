@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── simple-a.doc.zip [7fd15f3d7e9e3a67c7d2f5cfed42bbfcdf0986de7a44a4c340fe6a99fb4d8cbd]
+    ├── simple-a.doc [ac45b56fd24280c0ecfd8a515991405dbcec6b154cfbb5b872c0de019e683dd8]
 ```

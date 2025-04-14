@@ -3,5 +3,5 @@
 
 ```
 └── 301
-    └── virus.bat.301.zip [918e524efc6253d998daa2df88608a026e2afafdf951d8601d7c20a0a3bf70f9]
+    ├── virus.bat.301 [7d6b927890c2426b73027b62e3af8f6bb43859f6b8285aaee1c177a7d16b2b69]
 ```

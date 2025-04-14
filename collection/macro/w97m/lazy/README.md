@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.msword.lazy.b.zip [1084e190c1f0088c909c9b1676a59b4fc39393e3451b286b079ef2e0aa49b28f]
+    ├── virus.msword.lazy.b [01b6707170d64825de767d14a0932201b809048c694de97141fea238585bb9c0]
 ```

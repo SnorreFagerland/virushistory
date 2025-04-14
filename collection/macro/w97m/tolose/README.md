@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.tolose.zip [1f4f6c343236a05b9a3decca00b32521668289dbc4abe163e07d35696056c36c]
+    ├── virus.msword.tolose [89cf6ead2098a6b1119b402c91b40cdfbcfeadbffc42015cb8434fcb0bb80015]
 ```

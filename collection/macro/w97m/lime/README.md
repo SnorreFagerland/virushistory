@@ -3,13 +3,13 @@
 
 ```
 ├── b
-│   └── virus.msword.agnes.b.zip [d5bde695c8c72bfbe576fda885ac01a69f236630f0031fff1ff2a94c598a3b38]
+│   ├── virus.msword.agnes.b [ebc36b177ad6fa20c24e21fc6ee1af2c942edad2f78a4ee03a5e38bc2f6769fc]
 ├── c
-│   └── virus.msword.agnes.c.zip [b5e94798092fc529a6dc012820801c52118e25c36f52175b09ad2aa61869dbab]
+│   ├── virus.msword.agnes.c [fa0c49abe6cfeee090b686bde2c54db2e41c1248ca35efec50d95a231dc2535f]
 ├── d
-│   └── virus.msword.agnes.d.zip [22a4df267d66f6197087c8bc0807889b29a4dc022c44b32623aed1982e69564b]
+│   ├── virus.msword.agnes.d [c9608408df86e3e217ff4c2400befdee04115ed9d637f9065797cd4336c89402]
 ├── e
-│   └── virus.msword.biergit.d.zip [76283b0506f70d8caba2ceeb181f739e87fc79dd9f05078e713e64d68111ab3a]
+│   ├── virus.msword.biergit.d [b6ff0324e972b5588904b4eb26eb9340fb53a081628a868c4706d7eb8ee10976]
 └── f
-    └── lime_f.do.zip [579f5336809748dc088a855d7e3d832f946cb9553befa2f9c309d13f45830390]
+    ├── lime_f.do [0c601c7118835e600cb6408f9e1221e1ec0364eba7fdd43cad7ece7b0a772b26]
 ```

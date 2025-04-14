@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── hard_v1.doc.zip [8fdfc0a347187d8c44c8ac6d2b5203e0196615404ff7747d0c802cdbffc6c463]
-    └── virus.msword.nono.a.zip [fc8fab19564f168cc0f9075ceddfcb4290fc761eda895b1199d95c7522e8c11c]
+    ├── hard_v1.doc [931a82d99211113266dba4938e47925c52ef52ebd66e1df1c6955ec4b6667762]
+    ├── virus.msword.nono.a [f44c9a6d34209372345b2ae626b1963b5e366d8c428ec78736c4865225927c74]
 ```

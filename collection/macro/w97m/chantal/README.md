@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msword.chantal.zip [5eebbca50541bb7d014062c41b17233aebefbe94d3774647f4f7ef8460aed622]
+│   ├── virus.msword.chantal [aa61b8d7a390d1c71fafc389934fd4a073f79dfbf0f53190b1b69626ce5ba0ab]
 ├── b
-│   └── chantal_.do.zip [46060575b70d85c3a4f6915f477993ec50fafd52ed41670c5b6fb2df49e25c57]
+│   ├── chantal_.do [ab78e17007cdb85b6581e240e590a837bd4fcfb2743e29a88c0003937a9cc719]
 └── c
-    └── virus.msword.chantal.c.zip [d7fed826cf5f20e03651ec0198d3261736ec17b2a1536e465004dd2ec525af2e]
+    ├── virus.msword.chantal.c [14f2c7ecfe84d9bc2076c67728ce7e5ac6271c886176daa5d0fcfac6621c7d9e]
 ```

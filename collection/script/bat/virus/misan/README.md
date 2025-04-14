@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.bat.misan.a.zip [1081b6ffee2c4d555b3b2d242c529aea78253e6f2e8399640f5cd2ec4e1061a0]
+│   ├── virus.bat.misan.a [70f38d75cca0c22bfddab09c2a6582c1d9d729e101f95d3a508cbc844ff9744a]
 └── b
-    └── virus.bat.misan.b.zip [a25186000cdfb061fabb09c5b3d50de5613284e6d5d9872763e35786210c7403]
+    ├── virus.bat.misan.b [477933193d4bcae9d02a25c315acdb66997250fc9ff5981db493451ba5f90694]
 ```

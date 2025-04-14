@@ -3,7 +3,7 @@
 
 ```
 ├── b
-│   └── trojan.bat.sidey.a.zip [b60be00e961e9243059b4e7c4e5fb4c261fd28256379aa0fda4177a92986c03a]
+│   ├── trojan.bat.sidey.a [b43ef2f9e78b99a3fee904054cab805aebbf7ab778b303f8b8f045098265a30d]
 └── i
-    └── trojan.dos.killcmos.i.zip [5c61f7675be5c02355aa68eabbfc655a474a87eef95cecc12c07878f24abc06c]
+    ├── trojan.dos.killcmos.i [5980cea28ec41e95317e2ef3c01beebf57f9fe78efafc47aa5a1caef45dc4d30]
 ```

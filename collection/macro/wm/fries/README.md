@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.fries.a.zip [2264bac433bd28e66814bfaed0ae30facdb41bb5ad8788c7a239ad2148cb2b8d]
+    ├── virus.msword.fries.a [fd604ccaf109c36a07893933f235e0dc695a84d4534e84b8af5a62833c68250a]
 ```

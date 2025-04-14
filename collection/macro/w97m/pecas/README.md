@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   └── virus.msword.pecas.zip [0ffec0eb4bd1ff0e5b47916389692f22d7d640d58528253cdd470000eeaa8bc1]
+│   ├── virus.msword.pecas [79faa5c18a479630bd0f7c05950b81a3d7e213a0dc985f6ab86d53fab32456fe]
 ├── b
-│   └── virus.msword.pecas.b.zip [993040e248322f1fbb400335fee6e3119d615b2934ea7383d2683506477ee672]
+│   ├── virus.msword.pecas.b [cc9dd37306c601590d6d1fda919f20859c9579b75bdb0bdd4b9f0c62ac43fa7e]
 └── d
-    ├── pecas_d-001.do.zip [4c462b38a21824fc2e2abe67a5f16edd8293624eb8ad5df85c9aa09d8ae8f571]
-    ├── pecas_d-002.do.zip [10f182a236eb5f7bb8d844adfb70ded83d01e39e4668effaea6850bae5c4b569]
-    └── pecas_d.do.zip [255fe3006e136687e16fe02933ab67524efb416ff09d8d90f8e1354c9a48f106]
+    ├── pecas_d-001.do [25af16915a95689ea98f8da52ab3748499ad5ffd8fe1d5696327cbf586f70b7a]
+    ├── pecas_d-002.do [93ead3105bf48e2f2539e78507738588ddd700e8603a1e026fa0ca4059ca03d1]
+    ├── pecas_d.do [21f9fe173a62fe5eed636e9cda7fd9bb442303fd20effa921278fa2faf8ea535]
 ```

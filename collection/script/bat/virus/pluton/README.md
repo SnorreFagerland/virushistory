@@ -3,6 +3,6 @@
 
 ```
 └── b
-    ├── bat.pluton.zip [53c9be55579ac4a9239ccaf8cf4833823516f3452af4f4021804d89ef5f113ea]
-    └── virus.bat.pluton.338.zip [9e8f80a44a1b874ee233274bd154d7e3939697df33f172bff219355d6e7a6205]
+    ├── bat.pluton [5ba7d501cf03a40e969b03891d89dd22e2cbca4c83292b1f1570c2bffe0282fb]
+    ├── virus.bat.pluton.338 [385f1b2349ff3f419dc1d68da3422f62c620681b23f27e0e4ba73199238c6272]
 ```

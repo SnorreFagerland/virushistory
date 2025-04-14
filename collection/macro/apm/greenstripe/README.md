@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── d6829593.smm.zip [52d01219ff58d1ae10dac012f4019b64b142c5f0c2414b2f0ee3ac8181db9b7f]
-    └── gsvtest.sam.zip [d174abcd87ed718e36364df6138b250148a9915f0cfec14d2205dfc8a2cd30ad]
+    ├── d6829593.smm [2d9b9b47bdda70971c23a42111ba6b9d2de5c63843cc6e3aec522bd4e07549f6]
+    ├── gsvtest.sam [f4bd02ffdf6686d4c64537945605ccb4f257e753e408b348681b10ae3b1ec0cc]
 ```

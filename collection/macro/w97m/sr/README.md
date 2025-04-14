@@ -3,25 +3,25 @@
 
 ```
 ├── a
-│   └── virus.msword.redden.zip [701e8a8894a260b39eafa938b65e9800711d9d4aaf8a529d749f5c4ff9cf851e]
+│   ├── virus.msword.redden [8018d4de13b3d1fe11dee005a2e38f6ae66325e5aa78ff5b9de4ebcdf0ef6ea8]
 ├── b
-│   └── sr_b.do.zip [a07ea219ee3c9ab320d266c45a7af7cd4f64cb3f10c787191d4fb78ca5e82c2d]
+│   ├── sr_b.do [802b81ddaeae7ee7241f5987fd65f755d43d661a5b8250a85cac67d41c2583d8]
 ├── c
-│   └── virus.msword.redden.c.zip [65ee270b54ae8cc5049981c483ddf0f696d988d84bb1d739670ae128852916aa]
+│   ├── virus.msword.redden.c [632980f0074de4cbfab21b78a653bb7bfbc0e74187f986c4d6a639be171565ed]
 ├── d
-│   └── virus.msword.redden.d.zip [1bfc6b069fdc4fc179358f95a5dd68e46621d93a8002b39bf6f67be7ec3ce295]
+│   ├── virus.msword.redden.d [3090e2b443c3d60d5e13a7f6401c307fb7a85c962000b5f8049baeb69171d38f]
 ├── e
-│   └── virus.msword.redden.e.zip [b7c421f58640376b1ef8264bd1f1cf7f323cefd285cf730247b9780405b7e621]
+│   ├── virus.msword.redden.e [1c8878290d640abde9020ee37ec6d6e1dcf45b3dbe917a25d1617a0fb609cdd5]
 ├── f
-│   └── virus.msword.redden.g.zip [bc5a4416a7c2eace0592e27df7e64c27e7ef705eba55bf37817bcd8a8d753447]
+│   ├── virus.msword.redden.g [e27b358c92a33ce182a985ad9ed18012c7883b9c7bbb8f60fea4011dcba75633]
 ├── g
-│   └── virus.msword.redden.h.zip [7ad4fee7dc9ca94023085f99ee1bfe99588c7142bf11b0c3706550f69b4e46ad]
+│   ├── virus.msword.redden.h [fd23f7dba2fa56f82e91874641c6cdcdaf99226d441c5c175e8b3cc4040e5ef4]
 ├── h
-│   └── virus.msword.redden.i.zip [cc064f9d06264a7b2a0be061bac736fa5cdd277f6b512b1f1be935d01af724fc]
+│   ├── virus.msword.redden.i [f18993b864b258e00fda7f5d397dddc1fffe5e8fa9cd1ab8c370c08f620b84d1]
 ├── i
-│   └── virus.msword.redden.j.zip [b82024ac3140f4e1820ca9268f3918aa04d06928575a66884aaeb771c798b2ed]
+│   ├── virus.msword.redden.j [69dd08436e2d524b9446eb763fe205dbb91cdc0a4f9c9fb7d0e15596c35935e5]
 ├── j
-│   └── virus.msword.redden.k.zip [9331a172038693d96ad77c699995e8cb453ac19be8bc0343785c99035a32f853]
+│   ├── virus.msword.redden.k [126895dd3064dc39d565d7231b3ff5f670c444380d8785394e4a5b9961821ee3]
 └── k
-    └── virus.msword.redden.l.zip [d5ab36f8198ce1978abbecfeee3f11f5b7844265d8690ae2f479d6928df9a61a]
+    ├── virus.msword.redden.l [3990203131d09731d9e1629fa1febfef4b3302ca796f90035c32b75851884266]
 ```

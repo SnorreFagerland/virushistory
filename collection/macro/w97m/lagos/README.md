@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.lagos.zip [3d5bead20ac1437dea08461f5f19e6d382d4379ef89de3f769118cdeba34ccba]
+│   ├── virus.msword.lagos [d8ca86f9a29c19e406e47c22ce7c1547b556228597c28fa33e0dc9d9047d5510]
 └── b
-    └── virus.msword.kika.zip [a42efd1d40eba0b98978477989a16d8f96c9cd2096f33ef522ff43b9aae6b673]
+    ├── virus.msword.kika [5fa1f7a0b84565093be4a0dbddc9ee67bb78104c4dad626750bd06914539de9a]
 ```

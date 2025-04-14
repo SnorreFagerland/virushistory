@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── fivea-a.doc.zip [6c9b60de6e71cf832ac6453a9b43cd495d002d59c10b8fb070e54b5426fdfaf2]
-    └── fivea-a.dot.zip [b8a5231febfb6d62dd3ca806ce82cca80b7cd6ad846f5fea4393b28f2ebc2b81]
+    ├── fivea-a.doc [f7e7405fd5eba7451c04b5987f11d79063b7ea4eb48faf12ae057b3ced54d36b]
+    ├── fivea-a.dot [dca25f68ec4b423837e88e73baf5a0fe05a5968e63f19e7250b46aba0bf4ab6a]
 ```

@@ -3,16 +3,16 @@
 
 ```
 ├── b
-│   └── virus.msword.lexar.zip [7cdde3bf1974ad4ad5d66aac09d12bd40f6584ea3059e64747f5b1ee4694fcac]
+│   ├── virus.msword.lexar [d8f464bd247ff3d2a5e90d4184dbce14b27f9b92e098289637131e2676d7c776]
 ├── e
-│   └── virus.msword.xaler.b.zip [a79f8ece971fab6929d1d99c2a123fa68c6113ae7e4efa6a6c5120e6d7d4b93f]
+│   ├── virus.msword.xaler.b [03f84c576aa87510e8c0d37e2486b40c94f3a3db001d269d4679cbcb242a4266]
 ├── f
-│   └── virus.msword.xaler.c.zip [24be8d097beb7491220e1c85063585665315e2a33109f43012eb6933b31f4203]
+│   ├── virus.msword.xaler.c [0df08c0a567778ab77e7006cede7cb2ecb53c037733320554201f4d72707d96e]
 ├── h
-│   └── virus.msword.xaler.r.zip [c733db28d0f42fcc442cd857176544c35cf0ce2be7cd2989db57a7734afcca65]
+│   ├── virus.msword.xaler.r [650bcebc63f16b4f18822f432bd6ee93312ec39e673691794a4ad9b8ff1f842f]
 ├── j
-│   └── virus.msword.xaler.f.zip [90ecb4e284e820bfe6d2f93dcb26c4fc58fc02deef8d6e05fd2b8aa0d4a30e42]
-├── virus.msword.agent.e.zip [18e3ac3574523f25c716287a9f15d77a044d3e52cce74c546236edc815835c1a]
-├── virus.msword.xaler.g.zip [71af66dc4fd126b20e9426d938cbe474e9daa71a561f9938c024c4f4cdc296f2]
-└── xaler.do.zip [b686c06ed4593b6c64afaf03820abb4d4d9570abff2e8597addb0e797c1f3104]
+│   ├── virus.msword.xaler.f [cabca81ea48fed8cef9d690b894642f818cc09000ab0310f00d26e1ed5d32557]
+├── virus.msword.agent.e [bc317e47a682c927c7241cf8068ffd26fda51c360c3225cb65c01385903a330e]
+├── virus.msword.xaler.g [c0eb5f36e9a4da3c67563d1a1a7d4ff1338a7fb3f1db60259a2e43068d43bde7]
+├── xaler.do [435e977101966a5a95bbdd71462904f9fe679ef3827e224af7f03b72405928e2]
 ```

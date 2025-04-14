@@ -3,141 +3,141 @@
 
 ```
 ├── a
-│   └── list.doc.zip [cff170465b012fbf0c4b576f9bba40440303271b05d85522ded516f781edffb9]
+│   ├── list.doc [554701bc874da646285689df79e5002b3b1a1f76daf705bea9586640026697ca]
 ├── aa
-│   ├── melissa_-001.do.zip [cb8feffafa0f2fec74514e9381a094a3169e173a28e922c4d5d3a499b0fb8208]
-│   ├── melissa_-002.do.zip [9c78bef0dcaded5bd142b1a8d6f705d31fdfd6e913b1b7c23b9ad037fc26ff76]
-│   └── melissa_.do.zip [56ebf2abcef87256c0ac921f58452fd13fc901e957bae155b973cbfc42fbbcc7]
+│   ├── melissa_-001.do [fe76bc277b239c76b91f8273df0b721927321cca6214f920bf79630473232aaf]
+│   ├── melissa_-002.do [b7168a2735405c97079972bba97f95b1bb37ce731d15e91d79b61c58ece224c7]
+│   ├── melissa_.do [0d291fd7f91469d4d84fefc6c78e836a991e4eda337b5d96e98e76c2ac90aa3b]
 ├── ab
-│   ├── melissa_-001.do.zip [1d729016cd1791fa84f2352aa12d8df07c8e8347157361d9bb3bb559fa71e7f7]
-│   └── melissa_.do.zip [fcb5963b25cd6ee227507b1162f593e1831e257286dbbd5a16b927952d6e79f8]
+│   ├── melissa_-001.do [9f2f6a38777feb8e4e644653ac1102eabbb3ffbfb0457531c94663acc1133c71]
+│   ├── melissa_.do [3e9ee1752932b16e9cfd9d53c1ec1306da6aa48e11092fa56a37ef5427b11b55]
 ├── ac
-│   ├── melissa_-001.do.zip [ffe24e1e779f33aa25b34ed8c8509849316e64afaf67b272e2c5d235c86371ff]
-│   ├── melissa_-002.do.zip [7cbb4e2e97d54d8962932b0333a60023da5723cabae654ad169bcd260afdc06e]
-│   └── melissa_.do.zip [85908e5eb3f71de61f7b34fcf9e592a292420905c6549f4e17398db3ddfa82be]
+│   ├── melissa_-001.do [eaf1e1656888a523685771c8346e41b0abf389b5376b06d35573b9fb595ab31d]
+│   ├── melissa_-002.do [b3aa772c9b0807dfcdb3b3ed35a121b153a0734cb87bc61bf407f2deb1c94c6d]
+│   ├── melissa_.do [8f12b6e6b442a82f23860eaea9d19511c758867026d08081625054a4149132d6]
 ├── ad
-│   ├── melissa_-001.do.zip [36b25b0a57f611237c3edfe49fef70b30f2d6b0f7ce2757f27c1672532fcfdf7]
-│   ├── melissa_-002.do.zip [79b50600d1e6746e8e2a709ff0d0d8823788f2bf17f096f162a809c10e198617]
-│   └── melissa_.do.zip [9be910fce4383ad9e7c2166109edbfaa1f422f944a41a7a74bea69fe735bc7a1]
+│   ├── melissa_-001.do [e7add1d6dae3123c78c390121a28846fc738147211feb247a66481b1cb5787e6]
+│   ├── melissa_-002.do [dc43ad40993d822b2459da3111e462548fbe2ca25c797bb8ca111002e701ffe2]
+│   ├── melissa_.do [6b63ce15429c17baf53eff7e9b46116d2bac8da86143cb2439572ed46f157086]
 ├── ae
-│   └── melissa_.do.zip [64125b28eed91d2b4c9cb963c93e88d0fe9f1060b87069e658e64e29eaa4df79]
+│   ├── melissa_.do [1c2957f869112878a0280813198e9a204eabab566632b316f7dcb8ac0ca3984f]
 ├── ag
-│   └── melissa_.do.zip [51707295eee3f7021caadb91573fc990c35eca78531a5e583205e8f3be0221d9]
+│   ├── melissa_.do [5d7be8350424b78c0181dc33bfc4531d159ef6d4668eb41ed1c6e20bc47eac77]
 ├── ah
-│   └── melissa_.do.zip [7601b8171c428f7c7fad379f5cc1f4b13823e66b7f2a9df41f2fb905cbd7b252]
+│   ├── melissa_.do [3fd83a6a6ac589425d3ecc13597675511ebcd3e991bf7a27f3da7f3adccfdb4c]
 ├── ak
-│   ├── melissa_-001.do.zip [66cc7b8dae78e23c11f9cbbf2a2e7b3dd217d729f90db0325a7c04fa3b5db636]
-│   └── melissa_.do.zip [8e563f02cfdc050e319a74a5dd71ccf67d0fce5ef3c3accbcbc4931e6ae6b126]
+│   ├── melissa_-001.do [eff2d2e8914bc5368c3d39020c3f2fb6ec9818361ce0f891b052c771a1cf2437]
+│   ├── melissa_.do [b82e89b408e16753b960a9dfe1078550391e7ac2bf45ea395fe7ab7c1b9ed856]
 ├── al
-│   ├── melissa_-001.do.zip [1d21a96e70295954052ab7c32741a0fd419b3513397aac9fc65917b441791c4b]
-│   └── melissa_.do.zip [1777a1eeab93fb0665d7f4c40bf9f446325c8ae6ff194aed7557ec4a39a3d8e6]
+│   ├── melissa_-001.do [e3130c7c7a7c8d4ba728448bfc904781457fe4fbabfdbd9dc977f854e09e54e9]
+│   ├── melissa_.do [8dc47cd14ad43dc5d89783596b22849a1c887ad00adf99e0678b39d8253a130e]
 ├── am
-│   ├── melissa_-001.do.zip [ef812ee136f610b56943baeeb4b1d724cd6fa60afab48d1da48a574ea052cfaa]
-│   └── melissa_.do.zip [a01fa750f32465cdb1d0c8fde87e54e7a27e1dd3c9fb056792af08d938d83f74]
+│   ├── melissa_-001.do [5a5903f5ad859b7153deb35dbbf8d84f0b2efae47bc2a4cc47f4b2762b99e27a]
+│   ├── melissa_.do [37f0f17df54c3ea47df4cffa340f875a16069cc984587597269812406b1f0f8f]
 ├── an
-│   ├── melissa_-001.do.zip [dd057ac56c202eeda06c953dfe7c36d75e95158e24cc23e941f923233ee631b5]
-│   ├── melissa_-002.do.zip [8bf02ebe9b4793292b73987a4d6225feb288b8d4772e1a4eb32df829565a3154]
-│   └── melissa_.do.zip [6065736437c1d14a03067a500381e546fdee0af46c9dec9cba1bf278ef52bc3c]
+│   ├── melissa_-001.do [2f815fda54184696a127cabb94428b880727637ccd7ee51480ceb5f01e6aebb6]
+│   ├── melissa_-002.do [ef5971685d9c5f44fd4bfd2e6a12e8be5aa4912f5ea0e768d8913466f2e8219f]
+│   ├── melissa_.do [2daae6e5effb3d59d95a34d58f6bf61bd5616a4bb1b064fcaa85935b823aa057]
 ├── ao
-│   ├── virus.msword.melissa.ao.zip [741462497fe1997770e69e9a5869651d73f6b8efe398be06b52c631c8711f6cb]
-│   └── virus.msword.melissa.ap.zip [e0f88c10367c479f202ee2a04f05cafff69fcb31518daccab57c90eb58688a97]
+│   ├── virus.msword.melissa.ao [6bfaa38be49fd96f73b00ef9456b9aaf237f3b606d04135235ffb88833561a6b]
+│   ├── virus.msword.melissa.ap [1dab557a6faaad285e6d7765110fadd8ba13b38b677adde33c0a85d81c528222]
 ├── ap
-│   └── virus.msword.melissa.ao.zip [d54897406cea99df9f2a833fa94d2ab2ff1aab1ccf8fa3d47406865b8401f356]
+│   ├── virus.msword.melissa.ao [5db93f249352d68e707ebb1b7b289b20b4c84cd27adc9ca9b622351c4563a69b]
 ├── ar
-│   └── virus.msword.melissa.ar.zip [3c396922bf2b517dce34628c448a2fc0a4fb0a35a2360f0c5f8d2dd23c56ecb4]
+│   ├── virus.msword.melissa.ar [dfe8c8ba0931ab3850041d0a5cdc2e10218b95a7dba7ceb09e1207ac148b2073]
 ├── at
-│   └── melissa_.do.zip [db06bc4a56a7d974fe9ab304c8f59a6280f207c87fabf4683f1b97f56b72835c]
+│   ├── melissa_.do [faee8578ed59f8163225c743fba2ba2ed1cdd17914b883f000e46636656f49a4]
 ├── au
-│   └── melissa_.do.zip [e2b55419b8fd3d740555bff71badac1022fddcf9d8e62ebc804b30d050286cee]
+│   ├── melissa_.do [b4c14514e21c128343e7545a0f5f8ff08f0001994d6e79b47c5f72fa15388f2a]
 ├── ax
-│   └── melissa_.do.zip [0802d6a96d7ee34434eb36e7aa4f296fca778c2f6e85cfefec21c6957bff0a62]
+│   ├── melissa_.do [78940ff0b69f65d64457bc8cdf525e4e5c6f28d0520e1b50949d6f95197f9280]
 ├── az
-│   └── melissa_.do.zip [b0706da3218323dcf662040540c10ddde7ea0077edde6749db93040b76f33e4e]
+│   ├── melissa_.do [220f1c83376033fcf533fc2d6b6959fbfd96eb00b3b9d30787d12b25d3397f99]
 ├── ba
-│   └── melissa_.do.zip [329b43b3fa9177d53a9fd4cfb4811a62f8006be6802851996fb719d83144ab7d]
+│   ├── melissa_.do [efeac80d5c439ff5f68d18ba2f7a67c1d2880fa37b5f68ae9b52184c74268864]
 ├── bc
-│   └── virus.msword.melissa.bc.zip [3621daebc3dd143381b2f2d8625df3045f0f9de9010cbab8dbe6340e0daf9d9f]
+│   ├── virus.msword.melissa.bc [68450b344d6f22b12fcaa83ff3ccf8dc11394687173a434e6071fe993dc7a4f4]
 ├── bd
-│   └── virus.msword.melissa.bd.zip [4c9b139230f7cf36e3d247a998165f5af4bc81cf2a459617797f7711c1d390ce]
+│   ├── virus.msword.melissa.bd [72239e31ce2b34f6a16acd5e54a1414501d0350ef3fba749b3dec130a7def99b]
 ├── be
-│   └── melissa_.do.zip [b4b4c79ff4d3f8dd49ae58d6955e9ff65f950644e7ff521be024650d13728ca9]
+│   ├── melissa_.do [882b7d9c11e172f0d09a84c4db4933ea0bb80706a0568b94d0366bea1e10d1a5]
 ├── bf
-│   ├── melissa_-001.do.zip [f2bb1c881c2b90304c48a490a31b8949724f46eb2cb7cd86284c7fb98807afde]
-│   └── melissa_.do.zip [37c03e652774581b0df1d07e9699f7e1c5303f829fc2bf37dd3b82dbe7fc8ad3]
+│   ├── melissa_-001.do [bf75ce832f26406fb5bcbfee6eea982cb00a6c0d1ed6b1805d081f06e8e6c370]
+│   ├── melissa_.do [266f09da8fbd3d380a6ffcf4bcc998c5b4d2bdfc08d716b234aaa8fb1d6758f4]
 ├── bg
-│   └── virus.msword.melissa.bh.zip [f46a583a2532147b0a15f751248a8a1c83f08306fc96a3e9f723db2ce35d6496]
+│   ├── virus.msword.melissa.bh [9dc365d129c4f713c579a77bd6fa89b9de452223b09043c261bf6c3a29e5e3b2]
 ├── bh
-│   └── melissa_.do.zip [43bba40cbc37069877687e11901563c8f54301e3b070730f100b2950932650d3]
+│   ├── melissa_.do [9df616c8add58dd2d7594bf53696e06a9fd362042f2754727246123cd6fee630]
 ├── bi
-│   ├── melissa_-001.do.zip [11b6bdc5eda25c3a3c947e04a4f52f55f6c8640d5fd4ed9f5ae69e9deec858f9]
-│   └── melissa_.do.zip [8abf7223edd17c4e3d89db740e63a502434456ec3a667092bfd5ae1017ce6b69]
+│   ├── melissa_-001.do [542a9d4e3a03cd4093e97e81549d6a583d32e8dfe7960ecf448cef81af1a8847]
+│   ├── melissa_.do [2e5aadb836ed4fe3077d30e60e9479fac7d40ce52e3f404f148794ed34c15e7b]
 ├── bj
-│   └── virus.msword.melissa.bi.zip [79a2c623cc5d65e34c47c832c5b4b505a8380531c966c40a699b881559b44219]
+│   ├── virus.msword.melissa.bi [54471191e88c1afe03d7528bcd9d0c36558f7559c99187217c8b45fa04ff8054]
 ├── bm
-│   ├── melissa_-001.do.zip [7282115c20413dac8d784f9c958a6b06868a8295bd6de2ebb0e859e17557bf74]
-│   ├── melissa_-002.do.zip [707a901d0d05d183f11227fb8ec1cb94c5d4cad0a632ff0c04f7a2afb3f127c3]
-│   └── melissa_.do.zip [f7e5af0e2a6a2df15d042e702a872fe8598d9d71fe964a4391097a3ef3ddddc6]
+│   ├── melissa_-001.do [3046afadab4256ed161d7208514f48415333dd5eb13591cdbfcca9e9a4bba67d]
+│   ├── melissa_-002.do [8c7bf7c9d9ec1ea924f95f97b67fc3c6d909404e3102785a5cb56918e73a939f]
+│   ├── melissa_.do [1df138ea208a3f84c72ecbb85ab294e3205ed26e5d789f0f43fc2fd71eac29e2]
 ├── bp
-│   ├── melissa_-001.do.zip [332ba4a51f54933f09c73d57df1d73fecc286c91b96e3e7d12fefe4ccb596f0a]
-│   └── melissa_.do.zip [ffc3abc3b520083398e0141fb9ef65a0a6c772508e2b52d58f70a25b6960973d]
+│   ├── melissa_-001.do [cbe83bdd57c4ed2d48d02ddc3a71e859dc4cf17003f441b80f6f555e3ce4b888]
+│   ├── melissa_.do [5c33001439de48f7acfab13176349ab0c78c9d52b587e38ae773e45e5175ab5d]
 ├── c
-│   ├── melissa_-001.do.zip [dd6284fff74b174e3316b6f5811ad047344571d6f795029b933898119e2fe0a4]
-│   ├── melissa_-002.do.zip [de8b7096418b3093135538fa2445459a5bcd29a80ddc08e0214d90cbab85954b]
-│   └── melissa_.do.zip [b525cb649e3dcbb86e1b6700aa4259dd95d440640103faee6615711dbe929bbd]
+│   ├── melissa_-001.do [7381a8d77b34a045019624fee4d07f7cd5622730d51fd7e10aeed0dc6589e91c]
+│   ├── melissa_-002.do [922b03ff43fdd9bdfab268307bba06489b8abeab1a1a92cfc92b1f11d0cb13f5]
+│   ├── melissa_.do [583dfd01c8fe0b9b890eb7546c0d7d4cbadd103ce18e67d70ae3d431bc8d756c]
 ├── d
-│   ├── melissa_-001.do.zip [d63ccc74db6be4f547356e0d8fea1dbc3dc77c95e50ca7f09b2999d7f9dea75f]
-│   └── melissa_.do.zip [7bcd39e3d09f277eb31538303df8763d4d7b5ad38d2686a8e109c230a87520d5]
+│   ├── melissa_-001.do [6e30b94274b62f211dc51027208487a90d0ecb98507cf9aaafae75400d3b0c1a]
+│   ├── melissa_.do [21c0a227687d59987ac080004445c4168c6293d0f5b2db8590ca03ce9ecb417f]
 ├── h
-│   └── melissa_.do.zip [248d04e5c12a3dd8fe36cbda20eb3bf21eaa7dd70907d05df39dec998db2aac3]
+│   ├── melissa_.do [ab8b68f7098a28c164082adb720991fcbc98ad8cf38f2cf8fb3e0ee1fb6bd699]
 ├── i
-│   └── virus.msword.melissa.ah.zip [0dad1a45d58e085a8da2eb15c6a33cba1335395d5127ca341bac864d204a449f]
+│   ├── virus.msword.melissa.ah [d4fae7be0c4aae8ae74175b0bf4a5352cdddc6b52be029a82aa7cc3573a8170b]
 ├── j
-│   ├── melissa_-001.do.zip [8488b1f35f8741bc08e5229454bfded01d34fc42d779ea8f43aa84b78ed717e6]
-│   ├── melissa_-002.do.zip [bfdaae72c48463207f3e2d4fcd3df5a0a0582e8f306291107ef377edd2b42b31]
-│   └── melissa_.do.zip [40cb8385c174957c8d439ae0491a2bd34f318ff44f7b4bdafb1edd98310f46b8]
+│   ├── melissa_-001.do [63cd1806deffcd8552b00950447afd94631789d090c4ee93ee6b13bfe6583f25]
+│   ├── melissa_-002.do [9392d7a2bdd889caf7161b270a3016c1185cd5c218c967c4fcf5c18ca6509749]
+│   ├── melissa_.do [5078c85b101a0f3450a395a533952ffcd0914091665a83ac5bd0a1049330494c]
 ├── k
-│   ├── melissa_-001.do.zip [ea92a5fe562c276d76b52eb06820a86507010894cb95976c83670007eb0e6db9]
-│   ├── melissa_-002.do.zip [b0e4b7ba8bfffa900bfd026390b561306c4e82deb4a95d8257097890103d0ba8]
-│   └── melissa_.do.zip [21585883ee53b5204c6a9c93fabf9d6629be33d98aa60d68ae5b2cf4a3c87684]
+│   ├── melissa_-001.do [e3bc64ceedb58a77748a29f28f6c60fb4a880f9fc22bfa228847193f01c5040d]
+│   ├── melissa_-002.do [a67c3637df752224b454b5c1e46f25d60a95a1241f1cd56a898c7fcaeb55e502]
+│   ├── melissa_.do [58c92fd56dfe06f298022971537be28fefc09a7673fa54655174083dbccb174d]
 ├── l
-│   ├── melissa_-001.do.zip [ca056bebfca8f8edcc6b830b5144c9cb4691c718c6f291cb8979b4d5a38eb8f1]
-│   └── melissa_.do.zip [097f0247760ac06ad61a0671917551ba5c8b1906441b7abda1cd368d1124fc7b]
+│   ├── melissa_-001.do [d5175ab96db144f72641de5045e6f8decfcc2a8b7d453f6e9e19ece6bef26c38]
+│   ├── melissa_.do [14a944c26445f8f9e1288b081a4d5a3d00c5a8783d33a2f0c3857a5bbd934234]
 ├── m
-│   ├── melissa_-001.do.zip [870275380d931d9baeb2980e03bb0c84eabb770d752ee8ff5639f8141822cc6c]
-│   └── melissa_.do.zip [e129e5893221c47eff88d00e9ba4bd5ad44bf513aac749b02a47177c70473855]
+│   ├── melissa_-001.do [82ba5356c2e6cc0a215df671febebf6b3c83440591913c96f81832c01c3b7cb5]
+│   ├── melissa_.do [55af3705cd98323912b2f8995dbd1234d8dc4c8f8359c14b9bc8480915e3595b]
 ├── n
-│   └── melissa_.do.zip [f5d3d0b96e232934aa556dc00a44a6631a3e8737696234f22e0b21665d5fcc9f]
+│   ├── melissa_.do [fea5f941f73d8fdb6e7c1dece0c8eda7aec2b22faea8c66c830f34355ecae4ed]
 ├── o
-│   ├── melissa_-001.do.zip [e334483f5191fa03a44c09289cc3f401a61677eeeeafd880f4ae30a642be6f4c]
-│   ├── melissa_-002.do.zip [54b95cfbb5b4aec5d75ba3cf335a122bc13f16d7fff504b8e62ef3e9910a0a94]
-│   └── melissa_.do.zip [48a4a6643966be833382582cc0e28aa5b7f63f5bf8092d1cf32dc262022bc103]
+│   ├── melissa_-001.do [06a2cdb31d2dbbe3c6d63206b4e42f54ec5b2b52232cec37a4e155f109586e97]
+│   ├── melissa_-002.do [ed714ca3b982df84024535bccff46b515fe19e6374cea34779ed2e4f4d737e4e]
+│   ├── melissa_.do [00d4dd7258e5413dd1742ae8cae1153cfa46dd99ade3c3b5342066da823dd98c]
 ├── p
-│   └── virus.msword.melissa.p.zip [1e92cca59bd2c48aa6f55db6280c5b23db3dc113d9d29fc7adb6e9752e0d4ed6]
+│   ├── virus.msword.melissa.p [13107f93c3a6c70faed51c187ab85b016d4b1185ade1d593bb5627cfde25028d]
 ├── q
-│   └── virus.msword.melissa.m.zip [9952e4a3074d712a57b04350abeb34a90dae24cbddf0d8726d6096685b711014]
+│   ├── virus.msword.melissa.m [2074949a8cadfc3c3438a566738378fbc5209e148bb4588fef003f26de779d8f]
 ├── r
-│   └── melissa_.do.zip [1011a23df328e241d1962f917f05eb18e44dc5e2ad0a32b22b51ecf084274f3d]
+│   ├── melissa_.do [0104b9ea63d0785b40b4d8d60609cd9dc0bcb10dbd608bb1bce7a72aa53351ef]
 ├── s
-│   └── virus.msword.melissa.zip [abdb16aa07580ea19b309e1266b0cb2a4f9f06fe2af97c19b3e19c25a5456653]
+│   ├── virus.msword.melissa [b194d1d72d0d352aff7b4595b93fcef0334bf15b5f3a92d9cebeafc63a6313f3]
 ├── t
-│   └── melissa_.do.zip [a58943c8827df32b323c5ec7daf6bdc5ebf61ac15763d668e45f8cde2ae2972f]
+│   ├── melissa_.do [07b311960791416378d97e91a88470764e8f3fad30b2fe5df6a71218b1179651]
 ├── u
-│   ├── melissa_-001.do.zip [4cc8ab167443dc5ad916e17a278d757239ddd43e6487bb21e34a4650d8a940fa]
-│   ├── melissa_-002.do.zip [5e1437155b90953b8045663b9dee106801f1ca8fbf8508d50751a2aa20ed1864]
-│   └── melissa_.do.zip [4c7b7097466919d21642a2149c51bc1f3bc4574d4f667e7b6070ae5bac546491]
+│   ├── melissa_-001.do [c89a0fc1b01fe006de73a14f981fbf988d0889b92306a5a01e5d05c0a070f824]
+│   ├── melissa_-002.do [d2f7dea0369646f6e1168892b6a7c12809e5bcdc50ffa48d5f5cbc783500e35d]
+│   ├── melissa_.do [b78574bc52327cc24af788ab47e6166e184c8c21cf66795b920b3059cb34f079]
 ├── v
-│   └── melissa_.do.zip [8b28383db4a1b21667a44dae06b7a326d30d2f70b68e819c33e4dfdd4326e0a2]
+│   ├── melissa_.do [a13b76910f38c3a3d83f138b4b378c7f78f458bd29f36c1062b1aafdcaea9a17]
 ├── w
-│   ├── melissa_-001.do.zip [3745784602dada1a068a356a381a5cc083600269a2e35542ace0f9066d5d7460]
-│   └── melissa_.do.zip [8cff40d273045df919f547834563ba27239011c7d773fc38ccd3594900610761]
+│   ├── melissa_-001.do [9ef5d95fc9567a406904cfb10392c90df10b6176e0a4083b854d8b824ab39876]
+│   ├── melissa_.do [5b4ce42cdd397000293fba161e192d4bd3c44f263516ea653d436279ae98b9ea]
 ├── x
-│   └── melissa_.do.zip [d6230e859c8f033cc689202beb6725ecb45cea49f044a1b808e319c1a5b43d50]
+│   ├── melissa_.do [d86e3379cc06a790de7031422598422f60490c03b15bb1bdfc44c1d026efabe4]
 ├── y
-│   ├── melissa_-001.do.zip [9e0da80a6a9884e91361476315a64f33f23fcfd8703b5eaa45a00c594fe09581]
-│   ├── melissa_-002.do.zip [6c8afc6aed89287cd478797075257135216df2f6f3f383e351f499b4e6628cd5]
-│   └── melissa_.do.zip [2984ca4f91f0da813e929fd55f6157e439576180fab19ffeaeabcdfde2e05961]
+│   ├── melissa_-001.do [68280d209b8dff86a71e89a0c7b0bd61ab2cb7fc035f30dc837c1e99c17f34fc]
+│   ├── melissa_-002.do [fffa4e0234b05ea9198caf8085e548464c9fe513e8ff1b3f7b03e617211300fd]
+│   ├── melissa_.do [2e405d7b9ab9aebf23f0868b5380150396fa54179e3a49411f3aa559ed59b899]
 └── z
-    ├── melissa_-001.do.zip [de140778149b3ea2d58e1bfd1a8497922333abd9a0089e0ee01bbfc1daf401ff]
-    ├── melissa_-002.do.zip [12b29220573e4064b75bd4ad46451eb46e612517b8620229b3e0af3792c57983]
-    └── melissa_.do.zip [3bb4b0dd93ccf7181d2093732e2608af5d3bf82fcec8e7cebc3fa16ff6c17e0a]
+    ├── melissa_-001.do [99929682124b3a5ad5235d171048e17d117a3a674b7cc6fa30abb98856c09f32]
+    ├── melissa_-002.do [cb1a8a1844b3ee24f64f5c23db85f839ffff4d1ce77fee1c58044235cc3718f8]
+    ├── melissa_.do [1f7af4a930e19eb8905a9af218ecec736711ac39e6339fc0503fa2f0ecb803d3]
 ```

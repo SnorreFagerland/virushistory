@@ -3,10 +3,10 @@
 
 ```
 ├── a
-│   ├── mvdk-a_1.doc.zip [72cdf7f917c4a3597a65849b1506cd0b50b4fe09851bacca6c18ed8a8d61fd4f]
-│   ├── mvdk-a_5.dot.zip [ef6916388145544bbca29476597081e373df4895633c6de3df807c703abc51f2]
-│   ├── mvdk1a.doc.zip [686505e87b8dedabd39f05f5cdaf302f5233f429a3e0795efafff92b3d825220]
-│   └── mvdk1a.dot.zip [a7a193d7bef0c4ff96af05ac167ba8b26894c3ea56bf1b0aaf0fba17e92ae42e]
+│   ├── mvdk-a_1.doc [9688f9aaadab644e52065f7ba54ec1fe1df05c18845542b1a7ff93bc0af91f51]
+│   ├── mvdk-a_5.dot [aceb59bdda5ce6db4485f4cf35f5195452bb4911eff1c8fe8ee851162874d121]
+│   ├── mvdk1a.doc [68c14a85186c1a312ae8c6d2bc8314ef6f47cbfcbfda060d74b58d862a628a9e]
+│   ├── mvdk1a.dot [763ff3528ab8816701cb0fda3b308256c228f4c10fb4e13004c88393b37d2116]
 └── kit
-    └── mvdk10b.doc.zip [6447c362e809bd3121c09c6a45eb2dfb818937afac13d0c59fde913bd6f76fb0]
+    ├── mvdk10b.doc [b0630efb58305ba175b735a22ee39640c0fd04c7e2648b54486e18d6f804bc70]
 ```

@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── boogie.doc.zip [358097f07bfca9c1b17eafe3caf81527b53337681634c619a438b70a0ffe0959]
-    ├── dance-a.doc.zip [cc6627929fb8cf11bca86fbf511e167cbcae2276cc06425951cd6033e995ecda]
-    └── dance-a.dot.zip [057890484f96013f9e44b9341f76121db605451a02a223f150f15cdeab54a873]
+    ├── boogie.doc [e014d691d8128bfe5723cfa21a3f3d7655e06e7f77099fcf232566d1ea7b2a9d]
+    ├── dance-a.doc [b9035c57585af5ba8eb169b8da76ca5d2d7953240680046d9c34de333827d602]
+    ├── dance-a.dot [ba8dc4de7728835f313a6d971a2a645b61dd85be313c0b13bb8303a92887c8ee]
 ```

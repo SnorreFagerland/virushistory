@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── combat.398.zip [a41761e9c9bff6a33ae96982c47c71f988c2d1d45d09cf579d15eb020cecc3a4]
+│   ├── combat.398 [e28db4775956dfa599237cbb32f75122b7fbd0fd0ab45289daf8857c674b9025]
 ├── e
-│   └── virus.bat.combat.i.zip [2be7b27d0bd5e24a2ad7402941fd0a28dbda93aa1a377e44d0522de711eead5f]
+│   ├── virus.bat.combat.i [9521fdb569a92cc92b7318c1eef12f52d383e00fb26f999ad9f366a3e76994f1]
 └── f
-    └── virus.bat.combat.j.zip [62a52c0e1de1229ea4014fa20b177d44b13805d4d4b8e1b615b52c8bfb33dab8]
+    ├── virus.bat.combat.j [30bca6b4fa0efe6b7f63b2cc9c628732ab7530ecc11d824d56d90c9254cf5bad]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.inquisitor.zip [fdd092f601ec898908a82496d7c4cbf5193ad90563157e4b05da7784f5cbab66]
+    ├── virus.msword.inquisitor [97832ba861f7a8e1e9e5a8f99e2e1e7bd06ad3b08df1d9b3ffcf95f4a61a3292]
 ```

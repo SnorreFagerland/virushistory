@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   ├── goldf-a.doc.zip [e961085ecf097cac6d78cb98e50800d0a5c21a36c3caee8fe909a32aa58887af]
-│   └── goldfish.doc.zip [0d30eb2d0705d07f365f115bd2f02183fc45d2b5c37421f06229c8a5e5840ffa]
+│   ├── goldf-a.doc [83362192fde7e9ec337c06e84944ea600cd16594a64052c138bc12690756fa07]
+│   ├── goldfish.doc [df09269a2d38a3ce5027f697d7647144566f8b6980ecfe04ee4cbb3d3dbf90b0]
 └── d
-    ├── gold-f_1.doc.zip [e4df848c069a2d7a69fc24a70591e9357b2a058c166caf8e90ff85b47a3ce51f]
-    └── gold-f_5.dot.zip [eb51b1a9000f6e76b0d0d7d88c297a567f75b6cd7dbef0117473e257fa4041cd]
+    ├── gold-f_1.doc [83e026e1192c8ba36a9b67d83dee9c1eaf1102f4c8b7fa7600712123e6b8ae62]
+    ├── gold-f_5.dot [d065141a651a1ce1427ee33dcf6b315a932c94294e6f1022c118cf8b79f7e2a5]
 ```

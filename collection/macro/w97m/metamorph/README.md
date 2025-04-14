@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.metamorph.zip [1ecb0b8456f77dff36eb8d3914b8cfeae50741380f32c5c7f5bcf335060bdbd6]
+    ├── virus.msword.metamorph [8b54d8ec29ce50f245a115beccee979891e9ff4b92b4c30c03dd88c7adf903d8]
 ```

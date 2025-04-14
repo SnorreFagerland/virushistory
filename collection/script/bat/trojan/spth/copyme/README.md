@@ -3,5 +3,5 @@
 
 ```
 └── i
-    └── trojan.bat.spth.copyme.i.zip [073c871f82575a606943cd1d9160ea98790d5b24efe590760aee4050f86bee22]
+    ├── trojan.bat.spth.copyme.i [7b591e97d3ddc78d606b39c2c165c8538fe0a52c1ab599023517a77b058ca20a]
 ```

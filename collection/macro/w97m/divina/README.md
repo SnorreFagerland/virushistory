@@ -3,5 +3,5 @@
 
 ```
 └── f
-    └── virus.msword.divina.f.zip [f2dc755bb7434ae2103ff6512e64ef180c295491fbc314440764769880afe126]
+    ├── virus.msword.divina.f [4f5ff908fd60e9356a915d053985c2da95031268df2026b0c95609477659774c]
 ```

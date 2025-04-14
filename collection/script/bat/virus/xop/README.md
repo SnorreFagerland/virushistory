@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   └── wci03263.vat.zip [bba15e52d43b7003159c8107ad25c2ebb19b49152cce15b34aebdee6545f977f]
+│   ├── wci03263.vat [23b9ce06e7dffa3c38645de666b79e5ddd8dea0f922fb0d0af1754485b897fbe]
 ├── c
-│   ├── bat.xop.a.zip [1abd91fdd39c7ea4a1a019254ba045179cd38563cfcddfddc152582cfe2b82a4]
-│   └── virus.bat.xop.c.zip [acac416e0f7dbd13271fb89ed3ebcc173ab3fbb66669924961888040f39878ab]
+│   ├── bat.xop.a [8ebdf54763269bc3a0ddfbc20ffcc2871fd6037148886e4f6fbd724fcbee0e71]
+│   ├── virus.bat.xop.c [1dc581b0d135ab2cd97040ca2864ed6a6491e6dd682a0a427cfa34c4bb1380a0]
 └── d
-    ├── virus.bat.xop.b.zip [10ed60d8538ea722f96a88ac9945472f34ca7582a01b8c32b65c0234f8c04da4]
-    └── virus.bat.xop.winstroy.zip [0bf477e3cad359f49e28477acc5183e43933ccc96db2dc6ac006d5c27b0dc9cb]
+    ├── virus.bat.xop.b [245c338baded9ac4ead0882a810b880963ab2d3ac2bfbd5da8d887f76bcf0ecc]
+    ├── virus.bat.xop.winstroy [2f88314b160f1853881a2ad41e8d7dbb0cf6284013a06154b6e96a60b61c4c00]
 ```

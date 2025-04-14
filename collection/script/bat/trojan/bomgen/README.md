@@ -3,11 +3,11 @@
 
 ```
 ├── a
-│   ├── trojan-dropper.vbs.bomgen.c.txt.zip [ff9004889488d7fb37ce6f0b137e268204b7ddc076c7670145d651429925090f]
-│   └── trojan-dropper.vbs.bomgen.c.zip [723bcc8fee36cece29520536688f443524f31d5a989d085c4e9a79f95c1b8ede]
+│   ├── trojan-dropper.vbs.bomgen.c [bb0bb7c6de7888077b7f4d2fc2d03ba5de87bda4b34cbb2b93830832be64ef1c]
+│   ├── trojan-dropper.vbs.bomgen.c.txt [fb5f577285055ccc5b1c9e4cd0a81b9c14e3049bffefb2c4f5afef237d496bed]
 ├── ad
-│   ├── trojan-dropper.vbs.bomgen.p.txt.zip [eae8097381cbd52e6a2af33f19360fd6cfd784dbd7e01a12e0ae233f4bf806ce]
-│   └── trojan-dropper.vbs.bomgen.p.zip [be92067a67155e6e87607a9d2147abe58de2900fc27e0d409031e07a77073a5f]
+│   ├── trojan-dropper.vbs.bomgen.p [ee06820c1e019cd59ee131da69b55b6a9773566ee186b2fab7a11f5aacd2be88]
+│   ├── trojan-dropper.vbs.bomgen.p.txt [681a3b947788e45ac0713f568a564bb241c53d47a37ad2dfbba22e3a43f676c0]
 └── g
-    └── trojan-dropper.vbs.bomgen.g.zip [40a8cf34d1802d4a8b346a6979fc78c913728b5c78c683e0245a91a975146d18]
+    ├── trojan-dropper.vbs.bomgen.g [7a6a81f79a124162b2b528edcb777007a986fd2f0e6acce0bdd7443297f583fe]
 ```

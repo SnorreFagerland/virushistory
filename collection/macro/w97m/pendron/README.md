@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.pendron.zip [eba76d8089f537ebac3c924b6bfe9335473519f1b41a2a1965d61991e96a0929]
+    ├── virus.msword.pendron [6743d49a51d7e3f8b3cc7335d7726c7625fbf0306b799e720a14e41d27332e5d]
 ```

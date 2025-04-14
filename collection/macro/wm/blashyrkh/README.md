@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── blashy.doc.zip [0152b4d5edb290c99f7e69fadfd93d95954506b735467cd300d5319ec712e2eb]
-    └── blashy.dot.zip [8b06b3354ef3b3cef3e6a07c0e9784d3de7235caab0444f7e4cd08d84f6f73ca]
+    ├── blashy.doc [7981efe39d44cd7b24acffffbce8d9690e7cefeb79863b42a0d51391759e6a83]
+    ├── blashy.dot [2d446bde9be27c53c7e8fc087525ff45b719680e3c1bfdcce53f4bdfe4bc651d]
 ```

@@ -3,12 +3,12 @@
 
 ```
 ├── a
-│   ├── emt-a.doc.zip [fdca5aa0685917eb44b101b360741ad7ad50e95ce3b9f67cad0387e9fc6ffd6b]
-│   ├── emt-a.dot.zip [7d3fa3e5d7c7a811833f16712d84b1a601d0f867052ba0a67055b4aa70841b14]
-│   ├── emt-a_1.doc.zip [a92251c3e9405006106a5e3f55574b1714d2ba6d599ced407587f90f3eab811d]
-│   └── emt-a_5.dot.zip [e821f7f2e2a8528bd91eb8a56f58d19fa0b741d25a95c15845fc8956498f683d]
+│   ├── emt-a.doc [09e224ff66bba02f84b83f16eecb1c3e2abd3bc57319eaa15c65b7dcc8d6faed]
+│   ├── emt-a.dot [4659f5b941b0537090a3db01b5e70d3bce86dc6b13fc8b7cda2a5511873fb004]
+│   ├── emt-a_1.doc [4df9f722540352cdba1071a40c335af15df3d15a6875d766fd36f96da0cfdd1e]
+│   ├── emt-a_5.dot [ba53cdc80aa787b85890e0302d35cbdaad899a1a02ec6a39baef94be4c53ad83]
 ├── b
-│   └── virus.msword.emt.b.zip [4116ff190fe732064cba90c4322408780188906f5b2e65b029c81a9fee7536fa]
+│   ├── virus.msword.emt.b [2ed501834dac630e7d838f88f32aa5711177e87ad492fc4bb02216d7420b37a4]
 └── c
-    └── virus.msword.emt.c.zip [efdbbecec7cddc2f0d214e5b79e1a9eeb913a944dd8afdf3a6222e6782044fda]
+    ├── virus.msword.emt.c [0d91e2f5d89b5420755397f9ba054048c27be6fcb76b018d16092862b6cfaa3d]
 ```

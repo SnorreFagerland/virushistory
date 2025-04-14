@@ -3,48 +3,48 @@
 
 ```
 ├── a
-│   └── blackk.dot.zip [317bca6ce33d76df2bffd637be249b35634c903a7c03cf775e3113bf7ce83389]
+│   ├── blackk.dot [413bba8bad932525380cb8223bd6bce55d6e949e73334cd9db01d904671f6fa7]
 ├── b
-│   └── blackend.doc.zip [8292e6f520b3dce6215bae85af8ed52e400099dac5c3ae96ac68cf87df37684d]
+│   ├── blackend.doc [c276a7afa553f6b5b053f145bdeb5be847e90894cd7fcd3eb9c54a7e72e9ab69]
 ├── c
-│   └── grunt.doc.zip [12257eec33b7d2a2c35cb8bd81e5a33afce8ed6c2a2784e94fcf0b6f32f691d3]
+│   ├── grunt.doc [76df942d2752457abfb6717a8283e9683a6974fc7cb6200c6b797b8384367f8f]
 ├── d
-│   └── archie.doc.zip [9ec3dbd5969d0ddc6f544eb6e3281a78e603deda7e9f41e4b8d809f726d3769a]
+│   ├── archie.doc [23aef95a5152a94f8f3c290b7241981a4191220dbc239b625431f144307f3947]
 ├── f
-│   └── colozero.dot.zip [a1a8d9c1cf5b3a30722a24a3d4b4089f66f30f4b0b413e9bf8eb4ecfd66b2698]
+│   ├── colozero.dot [cf0f5f1d8ad942e733d40d37a146f1e78d5f60113e1c0f3df36470c3eb8f8c7f]
 ├── g
-│   ├── njdlk1g.doc.zip [d6763e90918493bf00cc7fc2aebaf5b2c6dff44fbd5077d9b86c949438e430cf]
-│   └── njdlk1g.dot.zip [b6a56383971ac39e0caec841e7cc3dfdc8bb1d4eef54904a89cb938a5937bcba]
+│   ├── njdlk1g.doc [3ad7035b421213fa2b5982154b1d8a6e3caf0af6b34506ade4ad32789e61737f]
+│   ├── njdlk1g.dot [32eedfc817c3df68252cc59ba6e2824e8cc0736a0bc0da984e0e1fd915137fe6]
 ├── h
-│   └── wmdlk-h.doc.zip [8953fba4c6ee8c9dcc59b5d2d61060438dc32ef39f6ff9551b74e3dfeca5e401]
+│   ├── wmdlk-h.doc [676bd1fd837d721cddc6fdb5a0f2fd7e66a933d924fe1738f51b5b9ff088ea8b]
 ├── i
-│   ├── donoso.doc.zip [d24eaa0a58dcb55c1a36563d69f5f9823f3097d7f0398b716e4a5bd592448a11]
-│   ├── wmdlk1-i.doc.zip [aa7fd9b087b9ef76c237c36f49dd4824a3f6961307bd067719de23e5ff3d0820]
-│   └── wmdlk1-i.dot.zip [a725e2936e1d1271a09a3b6e6fb206606cabdcb05bb6b61f8b6737ff8868fb70]
+│   ├── donoso.doc [c9442b9c302cbc2eed9a4a660f1c38bf1541c836897b8d84ab04882f63040fe1]
+│   ├── wmdlk1-i.doc [de591e28e4e021f565979673467d7d23ca55e53ad80808c3b68e6419e70ded92]
+│   ├── wmdlk1-i.dot [e90cd2fdef4a215f3ef85d18c3cc0bf7a9bbde431a9d7b895617ba0c00c56f57]
 ├── j
-│   ├── nj-dlk1j.doc.zip [75aac7820bdbbf9a6e311f36a02d5c7e9d1936e79f032d4846ec16770cc0d9f1]
-│   ├── nj-dlk1j.dot.zip [0667ce266810ef119b99d77b58d074471cf5ed5ebdd5bf085c5f75933f155680]
-│   └── wci02695.doc.zip [c62e55a1023a9e3c8ccd0317764c7bca2c05c2bd5ac0b29fc319adba82b1f367]
+│   ├── nj-dlk1j.doc [db34ff54ec3a34225c8252f92d1c79440c06bb97aee320398deb382ca43ae387]
+│   ├── nj-dlk1j.dot [b1ee342da2f329cccf4a1a37a392ccc1fc15f4bab03aa6edfd324da20ad69b10]
+│   ├── wci02695.doc [03702cbadf3b6353aa7ce1a5cb3dd3e2af5fe259ee76c3fdf3665dde15d784b6]
 ├── k
-│   └── time.doc.zip [559af146e68d7f6da886b04106457cf4f301876739a766fa14b80099748596e1]
+│   ├── time.doc [eeac45072dea55c5397187250227f8a5946c37f331974f55dac82789528ada37]
 ├── kit
 │   ├── a
-│   │   └── demkita.doc.zip [61beb3cb97f32a739541f4be180e5cf4ad83e238fc79fb77e84b226dbe55d597]
+│   │   ├── demkita.doc [83c85fdbda7e7b211bc7cacb1161978693429990248f3ad4cf791ae0f8617ca5]
 │   ├── b
-│   │   └── demkitb.doc.zip [3a8c6dae838eb4c54ac31d9b9783aace2f51354aa9ca20fc892ce1a706bf2e44]
+│   │   ├── demkitb.doc [5c0717789e9e07cd2c8494e4a9dcb5140f4594348bdeb28898ef21e7269438c5]
 │   ├── c
-│   │   └── demkitc.doc.zip [55fd7a727fcaf77d61420ef535a9a964aa92ad48b0e7df3b6e255d36c5fbe08d]
+│   │   ├── demkitc.doc [832a57e5ba717085655f8f93655e61b36b24dbbc441dc03978435484e47d2b8c]
 │   ├── d
-│   │   └── demkitd.doc.zip [2f0e7d6fa19cace23c66609e87143ffe2dc180aa1d219abad087a4f989e8a4c0]
+│   │   ├── demkitd.doc [5b1ed2332ac5edf10804428661df715c77c2b81f83252f1d7214284526e37356]
 │   └── e
-│       └── demkite.doc.zip [210141625a8e0cdb7be3e5165b6165f758d1c9d92686c382bd9d74fcd84f2309]
+│       ├── demkite.doc [f17504a9153d2552cfecafe2f4f8692223a4efdca2aff1ad91160bd0265d854f]
 ├── l
-│   ├── greeting.doc.zip [b91b52bbca4562c5f9a66762c49c8cf6a32ba7119b9ea55a9dcb39d2bf6d2a70]
-│   ├── wmbeep-b.doc.zip [3d2f99ff99ab623eb82bc34fc5d47531a8b0fb88fad56bcdfb3fd2c4353a4a94]
-│   └── wmbeep-b.dot.zip [1c5cb83a591ca70b45023515876c916f143b67e8767818e4d822f3f556fccf6f]
+│   ├── greeting.doc [82670e68ee9c22b2db72d7de698fe899b157d41445eca8117e1a537cde3ca781]
+│   ├── wmbeep-b.doc [c1b93dad8db34665af57b2656733623cc656ff60ca304079d5c200273e4cec2a]
+│   ├── wmbeep-b.dot [998bf69b9b0615ff6272c0aafda677d484377cdd47d6c22df9c5bff242c69e9f]
 └── m
-    ├── dlk1-m.doc.zip [37107222a2285dabd99c56ebba71a1fbee8e93a4d9ac22001129f87f198c7770]
-    ├── dlk1-m.dot.zip [980404c79a38ac1c6310e06f19a900e5e38302b67ff55240fc1d3b70999b0960]
-    ├── dlk1-m_1.doc.zip [7449c147af297559ee5761df835764791683cbce7c8f303b072f6e44aa47533e]
-    └── dlk1-m_5.dot.zip [2b61b970ac905c6c99b0c0cc52274ffe243283a5f9395e01bb409b281c9c398d]
+    ├── dlk1-m.doc [be91a143e131d9384a6387a391d893cab8528e5e08e626b2cb2c18e90a2a9b54]
+    ├── dlk1-m.dot [58be3cb380145dd8674081367a19ff309548036ba6c9516d3d5bf381e0e23f54]
+    ├── dlk1-m_1.doc [a50d39521a36c9e22124631beb9d83abc184204f30491c6c4d4d1cf140ad9ecc]
+    ├── dlk1-m_5.dot [e81ad6b2d3343c01ccdf4d0a6d5c492ba0a1325f033814006f4d85c5dba036b4]
 ```

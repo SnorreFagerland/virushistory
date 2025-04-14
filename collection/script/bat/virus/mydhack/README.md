@@ -3,5 +3,5 @@
 
 ```
 └── a@tool
-    └── hacktool.win32.mydoomer.a.zip [61075ad1f3e3d9e112e678ad9001b4401672f09e4113b4d3befe9b2411afa65e]
+    ├── hacktool.win32.mydoomer.a [c4f87931afb1608949440c817a48883d096e254cb37edaf8066d371583208758]
 ```

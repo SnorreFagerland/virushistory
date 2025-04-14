@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   ├── nomv-a_2.doc.zip [c9392cbab574022059430f5733078392d5e1c76a9517397d6d0f6450a68c10f9]
-│   └── nomv-a_4.dot.zip [cfda7bbe89351a38a481beb248510d46fa61e4d60761654e48cfab9106472c90]
+│   ├── nomv-a_2.doc [a3da6805ecd8d7e2e1c9f1813911ee5f9f7368d99eaf8c337843bbf9b92b27ad]
+│   ├── nomv-a_4.dot [cff17b0f8479586ddf3f1b92666f146e96b1291dc51966a064457a3059a26be4]
 └── b
-    └── nomvir.doc.zip [77fbeca70bbc990ee8631410a126a431674795e818f19810a0feb0e07fb284e1]
+    ├── nomvir.doc [fd67284dc238e68ffa73e30e22b6bf6619a22d17469d5d0c88a6c1fd483cc3c4]
 ```

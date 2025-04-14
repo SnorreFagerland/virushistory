@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── cf.doc.zip [e56d3db4fe056cf31fd9201879f1e8efc44303b473f115e45e788c0da862b312]
+    ├── cf.doc [0f56b4c7b15379898547797e8d1d0e78e8ffedd9d82b2eb47baf85632baafe0a]
 ```

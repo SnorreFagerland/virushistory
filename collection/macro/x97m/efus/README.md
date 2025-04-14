@@ -3,9 +3,9 @@
 
 ```
 ├── a
-│   └── virus.msexcel.efus.zip [f563246d88d4c2312a16068997453b5fcd8e1cbdb07abf58bea778842a36f646]
+│   ├── virus.msexcel.efus [848ee5982719cb8719f5801b332b74a9321f0e8d55bc4e39d965a2114e09aab6]
 ├── b
-│   └── efus_b.xm.zip [2fd20f7eb82de992eb8166aae4e9f15c59cca5e3c63bc0d5f18d4e1ee2fa9479]
+│   ├── efus_b.xm [f59bad197b2bf537e36915d8ea051d6e2e86da74d66680e4fa8784cebabb3104]
 └── c
-    └── virus.msexcel.efus.b.zip [5f15de59cc950c55933e7befc0af2a76cfc478e290a529ec3af3cd71a84dc2fd]
+    ├── virus.msexcel.efus.b [5e727bbf824c0af3765c52e3b8e3baaf1967653b024ae4d57064ea18f3911c7b]
 ```

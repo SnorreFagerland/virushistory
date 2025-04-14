@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.zebumb.zip [09c8b75527f052ab4d0c8d5aca5ee6b719fea461f8402c8e6b2d19aecda90272]
+    ├── trojan.bat.zebumb [1d75f1214f9adf793c09b2a32160881f83495fe6e142b137c9dce00817c42b99]
 ```

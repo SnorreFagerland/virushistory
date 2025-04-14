@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.adok.zip [2cc19023c972eba4d34b6d862d6e618c68c236b14fdd0b7f32b7a99645ae49e9]
+    ├── virus.msword.adok [1a7bf1f46660a66d226c7a00b06c7c320b7ee0e23f79d42ce5608a18ed789813]
 ```

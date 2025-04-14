@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── whydoc~1.doc.zip [48a5fb917ef1f43b4285a01884c6281ab053089c9839d402c61ec52fffdee215]
+    ├── whydoc~1.doc [da0bbc78a336e3545a508dd629632b3820b8594f4e12c7e86d7ca2ccce244c04]
 ```

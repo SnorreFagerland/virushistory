@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.harl.zip [ee7a5675ba51f5c0c75f92e967e55f84925ac4056da546d898d955c123c1e074]
+    ├── virus.bat.harl [582835b7164767fc824ce7d849cc775529da63bf149117e91933f2071391f30c]
 ```

@@ -3,8 +3,8 @@
 
 ```
 ├── a
-│   ├── virus.msword.melissa.bg.zip [2ec3a8d873c7fb6a39a1195fced6d7b5890e58bf163a86f0fcb62483b5e37f41]
-│   └── virus.msword.resume.zip [abc34a9fbd2e1bb01fb3960ade4c83b234e2ec879cd421cd3c499f881cb1ae0a]
+│   ├── virus.msword.melissa.bg [2f900de4b54a7fda3c1e311c401800cc9065407d5ca4794b0c76f82e105e4de2]
+│   ├── virus.msword.resume [0c112d99fcf64221bcc248035f5f387a03e9bbc15a336228f742674d89e49a05]
 └── b
-    └── resume_b.do.zip [32b0879c762bdd695e1984179dd7b6ecd7a41546026beec4666d56929d8022e4]
+    ├── resume_b.do [717a81edfa06b8557bab27fbf170f041ed80756e4ba44c185457f65302cfc876]
 ```

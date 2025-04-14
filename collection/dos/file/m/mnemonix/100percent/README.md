@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED-README -->
-# Contents of `100%`
+# Contents of `100percent`
 
 ```
 ├── 681

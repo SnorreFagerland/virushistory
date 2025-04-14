@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.mosquito.a.zip [8eaf19848dd9c667efee5b40d82c4b2f3a9f9fc03d0e7e9f0874bad453633b88]
+    ├── virus.bat.mosquito.a [6fc0ca1a2757ac762affc0052635e75f19d28366e4c4bb91dfc62d660b70ed7c]
 ```

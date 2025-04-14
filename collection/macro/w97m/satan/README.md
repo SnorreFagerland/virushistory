@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.satan.zip [031db102dea123ee1574e1c52d09db56ac1cad73d5389dd0a809b041c1984425]
+│   ├── virus.msword.satan [405417c855af246f5b18415b8be91ca71bd30f1fd04250f8c00ec0ac11a9d229]
 └── b
-    └── virus.msword.satan.b.zip [3170ee0cb8521647f0ac2a2146f56653424ef940284f7fd9ff75eedaf7eb45dc]
+    ├── virus.msword.satan.b [619f97bbf3fde56304e5cdbc07aa01952bbef4829a4cd93d63fd7807a26195fd]
 ```

@@ -3,21 +3,21 @@
 
 ```
 ├── a
-│   ├── lnch-a_2.doc.zip [f1bb589bb935b986e3cdeb1302a6c8fb9f0ea700d8d213391127f2ad2d56b317]
-│   ├── lnch-a_4.dot.zip [bdfa607443e250f5a1a522ea1ffa313d4bd89302ec862e12d5b29c4c84c7bd71]
-│   └── lunch-a.doc.zip [5bb689add729483f9a3338845bf50a6af6ba6d40c52330c5106407cd48dfa469]
+│   ├── lnch-a_2.doc [a8effc97f0ac77ef6df9e65a64880a405d3e0f63e888bc8a7b3b8e9779dcf2fc]
+│   ├── lnch-a_4.dot [992d6fcaf915771afcf07530f226aac9d44de5c222878d3dcdecf96dc1490346]
+│   ├── lunch-a.doc [f6ed802450e25e5252a21f0ffee569ebbfa33110c3852574e21554e96be0d2cf]
 ├── b
-│   └── luncha.doc.zip [07715153d1095f59b47314674e6395fafdf6f72b9be224a61cf3101927521cae]
+│   ├── luncha.doc [6f74a9f10c8dd5ccdc502cb5704e4da87574d96be17fe91e3a8c1564cf115aed]
 ├── e
-│   ├── lunch-e.doc.zip [8dea1ae952a6aff3c9fba5cb243863f7f430d30ade05151ef54c51d9bb096db3]
-│   ├── lunch-e.dot.zip [4b0e5157ceffdd472af4e699f2966ee869d69a4a0621e26b5629add773acd8b4]
-│   └── resume.doc.zip [42e715382f9f28d71b98dc139c3a17166add894f9af0885c69d4ac5d325eeaac]
+│   ├── lunch-e.doc [be3d67e56b91871a86bcd83d3c975afae156132c99502504c5964c8e443c03bf]
+│   ├── lunch-e.dot [8a748c77fee47af40ad9edddfb7b3fc5ac886235350e93d3a08d552b4e1ae504]
+│   ├── resume.doc [3a8fc9b0d528db689ddfc27d35ef9430c3103e579e272034a433fa21449b0f70]
 ├── f
-│   ├── lunc-f_1.doc.zip [66cf6b1c7fed4f21bd0c56a9f0cbd3d31f2b290876b12833c935901674c79a71]
-│   └── lunc-f_5.dot.zip [3ed70610b970ac70a6e03991192afcb0d7254b5ec10288284da813f6dee3c5a0]
+│   ├── lunc-f_1.doc [7a83dca7b5d740a26e185f24e6d2211a148cdbd277df63204c05c237399b9e01]
+│   ├── lunc-f_5.dot [0bba9bddca2631798f7aec6d0ed0327f335b8a4c423abb466e30652d5661e155]
 └── g
-    ├── lunc-g_1.doc.zip [13d3d3cc6a8ea381568f707f9a1308db6b332fb2499bb85520d3e4e1a915f850]
-    ├── lunc-g_5.dot.zip [b56baa811476045ce859edc5845ad5f72ce36ad2c58acc17fba35af8a752cfdf]
-    ├── lunch-g.doc.zip [1aea33c891eea579a485f1fd880883c00a944f92ecfd1a1b70d059b3da129bc6]
-    └── lunch-g.dot.zip [3c54f5f843ae9429b3af61098c4240d0a0fc505242f244ae61ade3c10a20229e]
+    ├── lunc-g_1.doc [94d72fc183fe4c63d19c1b8ef2be8851de0bc96c96f4e5897af44823df0790a3]
+    ├── lunc-g_5.dot [bb0db1e408244cf4bc15399eeeb2797c572efb3d2f4c16dc56ec6ac09d72ab97]
+    ├── lunch-g.doc [5ed82fa31da9b75f46f39e276f7c23b76eb4ea7b221af7af3242fca7d6d6b9ee]
+    ├── lunch-g.dot [0185da3158a9c2fec0dcd7f766b39873cbb33c8f1ec8fea55f740cd55bf273c6]
 ```

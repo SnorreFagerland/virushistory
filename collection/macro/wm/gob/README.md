@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.ultras.goblin2.zip [bfd452ae51713563c58ed840aafe0f8c4ba581b343ff5363353af1c67bfd5651]
+    ├── virus.msword.ultras.goblin2 [aca822800c8d7ae242d3ebf7ff0345f1407d743b179e789b4d52417548773424]
 ```

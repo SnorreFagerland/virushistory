@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.msword.twister.b.zip [6ca2ba045c68c77d02defbacf216f26eac45c2c6495d5f9b315c6724c0d93f39]
+    ├── virus.msword.twister.b [1b818a52bdbd3c71b05b40075d563b9a2438fe3beb4b4296e9527775c09ebce2]
 ```

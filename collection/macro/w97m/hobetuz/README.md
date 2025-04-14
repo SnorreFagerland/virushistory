@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.hobetuz.zip [538f0f9e067ff87e0191fee6eb036c942f43456999454a119372327faa334c61]
+    ├── virus.msword.hobetuz [db23b161f7a57e162d1d991a28c7c413cd9cab7062be872d1f3c2ff5f1e51427]
 ```

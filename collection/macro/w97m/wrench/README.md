@@ -3,48 +3,48 @@
 
 ```
 ├── a
-│   ├── virus.msword.wrench.zip [3e58f7b2c9b1a18b48fc8b2d547bdc09354afd512e885130143a96a19117b73c]
-│   └── wrench.doc.zip [f26c2b7daa97f0dcecb0bc7c2a4ec192822ff1c7083463a5dff486acde55e434]
+│   ├── virus.msword.wrench [67e1ad1216adca03bc660de736c0758829994b06d73b272f860817e11485f468]
+│   ├── wrench.doc [67e1ad1216adca03bc660de736c0758829994b06d73b272f860817e11485f468]
 ├── ab
-│   └── virus.msword.quala.zip [75fc1e0bfd6d571311ced3ef1be4a55491465b975f9ffe7421ce2cfaa8a201db]
+│   ├── virus.msword.quala [806a3ad64aa209e9f6e1018ee669c6bb7765e407ec68529daf27ca30a9f2dbf9]
 ├── c
-│   ├── wrench_c-001.do.zip [c0e9e1653075dc8ff92080fdbb21f8a3f52c972f6abe7fe2471487f5251ecf95]
-│   ├── wrench_c-002.do.zip [971cf2278a859dd2c850e94c10fb085179415ab045d7273614ce53f32c01df7f]
-│   └── wrench_c.do.zip [b964602cc54826761dc9cf25aea8136f5e0fc0184b95b18bd9882128165d259e]
+│   ├── wrench_c-001.do [28e41778187432190d607aad3cc0617d9d069c6d9d9b3745a0016d9a99593cc4]
+│   ├── wrench_c-002.do [82f5e03e0141e988bd865566d6a18d62615c6b82fe5f7f211f35c2122515194a]
+│   ├── wrench_c.do [0856ce5e415f5e81072ce49bc52b96b801c8093d256e7670e4ed12af83721520]
 ├── d
-│   ├── wrench_d-001.do.zip [e218854014709f0214dc441f40554d7d28d9a74972a226bac7c5d99b9e29637e]
-│   └── wrench_d.do.zip [ee644c3a37f150bccd6b909f6baeb305ae00199613bc927b48c2e87a85714e45]
+│   ├── wrench_d-001.do [edf0e9d4b59889e1ef764c27aa7057572b2c74d4d2c984288b801ac9295744f8]
+│   ├── wrench_d.do [1a5f91f75c72d7d5907925fd6329459911c4d64e364d4af90a912d088f611d64]
 ├── e
-│   ├── virus.msword.class.ex.zip [91101f84368781be739a24d84482e2fe05553985e4b4a3ebc603e0c8b700e3de]
-│   ├── virus.msword.wrench.e.zip [24bcf7b0dbb3f9a1f1236e8e0aec043f18df0534e269a8d2c38d6d0a2906955d]
-│   └── wrench_e.do.zip [c1f464c671a31b6474ae9ab9c131c90ac9dbb6a4d8e9040a9920ae959c05ea15]
+│   ├── virus.msword.class.ex [b84d5f97fad3484ab5c50eb17ca30a70002ac0c685a5d30e62dc39ba4b5f3cfe]
+│   ├── virus.msword.wrench.e [864871d409859c9b86a560c726d3bf3eb9a26c75b9c1dc78a1e3572538ad3be5]
+│   ├── wrench_e.do [1a94f79b0aa1096fc1af9e3b2020408775594cff5c9dd4c7869a6c7890476404]
 ├── f
-│   └── virus.msword.wrench.f.zip [ed55976211b1e4d13236bc28e39d4c1fd4d8f6e369eaa88acd5bf2b4be304dc2]
+│   ├── virus.msword.wrench.f [df51180c6950068f1b3ea41ae7389f81d315e0f91b9f6bfe6833bb8ea2f724d4]
 ├── i
-│   └── virus.msword.wrench.g.zip [6b747ef0e73da565101fb7fb1a5069a11e1bbd81d19e4f586ecd5099382e717a]
+│   ├── virus.msword.wrench.g [d15e3dbb92bd7f6b669aca1e02150ea94bb6b4c608b31f29fb850cb2ec86de66]
 ├── k
-│   └── virus.msword.wrench.j.zip [ac8dcc22cf25bd29410d6ce8f2ef472999f44a68296444c4d8e0bb214d4fcd04]
+│   ├── virus.msword.wrench.j [5254485b08aa5867b22283254b35c7c1ea6a9a01febdd889c900a61f10d41730]
 ├── l
-│   └── wrench_l.do.zip [2072bd8371a8ecaf1d0b2fb0526c03de92ecd3f3bb8302e65aed42b66b215017]
+│   ├── wrench_l.do [7ce677831862948944f06fe9162e9fd05b62953a6866f3fbb136b20202bb5818]
 ├── m
-│   └── wrench_m.do.zip [b01228536517762013b923751e71aedf13a4fcee502abb66cda9f8dfd2a41e2e]
+│   ├── wrench_m.do [f58882a874dc1a320ae54a1141062b1c873abb3d54063cc5fecd56d639afd37e]
 ├── n
-│   ├── wrench_n-001.do.zip [5e3d701d100171b7d4530f255a5a54ca36272a824178dde28a11a2899793ee07]
-│   ├── wrench_n-002.do.zip [d05f19d4fddfe6492e1788838e81d214597dd0ec55be2d11ddd43facf425be2d]
-│   └── wrench_n.do.zip [b9024e49e44f21353587d153982fdf2244f1bc5bf1e63509a531c75c1fd83817]
+│   ├── wrench_n-001.do [f3a1d9ed07aca5881375a33cae8aca2e2e6fcd3ab670f4c9228fb2d6c620c806]
+│   ├── wrench_n-002.do [a93620aa4235bb38a41102cad04c2108e666b5fd38e375edd81497b6abb0ba95]
+│   ├── wrench_n.do [845b56ce440d54e7fc02eaffd743e3daa30789318822d2a955d5e4132aa3775e]
 ├── o
-│   └── virus.msword.wrench.k.zip [a495fcc51a6dd2b192a45aeca71f864f1765614e2375a273604be1890d91ce2e]
+│   ├── virus.msword.wrench.k [8a5ae2dab093e83ae92e36cb06178489efc53107aa478a7180266dab9d5ba070]
 ├── q
-│   └── virus.msword.wrench.q.zip [12a69966004f46e38d7eb973578737e53a1ca1c19ed500e50cd0071d91329dd7]
+│   ├── virus.msword.wrench.q [34d748346e2cc19e89337ff638c4aea13001dce81dc51745e1e9a10ea6364dcd]
 ├── r
-│   └── virus.msword.wrench.r.zip [8555872f1fcb6ae2f64cbb8b88614ce7ee0b4c744ad3459c1769d87cf942e4b3]
+│   ├── virus.msword.wrench.r [c2e97f0acb60ea121ccb3d534ed902f55294a8527d780fdf5c1f2fbf8203b6fc]
 ├── t
-│   └── virus.msword.wrench.t.zip [fa6d7dd42c4fd89337f6685561654bab9dc0020b18681f3d76c1f22d4139705e]
+│   ├── virus.msword.wrench.t [05635be90a4a5f707c595937e301b4c9ab5e1b95ad599a21419e1a6315d10db0]
 ├── u
-│   ├── wrench_u-001.do.zip [df0f720110c3b32a51814b2f0139d685763ebe2c6fe50226397417f3af2e6dbb]
-│   └── wrench_u.do.zip [e83025750d6ba48afa469cdbcbcf4c67461ea88d71e7d41078aba61b0f06e6a1]
+│   ├── wrench_u-001.do [8cea7234cf48e2f87f47bd1641c81dd2e1591f992ebc0987d817c8f4648fdbaa]
+│   ├── wrench_u.do [00d61c87893eeb88e400f2791332f08e903b1e01faa9b5744cf05e7443108206]
 ├── v
-│   └── virus.msword.wrench.u.zip [07e171aab5ff7fac1797ca7b8cb48747966c311c68f95bf0fda1b4fe483c7e70]
+│   ├── virus.msword.wrench.u [3b264b678c4b6c0cd4883b753bd7f82b3535330a5e2562a0c5ee091873728860]
 └── z
-    └── wrench_z.do.zip [9da673bdd16d2fb62f1668f829895f042c40bdb05e0ff6953db667c3056adf6d]
+    ├── wrench_z.do [09e2f7799aa97670dc9eea1c911d688b0504883894fef4a74f5dd3a71af7099c]
 ```

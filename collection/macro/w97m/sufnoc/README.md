@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   └── virus.msword.sufnoc.zip [aef6c81f2ea4d402c2c630c82679a8efc5a6603b599fddf38e3287142dba1a59]
+│   ├── virus.msword.sufnoc [7e19f0b7f75dbb8ea6d8afa482527ccc7a441fce7a5f34f69a1c9be1f148aec5]
 ├── b
-│   └── virus.msword.sufnoc.b.zip [37660b5c0f24c7e4ef14d484ba16622feeade91763ccbbe3e12e5391c29e429d]
+│   ├── virus.msword.sufnoc.b [01a967db6439857da6099808abc70f0b0703732164655010a9d1eceddc771d05]
 ├── c
-│   └── virus.msword.sufnoc.c.zip [57dc86806124da13473b33a9d4e8d641fd99a9be9383f9871d643f4002c48a9a]
+│   ├── virus.msword.sufnoc.c [cd27d647de2ac8b5edef2f29f95f52287bab8bfed48293097e2876c551547505]
 ├── d
-│   └── virus.msword.sufnoc.d.zip [db5a94a9d393a4f05781ebe53676517db6d7be02aeab5a30a32bd97a249d83ad]
+│   ├── virus.msword.sufnoc.d [1ec9131fc01a69115feec344901350837d069d6082a0bd9bcc7a0566ee1e9aac]
 └── e
-    └── virus.msword.sufnoc.e.zip [9a5ce3e19b47e54a4201f278da1c373aec92a8e9140f1952058e4f0f6a4c7d88]
+    ├── virus.msword.sufnoc.e [31c37f253d607fae44e7326a879c2bc4859762ebd0eb11371c1a7deb373c0e2f]
 ```

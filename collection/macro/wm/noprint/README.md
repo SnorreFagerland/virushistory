@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.noprint.zip [2117c8b8391c34578c44c2ddc5049c32e7f6c88286e7ef310a9c93cf786eab41]
+│   ├── virus.msword.noprint [d98b92620bb9122637dbb75a029af5c4c5da777e4f5bd9ea35774f6a64453335]
 └── b
-    └── virus.msword.noprint.b.zip [0ec2f11e080955f46257b6f1b16f454cba711074df5de5ee5957acaa680fe3eb]
+    ├── virus.msword.noprint.b [d5c464733b0d2292a857f637a4578b97b4ed4d41d65766e4615b1b996267ee23]
 ```

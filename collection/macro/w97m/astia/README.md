@@ -3,132 +3,132 @@
 
 ```
 ├── aa
-│   ├── astia_aa-001.do.zip [1dbb8f1a45eb9f208c1e411bcea3220ed28d94aa4b8b007516c96d18c0a8a1ee]
-│   ├── astia_aa-002.do.zip [c1038913467f4bd7734eb2190624a068bdce56d15dba1f08c55f5f669004c41c]
-│   └── astia_aa.do.zip [30e473835da3a6ee35e82a0028c703d3f88d591dc58578d438bb3d0b24f06230]
+│   ├── astia_aa-001.do [793281c4538ab294492461c63b8ee1f833c8154d76ab3474de46580d37de9522]
+│   ├── astia_aa-002.do [86070d18dff6eb411c93d489509496e2a96ea4e5ff622209a43aa3abce48c42e]
+│   ├── astia_aa.do [762cfcb766f691f5cf079da3e39529f5952728923dfe5fac417b0d408e3946e9]
 ├── ab
-│   └── virus.msword.titasic.h.zip [6c91ea111270400e23e7457d318dd3e7edbae3ca53b8d46f09af5e4514311a37]
+│   ├── virus.msword.titasic.h [20b5387cde46c7113630fd8831f41d29ff78373f45847eb3fac044978442c384]
 ├── ac
-│   └── virus.msword.titasic.i.zip [c76399fd72f7ec11b830018872cd0f1e9d11a2551ec24659cc6dcec4e73bb46a]
+│   ├── virus.msword.titasic.i [65f2f40d4cad7c44fb4056aa893b3734a752b72c34970a782a51285b2ca20fd0]
 ├── ae
-│   ├── astia_ae-001.do.zip [6e1c85d102da61f2ad4cbd56894308d1c2346e6f3279f9126df68bde842c8a3d]
-│   ├── astia_ae-002.do.zip [c48a9a2f572b2b27b4a6a8db6b308a0234d80ed2b4b18017d2438372bcbe699a]
-│   └── astia_ae.do.zip [8a2298ae2c4c15e41c3fc70ed43b91968271353eba2dedc9f354cfc961d2e28d]
+│   ├── astia_ae-001.do [8d6a5ef67657952324f74580c6de0a6e26fbca0de0a2868f2f17e04944f7b68d]
+│   ├── astia_ae-002.do [a9201365e851900a5645595fbdd405c71f53be1d29f33315c2f32b851fe9e04e]
+│   ├── astia_ae.do [1892cf011e475c7b9ff335405f474e9a26b8d55b395d0400c35a95e5f333ea37]
 ├── ag
-│   ├── astia_ag-001.do.zip [8189fd71b536df56e7735a298019fde1f08ff37509cb42e0b799f89404cef6a9]
-│   └── astia_ag.do.zip [bdebe10ab9db48a628e2805218412e1e9c8566826b4963d63481f890745f065b]
+│   ├── astia_ag-001.do [83c6ec8fb10663f2ebe7e7b881f26185194fbb286320cc27cc978d00d3e33c2c]
+│   ├── astia_ag.do [62840ff34fd604d87a5d037ed139975c8c79418603db8972792f609a2988454f]
 ├── ah
-│   └── virus.msword.titasic.k.zip [318896197704fa256975d4ec190eca80a1eed641b093809c8ef5df5dbcf80dbf]
+│   ├── virus.msword.titasic.k [357de047bdf3a7510b8d579b323e451c72232a0e8d13ee921e6d71dc8313f044]
 ├── ai
-│   ├── astia_ai-001.do.zip [37b8b3d86fd0a1611556e66d6cda07ac883e39ddf43af0686f3ad43b314f9cf7]
-│   ├── astia_ai-002.do.zip [e42989553e890a6dd0018999c3ed0e19d16b9eed5e220523a806127e3bc5c142]
-│   └── astia_ai.do.zip [219ae4e16c571a8fb31945c808b02c90aa49144749e3c0fbb765d8c46de8bf22]
+│   ├── astia_ai-001.do [eadbbd0eb14976d67ebf6a4bc0aa210b5f8d99718033c616fbda1483ae4c5a1e]
+│   ├── astia_ai-002.do [a89016797579b37058d89ac9743609e8a6e8746da74aeaac980866415871fb26]
+│   ├── astia_ai.do [4524d87693cd7956bd5e446737f3d253e3bd835290eb76213e512cf9e47802ff]
 ├── aj
-│   └── astia_aj.do.zip [9ed03be7cecd9e14294f9af7ea457e6416b5337d91d28c43e631881a2aa858d0]
+│   ├── astia_aj.do [7bc64f690aa2dddc468e4151328f447f54ebdb9b16386428b21c0818e88dab75]
 ├── ak
-│   └── astia_ak.do.zip [546d566eb8f2995b346daf3db39adf826f6b09128e420468e92553434cf2c802]
+│   ├── astia_ak.do [d768acf0f54a2922e8b3db8b076c7af62ce76b5d61a0fb8591b48f82e7543eba]
 ├── al
-│   └── virus.msword.titasic.l.zip [c1b5b0ccbc9d4a03c55661f87cc456c9a7363b6bf765fcdc696942157fec1508]
+│   ├── virus.msword.titasic.l [58ba8eabf58954cd4471d28a8f34dff64ba7652448b7efcd3d582930c7a07c36]
 ├── am
-│   ├── astia_am-001.do.zip [00415c95894e93bffc017f06bc135522f951c2da5c508dcb1bd1ec3e496b7e16]
-│   └── astia_am.do.zip [08ddf2806c0a80331bf56ae3b71c38654fc90a0efeeb3f9e631d56cb20293541]
+│   ├── astia_am-001.do [eb33f75ab1b8dde861ae3c11fd2278bd2381bfbd18dc49062ef8672ffe9a1270]
+│   ├── astia_am.do [9cd9a3be226dc8aaa2f72e988e31bc677458117af676d27f216a21733f2afb9c]
 ├── ao
-│   ├── astia_ao-001.do.zip [847e418d5a965e0ec4cd943768b4103f358eb5550af0f102092785f0d5a24dd1]
-│   └── astia_ao.do.zip [df1724b1935b99ac8a906eb22d2e5b6a02d1da2c23c958fcf22f2886bf094d8f]
+│   ├── astia_ao-001.do [290cd9107aeb2d360749ac6eb18aa3f6e6ff3607b6ee966e3f4b816a9d992aff]
+│   ├── astia_ao.do [0371a4f47c0c3b5ac2e3b4e82e255e33e3771ee6afbdd96aad2e8ad90de540a0]
 ├── as
-│   └── astia_as.do.zip [5e67c1d3871ace12c1cc0ed2b01b90eb6ccaaefc0d41dd1550a315b42fb411c7]
+│   ├── astia_as.do [c5c845ff7f1dc466350da37fb1a64d3ab58eb04a56af495d7c6b739571406766]
 ├── at
-│   ├── astia_at-001.do.zip [298a05855d68db4b5921e5ed61dedbc336dd9ff40503db5efacfb20ea16c775e]
-│   ├── astia_at-002.do.zip [d5425ac02ea1df1b70f596239c668bfe03970035acd18c6b4f5a82c739bbbdf9]
-│   └── astia_at.do.zip [929aed3939dc557a4153c0ed7a6c60447dc717d5b3fa8411842a2093eb5e95d9]
+│   ├── astia_at-001.do [ecc3a991d3876716465120dd6244443d242c06bc251b2752ffbb14994bd3e771]
+│   ├── astia_at-002.do [be32fec29e7cd5875d43a85c828b9bfc68cc7137fc0a94dd21f30dd5e9c89daa]
+│   ├── astia_at.do [870cd8de7e5e4edb97c365a5168d089f0496eafdfc7f04597cfea2f690171bf8]
 ├── au
-│   └── virus.msword.titasic.m.zip [0fc3a51d0c36a03e5b7e394e45f539501b0a373b95619530f0349d90080729e6]
+│   ├── virus.msword.titasic.m [3ff1278dd2e2d86b3391e190fbc95773797ffb78097d1b8e296c3499fe3d1a1f]
 ├── az
-│   └── virus.msword.titasic.n.zip [6380094ea558c1bc3f853fb39e90169d6fe9f16d00f285d44d8856202473486d]
+│   ├── virus.msword.titasic.n [51f2c8009126054f36d9e4b2b47b1de546adfdb509fc03a2286e03f457a93656]
 ├── bg
-│   └── astia_bg.do.zip [b2566658b1b84aa44cd433e303fecae24ece87eed7d7842e1c967e7c0f6cf9c1]
+│   ├── astia_bg.do [692a59a985f12a63e170934c23f22abaea1966b75ec06fccabd4e6c89b410e80]
 ├── bh
-│   └── astia_bh.do.zip [cb1676a418fc2ffdb8c4194b8d1933507b3424e8d98ce8e6451747deaa6199cb]
+│   ├── astia_bh.do [900cda28bc343096d91dd46d7a4b29df1c4604e1abfe2e8988e65e5f963243bf]
 ├── bi
-│   └── virus.msword.titasic.j.zip [b1ad271f2485190381292eba17606a8150a76fd627f2e9aaf96b055c65591fa2]
+│   ├── virus.msword.titasic.j [bdd9a04962b57c11d3da41d341578f2fae34e4d598f4abe2d9feb5c44aae4f5a]
 ├── bj
-│   ├── astia_bj-001.do.zip [035cfdf6ac1a284c10f56c92e371f64ee204d7cb37c97a3e4e6063b36e0046e8]
-│   ├── astia_bj-002.do.zip [a3476a250729969aa1c4fef6cea62e426aa42d438434c6c0e6dfdac73f674cac]
-│   └── astia_bj.do.zip [bd05985c12aa71a89701c60654cdf133b4aa65c1a9f87636e4974a43b77d358a]
+│   ├── astia_bj-001.do [1e55ec983546a3fb783b43b73ebd3d6718711d1661e0e91ee629eac1f6fb4040]
+│   ├── astia_bj-002.do [e2323bead1d4a4cef8d693aafb3c25c419e98f37d81959696b1647c0a913e399]
+│   ├── astia_bj.do [170ef793be0ac64209fdb70c62cff646e2251358de384be1f9237c83aba35e04]
 ├── bk
-│   └── astia_bk.do.zip [340a7f7fb12954c6d34b13eabba30a35fb9b0318fc3a2c993e3473981d98ab8c]
+│   ├── astia_bk.do [fd0a73595be49289bca86b5ecaba91b549db11d8c11b33bde92818b5f73ba3bc]
 ├── bl
-│   ├── astia_bl-001.do.zip [f4f23aed47c3c4b244cd14dd42c5ce9974d4e544c9a63f8131891f60a67d971f]
-│   └── astia_bl.do.zip [1644ce5380ceccf47776e74e83e3bc0518dd4a04be9ed9ed7696b7944ebe0142]
+│   ├── astia_bl-001.do [a43a8e8f19e7487419b65fda7add12764bc41780ffa393d925c70adbd0c4d674]
+│   ├── astia_bl.do [49c45bb8662f71de1cd0cb61529a7772e957ca7622e1c7b81d45032b12dbc852]
 ├── bm
-│   ├── astia_bm-001.do.zip [03a9009f755cfe7b81ca0f20b3aacd0250353fb44fc8af4db1dda280f529ed6c]
-│   └── astia_bm.do.zip [b5248c2784e0e5f778b8c3ad643a0dc6904b6e2dfa4630c2f1f2600d81a2f703]
+│   ├── astia_bm-001.do [ebd99811f78eb85359351b2e2e9624c12209a5bb0f53a679e55ac9e4a297f7aa]
+│   ├── astia_bm.do [2cdbd53f43b03a9bf2f45b1d66da33bca0e642d47c5a1e30953eac9b75513ac8]
 ├── bn
-│   ├── astia_bn-001.do.zip [4fc550f7081f2c99d51ef89e50b1e5cdaf9a3538a43bebea800b8a2430934570]
-│   ├── astia_bn-002.do.zip [c3e3d538bcffc81b6105673ffef6e0b5cfaf12954c3d8d45a749671854e0af67]
-│   └── astia_bn.do.zip [0de8b21a483523367c94c615b8ce04f9db7522572b71e68a6c15165ba0ba31a4]
+│   ├── astia_bn-001.do [193dca891bd181bcfe54985db90d5bd19d8d589767acaaf5cfb476e4625dce11]
+│   ├── astia_bn-002.do [b1b712694c759fa4065835b595d5a2e6a37232bd8c3bc03353deb6d28661ef23]
+│   ├── astia_bn.do [1869e0465719366e360728bab5417ab87eff1d1345b7173c998741ae66aa7996]
 ├── bo
-│   └── virus.msword.titasic.p.zip [2aa6c68289513309c5cf0de57d4d7cd7d6f675a006093c0d1514fb469e811a28]
+│   ├── virus.msword.titasic.p [db0aa8ed15c2c79d5af91d5b1ab12da9be6810f93a48b942038ad66f45c47184]
 ├── bp
-│   ├── astia_bp-001.do.zip [f52fb3314ed64c85a7a4207c3d26c63da073a060a0961bd50a03a794d0f9d476]
-│   ├── astia_bp-002.do.zip [2c13f3ba257fb28cc0c40b0ba85040e355d17123bad0658ef5d2136b28ffbd1e]
-│   └── astia_bp.do.zip [4cfb0b0e7136bb19b291bef766979c8e95e9309bcff40f6b28594a3d4be5a589]
+│   ├── astia_bp-001.do [9d0cff2cec4ac9bd02556e8c56150fa85559b901db43c01b53198c5cfd89ae91]
+│   ├── astia_bp-002.do [9d331792d16f715a7d675bd41453d5ca3fe6cb2fd618d2b281315ca30326396a]
+│   ├── astia_bp.do [4bf35100d9c51b7061ac32b58c5c123e92cc21e35fe7ba178cb514ade8907343]
 ├── bq
-│   └── virus.msword.titasic.zip [6274737ea526749b6e0709d18a35a2c001329b036b7e57b1bb93b37a6af7d56f]
+│   ├── virus.msword.titasic [c2cfd9a98282a4094ad27480ad288c8e8491d68419f7c1fe1885c2d93daf73f5]
 ├── br
-│   └── virus.msword.tonic.zip [a69e1e8f6084bfb050a50d5bd522e52c718dab70bd6013f7177d49f82c51160a]
+│   ├── virus.msword.tonic [ef6bc92502fb32b9b6f3707efc3c957294af277c3b0b131e12bafccb8dd72f96]
 ├── bt
-│   └── astia_bt.do.zip [5d32ab361dd7fb31fa0122aff5169f3da275661720efe07d4dff452da2bef0a7]
+│   ├── astia_bt.do [9a77561bbdec1542dccf2f32380ad351510034ace3a52cfe618883a9e052ebe5]
 ├── by
-│   └── astia_by.do.zip [c4253c3e4cc1d858820d4a96e7ada0136856ec0fd0cc4c58c73cfb1fb761d965]
+│   ├── astia_by.do [4cca2167c4afbccd64e243b2e1897b32b042eb5794247ae9ff235b253ca607bd]
 ├── c
-│   ├── astia_c-001.do.zip [4a2e62d6af964039ecad5e22ae2e2a1b1aaf4e4debdcc46cf22b7bb7f77615d7]
-│   └── astia_c.do.zip [f1156f2325b568995cb04bcca81bed8c82333253ef741a3e52d8d9c2b0ae3b46]
+│   ├── astia_c-001.do [60d30b2f788535d1afbdc152ba58320e86652c95bdeb10238aee0073a9364be1]
+│   ├── astia_c.do [426b0ca3bfd8faa52d2988e49aa8cd6f77379cd8d0882e534396fa3271ba6ee1]
 ├── ca
-│   └── astia_ca.do.zip [a48ad40ef951f6818f77a5722b4593cf3a1441b01d5bcab4f47ee14caf9230b1]
+│   ├── astia_ca.do [3fd00354b00e47954cb0b3a62a3158e2e4f989a9e8bc7ddf1c56b10251b4b793]
 ├── g
-│   ├── astia_g-001.do.zip [e148b2a30db601185c2cb00e59d0b00a074636589defa06ae10e00f53e54deba]
-│   ├── astia_g-002.do.zip [1299a29f9fbb66c5127076a126fef26302af5096f0bcd31054dc65ad1a495905]
-│   └── astia_g.do.zip [ea8aebcb9ec95bb4cc9aba564c083abf051f6fa32074185f73f324297feed693]
+│   ├── astia_g-001.do [918bf24b381ad125c79b1022e608e38c8b60841d645761836591dd0c5d279a5d]
+│   ├── astia_g-002.do [d54543274f7436555cda1f668053086641c39beb80b52064b13607c89d5aafab]
+│   ├── astia_g.do [439056e0b099000f8b098c1188bf72843e0b6ee48eb7729d5486eb5e5229e0f6]
 ├── h
-│   ├── astia_h-001.do.zip [a8b77806bc82558702192c08e097641f30f89a967a7901bc6b3c5ef1646ebd15]
-│   ├── astia_h-002.do.zip [0e66dcfd8fbb54b108ac95cb06b52cedef4bff2adb36f66080e395d9c4d5965a]
-│   └── astia_h.do.zip [3ba1733f6abdde8a0b1d7aa4baf0139de84a8b7157664391b46dac17aab4eab2]
+│   ├── astia_h-001.do [16b1e0f1cf9b8cf5f92d4ebdeb32b31a0b30f44ccb4e4f2157b2d8d398d8b01c]
+│   ├── astia_h-002.do [cc0a42d2fb44cd712189945ab6120e7bf21ead00962cb80197525c4ddf6d7fac]
+│   ├── astia_h.do [089d70b5007daaa0125e9087bb67990f9e679e4052ef7c55a4399e4f19e4ee4c]
 ├── i
-│   └── astia_i.do.zip [2adcd92d96cb63c49b79834a0e9132aa596307e7b7b9b3daee63523f916a80da]
+│   ├── astia_i.do [ac07fba34a7291f89ee5ddd33cab4009624676e175a9657c6329dc96d9838968]
 ├── j
-│   └── astia_j.do.zip [4b7c9242284549c38de11cf19a32912985b0580eecaa56798bcb914097629cd7]
+│   ├── astia_j.do [267e43a230e25a6acfd32aedc9a0b427b973fe499ed83b856ad24aef1a7cae41]
 ├── k
-│   ├── astia_k-001.do.zip [7d763fa17e4458ea679a7d0bc192245b8e8ecf27915317c5db7e03dd41b9d7b6]
-│   ├── astia_k-002.do.zip [69262f61e69e0e54f7ad7ddd4f95e8c451ddfd18e5aa163586b2947b0c4f0f4b]
-│   └── astia_k.do.zip [c22d852b0981757f803fff4e21e3067eb01879b0680cb1387e2237c885c51e3d]
+│   ├── astia_k-001.do [821a69513f2d988ecc178eb57290033a58c6d18ed24b95b3b3653f2d9bd92573]
+│   ├── astia_k-002.do [a6f243083536852c09b9a1f58a48d0791dd752e440b3ad6163007840f00450fa]
+│   ├── astia_k.do [3cf7acbe4c778b56dc034c6e418e7e64128031a342e792917543911791266254]
 ├── l
-│   └── virus.msword.mamm.zip [86f178ff6e2936e2edc560c09e236c3ca9c9ee9ac21f6205b2e2b060cfa3c63a]
+│   ├── virus.msword.mamm [006052f4957dd12148b9f748d9e8cc7742f44d8199fd84c368e2427073b83187]
 ├── n
-│   ├── astia_n-001.do.zip [20cc02ed7a9081f4e6af8eeb979ca182e651848d6c501aea2e8e6ecbe5eaec61]
-│   ├── astia_n-002.do.zip [6bdbc041f9bc568d044921cfd8f4682ba329e3c6dff05ec1f7c2933dedd5e4e5]
-│   └── astia_n.do.zip [d59abea299f198d7cd131cfef0d981cd9f9a48e2c3d5c8ee594bc6c20d47bc7d]
+│   ├── astia_n-001.do [8b47d965209d52a802030784d3391a165b257d06625976c66670dfef13b43287]
+│   ├── astia_n-002.do [f3fab909539998a42ef6bbccf6871f1e04bbfea4bfc935e85a59f995691a4ac9]
+│   ├── astia_n.do [5871134021b328c585a15e8d552fbf9dca7004a78e954778ca407cf05ed0003e]
 ├── p
-│   └── virus.msword.daddy.zip [2229db1d0973ab117710f99bd2c680d31710c847a677eba0814bd8597eb8012f]
+│   ├── virus.msword.daddy [63a177b650d938112aabe6b3226bcfe032adfaaaf677dc053f79484aa5b50e4b]
 ├── r
-│   └── virus.msword.pbb.zip [c6dac1a87ab0f7994dff6689e2976d25e76c990e56a094799c36667f4594a2ff]
+│   ├── virus.msword.pbb [dbc030010c9879d60b2b9c5bba4c88771f9d1b7876d0431b7b54debdf2c41b98]
 ├── t
-│   └── astia_t.do.zip [d32bd0fe1bb1b9d33b7c4786edfc6a1a88d9566d3e412ed7a8195911886e3bd9]
+│   ├── astia_t.do [15033f04cd0277ae3ec8fd5757e15adcbf127877ee9769da223729d50ac403be]
 ├── u
-│   ├── astia_u-001.do.zip [32b1ca89558febe9a86ace9d23f311c5ddedaf2813a01eb2572426929248e863]
-│   └── astia_u.do.zip [34dbb88b5ac3b73f762db824e5b217ae7252e2740e1026602db138c2e508b608]
+│   ├── astia_u-001.do [e345b02fb96aff36d9c885694a37c23c68d37912d9f5429f8e62b2c958065433]
+│   ├── astia_u.do [6eb3a6fbbcd6e57ab2cd91bc82bbff2d0ffb63a2816f3d0490db7613e19afeef]
 ├── v
-│   └── astia_v.do.zip [665f7f38895cbb035129f14315bbd9be2081208859324118caaf5fabee58f168]
+│   ├── astia_v.do [65b3c064adf10017bf2cf4540fe76ce0d9de82759a65b2929ea4f269c2149928]
 ├── w
-│   ├── astia_w-001.do.zip [b9d8b5e1095c9b5668a06a0444d4d6a94c48186d572fdcac64ca2ff035513af3]
-│   ├── astia_w-002.do.zip [40075d02d5d7052a9a8a6966a9909b6c6611dd71949ddcb2bd6d9fa748db1c22]
-│   └── astia_w.do.zip [1e9af1f9c1e8dba337d09920637a01531a5e5b3f1b10bb111532a3426ebe2415]
+│   ├── astia_w-001.do [458f2acc2c9e1b1d2c5f273ab294816a38c46971a95f7c8a0e66840ce2c074ef]
+│   ├── astia_w-002.do [b338b9a786a0a18267f411205e24beb7875e2a67e77e4e88092787864cb77825]
+│   ├── astia_w.do [38ae4288d43b941348e90a70601f6c1c1a4c4b3585a8bd3493d079d0cb2f761f]
 ├── x
-│   ├── astia_x-001.do.zip [34f1d31aa32a530d5172bcd5f95b27b05be6e7f84383a34c021d0a3e1a0852ea]
-│   ├── astia_x-002.do.zip [aa4df9cf9f225aaee910154b7dfe3d6d8cb57c5ff64c0f141a28bd182ee19a5f]
-│   └── astia_x.do.zip [826898247ea96daba8174e4030729c455b938ae1c18f437eb75eaabc1468cb1c]
+│   ├── astia_x-001.do [900d8863b9ca26e62b2a4eba678355f441bc20298516e56497969434033f0ebc]
+│   ├── astia_x-002.do [b970f5f224295d15e9023510bed2d8f780ee63de01ce946091c759e3bb33d089]
+│   ├── astia_x.do [895e4703479e27110351ad4b60bee4a8fe59bf1658d3a6cade378e3b0803a659]
 ├── y
-│   └── virus.msword.titasic.b.zip [5eeed5c5e8fd3517ab3b12ef7b48965c6ab21fc8b519b13a5da70ca5d41ff70a]
+│   ├── virus.msword.titasic.b [d45e73760faf918ac2c6fabc11c39c2227d0125298156bfc3eaaa783039e4a3d]
 └── z
-    └── virus.msword.titasic.d.zip [a730f68ba4c7c93436d3fbbd9fd498d06f670a463b96bb0ee8627d1ed2e5c2c6]
+    ├── virus.msword.titasic.d [693a6cc3a20966922978e27ff8b75c5aa3d780ca74f10556000b94410fee4e4d]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── l1
-    └── virus.msword.goodnight.l.zip [6517fcca6e9a618d5328c3a1943f6f4589e0b282a5522cf9a186b46938cb993e]
+    ├── virus.msword.goodnight.l [35ce4566c603822f43b2a4ac7034802b06a4005fe318561ef845e9bb18d5bacc]
 ```

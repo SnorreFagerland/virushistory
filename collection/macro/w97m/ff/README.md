@@ -3,25 +3,25 @@
 
 ```
 ├── a
-│   └── virus.msword.ff.e.zip [c36ffdc429c0e243c53cb67907968f4e90b522f853a8a63fa5114111a755da96]
+│   ├── virus.msword.ff.e [12ba4e549e0df44857e63d60f6413733f4d4bcf2702b83b0c6d9b527748a9c51]
 ├── b
-│   └── virus.msword.ff.c.zip [e0bc20363b15a6081c1dfd0e39e07e87f0ed593ac7d6c9c79b0da3b641984b74]
+│   ├── virus.msword.ff.c [6931b34f707bd3de77e0429bc0237a1dca953e6ad1f1fceff0975b76704b5ddd]
 ├── c
-│   ├── ff_c-001.do.zip [b71ff5c0101b50880a5f27357fe0348d5c501fc428f57b1538d3618e24547183]
-│   ├── ff_c-002.do.zip [345afb391db587e228a6382894335741d421241d74c11d30785ae066f1daee37]
-│   └── ff_c.do.zip [bda77c6eb95e71490fa97035f131b5a9b87598e093dba8cf73c80da01ddb548f]
+│   ├── ff_c-001.do [f29c5fbbc443f8e45495e617006ab1351d57c22383a7e09de92affbcb63e8b98]
+│   ├── ff_c-002.do [c2f0fc99a91b41b358b798f11af498103f83a39a213d9778ead8bbfa2ce826d0]
+│   ├── ff_c.do [189aed6183d6842c8298ccd4e0a63a70760c476cc6b3f32194c17aa1ebf794db]
 ├── e
-│   ├── ff_e-001.do.zip [eaf1b757b788944a11f2fd5e00af3f0658c78c2d796f76f8198ce682d9c4451e]
-│   ├── ff_e-002.do.zip [c1a6870f8d261034f4700732492cc05bd61318bad80f8b051a10f66a471f7b66]
-│   └── ff_e.do.zip [88ccf5c13c4aac06a3e14e508f1db290c8f1f783772094dc080a88447b939b8a]
+│   ├── ff_e-001.do [ee52580ce6f6c24429274a3a1870d9427dac6b496fd2ce7ff474e9eb8a338fda]
+│   ├── ff_e-002.do [c39f45c6d59b5e8607c34b86e65244caea3e626eb45663f91a88d9d8c96f0961]
+│   ├── ff_e.do [4bc34c56dfde629877bd534dc300ee5db5570c89911cf4b34d1a61daff76d168]
 ├── h
-│   └── ff_h.do.zip [9bd0ec838b6c7fa410190b22794ae458f49509c0e70ac64a31d3bb0dc174ef9d]
+│   ├── ff_h.do [cd7dc576d2eb418f07ed8be741424e5d5ce85774ee81811bd437ad57c788128a]
 ├── i
-│   └── virus.msword.ff.g.zip [bbe060ad1137ed8b784d436ce0764c1cd2d90ba7dd61eb5b4700eb8b3241ab48]
+│   ├── virus.msword.ff.g [50eea3a19d49881bb9f3adc329af6af3da4140d2f6c85e29d7b7275c7b4826da]
 ├── k
-│   ├── ff_k-001.do.zip [d4ab28e2b136f02ad039352d510054dcac9b34a7dcb949e23d5b70a87e71b9ad]
-│   ├── ff_k-002.do.zip [83877b0a4c0d3312894d59b3085f32fe66484237a7e148905cdd626f2e1606d5]
-│   └── ff_k.do.zip [7d6ac09d3003a0274fcff4fabbbb47181fcc8bcac4f7afa0b08e44195c81b69e]
+│   ├── ff_k-001.do [6425db27df604cc2dfb19f76676604e8e54b93c78c2cd9966182c423cf6f32f4]
+│   ├── ff_k-002.do [a561a4bc0153ab44d8ab1191aff7eeceaa4ee63c6f701dce560d4f1622bd9bbf]
+│   ├── ff_k.do [4f688454b5abc1a993cb78ed06bce8a49793c8658c802eed762a00adbbbbabd5]
 └── l
-    └── ff_l.do.zip [c401f2f7a656297a49604cc5683244c4542e4604ea7a7e32c6a7869bfc3e5425]
+    ├── ff_l.do [822cb02c0eba88d31b141ac0fe681b98053853315b1bf3d4efa2b4b04c4c65b3]
 ```

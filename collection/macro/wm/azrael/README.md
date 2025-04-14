@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.azrael.a.zip [e50b8f6b5bda9c210c4f146770518a5f3805322bb8bc5990391bee4c33c5cace]
+│   ├── virus.msword.azrael.a [7bc133e6935497b77b8e56fa8e57af5b8624c5bead947564890786f487422b97]
 └── c
-    └── virus.msword.azrael.b.zip [b1ec85aa0cc894430ce4d74a859e7b0945812f19595f38dea0a67910d58c62d1]
+    ├── virus.msword.azrael.b [4a9e4428a8aa35cf1d1b07d2b22fe90b11d507d01b27c9ac40133b9b063be15a]
 ```

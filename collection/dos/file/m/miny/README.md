@@ -85,6 +85,8 @@
 ├── 300
 │   └── my3-300.vom [4abf507c777bafa7bc317dea3408ed923f182ec1e676131b86b04691dfd64119]
 ├── 320
+│   ├── a
+│   │   └── virus.dos.kov.mini3.320 [15daf8e00affd88a40d578783ca679d94f27572bfeca7c79817e603beb609139]
 │   └── b
 │       └── miny_320.vom [a0ea236dc42be82a441d5b3cf664d0ee01dd5a55ee47066ab81eca60af7b145f]
 ├── 321
@@ -95,6 +97,8 @@
 │   ├── tc.vom [a751dfce2777b66363c0551eb7aea77626c852ca18904879b0f3a5d80b8517a1]
 │   └── tf.vom [88a8efc0de50c7730c2a036f86e1d7b627d320fb0db3ad7238292d65431be4c3]
 ├── 332
+│   ├── a
+│   │   └── virus.dos.kov.mini3.332 [be8cac1669945ab685bf92dc7f192986344bb99c4a41614d962881138cebb156]
 │   └── b
 │       └── miny_332.vom [54640731302a4e27be419f8638ea48f49c914d541f41bf47e4b281c245fe9f0f]
 ├── 333
@@ -130,13 +134,17 @@
 │       ├── tf.vom [acdd3522d9ce8861291a66ea2637a2a07e60f5dacada404003cca71623524630]
 │       └── tf.vxe [569e6673414575fb4501751689626d3e646c119df7174472c5ca9551ab0bb7fe]
 ├── 443
+│   ├── a
+│   │   └── virus.dos.kov.mini3.443 [10a6ddee92f3955819ee909dadf2b1afad346347c6c39fe8e0e5eae9eae2f19b]
 │   └── b
 │       └── miny_443.vom [9f09821f236afa9f399ab38bd5e6f06d924d57a8712fde3adb13cd6fcade83c2]
 ├── 444
 │   └── my3-444.vom [a3fc1643149824923ea7bdf4cefc8f6347d1d6e17a5c29b5ceea3c76432cfca0]
 ├── 499
-│   └── a
-│       └── miny_499-001.vom [5eedd1525ad125f3e7bfa1269894e9693b6743bd9875b0d7f727bcdc51a128ff]
+│   ├── a
+│   │   └── miny_499-001.vom [5eedd1525ad125f3e7bfa1269894e9693b6743bd9875b0d7f727bcdc51a128ff]
+│   └── b
+│       └── virus.dos.kov.mini3.499 [e8e0bf65a08f18bf8f2e8b5e6a61d620f7aa49bfcdb31273e8e9716b3e2aa461]
 ├── 500
 │   └── my3-500.vom [45b83940eb9e6b6544b5a2df1d9ebb79f6cfe1a3c16a28234e68e4036b4c57c4]
 ├── 511
@@ -146,6 +154,8 @@
 │   ├── t1.vom [5d25cd965341ee0c9943c03dc2846413ec474f49a45f8f918e439dd9ed510b23]
 │   ├── t3.vom [7ab1a6e7cfcb63310ce5b74b20a610087ad28be5168f063319b1bd633453235c]
 │   └── wci03213.vom [6185a736e6805b43b52757bccf512ca33c50bbc12bc4fad874e81af87894c3ea]
+├── 541
+│   └── virus.dos.kov.mini3.541 [26a90aa40fc3d546ed323dbf96dd8c2574b1e09c2b675ca821eee25d912ba6ec]
 ├── 542
 │   ├── 1-kov543.vom [39cf5cb609d4739ac7458931b5556f10668022cc3649c09825782c6745c56ea1]
 │   ├── 2-kov543.vom [77dffe77e288f11daa2507018fc3b562b554e2fa4098a33ee489e777dfb0aeb0]
@@ -160,6 +170,8 @@
 │   └── wci03223.vom [e9447abb21e797f11581d7b5c05137e213f95dc1c621e9976d86d7030764ded4]
 ├── 543
 │   └── my3-543.vom [53feb226febb7124a909d45a5b74f5f0d7c3004cfcee1ce5086651906995dd97]
+├── 564
+│   └── virus.dos.kov.mini3.564 [13f7fad705c4a33f2a19e6aaa47fd18a5a1a2a6c716caec59bbfe853c4822119]
 ├── 565
 │   ├── 1-kov566.vom [f13855d81e5b0ad944e374ed87103dc1f168198f8035778b8a4e39b5cc56acb3]
 │   ├── 2-kov566.vom [196e28e3939af0c25de6689457f0d05ccb7be2cffe13e4d4911ea74fb3c775ea]

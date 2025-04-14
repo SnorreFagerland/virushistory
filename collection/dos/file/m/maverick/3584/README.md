@@ -2,6 +2,8 @@
 # Contents of `3584`
 
 ```
+├── b
+│   └── virus.dos.maverick.3584.b [0f79c3454b146256c36de5ec8cabdd884dcff7ebe3f98e07733dd607c947406d]
 └── c
     ├── maverick-001.vxe [9892a3ba5f9086e76567ec17832e5e0a0b0ae372f674118358b736be39b378eb]
     ├── maverick.vom [bc46a924d541eb8ad87e4688729fbab4dcc0fc74771f8b56da7e0217b6a5c300]

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.ashu.zip [0a4830d40192ddba4d79c016bea1c66b306173bc34936dce0d76c54c769d2de6]
+    ├── virus.msword.ashu [0871530dd6c763e279f88496ff574cc2463c9dbbc3fdd2e4aff38c13ddca0099]
 ```

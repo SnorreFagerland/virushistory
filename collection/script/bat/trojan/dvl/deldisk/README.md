@@ -3,5 +3,5 @@
 
 ```
 └── c
-    └── trojan.bat.dvl.deldisk.c.zip [50c900163f28b958309e19c01d6f22117a4f3dc37d7ee9a69d4aca4332ced338]
+    ├── trojan.bat.dvl.deldisk.c [2f752f9043a4edb35261ee008e6cdc02e5b15d809c4abf3286f26d6ac40b7a04]
 ```

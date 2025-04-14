@@ -3,19 +3,19 @@
 
 ```
 ├── a
-│   └── trojan.bat.spth.copyme.a.zip [99cfd7bee06954147c48f128b43cad057725e518a62a84ae48571fcc0233466a]
+│   ├── trojan.bat.spth.copyme.a [8708ff040ded0e0613d65acfbc8a8b469b9a3253c0933c1d34641bd18d98fb98]
 ├── b
-│   └── trojan.bat.spth.copyme.b.zip [857077fc7bd52bbcc8357be6441e6ee786943cf89c39467a8af1123af4d484c3]
+│   ├── trojan.bat.spth.copyme.b [fe10a1a5b29a7e7ffa39e6a17d03c00cadc4d9b3c1644d5c913514063e6f6704]
 ├── c
-│   └── trojan.bat.spth.copyme.c.zip [3ec9f119caa6caadc9057b98fffd8397f5ab7d80439438f033e2fb318b84ecf6]
+│   ├── trojan.bat.spth.copyme.c [ae6d298b1bd469ed804115dfb8f757613e86d8ef783f3cccd2d6a90d7a476773]
 ├── d
-│   └── trojan.bat.spth.copyme.d.zip [3052f206e705cd2382251ba2c9b87587a71eb797d0fb716432bb5744f1c4d5f3]
+│   ├── trojan.bat.spth.copyme.d [035c8301b29afcab0d640e11785689711dfb7671553e96985ce9f448ea61e2f3]
 ├── e
-│   └── trojan.bat.spth.copyme.e.zip [0acc762baf22093eae4b9f00a5163cfc8cf698afa77aa88c7b3519b7b696d7da]
+│   ├── trojan.bat.spth.copyme.e [270ee5259157135f4c536aa22e603d5678d851b2888c2789a73ce2c547d6ca37]
 ├── f
-│   └── trojan.bat.spth.copyme.f.zip [4a0a8122d869d2294a56bb556fde837036de4f998cbfe0d775fd823a19d6f8c7]
+│   ├── trojan.bat.spth.copyme.f [05b8d4e68d979ab09dadd1721f8646c4ae2b0e4a0b98174f5ccbd4cdf7a1aa40]
 ├── g
-│   └── trojan.bat.spth.copyme.g.zip [06c417f21ca5a07d6af93f72c1bc903fd7765a55e2bc61cd0259eb2bf6e9a161]
+│   ├── trojan.bat.spth.copyme.g [c401ccac62656d709a78af3b3713a7e647f5fb3a4a8c3a2b0b17717c457c6213]
 └── h
-    └── trojan.bat.spth.copyme.h.zip [4373cc749f077c08353cbf5b4b967a709415e8ab723c0faac1592531963ade08]
+    ├── trojan.bat.spth.copyme.h [613ef8ecf80dc941112032e13f1f9294cafbad190a11cc3ac68c9963cce1d537]
 ```

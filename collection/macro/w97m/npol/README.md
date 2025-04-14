@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   └── virus.msword.npol.zip [315f4dab7f60cea809afe23c988b57a1124fab3769a77387aa33779a7834e7ea]
+│   ├── virus.msword.npol [af7600a2bb27c71ca4c0ea09a92a64c0036d3505a6f0ad2ce6e2034b97a75c5a]
 ├── b
-│   └── virus.msword.npol.b.zip [63cc0f6241e19505ea0fb797302e8963d666a67e8d17734640d53e657db7ba6f]
+│   ├── virus.msword.npol.b [8332984c75c1abd87aff39f97cdd15205a988dc4cd01b12c1313d6051f3ccdd8]
 ├── c
-│   └── virus.msword.intended.npol.c.zip [7fb6fbc75038827671aabeb7dadebef9144519d46fe8a26798a87a784be93eac]
+│   ├── virus.msword.intended.npol.c [7ca021557dbef12580319fe7b6cc4770fdfeb996b6ea9614d50c0e7fc1b79eeb]
 ├── d
-│   └── virus.msword.npol.d.zip [361867815f3f1b3ccacfb5151baae0a9c8c0836a0b51d12677ad19e5eef0b655]
+│   ├── virus.msword.npol.d [d18c7e2624a359e70fb3ac03ce8884c565e7ae5683a2dfd71ee5cc936a57aa87]
 └── e
-    └── virus.msword.npol.e.zip [e0f26bc20b573a0dceef970c573de1f1ff46fe0dcc60f17a3c9743f543245d29]
+    ├── virus.msword.npol.e [9d42ad1ad734e637929c3537d93ab4625af687dfc10be889dac75bb60ec770a7]
 ```

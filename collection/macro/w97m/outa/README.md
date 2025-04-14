@@ -4,5 +4,5 @@
 ```
 └── 11776
     └── a
-        └── virus.msword.outa.zip [93bf8e68e2d93b0e940ae9e68a202219cac5785414c1881137eb694f701bc3f9]
+        ├── virus.msword.outa [e677bd2c4a9dfc6925ab772780e1ef95d4906b456f56ee6ad0bdf458c759a5b5]
 ```

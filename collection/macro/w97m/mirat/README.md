@@ -3,14 +3,14 @@
 
 ```
 ├── a
-│   ├── mirat_a-001.do.zip [7b52826d012b1bfbabb1824e5525142c1c620c3c55ba58495ca6cc1b60c523a1]
-│   └── mirat_a.do.zip [b5520bc392cf354e1e9e74608e493d651ac5cb6030438f4124a5f7dba5420d08]
+│   ├── mirat_a-001.do [c5ac18f2821a4f4ba698d0983bf3e72907241564adde4c4a59f77f0bb592277b]
+│   ├── mirat_a.do [88d7fd0c9ff95f7b286c74ffb5f3c6b93cfa1f698f30c9950ac0487e0696dce6]
 ├── d
-│   └── virus.msword.mirat.e.zip [5f86510845711603bd7d14dfdb796913304abd3a34be1a66dcf237ca8ef0d174]
+│   ├── virus.msword.mirat.e [7b2df973eccafa99d14fa326ba0abb7730a4ade9d7e1a8a42d92d5392062bd7b]
 ├── e
-│   └── stimpy2.doc.zip [bae1d2d917664d5e84ca2b58bacc3bcfc88822e5fa1fa931a43d7bc386ff5e8c]
+│   ├── stimpy2.doc [e7680b68adcf975ca4a4ab1d0d77753c8aea8b8f302c918cae7a3a97d587ed38]
 ├── f
-│   └── dwarf.doc.zip [da085f467c07c5a8d94dfbc7ab24b7d0469b121e25bcf0bdee017d22effd7a6c]
+│   ├── dwarf.doc [c02ed7856e3295e9fcbc5aec1b93e799737fc73362002012725bfa293b455a66]
 └── h
-    └── citestema.doc.zip [a3c92627ce09ea1619d87477876b7190bbd38573e69d6b2747ca4b8023cf706d]
+    ├── citestema.doc [49cbe328c10bfff7b858d90bed1373d7fae29baf1d49e52692ead0ea1841fb20]
 ```

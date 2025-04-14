@@ -3,5 +3,5 @@
 
 ```
 └── d
-    └── virus.bat.lucky.c.zip [ec0e23a93712740e20502669440a253ffb1f71dceff8b2c848b8c10840681b03]
+    ├── virus.bat.lucky.c [060bfee1d43198996caa96f15f40b8b7dbfb63a7f24562ba30da2d5556dc2155]
 ```

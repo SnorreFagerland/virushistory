@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.bat.grozny.a.zip [bd528a4d4bdc4c88c5ef65f69dc15430564e4d2a84464d09f80908ffd535474a]
+│   ├── virus.bat.grozny.a [aba7649ff1d0e0ce0152ab9dcc980a37478f2e020404fe4b00bf4e01f61d9189]
 └── b
-    └── virus.bat.grozny.b.zip [496226cd941c5b134348bd2a1248b5aad430dc902ac3ab041e0a8a0133e9ff64]
+    ├── virus.bat.grozny.b [1b68bd38e087cbb6379590e129594bc8f7286a3c57e72977c119e672f7e29ea7]
 ```

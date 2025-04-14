@@ -3,15 +3,15 @@
 
 ```
 ├── b
-│   └── virus.msword.bptk.c.zip [8c862d5eb2608b0b3dfa24c71116bfe3215fb548702bbc3f3eec4b8f7b886e38]
+│   ├── virus.msword.bptk.c [b544431fa9d59e0277a31c68431a18d1cff67698cdcb6d24c2b41222d8579646]
 ├── c
-│   └── virus.msword.bptk.b.zip [c95dc167568865ff57df72fa5dd607f25ee6f9dfe475bfb8a3782a437dde2ebf]
+│   ├── virus.msword.bptk.b [a10defd6db6f2f64280aa5f000a27fa5276a4949f3eadcec0690ae66fc380622]
 ├── d
-│   └── virus.msword.bptk.d.zip [11b4d6098ceabe4c11086135a82d0379b607ce4ba1dc88de832411c3a92c62de]
+│   ├── virus.msword.bptk.d [35aacf6b7f0461929cbb1955a3c5ac62ccc4f8700ca3b9ea6397a6837e0943f1]
 ├── e
-│   └── virus.msword.bptk.e.zip [9705fb3715c269823715999f002115acabf3bbc96acc15059d9573a554d31e96]
+│   ├── virus.msword.bptk.e [47fefc1297f0a8b453bf37c91d6ca1003ddc6b8fd9c8abae9bae02653c295591]
 ├── f
-│   └── virus.msword.bptk.zip [8e60ebb1688e145a05edcd1360402aee5608aa3689de29682fa1be2404d541b5]
+│   ├── virus.msword.bptk [d9b338b10f7cdc254696d2faa62f803da8f62fe739f6a5ff0d54d6915b730257]
 └── g
-    └── virus.msword.bptk.f.zip [4ac2c3e0de29e7137bb3a7a7cefbba75f1da595bfc508c1744fbc5f15a5e4bf8]
+    ├── virus.msword.bptk.f [a18206448ecc97a274f813323301cc233fc5d93a93f7766e7815cef45ee42a6f]
 ```

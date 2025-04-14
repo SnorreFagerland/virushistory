@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.nokill.zip [c7e11144a016027215cd0d5a360cd046b4835898229b7ccf73a37814faf1cf51]
+    ├── virus.msword.nokill [0d65ef4479c811898aa0dc6d6c5ae2fb61fee178647dbcd2a2ffba34146167de]
 ```

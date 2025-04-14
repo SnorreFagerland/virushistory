@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.bdks.a.zip [3b9c358a806b2d91df0d91539cb64d15ced81d7c3ec463610f05569bba00faaa]
+    ├── virus.msword.bdks.a [3813199b44b67c26871b0218b1c30c096b3a97981cba1b26c1f8df2501228043]
 ```

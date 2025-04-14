@@ -3,8 +3,8 @@
 
 ```
 └── a
-    ├── mess-a.doc.zip [7f3f0888c81b2adfcf212827e2791e6ba254dcf95e8fedb106bc724b50e4755c]
-    ├── mess-a.dot.zip [75c7ec18bbc46dae22a9b73c1a7fb2dabd72e1e58d83dc8d2f70118311f876d7]
-    ├── mess-a_1.doc.zip [124a805584d1b6a0d3357db5bef1c5cbe19c33309467fc9d801aec5e5896ee31]
-    └── mess-a_5.dot.zip [baceeda470925f162217015081e53bfe09c732d9fd60e38dda80cce7b1380266]
+    ├── mess-a.doc [7d0225a409261f4465a2433ff2895dad4944314bce626d933d7d5e768741dce6]
+    ├── mess-a.dot [8c98526fcb39d8719e02467469eecb6e03d733e5ccad32b1518ce8d84fedda23]
+    ├── mess-a_1.doc [3baf67551cac959796212ad19f6dab6eb776227ffe71eee5d15ed990993d8acf]
+    ├── mess-a_5.dot [e6b1ccf61f7aa1dd2619e5c9b21e2ca3175b1639c15c06ae3af4d74010a6ca35]
 ```

@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── swor-a_2.doc.zip [d166a7256c31750b6174b2c91821c0df786cf0ffa870a4fea2a602862ebe04c5]
-    └── swor-a_5.dot.zip [9bb54d6160b332d995fee9dc92d6183fe29901d855470881f3bdce46850b262a]
+    ├── swor-a_2.doc [64558bb4cf4f70eab18831fd7f8a2efefd042b12dd12e2208c9f91164e77f62c]
+    ├── swor-a_5.dot [b42b593830ca8582501a25f31f8a21b9f19863e6e8bc86dc22e5965d76f887ad]
 ```

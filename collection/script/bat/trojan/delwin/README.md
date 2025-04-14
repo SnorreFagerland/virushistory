@@ -3,59 +3,59 @@
 
 ```
 ├── a
-│   └── trojan.bat.delwin.a.zip [b52d8c7379acd1f6c6b2c4f7f8c6b2b0a06ac95ed6b05e869268c2c19a677ce4]
+│   ├── trojan.bat.delwin.a [adb9a53519dc4c254f2c8c3b8be635b8cfbca2c5f05b4210616a79a5f27824e4]
 ├── ac
-│   └── trojan.bat.delwin.ac.zip [02ee9b549dade4dcc4991818623273e1c0316d7ca6619cfcec69ed62484f6d2f]
+│   ├── trojan.bat.delwin.ac [f6cc590c6837353de21b60159179db43f11d3734df48654d0f74bb88a9e44792]
 ├── ae
-│   └── trojan.bat.delwin.ae.zip [76a1df9fde87aabb84ee9728c9a15555a1c4af3e1c50b25b66060d28e23a53d5]
+│   ├── trojan.bat.delwin.ae [ac3f09bfee974348adecbde7b7f3b5c48bbc4791c713eb02e70856cc3e96cfda]
 ├── ah
-│   └── trojan.bat.delwin.ah.zip [034bb5bdecf6c48922f4a2997f7f5299d05669d9fa0eb90368de69e5f4c2a518]
+│   ├── trojan.bat.delwin.ah [78b02c484cc47e8a695077d36a842c09b17952ad2d911a5aa77fbdc5f94c4c95]
 ├── aj
-│   └── trojan.bat.delwin.aj.zip [395f6655c550ec85a63613ddc55eba43daf52d3946b740c5af53adbfbbd575cf]
+│   ├── trojan.bat.delwin.aj [c36ce71b731fb72dbb02a8b3ff082e316ddabbfa680e4a0470ca88cbbb540c5e]
 ├── ak
-│   └── trojan.bat.delwin.ak.zip [7c3e0af274b10608b88ab179745caca8a9609d2a205d33e12317c27a9c926265]
+│   ├── trojan.bat.delwin.ak [bc086eec1ef02b9077f4a4b38d8e0280c89a13fef863cdd599d7ad6739857dee]
 ├── al
-│   └── trojan.bat.delwin.al.zip [950de62f2b26107db79fc529cc0920bab7755f4bcdedddfda399641cbb01e87a]
+│   ├── trojan.bat.delwin.al [a36dd1337c9189ce5b4459d309fe97d7afdc2a7d61080e6484224f2264baf4a5]
 ├── ao
-│   └── trojan.bat.delwin.ao.zip [ce01f5543ac981f8a17350be008490d27ca4c06454740f621f24f26b9cc97074]
+│   ├── trojan.bat.delwin.ao [a442bf2aad745ef22ff19d71e9b5fc92b460bb0102c31bf21cb154d805083b0b]
 ├── aq
-│   └── trojan.bat.delwin.aq.zip [b80e733180f6e8dd71a3ce5f1bfdad77eca7da687e571451a18df7763dbe3e2f]
+│   ├── trojan.bat.delwin.aq [cee9689442fa4a8823a955b5780890c2d3e1d837883b65fa67e1722bebbb47fe]
 ├── at
-│   └── trojan.bat.delwin.at.zip [adce1d2335829b87c9f17be02df316cb90049cc8914834abaab6f7211060329b]
+│   ├── trojan.bat.delwin.at [cf1fe6ead7ec7f07682adcb08c98f912bae101c78ea782d1ab199a7c0980f933]
 ├── ay
-│   └── trojan.bat.delwin.ay.zip [705bc68cbe9c761e07091abcb0e8e571f4463741cc9023e9521e44348ee131fd]
+│   ├── trojan.bat.delwin.ay [38069c4f8a06d3a6066d3c9e0675b21b1c90bbf6923a4301d51fb0850c6fe3f1]
 ├── b
-│   └── trojan.bat.delwin.b.zip [ac3fe7d0087d9e640c0ab47c02c954e75616999edfaa5714e50dc0f402f31f26]
+│   ├── trojan.bat.delwin.b [47231ac38a6ae7530fba4deff3091477855a06b57c986d25889c19a535cf0e58]
 ├── bc
-│   └── trojan.bat.delwin.bc.zip [c1a948d2141d8fe76822dd11e35d812376c42fd1fa7e237ef71c260ddb25cee0]
+│   ├── trojan.bat.delwin.bc [2a3ace3e12844cc993dd5b23f0476b6f6f243b556382ac095f6a667a1db768bd]
 ├── bd
-│   └── trojan.bat.delwin.bd.zip [2af96ae428417e706f2386616a2ca17320146793be9f8b126dba8573bdb42edb]
+│   ├── trojan.bat.delwin.bd [67509b0ff51b95b33d67939d19240fd331249337c55aecd4b855eb4caef8380c]
 ├── be
-│   └── trojan.bat.delwin.be.zip [996e4e4a692656a5cd41731bb91ad424d99078930732fa4a46f468d156f809d8]
+│   ├── trojan.bat.delwin.be [3e553634dbd70160e130a46f170d7b568b6eefffc24cd8a74a69c5abd8200291]
 ├── bj
-│   └── trojan.bat.delwin.bj.zip [ad7b06af549fc992eb1c77652b5fc276272315f37800d729ef868dea2ae75a62]
+│   ├── trojan.bat.delwin.bj [95d2b8ddef08f23a957fb89622471301ac374ba387f7358ba85187b7c47799f4]
 ├── bm
-│   └── trojan.bat.delwin.bm.zip [aa873b990c106ed49815983ba22a80889e04e81905a71597d9b9e6d3ed97b050]
+│   ├── trojan.bat.delwin.bm [2ad06ca6d3734cf193452c30597588d000381b8de5a4ec6b5336d3171e755c10]
 ├── bs
-│   └── trojan.bat.delwin.bs.zip [61eee0dbb1586d57940eee7a87aba86a2016ab285e17b6fa1e95ff78f20fd80e]
+│   ├── trojan.bat.delwin.bs [b95d5a114cd62566ddfd06f239839ac6f67832740851b417f7805ada01c85d06]
 ├── bt
-│   └── trojan.bat.delwin.bt.zip [503897e9095c8f5e55ecea5d4316fb01f4738769d312ca63c27a39c5b40b3826]
+│   ├── trojan.bat.delwin.bt [3f37baf2816f89eeb70cbd03b476e688f61a36d7ac8d8c7e22ec12193e4d20b5]
 ├── bu
-│   └── trojan.bat.delwin.bu.zip [2a4e081fbe9e5bf5e15cc97f8d88de4acb832a63d992a6ea4e1571aa2c35988e]
+│   ├── trojan.bat.delwin.bu [d387e5db2f05779d3adc3b8aadab035a597fed2cfde5e81f2dd9ae89e7c1fae0]
 ├── c
-│   └── trojan.bat.delwin.c.zip [f24483c8504a439a9810211f69887e863375ea5813bc3c0175c941c5b1c6c5bf]
+│   ├── trojan.bat.delwin.c [f342fed3cd2e12a8f4f40ea37c89bcff3484f579d8b9d609a6f94e7521c6a87f]
 ├── e
-│   └── trojan.bat.delwin.e.zip [fb5347868adbe202d225201a6246fa6d39a7ab9403c0503d1c32503ae0ccb54b]
+│   ├── trojan.bat.delwin.e [2f48da301b9bacc031074eaed157d18706b13d35b84ad0f44db05a8b3dfa0a0f]
 ├── g
-│   └── trojan.bat.delwin.g.zip [722a1c6c2345a0368178cda920bc7a09e444fc835e115809dfe9f7716bd27826]
+│   ├── trojan.bat.delwin.g [ac47e069487d3a32f6aa8e75e68e95ffe9ca1f1f025fb7c68052f3c6b001a6f7]
 ├── k
-│   └── trojan.bat.delwin.k.zip [e50689af012aadbcef23e60d1d5afa2f2021487a7a8e958dbec532cc900b84f5]
+│   ├── trojan.bat.delwin.k [80a47dd46cefcf3ff0a9ea2f57bc4104c10e59b79102a4c2d5862372d203fcc2]
 ├── m
-│   └── trojan.bat.delwin.m.zip [75d927ecfddfe706b325d7201f15a5a06c71cadc9cdbd215769ced52c8834a2e]
+│   ├── trojan.bat.delwin.m [16c3625d6a7acfcfccd3cfc84b71afb152ac2aac521309d854cc05d7c6458c48]
 ├── n
-│   └── trojan.bat.delwin.n.zip [60c9c773ef42be162d76fd58838b38b4452932587d1c6619c16ff54a401f16fd]
+│   ├── trojan.bat.delwin.n [d02d82380ba3ed7a578b70e868a24febe8a6be1731e632bed295a3c944acbf59]
 ├── p
-│   └── trojan.bat.delwin.p.zip [ec124f94ff3edc95fe20de4bd768714d66c82d40fd048a9897bfc4bbc5f1c671]
+│   ├── trojan.bat.delwin.p [2e71948c72a548e1e907eb02b70a79d220cc617bdc05bc1438f15fd6a3a3d831]
 └── x
-    └── trojan.bat.delwin.x.zip [90073c16866bf75f417d01b8b4ac98e076179b447ce7ed72b6f4bdfcfd7c51ec]
+    ├── trojan.bat.delwin.x [6364ae198c1acbfe205b491ed254c7ee26dfe53636dbcdbd1ca039c62a1ed78c]
 ```

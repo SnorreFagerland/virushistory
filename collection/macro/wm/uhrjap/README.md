@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.uhrjap.zip [a1fb273c2a7e84de03c79c0da8389d7c366ff71ba2d97a543fb8eca45c24376c]
+│   ├── virus.msword.uhrjap [dc95959430ea59e27c95ddb32b49097a02d0aa9a294b052f53684816e2cd567a]
 └── b
-    └── virus.msword.uhrjap.b.zip [adfe1fffbfd51adfe58ad53ca9a11c90b7c9dc4ac3243f945e9f8419e4050aff]
+    ├── virus.msword.uhrjap.b [4fa9c3d4c142b4932f83a4f0cbf344097d5390646f14b2959931296c55207be2]
 ```

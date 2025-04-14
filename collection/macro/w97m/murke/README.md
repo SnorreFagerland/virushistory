@@ -3,19 +3,19 @@
 
 ```
 ├── a
-│   └── virus.msword.murke.a.zip [49e5fcf3e7e91738812ec0bd9040a3f3df7a7f4b7718ca5a6a5c4dcb54b1069c]
+│   ├── virus.msword.murke.a [f5c39ca0ac1ed8699b54f352ccf5d09be3025939d35a87e9a0a0e1cab0503305]
 ├── c
-│   └── virus.msword.murke.c.zip [904c5a0884bf2f3afd79e89e4ba0d76bed47eda2403183fd2e50d7f581db253b]
+│   ├── virus.msword.murke.c [1250aebe4d9aa782942e1ac281959728f377f0b34f99df589d761b87d815e2e0]
 ├── d
-│   └── virus.msword.murke.d.zip [234f1b1715ae37cc440af3253c33538359d092b0a7ecdb62a9f956623ef74f89]
+│   ├── virus.msword.murke.d [3e3173b1d71a643edb909cb75cbbeb553a7330673ace5b6457cf665dfe7ccfb1]
 ├── e
-│   └── virus.msword.murke.e.zip [e1910bd7399a7a4a6ab2d6198411984f5f00fe90978c12d839ca77e6a354e4ca]
+│   ├── virus.msword.murke.e [d564fa2c557083d834d14e006f01f88dd37ea1fc09549e952675b8d7cb6dba80]
 ├── f
-│   └── virus.msword.murke.f.zip [4e199837afb2b1a309a7a6913cc04794e8311d5687a14f81e5e16f3e1b744780]
+│   ├── virus.msword.murke.f [515d6d969cb2fed6d0c4cd68fefbfce8aaddaf2ac3c6c900a47f17cd940d0ffe]
 ├── g
-│   └── virus.msword.murke.g.zip [620f777a10c6b5f64161a5e9310a31238feb1161a3d8e41a238120c2280e9145]
+│   ├── virus.msword.murke.g [1cfc1e0a5f995779a674b19c9284218b10bc140a795c76c168cbf917beba3222]
 ├── i
-│   └── murke_i.do.zip [196a831b324199e351fe80c98fe47b6d9abf150e3a2f00b68b36664488517f8c]
+│   ├── murke_i.do [744f7c9d976be34c106d339c754c74bb2b51eda933b1f5d3bc86de4cb2a4d9d4]
 └── j
-    └── virus.msword.murke.k.zip [f835347fbde5090d55d5769ea3fda9728aecbfbf371375b5bac4a8e23550fa76]
+    ├── virus.msword.murke.k [77bfdda3e5c035749003352505ba899d145ed7d845158426d9e3c108a21a0f39]
 ```

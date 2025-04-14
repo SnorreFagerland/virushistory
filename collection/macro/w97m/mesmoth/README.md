@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.clan.zip [469561f5cfeb6ef7b1c9715063a99227c960a3777c03c3831d5e5bfe08c4b21f]
+    ├── virus.msword.clan [b5788ba23a2cb9c5aba64522016541dcbd5b89c673a85b991b5d827824d1d252]
 ```

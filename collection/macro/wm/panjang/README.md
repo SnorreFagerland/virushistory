@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── panj.doc.zip [91c5e44ba06cfb4002d042f584c7e0df42bf4c9989162d8b5d859d31239b0e3c]
-    ├── panjang.doc.zip [437bc3e18e78237332250155c7e7a090b8d18d93d5291c995f37f576918db740]
-    └── panjang.dot.zip [b61aefe68e06cabee0bce4f4c4100d3d423016974fc9f6559a27ee2b5b07f0d9]
+    ├── panj.doc [a4947d7c6510b64f07f1ec6c7362bbd66e81010e5e6f8e6d2f9f1879cce3d9d6]
+    ├── panjang.doc [293b2db104bd9865b4fdf90f932ef1793c4c040b4e3539946e049d9edfae4f73]
+    ├── panjang.dot [d2e53e9a0e31988ea6f9da4ec3c2e0b0ee46929259da074b6d91e0a49d4abd81]
 ```

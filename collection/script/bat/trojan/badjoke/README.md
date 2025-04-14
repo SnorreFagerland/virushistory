@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.bat.badjok.b.zip [c165c666cb0160016c1c42bc7da7ce2a19ae9e3b9c5d159d2f94e24081aa12e0]
+    ├── virus.bat.badjok.b [dfbe4666676c1d5f42167025f17d5172a5ea0d40ad027ad82b20bd73c879575c]
 ```

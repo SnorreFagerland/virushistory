@@ -3,5 +3,5 @@
 
 ```
 └── b
-    └── virus.msword.adrine.zip [121efe431a048324a517e5596fc3bdb682ca2ac0b89db64702f1ce87eb4246ec]
+    ├── virus.msword.adrine [82863c8c595b867768b2632ad7db875a1178734e7a8df743389f05d719fd7cd5]
 ```

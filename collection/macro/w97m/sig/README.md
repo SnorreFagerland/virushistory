@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.signature.a.zip [2ffd284cc5a44e02005d7189c4897aa4da2a6d44659bb54fa792bec40fdcad09]
+    ├── virus.msword.signature.a [e4a33bf626d5f505ea4b5907c4c0da51e782ece2a73f0327f5e6e05ee3bfe46e]
 ```

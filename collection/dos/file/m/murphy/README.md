@@ -14,6 +14,8 @@
 │   ├── c
 │   │   ├── manti.vom [ae600f6a8a36e1db9ac4cb6885f8e45101e6983b454730ae1852859f37d27a05]
 │   │   └── manti.vxe [32ca6ca83d4258209fc605d99322ed37508150f2eba27bc6517f167ec7eb324b]
+│   ├── d
+│   │   └── anticsta.vom [e8f53277e22d8388d775ff876dde3e42b7bfac2555fa631877a187d7819fdf07]
 │   ├── e
 │   │   ├── murphy_1-001.vxe [62d0c482b0169ea7a273ec2d1e588ae32d5cdf8e483488e36076fe394b90679a]
 │   │   ├── murphy_1.vom [ab863fcd1fb404a811577c3c37af6e3d58f4fb1c17bf90bd82fd7b19bd56e0ec]
@@ -59,8 +61,10 @@
 │   ├── b (woodstock)
 │   │   ├── wood1219.vxe [dae31f1921fb92bbab30e6dd952866b3744df17c1c36bc3d34ec105c650f1f0f]
 │   │   └── woodstck.vxe [871820f90dd85c6ede857d887ed399a920ef0c1c201988349c242cd364a600a2]
-│   └── c (migram)
-│       └── wci0346m.vom [f0796e5acf5446be5e69d51ba7a38c7212872486608733307236d6304f32ac0c]
+│   ├── c (migram)
+│   │   └── wci0346m.vom [f0796e5acf5446be5e69d51ba7a38c7212872486608733307236d6304f32ac0c]
+│   └── d (migram)
+│       └── virus.dos.murphy.1219 [5bde9a6a4ccfd36dd64cd1c43baef837610e5e4b5690c3d975c78526e6b810d6]
 ├── 1221 (migram)
 │   ├── a
 │   │   ├── murphy32.vom [dcc2cd688addd39d55f602e5fae98d96b43d53fd73cabe674096b80df1d864c1]
@@ -109,9 +113,11 @@
 │   ├── arce.vom [9fead8ceccf254b5f22176a935c1b3e039ec82a94609a926b6952eb5feeb24da]
 │   ├── b
 │   │   └── stallion.vxe [de8088734f6fa0d585afb58f7977381273f2e7fac29d9d5ea91bb4bdd20d13e2]
-│   └── c
-│       ├── murphy_1-001.vom [5a58c2ecd40a4ef6eadc7ce87e6aed84a4ec35f8d32ce81d1a092bc7488d1c59]
-│       └── murphy_1.vom [446bfc03bd16309e87bdab02bac00ff5e8496ce1c0eaa755473835e1a8b70b07]
+│   ├── c
+│   │   ├── murphy_1-001.vom [5a58c2ecd40a4ef6eadc7ce87e6aed84a4ec35f8d32ce81d1a092bc7488d1c59]
+│   │   └── murphy_1.vom [446bfc03bd16309e87bdab02bac00ff5e8496ce1c0eaa755473835e1a8b70b07]
+│   └── e
+│       └── virus.dos.murphy.1277.c [cf1d2828e3cafb44af2c7a03491ac1c95e985f5d5675e5bbf31c4a1bb064d964]
 ├── 1284
 │   ├── a
 │   │   ├── murphy-3.vxe [71e65c1e52337af776b060fc12d7826ef18595f28b0b8ceb03af6a325581b43c]
@@ -119,6 +125,8 @@
 │   └── b
 │       ├── murphy_1.vom [a9995beb7e5807d141b68ada59ca8da8884ef19e317c6f6e4f84d26acf956c7f]
 │       └── murphy_1.vxe [4a596e30aec57b30b0dc886bdd42e6b43fe9af81143b0a967f8159a295dfe57b]
+├── 1404
+│   └── virus.dos.murphy.1404 [b9e838ba0e54ff469088456c98af81b27bd049c5407dfa81fdfc96251ee7c943]
 ├── 1417 (cemetery)
 │   ├── m-cem.vom [93efc549638b8a440c0412085312d8f128fa53eec0892e5471ce4dd4b38a9041]
 │   ├── murphy20.vom [f586ff53d0b55cd73a1a4ccf885ba4475b9943cb725ca35c343186507e0007c2]
@@ -127,6 +135,8 @@
 │   ├── 04152b1b.vom [4ca006ee65c8bdc676dd4c27ac76856cbbb1d832f091ede189d9bdf2363e20fb]
 │   ├── m_1477.vom [aab1135e8088fae00a07b22e397735a365a0d1e8ebbeca89838534892a78aab1]
 │   └── mur1477.vom [5911ef9763186f40efd17ebde77dd74fe911113f7558c1354fcd57687e1ba843]
+├── 1478
+│   └── virus.dos.murphy.1478 [2afaef70f796d70595637457f015a1391ac41fc6ed7232dba3c9a88c8d228020]
 ├── 1480
 │   ├── a
 │   │   ├── m-1480.vom [a8770ae449e6d7d1636f05e0619063e635f4c9b3260923f9e61ae8d3429c27da]

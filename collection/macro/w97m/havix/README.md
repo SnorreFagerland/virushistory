@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   └── virus.msword.havix.zip [8e6a6fc9ea6022b15ece22a27c6431275456f692af465628128a711820e49cef]
+│   ├── virus.msword.havix [f8297202f1b1f5e9a03a153ac8cc701671ae4ba96ba77f9e7afd47923bb85da7]
 ├── b
-│   └── virus.msword.ale-based.zip [8d35bccb8eda99ed931edb0a9504d795c14799f50b04de0975276ced148b7ef9]
+│   ├── virus.msword.ale-based [ae90178c84a9a4d5c3aaae3016c9b473cab193abc2bbf7e595dee7e324da3467]
 ├── d
-│   └── havix_d.do.zip [191f00168412489cdc1a5bb75b4f3a5267f088bff5f4f8e0f465ed2000378aaa]
+│   ├── havix_d.do [5eeaa40b2a91a4ea968be48d2e2dded9532d391a420c188d7b54fcf10e6ad727]
 └── e
-    ├── havix_e-001.do.zip [7c5d963b835810fcc29e508cfdab558e1d82d0359958cac75a6281c83ab9d300]
-    ├── havix_e-002.do.zip [7c11c25726ccf4f46a684adc6be2203636bdc8837d69705eb991f78a07c681eb]
-    └── havix_e.do.zip [cebe09dc0cde02f37c4cfa4c8b76cad699cdd860ead3bcc86580df4e8b07428c]
+    ├── havix_e-001.do [6b23f06ca9b8d29a642804b7d1b73fedbb94641fdc8e6c7cadc4e2a292e8245d]
+    ├── havix_e-002.do [9fee62137b32927d0adbb0ac6b0ff44454d145338777a37b4fad24718eb3348b]
+    ├── havix_e.do [3a5c4f6a68ac1c7f1d9901c94f14311f793fef57d6dec4d776d7d2ba1c623938]
 ```

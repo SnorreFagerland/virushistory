@@ -3,10 +3,10 @@
 
 ```
 ├── b
-│   └── virus.msword.komcon.b.zip [cb618b319999c006b60a42e6eb8a14362008bd15cfff8ae8ebbe0ec54b35b492]
+│   ├── virus.msword.komcon.b [2719bf803d178f67c2ff15036a873fe1a0e932b74640dcb92ac08ccb26b56629]
 └── c
-    ├── indi-a_1.doc.zip [eaa71f970268d6e1abe8e747781c2aad202c1a4533ea7639ad402f1f47ebfba3]
-    ├── indi-a_5.dot.zip [c4a75a6733893bb0a9b3b1ba8de3c274f4e9b779d7bbde3b26cd867ef7b3fe05]
-    ├── india.doc.zip [1d8f6271428726d7f1266717400289d919b2616c9514b9d6ab0a5df9da7d7289]
-    └── india.dot.zip [2a64df1748315931e9e3d2d5d8e55720f84ffefb0a153cebb00ba9243ec190d2]
+    ├── indi-a_1.doc [a122d4a5ffdbde75c2ae53c006986c68d69f7e41258cb844db258173ecf340a3]
+    ├── indi-a_5.dot [7c9f77ae82096146190d45d6121c58b169413fabd801e864464f1e79bcd40e7f]
+    ├── india.doc [8d5fca40fea9806954de0a29ffb86d8ea5d6724372f1f216ba5cb1928cbc95bf]
+    ├── india.dot [f02da64206377963d6b893c8542cf890130ac9c95c1f3174fa8042eaf2e0a73f]
 ```

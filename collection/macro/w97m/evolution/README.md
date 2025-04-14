@@ -3,15 +3,15 @@
 
 ```
 ├── a
-│   └── virus.msword.evolution.a.zip [6c928b50620eb8639f03d20ed6961b68db36da7d962c2dea8b02b8ad1e039863]
+│   ├── virus.msword.evolution.a [7bc35627d29881b1a993129fb6968b8549b289aa179a65c26bf09b429bca2202]
 ├── c
-│   ├── evolutio-001.do.zip [cf74b15ae27ca98e8d7c337b62f9a485997e953c56081a796ed0cd4226df93da]
-│   ├── evolutio-002.do.zip [b99853ac9fa1b4ed42ffccae78d0abc93c5b5afbe42a8f477a74a477f3a0b594]
-│   └── evolutio.do.zip [189b9c85969c822f6c96cb5677795fada4c57492da723c4e690c55676864af07]
+│   ├── evolutio-001.do [ff4b7d79b183eee8c4defdb6bf0f45bfeaafd11b898ad4934cfeecb7cc6051e3]
+│   ├── evolutio-002.do [aac87cb53056ec44cb40e74f22f283b456afda21a12316c31aa7e56a96c53367]
+│   ├── evolutio.do [722779a19f12a9d6ad6fd5c22ec80468fad0c9d2bcb116296dc76af33788edba]
 ├── d
-│   └── virus.msword.evolution.c.zip [3dbbca55cea6f1a03a3a836bed53d36ae60b7b572cdee94a783ceba9928d5cc3]
+│   ├── virus.msword.evolution.c [9e3d9d7526d60e14bad163b7644d54a575ecd7952d4bf9c922c81964136cf491]
 └── e
-    ├── evolutio-001.do.zip [8aca066a90f0b5e3e610743fc7f411d47911df885fc53006a48237ae11f4b335]
-    ├── evolutio-002.do.zip [f2cbaef8396e2ef884390cfa4a3d735b9a76a430e08853c1cf30c813d2353305]
-    └── evolutio.do.zip [04191b05dbfed55a8c8bad6e4c8a21077b96b1330aad55c27dba1958737b0119]
+    ├── evolutio-001.do [fad357347495b596e6f9c5232b1084ede7d7732e3e185bc3613e750dc2f0ae93]
+    ├── evolutio-002.do [bc8581576c7ffed6ac9daba7ba046a7106dbc14facd69efd6a33a927e57bd21b]
+    ├── evolutio.do [6ad8bf8db94d98cee5d87f2c9645cc4663ced1cc4d7f4fc40ca8959d8f1be6a6]
 ```

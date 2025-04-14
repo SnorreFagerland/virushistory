@@ -3,6 +3,6 @@
 
 ```
 ├── highhop
-│   └── highhopes.txt.zip [c047deb5124cb4e5b720e81ddd525c49049d791f6c54acc6730f9a8344b36785]
+│   ├── highhopes.txt [5b75324439abaf4a20fc2c5780a2290ce2323d3af2673e939341b4f2bc2e6656]
 └── prelud
 ```

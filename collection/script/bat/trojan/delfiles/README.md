@@ -3,5 +3,5 @@
 
 ```
 └── n
-    └── trojan.bat.delfiles.n.zip [bebd82978f51693c4ced085bd53cf8059d028d6c2e249bdde2d454452e5c48ea]
+    ├── trojan.bat.delfiles.n [a0b80e9ee84018dc423f53f64a98e6f11809c6bff4d2a9e685893a4db20eec57]
 ```

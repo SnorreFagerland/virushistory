@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.cooldown.zip [dc9fe9073888636a05cd30e696b834b1f7f62c89c915778026fbfe5e6713ce82]
+│   ├── virus.msword.cooldown [f846c4688a179ba28073f03745ebea22467157f3f6d0a9748d3703df1e962482]
 └── b
-    └── virus.msword.cooldown.b.zip [aca607571477d94ab77331211ae306a6dddaf5e9e88929bdd72cf220e68bdcbb]
+    ├── virus.msword.cooldown.b [b9295ca7fd4a0b3201284346c2e52d3eb8aba403c0713ec59429c47f235083ba]
 ```

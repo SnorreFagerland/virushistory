@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── etna_mt.dot.zip [b0a0ec02206481f391b5326f1d07f6d671a3aa07b3181b58a3fa529ebb471348]
+    ├── etna_mt.dot [d7404b2c26002fe9face347213c9eb4f2e5db5d1d9c2f862840b5fc765bc14e6]
 ```

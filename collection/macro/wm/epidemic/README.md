@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   └── epidemic.doc.zip [0f2be2b1d33a49aa50e8186c83e2d7d755391f435b33fadd6d06ac4ebe79cf02]
+│   ├── epidemic.doc [a9fa1c0306ae1188e73d7aada0460ea0946d834b12c3a182d4d1ed076f005a22]
 ├── b
-│   ├── epidem-b.doc.zip [e041c09d94fe88ba93dd33eb2b54126ae3e3a5085516b4c526921f22b976f1bf]
-│   ├── epidem-b.dot.zip [4bde4e84959a8b3761e1276a85e9c03e173e904b4f4b9c0292ac697821a0ea91]
-│   └── epidemic.doc.zip [db7210411f2c049851745a891713fc237058e4a54a12287b970be54a55228e57]
+│   ├── epidem-b.doc [3b7a2a667d39e6082c9394e9400dc06cb84af47977ebcd7e8a6ed7e64b2b979d]
+│   ├── epidem-b.dot [67f22bd7820bb142114c724cfb6b5b26e2615fd1b0918e3460452e5926bcbe05]
+│   ├── epidemic.doc [67e8579e0f8e7faeda5e1d69f99938f901a61e46cc1cbdb02dc47a4807c3158c]
 └── c
-    ├── epidem-c.doc.zip [b2f2d42a6f0eb0b4fc664a7e85e3e90f73d8ec780a2205a6fbeacff9466e16c8]
-    ├── epidem-c.dot.zip [fc30f9594ff5d8b6d10f16765cfa8d4f5f5291d241df875e416ef739952b6b85]
-    └── epidem11.doc.zip [88a41ca795ca2c790a52ee531345b65272b452850cf19be7806e6ef28651c9b5]
+    ├── epidem-c.doc [0a989eb114420c559ffa0d96721230d4f255e0f9e8f64f5f0824a89de23fc3fa]
+    ├── epidem-c.dot [00049c67eee4b596488d30ee3c233149a3bb3b7d40def855868008fcff37138d]
+    ├── epidem11.doc [ac11daefa6dcd0b0cbb8b1eaeb1200e283e1a8375e4f7a337a8ba5fe11f78b52]
 ```

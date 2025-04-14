@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.yoda.zip [b18fb423032d912454d89191d43c8b98ad8975d3ffb6999232e08af29314b0a3]
+    ├── virus.msword.yoda [0f041bf3332207dc0c1100cf80e495e04c00b03a4bc4518bf988bd0396c16ec0]
 ```

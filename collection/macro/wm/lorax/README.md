@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── lorax.doc.zip [20c7bb10fc83320b3e4eb47e9938c5eef9b3422f6a1662d9363d66e75f3bd726]
-    └── lorax.dot.zip [377ebfa6c6d0e499ff4f7a7db59b5894cbfbbe92295a0cd75ef99a4f45a5a0ab]
+    ├── lorax.doc [2a9104c2b63f72fa7fb4c9c254ad4f75d7c143f86b08049b74cacdf97b4a188c]
+    ├── lorax.dot [12781d39b6fb48ec9885876a4932836eb5bb19ecb02190e1596f4dae56310054]
 ```

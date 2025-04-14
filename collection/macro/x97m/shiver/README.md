@@ -3,10 +3,10 @@
 
 ```
 ├── c
-│   └── Excel97.xls.zip [2342671e4e8b6615ddff8d30a28092b85c45dd66a7560fcecd6756ea9cde92fa]
+│   ├── Excel97.xls [d8a46e4afb5c67b21e3cab754e5540fbfc6371b98aa6f9b430148f24ecbd9294]
 ├── f
-│   └── shiver_f.xm.zip [958402328a3f61e2ca9cd39bd4137493961d0886b4bf5756237df673d645a6be]
+│   ├── shiver_f.xm [11fb84a32cd9cf54b604ea965f74b0b502858c413ddeb2518fdc03def4663994]
 └── m
-    ├── shiver_m-001.xm.zip [17fbc5f058dfb5d3490d880b50763aaf7fe983da8e26f3513d14e01e1d1df4f8]
-    └── shiver_m.xm.zip [7beae36c8f8c6ebdb31ef7d99c8b0148464099c5c72fa9646fc22cc642451d0f]
+    ├── shiver_m-001.xm [d71d9fe6aeae6f7837d41fef272584a01465970a234eefdf9b65fb0140bf097f]
+    ├── shiver_m.xm [04fd6fb901b02e4699d8d4445c1aa695c0975346f5d36e0e55fb1d1eea2da531]
 ```

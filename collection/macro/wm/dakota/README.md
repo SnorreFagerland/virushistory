@@ -3,8 +3,8 @@
 
 ```
 └── a
-    ├── dak.doc.zip [b0f0bdfced0a0b57cd3facd8993fa2fe37653116626861dec16d83ece0e2ff82]
-    ├── dakotad.doc.zip [09944ef20e51e83604de5c55f15298f36a5ce9e7441ccf769e1f343a536e5567]
-    ├── dakotae.doc.zip [b3be87c6d0ccfcacd85edee7803528fa7e571ddaff846489d73f1a0ad92afb3a]
-    └── wmdakota.doc.zip [cfe4648c21fb11bfd14cf7f6b1a04e348e8e00455598d7981536a68537c9e4d8]
+    ├── dak.doc [4b9d54a27b22931b299a84807ae3e8d769df4f6b45ad60da4bf4cab4489ad93c]
+    ├── dakotad.doc [054f2ebe9b36585567cbad2bd652b1186b92196ae4bde5d77b13c224e5f68dbc]
+    ├── dakotae.doc [46594c6b8d966278d8bc756e3f300ed0525846039c61e7babde3d09613f92f69]
+    ├── wmdakota.doc [8b6a4ad157ce594f7f0e03824ab61d532c63b05674b2c6d8ca5e5bc6c2e94f9a]
 ```

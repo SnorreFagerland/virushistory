@@ -3,13 +3,13 @@
 
 ```
 ├── a
-│   └── demkita.doc.zip [61beb3cb97f32a739541f4be180e5cf4ad83e238fc79fb77e84b226dbe55d597]
+│   ├── demkita.doc [83c85fdbda7e7b211bc7cacb1161978693429990248f3ad4cf791ae0f8617ca5]
 ├── b
-│   └── demkitb.doc.zip [3a8c6dae838eb4c54ac31d9b9783aace2f51354aa9ca20fc892ce1a706bf2e44]
+│   ├── demkitb.doc [5c0717789e9e07cd2c8494e4a9dcb5140f4594348bdeb28898ef21e7269438c5]
 ├── c
-│   └── demkitc.doc.zip [55fd7a727fcaf77d61420ef535a9a964aa92ad48b0e7df3b6e255d36c5fbe08d]
+│   ├── demkitc.doc [832a57e5ba717085655f8f93655e61b36b24dbbc441dc03978435484e47d2b8c]
 ├── d
-│   └── demkitd.doc.zip [2f0e7d6fa19cace23c66609e87143ffe2dc180aa1d219abad087a4f989e8a4c0]
+│   ├── demkitd.doc [5b1ed2332ac5edf10804428661df715c77c2b81f83252f1d7214284526e37356]
 └── e
-    └── demkite.doc.zip [210141625a8e0cdb7be3e5165b6165f758d1c9d92686c382bd9d74fcd84f2309]
+    ├── demkite.doc [f17504a9153d2552cfecafe2f4f8692223a4efdca2aff1ad91160bd0265d854f]
 ```

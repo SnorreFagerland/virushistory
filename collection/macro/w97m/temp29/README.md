@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.temp29.zip [dd7353b5b49aee408a0185275ee1b65ac9e7c95edb2ad42e4df304d986c7c591]
+│   ├── virus.msword.temp29 [b51eb8327ab09943c2d05e46a1cb638f60f67dfb5a5abc873a778130c44bfcc0]
 └── b
-    └── virus.msword.temp29.b.zip [e88c94391c433a69b0f7615bb2f99936db456d69f1a8af0126b9dbdf0c384cf2]
+    ├── virus.msword.temp29.b [42ff7f362c5c349be7362f502e47e6003d8fadcddfcee47f63ecfa95d18ea2d3]
 ```

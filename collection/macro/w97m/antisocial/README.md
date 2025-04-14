@@ -3,40 +3,40 @@
 
 ```
 ├── _a-c_
-│   ├── antisoci-001.do.zip [8a96d6cef070d0e3d0a7c17a8077a586213ac5a18017dfd4d854bcecf7cfa9ad]
-│   ├── antisoci-002.do.zip [7a0e410052c00097bb8abc8bd7cab5c982bb0310fb961c73d113038fbf5b08ce]
-│   ├── antisoci-003.do.zip [373cf25a295fdecce0fb2206346f2d1f26d9de2321ab9f968a134868110f2859]
-│   └── antisoci.do.zip [05336fb5843f401a357d3c9b0542424bbd2b45b00f035edd71058fa87f48a432]
+│   ├── antisoci-001.do [d99173cffd8293618342cd9b0d22aa2f6c8d966aa1ffd96267c284ed8cec5e0d]
+│   ├── antisoci-002.do [eabdc6a849a34abfecd617f93e11ed6b3a7d2325bcb9341509cf3fa574f7fdb0]
+│   ├── antisoci-003.do [f35e6785fdcdd97a644c697fbae53464935d038d4df06329961fa1aea887e00a]
+│   ├── antisoci.do [c23019151e43277f0576175be193578f8585752a9738a89195e7ec4938ea062b]
 ├── a
-│   ├── antisoci-002.do.zip [2bc0a82ddf320eb06cdfd30c8ee0ef947c322fc2724e6e95787500db7342a22e]
-│   └── virus.msword.antisocial.zip [a12bf8588db90e4a35f756add18939c10f61b94e2ac5f734e85327d28d6889c1]
+│   ├── antisoci-002.do [6ecfcb38ec0f968ed82e0da9fb3374872450d39657b8da8861e37690baeeea66]
+│   ├── virus.msword.antisocial [3e569b4ccb925985b18796ca706c173f2ebd0e64e117df0e9e2b014d5a97a49a]
 ├── b
-│   ├── antisoci-001.do.zip [3cb9ef1d70c99df83d5471094853779f76198c7b9ec9bbd66e9048938ca2bc4c]
-│   └── antisoci.do.zip [0bf97252f23dd13376441e4b78fcccfbdb9e28c3958f9b1a18dcd271ae1c1ace]
+│   ├── antisoci-001.do [252f03d6ee0f9a910fe230dd6ed72ce3b2ae5cd91978d15f9a7ba5c770d44cc0]
+│   ├── antisoci.do [1492aa7d390f6bb939042e6672364b2a4f70f555ca68196cae716b6c6fd081ea]
 ├── d
-│   └── virus.msword.antisocial.d.zip [d3131cecdb5c485295798aed72574f4809fae019972b7fb8c7270a87d40f219c]
+│   ├── virus.msword.antisocial.d [8401b6567e46689821c4879bab87aee72b7288a35c70c7619d371f119f0aa5c4]
 ├── e
-│   ├── antisoci-001.do.zip [86020dd0538f70d91ee5c23d95b873b85aeed4bcdfecae9c810ca371aedb6ce8]
-│   ├── antisoci-002.do.zip [da0a87249db949a4f7bd6f030f7d1b2a081e7de7de46954581cb62be3e082ee5]
-│   └── antisoci.do.zip [5e5dd10be3908e074e27ecdb2f5aa6adaaedb90a93fe21d658a614761fe1287e]
+│   ├── antisoci-001.do [67c70de206bee84b227374f597d13e2f39e845da32bc7132df3e2508dc8cbbf9]
+│   ├── antisoci-002.do [debc4289051f31467a0a7f1d6531b7ef9ca19d6dce73fe5026c3d697adb1dd88]
+│   ├── antisoci.do [3b0bbe86b302f162cf5bf528f8cbe2755240d01f35588d74afe562d6d21f3c09]
 ├── f
-│   └── virus.msword.antisocial.f.zip [4cedd9f3531e36a6a6c9537cf16c402a023d0d2cb471fde18a05b30956695482]
+│   ├── virus.msword.antisocial.f [d71e50759fe4af146aaaa32cc0964f16ae3c05960277b6d222cee3db72613422]
 ├── g
-│   └── virus.msword.antisocial.g.zip [69d8290f1422304aae7bfc526658ef8df22ee2b8bcc9905cba223866fb66961c]
+│   ├── virus.msword.antisocial.g [47baf24cb901c06349bb3e87c6ee86e3309295d02a38a6640af90b26b55960d1]
 ├── i
-│   └── virus.msword.antisocial.i.zip [409e790c0113576bcac35ad31352ba816d066809af4c96eb0a757be4c764d7c8]
+│   ├── virus.msword.antisocial.i [29387445bac506ea66bc4ab933e93a1da26e2260e1cc1cb46e457d0028cf16fe]
 ├── j
-│   └── virus.msword.antisocial.j.zip [6da8917f713873f64ab393e11de1993c1c7328e8aa688b30acc9f5c924d2fb96]
+│   ├── virus.msword.antisocial.j [c2d42c3950e9537d4d5a7d47b4d1ee6778a65cd2aba4e1b3df07e95664bdb3fe]
 ├── k
-│   └── virus.msword.antisocial.k.zip [e28d5bed8403e04cddc18f4fb886a5ca88e0954dd08c80c80cc6142207c5ecfa]
+│   ├── virus.msword.antisocial.k [539b3606e7948684d23a784b7d2822cb7d534529efe6072e260823570cc86c9a]
 ├── l
-│   └── virus.msword.antisocial.l.zip [dc2e1e07e09e8c85e0bc783de1e22165411c18a486996b9fd8895fc7c144009b]
+│   ├── virus.msword.antisocial.l [044710e9914773ca3710ff2412d09dcbace990678c11cefba8775c4968fd287a]
 ├── n
-│   └── virus.msword.antisocial.n.zip [db494928d17cd5e54b78c6c73f2863a67fe84900faba9ea91fec557c686564c2]
+│   ├── virus.msword.antisocial.n [7e6eaa83e35744bea2a7b338c5ce1197a9232871a4789260aa8a0cf0bd71992e]
 ├── p
-│   └── virus.msword.antisocial.p.zip [20ae85ed075b34b686114adab280aed9315c0d91559feea299a5ab7785ef05d8]
+│   ├── virus.msword.antisocial.p [480a32f55fe1236a09c2db89ef74fee6cdeeba5739a5b2709eae3ba1d3ad3aa2]
 ├── s
-│   └── virus.msword.antisocial.s.zip [75a9fa0e80de64fd1ab7f7d3a5d4f5bb6baa8894fbbed54c5742875e76ec22a8]
+│   ├── virus.msword.antisocial.s [a09890c0193352ca778b31b1266803055854309ba72bad9a1e3fbba972aa751a]
 └── t
-    └── virus.msword.antisocial.t.zip [560fe242422146008946b6a9caf79a6d3bca98eb1abdbd9c53d32d17d8501d76]
+    ├── virus.msword.antisocial.t [032fd09342c2a258724fee086eb8cc1a0aef843bed3c4b88015e3f48571df36c]
 ```

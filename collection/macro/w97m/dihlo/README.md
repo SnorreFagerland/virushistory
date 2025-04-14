@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.dihlo.zip [496d37dd1256986e9daddfb6e106f41680f0566c2a489e2c5018958f37c07dc0]
+    ├── virus.msword.dihlo [061215ab7975f688ab306681848326112487a880a5e229bb6d8f783e7dd809fb]
 ```

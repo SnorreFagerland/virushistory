@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.ranetka.b.zip [c45b6529e36c0fe97f339df6af70adfe61cd1e7e1b312b294456a053f1d6d5cd]
+    ├── virus.msword.ranetka.b [639810142c71270ad1203f15b68cbd1d21dead284d075fffbcfd716b7356e939]
 ```

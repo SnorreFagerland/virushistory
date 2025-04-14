@@ -3,5 +3,5 @@
 
 ```
 └── e
-    └── virus.msword.counter.e.zip [c37381535b40032794725dce296ab07739003f6ac75cb564fadc9bcc35fbc7ba]
+    ├── virus.msword.counter.e [3e47d4514d352fde733b0053ae6bb598044a7f60b1f8da30c3fef6cfb43a8683]
 ```

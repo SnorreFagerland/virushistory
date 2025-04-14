@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.temer.zip [07d23b28b8f791d263a8bd979b375fa26e53977287fe94d13c98f9abc2eb285a]
+    ├── virus.bat.temer [960eb5669b394474b0688a5be643035e46b39cb99743650165302601a2c45987]
 ```

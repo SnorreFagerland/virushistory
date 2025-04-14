@@ -3,5 +3,5 @@
 
 ```
 └── e
-    └── virus.msword.cap.ep.zip [ea56c446eb1c8a9f5c748b4db1f74a3bb252f4677feab62317ecd06e68dc56c0]
+    ├── virus.msword.cap.ep [c3f8d9d93223f88b89c4c08a06bbba891fd0f64a6821a5385eb1f75b558a3380]
 ```

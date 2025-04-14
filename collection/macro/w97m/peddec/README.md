@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.peddec.zip [71d228a7dd327a3c25eaab87403e5983d95d2b30ac962edae43f71c3ce94d7dd]
+    ├── virus.msword.peddec [e00b4e6dd3c986bb2c74501a2ac11c81597ee82c4fcec18adfb30d8fad5f0a91]
 ```

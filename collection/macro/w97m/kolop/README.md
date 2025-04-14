@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── virus.msword.kolop.zip [fce0309790adec97f6ca7c34e1d9233cb28d61cc009dfc37979f900641251537]
+│   ├── virus.msword.kolop [39febc35b9a6d8f9eaa0e0787ed3678e6ca925f468a97c07468dc012bbd89391]
 └── b
-    └── virus.msword.oragon.zip [db9e40cba0172f4ef2d9e1e991ca2fb182f706b85ca365e9ece4b140b67d7906]
+    ├── virus.msword.oragon [ce33e46aef4908ab459aaea8e405640b30f6c3434981e2b02229844c6d765c73]
 ```

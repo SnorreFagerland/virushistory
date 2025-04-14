@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.adnerb.zip [b6f486fb27d03c5a739fe75ea34e70de3c7309dfee585d8414644bd80c3bd30e]
+    ├── virus.msword.adnerb [3bcd2f2b094fb2835ce4a000fda201f68c3efde3f8066a36f2526c7b167d133b]
 ```

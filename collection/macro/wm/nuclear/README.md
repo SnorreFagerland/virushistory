@@ -3,30 +3,30 @@
 
 ```
 ├── a
-│   └── ww6info.doc.zip [46214d10ae8893eb609e89333210c542a23b6deec056b8ccc799195f2c915188]
+│   ├── ww6info.doc [298d48ed627170aac517af67296982d8753149b2f02f18a5f0c13fdadced75ec]
 ├── ab
-│   └── virus.msword.nuclear.k.zip [bb354264fbd716522540d498b06f6fbb4605316d0a66c6cdef43c0e51f035309]
+│   ├── virus.msword.nuclear.k [2b82507a9e2d206639cdb8e9da0c17a3595330b273b59a10fec44e4d03fa35c8]
 ├── ai
-│   └── virus.msword.nuclear.c.zip [21de19f2fc7021be81aa77d50b70458963f39f9dfa7fa0433faae6c4069f52e7]
+│   ├── virus.msword.nuclear.c [30701a74bd0f76dea9bc56c4703f74a6759f65cb73f002162ce8a57aa834535d]
 ├── b
-│   ├── nuclearb.doc.zip [305e52f340075f8929d1c656cbe70a691002d040e3ee2701429cd25eb7721a05]
-│   └── viruswin.dot.zip [faa5e988085e34bcba423d05f0dfaa58dd40a6fedcf07cb1f9149cabf619bcef]
+│   ├── nuclearb.doc [86af976a116861ca6bc8d2f1075e55ba207afe18baf3eb1a6142dbb95e9fad4c]
+│   ├── viruswin.dot [1655eb53e0dd6fc124146ad19470d2b105fd069e38333b6b50dff074f4437429]
 ├── c
-│   └── nuclearc.doc.zip [43156f57f1f2fb21ec279223b482cb219a44bf067c76671eb9f5d5efb48215c4]
+│   ├── nuclearc.doc [5aed91423571dd27aa084e6583059e2346386359a0873c4913b1a1cd036abc75]
 ├── d
-│   ├── nucl-d_2.doc.zip [ec955e371a785a7b6868283b90206801a43a2c387d906925c94342e960181e6e]
-│   └── nucl-d_4.dot.zip [da7dd6faefbfd4a5f2b1934ed76171fc5a21f65b9ce424db841679e1c79b34c5]
+│   ├── nucl-d_2.doc [e1adf1eca250bcb57398ae7b02992906b77b232a9b7e29e90f5f872fec25fc18]
+│   ├── nucl-d_4.dot [354a77dfb572e6be2a671a28380ef6773bc7f92423fec96b2ebadf8ac3ca26e2]
 ├── e
-│   ├── nucl-e_2.doc.zip [04b2257ad9aac42b6177bb3053c810cc192a8b98ec4db656f5adc8af335a0bda]
-│   ├── nucl-e_4.dot.zip [79220c6201ff986858d798e2aa044e72d218a116fd23e27a07e27c5630b66c24]
-│   └── nucleare.doc.zip [b102cd5ec0ad056bea7f5efb5842231b2f3421557475d277c650bae4c4c702fc]
+│   ├── nucl-e_2.doc [c5e48929a29c7fff5f7c652ec55d99c1a76258e6ecbdfbdcf4556b119426abdf]
+│   ├── nucl-e_4.dot [89fc793b69a9d01d49368ad272579fc9170605f3339a61f46a83ce4041b92371]
+│   ├── nucleare.doc [33e784d17e95cd7ba527c625cd551d20626f162326e98ea360b2862ce9b3d158]
 ├── f
-│   └── nucl-f.doc.zip [3a1794fa9c151d0fa83739ae7140ea762b65311def2c0d9c9fe597c050932862]
+│   ├── nucl-f.doc [8c38ec386608c41edda9be324bae81fcdc1e504e54c637d54c14ea1416c6c9c5]
 ├── j
-│   └── virus.msword.nuclear.j.zip [10e0ed0a75e746c793d54544d8c82c6ab8ca884a1f2d34f67a557305e6d46d00]
+│   ├── virus.msword.nuclear.j [8cc3b21c983ddb1a3acaebd3947ad1d20040946507979f16c0f052f2ade54695]
 └── t
-    ├── nucl-t_1.doc.zip [e6731dbcf6bd3b8cc8996b6d7135a3cbf9272d88d075a2a319fccdc9207cc7b3]
-    ├── nucl-t_5.dot.zip [f0ebbaeb6fe1aabf63d88ea6e70a46cdb800ebdd3b86d6b7ac040f40d53341d2]
-    ├── persil.doc.zip [1f067fc197ae16d03d7237d749f7e38c419a1046f32ee098bbfcae24476e5caa]
-    └── persil.dot.zip [51ee99f867bb664e7d2a249ecb1343392c350c026c8abc73aaaf101f7adb3448]
+    ├── nucl-t_1.doc [4da467e80c706995a7107069802887ce5ab81a22a47f84d9e857f9d71a0ae492]
+    ├── nucl-t_5.dot [c56c97484cdfbf06ab80740ce45e4f4107731f9b62257dc602922371d21f7fc8]
+    ├── persil.doc [55a79a380cc57b725ab6f919a6bb7cbf823532e2b66111f91fec6951f700c4d0]
+    ├── persil.dot [a6a668351d0344c50d7d66072d0b8a4b45ebdcbf1f05dac9dd69e40becbf3268]
 ```

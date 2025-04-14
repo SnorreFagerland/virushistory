@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.digma.zip [9f8bdc96480d929ace00e8b1a0658de0ebacc2d05901d3ae3de18ba5c7370487]
+    ├── virus.msword.digma [b9690cd166f25e75a9d1ef895014e8cda7451ae44b98916827b022e0ccfd08ff]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── babydoc.doc.zip [adeca0610336d1f87ff5bce9dc0476b6c03db8a99085a7bafe63a15ad3b47284]
+    ├── babydoc.doc [b5b42491d0aa4deb717c81e2884edc92ba9840c395e5fc074dba7569a2f7e3e1]
 ```

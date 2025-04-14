@@ -3,5 +3,5 @@
 
 ```
 └── 474
-    └── virus.bat.neon.474.zip [ff1fecdf99cbc1460ba0a75b51cb58b7f3f4b056697de0a40be356ce89ce1db5]
+    ├── virus.bat.neon.474 [b36d037c527b4428443c94040a7dcfaa8b27d59b0360834a186ee31d6524ed9d]
 ```

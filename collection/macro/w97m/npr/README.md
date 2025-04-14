@@ -3,7 +3,7 @@
 
 ```
 ├── d
-│   └── trojan.msword.npr.b.zip [b2d6f8bc1bc71d11d9da61853225f7907156a0f9d89e460508d6848efa2f7d29]
+│   ├── trojan.msword.npr.b [00b72d7936dc552f9c67ddef3223b6265c295a1e489f44d9e938e7ce82a079fa]
 └── h
-    └── npr_h.do.zip [4e29c33008c42f68ad27fdba2a50559478a317cb3b4a51eb060a69fdd0b8635f]
+    ├── npr_h.do [aecc230cc08262602097b3509347d3584d8a0458ffd70fe860f43468b1775be1]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msoffice.kryptos.zip [84241894a0c323cc60225a2f003454bf68733a5f2b8b54f2329e4f30a9d23de0]
+    ├── virus.msoffice.kryptos [0e48378ab3c4d956bc09b52eb5fb62dcf97a304043183221f40b663bc51f580a]
 ```

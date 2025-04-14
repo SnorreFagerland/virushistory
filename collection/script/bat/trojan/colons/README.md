@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.collons.zip [0546b4eeb199d905fc4bcd90b546e38e0be33889cf5022d0a48425950f088bf1]
+    ├── trojan.bat.collons [55cbf39be55e3dd911f4e23080148bcf27d4165ac5fcbe1de4d35cb942bc2226]
 ```

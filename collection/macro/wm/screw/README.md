@@ -3,7 +3,7 @@
 
 ```
 └── a
-    ├── screw-a.doc.zip [18ea8a3d18ae46cbd48749b8721031775e531e698aa09be5d060d3c05d1919d8]
-    ├── screw-a.dot.zip [ee6323f26d078034c1baef013684deae893b9eb901138c1d2c7ff919f9a76d4a]
-    └── screw.doc.zip [ff0c2ef401ee3f0e75ea956061539e4d337fdeb8dcbeca5e36318c916f258b1c]
+    ├── screw-a.doc [1d03aebc2f2fefe7175d59d016848f10686df123e2d95051b4102cad6c81cc49]
+    ├── screw-a.dot [1d03aebc2f2fefe7175d59d016848f10686df123e2d95051b4102cad6c81cc49]
+    ├── screw.doc [7da275daf33524addf7f9559bad4de0424dedbacb29b7f4335af874cf8e85858]
 ```

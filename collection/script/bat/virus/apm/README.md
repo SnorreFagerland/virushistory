@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.bat.ibbm.agm.zip [bee07d1f01496d96e9f8f8d92944b9c403306d4f7b674555221d53ab86849b47]
+    ├── virus.bat.ibbm.agm [79df2b562c1637e2856f3c9140d3d92dea22ff0d5e40d4cd2989e6d4b11b6071]
 ```

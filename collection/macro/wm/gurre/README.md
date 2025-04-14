@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.gurre.zip [4ce065f9d286cfad106b0efd2d2d88ef7fb7deb2e52078c7c1fc594c92a8b179]
+    ├── virus.msword.gurre [b457654917bae6c51537c6a4301d45732c5aec9fadc5255940defb0a6be9f196]
 ```

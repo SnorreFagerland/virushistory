@@ -1,0 +1,2 @@
+@ECHO OFF
+del c:\mydocu~1\*.*

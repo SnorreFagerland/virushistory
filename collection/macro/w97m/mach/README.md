@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.mach.zip [71cd36d2f0c4c90638fac1a5dc0d89584d580c3b6fdca592cb89e65901058516]
+    ├── virus.msword.mach [606dc8115d79ef640fbb2b325d126c6b83207da94c0268b5166968c250fea446]
 ```

@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.woah.a.zip [b88f583b58743e9ee47976c70f4970f95054599b82b0bcd4bf65d82353cce6fe]
+    ├── virus.msword.woah.a [e9569c05f2b44874694e4fe06463a55eaf6d2262b27ecd8b54967e2a6300e335]
 ```

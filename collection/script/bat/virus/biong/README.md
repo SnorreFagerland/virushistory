@@ -3,6 +3,6 @@
 
 ```
 └── a
-    ├── irc-worm.bat.biongat.txt.zip [dd88ded2423b3343791647697774fa47fb793022a176685dea54b6af24fde4c4]
-    └── irc-worm.bat.biongat.zip [51a09d720b5f3c5e43e76c5d1296ba4363d343c7b4b2956e04dc71534c42e510]
+    ├── irc-worm.bat.biongat [24c0532a759042c07bc3fbe2c86eb66004eb2c90d06769bf6359c55c49990d7c]
+    ├── irc-worm.bat.biongat.txt [4141eb1cebf3fc92e90a5db69d407e579f42e68bae463353808c0dce08ef5866]
 ```

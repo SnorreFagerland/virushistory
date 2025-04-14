@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.theeraser.zip [d9a9ff3b9ec056c240059f032b2999f29ef185c28837b93dc2525af901ed5a6d]
+    ├── virus.msword.theeraser [4971752a89b434a652afb9c26df84538edfbc5ed79166a6bd1d19023aad56e05]
 ```

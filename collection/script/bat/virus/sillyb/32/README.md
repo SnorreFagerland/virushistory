@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── bat.silly.a.zip [c1f4c5eb9f1e47d2c0823e601e843cc4723dafe556a8afae2316fae8db963f27]
+│   ├── bat.silly.a [bad4bbd201e53501c3d6b1bedce0e202a05652a70f84684261e5ffc2d336bb71]
 └── b
-    └── bat.silly.b.zip [0a463f0a1507395806b97717fe2b538cf9684be9404e3b1a29e6c829c3d21e82]
+    ├── bat.silly.b [7eab0bee8236c6ba38784f3f94b935495624908f32b19b7353b5ba25aff3f0fc]
 ```

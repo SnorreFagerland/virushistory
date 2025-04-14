@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.chester.zip [c99480eabe5cb5132afc43d5d401002072fd73dbda6332bbb8047620e41ec719]
+    ├── virus.msword.chester [0f8a0fbbcacbc92cd4990ea0c0345d840dc919d03f1cd67de6918b92b50a36c1]
 ```

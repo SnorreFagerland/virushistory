@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── trojan.bat.deltreey.d.zip [d28b12a43d91c58e70c286f45f74187c2ea4579e806c6ae153c192856ca399e7]
+    ├── trojan.bat.deltreey.d [d495eea65f8bc0d7a187cc5476db38906bdd3dc856c710ae0a3ef59b477808d5]
 ```

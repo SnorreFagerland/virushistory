@@ -3,5 +3,5 @@
 
 ```
 └── a
-    └── virus.msword.dust.zip [a2704daa4711ce4634e347e1e4513d3e4fcbc36b2a6af903379c83f149f8b65d]
+    ├── virus.msword.dust [1de06807411841124f26bb77a0e8c7d0d2870ee1a3284e30b425642cd79e0d73]
 ```

