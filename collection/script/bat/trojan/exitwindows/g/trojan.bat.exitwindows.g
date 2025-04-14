@@ -1,1 +1,0 @@
-@C:\WINDOWS\rundll.exe C:\WINDOWS\system\user.exe,exitwindows

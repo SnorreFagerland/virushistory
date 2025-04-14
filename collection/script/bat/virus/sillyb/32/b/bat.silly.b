@@ -1,1 +1,0 @@
-for %%b in (*.*) do copy %%b+%0
