@@ -1,0 +1,47 @@
+Virus scanning report  -  15 April 2025 @ 21:50
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\427\de'buger.vom  Infection: Burger.427 (exact)
+u:\429\429.vxe  Infection: Funked.429
+u:\439\purest.vom  Infection: Pure.439
+u:\440\a\xyz.vom  Infection: Pure.440.A
+u:\440\b\xyr.vom  is a corrupted or intended virus
+u:\440\c\pure440.vom  Infection: Pure.440.A
+u:\440\e\unke0281.vom  Infection: Execav.440.A
+u:\441\a\pure.vom  Infection: Pure.441.A
+u:\441\b\pureplus.vom  Infection: Pure.441.B
+u:\441\c\exeh.vom  is a corrupted or intended virus
+u:\441\d\pureplus.vom  is a corrupted or intended virus
+u:\441\e\pureplus.vom  could be infected with an unknown virus
+u:\449\a\xyz-v2.vom  Infection: Pure.449
+u:\449\b\eh.vom  Infection: Pure.449
+u:\449\c\xyz-v2.vom  Infection: Pure.449
+
+Results of virus scanning:
+
+Files: 37
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 37
+Infected: 11
+Suspicious: 4
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00

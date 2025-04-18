@@ -1,0 +1,5581 @@
+00000000  E9AE03            jmp 0x3b1
+00000003  8814              mov [si],dl
+00000005  00D1              add cl,dl
+00000007  00F0              add al,dh
+00000009  003D              add [di],bh
+0000000B  4B                dec bx
+0000000C  56                push si
+0000000D  43                inc bx
+0000000E  1308              adc cx,[bx+si]
+00000010  1E                push ds
+00000011  06                push es
+00000012  49                dec cx
+00000013  07                pop es
+00000014  050001            add ax,0x100
+00000017  8813              mov [bp+di],dl
+00000019  0000              add [bx+si],al
+0000001B  00C1              add cl,al
+0000001D  AD                lodsw
+0000001E  90                nop
+0000001F  59                pop cx
+00000020  2000              and [bx+si],al
+00000022  B8F804            mov ax,0x4f8
+00000025  BABA07            mov dx,0x7ba
+00000028  0000              add [bx+si],al
+0000002A  009C1E06          add [si+0x61e],bl
+0000002E  50                push ax
+0000002F  53                push bx
+00000030  51                push cx
+00000031  52                push dx
+00000032  56                push si
+00000033  57                push di
+00000034  2E803E160100      cmp byte [cs:0x116],0x0
+0000003A  7528              jnz 0x64
+0000003C  2EC606160101      mov byte [cs:0x116],0x1
+00000042  2E3A260A01        cmp ah,[cs:0x10a]
+00000047  7429              jz 0x72
+00000049  2E3A260B01        cmp ah,[cs:0x10b]
+0000004E  7422              jz 0x72
+00000050  2E3A260C01        cmp ah,[cs:0x10c]
+00000055  741B              jz 0x72
+00000057  2E3A260D01        cmp ah,[cs:0x10d]
+0000005C  7414              jz 0x72
+0000005E  2EC606160100      mov byte [cs:0x116],0x0
+00000064  5F                pop di
+00000065  5E                pop si
+00000066  5A                pop dx
+00000067  59                pop cx
+00000068  5B                pop bx
+00000069  58                pop ax
+0000006A  07                pop es
+0000006B  1F                pop ds
+0000006C  9D                popf
+0000006D  2EFF2E0501        jmp far [cs:0x105]
+00000072  2E89161001        mov [cs:0x110],dx
+00000077  2E8C1E1201        mov [cs:0x112],ds
+0000007C  E8E202            call 0x361
+0000007F  2EC53E1001        lds di,[cs:0x110]
+00000084  1E                push ds
+00000085  07                pop es
+00000086  FC                cld
+00000087  B000              mov al,0x0
+00000089  B9FFFF            mov cx,0xffff
+0000008C  F2AE              repne scasb
+0000008E  F7D9              neg cx
+00000090  83E902            sub cx,byte +0x2
+00000093  8BD9              mov bx,cx
+00000095  B02E              mov al,0x2e
+00000097  FD                std
+00000098  4F                dec di
+00000099  4F                dec di
+0000009A  F2AE              repne scasb
+0000009C  740C              jz 0xaa
+0000009E  E95602            jmp 0x2f7
+000000A1  1915              sbb [di],dx
+000000A3  17                pop ss
+000000A4  1F                pop ds
+000000A5  021F              add bl,[bx]
+000000A7  E9CA00            jmp 0x174
+000000AA  83C702            add di,byte +0x2
+000000AD  FC                cld
+000000AE  0E                push cs
+000000AF  07                pop es
+000000B0  8BF7              mov si,di
+000000B2  BFA101            mov di,0x1a1
+000000B5  E89102            call 0x349
+000000B8  730B              jnc 0xc5
+000000BA  BFA401            mov di,0x1a4
+000000BD  E88902            call 0x349
+000000C0  73E5              jnc 0xa7
+000000C2  E99200            jmp 0x157
+000000C5  2EC606090100      mov byte [cs:0x109],0x0
+000000CB  E82C02            call 0x2fa
+000000CE  720C              jc 0xdc
+000000D0  B43F              mov ah,0x3f
+000000D2  B9C505            mov cx,0x5c5
+000000D5  0E                push cs
+000000D6  1F                pop ds
+000000D7  BAC406            mov dx,0x6c4
+000000DA  CD21              int 0x21
+000000DC  7226              jc 0x104
+000000DE  813EC4064D5A      cmp word [0x6c4],0x5a4d
+000000E4  7503              jnz 0xe9
+000000E6  E98E00            jmp 0x177
+000000E9  813EC4065A4D      cmp word [0x6c4],0x4d5a
+000000EF  74F5              jz 0xe6
+000000F1  0E                push cs
+000000F2  07                pop es
+000000F3  E86F00            call 0x165
+000000F6  2EA31701          mov [cs:0x117],ax
+000000FA  3DC505            cmp ax,0x5c5
+000000FD  72DD              jc 0xdc
+000000FF  3D18F6            cmp ax,0xf618
+00000102  7203              jc 0x107
+00000104  E9F001            jmp 0x2f7
+00000107  050001            add ax,0x100
+0000010A  2EA30301          mov [cs:0x103],ax
+0000010E  BEF906            mov si,0x6f9
+00000111  BF3501            mov di,0x135
+00000114  B93200            mov cx,0x32
+00000117  F3A6              repe cmpsb
+00000119  7410              jz 0x12b
+0000011B  B440              mov ah,0x40
+0000011D  BAC406            mov dx,0x6c4
+00000120  B9C505            mov cx,0x5c5
+00000123  CD21              int 0x21
+00000125  E84700            call 0x16f
+00000128  E82F00            call 0x15a
+0000012B  B80242            mov ax,0x4202
+0000012E  B90000            mov cx,0x0
+00000131  8BD1              mov dx,cx
+00000133  CD21              int 0x21
+00000135  2E8B0E1C01        mov cx,[cs:0x11c]
+0000013A  2E8B161E01        mov dx,[cs:0x11e]
+0000013F  B80157            mov ax,0x5701
+00000142  CD21              int 0x21
+00000144  B43E              mov ah,0x3e
+00000146  CD21              int 0x21
+00000148  2EC5161001        lds dx,[cs:0x110]
+0000014D  B80143            mov ax,0x4301
+00000150  2E8B0E2001        mov cx,[cs:0x120]
+00000155  CD21              int 0x21
+00000157  E904FF            jmp 0x5e
+0000015A  B440              mov ah,0x40
+0000015C  BA0001            mov dx,0x100
+0000015F  B9C405            mov cx,0x5c4
+00000162  CD21              int 0x21
+00000164  C3                ret
+00000165  B80242            mov ax,0x4202
+00000168  33C9              xor cx,cx
+0000016A  8BD1              mov dx,cx
+0000016C  CD21              int 0x21
+0000016E  C3                ret
+0000016F  B80042            mov ax,0x4200
+00000172  EBF4              jmp short 0x168
+00000174  E88301            call 0x2fa
+00000177  E8F5FF            call 0x16f
+0000017A  B43F              mov ah,0x3f
+0000017C  2E8B1E1401        mov bx,[cs:0x114]
+00000181  0E                push cs
+00000182  1F                pop ds
+00000183  BAC406            mov dx,0x6c4
+00000186  B92000            mov cx,0x20
+00000189  CD21              int 0x21
+0000018B  72A8              jc 0x135
+0000018D  813EC4065A4D      cmp word [0x6c4],0x4d5a
+00000193  74A0              jz 0x135
+00000195  E8CDFF            call 0x165
+00000198  A31701            mov [0x117],ax
+0000019B  89161901          mov [0x119],dx
+0000019F  A1C806            mov ax,[0x6c8]
+000001A2  48                dec ax
+000001A3  BA0002            mov dx,0x200
+000001A6  F7E2              mul dx
+000001A8  0306C606          add ax,[0x6c6]
+000001AC  83D200            adc dx,byte +0x0
+000001AF  2B061701          sub ax,[0x117]
+000001B3  1B161901          sbb dx,[0x119]
+000001B7  740A              jz 0x1c3
+000001B9  83FAFF            cmp dx,byte -0x1
+000001BC  7403              jz 0x1c1
+000001BE  E974FF            jmp 0x135
+000001C1  F7D8              neg ax
+000001C3  3DFF01            cmp ax,0x1ff
+000001C6  77F6              ja 0x1be
+000001C8  833ECA0600        cmp word [0x6ca],byte +0x0
+000001CD  C606090101        mov byte [0x109],0x1
+000001D2  7504              jnz 0x1d8
+000001D4  FE060901          inc byte [0x109]
+000001D8  A11701            mov ax,[0x117]
+000001DB  8B161901          mov dx,[0x119]
+000001DF  BB1000            mov bx,0x10
+000001E2  F7F3              div bx
+000001E4  88161B01          mov [0x11b],dl
+000001E8  8ACA              mov cl,dl
+000001EA  32ED              xor ch,ch
+000001EC  E312              jcxz 0x200
+000001EE  B440              mov ah,0x40
+000001F0  8B1E1401          mov bx,[0x114]
+000001F4  51                push cx
+000001F5  BA6106            mov dx,0x661
+000001F8  CD21              int 0x21
+000001FA  59                pop cx
+000001FB  72C1              jc 0x1be
+000001FD  E977FF            jmp 0x177
+00000200  8BC8              mov cx,ax
+00000202  8B1E1401          mov bx,[0x114]
+00000206  F606090101        test byte [0x109],0x1
+0000020B  7522              jnz 0x22f
+0000020D  A1D806            mov ax,[0x6d8]
+00000210  A32201            mov [0x122],ax
+00000213  A1DA06            mov ax,[0x6da]
+00000216  A32401            mov [0x124],ax
+00000219  2B0ECC06          sub cx,[0x6cc]
+0000021D  83E910            sub cx,byte +0x10
+00000220  729C              jc 0x1be
+00000222  890EDA06          mov [0x6da],cx
+00000226  C706D8060001      mov word [0x6d8],0x100
+0000022C  E99400            jmp 0x2c3
+0000022F  A1DA06            mov ax,[0x6da]
+00000232  0306CC06          add ax,[0x6cc]
+00000236  8BE9              mov bp,cx
+00000238  B91000            mov cx,0x10
+0000023B  F7E1              mul cx
+0000023D  0306D806          add ax,[0x6d8]
+00000241  83D200            adc dx,byte +0x0
+00000244  83E20F            and dx,byte +0xf
+00000247  8BC8              mov cx,ax
+00000249  87D1              xchg dx,cx
+0000024B  B80042            mov ax,0x4200
+0000024E  51                push cx
+0000024F  52                push dx
+00000250  CD21              int 0x21
+00000252  BA2201            mov dx,0x122
+00000255  B43F              mov ah,0x3f
+00000257  B90500            mov cx,0x5
+0000025A  CD21              int 0x21
+0000025C  5A                pop dx
+0000025D  59                pop cx
+0000025E  72C0              jc 0x220
+00000260  B80013            mov ax,0x1300
+00000263  48                dec ax
+00000264  EC                in al,dx
+00000265  0038              add [bx+si],bh
+00000267  0013              add [bp+di],dl
+00000269  0801              or [bx+di],al
+0000026B  002C              add [si],ch
+0000026D  011C              add [si],bx
+0000026F  09CD              or bp,cx
+00000271  0A13              or dl,[bp+di]
+00000273  0818              or [bx+si],bl
+00000275  06                push es
+00000276  CD0A              int 0xa
+00000278  027218            add dh,[bp+si+0x18]
+0000027B  050501            add ax,0x105
+0000027E  1308              adc cx,[bx+si]
+00000280  D7                xlatb
+00000281  B440              mov ah,0x40
+00000283  CD21              int 0x21
+00000285  72D7              jc 0x25e
+00000287  8B16DC06          mov dx,[0x6dc]
+0000028B  33C9              xor cx,cx
+0000028D  B80042            mov ax,0x4200
+00000290  51                push cx
+00000291  52                push dx
+00000292  CD21              int 0x21
+00000294  B90400            mov cx,0x4
+00000297  BA2701            mov dx,0x127
+0000029A  B43F              mov ah,0x3f
+0000029C  CD21              int 0x21
+0000029E  5A                pop dx
+0000029F  59                pop cx
+000002A0  72BC              jc 0x25e
+000002A2  B80042            mov ax,0x4200
+000002A5  CD21              int 0x21
+000002A7  BF0407            mov di,0x704
+000002AA  A1D806            mov ax,[0x6d8]
+000002AD  050300            add ax,0x3
+000002B0  8905              mov [di],ax
+000002B2  A1DA06            mov ax,[0x6da]
+000002B5  894502            mov [di+0x2],ax
+000002B8  B90400            mov cx,0x4
+000002BB  8BD7              mov dx,di
+000002BD  B440              mov ah,0x40
+000002BF  CD21              int 0x21
+000002C1  72DD              jc 0x2a0
+000002C3  E89FFE            call 0x165
+000002C6  A1C806            mov ax,[0x6c8]
+000002C9  A30301            mov [0x103],ax
+000002CC  E88BFE            call 0x15a
+000002CF  7223              jc 0x2f4
+000002D1  C706C4065A4D      mov word [0x6c4],0x4d5a
+000002D7  E88BFE            call 0x165
+000002DA  B90002            mov cx,0x200
+000002DD  F7F1              div cx
+000002DF  40                inc ax
+000002E0  A3C806            mov [0x6c8],ax
+000002E3  8916C606          mov [0x6c6],dx
+000002E7  E885FE            call 0x16f
+000002EA  BAC406            mov dx,0x6c4
+000002ED  B91C00            mov cx,0x1c
+000002F0  B440              mov ah,0x40
+000002F2  CD21              int 0x21
+000002F4  E934FE            jmp 0x12b
+000002F7  E95DFE            jmp 0x157
+000002FA  2EC5161001        lds dx,[cs:0x110]
+000002FF  52                push dx
+00000300  B80043            mov ax,0x4300
+00000303  CD21              int 0x21
+00000305  7240              jc 0x347
+00000307  2E890E2001        mov [cs:0x120],cx
+0000030C  5A                pop dx
+0000030D  52                push dx
+0000030E  B8003D            mov ax,0x3d00
+00000311  CD21              int 0x21
+00000313  7232              jc 0x347
+00000315  8BD8              mov bx,ax
+00000317  B80057            mov ax,0x5700
+0000031A  CD21              int 0x21
+0000031C  7229              jc 0x347
+0000031E  2E890E1C01        mov [cs:0x11c],cx
+00000323  2E89161E01        mov [cs:0x11e],dx
+00000328  B43E              mov ah,0x3e
+0000032A  CD21              int 0x21
+0000032C  7219              jc 0x347
+0000032E  5A                pop dx
+0000032F  52                push dx
+00000330  B90000            mov cx,0x0
+00000333  B80143            mov ax,0x4301
+00000336  CD21              int 0x21
+00000338  720D              jc 0x347
+0000033A  5A                pop dx
+0000033B  B8023D            mov ax,0x3d02
+0000033E  CD21              int 0x21
+00000340  2EA31401          mov [cs:0x114],ax
+00000344  8BD8              mov bx,ax
+00000346  C3                ret
+00000347  5A                pop dx
+00000348  C3                ret
+00000349  56                push si
+0000034A  B90300            mov cx,0x3
+0000034D  AC                lodsb
+0000034E  3C60              cmp al,0x60
+00000350  7202              jc 0x354
+00000352  24DF              and al,0xdf
+00000354  345A              xor al,0x5a
+00000356  AE                scasb
+00000357  7505              jnz 0x35e
+00000359  E2F2              loop 0x34d
+0000035B  F8                clc
+0000035C  5E                pop si
+0000035D  C3                ret
+0000035E  F9                stc
+0000035F  5E                pop si
+00000360  C3                ret
+00000361  1E                push ds
+00000362  2EC43E1001        les di,[cs:0x110]
+00000367  0E                push cs
+00000368  1F                pop ds
+00000369  8BDF              mov bx,di
+0000036B  BE7806            mov si,0x678
+0000036E  8BFB              mov di,bx
+00000370  AC                lodsb
+00000371  3415              xor al,0x15
+00000373  3C2C              cmp al,0x2c
+00000375  7424              jz 0x39b
+00000377  268A25            mov ah,[es:di]
+0000037A  47                inc di
+0000037B  80FC60            cmp ah,0x60
+0000037E  7203              jc 0x383
+00000380  80E4DF            and ah,0xdf
+00000383  3AE0              cmp ah,al
+00000385  74E9              jz 0x370
+00000387  AC                lodsb
+00000388  3C39              cmp al,0x39
+0000038A  75FB              jnz 0x387
+0000038C  803CFF            cmp byte [si],0xff
+0000038F  75DD              jnz 0x36e
+00000391  43                inc bx
+00000392  26807F0200        cmp byte [es:bx+0x2],0x0
+00000397  75D2              jnz 0x36b
+00000399  1F                pop ds
+0000039A  C3                ret
+0000039B  C5161001          lds dx,[0x110]
+0000039F  B80143            mov ax,0x4301
+000003A2  B90000            mov cx,0x0
+000003A5  52                push dx
+000003A6  CD21              int 0x21
+000003A8  5A                pop dx
+000003A9  72EE              jc 0x399
+000003AB  B441              mov ah,0x41
+000003AD  CD21              int 0x21
+000003AF  EBE8              jmp short 0x399
+000003B1  2E8C1E0E01        mov [cs:0x10e],ds
+000003B6  2EC606160100      mov byte [cs:0x116],0x0
+000003BC  B80000            mov ax,0x0
+000003BF  8EC0              mov es,ax
+000003C1  26C5361005        lds si,[es:0x510]
+000003C6  0E                push cs
+000003C7  07                pop es
+000003C8  BF2B01            mov di,0x12b
+000003CB  B96401            mov cx,0x164
+000003CE  81E92B01          sub cx,0x12b
+000003D2  F3A6              repe cmpsb
+000003D4  7506              jnz 0x3dc
+000003D6  1E                push ds
+000003D7  0E                push cs
+000003D8  1F                pop ds
+000003D9  E9EE00            jmp 0x4ca
+000003DC  0E                push cs
+000003DD  1F                pop ds
+000003DE  8E060E01          mov es,[0x10e]
+000003E2  E82001            call 0x505
+000003E5  7331              jnc 0x418
+000003E7  803E090100        cmp byte [0x109],0x0
+000003EC  7413              jz 0x401
+000003EE  06                push es
+000003EF  8CC0              mov ax,es
+000003F1  48                dec ax
+000003F2  8EC0              mov es,ax
+000003F4  268B1E0300        mov bx,[es:0x3]
+000003F9  07                pop es
+000003FA  81EB0002          sub bx,0x200
+000003FE  EB11              jmp short 0x411
+00000400  90                nop
+00000401  8B1E0301          mov bx,[0x103]
+00000405  81C3C405          add bx,0x5c4
+00000409  B104              mov cl,0x4
+0000040B  D3EB              shr bx,cl
+0000040D  81C30004          add bx,0x400
+00000411  B44A              mov ah,0x4a
+00000413  CD21              int 0x21
+00000415  E8ED00            call 0x505
+00000418  8EC0              mov es,ax
+0000041A  803E090100        cmp byte [0x109],0x0
+0000041F  750B              jnz 0x42c
+00000421  A10301            mov ax,[0x103]
+00000424  05C406            add ax,0x6c4
+00000427  050004            add ax,0x400
+0000042A  8BE0              mov sp,ax
+0000042C  BF0000            mov di,0x0
+0000042F  BE0000            mov si,0x0
+00000432  B9C506            mov cx,0x6c5
+00000435  F3A4              rep movsb
+00000437  8CC0              mov ax,es
+00000439  40                inc ax
+0000043A  A35A06            mov [0x65a],ax
+0000043D  4B                dec bx
+0000043E  891E5C06          mov [0x65c],bx
+00000442  BE5906            mov si,0x659
+00000445  BF0000            mov di,0x0
+00000448  B91000            mov cx,0x10
+0000044B  F3A4              rep movsb
+0000044D  BF8400            mov di,0x84
+00000450  B80000            mov ax,0x0
+00000453  8ED8              mov ds,ax
+00000455  FA                cli
+00000456  8B05              mov ax,[di]
+00000458  26A30501          mov [es:0x105],ax
+0000045C  8B4502            mov ax,[di+0x2]
+0000045F  26A30701          mov [es:0x107],ax
+00000463  C7052B01          mov word [di],0x12b
+00000467  8C4502            mov [di+0x2],es
+0000046A  C70610052B01      mov word [0x510],0x12b
+00000470  8C061205          mov [0x512],es
+00000474  26C606160100      mov byte [es:0x116],0x0
+0000047A  FB                sti
+0000047B  0E                push cs
+0000047C  1F                pop ds
+0000047D  06                push es
+0000047E  8CC3              mov bx,es
+00000480  8CC0              mov ax,es
+00000482  48                dec ax
+00000483  8EC0              mov es,ax
+00000485  BF0500            mov di,0x5
+00000488  BE4E06            mov si,0x64e
+0000048B  B90B00            mov cx,0xb
+0000048E  F3A4              rep movsb
+00000490  26C70601000800    mov word [es:0x1],0x8
+00000497  B80000            mov ax,0x0
+0000049A  8EC0              mov es,ax
+0000049C  26803E750400      cmp byte [es:0x475],0x0
+000004A2  7426              jz 0x4ca
+000004A4  BF1405            mov di,0x514
+000004A7  8BD7              mov dx,di
+000004A9  BE6906            mov si,0x669
+000004AC  AC                lodsb
+000004AD  3CFF              cmp al,0xff
+000004AF  7405              jz 0x4b6
+000004B1  341A              xor al,0x1a
+000004B3  AA                stosb
+000004B4  EBF6              jmp short 0x4ac
+000004B6  F6D0              not al
+000004B8  AA                stosb
+000004B9  1E                push ds
+000004BA  06                push es
+000004BB  1F                pop ds
+000004BC  B8003D            mov ax,0x3d00
+000004BF  CD21              int 0x21
+000004C1  7206              jc 0x4c9
+000004C3  8BD8              mov bx,ax
+000004C5  B43E              mov ah,0x3e
+000004C7  CD21              int 0x21
+000004C9  1F                pop ds
+000004CA  2E803E090101      cmp byte [cs:0x109],0x1
+000004D0  742E              jz 0x500
+000004D2  2E803E090102      cmp byte [cs:0x109],0x2
+000004D8  7410              jz 0x4ea
+000004DA  B9C405            mov cx,0x5c4
+000004DD  2E8B360301        mov si,[cs:0x103]
+000004E2  BF0001            mov di,0x100
+000004E5  B84406            mov ax,0x644
+000004E8  50                push ax
+000004E9  CB                retf
+000004EA  58                pop ax
+000004EB  8E1E0E01          mov ds,[0x10e]
+000004EF  1E                push ds
+000004F0  07                pop es
+000004F1  8CD8              mov ax,ds
+000004F3  051000            add ax,0x10
+000004F6  2E01062401        add [cs:0x124],ax
+000004FB  2EFF2E2201        jmp far [cs:0x122]
+00000500  B81906            mov ax,0x619
+00000503  50                push ax
+00000504  CB                retf
+00000505  BBC406            mov bx,0x6c4
+00000508  D1EB              shr bx,1
+0000050A  D1EB              shr bx,1
+0000050C  D1EB              shr bx,1
+0000050E  D1EB              shr bx,1
+00000510  81C38000          add bx,0x80
+00000514  B448              mov ah,0x48
+00000516  CD21              int 0x21
+00000518  C3                ret
+00000519  5F                pop di
+0000051A  07                pop es
+0000051B  83EF05            sub di,byte +0x5
+0000051E  06                push es
+0000051F  57                push di
+00000520  BE2201            mov si,0x122
+00000523  B90500            mov cx,0x5
+00000526  F3A4              rep movsb
+00000528  8B1E2701          mov bx,[0x127]
+0000052C  A12901            mov ax,[0x129]
+0000052F  8B0E0E01          mov cx,[0x10e]
+00000533  83C110            add cx,byte +0x10
+00000536  03C1              add ax,cx
+00000538  8EC0              mov es,ax
+0000053A  26010F            add [es:bx],cx
+0000053D  8E1E0E01          mov ds,[0x10e]
+00000541  1E                push ds
+00000542  07                pop es
+00000543  CB                retf
+00000544  1E                push ds
+00000545  07                pop es
+00000546  F3A4              rep movsb
+00000548  06                push es
+00000549  B80001            mov ax,0x100
+0000054C  50                push ax
+0000054D  CB                retf
+0000054E  C4                db 0xc4
+0000054F  C4                db 0xc4
+00000550  C400              les ax,[bx+si]
+00000552  0000              add [bx+si],al
+00000554  0000              add [bx+si],al
+00000556  0000              add [bx+si],al
+00000558  004400            add [si+0x0],al
+0000055B  0000              add [bx+si],al
+0000055D  0000              add [bx+si],al
+0000055F  0000              add [bx+si],al
+00000561  50                push ax
+00000562  44                inc sp
+00000563  50                push ax
+00000564  3131              xor [bx+di],si
+00000566  2020              and [bx+si],ah
+00000568  205920            and [bx+di+0x20],bl
+0000056B  46                inc si
+0000056C  59                pop cx
+0000056D  55                push bp
+0000056E  57                push di
+0000056F  57                push di
+00000570  5B                pop bx
+00000571  54                push sp
+00000572  5E                pop si
+00000573  3459              xor al,0x59
+00000575  55                push bp
+00000576  57                push di
+00000577  FF545C            call [si+0x5c]
+0000057A  51                push cx
+0000057B  39435C            cmp [bp+di+0x5c],ax
+0000057E  47                inc di
+0000057F  39515C            cmp [bx+di+0x5c],dx
+00000582  5B                pop bx
+00000583  53                push bx
+00000584  39565D            cmp [bp+0x5d],dx
+00000587  5E                pop si
+00000588  394150            cmp [bx+di+0x50],ax
+0000058B  46                inc si
+0000058C  41                inc cx
+0000058D  395440            cmp [si+0x40],dx
+00000590  47                inc di
+00000591  394554            cmp [di+0x54],ax
+00000594  43                inc bx
+00000595  395B54            cmp [bp+di+0x54],bx
+00000598  43                inc bx
+00000599  3938              cmp [bx+si],di
+0000059B  43                inc bx
+0000059C  394650            cmp [bp+0x50],ax
+0000059F  5B                pop bx
+000005A0  41                inc cx
+000005A1  395446            cmp [si+0x46],dx
+000005A4  58                pop ax
+000005A5  394656            cmp [bp+0x56],ax
+000005A8  54                push sp
+000005A9  5B                pop bx
+000005AA  395950            cmp [bx+di+0x50],bx
+000005AD  54                push sp
+000005AE  5B                pop bx
+000005AF  39545B            cmp [si+0x5b],dx
+000005B2  41                inc cx
+000005B3  394654            cmp [bp+0x54],ax
+000005B6  53                push bx
+000005B7  50                push ax
+000005B8  39575A            cmp [bx+0x5a],dx
+000005BB  5A                pop dx
+000005BC  41                inc cx
+000005BD  394641            cmp [bp+0x41],ax
+000005C0  47                inc di
+000005C1  54                push sp
+000005C2  39FF              cmp di,di
+000005C4  90                nop
+000005C5  90                nop
+000005C6  90                nop
+000005C7  90                nop
+000005C8  90                nop
+000005C9  90                nop
+000005CA  90                nop
+000005CB  90                nop
+000005CC  90                nop
+000005CD  90                nop
+000005CE  90                nop
+000005CF  90                nop
+000005D0  90                nop
+000005D1  90                nop
+000005D2  90                nop
+000005D3  90                nop
+000005D4  90                nop
+000005D5  90                nop
+000005D6  90                nop
+000005D7  90                nop
+000005D8  90                nop
+000005D9  90                nop
+000005DA  90                nop
+000005DB  90                nop
+000005DC  90                nop
+000005DD  90                nop
+000005DE  90                nop
+000005DF  90                nop
+000005E0  90                nop
+000005E1  90                nop
+000005E2  90                nop
+000005E3  90                nop
+000005E4  90                nop
+000005E5  90                nop
+000005E6  90                nop
+000005E7  90                nop
+000005E8  90                nop
+000005E9  90                nop
+000005EA  90                nop
+000005EB  90                nop
+000005EC  90                nop
+000005ED  90                nop
+000005EE  90                nop
+000005EF  90                nop
+000005F0  90                nop
+000005F1  90                nop
+000005F2  90                nop
+000005F3  90                nop
+000005F4  90                nop
+000005F5  90                nop
+000005F6  90                nop
+000005F7  90                nop
+000005F8  90                nop
+000005F9  90                nop
+000005FA  90                nop
+000005FB  90                nop
+000005FC  90                nop
+000005FD  90                nop
+000005FE  90                nop
+000005FF  90                nop
+00000600  90                nop
+00000601  90                nop
+00000602  90                nop
+00000603  90                nop
+00000604  90                nop
+00000605  90                nop
+00000606  90                nop
+00000607  90                nop
+00000608  90                nop
+00000609  90                nop
+0000060A  90                nop
+0000060B  90                nop
+0000060C  90                nop
+0000060D  90                nop
+0000060E  90                nop
+0000060F  90                nop
+00000610  90                nop
+00000611  90                nop
+00000612  90                nop
+00000613  90                nop
+00000614  90                nop
+00000615  90                nop
+00000616  90                nop
+00000617  90                nop
+00000618  90                nop
+00000619  90                nop
+0000061A  90                nop
+0000061B  90                nop
+0000061C  90                nop
+0000061D  90                nop
+0000061E  90                nop
+0000061F  90                nop
+00000620  90                nop
+00000621  90                nop
+00000622  90                nop
+00000623  90                nop
+00000624  90                nop
+00000625  90                nop
+00000626  90                nop
+00000627  90                nop
+00000628  90                nop
+00000629  90                nop
+0000062A  90                nop
+0000062B  90                nop
+0000062C  90                nop
+0000062D  90                nop
+0000062E  90                nop
+0000062F  90                nop
+00000630  90                nop
+00000631  90                nop
+00000632  90                nop
+00000633  90                nop
+00000634  90                nop
+00000635  90                nop
+00000636  90                nop
+00000637  90                nop
+00000638  90                nop
+00000639  90                nop
+0000063A  90                nop
+0000063B  90                nop
+0000063C  90                nop
+0000063D  90                nop
+0000063E  90                nop
+0000063F  90                nop
+00000640  90                nop
+00000641  90                nop
+00000642  90                nop
+00000643  90                nop
+00000644  90                nop
+00000645  90                nop
+00000646  90                nop
+00000647  90                nop
+00000648  90                nop
+00000649  90                nop
+0000064A  90                nop
+0000064B  90                nop
+0000064C  90                nop
+0000064D  90                nop
+0000064E  90                nop
+0000064F  90                nop
+00000650  90                nop
+00000651  90                nop
+00000652  90                nop
+00000653  90                nop
+00000654  90                nop
+00000655  90                nop
+00000656  90                nop
+00000657  90                nop
+00000658  90                nop
+00000659  90                nop
+0000065A  90                nop
+0000065B  90                nop
+0000065C  90                nop
+0000065D  90                nop
+0000065E  90                nop
+0000065F  90                nop
+00000660  90                nop
+00000661  90                nop
+00000662  90                nop
+00000663  90                nop
+00000664  90                nop
+00000665  90                nop
+00000666  90                nop
+00000667  90                nop
+00000668  90                nop
+00000669  90                nop
+0000066A  90                nop
+0000066B  90                nop
+0000066C  90                nop
+0000066D  90                nop
+0000066E  90                nop
+0000066F  90                nop
+00000670  90                nop
+00000671  90                nop
+00000672  90                nop
+00000673  90                nop
+00000674  90                nop
+00000675  90                nop
+00000676  90                nop
+00000677  90                nop
+00000678  90                nop
+00000679  90                nop
+0000067A  90                nop
+0000067B  90                nop
+0000067C  90                nop
+0000067D  90                nop
+0000067E  90                nop
+0000067F  90                nop
+00000680  90                nop
+00000681  90                nop
+00000682  90                nop
+00000683  90                nop
+00000684  90                nop
+00000685  90                nop
+00000686  90                nop
+00000687  90                nop
+00000688  90                nop
+00000689  90                nop
+0000068A  90                nop
+0000068B  90                nop
+0000068C  90                nop
+0000068D  90                nop
+0000068E  90                nop
+0000068F  90                nop
+00000690  90                nop
+00000691  90                nop
+00000692  90                nop
+00000693  90                nop
+00000694  90                nop
+00000695  90                nop
+00000696  90                nop
+00000697  90                nop
+00000698  90                nop
+00000699  90                nop
+0000069A  90                nop
+0000069B  90                nop
+0000069C  90                nop
+0000069D  90                nop
+0000069E  90                nop
+0000069F  90                nop
+000006A0  90                nop
+000006A1  90                nop
+000006A2  90                nop
+000006A3  90                nop
+000006A4  90                nop
+000006A5  90                nop
+000006A6  90                nop
+000006A7  90                nop
+000006A8  90                nop
+000006A9  90                nop
+000006AA  90                nop
+000006AB  90                nop
+000006AC  90                nop
+000006AD  90                nop
+000006AE  90                nop
+000006AF  90                nop
+000006B0  90                nop
+000006B1  90                nop
+000006B2  90                nop
+000006B3  90                nop
+000006B4  90                nop
+000006B5  90                nop
+000006B6  90                nop
+000006B7  90                nop
+000006B8  90                nop
+000006B9  90                nop
+000006BA  90                nop
+000006BB  90                nop
+000006BC  90                nop
+000006BD  90                nop
+000006BE  90                nop
+000006BF  90                nop
+000006C0  90                nop
+000006C1  90                nop
+000006C2  90                nop
+000006C3  90                nop
+000006C4  90                nop
+000006C5  90                nop
+000006C6  90                nop
+000006C7  90                nop
+000006C8  90                nop
+000006C9  90                nop
+000006CA  90                nop
+000006CB  90                nop
+000006CC  90                nop
+000006CD  90                nop
+000006CE  90                nop
+000006CF  90                nop
+000006D0  90                nop
+000006D1  90                nop
+000006D2  90                nop
+000006D3  90                nop
+000006D4  90                nop
+000006D5  90                nop
+000006D6  90                nop
+000006D7  90                nop
+000006D8  90                nop
+000006D9  90                nop
+000006DA  90                nop
+000006DB  90                nop
+000006DC  90                nop
+000006DD  90                nop
+000006DE  90                nop
+000006DF  90                nop
+000006E0  90                nop
+000006E1  90                nop
+000006E2  90                nop
+000006E3  90                nop
+000006E4  90                nop
+000006E5  90                nop
+000006E6  90                nop
+000006E7  90                nop
+000006E8  90                nop
+000006E9  90                nop
+000006EA  90                nop
+000006EB  90                nop
+000006EC  90                nop
+000006ED  90                nop
+000006EE  90                nop
+000006EF  90                nop
+000006F0  90                nop
+000006F1  90                nop
+000006F2  90                nop
+000006F3  90                nop
+000006F4  90                nop
+000006F5  90                nop
+000006F6  90                nop
+000006F7  90                nop
+000006F8  90                nop
+000006F9  90                nop
+000006FA  90                nop
+000006FB  90                nop
+000006FC  90                nop
+000006FD  90                nop
+000006FE  90                nop
+000006FF  90                nop
+00000700  90                nop
+00000701  90                nop
+00000702  90                nop
+00000703  90                nop
+00000704  90                nop
+00000705  90                nop
+00000706  90                nop
+00000707  90                nop
+00000708  90                nop
+00000709  90                nop
+0000070A  90                nop
+0000070B  90                nop
+0000070C  90                nop
+0000070D  90                nop
+0000070E  90                nop
+0000070F  90                nop
+00000710  90                nop
+00000711  90                nop
+00000712  90                nop
+00000713  90                nop
+00000714  90                nop
+00000715  90                nop
+00000716  90                nop
+00000717  90                nop
+00000718  90                nop
+00000719  90                nop
+0000071A  90                nop
+0000071B  90                nop
+0000071C  90                nop
+0000071D  90                nop
+0000071E  90                nop
+0000071F  90                nop
+00000720  90                nop
+00000721  90                nop
+00000722  90                nop
+00000723  90                nop
+00000724  90                nop
+00000725  90                nop
+00000726  90                nop
+00000727  90                nop
+00000728  90                nop
+00000729  90                nop
+0000072A  90                nop
+0000072B  90                nop
+0000072C  90                nop
+0000072D  90                nop
+0000072E  90                nop
+0000072F  90                nop
+00000730  90                nop
+00000731  90                nop
+00000732  90                nop
+00000733  90                nop
+00000734  90                nop
+00000735  90                nop
+00000736  90                nop
+00000737  90                nop
+00000738  90                nop
+00000739  90                nop
+0000073A  90                nop
+0000073B  90                nop
+0000073C  90                nop
+0000073D  90                nop
+0000073E  90                nop
+0000073F  90                nop
+00000740  90                nop
+00000741  90                nop
+00000742  90                nop
+00000743  90                nop
+00000744  90                nop
+00000745  90                nop
+00000746  90                nop
+00000747  90                nop
+00000748  90                nop
+00000749  90                nop
+0000074A  90                nop
+0000074B  90                nop
+0000074C  90                nop
+0000074D  90                nop
+0000074E  90                nop
+0000074F  90                nop
+00000750  90                nop
+00000751  90                nop
+00000752  90                nop
+00000753  90                nop
+00000754  90                nop
+00000755  90                nop
+00000756  90                nop
+00000757  90                nop
+00000758  90                nop
+00000759  90                nop
+0000075A  90                nop
+0000075B  90                nop
+0000075C  90                nop
+0000075D  90                nop
+0000075E  90                nop
+0000075F  90                nop
+00000760  90                nop
+00000761  90                nop
+00000762  90                nop
+00000763  90                nop
+00000764  90                nop
+00000765  90                nop
+00000766  90                nop
+00000767  90                nop
+00000768  90                nop
+00000769  90                nop
+0000076A  90                nop
+0000076B  90                nop
+0000076C  90                nop
+0000076D  90                nop
+0000076E  90                nop
+0000076F  90                nop
+00000770  90                nop
+00000771  90                nop
+00000772  90                nop
+00000773  90                nop
+00000774  90                nop
+00000775  90                nop
+00000776  90                nop
+00000777  90                nop
+00000778  90                nop
+00000779  90                nop
+0000077A  90                nop
+0000077B  90                nop
+0000077C  90                nop
+0000077D  90                nop
+0000077E  90                nop
+0000077F  90                nop
+00000780  90                nop
+00000781  90                nop
+00000782  90                nop
+00000783  90                nop
+00000784  90                nop
+00000785  90                nop
+00000786  90                nop
+00000787  90                nop
+00000788  90                nop
+00000789  90                nop
+0000078A  90                nop
+0000078B  90                nop
+0000078C  90                nop
+0000078D  90                nop
+0000078E  90                nop
+0000078F  90                nop
+00000790  90                nop
+00000791  90                nop
+00000792  90                nop
+00000793  90                nop
+00000794  90                nop
+00000795  90                nop
+00000796  90                nop
+00000797  90                nop
+00000798  90                nop
+00000799  90                nop
+0000079A  90                nop
+0000079B  90                nop
+0000079C  90                nop
+0000079D  90                nop
+0000079E  90                nop
+0000079F  90                nop
+000007A0  90                nop
+000007A1  90                nop
+000007A2  90                nop
+000007A3  90                nop
+000007A4  90                nop
+000007A5  90                nop
+000007A6  90                nop
+000007A7  90                nop
+000007A8  90                nop
+000007A9  90                nop
+000007AA  90                nop
+000007AB  90                nop
+000007AC  90                nop
+000007AD  90                nop
+000007AE  90                nop
+000007AF  90                nop
+000007B0  90                nop
+000007B1  90                nop
+000007B2  90                nop
+000007B3  90                nop
+000007B4  90                nop
+000007B5  90                nop
+000007B6  90                nop
+000007B7  90                nop
+000007B8  90                nop
+000007B9  90                nop
+000007BA  90                nop
+000007BB  90                nop
+000007BC  90                nop
+000007BD  90                nop
+000007BE  90                nop
+000007BF  90                nop
+000007C0  90                nop
+000007C1  90                nop
+000007C2  90                nop
+000007C3  90                nop
+000007C4  90                nop
+000007C5  90                nop
+000007C6  90                nop
+000007C7  90                nop
+000007C8  90                nop
+000007C9  90                nop
+000007CA  90                nop
+000007CB  90                nop
+000007CC  90                nop
+000007CD  90                nop
+000007CE  90                nop
+000007CF  90                nop
+000007D0  90                nop
+000007D1  90                nop
+000007D2  90                nop
+000007D3  90                nop
+000007D4  90                nop
+000007D5  90                nop
+000007D6  90                nop
+000007D7  90                nop
+000007D8  90                nop
+000007D9  90                nop
+000007DA  90                nop
+000007DB  90                nop
+000007DC  90                nop
+000007DD  90                nop
+000007DE  90                nop
+000007DF  90                nop
+000007E0  90                nop
+000007E1  90                nop
+000007E2  90                nop
+000007E3  90                nop
+000007E4  90                nop
+000007E5  90                nop
+000007E6  90                nop
+000007E7  90                nop
+000007E8  90                nop
+000007E9  90                nop
+000007EA  90                nop
+000007EB  90                nop
+000007EC  90                nop
+000007ED  90                nop
+000007EE  90                nop
+000007EF  90                nop
+000007F0  90                nop
+000007F1  90                nop
+000007F2  90                nop
+000007F3  90                nop
+000007F4  90                nop
+000007F5  90                nop
+000007F6  90                nop
+000007F7  90                nop
+000007F8  90                nop
+000007F9  90                nop
+000007FA  90                nop
+000007FB  90                nop
+000007FC  90                nop
+000007FD  90                nop
+000007FE  90                nop
+000007FF  90                nop
+00000800  90                nop
+00000801  90                nop
+00000802  90                nop
+00000803  90                nop
+00000804  90                nop
+00000805  90                nop
+00000806  90                nop
+00000807  90                nop
+00000808  90                nop
+00000809  90                nop
+0000080A  90                nop
+0000080B  90                nop
+0000080C  90                nop
+0000080D  90                nop
+0000080E  90                nop
+0000080F  90                nop
+00000810  90                nop
+00000811  90                nop
+00000812  90                nop
+00000813  90                nop
+00000814  90                nop
+00000815  90                nop
+00000816  90                nop
+00000817  90                nop
+00000818  90                nop
+00000819  90                nop
+0000081A  90                nop
+0000081B  90                nop
+0000081C  90                nop
+0000081D  90                nop
+0000081E  90                nop
+0000081F  90                nop
+00000820  90                nop
+00000821  90                nop
+00000822  90                nop
+00000823  90                nop
+00000824  90                nop
+00000825  90                nop
+00000826  90                nop
+00000827  90                nop
+00000828  90                nop
+00000829  90                nop
+0000082A  90                nop
+0000082B  90                nop
+0000082C  90                nop
+0000082D  90                nop
+0000082E  90                nop
+0000082F  90                nop
+00000830  90                nop
+00000831  90                nop
+00000832  90                nop
+00000833  90                nop
+00000834  90                nop
+00000835  90                nop
+00000836  90                nop
+00000837  90                nop
+00000838  90                nop
+00000839  90                nop
+0000083A  90                nop
+0000083B  90                nop
+0000083C  90                nop
+0000083D  90                nop
+0000083E  90                nop
+0000083F  90                nop
+00000840  90                nop
+00000841  90                nop
+00000842  90                nop
+00000843  90                nop
+00000844  90                nop
+00000845  90                nop
+00000846  90                nop
+00000847  90                nop
+00000848  90                nop
+00000849  90                nop
+0000084A  90                nop
+0000084B  90                nop
+0000084C  90                nop
+0000084D  90                nop
+0000084E  90                nop
+0000084F  90                nop
+00000850  90                nop
+00000851  90                nop
+00000852  90                nop
+00000853  90                nop
+00000854  90                nop
+00000855  90                nop
+00000856  90                nop
+00000857  90                nop
+00000858  90                nop
+00000859  90                nop
+0000085A  90                nop
+0000085B  90                nop
+0000085C  90                nop
+0000085D  90                nop
+0000085E  90                nop
+0000085F  90                nop
+00000860  90                nop
+00000861  90                nop
+00000862  90                nop
+00000863  90                nop
+00000864  90                nop
+00000865  90                nop
+00000866  90                nop
+00000867  90                nop
+00000868  90                nop
+00000869  90                nop
+0000086A  90                nop
+0000086B  90                nop
+0000086C  90                nop
+0000086D  90                nop
+0000086E  90                nop
+0000086F  90                nop
+00000870  90                nop
+00000871  90                nop
+00000872  90                nop
+00000873  90                nop
+00000874  90                nop
+00000875  90                nop
+00000876  90                nop
+00000877  90                nop
+00000878  90                nop
+00000879  90                nop
+0000087A  90                nop
+0000087B  90                nop
+0000087C  90                nop
+0000087D  90                nop
+0000087E  90                nop
+0000087F  90                nop
+00000880  90                nop
+00000881  90                nop
+00000882  90                nop
+00000883  90                nop
+00000884  90                nop
+00000885  90                nop
+00000886  90                nop
+00000887  90                nop
+00000888  90                nop
+00000889  90                nop
+0000088A  90                nop
+0000088B  90                nop
+0000088C  90                nop
+0000088D  90                nop
+0000088E  90                nop
+0000088F  90                nop
+00000890  90                nop
+00000891  90                nop
+00000892  90                nop
+00000893  90                nop
+00000894  90                nop
+00000895  90                nop
+00000896  90                nop
+00000897  90                nop
+00000898  90                nop
+00000899  90                nop
+0000089A  90                nop
+0000089B  90                nop
+0000089C  90                nop
+0000089D  90                nop
+0000089E  90                nop
+0000089F  90                nop
+000008A0  90                nop
+000008A1  90                nop
+000008A2  90                nop
+000008A3  90                nop
+000008A4  90                nop
+000008A5  90                nop
+000008A6  90                nop
+000008A7  90                nop
+000008A8  90                nop
+000008A9  90                nop
+000008AA  90                nop
+000008AB  90                nop
+000008AC  90                nop
+000008AD  90                nop
+000008AE  90                nop
+000008AF  90                nop
+000008B0  90                nop
+000008B1  90                nop
+000008B2  90                nop
+000008B3  90                nop
+000008B4  90                nop
+000008B5  90                nop
+000008B6  90                nop
+000008B7  90                nop
+000008B8  90                nop
+000008B9  90                nop
+000008BA  90                nop
+000008BB  90                nop
+000008BC  90                nop
+000008BD  90                nop
+000008BE  90                nop
+000008BF  90                nop
+000008C0  90                nop
+000008C1  90                nop
+000008C2  90                nop
+000008C3  90                nop
+000008C4  90                nop
+000008C5  90                nop
+000008C6  90                nop
+000008C7  90                nop
+000008C8  90                nop
+000008C9  90                nop
+000008CA  90                nop
+000008CB  90                nop
+000008CC  90                nop
+000008CD  90                nop
+000008CE  90                nop
+000008CF  90                nop
+000008D0  90                nop
+000008D1  90                nop
+000008D2  90                nop
+000008D3  90                nop
+000008D4  90                nop
+000008D5  90                nop
+000008D6  90                nop
+000008D7  90                nop
+000008D8  90                nop
+000008D9  90                nop
+000008DA  90                nop
+000008DB  90                nop
+000008DC  90                nop
+000008DD  90                nop
+000008DE  90                nop
+000008DF  90                nop
+000008E0  90                nop
+000008E1  90                nop
+000008E2  90                nop
+000008E3  90                nop
+000008E4  90                nop
+000008E5  90                nop
+000008E6  90                nop
+000008E7  90                nop
+000008E8  90                nop
+000008E9  90                nop
+000008EA  90                nop
+000008EB  90                nop
+000008EC  90                nop
+000008ED  90                nop
+000008EE  90                nop
+000008EF  90                nop
+000008F0  90                nop
+000008F1  90                nop
+000008F2  90                nop
+000008F3  90                nop
+000008F4  90                nop
+000008F5  90                nop
+000008F6  90                nop
+000008F7  90                nop
+000008F8  90                nop
+000008F9  90                nop
+000008FA  90                nop
+000008FB  90                nop
+000008FC  90                nop
+000008FD  90                nop
+000008FE  90                nop
+000008FF  90                nop
+00000900  90                nop
+00000901  90                nop
+00000902  90                nop
+00000903  90                nop
+00000904  90                nop
+00000905  90                nop
+00000906  90                nop
+00000907  90                nop
+00000908  90                nop
+00000909  90                nop
+0000090A  90                nop
+0000090B  90                nop
+0000090C  90                nop
+0000090D  90                nop
+0000090E  90                nop
+0000090F  90                nop
+00000910  90                nop
+00000911  90                nop
+00000912  90                nop
+00000913  90                nop
+00000914  90                nop
+00000915  90                nop
+00000916  90                nop
+00000917  90                nop
+00000918  90                nop
+00000919  90                nop
+0000091A  90                nop
+0000091B  90                nop
+0000091C  90                nop
+0000091D  90                nop
+0000091E  90                nop
+0000091F  90                nop
+00000920  90                nop
+00000921  90                nop
+00000922  90                nop
+00000923  90                nop
+00000924  90                nop
+00000925  90                nop
+00000926  90                nop
+00000927  90                nop
+00000928  90                nop
+00000929  90                nop
+0000092A  90                nop
+0000092B  90                nop
+0000092C  90                nop
+0000092D  90                nop
+0000092E  90                nop
+0000092F  90                nop
+00000930  90                nop
+00000931  90                nop
+00000932  90                nop
+00000933  90                nop
+00000934  90                nop
+00000935  90                nop
+00000936  90                nop
+00000937  90                nop
+00000938  90                nop
+00000939  90                nop
+0000093A  90                nop
+0000093B  90                nop
+0000093C  90                nop
+0000093D  90                nop
+0000093E  90                nop
+0000093F  90                nop
+00000940  90                nop
+00000941  90                nop
+00000942  90                nop
+00000943  90                nop
+00000944  90                nop
+00000945  90                nop
+00000946  90                nop
+00000947  90                nop
+00000948  90                nop
+00000949  90                nop
+0000094A  90                nop
+0000094B  90                nop
+0000094C  90                nop
+0000094D  90                nop
+0000094E  90                nop
+0000094F  90                nop
+00000950  90                nop
+00000951  90                nop
+00000952  90                nop
+00000953  90                nop
+00000954  90                nop
+00000955  90                nop
+00000956  90                nop
+00000957  90                nop
+00000958  90                nop
+00000959  90                nop
+0000095A  90                nop
+0000095B  90                nop
+0000095C  90                nop
+0000095D  90                nop
+0000095E  90                nop
+0000095F  90                nop
+00000960  90                nop
+00000961  90                nop
+00000962  90                nop
+00000963  90                nop
+00000964  90                nop
+00000965  90                nop
+00000966  90                nop
+00000967  90                nop
+00000968  90                nop
+00000969  90                nop
+0000096A  90                nop
+0000096B  90                nop
+0000096C  90                nop
+0000096D  90                nop
+0000096E  90                nop
+0000096F  90                nop
+00000970  90                nop
+00000971  90                nop
+00000972  90                nop
+00000973  90                nop
+00000974  90                nop
+00000975  90                nop
+00000976  90                nop
+00000977  90                nop
+00000978  90                nop
+00000979  90                nop
+0000097A  90                nop
+0000097B  90                nop
+0000097C  90                nop
+0000097D  90                nop
+0000097E  90                nop
+0000097F  90                nop
+00000980  90                nop
+00000981  90                nop
+00000982  90                nop
+00000983  90                nop
+00000984  90                nop
+00000985  90                nop
+00000986  90                nop
+00000987  90                nop
+00000988  90                nop
+00000989  90                nop
+0000098A  90                nop
+0000098B  90                nop
+0000098C  90                nop
+0000098D  90                nop
+0000098E  90                nop
+0000098F  90                nop
+00000990  90                nop
+00000991  90                nop
+00000992  90                nop
+00000993  90                nop
+00000994  90                nop
+00000995  90                nop
+00000996  90                nop
+00000997  90                nop
+00000998  90                nop
+00000999  90                nop
+0000099A  90                nop
+0000099B  90                nop
+0000099C  90                nop
+0000099D  90                nop
+0000099E  90                nop
+0000099F  90                nop
+000009A0  90                nop
+000009A1  90                nop
+000009A2  90                nop
+000009A3  90                nop
+000009A4  90                nop
+000009A5  90                nop
+000009A6  90                nop
+000009A7  90                nop
+000009A8  90                nop
+000009A9  90                nop
+000009AA  90                nop
+000009AB  90                nop
+000009AC  90                nop
+000009AD  90                nop
+000009AE  90                nop
+000009AF  90                nop
+000009B0  90                nop
+000009B1  90                nop
+000009B2  90                nop
+000009B3  90                nop
+000009B4  90                nop
+000009B5  90                nop
+000009B6  90                nop
+000009B7  90                nop
+000009B8  90                nop
+000009B9  90                nop
+000009BA  90                nop
+000009BB  90                nop
+000009BC  90                nop
+000009BD  90                nop
+000009BE  90                nop
+000009BF  90                nop
+000009C0  90                nop
+000009C1  90                nop
+000009C2  90                nop
+000009C3  90                nop
+000009C4  90                nop
+000009C5  90                nop
+000009C6  90                nop
+000009C7  90                nop
+000009C8  90                nop
+000009C9  90                nop
+000009CA  90                nop
+000009CB  90                nop
+000009CC  90                nop
+000009CD  90                nop
+000009CE  90                nop
+000009CF  90                nop
+000009D0  90                nop
+000009D1  90                nop
+000009D2  90                nop
+000009D3  90                nop
+000009D4  90                nop
+000009D5  90                nop
+000009D6  90                nop
+000009D7  90                nop
+000009D8  90                nop
+000009D9  90                nop
+000009DA  90                nop
+000009DB  90                nop
+000009DC  90                nop
+000009DD  90                nop
+000009DE  90                nop
+000009DF  90                nop
+000009E0  90                nop
+000009E1  90                nop
+000009E2  90                nop
+000009E3  90                nop
+000009E4  90                nop
+000009E5  90                nop
+000009E6  90                nop
+000009E7  90                nop
+000009E8  90                nop
+000009E9  90                nop
+000009EA  90                nop
+000009EB  90                nop
+000009EC  90                nop
+000009ED  90                nop
+000009EE  90                nop
+000009EF  90                nop
+000009F0  90                nop
+000009F1  90                nop
+000009F2  90                nop
+000009F3  90                nop
+000009F4  90                nop
+000009F5  90                nop
+000009F6  90                nop
+000009F7  90                nop
+000009F8  90                nop
+000009F9  90                nop
+000009FA  90                nop
+000009FB  90                nop
+000009FC  90                nop
+000009FD  90                nop
+000009FE  90                nop
+000009FF  90                nop
+00000A00  90                nop
+00000A01  90                nop
+00000A02  90                nop
+00000A03  90                nop
+00000A04  90                nop
+00000A05  90                nop
+00000A06  90                nop
+00000A07  90                nop
+00000A08  90                nop
+00000A09  90                nop
+00000A0A  90                nop
+00000A0B  90                nop
+00000A0C  90                nop
+00000A0D  90                nop
+00000A0E  90                nop
+00000A0F  90                nop
+00000A10  90                nop
+00000A11  90                nop
+00000A12  90                nop
+00000A13  90                nop
+00000A14  90                nop
+00000A15  90                nop
+00000A16  90                nop
+00000A17  90                nop
+00000A18  90                nop
+00000A19  90                nop
+00000A1A  90                nop
+00000A1B  90                nop
+00000A1C  90                nop
+00000A1D  90                nop
+00000A1E  90                nop
+00000A1F  90                nop
+00000A20  90                nop
+00000A21  90                nop
+00000A22  90                nop
+00000A23  90                nop
+00000A24  90                nop
+00000A25  90                nop
+00000A26  90                nop
+00000A27  90                nop
+00000A28  90                nop
+00000A29  90                nop
+00000A2A  90                nop
+00000A2B  90                nop
+00000A2C  90                nop
+00000A2D  90                nop
+00000A2E  90                nop
+00000A2F  90                nop
+00000A30  90                nop
+00000A31  90                nop
+00000A32  90                nop
+00000A33  90                nop
+00000A34  90                nop
+00000A35  90                nop
+00000A36  90                nop
+00000A37  90                nop
+00000A38  90                nop
+00000A39  90                nop
+00000A3A  90                nop
+00000A3B  90                nop
+00000A3C  90                nop
+00000A3D  90                nop
+00000A3E  90                nop
+00000A3F  90                nop
+00000A40  90                nop
+00000A41  90                nop
+00000A42  90                nop
+00000A43  90                nop
+00000A44  90                nop
+00000A45  90                nop
+00000A46  90                nop
+00000A47  90                nop
+00000A48  90                nop
+00000A49  90                nop
+00000A4A  90                nop
+00000A4B  90                nop
+00000A4C  90                nop
+00000A4D  90                nop
+00000A4E  90                nop
+00000A4F  90                nop
+00000A50  90                nop
+00000A51  90                nop
+00000A52  90                nop
+00000A53  90                nop
+00000A54  90                nop
+00000A55  90                nop
+00000A56  90                nop
+00000A57  90                nop
+00000A58  90                nop
+00000A59  90                nop
+00000A5A  90                nop
+00000A5B  90                nop
+00000A5C  90                nop
+00000A5D  90                nop
+00000A5E  90                nop
+00000A5F  90                nop
+00000A60  90                nop
+00000A61  90                nop
+00000A62  90                nop
+00000A63  90                nop
+00000A64  90                nop
+00000A65  90                nop
+00000A66  90                nop
+00000A67  90                nop
+00000A68  90                nop
+00000A69  90                nop
+00000A6A  90                nop
+00000A6B  90                nop
+00000A6C  90                nop
+00000A6D  90                nop
+00000A6E  90                nop
+00000A6F  90                nop
+00000A70  90                nop
+00000A71  90                nop
+00000A72  90                nop
+00000A73  90                nop
+00000A74  90                nop
+00000A75  90                nop
+00000A76  90                nop
+00000A77  90                nop
+00000A78  90                nop
+00000A79  90                nop
+00000A7A  90                nop
+00000A7B  90                nop
+00000A7C  90                nop
+00000A7D  90                nop
+00000A7E  90                nop
+00000A7F  90                nop
+00000A80  90                nop
+00000A81  90                nop
+00000A82  90                nop
+00000A83  90                nop
+00000A84  90                nop
+00000A85  90                nop
+00000A86  90                nop
+00000A87  90                nop
+00000A88  90                nop
+00000A89  90                nop
+00000A8A  90                nop
+00000A8B  90                nop
+00000A8C  90                nop
+00000A8D  90                nop
+00000A8E  90                nop
+00000A8F  90                nop
+00000A90  90                nop
+00000A91  90                nop
+00000A92  90                nop
+00000A93  90                nop
+00000A94  90                nop
+00000A95  90                nop
+00000A96  90                nop
+00000A97  90                nop
+00000A98  90                nop
+00000A99  90                nop
+00000A9A  90                nop
+00000A9B  90                nop
+00000A9C  90                nop
+00000A9D  90                nop
+00000A9E  90                nop
+00000A9F  90                nop
+00000AA0  90                nop
+00000AA1  90                nop
+00000AA2  90                nop
+00000AA3  90                nop
+00000AA4  90                nop
+00000AA5  90                nop
+00000AA6  90                nop
+00000AA7  90                nop
+00000AA8  90                nop
+00000AA9  90                nop
+00000AAA  90                nop
+00000AAB  90                nop
+00000AAC  90                nop
+00000AAD  90                nop
+00000AAE  90                nop
+00000AAF  90                nop
+00000AB0  90                nop
+00000AB1  90                nop
+00000AB2  90                nop
+00000AB3  90                nop
+00000AB4  90                nop
+00000AB5  90                nop
+00000AB6  90                nop
+00000AB7  90                nop
+00000AB8  90                nop
+00000AB9  90                nop
+00000ABA  90                nop
+00000ABB  90                nop
+00000ABC  90                nop
+00000ABD  90                nop
+00000ABE  90                nop
+00000ABF  90                nop
+00000AC0  90                nop
+00000AC1  90                nop
+00000AC2  90                nop
+00000AC3  90                nop
+00000AC4  90                nop
+00000AC5  90                nop
+00000AC6  90                nop
+00000AC7  90                nop
+00000AC8  90                nop
+00000AC9  90                nop
+00000ACA  90                nop
+00000ACB  90                nop
+00000ACC  90                nop
+00000ACD  90                nop
+00000ACE  90                nop
+00000ACF  90                nop
+00000AD0  90                nop
+00000AD1  90                nop
+00000AD2  90                nop
+00000AD3  90                nop
+00000AD4  90                nop
+00000AD5  90                nop
+00000AD6  90                nop
+00000AD7  90                nop
+00000AD8  90                nop
+00000AD9  90                nop
+00000ADA  90                nop
+00000ADB  90                nop
+00000ADC  90                nop
+00000ADD  90                nop
+00000ADE  90                nop
+00000ADF  90                nop
+00000AE0  90                nop
+00000AE1  90                nop
+00000AE2  90                nop
+00000AE3  90                nop
+00000AE4  90                nop
+00000AE5  90                nop
+00000AE6  90                nop
+00000AE7  90                nop
+00000AE8  90                nop
+00000AE9  90                nop
+00000AEA  90                nop
+00000AEB  90                nop
+00000AEC  90                nop
+00000AED  90                nop
+00000AEE  90                nop
+00000AEF  90                nop
+00000AF0  90                nop
+00000AF1  90                nop
+00000AF2  90                nop
+00000AF3  90                nop
+00000AF4  90                nop
+00000AF5  90                nop
+00000AF6  90                nop
+00000AF7  90                nop
+00000AF8  90                nop
+00000AF9  90                nop
+00000AFA  90                nop
+00000AFB  90                nop
+00000AFC  90                nop
+00000AFD  90                nop
+00000AFE  90                nop
+00000AFF  90                nop
+00000B00  90                nop
+00000B01  90                nop
+00000B02  90                nop
+00000B03  90                nop
+00000B04  90                nop
+00000B05  90                nop
+00000B06  90                nop
+00000B07  90                nop
+00000B08  90                nop
+00000B09  90                nop
+00000B0A  90                nop
+00000B0B  90                nop
+00000B0C  90                nop
+00000B0D  90                nop
+00000B0E  90                nop
+00000B0F  90                nop
+00000B10  90                nop
+00000B11  90                nop
+00000B12  90                nop
+00000B13  90                nop
+00000B14  90                nop
+00000B15  90                nop
+00000B16  90                nop
+00000B17  90                nop
+00000B18  90                nop
+00000B19  90                nop
+00000B1A  90                nop
+00000B1B  90                nop
+00000B1C  90                nop
+00000B1D  90                nop
+00000B1E  90                nop
+00000B1F  90                nop
+00000B20  90                nop
+00000B21  90                nop
+00000B22  90                nop
+00000B23  90                nop
+00000B24  90                nop
+00000B25  90                nop
+00000B26  90                nop
+00000B27  90                nop
+00000B28  90                nop
+00000B29  90                nop
+00000B2A  90                nop
+00000B2B  90                nop
+00000B2C  90                nop
+00000B2D  90                nop
+00000B2E  90                nop
+00000B2F  90                nop
+00000B30  90                nop
+00000B31  90                nop
+00000B32  90                nop
+00000B33  90                nop
+00000B34  90                nop
+00000B35  90                nop
+00000B36  90                nop
+00000B37  90                nop
+00000B38  90                nop
+00000B39  90                nop
+00000B3A  90                nop
+00000B3B  90                nop
+00000B3C  90                nop
+00000B3D  90                nop
+00000B3E  90                nop
+00000B3F  90                nop
+00000B40  90                nop
+00000B41  90                nop
+00000B42  90                nop
+00000B43  90                nop
+00000B44  90                nop
+00000B45  90                nop
+00000B46  90                nop
+00000B47  90                nop
+00000B48  90                nop
+00000B49  90                nop
+00000B4A  90                nop
+00000B4B  90                nop
+00000B4C  90                nop
+00000B4D  90                nop
+00000B4E  90                nop
+00000B4F  90                nop
+00000B50  90                nop
+00000B51  90                nop
+00000B52  90                nop
+00000B53  90                nop
+00000B54  90                nop
+00000B55  90                nop
+00000B56  90                nop
+00000B57  90                nop
+00000B58  90                nop
+00000B59  90                nop
+00000B5A  90                nop
+00000B5B  90                nop
+00000B5C  90                nop
+00000B5D  90                nop
+00000B5E  90                nop
+00000B5F  90                nop
+00000B60  90                nop
+00000B61  90                nop
+00000B62  90                nop
+00000B63  90                nop
+00000B64  90                nop
+00000B65  90                nop
+00000B66  90                nop
+00000B67  90                nop
+00000B68  90                nop
+00000B69  90                nop
+00000B6A  90                nop
+00000B6B  90                nop
+00000B6C  90                nop
+00000B6D  90                nop
+00000B6E  90                nop
+00000B6F  90                nop
+00000B70  90                nop
+00000B71  90                nop
+00000B72  90                nop
+00000B73  90                nop
+00000B74  90                nop
+00000B75  90                nop
+00000B76  90                nop
+00000B77  90                nop
+00000B78  90                nop
+00000B79  90                nop
+00000B7A  90                nop
+00000B7B  90                nop
+00000B7C  90                nop
+00000B7D  90                nop
+00000B7E  90                nop
+00000B7F  90                nop
+00000B80  90                nop
+00000B81  90                nop
+00000B82  90                nop
+00000B83  90                nop
+00000B84  90                nop
+00000B85  90                nop
+00000B86  90                nop
+00000B87  90                nop
+00000B88  90                nop
+00000B89  90                nop
+00000B8A  90                nop
+00000B8B  90                nop
+00000B8C  90                nop
+00000B8D  90                nop
+00000B8E  90                nop
+00000B8F  90                nop
+00000B90  90                nop
+00000B91  90                nop
+00000B92  90                nop
+00000B93  90                nop
+00000B94  90                nop
+00000B95  90                nop
+00000B96  90                nop
+00000B97  90                nop
+00000B98  90                nop
+00000B99  90                nop
+00000B9A  90                nop
+00000B9B  90                nop
+00000B9C  90                nop
+00000B9D  90                nop
+00000B9E  90                nop
+00000B9F  90                nop
+00000BA0  90                nop
+00000BA1  90                nop
+00000BA2  90                nop
+00000BA3  90                nop
+00000BA4  90                nop
+00000BA5  90                nop
+00000BA6  90                nop
+00000BA7  90                nop
+00000BA8  90                nop
+00000BA9  90                nop
+00000BAA  90                nop
+00000BAB  90                nop
+00000BAC  90                nop
+00000BAD  90                nop
+00000BAE  90                nop
+00000BAF  90                nop
+00000BB0  90                nop
+00000BB1  90                nop
+00000BB2  90                nop
+00000BB3  90                nop
+00000BB4  90                nop
+00000BB5  90                nop
+00000BB6  90                nop
+00000BB7  90                nop
+00000BB8  90                nop
+00000BB9  90                nop
+00000BBA  90                nop
+00000BBB  90                nop
+00000BBC  90                nop
+00000BBD  90                nop
+00000BBE  90                nop
+00000BBF  90                nop
+00000BC0  90                nop
+00000BC1  90                nop
+00000BC2  90                nop
+00000BC3  90                nop
+00000BC4  90                nop
+00000BC5  90                nop
+00000BC6  90                nop
+00000BC7  90                nop
+00000BC8  90                nop
+00000BC9  90                nop
+00000BCA  90                nop
+00000BCB  90                nop
+00000BCC  90                nop
+00000BCD  90                nop
+00000BCE  90                nop
+00000BCF  90                nop
+00000BD0  90                nop
+00000BD1  90                nop
+00000BD2  90                nop
+00000BD3  90                nop
+00000BD4  90                nop
+00000BD5  90                nop
+00000BD6  90                nop
+00000BD7  90                nop
+00000BD8  90                nop
+00000BD9  90                nop
+00000BDA  90                nop
+00000BDB  90                nop
+00000BDC  90                nop
+00000BDD  90                nop
+00000BDE  90                nop
+00000BDF  90                nop
+00000BE0  90                nop
+00000BE1  90                nop
+00000BE2  90                nop
+00000BE3  90                nop
+00000BE4  90                nop
+00000BE5  90                nop
+00000BE6  90                nop
+00000BE7  90                nop
+00000BE8  90                nop
+00000BE9  90                nop
+00000BEA  90                nop
+00000BEB  90                nop
+00000BEC  90                nop
+00000BED  90                nop
+00000BEE  90                nop
+00000BEF  90                nop
+00000BF0  90                nop
+00000BF1  90                nop
+00000BF2  90                nop
+00000BF3  90                nop
+00000BF4  90                nop
+00000BF5  90                nop
+00000BF6  90                nop
+00000BF7  90                nop
+00000BF8  90                nop
+00000BF9  90                nop
+00000BFA  90                nop
+00000BFB  90                nop
+00000BFC  90                nop
+00000BFD  90                nop
+00000BFE  90                nop
+00000BFF  90                nop
+00000C00  90                nop
+00000C01  90                nop
+00000C02  90                nop
+00000C03  90                nop
+00000C04  90                nop
+00000C05  90                nop
+00000C06  90                nop
+00000C07  90                nop
+00000C08  90                nop
+00000C09  90                nop
+00000C0A  90                nop
+00000C0B  90                nop
+00000C0C  90                nop
+00000C0D  90                nop
+00000C0E  90                nop
+00000C0F  90                nop
+00000C10  90                nop
+00000C11  90                nop
+00000C12  90                nop
+00000C13  90                nop
+00000C14  90                nop
+00000C15  90                nop
+00000C16  90                nop
+00000C17  90                nop
+00000C18  90                nop
+00000C19  90                nop
+00000C1A  90                nop
+00000C1B  90                nop
+00000C1C  90                nop
+00000C1D  90                nop
+00000C1E  90                nop
+00000C1F  90                nop
+00000C20  90                nop
+00000C21  90                nop
+00000C22  90                nop
+00000C23  90                nop
+00000C24  90                nop
+00000C25  90                nop
+00000C26  90                nop
+00000C27  90                nop
+00000C28  90                nop
+00000C29  90                nop
+00000C2A  90                nop
+00000C2B  90                nop
+00000C2C  90                nop
+00000C2D  90                nop
+00000C2E  90                nop
+00000C2F  90                nop
+00000C30  90                nop
+00000C31  90                nop
+00000C32  90                nop
+00000C33  90                nop
+00000C34  90                nop
+00000C35  90                nop
+00000C36  90                nop
+00000C37  90                nop
+00000C38  90                nop
+00000C39  90                nop
+00000C3A  90                nop
+00000C3B  90                nop
+00000C3C  90                nop
+00000C3D  90                nop
+00000C3E  90                nop
+00000C3F  90                nop
+00000C40  90                nop
+00000C41  90                nop
+00000C42  90                nop
+00000C43  90                nop
+00000C44  90                nop
+00000C45  90                nop
+00000C46  90                nop
+00000C47  90                nop
+00000C48  90                nop
+00000C49  90                nop
+00000C4A  90                nop
+00000C4B  90                nop
+00000C4C  90                nop
+00000C4D  90                nop
+00000C4E  90                nop
+00000C4F  90                nop
+00000C50  90                nop
+00000C51  90                nop
+00000C52  90                nop
+00000C53  90                nop
+00000C54  90                nop
+00000C55  90                nop
+00000C56  90                nop
+00000C57  90                nop
+00000C58  90                nop
+00000C59  90                nop
+00000C5A  90                nop
+00000C5B  90                nop
+00000C5C  90                nop
+00000C5D  90                nop
+00000C5E  90                nop
+00000C5F  90                nop
+00000C60  90                nop
+00000C61  90                nop
+00000C62  90                nop
+00000C63  90                nop
+00000C64  90                nop
+00000C65  90                nop
+00000C66  90                nop
+00000C67  90                nop
+00000C68  90                nop
+00000C69  90                nop
+00000C6A  90                nop
+00000C6B  90                nop
+00000C6C  90                nop
+00000C6D  90                nop
+00000C6E  90                nop
+00000C6F  90                nop
+00000C70  90                nop
+00000C71  90                nop
+00000C72  90                nop
+00000C73  90                nop
+00000C74  90                nop
+00000C75  90                nop
+00000C76  90                nop
+00000C77  90                nop
+00000C78  90                nop
+00000C79  90                nop
+00000C7A  90                nop
+00000C7B  90                nop
+00000C7C  90                nop
+00000C7D  90                nop
+00000C7E  90                nop
+00000C7F  90                nop
+00000C80  90                nop
+00000C81  90                nop
+00000C82  90                nop
+00000C83  90                nop
+00000C84  90                nop
+00000C85  90                nop
+00000C86  90                nop
+00000C87  90                nop
+00000C88  90                nop
+00000C89  90                nop
+00000C8A  90                nop
+00000C8B  90                nop
+00000C8C  90                nop
+00000C8D  90                nop
+00000C8E  90                nop
+00000C8F  90                nop
+00000C90  90                nop
+00000C91  90                nop
+00000C92  90                nop
+00000C93  90                nop
+00000C94  90                nop
+00000C95  90                nop
+00000C96  90                nop
+00000C97  90                nop
+00000C98  90                nop
+00000C99  90                nop
+00000C9A  90                nop
+00000C9B  90                nop
+00000C9C  90                nop
+00000C9D  90                nop
+00000C9E  90                nop
+00000C9F  90                nop
+00000CA0  90                nop
+00000CA1  90                nop
+00000CA2  90                nop
+00000CA3  90                nop
+00000CA4  90                nop
+00000CA5  90                nop
+00000CA6  90                nop
+00000CA7  90                nop
+00000CA8  90                nop
+00000CA9  90                nop
+00000CAA  90                nop
+00000CAB  90                nop
+00000CAC  90                nop
+00000CAD  90                nop
+00000CAE  90                nop
+00000CAF  90                nop
+00000CB0  90                nop
+00000CB1  90                nop
+00000CB2  90                nop
+00000CB3  90                nop
+00000CB4  90                nop
+00000CB5  90                nop
+00000CB6  90                nop
+00000CB7  90                nop
+00000CB8  90                nop
+00000CB9  90                nop
+00000CBA  90                nop
+00000CBB  90                nop
+00000CBC  90                nop
+00000CBD  90                nop
+00000CBE  90                nop
+00000CBF  90                nop
+00000CC0  90                nop
+00000CC1  90                nop
+00000CC2  90                nop
+00000CC3  90                nop
+00000CC4  90                nop
+00000CC5  90                nop
+00000CC6  90                nop
+00000CC7  90                nop
+00000CC8  90                nop
+00000CC9  90                nop
+00000CCA  90                nop
+00000CCB  90                nop
+00000CCC  90                nop
+00000CCD  90                nop
+00000CCE  90                nop
+00000CCF  90                nop
+00000CD0  90                nop
+00000CD1  90                nop
+00000CD2  90                nop
+00000CD3  90                nop
+00000CD4  90                nop
+00000CD5  90                nop
+00000CD6  90                nop
+00000CD7  90                nop
+00000CD8  90                nop
+00000CD9  90                nop
+00000CDA  90                nop
+00000CDB  90                nop
+00000CDC  90                nop
+00000CDD  90                nop
+00000CDE  90                nop
+00000CDF  90                nop
+00000CE0  90                nop
+00000CE1  90                nop
+00000CE2  90                nop
+00000CE3  90                nop
+00000CE4  90                nop
+00000CE5  90                nop
+00000CE6  90                nop
+00000CE7  90                nop
+00000CE8  90                nop
+00000CE9  90                nop
+00000CEA  90                nop
+00000CEB  90                nop
+00000CEC  90                nop
+00000CED  90                nop
+00000CEE  90                nop
+00000CEF  90                nop
+00000CF0  90                nop
+00000CF1  90                nop
+00000CF2  90                nop
+00000CF3  90                nop
+00000CF4  90                nop
+00000CF5  90                nop
+00000CF6  90                nop
+00000CF7  90                nop
+00000CF8  90                nop
+00000CF9  90                nop
+00000CFA  90                nop
+00000CFB  90                nop
+00000CFC  90                nop
+00000CFD  90                nop
+00000CFE  90                nop
+00000CFF  90                nop
+00000D00  90                nop
+00000D01  90                nop
+00000D02  90                nop
+00000D03  90                nop
+00000D04  90                nop
+00000D05  90                nop
+00000D06  90                nop
+00000D07  90                nop
+00000D08  90                nop
+00000D09  90                nop
+00000D0A  90                nop
+00000D0B  90                nop
+00000D0C  90                nop
+00000D0D  90                nop
+00000D0E  90                nop
+00000D0F  90                nop
+00000D10  90                nop
+00000D11  90                nop
+00000D12  90                nop
+00000D13  90                nop
+00000D14  90                nop
+00000D15  90                nop
+00000D16  90                nop
+00000D17  90                nop
+00000D18  90                nop
+00000D19  90                nop
+00000D1A  90                nop
+00000D1B  90                nop
+00000D1C  90                nop
+00000D1D  90                nop
+00000D1E  90                nop
+00000D1F  90                nop
+00000D20  90                nop
+00000D21  90                nop
+00000D22  90                nop
+00000D23  90                nop
+00000D24  90                nop
+00000D25  90                nop
+00000D26  90                nop
+00000D27  90                nop
+00000D28  90                nop
+00000D29  90                nop
+00000D2A  90                nop
+00000D2B  90                nop
+00000D2C  90                nop
+00000D2D  90                nop
+00000D2E  90                nop
+00000D2F  90                nop
+00000D30  90                nop
+00000D31  90                nop
+00000D32  90                nop
+00000D33  90                nop
+00000D34  90                nop
+00000D35  90                nop
+00000D36  90                nop
+00000D37  90                nop
+00000D38  90                nop
+00000D39  90                nop
+00000D3A  90                nop
+00000D3B  90                nop
+00000D3C  90                nop
+00000D3D  90                nop
+00000D3E  90                nop
+00000D3F  90                nop
+00000D40  90                nop
+00000D41  90                nop
+00000D42  90                nop
+00000D43  90                nop
+00000D44  90                nop
+00000D45  90                nop
+00000D46  90                nop
+00000D47  90                nop
+00000D48  90                nop
+00000D49  90                nop
+00000D4A  90                nop
+00000D4B  90                nop
+00000D4C  90                nop
+00000D4D  90                nop
+00000D4E  90                nop
+00000D4F  90                nop
+00000D50  90                nop
+00000D51  90                nop
+00000D52  90                nop
+00000D53  90                nop
+00000D54  90                nop
+00000D55  90                nop
+00000D56  90                nop
+00000D57  90                nop
+00000D58  90                nop
+00000D59  90                nop
+00000D5A  90                nop
+00000D5B  90                nop
+00000D5C  90                nop
+00000D5D  90                nop
+00000D5E  90                nop
+00000D5F  90                nop
+00000D60  90                nop
+00000D61  90                nop
+00000D62  90                nop
+00000D63  90                nop
+00000D64  90                nop
+00000D65  90                nop
+00000D66  90                nop
+00000D67  90                nop
+00000D68  90                nop
+00000D69  90                nop
+00000D6A  90                nop
+00000D6B  90                nop
+00000D6C  90                nop
+00000D6D  90                nop
+00000D6E  90                nop
+00000D6F  90                nop
+00000D70  90                nop
+00000D71  90                nop
+00000D72  90                nop
+00000D73  90                nop
+00000D74  90                nop
+00000D75  90                nop
+00000D76  90                nop
+00000D77  90                nop
+00000D78  90                nop
+00000D79  90                nop
+00000D7A  90                nop
+00000D7B  90                nop
+00000D7C  90                nop
+00000D7D  90                nop
+00000D7E  90                nop
+00000D7F  90                nop
+00000D80  90                nop
+00000D81  90                nop
+00000D82  90                nop
+00000D83  90                nop
+00000D84  90                nop
+00000D85  90                nop
+00000D86  90                nop
+00000D87  90                nop
+00000D88  90                nop
+00000D89  90                nop
+00000D8A  90                nop
+00000D8B  90                nop
+00000D8C  90                nop
+00000D8D  90                nop
+00000D8E  90                nop
+00000D8F  90                nop
+00000D90  90                nop
+00000D91  90                nop
+00000D92  90                nop
+00000D93  90                nop
+00000D94  90                nop
+00000D95  90                nop
+00000D96  90                nop
+00000D97  90                nop
+00000D98  90                nop
+00000D99  90                nop
+00000D9A  90                nop
+00000D9B  90                nop
+00000D9C  90                nop
+00000D9D  90                nop
+00000D9E  90                nop
+00000D9F  90                nop
+00000DA0  90                nop
+00000DA1  90                nop
+00000DA2  90                nop
+00000DA3  90                nop
+00000DA4  90                nop
+00000DA5  90                nop
+00000DA6  90                nop
+00000DA7  90                nop
+00000DA8  90                nop
+00000DA9  90                nop
+00000DAA  90                nop
+00000DAB  90                nop
+00000DAC  90                nop
+00000DAD  90                nop
+00000DAE  90                nop
+00000DAF  90                nop
+00000DB0  90                nop
+00000DB1  90                nop
+00000DB2  90                nop
+00000DB3  90                nop
+00000DB4  90                nop
+00000DB5  90                nop
+00000DB6  90                nop
+00000DB7  90                nop
+00000DB8  90                nop
+00000DB9  90                nop
+00000DBA  90                nop
+00000DBB  90                nop
+00000DBC  90                nop
+00000DBD  90                nop
+00000DBE  90                nop
+00000DBF  90                nop
+00000DC0  90                nop
+00000DC1  90                nop
+00000DC2  90                nop
+00000DC3  90                nop
+00000DC4  90                nop
+00000DC5  90                nop
+00000DC6  90                nop
+00000DC7  90                nop
+00000DC8  90                nop
+00000DC9  90                nop
+00000DCA  90                nop
+00000DCB  90                nop
+00000DCC  90                nop
+00000DCD  90                nop
+00000DCE  90                nop
+00000DCF  90                nop
+00000DD0  90                nop
+00000DD1  90                nop
+00000DD2  90                nop
+00000DD3  90                nop
+00000DD4  90                nop
+00000DD5  90                nop
+00000DD6  90                nop
+00000DD7  90                nop
+00000DD8  90                nop
+00000DD9  90                nop
+00000DDA  90                nop
+00000DDB  90                nop
+00000DDC  90                nop
+00000DDD  90                nop
+00000DDE  90                nop
+00000DDF  90                nop
+00000DE0  90                nop
+00000DE1  90                nop
+00000DE2  90                nop
+00000DE3  90                nop
+00000DE4  90                nop
+00000DE5  90                nop
+00000DE6  90                nop
+00000DE7  90                nop
+00000DE8  90                nop
+00000DE9  90                nop
+00000DEA  90                nop
+00000DEB  90                nop
+00000DEC  90                nop
+00000DED  90                nop
+00000DEE  90                nop
+00000DEF  90                nop
+00000DF0  90                nop
+00000DF1  90                nop
+00000DF2  90                nop
+00000DF3  90                nop
+00000DF4  90                nop
+00000DF5  90                nop
+00000DF6  90                nop
+00000DF7  90                nop
+00000DF8  90                nop
+00000DF9  90                nop
+00000DFA  90                nop
+00000DFB  90                nop
+00000DFC  90                nop
+00000DFD  90                nop
+00000DFE  90                nop
+00000DFF  90                nop
+00000E00  90                nop
+00000E01  90                nop
+00000E02  90                nop
+00000E03  90                nop
+00000E04  90                nop
+00000E05  90                nop
+00000E06  90                nop
+00000E07  90                nop
+00000E08  90                nop
+00000E09  90                nop
+00000E0A  90                nop
+00000E0B  90                nop
+00000E0C  90                nop
+00000E0D  90                nop
+00000E0E  90                nop
+00000E0F  90                nop
+00000E10  90                nop
+00000E11  90                nop
+00000E12  90                nop
+00000E13  90                nop
+00000E14  90                nop
+00000E15  90                nop
+00000E16  90                nop
+00000E17  90                nop
+00000E18  90                nop
+00000E19  90                nop
+00000E1A  90                nop
+00000E1B  90                nop
+00000E1C  90                nop
+00000E1D  90                nop
+00000E1E  90                nop
+00000E1F  90                nop
+00000E20  90                nop
+00000E21  90                nop
+00000E22  90                nop
+00000E23  90                nop
+00000E24  90                nop
+00000E25  90                nop
+00000E26  90                nop
+00000E27  90                nop
+00000E28  90                nop
+00000E29  90                nop
+00000E2A  90                nop
+00000E2B  90                nop
+00000E2C  90                nop
+00000E2D  90                nop
+00000E2E  90                nop
+00000E2F  90                nop
+00000E30  90                nop
+00000E31  90                nop
+00000E32  90                nop
+00000E33  90                nop
+00000E34  90                nop
+00000E35  90                nop
+00000E36  90                nop
+00000E37  90                nop
+00000E38  90                nop
+00000E39  90                nop
+00000E3A  90                nop
+00000E3B  90                nop
+00000E3C  90                nop
+00000E3D  90                nop
+00000E3E  90                nop
+00000E3F  90                nop
+00000E40  90                nop
+00000E41  90                nop
+00000E42  90                nop
+00000E43  90                nop
+00000E44  90                nop
+00000E45  90                nop
+00000E46  90                nop
+00000E47  90                nop
+00000E48  90                nop
+00000E49  90                nop
+00000E4A  90                nop
+00000E4B  90                nop
+00000E4C  90                nop
+00000E4D  90                nop
+00000E4E  90                nop
+00000E4F  90                nop
+00000E50  90                nop
+00000E51  90                nop
+00000E52  90                nop
+00000E53  90                nop
+00000E54  90                nop
+00000E55  90                nop
+00000E56  90                nop
+00000E57  90                nop
+00000E58  90                nop
+00000E59  90                nop
+00000E5A  90                nop
+00000E5B  90                nop
+00000E5C  90                nop
+00000E5D  90                nop
+00000E5E  90                nop
+00000E5F  90                nop
+00000E60  90                nop
+00000E61  90                nop
+00000E62  90                nop
+00000E63  90                nop
+00000E64  90                nop
+00000E65  90                nop
+00000E66  90                nop
+00000E67  90                nop
+00000E68  90                nop
+00000E69  90                nop
+00000E6A  90                nop
+00000E6B  90                nop
+00000E6C  90                nop
+00000E6D  90                nop
+00000E6E  90                nop
+00000E6F  90                nop
+00000E70  90                nop
+00000E71  90                nop
+00000E72  90                nop
+00000E73  90                nop
+00000E74  90                nop
+00000E75  90                nop
+00000E76  90                nop
+00000E77  90                nop
+00000E78  90                nop
+00000E79  90                nop
+00000E7A  90                nop
+00000E7B  90                nop
+00000E7C  90                nop
+00000E7D  90                nop
+00000E7E  90                nop
+00000E7F  90                nop
+00000E80  90                nop
+00000E81  90                nop
+00000E82  90                nop
+00000E83  90                nop
+00000E84  90                nop
+00000E85  90                nop
+00000E86  90                nop
+00000E87  90                nop
+00000E88  90                nop
+00000E89  90                nop
+00000E8A  90                nop
+00000E8B  90                nop
+00000E8C  90                nop
+00000E8D  90                nop
+00000E8E  90                nop
+00000E8F  90                nop
+00000E90  90                nop
+00000E91  90                nop
+00000E92  90                nop
+00000E93  90                nop
+00000E94  90                nop
+00000E95  90                nop
+00000E96  90                nop
+00000E97  90                nop
+00000E98  90                nop
+00000E99  90                nop
+00000E9A  90                nop
+00000E9B  90                nop
+00000E9C  90                nop
+00000E9D  90                nop
+00000E9E  90                nop
+00000E9F  90                nop
+00000EA0  90                nop
+00000EA1  90                nop
+00000EA2  90                nop
+00000EA3  90                nop
+00000EA4  90                nop
+00000EA5  90                nop
+00000EA6  90                nop
+00000EA7  90                nop
+00000EA8  90                nop
+00000EA9  90                nop
+00000EAA  90                nop
+00000EAB  90                nop
+00000EAC  90                nop
+00000EAD  90                nop
+00000EAE  90                nop
+00000EAF  90                nop
+00000EB0  90                nop
+00000EB1  90                nop
+00000EB2  90                nop
+00000EB3  90                nop
+00000EB4  90                nop
+00000EB5  90                nop
+00000EB6  90                nop
+00000EB7  90                nop
+00000EB8  90                nop
+00000EB9  90                nop
+00000EBA  90                nop
+00000EBB  90                nop
+00000EBC  90                nop
+00000EBD  90                nop
+00000EBE  90                nop
+00000EBF  90                nop
+00000EC0  90                nop
+00000EC1  90                nop
+00000EC2  90                nop
+00000EC3  90                nop
+00000EC4  90                nop
+00000EC5  90                nop
+00000EC6  90                nop
+00000EC7  90                nop
+00000EC8  90                nop
+00000EC9  90                nop
+00000ECA  90                nop
+00000ECB  90                nop
+00000ECC  90                nop
+00000ECD  90                nop
+00000ECE  90                nop
+00000ECF  90                nop
+00000ED0  90                nop
+00000ED1  90                nop
+00000ED2  90                nop
+00000ED3  90                nop
+00000ED4  90                nop
+00000ED5  90                nop
+00000ED6  90                nop
+00000ED7  90                nop
+00000ED8  90                nop
+00000ED9  90                nop
+00000EDA  90                nop
+00000EDB  90                nop
+00000EDC  90                nop
+00000EDD  90                nop
+00000EDE  90                nop
+00000EDF  90                nop
+00000EE0  90                nop
+00000EE1  90                nop
+00000EE2  90                nop
+00000EE3  90                nop
+00000EE4  90                nop
+00000EE5  90                nop
+00000EE6  90                nop
+00000EE7  90                nop
+00000EE8  90                nop
+00000EE9  90                nop
+00000EEA  90                nop
+00000EEB  90                nop
+00000EEC  90                nop
+00000EED  90                nop
+00000EEE  90                nop
+00000EEF  90                nop
+00000EF0  90                nop
+00000EF1  90                nop
+00000EF2  90                nop
+00000EF3  90                nop
+00000EF4  90                nop
+00000EF5  90                nop
+00000EF6  90                nop
+00000EF7  90                nop
+00000EF8  90                nop
+00000EF9  90                nop
+00000EFA  90                nop
+00000EFB  90                nop
+00000EFC  90                nop
+00000EFD  90                nop
+00000EFE  90                nop
+00000EFF  90                nop
+00000F00  90                nop
+00000F01  90                nop
+00000F02  90                nop
+00000F03  90                nop
+00000F04  90                nop
+00000F05  90                nop
+00000F06  90                nop
+00000F07  90                nop
+00000F08  90                nop
+00000F09  90                nop
+00000F0A  90                nop
+00000F0B  90                nop
+00000F0C  90                nop
+00000F0D  90                nop
+00000F0E  90                nop
+00000F0F  90                nop
+00000F10  90                nop
+00000F11  90                nop
+00000F12  90                nop
+00000F13  90                nop
+00000F14  90                nop
+00000F15  90                nop
+00000F16  90                nop
+00000F17  90                nop
+00000F18  90                nop
+00000F19  90                nop
+00000F1A  90                nop
+00000F1B  90                nop
+00000F1C  90                nop
+00000F1D  90                nop
+00000F1E  90                nop
+00000F1F  90                nop
+00000F20  90                nop
+00000F21  90                nop
+00000F22  90                nop
+00000F23  90                nop
+00000F24  90                nop
+00000F25  90                nop
+00000F26  90                nop
+00000F27  90                nop
+00000F28  90                nop
+00000F29  90                nop
+00000F2A  90                nop
+00000F2B  90                nop
+00000F2C  90                nop
+00000F2D  90                nop
+00000F2E  90                nop
+00000F2F  90                nop
+00000F30  90                nop
+00000F31  90                nop
+00000F32  90                nop
+00000F33  90                nop
+00000F34  90                nop
+00000F35  90                nop
+00000F36  90                nop
+00000F37  90                nop
+00000F38  90                nop
+00000F39  90                nop
+00000F3A  90                nop
+00000F3B  90                nop
+00000F3C  90                nop
+00000F3D  90                nop
+00000F3E  90                nop
+00000F3F  90                nop
+00000F40  90                nop
+00000F41  90                nop
+00000F42  90                nop
+00000F43  90                nop
+00000F44  90                nop
+00000F45  90                nop
+00000F46  90                nop
+00000F47  90                nop
+00000F48  90                nop
+00000F49  90                nop
+00000F4A  90                nop
+00000F4B  90                nop
+00000F4C  90                nop
+00000F4D  90                nop
+00000F4E  90                nop
+00000F4F  90                nop
+00000F50  90                nop
+00000F51  90                nop
+00000F52  90                nop
+00000F53  90                nop
+00000F54  90                nop
+00000F55  90                nop
+00000F56  90                nop
+00000F57  90                nop
+00000F58  90                nop
+00000F59  90                nop
+00000F5A  90                nop
+00000F5B  90                nop
+00000F5C  90                nop
+00000F5D  90                nop
+00000F5E  90                nop
+00000F5F  90                nop
+00000F60  90                nop
+00000F61  90                nop
+00000F62  90                nop
+00000F63  90                nop
+00000F64  90                nop
+00000F65  90                nop
+00000F66  90                nop
+00000F67  90                nop
+00000F68  90                nop
+00000F69  90                nop
+00000F6A  90                nop
+00000F6B  90                nop
+00000F6C  90                nop
+00000F6D  90                nop
+00000F6E  90                nop
+00000F6F  90                nop
+00000F70  90                nop
+00000F71  90                nop
+00000F72  90                nop
+00000F73  90                nop
+00000F74  90                nop
+00000F75  90                nop
+00000F76  90                nop
+00000F77  90                nop
+00000F78  90                nop
+00000F79  90                nop
+00000F7A  90                nop
+00000F7B  90                nop
+00000F7C  90                nop
+00000F7D  90                nop
+00000F7E  90                nop
+00000F7F  90                nop
+00000F80  90                nop
+00000F81  90                nop
+00000F82  90                nop
+00000F83  90                nop
+00000F84  90                nop
+00000F85  90                nop
+00000F86  90                nop
+00000F87  90                nop
+00000F88  90                nop
+00000F89  90                nop
+00000F8A  90                nop
+00000F8B  90                nop
+00000F8C  90                nop
+00000F8D  90                nop
+00000F8E  90                nop
+00000F8F  90                nop
+00000F90  90                nop
+00000F91  90                nop
+00000F92  90                nop
+00000F93  90                nop
+00000F94  90                nop
+00000F95  90                nop
+00000F96  90                nop
+00000F97  90                nop
+00000F98  90                nop
+00000F99  90                nop
+00000F9A  90                nop
+00000F9B  90                nop
+00000F9C  90                nop
+00000F9D  90                nop
+00000F9E  90                nop
+00000F9F  90                nop
+00000FA0  90                nop
+00000FA1  90                nop
+00000FA2  90                nop
+00000FA3  90                nop
+00000FA4  90                nop
+00000FA5  90                nop
+00000FA6  90                nop
+00000FA7  90                nop
+00000FA8  90                nop
+00000FA9  90                nop
+00000FAA  90                nop
+00000FAB  90                nop
+00000FAC  90                nop
+00000FAD  90                nop
+00000FAE  90                nop
+00000FAF  90                nop
+00000FB0  90                nop
+00000FB1  90                nop
+00000FB2  90                nop
+00000FB3  90                nop
+00000FB4  90                nop
+00000FB5  90                nop
+00000FB6  90                nop
+00000FB7  90                nop
+00000FB8  90                nop
+00000FB9  90                nop
+00000FBA  90                nop
+00000FBB  90                nop
+00000FBC  90                nop
+00000FBD  90                nop
+00000FBE  90                nop
+00000FBF  90                nop
+00000FC0  90                nop
+00000FC1  90                nop
+00000FC2  90                nop
+00000FC3  90                nop
+00000FC4  90                nop
+00000FC5  90                nop
+00000FC6  90                nop
+00000FC7  90                nop
+00000FC8  90                nop
+00000FC9  90                nop
+00000FCA  90                nop
+00000FCB  90                nop
+00000FCC  90                nop
+00000FCD  90                nop
+00000FCE  90                nop
+00000FCF  90                nop
+00000FD0  90                nop
+00000FD1  90                nop
+00000FD2  90                nop
+00000FD3  90                nop
+00000FD4  90                nop
+00000FD5  90                nop
+00000FD6  90                nop
+00000FD7  90                nop
+00000FD8  90                nop
+00000FD9  90                nop
+00000FDA  90                nop
+00000FDB  90                nop
+00000FDC  90                nop
+00000FDD  90                nop
+00000FDE  90                nop
+00000FDF  90                nop
+00000FE0  90                nop
+00000FE1  90                nop
+00000FE2  90                nop
+00000FE3  90                nop
+00000FE4  90                nop
+00000FE5  90                nop
+00000FE6  90                nop
+00000FE7  90                nop
+00000FE8  90                nop
+00000FE9  90                nop
+00000FEA  90                nop
+00000FEB  90                nop
+00000FEC  90                nop
+00000FED  90                nop
+00000FEE  90                nop
+00000FEF  90                nop
+00000FF0  90                nop
+00000FF1  90                nop
+00000FF2  90                nop
+00000FF3  90                nop
+00000FF4  90                nop
+00000FF5  90                nop
+00000FF6  90                nop
+00000FF7  90                nop
+00000FF8  90                nop
+00000FF9  90                nop
+00000FFA  90                nop
+00000FFB  90                nop
+00000FFC  90                nop
+00000FFD  90                nop
+00000FFE  90                nop
+00000FFF  90                nop
+00001000  90                nop
+00001001  90                nop
+00001002  90                nop
+00001003  90                nop
+00001004  90                nop
+00001005  90                nop
+00001006  90                nop
+00001007  90                nop
+00001008  90                nop
+00001009  90                nop
+0000100A  90                nop
+0000100B  90                nop
+0000100C  90                nop
+0000100D  90                nop
+0000100E  90                nop
+0000100F  90                nop
+00001010  90                nop
+00001011  90                nop
+00001012  90                nop
+00001013  90                nop
+00001014  90                nop
+00001015  90                nop
+00001016  90                nop
+00001017  90                nop
+00001018  90                nop
+00001019  90                nop
+0000101A  90                nop
+0000101B  90                nop
+0000101C  90                nop
+0000101D  90                nop
+0000101E  90                nop
+0000101F  90                nop
+00001020  90                nop
+00001021  90                nop
+00001022  90                nop
+00001023  90                nop
+00001024  90                nop
+00001025  90                nop
+00001026  90                nop
+00001027  90                nop
+00001028  90                nop
+00001029  90                nop
+0000102A  90                nop
+0000102B  90                nop
+0000102C  90                nop
+0000102D  90                nop
+0000102E  90                nop
+0000102F  90                nop
+00001030  90                nop
+00001031  90                nop
+00001032  90                nop
+00001033  90                nop
+00001034  90                nop
+00001035  90                nop
+00001036  90                nop
+00001037  90                nop
+00001038  90                nop
+00001039  90                nop
+0000103A  90                nop
+0000103B  90                nop
+0000103C  90                nop
+0000103D  90                nop
+0000103E  90                nop
+0000103F  90                nop
+00001040  90                nop
+00001041  90                nop
+00001042  90                nop
+00001043  90                nop
+00001044  90                nop
+00001045  90                nop
+00001046  90                nop
+00001047  90                nop
+00001048  90                nop
+00001049  90                nop
+0000104A  90                nop
+0000104B  90                nop
+0000104C  90                nop
+0000104D  90                nop
+0000104E  90                nop
+0000104F  90                nop
+00001050  90                nop
+00001051  90                nop
+00001052  90                nop
+00001053  90                nop
+00001054  90                nop
+00001055  90                nop
+00001056  90                nop
+00001057  90                nop
+00001058  90                nop
+00001059  90                nop
+0000105A  90                nop
+0000105B  90                nop
+0000105C  90                nop
+0000105D  90                nop
+0000105E  90                nop
+0000105F  90                nop
+00001060  90                nop
+00001061  90                nop
+00001062  90                nop
+00001063  90                nop
+00001064  90                nop
+00001065  90                nop
+00001066  90                nop
+00001067  90                nop
+00001068  90                nop
+00001069  90                nop
+0000106A  90                nop
+0000106B  90                nop
+0000106C  90                nop
+0000106D  90                nop
+0000106E  90                nop
+0000106F  90                nop
+00001070  90                nop
+00001071  90                nop
+00001072  90                nop
+00001073  90                nop
+00001074  90                nop
+00001075  90                nop
+00001076  90                nop
+00001077  90                nop
+00001078  90                nop
+00001079  90                nop
+0000107A  90                nop
+0000107B  90                nop
+0000107C  90                nop
+0000107D  90                nop
+0000107E  90                nop
+0000107F  90                nop
+00001080  90                nop
+00001081  90                nop
+00001082  90                nop
+00001083  90                nop
+00001084  90                nop
+00001085  90                nop
+00001086  90                nop
+00001087  90                nop
+00001088  90                nop
+00001089  90                nop
+0000108A  90                nop
+0000108B  90                nop
+0000108C  90                nop
+0000108D  90                nop
+0000108E  90                nop
+0000108F  90                nop
+00001090  90                nop
+00001091  90                nop
+00001092  90                nop
+00001093  90                nop
+00001094  90                nop
+00001095  90                nop
+00001096  90                nop
+00001097  90                nop
+00001098  90                nop
+00001099  90                nop
+0000109A  90                nop
+0000109B  90                nop
+0000109C  90                nop
+0000109D  90                nop
+0000109E  90                nop
+0000109F  90                nop
+000010A0  90                nop
+000010A1  90                nop
+000010A2  90                nop
+000010A3  90                nop
+000010A4  90                nop
+000010A5  90                nop
+000010A6  90                nop
+000010A7  90                nop
+000010A8  90                nop
+000010A9  90                nop
+000010AA  90                nop
+000010AB  90                nop
+000010AC  90                nop
+000010AD  90                nop
+000010AE  90                nop
+000010AF  90                nop
+000010B0  90                nop
+000010B1  90                nop
+000010B2  90                nop
+000010B3  90                nop
+000010B4  90                nop
+000010B5  90                nop
+000010B6  90                nop
+000010B7  90                nop
+000010B8  90                nop
+000010B9  90                nop
+000010BA  90                nop
+000010BB  90                nop
+000010BC  90                nop
+000010BD  90                nop
+000010BE  90                nop
+000010BF  90                nop
+000010C0  90                nop
+000010C1  90                nop
+000010C2  90                nop
+000010C3  90                nop
+000010C4  90                nop
+000010C5  90                nop
+000010C6  90                nop
+000010C7  90                nop
+000010C8  90                nop
+000010C9  90                nop
+000010CA  90                nop
+000010CB  90                nop
+000010CC  90                nop
+000010CD  90                nop
+000010CE  90                nop
+000010CF  90                nop
+000010D0  90                nop
+000010D1  90                nop
+000010D2  90                nop
+000010D3  90                nop
+000010D4  90                nop
+000010D5  90                nop
+000010D6  90                nop
+000010D7  90                nop
+000010D8  90                nop
+000010D9  90                nop
+000010DA  90                nop
+000010DB  90                nop
+000010DC  90                nop
+000010DD  90                nop
+000010DE  90                nop
+000010DF  90                nop
+000010E0  90                nop
+000010E1  90                nop
+000010E2  90                nop
+000010E3  90                nop
+000010E4  90                nop
+000010E5  90                nop
+000010E6  90                nop
+000010E7  90                nop
+000010E8  90                nop
+000010E9  90                nop
+000010EA  90                nop
+000010EB  90                nop
+000010EC  90                nop
+000010ED  90                nop
+000010EE  90                nop
+000010EF  90                nop
+000010F0  90                nop
+000010F1  90                nop
+000010F2  90                nop
+000010F3  90                nop
+000010F4  90                nop
+000010F5  90                nop
+000010F6  90                nop
+000010F7  90                nop
+000010F8  90                nop
+000010F9  90                nop
+000010FA  90                nop
+000010FB  90                nop
+000010FC  90                nop
+000010FD  90                nop
+000010FE  90                nop
+000010FF  90                nop
+00001100  90                nop
+00001101  90                nop
+00001102  90                nop
+00001103  90                nop
+00001104  90                nop
+00001105  90                nop
+00001106  90                nop
+00001107  90                nop
+00001108  90                nop
+00001109  90                nop
+0000110A  90                nop
+0000110B  90                nop
+0000110C  90                nop
+0000110D  90                nop
+0000110E  90                nop
+0000110F  90                nop
+00001110  90                nop
+00001111  90                nop
+00001112  90                nop
+00001113  90                nop
+00001114  90                nop
+00001115  90                nop
+00001116  90                nop
+00001117  90                nop
+00001118  90                nop
+00001119  90                nop
+0000111A  90                nop
+0000111B  90                nop
+0000111C  90                nop
+0000111D  90                nop
+0000111E  90                nop
+0000111F  90                nop
+00001120  90                nop
+00001121  90                nop
+00001122  90                nop
+00001123  90                nop
+00001124  90                nop
+00001125  90                nop
+00001126  90                nop
+00001127  90                nop
+00001128  90                nop
+00001129  90                nop
+0000112A  90                nop
+0000112B  90                nop
+0000112C  90                nop
+0000112D  90                nop
+0000112E  90                nop
+0000112F  90                nop
+00001130  90                nop
+00001131  90                nop
+00001132  90                nop
+00001133  90                nop
+00001134  90                nop
+00001135  90                nop
+00001136  90                nop
+00001137  90                nop
+00001138  90                nop
+00001139  90                nop
+0000113A  90                nop
+0000113B  90                nop
+0000113C  90                nop
+0000113D  90                nop
+0000113E  90                nop
+0000113F  90                nop
+00001140  90                nop
+00001141  90                nop
+00001142  90                nop
+00001143  90                nop
+00001144  90                nop
+00001145  90                nop
+00001146  90                nop
+00001147  90                nop
+00001148  90                nop
+00001149  90                nop
+0000114A  90                nop
+0000114B  90                nop
+0000114C  90                nop
+0000114D  90                nop
+0000114E  90                nop
+0000114F  90                nop
+00001150  90                nop
+00001151  90                nop
+00001152  90                nop
+00001153  90                nop
+00001154  90                nop
+00001155  90                nop
+00001156  90                nop
+00001157  90                nop
+00001158  90                nop
+00001159  90                nop
+0000115A  90                nop
+0000115B  90                nop
+0000115C  90                nop
+0000115D  90                nop
+0000115E  90                nop
+0000115F  90                nop
+00001160  90                nop
+00001161  90                nop
+00001162  90                nop
+00001163  90                nop
+00001164  90                nop
+00001165  90                nop
+00001166  90                nop
+00001167  90                nop
+00001168  90                nop
+00001169  90                nop
+0000116A  90                nop
+0000116B  90                nop
+0000116C  90                nop
+0000116D  90                nop
+0000116E  90                nop
+0000116F  90                nop
+00001170  90                nop
+00001171  90                nop
+00001172  90                nop
+00001173  90                nop
+00001174  90                nop
+00001175  90                nop
+00001176  90                nop
+00001177  90                nop
+00001178  90                nop
+00001179  90                nop
+0000117A  90                nop
+0000117B  90                nop
+0000117C  90                nop
+0000117D  90                nop
+0000117E  90                nop
+0000117F  90                nop
+00001180  90                nop
+00001181  90                nop
+00001182  90                nop
+00001183  90                nop
+00001184  90                nop
+00001185  90                nop
+00001186  90                nop
+00001187  90                nop
+00001188  90                nop
+00001189  90                nop
+0000118A  90                nop
+0000118B  90                nop
+0000118C  90                nop
+0000118D  90                nop
+0000118E  90                nop
+0000118F  90                nop
+00001190  90                nop
+00001191  90                nop
+00001192  90                nop
+00001193  90                nop
+00001194  90                nop
+00001195  90                nop
+00001196  90                nop
+00001197  90                nop
+00001198  90                nop
+00001199  90                nop
+0000119A  90                nop
+0000119B  90                nop
+0000119C  90                nop
+0000119D  90                nop
+0000119E  90                nop
+0000119F  90                nop
+000011A0  90                nop
+000011A1  90                nop
+000011A2  90                nop
+000011A3  90                nop
+000011A4  90                nop
+000011A5  90                nop
+000011A6  90                nop
+000011A7  90                nop
+000011A8  90                nop
+000011A9  90                nop
+000011AA  90                nop
+000011AB  90                nop
+000011AC  90                nop
+000011AD  90                nop
+000011AE  90                nop
+000011AF  90                nop
+000011B0  90                nop
+000011B1  90                nop
+000011B2  90                nop
+000011B3  90                nop
+000011B4  90                nop
+000011B5  90                nop
+000011B6  90                nop
+000011B7  90                nop
+000011B8  90                nop
+000011B9  90                nop
+000011BA  90                nop
+000011BB  90                nop
+000011BC  90                nop
+000011BD  90                nop
+000011BE  90                nop
+000011BF  90                nop
+000011C0  90                nop
+000011C1  90                nop
+000011C2  90                nop
+000011C3  90                nop
+000011C4  90                nop
+000011C5  90                nop
+000011C6  90                nop
+000011C7  90                nop
+000011C8  90                nop
+000011C9  90                nop
+000011CA  90                nop
+000011CB  90                nop
+000011CC  90                nop
+000011CD  90                nop
+000011CE  90                nop
+000011CF  90                nop
+000011D0  90                nop
+000011D1  90                nop
+000011D2  90                nop
+000011D3  90                nop
+000011D4  90                nop
+000011D5  90                nop
+000011D6  90                nop
+000011D7  90                nop
+000011D8  90                nop
+000011D9  90                nop
+000011DA  90                nop
+000011DB  90                nop
+000011DC  90                nop
+000011DD  90                nop
+000011DE  90                nop
+000011DF  90                nop
+000011E0  90                nop
+000011E1  90                nop
+000011E2  90                nop
+000011E3  90                nop
+000011E4  90                nop
+000011E5  90                nop
+000011E6  90                nop
+000011E7  90                nop
+000011E8  90                nop
+000011E9  90                nop
+000011EA  90                nop
+000011EB  90                nop
+000011EC  90                nop
+000011ED  90                nop
+000011EE  90                nop
+000011EF  90                nop
+000011F0  90                nop
+000011F1  90                nop
+000011F2  90                nop
+000011F3  90                nop
+000011F4  90                nop
+000011F5  90                nop
+000011F6  90                nop
+000011F7  90                nop
+000011F8  90                nop
+000011F9  90                nop
+000011FA  90                nop
+000011FB  90                nop
+000011FC  90                nop
+000011FD  90                nop
+000011FE  90                nop
+000011FF  90                nop
+00001200  90                nop
+00001201  90                nop
+00001202  90                nop
+00001203  90                nop
+00001204  90                nop
+00001205  90                nop
+00001206  90                nop
+00001207  90                nop
+00001208  90                nop
+00001209  90                nop
+0000120A  90                nop
+0000120B  90                nop
+0000120C  90                nop
+0000120D  90                nop
+0000120E  90                nop
+0000120F  90                nop
+00001210  90                nop
+00001211  90                nop
+00001212  90                nop
+00001213  90                nop
+00001214  90                nop
+00001215  90                nop
+00001216  90                nop
+00001217  90                nop
+00001218  90                nop
+00001219  90                nop
+0000121A  90                nop
+0000121B  90                nop
+0000121C  90                nop
+0000121D  90                nop
+0000121E  90                nop
+0000121F  90                nop
+00001220  90                nop
+00001221  90                nop
+00001222  90                nop
+00001223  90                nop
+00001224  90                nop
+00001225  90                nop
+00001226  90                nop
+00001227  90                nop
+00001228  90                nop
+00001229  90                nop
+0000122A  90                nop
+0000122B  90                nop
+0000122C  90                nop
+0000122D  90                nop
+0000122E  90                nop
+0000122F  90                nop
+00001230  90                nop
+00001231  90                nop
+00001232  90                nop
+00001233  90                nop
+00001234  90                nop
+00001235  90                nop
+00001236  90                nop
+00001237  90                nop
+00001238  90                nop
+00001239  90                nop
+0000123A  90                nop
+0000123B  90                nop
+0000123C  90                nop
+0000123D  90                nop
+0000123E  90                nop
+0000123F  90                nop
+00001240  90                nop
+00001241  90                nop
+00001242  90                nop
+00001243  90                nop
+00001244  90                nop
+00001245  90                nop
+00001246  90                nop
+00001247  90                nop
+00001248  90                nop
+00001249  90                nop
+0000124A  90                nop
+0000124B  90                nop
+0000124C  90                nop
+0000124D  90                nop
+0000124E  90                nop
+0000124F  90                nop
+00001250  90                nop
+00001251  90                nop
+00001252  90                nop
+00001253  90                nop
+00001254  90                nop
+00001255  90                nop
+00001256  90                nop
+00001257  90                nop
+00001258  90                nop
+00001259  90                nop
+0000125A  90                nop
+0000125B  90                nop
+0000125C  90                nop
+0000125D  90                nop
+0000125E  90                nop
+0000125F  90                nop
+00001260  90                nop
+00001261  90                nop
+00001262  90                nop
+00001263  90                nop
+00001264  90                nop
+00001265  90                nop
+00001266  90                nop
+00001267  90                nop
+00001268  90                nop
+00001269  90                nop
+0000126A  90                nop
+0000126B  90                nop
+0000126C  90                nop
+0000126D  90                nop
+0000126E  90                nop
+0000126F  90                nop
+00001270  90                nop
+00001271  90                nop
+00001272  90                nop
+00001273  90                nop
+00001274  90                nop
+00001275  90                nop
+00001276  90                nop
+00001277  90                nop
+00001278  90                nop
+00001279  90                nop
+0000127A  90                nop
+0000127B  90                nop
+0000127C  90                nop
+0000127D  90                nop
+0000127E  90                nop
+0000127F  90                nop
+00001280  90                nop
+00001281  90                nop
+00001282  90                nop
+00001283  90                nop
+00001284  90                nop
+00001285  90                nop
+00001286  90                nop
+00001287  90                nop
+00001288  90                nop
+00001289  90                nop
+0000128A  90                nop
+0000128B  90                nop
+0000128C  90                nop
+0000128D  90                nop
+0000128E  90                nop
+0000128F  90                nop
+00001290  90                nop
+00001291  90                nop
+00001292  90                nop
+00001293  90                nop
+00001294  90                nop
+00001295  90                nop
+00001296  90                nop
+00001297  90                nop
+00001298  90                nop
+00001299  90                nop
+0000129A  90                nop
+0000129B  90                nop
+0000129C  90                nop
+0000129D  90                nop
+0000129E  90                nop
+0000129F  90                nop
+000012A0  90                nop
+000012A1  90                nop
+000012A2  90                nop
+000012A3  90                nop
+000012A4  90                nop
+000012A5  90                nop
+000012A6  90                nop
+000012A7  90                nop
+000012A8  90                nop
+000012A9  90                nop
+000012AA  90                nop
+000012AB  90                nop
+000012AC  90                nop
+000012AD  90                nop
+000012AE  90                nop
+000012AF  90                nop
+000012B0  90                nop
+000012B1  90                nop
+000012B2  90                nop
+000012B3  90                nop
+000012B4  90                nop
+000012B5  90                nop
+000012B6  90                nop
+000012B7  90                nop
+000012B8  90                nop
+000012B9  90                nop
+000012BA  90                nop
+000012BB  90                nop
+000012BC  90                nop
+000012BD  90                nop
+000012BE  90                nop
+000012BF  90                nop
+000012C0  90                nop
+000012C1  90                nop
+000012C2  90                nop
+000012C3  90                nop
+000012C4  90                nop
+000012C5  90                nop
+000012C6  90                nop
+000012C7  90                nop
+000012C8  90                nop
+000012C9  90                nop
+000012CA  90                nop
+000012CB  90                nop
+000012CC  90                nop
+000012CD  90                nop
+000012CE  90                nop
+000012CF  90                nop
+000012D0  90                nop
+000012D1  90                nop
+000012D2  90                nop
+000012D3  90                nop
+000012D4  90                nop
+000012D5  90                nop
+000012D6  90                nop
+000012D7  90                nop
+000012D8  90                nop
+000012D9  90                nop
+000012DA  90                nop
+000012DB  90                nop
+000012DC  90                nop
+000012DD  90                nop
+000012DE  90                nop
+000012DF  90                nop
+000012E0  90                nop
+000012E1  90                nop
+000012E2  90                nop
+000012E3  90                nop
+000012E4  90                nop
+000012E5  90                nop
+000012E6  90                nop
+000012E7  90                nop
+000012E8  90                nop
+000012E9  90                nop
+000012EA  90                nop
+000012EB  90                nop
+000012EC  90                nop
+000012ED  90                nop
+000012EE  90                nop
+000012EF  90                nop
+000012F0  90                nop
+000012F1  90                nop
+000012F2  90                nop
+000012F3  90                nop
+000012F4  90                nop
+000012F5  90                nop
+000012F6  90                nop
+000012F7  90                nop
+000012F8  90                nop
+000012F9  90                nop
+000012FA  90                nop
+000012FB  90                nop
+000012FC  90                nop
+000012FD  90                nop
+000012FE  90                nop
+000012FF  90                nop
+00001300  90                nop
+00001301  90                nop
+00001302  90                nop
+00001303  90                nop
+00001304  90                nop
+00001305  90                nop
+00001306  90                nop
+00001307  90                nop
+00001308  90                nop
+00001309  90                nop
+0000130A  90                nop
+0000130B  90                nop
+0000130C  90                nop
+0000130D  90                nop
+0000130E  90                nop
+0000130F  90                nop
+00001310  90                nop
+00001311  90                nop
+00001312  90                nop
+00001313  90                nop
+00001314  90                nop
+00001315  90                nop
+00001316  90                nop
+00001317  90                nop
+00001318  90                nop
+00001319  90                nop
+0000131A  90                nop
+0000131B  90                nop
+0000131C  90                nop
+0000131D  90                nop
+0000131E  90                nop
+0000131F  90                nop
+00001320  90                nop
+00001321  90                nop
+00001322  90                nop
+00001323  90                nop
+00001324  90                nop
+00001325  90                nop
+00001326  90                nop
+00001327  90                nop
+00001328  90                nop
+00001329  90                nop
+0000132A  90                nop
+0000132B  90                nop
+0000132C  B409              mov ah,0x9
+0000132E  BA3714            mov dx,0x1437
+00001331  CD21              int 0x21
+00001333  B44C              mov ah,0x4c
+00001335  CD21              int 0x21
+00001337  0D0A0D            or ax,0xd0a
+0000133A  54                push sp
+0000133B  686973            push word 0x7369
+0000133E  206973            and [bx+di+0x73],ch
+00001341  20616E            and [bx+di+0x6e],ah
+00001344  204156            and [bx+di+0x56],al
+00001347  49                dec cx
+00001348  44                inc sp
+00001349  207465            and [si+0x65],dh
+0000134C  7374              jnc 0x13c2
+0000134E  207365            and [bp+di+0x65],dh
+00001351  7420              jz 0x1373
+00001353  353030            xor ax,0x3030
+00001356  3020              xor [bx+si],ah
+00001358  627974            bound di,[bx+di+0x74]
+0000135B  6520434F          and [gs:bp+di+0x4f],al
+0000135F  4D                dec bp
+00001360  20676F            and [bx+0x6f],ah
+00001363  61                popa
+00001364  7420              jz 0x1386
+00001366  2D2053            sub ax,0x5320
+00001369  6E                outsb
+0000136A  6F                outsw
+0000136B  7272              jc 0x13df
+0000136D  65204661          and [gs:bp+0x61],al
+00001371  6765726C          gs jc 0x13e1
+00001375  61                popa
+00001376  6E                outsb
+00001377  642031            and [fs:bx+di],dh
+0000137A  3939              cmp [bx+di],di
+0000137C  37                aaa
+0000137D  0A0D              or cl,[di]
+0000137F  2446              and al,0x46
+00001381  49                dec cx
+00001382  4C                dec sp
+00001383  45                inc bp
+00001384  20454E            and [di+0x4e],al
+00001387  44                inc sp
+00001388  90                nop
+00001389  90                nop
+0000138A  90                nop
+0000138B  90                nop
+0000138C  90                nop
+0000138D  90                nop
+0000138E  90                nop
+0000138F  90                nop
+00001390  90                nop
+00001391  90                nop
+00001392  90                nop
+00001393  90                nop
+00001394  90                nop
+00001395  90                nop
+00001396  90                nop
+00001397  90                nop
+00001398  90                nop
+00001399  90                nop
+0000139A  90                nop
+0000139B  90                nop
+0000139C  90                nop
+0000139D  90                nop
+0000139E  90                nop
+0000139F  90                nop
+000013A0  90                nop
+000013A1  90                nop
+000013A2  90                nop
+000013A3  90                nop
+000013A4  90                nop
+000013A5  90                nop
+000013A6  90                nop
+000013A7  90                nop
+000013A8  90                nop
+000013A9  90                nop
+000013AA  90                nop
+000013AB  90                nop
+000013AC  90                nop
+000013AD  90                nop
+000013AE  90                nop
+000013AF  90                nop
+000013B0  90                nop
+000013B1  90                nop
+000013B2  90                nop
+000013B3  90                nop
+000013B4  90                nop
+000013B5  90                nop
+000013B6  90                nop
+000013B7  90                nop
+000013B8  90                nop
+000013B9  90                nop
+000013BA  90                nop
+000013BB  90                nop
+000013BC  90                nop
+000013BD  90                nop
+000013BE  90                nop
+000013BF  90                nop
+000013C0  90                nop
+000013C1  90                nop
+000013C2  90                nop
+000013C3  90                nop
+000013C4  90                nop
+000013C5  90                nop
+000013C6  90                nop
+000013C7  90                nop
+000013C8  90                nop
+000013C9  90                nop
+000013CA  90                nop
+000013CB  90                nop
+000013CC  90                nop
+000013CD  90                nop
+000013CE  90                nop
+000013CF  90                nop
+000013D0  90                nop
+000013D1  90                nop
+000013D2  90                nop
+000013D3  90                nop
+000013D4  90                nop
+000013D5  90                nop
+000013D6  90                nop
+000013D7  90                nop
+000013D8  90                nop
+000013D9  90                nop
+000013DA  90                nop
+000013DB  90                nop
+000013DC  90                nop
+000013DD  90                nop
+000013DE  90                nop
+000013DF  90                nop
+000013E0  90                nop
+000013E1  90                nop
+000013E2  90                nop
+000013E3  90                nop
+000013E4  90                nop
+000013E5  90                nop
+000013E6  90                nop
+000013E7  90                nop
+000013E8  90                nop
+000013E9  90                nop
+000013EA  90                nop
+000013EB  90                nop
+000013EC  90                nop
+000013ED  90                nop
+000013EE  90                nop
+000013EF  90                nop
+000013F0  90                nop
+000013F1  90                nop
+000013F2  90                nop
+000013F3  90                nop
+000013F4  90                nop
+000013F5  90                nop
+000013F6  90                nop
+000013F7  90                nop
+000013F8  90                nop
+000013F9  90                nop
+000013FA  90                nop
+000013FB  90                nop
+000013FC  90                nop
+000013FD  90                nop
+000013FE  90                nop
+000013FF  90                nop
+00001400  90                nop
+00001401  90                nop
+00001402  90                nop
+00001403  90                nop
+00001404  90                nop
+00001405  90                nop
+00001406  90                nop
+00001407  90                nop
+00001408  90                nop
+00001409  90                nop
+0000140A  90                nop
+0000140B  90                nop
+0000140C  90                nop
+0000140D  90                nop
+0000140E  90                nop
+0000140F  90                nop
+00001410  90                nop
+00001411  90                nop
+00001412  90                nop
+00001413  90                nop
+00001414  90                nop
+00001415  90                nop
+00001416  90                nop
+00001417  90                nop
+00001418  90                nop
+00001419  90                nop
+0000141A  90                nop
+0000141B  90                nop
+0000141C  90                nop
+0000141D  90                nop
+0000141E  90                nop
+0000141F  90                nop
+00001420  90                nop
+00001421  90                nop
+00001422  90                nop
+00001423  90                nop
+00001424  90                nop
+00001425  90                nop
+00001426  90                nop
+00001427  90                nop
+00001428  90                nop
+00001429  90                nop
+0000142A  90                nop
+0000142B  90                nop
+0000142C  90                nop
+0000142D  90                nop
+0000142E  90                nop
+0000142F  90                nop
+00001430  90                nop
+00001431  90                nop
+00001432  90                nop
+00001433  90                nop
+00001434  90                nop
+00001435  90                nop
+00001436  90                nop
+00001437  90                nop
+00001438  90                nop
+00001439  90                nop
+0000143A  90                nop
+0000143B  90                nop
+0000143C  90                nop
+0000143D  90                nop
+0000143E  90                nop
+0000143F  90                nop
+00001440  90                nop
+00001441  90                nop
+00001442  90                nop
+00001443  90                nop
+00001444  90                nop
+00001445  90                nop
+00001446  90                nop
+00001447  90                nop
+00001448  90                nop
+00001449  90                nop
+0000144A  90                nop
+0000144B  90                nop
+0000144C  90                nop
+0000144D  90                nop
+0000144E  90                nop
+0000144F  90                nop
+00001450  90                nop
+00001451  90                nop
+00001452  90                nop
+00001453  90                nop
+00001454  90                nop
+00001455  90                nop
+00001456  90                nop
+00001457  90                nop
+00001458  90                nop
+00001459  90                nop
+0000145A  90                nop
+0000145B  90                nop
+0000145C  90                nop
+0000145D  90                nop
+0000145E  90                nop
+0000145F  90                nop
+00001460  90                nop
+00001461  90                nop
+00001462  90                nop
+00001463  90                nop
+00001464  90                nop
+00001465  90                nop
+00001466  90                nop
+00001467  90                nop
+00001468  90                nop
+00001469  90                nop
+0000146A  90                nop
+0000146B  90                nop
+0000146C  90                nop
+0000146D  90                nop
+0000146E  90                nop
+0000146F  90                nop
+00001470  90                nop
+00001471  90                nop
+00001472  90                nop
+00001473  90                nop
+00001474  90                nop
+00001475  90                nop
+00001476  90                nop
+00001477  90                nop
+00001478  90                nop
+00001479  90                nop
+0000147A  90                nop
+0000147B  90                nop
+0000147C  90                nop
+0000147D  90                nop
+0000147E  90                nop
+0000147F  90                nop
+00001480  90                nop
+00001481  90                nop
+00001482  90                nop
+00001483  90                nop
+00001484  90                nop
+00001485  90                nop
+00001486  90                nop
+00001487  90                nop
+00001488  90                nop
+00001489  90                nop
+0000148A  90                nop
+0000148B  90                nop
+0000148C  90                nop
+0000148D  90                nop
+0000148E  90                nop
+0000148F  90                nop
+00001490  90                nop
+00001491  90                nop
+00001492  90                nop
+00001493  90                nop
+00001494  90                nop
+00001495  90                nop
+00001496  90                nop
+00001497  90                nop
+00001498  90                nop
+00001499  90                nop
+0000149A  90                nop
+0000149B  90                nop
+0000149C  90                nop
+0000149D  90                nop
+0000149E  90                nop
+0000149F  90                nop
+000014A0  90                nop
+000014A1  90                nop
+000014A2  90                nop
+000014A3  90                nop
+000014A4  90                nop
+000014A5  90                nop
+000014A6  90                nop
+000014A7  90                nop
+000014A8  90                nop
+000014A9  90                nop
+000014AA  90                nop
+000014AB  90                nop
+000014AC  90                nop
+000014AD  90                nop
+000014AE  90                nop
+000014AF  90                nop
+000014B0  90                nop
+000014B1  90                nop
+000014B2  90                nop
+000014B3  90                nop
+000014B4  90                nop
+000014B5  90                nop
+000014B6  90                nop
+000014B7  90                nop
+000014B8  90                nop
+000014B9  90                nop
+000014BA  90                nop
+000014BB  90                nop
+000014BC  90                nop
+000014BD  90                nop
+000014BE  90                nop
+000014BF  90                nop
+000014C0  90                nop
+000014C1  90                nop
+000014C2  90                nop
+000014C3  90                nop
+000014C4  90                nop
+000014C5  90                nop
+000014C6  90                nop
+000014C7  90                nop
+000014C8  90                nop
+000014C9  90                nop
+000014CA  90                nop
+000014CB  90                nop
+000014CC  90                nop
+000014CD  90                nop
+000014CE  90                nop
+000014CF  90                nop
+000014D0  90                nop
+000014D1  90                nop
+000014D2  90                nop
+000014D3  90                nop
+000014D4  90                nop
+000014D5  90                nop
+000014D6  90                nop
+000014D7  90                nop
+000014D8  90                nop
+000014D9  90                nop
+000014DA  90                nop
+000014DB  90                nop
+000014DC  90                nop
+000014DD  90                nop
+000014DE  90                nop
+000014DF  90                nop
+000014E0  90                nop
+000014E1  90                nop
+000014E2  90                nop
+000014E3  90                nop
+000014E4  90                nop
+000014E5  90                nop
+000014E6  90                nop
+000014E7  90                nop
+000014E8  90                nop
+000014E9  90                nop
+000014EA  90                nop
+000014EB  90                nop
+000014EC  90                nop
+000014ED  90                nop
+000014EE  90                nop
+000014EF  90                nop
+000014F0  90                nop
+000014F1  90                nop
+000014F2  90                nop
+000014F3  90                nop
+000014F4  90                nop
+000014F5  90                nop
+000014F6  90                nop
+000014F7  90                nop
+000014F8  90                nop
+000014F9  90                nop
+000014FA  90                nop
+000014FB  90                nop
+000014FC  90                nop
+000014FD  90                nop
+000014FE  90                nop
+000014FF  90                nop
+00001500  90                nop
+00001501  90                nop
+00001502  90                nop
+00001503  90                nop
+00001504  90                nop
+00001505  90                nop
+00001506  90                nop
+00001507  90                nop
+00001508  90                nop
+00001509  90                nop
+0000150A  90                nop
+0000150B  90                nop
+0000150C  90                nop
+0000150D  90                nop
+0000150E  90                nop
+0000150F  90                nop
+00001510  90                nop
+00001511  90                nop
+00001512  90                nop
+00001513  90                nop
+00001514  90                nop
+00001515  90                nop
+00001516  90                nop
+00001517  90                nop
+00001518  90                nop
+00001519  90                nop
+0000151A  90                nop
+0000151B  90                nop
+0000151C  90                nop
+0000151D  90                nop
+0000151E  90                nop
+0000151F  90                nop
+00001520  90                nop
+00001521  90                nop
+00001522  90                nop
+00001523  90                nop
+00001524  90                nop
+00001525  90                nop
+00001526  90                nop
+00001527  90                nop
+00001528  90                nop
+00001529  90                nop
+0000152A  90                nop
+0000152B  90                nop
+0000152C  90                nop
+0000152D  90                nop
+0000152E  90                nop
+0000152F  90                nop
+00001530  90                nop
+00001531  90                nop
+00001532  90                nop
+00001533  90                nop
+00001534  90                nop
+00001535  90                nop
+00001536  90                nop
+00001537  90                nop
+00001538  90                nop
+00001539  90                nop
+0000153A  90                nop
+0000153B  90                nop
+0000153C  90                nop
+0000153D  90                nop
+0000153E  90                nop
+0000153F  90                nop
+00001540  90                nop
+00001541  90                nop
+00001542  90                nop
+00001543  90                nop
+00001544  90                nop
+00001545  90                nop
+00001546  90                nop
+00001547  90                nop
+00001548  90                nop
+00001549  90                nop
+0000154A  90                nop
+0000154B  90                nop
+0000154C  90                nop
+0000154D  90                nop
+0000154E  90                nop
+0000154F  90                nop
+00001550  90                nop
+00001551  90                nop
+00001552  90                nop
+00001553  90                nop
+00001554  90                nop
+00001555  90                nop
+00001556  90                nop
+00001557  90                nop
+00001558  90                nop
+00001559  90                nop
+0000155A  90                nop
+0000155B  90                nop
+0000155C  90                nop
+0000155D  90                nop
+0000155E  90                nop
+0000155F  90                nop
+00001560  90                nop
+00001561  90                nop
+00001562  90                nop
+00001563  90                nop
+00001564  90                nop
+00001565  90                nop
+00001566  90                nop
+00001567  90                nop
+00001568  90                nop
+00001569  90                nop
+0000156A  90                nop
+0000156B  90                nop
+0000156C  90                nop
+0000156D  90                nop
+0000156E  90                nop
+0000156F  90                nop
+00001570  90                nop
+00001571  90                nop
+00001572  90                nop
+00001573  90                nop
+00001574  90                nop
+00001575  90                nop
+00001576  90                nop
+00001577  90                nop
+00001578  90                nop
+00001579  90                nop
+0000157A  90                nop
+0000157B  90                nop
+0000157C  90                nop
+0000157D  90                nop
+0000157E  90                nop
+0000157F  90                nop
+00001580  90                nop
+00001581  90                nop
+00001582  90                nop
+00001583  90                nop
+00001584  90                nop
+00001585  90                nop
+00001586  90                nop
+00001587  90                nop
+00001588  90                nop
+00001589  90                nop
+0000158A  90                nop
+0000158B  90                nop
+0000158C  90                nop
+0000158D  90                nop
+0000158E  90                nop
+0000158F  90                nop
+00001590  90                nop
+00001591  90                nop
+00001592  90                nop
+00001593  90                nop
+00001594  90                nop
+00001595  90                nop
+00001596  90                nop
+00001597  90                nop
+00001598  90                nop
+00001599  90                nop
+0000159A  90                nop
+0000159B  90                nop
+0000159C  90                nop
+0000159D  90                nop
+0000159E  90                nop
+0000159F  90                nop
+000015A0  90                nop
+000015A1  90                nop
+000015A2  90                nop
+000015A3  90                nop
+000015A4  90                nop
+000015A5  90                nop
+000015A6  90                nop
+000015A7  90                nop
+000015A8  90                nop
+000015A9  90                nop
+000015AA  90                nop
+000015AB  90                nop
+000015AC  90                nop
+000015AD  90                nop
+000015AE  90                nop
+000015AF  90                nop
+000015B0  90                nop
+000015B1  90                nop
+000015B2  90                nop
+000015B3  90                nop
+000015B4  90                nop
+000015B5  90                nop
+000015B6  90                nop
+000015B7  90                nop
+000015B8  90                nop
+000015B9  90                nop
+000015BA  90                nop
+000015BB  90                nop
+000015BC  90                nop
+000015BD  90                nop
+000015BE  90                nop
+000015BF  90                nop
+000015C0  90                nop
+000015C1  90                nop
+000015C2  90                nop
+000015C3  90                nop
+000015C4  90                nop
+000015C5  90                nop
+000015C6  90                nop
+000015C7  90                nop
+000015C8  90                nop
+000015C9  90                nop
+000015CA  90                nop
+000015CB  90                nop
+000015CC  90                nop
+000015CD  90                nop
+000015CE  90                nop
+000015CF  90                nop
+000015D0  90                nop
+000015D1  90                nop
+000015D2  90                nop
+000015D3  90                nop
+000015D4  90                nop
+000015D5  90                nop
+000015D6  90                nop
+000015D7  90                nop
+000015D8  90                nop
+000015D9  90                nop
+000015DA  90                nop
+000015DB  90                nop
+000015DC  90                nop
+000015DD  90                nop
+000015DE  90                nop
+000015DF  90                nop
+000015E0  90                nop
+000015E1  90                nop
+000015E2  90                nop
+000015E3  90                nop
+000015E4  90                nop
+000015E5  90                nop
+000015E6  90                nop
+000015E7  90                nop
+000015E8  90                nop
+000015E9  90                nop
+000015EA  90                nop
+000015EB  90                nop
+000015EC  90                nop
+000015ED  90                nop
+000015EE  90                nop
+000015EF  90                nop
+000015F0  90                nop
+000015F1  90                nop
+000015F2  90                nop
+000015F3  90                nop
+000015F4  90                nop
+000015F5  90                nop
+000015F6  90                nop
+000015F7  90                nop
+000015F8  90                nop
+000015F9  90                nop
+000015FA  90                nop
+000015FB  90                nop
+000015FC  90                nop
+000015FD  90                nop
+000015FE  90                nop
+000015FF  90                nop
+00001600  90                nop
+00001601  90                nop
+00001602  90                nop
+00001603  90                nop
+00001604  90                nop
+00001605  90                nop
+00001606  90                nop
+00001607  90                nop
+00001608  90                nop
+00001609  90                nop
+0000160A  90                nop
+0000160B  90                nop
+0000160C  90                nop
+0000160D  90                nop
+0000160E  90                nop
+0000160F  90                nop
+00001610  90                nop
+00001611  90                nop
+00001612  90                nop
+00001613  90                nop
+00001614  90                nop
+00001615  90                nop
+00001616  90                nop
+00001617  90                nop
+00001618  90                nop
+00001619  90                nop
+0000161A  90                nop
+0000161B  90                nop
+0000161C  90                nop
+0000161D  90                nop
+0000161E  90                nop
+0000161F  90                nop
+00001620  90                nop
+00001621  90                nop
+00001622  90                nop
+00001623  90                nop
+00001624  90                nop
+00001625  90                nop
+00001626  90                nop
+00001627  90                nop
+00001628  90                nop
+00001629  90                nop
+0000162A  90                nop
+0000162B  90                nop
+0000162C  90                nop
+0000162D  90                nop
+0000162E  90                nop
+0000162F  90                nop
+00001630  90                nop
+00001631  90                nop
+00001632  90                nop
+00001633  90                nop
+00001634  90                nop
+00001635  90                nop
+00001636  90                nop
+00001637  90                nop
+00001638  90                nop
+00001639  90                nop
+0000163A  90                nop
+0000163B  90                nop
+0000163C  90                nop
+0000163D  90                nop
+0000163E  90                nop
+0000163F  90                nop
+00001640  90                nop
+00001641  90                nop
+00001642  90                nop
+00001643  90                nop
+00001644  90                nop
+00001645  90                nop
+00001646  90                nop
+00001647  90                nop
+00001648  90                nop
+00001649  90                nop
+0000164A  90                nop
+0000164B  90                nop
+0000164C  90                nop
+0000164D  90                nop
+0000164E  90                nop
+0000164F  90                nop
+00001650  90                nop
+00001651  90                nop
+00001652  90                nop
+00001653  90                nop
+00001654  90                nop
+00001655  90                nop
+00001656  90                nop
+00001657  90                nop
+00001658  90                nop
+00001659  90                nop
+0000165A  90                nop
+0000165B  90                nop
+0000165C  90                nop
+0000165D  90                nop
+0000165E  90                nop
+0000165F  90                nop
+00001660  90                nop
+00001661  90                nop
+00001662  90                nop
+00001663  90                nop
+00001664  90                nop
+00001665  90                nop
+00001666  90                nop
+00001667  90                nop
+00001668  90                nop
+00001669  90                nop
+0000166A  90                nop
+0000166B  90                nop
+0000166C  90                nop
+0000166D  90                nop
+0000166E  90                nop
+0000166F  90                nop
+00001670  90                nop
+00001671  90                nop
+00001672  90                nop
+00001673  90                nop
+00001674  90                nop
+00001675  90                nop
+00001676  90                nop
+00001677  90                nop
+00001678  90                nop
+00001679  90                nop
+0000167A  90                nop
+0000167B  90                nop
+0000167C  90                nop
+0000167D  90                nop
+0000167E  90                nop
+0000167F  90                nop
+00001680  90                nop
+00001681  90                nop
+00001682  90                nop
+00001683  90                nop
+00001684  90                nop
+00001685  90                nop
+00001686  90                nop
+00001687  90                nop
+00001688  90                nop
+00001689  90                nop
+0000168A  90                nop
+0000168B  90                nop
+0000168C  90                nop
+0000168D  90                nop
+0000168E  90                nop
+0000168F  90                nop
+00001690  90                nop
+00001691  90                nop
+00001692  90                nop
+00001693  90                nop
+00001694  90                nop
+00001695  90                nop
+00001696  90                nop
+00001697  90                nop
+00001698  90                nop
+00001699  90                nop
+0000169A  90                nop
+0000169B  90                nop
+0000169C  90                nop
+0000169D  90                nop
+0000169E  90                nop
+0000169F  90                nop
+000016A0  90                nop
+000016A1  90                nop
+000016A2  90                nop
+000016A3  90                nop
+000016A4  90                nop
+000016A5  90                nop
+000016A6  90                nop
+000016A7  90                nop
+000016A8  90                nop
+000016A9  90                nop
+000016AA  90                nop
+000016AB  90                nop
+000016AC  90                nop
+000016AD  90                nop
+000016AE  90                nop
+000016AF  90                nop
+000016B0  90                nop
+000016B1  90                nop
+000016B2  90                nop
+000016B3  90                nop
+000016B4  90                nop
+000016B5  90                nop
+000016B6  90                nop
+000016B7  90                nop
+000016B8  90                nop
+000016B9  90                nop
+000016BA  90                nop
+000016BB  90                nop
+000016BC  90                nop
+000016BD  90                nop
+000016BE  90                nop
+000016BF  90                nop
+000016C0  90                nop
+000016C1  90                nop
+000016C2  90                nop
+000016C3  90                nop
+000016C4  90                nop
+000016C5  90                nop
+000016C6  90                nop
+000016C7  90                nop
+000016C8  90                nop
+000016C9  90                nop
+000016CA  90                nop
+000016CB  90                nop
+000016CC  90                nop
+000016CD  90                nop
+000016CE  90                nop
+000016CF  90                nop
+000016D0  90                nop
+000016D1  90                nop
+000016D2  90                nop
+000016D3  90                nop
+000016D4  90                nop
+000016D5  90                nop
+000016D6  90                nop
+000016D7  90                nop
+000016D8  90                nop
+000016D9  90                nop
+000016DA  90                nop
+000016DB  90                nop
+000016DC  90                nop
+000016DD  90                nop
+000016DE  90                nop
+000016DF  90                nop
+000016E0  90                nop
+000016E1  90                nop
+000016E2  90                nop
+000016E3  90                nop
+000016E4  90                nop
+000016E5  90                nop
+000016E6  90                nop
+000016E7  90                nop
+000016E8  90                nop
+000016E9  90                nop
+000016EA  90                nop
+000016EB  90                nop
+000016EC  90                nop
+000016ED  90                nop
+000016EE  90                nop
+000016EF  90                nop
+000016F0  90                nop
+000016F1  90                nop
+000016F2  90                nop
+000016F3  90                nop
+000016F4  90                nop
+000016F5  90                nop
+000016F6  90                nop
+000016F7  90                nop
+000016F8  90                nop
+000016F9  90                nop
+000016FA  90                nop
+000016FB  90                nop
+000016FC  90                nop
+000016FD  90                nop
+000016FE  90                nop
+000016FF  90                nop
+00001700  90                nop
+00001701  90                nop
+00001702  90                nop
+00001703  90                nop
+00001704  90                nop
+00001705  90                nop
+00001706  90                nop
+00001707  90                nop
+00001708  90                nop
+00001709  90                nop
+0000170A  90                nop
+0000170B  90                nop
+0000170C  90                nop
+0000170D  90                nop
+0000170E  90                nop
+0000170F  90                nop
+00001710  90                nop
+00001711  90                nop
+00001712  90                nop
+00001713  90                nop
+00001714  90                nop
+00001715  90                nop
+00001716  90                nop
+00001717  90                nop
+00001718  90                nop
+00001719  90                nop
+0000171A  90                nop
+0000171B  90                nop
+0000171C  90                nop
+0000171D  90                nop
+0000171E  90                nop
+0000171F  90                nop
+00001720  90                nop
+00001721  90                nop
+00001722  90                nop
+00001723  90                nop
+00001724  90                nop
+00001725  90                nop
+00001726  90                nop
+00001727  90                nop
+00001728  90                nop
+00001729  90                nop
+0000172A  90                nop
+0000172B  90                nop
+0000172C  90                nop
+0000172D  90                nop
+0000172E  90                nop
+0000172F  90                nop
+00001730  90                nop
+00001731  90                nop
+00001732  90                nop
+00001733  90                nop
+00001734  90                nop
+00001735  90                nop
+00001736  90                nop
+00001737  90                nop
+00001738  90                nop
+00001739  90                nop
+0000173A  90                nop
+0000173B  90                nop
+0000173C  90                nop
+0000173D  90                nop
+0000173E  90                nop
+0000173F  90                nop
+00001740  90                nop
+00001741  90                nop
+00001742  90                nop
+00001743  90                nop
+00001744  90                nop
+00001745  90                nop
+00001746  90                nop
+00001747  90                nop
+00001748  90                nop
+00001749  90                nop
+0000174A  90                nop
+0000174B  90                nop
+0000174C  90                nop
+0000174D  90                nop
+0000174E  90                nop
+0000174F  90                nop
+00001750  90                nop
+00001751  90                nop
+00001752  90                nop
+00001753  90                nop
+00001754  90                nop
+00001755  90                nop
+00001756  90                nop
+00001757  90                nop
+00001758  90                nop
+00001759  90                nop
+0000175A  90                nop
+0000175B  90                nop
+0000175C  90                nop
+0000175D  90                nop
+0000175E  90                nop
+0000175F  90                nop
+00001760  90                nop
+00001761  90                nop
+00001762  90                nop
+00001763  90                nop
+00001764  90                nop
+00001765  90                nop
+00001766  90                nop
+00001767  90                nop
+00001768  90                nop
+00001769  90                nop
+0000176A  90                nop
+0000176B  90                nop
+0000176C  90                nop
+0000176D  90                nop
+0000176E  90                nop
+0000176F  90                nop
+00001770  90                nop
+00001771  90                nop
+00001772  90                nop
+00001773  90                nop
+00001774  90                nop
+00001775  90                nop
+00001776  90                nop
+00001777  90                nop
+00001778  90                nop
+00001779  90                nop
+0000177A  90                nop
+0000177B  90                nop
+0000177C  90                nop
+0000177D  90                nop
+0000177E  90                nop
+0000177F  90                nop
+00001780  90                nop
+00001781  90                nop
+00001782  90                nop
+00001783  90                nop
+00001784  90                nop
+00001785  90                nop
+00001786  90                nop
+00001787  90                nop
+00001788  90                nop
+00001789  90                nop
+0000178A  90                nop
+0000178B  90                nop
+0000178C  90                nop
+0000178D  90                nop
+0000178E  90                nop
+0000178F  90                nop
+00001790  90                nop
+00001791  90                nop
+00001792  90                nop
+00001793  90                nop
+00001794  90                nop
+00001795  90                nop
+00001796  90                nop
+00001797  90                nop
+00001798  90                nop
+00001799  90                nop
+0000179A  90                nop
+0000179B  90                nop
+0000179C  90                nop
+0000179D  90                nop
+0000179E  90                nop
+0000179F  90                nop
+000017A0  90                nop
+000017A1  90                nop
+000017A2  90                nop
+000017A3  90                nop
+000017A4  90                nop
+000017A5  90                nop
+000017A6  90                nop
+000017A7  90                nop
+000017A8  90                nop
+000017A9  90                nop
+000017AA  90                nop
+000017AB  90                nop
+000017AC  90                nop
+000017AD  90                nop
+000017AE  90                nop
+000017AF  90                nop
+000017B0  90                nop
+000017B1  90                nop
+000017B2  90                nop
+000017B3  90                nop
+000017B4  90                nop
+000017B5  90                nop
+000017B6  90                nop
+000017B7  90                nop
+000017B8  90                nop
+000017B9  90                nop
+000017BA  90                nop
+000017BB  90                nop
+000017BC  90                nop
+000017BD  90                nop
+000017BE  90                nop
+000017BF  90                nop
+000017C0  90                nop
+000017C1  90                nop
+000017C2  90                nop
+000017C3  90                nop
+000017C4  90                nop
+000017C5  90                nop
+000017C6  90                nop
+000017C7  90                nop
+000017C8  90                nop
+000017C9  90                nop
+000017CA  90                nop
+000017CB  90                nop
+000017CC  90                nop
+000017CD  90                nop
+000017CE  90                nop
+000017CF  90                nop
+000017D0  90                nop
+000017D1  90                nop
+000017D2  90                nop
+000017D3  90                nop
+000017D4  90                nop
+000017D5  90                nop
+000017D6  90                nop
+000017D7  90                nop
+000017D8  90                nop
+000017D9  90                nop
+000017DA  90                nop
+000017DB  90                nop
+000017DC  90                nop
+000017DD  90                nop
+000017DE  90                nop
+000017DF  90                nop
+000017E0  90                nop
+000017E1  90                nop
+000017E2  90                nop
+000017E3  90                nop
+000017E4  90                nop
+000017E5  90                nop
+000017E6  90                nop
+000017E7  90                nop
+000017E8  90                nop
+000017E9  90                nop
+000017EA  90                nop
+000017EB  90                nop
+000017EC  90                nop
+000017ED  90                nop
+000017EE  90                nop
+000017EF  90                nop
+000017F0  90                nop
+000017F1  90                nop
+000017F2  90                nop
+000017F3  90                nop
+000017F4  90                nop
+000017F5  90                nop
+000017F6  90                nop
+000017F7  90                nop
+000017F8  90                nop
+000017F9  90                nop
+000017FA  90                nop
+000017FB  90                nop
+000017FC  90                nop
+000017FD  90                nop
+000017FE  90                nop
+000017FF  90                nop
+00001800  90                nop
+00001801  90                nop
+00001802  90                nop
+00001803  90                nop
+00001804  90                nop
+00001805  90                nop
+00001806  90                nop
+00001807  90                nop
+00001808  90                nop
+00001809  90                nop
+0000180A  90                nop
+0000180B  90                nop
+0000180C  90                nop
+0000180D  90                nop
+0000180E  90                nop
+0000180F  90                nop
+00001810  90                nop
+00001811  90                nop
+00001812  90                nop
+00001813  90                nop
+00001814  90                nop
+00001815  90                nop
+00001816  90                nop
+00001817  90                nop
+00001818  90                nop
+00001819  90                nop
+0000181A  90                nop
+0000181B  90                nop
+0000181C  90                nop
+0000181D  90                nop
+0000181E  90                nop
+0000181F  90                nop
+00001820  90                nop
+00001821  90                nop
+00001822  90                nop
+00001823  90                nop
+00001824  90                nop
+00001825  90                nop
+00001826  90                nop
+00001827  90                nop
+00001828  90                nop
+00001829  90                nop
+0000182A  90                nop
+0000182B  90                nop
+0000182C  90                nop
+0000182D  90                nop
+0000182E  90                nop
+0000182F  90                nop
+00001830  90                nop
+00001831  90                nop
+00001832  90                nop
+00001833  90                nop
+00001834  90                nop
+00001835  90                nop
+00001836  90                nop
+00001837  90                nop
+00001838  90                nop
+00001839  90                nop
+0000183A  90                nop
+0000183B  90                nop
+0000183C  90                nop
+0000183D  90                nop
+0000183E  90                nop
+0000183F  90                nop
+00001840  90                nop
+00001841  90                nop
+00001842  90                nop
+00001843  90                nop
+00001844  90                nop
+00001845  90                nop
+00001846  90                nop
+00001847  90                nop
+00001848  90                nop
+00001849  90                nop
+0000184A  90                nop
+0000184B  90                nop
+0000184C  90                nop
+0000184D  90                nop
+0000184E  90                nop
+0000184F  90                nop
+00001850  90                nop
+00001851  90                nop
+00001852  90                nop
+00001853  90                nop
+00001854  90                nop
+00001855  90                nop
+00001856  90                nop
+00001857  90                nop
+00001858  90                nop
+00001859  90                nop
+0000185A  90                nop
+0000185B  90                nop
+0000185C  90                nop
+0000185D  90                nop
+0000185E  90                nop
+0000185F  90                nop
+00001860  90                nop
+00001861  90                nop
+00001862  90                nop
+00001863  90                nop
+00001864  90                nop
+00001865  90                nop
+00001866  90                nop
+00001867  90                nop
+00001868  90                nop
+00001869  90                nop
+0000186A  90                nop
+0000186B  90                nop
+0000186C  90                nop
+0000186D  90                nop
+0000186E  90                nop
+0000186F  90                nop
+00001870  90                nop
+00001871  90                nop
+00001872  90                nop
+00001873  90                nop
+00001874  90                nop
+00001875  90                nop
+00001876  90                nop
+00001877  90                nop
+00001878  90                nop
+00001879  90                nop
+0000187A  90                nop
+0000187B  90                nop
+0000187C  90                nop
+0000187D  90                nop
+0000187E  90                nop
+0000187F  90                nop
+00001880  90                nop
+00001881  90                nop
+00001882  90                nop
+00001883  90                nop
+00001884  90                nop
+00001885  90                nop
+00001886  90                nop
+00001887  90                nop
+00001888  90                nop
+00001889  90                nop
+0000188A  90                nop
+0000188B  90                nop
+0000188C  90                nop
+0000188D  90                nop
+0000188E  90                nop
+0000188F  90                nop
+00001890  90                nop
+00001891  90                nop
+00001892  90                nop
+00001893  90                nop
+00001894  90                nop
+00001895  90                nop
+00001896  90                nop
+00001897  90                nop
+00001898  90                nop
+00001899  90                nop
+0000189A  90                nop
+0000189B  90                nop
+0000189C  90                nop
+0000189D  90                nop
+0000189E  90                nop
+0000189F  90                nop
+000018A0  90                nop
+000018A1  90                nop
+000018A2  90                nop
+000018A3  90                nop
+000018A4  90                nop
+000018A5  90                nop
+000018A6  90                nop
+000018A7  90                nop
+000018A8  90                nop
+000018A9  90                nop
+000018AA  90                nop
+000018AB  90                nop
+000018AC  90                nop
+000018AD  90                nop
+000018AE  90                nop
+000018AF  90                nop
+000018B0  90                nop
+000018B1  90                nop
+000018B2  90                nop
+000018B3  90                nop
+000018B4  90                nop
+000018B5  90                nop
+000018B6  90                nop
+000018B7  90                nop
+000018B8  90                nop
+000018B9  90                nop
+000018BA  90                nop
+000018BB  90                nop
+000018BC  90                nop
+000018BD  90                nop
+000018BE  90                nop
+000018BF  90                nop
+000018C0  90                nop
+000018C1  90                nop
+000018C2  90                nop
+000018C3  90                nop
+000018C4  90                nop
+000018C5  90                nop
+000018C6  90                nop
+000018C7  90                nop
+000018C8  90                nop
+000018C9  90                nop
+000018CA  90                nop
+000018CB  90                nop
+000018CC  90                nop
+000018CD  90                nop
+000018CE  90                nop
+000018CF  90                nop
+000018D0  90                nop
+000018D1  90                nop
+000018D2  90                nop
+000018D3  90                nop
+000018D4  90                nop
+000018D5  90                nop
+000018D6  90                nop
+000018D7  90                nop
+000018D8  90                nop
+000018D9  90                nop
+000018DA  90                nop
+000018DB  90                nop
+000018DC  90                nop
+000018DD  90                nop
+000018DE  90                nop
+000018DF  90                nop
+000018E0  90                nop
+000018E1  90                nop
+000018E2  90                nop
+000018E3  90                nop
+000018E4  90                nop
+000018E5  90                nop
+000018E6  90                nop
+000018E7  90                nop
+000018E8  90                nop
+000018E9  90                nop
+000018EA  90                nop
+000018EB  90                nop
+000018EC  90                nop
+000018ED  90                nop
+000018EE  90                nop
+000018EF  90                nop
+000018F0  90                nop
+000018F1  90                nop
+000018F2  90                nop
+000018F3  90                nop
+000018F4  90                nop
+000018F5  90                nop
+000018F6  90                nop
+000018F7  90                nop
+000018F8  90                nop
+000018F9  90                nop
+000018FA  90                nop
+000018FB  90                nop
+000018FC  90                nop
+000018FD  90                nop
+000018FE  90                nop
+000018FF  90                nop
+00001900  90                nop
+00001901  90                nop
+00001902  90                nop
+00001903  90                nop
+00001904  90                nop
+00001905  90                nop
+00001906  90                nop
+00001907  90                nop
+00001908  90                nop
+00001909  90                nop
+0000190A  90                nop
+0000190B  90                nop
+0000190C  90                nop
+0000190D  90                nop
+0000190E  90                nop
+0000190F  90                nop
+00001910  90                nop
+00001911  90                nop
+00001912  90                nop
+00001913  90                nop
+00001914  90                nop
+00001915  90                nop
+00001916  90                nop
+00001917  90                nop
+00001918  90                nop
+00001919  90                nop
+0000191A  90                nop
+0000191B  90                nop
+0000191C  90                nop
+0000191D  90                nop
+0000191E  90                nop
+0000191F  90                nop
+00001920  90                nop
+00001921  90                nop
+00001922  90                nop
+00001923  90                nop
+00001924  90                nop
+00001925  90                nop
+00001926  90                nop
+00001927  90                nop
+00001928  90                nop
+00001929  90                nop
+0000192A  90                nop
+0000192B  90                nop
+0000192C  90                nop
+0000192D  90                nop
+0000192E  90                nop
+0000192F  90                nop
+00001930  90                nop
+00001931  90                nop
+00001932  90                nop
+00001933  90                nop
+00001934  90                nop
+00001935  90                nop
+00001936  90                nop
+00001937  90                nop
+00001938  90                nop
+00001939  90                nop
+0000193A  90                nop
+0000193B  90                nop
+0000193C  90                nop
+0000193D  90                nop
+0000193E  90                nop
+0000193F  90                nop
+00001940  90                nop
+00001941  90                nop
+00001942  90                nop
+00001943  90                nop
+00001944  90                nop
+00001945  90                nop
+00001946  90                nop
+00001947  90                nop
+00001948  90                nop
+00001949  90                nop
+0000194A  90                nop
+0000194B  90                nop
+0000194C  90                nop

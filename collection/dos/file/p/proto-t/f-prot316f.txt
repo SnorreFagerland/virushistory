@@ -1,0 +1,65 @@
+Virus scanning report  -  15 April 2025 @ 19:29
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\0579\t1.vom  Infection: Civil_War.579
+u:\0579\t3.vom  Infection: Civil_War.579
+u:\0579\t5.vom  Infection: Civil_War.579
+u:\0579\t7.vom  Infection: Civil_War.579
+u:\0579\wci02344.vom  Infection: Civil_War.579
+u:\0599\a\v7995.vom  Infection: Proto-T.599.A
+u:\0599\b\pt-0599b.vom  Infection: Proto-T.599.B (exact)
+u:\0602\602.vom  Infection: Proto-T.602
+u:\0629\number-6.vom  Infection: Proto-T.629 (exact)
+u:\0654\pt-654.vom  Infection: Proto-T.654 (exact)
+u:\0688\civil210.vom  Infection: Proto-T.688 (exact)
+u:\0690\tridunkb.vom  Infection: Proto-T.690
+u:\0694\proto-t.vom  Infection: Proto-T.694 (exact)
+u:\0695\proto-g1.vom  Infection: Proto-T.695 (exact)
+u:\0695\proto-t.vom  Infection: Proto-T.695 (exact)
+u:\0700\proto-t_.vom  Infection: Proto-T.700
+u:\0893\wci0310p.vom  Infection: Proto-T.893 (exact)
+u:\0901\civil_3.vom  Infection: Proto-T.901
+u:\civilwar\v8000.vom  Infection: Proto-T.580
+u:\civilwar\wci08131.vom  Infection: Proto-T.580
+u:\lockjaw\1041\lockj.vom  Infection: Proto-T.1041 (exact)
+u:\lockjaw\1047\virus.dos.lokjaw.1047  Infection: Proto-T.1047 (exact)
+u:\lockjaw\1048\lockjaw.vom  Infection: Proto-T.1048 (exact)
+u:\lockjaw\1050\ljaw1050.vom  Infection: Proto-T.1050
+u:\lockjaw\1050\prt-1050.vom  Infection: Proto-T.1050
+u:\lockjaw\1052\kenson4.vom  Infection: Proto-T.1052 (exact)
+u:\lockjaw\1053\lockjaw.vom  Infection: Proto-T.1053
+u:\lockjaw\1058\Virus.DOS.Lokjaw.1058  Infection: Proto-T.1058 (exact)
+u:\number_6\v8005.vom  Infection: Proto-T.631
+u:\ritzen\1087\ritzen.vom  Infection: Proto-T.Ritzen.1087
+u:\ritzen\1098\rit.vom  Infection: Proto-T.Ritzen.1098
+u:\ritzen\1112\1112.vom  Infection: Proto-T.Ritzen.1112
+u:\ritzen\1112\ritzen.vom  Infection: Proto-T.Ritzen.1112
+
+Results of virus scanning:
+
+Files: 60
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 60
+Infected: 33
+Suspicious: 0
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00
