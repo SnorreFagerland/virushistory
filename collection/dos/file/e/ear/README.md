@@ -25,7 +25,6 @@
 │       ├── t5.vom [8b2fe5cbab3af56e5f3f295152e316b2a2d8f6398aaa6861c2e5bbd042554c95]
 │       ├── t7.vom [63aed5bf87ea4aa1e8bf8ccbec9fc7914826bced8e2c6a9f8c92cd06d98fdcf4]
 │       └── t9.vom [25909e524e34cc41a1a4e4b8d60bb059642234f00ae5af0906ef3c83e8ea8ec7]
-├── f-prot316f.txt [2949b38d9246e99e23c70e2723392c0f8c02cde4e7816bbdbd9c0dff8ecaf100]
 ├── homecoming
 │   ├── homecomi.vxe [fd821b947bc7bee203d058460000390a15ecb99d6f60ec734ff7bcbf9160b5c2]
 │   ├── ick.vom [f00bc67ad5a414edd510bc61eb3e1be81a0df9c08ed285dd9d977c8814984695]
@@ -34,8 +33,6 @@
 ├── leonardo
 │   └── 1207
 │       └── wci00823.vxe [7daba9d3d3871d8d7ba669c62415bb61e14404c769e70ac94ec21b1d47b63b9a]
-├── quake-o
-│   └── ear-quak.vom [c45f8f99cd8376884ef0f680b57880289fb9265fe9e83ed1fdcd50cc0fe693f8]
-└── suicide
-    └── ear-suic.vom [6f6ed5fd3f66d67e7e89a02eb67250fe5d951b87931a785a6ace6ffd6bf788ec]
+└── quake-o
+    └── ear-quak.vom [c45f8f99cd8376884ef0f680b57880289fb9265fe9e83ed1fdcd50cc0fe693f8]
 ```

@@ -1,0 +1,12 @@
+<!-- AUTO-GENERATED-README -->
+# Contents of `1213`
+
+```
+├── a
+│   └── rog1213.vom [ede3013392c467c119c9dea35499387564cd89495486b4a90d66ad8c75d0f54e]
+└── b
+    ├── t1.vom [ff5f54d894656ce281f526abdf29ad00617295a53834ae19c6c8576fb7a85651]
+    ├── t1.vxe [f0cdebef23722344054413aafc776614e67fd8debb6876865e17ff10d7a539cd]
+    ├── t9.vom [f990de21b14a5d1411776c9f80ede384dae95a1020f36f636b0def33393d5c2c]
+    └── virus.dos.rogue.1213 [57b7d82785d0221014ade0a1443db1484f59e3177170b541363c83ebe04339e3]
+```

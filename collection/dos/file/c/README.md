@@ -356,6 +356,9 @@
 │   │   ├── t6.vom [8920579f307d0ea2cec062a2b7b8822bbe78fd9b69f971723c48c71e62b887d6]
 │   │   ├── t7.vom [f13282eb2b0fd2ecad8d37f74e5b9ed1cd4f1ed88abfb404bb87c46a98598f62]
 │   │   └── t8.vom [6c61fe51b1455a632aa76b778e75857882f6649e4196a19b68a625969213a950]
+│   ├── 1728
+│   │   ├── cascade_-001.vom [68e8575c26c599c541fc0c11a275f44d831aa4c773ed86d35266564a5cfb27a0]
+│   │   └── cascade_.vom [edebd2cc66817c9bd23aded9a5add584c32cfc817cae1990f37cf5beb735b29a]
 │   └── formiche
 │       ├── a
 │       ├── b
@@ -894,9 +897,6 @@
 │   └── 970
 │       ├── t1.vxe [bd4c457473ed1581dac15936e857450363b0a7c8cb6c8a2e0a5e5eb642493d64]
 │       └── t2.vxe [0b888097df10a1a319a68bcad7757760a978388308fdc65a4781428849aedf70]
-├── checker
-│   └── 109
-│       └── virus.dos.trivial.109.b [b50a623ba8a162caf8d4cff6ba93a1c5678a85f26dc4ce86a9a370790ce7ac89]
 ├── checksum
 │   ├── 1232
 │   │   ├── cksum101.vom [4246dbbe2a9e14d2d8c4018776dfac3b1de508870608e7b104ba5eb65e711c5c]
@@ -1392,8 +1392,12 @@
 │       ├── trace.vom [db016419fe729333229a13b4a2de307a7446a6b792410d65a3ae7d19d2fe8dd4]
 │       └── wci0183c.vom [6c3836818955d41345b70594fce9e8e7fc740595477c7f96cd82eb8bf114f68d]
 ├── clone-ii
-│   └── 336
-│       └── virus.dos.clone.336 [f1431f9595269688acfb6950f2a5845bbcd5986cfada055f0cd54e52d5066b8e]
+│   ├── 336
+│   │   └── virus.dos.clone.336 [f1431f9595269688acfb6950f2a5845bbcd5986cfada055f0cd54e52d5066b8e]
+│   ├── 342
+│   │   └── hkill.342 [40cbcd86fb0c295e16c7ccd1ca79641d4e0026ed31501ef2779bdb53967b2d01]
+│   └── 344
+│       └── virus.dos.hkill.344 [2e0e3346b362ac946643a6cf1ac7c4173004e5b043db7c0f015635cbc7ed77cc]
 ├── clonewar
 │   ├── 178
 │   │   └── virus.dos.companion.178 [f0b18ab5b9ca0ba2ce7d32aa16b69e3bea4aa698a261c447fc06a792aa4974d0]
@@ -1690,19 +1694,21 @@
 │   │   ├── t7.vxe [a5fa6c937d96d1e5e6c6bbdd6c092bf10ab881c80787248411df13606039c68e]
 │   │   ├── t9.vom [6a3db246adf1cda72f636735194ac84de51da15e667eadaaa3aaafec2fe867c1]
 │   │   └── trace.vxe [6f8032ac6f73892452184c875d1a64df57849e7669d8504e99de066d65884fee]
-│   └── c
-│       ├── debug.vxe [2f7d3f4acb926e50617c442a31c59177592cf384c5de8237d7dbb33c2b864d92]
-│       ├── grep.vom [74161394fdab10a87d9a209ed5ab8201c03b93ab8b771c8cf37738fb7c3fbbb9]
-│       ├── keyb.vom [2d51462b9ebeadb4d4bec48e6ce3be9a33d88ace17d1255438175151929648b7]
-│       ├── t1.vom [48761428c67ff848dae0078f7fb8f02e2a2dca1701c5e090557ed9ec058d9c0a]
-│       ├── t1.vxe [d698d826decc7fe1c113dcee669d9664235c924eb8385bbbf3154dc884fd6c64]
-│       ├── t10.vom [fe082ed99802097b6b7577e621ddbe6082d0e1a7168fdb6a2c6f90a061dcba8f]
-│       ├── t2.vom [600fe07a07f138d93b106a0202d44061b3d5d722aceb0e3485e5975d4b30b545]
-│       ├── t2.vxe [35aa9f0fb1ccceeffb765cd31664fca440d031af12af97ee064bdb93f737a4d0]
-│       ├── t7.vxe [0d6f5c580b27a706f1306986d66d9455bf4a1cdf6ac198060e0bb1e25e99ac83]
-│       ├── t9.vom [3ffc6c2bcd6d73f2a1ccbadd02cd4384ad3419bb1f0d124a40559633b77649a7]
-│       ├── trace.vxe [c4f4bdb516169ccabf602e5fd874cde57f590a33bfa5885c243dcb6766266997]
-│       └── wci0271a.vom [514f394610bde96f4c1d1c0a11011c0427edb120fa9ef422651607f3b84f90af]
+│   ├── c
+│   │   ├── debug.vxe [2f7d3f4acb926e50617c442a31c59177592cf384c5de8237d7dbb33c2b864d92]
+│   │   ├── grep.vom [74161394fdab10a87d9a209ed5ab8201c03b93ab8b771c8cf37738fb7c3fbbb9]
+│   │   ├── keyb.vom [2d51462b9ebeadb4d4bec48e6ce3be9a33d88ace17d1255438175151929648b7]
+│   │   ├── t1.vom [48761428c67ff848dae0078f7fb8f02e2a2dca1701c5e090557ed9ec058d9c0a]
+│   │   ├── t1.vxe [d698d826decc7fe1c113dcee669d9664235c924eb8385bbbf3154dc884fd6c64]
+│   │   ├── t10.vom [fe082ed99802097b6b7577e621ddbe6082d0e1a7168fdb6a2c6f90a061dcba8f]
+│   │   ├── t2.vom [600fe07a07f138d93b106a0202d44061b3d5d722aceb0e3485e5975d4b30b545]
+│   │   ├── t2.vxe [35aa9f0fb1ccceeffb765cd31664fca440d031af12af97ee064bdb93f737a4d0]
+│   │   ├── t7.vxe [0d6f5c580b27a706f1306986d66d9455bf4a1cdf6ac198060e0bb1e25e99ac83]
+│   │   ├── t9.vom [3ffc6c2bcd6d73f2a1ccbadd02cd4384ad3419bb1f0d124a40559633b77649a7]
+│   │   ├── trace.vxe [c4f4bdb516169ccabf602e5fd874cde57f590a33bfa5885c243dcb6766266997]
+│   │   └── wci0271a.vom [514f394610bde96f4c1d1c0a11011c0427edb120fa9ef422651607f3b84f90af]
+│   └── d
+│       └── codewar-d.vom [765a401292a08d505b504325118e31e8b96c53dd1797736e40fd573d923e0d2a]
 ├── codr
 │   └── 1402
 │       └── virus.dos.codr.1402 [d586f9412052568682fb34b40b71ccdd25868b5a7d7add1fda03208d3b4a1ea9]
@@ -1768,9 +1774,11 @@
 │   └── 633
 │       └── asp_626.vom [3b85258fd6991bbc98fcb8ecbcdf1bd7c8f3f03bd548b74284b493f9046451a1]
 ├── combat
+│   ├── 398
+│   │   └── combat.vom [e28db4775956dfa599237cbb32f75122b7fbd0fd0ab45289daf8857c674b9025]
 │   ├── 516
-│   │   ├── virus.dos.nucleii.516.a [561140bc2cf0480c5a942d1c11111a57d7b33bacb93c6bf69f28442484ae1b3d]
-│   │   └── virus.dos.nucleii.518 [bcf1a45e206d0b04105dba711459c965ba91e897b23b9aa0f44e81edb0cafa15]
+│   │   ├── a
+│   │   └── b
 │   └── 731
 │       └── 735.vom [00586ba05c53a14181ed376b5c6f462c096f148b1717d09435e1d6413569a836]
 ├── combi
@@ -2383,6 +2391,8 @@
 │   │   ├── t5.vom [9a1b2993f630a8a2a94e47c52935eff82529866ed3efe182ba6ac61dd155b6fe]
 │   │   ├── t6.vom [313cbddd4666f2f369904e17b1ccbbfc73ce1a511f46f444f044d9d8841b4007]
 │   │   └── wci0288c.vom [fd7e3ac0115582a7cd634ef186421d131ee5c38bdb2aed9542f4e2ad7160fbae]
+│   ├── 479
+│   │   └── virus.dos.riot.immortal.479 [689850aada5e09387b73212a38202a827044eb42395d026152051902874153ce]
 │   └── 482
 │       ├── a
 │       └── b

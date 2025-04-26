@@ -1353,6 +1353,9 @@
 ├── losthorizon
 │   ├── losth.vom [a215c6066abdea5cc26186b537cb531f45a575c16474e64ce6454c05eccd8b88]
 │   └── wci02144.vxe [8b8a29dbcfa0086849bc7b258c5aff00a053a8644c98ae0feaabc0a7eeec9804]
+├── lothos
+│   └── 197
+│       └── virus.dos.sillyro.197 [acbbc41762532c814cbc3f97b6fe031324bf128a26d951c86ca4ffb55dae40e7]
 ├── louse
 │   └── 919
 │       └── virus.dos.louse.919 [f403d816122c7878bf0c3adbe8b1916d9b8668a4ebade39ea0f7ea9f01904a4c]

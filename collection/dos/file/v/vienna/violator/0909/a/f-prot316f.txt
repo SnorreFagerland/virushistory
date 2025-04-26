@@ -1,0 +1,39 @@
+Virus scanning report  -  21 April 2025 @ 17:33
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\t1.vom  Infection: Vienna.909.A (exact)
+u:\t2.vom  Infection: Vienna.909.A (exact)
+u:\t3.vom  Infection: Vienna.909.A (exact)
+u:\t4.vom  Infection: Vienna.909.A (exact)
+u:\t5.vom  Infection: Vienna.909.A (exact)
+u:\t7.vom  Infection: Vienna.909.A (exact)
+u:\violb2.vom  Infection: Vienna.909.A (exact)
+
+Results of virus scanning:
+
+Files: 9
+MBRs: 1
+Boot sectors: 1
+Objects scanned: 11
+Infected: 7
+Suspicious: 0
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00

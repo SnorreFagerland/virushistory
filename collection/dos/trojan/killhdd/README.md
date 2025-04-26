@@ -12,8 +12,6 @@
 │   └── Trojan.DOS.KillHDD.e.vx [de35df0d8877575b59b6c8c9672017880023382b40454751cf04cc2cc824d51f]
 ├── f
 │   └── Trojan.DOS.KillHDD.f.vx [6cbbaea17fd2fa5207f53349e2f8642005153bf895400de25021ea7a8f6dff00]
-├── g
-│   └── Trojan.DOS.KillHDD.g.vx [a80ab0fbd7eb0959eba60a74cedce155357b6268576322bd615962d84feb59f6]
 ├── h
 │   └── Trojan.DOS.KillHDD.h.vx [9002ea7dda76569f0e7449d5d4d9ca86c88badcd3af1609c1b68c0b850b4ee15]
 ├── i

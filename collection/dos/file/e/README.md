@@ -20,7 +20,6 @@
 │   ├── ear
 │   │   ├── 1024
 │   │   └── 1026
-│   ├── f-prot316f.txt [2949b38d9246e99e23c70e2723392c0f8c02cde4e7816bbdbd9c0dff8ecaf100]
 │   ├── homecoming
 │   │   ├── homecomi.vxe [fd821b947bc7bee203d058460000390a15ecb99d6f60ec734ff7bcbf9160b5c2]
 │   │   ├── ick.vom [f00bc67ad5a414edd510bc61eb3e1be81a0df9c08ed285dd9d977c8814984695]
@@ -28,10 +27,8 @@
 │   │   └── wci01173.sys [2b42470391c5791d14403da897d679fa1584e1adffa64e8fc36d4ac7f19f883b]
 │   ├── leonardo
 │   │   └── 1207
-│   ├── quake-o
-│   │   └── ear-quak.vom [c45f8f99cd8376884ef0f680b57880289fb9265fe9e83ed1fdcd50cc0fe693f8]
-│   └── suicide
-│       └── ear-suic.vom [6f6ed5fd3f66d67e7e89a02eb67250fe5d951b87931a785a6ace6ffd6bf788ec]
+│   └── quake-o
+│       └── ear-quak.vom [c45f8f99cd8376884ef0f680b57880289fb9265fe9e83ed1fdcd50cc0fe693f8]
 ├── earle
 │   └── 1309
 │       └── virus.dos.haver.1309 [7ab53c72549336317781f5271e9b6ed0cfba209f2ec44d2224398f0512b1186b]
@@ -272,8 +269,14 @@
 │   └── 726
 │       └── eleet726.vxe [0937e063a23bdb7c140b5c5871121aadfcd07fa1753567151f3958aba7baf4c6]
 ├── elf
+│   ├── 2647
+│   │   └── Virus.DOS.Elf.2647 [65aa69cc5de7869daad542ff76af4b0b829ab09ca82386ab0e2a852632ea005f]
 │   ├── 2731
 │   │   └── virus.dos.elf.2731 [ac7bd0d75f394ad38239967665abfddd81029f80f19d5913649b099d351f769b]
+│   ├── 2815
+│   │   └── Virus.DOS.Elf.2815 [472d318cc31395a9c678fe615f3abb6d235707cc58fc4b0e63785386689a9d4c]
+│   ├── 3290
+│   │   └── Virus.DOS.Elf.3290 [4160844480170eb15fb6c6a07f369ba6e6ed39ac844a9a6cef9476fd6a8b0cd0]
 │   ├── 3400
 │   │   └── virus.dos.elf.3400 [5b79e440437bfccacb391e7b67919b86d468f9f7debae58907b91ba2772be245]
 │   ├── 3458
@@ -972,8 +975,16 @@
 │   │   ├── exehe379.vxe [b64aa88c65d1b76f5d0af09868d072c8bad21cddd0383367ab01c87c17bf7972]
 │   │   ├── t1.vxe [8d51b4751c53589f171922b781782f3be8b07b9dd6bf0a5b30b40edc085b586c]
 │   │   └── t2.vxe [8a5e86e92354c0160d1a09f0fa373b86b6971a6eb23019775d1cc70ff6a53d24]
-│   └── 440
-│       └── exe-440.vxe [dea561954086d2263b6f8364ec6424ed5e68ada1b7ea167ab69b88ad42be9d06]
+│   ├── 416
+│   │   ├── a
+│   │   ├── b
+│   │   └── c
+│   ├── 423
+│   │   └── Virus.Win16.Lucky.423 [031c988a918447cdac01a1ecceef727a48b96bac29493aad3c984a2cb9d4c378]
+│   ├── 440
+│   │   └── exe-440.vxe [dea561954086d2263b6f8364ec6424ed5e68ada1b7ea167ab69b88ad42be9d06]
+│   └── 481
+│       └── Virus.Win16.Lucky.481 [47bbb9c24aee24883eb2e231f2e7c14b0f5ad20deb2ca21caef4ff4ec6b769d2]
 ├── exemplary
 │   └── 586
 │       ├── a

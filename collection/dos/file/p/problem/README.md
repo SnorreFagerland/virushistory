@@ -4,6 +4,12 @@
 ```
 ├── 734
 │   └── proble~1.vxe [32866e79ce8f452c79cddba19631475faa649ac1934c637386cd995eb1a9ac6f]
+├── 832
+│   └── virus.dos.problem.832 [c9666940863be61c3a84ce4523f302690fa570511e41841e6fa639984bee4576]
+├── 834
+│   └── virus.dos.problem.834 [da355568bf80015f917af9f301d18346e0c10f6beb9f53f00b8ed74118bbf758]
+├── 845
+│   └── virus.dos.problem.845 [65840db8d323087d56e558c52b62e4817ec7d003f85d5a147220ba0aaa84127b]
 ├── 854
 │   ├── pro854a.vxe [baddf36aee854c393837decce3068c1e57356da3d8bbaa842b4369b21eb755d9]
 │   └── prob-854.vom [0d7316edde0e89dccd1c9159ab1b570124b10a366afea74ed5dfde9d227d2b31]

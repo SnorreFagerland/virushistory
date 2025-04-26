@@ -80,9 +80,7 @@
 │   ├── a
 │   │   └── BJ-267.vom [d199fe329e7b5e10928b290092a9fb6276d8ff114d39ba08a46e47afb7821743]
 │   ├── b
-│   │   ├── black_je-001.vom [a79f4a81a9499a9ee16f0c4c02ec9aee852812ce52a0eaaedda50a5cd900527d]
-│   │   ├── black_je.vom [a79f4a81a9499a9ee16f0c4c02ec9aee852812ce52a0eaaedda50a5cd900527d]
-│   │   └── black_je.vxe [a79f4a81a9499a9ee16f0c4c02ec9aee852812ce52a0eaaedda50a5cd900527d]
+│   │   └── black_je.vom [a79f4a81a9499a9ee16f0c4c02ec9aee852812ce52a0eaaedda50a5cd900527d]
 │   ├── c
 │   │   └── virus.dos.blackjec.267.b [b1de70f0e282a74acf621b2a97fa483bd2e9a08b51e7d5f5c45b0e2ad9045d5c]
 │   ├── d
@@ -90,7 +88,6 @@
 │   ├── e
 │   │   └── virus.dos.blackjec.267.d [46045fb8db44a96066680efed82ed362819ad60312d6895d79ecd017efe3acc5]
 │   └── f
-│       ├── black_je-001.vom [d0eaddba1cac7a388dbc6aca9017ee93bc2a77f0d1dfd3ef51f0f4799fabb314]
 │       ├── black_je-002.vom [ec47f45964c3954ed45d77be04011a1e41bcb795381632049c647459207a0d33]
 │       └── black_je.vom [d0eaddba1cac7a388dbc6aca9017ee93bc2a77f0d1dfd3ef51f0f4799fabb314]
 ├── 272
@@ -99,14 +96,12 @@
 │   ├── b
 │   │   └── bjec5.com [814c3e231f5f96e1b2a543061886a2e082caa1d1fc82a168351f9b53b882c743]
 │   └── c
-│       ├── black_je-001.vom [51ef98afd859c502c18bcc42ce9e1e595d7e2d7c595935e0fd0e775b6b73c2dc]
 │       ├── black_je.vom [d1b9472d423de65a26c3f333aa177d6060d6966ba377a562fa00c4babdae2d68]
 │       └── black_je.vxe [51ef98afd859c502c18bcc42ce9e1e595d7e2d7c595935e0fd0e775b6b73c2dc]
 ├── 276
 │   ├── a
 │   │   └── BJ-276.vom [c17dc774329fda62b91c2d30034836d5d864540cff128405f6f824d1168058f1]
 │   ├── b
-│   │   ├── black_je-001.vom [40b230f2422dac7eacc11c2b2eac4295958db1fe973e929a04b8f61f64e3afa2]
 │   │   └── black_je.vom [40b230f2422dac7eacc11c2b2eac4295958db1fe973e929a04b8f61f64e3afa2]
 │   ├── c
 │   │   └── Virus.DOS.BlackJec.276.b [51a0dc959cef175b7bf9ec49bfcb6aa2bc56612c2794f28f6685405f9091a7c5]
@@ -115,17 +110,14 @@
 │   ├── e
 │   │   └── Virus.DOS.BlackJec.276.d [574c258f94505105fe521f90b83c2a2173f355dcf08a8b58d8ae5bb0b0b94ecf]
 │   └── f
-│       ├── black_je-001.vom [b7a205ba9b3e7371a773614905e3748db25e05f42002001beca9779ff093106f]
 │       ├── black_je.vom [a64599c4804c312ee211030762147f528d0c26d49e36930edfaed9336c0bfdb8]
 │       └── black_je.vxe [b7a205ba9b3e7371a773614905e3748db25e05f42002001beca9779ff093106f]
 ├── 281
 │   ├── a
-│   │   ├── black_je-001.vom [8ffb5d2102c7d0bf8e4e8721b598e3655e0943ef24e7e06906d152247e59d53a]
 │   │   └── black_je.vxe [8ffb5d2102c7d0bf8e4e8721b598e3655e0943ef24e7e06906d152247e59d53a]
 │   ├── b
 │   │   ├── black_je-001.vom [2c8dc81f38960e77e1dbf10d60eeb183fc620b1a8b42216c5b8ab5eb94bde29d]
-│   │   ├── black_je.vom [d02c46627eaed3c40848f18ea4ad4a288a3b46e5a4202ffe8972daf7dcba1b76]
-│   │   └── black_je.vxe [d02c46627eaed3c40848f18ea4ad4a288a3b46e5a4202ffe8972daf7dcba1b76]
+│   │   └── black_je.vom [d02c46627eaed3c40848f18ea4ad4a288a3b46e5a4202ffe8972daf7dcba1b76]
 │   ├── c
 │   │   └── blackjec.281.a [1d443e89276acdba3fd64a9d1fe39e3f61e1799508eb01497e19bff77acbb5e0]
 │   └── d
@@ -136,8 +128,6 @@
 │   ├── a
 │   │   └── BJ-287.vom [6e4f7a397674e8a30106aefaa660f2ffa5f5b8990d4eefa9a116ad752c761b3a]
 │   ├── b
-│   │   ├── black_je-001.vom [51e95766da43bba40e0ffc2603c7b6a5adbbe805f81314376fccce167ad5ab56]
-│   │   ├── black_je-001.vxe [51e95766da43bba40e0ffc2603c7b6a5adbbe805f81314376fccce167ad5ab56]
 │   │   └── black_je.vom [51e95766da43bba40e0ffc2603c7b6a5adbbe805f81314376fccce167ad5ab56]
 │   ├── c
 │   │   └── virus.dos.blackjec.287.b [44f3701ec3f1667f3b0fd64cd8206b5cb9561f59dc82b6f6ce93ca0adf4e9ca8]
@@ -147,7 +137,6 @@
 │   │   └── virus.dos.blackjec.287.d [4b9b8a48c5888fcccc4cddf0d5b581e9d3675397122cb17ad4a334fd52d4b205]
 │   └── f
 │       ├── black_je-001.vom [9f9976d89157628789b034cdcb0d337808b96381cf63a705bbc5d5dcd99a78f0]
-│       ├── black_je-001.vxe [666c154f0c251a8520fb5d97df14f8e8197a7e052402812f669318c7b00e1bd2]
 │       └── black_je.vom [666c154f0c251a8520fb5d97df14f8e8197a7e052402812f669318c7b00e1bd2]
 ├── 292
 │   ├── a
@@ -162,16 +151,13 @@
 │   ├── b
 │   │   └── Virus.DOS.BlackJec.358.c [8902d00082cb123c9a3e762343bb93a5962b8ec9496c903d931992fc39aa298f]
 │   ├── c
-│   │   ├── black_je-001.vom [8884d2b5db932668da64d63f1d6eb0ad85d826d01e09f0a4400ac43e9c79b1cc]
-│   │   ├── black_je.vom [8884d2b5db932668da64d63f1d6eb0ad85d826d01e09f0a4400ac43e9c79b1cc]
-│   │   └── black_je.vxe [8884d2b5db932668da64d63f1d6eb0ad85d826d01e09f0a4400ac43e9c79b1cc]
+│   │   └── black_je.vom [8884d2b5db932668da64d63f1d6eb0ad85d826d01e09f0a4400ac43e9c79b1cc]
 │   └── d
 │       └── Virus.DOS.BlackJec.358.e [1c5f3305fb3aef70017505c620f79e0a4edaf26fec7b2ac86f35d70d218faa1d]
 ├── 363
 │   ├── Virus.DOS.BlackJec.363.d [3f3b398a5b6fbc3aeb9a4123d4a5c2b1b655e1f4f94592be64f2321b045fb6b1]
 │   ├── a
 │   │   ├── black_je-001.vom [fd961eb3eecb71eaac3634f94733bf6bb145a87f425a16b9831aeff770efd8fb]
-│   │   ├── black_je-001.vxe [fd961eb3eecb71eaac3634f94733bf6bb145a87f425a16b9831aeff770efd8fb]
 │   │   └── black_je.vom [1a2362a15748c3479e844a86de49717a27bf4a0da6e372b188217736edc15e75]
 │   ├── b
 │   │   └── blackjec.363 [ff755287b9657b942cb4e7e7c36deffbd1e1a4e64f1d1cac9cf9ab1f2290bf08]
@@ -185,13 +171,10 @@
 ├── 369
 │   ├── BJ-369.vom [6b75e5ca253063279a89b946238a7ad6d609cca27d785aab02f26722e5e97ec2]
 │   ├── b
-│   │   ├── black_je-001.vom [035f75b397d523fca9bf48916071b89e6a8e01a191b119aeaaf684264c5f5e6f]
-│   │   ├── black_je.vom [035f75b397d523fca9bf48916071b89e6a8e01a191b119aeaaf684264c5f5e6f]
-│   │   └── black_je.vxe [035f75b397d523fca9bf48916071b89e6a8e01a191b119aeaaf684264c5f5e6f]
+│   │   └── black_je.vom [035f75b397d523fca9bf48916071b89e6a8e01a191b119aeaaf684264c5f5e6f]
 │   ├── c
 │   │   └── virus.dos.blackjec.369.b [247500220dd54fa35edb35b5182e4df13d00dcdf423f197fb6665e3fedde8f21]
 │   └── e
-│       ├── black_je-001.vom [1f38a78d900d96e43219d53e3258f4fc495a5b8236121533d658185b3ddc1169]
 │       └── black_je.vom [1f38a78d900d96e43219d53e3258f4fc495a5b8236121533d658185b3ddc1169]
 ├── 374
 │   ├── a
@@ -213,8 +196,7 @@
 │   ├── BJ-DX440.vom [9b1350035cc2dc7b01927d61ad4436e4eda6b645b475ecabb2c89f5dab250540]
 │   └── b
 │       ├── black_je-001.vxe [ca19e2c1d76d345d56613a71f6d030a7b099afd3d072c54f8dbaaa5cc56043f7]
-│       ├── black_je.vom [c92b30a099dc0d55660c6120e146228d637c6bfc17e7150a51e21f0255f5e604]
-│       └── black_je.vxe [c92b30a099dc0d55660c6120e146228d637c6bfc17e7150a51e21f0255f5e604]
+│       └── black_je.vom [c92b30a099dc0d55660c6120e146228d637c6bfc17e7150a51e21f0255f5e604]
 ├── 441
 │   ├── a
 │   │   ├── BJ-441.vom [f3f11ee70cc3967957f5123daa6e6355964ff4c28b12a9d46bcd2156caa554db]

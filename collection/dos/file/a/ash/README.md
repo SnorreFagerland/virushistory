@@ -152,7 +152,8 @@
 ├── 0858
 │   └── virus.dos.ash.858 [e29cb3ce38976270b33dbdea486af3eba570584e3d86ee4952cb3acef2cd82d7]
 ├── 1582
-│   └── virus.dos.ash.pizza.x [b1c1d279043bb13eeb02f20758f5f293b96a068a432b4794c9acfd8caff5fac9]
+│   ├── ash1582-2.vom [68374480fea73f5945964166cce8dccbef269a1f3bda65f7f153e7479983c8c4]
+│   └── virus.dos.ash.pizza.x [73448ff5ddce0b530924e99b7476520884621d0826e3aa8f036d28359e408f1e]
 ├── 1602
 │   └── AS-1602.vom [309f493cce9a98bf4e69d93c9adcbd98384f044769fcc406b22d2248fb594477]
 └── 1604

@@ -1,0 +1,35 @@
+Virus scanning report  -  22 April 2025 @ 18:42
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\a\MARCH00.vom  Infection: BW.899.A (exact)
+u:\b\MARCH04.vom  Infection: BW.899.B (exact)
+u:\c\LIATA10.vom  Infection: BW.899.C (exact)
+
+Results of virus scanning:
+
+Files: 8
+MBRs: 1
+Boot sectors: 1
+Objects scanned: 10
+Infected: 3
+Suspicious: 0
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00

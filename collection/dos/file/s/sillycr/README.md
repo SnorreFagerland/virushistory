@@ -2,28 +2,48 @@
 # Contents of `sillycr`
 
 ```
+├── 0046
+│   └── b
+│       └── virus.dos.sillyro.46 [fed5fe9d8e9f181e4504b3363613d14a2b71488e34ac3a330806c97f93d992db]
 ├── 0058
-│   └── wci02004.vom [bf778ce9857f593ddd06b85d2d97cb01a97b20e52aa1730470fddf49848bea26]
+│   └── a
+│       ├── virus.dos.small.58.a [7dcc39a6e1d5dcf700e7048e1d5adf480b6f1c4269ec80ae6a754b4e89f21122]
+│       └── wci02004.vom [bf778ce9857f593ddd06b85d2d97cb01a97b20e52aa1730470fddf49848bea26]
 ├── 0059
 │   ├── a
 │   │   ├── gen59.vom [5ce4fa0e656c0ae2095f222c7360a9dbcffdaa118fe6074815b8a9b5f9cb24c2]
 │   │   └── genius59.vom [9a0125ce482e2980461646331567326f69606c0a8bc975f50d2368d2dec38108]
 │   └── b
 │       └── wci0258s.vom [04ce946e1a8e2eae2087fa18f140afe4c409a40fdbfeecc755daea6205b4ef2e]
+├── 0065
+│   └── virus.dos.small.65.b [aa9180e12234e1b518e03228b72e310b23edba75359643f7037c2b285514e8e8]
 ├── 0066
-│   ├── small-66.vom [59bde7c8320371f55b607c7ed5880f9ee94b9a65854f8a9531d4573257de9971]
-│   ├── t2.vom [88a5891e221510d35feebf5c626812e62b29ce8188613ad3e32405bc762efe36]
-│   └── t3.vom [be20bd24bda7db5485910434a1457647608ff507b919bea287ad5883caf58c20]
+│   ├── a
+│   │   └── virus.dos.small.66.a [53366c871ff048b87bfd0f13a03d81631c46dbb4f3e6fd6e42eabe0df6dfd744]
+│   ├── b
+│   │   ├── small-66.vom [59bde7c8320371f55b607c7ed5880f9ee94b9a65854f8a9531d4573257de9971]
+│   │   ├── t2.vom [88a5891e221510d35feebf5c626812e62b29ce8188613ad3e32405bc762efe36]
+│   │   └── t3.vom [be20bd24bda7db5485910434a1457647608ff507b919bea287ad5883caf58c20]
+│   └── c
+│       └── virus.dos.small.66.c [014aaf28dd05faeff6ee1cd03e03c7a11aaaaf0b8cf6f559334435a14e6f4e7b]
 ├── 0076
 │   └── wci0260s.vom [9d9e9ee7b6ba7f26e1aab8e62e62ce8ba93ee929e9d176408c266dc71b3a81a3]
 ├── 0080
 │   └── sma--80b.vom [cc567e0eb863c9c327b0f4be8c84f95cc0e96e6f7f0a799edee95925d489db45]
 ├── 0086
 │   └── slcr086.vom [41013aea5a2b75cdc195c465128838a2af90678fc03cf0387cd85c96e386a21b]
+├── 0087
+│   └── virus.dos.small.87 [018109d2951064353cbaa50320081dc1c4be47db0fcb9b27e4d707b3389f8bca]
 ├── 0092
 │   └── slc092.vom [f66646a23c625903aca47b3c82482dada15673d4dd76789e3d23317f3705dfe8]
 ├── 0100
 │   └── smal-100.vom [6ba23c4cbe185fa9ef0b97372182ceb207531286153d4e6115de09deaf728fbe]
+├── 0114
+│   └── virus.dos.small.114.c [13bced884dd484756337b73b37582d954d42fa0023977f81bacee23a8700ae04]
+├── 0119
+│   └── virus.dos.sillyrc.119 [b501df78891d72c229eb565009d1d57fb4b017812ff2ecd117dc1a8f9c83a497]
+├── 0120
+│   └── virus.dos.small.120 [af20c97dd7d0ab2178caa6a64ab43405570299d3f96cd1f3f2e1c28058204151]
 ├── 0122
 │   └── slcr122.vom [73b8478134a0755fbc419d48a1b35bec9c87b81a224017a5d677a2c5d8c00395]
 ├── 0125
@@ -37,30 +57,77 @@
 │       ├── small127.vom [ccf8be81e7417e82c713c55ff7992fd49615c1b9660c0ddf524068ab34c6c70e]
 │       └── wci0013#.vom [7786d89ef03a4c23fa7debe57e002ef3143fef6c32335f3f03d503a323c62f09]
 ├── 0130
-│   └── wci0237s.vom [6f750d86d9b1b18a129e943ee0bde0036d40e76b900d29b36bc2fc67f9cf198c]
+│   ├── a
+│   │   └── wci0237s.vom [6f750d86d9b1b18a129e943ee0bde0036d40e76b900d29b36bc2fc67f9cf198c]
+│   ├── b
+│   │   └── virus.dos.small.130.b [d347914d14c07429634b911d28ee4330bc06e8ed5a233d4a34a5a019435139aa]
+│   └── d
+│       └── virus.dos.small.264 [7f7c1fddb47fe4ecaace78fded01c8afc94c540b2e9f2c08b9c4ecf16b24e8a3]
 ├── 0131
 │   └── wci0238s.vom [8521c4fc26edf86b7428ea8b0c0cfdc0b312dc19f4d30c68d0e17beaf0890ed3]
 ├── 0132
 │   └── wci0239s.vom [598a3a94a02f944bdf011b08420aa340555758dc8b5a65df659702672bd09f05]
 ├── 0137
-│   ├── 1-sma137.vom [55b7662abf3361dbc158485f4083ad38f2e104a5dd85f418ffbd67509fa8f19f]
-│   ├── 2-sma137.vom [48c94476c207d6a14688de5888eb9a3169187bff2f0109f153d3b725f4b298a2]
-│   ├── 3-sma137.vom [6409e408a2db0f05a582629be31f6ea21accf3abc04d55fa16bef9d07b22e097]
-│   └── 4-sma137.vom [ed60fce8e2f4a1635d111db3effeeb9fc2eb23148cc7a104fede0fa1ddd94a8d]
+│   ├── a
+│   │   └── virus.dos.sillyrc.137 [8c600b58cf9aef5b53512698dcd65cd9ca7df24bfb00cfa1ae57d0a119c25a7d]
+│   └── b
+│       ├── 1-sma137.vom [55b7662abf3361dbc158485f4083ad38f2e104a5dd85f418ffbd67509fa8f19f]
+│       ├── 2-sma137.vom [48c94476c207d6a14688de5888eb9a3169187bff2f0109f153d3b725f4b298a2]
+│       ├── 3-sma137.vom [6409e408a2db0f05a582629be31f6ea21accf3abc04d55fa16bef9d07b22e097]
+│       └── 4-sma137.vom [ed60fce8e2f4a1635d111db3effeeb9fc2eb23148cc7a104fede0fa1ddd94a8d]
+├── 0141
+│   ├── a
+│   │   └── virus.dos.sillyrc.141 [20baea507e0c16cbaf7f62d138473d8dd9f0e52a8ae1ee2858555f08871d2627]
+│   └── b
+│       └── virus.dos.sillyc.141.a [f84ffa58d954142afb012a920d93422f0b166f400b247794f75a89bf8480454f]
+├── 0144
+│   └── virus.dos.tiny.144 [127831bfa97961a06433c0880d1e3c381f69836665da1441e061062cb1fc5d6f]
+├── 0147
+│   └── virus.dos.small.147 [ad34cee55faf602c9f27b814d07d74b50a0f4fd46e05fedba53b35f179cb271d]
+├── 0148
+│   └── virus.dos.small.148 [3cdb95bb29b18afe214019c31bb7d5207b9ce2f86e8dc034bf6b49fcd55e3779]
+├── 0152
+│   └── virus.dos.sillyrc.152 [38ea718ef2c1977b541e5f91f04a867571f011736e6d33f0a2bbcc2102f480a3]
+├── 0154
+│   └── virus.dos.small.154 [c9c9a0a726806df970c8698588f315e78deb27a659d18e27607d644b2609a535]
 ├── 0160
 │   └── small160.vom [d5d58f0ee18e59890b86f1973ae56516e2cd64c6d2527bba343d3f5737e80a12]
+├── 0162
+│   ├── a
+│   │   └── virus.dos.small.162 [bf52f48dbbfda3caa6a5690a82352b50f00e9d0435f8791f28af1bcd9275701c]
+│   └── b
+│       └── virus.dos.tiny.162.b [2f20d43c3120272752f50cd2baa00b73963b5e7645ee66a2b1ba4642aae4738c]
 ├── 0173
 │   ├── file0001.vom [1fb039193e89c780df3601af91a296ffdc4d970d08da63ff206f29ebac6e8956]
 │   ├── t1.vom [34bbe2377891e8ab71854ad29f7b5aa8f44cf7518e1c053dc27fbcbf29844ac2]
 │   └── t2.vom [7e4e4bc1f2b25fc81e8ede1568383ec902ca9823f3ade9c769aa05d20c01ab7b]
+├── 0174
+│   └── virus.dos.sillyrc.174 [a5e6fe66bdf72d1f61044adc2d7d91e14a6cae3e40f7a0c61d8531e9c1041aee]
+├── 0178
+│   ├── silly178.vom [f12928c4e1eb038abc67b2c54e1e99846fa2d1c1c49c5cc919c0029d2d8a0cfb]
+│   └── virus.dos.sillyrc.178 [f182dc303abe355213e25c89f3a0b6b411a235d3d0f82456b73fe144ea37d706]
+├── 0184
+│   └── virus.dos.small.184 [862cdebaab83f2484edc99edfda0d1089d22e05bc680df1f6b31152a7fc78685]
 ├── 0185
 │   └── small185.vom [d04621c6873fdf097c5f144f8103ea2ff3af809cc81533b2cee42b0ed03a73b7]
 ├── 0187
-│   └── small187.vom [3804ac1eae1565d3f03ba6b15a9edf1d8baf1bc9f3c1acbc066426de3d402b61]
+│   ├── a
+│   │   └── small187.vom [3804ac1eae1565d3f03ba6b15a9edf1d8baf1bc9f3c1acbc066426de3d402b61]
+│   └── b
+│       └── virus.dos.small.187.b [3c2d9a874de4b1d4c99de219a8c474f40441e0836c33d71185c5003a59a1effc]
 ├── 0191
-│   └── a
-│       ├── sillycr_-001.vom [8df19906cf68093fd85e7cea4ff7650dbad84ab1c6f9fbb76dcf6f61b695a018]
-│       └── sillycr_.vom [7eb8f05bc9bfb41ce3f8476147e9862ca88c9c8b39277ef2d82e0eea3694646e]
+│   ├── a
+│   │   ├── sillycr_-001.vom [8df19906cf68093fd85e7cea4ff7650dbad84ab1c6f9fbb76dcf6f61b695a018]
+│   │   └── sillycr_.vom [7eb8f05bc9bfb41ce3f8476147e9862ca88c9c8b39277ef2d82e0eea3694646e]
+│   └── b
+│       └── virus.dos.sillyrc.191 [94e814ce6cfc64ebdf777942e9a1c84551d7c5a63fa06e4f447f898384cfbd72]
+├── 0195
+│   ├── t1.vom [1e19ba5c0a8ca3edbc979edcc147f4b235551a734831feca8694645fca933001]
+│   ├── t3.vom [388a54fb12e175a650628e61a9f2df326a295e411309652f8784ffb44043d78c]
+│   ├── t9.vom [b017ece96bb1329aaa8381d2111fec2a3dac25ceb37f40fa4a85ddfb8914c902]
+│   └── virus.dos.tiny.195.a [fc5920bb14d237f1d3805757ea193293f95a30804088524c6052dff641842b85]
+├── 0196
+│   └── virus.dos.sillyrc.196 [bb75bc730424f4340f3f839715a167826d7a9b9379baa71f46f87f2309683729]
 ├── 0200
 │   ├── a
 │   │   ├── das-200.vom [ec61494a1419cdb47fcfe9fc552b13a3a4ff3cd7e6bc6af310efc26c011920e1]
@@ -76,6 +143,17 @@
 │       └── tf.vom [0c8430a6b19fcd5f960c0fe718f99c4f6e00067d56e7cb771e631d3d49d93350]
 ├── 0212
 │   └── small212.vom [5e9fdcf42298e08cbf67fd9e293c58d79c791d215125d79ee327667d1d737024]
+├── 0214
+│   └── virus.dos.sillyrc.214 [df91aeac3bdccd5a0e936254c832ab373ffc50b9c8327f137012685cf358255d]
+├── 0216
+│   └── virus.dos.small.216 [b99f6f227a6597dedf63653724bd47ba407eab57c050b1758c331f38ae2014e1]
+├── 0224
+│   ├── a
+│   │   └── virus.dos.sillyrc.224.a [5e8eef954b8646fa925f2bf52e5714784a16f652cf992064818b557297c509ea]
+│   ├── b
+│   │   └── virus.dos.sillyrc.224.b [888724a8cc52aee9d88c0ecb264991f2e3c71d73e8f69122a5a829eb8465ed65]
+│   └── c
+│       └── virus.dos.sillyc.224.b [2c3e0d66cd94311cfb1507a5df5c01ce77f191b55b3dfa532c69447edb2cc93c]
 ├── 0226
 │   └── sillycr_.vom [cb4f0b0d30cc8966eb5213c59412f42003fce3fd4248b653165039fd650b6b77]
 ├── 0236
@@ -86,15 +164,25 @@
 ├── 0240
 │   └── scr-240.vom [09209eb575b915f5c18643e9c3e1382a118dd14189e1ab33c463f37ff3100ec5]
 ├── 0242
+│   ├── a
+│   │   └── virus.dos.tiny.242 [213974872d358403dd832aca8d29f348fc269276163e9026f4d12447208b2c38]
 │   └── b
 │       └── sillycr_.vom [59f41d3a090d6888c0c452e058039c8b02d8da030bccb02bc2d0a6b29f231980]
+├── 0247
+│   └── a
+│       └── virus.dos.small.247 [c09b1332969a7e13ab3b87c86464de1110afac17084af06fcb277c48001a9540]
+├── 0252
+│   └── virus.dos.xres.252 [7cf8d6ef5cf06e3ab3e1ed2a9f9f0d4099050a0e1da083a4f7de52a45a9e3e43]
 ├── 0257
 │   ├── silrc257.vom [0c227fee213d0538bd21eb9b56140342870419eb3b5093357da181bbbb28fbca]
 │   ├── t2.vom [d75091f8da0401fdfd53c78b07d16ab76e25ca52fe9f7aa2581aed9829c481c8]
 │   ├── t3.vom [1df49d6ae3839cf9c8e59d440f2d625e54715598903122930a3ce92d101d2a2b]
 │   └── tc.vom [be477edd252de900c1142df9b06ca659a7ebc6f143beb41e986a56aaeb961c57]
 ├── 0258
-│   └── v1.vom [6abec1ff633febefff57882e214bdfc736b62340656a4e72e3cc269bffc3e131]
+│   ├── a
+│   │   └── v1.vom [6abec1ff633febefff57882e214bdfc736b62340656a4e72e3cc269bffc3e131]
+│   └── b
+│       └── virus.dos.sillyrc.258.d [01816f4d3a78399b4f60a508bbdadead26ad98e59898142f26717e0e6b58127c]
 ├── 0259
 │   ├── 1-sil259.vom [3315ea604548c2db9216b3326a4410326a3a0cc2493a1ad0d763be2ee7c8df57]
 │   ├── 2-sil259.vom [0b47fd937ae3f6a4f903bb2ac64a9bc0f02d6efc87af4553ae48f0e7a3751a55]
@@ -109,6 +197,8 @@
 │       ├── src-264b.vom [5c82ad2ecc0e8051a3887c2e0f84ce83c8bbe2f49339eab9cfc7d7df7916f14f]
 │       ├── t1.vom [0f0bb46f405e26620422bc09395eecdf90d7d4b10e4a74789deb5ec36f71bb21]
 │       └── t2.vom [534fb86cc149c520437209adf8b0241d6d01dd0f205f8643314b46804d08f1d0]
+├── 0274
+│   └── virus.dos.sillyrc.274 [bc95f7ceb94f7b149eff6f4d23d0be5ef5c5875bd419e85099468a37de10ab00]
 ├── 0277
 │   ├── rc-277.vom [348c1d5781699c5687c3bde4900afe8c271885f61c662473be4012c7e90eb44d]
 │   ├── silrc277.vom [7b6acb2374d7612b1770fc78c28a208cf8b51fdbeb89630d2a4aa981ce3a8b1f]
@@ -116,7 +206,14 @@
 ├── 0281
 │   └── MVIR.vom [cbbfc7d275452b897446df004a1db6c3b6934cb24059ee2a5b16ae924b720d6f]
 ├── 0291
-│   └── wci0250s.vom [0f399501d62e1cc071b20d63bde8e219e812c7802f77b31b2dde06fa123bf956]
+│   ├── a
+│   │   └── wci0250s.vom [0f399501d62e1cc071b20d63bde8e219e812c7802f77b31b2dde06fa123bf956]
+│   ├── b
+│   │   └── virus.dos.small.291 [004522bffc156853e18d4be656b9d68569c732e8c252d00d0b1e1717d0bbfb1c]
+│   └── c
+│       └── virus.dos.sillyrc.291.b [c5050048b5e7eb3cebf095c231c83fd35157f4d4aaa201665538a3d96b060b2e]
+├── 0296
+│   └── virus.dos.sillyrc.296 [e16ebc651c508cf5c5a92328d176c8a4a710512054077296566b593a0c8015f4]
 ├── 0303
 │   ├── a
 │   │   ├── t1.vom [d77b83f15030838d29e2e5cdeb0abb6c7e4a2c8fe0363a1e65c89146ab528321]
@@ -132,6 +229,14 @@
 │       ├── t7.vom [4ec6ab9abe9453fd5a9a49b22180a15c3417d7b26851fb397593858469726286]
 │       ├── tc.vom [bd426be64ee581dc5340a09fea2a3721d3bb6f84956bef9d6ab94a4c6e221e64]
 │       └── tf.vom [43e2f3b304aee722ca729a6a81c6392dcac2968e73d1fdbe4223ac3db2bdfea4]
+├── 0304
+│   └── virus.dos.v.304 [48f753d52efb7829f4d060bd7200515d9cfcbc8c7ee99b3bfae33ea59408ab50]
+├── 0305
+│   └── virus.dos.sillyrc.305 [f9ee72e5b5cce3fa33f522075ab57eec77960b159fa5eca16cf09764673d7b23]
+├── 0306
+│   └── virus.dos.sillyrc.306 [05a58b743ce6e7d5a001e40b2a4324b97334999c5861602a364453c1fa57e614]
+├── 0309
+│   └── virus.dos.v.309 [e87eff03bdcd40d16e9ad6a916f0d48b34838005095de90152febfe95df025b6]
 ├── 0315
 │   ├── a
 │   │   ├── src-315.vom [f382e140316c9833433f910a369b766defe99a7d487b1bd9b78db558de7ec551]
@@ -148,20 +253,43 @@
 ├── 0319
 │   ├── silrc319.vom [f4f9ca57a5a865c383a92ab9550f4ac8c8382ee36a1ef66fb2f977404ae7bc91]
 │   └── t7.vom [6fdb60459803c3c25ba25c8cbb4ce3103931e250c77430557638ac6a6deb01ec]
+├── 0328
+│   ├── a
+│   │   └── virus.dos.small.328 [9d46219074e5965e8cd96df6f07766dd7807d9e2f16786b7c1a305a468e45e41]
+│   └── b
+│       └── virus.dos.sillyrc.328 [9774d14d50081b90008b94727222e5e1983d98c46564db8c13241b64f1942591]
 ├── 0330
 │   └── wci0252s.vom [b1a0fce99e8a19ab1bee6f3b7dde4a81c46053929422ef1cbf34da617018de47]
+├── 0335
+│   └── virus.dos.asbo.335 [d21f840d101e15f29068eb4c1dec5600b45cdd99e6a36ff16ba009db06541160]
 ├── 0341
 │   └── resvir1.vom [65de7449536fb691395474975d552f6675fd92939d89ffb572d989a902a1e63d]
+├── 0351
+│   └── virus.dos.sillyrc.351 [fa5f63dc696259bd4f890a6ea3e6246234b04ee7a94b1e12b717d7ab3fa5d1c4]
 ├── 0354
 │   ├── mega.vom [fb6a357ca4611f866250a84d0fb98c8fb852d652af754f7e95524d8c49888501]
 │   └── ret.vom [b7a7a1fa9ba94546b54453ad6b4e2703fcb875512da0f928b1f0235bd1fac15b]
 ├── 0357
-│   └── wci0254s.vom [e49a293fe3315d3e8ba9149c94b5976f61ba216ea4af826084daa75f9e7c7408]
+│   ├── a
+│   │   └── wci0254s.vom [e49a293fe3315d3e8ba9149c94b5976f61ba216ea4af826084daa75f9e7c7408]
+│   └── b
+│       └── virus.dos.v.357 [45249f3d539867dc739bb7d2228ec6b5ecead71fbd354c1b6649938757161120]
+├── 0364
+│   └── virus.dos.muny.364 [d59394650542304be8d111960b592733212e9b32d6e10c248ccc571e7b44ab13]
+├── 0376
+│   └── virus.dos.v.376.b [7551f7825e55a562fb16f051426f7ea4bbebedde1a0df36d99eef2d979c2628f]
+├── 0380
+│   └── virus.dos.kill50.380 [9cee0b1b14c1d1913a96f869059887c3732ad14da77810fc9fd6092d144975a3]
 ├── 0387
-│   ├── src-387.vom [cc905abfaad575903ba61ed55140a05a1240b1e40618a5dd519cfdd55ac375f7]
-│   ├── t7.vom [22a3e76b5eaed64763aae7c724bf36c62f286d7fcb427e422c634929ab2fed9d]
-│   └── tf.vom [f463b5fefe45f6b86c85ea7af403e345e350d61228253ffcd4542a56ea6857cc]
+│   ├── a
+│   │   ├── src-387.vom [cc905abfaad575903ba61ed55140a05a1240b1e40618a5dd519cfdd55ac375f7]
+│   │   ├── t7.vom [22a3e76b5eaed64763aae7c724bf36c62f286d7fcb427e422c634929ab2fed9d]
+│   │   └── tf.vom [f463b5fefe45f6b86c85ea7af403e345e350d61228253ffcd4542a56ea6857cc]
+│   └── b
+│       └── virus.dos.die.387.b [91ce70a47559c1ae1cde519013d880a1956638c8d6df0d4534dcd2da4e521b69]
 ├── 0394
+│   ├── a
+│   │   └── virus.dos.small.394.a [68cd7e935b96c05452fb6bb3c59e442c88068944e2b6cf77011b015356f2fbc5]
 │   └── b
 │       ├── qres394b.vom [42e3b18c3a3017a2d0976c711074864e29ad29f1103bd52236d67d90e99320b7]
 │       ├── t1.vom [a2052f347da22061a6e71c5c56189584e6548be3534b872d8ca0d624832203ed]
@@ -175,19 +303,48 @@
 │   └── unk.vom [9b689c416d597beded1883f1b2337b24baa11a93a0381f179c1514e5222f1d40]
 ├── 0403
 │   └── unk.vom [523e6cb3576bfa005af31127b11011405a61acace407b56406d30059f7039569]
+├── 0408
+│   ├── DUMP32.vom [0c6e62453840274afd4c55072b7ce389d860adf5a752a8a68b31e6e324fc3aa2]
+│   ├── LWM.vom [84f3f2d6176e1dc19dbe09531f9f82b8fd9e8ab96c8c5828c0f25864888006a7]
+│   ├── NETRUN.vom [5e2c2ff6bed603534f97659d77c27e291cd4cdce3de2838fd5723cf231bf912a]
+│   ├── t1.vom [4b62655ab47156f1749a1445686262563027f193aab891f3f27bfa25d6591937]
+│   └── virus.dos.scitzo.408 [0c51a187fd0adde2710acfaf7a681a4ae010e00d028fc516b9680e6a108f014e]
 ├── 0409
 │   └── small409.vom [f8a7cc80a026e808587cc2469b4e91e086f3e962dbb3bea4da8bebeab99b8069]
+├── 0414
+│   └── virus.dos.sillyrc.414 [13b2d3a4eb10219ffd73bb0101aeec7bcec11ce692999e31fb72ee2fd8a43fa9]
 ├── 0438
 │   ├── silrc438.vom [cd8f8a7d8fb93d21da3735841061f75888ad7b8b0018f2f0014c9938eaa3fe3f]
 │   ├── t1.vom [1b0359c0ab7c8f6c3eb8ba2ba866e6393bcbcc9726af271d6f15192bc87289cc]
 │   └── t2.vom [1401c5a0998782b91554cc5a52ee1544e9a1fd6bc4db8d5e1596efc1a4c720a2]
+├── 0449
+│   └── virus.dos.sillyrc.449 [4c60d80dab2693328ef10cc5efab676f3946d86e2496f0167ca8d2c0dae8d6f5]
+├── 0454
+│   └── virus.dos.replicator.454 [56790fea0328db9756820f923930263d569bf8b8ac642acc018d75351d9633d3]
 ├── 0485
 │   └── sillycr_.vxe [dd0f12d2843f73b4503f21075c0670a8b38a7651cd2085d01ee71b1e78fcb4a1]
+├── 0496
+│   └── virus.dos.small.496.a [eb2e280ec25ef8752c68d3f3d4fc746183d859f00d46278d1293bf0cbadb9d9a]
 ├── 0563
 │   └── wci0257s.vom [aa4a956f9dcced7e0f1679cbbef0f02333af93521381ef117d6276d6c560f436]
+├── 0589
+│   └── virus.dos.v.589 [2afe3856c4e40d3ad9e0a4480b08dac00c00fbf0a95aa8a887478a71287b39d2]
 ├── 0641
 │   ├── martr641.vom [94d1cde4f8dfc1637a402518e3741eb980f481db97b432245c94125cc0e8d5cd]
 │   └── t7.vom [a28623785a5bc3b643e06694c6d934c0fb7e872c4c033db080de377c73640a4a]
+├── 0665
+│   └── virus.dos.qres.665 [cc575526c91b88730abda08cbc659863d0017bf9cc372b727b054664c9b65a2b]
+├── 0670
+│   └── virus.dos.sillyrc.670 [36afc0de309944cfd732606bdd915972e22a99d51c882d8a2a561b92711e255b]
+├── 0710
+│   └── virus.dos.oxan.710 [8f7f6b4e60daa72e7a3587b61c59a28514503f53b34c22ad9b99123eb64c2a14]
+├── 0887
+│   └── virus.dos.v.887 [60e535b48d8e955c2947a3b015f8c913a298e65dadd662477dd01084276cc6e4]
+├── 0897
+│   └── a
+│       └── virus.dos.zh.913 [50596da0f35acfd5206062554794880e126d5769322bc3e6e4c92612e42bca75]
+├── 1329
+│   └── virus.dos.scitzo.1329.b [4528d914ae05076acb2048a42b913545a46d6ff6830a1168895842e222b4475d]
 └── 3152
     ├── 80.vom [13628fec8844c3a10b47726eedc074c164ffbf8e67f070cc08921fb3675087dd]
     └── sill3152.vom [b14479cfb24483f8a0dd020ac7d62dbe0a45bed597d6dfc42ea0312ff0d931fe]

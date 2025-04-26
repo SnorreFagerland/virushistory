@@ -8,6 +8,8 @@
 │   └── virus.dos.vienna.dearuser.1407 [6981c7d02c059b3dc879f8070e989967e978ea72ea103ebe30a140c08df18997]
 ├── 1436
 │   └── virus.dos.vienna.dearuser.1436 [92979884939c141a42bd7474c58c35ec5f3d8a9784f07f452c07d2dd41d81ecf]
+├── 1532
+│   └── vienna_1.vom [a6e64c00647a2bfec36c0600f06450d9e184a75819ecd46a45fe2ea507bbae07]
 ├── 1533
 │   └── virus.dos.vienna.1533 [7ac7831104a28d63129c2867f2bd3903a17f6060b88881c5b37c7a24e303ba01]
 ├── 1542

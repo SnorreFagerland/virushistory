@@ -55,7 +55,8 @@
 │   ├── kd
 │   │   └── 903
 │   ├── kureluqu
-│   │   └── 655
+│   │   ├── 0655
+│   │   └── 5337
 │   ├── mandra
 │   │   ├── 425
 │   │   └── 535
@@ -204,6 +205,8 @@
 │   └── 1355
 │       └── virus.dos.sanlorenzo.1355 [a859cef241a88d0fcadbf328140b561116fc4ef8a0c9886e2fa0153da35e3ff2]
 ├── xres
+│   ├── 432
+│   │   └── xres_432.vom [88d858326c365014c305c4a0549a5137af85dd9bb361f92596f14d24190071c0]
 │   └── 927
 │       └── virus.dos.xres.927 [f2841537b824ffe736f1033defb6cffc3fdf4a034f20ac5d485dd99c85c1404f]
 ├── xrf
@@ -279,8 +282,14 @@
 │   └── 823
 │       └── Virus.DOS.XM.823 [d3b46cc1db4c5ee60ab35777f7049ab4d43b955a04f03b481a9f0a036bcb94c0]
 ├── xyj
-│   └── 415
-│       └── virus_1989.vir [4a80b4f85c5da2fb3a0a860af2d279333f1b093e2ba275be3b09afbcbdc0e848]
+│   ├── 404
+│   │   └── virus.dos.dikshev.yj.vom [b4880458882642b6fb7c799f9cb990a7948d5dc42a0de2f1427823f3f6362b4f]
+│   ├── 414
+│   │   └── virus.dos.dikshev.yj.vom [a7c60616601f566f14c026d759c1e297e3eb96428301d1ef7ad57677cb52c76a]
+│   ├── 415
+│   │   └── virus_1989.vir [4a80b4f85c5da2fb3a0a860af2d279333f1b093e2ba275be3b09afbcbdc0e848]
+│   └── 427
+│       └── virus.dos.dikshev.yj.vom [35c4368ae28175a4fbef8c1613209c853706a242332f5c29342435c3662c4d3e]
 └── xynet
     └── 947
         └── virus.dos.xynet.947 [a1b9ee95382f76993b61a71eeeffacc2c625d5ee77d755be6ec5655ff3fc1c15]

@@ -1,9 +1,11 @@
 <!-- AUTO-GENERATED-README -->
-# Contents of `rubix`
+# Contents of `rubx`
 
 ```
 ├── 305
 │   └── rubx_305.vom [2fe53e5f5ac986d9f33ea12273c00bdf1b0ece83cea0b435a7012f08f58cf70e]
+├── 306
+│   └── virus.dos.rubix.306 [4bda23a9d40fd04c903c1395d049ce03f3201015061f6275d5b5f5a9f71c1711]
 ├── 421
 │   ├── c-rub421.vom [3338322af0b47451551c78cecf52fbbdbcf4897963016a683bf39724a8b11cbb]
 │   ├── t1.vom [e3a627dff61fc2fc407dfa093886de2d81a733cfeb342aceab38c2ca2df4aff6]

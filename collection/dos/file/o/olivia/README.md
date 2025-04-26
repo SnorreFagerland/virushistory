@@ -9,6 +9,9 @@
 ├── 2316
 │   └── a
 │       └── virus.dos.olivia.2316 [b5c59d22310b287e3832d9b22f9478d83a87b1844a03eb6739327ab17ec57bcd]
+├── 2374
+│   ├── olivia_2-001.vom [9009ad0152e8b3e0c7f28452710db522dfb8693d57b5bc4d4d23d62460f6d489]
+│   └── olivia_2-002.vom [e0028d62d7506ca53a0d95cfcc4e77bcf620e56d3b3258ac959afa8f536492a0]
 └── 3378
     ├── debug.vxe [3e669feecccb5f5f52defae20e4c41bf3c125262abb86fe47b9eaaaf08d5d417]
     ├── doskey.vom [8e25dcce16892e4be0f91706709960710a39abc4595661a8a34e4ae12ff4a74e]

@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED-README -->
-# Contents of `bluescor`
+# Contents of `bluescorpion`
 
 ```
 └── 1638

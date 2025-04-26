@@ -1,0 +1,12 @@
+<!-- AUTO-GENERATED-README -->
+# Contents of `2553`
+
+```
+├── 1.vom [e404a3bfa1509593a4a0c41178bfca958dbb75ba6a51a242e21fcaf855e1ab0d]
+├── MOUSE.vom [a43ed09a833e92952f9ace9c9f63cd9c54f8cbb9edf3d308847b39876a16441d]
+├── PKUNZIP.vxe [94b0b67b62fb4dedaaa8233285e956387797bd3fd15da7b8dc1d67efdc0345d1]
+├── src
+│   ├── 1.ASM [c5bb7487954998a8124985f17bf84e93675f9ea5a5bbe2131d06bd3d318651af]
+│   └── Z0MBIE.NFO [08f9ed5a07822cd937a86f248e0c68ec2f437fd35e1b061f8c47f043c096a6cd]
+└── zombie_2.vom [3eb84191355d8607fadc419e0e5ed2373b8954c43edce71e17974f3c32467e15]
+```

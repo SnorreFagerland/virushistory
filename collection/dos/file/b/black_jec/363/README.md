@@ -5,7 +5,6 @@
 ├── Virus.DOS.BlackJec.363.d [3f3b398a5b6fbc3aeb9a4123d4a5c2b1b655e1f4f94592be64f2321b045fb6b1]
 ├── a
 │   ├── black_je-001.vom [fd961eb3eecb71eaac3634f94733bf6bb145a87f425a16b9831aeff770efd8fb]
-│   ├── black_je-001.vxe [fd961eb3eecb71eaac3634f94733bf6bb145a87f425a16b9831aeff770efd8fb]
 │   └── black_je.vom [1a2362a15748c3479e844a86de49717a27bf4a0da6e372b188217736edc15e75]
 ├── b
 │   └── blackjec.363 [ff755287b9657b942cb4e7e7c36deffbd1e1a4e64f1d1cac9cf9ab1f2290bf08]

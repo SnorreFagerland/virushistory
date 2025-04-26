@@ -2,6 +2,10 @@
 # Contents of `worf`
 
 ```
+├── 131
+│   └── virus.dos.sillyor.131 [847fa476f41a57cba749b3bc44dd8595c2012c32a3194e396d4eb695d24d9d6f]
+├── 167
+│   └── virus.dos.sillyor.167 [d4a4d4a6a6fce1600c29affdcf06f1ed886f98469513648b0d50fd3a0a7cdd96]
 ├── 303
 │   └── virus.dos.birgit.303 [713345ba8cbc56e844e0bf197a7c07cc0f8a4b5bda5f6c461cb53fbd69cbc30b]
 ├── 306

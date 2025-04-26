@@ -254,6 +254,11 @@
 │   │   └── virus.dos.burger.560 [edbd3743acf64f5a61652972b02c709c46873ff29f7993dd264412153ca4a571]
 │   ├── dc
 │   │   └── Virus.DOS.Burger.560.p2 [c1e81f919b7c9a20bc781dfcef08f336382e1891d043b2cf14bb7859a5f97cee]
+│   ├── dd
+│   │   ├── DUMP32.vom [6761401c3e6872cd91804d98a8dc427e11c765f6311b75b2bb154aca89ca8e42]
+│   │   ├── LWM.vom [be414b811c9f35cc53dfebbb112675216d5be4406d43997db283f7775829a3a7]
+│   │   ├── NETRUN.vom [e2da3de1b0b83a2eaac90474be80a218031e1aec3b46e2108c485408ea9cad5f]
+│   │   └── burger.560.a8 [ed9eb4ce788dc2ebf25dcfb7682fac873fb6d87e4c1bf0721741646bbbb53081]
 │   ├── e
 │   │   └── BURG560E.vom [59575d22ec2403fa9da8ed5aba2290a67548f4eec8c092c6c6337e2ce7d86b47]
 │   ├── f

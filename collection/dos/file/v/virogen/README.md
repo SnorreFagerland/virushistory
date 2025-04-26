@@ -102,6 +102,8 @@
 │   │   ├── t3.vom [5fee4b51b243df773101da529f2cd74ec184d6c8118cca8b393d65011bdd0fc1]
 │   │   ├── t4.vom [28afbd33b94e4ac16fcbae9acd0a5c9513abb2cbba271ecfc12820a7ad60b970]
 │   │   └── t5.vom [b34731d145423bda5b28c8f28b5cc32874b9adbc1a3e21eb787b77f78d75b1b7]
+│   ├── 1285
+│   │   └── offsprin.vom [c96ec94207a3eb7a0678365b52ed6d88ebbec79866fe7f8968d3f1b21cf48f32]
 │   ├── 1294
 │   │   ├── 0d2b3935.vom [e1361a9ea27a74c1162a726832d69a99a567c85a206aff2cffe6a66a40c124b4]
 │   │   ├── c1100.vom [633a8279238a06088867b43ff3bf055f8906f5a3ec1af671a48fc5eb5b3ab78b]
@@ -146,6 +148,14 @@
 │       ├── t5.vom [5726cdf9f0845bfefc300978a83af9358bcfaeba7d9e88955f61e0cd1624b2e1]
 │       └── virounk5.vom [58ecf2c705cb410f6da3e37e6063cf17704701080e4e39a91c8657e5dddddf65]
 ├── pinworm
+│   ├── 1800
+│   │   └── virus.dos.virogen.bombtrack.2054 [7d0c74ed18c520b8297d91f61ce5f49cb866fb624e6d1bc345fb603b8cdc570d]
+│   ├── 1893
+│   │   └── virus.dos.virogen.pinworm.1893 [f22d0e0148eb294a92f68f456937758e9a7c29b34eecf0b94bb2eb89942e9110]
+│   ├── 2020
+│   │   └── virus.dos.virogen.pinworm.2167 [b77006f38e08f4aa17d8dfafab0fe8402073401b946b03f23e1758d5f93b4770]
+│   ├── 2029
+│   │   └── virus.dos.virogen.pinworm.2032 [aa13ec4078ece70d775721b7c864cd598ce6a188e8998f4f69e011fd8a946983]
 │   ├── 2040
 │   │   ├── infected.vom [e11861d791bea8aa8d9303c36cb6dd250b1b75bc1f8cdb0c3d7a2015c09893cd]
 │   │   ├── t1.vom [e7bea036eb85fa02a1f40e5341ce94b068e69fc06e159fdd8b1341faff443381]
@@ -165,6 +175,8 @@
 │   ├── 2150
 │   │   ├── a
 │   │   └── b
+│   ├── 2171
+│   │   └── virus.dos.virogen.pinworm.2171 [96addb7722f5a12479d2d0637c0e843e04f8d22c30d05f2560cb76a3de27a1d8]
 │   ├── 2371
 │   │   ├── pw17-a.vom [e357a5ce4d48a81a849b45af0a758c1b49676cd2ff140ca55fc73ec12168955f]
 │   │   ├── t1.vom [ff02acfaa3f44c253f04f69f32ef15a931b63ffc7b49f54fb5a477639a47e62b]

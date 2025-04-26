@@ -3,59 +3,26 @@
 
 ```
 ├── a1
-│   ├── virus.msword.eight941.b [0f43abeb6e40087c082b45e5c5209d9966b5856118e254d12695ac60c73f5468]
 ├── a2
-│   ├── virus.msword.eight941.a [34a618910aaf372b4bf012c41405836b0264ae1391eb233c8cf35dc3131a938f]
 ├── d
-│   ├── eight941-001.do [203429cbf1ea0dae2ea552a81dec3cd460ae91009f6ef1df0f0c096d3b950b05]
-│   ├── eight941-002.do [2ca93e6ee1fe3b1509dd890eb10c1a757830617de31d0ffdb18e02650a41d2e8]
-│   ├── eight941.do [0c6d9212bbded6fc0cee5f34dc6cbdf13894c16d3fc385f5d3d747bdc2ad17ea]
 ├── e
-│   ├── eight941-001.do [9c1850e1a8c0c312733d7df5ad5ee555de1bf7c33e6f947f8a42aac532a4698c]
-│   ├── eight941-002.do [fe85e20215dc97adae3eeb210e266c54f4db3def850826899ada9e890dfc3500]
-│   ├── eight941.do [0366cd52c3d31680d3eb4e5447f5f804d90fc6f51379245ebc45b73da1e7d70d]
 ├── f
-│   ├── virus.msword.eight941.d [815c2fcdd4a6e5acba2db48f291773b839dcba9a13381b7a813ee9e2ca39460a]
 ├── g
-│   ├── eight941-001.do [ae4d7566bdb8cd1cb287384f3bbabc7293a3ae760c7fe186b7589fe32822d40d]
-│   ├── eight941.do [5f05ae0671c03bcae5d5d49a7649f5cdf3d4edb7e0d946754cded6a5831b5315]
 ├── h
-│   ├── eight941-001.do [7b7112a64181ff3e75640eac248bce5341d04b0980dd44ff3e00f7ba9e40e7fa]
-│   ├── eight941.do [73c4729bc1eb0d0d49c0a3e265428a8949856357b4757def200cb6e02c8983fd]
+├── i
 ├── j
-│   ├── virus.msword.eight941.j [6c9e3da826346567b2d13dd099823bdfc6ec63628cd1a312becc271f6c00c497]
 ├── k
-│   ├── eight941-001.do [8a53cef7931e9972227fe95963f2633048916f3947a2dddd60f05499c9eb4312]
-│   ├── eight941-002.do [c88553b6854f0d37eec78a66737c87b6dfb74638a7bfe1e75c42ddb592b7ef2b]
-│   ├── eight941.do [839d3343403490988ff556a29d77e2ac79516cf4f2a43946e7c6bd0997dfb04f]
+├── l
 ├── m
-│   ├── eight941.do [ef8f3a57f23e293a549c8bb8bb99c6d067b637c3b398a500f7c5cfc40ac5f3db]
 ├── n
-│   ├── virus.msword.eight941.j2 [fa66e2ee73615ef6de69aa49872a778903c1e0d66548ea5edf9ab8df68330d37]
 ├── o
-│   ├── eight941.do [fb5f797a64866441dead7adbe2739f56374c30672ae51443ca61f7ca95ce9803]
 ├── p
-│   ├── virus.msword.eight941.k [52f645c3e3f9197249f50e144b0f4cd727c33f0bab8a31940cf7d85f5e8eefc9]
 ├── r
-│   ├── virus.msword.eight941.r [9c501a0bd70820a4ee940bc226f916db57f4c0d8c38c42b71133786edfa9d783]
 ├── s
-│   ├── virus.msword.eight941.s [2574062a03d047f5b5865b3a91373cb2ec8086abb1b0b1c2d17f095f50e75c21]
 ├── t
-│   ├── virus.msword.eight941.t [6a8ae4c3fdaad4a6aec5ff6bac69778bd5992f9241b233a193f53ac2071d2f22]
 ├── u
-│   ├── eight941-001.do [ce579c5d45539ccda9f1d7beacf0f8075a7377e88abac7a26cd7e623cac26e98]
-│   ├── eight941.do [290cafb7900461e1c10a0ea37ac30d84fa31176b65444fc2426eb18a80b3798e]
 ├── v
-│   ├── eight941.do [b35ec00baf40a3008c265c1b65d48d202c65d537c04468d4f320ff3f9c4c908d]
 ├── w
-│   ├── eight941-001.do [6ba70320a4cf9bf2e9ff1a35aebd5e637509209eac91fb639e290ac31dcf8665]
-│   ├── eight941-002.do [ab03fe17225e6671cd7ebd76e1656f810e33ed22855534c34160b35fb5fc679c]
-│   ├── eight941.do [1c97ff44f7e32039c6afdf425ca586b5b1ee5703badd9d937c62289a7a54e7b7]
 ├── y
-│   ├── eight941-001.do [7063b479abab76eed513ac0372ff58a9ff872182be1acfc9ea944572f5399e2e]
-│   ├── eight941-002.do [d1bf83870bd75bf9d1acc1d87c281329509d453672796375fc878f4d7275d7a7]
-│   ├── eight941.do [6342049c66cb52c5a7d6414df355154ca55b482aac335063cf244fd0ddb5f9e5]
 └── z
-    ├── eight941-001.do [da1123be8b557b000406d39b34b92d8b0c4e22876026f78125999290e368cb07]
-    ├── eight941.do [892df28ac1c8f049e7b5058536662b23fb64edfbbfe27cb15dfd902e882d0513]
 ```

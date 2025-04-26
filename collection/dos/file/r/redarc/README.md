@@ -2,9 +2,15 @@
 # Contents of `redarc`
 
 ```
+├── 0327
+│   └── virus.dos.redarc.327 [7b1c925610af8d6c39f539f036ff6df9adbdc8e318e9c147782dedc58a21d3ab]
+├── 0328
+│   └── virus.dos.redarc.328 [d02705aeb44c82aadf70d125b6c9f48d2cda9a501d36343ece7af4666d84466f]
 ├── 0343
 │   ├── reda343.vom [c47f9bf295f75db363c4ed7d63ab865969509e988c817bfdecb6aef3ee380105]
 │   └── t7.vom [915b266521f2e2cc18fc96810a9664a1f0449cda428326aa1d9fd08a911ab4a2]
+├── 0389
+│   └── virus.dos.redarc.389 [7b811a3f1445a63404d7f9f4795ac235cdb15f5ec22de9fd97dd40488611bf96]
 ├── 0390
 │   ├── c-red390.vom [0deecdd2c2db1cdbb0d6e387ebc790cf24e1fc8d1faf6e885b4c48e528bdde9f]
 │   ├── reda390.vom [cf9b5776135fd86314598202b59687f18a1d08f2f1c8ec7b67b848cdabd1351c]
@@ -28,6 +34,8 @@
 │       ├── t6.vom [9dc5432309b9920b27aa305b84b71780dce2f3145e206be8a8c3d504a188382e]
 │       ├── t7.vom [353ffdb9ed729b283b122557d38d57e357601d86a37de09bc3dccdefbb0fd669]
 │       └── t8.vom [e40bc5ece65b4cd6ad38e5b3955dd096aeb9bfb1ccb246b3bbbb2bcaefbd0a91]
+├── 0467
+│   └── virus.dos.redarc.467 [5f1d79a2f23df0d6f8d647fc2ff4a364d9b9b86777b3b1fd9292410fb0f010d4]
 ├── 0600
 │   ├── reda600.vom [d626bff988c10a3d29a455cfd744367b3f1497dfa5bb7bfd2c56f2392ae4532e]
 │   └── t1.vom [3a6197ff2b2a83ee9f44b346f1d6e56f81b925e65931e8a19ed46070d2b774ed]
@@ -39,6 +47,8 @@
 │   ├── c-red665.vom [3c649c3422b8a06747864d9076b32d24bf1b518784888d1ffdf7213b61e8e3f8]
 │   ├── redar665.vom [3dc76de0a341a712ef1903bde16c58ded6f1ab9cb5531d4bb53545c55ca42aa3]
 │   └── t1.vom [a87d4a46367f5840ce75c5659377b34490de402d2b12216cf48c84c068644c47]
+├── 0999
+│   └── virus.dos.redarc.999 [ad98490f85dfefbdc383a69b1fdc76634a9c4cee6a4137972b7d5c928b94a8e0]
 ├── 1000
 │   ├── reda1000.vom [4822f2fffd86960ef382f21920d0ae792060bdd942d1dd5d25f363d9c4d60cd0]
 │   └── t1.vom [27ff49b57cadefee76fa0b502e4e728fce18a9450c814d795f630f2001fc79ac]

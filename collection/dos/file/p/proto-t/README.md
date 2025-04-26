@@ -26,6 +26,7 @@
 ├── 0694
 │   └── proto-t.vom [932b34d596945c217c8ddb4acc8d22d91b2231a1b5cbe121c05ba7803beb2a17]
 ├── 0695
+│   ├── PROTO-T.v_ [a935ddb5a71f47d3735a57e16e0db9cd2108a8d65abbb1c830ea21101f7789be]
 │   ├── proto-g1.vom [ccb8b54f678772f27dbf3ab1c97d4cef23e6ca3efff4a4dd3a92e7500851f8b0]
 │   └── proto-t.vom [65aec85ac7e3a3a761912a919b95a95915814c9f75cadb9168fe09e4fd7597c4]
 ├── 0700
@@ -37,9 +38,12 @@
 ├── civilwar
 │   ├── v8000.vom [e487b4932082d3cea2672f1917c7d00244560267ac3a1d9063a2696c2e7850ef]
 │   └── wci08131.vom [6732f4a016d7b45764db3413d5f1661263fb34a2f1284d4e07ea8b3638e501c0]
+├── f-prot316f.txt [71f9365fd9de868fd65fdcbfd6f7423d2e7a79e7b4e8ef887b0b60d43320aeec]
 ├── lockjaw
 │   ├── 1041
 │   │   └── lockj.vom [b6728690052e23383058e7f3262328df076feb8be695ac6e35b8834ddd2c8be7]
+│   ├── 1047
+│   │   └── virus.dos.lokjaw.1047 [2a66c51ac039e1bc7de201e2b07d95976d093bec28b2c89732178c9ee5464baa]
 │   ├── 1048
 │   │   └── lockjaw.vom [1d4723dc43e1fcb5da8ba0d2ff9a3fdfdc64dd415eb969972b826f07b0dda978]
 │   ├── 1050
@@ -47,8 +51,10 @@
 │   │   └── prt-1050.vom [5f249d80c56214e84187c0a2ae17255e5523d33250ed8b5adddcc9e532858f6c]
 │   ├── 1052
 │   │   └── kenson4.vom [c6d7210c7ae051a0da9881b744d73e56d618ae5f802633d7711a54b9de178d87]
-│   └── 1053
-│       └── lockjaw.vom [1aa51f7a94dcab95d9fba751ccf1b72d64090e500ad5df6fd6d4150f571fd796]
+│   ├── 1053
+│   │   └── lockjaw.vom [1aa51f7a94dcab95d9fba751ccf1b72d64090e500ad5df6fd6d4150f571fd796]
+│   └── 1058
+│       └── Virus.DOS.Lokjaw.1058 [9ecfc4f1538054017f6d7585c1cb82447364939f972bf3a27abfe7b4f53128bf]
 ├── number_6
 │   └── v8005.vom [fcbe811b242ddb83faf08ab9f3611c1681fc4f7d097761d33a128d000af680e4]
 └── ritzen

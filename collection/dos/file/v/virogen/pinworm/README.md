@@ -2,6 +2,14 @@
 # Contents of `pinworm`
 
 ```
+├── 1800
+│   └── virus.dos.virogen.bombtrack.2054 [7d0c74ed18c520b8297d91f61ce5f49cb866fb624e6d1bc345fb603b8cdc570d]
+├── 1893
+│   └── virus.dos.virogen.pinworm.1893 [f22d0e0148eb294a92f68f456937758e9a7c29b34eecf0b94bb2eb89942e9110]
+├── 2020
+│   └── virus.dos.virogen.pinworm.2167 [b77006f38e08f4aa17d8dfafab0fe8402073401b946b03f23e1758d5f93b4770]
+├── 2029
+│   └── virus.dos.virogen.pinworm.2032 [aa13ec4078ece70d775721b7c864cd598ce6a188e8998f4f69e011fd8a946983]
 ├── 2040
 │   ├── infected.vom [e11861d791bea8aa8d9303c36cb6dd250b1b75bc1f8cdb0c3d7a2015c09893cd]
 │   ├── t1.vom [e7bea036eb85fa02a1f40e5341ce94b068e69fc06e159fdd8b1341faff443381]
@@ -28,6 +36,8 @@
 │   └── b
 │       ├── pinworm1.vom [24f077ff0e03dc08af00d1d04dbbba3d8d8b661613effaf442a53b66f28cca10]
 │       └── wci00204.vom [097831cfc71f9a4e693efa88d3cffcc938454c3e02a1f3ab9851215477e375c0]
+├── 2171
+│   └── virus.dos.virogen.pinworm.2171 [96addb7722f5a12479d2d0637c0e843e04f8d22c30d05f2560cb76a3de27a1d8]
 ├── 2371
 │   ├── pw17-a.vom [e357a5ce4d48a81a849b45af0a758c1b49676cd2ff140ca55fc73ec12168955f]
 │   ├── t1.vom [ff02acfaa3f44c253f04f69f32ef15a931b63ffc7b49f54fb5a477639a47e62b]

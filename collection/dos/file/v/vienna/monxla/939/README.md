@@ -12,7 +12,6 @@
 │   ├── t1.vom [bf357220d11eef7018ef590a2d7473fb59700b6421bfaec25e403e7564afc856]
 │   ├── t2.vom [c335ee9adcc3313aed5d076b97e58e301b33c8d94dfe158e95093f1b46222c06]
 │   ├── t9.vom [528f659a2aa5a331bd8e883fcde2225de7cfd97639fa7c8efa15fb1cbb8e2575]
-│   ├── v-monxla.vom [cb744bd57f6495feeb0340e954ef53e3ccfcfa0955fcbd97f0ea3ba5370db4ae]
 │   └── viemoa0.vom [4c3941558278a87ae22f421bdae05bf31a1f671d5c16ce632b9b82f79e8cb4a6]
 └── c
     ├── grep.vom [af65c6eee82d2db8e641da93f817c8db1571e348be5eebb87b63b60799f776e6]

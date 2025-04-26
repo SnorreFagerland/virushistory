@@ -365,9 +365,6 @@
 │       └── virus.dos.nucleii.1515 [047e27a5e590f24fcf019e3238ebdb9aee528bc646943f23ca2dc1c46aad90ad]
 ├── fcb
 │   └── fcb.vom [0c963393dc2673b230d70d1c9b309cc4dedf5d9bf0c3f9c3b16ac5d776843db0]
-├── fcl
-│   └── 2044
-│       └── virus.dos.fcl.2044 [415bdd34ef4d80ef1a018192c3c434ca63c965b9cdba3e83c5923e7000afb117]
 ├── feb12
 │   └── 1167
 │       ├── feb1167.vom [4dd0ff7baf3be41eeef3db750fe262452a23039a091c57e821b674d395229d8e]
@@ -757,6 +754,8 @@
 │       ├── a
 │       └── c
 ├── floppy_trsh
+│   ├── 1361
+│   │   └── virus.dos.thrasher.1361 [5876958acedc55910753fb2d5010ba6172eba2a92d0945b22ed70235e689b390]
 │   └── 1364
 │       ├── a
 │       └── b

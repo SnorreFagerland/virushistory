@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED-README -->
-# Contents of `philippi`
+# Contents of `phillippines`
 
 ```
 └── 3133

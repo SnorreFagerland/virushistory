@@ -2,10 +2,17 @@
 # Contents of `sillyor`
 
 ```
+├── 031
+│   └── virus.dos.sillyore.31 [277bc1ec657632b0ddb149627039cedc090b58a445874e86b80ceaff640a2d0b]
+├── 045
+│   └── virus.dos.sillyor.45 [fdc18f5a5b69bbdea1ada1145ed90afcaef4452d9a7589b43fccb4d96b265e6b]
 ├── 049
 │   └── vir-49.vom [1f02f6b351fc218c031255f1cbcdd954c6184da2bc6d29c1be4597fd364390fd]
 ├── 050
-│   └── sillyo50.vom [8398dfbd5000a800934df9523369efb3b725b622cc567678b7efcc1a51fb5cc3]
+│   ├── a
+│   │   └── virus.dos.sillyorce.i386.50 [c813af9efb261f453a21e5fe643733e7088f109a59094c10da751bd759ef5775]
+│   └── b
+│       └── sillyo50.vom [8398dfbd5000a800934df9523369efb3b725b622cc567678b7efcc1a51fb5cc3]
 ├── 060
 │   └── wci0275s.vom [0dca5d5d3966d831bdca375072e0f9b42320a42094fbe58d3441f5b806e4455c]
 ├── 066
@@ -14,7 +21,10 @@
 │   └── b
 │       └── sil66b0.vom [4f03d1d091b6dd4099741ad210a0bc7f1b6ae33300318e1a2a429af668b1b0c9]
 ├── 068
-│   └── wci0278s.vom [cbdb6a998ff80e4e716a719711f2c7cf221181b00ed45d2e4bd95d2fa31ced12]
+│   ├── a
+│   │   └── wci0278s.vom [cbdb6a998ff80e4e716a719711f2c7cf221181b00ed45d2e4bd95d2fa31ced12]
+│   └── b
+│       └── virus.dos.sillyro.68 [933f2bcc730b3e042d94fe6242be85f03eddf4c0e3ea1f7334757ca18a3f56f4]
 ├── 069
 │   └── wci0279s.vom [3666d749fac9c6b8a5c73ce79bb9f6cf7d30c815280e6ace1645e41e783a6b1f]
 ├── 070
@@ -54,12 +64,18 @@
 │   └── sil101b.vom [e22933ca7d858d11469d754de928f0ebb05e22c8606a6aade4f8de6aaca0f823]
 ├── 102
 │   └── wci0266s.vom [13d00028389128a6f927740cf0f3a6c87dba207fa27190819aa88a08b67b6d14]
+├── 106
+│   └── virus.dos.sillyro.106 [b308e4cfd7cadf1d2fdb095c162b70cc882247b3d2122c1ed9aa03020278664c]
 ├── 107
 │   └── sorc107.vom [a0833aa2186b07091c7c9c981d1cbaa6992ce73869af2fba48cc7329ae10fcfc]
 ├── 109
 │   └── wci0268s.vom [1553f5ef4e325386d7d2e787511269b240b8e9d335f3f81a93ad3eced57cb35b]
 ├── 112
 │   └── sorc112.vom [afc64ffaa89892edfb36c9163373610b0f037e4505a749e865f8303d9bcad8ea]
+├── 119
+│   └── virus.dos.sillyorc.119 [d9fae80e8b1882f157b2712a0521714beda9fc67ba2a3b481da40f7f22cf9028]
+├── 126
+│   └── virus.dos.sillyor.126 [e4acde4681c73d5a39c827fef194bf5217ca7ca284ae479b6fdef5b9616a6b86]
 ├── 131
 │   └── wci0270s.vom [8e0a8687f751cc018c89bd4674fb305ab7d31dbf41320d653f02c6fa2b617d3f]
 ├── 136
@@ -111,6 +127,10 @@
 │       └── sillyor_.vom [bff00a773d64a1b90c732d6780c8efa3674373d2a367e0d1bcfb68d5c33a2633]
 ├── 177
 │   └── silor177.vom [a2808d209ed4c570afa0fc8d63b38239989bd03bdfce434b69b124da4707ec04]
+├── 195
+│   └── virus.dos.small.195 [2b50a443e6e70956c32637164a16a187f1f461ec22fff6ad90f62a0263e2f511]
+├── 278
+│   └── virus.dos.trivial.278 [85ea5231148b4fc1dd3e15487108c6fe20171ece053586520bad9828c4f2fa18]
 └── 508
     └── virus.dos.small.540 [bc2c02872d57b194d756a4aac73d1aaacff2e3671c6e2db88bed1c9c4a7412e9]
 ```

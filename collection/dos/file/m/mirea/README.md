@@ -4,6 +4,8 @@
 ```
 ├── 0549
 │   └── virus.dos.khizhnjak-based.mirea.549 [1b336930d28a8c6e591fc29678b00bd0b5f16ae2c3ae89563e5851d5034af65e]
+├── 0665
+│   └── mirea_66.vom [c06376e64239bd24780516b70fc327af1e281d3ec50beac2cea5625ebc5d1a20]
 ├── 0703
 │   └── virus.dos.lyceum.703 [e93c8d18771e4219bab59e96abfbeb1d80c9a5626ed356c8799d7835d22f2751]
 ├── 0737

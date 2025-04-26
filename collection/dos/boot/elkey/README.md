@@ -2,6 +2,8 @@
 # Contents of `elkey`
 
 ```
+├── a
+│   └── elkey_a.boo [d562856071f0b51b2ce2e3d5a98a405a3bb114852e2fd4127574e7b2cbd305fa]
 ├── b
 │   └── elkey_b.boo [fc3bf73fa3c380f4ec333c20aca06c124841785813f61a096c6f092d3f15fcef]
 └── c

@@ -24,6 +24,8 @@
 ├── 184
 │   ├── infectme.vom [8d45772d537b9964b216cdbac83e4ffb47861955f202dc4db81ebc7cf9523ea0]
 │   └── virus.dos.sillyc.184.c [901f6a9997cb855639d179072cdf94c29e7541a22c64b51830b1618b7ac7371d]
+├── 1893
+│   └── virus.dos.kando.1893 [04e66ea8d2a9fb3e3e50d37a2ab85a086fd93bddcfdc8ee44b2300eff28432e1]
 ├── 203
 │   ├── a
 │   │   ├── 040bf646.vxe [bf7ca51d679b85b992828c721db17e2447e4b4229d8ab907191b1f07a9c53ab1]
@@ -31,15 +33,15 @@
 │   └── b
 │       └── wci0357p.vom [876290e21341e13fac5dc9976ac86c2987ba785e5122a4456f117bb752d93b45]
 ├── 204
-│   ├── a
-│   │   └── dumb.vom [a2c4a91ba11ae53fc065c2e78fb2325433218e6d10d743fb69b38d0af5e141c8]
-│   └── b
-│       └── psmpun_g.vom [8e877af5f6eda9bd13088f3520d8fd7ceced543671219e68ddad85f93e274e70]
+│   └── a
+│       └── dumb.vom [a2c4a91ba11ae53fc065c2e78fb2325433218e6d10d743fb69b38d0af5e141c8]
+├── 209
+│   └── 209.vom [b04e3742e9219be7bee49bc63497021af7065b6961e65260838718c87ea762b7]
 ├── 212
 │   ├── a
 │   │   └── psm212a.vom [35b991512c473197023975f3cc7c6523cde63bd3d38cc1908bb728cb54fa9736]
 │   └── b
-│       └── wci0362p.vom [263c76e6153e17b52f5f9063c650f2006144bf9289b4300335d23af04e4c3771]
+│       └── virus.dos.sillyc.212 [76365252fee26c3f0a81f7516d3bb27ec323fccfb322b30e1d6121233e6f0e0a]
 ├── 2668
 │   └── ps-2668.vom [1cc965e0104083e05bc36b71e9a9c2599ca5af1f8861e9c94814d454c6b971c2]
 ├── 272
@@ -238,6 +240,8 @@
 │   ├── aaron.vom [4c000ea96f7e36e448b7863e05541e12bb1f6895f25eb70b3875b470e59f6077]
 │   ├── grep2.vom [9bdeca1f2503dbffb3ff034f47f9725c6d981761825baebc89447f44ebd1bf77]
 │   └── schrnchb.vom [6df62ba653e7a14f24065b8782d3871a91c09827fb4c0ef265dbcb0af7adaf3f]
+├── 466
+│   └── virus.dos.bin.466 [32b6a8936b2c34b911efdc5f142c5de3ae15c9050865889d7ea916e4d83221ff]
 ├── 475
 │   └── d
 │       └── wci03712.vom [382f755aee0982b0926f1d9de1e41f9cdb74f7d98fe0b06c62408b0fc349693b]
@@ -260,6 +264,8 @@
 │       └── wci07461.vom [46d667ab6582fe936b41d2c6fc5ffecbc31def6e8189a452352477a16f9eedfd]
 ├── 511
 │   └── wci0781p.vom [de3ea29004717a2ce127d7728c2710618fad65747460c405ef7e62ddbb263afa]
+├── 515
+│   └── virus.dos.sillyc.515 [5f9f4278010d55d1f29a6ee9b045dbe36a281589b88b0d15429f9b064c5289c8]
 ├── 519
 │   └── psmpun_8.vom [a34271968b36a5bfef4a6c8d0d5e3824cdaecc7664fc37cb4b6e7766ad092b49]
 ├── 520
@@ -568,8 +574,6 @@
 │   └── i
 │       ├── psmpc^22.vom [4ca7cfe6403d0c091b8cadc42d3d446b4b1407048afe530b0a27106c399e6bcc]
 │       └── psmpc^23.vom [4e1b5c93915ab5db64ddf3a61935e565a5212b1efdf3b525afa26ac61dfb1047]
-├── 604
-│   └── parks7.vom [8541cd16d3fbe06a6f4b6e2026d8f8435d42cbd0d8c56a48792627f8e73b5669]
 ├── 605
 │   ├── a
 │   │   └── ps-0605a.vom [174c428e5c1dac795bc1ffaf12be854c5e56cd7d87751c00ad393918340eafec]
@@ -758,7 +762,8 @@
 │   ├── 267
 │   │   └── kool.vom [67ee415476b3a3b8d27b25c0d06661bc7bc11c1830b65b021d924f2457d92d76]
 │   └── 700
-│       └── ps-alche.vom [bd937245a9dbd611988aa285e70ed3612b49e944945b0344eea80f929df27e28]
+│       ├── ps-alche.vom [bd937245a9dbd611988aa285e70ed3612b49e944945b0344eea80f929df27e28]
+│       └── psm700a.vxe [6fc2a317c0d4d32b242db870d6656334c32314171774ae181504e82b4147699c]
 ├── alien
 │   ├── 392
 │   │   └── alien392.vom [856cfe45a8ce7c8553a19c8992897d81e53e373dce837dc5eaa20df6d7ccb9a3]
@@ -806,6 +811,9 @@
 │   └── 706
 │       ├── anoth706.vom [110b7e258ed90625f42aba081cb753f7627ec272c8b34035e7c032360b22e05c]
 │       └── wci05742.vom [49be7e9b158b4f93f430b97c309a78a01d213d84ecb3a299d1a512a1df514783]
+├── antiavp
+│   └── 959
+│       └── virus.dos.anti-avp.959 [2bb807a325f5112400c5b53016c2d0a4e45f8dba67540c0b27facbfe594d3984]
 ├── antilock
 │   └── antilock.vom [4112d546c4df7b6af187d347a686815f780ab5789a2f99b9e5d3b286ce59ac6a]
 ├── antiprin
@@ -854,6 +862,9 @@
 ├── asstral
 │   ├── azeuss.vxe [1acc76e84f66f95d3d1876d61019ea6bfa8db21e84acf93ce30098ca3990c627]
 │   └── ps-asstr.vom [aeb94e2d963fa30c1aa884bc96bfca74cd10599495cd8540a598f5c00e32b04a]
+├── batcpy
+│   └── 604
+│       └── parks7.vom [8541cd16d3fbe06a6f4b6e2026d8f8435d42cbd0d8c56a48792627f8e73b5669]
 ├── bca
 │   └── 644
 │       └── wci1252p.vom [4695b09ca166d6dbd7d6d6f9fa149b88601cd7c684a415a41138587d18ce5cca]
@@ -900,6 +911,9 @@
 ├── clint
 │   └── 1076
 │       └── ps-mpc_1.vom [2af8cea2ead5be4a0053dc1f46e2d49c3bef0e643ae5209c7a511616742ef517]
+├── codewars
+│   └── 482
+│       └── virus.dos.ps-mpc.codewars.482 [3c2025964897df9231effe1d9894942b973d8ced5cc67d375b9cfb10f183b902]
 ├── corosion
 │   └── ganjav7.vom [ae11979b8901688f22b9f56a567182111640f0005e4810416def4115aa78c6a8]
 ├── crazybob
@@ -1095,10 +1109,16 @@
 ├── fred
 │   └── mp-byefr.vom [9cfeab5b17377eff40bf118c77e04f9ed50d568e0387e51f1bcbe0549887f5e1]
 ├── g2
+│   ├── 291
+│   │   └── virus.dos.xor.291 [afe963ea8116d809c742fea7da0221f2daa487780b4cec901247d4fa405d9957]
+│   ├── 330
+│   │   └── virus.dos.ps-mpc.330 [567d10b3bd607b9ca0285490f6c5833f894e52adac92a93f6f97b0656adb865b]
 │   ├── 341
 │   │   └── mpc341.vom [9a1f98a67e8f95915c90a457c70c1937f37bf82a2ffbe3a83628b7443caa0f2e]
 │   ├── 425
 │   │   └── mpc425.vxe [6691c8a8b38a754044fc1bb6e9e3cac9faf52a5629aa0699fdd87f5d9667271f]
+│   ├── 466
+│   │   └── virus.dos.g2.466 [3f874c3b469fa644fc0e66333884e8b0a2214201c98f553edb292b63aa994e84]
 │   ├── 496
 │   │   └── wci04003.vom [d9017f583b0cc8ae56412733d14a4d8972386f6267e23c7d521aefe0c6293940]
 │   ├── 524
@@ -1164,6 +1184,11 @@
 │   ├── archive
 │   │   ├── 509
 │   │   └── 510
+│   ├── atul
+│   │   └── 335
+│   ├── bford
+│   │   ├── 321
+│   │   └── 328
 │   ├── bitter
 │   │   ├── 581
 │   │   └── 582
@@ -1176,6 +1201,8 @@
 │   ├── captain
 │   │   ├── 513
 │   │   └── 598
+│   ├── carlo
+│   │   └── 330
 │   ├── celeste
 │   │   └── p310.vom [39aa642156a21eeb7b77b2ede8d811687be28487aa0f1e1a758545f3e02626da]
 │   ├── crazyc
@@ -1183,6 +1210,8 @@
 │   ├── denise
 │   │   ├── 584
 │   │   └── 585
+│   ├── dieter
+│   │   └── 323
 │   ├── dread
 │   │   └── ear612.vom [f8588e78928696cdd4efdbae1046c8728161fbb05f07091c7198982997c51aaa]
 │   ├── duke
@@ -1191,9 +1220,16 @@
 │   │   └── 333
 │   ├── gandalf
 │   │   ├── 325
-│   │   └── 326
+│   │   ├── 326
+│   │   └── 340
+│   ├── goma
+│   │   └── goma
 │   ├── greythor
 │   │   └── gthorne.vom [124c1cf75950ab6297a9007bf78136ae38a45a3a6c3b6a813f040e04f4b8a4bb]
+│   ├── hee
+│   │   └── 398
+│   ├── hoa
+│   │   └── 372
 │   ├── iguana
 │   │   ├── 579
 │   │   ├── 580
@@ -1225,6 +1261,9 @@
 │   │   └── 314
 │   ├── nin
 │   │   └── 569
+│   ├── notme
+│   │   ├── 298
+│   │   └── 324
 │   ├── oj
 │   │   └── oj-virus.vom [902364b21ab6179bbb21274e0c7f7bb31054f58bc910aa60065b752234309a0d]
 │   ├── paradigm
@@ -1276,7 +1315,10 @@
 │   ├── shark
 │   │   ├── 441
 │   │   ├── 490
-│   │   └── 501
+│   │   ├── 501
+│   │   └── 536
+│   ├── skeleton
+│   │   └── 536
 │   ├── stargate
 │   │   ├── 455
 │   │   ├── 522
@@ -1369,6 +1411,10 @@
 │   │   └── ddeal13.vom [9a313371ab4f32dae01b781d9604fd61fd97efa479c70aed5b863c8947ff560f]
 │   ├── 342
 │   │   └── ddeal12.vom [b1783abaf1358e46e3cb528f0ef25f91e56331fabd5ccf7c1b73bf7d9450857d]
+│   ├── 451
+│   │   └── 8f7241d1.vom [e43cb491f1c82612af3986187fe67f54bb3bddf2323bb86a719a4bec75dd36a1]
+│   ├── 522
+│   │   └── 19c4247e.vom [7b7f537492df34a8640df9db98c69dfbd27e305035089462e07d03c6ca4796b8]
 │   └── 599
 │       └── g2deal10.vom [203236cdee1c668318a7f7fb27c3efa0ebc3f27b8ce164a5db408074f6501342]
 ├── happy
@@ -1534,6 +1580,9 @@
 │   └── 1706
 │       └── wci0346p.vom [eb4f3b52a3afdf35820231427e647d59d7026bf9e60e48b9a1963e4a33acba72]
 ├── msd
+├── naej
+│   └── 950
+│       └── virus.dos.naej.950 [6f86b7e7d2e3b3cf15d42975aea7b500f288358a0dc0d07034cf72ee4a42ed77]
 ├── napolean
 │   ├── PS-NAPOL.vom [2de3a10e376f6452a711e197bca9625c997fd43ce0d183c125c16cbe8f404fb2]
 │   └── v7150.vxe [f23e288f2b8407b040d5c777d65c8cc4623dbd0e803f15082d9895e5746a3b90]
@@ -1570,8 +1619,31 @@
 │   ├── 0780
 │   │   ├── ppage780.vom [5bae01e96195f62bc39e3d9f0acd7c1490aee3d5b76aa4ff48dd7a1130382268]
 │   │   └── v6180.vom [bb1b657c7ece24b0cafb61756cab03ab3d66bd49a55acab95a23076f51088668]
-│   └── 1703
-│       └── zeppelin.vom [f987fb93d731a0db081f6ae46d387a58c58bb95b4c9e10e11b27a6c251613a83]
+│   ├── 1508
+│   │   ├── swansong.vxe [9510722ffa8d1ce8d8e65382170d50a497535eb544e3ba9ca6df492e178f3e95]
+│   │   ├── v7220.vom [6d8d19668cc5beb97be5b7a1b79e1284fc2671f8347ad33936a412d4e4872d52]
+│   │   └── walkev.vom [4f2b7a951291304b635811ead090070ddf128d80d71210e9a4b84c3288da146c]
+│   ├── 1520
+│   │   └── b
+│   ├── 1521
+│   │   ├── ps-s1521.vom [15ea30ca59017327265c24af4f99f3983a3bb8cf10a39639b105052f378f76cb]
+│   │   └── psm1521a.vxe [926c6fec152dd009a64a601f8de4b8832a4c13e8187d0772064849867cf7191d]
+│   ├── 1703
+│   │   └── zeppelin.vom [f987fb93d731a0db081f6ae46d387a58c58bb95b4c9e10e11b27a6c251613a83]
+│   ├── 1705
+│   │   └── 1717.vom [35517355ee6c988073f1f0bea5fab447a50e6b69df98e8247846f14b784a5505]
+│   ├── 1706
+│   │   ├── a
+│   │   └── b
+│   ├── 1714
+│   │   └── ledzep4.vxe [a923d94a56155c2871dee1fa9c75e66ca25735c67f7dc68a3b6785bc6bf85e81]
+│   ├── 1772
+│   │   └── swanb.vom [4ed0aa1e377a58ef992d1d049b8a742eb80108378f7dc6a4c965768820e4bd3e]
+│   ├── 1773
+│   │   ├── a
+│   │   └── b
+│   └── 2062
+│       └── ps-s2062.vom [7ca5d55ebadb8836b48b9846d5ab087947cd806b484328a0319af406cf5ebcb6]
 ├── pandora
 │   └── 618
 │       └── sexstory.vxe [910bee1a19e419f052b2e82a4477c3fcb733d54efe2e30fc75e122dec522122e]
@@ -1942,8 +2014,8 @@
 │   │   ├── i
 │   │   └── j
 │   ├── 604
-│   │   ├── b
-│   │   └── c
+│   │   ├── a
+│   │   └── b
 │   ├── 608
 │   │   └── ps-431.vom [ab4adc0420effa296007b8283ded77ecc4a108b36e38bcef37dc2c6f6ee865a6]
 │   ├── 622
@@ -2216,6 +2288,8 @@
 │   ├── 405
 │   │   ├── mrmsnrt6.vom [788bdc50570f66dc07637867469f76d0fbf96f8b22eb0f77652c416358f521b2]
 │   │   └── mrmsnrt6.vxe [175666e02f650fee669c12e4973266c90988de2f84c6ecc1d4a1af0d13d3e238]
+│   ├── 406
+│   │   └── virus.dos.ps-mpc.406 [c095562736f866971d8b2bc73982227326980fabe924ff9316c36144ccf4af74]
 │   ├── 408
 │   │   └── wci03391.vom [63bb0f82e61da2eb1623af23b26dbe5f825b70b209fd785ae855a3b8e5795bd8]
 │   ├── 415
@@ -2260,29 +2334,6 @@
 │   └── 2048
 │       ├── Virus.DOS.Suicide.2048.a [6f6ed5fd3f66d67e7e89a02eb67250fe5d951b87931a785a6ace6ffd6bf788ec]
 │       └── ps-mpc_2.vom [07ec65830c02c53dc257d797a7c0549d2fc98acc10353fcd1bed975b4c29d984]
-├── swansong
-│   ├── 1508
-│   │   ├── swansong.vxe [9510722ffa8d1ce8d8e65382170d50a497535eb544e3ba9ca6df492e178f3e95]
-│   │   ├── v7220.vom [6d8d19668cc5beb97be5b7a1b79e1284fc2671f8347ad33936a412d4e4872d52]
-│   │   └── walkev.vom [4f2b7a951291304b635811ead090070ddf128d80d71210e9a4b84c3288da146c]
-│   ├── 1520
-│   │   └── b
-│   ├── 1521
-│   │   └── ps-s1521.vom [15ea30ca59017327265c24af4f99f3983a3bb8cf10a39639b105052f378f76cb]
-│   ├── 1705
-│   │   └── 1717.vom [35517355ee6c988073f1f0bea5fab447a50e6b69df98e8247846f14b784a5505]
-│   ├── 1706
-│   │   ├── a
-│   │   └── b
-│   ├── 1714
-│   │   └── ledzep4.vxe [a923d94a56155c2871dee1fa9c75e66ca25735c67f7dc68a3b6785bc6bf85e81]
-│   ├── 1772
-│   │   └── swanb.vom [4ed0aa1e377a58ef992d1d049b8a742eb80108378f7dc6a4c965768820e4bd3e]
-│   ├── 1773
-│   │   ├── a
-│   │   └── b
-│   └── 2062
-│       └── ps-s2062.vom [7ca5d55ebadb8836b48b9846d5ab087947cd806b484328a0319af406cf5ebcb6]
 ├── t-rex
 │   └── t-rex.vom [f5b87ec88b4f1883445f1ea09acab3276f84bfc98b94ef95ae7adf3abf08a87f]
 ├── taocheng
@@ -2329,6 +2380,11 @@
 ├── train
 │   └── 646
 │       └── train.vom [2cb26b2a49f49a9ffc42cab1a8416c73bf6be59e63a9211065f9f9a8324d911a]
+├── trash
+│   ├── 291
+│   │   └── virus.dos.ps-mpc.291 [eeabfca041086ab7617aa94b1bef655b5a49421b25c57f4b166ab441fc9eec0c]
+│   └── 339
+│       └── virus.dos.ps-mpc.339 [a0a9892269826c9962a0ea5f37455ed9c3a786b5056d96dc8c79b96055680b57]
 ├── vega
 │   └── 227
 │       ├── a

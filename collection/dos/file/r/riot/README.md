@@ -24,12 +24,26 @@
 │   │   └── wci0362a.vom [373410e601bf4e28ff1bbb80f9d63723a308c38aa91fa40c5d2830a64f59ed0f]
 │   ├── 724
 │   │   └── bad_att.vom [eb817a6a8e172adf336fd30176dd933aa8fe62a6895d77c0606583558a1d04b5]
+│   ├── 725
+│   │   ├── DUMP32.vom [679c8849776f757823e1f465a8de9bcbe0d77b662cd9d5ba84aee443d56fa27b]
+│   │   ├── command.vom [6cb0f7f38268514c5ac59f76a458a83f33727b71f05966d26d254b9c17eecebf]
+│   │   ├── t1.vom [5ddd13fca6f14ce6069274ea82f84fdb6b38bd1bb959db7567c0e3463c651650]
+│   │   ├── t3.vom [807760cf83a12a05f359c2d2423663012bad9e324544e08b0e2644cc2a3bc0fc]
+│   │   ├── t9.vom [2e526ac448a438c86d518b3a3bad348f562caf5b8eabe5d5a4ab89d184f3f238]
+│   │   └── virus.dos.riot.725 [f3078a613398af4fce8c666c3d6709372abb4eeef9a98fcce7d0ebcd79997703]
 │   ├── 728
 │   │   ├── c-att728.vom [bd631b9238661697e1cbbc2c26ccb29afbd0a355a603ba9d08d1782cfc4ac381]
 │   │   ├── riot-724.vom [877840d06135c7d2a2061f0708cad6c134ac41444add321ca699411c889de09e]
 │   │   ├── t1.vom [4b2282f21e72b6a98aeefbdb79bf01578b5d28a7d112f936fe301c06c75c3520]
 │   │   ├── t2.vom [5fdc3b1169218acf6206f7a2189936ba4872bc83d68f3c035bb0ed01e04a37f1]
 │   │   └── wci02752.vom [bac0974e83ccdcba6feaf3310a81bfd9aecc3288e206df13daf43ec8374d016f]
+│   ├── 729
+│   │   ├── DUMP32.vom [31b5cb364776f3e35ae012dcd53c8c75d50f3436dbe21a093a828aa927e78058]
+│   │   ├── command.vom [5ee192d4ba17e8a73ee746b64933f8ef5b15988dde58237afe72883ae169be36]
+│   │   ├── t1.vom [26b81a92a373e0257399dbf6376cdddd82bb610337d88b5448c8026c3e573c2f]
+│   │   ├── t3.vom [c67c573ef2ebc5c4323a14f613b292ff2045d2331d1318b44d7ca42a53014266]
+│   │   ├── t9.vom [81d460d378c4c91ebcf06c45ae7849c954d870efb7f62d0c47791df707985755]
+│   │   └── virus.dos.riot.729 [944a1b3080164e4fbfa5956a26f6893a4e6f6c428733f31bd227664928e357f6]
 │   ├── 746
 │   │   ├── t2.vom [b5bc9868304a75f34436dc8674b556a5e3c7831d19f081940675fef5daab0a0b]
 │   │   ├── t4.vom [c6352ed8f99cc78ed3cac541d953e70b09a555b66878c6a4dd168b5f1a91023a]
@@ -96,6 +110,8 @@
 │   └── 1442
 │       └── hybrid.vom [c953cc7b6bc3f0369af76039119ac1d5fbf74769c19b925e43bc00558b6492b1]
 ├── carpedi
+│   ├── 455
+│   │   └── virus.dos.riot.carpediem.455 [def45fbb6d4f6805feb354670ed424fd447d6eebadea81f0f2482394cdf3fb35]
 │   ├── 467
 │   │   ├── carpe467.vom [ebaf0888ec36e2d0d8ea6025bb3dddb2983708ab1c46bff631cfb7a87c6f6b80]
 │   │   ├── carpedi.vom [86f063447b3e324397eecf659762be8f9fb4ff5b98089acec279cbb6bcfc1742]
@@ -191,7 +207,8 @@
 │   │   └── wci07752.vxe [0813e6708280782cd0d55555c041dedf5b96b6b0483cb1075a04b96ace8a08c3]
 │   ├── 448
 │   │   ├── a
-│   │   └── b
+│   │   ├── b
+│   │   └── c
 │   └── 449
 │       ├── a
 │       └── b
@@ -227,7 +244,13 @@
 │   └── 600
 │       ├── ete600a.vxe [5e5b1d382ef4b8d224da3800dd27badf050919d73caca3557afecd5cb9ede98a]
 │       └── etern_ii.vom [8e8661b69bebe8b2d5066a4b78f12757987ab77ce94ba8cb73713ea74f72c523]
-├── f-prot316f.txt [28dfe045812a593de4ec6aae9f77db225aaf95c75a76bbdcd55e005aaa012812]
+├── goodfellas
+│   └── 315
+│       ├── DUMP32.vom [841a6f566abe0edac440c3ee4c6ef73deae8c6bae70a900f9596d7436d5459e5]
+│       ├── t1.vom [914769ee0a5ba00b160c25cf590f90d48334d55c24f3a226ecd0fd6310a54b2f]
+│       ├── t3.vom [045637893aecaae234434a4c3c0b89e6ee197c8ed711953b0fc78c73e6eebd31]
+│       ├── t9.vom [b0547c289a9c0d387c417f76477b115034a7c786a91f1c625f93c1fb6da565ea]
+│       └── virus.dos.riot.315 [fe104e5b3330fd540f64115d0f1da1345a2eba9c99f79ccfc044f0240d7d0ddf]
 ├── inv_evil
 │   ├── 768
 │   │   └── bio2.vom [04a9f8274e07c6ad54a79e583d04bf96c73149567f0a9f4eccd7306afeb42902]
@@ -299,6 +322,10 @@
 ├── markedx
 │   ├── 110
 │   │   └── virus.dos.vellax.110 [2ed246e27dfe2e119da2cceb3452ddbd76cff95cad34ff82b96dc62d25bdc7f8]
+│   ├── 239
+│   │   └── virus.dos.riot.239 [26efcf0da961f2f07cd5aab3b2370c4a27cec0244493bc93d992968e0610f42c]
+│   ├── 240
+│   │   └── b
 │   ├── 304
 │   │   └── virus.dos.flood.304 [f054d72458b70d6168e186470c2154f8a04d223092079d3e9e922cb0b8649686]
 │   ├── 347
@@ -374,6 +401,11 @@
 │   │   └── moonlite.vom [e0362141f21b5a905bba62a5885acde819aedfceda2899f29d4ff94e1895d009]
 │   ├── 366
 │   │   └── caffein.vom [7e3bf7aa3561baf3933f05e04c6593455dd4b0509f16da3470a295e860380eb7]
+│   ├── 380
+│   │   ├── t1.vom [b745ab5e241a4be706655718d75fda5a80b923a46c7085aa6b4ba9dfe7103903]
+│   │   ├── t3.vom [2b1e4c04a219985f73b36412ded13d4111721b48fbeef25d637ff412323cf09c]
+│   │   ├── t9.vom [19f386d9e37d3d8ba3bf7afcdd74fb8ec95c900088ebed86edf2e0fd1083067f]
+│   │   └── virus.dos.riot.moonlite.380 [091a96d553af017b96a42529b11f7c7c499a67b63aae801dc23566d98b08c3c4]
 │   ├── 417
 │   │   ├── 417.vom [39824f2d2ecfbe9138187b9005b84a27e526214106e79633958d529dbeb5cea8]
 │   │   └── moon-417.vom [23f484059849642226608b3471f7f7346ab3b04a2a257522175ff366dddeeccf]
@@ -482,6 +514,11 @@
 ├── psfl
 │   └── 5.vom [f6a525a4119c92afba564fcd60a32f95652ce2a80162f4b0c8ff91ae70910a9a]
 ├── psychosis
+│   ├── 0991
+│   │   ├── t1.vom [9cc2c4c352e8b805bf87fc2c8fb487a859e3381fb4525c20b7a609646ccb943f]
+│   │   ├── t3.vom [8632c7226c6b59c671539ac5d6e0d8cb2c82e6b2537abd64f2a0c99811073a40]
+│   │   ├── t9.vom [8c5bda0b49da06afc703e20eb330635b09cd3a18567386fdc9380313fd83ffc3]
+│   │   └── virus.dos.nuke.jak.991 [b96141054d7523c84e89f802a11b51b8916950c128888cdb9bd9f742ab837cb6]
 │   ├── 1195
 │   │   ├── 1195.vom [19c39f64c07248dd057e729e7ab3181720f6f190d1abb1fc5a07150d00a6cc50]
 │   │   └── psycosis.vom [91288ef71f6b09fc3d5ad54e3aea010a619b0c489b4eb04ee837033ffdfcece8]
@@ -489,8 +526,10 @@
 │   │   └── psychosi-001.vom [c43d51eb3bb1e1c8081c4427f5e59d6255e8f416fe89ce7a9fcc8e96be16f6ea]
 │   ├── 1202
 │   │   └── psycosis.vom [1e431df4befa15fb885c9ac4bd1949410234a9addb5b90e60376f042a0ae0505]
-│   └── 1203
-│       └── psyc1203.vom [a7cdbf7d77e8a110b3b1f032837314ffd2e1f04beda04c7c8542b5bb2dc08b1d]
+│   ├── 1203
+│   │   └── psyc1203.vom [a7cdbf7d77e8a110b3b1f032837314ffd2e1f04beda04c7c8542b5bb2dc08b1d]
+│   └── 1221
+│       └── virus.dos.riot.1221 [8c8199b08201be195dbf9f4108d14c1f2950cf3faf80ab848cd26413972296a2]
 ├── pushup
 │   ├── 943
 │   │   ├── pushu943.vom [bdada4abf150436c94265daaac2854830ee70209620a1562adc895e6c924bdc2]

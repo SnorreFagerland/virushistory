@@ -11,9 +11,13 @@
 │   └── c
 │       └── 96c31079b0c3463ac72616c3c20b5ac074fa4010850b0572a4d404b165694f93
 ├── 3apa3a
-│   └── a
-│       ├── 3apa3a-a.boo [1a9fb66b687c9065b50f8feb1ac164faf785e110622e5de8fe32de00276f0edb]
-│       └── 3apa3a.td0 [ad4015fb322a7bebf44433ce21ac971072e7395e91f1fa582787f56cd3339ad9]
+│   ├── a
+│   │   ├── 3apa3a-a.boo [1a9fb66b687c9065b50f8feb1ac164faf785e110622e5de8fe32de00276f0edb]
+│   │   └── 3apa3a.td0 [ad4015fb322a7bebf44433ce21ac971072e7395e91f1fa582787f56cd3339ad9]
+│   ├── b
+│   │   └── 3apa3a.bin [5b9c3e64f827056ebeea98d495a08d168b8d98d27b71f5c1ceea0485c265b52c]
+│   └── c
+│       └── 3apa3a-c.boo [599d6414123cdc8716cde359dd31e288a4e8914ca05fe0d73fb503ebb235df20]
 ├── _1526
 │   └── virus_2455.boo [24d38cb0410e7aac46ed6a08cbe8e7bb742e8a62eadf7ae9b8cfd3e02a2e4f3a]
 ├── abcd
@@ -68,6 +72,8 @@
 │   │   └── andrew-3.boo [d90a900162c394f386eba7a3d130b8160ba5e33c498a3db11c2ee4b85f3c082e]
 │   └── c
 │       └── wci03293.boo [4817b0a45d8c0fd0493defd7999f117ff3037f50cea511a6c2245f71a75fe241]
+├── andrisd
+│   └── andrisd.boo [88cb002cb34daa7f75672f417a2312d9adcc4a40b31bee0b84793b22fb218f46]
 ├── androbot
 │   ├── androbot-0.boo [6ede2ae48f07c3d0b963613f8158202963ea3f101cae86f3c4db8b8f6385baf6]
 │   ├── androbot-1.boo [de9dd46af853b44cf1cd34b727512b51370e4812eb06cf28b791d541e8eac61b]
@@ -110,10 +116,18 @@
 │   │   └── wci0166a.boo [1c6f8deca3bcf883a79794020d82368e0fc405dd9a4e422e906a50c9a40c2c3b]
 │   ├── b
 │   │   └── antiexeb-0.boo [215da1d6b4e018bcf79b10b8da5f7b5ab9c3f8c04d90d96442946135d81b2d04]
+│   ├── c
+│   │   └── antiexe-c.boo [7aeea88dc836de8822b8baa3b94f7b86104e4609f1d8c88e27afcbaceed20c88]
+│   ├── d
+│   │   └── antiexe-d.boo [c8a2ecfcab8047d447893a5e80580b1b160b9f3713b18c9b2ae01a7f7c33c7c1]
+│   ├── e
 │   ├── f
 │   │   └── antiexef-0.boo [c184cdb942cbcaa49bf53d289562a00128691bd2765989f187dc1602a710d3c6]
 │   ├── g
 │   │   └── antiexeg-0.boo [582970f8979768e9bc3804f2004e80ad0dcaa3c5aeff4915b5563bb3f7496eae]
+│   ├── h
+│   │   ├── antiunk-0.boo [4031f640fe1c26dc9cc37c473c38c828796d8b66733385dd54f781db83fa1672]
+│   │   └── antiunk-1.boo [acd62196e7b627e10135f30f9d7d839ae8d97506ca95018b5390445225b9296e]
 │   ├── i
 │   │   └── antiexei-0.boo [3b101dff6c440e47aa6c95e7a6796eeb95ab6ba1a17e7b98d042761aadcb62e0]
 │   ├── j
@@ -125,8 +139,7 @@
 │   │   └── antiexel-0.boo [f7fbe0b712d1c7c4ec2100ca66c22c70b3ffa8b530789463f2c0ab5b428f7e70]
 │   └── unknown
 │       ├── anti-unk-0.boo [1e9ee7a1e085caa75053ab8799ffbdba0604e8b45b8e66f16f8a1a128d73626c]
-│       ├── anti-unk-1.boo [5f15357fea2397fe7d173bb95e7e3b62b54cd17b260ca3c450fceb81a67eaf4c]
-│       └── anti-unk-2.boo [4031f640fe1c26dc9cc37c473c38c828796d8b66733385dd54f781db83fa1672]
+│       └── anti-unk-1.boo [5f15357fea2397fe7d173bb95e7e3b62b54cd17b260ca3c450fceb81a67eaf4c]
 ├── antimd
 │   ├── antimd-0.boo [73f304203c5a9c254060cae1a2dd7faed47bccda916f90524bf32d9a94de7e8f]
 │   ├── antimd-1.boo [c0e8af55e382c6c9d8cf5108f46dbe55cb1a9cebdcdde2cc7692420e856e8270]
@@ -198,6 +211,8 @@
 ├── atcorp
 │   └── 321
 │       └── wci03303.boo [83869ef8fd8e5f8877bd4493ec52a574464aa74d5b361cb4d3d7d1c3a60dd620]
+├── auger
+│   └── auger.boo [a80c304c41f7cd6dfeed182667f72e02dba8b0210157feffd666e7050f6ff474]
 ├── autumnal
 │   └── 3072
 │       ├── autumnal-001.boo [4e63cb834c05078073d2d5d465da59c3d68aeff34c8f62932505746393488df3]
@@ -323,6 +338,8 @@
 │   │   └── braing.boo [fc62ef15df53a4ed5364936dd176713ed39d466978bc18729c80a53b8a2cbc19]
 │   ├── h
 │   │   └── brainh.boo [b5ca6ae639b9787e836f49153088c4f75d029ac67d12d690d535a63c6c189263]
+│   ├── i
+│   │   └── brain_i.bin [6b2f6b8376bff94a69888b1b4f938ea0a1b0f5fc9542b7938e378a64a79297dd]
 │   ├── j
 │   │   └── brainj.boo [136427a85a2fed5773049ac2f7ab41cf4f2cfd7cde3e2e440631d314d3df7f17]
 │   └── k
@@ -412,7 +429,6 @@
 │   └── cekov.boo [020e8e94c5f5f0aa304de434217fb9ec35023e299f2e22509d3d6592a1622622]
 ├── chance
 │   ├── a
-│   │   ├── chance-a.boo [829f9e01613b0913b584e7222b3a1d9e5035dcf340b924e518c4b9484a2e118f]
 │   │   └── chancea.boo [829f9e01613b0913b584e7222b3a1d9e5035dcf340b924e518c4b9484a2e118f]
 │   ├── b
 │   │   └── chance-b.boo [e06111b2e53ee162c55a6dc3bd1b85bb4910da63295577339586662565ca52d2]
@@ -446,6 +462,8 @@
 ├── cmosboot
 │   ├── intcmos.cc [c3c74f1a49fd672ce961de4dbcd464b38e33d9195774ee055f3f2574c225599f]
 │   └── intcmos.mbr [d55e836484977f450fbdcad0b0722cf336dad1d50aa60f9cfb3e75a1bf5a5857]
+├── codewar
+│   └── codewar.boo [6178fc683a22745023063ae66f4a1b6bb42f51af3ec2199e5cb7cbabba82459f]
 ├── comptroj
 │   ├── a
 │   │   └── comptroj.boo [4741b78cf84a3689d65957e8c9727d879c102894a4d6b503bcf369405c11c1c0]
@@ -506,6 +524,9 @@
 ├── deadboot
 │   └── 448
 │       └── deadboot.boo [33ad83ae359adc5094901969acb63a1914e4644b88d91b4dc629fd0dfd47b295]
+├── deadface
+│   └── a
+│       └── deadface.boo [b93e773f74a353c45f69365a3792aed159b884e7221e784fba91e7a0f3c0e47b]
 ├── defo
 │   └── defo.boo [c04aaf75108de945183ccb5fc138fef83fe0316bd5baac43afdefbc04ab9c154]
 ├── delaut
@@ -586,15 +607,22 @@
 │   │   ├── ogre.boo [cdcf0561bd7ae20c271b1856d7ae6bb54bce30b6a49bdfd46ba5e878f810b81b]
 │   │   ├── ogre1.bin [5bc132a99b581c917e7abc4b455acf7084e2fc6844e1c58792fe537cbd9d6448]
 │   │   └── ogre104.bin [9488f80a183a126aa10755fbaba570306d81d6ef5d40c93af2ffff186f34d33e]
+│   ├── b
+│   │   └── Virus.Boot.DiskKiller.b [954f4a65d5ca361dbfb06caa95105d151727ccd0d5af7cf29ce05308ac6edf08]
 │   ├── c
 │   │   └── ogre.vom [00f3afd93d45c12050dc71374d7853f581418ac12764730b18b2cd27f3953a2a]
 │   └── d
 │       └── diskkild.boo [15558179607e855aa446bf0ecb98aae747e08229aacb630b9ff0a61a4945edd1]
+├── diskboomer
+│   └── diskboom.boo [0bf13dac37c70043382cb7f79464b984c9081dbf77acb2860225ec4be70b156a]
 ├── diskwasher
 │   └── a
 │       ├── diskwash-001.boo [75e23929086a56b814701eeceb37ba3f6c19ed0d4d2297f0031adc59329c63c8]
 │       ├── diskwash-002.boo [a38de37d3fcc01b69ead127814928f8f58d7e2bf22d53879d3a6deeba21813f1]
 │       └── diskwash.boo [4591ed242403402cab7281818dd72aa47a655548c54ff016bc187e7cc0e7588d]
+├── disque
+│   ├── disque-001.boo [818db24861983080cf8823d8074828cb46f04f12da09d18bf6d554e16cbb1317]
+│   └── disque.boo [ef59da54f7368ceba543acc3c4349d52daab48a7b7c7c300797c738c1d1f7ab8]
 ├── dodgy
 │   └── a
 │       ├── dodgy_a-001.boo [32f909fd2f09c2050a90327daa9d8e92068ae0f9aa5e1b74dbfad8dcb87a0649]
@@ -604,6 +632,8 @@
 │   └── 512
 │       ├── dogchr_5-001.boo [c58fcd3b7a2362204e448d96fc37183224325bbdffa7fd6438ba0aa9f488a34f]
 │       └── dogchr_5.boo [59da79855a7a1f3354efc4be3eaf69c872f677b3b7ae4a93e1f506ce8dc1d9e7]
+├── dragonboot
+│   └── dragonbo.boo [13b2baf67340f535471b8da7c03b5f024c3f4a522b3d72b4d16be9add6070f0c]
 ├── drdemon
 │   ├── 4218
 │   │   ├── drdemon_-001.boo [d3e2792b2af71179033096b942adef0ed62b459f2f5db2a8b4acb70efa58fff1]
@@ -630,6 +660,7 @@
 │       └── ebo_1913.boo [a9a608dac2bce4d25b702a3a6aac1dfec0a8016917ca251653033906ed593dad]
 ├── ebola
 │   └── 6001
+│       ├── ebol6001.boo [ff6f41ddf254384e2c5f656ef289fea6ab753f73b3cef0f8e37079c7ddbf0692]
 │       └── ebola_60.boo [7cacf2886a6d9301d6ad92286b405c3e76008f5c468076d75410dea3b831f859]
 ├── eclipse
 │   ├── a
@@ -657,6 +688,8 @@
 ├── ekoterror
 │   └── ekoterro.boo [c95d75c9b4c008f35e1f9e1a04cc62f29bc2d0f9aba0718c89eb5ae513d75f29]
 ├── elkey
+│   ├── a
+│   │   └── elkey_a.boo [d562856071f0b51b2ce2e3d5a98a405a3bb114852e2fd4127574e7b2cbd305fa]
 │   ├── b
 │   │   └── elkey_b.boo [fc3bf73fa3c380f4ec333c20aca06c124841785813f61a096c6f092d3f15fcef]
 │   └── c
@@ -697,8 +730,10 @@
 ├── facade
 │   ├── a
 │   │   └── facadea.boo [a8bf72ca93f589bbfc98a658fce0194882b0a3d12e3faa8733de3b6795aa13b0]
-│   └── b
-│       └── facade_b.boo [66680d452bb180517888950bac9d486ea18e77c71d67c931a9eca990bcae32b2]
+│   ├── b
+│   │   └── facade_b.boo [66680d452bb180517888950bac9d486ea18e77c71d67c931a9eca990bcae32b2]
+│   └── c
+│       └── facade_c.boo [6c846f6df2ff534c4ee38b52bb1f3c02b84a4fa80e6ecef058292cbd5cbce651]
 ├── falcon
 │   ├── falcon-001.boo [e7e9aa80b7e88e2906e429b6eb12ffdfca1587e5d6978ba1acbc3cad1110a83b]
 │   ├── falcon-002.boo [d1fe7c4213425a02169673162f03ab22b8a16c14db15b952ec6ab17c39e51f0b]
@@ -756,6 +791,8 @@
 │   ├── a
 │   │   ├── flame_a-001.boo [f5fb7cf146c48c1b19e8f6481a8b795217cd9d0e4d73c4abc2c5ab9344e9035d]
 │   │   └── flame_a.boo [bfa5e12bb8c897568a3489102df2565f9b7b976a8de6bd5c55f6947cb7d4efbd]
+│   ├── b
+│   │   └── flame_b.boo [9c3c88328c15a91015215fa63681bf2603874895abff3e81378f176d03c80a43]
 │   └── c
 │       └── flame_c.boo [4d6e7eee52066258d396e3572c921af2b5fdad45cc52df68980fd3d02fa32d7e]
 ├── flip
@@ -779,8 +816,10 @@
 │   ├── g
 │   │   ├── form_g-001.boo [9d51bbd735464cde65c71a58132c51d87d8a142bb51e1b062187eb0b030e6153]
 │   │   └── form_g.boo [6a242a3172f3a991178f5e093b1763752d500bd41b0a60a9e639ae5b9a79fd6b]
-│   └── m
-│       └── form_m.boo [d9d9f1b40ea4ee2bad9f3a547a84e217918f8c0d211e1872ab7707bbad242800]
+│   ├── m
+│   │   └── form_m.boo [d9d9f1b40ea4ee2bad9f3a547a84e217918f8c0d211e1872ab7707bbad242800]
+│   └── n
+│       └── form_n.boo [bed138f403b8d8628be6933cdd0de1079e35ac11d5ee8a5c51f26748d8a056ad]
 ├── formatfd
 │   ├── formatfd-001.boo [549762c2cdda7c0a1e465bed5b3e0113a7fc1fedea414d4e57ca6a79a15d5f90]
 │   ├── formatfd-002.boo [99370f9ff99eb9604896c1dd0410248dfceefe2840799b8402d6c4ed6036c4f3]
@@ -800,6 +839,8 @@
 ├── gimp
 │   ├── a
 │   │   └── gimp_a.boo [f65026c56b703d3009df5fb1f3e7bc2630bd9a8d4228d071b47bd5f4222d292d]
+│   ├── b
+│   │   └── gimp_b.boo [429d1b24b44bac60236011db26f98368af8225685390a05a1033e4108e5c690d]
 │   └── c
 │       └── gimp_c.boo [31527f36f8ad05dae4b1f6897d5915f37fa95d01424c566e4c7f126f7547fc56]
 ├── ginger
@@ -1047,6 +1088,11 @@
 │   │   └── kilroy-d.dbr [d5dfb2160dd387291bc675402fae7ab8049bca7459df58c46e3565ab871bce10]
 │   └── k
 │       └── si-01.boo [93c08b9a7570b81e7614f729bc9fbbbf25afef864f0ecf04eb207784636ea581]
+├── king_lizard
+│   ├── a
+│   │   └── king_liz.boo [ed44cf764e6226541449198a84cae1f89b459dc61fed616e3db3507315c42a3a]
+│   └── b
+│       └── king_liz.boo [086ff72be8382bfb30466edc4ebeda7a2b4a342ab16aa57bf2fbb8ad565946d8]
 ├── kiryanov
 │   └── kiryanov-001.boo [aa408a577650cbb4357e1349b3aa6857cf146fca2bbb3ad875a52fa81160bde4]
 ├── kitana
@@ -1200,6 +1246,8 @@
 │   │   └── michelaa.boo [00255ba82f053206ca778f7498417c9936e1640675e02aa42b1dd4d6b42ada0d]
 │   ├── aa
 │   │   └── dflkfd.boo [4f5030352bc54c668fdac01a08adadf7b4d8f186f4232f07301cbd41dff1b6cb]
+│   ├── ac
+│   │   └── michelan.vom [07ead716ec4e68f86cbcb50db12ff6abef39ac3243f8da52bddeb219e2da6d80]
 │   ├── ad
 │   │   └── michelan.boo [b7a55ca84f3bb41039c4cf0a0b81f28687df487f7dac5ae75b9d29ed3342ad71]
 │   ├── ae
@@ -1232,16 +1280,19 @@
 │   ├── m
 │   │   └── michelam.boo [2e59a4ce6031356452190c9ddb923cca86409bbb001b948b13dedc0c21a81204]
 │   ├── n
-│   │   └── michelan.boo [105346f72cf1ab1619b8d10cef25183dcffdd7c932c6e5515c0b3cfb8618b857]
+│   │   └── michelan.boo [e6b5becfc1c7e71301d700cf3e723a74406bfaa7a691a15ccecdd9fda5d02773]
 │   ├── o
 │   │   ├── michelao.boo [7a3a1c1db522ecf77d69a8442fbf2d2102c4e043365d8f98640cafdae93a444d]
 │   │   └── micl-e.boo [2beaf08165201bbae41fb5b4664d2b8351129eee6ba5dca6772bfab7edf8bc49]
 │   ├── p
 │   │   ├── mich.boo [d160a4e85f828b07d076c6f8c363ca950eb8a60a509f69c31d4e1f8fc8652ac3]
 │   │   └── michelan.boo [ada9bec60b469c2cd939549328bedba7db505503ceb13212f0559486ca9cefae]
+│   ├── q
+│   │   └── michelan.vom [1235c835e0576dd0357b98b9b8a4a9bea39d16611d97fbc1aba33ae4de22f778]
 │   ├── r
 │   │   └── michelan-001.boo [204273c6dc465b5e7a3d2303f84ec7d2d6a4abe370f8ea1723ad44b53cfcac39]
 │   ├── s
+│   │   ├── michelan.boo [105346f72cf1ab1619b8d10cef25183dcffdd7c932c6e5515c0b3cfb8618b857]
 │   │   └── michelas.boo [5a5271a95e893ea68bef8d2f5f4c4a57331b84b53cc9ca73c40dbb5c1425fd0c]
 │   ├── t
 │   │   ├── michelan-002.boo [5ff7f577f04f7be080a1e77d6d5470696064873e11734fe9ce2cd0ca8f37166d]
@@ -1325,6 +1376,9 @@
 │   └── b
 │       └── virus_2406.boo [6f876e8bccef216e8842dedca9d2d7a7344f0e74b2103e8bb4123b4e5ed5fc52]
 ├── nail
+│   ├── a
+│   │   ├── nail_a-002.boo [1907a4bbd2789fafd679ce53e98499529bafc7ad94e4385ac57919d8995baedc]
+│   │   └── nail_a.boo [d76244884e7cc78ce306364c5af440c91b2b73c6064efe3436acd1144b35834f]
 │   └── b
 │       └── nail_b.boo [158744a8115a9cc9c77808a81aa4150ddfbaa5f07efe51bcf9f0edbd1068e577]
 ├── natalie
@@ -1334,6 +1388,8 @@
 ├── natas
 │   ├── 4744
 │   │   └── nata4744.boo [6423b07c76cdda8cb47742886abb7ba0626a6f80037fbef59defc92cf64def52]
+│   ├── 4788
+│   │   └── natas_47.boo [08b679348d2735e7610e4e39de6e7ccd016650394da88aa8fb6b8f9f57c96a60]
 │   └── 4872
 │       └── natas_48.boo [5cdb095802f495b1f29aee112e71694889770641fdcc7fc28be70cc26f1c9d8e]
 ├── nctu
@@ -1437,6 +1493,8 @@
 │   │   ├── nyb_d-001.boo [d97098a45c7922dfc0e6110542a1457a9f192f30e470306fcb9224d3c51410f8]
 │   │   ├── nyb_d-002.boo [efba46774538c1a9d4c524245c77b04c72f2cb9c63e0b4ab79d8c43eca7e0c4a]
 │   │   └── nyb_d.boo [d5ba3c1a32c613b581695d7c94e884f603adc08831d4dd76e35024fcee921b77]
+│   ├── f
+│   │   └── nyb_f.boo [eb8855bdf8dc7bc88ed174a49b1753cde634150897615dbafaf31b1ffb4f8e55]
 │   ├── g
 │   │   ├── floppy~1.boo [1b930bd4ed5556af74ac26e83887c2a811e69ab91e37fecb7b8859e2206f37bb]
 │   │   └── nyb.boo [5e4776c82ebf7ba15cfad28b4db80d7454dae045d7972c8d295188761b5a599a]
@@ -1473,6 +1531,9 @@
 ├── otron
 │   ├── a
 │   │   └── orgasmat.c1 [e18cfec9af1532a829cb6d8334f046ca2085358f4905971f010bc93db67112c1]
+│   ├── b
+│   │   ├── ORGASMAT.boo [b278e1b4244713047784368705e21cdd95d1000841dd0092c4e47fcc2a07ea8c]
+│   │   └── src
 │   └── d
 │       └── otron_d.boo [d8b71fbcbc04c51265948191407630d03aa924417b8cd16b9c8ca592a257c703]
 ├── overboot
@@ -1503,6 +1564,8 @@
 │   │   └── parity_b.boo [536d3bf7fcd4f28362f78ae5d04520b505d95283391fa61783b386c075bc041d]
 │   ├── g
 │   │   └── parity_b.boo [9b3a06db4328e2322f635c84e58ee466858ddb3b70f900719e20f1d6eaff3b2d]
+│   ├── i
+│   │   └── parity_b.boo [e77d6626547c46263c6504a5b5729f762b9610b0b300130c4c1ae2fa34d4240e]
 │   ├── j
 │   │   └── parity_b.boo [78f3340c7a3b718567b468ae7770fe78162f61ed77c8fc9ff60c89066983ab28]
 │   ├── l
@@ -1515,8 +1578,12 @@
 │   └── b
 │       └── paskuda_.boo [3f0e93b3e490c3ae6a68197cf0750167d37ba049226bd99da3b5750802667f72]
 ├── pasta
+│   ├── a
+│   │   └── boot-446.img [1603680e3ffb1e69d6a01823054b4a0cc361de25f3b02c63bdbfb1dd33a383a0]
 │   └── c
 │       └── pasta_c.boo [6d5fc49e83b8b924d9904e6d79855543a05d781c1ded2b3f1cad9c99e4e38177]
+├── pathfinder
+│   └── pathfind.boo [e93846ac687336e13208bf8015efaded6879fba57a030a938d5ea195638fa1d0]
 ├── paula_boot
 │   └── a
 │       ├── paula_bo-001.boo [b2209f5e25be3c15123f5eb4ed4adafbae4126fe99841e2e4f456cf1f3cec9c1]
@@ -1532,6 +1599,10 @@
 │   │   └── paybackc.boo [591c4e26b1d28f498b34a25702da88e2b6bd1bec130fe0b1054e2b08ca5748fe]
 │   └── f
 │       └── c.boo [81a23c8547a59a0c2fe3aa9b2231966ef6b5104304cadce2046fe993fe099790]
+├── paz
+│   └── 2560
+│       ├── paz_2560-001.bin [1eaa9ba3724996e29963d6171847c32768015ff00082aac63acf32a27e18bbc2]
+│       └── paz_2560.boo [e4ffecbc51d3b89c9cf51532b5959287d69b0ce076747e911ff97aaa8a87aa3c]
 ├── peacekeeper
 │   └── 4270
 │       └── peacekee-001.boo [82a7c6eb0a0aeb3edd952d2b8c5e4cd6c8ee6dc9f371d50494c3253757f1fa44]
@@ -1557,8 +1628,12 @@
 │   ├── 3795
 │   │   ├── pfs_3795-002.boo [a507de2e8cbfee444973e0d0c6a97d35a8036fb668dbe73f381d88b5bedd3d69]
 │   │   └── pfs_3795.boo [4005015549cf7920e23524b31f4e81abaa9ca920bf3657c2068a7dccb5c6f647]
-│   └── 4182
-│       └── pfs_4182-002.boo [d5d5c48bb8cab071a03b6cba178720f80229ca9256e51a68e35c9a647dcb7229]
+│   ├── 4182
+│   │   └── pfs_4182-002.boo [d5d5c48bb8cab071a03b6cba178720f80229ca9256e51a68e35c9a647dcb7229]
+│   ├── 5392
+│   │   └── virus.boot-dos.pfs.5392 [13b11ca9408b783c292c7de15118a831045b29813a993eaa8bb5414d76e357ef]
+│   └── 5998
+│       └── virus.boot-dos.pfs.5998 [efd2a0cf4718fd2c7b453df336cf10882a4aabfcf8f818cd4177759dded39e9b]
 ├── pg
 │   ├── a
 │   │   └── roma.boo [682f45db60c638f4d0361608eb635c13f71b31a2da988d5943a266401f30a3da]
@@ -1585,6 +1660,8 @@
 │   │   └── pong.vxe [e065e051874b96e8145e3fad11e0d7d92b1f6ef7c3c777d3a9a9a744b4f83d12]
 │   ├── b
 │   │   └── hackpong.boo [07d5ad25b9d718f8dcfbbd8707dc7a302b952b68bf74a08a1c0a135f7a831477]
+│   ├── c
+│   │   └── ping-pon.boo [181c6de1b9a174fbd45a8b4fce662433b70f906c393d56d783328a94cd4c12d3]
 │   ├── d
 │   │   ├── ping-pon-001.boo [75fe20e42cd705277c6807b904e28fea1e74d72f7a90f70537b9258084d2e8ca]
 │   │   └── ping-pon-002.boo [88ca02899e9845c66f81d7965a0b28dc72017d3da9cd9cb4a3d8b0860251cea8]
@@ -1600,6 +1677,8 @@
 │   │   └── ping-pon.boo [78c3757768b7a5df2a62e849dd66f1ae65c879eb812821370f5abc74cbe0fd55]
 │   ├── j
 │   │   └── pingponj.boo [473c73e34bff78b1bd0658cb1f6b02c453ed01fcc84dbddcd9763ff94d6d5a86]
+│   ├── k
+│   │   └── ping-pon.boo [03042f7b6333cefbc4da71412753be375c1748e220ca85a3e2bfc221950fd0f4]
 │   ├── l
 │   │   └── ping-pon.boo [b0014af66d0c77b05ed5c1545211a9940365e9535cacbadedec7253626d04f36]
 │   ├── m
@@ -1615,6 +1694,8 @@
 │   │   └── ping-p~7.boo [7c62ed3682bd6a17de9649deee965bec3d121916cbcebaa4bd207eeb0f5b2789]
 │   ├── u
 │   │   └── ping-pon.boo [964b8167ba2f226d268688efef65779a83c4737fe8a0eb3c5ad4be9d7aaa2b25]
+│   ├── v
+│   │   └── ping-pon.boo [10836503a31719b7c55bda421be71a35cb267bfa6804694e7bb8f0169ef312c2]
 │   └── y
 │       └── pingpong.boo [5742363d50c2fb4b5a8e9f6e259d3fde2262655089202d0e80b1575fb22908bb]
 ├── pirate_boot
@@ -1635,6 +1716,12 @@
 │   └── a
 │       ├── pop_a-001.boo [fb7a8183bd254705fdbb2ae5b14bb01f3afaee6681f4052c41de609e44e286b1]
 │       └── pop_a.boo [5ad1fa3898c9f61a134e332cd27cff1103d56e82327a4ce9121c2c9c0d6a20d1]
+├── pow
+│   ├── a
+│   │   ├── pow_a-002.vom [ebd804f3bccbcb4a5f49dd92083655d4480ae4443a62cc5b3eaf1b134f8157e5]
+│   │   └── pow_a.vom [633a60c395751fabdad155d0b2832f066e98f648af3ab79bc3b019bcfd65bd86]
+│   └── b
+│       └── pow_b-002.vom [b3fbb7b5860241ae892d76fb927ad924961fc68471e8c4ad4a520f8882744f89]
 ├── preboot
 │   ├── a
 │   │   ├── Virus.Boot.WYX.b [23b1516a2ea0d36f2a90417510e1fe87437425f4ab83f920cc0f07ab1cda7760]
@@ -1651,6 +1738,9 @@
 │   └── b
 │       └── pretty_b.boo [0e94e9a59b348950a9a7539a6babb7d66c13dcbb47ff544f096274f4bd7035fc]
 ├── print_screen
+│   ├── a
+│   │   ├── prtsc.bin [9c3b47d004e58552a905db026d77c165c71ee306adb21b86c760cc9f6f3505f1]
+│   │   └── prtsc2.boo [b3f568a6f95ba2f985f02537d0fc8963c81f5ba324db244d6d16eac0165078bc]
 │   └── b
 │       └── printscb.boo [7175fb903a211224a84c63ca10958ca2cc31346bc67ba79e52f4593f1e7217f3]
 ├── prit
@@ -1681,7 +1771,11 @@
 │   │   └── putrid_b.boo [572f99d0a74ac7a4be9ba313dcd4c1d5914dc66ac17e532e2a89eebcc723be06]
 │   └── c
 │       └── putridu.boo [ce2f10347e58109a0d4ad48a0680a1555ac665fb33edabe4b0d13fcb1fbb6ec3]
+├── qpis
+│   └── 2931
+│       └── virus.boot-dos.qphs.2931 [a115b83816959ab88aca9d3a30bca76c126b4bba0b2eb0da67e75d2a829853ae]
 ├── qrry
+│   ├── qrro_.boo [cf6d008a5ece54f5b548d3b10949fc613c846995cb447d2ba822cdfccad280f1]
 │   └── qrry.boo [ac74993b4455e92ca2132e7332588374a5e6a0447cef8f0dbc975133463a7730]
 ├── quandary
 │   └── quandary.boo [6fffe56166b09a2708273f18cdd02e9a6e4aa55bd74a35b9544792c8cd950b44]
@@ -1728,7 +1822,12 @@
 │   │   └── redvixen.boo [eff3b539649c22bdc2566847500da343005f8828bbda2dbb3684419ad25c97ce]
 │   └── b
 │       └── redvixen.boo [af8758c3dd8488f4f41c9d5db313940baa6e58ef694b09789c009d6da93555b1]
+├── renegade
+│   └── 4946
+│       └── virus.boot-dos.renegade.4946 [4d4f401095feb1591fb51fb49d2fb664e56261a70439b9e4018989c98e07d5f2]
 ├── res
+│   ├── 2879
+│   │   └── virus.boot-dos.res.2879 [0104614feb33c25bf0dd3b740b33ac3064793b22ad615b4c96808dda1c86d560]
 │   └── 4258
 │       └── res_4258.boo [7cf2f8ca046f25cc2638b9370ed4994f6a0bcbcb1dfe6a470bcbe1a963b90bd9]
 ├── revolution
@@ -2053,8 +2152,7 @@
 │   ├── ce
 │   │   ├── ston-ce0.boo [742371df071e986eae16d36e8ccaf4440ecd54528fee3885788484ee236bf641]
 │   │   ├── ston-ce1.boo [29adbcee05d88e00047404f5aaf04ef08087b01a2ab9f3e2beeec8f6be8e69c8]
-│   │   ├── ston-ce2.boo [92fb6ac05ac982f494cebd24958821c1046c9641425db558d6104c72824c447e]
-│   │   └── ston-ce3.boo [29adbcee05d88e00047404f5aaf04ef08087b01a2ab9f3e2beeec8f6be8e69c8]
+│   │   └── ston-ce2.boo [92fb6ac05ac982f494cebd24958821c1046c9641425db558d6104c72824c447e]
 │   ├── cf (gullion)
 │   │   └── gullion.boo [0616f44ad1036ca89b476f9edc9d44905517a6e1c41c3beb735852e8889e3eb4]
 │   ├── cg (alive)
@@ -2137,6 +2235,8 @@
 │   │   └── cancer.boo [7927800557841f9b86f3452b3e6df852eb8b3425c3cc33a9cdfc793b91ff5f4b]
 │   ├── ds (clock)
 │   │   └── clock.boo [0ea141d04e9359a5db527099acca9dba4123a15392f747359f6acc8e423da4b2]
+│   ├── dt
+│   │   └── stoned_d.boo [3e7a33f47fcd4ad0c233840a139101094a762bee78367c0bc33ed9574d8b1a67]
 │   ├── du (service-1)
 │   │   └── ston-du.boo [d6f18904a570061d16a0855a5404532b529911fcc565693c3f634f1dbcc1a980]
 │   ├── dv
@@ -2192,6 +2292,10 @@
 │   │   └── stoneden1.vom [e6ded34608165ab6e4e5016c81b790fdacd4a07bdfef9486d7aef7d3d9b644d3]
 │   ├── eo
 │   │   └── eo.boo [27d2f7dc9d118b055fe33096be3b4644d7c80a15dc024929c038b8f2546b0356]
+│   ├── ep
+│   │   └── stoned_e.boo [60bcdd5a4bbd49a82361a4b207ea705a4f90a9cfafb4a967aee0a6a2421046dd]
+│   ├── eq
+│   │   └── stoned_e.boo [d1f2e8f823841b74019f240e1a683de20bc022a2145338a0972305f6f4ea1ef3]
 │   ├── er
 │   │   └── ston-er.boo [b107e2c8fb8570b66cf9ac4ad8d3383b068912fff3172eb2533108ec02b5608f]
 │   ├── es
@@ -2266,6 +2370,7 @@
 │   │   ├── f
 │   │   ├── g
 │   │   ├── h
+│   │   ├── i
 │   │   ├── j
 │   │   └── k
 │   ├── x
@@ -2352,8 +2457,12 @@
 ├── tomalak
 │   └── tomalak.boo [4cf1ae70f86e166159e1addf9369b9ec0b9ec59c17674d8291e976e187b0084a]
 ├── tony_boot
-│   └── a
-│       └── tonyb-a.boo [84b2d1d0b37525d2149fb7f6f97796e134c0b6ba18df52d589786b6aef7da17d]
+│   ├── a
+│   │   └── tonyb-a.boo [84b2d1d0b37525d2149fb7f6f97796e134c0b6ba18df52d589786b6aef7da17d]
+│   └── d
+│       ├── tony_boo-001.boo [0554c099ad205a9d0e9de97a7dbe49cc54104b0a7bf9b6a744deb63329cec189]
+│       ├── tony_boo-002.boo [0e796556a877867d4d64185d335312217dada4486908ef99f471f61782967c0a]
+│       └── tony_boo.boo [741bd86678f5d1edce94a900eff7402558d7050f20e0e247acae5f5ca978cb84]
 ├── tornado
 │   └── a
 │       └── tornado_.boo [ce39b1989fef399a769c07d54190f5ae39c0c90aea53e9b01a94d9e7983088a3]
@@ -2366,6 +2475,8 @@
 │   └── 1471
 │       ├── traka_14-001.boo [65c56b09bd2da5789e7cd7406df288d2c383a43c9dbd18e071dff60718b7e332]
 │       └── traka_14.boo [4dc3761ea5be3f798538795dc363fcdcb9f23a9f6f5eaff56c7acfd196cb9f09]
+├── traveller
+│   └── travelle.boo [e476ecce865bd2687012822914ec29f2ff660d7f825b8dc6b94536a7c2f714c9]
 ├── trenton
 │   ├── trenton-001.boo [59048ebb65e89748ff3274df97f6287fb55f772b81f960889174b61228a7a06b]
 │   ├── trenton-002.boo [fa13e684d86aa48d9428526bc6d0862baf772bbde51c6b1b4db854feb076c028]
@@ -2435,9 +2546,14 @@
 ├── vgaboot
 │   └── vgaboot_.boo [8289b28bb5ac3f8de4717cd9a8d10d667f037157c0564c7511305c62eee74bad]
 ├── w-boot
-│   ├── w-boot.bin [76cc0f795b49b5883edb7827bd1a49155535ca0c82e348e7130ff307b7dc2def]
-│   ├── w-boota.bin [8e9f5c4aadd5e962a7842e56f6ba27431e87c8f11013a31bd2905ac05ce04fca]
-│   └── w-bootb.bin [f97ecab56f4eca14a29a92c60bf1a1065118bfdd5c1576fae2c03a01fa6285f1]
+│   ├── a
+│   │   └── w-boota.boo [8e9f5c4aadd5e962a7842e56f6ba27431e87c8f11013a31bd2905ac05ce04fca]
+│   ├── b
+│   │   └── w-bootb.boo [f97ecab56f4eca14a29a92c60bf1a1065118bfdd5c1576fae2c03a01fa6285f1]
+│   ├── d
+│   │   └── w-boot.boo [76cc0f795b49b5883edb7827bd1a49155535ca0c82e348e7130ff307b7dc2def]
+│   └── e
+│       └── wboot-e.boo [29d595e66c35b149637231ff29770f3ed89725d455b19bd1174145619d80e591]
 ├── warning
 │   └── 512
 │       └── warning_.boo [625d97b2d87d1ceb3013811eed40b6273c82d6a63c27c964655c63e1e998ba10]
@@ -2497,6 +2613,9 @@
 │       └── x-3a.boo [b1bdbc0d57f8e7b07db21dddc293352088786536c8d171108f7b8e6dce95307d]
 ├── x-boot
 │   └── x-boot.boo [c9974c5b38d25338d294681585ebe892bb68fcc00addd94345279fca8b15e3a5]
+├── xexyl
+│   └── a
+│       └── xexyl_a.boo [40e68aa8d6c672239fc8b3341aae195e43474414613cbfd5149cec765f4dda60]
 ├── xiv
 │   └── trojan.dos.xiv [6d756c7d73a09da15e3d716765835280ae03fc3a8931a529bb9f91eacf92effe]
 ├── xmx

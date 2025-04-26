@@ -1,0 +1,15 @@
+Orgasmatron
+===========
+
+Author: Vecna/29A  
+Origin: Brazil  
+Native of: DOS platform  
+Objects: boot sectors  
+Residency: int 1, int 8  
+Behavior: this is world's first boot virus which uses 386+ PMODE features
+          and which does not hook int 13h in order to infect. Orgasmatron
+          first checks for a 386+ processor by means of int 6, and if all
+          is ok it will hook int 8 (in order to keep int 1 untouched) and
+          int 1, which will receive the control whenever it's called from
+          the DR3 debug breakpoint in order to infect boot sectors.  
+ 

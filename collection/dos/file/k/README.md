@@ -333,6 +333,8 @@
 │   │   └── b
 │   ├── 0873
 │   │   └── virus.dos.riot.keyb.873 [61a79eeff5314463476f535e9d300f58d234e76dc925f945bd8cb759de1d95d5]
+│   ├── 1033
+│   │   └── rot-lock.vom [e51f40130c1ad0eb0dbfec5a012263f63cecee72332f196849b07cdbdf97d7e4]
 │   └── 2245
 │       └── virus.dos.ball.2245 [6e3eba055fcf0112ea77a9551569c40a3455464a3d814d0a1bcb40f01934feee]
 ├── keyboard_bug
@@ -1054,10 +1056,12 @@
 │   └── 1020
 │       └── virus.dos.kgk.1020 [59fdd9043ec692adf477bdc89bd0966df616b126c67843ee7c8741952ae6220b]
 ├── korolev
-│   ├── 1959
-│   │   └── id.txt [7b19e62c3ae373f777e977909286f8e8766d90a6d0b310c8079d420f16ee1803]
-│   └── 997
-│       └── virus.dos.korolev.997 [768be364509d795146e9e90dc2f4cbb9e31a179ef241c33343e46ca2f9ab573d]
+│   ├── 0997
+│   │   ├── command.vom [7c13c12505aef3d1f7891fabcaa6e407c5720eb8f7bb816fe1dcb8963881684d]
+│   │   └── virus.dos.korolev.997 [768be364509d795146e9e90dc2f4cbb9e31a179ef241c33343e46ca2f9ab573d]
+│   └── 1959
+│       ├── NETRUN.vom [ba339b2171e3e9726c244d532ae04aa238fbad83c12bf2879497eea89d78fa0c]
+│       └── korolev_-001.vom [9240a5943c5124f03e9019fe64013b95cb3442eac389512f1322f802a088a53e]
 ├── korvs
 │   ├── 228
 │   │   ├── korvs228.vom [a4e4bcf1d278638c20d899618b21a30c9f4dfb9513d0bb7b561b4c1ce6387fbc]
@@ -1124,8 +1128,10 @@
 ├── krashmag
 │   ├── 308
 │   │   └── Virus.DOS.KrashMag.308 [352ddec22fc2ce4a3c4b9ee7d5b7a437e256a056f311d2f1e743f783726a9d88]
-│   └── 521
-│       └── krashmag.vom [314c1fe1b79a7706ffd131cb70a2e417983b680e4f9fee4ebacd47691dca55cd]
+│   ├── 521
+│   │   └── krashmag.vom [314c1fe1b79a7706ffd131cb70a2e417983b680e4f9fee4ebacd47691dca55cd]
+│   └── 595
+│       └── gency_59.vom [4ec1b1bc00956b03544a50eab55e89804a45a6004a0c585bbfb8989ca1a0ad06]
 ├── krasikov
 │   └── 264
 │       ├── a

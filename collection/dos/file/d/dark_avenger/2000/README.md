@@ -45,6 +45,8 @@
 │   └── diana.vom [77aa421fe9525c32ffd3b3fd4b312ef351df589fc2f4eb00a4a72833b6b8885b]
 ├── n
 │   └── da2000r0.vom [55b3567dbfa4e52d37e64d22b615a8cc57c11bca905f8ee932d76b00188ef11c]
+├── o
+│   └── dark_ave.vom [0250d612f144bb869488a139bb325fc1cabdf9f27de07bc64d46d2131455210b]
 ├── q
 │   ├── dark_ave-001.vxe [8c49b8264554d958af31f056dc59d555ff0ba2a0b61d2d5ced099f730011fab0]
 │   ├── dark_ave-002.vxe [91f1746858da6a4fda96e0a978a2fb9edfc6ae750f17b3a169bb6b1736fe7614]

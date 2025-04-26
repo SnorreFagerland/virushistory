@@ -2,6 +2,8 @@
 # Contents of `rideon`
 
 ```
+├── 4239
+│   └── virus.dos.rideon.4239 [1f037cf6901ceab86f8a6116b6ea31d2383c5136ffb422b9c4ec36daad0272f0]
 ├── 4292
 │   └── rideon_4-002.vom [73a94e01228198cd9b31dd24a9fafbcd18f52ca00eee3b1b873c43a678089811]
 └── 4313

@@ -338,18 +338,12 @@
 │   ├── 4050
 │   │   └── CABINFO.vxe [232ab1e11f1ba1ff9f6a3dc83050207e796cd5d2be7acc26aa0dad611a134056]
 │   ├── 5570
-│   │   ├── CLRATT.vxe [750cb1926e49b2432816c847cee195aa906b150f81b4ec2dfedacc146b1158dd]
-│   │   └── T1.vxe [750cb1926e49b2432816c847cee195aa906b150f81b4ec2dfedacc146b1158dd]
+│   │   └── CLRATT.vxe [750cb1926e49b2432816c847cee195aa906b150f81b4ec2dfedacc146b1158dd]
 │   ├── 6023
 │   │   ├── NEWYEAR!.vxe [6642f4c5012c9f565d96a336002319bc0390a257e8844f4f296203c3b3433074]
-│   │   ├── Presentation .vxe [6642f4c5012c9f565d96a336002319bc0390a257e8844f4f296203c3b3433074]
-│   │   ├── Price list.xls [6642f4c5012c9f565d96a336002319bc0390a257e8844f4f296203c3b3433074]
-│   │   ├── T1.vxe [6642f4c5012c9f565d96a336002319bc0390a257e8844f4f296203c3b3433074]
 │   │   └── wild
 │   └── 8896
-│       ├── CABINFO.vxe [f412ca470b6a283c6146ec0f9af0fed8bc131b6cb826121552e3e6b2cf621c69]
-│       ├── DEBUG.vxe [f412ca470b6a283c6146ec0f9af0fed8bc131b6cb826121552e3e6b2cf621c69]
-│       └── f412ca470b6a283c6146ec0f9af0fed8bc131b6cb826121552e3e6b2cf621c69
+│       └── CABINFO.vxe [f412ca470b6a283c6146ec0f9af0fed8bc131b6cb826121552e3e6b2cf621c69]
 ├── halley
 │   └── halley.vom [2c1ae255b32e7c9b26e48ca56052570a01ab8dfa0006ba40b2b026e46a7574ef]
 ├── halv
@@ -433,6 +427,9 @@
 ├── psycho
 │   └── 9280
 │       └── virus.dos.hllc.psycho.9280 [1ff20bc2fab5ecfd314413eaac2c731e570a6b05d87058702d4c3201bd3cb5d5]
+├── quack
+│   └── 12747
+│       └── virus.dos.hllc.quack [e136729bcc36866ca113dbf3a346ce97fd9cb07cc9e3cafc3dd54b45217aa863]
 ├── rarin
 │   └── 6157
 │       └── virus.dos.hllc.rarin.6157 [3bc393afd377fa7d465e009dfe6bfef5015158d5846d4e29974adec0f298dc66]

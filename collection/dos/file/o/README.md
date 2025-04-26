@@ -5,6 +5,9 @@
 ├── obid
 │   └── 555
 │       └── virus.dos.obid.555 [9b035c229a77006e0edb6a555a5ffb9ef817ba2af64486a1e74af9f40cdea998]
+├── occido
+│   └── 305
+│       └── virus.dos.occido.305 [882c3ab81bdca3314996fa2cf2af99d34f8cf36cd6165adbe3e75b20c3206cb2]
 ├── occult
 │   └── 1378
 │       └── virus.dos.rawal.1378 [35ff89a9a0959ffe520d4312130065ba7226fadf22556930923523b11f4f3c0c]
@@ -217,6 +220,9 @@
 │   │   └── virus.dos.olivia.2275 [f3f5762579b9f68d9a3655dd4922c80ad285603af8929e5303026a51265f34d0]
 │   ├── 2316
 │   │   └── a
+│   ├── 2374
+│   │   ├── olivia_2-001.vom [9009ad0152e8b3e0c7f28452710db522dfb8693d57b5bc4d4d23d62460f6d489]
+│   │   └── olivia_2-002.vom [e0028d62d7506ca53a0d95cfcc4e77bcf620e56d3b3258ac959afa8f536492a0]
 │   └── 3378
 │       ├── debug.vxe [3e669feecccb5f5f52defae20e4c41bf3c125262abb86fe47b9eaaaf08d5d417]
 │       ├── doskey.vom [8e25dcce16892e4be0f91706709960710a39abc4595661a8a34e4ae12ff4a74e]
@@ -237,6 +243,7 @@
 ├── omsk
 │   ├── 619
 │   │   ├── a
+│   │   ├── b
 │   │   └── c
 │   └── 662
 │       └── virus.dos.omsk.622 [38930081afe5585c6a3dffe8cf2840a8700bff301b00fbc8324b2493e3c1165a]
@@ -247,6 +254,7 @@
 │       └── wci0023o.vom [ed462e34bdb6fd762572bbaece1347fe80a531243befef24b514690fe3172af2]
 ├── on4ever
 │   ├── 00000001.vom [634ad5184af3289b153099f04d92b2dc548951ed1ca347868c228096c16ea5d2]
+│   ├── disasm [fb6b31dce3ea5db77e322bc633c4afef58bd8cd7f50d0999e44db1c43590b19c]
 │   └── unke0628.vom [2b136c21d1810f3fa50ea373099195c141061f0e12f06e6558ea6a352029863a]
 ├── on_64
 │   └── 696
@@ -329,6 +337,9 @@
 │   │   ├── a
 │   │   ├── b
 │   │   └── c
+│   ├── 2043
+│   │   ├── ontario_-001.vom [91dc858ad4c91e788fc6a126acd7a0d66c3db757719ccda422473cd7c84fdcba]
+│   │   └── ontario_.vom [952a59343a79646da4a149ce0852c19e385c6a12b1e09ead204f4985521611d4]
 │   ├── 2048
 │   │   ├── boot.sys [3dce91d8912d86a975c027ec329ee23364e6dd8aa4c18f22189164e38174a7e2]
 │   │   ├── boot.vxe [b1a1a516cafa51a1411b5fca432ddd61e7fdfb149e829608477a9c1e33c0abc4]
@@ -570,9 +581,6 @@
 ├── ornery
 │   └── 1006
 │       └── virus.dos.ms.1006 [bbc76d09f679cde50fdaad1763ad812934ec3aa17f2de6c95e9b9b1645ac255f]
-├── orni
-│   └── 1024
-│       └── virus.dos.zmiana.1016.b [5a8fddac8cf295bea4285660dc5420f5d06a14f0b7cfb58f3225acd4b909e90c]
 ├── oropax
 │   ├── 2799
 │   │   ├── a
@@ -628,9 +636,6 @@
 │   │   └── v7005.vom [43bb14de8304e630cbff878c3d1626d2f6a7732033f87a52b7ec8ee05dec2c1b]
 │   └── 641
 │       └── otto640.vom [021bab06365c2bd8d941a17ebef894f837227c44778e805eafe204cae77043e3]
-├── outer
-│   └── 1317
-│       └── trojan.dos.outerlimit [1f07775e41c9654a5baf029f609a31523564f34e12699a81be9bd034cc027521]
 ├── outsider
 │   ├── 1382
 │   │   ├── outsid.vom [fdf0ba1d35c892a05cb80b9857207cb02492c810288d022f0f993e7673012ef8]

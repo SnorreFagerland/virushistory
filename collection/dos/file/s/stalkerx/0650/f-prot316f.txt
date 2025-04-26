@@ -1,0 +1,57 @@
+Virus scanning report  -  23 April 2025 @ 8:10
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\a\Virus.Win16.StalkerX.650  Infection: StalkerX.650.I (exact)
+u:\a\vkit650a.vxe  Infection: StalkerX.650.I (exact)
+u:\b\vkit650b.vxe  Infection: StalkerX.650.I (exact)
+u:\b\win_vx3.vxe  Infection: StalkerX.650.I (exact)
+u:\c\vkit650c.vxe  Infection: StalkerX.650.I (exact)
+u:\d\vkit650d.vxe  Infection: StalkerX.650.I (exact)
+u:\e\vkit650e.vxe  Infection: StalkerX.650.I (exact)
+u:\f\vkit650f.vxe  Infection: StalkerX.650.I (exact)
+u:\g\stx650g.vxe  Infection: StalkerX.650.I (exact)
+u:\g\vkit650g.vxe  Infection: StalkerX.650.I (exact)
+u:\h\vkit650h.vxe  contains StalkerX.650 (non-working)
+u:\i\vkit650i.vxe  Infection: StalkerX.650.I (exact)
+u:\j\master.vxe  Infection: StalkerX.650.I (exact)
+u:\k\master2.vxe  Infection: StalkerX.650.I (exact)
+u:\l\killer.vxe  Infection: StalkerX.650.I (exact)
+u:\n\stx650n.vxe  Infection: StalkerX.650.I (exact)
+u:\o\stx650o.vxe  Infection: StalkerX.650.I (exact)
+u:\p\stx650p.vxe  Infection: StalkerX.650.I (exact)
+u:\q\stx650q.vxe  Infection: StalkerX.650.I (exact)
+u:\r\stx650r.vxe  Infection: StalkerX.650.I (exact)
+u:\s\stx650s.vxe  Infection: StalkerX.650.I (exact)
+u:\t\stx650t.vxe  Infection: StalkerX.650.I (exact)
+u:\u\stx650u.vxe  Infection: StalkerX.650.I (exact)
+u:\v\stx650v.vxe  Infection: StalkerX.650.I (exact)
+u:\x\79f832fad74b4c8a2bf17d30ee9856147ccad11f5bce27eb6554a2cf15c713c3  is a corrupted or intended virus
+
+Results of virus scanning:
+
+Files: 42
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 42
+Infected: 24
+Suspicious: 1
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00

@@ -543,11 +543,8 @@
 │       ├── T1.vxe [8347b5d621959e354bfcd77bdff541a05d8811ca8dc1fd1cfd29d4b43b97db2c]
 │       └── virus.dos.colund.7792 [89724aa0abdf8651648b707da550eb4f6fd315d59473daabd53e9cd6a7c4de2c]
 ├── combat
-│   ├── 4278
-│   │   └── Virus.DOS.HLLP.Combat.4278 [d66c8f1f3017a70ee98dadff6e4bd5048e7a1fd659b4819ae78a2946e5a3dfa1]
-│   └── 9736
-│       ├── b1.vat [b2a47370dfaed02547d1065a17c163c5dc2d14b5a120f780d55b5e9fb8f2da05]
-│       └── bat&com.vom [3d36ab782ee0884a908475e781947feae234fac1758e1611ab1bca28d488c479]
+│   └── 4278
+│       └── Virus.DOS.HLLP.Combat.4278 [d66c8f1f3017a70ee98dadff6e4bd5048e7a1fd659b4819ae78a2946e5a3dfa1]
 ├── commo
 │   └── 10304
 │       └── virus.dos.hllp.10304 [f16c5ca2ebe420f8acff42e885e523933ac7465b8c04fbd7f7930775b8385d61]
@@ -880,7 +877,6 @@
 │   │   ├── t1.vxe [4fc025cf59be94c510a22c30216dca59f2543cfcb21b9480096f3a9e1fb36f63]
 │   │   └── tup4157.vxe [f05ffa7b529ec407e7405f7f4899902ecebbe0f5e5cde2fb9083e27a62b0e31c]
 │   ├── 4420
-│   │   ├── HLLP000.vxe [597b0c56d06fa9c6a788ffdea0360c2f7f4c9e17b8b993e1c0522f3cd66fcecb]
 │   │   ├── clratt.vxe [815af4e5b7e6174251140ab8c94e972464ba9413976949ff05bb92a02ec67527]
 │   │   ├── src
 │   │   ├── t1.vxe [c616fe143c49a268c836e463b176f44f28bd4faf5600116c92647eb72c9f9df2]
@@ -891,7 +887,6 @@
 │   │   ├── t1.vxe [8fcc87592f77b8e7c1b28d9c3254d7e7de771a31ab648e68a09cb47aedcd4cee]
 │   │   └── tup4453.vxe [effb4a0f57a7f7a70b05f7cf491be2730ff2be168385f0358f566e9cc1c05b61]
 │   ├── 4474
-│   │   ├── HLLP001.vxe [59a6d42b8d3a853cffb2fefb94b609aca10e3ce9b7303baa97ff1c9a0384cd01]
 │   │   ├── cabinfo.vxe [789b8a978bd44ed97a09f7e0a72fadc5f4bcfd246761ae18418f71398144f58e]
 │   │   ├── clratt.vxe [d48124aeb636a7cb301e2c6709daaa3bf8438adca98aac75c2ce95f3169aaeb6]
 │   │   ├── src
@@ -903,9 +898,7 @@
 │   │   ├── t1.vxe [f633b39a10e366a2071594dd3b82d6fc95e4aaba3c096043cd91a18fd0eb4e05]
 │   │   └── tup4485.vxe [d9a3866c99d8fdffd79fd84334624f8af9d0a8eff28da7918ba8fc33c051558b]
 │   ├── 4567
-│   │   ├── clratt.vxe [31b5f11e84573495e3dade2b945517a032287eeb7ee541eca76edb9a0d37e3ad]
-│   │   ├── debug.vxe [31b5f11e84573495e3dade2b945517a032287eeb7ee541eca76edb9a0d37e3ad]
-│   │   └── t1.vxe [31b5f11e84573495e3dade2b945517a032287eeb7ee541eca76edb9a0d37e3ad]
+│   │   └── clratt.vxe [31b5f11e84573495e3dade2b945517a032287eeb7ee541eca76edb9a0d37e3ad]
 │   ├── 4842
 │   │   ├── clratt.vxe [2e387978c11dc70bb05a9f2f625b76081bb5b6b86482f6ff257214f89d410be7]
 │   │   ├── t1.vxe [01110e2a589a9bafca5661fb0410a1546ceca551e77d11a11ba90a79d457c087]
@@ -952,25 +945,21 @@
 │   │   └── clratt.vxe [03d7602726c20fd1a8d13cc0d8dc8fa6be2a334300f919e5c0aefd216d53f9ea]
 │   ├── 6378
 │   │   ├── DEA@LVIR.vxe [7f2d60950938cdd30c63b6a3e9a839fe27c25a74392cbc4aed51f050029a0cdb]
-│   │   ├── HLLP000.vxe [7f2d60950938cdd30c63b6a3e9a839fe27c25a74392cbc4aed51f050029a0cdb]
 │   │   ├── TLINK.vxe [1e719e6a5c9845710a52ebcd02fa344a365e73d98f799304322d7dbf67fac2d8]
 │   │   ├── src
 │   │   └── t1.vxe [f76de2dff48a5cc0df2ee499f263560465a3617f4e603a6c14a9913c15d16833]
 │   ├── 6413
 │   │   ├── DEA@LVIR.vxe [0fa07dc2f09579dada1ca9e5a26d95f518ee44bddec65b41aaa06caccc23d6f3]
-│   │   ├── HLLP002.vxe [0fa07dc2f09579dada1ca9e5a26d95f518ee44bddec65b41aaa06caccc23d6f3]
 │   │   ├── clratt.vxe [669175ffc2a10a410849be343a73a5b18c1fb5a05651bd8a0ac83ddc5ae71f99]
 │   │   ├── src
 │   │   └── t1.vxe [cff79dd5bd9b674a3fcdb616b2fdbfab20d8ea49c4e31dd3bb449b73fe5d7148]
 │   ├── 6421
 │   │   ├── DEA@LVIR.vxe [53305eca32bc3066785467149d94fc3f8e3dd95ee66db6ca1a18575d5ba58f92]
-│   │   ├── HLLP004.vxe [53305eca32bc3066785467149d94fc3f8e3dd95ee66db6ca1a18575d5ba58f92]
 │   │   ├── clratt.vxe [e3d0c126f0bbbd73293a8f8107bca955b6fe05a201155bd18b9337af7b38b471]
 │   │   ├── src
 │   │   └── t1.vxe [76fdba60c32fd99ecd3d9fcfe1b0a873da0afa24967867d8aaff1b69299b900f]
 │   ├── 6443
 │   │   ├── DEA@LVIR.vxe [3723daa9e030fc7ddd43996285854edd317b2cbe7966470c7acbc68a9f85e7a1]
-│   │   ├── HLLP003.vxe [3723daa9e030fc7ddd43996285854edd317b2cbe7966470c7acbc68a9f85e7a1]
 │   │   ├── clratt.vxe [911ee9864fe3ac11b8125d7008d422311fb301fca1486938c4c36f33a68f1110]
 │   │   ├── debug.vxe [2fe7809b0a899a2d3b662a60253226e829bd3c9059e9bb4969eefad63dbc26fb]
 │   │   ├── src
@@ -980,7 +969,6 @@
 │   │   └── t1.vxe [f054bcf735a03441c7ebef7173d168f0e0aee81ad124d3a71fda7460f2fc4d31]
 │   ├── 6450
 │   │   ├── DEA@LVIR.vxe [2f420da16b5093e9a925d077bb07f4cadd07730c2caf78fe0cec50f15c71b1d6]
-│   │   ├── HLLP001.vxe [2f420da16b5093e9a925d077bb07f4cadd07730c2caf78fe0cec50f15c71b1d6]
 │   │   ├── clratt.vxe [331a7cfc9608987f370fe96fd485254a4671e6c592a10ebe7bc6b6a6dba579ba]
 │   │   ├── src
 │   │   ├── t1.vxe [122c3211b594ee1f4b0f4d13d8d844e21fb2dfea7c0311b7d49042d5825f6afc]
@@ -989,7 +977,6 @@
 │   │   ├── clratt.vxe [265b8920bc359e5772b43b4e91b94b0e3ea93fc0b68180637decaeffecc34d59]
 │   │   ├── t1.vxe [3e5ce03b011ea564792d57d19704cc2d1db324be414982b67aaac882cffb84e9]
 │   │   ├── t3.vxe [8d4eb9a6e5fe9d273eb5f40d62ce18b1bfcd9a5d188cf582b08db9cb4763cb4e]
-│   │   ├── tup6480.vxe [8d4eb9a6e5fe9d273eb5f40d62ce18b1bfcd9a5d188cf582b08db9cb4763cb4e]
 │   │   └── unp.vxe [d7c469cdbcc0a0e78054cb4e9de7b5583ba56e2dc404ba9c80a6de468e56b73e]
 │   ├── 6743
 │   │   ├── DEA@LVIR.vxe [4fd6202043c3355399c592d3c546b11d3f8c508899de23ef57e94bb511c1eced]
@@ -1017,7 +1004,6 @@
 │   ├── 6930
 │   │   ├── DEA@LVIR.vxe [87fa2c8223a39df448b9de7a18a959de70d8acf72ddc15619166cae2184e8d41]
 │   │   ├── EXTRACT.vxe [80e5e65f5fa0b3866be100606093d7e51c3aa833f4eb86c9da49c39ef870146f]
-│   │   ├── HLLP000.vxe [87fa2c8223a39df448b9de7a18a959de70d8acf72ddc15619166cae2184e8d41]
 │   │   ├── clratt.vxe [13e9e24593fad1ef57188fa053fea2e9427815cba166a476ef7cbfe527af9033]
 │   │   ├── debug.vxe [2af969970cfa13d11ba6c064f6aa379cdd9e66a6b3be550fbdb88bc1d80698e0]
 │   │   └── src
@@ -1041,17 +1027,14 @@
 │   │   ├── TASM.vxe [c6d160145b27a0527cf638b7b4d2ca7f08c88f313b38e78d2f562e081c8f478a]
 │   │   ├── TLINK.vxe [78079ebf39581be664fef14f8dadd719cb55e32244099507a27ef6d7c35041cf]
 │   │   ├── UUENCODE.vxe [501d4c0c795d9a217c0adf7d0dd842d046b77446b8c480d3a126c762043db603]
-│   │   ├── Virus.Win16.Guliver.b [4e6d58e1bd7ef8d75f295905cba077bcb783e403150d5f9437205063aa45e329]
 │   │   ├── cabinfo.vxe [62ebccc730dd1b4b44333c0a81841c857bd98c6c95ef2c298effb1bb25c6abeb]
 │   │   ├── getinfor.vxe [5552ef0cdcb781548d7f24521f8bd1efd6fd46ed89eec410b646b007308bce5f]
 │   │   ├── setup.vxe [6da793e7b1ec63bf1578067c691ec26449cc2ae7bd317404ca4d580f53310de8]
-│   │   ├── t3.vxe [4e6d58e1bd7ef8d75f295905cba077bcb783e403150d5f9437205063aa45e329]
 │   │   └── unp.vxe [1d61853ca92134048bff87a5e20c0263294f87d205a67fd3905ec05d71abe037]
 │   ├── 7436
 │   │   ├── EXPLORE.vxe [a0217480b83959b0f627e988f36d45e7a315da8425de2dcbee6ec62d5bac2383]
 │   │   └── EXTRACT.vxe [cba3218dcc24613c289403e230dff67849ab1116a3c390d5b1af661ca7d9a802]
 │   ├── 7463
-│   │   ├── EXPLORE.vxe [77fa21c46e8c1ede269a335a4dd1cc31729eaed495e3d7dd43dc7a2fd371ebd7]
 │   │   ├── Virus.Win16.Guliver.a [77fa21c46e8c1ede269a335a4dd1cc31729eaed495e3d7dd43dc7a2fd371ebd7]
 │   │   └── getinfor.vxe [a6e7bfbe6cfd5382ffe268c58ff696cdf4510b52c3948ad245c267e96b16ba14]
 │   ├── 7469
@@ -1060,8 +1043,7 @@
 │   │   └── UUENCODE.vxe [1cae2fb4613f2e5f13e3923f27d1e55679ae0eed77d5298b100f8ee451a384b8]
 │   ├── 7478
 │   │   ├── EXPLORE.vxe [fed35bc6a40ddfb6fa2101ab2cae2b5c5973b2be6cec6cdb4d00bd0631b55f0b]
-│   │   ├── TASM.vxe [8bb47d06fead3ba227267c0bdacb0aa3d1add8d09cf27dc85d9aabf2da1196b8]
-│   │   └── tup7478.vxe [fed35bc6a40ddfb6fa2101ab2cae2b5c5973b2be6cec6cdb4d00bd0631b55f0b]
+│   │   └── TASM.vxe [8bb47d06fead3ba227267c0bdacb0aa3d1add8d09cf27dc85d9aabf2da1196b8]
 │   ├── 7480
 │   │   ├── EXPLORE.vxe [87baabdc36a4e681d3433db66685f18e2564090189b9d9fbef5a111dc5eee9cd]
 │   │   └── setup.vxe [670e2893248f25ca7ef619443a607e8841746ef1c2559f696005e216f7dca3ce]

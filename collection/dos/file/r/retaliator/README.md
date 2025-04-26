@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED-README -->
-# Contents of `retaliat`
+# Contents of `retaliator`
 
 ```
 ├── 1529
@@ -14,6 +14,8 @@
 │   └── b
 │       ├── intrunkc.vxe [1e784e4aeb80d79865d1baad144389a4ce222eaeee8686ef359f6de9fef8c968]
 │       └── retal.vxe [237b13ca007636de53aa7517291b2f9a6072f9e2fabed96932a8db31db059d68]
+├── 1539
+│   └── virus.dos.retaliator.1537.a [cf6a7385d58b076cefb1a467f3e70c1ba67754776781f3367b4d5b637fea09d4]
 └── 1555
     └── reta1555.vxe [47c5d55ecda7a524eb9e7307a2bfd941b0a15d1af16b3c0dc4cd8775a4f17e03]
 ```

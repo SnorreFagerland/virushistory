@@ -193,6 +193,13 @@
 │   │   └── nq_xor.vxe [c8407d5ae3f19068b2ba9f79bb2eecfe88338e421cff82bd8619eebb03faba6a]
 │   └── c
 │       └── wci00534.vxe [1b187af0a79c201759c13281a3a2095a42c15ff577272a4de5443d2d3ee92424]
+├── neurot
+│   └── 568
+│       ├── neurot_5-001.vom [4bd7d857f2ee58e0cd115dbba48259fc1140190bfa69c90e70f0172deda5e9c9]
+│       ├── neurot_5-002.vom [152d46ff9275f153484ec72dadcb29c90b12ed2c1f911b75ad7adfe3f6b84c66]
+│       ├── t1.vom [ad40a837ff591866c9fafa60574b21ed2ba5e41569c1015bee8eccca2b71aacd]
+│       ├── t3.vom [c88f05d52f5bcf98752095a5ef320dce763929bc88c69a976e7a7e51e6f1137d]
+│       └── t9.vom [89a3e16bb432598d926f5ea73f3a98c0451c65b7ba4671a024277086dacdd42d]
 ├── never
 │   ├── 1000
 │   │   ├── nevr1000.vom [fb862431da13d3d49f4acc4af9fec73ff3de7ab930f2404180cc832b8e1278ac]
@@ -267,7 +274,7 @@
 │   │   ├── b
 │   │   └── c
 │   └── 426
-│       └── id.txt [845dcb8925bbac20d73cc20cf6617ba2ec04dc7fd5773ecb5ddda59546fb2ab6]
+│       └── nightbir.vom [a56fd5afaed114ad68995c9da84e45d33974c07ce8efbe016430b98f1439aeb8]
 ├── nightfall
 │   ├── 0527
 │   │   ├── nf527cmp.vom [5074f821a595ab22a46b6feacf4c36aa2a1fd7b2c6a599af1a1afc39a8b302c1]
@@ -1093,7 +1100,6 @@
 │   │   ├── a
 │   │   └── varcella.vom [79ab1412bd64a703ea68237837eec1d65eb205cec3470eb2721129c66a259d3b]
 │   ├── 1714
-│   │   ├── 1714.com [6ac11232fd6f189cd9dee0a834b5cee58797fa9fce164123c51e849ee3aef493]
 │   │   └── virus.dos.vortex.taxes.1714 [6ac11232fd6f189cd9dee0a834b5cee58797fa9fce164123c51e849ee3aef493]
 │   ├── 1717
 │   │   ├── 1717.vom [065d9010ef41d02c5be19b0b56d4a95f5085792c408be0560d7b8e10f3148a4a]

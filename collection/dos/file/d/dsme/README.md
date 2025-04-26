@@ -33,7 +33,10 @@
 │       ├── t6.vom [344f420ec31ce0f8e85e6489f9fae1f3d90de962773179a44474588ad5885dcd]
 │       └── t8.vom [b1e5827cf8986337f58aed9ed57538178f23c83bd51c0b1c25f89e82801dc77c]
 ├── demo
-│   └── dsmedemo.vom [f5f528ea99b4bf228924b5dd12b864d1cc949fbce69049924e18b0247b0eca2b]
+│   ├── 2509
+│   │   └── dsmedemo.vom [f5f528ea99b4bf228924b5dd12b864d1cc949fbce69049924e18b0247b0eca2b]
+│   └── 2643
+│       └── virus.dos.dsme.demo.2509 [3359607b70b56e7877ed6159dd503b95d5c96d488445cd08da6599d572638a5f]
 └── teacher
     ├── t1.vom [3a852faff38c404d0773d730efc85269db398f34b8c0b96bb1f4a90edb5751a3]
     ├── t2.vom [eefded9c20a2300cfa456c6f51366323b1f54f4587c4d6498b18b9e01bb0caa1]

@@ -21,6 +21,5 @@
 │   └── windsor.vom [ccad6497538f3b78b389b4c05a7bab5abca75545408a84f7fb2a3ee82ac7d870]
 └── c
     ├── vienna_6-001.vom [c0f5788806d3d7d1cf991a4faa3197952bb4a42665c84cddea45f860f94d6afa]
-    ├── vienna_6.vom [cbca4e35099723f09aceb9b61617e457d45a293290686a8f79ed51ac4a4fe9ad]
-    └── vienna_6.vxe [cbca4e35099723f09aceb9b61617e457d45a293290686a8f79ed51ac4a4fe9ad]
+    └── vienna_6.vom [cbca4e35099723f09aceb9b61617e457d45a293290686a8f79ed51ac4a4fe9ad]
 ```

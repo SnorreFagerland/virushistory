@@ -45,8 +45,15 @@
 │   │   └── hellowee.vom [6c0a39d3ccfa38effb731de596e8f4b1e34f0428cf36e41dac9ff1b0fbec919d]
 │   ├── j
 │   │   └── hellowee.vom [2f91786f221a1fe29e6abc6faccf23207d33ebda9cc4511e5d487b7db39c0cc0]
-│   └── k
-│       └── hellowee.vom [93b39f176981de990c0bf1a5ebf0434d35352056e0a0fc511232176cddb855f8]
+│   ├── k
+│   │   └── hellowee.vom [93b39f176981de990c0bf1a5ebf0434d35352056e0a0fc511232176cddb855f8]
+│   └── l
+│       ├── t1.vom [c1a1a3dcb80d5be5aa75e37eef186de20c55577fa82a92e18a3d2a5aecf19b59]
+│       ├── t1.vxe [4060ea4f884c5439cdddbc4ce19d66276854e98ce7490bd838fc50f66f78d4e4]
+│       ├── t3.vom [2d09bfe6052596c6acbb146940e75516e5d12cc797134e54d7572034ebab39b4]
+│       ├── t3.vxe [7304f181d65401427decd5349133ba4ddb158217eb230dda8b3f66aadbc97b54]
+│       ├── t9.vom [9c96705caf4931fe5ec30ff226eda71ff72887b7fe327e4b43315938e8297d60]
+│       └── virus.dos.helloween.1376.h [0140aa09681567576a953c242d2abb83f5411eef508c0cb642a6823344ca372b]
 ├── 1377
 │   └── hel1377.vxe [cde7329f2955742786e1a7f430c699a31e8f402db796f1d1f2c3e444e2dea233]
 ├── 1384

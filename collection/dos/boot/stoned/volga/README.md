@@ -18,6 +18,8 @@
 │   └── volgag.boo [25b42fa321ff86a99d88d436fdfe1e11e5969e47d33ce1906dd8d60410ec822a]
 ├── h
 │   └── volgah.boo [35ee15b9c2ab318a5a175ec0b53e0ad1766102bc8708580baae331a60fdfb802]
+├── i
+│   └── stoned_v.boo [8ae48a7376d6ee3d7a966909cb7763d61a3a9d73630cb2b5d49fff70e5f6c057]
 ├── j
 │   └── volgaj-0.boo [96a0ac00aec3b7cdfc05098b20a81659251b6bcc13b7314abb1809240bfed14b]
 └── k

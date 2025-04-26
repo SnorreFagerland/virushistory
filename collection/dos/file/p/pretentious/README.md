@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED-README -->
-# Contents of `pretenti`
+# Contents of `pretentious`
 
 ```
 └── 680

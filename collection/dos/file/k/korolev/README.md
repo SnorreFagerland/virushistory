@@ -2,8 +2,10 @@
 # Contents of `korolev`
 
 ```
-├── 1959
-│   └── id.txt [7b19e62c3ae373f777e977909286f8e8766d90a6d0b310c8079d420f16ee1803]
-└── 997
-    └── virus.dos.korolev.997 [768be364509d795146e9e90dc2f4cbb9e31a179ef241c33343e46ca2f9ab573d]
+├── 0997
+│   ├── command.vom [7c13c12505aef3d1f7891fabcaa6e407c5720eb8f7bb816fe1dcb8963881684d]
+│   └── virus.dos.korolev.997 [768be364509d795146e9e90dc2f4cbb9e31a179ef241c33343e46ca2f9ab573d]
+└── 1959
+    ├── NETRUN.vom [ba339b2171e3e9726c244d532ae04aa238fbad83c12bf2879497eea89d78fa0c]
+    └── korolev_-001.vom [9240a5943c5124f03e9019fe64013b95cb3442eac389512f1322f802a088a53e]
 ```

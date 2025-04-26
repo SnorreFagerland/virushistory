@@ -2,6 +2,27 @@
 # Contents of `rogue`
 
 ```
+├── 1206
+│   ├── a
+│   │   └── rouge_12.vxe [34f2fdd4e5f7b50b8f39e91797a044120d3878226aba2806e8a7676af91a12d4]
+│   ├── b
+│   │   └── rouge_12.vxe [87a685c5cc64c18c38e2658ac518859b3a79b8ab90be890b96a3c02397918fd6]
+│   ├── c
+│   │   └── rouge_12.vom [60ebda2f533f9e56f5549b7e4c1ae2952c8e128976475a91d88d6b9fe483d134]
+│   ├── d
+│   │   └── rouge_12.vxe [62c765becf6ee48191a6985d534913453a8eba657002b1f6b64452cf3454e77a]
+│   └── e
+│       └── virus.dos.rogue.1206 [7a321c52e03354c05ff01f845e6fbeff98a10c7d293b05694669194a05153290]
+├── 1208
+│   └── rog1208.vom [5af7a3ad469dec2c8ec25b4cee8b5ab8ff25948924351586b41fb7710fb4a611]
+├── 1213
+│   ├── a
+│   │   └── rog1213.vom [ede3013392c467c119c9dea35499387564cd89495486b4a90d66ad8c75d0f54e]
+│   └── b
+│       ├── t1.vom [ff5f54d894656ce281f526abdf29ad00617295a53834ae19c6c8576fb7a85651]
+│       ├── t1.vxe [f0cdebef23722344054413aafc776614e67fd8debb6876865e17ff10d7a539cd]
+│       ├── t9.vom [f990de21b14a5d1411776c9f80ede384dae95a1020f36f636b0def33393d5c2c]
+│       └── virus.dos.rogue.1213 [57b7d82785d0221014ade0a1443db1484f59e3177170b541363c83ebe04339e3]
 └── 1807
     ├── rog1807.vom [5f60b7ca2d91e1d91bdc3c94a21f44106cc1347d1efeef510906a5dcfea3ffd4]
     ├── rog1807.vxe [be18937c5878a38f502aac0e0053d0dd40a2c1e1a52909ca0b46d3041d11d257]

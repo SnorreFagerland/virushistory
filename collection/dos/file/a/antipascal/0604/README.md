@@ -8,8 +8,7 @@
 │   └── ap-604c-0.vom [f778ab6230a376f0d70d51f536e7278ac79b07b97ac15e3d194f38431c68f3db]
 ├── d
 │   └── virus.dos.antipascal.604.b [bb08ce2807c5c1b608cc36dce0d983bb6d53bb8f21f311163a532510a2c6e044]
-├── e
-└── f
+└── e
     ├── ap604unk.vom [497f45cb0d5c4dccaee58b7df8c3d983f5efd58f85fa17cfcd384690d1112c8b]
     ├── cabinfo.vxe [96dedbde4ff004e08adb76a7004bc23f8162ffddf51634a5fdf45e8ec66df5dc]
     ├── debug.vxe [e089b755f3b614ce75e65d0cf43ecc5eed2b747547895d944206d6ebd48988f3]

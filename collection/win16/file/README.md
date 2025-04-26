@@ -19,6 +19,8 @@
 │   │   ├── b
 │   │   └── keyview.vxe [2d3834ede3fbf26793b923dd8080e9cc868ce980b70147b01bde96dd3d4f505c]
 │   ├── 1550
+│   │   ├── aep_1550-001.vom [5f8388caa2232f98087ad42330b03ba6b71e48bf1cef547036ca3c746e90e36e]
+│   │   ├── aep_1550.vom [b6aca9f2d923de697f9d51c5f164af056d7cd48c9743cfad163a2629cd187e45]
 │   │   ├── keyview.vxe [2c19ddce36fc84340e2d8ff63fe489633d6634bb73e5623dcb25c3f9983cc786]
 │   │   └── wci0121w.vxe [691eabac417ebae1db0b65793129823f4625e292e01bdcc8198906705ea8205d]
 │   ├── 1563
@@ -72,22 +74,10 @@
 │   ├── debug.vxe [c18f637f8fa69c1b0d3ad11c333f3ac92748d28e0dea55187fb75d508807cb8b]
 │   ├── gollum.386 [6241d7d9dbd765d4f923c5db118faccf4476d631439a8225510c31bf2ac7b5b2]
 │   ├── label.vxe [54f0cacaa56e8c7532b166a2572247898b1d39def95fd9de0fae9b2b7b5a5c24]
-│   ├── mam.vxe [b2d607024130777d7cf9e6150bd70080df19a296c477e006385484517f969c0d]
-│   └── mem.vxe [329954ff4c5f7a12b93a0318c5c4421dc3c3d3f8775f8fe8920c8fe395bfd5d3]
+│   └── mam.vxe [b2d607024130777d7cf9e6150bd70080df19a296c477e006385484517f969c0d]
 ├── header
-│   ├── 145
-│   │   └── Virus.Win16.Header.Compo.145 [a098d4eb190f7859f6a1944376dbaffb42a633590165e1413065b070f61b7b06]
-│   ├── 192
-│   │   └── Virus.Win16.Header.Deadman.192 [99593b5016d0513ec7c2259bdc39b706b258bc38f482b68a070b93f537b0631a]
-│   ├── 255
-│   │   └── Virus.Win16.Header.CPPE.255 [76f31d4b5a7f7d8505ea0620a6cf4da4d8ccfe564ea609d8df2192d0b2a63875]
-│   ├── 300
-│   │   └── Virus.Win16.Header.CPNE.300 [f29b5e8cce0a9f57d0421e1048e48fc9c28f3721b91ee0749074a796326d0ac6]
-│   ├── 385
-│   │   └── Virus.Win16.Header.385 [907855ddaa7ac96ec033e8f4638eacaa8529e5d0478b97895be7184b9d73f4d8]
-│   └── lucky
-│       ├── 423
-│       └── 481
+│   └── 300
+│       └── Virus.Win16.Header.CPNE.300 [f29b5e8cce0a9f57d0421e1048e48fc9c28f3721b91ee0749074a796326d0ac6]
 ├── hllc
 │   └── lodex
 │       └── Virus.Win16.HLLC.Lodex [2f0100e1b6e81ebdcf5b609f752be7e06a0535de56505e9f8fdcf91fc3296658]
@@ -173,19 +163,45 @@
 │   ├── 0626
 │   │   └── Virus.Win16.StalkerX.626 [df7a0fe6a6c7afb394285c39725039698d3ebedb9b8538b05bfc33ba5e381f5e]
 │   ├── 0650
-│   │   └── i
+│   │   ├── a
+│   │   ├── b
+│   │   ├── c
+│   │   ├── d
+│   │   ├── e
+│   │   ├── f
+│   │   ├── g
+│   │   ├── h
+│   │   ├── i
+│   │   ├── j
+│   │   ├── k
+│   │   ├── l
+│   │   ├── m
+│   │   ├── n
+│   │   ├── o
+│   │   ├── p
+│   │   ├── q
+│   │   ├── r
+│   │   ├── s
+│   │   ├── t
+│   │   ├── u
+│   │   └── v
+│   ├── 0659
+│   │   ├── keyview.vxe [ce26acae5001d54d59828fcf8ccfc665fd4fee5f2e2490b5329d4e20ddc39cc9]
+│   │   └── vkit659.vxe [941c86ebd7c230a7e8dfc14e677c4751d7519a80aa3f2a65d96a3458056de785]
 │   ├── 0706
 │   │   └── Virus.Win16.StalkerX.706 [ce8456d1125e3db42329e54747b8451c7bbe2300c7ded99c9286b09be2c3e13e]
 │   ├── 0883
-│   │   └── Virus.Win16.StalkerX.883 [e447fbf785694325a52ad71e68be8b3203e013e129dcde0850ee08e5afb50c96]
+│   │   ├── keyview.vxe [7d43c5ec4ac26d1d061c148dc864373b3aafbf07dcdf471899c7d0cc67c60885]
+│   │   ├── stal-883.vxe [abd1ee2f31a430dd6e39dbcd57d59b2fb851ae08584210da2e53326435570ac4]
+│   │   ├── t1.vxe [17cbf7c49be5e63d39b65a3bc865432930e664fd924d3604a531edb875c77d5b]
+│   │   ├── t2.vxe [7cde7b30936f68a3a0125d9d8404804771fa137edc9401561a6f70452b6d71aa]
+│   │   └── wci00574.vxe [f3ac87633cc3210355b79512457cb36a0b445768e2094cf250b4ec65b3ca7ff8]
 │   ├── 1241
-│   │   └── Virus.Win16.StalkerX.1241 [cbc8a3891c8720446d457766a73537fd0894f2aa27977efa8904e052f18b9278]
-│   ├── 1264
-│   │   └── Virus.Win16.StalkerX.1264 [eeb7fbdeb40c578465db129cde6caf72a851073decc2172b40c27d86dfab4494]
+│   │   └── keyview.vxe [d6062aa55641c71c4308606a13562ef3a646bc2f6027a5158fcdbcfb5ae457dd]
 │   ├── 1293
-│   │   └── Virus.Win16.StalkerX.1293 [9bb73f81e9dc86479b20a8f07ef47367c3185173b1867fc0602af608eb20bfd4]
+│   │   └── keyview.vxe [ba829d92e891108ac2aa6ad5375f808152b6a400127938d1617e2136354ef0ed]
 │   └── 1301
-│       └── Virus.Win16.StalkerX.1301 [89293756efbf9c420323f8f2d6ee0c7e0334a6e4cfbfe829a728a59e716227cb]
+│       └── keyview.vxe [320d4bac7ef13f0785fef3bbf04fd2bea72184dccbd4ef7e33c1293d21dacfaa]
 ├── tentacle
 │   ├── 01944
 │   │   └── a
@@ -199,7 +215,10 @@
 │   └── 780
 │       └── virus.dos.tved.trurl.789.a [f89e3a9c17363b12425a7720430e321024b16285f7d62d7e62547a79e81a25fc]
 ├── twitch
-│   └── Virus.Win16.Twitch [c07d223aab9378b0c3beee849d09e2c7b3d53fea4c1defc6bb177dafc235c67a]
+│   ├── a
+│   │   └── twitch.vxe [c07d223aab9378b0c3beee849d09e2c7b3d53fea4c1defc6bb177dafc235c67a]
+│   └── b
+│       └── twitchb.vxe [4c4568c1f71c4aa2f4a7f90a10939da85fd2a1a36eaaa01ae255e9a488e7b24b]
 ├── vecna
 │   └── 832
 │       └── Virus.Win16.Vecna.832 [327bd5fdd74b7cddee24babbd6ff454f11b791e2502147333ba1668b4b27a2c4]
@@ -236,8 +255,7 @@
 │       └── Virus.Win16.Drosh.c [56d67456f7be3ddd4e29cedb87265da4d996551e865e09ab59fa0b7bf44fe1ee]
 ├── winlamer
 │   ├── 1734
-│   │   ├── Virus.Win16.WinLamer2.1734 [d201a6d8e13c3142840cab8dd8177902ff9150462b6fc33c4c990390cc9bd5cc]
-│   │   └── Virus.Win16.WinLamer2.756 [343247393f53bc043fcc12ac5f3d17811b5558a03407948b04952f25ffee7c56]
+│   │   └── Virus.Win16.WinLamer2.1734 [d201a6d8e13c3142840cab8dd8177902ff9150462b6fc33c4c990390cc9bd5cc]
 │   └── 1934
 │       └── Virus.Win16.WinLamer2.1934 [8fb667f69bc24af762ebf5fed4b309fbe2708dcfc1106fb09a26b094329d696e]
 ├── winsurf

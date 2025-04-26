@@ -110,8 +110,6 @@
 │   │   └── Virus.DOS.ACDC.494 [a0ae408a3928aa0a6cefce7a3ea7853810cd30cc7cefec24e6354e429f3a3d16]
 │   └── 499
 │       └── acdc_499.vom [d1bdf060900ce0f16211e16400a3be5e1c3b764d2ce9dabd5b32a8a6ce2d2e45]
-├── ace
-│   └── Virus.DOS.Ace.1872 [b64f1fd88f107854c7b03e5fbeb1192dca2f5510c2b0a2de921b8a0509f02a67]
 ├── ace1
 │   ├── Virus.DOS.Ace.352 [f366b75ef8a353e60f9c9a6370744e04b8fb1f42102176982f3eb75b6598ebf1]
 │   └── ace352.vom [c5354231b2cdd2905dc9530e2b8e7e9daaff32c0e373857a007582c3efc2f3ed]
@@ -139,9 +137,6 @@
 │   │   └── acid67~2.vxe [49b42a506dff868c480c37990b1b7c35414b58b0f0098d73cb6e330a7d5fe84a]
 │   └── 736
 │       └── acid736.vom [f20993993912704a090b684392cc9de36c048a2e29f557afe415801a48cd4fbe]
-├── acombat
-│   └── 398
-│       └── virus_2074.vir [e28db4775956dfa599237cbb32f75122b7fbd0fd0ab45289daf8857c674b9025]
 ├── acpa
 │   └── 2061
 │       └── virus.dos.i13.acpav.2061 [7a81454028eb0acbea68f2962aad952bd669ead9274ea1ccac467c9b4b6c9a79]
@@ -199,7 +194,6 @@
 │   │   ├── adin1504.vx [f0abdd539fe3461b8be7d9a291220ca80d8509c49bb94084e5c9d5b13eae99d9]
 │   │   └── adin1504.vxe [97c89174606be8997d9da32a3a57a577012471e396bbf2a765166e2fba75df13]
 │   └── 3026
-│       └── Virus.DOS.Adin.3026 [671e88fcbf16bbc01109d1835193bb649f2b63ba4b3ab6c9a886b7dfc26c8d4f]
 ├── adindin
 │   ├── 1588
 │   │   ├── virus.dos.firstling.1597 [f0199774f2c5cda72f06cc5f10318807509a03befe4e58714d9d8b576f1e5951]
@@ -240,7 +234,12 @@
 │   └── 1113
 │       └── wci05833.vxe [894352212781586a82af582bb3cec014d9653f66ba42c6ff2e4d8d3d71208d71]
 ├── adt
-│   └── Virus.DOS.ADT.1778 [583f751bb276a07f6d00234eae1cf8c97f0e4b038fc9a2df18a86a4c3e70647e]
+│   ├── Virus.DOS.ADT.1778 [583f751bb276a07f6d00234eae1cf8c97f0e4b038fc9a2df18a86a4c3e70647e]
+│   ├── t1.vom [a99a45f08bcedeb7897ada360404c98e1f6f065784ac5f5880c468c1aae33cbf]
+│   ├── t1.vxe [001c4b806d82dcacf668e6c45eb502d0d6b61582a46666cc52725e5b2c884fb4]
+│   ├── t3.vom [71e97e59be216f6c1be56d23092654f2459ed01be8ed9afa581a9fbec2687f93]
+│   ├── t3.vxe [153df7ad0e8f551989ccb0d0d071071777027b3a4e88df987cd16f75c222f85c]
+│   └── t9.vom [aabf046aa0a9055014706c002fc14af69df9eb2e459630b409316e051ff7eec7]
 ├── aep
 │   ├── 0626
 │   │   ├── a
@@ -286,6 +285,13 @@
 ├── agena
 │   └── 723
 │       └── Virus.DOS.Agena.723 [67d53f57928f0cd679a85b327ea59a9e048caa12a49aeb51d8a22fcaa9aaf80f]
+├── agent
+│   └── 698
+│       ├── a.vom [2375749d78ec1243fb4a85c923f25de6c37c72fa5273e2905d0fdd2eff6bd314]
+│       ├── t1.vom [79c85afa32aaf69652eb738b2a5b6bc97974306816b66df64d9a790cba3443d3]
+│       ├── t1.vxe [cb861649cbd1005db4318ec8dc64f3967febf3fe0e52fc5c609187bc745bff41]
+│       ├── t3.vom [baee32123a98a816871d57d749b4d3207acf336352371224a0a5159d26033c5a]
+│       └── t9.vom [2a75732e396051f33e67e88cf20e55a5a975c1bcbca6f8e788b08335a5c6e440]
 ├── ah
 │   └── 2241
 │       └── Virus.DOS.AH.2241 [69f0448535c0c01647035c4a47455fb0945194ef0b061b38d98a765d1e301240]
@@ -332,7 +338,8 @@
 │   │   └── airw384.vom [427ed57c2d555675191d5f702ed836e15d224c130752aee688433b13fb9dc9ca]
 │   ├── 385
 │   │   ├── a
-│   │   └── b
+│   │   ├── b
+│   │   └── c
 │   └── 386
 │       └── airw386.vom [bd1a9bd9f99e6cc300f594f1736b91478b18a6a7e8c35e889d2689fe562ad5c3]
 ├── aiw
@@ -521,8 +528,66 @@
 │       ├── a
 │       └── b
 ├── alma
-│   └── 8397
-│       └── alma8397-0.vom [1376ccf7f0f5d44dc688c5c096e8ae8156489f8fcabcd6f3997f2d5d77cdc579]
+│   ├── a
+│   │   ├── DUMP32.vom [c330e194e7c10d99ab366cc970db118a68e0c062890451c6337fba24c06e8484]
+│   │   ├── LWM.vom [afee168c69d7ec5bea2f5c8c09e3fbafab58f544c924361bb3997cd62e771095]
+│   │   ├── NETRUN.vom [bb75b75ef4378e631ced0938943833001a40c68acc18f75b1a4373839aa798d5]
+│   │   ├── alma8397-0.vom [1376ccf7f0f5d44dc688c5c096e8ae8156489f8fcabcd6f3997f2d5d77cdc579]
+│   │   ├── t1.vom [3790f8ceca4237a1018bfd3357096b9bd414cdd91d5af6661a7dc8c17c2a41d3]
+│   │   ├── t3.vom [9706e5665ddd7e8ccce5cc1644bfbab4497e943deb34fc5ddca4b3c2f5d88af2]
+│   │   └── t9.vom [cc80ac6dc8a72095bc299e2c94e2f48ff2e8e5d5d6548c7f93f1243b6966360d]
+│   └── b
+│       ├── alma-j.vom [c5a94b4ab6d465f467c2ed9f33771551098e5b3e3a765feae096cd0053f270b6]
+│       ├── almav-0-0.vom [3d675107d6c5efebd952a40e27bb0d882112f273b7684a4e01df797dc0e7828a]
+│       ├── almav-0-1.vom [be2c7ca816466726df00bcb6cfcac6e36fb150bbb412043875409cec3eff6a46]
+│       ├── almav-0-2.vom [e276e4cfb62936f68c20a4329b632447c21e41705053fe2c846864fa88d257ec]
+│       ├── almav-0-3.vom [2d45bc51ee14dfa6ff36104df11855644aeb2a4a1c156f938a77852dba0ce90d]
+│       ├── almav-0-4.vom [de2fb78696040c08994112756d9eb54ab8c81dbe0c7b65d9c5defd08aaac0162]
+│       ├── almav-0-5.vom [eaae581502c184c706ae0c3a122aead500f16332801a9554f4ea9c7b8c88ddec]
+│       ├── almav-0-6.vom [dbb134d1da03e05e5708ff0e066194d6fab0e157e1a17f68dd53deab63b8dcbf]
+│       ├── almav-1-2.vom [79601ad68888faed148a2f8874910f4f84cf60ed6b79b04894da6c01140bb6d0]
+│       ├── almav-1-3.vom [a7d25f4b96858dd83f334febe96f8b3ec9881424037342db5a9a80e4280d5e98]
+│       ├── almav-1-4.vom [41773efd0a19ee8f30b75f5c844a31c326cc6bf4d179fe80b52ebf16d01db228]
+│       ├── almav-1-5.vom [b712859024a7f3f62ed9d0d34ba99f3cd0b98cc621ebb8cc241a7ad6cceec3a5]
+│       ├── almav-1-6.vom [688ba3c3690bc965296529133b1214b8ebf178938e082f1443b2df6a1bdcb86a]
+│       ├── almav-1-7.vom [72b2deb37c9dad393d7ec65af5239e79596f1bd0d0f7afcdc52adee75b2d43ce]
+│       ├── almav-2-1.vom [364e5e80a08b5b4586b8d0362ede7af2676e3d4ae2432d48f320dba83d6cc7ac]
+│       ├── almav-2-2.vom [a45b3d0e6599034306c3dd2cb2fbfb85837645c01752601f9f86b18f6b7f1d79]
+│       ├── almav-2-3.vom [140b61a2831c21218f76a60853614b8ba6cb4a285ce206c08579c4ece45043a6]
+│       ├── almav-2-4.vom [44805433aca744b06ab4b7ad9ecdf7810ece08259419a3874a667e053f5c7197]
+│       ├── almav-2-5.vom [83309834714302f024687013c928f9975e7077882c78885244965e42335c722a]
+│       ├── almav-2-6.vom [e3af54b2a97002efb1020e9277a54305a8faa22aeace2b735a6b04b9fb6b0aea]
+│       ├── almav-3-0.vom [265f9de39452dfa80ef0e71ec920cbbb946d99bbbe778bec0faaf68f96fa7181]
+│       ├── almav-3-1.vom [6b624869841019772bfd216a5d0009ca42be47880d6d61e096b0ae3f8c39c2f7]
+│       ├── almav-3-2.vom [09c1d275dccb3414c90992087c10a7f00de4afb283472a7e644e665cbec9b472]
+│       ├── almav-3-3.vom [1e486601669dda78bbc6bcdbbc762b8092035f00ba909b6d5fb3e0b85f6759a0]
+│       ├── almav-3-4.vom [d9d8ddbceec38c021c456ba8e46b4b4aaea1d8a05f6baa2993046528562a92a1]
+│       ├── almav-3-5.vom [ffa47bad79c051dbc147b1ebe4fdc2398ad625e9b7937477ab1cc8a7a0b4ee13]
+│       ├── almav-3-6.vom [3207755bf0101616cae76108d714c2c2cad671bd32a681082018a003a5526ab9]
+│       ├── almav-4-0.vom [81cdeb4b8df5f74e7551ac3bdb9989c97c8e382f413ef9c2bdd373719b2d4c5b]
+│       ├── almav-4-1.vom [d2695036457afa4c702b93aad9e2911dd84ed8c675c21ca4afdc6075427e1ec0]
+│       ├── almav-4-2.vom [2139abe271a18226f1fb59e2ca55a33a4de6bfc49477323b705cc4b2b72b9944]
+│       ├── almav-4-3.vom [88aa6db545a9b6b2e965f5eb90db96f2f7b17b5c4c317e39070be0b81a78b7dc]
+│       ├── almav-4-4.vom [2eb79ac3ea76b4170017f0710ea28529e0ff5852769c60d92313c3ac493a1357]
+│       ├── almav-4-5.vom [2dcd6f34f83c53017d3847d80274a7286981d2699d0d7cf16b11a50e927d4d0f]
+│       ├── almav-4-6.vom [d5c96072fc127c587168de303961b0ed8479ceb46c93df6fb52d4748c56bf1ad]
+│       ├── almav-5-0.vom [b1ef29c2f76654f0d5b82b8c2638d940caf0d98559198de03b610621c171f3d8]
+│       ├── almav-5-1.vom [1e534da643e33e74492b625afea02b1bc07857e01d16df9f19d36aaf4058c51b]
+│       ├── almav-5-2.vom [f691c9a82b9ebf88dcb6ec562978667554861a4597fd6ec6216adfae23210ea0]
+│       ├── almav-5-3.vom [3930ec59c5e00de88961db9df6962291a035c6c6641c48203b5ca948459cd0b0]
+│       ├── almav-5-4.vom [2eed7e02183f8640b4736984bd798d8284ad23664b34dcb0cf2603d9de263a84]
+│       ├── almav-5-5.vom [75578b099038e69ea67a76c6fdfa713f9b674f176b13e2d09cf1f1a315f925e6]
+│       ├── almav-5-6.vom [0ca8ec1339be0a6fc38be4a38aedead81e66da5a447ad6249aa73377f99d3ac7]
+│       ├── almav-6-0.vom [dc56a97aba99ff3306ca76e87e87447a71aa70f83ab0d0eadcb0ad8f7ce72c21]
+│       ├── almav-6-1.vom [29196af63e583c866c549ec2df571ef33c7bb62c3bd8c65df4cb7326f6bb5144]
+│       ├── almav-6-2.vom [695235817e2ca6973aa6f24996c85832853915a9f598bad6eaf5a036a9e70d6c]
+│       ├── almav-6-3.vom [6a39a730c19dd2d9759cbd8564d7d0037fb7344f4872072aeb9ca1326fd5bde9]
+│       ├── almav-6-4.vom [bfff199290a90b440313163183351fa24d30810253633c1f2739f227c29cd868]
+│       ├── almav-6-5.vom [84ad2df9ee6b06e56c94a1cf3248a9d784a126e8df5c8a55afc8cde9d80accc1]
+│       ├── almav-6-6.vom [4d5cdb34eefc36eb21c9c62c67b43a347bfe92c29c40ecee11dca30e75206d12]
+│       ├── almav-g-0.vom [770a8f4843693656eea60143efdd00d75b8bef5d9bb8dbbf77b47a70283b0e66]
+│       ├── almav-g-1.vom [a3f971e31fffabcb371bacae9ef19deaf33a75dd5f2ab476bdad1fdb3397bbe3]
+│       └── almavir-f.vom [7c0529bbfe55414cbe4575731e2315b23643e8987618d04a26286614a9ad8a3d]
 ├── alpha
 │   ├── 1121
 │   │   └── b
@@ -740,7 +805,8 @@
 │   ├── 0291
 │   │   └── angela291-0.vom [6d048e1c76b3e218e689426b97ccc5bd37f62b3893f9dc8fda1958fcc12743f7]
 │   ├── 2204
-│   │   └── 84d0118983b0c6c7c4d2a2af796dcf6733580d08b3d79916e09148e91b18bf32
+│   │   ├── ange2204-0.vom [84d0118983b0c6c7c4d2a2af796dcf6733580d08b3d79916e09148e91b18bf32]
+│   │   └── ange2204-1.vom [a930bda90397eb6f2da06fd6308f1f48f200b35b5fbe983f4372dc7190ae33a8]
 │   ├── 2314
 │   │   └── 69161879ff3724c53ef6ff63ef7bf0d59f9aeca05dab9cf4c528d9064cc49790
 │   ├── 2337
@@ -765,8 +831,8 @@
 │       └── angry.vom [8685542d21ee2ff7eb920f705ab9dd11120696dc26d7d28258eeeb94f54f3ec3]
 ├── animal
 │   └── 2400
-│       ├── b
-│       └── unknown
+│       ├── a
+│       └── b
 ├── anjo
 │   ├── 456
 │   │   └── virus.dos.jogan.456 [9f425ae00666570a53bfd4ffc34858ce42182f76d98536329d31482d5c2c85ea]
@@ -777,7 +843,8 @@
 │       └── Virus.DOS.Martin.1276 [1682f9a3a215b6c1cd200374a5dfad2adcf8222aaa26a6f71bb9682d735b998b]
 ├── anninjarb
 │   └── 581
-│       └── 005915babfb4c6dc27ec7db17371ac5cef81a4e21bd4b77e45c02f94e59fae2e
+│       ├── anning-01.vom [ec15c3c49d5e0789eea26f717a918486c9f3708678a727a8deceaf698e47f445]
+│       └── anninj581.vom [005915babfb4c6dc27ec7db17371ac5cef81a4e21bd4b77e45c02f94e59fae2e]
 ├── anomally
 │   └── 277
 │       ├── a
@@ -958,6 +1025,7 @@
 │       ├── n
 │       ├── q
 │       ├── r
+│       ├── s
 │       └── t
 ├── anticom
 │   └── 8359
@@ -1024,8 +1092,7 @@
 │   │   ├── a
 │   │   ├── c
 │   │   ├── d
-│   │   ├── e
-│   │   └── f
+│   │   └── e
 │   ├── 0605
 │   │   ├── 605.vom [ddd1ee24a5b4921ecc51d2aa91f03b8f21cd3febb720372700a2b0033ff95111]
 │   │   ├── antipa605.vom [f51eac3059dd84e3826c6f52acb2b14d6efd833d8bcd96a06c39a0459d18bb92]
@@ -1038,6 +1105,24 @@
 │   │   └── virus.dos.antipas.647 [1627055e2c1ceb20958b3c4bfdeb9c81171a1eb130cacad7093118f96fe0d1f4]
 │   └── 0653
 │       └── Virus.DOS.AntiPascal.653 [0c6e654c9b4f915a56f0a907db595e538565327ac274eed79dce2bfb0e9fd96d]
+├── antipe
+│   └── 2513
+│       ├── 00000001.vom [422ecd499c5a0e0bc87c721ca61b4e8412b2f5fee02cdf94f48d37026970f63a]
+│       ├── 36b80a70ec4e4e4dd6dbc0b13f13c7e4b7357eb5 [e14c76e4253d670e80d755246cfb44de3a5cb3fe2bcca25ad47408cd47e3d40e]
+│       ├── 686bdcdbb7b0c633c739947df7146bd8d603feb6 [bf9e7d88db2587f655a9686396d437fbbb32328f37e9e2c97ccfc5dd6830a047]
+│       ├── ANTIDROP.vom [efa7a20e6f081c4320ffad3ebccbda40a35964c3e2bc0f5abde45a8b5042860f]
+│       ├── EXTRACT.vxe [9d4d93c0c8194ce1126bbd74bb5f7f3d8ec542276b4c2dafa9e8f9e60d85c710]
+│       ├── TASM.vxe [c41c5f78ef91f258caf1920a1691950f5853fd7f3dd1da8251816b40862bb8fd]
+│       ├── TLINK.vxe [2e5ba7645ed57f204d8a41d8c640f2ee0a9e99496a8e33bf3858db23d9d74e41]
+│       ├── UUENCODE.vxe [5f837c798350731d2b09097edc227cb34fac51ced71f74d733f859e1b97f48cd]
+│       ├── cabinfo.vxe [3a12094bc23f66908d06ebf309b1fa6bec314f594fa9592468274f6d7639515a]
+│       ├── clratt.vxe [a26ebc396a425bd7b34f32301994002b3c62cdc8f16c17b13dc807faf827b171]
+│       ├── debug.vxe [21d5454085aac4e892eae453e2393ae7eecc9b0af5c4e19fd21250e16b051a78]
+│       ├── f-prot316f.txt [9deaed494806a7487f3b65d0ea56d47f8a18af1837d4ed5073c04c84ad8b5053]
+│       ├── getinfor.vxe [825410ac0008b332930aa0ffe49da512136e5843b223cc8ff288e3794619beef]
+│       ├── t1.vxe [c34ce44397305744e820db0ae24875afc1e7267712b5128b13ca817c5c688f8c]
+│       ├── t3.vxe [315436b3d1f1fd51a9e04c5e0223da544e10bcc7fa566a173bd55e92a049018e]
+│       └── unp.vxe [644ee6378adbca5365c69ad5ff1f3662b7e6e13fa68cb412bef5ed3560d81d97]
 ├── antipode
 │   ├── 0737
 │   │   ├── Virus.DOS.VLAD.Antipode.737 [b8c1a643bdf7ccb1756b2945208e3b4920ed2e37250e525f2a3b316c53fe22be]
@@ -1404,25 +1489,19 @@
 │       └── b
 ├── apulia
 │   ├── 02859
-│   │   ├── DRV.SYS [292c8866e74edba9ed419d5b535267616f6df81a65cae8a38d8a5eb5c04b4037]
-│   │   └── a.vom [292c8866e74edba9ed419d5b535267616f6df81a65cae8a38d8a5eb5c04b4037]
+│   │   └── DRV.SYS [292c8866e74edba9ed419d5b535267616f6df81a65cae8a38d8a5eb5c04b4037]
 │   ├── 04139
-│   │   ├── DRV.SYS [9d4420863777b8b3bc677bfd267575a14e41dab2825b5f19e5cc820a3a060cb9]
-│   │   └── a.vom [9d4420863777b8b3bc677bfd267575a14e41dab2825b5f19e5cc820a3a060cb9]
+│   │   └── DRV.SYS [9d4420863777b8b3bc677bfd267575a14e41dab2825b5f19e5cc820a3a060cb9]
 │   ├── 05662
-│   │   ├── DRV.SYS [7bf087924821d3f8d5e600917a5a1c2d801486ffccdad27f4d69f36032afce7f]
-│   │   └── a.vom [7bf087924821d3f8d5e600917a5a1c2d801486ffccdad27f4d69f36032afce7f]
+│   │   └── DRV.SYS [7bf087924821d3f8d5e600917a5a1c2d801486ffccdad27f4d69f36032afce7f]
 │   ├── 05694
-│   │   ├── DRV.SYS [ef93b39e0e32c3f3a87ee7fe2839520ad49277307928b5a5f663ba2363840857]
-│   │   └── a.vom [ef93b39e0e32c3f3a87ee7fe2839520ad49277307928b5a5f663ba2363840857]
+│   │   └── DRV.SYS [ef93b39e0e32c3f3a87ee7fe2839520ad49277307928b5a5f663ba2363840857]
 │   ├── 09345
-│   │   ├── DRV.SYS [27ea22bc1e6b6c52c512b1159c0134fc6fea4e629f91c00a356f00f17f3f126f]
-│   │   └── a.vom [27ea22bc1e6b6c52c512b1159c0134fc6fea4e629f91c00a356f00f17f3f126f]
+│   │   └── DRV.SYS [27ea22bc1e6b6c52c512b1159c0134fc6fea4e629f91c00a356f00f17f3f126f]
 │   ├── 17584
 │   │   ├── a
 │   │   └── b
 │   └── 18064
-│       ├── LO.SYS [95b2a5658f28adaf6288cf0a09b7a9c494664872c48e73911ffc43932934f783]
 │       ├── MIRCPLUS.vxe [95b2a5658f28adaf6288cf0a09b7a9c494664872c48e73911ffc43932934f783]
 │       ├── README.TXT [170a177248c5a32bf525df6fe6c02ffb4dbd479a0f8391ac57cb0651d06a7dca]
 │       └── REG.REG [b67053a6fcdb8e4264f0b2ba83167fab9b858ec45cf64c2d5c43c2d576c66023]
@@ -1573,6 +1652,12 @@
 │   └── 1206
 │       └── virus.dos.argentina.1206 [5891641aa2ce6aab2b2a1785e6f8cd2f02fde53f1ce500493dc6de345e11f886]
 ├── arianna
+│   ├── 2864
+│   │   ├── TASM.vxe [5610e8ffe6ef67c24956ef223acb0e29d8ece14c976f2210f4c2a1efc00af1b8]
+│   │   ├── TLINK.vxe [405f788fac1b31ddcccb1f45ebbbc1ef3e58db8f6d1e96d2a970b81ea706e078]
+│   │   ├── ari2864.vxe [c1a741f2d7059073cb5fb8cb8334c66166161f4a42869d1f78e8a04fc72a7a1f]
+│   │   ├── debug.vxe [180efdc2b7a3be4766d56b895410604f8f7c88cba4a72c23c924c05636520a11]
+│   │   └── unp.vxe [7baf2b0aaceb06bd0e0e1b053d9d03ec716750cfc9937491fe7c518af7cd8231]
 │   └── 3375
 │       ├── arianna_-001.vom [f3974c8d6e538c503f84ea138e974d0834325e9eb992c8ec2c00969c2b0cf32f]
 │       ├── arianna_-002.vom [f5849ea432f1f20d56586852d52bfe689fd0cd98e784048f74ad646e9c3432a6]
@@ -1652,8 +1737,12 @@
 │       ├── b
 │       └── c
 ├── arson
-│   └── 405
-│       └── virus.dos.oneline.405 [81b16ae197d1fe14de51512eabb04f3a46c1a76265767200b9fdf42bdec1af08]
+│   ├── 405
+│   │   └── virus.dos.oneline.405 [81b16ae197d1fe14de51512eabb04f3a46c1a76265767200b9fdf42bdec1af08]
+│   ├── 491
+│   │   └── virus.dos.vcl.pills.491 [ef053ec609c86864c1ca318aa6e259f154ff2a99e7e0800a288cd8b1ecec8dcf]
+│   └── 525
+│       └── virus.dos.yunk.525 [06fdb4e3473904a606dc9de2f46844347f548578af31a425b6d6c4a2cb1f64e5]
 ├── arte
 │   └── 2165
 │       └── virus.dos.artem.2165 [af71e82c418536146864ca08475511cc610e1ab30212d1dd0375be80b84c1939]
@@ -1782,7 +1871,8 @@
 │   ├── 0858
 │   │   └── virus.dos.ash.858 [e29cb3ce38976270b33dbdea486af3eba570584e3d86ee4952cb3acef2cd82d7]
 │   ├── 1582
-│   │   └── virus.dos.ash.pizza.x [b1c1d279043bb13eeb02f20758f5f293b96a068a432b4794c9acfd8caff5fac9]
+│   │   ├── ash1582-2.vom [68374480fea73f5945964166cce8dccbef269a1f3bda65f7f153e7479983c8c4]
+│   │   └── virus.dos.ash.pizza.x [73448ff5ddce0b530924e99b7476520884621d0826e3aa8f036d28359e408f1e]
 │   ├── 1602
 │   │   └── AS-1602.vom [309f493cce9a98bf4e69d93c9adcbd98384f044769fcc406b22d2248fb594477]
 │   └── 1604

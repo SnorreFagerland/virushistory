@@ -27,10 +27,32 @@
 │   └── 2792
 │       └── wci0513t.vom [289e7029a27b59ea7e72b98978b0870ec93da39a6d45f2ec37187fe91856f5c7]
 ├── taek
-│   ├── bluescor
+│   ├── bluescorpion
 │   │   └── 1638
-│   └── redscorp
-│       └── 1965
+│   ├── bluesky
+│   │   └── 2034
+│   ├── fcl
+│   │   ├── 2044
+│   │   ├── 2217
+│   │   └── 4608
+│   ├── redscorpion
+│   │   ├── 1691
+│   │   ├── 1723
+│   │   ├── 1955
+│   │   ├── 1965
+│   │   ├── 2119
+│   │   └── 2125
+│   └── syst
+│       ├── 1667
+│       ├── 1742
+│       ├── 1750
+│       ├── 1759
+│       ├── 1762
+│       ├── 1763
+│       ├── 1767
+│       ├── 1808
+│       ├── 1931
+│       └── 2431
 ├── tafat
 │   └── 1532
 │       └── virus.dos.haze.1532 [467af9206af1d180227abdb33360068dca8268945845ff16d9fd29de5bb47c1b]
@@ -50,7 +72,6 @@
 │   │   ├── b
 │   │   ├── c
 │   │   ├── d
-│   │   ├── e
 │   │   ├── f
 │   │   ├── g
 │   │   ├── h
@@ -64,7 +85,8 @@
 │   │   ├── t1.vxe [135998fc3f5f948ebdc210db52436e538f96e5d64c15f1fc3f1905f6edff8545]
 │   │   ├── t3.vxe [d95d2c5f5f5b480f6b7e66af478e9658cecbeae646b8173732c1d2eeb4b04815]
 │   │   ├── t5.vxe [4787c5deb6ff1d0c20f04c9170d8377cdcd4526f2c1b36564d4f7625a0d85390]
-│   │   └── wci0009t.vxe [39fe562e9a0337820f6c7940af1c5fa3062d36b0005bf38428403600b40f9d33]
+│   │   ├── taip438e-0.vxe [39fe562e9a0337820f6c7940af1c5fa3062d36b0005bf38428403600b40f9d33]
+│   │   └── taip438e-1.vxe [e720abd81c6300ed671365df59d303115cd47d1f8083cf527f344b41c23e2991]
 │   ├── 513
 │   │   └── virus.dos.taipan.hooze.513 [ed848acc00eb2e37cdd6b7526fa21e933096a955f9fadabe98f5f49095d0b367]
 │   └── 666
@@ -207,9 +229,6 @@
 ├── taurus
 │   ├── 0358
 │   │   └── command1.vom [e5cb517ba59af0373d281b81a0f649da167df2f5fff3e1a4e2b8f50c658bef78]
-│   ├── 0562
-│   │   ├── a
-│   │   └── b
 │   ├── 0795
 │   │   └── virus.dos.taurus.1852 [2af7e49efa1e9a42d405d4e66797f7e9f913798dc6f097000b8c80a1111d2b73]
 │   └── 1153
@@ -305,6 +324,11 @@
 ├── teapa
 │   └── 1609
 │       └── b
+├── tease
+│   ├── 0840
+│   │   └── tttt.vom [0205a7f458ae5ab7974b6df06d787d96061c1e8ecdb7ae0f551785c0aa951475]
+│   └── 1063
+│       └── ttt.vom [1ad82c9c51f4423551d18a0cda80ff76bb6afadf7a52e245b8bc043eb0cae7d1]
 ├── techno
 │   └── techno.vom [13d20205b37434a0f87ca2a20d0847306f34f835e10831114c80d7094691a248]
 ├── technogad
@@ -367,8 +391,6 @@
 │   └── space.vxe [35b78650b2a6c534e76b5c035a8d5e6e10d79aeffc530786b33f69c9495f5ecb]
 ├── tenta_ii
 │   └── t2.vxe [a3926542d7591c9508cc87084f9ae776c10116ac7e459fbff78dd6932b7f69ec]
-├── tentacle
-│   └── tentacle.vxe [b0ed5873487ba98013b4519a759c13894506ab84cc50ee75cef5113a5facfb8d]
 ├── tequila
 │   ├── 2468
 │   │   ├── a
@@ -547,6 +569,13 @@
 ├── the_hope
 │   └── 937
 │       └── the_hope.vom [09e8e8c523e6e0a4f27859acd7364a2f4fc8062303b3e95a93bb5fc20ec3dc63]
+├── the_rat
+│   ├── 384
+│   │   ├── rat.vom [232efd19530df9a1a53a482d95bbec2ad6c3a0db39ba7d97b9ac679abb355a85]
+│   │   ├── therat.vxe [5509b367737cd8005dd5ac0b59d19a782083c46b80c30f7349d1df03f4c25495]
+│   │   └── v9665.vxe [d7ca899626cf6400bf88a16adde4c3f495c774a4cff23f871767249f7f7f462c]
+│   └── rat
+│       └── 384
 ├── theplot
 │   └── 1997
 │       └── virus.dos.killme.1997 [e13061cd98effbaf629dc304df7c7347f13952159a9a13d898e2907ce9a059b7]
@@ -924,9 +953,13 @@
 │   └── 163
 │       ├── a
 │       └── b
+├── tip
+│   └── 554
+│       └── virus.dos.tip.554 [3975b25a080cfc22a0b74e72b3ce96735ab725f0be65422a10c4dc86fa923762]
 ├── tique
 │   └── 386
-│       └── sc-386.vom [43cfd8ff975ebcc80bc4a19247f2ec940028d7c3eb8d27b90ac1edf51d8ca955]
+│       ├── sc-386.vom [43cfd8ff975ebcc80bc4a19247f2ec940028d7c3eb8d27b90ac1edf51d8ca955]
+│       └── virus.dos.sillyc.386 [cffb937ef6b1092355412bde978566ec48b7510ab2d89a120ea81cff5ee75f6d]
 ├── tiran
 │   ├── 0950
 │   │   └── virus.dos.tiran.950 [bb52f18057795dc985623c81ec01741b8060006dd3ded9199e37435590bedf45]
@@ -966,6 +999,10 @@
 ├── tmfv
 │   └── 828
 │       └── virus.dos.perth.828 [0c6740ec6ab29a04b35df16270bd5f2d2c56140395a4db20a95f29a46898463c]
+├── toast
+│   └── 1362
+│       ├── toast.vom [818112c9935f3e14efe7fe6a8427b072b35805202fdaf07c28810c4feb930344]
+│       └── tr.vxe [c3cda055e6786a4422bc71b0cac1e59e1fbd26a5b021429c8c15807aa67cc41e]
 ├── tobacco
 │   └── 1148
 │       └── virus.dos.tobacco.1148 [2761c3165b6001a7754395e735bb0b90d44c1fe4b413543066eaf27227ec1a1c]
@@ -2606,6 +2643,8 @@
 │   │   └── 161
 │   ├── rex
 │   │   └── 113
+│   ├── rulez
+│   │   └── 62
 │   ├── sbvc
 │   │   ├── a
 │   │   └── b
@@ -2613,8 +2652,6 @@
 │   │   └── 784
 │   ├── shawn
 │   │   └── 135
-│   ├── simple
-│   │   └── 207
 │   ├── sink
 │   │   ├── 90
 │   │   └── 93
@@ -2630,6 +2667,7 @@
 │   │   └── 412
 │   ├── splinter
 │   │   ├── 115
+│   │   ├── 147
 │   │   └── 165
 │   ├── spooky
 │   │   └── 214
@@ -2862,6 +2900,8 @@
 │   │   └── trux_109.vom [f05977935150ba429ddcbc9c8dc123a70766bfa1761bb7f93c4bf8b73f85435f]
 │   ├── 1100
 │   │   └── trux_110.vom [1ed3db4eac40775ef46e1c1b8569dc9333fe2b8e2ed909f170ea5066eaded6d0]
+│   ├── 1101
+│   │   └── trux_110.vom [0351d5bf702472874820c26af35f557502c9e8ff3fb72a55124c7ed03df082f6]
 │   ├── 1102
 │   │   └── trux_110.vom [9727f69f019eedb361a44da2dd81cb0c37064f0de6192b744868275e2c5e323b]
 │   ├── 1104
@@ -3076,6 +3116,8 @@
 │   │   └── trux_136.vom [878ce227bf0165ea8873d2f6672bb824f5d74ffff4ea7d3dee5fe8f151f5052d]
 │   ├── 1361
 │   │   └── trux_136.vom [71d36bd2343e4cef8ce07da54cddaafe1380a6deffd0d6b8edfaa533aab92364]
+│   ├── 1364
+│   │   └── trux_136.vom [0e6c47e03a19494b95e68bf122a63e7c44652dcf0da18442a68b01be1d98fb58]
 │   ├── 1365
 │   │   └── trux_136.vom [6abcd9fcf09e9fed634f5ca945f45776ed124c35083f7eddb51b90ee5149070d]
 │   ├── 1366
@@ -3298,6 +3340,8 @@
 │   │   └── trux_195.vom [9667f587a57cd946f663350a30f3ca054e83135ff327c935f4094b8c528a572f]
 │   ├── 1955
 │   │   └── trux_195.vom [30c97cbe9b96e74cb34444365581192dce179a5248395dac448c92f3afa7082a]
+│   ├── 1967
+│   │   └── trux_196.vom [ab6fed302b340597bfb67f45c78042fc26e27c8e351328533d434efdc22da7ea]
 │   ├── 2009
 │   │   └── trux_200.vom [fb0232d974ca08988edd04d8572b1f4909e0361f3246ed0adcb7b5db620aa7df]
 │   ├── 2014
@@ -3393,6 +3437,8 @@
 │   ├── 5170
 │   │   ├── trux_517-001.vom [4abc89eb20a1f9f3874f76a46e536ff8516d05f783a74046b8c86a794728181e]
 │   │   └── trux_517.vom [3e62a29cd5a6c9985dee7b945d71a972013f02b74d551f34d1d9eb9302abc537]
+│   ├── 5258
+│   │   └── trux_525.vom [d7a1e1c9145111d5896475608411f2d9d539750d6bc120f42ce303d93a981a33]
 │   ├── 5327
 │   │   └── trux_532.vom [a37a35e63094fc03cce2ade2538fc34cf96da1f4ad5f5c59e8b7509dea85c64f]
 │   ├── 5333
@@ -3476,6 +3522,9 @@
 │       ├── t1.vom [bc70c1c21fe4e3ccc0dda8389710ccff42fd22a79602f97fda74377176db8455]
 │       ├── t3.vom [2d1f440ea171b165a83fd160329fb3b8f00fae51800a7b7bedc6b6a3bcf0ab52]
 │       └── virus.dos.firestorm.3008 [7bd86a33be65be369b45527f5d10b648aa354b84f459b45f54de7f7763f014c6]
+├── tt
+│   └── 0712
+│       └── tt712b.vxe [59cf7fce6ebaed74bc6a781be9e127d5863cc7cd1828717e9bfa9f610a9374e8]
 ├── ttq
 │   └── 1009
 │       ├── 00012341.vom [258b6277ad9fe1b8d54e093efa32205480b0ea24d4cb08cfa03d2ed31635a6f1]
@@ -3552,16 +3601,6 @@
 │   └── 1314
 │       └── tupac_13.vom [79914ae0eda5a95fe8de1270141d49c68d3a4f3aa69ddee91df7bd918efd6995]
 ├── tupas
-│   ├── HLLP000.EXE [7f2d60950938cdd30c63b6a3e9a839fe27c25a74392cbc4aed51f050029a0cdb]
-│   ├── HLLP000.PAS [1013c32837fc5bfa94fce53f7a3106c1c085a2b01d84679f95ce26871ef8bc8e]
-│   ├── HLLP001.EXE [2f420da16b5093e9a925d077bb07f4cadd07730c2caf78fe0cec50f15c71b1d6]
-│   ├── HLLP001.PAS [ac490f0f3bd5e656000034f5675f9e53171d01965de8ad217d51d1a618ca3471]
-│   ├── HLLP002.EXE [0fa07dc2f09579dada1ca9e5a26d95f518ee44bddec65b41aaa06caccc23d6f3]
-│   ├── HLLP002.PAS [d3e8e0b3bb08c2851575f8f0ee1b59bbf61564a6db92e10fcd618137a3a63f65]
-│   ├── HLLP003.EXE [3723daa9e030fc7ddd43996285854edd317b2cbe7966470c7acbc68a9f85e7a1]
-│   ├── HLLP003.PAS [11ad21fb25ce6e33d436589ba8846bb5444f3a97e84d320f5e8d1356e09fab02]
-│   ├── HLLP004.EXE [53305eca32bc3066785467149d94fc3f8e3dd95ee66db6ca1a18575d5ba58f92]
-│   ├── HLLP004.PAS [b122f6f15a4ecee3d106ef9472ae46f2d16c6ea96cb510e13c756b5bcac5d74b]
 │   ├── deal-63
 │   │   └── tupas-a-0.vom [f70460dd8f42ea6498a5a8ef52bee2dc031f820162a264c2277ae4f530026069]
 │   └── h
@@ -3681,11 +3720,6 @@
 │       ├── t4.vom [5ab2c5cd03d516bdd3838db72d2e589b27f9115ec214f9b924f0dd16d6ac38d6]
 │       ├── twi1767a.vom [aa347c91624ff399502ed3ec32de6e3b13918f5231518d76eee8e71f986d7bfa]
 │       └── twister4.vom [54933b269a4b98373a5b95ad5794a286ce239e3a786758283f5400a89561f18b]
-├── twitch
-│   ├── a
-│   │   └── twitch.vxe [c07d223aab9378b0c3beee849d09e2c7b3d53fea4c1defc6bb177dafc235c67a]
-│   └── b
-│       └── twitchb.vxe [4c4568c1f71c4aa2f4a7f90a10939da85fd2a1a36eaaa01ae255e9a488e7b24b]
 ├── twobytwo
 │   └── 5789
 │       └── virus.dos.twobytwo.5789 [88ed2cd0cb3cda8ae915e14a0985649c5f87d3d6f91ac82815940a80341ba769]

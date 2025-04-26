@@ -1,0 +1,66 @@
+Virus scanning report  -  22 April 2025 @ 10:10
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\0200\bughunter.200  Infection: Mpoc.200 (exact)
+u:\0206\bughunter.206  Infection: Mpoc.206 (exact)
+u:\0219\cyberwarrior.219  Infection: Mpoc.219 (exact)
+u:\0228\cyberwarrior.228  Infection: Mpoc.228 (exact)
+u:\0257\virus.dos.dead.257  Infection: Mpoc.257 (exact)
+u:\0260\bughunter.260  Infection: Mpoc.260 (exact)
+u:\0263\bughunter.263  Infection: Mpoc.263 (exact)
+u:\0295\bughunter.295  Infection: Mpoc.295 (exact)
+u:\0302\bughunter.302  Infection: Mpoc.302 (exact)
+u:\0317\cyberwarrior.317  Infection: Mpoc.317 (exact)
+u:\0318\cyberwarrior.318  Infection: Mpoc.318 (exact)
+u:\0355\mpoc_355.vom  Infection: Mpoc.355.unknown?
+u:\0355\T1.vom  Infection: Mpoc.355 (exact)
+u:\0355\T3.vom  Infection: Mpoc.355 (exact)
+u:\0355\T9.vom  Infection: Mpoc.355 (exact)
+u:\0359\bughunter.359  Infection: Mpoc.359 (exact)
+u:\0360\bughunter.360  Infection: Mpoc.360 (exact)
+u:\0364\bughunter.364  Infection: Mpoc.364 (exact)
+u:\0488\virus.dos.mpoc.493  Infection: Mpoc.488
+u:\0499\virus.dos.mpoc.504  Infection: Mpoc.499
+u:\0792\a\virus.dos.cyberwarrior.792  Infection: Mpoc.792.A (exact)
+u:\0792\b\virus.dos.mpoc.792  Infection: Mpoc.792.B (exact)
+u:\0804\virus.dos.mpoc.804  Infection: Mpoc.804
+u:\0809\virus.dos.cyberwarrior.809  Infection: Mpoc.809
+u:\0818\a\mpoc_818-001.vom  Infection: Mpoc.818 (exact)
+u:\0818\a\t1.vom  Infection: Mpoc.818 (exact)
+u:\0818\a\t3.vom  Infection: Mpoc.818 (exact)
+u:\0818\b\A.vom  Infection: Mpoc.818.unknown?
+u:\0818\b\t1.vom  Infection: Mpoc.818.unknown?
+u:\0818\b\t3.vom  Infection: Mpoc.818.unknown?
+u:\0894\virus.dos.cyberwarrior.894  Infection: Mpoc.894
+u:\0895\virus.dos.cyberwarrior.895  Infection: Mpoc.895 (exact)
+u:\1391\bughunte-001.vom  Infection: Bughunter.1391 (exact)
+u:\1391\bughunte-002.vom  Infection: Bughunter.1391 (exact)
+
+Results of virus scanning:
+
+Files: 38
+MBRs: 1
+Boot sectors: 1
+Objects scanned: 40
+Infected: 34
+Suspicious: 0
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00

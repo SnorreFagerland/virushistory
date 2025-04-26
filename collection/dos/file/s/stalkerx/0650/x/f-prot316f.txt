@@ -1,0 +1,35 @@
+Virus scanning report  -  23 April 2025 @ 0:46
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\47905f58d7a94dcfc1dacd6d1022f0f46184fe7d70915fc0d4512dfc98d6c325  is a corrupted or intended virus
+u:\79f832fad74b4c8a2bf17d30ee9856147ccad11f5bce27eb6554a2cf15c713c3  is a corrupted or intended virus
+u:\e447fbf785694325a52ad71e68be8b3203e013e129dcde0850ee08e5afb50c96  is a corrupted or intended virus
+
+Results of virus scanning:
+
+Files: 6
+MBRs: 1
+Boot sectors: 1
+Objects scanned: 8
+Infected: 0
+Suspicious: 3
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00

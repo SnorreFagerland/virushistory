@@ -130,6 +130,11 @@
 │   ├── 1-ge1819.vxe [ec8a53981986558d74764bc042edae83402dc59fd656dfdf1c70aac10faf39e0]
 │   ├── 2-ge1819.vxe [d1ecb083ed4a1d44f0fc02b02d0520ad68153da61cf603b1a689c8442ebd9498]
 │   └── 3-ge1819.vxe [2523220a38529edeb5e6086dc30d69a27f896500483f44ae31ba965563c80555]
+├── gelf
+│   ├── 417
+│   │   └── virus.dos.gelf.417 [9d8f8a958c468a18e85fd7fa37e91f69c584f73529968ade5cb9dc6bd97cb940]
+│   └── 418
+│       └── virus.dos.gelf.418 [c5115cbb5fb99de30ed2ac7c867a5fea817856265edffcff96ab816cd743ccc5]
 ├── geliyor
 │   └── 1356
 │       └── wci0008g.vxe [84cd7cca04f60670db80c950af77d01f33de73dc23267e5a5a18668aeff2001b]
@@ -141,6 +146,8 @@
 ├── gene
 │   ├── 448
 │   │   └── virus.dos.gene.448 [5df2337687d6de0187c0b0c5cc5fceb2e39a50abd15a6a2e7e57a9aa37724425]
+│   ├── 454
+│   │   └── gene.454 [fbee61b31a4a75c153108f4e6e4a28eca470cb797f9375983e09dfb54138149a]
 │   ├── 458
 │   │   └── virus.dos.gene.458 [6746b5e12ed3918921c270237ec65755029b76cc3fdfc94f87cdba4a44a2a789]
 │   ├── 948
@@ -198,7 +205,8 @@
 │   ├── 1328
 │   │   └── b
 │   ├── 1376
-│   │   └── ngv151.vom [5161ad3925c45e4bfdb8559c534808c9b6a3fd9caa6962394f88bff3dab5c463]
+│   │   ├── a
+│   │   └── c
 │   ├── 1392
 │   │   └── genvir2.vom [b171ad5c65aeaf259c672a7eb3611e9d78f17216d7322a445c20c87608317277]
 │   ├── 1408
@@ -222,7 +230,8 @@
 │   ├── 1568
 │   │   └── genvir16.vom [3c0682ec8911d7ebe5cc67fb7347126cce222c7ae0f631124633d8c3d80e517d]
 │   ├── 1600
-│   │   └── pugsley
+│   │   ├── a
+│   │   └── b
 │   ├── 1616
 │   │   └── wci04073.vom [a8f1fc8c61b2f84fe6e8b7c855fcc223a342e65e96ab8ba37d87c6fcbb9023c7]
 │   ├── 1632
@@ -329,7 +338,8 @@
 │       └── virus.dos.ghost.792 [a973d28cce640e12dfc8f5592c3088cc189732e5d53f516b123466cadd37c4eb]
 ├── ghost_iii
 │   └── 5000
-│       └── a
+│       ├── a
+│       └── b
 ├── gibmonk
 │   ├── 2256
 │   │   └── virus.dos.gimon.2256 [0707def807917443db30705f8a0a2d1e4b97b1681bab28be1ab174675ef9b0a1]

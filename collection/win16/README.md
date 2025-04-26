@@ -35,15 +35,9 @@
 │   │   ├── debug.vxe [c18f637f8fa69c1b0d3ad11c333f3ac92748d28e0dea55187fb75d508807cb8b]
 │   │   ├── gollum.386 [6241d7d9dbd765d4f923c5db118faccf4476d631439a8225510c31bf2ac7b5b2]
 │   │   ├── label.vxe [54f0cacaa56e8c7532b166a2572247898b1d39def95fd9de0fae9b2b7b5a5c24]
-│   │   ├── mam.vxe [b2d607024130777d7cf9e6150bd70080df19a296c477e006385484517f969c0d]
-│   │   └── mem.vxe [329954ff4c5f7a12b93a0318c5c4421dc3c3d3f8775f8fe8920c8fe395bfd5d3]
+│   │   └── mam.vxe [b2d607024130777d7cf9e6150bd70080df19a296c477e006385484517f969c0d]
 │   ├── header
-│   │   ├── 145
-│   │   ├── 192
-│   │   ├── 255
-│   │   ├── 300
-│   │   ├── 385
-│   │   └── lucky
+│   │   └── 300
 │   ├── hllc
 │   │   └── lodex
 │   ├── hllp
@@ -94,10 +88,10 @@
 │   ├── stalkerx
 │   │   ├── 0626
 │   │   ├── 0650
+│   │   ├── 0659
 │   │   ├── 0706
 │   │   ├── 0883
 │   │   ├── 1241
-│   │   ├── 1264
 │   │   ├── 1293
 │   │   └── 1301
 │   ├── tentacle
@@ -108,7 +102,8 @@
 │   ├── tved
 │   │   └── 780
 │   ├── twitch
-│   │   └── Virus.Win16.Twitch [c07d223aab9378b0c3beee849d09e2c7b3d53fea4c1defc6bb177dafc235c67a]
+│   │   ├── a
+│   │   └── b
 │   ├── vecna
 │   │   └── 832
 │   ├── vfw

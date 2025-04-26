@@ -1,0 +1,51 @@
+00000000  E80800            call 0xb
+00000003  E81800            call 0x1e
+00000006  E83300            call 0x3c
+00000009  CD20              int 0x20
+0000000B  BB6901            mov bx,0x169
+0000000E  43                inc bx
+0000000F  4B                dec bx
+00000010  8A07              mov al,[bx]
+00000012  3C39              cmp al,0x39
+00000014  7403              jz 0x19
+00000016  FE07              inc byte [bx]
+00000018  C3                ret
+00000019  C60730            mov byte [bx],0x30
+0000001C  EBF1              jmp short 0xf
+0000001E  BA6201            mov dx,0x162
+00000021  B45B              mov ah,0x5b
+00000023  33C9              xor cx,cx
+00000025  CD21              int 0x21
+00000027  7212              jc 0x3b
+00000029  50                push ax
+0000002A  B96F00            mov cx,0x6f
+0000002D  BA0001            mov dx,0x100
+00000030  8BD8              mov bx,ax
+00000032  B440              mov ah,0x40
+00000034  CD21              int 0x21
+00000036  5B                pop bx
+00000037  B43E              mov ah,0x3e
+00000039  CD21              int 0x21
+0000003B  C3                ret
+0000003C  B84000            mov ax,0x40
+0000003F  8EC0              mov es,ax
+00000041  26C7061A001E00    mov word [es:0x1a],0x1e
+00000048  26C7061C003000    mov word [es:0x1c],0x30
+0000004F  BF1E00            mov di,0x1e
+00000052  BE6201            mov si,0x162
+00000055  B90800            mov cx,0x8
+00000058  B420              mov ah,0x20
+0000005A  AC                lodsb
+0000005B  AB                stosw
+0000005C  E2FC              loop 0x5a
+0000005E  B00D              mov al,0xd
+00000060  AB                stosw
+00000061  C3                ret
+00000062  3030              xor [bx+si],dh
+00000064  3030              xor [bx+si],dh
+00000066  3030              xor [bx+si],dh
+00000068  3030              xor [bx+si],dh
+0000006A  2E43              cs inc bx
+0000006C  4F                dec di
+0000006D  4D                dec bp
+0000006E  00                db 0x00

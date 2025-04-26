@@ -276,12 +276,6 @@
 │   └── 2425
 │       ├── d425.vxe [26005fb7dd0b06630fbaab52189e879996d222cfb89b0e018887953c13f195fc]
 │       └── yeke2425.vxe [523dfb0b8e95049032cbc01732e7007048ad6bad976e2809441fb1f6e4667ede]
-├── yel_worm
-│   ├── 643
-│   │   ├── slips643.vxe [6f9cdc5a8bfb17982456298d90c676dfc6f079e94df22157a3b48db76fe57a4d]
-│   │   └── yellow.vxe [e2d079a1ba31a5399e5010194099f79522d5d0840d30331a072b66d4ee0f1949]
-│   └── 738
-│       └── yellow.vxe [51304c44e2f1bd9044b7971974b85f17883cd235e503586a4b1ce94c9c4baf2f]
 ├── yelet
 │   ├── 1994
 │   │   ├── yelet_19-001.vxe [8d197e08443d743479a663207f36d36cc17af71c84cf0274a749441c30feb696]
@@ -292,6 +286,12 @@
 ├── yell
 │   └── 1278
 │       └── virus.dos.jackrose.1278 [4ef9b3f1bacd2010c4ce1a799c2ff1b4a025ec845f100e44e175f572eed06eec]
+├── yellow_worm
+│   ├── 643
+│   │   ├── slips643.vxe [6f9cdc5a8bfb17982456298d90c676dfc6f079e94df22157a3b48db76fe57a4d]
+│   │   └── yellow.vxe [e2d079a1ba31a5399e5010194099f79522d5d0840d30331a072b66d4ee0f1949]
+│   └── 738
+│       └── yellow.vxe [51304c44e2f1bd9044b7971974b85f17883cd235e503586a4b1ce94c9c4baf2f]
 ├── yerg
 │   ├── yerg.vom [4b09d6200f18506491146abb5da35a43f81a496dea9ea2ebc6a91ac04f161f51]
 │   └── yerg126.vom [9f2b9dc8f14586de292a63f4989a34e96db9c199a54d1234ed42d372fb92ec80]
@@ -331,6 +331,9 @@
 │       ├── 3-yi1363.vom [446b89fb605d65c1b094f321e5930faac27a366d702e93e868ee76caed0cb1dc]
 │       ├── 3-yi1363.vxe [b30e486a9a1390e22e17f29a8aad5a0be6456b3bdd40c4fd14e194c76881067d]
 │       └── 4-yi1363.vom [756e5fec4eb3e5ad839c7f1a75416c4c1546f8530bb38a4ef9e42de67a77638e]
+├── yobe
+│   └── 24576
+│       └── yobe_245.vom [df17f1b691ccbc309c85955ede2195f75b72e3efbfda03b7e578ae099747b32d]
 ├── yog
 │   ├── 1-yog794.vom [f3047d6f1688fe861608506aa110c54fadcea8572143116ece9e9baa20713100]
 │   ├── 2-yog794.vom [ca313b2e119ed8c81837431f6fd11e8e5a1dfdb493c099354b1d5e0f5eee1025]
@@ -470,7 +473,11 @@
 │   ├── t5.vom [4795ffb526090f72d0886f536abf976fc469f08964951f13cf847696e45854b1]
 │   ├── t7.vom [dfcc8a3f8becfa7c4fc3191f7969fd5e003906d1819f137358f358d31cc6bb9a]
 │   ├── t8.vom [4afe7fddd44ef8b39f320b0e0a2db3a87edeb39ac21ce9eae2630e0dab70b8a6]
-│   └── yukon.vom [2a608e232f75102c9fcd917e969931588f6a6c204757d73bda60e5ea9b2e5790]
+│   ├── yukon.vom [2a608e232f75102c9fcd917e969931588f6a6c204757d73bda60e5ea9b2e5790]
+│   └── yukon_15.vom [aca8bf54a0e916595b8eaea5edf079a7ab7d2932e9f2716588c3e4086459711f]
+├── yury
+│   └── 560
+│       └── virus.dos.yury.560 [6b385818fecb7aa4db0626643a1fe21ea8a43c69ee517f79226b2f8b36a67673]
 ├── yusong
 │   └── 1471
 │       └── Virus.DOS.Yusong.1471 [0223d2e62cf70bd211bac7431435bdf560757648802df20d55dbafec719f115e]

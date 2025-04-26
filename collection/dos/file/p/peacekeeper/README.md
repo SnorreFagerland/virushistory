@@ -10,6 +10,8 @@
 ├── 3830
 │   ├── wci00913.vxe [27ea2c6d15e0b2a2ffd2dcf415f9169b4e7b38683d79d03382c7fb992797d1ee]
 │   └── wci1677p.vom [ca9ff5cee11ce663ef8239d9b4e0170a1fd099163936cbb9c3fb7a5981eff9b5]
+├── 3840
+│   └── virus.dos.peacekeeper.d [bdd0dc90f57dcd332613cf24fbd8c7e8ffbcdeb89cae4c1099cc3958207552d3]
 └── 4270
     ├── peacekee.vom [a6bda27beec00a24a35661d8d56fcec8420c3f4cd45795ca801c2dec8fd94b84]
     └── peacekee.vxe [2d6daa8e07cbf47e0baa80aad854298dd3e4592c5aac07e7a784c8ddda8e8349]

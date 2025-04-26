@@ -15,6 +15,8 @@
 │   ├── t1.vxe [507833cbf6af3e82c99d7776445aa3ec40222b34d4d514b021ea8315da964bed]
 │   ├── t3.vom [8bdd25f06e6a60fbb9453aa906157ed6cbfe7580355ba6e6f9b461107054f8fa]
 │   └── t3.vxe [1e9265aedaa77fc98e5c79a200ab318ea21860ecce22bb80c7d1e80c1f560224]
-└── g
-    └── baphomet-002.vom [d8a0a398afb9c743774e7be5542dafdda7daa809bd9369613b3a907bc0b6c246]
+├── g
+│   └── baphomet-002.vom [d8a0a398afb9c743774e7be5542dafdda7daa809bd9369613b3a907bc0b6c246]
+└── i
+    └── baphomet.vom [c1f13692f8e96364a3eb90773aeea0cd5a1aff46de47912d6c5f5ce60ce8d5eb]
 ```

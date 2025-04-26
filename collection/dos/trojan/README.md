@@ -139,10 +139,8 @@
 ├── april1
 │   └── Trojan.DOS.April1.vx [68639af23616e53dc0615a69c181fd8d3d94438c8df598876b498d27f98aecdb]
 ├── ares
-│   ├── a
-│   │   └── Trojan.DOS.Ares.a.vx [07532b7306a5fdf9e087ad24daf7f0450e746b0f4966e3f9d50b589c481673b9]
-│   └── b
-│       └── Trojan.DOS.Ares.b.vx [2b6f9622f84a187c76b65a68164359820a8054f61c49fb1f66a0396a8158253d]
+│   └── a
+│       └── Trojan.DOS.Ares.a.vx [07532b7306a5fdf9e087ad24daf7f0450e746b0f4966e3f9d50b589c481673b9]
 ├── ariadna
 │   └── Trojan.DOS.Ariadna.vx [3188b09d74736b9e1f3c7e5ef42ef709876073b4050cb941fe2ba60cb09e7b0c]
 ├── arm
@@ -186,7 +184,8 @@
 │   └── fd
 │       └── Trojan.DOS.Basil.FD.vx [67340e1bb0d39f2f9fd3d44acfa28a5faaa9d1009a47904183f7de3e4b0e6a2c]
 ├── batcom
-│   └── Trojan.DOS.BatCom.vx [3d36ab782ee0884a908475e781947feae234fac1758e1611ab1bca28d488c479]
+│   ├── Trojan.DOS.BatCom.vx [3d36ab782ee0884a908475e781947feae234fac1758e1611ab1bca28d488c479]
+│   └── b1.vat [b2a47370dfaed02547d1065a17c163c5dc2d14b5a120f780d55b5e9fb8f2da05]
 ├── batcompi
 │   └── Trojan.DOS.Batcompi.vx [adc911fa9e543f9f3d1f42c1106429ab17ac71f61cf68bbff97cc0556f619ee6]
 ├── batman
@@ -234,8 +233,6 @@
 │   │   └── Trojan.DOS.BootKiller.g.vx [5386907a5a75f29953506cd662b138318776baf5b6e81bb167ad717b5aba4372]
 │   └── h
 │       └── Trojan.DOS.BookKiller.15.vx [d84b8217934ed73db388a8e3e3769975e6e5560747e04f4e502d7ef49d07904a]
-├── boroda
-│   └── Trojan.DOS.Boroda.vx [6a83ce3b640636820d95d54b42657d4de6f055a9e88f60ea1425806c6676c1bc]
 ├── breonic
 │   └── Trojan.DOS.Breonic.vx [7ec30a6af20b3818e3537e02961611bf96eb597072faac20a477afc05e09e36a]
 ├── buddy
@@ -326,8 +323,6 @@
 │   └── Trojan.DOS.Crazy.vx [599c91e636ca2e680c2daf92f04e8b8c9675c3a8ca3edb1191d68b0f6661a5b1]
 ├── create
 │   └── Trojan.DOS.Create.vx [e7b2621c87715e6dda9af5c3c45f671fdc44350ca25fef73bfe973084bccd495]
-├── cruach
-│   └── Trojan.DOS.Cruach.vx [933be4a105944ad8656954769a6324d57af7354c7e966d314da5a1012084083f]
 ├── cryptmbr
 │   └── Trojan.DOS.CryptMBR.vx [1bb2d18dc2535baa7d743cbe19e29c4b6ddd265c4b78d3c7033b63c33d8b3df9]
 ├── curerus
@@ -519,7 +514,6 @@
 │   ├── 10
 │   │   ├── a
 │   │   ├── b
-│   │   ├── d
 │   │   ├── e
 │   │   └── f
 │   ├── 11
@@ -1079,10 +1073,13 @@
 │   │   └── Trojan.DOS.Hoho.a.vx [d2229e8e2719e591f97b3bfe4a5f139e93c8d9a3a161127aa3ebdfcea16ecc43]
 │   └── b
 │       └── Trojan.DOS.Hoho.b.vx [e3fb1ab43974fe5cc928589f39699b88501a4f1bb640137c62e6a7f2472c819f]
-├── holop
-│   └── Trojan.DOS.Holop.vx [1290ee98ff4133ed12572d91b9439a4cba1fbc4d8c86f1479b38483ff8cad474]
 ├── hoodeasy
 │   └── Trojan.DOS.Hoodeasy.vx [9c03d77fa41ea3ae89441915ab02532a055837133637d8718193131903027897]
+├── horns
+│   ├── a
+│   │   └── v3045.vom [a2143ba9d81136a59492fd48c8adb4025ca6b45e4bd4e6bab950314249f7ce64]
+│   └── b
+│       └── horns.vom [933be4a105944ad8656954769a6324d57af7354c7e966d314da5a1012084083f]
 ├── horny
 │   └── Trojan.DOS.Horny.vx [0f94d7eeb566efcdad712a4d2916fb41161f9a405daa206b6bae7bb14aec48fd]
 ├── hot
@@ -1132,8 +1129,6 @@
 │   └── Trojan.DOS.Int19.vx [e95acc74862257c66e43eec084001d90cd2add2fa20d2ca17ac9e451be8acb0f]
 ├── intlock
 │   └── Trojan.DOS.IntLock.vx [490aff56d0696a589a8b75c889ce3d9ffbbf8f1f85470bacba370aebb2704460]
-├── invertell
-│   └── Trojan.DOS.Invertell.vx [5fe14869fc10a79019b393c23f8d668ccf33e6aceb948ca9ddf9a77bd41e7088]
 ├── inwin
 │   └── Trojan.DOS.Inwin.vx [8ad6874c650b08998b4bd92fcd433988e61ea961af028254c6e2ab72c95f03e5]
 ├── iokill
@@ -1202,8 +1197,6 @@
 │   │   └── Trojan.DOS.KillCMOS.g.vx [d086e9acdcd105e74bfa27f45e6b88e3e29fd19e30fedef9ddc875b2b786fbc2]
 │   ├── h
 │   │   └── Trojan.DOS.KillCMOS.h.vx [af11072484308430e3a2ada39015475fdd71c22268f091349c8e5720b31dcd69]
-│   ├── i
-│   │   └── Trojan.DOS.KillCMOS.i.vx [5980cea28ec41e95317e2ef3c01beebf57f9fe78efafc47aa5a1caef45dc4d30]
 │   ├── j
 │   │   └── Trojan.DOS.KillCMOS.j.vx [841c8f0fbd997ab2ee90471bb256f465205ad175467a0f3170d4a76ae2d99958]
 │   ├── k
@@ -1296,8 +1289,6 @@
 │   │   └── Trojan.DOS.KillHDD.e.vx [de35df0d8877575b59b6c8c9672017880023382b40454751cf04cc2cc824d51f]
 │   ├── f
 │   │   └── Trojan.DOS.KillHDD.f.vx [6cbbaea17fd2fa5207f53349e2f8642005153bf895400de25021ea7a8f6dff00]
-│   ├── g
-│   │   └── Trojan.DOS.KillHDD.g.vx [a80ab0fbd7eb0959eba60a74cedce155357b6268576322bd615962d84feb59f6]
 │   ├── h
 │   │   └── Trojan.DOS.KillHDD.h.vx [9002ea7dda76569f0e7449d5d4d9ca86c88badcd3af1609c1b68c0b850b4ee15]
 │   ├── i
@@ -1530,10 +1521,8 @@
 ├── nag
 │   └── Trojan.DOS.Mag.vx [b495c20da9f2fabbff8d3c4807ddf4a4423db1d02fc69dd3f5dd897f8009c223]
 ├── nahal
-│   ├── a
-│   │   └── Trojan.DOS.Nahal.a.vx [ab93c8cdd4fb6cb1643c0bbc2343b48a187c48f5cf051c446c5da7cb4b02edd3]
-│   └── b
-│       └── Trojan.DOS.Nahal.b.vx [a374169b51c058f73904f4c28e700f4880bdbe09bf9f9c011765a2d5e96a405f]
+│   └── a
+│       └── Trojan.DOS.Nahal.a.vx [ab93c8cdd4fb6cb1643c0bbc2343b48a187c48f5cf051c446c5da7cb4b02edd3]
 ├── nccos
 │   └── Trojan.DOS.NcCos.vx [975722a8732c9e647382014c1d4f9d01a0d007ea289bff7419a2a9ddf95d70a2]
 ├── necro
@@ -1624,10 +1613,6 @@
 │   │   └── Trojan.DOS.Offzab.a.vx [98977c3981925ae367e3e88dfd8ec70e2774fa883dd56227628f20341fff897f]
 │   └── b
 │       └── Trojan.DOS.Offzab.b.vx [9ee3e1e7582433ea9df95caba22ded1c45076f48a87d25f4c118f472328afdd4]
-├── old
-│   └── Trojan.DOS.Gold.vx [86c1c81cad60d0487cd4ef523f9dd8a2af15a95d1be2c08a44ae028f22041af0]
-├── on4ever
-│   └── Trojan.DOS.On4Ever [2b136c21d1810f3fa50ea373099195c141061f0e12f06e6558ea6a352029863a]
 ├── opera
 │   └── Trojan.DOS.Opera.vx [f5681713bd5119ccaee1d61ec9a3f4f181f30b0d7ffdcf0964eee069f7982ba3]
 ├── optimize
@@ -1907,8 +1892,6 @@
 │   └── Trojan.DOS.Snooby.vx [2076948000609e7691b1848a26fd29af1f27b9013c2b04f85b61d55a061e0135]
 ├── snoop
 │   └── Trojan.DOS.Snoop.vx [2a3f9363b0ab6facc08d9dfdcd313cf4512ff4e89605bbdcdf2767902663986b]
-├── snowapril
-│   └── Trojan.DOS.SnowApril.vx [5318097c529b8d191683de3cb44705a460d47b547ffd7cfaa59569d60c08ebab]
 ├── sound
 │   └── Trojan.DOS.Sound.vx [11b5dccd227d69406671ae68815ee51a6c77a408925088a9a90d44193f80a2cc]
 ├── soxel
@@ -2035,8 +2018,6 @@
 │   └── Trojan.DOS.Tbrain.vx [1ac66facfe646837aaa288b38ed4d53e4c210e0ad79b61b57d043d899442505d]
 ├── telefoon
 │   └── Trojan.DOS.Telefoon.vx [171a87710dd846acc4a25c5ccc18e9dd3bed48771264c67b41799b5653082278]
-├── teone
-│   └── Trojan.DOS.Teone.vx [5289230d49add598b499844e2687b870750c7df2d54eda30dfb0103ad6429e07]
 ├── term151
 │   └── Trojan.DOS.Term151.vx [732248f31797069468b4703e3364e44a9655b0f07d62ebe8f5ac89cad300f0f5]
 ├── terminate
@@ -2230,8 +2211,6 @@
 │   └── Trojan.DOS.X14.vx [f4fad36d8199b15a40a67f42b23859f4a4e2f52406db6cb91a878bef5532e90c]
 ├── xexe
 │   └── Trojan.DOS.Xexe.vx [4f42190e8cc4adeda32410e17784169842aabc9fad691bb19e70418b793d5ecb]
-├── xiv
-│   └── Trojan.DOS.XIV.vx [6d756c7d73a09da15e3d716765835280ae03fc3a8931a529bb9f91eacf92effe]
 ├── xlmsoft
 │   └── Trojan.DOS.XlmSoft.vx [06c9e9027189b175f7c1b1498d03855284c91562cc70a71193158e3196b36e69]
 ├── xmas
@@ -2252,8 +2231,6 @@
 │   └── Trojan.DOS.Zelu.vx [371ac69659e322982dd892fbf9e2223ed9ab45d659ef0b84533cf5d80ed2ba5f]
 ├── zhek
 │   └── Trojan.DOS.Zhek.vx [0d7e671a62a28ce7b16c1f478f2a98ad0164b077b63c1b33b4d3a9a428db49b6]
-├── zicar
-│   └── Trojan.DOS.Zicar.vx [4339566cede7bae9faa1969b60deb8aa9b3be9bcee8b047f523dbd00a7de88d0]
 ├── ziphack
 │   └── Trojan.DOS.ZipHack.vx [19b3a7c8af3b3a122980ab426158336e4a73f1376d71835a7c797c2e6ac8e350]
 ├── zonker

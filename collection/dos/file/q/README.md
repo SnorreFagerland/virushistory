@@ -12,8 +12,20 @@
 │       ├── q_ball.sys [4b9165dcc6f208e0b422072b928b28b6584b5133f4bb852490a1bb5cba1dc8f8]
 │       └── q_ball.td0 [ed1c8e42cce82c25ce038ccbcfafac1446cd3011a2c54118b65a0498e5c3a6d2]
 ├── qarkdrop
-│   └── 402
-│       └── arjdr402.vom [810ba13b1939246cbd4c1b6e3fca05e87f82343bed6e44dbf20c590fe02a348b]
+│   ├── 0402
+│   │   └── arjdr402.vom [810ba13b1939246cbd4c1b6e3fca05e87f82343bed6e44dbf20c590fe02a348b]
+│   └── 2821
+│       ├── virus.dos.arjrar.2821 [3b8feef2a0c61aa1365484bb940de8f60d2dfb54df78a5f09a5bd149525e1018]
+│       └── wci05803.vom [e753fa548c9f75fc3747f0cf1fcff834d6e4c195ec7545319ba26b5ed1e3ada8]
+├── qawo
+│   └── 719
+│       └── virus.dos.v.719 [ae1c2c93c858a9568e5af730bc31d71293bff4617a67f65a78f7d8789b5a931d]
+├── qdao
+│   └── 1589
+│       └── virus.dos.qdao.1589 [7e2d037f14032bbecc97a34f975e174543307b50fbf6fbd86c243932501aedbf]
+├── qdemon
+│   └── 555
+│       └── virus.dos.qudem.555 [ec00a1a57462139e8a75fbe44b55896485ca8c04055ab3b93769fac798ed559f]
 ├── qmagic
 │   ├── 412
 │   │   └── qmagick.vom [c4c3a27b44e71421213d0f78dbfa01a907de9998973e6c870b5f4052f2ebea5e]
@@ -31,9 +43,24 @@
 │   └── b
 │       └── wci0000q.vom [f9d79d63bb3d07825f98888ead72622ec6518bd14525edf6894d7b5daaec3317]
 ├── qpa
-│   └── 256
-│       └── wci0002q.vom [d615b4b8bca9a4a4d58bfdfc58d9e451f423e604d17906941c7bb81feb259fe3]
+│   ├── 256
+│   │   └── wci0002q.vom [d615b4b8bca9a4a4d58bfdfc58d9e451f423e604d17906941c7bb81feb259fe3]
+│   ├── 333
+│   │   └── virus.dos.qpa.333 [4d6d1b621eabe9238a31a413c510c59eb4557000056e9c507c17e68695740bbc]
+│   └── 666
+│       └── virus.dos.qpa.666 [867f2a788997f1412c2aca92e2ddb36f6c9791e158dda64f18497734c77209eb]
+├── qqvirus
+│   └── 1239
+│       └── virus.dos.qq.1239 [f4aa600d9ab58eb52567df0bbe8e0b33c13af3a9c1625659cbaf4ab56b5f7c4e]
+├── qti
+│   └── 211
+│       └── virus.dos.trivial.qti.211 [3face2089988cc7e5fdfca1da863a979d7dfa305f9d13cd33ae2cb7f66ecdefc]
 ├── qtiny
+│   └── 162
+│       └── virus.dos.tiny.162.a [7e913b002a2f826e020379664e3e2918fc17d4d0a0a690852acd6f58643d511f]
+├── qu
+│   └── 2000
+│       └── virus.dos.qark.2000.b [d5d0661976a8c38cc17e6492cd76b02ca4e839553c7110ee7c1dea00b0e30957]
 ├── quadratic
 │   ├── 0981
 │   │   └── quad0981.vom [e8b515afd4a0466f5c94989229f25fceb4f904c7e548722b4e7649ddbc654399]
@@ -67,14 +94,24 @@
 │   │   └── v-3000g.vom [f7c3e843a809d2b24f3a9a990fe8d9197d2ffce2b7dadcc4791965d0fa5bd4f1]
 │   └── h
 │       └── v3000h.vom [c34dfa1f283d4a10c8324ef280814de1318306cc3fc11ab234b04ce2be9a81c1]
+├── quarinetine
+│   └── 707
+│       └── virus.dos.quarinetine.707 [1c8efef3642b69003c12e3f7cb6e642da7fefb3a23a041c3090cb76be29ee39c]
 ├── quark
 │   └── 2000
 │       └── wci0027#.vxe [6f58c0f17e87074f4fa61132a2c4fd5a11779791ebca1df8c6a8f39b2f94b66c]
+├── quarrel
+│   └── 390
+│       └── a
 ├── quarry
-│   └── quarry.vxe [7fdd7fb84f3cd4552b68f7f907ad2582a90b74f10178337cea9d19a188b9b220]
+│   └── 1147
+│       └── quarry.vxe [7fdd7fb84f3cd4552b68f7f907ad2582a90b74f10178337cea9d19a188b9b220]
 ├── quarter
 │   └── 323
 │       └── wci0264s.vxe [519d63030a4dce0899b3a9cde57b86a7a6a898af664978324c3c27d1cf61f910]
+├── quartile
+│   └── 706
+│       └── quarunk0.vom [2d12ee25aaffd5561e4caeb232d9399eaeae050f4422ca665f21d45074cea94a]
 ├── quartz
 │   └── quartz.vom [2a2a5714e21c1a25af4fb73ff9dc2e9c3d23162827b17bf11de03b6ff0d7a6e6]
 ├── quasar
@@ -123,11 +160,15 @@
 │   └── 724
 │       └── virus.dos.antimouse.724 [6e579e58763451ed8038183703ed293bf9674c3d06d05ad73b442270b47c6a7e]
 ├── quiff
-│   └── quiff.vxe [6f54461fe342583e5594da1b6301e42e7f57122c4b20a63212faa16cee32f682]
+│   └── 1689
+│       └── quiff.vxe [6f54461fe342583e5594da1b6301e42e7f57122c4b20a63212faa16cee32f682]
 ├── quinine
 │   └── 343
 │       ├── _343.vxe [0d4cd18df16be376016cc40b13740c9e32fd649a0e9c615ccfa478435c87311b]
 │       └── te2.vxe [de9c244ebd2582aae2c511d68b2f514b2ac44df0763cf6afa3687df432ef0fe1]
+├── quintessence
+│   └── 992
+│       └── virus.dos.v.992 [936d2a4b6801514acea9980aec78faef0f2988e354617e31a3e414c06b005518]
 ├── quit
 │   ├── 0555
 │   │   ├── b
@@ -157,6 +198,8 @@
 │   ├── qt1992b.vom [eadfdb52dfb23300b2b92ebc8e8ff572a47705a3be592cdae34d9efeefa00675]
 │   └── test.vom [2b0293d49ec001754b79dc8587fc5e43b7889863d710626b9f1aac9ff5d86da3]
 ├── quiz
+│   ├── 0494
+│   │   └── virus.dos.quiz.494 [e1be2081f445aa84b9bf08821a4a603e7ee99fe0fc8ac3310294cfd3f89e4c29]
 │   └── 1024
 │       ├── quiz1024.vom [d20292ee5979b4718709cc5934de7a0478bcaf6728d6e840affe3a582efc4c5b]
 │       └── v-1024.vom [5092a0245008f77a70d86e0fc16fbb2728f2bc50c96bb44f99ca859eefbf8732]

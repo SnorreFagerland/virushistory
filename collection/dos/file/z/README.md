@@ -406,6 +406,8 @@
 │   │   ├── zher1958.vxe [8463ac9eec3013887995ee9d94eeeb960400cd173afa53fbe48a5950e36433e7]
 │   │   ├── zrk-1958.vom [90052e745e5b3cde8959c6a06ebd5d9003f1dc4e1f83792f8b3d0e357cf0e5ec]
 │   │   └── zrk-1958.vxe [1270877dc6e5dc4e3e50d2d828ff201335844f86b05d9c8c75cf72264cc7c17c]
+│   ├── 2269
+│   │   └── zherkov_.vom [e6838ed944b28877c22e2e78117155fa07ac8134c953cddf5a8a99e04e675ca1]
 │   ├── 2435
 │   │   ├── 2435.vom [2e15a77069c9bf945c931d8a35a43d61e457556c9d76a1eca017cfad9ccc1002]
 │   │   ├── rce#2.vxe [aeca184be66a8cde5d4e0520fc3151f47f440a9ed77a2db9a96cf112bf4341ec]
@@ -440,6 +442,10 @@
 │   └── 1867
 │       ├── t1.vom [55d0c44f475bfd806597357af808abbf3516d6e880b9a24a70664ed6a0763ff0]
 │       └── wci0057z.vom [950ed13e0fe47acdabc92d4b5271649abcdafb54aa5a931f47950b9e9f4c3674]
+├── zhu
+│   └── 1743
+│       ├── zhu_1743-001.vom [b148f0aa51fe491ba298b4a014631e79fcc205f140a6d841017736fad068c5a8]
+│       └── zhu_1743.vom [14993586e78e35a9688d130d841c965a983d42dbc7e5b93b293f7838ad0c7a03]
 ├── zibbert
 │   ├── 1268
 │   │   └── Virus.DOS.A2Space.1268 [ba2fbb6c3fd08beebf22fb2c4a4521112c880b701c6a13a904a84faebcf553f4]
@@ -490,14 +496,8 @@
 │       └── zipinf1.vom [21e3392c45f3be11b061670fc93cccfdcfbda4b8bdf5bdd55273bebaae26e50d]
 ├── zipper
 │   └── 2779
-│       ├── t1.vom [b5bc736b227b2669aeeb8337affe35b287b01a840fe0f2ad87e306e6b1768925]
-│       ├── t1.vxe [caa661e91a40b2e8e8039ea1204e2cf2e78008d8358cdba56c5cd12b0dad5453]
-│       ├── t3.vom [7c78ffabd6475fb4fb974e6ad9b30f95dc1a4b7973deb5d8fe6e6c6f3dbc581f]
-│       ├── t3.vxe [ae623dfa4fa6f7a327ab2e39cc61f10b59155a8d813d887301e58bc73bd0015b]
-│       ├── t5.vom [c2f2d517274a1f63bdbda4ac807defe294db7cf3ff6c24baa339c1574fa434e5]
-│       ├── t5.vxe [a77e4395039b2e917b4bff1069f43df0b3c8955f79085fbebe0b1ce2fd3dc62c]
-│       ├── t7.vom [fcf82cab953edf5a8185dcd059d2afb9024fd71ed504c64a32497144f3df604f]
-│       └── wci0025z.vxe [2a1ca58aa7d444428b0ff55477e5ff415a1e79073fd192648de29e1bdbda1243]
+│       ├── a
+│       └── b
 ├── ziuck
 │   ├── 1279
 │   │   └── ziuck.vom [448295f11dfcbda03d82e994b232cedbd02f512d286e63897568f72f8394e09a]
@@ -585,14 +585,29 @@
 │       ├── t9.vom [a3f83028779906b8b05d909301c2cede703c2ec6a1b4b7a04548f6aa6767466d]
 │       └── zol3.vom [5b2067f67a8010bf69912e5859470bdf783cf61ddbdc234f02423fd44ba284db]
 ├── zombie
+│   ├── 0745
+│   │   └── zombie_7.vom [68a62a5d936dde6c5488355764ff0ac03969c17969195d12f639d45a0a9d37c7]
 │   └── 0747
-│       ├── a
-│       └── b
+│       └── a
 ├── zombie2
 │   ├── 2351
 │   │   └── Virus.DOS.Zombie.2351 [917d42fdccfafa328857eb6a7f693d80a8f4b027849518b3d2e39daccbe0e5d3]
+│   ├── 2413
+│   │   ├── 007.--- [a9e074b997ea1eb9884423422bdda77f1a854264bcb54c71d7841e1d0a8b5317]
+│   │   ├── src
+│   │   └── zombie_2.vom [1244b4ddac18508f1e436847046bc6b2322436667b7d605dd32cd41825606d7f]
 │   ├── 2415
 │   │   └── Virus.DOS.Zombie.2415 [d644e5c9265bdaa69d9072a4cd3e0cdf76a628d8b17f62420a0907b305ece756]
+│   ├── 2493
+│   │   ├── zombie_2-001.vom [72672ffd5dc8e8df602423ee89ad1f5334223f4986a3249bea0c22b54ce210d3]
+│   │   ├── zombie_2-002.vom [96c718a5b090103b06979b50602efdcddcb1b4d308a162066e7e448c457b4698]
+│   │   └── zombie_2.vom [4daddc476918e9eb923786dcafd6ef1f46c3f52248ecef2bcdaeeda6d7998e59]
+│   ├── 2553
+│   │   ├── 1.vom [e404a3bfa1509593a4a0c41178bfca958dbb75ba6a51a242e21fcaf855e1ab0d]
+│   │   ├── MOUSE.vom [a43ed09a833e92952f9ace9c9f63cd9c54f8cbb9edf3d308847b39876a16441d]
+│   │   ├── PKUNZIP.vxe [94b0b67b62fb4dedaaa8233285e956387797bd3fd15da7b8dc1d67efdc0345d1]
+│   │   ├── src
+│   │   └── zombie_2.vom [3eb84191355d8607fadc419e0e5ed2373b8954c43edce71e17974f3c32467e15]
 │   ├── 3592
 │   │   ├── MORE.vom [12a70b8659b2fd9bad39de16f06f24ca3dd222dd21ad614192f572383629b38f]
 │   │   ├── src
@@ -602,11 +617,16 @@
 │   │   └── Zombie.vom [8bab49ba47eec6953770578758819516b342692bdf574662d863004e2e182ba3]
 │   ├── 4592
 │   │   └── Zombie4.vom [001e7aa61b88f864e5fbfb29340111365e1b8ed134c8401f01d2c4fa671da5c9]
+│   ├── 7312
+│   │   └── zombie_7.vom [e173e2289ff8eefaedb3dea7e9899b97f56a9db67d7d5952155ea6bc3acc2878]
 │   ├── vpi
-│   │   └── 15211
+│   │   ├── 15211
+│   │   └── 15467
 │   └── zcme
 │       ├── 08192
-│       └── 16384
+│       ├── 16384
+│       ├── 17654
+│       └── f-prot316f.txt [7ca826ad6cc3f490f0e3a37eabe72822d64c9fadbd377d9ba95210a73c0494c9]
 ├── zoom
 │   └── 260
 │       ├── t1.vom [5a0fa8d2676647b2071fce37e926adb7b552dddb657b360cb83e08a36f13057e]
@@ -628,6 +648,8 @@
 │   │   ├── zorm_432-001.vxe [6f822ee8a33f62baf88af856679c3d5aaf963ca496517c78a08b1ee9bede1641]
 │   │   ├── zorm_432-002.vxe [958cb9104e216e57070e1b617d4b235d8eecf36fa1141e56e316c241f15253ad]
 │   │   └── zorm_432.vxe [6c4de145334f02b090cecda54bc9cf8c9d5e7ff4c5295a75dd6675d9d9d6df5a]
+│   ├── 0437
+│   │   └── zorm_437.vom [11856bf3104d096e1b739526e277ff4a86757b06e0bf9396b6af7a800854f653]
 │   ├── 0458
 │   │   ├── zorm_458-001.vom [af5298902e042bbf30ef519693d6ea60a0a9c86517d73688dc9a779dbd4ee21a]
 │   │   └── zorm_458.vom [966b9f4e11ecfc30a9ac88dc56c6525d8f415905320c24bd3402169d3a1d2366]

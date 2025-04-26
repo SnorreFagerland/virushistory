@@ -18,8 +18,6 @@
 │   └── Trojan.DOS.KillCMOS.g.vx [d086e9acdcd105e74bfa27f45e6b88e3e29fd19e30fedef9ddc875b2b786fbc2]
 ├── h
 │   └── Trojan.DOS.KillCMOS.h.vx [af11072484308430e3a2ada39015475fdd71c22268f091349c8e5720b31dcd69]
-├── i
-│   └── Trojan.DOS.KillCMOS.i.vx [5980cea28ec41e95317e2ef3c01beebf57f9fe78efafc47aa5a1caef45dc4d30]
 ├── j
 │   └── Trojan.DOS.KillCMOS.j.vx [841c8f0fbd997ab2ee90471bb256f465205ad175467a0f3170d4a76ae2d99958]
 ├── k

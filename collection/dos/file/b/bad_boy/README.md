@@ -85,6 +85,8 @@
 │   └── virus.dos.badboy.rain.h [cf1fc36a689194f9aadfa440c445cbcf13a3e3ec7941b3cdf7a18e1b2ce65d39]
 ├── 1103
 │   └── bad_boy_.vxe [51551f0a48f0021111bf10fdfb70330efd51fc1aa99d77186205ba75419707ad]
+├── 1130
+│   └── virus.dos.badboy.vortex.1130 [b035ebeda046a3b1a37e6e7009d59a1fd3c99e0c00cff56410720c595fca589a]
 ├── 1136
 │   └── virus.dos.badboy.lubec.1136 [599d86b57e7ba88f69d3e2371d9718c48b210bb03a3f3a6bfecf5987f5eb82a9]
 └── madsatan

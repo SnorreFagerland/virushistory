@@ -1,0 +1,31 @@
+' Call to VAMP
+
+Private Sub INITALIZE_VAMP()
+On Error Resume Next
+Randomize
+Dim r1(1 To 8) As String ' Update the array for however many variable you add - so if you have r1(20) then this line should read r1(1 to 20)
+r1(1) = "VARIABLE3": r1(2) = "VARIABLE4": r1(3) = "VARIABLE5": r1(4) = "VARIABLE6": r1(5) = "VAMP": r1(6) = "INITALIZE": r1(7) = "VARIABLE2": r1(8) = "VARIABLE1"
+' Add your variable names here - example the next one would be r1(9) = "MyVariable"
+For x = 1 To 8 ' Change this number up to how ever many variable you add - so if you have r1(20) then this line should read x = 1 to 20
+a1 = (Chr(65 + Int(Rnd * 22))) & (Chr(65 + Int(Rnd * 22))) & Int(Rnd * 900) & Int(Rnd * 900)
+Call VAMP(a1, r1(x))
+Next x
+End Sub
+
+' The VAMP Engine
+
+Private Sub VAMP(VARIABLE1, VARIABLE2 As String)  'VAMP v1.0
+On Error Resume Next
+Dim VARIABLE3 As Long: Dim VARIABLE4 As Long: Dim VARIABLE5 As Long: Dim VARIABLE6 As Long
+With ActiveDocument.VBProject.VBComponents.Item(1).CodeModule
+VARIABLE3 = 1: VARIABLE4 = 1: VARIABLE5 = .CountOfLines: VARIABLE6 = Len(.Lines(.CountOfLines, 1))
+Do While .Find(VARIABLE2, VARIABLE3, VARIABLE4, VARIABLE5, VARIABLE6, True)
+s1 = .Lines(VARIABLE3, 1)
+s1 = Left(s1, VARIABLE4 - 1) & VARIABLE1 & Mid(s1, VARIABLE6)
+.replaceline VARIABLE3, s1
+VARIABLE3 = VARIABLE5 + 1: VARIABLE4 = 1
+VARIABLE5 = .CountOfLines
+VARIABLE6 = Len(.Lines(.CountOfLines, 1))
+Loop
+End With
+End Sub

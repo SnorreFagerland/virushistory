@@ -1,0 +1,54 @@
+Virus scanning report  -  21 April 2025 @ 23:41
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\08192\1.vom  Infection: Zombie.8192
+u:\08192\2.vom  Infection: Zombie.8192
+u:\08192\3.vom  Infection: Zombie.8192
+u:\16384\800.vom  Infection: Zombie.16384
+u:\16384\grep.vom  Infection: Zombie.16384
+u:\16384\keyb.vom  Infection: Zombie.16384
+u:\16384\t10.vom  Infection: Zombie.16384
+u:\16384\t11.vom  Infection: Zombie.16384
+u:\16384\t2.vom  Infection: Zombie.16384
+u:\16384\t3.vom  Infection: Zombie.16384
+u:\16384\t4.vom  Infection: Zombie.16384
+u:\16384\t5.vom  Infection: Zombie.16384
+u:\17654\command.vom  Infection: Zombie.17654
+u:\17654\DUMP32.vom  Infection: Zombie.17654
+u:\17654\LWM.vom  Infection: Zombie.17654
+u:\17654\NETRUN.vom  Infection: Zombie.17654
+u:\17654\t1.v1  Infection: Zombie.17654
+u:\17654\t1.vom  Infection: Zombie.17654
+u:\17654\t3.v1  Infection: Zombie.17654
+u:\17654\t3.vom  Infection: Zombie.17654
+u:\17654\t9.v1  Infection: Zombie.17654
+u:\17654\t9.vom  Infection: Zombie.17654
+
+Results of virus scanning:
+
+Files: 26
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 26
+Infected: 22
+Suspicious: 0
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00

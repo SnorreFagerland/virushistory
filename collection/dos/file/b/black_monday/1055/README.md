@@ -17,6 +17,8 @@
 │   └── black_mo.vom [d3a1d993061e3808f9182c028269e9641d29639465631fb03cb11b7e8b10cdfa]
 ├── k
 │   └── black_mo.vom [b0551dca647189a307e4f8723b8f76b5fae42e6baa91828affc74ff7275f353f]
+├── m
+│   └── black_mo.vom [d2f2f172e95f0431e9342fe9d489b3f6d89989c2c986a1a11b8381de42a9e6ef]
 └── unknown
     └── virus.dos.blackmonday.1055.b [cf5a5a1c2cdae1d1d80a403e466aa2539b5c1514e7be7578c514357c179e83ea]
 ```

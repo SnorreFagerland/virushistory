@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED-README -->
-# Contents of `poem`
+# Contents of `poet`
 
 ```
 ├── 858

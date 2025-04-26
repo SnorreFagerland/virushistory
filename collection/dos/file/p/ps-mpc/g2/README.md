@@ -2,10 +2,16 @@
 # Contents of `g2`
 
 ```
+├── 291
+│   └── virus.dos.xor.291 [afe963ea8116d809c742fea7da0221f2daa487780b4cec901247d4fa405d9957]
+├── 330
+│   └── virus.dos.ps-mpc.330 [567d10b3bd607b9ca0285490f6c5833f894e52adac92a93f6f97b0656adb865b]
 ├── 341
 │   └── mpc341.vom [9a1f98a67e8f95915c90a457c70c1937f37bf82a2ffbe3a83628b7443caa0f2e]
 ├── 425
 │   └── mpc425.vxe [6691c8a8b38a754044fc1bb6e9e3cac9faf52a5629aa0699fdd87f5d9667271f]
+├── 466
+│   └── virus.dos.g2.466 [3f874c3b469fa644fc0e66333884e8b0a2214201c98f553edb292b63aa994e84]
 ├── 496
 │   └── wci04003.vom [d9017f583b0cc8ae56412733d14a4d8972386f6267e23c7d521aefe0c6293940]
 ├── 524
@@ -115,6 +121,14 @@
 │   │   └── archive.vom [f44cde6d16ae2b58bd1f4fdfd3de3fe8ef0723cb1ccd433fdbc2a3742d34b76d]
 │   └── 510
 │       └── archive.vom [30efb95593b2aef4260c752de997f5e3cf950db142886d42801ba015c0bc3183]
+├── atul
+│   └── 335
+│       └── g2.atul.335 [12707299b7bc4915a2173c5eaa497299fcec6a8bea4ddc3cb7b510383dbad32d]
+├── bford
+│   ├── 321
+│   │   └── virus.dos.vcl.321 [d14975f299a68a23eeacf1957605d5399ce16eda7c1ae1af2709692cba0f9d5b]
+│   └── 328
+│       └── virus.dos.ps-mpc.328 [c440180faff0c6b6582273b91e23f5556c10e4a73839ed11db91d0ddcd752994]
 ├── bitter
 │   ├── 581
 │   │   └── bitter1.vom [8184098f43ba8041c1b681bcfcd7a62c18bd1646af5fb8b17dc7944fc60a5924]
@@ -132,6 +146,9 @@
 │   │   └── pg2513.vxe [2d433497f555de7033dd8c0948f48c90ca2ed5983afc1b933170d3f5a3d68eed]
 │   └── 598
 │       └── pg2598g1.vom [d2f9ea90d4b1b8851f354e198a4125bddcd414a0f241a3425005fc835dee9187]
+├── carlo
+│   └── 330
+│       └── virus.dos.ps-mpc.330.b [28d88291cab17570260d7fe6068d323dc9768011ec921ee2a550276bc5c8322b]
 ├── celeste
 │   └── p310.vom [39aa642156a21eeb7b77b2ede8d811687be28487aa0f1e1a758545f3e02626da]
 ├── crazyc
@@ -142,6 +159,9 @@
 │   │   └── denise2.vom [87c8b8d6304329e3741833ef1c26dc538965a0308f30fd8f41e8fe0de0e1de68]
 │   └── 585
 │       └── denise1.vom [bf863e56868b2962bd94eb6b56b49511254a0d67b16dc83b5cca2d18b246041b]
+├── dieter
+│   └── 323
+│       └── virus.dos.ps-mpc.323 [f6cd3600f681e3bab5bd5e91c3ab608f9f5b42c7ed20d4a8274d2c7af215530b]
 ├── dread
 │   └── ear612.vom [f8588e78928696cdd4efdbae1046c8728161fbb05f07091c7198982997c51aaa]
 ├── duke
@@ -153,10 +173,21 @@
 ├── gandalf
 │   ├── 325
 │   │   └── gandalf.vom [968318da5e02997690ffbd8b047671d612eebb9f90a8d58407136a32baade259]
-│   └── 326
-│       └── gandalf.vom [87ce861da184c66449a4392bcdcf1001b050563fdd7f6fcf4f0c96e678d11b89]
+│   ├── 326
+│   │   └── gandalf.vom [87ce861da184c66449a4392bcdcf1001b050563fdd7f6fcf4f0c96e678d11b89]
+│   └── 340
+│       └── virus.dos.sillyc.340 [4d35a1992848f5f25373d44797cd5272cbbcb98b91bfab8fde968502735e4f2c]
+├── goma
+│   └── goma
+│       └── virus.dos.goma.354 [2fb25f44e452abeb36363f9f7714c937c23a06b2438fffe3afa4cc8dae5db764]
 ├── greythor
 │   └── gthorne.vom [124c1cf75950ab6297a9007bf78136ae38a45a3a6c3b6a813f040e04f4b8a4bb]
+├── hee
+│   └── 398
+│       └── virus.dos.ps-mpc.398 [49bd530d2ac416cd9e834d94bda4b3bfd45f858c94f7d9c4f0374a0bec0f5208]
+├── hoa
+│   └── 372
+│       └── virus.dos.ps-mpc.372 [7b6585b6e9c386af56847b70246be8e8554e18e3c0cb439f77c844f87df2ddb6]
 ├── iguana
 │   ├── 579
 │   │   ├── iguana.vom [369dc6a6f75051a3ac2496ced8e8d61ad3429c549bad60175a5637370adcff68]
@@ -237,6 +268,11 @@
 ├── nin
 │   └── 569
 │       └── nin.vom [e3077f3b16ad55817092c12b400f8685d0ce86073f5165881aa47a572e06c07a]
+├── notme
+│   ├── 298
+│   │   └── virus.dos.ps-mpc.298 [26072c3bd3efa3f0a5b223bbeaa38691f51e00776a96348dbaab49d212f1379b]
+│   └── 324
+│       └── virus.dos.ps-mpc.324 [a5fcccc6356af80b02de681ad3ef0b4b1704a33c1ef02eed65dd6c42c2b4b2e7]
 ├── oj
 │   └── oj-virus.vom [902364b21ab6179bbb21274e0c7f7bb31054f58bc910aa60065b752234309a0d]
 ├── paradigm
@@ -281,7 +317,9 @@
 │   ├── 602
 │   │   └── punisher.vom [cf8e408db9073e9bc044a397591d1b520fc94ad97561c39a094777d95c3b3fff]
 │   └── 604
-│       └── punish1.vom [1c6f395896596f65b2e18d776b0ebd3ebd155e18cf01258759ebaf5e59b20b61]
+│       ├── 604.vom [ff7c3f40c02a4d5642ae92f06989d33bf0f58d330a915809df33cb636c24a0f0]
+│       ├── punish1.vom [1c6f395896596f65b2e18d776b0ebd3ebd155e18cf01258759ebaf5e59b20b61]
+│       └── punisher.vxe [5abe46ba7d051ac47c114ab277467c0aae7e2095819afd0f07a54fd11e36f6c9]
 ├── puppet
 │   ├── 383
 │   │   └── psmpun-t.vom [d2d17a54c8188800175d4b0eb7733c5d4a8853695eacb350eb739a9e6a1aa048]
@@ -337,8 +375,13 @@
 │   ├── 490
 │   │   ├── a
 │   │   └── b
-│   └── 501
-│       └── wci0643m.vom [c06e606a9ee106390323653020f7664aec9bd97916ca1c11b47210b12fd4292d]
+│   ├── 501
+│   │   └── wci0643m.vom [c06e606a9ee106390323653020f7664aec9bd97916ca1c11b47210b12fd4292d]
+│   └── 536
+│       └── jocked.vxe [358905fae61af8a49dfddfb2a6dc6e8e1231b776892fc365f537b3bdb5639303]
+├── skeleton
+│   └── 536
+│       └── virus.dos.g2.deke.536 [c606d62055ee81f94332372f33d9ffa19711d57f22b305806a4a7e84cb88f811]
 ├── stargate
 │   ├── 455
 │   │   └── earunkn.vom [a60b1b5bcd2ea0f726945600c541f8a8847fa72adcff130953116d8697b2ed7c]

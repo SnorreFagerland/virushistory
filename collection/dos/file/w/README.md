@@ -104,6 +104,9 @@
 │       ├── t7.vom [72c41d1d168158d6ecf4c03331e737473875ff8feeae92b2199dbe74bb9a2b51]
 │       └── wci0009w.vom [ac642fbd96b8a569b0239e294a63301c7f3fd2f5a2eaebe4238c9a4d7520637e]
 ├── warlock
+│   ├── 732
+│   │   ├── warlock_-001.vom [516f2140b41abdfa06386fa382ee74fdb8f9f5628c07b0671ed452496588cc7a]
+│   │   └── warlock_.vom [1fdf21a4f7ad62c26b719c91a7ef744052714246f2bea4ba34bcc48f808031f4]
 │   └── 777
 │       └── a
 ├── warlock_ii
@@ -466,16 +469,19 @@
 │   │   └── vir.vom [9805a017b0caff91e0eaecaab69bcf2fc88c683a8d621280294d2d5679adc975]
 │   ├── 4859
 │   │   └── virus.dos.whitenoise.4859 [953a3804e1f0f79ddf02b0651eed6d9cc02d85ea19b13ff04a623f71f04c4b85]
-│   └── 4897
-│       ├── t1.vom [3de69a6c1787f1ae0f2698e8d53e18e4f5bfae8954dfc0d0ca0481f44b3ffe27]
-│       ├── t2.vom [0b103166c08d84967dfaafed2fcc520dce1897f71fd6c376f39e94bf978319b3]
-│       ├── t3.vom [1857278f6a61aeec11efbff52edad61ab326a2c66e7164b36ced8212d674a3d1]
-│       ├── t4.vom [5ca72a5e0f0afa9dc8b93c574413f620c6695718036d5d452724171ede1bfcdd]
-│       ├── t5.vom [6e1eb441202493069a67acf1e14c32aaa2935882b891210112b8c74c600c6d9a]
-│       ├── t6.vom [54628a4efd922802421009ec40323e578365fb2925d2d5f272596cac5e148a39]
-│       ├── t7.vom [a6d1f56844bf12ac2e9f3874d8dcd9f5a3864fb41d0f95cb718f2c4babac016e]
-│       ├── t8.vom [03e0e28edc57fa34c8d644800261aa4a0523e8100483e55719ad464a55ea5e25]
-│       └── vir.vom [ad59ca21be10a4d68726d344f5c7d02aee5ac21749535d833f6bfc9fd6ad7c9a]
+│   ├── 4897
+│   │   ├── t1.vom [3de69a6c1787f1ae0f2698e8d53e18e4f5bfae8954dfc0d0ca0481f44b3ffe27]
+│   │   ├── t2.vom [0b103166c08d84967dfaafed2fcc520dce1897f71fd6c376f39e94bf978319b3]
+│   │   ├── t3.vom [1857278f6a61aeec11efbff52edad61ab326a2c66e7164b36ced8212d674a3d1]
+│   │   ├── t4.vom [5ca72a5e0f0afa9dc8b93c574413f620c6695718036d5d452724171ede1bfcdd]
+│   │   ├── t5.vom [6e1eb441202493069a67acf1e14c32aaa2935882b891210112b8c74c600c6d9a]
+│   │   ├── t6.vom [54628a4efd922802421009ec40323e578365fb2925d2d5f272596cac5e148a39]
+│   │   ├── t7.vom [a6d1f56844bf12ac2e9f3874d8dcd9f5a3864fb41d0f95cb718f2c4babac016e]
+│   │   ├── t8.vom [03e0e28edc57fa34c8d644800261aa4a0523e8100483e55719ad464a55ea5e25]
+│   │   └── vir.vom [ad59ca21be10a4d68726d344f5c7d02aee5ac21749535d833f6bfc9fd6ad7c9a]
+│   └── 4903
+│       ├── noice_49-002.vom [b9c92c3fa08f9c960f352ded1a934fb3bfed03aac8559c36bdd411f1dd0aa50c]
+│       └── noice_49.vom [d2c8550ad8c3a9ee654dbc0aecc2eb3b69407fcfaaff08eb37220af82e3f3eea]
 ├── widowmaker
 │   └── 5741
 │       └── widowmak.vxe [1e9892ec8b48f18c0b92d36be229de89fa5b98698061728de203db1fd5f26b67]
@@ -561,6 +567,11 @@
 ├── windom
 │   └── 1431
 │       └── virus.dos.earle.1431 [20b74c3fbbb40dde23ea2658fca6c5cc0c9eb8a8fa05434feeb4d0c683588cbb]
+├── winlamer
+│   ├── 0775
+│   │   └── winl775.vxe [73890f809404cb8ee5b81189cce1cc38eb2c1009dea1639a8cced612549f93d3]
+│   └── 1734
+│       └── Virus.Win16.WinLamer2.756 [343247393f53bc043fcc12ac5f3d17811b5558a03407948b04952f25ffee7c56]
 ├── winmul
 │   └── 1990
 │       └── winmul_1.vxe [4129a768494fba4cc40c2399f79601a6270f5962787adf18c97e599dc9a2c7f7]
@@ -582,7 +593,8 @@
 │       └── 761
 ├── wintiny
 │   └── 731
-│       └── c
+│       ├── c
+│       └── d
 ├── wisconsin
 │   ├── 825
 │   │   ├── a
@@ -742,6 +754,10 @@
 │       ├── a
 │       └── b
 ├── worf
+│   ├── 131
+│   │   └── virus.dos.sillyor.131 [847fa476f41a57cba749b3bc44dd8595c2012c32a3194e396d4eb695d24d9d6f]
+│   ├── 167
+│   │   └── virus.dos.sillyor.167 [d4a4d4a6a6fce1600c29affdcf06f1ed886f98469513648b0d50fd3a0a7cdd96]
 │   ├── 303
 │   │   └── virus.dos.birgit.303 [713345ba8cbc56e844e0bf197a7c07cc0f8a4b5bda5f6c461cb53fbd69cbc30b]
 │   ├── 306
@@ -840,6 +856,8 @@
 │   │   └── virus.dos.wpcbats.3077 [247f66dd6ee41b7380e1f388cee5847e019efaedf740ea2dcac8ee7ddae40fec]
 │   ├── 3072
 │   │   └── virus.dos.wpcbats.3072 [d4887a18c7647fc5ca7d6b69d8b0631ea7b1159db53394f2534554d02e29645c]
+│   ├── 3155
+│   │   └── wpc_bats.vom [ab54d87224483679eeef1eb1241cdf37feede42eeab1ceac4ef7c28163b4cda3]
 │   ├── 3161
 │   │   ├── a
 │   │   └── b

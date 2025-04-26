@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED-README -->
-# Contents of `printerc`
+# Contents of `princeptor`
 
 ```
 └── 987

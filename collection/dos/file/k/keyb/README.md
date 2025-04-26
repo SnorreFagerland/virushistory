@@ -11,6 +11,8 @@
 │       └── virus.dos.riot.keyb.865 [82406b927644437881229aa344d072ce08f0cb8604b648e3a1f68cf0a7f4402d]
 ├── 0873
 │   └── virus.dos.riot.keyb.873 [61a79eeff5314463476f535e9d300f58d234e76dc925f945bd8cb759de1d95d5]
+├── 1033
+│   └── rot-lock.vom [e51f40130c1ad0eb0dbfec5a012263f63cecee72332f196849b07cdbdf97d7e4]
 └── 2245
     └── virus.dos.ball.2245 [6e3eba055fcf0112ea77a9551569c40a3455464a3d814d0a1bcb40f01934feee]
 ```

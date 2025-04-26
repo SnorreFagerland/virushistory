@@ -16,6 +16,8 @@
 │   └── v8375.vom [39080066ac74cb21eebde4a7e599d336528db90f43f45eb751a1dce76295bb09]
 ├── 0583
 │   └── virus.dos.corea.583 [cedbc149b612b08d9d4315b69a370562a439bf0b1d7ccf6cf34ad269f4dbac47]
+├── 0658
+│   └── virus.dos.sillyoc.fk.658 [8aaf17568c5549130e723a2584ed03ccf4336cec5df3e76d7eb1af25ea74aa8d]
 ├── 0723
 │   └── virus.dos.corea.723 [c64d5979b6f1495347e68f23ec48b9a7a0be327189e890e4ab737d90ad529852]
 ├── 0751

@@ -21,6 +21,17 @@
 │   ├── exehe379.vxe [b64aa88c65d1b76f5d0af09868d072c8bad21cddd0383367ab01c87c17bf7972]
 │   ├── t1.vxe [8d51b4751c53589f171922b781782f3be8b07b9dd6bf0a5b30b40edc085b586c]
 │   └── t2.vxe [8a5e86e92354c0160d1a09f0fa373b86b6971a6eb23019775d1cc70ff6a53d24]
-└── 440
-    └── exe-440.vxe [dea561954086d2263b6f8364ec6424ed5e68ada1b7ea167ab69b88ad42be9d06]
+├── 416
+│   ├── a
+│   │   └── virus.dos.exeheader.renegade.416 [28e110a605c4fdec4708784830f0e9133d58385b051a8e78721f0ee16a0db9d4]
+│   ├── b
+│   │   └── virus.dos.exeheader.renegade.416.b [86fff747e3e9baeca7e752860694ff13689c3b89d9b27eec277f0a20f9db2a4e]
+│   └── c
+│       └── virus.dos.exeheader.renegade.416.c [e59f1e8893d290e4975665986361c12bf991ff93fd31beb59b15e28761b153f4]
+├── 423
+│   └── Virus.Win16.Lucky.423 [031c988a918447cdac01a1ecceef727a48b96bac29493aad3c984a2cb9d4c378]
+├── 440
+│   └── exe-440.vxe [dea561954086d2263b6f8364ec6424ed5e68ada1b7ea167ab69b88ad42be9d06]
+└── 481
+    └── Virus.Win16.Lucky.481 [47bbb9c24aee24883eb2e231f2e7c14b0f5ad20deb2ca21caef4ff4ec6b769d2]
 ```

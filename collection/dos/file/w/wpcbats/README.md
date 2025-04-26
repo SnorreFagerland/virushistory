@@ -32,6 +32,8 @@
 │   └── virus.dos.wpcbats.3077 [247f66dd6ee41b7380e1f388cee5847e019efaedf740ea2dcac8ee7ddae40fec]
 ├── 3072
 │   └── virus.dos.wpcbats.3072 [d4887a18c7647fc5ca7d6b69d8b0631ea7b1159db53394f2534554d02e29645c]
+├── 3155
+│   └── wpc_bats.vom [ab54d87224483679eeef1eb1241cdf37feede42eeab1ceac4ef7c28163b4cda3]
 ├── 3161
 │   ├── a
 │   │   ├── t1.vom [776c5c65b5afd6839063c3be672783e423e637ba7ea61eaba10afc6754821a7e]

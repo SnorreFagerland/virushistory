@@ -24,10 +24,15 @@
 ├── 359
 │   └── hooters_.vom [a3a8ad20b6f569e2ae423f9b9cfb4a4a70e47984902e26229d1897be565460f3]
 ├── 360
-│   └── hooters_.vxe [743ef351e89f58dbcb2f27dcd0021c932841efc3f4d6e8c6431c0dba19a31de4]
+│   └── hooters_.vxe [f4267731f7c36ae27c318f28ece216b6117972fba2ee1238c21888cbf041d991]
 ├── 364
 │   ├── hooters_-001.vom [ca1bdde9057537dca66decb9288e7c66d97fa26d1722b516055adff82aaf5f55]
 │   └── hooters_.vom [a5a45bea76546a876b6763ccbac54707fc41a875710ac91a5c9f5e9b16d30262]
+├── 383
+│   ├── a
+│   │   └── virus.dos.sillyc.383.a [36c75805115a385177dde4b3e6de3de89fc041af29baceb5695e32ed3f467a3f]
+│   └── b
+│       └── virus.dos.sillyc.383.b [543e7205094e8196a8a08b75bc3a750ebef8d39ff68939b2699dfd3168420055]
 ├── 458
 │   └── hooters_.vom [aea5b3669621491607b9d09b4dcec7791f097ff9b2223d006cbd97495be378be]
 ├── 459

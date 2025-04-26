@@ -1,21 +1,6 @@
-<h3>Malware name	: - </h3><br>
+<!-- AUTO-GENERATED-README -->
+# Contents of `154`
 
-| **Attribute**          | **Details** |
-|------------------------|------------|
-| **Known aliases**      | - |
-| **Type**              | - |
-| **Size** | - |
-| **Contains text**     | - |
-| **Screen effects**    | - |
-| **Destructivity**     | - |
-| **Seen in the wild**  | - |
-| **Notes and comments** | - |
-| **Screenshot** | - |
-
-
-
-
-
-
-
-
+```
+└── src
+```

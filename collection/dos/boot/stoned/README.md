@@ -115,8 +115,7 @@
 ├── ce
 │   ├── ston-ce0.boo [742371df071e986eae16d36e8ccaf4440ecd54528fee3885788484ee236bf641]
 │   ├── ston-ce1.boo [29adbcee05d88e00047404f5aaf04ef08087b01a2ab9f3e2beeec8f6be8e69c8]
-│   ├── ston-ce2.boo [92fb6ac05ac982f494cebd24958821c1046c9641425db558d6104c72824c447e]
-│   └── ston-ce3.boo [29adbcee05d88e00047404f5aaf04ef08087b01a2ab9f3e2beeec8f6be8e69c8]
+│   └── ston-ce2.boo [92fb6ac05ac982f494cebd24958821c1046c9641425db558d6104c72824c447e]
 ├── cf (gullion)
 │   └── gullion.boo [0616f44ad1036ca89b476f9edc9d44905517a6e1c41c3beb735852e8889e3eb4]
 ├── cg (alive)
@@ -199,6 +198,8 @@
 │   └── cancer.boo [7927800557841f9b86f3452b3e6df852eb8b3425c3cc33a9cdfc793b91ff5f4b]
 ├── ds (clock)
 │   └── clock.boo [0ea141d04e9359a5db527099acca9dba4123a15392f747359f6acc8e423da4b2]
+├── dt
+│   └── stoned_d.boo [3e7a33f47fcd4ad0c233840a139101094a762bee78367c0bc33ed9574d8b1a67]
 ├── du (service-1)
 │   └── ston-du.boo [d6f18904a570061d16a0855a5404532b529911fcc565693c3f634f1dbcc1a980]
 ├── dv
@@ -254,6 +255,10 @@
 │   └── stoneden1.vom [e6ded34608165ab6e4e5016c81b790fdacd4a07bdfef9486d7aef7d3d9b644d3]
 ├── eo
 │   └── eo.boo [27d2f7dc9d118b055fe33096be3b4644d7c80a15dc024929c038b8f2546b0356]
+├── ep
+│   └── stoned_e.boo [60bcdd5a4bbd49a82361a4b207ea705a4f90a9cfafb4a967aee0a6a2421046dd]
+├── eq
+│   └── stoned_e.boo [d1f2e8f823841b74019f240e1a683de20bc022a2145338a0972305f6f4ea1ef3]
 ├── er
 │   └── ston-er.boo [b107e2c8fb8570b66cf9ac4ad8d3383b068912fff3172eb2533108ec02b5608f]
 ├── es
@@ -351,6 +356,8 @@
 │   │   └── volgag.boo [25b42fa321ff86a99d88d436fdfe1e11e5969e47d33ce1906dd8d60410ec822a]
 │   ├── h
 │   │   └── volgah.boo [35ee15b9c2ab318a5a175ec0b53e0ad1766102bc8708580baae331a60fdfb802]
+│   ├── i
+│   │   └── stoned_v.boo [8ae48a7376d6ee3d7a966909cb7763d61a3a9d73630cb2b5d49fff70e5f6c057]
 │   ├── j
 │   │   └── volgaj-0.boo [96a0ac00aec3b7cdfc05098b20a81659251b6bcc13b7314abb1809240bfed14b]
 │   └── k

@@ -10,6 +10,8 @@
 │   │   └── tf.vom [70a46f2c2288ef8548d0f2606b7b7422a6147b66dca7cc0d23405d41c651be79]
 │   └── b
 │       └── hunter_2.vom [d55b9f3e16c52ffb5d1e0e804754b263d323e8a3ce5a7df675e76ad4b5a48430]
+├── 296
+│   └── virus.dos.slam.hunter.296 [64a730aa5845d6d551168d474c3040e7fc768e0d4966546b7b446aa4b94e5abc]
 └── 324
     ├── a
     │   ├── hunt324.vom [46ee33978d9c2e7f950f57221f199a2eb5567881c26464b05adef1a1179cb90a]

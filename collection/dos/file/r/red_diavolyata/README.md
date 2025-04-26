@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED-README -->
-# Contents of `red_diav`
+# Contents of `red_diavolyata`
 
 ```
 ├── 662

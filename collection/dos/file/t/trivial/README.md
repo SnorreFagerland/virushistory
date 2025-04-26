@@ -388,7 +388,6 @@
 │   │   ├── tf.vom [f6bdfc57f239ec6fe40424160bf37743f57362e3efe1082322be7ac854a3f081]
 │   │   └── tiny-42.vom [c6c9d477c8cd55182f8c738f10dcfaa4005eb4f120203ee1b8df652a4cd4b2b9]
 │   ├── p
-│   │   ├── trivial_-001.vom [ecc15c4cef31403b168ea8ced42d6f5144df16d3ee71e273f415d89d5784d27f]
 │   │   ├── trivial_.vom [ecc15c4cef31403b168ea8ced42d6f5144df16d3ee71e273f415d89d5784d27f]
 │   │   └── trivial_.vxe [7989a21c7f991c5215c9580acbddb5a7457b3dba4937d33b4cfcd2ba6f62ba5c]
 │   ├── q
@@ -1624,6 +1623,9 @@
 ├── rex
 │   └── 113
 │       └── virus.dos.trivial.rex.113 [0c950baf85b141353165243eede1b7fb580ef8e2de74cfdc30d263151a93f8d2]
+├── rulez
+│   └── 62
+│       └── virus.dos.trivial.62.b [3b3a8ad49549ed973038ba128b9de3f5a332bcb66aa542cd16ba6abfdd5e1ad7]
 ├── sbvc
 │   ├── a
 │   │   └── virus.dos.trivial.sbvc.a [2230f846ecfb25545c56d9428dfd644efcda4bea3a9f227864b688d8e8db3c9d]
@@ -1636,9 +1638,6 @@
 │   └── 135
 │       ├── a
 │       └── b
-├── simple
-│   └── 207
-│       └── simple.vom [5926eb47354ef7f104d0c5615e5ee6c8d41be76f307649dc5dd31ac236981e6e]
 ├── sink
 │   ├── 90
 │   │   └── sinkv1.vom [ac9c4c471c4990d403149610a87b6a30c37a092231892564f83189009dac84dc]
@@ -1670,6 +1669,11 @@
 ├── splinter
 │   ├── 115
 │   │   └── virus.dos.trivial.splinter.115 [1eef6c270acfb38d9a1ea8e6562e36183ce5a8b1aa7604f456defda24227f3e2]
+│   ├── 147
+│   │   ├── DUMP32.vom [2b6bf47c5eb61cc9de6e5dc168b539dc1271aed0db924195101331d36faed2c8]
+│   │   ├── LWM.vom [f940e539a4b8a489f6fd3b338d39ff4b1b45a49653bc5675a1f88c2964124389]
+│   │   ├── command.vom [c19077938f12fc29e4dbd0274a54f41934a28a4f982a00a38bf90358d3486068]
+│   │   └── virus.dos.splinter.147 [1649e53991ba6de6ee6677b4671c3b3ae7598c9235f8708931177d315e1a3c42]
 │   └── 165
 │       ├── b
 │       └── c

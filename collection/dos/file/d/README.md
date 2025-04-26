@@ -155,7 +155,6 @@
 │   ├── 164
 │   │   └── 69c843be.vom [d94837dd4bd8c0268f5eb079324044f20b8369d55ac2284e1404fda5b9d39f84]
 │   ├── 174
-│   │   ├── 174.vom [5ba8e1bcbeb8053ad99af374dd1e0e8545da5e2e57c6d575b8da068b5ab1657d]
 │   │   ├── dani174.c1 [59e931aec2cd2637a481dace382ed6e40f26fda4e27214b938285b3864c0c271]
 │   │   ├── dani174.c2 [4f33534eeac7deceb13ece988f44241e1730c030fa55938940a2a0fac3224023]
 │   │   └── virus.dos.dutch_tiny.174 [5ba8e1bcbeb8053ad99af374dd1e0e8545da5e2e57c6d575b8da068b5ab1657d]
@@ -188,7 +187,6 @@
 │   ├── 249
 │   │   └── tinyvc~1.vom [349ca877b4db9fe92ff3f447bf4d86dfeba08836afb2e796b3f45b6769d2e3fb]
 │   ├── 250
-│   │   ├── 250.vom [c5829777ed47eb31ae8195e9901610984de01fe4fb6930465351a4bec5d47c1e]
 │   │   ├── dani250.c1 [58af922a7936215da314c105f8d266b2d4304625d7483a00c207a78666e1551d]
 │   │   ├── dani250.c2 [d180f2f4d6d0393fb59705afa047b8eacaab6c2d2d1b66c82902841bd6074e5d]
 │   │   ├── virus.dos.dutch_tiny.250 [e6eeaf7401a5c3a26ebef653ad402d3e6744380a2901c23e46affe559846488e]
@@ -446,6 +444,7 @@
 │   │   ├── l
 │   │   ├── m
 │   │   ├── n
+│   │   ├── o
 │   │   ├── q
 │   │   ├── s
 │   │   └── t
@@ -872,8 +871,10 @@
 │   │   └── deadbyte.199 [75971e6804e9635e22db9582035ba52cd96878c292c6b265da3ae1a6a504adce]
 │   ├── 219
 │   │   └── bat.deadbyte.c [6f78425802aee2d0a94ab12ba27800214bd10ce5c166e2be22555449bee4e7cd]
-│   └── 226
-│       └── bat.deadbyte.d [26238e404df6a5da8f4e8227921874e323541b24488576952aae5f12c71f76a1]
+│   ├── 226
+│   │   └── bat.deadbyte.d [26238e404df6a5da8f4e8227921874e323541b24488576952aae5f12c71f76a1]
+│   └── 250
+│       └── deadbyte.250 [74ec0bf2b239076d4bd15bd6a43bb0b609c7b14b948daa37e7ad52d54fcb9dd4]
 ├── deadhead
 │   ├── 0992
 │   │   └── virus.dos.deadhead.992 [a7aa25dbda8a3d151b3a747a97d1793157c78aab09ed494dcf3738cfbf0712ee]
@@ -1910,8 +1911,13 @@
 ├── diddler
 │   ├── 309
 │   │   └── virus.dos.i13.asterix.309 [1efd152ddf3ca7a7a5a8aec286f8d75aabe3c6c5d6fbfdd550790d12fe67e6ad]
-│   └── 337
-│       └── virus.dos.sillyc.337 [7fac287591003e0f5bb1227adc838082fb48ad090f3d29f4425ad4ebda92cae4]
+│   ├── 337
+│   │   └── virus.dos.sillyc.337 [7fac287591003e0f5bb1227adc838082fb48ad090f3d29f4425ad4ebda92cae4]
+│   └── 380
+│       ├── t1.vom [4fb37467154b35c3ab3a361fad3def7ee91b2e70e883932b785951ec96984f59]
+│       ├── t3.vom [cff600f4ea23f5bb8c52e2bfca942daf337b4c0ba99c5a31829fe1354cd605dd]
+│       ├── t9.vom [c1d08fd8732958721796cca2ae071fa630e54381be10396de136bf4432abf7d1]
+│       └── virus.dos.sillyc.380 [90f6162f9a42f3457501f8a4438373cd93088301684bf6dd2db521f6826bde9d]
 ├── die
 │   ├── 0352
 │   │   └── virus.dos.die.352 [064a86811bbc194b9f3fadb298968d9a2c25f03e29d1006871b59730b36ea4e4]
@@ -3142,10 +3148,12 @@
 │       ├── t3.vxe [0257a3ef01eb43097b41f9081bcf7a44b9a0da03c6876195ab8f46b0d988aa8c]
 │       └── t5.vxe [5c4d0c4478d1f311de70b310217cd6b08c697db9067c2b63edf0f956bb3fba0c]
 ├── drozd
-│   ├── 303
+│   ├── 0303
 │   │   └── virus.dos.drozd.303 [60c7827100e24ae3c9954f746aff700adee8d33780dabdcdc3619d682b63227b]
-│   └── 542
-│       └── virus.dos.drozd.542 [af8e4c123a585c3e7729f37981968d7054a094fde356be0d9dc3b6974cb37838]
+│   ├── 0542
+│   │   └── virus.dos.drozd.542 [af8e4c123a585c3e7729f37981968d7054a094fde356be0d9dc3b6974cb37838]
+│   └── 1567
+│       └── virus.dos.sillyoc.1567 [096e8a8886cc56baef9d10b931137aa158197ba481e1f5e1bf9b9a596a4bb58f]
 ├── drqumak2
 │   └── drq2.vom [a983632dae6ee5b83e06234da2efd22908856cee61ab0705a8d9a45e694850ae]
 ├── drug
@@ -3235,7 +3243,8 @@
 │   │   ├── 1761
 │   │   └── 2708
 │   ├── demo
-│   │   └── dsmedemo.vom [f5f528ea99b4bf228924b5dd12b864d1cc949fbce69049924e18b0247b0eca2b]
+│   │   ├── 2509
+│   │   └── 2643
 │   └── teacher
 │       ├── t1.vom [3a852faff38c404d0773d730efc85269db398f34b8c0b96bb1f4a90edb5751a3]
 │       ├── t2.vom [eefded9c20a2300cfa456c6f51366323b1f54f4587c4d6498b18b9e01bb0caa1]
