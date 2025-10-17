@@ -1,4 +1,4 @@
-Virus scanning report  -  20 April 2025 @ 2:52
+Virus scanning report  -  21 September 2025 @ 10:28
 
 F-PROT ANTIVIRUS
 Program version: 3.16f
@@ -20,21 +20,21 @@ u:\36b80a70ec4e4e4dd6dbc0b13f13c7e4b7357eb5  Infection: Antipe.2513 - Dropper
 u:\cabinfo.vxe  contains Antipe.2513 (non-working)
 u:\clratt.vxe  contains Antipe.2513 (non-working)
 u:\debug.vxe  contains Antipe.2513 (non-working)
-u:\EXTRACT.vxe  contains Antipe.2513 (non-working)
+u:\extract.vxe  contains Antipe.2513 (non-working)
 u:\getinfor.vxe  contains Antipe.2513 (non-working)
 u:\t1.vxe  contains Antipe.2513 (non-working)
 u:\t3.vxe  contains Antipe.2513 (non-working)
-u:\TASM.vxe  contains Antipe.2513 (non-working)
-u:\TLINK.vxe  contains Antipe.2513 (non-working)
+u:\tasm.vxe  contains Antipe.2513 (non-working)
+u:\tlink.vxe  contains Antipe.2513 (non-working)
 u:\unp.vxe  contains Antipe.2513 (non-working)
-u:\UUENCODE.vxe  contains Antipe.2513 (non-working)
+u:\uuencode.vxe  contains Antipe.2513 (non-working)
 
 Results of virus scanning:
 
 Files: 16
-MBRs: 1
-Boot sectors: 1
-Objects scanned: 18
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 16
 Infected: 12
 Suspicious: 0
 Disinfected: 0
