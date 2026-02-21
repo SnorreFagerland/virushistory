@@ -1,6 +1,5 @@
 Detections not in collection (yet)
 
-3apa3a.C
 ADI.1444
 ADI.1551
 ADI.1646
@@ -259,7 +258,6 @@ Barter.657
 Barter.678
 Barter.687
 Bashme.6570
-Bashme.6771
 Bashme.6785
 BatWin.A
 BatWin.B
@@ -278,10 +276,7 @@ Belka.1100
 Belka.1177
 Belka.1293
 Belka.5034
-Belka.686
-Belka.771
 Belka.780
-Belka.820
 Belka.854
 Belka.857.A
 Belka.857.B
@@ -289,7 +284,6 @@ Belka.862
 Belka.876
 Belka.886
 Belka.893
-Belka.915
 Belka.947
 Belka.960
 Belka.973
@@ -1845,7 +1839,6 @@ Leapfrog.516.E
 Leech.1024.D
 Leech.1024.J
 Leech.1024.K
-Lelegur.349
 Leprosy.392.C
 Leprosy.615
 Leprosy.822.A
@@ -2322,7 +2315,6 @@ PS-MPC.Intended_31
 PSV.354.B
 Padded.1589.C
 Padded.1589.D
-Palm/Liberty.A
 Pamy.2000
 Panek.1939.C
 Paraguay.2750.B
@@ -2658,8 +2650,6 @@ Squatter.7310
 Sracka.1579
 Srx.2304.B
 Srx.2304.C
-StalkerX.1241.A
-StalkerX.1241.B
 StalkerX.580
 StalkerX.642
 StalkerX.650.A
@@ -3402,6 +3392,10 @@ _695
 _738
 _768
 _781
+
+
+
+
 W16/AEP.1127
 W16/AEP.1129
 W16/AEP.1130.A
