@@ -270,13 +270,13 @@
 │       └── eleet726.vxe [0937e063a23bdb7c140b5c5871121aadfcd07fa1753567151f3958aba7baf4c6]
 ├── elf
 │   ├── 2647
-│   │   └── Virus.DOS.Elf.2647 [65aa69cc5de7869daad542ff76af4b0b829ab09ca82386ab0e2a852632ea005f]
+│   │   └── virus.dos.elf.2647 [65aa69cc5de7869daad542ff76af4b0b829ab09ca82386ab0e2a852632ea005f]
 │   ├── 2731
 │   │   └── virus.dos.elf.2731 [ac7bd0d75f394ad38239967665abfddd81029f80f19d5913649b099d351f769b]
 │   ├── 2815
-│   │   └── Virus.DOS.Elf.2815 [472d318cc31395a9c678fe615f3abb6d235707cc58fc4b0e63785386689a9d4c]
+│   │   └── virus.dos.elf.2815 [472d318cc31395a9c678fe615f3abb6d235707cc58fc4b0e63785386689a9d4c]
 │   ├── 3290
-│   │   └── Virus.DOS.Elf.3290 [4160844480170eb15fb6c6a07f369ba6e6ed39ac844a9a6cef9476fd6a8b0cd0]
+│   │   └── virus.dos.elf.3290 [4160844480170eb15fb6c6a07f369ba6e6ed39ac844a9a6cef9476fd6a8b0cd0]
 │   ├── 3400
 │   │   └── virus.dos.elf.3400 [5b79e440437bfccacb391e7b67919b86d468f9f7debae58907b91ba2772be245]
 │   ├── 3458
@@ -373,8 +373,10 @@
 │   │   ├── t3.vom [4d8bdd61fb10568772153aaa3abd0f25fe90d087fb3b6854a4de9ac291d35489]
 │   │   ├── t5.vom [0c9907648307fb3477c0cbd71f8574b8c5957e1cf1d7bc7303f89d4374ebffb5]
 │   │   └── t7.vom [cd5cf20fc4a5e028e21169efbc5b864976b117a11bc1aebf346f06a1c79dd584]
-│   └── 432
-│       └── virus.dos.ems.432 [f33f60c61bd27ff6385cfd9a9aa2fb377de9fe6a3aafa858fe3c1726ddac0cf9]
+│   ├── 432
+│   │   └── virus.dos.ems.432 [f33f60c61bd27ff6385cfd9a9aa2fb377de9fe6a3aafa858fe3c1726ddac0cf9]
+│   └── 433
+│       └── virus.dos.ems.433 [0ba584bd1b5830453dc8291598872be23cbd57a7450097078e0a841cf264c2a6]
 ├── emme_sml
 │   └── stonehea
 │       └── 1490
@@ -980,11 +982,11 @@
 │   │   ├── b
 │   │   └── c
 │   ├── 423
-│   │   └── Virus.Win16.Lucky.423 [031c988a918447cdac01a1ecceef727a48b96bac29493aad3c984a2cb9d4c378]
+│   │   └── virus.win16.lucky.423 [031c988a918447cdac01a1ecceef727a48b96bac29493aad3c984a2cb9d4c378]
 │   ├── 440
 │   │   └── exe-440.vxe [dea561954086d2263b6f8364ec6424ed5e68ada1b7ea167ab69b88ad42be9d06]
 │   └── 481
-│       └── Virus.Win16.Lucky.481 [47bbb9c24aee24883eb2e231f2e7c14b0f5ad20deb2ca21caef4ff4ec6b769d2]
+│       └── virus.win16.lucky.481 [47bbb9c24aee24883eb2e231f2e7c14b0f5ad20deb2ca21caef4ff4ec6b769d2]
 ├── exemplary
 │   └── 586
 │       ├── a

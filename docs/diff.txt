@@ -215,10 +215,8 @@ BW.882
 BW.901
 BW.923
 Baba.386.B
-Babec.B
 Babec.D
 Babec.E
-Babol.2048.A
 Bach.3544.B
 Bach.3544.C
 Back_Orifice.123656
@@ -257,8 +255,8 @@ Barrotes.1310.T
 Barter.657
 Barter.678
 Barter.687
-Bashme.6570
-Bashme.6785
+Bashme.6570 *
+Bashme.6785 *
 BatWin.A
 BatWin.B
 Bccbug
@@ -2718,26 +2716,21 @@ SubSeven.backdoor.v213.unp
 SubSeven.backdoor.v21G
 SubSeven.backdoor.v22b
 SubSeven.backdoor.v2_0
-Suck.448
-Suela.1042.A
-Suit.1167.B
-Suleiman.692.B
-Suriv_1.897.D
-Suriv_1.897.O
-Suriv_2.1488.E
-Swedish_Boys.459.F
-Swiss_Boot.E
+Suela.1042.A *
+Suit.1167.B *
+Suriv_1.897.D *
+Suriv_1.897.O *
+Suriv_2.1488.E *
+Swedish_Boys.459.F *
 Symbi.186.nonviral
-SysLock.3551.G
-SysLock.3551.J
-Syst.1630
-Syst.1739
-Syst.1744
-Syst.1754
-Syst.1764
-TEAPA.1609.A
+SysLock.3551.G *
+SysLock.3551.J *
+Syst.1630 *
+Syst.1739 *
+Syst.1744 *
+Syst.1754 *
+Syst.1764 *
 TPE_demo.1733#TPE
-TaeKwonDoe.101
 Tai-Pan.666.B
 Tai-Pan.666.E
 Taiwan.677.B

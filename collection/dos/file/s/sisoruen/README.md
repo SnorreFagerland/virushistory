@@ -6,6 +6,8 @@
 │   └── virus.dos.evasor.394 [13d460d2a3a5e288e789a0079ca3a738c277e352da0ce16765885a571c2a44be]
 ├── 426
 │   └── virus.dos.evasor.426 [5fefd2b3d22a5412a44e75fa82ab884356091ab218411ee29e33d35a2c486538]
+├── 448
+│   └── suck448.vom [ff3f81a2ef6ae2add7c0369ace457fdf2621abddce17fc188d38acc3a6703c6b]
 ├── 451
 │   └── virus.dos.sisoruen.451 [fb47c00d89617bccba90475028baa252ca7fbb523653d7a6f7749fe5c07955f6]
 ├── 453

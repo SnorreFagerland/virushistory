@@ -187,8 +187,11 @@
 │   └── 13418
 │       └── virus.dos.hllo.bestia.13418 [07c3a351c9e07e0c9fb8cc1af7e965b9deeb7d4bbb8d802521fb0b157bbdabc8]
 ├── bigbug
+│   ├── 8820
+│   │   └── virus.dos.hllw.bigbug.8820 [f78d0427cc93337ce842d1e4dc23134db0ef1235cfb7dd0bcd4d698cca292e4a]
 │   └── 9500
-│       └── virus.dos.hll.bigbug.9500.a [342a8f46f72dff3853c932e5e9980d965ca0b8eb902c5fe16ad4313ae9752e93]
+│       ├── a
+│       └── b
 ├── bigc
 │   └── 12224
 │       └── virus.dos.hllo.bigc.12224 [2da57b5b8fd31011907bfb705806b642e86b3e89395363fc3742cd3d0f73b081]

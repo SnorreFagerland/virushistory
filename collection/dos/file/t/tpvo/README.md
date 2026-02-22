@@ -36,6 +36,7 @@
 │   │   ├── t2.vxe [a0f40e5365570e3e235fe870b654f27241785c44c02b2005afdd473e449455c4]
 │   │   └── t5.vom [737986d6e4a454f03ae1b672c87ed7e59052c17124be59d669b847bc8f989c21]
 │   └── f
+│       ├── a83dc57418999862eb83f903bb8998a2c70ca8f74f3bbaf04f4ceba1144a7319
 │       └── virus.dos.tpvo.pitch.1329.a [d11bad1b9ac19e0c906ea70f9d381bbbe1c872a32b234f99e595bdbaa14f6280]
 ├── 1774
 │   └── ckeisc2.vxe [8d80d12c8a027230c7379063596f1ec4886bcabe566424f4d83c21cf6ceb1a22]

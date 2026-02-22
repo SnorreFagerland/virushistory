@@ -557,6 +557,24 @@
 │   ├── t3.vom [0b87e5bbe0b678fc76a074cc19dc556c23caccf9cacbf4b509d23a12e9562f88]
 │   ├── t4.vom [d04b8a136cb873f20ec0f8d9059575bb2abfab743c5200e90ebc57b25d57d5aa]
 │   └── t9.vom [768d337f91f6d2c9b1d6314d24afbe5716124c54fcddb24e26eee6af37ecb018]
+├── ceyda
+│   ├── 6574
+│   │   ├── CEYDADEM.vom [9416fbd26be90aa73e90d5f61637a3597b82a0b4ae73a282a9331562a0438a55]
+│   │   ├── USERS32.DLL [e6a342565765e878f66df99db881eb8769e039df0f888a83843adb00fbdd96c9]
+│   │   ├── ceyd65740.vom [071fce99f18eacfe0057952e5000b5b530316c753cf39ebb03f05fa482a146ff]
+│   │   ├── ceyd65741.vom [1fd40f317f64c05d0d05d56975dde8111b67f768e94eda75e97cfbc5192d5710]
+│   │   ├── ceyd65742.vom [5add7dc1f5b427d287eea1349a7196ea88876b5cd5e6ba3ca1fb5789c2cfd774]
+│   │   ├── ceyd65743.vom [6ec3b59317b373753ac702a2203822039b4923b4752606d26072a6abfab0f465]
+│   │   └── ceyd6574_4 [49bc676e4eddb02e982bbed53ca9a03d167b364fbafab87991a80582cafb4da7]
+│   ├── 6585
+│   │   └── ceyd6585.vom [a56300f3e282a6694981435b204719c0505a797475f4f1ceb21887372a063660]
+│   ├── 6953
+│   │   ├── SEXY_JPG.vom [53bd00d798561892a612692c277aaa11bc72d0ed074465f43e2f084faad16500]
+│   │   ├── USERS32.DLL [625d716d4d464488f572703db64ac444ed0d2c393538abbd552995ca22a28d31]
+│   │   ├── cey5693_0.vom [4ba96085974107a8a790962ce3e884382ed20ef6fb97969ed977b4e5751e7f64]
+│   │   └── cey5693_1.vom [7103a510bd88909684b1a06ef1ee7bf91ad74396a887dee07e4cc54f0d630481]
+│   └── 6966
+│       └── ceyd6966.vom [b9113296162361f32da4114d0112f5ff64c7977eff846a80089691c57ac374fc]
 ├── cezar_ii
 │   ├── 346
 │   │   └── virus.dos.cezar.351 [acee3606ce2da4071d2f3b18c1af0fbfeb1a2029ec4bc3cdb2d698f1b60ac61f]
@@ -1682,6 +1700,9 @@
 │   └── 1289
 │       └── a
 ├── codewar
+│   ├── a
+│   │   ├── arethree.vom [6b5a9dd99601aabdc546e3d738e7cea1a026429e0fd978839884ad5f97a63b46]
+│   │   └── arethree_a.vom [159988e0cd3cbf444e9919db3fb5176e243795e2e15d85731fb3a4f2bf041afe]
 │   ├── b
 │   │   ├── are32048.vom [85c00a92ef00f2bbeece474d08677dfd157f7814869c489c3c6411fc2d724061]
 │   │   ├── grep.vom [b833e2a285d3782a67f26a89aa8fe013e0e9531c527771f18ecc392d8b916ebc]

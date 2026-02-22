@@ -3,7 +3,7 @@
 
 ```
 ├── a
-│   └── Virus.Win16.StalkerX.650 [f8d1a30cea478e702c9f409bc88125247f8955c5f6e2c7709fd809d22d5dfd5d]
+│   └── virus.win16.stalkerx.650 [f8d1a30cea478e702c9f409bc88125247f8955c5f6e2c7709fd809d22d5dfd5d]
 ├── b
 │   ├── vkit650b.vxe [7a9a41061ec0a344824971715b739cb85c9c8cec730aede9ec4e1b7d21baa812]
 │   └── win_vx3.vxe [e09bc52d2a8e670dff4c3326f52ba079c97981d818cb6b495b7b685f4f5ce7d8]
@@ -15,7 +15,6 @@
 │   └── vkit650e.vxe [e69d5de80a20a18a355dc6046d0013b44b7adfe71f6b2d4f714f36a4b4c50869]
 ├── f
 │   └── vkit650f.vxe [9f20b7b810d782ac8bbe05edf854d492cd365138352b7a6df4344df69e928b16]
-├── f-prot316f.txt [fc42f060b182829b63d04e4a472819bd064181444da00d914bd45f2d8f93f55e]
 ├── g
 │   ├── stx650g.vxe [a24757ca4d0bbc9e91de6fc4551e992bc27eea5b8b0e0997860499b7b894df11]
 │   └── vkit650g.vxe [d3b301c3a7475de3200aeaf6a328943f439f3f326932d1c7078ae578f0094c2f]

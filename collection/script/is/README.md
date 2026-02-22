@@ -4,7 +4,7 @@
 ```
 ├── energon
 │   └── a
-│       └── virus.vbs.energ [99cfedf5ad9d337f8d91452205eb867729621faca2a65260586a3ee7fae3880b]
+│       └── virus.vbs.energ [0a6b31856a987c310fa9ff3cbcba22b10a7d9718b3849965cab59deef0e641cd]
 ├── ultras
 │   └── c
 │       └── ultras_c.in [9897b63c2cfd773c3fa472058736ff58469719d3563f1cbb40737324452f8e4e]

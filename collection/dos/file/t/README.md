@@ -323,6 +323,7 @@
 │       └── Virus.Win16.Header.385 [907855ddaa7ac96ec033e8f4638eacaa8529e5d0478b97895be7184b9d73f4d8]
 ├── teapa
 │   └── 1609
+│       ├── a
 │       └── b
 ├── tease
 │   ├── 0840
@@ -1442,9 +1443,12 @@
 │       ├── trace838.vom [17bd46d78c120b572e749b08fcbc278f81101fd83a489f7c0e6852f7c86f5622]
 │       └── tracev.vom [06b75018d509229747a09979a5bcfb3bb7099de4ba41995761b9ea6104145a0c]
 ├── trakatra
+│   ├── 1430
+│   │   └── trak1430.vxe [ba3f4a9c978942eb77f3f95877b8b973ec4c1f20d8675f5e029882e64f2cd2a0]
 │   ├── 1432
 │   │   └── traka_14.vom [082c958c201b8078fb8682931a04a27c47532039dc4d6f3425b87a224a7ca9b8]
 │   ├── 1471
+│   │   ├── a
 │   │   └── b
 │   ├── 1473
 │   │   ├── t1.vom [78af9bc04c9c4ad800660515ae6e3ed74d3a371726c09f78e917bc1c83d352a8]
@@ -1507,6 +1511,11 @@
 │   │   └── virus.dos.trance.730 [6f48f1c8f519cc4b0bfcdadf779780fe1602520f9f53a39f32545af0643339c6]
 │   └── 2013
 │       └── intenuke.cc [9bd1804cd8ee791c6ce302cab1a4d1b5acafe239fb37e890eb1c9ee071095f93]
+├── tranquilo
+│   └── 567
+│       ├── t1.vom [d17d89f7162e188e0f47727d7338dc46a63ef4e33b52a9b5eee5a87b72ef6fae]
+│       ├── t3.vom [3d1b5b52263e0ecbfeb33167f3ff95993999db29d3cb0bfabacf3b819bf1e284]
+│       └── tran567.vom [beeff638a56dc2458e73fccfb2c4a135599e3f503f70c3111dd10792c330fe37]
 ├── transmit
 │   ├── 1044
 │   │   └── virus.dos.transmitter.1044 [b2303264a8b9621ac44252c3f1c35b114b636f1ec40e92e7c7bcd58d9fbd6b96]
@@ -1602,9 +1611,15 @@
 │       └── d
 ├── triamber
 │   ├── 1408
-│   │   └── 1408.vom [6f092a06436664928b593a355b8dda08d69e1648e40a673743293a7f6c4a1bce]
+│   │   ├── 1408.vom [6f092a06436664928b593a355b8dda08d69e1648e40a673743293a7f6c4a1bce]
+│   │   ├── tri1408.vom [99283deb0bfde164a84124cd328456a8a3286739e6d958746350acf579500264]
+│   │   └── tri1408_.vom [c6c92b4d8f2101ec4530d5ca56a91e616e815fdf2d585db6761db9a37125c04a]
 │   ├── 1430
-│   │   └── Virus.DOS.Amber.Trivial.1430.a [df7d241e577cad940fea1565dfecedb7d74b206f68efa1c7bb51cabe3a010fec]
+│   │   ├── DUMP32.vom [1e2651d1c42357016be98d21974472a0487db8fc948a424c9273df1fff7ef5d0]
+│   │   ├── Virus.DOS.Amber.Trivial.1430.a [df7d241e577cad940fea1565dfecedb7d74b206f68efa1c7bb51cabe3a010fec]
+│   │   ├── command.vom [2c5025a1411eec2826f4d9e8311e4c07d18bad3dc40263f46034b90b6417d470]
+│   │   ├── t1.vom [efb48f712ee88ad467092b071e18f7c6c4139fea5d93ff2dca8607743750fceb]
+│   │   └── tri1430.vom [3fda3a9e0a190ddc0e08d613d105aed5ef071399dcea8f3b2f0bbae717e026e9]
 │   ├── 1432
 │   │   └── Virus.DOS.Amber.Trivial.1432 [afcfb2c75f9ec67768a2276194693aeaa094bd577ec2e244af524a4e09275dc9]
 │   └── 2724
@@ -1723,7 +1738,8 @@
 ├── tridento
 │   └── 320
 │       ├── a
-│       └── b
+│       ├── b
+│       └── c
 ├── trieda
 │   └── 851
 │       ├── a

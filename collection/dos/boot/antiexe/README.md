@@ -10,7 +10,6 @@
 │   └── antiexe-c.boo [7aeea88dc836de8822b8baa3b94f7b86104e4609f1d8c88e27afcbaceed20c88]
 ├── d
 │   └── antiexe-d.boo [c8a2ecfcab8047d447893a5e80580b1b160b9f3713b18c9b2ae01a7f7c33c7c1]
-├── e
 ├── f
 │   └── antiexef-0.boo [c184cdb942cbcaa49bf53d289562a00128691bd2765989f187dc1602a710d3c6]
 ├── g

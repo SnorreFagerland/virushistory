@@ -398,8 +398,10 @@
 │   │   └── bashme_3.vxe [97692148204c4a0d86e7bd24e84e749cdc39d652f83efba96baee0e8b3892225]
 │   ├── 4984
 │   │   └── virus.dos.bash.3241 [5f958f728f5dff593e4817f18c6cc2ca0292d95e105f466c02637036f5772bd4]
-│   └── 6698
-│       └── a
+│   ├── 6698
+│   │   └── a
+│   └── 6771
+│       └── bash6771.vom [5b9f477381f24ad4b9529d24c45db06d0d1bfebd96ee77f7ab0500b9925d226a]
 ├── basho
 │   └── 431
 │       ├── a
@@ -617,13 +619,86 @@
 │       ├── a
 │       └── b
 ├── belka
+│   ├── 0686
+│   │   ├── DUMP32.vom [2040fd8f6e9853ef1c4d0640e0fceaf96a390ec497fdcb357d47698b24f7f5a8]
+│   │   ├── LWM.vom [b47c3fd7b0ab8ceb5d99fa3a2e82ff9a3fe1c55b42968f0d1dbd95160048c5cf]
+│   │   ├── NETRUN.vom [875ea2a21ded11017daaf6d50d88fe57a3868d8cb08aebfd6ef24bb5434096fd]
+│   │   └── belka6860.vom [b2fef71f2b6404a4b6948d8ef22681b4b766b1fc102622ba0cee682259292559]
+│   ├── 0771
+│   │   ├── belka_771.vom [39b166145b88395961fd806fb086f7e96b5bde1ddc908bc76a08458156c12b50]
+│   │   ├── t1.vom [9aaf5fcbdb7bd57c4920939ce47084bd1394311346e08c03ccf76f0bf27e9987]
+│   │   ├── t3.vom [cc4327d42d834c16344562e14398cb609f6d3cc977251e5ca04e7e6bde6c6ae4]
+│   │   └── t9.vom [2265d11923cd28de29fb016294a373be30af18f4a76403d590666b53074f96cc]
+│   ├── 0820
+│   │   ├── belka820.vom [64251ecb21c9aed6aa54a5fd0cd95aaebf5e30032e7eab23100ca4f832db83e5]
+│   │   ├── t1.vom [20c697f657bea41e4a7a1496f628c570dadcbcf24ed6a31dd597080c3fb9ec5f]
+│   │   ├── t3.vom [68412345414784c4fc9a62a82de9a38a1479dd89941455fd450b822781a10bef]
+│   │   └── t9.vom [4d96671bf5225b75ede087ceddbea140daf80edb3701655947853a87a5d9181f]
+│   ├── 0879
+│   │   ├── a
+│   │   └── b
+│   ├── 0895
+│   │   ├── a.vom [efb64d500ead38a3d6146e27f01ae47e122489335266ad7448f4cea53233dfa1]
+│   │   ├── t1.vom [cc89e1a621e11c480fcc42dff8277b6d10d1531f131eba7c1b8f09b4100445f2]
+│   │   ├── t3.vom [98586ef1e48f3be1f81ed0966e0ef5c6f4c01d62c03f31028dc0db26e9389170]
+│   │   └── t9.vom [11c469c3cb1cf9da42203a3a66a76c49753582a9d1319d530ff3a8c5bb24d5cc]
+│   ├── 0908
+│   │   ├── a.vom [43d676a8f2440ed6eb33e877a57a07b9e6c24bc839c3a8b8f23eed6a8d37ad6a]
+│   │   ├── t1.vom [ca8180141605feddd429ffcb789f9af23d83cd426ae5fd775e668f78acd2e285]
+│   │   ├── t3.vom [2ecd6476e8c6df3914d9c0b6e55b7a47b6f26463ef34898f46e9812d5e50e8dd]
+│   │   └── t9.vom [04f5a35cf0a952fd81ebcdf36886340f703e986548b7f6d768be7868e6a2f8f6]
+│   ├── 0913
+│   │   ├── DUMP32.vom [3525924e29deb30285f8b88dcd2f7b169a4881f7e031c82531ba1185a633878c]
+│   │   ├── a.vom [4ed0c70ccc0da87c3a4ec911bb363bad6e4c1f67c95b401b37dee37ce2a0e174]
+│   │   ├── t1.vom [a5ede9e72290fc5b0e142f7f4752146a671de46bbdae5e2a32863127c615fa12]
+│   │   ├── t3.vom [6b32f44b88657b591562b296f1454ceef9a1c0f3b8f6379ccc161d346bf64285]
+│   │   └── t9.vom [20b91df548b02ce27411a9bdac27d27c7eaa3c1d9def9302f1a999b6a38e7d30]
+│   ├── 0915
+│   │   ├── a.vom [80756aa5d3e3eebc555d16a996b4ad9afb4afc06f847cf9416728bd5e2cb76ea]
+│   │   ├── t1.vom [25a3e933a8a22b741cc2bc72887ecc88f1ccb22f1f794f64f2cdd97f7529118d]
+│   │   ├── t3.vom [c79f9dc3bb7007f9d0d0c04a6d69d274a318eaa6eb44d4f8f5ba7301b204a9d1]
+│   │   └── t9.vom [ee6a443209b2e6c553318b39b985f06771489798d3459216a3349de7ab6a42f6]
+│   ├── 0918
+│   │   ├── belka918.vom [0d6d2c77185b2d5d3c35efef84985aa2d748790d10ca79040316a025e39d4656]
+│   │   ├── t1.vom [c2ab6d70341d1650ea924e2f14d3857e9e5d081223e741d5c5bd98d83f8b2b32]
+│   │   ├── t3.vom [2a18b47766e1091d3507e2d1af30866be9e2fa5cde5a1881788663a0f2888d3a]
+│   │   └── t9.vom [2f7bca8fc543bd097af9a05cf13524fa20b17318797404a11790332742c846b2]
+│   ├── 0945
+│   │   ├── a.vom [2d9bf102630b223270a1d113deb7130e4462d7a152ce5fb0dd021ef1b4339445]
+│   │   ├── t1.vom [57acd0138a7cdc071e7044e15fbf0c7591275c81507f959baf9637e8cac4fa83]
+│   │   ├── t3.vom [a0161939c1b6a2c47376c66357954fab41e37881bd7fae393305074b53aac1d0]
+│   │   └── t9.vom [f3601006a612e255b3c9bbd3025143be90393e644164f173aeb22f34cf1e0d67]
+│   ├── 0958
+│   │   ├── belka958.vom [17a6f9a67875f3748e1018770d855f8a7fcaa079e9199c635abe1152d7375760]
+│   │   ├── t1.vom [3c5e7ef5d72a61f342a80c0f15669fd776882734b97367728ad867683a7e491b]
+│   │   ├── t3.vom [dab516168200c36a8027d95e17a073252f593227a98d70f50ea905885d3876af]
+│   │   └── t9.vom [7efc79c76f37381586dfd01a74643378e71f0e934a2de30e8fa4410f3b0f62eb]
+│   ├── 0970
+│   │   ├── a.vom [730369151a24c18a6c755768127b649a27882fab4a56c46fef212e8d2b3e26c5]
+│   │   ├── t1.vom [6e9898f647b843dd3f91b8cdc523a33704958f4fa290efb1a64da4a8be9187f3]
+│   │   ├── t3.vom [0b92c4017e40c8fab1831afb850fb3c31079e2cf20ae06f387e30ae9e2c5ae8f]
+│   │   └── t9.vom [07cfece6af19bba97bf509b37ad87bfb42511f685d967edec68ae27e00d54ce9]
+│   ├── 0972
+│   │   ├── a.vom [df2dcab2cbec511300a6be70780d78de9504e822f8609fa4ae4bd7cafe8077ea]
+│   │   ├── t1.vom [b04accaf94ffb8744caded54867b8230cb932eca53e0ecdef585333580ae09f2]
+│   │   ├── t3.vom [8089ba77a069e6b3c0519edfea18cfadeb820ec7b7877be13113748d2c607533]
+│   │   └── t9.vom [638c08f010d4a00a3d4d9fd02437c0b15f0358375cedf7b49358587b2acebb47]
 │   ├── 4187
+│   │   ├── DUMP32.vom [8cf2bb35f1d1dcee97c971f582b3b43e987a87a46877f60467a935fac078f11f]
+│   │   ├── LWM.vom [4eacaebe193bbd84a7dbe6ff75e70b0d04a7dd50d3db4522df79b52cf87c6daf]
+│   │   ├── NETRUN.vom [3822d927604c5b67fe066a65f2abff71a9e76f8a3176d21cacae0df36896406e]
 │   │   ├── belka_41-001.vom [a2f5c7c76ff0a3b3c28b870fc782789a42ec56abf92fedbfcd6c861c272b3369]
 │   │   ├── belka_41-001.vxe [1e1dc20bdb2a72528559139fc4ec45bfff6c937dadd82455aaae348802a90d18]
 │   │   └── belka_41.vom [151645664a3fa8223db1fa6b76ef76ee0e18322e836120c7100e22aafd14898f]
 │   ├── 4255
+│   │   ├── t1.vom [2594acd9151a8a9714c467769b276d0e798cfb649f1f5ae2aa5a428980ead797]
+│   │   ├── t3.vom [7a40cb5c3d8e801d5215dafee45e57edf531ccbb8300072390bd02e807c1e72d]
+│   │   ├── t9.vom [3918d7c82951b1b12510bfbf11af6d5350500711543c29318e7138ecd5e809be]
 │   │   └── virus.dos.vcg.a [cd56dfd83b2a229e7f4c4e19d9c1f6587fe8353ef7119c4ed44d6f770cb0d14e]
 │   └── 4291
+│       ├── DUMP32.vom [2a7297aa431111aa2e11719d0508e5aca916639d78ab700f0df18daf6206a333]
+│       ├── LWM.vom [299615fc641d79ef6f821360073e92f31cfa795350def577377e0854955ffd03]
+│       ├── NETRUN.vom [7844dd0858635c9f792dd1517371aac0554871c0c10bdd18385dc5e96722dade]
 │       └── belka_42.vom [95c737f87e167e47e907ffb7d5c9b3cb15ebaaea69a9b4a1904c1ab1ffa5daf3]
 ├── bell
 │   ├── 286
@@ -993,7 +1068,7 @@
 │       ├── c
 │       └── d
 ├── blood_fire
-│   └── Virus.DOS.BloodFire.1000 [247fb527159d8dd0b0fca603b272c1259a22a683987aad9552cc1578e6610fa7]
+│   └── virus.dos.bloodfire.1000 [247fb527159d8dd0b0fca603b272c1259a22a683987aad9552cc1578e6610fa7]
 ├── blood_monday
 │   └── 968
 │       └── virus.dos.bloodmonday.968 [6170a56888b9aa655e5368372c92074e2bcd340516983cc706528d27d90f15b7]

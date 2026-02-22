@@ -11,6 +11,9 @@
 │   │   ├── mode.vom [e8e48fb6c88dfc44fd653998badf6cb08e02c4ec50492df31f2265ff997728aa]
 │   │   └── zoo.vxe [b318c12fe60d3935bf5f1bfca27ced0f4d407424fb4da7207dab6b516589f97f]
 │   └── b
+│       ├── ha3515b.vom [de689f12350f80d6fa096c95bc263cd4c6708f30b8ff31928bbb9f1b51c99782]
+│       ├── har3515b.vom [a7376d3405b831eef0db5acd968f01aa02ba211d181e8d6c84a38df61340fe7f]
+│       ├── har3515b.vxe [06cca3ef3ce682a4f73acbf1cba4d6386fd8d75e765826abd317317426368dc1]
 │       └── virus.dos.harmware.3483 [f2eaead8f3af3f26bf632265750f05246d6412165b9306a6b9e4beabf8ab27ba]
 ├── 3716
 │   └── virus.dos.harmware.3716 [a7680dee0c5c42402cfecb30a99b948f4445fc184b86014a30a667fd1b61beeb]

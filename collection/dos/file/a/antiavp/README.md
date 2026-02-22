@@ -3,7 +3,8 @@
 
 ```
 ├── 0615
-│   └── Virus.DOS.Ahet.615 [3d9f1fa58a9b80f2d1b6733b7306f7794e946ba51be9be70478e2b6883bbaa8a]
+│   ├── Virus.DOS.Ahet.615 [3d9f1fa58a9b80f2d1b6733b7306f7794e946ba51be9be70478e2b6883bbaa8a]
+│   └── antiavp625.vom [9e25afec76c6160f04f4c99eb7efcab133feacf754acd4ed1e22ae8d2058b321]
 ├── 0819
 │   └── virus.dos.anti-av.819 [a466ba0d9a168e19433e080d7bed0b188511b52859c8625bcb192ac5f4912071]
 ├── 0901

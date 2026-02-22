@@ -234,12 +234,13 @@
 │   └── 1113
 │       └── wci05833.vxe [894352212781586a82af582bb3cec014d9653f66ba42c6ff2e4d8d3d71208d71]
 ├── adt
-│   ├── Virus.DOS.ADT.1778 [583f751bb276a07f6d00234eae1cf8c97f0e4b038fc9a2df18a86a4c3e70647e]
-│   ├── t1.vom [a99a45f08bcedeb7897ada360404c98e1f6f065784ac5f5880c468c1aae33cbf]
-│   ├── t1.vxe [001c4b806d82dcacf668e6c45eb502d0d6b61582a46666cc52725e5b2c884fb4]
-│   ├── t3.vom [71e97e59be216f6c1be56d23092654f2459ed01be8ed9afa581a9fbec2687f93]
-│   ├── t3.vxe [153df7ad0e8f551989ccb0d0d071071777027b3a4e88df987cd16f75c222f85c]
-│   └── t9.vom [aabf046aa0a9055014706c002fc14af69df9eb2e459630b409316e051ff7eec7]
+│   └── 1778
+│       ├── t1.vom [a99a45f08bcedeb7897ada360404c98e1f6f065784ac5f5880c468c1aae33cbf]
+│       ├── t1.vxe [001c4b806d82dcacf668e6c45eb502d0d6b61582a46666cc52725e5b2c884fb4]
+│       ├── t3.vom [71e97e59be216f6c1be56d23092654f2459ed01be8ed9afa581a9fbec2687f93]
+│       ├── t3.vxe [153df7ad0e8f551989ccb0d0d071071777027b3a4e88df987cd16f75c222f85c]
+│       ├── t9.vom [aabf046aa0a9055014706c002fc14af69df9eb2e459630b409316e051ff7eec7]
+│       └── virus.dos.adt.1778 [583f751bb276a07f6d00234eae1cf8c97f0e4b038fc9a2df18a86a4c3e70647e]
 ├── aep
 │   ├── 0626
 │   │   ├── a
@@ -356,7 +357,8 @@
 │       └── virus.dos.awde.477 [653282a597d4710135eee7abd687ed5d62f9fce9ce9a99162bda853a75470410]
 ├── ajvm
 │   ├── 1650
-│   │   └── a
+│   │   ├── a
+│   │   └── c
 │   ├── 1726
 │   │   ├── 6a03e92879d0149f56adb4c5d2d200962183d6075ea076835bd788dabf285bc8
 │   │   ├── 7a7e181e7d05685032bd6605bef0494ca38feeef610d60346745148409d0e969
@@ -414,6 +416,7 @@
 │   ├── 506
 │   │   ├── a
 │   │   ├── b
+│   │   ├── c
 │   │   └── d
 │   ├── 575
 │   │   ├── a
@@ -529,10 +532,10 @@
 │       └── b
 ├── alma
 │   ├── a
-│   │   ├── DUMP32.vom [c330e194e7c10d99ab366cc970db118a68e0c062890451c6337fba24c06e8484]
-│   │   ├── LWM.vom [afee168c69d7ec5bea2f5c8c09e3fbafab58f544c924361bb3997cd62e771095]
-│   │   ├── NETRUN.vom [bb75b75ef4378e631ced0938943833001a40c68acc18f75b1a4373839aa798d5]
 │   │   ├── alma8397-0.vom [1376ccf7f0f5d44dc688c5c096e8ae8156489f8fcabcd6f3997f2d5d77cdc579]
+│   │   ├── dump32.vom [c330e194e7c10d99ab366cc970db118a68e0c062890451c6337fba24c06e8484]
+│   │   ├── lwm.vom [afee168c69d7ec5bea2f5c8c09e3fbafab58f544c924361bb3997cd62e771095]
+│   │   ├── netrun.vom [bb75b75ef4378e631ced0938943833001a40c68acc18f75b1a4373839aa798d5]
 │   │   ├── t1.vom [3790f8ceca4237a1018bfd3357096b9bd414cdd91d5af6661a7dc8c17c2a41d3]
 │   │   ├── t3.vom [9706e5665ddd7e8ccce5cc1644bfbab4497e943deb34fc5ddca4b3c2f5d88af2]
 │   │   └── t9.vom [cc80ac6dc8a72095bc299e2c94e2f48ff2e8e5d5d6548c7f93f1243b6966360d]
@@ -588,6 +591,15 @@
 │       ├── almav-g-0.vom [770a8f4843693656eea60143efdd00d75b8bef5d9bb8dbbf77b47a70283b0e66]
 │       ├── almav-g-1.vom [a3f971e31fffabcb371bacae9ef19deaf33a75dd5f2ab476bdad1fdb3397bbe3]
 │       └── almavir-f.vom [7c0529bbfe55414cbe4575731e2315b23643e8987618d04a26286614a9ad8a3d]
+├── almavir
+│   └── a
+│       ├── 9994b3262f290576d4953f394f8f4f10fc0bea858a4540760dcfd3818af4f5a9
+│       ├── DUMP32.vom [ecbe44812a6d5c1fa7da69ad19ab2af6db91ecf1bb383493722194b264743797]
+│       ├── LWM.vom [7c18c83f980c21f6ae396565c0f9e738702ba0785db631a7bda07fc8e0d71cf3]
+│       ├── NETRUN.vom [2fb139743246b13c55f0d1bff71c13abe48b1138041b21004afb382ae8a0a7e7]
+│       ├── t1.vom [17a4fdc2ef77c57d9f67c67d191f4a1eeec67d4c906ae76c09c118bfa3b7a292]
+│       ├── t3.vom [88587bac6faf3095239e3bee6239ed3ae7f4769ace8ef5bfb4f753a9d0bf11dc]
+│       └── t9.vom [b5df7b634701f4e0fd4f4627c47909a996508fe42e2727abba24fdc25bc28355]
 ├── alpha
 │   ├── 1121
 │   │   └── b
@@ -947,7 +959,8 @@
 │       └── virus.dos.exeheader.nla.383 [7477877dd3e35012557089aac5a2dfb9312df187dc6df5d7450c927426259370]
 ├── antiavp
 │   ├── 0615
-│   │   └── Virus.DOS.Ahet.615 [3d9f1fa58a9b80f2d1b6733b7306f7794e946ba51be9be70478e2b6883bbaa8a]
+│   │   ├── Virus.DOS.Ahet.615 [3d9f1fa58a9b80f2d1b6733b7306f7794e946ba51be9be70478e2b6883bbaa8a]
+│   │   └── antiavp625.vom [9e25afec76c6160f04f4c99eb7efcab133feacf754acd4ed1e22ae8d2058b321]
 │   ├── 0819
 │   │   └── virus.dos.anti-av.819 [a466ba0d9a168e19433e080d7bed0b188511b52859c8625bcb192ac5f4912071]
 │   ├── 0901
@@ -1110,19 +1123,19 @@
 │       ├── 00000001.vom [422ecd499c5a0e0bc87c721ca61b4e8412b2f5fee02cdf94f48d37026970f63a]
 │       ├── 36b80a70ec4e4e4dd6dbc0b13f13c7e4b7357eb5 [e14c76e4253d670e80d755246cfb44de3a5cb3fe2bcca25ad47408cd47e3d40e]
 │       ├── 686bdcdbb7b0c633c739947df7146bd8d603feb6 [bf9e7d88db2587f655a9686396d437fbbb32328f37e9e2c97ccfc5dd6830a047]
-│       ├── ANTIDROP.vom [efa7a20e6f081c4320ffad3ebccbda40a35964c3e2bc0f5abde45a8b5042860f]
-│       ├── EXTRACT.vxe [9d4d93c0c8194ce1126bbd74bb5f7f3d8ec542276b4c2dafa9e8f9e60d85c710]
-│       ├── TASM.vxe [c41c5f78ef91f258caf1920a1691950f5853fd7f3dd1da8251816b40862bb8fd]
-│       ├── TLINK.vxe [2e5ba7645ed57f204d8a41d8c640f2ee0a9e99496a8e33bf3858db23d9d74e41]
-│       ├── UUENCODE.vxe [5f837c798350731d2b09097edc227cb34fac51ced71f74d733f859e1b97f48cd]
+│       ├── antidrop.vom [efa7a20e6f081c4320ffad3ebccbda40a35964c3e2bc0f5abde45a8b5042860f]
 │       ├── cabinfo.vxe [3a12094bc23f66908d06ebf309b1fa6bec314f594fa9592468274f6d7639515a]
 │       ├── clratt.vxe [a26ebc396a425bd7b34f32301994002b3c62cdc8f16c17b13dc807faf827b171]
 │       ├── debug.vxe [21d5454085aac4e892eae453e2393ae7eecc9b0af5c4e19fd21250e16b051a78]
-│       ├── f-prot316f.txt [9deaed494806a7487f3b65d0ea56d47f8a18af1837d4ed5073c04c84ad8b5053]
+│       ├── extract.vxe [9d4d93c0c8194ce1126bbd74bb5f7f3d8ec542276b4c2dafa9e8f9e60d85c710]
+│       ├── f-prot316f.txt [621610df00bcd94b1111ea499e4043b587c9bb6bc89804b8671384592bac378d]
 │       ├── getinfor.vxe [825410ac0008b332930aa0ffe49da512136e5843b223cc8ff288e3794619beef]
 │       ├── t1.vxe [c34ce44397305744e820db0ae24875afc1e7267712b5128b13ca817c5c688f8c]
 │       ├── t3.vxe [315436b3d1f1fd51a9e04c5e0223da544e10bcc7fa566a173bd55e92a049018e]
-│       └── unp.vxe [644ee6378adbca5365c69ad5ff1f3662b7e6e13fa68cb412bef5ed3560d81d97]
+│       ├── tasm.vxe [c41c5f78ef91f258caf1920a1691950f5853fd7f3dd1da8251816b40862bb8fd]
+│       ├── tlink.vxe [2e5ba7645ed57f204d8a41d8c640f2ee0a9e99496a8e33bf3858db23d9d74e41]
+│       ├── unp.vxe [644ee6378adbca5365c69ad5ff1f3662b7e6e13fa68cb412bef5ed3560d81d97]
+│       └── uuencode.vxe [5f837c798350731d2b09097edc227cb34fac51ced71f74d733f859e1b97f48cd]
 ├── antipode
 │   ├── 0737
 │   │   ├── Virus.DOS.VLAD.Antipode.737 [b8c1a643bdf7ccb1756b2945208e3b4920ed2e37250e525f2a3b316c53fe22be]
@@ -1653,11 +1666,14 @@
 │       └── virus.dos.argentina.1206 [5891641aa2ce6aab2b2a1785e6f8cd2f02fde53f1ce500493dc6de345e11f886]
 ├── arianna
 │   ├── 2864
-│   │   ├── TASM.vxe [5610e8ffe6ef67c24956ef223acb0e29d8ece14c976f2210f4c2a1efc00af1b8]
-│   │   ├── TLINK.vxe [405f788fac1b31ddcccb1f45ebbbc1ef3e58db8f6d1e96d2a970b81ea706e078]
 │   │   ├── ari2864.vxe [c1a741f2d7059073cb5fb8cb8334c66166161f4a42869d1f78e8a04fc72a7a1f]
 │   │   ├── debug.vxe [180efdc2b7a3be4766d56b895410604f8f7c88cba4a72c23c924c05636520a11]
+│   │   ├── tasm.vxe [5610e8ffe6ef67c24956ef223acb0e29d8ece14c976f2210f4c2a1efc00af1b8]
+│   │   ├── tlink.vxe [405f788fac1b31ddcccb1f45ebbbc1ef3e58db8f6d1e96d2a970b81ea706e078]
 │   │   └── unp.vxe [7baf2b0aaceb06bd0e0e1b053d9d03ec716750cfc9937491fe7c518af7cd8231]
+│   ├── 3076
+│   │   ├── ari3076_0.vxe [96d48b3adc7dbf0fca3485963acdc80912f786280f0652df2d1b39c6abcfbb11]
+│   │   └── ari3076_1.vom [cdcdd8fbde7e7616d5d0744e06c59cb5438411aed8ca06dc07a7e37d0eba5e97]
 │   └── 3375
 │       ├── arianna_-001.vom [f3974c8d6e538c503f84ea138e974d0834325e9eb992c8ec2c00969c2b0cf32f]
 │       ├── arianna_-002.vom [f5849ea432f1f20d56586852d52bfe689fd0cd98e784048f74ad646e9c3432a6]
@@ -1879,7 +1895,8 @@
 │       └── AS-1604.vom [60a2f9d33dc722b09d381b8c2b5a07095a163028e38a10f2b07cd808afc7fcf1]
 ├── asimov
 │   └── 1539
-│       └── a
+│       ├── a
+│       └── b
 ├── ask
 │   └── 532
 │       └── ask_532.vxe [224e1d4abbc9060567a26eb68dd8d2f9cf95edc96c5bfc765a78beb542731f3f]

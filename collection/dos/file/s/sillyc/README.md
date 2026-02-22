@@ -1294,7 +1294,6 @@
 │   │   └── virus.dos.sillyc.375 [f04d0a96c28bf3b73a7e83f3eb025ad72e104b959a9f6aab65cdad29a79f9a42]
 │   └── b
 │       └── virus.dos.sillyc.375.b [e01f460076f682a8e476de498fff035b11d8aa47dbea7f5fd29d398c9da295c0]
-├── 00380
 ├── 00386
 │   └── silly386-0.vom [ea3dbc5df3ad664fe5e8214c964feb472d88a692e794848c5cd4bbd13ec52aba]
 ├── 00393

@@ -604,8 +604,8 @@
 │   │   └── zombie_2.vom [4daddc476918e9eb923786dcafd6ef1f46c3f52248ecef2bcdaeeda6d7998e59]
 │   ├── 2553
 │   │   ├── 1.vom [e404a3bfa1509593a4a0c41178bfca958dbb75ba6a51a242e21fcaf855e1ab0d]
-│   │   ├── MOUSE.vom [a43ed09a833e92952f9ace9c9f63cd9c54f8cbb9edf3d308847b39876a16441d]
-│   │   ├── PKUNZIP.vxe [94b0b67b62fb4dedaaa8233285e956387797bd3fd15da7b8dc1d67efdc0345d1]
+│   │   ├── mouse.vom [a43ed09a833e92952f9ace9c9f63cd9c54f8cbb9edf3d308847b39876a16441d]
+│   │   ├── pkunzip.vxe [94b0b67b62fb4dedaaa8233285e956387797bd3fd15da7b8dc1d67efdc0345d1]
 │   │   ├── src
 │   │   └── zombie_2.vom [3eb84191355d8607fadc419e0e5ed2373b8954c43edce71e17974f3c32467e15]
 │   ├── 3592
@@ -689,7 +689,8 @@
 │   ├── 1193
 │   │   └── virus.dos.zorm.1193 [2410337a1bb6c101f0a0b92bb36ab7443cb43bf1a1782c6d6c6a5ee37a4fe8a3]
 │   ├── 1203
-│   │   └── Virus.DOS.Zorm.1203.b [a092578929e1653c3d5f197216164b2d72918291bdcc09a230ebbe80bc88630e]
+│   │   ├── Virus.DOS.Zorm.1203.b [a092578929e1653c3d5f197216164b2d72918291bdcc09a230ebbe80bc88630e]
+│   │   └── zorm_120.vom [7a1b49d153d31a8cb58b4d6663f1c78ba19ea60658a41e5add8f9562d3841354]
 │   ├── 1368
 │   │   └── virus.dos.mahon.1368 [d40bcca972d11b6ea1bd9c918b67ec5bc92d9e7f70bb668a2001db96769d6ffc]
 │   ├── 1404

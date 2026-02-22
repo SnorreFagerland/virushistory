@@ -29,9 +29,9 @@
 │   └── c
 │       └── virus.dos.exeheader.renegade.416.c [e59f1e8893d290e4975665986361c12bf991ff93fd31beb59b15e28761b153f4]
 ├── 423
-│   └── Virus.Win16.Lucky.423 [031c988a918447cdac01a1ecceef727a48b96bac29493aad3c984a2cb9d4c378]
+│   └── virus.win16.lucky.423 [031c988a918447cdac01a1ecceef727a48b96bac29493aad3c984a2cb9d4c378]
 ├── 440
 │   └── exe-440.vxe [dea561954086d2263b6f8364ec6424ed5e68ada1b7ea167ab69b88ad42be9d06]
 └── 481
-    └── Virus.Win16.Lucky.481 [47bbb9c24aee24883eb2e231f2e7c14b0f5ad20deb2ca21caef4ff4ec6b769d2]
+    └── virus.win16.lucky.481 [47bbb9c24aee24883eb2e231f2e7c14b0f5ad20deb2ca21caef4ff4ec6b769d2]
 ```

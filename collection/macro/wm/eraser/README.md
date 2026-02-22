@@ -3,22 +3,70 @@
 
 ```
 ├── a
+│   ├── eraser-a.dot [7331f553a5906453ca1461fcebfa7d1a1865155c8cb291e40d3865a55a666dcd]
+│   ├── mrg1.doc [8025792c4292cb0897c61a17ad21cf0993efc02c30c57fca488b75b48c3ad2da]
 ├── a1
+│   ├── erasera1.doc [45d5c6df9b868c35b5d482c582f0211f6d2778780576572531653560d0e50019]
+│   ├── erasera1.dot [98c6ec59225ce43dedf1c2e0e18931545c3e86616b04895217757472f1aa5277]
+│   ├── wci05583.doc [77a885bdd67265b157c1d40b9b8abae8cfddd3329bd913284342acf73e0fe9fc]
 ├── b
+│   ├── cke.doc [8c65479aae6b1ec5873db655eb360a8d524fb0a5dd2cf327746249f29179f306]
+│   ├── eraser-b.doc [45aa8ba586f883534c20f9bce309ec0165b586450b51d4ca30a3bfe21fbab2c9]
+│   ├── eraser-b.dot [28f2ffb6a04688e7d0a57df37b8f577ecabd315b1ff1ebe585bb477b729675d8]
 ├── c
+│   ├── cke2.doc [173d6f2f5f79d2b2f40656f698401cf50611461300394969b79198e1fecefbe1]
+│   ├── eraser-c.doc [8217f20557f1fc5a7f5f72f65423adba727966ad68be55f6dec248e6e29c3634]
+│   ├── eraser-c.dot [b6d54fbfd6cdb325b307bd658014038bc3d1cd16ab86ae066f692f7099cf4bbf]
 ├── d
+│   ├── cke3.doc [5aca541868abc66113ab81886a1d25fda6d31a7c98b012547907d39e1a17415f]
+│   ├── eraser-d.doc [cce28d53ce3462dd5b5006a94665283ab7ed38d5a5cdc2109e603ed90c60cc6c]
 ├── e
+│   ├── eraser-e.doc [09c6bb4df751e63cd0e2589d95fd809878966173de7c67a264d6d44ed2448150]
+│   ├── eraser-e.dot [ec381afe28fe70c5625fe87357d1927075108caaaada9b7f3711fe9210fdbf5f]
+│   ├── mrg2t.doc [41b22e03ac922003636622e3ed1c7b09542b7c1c177c56ab29751fed868616b6]
 ├── f
+│   ├── eraser-f.doc [1c5c563ce9f54d562820dcf37dd27b7d2af5f2343a94cc2de7a2deef6a2aad55]
+│   ├── eraser-f.dot [1ac0bbf8ac1e04303bb041ef1b94ad47b64cb0e720729200afacd067480aa534]
+│   ├── mrg.doc [0de9a50752c4bdc2a887f7c252feef991693bbe830720c35c27512e48ddb9a49]
 ├── f1
+│   ├── wci05593.doc [09c50f997e2e396be73f8859b970a1a016c3a8f974e0c2286b61b6e2fb60656d]
 ├── g
+│   ├── eraser-g.doc [fc8f8bcc6124c36f38580af33f734dd0f06cfcef0f18ef7c42d8bea75dbe40b4]
+│   ├── eraser-g.dot [50005a87704d3af6b76f98c51e444bb07820833d949b3e7ba879fe86fa908ce6]
+│   ├── mrg2.doc [fb90c3b7243eecc8bfec171b7a49ca49ff27dcb555ae8974c7f27f0542a0afd5]
 ├── h
+│   ├── bie.doc [d960ddbb71a4263a9b024a8c75fe5c74dd20a71b441890c48ae6c6330da4fdac]
+│   ├── eraser-h.doc [2311f29781c25b93b451203c23ca1df167741ca10e2fa728b50219a5dd9a482c]
+│   ├── eraser-h.dot [197e0e5dd1c5f5b951b186786bcfb9d3743f359b28678c3d912b1c7fb2a64476]
+│   ├── overlock.doc [b75bfa073fd6e17631ec1cc333b235bb29d7ccdab47e1e19c54887032e8ed706]
 ├── i
+│   ├── eraser-i.doc [b9987e25493355003f21a480178b8a44d74847c8c66d7ee322fe49a7aea47bd0]
+│   ├── eraser-i.dot [dcad9e659655a714e2cdc9bf6c86c8fc8faf92980f3c03fe59a862986cb24afb]
+│   ├── eraseri.doc [c8c9417bd181fc2439d6847dce1840a8d45b3122bcd0ec6b6cdce728168558a5]
 ├── j
+│   ├── eraser-j.doc [2f22d601c9f39a144fac14a9985531574298e8c6974c770db6772cbd17d59297]
+│   ├── eraser-j.dot [662f9726166431163da43f29d4fe879ca3bf0603ed0b6d50c2b1dd0a41518fbe]
+│   ├── eraserj.doc [45e545f7f197db02052d91917745805cb683a2d5c3d2fe871005378f051bd6ef]
 ├── k
+│   ├── eraser-k.doc [326f569c269ca27e3cf71f0da0a039f166720aa52137927b50bff9754271e9e6]
+│   ├── eraser-k.dot [75f67aeaa3ed4a435db505fec7dace299397c2301fa458bd925bb1f12f2ff2c0]
+│   ├── mrg3.doc [67de7dd3536ac861f7ee0046085bb614ef7bd494dbbb1bfb663e88182383a5b1]
 ├── l
+│   ├── eraser-l.dot [d813bfc13951b60b0a7367c22235834b4969654450153a3262fec9e2acd56265]
+│   ├── mrg4.doc [64ffe8b467b061002168ff3a79995d1ea3cf0048de2816806b694b13b431020f]
 ├── m
+│   ├── eraser-m.dot [625bb1ca52cf82bd15f0ca52300271ebfaab14cf8518de74ff279eeb6dc6f2c7]
+│   ├── play1.doc [f455f213cd20f36868975da7db2563f63754c6ef95c7ef5add6570063e2ea70e]
+│   ├── wci01813.doc [e6bcafd7357b42ef51f7eb99f6c87f6ac89f76f47081e11aa8b490980806603d]
 ├── n
+│   ├── eraser-n.dot [9471f2ea011db93c33b141c03dbeb200fc06b70ca59ca1f89d6b4e5d45f18687]
+│   ├── slot1.doc [095386b38e89a7e112b05f8f09faa4228e1b60b196591b7bf2baabbf2bf40e56]
 ├── o
+│   ├── eraser-o.doc [2851a68c8ca49e486cbae4d2c01067db3a05b8934996e9c28393fea9a9ca8837]
+│   ├── eraser-o.dot [9fa367e782abc5fe3dee457d9e6a73c25b107869710bfe73450667537939e08e]
+│   ├── guess.doc [d4dcd25b117592ea8f29ee080b397b07f6708ad0e454368160774c4b09ed5fef]
 ├── p
+│   ├── up-g.dot [cf319abfd94524114c84c3a635d129f71502c302e2fb60018702546918cc689e]
 └── s
+    ├── eraser-d.dot [7137a2be6c3e0dea9f90a66d74f788f4591d45164bb24d3e29150eccc1b5ced5]
 ```

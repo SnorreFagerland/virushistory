@@ -902,6 +902,8 @@
 │   │   └── virus.dos.jerusalem.vicky [7da91b410663ceb76b1cd83d56319097c135c4ba882f8ebee9d73f287b5a3c40]
 │   ├── ek
 │   │   └── jerusale.vom [dd3dc8eae9d87c690b3be075a5075307cf8338728ea9f22903b41b3c3ce0d894]
+│   ├── el
+│   │   └── jerusale.vom [e40f4b4a1cc77d2117826623f0ee3ecf525b9dd63079bc8543c1e1d66c808638]
 │   ├── em
 │   │   ├── jerusale-001.vom [75157ddbb97088a0a721ea43eb478847d97d48a52d58ce58eca3684c335bf848]
 │   │   ├── jerusale-002.vom [c239ba5fd6cc8476bff85fbb4a4f1a6cf5a52f392308ccbe03ab135abe0f191f]
@@ -992,6 +994,8 @@
 │   │   ├── t5.vxe [cbe02f934fa574750e5dd8fc965781ea99452a17d11d2384618fbf5924ac007f]
 │   │   ├── t7.vom [a9e7d1faf2f458ad269d3cc9c32d7a2d9c7a2d45f118702439dd8286a7d57585]
 │   │   └── wci02134.vom [89eef84ea8bfcfdb55bf17438394b8a4e302153ce4e13b122a426b37ce00916f]
+│   ├── fp
+│   │   └── jerusale.vom [c1b9d88f7a7ac3fb80896f530e05cac49239567897f4b974d712967962ca6edf]
 │   ├── fv
 │   │   └── jerusale.vom [41e62e1b1bfd64c75a48c6fb38fac28a2f0f260bf409b8d248b36f832abb9397]
 │   ├── g
@@ -1135,6 +1139,7 @@
 ├── 2128
 │   └── max00020.vxe [ee0ea3d106273d6f0cd0bc0460f491d06d55c3cddaf4853f363661c6b40f8f33]
 ├── 2132
+│   ├── Virus.DOS.Jerusalem.Math [09835c480580e7388096460e6267c0caca06f2b248db9d1cdb2abb55c28f8a3d]
 │   └── jer-math.vom [772f9b978e9610d61bd3f9b6a5113339fde68e510b6e35a2101322a3c1f56499]
 ├── 2187
 │   ├── fri_2187.vom [61b3a30a5654743600933605747da331c530919f8b1c100f453954c7ed8e22e5]

@@ -1738,7 +1738,7 @@
 ├── rael
 │   └── Trojan.DOS.Rael.vx [0d6fd040579c8c342920dc2eaf6dc4a6438259cfdac5824a96ea08884766071f]
 ├── ramsys
-│   └── Trojan.DOS.Ramsys.vx [7830f3ffe31f8c1840ef320118bea5896561fe51fb9101bc4ad0b815028c7b72]
+│   └── Trojan.DOS.Ramsys.vx [62f30c0d578449f88ca6be660104e591e0bcaf4a4d761f6321886982d744eec5]
 ├── randir
 │   └── Trojan.DOS.Randir.vx [0a767d8dc654261e07cc3748b0d143734d1805c1a6739b6d06aeea51cc23d1ca]
 ├── rappere

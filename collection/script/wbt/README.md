@@ -4,5 +4,5 @@
 ```
 └── method
     └── a
-        └── virus.wbs.method [38ce37b80da4370703f8a10dda2ad2bfa64a5cd6ad641e81ddf7d3b2c0eace13]
+        └── virus.wbs.method [b379b3dce458018c4f2e62746f348afab86db865ecbf28a472c24720303e9cd7]
 ```

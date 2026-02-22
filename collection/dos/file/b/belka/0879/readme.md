@@ -1,0 +1,15 @@
+<!-- AUTO-GENERATED-README -->
+# Contents of `0879`
+
+```
+├── a
+│   ├── a.vom [bed398607f58d315185c632cb8bbf774307c8acab0312a1e09c32c72dafeb789]
+│   ├── t1.vom [03a1d703b672ebae5e0429901f05f8c1cf66d1429afd237974dd71e0449d3319]
+│   ├── t3.vom [268c1b200f08a4e2a364fea82721714ddf987bb689273a188147a1128b6fca57]
+│   └── t9.vom [772b1ae2f902c289c4634ed7c60ce37fc726fba64579c1dbe75680656c7ebb1a]
+└── b
+    ├── a.vom [869c0b2532f4a9c30c2dad2146f8774d50d7649e34e6186538b7f247b1fd76bb]
+    ├── t1.vom [64bd829a858042befeead28c671b2dadd908a153dbc6d31a64924bc39639d6b2]
+    ├── t3.vom [299c0597bde0fdc4da8be1e560eb3098e743892877ac0bb2bd7975a1eca2cd17]
+    └── t9.vom [6b737c644296ce259f573cff993c8a96191d6ef718c18aec3fede8685c40e012]
+```

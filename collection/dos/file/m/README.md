@@ -840,7 +840,7 @@
 │       └── virus.dos.mecdon.1470 [a46b96de52ac8c740a94fcccf2eb04ff69015f2d6b01b44db7883912e3bebf9f]
 ├── mcmahon
 │   ├── 1302
-│   │   ├── A.vom [86863c83fac96aad45f4abc776c3c9d3af1a1d4dc55d866bf794d9309b031191]
+│   │   ├── a.vom [86863c83fac96aad45f4abc776c3c9d3af1a1d4dc55d866bf794d9309b031191]
 │   │   ├── t1.vom [245a9af296c000374014ba76f9f2dd5e9fe8ba3808ae6887427a831b7d7486a5]
 │   │   ├── t1.vxe [20a37afadc008c08383dbfcb781ca76d6d02fec0b05eb3ef5c6945d34f1a6c8d]
 │   │   ├── t3.vom [81007496c31c5f33c054d926ef7612c5f61422fbf0f5c2a95a6d0c3e5eb70ade]
@@ -851,8 +851,8 @@
 │   ├── 1360
 │   │   └── virus.dos.mahon.1360 [5e1a0d6156b707672eaaed0fda8c4ef639533127eb9f773c96d08c51f104bb4f]
 │   └── 1372
-│       ├── Virus.DOS.Mahon.1372 [239988ede7f971958707ac0df5085c13556e9ac5cc8eec4151ddbd9a2c7a7f38]
-│       └── mcmahon_-001.vom [8e5edb91ab510859efc8b99d3cb052beaf66cc71285ffdd6b8f0ca27565bef6d]
+│       ├── mcmahon_-001.vom [8e5edb91ab510859efc8b99d3cb052beaf66cc71285ffdd6b8f0ca27565bef6d]
+│       └── virus.dos.mahon.1372 [239988ede7f971958707ac0df5085c13556e9ac5cc8eec4151ddbd9a2c7a7f38]
 ├── mdma
 │   └── 5460
 │       └── virus.dos.mdma.5460 [644f32acf64e90feea1a83234351d6ae30b9ac4d60c3256aad3f2e97daf7f6fd]
@@ -2326,10 +2326,10 @@
 │   ├── 0318
 │   │   └── cyberwarrior.318 [f31f489855a35a1984a5c1c803ba96cce5b2f6b28fefc97209034fc6db161905]
 │   ├── 0355
-│   │   ├── T1.vom [18298d585d7ba85ff01eed278d9650507020ed226ee98a4b439018d1b027a0fc]
-│   │   ├── T3.vom [3c39a5053c2c135bf86890b87bdcc808c6b7409074a46e88dfd0c3b006c8e619]
-│   │   ├── T9.vom [a1d5d6317b8dd1ff8ee7175a3414974dd8d1148c5a6fb6ddb6984295ae75e449]
-│   │   └── mpoc_355.vom [64e6abd960b6f85c76c67d12353b61017b316cf421841eb2066ee454452e06f1]
+│   │   ├── mpoc_355.vom [64e6abd960b6f85c76c67d12353b61017b316cf421841eb2066ee454452e06f1]
+│   │   ├── t1.vom [18298d585d7ba85ff01eed278d9650507020ed226ee98a4b439018d1b027a0fc]
+│   │   ├── t3.vom [3c39a5053c2c135bf86890b87bdcc808c6b7409074a46e88dfd0c3b006c8e619]
+│   │   └── t9.vom [a1d5d6317b8dd1ff8ee7175a3414974dd8d1148c5a6fb6ddb6984295ae75e449]
 │   ├── 0359
 │   │   └── bughunter.359 [d81d239603ef4943ab817caca9a1032d4daffdede3d83c32df5f13d9725d6054]
 │   ├── 0360
