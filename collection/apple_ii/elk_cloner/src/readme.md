@@ -1,16 +1,8 @@
-<h3>Malware name	: - </h3><br>
+<h2>Elk Cloner disassemblies</h2>
 
-| **Attribute**          | **Details** |
-|------------------------|------------|
-| **Known aliases**      | - |
-| **Type**              | - |
-| **Size** | - |
-| **Contains text**     | - |
-| **Screen effects**    | - |
-| **Destructivity**     | - |
-| **Seen in the wild**  | - |
-| **Notes and comments** | - |
-| **Screenshot** | - |
+
+
+cloner.asm --------------------------- commented disassembly by Vesselin Bontchev
 
 
 
