@@ -6,3 +6,7 @@ In October 1989, as Galileo approached launch amid controversy over its plutoniu
 WANK announced itself with on-screen slogans (“Your system has been officially WANKed”) and propagated by probing neighboring DECnet nodes for weakly protected accounts. OILZ followed shortly after as a modified variant, adjusting behavior and credentials handling while incorporating cultural references associated with Midnight Oil. Neither worm focused on data theft or destruction. Their impact came instead from operational disruption: administrators across research networks linked to NASA and other institutions were forced into rapid, ad-hoc incident response, often writing countermeasures in real time.
 
 Technically, the worms were simple. Historically, they were consequential. They demonstrated how shared trust and poor credential hygiene could be weaponized at network scale, years before formal security operations centers or standardized response playbooks existed. Attribution was never conclusively established, but that mattered less than the precedent they set. WANK and OILZ helped mark the transition from isolated computer pranks to network-aware ideological intrusion — a moment when connected systems stopped being academic conveniences and started being strategic liabilities.
+
+
+
+These sources were graciously donated to VHP from Dr. Vesselin Bontchev.
