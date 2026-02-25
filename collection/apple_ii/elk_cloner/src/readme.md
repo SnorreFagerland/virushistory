@@ -2,8 +2,8 @@
 
 
 
-cloner.asm                Commented disassembly by Vesselin Bontchev<br>
-elk_cloner.a02.txt        Another Disassembly<br>
+|cloner.asm|                Commented disassembly by Vesselin Bontchev|
+|elk_cloner.a02.txt|        Another Disassembly|
 
 
 
