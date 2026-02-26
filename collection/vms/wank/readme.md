@@ -7,6 +7,7 @@ WANK announced itself with on-screen slogans (“Your system has been officially
 
 Technically, the worms were simple. Historically, they were consequential. They demonstrated how shared trust and poor credential hygiene could be weaponized at network scale, years before formal security operations centers or standardized response playbooks existed. Attribution was never conclusively established, but that mattered less than the precedent they set. WANK and OILZ helped mark the transition from isolated computer pranks to network-aware ideological intrusion — a moment when connected systems stopped being academic conveniences and started being strategic liabilities.
 
+The two files here are minor variations of the WANK worm. OILZ had some more changes - notably changed the process name to OILZ_.. instead of NETW_..
+These WANK sources were graciously donated to VHP from Dr. Vesselin Bontchev.
 
-
-These sources were graciously donated to VHP from Dr. Vesselin Bontchev.
+The search for OILZ goes on.
