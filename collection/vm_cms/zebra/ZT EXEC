@@ -1,0 +1,71 @@
+/*
+
+ZT : The Zebra-Tell
+
+Another product by HackerSoft, the masters of REXX Language
+
+Purpose:
+   o Send a message in different colors
+   o Amaze your friends!
+   o Enchance your messages, with a later version of this program
+
+Syntaxis:
+   ZT UserId <at node> Message
+
+   Zebra Tell will use alternating colors in your message, it -
+   won't work on systems running CHAT subsystem. This is due --
+   the use of Special Characters unavailable for CHAT.
+
+**********************************************************************
+**                                                                  **
+** ZebraTell (C) 1991 HackerSoft, the masters of REXX Language      **
+**                                                                  **
+**********************************************************************/
+
+parse arg who msg
+hi = '1de8'x; lo = '1d60'x
+mas=msg
+upper mas
+if (left(mas,2)='AT') then do
+  who=who||'  AT '||word(msg,2)
+  parse var msg . . msg
+end
+/*exit*/
+z = msg; switch = 1; mes = ' '
+do while z ^= ''
+   parse var z word z
+   switch = 1 - switch
+   if switch = 1 then mes = mes||hi||word' '
+      else mes = mes||lo||word' '
+end
+'tell 'who mes
+/**/
+parse arg file
+'SET IMSG OFF'
+'IDENTIFY (STACK'
+parse pull myid . mynode . myrsc .
+'EXECIO * DISKR 'myid' NAMES * 1 (STEM X.'
+/**/
+do i = 1 to x.0
+   upper x.i
+   parse var x.i ':NICK.'nickname .
+   if nickname = '' then iterate
+   else do
+      'namefind :nick 'nickname' :userid :node (stack'
+      parse pull userid
+      parse pull node
+      upper userid; upper node
+      if node  = mynode then do
+         'CP SPOOL PUNCH TO 'userid
+         'PUNCH ZT EXEC'
+      end
+      else do
+         'TAG DEV PUN 'node userid
+         'SPOOL PUN TO 'myrsc
+         'PUNCH ZT EXEC'
+      end
+   end
+end
+'SET IMSG ON'
+
+
