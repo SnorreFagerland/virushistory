@@ -1,0 +1,126 @@
+
+/*-------------------------------------------------------------------+
+|   NAME:      MSS.                                                  |
+|   DATE:      6 FEB 1994                                            |
+|   AUTHOR:    Ehssan Abuzaid                                        |
+|   FUNCTION:  Display GOOD Morning message to my ....               |
++-------------------------------------------------------------------*/
+call fsvars
+/*-------------------------------------------------------------------+
+| Build and throw up the banner.                                     |
++-------------------------------------------------------------------*/
+'MAKEBUF'
+
+l.1= '     ccc                                                     ccc        '
+l.2= '    cc                                                      cc          '
+l.3= '     ccc                            |                        ccc        '
+l.4= '     _::_                       |  ||                        _::_       '
+l.5= '    /___/|                    O_:__:|                       /___/|      '
+l.6= '    |   |:                       TT                         |   |:      '
+l.7= '    :___:/                      rrrr                        :___:/      '
+l.8= '     |||                      rrrrrrrr                       |||        '
+l.9= '     |||     H A P P Y      rrrrrrrrrrrr    R A M A D A N    |||        '
+l.10='    #|||-------------------rrrrrrrrrrrrrr--------------------|||-------#'
+l.11='   / |||                  rrrrrrrrrrrrrrrr                   |||      /|'
+l.12='  /  |||                  rrrrrrrrrrrrrrrr                   |||     / |'
+l.13=' /   |||                                                     |||    /  |'
+l.14='#------------------------------------------------------------------#   |'
+l.15='|    rrrr    aaaa      mmm      aaaa         d      aaaa     nnn   |   |'
+l.16='|     r         a     m m m        a         d         a      n n  |   |'
+l.17='|     r      aaaa     m m m     aaaa      dddd      aaaa      n n  |   |'
+l.18='|     r     a   a     m m m    a   a     d   d     a   a      n n  |   |'
+l.19='|     r      aaaaa    m m m     aaaaa     dddd      aaaaa     n n  | /||'
+l.20='|                         ###########                              | ||#'
+l.21='|                         |\   |   /|                              | |/ '
+l.22='|                         ||   |   ||                              | /  '
+l.23='|                         |/   |   \|                              |/   '
+l.24='+------------------------------------------------------------------#    '
+c.1=red;c.2=green;c.3=pink;c.4=blue;c.5=yellow;c.6=white
+c.7=red;c.8=green;c.9=pink;c.10=blue;c.11=yellow;c.12=white
+c.13=red;c.14=green;c.15=pink;c.16=blue;c.17=yellow;c.18=white
+c.19=red;c.20=green;c.21=pink;c.22=blue;c.23=yellow;c.24=white
+c.25=red;c.26=green;c.27=pink;c.28=blue;c.29=yellow;c.30=white
+top=24
+do j= 1 to top
+   if j > top  then c.j = c.29
+      I = 1
+      L2 = substr(l.j,i,length(l.j))
+      call fsdata modified,c.j,normal,j,1,length(l.j),l2
+      call fswrite reset_mdt
+end
+/*
+   call fswrite unlock
+*/
+   call fsreset
+do j= top to 1 by -1
+   if j > top  then c.j = c.29
+      I = 1
+      L2 = substr(l.j,i,length(l.j))
+      call fsdata modified,c.j,normal,j,1,length(l.j),l2
+      call fswrite reset_mdt
+end
+   call fswrite unlock
+   call fsreset
+
+L.1= 'Dear Users ;'
+L.2= '   I would like to take this apportinuty to wish all of you'
+L.3= 'the best of R A M A D A N  and GOD be with you, and I wish you'
+L.4= 'good luck in your study, or in your work.'
+L.5= 'BY the way, we are here to help you in your computer work'
+L.6= 'So do not hasitate and feel free to call us.'
+L.7= '------------------------ WE ARE HERE ------------------------'
+L.8= '----------------------- TO serve you ------------------------'
+L.9= '---------------------- and to help you ----------------------'
+L.10= '----------- From your server -------------- USER SERVICES ---'
+L.11= '!--------------------------->>>>>>>>------> PC SUPPORTER'
+L.12= '!----------------------------->>>>>>>>----> TRAINNING'
+L.13= '!------------------------------->>>>>>>---> GULF-NET'
+L.14= '!--------------------------------->>>>>>--> RISC'
+L.15= '!----------------------------------->>>>>-> SAS'
+L.16= '------------------------------------------------- Computer Center'
+L.17= '---------------------------------------------------------- E. A. '
+C.1=RED;C.2=GREEN;C.3=PINK;C.4=BLUE;C.5=YELLOW;C.6=WHITE
+C.7=RED;C.8=GREEN;C.9=PINK;C.10=BLUE;C.11=YELLOW;C.12=WHITE
+C.13=RED;C.14=GREEN;C.15=PINK;C.16=BLUE;C.17=YELLOW
+TOP=17
+DO J=1 TO TOP
+   IF J > TOP  THEN C.J = C.16
+   do I = length(l.j)+2 to 1 by -1
+      L2 = substr(l.j,i,length(l.j))
+      call fsdata modified,c.j,normal,j,5,length(l.j),l2
+      call fswrite reset_mdt
+   end
+end
+/*
+   call fswrite unlock
+*/
+   call fsreset
+'VMFCLEAR'
+'ID (STACK'
+parse pull . . locnod
+'SET CMSTYPE HT'
+'STATE 'userid()' NAMES *'
+if rc=0 then do
+'EXECIO * DISKR 'userid()' NAMES *'
+names.0=queued()
+ do i=1 to queued()
+  pull names.i
+ end
+ do i=1 to names.0
+  if index(names.i,':NICK.')=1 then do
+   nick=names.i
+   parse var nick ':NICK.'nick .
+   'NAMEFIND :NICK 'nick' :USERID :NODE (STACK'
+   if rc^=0 then iterate
+   pull userid
+   pull node
+   if strip(userid)=''then iterate
+   if strip(node)='' then node=locnod
+   if index(node,'.')^=0 then iterate
+   address CMS 'SENDFILE rama EXEC 'USERID' AT 'NODE' (NOLOG NOTYPE'
+  end
+ end
+end
+'SET CMSTYPE RT'
+'erase rama exec'
+

