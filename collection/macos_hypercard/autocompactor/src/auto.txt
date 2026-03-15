@@ -1,0 +1,89 @@
+on closeStack
+  autoCompactorSRA
+  pass closeStack
+end closeStack
+
+
+on autoCompactorSRA
+  -- AutoCompactor SRA
+  -- written by Wolfgang McKeown (mwolfg1@uic.edu)
+  -- date: 2906889704
+  -- This SRA should not cause problems in its host stacks. However,
+  -- the author disclaims responsibility for any damage caused by
+  -- this code. Use it at your own risk.
+ 
+  -- aCSRA dummy line
+
+  put "Jane Plain" into registration
+  global UserName
+  put the first line of UserName into user
+  if user is registration then
+    if the script of this stack contains "on autoCompactorSRA"&return then
+      stop using me
+      start using this stack
+    else
+    if the cantModify of this stack then return empty
+    put (char offset("on autoCompactorSRA"&return,the script of me)=C2
+    to offset("end autoCompactorSRA"&return,the script of me)=C2
+    of the script of me)&"nd autoCompactorSRA"&return into saveMe
+    put the script of this stack into host
+    if length of (host&saveMe) < 30000 then
+      if not(host contains "on closeStack"&return)
+        then put "on closeStack"&return&"pass closeStack"&return&=C2
+        "end closeStack"&return&return before host
+        put return&"autoCompactorSRA" after line=C2
+        (the number of lines in char 1 to offset("on closeStack"&=C2
+        return,host) of host) of host
+        put return&saveMe after host
+        set script of this stack to host
+        stop using me
+        start using this stack
+      end if
+    end if
+  else if not cantModify of me then
+    answer "Hello," && user & ". My name is AutoCompactor. I am a"&&=C2
+    "self-replicating automaton. I offer you the service of"&&=C2
+    "automatically compacting stacks (which saves disk space) and"&&=C2
+    "warning about full disks." &return&return&=C2
+    "May I live on your machine?" with "No" or "Yes"
+    if it is "Yes" then
+      put the script of me into changing
+      get the number of lines in char 1 to offset("--"&&=C2
+      "aCSRA dummy line"&return,changing) of changing
+      if not(line it+1 of changing contains "registration")
+        then answer "Fatal error #42." with "Cancel"
+        else
+        put quote&user&quote into word 2 of line it+1 of changing
+        set the script of me to changing
+      end if
+    end if
+  end if
+  if the freeSize of this stack / the size of this stack =B3 .15 then
+  if the diskSpace < the size of this stack then
+    answer "This stack could not be compacted because the disk"&&=C2
+    "is full. Free some space on this disk!" &return&return&=C2
+    " - AutoCompactor SRA"
+  else
+  put false into locked
+  if cantModify of this stack then
+    put true into locked
+    set cantModify of this stack to false
+  end if
+  if cantModify of this stack then return empty
+    put msg into saveMsg
+    put the visible of msg into showMsg
+    put "Compacting stack, please wait=C9"
+    if the short name of this stack is in the stacksInUse then
+      put true into beingUsed
+      stop using this stack
+    end if
+    doMenu "Compact Stack"
+    if beingUsed is true then start using this stack
+      lock screen
+      put saveMsg
+      set visible of msg to showMsg
+      unlock screen
+      set cantModify of this stack to locked
+    end if
+  end if
+end autoCompactorSRA

