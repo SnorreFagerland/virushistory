@@ -1,0 +1,110 @@
+/*+  "Cookie Monster" program from MIT Multics.
+
+     Written by Chris Tavares, who says:
+
+          Why a bear?  A heavily-aired cereal commercial of the time
+          featured a "Cookie Bear," after which the annoying behavior of
+          this program was patterned.  The "Cookie Monster" of Sesame
+          Street was unknown in 1970 when this program was written.
+
+          Copies of this program eventually found their way to many Multics
+          sites.  At least one resource publication on computer viruses has
+          named this program as the earliest known example of a computer
+          virus.  The author is not convinced that amused human beings
+          count as a qualifying infection vector.
+
+     This pathname of this version was cookie.pl1 in
+     >udd>spb>searched>utils_source.archive.  It was saved on October 13,
+     1971.
+
+     Comments within slash-star-plus brackets are annotations added by Paul
+     Green on March 9, 1995.  The lines have been reformatted to fit on
+     within 79-character limit, otherwise, nothing has been changed.
+
+     Notes:
+
+     The ioa_ subroutine formats and displays a message on the users
+     terminal.  When this program was written, all terminals were printing
+     terminals, and most of them had the capability of printing in red or
+     black via a 2-color ribbon.  The ^R embedded control shifts to the red
+     ribbon, and the ^B control shifts back to black.
+
+     The timer_manager_$alarm_call subroutine calls back the specified
+     entrypoint in a specified number of seconds.  The
+     timer_manager_$reset_alarm_call subroutine resets any pending calls.
+
+     Note that Multics retains a program in the address space of a process
+     after its initial execution.  This was done for efficiency (it made
+     subsequent executions much faster).  The timer_manager_$alarm_call
+     facility depended upon this behavior because it saved a pointer
+     (actually an entry variable) to the entry to be called.  The Multics
+     compilers had to make a special call to flush a program out of the
+     address space when they recompiled it.
+
+     The two-part entrypoint name "cookie$bear" specifies the entry named
+     "bear" in the segment named "cookie".
+
+     The typical usage of this command is to sneak up to someone's
+     terminal, type ">udd>m>cdt>hh>cookie", tear off the paper, and walk
+     away.  Or, you could edit it into his or her start_up.ec file.  Even
+     reasonably experienced system programmers were mystified as to how the
+     message appeared at the terminal; the timer_manager_$alarm_call
+     facility was an obscure routine, and Multics provided no way to get a
+     list of pending alarm calls.  I remember finding it by listing the
+     segments "known" to my process.  PG +*/
+
+cookie: proc;
+
+dcl  messages (7) char (64) initial (
+     "Give me a cookie?",
+     "I want a cookie!",
+     "Come on: I want a cookie!",
+     "GIVE ME A COOKIE!!",
+     "I ^RNEED^B a cookie!!!!!",
+     "Please, just ^Rone^B cookie, I promise I'll go away!!",
+     "YOU BAGBITER, ^RKEEP^B YOUR ******* COOKIES!!"),
+     flipflop bit (1) static initial (""b),
+     ioa_ ext entry,
+     cookie$bear ext entry,
+     timer_manager_$alarm_call ext entry (fixed bin (71), bit (2), entry),
+     timer_manager_$reset_alarm_call ext entry (entry),
+     counter static initial (1) fixed bin,
+     times (6) fixed bin (71) static initial (60, 240, 240, 200, 400, 120),
+     newl static initial ("^/") char (2);
+
+/*+  This entrypoint is called when the hacker types "cookie" the first
+     time, or when the victim types "cookie" to satisfy the monster.  +*/
+
+     if flipflop = ""b
+     then call timer_manager_$alarm_call (1200, "11"b, cookie$bear);
+     else do;
+          call timer_manager_$reset_alarm_call (cookie$bear);
+          call ioa_ ("Thank you!!  (yum yum yum yum.......)");
+          counter = 1;
+          end;
+
+     flipflop = ^flipflop;
+     return;
+
+/*+  This entrypoint is called by the timer_manager_ "call back" facility
+     after the timer goes off.  Note that after printing 7 messages, the
+     cookie program "gives up" and stops setting further alarm timers.  But
+     it also resets itself so that if sometime types "cookie", it will
+     start the cycle all over again.  +*/
+
+bear:     entry;
+
+     call ioa_ (newl || messages (counter));
+     if counter = 7 then do;
+          flipflop = ""b;
+          call timer_manager_$reset_alarm_call (cookie$bear);
+          counter = 1;
+          return;
+     end;
+
+     call timer_manager_$reset_alarm_call (cookie$bear);
+     call timer_manager_$alarm_call (times (counter), "11"b, cookie$bear);
+     counter = counter + 1;
+     return;
+
+     end cookie;
