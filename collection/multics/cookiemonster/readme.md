@@ -1,7 +1,7 @@
 <h2>The Cookie Monster</h2>
 
-The Cookie Monster was not a virus or even (much) of a trojan - it was a prank that would annoy folks during login by asking for a cookie.
-If you typed "COOKIE" it would let you log in.
+The Cookie Monster was not a virus or even (much) of a trojan - it was a prank that would annoy users by locking the terminal and asking for a cookie.
+If you typed "COOKIE" it would let you continue.
 
 However, the prank had ripple effects - copycats started showing up. 
 There are stories of clones that worked the same way but asked different questions:<br>
