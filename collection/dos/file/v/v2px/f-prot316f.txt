@@ -1,0 +1,112 @@
+Virus scanning report  -  19 March 2026 @ 20:35
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\v2p1\1236\virus.dos.chameleon.1236  Infection: V2PX.1236
+u:\v2p1\1246\cham1246.vom  Infection: V2PX.1246
+u:\v2p1\1246\t1.vom  Infection: V2PX.1246
+u:\v2p1\1246\t2.vom  Infection: V2PX.1246
+u:\v2p1\1246\t3.vom  Infection: V2PX.1246
+u:\v2p1\1246\v2p.vom  Infection: V2PX.1246
+u:\v2p1\1246\1246 - object file\virus.dos.chameleon.1246  Infection: V2PX.1246 - Object file
+u:\v2p1\1251\virus.dos.chameleon.1251  Infection: V2PX.1251
+u:\v2p1\1256\a\t1.vom  Infection: V2PX.1256.A
+u:\v2p1\1256\a\t2.vom  Infection: V2PX.1256.A
+u:\v2p1\1256\a\t3.vom  Infection: V2PX.1256.A
+u:\v2p1\1256\a\v2p-1.vom  Infection: V2PX.1256.A
+u:\v2p1\1256\a\v2pxv2~1.vom  Infection: V2PX.1256.A
+u:\v2p1\1256\b\virus.dos.chameleon.1256.b  Infection: V2PX.1256.B (exact)
+u:\v2p1\1260\a\!083.vom  Infection: V2PX.1260
+u:\v2p1\1260\a\1260.vom  Infection: V2PX.1260
+u:\v2p1\1260\a\t1.vom  Infection: V2PX.1260
+u:\v2p1\1260\a\t2.vom  Infection: V2PX.1260
+u:\v2p1\1260\a\t3.vom  Infection: V2PX.1260
+u:\v2p1\1260\a\v2p1.vom  Infection: V2PX.1260
+u:\v2p1\1260\a\v2px.vom  Infection: V2PX.1260
+u:\v2p1\1260\a\v2px1260.vom  Infection: V2PX.1260
+u:\v2p1\1260\a\_1260_a.vom  Infection: V2PX.1260
+u:\v2p1\1260\a\_644.vom  Infection: V2PX.1260
+u:\v2p1\casper\0974\virus.dos.chameleon.974  Infection: V2PX.974
+u:\v2p1\casper\0996\t1.vom  Infection: V2PX.996
+u:\v2p1\casper\0996\t2.vom  Infection: V2PX.996
+u:\v2p1\casper\0996\t3.vom  Infection: V2PX.996
+u:\v2p1\casper\0996\t4.vom  Infection: V2PX.996
+u:\v2p1\casper\0996\t5.vom  Infection: V2PX.996
+u:\v2p1\casper\0996\t6.vom  Infection: V2PX.996
+u:\v2p1\casper\0996\wci01905.vom  Infection: V2PX.996
+u:\v2p1\casper\1006\casper.vom  Infection: V2PX.1006 (exact)
+u:\v2p1\casper\1006\t1.vom  Infection: V2PX.1006 (exact)
+u:\v2p1\casper\1006\t2.vom  Infection: V2PX.1006 (exact)
+u:\v2p1\casper\1006\t3.vom  Infection: V2PX.1006 (exact)
+u:\v2p1\casper\1190\cas1190.vom  Infection: V2PX.1190
+u:\v2p1\casper\1190\t1.vom  Infection: V2PX.1190
+u:\v2p1\casper\1190\t2.vom  Infection: V2PX.1190
+u:\v2p1\casper\1190\t3.vom  Infection: V2PX.1190
+u:\v2p1\casper\1190\t5.vom  Infection: V2PX.1190
+u:\v2p1\casper\1190\wci00354.vom  Infection: V2PX.1190
+u:\v2p1\casper\1200\casper.vom  Infection: V2PX.1200
+u:\v2p1\casper\1200\casper10.vom  Infection: V2PX.1200
+u:\v2p1\casper\1200\test.vom  Infection: V2PX.1200
+u:\v2p1\casper\1200\v2px_cas.vom  Infection: V2PX.1200
+u:\v2p1\casper\1200\vienun-4.vom  Infection: V2PX.1200
+u:\v2p1\casper\1440\t1.vom  Infection: V2PX.1440
+u:\v2p1\casper\1440\t2.vom  Infection: V2PX.1440
+u:\v2p1\casper\1440\t3.vom  Infection: V2PX.1440
+u:\v2p1\casper\1440\t4.vom  Infection: V2PX.1440
+u:\v2p1\casper\1440\t5.vom  Infection: V2PX.1440
+u:\v2p1\casper\1440\t6.vom  Infection: V2PX.1440
+u:\v2p1\casper\1440\wci0818v.vom  Infection: V2PX.1440
+u:\v2p1\casper\1455\t1.vom  Infection: Casper.1455
+u:\v2p1\casper\1455\virus.dos.chameleon.casper.1455  Infection: Casper.1455
+u:\v2p2\v2px_x.vom  Infection: V2PX.1722
+u:\v2p2\v2px_z.vom  Infection: V2PX.1722
+u:\v2p2\_1260_b.vom  Infection: V2PX.1722
+u:\v2p6\1639\t1.vom  Infection: V2PX.1639
+u:\v2p6\1639\t2.vom  Infection: V2PX.1639
+u:\v2p6\1639\t3.vom  Infection: V2PX.1639
+u:\v2p6\1639\t5.vom  Infection: V2PX.1639
+u:\v2p6\1639\v2p6_.vom  Infection: V2PX.1639
+u:\v2p6\1808\invisbv1.vom  Infection: V2PX.1808
+u:\v2p6\1808\v2p6.vom  Infection: V2PX.1808
+u:\v2p6\1808\v2pxa.vom  Infection: V2PX.1808
+u:\v2p6\1808\vienunk3.vom  Infection: V2PX.1808
+u:\v2p6\1808\vienunk4.vom  Infection: V2PX.1808
+u:\v2p6\1948\15b60a58.vom  Infection: V2PX.1948
+u:\v2p6\1948\t1.vom  Infection: V2PX.1948
+u:\v2p6\1948\t3.vom  Infection: V2PX.1948
+u:\v2p6\1969\t1.vom  Infection: V2PX.1969
+u:\v2p6\1969\virus.dos.chameleon.1446  Infection: V2PX.1969
+u:\v2p6\1993\v2p6.vom  Infection: V2PX.1993
+u:\v2p6\1993\v2p6adol.vom  Infection: V2PX.1993
+u:\v2p6\1993\v2p6z.vom  Infection: V2PX.1993
+u:\v2p6\1993\vienunk5.vom  Infection: V2PX.1993
+u:\v2p6\1993\vienunk6.vom  Infection: V2PX.1993
+u:\v2p6\d\v2p6.vom  contains Vienna (non-working)
+
+Results of virus scanning:
+
+Files: 103
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 103
+Infected: 80
+Suspicious: 0
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:00

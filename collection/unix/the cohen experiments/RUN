@@ -1,4 +1,0 @@
-for i in `/bin/ls | sort -n | tail -$1`
-do
-$i
-done
