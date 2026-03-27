@@ -1,1 +1,1 @@
-Source: Jaqcueline Landman Gay
+Source: Jacqueline Landman Gay
