@@ -14,6 +14,8 @@ Computer archaeologist and enthusiast
 Computer archaeologist and enthusiast
 * Kevin G. Barkes<br>
 Writer of the KGB Report and DCL specialist
+* Julian Bunn<br>
+Physicist and computational scientist. Ran the main VAX (VXCERN) at CERN in 1991 
 
 
 
