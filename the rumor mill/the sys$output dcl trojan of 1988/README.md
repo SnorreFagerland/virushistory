@@ -1,7 +1,7 @@
 <h3>The SYS$OUTPUT DCL trojan of 1988</h3>
 
 In 1988, the BBS operator Kevin G. Barkes (aka KGB) saw someone trying to distribute a destructive trojan written in the language used in VAX machines; DIGITAL Command Language (DCL).
-I asked about the sample, but it is gone - entered the digital realm and immediately exited left.<br><br>
+I asked about the sample, but it is gone. It entered the digital realm and immediately exited left.<br><br>
 
 
 
@@ -13,9 +13,6 @@ I asked about the sample, but it is gone - entered the digital realm and immedia
 
 However, KGB wrote the account below about the incident.
 <br><br>
-
-
-
 <code>
 DCL DIALOGUE
 
