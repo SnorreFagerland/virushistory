@@ -2,7 +2,7 @@
 
 In 1991, CERN suffered an incident where a VAX/VMS "trojan" named SYSMAN.EXE was found on multiple machines. 
 This really happened - there are multiple advisories mentioning the issue. However, no sample is available.
-Reading the advisories now, it is clear that this is no oldschool destruction. This was an intrusion and apparent
+Reading the advisories now, it is clear that this is no oldschool destruction. This was intrusion and apparent
 lateral movement.
 
 https://attrition.org/security/advisory/ciac/c-fy92/c-05.ciac-vms-sysman-trojan-preliminary<br>
