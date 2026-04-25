@@ -1,11 +1,20 @@
-<h3>The DCL trojan attempt of 1988</h3>
+<h3>The SYS$OUTPUT DCL trojan of 1988</h3>
 
-To be honest, I think I deleted the DCL command file immediately after writing the column. I didn’t want to risk it being accidentally copied or downloaded.
+In 1988, the BBS operator Kevin G. Barkes (aka KGB) saw someone trying to distribute a destructive trojan written in the language used in VAX machines; DIGITAL Command Language (DCL).
+I asked about the sample, but it is gone - entered the digital realm and almost immediately exited left-  
 
+<em>
+"To be honest, I think I deleted the DCL command file immediately after writing the column. I didnâ€™t want to risk it being accidentally copied or downloaded."
 -KGB (Kevin G. Barkes)
+</em>
+<br><br>
+
+However, KGB wrote the account below about the incident.
+<br><br>
 
 
-<div style="color:red;">
+
+<code>
 DCL DIALOGUE
 
 by Kevin G. Barkes
@@ -167,4 +176,4 @@ Copyright 1988-2016 by Kevin G. Barkes
 All rights reserved. This article may be duplicated or
 redistributed provided no alterations of any kind are
 made to this file.
-</div>
+<code>
