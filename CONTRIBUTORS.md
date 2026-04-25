@@ -4,16 +4,18 @@ These folks are legends. Many many thanks!
 Some are listed only using aliases, as pr their request. Aliases will be listed in <em>cursive</em>
 
 
-* Dr. Vesselin Bontchev<br>
+* <strong>Dr. Vesselin Bontchev</strong><br>
 Antivirus veteran and macro virus specialist
-* Jacqueline Landman Gay<br>
+* <strong>Jacqueline Landman Gay</strong><br>
 Hypercard software guru and founder of HyperActive Software
-* <em>Draedon</em><br>
+* <strong><em>Draedon</em></strong><br>
 Computer archaeologist and enthusiast
-* <em>Vincent Lalo</em><br>
+* <strong><em>Vincent Lalo</em></strong><br>
 Computer archaeologist and enthusiast
-* Kevin G. Barkes<br>
+* <strong>Kevin G. Barkes</strong><br>
 Writer of the KGB Report and DCL specialist
+* <strong>Julian Bunn</strong><br>
+Physicist and computational scientist. Ran the main VAX (VXCERN) at CERN in 1991 
 
 
 
