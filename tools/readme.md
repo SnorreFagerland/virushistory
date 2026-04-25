@@ -1,4 +1,4 @@
-<h2>This folder will contain or reference useful tools for this project</h2>
+<h2>This folder contains useful tools for this project</h2>
 
 - dump_symbian_sis.py : Python script to describe the structure of SIS files (Symbian Installers)
 - dump_amiga_boot.py : Python script to describe the structure of Commodore Amiga boot blocks 
