@@ -16,7 +16,7 @@ Computer archaeologist and enthusiast
 Writer of the KGB Report and DCL specialist
 * <strong>Julian Bunn</strong><br>
 Physicist and computational scientist. Ran the main VAX (VXCERN) at CERN in 1991 
-* <strong>Steven Merel - <em>The HyperAvenger</em></strong>
+* <strong>Steven Merel - <em>The HyperAvenger</em></strong><br>
 Developer and the then 14-year old author of the first virus for Apple Hypercard
 
 
