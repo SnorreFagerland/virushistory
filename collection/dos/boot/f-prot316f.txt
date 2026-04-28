@@ -1,0 +1,1438 @@
+Virus scanning report  -  28 April 2026 @ 11:16
+
+F-PROT ANTIVIRUS
+Program version: 3.16f
+Engine version: 3.16.13
+
+VIRUS SIGNATURE FILES
+SIGN.DEF created 16 January 2007
+SIGN2.DEF created 16 January 2007
+MACRO.DEF created 16 January 2007
+
+Search: u:\*
+Action: Report only
+Files: "Dumb" scan of all files
+Switches: /ARCHIVE /PACKED /SERVER /COLLECT /REPORT=u:\f-prot316f.txt /OLD
+Memory was not scanned.
+No viruses were found in MBRs or hard disk boot sectors.
+
+u:\3apa3a\a\3apa3a-a.boo  Infection: 3apa3a.A image file (exact)
+u:\3apa3a\a\3apa3a.td0  Infection: 3apa3a.A image file (exact)
+u:\3apa3a\b\3apa3a.bin  Infection: 3apa3a.B image file (exact)
+u:\3apa3a\c\3apa3a-c.boo  Infection: 3apa3a.C image file (exact)
+u:\3_nops\a\3nops-a.boo  Infection: 3_NOPs.A image file (exact)
+u:\3_nops\a\3nops.boo  Infection: 3_NOPs.A image file (exact)
+u:\3_nops\b\boot_vir.boo  Infection: 3_NOPs.B image file (exact)
+u:\3_nops\c\96c31079b0c3463ac72616c3c20b5ac074fa4010850b0572a4d404b165694f93  Infection: 3_NOPs.C image file (exact)
+u:\abcd\a\abcd-a.boo  Infection: ABCD.A image file (exact)
+u:\abcd\a\abcd.bin  Infection: ABCD.A image file (bad sample) (exact)
+u:\abs-3\a\abs-3a.boo  Infection: Abs-3.A image file (bad sample) (exact)
+u:\abs-3\b\_abs-3~1.boo  Infection: Abs-3.B image file (bad sample) (exact)
+u:\aircop\a\aircopst.boo  Infection: Aircop.A image file (exact)
+u:\aircop\a\aircop~4.boo  Infection: Aircop.A image file (exact)
+u:\aircop\c\aircngc.boo  Infection: Aircop.C image file (exact)
+u:\aircop\c\aircop4.boo  Infection: Aircop.C image file (bad sample) (exact)
+u:\aircop\c\airngc.boo  Infection: Aircop.C image file (exact)
+u:\aircop\d\aircopng.boo  Infection: Aircop.D image file (exact)
+u:\aircop\e\aircope-0.bin  Infection: Aircop.E image file (exact)
+u:\aircop\e\aircope-1.bin  Infection: Aircop.E image file (exact)
+u:\aircop\e\aircope-2.boo  Infection: Aircop.E image file (exact)
+u:\aircop\f\aircop-f.boo  Infection: Aircop.F image file (exact)
+u:\aircop\g\aircopg-0.boo  Infection: Aircop.G image file (exact)
+u:\aircop\g\aircopg-1.boo  Infection: Aircop.G image file (exact)
+u:\aircop\h\__airc~1.boo  Infection: Aircop.H image file (bad sample) (exact)
+u:\alar\4625\alar4625-0.boo  Infection: Alar.4625 image file
+u:\alar\4625\alar4625-1.boo  Infection: Alar.4625 image file
+u:\alar\4625\alar4625-2.boo  Infection: Alar.4625 image file
+u:\alfa\3072\alfa3072-0.vom  Infection: Alfa.3072 image file (exact)
+u:\alfa\3072\alfa3072-1.vom  Infection: Alfa.3072
+u:\alfa\3072\alfa3072-2.vom  Infection: Alfa.3072
+u:\amjads\amjads-0.boo  Infection: Amjads image file (exact)
+u:\andli\andli-0.boo  Infection: Andli image file (exact)
+u:\andli\andli-1.boo  Infection: Andli.unknown? image file
+u:\andrew\andrew-0.boo  Infection: Andrew.C image file (bad sample) (exact)
+u:\andrew\andrew-1.boo  Infection: Andrew.unknown? image file
+u:\andrew\a\andrew-2.boo  Infection: Andrew.A image file (exact)
+u:\andrew\b\andrew-3.boo  Infection: Andrew.B image file (exact)
+u:\andrew\c\wci03293.boo  Infection: Andrew.C image file (exact)
+u:\andrisd\andrisd.boo  Infection: Andrisd image file
+u:\androbot\androbot-0.boo  Infection: Androbot image file (exact)
+u:\androbot\androbot-1.boo  Infection: Androbot image file (exact)
+u:\androbot\androbot-2.boo  Infection: Androbot image file (exact)
+u:\anthrax\wci0117a.boo  Infection: Anthrax image file (exact)
+u:\anticad\a\ana.boo  Infection: AntiCad.A image file (exact)
+u:\anticad\b\antic-b-0.boo  Infection: AntiCad.B image file (exact)
+u:\anticad\b\antic-b-1.boo  Infection: AntiCad.B image file (exact)
+u:\anticad\c\3455a485.boo  Infection: AntiCad.C image file
+u:\anticad\d\invaderd.boo  Infection: AntiCad.D image file
+u:\anticad\e\invader.boo  Infection: AntiCad.E image file (exact)
+u:\anticad\f\antic-f-0.boo  Infection: AntiCad.F image file (exact)
+u:\anticad\f\antic-f-1.boo  Infection: AntiCad.F image file (exact)
+u:\anticmos\a\anticmos.boo  Infection: AntiCMOS.A image file (exact)
+u:\anticmos\a\anticm~1.boo  Infection: AntiCMOS.A image file (exact)
+u:\anticmos\b\anticmos.boo  Infection: AntiCMOS.B image file (exact)
+u:\anticmos\c\antic-c-0.boo  Infection: AntiCMOS.C image file (exact)
+u:\anticmos\c\antic-c-1.boo  Infection: AntiCMOS.C image file (exact)
+u:\anticmos\c\antic-c-2.boo  Infection: AntiCMOS.C image file (exact)
+u:\anticmos\d\anticm-d.boo  Infection: AntiCMOS.D image file (exact)
+u:\anticmos\e\anticm-e.boo  Infection: AntiCMOS.E image file (exact)
+u:\anticmos\f\anticm-f.boo  Infection: AntiCMOS.F image file (exact)
+u:\antiexe\a\wci0166a.boo  Infection: AntiExe.A image file (exact)
+u:\antiexe\b\antiexeb-0.boo  Infection: AntiExe.B image file (exact)
+u:\antiexe\c\antiexe-c.boo  Infection: AntiExe.C image file (exact)
+u:\antiexe\d\antiexe-d.boo  Infection: AntiExe.D image file (exact)
+u:\antiexe\f\antiexef-0.boo  Infection: AntiExe.F image file (exact)
+u:\antiexe\g\antiexeg-0.boo  Infection: AntiExe.G image file (exact)
+u:\antiexe\h\antiunk-0.boo  Infection: AntiExe.unknown? image file
+u:\antiexe\h\antiunk-1.boo  Infection: New or modified variant of AntiExe
+u:\antiexe\i\antiexei-0.boo  Infection: AntiExe.I image file (exact)
+u:\antiexe\j\antiexej-0.boo  Infection: AntiExe.J image file (exact)
+u:\antiexe\j\antiexej-1.boo  Infection: AntiExe.J image file (exact)
+u:\antiexe\k\antiexek-0.boo  Infection: AntiExe.K image file (exact)
+u:\antiexe\l\antiexel-0.boo  Infection: AntiExe.L image file (exact)
+u:\antiexe\unknown\anti-unk-0.boo  Infection: AntiExe.unknown? image file
+u:\antiexe\unknown\anti-unk-1.boo  Infection: AntiExe.unknown? image file
+u:\antimd\antimd-0.boo  Infection: Antimd image file
+u:\antimd\antimd-1.boo  Infection: Antimd image file
+u:\antimd\antimd-2.boo  Infection: Antimd image file
+u:\antiwin95\antiw95-0.boo  Infection: AntiWin95 image file
+u:\antiwin95\antiw95-1.boo  Infection: AntiWin95 image file
+u:\ap\a\apa.boo  Infection: AP.A image file (exact)
+u:\ap\b\ap-b.boo  Infection: AP.B image file (exact)
+u:\ap\c\ap-c.boo  Infection: AP.C image file (exact)
+u:\ap\d\ap-d.boo  Infection: AP.D image file (exact)
+u:\ap\e\ap-e.boo  Infection: AP.E image file (exact)
+u:\ap\f\apf.boo  Infection: AP.F image file (exact)
+u:\ap\g\apgh.boo  Infection: AP.G image file (exact)
+u:\ap\h\ap-h.boo  Infection: AP.H image file (exact)
+u:\ap\h\aph.boo  Infection: AP.H image file (exact)
+u:\ap\i\api.boo  Infection: AP.I image file (exact)
+u:\ap\j\ap-j.boo  Infection: AP.J image file (exact)
+u:\ap\k\apk.boo  Infection: AP.K image file (exact)
+u:\ap\l\apl.boo  Infection: AP.L image file (exact)
+u:\ap\m\apm.boo  Infection: AP.M image file (exact)
+u:\ap\nightcity\nightcit.boo  Infection: NightCity image file (exact)
+u:\ap\p\apj.boo  Infection: AP.P image file (exact)
+u:\aprilv1\aprilv1_-001.boo  Infection: Aprilv1.trojan image file (exact)
+u:\aprilv1\aprilv1_-002.boo  Infection: Aprilv1.trojan image file (exact)
+u:\aprilv1\aprilv1_.boo  Infection: Aprilv1.trojan image file (exact)
+u:\april_ii\april_ii.boo  Infection: April_II image file
+u:\aragon\a\aragon.boo  Infection: Aragon.A image file (exact)
+u:\aragon\b\aragonb-0.boo  Infection: Aragon.B image file (exact)
+u:\aragon\b\aragonb-1.boo  Infection: Aragon.B image file (exact)
+u:\aragon\c\aragonc-0.boo  Infection: Aragon.C image file (exact)
+u:\aragon\d\aragond-0.boo  Infection: Aragon.D image file (exact)
+u:\ardvark\ardvark.boo  Infection: Ardvark image file
+u:\arianna\3426\arianna_.boo  Infection: Arianna.3426 image file (exact)
+u:\arjguru\arjguru_.boo  Infection: Arjguru.trojan image file
+u:\arya\4616\arya_461-001.boo  Infection: Arya.4616 image file (exact)
+u:\asbv\asbv.boo  Infection: Asbv image file (exact)
+u:\aslf\aslf-001.vom  Infection: Aslf image file (bad sample)
+u:\aslf\aslf.vom  Infection: Aslf image file (bad sample)
+u:\asterisk\asterisk.boo  Infection: Asterisk.unknown? image file
+u:\atcorp\321\wci03303.boo  Infection: ATCorp.321 image file (exact)
+u:\auger\auger.boo  Infection: Auger image file (exact)
+u:\autumnal\3072\autumnal-001.boo  Infection: Autumnal.3072 image file (exact)
+u:\autumnal\3072\autumnal-002.boo  Infection: Autumnal.3072 image file (exact)
+u:\azusa\a\azusa.boo  Infection: Azusa.A image file (exact)
+u:\azusa\b\azusa_b.boo  Infection: Azusa.B image file (exact)
+u:\azusa\d\azusa_d-001.boo  Infection: Azusa.D image file (exact)
+u:\azusa\d\azusa_d-002.boo  Infection: Azusa.D (exact) - Dropper
+u:\azusa\d\azusa_d.boo  Infection: Azusa.D (exact) - Dropper
+u:\azusa\f\azusa_f-001.boo  Infection: Azusa.F image file (exact)
+u:\azusa\f\azusa_f.boo  Infection: Azusa.F image file (exact)
+u:\b2\b2.boo  Infection: B2 image file (exact)
+u:\babec\a\babec_a-001.boo  Infection: Babec.A image file
+u:\babec\a\babec_a.boo  Infection: Babec.A image file (bad sample)
+u:\babec\b\babec-b.boo  Infection: Babec.B image file (exact)
+u:\babec\c\babec_c.boo  Infection: Babec.C image file
+u:\baboon\a\baboon_a.boo  Infection: Baboon.A image file (exact)
+u:\backing\backing.boo  Infection: Backing image file (exact)
+u:\bagoes\bagoes.boo  Infection: Bagoes image file (exact)
+u:\banban\banban.boo  Infection: Banban image file (exact)
+u:\baphometh\1536\f\baphomet-001.boo  Infection: Baphometh.1536.F image file (bad sample) (exact)
+u:\baphometh\1536\f\baphomet.boo  Infection: Baphometh.1536.F image file (exact)
+u:\baphometh\1536\g\baphomet-001.boo  Infection: Baphometh.1536.G image file (exact)
+u:\baphometh\1536\g\baphomet.boo  Infection: Baphometh.1536.G image file (exact)
+u:\baphometh\1536\j\baphomet-001.boo  Infection: Baphometh.1536.J image file (bad sample)
+u:\baphometh\1536\j\baphomet-002.boo  Infection: Baphometh.1536.J image file
+u:\baphometh\1536\j\baphomet.boo  Infection: Baphometh.1536.J image file
+u:\beavis\a\beavis_a.boo  Infection: Beavis.A image file (exact)
+u:\beavis\b\beavis_b.boo  Infection: Beavis.B image file (exact)
+u:\beryllium\berylliu.boo  Infection: Beryllium image file (exact)
+u:\bite\bite.boo  Infection: Bite image file (exact)
+u:\blackhack\2681\blackhac.boo  Infection: BlackHack.2681 image file
+u:\black_worm\blackwor.boo  Infection: Black_Worm image file (exact)
+u:\bleah\b\bleah_b.vom  Infection: Bleah.B image file (exact)
+u:\bleah\c\bleah_c.vom  Infection: Bleah.C image file (exact)
+u:\bleah\d\sevilla.boo  Infection: Bleah.D image file (exact)
+u:\bleah\e\bleah_e-001.vom  Infection: Bleah.E image file (exact)
+u:\bleah\e\bleah_e-002.vom  Infection: Bleah.E image file (exact)
+u:\bleah\e\bleah_e.vom  Infection: Bleah.E image file (exact)
+u:\bleah\f\bleah_f-001.vom  Infection: Bleah.F image file (exact)
+u:\bleah\f\bleah_f.vom  Infection: Bleah.F image file (exact)
+u:\bleah\g\bleah_g.vom  Infection: Bleah.G image file (exact)
+u:\bleah\h\bleah_h-001.vom  Infection: Bleah.H image file (bad sample) (exact)
+u:\bleah\h\bleah_h.vom  Infection: Bleah.H image file (bad sample) (exact)
+u:\blinky\dd6cfba1.boo  Infection: Blinky image file
+u:\boehmex\boehmex.boo  Infection: Boehmex image file
+u:\boot-437\a\boot-437.boo  Infection: Boot-437.A image file (exact)
+u:\boot666\boothrs3.boo  Infection: Boot666 image file
+u:\bootc512\b.vom  Infection: BootCom.512.B image file
+u:\bootexe\443\bootexe_-001.boo  Infection: BootEXE.443 image file (exact)
+u:\bootexe\444\wci03313.boo  Infection: BootEXE.444 image file (exact)
+u:\bootexe\451\b\wci03323.boo  Infection: BootEXE.451.B image file (exact)
+u:\booty\a\booty_a.boo  Infection: Booty.A image file (exact)
+u:\boot_intruder\boot_int.boo  Infection: Boot_Intruder image file (exact)
+u:\bored\bored.boo  Infection: Bored image file (exact)
+u:\borrare\borrare.boo  Infection: Borrare image file (exact)
+u:\bounty_bob\bounty_b.boo  Infection: Bounty_Bob image file (exact)
+u:\brain\a\brain-a.boo  Infection: Brain.A image file (exact)
+u:\brain\a\brain.boo  Infection: Brain.A image file (exact)
+u:\brain\a\brainstd.boo  Infection: Brain.A image file (exact)
+u:\brain\a\dropper\BRAIN.vom  is a boot sector virus dropper
+u:\brain\a\dropper\BRAINDRP.vxe  Infection: Brain.A (exact) - Dropper
+u:\brain\b\brainb-2.boo  Infection: Brain.B image file (exact)
+u:\brain\b\brainb.boo  Infection: Brain.B image file (bad sample) (exact)
+u:\brain\c\brainc.boo  Infection: Brain.C image file (exact)
+u:\brain\d\braind.boo  Infection: Brain.D image file (exact)
+u:\brain\d\braind2.boo  Infection: Brain.D image file (bad sample) (exact)
+u:\brain\e\braine.boo  Infection: Brain.E image file (exact)
+u:\brain\e\braine.img  Infection: Brain.E image file (exact)
+u:\brain\f\brain2.boo  Infection: Brain.F image file (exact)
+u:\brain\f\brainf-3.boo  Infection: Brain.F image file (exact)
+u:\brain\f\brainf.boo  Infection: Brain.F image file (exact)
+u:\brain\g\braing.boo  Infection: Brain.G image file (exact)
+u:\brain\h\brainh.boo  Infection: Brain.H image file (exact)
+u:\brain\j\brainj.boo  Infection: Brain.J image file (exact)
+u:\brain\k\braink.boo  Infection: Brain.unknown? image file
+u:\brasil\brasil.boo  Infection: Brasil image file (exact)
+u:\bravo\bravo-001.vom  Infection: Bravo image file (exact)
+u:\bravo\bravo.vom  Infection: Bravo image file (exact)
+u:\breaker\breaker.boo  Infection: Breaker image file (exact)
+u:\breakpoint\breakpoi-001.boo  Infection: Breakpoint image file
+u:\breakpoint\breakpoi-002.boo  Infection: Breakpoint image file (bad sample)
+u:\breederboot\b128a6ac.boo  Infection: BreederBoot image file (exact)
+u:\brr\a\brr_a.boo  Infection: Brr.A image file (exact)
+u:\brr\b\wci03704.td0  Infection: Brr.B image file (exact)
+u:\brr\c\boothrs2.boo  Infection: Brr.C image file (exact)
+u:\brr\d\brr_d.boo  Infection: Brr.D image file (exact)
+u:\bucharest\a\form.boo  Infection: Bucharest.A image file (exact)
+u:\bucharest\b\chs.boo  Infection: Bucharest.B image file (exact)
+u:\bucharest\c\rp-bsv4.boo  Infection: Bucharest.C image file (exact)
+u:\bucharest\d\buchares.boo  Infection: Bucharest.D image file (exact)
+u:\bucharest\e\buch-e.boo  Infection: Bucharest.E image file (exact)
+u:\bug70\bug70-001.boo  Infection: Bug70 image file (exact)
+u:\buhr\virus.boot.experimental  Infection: Buhr image file (exact)
+u:\bye\a\bye.boo  Infection: Bye.A image file (exact)
+u:\camaleon\camaleon.boo  Infection: Camaleon image file (exact)
+u:\cannabis\a\cannabia.boo  Infection: Cannabis.A image file (exact)
+u:\cannabis\b\cannabib.boo  Infection: Cannabis.B image file (exact)
+u:\cannabis\c\cannabic.boo  Infection: Cannabis.C image file (exact)
+u:\cannabis\d\cannabid.boo  Infection: Cannabis.D image file (exact)
+u:\cannabis\e\cannabie.boo  Infection: Cannabis.E image file (exact)
+u:\cannabis\f\canna-f.boo  Infection: Cannabis.F image file (exact)
+u:\cannabis\g\cannabig.boo  Infection: Cannabis.G image file (exact)
+u:\cannabis\h\cannabih.boo  Infection: Cannabis.H image file (exact)
+u:\cannabis\i\cannabis.boo  Infection: Cannabis.I image file (exact)
+u:\cannabis\j\cannabis.boo  Infection: Cannabis.J image file (exact)
+u:\carmel\a\carmel_a-001.boo  Infection: Carmel.A image file (exact)
+u:\carmel\a\carmel_a.boo  Infection: Carmel.A image file (exact)
+u:\carmel\b\carmel_b-001.boo  Infection: Carmel.B image file (bad sample) (exact)
+u:\carnival\2346\carnival.boo  Infection: Carnival.2346 image file (exact)
+u:\catman\65766dhg.boo  Infection: Catman image file (exact)
+u:\catman\catman.boo  Infection: Catman image file (exact)
+u:\cb\450\cb_450.boo  Infection: CB.450 image file
+u:\ccbb\1410\ccbb_141.boo  Infection: CCBB.1410 image file (exact)
+u:\cdab\cdab.boo  Infection: CDAB image file (exact)
+u:\cekov\cekov-001.boo  Infection: Cekov image file (exact)
+u:\cekov\cekov.boo  Infection: Cekov image file (exact)
+u:\chance\a\chancea.boo  Infection: Chance.A image file (exact)
+u:\chance\b\chance-b.boo  Infection: Chance.B image file (exact)
+u:\chance\c\chance-c.boo  Infection: Chance.C image file (exact)
+u:\chance\d\virus.boot.chance.d  Infection: Chance.D image file (exact)
+u:\chimp\chimp.boo  Infection: Chimp image file (exact)
+u:\chinese_fish\a\chines~1.boo  Infection: Chinese_Fish.A image file (exact)
+u:\chinque\a\chinque_.boo  Infection: Chinque.A image file
+u:\chinque\b\chinque_.boo  Infection: Chinque.B image file
+u:\chupacabras\chupacab.boo  Infection: Chupacabras image file (exact)
+u:\chupacabras\Virus.Boot.Ani  Infection: Chupacabras image file (exact)
+u:\cicada\cicada-001.boo  Infection: Cicada image file (bad sample) (exact)
+u:\cicada\cicada.boo  Infection: Cicada image file (exact)
+u:\civil_defense\a\civil_~1.boo  Infection: Civil_Defense.6656.A image file (exact)
+u:\civil_defense\b\virus.boot-dos.civil.6656.c  Infection: Civil_Defense.6656.B image file (exact)
+u:\cmosboot\intcmos.cc  Infection: CmosBoot (exact) - Dropper
+u:\cmosboot\intcmos.mbr  Infection: CmosBoot image file (exact)
+u:\cmos_death\cmos_dea.boo  Infection: CMOS_Death image file (exact)
+u:\codewar\codewar.boo  Infection: AreThree.2048 image file (exact)
+u:\comptroj\a\comptroj.boo  Infection: CompTroj.A image file (exact)
+u:\comptroj\b\comptroj.boo  Infection: CompTroj.B image file (exact)
+u:\comptroj\c\comptroj.boo  Infection: CompTroj.C image file (exact)
+u:\comx\comx-001.td0  Infection: COMx image file (exact)
+u:\comx\comx.boo  Infection: COMx image file (exact)
+u:\copy77\copy77-001.boo  Infection: Copy77 image file (exact)
+u:\copy77\copy77.td0  Infection: Copy77 image file (exact)
+u:\copyleft\4722\virus.dos.mpei.4772  Infection: Copyleft.4722 image file
+u:\coup\1957\virus.boot-dos.coup.1957  Infection: Coup.1957 image file
+u:\coup\1957\virus.boot-dos.olga.483  Infection: Coup.1957 image file
+u:\coup\2052\a\virus.boot-dos.coup.2052.a  Infection: Coup image file
+u:\coupdem\2260\coupdem_-001.boo  Infection: Coupdem.2260 image file
+u:\crap\crap.boo  Infection: Crap image file (exact)
+u:\crap\crap_unk.boo  Infection: Crap.unknown? image file (bad sample)
+u:\crazy_boot\a\crazy_bo-001.boo  Infection: Crazy_Boot.A image file (exact)
+u:\crazy_boot\a\crazy_bo-002.boo  Infection: Crazy_Boot.A image file (exact)
+u:\crazy_boot\a\crazy_bo.boo  Infection: Crazy_Boot.A image file (exact)
+u:\crepate\2910\wci06233.td0  Infection: Crepate.2910 image file (exact)
+u:\cruel\a\cruela.boo  Infection: Cruel.A image file (exact)
+u:\daboys\a\da'boy~1.boo  Infection: Da'Boys.A image file (exact)
+u:\daboys\a\daboys-0.boo  Infection: Da'Boys.A image file (exact)
+u:\daboys\b\daboysb-0.td0  Infection: Da'Boys.B image file (exact)
+u:\daboys\b\daboysb-1.boo  Infection: Da'Boys.B image file (exact)
+u:\damcdoom\damcdoom.boo  Infection: DamCDoom image file (exact)
+u:\darkelf\darkelf.boo  Infection: Delf image file (exact)
+u:\dark_angel\3250\wci03333.boo  Infection: Dark_Angel.3250 image file
+u:\darnok\darnok.boo  Infection: Darnok image file (exact)
+u:\day31\day31.boo  Infection: Day31 image file
+u:\deadboot\448\deadboot.boo  Infection: Deadboot.448 image file (exact)
+u:\deadface\a\deadface.boo  Infection: Deadface.A image file
+u:\defo\defo.boo  Infection: Defo image file
+u:\delaut\296\delaut_2.boo  Infection: Delaut.296 image file
+u:\delcmos\a\delcmos_.boo  Infection: DelCMOS.A image file (exact)
+u:\delcmos\b\delcmos_-001.boo  Infection: DelCMOS.B image file (exact)
+u:\delcmos\b\delcmos_-002.boo  Infection: DelCMOS.B image file (exact)
+u:\delcmos\b\delcmos_.boo  Infection: DelCMOS.B image file (exact)
+u:\delcmos\c\delcmos_.boo  Infection: DelCMOS.C image file (exact)
+u:\delcmos\d\delcmos_-001.boo  Infection: DelCMOS.D image file (exact)
+u:\delcmos\d\delcmos_.boo  Infection: DelCMOS.D image file (bad sample) (exact)
+u:\demi\demi.boo  Infection: Demi image file
+u:\denzuk\a\denz2-drop.vom  is a boot sector virus dropper
+u:\denzuk\a\denzuka-2.boo  Infection: Denzuko.A image file (exact)
+u:\denzuk\a\denzuka.boo  Infection: Denzuko.A image file (exact)
+u:\denzuk\b\denzukb.boo  Infection: Denzuko.B image file (bad sample) (exact)
+u:\denzuk\c\denzukc.boo  Infection: Denzuko.C image file (exact)
+u:\denzuk\c\denzukc_.boo  Infection: Denzuko.B image file (exact)
+u:\denzuk\d\denzuk-d.boo  Infection: Denzuko.D image file (exact)
+u:\denzuk\d\denzukd.boo  Infection: Denzuko.D image file (exact)
+u:\denzuk\d\denzuk_.boo  Infection: Denzuko.D image file (exact)
+u:\denzuk\e\denzuk-e.boo  Infection: Denzuko.E image file (exact)
+u:\denzuk\e\denzuke.boo  Infection: Denzuko.E image file (exact)
+u:\denzuk\f\denzukf-drp.bin  Infection: Denzuko.F image file (exact)
+u:\denzuk\f\ohio.td0  Infection: Denzuko.F image file (exact)
+u:\denzuk\g (mardi bros)\denzuko-g.boo  Infection: Denzuko.G image file (bad sample) (exact)
+u:\denzuk\g (mardi bros)\denzukog.boo  Infection: Denzuko.G image file (exact)
+u:\denzuk\h\denzukh-2.boo  Infection: Denzuko.H image file (exact)
+u:\denzuk\h\denzukh.boo  Infection: Denzuko.H image file (exact)
+u:\denzuk\i\denzuki.boo  Infection: Denzuko.I image file (exact)
+u:\denzuk\j\denzuk-j.boo  Infection: Denzuko.E image file (bad sample) (exact)
+u:\destage\destage_-002.boo  Infection: Destage.1200 image file
+u:\devil\a\devilc.boo  Infection: Devil.A image file (exact)
+u:\devil\b\devil_b.vom  Infection: Devil.B image file (exact)
+u:\devil\d\devil_d.vom  Infection: Devil.D image file (exact)
+u:\diablo\a\diablo_a.boo  Infection: Diablo.A image file (exact)
+u:\diablo\b\diablob.boo  Infection: Diablo.B image file (bad sample) (exact)
+u:\digital_glue\4000\a\digital_-001.boo  Infection: Digital_Glue.4000.A image file (exact)
+u:\digital_glue\4000\a\digital_.boo  Infection: Digital_Glue.4000.A image file (exact)
+u:\digital_glue\4000\b\digital_-001.boo  Infection: Digital_Glue.4000.B image file (exact)
+u:\digital_glue\4000\b\digital_.boo  Infection: Digital_Glue.4000.B image file (exact)
+u:\digits\memeater.boo  Infection: Digits image file (exact)
+u:\diskboomer\diskboom.boo  Infection: Diskboomer image file (exact)
+u:\diskwasher\a\diskwash-001.boo  Infection: Diskwasher.A image file (exact)
+u:\diskwasher\a\diskwash-002.boo  Infection: Diskwasher.A image file (exact)
+u:\diskwasher\a\diskwash.boo  Infection: Diskwasher.A image file (exact)
+u:\disk_d\a\trojan.dos.diskeraser.d  Infection: Disk_D.A image file
+u:\disk_killer\a\boot17.boo  Infection: Disk_Killer.A image file (exact)
+u:\disk_killer\a\DISKKILL.boo  Infection: Disk_Killer.A image file (exact)
+u:\disk_killer\a\ogre.boo  Infection: Disk_Killer.A image file (exact)
+u:\disk_killer\a\ogre1.bin  Infection: Disk_Killer.A image file (exact)
+u:\disk_killer\a\ogre104.bin  Infection: Disk_Killer.A image file (exact)
+u:\disk_killer\b\virus.boot.diskkiller.b  Infection: Disk_Killer.B image file (exact)
+u:\disk_killer\c\ogre.vom  Infection: Disk_Killer.C image file (bad sample) (exact)
+u:\disk_killer\d\diskkild.boo  Infection: Disk_Killer.D image file (bad sample) (exact)
+u:\disque\disque-001.boo  Infection: Disque image file (exact)
+u:\disque\disque.boo  Infection: Disque image file (exact)
+u:\dodgy\a\dodgy_a-001.boo  Infection: Dodgy.A image file (exact)
+u:\dodgy\a\dodgy_a-002.boo  Infection: Dodgy.A image file (exact)
+u:\dodgy\a\dodgy_a.boo  Infection: Dodgy.A image file (exact)
+u:\dogchr\512\dogchr_5-001.boo  Infection: Dogchr.512 image file (exact)
+u:\dogchr\512\dogchr_5.boo  Infection: Dogchr.512 image file (exact)
+u:\dragonboot\dragonbo.boo  Infection: DragonBoot image file (exact)
+u:\drdemon\wci03343.boo  Infection: DrDemon image file
+u:\drdemon\4218\drdemon_-001.boo  Infection: DrDemon.4218 image file
+u:\drdemon\4218\drdemon_-002.boo  Infection: DrDemon.4218 image file
+u:\drdemon\4218\drdemon_.boo  Infection: DrDemon.4218 image file
+u:\drdemon\4292\drdemon_.boo  Infection: DrDemon.4292 image file
+u:\dreamboot\dreamboo.boo  Infection: DreamBoot image file (exact)
+u:\drivel\wci04502.boo  Infection: Drivel image file (exact)
+u:\dull_boy\dullboy.boo  Infection: Dull_Boy.A image file (exact)
+u:\dunny\dunny-001.boo  Infection: Dunny image file
+u:\dunny\dunny.boo  Infection: Dunny image file
+u:\dupoem\magic.boo  Infection: Dupoem image file (exact)
+u:\eb79\eb79.boo  Infection: EB79 image file (bad sample) (exact)
+u:\ebo\1913\ebo_1913.boo  Infection: Ebo.1913 image file
+u:\ebola\6001\ebol6001.boo  Infection: Ebola.6001 image file
+u:\ebola\6001\ebola_60.boo  Infection: Ebola.6001 image file
+u:\eclipse\a\virus.boot.eclipse.a  Infection: Eclipse.A image file (exact)
+u:\eclipse\b\eclipse_-001.boo  Infection: Eclipse.B image file (exact)
+u:\eclipse\b\eclipse_.boo  Infection: Eclipse.B image file (exact)
+u:\eclipse\c\virus.boot.eclipse.c  Infection: Eclipse.C image file (exact)
+u:\eclipse\d\virus.boot.eclipse.d  Infection: Eclipse.D image file (exact)
+u:\eclipse\e\virus.boot.eclipse.e  Infection: Eclipse.E image file (exact)
+u:\edv\a\edv.boo  Infection: EDV.A image file (exact)
+u:\edv\b\edv_b-001.boo  Infection: EDV.B image file (exact)
+u:\edv\b\edv_b.boo  Infection: EDV.B image file (bad sample) (exact)
+u:\edwin\a\edwin_a.boo  Infection: Edwin.A image file (exact)
+u:\ejemplo\ejemplo.boo  Infection: Ejemplo image file (exact)
+u:\ekoterror\ekoterro.boo  Infection: Ekoterr.2000 (exact)
+u:\elkey\a\elkey_a.boo  Infection: Elkey.A image file (exact)
+u:\elkey\b\elkey_b.boo  Infection: Elkey.B image file (exact)
+u:\elkey\c\elkey_c-001.boo  Infection: Elkey.C image file (bad sample) (exact)
+u:\elkey\c\elkey_c.boo  Infection: Elkey.C image file (exact)
+u:\emperor\58xx\a\emperor_.boo  Infection: Emperor.58xx.A image file (exact)
+u:\emperor\58xx\b\emperor_.boo  Infection: Emperor.58xx.B image file (exact)
+u:\energy\energy-001.boo  Infection: Energy image file (exact)
+u:\energy\energy-002.boo  Infection: Energy image file (exact)
+u:\epbr\epbr.boo  Infection: Epbr image file (exact)
+u:\ermg\ermg.boo  Infection: Ermg image file
+u:\ester\wci03353.boo  Infection: Ester image file
+u:\exebug\exebug.boo  Infection: EXE_Bug.unknown? image file
+u:\exebug\a\exebuga.boo  Infection: EXE_Bug.A image file (exact)
+u:\exebug\b\exebugb.boo  Infection: EXE_Bug.B image file (exact)
+u:\exebug\c\exebugc.boo  Infection: EXE_Bug.C image file (exact)
+u:\exebug\d\exebugd.boo  Infection: EXE_Bug.D image file (exact)
+u:\exebug\f\exebugf.boo  Infection: EXE_Bug.F image file (exact)
+u:\exebug\g\exebug~1.boo  Infection: EXE_Bug.G image file
+u:\exebug\hooker\hooker.boo  Infection: EXE_Bug.Hooker image file (exact)
+u:\faca\2143\faca_214.boo  Infection: Faca.2143.unknown? image file
+u:\facade\a\facadea.boo  Infection: Facade.A image file (exact)
+u:\facade\b\facade_b.boo  Infection: Facade.B image file (exact)
+u:\facade\c\facade_c.boo  Infection: Facade.C image file (exact)
+u:\falcon\falcon-001.boo  Infection: Falcon image file (bad sample) (exact)
+u:\falcon\falcon-002.boo  Infection: Falcon image file (exact)
+u:\falcon\falcon.boo  Infection: Falcon image file (exact)
+u:\falling_letters\a\falling_.boo  Infection: Falling_Letters.A image file (exact)
+u:\falling_letters\b\fallet-b.boo  Infection: Falling_Letters.B image file (exact)
+u:\falling_letters\c\swap.td0  Infection: Falling_Letters.C image file (exact)
+u:\fame\842\fame.bin  Infection: Fame.842 image file (bad sample) (exact)
+u:\fantom\954\virus.boot-dos.fantom.954  Infection: Fantom.954 image file
+u:\fat_avenger\a\fataveng.boo  Infection: FAT_Avenger.A image file (exact)
+u:\fec\fec.boo  Infection: Fec (exact)
+u:\fidel\544\b\fidel_54.boo  Infection: Fidel.544.B image file (exact)
+u:\fifteen_years\a\15years.boo  Infection: Fifteen_Years.A image file (exact)
+u:\fifteen_years\c\15yearsb.boo  Infection: Fifteen_Years.C image file (exact)
+u:\fifteen_years\d\fifteen_-001.boo  Infection: Fifteen_Years.D image file (exact)
+u:\fifteen_years\d\fifteen_.boo  Infection: Fifteen_Years.D image file (bad sample) (exact)
+u:\fifty\fifty.boo  Infection: Fifty image file (exact)
+u:\filler\a\filler.td0  Infection: Filler.A image file (exact)
+u:\filler\a\FLIPTROJ.boo  Infection: Filler.A image file (exact)
+u:\filler\c\newfiler.td0  Infection: Filler.C image file
+u:\findme\findme.boo  Infection: Findme image file (exact)
+u:\finnish_sprayer\a\finnish_-001.boo  Infection: Finnish_Sprayer.A image file (exact)
+u:\finnish_sprayer\a\finnish_-002.boo  Infection: Finnish_Sprayer.A image file (bad sample) (exact)
+u:\finnish_sprayer\a\finnish_.boo  Infection: Finnish_Sprayer.A image file (exact)
+u:\fisu\fisu.boo  Infection: Fisu image file (exact)
+u:\fitw\7918\b\fitw_791-001.boo  Infection: FitW.7918.B image file
+u:\fitw\7918\b\fitw_791.boo  Infection: FitW.7918.B image file
+u:\flame\a\flame_a-001.boo  Infection: Flame.A image file (exact)
+u:\flame\a\flame_a.boo  Infection: Flame.A image file (exact)
+u:\flame\b\flame_b.boo  Infection: Flame.B image file (exact)
+u:\flame\c\flame_c.boo  Infection: Flame.C image file (exact)
+u:\flip\2153\a\virus.boot-dos.flip.madrid.2153  Infection: Flip.2153.A image file (exact)
+u:\flip\2153\b\virus.boot-dos.flip.2153.b  Infection: Flip.2153.B image file (exact)
+u:\flip\2153\c\346utyhy.boo  Infection: Flip.2153.C image file (bad sample) (exact)
+u:\flip\2153\c\flip-c.boo  Infection: Flip.2153.C image file (bad sample) (exact)
+u:\flip\2153\c\flip.boo  Infection: Flip.2153.C image file (bad sample) (exact)
+u:\flip\2153\c\virus.boot-dos.flip.2153.d  Infection: Flip.2153.C image file (exact)
+u:\form\a\img001.boo  Infection: Form.A image file (exact)
+u:\form\b\form-b.bin  Infection: Form.B image file (exact)
+u:\form\c\form-c.bin  Infection: Form.C image file (exact)
+u:\form\d\form_d-001.boo  Infection: Form.D image file (exact)
+u:\form\d\form_d.boo  Infection: Form.D image file (exact)
+u:\form\e\form_e.bin  Infection: Form.E image file (bad sample) (exact)
+u:\form\e\form_e.boo  Infection: Form.E image file (exact)
+u:\form\g\form_g-001.boo  Infection: Form.G image file (exact)
+u:\form\g\form_g.boo  Infection: Form.G image file (exact)
+u:\form\m\form_m.boo  Infection: Form.M image file (exact)
+u:\form\n\form_n.boo  Infection: Form.N image file (exact)
+u:\formatfd\formatfd-001.boo  Infection: FormatFD image file
+u:\formatfd\formatfd-002.boo  Infection: FormatFD image file
+u:\formatfd\formatfd.boo  Infection: FormatFD image file
+u:\frankenstein\frankens-001.boo  Infection: Frankenstein image file (exact)
+u:\frankenstein\frankens.boo  Infection: Frankenstein image file (exact)
+u:\galicia\a\galiciaa.boo  Infection: Galicia.A image file (exact)
+u:\galicia\b\galiciab.boo  Infection: Galicia.B image file (exact)
+u:\gentry\gentry.boo  Infection: Gentry image file (exact)
+u:\ghostboot\ghostboo.boo  Infection: GhostBoot image file (exact)
+u:\gimp\a\gimp_a.boo  Infection: Gimp.A image file (exact)
+u:\gimp\b\gimp_b.boo  Infection: Gimp.B image file (exact)
+u:\gimp\c\gimp_c.boo  Infection: Gimp.C image file (exact)
+u:\ginger\2624\2620.boo  Infection: Ginger.2624 image file (exact)
+u:\gisvi\trojan.boot.gisvi  Infection: Gisvi.trojan image file (exact)
+u:\gkpoland\gkpoland.boo  Infection: GKPoland image file
+u:\goldbug\c\goldbug_.boo  Infection: GoldBug.C image file (exact)
+u:\goldbug\d\goldbug_.boo  Infection: GoldBug.D image file (exact)
+u:\gorilla\gorilla.boo  Infection: Gorilla image file (exact)
+u:\gourry\gourry-001.boo  Infection: Gourry image file (exact)
+u:\gourry\gourry-002.boo  Infection: Gourry image file (exact)
+u:\gourry\gourry.boo  Infection: Gourry image file (exact)
+u:\greenday\greenday.boo  Infection: Greenday image file (exact)
+u:\grogboot\infern\infern.boo  Infection: Infern image file (exact)
+u:\grogboot\sciagura\sciag.boo  Infection: Sciagura image file (exact)
+u:\grogboot\stakka\stakka.boo  Infection: GrogBoot
+u:\grox\grox.boo  Infection: Grox image file (exact)
+u:\gullich\a\gullich_-002.td0  Infection: Gullich.A image file (exact)
+u:\gullich\a\gullich_.boo  Infection: Gullich.A image file (exact)
+u:\gullich\b\wci03714.td0  Infection: Gullich.B image file (exact)
+u:\gummy\gummy.boo  Infection: Gummy image file (exact)
+u:\halt\a\michaelb.boo  Infection: Halt.A image file (exact)
+u:\halt\b\michaela.boo  Infection: Halt.B image file (exact)
+u:\halt\c\michaelc.boo  Infection: Halt.C image file (exact)
+u:\halt\d\michaeld.boo  Infection: Halt.D image file (exact)
+u:\happybox\happybox.boo  Infection: Happybox image file (exact)
+u:\hardcore\a\hardcore-001.vom  Infection: Hardcore.A image file (exact)
+u:\hardcore\a\hardcore.vom  Infection: Hardcore.A image file (bad sample) (exact)
+u:\hardcore\a\vladbios.boo  Infection: Hardcore image file (exact)
+u:\hardcore\b\hard2.c1  Infection: Hardcore.B image file (exact)
+u:\hare\7750\a\hare_775.boo  Infection: Hare.7750.A image file
+u:\hdkiller\hdkiller.boo  Infection: HDkiller image file (exact)
+u:\hd_error\hd_error.boo  Infection: HD_Error image file (exact)
+u:\hemlock\3183\wci01183.td0  Infection: Hemlock.3183.unknown? image file
+u:\hikaru\a\virus.boot.hikaru.a  Infection: Hikaru.A image file (exact)
+u:\hikaru\b\hikaru_b.boo  Infection: Hikaru.B image file (exact)
+u:\hippie\hippie.boo  Infection: Hippie image file (exact)
+u:\hive\a\hive_a.boo  Infection: Hive.A image file (exact)
+u:\hive\b\hive_b-001.boo  Infection: Hive.B image file (exact)
+u:\hive\b\hive_b.boo  Infection: Hive.B image file (exact)
+u:\hiwaga\a\hiwaga_a-001.boo  Infection: Hiwaga.A image file (exact)
+u:\hiwaga\a\hiwaga_a-002.boo  Infection: Hiwaga.A image file (exact)
+u:\hiwaga\a\hiwaga_a.boo  Infection: Hiwaga.A image file (exact)
+u:\hiwaga\b\hiwaga_b-001.boo  Infection: Hiwaga.B image file (exact)
+u:\hiwaga\b\hiwaga_b.boo  Infection: Hiwaga.B image file (exact)
+u:\hmaboot\512\a\hmaboot_-001.boo  Infection: HMABoot.512.A image file (bad sample)
+u:\hmaboot\512\a\hmaboot_-002.boo  Infection: HMABoot.512.A image file
+u:\hooded\hooded.boo  Infection: Hooded image file (exact)
+u:\horse_boot\a\horse_ba.boo  Infection: Horse_Boot.A image file (exact)
+u:\horse_boot\b\horse_bb.boo  Infection: Horse_Boot.B image file (exact)
+u:\horse_boot\c\horse_bc.boo  Infection: Horse_Boot.C image file (exact)
+u:\horse_boot\d\horse_bo.boo  Infection: Horse_Boot.D image file (exact)
+u:\horse_boot\e\6f07cc58.boo  Infection: Horse_Boot.E image file (exact)
+u:\horse_boot\f\wci05683.boo  Infection: Horse_Boot.F image file (exact)
+u:\horse_boot\g\horse_bo.boo  Infection: Horse_Boot.G image file (exact)
+u:\hysteria\a\hysteria-001.boo  Infection: Hysteria.A image file (exact)
+u:\hysteria\a\hysteria.boo  Infection: Hysteria.A image file (exact)
+u:\ibex\a\ibex_a.boo  Infection: Ibex.A image file (exact)
+u:\ibex\b\ibexb.boo  Infection: Ibex.B image file (exact)
+u:\idie\3520\virus.boot-dos.idie.3520  Infection: Idie - Dropper
+u:\il\wci06243.td0  Infection: IL.unknown? image file
+u:\incubus\incubus.boo  Infection: Incubus image file (exact)
+u:\insomnia\insomnia.boo  Infection: Insomnia image file (exact)
+u:\installhi\a\installh-001.boo  Infection: Installhi.A image file
+u:\installhi\a\installh.boo  Infection: Installhi.A image file
+u:\installhi\b\installh.boo  Infection: Installhi.B image file
+u:\int-ce\536\int-ce_5.boo  Infection: INT-CE.536 image file
+u:\int10\a\int10a.boo  Infection: Int10.A image file (exact)
+u:\int10\b\int10b.boo  Infection: Int10.B image file (exact)
+u:\int10\c\int10_c.boo  Infection: Int10.C image file (exact)
+u:\intc\a\intc.boo  Infection: INTC.A image file (exact)
+u:\intc\a\wci03724.td0  Infection: INTC.A image file (exact)
+u:\int_aa\int_aa.boo  Infection: INT_AA image file (exact)
+u:\invisible\41d37073.boo  Infection: Invisible image file
+u:\ir&mj\ir&mj.boo  Infection: IR_MJ image file (exact)
+u:\ivt\a\ivt_a-001.boo  Infection: IVT.A image file (exact)
+u:\ivt\a\ivt_a.td0  Infection: IVT.A image file (exact)
+u:\j&m\a\j&ma.boo  Infection: J_M.A image file (exact)
+u:\j&m\b\j&mb.boo  Infection: J_M.B image file (exact)
+u:\jindra\jindra-001.boo  Infection: Jindra image file
+u:\jindra\jindra.boo  Infection: Jindra image file
+u:\jktk\jktk.boo  Infection: JKTK image file (exact)
+u:\jobi\jobi.boo  Infection: Jobi image file (exact)
+u:\joshi\a\joshia.boo  Infection: Joshi.A image file (exact)
+u:\joshi\b\joshib.boo  Infection: Joshi.B image file (exact)
+u:\joshi\c\joshic.boo  Infection: Joshi.C image file (exact)
+u:\jugador\jugador.boo  Infection: Jugador image file (bad sample) (exact)
+u:\jumpboot\475\b\jumpboot-001.vom  Infection: JumpBoot.475.unknown? image file
+u:\jumpboot\475\b\jumpboot.vom  Infection: JumpBoot.475.unknown? image file
+u:\jumper\wci02682.bin  Infection: Jumper.unknown? image file
+u:\jumper\a\jumpera.boo  Infection: Jumper.A image file (exact)
+u:\jumper\b\jumperb.boo  Infection: Jumper.B image file (exact)
+u:\jumper\c\silly.td0  Infection: Jumper.C image file (exact)
+u:\junkie\1027\junkie.boo  Infection: Junkie.1027/1029 image file (exact)
+u:\junkie\1308\virus.boot-dos.junkie.1308  Infection: Junkie.1308 image file
+u:\junkie\1536\junkie_1.boo  Infection: Junkie.1536 image file (exact)
+u:\kampana\a\kampanaa.boo  Infection: Kampana.A image file (exact)
+u:\kampana\b\kampanab.boo  Infection: Kampana.B image file (exact)
+u:\kampana\c\kampanac.boo  Infection: Kampana.C image file (exact)
+u:\kampana\e\kampana_.boo  Infection: Kampana.E image file (exact)
+u:\kanishka\kanishka.boo  Infection: Kanishka image file (exact)
+u:\kela\3265\kela_326.boo  Infection: Kela.3265 image file (exact)
+u:\keydrop\a\keydropa.boo  Infection: Keydrop.A image file (exact)
+u:\keydrop\b\keydropb.boo  Infection: Keydrop.B image file (exact)
+u:\keypress\2728\wci06253.td0  Infection: Keypress.2728 image file
+u:\kiev\2048\KIEV2048.boo  Infection: Kiev.2048 image file (exact)
+u:\killah\killah.boo  Infection: Killah image file
+u:\killah\killah.vxe  Infection: Killah - Dropper
+u:\kilroy\a\kilroy.boo  Infection: Kilroy.A image file (exact)
+u:\kilroy\b\turd.boo  Infection: Kilroy.B image file (exact)
+u:\kilroy\c\KILROY.boo  Infection: Kilroy.C image file (exact)
+u:\kilroy\d\kilroy_d-001.boo  Infection: Kilroy.D image file (exact)
+u:\kilroy\d\kilroy_d-002.bin  Infection: Kilroy.D (exact) - Dropper
+u:\kilroy\d\kilroy_d.boo  Infection: Kilroy.D image file (exact)
+u:\kilroy\e\kilroy_e.boo  Infection: Kilroy.E image file (exact)
+u:\kilroy\f\kilroy_f.boo  Infection: Kilroy.F image file (exact)
+u:\kilroy\g\kilroy_g-001.bin  Infection: Kilroy.G (exact) - Dropper
+u:\kilroy\g\kilroy_g.boo  Infection: Kilroy.G image file (exact)
+u:\kilroy\i\kilroy_i.boo  Infection: Kilroy.I image file (exact)
+u:\kilroy\j\kilroy-d.dbr  Infection: Kilroy.J image file (exact)
+u:\kilroy\k\si-01.boo  Infection: Kilroy.unknown? image file
+u:\king_lizard\a\king_liz.boo  Infection: King_Lizard.A image file
+u:\king_lizard\b\king_liz.boo  Infection: King_Lizard.B image file
+u:\kiryanov\kiryanov-001.boo  Infection: Kiryanov image file
+u:\kitana\150\kitana_1-001.boo  Infection: Kitana.150 image file (exact)
+u:\knight-7\knight-7.boo  Infection: Knight-7 image file (exact)
+u:\know\virus.boot.june4  Infection: Know image file
+u:\konstantin\konstant.boo  Infection: Konstantin image file (exact)
+u:\konstantin\unknown_\konstant.boo  Infection: Konstantin.unknown? image file
+u:\kot_ii\a\kot_ii.vxe  Infection: Kot_II
+u:\kot_ii\a\kot_ii_a.vom  Infection: Kot_II.A image file (exact)
+u:\kot_ii\b\kot_ii_b.vom  Infection: Kot_II.B image file (exact)
+u:\krud\rg.td0  Infection: Krud image file (exact)
+u:\kuarahy\4771\kuarahy_-001.boo  Infection: Kuarahy.4771 image file (bad sample)
+u:\kuarahy\4771\kuarahy_.boo  Infection: Kuarahy.4771 image file
+u:\kyokushinkai\1536\kyokushi.boo  Infection: Kyokushinkai.1536 image file (exact)
+u:\kyokushinkai\2048\e\kyokushi-001.boo  Infection: Kyokushinkai.2048.E image file
+u:\kyokushinkai\2048\e\kyokushi.boo  Infection: Kyokushinkai.2048.E image file
+u:\kyokushinkai\3072\virus_2445.boo  Infection: Kyokushinkai.3072 image file (exact)
+u:\ladefehler\ladefehl-001.boo  Infection: Ladefehler image file (exact)
+u:\ladefehler\ladefehl.boo  Infection: Ladefehler image file (exact)
+u:\lao_doung\laodoung.boo  Infection: Lao_Doung image file (exact)
+u:\lavot\a\lavot_a-001.boo  Infection: Lavot.A image file (exact)
+u:\lavot\a\lavot_a.boo  Infection: Lavot.A image file (exact)
+u:\lavot\b\lavot_b.boo  Infection: Lavot.B image file (exact)
+u:\lavot\c\lavot_c-001.boo  Infection: Lavot.C image file (exact)
+u:\lavot\c\lavot_c.boo  Infection: Lavot.C image file (exact)
+u:\lch15\lch15-001.boo  Infection: Lch15 image file (exact)
+u:\lch15\lch15.boo  Infection: Lch15 image file (exact)
+u:\leandro\a\leandro.boo  Infection: Leandro.A image file (exact)
+u:\leftshift\a\virus_2399.boo  Infection: Leftshift.A image file (exact)
+u:\leftshift\b\virus_2400.boo  Infection: Leftshift.B image file (exact)
+u:\lightboot\light.boo  contains Lightboot (non-working)
+u:\lightboot\lightboo.boo  Infection: Lightboot image file (exact)
+u:\lilith\lilith-002.vom  Infection: Lilith image file
+u:\lilith\lilith.vom  Infection: Lilith image file
+u:\livingdeath\3766\virus.boot-dos.livingdeath.3766  Infection: LivingDeath.3766 image file (exact)
+u:\lp\a\lp_a.boo  Infection: LP.A image file (exact)
+u:\lp\b\lp_b-001.boo  Infection: LP.B image file (exact)
+u:\lp\b\lp_b.boo  Infection: LP.B image file (bad sample) (exact)
+u:\luciferboot\a\lucifera.boo  Infection: Luciferboot.A image file
+u:\luciferboot\b\luciferb.boo  Infection: Luciferboot.B image file
+u:\lulu\lulu.boo  Infection: Lulu image file (exact)
+u:\lung\virus.boot-dos.lunghua.2589  Infection: Lung image file
+u:\lupomania\2672\lupomani.boo  Infection: Lupomania.2672 image file (exact)
+u:\lzr\a\lzr.boo  Infection: LZR.A image file (exact)
+u:\macgyver\4112\d8580ad8.boo  Infection: MacGyver.4112 image file
+u:\madindia\madindia-001.boo  Infection: Madindia image file (exact)
+u:\madindia\madindia.boo  Infection: Madindia image file (exact)
+u:\madjid\2930\virus.dos.onehalf.madjid.2930  Infection: Madjid.2930 image file (exact)
+u:\majkl\1432\majkl_14-001.boo  Infection: Majkl.1432 image file
+u:\majkl\1432\majkl_14.boo  Infection: Majkl.1432 image file
+u:\majkl\1438\majkl_14-001.boo  Infection: Majkl.1438 image file (exact)
+u:\majkl\1503\majkl_15.boo  Infection: Majkl.1503 image file
+u:\malaga\2385\malaga_2-001.boo  Infection: Malaga.2385 image file
+u:\malaga\2610\mala2610.boo  Infection: Malaga.2610 image file (exact)
+u:\mamaboot\Virus.Boot.Mama  Infection: MamaBoot image file (exact)
+u:\mandragora\1024\mandrago-001.boo  Infection: Mandragora.1024 image file (exact)
+u:\mandragora\1024\mandrago-002.boo  Infection: Mandragora.1024 image file (exact)
+u:\maniak\maniak.boo  Infection: Maniak image file (exact)
+u:\manya\285\a\manya_28.vxe  Infection: Manya.285 (exact)
+u:\manya\285\b\manya_28.vxe  Infection: Manya.285.unknown?
+u:\markus\5921\virus.boot-dos.markus.5921  Infection: Markus.5921 image file (exact)
+u:\marzia\1536\mar1536c.mbr  Infection: Marzia.1536 image file (exact)
+u:\marzia\1536\virus.boot-dos.marzia.demian.1536  Infection: Marzia.1536 image file (exact)
+u:\marzia\2048\a\marzboot.boo  Infection: Marzia.Boot image file (exact)
+u:\matthew\3037\b\matthew_-001.boo  Infection: Matthew.3037.B image file (exact)
+u:\megast\932\megast_9-002.boo  Infection: Megast.932 image file (exact)
+u:\megast\932\megast_9.boo  Infection: Megast.932 image file (exact)
+u:\messev\2778\messev_2.boo  Infection: Messev.2778 image file
+u:\messev\3016\messev_3-001.boo  Infection: Messev.3158 image file
+u:\messev\3037\messev_3-001.boo  Infection: Messev.3037 image file (exact)
+u:\messev\3037\messev_3.vom  Infection: Messev.3037 image file (exact)
+u:\messev\3037\messev_3.vxe  Infection: Messev.3037 image file (bad sample) (exact)
+u:\michelangelo\a\frogman.boo  Infection: Michelangelo.A image file (exact)
+u:\michelangelo\a\mich.td0  Infection: Michelangelo.A image file (exact)
+u:\michelangelo\a\michelaa.boo  Infection: Michelangelo.A image file (exact)
+u:\michelangelo\aa\dflkfd.boo  Infection: Michelangelo.AA image file (exact)
+u:\michelangelo\ac\michelan.vom  Infection: Michelangelo.AC image file (exact)
+u:\michelangelo\ad\michelan.boo  Infection: Michelangelo.AD image file (exact)
+u:\michelangelo\ae\turbobas.boo  Infection: Michelangelo.AE image file (exact)
+u:\michelangelo\af\michelan-001.boo  Infection: Michelangelo.AF image file (exact)
+u:\michelangelo\af\michelan.boo  Infection: Michelangelo.AF image file (exact)
+u:\michelangelo\ag\mbootm.boo  Infection: Michelangelo.AG image file (exact)
+u:\michelangelo\b\michelab.boo  Infection: Michelangelo.B image file (exact)
+u:\michelangelo\c\michelac.boo  Infection: Michelangelo.C image file (exact)
+u:\michelangelo\d\michelad.boo  Infection: Michelangelo.D image file (exact)
+u:\michelangelo\e\michelae.boo  Infection: Michelangelo.E image file (exact)
+u:\michelangelo\f\michelan.boo  Infection: Michelangelo.F image file (exact)
+u:\michelangelo\g\michelan.boo  Infection: Michelangelo.G image file (exact)
+u:\michelangelo\h\michelah.boo  Infection: Michelangelo.H image file (exact)
+u:\michelangelo\i\michelai.boo  Infection: Michelangelo.I image file (exact)
+u:\michelangelo\j\michelaj.boo  Infection: Michelangelo.J image file (exact)
+u:\michelangelo\k\michelan.boo  Infection: Michelangelo.K image file (exact)
+u:\michelangelo\l\mich-l.boo  Infection: Michelangelo.L image file (exact)
+u:\michelangelo\m\michelam.boo  Infection: Michelangelo.M image file (exact)
+u:\michelangelo\n\michelan.boo  Infection: Michelangelo.N image file (exact)
+u:\michelangelo\o\michelao.boo  Infection: Michelangelo.O image file (exact)
+u:\michelangelo\o\micl-e.boo  Infection: Michelangelo.O image file (exact)
+u:\michelangelo\p\mich.boo  Infection: Michelangelo.P image file (exact)
+u:\michelangelo\p\michelan.boo  Infection: Michelangelo.P image file (bad sample) (exact)
+u:\michelangelo\q\michelan.vom  Infection: Michelangelo.Q image file (exact)
+u:\michelangelo\r\michelan-001.boo  Infection: Michelangelo.R image file (exact)
+u:\michelangelo\s\michelan.boo  Infection: Michelangelo.S image file (exact)
+u:\michelangelo\s\michelas.boo  Infection: Michelangelo.S image file (exact)
+u:\michelangelo\t\michelan-002.boo  Infection: Michelangelo.T image file (exact)
+u:\michelangelo\t\michelan.boo  Infection: Michelangelo.T image file (exact)
+u:\michelangelo\u\michelan.boo  Infection: Michelangelo.U image file (exact)
+u:\michelangelo\v\michelav.boo  Infection: Michelangelo.V image file (exact)
+u:\michelangelo\x\michelan.boo  Infection: Michelangelo.X image file (exact)
+u:\michelangelo\z\mikedrp.bin  Infection: Michelangelo.Z (exact) - Dropper
+u:\microbes\microbes.boo  Infection: Microbes image file (exact)
+u:\micro_cops\micro_co.boo  Infection: Micro_Cops image file (exact)
+u:\mid_nigh\midnigh.boo  Infection: Mid_Nigh image file (exact)
+u:\minmax\minmax-001.boo  Infection: MinMax image file (exact)
+u:\misis\a\misisa.boo  Infection: MISiS.A image file (exact)
+u:\misis\b\misis_b.boo  Infection: MISiS.B image file (exact)
+u:\misis\c\misis_c.boo  Infection: MISiS.C image file (exact)
+u:\misis\d\misis_d.boo  Infection: MISiS.D image file (exact)
+u:\mission\a\mission.boo  Infection: Mission.A image file
+u:\mission\a\mission_-001.vxe  Infection: Mission.A image file
+u:\mission\a\mission_.vxe  Infection: Mission.A image file
+u:\mission\b\mission_.boo  Infection: Mission.B image file
+u:\mity\1982\mity_198-001.boo  Infection: Mity.1982 image file
+u:\mmir\421\a\mmir42~1.boo  Infection: MMIR.421.A image file (exact)
+u:\mmir\421\b\mmir42~2.boo  Infection: MMIR.421.B image file (exact)
+u:\mmir\423\a\mmir42~3.boo  Infection: MMIR.423.A image file (exact)
+u:\mogollon\Virus.Boot.I13.Mogollon  Infection: Mogollon image file (exact)
+u:\moloch\moloch-001.boo  Infection: Moloch image file (bad sample)
+u:\moloch\moloch.boo  Infection: Moloch image file
+u:\mongolia\mongolia.boo  Infection: Mongolian image file (exact)
+u:\mordor\1110\wci05933.boo  could be an image file of a boot sector virus
+u:\mphti\a\mphtia.boo  Infection: Mphti.A image file (exact)
+u:\mphti\b\mphtib.boo  Infection: Mphti.B image file (exact)
+u:\mugshot\mugshot.boo  Infection: Mugshot image file (exact)
+u:\multiani\a\multiani.boo  Infection: MultiAni.A image file (exact)
+u:\munya\b\munya_b.boo  Infection: Munya.B image file
+u:\murgas\murgas.boo  Infection: Murgas image file (exact)
+u:\murky\murky-001.boo  Infection: Murky image file (exact)
+u:\murky\murky.img  Infection: Murky image file (exact)
+u:\musicbug\musicbug.boo  Infection: Musicbug image file (exact)
+u:\myrddr\myrddr.boo  Infection: Myrddr image file (exact)
+u:\mz\a\Virus.Boot.MZ.a  Infection: Mz.A image file (exact)
+u:\mz\b\virus_2406.boo  Infection: Mz.B image file (exact)
+u:\nail\a\nail_a-002.boo  Infection: Nail.A image file (bad sample)
+u:\nail\a\nail_a.boo  Infection: Nail.A image file
+u:\nail\b\nail_b.boo  Infection: Nail.B image file
+u:\natalie\1192\natalie_.boo  Infection: Natalie.1192 image file (exact)
+u:\natalie\1192\natalie_.vxe  Infection: Natalie.1192 (exact)
+u:\natas\4744\nata4744.boo  Infection: Natas image file (exact)
+u:\natas\4788\natas_47.boo  Infection: Natas.4788 image file (exact)
+u:\natas\4872\natas_48.boo  Infection: Natas.4872 image file
+u:\nctu\nctu.td0  Infection: NCTU image file (exact)
+u:\necrophilia\wci03734.td0  Infection: Necrophilia image file (exact)
+u:\neuroquila\4544\b\nq_fdd.boo  Infection: Neuroquila.4544.B image file (exact)
+u:\njh-lbc\a\njhlbc-a.td0  Infection: NJH-LBC.A image file (exact)
+u:\njh-lbc\a\njhlbca-0.boo  Infection: NJH-LBC.A image file (exact)
+u:\njh-lbc\a\njhlbca-1.boo  Infection: NJH-LBC.A image file (exact)
+u:\njh-lbc\a\njhlbca-2.boo  Infection: NJH-LBC.A image file (exact)
+u:\njh-lbc\b\virus.boot.korea.boo  Infection: NJH-LBC.B image file (exact)
+u:\njh-lbc\c\njh-lbc_.boo  Infection: NJH-LBC.C image file (exact)
+u:\njh-lbc\d\njh-lbc_.boo  Infection: NJH-LBC.D image file (exact)
+u:\nokernel\4575\nokernel.boo  Infection: NoKernel.4575 image file
+u:\nokernel\5920\b\nokernel.boo  Infection: NoKernel.5920.B image file (exact)
+u:\nokernel\604x\a\nokernel.boo  Infection: NoKernel.604x.A image file (exact)
+u:\noki\448\noki.boo  Infection: Noki.448 image file
+u:\nop\virus.boot.nop  Infection: NOP image file (exact)
+u:\nopower\nopower-001.boo  Infection: Nopower image file
+u:\nopower\nopower.boo  Infection: Nopower image file
+u:\nova\a\novaa.boo  Infection: Nova.A image file (bad sample) (exact)
+u:\nova\b\novab.boo  Infection: Nova.B image file (bad sample) (exact)
+u:\nowrite\nowrite-001.boo  Infection: Nowrite image file (exact)
+u:\nowrite\nowrite.boo  Infection: Nowrite image file (exact)
+u:\nowrite\nowrite.img->sector 07  Infection: Nowrite image file (exact)
+u:\no_message\no_messa-001.boo  Infection: No_Message image file (exact)
+u:\no_message\no_messa.boo  Infection: No_Message image file (exact)
+u:\nrlg\a\nrlg_a.boo  Infection: NRLG.A image file
+u:\ntmy\1722\ntmy_172.boo  Infection: Ntmy.1722 image file
+u:\nutcracker\2000\a\virus.boot-dos.nutcracker.ab7.2000.a  Infection: Nutcracker.2000 image file
+u:\nutcracker\2903\nutcrack.boo  Infection: Nutcracker.2903 image file
+u:\nutcracker\2990\3021-001.boo  Infection: Nutcracker.2990/3021 image file
+u:\nutcracker\2990\3021.boo  Infection: Nutcracker.2990/3021 image file
+u:\nutcracker\3100\virus.boot-dos.nutcracker.ab4.3100  Infection: Nutcracker.3100 image file
+u:\nutcracker\4540\nutcrack.boo  Infection: Nutcracker.4540 image file
+u:\nutcracker\5413\5413.boo  Infection: Nutcracker.5375/5413 image file
+u:\nutcracker\6100\nutcrack-002.boo  Infection: Nutcracker.6100 image file
+u:\nutcracker\6425\6500-001.boo  Infection: Nutcracker.6425/6500 image file
+u:\nutcracker\6425\6500.boo  Infection: Nutcracker.6425/6500 image file
+u:\nutcracker\6727\nutcrack-001.boo  Infection: Nutcracker.6727-7051 image file
+u:\nutcracker\6727\nutcrack-002.boo  Infection: Nutcracker.6727-7051 image file
+u:\nutcracker\6727\nutcrack.boo  Infection: Nutcracker.6727-7051 image file
+u:\nutcracker\a\nutcrack.boo  Infection: Nutcracker.A image file
+u:\nutcracker\ab0\a\nutcrack.boo  Infection: Nutcracker.AB0 image file
+u:\nutcracker\ab0\b\nutcrack.boo  Infection: Nutcracker.AB0.B image file
+u:\nutcracker\b\nutcrack-001.boo  Infection: Nutcracker.B image file
+u:\nutcracker\b\nutcrack.boo  Infection: Nutcracker.B image file (bad sample)
+u:\nutcracker\d\virus_2443.vir  Infection: Nutcracker.D image file
+u:\nutmeg\nutmeg-001.boo  Infection: Nutmeg image file
+u:\nutmeg\nutmeg.boo  Infection: Nutmeg image file
+u:\nyb\a\B1.boo  Infection: NYB.A image file (exact)
+u:\nyb\b\nyb_b-001.boo  Infection: NYB.B image file (exact)
+u:\nyb\b\nyb_b-002.td0  Infection: NYB.B image file (exact)
+u:\nyb\b\nyb_b.boo  Infection: NYB.B image file (exact)
+u:\nyb\c\nyb_c.boo  Infection: NYB.C image file (exact)
+u:\nyb\d\nyb_d-001.boo  Infection: NYB.D image file (exact)
+u:\nyb\d\nyb_d-002.boo  Infection: NYB.D image file (exact)
+u:\nyb\d\nyb_d.boo  Infection: NYB.D image file (exact)
+u:\nyb\f\nyb_f.boo  Infection: NYB.F image file (exact)
+u:\nyb\g\floppy~1.boo  Infection: NYB.G image file (bad sample) (exact)
+u:\nyb\g\nyb.boo  Infection: NYB.G image file (bad sample) (exact)
+u:\nyb\h\nyb_h.boo  Infection: NYB.H image file (exact)
+u:\nyb\i\nyb-i_.boo  Infection: NYB.I image file (exact)
+u:\nyb\k\nyb_k.boo  Infection: NYB.K image file (exact)
+u:\one_half\3486\Virus.DOS.OneHalf.boo  Infection: One_Half.3486 image file
+u:\one_half\3551\virus.dos.onehalf.3551  Infection: Time.3551 image file (exact)
+u:\one_half\35xx\a\one_half-001.boo  Infection: One_Half.35xx.A image file (exact)
+u:\one_half\35xx\a\one_half.boo  Infection: One_Half.35xx.A image file (exact)
+u:\one_half\35xx\b\virus.dos.onehalf.3544.c  Infection: One_Half.35xx.B image file (exact)
+u:\one_half\35xx\b\virus.dos.onehalf.3544.h  Infection: One_Half.35xx.B image file (exact)
+u:\one_half\35xx\c\onehalf.boo  Infection: One_Half.35xx.C image file (exact)
+u:\ontario\2048\fab93202.boo  Infection: Ontario.2048 image file (exact)
+u:\oprobe\oprobe.boo  Infection: Oprobe image file
+u:\ordure\ordure-001.boo  Infection: Ordure image file
+u:\ordure\ordure.boo  Infection: Ordure image file
+u:\org\org.boo  Infection: Org image file (exact)
+u:\ornate\a\ornate_a-001.boo  Infection: Ornate.A image file (exact)
+u:\ornate\a\ornate_a-002.boo  Infection: Ornate.A image file (bad sample) (exact)
+u:\ornate\a\ornate_a.boo  Infection: Ornate.A image file (exact)
+u:\otron\a\orgasmat.c1  Infection: OTRON.A image file
+u:\otron\b\orgasmat.boo  Infection: OTRON.B image file
+u:\otron\d\otron_d.boo  Infection: OTRON.D image file (bad sample)
+u:\overboot\a\overboot.boo  Infection: Overboot.A image file (exact)
+u:\overboot\b\overboot.boo  Infection: Overboot.B image file (exact)
+u:\palmaboot\a\palmaboo-001.boo  Infection: Palmaboot.A image file (exact)
+u:\palmaboot\a\palmaboo.boo  Infection: Palmaboot.A image file (exact)
+u:\palmaboot\b\palmaboo.boo  Infection: Palmaboot.B image file (exact)
+u:\parity_boot\a\genb.boo  Infection: Parity_Boot.A image file (exact)
+u:\parity_boot\a\parity.bin  Infection: Parity_Boot.A image file (exact)
+u:\parity_boot\a\parity2.boo  Infection: Parity_Boot.A image file (exact)
+u:\parity_boot\a\tricks.boo  Infection: Parity_Boot.A image file (exact)
+u:\parity_boot\b\parchk.boo  Infection: Parity_Boot.B image file (exact)
+u:\parity_boot\b\parity.boo  Infection: Parity_Boot.B image file (exact)
+u:\parity_boot\b\parityb.bin  Infection: Parity_Boot.B image file (exact)
+u:\parity_boot\e\parity_b.boo  Infection: Parity_Boot.E image file (exact)
+u:\parity_boot\f\parity_b.boo  Infection: Parity_Boot.F image file (exact)
+u:\parity_boot\g\parity_b.boo  Infection: Parity_Boot.G image file (exact)
+u:\parity_boot\i\parity_b.boo  Infection: Parity_Boot.I image file (exact)
+u:\parity_boot\j\parity_b.boo  Infection: Parity_Boot.J image file (exact)
+u:\parity_boot\l\parity_b-001.boo  Infection: Parity_Boot.L image file (exact)
+u:\parity_boot\m\wci03492.boo  Infection: Parity_Boot.unknown? image file
+u:\paskuda\a\paskuda_.boo  Infection: Paskuda.A image file (exact)
+u:\paskuda\b\paskuda_.boo  Infection: Paskuda.B image file (exact)
+u:\pasta\a\boot-446.img  Infection: Pasta.A image file (exact)
+u:\pasta\c\pasta_c.boo  Infection: Pasta.C image file (exact)
+u:\pathfinder\pathfind.boo  Infection: Pathfinder image file (exact)
+u:\paula_boot\a\paula_bo-001.boo  Infection: Paula_Boot.A image file (exact)
+u:\paula_boot\a\paula_bo.td0  Infection: Paula_Boot.A image file (exact)
+u:\paula_boot\a\paula_boot.boo  Infection: Paula_Boot.A image file (exact)
+u:\payback\a\payback.boo  Infection: Payback.A image file (exact)
+u:\payback\b\b.vom  Infection: Payback.B image file (exact)
+u:\payback\b\payback.boo  Infection: Payback.B image file (exact)
+u:\payback\c\paybackc.boo  Infection: Payback.C image file (exact)
+u:\payback\f\c.boo  Infection: Payback.F image file (exact)
+u:\paz\2560\paz_2560-001.bin  Infection: Paz.2560 image file
+u:\paz\2560\paz_2560.boo  Infection: Paz.2560 image file
+u:\peacekeeper\4270\peacekee-001.boo  Infection: Peacekeeper.4270 image file
+u:\peak\virus.boot.peak  Infection: Peak image file
+u:\peanut\446\peanut_4.boo  Infection: Peanut.446 image file (exact)
+u:\pebble\pebble.boo  Infection: Pebble image file
+u:\pentagon\pentagon.td0  Infection: Pentagon image file (exact)
+u:\persefone\persefon-001.boo  Infection: Persefone image file (exact)
+u:\persefone\persefon.boo  Infection: Persefone image file (exact)
+u:\peru\peru.boo  Infection: Peru image file (exact)
+u:\peter\a\peter_a-001.boo  Infection: Peter.A image file (exact)
+u:\peter\a\peter_a.boo  Infection: Peter.A image file (exact)
+u:\pfs\3795\pfs_3795-002.boo  Infection: PFS.3795 image file
+u:\pfs\3795\pfs_3795.boo  Infection: PFS.3795 image file
+u:\pfs\4182\pfs_4182-002.boo  Infection: PFS.4182 image file
+u:\pfs\5392\virus.boot-dos.pfs.5392  Infection: PFS.5392 image file
+u:\pfs\5998\virus.boot-dos.pfs.5998  Infection: PFS.5998 image file
+u:\pg\a\roma.boo  Infection: PG.A image file (bad sample) (exact)
+u:\pg\b\pgb.boo  Infection: PG.B image file (exact)
+u:\pg\c\pg_c.boo  Infection: PG.C image file (bad sample) (exact)
+u:\phi\scroll.boo  Infection: Phi image file (exact)
+u:\pilgrim\pilgrim-001.td0  Infection: Pilgrim image file (exact)
+u:\pilgrim\pilgrim-002.td0  Infection: Pilgrim image file (exact)
+u:\pilgrim\pilgrim.boo  Infection: Pilgrim image file (exact)
+u:\ping_pong\a\italian.bin  Infection: Ping-Pong.A image file (exact)
+u:\ping_pong\a\ping-a.bin  Infection: Ping-Pong.A image file (exact)
+u:\ping_pong\a\pingb.vxe  Infection: Ping-Pong.A (exact) - Dropper
+u:\ping_pong\a\pingpon.vom  Infection: Ping-Pong.A image file (exact)
+u:\ping_pong\a\pingpong.boo  Infection: Ping-Pong.A image file (exact)
+u:\ping_pong\a\ping_b.boo  Infection: Ping-Pong.A image file (exact)
+u:\ping_pong\a\pong.bin  Infection: Ping-Pong.A image file (exact)
+u:\ping_pong\a\pong.boo  Infection: Ping-Pong.A image file (exact)
+u:\ping_pong\a\pong.vxe  Infection: Ping-Pong.A (exact) - Dropper
+u:\ping_pong\b\hackpong.boo  Infection: Ping-Pong.B image file (exact)
+u:\ping_pong\c\ping-pon.boo  Infection: Ping-Pong.C image file (exact)
+u:\ping_pong\d\ping-pon-001.boo  Infection: Ping-Pong.D image file (exact)
+u:\ping_pong\d\ping-pon-002.boo  Infection: Ping-Pong.D image file (exact)
+u:\ping_pong\e\ping-pon-001.boo  Infection: Ping-Pong.E image file (exact)
+u:\ping_pong\e\ping-pon.boo  Infection: Ping-Pong.E image file (bad sample) (exact)
+u:\ping_pong\f\ping-pon.boo  Infection: Ping-Pong.F image file (exact)
+u:\ping_pong\g\ping-pon.boo  Infection: Ping-Pong.G image file (exact)
+u:\ping_pong\h\ping-pon-001.boo  Infection: Ping-Pong.H image file (exact)
+u:\ping_pong\h\ping-pon.boo  Infection: Ping-Pong.H image file (exact)
+u:\ping_pong\j\pingponj.boo  Infection: Ping-Pong.J image file (exact)
+u:\ping_pong\k\ping-pon.boo  Infection: Ping-Pong.K image file (exact)
+u:\ping_pong\l\ping-pon.boo  Infection: Ping-Pong.L image file (exact)
+u:\ping_pong\m\ping-pon.boo  Infection: Ping-Pong.M image file (exact)
+u:\ping_pong\n\italf.boo  Infection: Ping-Pong.N image file (exact)
+u:\ping_pong\p\ping-pon.boo  Infection: Ping-Pong.P image file (exact)
+u:\ping_pong\s\ping-pon-001.boo  Infection: Ping-Pong.S image file (exact)
+u:\ping_pong\s\ping-pon.boo  Infection: Ping-Pong.S image file (exact)
+u:\ping_pong\typo\ping-p~7.boo  Infection: Ping-Pong.Typo image file (exact)
+u:\ping_pong\u\ping-pon.boo  Infection: Ping-Pong.U image file (exact)
+u:\ping_pong\v\ping-pon.boo  Infection: Ping-Pong.V image file (exact)
+u:\ping_pong\y\pingpong.boo  Infection: Ping-Pong.Y image file (exact)
+u:\pirate_boot\pirate_b.boo  Infection: Pirate_Boot image file (exact)
+u:\plagiarist\2051\plagiari-001.boo  Infection: Plagiarist.2051 image file (exact)
+u:\plagiarist\2xxx\virus.boot-dos.plagiarist.2014  Infection: Plagiarist.2xxx image file (exact)
+u:\playgame\a\playgame-a.boo  Infection: Playgame.A image file (exact)
+u:\playgame\b\playgame.boo  Infection: Playgame.B image file (exact)
+u:\playgame\c\playgame.boo  Infection: Playgame.C image file (exact)
+u:\pop\a\pop_a-001.boo  Infection: Pop.A image file (exact)
+u:\pop\a\pop_a.boo  Infection: Pop.A image file (exact)
+u:\pow\a\pow_a-002.vom  Infection: Pow.A image file (exact)
+u:\pow\a\pow_a.vom  Infection: Pow.A image file (bad sample) (exact)
+u:\pow\b\pow_b-002.vom  Infection: Pow.B (exact) - Dropper
+u:\preboot\a\preboot_-001.boo  Infection: Preboot.A image file
+u:\preboot\a\preboot_-002.boo  Infection: Preboot.A image file
+u:\preboot\a\preboot_.boo  Infection: Preboot.A image file
+u:\preboot\a\Virus.Boot.WYX.b  Infection: Preboot.A image file
+u:\preboot\b\preboot_-001.boo  Infection: Preboot.B image file
+u:\preboot\b\preboot_.boo  Infection: Preboot.B image file
+u:\preboot\b\Virus.Boot.WYX.c  Infection: Preboot.B image file
+u:\pretty\a\pretty_a.boo  Infection: Pretty.A image file (exact)
+u:\pretty\b\pretty_b.boo  Infection: Pretty.B image file (exact)
+u:\print_screen\a\prtsc.bin  Infection: Print_Screen.A image file (exact)
+u:\print_screen\a\prtsc2.boo  Infection: Print_Screen.A image file (exact)
+u:\print_screen\b\printscb.boo  Infection: Print_Screen.B image file (exact)
+u:\prit\a\prit_a.boo  Infection: Prit.A image file (exact)
+u:\prit\b\virus_2402.vir  Infection: Prit.B image file (exact)
+u:\procuror\procuror-001.boo  Infection: Procuror image file (exact)
+u:\procuror\procuror.boo  Infection: Procuror image file (bad sample) (exact)
+u:\punisher\b\punisher.boo  Infection: Punisher.B image file (exact)
+u:\punisher\c\punisher.boo  Infection: Punisher.C image file (exact)
+u:\purcyst\purcyst-001.boo  Infection: Purcyst image file (exact)
+u:\purcyst\purcyst-002.td0  Infection: Purcyst image file (exact)
+u:\purcyst\purcyst.boo  Infection: Purcyst image file (exact)
+u:\purple\purple-001.boo  Infection: Purple image file (exact)
+u:\purple\purple.td0  Infection: Purple image file (exact)
+u:\push\995\push_995.boo  Infection: Push.995 image file (exact)
+u:\putrid\b\putrid_b.boo  Infection: Putrid.B image file (exact)
+u:\putrid\c\putridu.boo  Infection: Putrid.unknown? image file
+u:\qpis\2931\virus.boot-dos.qphs.2931  Infection: Qpis.2931 image file
+u:\qrry\qrro_.boo  Infection: QRry.A image file (exact)
+u:\qrry\qrry.boo  Infection: QRry.A image file (exact)
+u:\quandary\quandary.boo  Infection: Quandary.A image file (exact)
+u:\quarter\quarter-001.boo  Infection: Quarter image file (exact)
+u:\quarter\quarter.boo  Infection: Quarter image file (exact)
+u:\quiz\quiz.boo  Infection: Quiz.1024 image file
+u:\quox\a\quoxa.bin  Infection: Quox.A image file (exact)
+u:\quox\b\quoxb.bin  Infection: Quox.B image file (exact)
+u:\quox\c\quoxb.boo  Infection: Quox.C image file (exact)
+u:\rabbit\a\rabbit_a.boo  Infection: Rabbit.A image file (exact)
+u:\rabbit\b\Virus.Boot.Rabbit.b  Infection: Rabbit.B image file (exact)
+u:\rain\rain-002.boo  Infection: Rain image file (exact)
+u:\rain\rain.boo  Infection: Rain image file (exact)
+u:\rajaat\512\rajaat_5.boo  Infection: Rajaat.512 image file (exact)
+u:\rajaat\518\a\rajaa518.boo  Infection: Rajaat.518.A image file
+u:\rajaat\518\b\b.boo  Infection: Rajaat.518.B image file
+u:\rajaat\518\c\wci03554.boo  Infection: Rajaat.518.C image file
+u:\ramones\ramones.boo  Infection: Ramones image file (exact)
+u:\rasputin\rasputin-001.boo  Infection: Rasputin image file (exact)
+u:\rasputin\rasputin.boo  Infection: Rasputin image file (exact)
+u:\ravenloff\ravenlo.boo  Infection: Ravenloff image file (exact)
+u:\ravenloff\ravenlof.boo  Infection: Ravenloff image file (exact)
+u:\rda\7408\7408.boo  Infection: RDA.7408 image file (exact)
+u:\redvixen\a\redvixen.boo  Infection: RedVixen image file
+u:\redvixen\b\redvixen.boo  Infection: RedVixen.B image file (exact)
+u:\renegade\4946\virus.boot-dos.renegade.4946  Infection: Renegade.4946 image file (exact)
+u:\res\2879\virus.boot-dos.res.2879  Infection: Res.28xx image file
+u:\res\4258\res_4258.boo  Infection: Res.4258 image file
+u:\revolution\revoluti.boo  Infection: Revolution image file (exact)
+u:\rill\a\rill.boo  Infection: Rill image file (exact)
+u:\rill\b\rill_unk.boo  Infection: Rill.unknown? - Dropper
+u:\ripper\ripper.boo  Infection: Ripper.A image file (exact)
+u:\rm\a\rm_a.boo  Infection: RM.A image file (exact)
+u:\rotceh\a\rotceh_a.boo  Infection: Rotceh.A image file (exact)
+u:\rotceh\b\rotceh_b-001.boo  Infection: Rotceh.B image file (exact)
+u:\rotceh\b\rotceh_b-002.boo  Infection: Rotceh.B image file (exact)
+u:\rotceh\b\rotceh_b.boo  Infection: Rotceh.B image file (exact)
+u:\rp\a\rpa.boo  Infection: RP.A image file (exact)
+u:\rp\b\rpb.boo  Infection: RP.B image file (exact)
+u:\rps\a\rpsa.boo  Infection: RPS.A image file (exact)
+u:\rps\b\rpsb.boo  Infection: RPS.B image file (exact)
+u:\rps\c\rpsc.boo  Infection: RPS.C image file (exact)
+u:\rsy\rsy.boo  Infection: RSY image file
+u:\rusher\rusher.boo  Infection: Rusher image file (exact)
+u:\russian_flag\russflag.boo  Infection: Russian_Flag.A image file (exact)
+u:\russian_killer\virus.dos.vpk.1430  Infection: Russian_Killer
+u:\sadun\371\sadun_37.boo  Infection: Sadun.371 image file (exact)
+u:\saigon\saigon.boo  Infection: Saigon image file (exact)
+u:\sailor_boot\a\a.boo  Infection: Sailor_Boot.A image file (exact)
+u:\sailor_boot\a\intsailj.ee  Infection: Sailor_Boot.A (exact) - Dropper
+u:\sailor_boot\b\sailbootb-0.boo  Infection: Sailor_Boot.B image file (exact)
+u:\sailor_boot\c\virus.boot.sailor.boot.c  Infection: Sailor_Boot.C image file (exact)
+u:\sampo\a\sampo.boo  Infection: Sampo.A image file (exact)
+u:\sampo\b\sampo_b-001.boo  Infection: Sampo.B image file
+u:\sampo\b\sampo_b.boo  Infection: Sampo.B image file
+u:\satria\a\satriaa.boo  Infection: Satria.A image file (exact)
+u:\satria\b\wci01203.td0  Infection: Satria.B image file (exact)
+u:\satria\c\satria_c.boo  Infection: Satria.C image file (exact)
+u:\satria\d\satria_d.boo  Infection: Satria.D image file (exact)
+u:\satria\e\satria_e-001.boo  Infection: Satria.E image file (exact)
+u:\satria\e\satria_e-002.boo  Infection: Satria.E image file (exact)
+u:\satria\e\satria_e.boo  Infection: Satria.E image file (exact)
+u:\sbp\a\sbp_a-001.boo  Infection: SBP.A image file (exact)
+u:\sbp\a\sbp_a.boo  Infection: SBP.A image file (exact)
+u:\sbp\b\sbp_b.boo  Infection: SBP.B image file (exact)
+u:\sbp\c\virus.boot.sillybp.2709  Infection: SBP.C image file (exact)
+u:\schoolboot\a\schoolbo-001.boo  Infection: SchoolBoot.A image file
+u:\schoolboot\a\schoolbo.boo  Infection: SchoolBoot.A image file
+u:\schoolboot\b\schoolbo.boo  Infection: SchoolBoot.B image file
+u:\screaming_fist\0894\virus.boot-dos.fist.894  Infection: Screaming_Fist.894 image file (exact)
+u:\screaming_fist\0927\screa927.boo  Infection: Screaming_Fist.927 image file (exact)
+u:\screaming_fist\1031\screamin-001.boo  Infection: Screaming_Fist.1031 image file (exact)
+u:\screaming_fist\1031\screamin.boo  Infection: Screaming_Fist.1031 image file (exact)
+u:\scythe\a\scythe_a.boo  Infection: Scythe.A image file (exact)
+u:\scythe\b\nichols.boo  Infection: Scythe.B image file (bad sample) (exact)
+u:\scythe\b\nichols.td0  Infection: Scythe.B image file (exact)
+u:\scythe\c\scythe_c-001.td0  Infection: Scythe.C image file (exact)
+u:\scythe\c\scythe_c.boo  Infection: Scythe.C image file (exact)
+u:\scythe\d\nichols.boo  Infection: Scythe.D image file (exact)
+u:\sebekboot\sebekboo.boo  Infection: SebekBoot image file
+u:\secshift\secshift.boo  Infection: Secshift image file (exact)
+u:\senda\senda.boo  Infection: Senda image file
+u:\sepultura\a\a.boo  Infection: Sepultura.A image file (exact)
+u:\sepultura\b\b.boo  Infection: Sepultura.B image file (bad sample) (exact)
+u:\sepultura\b\sepbootb.boo  Infection: Sepultura.B image file (exact)
+u:\sepultura\c\sepultur.boo  Infection: Sepultura.C image file (exact)
+u:\sepultura\d\d.boo  Infection: Sepultura.D image file (exact)
+u:\sepultura\e\sepultur.boo  Infection: Sepultura.E image file (bad sample) (exact)
+u:\shehas\shehas.boo  Infection: SheHas.A image file (exact)
+u:\shimmer\a\unke0953.boo  Infection: Shimmer.A image file
+u:\shimmer\b\shimmer_.vxe  Infection: Shimmer.B image file
+u:\shimmer\c\shimmer_.boo  Infection: Shimmer.B image file
+u:\shrapnel\6067\shrap.boo  Infection: Shrapnel.6067 image file
+u:\slyboot\a\slyboot_.boo  Infection: Slyboot.A image file (exact)
+u:\slyboot\b\slyboot_.boo  Infection: Slyboot.B image file (bad sample) (exact)
+u:\smiley_boot\smilboot.boo  Infection: Smiley_Boot image file (exact)
+u:\smun\smun.boo  Infection: Smun image file
+u:\soht\soht-001.boo  Infection: Soht image file
+u:\soht\soht.boo  Infection: Soht image file
+u:\sp3\sp3.boo  Infection: SP3 image file (exact)
+u:\spirit\spirit.boo  Infection: Spirit.A image file (exact)
+u:\stalker\320\wci0830s.boo  Infection: Stalker.320 image file (exact)
+u:\stalker\382\stalker_.boo  Infection: Stalker.382 image file
+u:\starship\7c831f45.boo  Infection: Starship image file (exact)
+u:\stat\stat.boo  Infection: Stat image file (exact)
+u:\stealth_boot\3072\wci01932.boo  Infection: Stealth_Boot.3072 image file
+u:\stealth_boot\a\a.boo  Infection: Stealth_Boot.A image file (exact)
+u:\stealth_boot\b\b.boo  Infection: Stealth_Boot.B image file (exact)
+u:\stealth_boot\c\c.boo  Infection: Stealth_Boot.C image file (exact)
+u:\stealth_boot\d\d.boo  Infection: Stealth_Boot.D image file (exact)
+u:\stealth_boot\e\stealthb-e-0.boo  Infection: Stealth_Boot.E image file (exact)
+u:\stealth_boot\g\g.boo  Infection: Stealth_Boot.G image file (exact)
+u:\stealth_boot\h\stealthb-h-0.boo  Infection: Stealth_Boot.H image file (bad sample) (exact)
+u:\stealth_boot\i\stealthb-i-0.boo  Infection: Stealth_Boot.I image file (exact)
+u:\stealth_boot\i\stealthb-i-1.boo  Infection: Stealth_Boot.I image file (exact)
+u:\stealth_boot\i\stealthb-i-2.boo  Infection: Stealth_Boot.I image file (exact)
+u:\stealth_boot\j\havoc_sx.boo  Infection: Stealth_Boot.J image file (exact)
+u:\stealth_boot\k\22cc893e.boo  Infection: Stealth_Boot.K image file (exact)
+u:\stealth_boot\koh\a\koh-a.boo  Infection: Stealth_Boot.KOH.A image file (exact)
+u:\stealth_boot\koh\b\koh-b.boo  Infection: Stealth_Boot.KOH.B image file (exact)
+u:\stealth_boot\koh\c\stealth_.boo  Infection: Stealth_Boot.KOH.C image file (exact)
+u:\stealth_boot\koh\d\stealth_.boo  Infection: Stealth_Boot.KOH.D image file (exact)
+u:\stealth_boot\l\havoc_sl.img  Infection: Stealth_Boot.L image file (exact)
+u:\stealth_boot\m\steaboot.boo  Infection: Stealth_Boot.M image file (bad sample) (exact)
+u:\stealth_boot\n\stealthb-n-0.boo  Infection: Stealth_Boot.N image file (exact)
+u:\stealth_boot\o\virusmak.bin  Infection: Stealth_Boot.O (exact) - Dropper
+u:\stealth_boot\p\virus.boot.havoc.n  Infection: Stealth_Boot.P image file (exact)
+u:\stealth_boot\pmbs\a\pmbs-a.boo  Infection: Stealth_Boot.PMBS.A image file (exact)
+u:\stealth_boot\pmbs\b\pmbs-b.boo  Infection: Stealth_Boot.PMBS.B image file (exact)
+u:\stealth_boot\q\stealthb-q-0.boo  Infection: Stealth_Boot.Q image file (exact)
+u:\stealth_boot\q\stealthb-q-1.boo  Infection: Stealth_Boot.Q image file (exact)
+u:\stealth_boot\r\Virus.Boot.Havoc.boo  Infection: Stealth_Boot.R image file (exact)
+u:\stealth_boot\z\stboo-n.boo  Infection: Stealth_Boot.unknown? image file
+u:\stl\stl.bin->sector 11  Infection: Stl image file (exact)
+u:\stl\stl.vom  Infection: Stl image file (exact)
+u:\stoned\a\bootsec1.boo  Infection: Stoned.A image file (exact)
+u:\stoned\a\bootsec2.boo  Infection: Stoned.A image file (exact)
+u:\stoned\a\s-standa.boo  Infection: Stoned.A image file (exact)
+u:\stoned\a\standard.boo  is a security risk or a "backdoor" program
+u:\stoned\ab (donald)\donald.boo  Infection: Stoned.AB image file (exact)
+u:\stoned\ac (empire.love)\empire.boo  Infection: Stoned.AC image file (exact)
+u:\stoned\ad (floppy.a)\floppya.boo  Infection: Stoned.AD image file (exact)
+u:\stoned\ae (gooday)\stongood.boo  Infection: Stoned.AE image file (exact)
+u:\stoned\af\stonedii.boo  Infection: Stoned.AF image file (exact)
+u:\stoned\ag (mexico)\mexico.boo  Infection: Stoned.AG image file (exact)
+u:\stoned\ah (mikola)\mikola.boo  Infection: Stoned.AH image file (exact)
+u:\stoned\ai (null.a)\a.boo  Infection: Stoned.AI image file (exact)
+u:\stoned\ak (null.c)\null-c.boo  Infection: Stoned.AK image file (exact)
+u:\stoned\al (pervert)\pervert.boo  Infection: Stoned.AL image file (exact)
+u:\stoned\am (polish)\polish.boo  Infection: Stoned.AM image file (exact)
+u:\stoned\ao (rostov)\rostov.boo  Infection: Stoned.AO image file (exact)
+u:\stoned\ap (sanded)\sanded.boo  Infection: Stoned.AP image file (exact)
+u:\stoned\aq (sexrev_1)\1.boo  Infection: Stoned.AQ image file (exact)
+u:\stoned\ar\spacea.boo  Infection: Stoned.AR image file (exact)
+u:\stoned\as\wci03912.boo  Infection: Stoned.AS image file (exact)
+u:\stoned\at\stone.boo  Infection: Stoned.AT image file (exact)
+u:\stoned\au (udos)\stonudos.boo  Infection: Stoned.AU image file (exact)
+u:\stoned\aw (zapped)\zapped.boo  Infection: Stoned.AW image file (exact)
+u:\stoned\ax\stoned-0.boo  Infection: Stoned.AX image file (exact)
+u:\stoned\az\jdfsk.boo  Infection: Stoned.AZ image file (exact)
+u:\stoned\az\jkfd.boo  Infection: Stoned.AZ image file (exact)
+u:\stoned\az\unknown3.boo  Infection: Stoned.AZ image file (exact)
+u:\stoned\b\stonedb.boo  Infection: Stoned.B image file (exact)
+u:\stoned\bb\bb.boo  Infection: Stoned.BB image file (exact)
+u:\stoned\bc\bc.td0  Infection: Stoned.BC image file (exact)
+u:\stoned\bc\ston-bc.boo  Infection: Stoned.BC image file (exact)
+u:\stoned\bd\stoned.img  Infection: Stoned.BD image file (exact)
+u:\stoned\bd\virus.boot.stoned.a  Infection: Stoned.BD image file (exact)
+u:\stoned\bf\ston-bf.boo  Infection: Stoned.BF image file (exact)
+u:\stoned\bg\ston-bg0.boo  Infection: Stoned.BG image file (exact)
+u:\stoned\bg\stonbg.boo  Infection: Stoned.BG image file (exact)
+u:\stoned\bi\ston-bi0.boo  Infection: Stoned.BI image file (exact)
+u:\stoned\bl\stonedw.boo  Infection: Stoned.BL image file (exact)
+u:\stoned\bm\fjkddfk.boo  Infection: Stoned.BM image file (exact)
+u:\stoned\bo (manitoba)\manitoba.boo  Infection: Stoned.BO image file (exact)
+u:\stoned\bp\stoned8a.boo  Infection: Stoned.BP image file (exact)
+u:\stoned\bq\st-bq.boo  Infection: Stoned.BQ image file (exact)
+u:\stoned\bq\stoned8b.boo  Infection: Stoned.BQ image file (exact)
+u:\stoned\br (angelina)\angelina.boo  Infection: Stoned.BR image file (exact)
+u:\stoned\bt (stoned16.a)\a.boo  Infection: Stoned.BT image file (exact)
+u:\stoned\bu (stoned16.b)\b.boo  Infection: Stoned.BU image file (exact)
+u:\stoned\bunny\a\bunnya.boo  Infection: Stoned.Bunny.A image file (exact)
+u:\stoned\bunny\b\bunnyb.boo  Infection: Stoned.Bunny.B image file (exact)
+u:\stoned\bunny\b\stoned-3.td0  Infection: Stoned.Bunny.B image file (exact)
+u:\stoned\bunny\c\bunnyc.boo  Infection: Stoned.Bunny.C image file (exact)
+u:\stoned\bv (june_4th.a)\a.boo  Infection: Stoned.BV image file (exact)
+u:\stoned\bw (june_4th.b)\b.boo  Infection: Stoned.BW image file (exact)
+u:\stoned\bx (june_4th.c)\c.boo  Infection: Stoned.BX image file (exact)
+u:\stoned\by (june_4th.d)\d.boo  Infection: Stoned.BY image file (exact)
+u:\stoned\bz\stoned-6.boo  Infection: Stoned.BZ image file (exact)
+u:\stoned\c\stonedc.boo  Infection: Stoned.C image file (exact)
+u:\stoned\ca (floppy.b)\floppyb.boo  Infection: Stoned.CA image file (exact)
+u:\stoned\cb (sexrev_2)\0.boo  Infection: Stoned.CB image file (exact)
+u:\stoned\cc\wci0843s.td0  Infection: Stoned.CC image file (exact)
+u:\stoned\cd\stonedu.boo  Infection: Stoned.CD image file (exact)
+u:\stoned\ce\ston-ce0.boo  Infection: Stoned.CE image file (exact)
+u:\stoned\ce\ston-ce1.boo  Infection: Stoned.CE image file (bad sample) (exact)
+u:\stoned\ce\ston-ce2.boo  Infection: Stoned.CE image file (exact)
+u:\stoned\cf (gullion)\gullion.boo  Infection: Stoned.CF image file (exact)
+u:\stoned\cg (alive)\alive.boo  Infection: Stoned.CG image file (exact)
+u:\stoned\ch\stonface.boo  Infection: Stoned.CH image file (exact)
+u:\stoned\ci\stoned2.boo  Infection: Stoned.CI image file (exact)
+u:\stoned\cj (leszoptad.a)\a.boo  Infection: Stoned.CJ image file (exact)
+u:\stoned\ck\ck.boo  Infection: Stoned.CK image file (exact)
+u:\stoned\ck\stoned-2.boo  Infection: Stoned.CK image file (bad sample) (exact)
+u:\stoned\cl (leszoptad.b)\b.boo  Infection: Stoned.CL image file (exact)
+u:\stoned\cm (lovechild)\lovechil.boo  Infection: Stoned.CM image file (exact)
+u:\stoned\cn\ston-cn.boo  Infection: Stoned.CN image file (exact)
+u:\stoned\co (military)\military.boo  Infection: Stoned.CO image file (bad sample) (exact)
+u:\stoned\co (military)\stone~26.boo  Infection: Stoned.CO image file (exact)
+u:\stoned\cq (neardark.a)\a.boo  Infection: Stoned.CQ image file (exact)
+u:\stoned\cr (neardark.b)\b.boo  Infection: Stoned.CR image file (exact)
+u:\stoned\cs (noint.a)\nointa.boo  Infection: Stoned.CS image file (exact)
+u:\stoned\ct (noint.b)\nointb.boo  Infection: Stoned.CT image file (exact)
+u:\stoned\cu (kenya)\kenya.boo  Infection: Stoned.CU image file (exact)
+u:\stoned\cv (dinamo.a)\dinamoa.boo  Infection: Stoned.CV image file (exact)
+u:\stoned\cw (dinamo.b)\dinamob.boo  Infection: Stoned.CW image file (exact)
+u:\stoned\cx (dinamo.c)\dinamoc.boo  Infection: Stoned.CX image file (exact)
+u:\stoned\cy (stonehenge)\stonehen.boo  Infection: Stoned.CY image file (exact)
+u:\stoned\cz (swedish)\standard.boo  Infection: Stoned.CZ image file (exact)
+u:\stoned\d\ajfdka.boo  Infection: Stoned.D image file (exact)
+u:\stoned\d\stonedd.boo  Infection: Stoned.D image file (exact)
+u:\stoned\da (swedish.b)\swedishb.boo  Infection: Stoned.DA image file (bad sample) (exact)
+u:\stoned\damien\damien.boo  Infection: Stoned.unknown? image file (bad sample)
+u:\stoned\db (empire.a)\empirea.boo  Infection: Stoned.DB image file (exact)
+u:\stoned\dc\ston-dc.td0  Infection: Stoned.DC image file (exact)
+u:\stoned\dd (empire.b1)\empireb1.boo  Infection: Stoned.DD image file (exact)
+u:\stoned\de\ston-de.boo  Infection: Stoned.DE image file (exact)
+u:\stoned\df\df.boo  Infection: Stoned.DF image file (exact)
+u:\stoned\df\ston-df.boo  Infection: Stoned.DF image file (exact)
+u:\stoned\dh\stondh-0.boo  Infection: Stoned.DH image file (exact)
+u:\stoned\di (empire.canadian)\canadian.boo  Infection: Stoned.DI image file (exact)
+u:\stoned\dj\ston-dj-.boo  Infection: Stoned.DJ image file (exact)
+u:\stoned\dk (empire.d1)\empired1.boo  Infection: Stoned.DK image file (exact)
+u:\stoned\dl (empire.d2)\empired2.boo  Infection: Stoned.DL image file (exact)
+u:\stoned\dm\ston-dm0.boo  Infection: Stoned.DM image file (exact)
+u:\stoned\do\ston-do.boo  Infection: Stoned.DO image file (exact)
+u:\stoned\dp (ms-pc-at)\ms-pc-at.boo  Infection: Stoned.DP image file (exact)
+u:\stoned\dq (archub)\stoned.boo  Infection: Stoned.DQ image file (exact)
+u:\stoned\dr\cancer.boo  Infection: Stoned.DR image file (exact)
+u:\stoned\ds (clock)\clock.boo  Infection: Stoned.DS image file (exact)
+u:\stoned\dt\stoned_d.boo  Infection: Stoned.DT image file (exact)
+u:\stoned\du (service-1)\ston-du.boo  Infection: Stoned.DU image file (exact)
+u:\stoned\dv\ston-dv0.boo  Infection: Stoned.DV image file (exact)
+u:\stoned\dv\ston-dv1.boo  Infection: Stoned.DV image file (exact)
+u:\stoned\dw\st-dw.boo  Infection: Stoned.DW image file (exact)
+u:\stoned\dw\stoned-dw.boo  Infection: Stoned.DW image file (exact)
+u:\stoned\dx (scrlock.a)\scrlocka.boo  Infection: Stoned.DX image file (exact)
+u:\stoned\dy (scrlock.b)\scrlockb.boo  Infection: Stoned.DY image file (exact)
+u:\stoned\dz\st-dz.boo  Infection: Stoned.DZ image file (exact)
+u:\stoned\dz\stoned-dz.boo  Infection: Stoned.DZ image file (bad sample) (exact)
+u:\stoned\e\stonede.boo  Infection: Stoned.E image file (exact)
+u:\stoned\ea (survivor.a)\ea_.boo  Infection: Stoned.EA image file (exact)
+u:\stoned\ea (survivor.a)\survivor.boo  Infection: Stoned.EA image file (exact)
+u:\stoned\eb (survivor.b)\stoned-5.boo  Infection: Stoned.EB image file (exact)
+u:\stoned\eb (survivor.b)\stoned-7.boo  Infection: Stoned.EB image file (exact)
+u:\stoned\ec (vaucher)\stonedec.boo  Infection: Stoned.EC image file (exact)
+u:\stoned\ed\stoned-ed.boo  Infection: Stoned.ED image file (exact)
+u:\stoned\ee (hidos.a)\hidos.bin  Infection: Stoned.EE (exact) - Dropper
+u:\stoned\ef (hidos.b)\hidos.boo  Infection: Stoned.EF image file (exact)
+u:\stoned\ef (hidos.b)\hidosc~1.img  Infection: Stoned.EF image file (exact)
+u:\stoned\ef (hidos.b)\jcvkl.bin  Infection: Stoned.EF (exact) - Dropper
+u:\stoned\eh\stonedeh0.boo  Infection: Stoned.EH image file (exact)
+u:\stoned\eh\stoneh.boo  Infection: Stoned.EH image file (exact)
+u:\stoned\ei (spook.a)\spook.boo  Infection: Stoned.EI image file (exact)
+u:\stoned\ej (spook.b)\ston-ej.td0  Infection: Stoned.EJ image file (exact)
+u:\stoned\ej (spook.b)\stoned-4.boo  Infection: Stoned.EJ image file (exact)
+u:\stoned\ek\stoned-1.td0  Infection: Stoned.EK image file (exact)
+u:\stoned\ek\stonedek.boo  Infection: Stoned.EK image file (exact)
+u:\stoned\el (mikola.b)\mikolab.boo  Infection: Stoned.EL image file (exact)
+u:\stoned\em (duran)\duran.boo  Infection: Stoned.EM image file (exact)
+u:\stoned\empire\monkey.vom  is a corrupted or intended virus
+u:\stoned\en\stoneden0.vom  Infection: Stoned.EN image file (exact)
+u:\stoned\en\stoneden1.vom  Infection: Stoned.EN image file (bad sample) (exact)
+u:\stoned\eo\eo.boo  Infection: Stoned.EO image file (exact)
+u:\stoned\ep\stoned_e.boo  Infection: Stoned.EP image file (exact)
+u:\stoned\eq\stoned_e.boo  Infection: Stoned.EQ image file
+u:\stoned\er\ston-er.boo  Infection: Stoned.ER image file
+u:\stoned\es\ston-es.boo  Infection: Stoned.ES image file
+u:\stoned\es\stoned-8.boo  Infection: Stoned.ES image file
+u:\stoned\et (tiebug)\et.boo  Infection: Stoned.ET image file (exact)
+u:\stoned\et (tiebug)\ston-et.boo  Infection: Stoned.ET image file (exact)
+u:\stoned\et (tiebug)\stonedet.boo  Infection: Stoned.ET image file (exact)
+u:\stoned\eu\eu.boo  Infection: Stoned.EU image file (exact)
+u:\stoned\eu\stoned-eu.boo  Infection: Stoned.EU image file (bad sample) (exact)
+u:\stoned\f\stonedf.boo  Infection: Stoned.F image file (exact)
+u:\stoned\fc\ston.boo  Infection: Stoned.unknown? image file
+u:\stoned\fd\stoned.boo  Infection: Stoned.unknown? image file
+u:\stoned\fe\jfds.boo  Infection: Stoned.unknown? image file
+u:\stoned\ff\stoned8.boo  Infection: Stoned.unknown? image file
+u:\stoned\g\stonedg.boo  Infection: Stoned.G image file (exact)
+u:\stoned\i\i1.boo  contains Stoned.I (non-working)
+u:\stoned\i\stonedi.boo  Infection: Stoned.I image file (exact)
+u:\stoned\j\stonedj.boo  Infection: Stoned.J image file (exact)
+u:\stoned\k\stonedk.boo  Infection: Stoned.K image file (exact)
+u:\stoned\l\stonedl.boo  Infection: Stoned.L image file (exact)
+u:\stoned\m\stonedm.boo  Infection: Stoned.M image file (exact)
+u:\stoned\monkey\a\a.boo  Infection: Stoned.Monkey.A image file (exact)
+u:\stoned\monkey\b\b.boo  Infection: Stoned.Monkey.B image file (exact)
+u:\stoned\monkey\b\MONKEY  Infection: Stoned.Monkey.B image file (exact)
+u:\stoned\monkey\c\e2.boo  Infection: Stoned.Monkey.C image file (exact)
+u:\stoned\monkey\d\emonkc1.boo  Infection: Stoned.Monkey.D image file (exact)
+u:\stoned\monkey\e\monkey.boo  Infection: Stoned.Monkey.E image file (exact)
+u:\stoned\monkey\g\monkeye.boo  Infection: Stoned.Monkey.G image file
+u:\stoned\monkey\i\monk003.boo  Infection: Stoned.Monkey.I image file (exact)
+u:\stoned\monkey\j\monk002.boo  Infection: Stoned.Monkey.J image file (exact)
+u:\stoned\monkey\l\SUPER.boo  Infection: Stoned.Monkey.L image file (exact)
+u:\stoned\monkey\m\monkey.boo  Infection: Stoned.Monkey.M image file (exact)
+u:\stoned\monkey\n\test.boo  Infection: Stoned.Monkey.N image file (exact)
+u:\stoned\monkey\p\monkey2.boo  Infection: Stoned.Monkey.P image file (exact)
+u:\stoned\monkey\q\oerv.boo  Infection: Stoned.Monkey.Q image file (exact)
+u:\stoned\o\ston-o.boo  Infection: Stoned.O image file (exact)
+u:\stoned\p\stonedp.boo  Infection: Stoned.P image file (exact)
+u:\stoned\q (ok.a)\stonedq.boo  Infection: Stoned.Q image file (exact)
+u:\stoned\r (ok.b)\stoned-r.boo  Infection: Stoned.R image file (exact)
+u:\stoned\s\asjdk.boo  Infection: Stoned.S image file (exact)
+u:\stoned\tiebud\a\tiebud-0.boo  Infection: Stoned.Tiebud.A image file (exact)
+u:\stoned\tiebud\a\tiebud-1.boo  Infection: Stoned.Tiebud.A image file (bad sample) (exact)
+u:\stoned\u (acid)\stonacid.boo  Infection: Stoned.U image file (exact)
+u:\stoned\v\cagstone.boo  Infection: Stoned.V image file (exact)
+u:\stoned\volga\a\volgaa.boo  Infection: Stoned.Volga.A image file (exact)
+u:\stoned\volga\b\volgab.boo  Infection: Stoned.Volga.B image file (exact)
+u:\stoned\volga\c\volgac.boo  Infection: Stoned.Volga.C image file (exact)
+u:\stoned\volga\d\volgad.boo  Infection: Stoned.Volga.D image file (exact)
+u:\stoned\volga\e\volgae.boo  Infection: Stoned.Volga.E image file (exact)
+u:\stoned\volga\f\volgaf.boo  Infection: Stoned.Volga.F image file (exact)
+u:\stoned\volga\g\volgag.boo  Infection: Stoned.Volga.G image file (exact)
+u:\stoned\volga\h\volgah.boo  Infection: Stoned.Volga.H image file (exact)
+u:\stoned\volga\i\stoned_v.boo  Infection: Stoned.Volga.I image file (exact)
+u:\stoned\volga\j\volgaj-0.boo  Infection: Stoned.Volga.J image file (exact)
+u:\stoned\volga\k\volga-k.boo  Infection: Stoned.Volga.K image file (exact)
+u:\stoned\x\stonedcx.boo  Infection: Stoned.X image file (exact)
+u:\stoned\z (dbas)\stondbas.boo  Infection: Stoned.Z image file (exact)
+u:\strafer\strafer.boo  Infection: Strafer image file (exact)
+u:\strange\a\strange.boo  Infection: Strange.A image file (bad sample) (exact)
+u:\strange\b\strange_.vom  Infection: Strange.B image file (exact)
+u:\strange\b\strange_.vxe  Infection: Strange.B (exact) - Dropper
+u:\strike\a\stike.boo  Infection: Strike image file (exact)
+u:\stvar\b\stvar_b-001.boo  Infection: Stvar.B image file (exact)
+u:\stvar\b\stvar_b.boo  Infection: Stvar.B image file (exact)
+u:\stvar\c\stvar-a.boo  Infection: Stvar.unknown? image file
+u:\svc\46xx\b\svc_46xx.boo  Infection: SVC.46xx.B image file (exact)
+u:\svsa\a\wci01452.bin  Infection: SVSA.A image file (exact)
+u:\svsa\b\wci05653.boo  Infection: SVSA.B image file (exact)
+u:\swiss_boot\a\swiss_ba.boo  Infection: Swiss_Boot.A image file (exact)
+u:\swiss_boot\b\swiss_bo-002.boo  Infection: Swiss_Boot.B image file (bad sample) (exact)
+u:\swiss_boot\b\swiss_bo.boo  Infection: Swiss_Boot.B image file (exact)
+u:\swiss_boot\c\swiss_bo.boo  Infection: Swiss_Boot.C image file (exact)
+u:\swiss_boot\d\swiss_bo-001.boo  Infection: Swiss_Boot.D image file (exact)
+u:\swiss_boot\d\swiss_bo.boo  Infection: Swiss_Boot.D image file (exact)
+u:\swiss_boot\e\swiss-e.boo  Infection: Swiss_Boot.E image file (exact)
+u:\swiss_boot\f\swiss_bo.boo  Infection: Swiss_Boot.F image file (exact)
+u:\szatan\szatan.boo  Infection: Szatan image file (exact)
+u:\taekwondoe\101\tae-101.boo  Infection: TaeKwonDoe.101 image file (exact)
+u:\tango\tango-001.boo  Infection: Tango image file (exact)
+u:\tango\tango.boo  Infection: Tango image file (exact)
+u:\tanko\abcda.boo  Infection: Tanko image file (exact)
+u:\tchechen\19xx\virus.dos.tchechen.1912  Infection: Tchechen.19xx image file
+u:\tchechen\3564\virus.dos.tchechen.3564  Infection: Tchechen.3564 image file
+u:\tchechen\a\virus.dos.tchechen.3420  Infection: Tchechen.A image file (exact)
+u:\tchechen\b\tchechen.boo  Infection: Tchechen.B image file (exact)
+u:\tchechen\d\tchechen-001.boo  Infection: Tchechen.D image file (exact)
+u:\tchechen\d\tchechen.bin  Infection: Tchechen.D image file (exact)
+u:\tequila\2468\a\teq_prt.boo  Infection: Tequila.2468 image file (exact)
+u:\tequila\2468\k\tequila_.boo  Infection: Tequila.2468.K image file
+u:\thanksgiving\1253\c8e1ee5c.boo  Infection: Thanksgiving.1253 image file (exact)
+u:\three_devils\a\three_de.boo  Infection: Three_Devils.A image file (exact)
+u:\three_devils\b\three_de.boo  Infection: Three_Devils.B image file (exact)
+u:\tiddler\virus.boot.tiddler  Infection: Tiddler image file (exact)
+u:\tijuana\a\tijuana-001.boo  Infection: Tijuana image file (exact)
+u:\tijuana\a\tijuana.boo  Infection: Tijuana image file (exact)
+u:\tijuana\b\tijuana_.vom  Infection: Tijuana.unknown? image file
+u:\tolkien\a\tolkien.boo  Infection: Tolkien.A image file (exact)
+u:\tolkien\b\tolkienb.boo  Infection: Tolkien.B image file (exact)
+u:\tomalak\tomalak.boo  Infection: Tomalak image file (exact)
+u:\tony_boot\a\tonyb-a.boo  Infection: Tony_Boot.A image file (exact)
+u:\tony_boot\d\tony_boo-001.boo  Infection: Tony_Boot.D image file (exact)
+u:\tony_boot\d\tony_boo-002.boo  Infection: Tony_Boot.D image file (bad sample) (exact)
+u:\tony_boot\d\tony_boo.boo  Infection: Tony_Boot.D image file (exact)
+u:\tornado\a\tornado_.boo  Infection: Tornado.A image file (exact)
+u:\tpvo\a\tpvo_a.boo  Infection: Tpvo.A image file (exact)
+u:\tpvo\b\tpvo_b.boo  Infection: Tpvo.B image file (exact)
+u:\traka\1471\traka_14-001.boo  Infection: Traka.1471 image file (exact)
+u:\traka\1471\traka_14.boo  Infection: Traka.1471 image file (exact)
+u:\traveller\travelle.boo  Infection: Traveller image file (exact)
+u:\trenton\trenton-001.boo  Infection: Trenton
+u:\trenton\trenton-002.boo  Infection: Trenton
+u:\trenton\trenton.boo  Infection: Trenton
+u:\triboo\199\trojan.dos.killhdd.g  Infection: Triboo.199 image file (exact)
+u:\trsi\trsi_tro.vom  Infection: TRSI.trojan image file
+u:\tubo\tubo-001.boo  Infection: Tubo image file (exact)
+u:\tubo\tubo.bin  Infection: Tubo image file (bad sample) (exact)
+u:\tubo\tubo.boo  Infection: Tubo image file (bad sample) (exact)
+u:\twofs\twofs.boo  Infection: Twofs image file (exact)
+u:\twoj\a\twoj_a.boo  Infection: Twoj.A image file (exact)
+u:\twoj\b\virus.boot-dos.boo  Infection: Twoj.B image file (exact)
+u:\ufaboot\ufaboot.boo  Infection: Ufaboot image file (exact)
+u:\ufro\ufro.boo  Infection: Ufro image file (exact)
+u:\ukkel\ukkel.boo  Infection: Ukkel image file (exact)
+u:\unashamed\a\unashame-001.boo  Infection: Unashamed.A image file (exact)
+u:\unashamed\a\unashame-002.boo  Infection: Unashamed.A image file (bad sample) (exact)
+u:\unashamed\a\unashame.boo  Infection: Unashamed.A image file (exact)
+u:\unashamed\b\unashame.boo  Infection: Unashamed.B image file (exact)
+u:\ungra\4065\virus.boot-dos.hongkong.4056  Infection: Ungra.4065 image file (exact)
+u:\uniform\uniform.boo  Infection: Uniform image file (exact)
+u:\urkel\a\urkel.boo  Infection: Urkel.A image file (exact)
+u:\urkel\b\urkel_b.boo  Infection: Urkel.B image file
+u:\v-sign\v-sign.boo  Infection: V-Sign.A image file (exact)
+u:\variola\variola.boo  Infection: Variola image file (exact)
+u:\varna\1536\varna_15.boo  Infection: Varna.1536 image file (exact)
+u:\vecna\313\vecna_31-001.boo  Infection: Vecna.313 image file (bad sample) (exact)
+u:\vecna\512\a\vecna_51.boo  Infection: Vecna.512.A image file (exact)
+u:\vecna\512\b\vecna1.com  Infection: Vecna.512.B image file (exact)
+u:\vecny\1475\vecny_14-002.boo  Infection: Vecny.1475 image file
+u:\verify\verify.boo  Infection: Verify image file (exact)
+u:\veroboot\virus.boot.vsign.b  Infection: VeroBoot image file (exact)
+u:\vga\vga_troj-001.boo  Infection: VGA.trojan image file (exact)
+u:\vga\vga_troj.boo  Infection: VGA.trojan image file (exact)
+u:\vgaboot\vgaboot_.boo  Infection: Vgaboot.trojan image file
+u:\w-boot\a\w-boota.boo  Infection: W-boot.A image file (exact)
+u:\w-boot\b\w-bootb.boo  Infection: W-boot.B image file (exact)
+u:\w-boot\d\w-boot.boo  Infection: W-boot.D image file (bad sample) (exact)
+u:\w-boot\e\wboot-e.boo  Infection: W-boot.E image file (exact)
+u:\warning\512\warning_.boo  Infection: Warning.512 image file (exact)
+u:\weird_al\512\weird_al-001.boo  Infection: Weird_Al.512 image file
+u:\welcomb\sect00.boo  Infection: WelcomB.A image file (exact)
+u:\welcomb\welcomb.bin  Infection: WelcomB.A image file (exact)
+u:\wet\a\weta.bin  Infection: Wet.A image file (exact)
+u:\wet\b\wetb.bin  Infection: Wet.B image file (exact)
+u:\wet\c\wet_c-001.td0  Infection: Wet.C image file (exact)
+u:\wet\c\wet_c.td0  Infection: Wet.C image file (exact)
+u:\whirl\whirl.bin  Infection: Ping-Pong.Q image file (exact)
+u:\whirl\whirla.bin  Infection: Ping-Pong.Q image file (exact)
+u:\whirl\whirlb.bin  Infection: Ping-Pong.R image file (exact)
+u:\widowmaker\5741\widowmak-001.boo  Infection: Widowmaker.5741 image file
+u:\widowmaker\5747\widowmak.boo  Infection: Widowmaker.5747 image file
+u:\windmill\windmill.bin  Infection: Windmill image file (exact)
+u:\wma\425\a\wci01213.td0  Infection: WMA.425.A image file (exact)
+u:\wolleh\wolleh-001.boo  Infection: Wolleh image file (exact)
+u:\wolleh\wolleh.boo  Infection: Wolleh image file (exact)
+u:\worldpeace\worldpea.boo  Infection: WorldPeace image file (exact)
+u:\wxyc\a\wxyca.boo  Infection: WXYC.A image file (exact)
+u:\wxyc\b\wxycb.boo  Infection: WXYC.B image file (exact)
+u:\wxyc\c\wxyc.boo  Infection: WXYC.unknown? image file
+u:\wyx\a\Virus.Boot.WYX.a  Infection: WYX.A image file
+u:\wyx\b\wyx_b-001.vom  Infection: WYX.B image file
+u:\wyx\b\wyx_b-002.vom  Infection: WYX.B image file
+u:\wyx\b\wyx_b.vom  Infection: WYX.B image file
+u:\x-3a\a\x-3aa.boo  Infection: X-3a.A image file (exact)
+u:\x-3a\b\x-3ab.boo  Infection: X-3a.B image file (exact)
+u:\x-3a\c\x-3a.boo  Infection: X-3a.unknown? image file
+u:\x-boot\x-boot.boo  Infection: X-boot image file (exact)
+u:\xexyl\a\xexyl_a.boo  Infection: Xexyl.A image file (exact)
+u:\xiv\trojan.dos.xiv  Infection: XIV image file (exact)
+u:\xmx\virus.dos.smut.938  Infection: Xmx image file
+u:\xorboot\xorboot-001.vom  Infection: XORboot image file (exact)
+u:\y-boot\a\y-boot.vom  Infection: Y-Boot.A (exact) - Dropper
+u:\y-boot\b\Virus.Boot.Yosha.Y-Boot.b  Infection: Y-Boot.B (exact) - Dropper
+u:\yale\a\yalea.boo  Infection: Yale.A image file (bad sample) (exact)
+u:\yale\a\yaleboot.boo  Infection: Yale.A image file (exact)
+u:\yale\a\yale_a.bin  Infection: Yale.A image file (exact)
+u:\yale\b\alameda.vom  Infection: Yale.B (exact) - Dropper
+u:\yale\b\yaleb.boo  Infection: Yale.B image file (exact)
+u:\yale\c\yale_c.vom  Infection: Yale.C image file (bad sample) (exact)
+u:\yale\d\yale_d-001.vom  Infection: Yale.D image file (bad sample) (exact)
+u:\yale\d\yale_d-002.vom  Infection: Yale.D (exact) - Dropper
+u:\yale\d\yale_d.vom  Infection: Yale.D image file (exact)
+u:\yale\e\yale_e-001.vxe  Infection: Yale.E image file (exact)
+u:\yale\e\yale_e-002.vom  Infection: Yale.E image file (exact)
+u:\yale\e\yale_e.vom  Infection: Yale.E image file (exact)
+u:\yale\f\yale_f.boo  Infection: Yale.F image file (exact)
+u:\yale\g\yale_g.vom  Infection: Yale.G image file (exact)
+u:\yale\h\yale_h-001.vom  Infection: Yale.H image file (exact)
+u:\yale\h\yale_h-002.vxe  Infection: Yale.H (exact) - Dropper
+u:\yale\h\yale_h.vxe  Infection: Yale.H (exact) - Dropper
+u:\yesmile\yesmile.boo  Infection: Yesmile image file (exact)
+u:\zaboot\a\zaboot.boo  Infection: Zaboot.A image file (exact)
+u:\zappa\zappa.boo  Infection: Zappa image file (exact)
+u:\zeus\zeus.boo  Infection: Zeus image file (bad sample) (exact)
+u:\zhengzhou\3571\a\zhengzho.vom  Infection: ZhengZhou.3571.A image file (exact)
+u:\zhengzhou\3584\a\zhengzho-001.vom  Infection: ZhengZhou.3584.A image file (exact)
+u:\zimbab\wci05673.boo  Infection: Zimbab image file (exact)
+u:\zuganov\Virus.Boot.Secretar  Infection: Zuganov image file (exact)
+u:\_1526\virus_2455.boo  Infection: _1526 image file
+
+Results of virus scanning:
+
+Files: 2226
+MBRs: 0
+Boot sectors: 0
+Objects scanned: 2226
+Infected: 1401
+Suspicious: 5
+Disinfected: 0
+Deleted: 0
+Renamed: 0
+
+Time: 0:01

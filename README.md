@@ -8,7 +8,7 @@ helped with collecting some viruses: Vincent Lalo & Draedon
 
 <h1>THE VIRUS HISTORY PROJECT<br>A museum of malicious software from bygone days</h1>
 
-**65703 samples and counting**
+**66003 samples and counting**
 <br><br>
 **NONE OF THESE FILES SHOULD BE ABLE TO HARM MODERN SYSTEMS IN THEIR STORED FORM**<br>
 **Most of the samples will simply not execute on modern operating systems. A few might; for example batch files or macro viruses - these will be zipped with password: "history".**

