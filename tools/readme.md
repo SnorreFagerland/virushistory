@@ -6,4 +6,5 @@
 - dump_mac.py : Python script to describe and identify the structure of Classic Macos resource files (Checks the mac hash list)
 - binhex_unpack.py : Python script to unpack binhex-converted files (eg Mac *.HQX files and similar)
 - check_hash.py : Python script to check whether a file is present in this collection. (Checks the hash list)
+- dc2dsk.py : Python script to convert DiskCopy 4.2 images to Macintosh DSK format.
 
