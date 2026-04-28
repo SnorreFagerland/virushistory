@@ -1,6 +1,6 @@
 <h2>The Dukakis virus</h2>
 
-The first virus for Apple Hypercard, and also I believe the first virus the promoted a political 
+The first virus for Apple Hypercard, and also I believe the first virus that promoted a political 
 candidate, was the "Dukakis" virus. It was spread to Compuserve in 1988, but never got a lot of 
 traction and did no damage. 
 
