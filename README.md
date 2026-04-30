@@ -78,6 +78,9 @@ The Virus History Project contains only ancient (mostly pre-win32) material. If 
 * VX Underground (https://vx-underground.org/samples.html)
 * Contagio (https://contagiodump.blogspot.com/)
 * Malware DB (https://thezoo.morirt.com/)
+* VirusSign (https://github.com/VirusSign/malware-samples)
+* MalwareSamples (https://github.com/MalwareSamples)
+* VirusShare (https://virusshare.com/)
 
 <br><br>
 <h2>Can I use this collection for testing of security products?</h2>
