@@ -5496,7 +5496,6 @@ PG.C
 PHB.4461.B
 PHP/Anomaler
 PHP/Apbost.F@mm
-PHP/Aracna.A
 PHP/Blast.A@troj
 PHP/Brute.A
 PHP/Buzbot.A@bd
@@ -5514,7 +5513,6 @@ PHP/Docu.A
 PHP/Exploit.B
 PHP/Exploit.E
 PHP/Exploiter.A
-PHP/Faces.A
 PHP/Fotev.A
 PHP/Fumail
 PHP/Fumail@troj
@@ -5534,7 +5532,6 @@ PHP/Mare.A@dl
 PHP/Maya.A@troj
 PHP/Mosucker.M@bd
 PHP/MySQL.A
-PHP/Neworld
 PHP/Neworld.A
 PHP/Notifier.A
 PHP/Nucledor.A
@@ -5548,11 +5545,8 @@ PHP/PhPen.C@bd
 PHP/PhPen.D@bd
 PHP/PhPen.E@bd
 PHP/PhpShell.A@troj
-PHP/Pirus
 PHP/Pirus.A
 PHP/Pokemon.A@bd
-PHP/Rabow.A
-PHP/Rebber.A
 PHP/Redz.A
 PHP/Rst.A@bd
 PHP/Rst.B@bd
@@ -5567,7 +5561,6 @@ PHP/Sf.A@bd
 PHP/Small.A@expl
 PHP/Small.A@tool
 PHP/Sysbat.A
-PHP/Virdrus.A
 PHP/Voodoo.A@dr
 PHP/WebShell.A
 PHP/Zackdoor.A
@@ -6672,7 +6665,6 @@ Unix/FDoS
 Unix/FPatch.A
 Unix/Farmer.A
 Unix/Fichier.A
-Unix/FileFind.A
 Unix/Filmess
 Unix/Findfile.A
 Unix/Fiskin.A
@@ -6911,8 +6903,6 @@ Unix/QuickDNS.tool.A
 Unix/RCmdExec.A
 Unix/Radix
 Unix/Ramen
-Unix/Rans.A
-Unix/Rans.B
 Unix/Rcrgod.A
 Unix/Rebus.A
 Unix/Reflect
@@ -7090,7 +7080,6 @@ Unix/Unsafe.A
 Unix/VWar.A
 Unix/Vampire.A
 Unix/Vftp
-Unix/Vinch.A
 Unix/Vqserv
 Unix/Vxcron.A
 Unix/WSFT.A
@@ -7132,7 +7121,6 @@ V.512
 V.5377
 V.619
 V.635.A
-V.635.B
 V.661.A
 V.661.B
 V.693
@@ -8327,7 +8315,6 @@ W97M/Melissa.V@mm
 W97M/Melt.A
 W97M/Merlin.B
 W97M/Messy.A
-W97M/Metacol.C@mm
 W97M/Metys.D
 W97M/Metys.E
 W97M/Metys.L
@@ -9418,5 +9405,5 @@ _738
 _768
 _781
 
-Found detections: 25494
-Missed detections: 9417
+Found detections: 25507
+Missed detections: 9404
