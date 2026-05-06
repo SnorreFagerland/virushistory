@@ -1,0 +1,19 @@
+CyberAIDS Virus Description
+~~~~~~~~~~~~~~~~~~~~~~~
+CyberAIDS is an Apple II virus that can destroy the data on every disk that
+happens to be on-line when the virus is triggered.  The virus uses a counter
+value that is stored in an unused byte within the root directory.  The counter
+is incremented every time a file containing the virus is run.  When the counter
+exceeds 23, the virus strikes--the root directory and bit map of the volume 
+are erased, rendering all the data on the disk inaccessible.
+
+CyberAIDS spreads itself by attaching additional code to System (.SYS) type
+files in the root directory.  Every time you run a file that is already infected,
+it seeks out other non-infected System files and infects them as well. 
+Eventually, every System file in the root directory is infected.
+
+The spreading of the virus can be seen as changes in a System file's size and
+modification date fields when a BASIC Catalog command is performed.  (There 
+are no BASIC commands that allow you to view the counter value directly).  
+The virus cannot spread on disks that have been write-protected, but it can 
+and will spread to files that have been locked.
