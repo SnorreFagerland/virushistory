@@ -1,0 +1,22 @@
+ScanEbola97 is a little tool I wrote to check if your computer is
+infected with the new Ebola97-virus. The virus isn't detected by any
+VirusKiller *YET*, so use this tool meanwhile.
+
+Start the tool in your shell without parameters and it will automaticly
+start to scan your sys:-assign, because the Ebola97-virus will only
+infect the boot-disk.
+
+When ScanEbola97 finds an infected file, you will be noticed. The virus
+can't be removed, so you'll have to delete the infected file by hand
+(ScanEbola97 will NOT do this for you...)
+
+IMPORTANT:
+
+If ScanEbola97 found infected files, delete them and turn the computer
+**OFF**, because the Ebola97 stays resident in memory and will start
+infecting files again!
+
+I have sent the Ebola97-installer with description of the Ebola97 to
+Virus Help Team Denmark.
+
+                                                             MaXOZ/TLK

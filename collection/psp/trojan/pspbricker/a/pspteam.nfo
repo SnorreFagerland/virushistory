@@ -1,0 +1,22 @@
+PSPTEAM Proudly presents 2.0 eboot patcher for psp 2.0
+
+What does it do? It allows 2.0 psp to use eboot patched with kxploit !!
+No more need for 1.5 psp !!!
+
+Requirements:
+
+- A psp 2.0
+- A memory stick
+
+How to install:
+
+Put h.bin in the root of your memory stick
+put the overflow.tif file in the /PSP/PHOTO/ folder
+Go to photo in the psp os, and open overflow.tif
+
+That's it !! Your psp 2.0 can now run 1.5 eboots !!!
+
+
+Thanks to Kaiser Sozei for his support and to have proved that MPH and Sonyxteam are looser !, Toc2rta for the exploit, and fuck Sonyxteam !!, pspupdates for their great news!, and gueux.be and their forums !
+
+More releases from us soon !!

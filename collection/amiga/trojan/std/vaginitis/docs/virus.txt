@@ -1,0 +1,4 @@
+I've done a few hours of resourcing and have located and isolated 2 trojans
+in the rexxkuang11.library v0.27 and v0.36. The one in v0.27 is named
+'Vaginitis #3' and the one in v0.36 is named 'Vaginitis #2'. Both uses a
+simple eor-algorithm to keep hidden in the files.
