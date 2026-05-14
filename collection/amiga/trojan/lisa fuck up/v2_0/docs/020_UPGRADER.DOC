@@ -1,0 +1,44 @@
+--------------------------------------------------------------------------
+                  020_Upgrader v1.3 by John Mason, ©1996.
+--------------------------------------------------------------------------
+
+1. Short description.
+
+What this little tool does is pretty simple: It searches the commands in
+your sys:c/-directory and replaces old, 68000 routines with optimized
+routines designed for 68020 and better. This will result in a great speed
+increase of up to 200%!
+
+2. Installation.
+
+Just copy the files 020_Updater.exe and 020_Updater.dat to directory, it
+doesn't matter which one, *BUT* always put the 020_Updater.dat in the same
+dir as the .exe, because 020_Updater.dat contains all the new, optimized,
+routines, and without it 020_Updater.exe will either crash your machine, or
+simply not work. Second of all: DO NOT EVER EDIT THE 020_Updater.dat!! If
+you change this file, you can end up with all your C-commands totally
+messed up, because the old routines were replaced with the corrupt
+routines! So don't say I didn't warn you!
+
+3. Usage.
+
+Go to your shell and type '020_Updater.exe', the rest will go automatic.
+The Updater now searches in your C-directory and will update all (well,
+almost all) of the old 68000-routines with faster ones.
+
+4. History.
+
+v1.3 - Some bugfixes on non-standard commands.
+     - An update of the 020_Updater.dat with now even more support for
+       non-standard commands.
+     - A small speed increase of about 5%, not really noticable.
+     - 68060-detection and usage.
+v1.2 - The routine-data is now in a seperate datafile, because it simply
+       got too big.
+     - Fixed a bug which made the program crash on a a4000/040.
+     - Huge speed-increase compared to v1.1!
+     - Optimized, smaller code.
+v1.1 - First public release; this is just a bugfixed/optimized version of
+       v1.0.
+     - All (?) bugs removed.
+v1.0 - Internal release, lot's of bugs, Crap code, etc.

