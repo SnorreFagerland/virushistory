@@ -1,0 +1,42 @@
+
+This tarball contains some binaries I found on my machine,
+which are very possibly infected by a Linux virus out in the wild.
+I'm sure I compiled ALL of these binaries myself from source I
+reviewed, so the origin of the virus must be somewhere else.
+Note: these files were compiled on x86 Linux 2.0.x with glibc2.
+
+Details:
+
+* Creates temp files when run. Each time an infected binary is run,
+  it creates /tmp/tmp. If that file exists, it tries /tmp/temp0, /tmp/temp1,
+  and so on. The temp files are various system binaries, among them were
+  the infected files themselves as well as compress, gzip, ls, pgp, grep,
+  cat, bash... I haven't been able to find a definitive pattern/sense in this,
+  but it seems they are original versions of binaries that are extracted from
+  the infected files. A recognizable string in all infected binaries seems to
+  be: "/tmp/tmp\0ELF\0/tmp/temp\0%s%d"
+
+* The virus seems to be exactly 8000 bytes big
+  By recompiling binaries from source and comparing the
+  size of the "clean" binaries with the old infected ones,
+  there is a difference of exactly 8k in most cases.
+
+* Examines other binaries. The strace output shows that infected files try
+  to access() every file in the directory they reside, and possibly in other
+  directories. It looks like the virus searches for writable/infectable files.
+
+* Corrupted ELF header. Some bytes in the elf header, probably the header
+  offset or file size value, are identical in all infected binaries. This
+  might be to mark files as infected, however, the side effect is that the
+  binaries cannot be debugged with gdb, because it thinks they aren't ELF, or
+  doesn't find the offsets to the segments. The first 40 bytes look like this:
+  "\x7f\x45\x4c\x46\x01\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00"
+  "\x03\x00\x01\x00\x00\x00\x70\x89\x04\x08\x34\x00\x00\x00\xf0\x25\x00\x00"
+  The specific strings are \x70\x89 and \xf0\x25. Note: I hex edited
+  'aconv-modified' so it can be loaded and debugged with gdb somehow..
+  entry point seems to be at 0x8048970, but debugging is still hard to do.
+ 
+
+
+Feb 2000,
+Mixter <mixter@newyorkoffice.com>

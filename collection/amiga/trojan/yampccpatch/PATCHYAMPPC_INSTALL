@@ -1,0 +1,29 @@
+; YAM v2.0 PowerPC & Y2K Patcher v1.2 
+; Marco 'dr Green' Goetzke 1999.12.03 
+
+Assign YamPPC: ""
+Echo "Please wait, checking your CPU version..."
+Wait 5
+if exists s:cedmacros
+        delete s:cedmacros quiet 
+endif
+Echo "CPU version OK. Preparing YAM v2.0 to patch..."
+Wait 1
+Echo "" 
+YamPPC:YAMPatcher YAM:*.* TO RAM:
+Wait 1
+YamPPC:YAMPatcher YamPPC:YamPPCPatch.pch TO S:
+Echo ""
+Echo "Please wait... Patching your YAM now"
+YamPPC:PowerYAM S:YamPPCPatch.pch to S:cedmacros
+Wait 2
+Echo ""
+Echo "YAM PPC patch is done!" 
+Echo "" 
+Echo "Now you can use YAM v2.0 with your PPC with more power!" 
+Echo "And without any Year 2000 (Y2K) problems" 
+Echo "" 
+Echo "Thank you for using my PowerYAM patcher!" 
+Echo "Marco 'dr Green' Goetzke, marcogoetzke@mailops.com"
+Wait 15
+

