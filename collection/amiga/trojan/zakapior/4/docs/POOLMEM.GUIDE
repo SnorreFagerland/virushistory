@@ -1,0 +1,1038 @@
+@DATABASE VNC
+@$VER: PoolMem.guide 1.06 (11.7.99)
+@(C) THOR-Software 1997,1998
+@AUTHOR Thomas "the Judge" Richter
+@SMARTWRAP
+@INDEX Index
+@NODE Main "The PoolMem Guide"
+                        PoolMem Guide
+
+Guide Version 1.06                     PoolMem Version 1.45
+
+
+
+
+Table of Contents
+
+
+I.      @{"The Licence" link Licence}
+
+                Read This First!
+
+
+II.     @{"What is it: Overview" link Overview}
+
+                What it does...
+
+
+III.    @{"Installation" link Install}
+
+                How to install PoolMem.
+
+
+IV.     @{"Configuration" link Config}
+
+                Setup PoolMem.
+
+
+V.      @{"Extras" link Extras}
+
+                Extras in the PoolMem distribution.
+
+
+VI.     @{"Compatibility" link Compatibility}
+
+                Messy programs you shouldn't use...
+
+
+VII.    @{"Theory of operation" link Theory}
+
+                Why and how does this work?
+
+
+VIII.   @{"Guru meditations" link Gurus}
+
+                Guru meditations thrown by PoolMem.
+
+
+IX.     @{"Thanks" link Thanks}
+
+                Special "thank you"'s go to...
+
+
+X.      @{"History" link history}
+
+                What happened before...
+
+
+
+@{CODE}
+        © THOR-Software
+        Thomas Richter
+        Rühmkorffstraße 10A
+
+        12209 Berlin
+        Germany
+
+
+EMail:  thor\@einstein.math.tu-berlin.de
+WWW:    http://www.math.tu-berlin.de/~thor/thor/index.html
+@{BODY}
+
+
+PoolMem is FREEWARE and copyrighted © 1993-1998 by
+Thomas Richter. No commercial use without perimission of the
+author. Read the @{"licence" link Licence}!
+
+@ENDNODE
+@NODE Licence "The THOR-Software Licence"
+                         The THOR-Software Licence (v2, 24th June 1998)
+
+
+This License applies to the computer programs known as "PoolMem" and
+"PatchRAM", and the "PoolMem.guide". The "Program", below, refers to such
+program. The "Archive" refers to the the original and unmodified package of
+distribution, as prepared by the author of the Program. Each licensee is
+addressed as "you".
+
+
+
+The Program and the data in the archive are freely distributable
+under the restrictions stated below, but are also Copyright (c)
+Thomas Richter.
+
+Distribution of the Program, the Archive and the data in the Archive by a
+commercial organization without written permission from the author to any
+third party is prohibited if any payment is made in connection with such
+distribution, whether directly (as in payment for a copy of the Program) or
+indirectly (as in payment for some service related to the Program, or
+payment for some product or service that includes a copy of the Program
+"without charge"; these are only examples, and not an exhaustive enumeration
+of prohibited activities).
+
+
+However, the following methods of distribution
+involving payment shall not in and of themselves be a violation of this
+restriction:
+
+
+(i) Posting the Program on a public access information storage and
+retrieval service for which a fee is received for retrieving information
+(such as an on-line service), provided that the fee is not
+content-dependent (i.e., the fee would be the same for retrieving the same
+volume of information consisting of random data).
+
+
+(ii) Distributing the Program on a CD-ROM, provided that
+
+a) the Archive is reproduced entirely and verbatim on such CD-ROM, including
+especially this licence agreement;
+
+b) the CD-ROM is made available to the public for a nominal fee only,
+
+c) a copy of the CD is made available to the author for free except for
+shipment costs, and
+
+d) provided further that all information on such CD-ROM is redistributable
+for non-commercial purposes without charge.
+
+
+Redistribution of a modified version of the Archive, the Program or the
+contents of the Archive is prohibited in any way, by any organization,
+regardless whether commercial or non-commercial. Everything must be kept
+together, in original and unmodified form.
+
+
+
+
+Limitations.
+
+
+THE PROGRAM IS PROVIDED TO YOU "AS IS", WITHOUT WARRANTY. THERE IS NO
+WARRANTY FOR THE PROGRAM, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. THE ENTIRE
+RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD
+THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY
+SERVICING, REPAIR OR CORRECTION.
+
+
+IF YOU DO NOT ACCEPT THIS LICENCE, YOU MUST DELETE THE PROGRAM, THE ARCHIVE
+AND ALL DATA OF THIS ARCHIVE FROM YOUR STORAGE SYSTEM. YOU ACCEPT THIS
+LICENCE BY USING OR REDISTRIBUTING THE PROGRAM.
+
+
+                                                        Thomas Richter
+
+@ENDNODE
+@NODE Overview "Overview: What does it?"
+PoolMem is a sort of "memory defragmentizer". Whenever you run a lot of
+programs on your Amiga, and each of them allocated memory in random order,
+the memory gets broken up into more and more tiny blocks. After a while, you
+might be unable to run a larger project or load a larger data set, even if
+numerically enough memory is available.
+
+
+The reason for not being able to load a project is not that there is not
+enough free memory, but there is not enough free continuous memory in one
+large block. The memory will be, instead, consist of lots of tiny blocks
+that aren't useful at all.
+
+
+Unfortunately, the construction of the AmigaDos does not allow a memory
+defragmentizer in the strict sense, i.e. there is no way of "moving" memory
+blocks to make room for large allocations. However, the implementation of
+the memory allocation and deallocation functions in the AmigaOs is
+relatively naive, and that's the point where PoolMem comes into the game.
+
+
+PoolMem replaces the memory management functions of the AmigaOs by smarter
+routines that are build in a way such that the memory doesn't get
+fragmentized too easely. It fixes on its way several minor features (not to
+call them "bugs") of the memory management and replaces for that reason
+several other patches like "NewAllocMem" or "AllocP" and "AllocP32". It
+includes, too, several workarounds for "popular bugs" in programs.
+
+
+After having tested PoolMem for about three years now, I would say that this
+version runs very stable, and I won't expect new bugs. The only problem
+remaining are programs that don't follow the Os rules - I've collected these
+programs - together with their bugs - in the
+@{"compatibility section" link Compatibility}.
+
+
+To make these rules available for everyone, I included the file
+"Developer.readme" in this archive. If you write programs for the Amiga,
+study it carefully. These rules aren't setup by me, they are just what can
+be found in the official documentation. Not following these rules causes
+trouble with the AmigaOs - and with PoolMem.
+
+
+If you have ideas how to improve PoolMem, let me know!
+
+@ENDNODE
+@NODE Install "How to install PoolMem?"
+Installation is quite simple. Just copy the "PoolMem" program from this
+archive to the C: directory. Then add the following line to your
+startup-sequence, right below "SetPatch", or, even better, below
+"SaferPatches" which should be the second patch to be installed anyways:
+@{CODE}
+
+SetPatch >NIL:
+SaferPatches INSTALL >NIL:              ;optionally, should be
+                                        ;be run if you want to
+                                        ;remove PoolMem later.
+PoolMem INSTALL >NIL:
+
+@{BODY}
+Especially, PoolMem should be run @{B}IN FRONT@{UB} of all other memory
+allocation patches, i.e. MungWall. That means for example:
+
+
+@{B}RUN PoolMem first, MungWall later@{UB}
+
+
+Provided you installed the RexxSerDev.library, you should also apply
+a patch to it since this library contains a serious bug. For details
+check the RexxSerDevFix drawer in this distribution.
+
+That's all. For the "fine-tuning", study the
+@{"configuration" link Config} chapter.
+
+
+
+To be able to remove PoolMem later, you should run a program
+like "SaferPatches" as indicated below. To remove the PoolMem patch, open a
+shell and enter
+@{CODE}
+
+1.SYS:> PoolMem remove@{BG Fill}@{FG Shine} @{FG Text}@{BG Background}
+
+@{BODY}
+Execution of this command may take up to five seconds, so be a bit patient
+with PoolMem. @{B}Do NOT try this@{UB} without SaferPatches.
+
+
+By the way: When running PoolMem, you won't need patches like "NewAllocMem"
+or "AllocP" anymore. Their function is completely integrated in PoolMem.
+Don't install them together with PoolMem, that won't do good!
+
+@ENDNODE
+@NODE Config "Configuration"
+The fine-tuning of PoolMem is done by shell command line options, at
+invokation time of PoolMem. Hence, you've to edit your startup-sequence to
+adjust this program; there is no graphical user interface, at least not yet.
+
+
+The complete command template looks as follows:
+@{CODE}
+
+PoolMem HELP/S,REMOVE/S,INSTALL/S,CHIPFWD/S,NOMERGE/S,SCRATCHONLY/S,
+        PUDDLESIZE/N,SHRINKTRHES/N,PUDDLETHRES/N,SMALLHEADER/N,
+        ALLOC32/S,NORAMREVERSE/S,FREEMEMRESULT/N
+
+@{BODY}
+
+
+Here's the meaning of the various options:
+
+
+@{B}HELP@{UB}:
+
+Prints a small overview of the available options.
+
+
+@{B}REMOVE@{UB}:
+
+Remove a previously installed version of PoolMem. Be warned: You *should*
+run SaferPatches to be able to remove PoolMem safely. PoolMem @{B}does
+not@{UB} check if a patch was installed on top of it.
+
+
+@{B}CHIPFWD@{UB}:
+
+To keep the chip memory as unfragmentized as possible, PoolMem will
+usually allocate big memory chunks of chip memory in reverse order. That
+usually does only good, but if this causes trouble, you may give this option
+to allocate even chip memory in standard, i.e. forwards direction.
+
+
+@{B}NOMERGE@{UB}:
+
+Tells PoolMem not to attempt to merge adjacent memory blocks of the same
+type. Even if the memory types are equal, the physical characteristics of
+the memory blocks might differ (e.g. 32 bit memory vs. 16 bit memory) and it
+is therefore not always desireable to merge them. Merged memory will cause
+less fragmentation, but might, too, run slower under certain circumstances
+because slower 16 bit memory is used instead of faster 32 bit memory.
+
+
+@{B}SCRATCHONLY@{UB}:
+
+PoolMem usually splits one large memory block into two halfes, a so called
+"small memory pool" and a "large memory pool". Allocations for small memory
+blocks are taken from the "small pool", large allocations are taken from the
+"large pool". The boundary between the two is dynamic, i.e. PoolMem may
+adjust it if required. However, if this splitting causes trouble, you may
+disable it with this option. In that case, only the memory scratch list will
+be used. (See @{"Theory of Operation" link Theory}.)
+
+
+@{B}PUDDLESIZE@{UB}:
+
+Set the "puddle size" for the small block memory pool. If an allocation from
+the small memory pool fails, PoolMem attempts to enlarge the pool by this
+number of bytes. Defaults to 8192.
+
+
+@{B}PUDDLETHRES@{UB}:
+
+Set the "puddle threshold" for the small memory pool. Allocations larger
+than this size are taken from the large memory pool instead of the small
+memory pool.
+
+
+@{B}SHRINKTHRES:@{UB}
+
+Set the "merge threshold". If more than PUDDLESIZE + SHRINKTHRES bytes are
+unused at the end of the small memory pool, the pool shrinks and the free
+bytes enter the large pool. Defaults to 4096.
+
+
+@{B}SMALLHEADER:@{UB}
+
+If this option is given, set the memory block of this index aside and use it
+as small memory pool. The argument is simply the number of the block in the
+memory list, counting from zero, and can be found by watching the output of
+@{"ShowMem" link Extras}. The topmost memory block is number 0, the next
+below 1 and so on. This memory block MUST BE fast memory. If this option is
+given, PoolMem does not try to split any fast mem header, only the chip mem
+is split. The small memory block is sorted in just before the chip memory,
+but is used for the small memory block allocations as long as possible.
+
+
+@{B}ALLOC32:@{UB}
+
+Align all memory allocations to 32 byte boundaries. This option shouldn't be
+used unless it is really required - and there is currently no real need for
+it. Using it is like throwing a fragmentation bomb into the memory, even
+WITH PoolMem.
+
+
+This keyword might become useful when dealing with PPC / MC68K mixed
+hardware. All allocations should be aligned to 32 byte boundaries to avoid
+holding memory segments both in the PPC and the MC68K cache. This is
+currently avoided by the PPC system software.
+
+
+HOWEVER, using this keyword fragmentizes the memory really badly because of
+the unuseful unaligned boundary snippets that neither can be allocated, nor
+enter the scratch list.
+
+
+Even though memory returned from AllocMem() IS aligned to 32 byte
+boundaries, AllocVec'd memory isn't. It is still only long word aligned
+because the first longword of the vector is used to keep the size of the
+allocated memory. This doesn't hurt for the purpose this keyword was
+invented for; it is, even more, REQUIRED to work like this because the
+vector size should be either in the PPC or in the MC68K cache, but not in
+both.
+
+
+Due to the heavy fragmentation of memory when using this keyword, it is
+recommended to use it only if absolutely necessary. The standard PPC system
+software deals with the problem of overlapping caches correctly so there's
+really no need for this keyword, at least not now.
+
+
+This keyword works quite different from AllocP32. It doesn't use "magic
+cookies" in any way and is written in a way compatible to the - rather ugly
+- layers.library allocation methods (check the developer.readme file in this
+archive for details about this). The drawback of this compatibility is the
+rather high fragmentation, it's even higher than without PoolMem. You have
+been warned!
+
+
+@{B}NORAMREVERSE@{UB}
+
+Do not try to allocate memory for the RAM disk in reverse order. Using this
+option is NOT recommended since it may increase the fragmentation.
+
+
+This implements one function of the @{"PatchRAM" link Extras} program into
+PoolMem, where it belongs.
+
+
+@{B}FREEMEMRESULT@{UB}
+
+Defines a dummy result code for FreeMem() to fix broken programs. The
+default value is "-1" and works around an FFS bug. However, as this bug
+has been fixed with release 43.20 of the FFS, and the result code "-1"
+conflicts WITH ANOTHER BUG in the "RexxPlus" compiler and "RexxPlus"
+compiled programs, you might want to set the result code to something
+different. "-2" would be an apropriate choice.
+
+@ENDNODE
+@NODE Extras "Extras in the PoolMem distribution"
+@{B}RexxSerDevFix@{UB}
+
+This drawer contains a patch to fix a serious bug in the rexxserdev.library,
+namely the parameter passed into FreeMem is a word, not a long word. This
+may cause a completely messed up memory list, not only with PoolMem
+installed. The library version is upgraded from 5.2 to 5.3 and the bug is
+patched over.
+
+How to apply the patch:
+@{CODE}
+
+- Open a shell
+- Copy the contents of the RexxSerDevFix drawer to RAM:
+- Enter the following command:
+        CD RAM:
+- then, enter the following command to update the library:
+        spatch -oram:rexxserdev.library -prexxserdev.pch LIBS:rexxserdev.library
+- then, copy the library back to LIBS:
+        copy ram:rexxserdev.library to LIBS:
+@{BODY}
+
+@{B}ShowMem@{UB}:
+
+Shows the allocated/free memory in a graphical overview. For details, check
+the ShowMem readme and the ShowMem.guide in this archive.
+
+
+@{B}PatchRAM@{UB}:
+
+Modifies and improves the RAM disk. Shows the correct size of the RAM drive
+which is then no longer 100% full all the time. For details, check the
+PatchRAM.readme. As PoolMem, it should be installed in the startup-sequence.
+Unlike previous versions, this patch does no longer touch the memory
+allocation functions that have been integrated into PoolMem.
+
+
+@{B}FragMeter@{UB}:
+
+Calculates the fragmentation of your memory. The output is given separately
+for each memory type. A 100% fragmentation indicates that all the free
+memory is messed up in tiny blocks of eight bytes each which is the maximal
+possible fragmentation. A "Shannon-type" approach is used to measure
+the fragmentation: The algorithm calculates the Shannon entropy of the
+memory blocks with the formula
+@{CODE}
+
+sum += log(chunk->mc_Bytes/total)
+
+@{BODY}
+If you know a better approach for measuring the fragmentation, lemme now.
+This here seems at least somewhat reasonable for me as a theoretical
+physicist... ;-)
+
+
+This program can be used to test the efficency of PoolMem. My measurements
+indicate that the entropy is about halved.
+
+
+@{B}MemoryMess@{UB}:
+
+A program that tries to fragmentate the main memory as badly as possible by
+allocating and freeing memory in random order. Can be used together with the
+FragMeter to measure the efficiency of PoolMem or with ShowMem to watch
+PoolMem at its job. Can be canceled safely with ^C (Control-C). Does nothing
+useful except that.
+
+
+@{B}PatchReplyMsg@{UB}:
+
+Useful to find buggy programs, like XiPaint. PatchReplyMsg will create a
+guru 0x0100001f if a program attempts to reply an already de-allocated
+message. @{B}Don't install it permanently@{UB}, but use it to find the
+reason for crashes.
+
+
+@{B}PoolMemDetect@{UB}:
+
+If PoolMem is running and a guru shows up PoolMem is responsible for, run
+this program to get more detailed information about the crash. If possible,
+send the output of this program to me, including how you generated that
+crash - it might prove helpful.
+
+
+@{B}pgs_patchmem@{UB}:
+
+This program patches AllocMem to avoid problems with Photogenics. It seems
+that it trashes memory outside of the domain it allocated. This patch adds a
+safety wall around each memory block allocated in order to avoid this
+problem. However, this patch cannot be stopped because the wall is then
+never released again. This is currently more an experimental version which
+you might want to check if it helps to avoid Photogenics crashes. If it
+does, I'll prepare a final version - even though an updated Photogenics
+version might be more helpful. Thanks goes to Carl Drougge for this program,
+and for allowing me to redistribute it here.
+
+In case you've questions about this patch, contact Carl at
+
+carl.drougge@2.sbbs.se
+
+
+@ENDNODE
+@NODE Compatibility "Compatibility"
+This section contains compatibility remarks and programs to be known not to
+run correctly with PoolMem installed. I checked all of these programs
+carefully and found that the reason for crashes lies usually either in a bug
+of the program, or in the un-ability of certain folks to read the Os
+documentation @{B}carefully@{UB}. To help you, and to avoid future problems
+I collected all the Os guidelines, as far as memory allocation is concerned,
+in the "Developer.readme" file in this distribution. Please READ THEM!
+
+
+Here's now the list of bad programs:
+
+
+@{B}RexxPlus ARexx compiler, and RexxPlus compiled programs@{UB}:
+
+The compiler runtime library and its compiled programs call an undocumented
+rexxsyslib.library ("ReleaseRexxResource", namely) and expect a proper
+result code in register d0. However, what's left here is just the "result
+code" of FreeMem(), nothing more. Unfortunately, "RexxPlus" handles "-1" as
+a special error case and quits. This can be worked around by setting the
+FREEMEMRESULT option to something different than -1. The side effect of this
+would be, however, that due to another bug in the FFS releases up to 43.19
+return this result code instead of DOSTRUE for a successfull Close(). This
+FFS bug was fixed in release 43.20.
+
+
+
+@{B}rexxserdev.library@{UB}:
+
+Due to a bug in the memory release function of the program, only a word
+is passed into the FreeMem-Function, not a long word as supposed. Since
+the upper half of the register may contain random data, the memory release
+call will sooner or later trash the memory list completely. This is fixed by
+the RexxSerDevFix patch in this distribution.
+
+
+@{B}amiboot@{UB}:
+
+The linux kernal boot program "amiboot" does not work with PoolMem
+installed. This program suffers from several bugs. First of all, it examines
+the memory list itself, without using the exec.library. (What do you think
+AvailMem() is good for, then?) Second, it does not even call Forbid() to do
+so. Third, it always expects that the chip memory comes in one continous
+block and is too unflexible to handle other cases, as for example the two
+ChipMem blocks that will be created when PoolMem is running and active. If
+you really MUST use this program, then use the SCRATCHONLY option of PoolMem
+to avoid splitting the memory in a large and a small memory pool.
+
+
+
+@{B}The Final Odyssey@{UB}:
+
+The game demo "The Final Odyssey" (and probably the full game) crashes when
+PoolMem is active. Tracing this error down to its roots resulted in an
+aparent bug in the memory deallocation function of this game that occurs,
+too, with the official MungWall debugging tool instead of PoolMem installed.
+
+Since EVERY CORRECT PROGRAM is supposed to run with MungWall, I WON'T TRY to
+add a workaround for this bug. Just avoid buggy programs, as usual.
+
+
+
+@{B}Photogenics@{UB}:
+
+I got reports that this program crashes with PoolMem installed as soon as it
+is shut down. A bug in the shutdown code alters memory that is no longer
+allocated. @{B}THIS IS FATAL@{UB}, even without PoolMem. It's just a matter
+of good luck if that does not crash the system. This hit cannot be detected
+with MungWall since pgs called Forbid() before this memory is released.
+MemSniff will do a better job in these cases...
+
+
+
+@{B}XiPaint@{UB}:
+
+The mouse driver in the XiPaint program contains a serious bug that can
+cause crashes, with or without PoolMem.
+
+The message handling of the mouse driver is broken. After a long debug
+session deep in the night, I found that the crashes were created by the
+mouse driver XMouse. It replies messages that are no longer valid and have
+been FreeMem()'d before. @{B}THIS IS DEFINITELY ILLEGAL AND NOT A POOLMEM
+PROBLEM.@{UB}
+
+
+To help you checking other programs as well, I included a tiny patch
+@{"PatchReplyMsg" link Extras}. You shouldn't install it permanently,
+though, because it slows down the message system. If, after installation of
+this patch, a program crashes with guru 0x01000001f, THEN THIS PROGRAM HAS
+THE SAME BUG AS XIPAINT and replies illegal messages. This will crash your
+system anyways, with or without PoolMem. Please sent a bug report to the
+author, or remove these programs. As I said, THIS IS NO POOLMEM problem.
+
+The guru 0x01000013 is rather typical for these programs - they invalidate
+the internal scratch list of PoolMem.
+
+
+
+@{B}SaferPatches@{UB}
+
+There is no problem with this program, but just a side remark at this place:
+
+To be able to remove PoolMem later on safely, PoolMem must be run AFTER
+SaferPatches has been installed. Same goes of course for all other patches
+and the SaferPatches program.
+
+
+
+@{B}PowerUp boards@{UB}
+
+It has been reported that PoolMem runs astonishingly slow on PowerUp boards.
+I've currently no explanation for this, if you've any idea about it or know
+how to fix it - please report!
+
+I got now reports that this bug seems to be fixed with later versions of
+PoolMem - don't ask me why...
+
+
+
+@{B}SetPatch, the 68040.library and ppc.boards@{UB}
+
+The 68040 library which is loaded by this program allocates MMU tables which
+must be aligned to certain memory boundaries. The current version of PoolMem
+respects this behaiviour and there shouldn't be a problem with this
+actually; however, I can't test this. (Unless there's a sponsor who wants to
+send me a PPC Amiga as a gift.... :-)
+
+The easiest solution @{B}IF@{UB} you run into trouble is to run PoolMem
+AFTER SetPatch, as recommended.
+
+
+@{B}MemSniff@{UB}:      (The THOR MungWall replacement)
+
+MemSniff patches deep into the memory allocation routines, too deep for
+PoolMem.
+
+
+
+
+
+The following compatibility hacks and workarounds have been added to
+PoolMem:
+
+
+
+@{B}PixMate@{UB}:
+
+This program relies on a correctly set zero condition code bit if AllocMem
+fails. There IS NO guarantee that the "z" bit is set to anything useful.
+However, since the fix was so easy, I added this to PoolMem.
+
+Other assembly programs may suffer from this bug, too. (Hopefully not
+mine...;-)
+
+
+
+@{B}FFS 43.xx@{UB}:
+
+The FFS/OFS ACTION_CLOSE packet does not set the correct result code. This
+is currently done by the PoolMem FreeMem() replacement routine. However, the
+author of the FFS ("Heinz") has been informed, so it's likely that this
+error will be fixed in the next FFS release, probably for the FFS of the 3.5
+workbench - if there's gonna be one, sigh.
+
+
+
+@{B}Memory flush@{UB}:
+
+The memory flushing algorithm of the exec.library is - even though working
+in principle - a bit unuseful in praxis. Since task switching is disabled
+during a memory flush due to a low memory situation, libraries and devices
+that launched sub-tasks won't be able to inform their children to free their
+allocated memory in time. I don't know why the exec development team had
+this crazy idea.... Anyways, PoolMem adds a workaround for this and replaces
+therefore the "AllocP" and the "NewAllocMem" patch.
+
+@ENDNODE
+@NODE Theory "Theory of Operation"
+PoolMem splits all available memory in two blocks: One block is used for the
+small memory snippets (always taken from there), the other block is used for
+huge allocations. This partition of the main memory is dynamic, i.e. each
+sub-pool can grow and shrink, depending on the memory requirements.
+
+
+
+The "public/ANY" memory gets a special treatment. PoolMem manages a "scratch"
+list for tiny memory blocks taken from there. Instead of taking these tiny
+memory blocks always from the main memory, they are taken from this (global,
+though) memory pool and put back into this pool if they get deallocated. A
+special garbage collection task - the "PoolMem.supervisor" cleans this
+"scratch list" from time to time, as needed. The main profit is taken from
+the layers.library, which uses to allocate tons of tiny snippets and is
+therefore the main cause for memory fragmentation.
+
+
+
+The "chip" memory is treated a bit different. It's also split into two
+distinct memory pools (small and large), but memory from the large pool is
+allocated in reverse direction - unless you run PoolMem with the
+@{"CHIPFWD keyword" link Config}, of course; this happens for two reasons:
+
+First, it helps to keep the memory defragmentated, so the big pool can't run
+that easely into the small pool. Second, it works around a hardware bug of
+my computer (the refresh of the high end chip memory in my computer seems to
+be a bit buggy -some bits tend to flip if they aren't frequently accessed,
+for example by the DMA processor as display memory.)
+
+
+
+This is, after all, not the great, smart and final memory allocation patch,
+but something based on heuristic ideas that seem to prove useful at least.
+You might ask a real computer scientist for better algorithms and keep me
+informed. I'm after all only a pure (poor?) physicist.
+
+@ENDNODE
+@NODE Gurus "Guru meditations"
+The following Guru meditations can be thrown by PoolMem:
+
+
+@{B}0x01000013  Scratch entry illegal.@{UB}
+
+Some program invalidated the internal memory scratch list of PoolMem - by
+overwriting memory that has been deallocated before. An (in)famous example
+is XiPaint. Run "PatchReplyMsg" and a debugger (e.g. COP) to check for
+details.
+
+
+
+@{B}0x0100000f  MemHeader not found.@{UB}
+
+Some program attempted to free a non-existing block of memory. PoolMem
+wasn't able to locate the MemHeader.
+
+
+
+@{B}0x01000011  MemHeader insane.@{UB}
+
+PoolMem found a MemHeader whose number of available bytes does not match the
+size of its pool.
+
+
+
+@{B}0x01000012  Invalid DeleteHeader (internal).@{UB}
+
+Someone tried to deallocate the "large" memory pool. This is an internal
+guru, shouldn't happen. If it does, please inform me.
+
+
+
+@{B}0x01000014  Memory Pools unordered.@{UB}
+
+Someone changed the order of the memory blocks, the large memory block is no
+longer in front of the small memory pool.
+
+
+
+@{B}0x81000005  MemHeader corrupt.@{UB}
+
+On FreeMem(), PoolMem detected a corrupt memory header. Some program messed
+with the memory lists.
+
+
+
+@{B}0x01000009  Memory freed twice.@{UB}
+
+A memory chunk already deallocated was deallocated again. Usually a bad
+program with a broken memory deallocation routine.
+
+
+
+@{B}0x0100000c  Memory insane.@{UB}
+
+On an AvailMem() call, PoolMem detected that the memory headers are insane,
+i.e. the size of free memory recorded in the memory header structure does
+not match the size of available memory. Some program messed with the memory
+list.
+
+
+@ENDNODE
+@NODE Thanks "Thank you, folks!"
+Thanks to Andreas Kleinert for the useful discussion about his AllocP patch.
+My first thought (and not only mine!) was that this program is completely
+useless - which it isn't, due to some design flaw in the exec memory
+flusher.
+
+
+Thanks to Dirk Neubauer for continously reporting problems or non-problems
+of PoolMem and for testing this program. Some of the compatibility notes
+are due to his observations.
+
+
+Thanks to Raphael Pilarczyk for additional reports, especially the
+Photogenics problem, and for testing and providing additional ideas and
+options of PoolMem. Moreover, this guide file is more or less due to him.
+Hope you like it, Raphael...
+
+
+Thanks to Ralph Schmidt for some discussion and giving me some insight into
+the PPC hardware.
+
+
+Thanks to Carl Drougge for sending me the pgs_patchmem program, and for
+allowing me to redistribute it.
+
+
+Thanks to all the other folks I'd been in discussion with and I
+unfortunately forgot to mention here... Urgh, please forgive me!
+
+
+I do NOT want to thank Commodore for my \@#%&!!! computer. (This is my 3rd
+computer, my 9th mouse, my 3rd fan, my 2nd SCSI controller, my 3rd disk
+drive, several memory problems drove me crazy, the expansion port is wrongly
+designed... Which idiot designed this crap? When I found out that commodore
+went out of business, I really ENJOYED it.)
+
+
+I do NOT want to thank Gateway for trying to turn the Amiga into an
+intel-based machine. No folks, not this way. \\begin{sarcastic} While
+Commodore just dig the grave for Amiga, Gateway is turning it into a zombie.
+\\end{sarcastic}
+
+@ENDNODE
+@NODE History "History: What happened before"
+Version 1.19
+
+After about three years of (interrupted) development and various ideas about
+PoolMem and its memory organization, and after two years of running it in my
+system without problems, I finally decided to publish this version in the
+AmiNet.
+
+
+
+Version 1.19.1
+
+Changed the name of the DefragMeter to FragMeter because that makes more
+sense. Added a chunk count to this program. PoolMem itself unchanged.
+
+
+
+Version 1.20
+
+Added the CHIPFWD command. Works like INSTALL but allocates chip mem in
+standard (forwards) mode instead of backwards mode. Might solve strange
+compatibility problems. Added more sanity checks, included PatchReplyMsg
+to create warnings for broken programs.
+
+
+
+Version 1.21
+
+PoolMem flushes now the memory as it should if called by AllocMem(-1,..).
+Except that, nothing changed.
+
+
+
+Version 1.21.1
+
+Included a new version of PatchRAM (check PatchRAM.readme for details),
+and a new version of the FragMeter program.
+
+
+
+Version 1.22
+
+PoolMem merges now automatically all adjacent memory lists of the same type.
+
+
+
+Version 1.30
+
+This version introduces a major rewrite of all critical routines, especially
+the replacement AllocMem() and FreeMem() routine. This might mean that either
+old bugs have been fixed or new bugs have been introduced. Anyways, check out
+for possible bugs since this is a release with a "0" in the version.
+This version might be much faster than the 1.2x version, due to some
+optimizations.
+WARNING: Since the new 1.30 release of PoolMem replaces the Exec memory
+functions completely, YOU MUST RUN POOLMEM IN FRONT OF OTHER MEMORY PATCHES.
+ESPECIALLY, RUN POOLMEM FIRST, MUNGWALL AFTERWARS or Mungwall will be
+nonfunctional.
+
+
+
+Version 1.31
+
+PoolMem includes a patch for AllocAbs() to be able to allocate absolute memory
+from the scratch list. This *should* help to make PoolMem working with the
+68040/68060/ppc library, thus, it should be possible to run PoolMem IN FRONT
+of these libraries, i.e. "SetPatch". Would be nice if somebody could sent me
+a report whether this works now or not.
+
+Additionally, new versions of the FragMeter and ShowMem program are included.
+
+
+
+Version 1.32
+
+Rewrote the startup segment completely. All 1.2 compatible code, argument
+parser etc... removed. Added a proper version check: PoolMem requires OS
+3.0. Added the NOMERGE option to avoid merging of FastMem of different
+speed. As a result of the new argument parser, the CHIPFWD option DOES NO
+LONGER include the "INSTALL" option, both arguments should be given. The
+PoolMem algorithms hasn't been changed, though. Included new versions of
+PatchRAM and ShowMem. PoolMem 1.31 and above works fine on PowerUp-Systems.
+Thanks to Andreas Kleinert for testing! However, the current version does
+not yet adjust memory correctly for the PowerUp system, that's still left to
+the ppc.lib and AllocP32. Might change in the future, though.
+
+
+
+Version 1.33
+
+Removed a bug in the PoolMem shutdown code. The pre-1.33 releases did not
+free the scratch list completely. Added the SCRATCHONLY keyword, it installs
+only the "scratchlist" of PoolMem, not the dynamic pools. Added the
+PUDDLESIZE, PUDDLETHRES and SHRINKTHRES keywords to make the parameters of
+the small memory pool adjustable. Rewrote a lot of the kernal routines,
+mostly for optimizations.
+
+
+
+Version 1.34
+
+Added the SMALLHEADER keyword. A selected memory block can be set aside for
+the small memory blocks explicitly. Fixed a documentation error in the
+Developpers.readme. Thanks, Dave!
+
+
+
+Version 1.35
+
+Added a patch for the AvailMem() function to include the bytes in the
+scratch list. Added the ALLOC32 keyword. Check for
+@{"caveats" link Config}. You usually DO NOT want this!
+
+
+
+Version 1.40
+
+Integrated partially the PatchRAM AllocVec() patch. Memory requests by the
+RAM disk are now allocated in reverse order. This feature can be turned off
+explicitly by the NORAMREVERSE option, see below. Thanks to Raphael
+Pilarczyk for testing.
+
+
+Version 1.41
+
+Added an API for the PoolMemDetect program that extracts more information of
+the last guru due to PoolMem. Added the PoolMemDetect program itself.
+
+
+Version 1.41.1
+
+Included the pgs_patchmem experimental program. Check the "Extras" section
+to find out more about this program.
+
+
+Version 1.42
+
+Added the FREEMEMRESULT option to specify the result code of FreeMem(). The
+former default value "-1" worked around an FFS bug which has been fixed with
+release 43.20. However, "-1" conflicts with another bug in "RexxPlus"
+compiled rexx scripts. I would recommend to set the result code to "-2" to
+make "RexxPlus" working if the FFS 43.20 has been installed.
+
+
+Version 1.43
+
+PoolMem does no longer try to pool non-MEMF_PUBLIC memory. This might be
+of importance if virtual memory is introduced.
+
+
+Version 1.44
+
+Fixed a minor problem in the allocation function that might have resulted
+in non-optimal memory layout on some boards and could have caused slow-downs.
+
+
+Version 1.45
+
+Adjusted allocation tabling which might have caused some people to have
+problems with a certain graphics patch that breaks the rules. Also added
+some more speed to the puddling.
+
+
+@ENDNODE
+@NODE INDEX "Index"
+@{CODE}
+        C...
+
+        @{"Compatibility" link COMPATIBILITY}
+        @{"Configuration" link CONFIG}
+
+        E...
+
+        @{"Extras in the PoolMem distribution" link EXTRAS}
+
+        G...
+
+        @{"Guru meditations" link GURUS}
+
+        H...
+
+        @{"History: What happened before" link HISTORY}
+        @{"How to install PoolMem?" link INSTALL}
+
+        O...
+
+        @{"Overview: What does it?" link OVERVIEW}
+
+        T...
+
+        @{"Thank you, folks!" link THANKS}
+        @{"The THOR-Software Licence" link LICENCE}
+        @{"Theory of Operation" link THEORY}
+
+
+@{BODY}
+@ENDNODE
+
+

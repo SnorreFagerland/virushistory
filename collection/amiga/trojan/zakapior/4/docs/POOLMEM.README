@@ -1,0 +1,64 @@
+Short:    Memory defragmentizer/AllocP superset
+Uploader: thor@math.tu-berlin.de (Thomas Richter)
+Author:   thor@math.tu-berlin.de (Thomas Richter)
+Type:     util/sys
+Version:  1.45
+Requires: OS 3.0
+
+
+______________________________________________________________________________
+
+			Version History
+
+This is not the complete version history, check the PoolMem.guide for details.
+______________________________________________________________________________
+
+1.45:
+
+Adjusted allocation tabling which might have caused some people to have
+problems with a certain graphics patch that breaks the rules. Also added
+some more speed to the puddling.
+
+1.44:
+
+Fixed a minor problem in the allocation function that might have resulted
+in non-optimal memory layout on some boards and could have caused slow-downs.
+
+
+1.43.1:
+
+Forgot to include the latest release of ShowMem. Oops! Thanks Raphael!
+Note that PoolMem *is not* compatible to MuGuardianAngel!
+
+
+1.43:
+
+PoolMem does no longer try to pool non-MEMF_PUBLIC memory. This might be
+of importance if virtual memory is introduced.
+
+
+1.42:
+
+Added the FREEMEMRESULT option to set a result code for FreeMem(). This can
+be used to work around bugs of various programs, check the guide for
+details.
+
+1.41.3:
+
+Added the RexxSerDevFix archive to the distribution. This patches a bug in
+the rexxserdev.library. Check the guide for details.
+
+1.41.2:
+
+Fixed the description of the pgs_PatchMem program, added Carl's EMail.
+
+1.41.1:
+
+Added the pgs_patchmem experimental program. Might help to avoid Photogenics
+crashes, but don't use it permanently. Read the guide first before trying it.
+Thanks goes to Carl Drougge for writing this program, and for allowing me to
+redistribute it.
+______________________________________________________________________________
+
+Have fun,
+	Thomas		June 1999
