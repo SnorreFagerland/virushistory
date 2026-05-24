@@ -20,5 +20,5 @@ Physicist and computational scientist. Ran the main VAX (VXCERN) at CERN in 1991
 Developer and the then 14-year old author of the first virus for Apple Hypercard in 1988.<br>
 Name used with permission.
 
-
+* <strong>CantStopDivided - <em>helped find numerous Wii Trojans.</em></strong><br>
 
