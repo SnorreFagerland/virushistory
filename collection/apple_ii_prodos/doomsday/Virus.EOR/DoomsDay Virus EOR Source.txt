@@ -1,0 +1,16 @@
+         ORG   $300
+         LDA   #$9A
+         STA   $00
+         LDA   #$16
+         STA   $01
+J2       LDY   #$00
+J1       LDA   ($00),Y
+         EOR   #$88
+         STA   ($00),Y
+         INY
+         BNE   J1
+         INC   $01        ;Go to next 256 bytes
+         LDA   $01
+         CMP   #$1C       ;Have we done up to $1B82 yet?
+         BNE   J2         ;Nope, continue on
+         RTS

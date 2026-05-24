@@ -1,0 +1,20 @@
+Lode Runner Virus Description
+~~~~~~~~~~~~~~~~~~~~~~~~
+Lode Runner is an Apple II virus that destroys the data on any disk, virus-
+infected or not.  The virus is triggered by a certain date reported by the
+system clock.  When the system clock reports the month of October, an odd-
+numbered day, and a minute value divisible by 8, the virus is ready to be 
+triggered.  Triggering occurs when you boot the system with either an infected 
+or non-infected disk.  Once triggering occurs, data on the boot disk are erased.
+
+Lode Runner spreads itself to other disks by patching the "boot blocks" or
+ProDOS kernel that is part of every ProDOS-formatted disk.  When you boot an
+infected disk, part of the virus also installs itself in system memory, making
+it a permanent part of the current session.
+
+Unlike other viruses, there is no way to see this virus progressing under 
+normal system use.  It has been reported that when the virus is present, the
+Sierra OnLine game SPACE QUEST I will fail to run.  The virus cannot spread to
+write-protected disks, nor does it infect 5-1/4" floppy disks.  However,
+because of its memory-resident mechanism, it can spread to new disks even if 
+a non-infected disk was last booted.

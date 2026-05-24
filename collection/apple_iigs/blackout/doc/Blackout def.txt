@@ -1,0 +1,30 @@
+BLACKOUT VIRUS:
+--------------
+
+I need to say something about the BLACKOUT VIRUS, as the program VirusMD included on this disk in the root directory does not say it will do anything about that.  Nor, do I think Virus Killer will help with this one.
+
+Blackout virus also infects only the IIgs.  When it strikes, it modifies parameters in the Battery RAM in your computer.  What it does is turn the background, text and border of your screen all to black.  It also sets the RAMdisk to zero, and sets the boot device to the RAMdisk.  Oh, and it turns the sound down to zero as well.  
+
+What happens then is that you can't see or hear anything, and you can't boot anything because there isn't a RAMdisk to boot from, and even if there was you couldn't see what came up.  Since you can't see or hear anything, the natural inclination is to think that something is broken, and that you need to take the computer to the repair shop.
+
+OK, if this ever happens to you, trust me and do the following:
+
+1. Boot your computer using Ctrl-OPTION-Reset.
+
+2. Press "2".
+
+3. This will restore visibility of your screen to you.  You'll be in 40-column text mode, with a blue background and white text.  All other standard settings will have been restored to the IIgs defaults.
+
+4. Restore your own settings to whatever you personally prefer.  I do make the following recommendations, however:
+
+	    a. Set the Color/Monochrome display parm to MONOCHROME.  This will not take away the ability to see color, and it may prevent some problems in the future for you.
+
+	    b. Set the Boot device to your own preference.
+
+	    c. Set the colors to whatever you like best.
+
+	    d. Set 80-column display unless you have some good reason to continue in 4-column mode.
+
+	    e. Reset your RAMdisk to the correct size for your own uses.  That is normally set to zero by the standards, so don't expect it back unless you fix it yourself.
+
+	    f. Check EVERY control panel option to make sure that things are set the way you really want them.

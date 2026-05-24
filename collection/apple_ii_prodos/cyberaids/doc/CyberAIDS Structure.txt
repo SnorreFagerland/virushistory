@@ -1,0 +1,64 @@
+Application Resident Virus Outline
+
+A. INITIALIZE.
+	1. Find current location of virus in memory.
+	2. Relocate itself to predefined memory location.
+	3. Make sure DOS is active and ready to accept system calls.
+	4. Move original application header (6 bytes) back to original memory.
+B. SEARCH.
+	1. Choose random volume (disk device). 
+		a. Make sure volume is not write protected
+		b. Make sure volume is on line (no I/O error)
+	2. Increment disk counter (See NOTE1) and go to destroy (See NOTE2) if necessary.
+	3. Check for enough space on volume.
+	4. Choose candidate file.
+		a. File must be a system or application file.
+		b. File must not be already infected (choose appropriate method for identifying infected files).
+		c. File must be small enough to allow viral attachment (so that the application and virus code both fit in memory).
+		d. If the file is locked then unlock it.
+C. INFECT.
+	1. Open candidate file.
+	2. Load first block of candidate file into a main.buffer.
+	3. Take first (6 bytes) and save to alt.buffer (also known as SH).
+	4. Calculate viral location in new file.
+		a.Viral.Addr= — Application. Start.Addr + Length.of.Application + 6
+	5. Store a JUMP Viral.Addr at beginning of file.
+	6. Rewrite main.buffer.
+	7. Set file pointer to end of file (for append).
+	8. Write the alt.buff (6 bytes).
+	9. Write the viral code afterwards.
+	10. Close candidate file.
+D. DESTROY (Optional).
+	1. Lock out Keyboard and Reset Key if possible. 
+	2. Destroy data.
+		a. Recognize all disk devices (hard disks, floppies, 3.5", ram).
+		b. Wipe out the directory (FAT) blocks of each device.
+		c. Wipe out key block for each file in each directory block.
+	3. Do graphics and music (optional).
+		a. Totally up to virus writer.
+	4. Present text message (optional).
+		a. Totally up to virus writer.
+E. LEAVE.
+	1. Jump back to Application.Start.Addr
+		a. Thus continue as if nothing had happened.
+
+NOTE1: The disk counter is a particular byte on the disk that the virus uses to
+hold the value of how many times that
+virus has run with that particular disk
+inserted (active).
+
+NOTE2: DESTROY or LEAVE is executed depending on the status of the disk counter.
+
+(a) Normal (not infected file)
++----+---------------------+----+
+| SH | rest of application | EOF|
++----+---------------------+----+
+(b) Infected file
++----+---------------------+----+----+-----+
+| JC | rest of application | SH | VC | EOF |
++----+---------------------+----+----+-----+
+
+SH = Standard Header (first few bytes of the original file's executable code).
+JC = Jump Code (jumps to the address of the virus).
+VC = Viral Code (see Virus Outline).
+EOF = End of File. 

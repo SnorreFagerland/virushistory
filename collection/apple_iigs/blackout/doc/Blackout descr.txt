@@ -1,0 +1,16 @@
+Blackout Virus Description
+~~~~~~~~~~~~~~~~~~~~~~
+Blackout is an Apple II virus that makes your system appear to be completely
+inoperative.  The virus is triggered by a certain count, stored in an unused
+location in the 'Battery Backed-Up' section of onboard RAM.  (This is a small
+section of IIgs memory that stores all Control Panel settings.)  The count is
+incremented every time you boot from an infected disk.
+ 
+When the virus is triggered, the text, background, and border colors are all 
+set to black.  In addition, the sound volume is set to zero (off), and the
+startup device is set to the RAM Disk, which prevents you from booting from a
+floppy disk. 
+
+The net effect is that your system appears completely dead. Fortunately,
+Blackout does not appear to destroy any data on any disks.
+

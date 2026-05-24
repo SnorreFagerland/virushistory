@@ -1,0 +1,13 @@
+ 10  INPUT "Enter Filename,Txxx: ";A$,B$:A$ = A$ + "," + B$
+ 20 D$ =  CHR$ (4): PRINT D$"BLOAD "A$",A$2000"
+ 30  IF  PEEK (8192) <  > 76 THEN  PRINT "This file cannot be modified.": END 
+ 40 A =  PEEK (8193):B =  PEEK (8194)
+ 50 C =  PEEK (48840):D =  PEEK (48841) + 32:E = D * 256 + C + 1
+ 60  PRINT D$"BLOAD/SOURCE.FILES/SYSTEM.BOMB2,A"E
+ 65 C = C + 1: IF C > 255 THEN C = 0:D = D + 1
+ 70  POKE 8193,C: POKE 8194,D
+ 75 F = E + 147
+ 80  POKE F - 2,A: POKE F - 1,B
+ 100  INPUT "Set counter limit to: ";A
+ 110  POKE E + 42,A
+ 200  PRINT D$"BSAVE "A$",A$2000,L"F - 8192

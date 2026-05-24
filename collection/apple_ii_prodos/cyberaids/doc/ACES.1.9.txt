@@ -1,0 +1,140 @@
+
+The following is adapted from an
+article that first appeared on
+Compuserve.  The concept of "infection"
+in a computer sounds funny, but
+believe, it is no joke!
+
+              VIRUSES
+         By Peter J. Paul
+
+We have a problem in the Apple computer
+family.  Viruses have begun to invade
+our programs.  What are viruses?  A
+virus is a small program hidden inside
+a large program that acts to create
+damage to the user's system.  It might
+do it by wiping out any data currently
+in memory or (even worse) by erasing
+your hard drive.  A virus might lie
+dormant, hidden inside the parent
+program for a long period of time and
+then all of a sudden come to life and
+crash your entire system.
+
+Where do these viruses come from?  They
+come from a number of different places.
+The first place a virus starts is in
+the mind of a very disturbed, but very
+smart, person who wants to do nothing
+but wreak havoc with your computer
+system.  He writes a small program that
+usually will not activate until certain
+conditions have been met: eg when a
+certain number of copies of the master
+have been made, or at a certain date
+and time, or when a set number of
+operations within the program has been
+accomplished.  When all the conditions
+have been met, the virus awakes and
+does its damage.
+
+The most common way for the virus to
+spread is for it to be tied to a
+program that is circulated a great
+deal.  Prime targets for viruses are
+public domain and freeware programs
+downloaded from telecommunication
+services and local bulletin boards.
+Every time the program is uploaded to
+another system or shared with a friend,
+the virus is spread.  Viruses are
+nothing new in the world of IBM
+computers, but they are relatively new
+to the Apple world.  The virus loves to
+trash hard drives and with the growth
+of the IIgs and other Apple II's there
+has also been a corresponding increase
+in the number of hard drives for the
+Apple.
+
+We Apple users are fortunate in that
+our hard drives are external and can be
+turned off (as opposed to IBM and other
+computers which have internal hard
+drives).  This is actually our first
+line of defense against viruses.  When
+downloading programs from
+telecommunication sources, keep hard
+drives turned off.  Download onto
+floppies and test them thoroughly many
+times before allowing your hard drive
+to come on-line.  Keep business data on
+a separate drive, if possible, and try
+to never mix business and pleasure
+programs.  Hacked versions of games are
+particularly good targets for a hidden
+virus.  IIgs users must watch out for
+CDA's and NDA's and fonts for the GS.
+If you don't, that new Sider hard drive
+will just be a big fat target.  New
+versions of popular programs and
+utilities are possible targets too.
+Also, be careful of picture files that
+show you a pretty picture and sing you
+a song while viruses silently implant
+themselves within your system and seek
+to destroy it.
+
+I had a 20 meg Sider, battery backed-up
+ROM and 3.5" drive which was wiped
+clean from a virus infection.  The
+following message appeared: "CyberAIDS
+2.01.  Your worst nightmare has come
+true, you have infected with CyberAIDS.
+Most of your disks are now infected, as
+well as disks of those who copied or
+received files from you.  If you have a
+hard drive then it has been infected
+long ago, and is now erased.  The virus
+is the second in a line of products
+known collectively as ExtortionWare..."
+A counter in the downloaded program had
+been employed to determine how many
+times I had accessed BASIC.SYSTEM in my
+Sider hard drive.  At between 15 and 20
+times, the virus came to life and did
+its deed - blocks $0000 through $0006
+were "zeroed" out to give the
+impression that my Sider had been wiped
+clean.  Fortunately, I was able to
+recover most of my files with MR.
+FIXIT. However, there is another strain
+of virus going around now that MR.
+FIXIT will not repair.......
+      
+     ********************
+
+       WARNING!!
+
+If you have a copy of COPY II PLUS in 
+your possession that boasts of an 8.5
+version number - DO NOT USE IT!!  It
+has a virus embedded in it that corr-
+upts, at the very least, your BASIC.
+SYSTEM files.  Version 8.3 is the 
+latest version from Central Point
+Software.
+            From E.A.C. Express
+  
+     ********************
+
+Editor's note:  This is just
+conjecture, but wouldn't virus
+infection be the perfect way for
+software producers to "get back" at the
+piraters who spread their products
+freely?  Hmmmmmmmmm!
+
+~~~
+

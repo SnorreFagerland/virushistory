@@ -1,0 +1,39 @@
+   Virus news: We've received and disassembled a copy of a virus 
+that attacks ProDOS 8 system files. The virus calls itself CyberAIDS. 
+It's a little buggy and far from 'commercial quality," but is dangerous 
+nonetheless. We have no idea how widely distributed it is. 
+   When a SYS file containing the CyberAIDS virus is executed, the 
+disk drive will turn off and then back on again. While the drive spins 
+the second time, CyberAids tries to replicate itself inside all of the 
+online SYS files that are in root directories. It doesn't look in subdirec-
+tories, it doesn't (can't really) mess with write-protected disks, it does-
+n't attack locked SYS files, and it doesn't attack the PRODOS file. 
+CyberAIDS also updates a counter stored in the last byte of the first 
+block of the disk directory. When this counter reaches 16, CyberAIDS 
+writes $FFs through the root directory of all online volumes and puts 
+a message describing what's happening on the screen. 
+   If this happens to you, don't panic. The program Bag of Tricks 2, 
+by Quality Software, can recover your directory ($40, 21610 Lassen, #7, 
+Chatsworth, CA 91311 818-709-1721). MR.FIXIT, which is one of the 
+items in Glen Bredon's ProSEL package, also can recover all the sub-
+directories (and what's in them) from directories damaged by 
+CyberAIDS. Unfortunately, MR.FIXIT cannot recover files other than 
+subdirectories. 
+   The following program can identify SYS files that have been infect-
+ed by CyberAIDS: 
+10 HOME: PRINT "CyberAIDS Detection Program" 
+20 PRINT 
+30 PRINT "Enter the name of the next SYS file to be checked." 
+40 INPUT F$ : IF LEN (F$)=0 THEN END 
+50 PRINT CHR$(4);"BLOAD";F$;"A$2000,13,B3,TSYS" 
+60 DETECT=1 
+70 FOR ADR=8192 TO 8194 
+80 IF PEEK (ADR) <> 19 THEN DETECT-0 
+90 NEXT 
+100 IF DETECT THEN PRINT "This SYS file appears infected." 
+110 IF NOT DETECT THEN PRINT "This SYS file appears to be OK." 
+120 GOTO 20 
+   If you find any SYS files that are infected, simply delete them and 
+replace them with uninfected backups. You might also like to change 
+the last byte of the first block of the root directory (block 2), which is 
+normally unused, back to zero.
