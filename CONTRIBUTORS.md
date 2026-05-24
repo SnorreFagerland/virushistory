@@ -19,6 +19,6 @@ Physicist and computational scientist. Ran the main VAX (VXCERN) at CERN in 1991
 * <strong>Steven Merel - <em>The HyperAvenger</em></strong><br>
 Developer and the then 14-year old author of the first virus for Apple Hypercard in 1988.<br>
 Name used with permission.
-* <strong><em>CantStopDivided - </em></strong><br>
+* <strong><em>CantStopDivided</em></strong><br>
 helped find numerous Wii Trojans.
 
