@@ -7,3 +7,6 @@ There are credible writeups; but no sample found.<br><br>
 
 http://agn-www.exvtc.de/vtc/archive/index.htm<br>
 https://discmaster.textfiles.com/view/21732/PC%20MEDIA%20CD26.iso/INTERNET/PAGINAS/SYMANTEC/MACVIR_I.HTM<br>
+
+
+UPDATE: This virus has now been obtained. Find it in the classic MacOS section.

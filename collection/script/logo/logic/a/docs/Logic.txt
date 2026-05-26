@@ -1,0 +1,31 @@
+					Logic
+					-----
+
+This is a simple IRC/Outlook worm, written in Logo. It runs on SuperLogo 1.0 and higher, in both 
+the Dutch and the English version, because the English instructions were used, and there are 2 
+main procedures, Start (for the Dutch version) and Startup (for the English version).
+
+It's a rather primitive worm, because it trusts on the user not renaming the file before running 
+it. Other than spreading, it shows the following message when loading Windows:
+
+You think Logo worms don't exist? Think again!
+
+When connecting to IRC, using mIRC, the user will join the channel #gigavirii and say the 
+following text from Milk Inc - Livin' a Lie:
+
+Livin’ a lie, tell me why I run and hide. Livin’ a lie, you’ll never know me deep inside.
+
+The user then parts the channel. He can be remote controlled using CTCP commands on IRC.
+
+
+
+Gigabyte
+http://www.sallyone.com/gigabyte
+gigabyte@gigabytevx.net
+
+-----------------
+
+Greets to:
+
+Evul, Raid, darkman, Vecna, HomeSlice, T-2000, AntiState Tortoise, jackie, LethalMind, Benny, 
+urgo32, Simon7, Roadkil, Knowdeth, Raven, Lifewire... Everyone from #virus and #gigavirii.
