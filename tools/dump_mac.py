@@ -41,7 +41,6 @@ def load_virus_hash_sets(url):
 
     for raw_line in text.splitlines():
         line = raw_line.strip()
-
         if not line:
             continue
 
@@ -52,7 +51,6 @@ def load_virus_hash_sets(url):
             continue
 
         row = next(csv.reader([line]))
-
         if len(row) < 3:
             continue
 
@@ -60,7 +58,6 @@ def load_virus_hash_sets(url):
         section_type = row[1].strip()
         sha256 = row[2].strip().lower()
 
-        # Skip header rows or malformed rows
         if (
             virus_name.lower() == "virus name"
             or section_type.lower() == "section type"
@@ -68,7 +65,6 @@ def load_virus_hash_sets(url):
         ):
             continue
 
-        # Only accept real SHA-256 hashes
         if len(sha256) != 64 or any(c not in "0123456789abcdef" for c in sha256):
             continue
 
@@ -177,6 +173,172 @@ def parse_resource_fork(data):
     return result
 
 
+def find_resources(parsed, rtype, rid=None):
+    return [
+        r for r in parsed["resources"]
+        if r["type"] == rtype and (rid is None or r["id"] == rid)
+    ]
+
+
+def analyze_code0_entrypoints(data, parsed):
+    """
+    Best-effort parser for classic 68k CODE 0.
+
+    CODE 0 is not normally application code itself. It contains A5/jump-table
+    metadata used by the Segment Loader.
+
+    Header, commonly:
+      +0x00  above-A5 size
+      +0x04  below-A5 size
+      +0x08  jump table size
+      +0x0C  jump table A5 offset, commonly 32
+
+    Unloaded jump-table entries are commonly 8 bytes:
+      +0x00  routine offset within segment
+      +0x02  3F3C  MOVE.W #segment,-(SP)
+      +0x04  segment number
+      +0x06  A9F0  _LoadSeg
+    """
+    results = []
+
+    code0s = find_resources(parsed, "CODE", 0)
+    if not code0s:
+        return results
+
+    code0 = code0s[0]
+    body = data[code0["data_offset"]:code0["data_end"]]
+
+    if len(body) < 16:
+        results.append({
+            "kind": "CODE0_ERROR",
+            "confidence": "low",
+            "reason": "CODE 0 too small for header",
+        })
+        return results
+
+    above_a5 = u32(body, 0)
+    below_a5 = u32(body, 4)
+    jt_size = u32(body, 8)
+    jt_a5_offset = u32(body, 12)
+
+    results.append({
+        "kind": "CODE0_HEADER",
+        "confidence": "info",
+        "resource_type": "CODE",
+        "resource_id": 0,
+        "absolute_file_offset": code0["data_offset"],
+        "above_a5": above_a5,
+        "below_a5": below_a5,
+        "jump_table_size": jt_size,
+        "jump_table_a5_offset": jt_a5_offset,
+    })
+
+    # In the disk resource body, the jump table follows the 16-byte CODE 0 header.
+    jt_file_off = 16
+
+    if jt_size == 0 or jt_size % 8 != 0:
+        results.append({
+            "kind": "CODE0_ERROR",
+            "confidence": "low",
+            "reason": "CODE 0 jump table size is zero or not divisible by 8",
+        })
+        return results
+
+    entry_count = jt_size // 8
+
+    if jt_file_off + jt_size > len(body):
+        results.append({
+            "kind": "CODE0_ERROR",
+            "confidence": "low",
+            "reason": "CODE 0 jump table extends past CODE 0 resource body",
+        })
+        return results
+
+    for i in range(entry_count):
+        eoff = jt_file_off + i * 8
+
+        routine_off = u16(body, eoff)
+        op = u16(body, eoff + 2)
+        seg_no = u16(body, eoff + 4)
+        trap = u16(body, eoff + 6)
+
+        if op == 0x3F3C and trap == 0xA9F0:
+            targets = find_resources(parsed, "CODE", seg_no)
+            if not targets:
+                continue
+
+            target = targets[0]
+
+            if routine_off > target["data_length"]:
+                continue
+
+            results.append({
+                "kind": "CODE_JUMP_TABLE_ENTRY",
+                "confidence": "high" if seg_no == 1 and routine_off == 0 else "medium",
+                "jump_table_index": i,
+                "resource_type": "CODE",
+                "resource_id": seg_no,
+                "offset_inside_resource": routine_off,
+                "absolute_file_offset": target["data_offset"] + routine_off,
+                "reason": "Classic unloaded CODE jump-table entry",
+            })
+
+    return results
+
+
+def identify_entrypoints(data, parsed):
+    results = []
+
+    # Normal classic 68k application convention: CODE 1 is the first code segment.
+    for r in find_resources(parsed, "CODE", 1):
+        results.append({
+            "kind": "CLASSIC_68K_APP_START",
+            "confidence": "high",
+            "resource_type": "CODE",
+            "resource_id": 1,
+            "offset_inside_resource": 0,
+            "absolute_file_offset": r["data_offset"],
+            "reason": "Classic 68k applications normally start in CODE resource ID 1",
+        })
+
+    # More detailed CODE 0 jump-table candidates.
+    results.extend(analyze_code0_entrypoints(data, parsed))
+
+    # INIT resources are executable startup resources.
+    for r in find_resources(parsed, "INIT"):
+        results.append({
+            "kind": "INIT_START",
+            "confidence": "high",
+            "resource_type": "INIT",
+            "resource_id": r["id"],
+            "offset_inside_resource": 0,
+            "absolute_file_offset": r["data_offset"],
+            "reason": "INIT resource body is executable startup code",
+        })
+
+    # DRVR resources are device drivers. Entry behavior is different, but offset 0
+    # is still a useful executable-code start candidate.
+    for r in find_resources(parsed, "DRVR"):
+        results.append({
+            "kind": "DRVR_START",
+            "confidence": "medium",
+            "resource_type": "DRVR",
+            "resource_id": r["id"],
+            "offset_inside_resource": 0,
+            "absolute_file_offset": r["data_offset"],
+            "reason": "DRVR resource body contains executable driver code/header",
+        })
+
+
+    for ep in results:
+        aoff = ep.get("absolute_file_offset")
+        if isinstance(aoff, int):
+            ep["first_10_bytes"] = hex_bytes_at(data, aoff, 10)
+
+
+    return results
+
+
 def identify_virus_matches(parsed, hash_sets):
     resource_hashes = set(
         r["hashes"]["sha256"].lower()
@@ -190,11 +352,7 @@ def identify_virus_matches(parsed, hash_sets):
         virus_names = sorted(set(x["virus_name"] for x in group))
         virus_name = virus_names[0] if len(virus_names) == 1 else " / ".join(virus_names)
 
-        wanted = set(
-            x["sha256"].lower()
-            for x in group
-        )
-
+        wanted = set(x["sha256"].lower() for x in group)
         matched = wanted & resource_hashes
 
         wanted_count = len(wanted)
@@ -225,6 +383,13 @@ def identify_virus_matches(parsed, hash_sets):
 def safe_name(s):
     bad = '<>:"/\\|?*\x00'
     return "".join("_" if c in bad else c for c in str(s))
+
+
+def hex_bytes_at(data, off, size=10):
+    if off is None or off < 0 or off >= len(data):
+        return None
+    chunk = data[off:min(off + size, len(data))]
+    return " ".join(f"{b:02X}" for b in chunk)
 
 
 def dump_resources(data, parsed, outdir):
@@ -290,6 +455,48 @@ def print_text(parsed):
         print(fmt.format(*row))
 
 
+def print_entrypoints(parsed):
+    print()
+    print("Entrypoint candidates")
+    print("=" * 60)
+
+
+    eps = parsed.get("entrypoints", [])
+    visible = [ep for ep in eps if ep.get("kind") != "CODE0_HEADER"]
+
+    if not visible:
+        print("No executable entrypoint candidates found")
+        return
+
+    for ep in visible:
+        conf = ep.get("confidence", "unknown").upper()
+        rtype = ep.get("resource_type", ep.get("kind", ""))
+        rid = ep.get("resource_id", "")
+        roff = ep.get("offset_inside_resource", 0)
+        aoff = ep.get("absolute_file_offset", 0)
+        reason = ep.get("reason", "")
+
+
+        print(
+            f"{conf:<6} {rtype:<4} {rid:<6} "
+            f"resource+0x{roff:04X} -> file offset 0x{aoff:08X}  "
+            f"bytes: {ep.get('first_10_bytes') or 'n/a'}  "
+            f"{reason}"
+        )
+
+
+    headers = [ep for ep in eps if ep.get("kind") == "CODE0_HEADER"]
+    if headers:
+        h = headers[0]
+        print()
+        print("CODE 0 header")
+        print("-" * 60)
+        print(f"Above A5 size       : 0x{h['above_a5']:08X} / {h['above_a5']}")
+        print(f"Below A5 size       : 0x{h['below_a5']:08X} / {h['below_a5']}")
+        print(f"Jump table size     : 0x{h['jump_table_size']:08X} / {h['jump_table_size']}")
+        print(f"Jump table A5 offset: 0x{h['jump_table_a5_offset']:08X} / {h['jump_table_a5_offset']}")
+
+
 def print_virus_matches(identified, possible):
     print()
     print("Virus hash check")
@@ -323,6 +530,7 @@ def main():
         data = f.read()
 
     parsed = parse_resource_fork(data)
+    parsed["entrypoints"] = identify_entrypoints(data, parsed)
 
     if args.dump:
         dump_resources(data, parsed, args.dump)
@@ -342,6 +550,7 @@ def main():
         print(json.dumps(parsed, indent=2, ensure_ascii=False))
     else:
         print_text(parsed)
+        print_entrypoints(parsed)
 
         if not args.no_virus_check:
             print_virus_matches(identified, possible)
@@ -349,5 +558,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-

