@@ -9,3 +9,4 @@ http://agn-www.exvtc.de/vtc/archive/index.htm<br>
 https://discmaster.textfiles.com/view/21732/PC%20MEDIA%20CD26.iso/INTERNET/PAGINAS/SYMANTEC/MACVIR_I.HTM<br>
 
 
+UPDATE: A Frankie sample has now been located. It is in the macos_classic folder in collections.
