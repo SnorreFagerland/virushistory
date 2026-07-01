@@ -279,13 +279,13 @@ story involving independent software development, piracy, retaliation,
 unintended consequences, and public accountability.
 
 
-<img src="/images/image1.png" height=200>
-<img src="/images/image2.png" height=200>
-<img src="/images/image3.png" height=200>
-<img src="/images/image4.png" height=200>
-<img src="/images/image5.png" height=200>
-<img src="/images/image6.png" height=200>
-<img src="/images/image7.png" height=200>
-<img src="/images/image8.png" height=200>
+<img src="./images/image1.png" height=200>
+<img src="./images/image2.png" height=200>
+<img src="./images/image3.png" height=200>
+<img src="./images/image4.png" height=200>
+<img src="./images/image5.png" height=200>
+<img src="./images/image6.png" height=200>
+<img src="./images/image7.png" height=200>
+<img src="./images/image8.png" height=200>
 
 
