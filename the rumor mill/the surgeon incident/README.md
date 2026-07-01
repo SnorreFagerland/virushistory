@@ -14,6 +14,10 @@ published by its authors in **Carrot Party #2**, it originated as a
 targeted act against software piracy that escaped beyond its intended
 victim.
 
+Attached to this story are screenshots of statements from Carrot Party.
+
+
+
 ------------------------------------------------------------------------
 
 # The X68000 community
@@ -273,3 +277,15 @@ themselves. While later retellings often reduce Surgeon to "Japan's
 first virus," this contemporaneous document reveals a much more complex
 story involving independent software development, piracy, retaliation,
 unintended consequences, and public accountability.
+
+
+<img src="/images/image1.png" height=200>
+<img src="/images/image2.png" height=200>
+<img src="/images/image3.png" height=200>
+<img src="/images/image4.png" height=200>
+<img src="/images/image5.png" height=200>
+<img src="/images/image6.png" height=200>
+<img src="/images/image7.png" height=200>
+<img src="/images/image8.png" height=200>
+
+
