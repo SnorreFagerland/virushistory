@@ -1,5 +1,5 @@
 # The Surgeon Incident (1989)
-
+<br><br><br>
 ## An early X68000 virus: The inside story from a Japanese 90'ies DiskMagazine
 
 The Surgeon virus (サージョンウィルス) occupies a special place in
