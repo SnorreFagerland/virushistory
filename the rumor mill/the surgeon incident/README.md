@@ -29,12 +29,8 @@ It became popular among programmers, game developers, and enthusiasts.
 The community was relatively small and tightly interconnected.
 
 Software circulated through:
-
--   Commercial retail sales
--   User groups
--   Public Domain (PD) disk collections
--   Bulletin Board Systems (BBSes)
--   Software rental shops
+Commercial retail sales, user groups, Public Domain (PD) disk collections,
+Bulletin Board Systems (BBSes) and - software rental shops
 
 
 
@@ -62,10 +58,6 @@ articles, and software distributed through their own disk magazine.
 Issue #2 contains a lengthy explanation of what became known as the
 "Surgeon incident".
 
-
-
-# SURGEON was not originally the virus
-
 One of the biggest misconceptions cleared up by the article is that
 SURGEON was originally a legitimate software utility.
 
@@ -92,11 +84,8 @@ stop. CARROT PARTY were annoyed by this and decided to retaliate.
 Rather than taking legal action---or simply accepting the piracy---they
 wrote a virus.
 
-In the screenshots they apparently state:
-
--   They created the virus.
--   They intentionally sent it to the unauthorized distributor.
--   It was designed to deliver a message.
+In the screenshots they apparently state that they created the virus. They intentionally 
+sent it to the unauthorized distributor to deliver a message.
 
 The delayed payload displayed:
 
@@ -135,11 +124,9 @@ The authors also explain that:
 
 # Delayed activation
 
-According to CARROT PARTY:
-
--   Infection occurred normally.
--   During November and December the warning message appeared.
--   Once the warning phase began, infection capability was disabled.
+According to CARROT PARTY, the virus would normally infect with no effects. 
+During November and December a warning message appeared, but in this period
+infection capability was disabled.
 
 This appears intended to ensure that the intended recipient would see
 the warning without the virus continuing to spread indefinitely.
@@ -148,27 +135,19 @@ the warning without the virus continuing to spread indefinitely.
 
 # Hard disk damage
 
-The authors claim that user data was not actually erased.
-
-Instead:
-
--   Floppy IPL data overwrote the HDD partition information.
--   Repairing that area restored the disk provided it had not been
-    reformatted.
+The authors claim that user data was not actually erased. Floppy IPL data 
+overwrote the HDD partition information, but the data remained. Repairing 
+the partition area would restore the disk provided it had not been reformatted.
 
 ------------------------------------------------------------------------
 
 # The escape
 
 CARROT PARTY say they expected only one person to receive the infected
-disk.
-
-Instead:
-
--   The virus spread through ordinary floppy use.
--   Infected disks circulated beyond the original target.
--   Eventually an infected Public Domain disk reached the editorial
-    office of Oh!X.
+disk. But the viruses do what viruses do they spread. And this virus 
+spread through ordinary floppy use, which was a VERY effective method.
+Infected disks circulated beyond the original target, and eventually an 
+infected Public Domain disk reached the editorial office of Oh!X.
 
 ------------------------------------------------------------------------
 
