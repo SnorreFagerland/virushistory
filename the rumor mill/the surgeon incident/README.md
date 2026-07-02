@@ -2,10 +2,9 @@
 <br><br><br>
 ## An early X68000 virus: The inside story from a Japanese 90'ies DiskMagazine
 
-The Surgeon virus (サージョンウィルス) occupies a special place in
-Japanese computer history. It is widely regarded as the first
-domestically written Japanese computer virus, targeting the Sharp
-X68000 platform in 1989.
+The Surgeon virus (サージョンウィルス) is a peculiar incident in Japanese computer 
+history. It is one of the first domestically written Japanese computer 
+viruses, targeting the Sharp X68000 platform in 1989.
 
 Unlike many early viruses, however, Surgeon was not created as an
 experiment in self-replicating code, nor apparently as an attempt at
@@ -14,7 +13,9 @@ published by its authors in the disk magazine **Carrot Party #2**,
 it originated as a targeted act against software piracy that escaped 
 beyond its intended victim.
 
-Attached to this story are screenshots with statements from Carrot Party.
+Attached to this story are the Carrot Party #2 disk magazine and the extracted 
+text files (in Japanese). You can view the diskmag in any X68k emulator.
+
 We still do not have samples of the Surgeon virus. But we are looking.
 
 
@@ -219,15 +220,4 @@ development, piracy, retaliation, unintended consequences, and public
 accountability.
 
 <br><br><br><br>
-Source: https://ameblo.jp/koorogiyousyoku/entry-11866406121.html
-
-<img src="./images/image1.png" height=200>
-<img src="./images/image2.png" height=200>
-<img src="./images/image3.png" height=200>
-<img src="./images/image4.png" height=200>
-<img src="./images/image5.png" height=200>
-<img src="./images/image6.png" height=200>
-<img src="./images/image7.png" height=200>
-<img src="./images/image8.png" height=200>
-
-
+Initial tip off by https://ameblo.jp/koorogiyousyoku/entry-11866406121.html
