@@ -1,6 +1,6 @@
 # The Surgeon Incident (1989)
 <br><br><br>
-## An early X68000 virus: The inside story from a Japanese 90'ies DiskMagazine
+## An early X68000 virus: The inside story from a Japanese DiskMagazine
 
 The Surgeon virus (サージョンウィルス) is a peculiar incident in Japanese computer 
 history. It is one of the first domestically written Japanese computer 
