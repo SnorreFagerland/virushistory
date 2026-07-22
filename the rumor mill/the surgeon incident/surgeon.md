@@ -1,4 +1,4 @@
-# Surgeon incident primary texts from Carrot Party Disk Magazine Vol. 02
+# Surgeon incident texts from Carrot Party Disk Magazine Vol. 02
 
 ## CARROT/WIL.DOC
 
