@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>WiiRazor</name>
+  <coder>Tenor-Z</coder>
+  <version>0.9.1</version>
+  <release_date>20230110</release_date>
+  <short_description>Bricker for the Wii</short_description> 
+  <long_description>This is a bricker/trojan program written for the Wii. </long_description> 
+  <no_ios_reload/>
+</app>
