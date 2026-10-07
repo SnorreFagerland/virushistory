@@ -1,0 +1,11 @@
+
+
+File virus.r
+This is a self-replicant program I wrote around 2003, it's written in Rebol and only infected other Rebol files. 
+The interesting points about this experiment are: 
+1. It's written in a single line of code 
+2. AFAIK there were no other viruses ever created in Rebol. I even sent it to the author of Rebol, Carl Sessenrath (one of the authors of the AmigaOS), but he never responded. 
+An inspiration for this work was the previous works by Pablo Garaizar (teacher at the University of Deusto, back then a PhD student), creating self-replicant programs in bash 
+scripting, presented in the Hackmeeting of Bilbao in Sep 2001.
+
+I edited the comments to remove any personal reference.

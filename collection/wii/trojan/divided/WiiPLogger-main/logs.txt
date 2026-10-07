@@ -1,0 +1,48 @@
+IP: 127.0.0.1
+User-Agent: Opera/9.30 (Nintendo Wii; U; ; 2047-7; en)
+Referer: http://26/
+All Information Taken:
+______________________________
+User-Agent: Opera/9.30 (Nintendo Wii; U; ; 2047-7; en)
+Host: 127.0.0.1:443
+Accept: text/html, application/xml;q=0.9, application/xhtml+xml, image/png, image/jpeg, image/gif, image/x-xbitmap, */*;q=0.1
+Accept-Language: en
+Accept-Charset: iso-8859-1, utf-8, utf-16, *;q=0.1
+Accept-Encoding: deflate, gzip, x-gzip, identity, *;q=0
+Referer: http://26/
+Connection: Keep-Alive
+
+
+
+IP: 127.0.0.1
+User-Agent: Opera/9.30 (Nintendo Wii; U; ; 3642; en)
+Referer: http://127.0.0.1/
+All Information Taken:
+______________________________
+User-Agent: Opera/9.30 (Nintendo Wii; U; ; 3642; en)
+Host: 127.0.0.1:443
+Accept: text/html, application/xml;q=0.9, application/xhtml+xml, image/png, image/jpeg, image/gif, image/x-xbitmap, */*;q=0.1
+Accept-Language: en
+Accept-Charset: iso-8859-1, utf-8, utf-16, *;q=0.1
+Accept-Encoding: deflate, gzip, x-gzip, identity, *;q=0
+Referer: http://127.0.0.1/
+Connection: Keep-Alive
+
+
+
+IP: 127.0.0.1
+User-Agent: Opera/9.30 (Nintendo Wii; U; ; 3642; en)
+Referer: http://127.0.0.1/
+All Information Taken:
+______________________________
+User-Agent: Opera/9.30 (Nintendo Wii; U; ; 3642; en)
+Host: 127.0.0.1:443
+Accept: text/html, application/xml;q=0.9, application/xhtml+xml, image/png, image/jpeg, image/gif, image/x-xbitmap, */*;q=0.1
+Accept-Language: en
+Accept-Charset: iso-8859-1, utf-8, utf-16, *;q=0.1
+Accept-Encoding: deflate, gzip, x-gzip, identity, *;q=0
+Referer: http://127.0.0.1/
+Connection: Keep-Alive
+
+
+

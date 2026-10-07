@@ -1,0 +1,272 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Tutorial - Cómo escribir un virus para MSX | MSX Resource Center </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="alternate" hreflang="en" href="node/19349"/>
+<link rel="alternate" hreflang="pt-br" href="pt-br/node/33533"/>
+<link rel="alternate" hreflang="nl" href="nl/node/25124"/>
+<link rel="alternate" hreflang="ru" href="ru/node/36062"/>
+<link rel="shortcut icon" href="/sites/all/themes/mrc2k11/favicon.ico" type="image/x-icon"/>
+<meta name="description" content="La plataforma MSX nunca ha sufrido demasiado de virus."/>
+<meta http-equiv="content-language" content="es"/>
+<link rel="alternate home" type="application/rss+xml" href="/newsfeed.php" title="MSX Resource Center RSS feed"/>
+<meta name="author" content="MSX Resource Center"/>
+<meta name="copyright" content="Copyright (c) 1994-2014 MSX Resource Center"/>
+<meta name="viewport" content="width=device-width"/>
+<base href="http://www.msx.org/"/>
+<link type="text/css" rel="stylesheet" media="screen" href="sites/all/themes/mrc2k11/css/combined.min.css?v=r1-9-1"/> <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="misc/jquery.form.js"></script>
+<script type="text/javascript" src="sites/all/themes/mrc2k11/javascript/combined.min.js?v=r1-9-1"></script>
+<script type="text/javascript" src="sites/all/modules/custom/musicplayer/js/audio.min.js?v=r1-9-1"></script>
+<script type="text/javascript">
+  Drupal.settings.smileys = { "enable_dialog": 0, "draggable": 0, "resizable": 0, "dialog_width": 200, "dialog_height": 0 };
+  Drupal.settings.BUE = { "imceURL" : "", "templates": {} };
+</script><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/"});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(function() { Authcache.init(); });
+//--><!]]>
+</script>
+<script type="text/javascript">
+      var _q = _q || [];
+      function yt(data) {
+        _q.push(['getYoutubeVideos', data]);
+      }
+    </script>
+</head>
+<body class="not-front not-logged-in page-node node-type-news one-sidebar sidebar-right i18n-es tao">
+<div id="container">
+<div id="header">
+<div id="header-1" class="nav-meta">
+<span class="end"></span>
+<div id="language">
+<a href="/es/languageswitch" class="fancybox active"><span class="active flags flag-es"></span></a> </div>
+<div id="social">
+<span class="rss-link">
+<a href="/newsfeed.php"><span class="icons icon-feed"></span></a> </span>
+<span class="rss-link">
+<a href="https://www.facebook.com/msxorg"><span class="icons icon-facebook"></span></a>
+</span>
+<span class="rss-link">
+<a href="https://twitter.com/msxorg"><span class="icons icon-twitter"></span></a>
+</span>
+</div>
+<div id="searchbox">
+<form action="/es/news/development/es/tutorial-c-mo-escribir-un-virus-para-msx" accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+<div class="form-item" id="edit-search-theme-form-1-wrapper">
+<input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="20" value="" title="Escriba lo que quiere buscar." class="form-text searchterm watermarked"/> </div>
+<input type="submit" name="op" id="edit-submit-2" value="" class="form-submit icons icon-buttonorange"/>
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"/>
+</div>
+</div></form>
+</div>
+<div id="login">
+<div>
+<div class='block-content clear-block '>
+<form action="/es/news/development/es/tutorial-c-mo-escribir-un-virus-para-msx?destination=node%2F29087" accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-1-wrapper">
+<input type="text" maxlength="60" name="name" id="edit-name-1" size="20" value="" class="form-text required username watermarked"/> </div>
+<div class="form-item" id="edit-pass-1-wrapper">
+<input type="password" name="pass" id="edit-pass-1" maxlength="60" size="20" class="form-text required password watermarked"/> </div>
+<input type="submit" name="op" id="edit-submit-1" value="" class="form-submit icons icon-buttonorange"/>
+<input type="hidden" name="form_id" id="edit-user-login-block-1" value="user_login_block"/>
+</div></form>
+</div>
+</div>
+</div>
+</div>
+<div id="header-2">
+<div class="limiter clear-block">
+<div id="logo">
+<a href="/es"><img height="90" width="231" src="http://www.msx.org/sites/all/themes/mrc2k11/img/msxlogo.png" alt="MSX logo"/></a>
+</div>
+<div class="separator"></div>
+<div id="header_top">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ 
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-6635241113212162" data-ad-slot="7921794887"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> </div>
+</div>
+</div>
+<div id="navigation">
+<div class="limiter clear-block">
+<span class="end"></span>
+<ul id="menu"><li><a href="/es">INICIO</a></li><li class="current"><a href="/es/archive">NOTICIAS</a><ul class="sub"><li><a href="/es/archive">ALMACÉN </a></li></ul></li><li><a href="/es/forum">FORO</a><ul class="sub"><li><a href="/es/forum/debates-en-espa-ol/foro-general">FORO GENERAL</a></li><li><a href="/es/forum/debates-en-espa-ol/juegos-y-otro-software">JUEGOS Y OTRO SOFTWARE</a></li><li><a href="/es/forum/debates-en-espa-ol/hardware">HARDWARE</a></li><li><a href="/es/forum/debates-en-espa-ol/compra-y-venta">COMPRA Y VENTA</a></li><li><a href="/es/forum/debates-en-espa-ol/desarrollo">DESARROLLO</a></li><li><a href="/es/forum/debates-en-espa-ol/topic">OFF-TOPIC</a></li></ul></li><li><a href="http://www.msx.org/wiki/">WIKI</a><ul class="sub"><li><a href="http://www.msx.org/wiki/">ÍNDICE</a></li><li><a href="http://www.msx.org/wiki/Category:Programming">PROGRAMMING</a></li><li><a href="http://www.msx.org/wiki/MSX_FAQ">MSX PREGUNTAS FRECUENTES</a></li><li><a href="http://www.msx.org/wiki/Category:Persons">MSX MIEMBROS</a></li><li><a href="http://www.msx.org/wiki/Category:Groups">MSX GRUPOS</a></li></ul></li><li><a href="/es/image">COMUNIDAD</a><ul class="sub"><li><a href="/es/image">SESIONES DE FOTOS</a></li><li><a href="/es/poll">ENCUESTAS</a></li><li><a href="/es/links">ENLACES</a></li></ul></li><li><a href="/es/articles/general">ARTÍCULOS</a><ul class="sub"><li><a href="/es/articles/general">GENERAL</a></li><li><a href="/es/articles/reviews">ANÁLISIS</a></li><li><a href="/es/articles/fair-reports">INFORME DE RUs</a></li></ul></li><li><a href="/es/downloads">DESCARGAS</a><ul class="sub"><li><a href="/es/downloads">DESCARGAS</a></li></ul></li><li><a href="/es/page/qui-nes-somos">MRC</a><ul class="sub"><li><a href="/es/page/qui-nes-somos">Quiénes somos</a></li><li><a href="/es/page/nete-nuestro-equipo">Únete a nuestro equipo</a></li><li><a href="/es/page/donar">Donar</a></li></ul></li></ul> </div>
+</div>
+</div>
+<div id="page">
+<div class="limiter clear-block">
+<div class="breadcrumb"><a href="/es">Inicio</a> » <a href="/es">Noticias</a> » <a href="/es/topics/development-0">Development</a> » Tutorial - Cómo escribir un virus para MSX</div>
+<div id="main">
+<div id="content">
+<div id="node-29087" class="node node-news">
+<div class="header clear-block">
+<h1 class="title"><a href="/es/news/development/es/tutorial-c-mo-escribir-un-virus-para-msx">Tutorial - Cómo escribir un virus para MSX</a></h1>
+<div class="author">
+por <a href="/es/users/mars2000you">mars2000you</a>
+en 19-04-2005, 13:14
+translated by <a href="/es/users/karloch">karloch</a>
+</div>
+<div class="topics">
+Tema: <a href="/es/topics/development">Desarrollo</a> </div>
+<div class="languages">
+Idiomas: <a href="/news/development/en/how-write-virus-msx-tutorial" class=" translated"><span class="flags flag-en"></span></a> <a href="/fr/node/add/news?translation=29087&amp;language=fr" rel="nofollow" class="" title="Translate this post into your language"><span class="flags flag-fr"></span></a> <a href="/es/news/development/es/tutorial-c-mo-escribir-un-virus-para-msx" class=" active translated active"><span class="flags flag-es"></span></a> <a href="/pt-br/news/development/pt-br/como-fazer-um-virus-para-msx-tutorial" class=" translated"><span class="flags flag-pt-br"></span></a> <a href="/nl/news/development/nl/een-virus-schrijven-voor-msx-handleiding" class=" translated"><span class="flags flag-nl"></span></a> <a href="/ja/node/add/news?translation=29087&amp;language=ja" rel="nofollow" class="" title="Translate this post into your language"><span class="flags flag-ja"></span></a> <a href="/ru/news/development/ru/msx" class=" translated"><span class="flags flag-ru"></span></a> <a href="/ko/node/add/news?translation=29087&amp;language=ko" rel="nofollow" class="" title="Translate this post into your language"><span class="flags flag-ko"></span></a> <a href="/ar/node/add/news?translation=29087&amp;language=ar" rel="nofollow" class="" title="Translate this post into your language"><span class="flags flag-ar"></span></a> </div>
+</div>
+<div class="node-content clear-block prose">
+<p>La plataforma MSX nunca ha sufrido demasiado de virus. Que nosotros conozcamos, sólo hubo un virus que fuera muy conocido en MSX: el ZAPP, para el que existía una buena utilidad antivirus.</p>
+<p><a href="http://www.13t.org/wintah/virus/virmsx.htm" rel="external">Este artículo en español</a> describe los principios básicos de desarrollo de un virus para MSX, dando información general sobre cómo funciona un virus. Desarrolladores de MSX: por favor, usad este conocimiento adecuadamente. Con un virus para MSX tenemos ya más que suficiente ;)</p>
+<p>Enlace relacionado: <a href="http://www.13t.org/wintah/virus/virmsx.htm" rel="external">Cómo crear un virus para MSX - Tutorial</a>
+</p>
+</div>
+</div>
+</div>
+<div id="related" class="clear-block">
+<div class="sharebuttons">
+<h3>Share</h3>
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.msx.org%2Fes%2Fnews%2Fdevelopment%2Fes%2Ftutorial-c-mo-escribir-un-virus-para-msx&amp;send=false&amp;layout=button_count&amp;width=130&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=trebuchet+ms&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:130px; height:21px;" allowTransparency="true"></iframe>
+<a href="https://twitter.com/share" class="twitter-share-button" data-hashtags="msx">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><g:plusone size="medium"></g:plusone>
+</div>
+<h3>Related content</h3>
+<div class="similar">
+<div class="item-list"><ul><li class="first"><a href="/es/news/development/es/tutorial-de-screen-2-en-photoshop" title="Tutorial de Screen 2 en Photoshop">Tutorial de Screen 2 en Photoshop</a></li>
+<li><a href="/es/news/development/es/tutorial-de-compilaci-n-y-c-digo-fuente-del-juego-inertia" title="Tutorial de compilación y código fuente del juego I.N.E.R.T.I.A.">Tutorial de compilación y código fuente del juego I.N.E.R.T.I.A.</a></li>
+<li><a href="/es/news/development/es/sink-king-gana-msxdev04" title="Sink king gana MSXdev&#039;04">Sink king gana MSXdev&#039;04</a></li>
+<li class="last"><a href="/es/news/development/es/tutorial-sobre-screen-2" title="Tutorial sobre SCREEN 2">Tutorial sobre SCREEN 2</a></li>
+</ul></div> </div>
+<div class="youtube">
+<div id="youtube-block" class="image-block"></div>
+<script type="text/javascript" src="http://gdata.youtube.com/feeds/api/videos/-/msx/?v=2&alt=json-in-script&callback=yt&safeSearch=none&max-results=2&orderby=relevance&q=msx%20Tutorial%20-%20C%C3%B3mo%20escribir%20un%20virus%20para%20MSX%20-gta%20-mickael%20-counter-strike%20-counterstrike%20-fps%20-Stefaniie%20-TheTMBUpload%20-honda%20-battlefield%20-polaris%20-thailand%20-doom%20-gta%20-flir"></script> </div>
+</div>
+<div class="dummy">
+</div>
+</div>
+<div id="right">
+<div class="sidebar">
+<div id="block-contentblock-21" class="block block-contentblock">
+<div class='block-title'>
+Become a member </div>
+<div class='block-content clear-block '>
+<p>Don't you have an account yet? Become an MSX-friend and register an account!</p><p class="cta"><a class="button" href="user/register" title="Become a member">Register now</a></p><p class="cta"><a class="facebook-action-connect" rel="nofollow" href="https://www.facebook.com/dialog/oauth?client_id=272658799520832&redirect_uri=http%3A%2F%2Fwww.msx.org%2Fes%2Ffboauth%2Fconnect&scope=email%2Cuser_birthday"><img src="http://www.facebook.com/images/fbconnect/login-buttons/connect_light_medium_short.gif" alt=""/></a></p> </div>
+</div>
+<div id="block-musicplayer-1" class="block block-musicplayer">
+<div class='block-title'>
+MSX Music player </div>
+<div class='block-content clear-block '>
+<script type="text/javascript" src="sites/all/modules/custom/musicplayer/js/player.js"></script><script type="text/javascript" src="http://www.msx.org/musicplayer/playlist"></script><div id="wrapper"><audio></audio><ol id="playlist"></ol></div> </div>
+</div>
+<div id="block-contentblock-16" class="block block-contentblock">
+<div class='block-title'>
+Últimos comentarios </div>
+<div class='block-content clear-block '>
+<div class="item-list"><ul><li class="first"><a href="/es/news/challenges/es/anunciada-la-45a-msx-ru-de-barcelona" title="Anunciada la 45ª MSX RU de Barcelona">Anunciada la 45ª MSX RU de Barcelona</a></li>
+<li><a href="/es/news/challenges/es/msxdev14-5-pretty-kingdom" title="MSXdev&#039;14 #5 - Pretty Kingdom">MSXdev&#039;14 #5 - Pretty Kingdom</a></li>
+<li><a href="/es/news/software/es/msxdev14-4-uridium" title="MSXdev&#039;14 #4 - Uridium">MSXdev&#039;14 #4 - Uridium</a></li>
+<li><a href="/es/news/msx-related/es/msx-rom-loader-para-svi-de-nyyrikki" title="MSX ROM loader para SVI de NYYRIKKI.">MSX ROM loader para SVI de NYYRIKKI.</a></li>
+<li><a href="/es/news/remakes/es/metal-gear-remake-obtiene-el-visto-bueno-de-konami" title="Metal Gear Remake obtiene el visto bueno de Konami">Metal Gear Remake obtiene el visto bueno de Konami</a></li>
+<li><a href="/es/news/translations/es/traduccion-al-ingles-de-firebird" title="Traducción al inglés de Firebird">Traducción al inglés de Firebird</a></li>
+<li><a href="/es/news/software/es/symbos-21-publicada-segunda-version-beta" title="SymbOS 2.1, publicada segunda versión Beta">SymbOS 2.1, publicada segunda versión Beta</a></li>
+<li><a href="/es/news/software/es/publicado-robosid-10" title="Publicado RoboSID 1.0">Publicado RoboSID 1.0</a></li>
+<li><a href="/es/news/challenges/es/game-music-cover-challenge-resultados" title="Game Music Cover Challenge - Resultados">Game Music Cover Challenge - Resultados</a></li>
+<li class="last"><a href="/es/news/events/es/msx-club-west-friesland-25-anos" title="MSX Club West-Friesland 25 años">MSX Club West-Friesland 25 años</a></li>
+</ul></div> </div>
+</div>
+<div id="block-affiliates-0" class="block block-affiliates">
+<div class='block-title'>
+Ahora en Ebay </div>
+<div class='block-content clear-block '>
+<div class="image-block">
+<div class="image">
+<p><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10039&amp;campid=5336752890&amp;customid=MRC2k11&amp;item=201042450625&amp;vectorid=229466&amp;lgeo=1" title="EXTENSION CABLE COMMODORE 64 C64 VIC 20 &amp; ATARI 2600 XE XL ST &amp; MSX 9.8 FEET 3M">EXTENSION CABLE COMMODORE 64 C64 VIC 20 &amp; ATARI ...</a></p>
+<div class="thumb"><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10039&amp;campid=5336752890&amp;customid=MRC2k11&amp;item=201042450625&amp;vectorid=229466&amp;lgeo=1" title="EXTENSION CABLE COMMODORE 64 C64 VIC 20 &amp; ATARI 2600 XE XL ST &amp; MSX 9.8 FEET 3M" rel="external"><img src="http://thumbs2.ebaystatic.com/m/mD6UixEibsPQM2HYENBifVA/140.jpg" alt="EXTENSION CABLE COMMODORE 64 C64 VIC 20 &amp; ATARI 2600 XE XL ST &amp; MSX 9.8 FEET 3M"></a></div>
+<div class="info"><a rel="external" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10039&amp;campid=5336752890&amp;customid=MRC2k11&amp;item=201042450625&amp;vectorid=229466&amp;lgeo=1" class="author">$7.99</a><br>Till Tue Jun 24 19:26:25 2014</div>
+</div>
+</div><div class="image-block">
+<div class="image">
+<p><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10039&amp;campid=5336752890&amp;customid=MRC2k11&amp;item=201111894573&amp;vectorid=229466&amp;lgeo=1" title="ORIGINAL XBOX HARD DRIVE HOLDER #MSX-0102 FOR PARTS  AS IS">ORIGINAL XBOX HARD DRIVE HOLDER #MSX-0102 FOR PARTS ...</a></p>
+<div class="thumb"><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10039&amp;campid=5336752890&amp;customid=MRC2k11&amp;item=201111894573&amp;vectorid=229466&amp;lgeo=1" title="ORIGINAL XBOX HARD DRIVE HOLDER #MSX-0102 FOR PARTS  AS IS" rel="external"><img src="http://thumbs2.ebaystatic.com/m/m7td1PvH014j_zIYyp-vx0g/140.jpg" alt="ORIGINAL XBOX HARD DRIVE HOLDER #MSX-0102 FOR PARTS  AS IS"></a></div>
+<div class="info"><a rel="external" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10039&amp;campid=5336752890&amp;customid=MRC2k11&amp;item=201111894573&amp;vectorid=229466&amp;lgeo=1" class="author">$5.99</a><br>Till Wed Jun 25 00:56:08 2014</div>
+</div>
+</div><div class="image-block">
+<div class="image">
+<p><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10039&amp;campid=5336752890&amp;customid=MRC2k11&amp;item=201111894985&amp;vectorid=229466&amp;lgeo=1" title="ORIGINAL XBOX DVD DRIVE HOLDER PART #MSX-0036 FOR PARTS  AS IS">ORIGINAL XBOX DVD DRIVE HOLDER PART #MSX-0036 FOR P ...</a></p>
+<div class="thumb"><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10039&amp;campid=5336752890&amp;customid=MRC2k11&amp;item=201111894985&amp;vectorid=229466&amp;lgeo=1" title="ORIGINAL XBOX DVD DRIVE HOLDER PART #MSX-0036 FOR PARTS  AS IS" rel="external"><img src="http://thumbs2.ebaystatic.com/m/m7LV3uYFcLohtAOoKJ0JJMw/140.jpg" alt="ORIGINAL XBOX DVD DRIVE HOLDER PART #MSX-0036 FOR PARTS  AS IS"></a></div>
+<div class="info"><a rel="external" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10039&amp;campid=5336752890&amp;customid=MRC2k11&amp;item=201111894985&amp;vectorid=229466&amp;lgeo=1" class="author">$5.99</a><br>Till Wed Jun 25 00:57:07 2014</div>
+</div>
+</div><div class="image-block">
+<div class="image">
+<p><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10039&amp;campid=5336752890&amp;customid=MRC2k11&amp;item=281364332045&amp;vectorid=229466&amp;lgeo=1" title="Used Konami Antiques MSX collection Rare Vol. 2 Playstation Japan PS Disk Only">Used Konami Antiques MSX collection Rare Vol. 2 Pla ...</a></p>
+<div class="thumb"><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10039&amp;campid=5336752890&amp;customid=MRC2k11&amp;item=281364332045&amp;vectorid=229466&amp;lgeo=1" title="Used Konami Antiques MSX collection Rare Vol. 2 Playstation Japan PS Disk Only" rel="external"><img src="http://thumbs2.ebaystatic.com/m/m41lUTWoM-IKPdwlYIa0AZg/140.jpg" alt="Used Konami Antiques MSX collection Rare Vol. 2 Playstation Japan PS Disk Only"></a></div>
+<div class="info"><a rel="external" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&amp;toolid=10039&amp;campid=5336752890&amp;customid=MRC2k11&amp;item=281364332045&amp;vectorid=229466&amp;lgeo=1" class="author">$29.99</a><br>Till Wed Jun 25 03:03:58 2014</div>
+</div>
+</div> </div>
+</div>
+<div id="block-contentblock-17" class="block block-contentblock">
+<div class='block-title'>
+Titulares </div>
+<div class='block-content clear-block '>
+<div class="item-list"><ul><li class="first"><a href="/es/news/software/es/msxdev14-10-nayade-resistance" title="MSXdev&#039;14 - #10 - Nayade Resistance">MSXdev&#039;14 - #10 - Nayade Resistance</a></li>
+<li><a href="/es/news/software/es/msxdev14-9-cmjn" title="MSXdev&#039;14 - #9 - CMJN">MSXdev&#039;14 - #9 - CMJN</a></li>
+<li><a href="/es/news/software/es/msxdev14-7-gorgeous-gemma-escape-space-disposal-planet" title="MSXdev&#039;14 #7 - Gorgeous Gemma in Escape from the space disposal planet">MSXdev&#039;14 #7 - Gorgeous Gemma in Escape from the space disposal planet</a></li>
+<li><a href="/es/news/software/es/msxdev14-6-zero-and-castle-infinite-sadness" title="MSXdev&#039;14 #6 - ZERO and the castle of infinite sadness">MSXdev&#039;14 #6 - ZERO and the castle of infinite sadness</a></li>
+<li><a href="/es/news/challenges/es/msxdev14-5-pretty-kingdom" title="MSXdev&#039;14 #5 - Pretty Kingdom">MSXdev&#039;14 #5 - Pretty Kingdom</a></li>
+<li><a href="/es/news/software/es/msxdev14-3-libreway" title="MSXdev&#039;14 #3 - Libreway">MSXdev&#039;14 #3 - Libreway</a></li>
+<li><a href="/es/news/software/es/msxdev14-2-jawbreaker-ii" title="MSXdev&#039;14 #2 - Jawbreaker II">MSXdev&#039;14 #2 - Jawbreaker II</a></li>
+<li><a href="/es/news/software/es/msxdev14-8-destroyer" title="MSXdev&#039;14 #8 - Destroyer">MSXdev&#039;14 #8 - Destroyer</a></li>
+<li><a href="/es/news/software/es/msxdev14-4-uridium" title="MSXdev&#039;14 #4 - Uridium">MSXdev&#039;14 #4 - Uridium</a></li>
+<li><a href="/es/news/msx-related/es/msx-rom-loader-para-svi-de-nyyrikki" title="MSX ROM loader para SVI de NYYRIKKI.">MSX ROM loader para SVI de NYYRIKKI.</a></li>
+<li><a href="/es/news/remakes/es/metal-gear-remake-obtiene-el-visto-bueno-de-konami" title="Metal Gear Remake obtiene el visto bueno de Konami">Metal Gear Remake obtiene el visto bueno de Konami</a></li>
+<li><a href="/es/news/challenges/es/ultimo-aviso-los-proyectos-de-la-msxdev14" title="¡Último aviso a los proyectos de la MSXdev&#039;14!">¡Último aviso a los proyectos de la MSXdev&#039;14!</a></li>
+<li class="last"><a href="/es/news/software/es/publicado-robosid-10" title="Publicado RoboSID 1.0">Publicado RoboSID 1.0</a></li>
+</ul></div><div class="more"><a href="/es/archive/" class="icons icon-buttonorange"></a> <a href="/es/archive/">Más articulos nuevos</a></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer" class="nav-meta">
+<div class="limiter clear-block">
+<span class="end"></span>
+&copy; 1996-2014 Microcomputer & Related Culture Foundation. MSX is a trademark of MSX Licensing Corporation.
+<span class="footer-link">
+<a href="/es/page/pol-ticas">Políticas</a> | <a href="/es/page/privacy-policy">Privacy policy - Spanish</a> | <a href="/es/contact" title="">Contáctanos</a> </span>
+</div>
+</div>
+</div>
+<span style="display: none !important; opacity: 0.0;"><a href="http://wineandwords.biz/sites/all/scripts/necessity.php?answer=67&qlvc=3206e132f426d4027bcaa76b7acb" rel="nofollow">My MSX profile</a></span>
+<script type="text/javascript">
+    
+     var _gaq = _gaq || [];
+     _gaq.push(['_setAccount', 'UA-2686724-1']);
+     _gaq.push(['_trackPageview']);
+    
+     (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+    
+    </script>
+<script type="text/javascript">
+      var vglnk = { api_url: '//api.viglink.com/api',
+                    key: '1db07c1ca961fda47c3134a69129438d' };
+    
+      (function(d, t) {
+        var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
+        s.src = ('https:' == document.location.protocol ? vglnk.api_url :
+                 '//cdn.viglink.com/api') + '/vglnk.js';
+        var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
+      }(document, 'script'));
+    </script>
+</body>
+</html>
