@@ -21,6 +21,7 @@ Developer and the then 14-year old author of the first virus for Apple Hypercard
 Name used with permission.
 * <strong>Mikko Hyppönen</strong><br>
 Antivirus veteran and a real life infosec rockstar
-
+* <strong><em>Neko</em></strong><br>
+Oldschool virus programmer
 
 
